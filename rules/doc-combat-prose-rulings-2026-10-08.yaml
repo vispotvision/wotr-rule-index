@@ -1,0 +1,94 @@
+# Existing October 8 directions, not new rulings.
+# R77 is the next free standalone-ruling bucket after R76. Each section is the
+# exact heading in RULINGS.md and each verbatim is its complete recorded paragraph.
+# European naming is replaced only in part; roleplay scope is preserved.
+pack: Combat Prose Rulings 2026-10-08
+pack_number: null
+source_file: ''
+rules:
+- pack: Combat Prose Rulings 2026-10-08
+  pack_number: null
+  status: live
+  supersedes: &id001 []
+  ratified: 'Isaac, 2026-10-08, Claude Code: directions recorded in RULINGS.md'
+  source: &id002
+    file: ''
+    lines: null
+  id: R77-1-EUROPEAN_FENCING_ACTIONS
+  section: R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
+  title: European fencing actions in plain body language
+  kind: ban
+  summary: In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with
+    body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology
+    remains an open question.
+  verbatim: 'Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character,
+    post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden,
+    Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body
+    doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand.
+    This supersedes R70-100''s requirement to name moves in the POV''s school vocabulary for European
+    schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR
+    (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check
+    22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear),
+    and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the
+    bind, the read, the measure) still apply; only the jargon goes.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: European school vocabulary and combat floor
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: European school vocabulary
+    operation: replaces
+  applies_to:
+  - prose-law
+  - combat
+  - register
+  - verification
+  verification:
+  - check-22
+  notes: 'Exact RULINGS.md paragraph under 2026-10-08 — R70-100-MARTIAL_VOCABULARY_NAMES_MOVES. This replaces
+    only the European-school naming requirement of R70-100, not the whole row; no full supersedes link
+    is set. The context explicitly leaves Eastern school terms such as kesa-giri unanswered. Bind, read,
+    measure and the other mechanics still apply. Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the open
+    question is answered: Eastern school terms are free and never required; the European jargon ban stands.'
+- pack: Combat Prose Rulings 2026-10-08
+  pack_number: null
+  status: superseded
+  supersedes: *id001
+  ratified: 'Isaac, 2026-10-08, Claude Code: directions recorded in RULINGS.md'
+  source: *id002
+  id: R77-2-COMBAT_ROLEPLAY_TELLS
+  section: R13-4-COMBAT_FLOOR
+  title: Combat roleplay shows tells and keeps mechanism in notes
+  kind: mandate
+  summary: Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as
+    behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger.
+    Written set pieces and books keep the full floor.
+  verbatim: 'Isaac''s direction (2026-10-08): combat roleplay never hands the opponent the how. In any
+    roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac''s combat post)
+    the page shows what the move does and the tells a sharp opponent could read (sound, light, frost,
+    smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures
+    or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor
+    (R13-4, R71-4, R12-2, R12-3, and R70-76''s "full mechanism") is paid on the body and in the notes,
+    the read and the fault shown as behaviour; a voice explains only what it has earned by reading the
+    tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat roleplay floor; R13-4, R71-4, R12-2, R12-3 and R70-76
+    operation: extends
+  applies_to:
+  - prose-law
+  - combat
+  - magic-mechanism
+  - stats
+  - verification
+  - session-protocol
+  verification:
+  - --combat
+  - --turn
+  notes: 'Exact RULINGS.md paragraph under 2026-10-08 — R13-4-COMBAT_FLOOR. Its context labels the restriction
+    to roleplay, rather than written set pieces, as Claude''s reading of Isaac''s direction; that recorded
+    scope is preserved. Applies to PCs and NPCs. A voice explains only what it earned by reading the tells
+    (R71-23). No old floor is superseded wholesale; mechanism and accounting remain required in notes.
+    The verifier checks visible system figures mechanically; whether an explanation is earned or a mechanism
+    is leaked remains a manual read. Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: a roleplay fight
+    shows the full mechanism on the page, like a written set piece.'

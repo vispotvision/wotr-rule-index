@@ -236,7 +236,7 @@ rules:
   pack_number: null
   section: K9
   title: The Word files are the conversion base; wiki pages are regenerated condensations
-  status: live
+  status: superseded
   kind: procedure
   summary: Convert the five texts from the Word files in first person throughout, then rewrite the wiki
     Codex pages as condensations of the new text that keep their chapter subheads and residue table.
@@ -258,13 +258,15 @@ rules:
     file: ''
     lines: null
   notes: 'Stands: the converted texts are in-world documents, where R70-12-FIRST_PERSON (style law 2026-10-03)
-    keeps first person.'
+    keeps first person.
+    Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order; the
+    conversion is done.'
 - id: R61-10-CONVERSION_IS_FULL_REBUILD
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
   section: K10
   title: The alchemy conversion is a full rebuild around the new authors
-  status: live
+  status: superseded
   kind: procedure
   summary: Rethink structure, events and cast around Mu-jin, Malphas and the new Papers author, and treat
     the old texts as source notes only.
@@ -283,7 +285,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order; the conversion
+    is done.'
 - id: R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2719,7 +2722,7 @@ rules:
   pack_number: null
   section: EC2
   title: No Draft refills a reserve
-  status: live
+  status: superseded
   kind: ban
   summary: Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical
     treatment' means speeding Wellspring recovery, not supplying EU.
@@ -2741,8 +2744,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: restates R2-6-REPLENISHMENT_RULE; corrects the Tier Ladders' Drafts ladder, Mnemonis Solution's
-    sizing and the Essence Ledger's 'alchemical treatment'
+  notes: 'restates R2-6-REPLENISHMENT_RULE; corrects the Tier Ladders'' Drafts ladder, Mnemonis Solution''s
+    sizing and the Essence Ledger''s ''alchemical treatment''
+    Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a fight Draft refills reserve and the crash
+    pays for it.'
 - id: R61-102-BENCH_TIERS_CAP_ALCHEMISTS
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2804,7 +2809,9 @@ rules:
     lines: null
   notes: 'adds a Drafts profile beside Part Fifteen''s profiles; filed through propose_rule for ratification.
     Agent ruling C-139 (2026-10-13): the Core governs a Draft''s fidelity and alignment; the Attraction
-    Layer its vein cost and reach.'
+    Layer its vein cost and reach.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no ratification wait: the profile stands as
+    canon on use, and Isaac may strike it.'
 - id: R61-104-REAL_ALCHEMY_PAGE_WRITTEN
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2832,7 +2839,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: supplies the third source that R18-5-ALCHEMY_SOURCE_ORDER names
+  notes: 'supplies the third source that R18-5-ALCHEMY_SOURCE_ORDER names
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: clean-up: the page is written and published
+    and stands as R18-5''s third source, with no ratification wait.'
 - id: R61-105-PARACELSUS_DOSE_AND_PALSY
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -3455,7 +3464,7 @@ rules:
   pack_number: null
   section: ME1
   title: The Necrocursica and the Papers are published under The Alftian Codex
-  status: live
+  status: superseded
   kind: procedure
   summary: Both converted texts become wiki pages beside the three Codex volumes, so the section holds
     five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world
@@ -3476,7 +3485,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: grows the INDEX's Alftian Codex section from three pages to five
+  notes: 'grows the INDEX''s Alftian Codex section from three pages to five
+    Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order; the five
+    pages are published.'
 - id: R61-128-CODEX_RENAMES_REGISTERED
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -3510,7 +3521,7 @@ rules:
   pack_number: null
   section: ME3
   title: Convert the five texts in citation order, one per commit
-  status: live
+  status: superseded
   kind: procedure
   summary: Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, one document
     per commit, so no text is converted before the texts it quotes.
@@ -3530,13 +3541,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order.'
 - id: R61-130-CONVERTED_TEXTS_OUTPUT
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
   section: ME4
   title: Converted texts go to Notion and to new docx files beside the originals
-  status: live
+  status: superseded
   kind: procedure
   summary: Publish each converted text as a Notion page in-session for the sync to mirror, and save a
     new docx next to Isaac's originals, which are never overwritten.
@@ -3556,7 +3567,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order, and Notion
+    is retired.'
 - id: R61-131-IMPERIAL_AGE_BEGINS_NOW
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null

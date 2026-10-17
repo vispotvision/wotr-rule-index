@@ -60,6 +60,8 @@ rules:
       calling-names and the comic bynames servants and rival Lines coin behind
       new cadets' backs are listed in the comic-name bank of the Moto Standing
       Inventory (R70-131-COMIC_NAMES_GET_MADE); no carded Moto is touched.
+      Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the element bank is
+      reference; a name only has to sound right for its culture.
 
   - id: R40-2-CELESTIAL_HOST_NAMING_PASS
     pack: Naming Banks 2026-09-13

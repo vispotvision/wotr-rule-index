@@ -105,7 +105,9 @@ rules:
     is still designed for every Trait but shows on the page only where it reads naturally. The belief
     still exists in the design, so the Shear Break counter stands (Part Twenty). R75-16-WHO_WRITES_PC_TRAIT
     and R75-18-HOW_TRAIT_EVOLVES stand. R47-3-COUNTERS_AS_FACTS stands: counters and tells are stated
-    as facts.'
+    as facts.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: cost and counter are always in the paragraph;
+    limit and tell where they exist.'
 - id: R76-4-PARAGRAPH_IS_PAGE
   pack: Ability Format 2026-10-05
   pack_number: null
@@ -134,10 +136,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Q6 (recommended). Supersedes R47-2-FIELD_FORMAT; the Design Chain and six-line card it retired
+  notes: 'Q6 (recommended). Supersedes R47-2-FIELD_FORMAT; the Design Chain and six-line card it retired
     stay retired. Author notes (the Phenomenon line, sources) stay in chat and never reach the page,
     as before. R75-25-ONE_CARD_SHAPE stands for the card head, which names each ability with its tell
     and counter.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: the page is the wiki page (Notion is
+    retired).'
 - id: R76-5-CONVERT_WHEN_TOUCHED
   pack: Ability Format 2026-10-05
   pack_number: null

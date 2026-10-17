@@ -70,6 +70,8 @@ rules:
       ugly milk-names (R70-125-PEOPLES_EASTERN_STRATA); they are listed in the
       comic-name bank of the Standing Inventory that carries the Mahuo
       (R70-131-COMIC_NAMES_GET_MADE).
+      Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the element bank is
+      reference; a name only has to sound right for its culture.
 
   - id: R37-2-YUKARI_ELEMENT_INVENTORY
     pack: Naming Guide Amendment / Element Inventories

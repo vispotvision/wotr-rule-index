@@ -101,7 +101,9 @@ rules:
     out translated forms only at ceremony, challenge, oath, court and insult. Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS
     (techniques law 2026-10-04): the voice block gains three slots: speaker type (the researched real-world
     model), chant tongue (the tongue his chants and release calls run in) and lying tell (what his body
-    does when he lies or withholds). The ten slots stand.'
+    does when he lies or withholds). The ten slots stand.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the voice block is a menu; a sample line and
+    the speaker type are required.'
 - id: R52-04-CONTRACTIONS
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -218,7 +220,10 @@ rules:
     lines: null
   notes: 'Question c07: Dialogue is now mostly untagged, so the tags-covered sort test carries the weight.
     There is a measurement too: the fingerprint report scores how swappable two speakers are (Hild/Darius
-    0.07, Muken/Kuj'
+    0.07, Muken/Kuj
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up merge: carries
+    R19-5-SORT_BY_SPEAKER_TEST; lines a stranger could not sort by speaker with the tags covered
+    fail the scene.'
 - id: R52-08-PC_IDIOM
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -275,13 +280,15 @@ rules:
   notes: 'Question c09: In a written scene (not a roleplay turn) you give a beat without words: "Sodoku
     tells Osric the road is closed." May the partner write the words he says? Extended by R72-19-NEW_LINES_HIS_POSTS
     (table law 2026-10-04): the drafted, marked line now reaches the Discord posts Natalie writes from
-    Isaac''s beat, not only written scenes; he keeps, changes or cuts it before he posts.'
+    Isaac''s beat, not only written scenes; he keeps, changes or cuts it before he posts.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the draft mark is struck: Natalie writes
+    the line in his character''s voice, and his post or rewrite wins.'
 - id: R52-10-CROSSOVER
   pack: Voice Law 2026-09-26
   pack_number: null
   section: Isaac's own characters
   title: Crossover
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Isaac''s POV characters are always his: when one walks into another''s thread, the partner
     leaves their lines and choices open.'
@@ -303,7 +310,10 @@ rules:
     lines: null
   notes: 'Question c10: You play several points of view: Sodoku (Kharven), Hild (Kharven-Seat), Kwon (Hon-guk),
     Ilthara (New World). When one of them walks into another''s thread (Sodoku in a Hild scene), who speaks
-    for him?'
+    for him?
+    Superseded 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: Natalie may write his PC (R79-1), so
+    his characters'' lines and choices are no longer left open in another thread; his post or
+    rewrite wins.'
 - id: R52-11-ILTHARA
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -719,7 +729,9 @@ rules:
     lines: null
   notes: 'Question c25: The live rule says human speech under stress gets shorter and simpler, the same
     way in everyone. Several cards say the opposite: Kwon over-explains, Cozbi speeds up, Yoko gets more
-    precise, Darius goe'
+    precise, Darius goe
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the card decides: the shortening is not forced
+    on every named human.'
 - id: R52-26-GRIEF
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -775,7 +787,9 @@ rules:
     lines: null
   notes: 'Question c27: The cast is guarded, and nothing says what a guarded voice sounds like when it''s
     happy. What''s the default? Stands; R70-114-GRIMDARK_WARMTH (style law 2026-10-03) lets joy get scenes
-    of its own, and R70-115-TEARS_SENTIMENT''s delayed break leaves this rule unchanged.'
+    of its own, and R70-115-TEARS_SENTIMENT''s delayed break leaves this rule unchanged.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: emotion plays anime-big by default; a
+    guarded voice holds only where the card says so.'
 - id: R52-28-COMPOSURE
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -842,7 +856,7 @@ rules:
   pack_number: null
   section: NPC voices the partner builds
   title: Proverbs
-  status: live
+  status: superseded
   kind: mandate
   summary: Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's
     texture.
@@ -868,7 +882,9 @@ rules:
     gains four-beat idioms, told once by an elder and then used bare in narration or speech; the one fixed
     saying per NPC stands. Partly amended by R70-109-PROVERBS_SPEECH (style law 2026-10-03): ''one'' becomes
     ''several'' for elders, headmen and court speakers, who may argue in sayings at bargain, quarrel and
-    council; the young speak plain, and a youth who quotes above his years is put down for it.'
+    council; the young speak plain, and a youth who quotes above his years is put down for it.
+    Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: a recurring catchphrase or saying comes only
+    where a card gives one.'
 - id: R52-31-COMIC_NPC
   pack: Voice Law 2026-09-26
   pack_number: null

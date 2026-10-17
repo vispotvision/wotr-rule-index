@@ -43,6 +43,8 @@ rules:
       "The Büri hold one seat" is superseded in naming terms by the Moto
       Reversion Ledger (R22): the house is now the Moto bloodline, the
       seat itself (Kharven) is unaffected by the name reversion.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: Büri reads
+      as Moto (R22); the sweep is retired from the nightly job (R79-12).
 
   - id: R21-1-BURI_ORIGIN_RULING
     pack: Canon Amendment, Agamalu and Büri Origin
@@ -69,6 +71,8 @@ rules:
       Retitled "The Moto Origin, The Western Reach" per the Moto Reversion
       Ledger's Notion title list (R22); the location fact carries forward
       unchanged under the new name.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: Büri reads
+      as Moto (R22); the sweep is retired from the nightly job (R79-12).
 
   - id: R21-1-AGAMALU_HOMELAND_RULING
     pack: Canon Amendment, Agamalu and Büri Origin
@@ -289,6 +293,8 @@ rules:
       not the earlier Mongolian ones — this document is internally mixed,
       using "Büri" for the house/individuals but already using the
       reverted line names in this specific passage.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: Büri reads
+      as Moto (R22); the sweep is retired from the nightly job (R79-12).
 
   - id: R21-4-RUIN_OPEN_RULING
     pack: Canon Amendment, Agamalu and Büri Origin

@@ -21,7 +21,7 @@ rules:
     pack_number: null
     section: "The three registers"
     title: Three narration distances define psychic distance per POV character
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Every POV character carries one of three narration distances — close
@@ -89,13 +89,16 @@ rules:
       in CONFLICTS.md. The published text is docs/NARRATION_DISTANCES.md
       (repo) and the Notion page "Narration Distances — Psychic Distance by
       POV" under The Rule Index, recorded in build/.notion_publish.json.
+      Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: narration sounds
+      like the POV's own reach, close by default; per-character distances
+      retire.
 
   - id: R35-2-NARRATION_DISTANCE_ASSIGNMENTS
     pack: Narration Distances (Psychic Distance by POV)
     pack_number: null
     section: "Close register / Medium register / Distant-formal register / Unassigned"
     title: Narration register assignments for the major POV cast
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran
@@ -153,3 +156,5 @@ rules:
       family; a "§C.3" cross-reference that lives in pack-15, not pack-05)
       stay in proposals/psychic_distance_bands_draft.md and are not craft
       law.
+      Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: per-character
+      narration distances retire; narration is close by default.

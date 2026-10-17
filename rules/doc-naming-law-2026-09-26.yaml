@@ -280,7 +280,7 @@ rules:
   pack_number: null
   section: Techniques, arts and items
   title: Long names
-  status: live
+  status: superseded
   kind: mandate
   summary: 'New English technique names are short: two words at most, no stacked modifiers.'
   verbatim: 'New English technique names are short: two words at most, no stacked modifiers.'
@@ -302,7 +302,8 @@ rules:
     new English names only, so a hall art''s four-syllable true name in Chinese or Korean sits outside
     it; this rule stands. Stands for technique names, as R70-128-PLACES_INNS_SHIPS_GEAR says (style law
     2026-10-03); the comic folk names R70-128 allows belong to inns and shops, places, vessels and engines,
-    and weapons and gear, never to techniques.'
+    and weapons and gear, never to techniques.
+    Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the technique-name word cap retires.'
 - id: R50-12-COINED_LATIN
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -589,7 +590,8 @@ rules:
   notes: 'Question n22: People''s names follow institution, never geography. Nothing says how a place
     is named. Which rule should places follow? Extended by R70-128-PLACES_INNS_SHIPS_GEAR (style law 2026-10-03):
     the commons'' comic names for streets, fords and districts sit beside the official ones, one per culture;
-    the Accord''s Latin name stays grave.'
+    the Accord''s Latin name stays grave.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: a place''s names are added as they are used.'
 - id: R50-23-DOUBLETS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -616,7 +618,9 @@ rules:
   notes: 'Question n23: Every craft term has an Accord Latin name and a common-tongue name, and the choice
     marks class (R20C-46). Does that doublet stretch to factions, schools and places? Stands; the Accord''s
     Latin place name stays grave beside any comic folk name (R70-128-PLACES_INNS_SHIPS_GEAR, style law
-    2026-10-03).'
+    2026-10-03).
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: doublets are added when used, not owed for
+    everything.'
 - id: R50-24-SCHOOL_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -641,7 +645,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question n24: How should a fighting or magic school be named (a Dawi forge-school, a Moto sword
-    lineage, a Concord academy)?'
+    lineage, a Concord academy)?
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: a school''s true name is added when used.'
 - id: R50-25-WELLSPRINGS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -664,7 +669,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question n25: The Sixty Wellsprings have fixed names (Pyreveil, Exuroth). When a local people
-    knows a Wellspring, may they call it by their own name for it?'
+    knows a Wellspring, may they call it by their own name for it?
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: folk names are recorded when used.'
 - id: R50-26-CHANT_TONGUE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -723,7 +729,7 @@ rules:
   pack_number: null
   section: Naming things mid-scene
   title: New words
-  status: live
+  status: superseded
   kind: mandate
   summary: A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon
     only if Isaac reuses it.
@@ -748,7 +754,9 @@ rules:
     scene; the Words entry holds a culture''s standing words. Read with R70-36-CHECKER_ENFORCES (style
     law 2026-10-03): words in no culture bank are listed by the checker for the scene log. Unchanged by
     R70-131-COMIC_NAMES_GET_MADE (style law 2026-10-03), whose comic names coined live are checked at
-    scene end under R50-30-BANK_OR_EAR.'
+    scene end under R50-30-BANK_OR_EAR.
+    Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: a coinage stands as canon once in an
+    archived scene, and he may strike it.'
 - id: R50-29-COLLISION
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -801,7 +809,9 @@ rules:
     every time, or can they name by ear and fix it later? Amended in one line by R70-131-COMIC_NAMES_GET_MADE
     (NM13, as R70-132-FAR_NAMING_LAW_BENDS directs; style law 2026-10-03): comic names coined by ear pass
     the scene-end check as outliers so long as they keep their culture''s sound rules, and any that break
-    them are flagged.'
+    them are flagged.
+    Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the end-of-scene name check goes; a name only
+    has to sound right for its culture, and the banks are reference.'
 - id: R50-31-SCRIPT_SHOWN
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -900,4 +910,6 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n34: Should character cards and place pages carry a pronunciation line (KOH-kahn)?'
+  notes: 'Question n34: Should character cards and place pages carry a pronunciation line (KOH-kahn)?
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: say-lines are added when used, not owed on
+    every page.'

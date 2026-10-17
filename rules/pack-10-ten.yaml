@@ -77,7 +77,7 @@ rules:
     pack_number: 10
     section: "PART TWO"
     title: Category names default to workbook and Codex-line only
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Category names sit at Wellspring/Family register, not common tongue,
@@ -98,14 +98,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
       lines: "23"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: Category names are
+      free in trained mouths and POVs.
 
   - id: R10-2-CATEGORY_READ_EXCEPTION
     pack: Pack Ten
     pack_number: 10
     section: "PART TWO"
     title: The Apparatus Rule's one read may name a category instead
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       A scene's single diagnostic read (the Apparatus Rule's existing
@@ -139,6 +141,8 @@ rules:
       target (the Apparatus Rule itself) isn't identified by a specific
       Pack Six rule id yet — confirm and cross-reference once Pack Six is
       extracted.
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the one-read cap
+      retires; Category names are free in trained mouths and POVs (R79-9).
 
   - id: R10-3-PROJECTED_FORM_LICENSE
     pack: Pack Ten
@@ -327,7 +331,7 @@ rules:
     pack_number: 10
     section: "PART THREE"
     title: Splash-panel, read budget and ignorance quota still govern
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       A projected shape still counts toward the one splash-panel beat per
@@ -351,3 +355,6 @@ rules:
       Partly amended by R70-73-MANY_DISPLAY_BEATS_PER (style law 2026-10-03):
       the one splash-panel beat per scene becomes one per named practitioner
       per scene; the diagnostic-read and ignorance clauses stand.
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the display-beat
+      (splash) caps and the one-read cap retire, and the ignorance quota is
+      struck (R79-2).

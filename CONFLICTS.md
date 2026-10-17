@@ -1819,3 +1819,12 @@ the author notes."
 **Consequence if unresolved:** A scene cannot say how long Darius has been in the Plane of Fate by the road.
 **Recommendation:** none.
 **Status:** closed 2026-10-13, not a conflict (RULINGS.md, 2026-10-13 — C-160, C-161, C-162): the six weeks count from the ash at Sum-gol, which C-129 sets about six weeks before the road.
+
+## C-163: The Naming Guide Amendment's Concord given-names list says thirty names but lists forty
+
+**Rules:** R20-3-CONCORD_GIVEN_NAMES (source malformation, not a clash between rules)
+**The clash:** the source heading counts thirty given names (twenty male, twenty female, which is itself forty); the list under it carries forty.
+**Quotes:** R20-3 summary as extracted: "30 given names (20 male, 20 female)"
+**Consequence if unresolved:** none in play; names are by sound rules now (R79-7), and the list is reference.
+**Recommendation:** none.
+**Status:** recorded 2026-10-17; the index summary reads "40 given names", the source is untouched (sources/ is read-only).

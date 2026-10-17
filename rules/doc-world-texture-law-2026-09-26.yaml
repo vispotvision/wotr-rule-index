@@ -195,7 +195,9 @@ rules:
     lines: null
   notes: 'Extended by R70-48-MONEY_PRICE_PROVENANCE (style law 2026-10-03): every purchase,
     wage, fee and bribe on the page names its sum from the approved table, and payment in kind
-    is named as exactly.'
+    is named as exactly.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the approval wait is struck: the price table
+    in imports/drafts/price-table.md is approved and published as reference.'
 - id: R53-08-TRAVEL_RATES
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -251,7 +253,10 @@ rules:
   notes: 'Extended by R70-49-LANDSCAPE_SKY (style law 2026-10-03): every outdoor scene also
     gets one wide view in three planes, with the sky in it after dark; R70-41 puts seasons and
     weather in the rotation beyond this rule''s actual weather, and R70-61 gives season words
-    a mood. This rule stands.'
+    a mood. This rule stands.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: weather in every outdoor scene becomes a
+    tool used when it matters; the State of Play is retired (R79-8), so the date comes from the last
+    archived scene.'
 - id: R53-10-MEDICINE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -335,7 +340,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: Standing Inventories owe no fields; literacy
+    is set where it is needed.'
 - id: R53-13-FAITH
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -424,7 +430,9 @@ rules:
     liar''s tell. The row stands. Extended by R74-30-DEAD_FOLK_BELIEF (mystery law 2026-10-04): when
     a folk belief about the dead meets the dead, events may show where it holds and where it fails,
     each traced in the notes to canon mechanism; the people keep their reading, and the narration
-    still never corrects them. This row stands.'
+    still never corrects them. This row stands.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: Standing Inventories owe no fields; folk
+    beliefs are reference, still never corrected by narration.'
 - id: R53-16-GUILD_WORDS
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -478,7 +486,9 @@ rules:
     on the page is named; money before magic stands. Read with R70-91-BREAKTHROUGH_PAGE (style
     law 2026-10-03): a breakthrough is written from the body inside its Catalyst crisis; the
     world-scale option (this row''s bill at scale) was not taken, and this row is unchanged
-    for any working on a main.'
+    for any working on a main.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the bill on an indoor working is a tool used
+    when it matters; money that changes hands is still named (R79-10).'
 - id: R53-18-AWE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -510,7 +520,7 @@ rules:
   pack_number: null
   section: World texture
   title: Quota
-  status: live
+  status: superseded
   kind: mandate
   summary: Every culture's signature-item quota is two per session, like Kharven's.
   verbatim: Every culture's signature-item quota is two per session, like Kharven's.
@@ -529,13 +539,15 @@ rules:
     lines: null
   notes: 'Kept by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): ''R53-19''s two
     signature items stay'', and each scene also adds one new subject. R70-58-CHECKING_RANGE
-    extends the signature-item count from Kharven to every Inventory.'
+    extends the signature-item count from Kharven to every Inventory.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the signature-item quota is gone for
+    every culture.'
 - id: R53-20-MISSING_INVENTORY
   pack: World Texture Law 2026-09-26
   pack_number: null
   section: World texture
   title: Missing Inventory
-  status: live
+  status: superseded
   kind: mandate
   summary: When a scene goes to a culture with no Standing Inventory, the partner drafts that
     Inventory from the wiki first (sourced), for Isaac's approval, then writes.
@@ -554,7 +566,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: a culture with no Standing Inventory
+    is written from the wiki and cards straight away.'
 - id: R53-21-CANON_GATE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -578,7 +591,9 @@ rules:
     file: ''
     lines: null
   notes: 'Applied by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): the one new subject
-    each scene adds is logged as canon under this rule.'
+    each scene adds is logged as canon under this rule.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: invented texture stands as canon once in an
+    archived scene, not once logged; he may strike it.'
 - id: R53-22-CAUSAL_TEST
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -609,7 +624,7 @@ rules:
   pack_number: null
   section: World texture
   title: Mixed Room
-  status: live
+  status: superseded
   kind: mandate
   summary: A mixed room layers every culture present in roughly equal measure.
   verbatim: A mixed room layers every culture present in roughly equal measure.
@@ -628,7 +643,9 @@ rules:
     lines: null
   notes: 'Noted by R70-60-COLOUR_AS_SYMBOL_PER and R70-63-WEAR_AGE_AS_BEAUTY (style law 2026-10-03):
     in a mixed room one colour or one worn object may carry each culture''s own reading; equal
-    layering stands.'
+    layering stands.
+    Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: a mixed room is led by the POV''s culture
+    and the others show through their people.'
 - id: R53-24-TEXTURE_AND_MECHANISM
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -771,7 +788,7 @@ rules:
   pack_number: null
   section: World texture
   title: Look Up
-  status: live
+  status: superseded
   kind: mandate
   summary: The partner looks up every world fact (wiki, Inventory, cards) rather than inventing
     it; gaps are flagged, not filled.
@@ -790,13 +807,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: Natalie invents texture, places, words
+    and minor people freely when nothing on file covers them; it stands as canon once archived and he
+    may strike it.'
 - id: R53-30-TEXTURE_DENSITY
   pack: World Texture Law 2026-09-26
   pack_number: null
   section: World texture
   title: Texture Density
-  status: live
+  status: superseded
   kind: mandate
   summary: Every beat carries at least one detail that could only exist in this world; sensory
     layers sit around it.
@@ -818,7 +837,9 @@ rules:
   notes: 'Kept by R70-53-WHERE_DESCRIPTION_SITS (style law 2026-10-03): texture stays woven
     through every beat, with the longer passages held for pauses, silences and aftermaths. R70-57-DESCRIPTION_INSIDE_FIGHT
     runs a fight''s exchanges lean and holds a passage of setting at the deciding moment; it
-    does not name this rule, which stands.'
+    does not name this rule, which stands.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: description is a toolbox with no
+    per-beat or per-scene minimums.'
 - id: R53-31-GONE_LIST
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -843,7 +864,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: Inventory entries carry no sizes; the
+    Gone list is reference.'
 - id: R53-32-TECH_BY_EAR
   pack: World Texture Law 2026-09-26
   pack_number: null

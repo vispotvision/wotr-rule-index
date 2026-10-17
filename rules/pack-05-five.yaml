@@ -130,7 +130,7 @@ rules:
     pack_number: 5
     section: "B"
     title: The Manhwa Energy Directive is struck in full
-    status: live
+    status: superseded
     kind: repeal
     summary: >-
       Personality vomiting, reaction shots as characterisation, loud
@@ -200,6 +200,8 @@ rules:
       give way for one witness's face before the thing in a horror beat, once a
       scene, and stay a tell everywhere else. The rest of this list stands as
       already re-ruled.
+      Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the pre-R78 tone
+      rules retire with this tell list; each character's own humour governs.
 
   - id: R5-B-FOIL_FUNCTION_SURVIVES
     pack: Pack Five
@@ -252,7 +254,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "42"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: deadpan is no longer
+      barred; each character's own humour governs, per the card.
 
   - id: R5-B-DECLARATION_TO_INFERENCE
     pack: Pack Five
@@ -547,7 +551,7 @@ rules:
     pack_number: 5
     section: "C.3"
     title: Per-culture narration registers, extended from dialogue
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Free indirect discourse's per-character register licence is raised to
@@ -592,6 +596,8 @@ rules:
       (style law 2026-10-03): how antique narration's words run (plain, period
       or archaic) is now law per culture, set in each Standing Inventory; the
       rest of this per-culture register is not named by the answer.
+      Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: narration sounds
+      like the POV's own reach, close by default, with the culture as flavour.
 
   - id: R5-D-HUMOUR_PERMITTED
     pack: Pack Five
@@ -631,6 +637,8 @@ rules:
       R70-122-MAY_CARRY_ONE puts comic names on villains and rivals (a comic
       name on a dangerous person), and R70-127-COMIC_NAME_GRIM_END turns a
       comic name to grief at a bad death.
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the Abercrombie register
+      retires; each character's own humour governs, fights included.
 
   - id: R5-D-HUMOUR_BARRED
     pack: Pack Five
@@ -1110,6 +1118,10 @@ rules:
       reaction-shot cutaway is re-ruled for one case more: in a horror beat one
       witness's face may come before the thing, once a scene. It stays a tell
       everywhere else, as do the other three tells here.
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the reaction-shot
+      cutaway tell retires except for a reaction shot that replaces showing
+      the event; declarative characterisation and narrator moral adjudication
+      stay tells.
 
   - id: R5-H-NARRATION_AUTHORITY_PENDING
     pack: Pack Five

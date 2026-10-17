@@ -32,6 +32,10 @@ rules:
       Extends Pack Sixteen's vocabulary-conversion principle (§1) from
       vocabulary to speech generally; not a supersession of Pack Sixteen,
       which is not named as struck or replaced anywhere in this pack.
+      Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: his dialogue is
+      set as written unless he asks for the post to be improved, and an
+      improvement is a free rewrite that keeps his intent (R79-4 keeps his
+      tense and person).
 
   - id: R19-2-PERMITTED_CORRECTIONS
     pack: Pack Nineteen
@@ -232,6 +236,9 @@ rules:
       Stands beside R70-111-LONG_FORMAL_SPEECH_CLIPPED (style law 2026-10-03),
       under which court cultures argue in long formal speeches at court as
       their normal register while Kharven, saga and soldier speech stay short.
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: stumbles, interruptions,
+      repetition and non-answers are a toolbox; the card decides how a person
+      speaks.
 
   - id: R19-4-REGISTER_UNDER_STRESS
     pack: Pack Nineteen
@@ -259,7 +266,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "91"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: not uniform: the card
+      decides how a person's speech moves under stress.
 
   - id: R19-4-COMPOSURE_COST
     pack: Pack Nineteen
@@ -367,13 +376,16 @@ rules:
       from characters established as inarticulate/young/exhausted/foreign,
       and uniform sentence length across a scene's speakers); kept as one row
       since they are one named ban, not five independently checked ones.
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the card decides how a
+      person speaks; the composure bans apply only to the young, the exhausted
+      and the inarticulate.
 
   - id: R19-5-SORT_BY_SPEAKER_TEST
     pack: Pack Nineteen
     pack_number: 19
     section: "§5"
     title: The cover-the-tags test is now a Pack Nineteen failure
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       If a stranger could not sort a scene's dialogue lines by speaker with
@@ -395,6 +407,8 @@ rules:
       Escalates the severity of the existing voice-differentiation test
       (compare R15-1-VOICE_DIFFERENTIATION) rather than replacing it; no
       supersedes link, since nothing is struck.
+      Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up: duplicate
+      merged into R52-07-SWAP_CHECK (cover the tags and sort by ear).
 
   - id: R19-7-CHECK40
     pack: Pack Nineteen
@@ -508,7 +522,7 @@ rules:
     pack_number: 19
     section: "§9"
     title: Standing task, fold amendments into base guides
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Fold Packs One through Nineteen into the base guides and retire the
@@ -524,4 +538,6 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "150"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent;
+      the packs are folded and the once-a-session ask retires.

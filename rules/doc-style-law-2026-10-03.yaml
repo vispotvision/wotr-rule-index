@@ -331,12 +331,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: K9. "R12-2 is rewritten" reaches what each register draws on (Naruto and Lord of the Mysteries
+  notes: 'K9. "R12-2 is rewritten" reaches what each register draws on (Naruto and Lord of the Mysteries
     give way to the strands named here); R12-2-TECHNICAL_REGISTER_DEF and R12-2-MYSTIC_REGISTER_DEF stay
     live, partly amended, because R70-76 in the same ruling has "R12-2 governs what the world does" and
-    "People's workings keep full mechanism". R12-2-REGISTER_TEST (chosen act Technical, already running
-    Mystic) and R48-10-MIXING stand. Works with R70-76 (the Mystic's law for what the world does) and
+    "People''s workings keep full mechanism". R12-2-REGISTER_TEST (chosen act Technical, already running
+    Mystic) and R48-10-MIXING stand. Works with R70-76 (the Mystic''s law for what the world does) and
     R70-3 (Western leads combat and injury).
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: in a fight the Technical register''s figures
+    live in mouths, never narration; narration may explain what a trained POV understands.'
 - id: R70-10-NARRATOR_STANCE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -402,7 +404,9 @@ rules:
     and R48-40-NPC_THOUGHTS gain this exception; R49-09-CUTAWAYS stands. Works with R70-106 (the battle
     cut between hill and ditch) and R70-72 (the crowd chorus in hearing). Partly amended by R71-47-SHOWING_SCALE
     (combat law 2026-10-04): the marked device reaches a top-ladder fight in a city, where at a marked
-    break one commoner in the street gets a short dip inside her head before the lock resumes.'
+    break one commoner in the street gets a short dip inside her head before the lock resumes.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: NPC thoughts are free in any mode, so the
+    roll call is a tool, not an exception to a lock; the name-three rule retires (R79-6).'
 - id: R70-12-FIRST_PERSON
   pack: Style Law 2026-10-03
   pack_number: null
@@ -428,8 +432,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: VO3. Sets person beside R49-02-TENSE (present for turns, past for scenes and books). R61-9's
+  notes: 'VO3. Sets person beside R49-02-TENSE (present for turns, past for scenes and books). R61-9''s
     first-person converted texts are documents and stay first person; R54-13 stands.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: an improvement of his post keeps the person
+    and tense he wrote in unless he asks for a conversion.'
 - id: R70-13-EPITHETS_NARRATION
   pack: Style Law 2026-10-03
   pack_number: null
@@ -454,8 +460,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: VO4. Extends R48-44-NAME_USE and keeps R49-10-EPITHETS' one-per-scene discipline. Works with
+  notes: 'VO4. Extends R48-44-NAME_USE and keeps R49-10-EPITHETS'' one-per-scene discipline. Works with
     R70-118 (honorifics in a close POV).
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: there is no epithet count; narration names
+    people the way the POV sees them.'
 - id: R70-14-KISHOTENKETSU
   pack: Style Law 2026-10-03
   pack_number: null
@@ -594,7 +602,9 @@ rules:
     ''Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade''.
     The break-off before payoff may not cut away from sex inside a scene, written or played; the other closes,
     and the break-off for any other beat, stand. Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: hooks
-    and cliffhangers are the default close for chapters and arcs.'
+    and cliffhangers are the default close for chapters and arcs.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: chapters and arcs close on a hook; a scene
+    may end on any concrete close, a pressing question included.'
 - id: R70-18-ARC_SHAPES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -664,12 +674,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: RH1. The two licences are RH1 options B (paired clauses) and C (one long climax sentence, "breaking
-    R4-14's landing rule"). Partly amends R48-06-RHYTHM_LAW, R4-14-RUN_RULE and R4-14-LANDING_RULE for
+  notes: 'RH1. The two licences are RH1 options B (paired clauses) and C (one long climax sentence, "breaking
+    R4-14''s landing rule"). Partly amends R48-06-RHYTHM_LAW, R4-14-RUN_RULE and R4-14-LANDING_RULE for
     set pieces; the one climax sentence also bends R4-14-CONJUNCTION_AUDIT, R4-14-CLAUSE_CAP_AT_BEAT and
-    R4-14-HARD_CEILINGS' payoff limit. R4-14-CHAIN_CEILING is not named and still holds (R70-56). Works
+    R4-14-HARD_CEILINGS'' payoff limit. R4-14-CHAIN_CEILING is not named and still holds (R70-56). Works
     with R70-15, which keeps the hit short and last under jo-ha-kyu; the climax sentence is the one licence
     against that, set pieces only.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: with the rhythm rules gone these licences
+    are moot; paired clauses and a long cumulative sentence are ordinary tools anywhere, with no
+    set-piece-only or once-a-scene limit.'
 - id: R70-20-PARAGRAPH_SHAPE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -697,7 +710,10 @@ rules:
     blocks at milestones). Partly amended by R74-26-DREAD_PACING (mystery law 2026-10-04): a horror scene''s
     one hard shock, a single sudden sight, may also run as a cluster of one-line paragraphs, beside the
     reveals, verdicts, notices and a fight''s last beats named here; one shock per horror scene at most.
-    Medium paragraphs stay the norm.'
+    Medium paragraphs stay the norm.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: paragraphs are developed, following the
+    mind''s movement, rather than ''medium''; a one-line paragraph stands wherever the movement
+    around it earns it, and R49-14''s shape check is gone.'
 - id: R70-21-CADENCE_CULTURE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -796,8 +812,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: RH5. The epigraph uses R51-33-DOC_REGISTER and R12-4-VOICE_FOUR_DOCUMENT; the verse check is
-    R70-136's verse marker. Sits beside R5-F-LIGHT_NOVEL_KEPT's fast entry.
+  notes: 'RH5. The epigraph uses R51-33-DOC_REGISTER and R12-4-VOICE_FOUR_DOCUMENT; the verse check is
+    R70-136''s verse marker. Sits beside R5-F-LIGHT_NOVEL_KEPT''s fast entry.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the epigraph need not be tested by the
+    chapter; all three heads are optional tools.'
 - id: R70-24-EASTERN_CONCEPT_WORDS_NARRATION
   pack: Style Law 2026-10-03
   pack_number: null
@@ -859,9 +877,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Keeps current law (R49-49-FOREIGN, R50-32-ITALICS, R51-15-FIRST_USE and R4-13-ZERO_BUDGET stand)
+  notes: 'Keeps current law (R49-49-FOREIGN, R50-32-ITALICS, R51-15-FIRST_USE and R4-13-ZERO_BUDGET stand)
     and adds the back-of-book glossary and the wiki terms page. R70-36-CHECKER_ENFORCES WARNs on an italicised
     loanword.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the glossary is built at book assembly.'
 - id: R70-26-LEARNED_TONGUES_BESIDE_LATIN
   pack: Style Law 2026-10-03
   pack_number: null
@@ -933,7 +952,9 @@ rules:
     WARNs on an archaic word outside its culture''s dial. Partly amended by R73-6-BED_WORDS_BY_CULTURE
     (intimacy law 2026-10-04): ''Narration keeps one crude English''. In explicit narration the words
     for the body are that one crude English whatever the POV culture''s dial; the dial governs the rest
-    of the narration as written.'
+    of the narration as written.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the culture is flavour, not law: narration
+    sounds like the POV''s own reach, close by default.'
 - id: R70-28-TRADE_SCIENCE_WORDS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -960,7 +981,10 @@ rules:
     file: ''
     lines: null
   notes: 'Confirms current law: R48-09-TECH_WORDS, R49-46-CHEMISTRY, R49-50-OWN_BODY, R16-8-CHECK30 and
-    R13-6-REAL_SCIENCE_VOCAB stand unchanged.'
+    R13-6-REAL_SCIENCE_VOCAB stand unchanged.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: system and science words are free in a
+    trained POV''s narration; a commoner''s narration keeps his own words. Amended 2026-10-17 by
+    R79-5-VOICE_AND_DIALOGUE: Check 30''s term-count floor retires.'
 - id: R70-29-UNITS_MEASURE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1015,7 +1039,9 @@ rules:
     lines: null
   notes: 'New house style; no earlier rule set it. Governs only how a figure is written: every figure
     still traces to a source (R12-5-NEVER_INVENT_NUMBER). Works with R70-82-NUMERALS_LADDER_RUNGS and
-    R70-36-CHECKER_ENFORCES, which WARNs on a digit where words are due.'
+    R70-36-CHECKER_ENFORCES, which WARNs on a digit where words are due.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: this is a style default, not a
+    count; the checker treats a digit as information, not a WARN.'
 - id: R70-31-CAPITALS_SYSTEM_TERMS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1113,7 +1139,9 @@ rules:
     its culture''s folk wrestling and fist words, and a POV raised in them names his moves in them. Partly
     amended by R74-39-SPIES_INFORMATION_TRADE (mystery law 2026-10-04): each service (the Watch, the Mother''s
     cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its
-    Inventory''s Words entry.'
+    Inventory''s Words entry.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: Inventory entries are reference with no
+    sizes and no draw-first order.'
 - id: R70-34-REAL_LANGUAGE_SWEARS_NARRATION
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1186,7 +1214,9 @@ rules:
     are R70-108-EASTERN_REGISTER_SPEECH_SOUNDS'' and R70-136-NEW_CHECKS_VERIFY_SCENE''s. Partly amended
     by R74-45-MYSTERY_CHECKS_VERIFY (mystery law 2026-10-04): a fourth stock family, cosmic stock (''unnameable'',
     ''eldritch'', ''indescribable'', ''unspeakable'', ''nameless dread''), joins the three here and FAILs
-    in narration; the Nameless day stays legal.'
+    in narration; the Nameless day stays legal.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the exact phrases listed stay banned, while bare
+    ''killing intent'' and qi rising or flaring are genre vocabulary.'
 - id: R70-36-CHECKER_ENFORCES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1263,9 +1293,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Partly amends R48-13-PERIOD_FEEL (modern words now in speech and italic thought), narrows R51-03-LIST_SLANG
+  notes: 'Partly amends R48-13-PERIOD_FEEL (modern words now in speech and italic thought), narrows R51-03-LIST_SLANG
     and R51-04-LIST_PSYCH to plain narration, and takes italic thought out of the R49-44-MODERN_FLAGS
-    checker list. Gamer words are R70-94-GAMER_SLANG's.
+    checker list. Gamer words are R70-94-GAMER_SLANG''s.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up merge: carries R48-13-PERIOD_FEEL;
+    characters may talk modern, and narration keeps a timeless register save system and science
+    words, free for a trained POV (R78-3, R79-4).'
 - id: R70-38-REASONING_SHOWS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1333,10 +1366,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Gives R49-07-EMOTIONS a register-level exception; elsewhere body first, then the POV's own word,
-    stands. Its 'R5-C2' is R5-C2-ELEGY_CONCRETE_THING, the section's live rule an image can obey (R5-C2-FLAT_DELIVERY
+  notes: 'Gives R49-07-EMOTIONS a register-level exception; elsewhere body first, then the POV''s own word,
+    stands. Its ''R5-C2'' is R5-C2-ELEGY_CONCRETE_THING, the section''s live rule an image can obey (R5-C2-FLAT_DELIVERY
     and R5-C2-ONE_PASSAGE_BUDGET are already superseded; R5-C2-IRREVERSIBLE_NOBODYS_FAULT defines the
     loss). Works with R70-1-BLEND_MODEL.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: emotion plays anime-big by default, felt and
+    thought through; the held image is an occasional device.'
 - id: R70-40-WIDE_DESCRIPTION_MUST_RANGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1365,7 +1400,9 @@ rules:
     file: ''
     lines: null
   notes: 'The rotation groups are R70-41, R70-42 and R70-43; R70-58 adds the census WARN. Sets range,
-    not amount: R48-02-DENSITY stands (R70-52).'
+    not amount: R48-02-DENSITY stands (R70-52).
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: description is a toolbox: the lead-and-two
+    in a brief is a tool, not owed, and the session-end flag for untouched groups retires.'
 - id: R70-41-LAND_LIVES_IT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1496,7 +1533,7 @@ rules:
   pack_number: null
   section: DS6
   title: New Standing Inventory fields
-  status: live
+  status: superseded
   kind: mandate
   summary: Every Standing Inventory gains fields for land, sky, seasons and living things (with temperature
     in the senses entry), for building, house plan, dress by rank and the street, for music, games and
@@ -1531,7 +1568,8 @@ rules:
     every Standing Inventory also gains a Courtship and Marriage field (the approach, the go-between,
     the gift or price, the vow, who may refuse, how a match ends, widowhood) and a Mores field written
     beside the law field (what the culture holds shameful and boasts of, nakedness and bathing, the pleasure
-    trade, what its law does to adultery and to rape). The fields here stand.'
+    trade, what its law does to adultery and to rape). The fields here stand.
+    Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: Standing Inventories owe no fields.'
 - id: R70-46-CRAFT_LABOUR_PAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1586,8 +1624,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Food and taste is a rotation group (R70-43); each culture's food sits in its Standing Inventory
+  notes: 'Food and taste is a rotation group (R70-43); each culture''s food sits in its Standing Inventory
     (R6-8-STANDING_INVENTORY_CATEGORIES).
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: description is a toolbox: serving order
+    and taste are tools, not owed whenever a meal is on the page.'
 - id: R70-48-MONEY_PRICE_PROVENANCE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1632,7 +1672,9 @@ rules:
     by a trained eye''; the rest of the item card, price included, waits for the counter or the aftermath.
     The price clause and the lineage clause otherwise stand. Partly amended by R71-91-ARMOUR_SUMS_PAGE
     (combat law 2026-10-04): a trained POV names both Tiers, the strike''s and the armour''s, in her read
-    before an exchange, so the Tier is on the page there without being asked.'
+    before an exchange, so the Tier is on the page there without being asked.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: money that changes hands is named; an item''s
+    Tier and price appear once, when the POV would see them.'
 - id: R70-49-LANDSCAPE_SKY
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1658,8 +1700,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Adds to R53-09-WEATHER, which stands. Works with R70-41 (land and sky in the rotation) and R70-16
+  notes: 'Adds to R53-09-WEATHER, which stands. Works with R70-41 (land and sky in the rotation) and R70-16
     (far-to-near openings).
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: description is a toolbox: the wide view is
+    a tool for an outdoor scene, not owed in every one.'
 - id: R70-50-BODIES_AFTER_FIRST_SIGHT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1686,14 +1730,16 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Follows R49-28-INTROS, which governs first sight (as amended by R70-54 and R70-55). Draws on
+  notes: 'Follows R49-28-INTROS, which governs first sight (as amended by R70-54 and R70-55). Draws on
     the Ledger.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: description is a toolbox: a changed detail
+    on a return is a tool, not owed every time.'
 - id: R70-51-REPETITION_AGAINST_NOVELTY
   pack: Style Law 2026-10-03
   pack_number: null
   section: DS11
   title: Recur the signature items, and add one new subject
-  status: live
+  status: superseded
   kind: mandate
   summary: Keep each culture's two signature items per session, and in every scene also add one subject
     the thread has not yet described, logging it as canon.
@@ -1713,9 +1759,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Rewrites the 'Novelty is its enemy' sentence of R6-9-RECURRENCE_RULE; the rest of R6-9 (Identity
+  notes: 'Rewrites the ''Novelty is its enemy'' sentence of R6-9-RECURRENCE_RULE; the rest of R6-9 (Identity
     is repetition, Inventory first, the Recurrence Ledger) and R53-19-QUOTA stand, so R6-9 is noted, not
     superseded. New subjects are logged under R53-21-CANON_GATE. The census WARN is R70-58.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: no recurrence quota and no
+    new-subject-per-scene minimum.'
 - id: R70-52-OVERALL_DENSITY
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1825,7 +1873,9 @@ rules:
   notes: 'Replaces Table Rule 11''s fixed order (hair, face, body, clothing, marks); R49-28-INTROS''s
     one passage at first sight stands. Works with R70-44 and R70-54. Partly amended by R74-27-THING_SEEN
     (mystery law 2026-10-04): for a horror the one inventory passage waits until the thing is understood,
-    appraised or fought instead of coming at first sight. The POV''s order stands.'
+    appraised or fought instead of coming at first sight. The POV''s order stands.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the inventory is woven through the scene as
+    the POV''s attention moves rather than one passage; the POV''s order stands.'
 - id: R70-56-CATALOGUE_TELLING_DETAIL
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1852,8 +1902,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R4-14-CHAIN_CEILING stands inside a catalogue (the other R4-14 rows are not named). R70-19 governs
+  notes: 'R4-14-CHAIN_CEILING stands inside a catalogue (the other R4-14 rows are not named). R70-19 governs
     paired and cumulative sentences in set pieces.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: the chain ceiling is retired, so
+    a long list needs no flanking short sentences.'
 - id: R70-57-DESCRIPTION_INSIDE_FIGHT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1886,7 +1938,7 @@ rules:
   pack_number: null
   section: DD7
   title: verify_scene census of description range, as a WARN
-  status: live
+  status: superseded
   kind: procedure
   summary: verify_scene WARNs, never FAILs, when a scene touches too few rotation groups or one group
     takes more than half, and the signature-item count runs for every culture's Inventory, not only Kharven's.
@@ -1906,15 +1958,17 @@ rules:
   source:
     file: ''
     lines: null
-  notes: The census is still to be built in build/verify.py; today only Kharven's signature items are
+  notes: 'The census is still to be built in build/verify.py; today only Kharven''s signature items are
     counted (R49-54-KHARVEN). The quota stays two per session (R53-19-QUOTA); a WARN does not block a
     reply under R48-45-CHECKS.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the description census and the
+    signature-item count retire.'
 - id: R70-59-WHERE_COMPARISONS_COME_FROM
   pack: Style Law 2026-10-03
   pack_number: null
   section: DT1
   title: A culture image bank beside the POV's own life
-  status: live
+  status: superseded
   kind: mandate
   summary: Draw comparisons from the POV's own life by default, and let any POV of a culture use that
     culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
@@ -1938,8 +1992,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Partly amends R48-04-METAPHORS (POV-life stays the default) and relaxes R49-20-STOCK_PHRASE for
+  notes: 'Partly amends R48-04-METAPHORS (POV-life stays the default) and relaxes R49-20-STOCK_PHRASE for
     the listed images only. Adds a field beside R51-31-SENSE_BANK.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: Inventory entries carry no sizes;
+    comparisons come from the POV''s own life and the culture as reference.'
 - id: R70-60-COLOUR_AS_SYMBOL_PER
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1967,8 +2023,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Sits beside R51-31-SENSE_BANK's colours as seen. In a mixed room (R53-23-MIXED_ROOM) one colour
+  notes: 'Sits beside R51-31-SENSE_BANK''s colours as seen. In a mixed room (R53-23-MIXED_ROOM) one colour
     may carry two readings.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: Standing Inventories owe no fields; a
+    culture''s colour readings are written when needed.'
 - id: R70-61-SEASON_WORD_DOES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2024,7 +2082,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Relaxes R49-22-NATURE, which stands for everyday narration; the mythic moments are R48-05-HIGH_STYLE's.
+  notes: 'Relaxes R49-22-NATURE, which stands for everyday narration; the mythic moments are R48-05-HIGH_STYLE''s.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up merge: carries R49-22-NATURE;
+    everyday narration describes weather and land without personifying them.'
 - id: R70-63-WEAR_AGE_AS_BEAUTY
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2090,7 +2150,7 @@ rules:
   pack_number: null
   section: DT7
   title: Four-beat idioms, told once and then used bare
-  status: live
+  status: superseded
   kind: mandate
   summary: Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story
     that an elder tells once on the page, and use the idiom bare in narration or speech after that.
@@ -2112,8 +2172,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Sits beside R52-30-PROVERBS's one fixed saying per NPC, which stands. R4-13-ZERO_BUDGET is not
+  notes: 'Sits beside R52-30-PROVERBS''s one fixed saying per NPC, which stands. R4-13-ZERO_BUDGET is not
     named and stands. Sayings in speech by standing are R70-109.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: Inventory entries carry no sizes;
+    idioms are reference texture.'
 - id: R70-66-NAMED_DEVICES_ADD
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2348,7 +2410,7 @@ rules:
   pack_number: null
   section: MY6
   title: One display beat per named practitioner per scene
-  status: live
+  status: superseded
   kind: budget
   summary: Each named practitioner may take one power-display beat per scene, so a duel may carry two
     and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display
@@ -2372,7 +2434,8 @@ rules:
   notes: 'Partly amends R9-3-BODY_UNDER_LOAD and R10-3-UNCHANGED_CONSTRAINTS: their one-per-scene cap
     becomes one per named practitioner; the rendering of the body under load stands. R9-3-SCOPE stands.
     Partly amended by R71-49-SUMMON_DISPLAY_BEAT (combat law 2026-10-04): a Native summon, with its own
-    Crystal, takes a display beat of its own; Donated and Analog forms share their summoner''s.'
+    Crystal, takes a display beat of its own; Donated and Analog forms share their summoner''s.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the display-beat caps retire.'
 - id: R70-74-TECHNIQUE_NAME_LOOKS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2438,7 +2501,9 @@ rules:
     R48-25-AWE is narrowed by R70-76. Extended by R71-70-BENCH_WORK_PAGE (combat law 2026-10-04), in its
     own words (''R70-75 extended to the bench''): a scene''s main brew appears first as the house''s numbered
     form, set apart, then is performed, and something departs from it; minor bench work keeps R70-46-CRAFT_LABOUR_PAGE''s
-    single stretch. This row stands for rites.'
+    single stretch. This row stands for rites.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the rite that departs from its form is a
+    tool used when it matters, not a must.'
 - id: R70-76-MUCH_WORLD_MAGIC
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2446,8 +2511,9 @@ rules:
   title: The world's magic stated as law, its reasons kept
   status: live
   kind: mandate
-  summary: Write what the world does by itself as stated law, with rules in the imperative, prices as
-    prices and taboos unexplained, while people's workings keep their full mechanism.
+  summary: State the world's independent magic as law with reasons kept; people's workings keep full mechanism
+    except in combat roleplay, whose page shows effects and tells and whose mechanism and figures stay in
+    notes (R77-2). Written set pieces and books keep the full floor.
   verbatim: 'Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people
     do: rules in the imperative, prices as prices, taboos unexplained. People''s workings keep full mechanism.'
   amends:
@@ -2464,10 +2530,20 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Narrows R48-25-AWE to what people do, a partial amendment, so R48-25 stays live with a note.
-    R12-2-MYSTIC_REGISTER_DEF's stated-law clause governs what the world does; R70-9 rewrites R12-2 (what
+  notes: 'Narrows R48-25-AWE to what people do, a partial amendment, so R48-25 stays live with a note.
+    R12-2-MYSTIC_REGISTER_DEF''s stated-law clause governs what the world does; R70-9 rewrites R12-2 (what
     each register draws on) and this row carries that clause forward. R48-10-MIXING and R47-12-MYSTERY_STAYS_OPEN
     are not named and stand.
+
+
+    Partly amended by the 2026-10-08 direction indexed as R77-2-COMBAT_ROLEPLAY_TELLS: only in combat
+    roleplay, effects and readable tells, body cost, read and fault as behaviour are on the page; mechanism,
+    system figures and the explanation remain in notes, the card and Stat Ledger. A voice explains only
+    what it earned by reading tells. Written set pieces and books keep the full floor. The source context
+    identifies the roleplay-only scope as Claude''s interpretation; it is not widened here. Amended 2026-10-17
+    by R79-6-FIGHTS_ON_THE_PAGE: R77-2''s roleplay carve-out is reversed: people''s workings show full
+    mechanism in roleplay fights too. Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: trained characters
+    and the notes may give the physics of the world''s magic; narration states it as law.'
 - id: R70-77-INSTRUMENT_CAN_SHOW
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2576,7 +2652,9 @@ rules:
     from an instrument or what he was told (R70-83-FIGURES_PLAIN_NARRATION). Partly amended by R71-44-FACULTY_READ_MAN
     (combat law 2026-10-04): besides an instrument, a faculty prints another''s exact figures where the
     reader''s Gnosis Perception outranks the target''s Resilience Ward by Grade, and a hedged range where
-    it does not. The sense of rank and the commoners'' folk words stand.'
+    it does not. The sense of rank and the commoners'' folk words stand.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: in a fight a faculty read is an estimate in
+    thought or speech; exact figures print only outside a fight.'
 - id: R70-80-READOUT_SITS_PAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2676,7 +2754,9 @@ rules:
   notes: '''R47-7 is amended'': R47-7-NAMES_NOT_NUMBERS stays live for Tiers of Standing and item Tiers
     and loses its hold on Stages and Bands; a bare numeral without the name is not licensed (the ''Numerals
     free'' option was not taken). Level and other system figures take digits under R70-30-NUMBERS_WORDS_DIGITS.
-    An item card prints the item Tier by name (R70-95-ITEM_CARDS).'
+    An item card prints the item Tier by name (R70-95-ITEM_CARDS).
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: numerals stand wherever an institution
+    writes them, Tiers included.'
 - id: R70-83-FIGURES_PLAIN_NARRATION
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2789,13 +2869,15 @@ rules:
     An appraisal by ''a faculty'' sits beside R70-79-CAN_READ_WHOM (''Another''s exact figures need an instrument'';
     LR2''s faculty option was not taken); whether a faculty appraisal may print exact figures is not settled
     here and is flagged for the conflict log. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: no in-scene
-    readouts in a fight; appraisal and diagnosis go to diagnostic talk and the notes.'
+    readouts in a fight; appraisal and diagnosis go to diagnostic talk and the notes.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: none of these readouts comes inside a fight;
+    there the wound line is a medic''s mouth and the reserve shows as body tells (R79-10).'
 - id: R70-86-MANY_READOUTS_SCENE_CARRIES
   pack: Style Law 2026-10-03
   pack_number: null
   section: LR9
   title: Three readouts a scene, two a turn
-  status: live
+  status: superseded
   kind: budget
   summary: A scene carries at most three readouts, at the display, the finisher and the aftermath, and
     a roleplay turn at most two, never two in one exchange.
@@ -2820,13 +2902,15 @@ rules:
     figures in a mouth are not named by it. Read with R71-81-FORENSIC_READING_PAGE (combat law 2026-10-04):
     in a forensic reading, figures read aloud in a mouth at every stand sit ''outside R70-86''s cap'', as
     this row''s own note already reads it (the cap names readouts, not figures in a mouth). The cap stands
-    unchanged. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: fewer readouts; none inside a fight.'
+    unchanged. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: fewer readouts; none inside a fight.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: no readout inside a fight; readouts come only
+    at a breakthrough, a re-assay or an arc''s end, so the per-scene and per-turn caps retire.'
 - id: R70-87-READOUTS_TWO_VOICE_CAP
   pack: Style Law 2026-10-03
   pack_number: null
   section: LR10
   title: Readouts sit outside the two-voice cap
-  status: live
+  status: superseded
   kind: definition
   summary: A readout states figures and explains nothing, so it never counts toward the two explaining
     voices an engagement may carry.
@@ -2846,15 +2930,17 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R12-4-VOICE_MIXING_RULE's cap of two explaining voices stands; a readout explains nothing, so
+  notes: 'R12-4-VOICE_MIXING_RULE''s cap of two explaining voices stands; a readout explains nothing, so
     it takes no slot even where it is printed like an in-world document (R12-4-VOICE_FOUR_DOCUMENT is
     the explaining document). The figures let the reader check the call, in aid of R13-8-RECONSTRUCTIBLE_ADJUDICATION.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the two-voice cap retires and no readout
+    comes inside a fight.'
 - id: R70-88-NUMBERS_INSIDE_FIGHT
   pack: Style Law 2026-10-03
   pack_number: null
   section: LR11
   title: Grades at the read, no running log
-  status: live
+  status: superseded
   kind: mandate
   summary: During a fight the POV's read may name Grades and gaps as her own estimates before or between
     exchanges, but the page never runs a log of figures.
@@ -2882,7 +2968,9 @@ rules:
     stays legal. Extended by R71-91-ARMOUR_SUMS_PAGE (combat law 2026-10-04), which cites this row: when
     a strike meets armour, a trained POV''s read before the exchange names both Tiers beside the Grades
     and gaps this row allows, and the steel then shows the sum; untrained POVs fall back to the steel
-    telling it. ''No running figures'' stands.'
+    telling it. ''No running figures'' stands.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: in a fight, figures live in mouths, never
+    narration, and a faculty read is an estimate in thought or speech (R79-10).'
 - id: R70-89-BODY_FIRST_NUMBER_FIRST
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2915,7 +3003,9 @@ rules:
     the figure after. Sets the order for R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN.
     Partly amended by R71-34-OVERCHANNEL_PAGE (combat law 2026-10-04): an Overchannel crack is felt in
     the exchange (inner map and body symptom), but no figure for it follows in the same beat; its size
-    comes later from a surgeon or an instrument. Body first stands.'
+    comes later from a surgeon or an instrument. Body first stands.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: inside a fight no readout follows; the number
+    comes in a mouth or after the fight.'
 - id: R70-90-FAST_NUMBERS_CLIMB
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3124,7 +3214,9 @@ rules:
     Carry, maker, price, lore), once, at purchase or appraisal, and at use only the body shows. The once-only
     card stands. Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04): an item first appraised
     while a fight runs does not get its set-off card there; a trained eye names the Tier inline by name
-    alone, and the card prints at the counter or in the aftermath, still once per item.'
+    alone, and the card prints at the counter or in the aftermath, still once per item.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: an item''s Tier and price appear once, when
+    the POV would see them; the set-off card is an optional form.'
 - id: R70-96-TITLES_ACHIEVEMENTS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3189,7 +3281,9 @@ rules:
     is set on the page at the hook in the Guild''s house style (terms, pay, register, penalty) as a document
     voice; every contract carries at least one clause limiting how it may be won, with a penalty; and
     the job closes at the clerk''s counter with the proof the contract asks for, the clerk''s dispute
-    and the pay named from the price table, a failed proof being a Ledger debt. The contract boards stand.'
+    and the pay named from the price table, a failed proof being a Ledger debt. The contract boards stand.
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: Scene Menu hooks no longer state a reward and penalty;
+    contracts posted in the world keep their terms and pay.'
 - id: R70-98-SHEETS_CHAPTER_ARC_ENDS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3221,7 +3315,10 @@ rules:
   notes: 'R14-6-CHECK29 stands: the full Stat Ledger stays in the author notes. The changes block sits
     above the author-notes heading, inside the text the prose checker measures (R54-12-CHECKER_STOPS_AT_NOTES).
     The block lists changes only, each with the shown cause R70-90-FAST_NUMBERS_CLIMB requires. A set-off
-    occasion beside R70-80-READOUT_SITS_PAGE''s list; see that row''s note.'
+    occasion beside R70-80-READOUT_SITS_PAGE''s list; see that row''s note.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: nothing is printed under a roleplay
+    turn; lasting changes go onto the card by silent upkeep, and a book chapter''s changes block
+    stays.'
 - id: R70-99-NUMBER_NOT_YET_CANON
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3254,7 +3351,10 @@ rules:
     visible. R14-6-NUMBERS_GREP still decides what is an estimate, and R14-2-ESTIMATE_MARKING''s documented
     range for the Stage and Band still bounds it. The hedge is an instrument''s; R70-78-WHERE_SCREEN_COMES_FROM
     makes the bearer''s Crystal lines ''exact'', and how they show an estimate is flagged for the conflict
-    log.'
+    log.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a derived figure is written plainly with no
+    mark and is canon on use; an instrument''s own in-world hedge may stay, and R14-2 and R14-6 are
+    superseded.'
 - id: R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3262,9 +3362,9 @@ rules:
   title: Duel moves named in the POV's own school
   status: live
   kind: mandate
-  summary: Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri
-    for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in
-    a character's mouth.
+  summary: European-school guards, cuts, timing and measure are narrated as body actions in every post,
+    scene and book, without European fencing jargon (R77-1); whether Eastern-school terms follow that ban
+    remains unanswered. The school mechanics survive.
   verbatim: By the POV's own school. Narration names every move in the POV's own training (a Moto POV
     calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth.
     verify takes per-school lists.
@@ -3295,10 +3395,17 @@ rules:
     and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV''s school. Works with R70-74-TECHNIQUE_NAME_LOOKS
     and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school). Read with R71-53-BRAWLS_FOLK_SCHOOLS
     (combat law 2026-10-04): "a POV raised in them names moves in them, and verify gains a list per culture"
-    A folk wrestling or fist trade counts as the POV''s own training, so a POV raised in one names his moves
-    in its words, and verify reads a list per culture beside the school lists; this rule stands. Amended
-    2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: the open question is answered: Eastern school terms are free
-    in narration.'
+    A folk wrestling or fist trade counts as the POV''s own training, so a POV raised in one names his
+    moves in its words, and verify reads a list per culture beside the school lists; this rule stands.
+
+
+    Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European
+    fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure
+    in plain words. Check 22 warns on that jargon instead of treating it as useful school vocabulary.
+    Mechanics remain. Eastern terminology is explicitly unanswered in the source context. Amended 2026-10-14
+    by R78-5-FIGHTS_ANIME_ON_PAGE: the open question is answered: Eastern school terms are free in narration.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: school terms are free and never required; naming moves
+    in the POV''s school is no longer owed.'
 - id: R70-101-DECLARING_NAME_LINE_BEFORE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3329,9 +3436,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R48-43-SPEECHES stands; the declaration counts as its one crafted speech. Read with R60-01-BRUTAL_LETHALITY
+  notes: 'R48-43-SPEECHES stands; the declaration counts as its one crafted speech. Read with R60-01-BRUTAL_LETHALITY
     (most fights end in the first seconds), since the opponent may close or shoot while the recital runs.
-    Works with R70-5-EASTERN_MODELS (the war tales' name-declaration) and R70-111-LONG_FORMAL_SPEECH_CLIPPED.
+    Works with R70-5-EASTERN_MODELS (the war tales'' name-declaration) and R70-111-LONG_FORMAL_SPEECH_CLIPPED.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: there is no one-speech cap, so a declaration
+    spends nothing; the world still does not wait while it runs.'
 - id: R70-102-STILLNESS_TRACED_PASSES_LONG
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3487,9 +3596,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R1-3-NAME_THREE_RULE stands across both vantage points. The guide's 'pass through Line' rule
+  notes: 'R1-3-NAME_THREE_RULE stands across both vantage points. The guide''s ''pass through Line'' rule
     has no row of its own in the index; the marked breaks replace it in the Mass Combat Craft Guide. Works
     with R70-11-WIDE_VIEW, whose marked roll call is exempt from the three heads.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the name-three rule retires and the lead keeps
+    POV in battle; hill-and-ditch cuts are a tool.'
 - id: R70-107-SPEECH_LEVELS_ADDRESS_KOREAN
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3587,7 +3698,9 @@ rules:
     file: ''
     lines: null
   notes: 'Partly amends R52-30-PROVERBS: its ''one'' becomes ''several'', keyed to age and standing; the
-    sayings still come from the Standing Inventory. Works with R70-65-SET_IDIOMS_NARRATION.'
+    sayings still come from the Standing Inventory. Works with R70-65-SET_IDIOMS_NARRATION.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: a speaker''s sayings come from his card, not
+    from every NPC''s Inventory allotment (R52-30 retires).'
 - id: R70-110-VERSE_EXCHANGED_TALK
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3657,7 +3770,9 @@ rules:
     lines: null
   notes: 'Partly amends R48-43-SPEECHES: its cap holds outside court. R19-4-REALISTIC_SPEECH stands beside
     it. Works with R70-101-DECLARING_NAME_LINE_BEFORE, under which a duel declaration counts as the crafted
-    speech.'
+    speech.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the cap clause is struck: speeches carry no cap
+    anywhere.'
 - id: R70-112-FACE_FACE_SLAP
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3768,7 +3883,11 @@ rules:
     (mystery law 2026-10-04): the standing warm bond each live thread carries never betrays by choice; anyone
     else may betray, with the signs shown twice before the turn. Losses still cost. Amended 2026-10-14 by
     R78-4-WOTR_IDENTITY_TONE: the warm-bond floor stands; WOTR is no longer framed as grimdark, and bonds
-    mostly hold (R78-7).'
+    mostly hold (R78-7).
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the grimdark titling retires; the row reads as
+    warmth as a counterweight. Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the per-thread
+    quota is struck: warm bonds are a palette Natalie draws on when the story earns them, never owed
+    per thread.'
 - id: R70-115-TEARS_SENTIMENT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3794,9 +3913,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R52-26-GRIEF, R49-07-EMOTIONS, R52-28-COMPOSURE and R52-27-JOY stand; the break is added on top.
-    Works with R70-39-CARRYING_FEELING and the han of R70-5-EASTERN_MODELS. Never imposed on Isaac's PC
+  notes: 'R52-26-GRIEF, R49-07-EMOTIONS, R52-28-COMPOSURE and R52-27-JOY stand; the break is added on top.
+    Works with R70-39-CARRYING_FEELING and the han of R70-5-EASTERN_MODELS. Never imposed on Isaac''s PC
     (R49-01-WHOSE_HEAD).
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the once-per-character-per-arc count goes;
+    the delayed break is a device.'
 - id: R70-116-COMEDY_BESIDE_DANGER
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3823,7 +3944,9 @@ rules:
     lines: null
   notes: 'Re-rules part of R5-B-MANHWA_DIRECTIVE_REPEALED''s absurdism tell: comedy may sit hard against
     dread by design; inside the danger only gallows wit is legal, so the tell still holds there. R5-D-HUMOUR_PERMITTED
-    stands; the gallows wit it permits is the humour left inside the danger.'
+    stands; the gallows wit it permits is the humour left inside the danger.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the danger clause is struck: jokes inside danger
+    follow each character''s own humour, not gallows wit only.'
 - id: R70-117-SOBRIQUETS_HALL_TITLES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4080,9 +4203,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R20-3-DAWI_ELEMENTS, R20-1-DAWI_ANCHOR, R23-2-NORTHERN_STRATUM, R23-11-ROLL_NAMES_FROM_ACCORD,
+  notes: 'R20-3-DAWI_ELEMENTS, R20-1-DAWI_ANCHOR, R23-2-NORTHERN_STRATUM, R23-11-ROLL_NAMES_FROM_ACCORD,
     R20-1-GOBLINOID_ANCHOR and R50-12-COINED_LATIN stand. R23-11-NAME_AVOIDANCE_WAITING bars any joke
     on the name of the recently dead; see R70-127-COMIC_NAME_GRIM_END.
+    Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: given names need only sound right for their
+    culture; the banks are reference.'
 - id: R70-125-PEOPLES_EASTERN_STRATA
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4145,9 +4270,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Borin keeps his name, as the questionnaire settled under R50-02-FIX_OLD_ONES. The brothers are
-    built on R20-3-DAWI_ELEMENTS under R20-1-DAWI_ANCHOR; Snorin is the Common mouth's name (R70-123-WHOSE_EAR_HEARS_JOKE).
+  notes: 'Borin keeps his name, as the questionnaire settled under R50-02-FIX_OLD_ONES. The brothers are
+    built on R20-3-DAWI_ELEMENTS under R20-1-DAWI_ANCHOR; Snorin is the Common mouth''s name (R70-123-WHOSE_EAR_HEARS_JOKE).
     A meeting of the set is a beat (R50-17-SHARED_NAMES).
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: no approval wait; the brothers are
+    invented freely and stand once archived, and Isaac may strike them.'
 - id: R70-127-COMIC_NAME_GRIM_END
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4173,8 +4300,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R49-38-FUNERAL_TEST, R23-11-NAME_AVOIDANCE_WAITING, R23-11-CARRIED_NAME_MECHANISM (the name held
+  notes: 'R49-38-FUNERAL_TEST, R23-11-NAME_AVOIDANCE_WAITING, R23-11-CARRIED_NAME_MECHANISM (the name held
     unspoken until given on; the short id R23-11 reaches both) and R5-D-HUMOUR_PERMITTED stand.
+    Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the name said at the death is an option, not
+    owed.'
 - id: R70-128-PLACES_INNS_SHIPS_GEAR
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4263,8 +4392,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Amends R50-27-NEW_NPC_NAME in one line, as R70-132-FAR_NAMING_LAW_BENDS directs; the narration
+  notes: 'Amends R50-27-NEW_NPC_NAME in one line, as R70-132-FAR_NAMING_LAW_BENDS directs; the narration
     still waits on it. Extends R52-31-COMIC_NPC.
+    Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the joke-named walk-on who cannot die is an
+    option, not a rule.'
 - id: R70-131-COMIC_NAMES_GET_MADE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4299,7 +4430,9 @@ rules:
     lines: null
   notes: 'Amends R50-30-BANK_OR_EAR in one line (the scene-end check gains the comic sound check) and
     leans on R50-18-OUTLIERS; R50-28-NEW_WORDS is unchanged. Not taken: a comic-name floor per crowd scene,
-    a pitch list per session. R70-132-FAR_NAMING_LAW_BENDS points each culture''s naming rows at its bank.'
+    a pitch list per session. R70-132-FAR_NAMING_LAW_BENDS points each culture''s naming rows at its bank.
+    Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the comic-name lists are reference, and the
+    scene-end check goes; a coined name only has to keep its culture''s sound rules.'
 - id: R70-132-FAR_NAMING_LAW_BENDS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4406,7 +4539,7 @@ rules:
   pack_number: null
   section: ME1
   title: The law lands in a rule doc, NATALIE.md and new guide editions
-  status: live
+  status: superseded
   kind: procedure
   summary: Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Prose Standards
     to it, and issue new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards
@@ -4444,7 +4577,8 @@ rules:
   notes: 'Supersedes nothing itself: the status of R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1-TONAL_SPINE_UNCHANGED
     is set ''as K1 decides'', by R70-1-BLEND_MODEL and R70-7-FAR_MOVE. The verbatim''s short id R11-1
     resolves to R11-1-TONAL_SPINE_UNCHANGED; the other live R11-1 rows (NORTH_STAR_RETIRED, REPLACEMENT_REGISTER)
-    govern the look and are not reached. The rule doc is rules/doc-style-law-2026-10-03.yaml.'
+    govern the look and are not reached. The rule doc is rules/doc-style-law-2026-10-03.yaml.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order.'
 - id: R70-136-NEW_CHECKS_VERIFY_SCENE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4452,10 +4586,10 @@ rules:
   title: verify_scene gains school word lists, a verse marker and a formula watch
   status: live
   kind: procedure
-  summary: verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the
-    culture tag and warns only when a fight carries none of that school's terms; a marked verse block
-    is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated
-    web-novel formulas WARN in narration and log an info line in speech.
+  summary: verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture
+    tag and warns only when a fight carries none of that school's terms; a marked verse block is left out
+    of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel
+    formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
   verbatim: 'Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese,
     korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school''s
     terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out
@@ -4489,7 +4623,13 @@ rules:
     by R71-103-COMBAT_CHECKS_VERIFY_SCENE (combat law 2026-10-04): the percussion school''s list becomes
     hammer and haft, boxing becomes its own school, and firearms and Kharven lists are added; verify --combat
     also gains readout and beat counts and a stale-device watch, both WARN. The verse marker and the stock-formula
-    watch stand.'
+    watch stand.
+
+
+    Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European fencing-manual
+    jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure in plain words.
+    Check 22 warns on that jargon instead of treating it as useful school vocabulary. Mechanics remain.
+    Eastern terminology is explicitly unanswered in the source context.'
 - id: R70-137-ARCHIVED_SCENES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4522,7 +4662,7 @@ rules:
   pack_number: null
   section: ME4
   title: Law first, then a test scene, then the sample bank
-  status: live
+  status: superseded
   kind: procedure
   summary: The style law binds as logged, one test scene in a live thread follows, anything that reads
     wrong becomes a dated amendment, and only then is a sample bank written for Kharven, Moto, Accord,
@@ -4540,5 +4680,6 @@ rules:
   source:
     file: ''
     lines: null
-  notes: No rule row is touched. A fix found in the test scene is a new dated ruling, never a silent edit
+  notes: 'No rule row is touched. A fix found in the test scene is a new dated ruling, never a silent edit
     (CLAUDE.md).
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order.'

@@ -61,7 +61,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "25-32"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the every-noun routing
+      retires: conversion upgrades the words for how magic and bodies work and
+      keeps his plain words where plain is truer.
 
   - id: R16-2-DELETION_REQUIRES_NOTE
     pack: Pack Sixteen
@@ -90,7 +93,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "34"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: a dropped-term note is
+      owed only for a mechanism term or a coinage; his plain words kept as
+      plain are not dropped.
 
   - id: R16-3-COMPOUND_SENTENCE
     pack: Pack Sixteen
@@ -132,7 +138,7 @@ rules:
     pack_number: 16
     section: "§4"
     title: The conversion lexicon is extended every session
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       The rough-to-converted term lexicon is built from Isaac's actual
@@ -157,6 +163,8 @@ rules:
       The lexicon table itself (15 rough-to-converted entries as of this
       pack) is reference data, not individually extracted rules — treated
       like Pack Fifteen's word bank, not a set of rationed rules.
+      Superseded 2026-10-17 by R79-2-LEAN_TABLE: nothing is written at a
+      scene's end unless he asks; the lexicon is not extended every session.
 
   - id: R16-5-REGISTER_IN_NARRATION
     pack: Pack Sixteen
@@ -220,7 +228,7 @@ rules:
     pack_number: 16
     section: "§5"
     title: A mechanism confined to the notes is a failed pass
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       If a mechanism term appears in the author notes but not in the prose,
@@ -241,7 +249,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "84"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the full mechanism
+      may live on the card and in the notes (R79-6); a term in the notes but
+      not the prose is no failure.
 
   - id: R16-6-COINAGE_HANDLING
     pack: Pack Sixteen
@@ -273,7 +284,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "90-92"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: a coinage is kept and
+      defined in the archive notes; it no longer waits on the docket (R79-2).
 
   - id: R16-6-SPELLING_VS_VOCABULARY
     pack: Pack Sixteen
@@ -386,7 +399,7 @@ rules:
     pack_number: 16
     section: "§8"
     title: "Check 30 — Conversion density"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       A scene with a working, exchange or injury must carry at least four
@@ -413,13 +426,15 @@ rules:
       Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03):
       the floor of four WOTR terms and two real science or anatomy terms
       holds.
+      Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the term-count floors
+      retire.
 
   - id: R16-8-CHECK31
     pack: Pack Sixteen
     pack_number: 16
     section: "§8"
     title: "Check 31 — Export"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       No mechanism term may appear in the author-notes block that does not
@@ -438,7 +453,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "121"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the full three-strata
+      account may live on the card and in the notes (R79-6), so the export
+      check retires.
 
   - id: R16-8-CHECK32
     pack: Pack Sixteen
@@ -473,7 +491,7 @@ rules:
     pack_number: 16
     section: "§8"
     title: "Check 33 — Italic quarantine"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Fewer than half of a scene's technical terms may sit inside italic
@@ -496,13 +514,15 @@ rules:
       Eased by R70-38-REASONING_SHOWS (style law 2026-10-03) where a reasoning
       POV sets thinking out as numbered steps, risk lists or tests in italic
       thought; no new figure is set for the cap.
+      Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: the italic-quarantine
+      count retires.
 
   - id: R16-9-STANDING_TASK
     pack: Pack Sixteen
     pack_number: 16
     section: "§9"
     title: Standing task, fold amendments into base guides
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Fold Packs One through Sixteen into the base guides and retire the
@@ -520,4 +540,6 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "131"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent;
+      the packs are folded and the once-a-session ask retires.

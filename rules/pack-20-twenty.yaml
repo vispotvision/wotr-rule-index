@@ -94,7 +94,7 @@ rules:
     pack_number: 20
     section: "R20C-3"
     title: "The sweep has two tiers"
-    status: live
+    status: superseded
     kind: procedure
     summary: "The sweep has two tiers. Canon pages get swept — body text, not just titles."
     verbatim: "The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and \"Tengeriin\"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run."
@@ -106,7 +106,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "21"
-    notes: null
+    notes: 'Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: the Büri sweep is spent
+      and retired from the nightly job.'
 
   - id: R20C-4-KHARVEN_STEPPE_ITEMS_RENAMED
     pack: Pack Twenty
@@ -132,7 +133,7 @@ rules:
     pack_number: 20
     section: "R20C-5"
     title: "The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster"
-    status: live
+    status: superseded
     kind: procedure
     summary: "The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here."
     verbatim: "The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start."
@@ -144,7 +145,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "23"
-    notes: null
+    notes: 'Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order; the Büri
+      section is gone from the standing brief.'
 
   - id: R20C-6-LINES_FIVE_TO_SEVEN_FUNCTIONS
     pack: Pack Twenty
@@ -353,7 +355,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "40"
-    notes: null
+    notes: 'Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: Sonzai (Chuluun) belongs to another creator
+      and is hands-off; ''Those are Isaac''s'' is struck.'
 
   - id: R20C-17-SITES_RECHARGE_UNHELPFULLY
     pack: Pack Twenty
@@ -467,7 +470,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "50"
-    notes: "Subject to R20C-26."
+    notes: "Subject to R20C-26.
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the tiers now read as rungs on the one item
+      ladder: proofed shot one Tier over the target armour, a named round two."
 
   - id: R20C-23-ORIGIN_STAYS_MYTHIC
     pack: Pack Twenty
@@ -657,7 +662,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "63"
-    notes: "Ratifies R14-C; consistent with R39-1 (the canon stat model)."
+    notes: "Ratifies R14-C; consistent with R39-1 (the canon stat model).
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: sources are read by field: Fracture of
+      Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card (a
+      wiki page now, Notion retired) for person facts and wherever the sheet is silent; Natalie
+      resolves by that order and moves on."
 
   - id: R20C-33-RESONANT_PAIRS_DIAGNOSTIC
     pack: Pack Twenty
@@ -695,7 +704,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "65"
-    notes: "Overturns Pack Fourteen's recommendation (R14-E) by Pack Eighteen's repeal, in the pack's own words."
+    notes: "Overturns Pack Fourteen's recommendation (R14-E) by Pack Eighteen's repeal, in the pack's own words.
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no derived marker: a missing figure is
+      written plainly, canon on use, and a source value beats it on contact."
 
   - id: R20C-35-CHANT_IN_OWN_LANGUAGE
     pack: Pack Twenty
@@ -740,7 +751,7 @@ rules:
     pack_number: 20
     section: "R20C-37"
     title: "In-world documents owe nothing to sounding in-world"
-    status: live
+    status: superseded
     kind: definition
     summary: "In-world documents owe nothing to sounding in-world."
     verbatim: "In-world documents owe nothing to sounding in-world."
@@ -752,7 +763,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "68"
-    notes: "Ratifies R15-C. Noted by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): documents gain four named forms; this rule stands."
+    notes: "Ratifies R15-C. Noted by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): documents gain four named forms; this rule stands.
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: in-world documents keep their
+      institution's house style."
 
   - id: R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE
     pack: Pack Twenty
@@ -790,14 +803,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "73"
-    notes: "Pack Seventeen's six-line card governs."
+    notes: "Pack Seventeen's six-line card governs.
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: the six-line card is itself
+      superseded; the one-paragraph entry governs (R76-4); the surviving clauses stand."
 
   - id: R20C-40-NAMING_PASS_SCHEDULED
     pack: Pack Twenty
     pack_number: 20
     section: "R20C-40"
     title: "The naming pass per culture is scheduled work"
-    status: live
+    status: superseded
     kind: procedure
     summary: "The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed."
     verbatim: "The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed. Runs with Ability Guide 6e."
@@ -809,7 +824,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "74"
-    notes: null
+    notes: 'Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order (names come
+      as needed).'
 
   - id: R20C-41-CHANTCRAFT_FIFTH_CRAFT
     pack: Pack Twenty
@@ -923,14 +939,15 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "83"
-    notes: "Closes R9-1's doublet item (Isaac, 2026-09-13)."
+    notes: "Closes R9-1's doublet item (Isaac, 2026-09-13).
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: a doublet is added when used."
 
   - id: R20C-47-CRAFTS_OWE_THE_INVENTORY
     pack: Pack Twenty
     pack_number: 20
     section: "R20C-47"
     title: "Each craft owes the Standing Inventory a household object, an oath and a proverb"
-    status: live
+    status: superseded
     kind: mandate
     summary: "Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene."
     verbatim: "Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene."
@@ -942,7 +959,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "84"
-    notes: "Isaac, 2026-09-13."
+    notes: "Isaac, 2026-09-13.
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: stale; Standing Inventories
+      owe no fields."
 
   - id: R20C-48-ZETTARI_THIN_GROUND
     pack: Pack Twenty
@@ -980,7 +999,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "118"
-    notes: null
+    notes: 'Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: Gloss Rights is a voice trait for who explains
+      aloud in dialogue, not a gate on narration.'
 
   - id: R20C-50-FLESHSHAPER_VOICE
     pack: Pack Twenty
@@ -1075,7 +1095,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "129"
-    notes: "Confirms the R1-1 assignment rows ratified 2026-09-12."
+    notes: "Confirms the R1-1 assignment rows ratified 2026-09-12.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the German terms are glosses only;
+      on the page the moves are written as plain body actions (R77-1)."
 
   - id: R20C-55-COST_AUDIT_ON_CONTACT
     pack: Pack Twenty
@@ -1120,7 +1142,7 @@ rules:
     pack_number: 20
     section: "R20C-57"
     title: "The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page"
-    status: live
+    status: superseded
     kind: procedure
     summary: "The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave."
     verbatim: "The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave."
@@ -1132,7 +1154,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "132"
-    notes: "The six inventories exist under desktop/inventories/ (2026-09-12)."
+    notes: "The six inventories exist under desktop/inventories/ (2026-09-12).
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: Notion is retired and the
+      build order is spent; the Inventories live at desktop/inventories/."
 
   - id: R20C-58-REGISTERS_FLAVOUR_NOT_LAW
     pack: Pack Twenty
@@ -1158,7 +1182,7 @@ rules:
     pack_number: 20
     section: "R20C-59"
     title: "Twenty packs of paste-in diffs"
-    status: live
+    status: superseded
     kind: procedure
     summary: "Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions."
     verbatim: "Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions. Build order:"
@@ -1170,7 +1194,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "137"
-    notes: "Consistent with R39-8; eleven guides folded on 2026-09-12."
+    notes: "Consistent with R39-8; eleven guides folded on 2026-09-12.
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order."
 
   - id: R20C-PD-PSYCHIC_DISTANCE_BANDS
     pack: Pack Twenty

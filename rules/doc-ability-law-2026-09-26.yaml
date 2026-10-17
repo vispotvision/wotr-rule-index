@@ -35,7 +35,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+  notes: 'Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: Natalie may give his PC inventive new
+    uses of his abilities; new techniques, Level points and card changes stay his.'
 - id: R47-2-FIELD_FORMAT
   pack: Ability Law 2026-09-26
   pack_number: null
@@ -96,7 +98,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+  notes: 'Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up merge: carries
+    R12-3-COUNTER_MANDATORY; every ability has a counter. Tells are written where they exist.'
 - id: R47-4-LEDGER_COSTS
   pack: Ability Law 2026-09-26
   pack_number: null
@@ -129,7 +133,9 @@ rules:
     ''each lowers Readiness and cost share by figures set on that card''. A technique is still priced
     as a share of full reserve when it is designed; each mastery mark it crosses (Held, Drilled, Mastered)
     lowers that share by a figure set on its card, each crossing for a shown cause. The pricing at design
-    stands.'
+    stands.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: cards keep EU as the source of truth with a
+    line for how long a working lasts from full; the page uses duration and body tells.'
 - id: R47-5-LADDER_RUNG
   pack: Ability Law 2026-09-26
   pack_number: null
@@ -155,7 +161,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+  notes: 'Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the Tier rung is an optional form, added
+    when it matters.'
 - id: R47-6-RESEARCH_STAYS
   pack: Ability Law 2026-09-26
   pack_number: null
@@ -206,7 +214,9 @@ rules:
     lines: null
   notes: 'Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47). Partly amended by R70-82-NUMERALS_LADDER_RUNGS
     (style law 2026-10-03): Stages and Bands may carry the numeral beside the name; Tiers of Standing
-    and item Tiers stay names only.'
+    and item Tiers stay names only.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: numerals stand wherever an institution
+    writes them (a register, a stamp, a filing).'
 - id: R47-8-WASTE_IS_HEAT
   pack: Ability Law 2026-09-26
   pack_number: null

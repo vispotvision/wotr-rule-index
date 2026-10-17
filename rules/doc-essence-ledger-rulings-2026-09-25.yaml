@@ -43,10 +43,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Closes CONFLICTS.md C-034. The counts and the per-figure residuals are in
+  notes: 'Closes CONFLICTS.md C-034. The counts and the per-figure residuals are in
     imports/essence-ledger/fit.json; no card figure is changed by this row.
     imports/essence-ledger/physics-check.md (WAR-10) reports that this constant fails
     against real physics; the ruling is later than that report and is recorded as made.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the constant is recomputed wherever it must
+    hold, but the card-error clause is struck: bands are typical ranges and a card''s outlier
+    stands.'
 - id: R44-2-AU_FORMULA_GOVERNS
   pack: Essence Ledger Rulings 2026-09-25
   pack_number: null

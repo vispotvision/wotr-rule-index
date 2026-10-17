@@ -101,7 +101,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "52"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: narrowed to narrator
+      gloss: the POV may interpret what a read gives him; in a fight a faculty
+      read is an estimate in thought or speech (R79-10).
 
   - id: R6-2-FACULTY_NEVER_SUBJECT
     pack: Pack Six
@@ -268,6 +271,9 @@ rules:
       quality through the POV's eye, and each culture's Inventory states what
       its people prize and despise in age. The interpret-at-zero clause was
       already struck (R6-5-INTERPRET_AT_ZERO_STRUCK).
+      Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the POV may
+      interpret, remember and draw meaning in narration; only a narrator's
+      moral appended after an image stays banned.
 
   - id: R6-5-INTERPRET_AT_ZERO_STRUCK
     pack: Pack Six
@@ -362,13 +368,16 @@ rules:
       gains a 'Clue beds' line beside 'Notices first' (Kharven counts and the
       woodpile, Accord meters and wax, Moto seals and court verse), and a case
       draws its clues from its culture. The nine categories stand.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the required
+      categories and the rejection test are struck: Standing Inventories owe
+      no fields and are reference.
 
   - id: R6-9-RECURRENCE_RULE
     pack: Pack Six
     pack_number: 6
     section: "PART II.9"
     title: Identity is repetition; every scene draws from the Inventory first
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Every scene draws texture from the Inventory before inventing
@@ -395,6 +404,10 @@ rules:
       scene also adds one subject the thread has not described, logged as
       canon; 'Identity is repetition', Inventory first and the Recurrence
       Ledger stand.
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the recurrence
+      minimum is gone, Standing Inventory entries are reference with no
+      draw-first order, and invented texture stands as canon once in an
+      archived scene (R79-4).
 
   - id: R6-10-INVENTORY_AND_ELEGY
     pack: Pack Six
@@ -515,6 +528,10 @@ rules:
     notes: >-
       Kept live per R12-7-AI_TELLS_RETAINED ("Retained in full... every AI
       tell in the checklist").
+      Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the tell for
+      scientific vocabulary explaining an ambient impression is struck: system
+      and science words are free in a trained POV's narration; a commoner
+      keeps his own words.
 
   - id: R6-12-TOTAL_LEGIBILITY_STRUCK
     pack: Pack Six

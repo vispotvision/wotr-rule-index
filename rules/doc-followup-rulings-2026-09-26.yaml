@@ -111,8 +111,11 @@ rules:
   verification: *id003
   ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
   source: *id004
-  notes: Each culture's swears sit on its Standing Inventory (Kharven in NATALIE.md) and on the page Swears,
+  notes: 'Each culture''s swears sit on its Standing Inventory (Kharven in NATALIE.md) and on the page Swears,
     Oaths and Insults.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up merge: carries R51-31-SENSE_BANK,
+    each Inventory''s senses entry (smells, sounds, colours, textures), now reference with no
+    draw-first order.'
 - id: R58-06-WELL_SPAWN_WELLS_ONLY
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
@@ -195,7 +198,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up merge: carries R54-11-CARD_HEADER_AT_A_MOMENT;
+    the header states the moment it describes and Lore records later events, deaths included.'
 - id: R58-13-BORROWED_NAME_FIXES
   pack: Follow-up Rulings 2026-09-26
   pack_number: null

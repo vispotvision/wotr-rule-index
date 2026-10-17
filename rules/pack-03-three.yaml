@@ -261,7 +261,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Three.md
       lines: "61"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the sense order at
+      sea is a tool used when it matters.
 
   - id: R3-8-NAVAL_SIGHT_HELPLESSNESS
     pack: Pack Three
@@ -654,7 +656,7 @@ rules:
     pack_number: 3
     section: "Amendment Nine"
     title: Practitioner POV is available before/after a mass action, closed during
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       A high-Stage practitioner inside a battle experiences none of the
@@ -681,14 +683,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Three.md
       lines: "97-99"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the lead keeps POV in
+      battle and may break through or vow mid-fight.
 
   - id: R3-9-BEFORE_AFTER_DURING
     pack: Pack Three
     pack_number: 3
     section: "Amendment Nine"
     title: What the practitioner POV covers before, after, and during
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Before covers the costing-out arithmetic and the decision what to
@@ -717,14 +721,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Three.md
       lines: "101-103"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the lead keeps POV in
+      battle; the before, after and during split is an optional tool.
 
   - id: R3-9-COSTED_OUT_EXCEPTION
     pack: Pack Three
     pack_number: 3
     section: "Amendment Nine"
     title: The costed-out exception, spend it once
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       The single exception to the practitioner-POV ruling: a practitioner
@@ -749,7 +755,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Three.md
       lines: "105"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the practitioner POV
+      is no longer closed during battle, so the exception has nothing to
+      except.
 
   - id: R3-OP-ZETTARI_DOCKET
     pack: Pack Three

@@ -278,7 +278,9 @@ rules:
     half, played as a turn''s closing cutaway, shows the hand and the deed, never his face or name (note
     filed there). Outside a case all three stand. R5-C1-WRITE_FROM_LEAST_KNOWING and R71-6-PLAYER_FIGHTER_PAGE
     stand. A clue a cut carries is shown on the page, so it may serve a solution under R74-2-FAIRPLAY_TERMS,
-    and the notes list it (R74-9-WHERE_TRUTH_KEPT). A written book''s mode is R74-1-HOW_MUCH_READER_SOLVES.'
+    and the notes list it (R74-9-WHERE_TRUTH_KEPT). A written book''s mode is R74-1-HOW_MUCH_READER_SOLVES.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: one marked-break rule governs every cutaway,
+    at any break, not only a turn''s close.'
 - id: R74-8-CLUES_PER_CONCLUSION
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -455,7 +457,8 @@ rules:
     of the room. The docket close is R70-17-CLOSING_MODES'' notice set off from the prose, in a Watch
     form under R70-67-FORMS_WORLD_DOCUMENTS and R12-4-VOICE_FOUR_DOCUMENT, the Lord of the Mysteries document
     turned to a close; R12-5-NEVER_INVENT_NUMBER binds any figure in it. The Night Register is the Society''s
-    own desk (R60-26-NIGHT_WATCH_SOCIETY).'
+    own desk (R60-26-NIGHT_WATCH_SOCIETY).
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the docket-line close is an optional form.'
 - id: R74-13-INTERROGATION
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -548,13 +551,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: MY7, option B (digest). Options A (lamps, wax, seals and ledgers leading every culture's cases)
-    and C (no clue object leading two cases running) were not taken. Adds a field beside R70-44-CULTURE_KEYED_NOTICING's
+  notes: 'MY7, option B (digest). Options A (lamps, wax, seals and ledgers leading every culture''s cases)
+    and C (no clue object leading two cases running) were not taken. Adds a field beside R70-44-CULTURE_KEYED_NOTICING''s
     Notices first line, which stands; R6-8-STANDING_INVENTORY_CATEGORIES gains the line (note filed there),
-    and R70-45-NEW_STANDING_INVENTORY_FIELDS stands. The archive's best clues are priced in the economy
-    (oil where tallow burns, a salve too good for the kitchen); R71-84-TRADE_PAPER_SCENE's registered
-    marks and lots stand. The line is owed to every Inventory in desktop/inventories/ and to NATALIE.md's
+    and R70-45-NEW_STANDING_INVENTORY_FIELDS stands. The archive''s best clues are priced in the economy
+    (oil where tallow burns, a salve too good for the kitchen); R71-84-TRADE_PAPER_SCENE''s registered
+    marks and lots stand. The line is owed to every Inventory in desktop/inventories/ and to NATALIE.md''s
     inline Kharven Inventory.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: Standing Inventories owe no fields; clue
+    beds are written when a case needs them.'
 - id: R74-16-INVESTIGATOR_HEAD
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -688,7 +693,9 @@ rules:
     is already superseded by R49-11-NOT_KNOWING and is not touched, and R54-18-IGNORANCE_PER_SCENE (how
     the old quota counted across viewpoints) is not changed. R53-30-TEXTURE_DENSITY''s world-only detail
     every beat stands, and R47-12-MYSTERY_STAYS_OPEN is not changed. NATALIE.md''s Rule 8 rewrite is owed
-    under R72-41-WHERE_TABLE_LAW_LANDS and R74-43-WHERE_MYSTERY_LAW_LANDS.'
+    under R72-41-WHERE_TABLE_LAW_LANDS and R74-43-WHERE_MYSTERY_LAW_LANDS.
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: no unexplained-notice quota anywhere, and nothing is
+    printed under a turn, so the texture-or-seed mark goes into the archive notes only.'
 - id: R74-20-WHAT_INSTRUMENTS_PROVE
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -923,7 +930,9 @@ rules:
     scene''s one shock to the peaks that row names (reveals, verdicts, notices, a fight''s last beats);
     note filed there. R70-15-TEMPO_STILLNESS (jo-ha-kyu) stands and is read with it. "Then the scene moves":
     the shock need not close the scene, and R70-17-CLOSING_MODES stands. R11-4-DESCENT_PROSE_LAW (a descent''s
-    sensory opening) stands. Options not taken: A (long build, small turn), C (shock first, dread after).'
+    sensory opening) stands. Options not taken: A (long build, small turn), C (shock first, dread after).
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: one-line paragraphs are no longer limited
+    to a listed set of peaks; the one hard shock still runs as a cluster.'
 - id: R74-27-THING_SEEN
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -987,15 +996,18 @@ rules:
   source:
     file: ''
     lines: null
-  notes: HO3. Carries R71-6-PLAYER_FIGHTER_PAGE's world facts ("how he bears it stays yours") from a fight's
+  notes: 'HO3. Carries R71-6-PLAYER_FIGHTER_PAGE''s world facts ("how he bears it stays yours") from a fight''s
     wounds to the signs a cause leaves in his body at a horror, an extension that leaves R71-6 standing
     (note filed there, as R72-6 did); partly amends R49-01-WHOSE_HEAD at a horror, since what he feels
-    stays his (note filed there). The answer's examples are the Pike's weight, the Lamp-drinker's chill
-    and a startle. Option C (fear's own signs, such as cold sweat or hair rising, written into his body
+    stays his (note filed there). The answer''s examples are the Pike''s weight, the Lamp-drinker''s chill
+    and a startle. Option C (fear''s own signs, such as cold sweat or hair rising, written into his body
     as a world fact) was not taken, nor option A (the room, never him). R71-17-FEAR_BODY (fear in a fight)
     and R71-41-PRESSURE_UNWOKEN (Pressure on the unwoken by Grade) stand. Read with R72-6-WORLD_WRITES_HIM
     (table law 2026-10-04), whose reflexes as world facts cover the same ground outside horror. What a
     horror leaves afterward is R74-29-WHAT_HORROR_LEAVES.
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: the caused signs stay world facts, and
+    Natalie may now also write what he feels and does in his voice from his card; his post or
+    rewrite wins.'
 - id: R74-29-WHAT_HORROR_LEAVES
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -1094,7 +1106,9 @@ rules:
     archived scenes and card already show, so nothing new is written into his inside: R71-6-PLAYER_FIGHTER_PAGE
     and R49-01-WHOSE_HEAD stand, and R57-10-NEVER_RIGGED holds both ways. The Veil is R12-2-MYSTIC_REGISTER_DEF''s
     ground, which stands. Options not taken: A (others'' grief only), C (his, only if Isaac names it on
-    entering).'
+    entering).
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: his response may now be written by Natalie in
+    his voice from his card (his post or rewrite wins); the shape is still drawn from canon only.'
 - id: R74-32-COSMIC_SCALE_ON_PAGE
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -1262,7 +1276,7 @@ rules:
   pack_number: null
   section: IN3
   title: The standing warm bond never betrays by choice; anyone else after signs shown twice
-  status: live
+  status: superseded
   kind: ban
   summary: The thread's standing warm bond never betrays by choice, and anyone else may betray only with
     the signs shown twice before the turn.
@@ -1287,7 +1301,9 @@ rules:
     the standing warm bond it requires never betrays by choice; notes filed on both. The bar is on betrayal
     by choice; the answer does not rule a turn under compulsion. Each thread''s warm bonds go on the Ledger
     by name under R72-24-NEW_LINES_LEDGER (table law 2026-10-04). Options not taken: B (anyone, warm bond
-    included), C (never by choice, from anyone trusted).'
+    included), C (never by choice, from anyone trusted).
+    Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: story beats such as the warm bond are a
+    palette, never owed per thread, so no bond is guaranteed against betrayal.'
 - id: R74-38-LEVERAGE_BLACKMAIL
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -1464,7 +1480,7 @@ rules:
   pack_number: null
   section: ME1
   title: The law lands in a rule doc, NATALIE.md and a new craft guide
-  status: live
+  status: superseded
   kind: procedure
   summary: The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules
     and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide
@@ -1491,7 +1507,8 @@ rules:
     served by load_rules; NATALIE.md stays as it is. The new guide is not named in amends because it does
     not exist in the project yet (CLAUDE.md: no guide named in amends that does not exist). Follows R70-135-WHERE_NEW_LAW_LIVES
     and R71-102-WHERE_COMBAT_LAW_LANDS, which are not changed. The rule doc is rules/doc-mystery-law-2026-10-04.yaml.
-    Supersedes nothing.'
+    Supersedes nothing.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order.'
 - id: R74-44-WHAT_TABLE_KEEPS_PAPER
   pack: Mystery Law 2026-10-04
   pack_number: null
@@ -1522,11 +1539,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ME2, two of three options (A, B; digest). Option C (a layer list per scheme) was not taken. The
+  notes: 'ME2, two of three options (A, B; digest). Option C (a layer list per scheme) was not taken. The
     sheets write out the "different interests" R60-20-HOW_POWERS_FIGHT asks for, which stands. The knows
     entry keeps knowledge per NPC as R5-C1-INFO_TRACKED_PER_POV keeps it per POV, which stands; R48-36-NPC_WITS
     (never omniscient) stands. Read with R72-26-NPCS_OFF_PAGE (the "doing now" and "stands with him" lines
     at each close) and R72-40-PLAYERS_CAN_LOOK_UP (what NPCs know stays with the Judger), table law 2026-10-04.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the knows entry and the faction sheets
+    are kept current by silent upkeep as scenes happen, not updated at a session end.'
 - id: R74-45-MYSTERY_CHECKS_VERIFY
   pack: Mystery Law 2026-10-04
   pack_number: null

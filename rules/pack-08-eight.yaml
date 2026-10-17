@@ -39,7 +39,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "16-18"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: 'the page never does'
+      is struck; the sheet still states the literal operation.
 
   - id: R8-11-PROSE_RETAINS_PACK7
     pack: Pack Eight
@@ -140,7 +142,7 @@ rules:
     pack_number: 8
     section: "1.3"
     title: The ten-part entry structure, in order
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       An entry runs, in order: true name and gloss, classification block,
@@ -168,13 +170,16 @@ rules:
       Twelve/Seventeen's per-technique summary card; possible overlap not
       reconciled by any pack's own text, so no supersedes/amends
       contradiction is asserted either way.
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: a retired
+      field format (R76-4); a technique requires mechanism, cost and one fair
+      counter.
 
   - id: R8-14-CLASSIFICATION_BLOCK
     pack: Pack Eight
     pack_number: 8
     section: "1.4"
     title: The eight-field classification block, nothing invented
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Class (Offensive/Defensive/Supplementary), Family (one of the Eight),
@@ -197,7 +202,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "43-45"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: a retired
+      field format (R76-4); taxonomy is still drawn from live canon, never
+      invented.
 
   - id: R8-15-DESCRIPTION_STYLE
     pack: Pack Eight
@@ -613,7 +621,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: Nobody translates their own technique aloud
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Nobody translates their own technique's name aloud, ever.
@@ -630,7 +638,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "118"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the
+      never-translated rule retires.
 
   - id: R8-26-ONE_RELEASE_PER_SCENE
     pack: Pack Eight
@@ -690,7 +700,7 @@ rules:
     pack_number: 8
     section: "2.7"
     title: Standing task, a naming pass per culture
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       A naming pass runs per culture; existing techniques already
@@ -714,14 +724,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "124"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent
+      work order (names come as needed).
 
   - id: R8-3-WORKED_EXAMPLES_PENDING
     pack: Pack Eight
     pack_number: 8
     section: "3"
     title: AUCTORITAS and KŌMYAKU, worked entries pending ratification
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in
@@ -743,13 +755,15 @@ rules:
       Full technique flavour text for AUCTORITAS and KŌMYAKU is not
       extracted row by row — worked-example content per BRIEF, not
       enforceable rule text.
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent
+      worked examples for a retired entry format.
 
   - id: R8-4-RETROACTIVE_TASKS
     pack: Pack Eight
     pack_number: 8
     section: "4"
     title: The retroactive work, five tasks folded into the cost audit
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Folded into the cost audit: re-cut every existing technique entry
@@ -777,3 +791,5 @@ rules:
       "Priority target: Niran" (source line 197) is a work-prioritisation
       diagnostic on one character's kit, not extracted — consistent with
       skipping other packs' retrospective priority lists.
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent
+      work order for a retired entry format.

@@ -84,7 +84,9 @@ rules:
     row decides. The What nobody knows line keeps R17-3-WHAT_NOBODY_KNOWS_SCOPE''s scope. Figures filled
     in from play are never invented (R12-5-NEVER_INVENT_NUMBER). A sketch Isaac gives for his own character
     comes back whole at once (R75-3-SKETCH_TO_CARD), and every Counter passes R75-6-COUNTER_FAIRNESS_TEST.
-    No older rule is reached.'
+    No older rule is reached.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: before first fire a technique requires its
+    mechanism, its cost and one fair counter; limit and tell where they exist.'
 - id: R75-3-SKETCH_TO_CARD
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -112,12 +114,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: K3. Follows the keep-or-strike pattern of R50-21-THIRD_NAMES, which stands. The entry says what
+  notes: 'K3. Follows the keep-or-strike pattern of R50-21-THIRD_NAMES, which stands. The entry says what
     the ability is, never how to use it (R47-1-NO_APPLICATIONS, standing), and its uses in a fight stay
-    Isaac's (R48-35-USES, standing); his character's choices stay his (R49-01-WHOSE_HEAD, standing). The
-    whole entry comes back at once, above R75-2-DESIGNED_OR_FOUND's floor for a first fire. The proposed
+    Isaac''s (R48-35-USES, standing); his character''s choices stay his (R49-01-WHOSE_HEAD, standing). The
+    whole entry comes back at once, above R75-2-DESIGNED_OR_FOUND''s floor for a first fire. The proposed
     true name follows R8-21-NAME_IN_OWN_LANGUAGE and R8-22-LITERAL_GLOSS, both standing. A price Isaac
-    names in the sketch is R75-4-YOUR_PRICE_AGAINST_LAW's. No older rule is reached.
+    names in the sketch is R75-4-YOUR_PRICE_AGAINST_LAW''s. No older rule is reached.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: the entry is the R76 paragraph,
+    R47-2 being superseded; Natalie supplies how a sketched ability works unprompted (R79-2).'
 - id: R75-4-YOUR_PRICE_AGAINST_LAW
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -182,7 +186,9 @@ rules:
     standing), inline as R70-80-READOUT_SITS_PAGE sets by default. R70-86-MANY_READOUTS_SCENE_CARRIES,
     whose cap counts R70-84''s readouts, stands. The Grade traces to the card (R12-5-NEVER_INVENT_NUMBER).
     R70-98-SHEETS_CHAPTER_ARC_ENDS stands. A Trait''s Permission line lists the signatures it allows (R75-17-TRAIT_ENTRY_CARRIES);
-    a signature''s page is R75-1-WHERE_TECHNIQUE_WRITTEN''s.'
+    a signature''s page is R75-1-WHERE_TECHNIQUE_WRITTEN''s.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the first-hold print comes at the first pause
+    after the fight.'
 - id: R75-6-COUNTER_FAIRNESS_TEST
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -221,7 +227,9 @@ rules:
     rests on law a player can study before he meets it. R71-31-COUNTERS_DUEL_SCALE stands: the card''s
     Counter remains the hard answer beside the soft Family chart. An archive card whose counter reads
     ''None documented once contact is made'' fails the third test and is rebuilt; old entries are handled
-    under R75-46-OLD_ENTRIES_FAILING_LAW.'
+    under R75-46-OLD_ENTRIES_FAILING_LAW.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the before, during and after triad applies
+    only to signatures; every technique needs one fair counter within reach at its own Stage.'
 - id: R75-7-WHAT_OPENS_TECHNIQUE
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -321,12 +329,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: TE2. Both figures are set on the card and never invented (R12-5-NEVER_INVENT_NUMBER). The Readiness
+  notes: 'TE2. Both figures are set on the card and never invented (R12-5-NEVER_INVENT_NUMBER). The Readiness
     bought is the card figure R71-28-DECIDES_CASTING_SPEED reads, which stands. A clipped chant is still
-    voice, so R20C-42-LAW_V_STAGE_GATE_REFRACTION's medium below Refraction stands, and R71-27-SPOKEN_WORKING_EXCHANGE
+    voice, so R20C-42-LAW_V_STAGE_GATE_REFRACTION''s medium below Refraction stands, and R71-27-SPOKEN_WORKING_EXCHANGE
     still cuts the chant into the exchange. The release call (R8-24-RELEASE_MECHANIC) stays a separate
-    lever on output. The chant stays in the caster's own tongue on the page (R50-26-CHANT_TONGUE, R51-28-CHANT_PAGE).
+    lever on output. The chant stays in the caster''s own tongue on the page (R50-26-CHANT_TONGUE, R51-28-CHANT_PAGE).
     No older rule is reached.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the figures are set when play reaches them.'
 - id: R75-10-TECHNIQUE_GROWS_TO_GRADE
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -394,7 +403,10 @@ rules:
     share by a figure set on its card. The figures are set on the card, never invented (R12-5-NEVER_INVENT_NUMBER).
     Each crossing needs R70-90-FAST_NUMBERS_CLIMB''s shown cause and is entered in R70-98-SHEETS_CHAPTER_ARC_ENDS''s
     changes block; both stand. The lowered Readiness is the card figure R71-28-DECIDES_CASTING_SPEED reads,
-    which stands. The answer adds no readout moment; R70-84-GROWTH_MOMENTS_THAT_EARN stands.'
+    which stands. The answer adds no readout moment; R70-84-GROWTH_MOMENTS_THAT_EARN stands.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: a crossing is entered on the card by
+    silent upkeep, not in a chapter-end block printed under a turn; the mark figures are set when
+    play reaches them (R79-9).'
 - id: R75-12-WHAT_VOW_WORTH
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -429,7 +441,10 @@ rules:
     is invented (R12-5-NEVER_INVENT_NUMBER). The release call is R8-24-RELEASE_MECHANIC''s, which stands.
     R39-4-MAX_GRADE_LETTER_BINDS (the Sub-Stat Grade cap) stands. What a great vow stakes and what breaking
     it costs is R75-13-WHAT_ELSE_VOW_MAY_BE. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: vows and conditions
-    are common and central.'
+    are common and central.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the figures are set when play reaches them.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a vow''s lift counts against the two-Grade
+    stacking cap on the card''s Grade.'
 - id: R75-13-WHAT_ELSE_VOW_MAY_BE
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -667,7 +682,9 @@ rules:
     Pairs, so a proposed Pair names what was checked and why the ten fail. Canon''s ten are Fracture of
     Worlds Part Nine''s and stay the base; a proposed Pair does not bind until ratified. R20C-33-RESONANT_PAIRS_DIAGNOSTIC,
     R71-38-RESONANT_PAIR_UNDER_STRAIN and R14-8-ABILITY_GUIDE_FOW_LINE (a Resonant Pair on the FOW line)
-    stand. R18-2-CODEX_FIRST_MANDATE is not reached.'
+    stand. R18-2-CODEX_FIRST_MANDATE is not reached.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no ratification wait: a new Pair that passes
+    R18-2''s test stands as canon on use, and Isaac may strike it.'
 - id: R75-20-CARDING_SYNERGIA
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -728,10 +745,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: TE14. Applies R8-21-NAME_IN_OWN_LANGUAGE to both owners and R8-22-LITERAL_GLOSS to both names;
-    both stand. R50-11-LONG_NAMES's two-word cap binds either name only where it is new English, and R70-74-TECHNIQUE_NAME_LOOKS
+  notes: 'TE14. Applies R8-21-NAME_IN_OWN_LANGUAGE to both owners and R8-22-LITERAL_GLOSS to both names;
+    both stand. R50-11-LONG_NAMES''s two-word cap binds either name only where it is new English, and R70-74-TECHNIQUE_NAME_LOOKS
     stands for hall names. R8-24-RELEASE_MECHANIC and R71-29-OFTEN_ART_RELEASED stand. No older rule is
     reached.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: each partner calls the art in English or his own
+    tongue, as the character would.'
 - id: R75-22-OWN_TECHNIQUES_COMBINED
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -866,7 +885,9 @@ rules:
     are written as facts (R47-3-COUNTERS_AS_FACTS); the techniques named there link to the pages R75-1-WHERE_TECHNIQUE_WRITTEN
     sets. Table Rule 5 settles a fight from the rows R14-3-STATS_DECIDE_TABLE names, which the head puts
     on one screen. R58-12-AS_OF_LINE_ON_EVERY_CARD and R54-11-CARD_HEADER_AT_A_MOMENT stand for the header.
-    A short card carries its own shorter list (R75-26-RUNGS_OF_PERSON).'
+    A short card carries its own shorter list (R75-26-RUNGS_OF_PERSON).
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the one-screen head is required; the sections
+    below it are a menu filled with what the character has, with no character cap.'
 - id: R75-26-RUNGS_OF_PERSON
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -904,7 +925,10 @@ rules:
     cards, which the question sets beside them, are not named by the answer and are rebuilt to a rung
     in R75-45-WHICH_CARDS_FIRST''s order. A short card''s voice block is the R52-03-VOICE_BLOCK block,
     which that row requires on every major card. What lifts a person a rung is R75-27-WHAT_LIFTS_RUNG;
-    how much of the stat sheet each rung carries is R75-28-HOW_MUCH_SHEET; the full card''s shape is R75-25-ONE_CARD_SHAPE.'
+    how much of the stat sheet each rung carries is R75-28-HOW_MUCH_SHEET; the full card''s shape is R75-25-ONE_CARD_SHAPE.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the rungs are not gates: a card is made when
+    needed, a full card when he asks or the character recurs; the card template in desktop/templates
+    is the one skeleton.'
 - id: R75-27-WHAT_LIFTS_RUNG
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -940,7 +964,9 @@ rules:
     come from his own sheet (R70-78-WHERE_SCREEN_COMES_FROM); a rival''s growth and debts are traced on
     his card, read with R75-37-RIVAL_BETWEEN_MEETINGS. R70-104-RIVAL_BOND stands: the rival still recurs
     only by a mercy paid for on the Ledger, and the full card follows that return. R42-7-FOUR_PATHS stands.
-    The rungs are R75-26-RUNGS_OF_PERSON''s.'
+    The rungs are R75-26-RUNGS_OF_PERSON''s.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: rungs are not gates: the POV gate is struck; a
+    card is made when needed and a full card when he asks or the character recurs.'
 - id: R75-28-HOW_MUCH_SHEET
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -976,7 +1002,9 @@ rules:
     Path, logged, where build/recost.py today keeps Primaries and listed peaks only (the question''s context);
     the allotment and the trim stand. R12-5-NEVER_INVENT_NUMBER stands; the answer keeps the spend inside
     the re-costed totals and has it logged. R39-3-STAGE_ONE_THRESHOLD_COUNTS, R70-83-FIGURES_PLAIN_NARRATION
-    and R70-93-BUILD_TALK_DIALOGUE stand; exact readouts and build talk read the full card''s figures.'
+    and R70-93-BUILD_TALK_DIALOGUE stand; exact readouts and build talk read the full card''s figures.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: a card carries the Primaries and the Sub-Stats
+    in use, the rest derived when a scene needs them; all sixty-four is no longer owed.'
 - id: R75-29-WHO_SPENDS_LEVEL_POINTS
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1047,7 +1075,9 @@ rules:
     a Band ceiling; the answer applies it to these four and does not restate it for Sodoku and Krothar.
     Options B (raise the Stage) and C (lower the Level, the reserve following the Level law down) were
     not taken. Every figure in the price is Part Ten''s, so R12-5-NEVER_INVENT_NUMBER is met; Stage names
-    follow R20C-30-STAGE_NAMES_FROM_FOW.'
+    follow R20C-30-STAGE_NAMES_FROM_FOW.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: clean-up: the one-step work order is spent;
+    the outlier-with-strain ruling stands, bands being typical ranges.'
 - id: R75-31-MARKING_ESTIMATE
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1125,13 +1155,15 @@ rules:
     body kind of R49-36-LIE_TELLS'' three, so the frequent lies of R48-42-LIES can be caught by a player
     who reads bodies; read with R72-25-HOW_MANY_LIES (table law 2026-10-04), which logs each roster lie
     with its tell. R20C-49-GLOSS_RIGHTS_CARD_FIELD stays a separate card field, and R71-72-ALCHEMIST_VOICE''s
-    ''reads first'' line stays an alchemist''s optional addition.'
+    ''reads first'' line stays an alchemist''s optional addition.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the speaker type is required; the chant tongue
+    and lying tell are menu items.'
 - id: R75-33-LORE_AND_LENGTH_CAP
   pack: Techniques Law 2026-10-04
   pack_number: null
   section: CH9
   title: The length cap binds the seventeen sections; Lore runs free
-  status: live
+  status: superseded
   kind: budget
   summary: The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log,
     Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.
@@ -1158,7 +1190,9 @@ rules:
     not name it, while the Skills section of R75-35-SKILLS_ON_CARD, set after Techniques, falls inside
     that span. The question''s survey found forty-eight cards over the cap with Lore and eight without;
     the eight are trimmed in the R75-44-WHAT_JOINS_CARD_SWEEP sweep. R54-11-CARD_HEADER_AT_A_MOMENT stands:
-    Lore carries later events.'
+    Lore carries later events.
+    Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: a card has no character cap; the trim sweep
+    is spent.'
 - id: R75-34-STORY_FIELDS_ON_CARD
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1187,13 +1221,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CH10, multi-select (A, B, D taken; C, a Need beside Desire, not taken). With the Core Wound the
-    cards already hold, the refusal line and the conviction put all three of R7-1-CHARACTER_FIRST's sources
+  notes: 'CH10, multi-select (A, B, D taken; C, a Need beside Desire, not taken). With the Core Wound the
+    cards already hold, the refusal line and the conviction put all three of R7-1-CHARACTER_FIRST''s sources
     (refusal, wound, conviction) on the card; R7-1 stands and is met. The refusal line is the one the
-    roster already carries, so Table Rule 3's refusals read straight off the card. The conviction gives
-    the Trait System's 'Belief, once survived, becomes law' the belief it grows from and a Shear Break
-    a truth to break against; read with R75-17-TRAIT_ENTRY_CARRIES (a Trait's founding sentence). R52-02-VOICE_LEVER
+    roster already carries, so Table Rule 3''s refusals read straight off the card. The conviction gives
+    the Trait System''s ''Belief, once survived, becomes law'' the belief it grows from and a Shear Break
+    a truth to break against; read with R75-17-TRAIT_ENTRY_CARRIES (a Trait''s founding sentence). R52-02-VOICE_LEVER
     and R17-5-TRAIT_SCOPE stand.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the arc-kind taxonomy is dropped; the refusal
+    line and conviction are menu items.'
 - id: R75-35-SKILLS_ON_CARD
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1237,7 +1273,9 @@ rules:
     asks. The Crystal never prints a mark, so R70-84-GROWTH_MOMENTS_THAT_EARN gains no readout from it.
     Partly amends R14-8-CHARACTER_SHEET_FOW_LINE (''Unchanged in sections''): the template gains a Skills
     section. Sub-Stats price measure and the read under R14-3-STATS_DECIDE_TABLE, which stands. The section
-    falls between Identity and Fracture Log, so the R75-33-LORE_AND_LENGTH_CAP cap binds it.'
+    falls between Identity and Fracture Log, so the R75-33-LORE_AND_LENGTH_CAP cap binds it.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: crossings go onto the card by silent
+    upkeep; the Skills section is part of the card''s menu below the required head (R79-9).'
 - id: R75-36-COMIC_NAME_ON_CARD
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1263,13 +1301,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CH11. Options B (the card titled by the byname) and C (the byname and its say-line only) were
-    not taken. Who may carry a comic name is R70-122-MAY_CARRY_ONE's (recurring minor NPCs, villains and
+  notes: 'CH11. Options B (the card titled by the byname) and C (the byname and its say-line only) were
+    not taken. Who may carry a comic name is R70-122-MAY_CARRY_ONE''s (recurring minor NPCs, villains and
     rivals; major NPCs keep strict names), unchanged; the byname is grown under R70-121-GROWN_COMIC_NAMES
-    and coined from the culture's bank or by ear under R70-131-COMIC_NAMES_GET_MADE. The given name under
-    the joke is what R70-127-COMIC_NAME_GRIM_END's grief beat and the Kharven name held unspoken until
+    and coined from the culture''s bank or by ear under R70-131-COMIC_NAMES_GET_MADE. The given name under
+    the joke is what R70-127-COMIC_NAME_GRIM_END''s grief beat and the Kharven name held unspoken until
     given on (R23-11-NAME_AVOIDANCE_WAITING) turn on. R50-34-SAY_GUIDE (a pronunciation line on every
     card) stands.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: a menu item, filled when the character carries
+    a comic name.'
 - id: R75-37-RIVAL_BETWEEN_MEETINGS
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1444,7 +1484,9 @@ rules:
     tally, so it sits where the card keeps one: Isaac''s characters'' cards and full cards (R75-39-XP_AS_ARITHMETIC).
     The Level log is fed by R70-98-SHEETS_CHAPTER_ARC_ENDS''s changes block; the Stage ledger records
     the public re-assay before witnesses of R70-92-CONFIRMING_NEW_STAGE. The prose Temperance Record and
-    the Fracture Log stay. R70-90-FAST_NUMBERS_CLIMB and R42-7-FOUR_PATHS stand.'
+    the Fracture Log stay. R70-90-FAST_NUMBERS_CLIMB and R42-7-FOUR_PATHS stand.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the XP bar, Level log and Stage ledger
+    are kept current by silent upkeep and are menu items below the card''s required head (R79-9).'
 - id: R75-42-NEXT_GATE
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1477,13 +1519,15 @@ rules:
     lands inside its Catalyst crisis (R70-91-BREAKTHROUGH_PAGE), and the line is a sign planted ahead
     of it, the planting R71-30-HELD_BACK_REVEAL allows and Cradle''s planted advancements model (R70-6-LITRPG_PROGRESSION_MODELS);
     all three stand. The question''s sample: Renard Greymane at Level 198, Stage IV, two Levels short
-    of a Band gate that asks Stage VII.'
+    of a Band gate that asks Stage VII.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: a next-gate line only when the bearer is near
+    a gate.'
 - id: R75-43-WHERE_TECHNIQUE_LAW_LANDS
   pack: Techniques Law 2026-10-04
   pack_number: null
   section: ME1
   title: The law lands as a doc, rebuilt tools and new guide editions at once
-  status: live
+  status: superseded
   kind: procedure
   summary: 'The techniques law lands in one pass: one dated law doc through log_ruling, the converter,
     create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the
@@ -1521,13 +1565,15 @@ rules:
     fixes owed in any case: the converter''s retired Design Chain and its ''pending Isaac'' placeholders,
     and the roster schema''s missing body and stat-line fields. R75-47-PROOF_AND_ORDER sets the order
     of the work; it does not place the guide editions, which this answer puts in the same pass as the
-    law and the tools.'
+    law and the tools.
+    Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent work order; no sixth
+    edition of the Ability and Technique Design Guide exists in the project.'
 - id: R75-44-WHAT_JOINS_CARD_SWEEP
   pack: Techniques Law 2026-10-04
   pack_number: null
   section: ME2
   title: The card sweep carries the estimate mark, a Lore cross-read and dashes out
-  status: live
+  status: superseded
   kind: procedure
   summary: The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark
     to every card and drops the flags the Level law has since made exact, reads each Lore against its
@@ -1563,13 +1609,16 @@ rules:
     records events after the header''s moment is not by that alone a contradiction. Extends R48-03-SIMILES
     (''em dashes stay banned''): the ban is carried from the page to the sheet, the sweep taking em and
     en dashes out of card bodies and Lore; R15-1-AI_TELL_CHECKS_SURVIVE stands. R70-99-NUMBER_NOT_YET_CANON
-    stands. The eight cards over the cap without Lore are trimmed in the same sweep (R75-33-LORE_AND_LENGTH_CAP).'
+    stands. The eight cards over the cap without Lore are trimmed in the same sweep (R75-33-LORE_AND_LENGTH_CAP).
+    Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the (est.) clause is reversed (figures are
+    plain, with no mark) and the sweep is a spent work order; dashes stay out of cards under the
+    prose ban (R15-1-AI_TELL_CHECKS_SURVIVE).'
 - id: R75-45-WHICH_CARDS_FIRST
   pack: Techniques Law 2026-10-04
   pack_number: null
   section: ME3
   title: The Kharven room's cards are rebuilt first
-  status: live
+  status: superseded
   kind: procedure
   summary: 'Cards are rebuilt in order: Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room
     at Kharven-Seat first, then the other live threads, then the archive by appearances.'
@@ -1587,13 +1636,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ME3. Options B (all live threads together) and C (by appearance count alone) were not taken.
+  notes: 'ME3. Options B (all live threads together) and C (by appearance count alone) were not taken.
     The Kharven room holds header cards with no stats, Traits or techniques, so Table Rule 5 cannot yet
     name the row that decided a fight there (R14-3-STATS_DECIDE_TABLE, which stands). The other live threads
-    are Kwon Mu-jin's and the New World's Korvaeth War (the question's context); the archive's order is
-    cast_index's ranking by appearances. The rung each person is rebuilt to is R75-26-RUNGS_OF_PERSON's;
-    the rebuilds run after the test of R75-47-PROOF_AND_ORDER, and each card's failing technique lines
+    are Kwon Mu-jin''s and the New World''s Korvaeth War (the question''s context); the archive''s order is
+    cast_index''s ranking by appearances. The rung each person is rebuilt to is R75-26-RUNGS_OF_PERSON''s;
+    the rebuilds run after the test of R75-47-PROOF_AND_ORDER, and each card''s failing technique lines
     are put right in this order (R75-46-OLD_ENTRIES_FAILING_LAW).
+    Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent work order; cards are made
+    when needed (R79-9).'
 - id: R75-46-OLD_ENTRIES_FAILING_LAW
   pack: Techniques Law 2026-10-04
   pack_number: null
@@ -1635,7 +1686,7 @@ rules:
   pack_number: null
   section: ME4
   title: Law and tools first, then three test cards and a fight
-  status: live
+  status: superseded
   kind: procedure
   summary: 'The work runs in order: log the law and rebuild the converter and the card skeleton, make
     the three test cards through them, play a scene where one of them decides a fight, amend, and only
@@ -1652,10 +1703,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ME4. Options A (law, test cards by hand, then tools) and C (everything, then test) were not taken.
+  notes: 'ME4. Options A (law, test cards by hand, then tools) and C (everything, then test) were not taken.
     The three test cards are the three option A lists, a full card, a short card and a conversion, here
     made through the rebuilt tools so the test proves the tools too; the fight one of them decides is
-    Table Rule 5 settled from a new card's rows (R14-3-STATS_DECIDE_TABLE). Follows R70-138-PROOF_ORDER_WORK
+    Table Rule 5 settled from a new card''s rows (R14-3-STATS_DECIDE_TABLE). Follows R70-138-PROOF_ORDER_WORK
     and R71-105-PROOF_ORDER_WORK, which stand. An amendment found in the test enters as a new dated ruling,
-    never a silent edit (CLAUDE.md). The sweep is R75-44-WHAT_JOINS_CARD_SWEEP's and the rebuilds run
-    in R75-45-WHICH_CARDS_FIRST's order.
+    never a silent edit (CLAUDE.md). The sweep is R75-44-WHAT_JOINS_CARD_SWEEP''s and the rebuilds run
+    in R75-45-WHICH_CARDS_FIRST''s order.
+    Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent work order.'

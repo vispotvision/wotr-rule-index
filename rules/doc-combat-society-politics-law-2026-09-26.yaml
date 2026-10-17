@@ -78,7 +78,10 @@ rules:
     lines: null
   notes: 'Read with R70-85-SCENE_MOMENTS_THAT_EARN (style law 2026-10-03): a reserve line after a working
     shows this clock on the page. Read with R70-88-NUMBERS_INSIDE_FIGHT (style law 2026-10-03): the clock
-    is never shown as a running count inside a fight.'
+    is never shown as a running count inside a fight.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the clock runs out of sight (no Stat Ledger);
+    a fight Draft refills reserve and the crash pays; the running-low thresholds are world law,
+    shown as body tells.'
 - id: R60-04-DEATH_IS_PERMANENT
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -98,7 +101,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the undeath-only clause is struck: the dead
+    stay dead save rare, costly returns by canon means; full resurrection stays forbidden on paper.'
 - id: R60-05-COMPANY_THEN_CROWN
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -473,7 +477,9 @@ rules:
     file: ''
     lines: null
   notes: 'Applied by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): succession becomes a
-    field on every Inventory.'
+    field on every Inventory.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: Standing Inventories owe no fields; a
+    culture''s succession is written where it is needed.'
 - id: R60-22-THE_NIGHT_WATCH
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null

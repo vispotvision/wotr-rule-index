@@ -351,6 +351,9 @@ rules:
       voice), but the citation itself is stale. Not raised as a CONFLICTS.md
       row since this whole row is status:proposed, not live, so nothing
       live actually contradicts.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the never-explain
+      clause is struck: trained characters, Measurewrights included, may give
+      the physics, while narration states the law.
 
   - id: R11-A
     pack: Pack Eleven
@@ -546,7 +549,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "67"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: Liechtenauer
+      and Fiore name the Blade grammar's sources only; on the page the moves
+      are plain body actions (R77-1).
 
   - id: R11-3-BALLISTICS_RULING
     pack: Pack Eleven
@@ -583,7 +589,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: The three ammunition tiers
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Common shot (cheap, kills men, annoys practitioners), proofed shot
@@ -610,6 +616,9 @@ rules:
       worked armour as one Tier higher (out-coupling counts one Tier); a round
       two over passes, and the named round is simply two over. No words of
       replacement, so the row stays live.
+      Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: one item ladder
+      decides out of sight: a proofed round strikes one Tier over the target
+      armour and a named round two, makers graded by Tier of Standing.
 
   - id: R11-3-FIREARM_PROSE_LAW
     pack: Pack Eleven
@@ -870,6 +879,9 @@ rules:
       not raised as a CONFLICTS.md row since this whole row is
       status:proposed (unconfirmed), not live, so nothing live actually
       contradicts Twelve.
+      Amended 2026-10-17 by R79-2-LEAN_TABLE: the ignorance-quota and one-read
+      Apparatus clauses are struck (no notice quota anywhere; R79-6 retires
+      the one-read cap); the body-first sensory opening of a descent stands.
 
   - id: R11-D
     pack: Pack Eleven
@@ -946,7 +958,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "117"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: 'HEMA grammar'
+      reads as the Blade grammar, written in plain body language (R77-1).
 
   - id: R11-5-STANDING_INVENTORY_PERIPHERY
     pack: Pack Eleven

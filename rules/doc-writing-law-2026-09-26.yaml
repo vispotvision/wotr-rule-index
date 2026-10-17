@@ -59,7 +59,7 @@ rules:
   pack_number: null
   section: Beautiful prose
   title: Similes
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Loosen similes only: a good simile is welcome when it earns its place; em dashes
     stay banned.'
@@ -83,7 +83,10 @@ rules:
     instant (R70-57-DESCRIPTION_INSIDE_FIGHT).
     Extended by R75-44-WHAT_JOINS_CARD_SWEEP (techniques law 2026-10-04): the dash ban is carried
     from the page to the sheet, and the card sweep takes em and en dashes out of card bodies and
-    Lore.'
+    Lore.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: duplicate merged into
+    R49-18-SIMILE_COUNT (similes welcome when earned, no count); the em-dash ban stands in
+    R15-1-AI_TELL_CHECKS_SURVIVE.'
 - id: R48-04-METAPHORS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -146,7 +149,7 @@ rules:
   pack_number: null
   section: Beautiful prose
   title: Rhythm law
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs under
     10 words, at most two long sentences in a row; the checker fails anything else.'
@@ -168,7 +171,9 @@ rules:
     a row. Do they help the music or cramp i Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES
     (style law 2026-10-03): in set pieces only, matched pairs and verse lines are exempt from
     the run rule and once per scene the climax may be one long cumulative sentence; ordinary
-    turns keep the full rhythm law. R70-15 keeps the hit short and last under jo-ha-kyu tempo.'
+    turns keep the full rhythm law. R70-15 keeps the hit short and last under jo-ha-kyu tempo.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: every rhythm rule retires; a revelation
+    may take a short line and its consequence gets room.'
 - id: R48-07-WHITE_SPACE
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -195,7 +200,9 @@ rules:
     (style law 2026-10-03): medium paragraphs stay the norm, but reveals, verdicts, notices
     and a fight''s last beats may run as one-line paragraphs in a cluster. Read with R70-80-READOUT_SITS_PAGE
     (style law 2026-10-03): set-off readout blocks are rare milestone events, so white space
-    keeps its meaning.'
+    keeps its meaning.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: paragraphs are developed, with no check; a
+    one-line paragraph stands wherever the movement around it earns it.'
 - id: R48-08-NEW_POVS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -304,7 +311,7 @@ rules:
   pack_number: null
   section: Register and voice
   title: Profanity
-  status: live
+  status: superseded
   kind: mandate
   summary: Profanity in mouths and in close-POV narration when the POV would think it.
   verbatim: Profanity in mouths and in close-POV narration when the POV would think it.
@@ -321,13 +328,15 @@ rules:
     lines: null
   notes: 'Question w12: Your own dialogue is never altered. How much swearing should NPCs and
     narration carry? Read with R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03):
-    close-POV profanity may be in an Eastern-stratum POV''s own language.'
+    close-POV profanity may be in an Eastern-stratum POV''s own language.
+    Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up: duplicate merged into
+    R51-02-CLOSE_POV_SWEARS.'
 - id: R48-13-PERIOD_FEEL
   pack: Writing Law 2026-09-26
   pack_number: null
   section: Register and voice
   title: Period feel
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Modern words in speech only: characters may talk modern; narration keeps a timeless
     register.'
@@ -353,7 +362,9 @@ rules:
     modern words the POV would say aloud; plain narration keeps the timeless register. Confirmed
     by R70-94-GAMER_SLANG (style law 2026-10-03), "Current law": gamer slang goes in a mouth
     whose voice would carry it, narration stays timeless, and verify_scene adds the words to
-    its narration watch-list.'
+    its narration watch-list.
+    Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up: duplicate merged into
+    R70-37-MODERN_IDIOM_THOUGHT.'
 - id: R48-14-DEPTH
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -536,7 +547,10 @@ rules:
     lines: null
   notes: 'Question w20: A working''s full account runs through three layers (Aether, Wellspring,
     Essence). How often should that show in prose? Read with R70-86-MANY_READOUTS_SCENE_CARRIES
-    (style law 2026-10-03): readouts ride this row''s display-and-finisher rhythm, plus an aftermath.'
+    (style law 2026-10-03): readouts ride this row''s display-and-finisher rhythm, plus an aftermath.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: a working''s first display carries one clear
+    causal line, in a mouth or in narration; the full three-strata account lives on the card and in
+    the notes.'
 - id: R48-21-NAMING
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -638,7 +652,7 @@ rules:
   pack_number: null
   section: WOTR metaphysics on the page
   title: Awe
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly
     as a sword exchange.'
@@ -661,7 +675,9 @@ rules:
     (rules stated, never explained) or with the same clarity as combat? Partly amended by R70-76-MUCH_WORLD_MAGIC
     (style law 2026-10-03): R48-25 narrows to what people do, and what the world does by itself
     is stated as law under R12-2-MYSTIC_REGISTER_DEF, taboos unexplained. A rite performed on
-    the page follows R70-75-RITE_PAGE.'
+    the page follows R70-75-RITE_PAGE.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the world''s own magic is stated as law with
+    its reasons kept (R70-76).'
 - id: R48-26-INVENTION
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -690,7 +706,10 @@ rules:
     Partly amended by R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): ''Bigger things wait'' is
     struck. Natalie makes every call herself, even a carded NPC''s death or a new faction, and logs
     each under the turn as an agent ruling Isaac may overturn; inventing NPCs, places and texture
-    without asking, logged, stands inside it.'
+    without asking, logged, stands inside it.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: Natalie invents texture, places, words and
+    minor people freely when nothing on file covers them, canon once in an archived scene, and he
+    may strike it; nothing is logged under a turn (R79-2).'
 - id: R48-27-REAL_WORLD
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -738,7 +757,10 @@ rules:
   notes: 'Question w28: Roleplay turns run 300 to 700 words. Is that the right size?
     Partly amended by R72-3-REPLIES_RUN_LONG (table law 2026-10-04): Desktop turns still run about
     3,500 words; a Discord post Natalie writes from Isaac''s beat runs about 1,500, the house
-    median, unless the beat asks for more, and an out-of-character answer is plain.'
+    median, unless the beat asks for more, and an out-of-character answer is plain.
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: R72-3''s Discord band is reversed: every
+    in-fiction reply runs about 3,500 words, set pieces and Discord posts included; out-of-character
+    answers run at their own length.'
 - id: R48-29-PACING
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -860,7 +882,7 @@ rules:
   pack_number: null
   section: Combat and consequence
   title: Choreography
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Duels: every exchange traced (measure, guard and the move by its fencing name).'
   verbatim: 'Duels: every exchange traced (measure, guard and the move by its fencing name).'
@@ -886,7 +908,9 @@ rules:
     Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat law 2026-10-04): ''R48-33 is
     amended'': exchanges that change nothing may be counted back in one sentence, each named by its
     move; any exchange that lands, shifts measure or reveals something is still traced, with the
-    floor.'
+    floor.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: exchanges where nothing lands may be summed
+    in a sentence; every hit that lands gets its own clause; fight jargon is never required.'
 - id: R48-34-WOUNDS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -918,7 +942,10 @@ rules:
     Partly amended by R74-33-BODY_HORROR_OUTSIDE_FIGHT (mystery law 2026-10-04): "R48-34 extends to
     horror", so body horror outside a fight is written the same way: anatomy named, colour, texture
     and the absent smell, nothing looked away from, in the POV''s flat, exact eye, and documents may
-    carry it too. Wounds stand as written.'
+    carry it too. Wounds stand as written.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: minute-by-minute tracking is struck; wounds are
+    plain and anime on the page (full gore, geysers, shrugged off then felt), with clinical names
+    and haemorrhage class in the notes and a medic''s mouth.'
 - id: R48-35-USES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -942,7 +969,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question w35: Ability pages no longer say how to use an ability. In a fight, who invents
-    the clever uses?'
+    the clever uses?
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: Natalie may also give his PC inventive
+    new uses of his abilities inside the page''s facts; new techniques and card changes stay his.'
 - id: R48-36-NPC_WITS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1089,7 +1118,9 @@ rules:
     the page only through what the POV knows.
     Partly amended by R71-47-SHOWING_SCALE (combat law 2026-10-04): in a top-ladder fight in a city,
     one commoner in the street may get a short dip inside her head at a marked break, then the lock
-    resumes; outside that and a roll call a locked written scene still carries no NPC thoughts.'
+    resumes; outside that and a roll call a locked written scene still carries no NPC thoughts.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: NPC italic thoughts are free in any mode
+    with no count, so the one-per-NPC allowance and the locked-scene ban both go.'
 - id: R48-41-MAGIC_TALK
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1141,7 +1172,9 @@ rules:
     Partly amended by R74-5-WHAT_CATCHING_LIE_IS (mystery law 2026-10-04): ''the player has to catch
     them'' now means his PC catching them: a lie is caught when his PC acts on the truth or names
     the lie in play, and Isaac spotting it in chat changes nothing in the world until his PC moves.
-    Frequent lies stand.'
+    Frequent lies stand.
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: R72-25''s floor is struck: NPCs lie where their want
+    makes them, with no required lie per NPC; the player still has to catch them.'
 - id: R48-43-SPEECHES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1169,7 +1202,9 @@ rules:
     (style law 2026-10-03): court cultures (the Moto court, the Accord chancery, the Mahuo houses,
     the lineage halls) argue in long formal speeches at court as their normal register, and
     this cap holds outside court. Under R70-101-DECLARING_NAME_LINE_BEFORE a full pre-duel declaration
-    counts as the scene''s crafted speech.'
+    counts as the scene''s crafted speech.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: speeches carry no cap; the card decides how
+    realistic a speaker stays under stress.'
 - id: R48-44-NAME_USE
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1226,13 +1261,15 @@ rules:
     (style law 2026-10-03): the description census runs as a WARN, not a FAIL; the full check
     on every turn stands. Stands; R70-136-NEW_CHECKS_VERIFY_SCENE (style law 2026-10-03) adds
     combat words by school, a verse marker that keeps marked verse out of the rhythm statistics
-    and word count, and a WARN on translated web-novel formulas in narration.'
+    and word count, and a WARN on translated web-novel formulas in narration.
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: one verify_scene per turn, every FAIL fixed, WARNs read
+    but not looped.'
 - id: R48-46-WORD_FLOOR
   pack: Writing Law 2026-09-26
   pack_number: null
   section: Process
   title: Word floor
-  status: live
+  status: superseded
   kind: mandate
   summary: Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
   verbatim: Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
@@ -1247,7 +1284,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w46: Set pieces must run at least 2,500 words. Keep that floor?'
+  notes: 'Question w46: Set pieces must run at least 2,500 words. Keep that floor?
+    Superseded 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: every in-fiction reply runs about 3,500
+    words, set pieces included; there is no separate set-piece floor.'
 - id: R48-47-NOTES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1279,7 +1318,7 @@ rules:
   pack_number: null
   section: Process
   title: Explain
-  status: live
+  status: superseded
   kind: mandate
   summary: The partner explains the physics and metaphysics only when asked; working it out
     is part of the challenge.
@@ -1297,7 +1336,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question w48: After a scene, should the partner explain the physics and metaphysics
-    it used?'
+    it used?
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: when he sketches an ability out of character, Natalie
+    supplies how it works without being asked; R79-6 puts the full mechanism on the page in fights.'
 - id: R48-49-CITATIONS
   pack: Writing Law 2026-09-26
   pack_number: null

@@ -100,7 +100,7 @@ rules:
     pack_number: 4
     section: "Amendment Thirteen"
     title: Significance lives in three places, never in narration
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Significance may live in a physical tell adjacent to the line, in
@@ -128,13 +128,16 @@ rules:
       power reveal the crowd may speak in waves inside the POV's hearing.
       R70-72 does not name this rule; its three places for significance, and
       narration not being one, stand.
+      Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the POV may
+      interpret, remember and draw meaning in narration; only a narrator's
+      moral appended after an image stays banned.
 
   - id: R4-13-THIRD_RECURRENCE
     pack: Pack Four
     pack_number: 4
     section: "Amendment Thirteen"
     title: The Third Recurrence rule for a loaded word
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       A loaded word gets one physical response on first use and no
@@ -160,7 +163,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "52-54"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: meaning may be
+      drawn in narration by the POV; the third-recurrence device is optional.
 
   - id: R4-13-FID_CARVEOUT
     pack: Pack Four
@@ -229,6 +234,9 @@ rules:
       before the idiom is used bare, and a working's rules are planted before
       a fight through training, a document or talk. Neither names this rule,
       and the zero gloss budget stands.
+      Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the POV may
+      interpret and draw meaning in narration; the zero budget now binds only
+      a narrator's moral appended after an image.
 
   - id: R4-13-GLOSS_RIGHTS_PENDING
     pack: Pack Four
@@ -268,7 +276,7 @@ rules:
     pack_number: 4
     section: "Amendment Fourteen"
     title: Sentence-length variance is enforced per paragraph
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Sentence-length variance is enforced at the paragraph level, not just
@@ -288,14 +296,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "96"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: every
+      sentence-length and rhythm rule retires.
 
   - id: R4-14-RUN_RULE
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: The run rule, no three same-length sentences in a row
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       No three consecutive sentences may fall within forty percent of each
@@ -329,13 +339,15 @@ rules:
       fight, in its swift stretch, one short paragraph of short, even
       sentences is exempt from the run rule, and the notes mark it;
       R70-19-PAIRED_CUMULATIVE_SENTENCES's set-piece licence is unchanged.
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the run rule
+      retires with every sentence-length and rhythm rule.
 
   - id: R4-14-CHAIN_CEILING
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: The chain ceiling, no more than two long sentences in a row
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       No more than two consecutive sentences may run over 25 words; the
@@ -361,13 +373,15 @@ rules:
       names the chain ceiling, and R70-56 says "The chain ceiling (R4-14)
       still holds". Kept by R70-56-CATALOGUE_TELLING_DETAIL (style law
       2026-10-03): catalogues at set occasions still obey the chain ceiling.
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the
+      long-sentence chain ceiling retires.
 
   - id: R4-14-CLAUSE_CAP_AT_BEAT
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: The clause cap at the beat
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       Within the three sentences bracketing a value turn, no sentence
@@ -393,13 +407,15 @@ rules:
       2026-10-03): in set pieces, once per scene, the climax itself may be one
       long cumulative sentence chained with 'and'; the cap holds for every
       other sentence at a beat, and ordinary turns keep it in full.
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the clause cap
+      retires.
 
   - id: R4-14-LANDING_RULE
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: The landing rule, the hit is the shortest sentence and sits last
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       The emotional hit takes the shortest sentence in its paragraph and
@@ -425,13 +441,16 @@ rules:
       2026-10-03): in set pieces, once per scene, the climax may be one long
       cumulative sentence chained with 'and', breaking the landing rule;
       everywhere else the hit stays shortest and last (R70-15).
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the landing
+      rule retires; a revelation may take a short line and its consequence
+      gets room.
 
   - id: R4-14-APPROACH_LADDER
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: The approach ladder, decelerate into the hit
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Decelerate into the hit (long, then medium, then the landing) so the
@@ -454,14 +473,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "112"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the approach
+      ladder retires.
 
   - id: R4-14-HARD_CEILINGS
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: Hard ceilings on payoff sentences and paragraph shape
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       A payoff sentence carries at most 10 words and zero subordinate
@@ -488,13 +509,15 @@ rules:
       2026-10-03): in set pieces, once per scene, the climax may be one long
       cumulative sentence past the 10-word payoff ceiling; the other ceilings
       hold, and ordinary turns keep all of them.
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the payoff word
+      cap and the paragraph-shape rules retire.
 
   - id: R4-14-CONJUNCTION_AUDIT
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fourteen"
     title: The conjunction audit at a beat
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Count coordinators per sentence (and, as, while, which, because);
@@ -521,6 +544,8 @@ rules:
       cumulative sentence chained with 'and', which this audit would fail;
       every other beat sentence keeps the audit, and ordinary turns keep it in
       full.
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the conjunction
+      cap retires.
 
   - id: R4-15-REIFICATION_DEFINED
     pack: Pack Four
@@ -615,14 +640,17 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "157-159"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up:
+      'unbudgeted' is moot now that no reification is counted
+      (R57-42-REIFICATION_NO_COUNT_ANYWHERE); the class stays description.
 
   - id: R4-15-CLERK_TEST
     pack: Pack Four
     pack_number: 4
     section: "Amendment Fifteen"
     title: The Guild clerk test for the Licensed Class
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       If the thing could appear as a line on a ledger, in a writ, or in a
@@ -642,7 +670,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "161"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: a
+      reification budget row; there is no count anywhere
+      (R57-42-REIFICATION_NO_COUNT_ANYWHERE).
 
   - id: R4-15-TWO_PER_SCENE_BUDGET
     pack: Pack Four
@@ -757,7 +788,7 @@ rules:
     pack_number: 4
     section: "Amendment Fifteen"
     title: Bodies are exempt from the reification budget
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Concrete nouns doing concrete things (hands shaking, a jaw setting, a
@@ -776,7 +807,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "173"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: a
+      reification budget row; there is no budget to be exempt from
+      (R57-42-REIFICATION_NO_COUNT_ANYWHERE).
 
   - id: R4-15-PROCEDURAL_SCENE_BUDGET
     pack: Pack Four
@@ -812,7 +846,7 @@ rules:
     pack_number: 4
     section: "Amendment Fifteen"
     title: The reification watch-list nouns
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Recurring reification offenders, kept greppable rather than felt:
@@ -835,7 +869,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "187"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: a
+      greppable budget list; reification is judged by ear with no count
+      (R57-42-REIFICATION_NO_COUNT_ANYWHERE).
 
   - id: R4-ADD-CHECK15
     pack: Pack Four
@@ -871,7 +908,7 @@ rules:
     pack_number: 4
     section: "Addendum"
     title: "Check 16 — Descent"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Fails any chain of 3+ sentences over 25 words, 4+ flat runs, a
@@ -893,7 +930,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "204"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the rhythm
+      checks retire with the rules they counted.
 
   - id: R4-ADD-CHECK17
     pack: Pack Four
@@ -928,7 +967,7 @@ rules:
     pack_number: 4
     section: "Addendum"
     title: Both verification scripts run before presenting, no single pass
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       wotr_verify.sh and wotr_beat_check.py both run before presenting;
@@ -947,7 +986,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "207"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-2-LEAN_TABLE: per turn one verify_scene
+      runs, every FAIL fixed and WARNs read but not looped; the old
+      wotr_verify.sh and wotr_beat_check.py are gone.
 
   - id: R4-OP-PSYCHIC_DISTANCE_BANDS
     pack: Pack Four
@@ -1077,6 +1119,9 @@ rules:
       absorbs halberd-strikes on a heater shield, then drives the arming
       sword into the one unarmored spot on the antagonist's neck rather
       than going for head or chest). Not yet reviewed by Isaac; pitch only.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the German
+      term is a gloss only; on the page the move is written as plain body
+      action (R77-1).
 
   - id: R4-H2-EDWARD_LAMBERT_ASSIGNED
     pack: Pack Four
@@ -1119,6 +1164,9 @@ rules:
       nose, and hip-not-wrist follow-through ("Edward's fighting is HEMA
       and it is a fifty-three-year-old's HEMA"). Not yet reviewed by Isaac;
       pitch only.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the German
+      term is a gloss only; on the page the half-sword grip is written as
+      plain body action (R77-1).
 
   - id: R4-OP-COST_TAXONOMY_AUDIT
     pack: Pack Four

@@ -241,6 +241,9 @@ rules:
       beat'); below Stage XI it rises by attention, and this index reads the
       let-go from suppression at Stage XI and above as that same rising. The
       rest of the list stands.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the
+      Berserk/Vinland North Star is retired, and the display-beat caps retire;
+      the trigger list is guidance.
 
   - id: R9-3-EYES_AS_TELL
     pack: Pack Nine
@@ -276,6 +279,8 @@ rules:
       eyes-first tell stands beside the room's lead. Read with
       R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03): only R9-3's splash beat
       is moved, to the crisis; the eyes-first tell is untouched.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the one-read
+      clause is gone (R12-7, R79-6); the eyes-first tell stands.
 
   - id: R9-3-AURA_AS_FRACTURE
     pack: Pack Nine
@@ -351,6 +356,8 @@ rules:
       than at a display; how many such beats a scene carries is
       R70-73-MANY_DISPLAY_BEATS_PER's call. The body under load as visible
       distortion stands.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the splash cap retires;
+      the body under load stays as rendering.
 
   - id: R9-3-SILHOUETTE_ENTRANCE
     pack: Pack Nine
@@ -423,7 +430,7 @@ rules:
     pack_number: 9
     section: "PART THREE"
     title: Ignorance quota, misreading budget and one-read rule still bind
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The ignorance quota, the misreading budget, and the one-read
@@ -441,4 +448,7 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nine.md
       lines: "44"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-2-LEAN_TABLE: the ignorance quota is struck
+      everywhere, the one-read cap retires (R79-6) and per-fight counts are
+      guidance.

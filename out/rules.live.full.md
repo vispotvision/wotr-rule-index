@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1551 live of 1753 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1397 live of 1765 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (153)
+## adjudication (145)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -22,29 +22,11 @@ Names which stat answers each Table Rule 5 adjudication question (who bends the 
 
 > Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.
 
-### R14-3-TRACEABILITY [Pack Fourteen §3]
-
-Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
-
-> Every outcome in a fight traces to a row in this table, and the author notes say which.
-
-### R14-8-COMBAT_GUIDE_ADJUDICATION [Pack Fourteen §8]
-
-§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).
-
-> WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.
-
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
 A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
-
-### R13-6-SCALING_VOCAB_RESTRICTED [Pack Thirteen §6]
-
-Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.
-
-> Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.
 
 ### R13-8-RECONSTRUCTIBLE_ADJUDICATION [Pack Thirteen §8]
 
@@ -123,12 +105,6 @@ A broken crew cannot run, so Section 6's rout rule does not apply; naval casualt
 The decision (will the enemy line hold) is made at distance by both sides simultaneously; if it holds, the charge fails before contact, if it breaks, there is no contact at all, only pursuit.
 
 > A charge is three seconds of decision and forty of consequence. The decision is whether the enemy line will hold, made at distance, by both sides simultaneously. If it holds, the charge fails before contact. If it breaks, there is no contact at all, only pursuit.
-
-### R3-9-COSTED_OUT_EXCEPTION [Pack Three Amendment Nine]
-
-The single exception to the practitioner-POV ruling: a practitioner who has been costed out inherits every section-1 constraint the moment their magazine empties, so a POV beginning able to see the whole battle and ending able to see twelve feet is the strongest use of the perspective available — spend it once.
-
-> The single exception: a practitioner who has been costed out. The moment their magazine empties they inherit every constraint in section 1 at once, and a POV that begins with a person who can see the whole battle and ends with a person who can see twelve feet is the strongest use of the perspective available. Spend it once.
 
 ### R2-6-DOMAINS_BREAK_NOT_KILL [Pack Two Amendment Six.4]
 
@@ -231,12 +207,6 @@ Where a ruling's operative sentence is written generally, it applies to every ca
 Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
-
-### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
-
-For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
-
-> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
 
 ### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
 
@@ -466,12 +436,6 @@ Fight a revenant as a body on habit: anatomy stops the motion (a cut hamstring d
 
 > Levers still rule. A body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure, with no blood-loss class.
 
-### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
-
-A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
-
-> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
-
 ### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
 
 Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
@@ -508,6 +472,18 @@ A crime done with a working is proved by trace examiners reading its traces as e
 
 > A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
 
+### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
+
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; one causal line at first display; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English or own tongue; world magic as law; jargon free; misses summed, hits noted.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
+
+### R79-10-NUMBERS_AND_SYSTEMS [Directions 2026-10-17 coverage-questionnaire]
+
+Sources by field; formulas recomputed, outliers stand; estimates plain and canon; fight Drafts refill, paid in the crash; self-boosts inside the two-Grade cap; Grade decides, Stage limits; stats decide out of sight; money named; one item ladder; faculty reads estimate in fights; EU on cards, duration on the page; tell thresholds law, words free.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): numbers and systems. Sources are read by field: Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent; Natalie resolves by that order and moves on. Formulas that must always compute (1 EU = 1 MJ; AU/s = Flux times eta) are recomputed; bands and ladders are typical ranges and a card's outlier stands. A missing figure is derived from the Fracture of Worlds tables, written plainly with no mark, canon on use, and a source value beats it on contact; no pending fields. A fight Draft refills reserve and the crash pays for it. The two-Grade stacking cap counts every self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card; only outside help (allies, arrays, Domains) sits outside it; items work at their own Tier. The Grade of the stat in use decides a contest; the Stage gap governs Pressure and the upset limit; ties break on the read, then what is left to spend, then the ground. The stats decide out of sight: no deciding-row citations, no Stat Ledger; archive notes name a row only for a contested or turning outcome; the gap-fill pass runs only for set pieces and his submitted fights, unlogged. Money that changes hands is named; an item's Tier and price appear once, when the POV would see them; a Draft needs only a plausible source. One item ladder decides out of sight: a proofed round strikes one Tier over the target armour and a named round two, makers graded by Tier of Standing. In a fight a faculty read is an estimate in thought or speech; exact figures print only outside a fight. Cards keep EU as the source of truth with a line for how long a working lasts from full; the page uses duration and body tells. The running-low thresholds are world law; their wording is free.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -543,12 +519,6 @@ What cannot shut, a beastkin nose or ears, reads a lover freely, but a worked re
 An Obsession or Attraction working, a charm or a Draft may make someone want, and when it does it shows a tell, has a findable counter, costs its user, and the aftermath knows the desire was made.
 
 > Desire, with tell and counter. An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made.
-
-### R73-21-NPC_WOULD_FORCE_HIM [Intimacy Law 2026-10-04 SC14]
-
-When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
-
-> Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
 
 ### R73-32-JEALOUSY_RIVALS [Intimacy Law 2026-10-04 CO10]
 
@@ -652,12 +622,6 @@ A scheme may nest as deep as its faction can afford, and every layer leaves at l
 
 > Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
 
-### R74-37-BETRAYAL_TRUSTED [Mystery Law 2026-10-04 IN3]
-
-The thread's standing warm bond never betrays by choice, and anyone else may betray only with the signs shown twice before the turn.
-
-> The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).
-
 ### R74-38-LEVERAGE_BLACKMAIL [Mystery Law 2026-10-04 IN4]
 
 A secret works as leverage while it stays unspoken and breaks when spoken openly, opening the victim's Front against whoever spoke it, and every held secret is also a Ledger risk against its holder: someone wants the secret, or the man who holds it, gone.
@@ -730,12 +694,6 @@ Every practitioner feels his own Grades and Stage and senses another's Band and 
 
 > Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.
 
-### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
-
-During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
-
-> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
-
 ### R70-101-DECLARING_NAME_LINE_BEFORE [Style Law 2026-10-03 CB2]
 
 A fighter may declare his full name and line before a duel, but the recital spends the scene's one crafted speech under R48-43, and the opponent may close measure or shoot while it runs.
@@ -777,12 +735,6 @@ Outside a fight a turn writes the PC's involuntary responses (sweat and nausea u
 A posted chain of actions stops at the first point the world pushes back and the later actions never happen, while every line the PC speaks is said in full, NPCs free to react as he speaks.
 
 > Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.
-
-### R72-13-FOOT_CARRIES [Table Law 2026-10-04 TU6]
-
-The OOC foot under a turn carries one line per call Natalie made that turn, marked as an agent ruling Isaac may overturn, one line per Ledger line and Front tick the turn caused, and two to four rule ids that bound it with the stat row behind any adjudicated outcome.
-
-> Yes to: Calls made (One line per call Natalie made this turn (a new NPC, a fact, an estimate), each marked as an agent ruling you may overturn); What it cost (The Ledger lines and Front ticks the turn caused, one line each, so nothing is lost before the session close); Rules and the deciding row (Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)).
 
 ### R72-27-SWAYS_NPC [Table Law 2026-10-04 WD13]
 
@@ -922,7 +874,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (266)
+## character-sheet (246)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -948,12 +900,6 @@ Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi 
 
 > Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
 
-### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
-
-Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
-
-> Pack Seventeen's card and the Spell Index schema are the same object. The mapping is exact and the Codex column governs:
-
 ### R17-3-WHAT_NOBODY_KNOWS_SCOPE [Pack Seventeen §3]
 
 The one-line-per-art "What nobody knows" field must be a question about why the law holds, never about what the working does; mechanism belongs on the page, origin does not.
@@ -978,35 +924,11 @@ A bloodline faculty entry must state what quantity the faculty acts on (e.g. wha
 
 > The Moto see is not an entry. What the eye is doing to what quantity, and what it costs to hold open, and what it cannot resolve, is one.
 
-### R14-6-CHECK29 [Pack Fourteen §6]
-
-The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
-
-> Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.
-
-### R14-7-STAT_LEDGER_CONTENTS [Pack Fourteen §7]
-
-Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
-
-> Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.
-
-### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
-
-Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
-
-> WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
-
 ### R14-8-CHARACTER_SHEET_FOW_LINE [Pack Fourteen §8]
 
 The character sheet template is otherwise unchanged; its Techniques section gains the FOW line.
 
 > Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.
-
-### R12-3-COUNTER_MANDATORY [Pack Twelve §3]
-
-Ability entries retain the Counter field as mandatory; explanation makes counterplay easier to write, not optional.
-
-> Ability entries retain the Counter field as mandatory. Explanation makes counterplay easier to write, and it stays mandatory.
 
 ### R12-8-ABILITY_GUIDE_REWRITE [Pack Twelve §8]
 
@@ -1032,18 +954,6 @@ Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everythi
 
 > The Pack Seven ruling that the page gets Effect / Cost / Limit / Counter and everything else is workbook and never published is amended. The Design Chain remains workbook. The operational account of how an ability functions is now sheet content, not workbook content.
 
-### R8-13-ENTRY_STRUCTURE [Pack Eight 1.3]
-
-An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
-
-> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
-
-### R8-14-CLASSIFICATION_BLOCK [Pack Eight 1.4]
-
-Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
-
-> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
-
 ### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
 
 The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
@@ -1055,18 +965,6 @@ The description is written the way a man teaching it would write it: flat operat
 "Overuse strains him" remains a failing drawback and always was.
 
 > "Overuse strains him" remains a failure and always was.
-
-### R8-3-WORKED_EXAMPLES_PENDING [Pack Eight 3]
-
-Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
-
-> Two entries in the format, in different registers, to fix the shape.
-
-### R8-4-RETROACTIVE_TASKS [Pack Eight 4]
-
-Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
-
-> Folds into the cost audit instead of running as a separate pass.
 
 ### R5-B-FOIL_FUNCTION_SURVIVES [Pack Five B]
 
@@ -1128,24 +1026,6 @@ Per Section 6, pursuit is butchery of the unresisting from behind at a canter fo
 
 > The pursuit is the cavalry's real function and it is not combat. Per section 6, it is butchery of the unresisting from behind at a canter for as long as the horses last. Writing a cavalry POV means writing the person who does that work, and the honest version does not let them enjoy it and does not let them refuse it either.
 
-### R2-5-SINGLE_ACT_RULE [Pack Two Amendment Five]
-
-A battle cannot hold six relationships the way a duel holds one; a battle advances exactly one relationship, and it advances it by a single unrepeatable act.
-
-> The rule: a battle advances exactly one relationship, and it advances it by a single unrepeatable act.
-
-### R2-5-SINGLE_ACT_CONDITIONS [Pack Two Amendment Five]
-
-The Single Act must be physical (a thing done with the body under load, not a decision or realisation), unrepeatable (the circumstance does not recur), witnessed but not discussed during the engagement, and ambiguous at the moment it happens to witness, reader and actor alike.
-
-> It is physical. Not a decision, not a realisation, not a look held a beat too long. A thing done with the body under load.
-
-### R2-5-RESOLUTION_IN_AFTERMATH [Pack Two Amendment Five]
-
-The relationship change is legible in how the two characters handle an unrelated later scene; if a character ever says what the act meant, the amendment has been violated and the scene has been spent.
-
-> In the aftermath, and not by discussion of the act itself. The relationship has changed and both parties behave differently. Neither raises it. The scene three days later is about a bucket, or a burial detail, or who takes which watch, and the change is legible in how they handle the bucket. If a character says what the act meant, the amendment has been violated and the scene has been spent.
-
 ### R2-6-MAGAZINE_RULE [Pack Two Amendment Six.2]
 
 Essence is finite per practitioner per day and replenishes slower than expenditure under load; every technique's Cost field must be legible to the character using it, who never discovers mid-technique that they are empty.
@@ -1205,12 +1085,6 @@ Blade grammar; unhurried, every word and motion in exact position, Absetzen and 
 Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 
 > Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely and their assignments belong to their creators.
-
-### R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS [Pack One Amendment Three]
-
-Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
-
-> Rule: the interior action of a battle occurs in its aftermath. Whatever the engagement was going to do to your characters' relationships, it does in the three days afterward, over the burial detail, in the sick lines, and in the arguments about who should have done what. The fight itself is too loud and too fast for anyone to change during it.
 
 ### R76-1-ONE_NAME_ONE_PARAGRAPH [Ability Format 2026-10-05 Q1, Q2, Q7]
 
@@ -1734,6 +1608,12 @@ Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides conte
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
 
+### R79-9-CARDS_AND_TECHNIQUES [Directions 2026-10-17 coverage-questionnaire]
+
+Sonzai hands-off; card head required, sections a menu, no cap; figures set when reached; rungs not gates, one template; technique needs mechanism, cost, one fair counter; character then phenomenon then Codex; Category names free; Gloss Rights a speech trait; first print after the fight.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): cards and techniques. Sonzai (Chuluun) belongs to another creator and is hands-off. A character card has a required one-screen head; the sections below it are a menu filled with what the character actually has, with no character cap; it carries the Primaries and the Sub-Stats in use, the rest derived when a scene needs them; the voice block is a menu with a sample line and speaker type required; the arc-kind taxonomy is dropped; a next-gate line only near a gate; figures (mastery marks, chant cuts, vows, Readiness) are set when play reaches them. The roster entry, short card and full card are rungs, not gates: a card is made when needed and a full card when he asks or the character recurs; the card template in desktop/templates is the one skeleton. A technique requires its mechanism, its cost and one fair counter within reach at its own Stage; limit and tell where they exist; the before, during and after triad only for signatures; every ability has a counter. A technique is designed character first, then the phenomenon, then the mechanism, then a Codex lookup for precedent and assignment; naming what was checked only when proposing a new Codex entry. Category names are free in trained mouths and POVs; Gloss Rights is a voice trait for who explains aloud in dialogue, not a gate on narration. A signature's first-hold print comes at the first pause after the fight.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -2052,12 +1932,6 @@ A card whose η is stated as the Tier of Standing table's figure reads whatever 
 
 > Follow the table: cards that quote the Tier table's eta read whatever the table says for their Stage (0.60-0.70 at VI-VII now); Yoko's output/flux recomputed to stay consistent.
 
-### R54-11-CARD_HEADER_AT_A_MOMENT [Queue Questionnaire 2026-09-26 WAR-114]
-
-Every card's header states the moment it describes; the Lore section records later events, deaths included.
-
-> Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so; Lore records later events including deaths. Applies to every card.
-
 ### R24-1-FLESHSHAPER_SIGNATURES_AND_TELL [Racial Voice and Dialect Guide Amendment I]
 
 Signature lines "That closes" (anything settled) and "Who holds it?" (their first question about any structure); under stress they become more procedural, not less, shortening to pure sequence with the reasons dropped.
@@ -2247,12 +2121,6 @@ The card's voice block gains three slots: the speaker type (the researched real-
 
 > Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).
 
-### R75-33-LORE_AND_LENGTH_CAP [Techniques Law 2026-10-04 CH9]
-
-The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log, Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.
-
-> The seventeen only. The cap binds Identity through Fracture Log; Lore runs free below it. The eight cards over without Lore are trimmed in the sweep.
-
 ### R75-34-STORY_FIELDS_ON_CARD [Techniques Law 2026-10-04 CH10]
 
 A full card gains a refusal line (what he will not do whatever is offered), a named conviction (the belief that costs him) and an arc kind (positive, flat, negative or corruption, after K. M. Weiland's arc types), the arc kind set when the card is made and revised at each arc's end.
@@ -2301,35 +2169,11 @@ Every card carries a line naming its bearer's next Stage, that Stage's Fracture 
 
 > Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
 
-### R75-43-WHERE_TECHNIQUE_LAW_LANDS [Techniques Law 2026-10-04 ME1]
-
-The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.
-
-> Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
-
-### R75-44-WHAT_JOINS_CARD_SWEEP [Techniques Law 2026-10-04 ME2]
-
-The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.
-
-> Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
-
-### R75-45-WHICH_CARDS_FIRST [Techniques Law 2026-10-04 ME3]
-
-Cards are rebuilt in order: Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat first, then the other live threads, then the archive by appearances.
-
-> The Kharven room first. Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat get their cards first, then the other live threads, then the archive by appearances.
-
 ### R75-46-OLD_ENTRIES_FAILING_LAW [Techniques Law 2026-10-04 ME5]
 
 A carded technique's cost, counter or What nobody knows line that fails live law is re-derived from its mechanism when the rebuild order reaches its card, the old line quoted in that rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, which Isaac reads in CONTINUE.md and may overturn.
 
 > Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any.
-
-### R75-47-PROOF_AND_ORDER [Techniques Law 2026-10-04 ME4]
-
-The work runs in order: log the law and rebuild the converter and the card skeleton, make the three test cards through them, play a scene where one of them decides a fight, amend, and only then run the sweep and the rebuilds.
-
-> Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.
 
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
@@ -2384,12 +2228,6 @@ When Isaac's play and a card disagree, his play wins: his character's thoughts s
 When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
 
 > When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
-
-### R52-10-CROSSOVER [Voice Law 2026-09-26 Isaac's own characters]
-
-Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
-
-> Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
 
 ### R52-11-ILTHARA [Voice Law 2026-09-26 Isaac's own characters]
 
@@ -2505,12 +2343,6 @@ Each NPC's voice starts from a researched real-world speaker type (a customs cle
 
 > Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
 
-### R52-30-PROVERBS [Voice Law 2026-09-26 NPC voices the partner builds]
-
-Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
-
-> Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
-
 ### R52-31-COMIC_NPC [Voice Law 2026-09-26 NPC voices the partner builds]
 
 The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
@@ -2523,7 +2355,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (120)
+## codex (112)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2531,23 +2363,11 @@ Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 
 > Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 
-### R18-2-CODEX_FIRST_MANDATE [Pack Eighteen §2]
-
-Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
-
-> The Codex is opened before the working is designed, not after.
-
 ### R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK [Pack Eighteen §2]
 
 A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.
 
 > No new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may be proposed until the existing enumeration has been read and the absence demonstrated. A proposal that does not name what was checked and why it failed is not a proposal.
-
-### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
-
-Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
-
-> Pack Seventeen's card and the Spell Index schema are the same object. The mapping is exact and the Codex column governs:
 
 ### R18-3-ENTRY_AS_CANDIDATE_ROW [Pack Eighteen §3]
 
@@ -2584,12 +2404,6 @@ Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetr
 Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
 
 > the reagents are the nouns, the Wellspring is the verb, Glyphica is the grammar that makes the sentence lawful. It also fixes the eight Wellsprings that are simultaneously Wellspring, cosmic principle and alchemical operation, and any working that touches Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by their entries there.
-
-### R18-6-SESSION_START_4A [Pack Eighteen §6]
-
-Inserted between the current steps four and five of the Session Start Protocol, a new step 4a requires querying the Spell Index, Glyph Index, Alchemical Index and Lists sheet for everything the scene will work, before the FOW line and before the Standing Inventory.
-
-> 4a. Open the Master Codex for anything the scene will work. Query the Spell Index for existing precedent, the Glyph Index for the phenomenon, the Alchemical Index for any reagent, and the Lists sheet for every assignment the scene will name. Do this before the FOW line and before the Standing Inventory, because the Codex determines what the working is and the others determine what it costs and how it reads.
 
 ### R18-6-ACCESS_METHOD [Pack Eighteen §6]
 
@@ -2657,18 +2471,6 @@ Craft and Category cross like Family and Method at a coarser grain — Craft is 
 
 > The two cross the same way Family and Method already do, at a coarser grain: Craft is the mouth it comes out of. Category is the shape of the thing that comes out.
 
-### R10-2-CATEGORY_REGISTER_DEFAULT [Pack Ten PART TWO]
-
-Category names sit at Wellspring/Family register, not common tongue, and stay workbook and Codex-line by default.
-
-> Category names (Animatria, Manifestus, Vectra, and so on) sit at Wellspring/Family register, not common-tongue register — nobody calls a tiger "my Animatria" the way a soldier says "the writing." They stay workbook and Codex-line by default.
-
-### R10-2-CATEGORY_READ_EXCEPTION [Pack Ten PART TWO]
-
-A scene's single diagnostic read (the Apparatus Rule's existing budget, not a new one) may be spent naming the category instead of a Wellspring or Family; naming a category doesn't trip Check 20, but it still costs the scene's only read.
-
-> One exception, and it is the Apparatus Rule's existing budget, not a new one. A scene's single explicit diagnostic read may be spent naming the category instead of naming a Wellspring or Family — a scholar, examiner, or rival practitioner gets one line: "That's Animatria. It isn't a real animal." Naming a category is not accounting for why it works, so it does not trip Check 20. It still costs the scene's only read, and after it the faculty goes silent same as always.
-
 ### R10-3-ANIMATRIA_SHAPE [Pack Ten PART THREE]
 
 An Animatria shape moves with the caster's active attention, can obey or strain against instruction, and stops being anything if the live line back to its maker is severed (Silence, a killed caster, a broken focus).
@@ -2698,12 +2500,6 @@ Spellcraft holds only while attention holds; Runecraft is fixed and degrades lik
 Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as the naming scheme for how a working is performed; Chantcraft stays pending.
 
 > The four-media structure — Magicraft, Spellcraft, Runecraft, Draftcraft — is confirmed canon as the naming scheme for how a working gets performed. Chantcraft stays pending.
-
-### R8-14-CLASSIFICATION_BLOCK [Pack Eight 1.4]
-
-Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
-
-> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
 
 ### R5-F-LIGHT_NOVEL_KEPT [Pack Five F]
 
@@ -2776,18 +2572,6 @@ The Necrocursica's four residues are the forensic reading inside the nine days, 
 Reserve 'Seven Cacodaemonic Corruptions' for the Heresiology and call the Necrocursica's list the Seven Unmoorings, each of which may name the Heresiology inversion that drives it.
 
 > Heresiology keeps it; the Necrocursica's become the Seven Unmoorings. The Necrocursica's title, chapter 3 heading and Appendix II are renamed from the text's own verb ('it unmoors them', chapter 4), and each failure may name the Heresiology inversion that drives it. Grade III and the God Hand page's 'two sevens' stay true.
-
-### R61-9-WORD_FILES_ARE_CONVERSION_BASE [Alchemy Conversion Questionnaire 2026-09-28 K9]
-
-Convert the five texts from the Word files in first person throughout, then rewrite the wiki Codex pages as condensations of the new text that keep their chapter subheads and residue table.
-
-> Word files as base; wiki condensations regenerated afterwards. Every contradiction is visible and decided here. The converted texts are first person throughout, and the wiki's Codex pages are rewritten afterwards as condensations of the new text, keeping their chapter subheads and residue table.
-
-### R61-10-CONVERSION_IS_FULL_REBUILD [Alchemy Conversion Questionnaire 2026-09-28 K10]
-
-Rethink structure, events and cast around Mu-jin, Malphas and the new Papers author, and treat the old texts as source notes only.
-
-> Full rebuild: structure, events and cast are rethought around the new authors, and the old texts become source notes.
 
 ### R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 ST1]
 
@@ -3083,12 +2867,6 @@ The drift is the Continuum's delayed answer by correspondence, with no energy re
 
 > An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.
 
-### R61-127-CODEX_SECTION_FIVE_PAGES [Alchemy Conversion Questionnaire 2026-09-28 ME1]
-
-Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
-
-> Publish both under The Alftian Codex section. Five pages sit together; Volume III's references and the Halveth line resolve; the INDEX section grows from three pages to five. 'Sealed' and 'Level VI' become in-world labels on public pages.
-
 ### R64-5-VENUR_AMULET_CHARM [Alftian Codex Volume I Ratification 2026-09-28 vol1 5]
 
 Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
@@ -3112,6 +2890,12 @@ A chart derived from Codex physics says which conditions and Wellspring Families
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
+### R79-9-CARDS_AND_TECHNIQUES [Directions 2026-10-17 coverage-questionnaire]
+
+Sonzai hands-off; card head required, sections a menu, no cap; figures set when reached; rungs not gates, one template; technique needs mechanism, cost, one fair counter; character then phenomenon then Codex; Category names free; Gloss Rights a speech trait; first print after the fight.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): cards and techniques. Sonzai (Chuluun) belongs to another creator and is hands-off. A character card has a required one-screen head; the sections below it are a menu filled with what the character actually has, with no character cap; it carries the Primaries and the Sub-Stats in use, the rest derived when a scene needs them; the voice block is a menu with a sample line and speaker type required; the arc-kind taxonomy is dropped; a next-gate line only near a gate; figures (mastery marks, chant cuts, vows, Readiness) are set when play reaches them. The roster entry, short card and full card are rungs, not gates: a card is made when needed and a full card when he asks or the character recurs; the card template in desktop/templates is the one skeleton. A technique requires its mechanism, its cost and one fair counter within reach at its own Stage; limit and tell where they exist; the before, during and after triad only for signatures; every ability has a counter. A technique is designed character first, then the phenomenon, then the mechanism, then a Codex lookup for precedent and assignment; naming what was checked only when proposing a new Codex entry. Category names are free in trained mouths and POVs; Gloss Rights is a voice trait for who explains aloud in dialogue, not a gate on narration. A signature's first-hold print comes at the first pause after the fight.
 
 ### R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL [The Farrant Papers Ratification 2026-09-28 papers 5]
 
@@ -3245,7 +3029,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (214)
+## combat (199)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3283,18 +3067,6 @@ Names which stat answers each Table Rule 5 adjudication question (who bends the 
 
 > Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.
 
-### R14-3-TRACEABILITY [Pack Fourteen §3]
-
-Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
-
-> Every outcome in a fight traces to a row in this table, and the author notes say which.
-
-### R14-8-COMBAT_GUIDE_ADJUDICATION [Pack Fourteen §8]
-
-§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).
-
-> WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.
-
 ### R13-2-CATEGORY_ACROSS_STRATA [Pack Thirteen §2]
 
 The twenty-six Categories say what kind of thing came out; their alignment tag names which Plane carries the cost and which the counterplay; Category is workbook/Codex-line by default and may be named in diagnostic voice to tell the reader where to hit.
@@ -3307,35 +3079,17 @@ A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechan
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
-### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
-
-At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.
-
-> The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
-
 ### R13-5-GAP_FILL_PASS [Pack Thirteen §5]
 
 Before a submitted fight or working is polished, an eight-step gap-fill pass runs (beat inventory, logic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary pass, prose pass last), logged in the author notes under "Added by the gap-fill pass."
 
 > When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.
 
-### R13-6-HEMA_VOCAB [Pack Thirteen §6]
-
-The spear/staff, poleaxe, dagger, grappling, messer, sword-and-buckler and mounted-lance mechanics, and the hammer-specific percussion table, remain; European fencing jargon is replaced by plain actions in all prose (R77-1).
-
-> HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.
-
 ### R13-6-ANATOMY_VOCAB [Pack Thirteen §6]
 
 Anatomy is named by structure, fractures by fracture type, and neurological consequence by name.
 
 > Anatomy by named structure. Fracture types by name. Neurological consequence by name.
-
-### R13-6-SCALING_VOCAB_RESTRICTED [Pack Thirteen §6]
-
-Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.
-
-> Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.
 
 ### R13-7-RESEARCH_RULE [Pack Thirteen §7]
 
@@ -3379,12 +3133,6 @@ An engagement owes read, fault, causal counter, body and reserve cost, and next-
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
-### R12-3-COUNTER_MANDATORY [Pack Twelve §3]
-
-Ability entries retain the Counter field as mandatory; explanation makes counterplay easier to write, not optional.
-
-> Ability entries retain the Counter field as mandatory. Explanation makes counterplay easier to write, and it stays mandatory.
-
 ### R12-3-NAMED_INVENTOR_RULE [Pack Twelve §3]
 
 Every technique was derived by somebody for a specific problem; a documented technique is counterable by anyone who studied it, while a self-derived technique must be read live in the exchanges before it kills, shown in full rather than summarised.
@@ -3426,12 +3174,6 @@ The silhouette is coat, breast, helm, sword and firearm; every armed man carries
 Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.
 
 > Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
-
-### R11-3-AMMO_TIERS [Pack Eleven §3]
-
-Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
-
-> The three ammunition tiers, originated, pending ruling:
 
 ### R11-5-COMBAT_GUIDE_RANGE_OPENING [Pack Eleven §5]
 
@@ -3655,12 +3397,6 @@ In a roleplay fight Isaac may post conditions such as 'if he closes, I cut low',
 
 > Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.
 
-### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
-
-For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
-
-> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
-
 ### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
 
 Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth, as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the notes.
@@ -3684,12 +3420,6 @@ Name Mother of Learning (the prepared fight), Dungeon Crawler Carl (the room as 
 Let exchanges that change nothing be counted back in one sentence, each named by its move, and trace with the floor any exchange that lands, shifts measure or reveals something.
 
 > Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.
-
-### R71-11-RUNNING_FAST [Combat Law 2026-10-04 CW2]
-
-Once per fight, in its swift stretch, one short paragraph of short, even sentences may break the run rule, and the author notes mark it.
-
-> A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
 
 ### R71-12-KEEPING_SPACE_TRACKABLE [Combat Law 2026-10-04 CW3]
 
@@ -3720,12 +3450,6 @@ A practitioner may hold a broken structure shut with a working for as long as hi
 Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's point.
 
 > Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.
-
-### R71-17-FEAR_BODY [Combat Law 2026-10-04 CW8]
-
-Give an untrained POV's fights at least two fear effects in the body traced to adrenaline, and let trained fighters keep composure free, showing it only under real strain or Pressure.
-
-> Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.
 
 ### R71-18-FIGHT_SOUNDS_LIKE [Combat Law 2026-10-04 CW9]
 
@@ -4075,12 +3799,6 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 
 > The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
 
-### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
-
-A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
-
-> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
-
 ### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
 
 Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
@@ -4141,12 +3859,6 @@ When a fight ends in a death, law moves only on a witness or a reading inside th
 
 > Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
 
-### R71-102-WHERE_COMBAT_LAW_LANDS [Combat Law 2026-10-04 ME1]
-
-The combat answers land as one dated Combat Law rule doc logged through log_ruling and served by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law.
-
-> Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)
-
 ### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
 
 verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y'). European jargon is WARNed (R77-1); combat roleplay keeps mechanism and figures in notes (R77-2).
@@ -4164,12 +3876,6 @@ The combat sample bank holds both a fight passage in each culture file where Nat
 In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
 
 > Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
-
-### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
-
-Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
-
-> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R60-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -4230,6 +3936,12 @@ Passive stat base plus active reinforcement that can be focused and leaves gaps,
 Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides contests, Aether Class sets eta, drain as time from full; Second Release powers the Domain; spending shown by a fixed tell ladder; fight Drafts refill; tags fuelled per tag, practitioners only; three roads meet each Catalyst; release forms canon with new card fields; disciple ranks in schools and houses; renown per audience, warrants and bounties, epithets; Stage-bracket tournaments; Draft prices x3 a Stage; Malphas the great villain over about ten numbered lieutenants; Well-spawn masks as weak points; proposed crews; skips through pass_time.
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
+
+### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
+
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; one causal line at first display; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English or own tongue; world magic as law; jargon free; misses summed, hits noted.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
 
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -4363,23 +4075,11 @@ At a power reveal let the watching crowd speak in waves inside the POV's hearing
 
 > Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
 
-### R70-73-MANY_DISPLAY_BEATS_PER [Style Law 2026-10-03 MY6]
-
-Each named practitioner may take one power-display beat per scene, so a duel may carry two and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display or finisher.
-
-> One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
-
 ### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
 
 Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
-
-### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
-
-During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
-
-> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
 
 ### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
 
@@ -4495,12 +4195,6 @@ A card gets a Skills section after Techniques where each skill names its cues or
 
 > Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them.
 
-### R48-33-CHOREOGRAPHY [Writing Law 2026-09-26 Combat and consequence]
-
-Duels: every exchange traced (measure, guard and the move by its fencing name).
-
-> Duels: every exchange traced (measure, guard and the move by its fencing name).
-
 ### R48-34-WOUNDS [Writing Law 2026-09-26 Combat and consequence]
 
 Wounds: full clinical gore, anatomy named, blood loss tracked minute by minute, nothing looked away from.
@@ -4531,7 +4225,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (200)
+## dialogue (189)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4629,12 +4323,6 @@ Bars antithesis and parallelism, three-part lists, long subordinate clauses in s
 
 > No character speaks in balanced clauses under duress, and Natalie's habit of writing everyone that way is a tell.
 
-### R19-5-SORT_BY_SPEAKER_TEST [Pack Nineteen §5]
-
-If a stranger could not sort a scene's dialogue lines by speaker with the tags covered, the scene fails as a Pack Nineteen violation, not merely a voice-differentiation warning.
-
-> Cover the dialogue tags and read the lines. If a stranger could not sort them by speaker, the scene failed, and the failure is now a Pack Nineteen failure and not merely a voice-differentiation warning.
-
 ### R19-7-CHECK40 [Pack Nineteen §7]
 
 Manual check that every line of Isaac's dialogue matches the submitted rough verbatim except for corrections permitted in §2; any other change fails and is reverted.
@@ -4695,12 +4383,6 @@ Memory entries thirteen, fourteen, twenty-nine and thirty (accent calibration, p
 
 > Memory entries thirteen, fourteen, twenty-nine, thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary): superseded as mandates; retained as available technique. Flag for the memory sweep.
 
-### R12-4-VOICE_MIXING_RULE [Pack Twelve §4]
-
-Confirmed by Isaac's ruling: the four explaining voices may mix, whoever is in the scene, picked per scene, with no more than two run in one engagement.
-
-> Confirmed by Isaac's ruling: mix, whoever is in the scene. Four carriers. Pick per scene. Do not run more than two in one engagement.
-
 ### R12-4-VOICE_ONE_POV [Pack Twelve §4]
 
 Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget.
@@ -4743,12 +4425,6 @@ An art with a true name may carry a release call (imperative verb plus name); it
 
 > An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.
 
-### R8-26-NO_SELF_TRANSLATION [Pack Eight 2.6]
-
-Nobody translates their own technique's name aloud, ever.
-
-> Nobody translates their own technique aloud. Ever.
-
 ### R5-B-YOKO_SODOKU_SURVIVES [Pack Five B]
 
 Yoko against Sodoku is a precision-versus-instinct foil, not a comedy routine; its humour now arrives through what Yoko declines to say, never a deadpan beat landing on a punchline.
@@ -4760,18 +4436,6 @@ Yoko against Sodoku is a precision-versus-instinct foil, not a comedy routine; i
 Humour is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
 
 > Permitted: dry understatement, gallows wit from people whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
-
-### R4-13-WHERE_SIGNIFICANCE_LIVES [Pack Four Amendment Thirteen]
-
-Significance may live in a physical tell adjacent to the line, in another character's bodily reaction, or in a governed callback — never in narration itself.
-
-> Three places, and narration is not one of them. 1. A physical tell adjacent to the line. Hild's hand on the arm of the chair. Whether it opens or closes. 2. The other character's reaction. Somebody in the room hears the word and does something about it with their body. 3. A callback, governed by the rule below.
-
-### R4-13-THIRD_RECURRENCE [Pack Four Amendment Thirteen]
-
-A loaded word gets one physical response on first use and no comment; meaning arrives on the third appearance through change — another character uses it, the usual user withholds it, or register makes earlier uses retroactively legible. Withholding is the strongest of the three.
-
-> A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
 
 ### R61-19-NEROS_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST9]
 
@@ -4862,6 +4526,12 @@ At a sanctioned bout the Measurewright says her reading aloud as she takes it, s
 Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
+
+### R79-5-VOICE_AND_DIALOGUE [Directions 2026-10-17 prose-rp-questionnaire]
+
+No speech cap; the card sets speech flaws; catchphrases only from a card; pre-R78 tone rules retired; accents full phonetic, card sets weight; bare genre words freed, exact clichés still banned; conversion upgrades mechanism words only.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): voice and dialogue. Speeches carry no cap: declarations, battle cries, villain speeches and crafted speeches land wherever the moment carries them. The card decides how a person speaks: stumbles, interruptions, repetition and non-answers are a toolbox, and the bans on composure apply only to the young, the exhausted and the inarticulate. A recurring catchphrase only where a card gives one. The pre-R78 tone rules retire: the anti-manhwa tell list and its cutaway tell (one kept: a reaction shot that replaces showing the event), the Abercrombie register, gallows wit as the only joke in danger, and the grimdark titling; each character's own humour governs, fights included. Accents are written in full phonetic spelling, each card setting how heavy. The exact cultivation cliché phrases stay banned, while bare killing intent and qi rising or flaring are genre vocabulary. Converting his rough prose upgrades the words for how magic and bodies work and keeps his plain words where plain is truer; the every-noun routing and the term-count floors retire.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -5139,18 +4809,6 @@ Each culture may carry a few native sound and state words in speech and close na
 
 > Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.
 
-### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
-
-Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
-
-> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
-
-### R70-87-READOUTS_TWO_VOICE_CAP [Style Law 2026-10-03 LR10]
-
-A readout states figures and explains nothing, so it never counts toward the two explaining voices an engagement may carry.
-
-> Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.
-
 ### R70-93-BUILD_TALK_DIALOGUE [Style Law 2026-10-03 LR15]
 
 Any ranked practitioner may speak his own and others' figures exactly and argue builds in dialogue, as in Unbound, while commoners still round.
@@ -5258,12 +4916,6 @@ Routine exchange such as prices, directions, greetings and haggling is told in a
 A posted chain of actions stops at the first point the world pushes back and the later actions never happen, while every line the PC speaks is said in full, NPCs free to react as he speaks.
 
 > Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.
-
-### R72-15-CARRIES_RUMOR_MILL [Table Law 2026-10-04 TU8]
-
-The Rumor Mill's news may come from one NPC who wants to know things first and gets some of it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from people the PC overhears talking among themselves.
-
-> Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).
 
 ### R72-19-NEW_LINES_HIS_POSTS [Table Law 2026-10-04 TU12]
 
@@ -5475,12 +5127,6 @@ Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-
 
 > Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
 
-### R51-31-SENSE_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
-
-> Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
-
 ### R51-32-SMELL_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Technical smell words (ozone, sulphur, ammonia) are free for any POV.
@@ -5498,12 +5144,6 @@ In-world documents keep a house style per institution: Accord chancery formal an
 The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
 
 > The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
-
-### R51-35-NEW_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
-
-> A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
 
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
@@ -5558,12 +5198,6 @@ When Isaac's play and a card disagree, his play wins: his character's thoughts s
 When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
 
 > When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
-
-### R52-10-CROSSOVER [Voice Law 2026-09-26 Isaac's own characters]
-
-Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
-
-> Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
 
 ### R52-11-ILTHARA [Voice Law 2026-09-26 Isaac's own characters]
 
@@ -5679,12 +5313,6 @@ Each NPC's voice starts from a researched real-world speaker type (a customs cle
 
 > Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
 
-### R52-30-PROVERBS [Voice Law 2026-09-26 NPC voices the partner builds]
-
-Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
-
-> Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
-
 ### R52-31-COMIC_NPC [Voice Law 2026-09-26 NPC voices the partner builds]
 
 The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
@@ -5733,79 +5361,13 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (137)
-
-### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
-
-The sweep has two tiers. Canon pages get swept — body text, not just titles.
-
-> The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and "Tengeriin"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run.
-
-### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
-
-The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
-
-> The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start.
-
-### R20C-37-DOCUMENTS_OWE_NOTHING [Pack Twenty R20C-37]
-
-In-world documents owe nothing to sounding in-world.
-
-> In-world documents owe nothing to sounding in-world.
-
-### R20C-59-THE_FOLD_BUILD_ORDER [Pack Twenty R20C-59]
-
-Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions.
-
-> Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions. Build order:
-
-### R19-9-STANDING_TASK [Pack Nineteen §9]
-
-Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.
-
-> Fold Packs One through Nineteen into the base guides and retire the diffs. Ask once per session.
-
-### R18-9-STANDING_TASK [Pack Eighteen §9]
-
-Fold Packs One through Eighteen into the base guides and retire the diffs, asked once per session.
-
-> Fold Packs One through Eighteen into the base guides and retire the diffs. Ask once per session.
-
-### R17-10-STANDING_TASK [Pack Seventeen §10]
-
-Fold Packs One through Seventeen into the base guides and retire the diffs, asked once per session.
-
-> Fold Packs One through Seventeen into the base guides and retire the diffs. Ask once per session.
-
-### R16-5-NOT_IN_NOTES [Pack Sixteen §5]
-
-If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.
-
-> Not in the author notes. The notes record originated material, conflicts, the Stat Ledger, and the audit. If a mechanism appears in the notes and not in the prose, the pass failed and the note is evidence of the failure.
-
-### R16-8-CHECK31 [Pack Sixteen §8]
-
-No mechanism term may appear in the author-notes block that does not also appear in the prose body.
-
-> Check 31 — Export. No mechanism term appears in the author-notes block that does not also appear in the prose body.
-
-### R16-9-STANDING_TASK [Pack Sixteen §9]
-
-Fold Packs One through Sixteen into the base guides and retire the diffs, asked once per session; precedence at sixteen packs deep is past the point where it can be tracked by reading.
-
-> Fold Packs One through Sixteen into the base guides and retire the diffs. Sixteen packs is past the point where precedence can be tracked by reading. Ask once per session.
+## documents (110)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
 Pack Twelve §6's clause forbidding a document from explaining mechanism is struck; a document may be as scientific as it wants, and the Mystic Register survives only as an option for documents that want to withhold.
 
 > The Mystic Register's "rules stated as law, never physics" clause (Twelve §6), where it forbids a document from explaining. A document may be as scientific as it wants to be. The Mystic Register survives as an option for documents that want to withhold.
-
-### R14-7-STAT_LEDGER_CONTENTS [Pack Fourteen §7]
-
-Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
-
-> Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.
 
 ### R13-5-GAP_FILL_PASS [Pack Thirteen §5]
 
@@ -5824,12 +5386,6 @@ Correspondence, sympathy and contagion, essence and accident, form and actualisa
 The Notion Magical Categories page and Lexicon page each gain a "Physics Domain and real phenomenon" line per entry, giving §3 a wiki home.
 
 > Notion. The Magical Categories page and the Lexicon page gain a "Physics Domain and real phenomenon" line per entry, so §3 has a wiki home.
-
-### R13-9-NOTES_TEMPLATE_SECTIONS [Pack Thirteen §9]
-
-"Added by the gap-fill pass" and "Phenomenon line" become standing sections of the author notes template.
-
-> Author notes template. Added by the gap-fill pass and Phenomenon line become standing sections.
 
 ### R12-4-VOICE_FOUR_DOCUMENT [Pack Twelve §4]
 
@@ -5890,18 +5446,6 @@ Place Volumes I and II in Mu-jin's road years from fourteen to about nineteen, m
 Reserve 'Seven Cacodaemonic Corruptions' for the Heresiology and call the Necrocursica's list the Seven Unmoorings, each of which may name the Heresiology inversion that drives it.
 
 > Heresiology keeps it; the Necrocursica's become the Seven Unmoorings. The Necrocursica's title, chapter 3 heading and Appendix II are renamed from the text's own verb ('it unmoors them', chapter 4), and each failure may name the Heresiology inversion that drives it. Grade III and the God Hand page's 'two sevens' stay true.
-
-### R61-9-WORD_FILES_ARE_CONVERSION_BASE [Alchemy Conversion Questionnaire 2026-09-28 K9]
-
-Convert the five texts from the Word files in first person throughout, then rewrite the wiki Codex pages as condensations of the new text that keep their chapter subheads and residue table.
-
-> Word files as base; wiki condensations regenerated afterwards. Every contradiction is visible and decided here. The converted texts are first person throughout, and the wiki's Codex pages are rewritten afterwards as condensations of the new text, keeping their chapter subheads and residue table.
-
-### R61-10-CONVERSION_IS_FULL_REBUILD [Alchemy Conversion Questionnaire 2026-09-28 K10]
-
-Rethink structure, events and cast around Mu-jin, Malphas and the new Papers author, and treat the old texts as source notes only.
-
-> Full rebuild: structure, events and cast are rethought around the new authors, and the old texts become source notes.
 
 ### R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 ST1]
 
@@ -6137,24 +5681,6 @@ The investigator names the circle's ink as Gravetide Ink only when the Genesio a
 
 > Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.
 
-### R61-127-CODEX_SECTION_FIVE_PAGES [Alchemy Conversion Questionnaire 2026-09-28 ME1]
-
-Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
-
-> Publish both under The Alftian Codex section. Five pages sit together; Volume III's references and the Halveth line resolve; the INDEX section grows from three pages to five. 'Sealed' and 'Level VI' become in-world labels on public pages.
-
-### R61-129-CONVERSION_ORDER_OF_WORK [Alchemy Conversion Questionnaire 2026-09-28 ME3]
-
-Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, one document per commit, so no text is converted before the texts it quotes.
-
-> Composition order: Volumes I, II, Papers, Volume III, Necrocursica. Each document is converted after everything it quotes, so no conversion cites an unconverted source; the Necrocursica's revised edition comes last and cites the finished four.
-
-### R61-130-CONVERTED_TEXTS_OUTPUT [Alchemy Conversion Questionnaire 2026-09-28 ME4]
-
-Publish each converted text as a Notion page in-session for the sync to mirror, and save a new docx next to Isaac's originals, which are never overwritten.
-
-> Notion pages plus fresh docx files beside the originals. Pages are published in-session and mirrored by the sync; new docx files, such as 'The Alftian Codex (Mu-jin edition)', are saved next to his originals, which stay untouched.
-
 ### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
 
 The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
@@ -6221,12 +5747,6 @@ A canon line stating the state of the record, since overtaken, may be updated by
 
 > A line in canon that states the state of the record ("Veyran is unattested", "the efficiency conflict, unresolved") and that the record has since overtaken may be updated by any sweep, citing what overtook it; no ruling needed.
 
-### R57-26-USAGE_STRIPPED_NUMBERS_KEPT [Rulings Backfill 2026-09-26 Ruling audit]
-
-The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain...
-
-> The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain 'reserve covers N uses' stays only where it is a number, not advice.
-
 ### R63-1-IC_IS_IN_CONCORDANCE [Calendar Follow-up 2026-09-28 calendar 1]
 
 Date by IC, read as years In Concordance from the sealing of the Concord Codex; never call the count the Imperial Age.
@@ -6269,23 +5789,17 @@ A Guild or Crown contract fight sets its posting on the page at the hook in the 
 
 > Yes to: The posting as document (The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71)); A clause binds the fight (Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause); Proof at the counter (The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt).
 
-### R71-102-WHERE_COMBAT_LAW_LANDS [Combat Law 2026-10-04 ME1]
-
-The combat answers land as one dated Combat Law rule doc logged through log_ruling and served by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law.
-
-> Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)
-
 ### R60-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 
 > The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 
-### R59-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R79-11-CANON_WORLD_DOCUMENTS [Directions 2026-10-17 coverage-questionnaire]
 
-These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+Canon order with Isaac's dated directions first; fixed system canon, everything else free and canon on archive; story beats a palette; crews in play; Malphas hidden only from who couldn't know; rare costly returns; world magic law in narration, physics in trained mouths; world musts and document forms optional; names as needed; one free archive-notes block; markdown documents; price table approved; no owed Inventory fields.
 
-> These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): canon, the world and its documents. The canon order is Isaac's word, including RULINGS and dated directions with the newest winning; then the canon source documents (Fracture of Worlds, the Master Codex, the Stat Sheet); then the rule index; then archived scenes for events; then cards; then other wiki pages; then internal logic. Fixed and never invented: the Sixty Wellsprings, the Glyph Index, the Stage, Band and Tier ladders, the Families, the Archons and Titans, cultures and bloodlines, and carded people's facts; everything else is free to invent, factions and NPC techniques included, canon once archived. Story beats (crews, rivals, mentors, warm bonds, arc kinds) are a palette Natalie draws on when the story earns them, never owed per thread; a crew forms in play, Isaac overturning what he dislikes. Malphas is hidden only from characters who could not know him; his circle's size floats. The dead stay dead save rare, costly returns by canon means; full resurrection stays forbidden on paper. Narration states the world's magic as law with its reasons kept, while trained characters and the notes may give the physics. World musts (weather in every outdoor scene, the bill on an indoor working, the sense order at sea, the rite that departs from its form, the document whose rule breaks, the tested epigraph) become tools used when they matter. Document forms are optional (the contract's limiting clause, the docket line, the Tier rung); a glossary is built at book assembly; numerals stand wherever an institution writes them; in-world documents keep their institution's house style. Names come as needed: doublets, true names, folk names and say-lines are added when used; the technique-name word cap and the never-translated rule retire. Archive notes are one free block (sources, inventions, canon conflicts, estimates), with a mystery's clue list and sealed solution kept. The house document is markdown in the repo; a .docx only on request, dark background and gold Garamond. The price table in imports/drafts/price-table.md is approved and published as reference. Standing Inventories owe no fields; a journey that matters has a clock the world fills, with no tick count; a character may talk power-scaling in his own voice while narration avoids forum terms.
 
 ### R67-1-FARRANT_PAPERS_AUTHOR [The Farrant Papers Ratification 2026-09-28 papers 1]
 
@@ -6317,12 +5831,6 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 
 > The Accord's registers cannot file a person who has no fixed name. So the filing system assigned them: a frozen surname taken off the nearest legible thing, a trade, a landmark, a factor's guess at a sound, handed down in a ledger to people who had never used one and mostly still do not among themselves.
 
-### R73-40-WHERE_INTIMACY_LAW_LANDS [Intimacy Law 2026-10-04 ME1]
-
-The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
-
-> B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
-
 ### R74-12-REST_OF_WATCH_SEARCH [Mystery Law 2026-10-04 MY5]
 
 A Night Watch search of a room, a body or a seal plays step by step as action, figures in a mouth and nothing summarised, and closes on its docket line set off from the prose, the Register's flat record against the long hour.
@@ -6352,12 +5860,6 @@ Body horror where nobody is fighting is written full and clinical in the POV's f
 The table runs the information trade three ways: inserts, bulletins and the penny press carry public intelligence both ways; intercepted letters, wires and dockets appear in full as documents with seal, hand and paper described as clues; and each service gets working words for agents, drops and watchers in its Inventory's Words entry.
 
 > Yes to: The press as intelligence (Inserts, bulletins and the penny press carry public intelligence both ways: whoever reads them learns something, and is learned about by whoever filed them); Letters as exhibits (Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67), with seal, hand and paper described as clues); Tradecraft per service (Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)).
-
-### R74-43-WHERE_MYSTERY_LAW_LANDS [Mystery Law 2026-10-04 ME1]
-
-The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/ for Natalie to read before a dark or scheming scene.
-
-> Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.
 
 ### R20-4-ACCORD_FILING_CONVENTION [Naming Guide Amendment Part Four]
 
@@ -6395,23 +5897,11 @@ Appendix I is Furveus's protocol as modified; Appendix II answers Volume III.
 
 > Appendix I is Furveus's stabilisation protocol as Malphas modified it for Mortalis work, with its doses of white arsenic and calomel; Appendix II answers the third volume of Kwon Mu-jin's Codex.
 
-### R54-11-CARD_HEADER_AT_A_MOMENT [Queue Questionnaire 2026-09-26 WAR-114]
-
-Every card's header states the moment it describes; the Lore section records later events, deaths included.
-
-> Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so; Lore records later events including deaths. Applies to every card.
-
 ### R54-26-BENCH_OF_ATTRIBUTION [Queue Questionnaire 2026-09-26 WAR-50]
 
 The Bench of Attribution may not keep or compel records of signings.
 
 > It is the Bench of Attribution with its remit unchanged; later chapters may not have it keep or compel records of signings.
-
-### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
-
-Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
-
-> Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
 ### R70-8-JOBS_STYLE_GOVERNS [Style Law 2026-10-03 K8]
 
@@ -6521,12 +6011,6 @@ When a readout needs a figure canon does not give, it prints an estimate with th
 
 > Print the estimate, marked. The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.
 
-### R70-135-WHERE_NEW_LAW_LIVES [Style Law 2026-10-03 ME1]
-
-Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Prose Standards to it, and issue new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide so no companion document still teaches the old law.
-
-> A, plus new guide editions. A, then new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide, so no companion document still teaches the old law. (Option A there reads: Rule doc and NATALIE rewrite. One dated Style Law doc logged through log_ruling; NATALIE.md's models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1 superseded or amended as K1 decides.)
-
 ### R70-137-ARCHIVED_SCENES [Style Law 2026-10-03 ME3]
 
 Leave every archived scene as written and add a law-edition column to scenes/MANIFEST.md so the drafting tools and scene_recall stop treating old-style scenes as precedent.
@@ -6539,25 +6023,7 @@ When a scene with other players is archived, the Judger marks each canon break s
 
 > The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
 
-### R72-41-WHERE_TABLE_LAW_LANDS [Table Law 2026-10-04 ME1]
-
-The table answers land as one dated Table Law doc logged through log_ruling, NATALIE.md's Table Rules and Session Protocol rewritten to it with a new multiplayer section, the wotr-rp, wotr-ledger, wotr-npc and judger skills rewritten, and MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands as R72-40-PLAYERS_CAN_LOOK_UP sets them.
-
-> C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6.
-
-### R75-33-LORE_AND_LENGTH_CAP [Techniques Law 2026-10-04 CH9]
-
-The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log, Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.
-
-> The seventeen only. The cap binds Identity through Fracture Log; Lore runs free below it. The eight cards over without Lore are trimmed in the sweep.
-
-### R75-43-WHERE_TECHNIQUE_LAW_LANDS [Techniques Law 2026-10-04 ME1]
-
-The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.
-
-> Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
-
-## items (95)
+## items (92)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6625,12 +6091,6 @@ Powder weapons are slow, loud and honest; a practitioner above roughly the middl
 
 > Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
 
-### R11-3-AMMO_TIERS [Pack Eleven §3]
-
-Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
-
-> The three ammunition tiers, originated, pending ruling:
-
 ### R10-3-PROJECTED_FORM_LICENSE [Pack Ten PART THREE]
 
 Ability Effect fields may render a working as an externalised shape (animal, elemental figure, guardian silhouette) instead of only as discharge, pressure, or weather.
@@ -6648,12 +6108,6 @@ Spellcraft holds only while attention holds; Runecraft is fixed and degrades lik
 Plate is a cost problem rather than a defence problem to an Expenditure fighter, who is content to let armour do its job for as long as the wearer can afford to keep wearing it.
 
 > Expenditure answers to plate: irrelevant. Plate is a cost problem rather than a defence problem, and an expenditure fighter is content to let armour do its job for as long as the wearer can afford to keep wearing it.
-
-### R2-6-REPLENISHMENT_RULE [Pack Two Amendment Six.3]
-
-Essence cannot be shipped (it leaks in transit, needs an untransportable instrument to assay, dies with its owner); no consumable, technique or item may restore a practitioner's magazine.
-
-> A practitioner is refilled by a Wellspring, or not at all. Essence cannot be shipped: it leaks in transit, cannot be assayed without an instrument that does not travel, and dies with its owner. Design consequence: no consumable restores a practitioner's magazine. Any technique, item or draft proposed to do so is refused at design.
 
 ### R1-1-PERCUSSION_VS_PLATE_AND_TELL [Pack One Amendment One]
 
@@ -6726,12 +6180,6 @@ The text on the copper amulet is readable Old High Runic of an age no one can pl
 A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-bearer's standing work (a seal, an amulet, an impression-body) also costs a one-time share of reserve on the arms-ladder model, and a pure alchemist's standing work needs a Crystal-bearer's seal.
 
 > Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.
-
-### R61-101-NO_DRAFT_REFILLS_RESERVE [Alchemy Conversion Questionnaire 2026-09-28 EC2]
-
-Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.
-
-> R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.
 
 ### R61-102-BENCH_TIERS_CAP_ALCHEMISTS [Alchemy Conversion Questionnaire 2026-09-28 EC3]
 
@@ -6901,12 +6349,6 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 
 > The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
 
-### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
-
-A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
-
-> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
-
 ### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
 
 Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
@@ -6930,6 +6372,12 @@ A stale enhanced round may fail in a fight only if the page showed its date earl
 Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.
+
+### R79-10-NUMBERS_AND_SYSTEMS [Directions 2026-10-17 coverage-questionnaire]
+
+Sources by field; formulas recomputed, outliers stand; estimates plain and canon; fight Drafts refill, paid in the crash; self-boosts inside the two-Grade cap; Grade decides, Stage limits; stats decide out of sight; money named; one item ladder; faculty reads estimate in fights; EU on cards, duration on the page; tell thresholds law, words free.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): numbers and systems. Sources are read by field: Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent; Natalie resolves by that order and moves on. Formulas that must always compute (1 EU = 1 MJ; AU/s = Flux times eta) are recomputed; bands and ladders are typical ranges and a card's outlier stands. A missing figure is derived from the Fracture of Worlds tables, written plainly with no mark, canon on use, and a source value beats it on contact; no pending fields. A fight Draft refills reserve and the crash pays for it. The two-Grade stacking cap counts every self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card; only outside help (allies, arrays, Domains) sits outside it; items work at their own Tier. The Grade of the stat in use decides a contest; the Stage gap governs Pressure and the upset limit; ties break on the read, then what is left to spend, then the ground. The stats decide out of sight: no deciding-row citations, no Stat Ledger; archive notes name a row only for a contested or turning outcome; the gap-fill pass runs only for set pieces and his submitted fights, unlogged. Money that changes hands is named; an item's Tier and price appear once, when the POV would see them; a Draft needs only a plausible source. One item ladder decides out of sight: a proofed round strikes one Tier over the target armour and a named round two, makers graded by Tier of Standing. In a fight a faculty read is an estimate in thought or speech; exact figures print only outside a fight. Cards keep EU as the source of truth with a line for how long a working lasts from full; the page uses duration and body tells. The running-low thresholds are world law; their wording is free.
 
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -7129,7 +6577,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (150)
+## magic-design (136)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7167,23 +6615,11 @@ Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and a
 
 > Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.
 
-### R18-2-CODEX_FIRST_MANDATE [Pack Eighteen §2]
-
-Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
-
-> The Codex is opened before the working is designed, not after.
-
 ### R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK [Pack Eighteen §2]
 
 A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.
 
 > No new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may be proposed until the existing enumeration has been read and the absence demonstrated. A proposal that does not name what was checked and why it failed is not a proposal.
-
-### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
-
-Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
-
-> Pack Seventeen's card and the Spell Index schema are the same object. The mapping is exact and the Codex column governs:
 
 ### R18-3-ENTRY_AS_CANDIDATE_ROW [Pack Eighteen §3]
 
@@ -7299,18 +6735,6 @@ Flags phrases that assert an outcome instead of stating a process (e.g. "is assa
 
 > Check 36 — The assertion sweep. Flag every phrase that states an outcome in place of a process: is assayed, is converted, is transferred, responds to, is affected by, is empowered by, resonates with, attunes to. Each one is either replaced with the operation it is standing in for or deleted.
 
-### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
-
-Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
-
-> WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
-
-### R13-2-THREE_STRATA_MANDATE [Pack Thirteen §2]
-
-Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
-
-> Every working explained on the page is explained at three strata, in the Technical Register, through one of Twelve's four voices. The order below is the order of causation. It does not have to be the order on the page.
-
 ### R13-3-PHENOMENON_MANDATE [Pack Thirteen §3]
 
 Before shipping, every new working/technique/ability names in the author notes the real phenomenon it runs on, the Physics Domain and Wellspring it specialises, the Category and alignment tag, the Mechanism Vocabulary term it dramatises, and the fault the mechanism creates (which must fall out of the phenomenon, not from stamina or convenience).
@@ -7352,12 +6776,6 @@ Pack Seven, the Soft Magic Amendment, is repealed in full; six of its specific p
 The power economy remains a hard rail (finite, spent, shown on the page), the ladder remains real, and explaining a mechanism does not license a free technique; a fully explained technique that costs nothing is worse than an unexplained one.
 
 > The economy is still a hard rail: power is finite, spent, and the spending shows on the page or it did not happen. The ladder is still real and higher is still felt before it is seen. Explaining a mechanism does not license a free one. A fully explained technique that costs nothing is worse than an unexplained one.
-
-### R12-3-COUNTER_MANDATORY [Pack Twelve §3]
-
-Ability entries retain the Counter field as mandatory; explanation makes counterplay easier to write, not optional.
-
-> Ability entries retain the Counter field as mandatory. Explanation makes counterplay easier to write, and it stays mandatory.
 
 ### R12-3-NAMED_INVENTOR_RULE [Pack Twelve §3]
 
@@ -7419,29 +6837,11 @@ Spellcraft holds only while attention holds; Runecraft is fixed and degrades lik
 
 > The delivering craft sets how much the shape can be trusted to hold:
 
-### R10-3-UNCHANGED_CONSTRAINTS [Pack Ten PART THREE]
-
-A projected shape still counts toward the one splash-panel beat per scene (Pack Nine), still costs the one diagnostic read per scene if the category is named, and the ignorance quota/misreading budget are untouched — a POV may see a projected shape and get it wrong.
-
-> - One splash-panel beat per scene (Pack Nine) still governs the moment the shape is at its most visually loud. - One diagnostic read per scene (Part Two above) still governs any naming of the category itself. - Ignorance quota and misreading budget are untouched.
-
 ### R8-12-NAMING_EQUALS_PHENOMENON_STRUCK [Pack Eight 1.2]
 
 The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by this pack's Section Two.
 
 > The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by Section Two below.
-
-### R8-13-ENTRY_STRUCTURE [Pack Eight 1.3]
-
-An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
-
-> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
-
-### R8-14-CLASSIFICATION_BLOCK [Pack Eight 1.4]
-
-Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
-
-> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
 
 ### R8-26-GLOSS_DEPENDENCE_FAILS [Pack Eight 2.6]
 
@@ -7449,29 +6849,11 @@ A working whose meaning must be glossed for the scene to land is a working that 
 
 > A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.
 
-### R8-3-WORKED_EXAMPLES_PENDING [Pack Eight 3]
-
-Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
-
-> Two entries in the format, in different registers, to fix the shape.
-
 ### R7-1-CHARACTER_FIRST [Pack Seven PART ONE]
 
 Refusal, wound and conviction produce the phenomenon; the Codex files it afterward and is not a generator.
 
 > Character first, system second. Refusal, wound and conviction produce the phenomenon. The Codex files it afterward. The Codex is not a generator.
-
-### R7-5-COST_AUDIT [Pack Seven PART FIVE]
-
-An estimated sixty percent of existing technique entries fail the test that "overuse strains him" is not a real cost; every failure needs a real cost category, something the character still carries when nobody is fighting.
-
-> The cost audit. Working estimate is that sixty percent of existing technique entries fail the test that overuse-strains-him is not a cost. Every failure needs a real category from the wheel: something the character still carries when nobody is fighting. This is the largest and most valuable job on the docket.
-
-### R7-5-CHARACTER_FIRST_REDERIVATION [Pack Seven PART FIVE]
-
-For each major character, state what they refuse, what they survived, and what they believe that costs them, then check the phenomenon actually comes out of it; where it does not, the ability needs rebuilding from the person, not the Physics Domain.
-
-> The character-first re-derivation. For each major character, state what they refuse, what they survived, and what they believe that costs them, then check the phenomenon actually comes out of it. Where it does not, the ability was generated from a Physics Domain and needs rebuilding from the person.
 
 ### R2-6-CURRENCY_RULE [Pack Two Amendment Six.1]
 
@@ -7484,12 +6866,6 @@ A practitioner converts Essence into effect; an army converts time into ground; 
 Essence is finite per practitioner per day and replenishes slower than expenditure under load; every technique's Cost field must be legible to the character using it, who never discovers mid-technique that they are empty.
 
 > Essence is finite per practitioner per day, replenishment is slower than expenditure under load, and the practitioner always knows what they have left. Design consequence: every technique's Cost field must be legible to the character using it. A practitioner never discovers mid-technique that they are empty.
-
-### R2-6-REPLENISHMENT_RULE [Pack Two Amendment Six.3]
-
-Essence cannot be shipped (it leaks in transit, needs an untransportable instrument to assay, dies with its owner); no consumable, technique or item may restore a practitioner's magazine.
-
-> A practitioner is refilled by a Wellspring, or not at all. Essence cannot be shipped: it leaks in transit, cannot be assayed without an instrument that does not travel, and dies with its owner. Design consequence: no consumable restores a practitioner's magazine. Any technique, item or draft proposed to do so is refused at design.
 
 ### R2-6-DOMAINS_BREAK_NOT_KILL [Pack Two Amendment Six.4]
 
@@ -7514,12 +6890,6 @@ Speed is Essence; a character who arrives fast arrives depleted, and there is no
 Any technique deployed against a formation carries Frontage, Sustain and Re-form alongside the standard seven fields, or it does not belong on a battlefield; counterplay is always exceeding Frontage, outlasting Sustain, or shortening Re-form.
 
 > Any technique deployed against a formation carries all three fields in addition to the standard seven. A technique that cannot be given all three does not belong on a battlefield. Counterplay to any scaled technique is always one of three things: exceed its Frontage, outlast its Sustain, or shorten its Re-form.
-
-### R1-2-THREE_FIELDS_MANDATORY [Pack One Amendment Two]
-
-Three further fields (Frontage, Sustain, Re-form) are mandatory for any technique deployed against a formation; a technique that cannot be given all three does not belong on a battlefield.
-
-> Three further fields are mandatory for any technique deployed against a formation. A technique that cannot be given all three does not belong on a battlefield and should not be written into one.
 
 ### R1-2-FRONTAGE_DEFINED [Pack One Amendment Two]
 
@@ -7713,12 +7083,6 @@ Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at i
 
 > Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
 
-### R57-26-USAGE_STRIPPED_NUMBERS_KEPT [Rulings Backfill 2026-09-26 Ruling audit]
-
-The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain...
-
-> The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain 'reserve covers N uses' stays only where it is a number, not advice.
-
 ### R57-41-CHECKS_34_35_RETIRED [Rulings Backfill 2026-09-26 Conflicts ruled]
 
 C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
@@ -7778,6 +7142,12 @@ Passive stat base plus active reinforcement that can be focused and leaves gaps,
 Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides contests, Aether Class sets eta, drain as time from full; Second Release powers the Domain; spending shown by a fixed tell ladder; fight Drafts refill; tags fuelled per tag, practitioners only; three roads meet each Catalyst; release forms canon with new card fields; disciple ranks in schools and houses; renown per audience, warrants and bounties, epithets; Stage-bracket tournaments; Draft prices x3 a Stage; Malphas the great villain over about ten numbered lieutenants; Well-spawn masks as weak points; proposed crews; skips through pass_time.
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
+
+### R79-9-CARDS_AND_TECHNIQUES [Directions 2026-10-17 coverage-questionnaire]
+
+Sonzai hands-off; card head required, sections a menu, no cap; figures set when reached; rungs not gates, one template; technique needs mechanism, cost, one fair counter; character then phenomenon then Codex; Category names free; Gloss Rights a speech trait; first print after the fight.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): cards and techniques. Sonzai (Chuluun) belongs to another creator and is hands-off. A character card has a required one-screen head; the sections below it are a menu filled with what the character actually has, with no character cap; it carries the Primaries and the Sub-Stats in use, the rest derived when a scene needs them; the voice block is a menu with a sample line and speaker type required; the arc-kind taxonomy is dropped; a next-gate line only near a gate; figures (mastery marks, chant cuts, vows, Readiness) are set when play reaches them. The roster entry, short card and full card are rungs, not gates: a card is made when needed and a full card when he asks or the character recurs; the card template in desktop/templates is the one skeleton. A technique requires its mechanism, its cost and one fair counter within reach at its own Stage; limit and tell where they exist; the before, during and after triad only for signatures; every ability has a counter. A technique is designed character first, then the phenomenon, then the mechanism, then a Codex lookup for precedent and assignment; naming what was checked only when proposing a new Codex entry. Category names are free in trained mouths and POVs; Gloss Rights is a voice trait for who explains aloud in dialogue, not a gate on narration. A signature's first-hold print comes at the first pause after the fight.
 
 ### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
 
@@ -7983,12 +7353,6 @@ A full card gains a refusal line (what he will not do whatever is offered), a na
 
 > Yes to: Refusal line (The thing he will not do whatever is offered, as the roster already carries; Table Rule 3's refusals read straight off the card); Conviction (The belief that costs him, named; the Trait System's 'Belief, once survived, becomes law' gets the belief it grows from, and a Shear Break has a truth to break against); Arc kind (Positive, flat, negative or corruption, after K. M. Weiland's arc types: set when the card is made, revised at each arc's end).
 
-### R75-43-WHERE_TECHNIQUE_LAW_LANDS [Techniques Law 2026-10-04 ME1]
-
-The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.
-
-> Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
-
 ### R75-46-OLD_ENTRIES_FAILING_LAW [Techniques Law 2026-10-04 ME5]
 
 A carded technique's cost, counter or What nobody knows line that fails live law is re-derived from its mechanism when the rebuild order reaches its card, the old line quoted in that rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, which Isaac reads in CONTINUE.md and may overturn.
@@ -8031,7 +7395,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (272)
+## magic-mechanism (264)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8165,12 +7529,6 @@ Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings
 
 > The Technical Register for combat and workings (Twelve, Thirteen, Fourteen). Explanation in real terms is the whole point of those packs and this pack makes it easier.
 
-### R13-2-THREE_STRATA_MANDATE [Pack Thirteen §2]
-
-Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
-
-> Every working explained on the page is explained at three strata, in the Technical Register, through one of Twelve's four voices. The order below is the order of causation. It does not have to be the order on the page.
-
 ### R13-2-STRATUM_ONE_AETHER [Pack Thirteen §2]
 
 The Aether stratum is what was already in the room before a draw: Aetheric Density (AU/s ceiling), Residue, Saturation, and in the Draw Age the district main/standpipe/meter; its real-science analogue is field, gradient, reservoir, saturation, conduction, and a working changes with local density.
@@ -8212,12 +7570,6 @@ Before shipping, every new working/technique/ability names in the author notes t
 A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
-
-### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
-
-At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.
-
-> The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
 
 ### R13-6-WOTR_FIRST [Pack Thirteen §6]
 
@@ -8302,12 +7654,6 @@ If a person chose to do a thing, it is Technical Register. If it was already run
 An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
-
-### R12-4-VOICE_MIXING_RULE [Pack Twelve §4]
-
-Confirmed by Isaac's ruling: the four explaining voices may mix, whoever is in the scene, picked per scene, with no more than two run in one engagement.
-
-> Confirmed by Isaac's ruling: mix, whoever is in the scene. Four carriers. Pick per scene. Do not run more than two in one engagement.
 
 ### R12-4-VOICE_ONE_POV [Pack Twelve §4]
 
@@ -8423,12 +7769,6 @@ Craft and Category cross like Family and Method at a coarser grain — Craft is 
 
 > The two cross the same way Family and Method already do, at a coarser grain: Craft is the mouth it comes out of. Category is the shape of the thing that comes out.
 
-### R10-2-CATEGORY_REGISTER_DEFAULT [Pack Ten PART TWO]
-
-Category names sit at Wellspring/Family register, not common tongue, and stay workbook and Codex-line by default.
-
-> Category names (Animatria, Manifestus, Vectra, and so on) sit at Wellspring/Family register, not common-tongue register — nobody calls a tiger "my Animatria" the way a soldier says "the writing." They stay workbook and Codex-line by default.
-
 ### R10-3-PROJECTED_FORM_LICENSE [Pack Ten PART THREE]
 
 Ability Effect fields may render a working as an externalised shape (animal, elemental figure, guardian silhouette) instead of only as discharge, pressure, or weather.
@@ -8458,12 +7798,6 @@ The new power-display register applies only to Stage-ascension beats, a Pressure
 At a Stage threshold or dropped suppression, the eyes go first — light behind them, overtaking iris and sclera — rendered as a fact the room reacts to, still costing the Apparatus Rule's one read.
 
 > Eyes as the tell. At a Stage threshold or a dropped suppression, the eyes go first — light behind them rather than in them, overtaking iris and sclera both. Rendered as a fact the room reacts to; the Apparatus Rule still applies, one read and then silence.
-
-### R9-3-COST_UNCHANGED [Pack Nine PART THREE]
-
-The ignorance quota, the misreading budget, and the one-read Apparatus Rule bind a Stage-display beat exactly as hard as any other scene.
-
-> Cost, unchanged. The ignorance quota, the misreading budget, and the one-read Apparatus Rule still bind a Stage-display beat exactly as hard as any other scene.
 
 ### R8-11-SHEET_EXPLAINS [Pack Eight 1.1]
 
@@ -8758,12 +8092,6 @@ Paracelsus and Gillus De Raits are lawfully harmonized for Mortalis and do lawfu
 A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-bearer's standing work (a seal, an amulet, an impression-body) also costs a one-time share of reserve on the arms-ladder model, and a pure alchemist's standing work needs a Crystal-bearer's seal.
 
 > Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.
-
-### R61-101-NO_DRAFT_REFILLS_RESERVE [Alchemy Conversion Questionnaire 2026-09-28 EC2]
-
-Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.
-
-> R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.
 
 ### R61-108-MORTALIS_FULL_COST_STACK [Alchemy Conversion Questionnaire 2026-09-28 EC9]
 
@@ -9143,12 +8471,6 @@ Before contact in a Well fight a gauge or a practitioner's feel names the densit
 
 > Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.
 
-### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
-
-Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
-
-> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
-
 ### R60-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
@@ -9196,6 +8518,18 @@ Passive stat base plus active reinforcement that can be focused and leaves gaps,
 Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides contests, Aether Class sets eta, drain as time from full; Second Release powers the Domain; spending shown by a fixed tell ladder; fight Drafts refill; tags fuelled per tag, practitioners only; three roads meet each Catalyst; release forms canon with new card fields; disciple ranks in schools and houses; renown per audience, warrants and bounties, epithets; Stage-bracket tournaments; Draft prices x3 a Stage; Malphas the great villain over about ten numbered lieutenants; Well-spawn masks as weak points; proposed crews; skips through pass_time.
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
+
+### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
+
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; one causal line at first display; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English or own tongue; world magic as law; jargon free; misses summed, hits noted.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
+
+### R79-10-NUMBERS_AND_SYSTEMS [Directions 2026-10-17 coverage-questionnaire]
+
+Sources by field; formulas recomputed, outliers stand; estimates plain and canon; fight Drafts refill, paid in the crash; self-boosts inside the two-Grade cap; Grade decides, Stage limits; stats decide out of sight; money named; one item ladder; faculty reads estimate in fights; EU on cards, duration on the page; tell thresholds law, words free.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): numbers and systems. Sources are read by field: Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent; Natalie resolves by that order and moves on. Formulas that must always compute (1 EU = 1 MJ; AU/s = Flux times eta) are recomputed; bands and ladders are typical ranges and a card's outlier stands. A missing figure is derived from the Fracture of Worlds tables, written plainly with no mark, canon on use, and a source value beats it on contact; no pending fields. A fight Draft refills reserve and the crash pays for it. The two-Grade stacking cap counts every self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card; only outside help (allies, arrays, Domains) sits outside it; items work at their own Tier. The Grade of the stat in use decides a contest; the Stage gap governs Pressure and the upset limit; ties break on the read, then what is left to spend, then the ground. The stats decide out of sight: no deciding-row citations, no Stat Ledger; archive notes name a row only for a contested or turning outcome; the gap-fill pass runs only for set pieces and his submitted fights, unlogged. Money that changes hands is named; an item's Tier and price appear once, when the POV would see them; a Draft needs only a plausible source. One item ladder decides out of sight: a proofed round strikes one Tier over the target armour and a named round two, makers graded by Tier of Standing. In a fight a faculty read is an estimate in thought or speech; exact figures print only outside a fight. Cards keep EU as the source of truth with a line for how long a working lasts from full; the page uses duration and body tells. The running-low thresholds are world law; their wording is free.
 
 ### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
 
@@ -9494,12 +8828,6 @@ Plant a working's rules earlier through training, a document or talk, so a fight
 
 > Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
 
-### R70-73-MANY_DISPLAY_BEATS_PER [Style Law 2026-10-03 MY6]
-
-Each named practitioner may take one power-display beat per scene, so a duel may carry two and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display or finisher.
-
-> One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
-
 ### R70-75-RITE_PAGE [Style Law 2026-10-03 MY7]
 
 Set a rite on the page as a numbered in-world form in the Guild's house style, then have the scene perform it, with something departing from the form.
@@ -9517,12 +8845,6 @@ State the world's independent magic as law with reasons kept; people's workings 
 A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
 
 > Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
-
-### R70-87-READOUTS_TWO_VOICE_CAP [Style Law 2026-10-03 LR10]
-
-A readout states figures and explains nothing, so it never counts toward the two explaining voices an engagement may carry.
-
-> Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.
 
 ### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
 
@@ -9656,19 +8978,13 @@ The Four Theories surface in scenes through characters who hold and argue them; 
 
 > The Four Theories surface in scenes through characters who hold and argue them; they colour reads and mistakes.
 
-### R48-25-AWE [Writing Law 2026-09-26 WOTR metaphysics on the page]
-
-Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
-
-> Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
-
 ### R36-1-YASOSHIMA_SINK_YUNO_SECRET [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told]
 
 Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (56)
+## mass-combat (41)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -9754,54 +9070,6 @@ Per Section 6, pursuit is butchery of the unresisting from behind at a canter fo
 
 > The pursuit is the cavalry's real function and it is not combat. Per section 6, it is butchery of the unresisting from behind at a canter for as long as the horses last. Writing a cavalry POV means writing the person who does that work, and the honest version does not let them enjoy it and does not let them refuse it either.
 
-### R3-9-PRACTITIONER_POV_RULING [Pack Three Amendment Nine]
-
-A high-Stage practitioner inside a battle experiences none of the constraints the guide is built on; handing the reader that POV mid-engagement dissolves the fog, pressure and helplessness every other section exists to construct, so the POV is open before and after an engagement and closed during it.
-
-> A high-Stage practitioner inside a battle experiences none of the constraints this guide is built on. They can see. They are not in the press. They know what is happening. Handing the reader that POV during an engagement dissolves the fog, the pressure and the helplessness that every other section exists to construct. Ruling: the practitioner POV is available before and after an engagement and is closed during it.
-
-### R3-9-BEFORE_AFTER_DURING [Pack Three Amendment Nine]
-
-Before covers the costing-out arithmetic and the decision what to spend and on whom; after covers what the practitioner looks at on a field they made and whether they can name anyone; during, use the soldier, with the practitioner appearing only as weather the POV soldier experiences and doesn't understand.
-
-> - Before is where it belongs. The costing-out arithmetic, the decision about what to spend and on whom, the knowledge that the levy in front of them exists to be expensive. That is the most damning interiority available in the setting and it is wasted if it appears while they are fighting. - After is the second place. What a practitioner looks at on a field they made. Whether they can name anyone. - During, use the soldier. If the practitioner must appear, they appear as weather: something the POV soldier experiences and does not understand, arriving from outside the four-foot wedge.
-
-### R3-9-COSTED_OUT_EXCEPTION [Pack Three Amendment Nine]
-
-The single exception to the practitioner-POV ruling: a practitioner who has been costed out inherits every section-1 constraint the moment their magazine empties, so a POV beginning able to see the whole battle and ending able to see twelve feet is the strongest use of the perspective available — spend it once.
-
-> The single exception: a practitioner who has been costed out. The moment their magazine empties they inherit every constraint in section 1 at once, and a POV that begins with a person who can see the whole battle and ends with a person who can see twelve feet is the strongest use of the perspective available. Spend it once.
-
-### R2-5-SINGLE_ACT_RULE [Pack Two Amendment Five]
-
-A battle cannot hold six relationships the way a duel holds one; a battle advances exactly one relationship, and it advances it by a single unrepeatable act.
-
-> The rule: a battle advances exactly one relationship, and it advances it by a single unrepeatable act.
-
-### R2-5-SINGLE_ACT_CONDITIONS [Pack Two Amendment Five]
-
-The Single Act must be physical (a thing done with the body under load, not a decision or realisation), unrepeatable (the circumstance does not recur), witnessed but not discussed during the engagement, and ambiguous at the moment it happens to witness, reader and actor alike.
-
-> It is physical. Not a decision, not a realisation, not a look held a beat too long. A thing done with the body under load.
-
-### R2-5-RESOLUTION_IN_AFTERMATH [Pack Two Amendment Five]
-
-The relationship change is legible in how the two characters handle an unrelated later scene; if a character ever says what the act meant, the amendment has been violated and the scene has been spent.
-
-> In the aftermath, and not by discussion of the act itself. The relationship has changed and both parties behave differently. Neither raises it. The scene three days later is about a bucket, or a burial detail, or who takes which watch, and the change is legible in how they handle the bucket. If a character says what the act meant, the amendment has been violated and the scene has been spent.
-
-### R2-5-ONE_PER_ENGAGEMENT [Pack Two Amendment Five]
-
-One Single Act per engagement — two dilutes both, three is a soap opera in armour; a campaign's several engagements should not all involve the same pairing, or the reader begins to expect the shape.
-
-> One Single Act per engagement. Two dilutes both. Three is a soap opera in armour. A campaign arc may run several engagements and therefore several Acts, and they should not all involve the same pairing, because the reader will begin to expect the shape and expectation is what kills it.
-
-### R2-5-DIAGNOSTIC_TEST [Pack Two Amendment Five]
-
-If removing the battle would preserve the relationship change, the Act was not unrepeatable and the battle was decoration; rebuild the Act around something only the engagement made possible.
-
-> If you can remove the battle and preserve the relationship change, the Act was not unrepeatable and the battle was decoration. Rebuild the Act around something the engagement made possible and nothing else could.
-
 ### R2-6-CURRENCY_RULE [Pack Two Amendment Six.1]
 
 A practitioner converts Essence into effect; an army converts time into ground; these do not exchange, so no technique holds ground — it may take, deny, break or unmake ground, never occupy it.
@@ -9832,12 +9100,6 @@ Any technique deployed against a formation carries Frontage, Sustain and Re-form
 
 > Any technique deployed against a formation carries all three fields in addition to the standard seven. A technique that cannot be given all three does not belong on a battlefield. Counterplay to any scaled technique is always one of three things: exceed its Frontage, outlast its Sustain, or shorten its Re-form.
 
-### R1-2-THREE_FIELDS_MANDATORY [Pack One Amendment Two]
-
-Three further fields (Frontage, Sustain, Re-form) are mandatory for any technique deployed against a formation; a technique that cannot be given all three does not belong on a battlefield.
-
-> Three further fields are mandatory for any technique deployed against a formation. A technique that cannot be given all three does not belong on a battlefield and should not be written into one.
-
 ### R1-2-FRONTAGE_DEFINED [Pack One Amendment Two]
 
 Frontage is how much line a technique affects, in men or paces; the distinction between a personal weapon and an instrument of war is width, not power, and most spectacular techniques are narrow.
@@ -9861,24 +9123,6 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
-
-### R1-3-NAME_THREE_RULE [Pack One Amendment Three]
-
-The one-italic-thought-per-NPC standard is suspended in mass combat; no more than three characters carry interiority through a battle sequence, everyone else is exterior only, and interiority for named characters outside the three is deferred to the aftermath.
-
-> The one-private-italic-thought-per-named-NPC standard is suspended in mass combat. It exists to make a small cast feel populated and it does the opposite at scale, producing a scene that reads as a poll of forty consciousnesses. Replacement standard: name three. No more than three characters carry interiority through a battle sequence. Everyone else is exterior only: actions, voices, bodies. Interiority for named characters outside the three is deferred to the aftermath, where it lands harder because the reader has been waiting for it.
-
-### R1-3-WORD_FLOOR_INCLUDES_AFTERMATH [Pack One Amendment Three]
-
-The 2,500-word minimum applies to the engagement plus its aftermath treated as one unit, not the fighting alone; a battle that ends when the fighting ends has not met the standard regardless of length.
-
-> The 2,500-word minimum applies to the engagement plus its aftermath treated as one unit, not to the fighting alone. A battle sequence that ends when the fighting ends has not met the standard regardless of its length.
-
-### R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS [Pack One Amendment Three]
-
-Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
-
-> Rule: the interior action of a battle occurs in its aftermath. Whatever the engagement was going to do to your characters' relationships, it does in the three days afterward, over the burial detail, in the sick lines, and in the arguments about who should have done what. The fight itself is too loud and too fast for anyone to change during it.
 
 ### R1-3-PLAN_AFTERMATH_FIRST [Pack One Amendment Three]
 
@@ -9970,24 +9214,6 @@ Military: transitional. Cavalry, bright uniforms and drill in the early span; kh
 
 > Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
-### R54-15-AFTERMATH_PAID_LATER [Queue Questionnaire 2026-09-26 WAR-91]
-
-A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath duty.
-
-> A later scene can pay The Muster's aftermath: a named later scene covering two of the five aftermath stages discharges it.
-
-### R54-17-MULTI_PLACE_SET_PIECE [Queue Questionnaire 2026-09-26 WAR-91]
-
-A scene across several places with one mass-combat section is measured as a set piece.
-
-> A scene in four places with one mass-combat section is measured as a set piece.
-
-### R54-19-MASS_NPC_THOUGHT [Queue Questionnaire 2026-09-26 WAR-92]
-
-A POV-locked mass-combat scene still allows one thought per NPC.
-
-> Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin Ice's italic thought stays.
-
 ### R54-20-MASS_WOUND_ANATOMY [Queue Questionnaire 2026-09-26 WAR-92]
 
 Wounds in mass-combat scenes are written with the same anatomy as a duel.
@@ -10006,7 +9232,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (202)
+## naming (195)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -10031,12 +9257,6 @@ Hataraki no Sho confirmed as the received name.
 Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
 
 > Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
-
-### R20C-40-NAMING_PASS_SCHEDULED [Pack Twenty R20C-40]
-
-The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed.
-
-> The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed. Runs with Ability Guide 6e.
 
 ### R20C-46-DOUBLET_WIDER_SCOPE [Pack Twenty R20C-46]
 
@@ -10092,12 +9312,6 @@ The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Rui
 
 > The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by Section Two below.
 
-### R8-13-ENTRY_STRUCTURE [Pack Eight 1.3]
-
-An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
-
-> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
-
 ### R8-21-FIRST_DRAFT_REPEALED [Pack Eight 2.1]
 
 Pack Eight Section Two's first draft, which set the naming language by filing body, is repealed by the version in this file.
@@ -10152,35 +9366,11 @@ A stronger expression of a known art takes a modifier on the existing true name;
 
 > A stronger expression of a known art takes a modifier on the existing true name. New names are for new arts only.
 
-### R8-26-NO_SELF_TRANSLATION [Pack Eight 2.6]
-
-Nobody translates their own technique's name aloud, ever.
-
-> Nobody translates their own technique aloud. Ever.
-
 ### R8-26-GLOSS_DEPENDENCE_FAILS [Pack Eight 2.6]
 
 A working whose meaning must be glossed for the scene to land is a working that failed; fix the working, not the gloss.
 
 > A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.
-
-### R8-27-STANDING_TASK [Pack Eight 2.7]
-
-A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.
-
-> Naming pass per culture. Existing techniques already established in prose are flagged, not renamed. This cashes the release-and-true-name mechanic that has been sitting pitched on the docket since the fifth edition, and it means rewritten first displays across the major cast.
-
-### R8-3-WORKED_EXAMPLES_PENDING [Pack Eight 3]
-
-Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
-
-> Two entries in the format, in different registers, to fix the shape.
-
-### R8-4-RETROACTIVE_TASKS [Pack Eight 4]
-
-Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
-
-> Folds into the cost audit instead of running as a separate pass.
 
 ### R21-1-SATULAGI_STRUCK [Canon Amendment, Agamalu and Büri Origin I]
 
@@ -10379,6 +9569,18 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
+
+### R79-7-INTIMACY_AND_NAMES [Directions 2026-10-17 prose-rp-questionnaire]
+
+Word-presence checks on explicit scenes retire; 'her core' leaves the euphemism list; floor guard unchanged; names by sound rules only; halls stack titles; comic-name beats optional.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): explicit scenes and names. The word-presence checks on explicit scenes retire: the smell-word, sound-word, consequence-string and stock-touch WARNs; scent and sound stay craft guidance in the POV's own order. "Her core" leaves the euphemism list, since Core is the Essence term; the rest of the list still FAILs. The under-eighteen floor guard is unchanged. A name only has to sound right for its culture: element banks are reference, and the end-of-scene name check goes. The lineage halls stack titles in formal address. The comic-name beats (the name said at the death, the joke-named walk-on who cannot die) become options.
+
+### R79-11-CANON_WORLD_DOCUMENTS [Directions 2026-10-17 coverage-questionnaire]
+
+Canon order with Isaac's dated directions first; fixed system canon, everything else free and canon on archive; story beats a palette; crews in play; Malphas hidden only from who couldn't know; rare costly returns; world magic law in narration, physics in trained mouths; world musts and document forms optional; names as needed; one free archive-notes block; markdown documents; price table approved; no owed Inventory fields.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): canon, the world and its documents. The canon order is Isaac's word, including RULINGS and dated directions with the newest winning; then the canon source documents (Fracture of Worlds, the Master Codex, the Stat Sheet); then the rule index; then archived scenes for events; then cards; then other wiki pages; then internal logic. Fixed and never invented: the Sixty Wellsprings, the Glyph Index, the Stage, Band and Tier ladders, the Families, the Archons and Titans, cultures and bloodlines, and carded people's facts; everything else is free to invent, factions and NPC techniques included, canon once archived. Story beats (crews, rivals, mentors, warm bonds, arc kinds) are a palette Natalie draws on when the story earns them, never owed per thread; a crew forms in play, Isaac overturning what he dislikes. Malphas is hidden only from characters who could not know him; his circle's size floats. The dead stay dead save rare, costly returns by canon means; full resurrection stays forbidden on paper. Narration states the world's magic as law with its reasons kept, while trained characters and the notes may give the physics. World musts (weather in every outdoor scene, the bill on an indoor working, the sense order at sea, the rite that departs from its form, the document whose rule breaks, the tested epigraph) become tools used when they matter. Document forms are optional (the contract's limiting clause, the docket line, the Tier rung); a glossary is built at book assembly; numerals stand wherever an institution writes them; in-world documents keep their institution's house style. Names come as needed: doublets, true names, folk names and say-lines are added when used; the technique-name word cap and the never-translated rule retire. Archive notes are one free block (sources, inventions, canon conflicts, estimates), with a mystery's clue list and sealed solution kept. The house document is markdown in the repo; a .docx only on request, dark background and gold Garamond. The price table in imports/drafts/price-table.md is approved and published as reference. Standing Inventories owe no fields; a journey that matters has a clock the world fills, with no tick count; a character may talk power-scaling in his own voice while narration avoids forum terms.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
@@ -10724,7 +9926,7 @@ Thirty fixed-meaning morphemes (endurance, craft, stone/metal, virtue, nature) a
 
 ### R20-3-CONCORD_GIVEN_NAMES [Naming Guide Amendment Part Three]
 
-A deliberately small pool of 30 given names (20 male, 20 female) — repetition is the feature, not the bug — combined with patronymic, occupational, locative or descriptive bynames; in a village of two hundred there will be three of the same given name, and the byname is more real than the given name.
+A deliberately small pool of 40 given names (20 male, 20 female) — repetition is the feature, not the bug — combined with patronymic, occupational, locative or descriptive bynames; in a village of two hundred there will be three of the same given name, and the byname is more real than the given name.
 
 > Deliberately small. Repetition is the feature, not the bug.
 
@@ -10830,12 +10032,6 @@ Technique naming leans by culture: plain English names for common-tongue fighter
 
 > Technique naming leans by culture: plain English names for common-tongue fighters, true names for houses with a register.
 
-### R50-11-LONG_NAMES [Naming Law 2026-09-26 Techniques, arts and items]
-
-New English technique names are short: two words at most, no stacked modifiers.
-
-> New English technique names are short: two words at most, no stacked modifiers.
-
 ### R50-12-COINED_LATIN [Naming Law 2026-09-26 Techniques, arts and items]
 
 New Latinate names use real, correct Latin.
@@ -10931,12 +10127,6 @@ Each practitioner chants in their own language; the Latin-default chant rule is 
 A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.
 
 > A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.
-
-### R50-28-NEW_WORDS [Naming Law 2026-09-26 Naming things mid-scene]
-
-A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.
-
-> A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.
 
 ### R50-29-COLLISION [Naming Law 2026-09-26 Naming things mid-scene]
 
@@ -11196,12 +10386,6 @@ A card carrying a comic name records the byname, who coined it and when, its ban
 
 > Byname with its making. Byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.
 
-### R75-44-WHAT_JOINS_CARD_SWEEP [Techniques Law 2026-10-04 ME2]
-
-The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.
-
-> Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
-
 ### R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER [Zettari Forge Culture Ruling Standing Ruling]
 
 The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
@@ -11220,7 +10404,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (188)
+## pov (167)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -11239,12 +10423,6 @@ Characters never explain to each other something they both already know.
 The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.
 
 > In the narration. Pack Twelve §2 makes the Technical Register available to third-person narration for anything a person chooses to do. Natalie stops reserving it for italic thought.
-
-### R16-8-CHECK33 [Pack Sixteen §8]
-
-Fewer than half of a scene's technical terms may sit inside italic thought.
-
-> Check 33 — Italic quarantine. Fewer than half of a scene's technical terms sit inside italic thought.
 
 ### R15-1-REGISTER_BY_CULTURE [Pack Fifteen §1]
 
@@ -11281,18 +10459,6 @@ Pack Six's total-legibility ban and blanket interpretation-at-zero rule are stru
 A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
 
 > Sensory opening inverts toward the body, not the room: what the feet report, what the teeth taste, what the pack's weight is doing. The ignorance quota is not a quota inside a Well, it is the ambient condition. The Apparatus Rule still holds at one read per scene and it should usually be spent wrong, because a misidentified encounter type is the best-shaped disaster available in this setting.
-
-### R10-3-UNCHANGED_CONSTRAINTS [Pack Ten PART THREE]
-
-A projected shape still counts toward the one splash-panel beat per scene (Pack Nine), still costs the one diagnostic read per scene if the category is named, and the ignorance quota/misreading budget are untouched — a POV may see a projected shape and get it wrong.
-
-> - One splash-panel beat per scene (Pack Nine) still governs the moment the shape is at its most visually loud. - One diagnostic read per scene (Part Two above) still governs any naming of the category itself. - Ignorance quota and misreading budget are untouched.
-
-### R9-3-COST_UNCHANGED [Pack Nine PART THREE]
-
-The ignorance quota, the misreading budget, and the one-read Apparatus Rule bind a Stage-display beat exactly as hard as any other scene.
-
-> Cost, unchanged. The ignorance quota, the misreading budget, and the one-read Apparatus Rule still bind a Stage-display beat exactly as hard as any other scene.
 
 ### R6-2-READ_DELIVERS_FACT [Pack Six PART I.2]
 
@@ -11342,12 +10508,6 @@ No line acknowledges that the reader knows better than the POV.
 
 > The narration never winks. No line acknowledging that the reader knows better.
 
-### R5-C3-NARRATION_REGISTER_EXTENSION [Pack Five C.3]
-
-Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
-
-> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
-
 ### R5-E-NARRATION_NEVER_ADJUDICATES [Pack Five E]
 
 Third-person scene narration is POV-locked and never adjudicates; no line tells the reader what to think of a character's choice.
@@ -11383,30 +10543,6 @@ A sailor's Field Register is available continuously and is rationed by what the 
 A cavalry POV is the only ordinary soldier who can carry the Field Register honestly, since the rider both sees and moves; use for orientation when needed, aware of the cost paid in intimacy.
 
 > The rider sees, and the rider moves. They have both things the infantryman lacks, and the consequence is that a cavalry POV is the only ordinary soldier who can carry the Field Register honestly. Use them for orientation when you need it and be aware you are paying in intimacy.
-
-### R3-9-PRACTITIONER_POV_RULING [Pack Three Amendment Nine]
-
-A high-Stage practitioner inside a battle experiences none of the constraints the guide is built on; handing the reader that POV mid-engagement dissolves the fog, pressure and helplessness every other section exists to construct, so the POV is open before and after an engagement and closed during it.
-
-> A high-Stage practitioner inside a battle experiences none of the constraints this guide is built on. They can see. They are not in the press. They know what is happening. Handing the reader that POV during an engagement dissolves the fog, the pressure and the helplessness that every other section exists to construct. Ruling: the practitioner POV is available before and after an engagement and is closed during it.
-
-### R3-9-BEFORE_AFTER_DURING [Pack Three Amendment Nine]
-
-Before covers the costing-out arithmetic and the decision what to spend and on whom; after covers what the practitioner looks at on a field they made and whether they can name anyone; during, use the soldier, with the practitioner appearing only as weather the POV soldier experiences and doesn't understand.
-
-> - Before is where it belongs. The costing-out arithmetic, the decision about what to spend and on whom, the knowledge that the levy in front of them exists to be expensive. That is the most damning interiority available in the setting and it is wasted if it appears while they are fighting. - After is the second place. What a practitioner looks at on a field they made. Whether they can name anyone. - During, use the soldier. If the practitioner must appear, they appear as weather: something the POV soldier experiences and does not understand, arriving from outside the four-foot wedge.
-
-### R3-9-COSTED_OUT_EXCEPTION [Pack Three Amendment Nine]
-
-The single exception to the practitioner-POV ruling: a practitioner who has been costed out inherits every section-1 constraint the moment their magazine empties, so a POV beginning able to see the whole battle and ending able to see twelve feet is the strongest use of the perspective available — spend it once.
-
-> The single exception: a practitioner who has been costed out. The moment their magazine empties they inherit every constraint in section 1 at once, and a POV that begins with a person who can see the whole battle and ends with a person who can see twelve feet is the strongest use of the perspective available. Spend it once.
-
-### R1-3-NAME_THREE_RULE [Pack One Amendment Three]
-
-The one-italic-thought-per-NPC standard is suspended in mass combat; no more than three characters carry interiority through a battle sequence, everyone else is exterior only, and interiority for named characters outside the three is deferred to the aftermath.
-
-> The one-private-italic-thought-per-named-NPC standard is suspended in mass combat. It exists to make a small cast feel populated and it does the opposite at scale, producing a scene that reads as a poll of forty consciousnesses. Replacement standard: name three. No more than three characters carry interiority through a battle sequence. Everyone else is exterior only: actions, voices, bodies. Interiority for named characters outside the three is deferred to the aftermath, where it lands harder because the reader has been waiting for it.
 
 ### R61-51-MALPHAS_MUJIN_OLD_FRIENDS [Alchemy Conversion Questionnaire 2026-09-28 ML6]
 
@@ -11456,23 +10592,11 @@ Inside a fight, write the exchange, the wound and the cost the Western way, clin
 
 > Western body, Eastern read. The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto and Bleach way. The next Combat Guide writes it in.
 
-### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
-
-For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
-
-> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
-
 ### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
 
 Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth, as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the notes.
 
 > Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.
-
-### R71-17-FEAR_BODY [Combat Law 2026-10-04 CW8]
-
-Give an untrained POV's fights at least two fear effects in the body traced to adrenaline, and let trained fighters keep composure free, showing it only under real strain or Pressure.
-
-> Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
@@ -11564,12 +10688,6 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 
 > The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
 
-### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
-
-A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
-
-> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
-
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
 When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
@@ -11593,6 +10711,18 @@ Eastern school terms free in narration; techniques shouted in English; afterimag
 Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
+
+### R79-1-NATALIE_WRITES_HIS_PC [Directions 2026-10-17 prose-rp-questionnaire]
+
+Natalie may write his PC (act, speak, think, explicit scenes included); his post wins; other creators' characters hands-off; every in-fiction reply ~3,500 words, set pieces and Discord included; a turn stops at his real decision.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): Natalie writes his PC. In any turn or scene she may move his player character, give him lines, and write his thoughts and feelings, in his voice from his card, explicit scenes included, consensual or forced. His post, a redirect or his rewrite always wins over what she wrote. Characters belonging to other creators (Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem, Sonzai) stay hands-off. Every in-fiction reply runs about 3,500 words, set pieces and Discord posts included; out-of-character answers run at their own length. A turn carries him through the beat and the routine and stops at a decision that is genuinely his: a risk, a bargain, a fight, a line that matters.
+
+### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
+
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -11641,18 +10771,6 @@ In a dubcon or non-con scene the victim's arousal may be written, and the POV kn
 After a non-con or coerced scene the survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it, and the act opens or advances a Front (feud, blood-debt, pregnancy, scandal or a case at law), the perpetrator's own account of it a lie in his mouth.
 
 > Yes to: In the body and habit (The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it); The bill reaches the world (The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)).
-
-### R73-19-YOUR_CHARACTER_IN_BED [Intimacy Law 2026-10-04 SC12]
-
-Once the player's post sets the act, Natalie writes contact, position and what the partner does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he bears them, to the player.
-
-> Contact as world fact. Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
-
-### R73-21-NPC_WOULD_FORCE_HIM [Intimacy Law 2026-10-04 SC14]
-
-When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
-
-> Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
 
 ### R74-1-HOW_MUCH_READER_SOLVES [Mystery Law 2026-10-04 K1]
 
@@ -11810,59 +10928,17 @@ A turn may close with a short, clearly marked cut to something the POV cannot se
 
 > A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).
 
-### R49-10-EPITHETS [Prose Law 2026-09-26 POV and interiority]
-
-One epithet per character per scene: the POV's epithet changes only when the POV's view of them changes, which is itself the beat.
-
-> One epithet per character per scene: the POV's epithet changes only when the POV's view of them changes, which is itself the beat.
-
 ### R49-11-NOT_KNOWING [Prose Law 2026-09-26 POV and interiority]
 
 The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) become optional; no per-scene minimum.
 
 > The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) become optional; no per-scene minimum.
 
-### R35-1-NARRATION_DISTANCE_BANDS [Narration Distances (Psychic Distance by POV) The three registers]
-
-Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
-
-> Every POV character carries a narration distance: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called "narration distance", not "Band". The Fracture of Worlds magic system already uses "Band" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.
-
-### R35-2-NARRATION_DISTANCE_ASSIGNMENTS [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]
-
-Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
-
-> Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
-
-### R54-13-NO_POV_WITHOUT_REGISTER [Queue Questionnaire 2026-09-26 WAR-91]
-
-A character may carry a point of view only once a narration register exists for them.
-
-> No POV without a register: Bram Greymane and Lorn Stark get registers.
-
 ### R54-14-REGISTER_STAYS_WITH_POV [Queue Questionnaire 2026-09-26 WAR-91]
 
 In another character's viewpoint, a character is read by that narrator's register rules, not their own.
 
 > A register stays with the point of view: in another character's viewpoint Sodoku is read by that narrator's rules.
-
-### R54-18-IGNORANCE_PER_SCENE [Queue Questionnaire 2026-09-26 WAR-91]
-
-One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.
-
-> The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint scene satisfies it.
-
-### R54-19-MASS_NPC_THOUGHT [Queue Questionnaire 2026-09-26 WAR-92]
-
-A POV-locked mass-combat scene still allows one thought per NPC.
-
-> Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin Ice's italic thought stays.
-
-### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
-
-The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
-
-> The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
 ### R70-1-BLEND_MODEL [Style Law 2026-10-03 K1]
 
@@ -12007,12 +11083,6 @@ Every practitioner feels his own Grades and Stage and senses another's Band and 
 Narration may state on its own authority only the figures the POV actually holds, such as his own last reading, a card he has seen or what he was told.
 
 > What the POV knows. Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.
-
-### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
-
-During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
-
-> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
 
 ### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
 
@@ -12176,12 +11246,6 @@ When Isaac gives a wordless beat in a written scene, the partner writes the line
 
 > When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
 
-### R52-10-CROSSOVER [Voice Law 2026-09-26 Isaac's own characters]
-
-Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
-
-> Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
-
 ### R52-11-ILTHARA [Voice Law 2026-09-26 Isaac's own characters]
 
 The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
@@ -12296,12 +11360,6 @@ Each NPC's voice starts from a researched real-world speaker type (a customs cle
 
 > Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
 
-### R52-30-PROVERBS [Voice Law 2026-09-26 NPC voices the partner builds]
-
-Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
-
-> Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
-
 ### R52-31-COMIC_NPC [Voice Law 2026-09-26 NPC voices the partner builds]
 
 The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
@@ -12350,7 +11408,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (388)
+## prose-law (333)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12424,12 +11482,6 @@ The Technical Register is available to third-person narration for anything a per
 
 > In the narration. Pack Twelve §2 makes the Technical Register available to third-person narration for anything a person chooses to do. Natalie stops reserving it for italic thought.
 
-### R16-5-NOT_IN_NOTES [Pack Sixteen §5]
-
-If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.
-
-> Not in the author notes. The notes record originated material, conflicts, the Stat Ledger, and the audit. If a mechanism appears in the notes and not in the prose, the pass failed and the note is evidence of the failure.
-
 ### R16-6-COINAGE_HANDLING [Pack Sixteen §6]
 
 A term in Isaac's rough with no canon equivalent is a coinage: it is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification, never silently replaced with a plainer word.
@@ -12478,23 +11530,11 @@ The AI-tell checks (em dashes, similes, not-X-but-Y, countdown negation, gloss, 
 
 > The AI-tell checks. Em dashes, similes, not-X-but-Y, countdown negation, gloss, ladder. These are about prose failing, not about period.
 
-### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
-
-At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.
-
-> The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
-
 ### R12-1-PACK_SEVEN_REPEALED [Pack Twelve §1]
 
 Pack Seven, the Soft Magic Amendment, is repealed in full; six of its specific provisions are individually struck (see the other §1 rows), and where Twelve conflicts with Seven, Seven is struck.
 
 > Confirmed by Isaac's ruling. The Soft Magic Amendment is dead in full. The following are struck and no longer craft law:
-
-### R12-4-VOICE_MIXING_RULE [Pack Twelve §4]
-
-Confirmed by Isaac's ruling: the four explaining voices may mix, whoever is in the scene, picked per scene, with no more than two run in one engagement.
-
-> Confirmed by Isaac's ruling: mix, whoever is in the scene. Four carriers. Pick per scene. Do not run more than two in one engagement.
 
 ### R12-7-AI_TELLS_RETAINED [Pack Twelve §7]
 
@@ -12550,12 +11590,6 @@ Material density (rust, weathering, wear, labour) stays described in full per th
 
 > The material density stays. Seven of thirty-two structures burned. Hanuri re-spinning thread from an older garment. Bedding planes in limestone. The rust described in full remains house law (Directive Sec. 1.2) and Pack Six removes nothing from it.
 
-### R6-9-RECURRENCE_RULE [Pack Six PART II.9]
-
-Every scene draws texture from the Inventory before inventing anything; anything newly invented is entered into the Inventory the same session or it does not exist; each culture designates three-to-five high-frequency signature items on the Recurrence Ledger.
-
-> Identity is repetition. Novelty is its enemy.
-
 ### R6-11-CHECK18_LADDER [Pack Six §11]
 
 Flags any sentence containing two or more instances of the "was X and the X was" pattern, including is/became/meant variants.
@@ -12573,12 +11607,6 @@ Flags any sentence where a named faculty is the grammatical subject of a percept
 Added to the AI tells checklist and retained in full per Pack Twelve §7 — the Ladder in all forms, the apparatus as grammatical subject, scientific vocabulary explaining an ambient sensory impression, and fresh texture invented where Inventory texture exists.
 
 > The Ladder in all forms. - The apparatus as grammatical subject. - Scientific vocabulary explaining an ambient sensory impression.
-
-### R5-B-MANHWA_DIRECTIVE_REPEALED [Pack Five B]
-
-Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
-
-> Struck in full from the project instructions and from Section 4's sanctioned-exception clause. The following are no longer craft law and should be treated as active tells if they appear in a draft.
 
 ### R5-B-FOIL_FUNCTION_SURVIVES [Pack Five B]
 
@@ -12652,18 +11680,6 @@ Delete the candidate sentence and read the passage; if it means the same thing, 
 
 > Delete the candidate sentence. Read the passage without it. - The passage means the same thing. It was a gloss. It stays deleted. - The passage genuinely loses the meaning. The failure is in the line above, not the line below. Rebuild the original so it carries its own freight. Never restore the gloss.
 
-### R4-13-WHERE_SIGNIFICANCE_LIVES [Pack Four Amendment Thirteen]
-
-Significance may live in a physical tell adjacent to the line, in another character's bodily reaction, or in a governed callback — never in narration itself.
-
-> Three places, and narration is not one of them. 1. A physical tell adjacent to the line. Hild's hand on the arm of the chair. Whether it opens or closes. 2. The other character's reaction. Somebody in the room hears the word and does something about it with their body. 3. A callback, governed by the rule below.
-
-### R4-13-THIRD_RECURRENCE [Pack Four Amendment Thirteen]
-
-A loaded word gets one physical response on first use and no comment; meaning arrives on the third appearance through change — another character uses it, the usual user withholds it, or register makes earlier uses retroactively legible. Withholding is the strongest of the three.
-
-> A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
-
 ### R4-13-FID_CARVEOUT [Pack Four Amendment Thirteen]
 
 A sentence in the POV's own idiom that could be wrong and reveals the character interpreting is characterisation and is kept; a sentence in the narrator's neutral, authoritative register that reveals nothing about anybody's interior is cut.
@@ -12675,54 +11691,6 @@ A sentence in the POV's own idiom that could be wrong and reveals the character 
 The gloss budget is zero per scene; there is no acceptable first instance.
 
 > Zero glosses per scene. Not rationed. There is no acceptable first instance.
-
-### R4-14-PARAGRAPH_VARIANCE [Pack Four Amendment Fourteen]
-
-Sentence-length variance is enforced at the paragraph level, not just the document level; the global CV stays as a floor and stops being sufficient on its own.
-
-> Amended: variance is enforced per paragraph. The global CV stays as a floor and stops being sufficient.
-
-### R4-14-RUN_RULE [Pack Four Amendment Fourteen]
-
-No three consecutive sentences may fall within forty percent of each other's word count.
-
-> The run rule. No three consecutive sentences within forty percent of each other's word count. Lengths of 22, 19 and 24 constitute a run, and a run is a flat stretch of road however good the individual sentences are.
-
-### R4-14-CHAIN_CEILING [Pack Four Amendment Fourteen]
-
-No more than two consecutive sentences may run over 25 words; the third breaks, or the paragraph does.
-
-> The chain ceiling. No more than two consecutive sentences over 25 words. The third breaks, or the paragraph does.
-
-### R4-14-CLAUSE_CAP_AT_BEAT [Pack Four Amendment Fourteen]
-
-Within the three sentences bracketing a value turn, no sentence carries more than one subordinate or coordinate clause.
-
-> The clause cap at the beat. Within the three sentences bracketing a value turn, no sentence carries more than one subordinate or coordinate clause. A reversal delivered inside a chained sentence has been delivered at the same volume as the furniture.
-
-### R4-14-LANDING_RULE [Pack Four Amendment Fourteen]
-
-The emotional hit takes the shortest sentence in its paragraph and sits last; anything trailing it is the paragraph clearing its throat after the point.
-
-> The landing rule. The emotional hit takes the shortest sentence in its paragraph and sits last. Anything trailing it is the paragraph clearing its throat after the point.
-
-### R4-14-APPROACH_LADDER [Pack Four Amendment Fourteen]
-
-Decelerate into the hit (long, then medium, then the landing) so the reader's eye slows as it arrives, then expand again afterward since consequence is cumulative and belongs in cumulative syntax.
-
-> Decelerate into the hit. Long, then medium, then the landing, so the reader's eye is slowing as it arrives and the short sentence reads as a stop instead of one more item. Expand again afterwards: consequence is cumulative in fact and belongs in cumulative syntax, which is the register's proper home.
-
-### R4-14-HARD_CEILINGS [Pack Four Amendment Fourteen]
-
-A payoff sentence carries at most 10 words and zero subordinate clauses; at least 18% of a scene's sentences run under 8 words; and no paragraph closes on three consecutive sentences over 18 words.
-
-> | Words in the payoff sentence | 10 | | Subordinate clauses in the payoff sentence | 0 | | Sentences under 8 words, share of scene | 18% floor | | Paragraphs closing on three consecutive sentences over 18 words | 0 |
-
-### R4-14-CONJUNCTION_AUDIT [Pack Four Amendment Fourteen]
-
-Count coordinators per sentence (and, as, while, which, because); two or more inside a beat-carrying sentence is a fail, though the same count outside a beat is style and left alone.
-
-> Count coordinators per sentence: and, as, while, which, because. Two or more inside a sentence carrying a beat is a fail. Outside a beat it is style and left alone.
 
 ### R4-15-REIFICATION_DEFINED [Pack Four Amendment Fifteen]
 
@@ -12742,12 +11710,6 @@ A debt, claim, verdict, name, standing, bearing, holding, writ, seal, title, war
 
 > A debt is a transferable instrument that can be declared never to have existed. A claim is carried. A verdict is issued and can be rescinded. A name, a standing, a bearing, a holding, a writ, a seal, a title, a warrant, an attribution, a tally: the Guild Accord, The Bearing and the Holding, Value, Coin and Trade and the Bench of Attribution all treat these as things that move between hands and can be seized, forged, voided or lost. Licensed instruments are unbudgeted and free.
 
-### R4-15-CLERK_TEST [Pack Four Amendment Fifteen]
-
-If the thing could appear as a line on a ledger, in a writ, or in a Bench finding, reify it freely; if it could not, it costs budget.
-
-> The test: could a Guild clerk file it? If the thing could appear as a line on a ledger, in a writ, or in a Bench finding, reify it freely. If it could not, it costs budget.
-
 ### R4-15-CONCRETE_FIRST [Pack Four Amendment Fifteen]
 
 Before reifying, check whether an object already in the room can carry the same freight; the object always wins.
@@ -12760,29 +11722,11 @@ Reification is atmosphere and a poor delivery vehicle for a turn; the value flip
 
 > Never at the beat. Reification is atmosphere and a poor delivery vehicle for a turn. The value flips on a body or an object, never on a personified noun.
 
-### R4-15-BODIES_EXEMPT [Pack Four Amendment Fifteen]
-
-Concrete nouns doing concrete things (hands shaking, a jaw setting, a tail going still) are not counted against the reification budget.
-
-> Bodies are exempt. His hands shook. Her jaw set. The tail went still. Concrete nouns doing concrete things, not on this budget.
-
-### R4-15-WATCHLIST_NOUNS [Pack Four Amendment Fifteen]
-
-Recurring reification offenders, kept greppable rather than felt: silence, weight, arithmetic, governance, permission, distance, authority, refusal, grief, history, patience, the question, the cost, the moment, the space between them.
-
-> Recurring offenders in the current drafts, listed so the check is greppable rather than felt: silence, weight, arithmetic, governance, permission, distance, authority, refusal, grief, history, patience, the question, the cost, the moment, the space between them.
-
 ### R4-ADD-CHECK15 [Pack Four Addendum]
 
 Flags etymological, register and "which meant" constructions; warns rather than fails since the whose-vocabulary test cannot be automated, and every flag gets read.
 
 > | 15. Gloss watch | Amendment Thirteen | Flags etymological, register and "which meant" constructions. Warns rather than fails, because the whose-vocabulary test cannot be automated and the FID carve-out is the whole ruling. Every flag gets read. |
-
-### R4-ADD-CHECK16 [Pack Four Addendum]
-
-Fails any chain of 3+ sentences over 25 words, 4+ flat runs, a short-sentence share under 10% (warns under 18%), and reports every paragraph closing long-long-long.
-
-> | 16. Descent | Amendment Fourteen | Fails any chain of 3+ sentences over 25 words. Fails 4+ flat runs. Fails a short-sentence share under 10% and warns under 18%. Reports every paragraph closing long-long-long. Arithmetic, so its failures are real. |
 
 ### R3-7-COZBI_CRAFT_NOTE [Pack Three Amendment Seven]
 
@@ -12807,18 +11751,6 @@ One precisely observed repeated detail carries a month — the same gap in the w
 Per Section 6, pursuit is butchery of the unresisting from behind at a canter for as long as the horses last; the honest version does not let the cavalry POV enjoy it and does not let them refuse it either.
 
 > The pursuit is the cavalry's real function and it is not combat. Per section 6, it is butchery of the unresisting from behind at a canter for as long as the horses last. Writing a cavalry POV means writing the person who does that work, and the honest version does not let them enjoy it and does not let them refuse it either.
-
-### R2-5-SINGLE_ACT_CONDITIONS [Pack Two Amendment Five]
-
-The Single Act must be physical (a thing done with the body under load, not a decision or realisation), unrepeatable (the circumstance does not recur), witnessed but not discussed during the engagement, and ambiguous at the moment it happens to witness, reader and actor alike.
-
-> It is physical. Not a decision, not a realisation, not a look held a beat too long. A thing done with the body under load.
-
-### R2-5-RESOLUTION_IN_AFTERMATH [Pack Two Amendment Five]
-
-The relationship change is legible in how the two characters handle an unrelated later scene; if a character ever says what the act meant, the amendment has been violated and the scene has been spent.
-
-> In the aftermath, and not by discussion of the act itself. The relationship has changed and both parties behave differently. Neither raises it. The scene three days later is about a bucket, or a burial detail, or who takes which watch, and the change is legible in how they handle the bucket. If a character says what the act meant, the amendment has been violated and the scene has been spent.
 
 ### R57-09-FULL_KNOWLEDGE [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)]
 
@@ -12874,12 +11806,6 @@ Let exchanges that change nothing be counted back in one sentence, each named by
 
 > Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.
 
-### R71-11-RUNNING_FAST [Combat Law 2026-10-04 CW2]
-
-Once per fight, in its swift stretch, one short paragraph of short, even sentences may break the run rule, and the author notes mark it.
-
-> A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
-
 ### R71-12-KEEPING_SPACE_TRACKABLE [Combat Law 2026-10-04 CW3]
 
 A scramble in a crowd, the dark or a fall may blur where the fighters stand while it lasts, but every exchange that decides something re-fixes both bodies before it lands.
@@ -12903,12 +11829,6 @@ At display and finisher, say where a big hit's momentum went (what anchored the 
 Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's point.
 
 > Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.
-
-### R71-17-FEAR_BODY [Combat Law 2026-10-04 CW8]
-
-Give an untrained POV's fights at least two fear effects in the body traced to adrenaline, and let trained fighters keep composure free, showing it only under real strain or Pressure.
-
-> Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.
 
 ### R71-18-FIGHT_SOUNDS_LIKE [Combat Law 2026-10-04 CW9]
 
@@ -13024,12 +11944,6 @@ When a fight breaks a ward, a POV inside the craft names the failing layer as it
 
 > By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
 
-### R71-102-WHERE_COMBAT_LAW_LANDS [Combat Law 2026-10-04 ME1]
-
-The combat answers land as one dated Combat Law rule doc logged through log_ruling and served by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law.
-
-> Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)
-
 ### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
 
 verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y'). European jargon is WARNed (R77-1); combat roleplay keeps mechanism and figures in notes (R77-2).
@@ -13042,23 +11956,11 @@ The combat sample bank holds both a fight passage in each culture file where Nat
 
 > Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.
 
-### R71-105-PROOF_ORDER_WORK [Combat Law 2026-10-04 ME4]
-
-The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
-
-> Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
-
 ### R77-1-EUROPEAN_FENCING_ACTIONS [Combat Prose Rulings 2026-10-08 R70-100-MARTIAL_VOCABULARY_NAMES_MOVES]
 
 In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
 
 > Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
-
-### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
-
-Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
-
-> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R78-1-VOCABULARY_PUSHED_HIGH [Directions 2026-10-13 R51-13-WORD_STOCK]
 
@@ -13107,6 +12009,42 @@ Thought woven through action; emotions anime-big; full phonetic accents; soldier
 The elevated word bank is retired; each word is chosen from the thing being described, exact and resonant where it earns it, plain where plain is truer; no list, no no-repeat rule, no density count. Exactness, English of every root, elevated verbs and plain body parts, POV reach and R78-3's physical clarity stand.
 
 > Isaac's direction 2026-10-16: the fixed elevated word bank is retired. Words are chosen from the thing being described: whatever word fits what the sentence is showing, the exact and resonant one where the thing earns it, the plain one where plain is truer. There is no list to read before drafting, no no-repeat rule on bank words, and no density count. The bank file desktop/style-bank/elevated-words.md is removed and verify_scene's elevated-density WARN goes with it. Unchanged: the chosen word must carry more than its common substitute in meaning, sound or implication; English of every root; elevated verbs on the hit and plain body parts; the POV picks which words; speech follows each card; physical clarity and the fight-abstraction WARN (R78-3); the slop bans (R51-10, R70-35).
+
+### R79-1-NATALIE_WRITES_HIS_PC [Directions 2026-10-17 prose-rp-questionnaire]
+
+Natalie may write his PC (act, speak, think, explicit scenes included); his post wins; other creators' characters hands-off; every in-fiction reply ~3,500 words, set pieces and Discord included; a turn stops at his real decision.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): Natalie writes his PC. In any turn or scene she may move his player character, give him lines, and write his thoughts and feelings, in his voice from his card, explicit scenes included, consensual or forced. His post, a redirect or his rewrite always wins over what she wrote. Characters belonging to other creators (Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem, Sonzai) stay hands-off. Every in-fiction reply runs about 3,500 words, set pieces and Discord posts included; out-of-character answers run at their own length. A turn carries him through the beat and the routine and stops at a decision that is genuinely his: a risk, a bargain, a fight, a line that matters.
+
+### R79-3-PROSE_WITHOUT_STATISTICS [Directions 2026-10-17 prose-rp-questionnaire]
+
+Every rhythm, sentence-length and count rule retires; a revelation may take a short line and its consequence gets room; developed paragraphs; vocabulary rich with no count; Kharven recurrence gone; description a toolbox; Inventories reference only; no epithet count.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): prose carries no statistics. Every sentence-length, rhythm and count rule retires: the run rule, the long-sentence chain ceiling, the short-sentence floor, the variation target, the payoff word cap, the clause and conjunction caps, the landing rule and the approach ladder, the paragraph-shape rules and their checks, the filter-verb rate, the opener cap, the fragment cap and the simile-pair check. A revelation may take a short line; its consequence gets room. A one-line paragraph stands wherever the movement around it earns it. Paragraphs are developed, following the mind's movement as The Weak Grade shows. Vocabulary is rich, with no count and no saturation or stacking rule; the word chosen still carries more than its plain substitute. The Kharven recurrence minimum is gone entirely, its check and its book-pipeline FAIL with it; the items stay as Inventory texture. Description is a toolbox with no per-beat or per-scene minimums. Standing Inventory entries are reference, with no sizes and no draw-first order. Narration names people the way the POV sees them, with no epithet count.
+
+### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
+
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
+
+### R79-5-VOICE_AND_DIALOGUE [Directions 2026-10-17 prose-rp-questionnaire]
+
+No speech cap; the card sets speech flaws; catchphrases only from a card; pre-R78 tone rules retired; accents full phonetic, card sets weight; bare genre words freed, exact clichés still banned; conversion upgrades mechanism words only.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): voice and dialogue. Speeches carry no cap: declarations, battle cries, villain speeches and crafted speeches land wherever the moment carries them. The card decides how a person speaks: stumbles, interruptions, repetition and non-answers are a toolbox, and the bans on composure apply only to the young, the exhausted and the inarticulate. A recurring catchphrase only where a card gives one. The pre-R78 tone rules retire: the anti-manhwa tell list and its cutaway tell (one kept: a reaction shot that replaces showing the event), the Abercrombie register, gallows wit as the only joke in danger, and the grimdark titling; each character's own humour governs, fights included. Accents are written in full phonetic spelling, each card setting how heavy. The exact cultivation cliché phrases stay banned, while bare killing intent and qi rising or flaring are genre vocabulary. Converting his rough prose upgrades the words for how magic and bodies work and keeps his plain words where plain is truer; the every-noun routing and the term-count floors retire.
+
+### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
+
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; one causal line at first display; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English or own tongue; world magic as law; jargon free; misses summed, hits noted.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
+
+### R79-7-INTIMACY_AND_NAMES [Directions 2026-10-17 prose-rp-questionnaire]
+
+Word-presence checks on explicit scenes retire; 'her core' leaves the euphemism list; floor guard unchanged; names by sound rules only; halls stack titles; comic-name beats optional.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): explicit scenes and names. The word-presence checks on explicit scenes retire: the smell-word, sound-word, consequence-string and stock-touch WARNs; scent and sound stay craft guidance in the POV's own order. "Her core" leaves the euphemism list, since Core is the Essence term; the rest of the list still FAILs. The under-eighteen floor guard is unchanged. A name only has to sound right for its culture: element banks are reference, and the end-of-scene name check goes. The lineage halls stack titles in formal address. The comic-name beats (the name said at the death, the joke-named walk-on who cannot die) become options.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -13198,12 +12136,6 @@ Write an explicit scene's aftermath as the small work after (washing, the fire f
 
 > Procedure, meaning unsaid. The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.
 
-### R73-19-YOUR_CHARACTER_IN_BED [Intimacy Law 2026-10-04 SC12]
-
-Once the player's post sets the act, Natalie writes contact, position and what the partner does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he bears them, to the player.
-
-> Contact as world fact. Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
-
 ### R73-35-PRESSURE_IN_BED [Intimacy Law 2026-10-04 CO13]
 
 Pressure in bed brings weight, sweat and nausea and never desire, any wanting on the page being the person's own and a slipped hold ending the moment, but a lover may ask him to stop holding it in, letting go being the most intimate thing a practitioner can give and she paying in sweat and nausea she chose.
@@ -13228,29 +12160,11 @@ A bond gets scenes of its own joy before a loss may land on it, and a love that 
 
 > Lived first, then cost. A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.
 
-### R73-40-WHERE_INTIMACY_LAW_LANDS [Intimacy Law 2026-10-04 ME1]
-
-The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
-
-> B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
-
 ### R73-41-INTIMACY_CHECKS_VERIFY [Intimacy Law 2026-10-04 ME2]
 
 verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary; verify FAILs an explicit scene that names anyone whose card or roster gives an age under eighteen and WARNs when a named partner has no age on file, the body's age counting and never a soul's; bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration and pass in a mouth; and it WARNs past one a scene on the archive's repeated touches (the hand on the arm, the jaw held, the kiss on the hair).
 
 > Yes to: An explicit mode (verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary); A floor guard (FAIL when an explicit scene names anyone whose card or roster gives an age under eighteen; WARN when a named partner has no age on file. The body's age counts, never a soul's); Euphemism bans (Bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration like the hard-ban words; in a mouth they pass, since a character may be coy); Stale-touch watch (WARN past one a scene on the archive's repeated touches: the hand on the arm, the jaw held, the kiss on the hair, as R71-103 does for fight devices).
-
-### R73-42-INTIMACY_SAMPLE_BANK [Intimacy Law 2026-10-04 ME3]
-
-The intimacy sample bank holds both an intimate beat in each culture file where Natalie already loads them and a bank of the kinds the archive lacks, this questionnaire's samples becoming their first drafts.
-
-> Both. A and B: culture beats where Natalie already loads them, and the kinds the archive lacks; this questionnaire's samples become their first drafts.
-
-### R73-43-PROOF_TEST_SCENE [Intimacy Law 2026-10-04 ME4]
-
-The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
-
-> Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
 
 ### R43-3-COLOR_OF_ESSENCE_PART_FIVE [Magic System Rulings 2026-09-24 C-032]
 
@@ -13305,12 +12219,6 @@ Body horror where nobody is fighting is written full and clinical in the POV's f
 In a horror beat one witness's face may come before the thing itself, once a scene, and the reaction shot used as characterisation stays a tell everywhere else.
 
 > One witness, horror only. In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.
-
-### R74-43-WHERE_MYSTERY_LAW_LANDS [Mystery Law 2026-10-04 ME1]
-
-The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/ for Natalie to read before a dark or scheming scene.
-
-> Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.
 
 ### R74-45-MYSTERY_CHECKS_VERIFY [Mystery Law 2026-10-04 ME3]
 
@@ -13396,53 +12304,17 @@ A turn may close with a short, clearly marked cut to something the POV cannot se
 
 > A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).
 
-### R49-10-EPITHETS [Prose Law 2026-09-26 POV and interiority]
-
-One epithet per character per scene: the POV's epithet changes only when the POV's view of them changes, which is itself the beat.
-
-> One epithet per character per scene: the POV's epithet changes only when the POV's view of them changes, which is itself the beat.
-
 ### R49-11-NOT_KNOWING [Prose Law 2026-09-26 POV and interiority]
 
 The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) become optional; no per-scene minimum.
 
 > The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) become optional; no per-scene minimum.
 
-### R49-12-SHORT_FLOOR [Prose Law 2026-09-26 Rhythm and paragraphs]
-
-The short-sentence floor holds scene-wide: description may run long; short sentences cluster at beats and in action so the scene clears 18%.
-
-> The short-sentence floor holds scene-wide: description may run long; short sentences cluster at beats and in action so the scene clears 18%.
-
-### R49-13-VARIANCE [Prose Law 2026-09-26 Rhythm and paragraphs]
-
-Sentence-length variation targets the guide's 80% (under 50% is the strongest tell): very uneven sentences, strong contrast between fragments and long runs.
-
-> Sentence-length variation targets the guide's 80% (under 50% is the strongest tell): very uneven sentences, strong contrast between fragments and long runs.
-
-### R49-14-PARA_SHAPE [Prose Law 2026-09-26 Rhythm and paragraphs]
-
-Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady, medium paragraphs keep drawing the warning.
-
-> Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady, medium paragraphs keep drawing the warning.
-
-### R49-15-FRAGMENTS [Prose Law 2026-09-26 Rhythm and paragraphs]
-
-Concrete noun and image fragments are free; negative and 'Only/Just' emphasis fragments stay warned at three per scene.
-
-> Concrete noun and image fragments are free; negative and 'Only/Just' emphasis fragments stay warned at three per scene.
-
 ### R49-16-MODIFIERS [Prose Law 2026-09-26 Rhythm and paragraphs]
 
 Adjective stacking is by ear: stack as the sentence wants, no limit.
 
 > Adjective stacking is by ear: stack as the sentence wants, no limit.
-
-### R49-17-OPENERS [Prose Law 2026-09-26 Rhythm and paragraphs]
-
-The '-ing' opener and simultaneous-action construction ('Turning, he drew the blade'; 'As he stepped in, the smell hit him') is added to the AI tells and counted by the checker.
-
-> The '-ing' opener and simultaneous-action construction ('Turning, he drew the blade'; 'As he stepped in, the smell hit him') is added to the AI tells and counted by the checker.
 
 ### R49-18-SIMILE_COUNT [Prose Law 2026-09-26 Figurative language]
 
@@ -13461,18 +12333,6 @@ Extended and stacked metaphors are both allowed by ear when they come from the P
 Dead metaphors are always rebuilt from the POV's own life, even when a rough POV would think the cliche.
 
 > Dead metaphors are always rebuilt from the POV's own life, even when a rough POV would think the cliche.
-
-### R49-21-REIFICATION [Prose Law 2026-09-26 Figurative language]
-
-Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'.
-
-> Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'.
-
-### R49-22-NATURE [Prose Law 2026-09-26 Figurative language]
-
-Avoid personifying weather and landscape: the world is described, not personified.
-
-> Avoid personifying weather and landscape: the world is described, not personified.
 
 ### R49-23-HIGH_STYLE [Prose Law 2026-09-26 Figurative language]
 
@@ -13588,12 +12448,6 @@ Every question in narration keeps getting flagged for a read as possible hypopho
 
 > Every question in narration keeps getting flagged for a read as possible hypophora.
 
-### R49-42-FILTER_VERBS [Prose Law 2026-09-26 Constructions and tells]
-
-Filter verbs (he saw, he heard, she felt) are counted by the checker, which warns above a rate.
-
-> Filter verbs (he saw, he heard, she felt) are counted by the checker, which warns above a rate.
-
 ### R49-43-EXPLAINING [Prose Law 2026-09-26 Constructions and tells]
 
 Narration may explain causes anywhere, in the POV's reasoning and vocabulary; the mouth-only rules for the why of a working are struck.
@@ -13660,29 +12514,11 @@ Per-scene budgets stay per scene (not scaled to turn length): longer turns simpl
 
 > Per-scene budgets stay per scene (not scaled to turn length): longer turns simply run tighter.
 
-### R49-54-KHARVEN [Prose Law 2026-09-26 The checker]
-
-Kharven signature items: two of the five per session instead of per turn.
-
-> Kharven signature items: two of the five per session instead of per turn.
-
 ### R49-55-TIC_WORDS [Prose Law 2026-09-26 The checker]
 
 The repetition tic-word list stays as it is.
 
 > The repetition tic-word list stays as it is.
-
-### R35-1-NARRATION_DISTANCE_BANDS [Narration Distances (Psychic Distance by POV) The three registers]
-
-Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
-
-> Every POV character carries a narration distance: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called "narration distance", not "Band". The Fracture of Worlds magic system already uses "Band" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.
-
-### R35-2-NARRATION_DISTANCE_ASSIGNMENTS [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]
-
-Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
-
-> Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
 
 ### R54-21-FACULTY_AS_SUBJECT [Queue Questionnaire 2026-09-26 WAR-92]
 
@@ -13701,12 +12537,6 @@ Prose must render at least two of three simultaneous channels in any exchange of
 Never write an Eladrin line of dialogue without a distance or stillness beat attached; a bare Eladrin line is an incomplete sentence in their language.
 
 > Never write an Eladrin line of dialogue without a distance or stillness beat attached. A bare Eladrin line is an incomplete sentence in their language, and the reader should be able to follow an entire Eladrin conversation with the dialogue removed.
-
-### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
-
-The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
-
-> The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
 ### R70-1-BLEND_MODEL [Style Law 2026-10-03 K1]
 
@@ -13996,12 +12826,6 @@ Every time a person returns after their first-sight inventory, show one detail o
 
 > One changed detail each time. Every return of a person carries one detail of what the body has changed since: a new wound, weight, fatigue, cold damage, a missed shave. The Ledger's costs show.
 
-### R70-51-REPETITION_AGAINST_NOVELTY [Style Law 2026-10-03 DS11]
-
-Keep each culture's two signature items per session, and in every scene also add one subject the thread has not yet described, logging it as canon.
-
-> Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).
-
 ### R70-52-OVERALL_DENSITY [Style Law 2026-10-03 DD1]
 
 Keep full sensory layering in every scene, slower and denser, and spend the blend on a wider range of subjects rather than on more or less description.
@@ -14038,12 +12862,6 @@ Run a fight's exchanges traced and lean, and at the deciding moment hold the pag
 
 > Held instant, then outcome. Exchanges run traced and lean; at the deciding moment the page holds still for a passage of setting before the outcome lands.
 
-### R70-59-WHERE_COMPARISONS_COME_FROM [Style Law 2026-10-03 DT1]
-
-Draw comparisons from the POV's own life by default, and let any POV of a culture use that culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
-
-> Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.
-
 ### R70-60-COLOUR_AS_SYMBOL_PER [Style Law 2026-10-03 DT2]
 
 Give each Standing Inventory a colour field saying what white, red, black and two or three local colours mean there (the chartered Northern houses read heraldry), use it unglossed in narration, and let two cultures read one colour two ways.
@@ -14074,12 +12892,6 @@ Set verse apart as a quoted block when a character sings, recites or writes it o
 
 > Plus a closing poem. As B, and a scene or chapter may close on a short poem set apart, haibun-style. R49-26's legal endings gain the poem. (Option B there reads: In mouths and documents. Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.)
 
-### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
-
-Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
-
-> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
-
 ### R70-66-NAMED_DEVICES_ADD [Style Law 2026-10-03 DT8]
 
 Rooms and objects may be described by how they hold low light, once per set piece a held instant may carry a long comparison that grows into its own small scene and may reach beyond the POV's life, and a made object may be described at length until it opens onto history or myth.
@@ -14103,12 +12915,6 @@ Render Pressure first through the room (smoke, frost, lamp flames, the draw-hum,
 At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath, the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
 
 > Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
-
-### R70-73-MANY_DISPLAY_BEATS_PER [Style Law 2026-10-03 MY6]
-
-Each named practitioner may take one power-display beat per scene, so a duel may carry two and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display or finisher.
-
-> One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
 
 ### R70-80-READOUT_SITS_PAGE [Style Law 2026-10-03 LR3]
 
@@ -14145,18 +12951,6 @@ A readout may mark a Level gained with the stat points it brought, a Stage break
 Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
-
-### R70-86-MANY_READOUTS_SCENE_CARRIES [Style Law 2026-10-03 LR9]
-
-A scene carries at most three readouts, at the display, the finisher and the aftermath, and a roleplay turn at most two, never two in one exchange.
-
-> Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.
-
-### R70-87-READOUTS_TWO_VOICE_CAP [Style Law 2026-10-03 LR10]
-
-A readout states figures and explains nothing, so it never counts toward the two explaining voices an engagement may carry.
-
-> Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.
 
 ### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
 
@@ -14260,29 +13054,11 @@ The POV's culture decides which explicit-scene techniques the narration uses (a 
 
 > Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
-### R70-135-WHERE_NEW_LAW_LIVES [Style Law 2026-10-03 ME1]
-
-Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Prose Standards to it, and issue new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide so no companion document still teaches the old law.
-
-> A, plus new guide editions. A, then new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide, so no companion document still teaches the old law. (Option A there reads: Rule doc and NATALIE rewrite. One dated Style Law doc logged through log_ruling; NATALIE.md's models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1 superseded or amended as K1 decides.)
-
 ### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
 
 verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
-
-### R70-138-PROOF_ORDER_WORK [Style Law 2026-10-03 ME4]
-
-The style law binds as logged, one test scene in a live thread follows, anything that reads wrong becomes a dated amendment, and only then is a sample bank written for Kharven, Moto, Accord, the Mahuo and the lineage halls.
-
-> Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.
-
-### R72-3-REPLIES_RUN_LONG [Table Law 2026-10-04 K3]
-
-A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly, and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
-
-> Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.
 
 ### R72-6-WORLD_WRITES_HIM [Table Law 2026-10-04 K6]
 
@@ -14464,12 +13240,6 @@ Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-
 
 > Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
 
-### R51-31-SENSE_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
-
-> Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
-
 ### R51-32-SMELL_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Technical smell words (ozone, sulphur, ammonia) are free for any POV.
@@ -14488,12 +13258,6 @@ The modern-word list applies to in-world documents like narration; documents are
 
 > The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
 
-### R51-35-NEW_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
-
-> A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
-
 ### R48-01-BEAUTY [Writing Law 2026-09-26 Beautiful prose]
 
 Beauty comes from exact concrete detail, images and metaphor, and what goes unsaid (not primarily rhythm/sound).
@@ -14506,12 +13270,6 @@ Lush throughout: every scene gets full sensory layering; slower, denser, more im
 
 > Lush throughout: every scene gets full sensory layering; slower, denser, more immersive.
 
-### R48-03-SIMILES [Writing Law 2026-09-26 Beautiful prose]
-
-Loosen similes only: a good simile is welcome when it earns its place; em dashes stay banned.
-
-> Loosen similes only: a good simile is welcome when it earns its place; em dashes stay banned.
-
 ### R48-04-METAPHORS [Writing Law 2026-09-26 Beautiful prose]
 
 Metaphors come from the POV's own life: trade, homeland, body; metaphor doubles as characterisation.
@@ -14523,12 +13281,6 @@ Metaphors come from the POV's own life: trade, homeland, body; metaphor doubles 
 High mythic style is allowed freely in narration whenever the moment calls for it (not only in documents).
 
 > High mythic style is allowed freely in narration whenever the moment calls for it (not only in documents).
-
-### R48-06-RHYTHM_LAW [Writing Law 2026-09-26 Beautiful prose]
-
-Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs under 10 words, at most two long sentences in a row; the checker fails anything else.
-
-> Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs under 10 words, at most two long sentences in a row; the checker fails anything else.
 
 ### R48-07-WHITE_SPACE [Writing Law 2026-09-26 Beautiful prose]
 
@@ -14560,18 +13312,6 @@ Humour wherever it's earned: funny characters are funny often; tone flexes with 
 
 > Humour wherever it's earned: funny characters are funny often; tone flexes with the cast.
 
-### R48-12-PROFANITY [Writing Law 2026-09-26 Register and voice]
-
-Profanity in mouths and in close-POV narration when the POV would think it.
-
-> Profanity in mouths and in close-POV narration when the POV would think it.
-
-### R48-13-PERIOD_FEEL [Writing Law 2026-09-26 Register and voice]
-
-Modern words in speech only: characters may talk modern; narration keeps a timeless register.
-
-> Modern words in speech only: characters may talk modern; narration keeps a timeless register.
-
 ### R48-20-STRATA [Writing Law 2026-09-26 WOTR metaphysics on the page]
 
 The three-layer account (Aether, Wellspring, Essence) shows at a working's first display and at the finisher; lighter touches between.
@@ -14601,18 +13341,6 @@ A working carries as many history-of-ideas lenses as shed light on it.
 The Four Theories surface in scenes through characters who hold and argue them; they colour reads and mistakes.
 
 > The Four Theories surface in scenes through characters who hold and argue them; they colour reads and mistakes.
-
-### R48-25-AWE [Writing Law 2026-09-26 WOTR metaphysics on the page]
-
-Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
-
-> Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
-
-### R48-33-CHOREOGRAPHY [Writing Law 2026-09-26 Combat and consequence]
-
-Duels: every exchange traced (measure, guard and the move by its fencing name).
-
-> Duels: every exchange traced (measure, guard and the move by its fencing name).
 
 ### R48-34-WOUNDS [Writing Law 2026-09-26 Combat and consequence]
 
@@ -14680,7 +13408,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (204)
+## register (185)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -14766,23 +13494,11 @@ The signature WOTR technical sentence names the real phenomenon, gives the syste
 
 > The signature WOTR technical sentence carries the real mechanism and the system term in the same breath and attaches the physical consequence to both. Three elements, one sentence or one short group: [the real phenomenon, correctly named] + [the system term as its name, its boundary condition, or its address] + [what the body or the room did]. Neither element is a gloss on the other. The science is not a metaphor for the magic and the magic is not decoration on the science. They are the same event described at two strata, per Pack Thirteen §2.
 
-### R16-4-EXTEND_LEXICON [Pack Sixteen §4]
-
-The rough-to-converted term lexicon is built from Isaac's actual submissions and extended every session; anything converted in play must be entered in it or it does not exist as a settled conversion.
-
-> Built from Isaac's actual submissions across the Kharven sequence. Extend it every session; anything converted in play is entered here or it does not exist.
-
 ### R16-5-REGISTER_IN_NARRATION [Pack Sixteen §5]
 
 The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.
 
 > In the narration. Pack Twelve §2 makes the Technical Register available to third-person narration for anything a person chooses to do. Natalie stops reserving it for italic thought.
-
-### R16-5-NOT_IN_NOTES [Pack Sixteen §5]
-
-If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.
-
-> Not in the author notes. The notes record originated material, conflicts, the Stat Ledger, and the audit. If a mechanism appears in the notes and not in the prose, the pass failed and the note is evidence of the failure.
 
 ### R16-6-COINAGE_HANDLING [Pack Sixteen §6]
 
@@ -14808,29 +13524,11 @@ A scene that converts everything has the same fault as a scene that converts not
 
 > A scene that converts everything has the same fault as a scene that converts nothing: it has stopped choosing.
 
-### R16-8-CHECK30 [Pack Sixteen §8]
-
-A scene with a working, exchange or injury must carry at least four WOTR technical-lexicon terms and at least two correctly-used real scientific/anatomical terms in the narration outside italics; false positives are reviewed by reading.
-
-> Check 30 — Conversion density. A scene containing a working, an exchange, or an injury carries at least four terms from the WOTR technical lexicon and at least two correctly-used real scientific or anatomical terms, in the narration, outside italics.
-
-### R16-8-CHECK31 [Pack Sixteen §8]
-
-No mechanism term may appear in the author-notes block that does not also appear in the prose body.
-
-> Check 31 — Export. No mechanism term appears in the author-notes block that does not also appear in the prose body.
-
 ### R16-8-CHECK32 [Pack Sixteen §8]
 
 Every distinctive term in the submitted rough must appear in the output in one of the four routed forms, or be listed as dropped in the notes; false positives are reviewed by reading.
 
 > Check 32 — Coinage retention. Every distinctive term in the submitted rough appears in the output in one of the four routed forms, or is listed as dropped in the notes.
-
-### R16-8-CHECK33 [Pack Sixteen §8]
-
-Fewer than half of a scene's technical terms may sit inside italic thought.
-
-> Check 33 — Italic quarantine. Fewer than half of a scene's technical terms sit inside italic thought.
 
 ### R15-1-DICTION_PALETTE [Pack Fifteen §1]
 
@@ -14928,23 +13626,11 @@ Correspondence, sympathy and contagion, essence and accident, form and actualisa
 
 > Metaphysics, for the Plane of Fate and the Hermetic layer: correspondence, sympathy and contagion, essence and accident, form and actualisation, recognition and refusal. These are the vocabulary of stratum two's Attraction-side reads and of voice four, the document.
 
-### R13-6-HEMA_VOCAB [Pack Thirteen §6]
-
-The spear/staff, poleaxe, dagger, grappling, messer, sword-and-buckler and mounted-lance mechanics, and the hammer-specific percussion table, remain; European fencing jargon is replaced by plain actions in all prose (R77-1).
-
-> HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.
-
 ### R13-6-ANATOMY_VOCAB [Pack Thirteen §6]
 
 Anatomy is named by structure, fractures by fracture type, and neurological consequence by name.
 
 > Anatomy by named structure. Fracture types by name. Neurological consequence by name.
-
-### R13-6-SCALING_VOCAB_RESTRICTED [Pack Thirteen §6]
-
-Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.
-
-> Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.
 
 ### R13-6-ANIME_GRAMMAR_TRANSLATION_AID [Pack Thirteen §6]
 
@@ -14988,18 +13674,6 @@ Guild register calls it a Core Concentration; common tongue calls it a Well; goi
 
 > Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.
 
-### R10-2-CATEGORY_REGISTER_DEFAULT [Pack Ten PART TWO]
-
-Category names sit at Wellspring/Family register, not common tongue, and stay workbook and Codex-line by default.
-
-> Category names (Animatria, Manifestus, Vectra, and so on) sit at Wellspring/Family register, not common-tongue register — nobody calls a tiger "my Animatria" the way a soldier says "the writing." They stay workbook and Codex-line by default.
-
-### R10-2-CATEGORY_READ_EXCEPTION [Pack Ten PART TWO]
-
-A scene's single diagnostic read (the Apparatus Rule's existing budget, not a new one) may be spent naming the category instead of a Wellspring or Family; naming a category doesn't trip Check 20, but it still costs the scene's only read.
-
-> One exception, and it is the Apparatus Rule's existing budget, not a new one. A scene's single explicit diagnostic read may be spent naming the category instead of naming a Wellspring or Family — a scholar, examiner, or rival practitioner gets one line: "That's Animatria. It isn't a real animal." Naming a category is not accounting for why it works, so it does not trip Check 20. It still costs the scene's only read, and after it the faculty goes silent same as always.
-
 ### R9-2-CLASS_MARKED_CRAFT_WORDS [Pack Nine PART TWO]
 
 Which word a character uses for a craft is characterisation: an Engraver says "the cutting," a Kharven soldier says "a man who can do the writing," and nobody says "Runecraft" aloud except an Accord examiner filling in a form.
@@ -15036,12 +13710,6 @@ WOTR runs an Eastern skeleton under Western flesh; the systematic density (Stage
 
 > WOTR runs an Eastern skeleton under Western flesh. The skeleton stays exactly as it is. Sixteen Temperance Stages, sixty Wellsprings, Bands and Grades and Coherence and eta, the Master Codex glyph grammar, Family and Physics Domain assignment, the seventeen-section character sheet, Trigger through Counterplay, EU costs to the unit. That systematic density is a light-novel and xianxia inheritance and it is the correct engine for this project. It does not get diluted, softened, or made impressionistic. Section 3.3's division of hard and soft labour stands untouched.
 
-### R5-B-MANHWA_DIRECTIVE_REPEALED [Pack Five B]
-
-Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
-
-> Struck in full from the project instructions and from Section 4's sanctioned-exception clause. The following are no longer craft law and should be treated as active tells if they appear in a draft.
-
 ### R5-C2-ELEGY_CONCRETE_THING [Pack Five C.2]
 
 Elegy attaches to a named concrete, specific thing that is gone (a road, a dye colour, a lost word, a dying craft), never to abstractions; grief for "the old world" is furniture.
@@ -15053,12 +13721,6 @@ Elegy attaches to a named concrete, specific thing that is gone (a road, a dye c
 What distinguishes elegy from grimdark's systemic cruelty is that the loss is often irreversible and often nobody's fault; some things are simply taken, some simply end.
 
 > The loss is often irreversible and often nobody's fault. This is what distinguishes elegy from grimdark's systemic cruelty, and WOTR needs both. Some things are taken. Some things simply end.
-
-### R5-C3-NARRATION_REGISTER_EXTENSION [Pack Five C.3]
-
-Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
-
-> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
 
 ### R5-D-HUMOUR_PERMITTED [Pack Five D]
 
@@ -15174,6 +13836,18 @@ The elevated word bank is retired; each word is chosen from the thing being desc
 
 > Isaac's direction 2026-10-16: the fixed elevated word bank is retired. Words are chosen from the thing being described: whatever word fits what the sentence is showing, the exact and resonant one where the thing earns it, the plain one where plain is truer. There is no list to read before drafting, no no-repeat rule on bank words, and no density count. The bank file desktop/style-bank/elevated-words.md is removed and verify_scene's elevated-density WARN goes with it. Unchanged: the chosen word must carry more than its common substitute in meaning, sound or implication; English of every root; elevated verbs on the hit and plain body parts; the POV picks which words; speech follows each card; physical clarity and the fight-abstraction WARN (R78-3); the slop bans (R51-10, R70-35).
 
+### R79-3-PROSE_WITHOUT_STATISTICS [Directions 2026-10-17 prose-rp-questionnaire]
+
+Every rhythm, sentence-length and count rule retires; a revelation may take a short line and its consequence gets room; developed paragraphs; vocabulary rich with no count; Kharven recurrence gone; description a toolbox; Inventories reference only; no epithet count.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): prose carries no statistics. Every sentence-length, rhythm and count rule retires: the run rule, the long-sentence chain ceiling, the short-sentence floor, the variation target, the payoff word cap, the clause and conjunction caps, the landing rule and the approach ladder, the paragraph-shape rules and their checks, the filter-verb rate, the opener cap, the fragment cap and the simile-pair check. A revelation may take a short line; its consequence gets room. A one-line paragraph stands wherever the movement around it earns it. Paragraphs are developed, following the mind's movement as The Weak Grade shows. Vocabulary is rich, with no count and no saturation or stacking rule; the word chosen still carries more than its plain substitute. The Kharven recurrence minimum is gone entirely, its check and its book-pipeline FAIL with it; the items stay as Inventory texture. Description is a toolbox with no per-beat or per-scene minimums. Standing Inventory entries are reference, with no sizes and no draw-first order. Narration names people the way the POV sees them, with no epithet count.
+
+### R79-5-VOICE_AND_DIALOGUE [Directions 2026-10-17 prose-rp-questionnaire]
+
+No speech cap; the card sets speech flaws; catchphrases only from a card; pre-R78 tone rules retired; accents full phonetic, card sets weight; bare genre words freed, exact clichés still banned; conversion upgrades mechanism words only.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): voice and dialogue. Speeches carry no cap: declarations, battle cries, villain speeches and crafted speeches land wherever the moment carries them. The card decides how a person speaks: stumbles, interruptions, repetition and non-answers are a toolbox, and the bans on composure apply only to the young, the exhausted and the inarticulate. A recurring catchphrase only where a card gives one. The pre-R78 tone rules retire: the anti-manhwa tell list and its cutaway tell (one kept: a reaction shot that replaces showing the event), the Abercrombie register, gallows wit as the only joke in danger, and the grimdark titling; each character's own humour governs, fights included. Accents are written in full phonetic spelling, each card setting how heavy. The exact cultivation cliché phrases stay banned, while bare killing intent and qi rising or flaring are genre vocabulary. Converting his rough prose upgrades the words for how magic and bodies work and keeps his plain words where plain is truer; the every-noun routing and the term-count floors retire.
+
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
@@ -15275,24 +13949,6 @@ Explicit narration stays plain and crude: working-man anatomical words, lush in 
 Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.
 
 > Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.
-
-### R35-1-NARRATION_DISTANCE_BANDS [Narration Distances (Psychic Distance by POV) The three registers]
-
-Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
-
-> Every POV character carries a narration distance: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called "narration distance", not "Band". The Fracture of Worlds magic system already uses "Band" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.
-
-### R35-2-NARRATION_DISTANCE_ASSIGNMENTS [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]
-
-Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
-
-> Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
-
-### R54-13-NO_POV_WITHOUT_REGISTER [Queue Questionnaire 2026-09-26 WAR-91]
-
-A character may carry a point of view only once a narration register exists for them.
-
-> No POV without a register: Bram Greymane and Lorn Stark get registers.
 
 ### R54-14-REGISTER_STAYS_WITH_POV [Queue Questionnaire 2026-09-26 WAR-91]
 
@@ -15492,12 +14148,6 @@ In scenes chosen for it, the feeling is never named and one held, concrete image
 
 > Held image, never named. In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.
 
-### R70-59-WHERE_COMPARISONS_COME_FROM [Style Law 2026-10-03 DT1]
-
-Draw comparisons from the POV's own life by default, and let any POV of a culture use that culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
-
-> Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.
-
 ### R70-61-SEASON_WORD_DOES [Style Law 2026-10-03 DT3]
 
 Let each culture's season words place time and weather in one word in narration and speech, give each logged word a settled feeling, and lean the scene on that feeling without ever naming it.
@@ -15509,12 +14159,6 @@ Let each culture's season words place time and weather in one word in narration 
 Personify weather and landscape only at mythic moments, in verse and documents, and in close POV for cultures whose speech already gives the sky a will; keep everyday narration plain.
 
 > Personify at high moments. R49-22 relaxes at mythic moments (R48-05), in verse and documents, and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays plain.
-
-### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
-
-Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
-
-> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
 
 ### R70-66-NAMED_DEVICES_ADD [Style Law 2026-10-03 DT8]
 
@@ -15798,12 +14442,6 @@ Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-
 
 > Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
 
-### R51-31-SENSE_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
-
-> Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
-
 ### R51-32-SMELL_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Technical smell words (ozone, sulphur, ammonia) are free for any POV.
@@ -15821,12 +14459,6 @@ In-world documents keep a house style per institution: Accord chancery formal an
 The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
 
 > The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
-
-### R51-35-NEW_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
-
-> A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
 
 ### R48-08-NEW_POVS [Writing Law 2026-09-26 Register and voice]
 
@@ -15851,18 +14483,6 @@ Drop the Technical/Mystic no-mixing rule: registers mix freely by ear.
 Humour wherever it's earned: funny characters are funny often; tone flexes with the cast.
 
 > Humour wherever it's earned: funny characters are funny often; tone flexes with the cast.
-
-### R48-12-PROFANITY [Writing Law 2026-09-26 Register and voice]
-
-Profanity in mouths and in close-POV narration when the POV would think it.
-
-> Profanity in mouths and in close-POV narration when the POV would think it.
-
-### R48-13-PERIOD_FEEL [Writing Law 2026-09-26 Register and voice]
-
-Modern words in speech only: characters may talk modern; narration keeps a timeless register.
-
-> Modern words in speech only: characters may talk modern; narration keeps a timeless register.
 
 ### R48-20-STRATA [Writing Law 2026-09-26 WOTR metaphysics on the page]
 
@@ -15894,19 +14514,13 @@ The Four Theories surface in scenes through characters who hold and argue them; 
 
 > The Four Theories surface in scenes through characters who hold and argue them; they colour reads and mistakes.
 
-### R48-25-AWE [Writing Law 2026-09-26 WOTR metaphysics on the page]
-
-Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
-
-> Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
-
 ### R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC [Zettari Naming Register Ruling Standing Ruling]
 
 The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (138)
+## scene-structure (126)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -15980,41 +14594,11 @@ Everything a siege is about happens in the negotiation, because both commanders 
 
 > The parley is the scene. Everything a siege is about happens in the negotiation, because both commanders know what a storm means. Write the parley as the climax and the storm, if it comes, as the failure of the actual drama.
 
-### R2-5-SINGLE_ACT_RULE [Pack Two Amendment Five]
-
-A battle cannot hold six relationships the way a duel holds one; a battle advances exactly one relationship, and it advances it by a single unrepeatable act.
-
-> The rule: a battle advances exactly one relationship, and it advances it by a single unrepeatable act.
-
-### R2-5-ONE_PER_ENGAGEMENT [Pack Two Amendment Five]
-
-One Single Act per engagement — two dilutes both, three is a soap opera in armour; a campaign's several engagements should not all involve the same pairing, or the reader begins to expect the shape.
-
-> One Single Act per engagement. Two dilutes both. Three is a soap opera in armour. A campaign arc may run several engagements and therefore several Acts, and they should not all involve the same pairing, because the reader will begin to expect the shape and expectation is what kills it.
-
 ### R1-3-SCENE_STANDARDS_DEFINED [Pack One Amendment Three]
 
 The standing Scene Standards (minimum 2,500 words, layered sensory opening, one private italic thought per named NPC, no section spacers, end on physical action) apply in full to all scenes except mass combat sequences, where two provisions are amended.
 
 > The standing Scene Standards (minimum 2,500 words, layered sensory opening, one private italic thought per named NPC, no section spacers, end on physical action) apply in full to all scenes except mass combat sequences, where two provisions are amended.
-
-### R1-3-NAME_THREE_RULE [Pack One Amendment Three]
-
-The one-italic-thought-per-NPC standard is suspended in mass combat; no more than three characters carry interiority through a battle sequence, everyone else is exterior only, and interiority for named characters outside the three is deferred to the aftermath.
-
-> The one-private-italic-thought-per-named-NPC standard is suspended in mass combat. It exists to make a small cast feel populated and it does the opposite at scale, producing a scene that reads as a poll of forty consciousnesses. Replacement standard: name three. No more than three characters carry interiority through a battle sequence. Everyone else is exterior only: actions, voices, bodies. Interiority for named characters outside the three is deferred to the aftermath, where it lands harder because the reader has been waiting for it.
-
-### R1-3-WORD_FLOOR_INCLUDES_AFTERMATH [Pack One Amendment Three]
-
-The 2,500-word minimum applies to the engagement plus its aftermath treated as one unit, not the fighting alone; a battle that ends when the fighting ends has not met the standard regardless of length.
-
-> The 2,500-word minimum applies to the engagement plus its aftermath treated as one unit, not to the fighting alone. A battle sequence that ends when the fighting ends has not met the standard regardless of its length.
-
-### R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS [Pack One Amendment Three]
-
-Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
-
-> Rule: the interior action of a battle occurs in its aftermath. Whatever the engagement was going to do to your characters' relationships, it does in the three days afterward, over the burial detail, in the sick lines, and in the arguments about who should have done what. The fight itself is too loud and too fast for anyone to change during it.
 
 ### R1-3-PLAN_AFTERMATH_FIRST [Pack One Amendment Three]
 
@@ -16172,6 +14756,30 @@ Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.
 
+### R79-1-NATALIE_WRITES_HIS_PC [Directions 2026-10-17 prose-rp-questionnaire]
+
+Natalie may write his PC (act, speak, think, explicit scenes included); his post wins; other creators' characters hands-off; every in-fiction reply ~3,500 words, set pieces and Discord included; a turn stops at his real decision.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): Natalie writes his PC. In any turn or scene she may move his player character, give him lines, and write his thoughts and feelings, in his voice from his card, explicit scenes included, consensual or forced. His post, a redirect or his rewrite always wins over what she wrote. Characters belonging to other creators (Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem, Sonzai) stay hands-off. Every in-fiction reply runs about 3,500 words, set pieces and Discord posts included; out-of-character answers run at their own length. A turn carries him through the beat and the routine and stops at a decision that is genuinely his: a risk, a bargain, a fight, a line that matters.
+
+### R79-3-PROSE_WITHOUT_STATISTICS [Directions 2026-10-17 prose-rp-questionnaire]
+
+Every rhythm, sentence-length and count rule retires; a revelation may take a short line and its consequence gets room; developed paragraphs; vocabulary rich with no count; Kharven recurrence gone; description a toolbox; Inventories reference only; no epithet count.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): prose carries no statistics. Every sentence-length, rhythm and count rule retires: the run rule, the long-sentence chain ceiling, the short-sentence floor, the variation target, the payoff word cap, the clause and conjunction caps, the landing rule and the approach ladder, the paragraph-shape rules and their checks, the filter-verb rate, the opener cap, the fragment cap and the simile-pair check. A revelation may take a short line; its consequence gets room. A one-line paragraph stands wherever the movement around it earns it. Paragraphs are developed, following the mind's movement as The Weak Grade shows. Vocabulary is rich, with no count and no saturation or stacking rule; the word chosen still carries more than its plain substitute. The Kharven recurrence minimum is gone entirely, its check and its book-pipeline FAIL with it; the items stay as Inventory texture. Description is a toolbox with no per-beat or per-scene minimums. Standing Inventory entries are reference, with no sizes and no draw-first order. Narration names people the way the POV sees them, with no epithet count.
+
+### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
+
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
+
+### R79-11-CANON_WORLD_DOCUMENTS [Directions 2026-10-17 coverage-questionnaire]
+
+Canon order with Isaac's dated directions first; fixed system canon, everything else free and canon on archive; story beats a palette; crews in play; Malphas hidden only from who couldn't know; rare costly returns; world magic law in narration, physics in trained mouths; world musts and document forms optional; names as needed; one free archive-notes block; markdown documents; price table approved; no owed Inventory fields.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): canon, the world and its documents. The canon order is Isaac's word, including RULINGS and dated directions with the newest winning; then the canon source documents (Fracture of Worlds, the Master Codex, the Stat Sheet); then the rule index; then archived scenes for events; then cards; then other wiki pages; then internal logic. Fixed and never invented: the Sixty Wellsprings, the Glyph Index, the Stage, Band and Tier ladders, the Families, the Archons and Titans, cultures and bloodlines, and carded people's facts; everything else is free to invent, factions and NPC techniques included, canon once archived. Story beats (crews, rivals, mentors, warm bonds, arc kinds) are a palette Natalie draws on when the story earns them, never owed per thread; a crew forms in play, Isaac overturning what he dislikes. Malphas is hidden only from characters who could not know him; his circle's size floats. The dead stay dead save rare, costly returns by canon means; full resurrection stays forbidden on paper. Narration states the world's magic as law with its reasons kept, while trained characters and the notes may give the physics. World musts (weather in every outdoor scene, the bill on an indoor working, the sense order at sea, the rite that departs from its form, the document whose rule breaks, the tested epigraph) become tools used when they matter. Document forms are optional (the contract's limiting clause, the docket line, the Tier rung); a glossary is built at book assembly; numerals stand wherever an institution writes them; in-world documents keep their institution's house style. Names come as needed: doublets, true names, folk names and say-lines are added when used; the technique-name word cap and the never-translated rule retire. Archive notes are one free block (sources, inventions, canon conflicts, estimates), with a mystery's clue list and sealed solution kept. The house document is markdown in the repo; a .docx only on request, dark background and gold Garamond. The price table in imports/drafts/price-table.md is approved and published as reference. Standing Inventories owe no fields; a journey that matters has a clock the world fills, with no tick count; a character may talk power-scaling in his own voice while narration avoids forum terms.
+
 ### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
 
 By default each explicit scene shows something about one partner's desire or refusal the reader did not know, whether or not a thread moves, with Rule 9's consequence still landing afterward, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness.
@@ -16208,23 +14816,11 @@ Write an explicit scene's aftermath as the small work after (washing, the fire f
 
 > Procedure, meaning unsaid. The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.
 
-### R73-19-YOUR_CHARACTER_IN_BED [Intimacy Law 2026-10-04 SC12]
-
-Once the player's post sets the act, Natalie writes contact, position and what the partner does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he bears them, to the player.
-
-> Contact as world fact. Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
-
 ### R73-20-EXPLICIT_ROLEPLAY_TURN [Intimacy Law 2026-10-04 SC13]
 
 In an explicit roleplay turn the player may post the course of the encounter, a pace, a limit or a stop for his character, and Natalie runs it to the first branch it does not cover and stops there.
 
 > Standing orders in bed. You may post the course of the encounter, a pace, a limit or a stop for your character, and Natalie runs it to the first branch it does not cover, then stops there.
-
-### R73-21-NPC_WOULD_FORCE_HIM [Intimacy Law 2026-10-04 SC14]
-
-When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
-
-> Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
 
 ### R73-36-LOVERS_WARM_BOND [Intimacy Law 2026-10-04 CO14]
 
@@ -16243,12 +14839,6 @@ A bond grows by what is mended, fed and carried (the coat, the comb, the bowl), 
 A bond gets scenes of its own joy before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix.
 
 > Lived first, then cost. A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.
-
-### R73-42-INTIMACY_SAMPLE_BANK [Intimacy Law 2026-10-04 ME3]
-
-The intimacy sample bank holds both an intimate beat in each culture file where Natalie already loads them and a bank of the kinds the archive lacks, this questionnaire's samples becoming their first drafts.
-
-> Both. A and B: culture beats where Natalie already loads them, and the kinds the archive lacks; this questionnaire's samples become their first drafts.
 
 ### R74-1-HOW_MUCH_READER_SOLVES [Mystery Law 2026-10-04 K1]
 
@@ -16358,12 +14948,6 @@ By default a council or court scene turns on arithmetic or paper (a date that do
 
 > The dated fact. The turn is arithmetic or paper: a date that does not fit, a column, a seal, found on the page where a player could find it first. Speech and reads colour it.
 
-### R74-37-BETRAYAL_TRUSTED [Mystery Law 2026-10-04 IN3]
-
-The thread's standing warm bond never betrays by choice, and anyone else may betray only with the signs shown twice before the turn.
-
-> The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).
-
 ### R74-40-ONE_MAN_TWO_FACES [Mystery Law 2026-10-04 IN8]
 
 When an NPC lives two lives, at least one link between the faces (a shared habit or a link in the record) is planted before the unmasking, and a face held by a working has its Codex line and leaks a seam, as an impression-body does.
@@ -16411,24 +14995,6 @@ A 3,500-word turn is filled balanced: about half texture and talk, half the worl
 Every reply is a full turn of about 3,500 words, even to a quick line or question.
 
 > Every reply is a full turn of about 3,500 words, even to a quick line or question.
-
-### R54-15-AFTERMATH_PAID_LATER [Queue Questionnaire 2026-09-26 WAR-91]
-
-A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath duty.
-
-> A later scene can pay The Muster's aftermath: a named later scene covering two of the five aftermath stages discharges it.
-
-### R54-17-MULTI_PLACE_SET_PIECE [Queue Questionnaire 2026-09-26 WAR-91]
-
-A scene across several places with one mass-combat section is measured as a set piece.
-
-> A scene in four places with one mass-combat section is measured as a set piece.
-
-### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
-
-The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
-
-> The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
 ### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
 
@@ -16562,12 +15128,6 @@ A readout may mark a Level gained with the stat points it brought, a Stage break
 
 > Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).
 
-### R70-86-MANY_READOUTS_SCENE_CARRIES [Style Law 2026-10-03 LR9]
-
-A scene carries at most three readouts, at the display, the finisher and the aftermath, and a roleplay turn at most two, never two in one exchange.
-
-> Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.
-
 ### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
 
 A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an exchange.
@@ -16640,12 +15200,6 @@ Natalie keeps each thread working toward its next set piece and puts one payoff 
 
 > Spine and payoff. B and C together: each thread works toward its next set piece, and every session on the way puts one earnable payoff in reach beside a fresh cost.
 
-### R72-3-REPLIES_RUN_LONG [Table Law 2026-10-04 K3]
-
-A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly, and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
-
-> Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.
-
 ### R72-4-WHERE_TURN_STOPS [Table Law 2026-10-04 K4]
 
 A turn runs past pauses Isaac's PC would let pass and stops when something presses him (a question to him, an offer, a threat, a clock), and any line aimed at him always stops it.
@@ -16688,18 +15242,6 @@ A posted chain of actions stops at the first point the world pushes back and the
 
 > Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.
 
-### R72-12-TABLE_TALK_NOTES [Table Law 2026-10-04 TU5]
-
-At the Desktop table a turn gives the prose first and, below a divider line, a short foot of OOC lines, and the full author notes are written once, when archive_scene files the finished scene.
-
-> Foot now, file at archive. Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it.
-
-### R72-14-PREVIOUSLY_LINE [Table Law 2026-10-04 TU7]
-
-A session's first turn opens with the scene header (place, day, hour), then two or three plain OOC lines on what happened last, what is owed and what is ticking that the PC knows of, and then the prose.
-
-> Header and "previously". The header, then two or three plain OOC lines: what happened last, what is owed, what is ticking that your PC knows of. Then the prose.
-
 ### R72-21-FRONT_SIGNS_SEEN [Table Law 2026-10-04 WD2]
 
 Every Front tick puts one sign into a scene of that thread in the same session (a seal, a stranger, a price gone up) or into a marked cutaway, and no clock is printed in play, though the files stay open to Isaac.
@@ -16736,13 +15278,7 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 
 > Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
 
-## session-protocol (119)
-
-### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
-
-The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
-
-> The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start.
+## session-protocol (93)
 
 ### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
 
@@ -16762,71 +15298,11 @@ No rewrite of scenes written before this pack is proposed; the pack governs dial
 
 > No rewrite of past scenes is proposed. The pack governs from here.
 
-### R19-9-STANDING_TASK [Pack Nineteen §9]
-
-Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.
-
-> Fold Packs One through Nineteen into the base guides and retire the diffs. Ask once per session.
-
-### R18-6-SESSION_START_4A [Pack Eighteen §6]
-
-Inserted between the current steps four and five of the Session Start Protocol, a new step 4a requires querying the Spell Index, Glyph Index, Alchemical Index and Lists sheet for everything the scene will work, before the FOW line and before the Standing Inventory.
-
-> 4a. Open the Master Codex for anything the scene will work. Query the Spell Index for existing precedent, the Glyph Index for the phenomenon, the Alchemical Index for any reagent, and the Lists sheet for every assignment the scene will name. Do this before the FOW line and before the Standing Inventory, because the Codex determines what the working is and the others determine what it costs and how it reads.
-
-### R18-9-STANDING_TASK [Pack Eighteen §9]
-
-Fold Packs One through Eighteen into the base guides and retire the diffs, asked once per session.
-
-> Fold Packs One through Eighteen into the base guides and retire the diffs. Ask once per session.
-
-### R17-10-STANDING_TASK [Pack Seventeen §10]
-
-Fold Packs One through Seventeen into the base guides and retire the diffs, asked once per session.
-
-> Fold Packs One through Seventeen into the base guides and retire the diffs. Ask once per session.
-
-### R16-4-EXTEND_LEXICON [Pack Sixteen §4]
-
-The rough-to-converted term lexicon is built from Isaac's actual submissions and extended every session; anything converted in play must be entered in it or it does not exist as a settled conversion.
-
-> Built from Isaac's actual submissions across the Kharven sequence. Extend it every session; anything converted in play is entered here or it does not exist.
-
-### R16-9-STANDING_TASK [Pack Sixteen §9]
-
-Fold Packs One through Sixteen into the base guides and retire the diffs, asked once per session; precedence at sixteen packs deep is past the point where it can be tracked by reading.
-
-> Fold Packs One through Sixteen into the base guides and retire the diffs. Sixteen packs is past the point where precedence can be tracked by reading. Ask once per session.
-
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
 Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
 
 > Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.
-
-### R8-27-STANDING_TASK [Pack Eight 2.7]
-
-A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.
-
-> Naming pass per culture. Existing techniques already established in prose are flagged, not renamed. This cashes the release-and-true-name mechanic that has been sitting pitched on the docket since the fifth edition, and it means rewritten first displays across the major cast.
-
-### R4-ADD-NO_SINGLE_PASS [Pack Four Addendum]
-
-wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
-
-> Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
-
-### R61-129-CONVERSION_ORDER_OF_WORK [Alchemy Conversion Questionnaire 2026-09-28 ME3]
-
-Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, one document per commit, so no text is converted before the texts it quotes.
-
-> Composition order: Volumes I, II, Papers, Volume III, Necrocursica. Each document is converted after everything it quotes, so no conversion cites an unconverted source; the Necrocursica's revised edition comes last and cites the finished four.
-
-### R61-130-CONVERTED_TEXTS_OUTPUT [Alchemy Conversion Questionnaire 2026-09-28 ME4]
-
-Publish each converted text as a Notion page in-session for the sync to mirror, and save a new docx next to Isaac's originals, which are never overwritten.
-
-> Notion pages plus fresh docx files beside the originals. Pages are published in-session and mirrored by the sync; new docx files, such as 'The Alftian Codex (Mu-jin edition)', are saved next to his originals, which stay untouched.
 
 ### R71-20-FIGHTS_END [Combat Law 2026-10-04 CW11]
 
@@ -16888,23 +15364,35 @@ When a fight ends in a death, law moves only on a witness or a reading inside th
 
 > Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
 
-### R71-105-PROOF_ORDER_WORK [Combat Law 2026-10-04 ME4]
-
-The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
-
-> Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
-
-### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
-
-Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
-
-> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
-
 ### R78-10-SYSTEMS_CONNECT [Directions 2026-10-14 connections-questionnaire]
 
 Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides contests, Aether Class sets eta, drain as time from full; Second Release powers the Domain; spending shown by a fixed tell ladder; fight Drafts refill; tags fuelled per tag, practitioners only; three roads meet each Catalyst; release forms canon with new card fields; disciple ranks in schools and houses; renown per audience, warrants and bounties, epithets; Stage-bracket tournaments; Draft prices x3 a Stage; Malphas the great villain over about ten numbered lieutenants; Well-spawn masks as weak points; proposed crews; skips through pass_time.
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
+
+### R79-1-NATALIE_WRITES_HIS_PC [Directions 2026-10-17 prose-rp-questionnaire]
+
+Natalie may write his PC (act, speak, think, explicit scenes included); his post wins; other creators' characters hands-off; every in-fiction reply ~3,500 words, set pieces and Discord included; a turn stops at his real decision.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): Natalie writes his PC. In any turn or scene she may move his player character, give him lines, and write his thoughts and feelings, in his voice from his card, explicit scenes included, consensual or forced. His post, a redirect or his rewrite always wins over what she wrote. Characters belonging to other creators (Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem, Sonzai) stay hands-off. Every in-fiction reply runs about 3,500 words, set pieces and Discord posts included; out-of-character answers run at their own length. A turn carries him through the beat and the routine and stops at a decision that is genuinely his: a risk, a bargain, a fight, a line that matters.
+
+### R79-2-LEAN_TABLE [Directions 2026-10-17 prose-rp-questionnaire]
+
+No close (archive only), nothing printed under turns, straight into play from a beat, Scene Menu only without one; one verify_scene a turn; once-per-scene kits, context, research; brief rulebook once; docket decided at the table; lies only where wanted; no notice quota; abilities explained unprompted.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): the table runs lean. There is no scene close: when a scene ends it is archived with archive_scene and nothing else is written (no State of Play rewrite, Ledger, Front, roster or Inventory update) unless he asks. Nothing is printed under a turn: no OOC foot, no rule ids, no notes block; full author notes only when a scene is archived. Session start: given a beat, Natalie opens on the place-and-hour header and writes; the Scene Menu only when he gives no beat, three hooks from anywhere with no source rule and no reward or penalty lines; the Rumor Mill, pass_time at start, the printed recap and the limits statement retire (limits only at the start of a brand-new chat). Per turn: one verify_scene, every FAIL fixed, WARNs read but not looped; once per scene: kits and FOW lines, scene_context, and research only of what is new, reused after; scene_brief and the full pipeline for set pieces only. The live rulebook is loaded in brief once a session, a domain in full text on first use, and never re-read after compaction. An open docket item is decided at the table and the writing goes on. NPCs lie where their want makes them, with no required lie per NPC. No unexplained-notice quota anywhere. When he sketches an ability out of character, Natalie supplies how it works without being asked.
+
+### R79-8-TABLE_MEMORY_AND_MACHINERY [Directions 2026-10-17 coverage-questionnaire]
+
+Silent upkeep of Ledger, Fronts, roster and cards; State of Play retired; start from the last archived scene; Judger retired; PC new uses not growth; improve is a free rewrite; Discord 3,500 always, only his PC, pasted in chunks, cards only for PvP; cross-read on request; lean loading for every model.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): the table's memory and machinery. Natalie keeps the Ledger, the Fronts, the NPC roster and the character cards current quietly as scenes happen, never printed; session_end is that silent upkeep with archive_scene, and lasting changes (a wound that stays, Crystal State, Level, Stage, a technique he approved, renown) go onto the card then. The State of Play pages are retired; a session learns where a thread stands from its last archived scene and the Ledger, and session_start returns that, the Inventory, what is due and the inbox, for any thread. The Judger close is retired. She may give his PC inventive new uses of his abilities; new techniques, Level points and card changes stay his. Improving his post is a free rewrite that keeps his intent. On Discord every Natalie post runs about 3,500 words, multiplayer threads included; she writes only his PC there, never a guest's; long posts are marked at paragraph breaks for him to paste in chunks; an adjudication card is posted only when two players' characters contest a thing or a player asks. The cross-read stays on request only. ChatGPT and Codex load the rulebook the same lean way as Claude.
+
+### R79-12-MACHINE_AROUND_WRITING [Directions 2026-10-17 coverage-questionnaire]
+
+Nightly slimmed; book timer off, quotas stripped; idle services stopped, read-only MCP fixed; Paperclip text gone; sessions read by task; repo is the only skill source, skills consolidated; orphaned tools deleted; core MCP surface with an ops flag; sync tidied.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): the machine around the writing. The nightly job keeps validate, sync, backup and push health and new archives, and drops the recurrence report, the prose pass, the Büri sweep and the nightly ChatGPT review; its findings baseline resets after this apply. The book timer is disabled and chapters run when he asks; the book pipeline loses its lie and misreading quotas and rhythm FAILs, and BOOK_PIPELINE.md becomes a short spec of the workflow. n8n, the jobs server and the loopback MCP are stopped and disabled; the read-only MCP's token is fixed. The Paperclip leftovers go and CLAUDE.md says Natalie rules openly through log_ruling; writing and roleplay sessions read NATALIE and the brief rulebook, while CONTINUE, SHARED_MEMORY and the phase stops apply to rules and code work, and CONTINUE keeps recent blocks with its history moved to a file. The repo is the only source of the WOTR skills: the claude.ai-synced copies go, wotr-rp folds into wotr-write as its turn section, wotr-rules into a wotr-write reference, and the judger retires. recurrence_report, voice_check, voice_fingerprints and prose_pass are deleted, gap_fill kept as an advisory; handoff is cut to research and images, the stuck research item cleared, and Claude Code skips the natalie call. The MCP's default surface is a core of about twenty writing tools, the rest behind an ops flag. The sync keeps its fifteen-minute autosave, drops the Drive step, renders the Ledger, Fronts and roster but not State of Play, alerts only on push failure, and its backup check is fixed.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -16965,12 +15453,6 @@ A romance may count as a thread's standing warm bond, but each thread also keeps
 A bond gets scenes of its own joy before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix.
 
 > Lived first, then cost. A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.
-
-### R73-43-PROOF_TEST_SCENE [Intimacy Law 2026-10-04 ME4]
-
-The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
-
-> Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
 
 ### R74-3-WHEN_SECRETS_PAY [Mystery Law 2026-10-04 K3]
 
@@ -17050,12 +15532,6 @@ A scheme may nest as deep as its faction can afford, and every layer leaves at l
 
 > Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
 
-### R74-37-BETRAYAL_TRUSTED [Mystery Law 2026-10-04 IN3]
-
-The thread's standing warm bond never betrays by choice, and anyone else may betray only with the signs shown twice before the turn.
-
-> The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).
-
 ### R74-38-LEVERAGE_BLACKMAIL [Mystery Law 2026-10-04 IN4]
 
 A secret works as leverage while it stays unspoken and breaks when spoken openly, opening the victim's Front against whoever spoke it, and every held secret is also a Ledger risk against its holder: someone wants the secret, or the man who holds it, gone.
@@ -17074,23 +15550,11 @@ Courts and files can be bought, lost or sealed, and every such corruption leaves
 
 > Bought, with a trail. Courts and files can be bought, lost or sealed, and every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries; finding it reopens the case.
 
-### R74-43-WHERE_MYSTERY_LAW_LANDS [Mystery Law 2026-10-04 ME1]
-
-The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/ for Natalie to read before a dark or scheming scene.
-
-> Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.
-
 ### R74-44-WHAT_TABLE_KEEPS_PAPER [Mystery Law 2026-10-04 ME2]
 
 Every faction with a Front gets a sheet on the Powers page model (wants, holds, fights by, set against, fears, its method and its seam), and the roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC.
 
 > Yes to: Faction sheets (Every faction with a Front gets a sheet on the Powers page model: wants, holds, fights by, set against, fears, its method, and its seam); What NPCs know of him (The roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC).
-
-### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
-
-Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
-
-> Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
 ### R70-40-WIDE_DESCRIPTION_MUST_RANGE [Style Law 2026-10-03 DS1]
 
@@ -17134,12 +15598,6 @@ Leave every archived scene as written and add a law-edition column to scenes/MAN
 
 > Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.
 
-### R70-138-PROOF_ORDER_WORK [Style Law 2026-10-03 ME4]
-
-The style law binds as logged, one test scene in a live thread follows, anything that reads wrong becomes a dated amendment, and only then is a sample bank written for Kharven, Moto, Accord, the Mahuo and the lineage halls.
-
-> Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.
-
 ### R72-1-SESSION_PROMISES [Table Law 2026-10-04 K1]
 
 Natalie keeps each thread working toward its next set piece and puts one payoff the PC can earn within reach every session, alongside a fresh cost.
@@ -17152,12 +15610,6 @@ Natalie makes every call at the table herself, a carded NPC's death or a new fac
 
 > Natalie decides everything. "Bigger things wait" is struck. Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.
 
-### R72-3-REPLIES_RUN_LONG [Table Law 2026-10-04 K3]
-
-A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly, and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
-
-> Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.
-
 ### R72-4-WHERE_TURN_STOPS [Table Law 2026-10-04 K4]
 
 A turn runs past pauses Isaac's PC would let pass and stops when something presses him (a question to him, an offer, a threat, a clock), and any line aimed at him always stops it.
@@ -17169,36 +15621,6 @@ A turn runs past pauses Isaac's PC would let pass and stops when something press
 In any scene, not only a fight, Isaac may post conditions such as 'if she names the stair, I ask for the daybook'; Natalie runs them to the first branch they miss, and his PC speaks only the words Isaac posted.
 
 > Every scene type. Post conditions anywhere ("if she names the stair, I ask for the daybook"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words.
-
-### R72-12-TABLE_TALK_NOTES [Table Law 2026-10-04 TU5]
-
-At the Desktop table a turn gives the prose first and, below a divider line, a short foot of OOC lines, and the full author notes are written once, when archive_scene files the finished scene.
-
-> Foot now, file at archive. Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it.
-
-### R72-13-FOOT_CARRIES [Table Law 2026-10-04 TU6]
-
-The OOC foot under a turn carries one line per call Natalie made that turn, marked as an agent ruling Isaac may overturn, one line per Ledger line and Front tick the turn caused, and two to four rule ids that bound it with the stat row behind any adjudicated outcome.
-
-> Yes to: Calls made (One line per call Natalie made this turn (a new NPC, a fact, an estimate), each marked as an agent ruling you may overturn); What it cost (The Ledger lines and Front ticks the turn caused, one line each, so nothing is lost before the session close); Rules and the deciding row (Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)).
-
-### R72-14-PREVIOUSLY_LINE [Table Law 2026-10-04 TU7]
-
-A session's first turn opens with the scene header (place, day, hour), then two or three plain OOC lines on what happened last, what is owed and what is ticking that the PC knows of, and then the prose.
-
-> Header and "previously". The header, then two or three plain OOC lines: what happened last, what is owed, what is ticking that your PC knows of. Then the prose.
-
-### R72-15-CARRIES_RUMOR_MILL [Table Law 2026-10-04 TU8]
-
-The Rumor Mill's news may come from one NPC who wants to know things first and gets some of it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from people the PC overhears talking among themselves.
-
-> Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).
-
-### R72-16-RUMOR_MILL_RUNS [Table Law 2026-10-04 TU9]
-
-The Rumor Mill gives two or three items as each session opens and, on the PC's first arrival at a town, hall, camp or market, that place's own talk.
-
-> Yes to: Session start (Two or three items as each session opens, as now); Each new place (On first arrival at a town, hall, camp or market, that place's own talk).
 
 ### R72-17-SCENE_MENU [Table Law 2026-10-04 TU10]
 
@@ -17284,12 +15706,6 @@ If his character dies the thread goes on and his next character enters it, the d
 
 > The world goes on. The thread goes on and your next character enters it. The dead man's debts fall on kin or partners, his Fronts keep their clocks, and a grief Front may open (R58-07).
 
-### R72-33-WRITES_CLOSE [Table Law 2026-10-04 WD14]
-
-At his wrap and whenever a scene is archived, Natalie applies the session close herself and lists each write once as an agent ruling he may overturn, and nothing waits for his word.
-
-> Applied, then listed. At your wrap and whenever a scene is archived, Natalie applies the close herself and lists each write once as an agent ruling (a call you may overturn); nothing waits.
-
 ### R72-34-SCENES_SET_PAST [Table Law 2026-10-04 WD15]
 
 A scene set before its thread's live moment adds canon and precedent, and writes a Ledger line or Front history only for what still binds at the thread's live date, which the close checks.
@@ -17331,24 +15747,6 @@ When a scene with other players is archived, the Judger marks each canon break s
 On Discord the bot's /due and /ledger show a player only the Ledger lines about their own characters, /roster and /npc show an NPC's public face only (name, look, voice, role) while wants, lies and what it knows stay with the Judger, and each ruling's adjudication card is posted in the scene's thread so any player can see which stat rows decided it.
 
 > Yes to: Their own Ledger lines (/due and /ledger show a player only the lines about their own characters); Public faces on the roster (/roster and /npc show what is public: name, look, voice, role. Wants, lies and what they know stay with the Judger); Adjudication cards (Each ruling's card is posted in the scene's thread, so any player can see which stat rows decided it).
-
-### R72-41-WHERE_TABLE_LAW_LANDS [Table Law 2026-10-04 ME1]
-
-The table answers land as one dated Table Law doc logged through log_ruling, NATALIE.md's Table Rules and Session Protocol rewritten to it with a new multiplayer section, the wotr-rp, wotr-ledger, wotr-npc and judger skills rewritten, and MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands as R72-40-PLAYERS_CAN_LOOK_UP sets them.
-
-> C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6.
-
-### R72-42-DATA_ALREADY_FILE [Table Law 2026-10-04 ME2]
-
-The data already on file gets one reconciliation pass: every open Ledger row gains a thread and a date or trigger under the new law, dead and stale lines retire with a note, every Front gets a pace, and the State of Play pages are rewritten.
-
-> One reconciliation pass. Every open row gets a thread and a date or trigger under the new law; dead and stale lines retire with a note; Fronts get a pace; State of Play pages are rewritten.
-
-### R72-43-TEST_SESSION [Table Law 2026-10-04 ME3]
-
-The table work runs in order: log the law, change the tools and reconcile the data, run one Desktop session from start to close and one Discord scene through the full loop, amend, and only then rewrite the skills.
-
-> Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.
 
 ### R75-37-RIVAL_BETWEEN_MEETINGS [Techniques Law 2026-10-04 CH12]
 
@@ -17422,23 +15820,11 @@ Full check on every roleplay turn: every turn passes the full checker.
 
 > Full check on every roleplay turn: every turn passes the full checker.
 
-### R48-46-WORD_FLOOR [Writing Law 2026-09-26 Process]
-
-Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
-
-> Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
-
 ### R48-47-NOTES [Writing Law 2026-09-26 Process]
 
 Full author notes go in the scene file (rule ids, stat ledger, research, costs); chat gets a short summary.
 
 > Full author notes go in the scene file (rule ids, stat ledger, research, costs); chat gets a short summary.
-
-### R48-48-EXPLAIN [Writing Law 2026-09-26 Process]
-
-The partner explains the physics and metaphysics only when asked; working it out is part of the challenge.
-
-> The partner explains the physics and metaphysics only when asked; working it out is part of the challenge.
 
 ### R48-49-CITATIONS [Writing Law 2026-09-26 Process]
 
@@ -17452,25 +15838,13 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (101)
-
-### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
-
-Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.
-
-> Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.
+## standing-inventory (86)
 
 ### R20C-48-ZETTARI_THIN_GROUND [Pack Twenty R20C-48]
 
 The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first.
 
 > The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first. They are the best smiths in the four quarters because they had to be, and insufferable about it because being best is the only thing that ever compensated them.
-
-### R20C-57-INVENTORY_PAGES_BUILD_ORDER [Pack Twenty R20C-57]
-
-The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave.
-
-> The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave.
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 
@@ -17508,12 +15882,6 @@ Food, the greeting, oaths and obscenity, colloquial time, the dead, the househol
 
 > A per-culture register of non-magical material idiom, built and maintained as canon. Nine required categories:
 
-### R6-9-RECURRENCE_RULE [Pack Six PART II.9]
-
-Every scene draws texture from the Inventory before inventing anything; anything newly invented is entered into the Inventory the same session or it does not exist; each culture designates three-to-five high-frequency signature items on the Recurrence Ledger.
-
-> Identity is repetition. Novelty is its enemy.
-
 ### R6-10-INVENTORY_AND_ELEGY [Pack Six PART II.10]
 
 Pack Five's elegiac register requires a named concrete thing that is gone, and the Inventory is where those things live; elegy without an Inventory is grief for abstractions, which Pack Five already bars.
@@ -17525,12 +15893,6 @@ Pack Five's elegiac register requires a named concrete thing that is gone, and t
 Elegy attaches to a named concrete, specific thing that is gone (a road, a dye colour, a lost word, a dying craft), never to abstractions; grief for "the old world" is furniture.
 
 > Elegy attaches to a named concrete thing that is gone. A road nobody maintains. A dye colour nobody can make since the salt corridor closed. A word that survives only in a formula whose meaning is lost. A craft with three living practitioners. Never to abstractions; grief for "the old world" is furniture.
-
-### R4-13-THIRD_RECURRENCE [Pack Four Amendment Thirteen]
-
-A loaded word gets one physical response on first use and no comment; meaning arrives on the third appearance through change — another character uses it, the usual user withholds it, or register makes earlier uses retroactively legible. Withholding is the strongest of the three.
-
-> A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
 
 ### R64-7-WEIGHT_BRED_FOLK_BELIEF [Alftian Codex Volume I Ratification 2026-09-28 vol1 7]
 
@@ -17609,6 +15971,12 @@ Commerce shows on the page as branded goods and advertising, chartered share-hol
 Succession follows each culture's own law, set on its Inventory.
 
 > Succession follows each culture's own law, set on its Inventory.
+
+### R79-3-PROSE_WITHOUT_STATISTICS [Directions 2026-10-17 prose-rp-questionnaire]
+
+Every rhythm, sentence-length and count rule retires; a revelation may take a short line and its consequence gets room; developed paragraphs; vocabulary rich with no count; Kharven recurrence gone; description a toolbox; Inventories reference only; no epithet count.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): prose carries no statistics. Every sentence-length, rhythm and count rule retires: the run rule, the long-sentence chain ceiling, the short-sentence floor, the variation target, the payoff word cap, the clause and conjunction caps, the landing rule and the approach ladder, the paragraph-shape rules and their checks, the filter-verb rate, the opener cap, the fragment cap and the simile-pair check. A revelation may take a short line; its consequence gets room. A one-line paragraph stands wherever the movement around it earns it. Paragraphs are developed, following the mind's movement as The Weak Grade shows. Vocabulary is rich, with no count and no saturation or stacking rule; the word chosen still carries more than its plain substitute. The Kharven recurrence minimum is gone entirely, its check and its book-pipeline FAIL with it; the items stay as Inventory texture. Description is a toolbox with no per-beat or per-scene minimums. Standing Inventory entries are reference, with no sizes and no draw-first order. Narration names people the way the POV sees them, with no epithet count.
 
 ### R59-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -17700,12 +16068,6 @@ The Draw Age keeps a trade in sex in each culture's own form (the Accord licensi
 
 > Each culture's own form. The Accord licenses houses under seal and inspection, Eastern courts keep ranked quarters or verse-trained entertainers, the north keeps no house and trades in kind; entered in CO1's Mores field, fees as price-table rows on your word.
 
-### R73-40-WHERE_INTIMACY_LAW_LANDS [Intimacy Law 2026-10-04 ME1]
-
-The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
-
-> B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
-
 ### R22-7-KHARVEN_INVENTORY_KEPT [Moto Reversion Ledger VII]
 
 The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
@@ -17766,35 +16128,11 @@ Take what is in the room from the place's Standing Inventory and let the POV's c
 
 > Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.
 
-### R70-45-NEW_STANDING_INVENTORY_FIELDS [Style Law 2026-10-03 DS6]
-
-Every Standing Inventory gains fields for land, sky, seasons and living things (with temperature in the senses entry), for building, house plan, dress by rank and the street, for music, games and one or two festivals written as performed, and for law and punishment, succession, and roads, vehicles and inns.
-
-> Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).
-
 ### R70-48-MONEY_PRICE_PROVENANCE [Style Law 2026-10-03 DS12]
 
 Name the sum of every purchase, wage, fee and bribe on the page in the culture's money from the approved price table (payment in kind named as exactly), and describe a notable object through who made, carried, mended and died with it, with Tier and price kept off unless asked.
 
 > Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.
-
-### R70-51-REPETITION_AGAINST_NOVELTY [Style Law 2026-10-03 DS11]
-
-Keep each culture's two signature items per session, and in every scene also add one subject the thread has not yet described, logging it as canon.
-
-> Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).
-
-### R70-58-CHECKING_RANGE [Style Law 2026-10-03 DD7]
-
-verify_scene WARNs, never FAILs, when a scene touches too few rotation groups or one group takes more than half, and the signature-item count runs for every culture's Inventory, not only Kharven's.
-
-> Census as a WARN. The census WARNs when a scene touches too few groups or one group takes over half, and the signature-item count extends from Kharven to every Inventory.
-
-### R70-59-WHERE_COMPARISONS_COME_FROM [Style Law 2026-10-03 DT1]
-
-Draw comparisons from the POV's own life by default, and let any POV of a culture use that culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
-
-> Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.
 
 ### R70-60-COLOUR_AS_SYMBOL_PER [Style Law 2026-10-03 DT2]
 
@@ -17813,12 +16151,6 @@ Let each culture's season words place time and weather in one word in narration 
 State in each Standing Inventory what its people prize and despise in age, and let a POV see wear, mends and age through that culture's eye, so one object may be beautiful to one guest and shameful to another.
 
 > Beauty, keyed by culture. Each Inventory states what its people prize in age and what they despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked bowl.
-
-### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
-
-Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
-
-> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
 
 ### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
 
@@ -17861,12 +16193,6 @@ Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming s
 Amend only the naming rows the comic-name answers bend, each in one line naming its answer (R50-30 for the sound check, R50-27 for walk-on nicknames), and give each culture's naming rows a clause pointing to its comic bank in its Standing Inventory so load_rules serves the bank with the law; banks and sound rules otherwise stand.
 
 > Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)
-
-### R72-15-CARRIES_RUMOR_MILL [Table Law 2026-10-04 TU8]
-
-The Rumor Mill's news may come from one NPC who wants to know things first and gets some of it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from people the PC overhears talking among themselves.
-
-> Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).
 
 ### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
 
@@ -17976,18 +16302,6 @@ Commoners regard practitioners with awe and worship: a ranked practitioner is ha
 
 > Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
 
-### R53-19-QUOTA [World Texture Law 2026-09-26 World texture]
-
-Every culture's signature-item quota is two per session, like Kharven's.
-
-> Every culture's signature-item quota is two per session, like Kharven's.
-
-### R53-20-MISSING_INVENTORY [World Texture Law 2026-09-26 World texture]
-
-When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
-
-> When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
-
 ### R53-21-CANON_GATE [World Texture Law 2026-09-26 World texture]
 
 Texture the partner invents in play is canon once logged; Isaac can strike it later.
@@ -17999,12 +16313,6 @@ Texture the partner invents in play is canon once logged; Isaac can strike it la
 The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
 
 > The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
-
-### R53-23-MIXED_ROOM [World Texture Law 2026-09-26 World texture]
-
-A mixed room layers every culture present in roughly equal measure.
-
-> A mixed room layers every culture present in roughly equal measure.
 
 ### R53-24-TEXTURE_AND_MECHANISM [World Texture Law 2026-09-26 World texture]
 
@@ -18036,18 +16344,6 @@ The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy
 
 > The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspiration. (Isaac: "I want it to look like lord of mysteries or Victorian imperial aged fantasy I don't like the beast or vinland saga reference wotr has its own thing its own texture invented entirely for the world itself it mostly takes from real world inspo etc".)
 
-### R53-29-LOOK_UP [World Texture Law 2026-09-26 World texture]
-
-The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
-
-> The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
-
-### R53-30-TEXTURE_DENSITY [World Texture Law 2026-09-26 World texture]
-
-Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
-
-> Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
-
 ### R53-31-GONE_LIST [World Texture Law 2026-09-26 World texture]
 
 Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
@@ -18060,7 +16356,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (211)
+## stats (197)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -18098,23 +16394,11 @@ Before any scene with a named practitioner, and before designing any technique, 
 
 > Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.
 
-### R14-2-ESTIMATE_MARKING [Pack Fourteen §2]
-
-Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.
-
-> Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such. It is never invented to feel right. Memory rule twenty-six governs and this pack restates it because the failure recurs.
-
 ### R14-3-STATS_DECIDE_TABLE [Pack Fourteen §3]
 
 Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
 
 > Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.
-
-### R14-3-TRACEABILITY [Pack Fourteen §3]
-
-Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
-
-> Every outcome in a fight traces to a row in this table, and the author notes say which.
 
 ### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
 
@@ -18128,53 +16412,17 @@ A term not in the source is flagged as originated; a near-miss (a renamed Stage,
 
 > A term not in the source is originated, and flagged as originated in the notes. A near-miss (a Stage renamed, a Wellspring misspelt, a Family misassigned, a Category misaligned) is a fail at verification, not a warning.
 
-### R14-5-BUILD_TERMS_LIST [Pack Fourteen §5]
-
-Build a canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet and the Categories page, one term per line with its class, for the verification script to check against.
-
-> The build task. A canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet, and the Categories page. One term per line with its class. The script checks against it.
-
 ### R14-6-CHECK27 [Pack Fourteen §6]
 
 Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.
 
 > Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distance one or two from a canonical term) fail.
 
-### R14-6-CHECK29 [Pack Fourteen §6]
-
-The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
-
-> Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.
-
-### R14-6-NUMBERS_GREP [Pack Fourteen §6]
-
-Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md before presenting; if it is not there, it is marked an estimate.
-
-> Numbers. Any figure in the Stat Ledger grepped against Fracture_of_Worlds.md before presenting. If it is not there, it is marked estimate.
-
-### R14-7-STAT_LEDGER_CONTENTS [Pack Fourteen §7]
-
-Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
-
-> Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.
-
-### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
-
-Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
-
-> WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
-
 ### R14-8-CHARACTER_SHEET_FOW_LINE [Pack Fourteen §8]
 
 The character sheet template is otherwise unchanged; its Techniques section gains the FOW line.
 
 > Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.
-
-### R14-8-COMBAT_GUIDE_ADJUDICATION [Pack Fourteen §8]
-
-§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).
-
-> WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.
 
 ### R14-8-STAT_SHEET_SOURCE_OF_TRUTH [Pack Fourteen §8]
 
@@ -18223,12 +16471,6 @@ WOTR runs an Eastern skeleton under Western flesh; the systematic density (Stage
 Essence is finite per practitioner per day and replenishes slower than expenditure under load; every technique's Cost field must be legible to the character using it, who never discovers mid-technique that they are empty.
 
 > Essence is finite per practitioner per day, replenishment is slower than expenditure under load, and the practitioner always knows what they have left. Design consequence: every technique's Cost field must be legible to the character using it. A practitioner never discovers mid-technique that they are empty.
-
-### R2-6-REPLENISHMENT_RULE [Pack Two Amendment Six.3]
-
-Essence cannot be shipped (it leaks in transit, needs an untransportable instrument to assay, dies with its owner); no consumable, technique or item may restore a practitioner's magazine.
-
-> A practitioner is refilled by a Wellspring, or not at all. Essence cannot be shipped: it leaks in transit, cannot be assayed without an instrument that does not travel, and dies with its owner. Design consequence: no consumable restores a practitioner's magazine. Any technique, item or draft proposed to do so is refused at design.
 
 ### R2-6-VOIDIC_COUNTER [Pack Two Amendment Six.5]
 
@@ -18350,12 +16592,6 @@ A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-b
 
 > Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.
 
-### R61-101-NO_DRAFT_REFILLS_RESERVE [Alchemy Conversion Questionnaire 2026-09-28 EC2]
-
-Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.
-
-> R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.
-
 ### R61-102-BENCH_TIERS_CAP_ALCHEMISTS [Alchemy Conversion Questionnaire 2026-09-28 EC3]
 
 A Crystal-less alchemist holds a Tier of Standing up to Five (Expert) by bench certification rather than by reading a Crystal, and that Tier caps what they can make.
@@ -18451,12 +16687,6 @@ A Path gate binds only the component it names: where a working relies on a Sub-S
 C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
 
 > C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
-
-### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
-
-For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
-
-> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
 
 ### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
 
@@ -18602,12 +16832,6 @@ At a sanctioned bout the Measurewright says her reading aloud as she takes it, s
 
 > Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
 
-### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
-
-Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
-
-> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
-
 ### R60-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
@@ -18631,6 +16855,12 @@ Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia
 Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides contests, Aether Class sets eta, drain as time from full; Second Release powers the Domain; spending shown by a fixed tell ladder; fight Drafts refill; tags fuelled per tag, practitioners only; three roads meet each Catalyst; release forms canon with new card fields; disciple ranks in schools and houses; renown per audience, warrants and bounties, epithets; Stage-bracket tournaments; Draft prices x3 a Stage; Malphas the great villain over about ten numbered lieutenants; Well-spawn masks as weak points; proposed crews; skips through pass_time.
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
+
+### R79-10-NUMBERS_AND_SYSTEMS [Directions 2026-10-17 coverage-questionnaire]
+
+Sources by field; formulas recomputed, outliers stand; estimates plain and canon; fight Drafts refill, paid in the crash; self-boosts inside the two-Grade cap; Grade decides, Stage limits; stats decide out of sight; money named; one item ladder; faculty reads estimate in fights; EU on cards, duration on the page; tell thresholds law, words free.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): numbers and systems. Sources are read by field: Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent; Natalie resolves by that order and moves on. Formulas that must always compute (1 EU = 1 MJ; AU/s = Flux times eta) are recomputed; bands and ladders are typical ranges and a card's outlier stands. A missing figure is derived from the Fracture of Worlds tables, written plainly with no mark, canon on use, and a source value beats it on contact; no pending fields. A fight Draft refills reserve and the crash pays for it. The two-Grade stacking cap counts every self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card; only outside help (allies, arrays, Domains) sits outside it; items work at their own Tier. The Grade of the stat in use decides a contest; the Stage gap governs Pressure and the upset limit; ties break on the read, then what is left to spend, then the ground. The stats decide out of sight: no deciding-row citations, no Stat Ledger; archive notes name a row only for a contested or turning outcome; the gap-fill pass runs only for set pieces and his submitted fights, unlogged. Money that changes hands is named; an item's Tier and price appear once, when the POV would see them; a Draft needs only a plausible source. One item ladder decides out of sight: a proofed round strikes one Tier over the target armour and a named round two, makers graded by Tier of Standing. In a fight a faculty read is an estimate in thought or speech; exact figures print only outside a fight. Cards keep EU as the source of truth with a line for how long a working lasts from full; the page uses duration and body tells. The running-low thresholds are world law; their wording is free.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -19127,18 +17357,6 @@ Inside a scene a readout may come from an appraisal of a person, beast or item, 
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
 
-### R70-86-MANY_READOUTS_SCENE_CARRIES [Style Law 2026-10-03 LR9]
-
-A scene carries at most three readouts, at the display, the finisher and the aftermath, and a roleplay turn at most two, never two in one exchange.
-
-> Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.
-
-### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
-
-During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
-
-> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
-
 ### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
 
 When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
@@ -19325,19 +17543,7 @@ Every card carries a line naming its bearer's next Stage, that Stage's Fracture 
 
 > Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
 
-### R75-44-WHAT_JOINS_CARD_SWEEP [Techniques Law 2026-10-04 ME2]
-
-The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.
-
-> Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
-
-## verification (128)
-
-### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
-
-The sweep has two tiers. Canon pages get swept — body text, not just titles.
-
-> The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and "Tengeriin"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run.
+## verification (91)
 
 ### R20C-55-COST_AUDIT_ON_CONTACT [Pack Twenty R20C-55]
 
@@ -19356,12 +17562,6 @@ Retroactive passes: forward-only, corrected on contact. Covers both the Kharven 
 A canon-breaking line in Isaac's dialogue is flagged once in author notes and left standing, untouched, unless Isaac rules otherwise.
 
 > Where a line genuinely breaks the world — a term that contradicts canon, a name that has been retired, a claim that cannot be true — Natalie flags it in one sentence in the author notes and leaves the line standing unless Isaac rules otherwise. The draft is not touched.
-
-### R19-5-SORT_BY_SPEAKER_TEST [Pack Nineteen §5]
-
-If a stranger could not sort a scene's dialogue lines by speaker with the tags covered, the scene fails as a Pack Nineteen violation, not merely a voice-differentiation warning.
-
-> Cover the dialogue tags and read the lines. If a stranger could not sort them by speaker, the scene failed, and the failure is now a Pack Nineteen failure and not merely a voice-differentiation warning.
 
 ### R19-7-CHECK40 [Pack Nineteen §7]
 
@@ -19429,29 +17629,11 @@ Where a coinage collides with existing canon, the collision is surfaced and both
 
 > Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.
 
-### R16-8-CHECK30 [Pack Sixteen §8]
-
-A scene with a working, exchange or injury must carry at least four WOTR technical-lexicon terms and at least two correctly-used real scientific/anatomical terms in the narration outside italics; false positives are reviewed by reading.
-
-> Check 30 — Conversion density. A scene containing a working, an exchange, or an injury carries at least four terms from the WOTR technical lexicon and at least two correctly-used real scientific or anatomical terms, in the narration, outside italics.
-
-### R16-8-CHECK31 [Pack Sixteen §8]
-
-No mechanism term may appear in the author-notes block that does not also appear in the prose body.
-
-> Check 31 — Export. No mechanism term appears in the author-notes block that does not also appear in the prose body.
-
 ### R16-8-CHECK32 [Pack Sixteen §8]
 
 Every distinctive term in the submitted rough must appear in the output in one of the four routed forms, or be listed as dropped in the notes; false positives are reviewed by reading.
 
 > Check 32 — Coinage retention. Every distinctive term in the submitted rough appears in the output in one of the four routed forms, or is listed as dropped in the notes.
-
-### R16-8-CHECK33 [Pack Sixteen §8]
-
-Fewer than half of a scene's technical terms may sit inside italic thought.
-
-> Check 33 — Italic quarantine. Fewer than half of a scene's technical terms sit inside italic thought.
 
 ### R15-1-AI_TELL_CHECKS_SURVIVE [Pack Fifteen §1]
 
@@ -19465,18 +17647,6 @@ wotr_verify.sh has no check that touches register, and this pack adds none.
 
 > wotr_verify.sh. No check touches register. None is added.
 
-### R14-2-ESTIMATE_MARKING [Pack Fourteen §2]
-
-Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.
-
-> Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such. It is never invented to feel right. Memory rule twenty-six governs and this pack restates it because the failure recurs.
-
-### R14-3-TRACEABILITY [Pack Fourteen §3]
-
-Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
-
-> Every outcome in a fight traces to a row in this table, and the author notes say which.
-
 ### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
 
 The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
@@ -19489,29 +17659,11 @@ A term not in the source is flagged as originated; a near-miss (a renamed Stage,
 
 > A term not in the source is originated, and flagged as originated in the notes. A near-miss (a Stage renamed, a Wellspring misspelt, a Family misassigned, a Category misaligned) is a fail at verification, not a warning.
 
-### R14-5-BUILD_TERMS_LIST [Pack Fourteen §5]
-
-Build a canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet and the Categories page, one term per line with its class, for the verification script to check against.
-
-> The build task. A canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet, and the Categories page. One term per line with its class. The script checks against it.
-
 ### R14-6-CHECK27 [Pack Fourteen §6]
 
 Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.
 
 > Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distance one or two from a canonical term) fail.
-
-### R14-6-CHECK29 [Pack Fourteen §6]
-
-The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
-
-> Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.
-
-### R14-6-NUMBERS_GREP [Pack Fourteen §6]
-
-Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md before presenting; if it is not there, it is marked an estimate.
-
-> Numbers. Any figure in the Stat Ledger grepped against Fracture_of_Worlds.md before presenting. If it is not there, it is marked estimate.
 
 ### R14-8-STAT_SHEET_SOURCE_OF_TRUTH [Pack Fourteen §8]
 
@@ -19542,12 +17694,6 @@ Table Rule 5's contested-action decisions must be reconstructible from the page;
 Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN), causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures in notes under R77-2, while written scenes keep the full floor.
 
 > wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
-
-### R13-9-NOTES_TEMPLATE_SECTIONS [Pack Thirteen §9]
-
-"Added by the gap-fill pass" and "Phenomenon line" become standing sections of the author notes template.
-
-> Author notes template. Added by the gap-fill pass and Phenomenon line become standing sections.
 
 ### R12-1-APPARATUS_CAP_STRUCK [Pack Twelve §1]
 
@@ -19585,41 +17731,11 @@ Magnitude runs Ambient through Core with attested rungs (Ambient Saturation, Act
 
 > Magnitude, the density scale. Runs Ambient through Core. Attested rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core. Flag: the intermediate rungs need pulling from source before any scene uses them. Never invent one.
 
-### R10-2-CATEGORY_READ_EXCEPTION [Pack Ten PART TWO]
-
-A scene's single diagnostic read (the Apparatus Rule's existing budget, not a new one) may be spent naming the category instead of a Wellspring or Family; naming a category doesn't trip Check 20, but it still costs the scene's only read.
-
-> One exception, and it is the Apparatus Rule's existing budget, not a new one. A scene's single explicit diagnostic read may be spent naming the category instead of naming a Wellspring or Family — a scholar, examiner, or rival practitioner gets one line: "That's Animatria. It isn't a real animal." Naming a category is not accounting for why it works, so it does not trip Check 20. It still costs the scene's only read, and after it the faculty goes silent same as always.
-
-### R10-3-UNCHANGED_CONSTRAINTS [Pack Ten PART THREE]
-
-A projected shape still counts toward the one splash-panel beat per scene (Pack Nine), still costs the one diagnostic read per scene if the category is named, and the ignorance quota/misreading budget are untouched — a POV may see a projected shape and get it wrong.
-
-> - One splash-panel beat per scene (Pack Nine) still governs the moment the shape is at its most visually loud. - One diagnostic read per scene (Part Two above) still governs any naming of the category itself. - Ignorance quota and misreading budget are untouched.
-
-### R9-3-COST_UNCHANGED [Pack Nine PART THREE]
-
-The ignorance quota, the misreading budget, and the one-read Apparatus Rule bind a Stage-display beat exactly as hard as any other scene.
-
-> Cost, unchanged. The ignorance quota, the misreading budget, and the one-read Apparatus Rule still bind a Stage-display beat exactly as hard as any other scene.
-
 ### R8-16-OVERUSE_STRAINS_FAILURE [Pack Eight 1.6]
 
 "Overuse strains him" remains a failing drawback and always was.
 
 > "Overuse strains him" remains a failure and always was.
-
-### R8-4-RETROACTIVE_TASKS [Pack Eight 4]
-
-Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
-
-> Folds into the cost audit instead of running as a separate pass.
-
-### R7-5-COST_AUDIT [Pack Seven PART FIVE]
-
-An estimated sixty percent of existing technique entries fail the test that "overuse strains him" is not a real cost; every failure needs a real cost category, something the character still carries when nobody is fighting.
-
-> The cost audit. Working estimate is that sixty percent of existing technique entries fail the test that overuse-strains-him is not a cost. Every failure needs a real category from the wheel: something the character still carries when nobody is fighting. This is the largest and most valuable job on the docket.
 
 ### R6-1-LADDER_BAN [Pack Six PART I.1]
 
@@ -19650,12 +17766,6 @@ Flags any sentence where a named faculty is the grammatical subject of a percept
 Added to the AI tells checklist and retained in full per Pack Twelve §7 — the Ladder in all forms, the apparatus as grammatical subject, scientific vocabulary explaining an ambient sensory impression, and fresh texture invented where Inventory texture exists.
 
 > The Ladder in all forms. - The apparatus as grammatical subject. - Scientific vocabulary explaining an ambient sensory impression.
-
-### R5-B-MANHWA_DIRECTIVE_REPEALED [Pack Five B]
-
-Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
-
-> Struck in full from the project instructions and from Section 4's sanctioned-exception clause. The following are no longer craft law and should be treated as active tells if they appear in a draft.
 
 ### R5-G-STYLE_DIRECTIVE_HUMOUR_POINTER [Pack Five G]
 
@@ -19699,83 +17809,11 @@ The gloss budget is zero per scene; there is no acceptable first instance.
 
 > Zero glosses per scene. Not rationed. There is no acceptable first instance.
 
-### R4-14-PARAGRAPH_VARIANCE [Pack Four Amendment Fourteen]
-
-Sentence-length variance is enforced at the paragraph level, not just the document level; the global CV stays as a floor and stops being sufficient on its own.
-
-> Amended: variance is enforced per paragraph. The global CV stays as a floor and stops being sufficient.
-
-### R4-14-RUN_RULE [Pack Four Amendment Fourteen]
-
-No three consecutive sentences may fall within forty percent of each other's word count.
-
-> The run rule. No three consecutive sentences within forty percent of each other's word count. Lengths of 22, 19 and 24 constitute a run, and a run is a flat stretch of road however good the individual sentences are.
-
-### R4-14-CHAIN_CEILING [Pack Four Amendment Fourteen]
-
-No more than two consecutive sentences may run over 25 words; the third breaks, or the paragraph does.
-
-> The chain ceiling. No more than two consecutive sentences over 25 words. The third breaks, or the paragraph does.
-
-### R4-14-CLAUSE_CAP_AT_BEAT [Pack Four Amendment Fourteen]
-
-Within the three sentences bracketing a value turn, no sentence carries more than one subordinate or coordinate clause.
-
-> The clause cap at the beat. Within the three sentences bracketing a value turn, no sentence carries more than one subordinate or coordinate clause. A reversal delivered inside a chained sentence has been delivered at the same volume as the furniture.
-
-### R4-14-LANDING_RULE [Pack Four Amendment Fourteen]
-
-The emotional hit takes the shortest sentence in its paragraph and sits last; anything trailing it is the paragraph clearing its throat after the point.
-
-> The landing rule. The emotional hit takes the shortest sentence in its paragraph and sits last. Anything trailing it is the paragraph clearing its throat after the point.
-
-### R4-14-HARD_CEILINGS [Pack Four Amendment Fourteen]
-
-A payoff sentence carries at most 10 words and zero subordinate clauses; at least 18% of a scene's sentences run under 8 words; and no paragraph closes on three consecutive sentences over 18 words.
-
-> | Words in the payoff sentence | 10 | | Subordinate clauses in the payoff sentence | 0 | | Sentences under 8 words, share of scene | 18% floor | | Paragraphs closing on three consecutive sentences over 18 words | 0 |
-
-### R4-14-CONJUNCTION_AUDIT [Pack Four Amendment Fourteen]
-
-Count coordinators per sentence (and, as, while, which, because); two or more inside a beat-carrying sentence is a fail, though the same count outside a beat is style and left alone.
-
-> Count coordinators per sentence: and, as, while, which, because. Two or more inside a sentence carrying a beat is a fail. Outside a beat it is style and left alone.
-
-### R4-15-CLERK_TEST [Pack Four Amendment Fifteen]
-
-If the thing could appear as a line on a ledger, in a writ, or in a Bench finding, reify it freely; if it could not, it costs budget.
-
-> The test: could a Guild clerk file it? If the thing could appear as a line on a ledger, in a writ, or in a Bench finding, reify it freely. If it could not, it costs budget.
-
-### R4-15-WATCHLIST_NOUNS [Pack Four Amendment Fifteen]
-
-Recurring reification offenders, kept greppable rather than felt: silence, weight, arithmetic, governance, permission, distance, authority, refusal, grief, history, patience, the question, the cost, the moment, the space between them.
-
-> Recurring offenders in the current drafts, listed so the check is greppable rather than felt: silence, weight, arithmetic, governance, permission, distance, authority, refusal, grief, history, patience, the question, the cost, the moment, the space between them.
-
 ### R4-ADD-CHECK15 [Pack Four Addendum]
 
 Flags etymological, register and "which meant" constructions; warns rather than fails since the whose-vocabulary test cannot be automated, and every flag gets read.
 
 > | 15. Gloss watch | Amendment Thirteen | Flags etymological, register and "which meant" constructions. Warns rather than fails, because the whose-vocabulary test cannot be automated and the FID carve-out is the whole ruling. Every flag gets read. |
-
-### R4-ADD-CHECK16 [Pack Four Addendum]
-
-Fails any chain of 3+ sentences over 25 words, 4+ flat runs, a short-sentence share under 10% (warns under 18%), and reports every paragraph closing long-long-long.
-
-> | 16. Descent | Amendment Fourteen | Fails any chain of 3+ sentences over 25 words. Fails 4+ flat runs. Fails a short-sentence share under 10% and warns under 18%. Reports every paragraph closing long-long-long. Arithmetic, so its failures are real. |
-
-### R4-ADD-NO_SINGLE_PASS [Pack Four Addendum]
-
-wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
-
-> Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
-
-### R2-5-DIAGNOSTIC_TEST [Pack Two Amendment Five]
-
-If removing the battle would preserve the relationship change, the Act was not unrepeatable and the battle was decoration; rebuild the Act around something only the engagement made possible.
-
-> If you can remove the battle and preserve the relationship change, the Act was not unrepeatable and the battle was decoration. Rebuild the Act around something the engagement made possible and nothing else could.
 
 ### R61-104-REAL_ALCHEMY_PAGE_WRITTEN [Alchemy Conversion Questionnaire 2026-09-28 EC5]
 
@@ -19819,12 +17857,6 @@ C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are reti
 
 > C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
 
-### R71-11-RUNNING_FAST [Combat Law 2026-10-04 CW2]
-
-Once per fight, in its swift stretch, one short paragraph of short, even sentences may break the run rule, and the author notes mark it.
-
-> A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
-
 ### R71-14-IMPACT_MOMENTUM [Combat Law 2026-10-04 CW5]
 
 At display and finisher, say where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took), have the physics audit check it, and move stock images to a bank per culture.
@@ -19849,23 +17881,35 @@ verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as i
 
 > Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
 
-### R71-105-PROOF_ORDER_WORK [Combat Law 2026-10-04 ME4]
-
-The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
-
-> Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
-
 ### R77-1-EUROPEAN_FENCING_ACTIONS [Combat Prose Rulings 2026-10-08 R70-100-MARTIAL_VOCABULARY_NAMES_MOVES]
 
 In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
 
 > Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
 
-### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+### R79-2-LEAN_TABLE [Directions 2026-10-17 prose-rp-questionnaire]
 
-Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+No close (archive only), nothing printed under turns, straight into play from a beat, Scene Menu only without one; one verify_scene a turn; once-per-scene kits, context, research; brief rulebook once; docket decided at the table; lies only where wanted; no notice quota; abilities explained unprompted.
 
-> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): the table runs lean. There is no scene close: when a scene ends it is archived with archive_scene and nothing else is written (no State of Play rewrite, Ledger, Front, roster or Inventory update) unless he asks. Nothing is printed under a turn: no OOC foot, no rule ids, no notes block; full author notes only when a scene is archived. Session start: given a beat, Natalie opens on the place-and-hour header and writes; the Scene Menu only when he gives no beat, three hooks from anywhere with no source rule and no reward or penalty lines; the Rumor Mill, pass_time at start, the printed recap and the limits statement retire (limits only at the start of a brand-new chat). Per turn: one verify_scene, every FAIL fixed, WARNs read but not looped; once per scene: kits and FOW lines, scene_context, and research only of what is new, reused after; scene_brief and the full pipeline for set pieces only. The live rulebook is loaded in brief once a session, a domain in full text on first use, and never re-read after compaction. An open docket item is decided at the table and the writing goes on. NPCs lie where their want makes them, with no required lie per NPC. No unexplained-notice quota anywhere. When he sketches an ability out of character, Natalie supplies how it works without being asked.
+
+### R79-7-INTIMACY_AND_NAMES [Directions 2026-10-17 prose-rp-questionnaire]
+
+Word-presence checks on explicit scenes retire; 'her core' leaves the euphemism list; floor guard unchanged; names by sound rules only; halls stack titles; comic-name beats optional.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): explicit scenes and names. The word-presence checks on explicit scenes retire: the smell-word, sound-word, consequence-string and stock-touch WARNs; scent and sound stay craft guidance in the POV's own order. "Her core" leaves the euphemism list, since Core is the Essence term; the rest of the list still FAILs. The under-eighteen floor guard is unchanged. A name only has to sound right for its culture: element banks are reference, and the end-of-scene name check goes. The lineage halls stack titles in formal address. The comic-name beats (the name said at the death, the joke-named walk-on who cannot die) become options.
+
+### R79-8-TABLE_MEMORY_AND_MACHINERY [Directions 2026-10-17 coverage-questionnaire]
+
+Silent upkeep of Ledger, Fronts, roster and cards; State of Play retired; start from the last archived scene; Judger retired; PC new uses not growth; improve is a free rewrite; Discord 3,500 always, only his PC, pasted in chunks, cards only for PvP; cross-read on request; lean loading for every model.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): the table's memory and machinery. Natalie keeps the Ledger, the Fronts, the NPC roster and the character cards current quietly as scenes happen, never printed; session_end is that silent upkeep with archive_scene, and lasting changes (a wound that stays, Crystal State, Level, Stage, a technique he approved, renown) go onto the card then. The State of Play pages are retired; a session learns where a thread stands from its last archived scene and the Ledger, and session_start returns that, the Inventory, what is due and the inbox, for any thread. The Judger close is retired. She may give his PC inventive new uses of his abilities; new techniques, Level points and card changes stay his. Improving his post is a free rewrite that keeps his intent. On Discord every Natalie post runs about 3,500 words, multiplayer threads included; she writes only his PC there, never a guest's; long posts are marked at paragraph breaks for him to paste in chunks; an adjudication card is posted only when two players' characters contest a thing or a player asks. The cross-read stays on request only. ChatGPT and Codex load the rulebook the same lean way as Claude.
+
+### R79-12-MACHINE_AROUND_WRITING [Directions 2026-10-17 coverage-questionnaire]
+
+Nightly slimmed; book timer off, quotas stripped; idle services stopped, read-only MCP fixed; Paperclip text gone; sessions read by task; repo is the only skill source, skills consolidated; orphaned tools deleted; core MCP surface with an ops flag; sync tidied.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): the machine around the writing. The nightly job keeps validate, sync, backup and push health and new archives, and drops the recurrence report, the prose pass, the Büri sweep and the nightly ChatGPT review; its findings baseline resets after this apply. The book timer is disabled and chapters run when he asks; the book pipeline loses its lie and misreading quotas and rhythm FAILs, and BOOK_PIPELINE.md becomes a short spec of the workflow. n8n, the jobs server and the loopback MCP are stopped and disabled; the read-only MCP's token is fixed. The Paperclip leftovers go and CLAUDE.md says Natalie rules openly through log_ruling; writing and roleplay sessions read NATALIE and the brief rulebook, while CONTINUE, SHARED_MEMORY and the phase stops apply to rules and code work, and CONTINUE keeps recent blocks with its history moved to a file. The repo is the only source of the WOTR skills: the claude.ai-synced copies go, wotr-rp folds into wotr-write as its turn section, wotr-rules into a wotr-write reference, and the judger retires. recurrence_report, voice_check, voice_fingerprints and prose_pass are deleted, gap_fill kept as an advisory; handoff is cut to research and images, the stuck research item cleared, and Claude Code skips the natalie call. The MCP's default surface is a core of about twenty writing tools, the rest behind an ops flag. The sync keeps its fifteen-minute autosave, drops the Drive step, renders the Ledger, Fronts and roster but not State of Play, alerts only on push failure, and its backup check is fixed.
 
 ### R58-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -19884,12 +17928,6 @@ A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A ho
 verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary; verify FAILs an explicit scene that names anyone whose card or roster gives an age under eighteen and WARNs when a named partner has no age on file, the body's age counting and never a soul's; bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration and pass in a mouth; and it WARNs past one a scene on the archive's repeated touches (the hand on the arm, the jaw held, the kiss on the hair).
 
 > Yes to: An explicit mode (verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary); A floor guard (FAIL when an explicit scene names anyone whose card or roster gives an age under eighteen; WARN when a named partner has no age on file. The body's age counts, never a soul's); Euphemism bans (Bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration like the hard-ban words; in a mouth they pass, since a character may be coy); Stale-touch watch (WARN past one a scene on the archive's repeated touches: the hand on the arm, the jaw held, the kiss on the hair, as R71-103 does for fight devices).
-
-### R73-43-PROOF_TEST_SCENE [Intimacy Law 2026-10-04 ME4]
-
-The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
-
-> Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
 
 ### R22-3-MONGON_DISPUTE_DEAD [Moto Reversion Ledger III]
 
@@ -19915,12 +17953,6 @@ Per-scene budgets stay per scene (not scaled to turn length): longer turns simpl
 
 > Per-scene budgets stay per scene (not scaled to turn length): longer turns simply run tighter.
 
-### R49-54-KHARVEN [Prose Law 2026-09-26 The checker]
-
-Kharven signature items: two of the five per session instead of per turn.
-
-> Kharven signature items: two of the five per session instead of per turn.
-
 ### R49-55-TIC_WORDS [Prose Law 2026-09-26 The checker]
 
 The repetition tic-word list stays as it is.
@@ -19932,18 +17964,6 @@ The repetition tic-word list stays as it is.
 Verification stops at the author-notes heading; notes are not measured.
 
 > The prose checker stops at the author-notes heading; notes are not measured.
-
-### R54-17-MULTI_PLACE_SET_PIECE [Queue Questionnaire 2026-09-26 WAR-91]
-
-A scene across several places with one mass-combat section is measured as a set piece.
-
-> A scene in four places with one mass-combat section is measured as a set piece.
-
-### R54-18-IGNORANCE_PER_SCENE [Queue Questionnaire 2026-09-26 WAR-91]
-
-One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.
-
-> The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint scene satisfies it.
 
 ### R24-3-HOST_BREAKS_ON_MAXIM [Racial Voice and Dialect Guide Amendment III]
 
@@ -19981,12 +18001,6 @@ verify_scene matches native words against the culture word banks (a near-miss FA
 
 > Yes to: Word-bank spelling check (Native words are matched against the culture banks (VB10); a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for the scene log (R50-28)); Canonical term list (wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)); New ban families FAIL (The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read); Style-sheet warnings (WARNs for the house style set here: an italicised loanword (VB2), a digit where words are due (VB7), an archaic word outside its culture's dial (VB4). Holds the style without blocking a reply).
 
-### R70-58-CHECKING_RANGE [Style Law 2026-10-03 DD7]
-
-verify_scene WARNs, never FAILs, when a scene touches too few rotation groups or one group takes more than half, and the signature-item count runs for every culture's Inventory, not only Kharven's.
-
-> Census as a WARN. The census WARNs when a scene touches too few groups or one group takes over half, and the signature-item count extends from Kharven to every Inventory.
-
 ### R70-72-WATCHING_CROWD_POWER_REVEAL [Style Law 2026-10-03 MY5]
 
 At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath, the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
@@ -20016,18 +18030,6 @@ Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming s
 verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
-
-### R72-43-TEST_SESSION [Table Law 2026-10-04 ME3]
-
-The table work runs in order: log the law, change the tools and reconcile the data, run one Desktop session from start to close and one Discord scene through the full loop, amend, and only then rewrite the skills.
-
-> Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.
-
-### R75-47-PROOF_AND_ORDER [Techniques Law 2026-10-04 ME4]
-
-The work runs in order: log the law and rebuild the converter and the card skeleton, make the three test cards through them, play a scene where one of them decides a fight, amend, and only then run the sweep and the rebuilds.
-
-> Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.
 
 ### R48-14-DEPTH [Writing Law 2026-09-26 Research-grounded techniques]
 
@@ -20071,23 +18073,11 @@ Full check on every roleplay turn: every turn passes the full checker.
 
 > Full check on every roleplay turn: every turn passes the full checker.
 
-### R48-46-WORD_FLOOR [Writing Law 2026-09-26 Process]
-
-Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
-
-> Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
-
 ### R48-47-NOTES [Writing Law 2026-09-26 Process]
 
 Full author notes go in the scene file (rule ids, stat ledger, research, costs); chat gets a short summary.
 
 > Full author notes go in the scene file (rule ids, stat ledger, research, costs); chat gets a short summary.
-
-### R48-48-EXPLAIN [Writing Law 2026-09-26 Process]
-
-The partner explains the physics and metaphysics only when asked; working it out is part of the challenge.
-
-> The partner explains the physics and metaphysics only when asked; working it out is part of the challenge.
 
 ### R48-49-CITATIONS [Writing Law 2026-09-26 Process]
 
@@ -20101,7 +18091,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (362)
+## worldbuilding (354)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -20409,12 +18399,6 @@ Food, the greeting, oaths and obscenity, colloquial time, the dead, the househol
 
 > A per-culture register of non-magical material idiom, built and maintained as canon. Nine required categories:
 
-### R6-9-RECURRENCE_RULE [Pack Six PART II.9]
-
-Every scene draws texture from the Inventory before inventing anything; anything newly invented is entered into the Inventory the same session or it does not exist; each culture designates three-to-five high-frequency signature items on the Recurrence Ledger.
-
-> Identity is repetition. Novelty is its enemy.
-
 ### R6-10-INVENTORY_AND_ELEGY [Pack Six PART II.10]
 
 Pack Five's elegiac register requires a named concrete thing that is gone, and the Inventory is where those things live; elegy without an Inventory is grief for abstractions, which Pack Five already bars.
@@ -20432,12 +18416,6 @@ Elegy attaches to a named concrete, specific thing that is gone (a road, a dye c
 What distinguishes elegy from grimdark's systemic cruelty is that the loss is often irreversible and often nobody's fault; some things are simply taken, some simply end.
 
 > The loss is often irreversible and often nobody's fault. This is what distinguishes elegy from grimdark's systemic cruelty, and WOTR needs both. Some things are taken. Some things simply end.
-
-### R5-C3-NARRATION_REGISTER_EXTENSION [Pack Five C.3]
-
-Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
-
-> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
 
 ### R4-15-LICENSED_CLASS [Pack Four Amendment Fifteen]
 
@@ -21159,6 +19137,18 @@ Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides conte
 
 > Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.
 
+### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
+
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
+
+### R79-11-CANON_WORLD_DOCUMENTS [Directions 2026-10-17 coverage-questionnaire]
+
+Canon order with Isaac's dated directions first; fixed system canon, everything else free and canon on archive; story beats a palette; crews in play; Malphas hidden only from who couldn't know; rare costly returns; world magic law in narration, physics in trained mouths; world musts and document forms optional; names as needed; one free archive-notes block; markdown documents; price table approved; no owed Inventory fields.
+
+> Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): canon, the world and its documents. The canon order is Isaac's word, including RULINGS and dated directions with the newest winning; then the canon source documents (Fracture of Worlds, the Master Codex, the Stat Sheet); then the rule index; then archived scenes for events; then cards; then other wiki pages; then internal logic. Fixed and never invented: the Sixty Wellsprings, the Glyph Index, the Stage, Band and Tier ladders, the Families, the Archons and Titans, cultures and bloodlines, and carded people's facts; everything else is free to invent, factions and NPC techniques included, canon once archived. Story beats (crews, rivals, mentors, warm bonds, arc kinds) are a palette Natalie draws on when the story earns them, never owed per thread; a crew forms in play, Isaac overturning what he dislikes. Malphas is hidden only from characters who could not know him; his circle's size floats. The dead stay dead save rare, costly returns by canon means; full resurrection stays forbidden on paper. Narration states the world's magic as law with its reasons kept, while trained characters and the notes may give the physics. World musts (weather in every outdoor scene, the bill on an indoor working, the sense order at sea, the rite that departs from its form, the document whose rule breaks, the tested epigraph) become tools used when they matter. Document forms are optional (the contract's limiting clause, the docket line, the Tier rung); a glossary is built at book assembly; numerals stand wherever an institution writes them; in-world documents keep their institution's house style. Names come as needed: doublets, true names, folk names and say-lines are added when used; the technique-name word cap and the never-translated rule retire. Archive notes are one free block (sources, inventions, canon conflicts, estimates), with a mystery's clue list and sealed solution kept. The house document is markdown in the repo; a .docx only on request, dark background and gold Garamond. The price table in imports/drafts/price-table.md is approved and published as reference. Standing Inventories owe no fields; a journey that matters has a clock the world fills, with no tick count; a character may talk power-scaling in his own voice while narration avoids forum terms.
+
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
 A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
@@ -21272,12 +19262,6 @@ Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon co
 Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
 
 > Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
-
-### R59-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
-
-> These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
 ### R67-3-HALVETH_JOINT_CASE [The Farrant Papers Ratification 2026-09-28 papers 3]
 
@@ -21707,7 +19691,7 @@ Thirty fixed-meaning morphemes (endurance, craft, stone/metal, virtue, nature) a
 
 ### R20-3-CONCORD_GIVEN_NAMES [Naming Guide Amendment Part Three]
 
-A deliberately small pool of 30 given names (20 male, 20 female) — repetition is the feature, not the bug — combined with patronymic, occupational, locative or descriptive bynames; in a village of two hundred there will be three of the same given name, and the byname is more real than the given name.
+A deliberately small pool of 40 given names (20 male, 20 female) — repetition is the feature, not the bug — combined with patronymic, occupational, locative or descriptive bynames; in a village of two hundred there will be three of the same given name, and the byname is more real than the given name.
 
 > Deliberately small. Repetition is the feature, not the bug.
 
@@ -21915,12 +19899,6 @@ Households young and old, food and taste, rites and festivals performed on the p
 
 > Yes to: Households, young and old (Servants and the order of a house, the rich at home as well as the poor, the child's games and chores, and old age at the fire join the rotation); Food and taste (Ingredients, cooking, street food, drink, hunger and rationing, and taste in the mouth join the rotation. How a meal is written is DS8); Rites and festivals (Rites performed on the page, household observance, funerals and mourning, festivals, and folk taboos acted on join the rotation); Music, art and play (Instruments and songs, carving and painting, theatre and storytellers, games of chance and skill, sport and toys join the rotation).
 
-### R70-45-NEW_STANDING_INVENTORY_FIELDS [Style Law 2026-10-03 DS6]
-
-Every Standing Inventory gains fields for land, sky, seasons and living things (with temperature in the senses entry), for building, house plan, dress by rank and the street, for music, games and one or two festivals written as performed, and for law and punishment, succession, and roads, vehicles and inns.
-
-> Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).
-
 ### R70-46-CRAFT_LABOUR_PAGE [Style Law 2026-10-03 DS7]
 
 Whenever a craft is on the page, run at least one stretch as process (tool, material and steps in order, done by the worker's body), and look at the finished thing for its quality through the POV's eye.
@@ -21944,12 +19922,6 @@ Name the sum of every purchase, wage, fee and bribe on the page in the culture's
 Give every outdoor scene one wide view built in far, middle and near planes with the people small in it, and put the sky in it after dark.
 
 > One wide view outdoors. Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.
-
-### R70-51-REPETITION_AGAINST_NOVELTY [Style Law 2026-10-03 DS11]
-
-Keep each culture's two signature items per session, and in every scene also add one subject the thread has not yet described, logging it as canon.
-
-> Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).
 
 ### R70-60-COLOUR_AS_SYMBOL_PER [Style Law 2026-10-03 DT2]
 
@@ -22173,18 +20145,6 @@ Commoners regard practitioners with awe and worship: a ranked practitioner is ha
 
 > Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
 
-### R53-19-QUOTA [World Texture Law 2026-09-26 World texture]
-
-Every culture's signature-item quota is two per session, like Kharven's.
-
-> Every culture's signature-item quota is two per session, like Kharven's.
-
-### R53-20-MISSING_INVENTORY [World Texture Law 2026-09-26 World texture]
-
-When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
-
-> When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
-
 ### R53-21-CANON_GATE [World Texture Law 2026-09-26 World texture]
 
 Texture the partner invents in play is canon once logged; Isaac can strike it later.
@@ -22196,12 +20156,6 @@ Texture the partner invents in play is canon once logged; Isaac can strike it la
 The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
 
 > The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
-
-### R53-23-MIXED_ROOM [World Texture Law 2026-09-26 World texture]
-
-A mixed room layers every culture present in roughly equal measure.
-
-> A mixed room layers every culture present in roughly equal measure.
 
 ### R53-24-TEXTURE_AND_MECHANISM [World Texture Law 2026-09-26 World texture]
 
@@ -22232,18 +20186,6 @@ The partner may blend real cultures freely into one WOTR culture where it serves
 The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspi...
 
 > The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspiration. (Isaac: "I want it to look like lord of mysteries or Victorian imperial aged fantasy I don't like the beast or vinland saga reference wotr has its own thing its own texture invented entirely for the world itself it mostly takes from real world inspo etc".)
-
-### R53-29-LOOK_UP [World Texture Law 2026-09-26 World texture]
-
-The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
-
-> The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
-
-### R53-30-TEXTURE_DENSITY [World Texture Law 2026-09-26 World texture]
-
-Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
-
-> Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
 
 ### R53-31-GONE_LIST [World Texture Law 2026-09-26 World texture]
 

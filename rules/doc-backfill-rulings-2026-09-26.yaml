@@ -95,7 +95,9 @@ rules:
     file: ''
     lines: null
   notes: 'Amends R19-2-FIXED_TEXT (a carve-out, not a supersession): ''R19-2 fixed-text still governs
-    scene work where he submits dialogue to be set.'''
+    scene work where he submits dialogue to be set.''
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: improving his post is now a free rewrite
+    that keeps his intent; the keep-every-beat practice retires.'
 - id: R57-05-ROVHEN_INVESTIGATOR
   pack: Rulings Backfill 2026-09-26
   pack_number: null
@@ -168,7 +170,9 @@ rules:
   notes: 'The same entry''s ''the full Design Chain'' clause is overtaken by R47-2-FIELD_FORMAT (Design
     Chain retired as a page format); never-invent-numbers still holds. Applied by R70-67-FORMS_WORLD_DOCUMENTS
     (style law 2026-10-03): Guild reference entries (bestiary, registry, item ledger) trace each figure
-    to canon under this rule.'
+    to canon under this rule.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no pending fields: a missing figure is derived
+    from the Fracture of Worlds tables, written plainly, canon on use.'
 - id: R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK
   pack: Rulings Backfill 2026-09-26
   pack_number: null
@@ -544,7 +548,7 @@ rules:
   pack_number: null
   section: Ruling audit
   title: Usage Stripped Numbers Kept
-  status: live
+  status: superseded
   kind: mandate
   summary: 'The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and
     fight-count phrasing such as ''three verdicts per fight'', ''cheap against mobs''); their numbers
@@ -561,7 +565,8 @@ rules:
   verification: *id001
   ratified: 'Isaac, 2026-09-27: ruling audit (RULINGS.md, ruling-audit-2026-09-27)'
   source: *id002
-  notes: Chosen by Isaac but never recorded; restored by the ruling audit.
+  notes: 'Chosen by Isaac but never recorded; restored by the ruling audit.
+    Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent work order.'
 - id: R57-27-PATH_GATE_BINDS_ITS_COMPONENT
   pack: Rulings Backfill 2026-09-26
   pack_number: null
@@ -668,7 +673,8 @@ rules:
   verification: *id001
   ratified: 'Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)'
   source: *id002
-  notes: ''
+  notes: 'Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: the elevated word list is reference only,
+    with no count (R78-11, no word bank); ''numinous'' keeps its WOTR sense.'
 - id: R57-32-AYAME_DIED_LATER
   pack: Rulings Backfill 2026-09-26
   pack_number: null
@@ -884,4 +890,5 @@ rules:
   verification: *id001
   ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
   source: *id002
-  notes: ''
+  notes: 'Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up merge: carries R49-21-REIFICATION;
+    reification is judged by ear, never at the beat (R4-15-NEVER_AT_BEAT) and object first (R4-15-CONCRETE_FIRST).'

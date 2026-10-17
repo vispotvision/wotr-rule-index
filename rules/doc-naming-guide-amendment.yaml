@@ -434,6 +434,8 @@ rules:
       English pun on a Dawi name needs an in-world bridge, a Common mouth, an
       English-rendered byname or a Common ear mishearing
       (R70-123-WHOSE_EAR_HEARS_JOKE).
+      Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the element bank is
+      reference; a name only has to sound right for its culture.
 
   - id: R20-3-CONCORD_GIVEN_NAMES
     pack: Naming Guide Amendment
@@ -443,7 +445,7 @@ rules:
     status: live
     kind: definition
     summary: >-
-      A deliberately small pool of 30 given names (20 male, 20 female) —
+      A deliberately small pool of 40 given names (20 male, 20 female) —
       repetition is the feature, not the bug — combined with patronymic,
       occupational, locative or descriptive bynames; in a village of two
       hundred there will be three of the same given name, and the byname
@@ -467,6 +469,9 @@ rules:
       Stands; under R70-119-MUCH_POOL_COMIC (style law 2026-10-03) comic
       bynames and nicknames are the norm among commons and soldiers, as high
       as R70-122-MAY_CARRY_ONE lets them reach.
+      Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: clean-up: the source's
+      header says 30 names but lists 20 male and 20 female, so the pool is 40;
+      it is reference, and sound rules govern.
 
   - id: R20-3-MOTO_ELEMENTS_STRUCK
     pack: Naming Guide Amendment

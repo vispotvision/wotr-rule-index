@@ -17,7 +17,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: Every working is explained at three strata
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Every working explained on the page is explained at three strata (the
@@ -40,7 +40,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "25"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the page carries one
+      clear causal line at first display; the full three-strata account lives
+      on the card and in the notes.
 
   - id: R13-2-STRATUM_ONE_AETHER
     pack: Pack Thirteen
@@ -170,7 +173,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "33"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: Category names are
+      free in trained mouths and POVs, not workbook by default.
 
   - id: R13-2-CRAFT_DEFINITION
     pack: Pack Thirteen
@@ -228,7 +233,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "47"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: naming what was
+      checked is owed only when proposing a new Codex entry; the phenomenon
+      goes in the archive notes' one free block (R79-11).
 
   - id: R13-3-INVENTION_STEP
     pack: Pack Thirteen
@@ -295,12 +303,9 @@ rules:
     title: The combat technical floor, eight required elements
     status: live
     kind: mandate
-    summary: >-
-      Every meaningful exchange states, in one of the four voices: measure,
-      tempo (Vor/Nach/Indes), the named read, the fault it exposes, the
-      mechanics of the hit, the injury by structure with ATLS-class blood
-      loss, the Essence account at all three strata, and what the
-      character cannot do next.
+    summary: A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural
+      injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay
+      shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
     verbatim: >-
       Every meaningful exchange (a hit that lands, a first display, a
       counter, a change of measure that decides something) puts the
@@ -316,31 +321,38 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "72"
-    notes: >-
-      Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
-      2026-10-03) the moves the floor traces are named in the POV's own
-      school.
-      Partly amended by R71-4-FAR_FROM_FLOOR (combat law 2026-10-04): the
-      eight items stand, and each grammar pays them its own way (Verdict
-      states the read before and the mechanics after, on the body; Blade pass
-      by pass; Percussion and Expenditure carry the cost every exchange),
-      every item stated where it happens. Partly amended by
-      R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): when the fighter is a
-      player's, Natalie writes the resolved hit, the wound by structure, its
-      ATLS class and what the hand can no longer do as world facts, places the
-      tell but leaves item 3's deduction to the player's post, and shows item
-      7 only where others could see it, the spend going to the Stat Ledger.
-      Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat law
-      2026-10-04): the floor is owed by any exchange that lands, shifts
-      measure or reveals something, and exchanges that change nothing may be
-      counted back in one sentence, each named by its move. Partly amended by
-      R71-12-KEEPING_SPACE_TRACKABLE (combat law 2026-10-04) for item 1
-      (measure): a scramble (a crowd, the dark, a fall) may blur position
-      while it lasts, and every exchange that decides something re-fixes both
-      bodies before it lands. Partly amended by R71-86-REVENANT_FIGHT (combat
-      law 2026-10-04): against a revenant the floor applies by structure with
-      no blood-loss class. The floor stands for the living.
+    notes: 'Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03) the moves the
+      floor traces are named in the POV''s own school. Partly amended by R71-4-FAR_FROM_FLOOR (combat
+      law 2026-10-04): the eight items stand, and each grammar pays them its own way (Verdict states the
+      read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure
+      carry the cost every exchange), every item stated where it happens. Partly amended by R71-6-PLAYER_FIGHTER_PAGE
+      (combat law 2026-10-04): when the fighter is a player''s, Natalie writes the resolved hit, the wound
+      by structure, its ATLS class and what the hand can no longer do as world facts, places the tell
+      but leaves item 3''s deduction to the player''s post, and shows item 7 only where others could see
+      it, the spend going to the Stat Ledger. Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat
+      law 2026-10-04): the floor is owed by any exchange that lands, shifts measure or reveals something,
+      and exchanges that change nothing may be counted back in one sentence, each named by its move. Partly
+      amended by R71-12-KEEPING_SPACE_TRACKABLE (combat law 2026-10-04) for item 1 (measure): a scramble
+      (a crowd, the dark, a fall) may blur position while it lasts, and every exchange that decides something
+      re-fixes both bodies before it lands. Partly amended by R71-86-REVENANT_FIGHT (combat law 2026-10-04):
+      against a revenant the floor applies by structure with no blood-loss class. The floor stands for
+      the living.
 
+
+      Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European
+      fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing and
+      measure in plain words. Check 22 warns on that jargon instead of treating it as useful school vocabulary.
+      Mechanics remain. Eastern terminology is explicitly unanswered in the source context.
+
+
+      Partly amended by the 2026-10-08 direction indexed as R77-2-COMBAT_ROLEPLAY_TELLS: only in combat
+      roleplay, effects and readable tells, body cost, read and fault as behaviour are on the page; mechanism,
+      system figures and the explanation remain in notes, the card and Stat Ledger. A voice explains only
+      what it earned by reading tells. Written set pieces and books keep the full floor. The source context
+      identifies the roleplay-only scope as Claude''s interpretation; it is not widened here. Amended
+      2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the floor is body, path, target, result and what it cost;
+      what a fighter read and the opening he found are shown as behaviour; R77-2''s roleplay carve-out
+      is gone, so roleplay fights pay the full floor on the page.'
   - id: R13-4-DENSITY_BUDGET
     pack: Pack Thirteen
     pack_number: 13
@@ -384,7 +396,7 @@ rules:
     pack_number: 13
     section: "§4"
     title: First display and finisher carry three causal explanations
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       At first display and finisher, physics, Essence and Hermetic
@@ -405,7 +417,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "85"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: a working's first
+      display carries one clear causal line; the full three-strata account
+      lives on the card and in the notes.
 
   - id: R13-5-GAP_FILL_PASS
     pack: Pack Thirteen
@@ -443,6 +458,9 @@ rules:
       R71-25-WOUNDS_CARRIED_INTO_NEXT (combat law 2026-10-04): the body audit
       also checks what a Ledger wound carried in from an earlier fight lets
       the body do, by its structure (no Grade moves), and the notes name it.
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the gap-fill pass runs
+      only for set pieces and his submitted fights, unlogged; no 'Added by the
+      gap-fill pass' section.
 
   - id: R13-6-WOTR_FIRST
     pack: Pack Thirteen
@@ -554,12 +572,11 @@ rules:
     pack_number: 13
     section: "§6"
     title: HEMA vocabulary extends past the longsword
-    status: live
+    status: superseded
     kind: definition
-    summary: >-
-      Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe,
-      dagger, grappling, messer, sword and buckler, mounted lance) with a
-      percussion master-strike table built for the hammer specifically.
+    summary: The spear/staff, poleaxe, dagger, grappling, messer, sword-and-buckler and mounted-lance mechanics,
+      and the hammer-specific percussion table, remain; European fencing jargon is replaced by plain actions
+      in all prose (R77-1).
     verbatim: >-
       HEMA, extended past the longsword: spear and staff, poleaxe, dagger
       and the grappling plays, messer, sword and buckler, mounted lance. A
@@ -575,13 +592,18 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "112"
-    notes: >-
-      Partly amended by R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
-      2026-10-03): HEMA names the moves when the POV trained in a Western
-      school; an Eastern-trained POV narrates in his own school's words.
-      R70-136-NEW_CHECKS_VERIFY_SCENE makes verify's HEMA list the blade
-      school's list beside japanese, chinese, korean and percussion lists.
+    notes: 'Partly amended by R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03): HEMA names
+      the moves when the POV trained in a Western school; an Eastern-trained POV narrates in his own school''s
+      words. R70-136-NEW_CHECKS_VERIFY_SCENE makes verify''s HEMA list the blade school''s list beside
+      japanese, chinese, korean and percussion lists.
 
+
+      Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European
+      fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing and
+      measure in plain words. Check 22 warns on that jargon instead of treating it as useful school vocabulary.
+      Mechanics remain. Eastern terminology is explicitly unanswered in the source context. Superseded
+      2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: fight jargon is free and never required; European fencing-manual
+      jargon stays off the page (R77-1).'
   - id: R13-6-ANATOMY_VOCAB
     pack: Pack Thirteen
     pack_number: 13
@@ -606,14 +628,17 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "114"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: named structures,
+      fracture types and neurological names live in the notes and a medic's
+      mouth; the page uses plain part names.
 
   - id: R13-6-SCALING_VOCAB_RESTRICTED
     pack: Pack Thirteen
     pack_number: 13
     section: "§6"
     title: Scaling vocabulary stays in author notes, never on the page
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Scaling-comparison vocabulary (Attack Potency, durability, hax as a
@@ -649,6 +674,8 @@ rules:
       progression models whose ranks everyone in a room can sense; it says
       nothing of scaling vocabulary, which stays in author notes and
       adjudication.
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: a character may
+      talk power-scaling in his own voice while narration avoids forum terms.
 
   - id: R13-6-HAX_DIALOGUE_BAN
     pack: Pack Thirteen
@@ -715,6 +742,9 @@ rules:
       vocabulary. Noted by R70-68-INSIDE_PRACTICE (style law 2026-10-03):
       inner practice is mapped in Codex nouns, in WOTR's own words as this
       rule asks; it stands.
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the page ban
+      is struck; vows and releases are WOTR's own canon terms (R78-10), and
+      fight jargon is free and never required.
 
   - id: R13-6-CHEMISTRY_BAN_SCOPE
     pack: Pack Thirteen
@@ -772,7 +802,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "126"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-2-LEAN_TABLE: research runs once per scene and
+      only of what is new, reused after; the full pipeline is for set pieces
+      only; R79-9 names what was checked only when proposing a new Codex
+      entry.
 
   - id: R13-8-RECONSTRUCTIBLE_ADJUDICATION
     pack: Pack Thirteen
@@ -861,7 +895,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "139"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: no sixth
+      edition exists in the project; the chapters live in the techniques law
+      and the wotr-write technique reference.
 
   - id: R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB
     pack: Pack Thirteen
@@ -897,11 +934,9 @@ rules:
     title: "--combat verification adds checks 22-26"
     status: live
     kind: consequential_edit
-    summary: >-
-      wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density,
-      warn), 23 (anatomical density, warn), 24 (causal-connective density in
-      fight passages, fail), 25 (a stated fault per named technique, fail),
-      and 26 (a reserve account per working, fail).
+    summary: Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN),
+      causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures
+      in notes under R77-2, while written scenes keep the full floor.
     verbatim: >-
       wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density,
       anatomical density, causal-connective density in fight passages, a
@@ -918,8 +953,20 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "141"
-    notes: null
+    notes: 'Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or
+      European fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing
+      and measure in plain words. Check 22 warns on that jargon instead of treating it as useful school
+      vocabulary. Mechanics remain. Eastern terminology is explicitly unanswered in the source context.
 
+
+      Partly amended by the 2026-10-08 direction indexed as R77-2-COMBAT_ROLEPLAY_TELLS: only in combat
+      roleplay, effects and readable tells, body cost, read and fault as behaviour are on the page; mechanism,
+      system figures and the explanation remain in notes, the card and Stat Ledger. A voice explains only
+      what it earned by reading tells. Written set pieces and books keep the full floor. The source context
+      identifies the roleplay-only scope as Claude''s interpretation; it is not widened here. Amended
+      2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: the checks run in verify_scene (build/verify.py)
+      under --combat; checks 24 to 26 are counts and become guidance (R79-6), and R77-2''s roleplay carve-out
+      is gone.'
   - id: R13-9-ITEM_GUIDE_WEAPON_ENTRY
     pack: Pack Thirteen
     pack_number: 13
@@ -974,14 +1021,17 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "143"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: Notion is
+      retired; the line belongs on the wiki's Magical Categories and Lexicon
+      pages.
 
   - id: R13-9-NOTES_TEMPLATE_SECTIONS
     pack: Pack Thirteen
     pack_number: 13
     section: "§9"
     title: Author notes template gains two standing sections
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       "Added by the gap-fill pass" and "Phenomenon line" become standing
@@ -1000,7 +1050,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "144"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: archive notes are
+      one free block (sources, inventions, canon conflicts, estimates); no
+      standing sections.
 
   - id: R13-A
     pack: Pack Thirteen

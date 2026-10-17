@@ -33,7 +33,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "25-27"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the required set is
+      mechanism, cost and one fair counter; these four elements are what
+      'mechanism' means and need not be separate lines.
 
   - id: R17-2-THE_TEST
     pack: Pack Seventeen
@@ -180,6 +183,8 @@ rules:
       practitioner of the technique's own Stage (no higher Stage or rare
       Wellspring), resting on law someone already knows, and named before,
       during and after contact.
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: every ability has a
+      counter, not only signatures; it still falls out of the Operation.
 
   - id: R17-3-WHAT_NOBODY_KNOWS_SCOPE
     pack: Pack Seventeen
@@ -207,7 +212,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "47"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the line is optional;
+      a technique requires only mechanism, cost and one fair counter.
 
   - id: R17-3-CODEX_LINE_ORDER
     pack: Pack Seventeen
@@ -235,7 +242,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "49"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the Codex line as a
+      field is retired with the field format (R76-4); assignment still comes
+      after the phenomenon.
 
   - id: R17-4-OUTPUTS_NOT_INPUTS
     pack: Pack Seventeen
@@ -533,7 +543,7 @@ rules:
     pack_number: 17
     section: "§10"
     title: Standing task, fold amendments into base guides
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Fold Packs One through Seventeen into the base guides and retire the
@@ -549,4 +559,6 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "130"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent;
+      the packs are folded and the once-a-session ask retires.

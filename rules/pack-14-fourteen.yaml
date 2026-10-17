@@ -42,14 +42,17 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "19-30"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: sources are read by
+      field and resolved in that order; the card is a wiki page (Notion
+      retired). R79-2 loads kits and FOW lines once per scene.
 
   - id: R14-2-ESTIMATE_MARKING
     pack: Pack Fourteen
     pack_number: 14
     section: "§2"
     title: An unsheeted value is written as a marked estimate, never invented
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Where a value is not on any sheet, it is written in the author notes
@@ -78,6 +81,9 @@ rules:
       inline mark '(est.)' after it and nothing more; the documented range for
       the Stage and Band still bounds it, and a scene that uses it still logs
       it in its author notes.
+      Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a missing figure is
+      derived from the Fracture of Worlds tables, written plainly with no
+      mark, canon on use; a source value beats it on contact.
 
   - id: R14-3-STATS_DECIDE_TABLE
     pack: Pack Fourteen
@@ -119,13 +125,16 @@ rules:
       row, and in a Well fight a gauge or a practitioner's feel names the
       density rung before contact and every reach is written to it. The
       existing rows stand.
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the Grade of the stat
+      in use decides a contest; the Stage gap governs Pressure and the upset
+      limit; the stats decide out of sight.
 
   - id: R14-3-TRACEABILITY
     pack: Pack Fourteen
     pack_number: 14
     section: "§3"
     title: Every combat outcome traces to a table row
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Every outcome in a fight must trace to a row in the §3 table, and the
@@ -149,6 +158,9 @@ rules:
       OOC foot under a turn also names the stat row that decided any
       adjudicated outcome, beside two to four rule ids that bound the turn;
       the author notes still say which row.
+      Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the stats decide
+      out of sight: no deciding-row citations; archive notes name a row only
+      for a contested or turning outcome.
 
   - id: R14-4-EFFECTS_CHANNEL
     pack: Pack Fourteen
@@ -302,7 +314,7 @@ rules:
     pack_number: 14
     section: "§5"
     title: Build wotr_terms.txt as the canonical term list
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Build a canonical term list, wotr_terms.txt, extracted from
@@ -326,6 +338,8 @@ rules:
       Taken up by R70-36-CHECKER_ENFORCES (style law 2026-10-03):
       wotr_terms.txt is built and checks Stage, Band, Wellspring and Family
       names for spelling and capitals.
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent
+      work order; wotr_terms.txt is built (R70-36-CHECKER_ENFORCES).
 
   - id: R14-6-CHECK27
     pack: Pack Fourteen
@@ -393,7 +407,7 @@ rules:
     pack_number: 14
     section: "§6"
     title: "Check 29 — The loadout"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       The author notes must contain a Stat Ledger (§7) for every named
@@ -418,13 +432,15 @@ rules:
       R70-98-SHEETS_CHAPTER_ARC_ENDS (style law 2026-10-03): the Stat Ledger
       stays in the notes; a book chapter also closes with a short changes
       block above them.
+      Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no Stat Ledger, so
+      the check retires.
 
   - id: R14-6-NUMBERS_GREP
     pack: Pack Fourteen
     pack_number: 14
     section: "§6"
     title: Figures are grepped against Fracture_of_Worlds.md before presenting
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md
@@ -445,13 +461,16 @@ rules:
       Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): a figure
       this grep marks estimate may print in a readout with the instrument's
       own hedge, and the notes log it as estimate.
+      Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a missing figure is
+      derived from the Fracture of Worlds tables, written plainly, canon on
+      use; there is no Stat Ledger to grep.
 
   - id: R14-7-STAT_LEDGER_CONTENTS
     pack: Pack Fourteen
     pack_number: 14
     section: "§7"
     title: The Stat Ledger's required mechanical contents
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Every scene's author notes carry, per named practitioner: Stage,
@@ -472,14 +491,15 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "90-92"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no Stat Ledger.
 
   - id: R14-8-ABILITY_GUIDE_FOW_LINE
     pack: Pack Fourteen
     pack_number: 14
     section: "§8"
     title: Every technique entry gains an FOW line
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       Every technique entry in the Ability and Technique Design Guide
@@ -502,7 +522,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "104"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: a retired
+      field format for a sixth edition that does not exist in the project.
 
   - id: R14-8-CHARACTER_SHEET_FOW_LINE
     pack: Pack Fourteen
@@ -539,13 +561,15 @@ rules:
       mechanics, where it was learned and the Sub-Stats that price it, and
       carrying the three marks Held, Drilled and Mastered; the other sections
       and the Techniques FOW line stand.
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: the sections below the
+      head are a menu; a technique's FOW line is filled where it helps.
 
   - id: R14-8-COMBAT_GUIDE_ADJUDICATION
     pack: Pack Fourteen
     pack_number: 14
     section: "§8"
     title: Pack Fourteen's §3 becomes the Combat Guide's adjudication chapter
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       §3's stat-to-question table becomes the adjudication chapter of the
@@ -564,7 +588,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "106"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent
+      guide-edit order.
 
   - id: R14-8-STAT_SHEET_SOURCE_OF_TRUTH
     pack: Pack Fourteen
@@ -592,7 +618,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "107"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a disagreement is
+      resolved by field order and Natalie moves on (Fracture of Worlds for
+      law, the Stat Sheet for figures, the card for person facts); the cards
+      are wiki pages, Notion retired.
 
   - id: R14-A
     pack: Pack Fourteen

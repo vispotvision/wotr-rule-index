@@ -41,7 +41,9 @@ rules:
     the wound and the cost stay Western. R12-8-COMBAT_GUIDE_READ_LENGTH (the read at length, now timed
     by R71-23-TELL_READ) and R70-15-TEMPO_STILLNESS (jo-ha-kyu) are read with it; R70-9-TECHNICAL_MYSTIC_REGISTERS
     is not named and stands. Works with R71-23-TELL_READ (how a tell is shown and read) and R71-4-FAR_FROM_FLOOR
-    (Verdict states the read before the cut).'
+    (Verdict states the read before the cut).
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: wounds are written plain and anime on the page;
+    the clinical account lives in the notes and a medic''s mouth.'
 - id: R71-2-EASTERN_COMBAT_MODELS
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -124,7 +126,9 @@ rules:
     the archive has never written (see R71-60-VOLLEY_SMOKE_DRILLED_LINE). Sanderson sits beside R70-71-EXPLAINING_WORKING_MID_FIGHT
     (rules shown beforehand). The HEMA novelists are the Western school''s model and sit with R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
     (moves named in the POV''s own school). Combat models only: R70-4-WESTERN_MODELS (the style models)
-    is untouched, and R70-3-STRAND_LEADS_LAYER is read with R71-1-WHERE_LINE_FALLS_FIGHT.'
+    is untouched, and R70-3-STRAND_LEADS_LAYER is read with R71-1-WHERE_LINE_FALLS_FIGHT.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: the HEMA novelists are a model for
+    armoured fights only; their fencing-manual vocabulary stays off the page (R77-1).'
 - id: R71-4-FAR_FROM_FLOOR
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -132,10 +136,9 @@ rules:
   title: The combat floor rescaled and paid by grammar
   status: live
   kind: budget
-  summary: Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that
-    turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar
-    pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass;
-    Percussion and Expenditure the cost every exchange).
+  summary: Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding
+    exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures
+    in notes and shows tells and body cost (R77-2).
   verbatim: 'Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict
     states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure
     carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is
@@ -164,7 +167,16 @@ rules:
     700 to 1,500 word turn give way to today''s lengths (turns about 3,500 words under R48-28-TURN_LENGTH,
     set pieces 5,000 and up under R48-46-WORD_FLOOR). Partly amends R13-4-COMBAT_FLOOR, whose eight items
     stand, by setting where each grammar pays them. Works with R70-102-STILLNESS_TRACED_PASSES_LONG (duel
-    shape by grammar); R13-8-RECONSTRUCTIBLE_ADJUDICATION stands.'
+    shape by grammar); R13-8-RECONSTRUCTIBLE_ADJUDICATION stands.
+
+
+    Partly amended by the 2026-10-08 direction indexed as R77-2-COMBAT_ROLEPLAY_TELLS: only in combat
+    roleplay, effects and readable tells, body cost, read and fault as behaviour are on the page; mechanism,
+    system figures and the explanation remain in notes, the card and Stat Ledger. A voice explains only
+    what it earned by reading tells. Written set pieces and books keep the full floor. The source context
+    identifies the roleplay-only scope as Claude''s interpretation; it is not widened here. Amended 2026-10-17
+    by R79-6-FIGHTS_ON_THE_PAGE: the floor is body, path, target, result and what it cost; roleplay fights
+    pay it on the page like set pieces (R77-2 gone).'
 - id: R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -208,7 +220,7 @@ rules:
   pack_number: null
   section: K9
   title: What Natalie writes of a player's fighter
-  status: live
+  status: superseded
   kind: mandate
   summary: For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure,
     its ATLS class and what the hand can no longer do as world facts, places the tell but never draws
@@ -254,7 +266,10 @@ rules:
     his conclusion, the deduction being his post. Extended by R74-28-FEAR_IN_PC (mystery law 2026-10-04):
     at a horror, outside a fight too, where a field, Pressure, a working, the cold or a sudden shock acts
     on his body, its signs are written as world facts, as a wound is under this row; what he feels about
-    them and does stays his. This row stands.'
+    them and does stays his. This row stands.
+    Superseded 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: Natalie writes his PC in fights too
+    (thought, read, how he bears a wound); R79-6 puts the full mechanism and cost on the page and
+    R79-10 ends the Stat Ledger.'
 - id: R71-7-READER_SEES_CALL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -291,7 +306,9 @@ rules:
     R14-3-TRACEABILITY stands (''The notes still name the row''). The Grade estimate is R70-88-NUMBERS_INSIDE_FIGHT''s
     read (estimates in the POV''s own terms, no running figures), and R70-79-CAN_READ_WHOM sets how close
     a practitioner''s sense can get. R48-48-EXPLAIN (explaining after a scene, only when asked) is unchanged.
-    A confident wrong read (R12-4-VOICE_ONE_POV) is not barred by this row.'
+    A confident wrong read (R12-4-VOICE_ONE_POV) is not barred by this row.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the stats decide out of sight; the notes no
+    longer name the row except, at archive, for a contested or turning outcome.'
 - id: R71-8-CORE_PROMISE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -366,7 +383,9 @@ rules:
     The Primal Hunter''s time-stopping sense stays out until a mechanism is ruled. Delve''s reserve figures
     stay between exchanges and in the notes under R70-88-NUMBERS_INSIDE_FIGHT; Starvation, below a tenth
     of the reserve, runs on R60-03-HARD_RESERVE_CLOCK. Combat models only: R70-6-LITRPG_PROGRESSION_MODELS
-    is untouched.'
+    is untouched.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up: R70-113 is superseded; comic beats
+    come from the characters who play that way (R78-8).'
 - id: R71-10-COUNTING_BACK_SMALL_EXCHANGES
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -401,13 +420,15 @@ rules:
     ones are still named by their move, so that row stays live with a note. Also partly amends R13-4-COMBAT_FLOOR''s
     trigger, now any exchange that lands, shifts measure or reveals something. Fits Percussion''s attrition
     (R1-1-PERCUSSION_VS_BLADE) and R70-57-DESCRIPTION_INSIDE_FIGHT''s ''traced and lean''; R70-102-STILLNESS_TRACED_PASSES_LONG
-    stands.'
+    stands.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: exchanges where nothing lands may be summed in a
+    sentence; every hit that lands gets its own clause and they add up.'
 - id: R71-11-RUNNING_FAST
   pack: Combat Law 2026-10-04
   pack_number: null
   section: CW2
   title: One staccato run per fight
-  status: live
+  status: superseded
   kind: budget
   summary: Once per fight, in its swift stretch, one short paragraph of short, even sentences may break
     the run rule, and the author notes mark it.
@@ -441,7 +462,9 @@ rules:
     (the 80% target) are not, and a paragraph of short, even sentences cannot meet a per-paragraph variance
     check, so whether the marked paragraph also answers to them is not settled by these words and is flagged
     for the conflict log. R48-06-RHYTHM_LAW is not named. verify''s flat-run count (R4-14-RUN_RULE) does
-    not yet know the exemption; the notes'' mark is what the reviewer reads.'
+    not yet know the exemption; the notes'' mark is what the reviewer reads.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the run rule it exempted from is gone
+    (R79-3), and per-fight counts are guidance.'
 - id: R71-12-KEEPING_SPACE_TRACKABLE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -509,7 +532,9 @@ rules:
     Speed row for the Grade (R12-5-NEVER_INVENT_NUMBER; R45-1-SPEED_DECIDES_THE_DODGE against shot). Felt
     time sits beside R70-57-DESCRIPTION_INSIDE_FIGHT''s one held instant; a slower POV gets only the gap.
     Any after-image is disturbed snow, dust or frost, never a glowing double: R9-3-AURA_AS_FRACTURE keeps
-    ''it glowed'' banned. R70-83-FIGURES_PLAIN_NARRATION governs any figure narration states.'
+    ''it glowed'' banned. R70-83-FIGURES_PLAIN_NARRATION governs any figure narration states.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the glow clause is struck: auras glow and
+    afterimages may be light.'
 - id: R71-14-IMPACT_MOMENTUM
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -542,10 +567,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CW5 (digest). Extends R13-4-COMBAT_FLOOR's item 5 (mass and lever, hip drive) and partly amends
+  notes: 'CW5 (digest). Extends R13-4-COMBAT_FLOOR''s item 5 (mass and lever, hip drive) and partly amends
     R13-5-GAP_FILL_PASS, whose physics audit now checks the momentum account. The stock images (the heel
     furrow the archive repeats) move into the culture image bank of R70-59-WHERE_COMPARISONS_COME_FROM.
     R13-6-REAL_SCIENCE_VOCAB and R48-16-REAL_FIGURES stand for the terms and any figures.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the momentum account is guidance, not a
+    per-fight count; the per-culture image bank is reference with no size (R79-3).'
 - id: R71-15-FIGHTING_THROUGH_WOUND
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -617,13 +644,15 @@ rules:
   notes: 'CW7 (digest). Sets length only: R48-34-WOUNDS (full clinical gore, nothing looked away from)
     and R54-20-MASS_WOUND_ANATOMY stand, and R70-105-JOINS_WOUND_WHEN_FIGHT''s rites and elegiac image
     ride the lingering passage. The battle''s one full-detail body is the Mass Combat Guide''s. R48-38-AFTERMATH
-    is unchanged here (see R71-21-AFTERMATH_PAGE).'
+    is unchanged here (see R71-21-AFTERMATH_PAGE).
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: roleplay turns no longer keep wounds short: a
+    roleplay fight is written like a set piece, wounds plain and anime with full gore.'
 - id: R71-17-FEAR_BODY
   pack: Combat Law 2026-10-04
   pack_number: null
   section: CW8
   title: Fear in the body, owed for the untrained
-  status: live
+  status: superseded
   kind: mandate
   summary: Give an untrained POV's fights at least two fear effects in the body traced to adrenaline,
     and let trained fighters keep composure free, showing it only under real strain or Pressure.
@@ -647,9 +676,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CW8 (digest). R52-28-COMPOSURE stands and is the trained fighter's half. An untrained POV keeps
+  notes: 'CW8 (digest). R52-28-COMPOSURE stands and is the trained fighter''s half. An untrained POV keeps
     his own body in plain words (R49-50-OWN_BODY), so the fear effects are written plainly. R60-01-BRUTAL_LETHALITY
     and R13-5-GAP_FILL_PASS are unchanged.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: per-fight counts are guidance; fear in the
+    body is a tool, and trained composure follows the card.'
 - id: R71-18-FIGHT_SOUNDS_LIKE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -680,11 +711,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CW9 (digest). Partly amends R70-22-SOUND_WORDS (a culture 'may carry a few' native sound words;
-    in fights they now carry the impacts, and each bank gains fight words) and R48-03-SIMILES for an impact's
+  notes: 'CW9 (digest). Partly amends R70-22-SOUND_WORDS (a culture ''may carry a few'' native sound words;
+    in fights they now carry the impacts, and each bank gains fight words) and R48-03-SIMILES for an impact''s
     sound in a fight, where the comparison waits for the held instant of R70-57-DESCRIPTION_INSIDE_FIGHT.
     The words stay roman (R49-49-FOREIGN, R50-32-ITALICS). English noise words were not taken. R70-59-WHERE_COMPARISONS_COME_FROM
     governs the comparison when it comes.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: Inventory entries are reference with no
+    draw-first order; native sound words are a tool at impact.'
 - id: R71-19-GROUND_WEATHER_FIGHT
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -718,11 +751,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CW10 (digest); new ground by rotation and texture only were not taken. Partly amends R14-3-STATS_DECIDE_TABLE,
+  notes: 'CW10 (digest); new ground by rotation and texture only were not taken. Partly amends R14-3-STATS_DECIDE_TABLE,
     whose ten-row table had no environment row although Table Rule 5 names the environment; its draw-cost
     row (Harmonics against Aetheric Density) stands. R14-3-TRACEABILITY and R13-8-RECONSTRUCTIBLE_ADJUDICATION
-    now reach the environment. R53-09-WEATHER stands and feeds the row ('cold, wet and thaw change what
-    people can do'). 'Pick before contact' is the Counterplay page's wording.
+    now reach the environment. R53-09-WEATHER stands and feeds the row (''cold, wet and thaw change what
+    people can do''). ''Pick before contact'' is the Counterplay page''s wording.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the ground deciding an exchange is guidance, not
+    a per-fight count. Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the environment row decides
+    out of sight: no author-note citation, a row named in archive notes only for a contested or
+    turning outcome; ties break on the read, then what is left to spend, then the ground.'
 - id: R71-20-FIGHTS_END
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -829,7 +866,9 @@ rules:
     line, and R5-D-HUMOUR_PERMITTED stands. R12-4-VOICE_THREE_OPPONENT (contempt as instruction) stands
     beside it. R70-113-DOUBLE_ACT_COMIC_BEAT and R48-43-SPEECHES are unchanged. Extended by R74-13-INTERROGATION
     (mystery law 2026-10-04): ''R71-22''s accounting extends past fights'': in a questioning each question
-    aims at a tell and the page shows what it bought or cost. Inside a fight this rule stands as written.'
+    aims at a tell and the page shows what it bought or cost. Inside a fight this rule stands as written.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: ''gallows wit stays the only joke'' is struck;
+    each character''s own humour governs in a fight.'
 - id: R71-23-TELL_READ
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -837,8 +876,9 @@ rules:
   title: A tell shown twice, read at the third
   status: live
   kind: procedure
-  summary: Show a tell plainly at its first and second appearance and read it at length at the third,
-    and when the POV is Isaac's PC leave the reading to him.
+  summary: Show a tell plainly at its first and second appearance and read it at length at the third, and
+    when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism
+    and figures in notes (R77-2).
   verbatim: Shown twice, then read. The tell is shown plainly at its first and second appearance and read
     at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your
     PC, the reading is yours.
@@ -863,7 +903,16 @@ rules:
     live read, which stands. Partly amends R12-8-COMBAT_GUIDE_READ_LENGTH: the read at length now comes
     at the third appearance, the first two showing the tell plainly. The PC half restates R71-6-PLAYER_FIGHTER_PAGE
     (''the read his'') and narrows R49-01-WHOSE_HEAD in a fight. R70-71-EXPLAINING_WORKING_MID_FIGHT and
-    R12-4-VOICE_ONE_POV stand.'
+    R12-4-VOICE_ONE_POV stand.
+
+
+    Partly amended by the 2026-10-08 direction indexed as R77-2-COMBAT_ROLEPLAY_TELLS: only in combat
+    roleplay, effects and readable tells, body cost, read and fault as behaviour are on the page; mechanism,
+    system figures and the explanation remain in notes, the card and Stat Ledger. A voice explains only
+    what it earned by reading tells. Written set pieces and books keep the full floor. The source context
+    identifies the roleplay-only scope as Claude''s interpretation; it is not widened here. Amended 2026-10-17
+    by R79-6-FIGHTS_ON_THE_PAGE: shown-twice-then-read is guidance; R77-2''s earned-explanation limit
+    is gone, any voice that has earned it may explain, and R79-1 lets Natalie write his PC''s read.'
 - id: R71-24-ROWS_COME_OUT_LEVEL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -898,7 +947,9 @@ rules:
     read, the reserve on R60-03-HARD_RESERVE_CLOCK, the ground on R71-19-GROUND_WEATHER_FIGHT''s environment
     row. The step is named as a Domain clash names its step (R71-46-DOMAIN_CLASH_PAGE). Every level exchange
     stays reconstructible (R13-8-RECONSTRUCTIBLE_ADJUDICATION, R14-3-TRACEABILITY), and no figure is invented
-    to break a tie (R12-5-NEVER_INVENT_NUMBER).'
+    to break a tie (R12-5-NEVER_INVENT_NUMBER).
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the step that broke the tie is named in
+    archive notes only for a contested or turning outcome.'
 - id: R71-25-WOUNDS_CARRIED_INTO_NEXT
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -926,10 +977,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CW16 (digest); a Grade off and the open-then-knit states were not taken, so Starvation's Grade
+  notes: 'CW16 (digest); a Grade off and the open-then-knit states were not taken, so Starvation''s Grade
     drop is not borrowed for wounds. The body audit is item 5 of R13-5-GAP_FILL_PASS (fatigue carried
     forward, the cut leg still cut), now reaching wounds from earlier fights. Healing time stays R60-02-REAL_HEALING_TIMES.
     R12-5-NEVER_INVENT_NUMBER and R14-3-STATS_DECIDE_TABLE stand.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the gap-fill pass runs only for set pieces and
+    his submitted fights, unlogged; the wound is not named in notes under a turn.'
 - id: R71-26-COUNTING_ROUNDS_VIALS_CHARGES
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1027,12 +1080,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: MC2. Ardency Alacrity is Fracture of Worlds' casting speed; the row needs no figure, so nothing
+  notes: 'MC2. Ardency Alacrity is Fracture of Worlds'' casting speed; the row needs no figure, so nothing
     waits on one. A Readiness figure is set on a card, the way the Summon Register already fills Readiness,
     and is never invented (R12-5-NEVER_INVENT_NUMBER); a card left blank falls back to the row. Every
     race traces to the row or the card (R14-3-TRACEABILITY, R13-8-RECONSTRUCTIBLE_ADJUDICATION). The Alacrity
-    row joins the Combat Guide's §7 table; R14-3-STATS_DECIDE_TABLE and its rows stand. R47-11-TIME_AND_ENERGY's
+    row joins the Combat Guide''s §7 table; R14-3-STATS_DECIDE_TABLE and its rows stand. R47-11-TIME_AND_ENERGY''s
     six-second turn stands. No older rule is reached.
+    Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: Readiness is set when play reaches it.'
 - id: R71-29-OFTEN_ART_RELEASED
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1140,7 +1194,9 @@ rules:
     type-chart option was not taken). R17-3-COUNTER_MANDATORY stands as the hard answer, and the chart
     builds on R47-9-INHERITED_FAILURES (a working inherits its Wellsprings'' failures). Chart entries
     are written as facts (R47-3-COUNTERS_AS_FACTS). R12-3-NAMED_INVENTOR_RULE stands. No older rule is
-    reached.'
+    reached.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: no ratification wait: once derived from Codex
+    physics the chart stands as canon on use, and Isaac may strike it.'
 - id: R71-32-VOWS_LIMITS
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1183,7 +1239,9 @@ rules:
     and for good when broken (R55-1), and two people may bind each other, each card carrying the terms
     and whoever breaks them taking the Shear Break. Partly amended by R75-14-HOW_VOW_SWORN (techniques
     law 2026-10-04): a vow binds when spoken aloud before any living witness, the opponent included, and
-    earns oath experience only at a stone; somebody always heard, so its counter can be found by asking.'
+    earns oath experience only at a stone; somebody always heard, so its counter can be found by asking.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a vow''s lift counts against the two-Grade
+    stacking cap; the figure is set when play reaches it (R79-9).'
 - id: R71-33-DRAIN_SHOWS
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1229,7 +1287,10 @@ rules:
     Counterplay doctrine. R60-03-HARD_RESERVE_CLOCK, R70-88-NUMBERS_INSIDE_FIGHT (no running figures),
     R70-85-SCENE_MOMENTS_THAT_EARN, R70-89-BODY_FIRST_NUMBER_FIRST and R48-37-COST_SHOWN stand; these
     signs carry the clock between readout lines. ''Not taken: By Family'': no per-Family drain sign. No
-    older rule is reached.'
+    older rule is reached.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: clean-up: the running-low thresholds (half, a
+    quarter, a tenth) are world law per R78-10 and their wording is free; no readout comes inside a
+    fight.'
 - id: R71-34-OVERCHANNEL_PAGE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1382,12 +1443,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: MC12. Runs on R39-4-MAX_GRADE_LETTER_BINDS's strain-only zone above the Max Grade bracket, which
+  notes: 'MC12. Runs on R39-4-MAX_GRADE_LETTER_BINDS''s strain-only zone above the Max Grade bracket, which
     stands. The Pair goes when the crisis does, so nothing joins the card; the option keeping it as growth
     was not taken, so R70-90-FAST_NUMBERS_CLIMB and R70-84-GROWTH_MOMENTS_THAT_EARN stand and no growth
     line follows. The strain the notes name is the shown cause. R20C-33-RESONANT_PAIRS_DIAGNOSTIC stands
     for naming the Pair in diagnostic voice; R70-91-BREAKTHROUGH_PAGE is not reached. No older rule is
     reached.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a strain lift counts against the two-Grade
+    stacking cap; the strain is named in archive notes only for a contested or turning outcome.'
 - id: R71-39-ALLIES_WORKING_TOGETHER
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1601,7 +1664,9 @@ rules:
     rest of R70-79 stands. R70-78-WHERE_SCREEN_COMES_FROM stands: the bearer''s own Crystal stays blind
     to others, and the faculty is a Gnosis sense, not that line. The hedged range is R70-99-NUMBER_NOT_YET_CANON''s
     hedge. The line is a readout at R70-85''s appraisal moment, so R70-88-NUMBERS_INSIDE_FIGHT (no running
-    figures) and R70-89-BODY_FIRST_NUMBER_FIRST still govern where it sits.'
+    figures) and R70-89-BODY_FIRST_NUMBER_FIRST still govern where it sits.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: in a fight a faculty read is an estimate in
+    thought or speech; exact figures print only outside a fight.'
 - id: R71-45-RAISING_DOMAIN_DUEL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1715,7 +1780,9 @@ rules:
     The aftermath walk is R57-24-AFTERMATH_IS_THE_TELL. The claims follow R54-15-AFTERMATH_PAID_LATER''s
     precedent of a later scene paying an aftermath; R54-15 stands. The fighter''s own bill is R71-99-BILL_AFTER_FIGHT
     (WT10). ''Not taken: A report sizes it'': the report device was not chosen; R13-6-SCALING_VOCAB_RESTRICTED
-    stands, and R13-A (ruled 2026-09-12) is not reached. R70-69-PRESSURE_AURA stands.'
+    stands, and R13-A (ruled 2026-09-12) is not reached. R70-69-PRESSURE_AURA stands.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: NPC thoughts are free, so the street dip
+    needs no exception; the dip, the aftermath walk and the claims are tools (R79-6).'
 - id: R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1748,7 +1815,8 @@ rules:
     falls as eta rises; R47-8 stands. R9-3-AURA_AS_FRACTURE stands for the display beat (broken geometry);
     ''The word glow stays banned'' carries its glow ban to waste light outside the display beat. The phenomenon
     is named as R13-3-PHENOMENON_MANDATE asks. R70-69-PRESSURE_AURA is not reached. No verify_scene check
-    catches glow yet. No older rule is reached.'
+    catches glow yet. No older rule is reached.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the glow ban is struck; auras glow.'
 - id: R71-49-SUMMON_DISPLAY_BEAT
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2062,11 +2130,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: FT7. Fills R70-85-SCENE_MOMENTS_THAT_EARN's appraisal for a beast; R70-85 stands. Counted under
-    R70-86-MANY_READOUTS_SCENE_CARRIES, as the answer says. The rung is the Bestiary's output rung and
-    the tier the Commission's Danger Tier and Sigil. The tape is R70-77-INSTRUMENT_CAN_SHOW's, placed
+  notes: 'FT7. Fills R70-85-SCENE_MOMENTS_THAT_EARN''s appraisal for a beast; R70-85 stands. Counted under
+    R70-86-MANY_READOUTS_SCENE_CARRIES, as the answer says. The rung is the Bestiary''s output rung and
+    the tier the Commission''s Danger Tier and Sigil. The tape is R70-77-INSTRUMENT_CAN_SHOW''s, placed
     by R70-80-READOUT_SITS_PAGE; both stand. Every figure on it is bound by R12-5-NEVER_INVENT_NUMBER.
     Options A (the rung only) and B (the tier only) were not taken.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: no readout comes inside a fight and the readout
+    caps retire; outside a fight the appraisal prints as written.'
 - id: R71-58-ONE_SHOT_PRACTITIONER
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2095,12 +2165,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: FT8. The reference figure is the one R45-1-SPEED_DECIDES_THE_DODGE's row records (a plain .44
+  notes: 'FT8. The reference figure is the one R45-1-SPEED_DECIDES_THE_DODGE''s row records (a plain .44
     at about 235 m/s); R45-1 stands. R53-05-PROOF_PLATE frees the cause; CW17 is R71-26-COUNTING_ROUNDS_VIALS_CHARGES.
-    The Speed Grade is the POV's read, an estimate under R70-88-NUMBERS_INSIDE_FIGHT. R11-3-BALLISTICS_RULING
+    The Speed Grade is the POV''s read, an estimate under R70-88-NUMBERS_INSIDE_FIGHT. R11-3-BALLISTICS_RULING
     and R11-5-COMBAT_GUIDE_RANGE_OPENING are not named and stand. Option A, which would have restored
-    the texture clause of R11-3-FIREARM_PROSE_LAW ('The gun is furniture, not spectacle'), was not taken;
+    the texture clause of R11-3-FIREARM_PROSE_LAW (''The gun is furniture, not spectacle''), was not taken;
     that row stays superseded by R53-05-PROOF_PLATE.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: R70-88 is superseded; the Speed Grade
+    read is an estimate in thought or speech, and figures stay in mouths.'
 - id: R71-59-PRACTITIONERS_AS_ARTILLERY
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2133,7 +2205,9 @@ rules:
     so the practitioner''s head stays closed during the fighting. The sections are R70-106-BATTLE_TOLD''s
     hill and ditch at marked breaks; R70-106 stands. R1-2-THREE_FIELDS_MANDATORY and R2-6-DOMAINS_BREAK_NOT_KILL
     are not named and stand. Options A (weather from the ditch only) and B (the practitioner holding the
-    hill section) were not taken.'
+    hill section) were not taken.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: R3-9 is superseded: the practitioner may hold
+    POV during the fighting; battery and spotter stay a tool.'
 - id: R71-60-VOLLEY_SMOKE_DRILLED_LINE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2168,11 +2242,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: FT10. Three sections taken; option C (field guns, rockets and the rare state-owned machine gun)
-    was not taken. The enhanced-shot section gives R53-04-ENHANCED_SHOT its place in battle, and its 'priced,
-    made and findable' reads with R45-5-PAID_PER_SHOT_AND_FINDABLE; both stand. The spread is Counterplay's
+  notes: 'FT10. Three sections taken; option C (field guns, rockets and the rare state-owned machine gun)
+    was not taken. The enhanced-shot section gives R53-04-ENHANCED_SHOT its place in battle, and its ''priced,
+    made and findable'' reads with R45-5-PAID_PER_SHOT_AND_FINDABLE; both stand. The spread is Counterplay''s
     doctrine, as the answer says. R53-03-FIREARM_CEILING, R59-12-TRANSITIONAL_MILITARY, R11-3-BALLISTICS_RULING,
     R1-4-PRECEDENCE_NOTE and R70-106-BATTLE_TOLD are not named and stand.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: clean-up: a guide-edit order; its sections are
+    tools, not per-battle musts.'
 - id: R71-61-SIEGE_WITH_PRACTITIONERS_IT
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2234,11 +2310,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: FT12. Two shapes taken; option C (the crowd and the law) was not taken. R2-6-SPEED_RULING ('A
-    character who arrives fast arrives depleted'), R60-03-HARD_RESERVE_CLOCK and R47-11-TIME_AND_ENERGY
+  notes: 'FT12. Two shapes taken; option C (the crowd and the law) was not taken. R2-6-SPEED_RULING (''A
+    character who arrives fast arrives depleted''), R60-03-HARD_RESERVE_CLOCK and R47-11-TIME_AND_ENERGY
     stand and supply the clock. The running total stays in the notes under R70-88-NUMBERS_INSIDE_FIGHT,
-    as the answer says. R13-8-RECONSTRUCTIBLE_ADJUDICATION and R53-18-AWE are not named and stand. CW11's
+    as the answer says. R13-8-RECONSTRUCTIBLE_ADJUDICATION and R53-18-AWE are not named and stand. CW11''s
     flight (R71-20-FIGHTS_END) hands pursuit to this row.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the reserve race runs out of sight; no running
+    total in the notes.'
 - id: R71-63-BEASTKIN_SENSES_FOX_FIRE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2279,7 +2357,9 @@ rules:
     amends R9-3-AURA_AS_FRACTURE: its ''It glowed'' ban stays on Essence discharge and does not reach
     a canon light-making Trait. A smell may pay R13-4-COMBAT_FLOOR''s item 3 (the read, the specific tell
     named) for a scenting POV; the floor stands. R1-1-YOKO_ASSIGNED (nose reads before eyes) is not named
-    and stands. R54-21-FACULTY_AS_SUBJECT and R70-85-SCENE_MOMENTS_THAT_EARN are not named and stand.'
+    and stands. R54-21-FACULTY_AS_SUBJECT and R70-85-SCENE_MOMENTS_THAT_EARN are not named and stand.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the glow ban no longer holds even on Essence
+    discharge; auras glow.'
 - id: R71-64-FIGHTING_MAIN
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2315,12 +2395,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: FT14. Three beats taken; option D (rail and the tram slot) was not taken. FOW's law decides the
+  notes: 'FT14. Three beats taken; option D (rail and the tram slot) was not taken. FOW''s law decides the
     burst main and short ground; the question cites FOW Part Eleven for the density and reach law. R70-99-NUMBER_NOT_YET_CANON
-    governs the burst main's marked estimate and R12-5-NEVER_INVENT_NUMBER the short ground's sources;
+    governs the burst main''s marked estimate and R12-5-NEVER_INVENT_NUMBER the short ground''s sources;
     both stand. R53-17-THE_BILL, R70-69-PRESSURE_AURA, R13-8-RECONSTRUCTIBLE_ADJUDICATION and R53-01-IMPERIAL_AGE_SPAN
     are not named and stand. Works with CW10 (R71-19-GROUND_WEATHER_FIGHT), whose environment row has
     Aetheric Density bend named stats.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: any derived figure is written plainly with no
+    mark, canon on use, and in a fight it lives in a mouth.'
 - id: R71-65-RIVER_SEA_FIGHTS
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2384,7 +2466,9 @@ rules:
     after, on the body'') for the one-cut fight. R13-4-COMBAT_FLOOR keeps all eight items; this row places
     them. R1-1-VERDICT_GRAMMAR and R70-102-STILLNESS_TRACED_PASSES_LONG (''Verdict still then one cut'')
     stand. R13-4-THREE_EXPLANATIONS and R70-57-DESCRIPTION_INSIDE_FIGHT are not named and stand. Options
-    A (the whole floor in the read) and B (the unseen cut, paid after) were not taken.'
+    A (the whole floor in the read) and B (the unseen cut, paid after) were not taken.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the read and the opening are shown as behaviour
+    before the cut; the body pays body, path, target, result and cost after it.'
 - id: R71-67-CLEAR_WARNING_BEFORE_LOSS
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2515,12 +2599,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL1. Extends R70-75-RITE_PAGE to the alchemist's bench in its own words ('R70-75 extended to
-    the bench'; note filed there); R70-75 stands for rites. 'A's single stretch' is option A, the floor
+  notes: 'AL1. Extends R70-75-RITE_PAGE to the alchemist''s bench in its own words (''R70-75 extended to
+    the bench''; note filed there); R70-75 stands for rites. ''A''s single stretch'' is option A, the floor
     of R70-46-CRAFT_LABOUR_PAGE (one stretch of process, the finished Draft looked at), which stands for
-    minor bench work. The form keeps its house's style (R51-33-DOC_REGISTER), and R12-6-RITUAL_SPECIFICATION's
-    bill of goods, order of operations and errors stand. Works with R71-73-PREPARED_LIVE_FIGHT ('A bench
-    scene plants each vial').
+    minor bench work. The form keeps its house''s style (R51-33-DOC_REGISTER), and R12-6-RITUAL_SPECIFICATION''s
+    bill of goods, order of operations and errors stand. Works with R71-73-PREPARED_LIVE_FIGHT (''A bench
+    scene plants each vial'').
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the numbered form and its departure are
+    tools used when they matter.'
 - id: R71-71-HEAT_DRAW_AGE_BENCH
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2622,7 +2708,9 @@ rules:
     each vial'' carries R70-71-EXPLAINING_WORKING_MID_FIGHT to Drafts (note filed there). Draft ground
     is ground inscribed for one working (Volume III''s chalk over dressed stone). Turns are R47-11-TIME_AND_ENERGY''s
     six seconds and Drafts stay reserve-free (R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN); both stand. Use
-    time inside the turn is R71-74-DRAFT_SIX_SECOND_TURN.'
+    time inside the turn is R71-74-DRAFT_SIX_SECOND_TURN.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: a Draft needs only a plausible source; a bench
+    scene planting each vial is a tool, not owed.'
 - id: R71-74-DRAFT_SIX_SECOND_TURN
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2650,11 +2738,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL5. The turn is R47-11-TIME_AND_ENERGY's six seconds, and the fencing grammar that takes over
-    inside roughly twenty feet is R11-5-COMBAT_GUIDE_RANGE_OPENING's; both stand. Measure is the distance
+  notes: 'AL5. The turn is R47-11-TIME_AND_ENERGY''s six seconds, and the fencing grammar that takes over
+    inside roughly twenty feet is R11-5-COMBAT_GUIDE_RANGE_OPENING''s; both stand. Measure is the distance
     where one step and a blow can land. The exchange the opening invites is traced under R13-4-COMBAT_FLOOR,
     and the tell is a fact under R47-3-COUNTERS_AS_FACTS. Options B (never inside measure) and C (fast
     as the hand) were not taken.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: ''turn'' here is the six-second action
+    turn (R47-11), not a roleplay reply.'
 - id: R71-75-CARRIES_IT_ONTO_FIELD
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2719,10 +2809,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL7. Every combat formula in the Alchemical Index can fail onto its own user; a failure whose
+  notes: 'AL7. Every combat formula in the Alchemical Index can fail onto its own user; a failure whose
     condition a scene meets fires (R57-10-NEVER_RIGGED) and opponents may induce it (R47-9-INHERITED_FAILURES).
     The precaution is written as fact (R47-3-COUNTERS_AS_FACTS). R12-3-COUNTER_MANDATORY and R70-73-MANY_DISPLAY_BEATS_PER
     stand; option B (first display, then assumed) was not taken.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: items are a toolbox: the precaution is shown
+    where it matters, not at every use.'
 - id: R71-77-POISON_DUEL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2751,11 +2843,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL8. Adds a line to the fields of R70-45-NEW_STANDING_INVENTORY_FIELDS (note filed there), beside
-    its law and punishment field from R53-11-JUSTICE, which stands. The Accord's munitions class is the
-    Apparatus page's classing of offensive Drafts. R70-101-DECLARING_NAME_LINE_BEFORE and R70-105-JOINS_WOUND_WHEN_FIGHT
+  notes: 'AL8. Adds a line to the fields of R70-45-NEW_STANDING_INVENTORY_FIELDS (note filed there), beside
+    its law and punishment field from R53-11-JUSTICE, which stands. The Accord''s munitions class is the
+    Apparatus page''s classing of offensive Drafts. R70-101-DECLARING_NAME_LINE_BEFORE and R70-105-JOINS_WOUND_WHEN_FIGHT
     stand; option A (declared, or it is murder, in every culture) was not taken, so whether a coating
-    must be declared is each culture's line.
+    must be declared is each culture''s line.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: Standing Inventories owe no
+    fields; a culture''s coated-weapon custom is written when a scene needs it.'
 - id: R71-78-DRAFT_READOUT
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2784,12 +2878,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL9. Fits R70-95-ITEM_CARDS to Drafts (note filed there); its once-only card stands. Gate is
-    the Standing Index's rank gate, rung the Drafts ladder's rung (the energy one dose holds), Class the
+  notes: 'AL9. Fits R70-95-ITEM_CARDS to Drafts (note filed there); its once-only card stands. Gate is
+    the Standing Index''s rank gate, rung the Drafts ladder''s rung (the energy one dose holds), Class the
     Provenance Class, Fidelity closeness to the reference lot, Carry how much of the source came with
-    it. The wound line is R70-85-SCENE_MOMENTS_THAT_EARN's, which stands with no fourth moment (option
+    it. The wound line is R70-85-SCENE_MOMENTS_THAT_EARN''s, which stands with no fourth moment (option
     B was not taken); R70-86-MANY_READOUTS_SCENE_CARRIES, R70-80-READOUT_SITS_PAGE and R70-77-INSTRUMENT_CAN_SHOW
     stand.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the card is an optional form; a Draft needs
+    only a plausible source.'
 - id: R71-79-MEDICINE_PLACE_PURSE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2818,9 +2914,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL10. Extends R53-10-MEDICINE with the Drafts (note filed there). R60-02-REAL_HEALING_TIMES stands.
+  notes: 'AL10. Extends R53-10-MEDICINE with the Drafts (note filed there). R60-02-REAL_HEALING_TIMES stands.
     Fees and prices quote the approved table (R53-07-PRICE_TABLE, R70-48-MONEY_PRICE_PROVENANCE). Options
     A (Drafts first) and B (surgeon first, Drafts cheap) were not taken.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: items are a toolbox: naming which medicine is
+    a tool, not owed in every wound scene.'
 - id: R71-80-PROVING_POISON
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2890,7 +2988,9 @@ rules:
     its docket line set off from the prose'': its protocol as action now reaches every Night Watch search,
     rooms, bodies and seals playing step by step as action, figures in a mouth, nothing summarised, and
     the search closes on its docket line set off from the prose. Its figures outside R70-86-MANY_READOUTS_SCENE_CARRIES''s
-    cap and the instruments'' contradiction as the turn stand.'
+    cap and the instruments'' contradiction as the turn stand.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: R70-86 is superseded; figures in a
+    mouth are fine in any scene, a fight included.'
 - id: R71-82-CORRUPTION_SHOWN_BODY
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3000,11 +3100,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: AL15, multi-select (A, B, C all taken). A carries R70-48-MONEY_PRICE_PROVENANCE from purchase
+  notes: 'AL15, multi-select (A, B, C all taken). A carries R70-48-MONEY_PRICE_PROVENANCE from purchase
     to use in its own words (note filed there), the sum from R53-07-PRICE_TABLE or the Standing Index.
     B makes the registered mark standing texture on the model of R11-3-PROOF_MARKS_CANON, which stands;
-    Draycott's mark (R65-3-DRAYCOTT_REGISTERED_MARK) is one such mark. C's unentered lot is the breach
+    Draycott''s mark (R65-3-DRAYCOTT_REGISTERED_MARK) is one such mark. C''s unentered lot is the breach
     R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA puts on the seller; that row stands.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: money that changes hands is named; counting a
+    Draft''s cost at use and checking the mark are tools.'
 - id: R71-85-DRAFT_AGAINST_WORKING
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3221,7 +3323,7 @@ rules:
   pack_number: null
   section: WT3
   title: A trained read names both Tiers; the steel shows the sum
-  status: live
+  status: superseded
   kind: mandate
   summary: A trained POV names both Tiers in her read before an exchange against armour and the steel
     then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can
@@ -3256,7 +3358,9 @@ rules:
     (kind if plain, Tier if worked) and R71-93-PROOFED_SHOT_AGAINST_PROOFED (proofed shot counts one Tier
     higher) apply it, in aid of R13-8-RECONSTRUCTIBLE_ADJUDICATION. R53-05-PROOF_PLATE''s causal sentence
     carries the untrained fallback; R11-3-PROOF_MARKS_CANON is unchanged. Option C (the mark, read before)
-    was not taken.'
+    was not taken.
+    Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: in a fight figures live in mouths, and one
+    item ladder decides out of sight (R79-10).'
 - id: R71-92-ARMOUR_KIND_AGAINST
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3337,7 +3441,9 @@ rules:
     and R20C-26-STEEL_STOPS_THE_SHOT was already superseded by R13-C. R53-07-PRICE_TABLE is not amended
     (option A, which amended the price table''s note, was not taken). The explanation ban C-001 first
     concerned, R11-3-FIREARM_PROSE_LAW, was superseded by R53-05-PROOF_PLATE; R71-102-WHERE_COMBAT_LAW_LANDS
-    has NATALIE.md''s stale combat lines rewritten, the C-001 line among them.'
+    has NATALIE.md''s stale combat lines rewritten, the C-001 line among them.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: one item ladder decides out of sight: a named
+    round strikes two Tiers over, makers graded by Tier of Standing.'
 - id: R71-94-STALE_POUCH
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3488,7 +3594,9 @@ rules:
     the fight, as R70-71-EXPLAINING_WORKING_MID_FIGHT asks; the answer''s own examples of a clause are
     alive, intact, unwitnessed and before the thaw, and the cheapest counter often breaks it. Pay is named
     from the approved table (R70-48-MONEY_PRICE_PROVENANCE, R53-07-PRICE_TABLE). A Well posting in the
-    Guild''s style reads with R20C-21-WELL_NAMES_CLASS_MARKED''s Guild register. No older rule is superseded.'
+    Guild''s style reads with R20C-21-WELL_NAMES_CLASS_MARKED''s Guild register. No older rule is superseded.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: document forms are optional: the posting and
+    the contract''s limiting clause are tools, not owed on every contract.'
 - id: R71-98-HEARS_RAIL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3525,7 +3633,9 @@ rules:
     the two-voice cap (R70-87-READOUTS_TWO_VOICE_CAP); another''s exact figures still need an instrument
     (R70-79-CAN_READ_WHOM, R70-77-INSTRUMENT_CAN_SHOW). A suppressed Stage exposed before the benches
     is a public reversal and opens a Front or a Ledger debt (R70-112-FACE_FACE_SLAP). Options B (to the
-    bout-book only) and C (read out at the close) were not taken. No older rule is changed.'
+    bout-book only) and C (read out at the close) were not taken. No older rule is changed.
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the call is figures in a mouth, which a fight
+    allows; the two-voice cap it cites is gone.'
 - id: R71-99-BILL_AFTER_FIGHT
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3650,7 +3760,7 @@ rules:
   pack_number: null
   section: ME1
   title: The combat law lands in a rule doc, three guide editions and NATALIE.md
-  status: live
+  status: superseded
   kind: procedure
   summary: The combat answers land as one dated Combat Law rule doc logged through log_ruling and served
     by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing
@@ -3690,7 +3800,8 @@ rules:
     as live; the Mass Combat Craft Guide has no firearm; NATALIE.md keeps a C-001 line R53-05-PROOF_PLATE
     overturned. R13-9-COMBAT_GUIDE_EDIT''s third edition is history the new edition builds on. The rule
     doc is rules/doc-combat-law-2026-10-04.yaml. The order of the work is R71-105-PROOF_ORDER_WORK. Supersedes
-    nothing.'
+    nothing.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order.'
 - id: R71-103-COMBAT_CHECKS_VERIFY_SCENE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3699,10 +3810,11 @@ rules:
   status: live
   kind: procedure
   summary: verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school
-    and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in
-    one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene
-    on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed,
-    'without deciding to', 'the particular X of Y').
+    and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one
+    exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the
+    archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed,
+    'without deciding to', 'the particular X of Y'). European jargon is WARNed (R77-1); combat roleplay
+    keeps mechanism and figures in notes (R77-2).
   verbatim: 'Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own
     school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its
     own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in
@@ -3732,12 +3844,25 @@ rules:
     added. The counts make R70-86-MANY_READOUTS_SCENE_CARRIES and R70-88-NUMBERS_INSIDE_FIGHT mechanical.
     Not taken: option C, checks 24 to 26 (causal density, a stated fault, a reserve account) as WARN-level
     guesses, so R13-9-VERIFY_CHECKS_22_26''s checks 24 to 26 stay a manual read. R48-45-CHECKS is unchanged.
-    R71-89-ITEM_CARD_FIGHT''s WARN on a set-off block between exchanges is built alongside, before the
-    test fight (R71-105-PROOF_ORDER_WORK). Noted by R73-41-INTIMACY_CHECKS_VERIFY (intimacy law 2026-10-04):
-    its stale-touch watch (the hand on the arm, the jaw held, the kiss on the hair) runs ''as R71-103
-    does for fight devices'', and verify --explicit ''stops counting ''cock'' as gun vocabulary''. This
-    row names no firearms term, and the firearms list built for it (build/verify.py at HEAD) holds no
-    bare ''cock'', so nothing here changes. The school lists, the counts and the stale-device watch stand.'
+    R71-89-ITEM_CARD_FIGHT''s WARN on a set-off block between exchanges is built alongside, before the test
+    fight (R71-105-PROOF_ORDER_WORK). Noted by R73-41-INTIMACY_CHECKS_VERIFY (intimacy law 2026-10-04):
+    its stale-touch watch (the hand on the arm, the jaw held, the kiss on the hair) runs ''as R71-103 does
+    for fight devices'', and verify --explicit ''stops counting ''cock'' as gun vocabulary''. This row names
+    no firearms term, and the firearms list built for it (build/verify.py at HEAD) holds no bare ''cock'',
+    so nothing here changes. The school lists, the counts and the stale-device watch stand.
+
+
+    Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European fencing-manual
+    jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure in plain words.
+    Check 22 warns on that jargon instead of treating it as useful school vocabulary. Mechanics remain.
+    Eastern terminology is explicitly unanswered in the source context.
+
+
+    Partly amended by the 2026-10-08 direction indexed as R77-2-COMBAT_ROLEPLAY_TELLS: only in combat roleplay,
+    effects and readable tells, body cost, read and fault as behaviour are on the page; mechanism, system
+    figures and the explanation remain in notes, the card and Stat Ledger. A voice explains only what it
+    earned by reading tells. Written set pieces and books keep the full floor. The source context identifies
+    the roleplay-only scope as Claude''s interpretation; it is not widened here.'
 - id: R71-104-COMBAT_SAMPLE_BANK
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3771,7 +3896,7 @@ rules:
   pack_number: null
   section: ME4
   title: Law and checks first, then the test fight, then guides and bank
-  status: live
+  status: superseded
   kind: procedure
   summary: 'The combat work runs in order: log the law and build the new checks, run the test fight against
     them, amend, and only then write the guide editions and the sample bank, once, against proved law.'
@@ -3788,7 +3913,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ME4. Follows R70-138-PROOF_ORDER_WORK's law-then-test pattern with the new checks (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+  notes: 'ME4. Follows R70-138-PROOF_ORDER_WORK''s law-then-test pattern with the new checks (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
     built before the test fight, so it tests them; the guide editions (R71-102-WHERE_COMBAT_LAW_LANDS)
     and the bank (R71-104-COMBAT_SAMPLE_BANK) come after. An amendment found in the test fight enters
     as a new dated ruling (CLAUDE.md). R70-138-PROOF_ORDER_WORK is not changed.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order.'

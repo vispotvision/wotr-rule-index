@@ -39,6 +39,9 @@ rules:
       This is the three-vocabulary framework Pack Three's Amendment Seven
       later extends with a fourth grammar, Expenditure
       (R3-7-EXPENDITURE_GRAMMAR).
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: there are now
+      four combat grammars (Verdict, Blade, Percussion and Expenditure), as
+      R71-4 and R75-25 name them.
 
   - id: R1-1-BLADE_GRAMMAR
     pack: Pack One
@@ -47,12 +50,9 @@ rules:
     title: Blade Grammar, the existing Liechtenauer/Fiore framework
     status: live
     kind: definition
-    summary: >-
-      Applies to characters trained in a conventional sword tradition
-      (guards, master-cuts, the bind, Winden, Indes, Absetzen,
-      Durchwechseln); the full existing framework applies without change,
-      assigned to conventional duellists, Concord Aether Knights, Old
-      World nobility, and guild fencing traditions.
+    summary: Conventional sword traditions keep their guards, cuts, bind, read and measure mechanics, assigned
+      to conventional duellists, Concord Aether Knights, Old World nobility and guild fencing traditions;
+      European actions use plain body language under R77-1.
     verbatim: >-
       Blade Grammar (Liechtenauer/Fiore, as the guide already documents).
       Applies to characters trained in a conventional sword tradition.
@@ -69,13 +69,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "27-28"
-    notes: >-
-      Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
-      2026-10-03) a Blade Grammar fight is narrated in the POV's own school's
-      words, so an Eastern-trained POV names a Liechtenauer fencer's moves in
-      his own training and the HEMA word arrives in a mouth;
-      R70-102-STILLNESS_TRACED_PASSES_LONG gives Blade duels traced passes.
+    notes: 'Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03) a Blade Grammar fight
+      is narrated in the POV''s own school''s words, so an Eastern-trained POV names a Liechtenauer fencer''s
+      moves in his own training and the HEMA word arrives in a mouth; R70-102-STILLNESS_TRACED_PASSES_LONG
+      gives Blade duels traced passes.
 
+
+      Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European fencing-manual
+      jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure in plain words.
+      Check 22 warns on that jargon instead of treating it as useful school vocabulary. Mechanics remain.
+      Eastern terminology is explicitly unanswered in the source context.'
   - id: R1-1-VERDICT_GRAMMAR
     pack: Pack One
     pack_number: 1
@@ -367,10 +370,9 @@ rules:
     title: Yoko Mishiro's combat assignment, pitched
     status: live
     kind: definition
-    summary: >-
-      Blade grammar; works from the bind, nose reads before eyes so her
-      Indes is genuinely faster than her sight allows, an unfair advantage
-      she does not comment on; answers plate with half-swording into gaps.
+    summary: Yoko uses Blade grammar, works from the bind, reads with her nose faster than sight, and answers
+      plate with one hand on the blade and the other on the hilt to guide its point into gaps; describe her timing as action without European jargon
+      (R77-1).
     verbatim: >-
       Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes,
       so her Indes is genuinely faster than her sight allows, which is her
@@ -387,8 +389,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "66"
-    notes: null
-
+    notes: 'Amended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European
+      fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure
+      in plain words. Check 22 warns on that jargon instead of treating it as useful school vocabulary. Mechanics
+      remain. Eastern terminology is explicitly unanswered in the source context.'
   - id: R1-1-BLACK_AGENT_ASSIGNED
     pack: Pack One
     pack_number: 1
@@ -442,14 +446,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "69"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: Sonzai (Chuluun) joins
+      the restricted characters, as another creator's character (R79-1).
 
   - id: R1-2-THREE_FIELDS_MANDATORY
     pack: Pack One
     pack_number: 1
     section: "Amendment Two"
     title: Frontage, Sustain and Re-form are mandatory at scale
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Three further fields (Frontage, Sustain, Re-form) are mandatory for
@@ -473,6 +479,8 @@ rules:
     notes: >-
       This is the origin Pack Two's Amendment Six.7 explicitly says it
       restates (R2-6-FRONTAGE_SUSTAIN_REFORM).
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: duplicate
+      merged into R2-6-FRONTAGE_SUSTAIN_REFORM.
 
   - id: R1-2-FRONTAGE_DEFINED
     pack: Pack One
@@ -634,13 +642,17 @@ rules:
       between Pack One and Pack Twelve that this corpus doesn't otherwise
       capture, or Pack Twelve means a different document by the same name.
       Left unresolved; no supersedes link asserted in either direction.
+      Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: the 2,500-word
+      minimum gives way to about 3,500 words for every in-fiction reply; R79-4
+      frees NPC italic thought (no one-per-NPC count) and lets a scene end on
+      any concrete close, a pressing question included.
 
   - id: R1-3-NAME_THREE_RULE
     pack: Pack One
     pack_number: 1
     section: "Amendment Three"
     title: In mass combat, name three characters carry interiority
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       The one-italic-thought-per-NPC standard is suspended in mass combat;
@@ -674,13 +686,16 @@ rules:
       R70-106 also cites this row for the battle cut between hill and ditch.
       Stands across a battle cut between the commander's hill and one man in
       the press, as R70-106-BATTLE_TOLD says (style law 2026-10-03).
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the battle formulas
+      retire as rules; name-three is an optional tool and NPC thoughts are
+      free (R79-4).
 
   - id: R1-3-WORD_FLOOR_INCLUDES_AFTERMATH
     pack: Pack One
     pack_number: 1
     section: "Amendment Three"
     title: The word floor covers the engagement plus its aftermath
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       The 2,500-word minimum applies to the engagement plus its aftermath
@@ -702,14 +717,17 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "109-110"
-    notes: null
+    notes: >-
+      Superseded 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: the 2,500-word
+      floor is gone; every in-fiction reply runs about 3,500 words, and R79-6
+      makes the aftermath stages optional tools.
 
   - id: R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS
     pack: Pack One
     pack_number: 1
     section: "Amendment Three"
     title: Interior action of a battle occurs in its aftermath
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Whatever an engagement will do to characters' relationships happens
@@ -738,6 +756,9 @@ rules:
       This is the founding principle Pack Two's entire "Interior Action at
       Scale" amendment (the Single Act, R2-5-SINGLE_ACT_RULE) builds a
       concrete method for.
+      Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the too-loud doctrine
+      retires: the lead keeps POV in battle and may break through or vow
+      mid-fight.
 
   - id: R1-3-PLAN_AFTERMATH_FIRST
     pack: Pack One
@@ -768,7 +789,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "118"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the aftermath stages are
+      optional tools, not a rule.
 
   - id: R1-3-FIVE_STAGE_AFTERMATH
     pack: Pack One
@@ -799,7 +822,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "120"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the aftermath stages are
+      optional tools; touching two is not owed.
 
   - id: R1-4-PRECEDENCE_NOTE
     pack: Pack One

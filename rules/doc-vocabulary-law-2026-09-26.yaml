@@ -33,7 +33,9 @@ rules:
     lines: null
   notes: 'Partly amended by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): how antique narration
     runs is now set per culture by each Standing Inventory''s dial (plain, period or archaic); a Kharven
-    POV stays plain.'
+    POV stays plain.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the culture is flavour: narration sounds
+    like the POV''s own reach; system and science words are free in a trained POV''s narration.'
 - id: R51-02-CLOSE_POV_SWEARS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -64,7 +66,9 @@ rules:
   notes: 'Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
     what Isaac chose. Extended by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): a Japonic,
     Korean or Chinese-stratum POV may also think his own language''s real swears, romanised, correct and
-    never italic.'
+    never italic.
+    Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up merge: carries R48-12-PROFANITY;
+    profanity sits in mouths and in close-POV narration when the POV would think it.'
 - id: R51-03-LIST_SLANG
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -834,7 +838,7 @@ rules:
   pack_number: null
   section: Vocabulary and diction
   title: Sense Bank
-  status: live
+  status: superseded
   kind: mandate
   summary: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures);
     scenes draw from it first.
@@ -861,7 +865,10 @@ rules:
     (style law 2026-10-03): temperature joins the senses entry. Each Inventory also gains an image bank
     (R70-59), a colour code (R70-60), season words with a mood (R70-61), what age is prized and despised
     (R70-63) and four-beat idioms (R70-65); R70-51 adds one new subject per scene. Scenes still draw from
-    the bank first.'
+    the bank first.
+    Superseded 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: clean-up: duplicate merged into
+    R58-05-SWEARS_AND_SENSE_BANKS_APPROVED (the senses entries exist and are approved); Inventory
+    entries are reference with no draw-first order.'
 - id: R51-32-SMELL_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -951,7 +958,7 @@ rules:
   pack_number: null
   section: Vocabulary and diction
   title: New Swears
-  status: live
+  status: superseded
   kind: mandate
   summary: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord,
     Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they
@@ -974,4 +981,6 @@ rules:
     file: ''
     lines: null
   notes: 'Unchanged by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): the WOTR-invented
-    sets stand beside real Eastern swears.'
+    sets stand beside real Eastern swears.
+    Superseded 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: clean-up: spent; the starter swears were
+    approved by R58-05-SWEARS_AND_SENSE_BANKS_APPROVED.'

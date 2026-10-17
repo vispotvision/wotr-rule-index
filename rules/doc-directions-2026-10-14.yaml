@@ -51,7 +51,11 @@ rules:
     build/test_r78_3.py). Bank: desktop/style-bank/elevated-words.md gains Striking, Old and high English,
     Workings seen. Agent call under R72-2, Isaac may overturn: Hild and Sodoku saturate too, in short
     concrete English. Amended 2026-10-16 by R78-11-WORDS_FROM_THE_THING: the bank and its density WARN are
-    retired; the fight-abstraction WARN stands.'
+    retired; the fight-abstraction WARN stands.
+    Amended 2026-10-17 by R79-3-PROSE_WITHOUT_STATISTICS: ''nearly every sentence'' saturation and
+    stacking are struck; vocabulary is rich with no count. Amended 2026-10-17 by
+    R79-4-INTERIOR_MEANING_WORLD: system and science words are free in a trained POV''s narration; a
+    commoner''s narration keeps his own words.'
 - pack: Directions 2026-10-14
   pack_number: null
   status: live
@@ -143,7 +147,11 @@ rules:
     every firing). Agent calls under R72-2, Isaac may overturn: a card may keep a culture-tongue true
     name beside its English one, in the card and notes; the shrug-off never writes Isaac''s PC''s pain
     or reaction, which stay his (R71-6, R72-6, R73-19); in Isaac''s PC''s fights the Hunter x Hunter reasoning
-    is the NPC''s, built only from tells shown, and never hands the PC''s mechanism (R77-2, R71-23 stand).'
+    is the NPC''s, built only from tells shown, and never hands the PC''s mechanism (R77-2, R71-23 stand).
+    Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: a technique or release is called in English or
+    the speaker''s own tongue, as the character would; misses may be summed, every landed hit gets
+    its own clause. Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: the agent call that the
+    shrug-off never writes his PC''s pain or reasoning is reversed; Natalie may write them.'
 - pack: Directions 2026-10-14
   pack_number: null
   status: live
@@ -240,7 +248,12 @@ rules:
     in crisis still lands as R70-91 says), R70-17 (hook and cliffhanger now the default close), R53-06
     (Well-spawn take a Hollow-style design from their Well), R70-114. Agent call under R72-2, Isaac may
     overturn: a rare return from death never runs by full resurrection on paper (R61-56 stands); it is
-    costly and Codex-backed, a revenant or a stalled Crossing.'
+    costly and Codex-backed, a revenant or a stalled Crossing.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: story beats (crews, rivals, mentors, warm
+    bonds, arc kinds) are a palette drawn on when the story earns them, never owed per thread; a
+    crew forms in play and Isaac overturns what he dislikes; returns from death are rare and costly,
+    by canon means. Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: chapters and arcs close on a
+    hook; a scene may end on any concrete close, a pressing question included.'
 - pack: Directions 2026-10-14
   pack_number: null
   status: live
@@ -286,7 +299,11 @@ rules:
     the characters who play that way; R5-D-HUMOUR_PERMITTED stands). Amends R70-72 and R74-34 (a power
     reveal''s reaction is given to named people with their own words and body; the horror-witness allowance
     stands), R48-11. Restates R49-37 and R51-27 (full phonetic accents). Agent call under R72-2, Isaac
-    may overturn: ''anime-big'' emotion still never writes Isaac''s PC''s feeling (R72-6).'
+    may overturn: ''anime-big'' emotion still never writes Isaac''s PC''s feeling (R72-6).
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: the agent call that ''anime-big'' emotion
+    never writes his PC''s feeling is reversed; Natalie may write his PC''s feelings in his voice.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the one-italic-thought-per-NPC count is
+    struck; NPC thoughts are free in any mode.'
 - pack: Directions 2026-10-14
   pack_number: null
   status: live
@@ -413,11 +430,20 @@ rules:
   - worldbuilding
   - session-protocol
   verification: []
-  notes: Retracts The Ladder and the Draft's 'no dose refills a reserve' for fight Drafts; the governing
+  notes: 'Retracts The Ladder and the Draft''s ''no dose refills a reserve'' for fight Drafts; the governing
     sentence (a Draft supplies the floor and a seed, never a Catalyst) stands. Settles the Class Ø page
     conflict (rarely woken, at great cost). Names Malphas, already on the forbidden path (R61-56), as
     the great villain. Two-Pressures-by-Dominion (R71-42) now also governs clashing releases. Release
     forms (imports/drafts/release-forms/release-forms.md) become canon by this row.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: renown and crews are kept by silent
+    upkeep; a crew forms in play and Isaac overturns what he dislikes, with no approval wait
+    (R79-11). Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the two-Grade cap counts every
+    self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card, only outside
+    help sits outside it, and items work at their own Tier; a fight Draft refills reserve and the
+    crash pays; cards keep EU with a duration line while the page uses duration and body tells; the
+    running-low thresholds are world law and their wording is free. Amended 2026-10-17 by
+    R79-11-CANON_WORLD_DOCUMENTS: Malphas is hidden only from characters who could not know him, and
+    his circle''s size floats; story beats such as crews are a palette, never owed per thread.'
 - pack: Directions 2026-10-14
   pack_number: null
   status: live

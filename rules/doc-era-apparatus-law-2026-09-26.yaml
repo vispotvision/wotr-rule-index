@@ -340,7 +340,7 @@ rules:
   pack_number: null
   section: Era and apparatus
   title: Apparatus Pages
-  status: live
+  status: superseded
   kind: procedure
   summary: These answers are folded into The Apparatus of the Age and The Works and Days as settled text
     with a regional gradient section; still no decade-by-decade table.
@@ -356,4 +356,4 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: spent work order.'

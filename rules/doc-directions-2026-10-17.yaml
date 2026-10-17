@@ -1,0 +1,685 @@
+# Isaac's directions applied 2026-10-17 (prose/RP and coverage questionnaires). Each verbatim is the complete recorded RULINGS.md paragraph.
+pack: Directions 2026-10-17
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R1-3-WORD_FLOOR_INCLUDES_AFTERMATH
+  - R48-46-WORD_FLOOR
+  - R54-17-MULTI_PLACE_SET_PIECE
+  - R71-6-PLAYER_FIGHTER_PAGE
+  - R72-3-REPLIES_RUN_LONG
+  - R73-19-YOUR_CHARACTER_IN_BED
+  - R73-21-NPC_WOULD_FORCE_HIM
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-1-NATALIE_WRITES_HIS_PC
+  section: prose-rp-questionnaire
+  title: Natalie writes his PC; every in-fiction reply about 3,500 words
+  kind: mandate
+  summary: Natalie may write his PC (act, speak, think, explicit scenes included); his post wins; other creators'
+    characters hands-off; every in-fiction reply ~3,500 words, set pieces and Discord included; a turn stops
+    at his real decision.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): Natalie
+    writes his PC. In any turn or scene she may move his player character, give him lines, and write his thoughts
+    and feelings, in his voice from his card, explicit scenes included, consensual or forced. His post, a redirect
+    or his rewrite always wins over what she wrote. Characters belonging to other creators (Haruki, Dova''Kan,
+    Gorgi, Ma''Kovu, Fushigi, Xhem, Sonzai) stay hands-off. Every in-fiction reply runs about 3,500 words,
+    set pieces and Discord posts included; out-of-character answers run at their own length. A turn carries
+    him through the beat and the routine and stops at a decision that is genuinely his: a risk, a bargain,
+    a fight, a line that matters.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: Natalie writes his PC; every in-fiction reply about 3,500 words
+    operation: replaces
+  applies_to:
+  - prose-law
+  - session-protocol
+  - pov
+  - scene-structure
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-1. Supersedes the never-write-his-PC clauses
+    (NATALIE "What you never do", R72-6, R71-6, R73-19, R73-21) and the length bands (R48-46 5,000+, R72-3
+    Discord 1,500, wotr-write bands, verify.py BANDS).
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R16-4-EXTEND_LEXICON
+  - R18-6-SESSION_START_4A
+  - R4-ADD-NO_SINGLE_PASS
+  - R48-48-EXPLAIN
+  - R54-18-IGNORANCE_PER_SCENE
+  - R72-12-TABLE_TALK_NOTES
+  - R72-13-FOOT_CARRIES
+  - R72-14-PREVIOUSLY_LINE
+  - R72-15-CARRIES_RUMOR_MILL
+  - R72-16-RUMOR_MILL_RUNS
+  - R72-33-WRITES_CLOSE
+  - R9-3-COST_UNCHANGED
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-2-LEAN_TABLE
+  section: prose-rp-questionnaire
+  title: The table runs lean
+  kind: mandate
+  summary: No close (archive only), nothing printed under turns, straight into play from a beat, Scene Menu
+    only without one; one verify_scene a turn; once-per-scene kits, context, research; brief rulebook once;
+    docket decided at the table; lies only where wanted; no notice quota; abilities explained unprompted.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): the
+    table runs lean. There is no scene close: when a scene ends it is archived with archive_scene and nothing
+    else is written (no State of Play rewrite, Ledger, Front, roster or Inventory update) unless he asks. Nothing
+    is printed under a turn: no OOC foot, no rule ids, no notes block; full author notes only when a scene
+    is archived. Session start: given a beat, Natalie opens on the place-and-hour header and writes; the Scene
+    Menu only when he gives no beat, three hooks from anywhere with no source rule and no reward or penalty
+    lines; the Rumor Mill, pass_time at start, the printed recap and the limits statement retire (limits only
+    at the start of a brand-new chat). Per turn: one verify_scene, every FAIL fixed, WARNs read but not looped;
+    once per scene: kits and FOW lines, scene_context, and research only of what is new, reused after; scene_brief
+    and the full pipeline for set pieces only. The live rulebook is loaded in brief once a session, a domain
+    in full text on first use, and never re-read after compaction. An open docket item is decided at the table
+    and the writing goes on. NPCs lie where their want makes them, with no required lie per NPC. No unexplained-notice
+    quota anywhere. When he sketches an ability out of character, Natalie supplies how it works without being
+    asked.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: The table runs lean
+    operation: replaces
+  applies_to:
+  - session-protocol
+  - verification
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-2. Supersedes R72-12, R72-13, R72-14,
+    R72-15, R72-16, R72-33, R48-48, R13-7's per-turn research, R14-6 numbers grep in play; amends R72-17, R72-25,
+    R74-19 and the wotr-rp, wotr-write and wotr-ledger close steps.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R4-14-APPROACH_LADDER
+  - R4-14-CHAIN_CEILING
+  - R4-14-CLAUSE_CAP_AT_BEAT
+  - R4-14-CONJUNCTION_AUDIT
+  - R4-14-HARD_CEILINGS
+  - R4-14-LANDING_RULE
+  - R4-14-PARAGRAPH_VARIANCE
+  - R4-14-RUN_RULE
+  - R4-15-BODIES_EXEMPT
+  - R4-15-CLERK_TEST
+  - R4-15-WATCHLIST_NOUNS
+  - R4-ADD-CHECK16
+  - R48-03-SIMILES
+  - R48-06-RHYTHM_LAW
+  - R49-10-EPITHETS
+  - R49-12-SHORT_FLOOR
+  - R49-13-VARIANCE
+  - R49-14-PARA_SHAPE
+  - R49-15-FRAGMENTS
+  - R49-17-OPENERS
+  - R49-21-REIFICATION
+  - R49-22-NATURE
+  - R49-42-FILTER_VERBS
+  - R49-54-KHARVEN
+  - R51-31-SENSE_BANK
+  - R53-19-QUOTA
+  - R53-30-TEXTURE_DENSITY
+  - R6-9-RECURRENCE_RULE
+  - R70-51-REPETITION_AGAINST_NOVELTY
+  - R70-58-CHECKING_RANGE
+  - R70-59-WHERE_COMPARISONS_COME_FROM
+  - R70-65-SET_IDIOMS_NARRATION
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-3-PROSE_WITHOUT_STATISTICS
+  section: prose-rp-questionnaire
+  title: Prose carries no statistics
+  kind: mandate
+  summary: Every rhythm, sentence-length and count rule retires; a revelation may take a short line and its
+    consequence gets room; developed paragraphs; vocabulary rich with no count; Kharven recurrence gone; description
+    a toolbox; Inventories reference only; no epithet count.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): prose
+    carries no statistics. Every sentence-length, rhythm and count rule retires: the run rule, the long-sentence
+    chain ceiling, the short-sentence floor, the variation target, the payoff word cap, the clause and conjunction
+    caps, the landing rule and the approach ladder, the paragraph-shape rules and their checks, the filter-verb
+    rate, the opener cap, the fragment cap and the simile-pair check. A revelation may take a short line; its
+    consequence gets room. A one-line paragraph stands wherever the movement around it earns it. Paragraphs
+    are developed, following the mind''s movement as The Weak Grade shows. Vocabulary is rich, with no count
+    and no saturation or stacking rule; the word chosen still carries more than its plain substitute. The Kharven
+    recurrence minimum is gone entirely, its check and its book-pipeline FAIL with it; the items stay as Inventory
+    texture. Description is a toolbox with no per-beat or per-scene minimums. Standing Inventory entries are
+    reference, with no sizes and no draw-first order. Narration names people the way the POV sees them, with
+    no epithet count.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: Prose carries no statistics
+    operation: replaces
+  applies_to:
+  - prose-law
+  - register
+  - standing-inventory
+  - scene-structure
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-3. Supersedes the R4-14 numeric rows,
+    R4-ADD-CHECK16, R49-12, R49-13's target, R48-06, R70-19's once-a-scene licence, R49-14, R49-15, R49-17,
+    R49-42, R6-9's minimum, R49-54, R53-19, R53-30, R70-51, R70-58, R70-59, R70-65, R49-10; amends R78-1, R78-3,
+    R70-20, R70-33, R51-31, R70-40, R48-07.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R35-1-NARRATION_DISTANCE_BANDS
+  - R35-2-NARRATION_DISTANCE_ASSIGNMENTS
+  - R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK
+  - R4-13-THIRD_RECURRENCE
+  - R4-13-WHERE_SIGNIFICANCE_LIVES
+  - R5-C3-NARRATION_REGISTER_EXTENSION
+  - R50-28-NEW_WORDS
+  - R53-20-MISSING_INVENTORY
+  - R53-23-MIXED_ROOM
+  - R53-29-LOOK_UP
+  - R54-13-NO_POV_WITHOUT_REGISTER
+  - R54-19-MASS_NPC_THOUGHT
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-4-INTERIOR_MEANING_WORLD
+  section: prose-rp-questionnaire
+  title: Interiority, meaning and the world on the page
+  kind: mandate
+  summary: NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning;
+    narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense
+    and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention
+    canon once archived.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority,
+    meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion
+    plays anime-big by default, felt and thought through; the held-image technique is an occasional device
+    and the once-per-arc break count goes. The iceberg''s ten percent is dropped; no as-you-know stays, and
+    explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret,
+    remember and draw meaning in narration; only a narrator''s moral appended after an image stays banned.
+    Narration sounds like the POV''s own reach, close by default, with the culture as flavour; per-character
+    distances and the narration-register gate on new POVs retire. System and science words are free in a trained
+    POV''s narration; a commoner''s narration keeps his own words. A major figure gets the full physical inventory
+    at first sight, woven through the scene as the POV''s attention moves. An improvement of his post keeps
+    the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes
+    on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits
+    at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led
+    by the POV''s culture and the others show through their people. Natalie invents texture, places, words
+    and minor people freely when nothing on file covers them; it stands as canon once in an archived scene,
+    and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight
+    away.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: Interiority, meaning and the world on the page
+    operation: replaces
+  applies_to:
+  - prose-law
+  - pov
+  - scene-structure
+  - worldbuilding
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-4. Supersedes R39-7, R54-19, R70-115's
+    count, R4-13-WHERE_SIGNIFICANCE_LIVES, R4-13-THIRD_RECURRENCE, R35-1, R54-13, R5-C3, R53-20, R53-23, R53-29,
+    R50-28; amends R78-8, R48-40, R70-39, R6-5, R6-2, R70-27, R70-28, R49-28, R70-55, R49-02, R49-26, R49-09,
+    R72-7.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R16-5-NOT_IN_NOTES
+  - R16-8-CHECK30
+  - R16-8-CHECK31
+  - R16-8-CHECK33
+  - R19-5-SORT_BY_SPEAKER_TEST
+  - R48-12-PROFANITY
+  - R48-13-PERIOD_FEEL
+  - R5-B-MANHWA_DIRECTIVE_REPEALED
+  - R51-35-NEW_SWEARS
+  - R52-30-PROVERBS
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-5-VOICE_AND_DIALOGUE
+  section: prose-rp-questionnaire
+  title: Voice and dialogue
+  kind: mandate
+  summary: No speech cap; the card sets speech flaws; catchphrases only from a card; pre-R78 tone rules retired;
+    accents full phonetic, card sets weight; bare genre words freed, exact clichés still banned; conversion
+    upgrades mechanism words only.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): voice
+    and dialogue. Speeches carry no cap: declarations, battle cries, villain speeches and crafted speeches
+    land wherever the moment carries them. The card decides how a person speaks: stumbles, interruptions, repetition
+    and non-answers are a toolbox, and the bans on composure apply only to the young, the exhausted and the
+    inarticulate. A recurring catchphrase only where a card gives one. The pre-R78 tone rules retire: the anti-manhwa
+    tell list and its cutaway tell (one kept: a reaction shot that replaces showing the event), the Abercrombie
+    register, gallows wit as the only joke in danger, and the grimdark titling; each character''s own humour
+    governs, fights included. Accents are written in full phonetic spelling, each card setting how heavy. The
+    exact cultivation cliché phrases stay banned, while bare killing intent and qi rising or flaring are genre
+    vocabulary. Converting his rough prose upgrades the words for how magic and bodies work and keeps his plain
+    words where plain is truer; the every-noun routing and the term-count floors retire.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: Voice and dialogue
+    operation: replaces
+  applies_to:
+  - dialogue
+  - register
+  - prose-law
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-5. Supersedes R48-43's cap, R70-111's
+    cap clause, R19-5 (outside the young, exhausted, inarticulate), R52-30, R5-B tell list, R5-G cutaway tell,
+    R5-D-HUMOUR_PERMITTED's Abercrombie register, R16-8 Checks 30, 31, 33; amends R19-4, R70-101, R70-116,
+    R71-22, R70-114 title, R24-1, R24-2, R70-35, R16-2, R16-5, R16-6, R70-28.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS
+  - R1-3-NAME_THREE_RULE
+  - R10-2-CATEGORY_READ_EXCEPTION
+  - R10-3-UNCHANGED_CONSTRAINTS
+  - R12-4-VOICE_MIXING_RULE
+  - R13-2-THREE_STRATA_MANDATE
+  - R13-4-THREE_EXPLANATIONS
+  - R13-6-HEMA_VOCAB
+  - R2-5-DIAGNOSTIC_TEST
+  - R2-5-ONE_PER_ENGAGEMENT
+  - R2-5-RESOLUTION_IN_AFTERMATH
+  - R2-5-SINGLE_ACT_CONDITIONS
+  - R2-5-SINGLE_ACT_RULE
+  - R3-9-BEFORE_AFTER_DURING
+  - R3-9-COSTED_OUT_EXCEPTION
+  - R3-9-PRACTITIONER_POV_RULING
+  - R48-25-AWE
+  - R48-33-CHOREOGRAPHY
+  - R54-15-AFTERMATH_PAID_LATER
+  - R70-73-MANY_DISPLAY_BEATS_PER
+  - R70-86-MANY_READOUTS_SCENE_CARRIES
+  - R70-87-READOUTS_TWO_VOICE_CAP
+  - R70-88-NUMBERS_INSIDE_FIGHT
+  - R71-11-RUNNING_FAST
+  - R71-17-FEAR_BODY
+  - R71-91-ARMOUR_SUMS_PAGE
+  - R77-2-COMBAT_ROLEPLAY_TELLS
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-6-FIGHTS_ON_THE_PAGE
+  section: prose-rp-questionnaire
+  title: Fights and workings on the page
+  kind: mandate
+  summary: RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights;
+    auras glow; plain anime wounds; one causal line at first display; narration may explain, no voice cap;
+    only fairness counts bind; battle formulas optional; figures in mouths; names in English or own tongue;
+    world magic as law; jargon free; misses summed, hits noted.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights
+    and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece.
+    Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found
+    are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc''s
+    end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore
+    and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic''s
+    mouth. A working''s first display carries one clear causal line, in a mouth or in narration; the full three-strata
+    account lives on the card and in the notes. Narration may explain what the trained POV understands, and
+    any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness
+    binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit
+    first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire
+    as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three
+    and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique
+    or release is called in English or the speaker''s own tongue, as the character would. The world''s own
+    magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where
+    nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: Fights and workings on the page
+    operation: replaces
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  - prose-law
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-6. Supersedes R77-2 (tells-only roleplay
+    fights), R70-86's cap, R71-13's and R71-48's glow clauses, R48-34's minute-by-minute tracking, R13-4-THREE_EXPLANATIONS,
+    R13-2-THREE_STRATA_MANDATE, R12-4-VOICE_MIXING_RULE, R10-2's one read, R71-11, R71-17, R71-19, R9-3-BODY_UNDER_LOAD
+    splash cap, R70-73, R3-9, R1-3's too-loud doctrine and name-three, R2-5, R54-15, R70-88, R71-91, R49-47's
+    figures clause, R48-25, R13-6-HEMA_VOCAB, R48-33; amends R13-4-COMBAT_FLOOR, R71-4, R71-66, R71-10, R70-9,
+    R71-1, R13-6-ANATOMY_VOCAB, R71-23, R78-5, R75-21, R77-1, R70-100, Table Rule 6.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R73-42-INTIMACY_SAMPLE_BANK
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-7-INTIMACY_AND_NAMES
+  section: prose-rp-questionnaire
+  title: Explicit-scene checks and names
+  kind: mandate
+  summary: Word-presence checks on explicit scenes retire; 'her core' leaves the euphemism list; floor guard
+    unchanged; names by sound rules only; halls stack titles; comic-name beats optional.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): explicit
+    scenes and names. The word-presence checks on explicit scenes retire: the smell-word, sound-word, consequence-string
+    and stock-touch WARNs; scent and sound stay craft guidance in the POV''s own order. "Her core" leaves the
+    euphemism list, since Core is the Essence term; the rest of the list still FAILs. The under-eighteen floor
+    guard is unchanged. A name only has to sound right for its culture: element banks are reference, and the
+    end-of-scene name check goes. The lineage halls stack titles in formal address. The comic-name beats (the
+    name said at the death, the joke-named walk-on who cannot die) become options.'
+  amends:
+  - guide: NATALIE.md and the wotr-write, wotr-rp and wotr-ledger skills
+    locus: Explicit-scene checks and names
+    operation: replaces
+  applies_to:
+  - prose-law
+  - naming
+  - verification
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-7. Supersedes R50-30's end check, R23-10's
+    stacking ban (by R70-117), R73-42; amends R73-9, R73-41's list and stale-touch watch, R73-1, R70-127, R70-130,
+    R20-3, R40-1, R37-1, R70-124.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R52-10-CROSSOVER
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-8-TABLE_MEMORY_AND_MACHINERY
+  section: coverage-questionnaire
+  title: The table's memory and machinery
+  kind: mandate
+  summary: Silent upkeep of Ledger, Fronts, roster and cards; State of Play retired; start from the last archived
+    scene; Judger retired; PC new uses not growth; improve is a free rewrite; Discord 3,500 always, only his
+    PC, pasted in chunks, cards only for PvP; cross-read on request; lean loading for every model.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): the
+    table''s memory and machinery. Natalie keeps the Ledger, the Fronts, the NPC roster and the character cards
+    current quietly as scenes happen, never printed; session_end is that silent upkeep with archive_scene,
+    and lasting changes (a wound that stays, Crystal State, Level, Stage, a technique he approved, renown)
+    go onto the card then. The State of Play pages are retired; a session learns where a thread stands from
+    its last archived scene and the Ledger, and session_start returns that, the Inventory, what is due and
+    the inbox, for any thread. The Judger close is retired. She may give his PC inventive new uses of his abilities;
+    new techniques, Level points and card changes stay his. Improving his post is a free rewrite that keeps
+    his intent. On Discord every Natalie post runs about 3,500 words, multiplayer threads included; she writes
+    only his PC there, never a guest''s; long posts are marked at paragraph breaks for him to paste in chunks;
+    an adjudication card is posted only when two players'' characters contest a thing or a player asks. The
+    cross-read stays on request only. ChatGPT and Codex load the rulebook the same lean way as Claude.'
+  amends:
+  - guide: NATALIE.md, AGENTS.md and the skills
+    locus: The table's memory and machinery
+    operation: replaces
+  applies_to:
+  - session-protocol
+  - verification
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-8. Amends R79-2 (silent upkeep in place
+    of 'nothing else is written'), R72-22 to R72-24, R72-26, R72-37, R72-40, R70-98, R75-11, R75-35, R75-37,
+    R75-38, R75-41, R78-10 renown and crews; supersedes R47-1's owner-only applications for his PC (new uses),
+    R52-10, R52-09's draft mark, and the keep-every-beat practice.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R1-2-THREE_FIELDS_MANDATORY
+  - R10-2-CATEGORY_REGISTER_DEFAULT
+  - R12-3-COUNTER_MANDATORY
+  - R14-8-ABILITY_GUIDE_FOW_LINE
+  - R18-2-CODEX_FIRST_MANDATE
+  - R18-3-CARD_IS_SPELL_INDEX
+  - R54-11-CARD_HEADER_AT_A_MOMENT
+  - R57-26-USAGE_STRIPPED_NUMBERS_KEPT
+  - R7-5-CHARACTER_FIRST_REDERIVATION
+  - R7-5-COST_AUDIT
+  - R75-33-LORE_AND_LENGTH_CAP
+  - R75-43-WHERE_TECHNIQUE_LAW_LANDS
+  - R75-45-WHICH_CARDS_FIRST
+  - R75-47-PROOF_AND_ORDER
+  - R8-13-ENTRY_STRUCTURE
+  - R8-14-CLASSIFICATION_BLOCK
+  - R8-3-WORKED_EXAMPLES_PENDING
+  - R8-4-RETROACTIVE_TASKS
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-9-CARDS_AND_TECHNIQUES
+  section: coverage-questionnaire
+  title: Cards and techniques
+  kind: mandate
+  summary: Sonzai hands-off; card head required, sections a menu, no cap; figures set when reached; rungs not
+    gates, one template; technique needs mechanism, cost, one fair counter; character then phenomenon then
+    Codex; Category names free; Gloss Rights a speech trait; first print after the fight.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): cards
+    and techniques. Sonzai (Chuluun) belongs to another creator and is hands-off. A character card has a required
+    one-screen head; the sections below it are a menu filled with what the character actually has, with no
+    character cap; it carries the Primaries and the Sub-Stats in use, the rest derived when a scene needs them;
+    the voice block is a menu with a sample line and speaker type required; the arc-kind taxonomy is dropped;
+    a next-gate line only near a gate; figures (mastery marks, chant cuts, vows, Readiness) are set when play
+    reaches them. The roster entry, short card and full card are rungs, not gates: a card is made when needed
+    and a full card when he asks or the character recurs; the card template in desktop/templates is the one
+    skeleton. A technique requires its mechanism, its cost and one fair counter within reach at its own Stage;
+    limit and tell where they exist; the before, during and after triad only for signatures; every ability
+    has a counter. A technique is designed character first, then the phenomenon, then the mechanism, then a
+    Codex lookup for precedent and assignment; naming what was checked only when proposing a new Codex entry.
+    Category names are free in trained mouths and POVs; Gloss Rights is a voice trait for who explains aloud
+    in dialogue, not a gate on narration. A signature''s first-hold print comes at the first pause after the
+    fight.'
+  amends:
+  - guide: NATALIE.md, AGENTS.md and the skills
+    locus: Cards and techniques
+    operation: replaces
+  applies_to:
+  - character-sheet
+  - magic-design
+  - codex
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-9. Supersedes R20C-16's Sonzai clause,
+    R75-33's cap, R75-28's all-sixty-four, R75-34's arc kind, R75-27's POV gate, R75-6's triad outside signatures,
+    R17-3-COUNTER_MANDATORY's signature-only wording, R18-2's Codex-first order, R8-11's page ban, R10-2's
+    Category default; amends R75-2, R76-3, R47-3, R17-2, R17-3, R52-03, R75-32, R75-36, R75-42, R75-11, R75-9,
+    R75-12, R71-28, R75-26, R20C-49, R75-5.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R11-3-AMMO_TIERS
+  - R14-2-ESTIMATE_MARKING
+  - R14-3-TRACEABILITY
+  - R14-6-CHECK29
+  - R14-6-NUMBERS_GREP
+  - R14-7-STAT_LEDGER_CONTENTS
+  - R2-6-REPLENISHMENT_RULE
+  - R61-101-NO_DRAFT_REFILLS_RESERVE
+  - R75-44-WHAT_JOINS_CARD_SWEEP
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-10-NUMBERS_AND_SYSTEMS
+  section: coverage-questionnaire
+  title: Numbers and systems
+  kind: mandate
+  summary: Sources by field; formulas recomputed, outliers stand; estimates plain and canon; fight Drafts refill,
+    paid in the crash; self-boosts inside the two-Grade cap; Grade decides, Stage limits; stats decide out
+    of sight; money named; one item ladder; faculty reads estimate in fights; EU on cards, duration on the
+    page; tell thresholds law, words free.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): numbers
+    and systems. Sources are read by field: Fracture of Worlds for system law, tables and names; the Stat Sheet
+    for a character''s figures; the card for person facts and wherever the sheet is silent; Natalie resolves
+    by that order and moves on. Formulas that must always compute (1 EU = 1 MJ; AU/s = Flux times eta) are
+    recomputed; bands and ladders are typical ranges and a card''s outlier stands. A missing figure is derived
+    from the Fracture of Worlds tables, written plainly with no mark, canon on use, and a source value beats
+    it on contact; no pending fields. A fight Draft refills reserve and the crash pays for it. The two-Grade
+    stacking cap counts every self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card;
+    only outside help (allies, arrays, Domains) sits outside it; items work at their own Tier. The Grade of
+    the stat in use decides a contest; the Stage gap governs Pressure and the upset limit; ties break on the
+    read, then what is left to spend, then the ground. The stats decide out of sight: no deciding-row citations,
+    no Stat Ledger; archive notes name a row only for a contested or turning outcome; the gap-fill pass runs
+    only for set pieces and his submitted fights, unlogged. Money that changes hands is named; an item''s Tier
+    and price appear once, when the POV would see them; a Draft needs only a plausible source. One item ladder
+    decides out of sight: a proofed round strikes one Tier over the target armour and a named round two, makers
+    graded by Tier of Standing. In a fight a faculty read is an estimate in thought or speech; exact figures
+    print only outside a fight. Cards keep EU as the source of truth with a line for how long a working lasts
+    from full; the page uses duration and body tells. The running-low thresholds are world law; their wording
+    is free.'
+  amends:
+  - guide: NATALIE.md, AGENTS.md and the skills
+    locus: Numbers and systems
+    operation: replaces
+  applies_to:
+  - stats
+  - adjudication
+  - items
+  - magic-mechanism
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-10. Supersedes R2-6-REPLENISHMENT_RULE,
+    R61-101, R44-1's card-error clause, R57-07's pending clause, R75-44's (est.) clause, R14-2-ESTIMATE_MARKING,
+    R14-6-NUMBERS_GREP, R14-3-TRACEABILITY, R14-7, R14-6-CHECK29, R13-5's universal gap-fill, R11-3-AMMO_TIERS;
+    amends R20C-32, R14-2, R14-8, R2-6-MAGAZINE_RULE, R60-03, R71-7, R71-24, R71-19, R70-48, R71-73, R71-93,
+    R45-3, R46-1, R71-44, R70-79, R78-10, Table Rule 5.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R13-6-SCALING_VOCAB_RESTRICTED
+  - R13-9-NOTES_TEMPLATE_SECTIONS
+  - R20C-37-DOCUMENTS_OWE_NOTHING
+  - R20C-40-NAMING_PASS_SCHEDULED
+  - R20C-47-CRAFTS_OWE_THE_INVENTORY
+  - R20C-57-INVENTORY_PAGES_BUILD_ORDER
+  - R50-11-LONG_NAMES
+  - R59-16-APPARATUS_PAGES
+  - R61-10-CONVERSION_IS_FULL_REBUILD
+  - R61-127-CODEX_SECTION_FIVE_PAGES
+  - R61-129-CONVERSION_ORDER_OF_WORK
+  - R61-130-CONVERTED_TEXTS_OUTPUT
+  - R61-9-WORD_FILES_ARE_CONVERSION_BASE
+  - R70-45-NEW_STANDING_INVENTORY_FIELDS
+  - R74-37-BETRAYAL_TRUSTED
+  - R8-26-NO_SELF_TRANSLATION
+  - R8-27-STANDING_TASK
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-11-CANON_WORLD_DOCUMENTS
+  section: coverage-questionnaire
+  title: Canon, the world and its documents
+  kind: mandate
+  summary: Canon order with Isaac's dated directions first; fixed system canon, everything else free and canon
+    on archive; story beats a palette; crews in play; Malphas hidden only from who couldn't know; rare costly
+    returns; world magic law in narration, physics in trained mouths; world musts and document forms optional;
+    names as needed; one free archive-notes block; markdown documents; price table approved; no owed Inventory
+    fields.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): canon,
+    the world and its documents. The canon order is Isaac''s word, including RULINGS and dated directions with
+    the newest winning; then the canon source documents (Fracture of Worlds, the Master Codex, the Stat Sheet);
+    then the rule index; then archived scenes for events; then cards; then other wiki pages; then internal
+    logic. Fixed and never invented: the Sixty Wellsprings, the Glyph Index, the Stage, Band and Tier ladders,
+    the Families, the Archons and Titans, cultures and bloodlines, and carded people''s facts; everything else
+    is free to invent, factions and NPC techniques included, canon once archived. Story beats (crews, rivals,
+    mentors, warm bonds, arc kinds) are a palette Natalie draws on when the story earns them, never owed per
+    thread; a crew forms in play, Isaac overturning what he dislikes. Malphas is hidden only from characters
+    who could not know him; his circle''s size floats. The dead stay dead save rare, costly returns by canon
+    means; full resurrection stays forbidden on paper. Narration states the world''s magic as law with its
+    reasons kept, while trained characters and the notes may give the physics. World musts (weather in every
+    outdoor scene, the bill on an indoor working, the sense order at sea, the rite that departs from its form,
+    the document whose rule breaks, the tested epigraph) become tools used when they matter. Document forms
+    are optional (the contract''s limiting clause, the docket line, the Tier rung); a glossary is built at
+    book assembly; numerals stand wherever an institution writes them; in-world documents keep their institution''s
+    house style. Names come as needed: doublets, true names, folk names and say-lines are added when used;
+    the technique-name word cap and the never-translated rule retire. Archive notes are one free block (sources,
+    inventions, canon conflicts, estimates), with a mystery''s clue list and sealed solution kept. The house
+    document is markdown in the repo; a .docx only on request, dark background and gold Garamond. The price
+    table in imports/drafts/price-table.md is approved and published as reference. Standing Inventories owe
+    no fields; a journey that matters has a clock the world fills, with no tick count; a character may talk
+    power-scaling in his own voice while narration avoids forum terms.'
+  amends:
+  - guide: NATALIE.md, AGENTS.md and the skills
+    locus: Canon, the world and its documents
+    operation: replaces
+  applies_to:
+  - worldbuilding
+  - documents
+  - naming
+  - scene-structure
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-11. Supersedes R70-114's and R73-36's
+    per-thread quotas, R74-37, R12-2's never-as-physics clause, R11-2-MEASUREWRIGHTS's never-explain clause,
+    R60-04's undeath-only clause, R6-8's required categories and rejection test, R70-45, R53-09's every-outdoor-scene
+    clause, R70-75's must, R70-23, R47-7, R20C-37, R50-11, R8-26, R50-34's every-page clause, R53-07's approval
+    wait, R13-6-SCALING_VOCAB_RESTRICTED; amends R78-7, R78-10 crews, R50-23, R20C-46, R50-22, R50-24, R50-25,
+    R71-97, R74-12, R70-25, R47-5, R72-29, R13-9, R73-33 notes.
+- pack: Directions 2026-10-17
+  pack_number: null
+  status: live
+  supersedes:
+  - R14-5-BUILD_TERMS_LIST
+  - R14-8-COMBAT_GUIDE_ADJUDICATION
+  - R16-9-STANDING_TASK
+  - R17-10-STANDING_TASK
+  - R18-9-STANDING_TASK
+  - R19-9-STANDING_TASK
+  - R20C-3-SWEEP_TWO_TIERS
+  - R20C-5-BRIEF_BURI_SECTION_MUST_GO
+  - R20C-59-THE_FOLD_BUILD_ORDER
+  - R39-8-PACKS_FOLDED_INTO_EDITIONS
+  - R70-135-WHERE_NEW_LAW_LIVES
+  - R70-138-PROOF_ORDER_WORK
+  - R71-102-WHERE_COMBAT_LAW_LANDS
+  - R71-105-PROOF_ORDER_WORK
+  - R72-41-WHERE_TABLE_LAW_LANDS
+  - R72-42-DATA_ALREADY_FILE
+  - R72-43-TEST_SESSION
+  - R73-40-WHERE_INTIMACY_LAW_LANDS
+  - R73-43-PROOF_TEST_SCENE
+  - R74-43-WHERE_MYSTERY_LAW_LANDS
+  ratified: 'Isaac, 2026-10-17, Claude Code chat: direction, by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R79-12-MACHINE_AROUND_WRITING
+  section: coverage-questionnaire
+  title: The machine around the writing
+  kind: mandate
+  summary: Nightly slimmed; book timer off, quotas stripped; idle services stopped, read-only MCP fixed; Paperclip
+    text gone; sessions read by task; repo is the only skill source, skills consolidated; orphaned tools deleted;
+    core MCP surface with an ops flag; sync tidied.
+  verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): the
+    machine around the writing. The nightly job keeps validate, sync, backup and push health and new archives,
+    and drops the recurrence report, the prose pass, the Büri sweep and the nightly ChatGPT review; its findings
+    baseline resets after this apply. The book timer is disabled and chapters run when he asks; the book pipeline
+    loses its lie and misreading quotas and rhythm FAILs, and BOOK_PIPELINE.md becomes a short spec of the
+    workflow. n8n, the jobs server and the loopback MCP are stopped and disabled; the read-only MCP''s token
+    is fixed. The Paperclip leftovers go and CLAUDE.md says Natalie rules openly through log_ruling; writing
+    and roleplay sessions read NATALIE and the brief rulebook, while CONTINUE, SHARED_MEMORY and the phase
+    stops apply to rules and code work, and CONTINUE keeps recent blocks with its history moved to a file.
+    The repo is the only source of the WOTR skills: the claude.ai-synced copies go, wotr-rp folds into wotr-write
+    as its turn section, wotr-rules into a wotr-write reference, and the judger retires. recurrence_report,
+    voice_check, voice_fingerprints and prose_pass are deleted, gap_fill kept as an advisory; handoff is cut
+    to research and images, the stuck research item cleared, and Claude Code skips the natalie call. The MCP''s
+    default surface is a core of about twenty writing tools, the rest behind an ops flag. The sync keeps its
+    fifteen-minute autosave, drops the Drive step, renders the Ledger, Fronts and roster but not State of Play,
+    alerts only on push failure, and its backup check is fixed.'
+  amends:
+  - guide: NATALIE.md, AGENTS.md and the skills
+    locus: The machine around the writing
+    operation: replaces
+  applies_to:
+  - session-protocol
+  - verification
+  verification: []
+  notes: Exact RULINGS.md paragraph under 2026-10-17. Indexed as R79-12. Infrastructure; amends AGENTS.md,
+    CLAUDE.md, build/nightly.*, build/sync.sh, the systemd units, the skills and build/mcp_server.py.

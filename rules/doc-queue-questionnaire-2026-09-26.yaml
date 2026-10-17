@@ -267,7 +267,7 @@ rules:
   pack_number: null
   section: WAR-114
   title: Card headers describe the character at a stated moment; Lore carries later events
-  status: live
+  status: superseded
   kind: mandate
   summary: Every card's header states the moment it describes; the Lore section records later events,
     deaths included.
@@ -286,7 +286,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: duplicate merged into R58-12-AS_OF_LINE_ON_EVERY_CARD;
+    Lore still carries later events as a menu section.'
 - id: R54-12-CHECKER_STOPS_AT_NOTES
   pack: Queue Questionnaire 2026-09-26
   pack_number: null
@@ -314,7 +315,7 @@ rules:
   pack_number: null
   section: WAR-91
   title: No point of view without a register
-  status: live
+  status: superseded
   kind: mandate
   summary: A character may carry a point of view only once a narration register exists for them.
   verbatim: 'No POV without a register: Bram Greymane and Lorn Stark get registers.'
@@ -332,7 +333,9 @@ rules:
     file: ''
     lines: null
   notes: 'Stands: under R70-12-FIRST_PERSON (style law 2026-10-03) every narration register is a third-person
-    register, and under R70-21 each states its culture''s cadence.'
+    register, and under R70-21 each states its culture''s cadence.
+    Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the narration-register gate on new POVs
+    retires.'
 - id: R54-14-REGISTER_STAYS_WITH_POV
   pack: Queue Questionnaire 2026-09-26
   pack_number: null
@@ -363,7 +366,7 @@ rules:
   pack_number: null
   section: WAR-91
   title: A later named scene can pay a battle's aftermath
-  status: live
+  status: superseded
   kind: definition
   summary: A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath
     duty.
@@ -382,7 +385,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: the aftermath stages are optional tools,
+    so there is no aftermath duty to discharge.'
 - id: R54-16-STONE_BLOOD_COLD_LATENCY
   pack: Queue Questionnaire 2026-09-26
   pack_number: null
@@ -412,7 +416,7 @@ rules:
   pack_number: null
   section: WAR-91
   title: A multi-place scene with a mass-combat section is measured as a set piece
-  status: live
+  status: superseded
   kind: procedure
   summary: A scene across several places with one mass-combat section is measured as a set piece.
   verbatim: A scene in four places with one mass-combat section is measured as a set piece.
@@ -430,13 +434,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: there is no separate set-piece measure;
+    every in-fiction reply runs about 3,500 words.'
 - id: R54-18-IGNORANCE_PER_SCENE
   pack: Queue Questionnaire 2026-09-26
   pack_number: null
   section: WAR-91
   title: The viewpoint-ignorance rule counts per scene
-  status: live
+  status: superseded
   kind: procedure
   summary: One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.
   verbatim: 'The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint
@@ -454,13 +459,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-2-LEAN_TABLE: no unexplained-notice or ignorance quota anywhere.'
 - id: R54-19-MASS_NPC_THOUGHT
   pack: Queue Questionnaire 2026-09-26
   pack_number: null
   section: WAR-92
   title: Mass-combat scenes keep the one-thought-per-NPC allowance under POV lock
-  status: live
+  status: superseded
   kind: definition
   summary: A POV-locked mass-combat scene still allows one thought per NPC.
   verbatim: 'Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin
@@ -478,7 +483,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: NPC italic thoughts are free in any mode,
+    with no count.'
 - id: R54-20-MASS_WOUND_ANATOMY
   pack: Queue Questionnaire 2026-09-26
   pack_number: null

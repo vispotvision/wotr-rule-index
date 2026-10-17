@@ -30,6 +30,9 @@ rules:
   source:
     file: ''
     lines: null
+  notes: >-
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: one item ladder decides
+    out of sight; an item's Tier appears once, when the POV would see it.
 - id: R46-2-NINE_ITEM_TIERS_NAMED
   pack: The Item Tiers 2026-09-25
   pack_number: null

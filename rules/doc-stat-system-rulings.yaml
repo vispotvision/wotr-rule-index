@@ -189,7 +189,7 @@ rules:
     pack_number: null
     section: "C-008"
     title: No NPC italic thought inside a locked-POV scene
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       The narration-distance rule wins over Pack One's Scene Standards
@@ -223,13 +223,15 @@ rules:
       top-ladder fight in a city, one commoner in the street may get a short
       dip inside her head at a marked break, then the lock resumes; a second
       exception beside R70-11's roll call.
+      Superseded 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: NPCs may have
+      italic thoughts freely, with no count, in any mode.
 
   - id: R39-8-PACKS_FOLDED_INTO_EDITIONS
     pack: Stat System and Scene Rulings 2026-09-13
     pack_number: null
     section: "Folding"
     title: The packs are folded into dated base-guide editions
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Isaac's direction of 2026-09-12 overtakes the two pending rows that
@@ -251,3 +253,5 @@ rules:
     notes: >-
       The editions live beside the originals in WOTR True Canon; sources/ is
       untouched.
+      Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent
+      work order.

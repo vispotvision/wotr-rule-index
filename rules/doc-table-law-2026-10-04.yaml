@@ -83,13 +83,16 @@ rules:
     call is one line of the turn''s foot (R72-13-FOOT_CARRIES), and the session close follows the same
     pattern (R72-33-WRITES_CLOSE). NATALIE.md''s ''Label everything Natalie originates as pending ruling
     until Isaac ratifies it'' reads against this at the table; its rewrite is owed under R72-41-WHERE_TABLE_LAW_LANDS
-    after the tests of R72-43-TEST_SESSION. R48-50-PUSHBACK is not named and stands.'
+    after the tests of R72-43-TEST_SESSION. R48-50-PUSHBACK is not named and stands.
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: calls are no longer logged under the turn (nothing is
+    printed under a turn); an open docket item is decided at the table and the writing goes on. The
+    ''never acts for his PC'' note is reversed by R79-1-NATALIE_WRITES_HIS_PC.'
 - id: R72-3-REPLIES_RUN_LONG
   pack: Table Law 2026-10-04
   pack_number: null
   section: K3
   title: Desktop turns run long, OOC answers plain, Discord posts about 1,500
-  status: live
+  status: superseded
   kind: budget
   summary: A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly,
     and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
@@ -117,7 +120,9 @@ rules:
     prompt) runs about 1,500, the house median of 1,506, unless the beat asks for more. Partly amends
     R48-28-TURN_LENGTH, which stands for Desktop turns and gains the Discord length. R48-48-EXPLAIN (explanation
     only when asked) and R48-50-PUSHBACK are not changed; an explanation asked for comes as a plain OOC
-    answer. Natalie''s Discord seat is R72-35-NATALIE_SEAT_DISCORD.'
+    answer. Natalie''s Discord seat is R72-35-NATALIE_SEAT_DISCORD.
+    Superseded 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: every in-fiction reply runs about 3,500
+    words, Discord posts included; out-of-character answers run at their own length.'
 - id: R72-4-WHERE_TURN_STOPS
   pack: Table Law 2026-10-04
   pack_number: null
@@ -149,7 +154,10 @@ rules:
     Under standing orders the turn runs to the first branch they miss instead (R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN
     in a fight, R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS elsewhere). With several NPCs in the room the turn
     stops when the room turns to him (R72-9-SEVERAL_NPCS_ONE_TURN), and a bill that arrives with terms
-    stops it on them (R72-23-BILL_PAGE).'
+    stops it on them (R72-23-BILL_PAGE).
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: a turn carries him through the beat and the
+    routine and stops at a decision that is genuinely his (a risk, a bargain, a fight, a line that
+    matters), not at the first pressure; a line aimed at him no longer stops it by itself.'
 - id: R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS
   pack: Table Law 2026-10-04
   pack_number: null
@@ -182,7 +190,9 @@ rules:
     keep them. R70-14-KISHOTENKETSU''s ''roleplay turns still stop at Isaac''s decision'' and R49-29-TURN_FILL
     are read with it, each with a note: under standing orders the stop is the first branch the orders
     miss. Where no order is posted the turn stops as R72-4-WHERE_TURN_STOPS sets it. R48-29-PACING is
-    not named and stands. The intimacy questionnaire''s SC13 asks the same for the bed.'
+    not named and stands. The intimacy questionnaire''s SC13 asks the same for the bed.
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: his PC''s lines are no longer limited to the
+    words he posted; Natalie may give him lines in his voice, and his post or rewrite wins.'
 - id: R72-6-WORLD_WRITES_HIM
   pack: Table Law 2026-10-04
   pack_number: null
@@ -226,7 +236,11 @@ rules:
     bounds R72-2-IMPROVISE_OR_ASK for his PC: no call writes him a new memory. R70-69-PRESSURE_AURA (the
     room first, then bodies) sets how Pressure reaches his body, and R71-23-TELL_READ''s ''the reading
     is yours'' is the fight form of the second option. R48-48-EXPLAIN is not changed. Horror and the bed
-    have their own questionnaires (mystery HO3, intimacy SC12).'
+    have their own questionnaires (mystery HO3, intimacy SC12).
+    Amended 2026-10-17 by R79-1-NATALIE_WRITES_HIS_PC: Natalie may now write his PC''s thoughts,
+    feelings and conclusions in his voice from his card, so ''evidence, never the conclusion'' is
+    struck; his post, redirect or rewrite wins, and his knowledge still comes from his card and
+    canon, never a new memory.'
 - id: R72-7-CUTAWAY_SHOWS
   pack: Table Law 2026-10-04
   pack_number: null
@@ -258,7 +272,9 @@ rules:
     and the iceberg hold, and R48-48-EXPLAIN is not changed. A cut inside a case is the mystery questionnaire''s.
     Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): inside a case his PC works,
     the cut shows the act (a hand, a room, a deed) but never the actor''s face or name, and never the
-    answer. Outside a case the cut still shows who acts and what they do, reason kept.'
+    answer. Outside a case the cut still shows who acts and what they do, reason kept.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: the cutaway sits at a marked break; in a
+    mystery it shows no face or name.'
 - id: R72-8-OPENING_TURN
   pack: Table Law 2026-10-04
   pack_number: null
@@ -394,7 +410,7 @@ rules:
   pack_number: null
   section: TU5
   title: A short OOC foot now, full notes at archive
-  status: live
+  status: superseded
   kind: procedure
   summary: At the Desktop table a turn gives the prose first and, below a divider line, a short foot of
     OOC lines, and the full author notes are written once, when archive_scene files the finished scene.
@@ -417,13 +433,15 @@ rules:
     exists per turn: chat''s short summary is the foot under the divider, and the full notes (rule ids,
     Stat Ledger, research, costs) go into the scene file once, at archive. What the foot carries is R72-13-FOOT_CARRIES.
     R48-49-CITATIONS (the source list at the end of the notes) and R14-3-TRACEABILITY stand. R48-50-PUSHBACK
-    is not named and stands.'
+    is not named and stands.
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: nothing is printed under a turn (no OOC foot); full
+    author notes only when a scene is archived.'
 - id: R72-13-FOOT_CARRIES
   pack: Table Law 2026-10-04
   pack_number: null
   section: TU6
   title: 'The foot: calls made, what it cost, the rules and the deciding row'
-  status: live
+  status: superseded
   kind: mandate
   summary: The OOC foot under a turn carries one line per call Natalie made that turn, marked as an agent
     ruling Isaac may overturn, one line per Ledger line and Front tick the turn caused, and two to four
@@ -446,19 +464,21 @@ rules:
   source:
     file: ''
     lines: null
-  notes: TU6, options A, B and C (digest); D, a status line, was not taken. A is the log R72-2-IMPROVISE_OR_ASK
-    asks for under the turn, R48-26-INVENTION's 'logged' made visible. B keeps the turn's costs from being
-    lost before the close, which R72-33-WRITES_CLOSE applies. C carries R14-3-TRACEABILITY's deciding
-    row into the foot for any adjudicated outcome, fight or not, beside R71-7-READER_SEES_CALL's 'the
-    notes still name the row'; the full notes still name it. R70-98-SHEETS_CHAPTER_ARC_ENDS's changes
-    block stays in the full notes. NATALIE.md's rule-index step 4 (cite the ids that most constrained
+  notes: 'TU6, options A, B and C (digest); D, a status line, was not taken. A is the log R72-2-IMPROVISE_OR_ASK
+    asks for under the turn, R48-26-INVENTION''s ''logged'' made visible. B keeps the turn''s costs from being
+    lost before the close, which R72-33-WRITES_CLOSE applies. C carries R14-3-TRACEABILITY''s deciding
+    row into the foot for any adjudicated outcome, fight or not, beside R71-7-READER_SEES_CALL''s ''the
+    notes still name the row''; the full notes still name it. R70-98-SHEETS_CHAPTER_ARC_ENDS''s changes
+    block stays in the full notes. NATALIE.md''s rule-index step 4 (cite the ids that most constrained
     the piece) gains its per-turn place in the foot.
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: nothing is printed under a turn: no OOC foot, no rule
+    ids, no notes block.'
 - id: R72-14-PREVIOUSLY_LINE
   pack: Table Law 2026-10-04
   pack_number: null
   section: TU7
   title: A header and a short "previously" at session start
-  status: live
+  status: superseded
   kind: procedure
   summary: A session's first turn opens with the scene header (place, day, hour), then two or three plain
     OOC lines on what happened last, what is owed and what is ticking that the PC knows of, and then the
@@ -478,18 +498,20 @@ rules:
   source:
     file: ''
     lines: null
-  notes: TU7, option B. The header is the italic place, day and hour line the archived scene files open
-    on (option A's header). The 'previously' lines hold only what is ticking that his PC knows of, so
-    the iceberg stays. The wotr-rp skill builds its 'Previously' silently ('None of this is printed');
+  notes: 'TU7, option B. The header is the italic place, day and hour line the archived scene files open
+    on (option A''s header). The ''previously'' lines hold only what is ticking that his PC knows of, so
+    the iceberg stays. The wotr-rp skill builds its ''Previously'' silently (''None of this is printed'');
     that text reads against this row, and the skills follow the tests (R72-43-TEST_SESSION). R70-16-OPENING_MODES
     governs the prose that follows; R49-27-SCENE_BREAKS and R48-47-NOTES are not changed. The Rumor Mill
     also runs as a session opens (R72-16-RUMOR_MILL_RUNS).
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: given a beat, Natalie opens on the place-and-hour
+    header and writes; the printed recap retires.'
 - id: R72-15-CARRIES_RUMOR_MILL
   pack: Table Law 2026-10-04
   pack_number: null
   section: TU8
   title: 'Who carries the Rumor Mill: a gossip, print, or talk overheard'
-  status: live
+  status: superseded
   kind: definition
   summary: The Rumor Mill's news may come from one NPC who wants to know things first and gets some of
     it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from
@@ -517,13 +539,14 @@ rules:
     face; Agnes Tull at the lodge is the one run in the archive. B follows R53-12-LITERACY: a Board notice,
     a broadsheet or a porter''s slate where a culture reads, never in the north, where the Kharven read
     almost not at all; print can be wrong too. The wrong items count toward R48-42-LIES, and R53-14-FOLK_KNOWLEDGE
-    (folk words for the ladder) colours what common tellers say. When it runs is R72-16-RUMOR_MILL_RUNS.'
+    (folk words for the ladder) colours what common tellers say. When it runs is R72-16-RUMOR_MILL_RUNS.
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: the Rumor Mill retires.'
 - id: R72-16-RUMOR_MILL_RUNS
   pack: Table Law 2026-10-04
   pack_number: null
   section: TU9
   title: The Rumor Mill runs at session start and in each new place
-  status: live
+  status: superseded
   kind: procedure
   summary: The Rumor Mill gives two or three items as each session opens and, on the PC's first arrival
     at a town, hall, camp or market, that place's own talk.
@@ -541,9 +564,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: TU9, options A and C (digest); B (each new in-world day) and D (only with a hook) were not taken.
-    NATALIE.md's 'some wrong, one a hook' is not changed, and the wrong items count toward R48-42-LIES.
+  notes: 'TU9, options A and C (digest); B (each new in-world day) and D (only with a hook) were not taken.
+    NATALIE.md''s ''some wrong, one a hook'' is not changed, and the wrong items count toward R48-42-LIES.
     Who carries it is R72-15-CARRIES_RUMOR_MILL. R48-29-PACING is not changed.
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: the Rumor Mill retires.'
 - id: R72-17-SCENE_MENU
   pack: Table Law 2026-10-04
   pack_number: null
@@ -567,11 +591,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: TU10, option A. Gives R70-97-QUESTS_CONTRACTS's stated reward and penalty their place at the
-    menu; the three sources stay NATALIE.md's (a Front, the Ledger, one fresh). The menu comes before
-    the turn, so Table Rule 1's ban on stopping a turn on an OOC question is not reached. A contract hook
+  notes: 'TU10, option A. Gives R70-97-QUESTS_CONTRACTS''s stated reward and penalty their place at the
+    menu; the three sources stay NATALIE.md''s (a Front, the Ledger, one fresh). The menu comes before
+    the turn, so Table Rule 1''s ban on stopping a turn on an OOC question is not reached. A contract hook
     opens on its posting as R71-97-CONTRACT_FIGHTS sets it. The scene_menu tool owes the reward and penalty
     (R72-41-WHERE_TABLE_LAW_LANDS).
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: the Scene Menu comes only when he gives no beat: three
+    hooks from anywhere, with no source rule and no reward or penalty lines.'
 - id: R72-18-TURN_SENT_BACK
   pack: Table Law 2026-10-04
   pack_number: null
@@ -626,7 +652,9 @@ rules:
     in a written scene: it now reaches the Discord posts Natalie writes from his beat. Lines he wrote
     stay fixed text (R19-2-FIXED_TEXT) unless he asks for the post to be improved (R57-04-DIALOGUE_IMPROVED_ON_REQUEST);
     a new line is never written in unmarked (option C, not taken). R52-08-PC_IDIOM governs the voice,
-    and R49-01-WHOSE_HEAD stands. Natalie''s seat on Discord is R72-35-NATALIE_SEAT_DISCORD.'
+    and R49-01-WHOSE_HEAD stands. Natalie''s seat on Discord is R72-35-NATALIE_SEAT_DISCORD.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the draft mark is struck: Natalie writes
+    his PC''s lines in his voice; he may still change or cut them before he posts.'
 - id: R72-20-MOVES_FRONT
   pack: Table Law 2026-10-04
   pack_number: null
@@ -662,7 +690,10 @@ rules:
     (''the world keeps moving''), R49-09-CUTAWAYS and R71-101-LAW_TURNS (a jurisdiction contest run as
     a Front) are not changed by this answer. What a tick shows is R72-21-FRONT_SIGNS_SEEN; a journey''s
     clock runs on the same calendar (R72-29-ROAD_AT_STAKE). Options A (one a session, chosen), C (by his
-    acts only) and D (a faction turn at close) were not taken.'
+    acts only) and D (a faction turn at close) were not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the State of Play calendar is retired;
+    the date comes from the thread''s last archived scene, Fronts are kept by silent upkeep, and
+    pass_time no longer runs at session start (R79-2).'
 - id: R72-21-FRONT_SIGNS_SEEN
   pack: Table Law 2026-10-04
   pack_number: null
@@ -690,11 +721,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: WD2 (digest). The marked cutaway is R49-09-CUTAWAYS' closing cut to 'a Front advancing', which
+  notes: 'WD2 (digest). The marked cutaway is R49-09-CUTAWAYS'' closing cut to ''a Front advancing'', which
     this answer leaves as it is; what such a cut shows is R72-7-CUTAWAY_SHOWS (the act, reason kept).
     Clocks kept out of play hold with R48-48-EXPLAIN, which is not changed. Ticks come from R72-20-MOVES_FRONT;
     the bot shows players no Fronts (R72-40-PLAYERS_CAN_LOOK_UP did not take Front signs). Options B (signs,
     named at close) and C (open clocks) were not taken.
+    Amended 2026-10-17 by R79-4-INTERIOR_MEANING_WORLD: a Front''s sign may come as a cutaway under
+    the one marked-break rule; Fronts are kept by silent upkeep (R79-8).'
 - id: R72-22-WHEN_BILL_COMES
   pack: Table Law 2026-10-04
   pack_number: null
@@ -720,13 +753,16 @@ rules:
   source:
     file: ''
     lines: null
-  notes: WD3 (digest). The calendar is the State of Play's date under R53-09-WEATHER, which stands. The
-    due field's session count or condition in words, as the tools keep it now, gives way to the date or
-    trigger; the field and due()'s filter land in the tools (R72-41-WHERE_TABLE_LAW_LANDS), and every
+  notes: 'WD3 (digest). The calendar is the State of Play''s date under R53-09-WEATHER, which stands. The
+    due field''s session count or condition in words, as the tools keep it now, gives way to the date or
+    trigger; the field and due()''s filter land in the tools (R72-41-WHERE_TABLE_LAW_LANDS), and every
     open line on file gets a thread and a date or trigger in the reconciliation pass (R72-42-DATA_ALREADY_FILE).
-    How a fired line reaches the page is R72-23-BILL_PAGE; a scene set before its thread's live date writes
+    How a fired line reaches the page is R72-23-BILL_PAGE; a scene set before its thread''s live date writes
     only what still binds (R72-34-SCENES_SET_PAST). No indexed rule is changed. Options A (as built) and
-    C (Natalie's judgement) were not taken.
+    C (Natalie''s judgement) were not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the State of Play pages are retired, so
+    a story date comes from the thread''s last archived scene; there is no close, and silent upkeep
+    marks what fired.'
 - id: R72-23-BILL_PAGE
   pack: Table Law 2026-10-04
   pack_number: null
@@ -786,12 +822,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: WD5 (digest), A and B. Table Rule 7's list (injuries, exhaustion, reserve, debts, reputation,
+  notes: 'WD5 (digest), A and B. Table Rule 7''s list (injuries, exhaustion, reserve, debts, reputation,
     who saw what) gains bonds and heat. The bonds are the standing warm bonds of R70-114-GRIMDARK_WARMTH,
     now kept by name; that row is not changed, and a bond involving his PC stays his to play (R49-01-WHOSE_HEAD).
     An unread killing already sits on the Ledger as a risk under R71-101-LAW_TURNS, which stands; heat
     gives the crown, company and guild layers a running line. Cooling heat and keeping a bond are downtime
     activities under R72-28-TIME_OFF. Option C (his word given) was not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the Ledger lines are kept by silent
+    upkeep, never printed; warm bonds are no longer owed per thread (R79-11), so a bond is entered
+    when the story has one.'
 - id: R72-25-HOW_MANY_LIES
   pack: Table Law 2026-10-04
   pack_number: null
@@ -827,7 +866,9 @@ rules:
     lie'' gains a floor of one live lie for every roster NPC with a want; the player still has to catch
     them. R49-36-LIE_TELLS (every lie leaves a catchable tell) stands, and the tell is now logged beside
     the lie on the roster. Catching a lie, honest error and the uncaught lie belong to the mystery questionnaire.
-    Options A (Rule 8 as the floor) and C (liars marked, some honest) were not taken.'
+    Options A (Rule 8 as the floor) and C (liars marked, some honest) were not taken.
+    Amended 2026-10-17 by R79-2-LEAN_TABLE: NPCs lie where their want makes them; there is no
+    required lie per roster NPC.'
 - id: R72-26-NPCS_OFF_PAGE
   pack: Table Law 2026-10-04
   pack_number: null
@@ -855,12 +896,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: WD7 (digest). Carries Table Rule 3 ('NPCs want things and pursue them') off the page. The two
+  notes: 'WD7 (digest). Carries Table Rule 3 (''NPCs want things and pursue them'') off the page. The two
     lines land as new roster fields in the tools (R72-41-WHERE_TABLE_LAW_LANDS), and the close that writes
     them is applied, then listed (R72-33-WRITES_CLOSE). R48-36-NPC_WITS (veteran-clever) and R52-29-NPC_RECIPE
-    (a voice from a real speaker type) are not changed; on a return R70-50-BODIES_AFTER_FIRST_SIGHT's
+    (a voice from a real speaker type) are not changed; on a return R70-50-BODIES_AFTER_FIRST_SIGHT''s
     changed body detail sits beside the two lines. Options A (on the page only) and C (only through Fronts)
     were not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: there is no scene close; the doing-now
+    and stands-with lines are kept current by Natalie''s silent upkeep as scenes happen, never
+    printed.'
 - id: R72-27-SWAYS_NPC
   pack: Table Law 2026-10-04
   pack_number: null
@@ -892,12 +936,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: WD13 (digest), A, B and C. Rank that makes an NPC yield what its want alone would refuse reaches
-    past Table Rule 3's 'If an NPC would refuse, they refuse' (NATALIE.md text, no indexed row). Uses
-    R70-69-PRESSURE_AURA and R53-18-AWE as they stand, the Ledger's reputation and who-saw-what lines
+  notes: 'WD13 (digest), A, B and C. Rank that makes an NPC yield what its want alone would refuse reaches
+    past Table Rule 3''s ''If an NPC would refuse, they refuse'' (NATALIE.md text, no indexed row). Uses
+    R70-69-PRESSURE_AURA and R53-18-AWE as they stand, the Ledger''s reputation and who-saw-what lines
     (Table Rule 7), and the read row of R14-3-STATS_DECIDE_TABLE (Gnosis) for an NPC reading his lie in
     talk; R14-3-STATS_DECIDE_TABLE and R13-8-RECONSTRUCTIBLE_ADJUDICATION are not changed. R71-22-TALK_INSIDE_FIGHT
-    keeps pricing a lie inside a fight, and R49-36-LIE_TELLS (an NPC's lie leaves a catchable tell) stands.
+    keeps pricing a lie inside a fight, and R49-36-LIE_TELLS (an NPC''s lie leaves a catchable tell) stands.
+    Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: the line that weighed is not printed under a
+    turn (R79-2); the stats decide out of sight.'
 - id: R72-28-TIME_OFF
   pack: Table Law 2026-10-04
   pack_number: null
@@ -963,7 +1009,9 @@ rules:
   notes: 'WD9 (digest). Covers what R48-29-PACING leaves open: travel with nothing at stake still passes
     in a line, and that row stands. Miles come from R53-08-TRAVEL_RATES and the calendar and weather from
     R53-09-WEATHER, both unchanged; it is the calendar Fronts tick on (R72-20-MOVES_FRONT). Options A
-    (a turn per leg) and C (one turn, one hazard) were not taken.'
+    (a turn per leg) and C (one turn, one hazard) were not taken.
+    Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: the clock has no tick count: a journey that
+    matters has a clock the world fills, with no fixed size and no beat owed per tick.'
 - id: R72-30-WHAT_WIN_PAYS
   pack: Table Law 2026-10-04
   pack_number: null
@@ -1065,7 +1113,7 @@ rules:
   pack_number: null
   section: WD14
   title: Natalie applies the close and lists each write as an agent ruling
-  status: live
+  status: superseded
   kind: procedure
   summary: At his wrap and whenever a scene is archived, Natalie applies the session close herself and
     lists each write once as an agent ruling he may overturn, and nothing waits for his word.
@@ -1086,16 +1134,18 @@ rules:
   source:
     file: ''
     lines: null
-  notes: WD14. Ends the item-by-item approval the wotr-ledger and judger skills teach ('a proposal Isaac
-    approves item by item'); the skills are rewritten under R72-41-WHERE_TABLE_LAW_LANDS, after the tests
-    (R72-43-TEST_SESSION). Matches K2 (R72-2-IMPROVISE_OR_ASK), which strikes R48-26-INVENTION's 'bigger
-    things wait' for calls in play; this row does the same for the close and leaves R48-26 to K2. Option
+  notes: 'WD14. Ends the item-by-item approval the wotr-ledger and judger skills teach (''a proposal Isaac
+    approves item by item''); the skills are rewritten under R72-41-WHERE_TABLE_LAW_LANDS, after the tests
+    (R72-43-TEST_SESSION). Matches K2 (R72-2-IMPROVISE_OR_ASK), which strikes R48-26-INVENTION''s ''bigger
+    things wait'' for calls in play; this row does the same for the close and leaves R48-26 to K2. Option
     C (a write that sets a fact about his own characters waits for one word from him) was not taken; R52-08-PC_IDIOM
     (his play wins over a card) stands, and an overturn is a new ruling, never a silent edit (CLAUDE.md).
-    R20C-34-ESTIMATES_CANON_ON_USE (estimates do not wait) agrees; R70-40-WIDE_DESCRIPTION_MUST_RANGE's
+    R20C-34-ESTIMATES_CANON_ON_USE (estimates do not wait) agrees; R70-40-WIDE_DESCRIPTION_MUST_RANGE''s
     session-end flag and R48-47-NOTES are not changed by this answer (where notes go at the table is R72-12-TABLE_TALK_NOTES).
-    A sent-back turn's writes are reversed under R72-18-TURN_SENT_BACK. Option A (each item waits) was
+    A sent-back turn''s writes are reversed under R72-18-TURN_SENT_BACK. Option A (each item waits) was
     not taken.
+    Superseded 2026-10-17 by R79-2-LEAN_TABLE: there is no scene close; a finished scene is archived
+    with archive_scene, and R79-8 makes the rest silent upkeep, never printed.'
 - id: R72-34-SCENES_SET_PAST
   pack: Table Law 2026-10-04
   pack_number: null
@@ -1123,7 +1173,10 @@ rules:
     is precedent for events: R70-137-ARCHIVED_SCENES keeps what happened in an archived scene canon, and
     its law-edition tag for style is not changed. Sets the rule going forward; the backfill lines already
     on file are sorted by the reconciliation pass (R72-42-DATA_ALREADY_FILE). Options B (dated, then retired)
-    and C (canon only) were not taken.'
+    and C (canon only) were not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the State of Play pages are retired, so
+    the thread''s live date comes from its last archived scene, and there is no close; silent upkeep
+    keeps only what still binds.'
 - id: R72-35-NATALIE_SEAT_DISCORD
   pack: Table Law 2026-10-04
   pack_number: null
@@ -1156,7 +1209,10 @@ rules:
     character is shown as R71-6-PLAYER_FIGHTER_PAGE shows it (''It covers guest players at the Discord
     table too''), and his own characters stay his under R52-10-CROSSOVER; this answer changes neither
     row, and R1-1-RESTRICTED_CHARACTERS_EXCLUDED stands. Options A (his ghostwriter only) and C (a live
-    narrator) were not taken.'
+    narrator) were not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the Judger close is retired; on Discord
+    Natalie writes only his PC, never a guest''s, every post runs about 3,500 words and is marked at
+    paragraph breaks for him to paste in chunks.'
 - id: R72-36-WHO_POSTS_WHEN
   pack: Table Law 2026-10-04
   pack_number: null
@@ -1227,7 +1283,10 @@ rules:
     bout; the bout rule stands for bouts. The card keeps R13-8-RECONSTRUCTIBLE_ADJUDICATION and R14-3-STATS_DECIDE_TABLE,
     which are not changed; players see the cards under R72-40-PLAYERS_CAN_LOOK_UP. Neither player''s character
     is written by the other (R71-6-PLAYER_FIGHTER_PAGE). Option A (players settle it) was not taken. A
-    post marked struck is the case R72-39-GUEST_SCENES_BECOME notes on R70-137-ARCHIVED_SCENES.'
+    post marked struck is the case R72-39-GUEST_SCENES_BECOME notes on R70-137-ARCHIVED_SCENES.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: an adjudication card is posted only when
+    two players'' characters contest a thing or a player asks; it names a stat row only for a
+    contested or turning outcome (R79-10).'
 - id: R72-38-GUEST_OWN_LINES
   pack: Table Law 2026-10-04
   pack_number: null
@@ -1299,7 +1358,9 @@ rules:
     as the Judger rules: a break marked struck is not carried as fact, and one accepted enters as a new
     fact. R72-37-PLAYER_AGAINST_PLAYER likewise marks struck a post a ruling contradicts. Owner marks
     keep other players'' characters from being written by mistake; R52-10-CROSSOVER and R1-1-RESTRICTED_CHARACTERS_EXCLUDED
-    stand. Options A (as posted, flagged) and C (only his threads count) were not taken.'
+    stand. Options A (as posted, flagged) and C (only his threads count) were not taken.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: the Judger close is retired; a break in
+    a guest scene is ruled when the scene is archived, with no separate close.'
 - id: R72-40-PLAYERS_CAN_LOOK_UP
   pack: Table Law 2026-10-04
   pack_number: null
@@ -1328,13 +1389,15 @@ rules:
   notes: 'MP6 (digest), A, B and C. The bot''s table commands are built to this row (R72-41-WHERE_TABLE_LAW_LANDS);
     the bot plan had offered them to anyone. The cards put R13-8-RECONSTRUCTIBLE_ADJUDICATION and R14-3-TRACEABILITY
     in front of the players; this answer changes neither row. Option D (Front signs, not clocks) was not
-    taken, so the bot shows players no Fronts. No guide is amended: the change lands in the bot.'
+    taken, so the bot shows players no Fronts. No guide is amended: the change lands in the bot.
+    Amended 2026-10-17 by R79-8-TABLE_MEMORY_AND_MACHINERY: adjudication cards are posted only when
+    two players'' characters contest a thing or a player asks.'
 - id: R72-41-WHERE_TABLE_LAW_LANDS
   pack: Table Law 2026-10-04
   pack_number: null
   section: ME1
   title: The table law lands in a rule doc, NATALIE.md, the skills and the tools
-  status: live
+  status: superseded
   kind: procedure
   summary: 'The table answers land as one dated Table Law doc logged through log_ruling, NATALIE.md''s
     Table Rules and Session Protocol rewritten to it with a new multiplayer section, the wotr-rp, wotr-ledger,
@@ -1368,13 +1431,15 @@ rules:
     and the skills stay as they are until a later pass.) Follows R70-135-WHERE_NEW_LAW_LIVES and R71-102-WHERE_COMBAT_LAW_LANDS;
     neither is changed. The order of the work is R72-43-TEST_SESSION, which puts the skills after the
     two tests. The wotr-rp, wotr-ledger and judger skills have no guide entry in the index. The rule doc
-    is rules/doc-table-law-2026-10-04.yaml. Supersedes nothing.'
+    is rules/doc-table-law-2026-10-04.yaml. Supersedes nothing.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order (the table
+    law landed; the judger skill is retired and wotr-rp folds into wotr-write).'
 - id: R72-42-DATA_ALREADY_FILE
   pack: Table Law 2026-10-04
   pack_number: null
   section: ME2
   title: One reconciliation pass over the Fronts, Ledger and State of Play on file
-  status: live
+  status: superseded
   kind: procedure
   summary: 'The data already on file gets one reconciliation pass: every open Ledger row gains a thread
     and a date or trigger under the new law, dead and stale lines retire with a note, every Front gets
@@ -1390,16 +1455,18 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ME2 (digest). Applies R72-22-WHEN_BILL_COMES and R72-20-MOVES_FRONT to the data on file (table/ledger.yaml,
-    table/fronts.yaml and the State of Play pages); lines from scenes set before their thread's live date
-    are sorted on R72-34-SCENES_SET_PAST's test. No rule row is touched. Options A (apply going forward)
+  notes: 'ME2 (digest). Applies R72-22-WHEN_BILL_COMES and R72-20-MOVES_FRONT to the data on file (table/ledger.yaml,
+    table/fronts.yaml and the State of Play pages); lines from scenes set before their thread''s live date
+    are sorted on R72-34-SCENES_SET_PAST''s test. No rule row is touched. Options A (apply going forward)
     and C (fresh start per thread) were not taken.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order; the State of
+    Play pages it rewrites are retired (R79-8).'
 - id: R72-43-TEST_SESSION
   pack: Table Law 2026-10-04
   pack_number: null
   section: ME3
   title: Law, tools and data, then a Desktop and a Discord test, then the skills
-  status: live
+  status: superseded
   kind: procedure
   summary: 'The table work runs in order: log the law, change the tools and reconcile the data, run one
     Desktop session from start to close and one Discord scene through the full loop, amend, and only then
@@ -1416,8 +1483,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ME3. Follows the law-then-test pattern of R70-138-PROOF_ORDER_WORK and R71-105-PROOF_ORDER_WORK,
+  notes: 'ME3. Follows the law-then-test pattern of R70-138-PROOF_ORDER_WORK and R71-105-PROOF_ORDER_WORK,
     with the tools and the data changed before the tests so the tests run on them; neither row is changed.
-    The Discord loop is post, ruling, archive and the Judger's close. A test session uses NPCs or leaves
-    his character's moves to him. An amendment found in a test enters as a new dated ruling (CLAUDE.md).
+    The Discord loop is post, ruling, archive and the Judger''s close. A test session uses NPCs or leaves
+    his character''s moves to him. An amendment found in a test enters as a new dated ruling (CLAUDE.md).
     Options A (law, Desktop test, rest) and C (everything, then test) were not taken.
+    Superseded 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up: spent work order.'

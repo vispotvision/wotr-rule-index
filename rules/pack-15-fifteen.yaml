@@ -499,6 +499,8 @@ rules:
     notes: >-
       Backfilled: supersedes points at R13-6-HAX_DIALOGUE_BAN now that Pack
       Thirteen has been extracted.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: a character may talk
+      power-scaling in his own voice; narration avoids forum terms.
 
   - id: R15-4-MEMORY_ENTRIES_SUPERSEDED
     pack: Pack Fifteen
@@ -529,6 +531,8 @@ rules:
       "Memory entries" here are the project's own session-memory notes, not
       a guide file or a rule row in this index; no amends target and no
       supersedes id, by nature of what is being changed.
+      Amended 2026-10-17 by R79-5-VOICE_AND_DIALOGUE: accents are written in
+      full phonetic spelling, each card setting how heavy.
 
   - id: R15-4-VERIFY_UNCHANGED
     pack: Pack Fifteen
@@ -550,7 +554,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "64"
-    notes: null
+    notes: >-
+      Amended 2026-10-17 by R79-12-MACHINE_AROUND_WRITING: clean-up:
+      wotr_verify.sh is now verify_scene (build/verify.py).
 
   - id: R15-4-PACK_FIVE_SCOPE
     pack: Pack Fifteen

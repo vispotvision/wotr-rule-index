@@ -475,6 +475,8 @@ rules:
     notes: >-
       Consistent with R22-7-KHARVEN_INVENTORY_KEPT (Moto Reversion
       Ledger), which makes the same recommendation.
+      Amended 2026-10-17 by R79-11-CANON_WORLD_DOCUMENTS: clean-up: settled;
+      the Inventory is kept with the renamed forms applied 2026-09-12.
 
   - id: R23-8-KHARVEN_TRIMS_PENDING
     pack: Inner World Naming Amendment
@@ -656,6 +658,9 @@ rules:
       names (R70-125-PEOPLES_EASTERN_STRATA) are listed in the comic-name bank
       of its Standing Inventory (R70-131-COMIC_NAMES_GET_MADE) and keep this
       row's sound rules.
+      Amended 2026-10-17 by R79-7-INTIMACY_AND_NAMES: the lineage halls stack
+      titles in formal address (R70-117 confirmed); the stacking ban holds for
+      given names only.
 
   - id: R23-10-CHINESE_CONTACT
     pack: Inner World Naming Amendment

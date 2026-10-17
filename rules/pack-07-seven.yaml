@@ -884,7 +884,7 @@ rules:
     pack_number: 7
     section: "PART FIVE"
     title: The cost audit, largest job on the docket
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       An estimated sixty percent of existing technique entries fail the
@@ -920,13 +920,15 @@ rules:
       rebuild's report and never on the card, and each card's changed lines go
       through log_ruling as one agent ruling, its grounds named, which Isaac
       may overturn.
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent
+      work order; a failing card is fixed when next touched.
 
   - id: R7-5-CHARACTER_FIRST_REDERIVATION
     pack: Pack Seven
     pack_number: 7
     section: "PART FIVE"
     title: The character-first re-derivation pass
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       For each major character, state what they refuse, what they
@@ -953,6 +955,9 @@ rules:
     notes: >-
       Kept live alongside R7-1-CHARACTER_FIRST, which R12-8-ABILITY_GUIDE_REWRITE
       explicitly says survives untouched.
+      Superseded 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: spent
+      work order; character-first design stands in R7-1-CHARACTER_FIRST and
+      R79-9.
 
   - id: R7-5-NAMING_PASS
     pack: Pack Seven

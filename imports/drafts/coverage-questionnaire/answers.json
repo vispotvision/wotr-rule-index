@@ -1,0 +1,98 @@
+{
+  "q2_batch1_knockons": {
+    "A1_table_tools": "Silent background upkeep (amends R79-2: Ledger, Fronts, roster kept current quietly, never printed)",
+    "A2_pc_kit": "New uses yes, growth no (Recommended)",
+    "A3_style_samples": "Rewrite to the new law (Recommended)",
+    "A4_discord_pcs": "Only yours, not guests' (Recommended)"
+  },
+  "q2_batch2": {
+    "B1_state_of_play": "Retire them (Recommended)",
+    "B2_cross_read": "Keep, on request (Recommended)",
+    "B3_improve_post": "Free rewrite (reverses keep-every-beat: she may reshape it, keeping his intent)",
+    "B4_other_models": "Same lean rule (Recommended)"
+  },
+  "q2_batch3_natalie": {
+    "N1_kharven_inline": "Move to inventories/ (Recommended)",
+    "N2_model_lists": "Short touchstones (Recommended)",
+    "N3_natalie_tail": "Cut all three (Recommended)",
+    "N4_marks_ids": "No ◆, ids sparingly (Recommended)"
+  },
+  "q2_batch4_machinery": {
+    "M1_judger": "Retire it (Recommended)",
+    "M2_session_end": "Make it the silent upkeep (Recommended)",
+    "M3_session_start": "Lean start (Recommended)",
+    "M4_previously": "The last archived scene (Recommended)"
+  },
+  "q2_batch5": {
+    "C1_cleanups": "Fix them, list each (Recommended)",
+    "C2_discord_posts": "You paste chunks",
+    "C3_multiplayer": "3,500 always",
+    "C4_nightly": "Slim it, drop the review (Recommended)"
+  },
+  "q2_batch6": {
+    "D1_books": "On demand, strip quotas (Recommended)",
+    "D2_services": "Stop idle ones, fix read-only (Recommended)",
+    "D3_claude_md": "Strip Paperclip, split by task (Recommended)",
+    "D4_skills": "One source, fewer skills (Recommended)"
+  },
+  "q2_batch7_tools": {
+    "E1_old_tools": "Delete 4, keep gap_fill (Recommended)",
+    "E2_plumbing": "Trim (Recommended)",
+    "E3_tool_list": "Core of ~20, rest on a flag (Recommended)",
+    "E4_sync": "Tidy and alert (Recommended)"
+  },
+  "q2_batch8_cards": {
+    "F1_sonzai": "Another creator's",
+    "F2_card_form": "Head required, rest a menu (Recommended)",
+    "F3_technique": "Mechanism, cost, one fair counter (Recommended)",
+    "F4_card_updates": "Silent upkeep updates cards (Recommended)"
+  },
+  "q2_batch9_numbers": {
+    "G1_number_source": "By field (Recommended)",
+    "G2_outliers": "Formulas fixed, bands loose (Recommended)",
+    "G3_estimates": "Yes, plain, canon (Recommended)",
+    "G4_drafts": "Yes, paid in the crash (Recommended)"
+  },
+  "q2_batch10_stats": {
+    "H1_stack_cap": "All self-boosts inside (Recommended)",
+    "H2_grade_vs_stage": "Grade decides, Stage limits (Recommended)",
+    "H3_tracing": "Out of sight, no tracing (Recommended)",
+    "H4_items": "Toolbox, money named (Recommended)"
+  },
+  "q2_batch11_mechanics": {
+    "I1_ammo": "One ladder, out of sight (Recommended)",
+    "I2_faculty_read": "An estimate in thought/speech (Recommended)",
+    "I3_drain": "Cards keep EU, page uses time (Recommended)",
+    "I4_tell_ladder": "Thresholds law, words free (Recommended)"
+  },
+  "q2_batch12_world": {
+    "J1_canon_order": "Your word first, then sources (Recommended)",
+    "J2_archive_notes": "One free block (Recommended)",
+    "J3_documents": "Markdown; docx on request (Recommended)",
+    "J4_story_beats": "A palette, not owed (Recommended)"
+  },
+  "q2_batch13_story": {
+    "K1_crews": "In play, you overturn (Recommended)",
+    "K2_malphas": "Hidden from who couldn't know (Recommended)",
+    "K3_death": "Rare, costly, canon means (Recommended)",
+    "K4_invention_fence": "System canon fixed (Recommended)"
+  },
+  "q2_batch14_design": {
+    "L1_design_order": "Character, phenomenon, Codex (Recommended)",
+    "L2_page_bans": "Free; gloss rights = speech trait (Recommended)",
+    "L3_first_print": "First pause after (Recommended)",
+    "L4_card_slots": "Menus; figures when reached (Recommended)"
+  },
+  "q2_batch15_world2": {
+    "M1_mystic": "Law in narration, physics in trained mouths (Recommended)",
+    "M2_world_musts": "All 'may' (Recommended)",
+    "M3_doc_forms": "Optional forms, house style (Recommended)",
+    "M4_name_forms": "Names as needed (Recommended)"
+  },
+  "q2_batch16_last": {
+    "N1_price_table": "Approve and publish (Recommended)",
+    "N2_discord_cards": "Only for PvP or on request (Recommended)",
+    "N3_card_ladder": "Rungs, not gates; one template (Recommended)",
+    "N4_last_three": "Yes, all light (Recommended)"
+  }
+}

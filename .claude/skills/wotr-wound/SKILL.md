@@ -17,6 +17,8 @@ moving into or away from the blow.
 
 ## Procedure
 
+Research once per scene, only what is new, and reuse it after (R79-2).
+
 1. Read `references/injury-tables.md` for the matching weapon class.
 2. Search once (WebSearch) for the real injury: the anatomy at that angle, the vessel
    or organ, the bone. Trauma literature, not fiction. Name the source.
@@ -40,7 +42,10 @@ moving into or away from the blow.
   medicine ceiling.
 - **Ledger line**: what persists next scene and what heals by when.
 - **On the page**: the three or four physical facts the prose must show,
-  from the POV's competence. A soldier sees blood; a surgeon sees the class.
+  from the POV's competence, written plain and anime: full gore and geysers,
+  shrugged off in the moment and felt after. Clinical names and the
+  haemorrhage class live in the notes and a medic's mouth (R79-6). A soldier
+  sees blood; a surgeon says the class.
 
 ## Standing rules
 

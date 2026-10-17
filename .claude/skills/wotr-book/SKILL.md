@@ -6,8 +6,8 @@ description: "The War of the Realms book workflow, end to end, in Claude Code: s
 # wotr-book
 
 The chapter machine already exists; this skill is the book around it. Design:
-`book/design/BOOK_PIPELINE.md` (the n8n version; this repo runs the Claude
-Code version). The pieces:
+`book/design/BOOK_PIPELINE.md` (the short spec of the workflow, R79-12).
+The pieces:
 
 | Piece | What it is |
 |---|---|
@@ -19,15 +19,15 @@ Code version). The pieces:
 | `book/<slug>/DIGEST.md` | one careful reading per final chapter, for the audits (§5) |
 | `.claude/workflows/book-chapter.js` | one chapter: foundation (optional), brief, draft, 10 checks, up to 3 revise rounds, gate digest. Writes under `book/` only, never commits |
 | `build/book_next.py` | what comes next, and the gate record (`gates.json`, `GATES.md`). Gates: chapters 1-3, then every fifth (8, 13, ...), and the last. An undecided written gate blocks everything after it |
-| `wotr-book.timer` (02:00) | `build/book_dispatch.sh`: headless Claude runs `book_next --json` and, on write/rewrite, the Workflow; leaves `book/<slug>/DISPATCH.md`; commits `book/` |
+| `wotr-book.timer` | **disabled** since 2026-10-17 (R79-12): chapters run when Isaac asks. `build/book_dispatch.sh` still exists for a manual run; an old `book/<slug>/DISPATCH.md` is history |
 
 Standing: `sources/`, `rules/`, `wiki/`, `table/` are not this skill's to
-edit. No `archive_scene`, `ledger_add`, `advance_front`, `npc_set`,
-`log_ruling` except on Isaac's word, one call per thing he approves. Never
-approve a gate for him. The PC (Sodoku Moto in kharven-year) does what the beat
-says and nothing beyond it; flagged characters decide nothing a beat does not
-name. Commit only the book's files, one chapter's decision per commit, after
-`git pull --rebase --autostash` (another session and the 02:00 run write here).
+edit by hand. A chapter is archived on Isaac's word (an approved gate or his
+say-so); the table upkeep that follows is silent (§6). Never approve a gate
+for him. Characters belonging to other creators (Haruki, Dova'Kan, Gorgi,
+Ma'Kovu, Fushigi, Xhem, Sonzai) stay hands-off (R79-1). Commit only the
+book's files, one chapter's decision per commit, after
+`git pull --rebase --autostash` (another session may write here).
 
 ## First: where is it
 
@@ -38,7 +38,7 @@ systemctl --user is-active wotr-book.service                 # "active" = the di
 ```
 
 Say it plainly: chapters written of total, the action and why, the gate
-waiting if any, when the timer next fires. Then pick the move.
+waiting if any. Then pick the move.
 
 ## 1. Start a book
 
@@ -61,15 +61,14 @@ Chapter 1 then runs as in §2 with `do_foundation: false`.
 
 ## 2. Write the next chapter
 
-Only when `book_next --json` says `write` or `rewrite` and the service is not
-active. Two ways; ask which if he did not say:
-
-- **Tonight**: nothing to do; the 02:00 run takes it.
-- **Now**: invoke the Workflow tool (this skill is his opt-in):
-  `Workflow({ name: "book-chapter", args: { slug, chapter, thread, culture, target_words, front_thread, do_foundation: false } })`,
-  values from `book_next --json` and `outline.json`. It runs an hour or more
-  in the background; do not start a second. If it returns `escalate` at the
-  brief stage, that is a docket item: show it, stop.
+On demand only (R79-12): when he asks for the next chapter, `book_next
+--json` says `write` or `rewrite`, and the service is not active. Invoke the
+Workflow tool (his asking is the opt-in):
+`Workflow({ name: "book-chapter", args: { slug, chapter, thread, culture, target_words, front_thread, do_foundation: false } })`,
+values from `book_next --json` and `outline.json`. It runs an hour or more in
+the background; do not start a second. If it returns `escalate` at the brief
+stage on an open docket item, decide it at the table, log the call with
+`log_ruling` as an agent ruling, and re-run (R79-2).
 
 A `rewrite` re-runs the whole chapter from a fresh brief, and **the Workflow
 does not read the reject note.** So before a rewrite, the note must already
@@ -79,7 +78,7 @@ be in `outline.json` (see §3, re-brief).
 
 Read `chNN/GATE.md`, then `chNN/final.md` in full. Present:
 the verdict and FAIL/WARN counts per round; the reader's first paragraph and any CONVERGES line (a place where the reader drifted and a critic found a fault: the strongest signal on the page); each remaining FAIL with its quote
-and the one-line fix; the declared lie and misreading; beat delivered or not;
+and the one-line fix; beat delivered or not;
 hooks planted/paid; the Front ticked; what he is deciding. Offer the prose
 itself if he wants to read it here. Then his call, one of four:
 
@@ -87,10 +86,10 @@ itself if he wants to read it here. Then his call, one of four:
 - **Instruct** (a prose note: "fix the ears line", "Yoko speaks less"): a
   revise-only pass here, under the reviser's frozen rules from
   `book-chapter.js` (same POV, events, order, ending unless named; no new
-  characters, lie or misreading; 85-115% words; at least 70% of dialogue lines
+  characters; 85-115% words; at least 70% of dialogue lines
   and paragraphs kept). His note is the only finding. Save as the next
   `draft_rN.md`/`notes_rN.md`, run
-  `build/verify.py chNN/draft_rN.md --band set-piece --culture <C> --echoes [--combat]`,
+  `build/verify.py chNN/draft_rN.md --culture <C> --echoes [--combat]`,
   copy to `final.md`/`final_notes.md`, append an "Instructed round" section to
   `GATE.md`, and put it back in front of him. Still his gate.
 - **Re-brief** (the beat was wrong: "the clerk asks the king, not the
@@ -120,8 +119,8 @@ This is what keeps chapter 9 consistent with chapter 2. From `final.md` and
 - `facts`: each durable fact the chapter establishes (an injury, who knows
   what, an object moved, a death, a promise, time elapsed, a number) as
   `{"ch": N, "subject", "kind", "fact", "quote"}`; the quote is a verbatim
-  sentence from `final.md`. No quote, no fact. The declared lie is recorded
-  with kind `lie` so later chapters do not treat it as true. Knowledge splits
+  sentence from `final.md`. No quote, no fact. A lie a character tells is
+  recorded with kind `lie` so later chapters do not treat it as true. Knowledge splits
   two ways: kind `knows` (subject = the character, fact = what they now know)
   and kind `reader_knows` (the reader saw it, the named character did not).
   The continuity critic fails a character acting on a `reader_knows`.
@@ -194,12 +193,14 @@ He reopens a chapter by instruct (§3) or re-brief; the audit never does.
 2. `scenes/ARCS.md`: add the new file under `## <book title>`, in chapter
    order, creating the H2 if missing (hand edit; there is no `arcs_place` tool
    yet). Commit.
-3. The epub and docx come from `build/arcs_export.py`, which the hourly sync
-   runs into Drive. `sync_now` only if he wants it now.
+3. The epub comes from `build/arcs_export.py`, run when he wants it (the sync
+   no longer pushes to Drive, R79-12). A .docx only on request (R79-11).
 4. Narration (`cast_scene`, `narrate_scene`) is a separate job on his word.
-5. The table's own Ledger and Fronts (`ledger_add`, `advance_front`) for what
-   the chapter changed: propose them through `wotr-ledger`; a book chapter is
-   canon only once archived.
+5. The facts the chapter established reach the table as silent upkeep once it
+   is archived (R79-8): Ledger lines that bind, Front ticks, the roster for
+   NPCs it moved, lasting card changes, through `session_end` with the chapter
+   or `ledger_add` / `advance_front` / `npc_set` / `update_character`, nothing
+   proposed and nothing printed. A book chapter is canon only once archived.
 
 ## When a chapter goes wrong in the machine
 

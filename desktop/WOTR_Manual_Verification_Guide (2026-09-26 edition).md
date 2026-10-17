@@ -1,3 +1,22 @@
+> **Amended 2026-10-17 by Isaac's direction (R79-1 to R79-7, `rules/doc-directions-2026-10-17.yaml`).** Where this guide, the 2026-10-14 list below and this list disagree, this list governs.
+>
+> - **The pass.** One `verify_scene` a turn: every FAIL fixed, the WARNs read but not looped. `scene_brief` and the full pipeline are for set pieces only (R79-2). The Workflow's "re-run until clean" and "every roleplay turn takes the full check" (R48-45) read under that.
+> - **Check 1 (word count).** Every in-fiction reply runs about 3,500 words, set pieces and Discord posts included; out-of-character answers run at their own length. The set-piece 5,000+ band and the Discord 1,500 retire, and the band comments under Running the Checker are stale (R79-1).
+> - **Check 3 (competing similes).** The simile-pair check retires (R79-3).
+> - **Check 10 (NPC italic thoughts).** Free, with no count, in any mode (R79-4).
+> - **Check 11 (scene ending).** A chapter or arc closes on a hook; a scene on any concrete close, a pressing question included; a turn stops at his next real decision (R79-1, R79-4).
+> - **Checks 12, 13, 16, 20, 21 and 22 (paragraph variance, sentence variance and the rhythm law, the chain and the run, fragments, openers, filter verbs).** Retired: prose carries no statistics. A revelation may take a short line and its consequence gets room; a one-line paragraph stands wherever the movement earns it (R79-3).
+> - **Check 29 (signature items per session).** Retired with the Kharven recurrence minimum; the items stay as Inventory texture, and Inventories are reference with no sizes (R79-3). The "one world-only detail per beat" read under "The checker is a floor" goes with it (R79-3); invented texture stands as canon once archived (R79-4).
+> - **Check 30 (combat vocabulary).** Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. Fight jargon, Eastern or Western, is free and never required, so the zero-school-terms WARN goes. Misses may be summed in a sentence; every hit that lands gets its own clause (R79-6). Roleplay fights show the full mechanism like a set piece (R79-6, superseding R77-2).
+> - **Check 31 (anatomy).** Wounds are plain and anime on the page, full gore and geysers; clinical names and haemorrhage class live in the notes and a medic's mouth (R79-6).
+> - **Check 32 (causal connectives in fights).** A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands; the two-voice and one-read caps retire (R79-6).
+> - **Figures in fights.** In a fight, figures live in mouths, never narration; no readout inside a fight (R79-6).
+> - **Check 37 (conversion density).** The every-noun routing and the term-count floors retire; conversion upgrades the words for how magic and bodies work and keeps his plain words where plain is truer (R79-5).
+> - **Check 51 (composure).** The bans on composure apply only to the young, the exhausted and the inarticulate; the card decides how a person speaks; speeches carry no cap (R79-5).
+> - **Stock phrases.** The exact cultivation cliché phrases stay banned; bare killing intent and qi rising or flaring are genre vocabulary (R79-5).
+> - **Explicit-scene checks (R73-41).** The smell-word, sound-word, consequence-string and stock-touch WARNs retire; "her core" leaves the euphemism list; the under-eighteen floor guard is unchanged (R79-7).
+> - **Names.** The end-of-scene name check goes; a name only has to sound right for its culture (R79-7).
+>
 > **Amended 2026-10-14 by Isaac's direction (R78-3 to R78-8, `rules/doc-directions-2026-10-14.yaml`).** Where this guide and this list disagree, the list governs.
 >
 > - **Check 23 (timeless register).** System and science terms, modern ones included, are free in narration; only slang stays out (R78-3).

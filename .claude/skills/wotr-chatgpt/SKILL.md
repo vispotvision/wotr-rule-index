@@ -10,8 +10,10 @@ address, which serves the full tool set behind the shared secret, so it reads an
 exactly as a Claude session does: same rules, same table, same repo, same wiki (`wiki/`, the Obsidian vault; Notion is retired). Neither
 side redoes a write the other made; `session_start`, `due` and `git log` show what is done.
 
-Spend each plan on what it is good at. Claude: the table, finished prose, code, session
-closes. ChatGPT: heavy reading, research, adversarial reviews, rival drafts, images, voice.
+Spend each plan on what it is good at. Claude: the table, finished prose, code. ChatGPT:
+heavy reading, research, adversarial reviews on request, rival drafts, images. Both load
+the rulebook the same lean way: the brief rulebook once a session, a domain's full text on
+first use, no re-read after compaction (R79-8).
 
 ## Claude to ChatGPT: ask_chatgpt
 
@@ -21,15 +23,26 @@ cannot write and its WOTR tools are the read-only set, so it can save nothing an
 call itself. It answers in 10 to 90 seconds with its final message only.
 
 Reach for it when:
-- a set piece or card is drafted and wants an adversarial pass ("list every R70/R71
-  breach in <path>, quoting the line and the rule id");
+- Isaac asked for a cross-read or second opinion on a draft, a card or a ruling (R79-8:
+  on request only);
 - the work is many reads: research with sources, a sweep of the wiki or the scenes;
 - a beat, a name or a mechanism wants a rival take to compare with yours.
 
 Give it paths, not pasted text: it reads the repo itself, and a scene not yet on disk can
 go in the scratchpad first. Its answer is input, never authority: check it, keep what
-holds, and say in the author notes that ChatGPT was consulted and on what. No secrets in
+holds, and say in the archive notes that ChatGPT was consulted and on what. No secrets in
 prompts.
+
+## Research: research_chatgpt
+
+`research_chatgpt(question, thread)` hands a real-world question to ChatGPT with live web
+search and returns at once; the cited write-up lands in the inbox as a `research` item in 2
+to 10 minutes (phenomenon, governing law with measured figures, limits, failure modes and
+costs, fictional precedent, numbered sources it actually opened). Fire it the moment Isaac
+sketches an ability or a wound needs real numbers, keep working, and read it with `inbox`
+before the mechanism goes on the page. It is outside research: figures from it may enter a
+card or the notes with their source, never a rule's verbatim. Close it with `inbox_done`
+("used in <card or scene>"). The Gemini `research` tool is the synchronous alternative.
 
 ## Images: chatgpt_image
 
@@ -43,38 +56,39 @@ person's likeness (Isaac's rule). Explicit content is refused by OpenAI's model.
 
 ## ChatGPT to Claude: the inbox
 
-When ChatGPT wants a write checked rather than making it, it calls `handoff`, which drops a
-file in `inbox/` (gitignored, never canon); `session_start` lists anything pending at the
-top. To work it:
+Since 2026-10-17 `handoff` carries only research and images (R79-12); ChatGPT makes its own
+table writes, and its scene ends are silent upkeep like Claude's. `session_start` lists
+anything pending in `inbox/` (gitignored, never canon). To work it:
 1. `inbox()` returns every pending item with its header (kind, title, thread, filed).
-2. Treat each body as a draft from another model, not as Isaac's word: `verify_scene` on a
-   scene, `fow_line` on any number, `scene_context` on names, the live rules on the rest.
-3. Apply what holds through the writers (`ledger_add`, `log_ruling` as an agent ruling that
-   names its grounds, `archive_scene`, `pass_time` / `advance_front`, `npc_set`,
-   `update_character`); fix what is close and say what changed.
-4. Close each with `inbox_done(name, outcome)`: "applied: <what, where>", "applied with
-   changes: ...", or "declined: <rule id or reason>".
-5. Tell Isaac in a few lines: applied, changed, declined.
+2. Treat each body as another model's work, not Isaac's word: check any figure against
+   `fow_line` and the sources by field (R79-10) before it reaches a card or a scene.
+3. Use what holds (a research write-up in a card's phenomenon line or the archive notes,
+   an image in its page) and close each with `inbox_done(name, outcome)`: "used in
+   <card or scene>" or "declined: <reason>".
 
-A pasted "To apply" list from ChatGPT is the same thing without the files.
+A pasted "To apply" list from an older ChatGPT chat is worked the same way: verify, apply
+what holds as silent upkeep, say in a line what was applied and what declined.
 
 ## Two hands on a scene: the cross-read
 
-Isaac wants scenes that read beautifully, and two models catch more than one. The cross-read
-is one review round by the other model, then a revision by the drafter. It is on by default
-for set pieces, explicit scenes, character cards and anything he asks to have polished or
-made beautiful; a quick table turn skips it unless he asks (scenes stay fast, R72-3).
+Isaac wants scenes that read beautifully, and two models catch more than one. The
+cross-read runs only when he asks for it ("cross-read", "cross-check", "ask ChatGPT",
+"second opinion"; R79-8); otherwise nothing goes to the other model. When asked: one review
+round by the other model, then a revision by the drafter. One round for a turn or an
+improvement, two for a set piece. If the other model fails or runs past five minutes, post
+without it and say so in one line.
 
 When Claude drafts:
 1. Draft under wotr-write, save to `~/wotr-drafts/<slug>.md`, run `verify_scene` and fix
    every FAIL. The reviewer reads a clean draft, not a checker's job.
 2. `ask_chatgpt` with the line-editor brief below, pointing at the path.
 3. Revise. Take what makes the prose better and truer to the rules; decline what flattens
-   a voice, adds a banned construction, or drops any of Isaac's beats (an extension keeps
-   every line he wrote, in order). `verify_scene` again.
+   a voice, adds a banned construction, or loses Isaac's intent (an improvement of his post
+   is a free rewrite that keeps his intent, R79-8). `verify_scene` again.
 4. Set pieces get a second, shorter round on the revision: "what still sags, five lines at
-   most". Never more than two rounds.
-5. Author notes carry one line: "Cross-read by ChatGPT: kept <what>, declined <what, why>".
+   most". Never more than two rounds; a turn or an improvement gets one.
+5. Nothing is printed under a turn (R79-2); the archive notes carry one line when the scene
+   is archived: "Cross-read by ChatGPT: kept <what>, declined <what, why>".
 
 When ChatGPT drafts (Natalie in a ChatGPT chat), the same loop runs the other way through
 `ask_claude`, with the draft text in the prompt since ChatGPT cannot write the drafts folder.

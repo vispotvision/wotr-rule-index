@@ -1,35 +1,36 @@
 # Prose law quick check
 
 `verify_scene` or `build/verify.py` is the authority; every finding carries a
-rule id or a Table Rule number. The grep list below is a spot check when both
-are down or a finding needs locating. The reading pass runs after the checker
-either way. Grep by bash, never by eye.
+rule id or a Table Rule number. One verify_scene a turn: fix every FAIL, read
+the WARNs, do not loop (R79-2). The grep list below is a spot check when both
+are down or a finding needs locating. The reading pass is for set pieces; a
+turn takes the checker and goes. Grep by bash, never by eye. Prose carries no
+statistics: any sentence-length, rhythm, paragraph-shape or count finding the
+checker still prints is retired law and is ignored (R79-3).
 
 ## Grep pass (the draft is already a file: /tmp/wotr-drafts/<slug>.md)
 
 ```bash
 f=/tmp/wotr-drafts/<slug>.md
-wc -w "$f"                                    # set piece: 2,500 minimum
+wc -w "$f"                                    # every in-fiction reply: about 3,500 (R79-1)
 grep -n '—' "$f"                              # em dashes: zero
-grep -nE ' like |the way |as if|as though' "$f"      # similes: rationed, read each
+grep -nE ' like |the way |as if|as though' "$f"      # similes: welcome when earned, read each
 grep -nEi "(isn't|wasn't|is not|was not|it's not|not just) .{0,40}(but|it's|it was|,)" "$f"   # "not X, Y" family
 grep -nE 'Not [a-z]+\.$|No [a-z]+\. No ' "$f"       # countdown negation
 grep -nEi 'now that|as mentioned|as you know|in other words' "$f"   # signposting
-grep -nE '\?$' "$f" | tail -1                 # last line must not be a question
-grep -c '\*[^*]\{8,\}\*' "$f"                 # italic thoughts: one per named NPC
-grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # figures: narration only what the POV holds (R70-83), body first (R70-89), blocks only at milestones (R70-80)
-grep -nEi 'qi surged|cold glint|sucked in a cold breath|killing intent surged|the steel sang|a grim smile|blood ran cold|every fibre of his being|darkness gathered|power surged through|stronger than ever|a wave of power|stats soared' "$f"  # stock phrases banned in narration (R70-35)
-grep -nE '\b(because|since|so that|which is why|as a result)\b' "$f" # causal connectives: legal only in a mouth or a document
+grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # figures: in a fight, mouths only, never narration, no readout (R79-6); blocks only at milestones (R70-80)
+grep -nEi 'cold glint|sucked in a cold breath|killing intent surged|the steel sang|a grim smile|blood ran cold|every fibre of his being|darkness gathered|power surged through|stronger than ever|a wave of power|stats soared' "$f"  # exact cliché phrases banned (R70-35); bare killing intent and qi rising or flaring are genre vocabulary (R79-5)
 ```
 
-Combat set pieces additionally: every blow as body, path, target, result (R78-3);
-Eastern school terms free (a Moto POV names a kesa-giri, R78-5); Western
-moves in plain strike words (jab, hook, uppercut, overhead cut, headlock),
-never HEMA (R77-1) and never the line, measure, tempo, vector, geometry or
-the read; techniques shouted by English name (R78-5); the wound in plain
-part names (R78-3), a stated fault per
-working, the three-stratum account present, a Stat Ledger per named
-practitioner in the notes.
+Fights, roleplay and set piece alike, additionally: every blow is body, path,
+target, result and what it cost, with what the fighter read and the opening he
+found shown as behaviour (R79-6); fight jargon, Eastern or Western, free and
+never required (R79-6); a technique or release called in English or the
+speaker's own tongue (R79-6); wounds plain and anime on the page, clinical
+names in the notes and a medic's mouth (R79-6); one clear causal line at a
+working's first display, the full three-strata account on the card and in the
+notes (R79-6); a stated fault per working; a findable way out (R71-8). The
+stats decide out of sight: no Stat Ledger, no deciding-row citations (R79-10).
 
 ## Reading pass (after every grep is clean)
 
@@ -39,30 +40,26 @@ practitioner in the notes.
 - **The Gloss**: a sentence whose only job is to state the significance of the
   one before it. Deletion test: cut it; if the passage means the same, it stays
   cut. Free indirect discourse is not gloss; the test is whose vocabulary.
-- **Local burstiness**, per paragraph: no three consecutive sentences within
-  forty percent of each other's word count; the emotional hit is the shortest
-  sentence in its paragraph and sits last. Set pieces only: matched pairs are
-  exempt, and once a scene the climax may be one long cumulative sentence
-  (R70-19).
-- **Reification**: two per scene, different abstractions, never at the beat.
-  One per page in procedural or ledger scenes.
-- **Apparatus**: a perceptive faculty speaks once per scene, delivers a fact
-  not an interpretation, is never the grammatical subject.
-- **Ignorance quota** met; **misreading budget** spent; no line adjudicates;
-  no narration explains why a working worked on its own authority; mechanism
-  arrived through at most two of the four voices (a readout sits outside the
-  cap, R70-87).
+- **Development**: paragraphs follow the mind's movement, as The Weak Grade
+  shows; a revelation may take a short line and its consequence gets room; a
+  one-line paragraph stands wherever the movement around it earns it (R79-3).
+  No rhythm statistic, no count.
+- **Reification** by ear, never at the beat (R49-21).
+- **Apparatus**: a perceptive faculty is never the grammatical subject.
+- **Meaning**: the POV may interpret, remember and draw meaning in narration;
+  only a narrator's moral appended after an image stays banned (R79-4).
+  Narration may explain what the trained POV understands, and any voice that
+  has earned it may explain (R79-6).
 - Fragment-cascade emphasis ("Not slowly."), anaphora and tricolon stacks,
-  stacked metaphors, magic adverbs, dead metaphors, hypophora, reaction-shot
-  cutaway (a crowd's chorus at a power reveal is legal, R70-72, and named
-  people react to big power with their own words and body, R78-8), "rather than" more than once.
-- **Paragraphs**: medium is the norm; one-line paragraphs only in a cluster at
-  reveals, verdicts, notices and a fight's last beats (R70-20). Third person
-  only outside documents (R70-12).
-- POV lock held; psychic distance held; no beat overcrowded; value turned.
+  stacked metaphors, magic adverbs, dead metaphors, hypophora, and a reaction
+  shot that replaces showing the event (R79-5; named people react to big power
+  with their own words and body, R78-8).
+- Third person only outside documents (R70-12). Tense and person of his post
+  kept on an improvement unless he asks for a conversion (R79-4).
+- POV lock held; narration close by default (R79-4); value turned.
 - Every character's lines fail the swap test.
-- Texture came from the Standing Inventory; anything invented is logged for
-  entry.
+- Texture invented where nothing on file covers it stands as canon once the
+  scene is archived (R79-4); no Inventory entry is owed.
 
 ## Terminology
 

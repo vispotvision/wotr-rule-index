@@ -114,8 +114,8 @@ How they enter:
 
 ## Clean publishing
 
-Isaac, 2026-09-26. Anything that reaches Notion or the wiki is the content
-only, as settled text in the page's own register. Never on a page: his name
+Isaac, 2026-09-26. Anything that reaches the wiki (the Obsidian vault in
+`wiki/`; Notion is retired and frozen since 2026-10-15) is the content only, as settled text in the page's own register. Never on a page: his name
 or role; rulings, open questions, "pending", conflict or issue ids; where the
 text came from ("originated", "drafted by", "generated from", "estimates");
 Claude, Natalie, agent or tool names, or any self-reference. In-world

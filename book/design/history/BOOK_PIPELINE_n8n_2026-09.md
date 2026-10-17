@@ -4,6 +4,17 @@
 > below needs an Anthropic API key that does not exist and is not coming; do not
 > build toward it. The research notes are in `research/` beside this file.
 
+> **Amended 2026-10-17 by Isaac's direction (R79-1 to R79-7, `rules/doc-directions-2026-10-17.yaml`).**
+> Pass 1's table and the writer's protocol below follow the new law: prose
+> carries no statistics, so the sentence, run, paragraph-shape, fragment and
+> simile-pair rows are gone and the Kharven signature-item FAIL is retired
+> (R79-3); a chapter is a set piece and runs about 3,500 words (R79-1); a
+> working's first display carries one clear causal line with the three strata
+> in the notes, and fight jargon is free and never required (R79-6); NPCs lie
+> where their want makes them, with no required lie and no notice quota
+> (R79-2). `.claude/workflows/book-chapter.js` still asks for a declared lie
+> and misreading per chapter; that is the implementation's, not this file's.
+
 > **Linux note (2026-09-14).** The design below was written against the Windows
 > machine and is left as written; read its wiring through today's layout. The
 > dispatcher is `build/book_dispatch.sh` under the systemd user timer
@@ -64,10 +75,10 @@ Eight principles, each with the reason it is there:
 4. **Deterministic checks before any model; model critics are narrow and must quote.** Category-scoped extraction with quoted contradiction pairs scored F1 0.68 against human experts' 0.23 ([ConStory-Bench](https://arxiv.org/abs/2603.05890)); a holistic 1–10 judge agrees with human preference only 66–73% and its rubric wording alone predicts the verdict 67–90% of the time ([LitBench](https://arxiv.org/abs/2507.00769), [rubric artifacts](https://arxiv.org/html/2609.02942)). So: no score gate anywhere. FAIL blocks, WARN reports, both carry a quote.
 5. **Revision is bounded at three rounds, accepted only if it does not regress, with structure frozen.** Every measured system plateaus by round three and degrades after four ([LLM Review](https://arxiv.org/html/2601.08003), [Dramaturge](https://arxiv.org/html/2510.05188v3) N_max = 3, [Claude-Book](https://github.com/ThomasHoussin/Claude-Book) max 3); uncoordinated revision introduces new inconsistencies; revisions that score lower are discarded ([AuthorAgent](https://github.com/Ckokoski/AuthorAgent)).
 6. **State is written only after the gate; validators are read-only; one writer writes.** ([Claude-Book](https://github.com/ThomasHoussin/Claude-Book), [Magnet](https://arxiv.org/html/2607.00918): rejected proposals never touch world state.)
-7. **A human override is persisted with its reason** so a deliberate lie, an unreliable narrator or foreshadowing stops being re-raised ([Novel-OS](https://github.com/mrigankad/Novel-OS)). NATALIE requires a lie per session (Table Rule 8) and a misreading per scene (R6-4), so this is not optional.
+7. **A human override is persisted with its reason** so a deliberate lie, an unreliable narrator or foreshadowing stops being re-raised ([Novel-OS](https://github.com/mrigankad/Novel-OS)). NATALIE used to require a lie per session and a misreading per scene; since 2026-10-17 NPCs lie only where their want makes them (R79-2), but a lie or a misreading a chapter does carry still needs the override, so this is not optional.
 8. **Every stage is idempotent** (safe to run twice) and checkpointed by `job_id`, so a crash resumes at the last good stage instead of re-spending tokens ([community pattern for long AI workflows](https://community.n8n.io/t/way-to-handle-long-running-ai-workflows-in-n8n-without-execution-timeouts/295656)).
 
-The unit of prose stays the **scene file**, because that is what `archive_scene`, `ARCS.md`, `arcs_export.py`, `cast_scene` and `narrate_scene` all understand. A chapter is one scene file of 2,500–4,500 words (the archive median is 3,235), titled `Chapter NN — <title>`. In `verify.py`'s terms a chapter is always the `set-piece` band (floor 2,500, no ceiling); the `conversational` and `standard` bands are turn lengths and never describe a chapter. The repo has no chapter concept today; the outline in the Data Tables supplies it.
+The unit of prose stays the **scene file**, because that is what `archive_scene`, `ARCS.md`, `arcs_export.py`, `cast_scene` and `narrate_scene` all understand. A chapter is one scene file of about 3,500 words (R79-1: every in-fiction reply, set pieces included, runs about 3,500; the archive median is 3,235), titled `Chapter NN — <title>`. The outline's `target_words` sets each chapter's length, 3,500 by default. The repo has no chapter concept today; the outline in the Data Tables supplies it.
 
 **What NATALIE was written for and what a book is.** `desktop/NATALIE.md` is a table protocol: Isaac drives his player character, Natalie drives everything else, and Table Rule 1 is a turn-taking rule ("answer what the PC did … never resolve a multi-decision action in one go"). A chapter has no turn to answer and the pipeline will, by construction, write the PC's actions. §7 item 19 states the default this design takes and marks it as Isaac's to overrule; nothing below silently assumes it.
 
@@ -228,20 +239,15 @@ What it catches: the AI tells and the hard prose numbers. The mapping from findi
 | FAIL | antithesis "not X but Y" | AI-tells §1 |
 | FAIL / WARN | the Ladder, two / one `was X and the Y was` clauses | R6-1-LADDER_BAN, Check 18 |
 | FAIL | countdown negation | AI-tells §1 |
-| WARN | 3+ Not/Never/And/Only fragments | AI-tells §1 |
 | WARN | a named faculty as grammatical subject | R6-2-FACULTY_NEVER_SUBJECT, Check 19 |
 | WARN | gloss phrases | R4-13-ZERO_BUDGET, Check 15 |
-| WARN | emotional signposting; question in narration; 2+ similes in a paragraph; tidy close | AI-tells §4 / §1 / §5 / §2 |
-| FAIL | reification ≥ 3 per scene or 2 in a paragraph | R4-15-TWO_PER_SCENE_BUDGET, R4-15-ONE_PER_PARAGRAPH, Check 17 |
-| FAIL | three consecutive sentences over 25 words | R4-14-CHAIN_CEILING |
-| FAIL / info | ≥ 4 flat runs | R4-14-RUN_RULE |
-| FAIL / WARN | sentences under 8 words below 10% / 18% | R4-14-HARD_CEILINGS |
-| WARN | paragraph closing on three long sentences; paragraph-length CV < 0.35 | R4-14-HARD_CEILINGS, AI-tells §2 |
-| WARN | word count outside band (always `set-piece` for a chapter: 2,500 floor, no ceiling) | Table Rule 2 |
-| FAIL | Kharven: fewer than 2 of 5 signature items | R6-9-RECURRENCE_RULE |
-| WARN | combat: zero blade body/action / zero anatomy terms; fight abstraction in narration | R77-1, R13-6-ANATOMY_VOCAB, R78-3 |
+| WARN | emotional signposting; question in narration; tidy close | AI-tells §4 / §1 / §2 |
+| WARN | word count far from about 3,500 (Pass 2 holds the chapter to its `target_words`) | R79-1 |
+| WARN | combat only: fight abstraction in narration | R78-3, R79-6 |
 
-This pass is the same as [EQ-Bench's slop score](https://eqbench.com/slop-score.html) and [AutoNovel's regex pass](https://github.com/NousResearch/autonovel/blob/master/ANTI-SLOP.md) in kind ("not X but Y", sentence-length variation, em-dash rate) but tied to the packs' rule ids, which is why it comes first. Its FAILs are never overridable by the reviser or by an `overrides` row; the only way one reaches the archive is Isaac's `approve` on an escalation, and then `archive_scene` is called with `verify=False` and the digest records it. Known blind spots (inventory §7.10): the HEMA regex counts everyday words (point, cut, guard, cross, edge, void), `split_sentences` skews on dialogue-heavy text, any `*…*` of three words counts as an interior beat; leave them as WARNs.
+Retired 2026-10-17 and not to be enforced even where `verify.py` still prints them: the chain ceiling, the flat runs, the short-sentence floor, the paragraph-shape and CV rows, the fragment count and the simile pair (R79-3); the Kharven signature-item FAIL, with the items kept as Inventory texture (R79-3); the reification count, read by ear and never at the beat (R49-21); the zero-school-terms WARN, since fight jargon is free and never required (R79-6).
+
+This pass is the same as [EQ-Bench's slop score](https://eqbench.com/slop-score.html) and [AutoNovel's regex pass](https://github.com/NousResearch/autonovel/blob/master/ANTI-SLOP.md) in kind ("not X but Y", em-dash rate; sentence-length statistics retired, R79-3) but tied to the packs' rule ids, which is why it comes first. Its FAILs are never overridable by the reviser or by an `overrides` row; the only way one reaches the archive is Isaac's `approve` on an escalation, and then `archive_scene` is called with `verify=False` and the digest records it. Known blind spots (inventory §7.10): the HEMA regex counts everyday words (point, cut, guard, cross, edge, void), `split_sentences` skews on dialogue-heavy text, any `*…*` of three words counts as an interior beat; leave them as WARNs.
 
 ### Pass 2, Shape (deterministic, Code)
 
@@ -335,7 +341,7 @@ Priority order inside the prompt, stated to the writer as a priority order the w
 | Facts digest for cast and place, ≤ 40 rows | `facts` | ~1.2k | no |
 | `scene_recall` × 2, `wiki` × 1–2 | MCP | 3k + 3.5–7k | no |
 | **dynamic user block** | | **17–40k** | |
-| Output: chapter 2,500–4,500 words + summary + notes, plus adaptive thinking | | 5–8k + 3–8k (thinking is an unmeasured guess; **to verify** from the first runs' usage) | |
+| Output: chapter about 3,500 words + summary + notes, plus adaptive thinking | | 5–8k + 3–8k (thinking is an unmeasured guess; **to verify** from the first runs' usage) | |
 
 Total input 40–70k tokens, of which 21–30k is read from cache at 10% price when the cache hits. The inventory's uncached estimate was 50–70k; the cache does not shrink the prompt, it shrinks the bill.
 
@@ -454,15 +460,15 @@ Plus a two-node error workflow: **Error Trigger → Gmail**. Workflow settings: 
 ```
 You write War of the Realms prose for Isaac's table under NATALIE's standing rules. You are the writer; other passes check your work and you will be asked to revise against quoted findings. This is a chapter of a book, not a turn at the table: the approved outline beat is Isaac's decision for his character, and you write what it says he does and nothing he did not decide.
 
-THE FLOOR. Never invent a number for a metaphysical quantity; check the FOW line or put an estimate in a character's mouth and flag it. Never resolve a canon conflict silently. Label anything you originate as pending ruling in the author notes. Naming canon is Moto; the Büri register is dead.
+THE FLOOR. Never invent a number for a metaphysical quantity; check the FOW line or put an estimate in a character's mouth and flag it. Never resolve a canon conflict silently. List anything you originate in the author notes; it stands as canon once the chapter is archived (R79-4). Naming canon is Moto; the Büri register is dead.
 
-THE TABLE RULES, AS THEY APPLY TO A CHAPTER. 1 Ending: a chapter ends on a hook or cliffhanger, an NPC line, a physical action or a thing he can now see (R78-7); never on a question aimed at the reader. 2 Length: a chapter is a set piece, 2,500 words minimum, with full scene standards; hit the target given. 3 NPC agency: they want things, lie, withhold, refuse, bargain, misjudge. 4 The world moves: the named Front advances. 5 Adjudication without dice: Stage gap, whether he read the opponent, what he has spent, what the environment allows; the author notes name the stat row that decided; every action costs something specific and visible. 6 The read is the game: a self-derived technique gets two or three exchanges of evidence before it kills; explanations arrive through the four voices, never narration on its own authority. 7 The ledger persists. 8 Ignorance and lies: one thing per chapter the POV notices and you do not explain; one thing per chapter an NPC says that is wrong and stays uncorrected. 9 Explicit scenes: plain anatomical vocabulary, positions tracked, the NPC's own desire and refusal line, a consequence afterward. 10 Body language over talking heads; one italic private thought per NPC per scene. 11 First introductions: full physical inventory on first sight, then a want and an unswappable voice. 12 Lived-in rooms: ambient noise that is not the plot.
+THE TABLE RULES, AS THEY APPLY TO A CHAPTER. 1 Ending: a chapter closes on a hook or cliffhanger (R78-7, R79-4). 2 Length: a chapter is a set piece, about 3,500 words (R79-1), with full scene standards; hit the target given. 3 NPC agency: they want things, lie where their want makes them, withhold, refuse, bargain, misjudge. 4 The world moves: the named Front advances. 5 Adjudication without dice: Stage gap, whether he read the opponent, what he has spent, what the environment allows; the author notes name the stat row that decided; every action costs something specific and visible. 6 The read is the game: a self-derived technique gets evidence before it kills, and every fight has a findable way out; narration may explain what the trained POV understands, and any voice that has earned it may explain (R79-6). 7 The ledger persists. 8 Lies: an NPC lies where their want makes them, with no required lie and no notice quota (R79-2); a lie stays uncorrected until the PC acts on the truth. 9 Explicit scenes: plain anatomical vocabulary, positions tracked, the NPC's own desire and refusal line, a consequence afterward. 10 Body language over talking heads; NPC italic thoughts free, with no count (R79-4). 11 First introductions: full physical inventory on first sight, woven through the scene as the POV's attention moves (R79-4), then a want and an unswappable voice. 12 Lived-in rooms: ambient noise that is not the plot.
 
-CANON HIERARCHY. Isaac's direction; the project canon documents; the amendment packs, later beats earlier; the Notion wiki; the base craft documents; prior sessions; internal logic.
+CANON HIERARCHY. Isaac's direction; the project canon documents; the amendment packs, later beats earlier; the wiki (the Obsidian vault in `wiki/`); the base craft documents; prior sessions; internal logic.
 
-THE MAGIC FRAME. Mechanism is on the page; power is finite and the spending shows. Four explaining voices, never more than two per engagement. Every working is explained at the Aether, the Wellspring and the Essence; the author notes name its phenomenon, Physics Domain, Wellspring, Category and Mechanism Vocabulary term. The stats decide; effects on the page first, then named; system and science terms are free in narration (R78-3).
+THE MAGIC FRAME. Mechanism is on the page; power is finite and the spending shows. A working's first display carries one clear causal line, in a mouth or in narration; the full account at the Aether, the Wellspring and the Essence lives in the notes, which name its phenomenon, Physics Domain, Wellspring, Category and Mechanism Vocabulary term. The stats decide; effects on the page first, then named; system and science terms are free in a trained POV's narration (R78-3, R79-4). In a fight, figures live in mouths, never narration, and there is no readout inside a fight (R79-6).
 
-PROSE STANDARDS. Sensory grounding, texture from the Standing Inventory before anything invented. No em dashes. No hypophora. No "it's not X, it's Y". No countdown negation, no fragment emphasis, no Ladder, no Gloss, no narrator moral adjudication, no reaction-shot cutaway, though named people react to big power (R78-8). Varied sentence length inside every paragraph. Reification two per scene. Set pieces: layered sensory opening, end on physical action, every blow as body, path, target, result, in Eastern school terms or plain strike words, techniques shouted by English name (R78-3, R78-5), the combat floor, the three-layer hit, the POV's own body on the page. Register: modern words are legal everywhere; the only test is whether a word breaks belief. Two characters' lines must not be swappable. Iceberg: no "as you know".
+PROSE STANDARDS. Sensory grounding; the Standing Inventory is reference, and you invent texture where nothing on file covers it (R79-3, R79-4). No em dashes. No hypophora. No "it's not X, it's Y". No countdown negation, no fragment emphasis, no Ladder, no Gloss, no narrator's moral appended after an image, no reaction shot that replaces showing the event, though named people react to big power (R78-8, R79-5). Paragraphs are developed and follow the mind's movement, as The Weak Grade shows; a revelation may take a short line and its consequence gets room; no sentence-length, rhythm or count rule (R79-3). Reification by ear, never at the beat. Set pieces: layered sensory opening, a hook at the chapter's close, every blow as body, path, target, result and cost, fight jargon free and never required, techniques called in English or the speaker's own tongue (R79-6), wounds plain and anime with clinical names in the notes, misses summed and every landed hit its own clause, the POV's own body on the page. Register: modern words are legal everywhere; the only test is whether a word breaks belief. Two characters' lines must not be swappable. Iceberg: no "as you know".
 
 CONTEXT PRIORITY. The previous chapter's tail must be continued directly. The summaries and facts govern consistency and foreshadowing. Recall snippets and wiki pages are reference only. On conflict, facts beat the outline's intentions and the outline beats recall.
 

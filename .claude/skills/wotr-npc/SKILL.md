@@ -1,6 +1,6 @@
 ---
 name: wotr-npc
-description: "Build a War of the Realms NPC with a real want, a refusal line, a lie, a full physical inventory and an unswappable voice, then propose the roster entry (npc_set on Isaac's word). Use whenever a scene needs a new person (a gate guard, a Measurewright, a widow, a rival), whenever Isaac says 'someone', 'a guy', 'who's there', or names a role without a person, and whenever an existing minor NPC is about to get a second scene and needs to be pinned down. Also use to audit an existing NPC for want, refusal and voice. Never for Isaac's PC or any flagged character."
+description: "Build a War of the Realms NPC with a real want, a refusal line, a lie where the want makes one, a full physical inventory and an unswappable voice, then keep the roster entry (npc_set, quietly, as background upkeep). Use whenever a scene needs a new person (a gate guard, a Measurewright, a widow, a rival), whenever Isaac says 'someone', 'a guy', 'who's there', or names a role without a person, and whenever an existing minor NPC is about to get a second scene and needs to be pinned down. Also use to audit an existing NPC for want, refusal and voice. Never for Isaac's PC or any flagged character."
 ---
 
 # wotr-npc
@@ -16,11 +16,13 @@ writer's meta knowledge never becomes the NPC's omniscience (`wotr-write/referen
 
 `roster(thread)` to see who exists; `wiki(query)` and `grep -ril` under
 `wiki/` for a name or role already filed. Never duplicate. Load the culture's Standing
-Inventory (`desktop/inventories/<culture>.md`): the NPC's food, oaths, time-words and proverbs come from it.
+Inventory (`desktop/inventories/<culture>.md`) as reference for the NPC's food, oaths, time-words and proverbs;
+invent freely where nothing on file covers it, and write a culture with no
+Inventory from the wiki and cards straight away (R79-3, R79-4).
 Name through the naming pass (five strata; Büri register dead; roll-name
 and carried name for Far-Northern people).
 
-## The seven fields (all mandatory, roster order)
+## The seven fields (roster order; Lie may be "none")
 
 1. **Want.** One concrete thing, this season, that the PC can help or hurt.
    Not "respect": a licence renewed, a son back from the muster, the
@@ -28,31 +30,36 @@ and carried name for Far-Northern people).
 2. **Refusal line.** The thing they will not do no matter what is offered.
    Found by asking what they survived.
 3. **Knows.** Three facts, one of which the PC needs.
-4. **Lie.** One thing they will say that is wrong, and whether they know it
-   is. Stays uncorrected until the PC catches it (table rule 8).
+4. **Lie.** Only where their want makes them lie, with no required lie per
+   NPC (R79-2): one thing they will say that is wrong, and whether they know
+   it is. Stays uncorrected until the PC catches it (table rule 8).
 5. **Voice.** What they notice first entering a room; sentence length; one
-   discourse marker; several fixed sayings from the Inventory (elders,
-   headmen and court speakers argue in them, the young speak plain, R70-109);
-   what they never say. Gloss rights: never, diagnostic only, or yes. Swap test against
+   discourse marker; any fixed sayings from the card or the Inventory (elders,
+   headmen and court speakers argue in them, the young speak plain, R70-109),
+   and a recurring catchphrase only where a card gives one (R79-5);
+   what they never say. Gloss rights (who explains aloud in dialogue, a voice
+   trait, not a gate on narration, R79-9): never, diagnostic only, or yes. Swap test against
    every other speaker in the scene.
 6. **Body.** Full first-sight inventory: hair by comparison (colour, texture,
    length), face shape and one feature, body with shoulders, chest, waist,
    thighs, belly, hands named, clothing with fit and wear, one distinguishing
    mark, one scent.
 7. **Line.** If a practitioner: Stage by source name, Path, and the one or
-   two stats the scene will stress, via `fow_line` or labelled estimate. If
-   not: "no line".
+   two stats the scene will stress, via `fow_line`; a missing figure derived
+   from the Fracture of Worlds tables, written plainly, canon on use (R79-10).
+   If not: "no line".
 
-Plus one *italic* private thought, true to their head, for the first scene.
+Plus *italic* private thoughts true to their head, as many as the scene
+wants, with no count (R79-4).
 
 ## Output
 
-The roster entry as a proposal (every `npc_set` field filled; the call
-commits to git, so it runs on Isaac's word only), then the first-sight paragraph in prose,
-under 200 words, layered, from the POV's competence, in the order this POV
-looks (R70-55). On the page a minor NPC gets one exact stroke and a
-major one the full inventory (R70-54); the roster keeps the full Body field
-either way. The want never stated; shown in what they do with their hands.
+The roster entry, written quietly with `npc_set` as background upkeep and
+never printed (Isaac's 2026-10-17 refinement of R79-2), then the first sight in
+prose, layered, from the POV's competence. On the page a minor NPC gets one
+exact stroke (R70-54) and a major one the full physical inventory, woven
+through the scene as the POV's attention moves (R79-4); the roster keeps the
+full Body field either way. The want never stated; shown in what they do with their hands.
 
 ## Voice warmup
 

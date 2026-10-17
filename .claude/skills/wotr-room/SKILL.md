@@ -14,7 +14,7 @@ scene type and length from his request and current live rules. “Surprise me”
 permits fresh cast and a fresh hook, not invented canon mechanics or statistics.
 
 Before dispatch, use the usual `session_start`, rules/docket and lorebook flow
-locally. Select the authoritative public cards, State of Play, relevant prior
+locally. Select the authoritative public cards, relevant prior
 scenes/timeline, culture/voice pages and researched physical facts as `--source`
 files. Use `--codex` for workings. Do not export private pages or secret-bearing
 links through an aggregated tool reply. If required context cannot enter the

@@ -1,70 +1,64 @@
 ---
 name: wotr-ledger
-description: "Session close and cost accounting for War of the Realms. Use at the end of any WOTR session or set piece, whenever Isaac says 'wrap', 'log it', 'what did that cost', 'session end', or when a scene has ended and nothing has been recorded yet. Also use mid-session when a scene inflicts a wound, a debt, a witness, a lost object or a reputation change that must persist. It fills the narrative Ledger and the Stat Ledger, advances a Front, rewrites State of Play, files rulings and proposals, enters new Inventory texture and archives the scene, every write as a proposal Isaac approves item by item. One pass, nothing forgotten."
+description: "Silent background upkeep and cost accounting for War of the Realms. Use when a WOTR scene or set piece ends, whenever Isaac says 'wrap', 'log it', 'what did that cost', 'session end', or when a scene has ended and nothing has been recorded yet. Also use mid-session when a scene inflicts a wound, a debt, a witness, a lost object or a reputation change that must persist. It quietly keeps the Ledger, the Fronts and the NPC roster current and archives the scene; nothing is printed to Isaac unless he asks. One pass, nothing forgotten, nothing shown."
 ---
 
 # wotr-ledger
 
-The world remembers what the PC did to it. This skill is the close, run as a
-form so nothing is left to memory. In Claude Code the close is a list of
-proposals: draft every field below, show Isaac, and make each write call only
-for the items he approves, by name. `session_end(thread, scene_markdown)`
-drafts candidates and logs the session (the Ledger ages from it): call it
-once, at a real close. For a scene already archived (Discord `/scene save`,
-or anything in `scenes/` with no close), use `judger` instead.
+The world remembers what the PC did to it. Since 2026-10-17 there is no
+scene close (R79-2, refined the same day by Isaac's coverage answers): when
+a scene ends Natalie keeps the table current in the background and archives
+the scene, and none of it is printed, proposed item by item or waited on.
+Isaac reads the archive and the wiki when he wants to; "log it" or "what did
+that cost" gets him the full account in plain OOC. For a scene already
+archived (Discord `/scene save`, or anything in `scenes/` with nothing kept),
+run the same silent pass on it; the judger is retired (R79-8).
 
-## 1. Narrative Ledger (`ledger_add` on approval, one line per category)
+## 1. At scene end, silently
 
-- **The dead**: name, how, who saw.
-- **Injuries and reserve**: per character, the wound brief's Ledger line;
-  EU spent, the lowest tell rung reached (half, quarter, tenth: R78-10), any maxing out, Drafts drunk and their crash, stack layers run; what heals by
-  next scene and what does not.
-- **Debts**: owed and owing, to whom, in what (coin, labour, salt, meat).
-- **Objects**: gained, lost, damaged. A damaged Inventory signature item is
-  a plot event; say so.
-- **Renown**, per audience (public, army, sects, guilds; R78-10): who now knows what about him, what they will say, warrants and bounties posted, epithets given.
-- **Witnesses**: who saw a working, and what they could read of it.
-- **Due**: what comes due and roughly when (a fire's length, the Thin Weeks).
+`session_end(thread, scene_markdown, ledger=..., fronts=..., npcs=...)` in
+one call, then `archive_scene`. Pass only what binds:
 
-## 2. Stat Ledger (R14-7, per named practitioner)
+- **Ledger lines that bind** (`ledger` items, `ledger_add` fields): the dead
+  and who saw; wounds that outlast the scene and reserve left low (the tell
+  rung reached, Drafts and their crash, R78-10); debts owed and owing; objects
+  gained, lost or damaged; renown per audience (public, army, sects, guilds;
+  warrants, bounties, epithets, R78-10); what comes due and roughly when.
+  Each line carries a thread and a story date or a named trigger (R72-22).
+- **Front ticks** (`fronts` items): a Front his acts moved; story days passed
+  in the scene go in `days` or `story_date`, which tick the calendar as
+  `pass_time` does (R72-20). A new pressure is `add_front` with a four to six
+  step clock.
+- **Roster** (`npcs` items): doing-now and stands-with for each NPC the scene
+  moved (R72-26); a lie only where the NPC's want made them tell one (R79-2).
 
-Going in: Stage, Band, Tier of Standing, Aether Class, Crystal State.
-Stressed: the stats the scene used and the §3 row each outcome traced to.
-Spent: EU, lowest tell rung reached, Drafts and crash, stack layers. Coming out: Crystal State and any
-Threshold Event risk. Healed by next scene: ___. Every figure sourced or
-marked estimate.
+Leave out what will not matter next scene. A trifle is not a Ledger line.
 
-## 3. Fronts (`pass_time` for story days, R72-20; `advance_front` only for a move his acts sped, on approval)
+## 2. Archive
 
-Which Front moved, which consequence fired, the PC's part in it or none.
-If a new pressure appeared, propose `add_front` with a four to six step clock.
-
-## 4. State of Play (a full rewrite, proposed, not appended)
-
-Where he is, what he holds, who is with him, what he believes that is wrong,
-the open threads in one line each, the last physical image of the scene.
-Written so a cold session can start from it alone.
-
-## 5. Rulings and proposals
-
-`log_ruling(rule_id, ruling)` for anything Isaac decided at the table, with
-the rule id; the index takes it in via `RULINGS.md` in a later index
-session, never by editing `rules/` from here. `propose_rule` for anything you
-originated, marked pending, no author name. Docket page updated.
-
-## 6. Inventory
-
-Every piece of texture invented in play entered into its culture's Standing
-Inventory now, or it does not exist. Any rough-to-converted term into the
-lexicon (R16-4).
-
-## 7. Archive
-
-`archive_scene(title, markdown, author_notes)` on his word, titled per
+`archive_scene(title, markdown, author_notes)`, titled per
 `scenes/MANIFEST.md` (wotr-ops has the ordering for a transcript cut into
-several scenes). It commits and pushes; the hourly sync carries Notion, so
-`sync_now` only if he asks.
+several scenes). The full author notes live here and only here (R79-2).
+Texture, places, words and minor people invented in the scene stand as canon
+once archived, and Isaac may strike them (R79-4); no Standing Inventory entry
+is owed. It commits and pushes to the wiki vault; `sync_now` only if he asks.
 
-## 8. Ask once
+## 3. Rulings
 
-Whether to fold a pack this session. Once. Then stop.
+`log_ruling(rule_id, ruling)` for anything Isaac decided at the table and for
+any agent ruling Natalie made, with the rule id; the index takes it in via
+`RULINGS.md`, never by editing `rules/` from here. `propose_rule` for a craft
+rule you originated. Quietly, like the rest.
+
+## 4. When he asks
+
+"Log it", "what did that cost" or "show me the Ledger": answer OOC at its own
+length from `due()`, `fronts`, `roster` and the lines just written. The Stat
+Ledger (going in, stressed, spent, coming out, per named practitioner, R14-7)
+is written into the archived scene's author notes, and read back on request.
+
+## Not any more
+
+No State of Play rewrite (the wiki State of Play pages are retired and
+historical). No proposals item by item. No Inventory entry demand. No OOC foot
+or close block under the last turn. No pack-fold question.

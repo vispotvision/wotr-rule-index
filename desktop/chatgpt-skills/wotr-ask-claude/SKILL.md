@@ -1,6 +1,6 @@
 ---
 name: wotr-ask-claude
-description: Have Claude check or improve War of the Realms work through the WOTR MCP tool ask_claude. Use for every set piece, explicit scene, character card or technique before it is posted or saved; whenever Isaac asks for a scene to be polished, beautiful, tightened or checked; and whenever a ruling, a name, a number or a mechanism wants a second opinion ("ask Claude", "have Claude check this", "cross-read", "second opinion").
+description: Have Claude check or improve War of the Realms work through the WOTR MCP tool ask_claude. Use ONLY when Isaac asks for it: a cross-read or cross-check of a scene, turn, card or technique, or a second opinion on a ruling, a name, a number or a mechanism ("ask Claude", "have Claude check this", "cross-read", "second opinion").
 ---
 
 # Asking Claude
@@ -31,15 +31,17 @@ let it look them up.
    > not summarise it.
 
 3. Revise. Take what makes the prose better and truer to the rules. Decline what flattens
-   a voice, adds a banned construction, or drops any beat Isaac wrote: every one of his
-   lines and thoughts stays, in order.
+   a voice, adds a banned construction, or loses Isaac's intent (improving his post is a
+   free rewrite that keeps his intent, R79-8).
 4. `verify_scene` again.
 5. A set piece gets one more short round on the revision: "What still sags? Five lines at
    most, quoted, with rewrites." Never more than two rounds.
-6. In the OOC foot, one line: "Cross-read by Claude: kept <what>; declined <what, why>."
+6. Nothing is printed under a turn (R79-2). When the scene is archived, the archive notes
+   carry one line: "Cross-read by Claude: kept <what>; declined <what, why>."
 
-Quick table turns skip the cross-read unless Isaac asks for it: a turn should not wait
-two minutes for a second reader.
+This runs only when Isaac asks for it (R79-8, in NATALIE.md); otherwise
+post without it and say nothing. One round for a turn or an improvement, two for a set piece.
+If `ask_claude` fails or runs past five minutes, post without it and say so in one line.
 
 ## Other uses
 
@@ -56,5 +58,5 @@ two minutes for a second reader.
 - No secrets, tokens or personal data in prompts.
 - If `ask_claude` fails or times out, say so in one line and go on without it: never stall
   the table on it.
-- Saving stays with you: the cross-read changes the draft, then you make the writes
-  (`archive_scene`, `ledger_add`, and so on) as NATALIE.md says, once.
+- Saving stays with you: the cross-read changes the draft; when the scene ends you make
+  the silent upkeep and the archive (`session_end`) as NATALIE.md says, once.

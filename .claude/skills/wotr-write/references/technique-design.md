@@ -1,10 +1,15 @@
 # Technique and ability design
 
 Tags: magic-design, codex, stats, character-sheet. Load the Ability Technique
-Design Guide sixth edition read through Packs Fourteen, Thirteen, Twelve, Ten,
-Nine, and whatever `load_rules` returns newer.
+Design Guide read through Packs Fourteen, Thirteen, Twelve, Ten, Nine, and
+whatever `load_rules` returns newer (R79-9 governs the required fields).
 
-## Order of design, never reversed
+**What a technique requires (R79-9):** its mechanism, its cost, and one fair
+counter within reach at its own Stage. Limit and tell where they exist. The
+before, during and after counter triad only for signatures. Every ability has
+a counter.
+
+## Order of design, never reversed (R79-9)
 
 1. Who is this person: what they refuse, what they survived, what they believe
    that costs them.
@@ -19,12 +24,14 @@ Nine, and whatever `load_rules` returns newer.
      EU, eta, Flux Density, Crystal State under strain.
    The Category's alignment tag says where cost and counter live. The fault
    falls out of the mechanism; if it does not, the mechanism is wrong.
-4. Only then the Codex line, assigned after the phenomenon: Glyphs, Wellspring,
-   Family, Physics Domain, Category, Stage. If no combination fits, say so and
-   pitch the new Codex entry in the same pass.
+4. Only then the Codex lookup, for precedent and assignment: Glyphs,
+   Wellspring, Family, Physics Domain, Category, Stage. Name what was checked
+   only when proposing a new Codex entry; if no combination fits, pitch the
+   entry in the same pass.
 5. The FOW line beneath it: governing Primary Stat and Sub-Stats, Stage floor,
-   Grade required, Path gate if any, Resonant Pair if any. Every figure from
-   `fow_line` or Fracture_of_Worlds; estimates labelled.
+   Grade required, Path gate if any, Resonant Pair if any. Figures by field
+   (R79-10); a missing one derived from the Fracture of Worlds tables, written
+   plainly, canon on use.
 
 6. The fairness pass (`wotr-write/references/fair-play.md`): the cost that hurts, the stated limits, the
    Counterplay route that beats it, the tell, numbers in band for the Stage.
@@ -49,7 +56,7 @@ gloss after it where the character has a naming register (`THE ROT · kusari`, E
 its kind in brackets (a release form's kind is *First*, *Second* or *Third
 Release*), then a single paragraph of any length, which also gives the
 signature sound and, for a Trait, the aura's colour (R78-6). That paragraph is
-the whole Notion page and the whole card entry; nothing else goes on it. The
+the whole wiki page and the whole card entry; nothing else goes on it. The
 field format (R47-2) is retired; an old field-format entry is rewritten the
 next time it is edited or used.
 
@@ -58,14 +65,18 @@ next time it is edited or used.
 - Full figures inline (EU, time from full, Grade, m/s, joules), written plainly
   with no (est.) mark (R76-6); estimates are listed in the author notes only.
   Never a number where a source has one.
-- Always cost, limit and counter, and the tell. The bearer's belief is left
+- Always mechanism, cost and counter; limit and tell where they exist
+  (R79-9). The bearer's belief is left
   implied, never quoted. Offices, Lattice property and nucleation only where
   they read naturally; they are still designed.
 - Model: Isaac's FERMENT (Primary Trait) for Malphas: "Anything that enters
   Malphas's reach, he rots. ... A blade still can."
 
-The design work below (phenomenon, three strata, Codex, FOW, fairness) still
-happens in full; it feeds the paragraph and the author notes in chat.
+The design work above (phenomenon, three strata, Codex, FOW, fairness) still
+happens in full; it feeds the paragraph and the author notes in chat. When
+Isaac sketches an ability out of character, supply how it works without being
+asked (R79-2). For his PC, inventive new uses of his abilities are Natalie's to
+write in play; new techniques, Level points and card changes stay his.
 
 Rules that bind the content:
 - The Effect is the mechanism playing out (mechanism and effect are one thing).
@@ -101,15 +112,18 @@ stated fault) stays in the author notes, which never reach the page.
 
 Correspondence, sympathy and contagion, essence and accident, form and
 actualisation, recognition and refusal: the Attraction-side read and the
-document voice. Real physics and Mechanism Vocabulary: any diagnostic voice, and narration
-once the physical effect is shown (R78-3).
+document voice. Real physics and Mechanism Vocabulary: any diagnostic voice, and a trained
+POV's narration; a commoner's narration keeps his own words (R79-4, R78-3). On
+the page a working's first display carries one clear causal line; the full
+three-strata account above lives on the card and in the notes (R79-6).
 
 ## The gap-fill pass (when Isaac submits a fight or working to improve)
 
 Before a sentence is polished, eight steps in order: beat inventory, logic
 audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary
-pass, prose pass last. `gap_fill` runs it. Log under "Added by the gap-fill
-pass." The pass may change an outcome when no cause fits, and says so.
+pass, prose pass last. `gap_fill` runs it as an advisory, for set pieces and
+fights he submitted only, unlogged (R79-10). The pass may change an outcome
+when no cause fits, and says so.
 
 ## The cost audit (standing docket)
 

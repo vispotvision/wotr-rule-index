@@ -5,7 +5,7 @@ description: "Procedures for running the War of the Realms machine at /home/orid
 
 # WOTR operations
 
-Procedures that span several tools plus git plus Notion, where **the ordering is
+Procedures that span several tools plus git plus the wiki vault, where **the ordering is
 the knowledge** and a silent failure sits at the end of the obvious path.
 
 This skill deliberately contains no craft law. See "The one rule" below.
@@ -13,7 +13,9 @@ This skill deliberately contains no craft law. See "The one rule" below.
 ## 1. The desk, and the one rule
 
 The desk is `/home/oridon/wotr-rule-index`. Read its `CLAUDE.md`, then
-`AGENTS.md`, then `CONTINUE.md` newest block first, before WOTR work.
+`AGENTS.md`, then `CONTINUE.md` newest block first, before rules or code work;
+a writing or roleplay session reads `NATALIE.md` and the brief rulebook
+instead (R79-12).
 
 **The one rule: each kind of law has exactly one home, and this file is not it.**
 
@@ -45,30 +47,37 @@ return. The split is not guessable from the names, and there is no dry run.
 grep -n -A 30 'READ_ONLY_TOOLS = {' build/mcp_server.py
 ```
 
-A tool not named in that set commits and pushes; several also write Notion.
-(At the time of writing: 44 tools, 25 read-only — so 19 writers. Check, don't
-trust that count.)
+A tool not named in that set commits and pushes; several also write the wiki vault
+(Notion is retired and frozen since 2026-10-15, never written). Which tools are up
+at all is a second set: `CORE_TOOLS` in the same file is the default writing
+surface, and everything else registers only with `--ops` or `WOTR_MCP_OPS=1`
+(R79-12). Check both sets; never trust a count written down anywhere.
 
-Read-only there means read-only **to git and Notion, not to disk**. Some tools in
-the set still write files — `cast_scene`, `voice_fingerprints`, `timeline` (writes
-the TIMELINE skeleton on first call), `narrate_scene`.
+Read-only there means read-only **to git and the wiki, not to disk**. Some tools in
+the set still write files: `cast_scene`, `timeline` (writes the TIMELINE skeleton
+on first call), `narrate_scene`.
 
 Three named traps:
 
-- **`archive_scene` does not verify.** It slugs, writes, publishes to Notion,
-  commits and pushes, and calls no checker. Get zero FAIL *before* the call:
-  `bash build/py.sh build/verify.py <draft>.md --combat --culture <Kharven|…> --band <set-piece|standard>`.
+- **`archive_scene` does not verify.** It slugs, writes, mirrors into the wiki's
+  Scene Archive, commits and pushes, and calls no checker. Get zero FAIL *before* the call:
+  `bash build/py.sh build/verify.py <draft>.md --combat --culture <culture>`.
   A WARN is a read; a FAIL is a stop. If a FAIL is wrong, that is a `CONFLICTS.md`
   row or a ruling for Isaac — fix the data, not the checker.
 - **`archive_scene` on an existing slug does not refuse.** It writes
   `<slug>_YYYYMMDD_HHMM.md` — a duplicate with a plausible name and nothing
   saying which is canon.
-- **`session_end` reads like a report and is not.** It appends to
-  `table/sessions.yaml`, commits and pushes, and ages every open Ledger line.
-  Call it once per scene and keep the output.
+- **`session_end` is the silent upkeep, and with a `title` the archive too**
+  (R79-8). It writes the Ledger, Front, roster and card changes it is given,
+  appends to `table/sessions.yaml`, commits and pushes, and prints one line.
+  Call it once per scene; with a title it archives, so the no-verify and
+  existing-slug traps above apply to it as well.
 
-Per `AGENTS.md`, nothing is archived by an agent: Isaac's word comes before any
-writer. The session close itself belongs to the `judger` skill.
+At the table there is no close: when a scene ends Natalie keeps the Ledger,
+Fronts, roster and lasting card changes current silently and archives the
+scene (`wotr-ledger`; R79-8). Discord scenes are archived the same way; the
+Judger close is retired (R79-8, R79-12). Intake of a transcript Isaac hands
+over still runs on his word.
 
 ## 3. Intake: a transcript becomes archived scenes
 
@@ -76,7 +85,7 @@ The most common job, and it has a dependency nothing states.
 
 1. **Stage the raw file anywhere but `scenes/`.** `build/sync.sh` publishes
    `scenes/*.md` from the working tree, committed or not, so a half-cut transcript
-   dropped there reaches Notion within the hour.
+   dropped there reaches the wiki within fifteen minutes.
 2. **Cut on the file's own headings, never a byte count.** One part = one
    `archive_scene` call, titled with its part number.
 3. **`scene_context` on each part first.** Take its "names with no page" list.
@@ -167,7 +176,8 @@ is what caused the degradation. Before adding a line to `NATALIE.md`,
 3. **Does it shrink or grow the standing prompt?** `bash build/instructions_box.sh`
    builds the real box; check the size before and after. NATALIE.md must be the
    largest thing in it.
-4. **Is the claim still true?** Prompt files rot against the code. `NATALIE.md`
-   claims `session_start` "does steps 1 to 7 in one call"; the function performs
-   no `wiki`, `character`, `fow_line` or `scene_context` call at all. A prompt
-   that overstates a tool teaches the model to skip the work the tool skipped.
+4. **Is the claim still true?** Prompt files rot against the code. An old
+   NATALIE.md claimed `session_start` "does steps 1 to 7 in one call" while the
+   function performed no `wiki`, `character`, `fow_line` or `scene_context`
+   call at all. A prompt that overstates a tool teaches the model to skip the
+   work the tool skipped; read the function before describing it.

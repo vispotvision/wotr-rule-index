@@ -8,6 +8,8 @@ last_edited: "2026-09-11T02:37:00.000Z"
 verification: "unverified"
 ---
 
+> **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.
+
 # State of Play — Hild Ice / Kharven-Seat
 
 > **CLOSED, 10 September 2026. Hild Ice is dead.** Killed at the ninth hour on the Ashgate road at twelve years old, in a cistern doorway. Everything below this line is the state of a thread that ended and is kept as record, not as live play. Do not run a scene from it. Her consequence is the Accord instrument and it is carried on the Sodoku Moto State of Play page. Pending Isaac's word on whether this page moves to the Scene Archive or stays under Running Pieces.

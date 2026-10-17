@@ -8,6 +8,8 @@ last_edited: "2026-09-10T23:17:00.000Z"
 verification: "unverified"
 ---
 
+> **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.
+
 # State of Play — Sodoku Moto / Kharven
 
 *Rewritten at every session end. Last rewrite: 10 September 2026, rebuilt from the scene files 01 through 10 (the muster, the Ashgate narrows sequence, and What the Ground Was Owed). The previous entry, which had the column still crossing toward the Seat, was a year of story time out of date.*

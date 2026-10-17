@@ -8,6 +8,8 @@ last_edited: "2026-09-22T22:57:00.000Z"
 verification: null
 ---
 
+> **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.
+
 # State of Play — Kwon Mu-jin / Hon-guk
 
 *Last rewrite: 6 September 2026. Thin: this thread was not touched this session. Rebuild from the Mu-jin scene files and the Book of Summons at next session start.*

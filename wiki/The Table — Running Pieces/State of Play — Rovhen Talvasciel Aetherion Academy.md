@@ -8,6 +8,8 @@ last_edited: "2026-09-28T16:24:00.000Z"
 verification: null
 ---
 
+> **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.
+
 # State of Play — Rovhen Talvasciel / Aetherion Academy
 
 *Last rewrite: 28 September 2026. Same Academy week as the Kwon Mu-jin / Aetherion page, the fourth day of term. Rovhen is Isaac's.*

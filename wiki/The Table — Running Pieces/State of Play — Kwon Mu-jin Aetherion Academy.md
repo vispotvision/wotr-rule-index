@@ -8,6 +8,8 @@ last_edited: "2026-09-26T03:56:00.000Z"
 verification: null
 ---
 
+> **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.
+
 # State of Play — Kwon Mu-jin / Aetherion Academy
 
 *Separate from the Hon-guk page: this is the Academy arc, roughly thirteen years later (Rikudoku 13, Sodoku 35, Mu-jin 38).*

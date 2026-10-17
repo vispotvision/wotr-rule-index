@@ -8,6 +8,8 @@ last_edited: "2026-09-10T11:22:00.000Z"
 verification: "unverified"
 ---
 
+> **Historical, retired 2026-10-17.** Every item below was ruled or closed (the Büri/Moto sweep is done; R13 and R14 were ruled 2026-09-12). The live docket is `check_docket` and `out/docket.md`; open questions are decided at the table (R79-2).
+
 # Open Rulings — The Docket
 
 *Only Isaac closes these. Blocking rulings first.*

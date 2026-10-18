@@ -6,6 +6,26 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-18 (lore reset: the old archive is lore/v1)
+
+Isaac is resetting the lore again; the archived scenes go into their own
+lore-version. His calls: scenes **and** table state move; old scenes stay
+searchable, labelled. Done (commits 22925d7, 4437d17): `scenes/` (243 files with
+ARCS/CAST/MANIFEST/TIMELINE/CONTINUITY and cast/), `table/` fronts, ledger, npcs,
+sessions, threads (+ their .md views), the vault's `wiki/The Scene Archive/` and
+the retired `wiki/The Table — Running Pieces/` pages (the Docket page stays) are
+in `lore/v1/` as pure renames (`lore/v1/README.md`). Live `scenes/` and `table/`
+start empty (`table/voices.yaml` stays); `session_start` reports no last scene,
+`scene_recall` finds nothing until new scenes are archived;
+`scene_recall(query, old_lore=True)` searches lore/v1 with every hit tagged
+OLD LORE v1. The semantic index carries a `lore-v1` corpus. MCP public/readonly
+and the bot restarted. Six uncommitted scene edits (CONTINUITY.md and five
+scenes, not this session's) moved with the files and sit unstaged under
+`lore/v1/scenes/`.
+
+**Not moved, may still carry old-lore facts:** character cards and the rest of
+the wiki, `book/`, RULINGS and the rule index. The reset of those is its own job.
+
 ## State on 2026-10-17 (two questionnaires; the table made lean; R79-1 to R79-12)
 
 Isaac ran two questionnaires in one session: prose, conflicts and the table

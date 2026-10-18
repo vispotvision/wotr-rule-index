@@ -27,6 +27,16 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-18 — Lore reset: the old archive is `lore/v1/` (Isaac's decision; recorded by Claude Code)
+
+Archived scenes and table state from before the reset live in `lore/v1/`
+(scenes, table yaml, the vault's Scene Archive and retired Table pages). They
+are not canon for events in the new lore. Live `scenes/` and `table/` began
+empty on 2026-10-18. Search the old archive only with
+`scene_recall(query, old_lore=True)`; its hits are labelled old lore. Never
+archive into or edit `lore/v1/`. Evidence: commits 22925d7, 4437d17;
+`lore/v1/README.md`.
+
 ### 2026-10-17 — R79: the table made lean (Isaac's decisions; recorded by Claude Code)
 
 Two questionnaires (`imports/drafts/prose-rp-questionnaire/`,

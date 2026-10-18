@@ -35,7 +35,7 @@ Holds the wheel with one hand and watches the compass with the eye of a man who 
 
 His oath: *"I know how to hold a wheel in bad weather and how to read a compass I do not trust and how to keep a ship alive in water that wants it dead. If those things are useful, they are yours."*
 
-When Temür walked out of the igloo in glacier-crystal armor, Garret adjusted his compass heading and said nothing. Nothing was the appropriate response.
+When Sodoku walked out of the igloo in glacier-crystal armor, Garret adjusted his compass heading and said nothing. Nothing was the appropriate response.
 
 ---
 

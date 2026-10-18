@@ -182,7 +182,7 @@ the archive is complete, not so they can be ordered.
 | `THE_KINGDOM_OF_KHARVEN_corrected.md` | not a scene: the live world-bible entry for the Kingdom of Kharven, twelve sections plus an errata log. No moment, no POV. |
 | `THE_YUKARI_BLOODLINE.md` | not a scene: a bloodline codex entry. Its only time markers are cosmological (200,000 years between Epochs), and its TIMELINE row already reads '000 years before, 000 years since', which looks like a bad automa |
 | `WOTR_AI_Writing_Tells_to_Avoid.md` | not a scene: a second-edition style reference on AI writing tells. No place, no moment, no cast. |
-| `YOKO_MISHIRO.md` | not a scene: a character codex sheet (Level 72, Stage III, Wellspring access, Temperance record). Names the same man as both Temür and Sodoku Moto without reconciling them. |
+| `YOKO_MISHIRO.md` | not a scene: a character codex sheet (Level 72, Stage III, Wellspring access, Temperance record). Named the same man both Temür and Sodoku Moto; reconciled to Sodoku Moto by Isaac, 2026-10-17. |
 | `the_circus.md` | a near-duplicate of `what_he_spent.md`: 105 paragraphs each, 88 identical, 10 unique to each (ratio 0.986). Two drafts of one scene, not two scenes. Which is canon is Isaac's call. |
 | `the_great_summoners_morning.md` | an Academy morning ('After the morning bell had rung twice'), but nothing fixes it against the Class X day, and its own stated ages (Lily older at 14, the twins' arrangement) are struck by the ruling recorded i |
 | `the_nights_watch.md` | carries its own internal dates (the ninth, the tenth, the eleventh, filed 14th) but they are Register and Bureau filing dates with no bridge to any other thread. The one outward link is a forward mention in xan |

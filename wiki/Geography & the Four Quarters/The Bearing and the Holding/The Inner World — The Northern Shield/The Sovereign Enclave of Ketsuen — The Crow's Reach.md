@@ -186,7 +186,7 @@ Roughly **three thousand**, organised around the ward-network rather than around
 
 **The Holy Sea of Alabaster** · **The Holy Sea arrives at equality through theology. Ketsuen arrives at equality through empiricism.** The disagreement is genuine, respectful and permanent, **because neither side can refute the other's reasoning without abandoning their own.**
 
-**Kharven** · *(redirected from the struck Sātūlagi entry)* **Temür Moto respects Niran's competence and distrusts his restraint. Niran respects Temür's authority and distrusts his certainty. Both assessments are accurate.**
+**Kharven** · *(redirected from the struck Sātūlagi entry)* **Sodoku Moto respects Niran's competence and distrusts his restraint. Niran respects Sodoku's authority and distrusts his certainty. Both assessments are accurate.**
 > Kharven believes governance requires **sovereign judgment, a crown that decides.** Ketsuen believes governance requires **distributed competence, a council that measures.** *The Moto and the Yukari have been watching each other across this exact disagreement for two hundred thousand years, and neither side has blinked. The border is quiet because both sides know what testing it would cost.*
 **Stannvaard** · Functional and uncomplicated. *The Dawi find the Yukari's perceptual approach to governance intellectually interesting and practically irrelevant to the question of how much ore to extract this season, which is the only question the Dawi consider urgent. The Yukari find Dawi guild governance structurally sound and temperamentally exhausting, which is the Yukari way of saying they respect it.*
 

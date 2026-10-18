@@ -165,7 +165,7 @@ To **military cultures**, Droval cavalry formations are regarded as one of the m
 >
 > During the Kokan expedition's march toward Kharven, two Titan-class Droval emerged from the shelf ice and approached the column. Rather than attacking, the Titans performed a **Winter recognition assessment** — identifying the Arctic Lion's Verdict Plate and Vohrin-integrated Essence field as a kindred Winter authority.
 >
-> The first Titan locked on Temür Moto. The second locked on Sonzai Moto. The encounter did not produce violence. It produced the specific gesture the bestiary classifies as **territorial acknowledgment between Winter authorities of comparable resonance**: the head-lower, the sustained eye-hold, and the waiting.
+> The first Titan locked on Sodoku Moto. The second locked on Sonzai Moto. The encounter did not produce violence. It produced the specific gesture the bestiary classifies as **territorial acknowledgment between Winter authorities of comparable resonance**: the head-lower, the sustained eye-hold, and the waiting.
 >
 > The encounter's resolution is ongoing. The Titans have not departed. They have not attacked. They are waiting. And the waiting is the thing the species does better than any other thing.
 

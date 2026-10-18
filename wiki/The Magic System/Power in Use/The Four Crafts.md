@@ -217,7 +217,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 **The default working in a quiet scene should be Runecraft or Draftcraft.** A wall that holds. A bottle that was bought. **Spellcraft owns the fight: it is what a fighter shouts when the blades are out, and what anyone reaches for when out of time or out of options.**
 
-**Every named practitioner gets a craft, and the craft is characterisation.** *Temür speaks because Temür fights. Somebody in Stannvaard cuts. Somebody in Nalūn pours and keeps two sets of books.*
+**Every named practitioner gets a craft, and the craft is characterisation.** *Sodoku speaks because Sodoku fights. Somebody in Stannvaard cuts. Somebody in Nalūn pours and keeps two sets of books.*
 
 **Cost is visible outside the working.** The Engraver's hands. The Drafter's ledger. **The speaker who is still shaking at supper.**
 

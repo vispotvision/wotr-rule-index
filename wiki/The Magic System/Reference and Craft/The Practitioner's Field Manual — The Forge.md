@@ -31,7 +31,7 @@ tags: ["Magic System", "Reference Table"]
 
 ## The Rule for Invention Under Fire
 
-> **Abilities** are character architecture — a root phenomenon the Crystal (the Soul Crystal, the organ that works magic) has internalised over years. *Cozbi is Antithesis. Krothar is Binding. Temür is Ruin.*
+> **Abilities** are character architecture — a root phenomenon the Crystal (the Soul Crystal, the organ that works magic) has internalised over years. *Cozbi is Antithesis. Krothar is Binding. Sodoku is Ruin.*
 >
 > **These are never invented inside a scene.** *If a fight appears to require a new Ability, the fight is wrong — or the scene stops and the Ability is pitched properly.*
 >

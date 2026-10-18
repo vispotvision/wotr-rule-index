@@ -1,8 +1,8 @@
-The rain came down in the kind of sheets that did not fall so much as occupy, filling the air between the rooftops and the mud with a grey density that turned every surface into a mirror and every sound into something muffled and far away, as though the world had been wrapped in wet cloth and was now breathing through it. The inn behind Temür was a two-story timber-and-daub structure with a sagging roof and a chimney that leaked smoke from a crack in the mortar, and the smoke mixed with the rain three feet above the chimney's lip and became nothing, dispersed into the grey before it could rise high enough to be seen from the road. The building smelled of mildew, cheap tallow, boiled turnip, and the particular sour-sweet undertone of damp wood that had been damp for so long the dampness had become structural, part of the building's identity rather than a condition that could be remedied.
+The rain came down in the kind of sheets that did not fall so much as occupy, filling the air between the rooftops and the mud with a grey density that turned every surface into a mirror and every sound into something muffled and far away, as though the world had been wrapped in wet cloth and was now breathing through it. The inn behind Sodoku was a two-story timber-and-daub structure with a sagging roof and a chimney that leaked smoke from a crack in the mortar, and the smoke mixed with the rain three feet above the chimney's lip and became nothing, dispersed into the grey before it could rise high enough to be seen from the road. The building smelled of mildew, cheap tallow, boiled turnip, and the particular sour-sweet undertone of damp wood that had been damp for so long the dampness had become structural, part of the building's identity rather than a condition that could be remedied.
 
 Emira was inside. Sleeping. The room had cost four copper marks and was worth two, and the mattress was straw over planking and the blanket was wool that had been washed so many times the fibers had thinned to the texture of cheesecloth, and none of that mattered because the room had a door and the door had a lock and the lock worked and Emira was behind it, which made it the most valuable room in the township.
 
-Temür sat on the inn's front step with his back against the doorframe and his legs extended into the rain.
+Sodoku sat on the inn's front step with his back against the doorframe and his legs extended into the rain.
 
 He was soaked. The fur-collared coat, which had once been the mark of a crown prince and was now the only garment he owned that still carried enough structural integrity to block wind, had absorbed so much water that the fur had flattened into a matted pelt against his shoulders and the wool beneath it had darkened three shades and gained seven pounds. The covenant beads at his collarbone were wet, and the rain ran down the strands in thin lines that followed the curvature of each bead before dropping off the lowest point of the loop onto his chest, turquoise and garnet and aged bone all carrying the same cold water, the same temperature, the same indifference.
 
@@ -20,7 +20,7 @@ His jaw set. The tendons along the hinge tightened until the muscle beneath his 
 
 *They set every piece. Every single piece. The assassination. The corridor. Tomuka. The framing. Sonzai's anger pointed at the wrong targets. My precision weaponized against me. Mother's grief timed to coincide with the political window. And then the settlement. The burning. The thing we did because the thing they did had removed every other option, and the thing we did became the justification for the exile they had been engineering since before Father's body was cold. Every step we took was a step they had already mapped. Every verdict I delivered was a verdict they had already factored into the probability model. We were not fighting them. We were performing their choreography and calling it war.*
 
-He did not cry. The observation was not new. He had arrived at it months ago, during the second week of exile, sitting in a different rain in a different township while Emira slept behind a different locked door, and the observation had settled into his architecture the way all observations settled into Temür's architecture: as a ranked fact, filed, weighted, and integrated into the operating model. Crying would not have changed the ranking. Tears were not a variable that Judicium recognized as actionable. They were discharge. They were the body's mechanism for expelling emotional pressure that exceeded the containment threshold, and Temür's containment threshold had been exceeded so many times in the last five years that the mechanism had simply stopped engaging, the way a circuit breaker stops engaging after it has been tripped so often that the spring loses its tension. They were larger than they had been five years ago. The knuckles, which had always been prominent from Coagulatio compression training, had thickened further through years of field combat until the second and third metacarpals on both hands stood out like ridgeline, and the skin over them had gone smooth and hard and slightly translucent, the dermal layer thinned by repeated impact until the bone structure beneath was visible in certain light. The calluses on his palms had merged into continuous plates of hardened tissue that ran from the base of each finger to the heel of the hand, and the plates were cracked in places from cold and from dryness and from the specific kind of neglect that comes from a man who has stopped maintaining his body as an instrument and started treating it as a consumable.
+He did not cry. The observation was not new. He had arrived at it months ago, during the second week of exile, sitting in a different rain in a different township while Emira slept behind a different locked door, and the observation had settled into his architecture the way all observations settled into Sodoku's architecture: as a ranked fact, filed, weighted, and integrated into the operating model. Crying would not have changed the ranking. Tears were not a variable that Judicium recognized as actionable. They were discharge. They were the body's mechanism for expelling emotional pressure that exceeded the containment threshold, and Sodoku's containment threshold had been exceeded so many times in the last five years that the mechanism had simply stopped engaging, the way a circuit breaker stops engaging after it has been tripped so often that the spring loses its tension. They were larger than they had been five years ago. The knuckles, which had always been prominent from Coagulatio compression training, had thickened further through years of field combat until the second and third metacarpals on both hands stood out like ridgeline, and the skin over them had gone smooth and hard and slightly translucent, the dermal layer thinned by repeated impact until the bone structure beneath was visible in certain light. The calluses on his palms had merged into continuous plates of hardened tissue that ran from the base of each finger to the heel of the hand, and the plates were cracked in places from cold and from dryness and from the specific kind of neglect that comes from a man who has stopped maintaining his body as an instrument and started treating it as a consumable.
 
 *These are the hands of a man who lost everything.*
 
@@ -32,7 +32,7 @@ His jaw set. The tendons along the hinge tightened until the muscle beneath his 
 
 *They set every piece. Every single piece. The assassination. The corridor. Tomuka. The framing. Sonzai's anger pointed at the wrong targets. My precision weaponized against me. Mother's grief timed to coincide with the political window. And then the settlement. The burning. The thing we did because the thing they did had removed every other option, and the thing we did became the justification for the exile they had been engineering since before Father's body was cold. Every step we took was a step they had already mapped. Every verdict I delivered was a verdict they had already factored into the probability model. We were not fighting them. We were performing their choreography and calling it war.*
 
-He did not cry. The observation was not new. He had arrived at it months ago, during the second week of exile, sitting in a different rain in a different township while Emira slept behind a different locked door, and the observation had settled into his architecture the way all observations settled into Temür's architecture: as a ranked fact, filed, weighted, and integrated into the operating model. Crying would not have changed the ranking. Tears were not a variable that Judicium recognized as actionable. They were discharge. They were the body's mechanism for expelling emotional pressure that exceeded the containment threshold, and Temür's containment threshold had been exceeded so many times in the last five years that the mechanism had simply stopped engaging, the way a circuit breaker stops engaging after it has been tripped so often that the spring loses its tension. *If I die, Emira inherits nothing. No kingdom. No covenant. No bloodline authority. No name that carries weight in any court that matters. She inherits a practice blade, three strands of covenant beads, and the memory of a brother who was nineteen milliseconds too slow to save the first sibling and five years too angry to save the second. She inherits exile.*
+He did not cry. The observation was not new. He had arrived at it months ago, during the second week of exile, sitting in a different rain in a different township while Emira slept behind a different locked door, and the observation had settled into his architecture the way all observations settled into Sodoku's architecture: as a ranked fact, filed, weighted, and integrated into the operating model. Crying would not have changed the ranking. Tears were not a variable that Judicium recognized as actionable. They were discharge. They were the body's mechanism for expelling emotional pressure that exceeded the containment threshold, and Sodoku's containment threshold had been exceeded so many times in the last five years that the mechanism had simply stopped engaging, the way a circuit breaker stops engaging after it has been tripped so often that the spring loses its tension. *If I die, Emira inherits nothing. No kingdom. No covenant. No bloodline authority. No name that carries weight in any court that matters. She inherits a practice blade, three strands of covenant beads, and the memory of a brother who was nineteen milliseconds too slow to save the first sibling and five years too angry to save the second. She inherits exile.*
 
 His right thumb found the garnet bead. The largest one. He pressed it, and the Fixatio-anchored memory fired, and for the first time in months the memory was not from the Nine-Cell Riot or the eastern corridor. The memory was from the training yard in Kharven, age twelve, the morning Muken had taken him to the village of the dead, and the memory carried the smell of ash and frozen earth and the weight of his father's silence, and the silence had meant: I will find who did this, and I will conclude the matter, and everything between now and that conclusion is travel.
 
@@ -46,7 +46,7 @@ It was thin. High. Cracked at the edges in the specific way that voices crack wh
 
 "Please..."
 
-The word arrived at Temür's ears and the Kamigan read it automatically. Not the content. The physiological signature. Vocal cord tension consistent with moderate to severe dehydration. Fundamental frequency range indicating female, young, between twelve and sixteen. Harmonic distortion pattern consistent with prolonged vocal strain from repeated calling. The voice had been saying this word, or words like it, for a long time. Hours. Possibly longer.
+The word arrived at Sodoku's ears and the Kamigan read it automatically. Not the content. The physiological signature. Vocal cord tension consistent with moderate to severe dehydration. Fundamental frequency range indicating female, young, between twelve and sixteen. Harmonic distortion pattern consistent with prolonged vocal strain from repeated calling. The voice had been saying this word, or words like it, for a long time. Hours. Possibly longer.
 
 "Please give me something to eat... anything... I need food... please..."
 
@@ -54,7 +54,7 @@ He looked toward the holding pens.
 
 The township of Verath sat at the intersection of two trade corridors that had been disputed territory since the exile decree, and disputed territory produced the same economy it always produced: the economy of people who had become commodities. The holding pens were timber-and-iron structures built into the township's southern wall, designed for livestock but repurposed for labor storage when the livestock economy had been displaced by the more profitable trade in bodies. The pens held between twelve and twenty people at any given time, depending on the caravan schedule, and the people in them were called property by the people who owned them and called nothing by the people who had decided that calling them anything was an unnecessary allocation of language.
 
-Temür stood.
+Sodoku stood.
 
 The motion was slow. Not from exhaustion, though he was exhausted, and not from stiffness, though the rain had cooled his joints to the point where the first movement of any session required deliberate override of the body's thermal-conservation instincts. The slowness was the particular slowness of a man who had been sitting still long enough for the stillness to become a position rather than a pause, and leaving the position required a decision, and decisions required ranking, and ranking required the system that had been sitting idle in the rain for forty minutes while its operator stared at his own hands.
 
@@ -62,7 +62,7 @@ He sheathed Kurosetsu. The guard settled into the scabbard mouth with the small,
 
 He walked south through the rain.
 
-The mud of the township's main road was ankle-deep in places, churned to a grey-brown slurry by cart wheels and boot traffic and the hooves of pack animals whose owners had not bothered to stable them, and the slurry had the particular smell of organic decomposition that distinguished road-mud from natural mud: grain chaff, animal waste, vegetable rot, and the diffuse human smell of a settlement where sanitation was a concept that had been discussed once and abandoned in favor of more profitable uses of labor time. Temür's boots sank with each step and released with a sucking sound that the rain almost covered but not quite, and the sound followed him down the road like something counting his steps.
+The mud of the township's main road was ankle-deep in places, churned to a grey-brown slurry by cart wheels and boot traffic and the hooves of pack animals whose owners had not bothered to stable them, and the slurry had the particular smell of organic decomposition that distinguished road-mud from natural mud: grain chaff, animal waste, vegetable rot, and the diffuse human smell of a settlement where sanitation was a concept that had been discussed once and abandoned in favor of more profitable uses of labor time. Sodoku's boots sank with each step and released with a sucking sound that the rain almost covered but not quite, and the sound followed him down the road like something counting his steps.
 
 The holding pens came into view through the rain at thirty meters.
 
@@ -70,7 +70,7 @@ The structures were built in a row of six along the township's southern wall, ea
 
 The voice was coming from the third pen.
 
-Temür stopped at the grating and the Kamigan read what was inside.
+Sodoku stopped at the grating and the Kamigan read what was inside.
 
 She was pressed against the far wall of the pen with her knees drawn to her chest and her arms wrapped around her shins and her chin resting on her kneecaps, and the posture was not comfort, it was compression, the body's instinctive effort to reduce its surface area when the environment had become hostile on every axis. She was small. Not child-small but deprivation-small, the kind of small that happens when a body that should have been larger has been denied the caloric input necessary to reach its intended dimensions, and the result was a frame that carried the proportions of a taller person compressed into a shorter space, long-limbed but narrow, the joints prominent, the muscles visible only as ridgelines between the tendons rather than the smooth contours of adequate nutrition.
 
@@ -90,7 +90,7 @@ Her hands released her shins and came forward to the grating, and the fingers th
 
 "I can work. I can carry. I can clean. I can..." She stopped. The sentence structure failed. Her eyes stayed on his face, and behind the desperation and the hunger and the specific, practiced degradation of a person who has learned to offer their labor as the opening bid in a negotiation for basic survival, something else was visible, something that the Kamigan read automatically and filed without being asked: she was ashamed. Not of the begging. Of the fact that the begging was necessary. Of the fact that her body had reduced her to a set of functions offered to a stranger through iron bars in exchange for the caloric minimum required to continue existing until the next stranger and the next set of bars and the next offer of functions.
 
-*She hates this. She hates what she is doing. She is doing it because the alternative is not doing it and not doing it is dying, and dying is easier than this but she has not chosen it yet, which means something inside her has decided that existing is still preferable to the alternative, and that decision is costing her more than the starvation is.* Temür looked at her through the grating.
+*She hates this. She hates what she is doing. She is doing it because the alternative is not doing it and not doing it is dying, and dying is easier than this but she has not chosen it yet, which means something inside her has decided that existing is still preferable to the alternative, and that decision is costing her more than the starvation is.* Sodoku looked at her through the grating.
 
 The Kamigan read. It read the structural integrity of the pen. It read the lock mechanism on the gate, a simple iron pin-and-hasp arrangement that would yield to approximately 400 newtons of lateral force or one well-placed strike from a blade pommel. It read the township's patrol schedule based on the boot-tracks in the mud outside the pens, which indicated a two-guard rotation on a forty-minute cycle with the last pass occurring approximately twelve minutes ago. It read the distance from the pen to the inn where Emira was sleeping behind a locked door. It read the risk matrix of intervening in a disputed-territory holding operation against the risk matrix of walking away.
 
@@ -114,13 +114,13 @@ The pommel hit the hasp at the junction point where the pin met the housing, and
 
 The girl stared at him through the open gate. Her hands were still on the grating. Her mouth was open. The amber-brown eyes, which had been performing the desperate focus of someone offering their labor to a stranger, were now performing something else, something that the Kamigan could not rank because the Kamigan did not have a category for the expression on a face when a door opens that was not supposed to open.
 
-"Come out," Temür said.
+"Come out," Sodoku said.
 
 Two words. No hedging. No qualifier. No explanation of the risk matrix or the patrol schedule or the forty-minute window or the distance to the inn or the political consequences of freeing a demihuman from a disputed-territory holding operation. Just the instruction, delivered with the same flat, even register that he used for everything, the register that people who did not know him mistook for coldness and people who did know him recognized as the sound of a man who had finished ranking and was now simply telling you what came next.
 
 She did not move. Her fingers tightened on the grating. The iron bars creaked under a grip that should not have been strong enough to creak anything but was, because the body had found a reserve it had not known it possessed, and the reserve was not physical but something older, something that lived in the space between the body's decision to stop hoping and the body's refusal to stop hoping, and the refusal had been activated by a sound that the body had filed under impossible.
 
-Temür stepped forward and pulled the gate the rest of the way open. The hinges produced a second scream that was longer and louder than the first, and somewhere to the east a dog barked once and went silent, and the rain continued.
+Sodoku stepped forward and pulled the gate the rest of the way open. The hinges produced a second scream that was longer and louder than the first, and somewhere to the east a dog barked once and went silent, and the rain continued.
 
 "There is an inn fifty meters north," he said. "There is a room. There is a door. The door has a lock. My sister is inside. I will find food."
 
@@ -128,13 +128,13 @@ He looked down the row of pens. Five more gates. Five more locks. Five more pin-
 
 The Kamigan ranked the patrol schedule. Twenty-eight minutes remaining on the current cycle. Sufficient time.
 
-Temür walked to the fourth pen. He struck the lock. The hasp snapped. The gate opened.
+Sodoku walked to the fourth pen. He struck the lock. The hasp snapped. The gate opened.
 
 He walked to the fifth. Struck. Snapped. Opened.
 
 Sixth. Seventh. Eighth. Each lock broke with the same knuckle-crack sound. Each gate swung on rusted hinges. Each pen released its contents into the rain, and the contents were people, and the people stood in the mud and the dark and the water with the particular stillness of bodies that had been stored and were now un-stored and did not yet have a framework for what un-stored meant or where un-stored people were supposed to go.
 
-Temür sheathed Kurosetsu. The guard settled into the scabbard mouth. *Tck.* The sound was small and final and meant something different tonight than it had meant in the corridors of Kharven or on the ridge above the Tenrai settlement. In Kharven it had meant the verdict is complete. On the ridge it had meant the sentence has been delivered. Tonight, in the mud outside a row of broken holding pens in a township that did not know his name, it meant something that Judicium could not rank and Verdict Compression could not compress and the Kamigan could not file.
+Sodoku sheathed Kurosetsu. The guard settled into the scabbard mouth. *Tck.* The sound was small and final and meant something different tonight than it had meant in the corridors of Kharven or on the ridge above the Tenrai settlement. In Kharven it had meant the verdict is complete. On the ridge it had meant the sentence has been delivered. Tonight, in the mud outside a row of broken holding pens in a township that did not know his name, it meant something that Judicium could not rank and Verdict Compression could not compress and the Kamigan could not file.
 
 It meant: this is what the crown does.
 
@@ -142,17 +142,17 @@ Not the crown that sits on a throne. Not the crown that commands armies. Not the
 
 The crown that sees suffering and does not walk past it.
 
-Temür turned north. He walked back toward the inn through the mud and the rain, and behind him the sound of bare feet and uncertain breathing followed at a distance that was not trust and not fear but the specific distance that freed people maintain from the person who freed them until they have determined whether freed is a permanent condition or a temporary one.
+Sodoku turned north. He walked back toward the inn through the mud and the rain, and behind him the sound of bare feet and uncertain breathing followed at a distance that was not trust and not fear but the specific distance that freed people maintain from the person who freed them until they have determined whether freed is a permanent condition or a temporary one.
 
 He did not look back. He did not need to. The Kamigan read their footsteps through the mud and ranked nothing and filed nothing and for thirty seconds the Crown Eye simply perceived without judging, and the perceiving without judging was the hardest thing the Kamigan had ever done, and it was the first thing Sodoku Moto had done in five years that his father would have recognized.
 
 The inn's front step was wet and empty and the door behind it was closed and the lock behind the door was holding and Emira was behind the lock, sleeping, breathing, alive, and the rain continued, and the township did not know what had happened to its holding pens yet, and by the time it found out the Lion and his sister and the people he had freed would be gone.
 
-Temür sat back down on the step. The coat was heavier than before. The rain was the same. His hands were the same. But the thing he was looking at when he looked at them had changed, because the fists that had lost everything had just opened a door, and opening doors was a different function than delivering verdicts, and the difference was the thing that Muken had known and Temür was only now, at nineteen, sitting in the rain outside a two-copper inn with a practice blade on his hip and his father's beads at his throat, beginning to learn.
+Sodoku sat back down on the step. The coat was heavier than before. The rain was the same. His hands were the same. But the thing he was looking at when he looked at them had changed, because the fists that had lost everything had just opened a door, and opening doors was a different function than delivering verdicts, and the difference was the thing that Muken had known and Sodoku was only now, at nineteen, sitting in the rain outside a two-copper inn with a practice blade on his hip and his father's beads at his throat, beginning to learn.
 
 The demihuman girl reached the inn's overhang and stopped at the edge of the dry ground, her bare feet at the boundary between the mud and the stone, her ash-grey hair plastered to her face, her amber-brown eyes fixed on the boy sitting on the step who had broken her lock and told her to come out and had not asked for anything in return, and the expression on her face was not gratitude and not relief and not the performed thankfulness of a person who has been trained to display appreciation to people with power. It was the expression of someone who had just encountered a thing they had stopped believing existed, and was now standing at the edge of it, deciding whether to step onto the dry ground or stay in the rain where the rules were familiar and the disappointment was at least predictable.
 
-The rain ran off the overhang in a curtain that separated them by two inches of falling water. Temür looked at her. The Kamigan read. The ranking system engaged, and for the first time in months the ranking it produced was not a threat assessment or a fault-line analysis or a priority queue of things that needed to be concluded.
+The rain ran off the overhang in a curtain that separated them by two inches of falling water. Sodoku looked at her. The Kamigan read. The ranking system engaged, and for the first time in months the ranking it produced was not a threat assessment or a fault-line analysis or a priority queue of things that needed to be concluded.
 
 It was a grocery list.
 
@@ -164,7 +164,7 @@ He looked at his hands one more time. The fists of a man who had lost everything
 
 He stood, and the coat dripped, and the beads swung once and settled, and the Lion of Kharven walked into the dark of a township that did not know his name to find bread for a girl whose name he did not know, and the rain did not stop, and the step was dry, and the door behind it held.
 
-The bread was dark rye, three days stale, purchased from the innkeeper's wife for two copper marks and a look that said do not ask me questions about why I am buying food at this hour. The broth was barley and onion, lukewarm, carried in a clay bowl with a chip in the rim that Temür had covered with his thumb during the walk from the kitchen to the front step so that the liquid would not leak out before it reached the person who needed it more than the bowl needed to be intact. A strip of salted pork, fatty enough to stabilize blood sugar without shocking a system that had been running on deprivation. A skin of clean water, filled from the inn's well, which was the only infrastructure in Verath Township that functioned correctly because even disputed-territory economies required hydration.
+The bread was dark rye, three days stale, purchased from the innkeeper's wife for two copper marks and a look that said do not ask me questions about why I am buying food at this hour. The broth was barley and onion, lukewarm, carried in a clay bowl with a chip in the rim that Sodoku had covered with his thumb during the walk from the kitchen to the front step so that the liquid would not leak out before it reached the person who needed it more than the bowl needed to be intact. A strip of salted pork, fatty enough to stabilize blood sugar without shocking a system that had been running on deprivation. A skin of clean water, filled from the inn's well, which was the only infrastructure in Verath Township that functioned correctly because even disputed-territory economies required hydration.
 
 He set the food on the step beside the girl without ceremony. No presentation. No explanation. The bowl, the bread, the pork, the water, arranged in a line on the stone with the efficient geometry of a man who was delivering supplies rather than offering a meal.
 
@@ -176,9 +176,9 @@ Then she slowed. The broth helped. The warmth of it, even lukewarm, traveled dow
 
 Her tail moved.
 
-It was fox-type, long and full even in its current state of matted neglect, the fur the same ash-grey as her hair with a white tip that had gone ivory from grime, and it had been pressed flat against her leg since Temür first saw her through the grating, held there by the body's instinct to make itself small and unthreatening and invisible. Now it lifted. Slowly. Not a wag — beastkin tails did not wag in the canine sense — but a slow, lateral sweep behind her that changed direction at the apex and swept back, and the sweep was the beastkin tell for a specific emotional state that could not be performed or faked because the tail's musculature was wired to the limbic system rather than to voluntary motor control, and the emotional state was: safety. Not happiness. Not gratitude. The animal recognition, deeper than language and older than culture, that the immediate environment had shifted from threatening to not-threatening, and the body could afford to stop compressing.
+It was fox-type, long and full even in its current state of matted neglect, the fur the same ash-grey as her hair with a white tip that had gone ivory from grime, and it had been pressed flat against her leg since Sodoku first saw her through the grating, held there by the body's instinct to make itself small and unthreatening and invisible. Now it lifted. Slowly. Not a wag — beastkin tails did not wag in the canine sense — but a slow, lateral sweep behind her that changed direction at the apex and swept back, and the sweep was the beastkin tell for a specific emotional state that could not be performed or faked because the tail's musculature was wired to the limbic system rather than to voluntary motor control, and the emotional state was: safety. Not happiness. Not gratitude. The animal recognition, deeper than language and older than culture, that the immediate environment had shifted from threatening to not-threatening, and the body could afford to stop compressing.
 
-Temür saw the tail move and looked away.
+Sodoku saw the tail move and looked away.
 
 The looking away was deliberate. Not privacy — he had no investment in her dignity, or at least that was what the ranking system told him when he queried it, and the ranking system had no reason to lie because the ranking system did not lie, it merely produced outputs that were correct within the parameters it had been given, and the parameters did not include a category for the specific kind of pain that occurred when a nineteen-year-old boy who had lost his mother watched a girl's tail lift for the first time in weeks and saw in the motion something that reminded him of a woman who used to smile when the people around her stopped being afraid.
 
@@ -188,7 +188,7 @@ The memory arrived uninvited. It came through the garnet bead, which he had not 
 
 *She told me about the Yuno's island. I was eight. She was brushing Emira's hair in the east wing and I was sitting on the floor beside the hearth pretending to read a tactical manual because I thought tactical manuals were what princes were supposed to read at eight years old, and she looked at me and said—*
 
-"Temür."
+"Sodoku."
 
 His mother's voice, stored in the garnet bead with the fidelity that Fixatio granted to emotionally weighted memories, arrived in his auditory cortex with a clarity that the five years since her death had not degraded. The voice was warm. The voice was the thing he missed most and would never tell anyone he missed most because telling someone would have constituted a verdict on his own grief and he had not yet found a ranking for grief that did not collapse under the weight of what it was trying to contain.
 
@@ -206,7 +206,7 @@ He had put it down. She had smiled. Emira had squirmed in her lap because Emira 
 
 She had laughed. Not the ritual laugh that accompanied ceremonial pleasantries. The real one, the one that came from the stomach and traveled through the chest and arrived at the mouth as a sound that carried no performance and no authority and no function except the function of a mother finding her eight-year-old son genuinely, structurally funny.
 
-*"Yes. Strategically indefensible. Your father said the same thing the first time I described it to him, and I loved him for it because it meant he was listening with the part of his brain that could not help itself. But strategically indefensible is not what the island was. What the island was, Temür, was proof."*
+*"Yes. Strategically indefensible. Your father said the same thing the first time I described it to him, and I loved him for it because it meant he was listening with the part of his brain that could not help itself. But strategically indefensible is not what the island was. What the island was, Sodoku, was proof."*
 
 *"Proof of what?"*
 
@@ -218,7 +218,7 @@ She had laughed. Not the ritual laugh that accompanied ceremonial pleasantries. 
 
 She had put the brush down and looked at him with the eyes that could read shrine geometry at forty meters and had chosen instead to read the face of an eight-year-old boy who was trying to understand why his mother was telling him about an island when there were tactical manuals to finish.
 
-*"Remember this, Temür. When you are grown and the kingdom is yours and the weight of the crown is pressing on your shoulders the way it presses on your father's. Remember that the strongest thing a sovereign can build is a place where people stop being afraid. Not a place where fear is defeated. Not a place where fear is ranked and concluded and filed. A place where fear is unnecessary. That is what the island was. That is what I am trying to help your father build here. And that is what you will need to build after us, when the crown passes and the weight arrives and you discover that the weight is not the kingdom. The weight is the decision about what kind of kingdom the crown is for."*
+*"Remember this, Sodoku. When you are grown and the kingdom is yours and the weight of the crown is pressing on your shoulders the way it presses on your father's. Remember that the strongest thing a sovereign can build is a place where people stop being afraid. Not a place where fear is defeated. Not a place where fear is ranked and concluded and filed. A place where fear is unnecessary. That is what the island was. That is what I am trying to help your father build here. And that is what you will need to build after us, when the crown passes and the weight arrives and you discover that the weight is not the kingdom. The weight is the decision about what kind of kingdom the crown is for."*
 
 The memory ended. The garnet bead settled against his collarbone. The rain continued.
 
@@ -226,7 +226,7 @@ The memory ended. The garnet bead settled against his collarbone. The rain conti
 
 The girl's voice cut through the memory's residue and landed in the present with the unsteady weight of a word that had been forming for ten minutes and had only now found enough structural integrity to leave the mouth. She had stopped eating. The bread was half-finished. The broth was two-thirds gone. The salted pork was untouched, held in her left hand, her fingers wrapped around it with the particular grip of someone who was saving it because saving food was what you did when you did not know whether food would happen again.
 
-Temür did not turn his head.
+Sodoku did not turn his head.
 
 "Why did you save me?"
 
@@ -236,7 +236,7 @@ Temür did not turn his head.
 
 *I should not have said that. He will hit me for that. Or he will take the food back. Or he will decide that nothing is correct and nothing is what I deserve and he will leave me here and the lock is broken but the pen is still there and I will go back to the pen because the pen is where nothing goes. Why did I say that. Why am I telling the person who freed me that he freed nothing. Because it is true. Because true is the only thing I have left that they did not take and if I stop saying true things I will stop being a person and become the thing they wanted me to become which is a body that does not argue about what it is being used for.*
 
-Temür looked at the rain.
+Sodoku looked at the rain.
 
 The Kamigan read the water's fall-pattern, the wind's direction, the temperature differential between the rain-cooled air and the overhang's trapped warmth. The data filed. He did not want the data. The data arrived regardless.
 
@@ -254,7 +254,7 @@ What he said was worse, because what he said was the thing the pain produced whe
 
 "Listen, girl."
 
-His voice had nothing in it. Not cold, which would have been a temperature, and temperature implied energy, and energy implied the expenditure of something on the act of speaking, and Temür was not expending anything on this. The words came out the way Kurosetsu came out of its scabbard: mechanically, efficiently, along the path of least resistance.
+His voice had nothing in it. Not cold, which would have been a temperature, and temperature implied energy, and energy implied the expenditure of something on the act of speaking, and Sodoku was not expending anything on this. The words came out the way Kurosetsu came out of its scabbard: mechanically, efficiently, along the path of least resistance.
 
 "I did not save you to hear you cry about it. Eat. Shut up."
 
@@ -270,7 +270,7 @@ The girl's ears lifted one degree. Not from comfort. From attention. The predato
 
 *He is telling me this like it is a transaction because transactions are what he understands and transactions are what I understand and transactions are the language that people use when they are too damaged to use the other language which is the language that has words like please and thank you and I am sorry and I need help.*
 
-"Think of it like that," Temür said. "You are nothing more than a tool to me. I need a tool that can do what I cannot do. I need someone who can hold her when she cries and tell her things that are not verdicts and brush her hair the way—"
+"Think of it like that," Sodoku said. "You are nothing more than a tool to me. I need a tool that can do what I cannot do. I need someone who can hold her when she cries and tell her things that are not verdicts and brush her hair the way—"
 
 He stopped.
 
@@ -296,7 +296,7 @@ One word. Quiet. Spoken into the rain with the particular weight of a thing that
 
 *He did not ask. He will not care. But I am going to say it anyway because my name is the last thing they did not take from me and if I do not say it out loud to another person soon I am going to forget what it sounds like in someone else's air and forgetting my name is the thing I decided I would not do because my mother gave it to me and my mother is dead and dead mothers' gifts do not get forgotten by the daughters who carry them.*
 
-Temür's thumb stopped on the garnet bead. The bead had been pressed. He did not remember pressing it. The Fixatio memory that had fired was not from the corridor or the training yard or the village of the dead. It was from the east wing. Ayame's hands in Emira's hair. The brush. The warmth. The voice that said trust is the only fortification that does not require maintenance.
+Sodoku's thumb stopped on the garnet bead. The bead had been pressed. He did not remember pressing it. The Fixatio memory that had fired was not from the corridor or the training yard or the village of the dead. It was from the east wing. Ayame's hands in Emira's hair. The brush. The warmth. The voice that said trust is the only fortification that does not require maintenance.
 
 *Yōko. Fox spirit. Her mother named her fox spirit. Mothers name their daughters for the things they hope the daughters will become, and her mother hoped she would become something clever and wild and difficult to hold, and instead she became something held in a pen, and the distance between the name and the pen is the same distance as the distance between the island and the exile, and the distance is the thing that grief lives inside.*
 
@@ -320,13 +320,13 @@ She paused at the door.
 
 *I will go inside. I will sleep beside his sister. I will be the tool he says he needs. And tomorrow, when the morning comes and he decides what happens next, I will still have my name, because I said it out loud in someone else's air and the rain carried it and it did not disappear.*
 
-She opened the door and went inside and the door closed behind her and the lock engaged from within, and the sound of the lock engaging was a small, mechanical click that traveled through the door's timber and reached Temür on the step and was filed by the Kamigan as: secure.
+She opened the door and went inside and the door closed behind her and the lock engaged from within, and the sound of the lock engaging was a small, mechanical click that traveled through the door's timber and reached Sodoku on the step and was filed by the Kamigan as: secure.
 
 He sat in the rain. The coat dripped. The beads hung. The blade lay across his knees. The holding pens were empty. The township was quiet. His sister was sleeping behind a lock, and beside her, settling onto the edge of a mattress that was straw over planking, a girl named Yōko was placing a strip of salted pork under the pillow for the morning, because the morning was not guaranteed, but the pork would keep, and keeping was a form of faith, and faith was the thing that had survived the pen and the chains and the caravan and the mud and the grating and the voice that had said shut up and meant please stay.
 
-Temür pressed the garnet bead one final time. The Fixatio memory fired. His mother's voice arrived in the dark.
+Sodoku pressed the garnet bead one final time. The Fixatio memory fired. His mother's voice arrived in the dark.
 
-*Remember this, Temür. The strongest thing a sovereign can build is a place where people stop being afraid.*
+*Remember this, Sodoku. The strongest thing a sovereign can build is a place where people stop being afraid.*
 
 He released the bead. The memory faded. The rain continued.
 
@@ -340,7 +340,7 @@ Four Aether signatures, closing from the south in a loose crescent formation. Th
 
 Slavers. The holding pen operator's recovery team. Four men sent to retrieve property that had been liberated without authorization, plus whatever compensation the liberator's body could provide.
 
-Temür stood. The motion was slow, unhurried, the particular speed of a man who was not reacting to a threat but acknowledging a schedule, as though the men approaching through the rain were an appointment he had forgotten to cancel rather than a combat encounter he needed to prepare for.
+Sodoku stood. The motion was slow, unhurried, the particular speed of a man who was not reacting to a threat but acknowledging a schedule, as though the men approaching through the rain were an appointment he had forgotten to cancel rather than a combat encounter he needed to prepare for.
 
 Kurosetsu remained sheathed.
 
@@ -352,7 +352,7 @@ Not nothing in the way Yōko had called herself nothing — not the nothing of a
 
 The fourth was different.
 
-He stood at the crescent's center, half a head taller than the flanking three, with the iron buckler strapped to his left forearm and a hand-and-a-half sword held in a low guard that was not amateur. Coherence Band D. Temperance Stage IV, possibly early V. His Aether output sat in the 3,000-4,000 AU/s range, and his Flux Density, while nowhere near the Forge-House compression that Temür's Coagulatio produced, was concentrated enough in the sword-arm and the shield-arm to suggest actual training, actual combat experience, actual understanding of what Essence reinforcement was supposed to do when applied to the act of hitting people.
+He stood at the crescent's center, half a head taller than the flanking three, with the iron buckler strapped to his left forearm and a hand-and-a-half sword held in a low guard that was not amateur. Coherence Band D. Temperance Stage IV, possibly early V. His Aether output sat in the 3,000-4,000 AU/s range, and his Flux Density, while nowhere near the Forge-House compression that Sodoku's Coagulatio produced, was concentrated enough in the sword-arm and the shield-arm to suggest actual training, actual combat experience, actual understanding of what Essence reinforcement was supposed to do when applied to the act of hitting people.
 
 His name, according to the insignia stitched into the shoulder of his gambeson, was Darvo. The insignia was the Verath Township Labor Authority's enforcement seal — a crossed hammer and chain in copper thread — and the copper thread was new, which meant the rank was recent, which meant the man had been promoted into authority rather than grown into it, and men who were promoted into authority fought differently than men who earned it, because promoted men fought to prove the promotion was deserved and earned men fought because fighting was what the position required.
 
@@ -378,7 +378,7 @@ The question arrived without authorization. No Judicium channel. No priority str
 
 "You." Darvo's voice was the audible equivalent of his build: wide, heavy, and occupying more space than it needed to. "You're the one who broke my pens."
 
-It was not a question. The flat grey-green eyes were reading Temür with the particular attention of a man who had assessed hundreds of individuals for threat level and was now running the same assessment on someone who did not fit the template. The template said: vagrant, exile, young, alone, rain-soaked, non-threatening. The instinct, the part of Darvo's brain that had survived enough bar fights and holding-pen incidents to develop its own parallel assessment system independent of conscious evaluation, said something different. The instinct said: the young man's posture is wrong. The young man is too still. The young man's hands are at his sides and they should be up, defensive, signaling submission or readiness, and instead they are just hanging there the way hands hang on people who do not need to raise them because the raising is optional.
+It was not a question. The flat grey-green eyes were reading Sodoku with the particular attention of a man who had assessed hundreds of individuals for threat level and was now running the same assessment on someone who did not fit the template. The template said: vagrant, exile, young, alone, rain-soaked, non-threatening. The instinct, the part of Darvo's brain that had survived enough bar fights and holding-pen incidents to develop its own parallel assessment system independent of conscious evaluation, said something different. The instinct said: the young man's posture is wrong. The young man is too still. The young man's hands are at his sides and they should be up, defensive, signaling submission or readiness, and instead they are just hanging there the way hands hang on people who do not need to raise them because the raising is optional.
 
 *This one is dangerous. I cannot read why. His Aether reads mid-B, maybe low-A on burst, which is absurd for a vagrant in a township this far from civilization. His stance is not a stance. He is just standing. Nobody just stands when four armed men form a crescent. He is either too stupid to be afraid or too experienced to bother being afraid, and the difference matters because stupidity is predictable and experience is not.*
 
@@ -390,9 +390,9 @@ The three flankers had settled into position. Left, right, rear. Their hands on 
 
 *And Darvo. The buckler's third rivet is stressed. His lead foot is too far forward for a hand-and-a-half sword — he is fighting with a weapon that wants distance while standing at a distance that wants a shorter weapon. His Aether concentration in the shield-arm is 60/40 against the sword-arm, which means he fights shield-first, absorbing and countering, which means he is a patient fighter, which means he is the opposite of what his body and his voice are advertising, and the contradiction is the most interesting thing about him because contradictions are where fault-lines live.*
 
-Temür looked at Darvo the way the Kamigan looked at everything: reading every line, every fault, every structural truth hidden beneath the surface presentation. The read took 0.8 seconds. The ranking took 0.3 seconds. The verdict took no time at all because the verdict had been formed before the crescent had finished closing.
+Sodoku looked at Darvo the way the Kamigan looked at everything: reading every line, every fault, every structural truth hidden beneath the surface presentation. The read took 0.8 seconds. The ranking took 0.3 seconds. The verdict took no time at all because the verdict had been formed before the crescent had finished closing.
 
-"Four hundred gold marks." Temür's voice carried no inflection. No mockery. No threat. The flat, even register of a man who was repeating a number because the number had been presented as though it mattered and he was offering it one opportunity to matter before he decided it did not. "That is what you have valued twenty-three people at. Seventeen gold marks per person. Less than a horse. Approximately equal to a good saddle."
+"Four hundred gold marks." Sodoku's voice carried no inflection. No mockery. No threat. The flat, even register of a man who was repeating a number because the number had been presented as though it mattered and he was offering it one opportunity to matter before he decided it did not. "That is what you have valued twenty-three people at. Seventeen gold marks per person. Less than a horse. Approximately equal to a good saddle."
 
 Darvo's jaw tightened. "Those aren't people, boy. Those are labor stock. Licensed and documented under the Verath Township Labor Auth—"
 
@@ -402,7 +402,7 @@ The interruption was surgical. Not rude, not aggressive, not the dominance-displ
 
 *He interrupted me. Nobody interrupts me in this township. He did it without raising his voice. He did it the way someone places a stone on a board — not aggressively, just exactly where it needed to go. Who talks like that. Who stands in the rain surrounded by four armed men and talks like he is explaining arithmetic to someone who should already know it.*
 
-"Seventeen marks per head," Temür continued. He had not moved. His hands had not risen. Kurosetsu's guard had not been touched. "That includes the Feline demihuman in pen two with the collapsed lung who would not have survived transit to market. That includes the eleven-year-old in pen five whose wrists were infected from your manacles. That includes the fox-girl in pen three whose caloric deficit was severe enough that another
+"Seventeen marks per head," Sodoku continued. He had not moved. His hands had not risen. Kurosetsu's guard had not been touched. "That includes the Feline demihuman in pen two with the collapsed lung who would not have survived transit to market. That includes the eleven-year-old in pen five whose wrists were infected from your manacles. That includes the fox-girl in pen three whose caloric deficit was severe enough that another
 
 Silence. The rain filled it.
 
@@ -410,19 +410,19 @@ Darvo's grey-green eyes had narrowed. The assessment template was failing. The t
 
 "You threatening me, boy?"
 
-"No." Temür blinked. The Kamigan's ring-lines flared once, a brief amber-gold pulse that lit the rain between them for a fraction of a second, and in that fraction every man in the crescent felt something they could not name — not fear, not awe, not the sharp adrenaline spike of an imminent attack — but the deep, limbic, mammalian recognition that the hierarchy of the situation had been decided without their input and the decision had not gone in their favor. "A threat requires uncertainty about the outcome. There is no uncertainty here. I have read every fault-line in your equipment, your stance, your formation, and your subordinates' stress responses. I know where your buckler's mounting fails. I know which of your men is breathing through his mouth. I know which one is fighting with the wrong hand. I know that your total combined Aether output is less than what I spend on a single Ichii Kessai. And I know that you are a patient fighter pretending to be an aggressive one because the pretending is how you maintain authority over men who are weaker than you, and the pretending fails the moment you encounter someone who reads posture the way you read ledgers."
+"No." Sodoku blinked. The Kamigan's ring-lines flared once, a brief amber-gold pulse that lit the rain between them for a fraction of a second, and in that fraction every man in the crescent felt something they could not name — not fear, not awe, not the sharp adrenaline spike of an imminent attack — but the deep, limbic, mammalian recognition that the hierarchy of the situation had been decided without their input and the decision had not gone in their favor. "A threat requires uncertainty about the outcome. There is no uncertainty here. I have read every fault-line in your equipment, your stance, your formation, and your subordinates' stress responses. I know where your buckler's mounting fails. I know which of your men is breathing through his mouth. I know which one is fighting with the wrong hand. I know that your total combined Aether output is less than what I spend on a single Ichii Kessai. And I know that you are a patient fighter pretending to be an aggressive one because the pretending is how you maintain authority over men who are weaker than you, and the pretending fails the moment you encounter someone who reads posture the way you read ledgers."
 
 He said all of it at the same volume. The same register. The same flat, iron-drag cadence that carried no heat and no cold and no emotion of any kind, because emotion was a resource allocation and the allocation had been denied, and what remained was pure operational output: data, delivered as language, aimed at the one man in the crescent whose assessment skills were good enough to understand that the data was not a bluff.
 
 Darvo understood.
 
-The grey-green eyes moved from Temür's face to his hands (still at his sides) to the scabbard at his hip (untouched) to the stance (non-stance, the absence of preparation that was itself a form of preparation so advanced that the template could not process it) and the assessment completed and the assessment returned a result that Darvo had encountered exactly three times in his career, and all three times the result had been the same: leave. Do not engage. The cost exceeds the value. File the loss. Walk away.
+The grey-green eyes moved from Sodoku's face to his hands (still at his sides) to the scabbard at his hip (untouched) to the stance (non-stance, the absence of preparation that was itself a form of preparation so advanced that the template could not process it) and the assessment completed and the assessment returned a result that Darvo had encountered exactly three times in his career, and all three times the result had been the same: leave. Do not engage. The cost exceeds the value. File the loss. Walk away.
 
 *Four hundred marks. That is what this costs me. Twenty-three head. Recovery, filing, replacement stock. Four hundred marks against the probability of this boy's hands reaching his blade before I can raise my buckler, and I do not know the probability, and not knowing is the answer, because if I cannot calculate it then the calculation favors him and calculations that favor the opponent are calculations you do not test.*
 
 "This isn't over," Darvo said. The words were for his men. The words were the face-saving verbal architecture that authority figures produced when the decision to retreat needed to look like the decision to delay, and the difference between the two was the difference between a commander and a coward, and Darvo was neither, he was a man who sold people and had encountered a man who freed them and the encounter had produced a number that did not balance.
 
-"Walk south," Temür said. "File your complaint. Tell whatever authority you report to that your pens were opened by a vagrant with a practice blade. Tell them the vagrant said something about seventeen marks. Tell them whatever you need to tell them to make tonight feel like a professional setback rather than a personal failure."
+"Walk south," Sodoku said. "File your complaint. Tell whatever authority you report to that your pens were opened by a vagrant with a practice blade. Tell them the vagrant said something about seventeen marks. Tell them whatever you need to tell them to make tonight feel like a professional setback rather than a personal failure."
 
 He paused. The rain hit Kurosetsu's scabbard with a steady, rhythmic percussion.
 
@@ -432,7 +432,7 @@ Darvo held for three seconds. His grip on the hand-and-a-half sword tightened on
 
 He turned. The three flankers followed. The crescent dissolved into the rain, four shapes becoming silhouettes becoming suggestions becoming nothing, and the sound of their boots in the mud faded into the township's ambient noise until the only evidence they had been there was four sets of footprints filling slowly with rainwater.
 
-Temür stood in the rain.
+Sodoku stood in the rain.
 
 His hands were shaking. Not from cold. Not from fear. Not from the adrenaline that should have accompanied a four-on-one standoff and had been denied by the system that denied everything that was not operationally relevant. The shaking was exhaustion — pure, structural, metabolic exhaustion, the body's deferred invoice arriving now that the threat had departed. His Essence reserve sat at 291,000 EU, technically sufficient for continued operation, but the reserve was like a bank account with a large balance and no credit: the number looked adequate until you calculated the ongoing costs of maintaining a Kamigan at passive, a Coagulatio compression reflex at idle, a Fractura reading field at minimum, and a body that had not slept in thirty-one hours and had been running combat analytics on four men while simultaneously processing the question of whether existence itself was worth the Essence it cost to sustain.
 
@@ -448,9 +448,9 @@ Behind the door, behind the lock, on a mattress of straw over planking beneath a
 
 The question sat where it had been sitting. Unanswered. Unranked. The Kamigan offered no data. Judicium offered no priority structure. Verdict Compression offered no shortest path to a resolution. The question simply existed, the way grief existed, the way the rain existed, the way the empty holding pens existed fifty meters south with their broken locks and their open gates and their absence of the twenty-three people who had been inside them three hours ago and were now somewhere in the dark learning what it meant to not be in a pen.
 
-Temür closed his eyes. The Kamigan dimmed to standby. For the first time in thirty-one hours, the Crown Eye stopped reading, and the world behind his eyelids was dark and empty and carried no data and required no ranking, and the emptiness was not peace but it was close enough to peace that his body accepted it as a substitute, the way his body accepted everything now: not because it was good, but because it was present, and present was the minimum viable condition for continued operation.
+Sodoku closed his eyes. The Kamigan dimmed to standby. For the first time in thirty-one hours, the Crown Eye stopped reading, and the world behind his eyelids was dark and empty and carried no data and required no ranking, and the emptiness was not peace but it was close enough to peace that his body accepted it as a substitute, the way his body accepted everything now: not because it was good, but because it was present, and present was the minimum viable condition for continued operation.
 
-His breathing slowed. His shoulders dropped two centimeters. His grip on Kurosetsu loosened until the blade rested on his thighs by gravity rather than by grip, and the practice blade's unfinished steel cooled in the rain, and the rain cooled on the steel, and the steel did not care about the cooling because steel did not care about anything, and for three seconds Temür envied it.
+His breathing slowed. His shoulders dropped two centimeters. His grip on Kurosetsu loosened until the blade rested on his thighs by gravity rather than by grip, and the practice blade's unfinished steel cooled in the rain, and the rain cooled on the steel, and the steel did not care about the cooling because steel did not care about anything, and for three seconds Sodoku envied it.
 
 Then sleep took him, or something close enough to sleep that his body stopped distinguishing, and the Lion of Kharven rested on a two-copper step in the rain with a sword on his lap and his sister behind a door and a fox-spirit beside his sister and four hundred marks worth of empty pens behind him and a question inside him that had no answer and did not need one yet, because yet was the word that separated the living from the dead, and yet meant tomorrow, and tomorrow meant Emira, and Emira meant the ranking returned a non-zero value, and the non-zero value was enough.
 
@@ -460,7 +460,7 @@ And somewhere on the Verath Canyon road, a column of escorts carried an eleven-y
 
 Dawn came grey and wet and smelling of woodsmoke and the particular flatness that air carries after twelve hours of continuous rain, the kind of morning where the sky cannot decide whether it has finished weeping or is simply resting between sessions. The mud in the main road had deepened overnight. The holding pens at the southern wall stood open and empty, their gates hanging from rusted hinges like jaws that had been pried apart, and the boot-prints of four men who had walked south in the dark were already filling with grey water that erased them one millimeter at a time.
 
-Temür was asleep on the porch.
+Sodoku was asleep on the porch.
 
 Not properly asleep. Not the deep, restorative unconsciousness that the body required to repair muscle tissue and consolidate memory and flush the metabolic waste products that accumulated during sustained Kamigan operation. He was in the shallow, twitching half-state that combat-trained bodies defaulted to when the environment had not been secured to the standard that full sleep required, the state where the autonomic system kept the auditory cortex online and the Aether Shell at minimum passive and the hands within reach of the blade, and the brain performed maintenance in four-minute cycles that produced rest the way a canteen produces water: enough to prevent death, not enough to prevent suffering.
 
@@ -472,7 +472,7 @@ The hinges announced it first — a sharp, irritable squeal that carried the spe
 
 Then came the smack.
 
-It was an open palm, small but dense, applied to the back of Temür's skull with the particular velocity that indicated neither combat intent nor affection but something older than both — the universal frequency of a woman who had been dealing with young men's nonsense for longer than the young men had been alive and had developed a standardized response that required no thought, no emotional investment, and no follow-up explanation. The palm connected with the occipital ridge just above the hairline and Temür's head rocked forward six inches before his neck caught it, and the Kamigan flared to half-focus on reflex and read the threat assessment and returned: Debera, non-hostile, mildly annoyed, and the assessment was filed and the Kamigan dimmed back to standby in 0.2 seconds.
+It was an open palm, small but dense, applied to the back of Sodoku's skull with the particular velocity that indicated neither combat intent nor affection but something older than both — the universal frequency of a woman who had been dealing with young men's nonsense for longer than the young men had been alive and had developed a standardized response that required no thought, no emotional investment, and no follow-up explanation. The palm connected with the occipital ridge just above the hairline and Sodoku's head rocked forward six inches before his neck caught it, and the Kamigan flared to half-focus on reflex and read the threat assessment and returned: Debera, non-hostile, mildly annoyed, and the assessment was filed and the Kamigan dimmed back to standby in 0.2 seconds.
 
 "Ey."
 
@@ -496,7 +496,7 @@ She smelled of pipe tobacco, rendered fat, black coffee, and the faint sulfur-an
 
 *He looks like his father. Thinner. Meaner. But the jaw is Muken's jaw and the eyes are Muken's eyes with the wrong color behind them, all that amber-gold where Muken's were warm brown, and the warmth that Muken carried in his face is gone from this boy's face the way heat is gone from iron after you leave it in the rain overnight. I watched this kid eat porridge at my table when he was twelve and his father brought him through on the eastern campaign route. He sat right there on that bench and ate three bowls without talking and Muken put his hand on the boy's head and said nothing and the nothing was enough. That hand is in the ground now. That head is sleeping on my porch. Life is a bastard and I am too old and too short for its nonsense.*
 
-Temür's head came forward from the impact. His eyes opened. The Kamigan's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
+Sodoku's head came forward from the impact. His eyes opened. The Kamigan's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
 
 "Yeah, yeah."
 
@@ -512,13 +512,13 @@ She smelled of pipe tobacco, rendered fat, black coffee, and the faint sulfur-an
 
 *He looks like his father. Thinner. Meaner. But the jaw is Muken's jaw and the eyes are Muken's eyes with the wrong color behind them, all that amber-gold where Muken's were warm brown, and the warmth that Muken carried in his face is gone from this boy's face the way heat is gone from iron after you leave it in the rain overnight. I watched this kid eat porridge at my table when he was twelve and his father brought him through on the eastern campaign route. He sat right there on that bench and ate three bowls without talking and Muken put his hand on the boy's head and said nothing and the nothing was enough. That hand is in the ground now. That head is sleeping on my porch. Life is a bastard and I am too old and too short for its nonsense.*
 
-Temür's head came forward from the impact. His eyes opened. The Kamigan's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
+Sodoku's head came forward from the impact. His eyes opened. The Kamigan's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
 
 "Yeah, yeah."
 
 The words came out quieter than anything she had said so far, and the quietness was the tell, the acoustic fracture in the performance that revealed the load-bearing concern underneath. She was not offering a room. She was offering a coordinate. A fixed point in a geography that had been stripped of fixed points. A place where a boy who had been walking since the exile decree could stop walking and sit down and eat porridge again and let the fixed point hold him for longer than one night.
 
-Temür looked at his hands.
+Sodoku looked at his hands.
 
 The fists. The knuckles. The metacarpals that were too thick from Coagulatio compression. The calluses that had merged into plates. The scar across the left palm. The same hands he had looked at last night in the rain, and the looking had produced a question that had no answer, and the question was still there, sitting in the space between the hands and the eyes that read them.
 
@@ -532,7 +532,7 @@ He paused. The pause was not rhetorical. It was the gap between two sentences wh
 
 It came out.
 
-The words were not addressed to Debera. They were addressed to the space between his hands, to the air above his knuckles, to the ghost of a presence that was not in the porch but was in every ranked priority and every compressed verdict and every fragment of Kōkan architecture that Temür's Soul Crystal had built over nineteen years: his twin. Sonzai. The other half of the sovereign function. The boy whose anger had been the counterweight to Temür's precision, whose fire had been the thing that Temür's ice organized into direction, whose presence at Temür's right flank in the eastern corridor had been the variable that Shiraku's arithmetic had not accounted for, and whose absence now was the variable that Temür's arithmetic could not process.
+The words were not addressed to Debera. They were addressed to the space between his hands, to the air above his knuckles, to the ghost of a presence that was not in the porch but was in every ranked priority and every compressed verdict and every fragment of Kōkan architecture that Sodoku's Soul Crystal had built over nineteen years: his twin. Sonzai. The other half of the sovereign function. The boy whose anger had been the counterweight to Sodoku's precision, whose fire had been the thing that Sodoku's ice organized into direction, whose presence at Sodoku's right flank in the eastern corridor had been the variable that Shiraku's arithmetic had not accounted for, and whose absence now was the variable that Sodoku's arithmetic could not process.
 
 *We were born eight minutes apart. He came first. I came second. Father said that was correct — the fire arrives before the verdict, because the verdict needs something to judge. Eight minutes. Eight minutes between the first breath and the second. Eight minutes between the boy who burned and the boy who ranked. Eight minutes and now the distance is not minutes but miles and the miles are not geography but consequence, the consequence of two brothers who delivered a verdict on a settlement that deserved the verdict and discovered that correct verdicts delivered by grieving judges produce exile, and exile produces separation, and separation is the thing I promised Father I would never allow.*
 
@@ -562,13 +562,13 @@ She turned toward the door, then stopped. The stopping was deliberate, the kind 
 
 She looked over her shoulder. The dark-honey eyes were not performing gruffness anymore. They were performing the thing that gruffness was designed to protect.
 
-"I don't want ya'll to become livestock for the monsters. The girl is nine, Temür. She cannot run from a Crag Stalker. The beastkin you brought in looks like she hasn't eaten a full meal in weeks, and her Aether reserve is probably sittin' at double digits. You're the only threat deterrent that group has, and your own reserve is running low enough that I can see the shimmer at your knuckles from here, which means your efficiency has dropped, which means you're burning hotter and recovering slower and you know what that means in sustained encounters."
+"I don't want ya'll to become livestock for the monsters. The girl is nine, Sodoku. She cannot run from a Crag Stalker. The beastkin you brought in looks like she hasn't eaten a full meal in weeks, and her Aether reserve is probably sittin' at double digits. You're the only threat deterrent that group has, and your own reserve is running low enough that I can see the shimmer at your knuckles from here, which means your efficiency has dropped, which means you're burning hotter and recovering slower and you know what that means in sustained encounters."
 
 *Tell him. Tell him he looks like his father. Tell him Muken would not have walked into monster territory with a nine-year-old and a starving beastkin and 290,000 EU and a practice blade and no plan. Tell him Muken would have sat down and eaten and rested and thought and planned and then moved. Tell him that being like his father does not mean dying like his father. Tell him—*
 
 She did not tell him. She turned back to the door and walked through it and the hinges squealed and the smell of black coffee and pipe tobacco followed her inside, and from the depths of the kitchen came the sound of cabinet doors being opened with more force than cabinet doors required and provisions being assembled with the aggressive efficiency of a woman who could not stop a boy from walking into monster territory but could make absolutely certain that the boy was carrying enough hard bread and cured meat and dried fruit to survive long enough for the walking to either kill him or teach him something.
 
-Temür stood on the porch in the grey morning light.
+Sodoku stood on the porch in the grey morning light.
 
 The rain had stopped, but the air was still thick with moisture, and every surface carried a thin film of water that turned the township into a landscape of dull reflections. The mud road. The holding pens, open and empty. The chimney that leaked smoke from the crack in its mortar. The eastern ridge, visible past the township's boundary markers as a dark line against the grey sky, and past the ridge the Verath Expanse, where the ambient Aether ran thick enough to mutate the fauna and the flora and the terrain itself into something that did not welcome visitors and did not warn them before the welcoming stopped.
 
@@ -580,7 +580,7 @@ He looked east. The Kamigan read the ridgeline. Fractura read the geological fau
 
 The door opened behind him. Debera emerged carrying a canvas sack that was heavy enough to require both hands and dense enough to suggest it contained significantly more than the road-standard three days of provisions. She set it on the porch with a thud that shook the planking.
 
-"Bread. Cured pork. Dried stonefruit. Salt. Three skins of water. A packet of birch-bark tea that'll keep your Aether cycle from bottoming out if you brew it strong enough." She counted the items on her fingers, each finger-tap precise, each item accounted for with the inventory discipline of a guild head who had been managing supply chains since before Temür's parents met. "There's a tinderbox in the bottom. Flint's fresh. Steel's dwarven-made, so it'll strike in wet conditions, not like that human garbage that sparks twice and gives up."
+"Bread. Cured pork. Dried stonefruit. Salt. Three skins of water. A packet of birch-bark tea that'll keep your Aether cycle from bottoming out if you brew it strong enough." She counted the items on her fingers, each finger-tap precise, each item accounted for with the inventory discipline of a guild head who had been managing supply chains since before Sodoku's parents met. "There's a tinderbox in the bottom. Flint's fresh. Steel's dwarven-made, so it'll strike in wet conditions, not like that human garbage that sparks twice and gives up."
 
 She looked up at him. The dark-honey eyes held for three seconds. Four. Five.
 
@@ -590,7 +590,7 @@ She reached into the interior pocket of her tunic and produced a folded piece of
 
 "Guild passage letter. Carries my seal. It won't mean much past the boundary markers, since the monsters can't read, but if you hit any settlements on the eastern route it'll get you through a gate without havin' to explain who you are or why a nineteen-year-old with Kamigan bands and a practice blade is traveling with a child and a beastkin through territory that most caravans won't cross without a C-tier escort minimum."
 
-Temür took the letter. His fingers touched hers during the transfer, briefly, the contact lasting less than a second, and the dwarf's skin was warm and rough and carried the iron-and-copper mineral undertone that he had smelled when she opened the door, and the warmth was the warmth of a person who slept indoors and ate regularly and was not running on the metabolic fumes of a body that had been converting grief into fuel for half a decade.
+Sodoku took the letter. His fingers touched hers during the transfer, briefly, the contact lasting less than a second, and the dwarf's skin was warm and rough and carried the iron-and-copper mineral undertone that he had smelled when she opened the door, and the warmth was the warmth of a person who slept indoors and ate regularly and was not running on the metabolic fumes of a body that had been converting grief into fuel for half a decade.
 
 "Debera."
 
@@ -598,23 +598,23 @@ Temür took the letter. His fingers touched hers during the transfer, briefly, t
 
 She turned away. Walked inside. The door closed. The hinges squealed. The smell of coffee and pipe smoke lingered on the porch for six seconds before the morning air carried it away.
 
-Temür looked at the canvas sack. The guild letter. The provision weight. The supplies that would keep three people fed for five days, maybe six if rationed carefully, maybe four if the nine-year-old ate the way nine-year-olds ate when they had been living on road provisions for months and someone finally gave them dried stonefruit.
+Sodoku looked at the canvas sack. The guild letter. The provision weight. The supplies that would keep three people fed for five days, maybe six if rationed carefully, maybe four if the nine-year-old ate the way nine-year-olds ate when they had been living on road provisions for months and someone finally gave them dried stonefruit.
 
 He picked up the sack and slung it over his left shoulder. The weight settled against the coat's fur collar and compressed the matted fur further and the strap bit into the muscle beneath, and the muscle accepted it the way it accepted everything: without complaint, without adjustment, without the luxury of deciding whether the weight was fair.
 
 The inn's door opened one more time. Smaller hands. Smaller weight. The sound of bare feet on the planking and then the sound of a nine-year-old's breathing, morning-thick and sleep-warm, and behind the nine-year-old the quieter sound of ash-grey ears turning toward the morning air and amber-brown eyes blinking against the grey light and fox-type tail hanging still against a borrowed nightshift that was too long at the hem and too wide at the shoulders and had been Debera's before Debera had decided, at some point during the night, that a beastkin girl who had been sleeping in mud deserved cotton.
 
-Temür did not look back. He stepped off the porch into the mud and turned east and began walking, and the canvas sack hung from his shoulder and Kurosetsu hung at his hip and the covenant beads hung at his throat, and behind him the sound of two sets of feet — one bare and small, one bare and careful — followed at the distance that meant: we are coming with you because you are going and going is what we do now.
+Sodoku did not look back. He stepped off the porch into the mud and turned east and began walking, and the canvas sack hung from his shoulder and Kurosetsu hung at his hip and the covenant beads hung at his throat, and behind him the sound of two sets of feet — one bare and small, one bare and careful — followed at the distance that meant: we are coming with you because you are going and going is what we do now.
 
 The eastern ridge grew larger with each step. The boundary markers appeared at the township's edge, two iron posts driven into the mud with faded red paint on the caps that meant: past this point, the guild's jurisdiction ends and the wilderness begins and whatever happens after this line is between you and whatever lives on the other side of it.
 
-Temür walked past the markers without slowing.
+Sodoku walked past the markers without slowing.
 
 The Kamigan engaged. The Crown Eye's ring-lines brightened from standby to active scan, the amber-gold bands expanding in his irises as the system shifted from township-mode to field-mode, and the first thing the field-mode read was the ambient Aether density, which increased by 12% within the first fifty meters past the boundary and would continue increasing with every kilometer of elevation gained, and the increase meant that the local fauna had been marinating in free Essence for centuries and the things that grew in this soup were not the things that grew in townships and the rules that applied in townships did not apply here.
 
 The Verath Expanse opened ahead of them. Grey ridgelines. Dark valleys. The smell of wet stone and wild growth and the faint ozone trace of high-density ambient Aether that made the air taste like the air before a thunderstorm, charged and waiting.
 
-Temür walked. Emira followed. Yōko followed Emira. Three figures moving east across a landscape that did not want them, carrying a sack of provisions and a practice blade and a guild letter and three strands of beads and the accumulated weight of everything that had been lost and everything that had not yet been found, and behind them the township shrank into the grey distance, and ahead of them the territory stretched into the dark possibility of whatever came next.
+Sodoku walked. Emira followed. Yōko followed Emira. Three figures moving east across a landscape that did not want them, carrying a sack of provisions and a practice blade and a guild letter and three strands of beads and the accumulated weight of everything that had been lost and everything that had not yet been found, and behind them the township shrank into the grey distance, and ahead of them the territory stretched into the dark possibility of whatever came next.
 
 Somewhere in the Verath Expanse, one point six kilometers from the boundary markers, a Crag Stalker lifted its head from the kill it was feeding on and turned its sensory array toward the western approach, and the array registered three Aether signatures entering its territorial radius, and two of the signatures were negligible, and one of the signatures was not, and the one that was not carried the specific compression pattern of a predator that had been hunting things significantly more dangerous than Crag Stalkers for a very long time.
 
@@ -624,7 +624,7 @@ The Lion walked east, and the territory let him pass, and the morning continued.
 
 The scream came from the second floor.
 
-It was high, sharp, and carried the specific frequency that only a child's lungs could produce — the frequency that bypassed every ranked priority and every Judicium channel and every layer of tactical assessment in Temür's architecture and went straight to the brainstem, the oldest part of the brain, the part that did not rank or calculate or compress but simply responded to the sound of a sibling in distress with a full-body autonomic cascade that had his hand on Kurosetsu's grip and his weight on the balls of his feet before his eyes had finished opening.
+It was high, sharp, and carried the specific frequency that only a child's lungs could produce — the frequency that bypassed every ranked priority and every Judicium channel and every layer of tactical assessment in Sodoku's architecture and went straight to the brainstem, the oldest part of the brain, the part that did not rank or calculate or compress but simply responded to the sound of a sibling in distress with a full-body autonomic cascade that had his hand on Kurosetsu's grip and his weight on the balls of his feet before his eyes had finished opening.
 
 The Kamigan flared to full active. Combat scan. Threat assessment. The inn's second floor: one Aether signature, F-tier, negligible — Yōko. One signature, sub-Stage, unformed — Emira. No hostile signatures. No displacement residue. No route-closures. No ambient Aether disturbance consistent with infiltration or assault.
 
@@ -632,13 +632,13 @@ Not an attack. Not a threat.
 
 A nine-year-old waking up next to a stranger.
 
-The inn's front door burst open and Emira came through it at the velocity that nine-year-old bodies achieve when fear overrides the mechanical limitations of short legs and a sleep-heavy frame, which was approximately the velocity of a small, determined projectile aimed at the nearest safe coordinate, and the nearest safe coordinate was Temür's left leg, which she hit with both arms at thigh-height and locked onto with a grip strength that her body had no physiological business producing but produced anyway because the grip was not muscular, it was existential — the grip of a child who had learned at four years old that Temür's leg was the one fixed point in a world that had spent five years systematically removing every other fixed point.
+The inn's front door burst open and Emira came through it at the velocity that nine-year-old bodies achieve when fear overrides the mechanical limitations of short legs and a sleep-heavy frame, which was approximately the velocity of a small, determined projectile aimed at the nearest safe coordinate, and the nearest safe coordinate was Sodoku's left leg, which she hit with both arms at thigh-height and locked onto with a grip strength that her body had no physiological business producing but produced anyway because the grip was not muscular, it was existential — the grip of a child who had learned at four years old that Sodoku's leg was the one fixed point in a world that had spent five years systematically removing every other fixed point.
 
 Her face pressed into the fabric of his coat at the hip. Her breathing was ragged, hiccupping, the rhythm of lungs that had been screaming and were now trying to remember how to perform their standard function. Her fingers dug into the wool hard enough to bunch it into ridges. She was shaking. The tremor was the same 4–6 Hz frequency it had been in the corridor five years ago, the body's fear-response unchanged by time or growth or the accumulated experience of a childhood spent in exile, because fear-responses did not update, they simply repeated, and the repetition was the body's confession that it had never finished processing the original event.
 
 *She woke up next to someone she does not know. She woke up in a dark room in a strange inn in a township she has never been to beside a body that was not mine and was not Sonzai's and was not anyone she recognized, and the body had fur and a tail and ears that were not human ears, and she is nine, and nine-year-olds who have lived through what she has lived through do not process unexpected bodies in their sleeping space as guests. They process them as threats. Because the last time an unexpected body appeared in her sleeping space — the last time the world put someone where someone was not supposed to be — Tomuka died on the floor and Mother held him and the sound that Mother made was the sound that existed before language and the sound has been living inside Emira ever since, waiting for the trigger, and the trigger was a stranger in her bed.*
 
-Temür's hand came down. Settled on the crown of her head. The motion was the same motion from the corridor, the same slow uncurling of fingers that did not trust themselves to touch something without calculating optimal pressure first, the same palm settling onto fine dark hair that was still warm from sleep. The calluses caught on the same tangle near the temple. The contact established the same data channel: not tactical, not ranked, not filed. Just presence.
+Sodoku's hand came down. Settled on the crown of her head. The motion was the same motion from the corridor, the same slow uncurling of fingers that did not trust themselves to touch something without calculating optimal pressure first, the same palm settling onto fine dark hair that was still warm from sleep. The calluses caught on the same tangle near the temple. The contact established the same data channel: not tactical, not ranked, not filed. Just presence.
 
 "Easy."
 
@@ -666,7 +666,7 @@ The words came out with the faintest shift in register. Not warmth — warmth wa
 
 Three meters away, standing in the kitchen doorway with a sack of provisions in one hand and a clay pipe in the other and fifty-eight years of dwarven indignation loading into her lungs like black powder into a cannon, Debera Ironvault's face underwent a structural event.
 
-The dark-honey eyes narrowed to slits. The jaw tightened until the tendons in her neck — short, thick, dwarven-gauge tendons that could have anchored bridge cables — stood out like ridgeline beneath the weathered skin. The nostrils flared. The copper clasp at the end of her braid swung once as her head snapped toward Temür with the velocity of a ballista turret acquiring a target.
+The dark-honey eyes narrowed to slits. The jaw tightened until the tendons in her neck — short, thick, dwarven-gauge tendons that could have anchored bridge cables — stood out like ridgeline beneath the weathered skin. The nostrils flared. The copper clasp at the end of her braid swung once as her head snapped toward Sodoku with the velocity of a ballista turret acquiring a target.
 
 "GRR—!"
 
@@ -674,7 +674,7 @@ The sound that preceded the words was not linguistic. It was geological. The low
 
 "KID! DON'T MAKE IT SOUND LIKE THAT — I GOT CUSTOMERS AROUND HERE!"
 
-The volume was extraordinary. The clay pipe jabbed toward Temür with the accuracy of a weapon that had been aimed at young men's nonsense for five decades and had never missed. The provision sack hit the porch planking with a thud that sent a vibration through the wood that Emira felt through Temür's leg and Yōko felt through the doorframe and both of them flinched and Temür did not flinch because Temür had been the target of Debera's volume before and the flinch-reflex had been trained out of him at age twelve over three bowls of porridge.
+The volume was extraordinary. The clay pipe jabbed toward Sodoku with the accuracy of a weapon that had been aimed at young men's nonsense for five decades and had never missed. The provision sack hit the porch planking with a thud that sent a vibration through the wood that Emira felt through Sodoku's leg and Yōko felt through the doorframe and both of them flinched and Sodoku did not flinch because Sodoku had been the target of Debera's volume before and the flinch-reflex had been trained out of him at age twelve over three bowls of porridge.
 
 "ON THE HOUSE — like I'm runnin' a charity — like I'm just HANDIN' OUT provisions to every—" She stopped. Breathed. The breath was the dwarven equivalent of a pressure-release valve, a controlled exhale through the nose that prevented the next sentence from becoming an extinction event. "You KNOW how hard it is to maintain margin in a disputed-territory inn? You KNOW what my supply costs look like when every caravan charges hazard rates and every shipment arrives light because the drivers skim off the top and blame bandits? And this kid — THIS KID — stands on MY porch and tells his baby sister that Grandma Debera is givin' away food like it's festival day in the— GRANDMA?!"
 
@@ -682,7 +682,7 @@ The word hit a register that should not have been available to a three-foot-elev
 
 *He called me Grandma. In front of the little girl. In front of the beastkin. In front of my OWN ESTABLISHMENT. Grandma. GRANDMA. I am going to kill him. I am going to put this pipe through his Kamigan and out the back of his thick, ungrateful, porridge-eating Kōkan skull and I am going to tell his father's ghost that I did it for the good of the bloodline because no Moto prince should be allowed to survive calling a guild head Grandma in her own inn—*
 
-Yōko's ears had lifted. Both of them. The full four-centimeter rise from skull-flat to upright, the ash-grey points standing at attention for the first time since the porch, and the lift was not fear and not the safety-tell and not the attention-mode she had used to read Temür last night. It was something else. Something that her body had not produced in long enough that the muscles responsible for it had to warm up before committing, like a machine that had been idle and was now being asked to remember its original function.
+Yōko's ears had lifted. Both of them. The full four-centimeter rise from skull-flat to upright, the ash-grey points standing at attention for the first time since the porch, and the lift was not fear and not the safety-tell and not the attention-mode she had used to read Sodoku last night. It was something else. Something that her body had not produced in long enough that the muscles responsible for it had to warm up before committing, like a machine that had been idle and was now being asked to remember its original function.
 
 She was trying not to laugh.
 
@@ -694,7 +694,7 @@ Her lips were pressed together. Her cheeks had tightened. The amber-brown eyes, 
 
 Debera was still going. The volume had not decreased. The pipe was describing increasingly complex geometric patterns in the air as the rant expanded to include the general ingratitude of Moto princes, the specific ingratitude of THIS Moto prince, the fiscal irresponsibility of distributing provisions without compensation, the logistical burden of maintaining a township inn during a territorial dispute, and — briefly, tangentially, but with impressive commitment — the declining quality of pipe tobacco available through Verath's current supply chain.
 
-Temür stood in the middle of it with his hand on his sister's head and his face carrying the almost-expression that was not a smile.
+Sodoku stood in the middle of it with his hand on his sister's head and his face carrying the almost-expression that was not a smile.
 
 "Debera."
 
@@ -704,9 +704,9 @@ Debera's head rotated toward Yōko with the mechanical precision of a siege weap
 
 "Hrrmph."
 
-Debera picked up the provision sack. Shoved it into Temür's free hand. The transfer was performed with the aggressive efficiency of someone completing a transaction they had already denied was a transaction.
+Debera picked up the provision sack. Shoved it into Sodoku's free hand. The transfer was performed with the aggressive efficiency of someone completing a transaction they had already denied was a transaction.
 
-"Not. On. The. House." Each word was punctuated by a finger-jab into Temür's sternum that carried approximately 80 newtons of force per jab, which was not enough to move him but was enough to communicate the specific blend of fury and fondness that dwarven social physics produced when the two emotions exceeded their individual containment limits and merged into a single compound feeling that had no name in any human language but which dwarven languages had fourteen words for, the most common of which translated roughly as the-anger-you-feel-at-someone-you-love-for-making-you-show-it.
+"Not. On. The. House." Each word was punctuated by a finger-jab into Sodoku's sternum that carried approximately 80 newtons of force per jab, which was not enough to move him but was enough to communicate the specific blend of fury and fondness that dwarven social physics produced when the two emotions exceeded their individual containment limits and merged into a single compound feeling that had no name in any human language but which dwarven languages had fourteen words for, the most common of which translated roughly as the-anger-you-feel-at-someone-you-love-for-making-you-show-it.
 
 "I'm BILLING the Kōkan treasury. Whenever it EXISTS again. WITH INTEREST."
 
@@ -716,11 +716,11 @@ She turned. Walked inside. Stopped at the threshold.
 
 The door slammed. The hinges screamed. The dishes rattled. A customer at the far end of the taproom quietly decided to settle their bill early.
 
-The porch was still. The morning air carried the fading scent of pipe tobacco and rendered fat and the mineral undertone of dwarven indignation. Emira's grip on Temür's leg had loosened by two degrees. Her breathing had stabilized. The 4–6 Hz tremor had subsided. Her head had turned far enough that both eyes were visible now, and the eyes were no longer fixed on Yōko with the drowning focus of a child identifying a threat. They were fixed on the closed door behind which a three-foot-eleven woman was aggressively not being anyone's grandmother.
+The porch was still. The morning air carried the fading scent of pipe tobacco and rendered fat and the mineral undertone of dwarven indignation. Emira's grip on Sodoku's leg had loosened by two degrees. Her breathing had stabilized. The 4–6 Hz tremor had subsided. Her head had turned far enough that both eyes were visible now, and the eyes were no longer fixed on Yōko with the drowning focus of a child identifying a threat. They were fixed on the closed door behind which a three-foot-eleven woman was aggressively not being anyone's grandmother.
 
 Yōko stood in the doorway. The laughter had not quite escaped, but the effort of containing it had changed her posture, loosening the rigid compression that had locked her spine and shoulders since she came through the door, and the loosening was the first voluntary relaxation her body had performed in front of other people since before the holding pen, and the fact that it had been produced not by safety or food or shelter but by a dwarf screaming about profit margins was the kind of information that did not fit into any survival framework she had ever been taught and therefore had to be filed in a new category, a category she did not have a name for yet, a category that might, if she was lucky, eventually be called something like: belonging.
 
-Temür looked at the provision sack in his hand. The weight of it. The density. The five or six days of food that represented a margin hit that Debera would absolutely bill to a treasury that did not exist with interest that she would calculate to the copper mark.
+Sodoku looked at the provision sack in his hand. The weight of it. The density. The five or six days of food that represented a margin hit that Debera would absolutely bill to a treasury that did not exist with interest that she would calculate to the copper mark.
 
 His thumb found the garnet bead. Pressed once. Released.
 
@@ -732,7 +732,7 @@ He hoisted the sack over his shoulder and turned east.
 
 Yōko's tail swayed slowly from side to side as she spoke to Emira for the first time, keeping the girl close in front of her with both arms wrapped around her in a loose hold that was not restraint but frame — the kind of hold that said I am here without demanding anything in return.
 
-Emira had resisted at first. Stiff as green wood. Uncertain of touch that did not demand something from her, because every touch in Emira's memory came attached to a transaction: Temür's hand on her head meant stay close, meant danger has passed, meant the world is still the thing that took Tomuka and Mother and I am the only wall between you and the next taking. Muken's hand, years ago, had meant different things, warmer things, but the memory of warm hands had been overwritten by the memory of cold corridors and the absence of hands that should have been there and were not.
+Emira had resisted at first. Stiff as green wood. Uncertain of touch that did not demand something from her, because every touch in Emira's memory came attached to a transaction: Sodoku's hand on her head meant stay close, meant danger has passed, meant the world is still the thing that took Tomuka and Mother and I am the only wall between you and the next taking. Muken's hand, years ago, had meant different things, warmer things, but the memory of warm hands had been overwritten by the memory of cold corridors and the absence of hands that should have been there and were not.
 
 But children recognized warmth faster than adults did.
 
@@ -744,9 +744,9 @@ Emira gave the smallest nod. A downward dip of the chin that traveled maybe two 
 
 Yōko smiled. Not the wide, performed kind. The kind that lived in the corners of the mouth and the muscles around the eyes, the kind that cost something to produce because it required the person producing it to mean it. "Good. See? We already understand each other."
 
-*She is warm. She smells like cotton and something underneath the cotton that is not soap and not perfume and not any of the things that adults smell like when they are trying to smell like something. She smells like herself. Like fur and rain and the borrowed nightshift and something faintly sweet beneath all of it that might be her or might be the food Temür brought last night or might be nothing, might just be the smell of someone who is holding me without squeezing.*
+*She is warm. She smells like cotton and something underneath the cotton that is not soap and not perfume and not any of the things that adults smell like when they are trying to smell like something. She smells like herself. Like fur and rain and the borrowed nightshift and something faintly sweet beneath all of it that might be her or might be the food Sodoku brought last night or might be nothing, might just be the smell of someone who is holding me without squeezing.*
 
-Temür walked behind them in silence.
+Sodoku walked behind them in silence.
 
 That was good.
 
@@ -754,11 +754,11 @@ He watched the two of them the way he watched everything — through the passive
 
 Yōko kept Emira in front of her. Arms around her. Tail swaying at the gentle frequency that beastkin physiology produced when the limbic system registered safety and the body elected to broadcast that registration to the nearest vulnerable member of the group. The broadcast was involuntary. The tail did not lie. The tail could not lie. It was wired to the oldest part of the brain, the part that predated language and culture and the elaborate social architectures that people built to hide what they were actually feeling, and the oldest part of Yōko's brain was saying: this child is mine to protect right now, and the tail was agreeing.
 
-The two needed to stay close. Yōko was watchful in a way Temür respected — not the trained watchfulness of a combatant scanning for threats but the organic watchfulness of a woman who had spent years reading rooms for danger because rooms had taught her what happened when she stopped reading them. Her ears rotated in slow arcs, catching ambient sound from multiple vectors simultaneously, processing crowd noise and footfall patterns and the shifting density of attention that told her when too many eyes were pointed in one direction.
+The two needed to stay close. Yōko was watchful in a way Sodoku respected — not the trained watchfulness of a combatant scanning for threats but the organic watchfulness of a woman who had spent years reading rooms for danger because rooms had taught her what happened when she stopped reading them. Her ears rotated in slow arcs, catching ambient sound from multiple vectors simultaneously, processing crowd noise and footfall patterns and the shifting density of attention that told her when too many eyes were pointed in one direction.
 
 Fewer variables. Fewer openings. Fewer chances for a hand to snatch, a crowd to separate, or a fool to decide he was brave enough to reach for a beastkin girl walking beside a hated man.
 
-Temür's gaze moved over the street. Doors. Rooflines. Hands. Hips. Weight distribution. The subtle change in a shoulder before a throw. The little tightening around the mouth before insult became action.
+Sodoku's gaze moved over the street. Doors. Rooflines. Hands. Hips. Weight distribution. The subtle change in a shoulder before a throw. The little tightening around the mouth before insult became action.
 
 He did not need to think about vigilance anymore. It lived in him now the way breath did.
 
@@ -778,7 +778,7 @@ But the stares did not stay on Yōko long.
 
 Not once recognition spread. Not once the whispers shifted register.
 
-It started with an old man near the produce stall — bent, sun-spotted, wearing the kind of face that had watched enough people pass through a township to develop an instinct for which ones you moved aside for. His eyes tracked from Yōko to Temür and the tracking stopped, the way a compass needle stops when it finds north. His mouth opened. His hand found his companion's elbow.
+It started with an old man near the produce stall — bent, sun-spotted, wearing the kind of face that had watched enough people pass through a township to develop an instinct for which ones you moved aside for. His eyes tracked from Yōko to Sodoku and the tracking stopped, the way a compass needle stops when it finds north. His mouth opened. His hand found his companion's elbow.
 
 "Moto," the old man said. Just the name. But the name was enough.
 
@@ -802,17 +802,17 @@ The word children traveled differently than the others. The other words were inf
 
 Women pulled their sons and daughters closer with the automatic, pre-verbal urgency of mothers who had heard the word children used as a category of victim and were now performing the ancient calculation of proximity and threat. A cooper working in his doorway set down his tools and stood. A cluster of men outside a farrier's shop stopped talking and arranged themselves into the unconscious formation that men adopt when they have identified a potential threat and are waiting for someone braver to decide whether formation becomes action.
 
-A boy, maybe twelve, leaning against a rain barrel with the calculated indifference of a child performing adulthood, stared at Temür for three full seconds. Then turned to his friend and said, loud enough: "My da says the Kōkan dogs burned women alive. Says the prince did it himself and watched."
+A boy, maybe twelve, leaning against a rain barrel with the calculated indifference of a child performing adulthood, stared at Sodoku for three full seconds. Then turned to his friend and said, loud enough: "My da says the Kōkan dogs burned women alive. Says the prince did it himself and watched."
 
-His friend, shorter, wider, wearing the expression of a boy who had not yet decided whether cruelty or courage was the better performance, said nothing. But his eyes followed Temür with the particular intensity of someone memorizing a face for later.
+His friend, shorter, wider, wearing the expression of a boy who had not yet decided whether cruelty or courage was the better performance, said nothing. But his eyes followed Sodoku with the particular intensity of someone memorizing a face for later.
 
-Temür walked. His pace did not change. His hands stayed at his sides. His expression carried the same flat absence it had carried since the corridor — not cold, not warm, not the performed neutrality of someone trying to appear unaffected, but the genuine blankness of a face that had stopped performing anything because performance required an audience and Temür had stopped recognizing the world as an audience years ago.
+Sodoku walked. His pace did not change. His hands stayed at his sides. His expression carried the same flat absence it had carried since the corridor — not cold, not warm, not the performed neutrality of someone trying to appear unaffected, but the genuine blankness of a face that had stopped performing anything because performance required an audience and Sodoku had stopped recognizing the world as an audience years ago.
 
 Then someone threw something.
 
 A bruised plum burst against his shoulder and ran down the side of his coat in a streak of purple-brown that mixed with the rain-stains and the older stains, the layers of damage that the coat had accumulated over three years of exile, and the plum juice joined the record without distinction because the coat did not differentiate between categories of stain.
 
-Temür did not blink.
+Sodoku did not blink.
 
 He did not turn his head. He did not slow. He did not flinch. The absence of reaction was not discipline. Discipline implied effort. Discipline implied that the impulse to react existed and was being overridden by a stronger impulse to remain still. There was no impulse. The plum struck his shoulder and the data registered and the ranking system returned no actionable response because bruised fruit thrown by a frightened civilian was below the threshold at which Sodoku Moto's operating system considered intervention worth the metabolic cost.
 
@@ -820,7 +820,7 @@ Another thing struck him. Harder. A stone this time, river-smooth and dense, sma
 
 Someone spat. The glob landed two feet to his left, which meant the trajectory had been aimed at his boots and had missed, which meant the person who spat was either a poor shot or had not fully committed to the act and had pulled the angle at the last second because spitting at a man's boots from a safe distance was one thing and spitting at a man's boots accurately required you to believe, in the moment of release, that the man would not turn around, and the person had not been able to sustain that belief for the full duration of the expectoration.
 
-A little girl, maybe five, peeked out from behind her mother's skirts with eyes that occupied most of her face. She looked at Temür the way children look at things they do not understand but can feel — not with adult comprehension but with the raw sensory processing of a small body that has detected something large and heavy and wrong in its environment and is now performing the only function available to it, which is looking. Her mother's hand found the back of her head and pulled her behind the skirts, and the pulling was not gentle, and the child disappeared into the fabric with a sound like a curtain closing.
+A little girl, maybe five, peeked out from behind her mother's skirts with eyes that occupied most of her face. She looked at Sodoku the way children look at things they do not understand but can feel — not with adult comprehension but with the raw sensory processing of a small body that has detected something large and heavy and wrong in its environment and is now performing the only function available to it, which is looking. Her mother's hand found the back of her head and pulled her behind the skirts, and the pulling was not gentle, and the child disappeared into the fabric with a sound like a curtain closing.
 
 Yōko's ears twitched. Both of them. The rotation was involuntary, the beastkin startle-response to sudden aggressive stimuli, and the twitching was followed by a deliberate, conscious flattening — Yōko pressing the ears back down through force of will, overriding the instinct because the instinct's broadcast would tell Emira that the person holding her was afraid, and Emira did not need that data right now.
 
@@ -834,13 +834,13 @@ Emira glanced back anyway. Her face, round and dark-eyed and carrying the partic
 
 The question was not rhetorical. It was not performing innocence. It was the genuine interrogation of a child who had observed a phenomenon and wanted the causal mechanism explained, the way children ask why is the sky blue or why do dogs bark at strangers — not because they expect a satisfying answer but because asking is how nine-year-olds process the fact that the world contains things they cannot yet categorize.
 
-Yōko hesitated. The hesitation lasted 1.2 seconds, which was long enough for Temür to notice and short enough that Emira did not.
+Yōko hesitated. The hesitation lasted 1.2 seconds, which was long enough for Sodoku to notice and short enough that Emira did not.
 
-*Because they know what he is,* Temür thought.
+*Because they know what he is,* Sodoku thought.
 
 But Yōko only said, "Because people are ugly when they're scared."
 
-That made Temür's eyes shift to her for half a second.
+That made Sodoku's eyes shift to her for half a second.
 
 Not because the answer was wrong. Because it was incomplete.
 
@@ -888,11 +888,11 @@ At that, one woman near the well stepped forward.
 
 She was middle-aged, maybe forty-five, with the weathered hands of a laundress and the squared shoulders of someone who had been carrying things heavier than laundry for long enough that her skeleton had remodeled to accommodate the load. Her face carried the particular expression of moral urgency that arrived when someone's conscience exceeded their caution by enough of a margin that the body moved before the survival instinct could file an objection.
 
-"You there," she called to Yōko. Not quite able to look Temür in the eyes. The words aimed at the beastkin because the beastkin was the available surface — the person in the trio who might respond to concern without turning the response into a threat. "Girl. You don't have to go with him."
+"You there," she called to Yōko. Not quite able to look Sodoku in the eyes. The words aimed at the beastkin because the beastkin was the available surface — the person in the trio who might respond to concern without turning the response into a threat. "Girl. You don't have to go with him."
 
 Yōko stopped.
 
-Temür did not.
+Sodoku did not.
 
 He only slowed enough that the space between them did not break, the distance contracting from six feet to four with the ease of a man who had been managing group proximity in hostile environments for years and could modulate the distance between himself and his charges without conscious thought.
 
@@ -912,15 +912,15 @@ Yōko's tail gave one sharp lash behind her. The lash was involuntary — the li
 
 Emira pressed closer into Yōko's arms. The nine-year-old's face was turned toward the woman, watching, processing, cataloguing the interaction with the silent intensity of a child who had spent five years learning to read adult conflicts for the information they contained about whether the world was about to get worse.
 
-The woman looked at Temür then. Finally. Truly looked.
+The woman looked at Sodoku then. Finally. Truly looked.
 
 Her face went pale.
 
-The transition was physiological — blood retreating from the dermal capillaries of the cheeks and forehead in response to a threat signal that the body had processed before the mind finished interpreting it. The threat signal was not violence. Temür was not moving. Temür was not speaking. Temür was standing six feet away with his hands at his sides and his blade at his hip and his face carrying the absolute zero of a man who had reduced violence to function so thoroughly that the violence no longer needed to be displayed because the potential was ambient, the way heat was ambient around a forge that had been burning for years.
+The transition was physiological — blood retreating from the dermal capillaries of the cheeks and forehead in response to a threat signal that the body had processed before the mind finished interpreting it. The threat signal was not violence. Sodoku was not moving. Sodoku was not speaking. Sodoku was standing six feet away with his hands at his sides and his blade at his hip and his face carrying the absolute zero of a man who had reduced violence to function so thoroughly that the violence no longer needed to be displayed because the potential was ambient, the way heat was ambient around a forge that had been burning for years.
 
 There was no rage in her after that. Only the sudden helplessness of someone who realized too late that the thing she meant to confront was not built like other people.
 
-Temür held her gaze.
+Sodoku held her gaze.
 
 No words. No threat spoken aloud.
 
@@ -954,11 +954,11 @@ Yōko clicked her tongue. The sound was sharp, percussive, the beastkin equivale
 
 They passed a bakery. The baker — a man with forearms like hams and a face permanently flushed from oven-heat — stood in his doorway and watched them pass and said nothing, but his hand found the door's edge and pulled it two inches closer to closed, and the two inches said everything the mouth did not.
 
-They passed a cobbler's shop. The cobbler's wife, a thin woman with pins in her hair and pins in her apron and the harried expression of someone who was always in the middle of something, looked up from her work and saw Temür and dropped a shoe.
+They passed a cobbler's shop. The cobbler's wife, a thin woman with pins in her hair and pins in her apron and the harried expression of someone who was always in the middle of something, looked up from her work and saw Sodoku and dropped a shoe.
 
 The shoe hit the cobblestone. The sound was small. The woman did not pick it up.
 
-Emira finally spoke loud enough for Temür to hear. "Are they talking about him?"
+Emira finally spoke loud enough for Sodoku to hear. "Are they talking about him?"
 
 Yōko was quiet for a moment. The moment lasted three steps. Three steps was a long time when a child was waiting for an answer that would determine how much of the world she was allowed to trust.
 
@@ -968,7 +968,7 @@ Yōko was quiet for a moment. The moment lasted three steps. Three steps was a l
 
 Yōko's steps slowed. Not a stop. A deceleration. The deceleration of someone whose body was trying to buy time for a mouth that had not yet decided which version of the truth to dispense.
 
-Temür looked ahead. Expression unchanged. Stride unchanged. The back of his coat still carrying the bruised-plum stain. The cabbage strip still adhering to his boot. His breathing even. His hands at his sides.
+Sodoku looked ahead. Expression unchanged. Stride unchanged. The back of his coat still carrying the bruised-plum stain. The cabbage strip still adhering to his boot. His breathing even. His hands at his sides.
 
 *She is going to answer. She is going to answer honestly or she is going to lie, and either way the answer will do something to the architecture of a nine-year-old's understanding of the world that cannot be undone. If she lies, Emira learns that the people who hold her will not tell her the truth when the truth is large enough to matter. If she tells the truth, Emira learns that the person whose leg she gripped this morning killed children, and the learning will sit inside her and grow and eventually produce a question that no answer can satisfy, which is: how can the same hand that rests on my head be the hand that did that.*
 
@@ -984,7 +984,7 @@ Yōko's voice softened. Not into false comfort. Not into the saccharine register
 
 "Because terrible people and hurt people are not always separate. And because sometimes someone can still choose what they become next."
 
-Temür almost spoke.
+Sodoku almost spoke.
 
 Almost.
 
@@ -998,7 +998,7 @@ The gate appeared ahead of them at the bottom of the quarter's slope.
 
 Four guards. Too many for routine. Too few for certainty.
 
-One rested his hand near the shaft of his spear — a man in his late twenties with the thin mustache and wide-set eyes of someone who had been assigned to gate duty because he was not quite good enough for patrol and not quite bad enough to dismiss, the perfect middle of military mediocrity. Another kept glancing between Yōko, Emira, and Temür with the rapid eye-movement of a man who was trying to construct a narrative from the available information and finding that the available information refused to organize itself into any of the narratives he had rehearsed.
+One rested his hand near the shaft of his spear — a man in his late twenties with the thin mustache and wide-set eyes of someone who had been assigned to gate duty because he was not quite good enough for patrol and not quite bad enough to dismiss, the perfect middle of military mediocrity. Another kept glancing between Yōko, Emira, and Sodoku with the rapid eye-movement of a man who was trying to construct a narrative from the available information and finding that the available information refused to organize itself into any of the narratives he had rehearsed.
 
 The oldest guard was the one who mattered.
 
@@ -1006,7 +1006,7 @@ Fifty. Maybe older. A face like a knuckle — all ridges and compression and the
 
 "Halt."
 
-Temür stopped.
+Sodoku stopped.
 
 Yōko stopped too, turning her body so that Emira remained behind the line of her.
 
@@ -1020,11 +1020,11 @@ Another guard — the one with the thin mustache — muttered, "Gods."
 
 The oldest one ignored him. "We've heard things."
 
-"That makes you like everyone else in this town," Temür said.
+"That makes you like everyone else in this town," Sodoku said.
 
 The guard's frown was professional. Managed. The frown of a man who had been frowned at by his superiors enough times to have developed a competent imitation. "The beastkin and the child. Are they with you willingly?"
 
-Yōko opened her mouth, but Temür answered first.
+Yōko opened her mouth, but Sodoku answered first.
 
 "Yes."
 
@@ -1042,17 +1042,17 @@ He looked at Emira. The nine-year-old shrank behind Yōko, and the shrinking was
 
 "And the girl?"
 
-Temür saw the question forming before the man asked it. Saw the shape of his doubt — not genuine concern but the performance of concern, the moral arithmetic of a man trying to find a configuration that would let him feel righteous without requiring him to do anything that might produce a report that included the phrase and then he drew his weapon.
+Sodoku saw the question forming before the man asked it. Saw the shape of his doubt — not genuine concern but the performance of concern, the moral arithmetic of a man trying to find a configuration that would let him feel righteous without requiring him to do anything that might produce a report that included the phrase and then he drew his weapon.
 
 The guard took a breath. "If either of them are under duress, we can—"
 
-Temür stepped forward.
+Sodoku stepped forward.
 
 One step. Just one.
 
 Not enough to close distance. Not enough to constitute advance. Just enough to change the geometry of the conversation by four feet, which was enough to make every guard at the gate go rigid simultaneously, which was the point, because the step was not movement, it was language, and the language said: this conversation is approaching a boundary that you do not want to cross.
 
-"No," Temür said. Quiet. "You can open the gate."
+"No," Sodoku said. Quiet. "You can open the gate."
 
 The silence that followed was heavier than shouting would have been.
 
@@ -1060,7 +1060,7 @@ One of the younger guards tightened his grip on his spear. The knuckles whitened
 
 They all understood the same thing in the same moment: if they pressed this, someone would die. None of them believed it would be him.
 
-The captain held Temür's eyes for three heartbeats. The heartbeats were long. The heartbeats were the kind that carry weight — the biological ticking of a clock that is measuring something more expensive than time.
+The captain held Sodoku's eyes for three heartbeats. The heartbeats were long. The heartbeats were the kind that carry weight — the biological ticking of a clock that is measuring something more expensive than time.
 
 Then he exhaled. The exhale was surrender and relief and the specific self-forgiveness of a man who had decided that living was more important than the story he would tell himself about why he had not acted. He stepped aside.
 
@@ -1076,11 +1076,11 @@ Then, quietly, without looking back, she said: "You could try not doing that eve
 
 "That doesn't make it less awful."
 
-"No," Temür said. "It doesn't."
+"No," Sodoku said. "It doesn't."
 
 Emira looked up at Yōko. "What did he do?"
 
-Yōko gave Temür a sidelong glance — the kind that carried more communication in the angle of the iris than most people put into full sentences. "He reminded them that living is often the better choice."
+Yōko gave Sodoku a sidelong glance — the kind that carried more communication in the angle of the iris than most people put into full sentences. "He reminded them that living is often the better choice."
 
 A pause. Then, lower, to herself: "That's a terrible answer."
 
@@ -1090,7 +1090,7 @@ It changed the way terrain changed when you crossed a line that the people who d
 
 The last signs of town life fell away behind them. Wagon ruts. Trampled grass. Chimney smoke. The dull comfort of fences and fields and the human habit of pretending that order was the natural state of things. Ahead: harsher country. Dry earth split by roots. Iron-colored stone jutting through the soil at angles that suggested the stone had been trying to escape the dirt rather than the other way around. Wind moving low through brush that looked too thorned to belong anywhere gentle.
 
-This was not Temür's terrain. He knew it the moment his boot met the first patch of ground that did not feel like ground but like the lid of something.
+This was not Sodoku's terrain. He knew it the moment his boot met the first patch of ground that did not feel like ground but like the lid of something.
 
 He had been raised in different severity. Kharven's surrounding territory was desert forest — harsh heat, long-reaching sightlines broken by ancient stone and thornwood. Predator country, yes, but honest predator country. You could see where death might come from if you had the training for it. You could learn the angles of danger. Learn what the sand held, what the trees concealed, what the silence meant before it changed.
 
@@ -1114,7 +1114,7 @@ Emira whispered the name like she was not sure if saying it too loudly might wak
 
 "It is bad," Yōko said. "I've heard stories."
 
-"Stories are mostly exaggerations," Temür replied.
+"Stories are mostly exaggerations," Sodoku replied.
 
 Yōko snorted. The sound came out through her nose with the percussive sharpness of someone who had just heard something so manifestly incorrect that the body elected to respond before the brain could compose a more diplomatic reaction. "And the part where everyone dies?"
 
@@ -1134,7 +1134,7 @@ Not because he had intended humor. He had not. Humor was a resource he did not a
 
 And Emira, hearing the laugh, smiled. Just a little. The corners of her mouth lifting by maybe four millimeters, the muscles performing the motion without permission from the mind, the smile arriving and departing in the same second like a bird that had landed on a branch and found it insufficient and moved on.
 
-Temür noticed.
+Sodoku noticed.
 
 He said nothing.
 
@@ -1166,7 +1166,7 @@ Yōko blinked, then softened. The softening was physical — a micro-relaxation 
 
 "Yes."
 
-Emira thought about that. The thinking was visible — a furrowing of the brow, a downward cast of the eyes, the particular head-tilt that children performed when they were processing information that required more cognitive real estate than their current allocation allowed. Then she looked toward Temür.
+Emira thought about that. The thinking was visible — a furrowing of the brow, a downward cast of the eyes, the particular head-tilt that children performed when they were processing information that required more cognitive real estate than their current allocation allowed. Then she looked toward Sodoku.
 
 "He'll kill them."
 
@@ -1174,7 +1174,7 @@ The certainty in the statement was absolute. Not hope. Not faith. The flat, fact
 
 Yōko's eyes narrowed a little. "Maybe. But that doesn't mean we want them close."
 
-Temür's gaze stayed fixed ahead. "If they come close enough to matter, they have already made their decision."
+Sodoku's gaze stayed fixed ahead. "If they come close enough to matter, they have already made their decision."
 
 There it was again. That way he spoke. As if everything in the world moved toward verdict. As if choice existed mainly to lead people toward the consequence they had earned.
 
@@ -1182,7 +1182,7 @@ Yōko heard it.
 
 "Do you talk like that because you believe it," she asked, "or because if you stop, you'll have to think about what it means?"
 
-Temür looked at her then.
+Sodoku looked at her then.
 
 For once not as a threat. Not as a warning. Not as an evaluation of competence or a measurement of utility or a ranking of relative importance to Emira's survival. Just a look. Cool. Measuring. But the measurement was not tactical. The measurement was the specific kind that people performed when someone had said something that reached a part of them they thought they had sealed off, and the measurement was trying to determine how much damage the reaching had done.
 
@@ -1194,7 +1194,7 @@ Emira, caught between them, looked from one face to the other. Her dark eyes mov
 
 "No," Yōko said.
 
-"Yes," Temür said at the same time.
+"Yes," Sodoku said at the same time.
 
 Yōko groaned. The groan was genuine, produced by a diaphragm that had decided verbal communication was insufficient and had elected to express itself through the more honest medium of subvocal protest. "See? This is why no one likes you."
 
@@ -1214,7 +1214,7 @@ Emira froze. The freeze was total — every muscle in her small body locking sim
 
 Yōko's tail stiffened. The ash-grey fur rose along the dorsal line, the piloerection response that beastkin shared with their animal relatives, the body's ancient method of appearing larger to whatever had just entered the sensory field.
 
-Temür's hand moved to Kurosetsu's grip with the smooth, practiced certainty of an action that had been repeated so many times the neural pathway between intent and execution had been polished frictionless. His fingers closed around the worn leather wrap and his weight shifted to the balls of his feet and his breathing slowed and the Kamigan's ring-lines brightened from passive scan to active assessment, the amber-gold bands expanding in his irises until the banded structure was visible from three feet away.
+Sodoku's hand moved to Kurosetsu's grip with the smooth, practiced certainty of an action that had been repeated so many times the neural pathway between intent and execution had been polished frictionless. His fingers closed around the worn leather wrap and his weight shifted to the balls of his feet and his breathing slowed and the Kamigan's ring-lines brightened from passive scan to active assessment, the amber-gold bands expanding in his irises until the banded structure was visible from three feet away.
 
 No fear. Not in the simple sense. Not in the sense that the word fear was typically applied to human experience. What occupied the space where fear would have been in a normal person was something more specific and more functional: adjustment. The recognition that the environmental parameters had changed and the operating system needed to update its resource allocation to match.
 
@@ -1232,7 +1232,7 @@ That should have been enough to raise terror in a child.
 
 And maybe it did. But Emira only looked at him for a second — the same look she had given him in the corridor five years ago, the look that poured every remaining scrap of hope into the identification of the one person who might be able to keep her alive — and then she hid behind Yōko without screaming.
 
-Trust, Temür thought.
+Trust, Sodoku thought.
 
 Or ignorance.
 
@@ -1246,7 +1246,7 @@ Then it stopped.
 
 The brush stilled. The pressure receded. The creature's Aether signature faded from the Kamigan's active-scan range — not because it had moved quickly but because it had moved slowly, deliberately, the withdrawal of a predator that had assessed the available prey and calculated the energy expenditure against the caloric return and determined that the three signatures at the road's edge were not worth the investment.
 
-The B-tier signature at the center of the group had tipped the calculation. The creature had read Temür's Aether the way territorial predators read the presence of a larger predator in their hunting range: not as prey, not as competition, but as information. The information said: the energy cost of engaging this target exceeds the caloric value of the other two targets combined, and the engagement would need to pass through this target first.
+The B-tier signature at the center of the group had tipped the calculation. The creature had read Sodoku's Aether the way territorial predators read the presence of a larger predator in their hunting range: not as prey, not as competition, but as information. The information said: the energy cost of engaging this target exceeds the caloric value of the other two targets combined, and the engagement would need to pass through this target first.
 
 "Yes."
 
@@ -1254,13 +1254,13 @@ The creature left.
 
 Yōko let out the breath she had been holding. The exhale was long, controlled, the kind of breath that a body releases when the threat-detection system stands down and the muscles that had been allocated to flight begin returning to baseline. "I hate this place."
 
-Temür's hand left Kurosetsu's grip. "Good."
+Sodoku's hand left Kurosetsu's grip. "Good."
 
 "Good?"
 
 "Hatred sharpens weak caution into something usable."
 
-"That might be the most Temür thing you've ever said."
+"That might be the most Sodoku thing you've ever said."
 
 He did not respond.
 
@@ -1280,7 +1280,7 @@ Yōko kept speaking softly to Emira as they walked. Kept checking whether she wa
 
 "...a little."
 
-"Let me see." Yōko crouched. Adjusted the shoe's tongue. Retied the lace. The entire interaction lasted twelve seconds and contained no tactical value and no strategic significance and Temür watched it happen and the watching produced a sensation in his chest that the Kamigan could not categorize because the Kamigan had not been built to categorize the specific pain of observing someone be gentle in a world that had given them no reason to be.
+"Let me see." Yōko crouched. Adjusted the shoe's tongue. Retied the lace. The entire interaction lasted twelve seconds and contained no tactical value and no strategic significance and Sodoku watched it happen and the watching produced a sensation in his chest that the Kamigan could not categorize because the Kamigan had not been built to categorize the specific pain of observing someone be gentle in a world that had given them no reason to be.
 
 Emira looked at Yōko when the shoe was fixed. "Thank you."
 
@@ -1288,7 +1288,7 @@ Emira looked at Yōko when the shoe was fixed. "Thank you."
 
 Two words. Said easily. Said the way people said things when the saying cost nothing and meant everything.
 
-Temür watched the interaction and did not intervene and did not comment and did not rank the interaction's tactical significance because the interaction's tactical significance was zero and its other significance — the significance that lived in the category the Kamigan had not been built to process — was something he was not yet willing to name.
+Sodoku watched the interaction and did not intervene and did not comment and did not rank the interaction's tactical significance because the interaction's tactical significance was zero and its other significance — the significance that lived in the category the Kamigan had not been built to process — was something he was not yet willing to name.
 
 They were becoming real to one another.
 
@@ -1296,11 +1296,11 @@ Yōko and Emira. The beastkin and the girl. The fox-spirit and the child. Not a 
 
 People.
 
-And that, more than the stones thrown in town or the whispers at the gate or the monster in the brush, unsettled something in Temür that he had not yet named and did not want to name because naming it would have required him to acknowledge that the thing existed and acknowledging that the thing existed would have constituted a verdict, and the verdict would have been: you are capable of caring about someone who is not your sister, and the capability means the wall you built is not a wall, it is a door, and doors can be opened from both sides.
+And that, more than the stones thrown in town or the whispers at the gate or the monster in the brush, unsettled something in Sodoku that he had not yet named and did not want to name because naming it would have required him to acknowledge that the thing existed and acknowledging that the thing existed would have constituted a verdict, and the verdict would have been: you are capable of caring about someone who is not your sister, and the capability means the wall you built is not a wall, it is a door, and doors can be opened from both sides.
 
 Hell's Scourge stretched ahead of them. Black roots. Dry wind. The promise of violence encoded in every shadow and every silence and every rustle that could be wind or could be mass.
 
-Temür walked into it without hesitation.
+Sodoku walked into it without hesitation.
 
 He believed he was entering a place that would test only endurance. A crucible of monsters and terrain and the simple, mechanical question of whether 291,000 EU and a practice blade and three years of combat experience could sustain three people through territory that most caravans would not cross without a C-tier escort minimum.
 
@@ -1316,11 +1316,11 @@ Not a cleaner one.
 
 But perhaps, for the first time in his life, a better one.
 
-The thorned canopy closed overhead. The road narrowed to a single-file path. Yōko adjusted Emira on her hip, and the girl's arms went around the fox-spirit's neck, and the arms stayed, and the staying was the beginning of something that Temür could not rank and could not compress and could not conclude, and the inability was the first crack in a system that had been cracking since a corridor five years ago, and the crack did not heal, and the crack was not damage.
+The thorned canopy closed overhead. The road narrowed to a single-file path. Yōko adjusted Emira on her hip, and the girl's arms went around the fox-spirit's neck, and the arms stayed, and the staying was the beginning of something that Sodoku could not rank and could not compress and could not conclude, and the inability was the first crack in a system that had been cracking since a corridor five years ago, and the crack did not heal, and the crack was not damage.
 
 It was an opening.
 
-Four days since they'd left the first town. Temür had the fire built low, more habit than need, flame that wouldn't carry past the treeline, smoke thin enough to die in the canopy before it told anyone where they were. Yoko had gotten Emira settled, the girl's breathing gone slow and even, before she let herself look at him.
+Four days since they'd left the first town. Sodoku had the fire built low, more habit than need, flame that wouldn't carry past the treeline, smoke thin enough to die in the canopy before it told anyone where they were. Yoko had gotten Emira settled, the girl's breathing gone slow and even, before she let herself look at him.
 
 He hadn't moved in an hour. Just sat at the camp's edge with his back to them both, staring at nothing Yoko could see, like the dark itself owed him an answer.
 
@@ -1338,7 +1338,7 @@ That got him to turn his head, not far, just enough that she caught his profile 
 
 "You want the reason to be clean." His voice hadn't warmed, but it had gone careful, like a man handling something with a blade he wasn't sure was still sharp. "It isn't. They killed my father first, made him watch what came after, so the dying took longer than it needed to. My mother next. Then my brother, and they let him scream the longest, because by then they'd learned that was the part that broke something in me." His hands, loose in his lap, closed slowly into fists. "I didn't walk into that house to free a slave. I walked in already dead inside, looking for something to kill back. You were just the only thing in that house I didn't have a reason to hate."
 
-"That's not nothing, Temür."
+"That's not nothing, Sodoku."
 
 "It's not virtue, either." Finally he looked at her fully, and there was no comfort in it, only a tiredness that went past sleep. "Don't mistake the shape of what I did for the reason I did it. I didn't save you. I just ran out of people I wanted dead before I ran out of room in the house."
 
@@ -1354,7 +1354,7 @@ Yoko didn't push further. She'd learned that much about him already, that pushin
 
 "For what it's worth," she said, quieter now, more to the dark than to him, "whoever you killed them for, I'm glad you didn't kill me too."
 
-Temür's jaw tightened. He didn't look at her. "Don't be glad yet."
+Sodoku's jaw tightened. He didn't look at her. "Don't be glad yet."
 
 "Why not?"
 
@@ -1364,7 +1364,7 @@ Temür's jaw tightened. He didn't look at her. "Don't be glad yet."
 
 "Then that's your mistake to make. Not mine to stop."
 
-The fire popped, sent a thin curl of sparks up into the black. Emira stirred in her sleep and went still again. Yoko watched the line of Temür's shoulders, rigid even in stillness, and thought that a man so certain he was already lost didn't usually bother warning the people foolish enough to stay close to him.
+The fire popped, sent a thin curl of sparks up into the black. Emira stirred in her sleep and went still again. Yoko watched the line of Sodoku's shoulders, rigid even in stillness, and thought that a man so certain he was already lost didn't usually bother warning the people foolish enough to stay close to him.
 
 Maybe that was its own kind of answer. She didn't say so. She only watched the fire burn lower, and stayed.
 
@@ -1546,7 +1546,7 @@ He considered arguing. Decided he didn't have it in him tonight.
 
 He followed after her, chains settling heavy and familiar across his shoulders, and said nothing else, because there genuinely wasn't anything left to say that she wouldn't twist into something to tease him about.
 
-Temür had felt the hobgoblin's presence long before the ridge came into view, a pressure on the senses that didn't belong to anything ordinary, threaded through with something older and angrier than it should have been. He'd kept it to himself the whole approach, weighing it, deciding what it meant before he decided what to do about it.
+Sodoku had felt the hobgoblin's presence long before the ridge came into view, a pressure on the senses that didn't belong to anything ordinary, threaded through with something older and angrier than it should have been. He'd kept it to himself the whole approach, weighing it, deciding what it meant before he decided what to do about it.
 
 "Yoko, wait here." He didn't slow his pace as he said it, eyes already fixed on the ridge ahead. "Don't let Emira out of your sight. I'll deal with this myself."
 
@@ -1556,21 +1556,21 @@ Kroathar felt the new presence arrive the moment it crested the ridge line, dist
 
 "Shut your trap." He said it to Saiya before she'd even opened her mouth, eyes narrowing toward the approaching figure. "Looks like we've got a visitor." A beat, his head tilting slightly as he read the essence signature more carefully. "Human. Moto, by the feel of it. I know that bloodline's type."
 
-Temür came to a stop a careful distance away, close enough to speak without raising his voice, far enough that neither of them could close the gap before the other reacted. His eyes moved past Kroathar to the wyrm's halves still steaming on the ridge stone, the scale split clean down the spine, the scorch marks where something black and merciless had carved straight through an A-class monster like it was an inconvenience.
+Sodoku came to a stop a careful distance away, close enough to speak without raising his voice, far enough that neither of them could close the gap before the other reacted. His eyes moved past Kroathar to the wyrm's halves still steaming on the ridge stone, the scale split clean down the spine, the scorch marks where something black and merciless had carved straight through an A-class monster like it was an inconvenience.
 
 An A-class kill. And the hobgoblin standing in front of him hadn't even broken a real sweat doing it.
 
-Strange. Interesting, in the specific way that made Temür's instincts sharpen rather than relax.
+Strange. Interesting, in the specific way that made Sodoku's instincts sharpen rather than relax.
 
 Kroathar spoke first, arms crossed, chains settled loose across his shoulders like they'd never come off at all. "What the hell do you want?"
 
-"Passage through this ridge." Temür kept his voice level, no challenge in it, no fear either, just flat practical fact. "If that's agreeable to you. I have no interest in the monster cores from that serpent. None of it's mine to want."
+"Passage through this ridge." Sodoku kept his voice level, no challenge in it, no fear either, just flat practical fact. "If that's agreeable to you. I have no interest in the monster cores from that serpent. None of it's mine to want."
 
 Kroathar's brow lifted, just slightly. People who found him standing over a kill that size usually wanted one of two things: a cut of the spoils, or his head on a pike for whatever he was rumored to be. Plain passage and nothing else was new.
 
 "Strange." He studied the man in front of him a moment longer, weighing the calm against the obvious caution underneath it. "Not gonna call me a monster. Not gonna take a swing at me either."
 
-Temür held his gaze, reading the weight behind Kroathar's stance the way he'd read a hundred opponents before, not by size or posture but by the pressure that came off them when they stopped holding back. He'd felt that pressure crest just minutes ago, watched its aftermath still smoking on the ground.
+Sodoku held his gaze, reading the weight behind Kroathar's stance the way he'd read a hundred opponents before, not by size or posture but by the pressure that came off them when they stopped holding back. He'd felt that pressure crest just minutes ago, watched its aftermath still smoking on the ground.
 
 "If I fought you, I'd surely die." He said it without shame, without flinching from the admission, just a man stating terrain. "There's no profit in dying over pride. I'd rather walk past than test how thin that line is."
 
@@ -1578,15 +1578,15 @@ That, at least, earned something close to respect flickering across Kroathar's f
 
 Saiya, perched on the wyrm's flank with a half-extracted core in one clawed hand, tilted her head at the newcomer with open curiosity, the predatory edge from earlier dimmed down into something more like interest. "Ouu, a smart one, meow. Most humans either run screaming or get brave and stupid. You're neither."
 
-"I've learned the difference costs less than pride does." Temür's eyes flicked to her briefly, taking in the blood, the casualness of her perch atop a dead serpent twice her size, before returning to Kroathar, the one who actually mattered in this exchange.
+"I've learned the difference costs less than pride does." Sodoku's eyes flicked to her briefly, taking in the blood, the casualness of her perch atop a dead serpent twice her size, before returning to Kroathar, the one who actually mattered in this exchange.
 
 Kroathar grunted, low, considering. "Moto blood usually means trouble. Crowns and politics and all the rot that comes with it. You don't carry yourself like court trash, though."
 
-"I left that behind on purpose." Something flickered behind Temür's eyes, brief and hard, gone before it could be read clearly. "I'm not here to discuss what I left. I'm here to get two people through this ridge without further complications."
+"I left that behind on purpose." Something flickered behind Sodoku's eyes, brief and hard, gone before it could be read clearly. "I'm not here to discuss what I left. I'm here to get two people through this ridge without further complications."
 
-"Two?" Kroathar's gaze sharpened, scanning past Temür toward the treeline he'd come from.
+"Two?" Kroathar's gaze sharpened, scanning past Sodoku toward the treeline he'd come from.
 
-"A woman and a child. Neither of them fighters. Neither of them your concern, if you let us pass." Temür's tone didn't change, but something underneath it did, a quiet readiness that hadn't been there a moment before, the kind of stillness that came right before a man decided whether negotiation was over.
+"A woman and a child. Neither of them fighters. Neither of them your concern, if you let us pass." Sodoku's tone didn't change, but something underneath it did, a quiet readiness that hadn't been there a moment before, the kind of stillness that came right before a man decided whether negotiation was over.
 
 Kroathar caught it. Filed it away. Whatever this Moto was running from, or running toward, he wasn't bluffing about being willing to die over it if it came to that.
 
@@ -1596,15 +1596,15 @@ Saiya hopped down off the wyrm carcass, wiping a clawed hand clean on her thigh,
 
 "Some of us like boring," Kroathar said flatly, not looking at her.
 
-"You like boring. I tolerate it." She sauntered a few steps closer to Temür, tail flicking with open interest, studying him the way a cat studied something it hadn't decided yet whether to play with or eat. "So. Moto boy. Where exactly are you taking your two strays, hm?"
+"You like boring. I tolerate it." She sauntered a few steps closer to Sodoku, tail flicking with open interest, studying him the way a cat studied something it hadn't decided yet whether to play with or eat. "So. Moto boy. Where exactly are you taking your two strays, hm?"
 
-Temür's eyes cut to her, measured, giving nothing away. "Somewhere they'll be safe. That's all either of you need to know."
+Sodoku's eyes cut to her, measured, giving nothing away. "Somewhere they'll be safe. That's all either of you need to know."
 
 "Mm. Mysterious." Saiya's grin widened, but she didn't press further, falling back half a step to let the silence settle instead.
 
-Kroathar studied Temür a beat longer, something unreadable passing behind his eyes, before he finally turned away, dismissing the conversation as concluded. "Go on, then. Before I change my mind about being generous."
+Kroathar studied Sodoku a beat longer, something unreadable passing behind his eyes, before he finally turned away, dismissing the conversation as concluded. "Go on, then. Before I change my mind about being generous."
 
-Temür inclined his head, just slightly, the closest thing to gratitude he seemed willing to offer a stranger who'd just split a serpent in half with his bare hand. He turned, already walking back toward the treeline where Yoko and Emira waited, and didn't look back to see whether either of them watched him go.
+Sodoku inclined his head, just slightly, the closest thing to gratitude he seemed willing to offer a stranger who'd just split a serpent in half with his bare hand. He turned, already walking back toward the treeline where Yoko and Emira waited, and didn't look back to see whether either of them watched him go.
 
 Behind him, Saiya leaned toward Kroathar, voice dropping just low enough to carry only to him. "You let him through awfully easy, Krothy."
 
@@ -1632,35 +1632,35 @@ Kroathar grinned, all teeth, unbothered. "Reflexes say otherwise, cat."
 
 "Reflexes say I'm *smart enough not to be under it,*" she shot back, hopping down off the rise she'd scrambled to. "There's a difference."
 
-Temür had already turned back toward Yoko and Emira by then, his voice dropping into something quieter, steadier, the tone of a man who'd said this exact sentence a hundred times and meant it every time. "We can go. Stay close to me."
+Sodoku had already turned back toward Yoko and Emira by then, his voice dropping into something quieter, steadier, the tone of a man who'd said this exact sentence a hundred times and meant it every time. "We can go. Stay close to me."
 
-"Of course, Temür." Yoko's reply came soft, automatic, the kind of agreement that wasn't really agreement so much as trust worn smooth with use. She didn't crowd him exactly, just drifted a half-step closer, angling her body so that Emira walked the safe channel between her legs and Temür's shadow, small hands fisted in the fabric of her skirt.
+"Of course, Sodoku." Yoko's reply came soft, automatic, the kind of agreement that wasn't really agreement so much as trust worn smooth with use. She didn't crowd him exactly, just drifted a half-step closer, angling her body so that Emira walked the safe channel between her legs and Sodoku's shadow, small hands fisted in the fabric of her skirt.
 
-Temür moved a pace ahead of them, eyes on the road, on the treeline, on anything that might think Emira looked like an easy thing to want.
+Sodoku moved a pace ahead of them, eyes on the road, on the treeline, on anything that might think Emira looked like an easy thing to want.
 
 That was when Saiya looked down, really looked, and went still.
 
-A beastkin. Her own kind, standing among humans like it was nothing at all, like the world hadn't taught her that such things ended in chains more often than friendship. Her ears pricked forward, pupils narrowing to vertical slits as she took in the line of Temür's shoulders, the careful, deliberate way he'd positioned himself between the world and the child at his heel.
+A beastkin. Her own kind, standing among humans like it was nothing at all, like the world hadn't taught her that such things ended in chains more often than friendship. Her ears pricked forward, pupils narrowing to vertical slits as she took in the line of Sodoku's shoulders, the careful, deliberate way he'd positioned himself between the world and the child at his heel.
 
 Kroathar hadn't been told. That was the problem.
 
-He stepped into the road in one unhurried motion, the kind of motion that didn't need to be fast to be absolute, and Temür's path simply stopped existing in front of him.
+He stepped into the road in one unhurried motion, the kind of motion that didn't need to be fast to be absolute, and Sodoku's path simply stopped existing in front of him.
 
 "You didn't tell me you had a beastkin." Kroathar's voice had lost its earlier warmth, gone low and flat, a tone Saiya recognized, the one he used right before things got complicated. His eyes didn't leave Yoko. "Is she your slave?"
 
 The air went tight. Even the serpent, half-conscious, seemed to feel it, coils twitching against Kroathar's shoulder.
 
-Temür didn't reach for a weapon. He didn't need to. He simply turned, slow and deliberate, putting his full body between Kroathar and the woman behind him, close enough now that Emira's grip on Yoko's skirt had gone white-knuckled.
+Sodoku didn't reach for a weapon. He didn't need to. He simply turned, slow and deliberate, putting his full body between Kroathar and the woman behind him, close enough now that Emira's grip on Yoko's skirt had gone white-knuckled.
 
-"Why do you care?" Temür's voice was quiet. Quiet in the way a drawn bowstring is quiet.
+"Why do you care?" Sodoku's voice was quiet. Quiet in the way a drawn bowstring is quiet.
 
 "Because I do." Kroathar didn't blink. "So answer me."
 
 Saiya's tail had gone rigid, every line of her body caught between *step in* and *wait and see*, because she knew Kroathar well enough to know that underneath the bluntness, underneath the casual cruelty of the question, there was something that mattered to him more than he'd ever admit out loud. He didn't ask about beastkin chained to humans because he liked the answer. He asked because he'd seen the *other* answer before, and it had cost him something he'd never fully gotten back.
 
-Yoko's hand found Temür's sleeve without thinking, fingers curling into the fabric, not pulling him back, just *anchoring*, the way you hold onto a doorframe in a storm.
+Yoko's hand found Sodoku's sleeve without thinking, fingers curling into the fabric, not pulling him back, just *anchoring*, the way you hold onto a doorframe in a storm.
 
-"She's not my slave." Temür's words came out even, but there was an edge underneath them now, something that hadn't been there a moment ago. "She's under my protection. There's a difference, and you'd do well to learn it before you ask that question again."
+"She's not my slave." Sodoku's words came out even, but there was an edge underneath them now, something that hadn't been there a moment ago. "She's under my protection. There's a difference, and you'd do well to learn it before you ask that question again."
 
 Kroathar studied him for a long moment, studied the set of his jaw, the way his weight had shifted forward onto the balls of his feet, the way his free hand had drifted, casual as anything, toward where a blade would be if he carried one.
 

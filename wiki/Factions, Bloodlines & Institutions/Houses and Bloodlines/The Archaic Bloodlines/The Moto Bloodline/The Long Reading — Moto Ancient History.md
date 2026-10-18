@@ -188,7 +188,7 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 | **The Recension's date** | Proposed at two to four generations before Muken. **Near enough that living memory of it exists in the hinterland and nowhere else** |
 | **Bonded labour in Nalūn** | If the salt cuttings run on the undocumented **as an institution rather than an abuse**, it goes into the Nalūn codex and changes how every scene set there reads. *Recommended* |
 | **Sancta Lux** | The Seventh Objection now has an obvious content: **the sacraments are a Moto Work, the Wellspring is a Moto residue, and the Grand Church is a tenant.** Three living readers, one no longer sleeping |
-| **Does Temür know** | His father put a hand on his head at a dinner table and said nothing. **If the nothing included this, the Kōkan Butcher has been carrying an inheritance he cannot see the shape of** |
+| **Does Sodoku know** | His father put a hand on his head at a dinner table and said nothing. **If the nothing included this, the Kōkan Butcher has been carrying an inheritance he cannot see the shape of** |
 | **The six lines' registers** | Whether any northern line preserved an honest account of the window, **and where it is, and who has read it** |
 
 > *All content originated in this document is proposed canon pending ratification.*

@@ -28,7 +28,7 @@ He had not sat down. He never sat down before the report was finished, which was
 
 "Confirmed," Lambert said. "All of it. The Mönggön have begun putting the substrate Stannvaard granted them into anti-fortification work on what is left of Kharven. Confirmed by a woman who walked it, who is standing in our yard counting the woodpile because she declined to come in until she had done something useful."
 
-Temür looked at Edward. Then he looked at his daughter.
+Sodoku looked at Edward. Then he looked at his daughter.
 
 Hild had the range at her back and the night-stone in both hands. Dark hair off her mother's side, the single crown braid gone fuzzy at the temples because Brida had done it fast that morning, brown eyes moving between the two men at the rate of a person who has been told to listen and has decided to do more than that. The mail hem swung against her thighs when she shifted her weight. She had been holding the stone since the count came in and it had gone cold in her hands twenty minutes ago and she had not put it down.
 
@@ -134,7 +134,7 @@ The range ticked as it cooled through a joint.
 
 *They are going to run a conduit up that gallery and they are going to gauge it, which means it is not powder, which means it is worse than powder, and I have no vocabulary for the worse thing and neither does anyone in this room.* Lorn's hand had gone to the back of a chair and closed on it. *And I am going to have to teach eight hundred men to hold a wall that is going to be cut out from beneath them by an instrument with a window in it.*
 
-Temür had not spoken since the count came in.
+Sodoku had not spoken since the count came in.
 
 He looked at the brass, and at the plat, and at the eleven-short woodpile through the shutter's frost band, and when he did speak the words came out slow and set flat, one after another, with nothing hurried in them at all.
 

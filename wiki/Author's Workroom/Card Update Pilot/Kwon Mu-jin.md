@@ -1,0 +1,335 @@
+---
+private: true
+type: character-card
+title: "Kwon Mu-jin"
+subtitle: "The Teacher · Archmagus of Alchemetrica · Card 21"
+culture: "Ketsuen, Mahuo of Sum-gol"
+rung: full
+as_of: "The Academy Years, 715 IC, age 38; earlier war-camp records retained"
+sources: "Prior Kwon Mu-jin card; character and fow_line; Fracture of Worlds; Master Codex; Release Forms; The Color of Essence; Ketsuen Standing Inventory"
+pc: false
+---
+
+# Kwon Mu-jin
+
+**Kwon Mu-jin** · The Teacher · Archmagus of Alchemetrica · Ketsuen, Mahuo of Sum-gol · as of the Academy Years, 715 IC  
+**Stat line** · Level 430 · Band V, Absolute · Stage XII, Emanation · Path Spirit 55% / Body 30% / Attraction 15% · Grandmaster · η 0.87 · Aether Class V, Radiant · Crystal Sovereign, Refined  
+**Combat grammar** · Verdict  
+**Aura and sound** · colour: arc-discharge blue, bleaching white at the edges, with a deep ember-orange undertone · signature sound: a glass rim singing under a wet finger, with a dry chalk scratch beneath it  
+**Stack** · sustainable S, Gnosis SS; Stage ceiling SSS · cap +2 Grades above each recorded Grade · layers: standing First Release; Second or Third when raised; Dawn Guard's teaching vow, with no recorded Grade lift; no active Draft or tag recorded  
+**Releases** · MANUS LAPIDIS (First Release) / CRUCIBULUM APERTUM (Second Release) / HEREDITAS COMMUNIS (Third Release) · bonded weapon: none  
+**Traits** · LAPIS (Primary) · tell: struck matches and blooming rust · counter: sulfur smoke / PERVIUM (Secondary) · tell: glyph light on the dead arm, an intact crossed ward · counter: three ward layers exhaust his reserve / AGNITIO (Inherited) · tell: called things turn toward his voice · counter: a Fixatio seal / COMMUNE (Passive) · tell: others begin using his words · counter: a sealed room or sufficient Resilience Ward  
+**Techniques** · SIGHT THROUGH THE GLASS · tell: lens removed and held · counter: change the working faster than his forecast / CALCINATION DRAFT · tell: the spoken Latin over a vessel · counter: break contact and scatter the glyphs / VOCATIA · tell: Parunic over an open circle · counter: break the circle before readiness / DISTILLATION SEAL · tell: one clear note emerges from a mixed hiss · counter: false or incomplete input  
+**Voice** · "Fine, class, we can go to the Combat Arena... but let's be careful. Still much for you to learn here at the academy." · speaker type: a meticulous university chemistry lecturer whose concern for his students outruns his patience with mistakes  
+**Next gate** · Stage XIII, Principality · Catalyst: Domain coherence sufficient for the Continuum to formally register the law he embodies · Band gate: none beyond Band V · XIII+ locked
+
+---
+
+*The Teacher · Archmagus of Alchemetrica · Card 21*
+
+**Stats · The Academy Years, 715 IC, age 38.** Every figure on this card is his loadout at the Aetherion Academy. **Before the Ashgate road** (701 IC, age 24) he last read Stage X Realization, η 0.78, some twelve million units in the winter of 699 to 700 IC, about Level 285 by the Level law; Volume III withholds any later read.
+
+> **Level 430 at Stage XII** — he has arrived in the Absolute band early, *still at Emanation rather than Principality*, having only just cleared the gate requiring Stage XII to pass Level 400.
+>
+> **An honest floor of Grade S across everything he does not specialise in, and a genuine SS spike in the one stat that has carried his entire identity since he was fourteen.**
+
+## I. Identity
+
+**Full Name** · Kwon Mu-jin  
+**Pronunciation** · KWON moo-JIN  
+**Alias / Title** · The Teacher · Archmagus of Alchemetrica  
+**School and sect rank** · Division of Alchemetrica, Archmagus; Mahuo house art at Sum-gol; homeroom teacher of Class X at the Aetherion Academy  
+**Renown** · public: the court's Ledger-Prince; army: the teacher bound to Dawn Guard's camp; house: the Mahuo representative under the Accord; guilds: Registered Natural and Archmagus of Alchemetrica  
+**Refusal** · He will not give another person's consent for them, even to secure an alliance.  
+**Conviction** · Alchemical and summoning knowledge belongs to everyone willing to learn it; neither a court nor a bloodline has the right to keep it from them.
+
+**As Of** With the Zettari war camp, before the Ashgate road
+
+**Also known as** **The Ledger-Prince** *(court epithet, resented)* · The Open-Handed Alchemist
+
+**Race / Lineage** Human — **Mahuo court line**, scholar-nobility of the house at Sum-gol, Ketsuen
+
+**Age** 24 · **Sex** Male
+
+**Standing** Guild Accord, **Division of Alchemetrica, Archmagus-ranked.** Mahuo summoning lineage, trained in the house art at Sum-gol from 697 IC; entered by the Division as a Registered Natural, no academy credential. **Self-bound to the Dawn Guard's teaching vow, embedded with the Zettari war camp**
+
+> **Catalyst Event.** Presented a corrected Fixation array to the court's Senior Alchemist **at fourteen** — not to embarrass him, *just because the glyph chain was wrong and would have killed the patient.*
+>
+> **He was right. He was also fourteen** — and the court's answer to being shown up by a child was **to make him a symbol instead of a person.** The Ledger-Prince, paraded as proof of the kingdom's brilliance, **never asked what he wanted.**
+>
+> He left **the day his title-writ named him S-tier before it named him anything else**, and has spent the ten years since **proving the title was earned rather than premature.**
+
+## II. Soul Architecture
+
+| **Level** | **430 / 500** · Band V — Absolute. *Typically clusters Stage XIII–XIV;* *he has arrived early* |
+|---|---|
+| **Temperance Stage** | **XII — Emanation**, active. *"Traits become local physics."* Ceiling 950, sustainable max Grade SSS |
+| **Tier of Standing** | **7, Grandmaster** · η 0.85–0.90 |
+| **Path** | Spirit 55% · Body 30% · Attraction 15% |
+| **Essence Typology** | **Fulguria**, primary — perception, revelation, precision. *Catalyst:* *"seeing a truth no one else could see, and being right"* *— almost verbatim his own Catalyst Event.* **Caloria**, undertone |
+| **Aether Class** | **V — Radiant.** *Output can meet or exceed theoretical stat maximum* |
+| **Soul Crystal Tier** | **Sovereign Crystal** |
+| **Crystal State** | Refined, dense. **The old Splintering-era fracture is fully integrated** — *per Stage XI's "fractures become features" principle,* *that scar now functions as architecture rather than damage* |
+
+## III. Wellspring Harmonizations
+
+**Wellspring Harmonizations** · **Alchemetrica** — Coagulatio, Fixatio. *His founding discipline, still the seat of his diagnostic identity.* Vocatia **—** ***trained, not latent.*** The Mahuo family's ancestral summoning art, formally studied once his Stage advancement made ignoring it untenable. Anamnesis **— matured;** reads inherited intention and unfinished formulae with real fluency.
+
+## IV. Primary Stats
+
+*Verified against Level 430's real point economy — 18,800 total: 14,175 held as an even S-Grade floor across seven stats, 4,625 concentrated into the Gnosis family.*
+
+| Primary | Total | Mean | Grade |
+|---|---|---|---|
+| **Gnosis** | 4,720 | **590** | **SS** |
+| **Tempering** | 3,296 | 412 | S |
+| **Harmonics** | 3,280 | 410 | S |
+| **Ardency** | 3,264 | 408 | S |
+| **Dominion** | 2,849 | 407 | S |
+| **Resilience** | 3,248 | 406 | S |
+| **Vitality** | 3,240 | 405 | S |
+| **Dexterity** | 3,216 | 402 | S |
+
+## V. Sub-Stats
+
+**Gnosis** · **Analysis 620** · Perception 595 · Diagnosis 585 · Retention 575 · Sapience 565 · Forecast 555 · Fluency 552. ***The one he actually lives inside***
+
+**Tempering** · Clarity 418 · Maturity 410 · Ceiling 405 · Coherence 402
+
+**Harmonics** · Attunement 415 · Fidelity 408 · Memory 403 · Stability 401
+
+**Ardency** · Inscription 412 · Saturation 406 · Depth 403 · Compression 401
+
+**Dominion** · Radius 414 · Sense 408 · Sovereignty 403 · Pressure 401
+
+**Resilience** · Coherence 410 · Integrity 407 · Anchoring 404 · Ward 402
+
+**Vitality** · Endurance 408 · Fortitude 406 · Constitution 404 · Threshold 402
+
+**Dexterity** · Finesse 410 · Economy 405 · Reflex 402 · Evasion 401
+
+## VI. Physical Force
+
+> **Strike Force: below 60 Joules unaided.** *Hollow-range by raw kinetic output, consistent with zero martial training.*
+>
+> His **Travel Speed of Mach 25–200 is his summoned constructs' delivery speed, not his own footwork** — *which never exceeds an ordinary brisk walk.*
+
+**Durability** · S-Grade Resilience — withstands ambient Essence discharge in the **4.6 × 10¹⁰ to 4.6 × 10¹³ Joule range** before structural harm begins.
+
+**Attack Speed** Mach 30–500 · **Reaction** 0.05–0.2ms · **Aura Pressure Field** 15m passive · **Domain Pressure** 40m at full concentration
+
+## VII. Aether Flow
+
+**EU Reserve** **850,000,000** — *sized to what an SS-Grade Gnosis stat actually demands to sustain* · **Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87
+
+**Passive Recovery** ~12,750,000 EU/hour at rest · **Active** ~38,250,000 EU/hour — *only while he stops working entirely to do it*
+
+**Starvation clock** · At 1,566,000 AU/s from a full reserve, 488.51 seconds to the 85,000,000 EU safety floor, about 8 minutes 9 seconds; 542.78 seconds to empty, about 9 minutes 3 seconds. These clocks exclude recovery and additional spending.
+
+## VIII. Traits
+
+**LAPIS · the Stone (Primary Trait)**
+
+Mu-jin is a living catalyst, the philosophers' stone the old alchemists were really chasing: something that makes a reaction run faster without being used up. Within 15 m of him, any reaction that would happen anyway runs faster when he wills it, up to a billion times faster. Iron rusts through in a second, every pistol's powder in the room goes off at once, a Draft sets as he pours it, a cut clots shut, or a man's blood clots solid in his veins. At rest it still hums: paper yellows on his desk and bread goes stale in his room by noon. A willed burst costs about 850,000 EU, a tenth of a percent of his reserve. It only runs downhill. It cannot make anything that would not happen on its own, so ash never becomes wood and the dead stay dead, and it speeds both directions at once, so whatever he builds also falls apart faster unless it is sealed. Real catalyst poisons choke it: lead, sulfur and arsenic, so lead dust or sulfur smoke in the air (a Solfatara practitioner above all) shuts it down, and cold slows it. The tell is a smell of struck matches around him and rust blooming where he looks.
+
+**PERVIUM · the Way Through (Secondary Trait)**
+
+When there is no way through, Mu-jin goes through anyway. A particle can cross a barrier it has no energy to climb, and the chance shrinks fast the thicker the barrier is; physics calls it tunnelling. His workings cross wards, shields, walls and Domains without breaking them and arrive on the far side at about half strength, and he can cross the gap between what he is and what the moment needs, casting above his own Stage and Grade as he did at Rimward. A thin ward costs about 8.5 million EU, 1% of his reserve, and every extra layer multiplies the cost by ten, so a triple-layer ward costs him everything. Thickness, layers and distance stack against him fast. A crossing above his own standing is paid afterwards in his body, and some of what it takes does not come back, and like every Secondary it leaves a debt: hours of shaking exhaustion and a migraine that stacks on top of Sight Through the Glass. The tell is a ward with no breach in it, and written glyph lighting up his dead right arm while he crosses. Separate ward layers and a wider gap are its counter: the third layer takes his whole reserve before another working is paid for.
+
+**AGNITIO · the Recognition (Inherited Trait)**
+
+Every called thing hears a Mahuo clearly. Power crosses a wire completely only when the two ends are matched, and when they are not it bounces back; the Mahuo line is matched to the act of calling itself. His own summons lose nothing on the way, so his constructs cost about a third less than anyone else's, and any summoned thing on the field hears him as plainly as it hears its own summoner and weighs the two of them. The house law holds: he cannot compel, only be recognised, and recognition decides it more often than not. Things bound with a Fixatio seal cannot hear him, things built rather than called (clockwork, golems) have no ear at all, and when he contests another summoner's construct and loses, the call bounces back into him with the full force of what he spent. It runs whether he wants it or not: wild things born of the Wells hear him too and drift toward his camp at night. The tell is every called thing in sight turning its head when he speaks.
+
+**COMMUNE · the Commons (Passive Trait)**
+
+Knowledge spreads out from Mu-jin the way ink spreads through still water. Whatever is understood in a room around him slowly becomes understood by everyone in it, reaching arm's length in about a minute and 10 m in about two hours, as real diffusion does. His students learn in weeks what takes others years, an enemy's technique worked near him becomes plain to his side, and no working stays secret near him for long. It only flows from whoever knows more to whoever knows less, and it flows out of him too, which he cannot stop: an enemy who stands near him long enough learns his workings, and the Book of Summons leaks. Sealed rooms, Claustra wards and a closed mind (Silentia, or a high Resilience Ward) block it, and a fight is usually too short for much to cross unless they are close. The tell is people around him using his words, and enemy practitioners near him starting to cast in his Latin.
+
+## IX. Domain
+
+**Domain · The Open Crucible** — Emanation-tier, 40-metre passive radius. **Past active maintenance now:** reagents, glyph-chains and called summons **all behave as though already perfected without him needing to consciously sustain the field.**
+
+CRUCIBULUM APERTUM opens and powers this Domain. At Emanation its ordinary perfected field is standing and needs no conscious maintenance; raising its combat strength carries the Second Release's drain. The field has no wall. Its edge remains 40 m from Mu-jin, and a competing Domain with stronger Dominion can force it back. Perfecting a working supplies neither missing material nor a summoned being's consent. The blue-white light across the ground and the held glass note announce the raised field; its combat rise ends at the reserve's last tenth.
+
+## X. Techniques
+
+**SIGHT THROUGH THE GLASS (Signature Technique)**
+
+Trigger: **removes and holds his spectacles.** Full diagnostic overlay of Draft integrity, Wellspring drift, structural failure points. Gnosis-Analysis routed through the Attraction Layer, **bypassing Fixation delay.** Reads failure points to a **40-second predictive window.** *Target response: nothing visible —* *the horror is entirely his.* **Cost:** migraine-grade backlash for hours, ~2% of reserve per use. Counter: **Active flux still outpaces a 40-second window**. At the stated reserve, each use spends about 17,000,000 EU. The lens gives a thin glass ring as he lifts it; nothing appears on the target. Before the read, an obscured working denies him a clean view of its structure; during it, a changing working defeats the forecast; afterwards, the migraine makes another immediate reading costly. The forty seconds are the forecast's reach, not a continuous drain clock.
+
+**CALCINATION DRAFT · Honest Fire (Technique)**
+
+Trigger: ***"Falsum ardeat, verum maneat"*** over a prepared vessel. Strips false structure from material or wound-site, drawing on Cinerion. Burn radius 0.5–1.2m, **~1400°C at the face.** *Cost: negligible EU,* *high personal cost to have cast*. Counter: Requires contact · **a resisting target scatters the glyphs**. Its vessel gives a dry hiss as the face of the working heats. The audible phrase and prepared vessel warn before contact.
+
+**VOCATIA · The Ledger's Summons (School Art, Mahuo house)**
+
+Spoken Parunic invocation over an open Draft-circle. **Full readiness under 3 seconds.** Cost: 5–15% of reserve by construct complexity. Counter: **Constructs inherit his Fulguria signature, readable by comparable Perception**. Each construct spends 42,500,000 to 127,500,000 EU at his stated reserve. The circle answers the invocation with a deep knock. A broken circle before readiness prevents the call from closing; the inheritance's recognition never supplies consent by force.
+
+**DISTILLATION SEAL · Clear Ledger (Technique)**
+
+Trigger: **any request to verify, not to fix.** Draws on Sublimare to isolate a single true signal from noise, full resolution under 3 seconds. *Cost: negligible EU to him —* *sometimes severe to the asker*. Counter: **Only as good as what is fed into it**. A mixed hiss narrows to one clear note as the signal separates. Missing evidence stays missing, and false input can yield a precise account of the wrong thing.
+
+**Vows** · Self-bound to the Dawn Guard's teaching vow. The Accord binds him to name the Zettari's failures in whatever room the Sovereign stands in. No numerical Grade increase is assigned to either obligation.
+
+### Releases
+
+**MANUS LAPIDIS · the Stone Hand (First Release)** · folk name: Cheotjjae puri
+
+His left hand shines through the skin like pale stone held against a lamp, blue at its centre and white around the fingers, and one clear glass note sounds from it. LAPIS works through his touch at the top of its existing S Grade, with Coagulatio gathering what is already present and Fixatio holding the finished shape. It changes how firmly his catalyst takes hold; the billionfold rate limit and the need for a reaction that can already happen remain. Full exertion spends 156,600 EU/s and lasts about 81 minutes 25 seconds from full before reaching 85,000,000 EU, the last tenth. At Stage XII the First Release is standing and needs no call: silence loses none of this First Release's rise, and the resting form does not force every touched thing to react. The quoted drain begins when he drives it at full exertion. Lead dust and sulfur smoke still choke it, and a broken touch ends the contact effect. Its limit leaves him spent and shaking; driving it below the last tenth is overchannel and risks a fracture.
+
+**CRUCIBULULUM APERTUM · the Open Crucible (Second Release)** · folk name: Duljjae puri
+
+Blue-white light spreads from his feet across 40 m of ground, the orange undertone showing around every vessel, while the glass note holds and a dry scraping sounds beneath it. This release opens and powers the Open Crucible: Coagulatio gathers its material and Fixatio holds its finished forms, while LAPIS's reaction-changing force rises from S to SS inside the field. It adds no missing ingredient, reverses no spent reaction and compels no summon. The passive perfected field at Emanation remains as recorded; the raised combat expression spends 783,000 EU/s, including the First Release within it, and lasts about 16 minutes 17 seconds from full to the last tenth. A silent raising keeps the field and its visible and audible tells but loses the extra Grade, leaving LAPIS at the top of S. Its unboosted direct reach remains 15 m. The raised field ends at the last tenth or when he lets it fall. Stronger opposing Dominion pushes its border back; distance beyond 40 m escapes it, and sulfur smoke carried inside still poisons its catalyst. Afterwards his Crystal runs Overgrown until a full night's sleep. Holding the raised field below its limit risks a Crystal Fracture Event.
+
+**HEREDITAS COMMUNIS · the Common Inheritance (Third Release)** · folk name: Setjjae puri
+
+Pale stone light outlines his ribs beneath the coat, and an ochre-amber edge runs around the blue-white field while a lower grinding note joins the singing glass. Coagulatio's settling current gives LAPIS a continuous foothold through the available material, and Fixatio holds that shared structure: his catalyst becomes local law across the whole 40 m of the Open Crucible, at SSS, two Grades over its S base. The field can contain other Domains, whose borders still contest his Dominion. Every affected reaction remains one that could already happen, with the same billionfold ceiling, and anything he hastens toward formation also hastens toward decay unless sealed. Calling the name costs a beat. Released silently, the same form, colour and sound appear, but the rise stops at SS. Full release spends 1,566,000 EU/s, including the lower release forms, and lasts about 8 minutes 9 seconds from full to the last tenth. Other workings shorten that clock. Catalyst poison remains effective, a rival with stronger Dominion can take the ground from under the field, and leaving its 40 m edge escapes its law. Afterwards he is Overgrown for a day and a night and aches as after a fever. If forced below its limit, LAPIS loses its choice of which reactions to hurry: his own reagents spoil and the material of his seals begins to fail.
+
+**Release accounting** · These clocks assume a full 850,000,000 EU reserve, no recovery and no other spending. Each higher form includes the lower form's upkeep; separate techniques and Trait bursts are additional costs. The releases raise LAPIS's worked force through Ardency and grant no extra Gnosis Grade. All self-boosts share the two-Grade cap.
+
+**Bonded weapon** · none
+
+## XI. Spirit Axes
+
+**Senior Alchemist Doryun** *(court mentor, estranged)* — **heavy, unresolved.**
+
+**Ara Min Mahuo** *(sister)* — **absolute.**
+
+**Dawn Guard** *(Sovereign, alliance-bound)* — growing, **mutual.**
+
+## XII. Resistances
+
+**Resistances** · Elevated past Concord-human baseline — strong resistance to Gnosis-overload backlash.
+
+> **Vulnerabilities.** No elemental resistances worth naming. **A target closing distance before he finishes a diagnostic read remains his genuine weak point** — *since Dexterity holds at S while Gnosis reaches SS.*
+
+## XIII. Physical Description
+
+White-blond hair, **still perpetually overgrown.** The single round lens still rides his left eye on its thin chain — **more worn now, more trusted.** A scholar's travelling coat has replaced court robes entirely. **Ink stains permanent in the creases of both hands.**
+
+His hair is pale as flax left in the sun, falling over a long face with hollow cheeks and a narrow jaw. He is lean through the shoulders and waist, with long legs and the forward stoop of someone who spends his days over a bench. The travelling coat hangs loose across his chest; its left cuff is rubbed thin, and its pockets pull down under chalk and folded teaching papers. The cloth binding covers his lost right eye. His right arm hangs still at his side.
+
+## XIV. Psychology
+
+| **Core Wound** | **Being right at fourteen cost him the chance to just be fourteen** |
+|---|---|
+| **Flaw** | **Cannot let an error sit uncorrected, even when correcting it costs him the room** |
+| **Desire** | **To make alchemical and summoning knowledge common inheritance instead of court or bloodline property** |
+| **Loop** | **Sees the truth clearly, states it plainly, gets punished for the plainness, does it again anyway** |
+| **Foil** | **Doryun** — *patience without honesty, versus Mu-jin's honesty without patience* |
+| **Voice** | Formally precise, **over-explains under stress.** Court-honorific lapses mostly worn away with age. **Explains before he is asked to. Apologises for explaining, less often than he used to.** Leans in when diagnosing, **straightens too fast when he remembers he is being watched** |
+| **Dialogue Evolution** | **Ten years ago he apologised for correcting people. Now he simply corrects them** |
+| **Stress Default** | **Removes the spectacles. Goes very still. Names the problem aloud whether anyone wants to hear it or not** |
+
+### Voice block
+
+**Speaker type** · A meticulous university chemistry lecturer whose concern for his students outruns his patience with mistakes.
+
+**Chant tongue** · Latin for the alchemical phrase he carries; Parunic for Vocatia; Sum-gol remains the house tongue.
+
+**Notices first** · The flaw: the wrong link in a glyph chain, the seal that is failing streets away, the loose thread on a person one honest push from coming undone. Then the child standing in the path of whatever is about to fall.
+
+**Sentence length** · Medium and steady in the teaching register, warmer than his court years, and it runs long whenever there is something to explain, which is usually before anyone has asked. Now and then a Sum-gol turn drops a word out of a short sentence ("Still much for you to learn.").
+
+**Contractions** · sometimes: easily with students and family ("I'll try my best"), never while he is correcting an error or reading a working.
+
+**Pet word** · "Now, now," when he gives ground; "Correct," when a student has it right.
+
+**Never says** · His rank or the old court honorifics to win an argument, even when they would win it; he gives his name and nothing above it. He never lets an error stand unspoken, and outside a Draft or a diagnosis he gives no exact figures, only "about a second and a half".
+
+**Stumbles** · Sometimes. A nervous laugh restarts the sentence; he opens his mouth, closes it and picks another battle; a concession trails off before it is finished.
+
+**Gloss rights** · Yes, freely: he is a teacher and explains whatever the room does not know, apologising for it less often than he used to.
+
+**Under stress** · Short, broken bursts that still over-explain, each fragment another piece of the mechanism. He takes the lens off, goes very still and names the problem aloud whether anyone wants it, and slips into the family plural for himself.
+
+**In grief** · Concord Common goes and the house tongue of Sum-gol comes back, the one his sister always argued better in it. He falls back on the old family sentences, a hand on her head as when she was nine, even when there is nothing under the words.
+
+**In joy** · He looks pleased for a full second before he remembers to look severe. It shows in the nervous laugh, the chalk hand rubbing the back of his neck and the palms coming up.
+
+**Sample line** · "Fine, class, we can go to the Combat Arena... but let's be careful. Still much for you to learn here at the academy."
+
+## XV. Equipment
+
+**Single Diagnostic Lens** · Gnosis-focus — ***the one thing he took from court that was actually his.***
+
+**Portable Reagent Case** · Coagulatio-warded · **Compact Draft-Circle Kit** · Vocatia-compatible · **Formula Satchel** · *teaching materials, never fully retired.*
+
+## XVI. Temperance Record
+
+**I–VI** complete — *first independent Draft correction at fourteen; left the court at Glory.* VII Refraction **— dual-sight stabilised;** Grade first touched S here, unstably, and survived it. VIII Transcendence **— first stabilised Domain seated;** began formal Vocatia training. IX Invocation **—** Wellsprings began recognising him unprompted. X Realization **— the Continuum accommodated his Domain outright.** XI Dissonance **— survived the fracture-risk crossing;** cleared the gate to exceed Level 400.
+
+**XII Emanation** · **Active.** Traits function as local physics. **XIII+ locked.**
+
+## XVII. Fracture Log
+
+> **Fracture Log · Stage V Splintering** — Tempering-Ceiling. Closed, fully integrated. *Feature: the fracture that once meant unquestioning obedience healed into a different shape entirely.*
+>
+> **Fracture Log · The Ledger-Prince title-writ** — Gnosis-Sapience. Processed, functional scar.
+>
+> *Feature: permanently sensitised to being used as proof of something rather than asked what he thinks. Ten years on.*
+
+---
+
+## Lore
+
+### The Life Behind the Card
+
+*Written 2026-09-24 by the character-lore pass from this card, the eighteen archived scenes it appears in, and the record of The Zettari war camp and the Mahuo who came to it. What those sources do not state is new here.*
+
+#### Origin
+
+Kwon Mu-jin was born into the Mahuo court line, scholar-nobility of the house at Sum-gol. His sister Ara Min came after him. The house kept a tongue of its own, which they called Sum-gol, and Ara always argued better in it. He grew up eleven miles from a mountain and helped carry men down off it. He learned there how cold takes a hand.
+
+The family's art was Vocatia, summoning, and it had one law, which every teacher in the house told every student. A summoner cannot compel. He is recognised or he is not, and a summoner who claims a standing he lacks gets nothing, and the nothing is the mercy. The house's second custom went untaught. It settled a person's life quietly, on that person's behalf, without asking them.
+
+He was born able to feel a Draft's sealing glyphs the way most people feel a held breath, and to know from streets away when a seal was failing. He went into alchemy at the court, under its Senior Alchemist, Doryun. He learned the chains that close a working. Until he was fourteen he did what his teachers told him.
+
+#### The Making
+
+Then a Fixation array came before the Senior Alchemist for a patient, and Mu-jin read its glyph chain. The chain was wrong. As drawn, the working would have killed the patient. He corrected it and presented the correction to the Senior Alchemist, because the chain was wrong and for no other reason.
+
+He was right. He was also fourteen.
+
+The court had been shown up by a child, and it answered by making him a symbol. It named him the Ledger-Prince, a name he came to resent, and paraded him as proof of the kingdom's brilliance. Nobody asked him what he wanted. Every room he entered after that had already decided what he was for. Doryun stayed patient through all of it.
+
+The obedience broke in him in those years, and it healed into another shape.
+
+Then the title-writ came. It named his grade before it named him anything else. He left the court on the day it was issued. He took a single round lens on a thin chain, the one thing from the court that was his, and he spent the years after proving that the title had been earned.
+
+#### The Cost
+
+He wanted alchemy and summoning made common inheritance, held by no court and no bloodline, and he took them on the road to teach. Ara travelled his circuit with him. At fifteen he copied out a book on breaking a net's geometry. At twenty-two he stood in front of a Legion-class working with a piece of chalk and a book, and the thing answered him. Nine students sat in his room at Sum-gol. One of them was left, Doyun. Four separate Accord assessments called Mu-jin temperamentally unsuited to field deployment. He went wherever he was sent.
+
+The Zettari Sovereign, Dawn Guard, held an inquiry into Legion Summoning and the crimes of Cozbi Mahuo. That night he asked Mu-jin, whom he had met hours earlier, to name someone of the Mahuo worth trusting and to draft the terms of an alliance under his seal. Mu-jin drafted them by lamplight in a camp still cold from the day's teaching. The Accord condemns his kinsman "without qualification and without appeal to inherited grief as excuse". It proposes Ara's marriage to the Sovereign and makes her consent its first condition, given with no brother in the room. It makes Mu-jin the line's representative until her standing is settled. It binds him to name the Zettari's failures in whatever room the Sovereign stands in. Before morning he wrote to his sister. He would not settle her life the family's way. "So I am asking you instead."
+
+At Rimward, the Holy Sea's harbour, a wall of dressed stone came down toward a boy of eleven. Mu-jin had a second and a half, and no Draft he knew formed that fast. He asked without one, as though he held a standing he did not have, and he knew what he was doing while he did it. Something answered. He lost his right eye at Rimward, and he saved Frithia's life there. Ara held both his hands for four hours. When he woke he would not discuss what had answered, because he could not give it a shape. He promised her nothing would happen to him, and he heard the sentence go out with nothing under it. She called him a liar. He agreed.
+
+Kaalabad came to Sum-gol in the autumn. In the orchard he put a spike through the eye of Raga, Mu-jin's bear, and took Mu-jin's right arm at the shoulder without touching it. Eleven of the orchard's thirty-one trees came down at the root, and nobody at the school would be the one to clear them. The arm carried no wound, and the physician wrote "no finding". In a room with a table and two cups on it, Geuk-hon told him to stop lifting it. He was holding the arm the way he had held the roster, wanting it back annotated and gradeable. He put it down and counted what was left.
+
+#### Where They Stand
+
+The card leaves him an Archmagus of the Division of Alchemetrica, self-bound to the Dawn Guard's teaching vow and embedded with the Zettari war camp. Until Ara's standing is settled, the Accord's office is his. Ten years ago he apologised for correcting people. Now he corrects them. Under strain he takes off the lens, goes very still, and names the problem aloud.
+
+On the Ashgate road he walked eleven miles toward a wrong note in the ground and found a stranger dead on a ditch bank. He closed the man's eyes. "Rest in peace." The valley shook out of him as far as the Kharven gates, and he closed his left hand and brought it down over six seconds. Kaalabad called him Geuk-hon. "That is not my name." Nine arms of written glyph came out of his dead side. At the end he opened Open Crucible, a Domain with no wall, which assayed the whole road by ownership and stripped Kaalabad of everything he had borrowed. The walls of that crucible were his own bones. The record leaves him on one lung, with Kaalabad's polearm through his chest and three fingers of his left hand frozen past saving. His left eye has gone white from lid to lid. What the eye is, and where the bolts it took went, nobody has said.
+
+The Academy years come later in the archive. He is homeroom teacher of Class X at the Aetherion Academy, with chalk on his hand and a cloth binding over the right eye. Frithia, his wife, teaches weapons in the same halls. Three of his children sit in his room. When Hiromi fought Xanelor Rafiminar in the warded ring, Mu-jin read the draw of the last arrow and threw a vial into its path. The arrow went into the floor as liquid metal, a spread hand from his son's hip. Nobody has named the winner, or what the vial held. He is climbing down into the ring.
+
+#### Ties
+
+- **Ara Min Mahuo** · sister. She held both his hands for four hours at Rimward, and he gave the Sovereign her name as a question put to her.
+- **Cozbi Mahuo** · kin by line; accuser. Mu-jin wrote the article that condemns his actions without qualification.
+- **Senior Alchemist Doryun** · court mentor, estranged. Doryun taught him and stayed patient while the court made a symbol of his pupil, and Mu-jin's card holds him heavy and unresolved.
+- **Dawn Guard, Zuberi Zettari** · alliance-bound. Mu-jin took his teaching vow and drafted the Accord under his seal.
+- **Kaalabad** · enemies. He took Mu-jin's arm and his bear's eye in the orchard at Sum-gol, and on the Ashgate road Mu-jin turned his pull on its own axis and stripped him in Open Crucible.
+- **Wren Greymane** · the stranger on the ditch bank. Mu-jin closed the man's eyes without knowing his name.
+- **Raga** · the compact. His bear lost an eye in the orchard and came back three-limbed, rebuilt from a cartwheel and a mill shaft, and the compact held.
+- **Geuk-hon** · counsel. Geuk-hon told him to put the arm down and count what was left.
+- **Frithia** · wife. He saved her life at Rimward, and in the Academy years she teaches weapons in the halls where he keeps Class X.
+- **Doyun** · student. He is the one left of the nine in Mu-jin's room at Sum-gol.
+- **Geturo Mahuo** · father and son. He teaches his eldest alchemy at a shared bench.
+- **Hiromi Mahuo** · father and son. He teaches Hiromi rudimentary summoning, and his vial stopped Xanelor's arrow a spread hand short of him.
+- **Lily Mahuo** · father and daughter. His youngest greets him as Teacher, clipped, and drafts her letters to him in her head.
+- **Xanelor Rafiminar** · teacher and student. He moved the boy's duel into a warded ring.
+- **Rikudoku Moto** · teacher and student. On the first morning the boy put his head down and slept, and Mu-jin opened his mouth, closed it and chose another battle.
+- **Kaien Thal'Ruhm · The Gilded Nomad** · Alchemetrica. Kaien was an artificer of the Division where Mu-jin holds Archmagus rank, and no record puts them at one bench.
+- **Ryuka Yukari · The Little Wayfinder** · the Mahuo. Ryuka is Mahuo on his mother's side, and no record has them meet.

@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-17",
+  "depth": "Rebuild + fill gaps: re-cut every card into desktop/templates/CHARACTER_CARD_TEMPLATE.md, build the head from the card, fill missing required pieces (Refusal, aura colour and sound, combat grammar, tell+counter per Trait, sample line, physical description) from the card's own lore; canon on use, Isaac strikes what he dislikes. Prose not rewritten.",
+  "releases": "Design them now for every Stage IV+ card (First from IV, Second from VII, Third from IX), built from Traits and Wellsprings; core cast releases go to Isaac first.",
+  "order": "Pilot the core cast (~11 cards), Isaac reads and adjusts, then the rest in batches by culture."
+}

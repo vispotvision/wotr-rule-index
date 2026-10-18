@@ -48,6 +48,7 @@ from mcp.server.mcpserver import Image, MCPServer  # noqa: E402
 
 PY = sys.executable
 SCENES = ROOT / "scenes"
+OLD_SCENES = ROOT / "lore" / "v1" / "scenes"  # the archive before the 2026-10-18 lore reset
 RULINGS = ROOT / "RULINGS.md"
 
 
@@ -531,22 +532,27 @@ def fow_line(name: str) -> str:
 
 
 @server.tool()
-def scene_recall(query: str, limit: int = 8) -> str:
+def scene_recall(query: str, limit: int = 8, old_lore: bool = False) -> str:
     """Search the scene archive (scenes/) for continuity: who said what, what happened
     where. Matches by meaning as well as by keyword, so describe the moment in your
     own words. Returns the best-matching scenes with the passages that matched.
     limit is how many scenes come back; raise it when tracing how a thread connects
-    across the archive rather than looking up one moment (the archive is 160 scenes,
-    so the old fixed 4 was the reason continuity questions came back thin)."""
-    hits = _hybrid(SCENES, "scenes", query, limit=max(1, min(limit, 25)))
+    across the archive rather than looking up one moment.
+    old_lore=True searches the archive from before the 2026-10-18 lore reset
+    (lore/v1/scenes) instead; every hit is labelled old lore and is never canon for
+    events in the current lore, only a record of what was written then."""
+    root, corpus = (OLD_SCENES, "lore-v1") if old_lore else (SCENES, "scenes")
+    hits = _hybrid(root, corpus, query, limit=max(1, min(limit, 25)))
     if not hits:
-        return f"no scene matches '{query}'"
-    editions = dict(re.findall(r"(?m)^\| (\S+\.md) \| \d+ \| (\S+) \|$", (SCENES / "MANIFEST.md").read_text(encoding="utf-8")))
+        return f"no {'old-lore ' if old_lore else ''}scene matches '{query}'"
+    manifest = root / "MANIFEST.md"
+    editions = dict(re.findall(r"(?m)^\| (\S+\.md) \| \d+ \| (\S+) \|$", manifest.read_text(encoding="utf-8"))) if manifest.exists() else {}
     out = []
     for score, p, snips in hits:
         text = _read(p)
         title = re.search(r"(?m)^#\s+(.+)$", text)
-        out.append(f"## {title.group(1) if title else p.stem}  ({p.name}, score {score}){_pre_r70_tag(p, editions)}\n" + "\n".join(snips))
+        tag = "  (OLD LORE v1: not canon for events)" if old_lore else _pre_r70_tag(p, editions)
+        out.append(f"## {title.group(1) if title else p.stem}  ({p.name}, score {score}){tag}\n" + "\n".join(snips))
     return "\n\n".join(out)
 
 

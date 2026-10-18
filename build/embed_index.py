@@ -25,6 +25,7 @@ import numpy as np
 ROOT = Path(__file__).resolve().parents[1]
 WIKI = ROOT / "wiki"
 SCENES = ROOT / "scenes"
+OLD_SCENES = ROOT / "lore" / "v1" / "scenes"  # before the 2026-10-18 lore reset
 INDEX_DIR = ROOT / "build" / "index"
 MODEL_DIR = ROOT / "build" / "models" / "fastembed"
 MODEL = "BAAI/bge-small-en-v1.5"
@@ -62,7 +63,7 @@ def _files(root: Path):
     for p in sorted(root.rglob("*.md")):
         if p.name in SKIP_NAMES:
             continue
-        if root == SCENES and "cast" in p.relative_to(SCENES).parts:
+        if root in (SCENES, OLD_SCENES) and "cast" in p.relative_to(root).parts:
             continue  # cast files repeat the scene text with speaker tags
         yield p
 
@@ -122,7 +123,7 @@ def build(verbose: bool = True) -> dict:
             old_vecs = {}
 
     chunks: list[dict] = []
-    for corpus, root in (("wiki", WIKI), ("scenes", SCENES)):
+    for corpus, root in (("wiki", WIKI), ("scenes", SCENES), ("lore-v1", OLD_SCENES)):
         for p in _files(root):
             text = _read(p)
             title = p.stem
@@ -182,7 +183,7 @@ def _load() -> dict:
 
 
 def search(query: str, corpus: str, limit: int = 5, per_file: int = 2) -> list[dict]:
-    """Best files for a query in one corpus ('wiki' | 'scenes'). Each hit:
+    """Best files for a query in one corpus ('wiki' | 'scenes' | 'lore-v1'). Each hit:
     {path, title, score, chunks: [(heading, text, score), ...]} — chunks are the
     passages that matched, best first, so the caller can show them as snippets."""
     if not available():

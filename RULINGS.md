@@ -3199,3 +3199,9 @@ Context: Indexed as R79-12. Infrastructure; amends AGENTS.md, CLAUDE.md, build/n
 Yoko Mishiro's partner is Sodoku Moto. "Temür Moto" / "Temür" on her card is the dead Büri-register name and reads as Sodoku Moto.
 
 Context: Card update pilot, 2026-10-17: Yoko's stat block named "Temür" and "Anima Spirare — Temür Moto" while her Lore said "Sodoku Moto · lovers, then married." Isaac: "its sodoku moto".
+
+## 2026-10-17 — new
+
+Yoko Mishiro and Sodoku Moto's son is Rikudoku Moto; "Riku" is his short name. One child, not two.
+
+Context: Card update pilot, 2026-10-17: Yoko's stat block says "Riku", her Lore says "Rikudoku Moto". Isaac: "riku is short for rikudoku".

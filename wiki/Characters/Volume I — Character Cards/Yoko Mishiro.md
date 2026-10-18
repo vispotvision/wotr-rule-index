@@ -21,7 +21,7 @@ title: "Yoko Mishiro"
 
 **As Of** Some years after the first Accord circle was signed. In the year of the signing she is at Kharven-Seat beside Sodoku, with their son.
 
-**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Sodoku, their son Riku, and a second child on the way**
+**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Sodoku, their son Riku (Rikudoku Moto), and a second child on the way**
 > **Catalyst Event. The lock on the pen.**
 >
 > She walked through it **on her own decision**, past a man who had already stopped waiting for her, ***because the choosing had to be hers and not a rescue she owed anyone.***

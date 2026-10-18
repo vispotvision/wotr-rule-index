@@ -37,7 +37,7 @@ pc: false
 
 **As Of** Some years after the first Accord circle was signed. In the year of the signing she is at Kharven-Seat beside Sodoku, with their son.
 
-**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Sodoku, their son Riku, and a second child on the way**
+**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Sodoku, their son Riku (Rikudoku Moto), and a second child on the way**
 
 > **Catalyst Event. The lock on the pen.**
 >
@@ -366,7 +366,7 @@ Her card keeps her at another hour. There she lives in a cabin on the Scourge's 
 === DOUBTS ===
 
 - **Partner:** ruled by Isaac 2026-10-17: Sodoku Moto. The card's old "Temür" (dead Büri register) now reads Sodoku throughout.
-- **Son:** the mechanical card says “Riku”; Lore says “Rikudoku Moto.” Both remain; the supplied card does not explicitly establish that one is the other's short name.
+- **Son:** ruled by Isaac 2026-10-17: Riku is the short name of Rikudoku Moto; one child.
 - **Ceiling arithmetic:** “Harmonics at 345” and “sixteen points shy” conflict with “Ceiling 350.” The difference is five. All original statements remain.
 - **Instability threshold:** the card says “instability risk above 320”; current Fracture of Worlds Part Five says “276–350 under strain only.” The inherited 320 wording and the 345 anomaly remain unchanged.
 - **Point economy:** the card claims “roughly 2,800” across seven stats and “roughly 1,300” in Harmonics. Its recorded means instead imply 13,770 total points. The ordinary Level-145, Stage-V pool under Part Three is 3,375: 1,200 + 675 + 1,500. No points were redistributed or existing figures reduced.

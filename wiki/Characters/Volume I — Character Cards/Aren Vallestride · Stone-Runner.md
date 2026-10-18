@@ -1,38 +1,81 @@
 ---
+private: true
+type: character-card
 title: "Aren Vallestride · Stone-Runner"
+subtitle: "Apprentice road courier and monster-scout · Stone-Runner"
+culture: "Old World borderlands"
+rung: full
+as_of: "His probationary year on the frontier march"
+sources:
+  - "Prior card: Aren Vallestride · Stone-Runner"
+  - "fow_line: Aren Vallestride"
+  - "Fracture of Worlds: Parts One to Three, Twelve and Twenty to Twenty-Three"
+  - "The Master Codex.xlsx: Fixatio, Mortalis, Verdantia, Materia, Vitalia"
+  - "The Color of Essence: Refinement Spectrum and Eight Families"
+pc: false
 ---
 
 # Aren Vallestride · Stone-Runner
 
-## Aren Vallestride · Stone-Runner
-
-**Say it** · AIR-en VAL-eh-stride
-> *"If my legs still work, then the road isn't finished with me yet."*
+**Aren Vallestride** · Stone-Runner · Old World borderlands · as of his probationary year on the frontier march  
+**Stat line** · Level 46 · Band I, Mortal Foundation · Stage III, Ascension · Path Body dominant, Spirit secondary, Attraction least · Journeyman · η ~0.65 · Aether Class Unclassed · Crystal Awakened, state unrecorded  
+**Combat grammar** · Blade  
+**Aura and sound** · colour: smoke-brown with a muted ochre tint, leaking unevenly around his legs and boots · signature sound: a low stone-knock followed by a gritty scrape  
+**Stack** · sustainable C · cap +2 Grades · layers: no additional boost layer recorded  
+**Releases** · none at Stage III · bonded weapon: none; Borrowed Outrider Sword remains unbound  
+**Traits** · ROAD-HARDENED STAMINA (Primary) · tell: breath settles while he keeps walking · counter: sustained exertion without a recovery interval / INSTINCTIVE GUARD (Passive) · tell: knees soften and elbows close before the blade rises · counter: a false approach followed by a change of side / MULE-HEART RESOLVE (Secondary) · tell: he checks his charge and plants himself again · counter: physical restraint or two charges threatened apart  
+**Techniques** · GROUND-LOCK STEP · tell: heel sets, ochre rims the sole, stone knocks · counter: spoil the footing or strike above the anchored leg / STONE-TRAIL REVERSAL · tell: shoulders turn over the planted heel, grit scrapes sideways · counter: check the rush or pass outside his sweeping leg  
+**Voice** · "If my legs still work, then the road isn't finished with me yet." · speaker type: a young farm labourer turned courier, plainspoken and willing to explain
 
 ---
 
-### I · Identity
+## I. Identity
+
+**Pronunciation** · AIR-en VAL-eh-stride
+
+> *"If my legs still work, then the road isn't finished with me yet."*
 
 **As Of** · His probationary year on the frontier march
 
-**Name** · Aren Vallestride. **Called** · Stone-Runner. **Also known as** · The Boy with the Borrowed Sword, Dust-Track Aren. **Epithet** · He Who Refuses to Stay Down.
+**Full Name** · Aren Vallestride. **Alias / Title** · Stone-Runner. **Also Known As** · The Boy with the Borrowed Sword, Dust-Track Aren. **Epithet** · He Who Refuses to Stay Down.
 
-**Race** · Human, borderland farmstead stock of the Old World.
+**Race / Lineage** · Human, borderland farmstead stock of the Old World.
 
-**Role** · **Apprentice road courier and monster-scout.** 
+**Role** · **Apprentice road courier and monster-scout.**
 
 **Gloss rights** · Yes, nothing about him is guarded; he'll explain the anchors to anyone who asks.
 
-#### Affiliation
+### Affiliation
 
 A Guild Accord–chartered courier line running low-risk routes along the frontier march, riding probationary with a minor caravan-company. Loyalty runs to the people walking beside him first, to whatever flag they carry second.
+
 > **Catalyst Event · Stage III, Ascension.** *The Threshold this Stage asks for is a technique developed independently, not from instruction*, and Ground-Lock Step is exactly that: nobody taught Aren to hook his weight into the earth, he found it the first time a wagon-raid nearly killed him and needed his legs to do something they had never done before.
-> 
+>
 > **His village was abandoned in a minor Withering surge.** A Well nearby went hostile, the way Wells do, and there was nothing left to guard when he came of age to guard it. Everything since is that debt, paid forward onto other people's caravans.
 
----
+**School and sect rank** · Self-taught; apprentice road courier, riding probationary with the caravan-company.
 
-### II · Soul Architecture
+**Renown** · Trusted by the guards and civilians of his runs beyond his probationary rank; known on the march as Stone-Runner, Dust-Track Aren and the Boy with the Borrowed Sword. Epithet: He Who Refuses to Stay Down.
+
+**Refusal** · He will not leave a living charge behind to save freight or secure his own place on the caravan.
+
+**Conviction** · Everyone entrusted to his road deserves someone who comes back for them.
+
+## II. Soul Architecture
+
+**Level** · 46
+
+**Band** · I, Mortal Foundation
+
+**Temperance Stage** · III, Ascension
+
+**Path** · Body dominant, Spirit secondary, Attraction least.
+
+**Tier of Standing** · Journeyman
+
+**Aether Class** · Unclassed
+
+**Essence Typology** · Materia dominant; faint Vitalia harmonizations.
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).** The awakening Shell flickers with first resonance; Essence leaks unevenly along his legs and boots, which is the mechanism behind every mis-timed anchor and every bone-deep bruise he's taken from his own technique.
 
@@ -44,9 +87,7 @@ A Guild Accord–chartered courier line running low-risk routes along the fronti
 
 **The stubborn part of the Core** · Nothing ornate. A soul that has decided, repeatedly and under real pressure, to stand back up.
 
----
-
-### III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Fixatio** · Materia. **The anchoring law: what is held by Fixatio stays held.** *This is Ground-Lock Step's whole mechanism. The Wellspring doesn't strengthen his legs, it makes the ground refuse to let his weight go until he releases it himself.*
 
@@ -56,46 +97,90 @@ A Guild Accord–chartered courier line running low-risk routes along the fronti
 
 **Network** · Zero additional Wellsprings. Clean pattern, faint signal.
 
----
-
-### IV · Primary Stats
+## IV. Primary Stats
 
 **Stage III, Ascension** · **Level 46** · Level Band I · Tier of Standing 3, Journeyman · Grade C · Ceiling 175.
+
 > **Pool 2,120** (920 from Band I, 1,200 from Thresholds I–III). **Allocated 2,075.**
 
-| Stat | Value | Grade | Reading |
-|---|---|---|---|
-| **Dexterity** | **168** | C | Near ceiling. The footwork and the blade are the whole discipline |
-| Vitality | 150 | C | Road-Hardened Stamina, and the physiology underneath it |
-| Ardency | 132 | C | Anchor discharge force. Enough to move a body he shouldn't be able to |
-| Resilience | 118 | C | What lets him brace in the path of things that should crush him |
-| Tempering | 96 | D | Still learning control; this is where the mis-timed backlash lives |
-| Gnosis | 58 | D | Not scholarly. He weaponizes repetition, not theory |
-| Harmonics | 47 | E | Solitary pattern, zero network |
-| Dominion | 34 | E | **His floor. He guards a caravan and commands nothing** |
+| Primary | Total | Mean | Grade | Reading |
+|---|---|---|---|---|
+| **Dexterity** | 1344 | **168** | C | Near ceiling. The footwork and the blade are the whole discipline |
+| Vitality | 1200 | 150 | C | Road-Hardened Stamina, and the physiology underneath it |
+| Ardency | 1056 | 132 | C | Anchor discharge force. Enough to move a body he shouldn't be able to |
+| Resilience | 944 | 118 | C | What lets him brace in the path of things that should crush him |
+| Tempering | 768 | 96 | D | Still learning control; this is where the mis-timed backlash lives |
+| Gnosis | 464 | 58 | D | Not scholarly. He weaponizes repetition, not theory |
+| Harmonics | 376 | 47 | E | Solitary pattern, zero network |
+| Dominion | 238 | 34 | E | **His floor. He guards a caravan and commands nothing** |
 
 **Path** · Body dominant, Spirit secondary, Attraction least.
+
 > **Dominion 34 on a boy who lost a whole village.** He isn't building an empire. He's building a habit of nobody vanishing on his watch, one caravan at a time, and that habit doesn't require the Crystal to recognize him as anyone's sovereign.
 
----
+**Unspent Pool** · 45 points.
 
-### V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Dexterity Celerity 172** *(near ceiling)* · Vitality Fortitude 158 · Dexterity Finesse 150 · Ardency Density 140 · Resilience Anchoring 128 · Tempering Clarity 100 · Gnosis Perception 62 · Harmonics Chord 40.
 
----
+**Current Harmonics name** · Breadth 40; Chord is the older name absorbed by Breadth.
 
-### VI · Traits
+## VII. Aether Flow
 
-**Road-Hardened Stamina** · **Recovers from moderate strain fast enough to keep fighting or running long after others tire.**
+**EU Reserve** · 10,222 EU.
 
-**Instinctive Guard** · **Reflexively takes efficient, minimal stances with no formal training behind them.**
+**Working duration** · Ground-Lock Step: 120 seconds of continuous holding from full, reaching the ten-percent floor at 108 seconds, before other spending or recovery. Leg strain can end the working sooner.
 
-**Mule-Heart Resolve** · **Once he commits to guarding someone or reaching a destination, coercion and fear-effects struggle to divert him short of breaking his legs.**
+## VIII. Traits
 
----
+**ROAD-HARDENED STAMINA (Primary Trait)**
 
-### VII · Artifacts
+**Recovers from moderate strain fast enough to keep fighting or running long after others tire.** His Core favours recovery between efforts, so his breathing settles while he is still walking and his stride lengthens again. Food, water and sleep pay for what he has put off; the Trait does not mend a torn leg or replace spent Essence. Unbroken pressure denies the recovery interval, and hunger or thirst wears the advantage away.
+
+**INSTINCTIVE GUARD (Passive Trait)**
+
+**Reflexively takes efficient, minimal stances with no formal training behind them.** His Shell follows the small corrections his body learned on the road, keeping his weight over his feet and his arms close without a conscious command. His knees soften and his elbows draw in before his sword rises. Holding the posture still tires his legs, and the reflex knows only movements he has survived; a convincing false approach followed by a change of side draws his guard away from the real threat.
+
+**MULE-HEART RESOLVE (Secondary Trait)**
+
+**Once he commits to guarding someone or reaching a destination, coercion and fear-effects struggle to divert him short of breaking his legs.** Commitment steadies his Core around that task; his eyes return to the person or road he has chosen and his feet plant again. The cost is a narrowing attention that makes changing duties difficult even when he is tired or the situation has changed. It grants no knowledge of deceit and no extra strength to escape a restraint. Two people threatened beyond each other's reach divide the duty he can physically fulfil, and a rope, a blocked road or a pin can stop his body while his resolve holds.
+
+## X. Techniques
+
+**GROUND-LOCK STEP (Signature Technique)**
+
+Aren stamps or slides a foot, and Fixatio's law takes hold of the ground beneath it: what he's anchored to stays anchored until he chooses to release it. Attempts to throw or push him bleed off into the earth, and the stored force feeds his next strike or dash. Heavy use in one encounter leaves his legs throbbing and unstable afterward, sometimes hours before he can anchor again. It needs solid ground. Wide-area effects that liquefy or destabilize terrain, swamp, sand, ice, an Essence-mist field, disrupt the anchor and can discharge the stored vector straight into him, off-balance and unguarded. Take the ground out from under him, or take the sky. Flight and high-ground opponents neutralize most of his kit; without something solid to hook into, he loses the largest share of his advantage. **What nobody knows.** Whether the anchor is his own Aether, or an echo of the dead outrider's decades of road-duty still living in a sword Aren hasn't earned yet. The hold fixes a small patch beneath his sole; releasing it breaks a thin seam of that patch and leaves the cured grit behind, without undoing Fixatio's cure. His heel settles before a low stone-knock, and muted ochre gathers around the sole. Each six seconds of a committed hold costs 511.1 EU, 5% of his full reserve; continuous holding spends the reserve in 120 seconds, reaching the ten-percent floor at 108 seconds, before other spending or recovery. His legs may fail sooner. Returned force comes from the shove he received and remains within his C-Grade capacity; a failed patch releases its load through him. Before contact, loose footing prevents a sound hold; during contact, a cut or thrust above the foot can hurt him without shifting the anchor; after release, his newly moving foot must find sound ground before another hold can catch.
+
+**STONE-TRAIL REVERSAL (Technique)**
+
+Aren holds one foot with Ground-Lock Step, turns his body around it, and releases the stored shove into a short sideways step while his free leg sweeps across a charging opponent's support. A falling leader can foul the people rushing close behind. The planted heel and turning shoulders show the sweep before it lands; the stone-knock ends in a sharp sideways scrape. One reversal costs 817.76 EU, 8% of his full reserve, including up to six seconds of anchoring, and leaves the throbbing, unstable legs that follow heavy use. From full he can pay for twelve reversals; the twelfth takes him below the ten-percent floor. It needs sound ground, a body within leg's reach and a committed advance. A checked rush, a step outside the sweep or a broken foothold defeats it; it cannot trip a distant or airborne opponent.
+
+**Bonded weapon** · None. The Borrowed Outrider Sword is unbound.
+
+## XIII. Physical Description
+
+His hair is brown as dry oat husks, cut short with a few longer tufts over the ears. He has brown eyes, a broad mouth and a nose that sits a little crooked between weather-reddened cheeks. Walking has made his calves thick and his waist spare; his forearms are corded from packs, pegs and the borrowed sword. A coarse brown tunic hangs loose at the chest and pulls across his shoulders beneath the pack straps. Its cuffs are rubbed thin, its collar patched, and his trousers have darker cloth sewn over both knees. His leather boots are worn unevenly at the heels. Chalk remains in the creases of his fingers, and old yellow bruises show along his shins when he rolls his trousers up.
+
+## XIV. Psychology
+
+**Voice block**
+
+**Speaker type** · A young farm labourer turned courier, plainspoken and willing to explain.
+
+**Notices first** · Who has fallen behind, where a foot will hold, and whether the people beside him can keep moving.
+
+**Sentence length** · Short when moving; longer when somebody asks how an anchor works.
+
+**Contractions** · Usual in ordinary speech.
+
+**Stress shift** · Repeats the person's name or the destination while checking that they can still move.
+
+**Gloss rights** · Yes, nothing about him is guarded; he'll explain the anchors to anyone who asks.
+
+**Sample line** · "If my legs still work, then the road isn't finished with me yet."
+
+## XV. Equipment
 
 **Borrowed Outrider Sword** · *Unbound / Weapon.* A sturdy, chipped short sword that belonged to a dead outrider, carried on the promise of returning it once Aren "earns the right to carry it." Not innately magical, but well-balanced, deeply attuned to road-duty, and it resonates faintly with Ground-Lock Step, carrying stored momentum into the edge.
 
@@ -103,43 +188,9 @@ A Guild Accord–chartered courier line running low-risk routes along the fronti
 
 ---
 
-### VIII · Signature
+## Lore
 
-#### Ground-Lock Step
-
-**Effect** · Aren stamps or slides a foot, and Fixatio's law takes hold of the ground beneath it: what he's anchored to stays anchored until he chooses to release it. Attempts to throw or push him bleed off into the earth, and the stored force feeds his next strike or dash.
-
-**Cost** · Heavy use in one encounter leaves his legs throbbing and unstable afterward, sometimes hours before he can anchor again.
-
-**Limit** · It needs solid ground. Wide-area effects that liquefy or destabilize terrain, swamp, sand, ice, an Essence-mist field, disrupt the anchor and can discharge the stored vector straight into him, off-balance and unguarded.
-
-**Counter** · Take the ground out from under him, or take the sky. Flight and high-ground opponents neutralize most of his kit; without something solid to hook into, he loses the largest share of his advantage.
-> **What nobody knows.** Whether the anchor is his own Aether, or an echo of the dead outrider's decades of road-duty still living in a sword Aren hasn't earned yet.
-
----
-
-### IX · Relationships
-
-**A minor caravan-company** along the frontier march, contracted to the Guild Accord for low-risk border routes.
-
-**The family of the outrider whose sword he carries** · Unmet. Finding them, and returning the blade, is the standing debt he's working toward.
-
-**Fellow guards and civilians on his runs** · Trust him more than his probationary rank suggests, on the strength of the Hollow Ford Run and the Black Cart Ambush.
-
----
-
-### X · Chapter Appearances
-
-*No chapter or volume citation survives on the source card.* The two Incident Records below stand in as the only attested appearances, pending placement in a numbered chapter:
-
-**The Hollow Ford Run** · Ran through the night on failing legs to warn a village of a Withering-spawned nest under their bridge; his anchors collapsed the ford mid-fight, cutting the creatures off before they could swarm inland.
-
-**The Black Cart Ambush** · Used Stone-Trail Reversal to trip a raider charge; three wagons lost, every civilian lived.
-> **Codex** · Materia / Material Science / Fixatio primary / Stage III.
-
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of Old World roads and chains. What those sources do not state is new here.*
 
@@ -184,3 +235,21 @@ He has one answer for anyone who asks why he gets up again: "If my legs still wo
 - **The family of the dead outrider** · the debt. He has never met them, and he owes them the blade.
 - **A minor caravan-company** · probation. He rides with it on probation, on the low-risk border routes it is contracted to run for the Guild Accord.
 - **The guards and civilians of his runs** · trust. They trust him past his probationary rank on the strength of the Hollow Ford Run and the Black Cart Ambush, and he counts them at every halt.
+
+### Relationships
+
+**A minor caravan-company** along the frontier march, contracted to the Guild Accord for low-risk border routes.
+
+**The family of the outrider whose sword he carries** · Unmet. Finding them, and returning the blade, is the standing debt he's working toward.
+
+**Fellow guards and civilians on his runs** · Trust him more than his probationary rank suggests, on the strength of the Hollow Ford Run and the Black Cart Ambush.
+
+### Chapter Appearances
+
+*No chapter or volume citation survives on the source card.* The two Incident Records below stand in as the only attested appearances, pending placement in a numbered chapter:
+
+**The Hollow Ford Run** · Ran through the night on failing legs to warn a village of a Withering-spawned nest under their bridge; his anchors collapsed the ford mid-fight, cutting the creatures off before they could swarm inland.
+
+**The Black Cart Ambush** · Used Stone-Trail Reversal to trip a raider charge; three wagons lost, every civilian lived.
+
+> **Codex** · Materia / Material Science / Fixatio primary / Stage III.

@@ -1,7 +1,10 @@
 # Card update brief (2026-10-17)
 
 You are converting ONE War of the Realms character card to the current card law. Isaac's
-answers are in `imports/drafts/card-update/answers.json`. Read before writing:
+answers are in `imports/drafts/card-update/answers.json`. Do NOT call the `natalie` tool: `desktop/NATALIE.md`
+replaces it. If any wotr tool call is refused or unavailable, read the files directly
+(desktop/NATALIE.md, rules/*.yaml, wiki/, the card) and carry on; never stop without producing
+the card. Read before writing:
 
 1. `desktop/templates/CHARACTER_CARD_TEMPLATE.md` — the one skeleton. The head is required;
    every section after it is a menu (keep what the character has, drop empty sections).

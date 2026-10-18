@@ -1,17 +1,36 @@
 ---
+private: true
+type: character-card
 title: "Argen Vael'thar · The White Arbiter"
+subtitle: "Prime Arbiter of the Concord Council · Merciful Iron"
+culture: Eresse
+rung: full
+as_of: "After the Seer's answer on Aethryn"
+sources: "Prior Argen Vael'thar card; character and fow_line; Fracture of Worlds Parts One, Sixteen, Twenty-One and Twenty-Three; Master Codex; Release Forms; Release Folk Names; The Color of Essence"
+pc: false
 ---
 
 # Argen Vael'thar · The White Arbiter
 
-## Argen Vael'thar · The White Arbiter
-
-**Say it** · AR-gen VAYL-thar
-> *"Judgment is not to end the guilty. It is to remind the living of consequence."*
+**Argen Vael'thar** · The White Arbiter · Eresse · as of After the Seer's answer on Aethryn  
+**Stat line** · Level 284 · Band III, Sovereign · Stage IX, Invocation · Path Fate dominant, Spirit secondary · Master · η 0.70 to 0.75 · Aether Class V, Radiant · Crystal Sovereign, Refined, Longevity eroding  
+**Combat grammar** · Verdict  
+**Aura and sound** · colour: white, held steady; arc-blue enters the edge during Third Release · signature sound: a clear bell-note beneath his voice, cracking at a spoken lie  
+**Stack** · sustainable S binding; SS Gnosis, Dominion and Resilience as recorded · cap +2 Grades per affected stat or effect · layers: First Release at the top of the existing Grade, Second +1, Third +2 to its named binding alone  
+**Releases** · MERCIFUL IRON (First Release) / COURT OF THE KEPT WORD (Second Release) / THE WITNESS STANDS (Third Release) · bonded weapon: none  
+**Traits** · JUDICIAL KINDNESS (Primary) · tell: open hand settles and its light steadies · counter: split his attention or change the flow / FIXATIO MIND (Passive) · tell: identical pauses in a repeated clause · counter: evidence outside the remembered precedent  
+**Techniques** · SEAL OF EQUILIBRIUM · tell: closing white outline and dry click · counter: break the unfinished sigil / ECHO TRIBUNAL · tell: pale likeness and paper-dry second voice · counter: force his attention elsewhere / CONCORD RESONANCE · tell: ringing speech, brittle break at a lie · counter: silence, sincere error, or separation from Saphri  
+**Voice** · "Judgment is not to end the guilty. It is to remind the living of consequence." · speaker type: an elderly appellate judge instructing junior counsel  
+**Next gate** · Stage X, Realization · Catalyst: Domain achieving Continuum accommodation · Band gate: Stage X before passing Level 300 · pressure: failing Longevity, the decree for Aethryn and Vaelthor's advance toward sole authority
 
 ---
 
-### I · Identity
+## I. Identity
+
+**Full Name** · Master Argen Vael'thar  
+**Pronunciation** · AR-gen VAYL-thar
+
+> *"Judgment is not to end the guilty. It is to remind the living of consequence."*
 
 **As Of** · After the Seer's answer on Aethryn
 
@@ -28,13 +47,24 @@ title: "Argen Vael'thar · The White Arbiter"
 #### Affiliation
 
 **Guild Accord, Arbitration Division**, at its head. **Reports only to the High Concordant.** *The longest-serving Prime Arbiter in recorded Accord history, credited with rewriting nearly a quarter of the Codex of Absolute Magical Law after the Crevice Wars (unattested).* **Fewer than five Total Severances sanctioned in a century of service.** Presiding over the Reconstruction Councils following the Third Wellspring Collapse *(both unattested)*; mentors young Sealwrights in Eresse's Grand Hall of Harmony *(unattested)*.
+
 > **Catalyst Event · Stage IX, Invocation.** *Calling on Archonic law as co-author; the Domain consolidates into a Realm.*
-> 
+>
 > **He rewrote a quarter of the Codex.** *A man who writes law that the Lattice then enforces has called on Urion's Judicaris as co-author whether or not he would put it that way, and the rulings are whispered to weigh as heavily as Concord seals because, on the Lattice, they do.* **The Realm is the court. He is the still center it revolves around.**
 
----
+**School and sect rank** · Guild Accord, Arbitration Division · Master; Prime Arbiter  
+**Renown** · public: The White Arbiter, Merciful Iron · guilds: longest-serving Prime Arbiter, overseer of Concord Trials and Severances · students: teacher of Eresse's young Sealwrights  
+**Refusal** · He will not knowingly pass a sentence on words the accused never said.  
+**Conviction** · Judgment must leave the living able to answer for what they have done; mercy requires a form that can hold.
 
-### II · Soul Architecture
+## II. Soul Architecture
+
+**Level** · 284  
+**Band** · III, Sovereign  
+**Temperance Stage** · IX, Invocation  
+**Tier of Standing** · Master  
+**Soul Crystal Tier** · Sovereign  
+**Essence Typology** · Fulguria; Fixatio supplies the Materia harmonization
 
 **Aether Shell** · **Class V · Radiant.** Aether bends toward him; a courtroom quiets before he speaks.
 
@@ -44,19 +74,18 @@ title: "Argen Vael'thar · The White Arbiter"
 
 **Essence colour** · White, the Fulguria hue held so steady it reads as absence of colour.
 
----
-
-### III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Judicium** · Fulguria. **Governing.** *Emission and absorption spectroscopy: every substance emits at wavelengths fixed by its own structure and none can present another's spectrum.* **He reads the characteristic lines of a Crystal, a technique, or a lie, and identifies composition from signature alone.** *Failure: spectral overload. Every object in view reports its composition at once and the practitioner loses the ability to prioritise any of it. Saphri exists because of this line.*
 
 **Fixatio** · Materia. *Thermoset cure: covalent bridges across the whole network, and the alternative configuration no longer exists as a reachable state.* **Seals that halt a collapse hold because the collapse is no longer a state the thing can reach. Fixatio Mind is the same cure applied to memory.** *Failure: irreversibility. A binding placed in error is permanent, and so is a verdict.*
 
----
+**Physics Domains** · Judicium: Electromagnetism · Fixatio: Material Science
 
-### IV · Primary Stats
+## IV. Primary Stats
 
 **Stage IX, Invocation** · **Level 284** *(estimate)* · Level Band III · Tier of Standing 6, Master · Tier of Standing 6, Master · Grade S with late push toward SS · Ceiling 625.
+
 > **Pool 11,520** · 4,500 from Bands I and II, 2,520 from Band III, 4,500 from Thresholds I to IX. **Allocated 11,462.** Pool by the brief's rates; the live Part Three page rates leveling at 1,200 / 1,500 / 1,800 per Band and would give 8,712. **The disagreement is flagged, not resolved.**
 
 | Stat | Value | Grade | Reading |
@@ -71,57 +100,79 @@ title: "Argen Vael'thar · The White Arbiter"
 | Vitality | 276 | A | **His floor. The health wanes** |
 
 **Path** · Fate dominant, Spirit secondary *(read from the card)*.
+
 > **Vitality 276 under a Gnosis of 618.** *The gap is the sheet's diagnosis: the mind is at the top of the Stage and the body is at the bottom of the Grade, and the card says the same in fewer words. His will is immovable because it is the only part of him that still is.*
 
----
+**Unspent Pool** · 58 against the stated pool of 11,520 and allocation of 11,462.
 
-### V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Gnosis Retention 625** *(at ceiling)* · Gnosis Fluency 620 · **Dominion Command 612** · Gnosis Analysis 600 · Resilience Oath 598 · Dominion Fate 590 · Resilience Ward 580 · Harmonics Projection 560 · Harmonics Stability 545 · Tempering Maturity 530 · Dominion Gravity 520 · Ardency Density 440 · Vitality Constitution 250.
+
 > **Tempering Longevity 380, failing.** *The one line under its Primary, and the one the card names: his health wanes.*
 
----
+## VII. Aether Flow
 
-### VI · Traits
+**EU Reserve** · 11,450,000 EU  
+**Last tenth** · 1,145,000 EU; releases stop here.  
+**Spending tells** · At half reserve his breath shortens and the white aura dims; at a quarter his hands tremble and its colour thins; at a tenth the light flickers and remembered clauses begin to falter.  
+**Sustained workings** · Concord Resonance: 171,750 EU per minute · Echo Tribunal: 34,350 EU per minute per echo · each Seal of Equilibrium: 229,000 EU.
 
-**Fixatio Mind** · **Near-perfect memory of Codex law and metaphysical precedent.** *Passive, the Resonant Reflection; the cure applied to memory.*
+## VIII. Traits
 
-**Seal of Equilibrium** · **Projects binding sigils that halt Wellspring collapse or Essence overflow.** Technique, carried here pending its own entry.
+**JUDICIAL KINDNESS (Primary Trait)**
 
-**Echo Tribunal** · **Manifests ethereal copies of past selves to conduct simultaneous judgment sessions.** *Each echo is a verdict he has already given, recorded in the Codex Shard and given a shape; Animatria, and they stop the moment his attention does.* Technique, carried here pending its own entry.
+Measured, and mistaken for gentle. *Mercy through structure, forgiveness through restitution.* **"Every law begins as a confession."** Judicium makes a failing flow stand out to him as a strain that can be held, and Fixatio lets him keep the sound part of its pattern steady while he judges where the binding belongs. The benefit is steadiness in a seal he already knows how to make; it grants no new knowledge of guilt. His open hand settles palm-down and the white light around it stops fluttering. Its ordinary cost is the attention held on that pattern, with fatigue and a growing reluctance to reconsider it during a long hearing; each seal still pays its own Essence cost. Two unrelated failures divide that attention, and a fresh change in the target's flow defeats a correction chosen for the earlier state. Sincere error remains sincere error.
 
-**Judicial Kindness** · Measured, and mistaken for gentle. *Mercy through structure, forgiveness through restitution.* **"Every law begins as a confession."**
+**FIXATIO MIND (Passive Trait)**
 
----
+**Near-perfect memory of Codex law and metaphysical precedent.** *Passive, the Resonant Reflection; the cure applied to memory.* He repeats a remembered clause with the same pauses each time, even when the question changes. The standing cost is rigidity: an old interpretation remains as readily present as the words that first supported it, and he must consciously separate the two. It preserves what he has encountered and gives him no memory of an unheard fact. New evidence or a precedent that never entered his memory defeats an answer drawn solely from recall; the Trait cannot decide that its remembered source was truthful.
 
-### VII · Artifacts
+## IX. Domain
 
-**Rings of Verdict** · *Paired artifacts worn at the neck.* **Resonate with truth and falsehood**; said to vibrate when falsehood nears. Used during Trials of Resonance. *He wears no other sigil.*
+**COURT OF THE KEPT WORD (Domain / Realm)**
 
-**Mantle of Pale Equinox** · *Fur-lined Concord vestment, woven from extinct frostbeasts slain during the Withering Era.* **Nullifies emotional interference in court.** *The source of the title.*
+His court gives a heard statement and a read working a stable place to be examined: the speaker's words persist beside the speaker, and the state he has read persists beside the working until he releases that comparison. The white boundary reaches 12 metres from him and settles over one spoken call; it moves with him without carrying anyone caught inside. The Second Release opens it and pays its 1,431.25 EU-per-second maintenance, allowing 2 hours from full to the last tenth when nothing else draws. At his Stage IX, it has Realm structure; the Third Release supplies the full strength needed to uphold his named condition against a Domain nested inside it. The court adds no knowledge to his hearing, cannot identify an honestly believed falsehood and cannot reverse the permanent cure of an erroneous seal. A person outside the ring is outside its law. Dominion can contest its ground, and sustained overload can take away the attention keeping it coherent. Voluntary dismissal closes it without undoing completed seals; a forced collapse sends its accumulated strain back through the court and its bearer.
 
-**Codex Shard** · *Personal crystalline fragment of the Lattice.* **Records every verdict he utters.**
+## X. Techniques
 
-**Saphri** · *Companion. A small fox-like creature, rumoured to be an artificial familiar forged from Wellspring song.* **Aide and mnemonic anchor; keeps his resonance stable during prolonged judgments.** *Vocatia-made, if the rumour holds.*
+**SEAL OF EQUILIBRIUM (Technique)**
 
----
+**Projects binding sigils that halt Wellspring collapse or Essence overflow.** Technique, carried here pending its own entry. Judicium reads the failing flow and Fixatio closes its surviving structure around the state he has chosen to preserve. A white outline draws shut with a dry click. Each completed seal costs 229,000 EU, 2% of his full reserve; the error cost is the same permanent cure described by his Wellspring. The binding needs a readable target and a continuous place for its sigil to close. A change of flow before closure makes the chosen correction wrong, and breaking the unfinished sigil prevents the cure. Once it has set, destroying the bound carrier ends what that carrier can hold without restoring its former state; the release of a court does not undo a completed seal.
 
-### VIII · Signature
+**ECHO TRIBUNAL (Technique)**
 
-#### Concord Resonance
+**Manifests ethereal copies of past selves to conduct simultaneous judgment sessions.** *Each echo is a verdict he has already given, recorded in the Codex Shard and given a shape; Animatria, and they stop the moment his attention does.* Technique, carried here pending its own entry. The Shard gives a pale figure an old verdict's words and gestures; a paper-dry second voice begins just after his own. Each echo costs 34,350 EU per minute, 0.3% of full reserve, for as long as it stands. One echo alone reaches the tenth-reserve stopping point in 300 minutes from full; further echoes and other workings draw from the same store. An echo has the judgment it was given, with no independent discovery of later facts. Removing the Shard prevents new echoes, and a demand that makes Argen attend wholly elsewhere ends those already present. Conflicting new evidence exposes the limits of the recorded judgment without requiring anyone to overpower it.
 
-**Effect** · **His voice triggers harmonic alignment; lies fracture when spoken nearby.** A statement carries the spectrum of the soul that made it, and a lie presents a spectrum that is not its own. Under his Command the mismatch shows: the false statement will not hold its shape in the air, and the room hears it break.
+**CONCORD RESONANCE (Signature Technique)**
 
-**Cost** · **Spectral overload.** While the resonance runs, everything in view reports its composition at once, and prioritising any of it is Saphri's job rather than his. *What he carries out of court: a man who hears every falsehood in a room has stopped being able to sit in one comfortably, and has not for decades.*
+**Effect** · **His voice triggers harmonic alignment; lies fracture when spoken nearby.** A statement carries the spectrum of the soul that made it, and a lie presents a spectrum that is not its own. Under his Command the mismatch shows: the false statement will not hold its shape in the air, and the room hears it break. **Cost** · **Spectral overload.** While the resonance runs, everything in view reports its composition at once, and prioritising any of it is Saphri's job rather than his. *What he carries out of court: a man who hears every falsehood in a room has stopped being able to sit in one comfortably, and has not for decades.* **Limit** · **Speech, within hearing.** Silence presents no spectrum. A sincere error is not a lie and does not fracture. **Counter** · **Say nothing.** *Or say only what you believe: Judicium reads composition, and a man who has convinced himself presents a true spectrum of a false thing.* Remove Saphri and the overload has nobody managing it. A thin ringing note settles beneath his speech; a false statement breaks it with a brittle crack. The working spends 171,750 EU per minute, 1.5% of his full reserve, and reaches the tenth-reserve stopping point after 60 minutes if nothing else is drawing. Before it takes hold, a speaker beyond his hearing presents nothing it can examine. During it, silence, sincere error and the loss of Saphri remain its counters. After it, the overload leaves competing sounds difficult to separate, so a new question spoken over another voice can escape a clean reading.
 
-**Limit** · **Speech, within hearing.** Silence presents no spectrum. A sincere error is not a lie and does not fracture.
-
-**Counter** · **Say nothing.** *Or say only what you believe: Judicium reads composition, and a man who has convinced himself presents a true spectrum of a false thing.* Remove Saphri and the overload has nobody managing it.
 > **What nobody knows.** Which of the fewer-than-five Total Severances he still thinks was wrong, and why the Codex Shard has a gap where one verdict should be.
 
----
+### Releases
 
-### IX · Relationships
+**MERCIFUL IRON (First Release)** · folk name: In voice; Accord chancery: Sine mensura
+
+White light fills the creases of his hands and makes his eyes shine beneath their lids; the pale fur at his shoulders lifts as a single clear bell-note sounds. Judicial Kindness steadies the pattern he has chosen, with Fixatio Mind keeping its terms exact, and his binding workings reach the top of their own Grade while his other figures stand. The release draws 715.625 EU per second and holds for 4 hours from full, ending at 1,145,000 EU remaining; further workings shorten that time. It helps him hold a chosen correction and cannot make a mistaken correction true. Released silently, the hands, eyes and bell-note remain, but the binding gains no rise to the top of its Grade. The call takes a beat during which an opponent can change the target's flow or break an unfinished sigil; during the hold, divided attention and separation from Saphri burden the same old weakness. Afterwards his hands shake and fine seals become difficult to close. Forcing the form below its last tenth turns it into an overchannel with fracture risk.
+
+**COURT OF THE KEPT WORD (Second Release)** · folk name: A held chord; Accord chancery: In districtu suo
+
+The light leaves his hands and lays a white ring across the floor, his mantle brightening until its fur looks lit from within; the bell-note becomes a held chord, and spoken words leave pale traces beside the mouths that uttered them. This opens and powers his court Domain. Within its 12-metre radius, Judicial Kindness holds a heard statement or a read working steady for examination, while Fixatio Mind keeps what was actually heard distinct from its later repetition. His S-Grade binding effect rises to SS inside the field, and no other stat rises with it. The release draws 1,431.25 EU per second and holds for 2 hours from full, ending at the last tenth; this is the Domain's maintenance cost, paid once, with seals, echoes and Concord Resonance charged separately. It cannot provide an unspoken fact, decide the truth of a sincere belief or keep a person from crossing its edge. Released silently, the court and chord still form, but its bindings stay within their existing Grade. An opponent can interrupt the opening call, leave the ring, contest the ground with Dominion, or force him to attend to a new danger while Saphri is absent. Small distractions leave this mature Domain standing; sustained overload can break it. Afterwards his Crystal runs Overgrown until a full night's sleep, spilling white light with his moods. Holding it below the last tenth risks a Crystal Fracture Event.
+
+**THE WITNESS STANDS (Third Release)** · folk name: Uren; Accord chancery: Fonte teste
+
+Arc-blue light enters the white court's outer edge, his hands shine through their skin, and a deeper note joins the held chord as Judicium answers. The court becomes his Realm in its full released form, able to hold another Domain within the same 12-metre boundary while its owner still contests him. Judicial Kindness and Fixatio Mind hold one expressly named condition of one existing seal as the court's local law; that seal's resistance to change rises from S to SSS, two Grades above its base, and spends the whole self-boost allowance for that effect. He must identify the target and state the condition before it takes hold. The release draws 14,312.5 EU per second and holds for 12 minutes from full, ending at the last tenth; it replaces the Second Release's maintenance charge, while all separate techniques still cost their own Essence. It cannot reach beyond the court, correct a false premise, compel testimony or enlarge the chosen condition after the call. Released silently, the two colours and both notes remain, but the seal's resistance gains only one Grade and the condition has no Third Release authority over a nested Domain. Changing the target before the call ends, carrying it beyond the ring, destroying its carrier or winning the Dominion contest defeats the hold. Saphri's loss and sustained conflicting testimony can also overwhelm the man maintaining it. Afterwards his Crystal is Overgrown for a day and a night and his body aches as after a fever. Forced below the last tenth, Fixatio Mind begins returning the chosen condition in place of the clause he is trying to recall. The temporary rise ends with the release; a seal already cured stays cured.
+
+**Bonded weapon** · none
+
+**Release accounting** · These are successive forms of the same release. The highest open form supplies the maintenance charge; opening a higher form never refills the reserve. All stated durations begin at full reserve, with no recovery and no other spending, and end at the 10% floor. Seals, echoes and Concord Resonance shorten those holds. Every self-boost counts against the two-Grade cap; his SS readings, command and ward do not turn the S binding baseline into a higher baseline.
+
+## XI. Spirit Axes
+
+**Saphri** · Companion, aide, anchor. *The one bond the sheet is built on.* His prolonged judgments depend on this bond's steadying presence.
+
+### Relationships
 
 **The High Concordant** · **The only office he reports to.**
 
@@ -133,16 +184,44 @@ title: "Argen Vael'thar · The White Arbiter"
 
 **The Arbitration Division** · His, entire.
 
+## XIII. Physical Description
+
+His hair is white as the cut edge of the paper his clerks stack beside him, thin over the crown and combed behind the ears. A long face has sunk beneath the cheekbones; his grey eyes sit deep, and the skin beneath them keeps the faint swelling of poor sleep. He is narrow through the chest and shoulders, with forearms that show their tendons when he opens a hand. The Mantle of Pale Equinox hangs heavily from a body that has grown smaller inside it. Its fur is flattened where his neck rests against the collar, and the cloth at his right wrist has worn smooth against the judgment table. The Rings of Verdict lie at his neck. Brown age marks cross the backs of his hands; a pale pressure mark follows the place where the rings' cord has rested for years.
+
+## XIV. Psychology
+
+**Judicial Kindness** · Measured, and mistaken for gentle. *Mercy through structure, forgiveness through restitution.* **"Every law begins as a confession."**
+
+### Voice block
+
+**Speaker type** · An elderly appellate judge instructing junior counsel: patient enough to state the whole distinction, exact about the words on which it turns.  
+**Sentence movement** · He gives the rule, its exception and the consequence in connected clauses; a brief question follows only when the witness must supply the missing fact.  
+**Notices first** · Whether a repeated statement has kept its original wording.  
+**Stress shift** · He quotes the entire provision and leaves less room between its clauses.  
+**Gloss rights** · **Unlimited.** *He quotes sections of the Codex mid-conversation as if they were scripture. The diagnostic mouth is his profession.*  
+**Sample line** · "Judgment is not to end the guilty. It is to remind the living of consequence."
+
+## XV. Equipment
+
+**Rings of Verdict** · *Paired artifacts worn at the neck.* **Resonate with truth and falsehood**; said to vibrate when falsehood nears. Used during Trials of Resonance. *He wears no other sigil.*
+
+**Mantle of Pale Equinox** · *Fur-lined Concord vestment, woven from extinct frostbeasts slain during the Withering Era.* **Nullifies emotional interference in court.** *The source of the title.*
+
+**Codex Shard** · *Personal crystalline fragment of the Lattice.* **Records every verdict he utters.**
+
+**Saphri** · *Companion. A small fox-like creature, rumoured to be an artificial familiar forged from Wellspring song.* **Aide and mnemonic anchor; keeps his resonance stable during prolonged judgments.** *Vocatia-made, if the rumour holds.*
+
 ---
 
-### X · Chapter Appearances
+## Lore
+
+### Chapter Appearances
 
 **None recorded on the card.** Status: sitting Prime Arbiter, longest-serving in Accord history, health declining.
+
 > **Codex** · Fulguria / Electromagnetism / Judicium primary / Stage IX.
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of The Citadel's high seats. What those sources do not state is new here.*
 

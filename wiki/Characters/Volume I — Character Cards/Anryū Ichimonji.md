@@ -1,19 +1,40 @@
 ---
+private: true
+type: character-card
 title: "Anryū Ichimonji"
+subtitle: "The Pale Ledger's Blade · The Inkborn · The Pale Editor"
+culture: null
+rung: full
+as_of: "Beneath the registry, the three filings read and not acted on"
+sources: "Prior Anryū Ichimonji card; character and fow_line; Fracture of Worlds Parts One–Three, Sixteen–Twenty-Two; The Color of Essence; Release Forms; The Master Codex"
+pc: false
 ---
 
 # Anryū Ichimonji
 
-**Say it** · ahn-RYOO ee-chee-MOHN-jee
-
-*暗流 一文字 · The Pale Ledger's Blade · The Inkborn · The Pale Editor · Card 18*
-> ***He Who Draws the Line Between What Was and What Remains***
-> 
-> > **Every surface is a page. He reads the manuscript while everyone else is still writing it.**
+**Anryū Ichimonji** · The Pale Ledger's Blade · Solvari lineage; culture unrecorded · as of the three filings beneath the registry  
+**Stat line** · Level 180 / 500 · Band II, Awakened · Stage VII, Refraction · Path Spirit 68%, Attraction 22%, Body 10% · Expert · η 1.05 · Aether Class VI, Voidic · Crystal Resonant, Refined  
+**Combat grammar** · Verdict  
+**Aura and sound** · colour: dual-toned grey and black-violet when released · signature sound: a dry brush drawn across rough paper; ordinary suppression remains quiet  
+**Stack** · sustainable B · cap +2 Grades, S · layers: First Release reaches upper B; Second Release reaches A in its field; no additional vow, Draft or tag specified  
+**Releases** · INK MANTLE (First Release) / THE RUINED DICTIONARY (Second Release) · bonded weapon: Ichimonji, carrying the First Release's contact coating  
+**Traits** · NULL INSCRIPTION (Primary): cooler skin; counter ordinary sight and cross-angle observation / IMPRINT SIGHT (Secondary): green eye-rim; counter noise or a rush under 2 seconds / STILL CURRENT (Inherited): wrist glyphs; counter a sustained grapple / THE MARGIN'S ECHO (Passive): fading trails; counter direct observation  
+**Techniques** · ICHIMONJI NO FUDE: brushstroke; counter deny contact / ANKOKU NO RAN: falling temperature; counter leave 12m / KEIRO NO SHIZUKA: held brush contact; counter break contact before 6 seconds / SUMI NO TOBIRA: two-finger preparation; counter a prepared physical barrier / SŌKOKU NO HI: field traces draw inward; counter break Domain focus  
+**Voice** · "Leave the page. I have not finished reading what they tried to remove." · speaker type: a manuscript conservator giving evidence  
+**Next gate** · Stage VIII, Transcendence · Catalyst: resolve a core contradiction carried in the fracture record · Band III begins at Level 201; the Stage VII gate is already met · pressure: the First Glyph fracture and the three filings he has not acted on
 
 ---
 
-## I–II · Identity and Soul Architecture
+## I. Identity
+
+**Full Name** · Anryū Ichimonji  
+**Pronunciation** · ahn-RYOO ee-chee-MOHN-jee
+
+*暗流 一文字 · The Pale Ledger's Blade · The Inkborn · The Pale Editor · Card 18*
+
+> ***He Who Draws the Line Between What Was and What Remains***
+>
+> > **Every surface is a page. He reads the manuscript while everyone else is still writing it.**
 
 **As Of** Beneath the registry, the three filings read and not acted on
 
@@ -22,6 +43,12 @@ title: "Anryū Ichimonji"
 **Faction** **The Pale Ledger** — autonomous archival order, Withering Era
 
 **Location** *An unsanctioned archive beneath a Guild Accord registry building.* They know someone is there. They have not confirmed who
+
+**Refusal** · He will not destroy the sole surviving record of a person to spare an institution.
+
+**Conviction** · What was done to a person must remain readable, even when the record condemns its keeper.
+
+## II. Soul Architecture
 
 | **Level / Stage** | **180 / 500** · Band II — Awakened · **Stage VII — Refraction** · Tier of Standing **5, Expert** |
 |---|---|
@@ -33,13 +60,32 @@ title: "Anryū Ichimonji"
 > **Solvari Lattice Ruling.** Two Sub-Stats marked **[SL]** are Parunic Glyph-chains **inscribed before birth**, activated through Tempering Inheritance rather than cultivated allocation.
 >
 > *The lattice didn't give him B-Grade. It gave him B-Grade that already knew what it was reading.*
+
+**Soul Crystal Tier** · Resonant  
+**Crystal State** · Refined; the healed and processed fractures remain features, and the First Glyph fracture continues to accumulate.  
+**Aether Class** · VI, Voidic  
+**Essence Family** · Limina; Materia in the binding and gathering work.
+
+## III. Wellspring Harmonizations
+
 Wellsprings · Mnemata primary — reads live Soul Crystal harmonic patterns within 28m: Flux Density, Efficiency, Essence expenditure rate, injury history, Wellspring alignment. Fixatio — freezes a target's Shell configuration so they spend 1.3–1.6× normal Essence without knowing why. Tenebra — collapses outgoing Resonance to 0.4% baseline. Coagulatio · Nihiloth — dissolves signal coherence and decays imprint-trail within 8m.
 
----
-
-## IV–V · Stats
+## IV. Primary Stats
 
 > **Gnosis and Harmonics lead — reads first, suppresses second, acts last.** *Everything else is B-Grade and real.* ***He wins by knowing the outcome before anyone names the fight.***
+
+| Primary | Total | Mean | Grade |
+|---|---:|---:|---|
+| Vitality | 1,480 | 185 | B |
+| Ardency | 1,584 | 198 | B |
+| Gnosis | 1,984 | 248 | B |
+| Dexterity | 1,456 | 182 | B |
+| Harmonics | 1,936 | 242 | B |
+| Resilience | 1,536 | 192 | B |
+| Tempering | 1,568 | 196 | B |
+| Dominion (seven, Throne apart) | 1,316 | 188 | B |
+
+## V. Sub-Stats
 
 | Stat | Value · Grade | Peaks |
 |---|---|---|
@@ -52,57 +98,87 @@ Wellsprings · Mnemata primary — reads live Soul Crystal harmonic patterns wit
 | **Vitality** | 185 · B | Threshold 185 · Constitution 182 |
 | **Dexterity** | 182 · B | **Silence 215** · Burst 188 — *not speed-dominant* |
 
----
-
-## VI–VII · Force and Flow
+## VI. Physical Force
 
 **Strike Force** 1.2 GN baseline / **2.4 GN vs Fixatio-locked targets** · 4.8 GJ / **18.6 GJ amplified** — *~1.1 tons TNT baseline, ~4.4 tons amplified*
 
 **Durability** 8.4 GJ Shell / 2.1 GJ physical · **Attack Speed** Mach 1.4 sustained · **Reaction 15–30ms Solvari neural conduction advantage**
 
 **Range** 28m Mnemata / 18m Fixatio anchor / 35m Domain
+
 > **Aura · Signal Null.** 3–7% passive Flux disruption across 6m.
 >
 > ***The room adjusts without knowing it did.***
+
+## VII. Aether Flow
+
 **EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**
 
----
+**Flow calculation** · 9,400 × 1.05 = 9,870 AU/s.
 
-## VIII–IX · Traits and Domain
+**Release clocks** · From 820,000 EU to the 82,000 EU stopping floor, with no recovery or other spending: Ink Mantle 6 minutes; The Ruined Dictionary 153.75 seconds.
 
-> **Null Inscription** · Innate · Tenebra · Fixatio
->
-> Outgoing signal at **0.4% baseline.** *Skin 3.8°F cooler than core.*
->
-> ***Practitioners within 50m register him as background noise.*** *Weakens against Mnemata-sensitive opponents or large Essence bursts.*
-**Imprint Sight** · Tempered — 18–28m radius. **Reads injury location, Flux Density, Efficiency and active Wellsprings**, granting a **4–8 second informational lead.** *Weakens in Aether noise above 400 AU/m².*
+**Recovery allowance** · The stated passive 11% of full reserve per minute is 90,200 EU/min. Its availability depends on the surrounding Aether; the release clocks do not assume it.
 
-**Still Current** · Lineage — **Shell microanchors resist deformation up to 0.8 TJ per localised impact.** *Incoming Shell-targeting techniques must break the anchor first.*
+## VIII. Traits
 
-**The Margin's Echo** · Resonant — **12–18% imprint-coherence decay per minute within 8m.** *Terrain sheds Aether-trail data, breaking tracking techniques and positional Domains.*
-> **Haikyo no Jiten — The Ruined Dictionary.** Active Stage VII Domain, **35m, 8 minutes**, 4,800 EU/s.
->
-> Ambient temperature drops **7.2–12.6°F over 6 seconds.** All outgoing signals suppressed **40%.** Surfaces accumulate imprint-data **3× faster.** Traction reduces 12–18%.
->
-> ***He gains a 6–9 second informational lead on all entities simultaneously.***
->
-> *Collapse threshold: single-source output above 1.1 billion AU/s overwhelms the imprint-layer.*
+**NULL INSCRIPTION (Primary Trait)**
 
----
+**Null Inscription** · Innate · Tenebra · Fixatio. Outgoing signal at **0.4% baseline.** *Skin 3.8°F cooler than core.* ***Practitioners within 50m register him as background noise.*** *Weakens against Mnemata-sensitive opponents or large Essence bursts.* Its standing suppression uses the born lattice and leaves his skin cooler; the price is the continual restraint of outgoing Essence, lost under a large burst. The cooler skin is its close tell. Ordinary sight, displaced dust and observers watching from different angles can still locate his body; concealment of a signature does not stop a physical attack.
 
-## X · Techniques
+**IMPRINT SIGHT (Secondary Trait)**
 
-| Technique | Effect · Cost | Limits · Backlash |
-|---|---|---|
-| **Ichimonji no Fude** *The Single Stroke* | Brush contact. **Shell locked 40–90s; Output reduced 30–60%; strike force +40–70% against the locked target.** *Sensory: one brushstroke. The target feels nothing until Essence starts bleeding wrong.* 18,000 EU | Dissolution techniques, Stage IX+ Flux rejection · *Shell microfractures after 90s per locked target* |
-| **Ankoku no Ran** *Dark Current Scatter* | 12m radius — **65–80% signal suppression for 8 seconds**, 5.4–9°F drop. **He retains full Mnemata inside.** *Sensory: the room goes quiet in a way that has nothing to do with sound.* 31,000 EU | Body-Path fighters, high-output force-flood · *beyond 8s costs 4,200 EU/s and degrades Mnemata bandwidth 30%* |
-| **Keiro no Shizuka** *The Quiet Archive* | 6–14 second read via brush contact — extracts 80–120 hours of the target's Aether-interaction history. Full Wellspring alignment, Trait list, Essence pattern legible. Sensory: he already knows more than the target has told anyone.  • 44,000 EU | **Animatria defences trigger 0.8–1.4s blindness on rejection** · *bandwidth cost lingers 20–30s* |
-| **Sumi no Tobira** *The Ink Gate* | **Dissolution into Mnemantic particulate** — 22m at Mach 4.8, **2.4 GN re-solidification impact with 0% pre-detection.** *Sensory: he stops existing. Then the impact arrives.* 67,000 EU | Matter-physics practitioners, high Aether-saturation · *second transit within 10 min adds 0.3s disorientation* |
-| **Sōkoku no Hi** *Immolation of the Written Record* | Requires the Domain active. 35m imprint-extraction detonated as a 2.8 GN shockwave. All active Traits suppressed 18–45 seconds in exposed practitioners. Sensory: the room holds its breath. Then it forgets it knew how.  • 190,000 EU | Domain practitioners retain partial function; Crystalia-hardened Crystals reduce to 8–12s · ***post-detonation Mnemata blind 12–18 seconds*** |
+**Imprint Sight** · Tempered — 18–28m radius. **Reads injury location, Flux Density, Efficiency and active Wellsprings**, granting a **4–8 second informational lead.** *Weakens in Aether noise above 400 AU/m².* His green eye-rim brightens while he holds the read. Sustained reading crowds his attention and can bring the hesitation already carried in his psychology; under stress it narrows to one target. A physical rush completed inside 2 seconds denies the reading window, and the stated Aether noise breaks its clarity.
 
----
+**STILL CURRENT (Inherited Trait)**
 
-## XI–XII · Axes and Resistances
+**Still Current** · Lineage — **Shell microanchors resist deformation up to 0.8 TJ per localised impact.** *Incoming Shell-targeting techniques must break the anchor first.* The anchors hold the Shell's shape rather than fixing his whole body to the ground. Bluish wrist and throat glyphs become clear while they bear a load. Sustained pressure costs him continued bracing and attention; a grapple that keeps moving him denies a settled reading position without needing to break an anchor in one impact.
+
+**THE MARGIN'S ECHO (Passive Trait)**
+
+**The Margin's Echo** · Resonant — **12–18% imprint-coherence decay per minute within 8m.** *Terrain sheds Aether-trail data, breaking tracking techniques and positional Domains.* The tell is a trail losing its readable shape while the physical marks remain. Its standing cost is the loss of old traces he might himself have wanted to read. Eyes, footprints and records carried beyond 8m remain answers to it; the decay needs time and does not erase ordinary writing.
+
+## IX. Domain
+
+**HAIKYO NO JITEN · The Ruined Dictionary (Domain seed)**
+
+**Haikyo no Jiten — The Ruined Dictionary.** Active Stage VII Domain, **35m, 8 minutes**, 4,800 EU/s. Ambient temperature drops **7.2–12.6°F over 6 seconds.** All outgoing signals suppressed **40%.** Surfaces accumulate imprint-data **3× faster.** Traction reduces 12–18%. ***He gains a 6–9 second informational lead on all entities simultaneously.*** *Collapse threshold: single-source output above 1.1 billion AU/s overwhelms the imprint-layer.* The Second Release opens and powers this field. Its cooled, grey and black-violet surfaces and their gathering traces are visible tells. It depends on sustained attention; a physical interruption that breaks his focus collapses it, and its effects end outside the 35m boundary. The Second Release's reserve clock is given below.
+
+## X. Techniques
+
+**ICHIMONJI NO FUDE · The Single Stroke (Technique)**
+
+Brush contact. **Shell locked 40–90s; Output reduced 30–60%; strike force +40–70% against the locked target.** *Sensory: one brushstroke. The target feels nothing until Essence starts bleeding wrong.* 18,000 EU. Limits and backlash: Dissolution techniques, Stage IX+ Flux rejection · *Shell microfractures after 90s per locked target*. Fixatio holds the touched Shell in its current shape, making its later spending fight that shape. A dry scratch follows the stroke. Contact denied by distance or a physical guard prevents the lock; once locked, ordinary movement and physical defence remain available while the target waits out its 40–90s hold.
+
+**ANKOKU NO RAN · Dark Current Scatter (Technique)**
+
+12m radius — **65–80% signal suppression for 8 seconds**, 5.4–9°F drop. **He retains full Mnemata inside.** *Sensory: the room goes quiet in a way that has nothing to do with sound.* 31,000 EU. Limits and backlash: Body-Path fighters, high-output force-flood · *beyond 8s costs 4,200 EU/s and degrades Mnemata bandwidth 30%*. Tenebra spreads his signal suppression through the air and surfaces around him. Its sound is a brief papery hiss. The chill is a physical tell even to someone who cannot sense Essence. A fighter using ordinary sight and body movement can close or step beyond 12m; keeping him occupied past 8 seconds forces the stated upkeep and reading penalty.
+
+**KEIRO NO SHIZUKA · The Quiet Archive (Technique)**
+
+6–14 second read via brush contact — extracts 80–120 hours of the target's Aether-interaction history. Full Wellspring alignment, Trait list, Essence pattern legible. Sensory: he already knows more than the target has told anyone. • 44,000 EU. Limits and backlash: **Animatria defences trigger 0.8–1.4s blindness on rejection** · *bandwidth cost lingers 20–30s*. The brush holds the path by which the recorded Aether history reaches his reading. His eye-rim brightens and a faint bristle rasp continues through contact. Breaking that contact before 6 seconds prevents a completed read; movement that keeps the brush from settling is enough and requires no special Wellspring.
+
+**SUMI NO TOBIRA · The Ink Gate (Technique)**
+
+**Dissolution into Mnemantic particulate** — 22m at Mach 4.8, **2.4 GN re-solidification impact with 0% pre-detection.** *Sensory: he stops existing. Then the impact arrives.* 67,000 EU. Limits and backlash: Matter-physics practitioners, high Aether-saturation · *second transit within 10 min adds 0.3s disorientation*. The two-finger hair adjustment before precision action is the preparation tell; black residue and a short dry crack mark arrival. A prepared physical barrier denies an occupied arrival space even when no transit signal can be detected. His body is again exposed to ordinary physical attack when it reforms, and the stated repeat-transit disorientation gives another opening.
+
+**SŌKOKU NO HI · Immolation of the Written Record (Technique)**
+
+Requires the Domain active. 35m imprint-extraction detonated as a 2.8 GN shockwave. All active Traits suppressed 18–45 seconds in exposed practitioners. Sensory: the room holds its breath. Then it forgets it knew how. • 190,000 EU. Limits and backlash: Domain practitioners retain partial function; Crystalia-hardened Crystals reduce to 8–12s · ***post-detonation Mnemata blind 12–18 seconds***. The gathered imprint is drawn inward before it breaks, and the release sounds like a thick sheaf tearing at once. A physical interruption during the gathering breaks his Domain focus; leaving the 35m field before detonation avoids its exposure. The surviving opponent can act through the stated 12–18 seconds of blindness afterward.
+
+**Releases**
+
+**INK MANTLE (First Release)** · folk name: Sumi no Koromo
+
+Grey and black-violet light parts along his wrists, and the born lines climb his fingers like ink soaking through cloth. A dry brushstroke sounds once. Null Inscription holds its suppression at the top of B Grade while his body and touched brush remain inside the coat; outgoing signal remains at 0.4% baseline. The coat steadies the Shell's concealment against a contested read and does not extend his sensing range. It spends 2,050 EU/s and holds 6 minutes from a full 820,000 EU reserve to the 82,000 EU stopping floor without recovery or other spending. A silent release keeps the coat, light and brush sound but loses the upper-B rise, leaving his ordinary B-Grade strength. Ordinary sight and cross-angle observation still reveal the body, and a physical rush can break the attention he needs for precision work. The call costs a beat. The release ends at a tenth of reserve; holding it further becomes overchannel. Afterwards he is spent and shaking.
+
+**THE RUINED DICTIONARY (Second Release)** · folk name: Haikyo no Jiten
+
+The grey and black-violet coat spreads across the 35m field, and the brush sound becomes a held dry rasp. Null Inscription opens outward through the existing Domain seed; Tenebra suppresses returning signals while Fixatio holds the field's working shape and Nihiloth wears down the coherence of its traces. The Domain keeps every effect and limit stated above. Called, its released suppression contests at A Grade inside the field; silent, the field still forms, glows and sounds, but its suppression contests only at upper B. Its 4,800 EU/s is the Domain's own upkeep, counted once; it replaces the First Release's upkeep rather than adding a second charge for the same coat. From a full 820,000 EU reserve it reaches the 82,000 EU stopping floor in 153.75 seconds without recovery or another technique. It closes at that floor, on dismissal, or when attention breaks. A physical interruption during the call or hold, movement beyond 35m, or a same-Stage contest won on Dominion can answer it. Taking the brush removes its released contact coating but does not by itself erase the field. Afterwards the Crystal runs Overgrown until a full night's sleep, making the ordinarily quiet signature easier to read; forcing the field past its floor risks a Crystal Fracture Event.
+
+**Bonded weapon** · Ichimonji, the 22 cm gold-and-bone-ash brush. It carries the First Release's coat into a touched surface; without the brush, that contact extension is lost.
+
+## XI. Spirit Axes
 
 **The Pale Ledger** · Ideological — ***loyalty to the archive, not the organisation running it.***
 
@@ -110,17 +186,23 @@ Wellsprings · Mnemata primary — reads live Soul Crystal harmonic patterns wit
 
 **A Letheveil-harmonised practitioner**, unnamed · Investigative — *reading them before they know they are being read.*
 
+## XII. Resistances
+
 **Resistances** · Non-physical Aether vectors **55–70% reduced via Tenebra.** Informational combat: **exceptional.**
+
 > **Forced close engagement under 2 seconds: critical weakness.**
 >
 > *Dissolution Wellsprings dissolve Fixatio instantly. High-saturation noise blinds Mnemata.* Pure Body-Path fighters **and** forced engagement compression denying the read window.
 
----
-
-## XIII–XV · Description, Psychology, Equipment
+## XIII. Physical Description
 
 185 cm, **lean, still, deceptively dense.** Ink-black hair **across the left eye** — *moved with two fingers before any precision action.* **Deep malachite green eyes with** a faint luminescent rim when Mnemata is active. **Pallid vellum-white skin;** bluish Solvari glyph-lines surface at inner wrists and throat under activation. *Ink-black particulate clinging to fingertips after extended use.*
+
 > Scent of **cold paper, iron gall ink, mineral stillness.** Aura: ***the room re-orients around him without knowing it did.***
+
+His hair shines like wet ink when light catches it. The narrow face has a straight nose, a lean jaw and a mouth that stays closed while he reads. Long forearms and close-set shoulders give his stillness the look of something folded for storage. A charcoal coat fits close at the wrists and loose through the shoulders; its cuffs are polished by the desk edge, and a pale repair follows the inside of its right sleeve. The glyph-lines are his clearest marks.
+
+## XIV. Psychology
 
 | **Core Wound** | **Reality is a badly edited manuscript. He cannot stop reading it.** *He cannot always stop feeling what he reads* |
 |---|---|
@@ -129,26 +211,31 @@ Wellsprings · Mnemata primary — reads live Soul Crystal harmonic patterns wit
 | **Loop** | Will understand exactly who someone is and why they will fail — **then hesitate, because understanding and ending are not the same act** |
 | **Voice** | Measured. ***Each sentence arrives already reviewed.*** Perfectly still **except the two-finger hair adjustment before precision action.** Under stress: **Mnemata contracts to single-target focus. He reads one thing completely** |
 
+**Voice block**
+
+**Speaker type** · A manuscript conservator giving evidence: exact about what a record contains, slow to claim what it proves.  
+**Notices first** · A trace that disagrees with its written account.  
+**Sentence length** · Measured, complete sentences; a qualification follows when the evidence needs one.  
+**Contractions** · Sometimes.  
+**Stress shift** · Mnemata contracts to single-target focus. He reads one thing completely.  
+**Sample line** · "Leave the page. I have not finished reading what they tried to remove."
+
+## XV. Equipment
+
 **Ichimonji** · *The Single Line* — gold-and-bone-ash brush, 22 cm. **Reduces anchor-glyph cost 40%; enables the Quiet Archive through the lightest contact.**
 
 **Haikyo no Te** · Archive Gloves — glyph-silk, fingerless. *Reduces touch-read cost 70%; stores 6 hours of contact-history per panel.*
 
 **Haiiro no Byōbu** · Ash Screen, three panels — **each emits Null Inscription-equivalent suppression across 4m.** *Single-use per panel; 20-minute recharge.*
 
----
-
-## XVI–XVIII · History, Temperance, Fractures
+## XVI. Temperance Record
 
 > *Born with a pre-inscribed glyph lattice. The Crystal suppressed outgoing signal by Stage III to manage lineage-noise overload. Stage V fractured him between reader and anchor — Fixatio emerged as the solution.*
-**The Norisada Redaction** — recovered a stolen Fixatio doctrine manuscript **leaving no detectable imprint.** *The Pale Ledger reclassified him immediately.*
-> **The Shiun Convocation Breach** — attended a closed Yuno assembly **undetected for four hours**, reading every delegate's Crystal harmonics.
->
-> He left one brushstroke: **the Parun glyph for *I was here.***
->
-> ***The Yuno have not forgiven him.***
-**The Kōdō Suppression** — deployed Sōkoku no Hi inside a doctrine-house sanctum, **stripping Trait access from seven clerics for 38 seconds** while agents extracted 23 suppressed practitioners. *Guild Accord records show the sanctum's history beginning the day after his visit.*
 
 **I–VII complete.** *V Splintering — fractured between reader and anchor; the Crystal chose both.* VIII Transcendence pending **— Mnemata to 20+ sources,** contactless Fixatio past 28m.
+
+## XVII. Fracture Log
+
 > **Fracture · Stage III Overload** — Harmonics-Attunement. Healed-reinforced. *Feature: rebuilt around suppression. The Crystal learned to run quiet.*
 >
 > **Fracture · Stage V Splintering** — Gnosis-Analysis. Processed, functional scar. *Feature: Analysis split into simultaneous live-read and imprint-read channels.*
@@ -159,9 +246,21 @@ Wellsprings · Mnemata primary — reads live Soul Crystal harmonic patterns wit
 
 ---
 
----
+## Lore
 
-### Lore · The Life Behind the Card
+### Recorded deeds
+
+**The Norisada Redaction** — recovered a stolen Fixatio doctrine manuscript **leaving no detectable imprint.** *The Pale Ledger reclassified him immediately.*
+
+> **The Shiun Convocation Breach** — attended a closed Yuno assembly **undetected for four hours**, reading every delegate's Crystal harmonics.
+>
+> He left one brushstroke: **the Parun glyph for *I was here.***
+>
+> ***The Yuno have not forgiven him.***
+
+**The Kōdō Suppression** — deployed Sōkoku no Hi inside a doctrine-house sanctum, **stripping Trait access from seven clerics for 38 seconds** while agents extracted 23 suppressed practitioners. *Guild Accord records show the sanctum's history beginning the day after his visit.*
+
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of The long memory. What those sources do not state is new here.*
 

@@ -1,17 +1,36 @@
 ---
+private: true
+type: character-card
 title: "Ara Min Mahuo"
+subtitle: "The Healer · Card 22"
+culture: "Mahuo of Sum-gol, Ketsuen"
+rung: full
+as_of: "Before Vaeloris, weighing the Sovereign's offer"
+sources: "Prior Ara Min Mahuo card; character and fow_line; Fracture of Worlds Parts Four, Twelve, Nineteen, Twenty and Twenty-One; The Master Codex; The Color of Essence; Release Forms; Ketsuen Standing Inventory, Mahuo release words"
+pc: false
 ---
 
 # Ara Min Mahuo
 
-**Say it** · AH-rah MIN MAH-hoo-oh
-
-*The Healer · Card 22*
-> **Grade B across the board, cleanly, matching Stage VIII's Coherence Band exactly.** Harmonics sits highest — *not by a wide margin, just enough that anyone who has spent an hour in a room with her already feels it.*
+**Ara Min Mahuo** · The Healer · Mahuo of Sum-gol, Ketsuen · as of before Vaeloris, weighing the Sovereign's offer  
+**Stat line** · Level 250 / 500 · Band III, Sovereign · Stage VIII, Transcendence · Path Spirit 40% / Body 40% / Attraction 20% · Master · η 0.70 · Aether Class V, Radiant · Crystal Radiant, Stable and unfractured  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: silver-grey suffused with bright arterial red · signature sound: a low, paired pulse beneath a long breath  
+**Stack** · sustainable B across the board · Stage ceiling S · cap +2 Grades over the relevant base Grade · layers: First Release brings the healing Trait to the top of B; Second brings it to A within the Domain; their rises do not add together  
+**Releases** · OPEN HANDS (First Release) / STAY WITH ME (Second Release) · bonded weapon: none  
+**Traits** · THE SOUL'S BREATH (Primary): warm palms, paired pulse; broken contact stops the healing / GREEN PULSE READING (Secondary): green rim at the eyes, gaze held on the body; an opaque screen blocks the glance / GRACE-BOUND (Inherited): warmth answers across a freely accepted promise; refused care gives the bond no purchase / THE LEDGER NOBODY KEPT (Passive): strangers settle and address her by name; proof of a broken promise outweighs the ease she brings  
+**Techniques** · BREATH RETURNED: both palms laid flat, long breath; deny contact, separate the hands during treatment, or reopen the new closure afterward / GREEN READING: momentary touch, one dry tap; contact broken before the reading settles / THE BLACK GATE, HELD OPEN GENTLY: she sits, lowers her voice and breathes out; separation from the patient ends her active easing  
+**Voice** · "I am afraid of losing you, brother." · speaker type: a plain-speaking ward sister, clinically direct, with sudden dry humour
 
 ---
 
-## I · Identity
+## I. Identity
+
+**Full Name** · Ara Min Mahuo
+
+**Pronunciation** · AH-rah MIN MAH-hoo-oh
+
+**Alias / Title** · The Healer · Card 22
 
 **As Of** Before Vaeloris, weighing the Sovereign's offer
 
@@ -20,6 +39,7 @@ title: "Ara Min Mahuo"
 **Age** 21 · **Sex** Female
 
 **Standing** Formerly of the royal court's healing wards, now itinerant alongside her brother's teaching circuit, **weighing an offer of marriage into the Zettari Sovereign's household**
+
 > **Catalyst Event.** Vitalia's own Catalyst is *"giving without counting, and finding the count was always in your favour"* — **and hers happened plainly, without ceremony.**
 >
 > She spent three years treating the poorest ward of the capital's healing houses for free, **never once tracking who owed her, because tracking felt like the opposite of the point.**
@@ -28,9 +48,11 @@ title: "Ara Min Mahuo"
 >
 > **She did not notice she had built a following until the court tried to charge her a licensing fee for patients she had never billed.**
 
----
+**Refusal** · She will not make a patient's inability to pay a reason to withhold care, or promise recovery when she knows she cannot give it.
 
-## II–III · Soul Architecture and Wellsprings
+**Conviction** · Care freely given binds people more surely than a debt collected, even when giving leaves her with too little for herself.
+
+## II. Soul Architecture
 
 | **Level** | **250 / 500** · Band III — Sovereign. *Well inside the band, nowhere near the Stage X gate at 300* |
 |---|---|
@@ -42,11 +64,28 @@ title: "Ara Min Mahuo"
 | **Crystal State** | **Stable, unfractured. No Splintering-era damage** — *her path so far has been accumulation, not crisis* |
 | **Attraction Force** | Clean, recognition-sustained — **every bond she carries, every patient's trust, was given freely and answered honestly** |
 
+**Soul Crystal Tier** · Radiant
+
+## III. Wellspring Harmonizations
+
 Anima Spirare primary — the Soul's Breath; wounds close because the body remembers being whole. Verdantia secondary — the body heals by growing rather than repairing. Benediction tertiary — care that hardens into law; bonds formed under it carry real weight. Mortalis support — ending treated as passage, not catastrophe, for the patients she cannot save. Rebirthine partial.
 
----
+## IV. Primary Stats
 
-## IV–V · Stats
+> **Grade B across the board, cleanly, matching Stage VIII's Coherence Band exactly.** Harmonics sits highest — *not by a wide margin, just enough that anyone who has spent an hour in a room with her already feels it.*
+
+| Primary | Total | Mean | Grade |
+|---|---:|---:|---|
+| Vitality | 1,840 | 230 | B |
+| Ardency | 1,480 | 185 | B |
+| Gnosis | 1,520 | 190 | B |
+| Dexterity | 1,560 | 195 | B |
+| Harmonics | 1,920 | 240 | B |
+| Resilience | 1,680 | 210 | B |
+| Tempering | 1,760 | 220 | B |
+| Dominion, seven counted entries | 1,400 | 200 | B |
+
+## V. Sub-Stats
 
 | Stat | Value | Grade | Peaks |
 |---|---|---|---|
@@ -59,56 +98,83 @@ Anima Spirare primary — the Soul's Breath; wounds close because the body remem
 | **Gnosis** | 190 | B | Perception 198 · Retention 192 · Diagnosis 188 · Sapience 182 |
 | **Ardency** | 185 | B | Depth 190 · Flux 185 · Compression 180 · Saturation 178 |
 
----
-
-## VI–VII · Force and Flow
+## VI. Physical Force
 
 > **Strike Force: below Hollow threshold unaided.** *She has never trained combat — and Vitalia's whole discipline runs the opposite direction from harming a body.*
 >
 > **Attack Speed: N/A.** No offensive technique architecture. **Travel Speed** B-Grade — *she has never needed to be fast; her work happens where she is already standing.*
+
 **Durability** · B-Grade. *Ordinary against a direct hit, better than most at simply not dying from one afterward.*
+
+## VII. Aether Flow
 
 **Aura Pressure Field** · 10m passive — **patients report feeling calmer before she has said a word.**
 
 **EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70
+
 > **Passive Recovery** ~126,000 EU/hour — *Vitalia's own rhythm recovers faster than most disciplines.*
 >
 > **Active Recovery roughly double that, ~252,000 EU/hour — while actively treating someone else.**
 >
 > ***Her Crystal recovers best while she is giving, not while she is resting, which is either the kindest or the most exhausting thing about her, depending who you ask.***
 
----
+**Flow check** · 85,000 × 0.70 = 59,500 AU/s.
 
-## VIII–IX · Traits and Domain
+**Starvation clock** · At continuous full output, without recovery, 63.53 seconds from full to the 420,000 EU floor; 70.59 seconds to empty.
 
-**The Soul's Breath** · Innate · Anima Spirare — **wounds close under her hands because the body remembers, under her Essence, what being whole felt like.** *Not instant. Not painless. Real.*
+## VIII. Traits
 
-**Green Pulse Reading** · Tempered · Verdantia — reads a body's growth-pattern at a glance, **knows whether a wound is healing correctly or scarring wrong before the patient feels the difference.**
+**THE SOUL'S BREATH (Primary Trait)**
 
-**Grace-Bound** · Lineage · Benediction — **any bond of care she forms carries real mechanical weight.** *A promise to look after someone is closer to a compact than a sentiment.*
-> **The Ledger Nobody Kept** · Resonant
->
-> Years of unbilled, uncounted care built a following she never tried to build.
->
-> ***People trust her specifically because she never tracked what they owed her.***
->
-> **Domain** · Unnamed as yet — **informally called** ***The Waiting Room*** **by the patients who have felt it.** Transcendence-tier, roughly 20 metres, hours-long.
->
-> Inside it, **pain reads as quieter and fear reads as more survivable** — *not because either is erased, but because the space itself insists nothing happening inside it is happening alone.*
+Innate · Anima Spirare — **wounds close under her hands because the body remembers, under her Essence, what being whole felt like.** *Not instant. Not painless. Real.* Her palms warm and a paired pulse sounds beneath her breath. The Trait makes living tissue answer her healing; the active repair pays the cost of the technique carrying it, including Breath Returned's roughly 630,000 EU per serious wound. It cannot restore what is fully gone. Broken hand contact stops the active repair.
 
----
+**GREEN PULSE READING (Secondary Trait)**
 
-## X · Techniques
+Tempered · Verdantia — reads a body's growth-pattern at a glance, **knows whether a wound is healing correctly or scarring wrong before the patient feels the difference.** A fine green rim shows around her eyes while she holds her gaze on the body. A glance takes negligible reserve; repeated readings leave her eyes aching and her attention slow. It reveals a pattern without choosing the treatment. An opaque screen breaks the glance, and a body she cannot see requires the separate contact reading.
 
-| Technique | Function and cost | Counterplay |
-|---|---|---|
-| **Breath Returned** · *Signature* | Both hands laid flat over the site. **Accelerates natural regeneration by reintroducing the body's own remembered rhythm.** Closes a clean wound in 40–90 seconds — **cannot regrow what is fully gone.** *Target response: warmth, then relief, then the specific ache of tissue knitting faster than it should.* Cost ~15% of reserve per serious wound | **Cannot outpace an actively-inflicted wound faster than she can stabilise contact** |
-| **Green Reading** | A moment's touch, diagnostic only. Full read in under 5 seconds. Negligible cost | **Only tells her what is true, not what to do about it** |
-| **The Black Gate, Held Open Gently** | Trigger: **recognising a wound Anima Spirare cannot close.** Eases a dying patient's fear and pain **rather than forcing false hope** — Mortalis reframes the ending as passage rather than failure. *Cost: emotional, not Aetheric. This is the technique that costs her the most and shows the least* | **None — and she would not want one. *Some things are not meant to be fought*** |
+**GRACE-BOUND (Inherited Trait)**
 
----
+Lineage · Benediction — **any bond of care she forms carries real mechanical weight.** *A promise to look after someone is closer to a compact than a sentiment.* Warmth answers along a bond when her promise is freely accepted. Keeping it costs the time, attention and reserve of the care she actually gives; the promise supplies no free treatment. It binds the offered care and gives her no command over the patient's choices. Refusal prevents a new bond, and withdrawal of trust denies its help without undoing care already given.
 
-## XI–XII · Axes and Resistances
+**THE LEDGER NOBODY KEPT (Passive Trait)**
+
+Resonant. Years of unbilled, uncounted care built a following she never tried to build. ***People trust her specifically because she never tracked what they owed her.*** Its Resonant Reflection carries the calm of her 10m passive field at negligible conscious cost. People let a breath go and address her by name before asking her price. It eases an approach without making anyone obedient. Evidence that she has broken her word can overcome that ease; the field cannot conceal what she has done.
+
+## IX. Domain
+
+**THE WAITING ROOM (Domain, informal name)**
+
+**Domain** · Unnamed as yet — **informally called** ***The Waiting Room*** **by the patients who have felt it.** Transcendence-tier, roughly 20 metres, hours-long. Inside it, **pain reads as quieter and fear reads as more survivable** — *not because either is erased, but because the space itself insists nothing happening inside it is happening alone.* STAY WITH ME opens and powers it, with the long breath becoming a held note and silver-red light spreading through the existing field. Its maintenance is 525 EU/s, giving two hours from a full reserve to the 420,000 EU release floor before recovery or other spending. It makes the patient's distress bearable without closing a wound by itself, taking away judgment, or preventing departure. Minor interruptions do not break this true Domain. Leaving its edge removes its shelter; a rival of her Stage can contest its ground through Dominion, and a sustained disruption that prevents her maintaining the field can collapse it. She can dismiss it, and it ends at the release floor.
+
+## X. Techniques
+
+**BREATH RETURNED (Signature Technique)**
+
+Both hands laid flat over the site. **Accelerates natural regeneration by reintroducing the body's own remembered rhythm.** Closes a clean wound in 40–90 seconds — **cannot regrow what is fully gone.** *Target response: warmth, then relief, then the specific ache of tissue knitting faster than it should.* Cost ~15% of reserve per serious wound. **Cannot outpace an actively-inflicted wound faster than she can stabilise contact**. Its audible tell is a long breath with the paired pulse beneath it, and warm red light gathers under both palms. At her full reserve, the stated share is roughly 630,000 EU per serious wound. Six such treatments spend 90% of full reserve, reaching the Starvation floor before recovery or any other cost; at the stated 40–90 seconds each, their combined contact time is 4–9 minutes. Before contact, a body kept beyond both hands cannot receive the working; during it, separating either hand stops the repair; afterward, the new closure remains living tissue that can be injured again. Healing still depends on living tissue with blood and nourishment reaching it.
+
+**GREEN READING (Technique)**
+
+A moment's touch, diagnostic only. Full read in under 5 seconds. Negligible cost. **Only tells her what is true, not what to do about it**. A single dry tapping sound accompanies her fingertips settling on the patient. The reading needs that brief contact; breaking it before the reading settles interrupts the diagnosis. It neither treats the condition nor predicts changes made after the touch.
+
+**THE BLACK GATE, HELD OPEN GENTLY (Technique)**
+
+Trigger: **recognising a wound Anima Spirare cannot close.** Eases a dying patient's fear and pain **rather than forcing false hope** — Mortalis reframes the ending as passage rather than failure. *Cost: emotional, not Aetheric. This is the technique that costs her the most and shows the least* Counterplay: **None — and she would not want one. *Some things are not meant to be fought***. Her tell is the stool drawn close, her voice lowered and a long outward breath whose sound fades at the end. Its easing requires her continued presence with the patient; separation ends that active comfort. It grants no control over a patient's will, cannot reverse death, and cannot supply a recovery her healing has failed to achieve.
+
+**Releases**
+
+**OPEN HANDS (First Release)** · folk name: Cheotjjae puri, the first untying
+
+She calls OPEN HANDS and silver-red light fills her palms, then runs beneath the skin of her forearms in bright branching threads; her loose hair lifts with one deep breath, and the paired pulse sounds clearly through the room. The Soul's Breath reaches the top of B-Grade through Anima Spirare, with Verdantia guiding the living growth under her hands. It strengthens the healing already possible through the Trait; Breath Returned keeps its contact requirement, its stated wound-closing interval and its separate cost. Holding the form costs 350 EU/s, giving three hours from full to the 420,000 EU floor without recovery or other spending. It supplies neither missing tissue nor blood or nourishment, and cannot return the dead. Released silently, the same form and sound appear but her healing remains at its ordinary B-Grade strength, losing the rise to the Grade's top. A called release exposes the beat of its name; afterward, interrupted hand contact, distance and waiting out the reserve all answer it. At the floor it ends, leaving her hands shaking and her accumulated fatigue fully felt. Holding it below the floor becomes raw overchannel with fracture risk.
+
+**STAY WITH ME (Second Release)** · folk name: Duljjae puri, the second untying
+
+She calls STAY WITH ME and the silver-red threads spread from her hands across her shoulders, her hair lifting clear of the veil as the light flows out through The Waiting Room's roughly 20-metre field. The paired pulse lengthens into a low standing note. The released Soul's Breath, carried through Anima Spirare and the freely accepted bonds of Benediction, opens and powers the Domain: her healing carries A-Grade strength while she and the patient remain inside it, and its existing quieting of pain and fear holds around them. Serious repair still needs her hands and pays its own technique cost; the field alone cannot close wounds or turn comfort into obedience. Holding the release and its Domain together costs 525 EU/s, a single maintenance charge giving two hours from full to the 420,000 EU floor before recovery or other spending. Released silently, the field, colour and standing note remain, but healing reaches only the top of B rather than A. The spoken call exposes a beat before the field settles; its edge can be crossed, its territory contested by a same-Stage rival's Dominion, and its continued drain outlasted. Minor distractions do not collapse her Stage VIII Domain. A sustained disruption that prevents her maintaining it does. When it ends her Crystal is Overgrown until a full night's sleep, spilling her moods into the room and making her easier to read. Holding it below the tenth risks a Crystal Fracture Event.
+
+**Bonded weapon** · none.
+
+**Release accounting** · The Second Release replaces the First Release's maintenance and Grade rise. Technique costs remain additional. Recovery changes the clock only by the Essence actually recovered; it never waives a technique's cost.
+
+## XI. Spirit Axes
 
 **Kwon Mu-jin** *(brother)* — **absolute.**
 
@@ -116,15 +182,21 @@ Anima Spirare primary — the Soul's Breath; wounds close because the body remem
 
 **Dawn Guard** *(prospective, undecided)* — forming, cautious, **entirely her own to define.**
 
+## XII. Resistances
+
 **Resistances** · Ordinary across the board. *Her defence has never been personal durability.*
+
 > **Vulnerability · Emotional overextension.** She will burn her own reserve past sense for a patient she has decided matters — **and has done it before.**
 
----
-
-## XIII–XV · Description, Psychology, Equipment
+## XIII. Physical Description
 
 Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs framing warm brown eyes **and a small mole beneath the left one.** A sheer gold-trimmed veil headdress patterned with a repeating crest motif — *more ceremonial than practical.* A dangling gold earring set with a single emerald. Structured green and gold gown, high-waisted, **puffed pauldron-like sleeves over softer white underlayers** — court-formal without being cold.
+
 > **She is rarely seen without an animal in her arms** — most often a long-haired black-and-white cat *that has never once been seen struggling to get down.*
+
+Her hair catches the light like pale silk. Her face is oval, with full cheeks and a firm mouth; her frame is slender through the shoulders and waist, her hands broad enough to rest securely over a dressing. The gown fits close through the ribs and falls loose from its high waist; its lower hem carries road dust, and repeated washing has softened the white cuffs.
+
+## XIV. Psychology
 
 | **Core Wound** | Watching healers around her treat care as a transaction, **and deciding early that she would rather go broke than become one of them** |
 |---|---|
@@ -136,15 +208,23 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 | **Dialogue Evolution** | **Increasingly blunt the more she trusts the room.** *Court formality was always a costume, not a register* |
 | **Stress Default** | **Goes quiet and starts working with her hands** — *whether or not there is anything left to actually treat* |
 
+**Voice block**
+
+**Speaker type** · A plain-speaking ward sister, clinically direct, with sudden dry humour.
+
+**Chant tongue** · The Mahuo tongue of Sum-gol; English technique and release names when speaking Common.
+
+**Sample line** · "I am afraid of losing you, brother."
+
+## XV. Equipment
+
 **Anima Spirare Focus Ring** · Vitalia-attuned, worn on her working hand — ***warms slightly whenever a nearby wound could still be saved.***
 
 **Field Satchel** · bandages, tinctures — **the unglamorous physical half of healing that magic alone doesn't replace.**
 
 **The Cat** · *found her, not the other way around, and has never once been convinced to leave.*
 
----
-
-## XVI–XVII · Temperance and Fractures
+## XVI. Temperance Record
 
 **I–IV** complete — *first unsupervised successful healing at eleven; first patient she couldn't save, and the first time she chose to sit with them anyway rather than leave the room.*
 
@@ -153,6 +233,9 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 **VI Glory** — *the ward began calling her by name instead of by title.* **VII Refraction** — first read of a wound's true growth-pattern rather than its surface symptom.
 
 **VIII Transcendence** · **Active.** First true stabilised Domain seated. **IX+ locked.**
+
+## XVII. Fracture Log
+
 > **Fracture Log · The Fever Ward, Age 19** — Vitality-Tempering. **Healed-reinforced.**
 >
 > *The closest she has come to structural collapse, and the point where giving without counting nearly cost her the ability to give at all.*
@@ -161,7 +244,9 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 
 ---
 
-### Lore · The Life Behind the Card
+## Lore
+
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the four archived scenes it appears in, and the record of The Zettari war camp and the Mahuo who came to it. What those sources do not state is new here.*
 

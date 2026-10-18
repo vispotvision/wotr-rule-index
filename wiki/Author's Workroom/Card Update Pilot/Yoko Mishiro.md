@@ -38,7 +38,7 @@ pc: false
 
 **As Of** Some years after the first Accord circle was signed. In the year of the signing she is at Kharven-Seat beside Sodoku, with their son.
 
-**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way**
+**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Sodoku, their son Riku, and a second child on the way**
 
 > **Catalyst Event. The lock on the pen.**
 >
@@ -67,7 +67,7 @@ pc: false
 
 ## III. Wellspring Harmonizations
 
-**Wellspring Harmonizations** · **Somnalis** primary, native, **requires no harmonization ritual.** **Anima Spirare** secondary, now fully expressed — *the bond with Temür, named and load-bearing.* **Verdantia** tertiary, lineage-access. **Manganthra** peripheral, **residual harmonization from the Scourge years.**
+**Wellspring Harmonizations** · **Somnalis** primary, native, **requires no harmonization ritual.** **Anima Spirare** secondary, now fully expressed — *the bond with Sodoku, named and load-bearing.* **Verdantia** tertiary, lineage-access. **Manganthra** peripheral, **residual harmonization from the Scourge years.**
 
 ## IV. Primary Stats
 
@@ -132,7 +132,7 @@ Lineage — accurate, non-symbolic dream-navigation, **present since birth.** He
 
 **ANIMA SPIRARE, FULFILLED (Passive Trait)**
 
-Resonant. The bond with Temür, **fully expressed and named at Stage IV as projected.** A second, distinct thread now runs to Riku — **parental rather than romantic, same Wellspring, different weight.** The Crystal keeps each familiar presence distinct through its own Spirit Axis; a disturbance in either can turn her ears before she chooses to attend to it. The bond itself is near-costless, while sustained attention to distress costs concentration and exhausts her. It gives neither ownership nor an exact account of the distant event. A signature-masking ward can obscure the disturbance she is trying to read without breaking the relationship or its Absolute weight.
+Resonant. The bond with Sodoku, **fully expressed and named at Stage IV as projected.** A second, distinct thread now runs to Riku — **parental rather than romantic, same Wellspring, different weight.** The Crystal keeps each familiar presence distinct through its own Spirit Axis; a disturbance in either can turn her ears before she chooses to attend to it. The bond itself is near-costless, while sustained attention to distress costs concentration and exhausts her. It gives neither ownership nor an exact account of the distant event. A signature-masking ward can obscure the disturbance she is trying to read without breaking the relationship or its Absolute weight.
 
 ## IX. Domain
 
@@ -172,7 +172,7 @@ Her pupils draw narrow, the pale fur inside her ears stands out, and dark grey l
 
 ## XI. Spirit Axes
 
-**Anima Spirare — Temür Moto** *(marital)* — **Absolute.**
+**Anima Spirare — Sodoku Moto** *(marital)* — **Absolute.**
 
 **Emergent Bond — Riku** *(parental)* — Growing, **already load-bearing.**
 
@@ -198,7 +198,7 @@ Her hair has the colour of sifted hearth ash. Her face is narrow through the jaw
 | **Desire** | **To be the one who stayed, on record, by her own account** |
 | **Loop** | **Mostly resolved** — the people who matter now see the third category |
 | **Voice** | **Sensory-confirmation syntax.** No heavy phonetic marking, **more precise under stress rather than less.** Offers exactly what is accurate and nothing more, still, even at home. Under stress **narrows to the single confirmed fact** — *and the ears report the truth regardless of what the rest of her is doing* |
-| **Dialogue Evolution** | **The Temür-specific softening has spread past him.** More openly warm at home than she ever was on the road, precision intact, **flatness mostly retired except under genuine threat** |
+| **Dialogue Evolution** | **The Sodoku-specific softening has spread past him.** More openly warm at home than she ever was on the road, precision intact, **flatness mostly retired except under genuine threat** |
 
 ### Voice
 

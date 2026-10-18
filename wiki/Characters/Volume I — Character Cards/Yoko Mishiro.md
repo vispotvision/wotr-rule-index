@@ -21,7 +21,7 @@ title: "Yoko Mishiro"
 
 **As Of** Some years after the first Accord circle was signed. In the year of the signing she is at Kharven-Seat beside Sodoku, with their son.
 
-**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way**
+**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Sodoku, their son Riku, and a second child on the way**
 > **Catalyst Event. The lock on the pen.**
 >
 > She walked through it **on her own decision**, past a man who had already stopped waiting for her, ***because the choosing had to be hers and not a rescue she owed anyone.***
@@ -40,7 +40,7 @@ title: "Yoko Mishiro"
 | **Soul Crystal Tier** | **Resonant**, progressed from Harmonic. *In-world shorthand among those who knew her before is still Kindled* |
 | **Crystal State** | Refined, stable. **The first genuinely settled stretch of her life** — no active fracture, no suppression pressure |
 
-**Wellspring Harmonizations** · **Somnalis** primary, native, **requires no harmonization ritual.** **Anima Spirare** secondary, now fully expressed — *the bond with Temür, named and load-bearing.* **Verdantia** tertiary, lineage-access. **Manganthra** peripheral, **residual harmonization from the Scourge years.**
+**Wellspring Harmonizations** · **Somnalis** primary, native, **requires no harmonization ritual.** **Anima Spirare** secondary, now fully expressed — *the bond with Sodoku, named and load-bearing.* **Verdantia** tertiary, lineage-access. **Manganthra** peripheral, **residual harmonization from the Scourge years.**
 
 ---
 
@@ -85,7 +85,7 @@ title: "Yoko Mishiro"
 **Somnalis Native Access** · Lineage — accurate, non-symbolic dream-navigation, **present since birth.**
 > **Anima Spirare, Fulfilled** · Resonant
 >
-> The bond with Temür, **fully expressed and named at Stage IV as projected.** A second, distinct thread now runs to Riku — **parental rather than romantic, same Wellspring, different weight.**
+> The bond with Sodoku, **fully expressed and named at Stage IV as projected.** A second, distinct thread now runs to Riku — **parental rather than romantic, same Wellspring, different weight.**
 **Domain** · None. *Formation begins at Stage VII; she is two Stages short.*
 
 ---
@@ -106,7 +106,7 @@ title: "Yoko Mishiro"
 
 ## XI–XII · Axes and Resistances
 
-**Anima Spirare — Temür Moto** *(marital)* — **Absolute.**
+**Anima Spirare — Sodoku Moto** *(marital)* — **Absolute.**
 
 **Emergent Bond — Riku** *(parental)* — Growing, **already load-bearing.**
 
@@ -127,7 +127,7 @@ Twenty-nine now, **and it reads less as damage than as ease** — *the particula
 | **Desire** | **To be the one who stayed, on record, by her own account** |
 | **Loop** | **Mostly resolved** — the people who matter now see the third category |
 | **Voice** | **Sensory-confirmation syntax.** No heavy phonetic marking, **more precise under stress rather than less.** Offers exactly what is accurate and nothing more, still, even at home. Under stress **narrows to the single confirmed fact** — *and the ears report the truth regardless of what the rest of her is doing* |
-| **Dialogue Evolution** | **The Temür-specific softening has spread past him.** More openly warm at home than she ever was on the road, precision intact, **flatness mostly retired except under genuine threat** |
+| **Dialogue Evolution** | **The Sodoku-specific softening has spread past him.** More openly warm at home than she ever was on the road, precision intact, **flatness mostly retired except under genuine threat** |
 
 **Equipment** · Domestic rather than combat. *No formal gear catalogued in source — flagged as an open gap, not filled with invented items.*
 

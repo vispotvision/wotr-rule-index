@@ -1,0 +1,66 @@
+filters:
+  and:
+    - file.inFolder("Characters")
+    - file.ext == "md"
+    - file.name != "Characters"
+formulas:
+  name: file.name.split(" · ")[0].split(" — ")[0]
+  epithet: if(file.name.contains(" · "), file.name.split(" · ")[1], if(file.name.contains(" — "), file.name.split(" — ")[1], ""))
+  linked_from: file.backlinks.length
+properties:
+  formula.name:
+    displayName: Name
+  formula.epithet:
+    displayName: Epithet
+  formula.linked_from:
+    displayName: Linked from
+  file.mtime:
+    displayName: Edited
+views:
+  - type: table
+    name: All characters
+    order:
+      - file.name
+      - formula.epithet
+      - formula.linked_from
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Core cast
+    filters:
+      or:
+        - file.name.startsWith("Sodoku Moto")
+        - file.name.startsWith("Yoko Mishiro")
+        - file.name.startsWith("Emira Moto")
+        - file.name.startsWith("Cozbi Mahuo")
+        - file.name.startsWith("Charles Lambert")
+        - file.name.startsWith("Edward Lambert")
+        - file.name.startsWith("Hild Ice")
+        - file.name.startsWith("Renard Greymane")
+        - file.name.startsWith("Kwon Mu-jin")
+        - file.name.startsWith("Ilthára Korvaeth")
+        - file.name.contains("Arctic Lion")
+    order:
+      - file.name
+      - formula.epithet
+      - file.mtime
+  - type: table
+    name: Most connected
+    order:
+      - file.name
+      - formula.linked_from
+      - file.mtime
+    sort:
+      - property: formula.linked_from
+        direction: DESC
+  - type: table
+    name: Recently edited
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 30

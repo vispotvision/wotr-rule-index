@@ -10,7 +10,7 @@ sources: "Prior card; character and fow_line; Fracture of Worlds Parts One, Thre
 pc: false
 ---
 
-# Adalric Vladimer Valen · The Crimson Shade
+# A[[Characters/Volume I — Character Cards/Ambrose Virellith · The Gilded Thorn]]dalric Vladimer Valen · The Crimson Shade
 
 **Adalric Vladimer Valen** · Baron; The Crimson Shade · Bluvest vampiric aristocracy · as of after the Calverne halt  
 **Stat line** · Level 226 · Band III, Sovereign · Stage VII, Refraction · Path Body dominant, Attraction secondary · Expert · η 0.60 · Aether Class III, Resonant · Crystal Resonant, Refined  

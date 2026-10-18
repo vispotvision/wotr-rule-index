@@ -1,11 +1,5 @@
 ---
 title: "Oneiron Parasite · Nightmare Warden"
-notion_id: "3d958200-eb22-8109-9163-e91f77df7df9"
-notion_url: "https://app.notion.com/p/Oneiron-Parasite-Nightmare-Warden-3d958200eb2281099163e91f77df7df9"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Oneiron Parasite · Nightmare Warden

@@ -1,11 +1,5 @@
 ---
 title: "Moetana — The Vessel of Life's Essence"
-notion_id: "3bc58200-eb22-812d-af21-e114f767d961"
-notion_url: "https://app.notion.com/p/Moetana-The-Vessel-of-Life-s-Essence-3bc58200eb22812daf21e114f767d961"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-08-15T19:24:00.000Z"
-verification: "unverified"
 ---
 
 # Moetana — The Vessel of Life's Essence

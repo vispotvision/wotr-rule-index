@@ -1,11 +1,5 @@
 ---
 title: "Winter Rend"
-notion_id: "3d958200-eb22-813d-b297-f3b326e2d610"
-notion_url: "https://app.notion.com/p/Winter-Rend-3d958200eb22813db297f3b326e2d610"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Winter Rend

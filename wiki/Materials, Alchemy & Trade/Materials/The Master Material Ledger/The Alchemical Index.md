@@ -1,11 +1,6 @@
 ---
 title: "The Alchemical Index"
-notion_id: "3b158200-eb22-81eb-8ea1-cc9e6627f1f6"
-notion_url: "https://app.notion.com/p/The-Alchemical-Index-3b158200eb2281eb8ea1cc9e6627f1f6"
-section: "The Master Material Ledger"
 tags: ["Alchemy", "Reference Table"]
-last_edited: "2026-10-14T00:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Alchemical Index

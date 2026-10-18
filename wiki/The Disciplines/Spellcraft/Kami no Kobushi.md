@@ -1,11 +1,5 @@
 ---
 title: "Kami no Kobushi"
-notion_id: "3d958200-eb22-81ef-8559-fd7d18e69603"
-notion_url: "https://app.notion.com/p/Kami-no-Kobushi-3d958200eb2281ef8559fd7d18e69603"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: null
 ---
 
 # Kami no Kobushi

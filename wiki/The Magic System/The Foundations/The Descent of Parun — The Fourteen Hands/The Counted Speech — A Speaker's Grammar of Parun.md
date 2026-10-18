@@ -1,11 +1,6 @@
 ---
 title: "The Counted Speech — A Speaker's Grammar of Parun"
-notion_id: "3bc58200-eb22-815a-b7e8-d85b69537b18"
-notion_url: "https://app.notion.com/p/The-Counted-Speech-A-Speaker-s-Grammar-of-Parun-3bc58200eb22815ab7e8d85b69537b18"
-section: "The Descent of Parun — The Fourteen Hands"
 tags: ["Magic System", "Peoples", "Reference Table"]
-last_edited: "2026-09-28T08:24:00.000Z"
-verification: "unverified"
 ---
 
 # The Counted Speech — A Speaker's Grammar of Parun

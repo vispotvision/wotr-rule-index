@@ -1,11 +1,5 @@
 ---
 title: "Asami and Gisei — The Two States of the Moto"
-notion_id: "3bc58200-eb22-8154-84ae-d30384f2f29c"
-notion_url: "https://app.notion.com/p/Asami-and-Gisei-The-Two-States-of-the-Moto-3bc58200eb22815484aed30384f2f29c"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-12T20:18:00.000Z"
-verification: "unverified"
 ---
 
 # Asami and Gisei — The Two States of the Moto

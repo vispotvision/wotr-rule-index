@@ -1,11 +1,5 @@
 ---
 title: "Artemis Amagiri Moto"
-notion_id: "3b158200-eb22-8102-8a3b-d0038249a5a7"
-notion_url: "https://app.notion.com/p/Artemis-Amagiri-Moto-3b158200eb2281028a3bd0038249a5a7"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:25:00.000Z"
-verification: null
 ---
 
 # Artemis Amagiri Moto

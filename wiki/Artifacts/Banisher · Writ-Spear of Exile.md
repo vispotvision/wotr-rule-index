@@ -1,11 +1,5 @@
 ---
 title: "Banisher · Writ-Spear of Exile"
-notion_id: "3d958200-eb22-818f-a987-eb80c04b8e7a"
-notion_url: "https://app.notion.com/p/Banisher-Writ-Spear-of-Exile-3d958200eb22818fa987eb80c04b8e7a"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:36:00.000Z"
-verification: "unverified"
 ---
 
 # Banisher · Writ-Spear of Exile

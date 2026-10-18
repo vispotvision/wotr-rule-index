@@ -1,11 +1,6 @@
 ---
 title: "II. Grades, Gates and Thresholds (Parts Four–Ten)"
-notion_id: "3d758200-eb22-8131-b70d-c91722f2d3e4"
-notion_url: "https://app.notion.com/p/II-Grades-Gates-and-Thresholds-Parts-Four-Ten-3d758200eb228131b70dc91722f2d3e4"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-27T19:27:00.000Z"
-verification: "unverified"
 ---
 
 # II. Grades, Gates and Thresholds (Parts Four–Ten)

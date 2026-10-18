@@ -1,11 +1,5 @@
 ---
 title: "State of Play — Kwon Mu-jin / Hon-guk"
-notion_id: "3d458200-eb22-8139-94c7-c55fcf884b85"
-notion_url: "https://app.notion.com/p/State-of-Play-Kwon-Mu-jin-Hon-guk-3d458200eb22813994c7c55fcf884b85"
-section: "The Table — Running Pieces"
-tags: []
-last_edited: "2026-09-22T22:57:00.000Z"
-verification: null
 ---
 
 > **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.

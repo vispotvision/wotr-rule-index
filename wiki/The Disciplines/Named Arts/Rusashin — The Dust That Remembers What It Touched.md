@@ -1,11 +1,5 @@
 ---
 title: "Rusashin — The Dust That Remembers What It Touched"
-notion_id: "3bc58200-eb22-81c1-8272-d0f117d56c5c"
-notion_url: "https://app.notion.com/p/Rusashin-The-Dust-That-Remembers-What-It-Touched-3bc58200eb2281c18272d0f117d56c5c"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-12T17:04:00.000Z"
-verification: "unverified"
 ---
 
 # Rusashin — The Dust That Remembers What It Touched

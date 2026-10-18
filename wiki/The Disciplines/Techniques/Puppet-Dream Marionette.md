@@ -1,11 +1,5 @@
 ---
 title: "Puppet-Dream Marionette"
-notion_id: "3d958200-eb22-813c-a4f1-dd986f62009c"
-notion_url: "https://app.notion.com/p/Puppet-Dream-Marionette-3d958200eb22813ca4f1dd986f62009c"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Puppet-Dream Marionette

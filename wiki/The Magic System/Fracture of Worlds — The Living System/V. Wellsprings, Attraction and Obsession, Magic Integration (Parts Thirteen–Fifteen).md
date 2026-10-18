@@ -1,11 +1,6 @@
 ---
 title: "V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)"
-notion_id: "3d758200-eb22-814e-bff3-fd58ca5b26f4"
-notion_url: "https://app.notion.com/p/V-Wellsprings-Attraction-and-Obsession-Magic-Integration-Parts-Thirteen-Fifteen-3d758200eb22814ebff3fd58ca5b26f4"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: "unverified"
 ---
 
 # V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)

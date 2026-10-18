@@ -1,11 +1,5 @@
 ---
 title: "Emilia Veirynthiel · The Bloom of Dissonant Realms"
-notion_id: "3bd58200-eb22-816f-891d-c3e3069fe3ea"
-notion_url: "https://app.notion.com/p/Emilia-Veirynthiel-The-Bloom-of-Dissonant-Realms-3bd58200eb22816f891dc3e3069fe3ea"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:44:00.000Z"
-verification: null
 ---
 
 # Emilia Veirynthiel · The Bloom of Dissonant Realms

@@ -1,11 +1,5 @@
 ---
 title: "Ara Min Mahuo"
-notion_id: "3b258200-eb22-81b1-969c-fae081a7a00c"
-notion_url: "https://app.notion.com/p/Ara-Min-Mahuo-3b258200eb2281b1969cfae081a7a00c"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:25:00.000Z"
-verification: null
 ---
 
 # Ara Min Mahuo

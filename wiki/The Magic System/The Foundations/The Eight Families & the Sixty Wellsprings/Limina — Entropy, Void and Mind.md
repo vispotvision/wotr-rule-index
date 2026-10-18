@@ -1,11 +1,5 @@
 ---
 title: "Limina — Entropy, Void and Mind"
-notion_id: "3b158200-eb22-8197-9345-cf955fc00b7d"
-notion_url: "https://app.notion.com/p/Limina-Entropy-Void-and-Mind-3b158200eb2281979345cf955fc00b7d"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-09-23T23:25:00.000Z"
-verification: "unverified"
 ---
 
 # Limina — Entropy, Void and Mind

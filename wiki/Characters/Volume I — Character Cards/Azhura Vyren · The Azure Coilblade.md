@@ -1,11 +1,5 @@
 ---
 title: "Azhura Vyren · The Azure Coilblade"
-notion_id: "3d958200-eb22-81af-80a8-ed2301259d80"
-notion_url: "https://app.notion.com/p/Azhura-Vyren-The-Azure-Coilblade-3d958200eb2281af80a8ed2301259d80"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Azhura Vyren · The Azure Coilblade

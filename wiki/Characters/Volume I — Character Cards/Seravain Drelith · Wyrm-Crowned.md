@@ -1,11 +1,5 @@
 ---
 title: "Seravain Drelith · Wyrm-Crowned"
-notion_id: "3bd58200-eb22-81c3-9b51-c68e8a02a607"
-notion_url: "https://app.notion.com/p/Seravain-Drelith-Wyrm-Crowned-3bd58200eb2281c39b51c68e8a02a607"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Seravain Drelith · Wyrm-Crowned

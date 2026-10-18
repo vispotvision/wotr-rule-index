@@ -1,11 +1,5 @@
 ---
 title: "Dorrik · The Pot Man"
-notion_id: "3bd58200-eb22-81d0-b2b0-f845fc858474"
-notion_url: "https://app.notion.com/p/Dorrik-The-Pot-Man-3bd58200eb2281d0b2b0f845fc858474"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:42:00.000Z"
-verification: null
 ---
 
 # Dorrik · The Pot Man

@@ -1,11 +1,5 @@
 ---
 title: "Celestial Harmonic Shear"
-notion_id: "3d958200-eb22-8147-9361-c569a4d14649"
-notion_url: "https://app.notion.com/p/Celestial-Harmonic-Shear-3d958200eb2281479361c569a4d14649"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Celestial Harmonic Shear

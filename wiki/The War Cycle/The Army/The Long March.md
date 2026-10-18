@@ -1,11 +1,5 @@
 ---
 title: "The Long March"
-notion_id: "3b158200-eb22-81dd-a775-c4ff3a4a3b37"
-notion_url: "https://app.notion.com/p/The-Long-March-3b158200eb2281dda775c4ff3a4a3b37"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-08-03T21:48:00.000Z"
-verification: "unverified"
 ---
 
 # The Long March

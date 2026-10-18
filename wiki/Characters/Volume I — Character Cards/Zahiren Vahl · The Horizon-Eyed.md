@@ -1,11 +1,5 @@
 ---
 title: "Zahiren Vahl · The Horizon-Eyed"
-notion_id: "3bd58200-eb22-81af-bc22-e49f8a1b3219"
-notion_url: "https://app.notion.com/p/Zahiren-Vahl-The-Horizon-Eyed-3bd58200eb2281afbc22e49f8a1b3219"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Zahiren Vahl · The Horizon-Eyed

@@ -1,11 +1,5 @@
 ---
 title: "Harmonic Null-Ascension"
-notion_id: "3d958200-eb22-8189-a075-f0ba57eed018"
-notion_url: "https://app.notion.com/p/Harmonic-Null-Ascension-3d958200eb228189a075f0ba57eed018"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Harmonic Null-Ascension

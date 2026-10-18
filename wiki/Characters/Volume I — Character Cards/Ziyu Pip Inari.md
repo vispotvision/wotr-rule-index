@@ -1,11 +1,5 @@
 ---
 title: "Ziyu \"Pip\" Inari"
-notion_id: "3bd58200-eb22-81f4-bb4b-d3c3c9906da8"
-notion_url: "https://app.notion.com/p/Ziyu-Pip-Inari-3bd58200eb2281f4bb4bd3c3c9906da8"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Ziyu "Pip" Inari

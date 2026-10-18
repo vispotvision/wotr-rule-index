@@ -1,11 +1,5 @@
 ---
 title: "Hieronymus Cruciferi · The Immortal"
-notion_id: "3bd58200-eb22-8187-b8bd-eb7d922f8552"
-notion_url: "https://app.notion.com/p/Hieronymus-Cruciferi-The-Immortal-3bd58200eb228187b8bdeb7d922f8552"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:46:00.000Z"
-verification: null
 ---
 
 # Hieronymus Cruciferi · The Immortal

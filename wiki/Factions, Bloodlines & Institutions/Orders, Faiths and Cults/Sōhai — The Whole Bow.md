@@ -1,11 +1,5 @@
 ---
 title: "Sōhai — The Whole Bow"
-notion_id: "3bc58200-eb22-818c-9e58-dcf0a4fcfad5"
-notion_url: "https://app.notion.com/p/S-hai-The-Whole-Bow-3bc58200eb22818c9e58dcf0a4fcfad5"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: "unverified"
 ---
 
 # Sōhai — The Whole Bow

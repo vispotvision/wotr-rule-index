@@ -1,11 +1,5 @@
 ---
 title: "The Draconic Lineage"
-notion_id: "3b158200-eb22-8180-bf45-fa2b45c9e8ef"
-notion_url: "https://app.notion.com/p/The-Draconic-Lineage-3b158200eb228180bf45fa2b45c9e8ef"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-08-03T23:59:00.000Z"
-verification: "unverified"
 ---
 
 # The Draconic Lineage

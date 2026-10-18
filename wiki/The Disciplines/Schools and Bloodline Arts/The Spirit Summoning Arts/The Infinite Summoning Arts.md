@@ -1,11 +1,5 @@
 ---
 title: "The Infinite Summoning Arts"
-notion_id: "3be58200-eb22-81ae-b032-e03e5ebba791"
-notion_url: "https://app.notion.com/p/The-Infinite-Summoning-Arts-3be58200eb2281aeb032e03e5ebba791"
-section: "The Spirit Summoning Arts"
-tags: []
-last_edited: "2026-09-11T04:47:00.000Z"
-verification: "unverified"
 ---
 
 # The Infinite Summoning Arts

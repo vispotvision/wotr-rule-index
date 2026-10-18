@@ -1,11 +1,5 @@
 ---
 title: "Spinal Forge Ascent"
-notion_id: "3d958200-eb22-8170-897c-e243ebbda780"
-notion_url: "https://app.notion.com/p/Spinal-Forge-Ascent-3d958200eb228170897ce243ebbda780"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
-verification: null
 ---
 
 # Spinal Forge Ascent

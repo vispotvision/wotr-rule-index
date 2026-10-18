@@ -1,11 +1,5 @@
 ---
 title: "Aren Vallestride · Stone-Runner"
-notion_id: "3d958200-eb22-8179-bc7b-c79b4a9edd9b"
-notion_url: "https://app.notion.com/p/Aren-Vallestride-Stone-Runner-3d958200eb228179bc7bc79b4a9edd9b"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
-verification: null
 ---
 
 # Aren Vallestride · Stone-Runner

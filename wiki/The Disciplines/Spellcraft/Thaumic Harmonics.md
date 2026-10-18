@@ -1,11 +1,5 @@
 ---
 title: "Thaumic Harmonics"
-notion_id: "3d958200-eb22-814f-82a4-d18146936d4e"
-notion_url: "https://app.notion.com/p/Thaumic-Harmonics-3d958200eb22814f82a4d18146936d4e"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Thaumic Harmonics

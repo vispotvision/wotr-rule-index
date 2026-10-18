@@ -1,11 +1,5 @@
 ---
 title: "Goraku Tenryū · The Crimson Gourd"
-notion_id: "3bd58200-eb22-819b-bcda-cf19128af9f1"
-notion_url: "https://app.notion.com/p/Goraku-Tenry-The-Crimson-Gourd-3bd58200eb22819bbcdacf19128af9f1"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Goraku Tenryū · The Crimson Gourd

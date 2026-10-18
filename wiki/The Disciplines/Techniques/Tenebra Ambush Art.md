@@ -1,11 +1,5 @@
 ---
 title: "Tenebra Ambush Art"
-notion_id: "3d958200-eb22-81fd-bd46-fa749d2b18eb"
-notion_url: "https://app.notion.com/p/Tenebra-Ambush-Art-3d958200eb2281fdbd46fa749d2b18eb"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Tenebra Ambush Art

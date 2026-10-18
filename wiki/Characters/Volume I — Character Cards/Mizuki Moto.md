@@ -1,11 +1,5 @@
 ---
 title: "Mizuki Moto"
-notion_id: "3b258200-eb22-8198-b06f-e6376ea9af97"
-notion_url: "https://app.notion.com/p/Mizuki-Moto-3b258200eb228198b06fe6376ea9af97"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T19:48:00.000Z"
-verification: null
 ---
 
 # Mizuki Moto

@@ -1,11 +1,5 @@
 ---
 title: "The Aether Bastion"
-notion_id: "3d958200-eb22-8197-b8ca-c830003386ea"
-notion_url: "https://app.notion.com/p/The-Aether-Bastion-3d958200eb228197b8cac830003386ea"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # The Aether Bastion

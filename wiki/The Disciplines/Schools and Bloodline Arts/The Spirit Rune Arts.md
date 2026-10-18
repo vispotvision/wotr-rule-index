@@ -1,11 +1,5 @@
 ---
 title: "The Spirit Rune Arts"
-notion_id: "3b158200-eb22-8125-b16f-c6df559055a5"
-notion_url: "https://app.notion.com/p/The-Spirit-Rune-Arts-3b158200eb228125b16fc6df559055a5"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # The Spirit Rune Arts

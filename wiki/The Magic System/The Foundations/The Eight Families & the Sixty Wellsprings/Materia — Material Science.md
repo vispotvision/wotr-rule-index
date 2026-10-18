@@ -1,11 +1,6 @@
 ---
 title: "Materia — Material Science"
-notion_id: "3b158200-eb22-810e-8a93-c70c38d56d59"
-notion_url: "https://app.notion.com/p/Materia-Material-Science-3b158200eb22810e8a93c70c38d56d59"
-section: "The Eight Families & the Sixty Wellsprings"
 tags: ["Magic System"]
-last_edited: "2026-09-10T11:21:00.000Z"
-verification: "unverified"
 ---
 
 # Materia — Material Science

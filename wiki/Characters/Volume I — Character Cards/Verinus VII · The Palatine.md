@@ -1,11 +1,5 @@
 ---
 title: "Verinus VII · The Palatine"
-notion_id: "3b358200-eb22-81a0-b5a5-dcb396a01bcf"
-notion_url: "https://app.notion.com/p/Verinus-VII-The-Palatine-3b358200eb2281a0b5a5dcb396a01bcf"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T19:49:00.000Z"
-verification: null
 ---
 
 # Verinus VII · The Palatine

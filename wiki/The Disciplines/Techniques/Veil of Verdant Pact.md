@@ -1,11 +1,5 @@
 ---
 title: "Veil of Verdant Pact"
-notion_id: "3d958200-eb22-814b-89ed-f38910961f7a"
-notion_url: "https://app.notion.com/p/Veil-of-Verdant-Pact-3d958200eb22814b89edf38910961f7a"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
-verification: null
 ---
 
 # Veil of Verdant Pact

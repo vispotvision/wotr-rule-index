@@ -1,11 +1,5 @@
 ---
 title: "Eidolyn Falseface Lattice"
-notion_id: "3d958200-eb22-81e6-a929-d85f73e699ed"
-notion_url: "https://app.notion.com/p/Eidolyn-Falseface-Lattice-3d958200eb2281e6a929d85f73e699ed"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Eidolyn Falseface Lattice

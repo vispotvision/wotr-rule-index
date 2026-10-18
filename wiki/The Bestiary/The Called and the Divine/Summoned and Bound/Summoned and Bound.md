@@ -1,11 +1,5 @@
 ---
 title: "Summoned and Bound"
-notion_id: "3b358200-eb22-81e2-8fec-cf4387fbb268"
-notion_url: "https://app.notion.com/p/Summoned-and-Bound-3b358200eb2281e28feccf4387fbb268"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-08-07T19:55:00.000Z"
-verification: "unverified"
 ---
 
 # Summoned and Bound

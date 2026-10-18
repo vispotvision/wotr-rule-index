@@ -1,11 +1,5 @@
 ---
 title: "Vethraun Ashmaw"
-notion_id: "3b158200-eb22-81fc-b90e-fa46bf52d929"
-notion_url: "https://app.notion.com/p/Vethraun-Ashmaw-3b158200eb2281fcb90efa46bf52d929"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:24:00.000Z"
-verification: null
 ---
 
 # Vethraun Ashmaw

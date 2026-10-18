@@ -1,11 +1,5 @@
 ---
 title: "Garret Longshore — The Helmsman"
-notion_id: "3ba58200-eb22-8105-b40e-d63ecbb3e1b3"
-notion_url: "https://app.notion.com/p/Garret-Longshore-The-Helmsman-3ba58200eb228105b40ed63ecbb3e1b3"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Garret Longshore — The Helmsman

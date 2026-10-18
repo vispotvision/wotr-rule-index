@@ -1,11 +1,5 @@
 ---
 title: "Wren Greymane · The Traitor's Traitor"
-notion_id: "3e758200-eb22-81ce-a084-e914bad07900"
-notion_url: "https://app.notion.com/p/Wren-Greymane-The-Traitor-s-Traitor-3e758200eb2281cea084e914bad07900"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:13:00.000Z"
-verification: null
 ---
 
 # Wren Greymane · The Traitor's Traitor

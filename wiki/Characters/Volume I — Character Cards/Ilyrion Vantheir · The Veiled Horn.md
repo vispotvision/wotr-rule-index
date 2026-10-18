@@ -1,11 +1,5 @@
 ---
 title: "Ilyrion Vantheir · The Veiled Horn"
-notion_id: "3d958200-eb22-819d-ac8d-d223ee8dded0"
-notion_url: "https://app.notion.com/p/Ilyrion-Vantheir-The-Veiled-Horn-3d958200eb22819dac8dd223ee8dded0"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Ilyrion Vantheir · The Veiled Horn

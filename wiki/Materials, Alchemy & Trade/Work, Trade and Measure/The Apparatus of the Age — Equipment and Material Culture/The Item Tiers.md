@@ -1,11 +1,5 @@
 ---
 title: "The Item Tiers"
-notion_id: "3e758200-eb22-81c2-8bec-fbebb63df331"
-notion_url: "https://app.notion.com/p/The-Item-Tiers-3e758200eb2281c28becfbebb63df331"
-section: "The Apparatus of the Age — Equipment and Material Culture"
-tags: []
-last_edited: "2026-09-26T01:09:00.000Z"
-verification: "unverified"
 ---
 
 # The Item Tiers

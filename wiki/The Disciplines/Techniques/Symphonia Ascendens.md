@@ -1,11 +1,5 @@
 ---
 title: "Symphonia Ascendens"
-notion_id: "3d958200-eb22-817d-99e8-e4c9a28e2e0d"
-notion_url: "https://app.notion.com/p/Symphonia-Ascendens-3d958200eb22817d99e8e4c9a28e2e0d"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: null
 ---
 
 # Symphonia Ascendens

@@ -1,11 +1,5 @@
 ---
 title: "Precept"
-notion_id: "3db58200-eb22-813c-9f35-dc4735b78c66"
-notion_url: "https://app.notion.com/p/Precept-3db58200eb22813c9f35dc4735b78c66"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Precept

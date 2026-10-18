@@ -1,11 +1,5 @@
 ---
 title: "The Turtle's Boy"
-notion_id: "3df58200-eb22-8125-8b54-edd0ada0056d"
-notion_url: "https://app.notion.com/p/The-Turtle-s-Boy-3df58200eb2281258b54edd0ada0056d"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-18T03:32:00.000Z"
-verification: null
 ---
 
 # The Turtle's Boy

@@ -1,11 +1,5 @@
 ---
 title: "Pair I — Form Against Time"
-notion_id: "3b158200-eb22-8139-9622-f81cc747ccce"
-notion_url: "https://app.notion.com/p/Pair-I-Form-Against-Time-3b158200eb2281399622f81cc747ccce"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-08-03T03:56:00.000Z"
-verification: "unverified"
 ---
 
 # Pair I — Form Against Time

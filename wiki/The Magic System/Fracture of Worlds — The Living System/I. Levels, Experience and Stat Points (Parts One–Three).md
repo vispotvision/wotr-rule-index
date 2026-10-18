@@ -1,11 +1,6 @@
 ---
 title: "I. Levels, Experience and Stat Points (Parts One–Three)"
-notion_id: "3d758200-eb22-81a7-8ab6-ff201f11a35b"
-notion_url: "https://app.notion.com/p/I-Levels-Experience-and-Stat-Points-Parts-One-Three-3d758200eb2281a78ab6ff201f11a35b"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
-verification: "unverified"
 ---
 
 # I. Levels, Experience and Stat Points (Parts One–Three)

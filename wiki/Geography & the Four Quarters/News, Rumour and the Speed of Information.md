@@ -1,11 +1,6 @@
 ---
 title: "News, Rumour and the Speed of Information"
-notion_id: "3d758200-eb22-815d-a65d-f575fc67702e"
-notion_url: "https://app.notion.com/p/News-Rumour-and-the-Speed-of-Information-3d758200eb22815da65df575fc67702e"
-section: "Geography & the Four Quarters"
 tags: ["Geography", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
-verification: "unverified"
 ---
 
 # News, Rumour and the Speed of Information

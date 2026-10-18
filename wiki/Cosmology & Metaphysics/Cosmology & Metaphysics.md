@@ -1,11 +1,6 @@
 ---
 title: "Cosmology & Metaphysics"
-notion_id: "3b158200-eb22-8198-a175-ffe89c73b1a7"
-notion_url: "https://app.notion.com/p/Cosmology-Metaphysics-3b158200eb228198a175ffe89c73b1a7"
-section: "Cosmology"
 tags: ["Cosmology", "Lore & History", "Open Rulings"]
-last_edited: "2026-09-26T10:16:00.000Z"
-verification: "unverified"
 ---
 
 # Cosmology & Metaphysics

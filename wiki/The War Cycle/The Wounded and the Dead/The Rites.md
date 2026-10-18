@@ -1,11 +1,5 @@
 ---
 title: "The Rites"
-notion_id: "3b158200-eb22-81a4-9dc7-ffca7cbec10d"
-notion_url: "https://app.notion.com/p/The-Rites-3b158200eb2281a49dc7ffca7cbec10d"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-09-28T08:27:00.000Z"
-verification: "unverified"
 ---
 
 # The Rites

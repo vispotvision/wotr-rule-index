@@ -1,11 +1,5 @@
 ---
 title: "The Physician's Eye"
-notion_id: "3b158200-eb22-8131-9932-f9a3e0520ebb"
-notion_url: "https://app.notion.com/p/The-Physician-s-Eye-3b158200eb2281319932f9a3e0520ebb"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-08-03T21:54:00.000Z"
-verification: "unverified"
 ---
 
 # The Physician's Eye

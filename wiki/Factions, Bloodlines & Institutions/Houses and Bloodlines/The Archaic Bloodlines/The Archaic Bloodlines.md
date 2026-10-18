@@ -1,11 +1,6 @@
 ---
 title: "The Archaic Bloodlines"
-notion_id: "3b158200-eb22-810b-afd9-dd0d435ae61d"
-notion_url: "https://app.notion.com/p/The-Archaic-Bloodlines-3b158200eb22810bafd9dd0d435ae61d"
-section: "Factions, Bloodlines & Institutions"
 tags: ["Bloodlines", "Peoples"]
-last_edited: "2026-09-10T11:23:00.000Z"
-verification: "unverified"
 ---
 
 # The Archaic Bloodlines

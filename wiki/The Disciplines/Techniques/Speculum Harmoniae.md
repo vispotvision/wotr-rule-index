@@ -1,11 +1,5 @@
 ---
 title: "Speculum Harmoniae"
-notion_id: "3d958200-eb22-81bb-9794-c67b2dc67b6c"
-notion_url: "https://app.notion.com/p/Speculum-Harmoniae-3d958200eb2281bb9794c67b2dc67b6c"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Speculum Harmoniae

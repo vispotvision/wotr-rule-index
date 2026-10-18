@@ -1,11 +1,5 @@
 ---
 title: "Celestial Decree: Aeon-Shard Mandate"
-notion_id: "3d958200-eb22-8197-be75-f5a6d190046f"
-notion_url: "https://app.notion.com/p/Celestial-Decree-Aeon-Shard-Mandate-3d958200eb228197be75f5a6d190046f"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Celestial Decree: Aeon-Shard Mandate

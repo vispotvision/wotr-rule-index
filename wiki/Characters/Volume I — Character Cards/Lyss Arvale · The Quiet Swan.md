@@ -1,11 +1,5 @@
 ---
 title: "Lyss Arvale · The Quiet Swan"
-notion_id: "3d958200-eb22-8138-8dda-f74ea5945f55"
-notion_url: "https://app.notion.com/p/Lyss-Arvale-The-Quiet-Swan-3d958200eb2281388ddaf74ea5945f55"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
-verification: null
 ---
 
 # Lyss Arvale · The Quiet Swan

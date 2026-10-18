@@ -1,11 +1,5 @@
 ---
 title: "Dougou Ozumu Zettari"
-notion_id: "3b158200-eb22-8188-874c-cd1618236e50"
-notion_url: "https://app.notion.com/p/Dougou-Ozumu-Zettari-3b158200eb228188874ccd1618236e50"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:24:00.000Z"
-verification: null
 ---
 
 # Dougou Ozumu Zettari

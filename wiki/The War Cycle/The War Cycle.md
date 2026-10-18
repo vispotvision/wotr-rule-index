@@ -1,11 +1,6 @@
 ---
 title: "The War Cycle"
-notion_id: "3b158200-eb22-811f-8a02-ec7e1c31de00"
-notion_url: "https://app.notion.com/p/The-War-Cycle-3b158200eb22811f8a02ec7e1c31de00"
-section: "War"
 tags: ["War", "Medicine & Death", "Factions"]
-last_edited: "2026-09-10T11:04:00.000Z"
-verification: "unverified"
 ---
 
 # The War Cycle

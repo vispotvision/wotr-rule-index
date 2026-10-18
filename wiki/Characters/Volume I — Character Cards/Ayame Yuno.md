@@ -1,11 +1,5 @@
 ---
 title: "Ayame Yuno"
-notion_id: "3b158200-eb22-8153-a974-d20af56807e9"
-notion_url: "https://app.notion.com/p/Ayame-Yuno-3b158200eb228153a974d20af56807e9"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T19:48:00.000Z"
-verification: null
 ---
 
 # Ayame Yuno

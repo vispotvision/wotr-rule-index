@@ -1,11 +1,5 @@
 ---
 title: "Lilium Verdanis · Lily-Quill"
-notion_id: "3bd58200-eb22-81e5-955a-f01d85aee914"
-notion_url: "https://app.notion.com/p/Lilium-Verdanis-Lily-Quill-3bd58200eb2281e5955af01d85aee914"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:51:00.000Z"
-verification: null
 ---
 
 # Lilium Verdanis · Lily-Quill

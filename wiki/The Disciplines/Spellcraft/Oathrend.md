@@ -1,11 +1,5 @@
 ---
 title: "Oathrend"
-notion_id: "3d958200-eb22-8182-a765-f92086554f5f"
-notion_url: "https://app.notion.com/p/Oathrend-3d958200eb228182a765f92086554f5f"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Oathrend

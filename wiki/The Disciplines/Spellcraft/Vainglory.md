@@ -1,11 +1,5 @@
 ---
 title: "Vainglory"
-notion_id: "3d958200-eb22-8108-b1ff-ef07ba4fb3d5"
-notion_url: "https://app.notion.com/p/Vainglory-3d958200eb228108b1ffef07ba4fb3d5"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Vainglory

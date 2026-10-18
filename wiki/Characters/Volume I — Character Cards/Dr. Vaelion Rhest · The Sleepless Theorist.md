@@ -1,11 +1,5 @@
 ---
 title: "Dr. Vaelion Rhest · The Sleepless Theorist"
-notion_id: "3d958200-eb22-81ae-a271-c9b33f8cb6eb"
-notion_url: "https://app.notion.com/p/Dr-Vaelion-Rhest-The-Sleepless-Theorist-3d958200eb2281aea271c9b33f8cb6eb"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-14T00:17:00.000Z"
-verification: null
 ---
 
 # Dr. Vaelion Rhest · The Sleepless Theorist

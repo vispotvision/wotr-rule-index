@@ -1,11 +1,5 @@
 ---
 title: "Kaelen Raive · Sun-Sealed"
-notion_id: "3bd58200-eb22-81f8-8266-e6a5711bd552"
-notion_url: "https://app.notion.com/p/Kaelen-Raive-Sun-Sealed-3bd58200eb2281f88266e6a5711bd552"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:48:00.000Z"
-verification: null
 ---
 
 # Kaelen Raive · Sun-Sealed

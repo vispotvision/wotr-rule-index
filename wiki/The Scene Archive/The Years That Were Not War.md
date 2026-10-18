@@ -1,11 +1,5 @@
 ---
 title: "The Years That Were Not War"
-notion_id: "3de58200-eb22-81ec-87c4-eb31db90fc8d"
-notion_url: "https://app.notion.com/p/The-Years-That-Were-Not-War-3de58200eb2281ec87c4eb31db90fc8d"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-17T23:41:00.000Z"
-verification: null
 ---
 
 # The Years That Were Not War

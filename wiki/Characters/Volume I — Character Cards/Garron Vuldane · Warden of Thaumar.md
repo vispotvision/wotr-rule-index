@@ -1,11 +1,5 @@
 ---
 title: "Garron Vuldane · Warden of Thaumar"
-notion_id: "3d958200-eb22-81a4-9093-c5d1bc66d8d6"
-notion_url: "https://app.notion.com/p/Garron-Vuldane-Warden-of-Thaumar-3d958200eb2281a49093c5d1bc66d8d6"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:45:00.000Z"
-verification: null
 ---
 
 # Garron Vuldane · Warden of Thaumar

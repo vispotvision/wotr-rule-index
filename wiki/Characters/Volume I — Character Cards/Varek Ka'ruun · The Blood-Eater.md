@@ -1,11 +1,5 @@
 ---
 title: "Varek Ka'ruun · The Blood-Eater"
-notion_id: "3bd58200-eb22-81b9-bb26-f18946ca95f4"
-notion_url: "https://app.notion.com/p/Varek-Ka-ruun-The-Blood-Eater-3bd58200eb2281b9bb26f18946ca95f4"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Varek Ka'ruun · The Blood-Eater

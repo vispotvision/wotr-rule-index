@@ -1,11 +1,5 @@
 ---
 title: "Yukazuri Moto"
-notion_id: "3b158200-eb22-819a-85aa-e413f7e15e73"
-notion_url: "https://app.notion.com/p/Yukazuri-Moto-3b158200eb22819a85aae413f7e15e73"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:24:00.000Z"
-verification: null
 ---
 
 # Yukazuri Moto

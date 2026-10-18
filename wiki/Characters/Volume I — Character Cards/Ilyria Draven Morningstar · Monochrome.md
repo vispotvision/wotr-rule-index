@@ -1,11 +1,5 @@
 ---
 title: "Ilyria Draven Morningstar · Monochrome"
-notion_id: "3d958200-eb22-81dd-adc7-cbdef23dcbf6"
-notion_url: "https://app.notion.com/p/Ilyria-Draven-Morningstar-Monochrome-3d958200eb2281ddadc7cbdef23dcbf6"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Ilyria Draven Morningstar · Monochrome

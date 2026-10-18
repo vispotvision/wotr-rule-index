@@ -1,11 +1,5 @@
 ---
 title: "Thalyren Veyroot · The Verdant Sentinel"
-notion_id: "3bd58200-eb22-8161-81e9-fe287a9e1928"
-notion_url: "https://app.notion.com/p/Thalyren-Veyroot-The-Verdant-Sentinel-3bd58200eb22816181e9fe287a9e1928"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:01:00.000Z"
-verification: null
 ---
 
 # Thalyren Veyroot · The Verdant Sentinel

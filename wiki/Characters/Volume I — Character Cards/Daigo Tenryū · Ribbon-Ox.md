@@ -1,11 +1,5 @@
 ---
 title: "Daigo Tenryū · Ribbon-Ox"
-notion_id: "3bd58200-eb22-81d5-8be7-c521e402b92a"
-notion_url: "https://app.notion.com/p/Daigo-Tenry-Ribbon-Ox-3bd58200eb2281d58be7c521e402b92a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Daigo Tenryū · Ribbon-Ox

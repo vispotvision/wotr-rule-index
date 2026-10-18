@@ -1,11 +1,5 @@
 ---
 title: "Edictum Resonantiae"
-notion_id: "3d958200-eb22-814c-b9de-e80b157dae4d"
-notion_url: "https://app.notion.com/p/Edictum-Resonantiae-3d958200eb22814cb9dee80b157dae4d"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Edictum Resonantiae

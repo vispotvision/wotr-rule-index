@@ -1,11 +1,5 @@
 ---
 title: "Florwyn's Canticle"
-notion_id: "3d958200-eb22-811f-aa49-d23d8865efbd"
-notion_url: "https://app.notion.com/p/Florwyn-s-Canticle-3d958200eb22811faa49d23d8865efbd"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Florwyn's Canticle

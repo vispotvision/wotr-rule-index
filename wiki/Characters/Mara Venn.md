@@ -1,11 +1,5 @@
 ---
 title: "Mara Venn"
-notion_id: "3f658200-eb22-817e-978a-f3d007d84177"
-notion_url: "https://app.notion.com/p/Mara-Venn-3f658200eb22817e978af3d007d84177"
-section: "Characters"
-tags: []
-last_edited: "2026-10-11T08:59:00.000Z"
-verification: null
 ---
 
 # Mara Venn

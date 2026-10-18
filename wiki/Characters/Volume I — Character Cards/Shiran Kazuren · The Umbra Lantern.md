@@ -1,11 +1,5 @@
 ---
 title: "Shiran Kazuren · The Umbra Lantern"
-notion_id: "3d958200-eb22-814b-9bb1-e751a85ef1b6"
-notion_url: "https://app.notion.com/p/Shiran-Kazuren-The-Umbra-Lantern-3d958200eb22814b9bb1e751a85ef1b6"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
-verification: null
 ---
 
 # Shiran Kazuren · The Umbra Lantern

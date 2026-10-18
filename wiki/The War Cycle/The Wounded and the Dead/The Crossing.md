@@ -1,11 +1,5 @@
 ---
 title: "The Crossing"
-notion_id: "3b158200-eb22-8158-834e-d24276e6337d"
-notion_url: "https://app.notion.com/p/The-Crossing-3b158200eb228158834ed24276e6337d"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-09-28T08:26:00.000Z"
-verification: "unverified"
 ---
 
 # The Crossing

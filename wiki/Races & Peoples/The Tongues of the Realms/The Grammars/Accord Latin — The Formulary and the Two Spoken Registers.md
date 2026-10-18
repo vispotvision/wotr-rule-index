@@ -1,11 +1,6 @@
 ---
 title: "Accord Latin — The Formulary and the Two Spoken Registers"
-notion_id: "3d758200-eb22-818c-8c74-e8d11a5bac2e"
-notion_url: "https://app.notion.com/p/Accord-Latin-The-Formulary-and-the-Two-Spoken-Registers-3d758200eb22818c8c74e8d11a5bac2e"
-section: "The Tongues of the Realms"
 tags: ["Peoples", "Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
-verification: "unverified"
 ---
 
 # Accord Latin — The Formulary and the Two Spoken Registers

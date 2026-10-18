@@ -1,11 +1,6 @@
 ---
 title: "VI. The Sixteen Temperance Stages (Part Sixteen)"
-notion_id: "3d758200-eb22-8151-8fc1-ebca5eb525f1"
-notion_url: "https://app.notion.com/p/VI-The-Sixteen-Temperance-Stages-Part-Sixteen-3d758200eb2281518fc1ebca5eb525f1"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
-verification: "unverified"
 ---
 
 # VI. The Sixteen Temperance Stages (Part Sixteen)

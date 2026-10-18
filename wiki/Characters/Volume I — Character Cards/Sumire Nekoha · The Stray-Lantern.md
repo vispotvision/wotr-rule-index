@@ -1,11 +1,5 @@
 ---
 title: "Sumire Nekoha · The Stray-Lantern"
-notion_id: "3bd58200-eb22-816a-ad8f-e8be911de174"
-notion_url: "https://app.notion.com/p/Sumire-Nekoha-The-Stray-Lantern-3bd58200eb22816aad8fe8be911de174"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Sumire Nekoha · The Stray-Lantern

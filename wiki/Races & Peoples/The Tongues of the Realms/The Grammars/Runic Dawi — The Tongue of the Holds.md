@@ -1,11 +1,6 @@
 ---
 title: "Runic Dawi — The Tongue of the Holds"
-notion_id: "3d758200-eb22-81cd-b73f-f4b6e70d5643"
-notion_url: "https://app.notion.com/p/Runic-Dawi-The-Tongue-of-the-Holds-3d758200eb2281cdb73ff4b6e70d5643"
-section: "The Tongues of the Realms"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-26T10:19:00.000Z"
-verification: "unverified"
 ---
 
 # Runic Dawi — The Tongue of the Holds

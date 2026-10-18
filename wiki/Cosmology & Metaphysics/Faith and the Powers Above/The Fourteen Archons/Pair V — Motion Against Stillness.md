@@ -1,11 +1,5 @@
 ---
 title: "Pair V — Motion Against Stillness"
-notion_id: "3b158200-eb22-81ac-bcd3-f088741ab22f"
-notion_url: "https://app.notion.com/p/Pair-V-Motion-Against-Stillness-3b158200eb2281acbcd3f088741ab22f"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-08-03T03:58:00.000Z"
-verification: "unverified"
 ---
 
 # Pair V — Motion Against Stillness

@@ -1,11 +1,6 @@
 ---
 title: "VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)"
-notion_id: "3d758200-eb22-81d0-a367-f18213037668"
-notion_url: "https://app.notion.com/p/VIII-Traits-Soul-Crystal-Tiers-Domains-Parts-Twenty-Twenty-Two-3d758200eb2281d0a367f18213037668"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-28T08:26:00.000Z"
-verification: "unverified"
 ---
 
 # VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)

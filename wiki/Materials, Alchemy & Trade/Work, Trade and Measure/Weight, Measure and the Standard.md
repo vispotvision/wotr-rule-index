@@ -1,11 +1,6 @@
 ---
 title: "Weight, Measure and the Standard"
-notion_id: "3d758200-eb22-81c5-8da5-c6f7571cfd0a"
-notion_url: "https://app.notion.com/p/Weight-Measure-and-the-Standard-3d758200eb2281c58da5c6f7571cfd0a"
-section: "Materials, Alchemy & Trade"
 tags: ["Trade & Economy", "Materials", "Reference Table"]
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: "unverified"
 ---
 
 # Weight, Measure and the Standard

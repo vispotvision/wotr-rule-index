@@ -1,11 +1,5 @@
 ---
 title: "The Principle Engine"
-notion_id: "3d958200-eb22-8186-8bad-f6ce4a3ae0b4"
-notion_url: "https://app.notion.com/p/The-Principle-Engine-3d958200eb2281868badf6ce4a3ae0b4"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # The Principle Engine

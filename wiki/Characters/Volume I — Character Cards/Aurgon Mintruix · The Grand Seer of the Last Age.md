@@ -1,11 +1,5 @@
 ---
 title: "Aurgon Mintruix · The Grand Seer of the Last Age"
-notion_id: "3d958200-eb22-81fd-bb67-d8007cb2fc2d"
-notion_url: "https://app.notion.com/p/Aurgon-Mintruix-The-Grand-Seer-of-the-Last-Age-3d958200eb2281fdbb67d8007cb2fc2d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Aurgon Mintruix · The Grand Seer of the Last Age

@@ -1,11 +1,5 @@
 ---
 title: "Pair III — Will Against Desire"
-notion_id: "3b158200-eb22-8110-b2c7-d1c384576c3e"
-notion_url: "https://app.notion.com/p/Pair-III-Will-Against-Desire-3b158200eb228110b2c7d1c384576c3e"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-08-03T03:57:00.000Z"
-verification: "unverified"
 ---
 
 # Pair III — Will Against Desire

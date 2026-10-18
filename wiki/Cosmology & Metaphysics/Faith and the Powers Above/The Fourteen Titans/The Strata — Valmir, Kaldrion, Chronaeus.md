@@ -1,11 +1,5 @@
 ---
 title: "The Strata — Valmir, Kaldrion, Chronaeus"
-notion_id: "3c758200-eb22-8107-ad02-f82db3f76b17"
-notion_url: "https://app.notion.com/p/The-Strata-Valmir-Kaldrion-Chronaeus-3c758200eb228107ad02f82db3f76b17"
-section: "The Fourteen Titans"
-tags: []
-last_edited: "2026-08-25T23:35:00.000Z"
-verification: "unverified"
 ---
 
 # The Strata — Valmir, Kaldrion, Chronaeus

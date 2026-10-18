@@ -1,11 +1,5 @@
 ---
 title: "The Reference"
-notion_id: "3de58200-eb22-8164-af35-fba708ef2478"
-notion_url: "https://app.notion.com/p/The-Reference-3de58200eb228164af35fba708ef2478"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: null
 ---
 
 # The Reference

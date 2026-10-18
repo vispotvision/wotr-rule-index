@@ -1,11 +1,5 @@
 ---
 title: "Corona Lunaris"
-notion_id: "3d958200-eb22-81be-bb9a-f4663804c972"
-notion_url: "https://app.notion.com/p/Corona-Lunaris-3d958200eb2281bebb9af4663804c972"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Corona Lunaris

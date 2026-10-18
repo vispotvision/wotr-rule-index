@@ -1,11 +1,5 @@
 ---
 title: "The Practitioner Problem"
-notion_id: "3b158200-eb22-8110-8153-d03b59822ad3"
-notion_url: "https://app.notion.com/p/The-Practitioner-Problem-3b158200eb2281108153d03b59822ad3"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-08-03T20:49:00.000Z"
-verification: "unverified"
 ---
 
 # The Practitioner Problem

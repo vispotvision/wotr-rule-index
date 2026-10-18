@@ -1,11 +1,5 @@
 ---
 title: "Ristra Lenovira · The Hollow"
-notion_id: "3bd58200-eb22-814e-ac4d-f397be8fa60a"
-notion_url: "https://app.notion.com/p/Ristra-Lenovira-The-Hollow-3bd58200eb22814eac4df397be8fa60a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:58:00.000Z"
-verification: null
 ---
 
 # Ristra Lenovira · The Hollow

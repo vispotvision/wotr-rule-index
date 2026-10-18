@@ -1,11 +1,6 @@
 ---
 title: "The Yukari Bloodline"
-notion_id: "3b158200-eb22-8185-ab74-e241da616224"
-notion_url: "https://app.notion.com/p/The-Yukari-Bloodline-3b158200eb228185ab74e241da616224"
-section: "The Archaic Bloodlines"
 tags: ["Bloodlines"]
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Yukari Bloodline

@@ -1,11 +1,5 @@
 ---
 title: "The Tiered Path"
-notion_id: "3b158200-eb22-811c-b2ec-dee2ebc43a44"
-notion_url: "https://app.notion.com/p/The-Tiered-Path-3b158200eb22811cb2ecdee2ebc43a44"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-10-14T00:32:00.000Z"
-verification: "unverified"
 ---
 
 # The Tiered Path

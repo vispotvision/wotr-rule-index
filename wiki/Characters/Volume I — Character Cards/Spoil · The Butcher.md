@@ -1,11 +1,5 @@
 ---
 title: "Spoil · The Butcher"
-notion_id: "3bd58200-eb22-816c-a809-e9f7ce2a90b9"
-notion_url: "https://app.notion.com/p/Spoil-The-Butcher-3bd58200eb22816ca809e9f7ce2a90b9"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:01:00.000Z"
-verification: null
 ---
 
 # Spoil · The Butcher

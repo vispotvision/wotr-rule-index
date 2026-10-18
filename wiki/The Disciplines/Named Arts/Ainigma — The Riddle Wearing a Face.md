@@ -1,11 +1,5 @@
 ---
 title: "Ainigma — The Riddle Wearing a Face"
-notion_id: "3bc58200-eb22-81d8-8938-dba04d309c81"
-notion_url: "https://app.notion.com/p/Ainigma-The-Riddle-Wearing-a-Face-3bc58200eb2281d88938dba04d309c81"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-08-14T21:46:00.000Z"
-verification: "unverified"
 ---
 
 # Ainigma — The Riddle Wearing a Face

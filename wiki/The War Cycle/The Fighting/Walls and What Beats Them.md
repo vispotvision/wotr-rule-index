@@ -1,11 +1,5 @@
 ---
 title: "Walls and What Beats Them"
-notion_id: "3b158200-eb22-81d6-b658-cd83c3e7cc2a"
-notion_url: "https://app.notion.com/p/Walls-and-What-Beats-Them-3b158200eb2281d6b658cd83c3e7cc2a"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-08-03T21:49:00.000Z"
-verification: "unverified"
 ---
 
 # Walls and What Beats Them

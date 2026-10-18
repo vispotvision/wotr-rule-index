@@ -1,11 +1,5 @@
 ---
 title: "The Ashkaru"
-notion_id: "3df58200-eb22-817f-a15e-de004a49168c"
-notion_url: "https://app.notion.com/p/The-Ashkaru-3df58200eb22817fa15ede004a49168c"
-section: "Races & Peoples"
-tags: []
-last_edited: "2026-09-18T20:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Ashkaru

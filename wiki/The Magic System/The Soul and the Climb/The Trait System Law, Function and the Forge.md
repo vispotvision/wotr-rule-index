@@ -1,11 +1,6 @@
 ---
 title: "The Trait System: Law, Function and the Forge"
-notion_id: "3d558200-eb22-81ab-a65f-e63097e58d06"
-notion_url: "https://app.notion.com/p/The-Trait-System-Law-Function-and-the-Forge-3d558200eb2281aba65fe63097e58d06"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-15T16:40:00.000Z"
-verification: "unverified"
 ---
 
 # The Trait System: Law, Function and the Forge

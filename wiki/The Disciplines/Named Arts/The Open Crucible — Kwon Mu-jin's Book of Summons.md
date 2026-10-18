@@ -1,11 +1,5 @@
 ---
 title: "The Open Crucible — Kwon Mu-jin's Book of Summons"
-notion_id: "3b158200-eb22-81a2-b8b0-d25b6aa62c92"
-notion_url: "https://app.notion.com/p/The-Open-Crucible-Kwon-Mu-jin-s-Book-of-Summons-3b158200eb2281a2b8b0d25b6aa62c92"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # The Open Crucible — Kwon Mu-jin's Book of Summons

@@ -1,11 +1,5 @@
 ---
 title: "Merit and Severance"
-notion_id: "3b158200-eb22-81ad-bc02-e5d29faaa253"
-notion_url: "https://app.notion.com/p/Merit-and-Severance-3b158200eb2281adbc02e5d29faaa253"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-09-26T14:13:00.000Z"
-verification: "unverified"
 ---
 
 # Merit and Severance

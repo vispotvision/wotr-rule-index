@@ -1,11 +1,5 @@
 ---
 title: "Marigold Vance · The Gilded Bailiff"
-notion_id: "3bd58200-eb22-8156-bcd5-e34617b1ae7e"
-notion_url: "https://app.notion.com/p/Marigold-Vance-The-Gilded-Bailiff-3bd58200eb228156bcd5e34617b1ae7e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Marigold Vance · The Gilded Bailiff

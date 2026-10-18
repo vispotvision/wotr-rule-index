@@ -1,11 +1,5 @@
 ---
 title: "Evangelien Rhymaris · The Hollow Bride"
-notion_id: "3bd58200-eb22-8125-916d-cc690d26ab38"
-notion_url: "https://app.notion.com/p/Evangelien-Rhymaris-The-Hollow-Bride-3bd58200eb228125916dcc690d26ab38"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:19:00.000Z"
-verification: null
 ---
 
 # Evangelien Rhymaris · The Hollow Bride

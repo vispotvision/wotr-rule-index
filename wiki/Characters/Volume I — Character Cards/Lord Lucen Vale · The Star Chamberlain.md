@@ -1,11 +1,5 @@
 ---
 title: "Lord Lucen Vale · The Star Chamberlain"
-notion_id: "3bd58200-eb22-8187-905a-c8dfc517ccc3"
-notion_url: "https://app.notion.com/p/Lord-Lucen-Vale-The-Star-Chamberlain-3bd58200eb228187905ac8dfc517ccc3"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Lord Lucen Vale · The Star Chamberlain

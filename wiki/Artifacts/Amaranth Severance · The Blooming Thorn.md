@@ -1,11 +1,5 @@
 ---
 title: "Amaranth Severance · The Blooming Thorn"
-notion_id: "3d958200-eb22-81c8-aaa9-efbff19b98eb"
-notion_url: "https://app.notion.com/p/Amaranth-Severance-The-Blooming-Thorn-3d958200eb2281c8aaa9efbff19b98eb"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:34:00.000Z"
-verification: "unverified"
 ---
 
 # Amaranth Severance · The Blooming Thorn

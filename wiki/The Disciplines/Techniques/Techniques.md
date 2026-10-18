@@ -1,11 +1,5 @@
 ---
 title: "Techniques"
-notion_id: "3d958200-eb22-810c-bdd0-ff9ddaed93cc"
-notion_url: "https://app.notion.com/p/Techniques-3d958200eb22810cbdd0ff9ddaed93cc"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-12T16:07:00.000Z"
-verification: "unverified"
 ---
 
 # Techniques

@@ -1,11 +1,5 @@
 ---
 title: "Geturo Mahuo"
-notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
-notion_url: "https://app.notion.com/p/Geturo-Mahuo-3e058200eb22819abe45e0609e1102db"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-06T20:13:00.000Z"
-verification: null
 ---
 
 # Geturo Mahuo

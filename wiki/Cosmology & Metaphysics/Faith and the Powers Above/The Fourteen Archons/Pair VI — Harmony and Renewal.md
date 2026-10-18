@@ -1,11 +1,5 @@
 ---
 title: "Pair VI — Harmony and Renewal"
-notion_id: "3b158200-eb22-812f-a3b9-d313fe5b3c77"
-notion_url: "https://app.notion.com/p/Pair-VI-Harmony-and-Renewal-3b158200eb22812fa3b9d313fe5b3c77"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-09-12T18:52:00.000Z"
-verification: "unverified"
 ---
 
 # Pair VI — Harmony and Renewal

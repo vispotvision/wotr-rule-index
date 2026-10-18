@@ -1,11 +1,5 @@
 ---
 title: "Lich"
-notion_id: "3d958200-eb22-8171-8652-f3fb9eb8cbec"
-notion_url: "https://app.notion.com/p/Lich-3d958200eb2281718652f3fb9eb8cbec"
-section: "Aberrations"
-tags: []
-last_edited: "2026-09-12T16:08:00.000Z"
-verification: "unverified"
 ---
 
 # Lich

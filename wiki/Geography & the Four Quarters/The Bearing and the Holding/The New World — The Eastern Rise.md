@@ -1,11 +1,5 @@
 ---
 title: "The New World — The Eastern Rise"
-notion_id: "3b158200-eb22-8139-b5a2-cc7baf01b23f"
-notion_url: "https://app.notion.com/p/The-New-World-The-Eastern-Rise-3b158200eb228139b5a2cc7baf01b23f"
-section: "The Bearing and the Holding"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: "unverified"
 ---
 
 # The New World — The Eastern Rise

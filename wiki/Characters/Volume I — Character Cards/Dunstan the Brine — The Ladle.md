@@ -1,11 +1,5 @@
 ---
 title: "Dunstan the Brine — The Ladle"
-notion_id: "3ba58200-eb22-8125-87bd-f7c96f77d80a"
-notion_url: "https://app.notion.com/p/Dunstan-the-Brine-The-Ladle-3ba58200eb22812587bdf7c96f77d80a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Dunstan the Brine — The Ladle

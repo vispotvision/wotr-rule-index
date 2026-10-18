@@ -1,11 +1,5 @@
 ---
 title: "Fronts"
-notion_id: "3d458200-eb22-8167-8e70-d13cfe2b4c1e"
-notion_url: "https://app.notion.com/p/Fronts-3d458200eb2281678e70d13cfe2b4c1e"
-section: "The Table — Running Pieces"
-tags: []
-last_edited: "2026-09-26T09:54:00.000Z"
-verification: null
 ---
 
 # Fronts

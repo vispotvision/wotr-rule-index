@@ -1,11 +1,5 @@
 ---
 title: "The Sage Arts"
-notion_id: "3b158200-eb22-8174-ad37-d0a4cf2dd7c4"
-notion_url: "https://app.notion.com/p/The-Sage-Arts-3b158200eb228174ad37d0a4cf2dd7c4"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-08-03T04:42:00.000Z"
-verification: "unverified"
 ---
 
 # The Sage Arts

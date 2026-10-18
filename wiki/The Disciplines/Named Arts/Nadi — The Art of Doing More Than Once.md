@@ -1,11 +1,5 @@
 ---
 title: "Nadi — The Art of Doing More Than Once"
-notion_id: "3bc58200-eb22-81ac-8c73-d85875585c93"
-notion_url: "https://app.notion.com/p/Nadi-The-Art-of-Doing-More-Than-Once-3bc58200eb2281ac8c73d85875585c93"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-08-15T19:24:00.000Z"
-verification: "unverified"
 ---
 
 # Nadi — The Art of Doing More Than Once

@@ -1,11 +1,5 @@
 ---
 title: "Radiant Ribbon Shell"
-notion_id: "3d958200-eb22-814b-88b9-e2274801acc1"
-notion_url: "https://app.notion.com/p/Radiant-Ribbon-Shell-3d958200eb22814b88b9e2274801acc1"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:39:00.000Z"
-verification: null
 ---
 
 # Radiant Ribbon Shell

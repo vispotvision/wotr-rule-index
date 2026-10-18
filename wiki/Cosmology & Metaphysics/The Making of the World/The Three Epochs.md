@@ -1,11 +1,6 @@
 ---
 title: "The Three Epochs"
-notion_id: "3b158200-eb22-8130-8ae9-e10d3184b928"
-notion_url: "https://app.notion.com/p/The-Three-Epochs-3b158200eb2281308ae9e10d3184b928"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Lore & History"]
-last_edited: "2026-09-10T11:16:00.000Z"
-verification: "unverified"
 ---
 
 # The Three Epochs

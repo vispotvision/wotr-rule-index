@@ -1,11 +1,5 @@
 ---
 title: "Pair II — Memory Against Horizon"
-notion_id: "3b158200-eb22-81b4-8f11-e392649c5724"
-notion_url: "https://app.notion.com/p/Pair-II-Memory-Against-Horizon-3b158200eb2281b48f11e392649c5724"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-08-03T03:57:00.000Z"
-verification: "unverified"
 ---
 
 # Pair II — Memory Against Horizon

@@ -1,11 +1,5 @@
 ---
 title: "The Hobgoblin Expanse"
-notion_id: "3b158200-eb22-81b0-8227-d8a4f9a29302"
-notion_url: "https://app.notion.com/p/The-Hobgoblin-Expanse-3b158200eb2281b08227d8a4f9a29302"
-section: "The Bearing and the Holding"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: "unverified"
 ---
 
 # The Hobgoblin Expanse

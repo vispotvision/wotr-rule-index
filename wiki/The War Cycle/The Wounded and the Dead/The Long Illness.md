@@ -1,11 +1,5 @@
 ---
 title: "The Long Illness"
-notion_id: "3b158200-eb22-815d-a4ff-cde97898b520"
-notion_url: "https://app.notion.com/p/The-Long-Illness-3b158200eb22815da4ffcde97898b520"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-08-03T21:54:00.000Z"
-verification: "unverified"
 ---
 
 # The Long Illness

@@ -1,11 +1,5 @@
 ---
 title: "Solution — The Mind That Solves Itself"
-notion_id: "3bc58200-eb22-8197-91ec-dcf027e55b16"
-notion_url: "https://app.notion.com/p/Solution-The-Mind-That-Solves-Itself-3bc58200eb22819791ecdcf027e55b16"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-08-15T19:25:00.000Z"
-verification: "unverified"
 ---
 
 # Solution — The Mind That Solves Itself

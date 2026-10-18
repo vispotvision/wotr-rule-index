@@ -1,11 +1,5 @@
 ---
 title: "State of Play — Kwon Mu-jin / Aetherion Academy"
-notion_id: "3e358200-eb22-8116-9454-faa55bc0126a"
-notion_url: "https://app.notion.com/p/State-of-Play-Kwon-Mu-jin-Aetherion-Academy-3e358200eb2281169454faa55bc0126a"
-section: "The Table — Running Pieces"
-tags: []
-last_edited: "2026-09-26T03:56:00.000Z"
-verification: null
 ---
 
 > **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.

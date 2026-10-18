@@ -1,11 +1,5 @@
 ---
 title: "Auric Parallax Veil"
-notion_id: "3d958200-eb22-8137-90e5-fc53d6a06e7c"
-notion_url: "https://app.notion.com/p/Auric-Parallax-Veil-3d958200eb22813790e5fc53d6a06e7c"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Auric Parallax Veil

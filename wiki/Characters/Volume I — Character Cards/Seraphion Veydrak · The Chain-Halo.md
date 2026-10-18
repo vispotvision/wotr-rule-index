@@ -1,11 +1,5 @@
 ---
 title: "Seraphion Veydrak · The Chain-Halo"
-notion_id: "3bd58200-eb22-812e-9e0e-d03121c93f1c"
-notion_url: "https://app.notion.com/p/Seraphion-Veydrak-The-Chain-Halo-3bd58200eb22812e9e0ed03121c93f1c"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:59:00.000Z"
-verification: null
 ---
 
 # Seraphion Veydrak · The Chain-Halo

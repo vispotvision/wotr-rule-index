@@ -1,11 +1,5 @@
 ---
 title: "Rathien Veythar · The Fang"
-notion_id: "3bd58200-eb22-8127-95cc-c4c79263598c"
-notion_url: "https://app.notion.com/p/Rathien-Veythar-The-Fang-3bd58200eb22812795ccc4c79263598c"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:56:00.000Z"
-verification: null
 ---
 
 # Rathien Veythar · The Fang

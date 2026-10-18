@@ -1,11 +1,5 @@
 ---
 title: "Basilio Pavaret · The Crimson Bloom"
-notion_id: "3bd58200-eb22-8195-ab47-f388789beb53"
-notion_url: "https://app.notion.com/p/Basilio-Pavaret-The-Crimson-Bloom-3bd58200eb228195ab47f388789beb53"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Basilio Pavaret · The Crimson Bloom

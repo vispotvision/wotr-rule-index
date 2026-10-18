@@ -1,11 +1,5 @@
 ---
 title: "Neiman Lion"
-notion_id: "3d958200-eb22-8108-aab9-e1a51da2b140"
-notion_url: "https://app.notion.com/p/Neiman-Lion-3d958200eb228108aab9e1a51da2b140"
-section: "Natural Beasts"
-tags: []
-last_edited: "2026-09-12T16:08:00.000Z"
-verification: "unverified"
 ---
 
 # Neiman Lion

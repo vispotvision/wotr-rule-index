@@ -1,11 +1,5 @@
 ---
 title: "Rikudoku Moto"
-notion_id: "3e058200-eb22-818a-9903-e9116936db3e"
-notion_url: "https://app.notion.com/p/Rikudoku-Moto-3e058200eb22818a9903e9116936db3e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Rikudoku Moto

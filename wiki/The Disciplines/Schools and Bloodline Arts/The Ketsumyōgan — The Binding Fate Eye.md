@@ -1,11 +1,5 @@
 ---
 title: "The Ketsumyōgan — The Binding Fate Eye"
-notion_id: "3b158200-eb22-815e-8fe9-fb1a81cf3572"
-notion_url: "https://app.notion.com/p/The-Ketsumy-gan-The-Binding-Fate-Eye-3b158200eb22815e8fe9fb1a81cf3572"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-28T08:56:00.000Z"
-verification: null
 ---
 
 # The Ketsumyōgan — The Binding Fate Eye

@@ -1,11 +1,5 @@
 ---
 title: "Haelvorn · Housecat"
-notion_id: "3b558200-eb22-819c-9e78-fe7ec0806c15"
-notion_url: "https://app.notion.com/p/Haelvorn-Housecat-3b558200eb22819c9e78fe7ec0806c15"
-section: "Summoned and Bound"
-tags: []
-last_edited: "2026-09-12T18:53:00.000Z"
-verification: "unverified"
 ---
 
 # Haelvorn · Housecat

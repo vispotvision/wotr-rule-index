@@ -1,11 +1,5 @@
 ---
 title: "Lucius Xenotro"
-notion_id: "3b258200-eb22-8134-ac40-e15946bf350a"
-notion_url: "https://app.notion.com/p/Lucius-Xenotro-3b258200eb228134ac40e15946bf350a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:46:00.000Z"
-verification: null
 ---
 
 # Lucius Xenotro

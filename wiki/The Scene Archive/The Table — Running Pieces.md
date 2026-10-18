@@ -1,11 +1,5 @@
 ---
 title: "The Table — Running Pieces"
-notion_id: "3d458200-eb22-813a-9148-fb943587f1dc"
-notion_url: "https://app.notion.com/p/The-Table-Running-Pieces-3d458200eb22813a9148fb943587f1dc"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-14T01:02:00.000Z"
-verification: null
 ---
 
 # The Table — Running Pieces

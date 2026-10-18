@@ -1,11 +1,5 @@
 ---
 title: "The Veil"
-notion_id: "3d958200-eb22-81ed-8d47-f2f491c36eb9"
-notion_url: "https://app.notion.com/p/The-Veil-3d958200eb2281ed8d47f2f491c36eb9"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-15T22:09:00.000Z"
-verification: "unverified"
 ---
 
 # The Veil

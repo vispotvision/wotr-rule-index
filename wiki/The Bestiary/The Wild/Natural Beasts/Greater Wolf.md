@@ -1,11 +1,5 @@
 ---
 title: "Greater Wolf"
-notion_id: "3d958200-eb22-8110-938b-fccf2e0885a4"
-notion_url: "https://app.notion.com/p/Greater-Wolf-3d958200eb228110938bfccf2e0885a4"
-section: "Natural Beasts"
-tags: []
-last_edited: "2026-09-12T16:08:00.000Z"
-verification: "unverified"
 ---
 
 # Greater Wolf

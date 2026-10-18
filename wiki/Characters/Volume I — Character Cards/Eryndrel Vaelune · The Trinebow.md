@@ -1,11 +1,5 @@
 ---
 title: "Eryndrel Vaelune · The Trinebow"
-notion_id: "3bd58200-eb22-8160-a69a-d8fa78833741"
-notion_url: "https://app.notion.com/p/Eryndrel-Vaelune-The-Trinebow-3bd58200eb228160a69ad8fa78833741"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:44:00.000Z"
-verification: null
 ---
 
 # Eryndrel Vaelune · The Trinebow

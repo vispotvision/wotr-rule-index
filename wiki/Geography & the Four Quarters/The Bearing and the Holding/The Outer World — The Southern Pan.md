@@ -1,11 +1,5 @@
 ---
 title: "The Outer World — The Southern Pan"
-notion_id: "3b158200-eb22-81b7-a424-d89331b2da8c"
-notion_url: "https://app.notion.com/p/The-Outer-World-The-Southern-Pan-3b158200eb2281b7a424d89331b2da8c"
-section: "The Bearing and the Holding"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: "unverified"
 ---
 
 # The Outer World — The Southern Pan

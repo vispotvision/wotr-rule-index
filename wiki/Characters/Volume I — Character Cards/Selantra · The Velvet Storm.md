@@ -1,11 +1,5 @@
 ---
 title: "Selantra · The Velvet Storm"
-notion_id: "3bd58200-eb22-8166-82e5-ce41c986085e"
-notion_url: "https://app.notion.com/p/Selantra-The-Velvet-Storm-3bd58200eb22816682e5ce41c986085e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:56:00.000Z"
-verification: null
 ---
 
 # Selantra · The Velvet Storm

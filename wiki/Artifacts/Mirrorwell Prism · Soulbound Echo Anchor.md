@@ -1,11 +1,5 @@
 ---
 title: "Mirrorwell Prism · Soulbound Echo Anchor"
-notion_id: "3d958200-eb22-81d3-91bc-ed91423447f6"
-notion_url: "https://app.notion.com/p/Mirrorwell-Prism-Soulbound-Echo-Anchor-3d958200eb2281d391bced91423447f6"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:32:00.000Z"
-verification: "unverified"
 ---
 
 # Mirrorwell Prism · Soulbound Echo Anchor

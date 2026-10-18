@@ -1,11 +1,5 @@
 ---
 title: "Gonju · The Sage"
-notion_id: "3bd58200-eb22-81ce-ae1e-e024b9b87e12"
-notion_url: "https://app.notion.com/p/Gonju-The-Sage-3bd58200eb2281ceae1ee024b9b87e12"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:58:00.000Z"
-verification: null
 ---
 
 # Gonju · The Sage

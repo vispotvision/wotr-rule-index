@@ -1,11 +1,5 @@
 ---
 title: "Moryn Sporetail · Mushroom Fox"
-notion_id: "3bd58200-eb22-8162-9d81-f3d496424d1f"
-notion_url: "https://app.notion.com/p/Moryn-Sporetail-Mushroom-Fox-3bd58200eb2281629d81f3d496424d1f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Moryn Sporetail · Mushroom Fox

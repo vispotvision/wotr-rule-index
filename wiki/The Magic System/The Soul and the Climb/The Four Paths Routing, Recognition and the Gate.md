@@ -1,11 +1,6 @@
 ---
 title: "The Four Paths: Routing, Recognition and the Gate"
-notion_id: "3d558200-eb22-812a-92c0-f639ef17493b"
-notion_url: "https://app.notion.com/p/The-Four-Paths-Routing-Recognition-and-the-Gate-3d558200eb22812a92c0f639ef17493b"
-section: "The Magic System"
 tags: ["Magic System"]
-last_edited: "2026-09-26T14:13:00.000Z"
-verification: "unverified"
 ---
 
 # The Four Paths: Routing, Recognition and the Gate

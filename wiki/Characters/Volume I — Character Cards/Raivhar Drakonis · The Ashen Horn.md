@@ -1,11 +1,5 @@
 ---
 title: "Raivhar Drakonis · The Ashen Horn"
-notion_id: "3bd58200-eb22-8135-9fdd-f8bb25a119be"
-notion_url: "https://app.notion.com/p/Raivhar-Drakonis-The-Ashen-Horn-3bd58200eb2281359fddf8bb25a119be"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Raivhar Drakonis · The Ashen Horn

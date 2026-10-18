@@ -1,11 +1,5 @@
 ---
 title: "The Inner World — The Northern Shield"
-notion_id: "3b158200-eb22-8128-8601-df8f4ea804b9"
-notion_url: "https://app.notion.com/p/The-Inner-World-The-Northern-Shield-3b158200eb2281288601df8f4ea804b9"
-section: "The Bearing and the Holding"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: "unverified"
 ---
 
 # The Inner World — The Northern Shield

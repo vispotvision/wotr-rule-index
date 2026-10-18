@@ -1,11 +1,5 @@
 ---
 title: "Resonant Divination"
-notion_id: "3d958200-eb22-810a-a09e-e6558a18f7ba"
-notion_url: "https://app.notion.com/p/Resonant-Divination-3d958200eb22810aa09ee6558a18f7ba"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Resonant Divination

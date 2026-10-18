@@ -1,11 +1,5 @@
 ---
 title: "Tabitha Hallenfeld — The Road Woman"
-notion_id: "3ba58200-eb22-81ca-96f4-d094a763986c"
-notion_url: "https://app.notion.com/p/Tabitha-Hallenfeld-The-Road-Woman-3ba58200eb2281ca96f4d094a763986c"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Tabitha Hallenfeld — The Road Woman

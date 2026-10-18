@@ -1,11 +1,5 @@
 ---
 title: "Kirishima Hae-jin — Kaalabad, the Radiant God of Knights"
-notion_id: "3c658200-eb22-81d9-a073-d23a7db71522"
-notion_url: "https://app.notion.com/p/Kirishima-Hae-jin-Kaalabad-the-Radiant-God-of-Knights-3c658200eb2281d9a073d23a7db71522"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Kirishima Hae-jin — Kaalabad, the Radiant God of Knights

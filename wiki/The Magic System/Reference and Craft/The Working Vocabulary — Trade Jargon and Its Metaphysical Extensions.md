@@ -1,11 +1,6 @@
 ---
 title: "The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions"
-notion_id: "3d758200-eb22-81c3-b1c5-f4ce524fdbcf"
-notion_url: "https://app.notion.com/p/The-Working-Vocabulary-Trade-Jargon-and-Its-Metaphysical-Extensions-3d758200eb2281c3b1c5f4ce524fdbcf"
-section: "The Magic System"
 tags: ["Magic System", "Materials", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
-verification: "unverified"
 ---
 
 # The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions

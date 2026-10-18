@@ -1,11 +1,5 @@
 ---
 title: "The Kingdom of Kharven — The Ashen Crown"
-notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
-notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
-section: "The Inner World — The Northern Shield"
-tags: []
-last_edited: "2026-09-27T19:48:00.000Z"
-verification: "unverified"
 ---
 
 # The Kingdom of Kharven — The Ashen Crown

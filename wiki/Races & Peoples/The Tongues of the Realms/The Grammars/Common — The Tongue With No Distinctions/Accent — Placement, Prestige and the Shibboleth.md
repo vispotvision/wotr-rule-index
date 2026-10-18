@@ -1,11 +1,6 @@
 ---
 title: "Accent — Placement, Prestige and the Shibboleth"
-notion_id: "3d758200-eb22-8115-94b2-f63a07d8f510"
-notion_url: "https://app.notion.com/p/Accent-Placement-Prestige-and-the-Shibboleth-3d758200eb22811594b2f63a07d8f510"
-section: "Common — The Tongue With No Distinctions"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
-verification: "unverified"
 ---
 
 # Accent — Placement, Prestige and the Shibboleth

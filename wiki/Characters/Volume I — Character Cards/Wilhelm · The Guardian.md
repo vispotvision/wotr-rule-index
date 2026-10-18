@@ -1,11 +1,5 @@
 ---
 title: "Wilhelm · The Guardian"
-notion_id: "3bd58200-eb22-81e9-bcdc-c85efef27225"
-notion_url: "https://app.notion.com/p/Wilhelm-The-Guardian-3bd58200eb2281e9bcdcc85efef27225"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:05:00.000Z"
-verification: null
 ---
 
 # Wilhelm · The Guardian

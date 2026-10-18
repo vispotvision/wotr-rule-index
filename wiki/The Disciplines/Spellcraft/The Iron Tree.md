@@ -1,11 +1,5 @@
 ---
 title: "The Iron Tree"
-notion_id: "3d958200-eb22-81e6-ae29-d981794b4d2d"
-notion_url: "https://app.notion.com/p/The-Iron-Tree-3d958200eb2281e6ae29d981794b4d2d"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T10:46:00.000Z"
-verification: null
 ---
 
 # The Iron Tree

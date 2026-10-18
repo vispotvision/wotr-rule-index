@@ -1,11 +1,5 @@
 ---
 title: "Velastra Nirellium · The Severed Saint"
-notion_id: "3bd58200-eb22-81cd-8ff5-d95df322b5ed"
-notion_url: "https://app.notion.com/p/Velastra-Nirellium-The-Severed-Saint-3bd58200eb2281cd8ff5d95df322b5ed"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Velastra Nirellium · The Severed Saint

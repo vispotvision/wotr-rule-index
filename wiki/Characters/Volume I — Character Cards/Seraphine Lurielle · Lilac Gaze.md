@@ -1,11 +1,5 @@
 ---
 title: "Seraphine Lurielle · Lilac Gaze"
-notion_id: "3d958200-eb22-8122-a6c5-fd2ef48ee1dd"
-notion_url: "https://app.notion.com/p/Seraphine-Lurielle-Lilac-Gaze-3d958200eb228122a6c5fd2ef48ee1dd"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
-verification: null
 ---
 
 # Seraphine Lurielle · Lilac Gaze

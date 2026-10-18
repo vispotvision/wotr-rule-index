@@ -1,11 +1,5 @@
 ---
 title: "Kaito Akagiri · The Scarlet Plague"
-notion_id: "3bd58200-eb22-8131-b88c-ce87d4202313"
-notion_url: "https://app.notion.com/p/Kaito-Akagiri-The-Scarlet-Plague-3bd58200eb228131b88cce87d4202313"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:49:00.000Z"
-verification: null
 ---
 
 # Kaito Akagiri · The Scarlet Plague

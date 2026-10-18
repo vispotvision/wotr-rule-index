@@ -1,11 +1,5 @@
 ---
 title: "Souma Byakuya Moto"
-notion_id: "3b258200-eb22-817f-b123-e09c3814a808"
-notion_url: "https://app.notion.com/p/Souma-Byakuya-Moto-3b258200eb22817fb123e09c3814a808"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:26:00.000Z"
-verification: null
 ---
 
 # Souma Byakuya Moto

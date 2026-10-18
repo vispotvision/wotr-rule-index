@@ -1,11 +1,6 @@
 ---
 title: "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)"
-notion_id: "3d758200-eb22-81a2-82cb-c69140fdabd7"
-notion_url: "https://app.notion.com/p/IV-The-Eight-Primaries-and-the-Sixty-Four-Sub-Stats-Part-Twelve-3d758200eb2281a282cbc69140fdabd7"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T22:32:00.000Z"
-verification: "unverified"
 ---
 
 # IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)

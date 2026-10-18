@@ -1,11 +1,5 @@
 ---
 title: "The Marshgrave's Phial · The Bottle That Weeps"
-notion_id: "3d958200-eb22-8144-ad02-c79b5994242d"
-notion_url: "https://app.notion.com/p/The-Marshgrave-s-Phial-The-Bottle-That-Weeps-3d958200eb228144ad02c79b5994242d"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T18:51:00.000Z"
-verification: "unverified"
 ---
 
 # The Marshgrave's Phial · The Bottle That Weeps

@@ -1,11 +1,6 @@
 ---
 title: "The Heresiology of Alchemy"
-notion_id: "3b158200-eb22-81f4-ad4c-fc6b675301f0"
-notion_url: "https://app.notion.com/p/The-Heresiology-of-Alchemy-3b158200eb2281f4ad4cfc6b675301f0"
-section: "Materials, Alchemy & Trade"
 tags: ["Alchemy", "Lore & History"]
-last_edited: "2026-09-10T11:20:00.000Z"
-verification: "unverified"
 ---
 
 # The Heresiology of Alchemy

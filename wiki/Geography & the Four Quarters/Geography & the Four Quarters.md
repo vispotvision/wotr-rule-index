@@ -1,11 +1,6 @@
 ---
 title: "Geography & the Four Quarters"
-notion_id: "3b158200-eb22-8103-afb2-e1698a94b6cd"
-notion_url: "https://app.notion.com/p/Geography-the-Four-Quarters-3b158200eb228103afb2e1698a94b6cd"
-section: "Geography"
 tags: ["Geography", "Trade & Economy", "Materials"]
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: "unverified"
 ---
 
 # Geography & the Four Quarters

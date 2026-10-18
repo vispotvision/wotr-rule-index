@@ -1,11 +1,5 @@
 ---
 title: "Staff of the Verdant Pulse · Domain Anchor"
-notion_id: "3d958200-eb22-817c-867c-f7540c8aa3f4"
-notion_url: "https://app.notion.com/p/Staff-of-the-Verdant-Pulse-Domain-Anchor-3d958200eb22817c867cf7540c8aa3f4"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:33:00.000Z"
-verification: "unverified"
 ---
 
 # Staff of the Verdant Pulse · Domain Anchor

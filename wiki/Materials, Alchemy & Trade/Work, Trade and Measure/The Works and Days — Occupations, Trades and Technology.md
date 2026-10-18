@@ -1,11 +1,6 @@
 ---
 title: "The Works and Days — Occupations, Trades and Technology"
-notion_id: "3bc58200-eb22-81e1-8a0d-f4a5ba6abe03"
-notion_url: "https://app.notion.com/p/The-Works-and-Days-Occupations-Trades-and-Technology-3bc58200eb2281e18a0df4a5ba6abe03"
-section: "Materials, Alchemy & Trade"
 tags: ["Trade & Economy", "Peoples"]
-last_edited: "2026-09-26T14:17:00.000Z"
-verification: "unverified"
 ---
 
 # The Works and Days — Occupations, Trades and Technology

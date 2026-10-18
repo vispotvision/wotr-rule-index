@@ -1,11 +1,5 @@
 ---
 title: "Lucien Draeve · Emerald Alchemist"
-notion_id: "3bd58200-eb22-8168-bbe9-c9739555ea40"
-notion_url: "https://app.notion.com/p/Lucien-Draeve-Emerald-Alchemist-3bd58200eb228168bbe9c9739555ea40"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:52:00.000Z"
-verification: null
 ---
 
 # Lucien Draeve · Emerald Alchemist

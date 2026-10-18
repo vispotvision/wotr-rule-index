@@ -1,11 +1,5 @@
 ---
 title: "What Things Cost"
-notion_id: "3e758200-eb22-816b-b71e-dbadda080fd3"
-notion_url: "https://app.notion.com/p/What-Things-Cost-3e758200eb22816bb71edbadda080fd3"
-section: "Value, Coin and Trade"
-tags: []
-last_edited: "2026-09-28T08:19:00.000Z"
-verification: "unverified"
 ---
 
 # What Things Cost

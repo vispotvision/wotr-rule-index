@@ -1,11 +1,5 @@
 ---
 title: "The Freight Book"
-notion_id: "3db58200-eb22-8145-ae66-d7fa3a3a1409"
-notion_url: "https://app.notion.com/p/The-Freight-Book-3db58200eb228145ae66d7fa3a3a1409"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-14T00:08:00.000Z"
-verification: null
 ---
 
 # The Freight Book

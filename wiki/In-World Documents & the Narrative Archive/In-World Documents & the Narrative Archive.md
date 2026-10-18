@@ -1,11 +1,5 @@
 ---
 title: "In-World Documents & the Narrative Archive"
-notion_id: "3b258200-eb22-8131-9fac-d195197bddc3"
-notion_url: "https://app.notion.com/p/In-World-Documents-the-Narrative-Archive-3b258200eb2281319facd195197bddc3"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-09-12T06:04:00.000Z"
-verification: null
 ---
 
 # In-World Documents & the Narrative Archive

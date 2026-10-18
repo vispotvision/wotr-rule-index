@@ -1,11 +1,5 @@
 ---
 title: "The Necrocursica"
-notion_id: "3e958200-eb22-815f-ad64-f1a4d4f45661"
-notion_url: "https://app.notion.com/p/The-Necrocursica-3e958200eb22815fad64f1a4d4f45661"
-section: "The Alftian Codex"
-tags: []
-last_edited: "2026-09-28T17:07:00.000Z"
-verification: "unverified"
 ---
 
 # The Necrocursica

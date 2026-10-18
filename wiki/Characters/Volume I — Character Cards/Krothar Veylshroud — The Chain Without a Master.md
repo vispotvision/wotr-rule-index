@@ -1,11 +1,5 @@
 ---
 title: "Krothar Veylshroud — The Chain Without a Master"
-notion_id: "3b358200-eb22-8181-8e55-daf152e981e5"
-notion_url: "https://app.notion.com/p/Krothar-Veylshroud-The-Chain-Without-a-Master-3b358200eb2281818e55daf152e981e5"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Krothar Veylshroud — The Chain Without a Master

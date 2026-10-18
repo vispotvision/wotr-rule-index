@@ -1,11 +1,5 @@
 ---
 title: "Ambrose Virellith · The Gilded Thorn"
-notion_id: "3bd58200-eb22-81cd-9cea-f61185efd050"
-notion_url: "https://app.notion.com/p/Ambrose-Virellith-The-Gilded-Thorn-3bd58200eb2281cd9ceaf61185efd050"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # Ambrose Virellith · The Gilded Thorn

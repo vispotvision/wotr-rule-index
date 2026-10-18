@@ -1,11 +1,5 @@
 ---
 title: "Aeldoris Vanthryx · The Ruthless"
-notion_id: "3d958200-eb22-81f2-99ba-ce42acca6b3b"
-notion_url: "https://app.notion.com/p/Aeldoris-Vanthryx-The-Ruthless-3d958200eb2281f299bace42acca6b3b"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Aeldoris Vanthryx · The Ruthless

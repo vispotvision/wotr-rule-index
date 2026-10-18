@@ -1,11 +1,5 @@
 ---
 title: "Vitalia — Biochemistry"
-notion_id: "3b158200-eb22-81a4-b8e1-e4e7932c0325"
-notion_url: "https://app.notion.com/p/Vitalia-Biochemistry-3b158200eb2281a4b8e1e4e7932c0325"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-08-03T04:26:00.000Z"
-verification: "unverified"
 ---
 
 # Vitalia — Biochemistry

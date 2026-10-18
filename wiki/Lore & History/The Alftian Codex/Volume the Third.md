@@ -1,11 +1,5 @@
 ---
 title: "Volume the Third"
-notion_id: "3b258200-eb22-810f-833b-eb3cadadfdc6"
-notion_url: "https://app.notion.com/p/Volume-the-Third-3b258200eb22810f833beb3cadadfdc6"
-section: "The Alftian Codex"
-tags: []
-last_edited: "2026-09-28T16:06:00.000Z"
-verification: "unverified"
 ---
 
 # Volume the Third

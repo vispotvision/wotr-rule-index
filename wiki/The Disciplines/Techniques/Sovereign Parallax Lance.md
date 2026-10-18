@@ -1,11 +1,5 @@
 ---
 title: "Sovereign Parallax Lance"
-notion_id: "3d958200-eb22-811b-ac95-da20426ddaf7"
-notion_url: "https://app.notion.com/p/Sovereign-Parallax-Lance-3d958200eb22811bac95da20426ddaf7"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Sovereign Parallax Lance

@@ -1,11 +1,5 @@
 ---
 title: "The Elven Peoples"
-notion_id: "3b158200-eb22-8197-b0d0-f26f80eb9f1c"
-notion_url: "https://app.notion.com/p/The-Elven-Peoples-3b158200eb228197b0d0f26f80eb9f1c"
-section: "Races & Peoples"
-tags: []
-last_edited: "2026-09-12T20:02:00.000Z"
-verification: "unverified"
 ---
 
 # The Elven Peoples

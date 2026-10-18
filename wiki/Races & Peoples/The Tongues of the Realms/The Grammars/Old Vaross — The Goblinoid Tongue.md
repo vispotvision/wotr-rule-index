@@ -1,11 +1,6 @@
 ---
 title: "Old Vaross — The Goblinoid Tongue"
-notion_id: "3d758200-eb22-8120-a2ad-ee8d2db7380d"
-notion_url: "https://app.notion.com/p/Old-Vaross-The-Goblinoid-Tongue-3d758200eb228120a2adee8d2db7380d"
-section: "The Tongues of the Realms"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
-verification: "unverified"
 ---
 
 # Old Vaross — The Goblinoid Tongue

@@ -1,11 +1,5 @@
 ---
 title: "Xanelor Rafminar · The Wandering Fang"
-notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
-notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Xanelor Rafminar · The Wandering Fang

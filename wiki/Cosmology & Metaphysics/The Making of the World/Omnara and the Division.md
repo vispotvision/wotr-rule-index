@@ -1,11 +1,5 @@
 ---
 title: "Omnara and the Division"
-notion_id: "3b158200-eb22-811d-89bf-c20348235b60"
-notion_url: "https://app.notion.com/p/Omnara-and-the-Division-3b158200eb22811d89bfc20348235b60"
-section: "Cosmology & Metaphysics"
-tags: []
-last_edited: "2026-08-03T04:04:00.000Z"
-verification: "unverified"
 ---
 
 # Omnara and the Division

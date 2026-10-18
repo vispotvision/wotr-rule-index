@@ -1,11 +1,5 @@
 ---
 title: "The Farrant Papers"
-notion_id: "3e958200-eb22-813c-85d3-c14d66903466"
-notion_url: "https://app.notion.com/p/The-Farrant-Papers-3e958200eb22813c85d3c14d66903466"
-section: "The Alftian Codex"
-tags: []
-last_edited: "2026-09-28T12:28:00.000Z"
-verification: "unverified"
 ---
 
 # The Farrant Papers

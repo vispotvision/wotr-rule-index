@@ -1,11 +1,5 @@
 ---
 title: "Corwin Sesk"
-notion_id: "3e358200-eb22-8166-91a4-e7499fc2b381"
-notion_url: "https://app.notion.com/p/Corwin-Sesk-3e358200eb22816691a4e7499fc2b381"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Corwin Sesk

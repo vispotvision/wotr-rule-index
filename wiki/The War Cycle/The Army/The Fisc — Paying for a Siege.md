@@ -1,11 +1,6 @@
 ---
 title: "The Fisc — Paying for a Siege"
-notion_id: "3d758200-eb22-816c-be55-d46eabfa4f7b"
-notion_url: "https://app.notion.com/p/The-Fisc-Paying-for-a-Siege-3d758200eb22816cbe55d46eabfa4f7b"
-section: "The War Cycle"
 tags: ["War", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-10T11:13:00.000Z"
-verification: "unverified"
 ---
 
 # The Fisc — Paying for a Siege

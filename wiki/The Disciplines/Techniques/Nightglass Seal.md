@@ -1,11 +1,5 @@
 ---
 title: "Nightglass Seal"
-notion_id: "3d958200-eb22-810f-92de-d6240970e084"
-notion_url: "https://app.notion.com/p/Nightglass-Seal-3d958200eb22810f92ded6240970e084"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:38:00.000Z"
-verification: null
 ---
 
 # Nightglass Seal

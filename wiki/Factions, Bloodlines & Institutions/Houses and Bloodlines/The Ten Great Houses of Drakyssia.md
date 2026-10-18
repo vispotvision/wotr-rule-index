@@ -1,11 +1,5 @@
 ---
 title: "The Ten Great Houses of Drakyssia"
-notion_id: "3bd58200-eb22-8168-9a4b-e231f286af4a"
-notion_url: "https://app.notion.com/p/The-Ten-Great-Houses-of-Drakyssia-3bd58200eb2281689a4be231f286af4a"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-26T14:08:00.000Z"
-verification: "unverified"
 ---
 
 # The Ten Great Houses of Drakyssia

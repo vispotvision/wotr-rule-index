@@ -1,11 +1,5 @@
 ---
 title: "Severan Ostrowe · The Haemarch"
-notion_id: "3f258200-eb22-81f9-89e3-d6ae2392b601"
-notion_url: "https://app.notion.com/p/Severan-Ostrowe-The-Haemarch-3f258200eb2281f989e3d6ae2392b601"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-07T18:03:00.000Z"
-verification: null
 ---
 
 # Severan Ostrowe · The Haemarch

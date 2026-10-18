@@ -1,11 +1,5 @@
 ---
 title: "Ascella · Wick"
-notion_id: "3bd58200-eb22-8124-bfb8-d157f7ff14cc"
-notion_url: "https://app.notion.com/p/Ascella-Wick-3bd58200eb228124bfb8d157f7ff14cc"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:38:00.000Z"
-verification: null
 ---
 
 # Ascella · Wick

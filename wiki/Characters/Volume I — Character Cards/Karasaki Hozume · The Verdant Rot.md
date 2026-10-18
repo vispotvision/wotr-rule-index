@@ -1,11 +1,5 @@
 ---
 title: "Karasaki Hozume · The Verdant Rot"
-notion_id: "3bd58200-eb22-81bb-a593-ec19c65127f3"
-notion_url: "https://app.notion.com/p/Karasaki-Hozume-The-Verdant-Rot-3bd58200eb2281bba593ec19c65127f3"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # Karasaki Hozume · The Verdant Rot

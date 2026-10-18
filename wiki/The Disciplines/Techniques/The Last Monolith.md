@@ -1,11 +1,5 @@
 ---
 title: "The Last Monolith"
-notion_id: "3d958200-eb22-817e-a5a3-c7948076832e"
-notion_url: "https://app.notion.com/p/The-Last-Monolith-3d958200eb22817ea5a3c7948076832e"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # The Last Monolith

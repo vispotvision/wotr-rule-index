@@ -1,11 +1,5 @@
 ---
 title: "Varuun Daskorr · The Unbent Crown"
-notion_id: "3d958200-eb22-8187-b75c-eb9e1d491598"
-notion_url: "https://app.notion.com/p/Varuun-Daskorr-The-Unbent-Crown-3d958200eb228187b75ceb9e1d491598"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-14T00:31:00.000Z"
-verification: null
 ---
 
 # Varuun Daskorr · The Unbent Crown

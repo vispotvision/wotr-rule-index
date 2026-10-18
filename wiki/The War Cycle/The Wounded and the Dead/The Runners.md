@@ -1,11 +1,5 @@
 ---
 title: "The Runners"
-notion_id: "3b158200-eb22-8107-88df-f06567632401"
-notion_url: "https://app.notion.com/p/The-Runners-3b158200eb22810788dff06567632401"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-08-03T21:59:00.000Z"
-verification: "unverified"
 ---
 
 # The Runners

@@ -1,11 +1,6 @@
 ---
 title: "The Fourteen Archons"
-notion_id: "3b158200-eb22-8107-b859-fc4937d5d8c8"
-notion_url: "https://app.notion.com/p/The-Fourteen-Archons-3b158200eb228107b859fc4937d5d8c8"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Reference Table"]
-last_edited: "2026-09-10T11:16:00.000Z"
-verification: "unverified"
 ---
 
 # The Fourteen Archons

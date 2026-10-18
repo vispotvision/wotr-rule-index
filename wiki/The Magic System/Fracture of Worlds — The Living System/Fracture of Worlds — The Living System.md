@@ -1,11 +1,6 @@
 ---
 title: "Fracture of Worlds — The Living System"
-notion_id: "3d758200-eb22-8101-bde2-f8eceeaefc7a"
-notion_url: "https://app.notion.com/p/Fracture-of-Worlds-The-Living-System-3d758200eb228101bde2f8eceeaefc7a"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T04:33:00.000Z"
-verification: "unverified"
 ---
 
 # Fracture of Worlds — The Living System

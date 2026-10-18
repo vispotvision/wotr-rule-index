@@ -1,11 +1,5 @@
 ---
 title: "Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light"
-notion_id: "3d958200-eb22-8185-b5ac-db8c44f5d7bd"
-notion_url: "https://app.notion.com/p/Kibanda-cha-Mwanga-wa-Miti-Shelter-of-the-Trees-Light-3d958200eb228185b5acdb8c44f5d7bd"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-26T10:16:00.000Z"
-verification: null
 ---
 
 # Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light

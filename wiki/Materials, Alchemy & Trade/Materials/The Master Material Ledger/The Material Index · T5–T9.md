@@ -1,11 +1,6 @@
 ---
 title: "The Material Index · T5–T9"
-notion_id: "3b158200-eb22-81ab-a443-e7e80d34db3d"
-notion_url: "https://app.notion.com/p/The-Material-Index-T5-T9-3b158200eb2281aba443e7e80d34db3d"
-section: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Material Index · T5–T9

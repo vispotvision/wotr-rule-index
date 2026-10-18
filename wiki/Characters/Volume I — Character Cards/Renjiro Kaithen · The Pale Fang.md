@@ -1,11 +1,5 @@
 ---
 title: "Renjiro Kaithen · The Pale Fang"
-notion_id: "3bd58200-eb22-81c5-869e-fdda2612badd"
-notion_url: "https://app.notion.com/p/Renjiro-Kaithen-The-Pale-Fang-3bd58200eb2281c5869efdda2612badd"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:57:00.000Z"
-verification: null
 ---
 
 # Renjiro Kaithen · The Pale Fang

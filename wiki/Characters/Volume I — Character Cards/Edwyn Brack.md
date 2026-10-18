@@ -1,11 +1,5 @@
 ---
 title: "Edwyn Brack"
-notion_id: "3e358200-eb22-81d1-9417-fbb9662823fe"
-notion_url: "https://app.notion.com/p/Edwyn-Brack-3e358200eb2281d19417fbb9662823fe"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T16:20:00.000Z"
-verification: null
 ---
 
 # Edwyn Brack

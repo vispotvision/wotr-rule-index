@@ -1,11 +1,6 @@
 ---
 title: "The Practitioner's Field Manual — The Forge"
-notion_id: "3bc58200-eb22-81d7-89a2-e9d5fc5cb4f4"
-notion_url: "https://app.notion.com/p/The-Practitioner-s-Field-Manual-The-Forge-3bc58200eb2281d789a2e9d5fc5cb4f4"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-15T16:40:00.000Z"
-verification: "unverified"
 ---
 
 # The Practitioner's Field Manual — The Forge

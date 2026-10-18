@@ -1,11 +1,5 @@
 ---
 title: "Saetsha Bloomveil · The Pink Tempest"
-notion_id: "3d958200-eb22-8171-b690-ee09fa5a3ee0"
-notion_url: "https://app.notion.com/p/Saetsha-Bloomveil-The-Pink-Tempest-3d958200eb228171b690ee09fa5a3ee0"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
-verification: null
 ---
 
 # Saetsha Bloomveil · The Pink Tempest

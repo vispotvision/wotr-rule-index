@@ -1,11 +1,5 @@
 ---
 title: "The Twelve Stages of Spirit Infusion"
-notion_id: "3be58200-eb22-812a-ab29-e5590a909077"
-notion_url: "https://app.notion.com/p/The-Twelve-Stages-of-Spirit-Infusion-3be58200eb22812aab29e5590a909077"
-section: "The Spirit Summoning Arts"
-tags: []
-last_edited: "2026-08-16T17:47:00.000Z"
-verification: "unverified"
 ---
 
 # The Twelve Stages of Spirit Infusion

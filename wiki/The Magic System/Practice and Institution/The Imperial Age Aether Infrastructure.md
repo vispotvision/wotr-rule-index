@@ -1,11 +1,6 @@
 ---
 title: "The Imperial Age: Aether Infrastructure"
-notion_id: "3d558200-eb22-8137-9996-cafd5d239b2f"
-notion_url: "https://app.notion.com/p/The-Imperial-Age-Aether-Infrastructure-3d558200eb2281379996cafd5d239b2f"
-section: "The Magic System"
 tags: ["Magic System", "Trade & Economy"]
-last_edited: "2026-09-28T08:17:00.000Z"
-verification: "unverified"
 ---
 
 # The Imperial Age: Aether Infrastructure

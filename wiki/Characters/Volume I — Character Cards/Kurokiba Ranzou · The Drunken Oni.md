@@ -1,11 +1,5 @@
 ---
 title: "Kurokiba Ranzou · The Drunken Oni"
-notion_id: "3bd58200-eb22-8111-905b-da4ab6def61d"
-notion_url: "https://app.notion.com/p/Kurokiba-Ranzou-The-Drunken-Oni-3bd58200eb228111905bda4ab6def61d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Kurokiba Ranzou · The Drunken Oni

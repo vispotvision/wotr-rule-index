@@ -1,11 +1,5 @@
 ---
 title: "Osric of Hallenfeld — The Patient Hand"
-notion_id: "3ba58200-eb22-810d-96b8-c67ffe902337"
-notion_url: "https://app.notion.com/p/Osric-of-Hallenfeld-The-Patient-Hand-3ba58200eb22810d96b8c67ffe902337"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Osric of Hallenfeld — The Patient Hand

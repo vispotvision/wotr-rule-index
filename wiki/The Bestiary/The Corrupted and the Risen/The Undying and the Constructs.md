@@ -1,11 +1,5 @@
 ---
 title: "The Undying and the Constructs"
-notion_id: "3b258200-eb22-81f0-8608-c681a6ba4974"
-notion_url: "https://app.notion.com/p/The-Undying-and-the-Constructs-3b258200eb2281f08608c681a6ba4974"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-08-04T00:01:00.000Z"
-verification: "unverified"
 ---
 
 # The Undying and the Constructs

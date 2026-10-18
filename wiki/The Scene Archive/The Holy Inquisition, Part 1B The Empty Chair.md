@@ -1,11 +1,5 @@
 ---
 title: "The Holy Inquisition, Part 1B: The Empty Chair"
-notion_id: "3df58200-eb22-8163-ac24-e2b417882d9e"
-notion_url: "https://app.notion.com/p/The-Holy-Inquisition-Part-1B-The-Empty-Chair-3df58200eb228163ac24e2b417882d9e"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-18T03:33:00.000Z"
-verification: null
 ---
 
 # The Holy Inquisition, Part 1B: The Empty Chair

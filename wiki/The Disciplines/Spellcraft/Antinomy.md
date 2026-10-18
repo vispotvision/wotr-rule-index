@@ -1,11 +1,5 @@
 ---
 title: "Antinomy"
-notion_id: "3d958200-eb22-8136-b58e-ea901d51622f"
-notion_url: "https://app.notion.com/p/Antinomy-3d958200eb228136b58eea901d51622f"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Antinomy

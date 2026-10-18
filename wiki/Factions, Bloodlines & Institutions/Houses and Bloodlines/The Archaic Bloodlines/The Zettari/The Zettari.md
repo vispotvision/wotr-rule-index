@@ -1,11 +1,5 @@
 ---
 title: "The Zettari"
-notion_id: "3b158200-eb22-810b-85fc-ca85cff49bae"
-notion_url: "https://app.notion.com/p/The-Zettari-3b158200eb22810b85fcca85cff49bae"
-section: "The Archaic Bloodlines"
-tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Zettari

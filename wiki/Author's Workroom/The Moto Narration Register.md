@@ -1,11 +1,5 @@
 ---
 title: "The Moto Narration Register"
-notion_id: "3e758200-eb22-8134-b564-fc6ec3783f44"
-notion_url: "https://app.notion.com/p/The-Moto-Narration-Register-3e758200eb228134b564fc6ec3783f44"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-09-26T10:04:00.000Z"
-verification: null
 ---
 
 # The Moto Narration Register

@@ -1,11 +1,5 @@
 ---
 title: "Rashani Zettari"
-notion_id: "3b258200-eb22-81d5-b87d-c8abc80dbc36"
-notion_url: "https://app.notion.com/p/Rashani-Zettari-3b258200eb2281d5b87dc8abc80dbc36"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:26:00.000Z"
-verification: null
 ---
 
 # Rashani Zettari

@@ -1,11 +1,5 @@
 ---
 title: "The Zettari–Mahou Accord"
-notion_id: "3b258200-eb22-813a-b547-d9cd2ecb514d"
-notion_url: "https://app.notion.com/p/The-Zettari-Mahou-Accord-3b258200eb22813ab547d9cd2ecb514d"
-section: "In-World Documents & the Narrative Archive"
-tags: []
-last_edited: "2026-08-04T00:13:00.000Z"
-verification: "unverified"
 ---
 
 # The Zettari–Mahou Accord

@@ -1,11 +1,5 @@
 ---
 title: "Kaalabad"
-notion_id: "3e358200-eb22-816e-ac0e-c28807f3a18d"
-notion_url: "https://app.notion.com/p/Kaalabad-3e358200eb22816eac0ec28807f3a18d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Kaalabad

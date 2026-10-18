@@ -1,11 +1,6 @@
 ---
 title: "Tier Grade, Bands & the Aether Shell"
-notion_id: "3b158200-eb22-8185-abf4-c695877be12b"
-notion_url: "https://app.notion.com/p/Tier-Grade-Bands-the-Aether-Shell-3b158200eb228185abf4c695877be12b"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-14T00:29:00.000Z"
-verification: "unverified"
 ---
 
 # Tier Grade, Bands & the Aether Shell

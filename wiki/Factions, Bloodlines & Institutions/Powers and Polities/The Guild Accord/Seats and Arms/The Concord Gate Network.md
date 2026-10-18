@@ -1,11 +1,5 @@
 ---
 title: "The Concord Gate Network"
-notion_id: "3b158200-eb22-8125-b480-d3d9b1cfe547"
-notion_url: "https://app.notion.com/p/The-Concord-Gate-Network-3b158200eb228125b480d3d9b1cfe547"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-10-14T00:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Concord Gate Network

@@ -1,11 +1,5 @@
 ---
 title: "Horizon's Reach · Limen-Hand"
-notion_id: "3d958200-eb22-8155-9252-f55b8699e443"
-notion_url: "https://app.notion.com/p/Horizon-s-Reach-Limen-Hand-3d958200eb2281559252f55b8699e443"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:36:00.000Z"
-verification: "unverified"
 ---
 
 # Horizon's Reach · Limen-Hand

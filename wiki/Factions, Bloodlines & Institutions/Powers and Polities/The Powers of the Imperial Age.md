@@ -1,11 +1,5 @@
 ---
 title: "The Powers of the Imperial Age"
-notion_id: "3e758200-eb22-811a-a7d0-eb66ba2d38ea"
-notion_url: "https://app.notion.com/p/The-Powers-of-the-Imperial-Age-3e758200eb22811aa7d0eb66ba2d38ea"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Powers of the Imperial Age

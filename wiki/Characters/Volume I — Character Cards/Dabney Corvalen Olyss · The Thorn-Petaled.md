@@ -1,11 +1,5 @@
 ---
 title: "Dabney Corvalen Olyss · The Thorn-Petaled"
-notion_id: "3bd58200-eb22-81b3-924f-e45ba808f85f"
-notion_url: "https://app.notion.com/p/Dabney-Corvalen-Olyss-The-Thorn-Petaled-3bd58200eb2281b3924fe45ba808f85f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-09T20:09:00.000Z"
-verification: null
 ---
 
 # Dabney Corvalen Olyss · The Thorn-Petaled

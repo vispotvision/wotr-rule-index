@@ -1,11 +1,5 @@
 ---
 title: "Scission"
-notion_id: "3d958200-eb22-814b-b06d-c80ca11e279c"
-notion_url: "https://app.notion.com/p/Scission-3d958200eb22814bb06dc80ca11e279c"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T06:30:00.000Z"
-verification: null
 ---
 
 # Scission

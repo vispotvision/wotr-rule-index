@@ -1,11 +1,5 @@
 ---
 title: "Mireglass Suffusion"
-notion_id: "3d958200-eb22-81af-84e9-fb872eeab366"
-notion_url: "https://app.notion.com/p/Mireglass-Suffusion-3d958200eb2281af84e9fb872eeab366"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:37:00.000Z"
-verification: null
 ---
 
 # Mireglass Suffusion

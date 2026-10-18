@@ -1,11 +1,5 @@
 ---
 title: "Mbunda wa Moyo · Drum of the Living Heart"
-notion_id: "3d958200-eb22-8195-a856-d58a6422cbff"
-notion_url: "https://app.notion.com/p/Mbunda-wa-Moyo-Drum-of-the-Living-Heart-3d958200eb228195a856d58a6422cbff"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:33:00.000Z"
-verification: "unverified"
 ---
 
 # Mbunda wa Moyo · Drum of the Living Heart

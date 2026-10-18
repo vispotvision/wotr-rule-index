@@ -1,11 +1,5 @@
 ---
 title: "Aivyriel · The Rot"
-notion_id: "3bd58200-eb22-8138-883d-de943d9c4a1e"
-notion_url: "https://app.notion.com/p/Aivyriel-The-Rot-3bd58200eb228138883dde943d9c4a1e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:37:00.000Z"
-verification: null
 ---
 
 # Aivyriel · The Rot

@@ -1,11 +1,5 @@
 ---
 title: "Raga · The Divine Thunder Bear"
-notion_id: "3b358200-eb22-810c-a27d-d0b5d0836f54"
-notion_url: "https://app.notion.com/p/Raga-The-Divine-Thunder-Bear-3b358200eb22810ca27dd0b5d0836f54"
-section: "Summoned and Bound"
-tags: []
-last_edited: "2026-08-05T18:43:00.000Z"
-verification: "unverified"
 ---
 
 # Raga · The Divine Thunder Bear

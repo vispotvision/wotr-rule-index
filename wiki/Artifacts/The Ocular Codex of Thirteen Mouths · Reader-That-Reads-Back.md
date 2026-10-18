@@ -1,11 +1,5 @@
 ---
 title: "The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back"
-notion_id: "3d958200-eb22-8153-9f66-d6c2d8b90cf0"
-notion_url: "https://app.notion.com/p/The-Ocular-Codex-of-Thirteen-Mouths-Reader-That-Reads-Back-3d958200eb2281539f66d6c2d8b90cf0"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:35:00.000Z"
-verification: "unverified"
 ---
 
 # The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back

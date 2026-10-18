@@ -1,11 +1,5 @@
 ---
 title: "The Banner Houses of Kharven"
-notion_id: "3bd58200-eb22-81ba-8843-dc6fe603cfe6"
-notion_url: "https://app.notion.com/p/The-Banner-Houses-of-Kharven-3bd58200eb2281ba8843dc6fe603cfe6"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-04T04:42:00.000Z"
-verification: "unverified"
 ---
 
 # The Banner Houses of Kharven

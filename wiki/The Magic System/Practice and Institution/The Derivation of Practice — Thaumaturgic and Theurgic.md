@@ -1,11 +1,6 @@
 ---
 title: "The Derivation of Practice — Thaumaturgic and Theurgic"
-notion_id: "3bc58200-eb22-8164-8024-c6956893b205"
-notion_url: "https://app.notion.com/p/The-Derivation-of-Practice-Thaumaturgic-and-Theurgic-3bc58200eb2281648024c6956893b205"
-section: "The Magic System"
 tags: ["Magic System", "Lore & History"]
-last_edited: "2026-09-26T14:15:00.000Z"
-verification: "unverified"
 ---
 
 # The Derivation of Practice — Thaumaturgic and Theurgic

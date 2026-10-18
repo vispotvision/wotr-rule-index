@@ -1,11 +1,5 @@
 ---
 title: "Sadamu, called Futakoto — Two Words"
-notion_id: "3ba58200-eb22-812b-87a6-c53a311b2ef8"
-notion_url: "https://app.notion.com/p/Sadamu-called-Futakoto-Two-Words-3ba58200eb22812b87a6c53a311b2ef8"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Sadamu, called Futakoto — Two Words

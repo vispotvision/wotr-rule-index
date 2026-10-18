@@ -1,11 +1,5 @@
 ---
 title: "Cyrus Vellhar · The Azure Warden"
-notion_id: "3d958200-eb22-81f7-bdc8-ddb68fe44de5"
-notion_url: "https://app.notion.com/p/Cyrus-Vellhar-The-Azure-Warden-3d958200eb2281f7bdc8ddb68fe44de5"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Cyrus Vellhar · The Azure Warden

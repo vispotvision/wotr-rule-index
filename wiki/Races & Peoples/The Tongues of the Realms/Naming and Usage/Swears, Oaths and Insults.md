@@ -1,11 +1,5 @@
 ---
 title: "Swears, Oaths and Insults"
-notion_id: "3e758200-eb22-8188-9a4e-d790f7aedc26"
-notion_url: "https://app.notion.com/p/Swears-Oaths-and-Insults-3e758200eb2281889a4ed790f7aedc26"
-section: "The Tongues of the Realms"
-tags: []
-last_edited: "2026-10-07T19:53:00.000Z"
-verification: "unverified"
 ---
 
 # Swears, Oaths and Insults

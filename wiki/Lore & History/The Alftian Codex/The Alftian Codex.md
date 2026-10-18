@@ -1,11 +1,5 @@
 ---
 title: "The Alftian Codex"
-notion_id: "3b258200-eb22-81f9-8cb6-d853b21043b5"
-notion_url: "https://app.notion.com/p/The-Alftian-Codex-3b258200eb2281f98cb6d853b21043b5"
-section: "Lore & History"
-tags: []
-last_edited: "2026-09-28T17:07:00.000Z"
-verification: "unverified"
 ---
 
 # The Alftian Codex

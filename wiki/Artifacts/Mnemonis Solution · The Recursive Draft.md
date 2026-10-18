@@ -1,11 +1,5 @@
 ---
 title: "Mnemonis Solution · The Recursive Draft"
-notion_id: "3d958200-eb22-817b-a695-cbdca66361a8"
-notion_url: "https://app.notion.com/p/Mnemonis-Solution-The-Recursive-Draft-3d958200eb22817ba695cbdca66361a8"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:30:00.000Z"
-verification: "unverified"
 ---
 
 # Mnemonis Solution · The Recursive Draft

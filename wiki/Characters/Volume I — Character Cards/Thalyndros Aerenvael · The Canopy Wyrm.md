@@ -1,11 +1,5 @@
 ---
 title: "Thalyndros Aerenvael · The Canopy Wyrm"
-notion_id: "3d958200-eb22-81e9-a28c-d242281b996d"
-notion_url: "https://app.notion.com/p/Thalyndros-Aerenvael-The-Canopy-Wyrm-3d958200eb2281e9a28cd242281b996d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:58:00.000Z"
-verification: null
 ---
 
 # Thalyndros Aerenvael · The Canopy Wyrm

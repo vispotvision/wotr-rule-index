@@ -1,11 +1,5 @@
 ---
 title: "Obrenkael · The Mule"
-notion_id: "3b558200-eb22-8160-98bf-d9756bfb2a81"
-notion_url: "https://app.notion.com/p/Obrenkael-The-Mule-3b558200eb22816098bfd9756bfb2a81"
-section: "Summoned and Bound"
-tags: []
-last_edited: "2026-09-12T18:52:00.000Z"
-verification: "unverified"
 ---
 
 # Obrenkael · The Mule

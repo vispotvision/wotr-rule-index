@@ -1,11 +1,5 @@
 ---
 title: "Orin Farrant"
-notion_id: "3e958200-eb22-8173-b54f-c2d5575552eb"
-notion_url: "https://app.notion.com/p/Orin-Farrant-3e958200eb228173b54fc2d5575552eb"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T12:28:00.000Z"
-verification: null
 ---
 
 # Orin Farrant

@@ -1,11 +1,5 @@
 ---
 title: "The Lantern of Echoed Veils · Spirit-Binding Relic"
-notion_id: "3d958200-eb22-8197-a1e4-e8f539816fbf"
-notion_url: "https://app.notion.com/p/The-Lantern-of-Echoed-Veils-Spirit-Binding-Relic-3d958200eb228197a1e4e8f539816fbf"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:59:00.000Z"
-verification: "unverified"
 ---
 
 # The Lantern of Echoed Veils · Spirit-Binding Relic

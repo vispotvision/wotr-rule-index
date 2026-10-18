@@ -1,11 +1,5 @@
 ---
 title: "The Kingdom of Nalūn — The Chain-Cities"
-notion_id: "3bc58200-eb22-81fd-b919-d4493bde5145"
-notion_url: "https://app.notion.com/p/The-Kingdom-of-Nal-n-The-Chain-Cities-3bc58200eb2281fdb919d4493bde5145"
-section: "The Inner World — The Northern Shield"
-tags: []
-last_edited: "2026-10-14T00:34:00.000Z"
-verification: "unverified"
 ---
 
 # The Kingdom of Nalūn — The Chain-Cities

@@ -1,11 +1,5 @@
 ---
 title: "Spatium — Spatial Geometry"
-notion_id: "3b158200-eb22-81aa-9ae2-e34760461820"
-notion_url: "https://app.notion.com/p/Spatium-Spatial-Geometry-3b158200eb2281aa9ae2e34760461820"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-08-03T04:25:00.000Z"
-verification: "unverified"
 ---
 
 # Spatium — Spatial Geometry

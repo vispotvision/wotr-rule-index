@@ -1,11 +1,5 @@
 ---
 title: "World Echelon"
-notion_id: "3d958200-eb22-81f1-911a-de43b83e9834"
-notion_url: "https://app.notion.com/p/World-Echelon-3d958200eb2281f1911ade43b83e9834"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # World Echelon

@@ -1,11 +1,5 @@
 ---
 title: "Matheus — The Silent Eye"
-notion_id: "3ba58200-eb22-81be-a93c-cb290c93bbfc"
-notion_url: "https://app.notion.com/p/Matheus-The-Silent-Eye-3ba58200eb2281bea93ccb290c93bbfc"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Matheus — The Silent Eye

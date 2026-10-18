@@ -1,11 +1,5 @@
 ---
 title: "Orya of the Wheat March · The Dragon Shepard"
-notion_id: "3bd58200-eb22-81cf-ab4d-c150451dc2e3"
-notion_url: "https://app.notion.com/p/Orya-of-the-Wheat-March-The-Dragon-Shepard-3bd58200eb2281cfab4dc150451dc2e3"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:56:00.000Z"
-verification: null
 ---
 
 # Orya of the Wheat March · The Dragon Shepard

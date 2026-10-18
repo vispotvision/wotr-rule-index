@@ -1,11 +1,5 @@
 ---
 title: "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin"
-notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
-notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # Ignatius Sanctus Sanctorum Arsenal · The Archpaladin

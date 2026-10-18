@@ -1,11 +1,5 @@
 ---
 title: "Aurevian Lysanthir · Voice Between Wars"
-notion_id: "3bd58200-eb22-81e6-8d9e-c08cf323219f"
-notion_url: "https://app.notion.com/p/Aurevian-Lysanthir-Voice-Between-Wars-3bd58200eb2281e68d9ec08cf323219f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Aurevian Lysanthir · Voice Between Wars

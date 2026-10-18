@@ -1,11 +1,5 @@
 ---
 title: "Sir Rhyse Calder · The Tartan Bastion"
-notion_id: "3bd58200-eb22-8175-80a4-dffe8ee9f813"
-notion_url: "https://app.notion.com/p/Sir-Rhyse-Calder-The-Tartan-Bastion-3bd58200eb22817580a4dffe8ee9f813"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:01:00.000Z"
-verification: null
 ---
 
 # Sir Rhyse Calder · The Tartan Bastion

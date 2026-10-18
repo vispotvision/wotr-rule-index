@@ -1,11 +1,5 @@
 ---
 title: "Asta Venrik · Wyvern Marshal Emeritus"
-notion_id: "3bd58200-eb22-8179-8e34-fac4a3adebf3"
-notion_url: "https://app.notion.com/p/Asta-Venrik-Wyvern-Marshal-Emeritus-3bd58200eb2281798e34fac4a3adebf3"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:19:00.000Z"
-verification: null
 ---
 
 # Asta Venrik · Wyvern Marshal Emeritus

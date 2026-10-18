@@ -1,11 +1,5 @@
 ---
 title: "Varozael Dreikthorne · Herald of Nightglass"
-notion_id: "3bd58200-eb22-819b-9c7f-f6260b0a5220"
-notion_url: "https://app.notion.com/p/Varozael-Dreikthorne-Herald-of-Nightglass-3bd58200eb22819b9c7ff6260b0a5220"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:04:00.000Z"
-verification: null
 ---
 
 # Varozael Dreikthorne · Herald of Nightglass

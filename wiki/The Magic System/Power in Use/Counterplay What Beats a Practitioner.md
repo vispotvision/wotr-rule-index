@@ -1,11 +1,6 @@
 ---
 title: "Counterplay: What Beats a Practitioner"
-notion_id: "3d558200-eb22-813a-9012-d11a05c73af6"
-notion_url: "https://app.notion.com/p/Counterplay-What-Beats-a-Practitioner-3d558200eb22813a9012d11a05c73af6"
-section: "The Magic System"
 tags: ["Magic System", "War"]
-last_edited: "2026-09-26T03:50:00.000Z"
-verification: "unverified"
 ---
 
 # Counterplay: What Beats a Practitioner

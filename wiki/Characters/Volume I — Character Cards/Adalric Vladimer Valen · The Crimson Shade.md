@@ -1,11 +1,5 @@
 ---
 title: "Adalric Vladimer Valen · The Crimson Shade"
-notion_id: "3bd58200-eb22-814a-8222-eed9b54f6984"
-notion_url: "https://app.notion.com/p/Adalric-Vladimer-Valen-The-Crimson-Shade-3bd58200eb22814a8222eed9b54f6984"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Adalric Vladimer Valen · The Crimson Shade

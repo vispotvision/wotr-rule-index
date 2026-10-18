@@ -1,11 +1,5 @@
 ---
 title: "The Dawi Peoples"
-notion_id: "3b158200-eb22-81e4-98de-e9a64b07e69a"
-notion_url: "https://app.notion.com/p/The-Dawi-Peoples-3b158200eb2281e498dee9a64b07e69a"
-section: "Races & Peoples"
-tags: []
-last_edited: "2026-08-03T20:24:00.000Z"
-verification: "unverified"
 ---
 
 # The Dawi Peoples

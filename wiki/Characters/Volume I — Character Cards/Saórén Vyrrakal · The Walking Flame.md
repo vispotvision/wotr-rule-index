@@ -1,11 +1,5 @@
 ---
 title: "Saórén Vyrrakal · The Walking Flame"
-notion_id: "3bd58200-eb22-819c-9280-d33b73c30039"
-notion_url: "https://app.notion.com/p/Sa-r-n-Vyrrakal-The-Walking-Flame-3bd58200eb22819c9280d33b73c30039"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Saórén Vyrrakal · The Walking Flame

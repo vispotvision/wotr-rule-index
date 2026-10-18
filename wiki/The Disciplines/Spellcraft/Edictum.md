@@ -1,11 +1,5 @@
 ---
 title: "Edictum"
-notion_id: "3d958200-eb22-81ff-9df5-c5bed5594085"
-notion_url: "https://app.notion.com/p/Edictum-3d958200eb2281ff9df5c5bed5594085"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Edictum

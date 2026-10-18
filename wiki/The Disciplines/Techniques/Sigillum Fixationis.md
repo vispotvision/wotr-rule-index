@@ -1,11 +1,5 @@
 ---
 title: "Sigillum Fixationis"
-notion_id: "3d958200-eb22-814d-b310-eedb11e1f6f7"
-notion_url: "https://app.notion.com/p/Sigillum-Fixationis-3d958200eb22814db310eedb11e1f6f7"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T08:48:00.000Z"
-verification: null
 ---
 
 # Sigillum Fixationis

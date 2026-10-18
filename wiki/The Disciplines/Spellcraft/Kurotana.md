@@ -1,11 +1,5 @@
 ---
 title: "Kurotana"
-notion_id: "3d958200-eb22-8148-99a9-f28585bfdd47"
-notion_url: "https://app.notion.com/p/Kurotana-3d958200eb22814899a9f28585bfdd47"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Kurotana

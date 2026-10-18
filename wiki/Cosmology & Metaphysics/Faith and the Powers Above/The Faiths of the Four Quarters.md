@@ -1,11 +1,6 @@
 ---
 title: "The Faiths of the Four Quarters"
-notion_id: "3d758200-eb22-8142-aedc-da580fdf8c04"
-notion_url: "https://app.notion.com/p/The-Faiths-of-the-Four-Quarters-3d758200eb228142aedcda580fdf8c04"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Peoples", "Factions"]
-last_edited: "2026-09-26T10:16:00.000Z"
-verification: "unverified"
 ---
 
 # The Faiths of the Four Quarters

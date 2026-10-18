@@ -1,11 +1,5 @@
 ---
 title: "Artifacts"
-notion_id: "3d958200-eb22-8135-aecf-cee1b6c2cd65"
-notion_url: "https://app.notion.com/p/Artifacts-3d958200eb228135aecfcee1b6c2cd65"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-09-23T23:47:00.000Z"
-verification: null
 ---
 
 # Artifacts

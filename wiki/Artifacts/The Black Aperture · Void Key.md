@@ -1,11 +1,5 @@
 ---
 title: "The Black Aperture · Void Key"
-notion_id: "3d958200-eb22-8125-ada8-d27325cdd16e"
-notion_url: "https://app.notion.com/p/The-Black-Aperture-Void-Key-3d958200eb228125ada8d27325cdd16e"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:35:00.000Z"
-verification: "unverified"
 ---
 
 # The Black Aperture · Void Key

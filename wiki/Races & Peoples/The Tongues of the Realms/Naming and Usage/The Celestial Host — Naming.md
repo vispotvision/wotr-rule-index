@@ -1,11 +1,5 @@
 ---
 title: "The Celestial Host — Naming"
-notion_id: "3db58200-eb22-8163-aece-ffa4a7d82ad0"
-notion_url: "https://app.notion.com/p/The-Celestial-Host-Naming-3db58200eb228163aeceffa4a7d82ad0"
-section: "The Tongues of the Realms"
-tags: []
-last_edited: "2026-09-26T03:56:00.000Z"
-verification: "unverified"
 ---
 
 # The Celestial Host — Naming

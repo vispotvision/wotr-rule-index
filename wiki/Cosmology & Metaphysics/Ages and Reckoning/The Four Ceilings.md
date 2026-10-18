@@ -1,11 +1,6 @@
 ---
 title: "The Four Ceilings"
-notion_id: "3b158200-eb22-8182-8399-de287a92c776"
-notion_url: "https://app.notion.com/p/The-Four-Ceilings-3b158200eb2281828399de287a92c776"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Lore & History", "Trade & Economy"]
-last_edited: "2026-09-28T08:17:00.000Z"
-verification: "unverified"
 ---
 
 # The Four Ceilings

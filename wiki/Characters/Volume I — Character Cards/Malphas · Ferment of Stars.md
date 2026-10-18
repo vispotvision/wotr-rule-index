@@ -1,11 +1,5 @@
 ---
 title: "Malphas · Ferment of Stars"
-notion_id: "3bd58200-eb22-8174-8d04-d8dc2c18ae90"
-notion_url: "https://app.notion.com/p/Malphas-Ferment-of-Stars-3bd58200eb2281748d04d8dc2c18ae90"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-14T00:36:00.000Z"
-verification: null
 ---
 
 # Malphas · Ferment of Stars

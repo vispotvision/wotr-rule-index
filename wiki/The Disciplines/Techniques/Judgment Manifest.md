@@ -1,11 +1,5 @@
 ---
 title: "Judgment Manifest"
-notion_id: "3d958200-eb22-81b7-bca2-d2f0e17c92af"
-notion_url: "https://app.notion.com/p/Judgment-Manifest-3d958200eb2281b7bca2d2f0e17c92af"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Judgment Manifest

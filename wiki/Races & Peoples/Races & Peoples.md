@@ -1,11 +1,6 @@
 ---
 title: "Races & Peoples"
-notion_id: "3b158200-eb22-8170-8ac9-c4b9f7a6798a"
-notion_url: "https://app.notion.com/p/Races-Peoples-3b158200eb2281708ac9c4b9f7a6798a"
-section: "Peoples"
 tags: ["Peoples", "Bloodlines", "Geography"]
-last_edited: "2026-09-23T00:00:00.000Z"
-verification: "unverified"
 ---
 
 # Races & Peoples

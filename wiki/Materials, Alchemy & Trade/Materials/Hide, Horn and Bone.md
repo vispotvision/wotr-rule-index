@@ -1,11 +1,6 @@
 ---
 title: "Hide, Horn and Bone"
-notion_id: "3b158200-eb22-8188-a6bd-ead4d9acd561"
-notion_url: "https://app.notion.com/p/Hide-Horn-and-Bone-3b158200eb228188a6bdead4d9acd561"
-section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-12T18:52:00.000Z"
-verification: "unverified"
 ---
 
 # Hide, Horn and Bone

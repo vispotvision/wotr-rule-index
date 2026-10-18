@@ -1,11 +1,6 @@
 ---
 title: "The Moto Bloodline"
-notion_id: "3b158200-eb22-81c5-92a2-fd88ff8fa000"
-notion_url: "https://app.notion.com/p/The-Moto-Bloodline-3b158200eb2281c592a2fd88ff8fa000"
-section: "The Archaic Bloodlines"
 tags: ["Bloodlines"]
-last_edited: "2026-09-12T20:19:00.000Z"
-verification: "unverified"
 ---
 
 # The Moto Bloodline

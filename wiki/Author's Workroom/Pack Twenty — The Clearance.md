@@ -1,11 +1,5 @@
 ---
 title: "Pack Twenty — The Clearance"
-notion_id: "3d958200-eb22-815f-8fc6-c60b3ea0104e"
-notion_url: "https://app.notion.com/p/Pack-Twenty-The-Clearance-3d958200eb22815f8fc6c60b3ea0104e"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-09-12T04:33:00.000Z"
-verification: null
 ---
 
 # Pack Twenty — The Clearance

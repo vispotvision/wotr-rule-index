@@ -1,11 +1,5 @@
 ---
 title: "Vesk"
-notion_id: "3e358200-eb22-8136-891b-fa2974880fee"
-notion_url: "https://app.notion.com/p/Vesk-3e358200eb228136891bfa2974880fee"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Vesk

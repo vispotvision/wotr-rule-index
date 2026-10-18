@@ -1,11 +1,5 @@
 ---
 title: "Edward Lambert — The Arithmetic"
-notion_id: "3ba58200-eb22-81d5-b761-e57f367328bf"
-notion_url: "https://app.notion.com/p/Edward-Lambert-The-Arithmetic-3ba58200eb2281d5b761e57f367328bf"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-14T00:35:00.000Z"
-verification: null
 ---
 
 # Edward Lambert — The Arithmetic

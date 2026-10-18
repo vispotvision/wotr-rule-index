@@ -1,11 +1,5 @@
 ---
 title: "Draven Kael Vorrick · The Beast Slayer"
-notion_id: "3bd58200-eb22-813e-a5d3-e2161752a25f"
-notion_url: "https://app.notion.com/p/Draven-Kael-Vorrick-The-Beast-Slayer-3bd58200eb22813ea5d3e2161752a25f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Draven Kael Vorrick · The Beast Slayer

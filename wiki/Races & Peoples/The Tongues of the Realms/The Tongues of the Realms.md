@@ -1,11 +1,6 @@
 ---
 title: "The Tongues of the Realms"
-notion_id: "3d758200-eb22-8134-ae74-ed9961e833f0"
-notion_url: "https://app.notion.com/p/The-Tongues-of-the-Realms-3d758200eb228134ae74ed9961e833f0"
-section: "Races & Peoples"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-26T10:03:00.000Z"
-verification: "unverified"
 ---
 
 # The Tongues of the Realms

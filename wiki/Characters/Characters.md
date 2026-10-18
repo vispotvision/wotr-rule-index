@@ -1,11 +1,5 @@
 ---
 title: "Characters"
-notion_id: "3b158200-eb22-8188-b4d8-d9b195f254dd"
-notion_url: "https://app.notion.com/p/Characters-3b158200eb228188b4d8d9b195f254dd"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-10-11T08:59:00.000Z"
-verification: null
 ---
 
 # Characters

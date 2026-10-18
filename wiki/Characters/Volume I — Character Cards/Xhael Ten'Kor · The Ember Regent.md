@@ -1,11 +1,5 @@
 ---
 title: "Xhael Ten'Kor · The Ember Regent"
-notion_id: "3d958200-eb22-81b1-ad6b-d054fcbe1872"
-notion_url: "https://app.notion.com/p/Xhael-Ten-Kor-The-Ember-Regent-3d958200eb2281b1ad6bd054fcbe1872"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
-verification: null
 ---
 
 # Xhael Ten'Kor · The Ember Regent

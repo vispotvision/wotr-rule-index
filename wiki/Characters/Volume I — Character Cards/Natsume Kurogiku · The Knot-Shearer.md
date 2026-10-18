@@ -1,11 +1,5 @@
 ---
 title: "Natsume Kurogiku · The Knot-Shearer"
-notion_id: "3bd58200-eb22-812a-ad38-d17cf1afff7f"
-notion_url: "https://app.notion.com/p/Natsume-Kurogiku-The-Knot-Shearer-3bd58200eb22812aad38d17cf1afff7f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:55:00.000Z"
-verification: null
 ---
 
 # Natsume Kurogiku · The Knot-Shearer

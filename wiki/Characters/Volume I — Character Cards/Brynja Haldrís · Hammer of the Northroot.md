@@ -1,11 +1,5 @@
 ---
 title: "Brynja Haldrís · Hammer of the Northroot"
-notion_id: "3d958200-eb22-81d8-9de4-f7e47be088e7"
-notion_url: "https://app.notion.com/p/Brynja-Haldr-s-Hammer-of-the-Northroot-3d958200eb2281d89de4f7e47be088e7"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Brynja Haldrís · Hammer of the Northroot

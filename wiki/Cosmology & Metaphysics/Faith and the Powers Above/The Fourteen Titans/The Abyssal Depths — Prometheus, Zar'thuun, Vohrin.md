@@ -1,11 +1,5 @@
 ---
 title: "The Abyssal Depths — Prometheus, Zar'thuun, Vohrin"
-notion_id: "3c758200-eb22-81fb-a0e8-ce042e2c2142"
-notion_url: "https://app.notion.com/p/The-Abyssal-Depths-Prometheus-Zar-thuun-Vohrin-3c758200eb2281fba0e8ce042e2c2142"
-section: "The Fourteen Titans"
-tags: []
-last_edited: "2026-09-12T18:54:00.000Z"
-verification: "unverified"
 ---
 
 # The Abyssal Depths — Prometheus, Zar'thuun, Vohrin

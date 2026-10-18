@@ -1,11 +1,6 @@
 ---
 title: "The Concordance of Ages"
-notion_id: "3b158200-eb22-8160-88ff-d47381afb2f0"
-notion_url: "https://app.notion.com/p/The-Concordance-of-Ages-3b158200eb22816088ffd47381afb2f0"
-section: "Cosmology & Metaphysics"
 tags: ["Lore & History", "In-World Document"]
-last_edited: "2026-09-28T08:15:00.000Z"
-verification: "unverified"
 ---
 
 # The Concordance of Ages

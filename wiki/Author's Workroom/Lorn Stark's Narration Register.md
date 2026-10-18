@@ -1,11 +1,5 @@
 ---
 title: "Lorn Stark's Narration Register"
-notion_id: "3e758200-eb22-8195-b627-dff0afd4c621"
-notion_url: "https://app.notion.com/p/Lorn-Stark-s-Narration-Register-3e758200eb228195b627dff0afd4c621"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-09-26T10:04:00.000Z"
-verification: null
 ---
 
 # Lorn Stark's Narration Register

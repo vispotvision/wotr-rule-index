@@ -1,11 +1,5 @@
 ---
 title: "Vaelthyr Iscarn · Laughing Horn"
-notion_id: "3bd58200-eb22-8193-9242-cd94b565e886"
-notion_url: "https://app.notion.com/p/Vaelthyr-Iscarn-Laughing-Horn-3bd58200eb2281939242cd94b565e886"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Vaelthyr Iscarn · Laughing Horn

@@ -1,11 +1,6 @@
 ---
 title: "Value, Coin and Trade"
-notion_id: "3b158200-eb22-818e-ab92-e9f212bb0b23"
-notion_url: "https://app.notion.com/p/Value-Coin-and-Trade-3b158200eb22818eab92e9f212bb0b23"
-section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Materials"]
-last_edited: "2026-09-28T08:18:00.000Z"
-verification: "unverified"
 ---
 
 # Value, Coin and Trade

@@ -1,11 +1,5 @@
 ---
 title: "Kogane Kei · The Soul-Reed Blade"
-notion_id: "3d958200-eb22-8127-be19-ea65c4aadf99"
-notion_url: "https://app.notion.com/p/Kogane-Kei-The-Soul-Reed-Blade-3d958200eb228127be19ea65c4aadf99"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T18:51:00.000Z"
-verification: "unverified"
 ---
 
 # Kogane Kei · The Soul-Reed Blade

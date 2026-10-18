@@ -1,11 +1,6 @@
 ---
 title: "Common — The Tongue With No Distinctions"
-notion_id: "3d758200-eb22-81d5-b117-fb16ae60d957"
-notion_url: "https://app.notion.com/p/Common-The-Tongue-With-No-Distinctions-3d758200eb2281d5b117fb16ae60d957"
-section: "The Tongues of the Realms"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
-verification: "unverified"
 ---
 
 # Common — The Tongue With No Distinctions

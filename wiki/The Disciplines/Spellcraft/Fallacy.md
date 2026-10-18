@@ -1,11 +1,5 @@
 ---
 title: "Fallacy"
-notion_id: "3d958200-eb22-81be-833b-e6e1cf0d7a59"
-notion_url: "https://app.notion.com/p/Fallacy-3d958200eb2281be833be6e1cf0d7a59"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Fallacy

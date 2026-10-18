@@ -1,11 +1,6 @@
 ---
 title: "The Long Reading — Moto Ancient History"
-notion_id: "3bc58200-eb22-81b0-810f-d3e421cd9caa"
-notion_url: "https://app.notion.com/p/The-Long-Reading-Moto-Ancient-History-3bc58200eb2281b0810fd3e421cd9caa"
-section: "The Moto Bloodline"
 tags: ["Lore & History", "Bloodlines"]
-last_edited: "2026-09-28T08:19:00.000Z"
-verification: "unverified"
 ---
 
 # The Long Reading — Moto Ancient History

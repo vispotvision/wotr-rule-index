@@ -1,11 +1,5 @@
 ---
 title: "Zeven Halek · The Eye That Remains"
-notion_id: "3bd58200-eb22-8118-afb5-de9b31de890b"
-notion_url: "https://app.notion.com/p/Zeven-Halek-The-Eye-That-Remains-3bd58200eb228118afb5de9b31de890b"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Zeven Halek · The Eye That Remains

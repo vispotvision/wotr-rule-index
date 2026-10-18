@@ -1,11 +1,5 @@
 ---
 title: "The Goblinoid Peoples"
-notion_id: "3b158200-eb22-8118-abac-efe284857149"
-notion_url: "https://app.notion.com/p/The-Goblinoid-Peoples-3b158200eb228118abacefe284857149"
-section: "Races & Peoples"
-tags: []
-last_edited: "2026-09-27T19:51:00.000Z"
-verification: "unverified"
 ---
 
 # The Goblinoid Peoples

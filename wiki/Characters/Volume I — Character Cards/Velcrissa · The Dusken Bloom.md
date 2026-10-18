@@ -1,11 +1,5 @@
 ---
 title: "Velcrissa · The Dusken Bloom"
-notion_id: "3bd58200-eb22-81f9-b1b1-ec9618cef5c7"
-notion_url: "https://app.notion.com/p/Velcrissa-The-Dusken-Bloom-3bd58200eb2281f9b1b1ec9618cef5c7"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:04:00.000Z"
-verification: null
 ---
 
 # Velcrissa · The Dusken Bloom

@@ -1,11 +1,6 @@
 ---
 title: "The Articles of the Accord, and the Kinds of Polity"
-notion_id: "3d758200-eb22-81ec-bd4b-f8d0416f3c8a"
-notion_url: "https://app.notion.com/p/The-Articles-of-the-Accord-and-the-Kinds-of-Polity-3d758200eb2281ecbd4bf8d0416f3c8a"
-section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-26T14:12:00.000Z"
-verification: "unverified"
 ---
 
 # The Articles of the Accord, and the Kinds of Polity

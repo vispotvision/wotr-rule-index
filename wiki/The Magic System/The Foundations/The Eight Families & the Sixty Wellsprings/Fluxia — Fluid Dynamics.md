@@ -1,11 +1,5 @@
 ---
 title: "Fluxia — Fluid Dynamics"
-notion_id: "3b158200-eb22-81af-8e2a-f7f9b628c9f3"
-notion_url: "https://app.notion.com/p/Fluxia-Fluid-Dynamics-3b158200eb2281af8e2af7f9b628c9f3"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-08-03T04:26:00.000Z"
-verification: "unverified"
 ---
 
 # Fluxia — Fluid Dynamics

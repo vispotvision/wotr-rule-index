@@ -1,11 +1,5 @@
 ---
 title: "Verdiction Gauntlet · The Hand of Judgment"
-notion_id: "3d958200-eb22-8101-8088-f8ae9a93db23"
-notion_url: "https://app.notion.com/p/Verdiction-Gauntlet-The-Hand-of-Judgment-3d958200eb2281018088f8ae9a93db23"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:31:00.000Z"
-verification: "unverified"
 ---
 
 # Verdiction Gauntlet · The Hand of Judgment

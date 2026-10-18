@@ -1,11 +1,5 @@
 ---
 title: "Onawa Ashkewe"
-notion_id: "3b258200-eb22-817c-8fbe-c93f05d72feb"
-notion_url: "https://app.notion.com/p/Onawa-Ashkewe-3b258200eb22817c8fbec93f05d72feb"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:25:00.000Z"
-verification: null
 ---
 
 # Onawa Ashkewe

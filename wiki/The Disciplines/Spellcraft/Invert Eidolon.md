@@ -1,11 +1,5 @@
 ---
 title: "Invert Eidolon"
-notion_id: "3d958200-eb22-81d6-89ef-cd479f1a3251"
-notion_url: "https://app.notion.com/p/Invert-Eidolon-3d958200eb2281d689efcd479f1a3251"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Invert Eidolon

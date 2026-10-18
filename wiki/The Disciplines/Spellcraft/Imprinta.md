@@ -1,11 +1,5 @@
 ---
 title: "Imprinta"
-notion_id: "3d958200-eb22-8183-abd6-fdc925a2cc91"
-notion_url: "https://app.notion.com/p/Imprinta-3d958200eb228183abd6fdc925a2cc91"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Imprinta

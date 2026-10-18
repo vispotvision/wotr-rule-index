@@ -1,11 +1,5 @@
 ---
 title: "Garu Luneward · Winter Hound of the March"
-notion_id: "3d958200-eb22-81b0-9cde-c5306c2b59ba"
-notion_url: "https://app.notion.com/p/Garu-Luneward-Winter-Hound-of-the-March-3d958200eb2281b09cdec5306c2b59ba"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
-verification: null
 ---
 
 # Garu Luneward · Winter Hound of the March

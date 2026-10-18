@@ -1,11 +1,5 @@
 ---
 title: "Mugen no Hatsurugi"
-notion_id: "3d958200-eb22-8185-a08e-c5f442a6b44d"
-notion_url: "https://app.notion.com/p/Mugen-no-Hatsurugi-3d958200eb228185a08ec5f442a6b44d"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: null
 ---
 
 # Mugen no Hatsurugi

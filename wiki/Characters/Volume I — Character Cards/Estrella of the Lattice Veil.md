@@ -1,11 +1,5 @@
 ---
 title: "Estrella of the Lattice Veil"
-notion_id: "3bd58200-eb22-8179-9066-c7f384366807"
-notion_url: "https://app.notion.com/p/Estrella-of-the-Lattice-Veil-3bd58200eb2281799066c7f384366807"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:44:00.000Z"
-verification: null
 ---
 
 # Estrella of the Lattice Veil

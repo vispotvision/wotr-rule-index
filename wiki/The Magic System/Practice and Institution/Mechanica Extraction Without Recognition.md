@@ -1,11 +1,6 @@
 ---
 title: "Mechanica: Extraction Without Recognition"
-notion_id: "3d558200-eb22-8114-8002-d6eb5fc4631b"
-notion_url: "https://app.notion.com/p/Mechanica-Extraction-Without-Recognition-3d558200eb2281148002d6eb5fc4631b"
-section: "The Magic System"
 tags: ["Magic System", "Factions"]
-last_edited: "2026-09-28T08:26:00.000Z"
-verification: "unverified"
 ---
 
 # Mechanica: Extraction Without Recognition

@@ -1,11 +1,5 @@
 ---
 title: "Sinclair Mercer · The Soul Devourer"
-notion_id: "3bd58200-eb22-811b-9988-d81970b1c19f"
-notion_url: "https://app.notion.com/p/Sinclair-Mercer-The-Soul-Devourer-3bd58200eb22811b9988d81970b1c19f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Sinclair Mercer · The Soul Devourer

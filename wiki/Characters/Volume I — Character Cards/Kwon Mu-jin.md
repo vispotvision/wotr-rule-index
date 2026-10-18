@@ -1,11 +1,5 @@
 ---
 title: "Kwon Mu-jin"
-notion_id: "3b258200-eb22-8188-b889-f849c8cc7c56"
-notion_url: "https://app.notion.com/p/Kwon-Mu-jin-3b258200eb228188b889f849c8cc7c56"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-14T00:36:00.000Z"
-verification: null
 ---
 
 # Kwon Mu-jin

@@ -1,11 +1,5 @@
 ---
 title: "The Ledger of Forgotten Faces · Glyph Tool / Cursed Object"
-notion_id: "3d958200-eb22-8104-8a8d-d18084f84c96"
-notion_url: "https://app.notion.com/p/The-Ledger-of-Forgotten-Faces-Glyph-Tool-Cursed-Object-3d958200eb2281048a8dd18084f84c96"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:32:00.000Z"
-verification: "unverified"
 ---
 
 # The Ledger of Forgotten Faces · Glyph Tool / Cursed Object

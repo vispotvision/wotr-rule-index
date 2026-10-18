@@ -1,11 +1,5 @@
 ---
 title: "Tōga (冬牙) — Winter Fang"
-notion_id: "3ba58200-eb22-81c2-9db0-e155860d0caa"
-notion_url: "https://app.notion.com/p/T-ga-Winter-Fang-3ba58200eb2281c29db0e155860d0caa"
-section: "Sodoku Moto"
-tags: []
-last_edited: "2026-09-12T05:39:00.000Z"
-verification: "unverified"
 ---
 
 # Tōga (冬牙) — Winter Fang

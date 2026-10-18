@@ -1,11 +1,5 @@
 ---
 title: "Final Mercy"
-notion_id: "3d958200-eb22-81c1-9825-cb96466d2933"
-notion_url: "https://app.notion.com/p/Final-Mercy-3d958200eb2281c19825cb96466d2933"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Final Mercy

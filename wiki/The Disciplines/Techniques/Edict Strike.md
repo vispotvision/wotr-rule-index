@@ -1,11 +1,5 @@
 ---
 title: "Edict Strike"
-notion_id: "3d958200-eb22-814e-a4f8-d6c1dc848b7d"
-notion_url: "https://app.notion.com/p/Edict-Strike-3d958200eb22814ea4f8d6c1dc848b7d"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Edict Strike

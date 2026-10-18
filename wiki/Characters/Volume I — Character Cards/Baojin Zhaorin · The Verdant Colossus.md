@@ -1,11 +1,5 @@
 ---
 title: "Baojin Zhaorin · The Verdant Colossus"
-notion_id: "3bd58200-eb22-814b-9e33-d0b019314f23"
-notion_url: "https://app.notion.com/p/Baojin-Zhaorin-The-Verdant-Colossus-3bd58200eb22814b9e33d0b019314f23"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:40:00.000Z"
-verification: null
 ---
 
 # Baojin Zhaorin · The Verdant Colossus

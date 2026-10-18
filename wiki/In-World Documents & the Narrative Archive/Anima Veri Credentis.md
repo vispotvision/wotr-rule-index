@@ -1,11 +1,5 @@
 ---
 title: "Anima Veri Credentis"
-notion_id: "3b258200-eb22-81a4-945c-e1dbd5a53898"
-notion_url: "https://app.notion.com/p/Anima-Veri-Credentis-3b258200eb2281a4945ce1dbd5a53898"
-section: "In-World Documents & the Narrative Archive"
-tags: []
-last_edited: "2026-08-04T00:15:00.000Z"
-verification: "unverified"
 ---
 
 # Anima Veri Credentis

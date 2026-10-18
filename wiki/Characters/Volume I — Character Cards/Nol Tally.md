@@ -1,11 +1,5 @@
 ---
 title: "Nol Tally"
-notion_id: "3e358200-eb22-81ee-8c69-c23f29b209d7"
-notion_url: "https://app.notion.com/p/Nol-Tally-3e358200eb2281ee8c69c23f29b209d7"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T16:20:00.000Z"
-verification: null
 ---
 
 # Nol Tally

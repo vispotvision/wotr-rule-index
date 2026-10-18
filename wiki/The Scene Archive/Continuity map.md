@@ -1,11 +1,5 @@
 ---
 title: "Continuity map"
-notion_id: "3e358200-eb22-813f-988c-cfe973b55fee"
-notion_url: "https://app.notion.com/p/Continuity-map-3e358200eb22813f988ccfe973b55fee"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-22T23:17:00.000Z"
-verification: null
 ---
 
 # Continuity map

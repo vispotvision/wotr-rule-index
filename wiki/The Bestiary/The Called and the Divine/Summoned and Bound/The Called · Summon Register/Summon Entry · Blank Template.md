@@ -1,11 +1,5 @@
 ---
 title: "Summon Entry · Blank Template"
-notion_id: "3b358200-eb22-8133-95f0-ede97970b055"
-notion_url: "https://app.notion.com/p/Summon-Entry-Blank-Template-3b358200eb22813395f0ede97970b055"
-section: "The Called · Summon Register"
-tags: []
-last_edited: "2026-08-05T18:33:00.000Z"
-verification: "unverified"
 ---
 
 # Summon Entry · Blank Template

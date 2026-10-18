@@ -1,11 +1,6 @@
 ---
 title: "Errata to the Received Registers"
-notion_id: "3b158200-eb22-81fc-834d-d37caa50629f"
-notion_url: "https://app.notion.com/p/Errata-to-the-Received-Registers-3b158200eb2281fc834dd37caa50629f"
-section: "Cosmology & Metaphysics"
 tags: ["Lore & History", "In-World Document"]
-last_edited: "2026-09-28T08:24:00.000Z"
-verification: "unverified"
 ---
 
 # Errata to the Received Registers

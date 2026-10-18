@@ -1,11 +1,5 @@
 ---
 title: "The Order of Battle"
-notion_id: "3b158200-eb22-814c-bf31-e610ff818b79"
-notion_url: "https://app.notion.com/p/The-Order-of-Battle-3b158200eb22814cbf31e610ff818b79"
-section: "The War Cycle"
-tags: []
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Order of Battle

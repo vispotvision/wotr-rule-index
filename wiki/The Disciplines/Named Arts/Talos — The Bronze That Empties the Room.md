@@ -1,11 +1,5 @@
 ---
 title: "Talos — The Bronze That Empties the Room"
-notion_id: "3bc58200-eb22-815c-954f-e6dd10ef0b7c"
-notion_url: "https://app.notion.com/p/Talos-The-Bronze-That-Empties-the-Room-3bc58200eb22815c954fe6dd10ef0b7c"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-08-15T19:24:00.000Z"
-verification: "unverified"
 ---
 
 # Talos — The Bronze That Empties the Room

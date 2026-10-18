@@ -1,11 +1,5 @@
 ---
 title: "The Ossuary Choir"
-notion_id: "3bd58200-eb22-81c4-9d55-df019d801601"
-notion_url: "https://app.notion.com/p/The-Ossuary-Choir-3bd58200eb2281c49d55df019d801601"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # The Ossuary Choir

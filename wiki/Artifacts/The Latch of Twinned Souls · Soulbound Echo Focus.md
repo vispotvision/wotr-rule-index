@@ -1,11 +1,5 @@
 ---
 title: "The Latch of Twinned Souls · Soulbound Echo Focus"
-notion_id: "3d958200-eb22-819d-8b45-d9003ec8141c"
-notion_url: "https://app.notion.com/p/The-Latch-of-Twinned-Souls-Soulbound-Echo-Focus-3d958200eb22819d8b45d9003ec8141c"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:32:00.000Z"
-verification: "unverified"
 ---
 
 # The Latch of Twinned Souls · Soulbound Echo Focus

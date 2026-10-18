@@ -1,11 +1,5 @@
 ---
 title: "Pierre · The Laughing Guillotine"
-notion_id: "3bd58200-eb22-8176-bb9b-f4be074d847d"
-notion_url: "https://app.notion.com/p/Pierre-The-Laughing-Guillotine-3bd58200eb228176bb9bf4be074d847d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Pierre · The Laughing Guillotine

@@ -1,11 +1,5 @@
 ---
 title: "The Iron Bison — A Discipline of Internal Resonance"
-notion_id: "3bc58200-eb22-81fb-8b71-e5beb48191e6"
-notion_url: "https://app.notion.com/p/The-Iron-Bison-A-Discipline-of-Internal-Resonance-3bc58200eb2281fb8b71e5beb48191e6"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-12T17:03:00.000Z"
-verification: "unverified"
 ---
 
 # The Iron Bison — A Discipline of Internal Resonance

@@ -1,11 +1,5 @@
 ---
 title: "Mkanda wa Mizimu · Band of the Ancestral Spirits"
-notion_id: "3d958200-eb22-8128-a632-e5079a0a26c2"
-notion_url: "https://app.notion.com/p/Mkanda-wa-Mizimu-Band-of-the-Ancestral-Spirits-3d958200eb228128a632e5079a0a26c2"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-26T08:48:00.000Z"
-verification: null
 ---
 
 # Mkanda wa Mizimu · Band of the Ancestral Spirits

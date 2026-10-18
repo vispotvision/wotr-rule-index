@@ -1,11 +1,5 @@
 ---
 title: "Moros Pellayne · The Ossuary Registrar"
-notion_id: "3bd58200-eb22-81c8-882b-e29d9878e55d"
-notion_url: "https://app.notion.com/p/Moros-Pellayne-The-Ossuary-Registrar-3bd58200eb2281c8882be29d9878e55d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
-verification: null
 ---
 
 # Moros Pellayne · The Ossuary Registrar

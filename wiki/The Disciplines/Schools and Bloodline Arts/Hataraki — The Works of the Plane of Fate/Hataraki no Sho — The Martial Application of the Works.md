@@ -1,11 +1,5 @@
 ---
 title: "Hataraki no Sho — The Martial Application of the Works"
-notion_id: "3b158200-eb22-81eb-9d79-eade4ec8fd73"
-notion_url: "https://app.notion.com/p/Hataraki-no-Sho-The-Martial-Application-of-the-Works-3b158200eb2281eb9d79eade4ec8fd73"
-section: "Hataraki — The Works of the Plane of Fate"
-tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: null
 ---
 
 # Hataraki no Sho — The Martial Application of the Works

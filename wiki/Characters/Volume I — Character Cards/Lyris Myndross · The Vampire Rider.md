@@ -1,11 +1,5 @@
 ---
 title: "Lyris Myndross · The Vampire Rider"
-notion_id: "3bd58200-eb22-81f7-93e7-f7a442d28279"
-notion_url: "https://app.notion.com/p/Lyris-Myndross-The-Vampire-Rider-3bd58200eb2281f793e7f7a442d28279"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:52:00.000Z"
-verification: null
 ---
 
 # Lyris Myndross · The Vampire Rider

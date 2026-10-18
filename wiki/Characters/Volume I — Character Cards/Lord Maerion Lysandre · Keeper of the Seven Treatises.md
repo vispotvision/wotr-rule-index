@@ -1,11 +1,5 @@
 ---
 title: "Lord Maerion Lysandre · Keeper of the Seven Treatises"
-notion_id: "3bd58200-eb22-811b-9de6-f3b2a852ef70"
-notion_url: "https://app.notion.com/p/Lord-Maerion-Lysandre-Keeper-of-the-Seven-Treatises-3bd58200eb22811b9de6f3b2a852ef70"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:52:00.000Z"
-verification: null
 ---
 
 # Lord Maerion Lysandre · Keeper of the Seven Treatises

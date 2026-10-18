@@ -1,11 +1,5 @@
 ---
 title: "Serai Linthra · The Serpent Alchemist"
-notion_id: "3d958200-eb22-811f-b07d-ced7f73a4ed4"
-notion_url: "https://app.notion.com/p/Serai-Linthra-The-Serpent-Alchemist-3d958200eb22811fb07dced7f73a4ed4"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
-verification: null
 ---
 
 # Serai Linthra · The Serpent Alchemist

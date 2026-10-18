@@ -1,11 +1,5 @@
 ---
 title: "Chorda Somnii"
-notion_id: "3d958200-eb22-816c-a3da-c74479614ac9"
-notion_url: "https://app.notion.com/p/Chorda-Somnii-3d958200eb22816ca3dac74479614ac9"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Chorda Somnii

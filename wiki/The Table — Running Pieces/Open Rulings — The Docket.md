@@ -1,11 +1,6 @@
 ---
 title: "Open Rulings — The Docket"
-notion_id: "3d458200-eb22-8135-b377-f859d84a96b7"
-notion_url: "https://app.notion.com/p/Open-Rulings-The-Docket-3d458200eb228135b377f859d84a96b7"
-section: "The Table — Running Pieces"
 tags: ["Open Rulings", "Prose"]
-last_edited: "2026-09-10T11:22:00.000Z"
-verification: "unverified"
 ---
 
 > **Historical, retired 2026-10-17.** Every item below was ruled or closed (the Büri/Moto sweep is done; R13 and R14 were ruled 2026-09-12). The live docket is `check_docket` and `out/docket.md`; open questions are decided at the table (R79-2).

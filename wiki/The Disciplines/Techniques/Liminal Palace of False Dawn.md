@@ -1,11 +1,5 @@
 ---
 title: "Liminal Palace of False Dawn"
-notion_id: "3d958200-eb22-81a4-8688-c39d15abda92"
-notion_url: "https://app.notion.com/p/Liminal-Palace-of-False-Dawn-3d958200eb2281a48688c39d15abda92"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Liminal Palace of False Dawn

@@ -1,11 +1,5 @@
 ---
 title: "Cernan Eryndor · The Bull"
-notion_id: "3bd58200-eb22-819c-872a-f64cbdb1ea2b"
-notion_url: "https://app.notion.com/p/Cernan-Eryndor-The-Bull-3bd58200eb22819c872af64cbdb1ea2b"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:41:00.000Z"
-verification: null
 ---
 
 # Cernan Eryndor · The Bull

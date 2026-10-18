@@ -1,11 +1,5 @@
 ---
 title: "Valthren Odrin · The Lantern Scribe"
-notion_id: "3d958200-eb22-8153-a121-c95fff247018"
-notion_url: "https://app.notion.com/p/Valthren-Odrin-The-Lantern-Scribe-3d958200eb228153a121c95fff247018"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:03:00.000Z"
-verification: null
 ---
 
 # Valthren Odrin · The Lantern Scribe

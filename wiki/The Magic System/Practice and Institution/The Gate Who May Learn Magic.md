@@ -1,11 +1,5 @@
 ---
 title: "The Gate: Who May Learn Magic"
-notion_id: "3e758200-eb22-81e2-9338-de9a77b31053"
-notion_url: "https://app.notion.com/p/The-Gate-Who-May-Learn-Magic-3e758200eb2281e29338de9a77b31053"
-section: "The Magic System"
-tags: []
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Gate: Who May Learn Magic

@@ -1,11 +1,5 @@
 ---
 title: "Orivane Caelthys · Astral Shepherd"
-notion_id: "3bd58200-eb22-8174-9514-f472eef89877"
-notion_url: "https://app.notion.com/p/Orivane-Caelthys-Astral-Shepherd-3bd58200eb2281749514f472eef89877"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:55:00.000Z"
-verification: null
 ---
 
 # Orivane Caelthys · Astral Shepherd

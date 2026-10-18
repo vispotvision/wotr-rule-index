@@ -1,11 +1,6 @@
 ---
 title: "The Color of Essence"
-notion_id: "3bc58200-eb22-81a8-a218-c66905c24259"
-notion_url: "https://app.notion.com/p/The-Color-of-Essence-3bc58200eb2281a8a218c66905c24259"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-14T12:48:00.000Z"
-verification: "unverified"
 ---
 
 # The Color of Essence

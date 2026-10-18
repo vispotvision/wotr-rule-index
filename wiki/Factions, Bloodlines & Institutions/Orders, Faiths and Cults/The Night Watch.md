@@ -1,11 +1,5 @@
 ---
 title: "The Night Watch"
-notion_id: "3e758200-eb22-8156-af34-d82ba7964eea"
-notion_url: "https://app.notion.com/p/The-Night-Watch-3e758200eb228156af34d82ba7964eea"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Night Watch

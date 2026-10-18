@@ -1,11 +1,5 @@
 ---
 title: "Bloodbind Surge"
-notion_id: "3d958200-eb22-8147-872c-e7d3e512c5e3"
-notion_url: "https://app.notion.com/p/Bloodbind-Surge-3d958200eb228147872ce7d3e512c5e3"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Bloodbind Surge

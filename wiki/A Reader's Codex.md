@@ -1,11 +1,6 @@
 ---
 title: "A Reader's Codex"
-notion_id: "3db58200-eb22-812a-ad53-c3188d8e5557"
-notion_url: "https://app.notion.com/p/A-Reader-s-Codex-3db58200eb22812aad53c3188d8e5557"
-section: "Reference Table"
 tags: ["Reference Table"]
-last_edited: "2026-09-28T08:18:00.000Z"
-verification: "unverified"
 ---
 
 # A Reader's Codex

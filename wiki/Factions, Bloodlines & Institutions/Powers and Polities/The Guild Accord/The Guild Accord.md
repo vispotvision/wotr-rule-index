@@ -1,11 +1,6 @@
 ---
 title: "The Guild Accord"
-notion_id: "3b158200-eb22-816a-bcc2-c148358fb25e"
-notion_url: "https://app.notion.com/p/The-Guild-Accord-3b158200eb22816abcc2c148358fb25e"
-section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "In-World Document"]
-last_edited: "2026-09-28T08:19:00.000Z"
-verification: "unverified"
 ---
 
 # The Guild Accord

@@ -1,11 +1,5 @@
 ---
 title: "The Apprentice's Primer — A First Reader for the Newly Registered"
-notion_id: "3bc58200-eb22-81e0-be04-e39a67134b0b"
-notion_url: "https://app.notion.com/p/The-Apprentice-s-Primer-A-First-Reader-for-the-Newly-Registered-3bc58200eb2281e0be04e39a67134b0b"
-section: "In-World Documents & the Narrative Archive"
-tags: []
-last_edited: "2026-10-14T00:36:00.000Z"
-verification: null
 ---
 
 # The Apprentice's Primer — A First Reader for the Newly Registered

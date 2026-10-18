@@ -1,11 +1,5 @@
 ---
 title: "Nuvalik"
-notion_id: "3e358200-eb22-8192-a22e-e9b9566111b9"
-notion_url: "https://app.notion.com/p/Nuvalik-3e358200eb228192a22ee9b9566111b9"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Nuvalik

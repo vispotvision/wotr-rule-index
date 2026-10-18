@@ -1,11 +1,5 @@
 ---
 title: "Chimwala N'Doro · Emerald Tusks of the Verdant Covenant"
-notion_id: "3bd58200-eb22-81bf-a790-de65ab188193"
-notion_url: "https://app.notion.com/p/Chimwala-N-Doro-Emerald-Tusks-of-the-Verdant-Covenant-3bd58200eb2281bfa790de65ab188193"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Chimwala N'Doro · Emerald Tusks of the Verdant Covenant

@@ -1,11 +1,5 @@
 ---
 title: "Shael Virellion · Oracle of the Broken Mirror"
-notion_id: "3bd58200-eb22-81c4-b862-fe0fa9cce29e"
-notion_url: "https://app.notion.com/p/Shael-Virellion-Oracle-of-the-Broken-Mirror-3bd58200eb2281c4b862fe0fa9cce29e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:00:00.000Z"
-verification: null
 ---
 
 # Shael Virellion · Oracle of the Broken Mirror

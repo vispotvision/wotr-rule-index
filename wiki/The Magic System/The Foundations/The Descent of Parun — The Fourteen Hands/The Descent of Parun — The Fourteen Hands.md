@@ -1,11 +1,6 @@
 ---
 title: "The Descent of Parun — The Fourteen Hands"
-notion_id: "3bc58200-eb22-81c9-a13b-d5514ddd0f8b"
-notion_url: "https://app.notion.com/p/The-Descent-of-Parun-The-Fourteen-Hands-3bc58200eb2281c9a13bd5514ddd0f8b"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
-verification: "unverified"
 ---
 
 # The Descent of Parun — The Fourteen Hands

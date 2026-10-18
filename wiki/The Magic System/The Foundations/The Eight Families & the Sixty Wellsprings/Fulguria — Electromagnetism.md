@@ -1,11 +1,5 @@
 ---
 title: "Fulguria — Electromagnetism"
-notion_id: "3b158200-eb22-8159-8e09-faf72ab4c515"
-notion_url: "https://app.notion.com/p/Fulguria-Electromagnetism-3b158200eb2281598e09faf72ab4c515"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-08-16T21:26:00.000Z"
-verification: "unverified"
 ---
 
 # Fulguria — Electromagnetism

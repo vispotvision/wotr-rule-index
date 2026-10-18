@@ -1,11 +1,5 @@
 ---
 title: "Caloria — Thermodynamics"
-notion_id: "3b158200-eb22-8165-a358-f525661907a4"
-notion_url: "https://app.notion.com/p/Caloria-Thermodynamics-3b158200eb228165a358f525661907a4"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-08-03T04:24:00.000Z"
-verification: "unverified"
 ---
 
 # Caloria — Thermodynamics

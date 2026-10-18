@@ -1,11 +1,5 @@
 ---
 title: "The Primordial Dyad — Order and Chaos"
-notion_id: "3b158200-eb22-813e-85a1-fd90fd07ee5c"
-notion_url: "https://app.notion.com/p/The-Primordial-Dyad-Order-and-Chaos-3b158200eb22813e85a1fd90fd07ee5c"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-08-03T03:56:00.000Z"
-verification: "unverified"
 ---
 
 # The Primordial Dyad — Order and Chaos

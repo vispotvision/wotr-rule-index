@@ -1,11 +1,5 @@
 ---
 title: "Yukizumi Yukari · The Reaper"
-notion_id: "3bd58200-eb22-8107-bea9-d5a31ea79d67"
-notion_url: "https://app.notion.com/p/Yukizumi-Yukari-The-Reaper-3bd58200eb228107bea9d5a31ea79d67"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Yukizumi Yukari · The Reaper

@@ -1,11 +1,5 @@
 ---
 title: "Ymir Rhok · The Emberhand"
-notion_id: "3bd58200-eb22-81d5-885e-d21e8cce074e"
-notion_url: "https://app.notion.com/p/Ymir-Rhok-The-Emberhand-3bd58200eb2281d5885ed21e8cce074e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:05:00.000Z"
-verification: null
 ---
 
 # Ymir Rhok · The Emberhand

@@ -1,11 +1,5 @@
 ---
 title: "Obelisk of the Eclipsed Dawn"
-notion_id: "3d958200-eb22-81da-b877-e45d75dc3806"
-notion_url: "https://app.notion.com/p/Obelisk-of-the-Eclipsed-Dawn-3d958200eb2281dab877e45d75dc3806"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Obelisk of the Eclipsed Dawn

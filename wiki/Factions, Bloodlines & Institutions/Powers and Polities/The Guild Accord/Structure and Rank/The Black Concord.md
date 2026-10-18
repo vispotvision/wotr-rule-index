@@ -1,11 +1,5 @@
 ---
 title: "The Black Concord"
-notion_id: "3b158200-eb22-812d-8a74-cb672f94bf76"
-notion_url: "https://app.notion.com/p/The-Black-Concord-3b158200eb22812d8a74cb672f94bf76"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-09-28T08:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Black Concord

@@ -1,11 +1,5 @@
 ---
 title: "The Mother"
-notion_id: "3e758200-eb22-8120-bf53-c42ca25c7058"
-notion_url: "https://app.notion.com/p/The-Mother-3e758200eb228120bf53c42ca25c7058"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-28T08:24:00.000Z"
-verification: "unverified"
 ---
 
 # The Mother

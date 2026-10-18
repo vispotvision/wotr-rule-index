@@ -1,11 +1,5 @@
 ---
 title: "Ken — The Fist That Fights the Architecture"
-notion_id: "3bc58200-eb22-81cf-a998-ce07923d93c2"
-notion_url: "https://app.notion.com/p/Ken-The-Fist-That-Fights-the-Architecture-3bc58200eb2281cfa998ce07923d93c2"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-12T17:04:00.000Z"
-verification: "unverified"
 ---
 
 # Ken — The Fist That Fights the Architecture

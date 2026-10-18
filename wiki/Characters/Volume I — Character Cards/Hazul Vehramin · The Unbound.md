@@ -1,11 +1,5 @@
 ---
 title: "Hazul Vehramin · The Unbound"
-notion_id: "3bd58200-eb22-8150-b8c0-e591d45e7e5d"
-notion_url: "https://app.notion.com/p/Hazul-Vehramin-The-Unbound-3bd58200eb228150b8c0e591d45e7e5d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:46:00.000Z"
-verification: null
 ---
 
 # Hazul Vehramin · The Unbound

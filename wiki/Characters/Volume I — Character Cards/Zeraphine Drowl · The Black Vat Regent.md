@@ -1,11 +1,5 @@
 ---
 title: "Zeraphine Drowl · The Black Vat Regent"
-notion_id: "3bd58200-eb22-8129-a362-e281407b1710"
-notion_url: "https://app.notion.com/p/Zeraphine-Drowl-The-Black-Vat-Regent-3bd58200eb228129a362e281407b1710"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-06T20:04:00.000Z"
-verification: null
 ---
 
 # Zeraphine Drowl · The Black Vat Regent

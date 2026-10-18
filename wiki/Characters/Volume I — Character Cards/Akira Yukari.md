@@ -1,11 +1,5 @@
 ---
 title: "Akira Yukari"
-notion_id: "3e058200-eb22-818e-b371-e0821fc1da70"
-notion_url: "https://app.notion.com/p/Akira-Yukari-3e058200eb22818eb371e0821fc1da70"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Akira Yukari

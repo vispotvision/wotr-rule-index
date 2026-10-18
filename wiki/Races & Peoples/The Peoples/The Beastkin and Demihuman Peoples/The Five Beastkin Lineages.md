@@ -1,11 +1,5 @@
 ---
 title: "The Five Beastkin Lineages"
-notion_id: "3b158200-eb22-8134-8458-c65ec40be6b0"
-notion_url: "https://app.notion.com/p/The-Five-Beastkin-Lineages-3b158200eb2281348458c65ec40be6b0"
-section: "The Beastkin and Demihuman Peoples"
-tags: []
-last_edited: "2026-08-03T20:34:00.000Z"
-verification: "unverified"
 ---
 
 # The Five Beastkin Lineages

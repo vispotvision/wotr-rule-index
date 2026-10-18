@@ -1,11 +1,5 @@
 ---
 title: "Yasoshima — The Eighty Isles"
-notion_id: "3bc58200-eb22-816d-adac-cdb407408b34"
-notion_url: "https://app.notion.com/p/Yasoshima-The-Eighty-Isles-3bc58200eb22816dadaccdb407408b34"
-section: "The Bearing and the Holding"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: "unverified"
 ---
 
 # Yasoshima — The Eighty Isles

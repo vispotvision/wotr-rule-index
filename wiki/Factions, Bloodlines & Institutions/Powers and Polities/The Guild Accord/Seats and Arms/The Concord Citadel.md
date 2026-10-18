@@ -1,11 +1,5 @@
 ---
 title: "The Concord Citadel"
-notion_id: "3b158200-eb22-81c4-9084-f14837c8b7fd"
-notion_url: "https://app.notion.com/p/The-Concord-Citadel-3b158200eb2281c49084f14837c8b7fd"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-09-28T08:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Concord Citadel

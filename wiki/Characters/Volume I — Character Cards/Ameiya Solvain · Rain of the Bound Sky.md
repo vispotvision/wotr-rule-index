@@ -1,11 +1,5 @@
 ---
 title: "Ameiya Solvain · Rain of the Bound Sky"
-notion_id: "3d958200-eb22-8142-8a9c-ddbceceb9f5a"
-notion_url: "https://app.notion.com/p/Ameiya-Solvain-Rain-of-the-Bound-Sky-3d958200eb2281428a9cddbceceb9f5a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Ameiya Solvain · Rain of the Bound Sky

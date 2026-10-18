@@ -1,11 +1,5 @@
 ---
 title: "Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin"
-notion_id: "3d958200-eb22-81c1-b796-f6f3757fb7fb"
-notion_url: "https://app.notion.com/p/Element-Inventories-Mahuo-Yukari-the-Elven-Branches-Beastkin-3d958200eb2281c1b796f6f3757fb7fb"
-section: "The Tongues of the Realms"
-tags: []
-last_edited: "2026-09-26T08:48:00.000Z"
-verification: "unverified"
 ---
 
 # Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin

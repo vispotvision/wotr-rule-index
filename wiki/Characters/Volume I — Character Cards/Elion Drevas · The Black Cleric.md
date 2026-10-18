@@ -1,11 +1,5 @@
 ---
 title: "Elion Drevas · The Black Cleric"
-notion_id: "3d958200-eb22-81ce-a461-f576b5eb5111"
-notion_url: "https://app.notion.com/p/Elion-Drevas-The-Black-Cleric-3d958200eb2281cea461f576b5eb5111"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Elion Drevas · The Black Cleric

@@ -1,11 +1,5 @@
 ---
 title: "Lyraen Callivane · Verdure Hoof"
-notion_id: "3bd58200-eb22-8100-bdee-e5d1c3fc23aa"
-notion_url: "https://app.notion.com/p/Lyraen-Callivane-Verdure-Hoof-3bd58200eb228100bdeee5d1c3fc23aa"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Lyraen Callivane · Verdure Hoof

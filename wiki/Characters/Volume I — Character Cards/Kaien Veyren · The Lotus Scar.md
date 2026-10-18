@@ -1,11 +1,5 @@
 ---
 title: "Kaien Veyren · The Lotus Scar"
-notion_id: "3bd58200-eb22-814d-b915-d7d48e8e813a"
-notion_url: "https://app.notion.com/p/Kaien-Veyren-The-Lotus-Scar-3bd58200eb22814db915d7d48e8e813a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:49:00.000Z"
-verification: null
 ---
 
 # Kaien Veyren · The Lotus Scar

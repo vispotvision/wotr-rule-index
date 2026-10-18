@@ -1,11 +1,5 @@
 ---
 title: "Saba no Rosa"
-notion_id: "3d958200-eb22-8118-966f-fa511f1cb4da"
-notion_url: "https://app.notion.com/p/Saba-no-Rosa-3d958200eb228118966ffa511f1cb4da"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
-verification: null
 ---
 
 # Saba no Rosa

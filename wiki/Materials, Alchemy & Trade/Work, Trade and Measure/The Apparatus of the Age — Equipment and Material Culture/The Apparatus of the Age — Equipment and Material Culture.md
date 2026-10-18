@@ -1,11 +1,6 @@
 ---
 title: "The Apparatus of the Age — Equipment and Material Culture"
-notion_id: "3bc58200-eb22-81c9-8a85-e32caf0235ed"
-notion_url: "https://app.notion.com/p/The-Apparatus-of-the-Age-Equipment-and-Material-Culture-3bc58200eb2281c98a85e32caf0235ed"
-section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy"]
-last_edited: "2026-10-14T00:19:00.000Z"
-verification: "unverified"
 ---
 
 # The Apparatus of the Age — Equipment and Material Culture

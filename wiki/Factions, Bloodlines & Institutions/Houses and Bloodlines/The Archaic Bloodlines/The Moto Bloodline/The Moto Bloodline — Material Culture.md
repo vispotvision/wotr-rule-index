@@ -1,11 +1,6 @@
 ---
 title: "The Moto Bloodline — Material Culture"
-notion_id: "3d958200-eb22-81b6-8f63-e46eb9ccdee4"
-notion_url: "https://app.notion.com/p/The-Moto-Bloodline-Material-Culture-3d958200eb2281b68f63e46eb9ccdee4"
-section: "The Moto Bloodline"
 tags: ["Bloodlines"]
-last_edited: "2026-09-12T20:21:00.000Z"
-verification: "unverified"
 ---
 
 # The Moto Bloodline — Material Culture

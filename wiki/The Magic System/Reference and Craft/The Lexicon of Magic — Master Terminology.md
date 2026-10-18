@@ -1,11 +1,6 @@
 ---
 title: "The Lexicon of Magic — Master Terminology"
-notion_id: "3c758200-eb22-8167-8e6e-f8536b7f8816"
-notion_url: "https://app.notion.com/p/The-Lexicon-of-Magic-Master-Terminology-3c758200eb2281678e6ef8536b7f8816"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-14T00:31:00.000Z"
-verification: "unverified"
 ---
 
 # The Lexicon of Magic — Master Terminology

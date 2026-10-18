@@ -1,11 +1,5 @@
 ---
 title: "Divine, Archonic and Elemental"
-notion_id: "3b158200-eb22-819d-b460-fdfc405df896"
-notion_url: "https://app.notion.com/p/Divine-Archonic-and-Elemental-3b158200eb22819db460fdfc405df896"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-08-03T23:59:00.000Z"
-verification: "unverified"
 ---
 
 # Divine, Archonic and Elemental

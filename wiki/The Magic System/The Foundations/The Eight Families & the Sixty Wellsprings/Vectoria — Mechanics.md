@@ -1,11 +1,5 @@
 ---
 title: "Vectoria — Mechanics"
-notion_id: "3b158200-eb22-811a-a023-db33375829c8"
-notion_url: "https://app.notion.com/p/Vectoria-Mechanics-3b158200eb22811aa023db33375829c8"
-section: "The Eight Families & the Sixty Wellsprings"
-tags: []
-last_edited: "2026-09-23T23:25:00.000Z"
-verification: "unverified"
 ---
 
 # Vectoria — Mechanics

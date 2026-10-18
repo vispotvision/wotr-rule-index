@@ -1,11 +1,5 @@
 ---
 title: "Kaelrith Dorne · The Iron Wound"
-notion_id: "3d958200-eb22-812c-a956-d16a32c3350e"
-notion_url: "https://app.notion.com/p/Kaelrith-Dorne-The-Iron-Wound-3d958200eb22812ca956d16a32c3350e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Kaelrith Dorne · The Iron Wound

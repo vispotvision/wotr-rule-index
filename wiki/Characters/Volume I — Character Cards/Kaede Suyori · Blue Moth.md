@@ -1,11 +1,5 @@
 ---
 title: "Kaede Suyori · Blue Moth"
-notion_id: "3bd58200-eb22-8114-8b85-ca79d709aae7"
-notion_url: "https://app.notion.com/p/Kaede-Suyori-Blue-Moth-3bd58200eb2281148b85ca79d709aae7"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Kaede Suyori · Blue Moth

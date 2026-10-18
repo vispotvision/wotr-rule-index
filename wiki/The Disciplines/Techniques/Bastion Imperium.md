@@ -1,11 +1,5 @@
 ---
 title: "Bastion Imperium"
-notion_id: "3d958200-eb22-817f-b32a-d49477acb8ea"
-notion_url: "https://app.notion.com/p/Bastion-Imperium-3d958200eb22817fb32ad49477acb8ea"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Bastion Imperium

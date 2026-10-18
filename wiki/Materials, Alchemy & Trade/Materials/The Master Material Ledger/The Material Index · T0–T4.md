@@ -1,11 +1,6 @@
 ---
 title: "The Material Index · T0–T4"
-notion_id: "3b158200-eb22-81a9-ba7e-d9c6acba22e4"
-notion_url: "https://app.notion.com/p/The-Material-Index-T0-T4-3b158200eb2281a9ba7ed9c6acba22e4"
-section: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-12T20:05:00.000Z"
-verification: "unverified"
 ---
 
 # The Material Index · T0–T4

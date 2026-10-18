@@ -1,11 +1,5 @@
 ---
 title: "The Scene Archive"
-notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
-notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
-section: "In-World Documents & the Narrative Archive"
-tags: []
-last_edited: "2026-10-14T16:18:00.000Z"
-verification: null
 ---
 
 # The Scene Archive

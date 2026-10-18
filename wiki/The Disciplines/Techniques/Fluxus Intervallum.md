@@ -1,11 +1,5 @@
 ---
 title: "Fluxus Intervallum"
-notion_id: "3d958200-eb22-8136-b434-d020212a01c7"
-notion_url: "https://app.notion.com/p/Fluxus-Intervallum-3d958200eb228136b434d020212a01c7"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:35:00.000Z"
-verification: null
 ---
 
 # Fluxus Intervallum

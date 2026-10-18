@@ -1,11 +1,6 @@
 ---
 title: "The Yuno Bloodline"
-notion_id: "3b158200-eb22-8185-978c-d301ac7be252"
-notion_url: "https://app.notion.com/p/The-Yuno-Bloodline-3b158200eb228185978cd301ac7be252"
-section: "The Archaic Bloodlines"
 tags: ["Bloodlines"]
-last_edited: "2026-09-10T11:23:00.000Z"
-verification: "unverified"
 ---
 
 # The Yuno Bloodline

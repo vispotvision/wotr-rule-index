@@ -1,11 +1,5 @@
 ---
 title: "Juno Petros Marien · Praefect of the Outer Colonies"
-notion_id: "3bd58200-eb22-81ee-a948-eb614a1f280a"
-notion_url: "https://app.notion.com/p/Juno-Petros-Marien-Praefect-of-the-Outer-Colonies-3bd58200eb2281eea948eb614a1f280a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Juno Petros Marien · Praefect of the Outer Colonies

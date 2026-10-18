@@ -1,11 +1,5 @@
 ---
 title: "State of Play — Ilthára Korvaeth / The New World"
-notion_id: "3d758200-eb22-81a5-bb06-c271e0493f1c"
-notion_url: "https://app.notion.com/p/State-of-Play-Ilth-ra-Korvaeth-The-New-World-3d758200eb2281a5bb06c271e0493f1c"
-section: "The Table — Running Pieces"
-tags: []
-last_edited: "2026-09-26T09:16:00.000Z"
-verification: null
 ---
 
 > **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.

@@ -1,11 +1,5 @@
 ---
 title: "Silas Briarend Wytherm III · Gravebinder"
-notion_id: "3bd58200-eb22-81cc-9c21-ef8b1417e1bc"
-notion_url: "https://app.notion.com/p/Silas-Briarend-Wytherm-III-Gravebinder-3bd58200eb2281cc9c21ef8b1417e1bc"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # Silas Briarend Wytherm III · Gravebinder

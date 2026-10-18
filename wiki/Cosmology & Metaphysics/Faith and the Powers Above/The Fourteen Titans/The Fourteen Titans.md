@@ -1,11 +1,6 @@
 ---
 title: "The Fourteen Titans"
-notion_id: "3c758200-eb22-812a-9700-ca5c46807dd8"
-notion_url: "https://app.notion.com/p/The-Fourteen-Titans-3c758200eb22812a9700ca5c46807dd8"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Reference Table"]
-last_edited: "2026-10-11T20:09:00.000Z"
-verification: "unverified"
 ---
 
 # The Fourteen Titans

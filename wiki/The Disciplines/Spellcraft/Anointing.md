@@ -1,11 +1,5 @@
 ---
 title: "Anointing"
-notion_id: "3d958200-eb22-81fc-9495-e4c845906130"
-notion_url: "https://app.notion.com/p/Anointing-3d958200eb2281fc9495e4c845906130"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Anointing

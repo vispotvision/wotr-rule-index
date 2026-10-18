@@ -1,11 +1,5 @@
 ---
 title: "Hyo Miran · The Velvet Dealer"
-notion_id: "3bd58200-eb22-8162-86ec-d63053596b9f"
-notion_url: "https://app.notion.com/p/Hyo-Miran-The-Velvet-Dealer-3bd58200eb22816286ecd63053596b9f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:47:00.000Z"
-verification: null
 ---
 
 # Hyo Miran · The Velvet Dealer

@@ -1,11 +1,5 @@
 ---
 title: "The Spirit Summoning Arts"
-notion_id: "3b158200-eb22-8181-8403-e3416fd5a83a"
-notion_url: "https://app.notion.com/p/The-Spirit-Summoning-Arts-3b158200eb2281818403e3416fd5a83a"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-10-14T00:32:00.000Z"
-verification: null
 ---
 
 # The Spirit Summoning Arts

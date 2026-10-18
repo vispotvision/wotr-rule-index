@@ -1,11 +1,5 @@
 ---
 title: "Raelen Vor'Skai · The Gilded Scourge"
-notion_id: "3d958200-eb22-81c3-be93-e2f29ef60e39"
-notion_url: "https://app.notion.com/p/Raelen-Vor-Skai-The-Gilded-Scourge-3d958200eb2281c3be93e2f29ef60e39"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
-verification: null
 ---
 
 # Raelen Vor'Skai · The Gilded Scourge

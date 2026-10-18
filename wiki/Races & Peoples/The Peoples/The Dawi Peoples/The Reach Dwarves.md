@@ -1,11 +1,5 @@
 ---
 title: "The Reach Dwarves"
-notion_id: "3b158200-eb22-810d-8500-d903d817d0e6"
-notion_url: "https://app.notion.com/p/The-Reach-Dwarves-3b158200eb22810d8500d903d817d0e6"
-section: "The Dawi Peoples"
-tags: []
-last_edited: "2026-08-03T20:25:00.000Z"
-verification: "unverified"
 ---
 
 # The Reach Dwarves

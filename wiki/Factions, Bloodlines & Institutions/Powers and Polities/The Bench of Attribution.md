@@ -1,11 +1,6 @@
 ---
 title: "The Bench of Attribution"
-notion_id: "3b158200-eb22-81a7-9a4c-e068982e590a"
-notion_url: "https://app.notion.com/p/The-Bench-of-Attribution-3b158200eb2281a79a4ce068982e590a"
-section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "Trade & Economy"]
-last_edited: "2026-09-26T14:12:00.000Z"
-verification: "unverified"
 ---
 
 # The Bench of Attribution

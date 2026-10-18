@@ -1,11 +1,6 @@
 ---
 title: "The Ladder and the Draft — Temperance, Advancement and Essence Drafts"
-notion_id: "3c758200-eb22-81de-be03-db5381c6ad3e"
-notion_url: "https://app.notion.com/p/The-Ladder-and-the-Draft-Temperance-Advancement-and-Essence-Drafts-3c758200eb2281debe03db5381c6ad3e"
-section: "The Magic System"
 tags: ["Magic System", "Alchemy"]
-last_edited: "2026-10-15T16:39:00.000Z"
-verification: "unverified"
 ---
 
 # The Ladder and the Draft — Temperance, Advancement and Essence Drafts

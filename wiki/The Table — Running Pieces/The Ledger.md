@@ -1,11 +1,5 @@
 ---
 title: "The Ledger"
-notion_id: "3d458200-eb22-81a9-aec9-dd49034177e2"
-notion_url: "https://app.notion.com/p/The-Ledger-3d458200eb2281a9aec9dd49034177e2"
-section: "The Table — Running Pieces"
-tags: []
-last_edited: "2026-09-26T09:16:00.000Z"
-verification: null
 ---
 
 # The Ledger

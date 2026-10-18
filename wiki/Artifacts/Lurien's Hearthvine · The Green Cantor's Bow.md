@@ -1,11 +1,5 @@
 ---
 title: "Lurien's Hearthvine · The Green Cantor's Bow"
-notion_id: "3d958200-eb22-8175-9665-e238d46b56f2"
-notion_url: "https://app.notion.com/p/Lurien-s-Hearthvine-The-Green-Cantor-s-Bow-3d958200eb2281759665e238d46b56f2"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T16:35:00.000Z"
-verification: "unverified"
 ---
 
 # Lurien's Hearthvine · The Green Cantor's Bow

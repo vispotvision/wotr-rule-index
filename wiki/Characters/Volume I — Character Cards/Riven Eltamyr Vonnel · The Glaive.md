@@ -1,11 +1,5 @@
 ---
 title: "Riven Eltamyr Vonnel · The Glaive"
-notion_id: "3bd58200-eb22-810d-b48d-c393f281a22e"
-notion_url: "https://app.notion.com/p/Riven-Eltamyr-Vonnel-The-Glaive-3bd58200eb22810db48dc393f281a22e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:58:00.000Z"
-verification: null
 ---
 
 # Riven Eltamyr Vonnel · The Glaive

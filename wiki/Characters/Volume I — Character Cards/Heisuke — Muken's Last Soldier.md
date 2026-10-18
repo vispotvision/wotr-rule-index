@@ -1,11 +1,5 @@
 ---
 title: "Heisuke — Muken's Last Soldier"
-notion_id: "3ba58200-eb22-815c-b7e5-d2a1b7e0d28f"
-notion_url: "https://app.notion.com/p/Heisuke-Muken-s-Last-Soldier-3ba58200eb22815cb7e5d2a1b7e0d28f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Heisuke — Muken's Last Soldier

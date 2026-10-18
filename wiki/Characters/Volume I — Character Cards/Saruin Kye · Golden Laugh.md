@@ -1,11 +1,5 @@
 ---
 title: "Saruin Kye · Golden Laugh"
-notion_id: "3bd58200-eb22-812f-961a-e1b93dd3a626"
-notion_url: "https://app.notion.com/p/Saruin-Kye-Golden-Laugh-3bd58200eb22812f961ae1b93dd3a626"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:58:00.000Z"
-verification: null
 ---
 
 # Saruin Kye · Golden Laugh

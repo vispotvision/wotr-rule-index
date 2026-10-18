@@ -1,11 +1,5 @@
 ---
 title: "Cyranthia Valez · The Gilded Marionette"
-notion_id: "3d958200-eb22-819d-bcfc-c122d09af21d"
-notion_url: "https://app.notion.com/p/Cyranthia-Valez-The-Gilded-Marionette-3d958200eb22819dbcfcc122d09af21d"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Cyranthia Valez · The Gilded Marionette

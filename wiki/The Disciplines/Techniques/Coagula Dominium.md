@@ -1,11 +1,5 @@
 ---
 title: "Coagula Dominium"
-notion_id: "3d958200-eb22-814e-9def-f18652d7fcf4"
-notion_url: "https://app.notion.com/p/Coagula-Dominium-3d958200eb22814e9deff18652d7fcf4"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: null
 ---
 
 # Coagula Dominium

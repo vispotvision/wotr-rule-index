@@ -1,11 +1,6 @@
 ---
 title: "The Master Material Ledger"
-notion_id: "3b158200-eb22-81d2-b8bc-d16c232faebf"
-notion_url: "https://app.notion.com/p/The-Master-Material-Ledger-3b158200eb2281d2b8bcd16c232faebf"
-section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-23T22:17:00.000Z"
-verification: "unverified"
 ---
 
 # The Master Material Ledger

@@ -1,11 +1,5 @@
 ---
 title: "Gorrath Bloodspine · The Magmaborn Juggernaut"
-notion_id: "3bd58200-eb22-8125-b0e6-c71c9f049569"
-notion_url: "https://app.notion.com/p/Gorrath-Bloodspine-The-Magmaborn-Juggernaut-3bd58200eb228125b0e6c71c9f049569"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Gorrath Bloodspine · The Magmaborn Juggernaut

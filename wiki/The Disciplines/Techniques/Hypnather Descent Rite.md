@@ -1,11 +1,5 @@
 ---
 title: "Hypnather Descent Rite"
-notion_id: "3d958200-eb22-81a5-b868-ec33d20c359f"
-notion_url: "https://app.notion.com/p/Hypnather-Descent-Rite-3d958200eb2281a5b868ec33d20c359f"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Hypnather Descent Rite

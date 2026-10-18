@@ -1,11 +1,5 @@
 ---
 title: "Commander Severin Bale · The Slayer"
-notion_id: "3bd58200-eb22-816e-b677-e5ae85f6ac66"
-notion_url: "https://app.notion.com/p/Commander-Severin-Bale-The-Slayer-3bd58200eb22816eb677e5ae85f6ac66"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:41:00.000Z"
-verification: null
 ---
 
 # Commander Severin Bale · The Slayer

@@ -1,11 +1,5 @@
 ---
 title: "Hataraki — The Works of the Plane of Fate"
-notion_id: "3b158200-eb22-818b-856c-f6bf976d6d54"
-notion_url: "https://app.notion.com/p/Hataraki-The-Works-of-the-Plane-of-Fate-3b158200eb22818b856cf6bf976d6d54"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: null
 ---
 
 # Hataraki — The Works of the Plane of Fate

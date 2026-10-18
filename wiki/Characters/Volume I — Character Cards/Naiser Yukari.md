@@ -1,11 +1,5 @@
 ---
 title: "Naiser Yukari"
-notion_id: "3b158200-eb22-81e2-87c7-df121c416fdb"
-notion_url: "https://app.notion.com/p/Naiser-Yukari-3b158200eb2281e287c7df121c416fdb"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:11:00.000Z"
-verification: null
 ---
 
 # Naiser Yukari

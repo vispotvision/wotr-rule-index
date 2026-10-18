@@ -1,11 +1,6 @@
 ---
 title: "Lore & History"
-notion_id: "3b258200-eb22-810f-91bd-d8e1963f6d05"
-notion_url: "https://app.notion.com/p/Lore-History-3b258200eb22810f91bdd8e1963f6d05"
-section: "Lore & History"
 tags: ["Lore & History", "In-World Document", "Cosmology", "Alchemy"]
-last_edited: "2026-09-10T10:59:00.000Z"
-verification: "unverified"
 ---
 
 # Lore & History

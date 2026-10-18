@@ -1,11 +1,5 @@
 ---
 title: "Aethryn · The Twin-Sigiled Foundling"
-notion_id: "3d958200-eb22-81b4-a204-d34820424574"
-notion_url: "https://app.notion.com/p/Aethryn-The-Twin-Sigiled-Foundling-3d958200eb2281b4a204d34820424574"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Aethryn · The Twin-Sigiled Foundling

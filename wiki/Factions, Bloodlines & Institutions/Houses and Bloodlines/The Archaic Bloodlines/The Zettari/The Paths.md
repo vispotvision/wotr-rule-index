@@ -1,11 +1,5 @@
 ---
 title: "The Paths"
-notion_id: "3b158200-eb22-8100-aa8e-c8710c52a4bc"
-notion_url: "https://app.notion.com/p/The-Paths-3b158200eb228100aa8ec8710c52a4bc"
-section: "The Zettari"
-tags: []
-last_edited: "2026-09-12T20:21:00.000Z"
-verification: "unverified"
 ---
 
 # The Paths

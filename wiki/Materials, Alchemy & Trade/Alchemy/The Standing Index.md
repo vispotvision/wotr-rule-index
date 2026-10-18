@@ -1,11 +1,6 @@
 ---
 title: "The Standing Index"
-notion_id: "3b158200-eb22-81b2-99b3-c0129c3c7d55"
-notion_url: "https://app.notion.com/p/The-Standing-Index-3b158200eb2281b299b3c0129c3c7d55"
-section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
-verification: "unverified"
 ---
 
 # The Standing Index

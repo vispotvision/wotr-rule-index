@@ -1,11 +1,5 @@
 ---
 title: "Leon Vaerenthal · The Farmer"
-notion_id: "3bd58200-eb22-819f-801b-d8a48de4a21c"
-notion_url: "https://app.notion.com/p/Leon-Vaerenthal-The-Farmer-3bd58200eb22819f801bd8a48de4a21c"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
-verification: null
 ---
 
 # Leon Vaerenthal · The Farmer

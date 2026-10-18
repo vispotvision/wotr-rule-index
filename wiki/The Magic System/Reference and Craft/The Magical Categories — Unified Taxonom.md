@@ -1,11 +1,6 @@
 ---
 title: "The Magical Categories — Unified Taxonom"
-notion_id: "3c758200-eb22-819e-8385-c81cd92f8d13"
-notion_url: "https://app.notion.com/p/The-Magical-Categories-Unified-Taxonom-3c758200eb22819e8385c81cd92f8d13"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T08:48:00.000Z"
-verification: "unverified"
 ---
 
 # The Magical Categories: Unified Taxonomy

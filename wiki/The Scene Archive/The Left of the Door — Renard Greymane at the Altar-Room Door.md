@@ -1,11 +1,5 @@
 ---
 title: "The Left of the Door — Renard Greymane at the Altar-Room Door"
-notion_id: "3d458200-eb22-81d1-9b3a-eb14c93ae922"
-notion_url: "https://app.notion.com/p/The-Left-of-the-Door-Renard-Greymane-at-the-Altar-Room-Door-3d458200eb2281d19b3aeb14c93ae922"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-25T18:29:00.000Z"
-verification: null
 ---
 
 # The Left of the Door — Renard Greymane at the Altar-Room Door

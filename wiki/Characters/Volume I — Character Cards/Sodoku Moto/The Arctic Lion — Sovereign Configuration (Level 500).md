@@ -1,11 +1,5 @@
 ---
 title: "The Arctic Lion — Sovereign Configuration (Level 500)"
-notion_id: "3b958200-eb22-81cb-b938-e489672d3a40"
-notion_url: "https://app.notion.com/p/The-Arctic-Lion-Sovereign-Configuration-Level-500-3b958200eb2281cbb938e489672d3a40"
-section: "Sodoku Moto"
-tags: []
-last_edited: "2026-09-26T08:48:00.000Z"
-verification: null
 ---
 
 # The Arctic Lion — Sovereign Configuration (Level 500)

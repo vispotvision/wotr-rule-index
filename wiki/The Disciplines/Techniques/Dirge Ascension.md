@@ -1,11 +1,5 @@
 ---
 title: "Dirge Ascension"
-notion_id: "3d958200-eb22-8124-90c3-dd04d9100d99"
-notion_url: "https://app.notion.com/p/Dirge-Ascension-3d958200eb22812490c3dd04d9100d99"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Dirge Ascension

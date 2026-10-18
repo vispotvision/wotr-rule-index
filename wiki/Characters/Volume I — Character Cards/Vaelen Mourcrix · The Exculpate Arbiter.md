@@ -1,11 +1,5 @@
 ---
 title: "Vaelen Mourcrix · The Exculpate Arbiter"
-notion_id: "3bd58200-eb22-8177-a204-e05388ef8832"
-notion_url: "https://app.notion.com/p/Vaelen-Mourcrix-The-Exculpate-Arbiter-3bd58200eb228177a204e05388ef8832"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # Vaelen Mourcrix · The Exculpate Arbiter

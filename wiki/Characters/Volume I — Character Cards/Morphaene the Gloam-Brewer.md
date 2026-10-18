@@ -1,11 +1,5 @@
 ---
 title: "Morphaene the Gloam-Brewer"
-notion_id: "3bd58200-eb22-81c0-99e6-c003850ec278"
-notion_url: "https://app.notion.com/p/Morphaene-the-Gloam-Brewer-3bd58200eb2281c099e6c003850ec278"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:58:00.000Z"
-verification: null
 ---
 
 # Morphaene the Gloam-Brewer

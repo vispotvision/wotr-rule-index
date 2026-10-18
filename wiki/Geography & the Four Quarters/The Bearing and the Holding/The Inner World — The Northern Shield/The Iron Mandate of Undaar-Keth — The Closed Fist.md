@@ -1,11 +1,5 @@
 ---
 title: "The Iron Mandate of Undaar-Keth — The Closed Fist"
-notion_id: "3bc58200-eb22-8183-ac4a-c2cfc0e2fb2c"
-notion_url: "https://app.notion.com/p/The-Iron-Mandate-of-Undaar-Keth-The-Closed-Fist-3bc58200eb228183ac4ac2cfc0e2fb2c"
-section: "The Inner World — The Northern Shield"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: "unverified"
 ---
 
 # The Iron Mandate of Undaar-Keth — The Closed Fist

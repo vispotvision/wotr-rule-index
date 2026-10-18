@@ -1,11 +1,5 @@
 ---
 title: "Torven Greis — The Merchant Lord"
-notion_id: "3b358200-eb22-819b-bbb7-e956c6bf9f25"
-notion_url: "https://app.notion.com/p/Torven-Greis-The-Merchant-Lord-3b358200eb22819bbbb7e956c6bf9f25"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Torven Greis — The Merchant Lord

@@ -1,11 +1,5 @@
 ---
 title: "The Harmonic Arts"
-notion_id: "3b158200-eb22-81db-9020-dc71b4a83e00"
-notion_url: "https://app.notion.com/p/The-Harmonic-Arts-3b158200eb2281db9020dc71b4a83e00"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-26T03:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Harmonic Arts

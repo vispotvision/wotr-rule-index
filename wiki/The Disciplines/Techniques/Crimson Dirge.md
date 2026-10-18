@@ -1,11 +1,5 @@
 ---
 title: "Crimson Dirge"
-notion_id: "3d958200-eb22-8180-b4fd-dfe37b06f820"
-notion_url: "https://app.notion.com/p/Crimson-Dirge-3d958200eb228180b4fddfe37b06f820"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T06:33:00.000Z"
-verification: null
 ---
 
 # Crimson Dirge

@@ -1,11 +1,6 @@
 ---
 title: "Eressean and Varrisak — The Tongue of the Vey-Elarin"
-notion_id: "3d758200-eb22-8112-8104-c2cceb8f3438"
-notion_url: "https://app.notion.com/p/Eressean-and-Varrisak-The-Tongue-of-the-Vey-Elarin-3d758200eb2281128104c2cceb8f3438"
-section: "The Tongues of the Realms"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
-verification: "unverified"
 ---
 
 # Eressean and Varrisak — The Tongue of the Vey-Elarin

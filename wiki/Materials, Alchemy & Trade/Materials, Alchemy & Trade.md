@@ -1,11 +1,6 @@
 ---
 title: "Materials, Alchemy & Trade"
-notion_id: "3b158200-eb22-81a2-935a-eb6e78c442c2"
-notion_url: "https://app.notion.com/p/Materials-Alchemy-Trade-3b158200eb2281a2935aeb6e78c442c2"
-section: "Materials"
 tags: ["Materials", "Alchemy", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-28T14:55:00.000Z"
-verification: "unverified"
 ---
 
 # Materials, Alchemy & Trade

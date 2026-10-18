@@ -1,11 +1,5 @@
 ---
 title: "Vorynth the Vatborn"
-notion_id: "3bd58200-eb22-81e5-b855-ca4472a9dbbf"
-notion_url: "https://app.notion.com/p/Vorynth-the-Vatborn-3bd58200eb2281e5b855ca4472a9dbbf"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:55:00.000Z"
-verification: null
 ---
 
 # Vorynth the Vatborn

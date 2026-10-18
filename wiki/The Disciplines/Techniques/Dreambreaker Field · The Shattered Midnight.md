@@ -1,11 +1,5 @@
 ---
 title: "Dreambreaker Field · The Shattered Midnight"
-notion_id: "3d958200-eb22-81f8-bd12-ec4542c6e77f"
-notion_url: "https://app.notion.com/p/Dreambreaker-Field-The-Shattered-Midnight-3d958200eb2281f8bd12ec4542c6e77f"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Dreambreaker Field · The Shattered Midnight

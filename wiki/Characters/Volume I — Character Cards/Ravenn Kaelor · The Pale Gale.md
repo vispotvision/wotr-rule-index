@@ -1,11 +1,5 @@
 ---
 title: "Ravenn Kaelor · The Pale Gale"
-notion_id: "3d958200-eb22-8144-83f2-fdc7c69baa06"
-notion_url: "https://app.notion.com/p/Ravenn-Kaelor-The-Pale-Gale-3d958200eb22814483f2fdc7c69baa06"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
-verification: null
 ---
 
 # Ravenn Kaelor · The Pale Gale

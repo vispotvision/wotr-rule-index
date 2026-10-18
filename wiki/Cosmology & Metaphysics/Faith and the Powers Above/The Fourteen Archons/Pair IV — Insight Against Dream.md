@@ -1,11 +1,5 @@
 ---
 title: "Pair IV — Insight Against Dream"
-notion_id: "3b158200-eb22-81dd-a3f9-c87b48b24dcc"
-notion_url: "https://app.notion.com/p/Pair-IV-Insight-Against-Dream-3b158200eb2281dda3f9c87b48b24dcc"
-section: "The Fourteen Archons"
-tags: []
-last_edited: "2026-08-03T03:58:00.000Z"
-verification: "unverified"
 ---
 
 # Pair IV — Insight Against Dream

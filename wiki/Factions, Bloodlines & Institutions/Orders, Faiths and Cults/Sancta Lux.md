@@ -1,11 +1,5 @@
 ---
 title: "Sancta Lux"
-notion_id: "3b158200-eb22-8189-aaa8-ef337474c86e"
-notion_url: "https://app.notion.com/p/Sancta-Lux-3b158200eb228189aaa8ef337474c86e"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-26T14:08:00.000Z"
-verification: "unverified"
 ---
 
 # Sancta Lux

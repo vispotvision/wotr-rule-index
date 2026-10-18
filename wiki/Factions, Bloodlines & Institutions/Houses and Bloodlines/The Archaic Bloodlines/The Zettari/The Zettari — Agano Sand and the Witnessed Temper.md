@@ -1,11 +1,5 @@
 ---
 title: "The Zettari — Agano Sand and the Witnessed Temper"
-notion_id: "3d958200-eb22-8194-b37e-f545cd2129dd"
-notion_url: "https://app.notion.com/p/The-Zettari-Agano-Sand-and-the-Witnessed-Temper-3d958200eb228194b37ef545cd2129dd"
-section: "The Zettari"
-tags: []
-last_edited: "2026-09-12T20:34:00.000Z"
-verification: "unverified"
 ---
 
 # The Zettari — Agano Sand and the Witnessed Temper

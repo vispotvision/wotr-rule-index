@@ -1,11 +1,5 @@
 ---
 title: "Lilia — The Stormfold Nurse"
-notion_id: "3ba58200-eb22-8190-957a-f01c509f15c5"
-notion_url: "https://app.notion.com/p/Lilia-The-Stormfold-Nurse-3ba58200eb228190957af01c509f15c5"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Lilia — The Stormfold Nurse

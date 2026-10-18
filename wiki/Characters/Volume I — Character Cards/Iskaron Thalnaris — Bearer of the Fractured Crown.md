@@ -1,11 +1,5 @@
 ---
 title: "Iskaron Thalnaris — Bearer of the Fractured Crown"
-notion_id: "3bd58200-eb22-81fb-9d4d-cb0ca34046e5"
-notion_url: "https://app.notion.com/p/Iskaron-Thalnaris-Bearer-of-the-Fractured-Crown-3bd58200eb2281fb9d4dcb0ca34046e5"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
-verification: null
 ---
 
 # Iskaron Thalnaris — Bearer of the Fractured Crown

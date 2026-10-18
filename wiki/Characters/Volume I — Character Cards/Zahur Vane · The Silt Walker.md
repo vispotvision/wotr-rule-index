@@ -1,11 +1,5 @@
 ---
 title: "Zahur Vane · The Silt Walker"
-notion_id: "3d958200-eb22-81d7-a691-e0226b730635"
-notion_url: "https://app.notion.com/p/Zahur-Vane-The-Silt-Walker-3d958200eb2281d7a691e0226b730635"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
-verification: null
 ---
 
 # Zahur Vane · The Silt Walker

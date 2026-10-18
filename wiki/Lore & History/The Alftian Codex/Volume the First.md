@@ -1,11 +1,5 @@
 ---
 title: "Volume the First"
-notion_id: "3b258200-eb22-814b-a24c-d1734f87d483"
-notion_url: "https://app.notion.com/p/Volume-the-First-3b258200eb22814ba24cd1734f87d483"
-section: "The Alftian Codex"
-tags: []
-last_edited: "2026-09-28T09:04:00.000Z"
-verification: "unverified"
 ---
 
 # Volume the First

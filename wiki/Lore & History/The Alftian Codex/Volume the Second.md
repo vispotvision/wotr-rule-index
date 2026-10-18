@@ -1,11 +1,5 @@
 ---
 title: "Volume the Second"
-notion_id: "3b258200-eb22-8143-85ed-ec8e7384b529"
-notion_url: "https://app.notion.com/p/Volume-the-Second-3b258200eb22814385edec8e7384b529"
-section: "The Alftian Codex"
-tags: []
-last_edited: "2026-09-28T10:30:00.000Z"
-verification: "unverified"
 ---
 
 # Volume the Second

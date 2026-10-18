@@ -1,11 +1,6 @@
 ---
 title: "The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices"
-notion_id: "3d758200-eb22-8121-9842-c160dd9c8203"
-notion_url: "https://app.notion.com/p/The-Guild-Accord-in-the-Modern-Era-Divisions-Companies-Academies-and-Offices-3d758200eb2281219842c160dd9c8203"
-section: "The Guild Accord"
 tags: ["Factions", "Trade & Economy"]
-last_edited: "2026-09-26T14:12:00.000Z"
-verification: "unverified"
 ---
 
 # The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices

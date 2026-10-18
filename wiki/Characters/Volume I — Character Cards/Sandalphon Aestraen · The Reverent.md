@@ -1,11 +1,5 @@
 ---
 title: "Sandalphon Aestraen · The Reverent"
-notion_id: "3bd58200-eb22-8101-b671-edf63838c3c4"
-notion_url: "https://app.notion.com/p/Sandalphon-Aestraen-The-Reverent-3bd58200eb228101b671edf63838c3c4"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:20:00.000Z"
-verification: null
 ---
 
 # Sandalphon Aestraen · The Reverent

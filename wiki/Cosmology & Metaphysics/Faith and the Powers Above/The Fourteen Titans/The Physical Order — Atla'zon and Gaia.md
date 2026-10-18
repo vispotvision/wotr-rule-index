@@ -1,11 +1,5 @@
 ---
 title: "The Physical Order — Atla'zon and Gaia"
-notion_id: "3c758200-eb22-81d7-9d43-c8cdd791882b"
-notion_url: "https://app.notion.com/p/The-Physical-Order-Atla-zon-and-Gaia-3c758200eb2281d79d43c8cdd791882b"
-section: "The Fourteen Titans"
-tags: []
-last_edited: "2026-08-25T23:34:00.000Z"
-verification: "unverified"
 ---
 
 # The Physical Order — Atla'zon and Gaia

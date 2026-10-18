@@ -1,11 +1,5 @@
 ---
 title: "The Guild Seat of Stannvaard — The Metal-Wardens of the Ring"
-notion_id: "3bc58200-eb22-8145-b4ee-d5a4fa1ad6bc"
-notion_url: "https://app.notion.com/p/The-Guild-Seat-of-Stannvaard-The-Metal-Wardens-of-the-Ring-3bc58200eb228145b4eed5a4fa1ad6bc"
-section: "The Inner World — The Northern Shield"
-tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Guild Seat of Stannvaard — The Metal-Wardens of the Ring

@@ -1,11 +1,6 @@
 ---
 title: "VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)"
-notion_id: "3d758200-eb22-8125-b9f4-f85adcd2a482"
-notion_url: "https://app.notion.com/p/VII-Aether-Class-Essence-Typology-Aether-Flow-Parts-Seventeen-Nineteen-3d758200eb228125b9f4f85adcd2a482"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-14T00:32:00.000Z"
-verification: "unverified"
 ---
 
 # VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)

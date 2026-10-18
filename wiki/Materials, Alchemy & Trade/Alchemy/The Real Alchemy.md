@@ -1,11 +1,5 @@
 ---
 title: "The Real Alchemy"
-notion_id: "3e958200-eb22-8112-9e70-d4551eb3019f"
-notion_url: "https://app.notion.com/p/The-Real-Alchemy-3e958200eb2281129e70d4551eb3019f"
-section: "Materials, Alchemy & Trade"
-tags: []
-last_edited: "2026-10-14T00:32:00.000Z"
-verification: "unverified"
 ---
 
 # The Real Alchemy

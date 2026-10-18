@@ -1,11 +1,5 @@
 ---
 title: "Fern Stark · The Woman He Chose"
-notion_id: "3e758200-eb22-81b5-a7e2-ea4c4a857edb"
-notion_url: "https://app.notion.com/p/Fern-Stark-The-Woman-He-Chose-3e758200eb2281b5a7e2ea4c4a857edb"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Fern Stark · The Woman He Chose

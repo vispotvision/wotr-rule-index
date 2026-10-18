@@ -1,11 +1,5 @@
 ---
 title: "Krothar Thunn-Gorr — The Old Chain"
-notion_id: "3b358200-eb22-816a-be0f-e353c7f88c50"
-notion_url: "https://app.notion.com/p/Krothar-Thunn-Gorr-The-Old-Chain-3b358200eb22816abe0fe353c7f88c50"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Krothar Thunn-Gorr — The Old Chain

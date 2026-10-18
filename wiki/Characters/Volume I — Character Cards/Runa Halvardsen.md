@@ -1,11 +1,5 @@
 ---
 title: "Runa Halvardsen"
-notion_id: "3f258200-eb22-81b9-832b-df3664becb40"
-notion_url: "https://app.notion.com/p/Runa-Halvardsen-3f258200eb2281b9832bdf3664becb40"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-07T01:58:00.000Z"
-verification: null
 ---
 
 # Runa Halvardsen

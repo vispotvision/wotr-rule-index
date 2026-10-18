@@ -1,11 +1,5 @@
 ---
 title: "Kami no Kobushi — The God Fist"
-notion_id: "3b158200-eb22-81c3-a942-e7f2e6ae29b5"
-notion_url: "https://app.notion.com/p/Kami-no-Kobushi-The-God-Fist-3b158200eb2281c3a942e7f2e6ae29b5"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-28T08:56:00.000Z"
-verification: null
 ---
 
 # Kami no Kobushi — The God Fist

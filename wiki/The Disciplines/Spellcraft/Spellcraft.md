@@ -1,11 +1,5 @@
 ---
 title: "Spellcraft"
-notion_id: "3d958200-eb22-819d-8948-f9263917090f"
-notion_url: "https://app.notion.com/p/Spellcraft-3d958200eb22819d8948f9263917090f"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-26T04:34:00.000Z"
-verification: null
 ---
 
 # Spellcraft

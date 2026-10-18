@@ -1,11 +1,5 @@
 ---
 title: "Cassian Tiberius Cruor"
-notion_id: "3f158200-eb22-8145-a6f9-d7a6284b21e6"
-notion_url: "https://app.notion.com/p/Cassian-Tiberius-Cruor-3f158200eb228145a6f9d7a6284b21e6"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-06T20:14:00.000Z"
-verification: null
 ---
 
 # Cassian Tiberius Cruor

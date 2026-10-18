@@ -1,11 +1,5 @@
 ---
 title: "Anryū Ichimonji"
-notion_id: "3b258200-eb22-81ca-a9c3-ed58dd1d8066"
-notion_url: "https://app.notion.com/p/Anry-Ichimonji-3b258200eb2281caa9c3ed58dd1d8066"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:20:00.000Z"
-verification: null
 ---
 
 # Anryū Ichimonji

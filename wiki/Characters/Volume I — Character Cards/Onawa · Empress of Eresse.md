@@ -1,11 +1,5 @@
 ---
 title: "Onawa · Empress of Eresse"
-notion_id: "3e758200-eb22-8163-b801-e87e65eed3e2"
-notion_url: "https://app.notion.com/p/Onawa-Empress-of-Eresse-3e758200eb228163b801e87e65eed3e2"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Onawa · Empress of Eresse

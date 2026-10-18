@@ -1,11 +1,5 @@
 ---
 title: "Hazzen Skollgrin · The Crooked Grin"
-notion_id: "3bd58200-eb22-812f-850c-e77de18f01d0"
-notion_url: "https://app.notion.com/p/Hazzen-Skollgrin-The-Crooked-Grin-3bd58200eb22812f850ce77de18f01d0"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:46:00.000Z"
-verification: null
 ---
 
 # Hazzen Skollgrin · The Crooked Grin

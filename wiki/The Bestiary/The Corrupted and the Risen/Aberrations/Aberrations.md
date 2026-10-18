@@ -1,11 +1,5 @@
 ---
 title: "Aberrations"
-notion_id: "3b258200-eb22-819a-93f5-dceb8d97bf0b"
-notion_url: "https://app.notion.com/p/Aberrations-3b258200eb22819a93f5dceb8d97bf0b"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-09-12T16:08:00.000Z"
-verification: "unverified"
 ---
 
 # Aberrations

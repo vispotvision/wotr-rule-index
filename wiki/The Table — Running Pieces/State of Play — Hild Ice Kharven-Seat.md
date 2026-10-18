@@ -1,11 +1,6 @@
 ---
 title: "State of Play — Hild Ice / Kharven-Seat"
-notion_id: "3d458200-eb22-810c-856c-e7d6dd3cecbb"
-notion_url: "https://app.notion.com/p/State-of-Play-Hild-Ice-Kharven-Seat-3d458200eb22810c856ce7d6dd3cecbb"
-section: "The Table — Running Pieces"
 tags: ["Prose", "Characters"]
-last_edited: "2026-09-11T02:37:00.000Z"
-verification: "unverified"
 ---
 
 > **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.

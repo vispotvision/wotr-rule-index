@@ -1,11 +1,5 @@
 ---
 title: "Anima Harmonics"
-notion_id: "3d958200-eb22-8121-8dd7-e9a3f7ddb270"
-notion_url: "https://app.notion.com/p/Anima-Harmonics-3d958200eb2281218dd7e9a3f7ddb270"
-section: "Spellcraft"
-tags: []
-last_edited: "2026-09-26T09:07:00.000Z"
-verification: null
 ---
 
 # Anima Harmonics

@@ -1,11 +1,6 @@
 ---
 title: "The Sixteen Stages"
-notion_id: "3b158200-eb22-81cc-a193-d69c171c0986"
-notion_url: "https://app.notion.com/p/The-Sixteen-Stages-3b158200eb2281cca193d69c171c0986"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-15T16:39:00.000Z"
-verification: "unverified"
 ---
 
 # The Sixteen Stages

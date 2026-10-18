@@ -1,11 +1,5 @@
 ---
 title: "Draen Varos · The Red Forge Sentinel"
-notion_id: "3d958200-eb22-810b-aee5-f17d3ac1964a"
-notion_url: "https://app.notion.com/p/Draen-Varos-The-Red-Forge-Sentinel-3d958200eb22810baee5f17d3ac1964a"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
-verification: null
 ---
 
 # Draen Varos · The Red Forge Sentinel

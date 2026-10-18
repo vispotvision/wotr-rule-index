@@ -1,11 +1,5 @@
 ---
 title: "The Damping"
-notion_id: "3de58200-eb22-8109-884e-d46926e116fb"
-notion_url: "https://app.notion.com/p/The-Damping-3de58200eb228109884ed46926e116fb"
-section: "The Scene Archive"
-tags: []
-last_edited: "2026-09-26T10:19:00.000Z"
-verification: null
 ---
 
 # The Damping

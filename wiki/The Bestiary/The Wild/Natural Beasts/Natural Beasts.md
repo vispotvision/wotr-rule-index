@@ -1,11 +1,5 @@
 ---
 title: "Natural Beasts"
-notion_id: "3b258200-eb22-811c-bd39-e6d11fd75ca1"
-notion_url: "https://app.notion.com/p/Natural-Beasts-3b258200eb22811cbd39e6d11fd75ca1"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-09-12T16:08:00.000Z"
-verification: "unverified"
 ---
 
 # Natural Beasts

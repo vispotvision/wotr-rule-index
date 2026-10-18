@@ -1,11 +1,5 @@
 ---
 title: "X. The Tier Ladders (Part Twenty-Four)"
-notion_id: "3e758200-eb22-8127-a7c2-ece5680c1889"
-notion_url: "https://app.notion.com/p/X-The-Tier-Ladders-Part-Twenty-Four-3e758200eb228127a7c2ece5680c1889"
-section: "Fracture of Worlds — The Living System"
-tags: []
-last_edited: "2026-09-28T08:25:00.000Z"
-verification: "unverified"
 ---
 
 # X. The Tier Ladders (Part Twenty-Four)

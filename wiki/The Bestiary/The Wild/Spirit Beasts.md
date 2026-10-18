@@ -1,11 +1,5 @@
 ---
 title: "Spirit Beasts"
-notion_id: "3b158200-eb22-813c-8a34-daee8d0acc3a"
-notion_url: "https://app.notion.com/p/Spirit-Beasts-3b158200eb22813c8a34daee8d0acc3a"
-section: "The Bestiary"
-tags: []
-last_edited: "2026-08-03T23:57:00.000Z"
-verification: "unverified"
 ---
 
 # Spirit Beasts

@@ -1,11 +1,5 @@
 ---
 title: "Band of Frozen Brambles · Winter-Briar"
-notion_id: "3d958200-eb22-8181-8092-dba61e5c5199"
-notion_url: "https://app.notion.com/p/Band-of-Frozen-Brambles-Winter-Briar-3d958200eb2281818092dba61e5c5199"
-section: "Artifacts"
-tags: []
-last_edited: "2026-09-12T18:50:00.000Z"
-verification: "unverified"
 ---
 
 # Band of Frozen Brambles · Winter-Briar

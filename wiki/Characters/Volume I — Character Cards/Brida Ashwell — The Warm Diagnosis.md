@@ -1,11 +1,5 @@
 ---
 title: "Brida Ashwell — The Warm Diagnosis"
-notion_id: "3ba58200-eb22-81de-9043-cb228e511c96"
-notion_url: "https://app.notion.com/p/Brida-Ashwell-The-Warm-Diagnosis-3ba58200eb2281de9043cb228e511c96"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Brida Ashwell — The Warm Diagnosis

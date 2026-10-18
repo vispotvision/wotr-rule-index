@@ -1,11 +1,6 @@
 ---
 title: "The Physical Account: Two Sets of Books"
-notion_id: "3d558200-eb22-815e-85ae-e2819b567320"
-notion_url: "https://app.notion.com/p/The-Physical-Account-Two-Sets-of-Books-3d558200eb22815e85aee2819b567320"
-section: "The Magic System"
 tags: ["Magic System"]
-last_edited: "2026-09-10T11:22:00.000Z"
-verification: "unverified"
 ---
 
 # The Physical Account: Two Sets of Books

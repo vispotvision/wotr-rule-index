@@ -1,11 +1,6 @@
 ---
 title: "Alchemetrica"
-notion_id: "3b158200-eb22-8140-a871-e823c3f36d89"
-notion_url: "https://app.notion.com/p/Alchemetrica-3b158200eb228140a871e823c3f36d89"
-section: "Materials, Alchemy & Trade"
 tags: ["Alchemy", "Materials"]
-last_edited: "2026-10-14T00:32:00.000Z"
-verification: "unverified"
 ---
 
 # Alchemetrica

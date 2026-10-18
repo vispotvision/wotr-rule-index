@@ -1,11 +1,6 @@
 ---
 title: "The Standing and the Title — The Three Names"
-notion_id: "3bc58200-eb22-8106-a72a-de20d69574e0"
-notion_url: "https://app.notion.com/p/The-Standing-and-the-Title-The-Three-Names-3bc58200eb228106a72ade20d69574e0"
-section: "The Magic System"
 tags: ["Magic System", "Factions"]
-last_edited: "2026-09-26T10:18:00.000Z"
-verification: "unverified"
 ---
 
 # The Standing and the Title — The Three Names

@@ -1,11 +1,6 @@
 ---
 title: "State of Play — Sodoku Moto / Kharven"
-notion_id: "3d458200-eb22-8158-bf6b-d0bbf9af9b1c"
-notion_url: "https://app.notion.com/p/State-of-Play-Sodoku-Moto-Kharven-3d458200eb228158bf6bd0bbf9af9b1c"
-section: "The Table — Running Pieces"
 tags: ["Prose", "Characters"]
-last_edited: "2026-09-10T23:17:00.000Z"
-verification: "unverified"
 ---
 
 > **Historical, retired 2026-10-17 (R79-8).** This page is no longer maintained. Where a thread stands comes from its last archived scene and the Ledger.

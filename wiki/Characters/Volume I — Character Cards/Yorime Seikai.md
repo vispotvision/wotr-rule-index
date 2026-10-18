@@ -1,11 +1,5 @@
 ---
 title: "Yorime Seikai"
-notion_id: "3b258200-eb22-81b4-9964-f24b36c73717"
-notion_url: "https://app.notion.com/p/Yorime-Seikai-3b258200eb2281b49964f24b36c73717"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Yorime Seikai

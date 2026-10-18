@@ -1,11 +1,5 @@
 ---
 title: "Oblivion-Step"
-notion_id: "3d958200-eb22-8117-b2f8-d2e30dbece9b"
-notion_url: "https://app.notion.com/p/Oblivion-Step-3d958200eb228117b2f8d2e30dbece9b"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Oblivion-Step

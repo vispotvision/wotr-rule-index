@@ -1,11 +1,6 @@
 ---
 title: "The Sky, the Hour and the Year"
-notion_id: "3d758200-eb22-81c6-b5ae-caad3cabfbb6"
-notion_url: "https://app.notion.com/p/The-Sky-the-Hour-and-the-Year-3d758200eb2281c6b5aecaad3cabfbb6"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Reference Table"]
-last_edited: "2026-09-28T08:17:00.000Z"
-verification: "unverified"
 ---
 
 # The Sky, the Hour and the Year

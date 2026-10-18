@@ -1,11 +1,5 @@
 ---
 title: "Matla"
-notion_id: "3b158200-eb22-81b2-9c76-dd02faf2f0bd"
-notion_url: "https://app.notion.com/p/Matla-3b158200eb2281b29c76dd02faf2f0bd"
-section: "The Disciplines"
-tags: []
-last_edited: "2026-09-12T20:21:00.000Z"
-verification: "unverified"
 ---
 
 # Matla

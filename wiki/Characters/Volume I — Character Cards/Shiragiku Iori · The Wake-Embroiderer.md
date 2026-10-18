@@ -1,11 +1,5 @@
 ---
 title: "Shiragiku Iori · The Wake-Embroiderer"
-notion_id: "3bd58200-eb22-817a-ab47-dc2fdf7a9595"
-notion_url: "https://app.notion.com/p/Shiragiku-Iori-The-Wake-Embroiderer-3bd58200eb22817aab47dc2fdf7a9595"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:00:00.000Z"
-verification: null
 ---
 
 # Shiragiku Iori · The Wake-Embroiderer

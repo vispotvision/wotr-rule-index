@@ -1,11 +1,6 @@
 ---
 title: "III. Physical Force (Part Eleven)"
-notion_id: "3d758200-eb22-816d-8b90-d14e1e94cfd9"
-notion_url: "https://app.notion.com/p/III-Physical-Force-Part-Eleven-3d758200eb22816d8b90d14e1e94cfd9"
-section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table", "War"]
-last_edited: "2026-09-26T09:13:00.000Z"
-verification: "unverified"
 ---
 
 # III. Physical Force (Part Eleven)

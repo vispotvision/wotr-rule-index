@@ -1,11 +1,5 @@
 ---
 title: "Principle Overwrite"
-notion_id: "3d958200-eb22-812f-8204-e60adb869ede"
-notion_url: "https://app.notion.com/p/Principle-Overwrite-3d958200eb22812f8204e60adb869ede"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Principle Overwrite

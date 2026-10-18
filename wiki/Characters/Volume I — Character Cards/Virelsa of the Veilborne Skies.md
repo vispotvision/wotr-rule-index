@@ -1,11 +1,5 @@
 ---
 title: "Virelsa of the Veilborne Skies"
-notion_id: "3bd58200-eb22-8128-a8ca-f6e571e9df2e"
-notion_url: "https://app.notion.com/p/Virelsa-of-the-Veilborne-Skies-3bd58200eb228128a8caf6e571e9df2e"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T09:04:00.000Z"
-verification: null
 ---
 
 # Virelsa of the Veilborne Skies

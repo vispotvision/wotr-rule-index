@@ -1,11 +1,5 @@
 ---
 title: "Rovhen Talvasciel · The Inquiry Agent"
-notion_id: "3bd58200-eb22-8176-8c32-c208a6464190"
-notion_url: "https://app.notion.com/p/Rovhen-Talvasciel-The-Inquiry-Agent-3bd58200eb2281768c32c208a6464190"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T19:46:00.000Z"
-verification: null
 ---
 
 # Rovhen Talvasciel · The Inquiry Agent

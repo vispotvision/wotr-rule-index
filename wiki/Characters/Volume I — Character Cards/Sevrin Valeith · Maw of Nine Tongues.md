@@ -1,11 +1,5 @@
 ---
 title: "Sevrin Valeith · Maw of Nine Tongues"
-notion_id: "3bd58200-eb22-8147-9c4a-e961b1eee260"
-notion_url: "https://app.notion.com/p/Sevrin-Valeith-Maw-of-Nine-Tongues-3bd58200eb2281479c4ae961b1eee260"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Sevrin Valeith · Maw of Nine Tongues

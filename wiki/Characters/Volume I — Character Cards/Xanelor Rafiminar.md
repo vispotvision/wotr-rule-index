@@ -1,11 +1,5 @@
 ---
 title: "Xanelor Rafiminar"
-notion_id: "3e058200-eb22-815e-88b2-f1f38c42b4bf"
-notion_url: "https://app.notion.com/p/Xanelor-Rafiminar-3e058200eb22815e88b2f1f38c42b4bf"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
-verification: null
 ---
 
 # Xanelor Rafiminar

@@ -1,11 +1,5 @@
 ---
 title: "Droval — The Frost-Howler"
-notion_id: "3ba58200-eb22-81de-8069-f9ad05c82766"
-notion_url: "https://app.notion.com/p/Droval-The-Frost-Howler-3ba58200eb2281de8069f9ad05c82766"
-section: "Natural Beasts"
-tags: []
-last_edited: "2026-09-04T04:43:00.000Z"
-verification: "unverified"
 ---
 
 # Droval — The Frost-Howler

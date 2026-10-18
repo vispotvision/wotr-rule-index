@@ -1,11 +1,5 @@
 ---
 title: "Bram Greymane's Narration Register"
-notion_id: "3e758200-eb22-81ed-91c0-fb4a059d165b"
-notion_url: "https://app.notion.com/p/Bram-Greymane-s-Narration-Register-3e758200eb2281ed91c0fb4a059d165b"
-section: "Information not on WIKI"
-tags: []
-last_edited: "2026-09-26T10:04:00.000Z"
-verification: null
 ---
 
 # Bram Greymane's Narration Register

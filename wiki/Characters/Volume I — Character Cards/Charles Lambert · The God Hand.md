@@ -1,11 +1,5 @@
 ---
 title: "Charles Lambert · The God Hand"
-notion_id: "3e758200-eb22-8180-b78e-cf143eb6395b"
-notion_url: "https://app.notion.com/p/Charles-Lambert-The-God-Hand-3e758200eb228180b78ecf143eb6395b"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-10-14T00:35:00.000Z"
-verification: null
 ---
 
 # Charles Lambert · The God Hand

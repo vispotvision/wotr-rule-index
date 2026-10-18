@@ -1,11 +1,6 @@
 ---
 title: "The Master Glyph Index — 136 Attested Forms"
-notion_id: "3bc58200-eb22-81fb-b372-edd4501dcbde"
-notion_url: "https://app.notion.com/p/The-Master-Glyph-Index-136-Attested-Forms-3bc58200eb2281fbb372edd4501dcbde"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:27:00.000Z"
-verification: "unverified"
 ---
 
 # The Master Glyph Index — 136 Attested Forms

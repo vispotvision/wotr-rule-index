@@ -1,11 +1,5 @@
 ---
 title: "The High Empire of Eresse"
-notion_id: "3b158200-eb22-81a5-aa15-fc0f570e9b76"
-notion_url: "https://app.notion.com/p/The-High-Empire-of-Eresse-3b158200eb2281a5aa15fc0f570e9b76"
-section: "The Elven Peoples"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: "unverified"
 ---
 
 # The High Empire of Eresse

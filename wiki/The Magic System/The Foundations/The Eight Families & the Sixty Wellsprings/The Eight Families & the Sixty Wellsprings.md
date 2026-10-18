@@ -1,11 +1,6 @@
 ---
 title: "The Eight Families & the Sixty Wellsprings"
-notion_id: "3b158200-eb22-814d-9056-edb0fc9827f2"
-notion_url: "https://app.notion.com/p/The-Eight-Families-the-Sixty-Wellsprings-3b158200eb22814d9056edb0fc9827f2"
-section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Eight Families & the Sixty Wellsprings

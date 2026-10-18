@@ -1,11 +1,5 @@
 ---
 title: "Hunter's Breath"
-notion_id: "3d958200-eb22-8140-b2ba-f1f6825e4ce3"
-notion_url: "https://app.notion.com/p/Hunter-s-Breath-3d958200eb228140b2baf1f6825e4ce3"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
-verification: null
 ---
 
 # Hunter's Breath

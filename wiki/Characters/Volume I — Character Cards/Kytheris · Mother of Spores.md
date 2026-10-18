@@ -1,11 +1,5 @@
 ---
 title: "Kytheris · Mother of Spores"
-notion_id: "3bd58200-eb22-8137-aec0-fea0928d2dcf"
-notion_url: "https://app.notion.com/p/Kytheris-Mother-of-Spores-3bd58200eb228137aec0fea0928d2dcf"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-28T08:56:00.000Z"
-verification: null
 ---
 
 # Kytheris · Mother of Spores

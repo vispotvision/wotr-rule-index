@@ -1,11 +1,6 @@
 ---
 title: "The Crossing and the Making of the God Hand"
-notion_id: "3b158200-eb22-81b9-b0a5-df28f3676efe"
-notion_url: "https://app.notion.com/p/The-Crossing-and-the-Making-of-the-God-Hand-3b158200eb2281b9b0a5df28f3676efe"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Lore & History"]
-last_edited: "2026-09-10T11:16:00.000Z"
-verification: "unverified"
 ---
 
 # The Crossing and the Making of the God Hand

@@ -1,11 +1,5 @@
 ---
 title: "Cryost Ascendant"
-notion_id: "3d958200-eb22-8157-98b1-fb5719377286"
-notion_url: "https://app.notion.com/p/Cryost-Ascendant-3d958200eb22815798b1fb5719377286"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:10:00.000Z"
-verification: null
 ---
 
 # Cryost Ascendant

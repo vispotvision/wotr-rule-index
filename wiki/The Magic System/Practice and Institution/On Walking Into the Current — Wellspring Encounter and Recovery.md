@@ -1,11 +1,6 @@
 ---
 title: "On Walking Into the Current — Wellspring Encounter and Recovery"
-notion_id: "3bc58200-eb22-811d-bbf2-ee2f27930f0e"
-notion_url: "https://app.notion.com/p/On-Walking-Into-the-Current-Wellspring-Encounter-and-Recovery-3bc58200eb22811dbbf2ee2f27930f0e"
-section: "The Magic System"
 tags: ["Magic System", "Medicine & Death"]
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # On Walking Into the Current — Wellspring Encounter and Recovery

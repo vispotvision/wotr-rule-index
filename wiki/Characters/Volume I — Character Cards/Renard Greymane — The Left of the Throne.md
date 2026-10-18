@@ -1,11 +1,5 @@
 ---
 title: "Renard Greymane — The Left of the Throne"
-notion_id: "3ba58200-eb22-8133-a516-c8f8f91e0b1c"
-notion_url: "https://app.notion.com/p/Renard-Greymane-The-Left-of-the-Throne-3ba58200eb228133a516c8f8f91e0b1c"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Renard Greymane — The Left of the Throne

@@ -1,11 +1,5 @@
 ---
 title: "Freda Thunn-Gorr — The Caldera Wife"
-notion_id: "3b358200-eb22-8103-9b93-d1b65bfbc84f"
-notion_url: "https://app.notion.com/p/Freda-Thunn-Gorr-The-Caldera-Wife-3b358200eb2281039b93d1b65bfbc84f"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
-verification: null
 ---
 
 # Freda Thunn-Gorr — The Caldera Wife

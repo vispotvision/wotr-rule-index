@@ -1,11 +1,5 @@
 ---
 title: "Moto Element Inventory — Japonic Stratum"
-notion_id: "3db58200-eb22-819b-9173-d6f8397ae38b"
-notion_url: "https://app.notion.com/p/Moto-Element-Inventory-Japonic-Stratum-3db58200eb22819b9173d6f8397ae38b"
-section: "The Tongues of the Realms"
-tags: []
-last_edited: "2026-09-26T03:56:00.000Z"
-verification: "unverified"
 ---
 
 # Moto Element Inventory — Japonic Stratum

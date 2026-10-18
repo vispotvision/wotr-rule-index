@@ -1,11 +1,5 @@
 ---
 title: "Sovereign's Reprisal"
-notion_id: "3d958200-eb22-8108-86fc-f1857a895f37"
-notion_url: "https://app.notion.com/p/Sovereign-s-Reprisal-3d958200eb22810886fcf1857a895f37"
-section: "Techniques"
-tags: []
-last_edited: "2026-09-26T09:09:00.000Z"
-verification: null
 ---
 
 # Sovereign's Reprisal

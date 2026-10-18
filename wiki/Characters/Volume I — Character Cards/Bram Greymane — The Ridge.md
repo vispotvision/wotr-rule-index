@@ -1,11 +1,5 @@
 ---
 title: "Bram Greymane — The Ridge"
-notion_id: "3ba58200-eb22-81bd-b6fd-db49cfd6b314"
-notion_url: "https://app.notion.com/p/Bram-Greymane-The-Ridge-3ba58200eb2281bdb6fddb49cfd6b314"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
-verification: null
 ---
 
 # Bram Greymane — The Ridge

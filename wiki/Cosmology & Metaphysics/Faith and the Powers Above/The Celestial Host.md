@@ -1,11 +1,6 @@
 ---
 title: "The Celestial Host"
-notion_id: "3b158200-eb22-8182-a7d4-fc60542172c8"
-notion_url: "https://app.notion.com/p/The-Celestial-Host-3b158200eb228182a7d4fc60542172c8"
-section: "Cosmology & Metaphysics"
 tags: ["Cosmology"]
-last_edited: "2026-09-10T11:16:00.000Z"
-verification: "unverified"
 ---
 
 # The Celestial Host

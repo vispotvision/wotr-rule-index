@@ -1,11 +1,5 @@
 ---
 title: "Ryuka Yukari · The Little Wayfinder"
-notion_id: "3d958200-eb22-8192-ab62-ffe091036c27"
-notion_url: "https://app.notion.com/p/Ryuka-Yukari-The-Little-Wayfinder-3d958200eb228192ab62ffe091036c27"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
-verification: null
 ---
 
 # Ryuka Yukari · The Little Wayfinder

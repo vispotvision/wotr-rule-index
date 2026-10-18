@@ -1,11 +1,5 @@
 ---
 title: "Vaelmorn · The Standing Grave"
-notion_id: "3b358200-eb22-817d-b03e-ede8e541965d"
-notion_url: "https://app.notion.com/p/Vaelmorn-The-Standing-Grave-3b358200eb22817db03eede8e541965d"
-section: "Summoned and Bound"
-tags: []
-last_edited: "2026-08-05T19:02:00.000Z"
-verification: "unverified"
 ---
 
 # Vaelmorn · The Standing Grave

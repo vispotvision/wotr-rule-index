@@ -1,11 +1,5 @@
 ---
 title: "The Concord Military"
-notion_id: "3b158200-eb22-81d7-9032-ec164a8d6fc5"
-notion_url: "https://app.notion.com/p/The-Concord-Military-3b158200eb2281d79032ec164a8d6fc5"
-section: "The Guild Accord"
-tags: []
-last_edited: "2026-09-28T08:19:00.000Z"
-verification: "unverified"
 ---
 
 # The Concord Military

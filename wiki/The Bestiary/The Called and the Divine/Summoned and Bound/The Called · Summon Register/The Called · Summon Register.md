@@ -1,11 +1,5 @@
 ---
 title: "The Called · Summon Register"
-notion_id: "3b358200-eb22-8198-87ac-f4b47493c48c"
-notion_url: "https://app.notion.com/p/The-Called-Summon-Register-3b358200eb22819887acf4b47493c48c"
-section: "Summoned and Bound"
-tags: []
-last_edited: "2026-09-11T02:37:00.000Z"
-verification: "unverified"
 ---
 
 # The Called · Summon Register

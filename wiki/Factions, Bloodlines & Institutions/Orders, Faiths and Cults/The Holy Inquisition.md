@@ -1,11 +1,5 @@
 ---
 title: "The Holy Inquisition"
-notion_id: "3dc58200-eb22-81d0-8cc0-cae6c69e8ff7"
-notion_url: "https://app.notion.com/p/The-Holy-Inquisition-3dc58200eb2281d08cc0cae6c69e8ff7"
-section: "Factions, Bloodlines & Institutions"
-tags: []
-last_edited: "2026-09-27T19:50:00.000Z"
-verification: "unverified"
 ---
 
 # The Holy Inquisition

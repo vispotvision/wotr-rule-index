@@ -1,11 +1,5 @@
 ---
 title: "Graelith · The Stilled Surge"
-notion_id: "3bd58200-eb22-81ae-a572-f850f5bfff23"
-notion_url: "https://app.notion.com/p/Graelith-The-Stilled-Surge-3bd58200eb2281aea572f850f5bfff23"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
-verification: null
 ---
 
 # Graelith · The Stilled Surge

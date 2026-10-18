@@ -1,31 +1,114 @@
 ---
+private: true
+type: character-card
 title: "Charles Lambert · The God Hand"
+subtitle: "Bishop of the Curia's Bench · Carrier of the Scale"
+culture: Accord
+rung: full
+as_of: "The morning he brought his son to the basin for the Palatine's blessing, and was asked to go north."
+sources: "Prior Charles Lambert card; fow_line: no figures; Fracture of Worlds Parts Seventeen and Twenty-One; What the Lamberts Are For; Commencement of The Curia. [ Kujo Arc ]"
+pc: false
 ---
 
 # Charles Lambert · The God Hand
 
 *Bishop of the Curia's Bench · Carrier of the Scale · as of the blessing at the basin*
-> **Full Name:** Charles Lambert
->
-> **Race / Lineage:** Human, of the Lambert house; younger brother of Edward Lambert
->
-> **Office:** A bishop of the Curia's bench, and for ten years the carrying half of the office the family literature calls the God Hand. His stone gives him the rank of archbishop.
->
-> **Age:** Forty-seven. His hair had not yet gone through to iron.
->
-> **As Of:** The morning he brought his son to the basin for the Palatine's blessing, and was asked to go north.
+
+**Charles Lambert** · The God Hand · Accord · as of the blessing at the basin  
+**Stat line** · Level unrecorded · Band unrecorded · Stage none · Path unexpressed · personal Tier of Standing unrecorded; archbishop by his stone · η not applicable to personal casting · Aether Class Ø, The Dormant · Crystal Dormant, sealed; fracture state unrecorded  
+**Combat grammar** · Verdict  
+**Aura and sound** · no expressed personal aura; the office later shows gold fringes through his arms, becoming continuous gold · signature sound: his reading voice doubled by Darius's lower, drier voice  
+**Stack** · personal output ceiling Hollow · cap +2 Grades for self-boosts · no personal boost layers identified; the Scale's office is separate from his personal output  
+**Releases** · no personal First, Second or Third Release · bonded weapon: none · carried office: the Scale  
+**Traits** · no named personal Trait identified  
+**Techniques** · SCALE (carried rite) · tell: his thumb turns the beam and he speaks the liturgy · counter: restraint of his hand before the beam turns, or interruption of the liturgy / HOLD · tell: gold through his arms and both hands on the wrist · counter: the captor abandons the grip  
+**Voice** · "You are going to have to say the other thing. I have been sitting here waiting for you to say the other thing and you have taken a remarkably long time about it." · speaker type: a courteous parish clergyman with a chancery clerk's precision and a younger brother's dry impatience
 
 ---
 
-## Description
+## I. Identity
+
+**Full Name** · Charles Lambert
+
+**Pronunciation** · CHARLZ LAM-bert
+
+**Alias / Title** · The God Hand; Bishop of the Curia's Bench; Carrier of the Scale; Archbishop
+
+**Race / Lineage** · Human, of the Lambert house; younger brother of Edward Lambert
+
+**Office** · A bishop of the Curia's bench, and for ten years the carrying half of the office the family literature calls the God Hand. His stone gives him the rank of archbishop.
+
+**Age** · Forty-seven. His hair had not yet gone through to iron.
+
+**As Of** · The morning he brought his son to the basin for the Palatine's blessing, and was asked to go north.
+
+**Realm / Faction** · The Church; the Curia's bench at Altherion.
+
+**School and sect rank** · Church office: bishop of the Curia's bench; archbishop by his stone. No disciple rank recorded.
+
+**Renown** · On the bench, the bishop who reads the objection before the motion. The God Hand is the family literature's name for the shared office.
+
+**Refusal** · He will not leave another person in a grip he can take upon himself.
+
+**Conviction** · A responsibility remains his even when he cannot understand it, explain it or expect to survive carrying it.
+
+## II. Soul Architecture
+
+**Temperance Stage** · None.
+
+**Path** · No expressed practitioner Path.
+
+**Soul Crystal Tier** · Dormant.
+
+**Aether Class** · Ø, The Dormant.
+
+**Personal output ceiling** · Hollow.
+
+**Essence Typology** · No Family established.
+
+**Wellspring harmonizations** · None established.
+
+**The office** · Charles carries the Scale. Darius spends. The office's effects do not establish a personal Stage, Family, Wellspring or release form for Charles.
+
+## X. Techniques
+
+**SCALE (Carried Rite)**
+
+Charles turns the beam of the silver amulet and speaks the liturgy, including "Sit omne quod fieri potuit. Nihil perficiatur." The office opens the Imperceptible District to him, where possibilities that left no record remain available, and takes the records of his own life as payment. At the narrows it consumes nineteen years of vestry minutes, his ordination roll, his marriage entry and the other papers that establish who he has been. The beam turning under his thumb and the spoken words give warning; restraining that hand before the beam turns prevents entry; interruption of the liturgy prevents the completed invocation. The rite has no second attempt. Its cost is the loss of those records, with no supported conversion into personal EU or a duration from a full reserve. The office leaves his body vulnerable, and the District's contents overwhelm his mind. The gold fringes and doubled voice belong to this office's manifestation.
+
+**HOLD (Office Consequence)**
+
+After the records are gone, Charles offers himself in place of the person Kujo is holding. The register has no entry with which to contradict the substitution. He arrives in the grip, closes both hands around the wrist and holds. This is the office's consequence, with no additional chant or personal working. The hold does not protect his throat or preserve his life; it costs his remaining bodily endurance. Its tell is the gold running through his arms and his hands closing on the wrist. The captor can abandon that grip, ending the particular restraint Charles has taken upon himself.
+
+**Releases** · None. Charles has no personal Temperance Stage.
+
+**Bonded weapon** · None.
+
+## Skills
+
+**Clerical work** · Sorting, filing, parish correspondence and a handwriting he takes pride in.
+
+**Rites and forms** · Explaining what a rite does in plain words to the people receiving it.
+
+**Empty-hand evasion** · At Altherion, four deliveries avoided before the knee and throw. His open hands stay low and his movement begins early; closing the distance defeats that room to move.
+
+## XIII. Physical Description
 
 He came up the aisle with his hat off and his son on his forearm, and the resemblance arrived a full three seconds before the name did. The frame is his brother's frame: tall and gone narrow through the shoulder, stooped a few degrees at the neck, the same long face and the same hard widow's peak. On Edward the shape reads as a man in decline. On Charles it reads as a man in his prime.
 
 The bishop's charcoal, well cut and well kept, and a pectoral on a chain with all its links matched. Then the face, which is the difference. Edward's does nothing at all. Charles's is pleasant, open at the eyes and quick at the mouth, the face of a man people tell things to without deciding to.
 
----
+## XIV. Psychology
 
-## Voice
+**Conviction** · He accepts the burden of holding even when the institution offers him neither understanding nor care.
+
+> *I have been asking what I am permitted to do to other people. The answer was always what I am permitted to hold.*
+
+**Voice block**
+
+**Speaker type** · A courteous parish clergyman with a chancery clerk's precision and a younger brother's dry impatience.
+
+**Chant tongue** · Church Latin.
 
 **Notices first** · The person across from him and the thing they have not yet said. He also sees how an act will read to the road: which of three things has changed, and who will notice it first.
 
@@ -49,13 +132,17 @@ The bishop's charcoal, well cut and well kept, and a pectoral on a chain with al
 
 **Sample line** · "You are going to have to say the other thing. I have been sitting here waiting for you to say the other thing and you have taken a remarkably long time about it."
 
+## XV. Equipment
+
+**The Scale** · A silver amulet the size of a thumbnail, two pans on a beam, with glyphs cut eleven to the inch. Aurelian Prudentius placed it over his head in the lower chapel at Altherion. It carries the office shared with Darius. It is no bonded weapon.
+
+**Dress** · Bishop's charcoal; hat; pectoral on a chain with all its links matched.
+
 ---
 
-> *I have been asking what I am permitted to do to other people. The answer was always what I am permitted to hold.*
+## Lore
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 #### Origin
 

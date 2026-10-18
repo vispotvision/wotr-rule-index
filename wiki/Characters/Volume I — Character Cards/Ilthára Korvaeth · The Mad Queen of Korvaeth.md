@@ -1,23 +1,61 @@
 ---
+private: true
+type: character-card
 title: "Ilthára Korvaeth · The Mad Queen of Korvaeth"
+subtitle: "The Mad Queen of Korvaeth"
+culture: "Vey-Elarin, Korvaeth"
+rung: full
+as_of: "The morning of the yard at Korvaeth, the eleventh day of the withheld season."
+sources:
+  - "Prior card: Ilthára Korvaeth · The Mad Queen of Korvaeth"
+  - "fow_line: Ilthára Korvaeth; no FOW figures on the card"
+  - "scenes/the_empty_place.md, Author notes"
+pc: false
 ---
 
 # Ilthára Korvaeth · The Mad Queen of Korvaeth
 
-*The Mad Queen of Korvaeth · as of the morning of the yard at Korvaeth*
-> **Full Name:** Ilthára Korvaeth. She signs with the name nobody gave her, in the contingent form, and has since she was seventeen.
->
-> **Race / Lineage:** Drow, of House Korvaeth
->
-> **Office:** Queen of Korvaeth, with no crown. The yard refused her a naming, and they have called her the Mad Queen since she was twenty-six.
->
-> **Age:** Thirty-four. Of an age with Onawa, Empress of Eresse; they were fourteen together in the Vosk orchard.
->
-> **As Of:** The morning of the yard at Korvaeth, the eleventh day of the withheld season.
+**Ilthára Korvaeth** · The Mad Queen of Korvaeth · Vey-Elarin, Korvaeth · as of the morning of the yard at Korvaeth, the eleventh day of the withheld season.
+
+**Stat line** · Level undisclosed · Band undisclosed · Stage undisclosed · Path undisclosed · Tier of Standing undisclosed · η undisclosed · Aether Class undisclosed · Crystal Tier and State undisclosed
+
+**Combat grammar** · Verdict
+
+**Aura and sound** · colour: undisclosed · signature sound: a low iron note with a dry click at its end.
+
+**Stack** · sustainable Grade undisclosed · cap +2 Grades · layers: no releases, vows, Drafts or tags recorded.
+
+**Releases** · undisclosed · bonded weapon: none.
+
+**Traits** · No named Traits recorded.
+
+**Techniques** · No named techniques recorded.
+
+**Voice** · "And you are standing in a field offering me safe conduct back under stone as though the stone is where I came from and not where they put me." · speaker type: a senior barrister arguing a disputed inheritance.
 
 ---
 
-## Description
+## I. Identity
+
+**Full Name** · Ilthára Korvaeth. She signs with the name nobody gave her, in the contingent form, and has since she was seventeen.
+
+**Pronunciation** · il-THAH-rah KOR-vayth
+
+**Alias / Title** · Queen of Korvaeth, with no crown. The yard refused her a naming, and they have called her the Mad Queen since she was twenty-six.
+
+**Race / Lineage** · Drow, of House Korvaeth
+
+**Age** · Thirty-four. Of an age with Onawa, Empress of Eresse; they were fourteen together in the Vosk orchard.
+
+**Realm / Faction** · Korvaeth; House Korvaeth.
+
+**As Of** · The morning of the yard at Korvaeth, the eleventh day of the withheld season.
+
+**Refusal** · She will not hold her own name from a power whose right to grant it she rejects.
+
+**Conviction** · Standing is what you do, not what somebody hands you.
+
+## XIII. Physical Description
 
 She came out after the Empress and did not walk the yard. She stopped on the third step, a head above the block and two heads above the front rank, because a Reckoner needs a sightline and so do three hundred and six witnesses.
 
@@ -25,9 +63,11 @@ Five feet eleven, in the Korvaeth build, which is the deep build: shoulders narr
 
 She wore the coat with the salt-black facings, cut from the drowned alder groves below the Vessel Coast. There were eleven coats like it in the world and she had all eleven. Onawa came out holding nothing. Ilthára came out dressed as an estate.
 
----
+## XIV. Psychology
 
-## Voice
+**Voice block**
+
+**Speaker type** · A senior barrister arguing a disputed inheritance.
 
 **Notices first** · The cost, and who pays it. She reads a document for the clause doing too much work, a room for who has standing to speak in it, and a man for what he is protecting.
 
@@ -53,11 +93,11 @@ She wore the coat with the salt-black facings, cut from the drowned alder groves
 
 ---
 
+## Lore
+
 > *"Because a vacant name is a silence in a chord," she said. "And I have been a silence in a chord since I was seventeen years old."*
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 #### Origin
 

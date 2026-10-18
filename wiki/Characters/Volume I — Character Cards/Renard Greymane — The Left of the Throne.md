@@ -1,12 +1,47 @@
 ---
+private: true
+type: character-card
 title: "Renard Greymane — The Left of the Throne"
+subtitle: "Bram's Cousin · The Left of the Throne · The Ridge's Guard"
+culture: Kharven
+rung: full
+as_of: "The muster at Kharven-Seat, the morning of the ninth hour"
+sources: "Prior Renard Greymane card; character and fow_line; Fracture of Worlds Parts One, Three, Four, Seven, Sixteen, Nineteen, Twenty, Twenty-One and Twenty-Three; Master Codex; Release Forms; The Color of Essence; Kharven Standing Inventory"
+pc: false
 ---
 
 # Renard Greymane — The Left of the Throne
 
-**Say it** · REN-ard GRAY-mayn
+**Renard Greymane** · The Left of the Throne · Kharven · as of the muster at Kharven-Seat, the morning of the ninth hour  
+**Stat line** · Level 198 · Band II, Awakened · Stage IV, Flourishing · Path Body · Adept · η 0.45 · Aether Class unclassed · Crystal Awakened, Refined  
+**Combat grammar** · Blade  
+**Aura and sound** · colour: dark grey with a gunmetal undertone · signature sound: a door-bar settling into its iron brackets  
+**Stack** · sustainable B in Fortitude and Penetration; other facets as below · cap +2 Grades in each affected facet · layers: STAY; RIDGE when released, replacing STAY's ordinary rise in the same facet  
+**Releases** · RIDGE (First Release) · bonded weapon: none  
+**Traits** · STAY (Primary) · tell: rear heel settles and the shoulder darkens · counter: sideways pull, lost footing or a blow around the braced side  
+**Techniques** · RIDGE · tell: raised gunmetal shoulder and a heavy iron knock · counter: interrupt the call, turn him off his planted foot or outlast the drain  
+**Voice** · "You can tell me here. She's sleeping." · speaker type: a young northern English infantry corporal on close guard  
+**Next gate** · Stage V, Splintering · Catalyst: survive an entity or force more than two full Tiers above his present ceiling · Band gate: Stage VII, Refraction before Level 200 can be surpassed · crisis: Wren's defection and the unanswered claim about Hild's west postern
+
+---
+
+## I. Identity
+
+**Full Name** · Renard Greymane  
+**Pronunciation** · REN-ard GRAY-mayn  
+**Alias / Title** · Bram's Cousin · The Left of the Throne · The Ridge's Guard  
+**Age** · 26  
+**House** · Greymane (Stormfold)  
+**Realm / Faction** · Kharven; Hild Ice's loyalists  
+**School and sect rank** · House Greymane; inner disciple  
+**Renown** · household and court: Hild's guard at the throne's left; army: Bram's cousin at the southern breach  
+**Refusal** · He will not buy his safety by opening Hild's door to an enemy.  
+**Conviction** · Godfrey's choice binds the living Greymanes after Godfrey's death.
 
 *Bram's Cousin · The Left of the Throne · The Ridge's Guard*
+
+### Muster record
+
 > **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 >
 > **Full Name:** Renard Greymane
@@ -27,23 +62,122 @@ title: "Renard Greymane — The Left of the Throne"
 >
 > The Greymane function: be the thing between the throne and the threat.
 
----
+## II. Soul Architecture
 
-## Description
+**Level** · 198  
+**Band** · II, Awakened  
+**Temperance Stage** · IV, Flourishing  
+**Path** · Body  
+**Tier of Standing** · Adept  
+**η** · 0.45  
+**Soul Crystal Tier** · Awakened  
+**Crystal State** · Refined  
+**Aether Class** · Unclassed  
+**Essence Typology** · Vectoria
+
+His refinement supports bodily reinforcement and the first release. It grants no Domain, remote guard or protection against a working merely because that working reaches him through touch.
+
+## III. Wellspring Harmonizations
+
+**Petralon** · the Foundation Stone · early contact resonance, carried through bodily work · its current turns his weight and the ground beneath him into support for a load he takes through his arms. The attunement has not reached the settled circulation of a Harmonic Crystal.
+
+## IV. Primary Stats
+
+| Primary | Total | Mean | Grade |
+|---|---:|---:|---|
+| Vitality | 750 | 93.75 | D |
+| Ardency | 650 | 81.25 | D |
+| Gnosis | 360 | 45 | E |
+| Dexterity | 700 | 87.5 | D |
+| Harmonics | 230 | 28.75 | E |
+| Resilience | 500 | 62.5 | D |
+| Tempering | 330 | 41.25 | E |
+| Dominion (seven, Throne apart) | 150 | 150/7 | F |
+| **Throne** | unopened | n/a | none |
+
+**Allocated Pool** · 3,670 points  
+**Unspent Pool** · 0 points
+
+## V. Sub-Stats
+
+**Vitality** · Fortitude 180 · Absorption 140 · Constitution 150 · Hemostasis 30 · Regeneration 35 · Filtration 35 · Tolerance 30 · Threshold 150  
+**Ardency** · Flux 175 · Alacrity 40 · Depth 50 · Penetration 180 · Compression 60 · Cascade 45 · Overchannel 30 · Density 70  
+**Gnosis** · Perception 80 · Acuity 30 · Forecast 50 · Fluency 25 · Retention 25 · Analysis 45 · Cognition 35 · Vigilance 70  
+**Dexterity** · Celerity 100 · Reflex 160 · Finesse 100 · Economy 100 · Evasion 75 · Grapple 75 · Feint 30 · Sequence 60  
+**Harmonics** · Attunement 30 · Projection 25 · Breadth 20 · Stability 45 · Empathy 20 · Synergy 25 · Axis 45 · Suppression 20  
+**Resilience** · Integrity 100 · Ward 25 · Persistence 80 · Anchoring 50 · Fortification 120 · Hardening 60 · Oath 30 · Continuity 35  
+**Tempering** · Clarity 40 · Overflow 25 · Maturity 45 · Coherence 50 · Yield 100 · Ceiling 20 · Capacity 30 · Longevity 20  
+**Dominion** · Radius 15 · Sovereignty 15 · Sense 35 · Gravity 20 · Pressure 35 · Command 20 · Fate 10
+
+## VII. Aether Flow
+
+**EU Reserve** · 905,683 EU  
+**Flux Density** · 4,333⅓ EU/g  
+**AU/s** · 1,950  
+**Recovery** · at rest on ordinary ground, about 90,568.3 EU per minute; active recovery about two to three times that while concentrating and out of combat  
+**Starvation floor** · 90,568.3 EU  
+**Starvation clock** · from full, 418.01 seconds at 1,950 EU/s with no recovery; empty at 464.45 seconds if he continues past the floor
+
+At half reserve his breathing shortens and the gunmetal thins. At a quarter his sword hand trembles. At a tenth the shoulder light flickers and STAY begins to fail.
+
+## VIII. Traits
+
+**STAY (Primary Trait)**
+
+When a load comes through his hand or shoulder while his feet have purchase, his reinforcement spreads it through his trunk and legs into the ground. Petralon's current carries that force through the Aether around his body; [Th] Foundation holds the joined hand, shoulder, hip and planted foot in one braced shape. His Core supplies the reserve, his Shell carries the working, and his Attraction Layer's bond to the person behind him steadies its direction. Fortitude reads 190 for this supported load instead of its standing 180, both B-Grade; the rise does not apply to an exposed throat, a cut around his guard or a force already working inside his arm. The bias costs no separate draw while unloaded and 195 EU/s while bearing load, 1,170 EU per six seconds, allowing 69 minutes 40 seconds from full to the last tenth if nothing else is spent. His rear heel settles and a dark gunmetal patch thickens over the loaded shoulder with a low wooden creak. The force still reaches the floor: loose rubble gives, thin boards break and a sideways pull can turn him before he finds a new brace. A slipping foot or a lifted heel removes the rise. Long use leaves his calves and shoulders shaking, and below the last tenth the bias flickers with the rest of his reinforcement.
+
+## X. Techniques
+
+**Releases**
+
+**RIDGE (First Release)** · folk name: Letting the horse run
+
+His left shoulder rises beneath a thick ridge of gunmetal aura, the arm and flank taking the same close coat as his stance broadens. A heavy iron knock sounds once, like a door-bar falling home. Called aloud, RIDGE carries STAY's supported-load Fortitude to 275, the top of B, through the same hand-to-foot brace; a sword held in that brace shares the reinforcement while he holds it. The form draws 1,950 EU/s in total, including STAY, and holds for 6 minutes 58 seconds from a full 905,683 EU before ending at 90,568.3 EU. Other spending shortens that time. It reinforces the braced side and what that side holds; his other side keeps its ordinary protection, and neither a person behind him nor an unattended doorway shares the coat. It cannot mend the weakened forearm or cancel a touch-working. Waste leaves his Shell as heat, glare and the iron sound, making a sustained release dangerous beside people, cloth and timber. Released silently, the same shape and knock remain, at the same drain, but Fortitude stays at STAY's 190 instead of rising to 275. The spoken call takes a beat that can be interrupted. Turning him across the planted foot, breaking its support or reaching around the raised shoulder defeats the brace; after the release his shaking legs and depleted reserve make a renewed rush harder to meet. Holding it below the last tenth becomes overchannel and risks a Crystal fracture.
+
+**Bonded weapon** · none
+
+## Skills
+
+| Skill | Cues / mechanics | Learned where | Priced by |
+|---|---|---|---|
+| Close sword work | Cuts the reaching hand; takes his own blade partway down to guide its point | House Greymane's field service | Finesse, Grapple, Penetration, Reflex |
+| Keeping a door | Watches the approach; keeps noise from the room behind him | Hild's guard and the altar-room watch | Vigilance, Perception, Economy |
+| Reading a tally | Follows repeated journeys and notices a destination without kin | The farrier's tally book at the Ridgewall | Analysis, Retention |
+| Holding a flank | Keeps the man beside him informed by voice through poor visibility | The southern reach beside Bram | Vigilance, Sequence, Command |
+
+## XIII. Physical Description
 
 Tall, broad through the shoulders in the Greymane manner. Godfrey's grand-nephew, carrying the family's architectural build — the body designed for holding ground, the frame that settles into position the way a wall settles into its foundation. His face is harder than Bram's, more angular, the specific sharpness of a man who has spent his youth in the field rather than on the ridge, mobile warfare rather than static defense.
 
 His hand rests on his sword hilt with the casual readiness that is not casual but structural. The hand's position is the statement: the ridge does not move, and I am the ridge's cousin, and the cousin does not move either.
 
-Renard chose Hild over the Tenrai because Godfrey chose Muken, and Godfrey's choice was the family's choice, and the family's choice outlasted Godfrey, and the outlasting was the inheritance. When Wren defected, Renard did not hesitate. The not-hesitating was the Greymane function operating at full clarity: there is the throne, and there is the thing threatening the throne, and I stand between the two, and the standing is the only verb the Greymane vocabulary contains.
+## XIV. Psychology
 
----
+Renard chose Hild over the Tenrai because Godfrey chose Muken, and Godfrey's choice was the family's choice, and the family's choice outlasted Godfrey, and the outlasting was the inheritance. When Wren defected, Renard did not hesitate. The not-hesitating was the Greymane function operating at full clarity: there is the throne, and there is the thing threatening the throne, and I stand between the two, and the standing is the only verb the Greymane vocabulary contains.
 
 > *He does not speak much. The sword speaks for him. The sword's vocabulary is sufficient.*
 
+**Voice block**
+
+**Speaker type** · A young northern English infantry corporal on close guard; plain, low and specific, with the courtesy of a man deciding whether someone may pass.  
+**Chant tongue** · Kharven common speech  
+**Notices first** · The reaching hand, the door behind it and whether a voice will carry into the next room  
+**Sentence length** · Short in company; complete directions when another man must act on them  
+**Contractions** · Sometimes  
+**Stress shift** · His words carry farther and become more exact about who must stand where.  
+**Sample line** · "You can tell me here. She's sleeping."
+
+## XV. Equipment
+
+**Ridge-forged sword** · grip cord waxed by his grandmother  
+**Gambeson** · worn at the altar-room door  
+**Brass token** · stamped with three short strokes and a circle; taken from the dead man's satchel and kept inside his gambeson against the skin
+
 ---
 
-### Lore · The Life Behind the Card
+## Lore
+
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the four archived scenes it appears in, and the record of Hild's council: the Kōkan Loyalist Coalition. What those sources do not state is new here.*
 

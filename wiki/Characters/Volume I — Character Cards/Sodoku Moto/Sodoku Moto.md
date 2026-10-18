@@ -1,19 +1,50 @@
 ---
+private: true
+type: character-card
 title: "Sodoku Moto"
+subtitle: "The Exiled Lion · The Kōkan Butcher · Card 19"
+culture: "Moto / Kharven"
+rung: full
+as_of: "The muster at Kharven-Seat, the morning of the ninth hour"
+sources:
+  - "Sodoku Moto, existing Volume I card"
+  - "WOTR character and fow_line, Sodoku Moto, 2026-10-17"
+  - "Fracture of Worlds, Parts One, Three, Twelve, Sixteen and Twenty-One"
+  - "The Master Codex"
+  - "The Color of Essence"
+  - "Release Forms"
+  - "Moto Standing Inventory"
+  - "Who's Who, the Starting Threads"
+pc: true
+owner: Isaac
 ---
 
 # Sodoku Moto
 
-**Say it** · soh-DOH-koo MOH-toh
-
-*The Exiled Lion · The Kōkan Butcher · Card 19*
-> **Level 320 in a Stage VI body.** Two to four Grade brackets past what his Crystal has certified, and a Coherence Band of **D**, which is what that costs.
->
-> *He moves like Level 320 now, despite a Crystal that has crossed six of sixteen Stages.*
+**Sodoku Moto** · The Exiled Lion · Moto / Kharven · as of the muster at Kharven-Seat, the morning of the ninth hour  
+**Stat line** · Level 320 · Band IV, Mythic · Stage VI, Glory · Path Spirit 62% / Attraction 28% / Body 10% · Expert · η 0.84 · Aether Class II, Harmonic · Crystal Harmonic, closed load-bearing fracture with standing Residual Strain  
+**Combat grammar** · Verdict  
+**Aura and sound** · Black-violet through luminous medium grey, an arc-blue undertone at the eyes; a low metal note clipped short when the verdict settles.  
+**Stack** · Sustainable A-Grade delivery; raw Primary Grades SS to X · cap +2 Grades over the stat or working being raised · layer: Nagi; standing Residual Strain remains.  
+**Releases** · NAGI, First Release, Koiguchi / CHINKON, Second Release, Nukimi, locked until Stage VII · bonded weapon: Kurosetsu  
+**Traits** · KAMIGAN, Primary: outer ring flares / simultaneous unrelated threats divide the read; THRONE BIAS, Secondary: attention goes to the commander / independent attackers deny one command point; KŌKAN BLOODLINE VERDICT-SIGHT, Inherited: resting ring-lines / obscured evidence limits judgment; REIGAN, Inherited: eyes cease tracking nearby bodies / close danger during blindness; THE UNRANKED CATEGORY, Passive: ranking pauses around Yoko and Emira / protecting them still costs position and reserve.  
+**Techniques** · THRONE RECOGNITION: gaze settles on authority / no real hierarchy; SHOKENDAN: outer ring flashes before the cut / broken sight; ICHII KESSAI: held gaze and still hilt / change the locked structure; DANZAI SUJI: blade tracks existing damage / intact cover over the fault; KURAI NAGARE: eyes lead each transition / simultaneous attacks; FIELD OF ACCORDANT JUDGMENT: low light follows the field edge / broken concentration; SHIMOBASHIRA: ground frost / dry or heated footing; TRIUNE MANDATE, DOMINION PRIORITY, CROWNFALL DECREE: locked, no active tell or effect.  
+**Voice** · "He is thirty-one years old and he has never once taken advice about a woman, including from our father, who tried twice and stopped." · speaker type: a court-trained military commander delivering a judgment.  
+**Next gate** · Stage VII, Refraction · Catalyst: first Domain seed activation, however fragile or small; projected fields become coherent · unmet Band gates: VII beyond Level 200 and X beyond Level 300; next Level ceiling: 400, requiring XII.
 
 ---
 
-## I · Identity
+## I. Identity
+
+**Full Name** · Sodoku Moto
+
+**Pronunciation** · soh-DOH-koo MOH-toh
+
+*The Exiled Lion · The Kōkan Butcher · Card 19*
+
+> **Level 320 in a Stage VI body.** Two to four Grade brackets past what his Crystal has certified, and a Coherence Band of **D**, which is what that costs.
+>
+> *He moves like Level 320 now, despite a Crystal that has crossed six of sixteen Stages.*
 
 **As Of** The muster at Kharven-Seat, the morning of the ninth hour
 
@@ -24,19 +55,28 @@ title: "Sodoku Moto"
 **Age** 28 · **Sex** Male
 
 **Standing** Exiled by High Council decree, wanted across multiple territories, **charged with the massacre of the Tenrai main-branch settlement.** At twenty-eight, eleven years after the corridor, he is at Kharven-Seat with the daughter he had never met, and rides out at the head of its muster on Tōga.
+
 > **Catalyst Event.** A Tenrai-commissioned corridor assassination took his father Muken and his brothers Tomuka and Ezo **in one night.**
-> 
+>
 > He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, **women and children included.**
-> 
+>
 > ***The High Council's charge isn't entirely wrong. It isn't entirely complete either.***
 >
 > He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, **women and children included.**
 >
 > ***The High Council's charge isn't entirely wrong. It isn't entirely complete either.***
 
----
+**Realm / Faction** · Kharven; Moto, Kōkan Line.
 
-## II · Soul Architecture
+**School and sect rank** · Moto house training; former Crown Heir.
+
+**Renown** · Public: the Exiled Lion and Kōkan Butcher, wanted across multiple territories. Army: commanding the Kharven-Seat muster. Houses: the former Crown Heir under the High Council's exile decree. Guilds: Kurosetsu remains below their combat classification on paper.
+
+**Refusal** · He will not surrender his bond to his daughter in exchange for victory.
+
+**Conviction** · The people he has chosen remain his responsibility when protecting them ruins the verdict he could otherwise win.
+
+## II. Soul Architecture
 
 | **Level** | **320 / 500** · Band IV — Mythic (301–400). *Level 320 normally clusters at Stage XI–XII. He is genuinely Stage VI* |
 |---|---|
@@ -49,11 +89,14 @@ title: "Sodoku Moto"
 | **Crystal State** | **The Stage V fracture is closed, not healed — a load-bearing seam.** **Standing Residual Strain** from the breach: his Level stands past two Band gates his Stage has not opened, and the pressure builds in the Crystal until the Threshold is passed or the Crystal fractures under the weight |
 | **Attraction / Obsession** | Clean, recognition-sustained |
 
----
+**Soul Crystal Tier** · Harmonic
 
-## III · Work Architecture
+## III. Wellspring Harmonizations
+
+### Work Architecture
 
 > *The Kōkan Line does not harmonize with Wellsprings in the standard sense. It carries native bloodline intimacy with Hataraki, the governing function of the Plane of Fate.*
+
 **Techniques administer rather than explode: reveal, rank, condemn, stabilize, sever, complete.**
 
 **Totality — Zentai-sei no Hataraki** · Primary Work inheritance. The Crown judgment at full expression.
@@ -62,30 +105,46 @@ title: "Sodoku Moto"
 
 **Judicium** · The Kamigan's analytical substrate. Threat-reading, Essence-signature assessment, probability-vector ranking.
 
----
-
-## IV–V · Stats
+## IV. Primary Stats
 
 > Every Grade below is read against the universal Tier Grade table **and lands several brackets above the nominal Stage VI ceiling of 400.**
 >
 > *The named tension of his arc — bloodline-compounding and five years of forced survival growth outpacing formal Temperance advancement.*
 
-| Stat | Value | Grade | Peaks |
+| Primary | Total | Mean | Grade |
 |---|---|---|---|
-| **Gnosis** | **1,050** | **X** | Acuity 1,080 · Analysis 1,065 · Retention 1,020 · Sapience 990 |
-| **Tempering** | 940 | SSS | Clarity 955 · Coherence 945 · Maturity 920 |
-| **Ardency** | 880 | SSS | Inscription 895 · Compression 885 · Depth 860 |
-| **Resilience** | 810 | SSS | Scarring 835 · Threshold 825 · Hardening 805 |
-| **Dexterity** | 760 | SSS | Economy 785 · Finesse 770 · Celerity 745 |
-| **Vitality** | 720 | SS | Filtration 740 · Threshold 730 · Constitution 715 |
-| **Dominion** | 580 | SS | Sovereignty 600 · Density 590 · Radius 560 — *small, steep trajectory* |
-| **Harmonics** | 560 | SS | Fidelity 575 · Attunement 555, **rising via Yoko's presence** · Memory 540 |
+| **Gnosis** | 8,400 | **1,050** | **X** |
+| **Tempering** | 7,520 | 940 | SSS |
+| **Ardency** | 7,040 | 880 | SSS |
+| **Resilience** | 6,480 | 810 | SSS |
+| **Dexterity** | 6,080 | 760 | SSS |
+| **Vitality** | 5,760 | 720 | SS |
+| **Dominion** | 4,060 | 580 | SS |
+| **Harmonics** | 4,480 | 560 | SS |
 
 > **Harmonics reverses the pattern** — genuinely his weakest stat relative to bloodline projection. *The Kōkan Line's isolation architecture working against him exactly where Yoko's presence is slowly working against it.*
 
----
+## V. Sub-Stats
 
-## VI–VII · Force and Flow
+**Gnosis** · Acuity 1,080 · Analysis 1,065 · Retention 1,020 · Sapience 990
+
+**Tempering** · Clarity 955 · Coherence 945 · Maturity 920
+
+**Ardency** · Inscription 895 · Compression 885 · Depth 860
+
+**Resilience** · Scarring 835 · Threshold 825 · Hardening 805
+
+**Dexterity** · Economy 785 · Finesse 770 · Celerity 745
+
+**Vitality** · Filtration 740 · Threshold 730 · Constitution 715
+
+**Dominion** · Sovereignty 600 · Density 590 · Radius 560 — *small, steep trajectory*
+
+**Harmonics** · Fidelity 575 · Attunement 555, **rising via Yoko's presence** · Memory 540
+
+**Current-name readings** · Gnosis Fluency 990, carried as Sapience above; Ardency Density 895, carried as Inscription; Resilience Integrity 835, carried as Scarring; Dominion Gravity 590, carried as Density. Harmonics Attunement retains its stated 555; its separately stated Fidelity 575 and Memory 540 remain recorded above.
+
+## VI. Physical Force
 
 *Raw stats suggest SS–X territory, but Aether Class II caps deliverable output at Band D conversion. Figures below are actual current battlefield output, with the SSS-territory raw numbers as unrealized headroom.*
 
@@ -97,54 +156,89 @@ title: "Sodoku Moto"
 
 **Domain Pressure** · Minimal. The Totality Domain is still seed-stage
 
+## VII. Aether Flow
+
 **EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~772.8 base · **η** 0.84
 
----
+**Nagi from full** · 7 minutes 54.4 seconds at the stated wake and hold costs, with no other spending or replenishment; ends at 134,000 EU.
 
-## VIII–IX · Traits and Domain
+## VIII. Traits
 
-> **The Kamigan, Crown Eye** · Innate · Judicium
->
-> **A continuous, unclosable system.** Classifies everything by threat level, Essence signature, combat capability, intent, and verdict status. **No off switch.** At Stage VI it reads authority gradients in social spaces as readily as combat geometry.
-**Throne Bias** · Tempered · Hataraki — a passive weighting **flagging governance-class data above survival-class data even when survival is the immediate concern.**
+**KAMIGAN · Crown Eye (Primary Trait)**
 
-**Kōkan Bloodline Verdict-Sight** · Lineage — native intimacy with the Plane of Fate, **present since the ring-lines first marked his irises at birth.**
+Innate · Judicium. **A continuous, unclosable system.** Classifies everything by threat level, Essence signature, combat capability, intent, and verdict status. **No off switch.** At Stage VI it reads authority gradients in social spaces as readily as combat geometry. Its constant read takes attention, and simultaneous threats with no common cause divide it; the outer iris ring flares as his attention moves. Concealed facts remain unavailable to the read.
 
-**Reigan, Eye of the Soul** · Lineage · **reach four hundred miles.** Open, it takes the ordinary world away and leaves the traffic of souls under it, with its weight, direction and health. It goes to weight, and weight is not always where he aims it. **He is blind for as long as he holds it open**; the read that took him four hundred miles cost him eleven seconds.
-> **The Unranked Category, "The Room"** · Resonant
->
-> What the Splintering fracture became once closed. **The Kamigan still cannot categorize the cost of choosing people over verdicts** — and that gap is now **a room inside the architecture instead of a crack in it**, one he has walked into for three years, for Yoko and Emira.
-**Domain** · The Kōkan Totality Domain, **seed-stage, active early per bloodline privilege** rather than the standard Stage VII onset. Radius small, trajectory steep.
+**THRONE BIAS (Secondary Trait)**
 
----
+Tempered · Hataraki — a passive weighting **flagging governance-class data above survival-class data even when survival is the immediate concern.** His eyes settle on whoever gives the orders while a nearer threat is still moving. Attackers making their own decisions leave no single commander whose removal ends the danger.
 
-## X · Techniques
+**KŌKAN BLOODLINE VERDICT-SIGHT (Inherited Trait)**
 
-| Technique | Function and mechanism | Cost · Counterplay |
-|---|---|---|
-| **Throne Recognition** | Reads structural versus performed authority. Judicium ranking weighted toward command-structure ID. **Identifies decision-makers within the first exchange** | Negligible EU · *Environments with no genuine authority structure return flat data* |
-| **Shokendan** · First-Sight Severance | On first visual contact — a single compressed cut at the highest-priority fault. **Judicium reads, Fractura lines it, Coagulatio compresses.** Delivered within 0.4–0.8s | 6,000 EU · *Chaos movement on approach, false structure, engaging outside visual range* |
-| **Ichii Kessai** · First-Rank Settlement | Fixatio locks the read 0.5s; Coagulatio compresses into a 3–5cm contact. **Accelerated armour stress, slower healing on locked wounds** | 9,500 EU, accuracy drops after third use · *Mid-lock structure changes, superior Attraction Scale* |
-| **Danzai Suji** · Condemnation Line | Against a structurally compromised target — elevates ranking to condemnation. Coagulatio force plus subordinate Ruins failure-acceleration. **Bone fracture below what physics alone requires** | 16,000 EU, **eye bleed, sternum ache, 20–30s emotional flattening** · *Purity and Balance Wellsprings resist the Ruins function* |
-| **Kurai Nagare** · Rank Flow | Transitions between ranked faults across 2–4 opponents in one sequence. Simultaneous ranking, Edict Step transitions. **Each kill discrete and final** | 12,000 EU per transition, scaling sharply · *Coordinated simultaneous attacks — chaos contaminates the ranking* |
-| **Field of Accordant Judgment** | *Developing.* Imposes Kōkan sovereign law on the environment, aligning local probability toward the ranked verdict. **Becomes passive at Stage VIII** | Significant, scales with field size · *Strong opposing Attraction-Path presence contests it* |
-| **Triune Mandate · Dominion Priority · Crownfall Decree** | **Locked. Not operational at 320** | — |
+Lineage — native intimacy with the Plane of Fate, **present since the ring-lines first marked his irises at birth.** The resting ring-lines are its tell; interpreting what they reveal takes attention. It supplies a faculty for judgment without making missing evidence visible, so cover and a concealed change of intent can spoil a verdict.
 
----
+**REIGAN · Eye of the Soul (Inherited Trait)**
 
-## X.V · Releases
+Lineage · **reach four hundred miles.** Open, it takes the ordinary world away and leaves the traffic of souls under it, with its weight, direction and health. It goes to weight, and weight is not always where he aims it. **He is blind for as long as he holds it open**; the read that took him four hundred miles cost him eleven seconds. His eyes stop following nearby bodies while he reads. An ordinary close threat can reach him during that blindness, and a heavier soul can pull the search away from the intended target.
+
+**THE UNRANKED CATEGORY · The Room (Passive Trait)**
+
+Resonant. What the Splintering fracture became once closed. **The Kamigan still cannot categorize the cost of choosing people over verdicts** — and that gap is now **a room inside the architecture instead of a crack in it**, one he has walked into for three years, for Yoko and Emira. The ranking pauses around Yoko and Emira, and he gives them his attention without finishing the verdict. The room grants no shield or free working: protecting either still takes his body, his position and his reserve, and dangers in separate places can force a choice.
+
+## IX. Domain
+
+**KŌKAN TOTALITY DOMAIN (Domain seed)**
+
+**Domain** · The Kōkan Totality Domain, **seed-stage, active early per bloodline privilege** rather than the standard Stage VII onset. Radius small, trajectory steep. The local light darkens at the field's edge as his attention settles on a verdict. Broken concentration or withdrawal beyond that edge defeats the seed's local claim; Chinkon cannot open its Second Release expression before Stage VII.
+
+## X. Techniques
+
+**THRONE RECOGNITION (Bloodline Faculty)**
+
+Reads structural versus performed authority. Judicium ranking weighted toward command-structure ID. **Identifies decision-makers within the first exchange**. Cost and counter: Negligible EU · *Environments with no genuine authority structure return flat data*. His gaze settles on the person whose decisions other people obey; the outer iris ring brightens.
+
+**SHOKENDAN · First-Sight Severance (Technique)**
+
+On first visual contact — a single compressed cut at the highest-priority fault. **Judicium reads, Fractura lines it, Coagulatio compresses.** Delivered within 0.4–0.8s. Cost and counter: 6,000 EU · *Chaos movement on approach, false structure, engaging outside visual range*. The outer iris ring flashes before the blade moves. A broken view denies the first read; a change of guard during the 0.4–0.8s delivery spoils the chosen fault, and after a miss the blade must recover from its committed cut.
+
+**ICHII KESSAI · First-Rank Settlement (Signature Technique)**
+
+Fixatio locks the read 0.5s; Coagulatio compresses into a 3–5cm contact. **Accelerated armour stress, slower healing on locked wounds**. Cost and counter: 9,500 EU, accuracy drops after third use · *Mid-lock structure changes, superior Attraction Scale*. His gaze and sword hand hold still through the lock, followed by a short metal click. A changed guard before the lock, movement of the chosen contact during its 0.5s hold, or separation before the stress finishes spreading can deny the settlement. After contact his committed sword leaves another target open; a wound already made remains.
+
+**DANZAI SUJI · Condemnation Line (Technique)**
+
+Against a structurally compromised target — elevates ranking to condemnation. Coagulatio force plus subordinate Ruins failure-acceleration. **Bone fracture below what physics alone requires**. Cost and counter: 16,000 EU, **eye bleed, sternum ache, 20–30s emotional flattening** · *Purity and Balance Wellsprings resist the Ruins function*. His blade follows the already damaged part and the outer eye-ring reddens. An intact guard covering that part prevents the required contact without any special Wellspring. The eye bleed and 20–30s emotional flattening leave an opening after the strike.
+
+**KURAI NAGARE · Rank Flow (Technique)**
+
+Transitions between ranked faults across 2–4 opponents in one sequence. Simultaneous ranking, Edict Step transitions. **Each kill discrete and final**. Cost and counter: 12,000 EU per transition, scaling sharply · *Coordinated simultaneous attacks — chaos contaminates the ranking*. His eyes arrive at the next opponent before his feet turn, making the order of the sequence visible.
+
+**FIELD OF ACCORDANT JUDGMENT (Technique)**
+
+*Developing.* Imposes Kōkan sovereign law on the environment, aligning local probability toward the ranked verdict. **Becomes passive at Stage VIII**. Cost and counter: Significant, scales with field size · *Strong opposing Attraction-Path presence contests it*. A low band of black-violet light follows the field's edge. The field needs his attention; interruption or movement beyond its edge breaks its purchase without requiring a higher Stage.
+
+**TRIUNE MANDATE · DOMINION PRIORITY · CROWNFALL DECREE (Locked techniques)**
+
+**Locked. Not operational at 320**. No active tell or counter applies while they remain unavailable.
+
+**SHIMOBASHIRA · Needle Ice (Signature Technique, Nagi)**
+
+On freezing nights, columns of ice grow up out of wet ground and lift the soil and stones on their tips. Shimobashira is a rising cut from gedan, low guard, upward through the target, and as it passes, Nagi's cold draws the water in the ground under the target, and in the target itself, up to the freezing edge, where it locks into needle columns that heave upward. Footing breaks, joints jam, and flesh is split from inside along the lines the ice grows. It costs about 14,000 EU on top of the release. It needs water to work with, so dry ground, fire or a body kept hot gives it little, and it is slow to grow. The tell is a white bloom of frost spreading across the ground under the target a breath before the cut. Counter it by moving off the frosting ground or keeping the ground or the body hot. Once the cut has passed, the slow-growing ice still depends on water and cold; warmth interrupts further growth, though it does not undo an injury already made.
+
+### Releases
 
 Like every bonded Moto blade, Kurosetsu answers to *Asami* while it sleeps. Sodoku's command is **"Shizume"** ("Be still"), from *shizumeru*, to quell or lay to rest, the root of *chinkon*, the rite for quieting the restless dead. Spoken aloud it brings the full rise; whispered or silent, the form comes weaker.
 
-**NAGI** · *The Dead Calm* [First Release, open at Stage VI] · The stillness of the sea at dawn, when the wind drops and the water lies flat as glass. On "Shizume", the frost in Kurosetsu's reforged resonance array takes hold of every vibration within about ten paces of the blade and answers it with its opposite, so a wave meets its own inverse and cancels. Whatever motion is left bleeds away as cold, since cold is simply stillness at the smallest scale. Sound dies, ringing steel goes dead in the hand, tremors flatten, and a blade swung into the calm arrives slower than it left. It is the answer to his father's art: where Hibi and Hibiware make things ring, Nagi makes them fall silent. It costs about 20,000 EU to wake and 2,500 EU a second to hold, paid in the cold coming back into his own hands and forearms as numbness and, held long, frostnip. It also stills him: his own speed inside it drops, and the Kamigan reads sluggishly through the cold. Force too large and too disordered to answer, such as noise or Calamity, swamps it; heat feeds motion back faster than the calm can take it out; and pure steady pressure with no vibration in it gives it nothing to cancel. The tell is his breath-plume freezing in the air in front of his face and every sound within ten paces going flat, like a room hung with snow.
+**NAGI · The Dead Calm (First Release, open at Stage VI)** · folk name: Koiguchi
 
-**SHIMOBASHIRA** · *Needle Ice* [Nagi, signature strike] · On freezing nights, columns of ice grow up out of wet ground and lift the soil and stones on their tips. Shimobashira is a rising cut from gedan, low guard, upward through the target, and as it passes, Nagi's cold draws the water in the ground under the target, and in the target itself, up to the freezing edge, where it locks into needle columns that heave upward. Footing breaks, joints jam, and flesh is split from inside along the lines the ice grows. It costs about 14,000 EU on top of the release. It needs water to work with, so dry ground, fire or a body kept hot gives it little, and it is slow to grow. The tell is a white bloom of frost spreading across the ground under the target a breath before the cut. Counter it by moving off the frosting ground or keeping the ground or the body hot.
+The stillness of the sea at dawn, when the wind drops and the water lies flat as glass. On "Shizume", the frost in Kurosetsu's reforged resonance array takes hold of every vibration within about ten paces of the blade and answers it with its opposite, so a wave meets its own inverse and cancels. Whatever motion is left bleeds away as cold, since cold is simply stillness at the smallest scale. Sound dies, ringing steel goes dead in the hand, tremors flatten, and a blade swung into the calm arrives slower than it left. It is the answer to his father's art: where Hibi and Hibiware make things ring, Nagi makes them fall silent. It costs about 20,000 EU to wake and 2,500 EU a second to hold, paid in the cold coming back into his own hands and forearms as numbness and, held long, frostnip. It also stills him: his own speed inside it drops, and the Kamigan reads sluggishly through the cold. Force too large and too disordered to answer, such as noise or Calamity, swamps it; heat feeds motion back faster than the calm can take it out; and pure steady pressure with no vibration in it gives it nothing to cancel. The tell is his breath-plume freezing in the air in front of his face and every sound within ten paces going flat, like a room hung with snow. A white frost skin covers Kurosetsu while black-violet light brightens around Sodoku's hands; one thin metal note dies as the calm takes hold. Called, its existing working reaches the top of its own Grade. Silent, the frost, light and sound remain, but that rise is lost. From full, the stated costs allow 7 minutes 54.4 seconds before the release ends at 134,000 EU, with no other spending or replenishment. Taking Kurosetsu removes the blade's part of the calm. The call leaves a beat in which he can be interrupted, and the numb hands remain a weakness after the release ends.
 
-**CHINKON** · *The Requiem* [Second Release, locked until Stage VII] · The quieting of souls. The record holds only its shape: a stillness laid not on things but on what animates them against their nature, the bound, the seeded and the raised, laying them back down, and opening his Kōkan Totality Domain. It cannot be called in a Stage VI body. What would break him through is the open question his father's return has put to him.
+**CHINKON · The Requiem (Second Release, locked until Stage VII)** · folk name: Nukimi
 
----
+The quieting of souls. The record holds only its shape: a stillness laid not on things but on what animates them against their nature, the bound, the seeded and the raised, laying them back down, and opening his Kōkan Totality Domain. It cannot be called in a Stage VI body. What would break him through is the open question his father's return has put to him.
 
-## XI–XII · Axes and Resistances
+**Bonded weapon** · Kurosetsu; Asami while sealed. Its reforged frost resonance array carries Nagi's vibration-cancelling calm. Chinkon remains locked until Stage VII.
+
+## XI. Spirit Axes
 
 **Muken** *(father, dead)* — Foundational, still active. **Every ranking the Kamigan delivers answers a question his father taught him to ask.**
 
@@ -154,13 +248,17 @@ Like every bonded Moto blade, Kurosetsu answers to *Asami* while it sleeps. Sodo
 
 **Sonzai Moto** *(brother, separated)* — Heavy, unresolved. *The Kamigan's threat-queue on his whereabouts has never closed.*
 
+## XII. Resistances
+
 **Resistances** · Ancestral resistance to Essence-based debuffs, Filtration elevated. **Vulnerabilities:** Harmonics genuinely trails bloodline expectation — *a real gap, not a flavour note.* Dominion is seed-stage; **a practitioner with a mature Domain holds real structural advantage over him regardless of his raw spread.**
 
----
-
-## XIII–XV · Description, Psychology, Equipment
+## XIII. Physical Description
 
 Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straight, falling past the jaw and mostly ignored. **Muken's jaw**, wide-set and heavy, on a face that has finished arriving — *nineteen's softness replaced by something harder, precisely calibrated.* Amber-gold eyes carrying **the Kamigan's ring-lines at rest, three visible even passive**, with a faint flare at the outer ring when attention shifts. Five-eleven, broad through the shoulders, **technique-fighter proportions rather than mass.**
+
+His hair is dark as wet bark where the light does not catch it. The field coat gives his shoulders room to draw, its cuffs rubbed smooth where the hands pass through; the wide fur collar rests against the jaw. The three resting iris rings are the marks a stranger remembers.
+
+## XIV. Psychology
 
 | **Core Wound** | Watching his family die in a single night, **then answering it with a massacre the world won't let him live down** |
 |---|---|
@@ -171,15 +269,11 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 | **Voice** | **Slow iron cadence. Full, formal sentences, never a contraction, never small talk. Moves before he decides to.** When he speaks he says the whole of it, already ranked before it leaves him. **Processes rooms rather than scanning them.** He never means a joke; now and then a flat truth lands as one and he does not notice. Under stress goes quieter and shorter, not louder, *and reaches for the beads when no one is watching* |
 | **Dialogue Evolution** | At nineteen, grief-as-fuel. At twenty-two, more complex — **not softer, not cleaner, different, the way scar tissue differs from the skin it replaced** |
 
-**Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.* Bonded; sealed name *Asami*, awakened as Nagi, and Chinkon once he reaches Stage VII. Its reforged frost resonance array is what cancelled much of his father's Naifuru.
+### Voice block
 
-**Covenant Beads** · Non-magical, his father's, jade and iron worn smooth. **The only object carried continuously since the exile began.**
+**Speaker type** · A court-trained military commander delivering a judgment.
 
-**Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice. [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture|*The campaign form of Moto dress — see The Moto Bloodline — Material Culture.*]]
-
----
-
-### Voice
+**Chant tongue** · Moto's Japonic house tongue; the release command is "Shizume".
 
 **Notices first** · Where the weight in a room actually sits: whose hand is on whose throat, who is paying a price that does not show on the table, and which person in the room is the child. He reads the whole room before he speaks and speaks to the part that matters.
 
@@ -203,19 +297,32 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 
 **Sample line** · "He is thirty-one years old and he has never once taken advice about a woman, including from our father, who tried twice and stopped."
 
-## XVI–XVII · Temperance and Fractures
+## XV. Equipment
+
+**Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.* Bonded; sealed name *Asami*, awakened as Nagi, and Chinkon once he reaches Stage VII. Its reforged frost resonance array is what cancelled much of his father's Naifuru.
+
+**Covenant Beads** · Non-magical, his father's, jade and iron worn smooth. **The only object carried continuously since the exile began.**
+
+**Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice. [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture|*The campaign form of Moto dress — see The Moto Bloodline — Material Culture.*]]
+
+## XVI. Temperance Record
 
 **I Murmuring** complete — *ring-lines present at birth, ahead of formal awakening.* **II Welling** complete before age five, bloodline-accelerated. **III Ascension** complete — first verdict delivered through Kurosetsu. **IV Flourishing** complete — the heir period.
-> 
+
 > *The projection didn't cancel. Whether he is still oriented toward it is the open variable.*
 >
 > **V Splintering** · Complete, **Fracture Event** — the massacre and the exile.
 >
 > ***The crack is not damage. It is an opening, now closed, the seam load-bearing.***
+
 **VI Glory** · Active — the Crown at full visible output, rooms rearranging, Domain seed active.
 
 **VII Refraction** · Not reached. Projected: the Domain seed coheres into first true architecture.
+
 > **Bloodline ceiling projection, made when he was sixteen and intended to be a king: Stage XIII, full Totality Domain at Archon-class expression.**
+
+## XVII. Fracture Log
+
 **Fracture Log** · *The Massacre and Exile* — Tempering, Dominion. **Closed, load-bearing.** *Feature: the seam is stronger than the surrounding Crystal, a different colour than what was there before.* **·** ***The Unranked Category*** **— Judicium-Attraction junction. Processed, functional.** Feature: the room the Kamigan can't process and doesn't need to — where Yoko and Emira live inside his architecture.
 
 ---
@@ -223,12 +330,13 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 > *"Not a softer man. Not a cleaner one. But perhaps, for the first time in his life, a better one."*
 >
 > — Path of Sorrow, on the Scourge of Hell arc
+
 - [The Arctic Lion — Sovereign Configuration (Level 500)](Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md)
 - [Tōga (冬牙) — Winter Fang](Sodoku Moto/Tōga (冬牙) — Winter Fang.md)
 
----
+## Lore
 
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 #### Origin
 

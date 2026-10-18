@@ -1,35 +1,73 @@
 ---
+private: true
+type: character-card
 title: "Hild Ice (Stark) — The Sword Princess"
+subtitle: "The Sword Princess · The Bastard · The Season"
+culture: Kharven
+rung: full
+as_of: "The muster at Kharven-Seat, the morning of the ninth hour"
+sources: "Prior card; character and fow_line: Hild Ice; Fracture of Worlds Parts Four–Ten, Sixteen–Twenty-One and Twenty-Three; The Color of Essence; The Master Codex"
+pc: false
 ---
 
 # Hild Ice (Stark) — The Sword Princess
 
-**Say it** · HILD EYES
-
-*The Sword Princess · The Bastard · The Season*
-> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
->
-> **Full Name:** Hild Ice (Stark-Moto, unrecognized)
->
-> **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
->
-> **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
->
-> **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
->
-> **Status:** Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne
->
-> **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
->
-> **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
->
-> **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
->
-> **Status:** Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne
+**Hild Ice** · The Sword Princess · Kharven · as of the muster at Kharven-Seat, the morning of the ninth hour  
+**Stat line** · Level 78 · Band I, Mortal Foundation · Stage I, Murmuring (unstable, bloodline-driven) · Path not yet manifest · Initiate · η 0.30 · Aether Class unclassed · Crystal Awakened, Overgrown  
+**Combat grammar** · Blade  
+**Aura and sound** · colour: near-black with a buried ember-orange cast, opaque and wavering · signature sound: a thin, dry ticking like frost loosening from a window seam  
+**Stack** · sustainable F · cap +2 Grades, subject to the Stage I ceiling of E · layers: none  
+**Releases** · none at Stage I · bonded weapon: none  
+**Traits** · THE COLD (Inherited) · tell: the left jaw tightens and releases as the air cools · counter: insulation and a maintained source of warmth blunt the cold; leaving the chilled air ends exposure  
+**Techniques** · none developed; SHINGAN is forming but dormant, KAMIGAN unactivated  
+**Voice** · "If my father has truly changed. Who am I to deny him of his birthright." · speaker type: a child head of household repeating an adult's formal authority  
+**Next gate** · Stage II, Welling · Catalyst: first genuine contact with a Wellspring current under personal pressure · Band gate: Stage IV, Flourishing, before Level 100 can be surpassed
 
 ---
 
-## Physical Description
+## I. Identity
+
+**Full Name** · Hild Ice (Stark-Moto, unrecognized)  
+**Pronunciation** · HILD EYES  
+**Alias / Title** · The Sword Princess · Hild Ice · The Bastard of Kharven  
+**Also Known As** · The Bastard · The Season  
+**Age** · 11  
+**Bloodline** · Kōkan Line (paternal) / Stark (maternal)  
+**Realm / Faction** · Kharven · Kokan Loyalist Coalition  
+**Status** · Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne  
+**School and sect rank** · Lorn Stark's private sword instruction; no sect rank  
+**Renown** · public: The Sword Princess, Hild Ice, The Bastard of Kharven · army: the girl who held the eastern road with frontier volunteers and received the broken Kōkan houses · sects and guilds: no recorded standing  
+**Refusal** · She will not have a helpless prisoner killed for calling her a bastard.  
+**Conviction** · A ruler owes her people the work of her own hands, even when that work is too heavy for a child.
+
+> *"The name is Ice. The name sounds like winter. And winter is the thing the north was built to survive, and winter is the thing that is coming, and winter is the thing I am."*
+
+## II. Soul Architecture
+
+**Level** · 78  
+**Band** · I, Mortal Foundation  
+**Temperance Stage** · I, Murmuring (unstable, bloodline-driven)  
+**Path** · Not yet manifest  
+**Tier of Standing** · Initiate  
+**η** · 0.30  
+**Soul Crystal Tier** · Awakened  
+**Crystal State** · Overgrown  
+**Aether Class** · Unclassed  
+**Essence Typology** · Caloria  
+**Sustainable Grade** · F  
+**Stage ceiling** · E; Sub-Stat ceiling 50
+
+## VII. Aether Flow
+
+**EU Reserve** · 26,275 EU
+
+## VIII. Traits
+
+**THE COLD (Inherited Trait)**
+
+Hild's Kokan inheritance expresses under stress as involuntary ambient temperature reduction. This is not a technique. She has not been trained. She does not control it. The cold arrives when the blood responds to the specific stimulus of threat or insult or the particular emotional pressure that governance produces in an eleven-year-old who should not be governing and who is governing anyway. The expression is raw Vohrin-adjacent resonance carried through Kōkan blood that has not been taught what it is doing. The Kamigan has not activated. The Shingan is forming but dormant. The cold is the blood speaking a language the girl does not yet understand, and the speaking is the promise, and the promise is: what she will become when the blood finishes what the blood has started. Each flare spends her own reserve and leaves her chilled and tired. The left jaw tightens and releases before the air cools; the thin ticking follows the first frost. She cannot choose a target, set the temperature or call the effect at will. Thick clothing and a maintained source of warmth blunt its effect on a body, and leaving the chilled air ends exposure. The cold gives her no defence against a blade that reaches her.
+
+## XIII. Physical Description
 
 Eleven years old and carrying the architecture of a dynasty in a body that has not finished growing.
 
@@ -41,17 +79,11 @@ Her body is a frontier body. Not the sculpted architecture of a trained practiti
 
 Her feet do not touch the floor when she sits on the throne. The dangling is the age. The voice is the blood.
 
----
+## XIV. Psychology
 
-## The Cold
+### Voice
 
-Hild's Kokan inheritance expresses under stress as involuntary ambient temperature reduction. This is not a technique. She has not been trained. She does not control it. The cold arrives when the blood responds to the specific stimulus of threat or insult or the particular emotional pressure that governance produces in an eleven-year-old who should not be governing and who is governing anyway.
-
-The expression is raw Vohrin-adjacent resonance carried through Kōkan blood that has not been taught what it is doing. The Kamigan has not activated. The Shingan is forming but dormant. The cold is the blood speaking a language the girl does not yet understand, and the speaking is the promise, and the promise is: what she will become when the blood finishes what the blood has started.
-
----
-
-## Voice
+**Speaker type** · A child head of household repeating an adult's formal authority.
 
 **Notices first** · The chairs against the people in them, and the second sentence a man says rather than his first. Then whatever in the room is hers to carry, and whether anyone is about to take it from her.
 
@@ -75,23 +107,9 @@ The expression is raw Vohrin-adjacent resonance carried through Kōkan blood tha
 
 **Sample line** · "If my father has truly changed. Who am I to deny him of his birthright."
 
----
+## XV. Equipment
 
-## Key Relationships
-
-| **Sodoku Moto (father)** | Met him first at the north gate of Kharven-Seat, when he came north, and ran into his breastplate. Carries his jaw, his cadence, his blood. Knew him until then only through Fern's stories, the version that is not the Butcher. The question behind the sternum: *where were you* |
-|---|---|
-| **Fern Stark (mother, deceased)** | Died when Hild was 8-9. Taught her the braid, the altar, the prayer of the hands. The winterbell flowers. The iron ring. The definition of prayer: the work of your own hands offered without anyone watching |
-| **Lorn Stark (uncle)** | Fern's brother. Raised her after Fern died. Gave her the wooden sword. Gave her the steel sword. The man whose love is the thing that gets her off the floor and whose love is also the thing that sometimes makes his counsel wrong, because love protects from the thing the loved needs to face |
-| **Osric of Hallenfeld (uncle)** | Kōkan cadet survivor. The man who recognized the jaw. His love is dynastic. He counseled the move to Kharven-Seat. The strategist whose patience built the coalition from pieces that had been enemies |
-| **Edward Lambert (right hand)** | The Arithmetic. Does not love her. Serves her. Taught her how to count, how to listen to the second sentence, how to read the empty chair. Stands three paces behind and to the right. Nods once when she is correct |
-| **Brida Ashwell (physician)** | The warmth. The woman who sees the child underneath the wall. Brings willowbark when the body needs it before the body knows. The only person who tells Hild to eat and means it |
-| **Bram Greymane (ally)** | Godfrey's grandson. Commands the southern approach with half an army, while the Greymane ridge guards the west. Has never met Hild but received her message: "The ridge does not move." The message was the alliance |
-| **Renard Greymane (guard)** | Bram's cousin. Stands to the left of the throne. Hand on sword. The Greymane function: be the thing between the throne and the threat |
-
----
-
-## Standing Inventory
+### Standing Inventory
 
 **The broken circlet.** Her one regalia object, and she does not wear it. On the morning of the ninth hour she carried it down into the yard in her hand rather than on her head, set it on the mounting block and forgot it, and Lorn Stark picked it up and put it in his belt. The event is under Lore, at Where They Stand. Four of the five scenes that name the object call it broken; the fifth, *Recalescence*, says only that it was not on her head. No scene describes a repair, so it is broken and unmended. Her worn kit is the quilted gambeson, the wool tunic, the iron-nailed boots and Lorn's short blade at her left hip. The circlet is not among them, and has not been since that morning.
 
@@ -101,11 +119,9 @@ The expression is raw Vohrin-adjacent resonance carried through Kōkan blood tha
 
 ---
 
-> *"The name is Ice. The name sounds like winter. And winter is the thing the north was built to survive, and winter is the thing that is coming, and winter is the thing I am."*
+## Lore
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the 28 archived scenes it appears in, and the record of Hild's council: the Kōkan Loyalist Coalition. What those sources do not state is new here.*
 
@@ -171,3 +187,15 @@ She lies under one of three stones in the upper burying ground at Kharven-Seat, 
 - **Ayame Yuno** · grandmother. Her mother's altar stood in Ayame's room.
 - **Yoko Mishiro** · her father's wife. She answered Hild's first question about him plainly and would not stoop to her height.
 - **Pietro Ashmore** · enemy spared. He called her a bastard in her grandfather's hall and went home alive on her order.
+
+### Key Relationships
+
+| **Sodoku Moto (father)** | Met him first at the north gate of Kharven-Seat, when he came north, and ran into his breastplate. Carries his jaw, his cadence, his blood. Knew him until then only through Fern's stories, the version that is not the Butcher. The question behind the sternum: *where were you* |
+|---|---|
+| **Fern Stark (mother, deceased)** | Died when Hild was 8-9. Taught her the braid, the altar, the prayer of the hands. The winterbell flowers. The iron ring. The definition of prayer: the work of your own hands offered without anyone watching |
+| **Lorn Stark (uncle)** | Fern's brother. Raised her after Fern died. Gave her the wooden sword. Gave her the steel sword. The man whose love is the thing that gets her off the floor and whose love is also the thing that sometimes makes his counsel wrong, because love protects from the thing the loved needs to face |
+| **Osric of Hallenfeld (uncle)** | Kōkan cadet survivor. The man who recognized the jaw. His love is dynastic. He counseled the move to Kharven-Seat. The strategist whose patience built the coalition from pieces that had been enemies |
+| **Edward Lambert (right hand)** | The Arithmetic. Does not love her. Serves her. Taught her how to count, how to listen to the second sentence, how to read the empty chair. Stands three paces behind and to the right. Nods once when she is correct |
+| **Brida Ashwell (physician)** | The warmth. The woman who sees the child underneath the wall. Brings willowbark when the body needs it before the body knows. The only person who tells Hild to eat and means it |
+| **Bram Greymane (ally)** | Godfrey's grandson. Commands the southern approach with half an army, while the Greymane ridge guards the west. Has never met Hild but received her message: "The ridge does not move." The message was the alliance |
+| **Renard Greymane (guard)** | Bram's cousin. Stands to the left of the throne. Hand on sword. The Greymane function: be the thing between the throne and the threat |

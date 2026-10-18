@@ -1,16 +1,41 @@
 ---
+private: true
+type: character-card
 title: "Aurelian Prudentius Custos Clausorum · The Primate"
+subtitle: "Primate of the Grand Church · The Word of Judger · Verbum Iudicis"
+culture: "Mahuo of Sum-gol; Concordia institutional register"
+rung: full
+as_of: "After the crater in the Vaeloris quarter"
+sources: "Existing character card; character and fow_line retrievals; Fracture of Worlds; The Master Codex; The Color of Essence; Release Forms"
+pc: false
 ---
 
 # Aurelian Prudentius Custos Clausorum · The Primate
 
-**Say it** · aw-RAY-lee-an proo-DEN-tee-oos KOOS-tohs klow-SOH-room
-
-## Primate of the Grand Church · The Word of Judger · Verbum Iudicis
+**Aurelian Prudentius Custos Clausorum** · The Primate · Mahuo of Sum-gol, Concordia register · as of after the crater in the Vaeloris quarter  
+**Stat line** · Level 500/500 · Band V, Absolute · Stage XIV, Zenith · Path Fate, with Attraction commitments · Archmaster · η 1.06 · Aether Class Ω, Absolute · Crystal Absolute Crystal, Refined  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: near-white with a ghost of black-violet · signature sound: a low bell note caught before its ending  
+**Stack** · sustainable EX in six Primaries, X Vitality, SSS Dexterity · cap +2 Grades · layers: one release form at a time; no additional boost assigned to the standing Refusal  
+**Releases** · THE UNFINISHED MAN (First) / THE COURT BETWEEN BREATHS (Second) / THE LAST THING UNSAID (Third) · bonded weapon: none  
+**Traits** · NOTHING REACHES HIM IN TIME (Primary) · tell: breath held before an answer · counter: an act completed before the hold seats / HE WILL NOT BE THE ONE (Secondary) · tell: agreement without a sentence · counter: an independent decision outside his assent / THE WARM HAND (Passive) · tell: skin 1.8 °C above baseline · counter: gives no protection against a completed blow  
+**Techniques** · THE HELD BREATH · tell: chest still, warmth gathering · counter: finish before suspension seats / THE STILL COURT · tell: palms on structure, readings fall silent · counter: a second chamber beyond 80 metres / NOTHING UNFINISHED CAN BE JUDGED · tell: correct null reading · counter: establish a completed act  
+**Voice** · "You are in it too, Master Sesk. That is the part people miss. It is not a curse laid on you by me." · speaker type: a senior ecclesiastical judge trained in conciliation
 
 ---
 
-## I. IDENTITY
+## I. Identity
+
+**Full Name** · Aurelian Prudentius Custos Clausorum  
+**Pronunciation** · aw-RAY-lee-an proo-DEN-tee-oos KOOS-tohs klow-SOH-room
+
+**School and sect rank** · Mahuo suspension learned at Sum-gol; Sancta Lux, Primate and Word of Judger, Ladder of Standing rung VI.
+
+**Renown** · public: the Kind Verdict; army: distrusted by the Arbiter-Militant wing for never sentencing; sects: doctrinal supremacy in Sancta Lux; guilds: the Warm Hand among Measurewrights.
+
+**Refusal** · He will not name a culprit merely to make an injury fit the instrument.
+
+**Conviction** · What happened to Sum-gol must remain answerable even where no completed act can be weighed.
 
 **As Of:** After the crater in the Vaeloris quarter
 
@@ -34,7 +59,13 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## II. SOUL ARCHITECTURE
+## II. Soul Architecture
+
+**Path** · Fate, with Attraction commitments expressed through the Mahuo field and Domain authority.
+
+**Crystal State** · Refined; the unresolved fracture remains part of the architecture.
+
+**Essence Typology** · Limina primary, with Vitalia and Fulguria cross.
 
 **Level:** 500/500 · **Band:** V — Absolute (Levels 401–500)
 
@@ -52,7 +83,7 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## III. WELLSPRING HARMONIZATIONS
+## III. Wellspring Harmonizations
 
 **Lethegraal — Primary.** Limina · **Abstract and Entropic Systems.** The Wellspring of sequence, cycle, and the clean line between two events. Its real-world analogue is the thermodynamics of information: **erasure is not free.** Destroying a bit of information has a hard minimum energy cost that must be paid as heat, and a system that erases nothing pays nothing. **Suspension is the loophole.** A thing held mid-sequence has not been erased and has not completed, and it costs nothing at all to hold, and the entire accrued cost waits at the far end for whoever eventually lets it finish. Aurelian's whole architecture is that loophole and his body is the vessel it accrues in.
 
@@ -62,7 +93,18 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## IV. PRIMARY STATS
+## IV. Primary Stats
+
+| Primary | Total | Mean | Grade |
+|---|---:|---:|---|
+| Vitality | 8,456 | 1,057 | X |
+| Ardency | 9,632 | 1,204 | EX |
+| Gnosis | 11,744 | 1,468 | EX |
+| Dexterity | 7,584 | 948 | SSS |
+| Harmonics | 11,104 | 1,388 | EX |
+| Resilience | 10,368 | 1,296 | EX |
+| Tempering | 11,296 | 1,412 | EX |
+| Dominion (seven, Throne apart) | 10,087 | 1,441 | EX |
 
 **Gnosis 1,468 · EX-Grade** — his peak and not close. Retention, Diagnosis, Memorium all at ceiling. He has read every sealed finding the order holds and has forgotten none of them, **which is a stat and also the reason he sleeps four hours**
 
@@ -82,7 +124,7 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## V. SUB-STAT PEAKS
+## V. Sub-Stats
 
 **Gnosis Retention · Gnosis Diagnosis · Gnosis Memorium** — total recall of the Sealed Standard archive and the capacity to hold every suspended clause loaded simultaneously without paging any of them out
 
@@ -96,7 +138,7 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## VI. PHYSICAL FORCE
+## VI. Physical Force
 
 **Travel Speed:** **Immeasurable classification at full expression.** At Zenith the practitioner does not move through space; in the limit case they exist in all relevant positions simultaneously until they choose otherwise. **In practice he walks, slowly, and stops on stairs**
 
@@ -108,7 +150,13 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## VII. AETHER FLOW
+## VII. Aether Flow
+
+**Flux Density** · 12,950,000,000/53 EU/g.
+
+**Full-output ceiling** · 259,000,000 AU/s; Flux Density × 1.06 = 259,000,000.
+
+**Starvation clock** · At that ceiling, a full reserve reaches the 240,000,000 EU safety floor after 2,160/259 seconds, about 8.34 seconds, without recovery. The empty-reserve time is 2,400/259 seconds. Passive suspension and active release carry separate costs below.
 
 **EU Reserve:** **2,400,000,000.**
 
@@ -118,13 +166,23 @@ title: "Aurelian Prudentius Custos Clausorum · The Primate"
 
 ---
 
-## VIII. TRAITS
+## VIII. Traits
 
-**The Warm Hand** — his skin surface reads **1.8 °C above ambient baseline, permanently, since he was twenty-seven.** Passive, involuntary, and it cannot be switched off. Erasure has a thermodynamic floor and suspension defers it rather than avoiding it, and thirty-one years of deferred cost has to sit somewhere while it waits. It sits in him. The Grand Church physicians have written it up as a chronic idiopathic pyrexia four times. **He has read all four reports and corrected none of them.** / **Nothing Reaches Him In Time** — no working, ward, oath, curse, or reading that requires a completed act to bind can bind him, because he has not finished anything since he was twenty-seven. It is not a defence he raises. It is a structural property of a man in permanent suspension, and it is the single most useful thing about him and the single most frightening. / **He Will Not Be The One** — his defining cognitive trait and his wound worn as capability. He is the only Ladder VI in the order's recorded history to have **never once converted a finding into a sentence**, and the Register's execution column under his name is thirty-one years of empty rows. The Arbiter-Militant wing considers this cowardice. The Arbiter-Lector wing considers it the only honest reading of the post-Bastion architecture. **Both wings are describing the same man and neither has asked him**
+**THE WARM HAND (Passive Trait)**
+
+his skin surface reads **1.8 °C above ambient baseline, permanently, since he was twenty-seven.** Passive, involuntary, and it cannot be switched off. Erasure has a thermodynamic floor and suspension defers it rather than avoiding it, and thirty-one years of deferred cost has to sit somewhere while it waits. It sits in him. The Grand Church physicians have written it up as a chronic idiopathic pyrexia four times. **He has read all four reports and corrected none of them.** Tell: the permanent warmth is felt through a handshake. Its cost is the stated fever and falling Longevity; it supplies no armour, healing or protection against a completed blow. Its heat remains detectable while his expression is otherwise quiet.
+
+**NOTHING REACHES HIM IN TIME (Primary Trait)**
+
+no working, ward, oath, curse, or reading that requires a completed act to bind can bind him, because he has not finished anything since he was twenty-seven. It is not a defence he raises. It is a structural property of a man in permanent suspension, and it is the single most useful thing about him and the single most frightening. It keeps the final binding step open in his standing suspension and shares that suspension's bodily cost; it has no separate reserve upkeep. The tell is the stopped breath before a clause closes. An act already finished before his hold seats bypasses it, and an opponent at his own Stage can contest the field through Dominion without first obtaining his assent.
+
+**HE WILL NOT BE THE ONE (Secondary Trait)**
+
+his defining cognitive trait and his wound worn as capability. He is the only Ladder VI in the order's recorded history to have **never once converted a finding into a sentence**, and the Register's execution column under his name is thirty-one years of empty rows. The Arbiter-Militant wing considers this cowardice. The Arbiter-Lector wing considers it the only honest reading of the post-Bastion architecture. **Both wings are describing the same man and neither has asked him** It keeps intention from passing into an authorised sentence; it does not remove another person's ability to decide. His complete agreement followed by another adjournment is the tell. The cost is the responsibility and consequence left accumulating in his office. A decision that does not require his assent remains a decision he cannot prevent merely by refusing his own.
 
 ---
 
-## IX. DOMAIN
+## IX. Domain
 
 **SUM-CHAM · 숨참 · The Held Breath**
 
@@ -138,99 +196,43 @@ Within Sum-cham, **nothing completes.** Not slowed, not stopped, not reversed. S
 
 Aurelian knows this better than any living practitioner and he built his entire office on it anyway. **He has run the Word of Judger the way he runs the Domain: nothing released, nothing erased, nothing finished, and a bill accruing somewhere out past the edge of his own tenure.** The Seventh Objection has been sealed for three centuries and he has personally held it for eleven years, and the difference between a sealed vault and Sum-cham is only that the vault does not run a fever.
 
----
-
-## X. TECHNIQUES
-
-**THE HELD BREATH** · *Signature · Lethegraal · Suspension*
-
-*"Nondum. Nondum. Nondum."* — Not yet. Not yet. Not yet.
-
-**Trigger:** He stops breathing. That is the entire trigger and it is not ceremonial. The suspension seats on the interval, and the interval must be real.
-
-**Function:** He suspends a single act, clause, working, or finding at the instant before its final state resolves, and holds it there.
-
-**Mechanism:** Abstract and Entropic Systems, with the Vitalia half running on his own body. **Erasing information has a hard thermodynamic minimum: roughly 2.97 × 10⁻²¹ Joules per bit at body temperature, released as heat, unavoidably.** A suspended state has not been erased. It has not completed. **The Continuum charges nothing to hold it, which is why Aurelian can hold thousands, and charges everything at release, which is why he releases almost nothing.** The Mahuo lattice seats the suspension in the ambient Wellspring field rather than in his own Shell, so the holding does not draw on his reserve. **The accrued release cost has nowhere else to wait, and it waits in him, as heat.**
-
-**Numerical Effect:** No upper bound on count. No upper bound on duration. **The oldest suspension he currently holds is thirty-one years old and he has never described what it is.**
-
-**Target Response:** Nothing. The target experiences an interval that does not end, without ever noticing it began, because noticing would be a completed act.
-
-**Limitation:** **He cannot release selectively in any order but the order of suspension.** A stack released is a stack released from the bottom.
-
-**Weakness:** Every suspension is a debt with his name on the far end. **The fever is the interest.**
-
-**Cost:** 1.8 °C, continuously, for thirty-one years, and the Grand Church's physicians have told him what a sustained low-grade pyrexia does to a Crystal's Longevity architecture over four decades. **He has the reports. He files them.**
-
-**Counterplay:** Force completion. Anything that closes a clause faster than he can seat the interval lands normally, which means **fast, simple, finished acts beat him and elaborate ones do not.** The Enforcement Division worked this out in nine years and has never written it down.
-
-**Codex Assignment:** [StSl] Still-Sleep · [Leth] Blood · [Sel] Measure · Primary Lethegraal · Secondary Anima Spirare · Tertiary Judicium · Limina primary with Vitalia and Fulguria cross · Abstract and Entropic Systems. **Cross-family: [Leth] Blood is a Vitalia/Biochemistry assignment operating inside a Limina working, and it is doing the seating rather than the suspending**
-
-**First Display:** Low stakes, deliberately. A dropped censer in the Sanctified Hall that does not hit the floor for the length of a sentence, and a Primate who was looking somewhere else, and an Attestant who is the only person who saw it.
-
-**Sensory Description:** He stops speaking mid-clause and does not inhale. The room gets fractionally warmer near him. **When it resumes, the censer lands, and it lands hard enough to dent, because it has been falling the whole time.**
-
-**Corruption Vector:** An Obsession-Force suspension does not release. It cannot. The holder discovers that the accrued cost has grown past what any release could survive, and the only remaining option is to keep holding, forever, **which is not a choice the technique makes for you and is the choice every practitioner of it has made.**
-
-**THE STILL COURT** · *Tenebra · Resonance Nullification · Field*
-
-*"Nemo hic ponderat."* — No one weighs here.
-
-**Trigger:** He sets both palms flat on a surface the room is built on. Floor, table, altar rail. It must be structural.
-
-**Function:** Every reading, finding, and sentence attempted within the chamber returns null for the duration. Not falsified. **Unavailable.**
-
-**Mechanism:** Abstract and Entropic Systems. Judicium reads an architectural spectrum and that spectrum is only information when compared against a reference. **Tenebra does not corrupt the spectrum and does not touch the reference.** It mutes the resonance the comparison runs on, and a comparison with no medium does not produce a wrong answer. It produces no answer, and every instrument in the room reports correctly that it has nothing to report.
-
-**Numerical Effect:** Chamber-scale, **up to roughly 80 metres**, hard-edged. One step past the threshold and the instruments work again.
-
-**Target Response:** Measurewrights describe it as the specific silence of a held bell. Arbiters describe it as being unable to remember what the question was.
-
-**Limitation:** **It nulls his own readings too, symmetrically, and he has never found a way to exempt himself and has published that he stopped looking.**
-
-**Weakness:** It is enormously conspicuous to anyone above Lector. **Using it is a confession that something in the room should not be weighed**, and he has used it four times in eleven years and all four are in the sealed appendix.
-
-**Cost:** Comparatively cheap and that is the problem with it.
-
-**Counterplay:** Leave the room. Take the reading outside. **Sancta Lux's own procedure already requires readings to be retaken in a second chamber, which Aurelian wrote into the manual himself at thirty-four, eleven years before he could do this.**
-
-**Codex Assignment:** [Thal] Silence · [Ur] Balance · [Len] Line · Primary Tenebra · Secondary Judicium · Limina primary with Fulguria cross · Abstract and Entropic Systems. **Cross-family: [Ur] Balance is Judicium/Fulguria/Electromagnetism and is being used here to define the boundary rather than to measure across it**
-
-**First Display:** A Threshold hearing on a junior Arbiter, a Primate who puts his hands on the rail without announcing anything, and a panel that adjourns without ever working out why it could not proceed.
-
-**Sensory Description:** The two standing lamps do not change. **Nothing changes. Everyone in the room checks their own instrument twice and then looks at the floor**
-
-**Corruption Vector:** Obsession-Force Tenebra does not null the chamber. It nulls the practitioner, permanently, and a soul that cannot be weighed cannot be found, mourned, inherited from, or buried.
-
-**NOTHING UNFINISHED CAN BE JUDGED** · *Passive · Vow · The Refusal*
-
-*"Actus perfectus ponderatur. Cetera taceo."* — The completed act is weighed. Of the rest I say nothing.
-
-**Trigger:** Permanent, unconditional, and a property of the instrument rather than a decision of his.
-
-**Function:** The Oracle weighs completed acts. **An act that has not closed presents nothing to weigh and returns null, and the null is not an error.** Aurelian is the only person alive who both knows this from the inside and holds the standing to amend the reference.
-
-**Mechanism:** Electromagnetism, and specifically the fact that a spectrum requires a completed emitter. Sel-Ur does not bend and has never been wrong, **because it has never made a claim**, and a null return is the instrument correctly reporting that the world has not yet given it anything.
-
-**Numerical Effect:** No figure. **The absence of a figure is the entire doctrinal problem and has been for eleven hundred years.**
-
-**Target Response:** **Cozbi Mahuo's numbered works return no reading at all.** The order has known about the seam for a decade, has no answer to it that does not require amending the reference, and has never once considered that its own Word could explain the seam in a sentence. **He learned it in the valley before he could read.** He has not told them. He has told himself four separate reasons why and has stopped finding any of them sufficient.
-
-**Limitation:** Absolute and symmetrical. **It applies to what happened at Sum-gol.** No clause closed. No party finished anything. The most honest measuring device in the four worlds returns null on the death of his family and it is correct to.
-
-**Weakness:** A patient enemy who never completes anything is invisible to Sancta Lux entirely. **There is one, he is Mahuo, and he is at Stage XIV.**
-
-**Cost:** Thirty-nine years and the whole of the man.
-
-**Counterplay:** Make him finish something. **It has been attempted twice by people who understood the problem and both attempts were on his life, on the reasoning that dying is a completed act.**
-
-**Codex Assignment:** [Sel] Measure · [Ed] Edgetruth · [Cro] Cycle · Primary Judicium · Secondary Lethegraal · Fulguria primary with Limina cross · Electromagnetism
-
-**First Display:** A routine reading on a routine case, and a null return, and a Lector who says *instrument fault* and a Primate who says nothing at all
+**Release connection** · THE COURT BETWEEN BREATHS opens and powers the actively contested seat; THE LAST THING UNSAID carries it into its fullest Realm expression. Both retain Sum-cham's roughly thirty-kilometre outer reach. Their reserve drain pays for imposing and defending the boundary, without cancelling the old suspension's deferred bill. A competing Dominion can move that boundary back. Closing the field releases its held consequences in their original order.
 
 ---
 
-## XI. SPIRIT AXES
+## X. Techniques
+
+**THE HELD BREATH (Signature Technique)** · *Signature · Lethegraal · Suspension*
+
+*"Nondum. Nondum. Nondum."* — Not yet. Not yet. Not yet. **Trigger:** He stops breathing. That is the entire trigger and it is not ceremonial. The suspension seats on the interval, and the interval must be real. **Function:** He suspends a single act, clause, working, or finding at the instant before its final state resolves, and holds it there. **Mechanism:** Abstract and Entropic Systems, with the Vitalia half running on his own body. **Erasing information has a hard thermodynamic minimum: roughly 2.97 × 10⁻²¹ Joules per bit at body temperature, released as heat, unavoidably.** A suspended state has not been erased. It has not completed. **The Continuum charges nothing to hold it, which is why Aurelian can hold thousands, and charges everything at release, which is why he releases almost nothing.** The Mahuo lattice seats the suspension in the ambient Wellspring field rather than in his own Shell, so the holding does not draw on his reserve. **The accrued release cost has nowhere else to wait, and it waits in him, as heat.** **Numerical Effect:** No upper bound on count. No upper bound on duration. **The oldest suspension he currently holds is thirty-one years old and he has never described what it is.** **Target Response:** Nothing. The target experiences an interval that does not end, without ever noticing it began, because noticing would be a completed act. **Limitation:** **He cannot release selectively in any order but the order of suspension.** A stack released is a stack released from the bottom. **Weakness:** Every suspension is a debt with his name on the far end. **The fever is the interest.** **Cost:** 1.8 °C, continuously, for thirty-one years, and the Grand Church's physicians have told him what a sustained low-grade pyrexia does to a Crystal's Longevity architecture over four decades. **He has the reports. He files them.** **Counterplay:** Force completion. Anything that closes a clause faster than he can seat the interval lands normally, which means **fast, simple, finished acts beat him and elaborate ones do not.** The Enforcement Division worked this out in nine years and has never written it down. **Codex Assignment:** [StSl] Still-Sleep · [Leth] Blood · [Sel] Measure · Primary Lethegraal · Secondary Anima Spirare · Tertiary Judicium · Limina primary with Vitalia and Fulguria cross · Abstract and Entropic Systems. **Cross-family: [Leth] Blood is a Vitalia/Biochemistry assignment operating inside a Limina working, and it is doing the seating rather than the suspending** **First Display:** Low stakes, deliberately. A dropped censer in the Sanctified Hall that does not hit the floor for the length of a sentence, and a Primate who was looking somewhere else, and an Attestant who is the only person who saw it. **Sensory Description:** He stops speaking mid-clause and does not inhale. The room gets fractionally warmer near him. **When it resumes, the censer lands, and it lands hard enough to dent, because it has been falling the whole time.** **Corruption Vector:** An Obsession-Force suspension does not release. It cannot. The holder discovers that the accrued cost has grown past what any release could survive, and the only remaining option is to keep holding, forever, **which is not a choice the technique makes for you and is the choice every practitioner of it has made.** Its sound is a single low note cut off before it can fade. Before contact, a simple act completed before his breath-hold seats reaches him normally. During the hold, a competing Dominion at his own Stage can contest the ambient seat; breaking it carries the stated release danger. After collapse, the accumulated consequences have resumed and cannot be treated as still held. No EU exhaustion time applies to a seated suspension alone; its stated price is bodily and deferred.
+
+**THE STILL COURT (Field Technique)** · *Tenebra · Resonance Nullification · Field*
+
+*"Nemo hic ponderat."* — No one weighs here. **Trigger:** He sets both palms flat on a surface the room is built on. Floor, table, altar rail. It must be structural. **Function:** Every reading, finding, and sentence attempted within the chamber returns null for the duration. Not falsified. **Unavailable.** **Mechanism:** Abstract and Entropic Systems. Judicium reads an architectural spectrum and that spectrum is only information when compared against a reference. **Tenebra does not corrupt the spectrum and does not touch the reference.** It mutes the resonance the comparison runs on, and a comparison with no medium does not produce a wrong answer. It produces no answer, and every instrument in the room reports correctly that it has nothing to report. **Numerical Effect:** Chamber-scale, **up to roughly 80 metres**, hard-edged. One step past the threshold and the instruments work again. **Target Response:** Measurewrights describe it as the specific silence of a held bell. Arbiters describe it as being unable to remember what the question was. **Limitation:** **It nulls his own readings too, symmetrically, and he has never found a way to exempt himself and has published that he stopped looking.** **Weakness:** It is enormously conspicuous to anyone above Lector. **Using it is a confession that something in the room should not be weighed**, and he has used it four times in eleven years and all four are in the sealed appendix. **Cost:** Comparatively cheap and that is the problem with it. **Counterplay:** Leave the room. Take the reading outside. **Sancta Lux's own procedure already requires readings to be retaken in a second chamber, which Aurelian wrote into the manual himself at thirty-four, eleven years before he could do this.** **Codex Assignment:** [Thal] Silence · [Ur] Balance · [Len] Line · Primary Tenebra · Secondary Judicium · Limina primary with Fulguria cross · Abstract and Entropic Systems. **Cross-family: [Ur] Balance is Judicium/Fulguria/Electromagnetism and is being used here to define the boundary rather than to measure across it** **First Display:** A Threshold hearing on a junior Arbiter, a Primate who puts his hands on the rail without announcing anything, and a panel that adjourns without ever working out why it could not proceed. **Sensory Description:** The two standing lamps do not change. **Nothing changes. Everyone in the room checks their own instrument twice and then looks at the floor** **Corruption Vector:** Obsession-Force Tenebra does not null the chamber. It nulls the practitioner, permanently, and a soul that cannot be weighed cannot be found, mourned, inherited from, or buried. Its onset makes the room's reading-hum stop sharply. At full chamber size the active field draws 1,200,000 EU each second, 0.05% of full reserve, reaching the tenth-reserve floor after 30 minutes from full without recovery. It ends before Starvation. The boundary remains symmetric and hard-edged, and a reading outside it remains valid.
+
+**NOTHING UNFINISHED CAN BE JUDGED (Passive Technique; Vow)** · *Passive · Vow · The Refusal*
+
+*"Actus perfectus ponderatur. Cetera taceo."* — The completed act is weighed. Of the rest I say nothing. **Trigger:** Permanent, unconditional, and a property of the instrument rather than a decision of his. **Function:** The Oracle weighs completed acts. **An act that has not closed presents nothing to weigh and returns null, and the null is not an error.** Aurelian is the only person alive who both knows this from the inside and holds the standing to amend the reference. **Mechanism:** Electromagnetism, and specifically the fact that a spectrum requires a completed emitter. Sel-Ur does not bend and has never been wrong, **because it has never made a claim**, and a null return is the instrument correctly reporting that the world has not yet given it anything. **Numerical Effect:** No figure. **The absence of a figure is the entire doctrinal problem and has been for eleven hundred years.** **Target Response:** **Cozbi Mahuo's numbered works return no reading at all.** The order has known about the seam for a decade, has no answer to it that does not require amending the reference, and has never once considered that its own Word could explain the seam in a sentence. **He learned it in the valley before he could read.** He has not told them. He has told himself four separate reasons why and has stopped finding any of them sufficient. **Limitation:** Absolute and symmetrical. **It applies to what happened at Sum-gol.** No clause closed. No party finished anything. The most honest measuring device in the four worlds returns null on the death of his family and it is correct to. **Weakness:** A patient enemy who never completes anything is invisible to Sancta Lux entirely. **There is one, he is Mahuo, and he is at Stage XIV.** **Cost:** Thirty-nine years and the whole of the man. **Counterplay:** Make him finish something. **It has been attempted twice by people who understood the problem and both attempts were on his life, on the reasoning that dying is a completed act.** **Codex Assignment:** [Sel] Measure · [Ed] Edgetruth · [Cro] Cycle · Primary Judicium · Secondary Lethegraal · Fulguria primary with Limina cross · Electromagnetism **First Display:** A routine reading on a routine case, and a null return, and a Lector who says *instrument fault* and a Primate who says nothing at all Its tell is the correct null return while his unfinished assertion remains open. Its sound is the ordinary assay note stopping without a finding. It draws no separate EU and has no reserve clock of its own; the underlying suspension keeps its stated cost. A completed act is available to the instrument, and the Refusal cannot turn that completed evidence into an unfinished act.
+
+**Releases**
+
+**THE UNFINISHED MAN (First Release)** · folk name: Cheotjjae puri, the first untying.
+
+Near-white light with a black-violet trace outlines his fingers and the open lips; the skin beneath it stays warm. The sound is a low bell note arrested before its ending. NOTHING REACHES HIM IN TIME opens through Anima Spirare's breath-held seat and Lethegraal's unfinished sequence, bringing suspension at his body and what he touches to the top of its existing Grade. At Zenith the underlying shape is already habitual; driving its called strength draws 600,000 EU each second, 0.025% of his full reserve, and lasts 60 minutes from full to the tenth-reserve floor without recovery. It grants no healing, does not remove heat or erase the consequences of a suspended act, and cannot catch an act that finished before the interval seated. Released silently, the body takes the same form and sound but gains none of the call's rise to the top of the Grade. The call exposes a beat before the stronger hold seats; a completed act arriving in that beat bypasses it. When it ends, spent hands and breath answer more slowly. The passive warmth and old seated debts remain.
+
+**THE COURT BETWEEN BREATHS (Second Release)** · folk name: Duljjae puri, the second untying.
+
+The light spreads from his open mouth and hands across the ground, and the cut bell note becomes a standing hum. This opens and powers Sum-cham's actively contested boundary, through Lethegraal and Anima Spirare, with Judicium marking what belongs within the seat. It strengthens the Primary Trait's suspension one Grade within the field, whose full reach remains roughly thirty kilometres. It draws 3,600,000 EU each second, 0.15% of full reserve, and lasts 10 minutes from full to the tenth-reserve floor without recovery. This rate includes the First Release's active load; the two forms are not charged or stacked as separate rises. The reserve pays for the field's active authority; already seated suspensions retain their deferred cost. Released silently, the Domain opens with the same visible boundary and standing sound, but suspension remains at its sustainable Grade. The boundary can be pressed back by competing Dominion at his own Stage, or escaped before it encloses the target. Its collapse resumes held consequences in suspension order. Afterwards the Crystal runs Overgrown until a full night's sleep, making his presence easier to read. Holding beyond the floor risks a Crystal Fracture Event.
+
+**THE LAST THING UNSAID (Third Release)** · folk name: Setjjae puri, the third untying.
+
+His outline turns nearly white; a black-violet rim holds a thin arterial-red seam where the breath-held body meets the field. Beneath his standing bell note comes a second, deeper note from the Wellspring current. Lethegraal's unfinished sequence and Anima Spirare's living seat make the Primary Trait's suspension the declared law throughout Sum-cham, able to contain another field where his Dominion wins the ground. Its rise reaches the two-Grade self-boost cap for suspension alone; EX+ remains the highest named Grade, and no new rank or Apotheosis is conferred. The full form draws 36,000,000 EU each second, 1.5% of his full reserve, inclusive of the lower forms, and lasts 60 seconds from full to the tenth-reserve floor without recovery. It cannot amend the Oracle, cancel an injury, choose a later debt before an older one, or make a completed act unfinished. Released silently, it retains the Realm's form, colour and two notes but loses the two-Grade rise; suspension contests remain at the sustainable Grade. A prepared practitioner at his own Stage can oppose its boundary through Dominion or stay outside its roughly thirty-kilometre reach until the clock ends. At collapse the original order of consequences returns. Afterwards the Crystal runs Overgrown for a day and a night, with an ache through the body. Forced below the safety floor, the Primary Trait can fail to hold the last step open, allowing completion-dependent bindings to close while the accumulated consequences arrive.
+
+**Bonded weapon** · none.
+
+---
+
+## XI. Spirit Axes
 
 **Sum-gol and the eleven of his cohort** (all deceased, none by an identifiable act) — Weight: **foundational, unresolved, forty-nine years open.** He is the surviving hyeon of a generation named for being brought into the open. **There is no grave to visit, because attrition does not produce one, and no finding to read, because the instrument returns null.** Everything above this line is downstream of that
 
@@ -246,7 +248,7 @@ Aurelian knows this better than any living practitioner and he built his entire 
 
 ---
 
-## XII. RESISTANCES
+## XII. Resistances
 
 **Compulsion, binding, oath-coercion · near-total.** Nothing that requires a completed act can close on a man who has not completed one since twenty-seven
 
@@ -262,7 +264,7 @@ Aurelian knows this better than any living practitioner and he built his entire 
 
 ---
 
-## XIII. PHYSICAL DESCRIPTION
+## XIII. Physical Description
 
 He is tall without using it, the frame narrow through the shoulder and slightly forward at the neck, and he stands with his weight settled back as though the room were about to be handed to somebody else. There is no soldier anywhere in him. **His hands are the tell and everyone who has shaken one remembers it:** long-fingered, dry, unmarked, and warm past what a hand should be, a full degree and more above the skin of whoever is holding it, so that people come away from the greeting fractionally unsettled and unable to say why.
 
@@ -274,7 +276,7 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 
 ---
 
-## XIV. PSYCHOLOGY
+## XIV. Psychology
 
 **Core Wound:** The valley, and specifically the discovery that **an atrocity can occur with no author, and that an instrument built to find authors will therefore report, honestly and correctly, that nothing happened.** He has spent thirty-nine years inside the institution that owns the instrument, has reached the only rung with standing to amend the reference, and has understood for eleven years that the amendment cannot be written without conceding that six other Works exist over which the order has no authority at all. **The price of naming what killed his family is dissolving the only body that could name it.**
 
@@ -298,23 +300,13 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 
 **Stress Default:** He stops breathing. Not metaphorically and not as technique. **The suspension seats on the interval and under genuine strain the interval opens on its own**, and everyone senior in the Grand Church has learned to watch his chest rather than his face.
 
----
+**Voice block**
 
-## XV. EQUIPMENT
+**Speaker type** · A senior ecclesiastical judge trained in conciliation, exact about jurisdiction, slow to close a sentence.
 
-**The Plumb** — gold, thumb-length, beam and line. The Sel-Ur mark as a wearable object. Worn since elevation. **Non-magical, and it is one of exactly two things on this list that is**
+**Chant tongue** · Learned Concordia liturgical Latin; Mahuo of Sum-gol in the family register.
 
-**The Indigo Mantle** — the office. Rimlands murex, three centuries from two families. **Worn open, every convocation, for eleven years**
-
-**The Sealed Standard Key** — one of three. Opens nothing at Altherion. **The lock it opens is at Meridian Hold and does not appear in any Accord filing**
-
-**The Black Working Dress** — plain, unmarked, no grade threads. He owns four sets, identical, and the Grand Church's tailors have stopped offering to add the seven
-
-**No blade, no staff, no relic, no focus, no gauntlet.** The Armoury has never had an entry under his name and the Inquisitors have twice petitioned to issue him one
-
----
-
-## Voice
+**Lying tell** · The small smile stays fixed while the exhale ends early and the next breath waits; withholding borrows the same pause as his working.
 
 **Notices first** · The thing left unfinished: the clause that never closed, the act with no author, the second half of a sentence someone has not said. He watches a person's breath before their face, and he looks at a cost with open interest before he looks at who is paying it.
 
@@ -338,7 +330,23 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 
 **Sample line** · "You are in it too, Master Sesk. That is the part people miss. It is not a curse laid on you by me."
 
-## XVI. TEMPERANCE RECORD
+---
+
+## XV. Equipment
+
+**The Plumb** — gold, thumb-length, beam and line. The Sel-Ur mark as a wearable object. Worn since elevation. **Non-magical, and it is one of exactly two things on this list that is**
+
+**The Indigo Mantle** — the office. Rimlands murex, three centuries from two families. **Worn open, every convocation, for eleven years**
+
+**The Sealed Standard Key** — one of three. Opens nothing at Altherion. **The lock it opens is at Meridian Hold and does not appear in any Accord filing**
+
+**The Black Working Dress** — plain, unmarked, no grade threads. He owns four sets, identical, and the Grand Church's tailors have stopped offering to add the seven
+
+**No blade, no staff, no relic, no focus, no gauntlet.** The Armoury has never had an entry under his name and the Inquisitors have twice petitioned to issue him one
+
+---
+
+## XVI. Temperance Record
 
 **I Murmuring:** Age seven, in Sum-gol, on the suspension. The valley taught the pause before it taught letters
 
@@ -358,7 +366,7 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 
 ---
 
-## XVII. FRACTURE LOG
+## XVII. Fracture Log
 
 **Event:** Sum-gol, ages seven to nine / **Layer:** Essence Core / **Status:** Scarred, load-bearing, never closed / **Feature:** Everything. There is no finding, no act, and no author, and the wound has the same structure as his entire kit
 
@@ -372,11 +380,11 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 
 ---
 
+## Lore
+
 *"You want me to say it. I understand. You have brought me a good argument and I want you to know that I have not found a flaw in it, and that I am not going to find one, and that this will not be the difference you were hoping it would be. Sit down. There is tea. I have been not saying it for eleven years and I am extremely practised, and you have been at it for an afternoon."* — the Primate, to a Lector whose name the Register does not carry
 
----
-
-## Lore · The Life Behind the Card
+### The Life Behind the Card
 
 ### Origin
 

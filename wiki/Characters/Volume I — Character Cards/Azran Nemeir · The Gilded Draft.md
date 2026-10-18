@@ -1,36 +1,61 @@
 ---
+private: true
+type: character-card
 title: "Azran Nemeir · The Gilded Draft"
+subtitle: "The Gilded Draft · Concord Adept"
+culture: "Accord"
+rung: full
+as_of: "Newly Adept, after the Dust Vault recovery"
+sources: "Prior Azran Nemeir card; fow_line and character, 2026-10-17; Fracture of Worlds, Parts One, Three, Four, Five, Eight and Twenty; The Color of Essence; The Master Codex"
+pc: false
 ---
 
 # Azran Nemeir · The Gilded Draft
 
-## Azran Nemeir · The Gilded Draft
-
-**Say it** · AZ-ran neh-MEER
-> *"Power that can't explain its reason doesn't deserve its reach."*
+**Azran Nemeir** · The Gilded Draft · Accord, Caedor in the New World · as of Newly Adept, after the Dust Vault recovery  
+**Stat line** · Level 58 · Band I, Mortal Foundation · Stage III, Ascension · Path Spirit dominant, Body secondary · Journeyman · η 0.87 · Aether Class Unclassed · Crystal Awakened, State `null`  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: smoke-brown with a consistent, faint metallic blue-white Luminalis tint · signature sound: a fine ringing hum, ending in a dry click as a seal closes  
+**Stack** · sustainable C · cap +2 Grades, subject to the Stage ceiling and strain · layers: none recorded  
+**Releases** · none at Stage III · bonded weapon: none  
+**Traits** · LATTICE MEMORY (Primary) · tell: his hand repeats a known pattern without a searching pause · counter: changed damage requires a fresh reading / VERDANTIA UNDERTOW (Passive) · tell: quicker growth and closure, less iron on the air · counter: separation or damage faster than its modest repair  
+**Techniques** · SIGIL STITCH · tell: seven pale points and a ringing hum over four seconds · counter: interrupt the tracing or break an anchor / LATTICE SHIELDING · tell: a thin, straight-edged sheen · counter: sustained pressure breaks its thin protection  
+**Voice** · "Power that can't explain its reason doesn't deserve its reach." · speaker type: a young field engineer explaining a repair and its uncertainties  
+**Next gate** · Stage IV, Flourishing · Catalyst: the first genuine Spirit Axis, a bond carrying mechanical weight in Harmonics · Band gate: Stage IV before Level 100 can be surpassed · no named Front crisis on record
 
 ---
 
-### I · Identity
+## I. Identity
 
-**As Of** · Newly Adept, after the Dust Vault recovery
+**Full Name** · Azran Nemeir  
+**Pronunciation** · AZ-ran neh-MEER  
+**Age** · Twenty-six  
+**School and sect rank** · Guild Accord, Research and Archives Division; Registered Adept, Tier C commission rank  
+**Refusal** · He will not certify a repair as sound while concealing a fault or a cause he has not understood.  
+**Conviction** · A repair is owed to the people who depend on it, and his account of it must be honest enough for someone else to trust.
 
 **Name** · Azran Nemeir. **Called** · The Gilded Draft, Concord Adept. **Also Known As** · The Mender's Hand, The Lattice's Younger Son. **Epithet** · He Who Mends What Law Forgot to Mourn.
 
 **Race** · Mortal Human, of a minor Wellspring-touched maternal line (his mother guild-blooded).
 
-**Gloss rights** · Yes. He is the most transparent character in this batch — he writes the incident report before he celebrates and submits eleven pages when asked for a methodology.
-
-#### Affiliation
+### Affiliation
 
 Guild Accord, Research and Archives Division. **Registered Adept, Tier C commission rank.** Joined at seventeen; drove through the lower commission tiers on determination and precise casting rather than raw output. His goal is correction, not glory — one stabilized Wellspring, one sealed corruption vein, one mended community at a time.
+
 > **Catalyst Event · Stage III, Ascension.** *The first technique developed independently, not from instruction.* **He held a stabilization circle solo for two hours during a commission after his party leader went down, Phreatis threading through cracked stone until the Wellspring's hum lived inside his sternum rather than beside it. He wrote the incident report first. He did not celebrate.**
-> 
+>
 > **Twenty-six years old and still Band I.** Every stat on this sheet is a young man's, including the one he is proudest of — patience is not a virtue he was born with, it is the only thing his Tempering has actually bought him yet.
 
----
+## II. Soul Architecture
 
-### II · Soul Architecture
+**Level** · 58  
+**Band** · I, Mortal Foundation  
+**Temperance Stage** · III, Ascension  
+**Path** · Spirit dominant, Body secondary  
+**Tier of Standing** · Journeyman  
+**Soul Crystal Tier** · Awakened  
+**Aether Class** · Unclassed  
+**Essence Typology** · Fulguria dominant, through Luminalis
 
 **Aether Shell** · **Unclassed (Class emerges at Glory)** — his casting stabilizes and holds rhythm at a cleanliness that is a little ahead of schedule for Stage III.
 
@@ -42,9 +67,7 @@ Guild Accord, Research and Archives Division. **Registered Adept, Tier C commiss
 
 **Lattice Memory** · A standing discount, not a working: the second time he meets a corruption pattern he has already cleansed, the re-scan is free.
 
----
-
-### III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Luminalis** · Fulguria. Judgement and clarity — the glyph backbone of everything he stitches closed.
 
@@ -54,86 +77,115 @@ Guild Accord, Research and Archives Division. **Registered Adept, Tier C commiss
 
 **Network** · Three Wellsprings harmonized, Parun Glyphs inscribed for all. **Targeted Uninfected** · None actively pursued; he has read the cost ledger on chasing a fourth before Stage 5 and respects it.
 
----
-
-### IV · Primary Stats
+## IV. Primary Stats
 
 **Stage III — Ascension** · **Level 58** · Level Band I · Tier of Standing 3, Journeyman · Grade C · Ceiling 175.
+
 > **Pool 2,360** — 1,160 from Band I, 1,200 from Thresholds I–III. **Allocated 2,340.**
 
-| Stat | Value | Grade | Reading |
-|---|---|---|---|
-| **Gnosis** | **165** | C | Near ceiling. Reads a corruption pattern before deciding what to do about it |
-| Dexterity | 150 | C | Scalpel-precise. He is not fast, he is exact |
-| Tempering | 140 | C | Holds a stabilization circle alone for two hours and writes the report after |
-| Harmonics | 120 | B | Verdantia Undertow. Subtle, present, unforced |
-| Resilience | 95 | D | Lattice Shielding — thin, geometrically efficient, still thin |
-| Ardency | 90 | D | Controlled, not explosive. He wastes almost nothing he has |
-| Vitality | 80 | D | Lean, trained, unremarkable in a straight fight |
-| Dominion | 45 | E | **His floor. Twenty-six and still junior — nobody answers to him yet** |
+| Primary | Total | Mean | Grade | Reading |
+|---|---|---|---|---|
+| **Gnosis** | **1,320** | **165** | C | Near ceiling. Reads a corruption pattern before deciding what to do about it |
+| Dexterity | 1,200 | 150 | C | Scalpel-precise. He is not fast, he is exact |
+| Tempering | 1,120 | 140 | C | Holds a stabilization circle alone for two hours and writes the report after |
+| Harmonics | 960 | 120 | B | Verdantia Undertow. Subtle, present, unforced |
+| Resilience | 760 | 95 | D | Lattice Shielding — thin, geometrically efficient, still thin |
+| Ardency | 720 | 90 | D | Controlled, not explosive. He wastes almost nothing he has |
+| Vitality | 640 | 80 | D | Lean, trained, unremarkable in a straight fight |
+| Dominion (seven, Throne apart) | 315 | 45 | E | **His floor. Twenty-six and still junior — nobody answers to him yet** |
 
 **Path** · Spirit dominant, Body secondary.
+
 > **Dominion 45 in a man three commissions from a name people recognize.** The gap between Gnosis and Dominion is the whole of his ambition: he can already read the room he cannot yet command.
 
----
+**Unspent Pool** · 20
 
-### V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Gnosis Cognition 175** *(at ceiling)* · Gnosis Analysis 168 · Dexterity Finesse 158 · Dexterity Economy 152 · Tempering Coherence 148 · Tempering Maturity 142 · Harmonics Empathy 128 · Harmonics Attunement 118 · Resilience Ward 100 · Ardency Penetration 95 · Vitality Tolerance 85 · Dominion Sense 50.
 
----
+## VIII. Traits
 
-### VI · Traits
+**LATTICE MEMORY (Primary Trait)**
 
-**Lattice Memory** · Retains a geometric impression of any corrupted structure he has personally cleansed; a repeat encounter drops the casting cost without a re-scan.
+Retains a geometric impression of any corrupted structure he has personally cleansed; a repeat encounter drops the casting cost without a re-scan. Keeping the impression requires no separate cast; making the repair still costs the working's usual effort. Its tell is the tracing hand returning to an already known pattern without the searching pause of a fresh reading. The memory covers only structures he personally cleansed. A changed pattern defeats the saved reading and makes him examine the damage again.
 
-**Verdantia Undertow** · Passive bleed into his surroundings — faster plant growth, marginally quicker wound-closure nearby, the air tasting a little less like iron after violence.
+**VERDANTIA UNDERTOW (Passive Trait)**
+
+Passive bleed into his surroundings — faster plant growth, marginally quicker wound-closure nearby, the air tasting a little less like iron after violence. The bleed draws continuously at low cost while his Essence circulates. Its tell is that altered taste and the small growth or wound changes beside him. It only lends a modest help to living growth and closure; ongoing damage can outpace it, and separation from his surroundings removes its help.
 
 **Lattice Fatigue (Cost)** · Every cast above a working threshold tightens the thread geometry wrist-to-elbow. Past four heavy casts in one encounter the lines ache; past six they burn; past eight his efficiency collapses and his hands shake between gestures.
 
 **Phreatis Bleed (Cost)** · Extended Phreatis work leaves him emotionally saturated — not tears, silence, for hours. People who know him leave him alone with tea and a window. People who don't mistake it for coldness.
 
----
+## IX. Domain
 
-### VII · Artifacts
+**Domain** · None. His Attraction Layer remains barely budding.
+
+## X. Techniques
+
+**SIGIL STITCH (Signature Technique)**
+
+A seven-point Parun Glyph configuration, traced by hand over roughly four uninterrupted seconds, that anchors to a surface or a wound and holds — stitching closed Essence leaks, sealing minor corruption veins, or reinforcing a cracked lattice in an ally. Luminalis provides the glyph backbone; Phreatis reads the emotional residue of the damage site so the seal understands what it is closing, not just where. Four seconds of uninterrupted work per casting, and the Lattice Fatigue that any heavy cast leaves behind. The four-second window is uninterrupted or the geometry fails outright — this is not a technique that survives being rushed or hit. **Close the physical distance before the four seconds finish.** His casting window on any heavy Discipline is measured in single-digit seconds, and a fighter who reaches him before the geometry sets ends the working for free. Seven pale points appear in sequence under his hand, with a fine ringing hum that closes into a dry click when the seal takes. A target moved beyond his hand before tracing begins cannot receive the seal. During tracing, a broken stroke prevents it from setting; afterward, breaking the surface that carries an anchor breaks the seal at that point.
+
+> **What nobody knows.** Whether the thing he calls a quiet, obdurate need to be more useful is ambition wearing modest clothes, or exactly what it says it is.
+
+**LATTICE SHIELDING (Technique)**
+
+He sets a thin shield in straight, joined faces, keeping the amount of Essence spread across it small by fitting the shield closely to what it covers. The thin, straight-edged sheen gives it away. It spends Essence while held and shares his existing casting fatigue; heavy use contributes to Lattice Fatigue. It cannot absorb sustained pressure without its thin faces breaking, and anything outside its coverage remains exposed.
+
+**Releases** · None. First Release begins at Stage IV, Flourishing.
+
+**Bonded weapon** · none
+
+## XIII. Physical Description
+
+His dark brown hair lies like fine wire brushed in one direction, cropped clear of his ears and kept off his forehead with a plain tie when it grows long enough to fall into his work. He has a narrow face, brown eyes set beneath straight brows, a long nose and a mouth that presses shut while he checks a doubtful result. His shoulders are narrow, his forearms lean and his fingers long, with the working calluses concentrated along thumb and forefinger. He wears a brown division coat fitted close through the chest and loose at the elbows, its cuffs polished by use and its lower hem stained with pale stone dust, over a plain shirt and straight trousers. The Resonant Sandals clasp his ankles. Fine pale lines cross the backs of his knuckles; ink settles beside the nails, and heavy casting leaves the thread geometry visible from wrist to elbow.
+
+## XIV. Psychology
+
+**Desire** · To be useful enough that damaged places and people can depend on his work.  
+**Strength** · Exact casting, persistence and an honest account of what he cannot yet explain.  
+**Flaw** · He measures his worth by how much he can mend and has trouble allowing a finished task to be enough.  
+**Stress Default** · He concentrates on the next sound step, then withdraws into silence when Phreatis work saturates him.
+
+**Voice block**
+
+**Speaker type** · A young field engineer explaining a repair and its uncertainties.  
+**Chant tongue** · Common.  
+**Notices first** · The damaged place, the conditions that might have caused it, and who depends on it holding.  
+**Sentence length** · Complete, connected explanations; methods run long when someone asks for them.  
+**Contractions** · Sometimes.  
+**Stress shift** · Shorter statements of what he can establish; after extended Phreatis work he becomes silent for hours.  
+**Sample line** · "Power that can't explain its reason doesn't deserve its reach."
+
+**Gloss rights** · Yes. He is the most transparent character in this batch — he writes the incident report before he celebrates and submits eleven pages when asked for a methodology.
+
+## XV. Equipment
 
 **The Codex Filament** · *Slim journal, Glyph-Receptive Alloy binding.* Every corruption pattern he has personally cleansed is inscribed, not written, in his own Parun Script. Functions as a focus item, cutting the cost of Sigil Stitch when the target matches a prior entry.
 
 **Resonant Sandals** · *Minor guild-grade relic, ankle-clasped.* A Phreatis attunement sigil keeps his footing calibrated in high-Aether ground, even when the ground itself is unstable.
 
----
+## XVI. Temperance Record
 
-### VIII · Signature
+**Stage ledger** · Stage III, Ascension: first technique developed independently from instruction, while holding a stabilization circle alone after his party leader went down.
 
-#### Sigil Stitch
+## Lore
 
-**Effect** · A seven-point Parun Glyph configuration, traced by hand over roughly four uninterrupted seconds, that anchors to a surface or a wound and holds — stitching closed Essence leaks, sealing minor corruption veins, or reinforcing a cracked lattice in an ally. Luminalis provides the glyph backbone; Phreatis reads the emotional residue of the damage site so the seal understands what it is closing, not just where.
-
-**Cost** · Four seconds of uninterrupted work per casting, and the Lattice Fatigue that any heavy cast leaves behind.
-
-**Limit** · The four-second window is uninterrupted or the geometry fails outright — this is not a technique that survives being rushed or hit.
-
-**Counter** · **Close the physical distance before the four seconds finish.** His casting window on any heavy Discipline is measured in single-digit seconds, and a fighter who reaches him before the geometry sets ends the working for free.
-> **What nobody knows.** Whether the thing he calls a quiet, obdurate need to be more useful is ambition wearing modest clothes, or exactly what it says it is.
-
----
-
-### IX · Relationships
+### Relationships
 
 **The Farath Vein Incident** · Held a dual Phreatis-Luminalis stabilization channel solo for ninety-seven minutes, saving three settlements' water access; his elevation to Adept rank formally recognized this act.
 
 **The Archives Division** · Flagged his adapted Sigil Stitch variant from the Dust Vault recovery and asked him to document it. He submitted eleven pages.
 
----
-
-### X · Chapter Appearances
+### Chapter Appearances
 
 Not yet placed in a chapter; migrated as a new Volume VI card.
+
 > **Codex** · Fulguria / Electromagnetism / Luminalis primary / Stage III.
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of The Research and Archives Division. What those sources do not state is new here.*
 

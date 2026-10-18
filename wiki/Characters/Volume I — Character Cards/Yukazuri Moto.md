@@ -1,17 +1,42 @@
 ---
+private: true
+type: character-card
 title: "Yukazuri Moto"
+subtitle: "The Still Knife — She Who Reads the Wound Before the Strike"
+culture: Kharven
+rung: full
+as_of: "After the Moto lines were seated again at Kharven-Seat, alone in the ruin"
+sources: "Prior Yukazuri Moto card; character and fow_line; Fracture of Worlds, Parts One, Five, Nineteen, Twenty and Twenty-One; The Color of Essence; Release Forms; The Master Codex"
+pc: false
 ---
 
 # Yukazuri Moto
 
-**Say it** · yoo-kah-ZOO-ree MOH-toh
-
-**The Still Knife — She Who Reads the Wound Before the Strike**
-> *Moto of No House · The Quiet One · Ghost-Eyed Girl*
+**Yukazuri Moto** · The Still Knife · Kharven · as of the Moto lines seated again at Kharven-Seat, alone in the ruin  
+**Stat line** · Level 6 · Band I, Mortal Foundation · Stage IV, Flourishing, arrested · Path Spirit 72% / Body 18% / Attraction 10% · Adept · η 0.89 · Aether Class Unclassed · Crystal Awakened, Refined  
+**Combat grammar** · Verdict  
+**Aura and sound** · colour: warm dark grey with a hint of deep teal · signature sound: a low wet hum that catches on the listener’s out-breath  
+**Stack** · sustainable ceiling B · cap +2 Grades · layers: STILL WATER, First Release; no sworn vow, Draft or prepared tag recorded  
+**Releases** · STILL WATER (First Release) · bonded weapon: none  
+**Traits** · STILL-WATER BROADCAST (Primary) · tell: breathing eases inside forty feet · counter: distance or a held emotional ward / ANAMNESIS SIGHT (Secondary) · tell: her fingertips halt and her eyes lose the room · counter: denied contact or an erased record  
+**Techniques** · NERVE READING · tell: a breath caught behind the teeth · counter: suppressed signatures or a change of intent / COAGULATIO SEAL · tell: a dry click beneath the touching fingers · counter: denied contact or a closed channel / SOMNALIS DRIFT · tell: a low descending hum and a teal-grey flare · counter: leave its twenty-five-foot reach  
+**Voice** · “Hold still. You can dislike me when it closes.” · speaker type: a retired field nurse who still speaks in short bedside instructions
 
 ---
 
-## Identity
+## I. Identity
+
+**Full Name** · Yukazuri Moto
+
+**Pronunciation** · yoo-kah-ZOO-ree MOH-toh
+
+**Alias / Title** · The Still Knife — She Who Reads the Wound Before the Strike
+
+**Also Known As** · Moto of No House · The Quiet One · Ghost-Eyed Girl
+
+**Refusal** · She will not swear a person’s suffering into any lord’s service.
+
+**Conviction** · Someone must stay beside the person who cannot be saved.
 
 | **As Of** | After the Moto lines were seated again at Kharven-Seat, alone in the ruin |
 |---|---|
@@ -28,7 +53,21 @@ title: "Yukazuri Moto"
 
 ---
 
-## Soul Architecture
+## II. Soul Architecture
+
+**Level** · 6
+
+**Band** · I, Mortal Foundation
+
+**Current Stage name** · IV, Flourishing; arrested
+
+**Tier of Standing** · Adept
+
+**Soul Crystal Tier** · Awakened
+
+**Crystal State** · Refined
+
+**Essence Family** · Fluxia
 
 **Temperance Stage** · **IV, the Hollowing — Arrested.** *The Hollowing requires the soul to empty toward something, and for thirty years there has been nothing to empty toward.*
 
@@ -39,13 +78,14 @@ title: "Yukazuri Moto"
 **Aether Class** · Unclassed (Class emerges at Glory). **Broadcasts outward, cannot fully close the channel**
 
 **Aether Index** · 258.1 AU/s — *unchanged; she never overclocked, never had reason to* · **η 0.89**
+
 > **Crystal State.** Still clean, still uncracked — **but the stillness now reads differently.**
 >
 > A Crystal built to listen, in a place with almost nothing left alive to listen to, **has spent three decades listening to the land instead.**
 >
 > **The ground remembers everyone who died on it. She has not stopped hearing that.**
 
-### Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Somnalis** · Primary. Broadcast and receptive resonance, **now permanently active at range across the ruined ground rather than tied to proximity to people.**
 
@@ -55,7 +95,7 @@ title: "Yukazuri Moto"
 
 ---
 
-## Physical Force and Aether Flow
+## VI. Physical Force
 
 **Strike Force** · 0.09 GN precision blade / **2.1 PJ Somnalis-loaded nerve-point hit**
 
@@ -65,38 +105,55 @@ title: "Yukazuri Moto"
 
 **Range** · Melee to short, four-foot blade / **Perception 40 ft passive, 80 ft active** — now ambient across the ruin rather than tied to nearby bodies
 
+## VII. Aether Flow
+
 **EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 258.1 AU/s · **η** 0.89
 
 ---
 
-## Traits
+## VIII. Traits
 
-> **Still-Water Broadcast** · *Somnalis* — **Cannot be turned off.** Within forty feet, nervous systems trend toward calm.
->
-> **For thirty years the only things regularly in range have been ghosts of routine and the wind through broken structures.**
-**Anamnesis Sight** · *Somnalis · Anamnesis* — Reads residual emotional memory through contact. **The ruined Moto ground is saturated with it.** The sheer density of loss on that land means she can no longer touch a wall, a well or a gatepost without reading what happened there.
-> **She has stopped touching more than she has to.**
+**STILL-WATER BROADCAST (Primary Trait)**
+
+**Still-Water Broadcast** · *Somnalis* — **Cannot be turned off.** Within forty feet, nervous systems trend toward calm. **For thirty years the only things regularly in range have been ghosts of routine and the wind through broken structures.** Her Shell keeps passing a small part of her own settled breathing rhythm outward; nearby bodies can follow it, while pain, choice and deliberate action remain possible. It has no separate activation cost, but receiving other people’s distress leaves her tired and makes her own feelings harder to distinguish. The easing breath and faint wet hum give it away. Beyond forty feet the calming effect ends; a held emotional ward prevents the rhythm taking hold. It cannot stop a blade already moving or repair the injury it makes.
+
+**ANAMNESIS SIGHT (Secondary Trait)**
+
+**Anamnesis Sight** · *Somnalis · Anamnesis* — Reads residual emotional memory through contact. **The ruined Moto ground is saturated with it.** The sheer density of loss on that land means she can no longer touch a wall, a well or a gatepost without reading what happened there. **She has stopped touching more than she has to.** Her Attraction Layer admits the feeling held in a touched surface, and her Shell carries that record into present sensation. There is no deliberate activation to pay for; the cost is involuntary recall, lost attention to the present and emotional fatigue. Her fingers stop moving and her gaze slips away from the room. Breaking contact stops a fresh read, while an erased or damaged record yields nothing reliable. Rough reading can damage what the surface remembers; it cannot supply an event the object never held.
 
 ---
 
-## Domain
+## IX. Domain
 
 **None.** She still refuses to claim ground — *which is its own quiet irony, given she now lives entirely inside land soaked in her family's history.*
 
 ---
 
-## Techniques
+## X. Techniques
 
-**Nerve Reading** · *Somnalis* · 140 EU — Reads autonomic state, muscle pre-tension and Wellspring signature within 15 ft; **0.3–0.5 s advance notice of physical intent for four seconds.** *Counterplay: emotional-void opponents, heavily suppressed signatures.*
+**NERVE READING (Technique)**
 
-**Coagulatio Seal** · 260 EU — Contact-activated clotting acceleration, or a 90-second Aether-suppression seal on an open channel. **Counterplay: none needed anymore. She uses this almost exclusively on herself now, for old joint damage rather than combat wounds.**
-> **Somnalis Drift** · 390 EU — Full-broadcast 25 ft sympathetic suppression, eight-second duration, **risks severe Resonance Saturation bleedback.**
->
-> **Used twice in her life.** She has not used it since Muken died — **no one left worth using it on, and no one left to notice if the bleedback took her somewhere she didn't come back from.**
+**Nerve Reading** · *Somnalis* · 140 EU — Reads autonomic state, muscle pre-tension and Wellspring signature within 15 ft; **0.3–0.5 s advance notice of physical intent for four seconds.** *Counterplay: emotional-void opponents, heavily suppressed signatures.* The read compares breath, pulse and muscle tension across the next possible movements rather than fixing one inevitable future. She parts two fingers to open it; a short breath catches behind her teeth. Its 140 EU is 140 MJ, or 140/3,100 of her full reserve. An opponent who changes intention after the read makes its earlier forecast stale; leaving fifteen feet removes the live cues.
+
+**COAGULATIO SEAL (Technique)**
+
+**Coagulatio Seal** · 260 EU — Contact-activated clotting acceleration, or a 90-second Aether-suppression seal on an open channel. **Counterplay: none needed anymore. She uses this almost exclusively on herself now, for old joint damage rather than combat wounds.** Her fingers gather dispersed Essence into a compact seam at the contact point, helping a wound close or blocking the open channel she touches. A dry click beneath her fingers marks the seam taking hold. Its 260 EU is 260 MJ, or 260/3,100 of her full reserve. Denying contact prevents either seal; a channel closed before contact offers no opening to seal. A clot cannot replace missing tissue, and renewed pulling across the wound can reopen it.
+
+**SOMNALIS DRIFT (Technique)**
+
+**Somnalis Drift** · 390 EU — Full-broadcast 25 ft sympathetic suppression, eight-second duration, **risks severe Resonance Saturation bleedback.** **Used twice in her life.** She has not used it since Muken died — **no one left worth using it on, and no one left to notice if the bleedback took her somewhere she didn't come back from.** She opens both hands and lets the broadcast follow every responsive body within its reach, drawing their breathing and alarm response toward her own slower rhythm. A low descending hum and a teal-grey flare announce it. Its 390 EU is 390 MJ, or 390/3,100 of her full reserve. Bodies beyond twenty-five feet leave the effect; a held emotional ward resists it, and an already moving weapon keeps its momentum. The return of several incompatible states through her open channel causes the bleedback.
+
+### Releases
+
+**STILL WATER (First Release)** · folk name: Nagi, calm
+
+Her irises acquire pale rings, her hair lifts from her temples and warm dark-grey light, faintly teal, gathers against her skin. A low wet note rises as though a finger were circling the lip of a clay cup. With one open hand and the spoken name, she holds the returning signals apart in her own body instead of receiving them as one mass; Still-Water Broadcast reaches the top of its own Grade through her skin and anything she touches. The ordinary forty-foot broadcast continues unchanged outside that contact. Her workings still need their own gestures and costs, and this form grants neither a Domain nor certainty about another person’s intent. The release drains 35 EU each second, including its own shaping, and holds for 2,790/35 seconds from a full 3,100 EU reserve with no other spending or recovery. It ends at 310 EU, leaving her hands shaking and the received feelings hard to sort. Releasing silently keeps the pale rings, aura and sound but loses the rise to the top of her Grade; it costs the same to hold. A denied touch prevents the stronger effect reaching another body, a held emotional ward resists it, and distance can exhaust its clock. Several bodies changing rhythm at once can still overwhelm her separation of their signals. The release neither silences the baseline broadcast nor switches off Anamnesis Sight.
+
+**Bonded weapon** · none.
 
 ---
 
-## Spirit Axes
+## XI. Spirit Axes
 
 > **Muken Moto** · *Brother, deceased* — **Preserved / Filial-Formative / Absolute.**
 >
@@ -106,7 +163,7 @@ title: "Yukazuri Moto"
 
 ---
 
-## Resistances
+## XII. Resistances
 
 Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponents.**
 
@@ -114,7 +171,7 @@ Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponent
 
 ---
 
-## Physical Description
+## XIII. Physical Description
 
 **Height** 5'7" · **Build** still lean, though thirty years alone **has softened the fighter's economy of movement into something slower, more deliberate** — a body that no longer needs to be ready.
 
@@ -123,11 +180,14 @@ Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponent
 **Marks** · The scar from age twelve is still the only combat scar. **Everything since has been decades, not blades.**
 
 **Clothing** · Practical, undyed, patched by her own hand. **No armour — no reason to carry it.**
+
+Her face is narrow, with a broad nose and a mouth usually held loose rather than pressed shut. Her patched sleeves fit closely enough to keep clear of her hands; the cuffs are rubbed thin.
+
 > **Aura** · The feeling of a room after rain, still — **except now the room is empty and the rain never quite stops.**
 
 ---
 
-## Psychology
+## XIV. Psychology
 
 **Core Wound** · She built her entire Temperance around listening for one person. **He's gone, and the listening didn't stop — it just stopped having anywhere to land.**
 
@@ -140,15 +200,34 @@ Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponent
 **Loop** · Checks whether a feeling arrived or grew, to tell if it's hers. **Thirty years alone has made this harder, not easier — grief that's this old stops announcing itself as an arrival.**
 
 **Foil** · Any character who chooses connection despite cost. **She chose isolation as the only response to loss she had.**
+
 > **Voice** · Sparse to the point of near-silence now. Still precise when she does speak. **The dry humour has gone quiet, not gone.**
 >
 > **Posture** · Stillness that used to be tactical readiness **has become something closer to habit worn into muscle.**
 >
 > **Stress default** · **Touches the Grey Wrap. Doesn't use it. Just holds it.**
 
+**Voice block**
+
+**Speaker type** · A retired field nurse who still speaks in short bedside instructions.  
+**Chant tongue** · The Moto household’s Japonic tongue; existing technique names are also spoken in Common.  
+**Lying tell** · She smooths the same fold of the Grey Wrap twice while withholding an answer.  
+**Notices first** · Breath, guarded joints and the hand held away from pain.  
+**Sentence length** · Short complete instructions; explanations follow only when the listener needs them.  
+**Contractions** · Sometimes.  
+**Pet word** · “Still.”  
+**Never says** · “You’ll be fine.”  
+**Stumbles** · Stops before a family name rather than stumbling over it.  
+**Gloss rights** · Diagnostic only.  
+**Stress shift** · Fewer words, each attached to the next necessary action.  
+**Grief shift** · Addresses the absent person directly, then falls quiet.  
+**Joy shift** · Her mouth softens before the dry humour returns.  
+**How modern** · Plain bedside speech without court ceremony or current slang.  
+**Sample line** · “Hold still. You can dislike me when it closes.”
+
 ---
 
-## Equipment
+## XV. Equipment
 
 **The Short Blade** · Unnamed. Eleven inches, unenchanted, well maintained. **Still worn out of habit more than expectation of use.**
 
@@ -156,7 +235,7 @@ Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponent
 
 ---
 
-## Temperance Record and Fracture Log
+## XVI. Temperance Record
 
 **I** · Complete — Marshland Immersion
 
@@ -166,6 +245,8 @@ Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponent
 
 **IV** · **Active, Arrested — thirty years unresolved**
 
+## XVII. Fracture Log
+
 | Fracture | State | What it did |
 |---|---|---|
 | **The Veyrath Ditch Contract** *Loop-Attunement* | Consolidated | **Cemented her role as the one who arrives after, not during** |
@@ -174,14 +255,17 @@ Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponent
 
 ---
 
-## Incomplete in the Record
+## Lore
+
+### Incomplete in the Record
 
 **Stats · sections IV–V** carry no new combat data — **there is none for a fighter who has not fought in thirty years.** **Recovery rate** is unchanged from the original entry and has not been re-measured against three decades of isolation. **Speed figures** are untested at her current age.
+
 > **Stage IV is recorded as permanently arrested.** Whether that arrest ever resolves, **or whether the permanence is the point**, is the open question of her record.
 
 ---
 
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of The Ashen Crown: Muken's house and the Moto lines. What those sources do not state is new here.*
 

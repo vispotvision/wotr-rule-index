@@ -1,15 +1,34 @@
 ---
+private: true
+type: character-card
 title: "Azure Serathiel · The Sky-Veiled Saint"
+subtitle: "Wandering Sword Saint · Guardian of the Celestial Oath"
+culture: "Serica, Veil-Court upbringing"
+rung: full
+as_of: "his wandering after the Veil-Court's dissolution and the mountain duel"
+sources: "Existing Azure Serathiel card; character and fow_line, 2026-10-17; Fracture of Worlds, Parts One, Nineteen, Twenty-One and Twenty-Three; The Color of Essence; Release Forms; The Master Codex"
+pc: false
 ---
 
 # Azure Serathiel · The Sky-Veiled Saint
 
-**Say it** · AZH-er seh-RATH-ee-el
-> *"The sky does not cleave. It parts. So too must the blade."*
+**Azure Serathiel** · The Sky-Veiled Saint · Serica, Veil-Court upbringing · as of his wandering after the Veil-Court's dissolution and the mountain duel  
+**Stat line** · Level 307 · Band IV, Mythic · Stage XI, Dissonance · Path Body dominant, Spirit secondary · Grandmaster · η 0.85–0.90 · Aether Class IV, Luminous · Crystal Sovereign, Refined  
+**Combat grammar** · Blade  
+**Aura and sound** · colour: brilliant black-violet with moving interference grain · signature sound: a wet fingertip circling the rim of a glass  
+**Stack** · sustainable SS by the existing card · cap +2 Grades · layers: one release at a time; Celestial Oath has no quantified boost; no additional vow, Draft or tag boost assigned  
+**Releases** · UNVEILED GLASS (First Release) / STILL HORIZON (Second Release) / UNBROKEN REFLECTION (Third Release) · bonded weapon: none  
+**Traits** · MIRRORSHADE VEIL (Primary), tell: every image shares his smallest change of expression, counter: broken or disturbed reflecting surfaces / MOONLACE SHEAR (Secondary), tell: the edge steadies as his breath settles, counter: a forced change of aim breaks the steady draw / WIND-WREATHED GRACE (Passive), tell: grass stays upright beneath his step, counter: a worked restraint / SILENT CONCORD (Passive), tell: a gap in an otherwise continuous magical return, counter: ordinary sight and physical traces  
+**Techniques** · MIRRORSHADE VEIL, tell: the images blink together, counter: deny the surface, disrupt it during the hold, close before the veil reforms  
+**Voice** · "The sky does not cleave. It parts. So too must the blade." · speaker type: a senior sword instructor correcting a pupil without raising his voice
 
 ---
 
-## I · Identity
+## I. Identity
+
+**Pronunciation** · AZH-er seh-RATH-ee-el
+
+> *"The sky does not cleave. It parts. So too must the blade."*
 
 **Name** · Azure Serathiel. **Called** · The Sky-Veiled Saint.
 
@@ -20,13 +39,26 @@ title: "Azure Serathiel · The Sky-Veiled Saint"
 Formerly of the **Veil-Court of Serica**, now disbanded. **Secret patron of the lost Wellspring of Benediction.** Allegedly under Aegis Mandate by House Moto, **though he denies this.**
 
 **Soul Crystal** · *Selenvow, the Bladebound Bloom.*
+
 > **Catalyst Event · Stage XI, Dissonance.** *The practitioner walks toward something that can end them, arrives, remains coherent, and chooses their manner of meeting it. Not survives. Not defeats. Remains coherent long enough to choose.*
 >
 > **He duelled fate on a mountain of still air.** *That is the Catalyst stated as legend, word for word* — and the detail that matters is **still air.** Dissonance is entered deliberately, in stillness, by a soul that has decided how it will meet the thing. **Azure's entire discipline is that moment extended into a lifetime.**
 
----
+**School and sect rank** · Aether-Flow Swordsmanship, learned at the Veil-Court of Serica; master of the discipline, no present court office.
 
-## II · Soul Architecture
+**Refusal** · He will not execute someone merely because a superior has ordered it.
+
+**Conviction** · An oath binds the conduct of the person who gives it; rank cannot make the choice for him.
+
+## II. Soul Architecture
+
+**Level** · 307  
+**Band** · IV, Mythic  
+**Temperance Stage** · XI, Dissonance  
+**Path** · Body dominant, Spirit secondary  
+**Tier of Standing** · Grandmaster  
+**Soul Crystal Tier** · Sovereign  
+**Essence Typology** · Limina
 
 **Essence Core** · Fractured and denser for it. *A Crystal that passed through Dissonance rather than around it emerges denser and cleaner than the clean path produces.*
 
@@ -36,23 +68,22 @@ Formerly of the **Veil-Court of Serica**, now disbanded. **Secret patron of the 
 
 **Crystal State** · Refined. **η** · 0.85–0.90, Tier of Standing 7, Grandmaster.
 
----
-
-## III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Mirithane** · Limina. **Governing.** *Specular reflection — a true mirror adds nothing. Angle in equals angle out, and fidelity is defined entirely by the absence of introduced distortion. A phase-conjugate mirror goes further and returns a wavefront that undoes its own aberration.*
+
 > **This is Mirrorshade Veil, sourced exactly.** *He fights his enemies within their own reflections because the Shell has become such a surface.* **And the failure is that the mirror does not discriminate: a practitioner in a state they would rather not broadcast broadcasts it perfectly.**
+
 **Nyxial** · Limina. *The Nocturne Flame.* **Thermal inertia under negative feedback — a baseline that does not rise in favourable conditions and does not fall in hostile ones.** *This is the Aether of Stillness. His blade draws power from serenity because serenity is a regulated setpoint, not a mood.*
 
 **Tenebra** · Limina. **He is not invisible. He is quieter than the background, which is better.** *Silent Concord, sourced — even divine sight hesitates because the return has fallen below the noise floor.*
 
 **Aeolyth** · The drifting-mist movement; footfalls that disturb no grass.
 
----
-
-## IV · Primary Stats
+## IV. Primary Stats
 
 **Stage XI — Dissonance** · **Level 307** · Level Band IV · Tier of Standing 7, Grandmaster · Grade SS with fracture risk above 700 · Ceiling 750.
+
 > **Pool 14,345** — 7,500 from Bands I–III, 245 from Band IV at 35 per level, 6,600 from Thresholds I–XI. **Allocated 14,324.**
 
 | Stat | Value | Grade | Reading |
@@ -63,52 +94,80 @@ Formerly of the **Veil-Court of Serica**, now disbanded. **Secret patron of the 
 | Harmonics | 548 | S | The Oath, and Iloritha |
 | Ardency | 495 | S | **Deliberately mid. Serenity, not rage** |
 | Resilience | 440 | S | He is not hit |
-| Vitality | 382 | A |  |
+| Vitality | 382 | A | |
 | **Dominion** | **286** | B | **His floor by two Grades, and the whole of his character** |
 
 **Path** · Body dominant, Spirit secondary.
+
 > **Dominion 286 in a Stage XI practitioner. That is a B-Grade territorial stat in a soul that has passed through Dissonance.**
 >
 > *Realization and beyond are where terrain keeps a set, where pacts hold in the ground, where a region remembers a practitioner for generations.* **Azure has none of it and never sought any.**
 >
 > ***Wandering is not a lifestyle choice on this sheet. It is the only thing his Dominion supports.*** A man who could hold a mountain and holds nothing, **because the Celestial Oath is a promise about conduct rather than a claim on ground.**
 
----
+**Unspent Pool** · 21 by the recorded pool and allocation.
 
-## V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Dexterity Silence 750** *(at ceiling)* · **Finesse 730** · Economy 708 · Gnosis Acuity 686 · Evasion 664 · Tempering Clarity 642 · Gnosis Perception 620 · **Dexterity Sequence 598** · Harmonics Fidelity 576 · Ardency Penetration 554 · **Independence 532** · Tempering Latency 510 · Gnosis Vigilance 488 · Harmonics Suppression 466 · Reflex 444 · Resilience Coherence 422 · Ardency Compression 400 · Gnosis Adaptation 378.
 
----
+## VII. Aether Flow
 
-## VI · Traits
+**EU Reserve** · 22,567,528.521180633 EU.
 
-**Wind-Wreathed Grace** · **His very footfalls disturb no grass.** His form moves like drifting mist, **immune to mundane resistance.**
+**Starvation floor** · 10% of full reserve. Every release ends at that floor. The durations below run from full reserve to this cutoff, with no recovery or other spending included. Concurrent techniques shorten them.
 
-**Mirrorshade Veil** · **Allows him to appear in multiple places at once, only one being truly real.** *Often described as fighting his enemies within their own reflections.*
+## VIII. Traits
 
-**Moonlace Shear** · **Converts intent into edge. His blade draws power from serenity, not rage.**
+**WIND-WREATHED GRACE (Passive Trait)**
 
-**Silent Concord** · **He cannot be magically detected unless he wills it. Even divine sight hesitates before speaking his name.**
+**His very footfalls disturb no grass.** His form moves like drifting mist, **immune to mundane resistance.** His body's contact with the ground sheds little vibration, and loose grass springs clear of his passing. The standing effect costs no deliberate draw; a burst beyond his ordinary movement spends 0.5% of full reserve over 6 seconds. The grass remaining upright is its tell. A worked restraint contests the Trait through its own power, while the shape of a sealed passage still gives his body no opening.
 
----
+**MIRRORSHADE VEIL (Primary Trait)**
 
-## VII · Signature
+**Allows him to appear in multiple places at once, only one being truly real.** *Often described as fighting his enemies within their own reflections.* Mirithane makes the Shell carry his state faithfully into a usable reflection; the signature below spreads that return into several images. Its standing cost is exposure: every image carries whatever he is feeling, including what he wants hidden. Holding the projected images costs 5% of full reserve per 6 seconds, paid once for the signature rather than again for the Trait. Their identical changes of expression give them away. Broken surfaces and rippling water destroy the steady reflection it needs.
 
-### Mirrorshade Veil
+**MOONLACE SHEAR (Secondary Trait)**
 
-**Effect** · Several Azures, one of them real. **The enemy fights the version of him their own reflection produces** — and the reflection is faithful, which is the problem, because it returns their intent to them undistorted.
+**Converts intent into edge. His blade draws power from serenity, not rage.** Nyxial steadies the Crystal's output while he gathers it along the held blade's edge; a committed cut spends 2% of full reserve. A narrow black-violet shine stops trembling as his breath settles, accompanied by a thin glass note. The blade still has to reach its target. A forced change of aim breaks the settled draw, and prolonged pressure followed by sudden release can discharge the correction he has been holding, spoiling the edge and making his hand shake.
 
-**Cost** · **The mirror does not discriminate.** *Whatever state he is in is broadcast perfectly, in every image, to anyone able to read it.*
+**SILENT CONCORD (Passive Trait)**
 
-**Limit** · **Requires a surface and stillness.** *Chaos defeats it. So does genuine speed inside his guard.*
+**He cannot be magically detected unless he wills it. Even divine sight hesitates before speaking his name.** Tenebra quiets the Shell's outward return, with a standing cost of continually suppressing the signal by which other practitioners might recognise him. Concealing a deliberate flare costs 0.25% of full reserve per 6 seconds. Its tell is the missing return in a background that otherwise reads continuously. His visible body, displaced dust, touch and the sound of a called release remain ordinary evidence of his position; a competent observer can follow those without magically detecting him.
 
-**Counter** · **Break the reflections — or make him angry.** *Moonlace Shear draws from serenity. Nyxial holds his baseline against ambient, which means he cannot be provoked easily; but Nyxial fails by integral windup, and a regulator held against a load it cannot overcome discharges all at once when the load lifts.*
-> **What nobody knows.** What he agreed to on the mountain, **or whether fate agreed back.**
+## IX. Domain
 
----
+**STILL HORIZON (Domain)**
 
-## VIII · Relationships
+The Second Release opens and powers a temporary field within 3 metres of Azure. Existing reflections inside it carry the same faithful images of him, so several surfaces can sustain one veil. It takes the release call's beat to form and lasts 60 seconds from full reserve to the 10% cutoff, consuming 1.5% of full reserve each second. Its law ends at its edge and leaves no pact or lasting claim in the ground. A roughened or obscured surface stops contributing; breaking all usable surfaces ends the veil. The field yields to stronger Dominion at the same Stage, and collapse ends the release. Its small reach grants no corresponding increase to his territorial stats.
+
+## X. Techniques
+
+**MIRRORSHADE VEIL (Signature Technique)**
+
+**Effect** · Several Azures, one of them real. **The enemy fights the version of him their own reflection produces** — and the reflection is faithful, which is the problem, because it returns their intent to them undistorted. **Cost** · **The mirror does not discriminate.** *Whatever state he is in is broadcast perfectly, in every image, to anyone able to read it.* **Limit** · **Requires a surface and stillness.** *Chaos defeats it. So does genuine speed inside his guard.* **Counter** · **Break the reflections — or make him angry.** *Moonlace Shear draws from serenity. Nyxial holds his baseline against ambient, which means he cannot be provoked easily; but Nyxial fails by integral windup, and a regulator held against a load it cannot overcome discharges all at once when the load lifts.* **What nobody knows.** What he agreed to on the mountain, **or whether fate agreed back.** **Tell** · The images blink together, and a glass-rim note rises as they settle. **Reserve cost** · 5% of full reserve per 6 seconds, giving 108 seconds from full to the 10% cutoff when held alone. Its counter before formation is the absence of a usable surface; during the hold it is disturbance of that surface or real speed inside his guard; after collapse it is contact before he can settle a new reflection.
+
+**Vows** · Celestial Oath: the recorded promise binds conduct and claims no ground. Its exact words, witnesses and any numerical benefit are not supplied.
+
+**Releases**
+
+**UNVEILED GLASS (First Release)** · folk name, Common rendering: The Lifted Veil
+
+His eyes take a mirror shine and his black-violet aura outlines his face and hands in fine moving grain. The glass-rim note sounds once. Mirithane carries the face and the held blade into each available reflection at the top of the veil's own Grade; Nyxial steadies the return, while Tenebra quiets the return from his real body. The release spends 0.5% of full reserve each second and holds for 180 seconds from full before ending at 10%. It strengthens the existing veil's control without giving an image a body or a second attacking blade. Released silently, the form and sound remain but the veil gains no rise to the top of its Grade. Broken or covered surfaces defeat it, and direct physical contact still finds the one body. When it ends his hands shake; forcing it below the cutoff is raw overchannel.
+
+**STILL HORIZON (Second Release)** · folk name, Common rendering: The Open Veil
+
+His mirror shine spreads into a black-violet ring, 3 metres from his body, and every usable reflecting surface inside it takes the same grain. His glass note holds continuously. This opens and powers STILL HORIZON: the Primary Trait's control of its images rises one Grade within the field, while the images remain dependent on real surfaces. Its total drain is 1.5% of full reserve each second, including the field, and it holds for 60 seconds from full to 10%. Moving out of the field, spoiling its surfaces or contesting it with stronger Dominion defeats the advantage. Released silently, the field forms and sounds but the veil stays at the top of its base Grade. It leaves no territory behind. Afterwards the Crystal runs Overgrown until a full night's sleep; holding it below the cutoff risks a Crystal Fracture Event.
+
+**UNBROKEN REFLECTION (Third Release)** · folk name, Common rendering: The Answering Veil
+
+A pale mirror-silver border enters the black-violet field, his hair lifts clear of his collar, and a second, lower glass note answers the first. Mirithane's faithful return becomes the field's governing law: within the same 3 metres, all surviving reflections hold Azure's present state together even as the viewer changes position. The Primary Trait's control rises two Grades over its base for this reflection alone. Nyxial holds the shared state steady, and the need to show that state honestly remains. The total drain, including the field, is 4.5% of full reserve each second, allowing 20 seconds from full to 10%. Every image remains without a body; the working reads no future and turns no incoming wound back on its maker. Released silently, it keeps the form and both notes but gains only the Second Release's one-Grade rise. Roughened or obscured surfaces still remove the images, stronger Dominion can take the field, and an attack covering the whole small field reaches the real Azure. Afterwards the Crystal runs Overgrown for a day and a night and his body aches. Forced below the cutoff, the veil can fail into one plainly visible image centred on his body.
+
+**Bonded weapon** · none. Selenvow, the Bladebound Bloom, is his Soul Crystal's name.
+
+**Release accounting** · Each higher form replaces the lower form and its upkeep. Calling costs a beat; silent release retains its visible form and signature sound. Separate attacks and the signature's upkeep add their own costs. The two-Grade rise is confined to the released Trait's effect, confers no extra stat points, and shares the cap with every other self-boost.
+
+## XI. Spirit Axes
 
 **Vaelen Mourcrix** · **Rival in metaphysical duelling philosophy.** *Vaelen weighs and Ignatius concludes — Azure does neither, and that is the argument.*
 
@@ -120,18 +179,34 @@ Formerly of the **Veil-Court of Serica**, now disbanded. **Secret patron of the 
 
 **Emilia Veirynthiel** · **Tried to steal Azure's shadow once. It whispered poetry back.**
 
+## XIII. Physical Description
+
+His hair is black with the sheen of wet slate, worn long and tied low with a faded blue cord. He has a long face, a narrow jaw, dark eyes beneath straight brows, and a shallow notch through his left eyebrow. His shoulders are spare, his forearms corded, and the skin across the heel of each hand is thick from sword practice. A smoke-blue robe fits close across his chest and is belted clear of his wrists; the cuffs have been turned and sewn again, and the lower hem carries pale road dust. His outer coat hangs loose enough to draw in, with a polished patch where the scabbard rubs it.
+
+## XIV. Psychology
+
+**Voice block**
+
+**Speaker type** · A senior sword instructor correcting a pupil without raising his voice.  
+**Notices first** · The hand tightening too soon, the breath held past comfort, the point at which an order becomes an excuse.  
+**Sentence length** · Complete, measured sentences, with a short correction when something matters.  
+**Contractions** · Never in formal speech.  
+**Stress shift** · He speaks more literally and leaves longer pauses before answering.  
+**Sample line** · "The sky does not cleave. It parts. So too must the blade."
+
 ---
 
-## IX · Chapter Appearances
+## Lore
+
+### Chapter Appearances
 
 *Chronicles: Chapter XXII — Duel on the Still Horizon* · *Legacies: Chapter IV — Concord at the Gate of Fracture* · ***The Blue Vigil (Apocrypha)*** — a poem written from Azure's perspective, **banned in Lurien** · *WOTR: The Great Spirit War* — unconfirmed future appearance.
+
 > **Lurien is dead canon**, replaced by the **Holy Sea of Alabaster.** *The banning is good detail and should survive — re-attribute it.*
 >
 > **Codex** · Limina / Abstract–Entropic / Mirithane primary / Stage XI.
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of The Ashen Crown: Muken's house and the Moto lines. What those sources do not state is new here.*
 

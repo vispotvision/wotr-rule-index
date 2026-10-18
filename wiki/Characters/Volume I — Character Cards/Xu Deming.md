@@ -1,86 +1,111 @@
 ---
+private: true
+type: character-card
 title: "Xu Deming"
+subtitle: "The purse · Malphas's cell"
+culture: "Lineage halls (Chinese stratum)"
+rung: full
+as_of: "The Greyshaft Nine coldhouse, while Nuvalik goes for the hook"
+sources: "Prior Xu Deming card; scenes/the_nights_watch.md; local fow_line lookup; Fracture of Worlds, Parts Seventeen and Twenty-One"
+pc: false
 ---
 
 # Xu Deming
 
-## Xu Deming
+**Xu Deming** · The purse · Lineage halls (Chinese stratum) · as of the Greyshaft Nine coldhouse, while Nuvalik goes for the hook  
+**Stat line** · Level: unlevelled · Band: none · Stage: none · Path: none · Tier of Standing: none · η: no active conversion · Aether Class Ø · Crystal: Dormant; State: unassayed  
+**Combat grammar** · Expenditure; his contribution is supply, purchasing and the cost of keeping other people at work.  
+**Aura and sound** · colour: no manifested aura · signature sound: no active Essence sound  
+**Stack** · sustainable: Hollow output ceiling · cap: +2 Grades for self-boosts; no active self-boosts · layers: none  
+**Releases** · none · bonded weapon: none  
+**Traits** · none manifested · tell: none · counter: not applicable  
+**Techniques** · none · tell: none · counter: not applicable  
+**Voice** · "May I put a number in the room." · speaker type: a commercial accountant explaining personal liability to the men who authorised the expense
 
-**Say it** · SHOO duh-MING
+---
 
-*Malphas's cell. The purse. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
+## I. Identity
 
-### I · Identity
-
-**As Of** The Greyshaft Nine coldhouse, while Nuvalik goes for the hook
+**Full Name** · Xu Deming  
+**Pronunciation** · SHOO duh-MING  
+**Alias / Title** · The purse  
+**Culture** · Lineage-hall register (Chinese stratum)  
+**As Of** · The Greyshaft Nine coldhouse, while Nuvalik goes for the hook
 
 **Name.** Xu Deming. Lineage-hall register (Chinese stratum). Capped young into a trading lineage. He took a courtesy name he does not much like; which name that is, and his generation character, are pending Isaac.
 
 **Affiliation.** Malphas's cell. He is the buyer of record for the Verdantia.
 
-**Level / Stage / Band.** Pending Isaac.
+**Refusal** · He will not let the people spending his money claim that he never warned them where the liability would land.
 
-**Catalyst Event.** Pending Isaac.
+**Conviction** · A warning entered before the loss gives the payer a claim to be heard when everyone else begins denying responsibility.
 
-### II · Soul Architecture
+## II. Soul Architecture
 
-Pending Isaac.
+**Level** · Unlevelled  
+**Band** · None  
+**Temperance Stage** · None  
+**Path** · None  
+**Tier of Standing** · None  
+**η** · No active conversion  
+**Soul Crystal Tier** · Dormant  
+**Crystal State** · Unassayed  
+**Aether Class** · Ø  
+**Essence Typology** · Unexpressed
 
-### III · Work Architecture
+His Soul Crystal remains sealed. He has no active Wellspring harmonization, manifested Trait, Domain or release.
 
-Supply and ledgers. Diverted the Verdantia from a legitimate supply contract on the Swale line and drew it down as wastage against a pumping array that had shown four years of flat wastage.
-
-### IV–V · Stats
-
-Pending Isaac.
-
-### VI–VII · Force and Flow
-
-Pending Isaac.
-
-### VIII–IX · Traits and Domain
-
-Pending Isaac.
-
-### X · Techniques
+## X. Techniques
 
 None.
 
-### XI · Spirit Axes
+**Releases** · None.  
+**Bonded weapon** · None.
 
-Pending Isaac.
+## Skills
 
-### XII · Resistances
+### Supply and ledgers
 
-Pending Isaac.
+Supply and ledgers. Diverted the Verdantia from a legitimate supply contract on the Swale line and drew it down as wastage against a pumping array that had shown four years of flat wastage.
 
-### XIII · Physical Description
+He compares a return against its earlier columns, follows each purchase to the name that must answer for it, and knows which published discrepancy will draw another clerk's attention. His trading hall taught him the work; the Logistics Division's returns taught him where that work becomes visible. Analysis and Retention carry the comparison, and Cognition carries the chain from expenditure to liability. His knowledge reaches only as far as the records he can obtain.
 
-Hat in his hands and rain on his shoulders. His thumb works round the brim when he is afraid. Careful diction. Remaining inventory pending Isaac.
+## XIII. Physical Description
 
-### XIV · Psychology
+Hat in his hands and rain on his shoulders. His thumb works round the brim when he is afraid. Careful diction.
+
+His hair is black as wet ink, combed flat beneath the hat and thinning at the temples. He has a long face, narrow brown eyes, a clean-shaven jaw and a mouth whose lower lip he presses inward while another man speaks. His shoulders are narrow, his belly soft above a close waistcoat, and his fingers long and lightly stained along the writing hand. A dark brown wool coat fits neatly across his back but pulls at the middle when fastened; its cuffs have gone smooth, and the right sleeve bears a small, careful darn. His black felt hat has a softened brim and a darker patch where his thumb keeps returning. A pale notch interrupts the hair at his left eyebrow.
+
+## XIV. Psychology
 
 Knows Article Fifteen puts the liability on the payer and that the payer is him. Gives the Logistics Division eleven weeks to find the Swale line's bad spring, and wants it noted that he said so before it happened. Argues against naming the project because a named project is a filed project, citing the Hollow Shaft people. His private thought on the page: he has thirty-one days of usefulness left, and Malphas has already counted them.
 
-### XV · Equipment
+**Core Wound** · His trading hall charged a missing consignment to his signature without looking for the person who took it.  
+**Desire** · To remain useful long enough to survive the liability he has accepted.  
+**Strength** · He can follow a practical consequence through several institutions without losing sight of the person who will pay.  
+**Flaw** · He keeps buying the work whose consequences he understands, then asks his warning to protect him.  
+**Stress Default** · He explains the chain again, names himself as the payer, and asks that his objection be recorded.
 
-Pending Isaac.
+**Voice block**
 
-### XVI · Temperance Record
+**Speaker type** · A commercial accountant explaining personal liability to the men who authorised the expense.  
+**Notices first** · The amount, the buyer's name and the record that connects them.  
+**Sentence length** · Careful clauses that accumulate until the listener must follow the liability all the way back to him.  
+**Contractions** · Sometimes; formal objections usually spell the words out.  
+**Gloss rights** · Yes, for supply, accounts and the procedures that expose them.  
+**Stress shift** · Qualification gives way to a direct prohibition; his voice rises when someone makes the danger worse. His thumb continues round the hat brim.  
+**Sample line** · "May I put a number in the room."
 
-Pending Isaac.
+## XV. Equipment
 
-### XVII · Fracture Log
-
-Pending Isaac.
+**Hat** · Plain black felt, softened at the brim; no working, proof-mark or bonded release.  
+**Clothing** · Dark brown wool coat and close waistcoat; ordinary cloth, with wear and repair at the cuffs and right sleeve.
 
 ---
 
-*Source: The Night's Watch (scenes/the_nights_watch.md). The Swale-line figures (the cost of the third dilution, eleven weeks, thirty-one days) are his estimates as spoken in the scene.*
+## Lore
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of Malphas's cell. What those sources do not state is new here.*
 
@@ -123,3 +148,9 @@ The archive leaves him in the coldhouse with his hat in his hands, while Nuvalik
 - **Malphas · Ferment of Stars** · the hand and the purse. He bought what Malphas uses and carries the payer's liability for it, and the one thought set down as his is that Malphas has already counted his useful days.
 - **Vesk** · formulator and buyer. He is buyer of record for the Verdantia that Vesk formulates, and his draw off the Swale line fed Vesk's third dilution.
 - **Nuvalik** · one objection from two ends. Malphas called theirs a single objection: her carcass stays where it fell, his ledger where it was written.
+
+### Source record
+
+*Source: The Night's Watch (scenes/the_nights_watch.md). The Swale-line figures (the cost of the third dilution, eleven weeks, thirty-one days) are his estimates as spoken in the scene.*
+
+*Malphas's cell. The purse. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*

@@ -1,19 +1,41 @@
 ---
+private: true
+type: character-card
 title: "Xanelor Rafminar · The Wandering Fang"
+subtitle: "The Wandering Fang"
+culture: null
+rung: full
+as_of: "The Age of Calamity, holding six where he once held seven"
+sources: "Existing Wandering Fang card; fow_line: Xanelor Rafminar; Xanelor Rafiminar childhood card; Fracture of Worlds, Parts Twelve, Seventeen, Nineteen, Twenty-One and Twenty-Three"
+pc: false
 ---
 
 # Xanelor Rafminar · The Wandering Fang
 
-**Say it** · ZAN-eh-lor RAF-mih-nar
-> *"I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me."*
->
-> **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
->
-> **Nothing answers to a name here.** What answers Xanelor's pact appears in no current canon document and is carried here as unnamed and unidentified — the mechanics below do not depend on naming it.
+**Xanelor Rafminar** · The Wandering Fang · Omoro-raised; culture unrecorded · as of the Age of Calamity, holding six where he once held seven  
+**Stat line** · Level 265 · Band III, Sovereign · Stage IX, Invocation · Body Path dominant, Spirit Path secondary; no Attraction commitment · Master · η 0.75–0.80 · Aether Class III, Resonant · Crystal Sovereign, Refined  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: bright black-violet at the construct edges, arterial red at the pact seam · signature sound: one low howl with a second note half a step beneath it  
+**Stack** · sustainable S · cap +2 Grades · First Release reaches the top of S; Second raises construct shape-holding to SS; Third raises that effect alone to SSS · release states replace one another; Radius and Synergy remain capped at A  
+**Releases** · RUNECLAW (First Release) / SIXFOLD GROUND (Second Release) / THE HOWL BEHIND ME (Third Release) · bonded weapon: none  
+**Traits** · ONE JUDGMENT (Primary) · tell: the same hesitation passes through every construct · counter: a convincing feint draws the same mistaken response from all six  
+**Techniques** · FANG CIRCLE FORMATION · tell: six constructs stop and their anchor cuts answer with six dry clicks · counter: moving or breaking one station opens the whole ring  
+**Voice** · “I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me.” · speaker type: a solitary wilderness tracker reporting ground, weather and spoor
 
 ---
 
-## I · Identity
+## I. Identity
+
+**Full Name** · Xanelor Rafminar.  
+**Pronunciation** · ZAN-eh-lor RAF-mih-nar  
+**Alias / Title** · The Wandering Fang.  
+**Also Known As** · Xanelor Rafiminar; The Turtle's Ward; Shell-Boy.  
+**Race / Lineage** · Human; parentage unknown.  
+**Realm / Faction** · Outer Wilds and Frostmarch; the Spirit-Fanged Circle.  
+**School and sect rank** · Sage Arts taught by Drogo; the Spirit-Fanged Circle records no internal rank.  
+**Renown** · The Wandering Fang; protector without commission.  
+**Refusal** · To hold ground on anybody's instruction.  
+**Conviction** · Protection becomes service to the wrong master when gratitude decides where he stands.
 
 **As Of** · The Age of Calamity, holding six where he once held seven
 
@@ -24,6 +46,7 @@ title: "Xanelor Rafminar · The Wandering Fang"
 **Era** · Age of Calamity.
 
 **Standing** · The Spirit-Fanged Circle (unattested), a wilderness sage order. Nomadic. **He protects ground nobody has asked him to protect and holds no commission from anyone.**
+
 > **Catalyst Event · Stage IX, Invocation.** He stopped working alone.
 >
 > The Sixteen Stages records that every technique before Invocation is the practitioner's own Crystal doing something, and that from Invocation the practitioner **asks, and something larger answers** — and the answering is not metaphor, is not reliable, and is not free. **The Wellspring is a co-author. Co-authors have their own preferences and exercise them.**
@@ -34,7 +57,18 @@ title: "Xanelor Rafminar · The Wandering Fang"
 
 ---
 
-## II · Soul Architecture
+## II. Soul Architecture
+
+**Level** · 265  
+**Band** · III, Sovereign  
+**Temperance Stage** · IX, Invocation  
+**Path** · Body Path dominant, Spirit Path secondary; no Attraction commitment  
+**Tier of Standing** · Master  
+**η** · 0.75–0.80  
+**Soul Crystal Tier** · Sovereign  
+**Crystal State** · Refined  
+**Aether Class** · III, Resonant  
+**Essence Typology** · Limina primary; Materia, Vitalia and Spatium harmonizations
 
 **One Crystal. Three layers.** The legacy sheet's pact-mark and Runeclaw were not two Crystals; they are how his Core and Shell present under the pact.
 
@@ -48,44 +82,50 @@ title: "Xanelor Rafminar · The Wandering Fang"
 
 **Essence colour** · Limina black-violet at the construct edge, arterial red at the pact seam. *Two Families visible at once, which unsettles people who know what they are looking at.*
 
----
-
-## III · Wellspring Harmonizations
-
-**Eidolyn** · *the Shaping Mind* · Limina. **Governing harmonisation.** Templated nucleation with intent as the template. A supersaturated medium will not organise itself, but given a template it deposits along that geometry with real strength. **His constructs are not illusions. Their solidity is genuine material behaviour and their failure modes are the failure modes of a badly designed casting.**
-> *Template defect: any flaw in the intent is reproduced faithfully and at scale, and the practitioner rarely sees the flaw until it is standing in front of him.*
-**Fixatio** · Materia. Anchors and seals. **This is the sealing craft with an actual current under it** — the legacy sheet's "Runic Synergy" was a trait with no source.
-
-**Anima Spirare** · Vitalia. The pact seam. Bright arterial red, the breath of a living thing, **and the reason his constructs move like something that has been hunted rather than something that has been built.**
-
-**Transference** · Spatium. Coupled oscillators exchanging without a conductor. *This is how a construct at forty paces knows what he knows.*
-> **Four Families across four currents, at Tempering Capacity 325.** He is at the edge of what he can hold. **Exceeding Capacity does not drop the newest harmonisation — it degrades all four equally**, and a fifth would cost him the pact.
-
----
-
-## IV · Primary Stats
-
 **Temperance Stage** · **IX — Invocation.** **Level** · 265. **Level Band** · III — Sovereign. **Tier of Standing** · 6, Master. **Grade** · S, with late push toward SS. **Ceiling** · 625. **η** · 0.75–0.80.
-> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–265 contributes 1,170. Threshold bonuses for Stages I through IX contribute 4,500, Stage I counting (R39-3). Total: 8,370.
->
-> **Total lifetime pool: 8,370.** Allocated: 8,082. Unspent: 288 *(after the re-cost; the sheet was fully committed on its old pool)* — he is the only Volume III sheet with a fully committed pool, which is what a man with one job and no distractions looks like on paper. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 10,950).*
-
-| Stat | Value | Grade | Reading |
-|---|---|---|---|
-| **Dexterity** | **468** | S | **His only SS stat, and the whole build hangs off it.** Nobody else in Volume III leads with Dexterity |
-| **Gnosis** | 449 | S | Tracking, ambush detection, terrain reading |
-| **Dominion** | 429 | S | The construct field. **Capped in expression — see below** |
-| **Ardency** | 408 | S | Construct manifestation and seal-cutting |
-| **Harmonics** | 391 | A | Modest, and the reason the pack reads the way it does |
-| **Resilience** | 359 | A | He is not built to be hit |
-| **Vitality** | 342 | A | Lean. Nomadic. Unremarkable |
-| **Tempering** | **325** | A | **His floor, and his harmonisation ceiling.** Four currents is all he gets |
 
 **Path alignment** · **Body Path dominant, Spirit Path secondary.** Derived: Celerity, Economy and Density are Body-gated; Inscription and Sense are Spirit-gated. **No Attraction commitment**, which is the finding below.
 
 ---
 
-## V · Sub-Stat Peaks
+## III. Wellspring Harmonizations
+
+**Eidolyn** · *the Shaping Mind* · Limina. **Governing harmonisation.** Templated nucleation with intent as the template. A supersaturated medium will not organise itself, but given a template it deposits along that geometry with real strength. **His constructs are not illusions. Their solidity is genuine material behaviour and their failure modes are the failure modes of a badly designed casting.**
+
+> *Template defect: any flaw in the intent is reproduced faithfully and at scale, and the practitioner rarely sees the flaw until it is standing in front of him.*
+
+**Fixatio** · Materia. Anchors and seals. **This is the sealing craft with an actual current under it** — the legacy sheet's "Runic Synergy" was a trait with no source.
+
+**Anima Spirare** · Vitalia. The pact seam. Bright arterial red, the breath of a living thing, **and the reason his constructs move like something that has been hunted rather than something that has been built.**
+
+**Transference** · Spatium. Coupled oscillators exchanging without a conductor. *This is how a construct at forty paces knows what he knows.*
+
+> **Four Families across four currents, at Tempering Capacity 325.** He is at the edge of what he can hold. **Exceeding Capacity does not drop the newest harmonisation — it degrades all four equally**, and a fifth would cost him the pact.
+
+---
+
+## IV. Primary Stats
+
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–265 contributes 1,170. Threshold bonuses for Stages I through IX contribute 4,500, Stage I counting (R39-3). Total: 8,370.
+>
+> **Total lifetime pool: 8,370.** Allocated: 8,082. Unspent: 288 *(after the re-cost; the sheet was fully committed on its old pool)* — he is the only Volume III sheet with a fully committed pool, which is what a man with one job and no distractions looks like on paper. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 10,950).*
+
+| Primary | Total | Mean | Grade | Reading |
+|---|---|---|---|---|
+| **Dexterity** | 3,744 | **468** | S | **His only SS stat, and the whole build hangs off it.** Nobody else in Volume III leads with Dexterity |
+| **Gnosis** | 3,592 | 449 | S | Tracking, ambush detection, terrain reading |
+| **Dominion** | 3,003 | 429 | S | The construct field. **Capped in expression — see below** |
+| **Ardency** | 3,264 | 408 | S | Construct manifestation and seal-cutting |
+| **Harmonics** | 3,128 | 391 | A | Modest, and the reason the pack reads the way it does |
+| **Resilience** | 2,872 | 359 | A | He is not built to be hit |
+| **Vitality** | 2,736 | 342 | A | Lean. Nomadic. Unremarkable |
+| **Tempering** | 2,600 | **325** | A | **His floor, and his harmonisation ceiling.** Four currents is all he gets |
+
+**Unspent Pool** · 288.
+
+---
+
+## V. Sub-Stats
 
 **Dexterity Reflex 478** · open · **at ceiling.** The highest value on the sheet and the correct one.
 
@@ -100,6 +140,7 @@ title: "Xanelor Rafminar · The Wandering Fang"
 **Gnosis Cartography 393** · open. **Dominion Sense 381** · Spirit III.
 
 **Dexterity Economy 368** · Body III. **Resilience Anchoring 352** · open.
+
 > **The finding, and it rewrites him.**
 >
 > **Harmonics Synergy · 306 · capped at A-Grade.** Requires Attraction Path at Stage VI. **Dominion Radius · 306 · capped.** Requires Attraction Path at Stage V. He has no Attraction commitment and cannot acquire one without abandoning the Path structure the rest of the sheet stands on.
@@ -112,7 +153,7 @@ title: "Xanelor Rafminar · The Wandering Fang"
 
 ---
 
-## VI · Physical Force
+## VI. Physical Force
 
 **Strike Force** · Ardency 408, mid S-Grade. Around **1 TN peak force, on the order of 10 TJ, near 3 kilotons equivalent** — distributed across constructs rather than delivered in one place, which is why he has never once put a town-scale figure onto a target.
 
@@ -122,44 +163,91 @@ title: "Xanelor Rafminar · The Wandering Fang"
 
 ---
 
-## VII · Techniques
+## VII. Aether Flow
 
-### Fang Circle Formation · *Signature*
-
-**Effect** · Six constructs take stations around a target at uneven intervals and stop moving. Each carries a Fixatio anchor cut into it, and the anchors are not aimed at the target — **they are aimed at each other**, and what closes is not a ring of bodies but a ring of held ground. Inside it, a working finds its authorisation intact and its boundary already occupied. The target can move. **The target cannot get the ground to agree that they have moved.**
-
-**Cost** · The anchors are cut live, and cutting live means his hands. *He has lost most of the sensation in the last two fingers of the left, and the Fixatio work is why.*
-
-**Limit** · **It requires stationary constructs.** The moment one moves, the ring is a ring of five and the geometry fails open rather than closed.
-
-**Counter** · Kill one construct. Not all six, not him — **one.** Anything with the reach to remove a single station at distance defeats the entire formation, and the constructs cannot cover each other because they cannot coordinate.
-> **What nobody knows.** Whether whatever answers the pact is present in the constructs or merely in him. **The constructs behave as though something is watching through them and Xanelor has never asked**, on the stated grounds that the answer changes nothing and the unstated grounds that it might.
+**EU Reserve** · 6,537,000 EU  
+**Flux Density** · 887,500 EU/g  
+**AU/s** · 665,625–710,000, from Flux Density × η  
+**Recovery** · At rest on ordinary ground, 653,700 EU per minute; active recovery while concentrating and not fighting, 1,307,400–1,961,100 EU per minute. Depleted ground slows these rates.  
+**Starvation clock** · The last tenth is 653,700 EU. From full, uninterrupted maximum output reaches that floor in 8.29–8.84 seconds. Release clocks below exclude recovery and additional workings.  
+**Spending tells** · At half, his breath shortens and the black-violet edge dims; at a quarter, his hands tremble and the red seam thins; at a tenth, the aura flickers and ONE JUDGMENT stutters. Waste leaves at the Shell as heat, sound and glare.
 
 ---
 
-## VIII · Psychology
+## VIII. Traits
+
+**ONE JUDGMENT (Primary Trait)**
+
+His Shell gives the shapes he makes the same timing as his own intended movement. Eidolyn supplies the solid shape and Transference carries the command; the Trait keeps the command faithful as it crosses the Shell. Every body therefore repeats his judgment, including the wrong one. This is a standing bias in the Shell's pattern, with its cost included in each paid construct; it makes no body and supplies no movement for free. The limit is his own attention and the six bodies he can presently hold. A pause or mistaken turn reaches them together, accompanied by the same low note and black-violet edge. A false opening that convinces him draws all six into the same error, and breaking his concentration breaks their live direction. It gives no extra resistance to cuts, burns or broken bones in his own body.
+
+---
+
+## IX. Domain
+
+**SIXFOLD GROUND (Domain)**
+
+The Second Release opens and powers a fixed field between his six anchored constructs. Its law keeps his own construct patterns from drifting while he supplies the commands. All stations must lie within forty paces of him; the field reaches only the ground between them. It forms when the sixth anchor closes and lasts three minutes from full at its stated upkeep, less when he spends on attacks. Small distractions leave the standing field intact, but the constructs still need his live judgment to move. His A-Grade Radius and Synergy do not improve. Losing one anchor, moving one station or losing the continuous ground beneath the ring opens the field; an opposing Domain can also win its ground by Dominion. The Third Release deepens this same bounded field into a Realm. Neither form grants six separate minds.
+
+---
+
+## X. Techniques
+
+**FANG CIRCLE FORMATION (Signature Technique)**
+
+**Effect** · Six constructs take stations around a target at uneven intervals and stop moving. Each carries a Fixatio anchor cut into it, and the anchors are not aimed at the target — **they are aimed at each other**, and what closes is not a ring of bodies but a ring of held ground. Inside it, a working finds its authorisation intact and its boundary already occupied. The target can move. **The target cannot get the ground to agree that they have moved.** **Cost** · The anchors are cut live, and cutting live means his hands. *He has lost most of the sensation in the last two fingers of the left, and the Fixatio work is why.* **Limit** · **It requires stationary constructs.** The moment one moves, the ring is a ring of five and the geometry fails open rather than closed. **Counter** · Kill one construct. Not all six, not him — **one.** Anything with the reach to remove a single station at distance defeats the entire formation, and the constructs cannot cover each other because they cannot coordinate. **What nobody knows.** Whether whatever answers the pact is present in the constructs or merely in him. **The constructs behave as though something is watching through them and Xanelor has never asked**, on the stated grounds that the answer changes nothing and the unstated grounds that it might. Its tell is the six bodies stopping, followed by six dry clicks as the cuts catch. Cutting and charging the ring spends 653,700 EU, then holding it spends 196,110 EU each six seconds. From full, the charge and upkeep leave the last tenth after 160 seconds if nothing else is spent. Before closure, an interrupted cutting hand leaves the ring incomplete; while it stands, moving or breaking one station opens it; after closure has taken a target, that same broken station releases the boundary. The anchors remain cut in any surviving body, but their enclosing effect ends when the ring opens.
+
+**Releases**
+
+**RUNECLAW (First Release)** · folk name: Claw Out, in Common
+
+The pact-mark runs red from his wrist to the base of his fingers, and black-violet claws close over the fingers as hard covers. A short howl sounds with a lower note beneath it. ONE JUDGMENT holds the shape made at his hands at the top of its S-Grade expression, helping the form survive the strain of being cut and charged; it does not restore feeling in the damaged fingers. The change ends at his body and what he touches. It costs 98,055 EU each six seconds, 1.5 percent of full reserve, and holds six minutes from full before ending at the last tenth. Released silently, the covers form and sound, but their shape-holding remains at his ordinary S-Grade strength. The beat of the call leaves his hand exposed, a twisting load can split a claw at its joints, and the numb fingers still cannot report a bad cut. Afterwards his hands shake. Holding it past the last tenth becomes raw overchannel.
+
+**SIXFOLD GROUND (Second Release)** · folk name: Held Ground, in Common
+
+The claws flatten into plates over his hands and forearms, and their black-violet light passes into the ground between six anchored constructs. The short howl becomes a held note. This opens and powers SIXFOLD GROUND: inside the fixed boundary, ONE JUDGMENT holds his construct shapes at SS rather than S, while their movement still follows his own single judgment. The field costs 196,110 EU each six seconds, 3 percent of full reserve, and holds three minutes from full to the last tenth; opening Fang Circle Formation or making attacks draws from that same reserve and shortens the clock. Released silently, the field still opens, but shape-holding reaches only the top of S. It cannot expand his A-Grade Radius, improve his capped Synergy or move its stations. An anchor displaced before closure prevents it, an anchor displaced afterwards opens it, and ground that moves beneath a station breaks the shared footing. Afterwards his Crystal runs Overgrown until a full night's sleep, making his signature easy to follow. Forcing it beyond the last tenth causes a Crystal Fracture Event.
+
+**THE HOWL BEHIND ME (Third Release)** · folk name: The Answering Howl, in Common
+
+The red pact seam spreads along the edge of the violet field, and a great jaw takes shape in the aura behind his shoulders without becoming a seventh construct. The note beneath his howl grows louder than his own. Within the same six-station boundary, the Wellspring answers ONE JUDGMENT: holding the six existing construct patterns becomes local law at SSS for that effect alone. A flawed pattern is held just as firmly. This adds no force to their blows, no independent judgment and no protection to the stations' footing. It costs 980,550 EU each six seconds, 15 percent of full reserve, and holds thirty-six seconds from full before stopping at the last tenth. Released silently, the answering note and red edge remain, but shape-holding reaches SS and does not become the SSS local law. The call can be interrupted, a misleading movement can still turn all six bodies together, and moving one station breaks the enclosure regardless of how sound its body remains. Afterwards his Crystal stays Overgrown for a day and a night and his body aches. Forced below the last tenth, ONE JUDGMENT loses its shared timing and the six bodies cease to answer together.
+
+**Bonded weapon** · none.
+
+**Release accounting** · The three states replace one another; their upkeep does not add merely because he changes state. Separately maintained techniques still cost their own upkeep. Calls cost a beat. Every self-boost counts toward the two-Grade cap, and no release opens a Path component he lacks.
+
+**Inherited faults** · Eidolyn copies a flawed design faithfully. Fixatio leaves a wrongly cured anchor wrong until it is broken. Transference can draw reserve backwards into a damaged, depleted construct. If Anima Spirare's demand spreads through every body at once, the whole pack consumes the supply meant for the place under strain. None of the releases removes these failures.
+
+---
+
+## XIII. Physical Description
+
+His hair falls past his shoulders, black and umber like wet bark showing through old soot, tied back with a plain strip when he cuts anchors. Brown skin lies close over a long face, and three raised plum-dark scars run down the left cheek from temple to jaw. His shoulders are narrow, his waist lean, his forearms roped from the bow and the cutting work. Most of the feeling is gone from the last two fingers of his left hand. His grey canvas coat fits close enough at the waist to clear his hands, with worn cuffs and a hem mended where brush has caught it; his boots are soft at the ankle and repeatedly resoled. He looks at a handhold before a face.
+
+---
+
+## XIV. Psychology
 
 **What he refuses** · To hold ground on anybody's instruction. He protects the Outer Wilds and the Frostmarch, and if a polity ever formally thanked him for it he would leave.
 
 **What it costs him** · The Attraction Layer he never built. **A man who will not be commissioned does not form Axes**, and the sheet caps him for it in the exact place he believes he is strongest.
 
 **Speech** · Sparse, concrete, present-tense. He names terrain and weather before he names people. *He has a habit of answering a question about a person by describing where they were standing.*
+
 > **One private thought, for prose use.** *Six is what he can hold. He has never told anyone that it used to be seven.*
 
----
+**Voice block**
 
-## IX · Open Rulings
-
-- **Temperance Stage IX — ratified 2026-09-12.** Ratified as written (Isaac): Level 265, Tier of Standing 6, Master, Grade S with late push to SS, ceiling 625, Reflex at ceiling, η 0.75–0.80, matching the Sixteen Stages entry for Invocation.
-- **Fenriris — struck.** Ruled non-canon and unattested (Isaac, 2026-09-12); the pact-entity is now written as unnamed rather than replaced with a new name.
-- **The Spirit-Fanged Circle — kept, unattested.** Appears only in the legacy sheet and is carried here as unattested (Isaac, 2026-09-12).
-- The legacy sheet's **"Feral Kinship → Glyphic Balance → Spiritbound Sovereignty"** progression was invented and has been removed.
-- **Rikudoku Moto — re-identified.** Named as a philosophical ally. Ruled the same figure attested twice elsewhere (Isaac, 2026-09-12): Kairen Moto's estranged father, tied to the Great Spirit Tree, and the Veil practitioner. *See Kairen Moto · The Iron-Root, Volume V.*
-> **Codex** · Limina / Abstract–Entropic / Eidolyn primary / Stage IX.
+**Speaker type** · A solitary wilderness tracker reporting ground, weather and spoor.  
+**Chant tongue** · Common.  
+**Notices first** · Terrain and weather, then where a person stands.  
+**Sentence length** · Sparse, concrete, present-tense.  
+**Contractions** · Sometimes.  
+**Sample line** · "I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me."
 
 ---
 
-### Lore · The Life Behind the Card
+## Lore
+
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the two archived scenes it appears in, and the record of Class X and what it grows into. What those sources do not state is new here.*
 
@@ -208,3 +296,21 @@ He names terrain and weather before he names people, and asked about a person, h
 - **Dalphne of the Pale Bough · The Gentle Fang** · successor. His final thought-wave reached Dalphne, a man he never met, and gave him the root of the Wolf Sage Arts.
 - **Hiromi Mahuo** · rivals. Hiromi's challenge cost him two cracked forearms and the Omoro bow, and its outcome is not ruled.
 - **Kwon Mu-jin** · teacher. Mu-jin threw the vial that turned Xanelor's arrow to metal short of his son.
+
+### Card Record
+
+> *"I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me."*
+>
+> **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
+>
+> **Nothing answers to a name here.** What answers Xanelor's pact appears in no current canon document and is carried here as unnamed and unidentified — the mechanics below do not depend on naming it.
+
+### Open Rulings
+
+- **Temperance Stage IX — ratified 2026-09-12.** Ratified as written (Isaac): Level 265, Tier of Standing 6, Master, Grade S with late push to SS, ceiling 625, Reflex at ceiling, η 0.75–0.80, matching the Sixteen Stages entry for Invocation.
+- **Fenriris — struck.** Ruled non-canon and unattested (Isaac, 2026-09-12); the pact-entity is now written as unnamed rather than replaced with a new name.
+- **The Spirit-Fanged Circle — kept, unattested.** Appears only in the legacy sheet and is carried here as unattested (Isaac, 2026-09-12).
+- The legacy sheet's **"Feral Kinship → Glyphic Balance → Spiritbound Sovereignty"** progression was invented and has been removed.
+- **Rikudoku Moto — re-identified.** Named as a philosophical ally. Ruled the same figure attested twice elsewhere (Isaac, 2026-09-12): Kairen Moto's estranged father, tied to the Great Spirit Tree, and the Veil practitioner. *See Kairen Moto · The Iron-Root, Volume V.*
+
+> **Codex** · Limina / Abstract–Entropic / Eidolyn primary / Stage IX.

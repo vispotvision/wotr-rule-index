@@ -1,21 +1,41 @@
 ---
+private: true
+type: character-card
 title: "Ayame Yuno"
+subtitle: "Queen of Kharven · She Who Makes Mercy Kneel Beside Law"
+culture: "Yuno, Kagura Branch · Kharven"
+rung: full
+as_of: "Muken's reign, while he campaigns at the fringes of the North"
+sources: "Prior Ayame Yuno card; character and fow_line extracts; Fracture of Worlds Parts One, Sixteen, Seventeen, Twenty-One and Twenty-Three; The Master Codex"
+pc: false
 ---
 
 # Ayame Yuno
 
-**Say it** · ah-YAH-meh YOO-noh
-
-**She Who Makes Mercy Kneel Beside Law**
-> *Queen of Kharven · Lady of the North · The Snow-Crowned Consort · The White Benediction · Winter's Silken Reins*
->
-> **Matai title** · *Zenma no Mamori*, Keeper of the Whole Vā · **Saimei** · *Okurareta Nishiki*, the fine mat that was given away
-> 
-> > *"Steel may take a crown. Only ritual decides whether the crown will stay on the skull."*
+**Ayame Yuno** · Queen of Kharven · Yuno, Kagura Branch / Kharven · as of Muken's reign, while he campaigns at the fringes of the North  
+**Stat line** · Level 90 · Band I, Mortal Foundation · Stage VIII, Transcendence · Path Attraction · Master · η 0.86 · Aether Class II, Harmonic · Crystal Radiant, Refined  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: silver-grey suffused with pale amber, bearing pale aurora-script and white-violet threads · signature sound: a clear glass note followed by the soft pull of thread through cloth  
+**Stack** · sustainable A · cap +2 Grades · layers: First Release reaches the top of A; Second Release reaches S in the released Trait; no added self-boosting vow, Draft or tag  
+**Releases** · KEEPER OF THE WHOLE (First Release) / WINTER COVENANT (Second Release) · bonded weapon: none  
+**Traits** · CROWN OF CONCORD / MOLIMAU (Primary) · tell: iron-taste swallow and pain behind the eyes · counter: actions without an oath give it no new promise to compare / SNOWLIT PROCESSION (Passive) · tell: dampened noise and spiralling particles · counter: a deliberate, rehearsed action survives its restraint of impulse  
+**Techniques** · TŌBŌ NO MICHI: LE IE ATOA · tell: visible woven strands and tightening-thread hum · counter: separate a banner from its mapped strand / FOFŌ MOLIMAU · tell: white-violet threads close over a wound with a glass chime · counter: separation from the rite interrupts unfinished healing  
+**Voice** · "Put down the manual, love. You cannot learn what a kingdom is from a book about how to take one." · speaker type: ceremonial officiant and family mediator, teaching with the authority she uses to settle a dispute
 
 ---
 
-## Identity and Core Profile
+## I. Identity
+
+**Full Name** · Ayame Yuno  
+**Pronunciation** · ah-YAH-meh YOO-noh
+
+**She Who Makes Mercy Kneel Beside Law**
+
+> *Queen of Kharven · Lady of the North · The Snow-Crowned Consort · The White Benediction · Winter's Silken Reins*
+>
+> **Matai title** · *Zenma no Mamori*, Keeper of the Whole Vā · **Saimei** · *Okurareta Nishiki*, the fine mat that was given away
+>
+> > *"Steel may take a crown. Only ritual decides whether the crown will stay on the skull."*
 
 **As Of** · Muken's reign, while he campaigns at the fringes of the North
 
@@ -23,51 +43,51 @@ title: "Ayame Yuno"
 
 **Faction / Era** · Crown of Kharven · Northern Throne, Late Young World
 
-**Temperance Stage** · **Stage 8 — Transcendence**
-
 The priest-queen of Kharven, **wedded to Muken Moto and still answerable to an aiga that sits on islands the north has never seen.**
+
 > **She does not win wars by force. She decides which victories are allowed to persist** — binding every conquest into oaths, memory and ritual law **so it cannot splinter the realm.**
 >
 > Her power works through **vā tapuia**, forcing Moto severity and northern brutality into right relation with one another **rather than letting the world split clean where a deeper relation still calls to be kept.**
 
----
+**School and sect rank** · The Yuno Family, Kagura Branch; matai and officiant  
+**Refusal** · She will not anchor the great Wellspring of Storm and turn her liturgy into an instrument of conquest.  
+**Conviction** · A victory is worth keeping only if the people bound by it can live together after the conqueror has gone.
 
-## Canonical System Metrics
+## II. Soul Architecture
 
-**Aether Class** · **Ritual Weaver**
+**Level** · 90  
+**Band** · I, Mortal Foundation  
+**Temperance Stage** · **Stage 8 — Transcendence**  
+**Path** · Attraction  
+**Tier of Standing** · Master  
+**η** · 0.86  
+**Soul Crystal Tier** · Radiant  
+**Crystal State** · Refined  
+**Aether Class** · II, Harmonic  
+**Ritual designation** · **Ritual Weaver**  
+**Essence Typology** · Materia dominant, Vitalia undertone
+
+**Global Tier** · High A-Tier / Proto-S — *regional-scale ritual threat, limited direct duel presence*
+
+**Path Bias** · **Attraction 52%** · Spirit 38% · Body 10%
+
+**Aura and sound** · Her resting aura is silver-grey suffused with pale amber, bright enough at Transcendence to colour nearby cloth. The shaped rite retains its white-violet threads. A clear glass note announces a joined binding, followed by the soft pull of thread through cloth.
 
 Her Aether emerges as **pale aurora-script and thin white-violet threads** that lace people, places and vows into a suspended lattice with the exact geometry of a fine mat read at scale. When she works, **incense smoke settles into shapes, snow flurries spiral into prayer-wheels, and even spilled blood aligns along invisible lines** — *as if the world remembers its proper diagram.*
-> **Risk · Totality Overload.** Each completed Tofiga **pulls more elements of her inner life into the pattern.**
->
-> If she overworks, **she risks dissolving individuality into role** — becoming an impersonal function of the northern crown rather than a person.
+
+## III. Wellspring Harmonizations
+
 **Triune Core** · **Coagula · Benediction · Fixatio**
 
 **Network** · Two additional Wellsprings lightly threaded through her vā lattice, *minor harmonic nodes tied to memory and winter-weather.*
 
 **Targeted Uninfected** · **One great Wellspring of Storm she refuses to anchor**, fearing it would **militarise her liturgy beyond recall.**
 
-### The ascent
+**Coagula** · The Unifying Pulse · Materia · joins fractured soul structure across its existing points of contact; the remaining gaps are where a new fracture can begin.  
+**Benediction** · The Wellspring of Grace · Vitalia · gives a bond enough hold to carry the oath and its price; a competing bond can displace it.  
+**Fixatio** · The Binding Flame · Materia · fixes the joined structure so it cannot simply return to its former arrangement; a binding made in error does not undo itself.
 
-**She climbed through Temperance not as a duelist but as a custodian.**
-
-**Stages 1–4** came through cloistered Yuno training at the malae, years spent memorising layered gafa and the exact serving order of ava before she was trusted with a single public word. **Stages 5–7** followed Kharven's early campaigns, **using the Tofiga to prevent Muken's brutal victories from curdling into civil collapse.**
-> **Stage 8** was triggered the night she rewrote the kingdom's oaths mid-battle, **aligning every northern banner to a single shared winter litany instead of a dozen competing loyalties.**
-
----
-
-## Soul Physics and Combat Scale
-
-**Global Tier** · High A-Tier / Proto-S — *regional-scale ritual threat, limited direct duel presence*
-
-**Path Bias** · **Attraction 52%** · Spirit 38% · Body 10%
-
-| Pillar | Value | Reading |
-|---|---|---|
-| **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |
-| **Flux Density** | 510 EU/g | Dense enough that **completed sigils hit like law, not suggestion.** Low raw impact, **exceptionally penetrating against structures of loyalty, morale and spiritual stability** |
-| **Aether Output** | 438.6 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |
-| **Efficiency η** | 0.86 | **Once a ritual pattern is laid, upkeep costs plummet** — *making long wars of attrition skew heavily in her favour* |
-| **Attraction Scale** | A-Tier Proto-Domain · *Liturgical Field* | **Conversations unconsciously align into structured roles** — penitent, judge, witness, choir. **Crowds fall quiet, kneel, or arrange into processions without spoken command** when she fully opens the field |
+## VI. Physical Force
 
 **Strike Force** · 0.15 GN / 0.4 PJ — *direct physical strikes are negligible;* **her impact manifests in structural changes to morale, oaths and ritual law rather than kinetic damage**
 
@@ -77,7 +97,58 @@ Her Aether emerges as **pale aurora-script and thin white-violet threads** that 
 
 **Range** · City-block to city-wide unaided. **Regional across the Northern Marches when anchored through prepared shrines, banners and covenant-stones**
 
-### Appearance
+## VII. Aether Flow
+
+| Pillar | Value | Reading |
+|---|---|---|
+| **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |
+| **Flux Density** | 510 EU/g | Dense enough that **completed sigils hit like law, not suggestion.** Low raw impact, **exceptionally penetrating against structures of loyalty, morale and spiritual stability** |
+| **Aether Output** | 438.6 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |
+| **Efficiency η** | 0.86 | **Once a ritual pattern is laid, upkeep costs plummet** — *making long wars of attrition skew heavily in her favour* |
+| **Attraction Scale** | A-Tier Proto-Domain · *Liturgical Field* | **Conversations unconsciously align into structured roles** — penitent, judge, witness, choir. **Crowds fall quiet, kneel, or arrange into processions without spoken command** when she fully opens the field |
+
+**Full-output clock** · 84.36 seconds to empty; 75.92 seconds to the 3,700 EU release floor, without recovery or other spending.  
+**Reserve signs** · At 18,500 EU her breath shortens and the aura dims; at 9,250 EU her fingers tremble and the colour thins; at 3,700 EU the threads flicker and the Traits stutter.
+
+## VIII. Traits
+
+**CROWN OF CONCORD · MOLIMAU (Primary Trait)**
+
+**Crown of Concord**, which is the northern name for it, and **Molimau**, which is what the gafa calls it · Any oath spoken in her hearing **automatically cross-checks against existing vows within her liturgical memory.** **Lies taste like iron on her tongue**, and conflicting promises generate a faint pain behind her eyes — **allowing her to reweave loyalties before they fracture the realm.** The Trait compares the oaths held in her liturgical memory through the Attraction Layer; it does not supply a record she never received. Its ordinary comparison adds no separate casting charge, but conflicting promises bring the stated pain, and expanded use pays the release's drain. The outward tell is a swallow against the iron taste and a tightening around the eyes. An unspoken plan gives it no new oath to test; a promise can also be truthful when sworn and broken afterward. It gives no bodily protection against that later act.
+
+**SNOWLIT PROCESSION (Passive Trait)**
+
+**Snowlit Procession** · Wherever she walks in earnest authority, **ambient noise dampens and snowfall — or even dust, ash and pollen — organises into slow spirals around her.** Those within the field **find it harder to act rashly. Impulse is muffled, deliberation sharpened.** Her presence settles the field through the Attraction Layer while she acts in earnest authority. Its ordinary, near-costless expression cannot prevent a settled decision: someone carrying out a rehearsed action can continue through it. The slow spirals and softened sound reveal its reach. It changes impulse and attention, and gives no armour against a blade already moving.
+
+## IX. Domain
+
+**THE WHITE CONCORD OF KHARVEN (Domain)**
+
+**The White Concord of Kharven** · A metaphysical overlay on the northern kingdom's heartland, **defining laws of loyalty, surrender and sanctuary.** Within it, **those who kneel beneath the winter banners and speak the Crown Litany cannot be casually executed** — any breach of sanctuary **ignites a recoil in the violator's Soul Crystal.** Conversely, **oaths of rebellion spoken inside the Domain ring like struck glass in her awareness**, allowing preemptive, targeted responses. WINTER COVENANT opens and powers the active Domain. From a full reserve its quiet, prepared hold lasts two hours before reaching 3,700 EU; new rites and active contests shorten that time. Minor distractions do not collapse a Stage VIII Domain. Its reach follows the established shrine, banner and covenant-stone connections; a severed connection removes the ground beyond it from active enforcement. A prepared peer can contest its boundary through Dominion or attack a mapped anchor. Sanctuary makes an execution recoil on its perpetrator; it does not make the protected body invulnerable. Ending the release stops active enforcement, while already fixed oaths and injuries retain their own terms.
+
+## X. Techniques
+
+**TŌBŌ NO MICHI: LE IE ATOA · the Whole Mat (Signature Technique)**
+
+She projects a vast woven lattice over a battlefield or city, **each strand mapping a cohort, household or banner.** She rewrites how Essence flows between strands — **diverting fear from the weak into her own lattice, redistributing courage, and hard-tying lines of retreat or surrender into pre-approved routes.** Used to turn chaotic northern levies into a single disciplined winter host. **Also weaponised to make enemy coalitions subtly misalign, causing split-second betrayals or failures of mutual support at decisive moments.** The full invocation costs 4,800 EU, 12.972972…% of her 37,000 EU reserve; six full invocations leave 8,200 EU, and a seventh crosses the release floor. The visible strands give its boundary away, with a hum like thread pulled tight. Before the lattice closes, disrupting her inscription prevents a sound joining. While it holds, a banner or cohort separated from its mapped strand no longer shares the redirected flow. Afterward, broken connections and contradictory loyalties must be joined again at fresh cost; the rite cannot turn an unmapped stranger into a loyal subject merely by naming them. The invocation pays for the joining; maintaining the active field also pays WINTER COVENANT's drain.
+
+**FOFŌ MOLIMAU · the Antidote Hand That Witnesses (Signature Technique)**
+
+She braids Coagula's binding law with Benediction's restorative field, **creating an area where wounds close only on those whose intentions align with the crown's survival.** **The rite hardens certain behaviours into identity.** A coward who stands his ground here **will find that courage permanently etched into his soul.** A traitor striking within it **will scar metaphysically, branded for later judgment.** *Battlefield triage and character-forging crucible at once. She uses it as both mercy and test, deciding who will be worthy pillars of Kharven's future.* Each casting costs 2,300 EU, 6.216216…% of her full reserve; fourteen castings leave 4,800 EU, and a fifteenth crosses the release floor. White-violet threads gather over the closing wound with a small glass chime. Before contact, a patient outside the marked area receives no healing. During it, separation from that area breaks the unfinished joining. Afterward, repaired tissue can be wounded again, and an already fixed mark cannot be removed merely by leaving. A competing allegiance stronger than the bond her rite tests can interrupt its hold. The rite cannot make an intention loyal merely because its owner says the right words.
+
+### Releases
+
+**KEEPER OF THE WHOLE (First Release)** · folk name: Zenma no Mamori
+
+The faint marks at her wrists and sternum rise into white-violet threads across the skin, held in a silver-grey and pale amber glow; one clear glass note sounds as they join. Coagula joins the Crown of Concord's oath-bearing structure and Fixatio holds it, letting her keep a witnessed promise steady against interference through her own body and what she touches. Called aloud, the Trait reaches the top of its existing A Grade. At 55.5 EU/s it holds for ten minutes from a full 37,000 EU reserve, ending at 3,700 EU if she spends nothing else. It cannot compare an oath she has never heard or carry its protection to an untouched person without a separate working. Released silently, the shape and sound remain but the Trait keeps its ordinary output, without the rise to the Grade's top. Interrupting contact breaks the extension; an attacker who acts without making a new promise gives the comparison nothing to stop. After release her hands shake and contradictory promises still hurt. Holding below the floor forces an Overchannel.
+
+**WINTER COVENANT (Second Release)** · folk name: Fuyu no Chikai
+
+The threads spread from her marked skin into the White Concord's prepared ground; the pale amber aura lights the room while white-violet strands pick out the joined banners and boundaries, and the glass note continues beneath her voice. Coagula joins the oath-bearing nodes, Benediction holds the declared bonds, and Fixatio keeps their agreed terms in place. This release opens and powers the White Concord of Kharven, raising Crown of Concord's stated effect one Grade, from A to S, within it. Its quiet hold costs 4.625 EU/s, lasting two hours from full to the 3,700 EU floor; this rate maintains already prepared terms and supplies no free casting or contested expansion. It replaces the First Release's hold rather than adding a second drain for the same released Trait. A wider reach needs the existing shrine and banner network. Silent release opens the field at A, with its light and continuous note still present. Broken anchor connections cut its reach; a peer's Dominion can displace its boundary, and the old oath's actual terms limit what she can enforce. The Crystal runs Overgrown afterward until a full night's sleep. Keeping it open below the floor risks a Crystal Fracture Event. The release cannot restore a broken body or free her from a binding that Fixatio has already fixed.
+
+**Bonded weapon** · none
+
+## XIII. Physical Description
 
 5'7". Soft hourglass carried with the seated composure of tapua'iga worn as a second skin, **shoulders wrapped in layered northern ceremonial fabrics that hide a core strength the court has never once accounted for.** Skin a deep warm brown, several shades darker than anything else standing in the throne hall, and marked from birth at the wrist, the sternum and the base of the spine with faint lines beneath the skin tracing shapes that echo the malu. No tufuga tatau has ever finished them. The north cannot read them and has learned not to ask.
 
@@ -85,54 +156,17 @@ Eyes near-black and wide-set, trained from childhood to settle on the space arou
 
 Hair black and heavy and oiled, bound close in the coiled arrangement the tuiga demands, crowned beneath the Snow-Glass Diadem in crimson and gold, **the sigil-work threaded under the visible strands where only the wearer knows it sits.**
 
----
+Her oiled hair catches light like wet black cord. The vestments fit closely at the shoulders and fall loose over the waist and hips; the cuffs are rubbed smooth where her wrists rest through long ceremonies.
 
-## Axiomatic Traits
+## XIV. Psychology
 
-> **Crown of Concord**, which is the northern name for it, and **Molimau**, which is what the gafa calls it · Any oath spoken in her hearing **automatically cross-checks against existing vows within her liturgical memory.**
->
-> **Lies taste like iron on her tongue**, and conflicting promises generate a faint pain behind her eyes — **allowing her to reweave loyalties before they fracture the realm.**
-**Snowlit Procession** · Wherever she walks in earnest authority, **ambient noise dampens and snowfall — or even dust, ash and pollen — organises into slow spirals around her.** Those within the field **find it harder to act rashly. Impulse is muffled, deliberation sharpened.**
+**Core Wound** · Each public binding takes something from the private woman who must live after the rite.  
+**Desire** · A kingdom that can keep faith after her family no longer rules it.  
+**Stress Default** · The office speaks before the woman can name her own want.
 
----
+### Voice block
 
-## Core Disciplines
-
-- ****Tōbō no Michi: Le Ie Atoa**, the Whole Mat · 4,800 EU full invocation**
-  She projects a vast woven lattice over a battlefield or city, **each strand mapping a cohort, household or banner.**
-
-  She rewrites how Essence flows between strands — **diverting fear from the weak into her own lattice, redistributing courage, and hard-tying lines of retreat or surrender into pre-approved routes.**
-
-  Used to turn chaotic northern levies into a single disciplined winter host. **Also weaponised to make enemy coalitions subtly misalign, causing split-second betrayals or failures of mutual support at decisive moments.**
-- ****Fofō Molimau**, the Antidote Hand That Witnesses · 2,300 EU per casting**
-  She braids Coagula's binding law with Benediction's restorative field, **creating an area where wounds close only on those whose intentions align with the crown's survival.**
-
-  **The rite hardens certain behaviours into identity.** A coward who stands his ground here **will find that courage permanently etched into his soul.** A traitor striking within it **will scar metaphysically, branded for later judgment.**
-
-  *Battlefield triage and character-forging crucible at once. She uses it as both mercy and test, deciding who will be worthy pillars of Kharven's future.*
-> **Ritual Self-Dilution** · Each major invocation **binds another sliver of her private desires into the public role of Queen.**
->
-> Over years of overuse, **her capacity to want something for herself — separate from Kharven and Muken — thins**, risking a Temperance drift where she becomes **more sacred mechanism than person.**
->
-> *The same price at the house's scale: the Kagura officiants who hold Yasoshima's convergence rites pay this Self-Dilution on House Yuno's behalf, and have for two hundred thousand years — see* [[Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/Yasoshima — The Eighty Isles|*Yasoshima — The Eighty Isles, What the Research Division Was Not Told*]]*. The house treats its silence as a sealed vow.*
->
-> **Winter Echo Debt** · Fixatio and Coagula leave lingering **frozen instants** in the places she works, echoes of her liturgy that replay emotions and choices. Accumulated unharvested, **they coalesce into Echo-beings of stalled loyalty — manifestations that question current policy with the weight of past promises.**
-
----
-
-## Relics and Domain
-
-**The White Concord of Kharven** · A metaphysical overlay on the northern kingdom's heartland, **defining laws of loyalty, surrender and sanctuary.**
-
-Within it, **those who kneel beneath the winter banners and speak the Crown Litany cannot be casually executed** — any breach of sanctuary **ignites a recoil in the violator's Soul Crystal.** Conversely, **oaths of rebellion spoken inside the Domain ring like struck glass in her awareness**, allowing preemptive, targeted responses.
-
-**The Snow-Glass Diadem** · *High Relic, Crown-Tier.* A crown of translucent winter-crystal inlaid with Moto sigils, serving as a mobile node for Coagula and Fixatio. **It multiplies the stability of her rites and allows her to** ***pause*** **a negotiation — freezing the spiritual state of all parties for a few heartbeats while she chooses how to proceed.**
-
-**The Concord Ledger** · *High Relic, Administrative-Domain Tier.* A living book bound in pale leather **recording every recognised oath sworn to Kharven in her presence.** Pages reorder themselves according to threat, fracture-risk and metaphysical weight — **acting as both tactical map and spiritual risk index.**
-
----
-
-### Voice
+**Speaker type** · Ceremonial officiant and family mediator; an ordered explanation carries both affection and a judgment the listeners must live with.
 
 **Notices first** · The oaths in the room: who has sworn what to whom, and which promises cannot both be kept. Her eyes rest on the space around a face rather than the face, and a lie reaches her as the taste of iron before she has looked at the liar.
 
@@ -156,7 +190,41 @@ Within it, **those who kneel beneath the winter banners and speak the Crown Lita
 
 **Sample line** · "Put down the manual, love. You cannot learn what a kingdom is from a book about how to take one."
 
-## Lore and Trajectory
+## XV. Equipment
+
+**The Snow-Glass Diadem** · *High Relic, Crown-Tier.* A crown of translucent winter-crystal inlaid with Moto sigils, serving as a mobile node for Coagula and Fixatio. **It multiplies the stability of her rites and allows her to** ***pause*** **a negotiation — freezing the spiritual state of all parties for a few heartbeats while she chooses how to proceed.**
+
+**The Concord Ledger** · *High Relic, Administrative-Domain Tier.* A living book bound in pale leather **recording every recognised oath sworn to Kharven in her presence.** Pages reorder themselves according to threat, fracture-risk and metaphysical weight — **acting as both tactical map and spiritual risk index.**
+
+## XVI. Temperance Record
+
+### The ascent
+
+**She climbed through Temperance not as a duelist but as a custodian.**
+
+**Stages 1–4** came through cloistered Yuno training at the malae, years spent memorising layered gafa and the exact serving order of ava before she was trusted with a single public word. **Stages 5–7** followed Kharven's early campaigns, **using the Tofiga to prevent Muken's brutal victories from curdling into civil collapse.**
+
+> **Stage 8** was triggered the night she rewrote the kingdom's oaths mid-battle, **aligning every northern banner to a single shared winter litany instead of a dozen competing loyalties.**
+
+## XVII. Fracture Log
+
+> **Risk · Totality Overload.** Each completed Tofiga **pulls more elements of her inner life into the pattern.**
+>
+> If she overworks, **she risks dissolving individuality into role** — becoming an impersonal function of the northern crown rather than a person.
+
+> **Ritual Self-Dilution** · Each major invocation **binds another sliver of her private desires into the public role of Queen.**
+>
+> Over years of overuse, **her capacity to want something for herself — separate from Kharven and Muken — thins**, risking a Temperance drift where she becomes **more sacred mechanism than person.**
+>
+> *The same price at the house's scale: the Kagura officiants who hold Yasoshima's convergence rites pay this Self-Dilution on House Yuno's behalf, and have for two hundred thousand years — see* [[Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/Yasoshima — The Eighty Isles|*Yasoshima — The Eighty Isles, What the Research Division Was Not Told*]]*. The house treats its silence as a sealed vow.*
+>
+> **Winter Echo Debt** · Fixatio and Coagula leave lingering **frozen instants** in the places she works, echoes of her liturgy that replay emotions and choices. Accumulated unharvested, **they coalesce into Echo-beings of stalled loyalty — manifestations that question current policy with the weight of past promises.**
+
+---
+
+## Lore
+
+### Lore and Trajectory
 
 **Allegiance** · The Crown of Kharven. Spiritually answerable to the Yuno aiga **and in complex, cautious concord with the Moto dynastic project.**
 
@@ -169,6 +237,7 @@ Within it, **those who kneel beneath the winter banners and speak the Crown Lita
 **Ritual disruption and chaos fields** · Essence storms, Crevice bleed, or Wellsprings that favour raw chaos **scramble her Saishiki diagrams, collapsing her advantage and leaving her personally vulnerable.**
 
 **Isolated duels and assassins** · Stripped of preparation time, shrines and her Domain, **she is markedly less dangerous.** *Highly mobile killers who force close-quarters conflict before she can inscribe even a basic pattern are among the few who can truly threaten her.*
+
 > **Current status** · Active in Kharven, maintaining the White Concord **while Muken pursues campaigns at the fringes of the North.**
 >
 > Her aim is to elevate Kharven from a harsh regional throne into **a sanctified pivot between Moto law and northern ferocity.**

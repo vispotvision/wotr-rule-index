@@ -1,34 +1,62 @@
 ---
+private: true
+type: character-card
 title: "Zahir Ashveil · Desert's Fang"
+subtitle: "Desert's Fang · Emberstride · The Sandflame"
+culture: null
+rung: full
+as_of: "after the Glass Coast hunt and the encounter at the Dead Well"
+sources: "Prior card; fow_line: Zahir Ashveil; Fracture of Worlds Parts One, Four, Sixteen and Twenty-One; The Color of Essence; The Master Codex"
+pc: false
 ---
 
 # Zahir Ashveil · Desert's Fang
 
-## Zahir Ashveil · Desert's Fang
-
-**Say it** · zah-HEER ASH-vayl
-> *"The desert teaches you one lesson — burn fast, or be buried slow."*
+**Zahir Ashveil** · Desert's Fang · Aurelian Dust Coast origin · as of his return from the Dead Well  
+**Stat line** · Level 100 · Band I, Mortal Foundation · Stage III, Ascension · Path Body dominant · Journeyman · η ~0.40 · Aether Class Unclassed · Crystal Awakened, Refined  
+**Combat grammar** · Blade  
+**Aura and sound** · colour: smoke-brown carrying a steady ember-orange tint · signature sound: a dry hiss followed by the crackle of stirred ash  
+**Stack** · sustainable C · cap +2 Grades · layers: none recorded  
+**Releases** · none at Stage III · bonded weapon: none  
+**Traits** · SCORCHBRAND · tell: ash in the cut stirs and reddens · counter: cooling below ignition / GLASSWALK · tell: grit shifts beneath a planted foot · counter: unstable ground that cannot bear his weight / PREDATOR'S BREATH · tell: a sharp intake and heat-shimmer at the lips · counter: a solid barrier across the breath  
+**Techniques** · THE CRIMSON MIRAGE · tell: grit shifts as ash in the wound reddens · counter: deny the cut, interrupt the breath, keep the ash cold  
+**Voice** · "The desert teaches you one lesson — burn fast, or be buried slow." · speaker type: a caravan drover turned hired blade, teaching danger through maxims  
+**Next gate** · Stage IV, Flourishing · Catalyst: formation of the first genuine Spirit Axis bond · Band gate: Stage IV before Level 100 can be surpassed
 
 ---
 
-### I · Identity
+## I. Identity
+
+**Pronunciation** · zah-HEER ASH-vayl
+
+> *"The desert teaches you one lesson — burn fast, or be buried slow."*
 
 **Name** · Zahir Ashveil. **Aliases** · **Emberstride.** The Sandflame · **Desert's Fang.**
 
 **Role** · **Independent Mercenary. Desert Wellspring Raider. Pyrokinetic Duelist.**
 
-**Gloss rights** · **Yes.** *He talks in maxims and names what he does. A man who tells you the desert's one lesson will tell you what a Scorchbrand is while it is in you.*
-
-#### Affiliation
+### Affiliation
 
 **None.** *Formerly with the Sunwatch Caravan Guard* (unattested)*; now a contracted blade-for-hire across the Inner World and Outer World borders.*
+
 > **Catalyst Event · Stage III, Ascension.** *The first technique developed independently, from nobody's instruction.*
-> 
+>
 > **Scorchbrand is his: a burn that stays in a wound and reignites when he decides.** *A caravan guard is taught what the caravan needs, and that is a burn that stops. He worked out a burn that waits, alone, and it is the reason he stopped being a guard.* **The Stage and the career change are the same event.**
 
----
+**Refusal** · He will not enter another guard's permanent service, whatever the pay.
 
-### II · Soul Architecture
+**Conviction** · The first opening is the only one a man can trust; spending everything to take it is better than waiting for another.
+
+## II. Soul Architecture
+
+**Level** · 100  
+**Band** · I, Mortal Foundation  
+**Temperance Stage** · III, Ascension  
+**Path** · Body dominant  
+**Tier of Standing** · Journeyman  
+**Soul Crystal Tier** · Awakened  
+**Aether Class** · Unclassed  
+**Essence Typology** · Caloria governing; Materia through Terranova
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).**
 
@@ -36,103 +64,125 @@ title: "Zahir Ashveil · Desert's Fang"
 
 **Crystal State** · Refined. **η** · ~0.40, Tier of Standing 3, Journeyman *(estimate, carried from the mirror's sheet).*
 
----
-
-### III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Cinerion** · Caloria. **The Ash Veil. Governing.** *The card's "Fire (Ash): aggressive, lingering burns that sap enemy stamina."* **Scorchbrand is a Cinerion working: combustion that goes flameless and diffusion-limited, sits in the wound as ash, and re-enters flame when he supplies the draw.**
 
 **Terranova** · Materia. **The Living Earth.** *The card's "Earth (Sand): disorienting grit storms and shifting ground control."* **Sand is a granular material and the ground under an opponent is his to loosen.**
 
 **Ignivale** · Caloria. **The Wellspring of the Spark.** *Predator's Breath: short bursts of superheated exhalation that ignite flammable Essence traces.* **Same-Family compounding with Cinerion: the Spark lights what the Ash left.**
+
 > **"Spirit (Hunt)" is not re-sourced to a Wellspring.** *Heightened tracking instincts and a predator's patience are Gnosis, Vigilance and Cartography, and they are in the table.*
 
----
-
-### IV · Primary Stats
+## IV. Primary Stats
 
 **Stage III — Ascension** · **Level 100** · Level Band I · Tier of Standing 3, Journeyman · Grade C · Ceiling 175.
+
 > **Pool 2,600** — 2,000 from Band I at 20 per level, 600 from Thresholds I–III. **Allocated 2,364.**
-> 
+>
 > *At the Band I level ceiling on a Stage III architecture: he has the points and has not passed the Stage IV Threshold, which is the formation of a first genuine Spirit Axis bond.* **A man with no Axis on his sheet is standing exactly where the gate says he would be.**
 
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Ardency** | **172** | C | **At ceiling. He burns fast, as advertised** |
 | Dexterity | 152 | C | Glasswalk, and the duelling |
-| Vitality | 132 | C |  |
+| Vitality | 132 | C | |
 | Gnosis | 114 | C | The Hunt: tracking and patience |
-| Resilience | 96 | D |  |
+| Resilience | 96 | D | |
 | Tempering | 80 | D | **No regulation** |
-| Dominion | 64 | D |  |
+| Dominion | 64 | D | |
 | **Harmonics** | **48** | D | **His floor. A mercenary with two names on his sheet** |
 
 **Path** · Body dominant.
+
 > **Ardency at ceiling with Tempering at 80, two Grades apart.** *His own quote is the diagnosis.* He has maximum output for his Stage and almost no capacity to sustain it, which means every engagement he wins, he wins in the opening exchanges.
-> 
+>
 > **Kaerith Vireth is named as his rival specifically because frost counters heat.** *A frost-aspected opponent does not need to beat Zahir. They need to make the fight last.*
 
----
-
-### V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Ardency Saturation 175** *(at ceiling)* · **Dexterity Celerity 166** · Ardency Penetration 157 · Gnosis Vigilance 148 · Vitality Tolerance 139 · Dexterity Equilibrium 130 · **Ardency Compression 121** · Gnosis Cartography 112 · Vitality Endurance 103 · Resilience Insulation 94 · Dexterity Evasion 85 · Ardency Detonation 76.
+
 > *Figures as on the mirror's Volume IV sheet; every one sits inside the Stage III ceiling of 175.*
 
----
+## VIII. Traits
 
-### VI · Traits
+**SCORCHBRAND (Trait; self-derived technique)**
 
-**Scorchbrand** · **Can leave a lingering Essence-burn in wounds that reignites with his will.** *Cinerion. The self-derived technique that is his Stage III Catalyst.*
+**Can leave a lingering Essence-burn in wounds that reignites with his will.** *Cinerion. The self-derived technique that is his Stage III Catalyst.* Ash left in the cut stirs and reddens before the flame returns, with a dry crackle. Keeping that ash ready draws Essence for as long as he holds it; calling it back to flame costs a further draw. Ash held below its ignition point cannot reignite, and a wound that never receives the ash carries no brand.
 
-**Glasswalk** · **Moves over heated sand and molten glass without harm, using the terrain to his advantage.** *Vitality Tolerance and Dexterity Equilibrium; Terranova for the ground.*
+**GLASSWALK (Trait)**
 
-**Predator's Breath** · **Short bursts of superheated exhalation capable of igniting flammable Essence traces.** *Ignivale. The spark that lights the ash.*
+**Moves over heated sand and molten glass without harm, using the terrain to his advantage.** *Vitality Tolerance and Dexterity Equilibrium; Terranova for the ground.* His soles settle while loose grit shifts around them with a soft scrape. Keeping his footing on worked ground costs Essence as Terranova moves it beneath him. The protection from heat does not make unsupported ground bear weight: a collapsing crust or a gap beneath the glass still takes his footing away.
 
----
+**PREDATOR'S BREATH (Trait)**
 
-### VII · Artifacts
+**Short bursts of superheated exhalation capable of igniting flammable Essence traces.** *Ignivale. The spark that lights the ash.* A sharp intake precedes heat-shimmer at his lips and a short, harsh hiss. Each burst spends Essence to heat the exhaled air, leaving his next breath shorter. It needs an open path from his mouth to a flammable trace; a solid barrier stops the breath reaching that trace, and breaking his exhalation breaks the burst.
 
-**The flame-channeling curved blade** · *Weapon, unnamed on the card.* **Commissioned from Ymir Rhok, the Emberhand.** *A curved blade that carries his Cinerion draw into the cut, which is how a Scorchbrand goes in with the wound instead of after it.* **Ymir's own sheet records the commission from the smith's side; the two agree.**
+## X. Techniques
 
----
+**THE CRIMSON MIRAGE (Signature Technique)**
 
-### VIII · Signature
+*(The card gives this as the name of his "Temperance Cycle." It is not a Stage; it is the shape of his fighting, and it is kept as the Signature.)* **Effect** · **Burns that stay in the wound and answer him afterwards.** *He cuts, the ash sits, and at a moment of his choosing the wound reignites: a fight against Zahir does not end when he withdraws.* **Predator's Breath lights any Essence trace the ash left, and Terranova takes the ground out from under whoever is standing on it while it burns.** **Cost** · **Tempering 80.** *He cannot regulate the draw. Every Scorchbrand he holds live is a thread of Ardency he is still paying for, and a leaking Shell pays thirty to forty percent on top of the bill.* **He cannot afford a second round, and the burns he leaves in other people are the reason.** **Limit** · **Heat, sand and open ground.** Wet stone, a cold night and a closed room take away all three of his Wellsprings' preferred conditions at once. **Counter** · **Outlast him.** *An Ardency at ceiling with a Tempering two Grades below it is a man who has already spent the fight by the fourth exchange.* **Or bring cold: ash that is kept below its ignition point never re-enters flame, whatever he wills at it, which is precisely why Kaerith Vireth keeps winning.** Before the cut, intact cover or a parry keeps the ash out. During the follow-up, a barrier or broken exhalation stops Predator's Breath reaching its target. After contact, cooling the ash prevents its return to flame. The tell is shifting grit and a dry crackle as the ash in the wound reddens.
 
-#### The Crimson Mirage
-
-*(The card gives this as the name of his "Temperance Cycle." It is not a Stage; it is the shape of his fighting, and it is kept as the Signature.)*
-
-**Effect** · **Burns that stay in the wound and answer him afterwards.** *He cuts, the ash sits, and at a moment of his choosing the wound reignites: a fight against Zahir does not end when he withdraws.* **Predator's Breath lights any Essence trace the ash left, and Terranova takes the ground out from under whoever is standing on it while it burns.**
-
-**Cost** · **Tempering 80.** *He cannot regulate the draw. Every Scorchbrand he holds live is a thread of Ardency he is still paying for, and a leaking Shell pays thirty to forty percent on top of the bill.* **He cannot afford a second round, and the burns he leaves in other people are the reason.**
-
-**Limit** · **Heat, sand and open ground.** Wet stone, a cold night and a closed room take away all three of his Wellsprings' preferred conditions at once.
-
-**Counter** · **Outlast him.** *An Ardency at ceiling with a Tempering two Grades below it is a man who has already spent the fight by the fourth exchange.* **Or bring cold: ash that is kept below its ignition point never re-enters flame, whatever he wills at it, which is precisely why Kaerith Vireth keeps winning.**
 > **What nobody knows.** Why he left the Sunwatch, and whether the caravan he guarded is one of the ones that burned.
 
----
+**Releases** · None. First Release opens from Stage IV, Flourishing.
 
-### IX · Relationships
+**Bonded weapon** · none. His unnamed flame-channeling curved blade carries his draw into a cut; it carries no release.
+
+## XI. Spirit Axes
+
+**Spirit Axis** · none.
+
+### Relationships
 
 **Caldris Vaelthorn** · **Mutual respect between warriors; have fought alongside each other against Outer World raiders.** *Unattested; no sheet, and the name appears nowhere else in the mirror.*
 
 **Ymir Rhok** · **Once commissioned Zahir to forge a flame-channeling curved blade; they still trade rare desert ores.** *Attested: Volume IV, The Emberhand, apprentice blacksmith. Ymir's sheet lists Zahir.*
 
 **Kaerith Vireth** · **Rival bounty hunter whose frost-aspected abilities directly counter Zahir's heat, leading to frequent clashes.**
+
 > **Kaerith Vireth is named on three Volume IV sheets, Spoil, Renjiro Kaithen and Zahir, and has no card of their own.** *A frost-aspected bounty hunter who counters at least three established characters is a gap already logged on the Volume V index.*
 
+## XIII. Physical Description
+
+His black hair lies flat where his headcloth presses it and springs rough as a scorched brush at the nape. Dark brows sit low over brown eyes; his nose has a blunt bridge, and wind has worn fine creases into the skin beside his mouth. His shoulders are narrow, his forearms corded, his waist lean above strong thighs and hard calves. He wears a faded sand-coloured coat fitted close through the shoulders and split below the belt, with cuffs polished thin and small burns along the front hem. A rust-red headcloth covers his neck. Soft boots hang from his belt when he walks the heated ground barefoot. Pale grit-scars cross his knuckles, and the leather over his sword hip is darker from the constant rub of the scabbard.
+
+## XIV. Psychology
+
+**Flaw** · He treats a fast opening as proof that the whole fight belongs to him.  
+**Desire** · To take a price before Kaerith can take it from him again.  
+**Strength** · He can turn what a teacher gives him into a working of his own.  
+**Loop** · He opens at full draw, leaves burns he must keep paying for, and mistakes the next opening for an escape from the bill.  
+**Foil** · Kaerith Vireth, who makes the fight last.
+
+### Voice block
+
+**Speaker type** · A caravan drover turned hired blade, teaching danger through maxims.  
+**Notices first** · Footing, damp air and whether the other fighter is prepared to wait.  
+**Sentence shape** · A plain warning followed by the consequence; longer when explaining a burn already laid.  
+**Contractions** · sometimes.  
+**Stress shift** · His explanations shorten into commands while his breath grows louder.  
+**Sample line** · "The desert teaches you one lesson — burn fast, or be buried slow."
+
+**Gloss rights** · **Yes.** *He talks in maxims and names what he does. A man who tells you the desert's one lesson will tell you what a Scorchbrand is while it is in you.*
+
+## XV. Equipment
+
+**The flame-channeling curved blade** · *Weapon, unnamed on the card.* **Commissioned from Ymir Rhok, the Emberhand.** *A curved blade that carries his Cinerion draw into the cut, which is how a Scorchbrand goes in with the wound instead of after it.* **Ymir's own sheet records the commission from the smith's side; the two agree.**
+
 ---
 
-### X · Chapter Appearances
+## Lore
+
+### Chapter Appearances
 
 *Not yet placed in a chapter.* The card gives no first appearance and the wiki mirror's own committed sheet for this character gives none either; none is invented here, and this is migrated as a new card awaiting placement rather than left as TBD.
+
 > **Codex** · Caloria / Thermodynamics / Cinerion primary / Stage III.
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of Ash and the red thread. What those sources do not state is new here.*
 

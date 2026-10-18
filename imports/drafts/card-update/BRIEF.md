@@ -10,8 +10,9 @@ the card. Read before writing:
    every section after it is a menu (keep what the character has, drop empty sections).
 2. `desktop/NATALIE.md`, sections THE MAGIC FRAME (Power on the page, How the systems
    connect, release forms), and COMPANION DOCS (Technique entries, Character sheets).
-3. Through the wotr MCP: `load_rules(tags=["character-sheet","stats","magic-design","codex","naming"])`,
-   then `fow_line(<name>)` and `character(<name>)` for the figures. Use `codex` to look up any
+3. `imports/drafts/card-update/CARD_RULES.md`: every live rule for character-sheet, stats,
+   magic-design, codex and naming as one line each (do NOT call load_rules; call `rule(<id>)`
+   only when a line is not enough). Then, through the wotr MCP, `fow_line(<name>)` and `character(<name>)` for the figures. Use `codex` to look up any
    Wellspring, Family, Glyph or Physics Domain you name.
 
 ## Sources by field (R79-10)

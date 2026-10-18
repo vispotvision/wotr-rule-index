@@ -1,17 +1,36 @@
 ---
+private: true
+type: character-card
 title: "Zeven Halek · The Eye That Remains"
+subtitle: "Master Guilder · Commander of Accord Field Operations"
+culture: Accord
+rung: full
+as_of: "After the Calverne halt"
+sources:
+  - "Prior Zeven Halek card; character and fow_line readback"
+  - "Fracture of Worlds, Parts One, Three, Sixteen, Nineteen, Twenty–Twenty-Three"
+  - "The Color of Essence; Release Forms; Accord Standing Inventory"
+  - "The Master Codex: Eclipseron, Fixatio"
+pc: false
 ---
 
 # Zeven Halek · The Eye That Remains
 
-**Say it** · ZEV-en HAH-lek
-> *"I see better with one eye than most do with two — because I learned what not to look away from."*
->
-> **One of the lightest corrections in the volume.** The Verdant Aetherscope is **a properly costed piece of equipment** — an instrument with a stated failure mode that worsens with use — and needed nothing. *Ashen Gale (Aer + Cinerus Typology)* and the *Echo / Fixation* dual alignment are re-sourced to attested currents below; everything else carries across intact.
+**Zeven Halek** · The Eye That Remains · Accord · as of the Calverne halt  
+**Stat line** · Level 219 · Band III, Sovereign · Stage VII, Refraction · Path Body dominant, Spirit secondary · Expert · η ~0.60 · Aether Class III, Resonant · Crystal Resonant, Fractured  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: separate grey and deep red-violet, changing with the viewing angle · signature sound: a low shaft-draught note with an abrupt gap  
+**Stack** · sustainable A · cap +2 Grades · layers: STILL FRAME or STILL FRAME: EMPTY WATCH; Second includes First; every further self-boost shares the cap  
+**Releases** · STILL FRAME (First Release) / STILL FRAME: EMPTY WATCH (Second Release) · bonded weapon: none  
+**Traits** · CALCULATING GRACE (Primary): eyes stop following faces; counter: a concealed second cause / RESIDUAL FRACTURE (Secondary): thumb on the named sheath; counter: divided obligations / PHANTOM DRIFT (Passive): hem moves before the body; counter: dust, loose grit and broad light / AETHERIC BACKLASH (Secondary): fingers turn inward; counter: overlapping dissimilar workings  
+**Techniques** · THE EYE THAT REMAINS: green eye fixes and clicks; counter: ordinary presence, false transit, broken seal surface  
+**Voice** · "I see better with one eye than most do with two — because I learned what not to look away from." · speaker type: mine-rescue captain giving a withdrawal report
 
 ---
 
-## I · Identity
+## I. Identity
+
+**Pronunciation** · ZEV-en HAH-lek
 
 **As Of** · After the Calverne halt
 
@@ -22,15 +41,28 @@ title: "Zeven Halek · The Eye That Remains"
 ### Affiliation
 
 **Guild Accord — Vanguard Division, Second Ring.** Trusted with assignments near the **Veil-Ring** and in unmarked zones. **Often deployed as a retrieval asset for lost operatives or forbidden knowledge.**
+
 > **Catalyst Event · Stage VII, Refraction.** *The soul sees itself from outside. The Crystal that has been the unconscious medium of everything you have ever done becomes an object you can look at — and self-examination at this depth reveals the fracture record.*
 >
 > **The Ivory Vault Incident took his team and gave him the eye.** *Everything Splintering had promoted to a load path became visible, labelled, and impossible to un-see* — **and he had it rebuilt into an instrument and pointed it at other people's fractures instead of his own.**
 >
 > *The legacy sheet calls that trait Residual Fracture and describes it as a ritual of silence. The Stage calls it the ordinary condition of Refraction. Both are correct and only one of them is a coping strategy.*
 
----
+**School and sect rank** · Foreland guild school; Guild Accord, Master Guilder.
 
-## II · Soul Architecture
+**Refusal** · He will not enter a missing operative as dead merely to close an assignment.
+
+**Conviction** · What happened to a person remains worth finding, even when finding it brings nobody home.
+
+## II. Soul Architecture
+
+**Level** · 219  
+**Band** · III, Sovereign  
+**Temperance Stage** · VII, Refraction  
+**Path** · Body dominant, Spirit secondary  
+**Tier of Standing** · Expert  
+**Soul Crystal Tier** · Resonant  
+**Essence Typology** · Spatium dominant; Materia undertone
 
 **Essence Core** · **Fractured**, and the fracture is documented, dated and named — *Erynn, Marelle, Sato.*
 
@@ -40,14 +72,7 @@ title: "Zeven Halek · The Eye That Remains"
 
 **Crystal State** · Fractured. **η** · ~0.60, Tier of Standing 5, Expert.
 
-### The Verdant Aetherscope
-
-**A reconstructed artificial eye, forged after the Ivory Vault Incident.** Functions as a **Soul-linked reading instrument**, capable of deciphering metaphysical threads, hostile casting patterns and invisible resonance fields. **Its use causes gradual soul-burn if overexerted.**
-> **This is a Draftcraft artefact grafted to a practitioner, and it is costed the way the discipline says such things are costed.** *Class IV work carries identity-shaped carry, and the Standing Index warns that the donor's carry is present in the working and behaves as though it has an opinion.* **Nobody has ever asked whose eye the Aetherscope was reconstructed from.**
-
----
-
-## III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Aeolyth** · The gale. High-speed movement and sensory displacement.
 
@@ -56,13 +81,13 @@ title: "Zeven Halek · The Eye That Remains"
 **Eclipseron** · Spatium. *Occultation and transit photometry — planets are found by the dip in a star's brightness, not by being seen, and a spectrum's dark lines carry more composition data than its bright continuum.* **He reads what has been blocked, subtracted or withheld, and derives from the shape of the absence the shape of the thing casting it.** *This is the Aetherscope, sourced.*
 
 **Fixatio** · Materia. Anchors and seals — **the delayed-cast seals that activate long after they are placed.**
+
 > *Eclipseron fails by false transit: not every dimming is an occultation, and a practitioner committed to reading absence will eventually construct an object out of a gap that had nothing behind it.* **A man who lost a squad and now reads absences professionally has a specific and obvious exposure here.**
 
----
-
-## IV · Primary Stats
+## IV. Primary Stats
 
 **Stage VII — Refraction** · **Level 219** · Level Band III · Tier of Standing 5, Expert · Grade A with late push toward S · Ceiling 475.
+
 > **Pool 7,870** — 4,500 from Bands I–II, 570 from Band III at 30 per level, 2,800 from Thresholds I–VII. **Allocated 7,780.**
 
 | Stat | Value | Grade | Reading |
@@ -77,48 +102,115 @@ title: "Zeven Halek · The Eye That Remains"
 | **Dominion** | **186** | B | **His floor. He claims nothing** |
 
 **Path** · Body dominant, Spirit secondary.
+
 > **Harmonics 225 and Dominion 186 in a man whose job title is Commander of Accord Field Operations.**
 >
 > **He leads on competence and nothing else.** No bonding stat, no presence stat, no claimed ground — *he is not a commander who inspires, he is a commander who is demonstrably right and whose units follow the arithmetic.*
 >
 > ***Which is exactly what a man does after losing a team he was bonded to.*** The Vault did not just cost him three people. **It cost him the entire relational half of his development, and he has not spent a point there since.**
 
----
+**Unspent Pool** · 90.
 
-## V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Dexterity Silence 475** *(at ceiling)* · Gnosis Perception 459 · **Dexterity Evasion 443** · Gnosis Analysis 427 · Dexterity Celerity 411 · Gnosis Vigilance 395 · Tempering Latency 379 · Dexterity Economy 363 · Gnosis Cartography 347 · Tempering Clarity 331 · Dexterity Reflex 315 · Gnosis Diagnosis 299 · Vitality Tolerance 283 · Resilience Coherence 267.
+
 > **Dexterity Silence at ceiling is Attraction-gated at Stage V to exceed S-Grade** — and at 475 he is at the top of A, just under that wall. **He is as unfindable as a man without Attraction commitment can possibly be**, and one Path decision away from being genuinely undetectable. *He has never made it.*
 
+## VII. Aether Flow
+
+**EU Reserve** · 10^6.226028 EU.  
+**Flux Density** · 62,000 EU/g.  
+**AU/s** · 37,200; 62,000 × 0.60 = 37,200.  
+**Release clocks** · First: 6 minutes from full to the tenth-reserve cutoff; Second: 2 minutes, including First. Other workings shorten both clocks.  
+**Recovery** · Ambient draw through Tempering Yield and Harmonics Synergy; deliberate recovery requires him to stop fighting and attend to the draw. Restoring reserve does not restore the Aetherscope's spent soul substance.
+
+## VIII. Traits
+
+**CALCULATING GRACE (Primary Trait)**
+
+**Reads battlefield patterns in seconds. Favours strategy over raw strength.** His Shell keeps successive impressions distinct long enough for Gnosis Perception and Analysis to compare them: a foot that moves before the shoulder, a casting gap, an escape route that has stopped carrying traffic. The standing effect costs sustained attention and mental fatigue, with no separate reserve charge beyond ordinary perception; extending it through either release pays that release's drain. His eyes settle on the space between people instead of following their faces. It cannot supply a cause he never observed. A hidden second actor or a changed routine can make a sound comparison support the wrong conclusion.
+
+**RESIDUAL FRACTURE (Secondary Trait)**
+
+**Haunted by the death of his original guild team. He carries their memory as a ritual of silence.** The fracture keeps those losses active in his Core whenever an operation resembles the Vault. His thumb rests against the names on his sheath and he stops volunteering what he feels. It grants no extra Grade or reserve; its cost is narrowed attention and the continuing difficulty of forming new bonds. It cannot protect anyone by itself. Two people needing incompatible rescues expose the limit of the ritual and can break the concentration his other workings require.
+
+**PHANTOM DRIFT (Passive Trait)**
+
+Exceptional stealth and evasion. **Known to vanish mid-combat.** His Shell spills less of his movement into a readable signature while he makes his breath, weight and steps follow existing movement around him. The standing Trait adds no separate reserve charge; movement and active reinforcement still spend their ordinary stamina and Essence. A loose hem turns just before his body leaves its place. He remains a body that displaces air, touches ground and blocks light. Dust, loose grit, broad lighting and an observer watching his route can expose the movement his quiet signature conceals; it gives him no passage through solid matter.
+
+**AETHERIC BACKLASH (Secondary Trait)**
+
+**He has learned to reflect certain Essence Drafts back at their caster through rapid harmonic inversion.** His Shell takes a readable incoming casting pattern, reverses its returning beat and sends the still-coherent working back along its live approach. He must read and match that pattern before it resolves. The matching draw costs at least the incoming working's EU, and anything beyond his available output breaks the match; the returned working cannot gain energy from the reversal. His fingers turn inward, followed by a short doubled click. Overlapping dissimilar workings defeat the single match, and already-spilled physical poison or an ordinary blade has no live casting pattern to return. A failed match exposes his Shell to the working and its own wasted draw.
+
+## IX. Domain
+
+**EMPTY WATCH (Domain seed)**
+
+His Second Release opens a fixed field 3 metres in radius around the place where he calls it. Eclipseron lets him compare blocked or missing casting traces across the field; Fixatio holds their reference marks on two solid surfaces he touches during formation. A new disturbance stands against those fixed marks, giving CALCULATING GRACE more of the room to compare at once. The light shifts between grey and red-violet and a low draught note holds beneath it. The seed takes one 6-second turn to form and shares the Second Release's total drain of 0.75% of full reserve each second, ending after 2 minutes from full, including formation, or at once when his attention breaks. It reads only the same absences his eye can read; ordinary presence remains outside that faculty, and a false gap can still produce a false conclusion. It cannot compel a body, secure an escape or make a missing person present. Moving or breaking either marked surface spoils the comparison and collapses the seed. Stepping beyond its edge ends its reach. Stronger Dominion can displace its narrow claim. Collapse throws its stored disturbance back through his Shell; he loses the held readings and suffers the release's aftermath.
+
+## X. Techniques
+
+**THE EYE THAT REMAINS (Signature Technique)**
+
+**Effect** · He looks at a field and reads the **spiritual footprints** — where a working was cast, by whom, in what order, and what it was aiming at. **Delayed-cast seals go down in the gaps and activate hours later**, when the person who walked past them has forgotten there was a gap. **Cost** · **Soul-burn, cumulative, and it does not reverse.** *Every overexertion is spent from a fixed account.* **Limit** · **It reads absence.** Something genuinely present and entirely ordinary is invisible to it. **Counter** · **Be unremarkable.** *Or let him read a gap with nothing behind it — false transit is his named failure mode and he has no way to check.* The green eye fixes without tracking and gives a dry click as it takes a reading. Through Eclipseron, he compares the surviving field against what has been blocked; through Fixatio, he holds a delayed working in its prepared surface until its set delay expires. A sustained reading draws 0.1% of full reserve each second, giving a reserve ceiling of 15 minutes from full to the tenth-reserve floor; this is no guarantee against earlier soul-burn. Each delayed seal sets aside a further 1% of full reserve at placement, paid then and consumed on firing; an intact seal holds its charge without drawing on him again. Its prepared charge, surface and set delay bound what can happen later. Before a read, a blocked view denies the comparison; during it, false transit supplies the existing failure; after placement, breaking the seal's surface destroys its held working. None of these measures refunds spent Essence or soul substance.
+
+**Releases**
+
+**STILL FRAME (First Release)** · folk name: Off the meter; Sine mensura.
+
+The skin around his eyes takes a grey and red-violet double outline, his hair lifts from his temples, and the shaft-draught note sounds once with a gap in its middle. He releases CALCULATING GRACE through Eclipseron, holding the last observed casting outline beside the current one so that a missing piece remains available for comparison. Called aloud, the reading reaches the top of its sustainable A Grade; this changes his read, never his body's strength or a seal's stored charge. It draws 0.25% of full reserve each second and closes at a tenth, lasting 6 minutes from full if he spends on nothing else. It cannot show anything absent from both observations, and repeated eye work still carries the Aetherscope's irreversible cost. Released silently, the visible form and sound remain but the rise to the top of the Grade is lost. A changed background, a blocked view or a false gap can defeat the comparison. The spoken call gives an opening before it rises; afterward, his concentration is tired and his hands shake. Holding it below the cutoff becomes overchannel and risks further fracture.
+
+**STILL FRAME: EMPTY WATCH (Second Release)** · folk name: A main of his own; In districtu suo.
+
+The double outline spreads from his eyes along his arms and onto the two fixed surfaces, and the grey and red-violet field closes around him while the draught note becomes continuous. This is the First Release extended through Fixatio into EMPTY WATCH, opening and powering the Domain seed. Called aloud, CALCULATING GRACE reads one Grade above its sustainable A, at S, inside the field; his damage, bodily speed and Dominion receive no corresponding increase. The combined form draws 0.75% of full reserve each second, including the First Release's share, and closes at a tenth after 2 minutes from full if no other working draws on him. Released silently, the field still forms and sounds, but its reading stays at the top of A. The 6-second formation, breakable reference surfaces, fixed edge and dependence on concentration are its counters; false transit remains possible inside it. Afterward his Crystal runs Overgrown until a full night's sleep, laid over its existing fracture rather than healing it, and his leaking signature becomes easier to follow. Forcing it past the cutoff causes a Crystal Fracture Event.
+
+**Bonded weapon** · none.
+
+## XIII. Physical Description
+
+His hair is the brown-black of coal wetted at the shaft mouth, cut close at the neck and brushed away from the eye's rim. His face is narrow through the cheeks, with a long nose, a close-shaven jaw and a pale seam at the graft. The Verdant Aetherscope has the dull green of bottle glass until he reads through it; the living eye is grey-brown. He is spare through the waist and broad enough across the shoulders to carry field gear without bunching it, with hard calves and long hands that settle readily on a fixed surface. His charcoal field coat fits close across the back and opens freely at the thighs. Its cuffs are polished by wear, one elbow is neatly darned, and the collar has softened where he turns his head. The side-blade rides close against his hip, its sheath rubbed smooth around the three cut names.
+
+## XIV. Psychology
+
+**Core Wound** · The Ivory Vault took Erynn, Marelle and Sato.  
+**Desire** · To bring a missing operative home.  
+**Flaw** · He trusts his reading of an absence more readily than another person's offered attachment.  
+**Strength** · Patient observation under conditions that defeat ordinary instruments.  
+**Stress Default** · He narrows the problem until it becomes something he can read.
+
+**Voice block**
+
+**Speaker type** · Mine-rescue captain giving a withdrawal report.  
+**Chant tongue** · Accord Common; the chancery forms belong to formal reports.  
+**Notices first** · A missing sound, an unoccupied place, the route somebody should have returned by.  
+**Sentence length** · Full, measured explanations at a briefing; short directions during a withdrawal.  
+**Contractions** · Sometimes.  
+**Lying tell** · He turns the artificial eye toward the listener and keeps the living eye on the way out.  
+**Stress shift** · He repeats the last location he can account for.  
+**Grief shift** · His words return to the shaft, the draught and the men who cannot hear it stop.  
+**Joy shift** · His speech stays measured; he permits someone to remain beside him without finding work for them.  
+**Sample line** · "I see better with one eye than most do with two — because I learned what not to look away from."
+
+## XV. Equipment
+
+### The Verdant Aetherscope
+
+**A reconstructed artificial eye, forged after the Ivory Vault Incident.** Functions as a **Soul-linked reading instrument**, capable of deciphering metaphysical threads, hostile casting patterns and invisible resonance fields. **Its use causes gradual soul-burn if overexerted.**
+
+> **This is a Draftcraft artefact grafted to a practitioner, and it is costed the way the discipline says such things are costed.** *Class IV work carries identity-shaped carry, and the Standing Index warns that the donor's carry is present in the working and behaves as though it has an opinion.* **Nobody has ever asked whose eye the Aetherscope was reconstructed from.**
+
+**Side-blade and sheath** · **Their names are etched into the sheath of his side-blade.** Erynn, Marelle, Sato. Bonded weapon: none.
+
 ---
 
-## VI · Traits
+## Lore
 
-**Residual Fracture** · **Haunted by the death of his original guild team. He carries their memory as a ritual of silence.**
+### Card Note
 
-**Phantom Drift** · Exceptional stealth and evasion. **Known to vanish mid-combat.**
+> **One of the lightest corrections in the volume.** The Verdant Aetherscope is **a properly costed piece of equipment** — an instrument with a stated failure mode that worsens with use — and needed nothing. *Ashen Gale (Aer + Cinerus Typology)* and the *Echo / Fixation* dual alignment are re-sourced to attested currents below; everything else carries across intact.
 
-**Calculating Grace** · **Reads battlefield patterns in seconds. Favours strategy over raw strength.**
-
-**Aetheric Backlash** · **He has learned to reflect certain Essence Drafts back at their caster through rapid harmonic inversion.**
-
----
-
-## VII · Signature
-
-### The Eye That Remains
-
-**Effect** · He looks at a field and reads the **spiritual footprints** — where a working was cast, by whom, in what order, and what it was aiming at. **Delayed-cast seals go down in the gaps and activate hours later**, when the person who walked past them has forgotten there was a gap.
-
-**Cost** · **Soul-burn, cumulative, and it does not reverse.** *Every overexertion is spent from a fixed account.*
-
-**Limit** · **It reads absence.** Something genuinely present and entirely ordinary is invisible to it.
-
-**Counter** · **Be unremarkable.** *Or let him read a gap with nothing behind it — false transit is his named failure mode and he has no way to check.*
-
----
-
-## VIII · Relationships
+### Relationships
 
 **Cylus Verenn** · **His longest-standing companion.** Both lost their original squad in the **Ivory Vault Collapse.** *Cylus grounds him emotionally, even when Zeven pretends not to care.*
 
@@ -128,14 +220,11 @@ title: "Zeven Halek · The Eye That Remains"
 
 **Erynn, Marelle, Sato** · Deceased. **Their names are etched into the sheath of his side-blade.**
 
----
-
-## IX · Chapter Appearances
+### Chapter Appearances
 
 **First appearance** — *WOTR: Voyagers of the Accord*, Ch. 6, *"The Wind That Doesn't Sleep."*
-> **Codex** · Spatium / Spatial Geometry / Eclipseron primary / Stage VII.
 
----
+> **Codex** · Spatium / Spatial Geometry / Eclipseron primary / Stage VII.
 
 ### Lore · The Life Behind the Card
 

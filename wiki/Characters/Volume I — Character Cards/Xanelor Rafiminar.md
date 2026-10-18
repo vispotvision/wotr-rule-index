@@ -1,19 +1,41 @@
 ---
+private: true
+type: character-card
 title: "Xanelor Rafiminar"
+subtitle: "The Turtle's Ward · The Sage's Arrow"
+culture: "Omoro Island"
+rung: full
+as_of: "On one knee in the Arena, after the duel"
+sources: "Prior card: wiki/Characters/Volume I — Character Cards/Xanelor Rafiminar.md; character and fow_line: Xanelor Rafiminar; Fracture of Worlds, Parts One, Four, Sixteen, Nineteen, Twenty-One and Twenty-Three; The Color of Essence, Parts One and Two; Master Codex, Lists: Vectoria and Fluxia"
+pc: false
 ---
 
 # Xanelor Rafiminar
 
-## Xanelor Rafiminar
-
-**Say it** · ZAN-eh-lor rah-FIM-ih-nar
-
-*The Turtle's Ward · The Sage's Arrow · Card — (pending)*
-> **Level 95 in a body trained outside the Accord's framework.** The Sage Arts cultivated perception and spatial processing into C-Grade territory through a method no Accord diagnostic recognizes. No formal Wellspring harmonization. No formal assessment. No one has told him what he is yet.
+**Xanelor Rafiminar** · The Turtle's Ward · The Sage's Arrow · Omoro Island · as of the Arena aftermath  
+**Stat line** · Level 95 · Band I, Mortal Foundation · Stage III, Ascension, probable · Path Body 55% / Spirit 35% / Attraction 10% · standing Unclassified; Stage equivalent Journeyman · η 0.40, unassessed · Aether Class Unclassed · Crystal Awakened, intact with non-standard architecture  
+**Combat grammar** · Verdict  
+**Aura and sound** · colour: latent iron-grey under smoke-brown, following the probable Vectoria affinity at Ascension; no detectable field · signature sound: a low, even outward breath  
+**Stack** · sustainable C in perception and trained precision, D in physical force as recorded · cap +2 Grades · layers: none established  
+**Releases** · None at probable Stage III · bonded weapon: none  
+**Traits** · SAGE PERCEPTION, trained, formal Trait unassessed · tell: head turns before eyes follow · counter: wind and overlapping noise hide cues / THE REMAINING, trained, formal Trait unassessed · tell: heels settle on the outgoing breath · counter: a hooked leg or sideways pull breaks the base  
+**Techniques** · GAP-STANDING · tell: weight shifts toward the threatened person · counter: a false gap or simultaneous threats / THE SAGE'S DRAW · tell: eyes settle before the bow rises · counter: close range or unpredictable movement / STILLNESS · tell: shallow breath and motionless hands · counter: forced movement  
+**Voice** · "I made a promise to someone. He is gone. The promise is not." · speaker type: a quiet island gardener's apprentice, listening before an exact practical answer  
+**Next gate** · Stage IV, Flourishing · Catalyst: formation of the first genuine Spirit Axis bond · Band gate: Flourishing before Level 100 can be surpassed · present crisis: broken forearms and bow after the duel, the Class X Open Tournament seven days away
 
 ---
 
-### I · Identity
+*The Turtle's Ward · The Sage's Arrow · Card — (pending)*
+
+> **Level 95 in a body trained outside the Accord's framework.** The Sage Arts cultivated perception and spatial processing into C-Grade territory through a method no Accord diagnostic recognizes. No formal Wellspring harmonization. No formal assessment. No one has told him what he is yet.
+
+## I. Identity
+
+**Full Name** · Xanelor Rafiminar
+
+**Pronunciation** · ZAN-eh-lor rah-FIM-ih-nar
+
+**Alias / Title** · The Turtle's Ward · The Sage's Arrow
 
 **As Of** On one knee in the Arena, after the duel
 
@@ -24,11 +46,20 @@ title: "Xanelor Rafiminar"
 **Age** 14 · **Sex** Male
 
 **Standing** No standing. No registration. Accepted into the Aetherion Academy by letter of recommendation from his guardian, Drogo. Has never been assessed, classified, or ranked by any Accord-affiliated body.
+
 > **Catalyst Event.** Unknown. The scars predate his earliest memory. Three parallel cuts, temple to jaw, left cheek, healed into permanent raised ridges. Whatever made them was not an animal and was not an accident. Drogo found the child screaming in a language Drogo did not speak, face half-ruined, lashed to a piece of wreckage that bore no flag or mark. **The event triggered a Crystal seed that has developed unsupervised for twelve years under Sage Arts cultivation.**
 
----
+**Realm / Faction** · Omoro Island upbringing; Aetherion Academy, Class X.
 
-### II · Soul Architecture
+**School and sect rank** · Drogo's Sage Arts pupil; Academy student, with no recorded sect rank.
+
+**Renown** · public: The Turtle's Ward among Omoro fisherfolk, Shell-Boy among the village boys; Academy: the masked boy who declared no magical potential and fought Hiromi; army, sects and guilds: no recorded reputation.
+
+**Refusal** · He will not leave someone to take a blow he believes he can stand between.
+
+**Conviction** · A good deed is worth the harm it keeps from someone else, even when nobody knows who did it.
+
+## II. Soul Architecture
 
 **Level** **95 / 500** · Band I — Mortal Foundation (1–100). *Five levels from the Stage IV gate. Sage Arts training has produced sub-stat output inconsistent with standard Band I profiles (estimated)*
 
@@ -48,22 +79,33 @@ title: "Xanelor Rafiminar"
 
 **Attraction / Obsession** Clean, latent
 
----
+**Soul Crystal Tier** · Awakened, corresponding to probable Stage III.
 
-### III · Work Architecture
+**Stage equivalent** · Journeyman; no Accord standing or registration conferred.
 
-> *The Sage Arts are not magic in the Accord's definition. They are a pre-Accord cultivation method native to Drogo's people, an extinct or near-extinct chelonian race who inhabited Omoro Island's eastern ridge. The method develops bodily perception, spatial processing, breath control, and environmental awareness without formal Essence channeling or Wellspring harmonization.*
-**The Way of Growing Things** · Drogo's combat philosophy. Evasion, redirection, gap-reading. No strikes initiated — all responses channel the opponent's force into positions they did not choose. *The uproot, the transplant, the cut-and-redirect.*
+**η** · 0.40; no personal assay.
 
-**The Eye Before the Hand** · Archery as the primary weapon discipline. Observation before action. The arrow as correction-at-distance rather than ego-at-contact. *"The sword says I am here. The arrow says I have seen what needs correcting."*
+## III. Wellspring Harmonizations
 
-**Unnamed** · The spatial awareness cultivated through the stake-field blindfolded exercises. Air-displacement reading, sound-mapping, position-tracking without sight. *This may be a latent Vectoria harmonic operating below the threshold of formal detection.*
+No formal Wellspring harmonization.
 
----
+## IV. Primary Stats
 
-### IV–V · Stats
+| Primary | Recorded figure | Recorded Grade |
+|---|---|---|
+| Vitality | 130 | D |
+| Ardency | 55 | E |
+| Gnosis | 165 | C |
+| Dexterity | 170 | C |
+| Harmonics | 35 | F |
+| Resilience | 125 | D |
+| Tempering | 145 | C |
+| Dominion | 25 | F |
+
+## V. Sub-Stats
 
 > *All values are Natalie's estimates based on Level 95 Band I allocation (12 pts/level, ~1,140 total) and narrative training emphasis. Pending Isaac's ruling. Marked (est.) throughout.*
+
 **Gnosis** · 165 (est.) · Grade C — Acuity 190 (est.) · Analysis 175 (est.) · Retention 140 (est.) · Sapience 130 (est.) · *Sage Arts primary axis. The hearing, the reading, the spatial mapping — all Gnosis-heavy*
 
 **Dexterity** · 170 (est.) · Grade C — Economy 185 (est.) · Finesse 180 (est.) · Celerity 155 (est.) · *Four years of stake-field, bow work, and jungle movement*
@@ -80,9 +122,7 @@ title: "Xanelor Rafiminar"
 
 **Harmonics** · 35 (est.) · Grade F — *No Wellspring contact. Spike expected upon first harmonization — twelve years of unacknowledged Crystal growth means the resonance backlog may be significant*
 
----
-
-### VI–VII · Force and Flow
+## VI. Physical Force
 
 **Strike Force** · D-Grade equivalent through physical force and Sage Arts body mechanics alone. No Essence amplification. *Archery output disproportionately high for the level — the read-and-release discipline concentrates kinetic delivery*
 
@@ -94,46 +134,77 @@ title: "Xanelor Rafiminar"
 
 **Domain Pressure** · None
 
+## VII. Aether Flow
+
+**Full reserve** · 43,385.03978048041 EU.
+
 **EU Reserve** · Unmeasured. Estimated low-moderate — the Crystal has been developing for twelve years, so raw capacity exists, but no trained channeling pathway to access it
 
 **Flux Density** · Unmeasured · **AU/s** Unknown · **η** Unclassified
 
----
+**Disciplines and reserve** · No trained Essence channeling is added by these figures. The Sage Arts disciplines retain their bodily costs and limits.
 
-### VIII–IX · Traits and Domain
+## VIII. Traits
 
-**Sage Perception** · Trained · Way of Growing Things — *environmental awareness operating at C-Grade while formal Essence perception sits at F. Can hear tide-crabs clicking over wet stone from half a mile. Can distinguish plant species by touch in the dark. Can feel air displacement against skin and map a changing obstacle field blindfolded.* Whether this constitutes a Trait in the formal sense or is pure physical training refined to an extreme the Accord rarely sees is the diagnostic question.
+**SAGE PERCEPTION (Trained faculty; formal Trait unassessed)**
 
-**The Remaining** · Trained · Flow — *Drogo's foundational discipline. Not a technique. A posture. The decision to be present when struck and to still be there when the striker exhausts himself.* Functionally: passive damage absorption and position maintenance under pressure, sustained through breath control and body mechanics rather than Essence reinforcement.
+Trained · Way of Growing Things — *environmental awareness operating at C-Grade while formal Essence perception sits at F. Can hear tide-crabs clicking over wet stone from half a mile. Can distinguish plant species by touch in the dark. Can feel air displacement against skin and map a changing obstacle field blindfolded.* Whether this constitutes a Trait in the formal sense or is pure physical training refined to an extreme the Accord rarely sees is the diagnostic question. **Cost:** sustained attention and the fatigue of holding several sounds and movements in mind; no trained Essence expenditure. **Limit:** he needs sound, touch or moving air to locate what he cannot see. **Tell:** his head turns toward movement before his eyes follow, and he leaves his scarred cheek exposed to the air. **Counter:** wind and several overlapping noises hide the small cues he separates; a motionless threat behind a solid barrier gives him no changing cue to follow.
+
+**THE REMAINING (Trained discipline; formal Trait unassessed)**
+
+Trained · Flow — *Drogo's foundational discipline. Not a technique. A posture. The decision to be present when struck and to still be there when the striker exhausts himself.* Functionally: passive damage absorption and position maintenance under pressure, sustained through breath control and body mechanics rather than Essence reinforcement. **Cost:** breath, tiring legs and the bruising of force that still reaches his body. **Limit:** it needs footing and room for his knees and hips to give; it supplies no Essence-layer defense. **Tell:** his heels settle, his knees soften and a low breath leaves him as contact comes. **Counter:** a hook behind the planted leg or a pull across his stance takes away his base; a pinned body cannot give with the blow.
+
+## IX. Domain
 
 **Domain** · None. Pre-seed. Crystal architecture exists but has never been projected. First Domain contact may occur during formal training and is likely to be Vectoria-aligned if it does.
 
----
-
-### X · Techniques
+## X. Techniques
 
 > *Xanelor carries no Essence-channeled techniques. What he carries are trained physical disciplines with unusual precision for his age, all derived from the Sage Arts. At Level 95, they register as low-C to mid-D Grade in output despite zero Essence amplification.*
-**Gap-Standing** · Spatial positioning discipline. Reads where harm will land and occupies that position before it arrives. Trained through four years of increasingly complex obstacle courses. *Effect:* interposition between threat and target at speed above apparent physical capability. *Cost:* physical fatigue, bruising, positional commitment. *Limit:* one gap at a time; simultaneous multi-angle threats exceed his coverage. *Counter:* feints that draw him to a false gap, then strike the real one. **What nobody knows:** the gap-reading is almost certainly Vectoria pre-harmonization, operating on instinct rather than calculation. Formal harmonization will make this exponentially faster.
 
-**The Sage's Draw** · Archery discipline. Observation-first shooting — the target is read before the bow is drawn, the draw is completed in one motion without sighting pause, the release follows the read rather than the aim. *Effect:* first-shot accuracy at medium range (30–60 paces) significantly above Level 95 standard, under field conditions. *Cost:* time. The read takes 1–2 seconds; a faster archer gets two shots in that window. *Limit:* diminishing accuracy past 80 paces, poor performance against targets moving in genuinely unpredictable patterns. *Counter:* close the distance past bow-range; chaotic movement that defeats the read.
+**GAP-STANDING (Sage Arts discipline)**
 
-**Stillness** · Breath and body control discipline. Two hours of complete immobility under standard conditions. *Effect:* heartrate suppression, thermal regulation, near-invisible presence when stationary. Gecko test: a wild animal will nest on him without registering him as alive. *Cost:* transition time from stillness to motion (0.3–0.5 second recovery). *Limit:* environmental extremes degrade duration. *Counter:* force movement; the discipline is irrelevant if he cannot hold position.
+Spatial positioning discipline. Reads where harm will land and occupies that position before it arrives. Trained through four years of increasingly complex obstacle courses. *Effect:* interposition between threat and target at speed above apparent physical capability. *Cost:* physical fatigue, bruising, positional commitment. *Limit:* one gap at a time; simultaneous multi-angle threats exceed his coverage. *Counter:* feints that draw him to a false gap, then strike the real one. **What nobody knows:** the gap-reading is almost certainly Vectoria pre-harmonization, operating on instinct rather than calculation. Formal harmonization will make this exponentially faster. **Tell:** his weight moves toward the threatened person before he crosses the gap; the planted foot makes a short scrape. **Sound:** that scrape and a low outward breath.
 
----
+**THE SAGE'S DRAW (Sage Arts archery discipline)**
 
-### XI–XII · Axes and Resistances
+Archery discipline. Observation-first shooting — the target is read before the bow is drawn, the draw is completed in one motion without sighting pause, the release follows the read rather than the aim. *Effect:* first-shot accuracy at medium range (30–60 paces) significantly above Level 95 standard, under field conditions. *Cost:* time. The read takes 1–2 seconds; a faster archer gets two shots in that window. *Limit:* diminishing accuracy past 80 paces, poor performance against targets moving in genuinely unpredictable patterns. *Counter:* close the distance past bow-range; chaotic movement that defeats the read. **Tell:** his eyes settle on the target while the bow is still low, then his drawing hand rises without a second sighting pause. **Sound:** a dry string-note and the brush of fletching.
+
+**STILLNESS (Sage Arts discipline)**
+
+Breath and body control discipline. Two hours of complete immobility under standard conditions. *Effect:* heartrate suppression, thermal regulation, near-invisible presence when stationary. Gecko test: a wild animal will nest on him without registering him as alive. *Cost:* transition time from stillness to motion (0.3–0.5 second recovery). *Limit:* environmental extremes degrade duration. *Counter:* force movement; the discipline is irrelevant if he cannot hold position. **Tell:** his breathing grows shallow and his hands stop making small corrections. **Sound:** the last slow breath fades into silence; movement returns with an audible intake.
+
+**Releases** · None. First Release begins at Stage IV, Flourishing.
+
+**Bonded weapon** · None. The Omoro bow is broken after the duel.
+
+## Skills
+
+### Work Architecture
+
+> *The Sage Arts are not magic in the Accord's definition. They are a pre-Accord cultivation method native to Drogo's people, an extinct or near-extinct chelonian race who inhabited Omoro Island's eastern ridge. The method develops bodily perception, spatial processing, breath control, and environmental awareness without formal Essence channeling or Wellspring harmonization.*
+
+**The Way of Growing Things** · Drogo's combat philosophy. Evasion, redirection, gap-reading. No strikes initiated — all responses channel the opponent's force into positions they did not choose. *The uproot, the transplant, the cut-and-redirect.*
+
+**The Eye Before the Hand** · Archery as the primary weapon discipline. Observation before action. The arrow as correction-at-distance rather than ego-at-contact. *"The sword says I am here. The arrow says I have seen what needs correcting."*
+
+**Unnamed** · The spatial awareness cultivated through the stake-field blindfolded exercises. Air-displacement reading, sound-mapping, position-tracking without sight. *This may be a latent Vectoria harmonic operating below the threshold of formal detection.*
+
+## XI. Spirit Axes
 
 **Drogo** *(guardian, dead or dying)* — Foundational, absolute, permanent. **Every decision Xanelor makes answers a question Drogo asked him.** *Stand in the gap. The strong thing remains. Let them see the good, not the face behind it.*
 
 **Origin** *(unknown, pre-memory)* — **Unprocessed.** The scars, the wreckage, the language Drogo did not speak. A hole in his history that he has not yet begun to excavate. *The academy, or what comes after it, will force this open.*
 
+## XII. Resistances
+
 **Resistances** · Physical conditioning at D-Grade through non-standard cultivation. No Essence-based resistances, no ancestral protections, no Crystal-derived hardening in the formal sense. **Vulnerabilities:** complete absence of Essence-layer defense. A practitioner with formal training in direct Essence assault will find no trained resistance — though the Crystal architecture, once accessed, may provide raw capacity that compensates. *The Sage Arts built the body. They did not build the shield.*
 
----
-
-### XIII–XV · Description, Psychology, Equipment
+## XIII. Physical Description
 
 Brown skin, lean through the shoulders and waist, beginning to fill the frame that hard island living and four years of daily physical training have built — the proportions of a distance runner rather than a brawler, still growing into the last of adolescent height. Three parallel scars mapping the left cheek from temple to jaw, healed into permanent ridges of scar tissue the colour of ripe plums, vivid against the brown. Hair a mix of black and umber-brown, thick, falling past the shoulders, covering the worst of the scars when he lets it. He does not always let it. Hands calloused from bow, staff, and garden work, stained faintly green at the nail beds from years of volcanic soil. Moves with a careful, considered quality that reads older than fourteen — *the quality of someone trained to feel where everything in a room is without looking at it.*
+
+## XIV. Psychology
 
 **Core Wound** — Found scarred and screaming in wreckage at two, raised by a dying old turtle on a rock in the ocean, and sent away because the one person who loved him could not stay alive long enough to keep him
 
@@ -147,7 +218,23 @@ Brown skin, lean through the shoulders and waist, beginning to fill the frame th
 
 **Voice** — Quiet. Listens longer than anyone expects. When he speaks it is considered and specific, not hesitant — he chose every word in the silence before it. Physical rather than verbal: leads with the body, follows with the mouth. Under pressure goes still rather than loud. Drogo's speech patterns surface in his proverbs: *the river does not try to be the river. Stand in the gap. The tongue learns what to forgive.*
 
-**Equipment**
+**Voice block**
+
+**Speaker type** · A quiet island gardener's apprentice who listens to the whole instruction, then answers with the exact thing his hands must do.
+
+**Chant tongue** · No chants or release calls in his present disciplines.
+
+**Notices first** · Ground, openings and the nearest person exposed to harm.
+
+**Sentence length** · Considered, specific statements after a long listening pause.
+
+**Contractions** · Sometimes.
+
+**Stress shift** · Stillness before speech.
+
+**Sample line** · "I made a promise to someone. He is gone. The promise is not."
+
+## XV. Equipment
 
 **The Helm** · Slatted iron, cross-shaped visor slots, forged by Drogo. Green silk trailing from the crown — the only colour Drogo called beautiful. Functions as the mask: identity concealment during action, anonymity as philosophy. *"Let them see the good. Not the face behind it."*
 
@@ -165,16 +252,18 @@ Brown skin, lean through the shoulders and waist, beginning to fill the frame th
 
 **The Mask** · Shell. Drogo's shell, flaked and carved over four years. Half-face, half-landscape. Mountain-ridge brow, river-stone cheeks, tide-line markings, no mouth. **Carried but not worn over the helm.** Reserved. *Its use will mean something.*
 
----
-
-### XVI–XVII · Temperance and Fractures
+## XVI. Temperance Record
 
 **I Murmuring** — entered unconsciously through Sage Arts cultivation, likely within the first year of training with Drogo. No formal awakening event.
 
 **II Welling** — passed through without recognition, probably age seven or eight. The Sage Arts continuous-cultivation method does not produce the standard discrete transition.
 
 **III Ascension** — probable current stage. *The ceiling of C/175 aligns with his strongest sub-stats, which suggests the Stage architecture is present even if the method of arrival was non-standard.*
+
 > *Five levels from the Stage IV Flourishing gate. Whether the Sage Arts path produces a standard gate transition or something else entirely is an unanswered question. Drogo's people may have had their own name for what happens at the boundary.*
+
+## XVII. Fracture Log
+
 **Fracture Log** · *The Scarring (age two)* — unknown origin, unknown mechanism. Three parallel cuts, non-animal, non-accidental. Healed physically; psychologically unprocessed because pre-memory. **This constituted the Crystal catalyst. Twelve years of unsupervised development under Sage Arts cultivation have produced an architecture that will not correspond to any Accord-documented progression pattern.**
 
 ---
@@ -185,17 +274,19 @@ Brown skin, lean through the shoulders and waist, beginning to fill the frame th
 
 ---
 
-### Lore · The Life Behind the Card
+## Lore
+
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the twelve archived scenes it appears in, and the record of Class X and what it grows into. What those sources do not state is new here.*
 
-#### Origin
+### Origin
 
 No record says where Xanelor Rafiminar was born, or to whom. At two he was lashed to a piece of wreckage that bore no flag or mark, on the northern shore of Omoro Island, and Drogo found him there. The child was screaming in a language Drogo did not speak. His face was half-ruined. Three parallel cuts ran down the left cheek from temple to jaw, and they healed into raised ridges that darkened over the years from pink to the colour of ripe plums. Whatever made them was no animal and no accident. Drogo never asked about them. He had decided that the knowing mattered less than the tending.
 
 Omoro lay three days south of the nearest charted coast, volcanic rock under moss and jungle. The fisherfolk of the northern strand called the boy the turtle's ward, and their sons called him Shell-Boy. Drogo was a turtle, or near enough that the difference had stopped mattering. His people were gone from the halls on the eastern ridge. He named the boy and raised him halfway up the leeward slope, in a hut whose low lintel the boy struck with his forehead every morning until he learned not to stand up straight. An old arrow jutted from the crown of Drogo's shell, with a stonechat nesting against its shaft. Xanelor asked about it once, when he was small. "A reminder, it is. That even the patient may be found by someone less so." He never asked again.
 
-#### The Making
+### The Making
 
 At six he came up the hill with blood on his knees, after three older village boys caught him at the tide pools. He asked Drogo to teach him to fight. Drogo asked him why, and set him to weed the fourth bed by hand. Xanelor weeded it every day of that wet season, until his fingers were green to the second knuckle and he could tell crabgrass from purslane by touch in the dark. By ten the village boys had stopped coming. When they shoved he was there, and when they swung he was somewhere else. He told Drogo he had moved the way Drogo moved around the plants, and the old turtle said the lesson had arrived.
 
@@ -205,7 +296,7 @@ In the second year the cough came. Drogo changed the lessons and did not slow th
 
 Drogo had written to the Headmaster of the Aetherion Academy when the cough began, and the answer had come back under a blue tower seal. Two days after the last morning Xanelor left on a trading vessel, in the gear Drogo had made him. He had been told not to look back. He looked back. Whatever the wreck had started in him had grown for twelve years under the Sage Arts, and nobody had measured it. The Academy's intake board wrote "no detectable pressure" on his sheet and underlined it.
 
-#### The Cost
+### The Cost
 
 Drogo taught him that a man who takes the credit for a good deed has done two things, and the second eats the first. At the Academy, asked for his goal, Xanelor answered through the shell: "I made a promise to someone. He is gone. The promise is not." At the introductions he stood, said he had no magical potential whatsoever, and named Omoro and a grandfather who had passed away. Then he said, "That is all." At the dorm assignments he asked for a room of his own, "So I don't have to wear this mask all the time." The green cross over his heart had been stitched by shaking hands, and he had never restitched it.
 
@@ -213,7 +304,7 @@ On the first morning Hiromi Mahuo challenged him. He advised against it and acce
 
 He let the gauntlets of Juggernaut's Fist land on his forearms, and pushed back from inside the bones until both began to crack. Then he let the dead drag on his right arm pull the string. The bow split through its upper limb in the draw. Drogo's hands had started that bow. His own had finished it at ten.
 
-#### Where They Stand
+### Where They Stand
 
 Xanelor is fourteen. No Accord body has assessed, classed or ranked him, and he holds no standing and no registration. His seat in Class X is the back row, far left, beside the service corridor he mapped on his first day. His hair falls over the scars when he lets it. Under the coat hangs the copper hammer Drogo wore, which Drogo said had belonged to someone who built things.
 
@@ -221,7 +312,7 @@ The duel has left him on one knee in the Arena sand, with hairline fractures in 
 
 What made the scars, and where the wreck came from, he has not begun to ask. Nobody has yet told him what he is.
 
-#### Ties
+### Ties
 
 - **Drogo** · guardian. He found him in the wreck, named him, and called him the best thing he ever grew.
 - **Hiromi Mahuo** · rival. Hiromi challenged him for his different style, and the duel broke Xanelor's forearms and his bow and emptied Hiromi, with no winner named.

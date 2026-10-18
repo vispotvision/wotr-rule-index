@@ -1,32 +1,56 @@
 ---
+private: true
+type: character-card
 title: "Ziyu \"Pip\" Inari · The Two-Tailed Cipher"
+subtitle: "The Two-Tailed Cipher · Bloom of the Shadow Gate"
+culture: "Concord"
+rung: full
+as_of: "Level 220, following the Concord raid on which Raivhar Drakonis spared him"
+sources: "Named prior card; exact-title character and fow_line; Fracture of Worlds Parts One, Three, Four, Five, Nineteen, Twenty-One, Twenty-Two and Twenty-Three; Master Codex; The Color of Essence; Release Forms"
+pc: false
 ---
 
 # Ziyu "Pip" Inari · The Two-Tailed Cipher
 
-## Ziyu "Pip" Inari · The Two-Tailed Cipher
-
-**Say it** · DZUH-yoo ee-NAH-ree
-> *"You never see the snare until the flowers open."*
+**Ziyu "Pip" Inari** · The Two-Tailed Cipher · Concord · as of Level 220, after Raivhar spared him  
+**Stat line** · Level 220 · Band III, Sovereign · Stage VII, Refraction · Path Body dominant, Spirit secondary · Expert · η ~0.60 · Aether Class III, Resonant · Crystal Resonant, Refined  
+**Combat grammar** · Expenditure  
+**Aura and sound** · colour: grey and black-violet, separate and shifting with the viewing angle; green at the Bloombrand when flora is worked · signature sound: two dry seed-pod clicks, one from each tail  
+**Stack** · sustainable A · cap +2 Grades · recorded S peaks enter strain · layers: OPEN HANDS or BORROWED GROUND; the Second includes the First's shape and replaces its drain  
+**Releases** · OPEN HANDS (First Release) / BORROWED GROUND (Second Release) · bonded weapon: none  
+**Traits** · TWIN-TAIL FLUX (Primary) · tell: tails perform separate hand-like movements · counter: restraint of a tail removes that working hand / BLOOMBRAND (Passive) · tell: the facial flower opens · counter: the visible crown exposes him during flora work / SILENT-STEP VEIL (Passive) · tell: moving foliage and footprints without matching sound · counter: observation from an uncovered angle or across unshadowed ground  
+**Techniques** · THE VERDANT VEIL · tell: the planting, opening facial flower and fixed signed inscription · counter: cut the seal before firing, cut the growing binding during contact, destroy its inscribed footing afterwards  
+**Voice** · "You never see the snare until the flowers open." · speaker type: a nursery grower trading cuttings, mild and practical, with the warning left inside the gardening advice
 
 ---
 
-### I · Identity
+## I. Identity
+
+**Full Name** · Ziyu "Pip" Inari  
+**Pronunciation** · DZUH-yoo ee-NAH-ree  
+**Race / Lineage** · Beastkin; born with two tails  
+**Refusal** · He will not return an escaped labourer to the holding that claims them.  
+**Conviction** · What he puts into the ground should keep working after he has gone, even when remaining to watch would be safer for everyone else.
 
 **Name** · Ziyu **"Pip"** Inari. **Aliases** · **The Two-Tailed Cipher.** *Bloom of the Shadow Gate.*
 
 **Role** · **Stealth Operative. Wellspring Infiltrator. Dual-Tail Combatant.**
 
-**Gloss rights** · **Diagnostic only.** *An unlisted operative whose one recorded sentence is about not being seen. His art gets named by an instrument or a faculty read, and never by him.*
-
-#### Affiliation
+### Affiliation
 
 **Black Concord** · *unlisted operative.* **Occasional liaison to the Kuromaki Association.**
+
 > **Catalyst Event · Stage VII, Refraction.** *The card gives no Stage by name.* **What it gives instead is the Cycle: he gains strength by planting essence seeds that later sprout into traps, bindings or sensory wards.** *A working left in the ground that fires after the practitioner has gone is, in the current system, the description of a Domain seed: small, fragile, delayed — and Refraction's Threshold Catalyst is exactly the first Domain seed activation, however fragile.* **The Volume IV wiki mirror already reads it the same way and commits to Stage VII; that committed reading governs here.**
 
----
+## II. Soul Architecture
 
-### II · Soul Architecture
+**Level** · 220  
+**Band** · III, Sovereign  
+**Temperance Stage** · VII, Refraction  
+**Path** · Body dominant, Spirit secondary  
+**Tier of Standing** · Expert  
+**Soul Crystal Tier** · Resonant  
+**Essence Typology** · Limina dominant
 
 **Aether Shell** · **Class III · Resonant.** *Power moves in silence, which for an infiltrator is the whole brief.* The Volume IV wiki mirror already commits to this Class for the character; adopted here rather than cited as a proposal.
 
@@ -38,9 +62,7 @@ title: "Ziyu \"Pip\" Inari · The Two-Tailed Cipher"
 
 **Bloombrand** · **The floral mark on his face is a living glyph that grows when he manipulates Wellspring flora; in high Essence states it blooms into a full petal crown.** *A Traitus shape: passive, permanent, visible only under a condition and gone when the condition lapses.*
 
----
-
-### III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Tenebra** · Limina. **Governing.** *Signal-to-noise reduction: a thing is undetectable when its return falls below the noise floor of whatever is looking.* **Silent-Step Veil, sourced exactly.** *Failure: aspect dependence. Observed from the one angle he did not plan for, he returns a very bright signal.*
 
@@ -49,86 +71,131 @@ title: "Ziyu \"Pip\" Inari · The Two-Tailed Cipher"
 **Fixatio** · Materia. **Anchors and seals.** *The essence seeds, laid in advance and holding until triggered; what Fixatio holds stays held, and a Fixatio binding placed in error is a permanent feature of whatever it was placed on.* **He cannot recall a seed once laid.**
 
 **Anamnesis** · Limina. **The sensory wards.** *Ground stores what passed over it in physically readable form; a ward is a patch of ground he has taught to keep a record.*
+
 > **"Charm (Persuasion / Emotional Redirection)" is not re-sourced to a Wellspring.** *It is a Harmonics reading, Empathy and Attunement,* and it appears below as Primary Harmonics 382 (A), with Harmonics Empathy 400 among the Sub-Stat Peaks.
 
----
-
-### IV · Primary Stats
+## IV. Primary Stats
 
 **Stage VII — Refraction** · **Level 220** · Level Band III · Tier of Standing 5, Expert · Grade A with late push toward S · Ceiling 475.
+
 > **Pool 7,900.** **Allocated 7,807.** *Figures adopted from the Volume IV wiki mirror's already-committed character card, not re-derived from scratch.*
 
-| Stat | Value | Grade | Reading |
-|---|---|---|---|
-| **Dexterity** | **466** | S | Near ceiling. Two tails and a silent step |
-| Gnosis | 424 | S | He knows where to put the seed |
-| Harmonics | 382 | A | The Charm work |
-| Tempering | 338 | A |  |
-| Vitality | 294 | A |  |
-| Resilience | 250 | B |  |
-| Ardency | 206 | B | He does not fight. The garden does |
-| **Dominion** | **162** | C | **His floor — and it is the whole joke** |
+| Primary | Implied total | Recorded mean | Grade | Reading |
+|---|---|---|---|---|
+| **Dexterity** | 3,728 | **466** | S | Near ceiling. Two tails and a silent step |
+| Gnosis | 3,392 | 424 | S | He knows where to put the seed |
+| Harmonics | 3,056 | 382 | A | The Charm work |
+| Tempering | 2,704 | 338 | A | |
+| Vitality | 2,352 | 294 | A | |
+| Resilience | 2,000 | 250 | B | |
+| Ardency | 1,648 | 206 | B | He does not fight. The garden does |
+| **Dominion** | 1,134 | **162** | C | **His floor — and it is the whole joke** |
 
 **Path** · **Body dominant, Spirit secondary** *(the tails and the silent step; the Charm work).*
+
 > **Dominion 162 with Ardency Inscription at 415.** *Inscription is the glyph-cutting sub-stat — more than double his raw Ardency and more than double his Dominion.* **He holds no territory and plants seeds in everybody else's. He cannot seat a Domain and does not need to; the working glyphs go into ground that belongs to the people he is infiltrating, and they sprout after he has gone.** *Which is why a territorial floor makes him a Black Concord asset rather than a liability.*
 
----
+**Unspent Pool** · 93 points
 
-### V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Dexterity Silence 475** *(at ceiling)* · Dexterity Finesse 460 · Gnosis Perception 445 · Dexterity Economy 430 · **Ardency Inscription 415** · Harmonics Empathy 400 · Gnosis Vigilance 385 · Dexterity Evasion 370 · Tempering Latency 355 · Harmonics Attunement 340 · Gnosis Cartography 325 · Dexterity Independence 310 · Vitality Filtration 295 · Resilience Coherence 280. *Adopted from the Volume IV wiki mirror's committed sheet.*
 
----
+## VII. Aether Flow
 
-### VI · Traits
+**EU Reserve** · 1,733,165.36 EU  
+**Flux Density** · 62,000 EU/g · **AU/s** · 37,200 at η 0.60  
+**Recovery** · 173,316.536 EU per minute at rest on ordinary ground; active recovery two to three times that rate while concentrating and not fighting  
+**Starvation floor** · 173,316.536 EU  
+**Starvation clock** · 41.93142 seconds at continuous full output, without recovery  
+**Release clocks** · OPEN HANDS: six minutes from full to the tenth; BORROWED GROUND: three minutes from full to the tenth. Workings paid during either release shorten its remaining time.
 
-**Twin-Tail Flux** · **Independent Essence circuits in each tail, acting as secondary hands in combat or infiltration.**
+## VIII. Traits
 
-**Bloombrand** · **A living glyph on his face that grows when he manipulates Wellspring flora, blooming into a full petal crown at high Essence states.**
+**TWIN-TAIL FLUX (Primary Trait)**
 
-**Silent-Step Veil** · **Movement in Shadow-aspected Essence zones becomes soundless and nearly scentless.** *Tenebra. "Shadow-aspected zones" reads as ground where the ambient noise floor is already low.*
+**Twin-Tail Flux** · **Independent Essence circuits in each tail, acting as secondary hands in combat or infiltration.** The separate paths keep each tail's Essence flow under its own control; they share his one reserve and do not multiply it. The Trait itself adds no separate casting charge: each working carried by either tail pays its own full cost. The tell is the two tails making different fine movements at once. A tail held against his body cannot perform those movements, and a working that needs its contact fails when that contact is broken.
 
----
+**BLOOMBRAND (Passive Trait)**
 
-### VII · Artifacts
+**Bloombrand** · **A living glyph on his face that grows when he manipulates Wellspring flora, blooming into a full petal crown at high Essence states.** The standing mark follows the flow used on living flora and adds no separate reserve charge to that work. Its opening petals are its tell and its cost to concealment. It supplies no armour or extra pair of eyes. A watcher who can see his face can track the flower while it is open; covering the mark does not remove the aura of a release. When the flora work stops and the high Essence state passes, the crown closes.
+
+**SILENT-STEP VEIL (Passive Trait)**
+
+**Silent-Step Veil** · **Movement in Shadow-aspected Essence zones becomes soundless and nearly scentless.** *Tenebra. "Shadow-aspected zones" reads as ground where the ambient noise floor is already low.* The Shell lowers the sound and scent leaving his movement along the shadowed approach he is using. It costs 0.05% of full reserve per second, 866.58268 EU/s, giving thirty minutes from full to the tenth without other spending or recovery. It does not erase footprints, bent grass, displaced dust or the motion of his tails. Those movements without their expected sound are its tell. Light across his route, an observer on an uncovered side, or the loss of the shadow-aspected ground defeats the concealment. A release still has its own visible flare and sound.
+
+## IX. Domain
+
+**BORROWED GROUND (Domain seed)**
+
+The Second Release opens and powers a fragile field over ground he has already planted. Its radius is 3 metres from his feet. Within it, each tail can guide one existing rooted stem as a working hand through its connection to that ground. Only two such grips can be held at once, and they share his attention and reserve. It does not plant seeds at a distance, fire an unchanged seed early, recall a planting, or claim a lasting territory. It opens in the release beat and lasts up to three minutes from full, ending at the tenth or immediately when his concentration breaks. Cutting the guided stem away from its roots breaks that grip; breaking his focus collapses the field, and stronger Dominion can press its edge back. His fixed inscriptions remain after the field falls. He cannot seat a lasting Domain.
+
+## X. Techniques
+
+**THE VERDANT VEIL (Signature Technique)**
+
+**Effect** · **Essence seeds planted in advance, sprouting later into traps, bindings or sensory wards.** *Nothing happens while he is there. Everything happens afterwards.* **He thrives in covert operations and sabotage and gains strength from the planting.** *In the system's words: a Verdantia working cut as a glyph (Ardency Inscription), sealed into ground by Fixatio, keyed to a condition, with an Anamnesis layer where the seed is a ward rather than a snare.* **Cost** · **Fixatio is permanent. He cannot recall a seed once laid.** *There are gardens he has forgotten planting, in ground he no longer has reason to visit, and each of them is still a working with his signature on it.* **A Measurewright who finds one has a record of who was there.** **Limit** · **He must have been there first.** A seed is a working left behind; it is useless against an enemy who arrives before he does or who never crosses the ground. **Counter** · **Search the ground.** *A Fixatio seal is a fixed inscription and degrades like any inscription; it can be found, read and cut before it sprouts.* **Or catch him at the planting, when there is no garden yet and only a stealth operative with two tails and a low output stat.** *Tenebra's aspect dependence means the angle he did not plan for is the one that finds him.* **What nobody knows.** How many seeds are currently in the ground, and whose ground. Each ordinary seed takes 1% of his full reserve, 17,331.6536 EU, paid when planted; the sealed charge is spent once when its condition is met. There is no ongoing drain from him while it waits, and no refund when it is cut. Ninety ordinary plantings spend a full reserve down to the tenth without recovery. The binding directs growth around the contact that trips it; cutting the growing stems releases that contact, and destroying the inscribed footing prevents the same seed from answering again. A ward leaves its record in the ground; Anamnesis reads it, with coarse reading damaging what it reads. The tell at planting is the opening Bloombrand, the tail or hand against the ground and the signed seal left there. When a binding opens, it gives a dry seed-pod crack. Poor ambient supply leaves the growth thin and weak; Fixatio keeps a mistaken condition fixed; Anamnesis cannot return a record its reading has destroyed. The sealed inscription and any surviving plant matter remain after the stored charge is spent.
+
+**Releases**
+
+**OPEN HANDS (First Release)** · folk name: Off the meter, Concord Common
+
+Grey and black-violet light outlines each tail as an open hand, and the two seed-pod clicks sound separately as their circuits open. The form strengthens the grip and fine control carried through Twin-Tail Flux without adding tails, increasing his reserve or giving him more things to attend to. Called aloud, tail-guided control reaches the top of its expressed S Grade for the duration; this is released expression, not an allocation of stat points. Released silently, the hands still appear and click, but Finesse remains at its recorded 460 and there is no call's rise. The drain is 0.25% of full reserve per second, 4,332.9134 EU/s: six minutes from full to the tenth, shorter when he also pays for workings. It ends at the tenth and leaves the tails shaking; holding it beyond that point is Overchannel. Its reach is the tails and what they physically touch. Restraining a tail, breaking its contact or keeping out of its reach denies that hand's work. The call exposes a beat before the rise. These are the reader's names for the form; Pip's own use stays silent.
+
+**BORROWED GROUND (Second Release)** · folk name: A main of his own, Concord Common
+
+The open hands flatten into two trailing bands across his previously planted ground, the Bloombrand opens fully, and the paired clicks lengthen into a dry rattle of seed husks. Grey and black-violet colour separate across the field, with green along the stems he guides. This opens and powers the Domain seed described above: each tail guides one rooted stem within 3 metres, extending its grip through living growth that is already there. Called aloud, that tail-guided control rises one Grade from S to SS; released silently, the field still forms and sounds, but the control stays S and gains no full-Grade rise. The field cannot revise a fixed seed's condition or make a seed sprout while that condition remains unmet. Its total drain, including the First Release's shape, is 0.5% of full reserve per second, 8,665.8268 EU/s: three minutes from full to the tenth before other spending. Both grips fall when his attention breaks. Severed roots or stems break their connection to the field, leaving its edge defeats its reach, and higher Dominion can push it off the contested ground. After it ends, his Crystal runs Overgrown until a full night's sleep, leaking his signature; holding it past the tenth risks a Crystal Fracture Event. Pip uses it silently.
+
+**Bonded weapon** · none
+
+## XIII. Physical Description
+
+His hair is the brown of a split chestnut husk, straight and cut short enough to clear his jaw, with the back tied away from his neck. He has a narrow face, broad cheekbones, a mouth that rests slightly unevenly, and dark eyes that settle on the ground beside a person's feet before returning to their face. His shoulders are slight, his forearms roped from planting, his fingers broad at the tips and worn beside the nails. His waist and hips are narrow, his thighs firm beneath loose trousers, and the two brown tails move independently behind him. His dull green coat fits close through the chest and has a divided back for the tails; the cuffs are polished from rubbing soil away, and both knees of his trousers have been patched from within. Soft boots are worn smooth along their outer edges. The floral mark spreads across his left cheek, usually flat against the skin, opening into the full petal crown when his work feeds it.
+
+## XIV. Psychology
+
+**Core Wound** · His birth entered as property in the grower's book.  
+**Desire** · Freedom to leave, with no holding entitled to call him back.  
+**Flaw** · He trusts a planting to keep his intention after he has stopped watching its consequences.
+
+**Voice block**
+
+**Gloss rights** · **Diagnostic only.** *An unlisted operative whose one recorded sentence is about not being seen. His art gets named by an instrument or a faculty read, and never by him.*
+
+**Speaker type** · A nursery grower trading cuttings: plain practical advice, patient pauses, a warning delivered with the same ease as a planting instruction.  
+**Chant tongue** · Concord Common; his releases are silent and he leaves his art unnamed in his own speech.  
+**Notices first** · Disturbed soil, a route someone has left open, and hands that might close it.  
+**Sentence length** · Usually one complete, measured sentence; he leaves space for the other person to answer.  
+**Contractions** · Sometimes.  
+**Lying tell** · One tail stops while the other continues its small working movement.  
+**Stress shift** · The gardening comparisons fall away; he names the exit or the obstruction plainly.  
+**Sample line** · "You never see the snare until the flowers open."
+
+## XV. Equipment
 
 **None on the card.** *The seeds are workings, not objects; the Bloombrand is a Trait. No weapon, mantle or focus is named.*
 
 ---
 
-### VIII · Signature
+## Lore
 
-#### The Verdant Veil
-
-**Effect** · **Essence seeds planted in advance, sprouting later into traps, bindings or sensory wards.** *Nothing happens while he is there. Everything happens afterwards.* **He thrives in covert operations and sabotage and gains strength from the planting.** *In the system's words: a Verdantia working cut as a glyph (Ardency Inscription), sealed into ground by Fixatio, keyed to a condition, with an Anamnesis layer where the seed is a ward rather than a snare.*
-
-**Cost** · **Fixatio is permanent. He cannot recall a seed once laid.** *There are gardens he has forgotten planting, in ground he no longer has reason to visit, and each of them is still a working with his signature on it.* **A Measurewright who finds one has a record of who was there.**
-
-**Limit** · **He must have been there first.** A seed is a working left behind; it is useless against an enemy who arrives before he does or who never crosses the ground.
-
-**Counter** · **Search the ground.** *A Fixatio seal is a fixed inscription and degrades like any inscription; it can be found, read and cut before it sprouts.* **Or catch him at the planting, when there is no garden yet and only a stealth operative with two tails and a low output stat.** *Tenebra's aspect dependence means the angle he did not plan for is the one that finds him.*
-> **What nobody knows.** How many seeds are currently in the ground, and whose ground.
-
----
-
-### IX · Relationships
+### Relationships
 
 **Hyo Miran** · **Trading partner in rare goods and information; both known for unpredictable deals.** *Hyo's own Volume IV sheet does not list Pip. One-directional on the record.*
 
 **Aurevian Lysanthir** · **Sometimes plays the informant; has sabotaged Aurevian's rivals more than once.**
+
 > *An unlisted Black Concord operative is clearing obstacles for an Arbitration Division negotiator.* **Aurevian's sheet frames it as "sometimes plays the informant." Pip's card says the sabotage went the other way, more than once, and only one of the two sheets admits it.**
+
 **Unconfirmed Patron** · **Rumoured ties to a "Shadow Court archon."** *Unattested. Kept as a rumour on the card, which is all the card claims it is.*
 
----
-
-### X · Chapter Appearances
+### Chapter Appearances
 
 **First appearance** · *WOTR: Chapter XXII, Petals in the Alley Fog.* **Major arcs** · *The Velvet Concord* (Ch. XXV) · *Twilight Garden Massacre* (Ch. XXIX).
+
 > **Codex** · Limina / Entropy, Void and Mind / Tenebra primary / Stage VII.
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of The Voice Between Wars and the Outer nobles. What those sources do not state is new here.*
 
@@ -164,7 +231,7 @@ There are gardens he has forgotten planting, in ground he no longer has reason t
 
 #### Ties
 
-- **Aurevian Lysanthir · Voice Between Wars** · informant. He sometimes plays the informant for Aurevian and has sabotaged Aurevian's rivals more than once, once with a seed on an Enforcement officer's road.
+- **Aurevian Lysanthir · Voice Between Wars** · informant. He sometimes plays the informant for Aurevian and has sabotaged his rivals more than once, once with a seed on an Enforcement officer's road.
 - **Raivhar Drakonis · The Ashen Horn** · spared. On a Concord raid the Ashen Horn caught him at the planting, spared his life, and holds him in wary respect.
 - **Seraphion Veydrak · The Chain-Halo** · suspicion. Seraphion views him with suspicion for his chaotic nature.
 - **Hyo Miran · The Velvet Dealer** · trade. They trade rare goods and information, and both are known for unpredictable deals.

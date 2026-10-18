@@ -1,25 +1,33 @@
 ---
+private: true
+type: character-card
 title: "Ymir Rhok · The Emberhand"
+subtitle: "The Emberhand · Borin's Whetstone · Young Anvil"
+culture: "Stannvaard / Guild Accord"
+rung: full
+as_of: "After fitting the Deep Mantle seal brackets, while apprenticed to Borin Ironheart"
+sources: "Prior Ymir Rhok card; character and fow_line readbacks; Fracture of Worlds, Parts One, Four and Twenty-One; The Color of Essence; The Master Codex"
+pc: false
 ---
 
 # Ymir Rhok · The Emberhand
 
-**Say it** · EE-meer ROK
-> *"A dull blade's an insult to its maker. I'd rather shatter it and start again than leave it blunt."*
->
-> **Invented Stage name.** The card reads **"Stage II — Shaping."** *Shaping is not among the sixteen; Stage II is Welling.* Numeral stands — *and it is correct for an apprentice.*
->
-> *"Earth / Fire / Balance"* were not Essence types.
->
-> **He is the lowest-Stage character in Volume IV, and that is the point of him.**
->
-> *Stage II — Welling — is where Essence stops being ambient and starts being yours. The Catalyst is the first successful deliberate channeling, and the recorded reaction is almost universally a small, private astonishment.*
->
-> **Ymir heated a piece of metal with his hand on purpose, and it worked.** *Everything on this sheet follows from that one afternoon.*
+**Ymir Rhok** · The Emberhand · Stannvaard / Guild Accord · as of the completion of the Deep Mantle seal brackets  
+**Stat line** · Level 60 · Band I, Mortal Foundation · Stage II, Welling · Path Body, forming · Apprentice · η ~0.30 · Aether Class Unclassed · Crystal Awakened, Refined  
+**Combat grammar** · Percussion  
+**Aura and sound** · colour: dark char, faint limestone-ochre beneath it, ember-orange at the working hand; visible against deep shadow · signature sound: a low iron hum ending in a dry tick when contact breaks  
+**Stack** · sustainable D · cap +2 Grades · layers: none  
+**Releases** · none at Stage II · bonded weapon: none  
+**Traits** · FORGE-BORN ENDURANCE (Primary) · tell: steady hands after a long hot shift · counter: Essence drain / MOLTEN TOUCH (Secondary) · tell: orange warmth beneath the palm and an iron hum · counter: broken contact / ANVIL MEMORY (Passive) · tell: the maker's echo in a finished weapon · counter: a ward that blocks Essence reading  
+**Techniques** · none; THE HAMMER'S MEASURE names his existing trade expression · tell: heat begins beneath the resting hand · counter: separation stops further heating; cooling removes the heat already put in  
+**Voice** · "A dull blade's an insult to its maker. I'd rather shatter it and start again than leave it blunt." · speaker type: a proud apprentice metalworker defending a rejected piece to his foreman
 
 ---
 
-## I · Identity
+## I. Identity
+
+**Full Name** · Ymir Rhok  
+**Pronunciation** · EE-meer ROK
 
 **Name** · Ymir Rhok. **Aliases** · **Borin's Whetstone.** The Emberhand · **Young Anvil.**
 
@@ -27,9 +35,21 @@ title: "Ymir Rhok · The Emberhand"
 
 **Affiliation** · **Guild Accord — Logistics & Supply Division, Forgeworks Annex.**
 
----
+**School and sect rank** · Forgeworks Annex, under Borin Ironheart · apprentice  
+**Catalyst Event** · Ymir heated a piece of metal with his hand on purpose, and it worked.  
+**Refusal** · He will not let a blade leave his hands blunt, however much replacing it costs him.  
+**Conviction** · A maker owes sound work to the person who must trust it.
 
-## II · Soul Architecture
+## II. Soul Architecture
+
+**Level** · 60  
+**Band** · I, Mortal Foundation  
+**Temperance Stage** · II, Welling  
+**Path** · Body, forming  
+**Tier of Standing** · Apprentice  
+**Soul Crystal Tier** · Awakened  
+**Aether Class** · Unclassed  
+**Essence Typology** · Materia, with Caloria
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).** *The Shell is present and barely doing anything yet.*
 
@@ -37,9 +57,7 @@ title: "Ymir Rhok · The Emberhand"
 
 **η** · ~0.30, Tier of Standing 2, Apprentice.
 
----
-
-## III · Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Terranova** · Materia. **Pale limestone.** *The structured, dense half.*
 
@@ -47,11 +65,10 @@ title: "Ymir Rhok · The Emberhand"
 
 **Fixatio** · Materia. **Anchors and seals.** *Anvil Memory — every weapon he crafts retains a subtle aetheric echo of his handwork, which is Fixatio doing exactly what Fixatio does: an inscription outlives the moment.*
 
----
-
-## IV · Primary Stats
+## IV. Primary Stats
 
 **Stage II — Welling** · **Level 60** · Level Band I · Tier of Standing 2, Apprentice · Grade D · Ceiling 100.
+
 > **Pool 1,500** — 1,200 from Band I at 20 per level, 300 from Thresholds I–II. **Allocated 1,140.**
 >
 > ***The smallest pool in the migration.*** *Dorrik was Band F with 1,840. Ymir is genuinely at the beginning.*
@@ -68,63 +85,95 @@ title: "Ymir Rhok · The Emberhand"
 | Dominion | 30 | D |  |
 
 **Path** · Body, forming.
+
 > **Ymir is the third character in Volume IV whose highest stat is Tempering**, after **Orokh Sable-Forge** and **Lucien Draeve** — *a master smith, a master poisoner, and an apprentice.*
 >
 > ***All three shape rather than strike, and Ymir is what the other two looked like at the start.*** **His stated weakness — vulnerable to Essence-draining attacks — is Band G with no reserve, and it will resolve on its own as he advances.**
 
----
-
-## V · Sub-Stat Peaks
+## V. Sub-Stats
 
 **Tempering Clarity 100** *(at ceiling)* · **Yield 94** · Vitality Fortitude 88 · Gnosis Retention 82 · **Tempering Conversion 76** · Resilience Insulation 70 · Vitality Tolerance 64 · **Ardency Inscription 58.**
 
+## VIII. Traits
+
+**MOLTEN TOUCH (Secondary Trait)**
+
+**Molten Touch** · **Can heat metal to forging temperature through direct contact** — *though prolonged use exhausts his Essence reserves quickly.* His Shell feeds heat into the metal beneath his hand; keeping it hot requires continued spending as heat escapes into the rest of the workpiece and its surroundings. A low iron hum and ember-orange warmth beneath the palm give the working away. Breaking contact stops the supply. The metal keeps the heat already delivered and can be cooled by ordinary means.
+
+**ANVIL MEMORY (Passive Trait)**
+
+**Anvil Memory** · **Every weapon he crafts retains a subtle aetheric echo of his handwork**, allowing him to **identify them anywhere.** Fixatio holds his maker's echo in the finished weapon. Leaving that trace takes a small share of the Essence spent during its making; the finished mark needs no continuing supply from him. The echo is the tell. A ward that blocks Essence reading hides it while the ward holds, without erasing the mark. Recognition gives him no command over the weapon or whoever carries it.
+
+**FORGE-BORN ENDURANCE (Primary Trait)**
+
+**Forge-Born Endurance** · **High resistance to heat and heavy physical labour**, *but vulnerable to Essence-draining attacks.* His body's Lattice tolerates the heat and repeated loading of forge work with little conscious Essence cost; food, water and rest still pay for the labour. His hands remain steady through work that leaves the other carriers shaking. The Trait does not replace spent Essence, and draining attacks defeat that endurance without having to overcome its resistance to heat.
+
+## X. Techniques
+
+**THE HAMMER'S MEASURE (Trade expression)**
+
+**Effect** · **Heat where his hand is, and only where his hand is.** *He does not have a technique yet. He has a trade, and the trade is beginning to answer him.* **Cost** · **Reserves he has not got.** *Band G, and Molten Touch empties him fast.* **Limit** · **Contact.** **Counter** · **Anything.** *He is an apprentice, and the sheet is honest about it.* The tell is the same resting hand, iron hum and local heat as Molten Touch; this is that Trait at the bench. Before contact, separation prevents the supply; during contact, lifting his hand ends it; afterward, ordinary cooling removes the stored heat. It draws only on Molten Touch.
+
+**Releases** · none at Stage II  
+**Bonded weapon** · none
+
+## XIII. Physical Description
+
+His hair is the brown-black of wet forge scale, cut short enough to stay clear of the work and singed unevenly above the ears. He has a broad face, a blunt nose and brows that draw together when a surface will not come true. Carrying and hammer work have thickened his shoulders, forearms and palms; his fingers are broad at the joints, with black grit lodged beside the nails. His wool shirt pulls tight across the back when he reaches, and its rolled cuffs are stiff with dried sweat. A leather apron hangs loose below the waist, scored by hot scale and polished at the belly where he braces work against it. Pale flecks mark his forearms, and an old split crosses one thumbnail.
+
+## XIV. Psychology
+
+**Refusal** · He will not let a blade leave his hands blunt, however much replacing it costs him.  
+**Conviction** · A maker owes sound work to the person who must trust it.
+
+**Voice block**
+
+**Speaker type** · A proud apprentice metalworker defending a rejected piece to his foreman.  
+**Notices first** · The edge, the fit and the place where a piece will fail under load.  
+**Sentence length** · Plain judgments followed by the reason he thinks they should settle the matter.  
+**Contractions** · Sometimes.  
+**Stress shift** · He explains the fault faster and keeps trying to put the work back into his hands.  
+**Sample line** · "A dull blade's an insult to its maker. I'd rather shatter it and start again than leave it blunt."
+
 ---
 
-## VI · Traits
+## Lore
 
-**Molten Touch** · **Can heat metal to forging temperature through direct contact** — *though prolonged use exhausts his Essence reserves quickly.*
+### Card notes
 
-**Anvil Memory** · **Every weapon he crafts retains a subtle aetheric echo of his handwork**, allowing him to **identify them anywhere.**
+*"A dull blade's an insult to its maker. I'd rather shatter it and start again than leave it blunt."*
 
-**Forge-Born Endurance** · **High resistance to heat and heavy physical labour**, *but vulnerable to Essence-draining attacks.*
+**Invented Stage name.** The card reads **"Stage II — Shaping."** *Shaping is not among the sixteen; Stage II is Welling.* Numeral stands — *and it is correct for an apprentice.*
 
----
+*"Earth / Fire / Balance"* were not Essence types.
 
-## VII · Signature
+**He is the lowest-Stage character in Volume IV, and that is the point of him.**
 
-### The Hammer's Measure
+*Stage II — Welling — is where Essence stops being ambient and starts being yours. The Catalyst is the first successful deliberate channeling, and the recorded reaction is almost universally a small, private astonishment.*
 
-**Effect** · **Heat where his hand is, and only where his hand is.** *He does not have a technique yet. He has a trade, and the trade is beginning to answer him.*
+**Ymir heated a piece of metal with his hand on purpose, and it worked.** *Everything on this sheet follows from that one afternoon.*
 
-**Cost** · **Reserves he has not got.** *Band G, and Molten Touch empties him fast.*
-
-**Limit** · **Contact.**
-
-**Counter** · **Anything.** *He is an apprentice, and the sheet is honest about it.*
-
----
-
-## VIII · Relationships
+### Relationships
 
 **Borin Ironheart** · **Gruff mentor.** *Teaches Ymir foundational discipline before advanced craft; often scolds him for experimenting too far from tradition.*
+
 > ***Borin Ironheart has a Volume I character page*** — `3b758200-eb22-81cb-900e-e420731e32cc`. **This is the first Volume IV sheet to attach directly to an established Volume I character**, and it makes Ymir a genuine apprentice rather than a background smith.
+
 **Hyo Miran** · **Occasional supplier of rare metals and Essence-thread alloys.** *Their deals often involve playful haggling.*
 
 **Ravessa Flintweld** · **Journeyman smith from an Outer World branch who secretly slips Ymir experimental forging techniques**, *clashing with Borin's methods.*
 
 **Zahir Ashveil** · **Once commissioned him to forge a flame-channeling curved blade.** *They still trade rare desert ores.*
+
 > ***An apprentice at Stage II forged a working flame-channeling blade for a Stage III mercenary.*** **That is above his grade and the card says it happened.** *Either Borin finished it, or Ymir is better than his Stage suggests — and "experimenting too far from tradition" points at the second.*
 
----
-
-## IX · Chapter Appearances
+### Chapter Appearances
 
 *First appearance TBD.*
+
 > **Codex** · Materia / Material Science / Terranova primary / Stage II.
 
----
-
-### Lore · The Life Behind the Card
+### The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of Anvil and relic. What those sources do not state is new here.*
 

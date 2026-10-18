@@ -1202,12 +1202,11 @@ def _write_mirror(rel: str, title: str, pid: str, section: str, markdown: str, t
     body = markdown.strip()
     if not re.match(r"^#\s", body):
         body = f"# {title}\n\n{body}"
-    fm = {"title": title, "notion_id": pid, "section": section, "tags": tags,
-          "last_edited": datetime.now().isoformat(timespec="seconds"), "private": private}
-    head = ["---"] + [f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items()] + ["---", ""]
+    fm = {"title": title, "tags": tags, "private": private}  # identity and edit time live in the manifest
+    head = ["---"] + [f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items() if v != []] + ["---", ""]
     p.write_text("\n".join(head) + body + "\n", encoding="utf-8", newline="\n")
     m = _wiki_manifest()
-    m[pid] = {"rel": rel, "edited": fm["last_edited"], "title": title, "private": private}
+    m[pid] = {"rel": rel, "edited": datetime.now().isoformat(timespec="seconds"), "title": title, "private": private}
     WIKI_MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
     return p
 

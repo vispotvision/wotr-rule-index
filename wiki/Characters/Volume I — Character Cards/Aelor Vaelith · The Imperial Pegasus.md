@@ -1,13 +1,6 @@
 ---
 title: "Aelor Vaelith · The Imperial Pegasus"
-notion_id: "3bd58200-eb22-81a8-b3d3-d0c81a866757"
-notion_url: "https://app.notion.com/p/Aelor-Vaelith-The-Imperial-Pegasus-3bd58200eb2281a8b3d3d0c81a866757"
-section: "Volume I — Character Cards"
-tags: []
-last_edited: "2026-09-26T08:37:00.000Z"
-verification: null
 ---
-g
 # Aelor Vaelith · The Imperial Pegasus
 
 **Say it** · AY-lor VAY-lith

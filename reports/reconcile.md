@@ -1,5 +1,5 @@
 # Reconcile — wiki vs scenes vs index
-_Run 2026-10-18_
+_Run 2026-10-19_
 
 
 Mechanical checks only; each finding is a place for a human read.

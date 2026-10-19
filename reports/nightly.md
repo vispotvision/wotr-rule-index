@@ -1,9 +1,9 @@
-# Nightly — 2026-10-18 03:30
+# Nightly — 2026-10-19 03:30
 
 ## Overnight
 
-Nothing changed overnight: validate passes, no findings came or went, no scenes were archived, the sync pushed six times without a failure, and Sunday's backup ran on schedule (38.1 MB).
-The one thing that wants you is the two chapter-1 gates. Kharven Year and Night Watch are both stopped until you approve or reject chapter 1, so I'd read those two GATE.md files first.
+Quiet night. Validate passes, no new or cleared findings, no scenes archived, the sync pushed 65 times without a failure, and yesterday's Sunday backup is on schedule.
+The only thing waiting on you is the same as yesterday: both books are stopped at the chapter 1 gate (kharven-year and night-watch-zombification), so approve or reject chapter 1 on each and they'll move again.
 
 ## Numbers
 
@@ -31,6 +31,6 @@ The one thing that wants you is the two chapter-1 gates. Kharven Year and Night 
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 6 push(es), 84 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-10-18 (0 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
-- last run of this digest: 2026-10-17T03:30:00
+- sync: 65 push(es), 39 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-18 (1 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
+- last run of this digest: 2026-10-18T03:30:00

@@ -34,7 +34,7 @@ The panthers breathed. The crow in the cedars had stopped calling.
 
 He looked at the Sovereign directly.
 
-"We have gathered enough," he said, "from enough mouths, to believe that this Muken is no tokenless at all. We believe he is the true heir of the north." He let it land. "The last of the Kōkan line. The line that sat in the red chair of the Moto for a thousand years, before Gimbzo put most of it in the ground and the Kurenai closed the book on the rest."
+"We have gathered enough," he said, "from enough mouths, to believe that this Muken is no tokenless at all. We believe he is the true heir of the north." He let it land. "The last of the Kōkan line. The line that sat in the red chair of the Moto for a thousand years, until Gimbzo, the last of it to rule, left the chair to the dust and put most of his own blood in the ground, and the Kurenai closed the book on the rest."
 
 He was quiet for a moment.
 
@@ -44,7 +44,7 @@ He was quiet for a moment.
 
 Her voice was quiet and level, the archive voice. She had stepped up beside her brother, the satchel under her arm, and her silver-white eyes were steady on the Sovereign.
 
-"That's the part we're surest of," she said. "Surer than of anything else. He doesn't know what he is. As near as we can piece it together, he was born in the salt cuttings under Halcrest to a woman with no name the clerks would take, and he's been selling his sword since he was fourteen. He's been raised among the Lanternless. A free company out of the chain-cities. Sellswords, the kind who'll take a convoy anywhere for enough salt and bury their own on the side of the road." She paused. "A boy who grew up in a place where there was never anything to do but survive. And the Nalūn seals won't take hold of him, Sovereign. Not one. That's how the traders gave him his name. A seal can't bind a man the Wellspring can't see. And the Kōkan were the only line in the Inner World whose names the instruments could never read."
+"That's the part we're surest of," she said. "Surer than of anything else. He doesn't know what he is. As near as we can piece it together, he came into the salt cuttings under Halcrest as a babe in arms, with a woman under no name the clerks would take, and he's been selling his sword since he was fourteen. He's been raised among the Lanternless. A free company out of the chain-cities. Sellswords, the kind who'll take a convoy anywhere for enough salt and bury their own on the side of the road." She paused. "A boy who grew up in a place where there was never anything to do but survive. And the Nalūn seals won't take hold of him, Sovereign. Not one. That's how the traders gave him his name. A seal binds to a house name, the name a man is entered under, and he has never been entered under any. Whatever name he was born to, nobody ever gave it to him."
 
 Naiser let her finish. Then he went on.
 
@@ -60,9 +60,9 @@ He turned, very slightly, toward the west, toward the far end of the valley wher
 
 He was silent for a moment. When he spoke again his voice was lower.
 
-"You'll know the Byakuya as the white line," he said. "The near-white chair. Peace and purification. Glass and veils. That's what they've been for a long time now. But in the old days, before the war, before Gimbzo, before any of us were born, they were something else. They were the Kōkan's own guard. The royal guard of the red line. Every Byakuya child for a thousand years has knelt and sworn it: *the red line before the white, until the end of the red line.* They were given dominion over the protection of the king and the king's children." He paused. "And in the war, when Gimbzo came for the Kōkan, they failed to do it. They failed completely. They stood aside, or were made to stand aside, and the red line went into the dust, and the Byakuya have been carrying that for twenty years."
+"You'll know the Byakuya as the white line," he said. "The near-white chair. Peace and purification. Glass and veils. That's what they've been for a long time now. But in the old days, before the war, before Gimbzo, before any of us were born, they were something else. They were the Kōkan's own guard. The royal guard of the red line. Every Byakuya child for a thousand years has knelt and sworn it: *the red line before the white, until the end of the red line.* They were given dominion over the protection of the king and the king's children." He paused. "And in the war, when the king himself turned on his own blood, they failed to do it. They failed completely. An oath to guard the king and the king's children has nothing to say when the king is the one holding the knife. They stood aside, or were made to stand aside, and the red line went into the dust, and the Byakuya have been carrying that for twenty years."
 
-"Kiyome Byakuya was a child when it happened," Naevra said quietly. "She grew up in the shadow of it. She's the one of them who received our envoys through the whole of the war, Sovereign. Gave them tea. Sent them home alive, when no other Moto lord would let them through the gate." She looked down for a moment, at the swept stones. "I think she's coming here because she's just learned the red line didn't end. And I think she's coming to find out whether there's any part of that oath she can still keep."
+"Kiyome Byakuya was a child when it happened," Naevra said quietly. "She grew up in the shadow of it. She's the one of them who has received our envoys ever since she was old enough to hold her own hall, Sovereign. Gave them tea. Sent them home alive, when no other Moto lord would let them through the gate." She looked down for a moment, at the swept stones. "I think she's coming here because she's just learned the red line didn't end. And I think she's coming to find out whether there's any part of that oath she can still keep."
 
 ---
 
@@ -116,19 +116,20 @@ He stood with his hands at his sides and his nape bare to the wind, and waited f
 
 **Notes**
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Gimbzo is now the last Kōkan to rule, who left the red chair to the dust and purged his own blood, and the Byakuya failed their oath when the king turned on his own children; Naevra's tokenless account rests on the missing house name, not on the Kōkan being unreadable; Muken came to the Halcrest Cuttings as a babe in arms rather than being born there; Kiyome (about thirty) received the envoys since she held her own hall, not "through the whole of the war".
 - **Shaka-Al and Dougou are never written.** They get no lines, actions, thoughts or reactions. The courtyard is set from the end of their post: Shaka-Al with arms folded and the white mantle on, the bundles roped, the panthers saddled, Dougou beside him. Naiser and Naevra speak to them, and the post stops on Naiser waiting for Shaka-Al. Neither sibling notices Dougou listened from the cedars; his concealment holds, as their post has it. Naiser bringing the news in person anyway pays off Dougou's respect for the decision.
 - **Muken, Kiyome, Tetsugen, Hayato, Kagenori, the Starks and Greymane** are only spoken of. None of them is written.
 - **Every point of yours is in, in your order.**
   - Naiser doesn't hesitate, and the North will return to its old glory.
   - The news: Muken the Tokenless took the Foot and defeated Shigure Tenrai Moto. They believe he's no tokenless but the true heir of the north, he doesn't know his bloodline, and he was raised among the Lanternless, a sellsword company.
   - The Fox and the Owl are coming to talk of peace, mend the tide, and open up about conflicts brewing in the Moto for years.
-  - The Byakuya's loyalty to the Kōkan, written in full: they were the royal guard, given dominion over protecting the king and his children, and they failed in the war.
+  - The Byakuya's loyalty to the Kōkan, written in full: they were the royal guard, given dominion over protecting the king and his children, and they failed in the war, when the king himself, Gimbzo, turned on his own line.
   - A door for the Moto who won't follow the Tenrai, because the Tenrai escalate fast.
   - No obligation on the Zettari, given the bad blood.
   - If Muken is as great as they say, he'll reunite his family.
   - The Tenrai, the Starks and the Greymanes all know what he is.
 - **Naevra's dialogue, five beats:**
-  - "And he doesn't know": the cuttings, the Lanternless, why seals won't bind him.
+  - "And he doesn't know": the cuttings, the Lanternless, why seals won't bind him (a seal binds to a house name, and he has never had one; settled 2026-10-20).
   - "Twenty men. No banners."
   - Kiyome grew up in the Byakuya's failure and is coming to find out whether any part of the oath can still be kept.
   - Kushara may stay to see the Moto arrive or ride today; either way the house thinks no less of it, only "go knowing."

@@ -20,13 +20,13 @@ Tetsugen Akagane was the first of them to move. He had been sitting with his eno
 
 His voice was a low rumble, like a cart going over a bridge.
 
-"A good man," he said. "You're right. I'm not one. I wasn't one at Sennen and I wasn't one at the Hall of Verdicts the night we took the Stark's head, and I've not become one in the twelve days since, whatever I've done with a soldier and a horse in the dark." He looked down at his own hands again, open on his knees. "I don't expect to be. I'm too old and I've done too much. But I'd like to be the kind of bad man who tells the truth about it, if that's still on offer." He was quiet for a moment. "Thank you for not lying to me, Prince. Most people have stopped bothering."
+"A good man," he said. "You're right. I'm not one. I wasn't one at Sennen and I wasn't one at the Hall of Verdicts the night we took the Stark's head, and I've not become one in the month since, whatever I've done with a soldier and a horse in the dark." He looked down at his own hands again, open on his knees. "I don't expect to be. I'm too old and I've done too much. But I'd like to be the kind of bad man who tells the truth about it, if that's still on offer." He was quiet for a moment. "Thank you for not lying to me, Prince. Most people have stopped bothering."
 
 He said nothing else. He did not seem to need to.
 
 Hayato Amagiri stirred beside him. The young lord's restless fingers had been tracing, all through the prince's answer, the lines he had drawn on the table earlier with a wet fingertip: the roads through the northern mountains, long since dried to nothing on the dark wood. He lifted his hand from the table now and let it fall into his lap.
 
-"The prince is right about the grain," Hayato said. "He's right, and I should have said it before he had to." He looked across at the two Zettari, and then at Naiser. "A road carries whatever's put on it. I've spent a year making certain nobody could close those roads. I never once asked myself who'd be standing at the far end of them when the carts arrived." His mouth tightened. "Kagenori's quartermasters will be standing there, if we let them. Or Ashmore's. Or any lord with enough men to put across a ford."
+"The prince is right about the grain," Hayato said. "He's right, and I should have said it before he had to." He looked across at the two Zettari, and then at Naiser. "A road carries whatever's put on it. I've spent a year finding roads Kagenori couldn't close, because he didn't know they were there. I never once asked myself who'd be standing at the far end of them when the carts arrived." His mouth tightened. "Kagenori's quartermasters will be standing there, if we let them. Or Ashmore's. Or any lord with enough men to put across a ford."
 
 "Then count the carts," said Naevra, "as well as the graves."
 
@@ -98,7 +98,7 @@ The beads at her temples clicked, very softly, as she turned her head toward the
 
 Naiser saw something move in Hayato's face, and go still.
 
-"A man of great honour," Kiyome said. "As great as his brother's. I sat in the hall and watched Torvald Stark die laughing on the script for telling us the truth, and I've known Ulf since we were young, and there's not a breath of difference between them, except that Ulf has always been the more patient." Her voice did not rise. "And that is why Ulf will die too."
+"A man of great honour," Kiyome said. "As great as his brother's. I sat in the hall and watched Torvald Stark die laughing on the script for telling us the truth, and I've known Ulf since I was a girl in my grandmother's house and he was already a grown man with grey in his beard, and there's not a breath of difference between them, except that Ulf has always been the more patient." Her voice did not rise. "And that is why Ulf will die too."
 
 Nobody spoke.
 
@@ -194,7 +194,7 @@ She turned back to the table.
 
 "Then you'll not ride through it alone," said Naevra.
 
-She had risen too. She stood at her brother's side with her hands at her sides and her chin up, the way she had stood at the north gate a day and a half before, and her silver-white eyes were on her oldest friend's face.
+She had risen too. She stood at her brother's side with her hands at her sides and her chin up, the way she had stood at the north gate in the blue hour that same morning, and her silver-white eyes were on her oldest friend's face.
 
 "Not this time," she said. "I wasn't there for you the last time it mattered. I'm going to be there for this."
 
@@ -210,6 +210,7 @@ He looked across the table, past the Moto, to the two Zettari, and waited.
 
 **Notes**
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Torvald's death is now "the month since", not twelve days, matching his execution about a month before *The Uncounted* Chapter Eight; Naevra stood at the north gate that same morning, not a day and a half before; Kiyome has known Ulf since she was a girl and he already grown; and Hayato's roads are ones Kagenori couldn't close because he didn't know them, in line with *The Truth of Muken*. Zettari lines untouched.
 - **Shaka-Al and Dougou are never written.** They get no lines, actions, thoughts or reactions. Everything in their post is answered, and the post stops with Naiser waiting on them, since Kushara's next move is theirs.
   - Tetsugen: "No. I'm not," a good man, and thanks for not being lied to.
   - Hayato: the grain has to reach the villages. Naevra: count the carts as well as the graves, with a Yukari reader on every train, every sack counted in and out, and a crow up the moment one goes missing.

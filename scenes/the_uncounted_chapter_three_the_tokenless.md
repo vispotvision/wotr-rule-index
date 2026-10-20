@@ -130,7 +130,7 @@ Muken said nothing.
 
 "Recruit me."
 
-"Into my service. Into the north's service." He turned the iron ring on his beard-braid with his thumb. "There's a threat coming down on us, Muken. A bigger one than anything you've seen on that road. Bigger than anything the north has seen since the war."
+"Into my service. Into the north's service." He turned the iron ring on his beard-braid with his thumb. "There's a threat coming down on us, Muken. A bigger one than anything you've seen on that road. Bigger than anything the north saw in forty years of the war, and the war's only a month done."
 
 Muken looked at him for a long time.
 
@@ -174,7 +174,7 @@ He had known it was bad. Everybody in the north knew it was bad. But there was k
 
 He had pulled himself back from wherever he had gone, and his voice was steady again, and flat, the voice of a man reading out the strength of an enemy.
 
-"They're going to starve us," he said. "The Moto. That's the plan, and it's a good plan, I'll give them that. They don't need to march an army up here. They don't need to win a single battle. All they need is to stop the north getting the things it needs to live through a winter. Salt. Iron. Lamp oil. Medicine. Seed grain for the spring. Every one of those comes up out of the south on the roads, and the Moto have been closing the roads one at a time since the war ended. Two winters more of it and there'll be ten thousand dead in the north from hunger and the cold, and nobody'll have to swing a sword to do it." He let a breath out through his nose. "Only the Seven can stop it. The seven great families of the north. That's what we're for. That's what we've always been for."
+"They're going to starve us," he said. "The Moto. That's the plan, and it's a good plan, I'll give them that. They don't need to march an army up here. They don't need to win a single battle. All they need is to stop the north getting the things it needs to live through a winter. Salt. Iron. Lamp oil. Medicine. Seed grain for the spring. Every one of those comes up out of the south on the roads, and the Moto have been closing the roads one at a time since the war went bad, four years back, and faster since Shimane. Two winters more of it and there'll be ten thousand dead in the north from hunger and the cold, and nobody'll have to swing a sword to do it." He let a breath out through his nose. "Only the Seven can stop it. The seven great families of the north. That's what we're for. That's what we've always been for."
 
 "Seven," Muken said.
 
@@ -260,7 +260,7 @@ Muken went still.
 
 The name went into the room and stayed there.
 
-"One of the greatest warlords this family ever put in the field," Ulf said. "My uncle. My father's younger brother. He rode with Gimbzo in the war, in the first years, when the north still thought the Moto might be the ones to set things right. He was the best of them. The best of us." He looked down at his hands. "And then one day he looked at where Gimbzo's road was going, and he saw the end of it, and he stepped off. Just like that. Turned his horse round and rode away from the whole of it. From his rank and his name and his place in the Seven. Everyone in this family thought he'd gone mad." He was quiet a moment. "He hadn't. He'd gone to raise you."
+"One of the greatest warlords this family ever put in the field," Ulf said. "My uncle. My father's younger brother. He rode with Gimbzo in the war, in the long middle of it, when the north still thought the Moto might be the ones to set things right. He was the best of them. The best of us." He looked down at his hands. "And then one day he looked at where Gimbzo's road was going, and he saw the end of it, and he stepped off. Just like that. Turned his horse round and rode away from the whole of it. From his rank and his name and his place in the Seven. Everyone in this family thought he'd gone mad." He was quiet a moment. "He hadn't. He'd gone to raise you. You and your sister both."
 
 Muken could not speak.
 
@@ -325,20 +325,22 @@ He sat back slowly in the great chair, and let his maimed hand fall onto the arm
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Yusif rode with Gimbzo in the long middle of the forty-year war rather than its first years, and Ulf now says he went to raise both children; Ulf's "since the war" lines are re-timed to a war a month over. The dead token is explained in the notes by the missing house name, not by blood.
+
 **What this is.** Isaac's scene, every beat and line kept in his order and expanded into Chapter Three. The convoy finishes; the route was too hard, as if it were a test; Rob pulls Muken away from his sister; Ulf Stark by the fire in a throne calls him "Muken, the Tokenless"; one of the Seven Warlords; Muken bows; Ulf jokes about the representative; Rob locks the door; the offer to recruit him; "I'm a nobody, a tokenless commoner"; "no lowly commoner could have led those men down that road; you have the makings of a general"; the secrecy, and the brother beheaded; the starving; "only the seven great warlord families"; "we haven't won yet, key word *yet*"; Kagenori Tenrai Moto's martial law on the trade road to Sum-gol and the Enclave in two months; Ulf and Wystan Greymane against it; Ashmore and Thornwall won't come to terms, the Keld can be convinced, Stark and Greymane are all they have; "why me"; "very perceptive"; "I can't tell you, it's to protect you"; Yusif Stark, the great warlord who stepped off Gimbzo's path and raised him; and Muken's acceptance, with his sister never letting him live it down, and his conscience. Past tense, third person, close on Muken.
 
-**Your retcons, followed.** I took this scene as the current canon and wrote to it. These earlier pieces now need matching fixes; tell me and I'll make them:
-- **Ulf Stark is Lord of Hollenmark and Torvald's brother.** In *The Verdict of Six*, Ulf was a Stark rider kneeling as a prisoner. That rider needs a new name.
-- **Wystan Greymane is the Lord of the Ridgewall.** In the council scene, Wystan was Edward's father, a Lambert. The Lambert needs a new first name. I made Aldwin Greymane, the ransomed prisoner, Wystan's brother, so the ransom drives Wystan into the war.
+**Your retcons, followed.** I took this scene as the current canon and wrote to it. The matching fixes in earlier pieces, as settled 2026-10-20:
+- **Ulf Stark is Lord of Hollenmark and Torvald's elder brother.** Torvald led the Stark rising and named Ulf leader before his execution. In *The Verdict of Six*, the kneeling Stark rider is renamed **Hakon**.
+- **Wystan Greymane is the Lord of the Ridgewall.** In the council scene, the Lambert prisoner is renamed **Osbert** (Osbert Lambert, the Hallenfeld tariff-master). I made Aldwin Greymane, the ransomed prisoner, Wystan's brother, so the ransom drives Wystan into the war.
 - **Ages, per your latest note.** Muken is sixteen and already the company's sergeant; Yukazuri is thirteen. Chapters One to Three are updated to match: Yusif taught Muken the stick at eight and stopped coming when he was thirteen, and Muken has sold his sword since fourteen.
-- **Yusif Stark raised Muken.** *The Uncounted* Chapter One has Muken growing up in the Halcrest salt cuttings with his mother Kasane, and buying himself and his sister out. I bridged the two: Yusif came down into the cuttings once a season with meat and wool, taught Muken the sword with a stick, gave him "you protect the weak," and stopped coming the winter Muken was thirteen. If Yusif should have raised him outright, Chapter One's middle section needs rewriting.
+- **Yusif Stark raised Muken.** Settled 2026-10-20: Yusif was a big brother to Kasane, on the Ned Stark and Jon Snow model, never her husband, and he half-raised and shielded both children from outside the Cuttings: once a season with meat and wool, the sword taught with a stick, "you protect the weak." He never gave them his house name, because it would have led the hunters to them. He stopped coming the winter Muken was thirteen because he was killed by those hunting what he hid, and he kept the secret; Ulf knows how, and nobody on the page has told Muken.
 - **The Seven Warlords.** Your text names six houses (Stark, Greymane, Ashmore, Thornwall, Keld, Hallenfeld) and says seven. I left the seventh unnamed on purpose. Ulf says "we've always said seven, we've been saying it for a very long time," and something moves behind his eyes. That mirrors the empty seventh chair in the Moto hall. Name the seventh house if there is one, or keep it as the Kōkan seat waiting.
 
 **The intrigue added (yours to keep or strike):**
 - **Ulf set the test.** Draycott is Ulf's man. The Vessant house has paid Hollenmark a road-tithe for thirty-one years and does the Starks' quiet work in the south. Ulf chose the worst road on purpose, knows about the map and the room over the tea-house, and knows Muken bought his sister out of the drainage book.
 - **Torvald's head** came back to Ulf in a cask of brine, with a note in Kagenori's hand: *The north is reminded.*
 - **The Kessen road** is the last open trade road, running from Kessen ford down to Sum-gol and past the Yukari valleys. Closing it cuts off the north and the Yukari at once.
-- **The token.** Ulf gives Muken a Stark contract token, sealed under the Chain Light in Ironlink, and it lies dead in his palm. In canon, a Nalūn seal can't take hold of a man the Wellspring can't read, and the uncounted Kōkan return no reading. Ulf watches the token rather than the man, and that confirms what he was told. *Don't ever let anybody see you hold it in your hand.* This is the "people with power know the truth" beat, done without anyone saying the word Kōkan.
+- **The token.** Ulf gives Muken a Stark contract token, sealed under the Chain Light in Ironlink, and it lies dead in his palm. A Nalūn seal binds to a house name, and Muken has none, or none he knows, for it to sit under (settled 2026-10-20; their mother's own token hummed). Ulf watches the token rather than the man, and that confirms what he was told. *Don't ever let anybody see you hold it in your hand.* This is the "people with power know the truth" beat, done without anyone saying the word Kōkan.
 - **The cost of the road.** Eight dead in all: five at the head of the column when the horn blew, and three under the ice at the Marrow crossing, Pell's Nephew among them. Rob's bite has gone bad, so he walks with a stick; Mark's arm is splinted and his fever has broken. Muken's cheek is stitched from jaw to eye.
 
 **Rule ids that most constrained it:** R72-25 (Ulf's withholding, with its tells: the ring turned in his beard, the eyes on the token), R74-14 (a true sentence built to deceive: "we've always said seven"), R70-54 (first-sight inventory of Ulf), R70-114 (the warm bond: Yusif and the stick in the gallery), R71-30 (the dead token held unexplained).

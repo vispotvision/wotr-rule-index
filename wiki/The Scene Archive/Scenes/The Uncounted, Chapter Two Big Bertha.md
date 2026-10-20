@@ -10,7 +10,7 @@ source: scenes/the_uncounted_chapter_two_big_bertha.md
 
 ---
 
-As acting sergeant, Muken knew the cargo was his to get where it was going. Eleven wagons of Vessant iron stock and lamp oil, one covered carriage, twenty-one fighting men of the Lanternless and the company surgeon, and every salt bar of it his responsibility from the Halcrest gate to the river post in the timber. He had known that when he shook Draycott's hand. He had known there would be fighting.
+As sergeant, Muken knew the cargo was his to get where it was going. Eleven wagons of Vessant iron stock and lamp oil, one covered carriage, twenty fighting men of the Lanternless and the company surgeon, and every salt bar of it his responsibility from the Halcrest gate to the river post in the timber. He had known that when he shook Draycott's hand. He had known there would be fighting.
 
 He had not known what kind.
 
@@ -176,6 +176,8 @@ Muken looked up the road. Then he looked down at his empty hands, and at his swo
 ---
 
 ## Author Notes
+
+- **Retcon 2026-10-20 (new-lore questionnaire).** Two slips matched to Chapter One: Muken is the company's sergeant, not acting sergeant, and the escort is twenty fighting men, as Draycott's contract names, not twenty-one. Nothing else in the scene changed.
 
 **What this is.** Isaac's fight, polished, kept beat for beat and in his order, then carried on to the end he asked for: Muken kills both of his, Rob and Mark struggle to kill the cub, and then the horn means the cargo has stopped again. Past tense, third person, close on Muken. No audio tags.
 

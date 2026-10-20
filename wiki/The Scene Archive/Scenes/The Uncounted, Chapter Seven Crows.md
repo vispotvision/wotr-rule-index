@@ -36,13 +36,13 @@ He said it softly. It went round the hall and came back down out of the dome.
 
 "We lost," said Kagenori Tenrai, "to commoners."
 
-Four of the chairs were filled. Shizuha Shirogane sat in silver at his right, upright and grey and hatchet-faced, and had not spoken since the hall was opened. Sumie Kurenai sat in black across from him, very pale. The Akagane chair, the Amagiri chair and the Byakuya chair were empty. So was the seventh, the red one, under its dust, with its blind enamel lion. Nobody looked at it. Everybody knew exactly where it was.
+Three of the chairs were filled. Shizuha Shirogane sat in silver at his right, upright and grey and hatchet-faced, and had not spoken since the hall was opened. Sumie Kurenai sat in black across from him, very pale. The Akagane chair, the Amagiri chair and the Byakuya chair were empty. So was the seventh, the red one, under its dust, with its blind enamel lion. Nobody looked at it. Everybody knew exactly where it was.
 
 In the centre of the circle of script, where prisoners knelt, there was a stool, and on the stool sat Shigure Tenrai Moto.
 
 She had ridden four days to get here and had not changed her armour. The black lamellar was stiff with dried blood down the whole left side, where the cut at the top of her shoulder had bled and bled and been bound and bled again. Her left arm was strapped across her chest. Her palms were wrapped in linen gone brown. Her face was grey with exhaustion and loss of blood, and the rings in her eyes turned very slowly, dimly, like the last ripples on a pond long after the stone has gone in. She had told her story once, from the beginning to the end, in a flat level voice, without being asked a single question. Now she sat and waited.
 
-"They took our fort," Kagenori said. "The Foot. The gate on the Kessen road. Two hundred of our house-guard on a ridge that has never fallen to anybody, in a fortress our own grandfathers built. And they took it in a morning. Stark and Greymane, with their old men and their boys." He did not move. "Led by a tokenless. A *tokenless*. Do you understand what that does? Do you understand how that makes us look? Every village between the Thresh and the shield is going to hear it before the month's out. The great Moto, the seven lines and the one blood, the house that reads the world. Beaten off its own wall by a boy who can't sign for a sack of meal."
+"They took our fort," Kagenori said. "The Foot. The gate on the Kessen road. Two hundred of our house-guard on a ridge that has never fallen to anybody, on walls the old clans laid in our grandfathers' grandfathers' time and our own house raised again in good square stone. And they took it in a morning. Stark and Greymane, with their old men and their boys." He did not move. "Led by a tokenless. A *tokenless*. Do you understand what that does? Do you understand how that makes us look? Every village between the Thresh and the shield is going to hear it before the month's out. The great Moto, the seven lines and the one blood, the house that reads the world. Beaten off its own wall by a boy who can't sign for a sack of meal."
 
 He let it lie.
 
@@ -54,7 +54,7 @@ Sumie did not look away.
 
 Her voice was very quiet. She had not slept, either, by the look of her. She sat in the black chair with her thin hands closed in her lap and her ink-dark eyes on the woman on the stool.
 
-"Think about it, Kagenori," Sumie said. "Think about it properly, for once, instead of how it looks. Sixteen years. That's when it would have been. If one of them got away. If the Stark was right, at the end, kneeling there with his blood on the script." She looked at the stool. "And then think about who he fought. Shigure is the best blade the Tenrai have put in the field in a generation. She was Gimbzo's right hand for six years. There aren't ten people in the Inner World who could put her on her knees in a straight fight, and every one of them is a name we know." She drew a breath. "Nobody beats Shigure that easily. Nobody nameless. It's the Kōkan child. It has to be."
+"Think about it, Kagenori," Sumie said. "Think about it properly, for once, instead of how it looks. Sixteen years. You know what was carried out of Halcrest sixteen years ago as well as I do. You and I put our names to the same silence over it." She did not look at Shizuha Shirogane, and Shizuha, in the silver chair, did not look away from her. "If the Stark was right, at the end, kneeling there with his blood on the script, then it lived. And it grew. And it has come back up the Kessen road." She looked at the stool. "And then think about who he fought. Shigure is the best blade the Tenrai have put in the field in a generation. She was Gimbzo's right hand for twenty years. There aren't ten people in the Inner World who could put her on her knees in a straight fight, and every one of them is a name we know." She drew a breath. "Nobody beats Shigure that easily. Nobody nameless. It's the Kōkan child. It has to be."
 
 "He didn't beat me *easily*," said Shigure Tenrai Moto.
 
@@ -68,7 +68,7 @@ Sumie Kurenai had gone very white.
 
 The lamps in the great iron ring overhead dipped, all at once, very slightly.
 
-"I saw it," Shigure said. "The left eye. In the middle of the fight. Gold came up through the iris, like a crack running through slate." She was quiet for a moment. "I've seen that eye before, Kagenori. Once. In a cellar in Halcrest, sixteen years ago, on a woman with no name the clerks would take, the night Gimbzo went down with a lamp to see what he'd caught." She held his gaze. "The boy has that eye. And he has Gimbzo's face. I'd know that face if I were dead. I stood behind it for six years."
+"I saw it," Shigure said. "The left eye. In the middle of the fight. Gold came up through the iris, like a crack running through slate." She was quiet for a moment. "I've seen that eye before, Kagenori. Once. In the cellars under Halcrest, sixteen years ago, the night Gimbzo went down with a lamp after the last of his own line. Gold, coming up through the grey in the eyes of the ones he cornered there, right to the end." She held his gaze. "You know what else went up out of that cellar alive. You had it from me the next morning." Her voice did not change. "The boy has that eye. And he has Gimbzo's face. I'd know that face if I were dead. I stood behind it for twenty years."
 
 Nobody spoke.
 
@@ -78,11 +78,11 @@ Shizuha Shirogane, in the silver chair, turned her head very slowly and looked f
 
 His voice had not risen. But the pressure coming off him had, and the blue lamps flattened in their bowls, and Shigure on her stool closed her eyes for a moment against it.
 
-"If he's what you say he is," Kagenori said, "if he really is Gimbzo's get on a Kōkan woman, with the Kōkan eye in his head, then he's going to *grow.* Every fight he walks into is going to wake more of it. Every one. He woke the eye on the stair of the Foot. What does he wake in the next one? And the one after that?" He leaned forward, very slightly, in the gold chair. "He isn't a boy. He's a Kōkan who doesn't know he's a Kōkan yet. And the day he finds out, he'll walk into this hall and sit in that chair, and every one of us will have to kneel to him on our own script."
+"If he's what you say he is," Kagenori said, "if he really is Gimbzo's get, with the Kōkan eye in his head, then he's going to *grow.* Every fight he walks into is going to wake more of it. Every one. He woke the eye on the stair of the Foot. What does he wake in the next one? And the one after that?" He leaned forward, very slightly, in the gold chair. "He isn't a boy. He's a Kōkan who doesn't know he's a Kōkan yet. And the day he finds out, he'll walk into this hall and sit in that chair, and every one of us will have to kneel to him on our own script."
 
 He sat back.
 
-"Damn the Starks," he said, very softly. "Damn the Greymanes. We should have ended both those houses before the war, root and branch, and every cousin who could sit a horse. I said so at the time. Gimbzo wouldn't hear it. He wanted them for his front line." His mouth thinned. "And now look."
+"Damn the Starks," he said, very softly. "Damn the Greymanes. We should have ended both those houses when the war was young, root and branch, and every cousin who could sit a horse. I said so at the time. Gimbzo wouldn't hear it. He wanted them for his front line." His mouth thinned. "And now look."
 
 He was quiet for a moment, looking at nothing. Then something moved in his narrow face, and his eyes narrowed with it.
 
@@ -134,7 +134,7 @@ Then he walked out of the hall, and did not look back, and the blue lamps in the
 
 The Byakuya kept their seat in the old city below the Moto hold, in a house of pale stone with a garden of white gravel and glass, and Kiyome Byakuya had not left it in eleven days.
 
-She had not been to the Hall of Verdicts since the night of Torvald Stark. She had not answered the summons that came the morning after the Foot fell, or the one that came the morning after that. She sat in the long pale room at the back of her house that her grandmother had used for prayer, with the shutters open on the garden and the glass beads of the veil laid on the floor beside her, and did not eat very much, and waited.
+She had not been to the Hall of Verdicts since the night of Torvald Stark. She had not answered the summons that came the morning after Shigure rode in, or the one that came the morning after that. She sat in the long pale room at the back of her house that her grandmother had used for prayer, with the shutters open on the garden and the glass beads of the veil laid on the floor beside her, and did not eat very much, and waited.
 
 When Tetsugen Akagane and Hayato Amagiri came to her, they came at night, by the garden gate, without servants, in plain cloaks over their house colours, the way men come to a house when they do not want it known that they have come.
 
@@ -148,9 +148,9 @@ She received them in the prayer room. There were three cushions on the floor and
 
 Kiyome closed her eyes.
 
-They did not know. Neither of them knew, not really. They were of the Akagane and the Amagiri, and to them the Kōkan were a story the house told itself about a chair. But the Byakuya had been something else to the Kōkan, once, a very long time ago, before the Recension and the long diminishment and the closing of the book. The near-white line had stood behind the red one. Its veils and its glass and its halos had been the Kōkan's shield, in the oldest days, the ones nobody wrote down any more, and the oaths of that protection had been spoken over every Byakuya child for a thousand years after there was nobody left to protect, because nobody had ever thought to stop. Kiyome had said them herself, at nine years old, kneeling on this floor, in this room, with her grandmother's hand on her head. *Purity before power. Peace before the blade. And the red line before the white, until the end of the red line.*
+They did not know. Neither of them knew, not really. They were of the Akagane and the Amagiri, and to them the Kōkan were a king in the saddle and a chair nobody sat in, and then, at the war's end, a body in the mud at Shimane. But the Byakuya had been something else to the Kōkan, once, a very long time ago, before the Recension and the long diminishment and the closing of the book. The near-white line had stood behind the red one. Its veils and its glass and its halos had been the Kōkan's shield, in the oldest days, the ones nobody wrote down any more, and the oaths of that protection had been spoken over every Byakuya child for a thousand years, through all the long thinning of the red line, because nobody had ever thought to stop. Kiyome had said them herself, at nine years old, kneeling on this floor, in this room, with her grandmother's hand on her head. *Purity before power. Peace before the blade. And the red line before the white, until the end of the red line.* Her sister had said them too, and had meant them further than any Byakuya in a hundred years, and had stood at the last Kōkan king's shoulder as his sworn guard until the night of the cellars took her out of the world.
 
-She had never once in her life imagined that the end of the red line might not have come.
+She had never once in her life imagined that the end of the red line might not have come with him at Shimane.
 
 "I'll not go to the council," she said.
 
@@ -221,13 +221,17 @@ He looked at Kiyome.
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Shigure's cellar memory now sees the gold eye in the Kōkan Gimbzo purged, not on Kasane, and she reminds Kagenori she told him what went out of that cellar alive; Sumie speaks as one who knew a child escaped and signed the silence over it. Shigure's years at Gimbzo's side are twenty, Kagenori's "Kōkan woman" and "before the war" go, and Kiyome's Byakuya oath now runs to the last Kōkan king, with her sister at his shoulder as his sworn guard.
+
+- **Small slips fixed.** "Four of the chairs were filled" is now three (Kagenori, Shizuha, Sumie). Kiyome's ignored summons came the morning after Shigure rode in, since nothing could reach the city the morning after the Foot fell. Kagenori's "a fortress our own grandfathers built" now names the old clan walls and the Tenrai rebuilding together.
+
 **What this is.** Isaac's passage expanded into Chapter Seven, in three movements. Every beat is kept. The word spreads to the Moto council and to Naiser. Naiser reads that the Starks and Greymanes took Kharven's Foot, and goes to find Shaka-Al before he leaves for Kushara. Kagenori rages to Sumie that they lost to commoners led by a tokenless, and asks whether the age of sixteen is a coincidence. Sumie answers that it is the Kōkan child, because nobody beats Shigure that easily. Kagenori says they must be rid of them quickly, because a Moto will unlock more power as he fights, and damns the Starks and the Greymane, who should have been wiped out before the war. He realises the Ridgewall has been left to fall on purpose so the Moto would be attacked from every side. He summons the Ashmore, Thornwall, Hallenfeld and Keld lords and calls the whole Moto council. Kiyome hears a Kōkan lives; the Byakuya once led the Kōkan's protection and stand for peace and purification, and she won't attend. Tetsugen and Hayato sit with her and ask whether they should really talk to the Yukari with the Zettari still there. Her answer: what Kagenori is doing isn't right, what Gimbzo did was wrong, and they didn't stop it. Past tense, third person, a different close POV in each movement. About 4,800 words.
 
-**Fitting the timeline.** These are now concurrent, as your passage makes them. To square that:
-- The **Great Spirit War** of Titans and Archons ended twenty-three years ago. Kasane came down into the Cuttings that year, and Muken was born seven years later.
-- The **four-year war** that just ended, the Yukari against the Seikai and the Zettari against the Moto, is a later war. Naiser's father held the seam through it, Gimbzo died in it (killed by Dougou), and Torvald's council came right after it.
+**Fitting the timeline.** These are now concurrent, as your passage makes them. Settled:
+- There was **one war, forty years long**, and it ended about a month before Chapter One. Its last four years were the worst: the Seikai turned and the Soul Plane broke, Ashura was wounded, Naiser's father went into the seam, the Zettari struck the Yukari valleys, and Shimane was fought. Gimbzo died at Shimane, killed by Dougou, and Torvald's council came right after it.
+- Gimbzo burned Hiroe and purged the Kōkan about twenty years ago; the cellar night was about sixteen years ago, and Kasane came down into the Cuttings with the boy then.
 - Muken took the Foot about a week after Naiser's talks with Shaka-Al. Shaka-Al is still at the enclave the morning the crow arrives, about to leave for Kushara.
-- If you have a name for the four-year war, it should replace "the last war" and "the four years."
+- **Who knew a child lived.** Shigure, Sumie, Kagenori and a few Tenrai knew a child went out of the cellar, and buried it; Shizuha and the other lines did not.
 
 **One of your lines read for meaning.** Kiyome's "You know what Kagenori is doing is right" I took as *isn't* right, given everything around it.
 
@@ -235,11 +239,11 @@ He looked at Kiyome.
 
 **Originated here (yours to keep or strike):**
 - **Ulf's crow** to Naiser, with its afterthought: *The breach was made by a lieutenant of mine. Sixteen years old. Tokenless. He will be worth your knowing.* Plus the Mahuo courier's report from the Marrow: the gold eye, the broken stair.
-- **Naevra's deduction.** A Nalūn seal can't take hold of a man the Wellspring can't see, so the Yukari's own register was wrong. Telling Shaka-Al now protects the peace, because he would learn it anyway.
-- **Shigure at the Hall of Verdicts.** She tells it straight: Muken beat her because she couldn't read him, and she saw the eye. She also saw it *sixteen years ago, in a cellar in Halcrest, on a woman with no name the clerks would take, the night Gimbzo went down with a lamp*. That makes her a witness to Kasane's taking. Asked why she let Muken live: *Because you'd have wanted to see him first... And because I did.*
-- **Kagenori's plan.** Don't fight the north, buy it. Ashmore's grain, Thornwall free of the Ore Council, Hallenfeld's tariff-master released from the cells, and the Keld promised in writing to be left alone. Then he calls all seven lines, "whether they wish to come or not."
+- **Naevra's deduction.** A Nalūn seal binds to a house name, and the boy has none that anyone knows, so the Yukari's own register was wrong about him. Telling Shaka-Al now protects the peace, because he would learn it anyway.
+- **Shigure at the Hall of Verdicts.** She tells it straight: Muken beat her because she couldn't read him, and she saw the eye. She also saw it *sixteen years ago, in the cellars under Halcrest*, in the eyes of the Kōkan Gimbzo cornered there, and she told Kagenori the next morning what went out of that cellar alive. That makes her a witness to the purge and to the child's escape. Asked why she let Muken live: *Because you'd have wanted to see him first... And because I did.*
+- **Kagenori's plan.** Don't fight the north, buy it. Ashmore's grain, Thornwall free of the Ore Council, Hallenfeld's tariff-master (Osbert Lambert, from *The Verdict of Six*) released from the cells, and the Keld promised in writing to be left alone. Then he calls all seven lines, "whether they wish to come or not."
 - **The Ridgewall gambit.** The Greymanes pulled men off the western wall so Undaar-Keth would raid through the western passes into Moto lands. That would force the Moto to fight on two or three fronts. Shizuha: *It's what I would have done.*
-- **The Byakuya oath** to the Kōkan, spoken over every Byakuya child: *Purity before power. Peace before the blade. And the red line before the white, until the end of the red line.*
+- **The Byakuya oath** to the Kōkan, spoken over every Byakuya child: *Purity before power. Peace before the blade. And the red line before the white, until the end of the red line.* Kiyome's sister Kasane kept it at Gimbzo's shoulder as his sworn guard.
 - **Tetsugen spared Ren**, the Akagane soldier from *The Verdict of Six*. He sent him off on a horse with a purse and a contact at the Marrow crossing.
 - **Hayato's escape roads** turn out to be the way east.
 - **The breakaway.** Byakuya, Akagane and Amagiri ride east to the Yukari enclave before Kagenori's council sits. That puts three Moto lords on course for the cedar enclave, possibly while Kushara's party is still there.

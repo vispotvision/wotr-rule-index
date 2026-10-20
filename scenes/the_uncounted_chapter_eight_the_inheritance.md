@@ -116,7 +116,7 @@ Ulf Stark stood up.
 
 He did it slowly, as if his knees hurt him, and they probably did. The camp chair creaked under him and then was silent. The wolfhound lifted its head. Ulf stood at the table with the broken letter in front of him and the Stark wolf on the wall over his head, and he put his maimed hand flat on his own chest, over his heart, and looked at Muken.
 
-"As the Warlord of House Stark," he said, "of Hollenmark and the eastern March and the borders, by the right of my father and my father's father, and by the right of my brother Torvald, who held it before me and who died for it on the floor of their hall..."
+"As the Warlord of House Stark," he said, "of Hollenmark and the eastern March and the borders, by the right of my father and my father's father, and by the right of my brother Torvald, who held it before me and named me to it, and who died for it on the floor of their hall..."
 
 His voice had dropped into an old cadence, slow and heavy, like stones being set one on another.
 
@@ -182,7 +182,7 @@ It was barely a question. It was barely even a word.
 
 Ulf looked at his son.
 
-"You know why," he said. "You've known since Torvald." He let out a long breath through his nose. "Our generation has to come to an end, lad. It's had its time and it's spent it. Most of it badly. We lost the last war and buried our sons for it, and we've been holding on since out of nothing but stubbornness, and stubbornness won't take the north back. Something else will." He did not look at Muken. He did not need to. "So we're putting it in your hands. Yours, and Godfrey's. And his." His voice grew rougher. "We entrust him to you, Lorn. Muken. Guide him. Stand beside him. Teach him what he doesn't know, and learn from him what you don't. And see that you win the battle against the Keld."
+"You know why," he said. "You've known since Torvald." He let out a long breath through his nose. "Our generation has to come to an end, lad. It's had its time and it's spent it. Most of it badly. We lost the war, forty years of it, and buried our sons in it, and we held on through every one of those years out of nothing but stubbornness, and stubbornness won't take the north back. Something else will." He did not look at Muken. He did not need to. "So we're putting it in your hands. Yours, and Godfrey's. And his." His voice grew rougher. "We entrust him to you, Lorn. Muken. Guide him. Stand beside him. Teach him what he doesn't know, and learn from him what you don't. And see that you win the battle against the Keld."
 
 Lorn Stark was silent for a long moment.
 
@@ -238,7 +238,9 @@ He went down to the village at the bottom of the ridge that afternoon and choppe
 
 Nine days after that, a Greymane outrider came up the Kessen road at a gallop with his horse lathered to the hocks and told them what was coming up it behind him.
 
-A party out of the south and east, riding hard. Twenty-odd, in grey, without banners. Two days behind him on the road, maybe less. A white-robed woman at the head of it, he said, who the traders at the Marrow swore was a lord of the Moto. And with them, riding in the middle of the column, enormous, on a great black cat with teeth like a pair of sabres, a man the outrider would swear on his mother's grave was a Zettari.
+A party out of the south and east, riding hard, two days behind him on the road, maybe less. He gave the rest of it standing at Shigure's old table with the snow going to water on his shoulders, in the flat short way outriders gave things, as if every word had to be paid for out of his own breath.
+
+"A lady," the outrider said. "Moto, by the veil. Silver on her. Twenty with her, no banners, and a Yukari woman walking barefoot in the snow like it wasn't there.
 
 Muken heard it in the gatehouse, standing at the window where Wystan Greymane had stood, with Ulf Stark's wolfhound lying across his feet.
 
@@ -248,7 +250,7 @@ Something went up through him from the soles of his boots to the roots of his wh
 
 His voice was quite quiet. Rob, and Lorn, and Godfrey Greymane, standing round the table with the outrider, all turned to look at him.
 
-"A Moto lord," Muken said. "Coming *here*. To the Foot. Three weeks after they took the head of the man who took it. And a Zettari with them." He laughed. It was not a good laugh. "A Zettari. As if the Moto couldn't come to us on their own, they've got to bring one of the people they spent forty years killing, so we'll think it's all been made right somewhere behind our backs while we were burying our dead." His hand had closed on the edge of the window frame until the knuckles went white. "What do they want? What can they possibly want from us that they haven't already *taken*?"
+"A Moto lord," Muken said. "Coming *here*. To the Foot. A month after they took the head of the man who took it. And a Yukari with her." He laughed. It was not a good laugh. "Barefoot. As if the Moto couldn't come to us on their own, they've got to walk a Yukari up the road beside them, so we'll look at her bare feet in the snow and open the gate and think it's all been made right somewhere behind our backs while we were burying our dead." His hand had closed on the edge of the window frame until the knuckles went white. "What do they want? What can they possibly want from us that they haven't already *taken*?"
 
 Nobody answered him.
 
@@ -262,13 +264,13 @@ Muken turned his head.
 
 Godfrey was standing at the end of the table with his long grey hands flat on it, the way his father used to stand, and his grey eyes were on Muken's face. They had dark circles under them still. They would have them, Muken thought, for a long time.
 
-"You can't show them that," Godfrey said. "What's in your face. Not when they come." His voice was low and steady and very tired. "They're coming to make peace. Whatever else they are. They're coming to *help*, if the outrider's right about the white robe and who's wearing it. You can't meet them at the gate looking like that."
+"You can't show them that," Godfrey said. "What's in your face. Not when they come." His voice was low and steady and very tired. "They're coming to make peace. Whatever else they are. They're coming to *help*, if the outrider's right about the veil and who's wearing it. You can't meet them at the gate looking like that."
 
 "Help us?"
 
 Muken let go of the window frame. He turned round. The wolfhound lifted its head off his feet.
 
-"*Help* us?" he said. "They've been saying that for sixteen years, Godfrey. They've been saying it my whole life. Every Moto lord who ever put his seal to a requisition in the north said it was to help us. Every tithe. Every closed road. Every granary they took for the house-guard. *For the good of the north. For order. For unity.*" He was not shouting. He had not raised his voice at all. "And the whole time they were saying it, we were dying. Of hunger. Of the cough. Of the cold, with no oil and no wood. The whole time." He took a step toward the table. "They executed your father, Godfrey. Three weeks ago. On their floor. Do you not *feel* anything?"
+"*Help* us?" he said. "They've been saying that for sixteen years, Godfrey. They've been saying it my whole life. Every Moto lord who ever put his seal to a requisition in the north said it was to help us. Every tithe. Every closed road. Every granary they took for the house-guard. *For the good of the north. For order. For unity.*" He was not shouting. He had not raised his voice at all. "And the whole time they were saying it, we were dying. Of hunger. Of the cough. Of the cold, with no oil and no wood. The whole time." He took a step toward the table. "They executed your father, Godfrey. Not a month gone. On their floor. Do you not *feel* anything?"
 
 The room went very still.
 
@@ -292,7 +294,7 @@ He let that sit.
 
 He straightened up from the table.
 
-"You're a tokenless," he said. "You've no family. No house. No name. Nothing anybody in the south can see, nothing they'd sit across a table from. Even if my father named you lord before he rode out. Even with the Stark and the Greymane sworn to you on a dead man's word." He held Muken's eyes, grey on slate. "When that Moto lady comes up the road, she's going to look at you and see a sixteen-year-old sellsword with a scrap-iron sword and a bad temper. And so is the Zettari. And so is every man in the north who's watching to see what we do next." He paused. "So if you're going to be a king, Muken. If that's what my father died for. If that's what Ulf died for." His voice did not waver. "Then at least act like one."
+"You're a tokenless," he said. "You've no family. No house. No name. Nothing anybody in the south can see, nothing they'd sit across a table from. Even if my father named you lord before he rode out. Even with the Stark and the Greymane sworn to you on a dead man's word." He held Muken's eyes, grey on slate. "When that Moto lady comes up the road, she's going to look at you and see a sixteen-year-old sellsword with a scrap-iron sword and a bad temper. And so is the Yukari. And so is every man in the north who's watching to see what we do next." He paused. "So if you're going to be a king, Muken. If that's what my father died for. If that's what Ulf died for." His voice did not waver. "Then at least act like one."
 
 The wolfhound had laid its head back down on Muken's boot.
 
@@ -315,6 +317,8 @@ Godfrey said nothing.
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** The outrider's report loses the Zettari on the sabre-toothed cat, which is another player's to answer: he now reports a Moto lady by the veil, silver on her, twenty riders without banners and a Yukari woman walking barefoot, and Muken's anger and Godfrey's lines turn on the Yukari instead. Ulf's oath names Torvald as the brother who named him, and his "we lost the last war" is the one forty-year war.
+
 **What this is.** Isaac's passage, expanded into Chapter Eight. Past tense, third person, close on Muken, with a chronicle epigraph. About 5,400 words.
 
 **Your beats, kept in order:**
@@ -328,16 +332,16 @@ Godfrey said nothing.
 - Muken's disbelief, and the commonfolk and the Lanternless always saying he was destined.
 - "We apologise we couldn't see you reach your peak; you have our sons."
 - Yukazuri hears it all. They ride out and are executed.
-- News that a Moto lord and a Zettari are coming. Muken's anger. Godfrey: "you cannot show anger, they're here to help." Muken: "they've been saying that for sixteen years... they executed your father, do you not feel anything." Godfrey: of course; the Greymane Shieldwardens were used as a tool on the front lines against the Zettari and thrown away; remember your place, a tokenless, even named lord; if you're going to be a king, act like one. Muken knows he's right.
+- News that a Moto lord is coming (your beat had a Zettari with her; that is held back until the Zettari player answers). Muken's anger. Godfrey: "you cannot show anger, they're here to help." Muken: "they've been saying that for sixteen years... they executed your father, do you not feel anything." Godfrey: of course; the Greymane Shieldwardens were used as a tool on the front lines against the Zettari and thrown away; remember your place, a tokenless, even named lord; if you're going to be a king, act like one. Muken knows he's right.
 
 **Canon tied in:**
 - **"How's your stack?"** and *"A full stack speaks louder than a full mouth"* are canon Kharven Inventory. Here the old woman at the woodpile asks Muken first. That can be the moment the greeting becomes the kingdom's.
 - **Greymane house words**, *The Ridge Does Not Move*, are canon (Renard Greymane's card). Wystan says them to Godfrey.
 - **Godfrey Greymane** is canon as Muken's Shieldwarden in his reign, so this is his first scene.
 
-**Canon conflicts, your call:**
+**Canon conflicts:**
 - **Lorn Stark's age.** Lorn is canon too, aged 44 in Hild Ice's era with a sister Fern and a cousin Zaehaerys. Making him Ulf's son and about 22 now would put him past 70 by then. Either his card's age moves, or this is an earlier Lorn the later one is named for.
-- **The council's seat.** You call it **Kharven's Seat**. In canon, Kharven-Seat is the city Muken himself builds later. I used your name for the place the summons comes from. If the Moto hall is a different place from the later Kharven-Seat, give it its own name.
+- **The council's seat.** Settled: Kharven is the old name of the high north under the Moto rock, and **Kharven's Seat** (the Hall of Verdicts and the hold) stands as written. Muken's realm takes the name when he takes the Seat.
 
 **Originated here (yours to keep or strike):**
 - The *Annals of the North-Forged Crown* epigraph. "North-Forged Crown" is from Muken's card.
@@ -349,7 +353,7 @@ Godfrey said nothing.
 - Godfrey's mother, buried on the ridge in the autumn.
 - Ulf's wolfhound stays with Muken.
 - Rob reads the death crow and goes silent until morning. The executions happen offstage.
-- **The party on the road**: Kiyome's Moto, with a Zettari on a sabre-toothed cat (Dougou, if he goes north as witness), two days out. Their arrival is the next chapter. None of them is written here.
+- **The party on the road**: a Moto lady by the veil with silver on her (Kiyome's party), twenty riders without banners, and a Yukari woman walking barefoot, two days out. No Zettari rides with them until the Zettari player answers. Their arrival is the next chapter. None of them is written here.
 - Muken's last line: *Then we've two days to mend the gate.*
 
 **Rule ids that most constrained it:** R70-114 and R73-38 (warm bonds shown before the loss lands: the oaths, Wystan's hand on his shoulder, the wolfhound), R72-31 (the warning in the world before the danger: the gold seal), R74-1 (the chronicle as the document voice at the threshold), R70-111 (one crafted speech at the big moment: the oaths).

@@ -16,7 +16,7 @@ Bright hard silver for the Shirogane. Copper and raw red-bronze for the Akagane.
 
 And red enamel over near-black steel, with a lion's head in a boss at the crest, for the Kōkan.
 
-The Kōkan chair was empty. It had been empty for a very long time. Nobody had sat in it, nobody had moved it, and nobody had ever had it taken out, and there was a fine grey skin of dust on its arms that the servants who swept the hall had been told, a hundred years ago, never to touch. The lion on its crest looked down at the centre of the floor with blind enamel eyes. Under it, on the night of the verdict, Torvald Stark knelt in chains.
+The Kōkan chair was empty. The seventh chair had not been sat in since the war began. Gimbzo had ruled from a saddle and a tent and left it to the dust, so that every lord at the ring would look at it and know he could walk in any day and take it. Nobody had moved it in all that time, and nobody had ever had it taken out, and there was a fine grey skin of dust on its arms that the servants who swept the hall had been told, forty years ago, never to touch. The lion on its crest looked down at the centre of the floor with blind enamel eyes. Under it, on the night of the verdict, Torvald Stark knelt in chains.
 
 ---
 
@@ -44,15 +44,15 @@ Behind him, kneeling in a row along the edge of the circle, chained the same way
 
 There were five of them.
 
-Two were his own. Ulf and Sten, riders of his household, cousins to each other, taken with him at the ford when the Tenrai came over the hill. Ulf had lost an ear. Sten could no longer hold his head up and had to be propped against his cousin's shoulder, and his breathing was the bad wet kind that Torvald had heard before in men who did not live to see the next morning.
+Two were his own. Hakon and Sten, riders of his household, cousins to each other, taken with him at the ford when the Tenrai came over the hill. Hakon had lost an ear. Sten could no longer hold his head up and had to be propped against his cousin's shoulder, and his breathing was the bad wet kind that Torvald had heard before in men who did not live to see the next morning.
 
 Beside them knelt a man in the remains of a grey surcoat with a wolf's head worked on the breast in darker thread. Aldwin Greymane. Younger brother of the Lord of the Ridgewall, and the man the Greymanes had sent north with forty riders a year ago to stand with the Starks when the Tenrai first began closing the passes. Thirty-eight of the forty were dead. He was forty-four, iron-haired, with the long grey Greymane face and a soldier's stillness, and he had been beaten as badly as Torvald and showed it less. He knelt with his back perfectly straight and his chained hands resting on his thighs, and he was looking at the empty Kōkan chair.
 
-Next to him knelt Wystan Lambert, and Wystan did not look like a man who should have been in chains at all.
+Next to him knelt Osbert Lambert, and Osbert did not look like a man who should have been in chains at all.
 
 He was the tariff-master of the Hallenfeld river corridor. Fifty-odd, round-shouldered, soft in the belly, with thinning sandy hair and small square spectacles that were miraculously still on his face, one lens cracked across. He had ink on the second finger of his right hand that no amount of beating had got off. He was not a fighting man and he had never pretended to be one. What he had done was keep books. For eleven years he had sat at the Hallenfeld junction with his tally board and read the carts in against their manifests, and when the Tenrai began moving grain off the eastern routes and calling it the requisition of the realm, he had read those carts in too, and written down what was in them, and where they went, and who signed for them, and how much of the grain that left the corridor marked for the starving provinces arrived anywhere at all. Then he had made a fair copy of it and sent it north.
 
-He had a son. The son was seven, and was at home in the corridor with his mother, and Wystan had not seen either of them in four months. He was thinking about the boy now; Torvald could see it on him, the way a man's face goes inward when he is trying to remember something exactly.
+He had a son. The son was seven, and was at home in the corridor with his mother, and Osbert had not seen either of them in four months. He was thinking about the boy now; Torvald could see it on him, the way a man's face goes inward when he is trying to remember something exactly.
 
 And last, at the end of the row, a Moto.
 
@@ -118,7 +118,7 @@ Torvald turned his head to him.
 
 He laughed again, softer this time, and it did not turn into a cough.
 
-"You think my life's some precious thing to me?" he said. "You think I came south to bargain for it?" He shook his head slowly, and the chains rattled on his wrists. "I'm fifty years old, Amagiri. I've buried a wife and two sons and every one of my brothers. I've buried more of my own riders in three years than you've ever had in your house-guard. My life's an old coat. I'd have thrown it in a ditch a long time ago if there'd been anybody else to wear it."
+"You think my life's some precious thing to me?" he said. "You think I came south to bargain for it?" He shook his head slowly, and the chains rattled on his wrists. "I'm fifty years old, Amagiri. I've buried a wife and two sons and every brother I had but the one, and he'll bury me, and then he'll come for you. I've buried more of my own riders in three years than you've ever had in your house-guard. My life's an old coat. I'd have thrown it in a ditch a long time ago if there'd been anybody else to wear it."
 
 He looked round the circle of chairs.
 
@@ -170,6 +170,8 @@ It was the first word the old woman had spoken. Her voice was dry and thin and s
 
 "I signed for what I was shown," Sumie Kurenai said. Her voice was very low. "The register was closed. Every name that could be read was read out of it and every name that was read was ended. That is the truth. I would swear it before the script." She looked up, and her ink-dark eyes found the Shirogane's. "But there were marks in that register, Shizuha, that could not be read. Not by me. Not by anyone. Names written in a hand the instrument would not take." She swallowed. "We closed the book on what we could see. What we couldn't see, we called nothing. Because it gave us no reading. Because a thing that gives no reading is a thing that isn't there."
 
+Torvald had spent half his life at fords and toll-gates listening to men explain themselves to him, and he knew the shape of what she had just done. Every word of it was true. She had laid them down one after another, carefully, the way a man lays flat stones over the mouth of a well, so that you could walk across them all day and never once hear the water underneath.
+
 Nobody said anything.
 
 Up in the dark of the dome, very faintly, something in the great iron ring creaked on its chain.
@@ -188,7 +190,7 @@ He straightened up on his knees.
 
 He looked at Kagenori.
 
-"My sons are dead," he said. "But I've nephews. I've a brother's widow at the Ironwood March who'll put a spear through you herself if she ever gets close enough. I've eleven thousand people with scythes, and every one of them is going to hear what was done in this room tonight, because one of your own guards is going to tell it in a tavern within a month. They always do." He nodded at Aldwin Greymane, beside him. "The Greymanes have already lost thirty-eight men for me. You think the Ridgewall's going to sit quiet when the Lord's brother doesn't come home?"
+"My sons are dead," he said. "But I've a brother living, and he's had the wolf off me since before ever I rode for Kessen, sealed and witnessed in his own hall at Hollenmark, so you can take my head tonight and the north won't miss a step for it. He's older than me, and slower to start, and I've never once in my life seen him stop. I've nephews. I've a brother's widow at the Ironwood March who'll put a spear through you herself if she ever gets close enough. I've eleven thousand people with scythes, and every one of them is going to hear what was done in this room tonight, because one of your own guards is going to tell it in a tavern within a month. They always do." He nodded at Aldwin Greymane, beside him. "The Greymanes have already lost thirty-eight men for me. You think the Ridgewall's going to sit quiet when the Lord's brother doesn't come home?"
 
 He leaned forward again, against the chain.
 
@@ -256,7 +258,7 @@ Torvald watched her come.
 
 He shifted on his knees, and straightened his back as well as the ribs would let him, and lowered his head. His great clotted beard fell forward onto his chest. The back of his neck was broad and brown and scarred, and there was a little grey in the hair at the nape.
 
-Behind him, along the edge of the circle, Ulf Stark had begun to say something in the old northern tongue, low and fast, over and over. Sten could not lift his head to see. Aldwin Greymane had not moved at all. He knelt straight-backed with his hands on his thighs and his long grey face turned toward Torvald, and his eyes were open, and he did not look away. Next to him Wystan Lambert had shut his. His lips were moving too. Not in a prayer. Torvald knew it, because he had heard it in the cells three nights running, through the wall: the man counted. Under his breath, steadily, numbers. Carts. Sacks. Grain by the bushel and by the stone. It was what he did when he could not bear a thing. He was counting the requisitions out of the Hallenfeld corridor for the year, one cart at a time, from the first day of spring.
+Behind him, along the edge of the circle, Hakon Stark had begun to say something in the old northern tongue, low and fast, over and over. Sten could not lift his head to see. Aldwin Greymane had not moved at all. He knelt straight-backed with his hands on his thighs and his long grey face turned toward Torvald, and his eyes were open, and he did not look away. Next to him Osbert Lambert had shut his. His lips were moving too. Not in a prayer. Torvald knew it, because he had heard it in the cells three nights running, through the wall: the man counted. Under his breath, steadily, numbers. Carts. Sacks. Grain by the bushel and by the stone. It was what he did when he could not bear a thing. He was counting the requisitions out of the Hallenfeld corridor for the year, one cart at a time, from the first day of spring.
 
 Sumie Kurenai set her feet.
 
@@ -270,11 +272,13 @@ It was a clean cut. The Kurenai had been doing it for longer than there had been
 
 The blood ran out across the script. It filled the cut letters one by one, the way water fills a channel, and ran on round the circle in a slow red ring.
 
-Ulf Stark screamed.
+Hakon Stark screamed.
 
-Nobody else made a sound. Aldwin Greymane had not looked away. Wystan Lambert had opened his eyes, and was looking at the head on the floor, and his lips had stopped moving, and he had lost his count.
+Nobody else made a sound. Aldwin Greymane had not looked away. Osbert Lambert had opened his eyes, and was looking at the head on the floor, and his lips had stopped moving, and he had lost his count.
 
 Sumie Kurenai lowered the blade. There was a single drop of blood on the crimson line down its spine, and it ran, very slowly, down the inlay, and did not stain it, and fell off the point onto the floor.
+
+She did not look at the head. She was looking past it, at the seventh chair, the way she had looked at it when the Stark first said *two*, and her face had gone smooth again over whatever was under it. She had been twenty-three the night of the Kōkan cellars, and new to her line's office, and she had stood with the register open in her hands while the names were brought to her and ended one by one. She had known since that night, as Shigure Tenrai knew, and the man in the gold chair, and a handful of Tenrai captains, and nobody else at the ring was meant to, that one had not been brought to her. A woman of the white line had walked up out of the cellars on her own feet with a newborn held inside her coat, and nobody had stopped her, and Sumie Kurenai had written nothing down and signed for a closed book. Sixteen years she had kept it closed on the reasoning she had just given the council, that a thing which gave no reading was a thing that was not there. One child, nameless, gone out into the cold like a thousand others. The Stark had said two.
 
 Up on the dais, Kiyome Byakuya was still standing in front of her white chair. She had not sat down. She had watched the whole of it. Her hands were shaking at her sides, and the glass beads at her temple were shaking with them, a very faint clicking, like rain on a window.
 
@@ -294,7 +298,7 @@ Kiyome Byakuya went last. At the edge of the dais she stopped, and turned, and c
 
 Then she stood, and went out, and did not look back at the chair.
 
-Nobody noticed, in the dark of the hall when the doors had shut, that Wystan Lambert had begun to count again.
+Nobody noticed, in the dark of the hall when the doors had shut, that Osbert Lambert had begun to count again.
 
 He was not counting carts this time. His lips were moving very slowly, over two words, the same two, again and again, the way a man goes over a figure he means to carry home and set down in a ledger somewhere it cannot be burned.
 
@@ -305,26 +309,25 @@ He was not counting carts this time. His lips were moving very slowly, over two 
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** The kneeling Stark rider is now Hakon and the Lambert prisoner Osbert; Torvald has buried every brother but Ulf, whom he named leader before Kessen; the Kōkan chair has stood empty forty years, since the war began, because Gimbzo ruled from the saddle; and Sumie goes white because she is one of the few who knew a child walked out of the cellars.
+
 **What this is.** Isaac's council scene, every line and beat he gave kept and in his order, expanded into a full written scene with the prisoners, the hall and the verdict carried through to the end. Past tense, third person, close on Torvald until his death and pulled back after. About 5,800 words.
 
 **Your lines, cleaned and kept.** Kiyome's "We shouldn't be so hasty about the decision, we still haven't fully agreed." Kagenori's "Do you think we can spend time delegating whilst they seek to poison our people with lies." Tetsugen's "I agree even though I don't like Kagenori. He is correct. We cannot allow them to think they have control." Torvald's "You are too shallow to see. These fucking idiots made up their minds two weeks ago." Hayato's line I read as "And to think I once counted you among the few men in this capital with any honour." Torvald's "You think my life is some precious thing to me," "You think me dying here will change the truth," "only a matter of time before the world finds out there are two remaining children of the Kōkan line," "you think by killing me you'll stop my family going to war," "I'd trade my honour for a few more years of war, of death," "It was nice to see Gimbzo finally meet his end," and "Long live the king."
 
-**Canon it stands on.** The seven great lines and their dress are from *The Moto Bloodline: Material Culture*: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden (the executioners' line), Byakuya near-white with glass, veils and halos, Tenrai in gold with banner-heraldry, Amagiri in indigo and mist-grey, and Kōkan in red enamel over near-black steel with a lion boss. "Seven lines and one blood" is the canon phrase. The blood markers are canon: a metallic sheen at brow, temple and wrist, and ring-lines and shard-patterns in the iris. Kharven's "never meet a Moto's eye," because the Moto read through the eyes, is canon. The Long Reading's Recension supplies Sumie's confession: the Kōkan's names were written in a mark the register could not classify, and a name that returns no reading was counted as no one. Wystan Lambert is built from Edward Lambert's card: his father was the Hallenfeld tariff-master who read the carts in against their manifests at the junction.
+**Canon it stands on.** The seven great lines and their dress are from *The Moto Bloodline: Material Culture*: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden (the executioners' line), Byakuya near-white with glass, veils and halos, Tenrai in gold with banner-heraldry, Amagiri in indigo and mist-grey, and Kōkan in red enamel over near-black steel with a lion boss. "Seven lines and one blood" is the canon phrase. The blood markers are canon: a metallic sheen at brow, temple and wrist, and ring-lines and shard-patterns in the iris. Kharven's "never meet a Moto's eye," because the Moto read through the eyes, is canon. The Long Reading's Recension supplies Sumie's confession: the Kōkan's names were written in a mark the register could not classify, and a name that returns no reading was counted as no one. Osbert Lambert is built from Edward Lambert's card: his father was the Hallenfeld tariff-master who read the carts in against their manifests at the junction.
 
 **Originated here (yours to keep or strike):**
-- **The Hall of Verdicts** in the Moto seat: round, windowless, an iron lamp-ring on a chain, the unreadable script circle that "listens," and the Kōkan chair kept empty under a hundred years of dust.
-- **Torvald**: fifty, a widower who has buried two sons, three years leading the north, with eleven thousand under arms. His brother's widow is at the Ironwood March (canon ground for the Starks later).
-- **The prisoners.** Ulf and Sten, Stark riders and cousins; Sten is dying. **Aldwin Greymane**, younger brother of the Lord of the Ridgewall, who brought forty riders north and has thirty-eight dead; he's ransomed home at his weight in salt. **Wystan Lambert**, Edward's father, tariff-master, who kept the ledger of Tenrai grain diverted from the starving provinces and sent a fair copy north. His son is seven and at home, so this is Edward as a boy. **Ren**, an Akagane foot-soldier who refused to burn the granaries at Tōmi because his grandmother lives there. Tetsugen is left to "dispose of" him.
+- **The Hall of Verdicts** in the Moto seat: round, windowless, an iron lamp-ring on a chain, the unreadable script circle that "listens," and the Kōkan chair kept empty under forty years of dust: nobody has sat it since the war began, because Gimbzo ruled from a saddle and a tent and left it empty as a standing threat.
+- **Torvald**: fifty, a widower who has buried two sons and every brother but Ulf, three years leading the north, with eleven thousand under arms. He is Ulf Stark's younger brother and named Ulf leader of the house, sealed at Hollenmark, before he rode for Kessen. His brother's widow is at the Ironwood March (canon ground for the Starks later).
+- **The prisoners.** Hakon and Sten, Stark riders and cousins; Sten is dying. **Aldwin Greymane**, younger brother of the Lord of the Ridgewall, who brought forty riders north and has thirty-eight dead; he's ransomed home at his weight in salt. **Osbert Lambert**, Edward's father, tariff-master, who kept the ledger of Tenrai grain diverted from the starving provinces and sent a fair copy north. His son is seven and at home, so this is Edward as a boy. **Ren**, an Akagane foot-soldier who refused to burn the granaries at Tōmi because his grandmother lives there. Tetsugen is left to "dispose of" him.
 - **The vote.** Five to one, with Kiyome refusing. Sumie Kurenai carries out the verdict herself with a guardless single-edged blade, a crimson inlay down its spine. Then Kiyome closes Torvald's eye.
 - **The charge**: 412 Tenrai house-guard dead and the granaries burned at Kessen ford.
 - **Kagenori's orders**: search every road, register, salt pan, mine and bonded house for the two children. The salt pans point straight at Nalūn and Kasane. It is the Front that comes for Muken.
-- **Wystan's closing count**, "Two children," carried home by the man whose son becomes Edward Lambert, who in canon later crosses the north toward a child of Kōkan blood.
+- **Osbert's closing count**, "Two children," carried home by the man whose son becomes Edward Lambert, who in canon later crosses the north toward a child of Kōkan blood.
 
-**One timeline flag, your call.** Torvald says *two* Kōkan children are alive. If this council is right after Gimbzo's death, near the war's end, then in *The Uncounted* Muken is only just born and Yukazuri isn't born for four more years. Three ways to make "two" true:
-1. The rumour is ahead of the facts; Torvald is right by accident.
-2. The two are Kasane and a sibling of hers.
-3. The scene sits later than it looks, closer to Yukazuri's birth.
+**Timing (settled).** The verdict falls in the weeks after Shimane, about a month before *The Uncounted* Chapter Eight, while Muken, sixteen, is on the convoy road; the news reaches him at the Marrow crossing in Chapter Three. The two children are Muken (16) and Yukazuri (13), both Gimbzo's by Kasane Byakuya, so Torvald's rumour is simply true.
 
-I wrote it so all three still work.
+**Why Sumie goes white.** She is one of the few who knew a child escaped the cellars (with Shigure, Kagenori and a few Tenrai), and she buried it on the register's own logic. Her confession to Shizuha is true word for word and hides that; the pulled-back paragraph after the cut says so. She knew of one child; *two* is what breaks her face.
 
 **Rule ids that most constrained it:** R70-54 / R70-55 (first-sight inventories in the POV's order), R72-25 (live lies and tells: Kagenori's "a rumour from a man who heard it from a woman," and Sumie's confession), R70-69 (pressure in the room before the bodies: the lamps drawing in, the script going cold), R71-6 and the gore floor (the cut traced through the spine, full aftermath), R70-114 (warmth kept alive: Kiyome closing the eye).

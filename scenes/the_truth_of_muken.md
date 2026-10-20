@@ -10,31 +10,31 @@ Kiyome Byakuya sat with her hands open on her knees. The white of her sleeves ha
 
 She drew a breath and let it go.
 
-"The truth of Muken is this. He is my nephew. He is the son of my sister, Kasane Tenrai Yukari." A pause, short and exact. "And he is the direct son of Gimbzo Kōkan Moto."
+"The truth of Muken is this. He is my nephew. He is the son of my sister, Kasane Byakuya, who took the name Yukari at her Telling and never gave it back." A pause, short and exact. "And he is the direct son of Gimbzo Kōkan Moto."
 
 Tetsugen Akagane's head came up off his chest as though someone had pulled a cord through the back of his neck.
 
-He was a heavy man gone heavier with age, the kind of broad that had been muscle once and was now mostly the memory of it, and he had been sitting since his bow with his chin down and his scarred hands folded over the hilt of the short sword across his thighs. Now the knuckles on those hands had gone white. Beside him, Hayato Amagiri had been halfway through lifting his cup, and the cup stopped where it was, an inch off the table, with the tea in it trembling in a fine ring.
+He was a heavy man gone heavier with age, the kind of broad that had been muscle once and was now mostly the memory of it, and he had been sitting since his bow with his chin down and his scarred hands folded on his belt over the horn handle of his meat knife, the only steel he had carried through the gate. Now the knuckles on those hands had gone white. Beside him, Hayato Amagiri had been halfway through lifting his cup, and the cup stopped where it was, an inch off the table, with the tea in it trembling in a fine ring.
 
 Neither man said anything. Neither of them had to.
 
-*Sixteen years we kept that name off every tongue south of the Seat. Sixteen years. And she lays it on a Zettari table like a coin.*
+*And she lays it on a Zettari table like a coin.*
 
-That was Tetsugen's thought, and it was on his face for anyone with eyes, and he did not trouble to hide it. Hayato's face did something more careful. He set the cup down without a sound, turned it a quarter on the wood so the glaze crack faced away from him, and looked at Kiyome the way a man looks at a ford he has crossed a hundred times and has just watched swallow a cart.
+That was Tetsugen's thought, and it was on his face for anyone with eyes, and he did not trouble to hide it. Sixteen years Kagenori and his kept that name off every tongue south of the Seat, and Tetsugen had known it the way you know a draught is coming from somewhere, without once going to look. Hayato's face did something more careful. He set the cup down without a sound, turned it a quarter on the wood so the glaze crack faced away from him, and looked at Kiyome the way a man looks at a ford he has crossed a hundred times and has just watched swallow a cart.
 
 Across the table, Naiser Yukari had gone very still.
 
-Kiyome had named her sister three times over, and the third name was his own. He did not move. He did not look at his sister. But the corona at the edge of his pupils, violet-black even at rest, brightened by the width of a hair, and the Quiet Weight of the house came into the room the way it always did when a Yukari stopped breathing to listen: every other person present found themselves leaning a little toward him without knowing why.
+Kiyome had given her sister two houses in a single breath, and the second was his own. He did not move. He did not look at his sister. But the corona at the edge of his pupils, violet-black even at rest, brightened by the width of a hair, and the Quiet Weight of the house came into the room the way it always did when a Yukari stopped breathing to listen: every other person present found themselves leaning a little toward him without knowing why.
 
 Beside him Naevra had lowered her eyes to the table. She was not reading, not in any way a guest could have objected to. She did not need to. A Yukari of her line saw some of the threads at rest the way a weaver sees the warp on a loom she is not working, and she had been watching Kiyome's since the woman sat down. When a person speaks a thing they hold to be true, the thread of the claim settles. It lies down along the speaker's commitment the way a plumb line settles under its own weight, and nothing in the room tugs at it. A lie does the opposite: it has to be held taut against what the speaker knows, and it hums. Every thread off Kiyome Byakuya had lain flat and still as she spoke.
 
 Kiyome let the silence stand a moment longer. Then she went on, and her voice was lower.
 
-"The truth is I should have been there for him." She looked at her hands. "Kasane wouldn't have it. She told me to stay behind with our house, that I was needed at home more than I'd ever be needed at her side, and that her Stark husband would keep her and the boy safe." The corner of her mouth moved, not quite a smile. "Maybe she knew how it would end. She could always see further down a road than the rest of us. She saw things coming that the rest of us didn't believe until they were standing in the door."
+"The truth is I should have been there for him." She looked at her hands. "Kasane wouldn't have it. The night she went, a runner of our house brought me four lines in her hand. I was to stay behind with our house. I was needed at home more than I'd ever be needed at her side. Yusif Stark would keep her and the boy safe." Her fingers moved on her knee, as if they were still holding the paper. "And then she was gone, and I never found her after. Not once, in all the years I looked." The corner of her mouth moved, not quite a smile. "Maybe she knew how it would end. She could always see further down a road than the rest of us. She saw things coming that the rest of us didn't believe until they were standing in the door."
 
 She was quiet for a breath.
 
-"She tried to make Gimbzo understand. For years, she tried. But after his mother died there was no more reasoning with him. Whatever had been between the two of them, the love, the patience, all of it, it went out like a fire nobody fed." Her hands closed on her knees. "I think my sister died the day Gimbzo fell. Long before anyone ever killed him. The war broke her family in half, and she was the one standing in the crack when it opened."
+"She tried to make Gimbzo understand. For years, she tried. But after his mother died there was no more reasoning with him. Whatever had been between the two of them, the love, the patience, all of it, it went out like a fire nobody fed." Her hands closed on her knees. "She died the morning the news of Shimane came down to her, the Starks say, of the salt-throat that takes the cutters. I think she had been dying of him for years before anyone ever killed him. The war broke her family in half, and she was the one standing in the crack when it opened."
 
 The lamp at the back of the hall ticked. Under the floor the stream went on.
 
@@ -52,7 +52,7 @@ He said it to the table at first. Then he lifted his eyes and said it again, to 
 
 He turned his whole body on the cushion, slowly, until he faced the Sovereign square.
 
-"You asked me what changed my mind. I'll give you the truth, since you said you'd rather have that from a man who's made terrible decisions than a polished apology." The scarred hands opened on the sword-hilt and lay flat. "Nothing honourable changed it. I'd like to sit here and tell you I woke one morning with the Sennen road on my conscience. I didn't. I supported that campaign. I sat in council and argued for it. My granaries fed the columns that went down that road, and I signed the provisioning orders myself, in my own hand, with my own seal, and I knew what those columns would do to every settlement standing between them and the river. I knew, and I signed."
+"You asked me what changed my mind. I'll give you the truth, since you said you'd rather have that from a man who's made terrible decisions than a polished apology." The scarred hands came off the knife and lay flat on his thighs. "Nothing honourable changed it. I'd like to sit here and tell you I woke one morning with the Sennen road on my conscience. I didn't. I supported that campaign. I sat in council and argued for it. My granaries fed the columns that went down that road, and I signed the provisioning orders myself, in my own hand, with my own seal, and I knew what those columns would do to every settlement standing between them and the river. I knew, and I signed."
 
 Hayato shut his eyes for half a breath.
 
@@ -70,13 +70,13 @@ Hayato let out a breath through his nose.
 
 "This is true." He said it quietly, nodding at the packet, and then lifted his eyes to the Sovereign. "All of it. And yet everything the Sovereign has said is also true. Every word."
 
-He was the youngest of the three by a decade and more, lean in the way of men who spent their lives in the saddle, with a weathered, narrow face and a horseman's squint that never quite left the corners of his eyes even indoors. The rain-cape he had not taken off was still dark across the shoulders where the snowmelt had soaked through on the northern approach, and a sprig of blue-black juniper had caught in the toggle at his throat and stayed there.
+He was the youngest of the three, a few years under Kiyome and a whole generation under Tetsugen, lean in the way of men who spent their lives in the saddle, with a weathered, narrow face and a horseman's squint that never quite left the corners of his eyes even indoors. The rain-cape he had not taken off was still dark across the shoulders where the snowmelt had soaked through on the northern approach, and a sprig of blue-black juniper had caught in the toggle at his throat and stayed there.
 
 "We can't afford to pull our families out from under the Tenrai so easily," he said. "That's the knot of it, Byakuya-dono, and you know it as well as I do. There are men in all three of our houses who eat from Kagenori's stores now. Their children are fed from Tenrai grain because ours ran out. Tell them their lords have walked out of council and they'll go hungry for it, and see how long their loyalty lasts. We need something to hold them that's older than a granary." He turned his cup another quarter. "We need Muken to step up."
 
 Then he turned to the Sovereign, and his voice took on the plain working cadence of a man discussing distances.
 
-"You asked about the roads, Sovereign. Whether they're truly closed, or closed only to people without the knowledge to go round. I'll answer that honestly, because it's the one thing I'm good for." He touched the table with two fingers, drawing a line. "The main roads out of Kharven are closed to carts, closed to commons, and closed to anyone without a Tenrai pass. The Hiekawa cut and the old salt road over the Shiogane shoulder are open, because the Tenrai's own smugglers use them to sell Moto grain to the hill clans at four times the price, and they don't want them watched. That's how we came. That's how I can bring grain in." He drew a second line beside the first. "A mule carries two sacks in snow. The cut takes thirty mules abreast at its widest and single file at its narrowest. It's a feeding road, too narrow for an army."
+"You asked about the roads, Sovereign. Whether they're truly closed, or closed only to people without the knowledge to go round. I'll answer that honestly, because it's the one thing I'm good for." He touched the table with two fingers, drawing a line. "The main roads out of Kharven are closed to carts, closed to commons, and closed to anyone without a Tenrai pass. The Hiekawa cut and the old salt road over the Shiogane shoulder are open, because the Tenrai's own smugglers use them to sell Moto grain to the hill clans at four times the price, and they don't want them watched. They know the cut as far as their mules walk it and not a yard to either side. The side tracks off it are mine. That's how we came: up the cut, off it at a herders' shoulder the smugglers have never had a reason to find, and down a deer track onto your own north hill. That's how I can bring grain in." He drew a second line beside the first. "A mule carries two sacks in snow. The cut takes thirty mules abreast at its widest and single file at its narrowest. It's a feeding road, too narrow for an army."
 
 His mouth tightened.
 
@@ -84,11 +84,11 @@ His mouth tightened.
 
 He looked down the table, past the Sovereign, to the two Yukari.
 
-"So here's what I'm prepared to lose. Those roads are all my house has that the Tenrai don't. They're why the Amagiri still have a seat at all. I'll give them up. Every pass, every ford, every hut with a woodpile in it between the Seat and the southern border, drawn out for whoever you name as witness. The day Kushara's grain goes up the Hiekawa cut with Yukari eyes on it, the cut stops being mine. Kagenori will learn it inside a season, and he'll close it, and after that I'm just another lord who knows the weather." He lifted one shoulder. "Better it carries grain for one winter than smugglers for twenty."
+"So here's what I'm prepared to lose. Those side roads are all my house has that the Tenrai don't. The Tenrai can have the cut and welcome; it's what runs off it that they've never found, and that's why the Amagiri still have a seat at all. I'll give them up. Every pass, every ford, every hut with a woodpile in it between the Seat and the southern border, drawn out for whoever you name as witness. The day Kushara's grain goes up the Hiekawa cut and off it onto my tracks with Yukari eyes on it, those tracks stop being mine. Kagenori will learn them inside a season, and he'll close them, and after that I'm just another lord who knows the weather." He lifted one shoulder. "Better it carries grain for one winter than smugglers for twenty."
 
 He hesitated, and the hesitation was honest.
 
-"And since you asked who we speak for. I'll not pretend. Byakuya-dono speaks for her house, and Lord Tetsugen speaks for his. I speak for the Amagiri roads and the twenty riders I brought. My uncle still sits at Kagenori's left hand in council. I don't speak for him, and he will not thank me for any of this."
+"And since you asked who we speak for. I'll not pretend. Byakuya-dono speaks for her house, and Lord Tetsugen speaks for his. I speak for the Amagiri roads and the twenty riders I brought. My uncle will sit the indigo chair for the Amagiri when Kagenori calls the full council, and he'll sit it at Kagenori's left hand in everything but the furniture. I don't speak for him, and he will not thank me for any of this."
 
 *There. Said. Let the Zettari weigh a man who can't promise his own table.*
 
@@ -114,11 +114,11 @@ Naiser spoke then.
 
 He had let every word in the hall run its full length before he moved, the way his house had always done, and when he spoke the room came down to meet him.
 
-"Lady Kiyome. You named your sister Kasane Tenrai Yukari."
+"Lady Kiyome. You said your sister took the name Yukari."
 
 "I did."
 
-"The last of those names is ours."
+"That name is ours."
 
 "She heard the Telling in this valley when she was fourteen," Kiyome said. "She sat in front of Senri's stone and listened to the whole account of what the name costs, and then she asked for it. Your house gave it to her. She never once stopped answering to it." Her eyes did not leave his. "I assumed your archive would remember. I thought you might not have read that page."
 
@@ -150,10 +150,12 @@ She looked at him for a long moment, and the white knot lay still at her side.
 
 ## Author notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Kasane is now "Kasane Byakuya, who took the name Yukari at her Telling", never Tenrai; she told Kiyome by letter on the night she fled that Yusif would keep her and the boy safe, then vanished, and died of salt-throat the morning of the Shimane news. Tetsugen's "sixteen years" is now the Tenrai's secret that he guessed; he carries only his meat knife; Hayato's side tracks off the Hiekawa cut are what the Tenrai don't know, and they led to the deer track; his uncle will sit the Amagiri chair at the full council.
+
 **Beats kept, in your order:**
-1. Kiyome reveals Muken: her nephew, son of her sister Kasane Tenrai Yukari, direct son of Gimbzo Kōkan Moto.
+1. Kiyome reveals Muken: her nephew, son of her sister Kasane Byakuya, who took the name Yukari at her Telling, direct son of Gimbzo Kōkan Moto.
 2. Hayato and Tetsugen are surprised she gives that to the Zettari.
-3. Her pause, then: she should have been there; Kasane told her to stay behind; the Stark husband; Kasane saw further; Gimbzo after his mother died; "my sister died the day Gimbzo fell."
+3. Her pause, then: she should have been there; Kasane's note on the night she fled told her to stay behind, that Yusif Stark would keep her and the boy safe, and then Kasane vanished and Kiyome never found her; Kasane saw further; Gimbzo after his mother died; Kasane died of salt-throat the morning the Shimane news came, "dying of him for years before anyone ever killed him."
 4. "That is our own fault": pride, dictating the future, destroying what they couldn't control.
 5. Tetsugen: never liked the Tenrai; they fed Gimbzo destruction and grew fat on the war.
 6. Hayato: "This is true, and yet everything Shaka-Al said is true too." They can't pull their families free so easily; they need Muken to step up.
@@ -168,7 +170,7 @@ She looked at him for a long moment, and the white knot lay still at her side.
 | Their point | Answered by |
 |---|---|
 | Peace, protection or recognition? | Kiyome ("You have been honest with us…") and her oath answer |
-| Secrecy and the route | Hayato: the smugglers' passes |
+| Secrecy and the route | Hayato: the smugglers' passes and his own side tracks off them |
 | Sennen road: the truth, and what changed him | Tetsugen: he signed the provisioning orders; the Tenrai starved his own tenancies |
 | Are the roads closed, or closed only to the ignorant? | Hayato |
 | Hospitality vs commitment | Naiser's line |
@@ -186,15 +188,15 @@ She looked at him for a long moment, and the white knot lay still at her side.
 **The stop.** It ends on Kiyome asking Dougou to send someone to count the graves, or to come himself. That's a line aimed at another player's character, so the next move is theirs (R72-4).
 
 **Calls I made (agent rulings, open to overturn).**
-- **Kasane took the Yukari name at a Telling** in the valley at fourteen, which makes Muken kin to Naiser's house. This is my reading of the "Yukari" in her name, built on the Telling rule in the Yukari Inventory. Her "Tenrai" name is left unexplained for you to rule on.
+- **Kasane took the Yukari name at a Telling** in the valley at fourteen, which makes Muken kin to Naiser's house (settled 2026-10-20). She was born Byakuya; the "Tenrai" name is struck.
 - **Muken is sixteen**, from the October Muken lore ("16 at story start").
 - **Tetsugen's change of heart:** three winters ago the Tenrai withheld seed grain from the Akagane tenancies in the **Kurogane valley**, and forty-one tenants died, most of them children. His eldest's speech in council is what brought it on.
 - **Tetsugen hands over the Sennen muster and provisioning books.** If Kagenori gets a copy, it's enough to hang him.
-- **Hayato's uncle sits at Kagenori's left hand in council.**
-- **New place names:** the **Hiekawa cut** and the **Shiogane shoulder** (the old salt road), in Japonic register. They are the Tenrai's own smuggling passes.
+- **Hayato's uncle** will sit the indigo chair for the Amagiri at Kagenori's full council, and sides with Kagenori. Hayato sat it at the Verdict of Six.
+- **New place names:** the **Hiekawa cut** and the **Shiogane shoulder** (the old salt road), in Japonic register. The cut and the salt road are the Tenrai's own smuggling passes; the side tracks off the cut are the Amagiri's, unknown to the Tenrai, and one of them, a herders' shoulder and a deer track, brought the delegation to the enclave's north gate (*The White Knot*).
 - **Hayato's tea cup has a glaze crack.**
 
-**Physical details on return** (R70-50; these three have no cards, so each is originated): road dust on Kiyome's cuff, Tetsugen's scarred hands on his short sword, Hayato's wet rain-cape with juniper caught in the toggle.
+**Physical details on return** (R70-50; these three have no cards, so each is originated): road dust on Kiyome's cuff, Tetsugen's scarred hands on the meat knife at his belt (the only steel he brought through the gate, per *The White Knot*), Hayato's wet rain-cape with juniper caught in the toggle.
 
 **The metaphysics on the page.**
 - *Naevra's passive read:* a claim held true lies still on its thread, like a plumb line settling under its own weight. A lie has to be held taut against what the speaker knows, and it hums. She does no worked read, so no leave was needed.

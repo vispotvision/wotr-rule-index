@@ -28,7 +28,7 @@ Ulf smiled. It was a tired smile, and there was nothing amused in it at all.
 
 "No."
 
-"No." Ulf leaned back in the great chair. "I'll tell you what it is, then, so you don't walk into it with your eyes shut. Most of the men carrying spears for the north this winter are your age, lad. Sixteen. Seventeen. Some of them younger, and lying about it, and I let them lie because I've no one to send home in their place." He turned the iron ring on his beard-braid with his thumb. "Their fathers are dead. At Kessen. In the Moto cells. On the posts in the Tenrai yards. Their uncles went with Gimbzo in the first years, when the north still thought he meant to set things right, and most of those never came back either. There's a whole generation of men missing out of the north, Muken. Missing like a tooth. And the boys have come up into the gap."
+"No." Ulf leaned back in the great chair. "I'll tell you what it is, then, so you don't walk into it with your eyes shut. Most of the men carrying spears for the north this winter are your age, lad. Sixteen. Seventeen. Some of them younger, and lying about it, and I let them lie because I've no one to send home in their place." He turned the iron ring on his beard-braid with his thumb. "Their fathers are dead. At Kessen. In the Moto cells. On the posts in the Tenrai yards. Their uncles went with Gimbzo in the long middle of the war, when the north still thought he meant to set things right, and most of those never came back either. There's a whole generation of men missing out of the north, Muken. Missing like a tooth. And the boys have come up into the gap."
 
 He was quiet for a moment.
 
@@ -36,7 +36,7 @@ He was quiet for a moment.
 
 Muken shook his head.
 
-"I'm fifty-seven," Ulf said. "Wystan's sixty-one. Harald was too old to sit a horse when my father was a boy. Every man on the council of the north is past fifty-five, lad, and every one of us is a man who fought the last war and lost it, and buried his sons for it, and has nothing left in him now but the stubbornness to not lie down." He let a long breath out through his nose. "We can hold the north for a few years more. That's all. We can't win it. Not on our own. We're too old, and too tired, and the boys who'd die for us can see it on our faces every time we ride past."
+"I'm fifty-seven," Ulf said. "Wystan's sixty-one. Harald was too old to sit a horse when my father was a boy. Every man on the council of the north is past fifty-five, lad, and every one of us is a man who fought the war from its first winter to its fortieth, and buried his sons in it, and has nothing left in him now but the stubbornness to not lie down." He let a long breath out through his nose. "We can hold the north for a few years more. That's all. We can't win it. Not on our own. We're too old, and too tired, and the boys who'd die for us can see it on our faces every time we ride past."
 
 He leaned forward.
 
@@ -68,7 +68,7 @@ There was a walkway round the inside of the wall at the height of a man's should
 
 He kept the token in his coat. He took it out, sometimes, when he was sure nobody could see, and held it in his palm and waited for it to hum. It never did.
 
-*What's your oldest?* the steward had asked him, every time, at Orrel, when he was a child. And laughed. And every time, the answer had been: nothing. No contract. No history. No credit. No name the clerks would take. He had spent his whole life since believing that was the thing that was wrong with him. That he was nothing, born of nothing, the son of a cutting woman and a factor's younger son who had never once looked at him, and that everything he had done since, every season's pay, every contract honoured, every road walked to the end, was the slow work of making something out of that nothing by hand.
+*What's your oldest?* the steward had asked him, every time, at Orrel, when he was a child. And laughed. And every time, the answer had been: nothing. No contract. No history. No credit. No name the clerks would take. He had spent his whole life since believing that was the thing that was wrong with him. That he was nothing, born of nothing, the son of a cutting woman and of a father nobody had ever named to him, and that everything he had done since, every season's pay, every contract honoured, every road walked to the end, was the slow work of making something out of that nothing by hand.
 
 And now a Warlord of the north had handed him a contract, sealed under the Chain Light, and it had lain dead in his palm. And the Warlord had not looked surprised. He had looked as if something he had been told for years had finally turned out to be true.
 
@@ -156,11 +156,11 @@ He closed his hand over it.
 
 "Ulf knew it would do that," he said. "Before he gave it to me. He wasn't watching me. He was watching it."
 
-"I know. I've been listening to that thing for three days." Yukazuri did not take her eyes off his closed fist. "Every token in this post hums, Muken. The factor's. The clerks'. Every teamster with a supply contract on his belt. I can hear them all the way across the yard at night, like bees in a wall. And yours is the only one that's quiet." She drew a breath. "I thought at first it was broken. And then I thought about Mother."
+"I know. I've been listening to that thing for three days." Yukazuri did not take her eyes off his closed fist. "Every token in this post hums, Muken. The factor's. The clerks'. Every teamster with a supply contract on his belt. I can hear them all the way across the yard at night, like bees in a wall. And yours is the only one that's quiet." She drew a breath. "I thought at first it was broken. And then I thought it was Mother. Something in her, that came down to us."
 
 He went still.
 
-"She didn't have one either," Yukazuri said softly. "Never. Not in all those years at Orrel. And the steward used to say it was because she was nobody and had nothing to put in one. But I've been thinking about it, these three days, standing in the yard listening to all those tokens. I don't think she had nothing to put in one." She looked up at him. "I think she knew it wouldn't take."
+"It isn't Mother," Yukazuri said softly. "Mother had a token once, she told me, and it hummed fine. She told me near the end, when the fever had her and she wasn't always sure which of us she was talking to. A little bronze thing on a cord, from before the Cuttings, and it sang on her like a kettle on the hob, she said, and she dropped it down a dead shaft the week she came to Orrel, because a thing that hums can be heard." She looked up at him. "It's us. I've been standing in that yard three days listening to every token in this post, and I've worked out what they're listening for. A token wants a name to sit under, Muken. A house. That's what the steward was laughing at with his *oldest*, and what Draycott meant about the book. It goes looking for our name, and we haven't got one it can find."
 
 The mark. Their mother's mark, in burned stick on the salt wall of the gallery. *That's ours. That's our name. Don't show it to the clerks.* The Zettari surveyor at the Marrow, wiping it off his window with his sleeve, with his breath gone short and high under his collarbone.
 
@@ -170,7 +170,7 @@ Neither of them said it. Neither of them needed to.
 
 His sister looked at him for a long moment, with the white braid coming loose where he had ruffled it, and her small grave face pink with cold, and her eyes very dark.
 
-"I don't know," she said. "Something that doesn't hum." She put her hand on top of his closed fist, over the token, and held it there. "But I don't think Yusif came down four galleries every season for six years to teach a needle to nothing. And I don't think a Warlord of the north hauls his own chair down out of Hollenmark on the back of a cart to talk to nothing either." She paused. "We're something, Muken. Somebody knows what. And whoever they are, they're frightened enough of it to make sure we never found out."
+"I don't know," she said. "Somebody's, with the name scraped off." She put her hand on top of his closed fist, over the token, and held it there. "But I don't think Yusif came down four galleries every season until I was ten to teach a needle to nothing. And I don't think a Warlord of the north hauls his own chair down out of Hollenmark on the back of a cart to talk to nothing either." She paused. "We're something, Muken. Somebody knows what. And whoever they are, they're frightened enough of it to make sure we never found out."
 
 ---
 
@@ -221,6 +221,8 @@ He looked out once more over the stakes, at the river and the timber and the whi
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Yukazuri's token deduction is rebuilt: their mother had a token once and it hummed, so the silence is the children's, because a token wants a house name to sit under and they have none it can find. Muken's father is no longer a factor's younger son but unnamed, the uncles rode with Gimbzo in the war's long middle, and Ulf's council fought all forty years of it; Yusif's visits run every season of Yukazuri's first ten years and still stop when Muken is thirteen, his death unrevealed.
+
 **What this is.** Isaac's passage, expanded into Chapter Four. Every beat is kept, in his order. Muken asks whether men will follow someone so young. Ulf answers: most of the resistance is Muken's age, men who won't follow him were never of use to the cause, and the north needs someone young enough to tell the tales. The leaders are all in their late fifties and sixties. Muken is dismissed. He spends three days questioning whether this is his destiny. Yukazuri finds him, he ruffles her hair, and she asks, "What's wrong, big brother?" Past tense, third person, close on Muken. About 3,900 words.
 
 **One line read for meaning.** Your draft has both "most of those in the resistance are around your age" and "all of these men were in their late 50s, some even in their 60s." I squared them: the spearmen are boys of sixteen and seventeen, because their fathers died at Kessen, in the cells and on the posts, and the north is missing a generation "like a tooth." The leaders, the surviving Seven, are all past fifty-five. Your "Muken eventually dismissed him" I read as Ulf dismissing Muken: *Take three days.*
@@ -229,7 +231,7 @@ He looked out once more over the stakes, at the river and the timber and the whi
 - **Ages on the northern council.** Ulf is fifty-seven, Wystan Greymane sixty-one. **Old Harald** leads the Keld fires, too old to sit a horse when Ulf's father was a boy. The north rises for a story, not an old man's grudge.
 - **The three days.** The stockade walk at the north corner, the Lanternless drinking it off, a knife fight over bones that Yukazuri sews up. Muken holds the dead token when no one is looking. Yusif's stick and his *Again. You're thinking. Stop thinking.* Yusif looked at Kasane "the way you might look at something in a shrine," and at Muken "as if he were waiting for something."
 - **Yusif and the needle.** He gave five-year-old Yukazuri her first needle: *more men would live because of a needle than would ever die because of a sword.*
-- **Yukazuri reads the token.** She bends her ear to it the way she listens to a chest. *It's not broken. It's not dead. It's just not talking to you. As if it's looking straight at you and can't see anyone there.* She has heard every other token in the post hum for three days, like bees in a wall. She works out that their mother never had one because it wouldn't have taken. *Something that doesn't hum.* This is her receptive gift from her card, Still-Water and Anamnesis, working before either has a name.
+- **Yukazuri reads the token.** She bends her ear to it the way she listens to a chest. *It's not broken. It's not dead. It's just not talking to you. As if it's looking straight at you and can't see anyone there.* She has heard every other token in the post hum for three days, like bees in a wall. She works out that the silence is theirs and not their mother's: Kasane had a token once that hummed, and dropped it down a dead shaft when she came to Orrel, because a thing that hums can be heard; a token wants a house name to sit under, and the children have none it can find (settled 2026-10-20). *Somebody's, with the name scraped off.* This is her receptive gift from her card, Still-Water and Anamnesis, working before either has a name.
 - **The Veyrath ditch.** From her card: at twelve she went down the ditch on her knees through the men the lords had left lying there. That's her case for coming along.
 - **The close.** Rob waits at the foot of the ladder, and Muken says: *Go and tell your uncle that the Tokenless is coming.*
 

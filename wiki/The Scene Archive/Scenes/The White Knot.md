@@ -44,13 +44,13 @@ They stood there on either side of the threshold, in the cold, and neither of th
 
 "We haven't met," said Naevra, "since we were children."
 
-She heard her own voice say it and was surprised by how level it sounded. She was not level. There was a summer in her, behind her breastbone, that she had not thought about in twenty years, and it had come up all at once at the sight of that face, whole and bright and unbearable, the way a smell will bring a whole room back. A white house in the old city below the Moto hold. A garden of white gravel with glass hung in the trees, chiming in every wind. A long pale prayer room with the shutters open. Two girls of nine, one dark-browed Yukari and one white Byakuya, sent to each other for a season as a gesture between houses, the way houses did in those days when they still sent their children to one another as gestures, lying on their stomachs on the cool floor of that prayer room with their chins in their hands, swearing to be friends for ever. And the glass in the trees going on chiming over them, all that long white summer, the last summer before the war.
+She heard her own voice say it and was surprised by how level it sounded. She was not level. There was a summer in her, behind her breastbone, that she had not thought about in twenty years, and it had come up all at once at the sight of that face, whole and bright and unbearable, the way a smell will bring a whole room back. A white house in the old city below the Moto hold. A garden of white gravel with glass hung in the trees, chiming in every wind. A long pale prayer room with the shutters open. Two girls, one dark-browed Yukari and one white Byakuya, lying on their stomachs on the cool floor of that prayer room with their chins in their hands, swearing to be friends for ever, and the glass in the trees going on chiming over them all that long white summer. They had been nine, the last summer before Hiroe, when the houses still swapped their children for a season as if the war were weather and would pass.
 
 "No," said Kiyome. "We haven't."
 
 She looked down at the threshold between them, at Naevra's bare feet on the cedar boards.
 
-"The war came between us," she said. "Between our houses. Between everyone." She raised her eyes again. "I'm sorry, Naevra. I wasn't much of a friend to you, after. I never wrote. When your envoys came to my gate, I gave them tea and sent them home alive, and I told myself that was a kind of letter. It wasn't." Her voice did not change. "And now here we are again, after all of it, and it's not a summer and we're not nine. It's a political crisis on your doorstep with twenty riders behind it." She paused. "My presence here must trouble you. And your people. I know what it means for a Moto to come to this gate so soon after the war. I know what the Seikai did. I know what we did."
+"Hiroe came between us," she said. "Hiroe and everything after it. Between our houses. Between everyone." She raised her eyes again. "I'm sorry, Naevra. I wasn't much of a friend to you, after. I never wrote. When your envoys came to my gate, I gave them tea and sent them home alive, and I told myself that was a kind of letter. It wasn't." Her voice did not change. "And now here we are again, after all of it, and it's not a summer and we're not nine. It's a political crisis on your doorstep with twenty riders behind it." She paused. "My presence here must trouble you. And your people. I know what it means for a Moto to come to this gate so soon after the war. I know what the Seikai did. I know what we did."
 
 Naevra shook her head.
 
@@ -74,11 +74,11 @@ Behind her, the big man in the saddle shifted his weight, and his horse blew.
 
 The wind came down the gully out of the cedars and moved the plain grey cloaks of the riders and set the glass beads at Kiyome's temples chiming.
 
-"Kasane was the elder of us by twelve years," Kiyome said. "She was the one who was sworn. The red line before the white. When the time came for a Byakuya to stand at the Kōkan king's side in the old way, it was Kasane they sent." She looked away, past Naevra, into the enclave, at the dark roofs and the cedars. "And the king she was sent to stand beside was Gimbzo. And when Gimbzo turned on his own line, and put the Kōkan into the ground one by one for telling him no, Kasane was the one standing closest to him. She couldn't stop it. Nobody could." She was silent for a moment. "What she was to him, by the end, I don't know. I've never been able to make myself ask. But there were two children."
+"Kasane was the elder of us by twelve years," Kiyome said. "Kasane Byakuya. She heard the Telling in this valley when she was fourteen and took your house's name, and she answered to it till she died. And she was the one who was sworn. The red line before the white. When the time came for a Byakuya to stand at the Kōkan king's side in the old way, as his sworn guard, it was Kasane they sent." She looked away, past Naevra, into the enclave, at the dark roofs and the cedars. "And the king she was sent to stand beside was Gimbzo. And when Gimbzo turned on his own line, and put the Kōkan into the ground one by one for telling him no, Kasane was the one standing closest to him. She couldn't stop it. Nobody could." She was silent for a moment. "She loved him. I was a girl, and even I could see it. She loved him the whole way down, through all of it, and on the night of the cellars she walked up out of them on her own feet with his son inside her coat."
 
 Naevra did not speak.
 
-"From what I know," Kiyome said, "my sister died a little after the war ended. She'd been forced to survive. For years. In places I never found her." Her voice caught, very slightly, and she waited until it was steady again. "I looked. I want you to know that. I looked for her for years. And in the end it was a Stark who found her. Yusif Stark. He'd ridden with Gimbzo once, and turned his horse round, and he went looking for what Gimbzo had left behind." She drew a breath. "He married her. My sister married a Stark. And when she died, it was Yusif Stark who raised her children."
+"From what I know," Kiyome said, "she went into the salt. Halcrest, the Orrel cuttings, under no name the clerks would take, and she cut salt there sixteen years and raised the boy in the galleries. Gimbzo found her once more, when the boy was three. The girl is his." Her voice caught, very slightly, and she waited until it was steady again. "She died of the salt-throat not two months ago, on the morning the news of Shimane came down the galleries." She drew a breath. "I looked. I want you to know that. I looked for her for years and never found her, and when the council closed the book on the Kōkan I let myself believe she had gone into it with them, and the boy too. It was a Stark who kept her. Yusif Stark. He'd ridden with Gimbzo in the war, and he'd been a big brother to Kasane since she was a girl at the king's side, and after the cellars he turned his horse round and never rode with Gimbzo again. He went down into the salt once a season for years. He shielded her, and he half raised her children, and he never once gave them his name, because his name would have led the hunters straight to them." She looked down at her hands. "He's three years dead. The crows didn't say how."
 
 She looked back at Naevra.
 
@@ -140,7 +140,7 @@ Naiser had met him too, once, in the war: a great bald bull of a man in copper, 
 
 And Hayato Amagiri, slight and sharp and very pale, at the back.
 
-Naiser had known Hayato as a boy. Before the war, at one of the great gatherings of houses that nobody held any more, a thin quick child with ink on his fingers who had spent the whole of a three-day feast drawing maps of the hall's corridors on the backs of the menus. He had grown into his face. He had not grown out of his fingers.
+Naiser had known Hayato as a boy. Before Hiroe, at one of the great gatherings of houses that nobody held any more, a thin quick child with ink on his fingers who had spent the whole of a three-day feast drawing maps of the hall's corridors on the backs of the menus. He had grown into his face. He had not grown out of his fingers.
 
 "It's been a long time," Naiser said. "Hayato Amagiri."
 
@@ -178,11 +178,12 @@ She stood beside Tetsugen Akagane, with the white knot bound tight at her hip, a
 
 **Notes**
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** "The last summer before the war" is now the last summer before Hiroe, twenty years back, with Kiyome and Naevra about thirty; Kiyome's account now has Kasane as a Byakuya who took the Yukari name, Gimbzo's sworn guard who loved him, dead of salt-throat the morning of the Shimane news, and Yusif Stark as her big brother and the children's shield, never her husband. Naiser knew Hayato "before Hiroe", not before the war.
 - **Shaka-Al and Dougou are never written.** They sit in the places of honour on the east side, as Naiser seated them, and get no lines, actions, thoughts or reactions. Tetsugen's deep bow and Kiyome's address are aimed at them, and the post stops on Kiyome waiting for Shaka-Al.
 - **Your beats, kept in order.**
   - The Moto arrive in a day and a half, with Kiyome at the front to speak for the terms.
   - Naevra and Kiyome, childhood best friends: "We haven't met since we were children," Kiyome's apology for being a poor friend, "My presence here must trouble you," and Naevra's "You don't trouble me... I know how delicate."
-  - Naevra's question: is Muken the son of Gimbzo and Kiyome's elder sister. Kiyome confirms it, names the daughter Yukazuri, says her sister died a little after the war and had been forced to survive, and that she married Yusif Stark, who raised them.
+  - Naevra's question: is Muken the son of Gimbzo and Kiyome's elder sister. Kiyome confirms it, names the daughter Yukazuri, tells what she has pieced together of Kasane's life in the salt and her death on the morning of the Shimane news, and that Yusif Stark, a brother to Kasane and never her husband, shielded and half raised the children.
   - Hayato starts to speak and Kiyome stops him with a look. His face says they can't fight another war; hers says she came for her nephew's protection and alliances.
   - "Guide us then." The no-weapons reminder, Kiyome's katana, "You've no reason to worry."
   - Naiser marks how the two lords have grown, especially the Fox. "It's been a long time, Hayato Amagiri," and Hayato's reply.
@@ -191,16 +192,11 @@ She stood beside Tetsugen Akagane, with the white knot bound tight at her hip, a
 - **Two speakers read for meaning.**
   - The closing speech ("I am glad the Zettari are still here...") I gave to **Kiyome**, since she speaks for the terms. Tetsugen gives the bow.
   - **The Fox** I took as Tetsugen, because the Akagane emblem is the Fox in canon, as in the reading-stone scene.
-- **The big retcon, and what it breaks.** Muken and Yukazuri are Gimbzo's children by **Kiyome's elder sister**, a Byakuya, so Gimbzo himself was the Kōkan king who purged his own line. I kept the name **Kasane** for the sister, since she's the same mother. This contradicts *The Uncounted* Chapters One to Five in three places:
-  - **Kasane's line.** Chapter One has her as a Kōkan woman with no name the clerks would take, cutting salt for Orrel in Halcrest.
-  - **Yusif.** Chapters Three and Four have him visiting the cuttings once a season, not married to her.
-  - **Kasane's death.** Kiyome says she died "a little after the war," and Chapter One has her dying of salt-throat when the children were small.
-  - The Chapter Five tent scene and Shigure's cellar memory also have Gimbzo *taking* her.
-  - I kept Kiyome's account explicitly secondhand ("From what I know," pieced together from Stark crows and Shigure), so either version can be the truth. Tell me which and I'll bring the Muken chapters into line: Kasane as Byakuya, Yusif as stepfather, and her dying when the children were young.
+- **Settled (new-lore questionnaire).** Muken and Yukazuri are both Gimbzo Kōkan Moto's children by **Kasane Byakuya**, Kiyome's elder sister by twelve years, who took the Yukari name at her Telling at fourteen. She was King Gimbzo's sworn guard and loved him; she walked out of the cellars on her own feet with the infant boy and cut salt at the Halcrest Cuttings under no name the clerks would take. Gimbzo found her once more when Muken was three, and Yukazuri is his. She died of salt-throat on the morning the news of Shimane came down the galleries. **Yusif Stark** was a big brother to her, never her husband: he shielded and half raised the children, coming once a season, never gave them his name, and was killed about three years ago. Kiyome never found her sister, believed her dead with the closed book, and learned the rest only in the last ten days, from Stark crows and Shigure; "From what I know" stays as her framing.
 - **Originated here (yours to keep or strike):**
-  - Hayato's hidden track over the hill, which brought them in a day and a half by the north gate.
-  - The last summer before the war: two nine-year-old girls swapped between houses, the glass chiming in the white garden.
-  - Kasane, twelve years Kiyome's elder, sworn to stand at the Kōkan king's side, and the king was Gimbzo.
+  - Hayato's hidden track: off the Hiekawa cut by a side path and down a deer track over the hill, which brought them in a day and a half by the north gate (see *The Truth of Muken*).
+  - The last summer before Hiroe, twenty years back: two nine-year-old girls swapped between houses, the glass chiming in the white garden.
+  - Kasane, twelve years Kiyome's elder, sworn to stand at the Kōkan king's side as his guard, and the king was Gimbzo.
   - **The white knot**: Kiyome binds her hilt to its scabbard with white cord, a Byakuya peace-keeping custom.
   - Byakuya villages that have buried a third of their children since spring.
 - **Tense.** Past, to match the thread.

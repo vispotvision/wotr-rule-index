@@ -78,7 +78,7 @@ She was staring at his left eye.
 
 Her face had gone white again, paper-white, to the lips.
 
-"Seven lines and one blood," she said. "Oh, no. Not *that.* Not the eye. The eye went into the dust with the rest of them." Her voice cracked on it. "He can't have. He can't have *given* you that. That isn't Tenrai blood and it isn't Gimbzo's. That eye is *Kōkan.*"
+"Seven lines and one blood," she said. "Oh, no. Not *that.* Not the eye. The eye went into the dust with the rest of them." She was staring at it as if it might go out if she looked away. "Any Moto brat can see where a wall wants to fall. That's Shingan. The gold in it isn't." Her voice cracked on it. "I haven't seen gold in an eye since the cellars. I stood beside Gimbzo twenty years and never once read the red line in his eyes, in a fight or out of one, even the night he went down into the cellars after it. That eye is *Kōkan.* He thought he'd burned the last of it."
 
 He did not know what any of the words meant. He did not care. He was looking at the step.
 
@@ -132,7 +132,7 @@ Shigure Tenrai Moto looked down at Muken for one breath more.
 
 She could have killed him. He knew it. She knew he knew it. Her sword was a hand's width from her foot, and she had one good arm, and he could not lift his own. One stroke. And the face that had come down out of Gimbzo, and the eye that had come up out of the dust, would have gone back into the snow of Kharven's Foot where nobody would ever see them again.
 
-She looked at him, and the rings in her eyes went quite still, and something passed across her long white face that he would not understand for years.
+She looked at him, at his face more than at the eye, and the rings in her eyes went quite still, and something passed across her long white face that he would not understand for years.
 
 Then she bent, with a grunt of pain, and picked up her sword left-handed by the blade, careless of her open palm, and straightened.
 
@@ -213,6 +213,8 @@ Then she tied the pad back on, and took a curved needle out of the kit on her kn
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Shigure's line on the eye is rewritten: the Shingan is any Moto's, the gold in it is the Kōkan sign she has not seen since the cellars, and she never read the red line in Gimbzo's eyes in twenty years at his side; he thought he had burned the last of it. Her spared stroke now rests on his face, the face she loved, and the "he would not understand for years" beat stands.
+
 **What this is.** Chapter Six: the duel at the foot of the keep stair, carried through to the fort's fall and the count. Past tense, third person, close on Muken. About 4,000 words.
 
 **How the fight decides (Stage gap, the read, what's spent, the ground):**
@@ -221,7 +223,7 @@ Then she tied the pad back on, and took a curved needle out of the kit on her kn
 - **The read, his side.** He sees her tell twice before he uses it: the rings in her eyes stop and go bright just before each cut, and on him they flicker. Then the Shingan opens, the first ignition from his card, with Fractura's stress-reading. He sees the loads in everything, and the frost-crack in the old bottom step under her planted left foot, the same flaw that took the wall.
 - **What's spent.** He pours the last of his reinforcement into one pommel strike on the step, not on her. The step's face splits, she goes down on one knee, and his falling cut drives her own blade into her shoulder above the collarbone, to the bone.
 - **The way out.** She lets go of her sword, grabs his blade bare-handed and pulls it past her, then knees him in the gut. He goes down empty, and she has the kill.
-- **Why she doesn't take it.** *Kagenori will want you... I'll be the one who tells them. Remember who told them.* She escapes through the postern. That's a live thread: the Moto will now know the Kōkan eye has come back. She names it from the opponent's chair, *Shingan* and *That eye is Kōkan*. That's the opponent-voice explanation, contempt as instruction.
+- **Why she doesn't take it.** She loved Gimbzo and sees him in the boy's face; she still reports to Kagenori. *Kagenori will want you... I'll be the one who tells them. Remember who told them.* She escapes through the postern. That's a live thread: the Moto will now know the Kōkan eye has come back. She names it from the opponent's chair: *Shingan*, which any Moto may carry, and the gold in it, which is the Kōkan sign and the start of the Kamigan (*That eye is Kōkan. He thought he'd burned the last of it*). That's the opponent-voice explanation, contempt as instruction.
 
 **The cost (for the Ledger):**
 - **Muken.** Cut from the left armpit across the ribs, mostly turned by the mail. Blunt trauma to the gut from the knee. Cheek stitches torn open again, left arm strapped, total reinforcement exhaustion. A hairline gold crack in the left iris running out from the amber fleck, which fades over a week but never fully goes.

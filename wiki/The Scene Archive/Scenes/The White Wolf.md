@@ -42,11 +42,11 @@ The stream went on below them. Somewhere in the cedars a crow called and was ans
 
 Naiser was quiet for a long moment.
 
-"The Kōkan were wiped out," he said. "By Gimbzo. By his own hand, most of them. That's what the house has always believed and what every report we ever had confirmed. They were the oldest line the Moto had, and the proudest, and most of them would not follow him. They saw where his greed was taking the house and they said so, in the hall, to his face." His voice was very level. "So he had them killed. Every one he could find. The ones who spoke against him first, and then their children, and then their cousins, and then anyone who'd ever married into them. The Kurenai closed the register on what was left." He looked at the folded letters by his knee. "And you're telling me there's a Kōkan still walking the world. After all of that. After everything they lost."
+"The Kōkan were wiped out," he said. "By Gimbzo. By his own hand, most of them, and they were his own blood. That's what the house has always believed and what every report we ever had confirmed. They were the oldest line the Moto had, and the proudest, and most of them would not follow him, king of their own line or not. They saw where his greed was taking the house and they said so, in the hall, to his face." His voice was very level. "So he had them killed. Every one he could find. The ones who spoke against him first, and then their children, and then their cousins, and then anyone who'd ever married into them. The Kurenai closed the register on what was left." He looked at the folded letters by his knee. "Gimbzo was the last of them, and Gimbzo is a month dead at Shimane. And you're telling me there's a Kōkan still walking the world. After all of that. After everything they lost."
 
 Naevra nodded.
 
-"Not only that," she said. "The council of the Moto has split." She sat back on her heels. "Kagenori called the seven lines to the Hall of Verdicts the day Shigure rode in. Four chairs were filled. Three weren't. And the three who wouldn't come are on the road." She tilted her head toward the west. "Coming here. As we speak."
+"Not only that," she said. "The council of the Moto has split." She sat back on her heels. "Kagenori called the seven lines to the Hall of Verdicts the day Shigure rode in. Three chairs were filled. Three weren't, and the red one stood under its dust the way it has for forty years. And the three who wouldn't come are on the road." She tilted her head toward the west. "Coming here. As we speak."
 
 Naiser turned his head and looked at her for the first time.
 
@@ -76,7 +76,7 @@ Naevra stood up. She put her hands behind her back, the way she did when she was
 
 He went still.
 
-"She's leading them," Naevra said. "It's her party, by every account. She refused Kagenori's council outright. Twice. She hasn't been to the Hall of Verdicts since the night they took Torvald Stark's head, and the reader at Ironlink says she stood in the hall that night and refused to sign for it, alone, against five." Her voice softened, very slightly. "You know her name. You've heard it from me before. Kiyome has always been the one of them willing to make peace, no matter what came before. Through the whole of the war. When nobody else in the seven lines would so much as receive our envoys, Kiyome Byakuya received them, and gave them tea, and sent them home alive."
+"She's leading them," Naevra said. "It's her party, by every account. She refused Kagenori's council outright. Twice. She hasn't been to the Hall of Verdicts since the night they took Torvald Stark's head, and the reader at Ironlink says she stood in the hall that night and refused to sign for it, alone, against five." Her voice softened, very slightly. "You know her name. You've heard it from me before. Kiyome has always been the one of them willing to make peace, no matter what came before. Ever since she's had a voice in that hall. When nobody else in the seven lines would so much as receive our envoys, Kiyome Byakuya received them, and gave them tea, and sent them home alive."
 
 "That's one Moto."
 
@@ -100,7 +100,7 @@ The wind came up the valley off the stream, cold, smelling of cedar and wet ston
 
 He picked up the katana from his knees and laid it on the stone beside him, very carefully, with its edge toward himself.
 
-"Kagenori believes the Tenrai are the true heirs of the north," he said. "He always has. It's the oldest grievance in that house. They've wanted the throne since before there was a throne to want. For a thousand years the Kōkan sat in the red chair and the Tenrai sat beside it in gold, waiting, and when Gimbzo killed the Kōkan, the Tenrai thought the waiting was over at last." He looked out over the valley. "And now a Kōkan boy has walked out of the snow and taken their fortress on the Kessen road. Kagenori will burn half the Inner World before he lets that boy succeed him. He'll do anything. He'll buy the north out from under the Starks. He'll set his own lines on each other. He'll come for Kiyome and her people and he'll come for anyone who gives them a roof." He paused. "Including us."
+"Kagenori believes the Tenrai are the true heirs of the north," he said. "He always has. It's the oldest grievance in that house. They've wanted the throne since before there was a throne to want. For a thousand years the Kōkan sat in the red chair and the Tenrai sat beside it in gold, waiting. Then Gimbzo left the chair to the dust and ruled from the saddle, and killed his own line round him one by one, and the Tenrai thought the waiting would end with him." He looked out over the valley. "And now a Kōkan boy has walked out of the snow and taken their fortress on the Kessen road. Kagenori will burn half the Inner World before he lets that boy succeed him. He'll do anything. He'll buy the north out from under the Starks. He'll set his own lines on each other. He'll come for Kiyome and her people and he'll come for anyone who gives them a roof." He paused. "Including us."
 
 "Including us," Naevra agreed.
 
@@ -152,7 +152,7 @@ Naiser did not say anything for a long time.
 
 Then, slowly, he began to smile. It was not much of a smile. But it was the first she had seen on his face since the night of the funerals, and it reached his eyes.
 
-"And the Kōkan," he said, "were always the Lion. The red chair. The lion on the crest." He shook his head. "But the boy wasn't raised among lions. He was raised in the snow, by Starks, among wolves. They'll have the wolf on his banner before the year's out, whether he wants it or not." The smile widened, very slightly. "And his hair's gone white, the Ironlink reader says. At sixteen."
+"And the Kōkan," he said, "were always the Lion. The red chair. The lion on the crest." He shook his head. "But the boy wasn't raised among lions. He came up out of the salt and the snow, and he rides with Starks, among wolves. They'll have the wolf on his banner before the year's out, whether he wants it or not." The smile widened, very slightly. "And his hair's gone white, the Ironlink reader says. At sixteen."
 
 He looked back out over the valley toward the north, past the frost-pale fields and the cedars and the far blue line of the mountains, toward a broken wall on a ridge he had never seen.
 
@@ -191,23 +191,25 @@ He went on down the steps toward the south gate, in the black coat, with his nap
 
 ## Author Notes
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** Gimbzo is now Kōkan himself, the last of them and a purger of his own blood, who left the red chair to forty years of dust and ruled from the saddle; Kiyome's peace-making runs from when she had a voice in the hall (she is about thirty) rather than "the whole of the war"; Naiser no longer says the boy was raised by Starks, only that he rides with them; the council slip is fixed to three chairs filled, three empty and the red one under its dust.
+
 **What this is.** Isaac's scene, every line kept and in his order, expanded into a full movement of about 3,100 words. It replaces Movement I of Chapter Seven, where Naiser read the crows alone and went to catch Shaka-Al before he left. Here Shaka-Al and Dougou have ridden out to the villages and are coming back, as your text has it. Past tense, third person, close on Naiser with Naevra's thread-read of him.
 
 **Your lines, cleaned and kept in order.**
 - Naevra: young men taking the Foot; a Kōkan alive who beat Captain Shigure Tenrai Moto.
-- Naiser: "It seems the Stark answered." The Kōkan wiped out by Gimbzo, most of them having opposed his greed.
+- Naiser: "It seems the Stark answered." The Kōkan wiped out by Gimbzo, his own line, most of them having opposed his greed.
 - Naevra: the Moto council split, some heading here now.
 - Naiser: "Is it too late to stop them?"
 - Naevra, hands behind her back: Kiyome is among them, always the one for peace; her worry about the backlash; Kiyome guiding her house toward peace; the rumours of Hayato and Tetsugen.
 - Naiser: Kagenori sees the Tenrai as the true heirs of the North and will do anything to stop the Kōkan; "these two don't even know who they are"; Muken the Tokenless, raised among the Lanternless where survival is everything, perhaps the one who'll guide the North and unify the Moto. The Ages of the Fox and the Owl, the Owl's wisdom and the Fox making the people happier than his own family. "Perhaps it is time for the Rise of the White Wolf."
 - Naevra's grin, Shaka-Al and Dougou returning any moment, and Naiser's resolve to be honest with the visitors about the Moto coming and about Muken.
 
-**Canon it ties to (from the wiki's Moto Bloodline page).** The line emblems are canon. **Byakuya**: *The Owl, The White Fox, The Heron, The Stoat*. **Akagane**: *The Fox, The Red Wolf, The Viper, The Red Hawk*. **Kōkan**: *The Lion, The Dragon, The Raven King, The Crowned Serpent*. So the Age of the Owl was a Byakuya age and the Age of the Fox an Akagane age. Naevra points out that the Owl and the Fox, Kiyome and Tetsugen, are riding to the gate together. The White Wolf is no Moto emblem, which is the point: a Kōkan raised among the Starks' and Greymanes' wolves, with hair gone white at sixteen.
+**Canon it ties to (from the wiki's Moto Bloodline page).** The line emblems are canon. **Byakuya**: *The Owl, The White Fox, The Heron, The Stoat*. **Akagane**: *The Fox, The Red Wolf, The Viper, The Red Hawk*. **Kōkan**: *The Lion, The Dragon, The Raven King, The Crowned Serpent*. So the Age of the Owl was a Byakuya age and the Age of the Fox an Akagane age. Naevra points out that the Owl and the Fox, Kiyome and Tetsugen, are riding to the gate together. The White Wolf is no Moto emblem, which is the point: a Kōkan come up among the Starks' and Greymanes' wolves, with hair gone white at sixteen. Settled 2026-10-20: the figure is Muken, the White Wolf, and his banner becomes a white wolf.
 
 **Originated here (yours to keep or strike):**
 - The **reading-stone above the gate**, where their father held the midwinter Thread-Reading.
 - **Naevra's six crows**: from Sum-gol, the Marrow, the Yukari reader kept in the Ironlink salt market, and the north. The name *Muken of the Lanternless* comes through the Marrow traders and the Ironlink reader.
-- **Kiyome's record.** Through the war she received Yukari envoys, gave them tea and sent them home alive, which is why Naevra trusts her.
+- **Kiyome's record.** Since she has had a voice in the Byakuya hall she has received Yukari envoys, gave them tea and sent them home alive, which is why Naevra trusts her.
 - **The Moto party**: three days out on the western road, twenty men, no banners.
 - **The Owl and the Fox, filled out.** The Owl could see in an afternoon what each side of a three-hundred-year quarrel needed in order to stop. The Fox made provinces happy and had nothing left for his own table, and that broke him.
 - **Naiser's vision gets a shape.** A figure in the snow, something white about it, at the head of northerners and Moto and strangers under one banner.

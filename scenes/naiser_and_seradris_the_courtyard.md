@@ -58,7 +58,7 @@ Naevra held his eyes.
 
 "You don't need to act like I wouldn't do it," she said.
 
-He looked at her. A year. There was a year between them, no more; she had come into the world so close behind him that for most of their childhood strangers had taken them for twins, his dark beside her pale. They had learned their letters at the same table and their first workings in the same yard. She had held his hand to her heart when he woke from the dreams. And she was standing in front of him now with her chin up and her red-rimmed eyes perfectly steady, offering herself to the house that had spent four years trying to break theirs, as calmly as she would have offered to copy out a page in the archive.
+He looked at her. A year. There was a year between them, no more; she had come into the world so close behind him that for most of their childhood strangers had taken them for twins, his dark beside her pale. They had learned their letters at the same table and their first workings in the same yard. She had held his hand to her heart when he woke from the dreams. And she was standing in front of him now with her chin up and her red-rimmed eyes perfectly steady, offering herself to the house that had spent the war's last four years trying to break theirs, as calmly as she would have offered to copy out a page in the archive.
 
 "That doesn't make it right," he said.
 
@@ -98,10 +98,11 @@ It was a request, and it was more than one. He asked it the way his father used 
 
 **Notes**
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** The Zettari's four years against the Yukari are now marked as the forty-year war's last four, and the notes are brought to the settled facts: Naevra a year younger, Seradris the youngest sister, Senri a brother.
 - **Seradris is never written.** She gets no action, no line, no thought and no reaction. Her post's landing, scorch and question are answered from Naiser's side only: what he sees, the heat on his skin, the arena he heard go quiet. The post stops on his request to her, so her answer is her player's.
-- **Senri appears only in Naiser's memory**, as you wrote him: the one who told him to work with other people. I don't know whose character Senri is, so he never acts on the page.
+- **Senri appears only in Naiser's memory**, as you wrote him: the one who told him to work with other people. Senri is a brother, and Senri's Gate is his seat (settled 2026-10-20). Whose character he is stays unknown, so he never acts on the page.
 - **The hood.** Naiser cut his hair in the earlier piece, and the Yukari custom means a bare nape announces a lost battle. He pulls the hood of the founder's coat up as she lands so she can't see it, which is your "he never let her see him in that state" done physically. If the haircut doesn't stand, drop that paragraph.
 - **One line of yours I read for meaning.** "We will be alright. Seradris was simply have a lot of building" became Naiser's own thought: *She'll be all right. She is still building. There is so much of her still to come.*
-- **Naevra's age.** You have her a year younger than Naiser. In the funeral piece I made her the elder, so that piece needs one line changed. I'll fix it if you want it consistent.
+- **Naevra's age.** A year younger than Naiser, about thirty (settled 2026-10-20). The Bearer of Weight's "elder" line is rewritten to match.
 - **Tense.** Past, to match your draft and Seradris's post. The table rule for RP turns is present tense; say if you want it switched.
 - **Invented and logged:** the gate runner, the rider under a white cloth, the Zettari boundary seal (a quartered square in grey wax), the crow-loft on the east wall, and Naiser and Naevra leaving together for a few days.

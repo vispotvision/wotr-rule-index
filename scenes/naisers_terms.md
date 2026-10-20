@@ -28,7 +28,7 @@ He let the question stand for a breath. He did not wait for an answer to it.
 
 Her voice was very low and very even, the archive voice, and it was the first thing she had said since the Zettari came in.
 
-"I keep the reports for the valley," she said. "Births and deaths. All of them, in the house's register, the way we always have." She folded her hands more tightly in her lap. "In the year before the war, a child born in our valley drew its first breath inside the time it took the midwife to clear its mouth. Every one. Since the split, the midwives have been writing down how long they wait." She did not look away from the Sovereign. "The longest so far was the length of a full prayer, said slowly. The child lived. Some of them haven't. And at the other end the old are dying slow, and some of them don't go when they should, and their families sit with them days past the hour, holding hands that have already gone cold." She drew a breath. "The tide goes out and comes in wrong. That's what my brother means. It's in our ledgers, in ink, if you'd like to see them."
+"I keep the reports for the valley," she said. "Births and deaths. All of them, in the house's register, the way we always have." She folded her hands more tightly in her lap. "In the years before the split, a child born in our valley drew its first breath inside the time it took the midwife to clear its mouth. Every one. Since the split, the midwives have been writing down how long they wait." She did not look away from the Sovereign. "The longest so far was the length of a full prayer, said slowly. The child lived. Some of them haven't. And at the other end the old are dying slow, and some of them don't go when they should, and their families sit with them days past the hour, holding hands that have already gone cold." She drew a breath. "The tide goes out and comes in wrong. That's what my brother means. It's in our ledgers, in ink, if you'd like to see them."
 
 Naiser let that sit in the room.
 
@@ -36,7 +36,7 @@ Naiser let that sit in the room.
 
 He paused. When he spoke again his voice had changed, not much, a little lower, a little rougher at the edges, like a blade that has been honed too far.
 
-"If it were not for my father," he said, "there would be no Soul Plane left to be fractured. He went into the seam when the Seikai first forced it, in the first winter of the war. He went alone, because a door like that will only take one. And he held it." He did not look at Naevra. He could feel her not looking at him. "He held it for four years. He never came back. Everything that still lives in the spirit side of this world, and everything that will be born out of it, is living on the time he bought."
+"If it were not for my father," he said, "there would be no Soul Plane left to be fractured. He went into the seam when the Seikai first forced it, four winters ago, when the war turned to its worst. He went alone, because a door like that will only take one. And he held it." He did not look at Naevra. He could feel her not looking at him. "He held it for four years. He never came back. Everything that still lives in the spirit side of this world, and everything that will be born out of it, is living on the time he bought."
 
 The stream ran on under the boards. Somewhere far back in the hall the maid set down a pot, very softly.
 
@@ -88,11 +88,13 @@ Naiser said nothing. He did not need to. He sat with his hands on his knees and 
 
 **Notes**
 
+- **Retcon 2026-10-20 (new-lore questionnaire).** The war is forty years long: the father now goes into the seam four winters ago, at the start of its last and worst phase, and holds it the four years as before; Naevra's midwives' baseline is "the years before the split", not "the year before the war". The Gimbzo note is corrected.
 - **Shaka-Al and Dougou are never written.** They get no lines, actions, reactions or thoughts. Naiser's speech opens on Shaka-Al's closing question, what each family hopes to preserve, and the post stops on Naiser waiting for his answer. The only read on Shaka-Al is Naiser's thread-sight finding he meant *cooperation*, which is your "understanding the man was trying to be genuine." I also left out whether they sit; Naiser invites them to and drinks first.
 - **Every point you gave is in, in your order.** Pity for the families the Moto talked into ruin. The slow springs and thin harvests. The fractured Soul Plane, the twisted tides of life and death, the drifting spirits. The corrupted Wellsprings. The father's sacrifice. What the Yukari want: balance, and the weight of invoking. The Seikai as the Yukari's own failure. Then the conditions: no Yukari knowledge for war; no propaganda like the Mahuo, whom the Moto let the Yukari slaughter; glad Gimbzo is dead, but he was one piece. Then the Tenrai and Moto lines starving their people, his interest in the Starks, "you are a piece of that puzzle." Last, no expansion: the Mahuo royal line restored in Sum-gol, and the final condition, no touching the spirit world without Yukari counsel.
 - **Naevra speaks three times:**
   - the midwives' register, newborns slow to draw breath and the dying slow to go, as proof of the twisted tide;
   - three Stark valleys that stopped paying the Tenrai tithe, and the collectors walked home after the Starks kept their horses;
   - the marriage, said so no one has to wonder: it's decided after the terms, never instead of them, and "Nobody at this table is a payment. Not on our side, and not on yours." That gives Dougou's player an opening without writing him.
-- **Invented:** the father's four years holding the seam (it carries on from the funeral piece), the midwives' measure, the tainted southern springs, and the three tithe-refusing valleys. Gimbzo has no wiki page, so I gave him nothing beyond your line.
+- **Invented:** the father's four years holding the seam, the war's last four (it carries on from the funeral piece), the midwives' measure, the tainted southern springs (settled 2026-10-20: a Seikai remnant still feeds the poison), and the three tithe-refusing valleys. Gimbzo's old First-Eon card is being rewritten to the new lore; I gave him nothing here beyond your line.
+- **The Mahuo.** Naiser's account, the Yukari slaughtering them while the Moto stood back, is his house's telling. Settled 2026-10-20: all three houses destroyed the Mahuo, each blaming another.
 - **Tense.** Past, to match the thread.

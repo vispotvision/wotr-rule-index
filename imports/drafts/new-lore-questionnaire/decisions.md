@@ -21,7 +21,7 @@ each answer changes.
 - **Kasane Byakuya** was Kiyome's elder sister and took the Yukari name at her Telling. She was King Gimbzo's sworn guard and loved him. She walked out of the cellar with the boy. "He took her" is the north's version.
 - **Yukazuri is Gimbzo's daughter.** He found Kasane once more when Muken was three.
 - **Kasane died of salt-throat on the day word of Shimane came down the galleries.** The grief is a month old when Chapter One opens.
-- **Yusif Stark** was a big brother to Kasane, on the Ned Stark and Jon Snow model. He raised and shielded the children and never married her (retcon the marriage). He is dead: killed about three years ago by those hunting what he hid, and he never talked. Ulf knows how.
+- **Yusif Stark** was a big brother to Kasane, on the Ned Stark and Jon Snow model. He raised and shielded the children and never married her (retcon the marriage). He is Ulf's young uncle, about forty-five, a dozen years younger than Ulf (follow-up answer). He is dead: killed about three years ago by those hunting what he hid, and he never talked. Ulf knows how.
 - **Tokenless.** A seal binds to a house name, and they had none, or didn't know theirs. Kasane's own token hummed. When Muken takes his name, the Kōkan emblem goes onto every seal he holds and he becomes the active leader of the Kōkan.
 - **The eye.** What woke at the Foot is the common Moto Shingan. The gold crack is the Kōkan sign, the start of the Kamigan.
 - **Who knew.** Shigure, Sumie and a few Tenrai knew a child escaped the cellar. Tetsugen guessed. Kiyome and the other lines did not know.

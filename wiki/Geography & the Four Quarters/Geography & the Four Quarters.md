@@ -14,6 +14,14 @@ tags: ["Geography", "Trade & Economy", "Materials"]
 
 ---
 
+## The World Atlas
+
+![[Assets/Maps/world-atlas.webp]]
+
+*The four quarters on one sheet: the Inner World on its northern shield, the Old World of Kushara to the west, the New World's eastern rise and the Chartered Arc beyond it, the Outer World's southern pan, and the Kuntur Reach in the Central Expanse between them.*
+
+---
+
 ## The Four Quarters
 
 ![[Assets/Diagrams/four-quarters.svg]]

@@ -1,0 +1,59 @@
+{
+  "b1_frame": {
+    "F1_cards": "Scenes govern, rewrite cards (Recommended)",
+    "F2_wars": "Other: One war. We decided the war was 40 years long, and these events take place right after the war ended instead of 23 years after it, so change that.",
+    "F3_kokan_parent": "Gimbzo, the later scenes (Recommended)",
+    "F4_kasane": "Sworn guard who loved him (Recommended)"
+  },
+  "b2_family": {
+    "K0_four_years": "The war's last, worst phase (Recommended): forty years; last four = Seikai turn, Soul Plane breaks, Ashura wounded, Shimane; purge/cellar night ~yr 20-24, Muken born ~16 years back",
+    "K0b_ages": "About 30; the date moves (Recommended): Kiyome and Naevra ~30; 'before the war' becomes 'before Hiroe' (twenty years back, inside the war)",
+    "K2_yukazuri_father": "Gimbzo's, by a later visit (Recommended): he found Kasane once more when Muken was three; Yusif raised her as his own",
+    "K3_tokenless": "Isaac (correction, overrides the Kōkan-blood pick): the thing that makes them tokenless is the fact they have no house. Clarified: they didn't have a last name before this, or didn't know about it."
+  },
+  "b3_name_family": {
+    "T1_name_and_seals": "Other: The Kōkan emblem is put on every seal that he has now. He becomes the active leader of the Kōkan.",
+    "K1_kasane_name": "Make her Byakuya (Recommended): Kasane Byakuya, who took the Yukari name at her Telling",
+    "K4_kasane_death": "Salt-throat, the day he fell (Recommended)",
+    "N1_yusif": "Other: Similar to how Jon Snow was raised by Ned Stark; Yusif was essentially a big brother to Kasane. Retcon their marriage."
+  },
+  "b4_north_moto": {
+    "N2_yusif_now": "Dead, keeping the secret (Recommended): killed ~3 years ago by those hunting what he hid; Ulf knows how",
+    "N3_starks": "Other: Torvald was his brother and the leader; Torvald named his brother Ulf as leader before that event (his execution).",
+    "N4_name_clash": "Rename the two minor (Recommended): the kneeling rider and the Lambert get new names",
+    "M1_red_chair": "He ruled from the field (Recommended): chair empty since the war began (forty years), Gimbzo ruled from the saddle"
+  },
+  "b5_moto_yukari": {
+    "M2_kharven": "Old name; he takes it (Recommended): Kharven = old name of the high north; Seat and Foot already stand; Muken's realm takes the name from the Seat",
+    "M3_eye": "Shingan waking toward Kamigan (Recommended): common Moto Shingan; the gold crack is the Kōkan sign, the start of the Kamigan",
+    "M4_landless": "Rewrite the wiki (Recommended)",
+    "Y1_naevra": "A year younger (Recommended): Bearer of Weight line rewritten"
+  },
+  "b6_yukari_zettari": {
+    "Y2_naiser_want": "The Seikai in him (Recommended): the same hunger that made the Seikai; Bearer of Weight = carrying it without using it",
+    "Y3_zettari_war": "Yes, in the last four (Recommended): Zettari struck the Yukari valleys in the last four years",
+    "Y4_mahuo": "All three, each blaming another (Recommended)",
+    "Z1_shaka_al": "Isaac (correction, overrides the throne-name pick): no, that is the real Shaka-Al. The present Sovereign of Kushara is the ancient first Path-born himself; Dougou is his son."
+  },
+  "b7_zettari": {
+    "note": "Isaac: I don't control Zettari, so I don't know how. Zettari questions (the marriage's Zettari side, how Dougou killed Gimbzo, the Iron Bison's source) are another player's, left open; Natalie does not decide them."
+  },
+  "b8_mysteries": {
+    "X1_timber": "Fallout from the broken Soul Plane (Recommended): spoiled creatures walking to a thin place; the great thing waits there",
+    "X2_springs": "A Seikai remnant (Recommended): still feeding the poison",
+    "X3_vision": "Muken, the White Wolf (Recommended): his banner becomes a white wolf",
+    "X4_shigure": "She loved Gimbzo, sees him (Recommended): still tells Kagenori"
+  },
+  "b9_forward": {
+    "W1_keld": "Battle, then the three days (Recommended): the Iron Fist is the man to win over",
+    "W2_ch8_rider": "Anonymous until they answer (Recommended): no Zettari or cat in the Ch8 report until the Zettari player answers",
+    "W3_siblings": "Both siblings; the gate is his (Recommended): Seradris youngest sister, Senri brother, Senri's Gate his seat",
+    "W4_who_knew": "Some, not the council (Recommended): Shigure, Sumie, a few Tenrai; Tetsugen guessed; Kiyome didn't know"
+  },
+  "b10_apply": {
+    "A1_retcons": "Edit the scenes in place (Recommended): edit scenes + wiki mirrors, re-run verify_scene, note each change in the author notes",
+    "A2_small_slips": "Natalie fixes, later governs (Recommended)",
+    "A3_inventions": "All canon; wiki pages (Recommended)",
+    "A4_cards": "Rungs by weight (Recommended): full cards for major recurring, short for the rest, roster for one-scene names; rewrite Muken, Yukazuri, Naiser, Naevra, Gimbzo; Zettari cards flagged, untouched"
+  }
+}

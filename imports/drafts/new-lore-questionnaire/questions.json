@@ -1,0 +1,12 @@
+{"title":"New lore questionnaire: the 19 scenes after the 2026-10-18 reset","started":"2026-10-20","source":"digest.md",
+"batches":[
+ {"id":"b1_frame","qs":["F1 old cards vs new lore","F2 one war or two","F3 which parent is Kokan","F4 Kasane taken or loved"]},
+ {"id":"b2_family","qs":["K1 Kasane's Tenrai name","K2 Yukazuri's father","K3 why tokenless","K4 Kasane's death"]},
+ {"id":"b3_north","qs":["N1 Yusif and the Cuttings","N2 Yusif now","N3 head of House Stark","N4 Ulf/Wystan name clashes"]},
+ {"id":"b4_moto","qs":["M1 the Kokan chair and the purge","M2 Kharven's Seat","M3 Shingan or Kamigan","M4 six lines landless"]},
+ {"id":"b5_yukari","qs":["Y1 Naevra elder or younger","Y2 since before the Zettari","Y3 Zettari vs Yukari in the war","Y4 who slaughtered the Mahuo"]},
+ {"id":"b6_zettari","qs":["Z1 Shaka-Al","Z2 Dougou","Z3 how Gimbzo died","Z4 source of the Iron Bison"]},
+ {"id":"b7_mysteries","qs":["X1 the thing in the timber","X2 the poisoned springs","X3 Naiser's vision","X4 why Shigure spared him"]},
+ {"id":"b8_forward","qs":["W1 the Keld","W2 the Zettari rider in Ch8","W3 the marriage","W4 other players' pieces"]},
+ {"id":"b9_apply","qs":["A1 how retcons land","A2 small slips","A3 inventions","A4 cards for new names"]}
+]}

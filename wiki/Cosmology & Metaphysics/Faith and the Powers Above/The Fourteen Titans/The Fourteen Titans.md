@@ -3,6 +3,8 @@ title: "The Fourteen Titans"
 tags: ["Cosmology", "Reference Table"]
 ---
 
+![[Assets/Paintings/titans.webp]]
+
 # The Fourteen Titans
 
 > *"An Archon is a crowned principle. A Titan is a load-bearing law. Neither wants anything, and prayer presumes wanting."* — Catechism of Equal Breath, opening clauses, as cited by the Lectors of Sancta Lux

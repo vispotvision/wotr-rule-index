@@ -2,6 +2,8 @@
 title: "The Inner World — The Northern Shield"
 ---
 
+![[Assets/Paintings/northern-shield.webp]]
+
 # The Inner World — The Northern Shield
 
 **Say it** · the IN-er WURLD

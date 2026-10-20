@@ -3,6 +3,8 @@ title: "Card Update Review"
 private: true
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Card Update Review
 
 Every card re-cut to the R79-9 skeleton after the pilot: what was invented or derived (strike anything) and what the old card contradicts itself on. Grouped by culture.

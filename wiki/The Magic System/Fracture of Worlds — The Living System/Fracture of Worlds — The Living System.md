@@ -3,6 +3,8 @@ title: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
 ---
 
+![[Assets/Paintings/fracture-worlds.webp]]
+
 # Fracture of Worlds — The Living System
 
 *The System does not reward survival. It rewards contact with things larger than you.*

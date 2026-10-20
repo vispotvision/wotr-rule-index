@@ -2,6 +2,8 @@
 title: "The Old World — The Western Wearing"
 ---
 
+![[Assets/Paintings/geography.webp]]
+
 # The Old World — The Western Wearing
 
 **Say it** · the OHLD WURLD

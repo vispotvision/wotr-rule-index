@@ -2,6 +2,8 @@
 title: "The Army"
 ---
 
+![[Assets/Paintings/war-cycle.webp]]
+
 *What an army is made of, who pays for it, and how it moves.*
 
 - [[The War Cycle/The Army/The Order of Battle|The Order of Battle]]: What an army is made of, and who owns it

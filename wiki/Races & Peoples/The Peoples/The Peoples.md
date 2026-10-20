@@ -2,6 +2,8 @@
 title: "The Peoples"
 ---
 
+![[Assets/Paintings/peoples.webp]]
+
 *The elder peoples and the newer ones: their origins, their soul architecture and their ways.*
 
 - [[Races & Peoples/The Peoples/The Elven Peoples/The Elven Peoples|The Elven Peoples]]: Five Theologies of a Single Song · Revised Codex

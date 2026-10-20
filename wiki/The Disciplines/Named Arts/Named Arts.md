@@ -2,6 +2,8 @@
 title: "Named Arts"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 *Arts one person or one line derived and named, each on its own page.*
 
 - [[The Disciplines/Named Arts/Ainigma — The Riddle Wearing a Face|Ainigma — The Riddle Wearing a Face]]: Αἴνιγμα

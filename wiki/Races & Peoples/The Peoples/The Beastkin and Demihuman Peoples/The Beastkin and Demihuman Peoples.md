@@ -2,6 +2,8 @@
 title: "The Beastkin and Demihuman Peoples"
 ---
 
+![[Assets/Paintings/beastkin.webp]]
+
 # The Beastkin and Demihuman Peoples
 
 *Races · Soul Architecture · Languages · Cultures · The Social Reality*

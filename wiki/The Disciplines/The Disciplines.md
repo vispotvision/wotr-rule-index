@@ -2,6 +2,8 @@
 title: "The Disciplines"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # The Disciplines
 
 > The Families say what a working draws on. The Wellsprings say what law it obeys. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul** — and they differ from one another less in power than in the direction the force travels.

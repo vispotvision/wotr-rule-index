@@ -2,6 +2,8 @@
 title: "Aberrations"
 ---
 
+![[Assets/Paintings/aberrations.webp]]
+
 # Aberrations
 
 *Ten entries · what corruption makes when it is given a shape to work with*

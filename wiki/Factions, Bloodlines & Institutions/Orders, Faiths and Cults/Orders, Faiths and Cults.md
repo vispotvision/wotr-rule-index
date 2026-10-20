@@ -2,6 +2,8 @@
 title: "Orders, Faiths and Cults"
 ---
 
+![[Assets/Paintings/orders-faiths.webp]]
+
 *Churches, inquisitions, watch societies, war-orders and the cults that move under them all.*
 
 - [[Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sancta Lux|Sancta Lux]]: The Hand That Casts Judgement · Standing, the Oracle, the Works, the Host

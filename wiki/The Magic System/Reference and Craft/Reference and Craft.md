@@ -2,6 +2,8 @@
 title: "Reference and Craft"
 ---
 
+![[Assets/Paintings/reference-craft.webp]]
+
 *Consulted rather than read. The Field Manual is author-facing: how magic is written, not what magic is.*
 
 - [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories — Unified Taxonom]]: Reference. Consulted, not read.

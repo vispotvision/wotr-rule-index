@@ -86,7 +86,7 @@ Working facts for any agent (evidence: `AGENTS.md` "The wiki and the public site
   site ran together; that was fixed in 603 pages and the build now adds the breaks.
 - Art: diagrams are `wiki/Assets/Diagrams/*.svg` from `build/site_art.py`, embedded
   with `![[Assets/Diagrams/name.svg]]`; paintings for shelves are ChatGPT images in
-  `site/assets/*.webp`, mapped in `FOLDER_ART`.
+  `wiki/Assets/Paintings/*.webp` (embedded at the top of each hub so Obsidian shows them), mapped in `FOLDER_ART`.
 - The autosave (`wotr-sync.timer`, every 15 minutes) commits and pushes `wiki/`.
 
 

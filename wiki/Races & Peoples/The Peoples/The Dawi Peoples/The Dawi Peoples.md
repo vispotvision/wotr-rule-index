@@ -2,6 +2,8 @@
 title: "The Dawi Peoples"
 ---
 
+![[Assets/Paintings/dawi.webp]]
+
 # The Dawi Peoples
 
 *Eight Answers to One Endurance · Revised Codex*

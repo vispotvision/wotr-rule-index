@@ -2,6 +2,8 @@
 title: "In-World Documents & the Narrative Archive"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # In-World Documents & the Narrative Archive
 
 > Everything else in this wiki is **reference** — codices, registers, doctrine, taxonomy. Written by institutions about the world.

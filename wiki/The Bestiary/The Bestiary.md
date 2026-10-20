@@ -3,6 +3,8 @@ title: "The Bestiary"
 tags: ["Bestiary", "Reference Table", "Peoples"]
 ---
 
+![[Assets/Paintings/bestiary.webp]]
+
 # The Bestiary
 
 *Fifty attested creatures · Spirit-born, Draconic, Natural, Aberrant, Undying, Divine, and Well-bred*

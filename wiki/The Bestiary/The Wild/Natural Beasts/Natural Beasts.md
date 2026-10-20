@@ -2,6 +2,8 @@
 title: "Natural Beasts"
 ---
 
+![[Assets/Paintings/natural-beasts.webp]]
+
 # Natural Beasts
 
 *Eight entries · creatures that were born rather than made, however large they got*

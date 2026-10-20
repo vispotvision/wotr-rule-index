@@ -2,6 +2,8 @@
 title: "The Called · Summon Register"
 ---
 
+![[Assets/Paintings/bestiary.webp]]
+
 # The Called · Summon Register
 
 *The register of things called, and what answers when they are.*

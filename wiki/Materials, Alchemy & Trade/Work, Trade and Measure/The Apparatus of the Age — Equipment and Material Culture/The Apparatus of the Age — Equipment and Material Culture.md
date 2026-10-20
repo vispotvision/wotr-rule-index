@@ -3,6 +3,8 @@ title: "The Apparatus of the Age — Equipment and Material Culture"
 tags: ["Materials", "Trade & Economy"]
 ---
 
+![[Assets/Paintings/alchemy.webp]]
+
 # The Apparatus of the Age — Equipment and Material Culture
 
 *A Register of Equipment, Technology, and Material Culture Across the Four Quarters*

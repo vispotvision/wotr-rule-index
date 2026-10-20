@@ -3,6 +3,8 @@ title: "The Eight Families & the Sixty Wellsprings"
 tags: ["Magic System", "Reference Table"]
 ---
 
+![[Assets/Paintings/eight-families.webp]]
+
 # The Eight Families & the Sixty Wellsprings
 
 > *"The Wellspring is not a gift and it is not a spirit. It is a law that was already running before you noticed it, and harmonization is the act of agreeing to be measured by it."*

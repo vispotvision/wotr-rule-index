@@ -2,6 +2,8 @@
 title: "The Foundations"
 ---
 
+![[Assets/Paintings/foundations.webp]]
+
 *What a working is, the laws it conditions, and the boundaries every working is written in.*
 
 - [[The Magic System/The Foundations/The Physical Account Two Sets of Books|The Physical Account: Two Sets of Books]]: What a working is. Two complete descriptions of every event, both true, and where the energy actually comes from.

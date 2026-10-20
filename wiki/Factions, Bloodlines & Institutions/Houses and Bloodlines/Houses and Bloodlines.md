@@ -2,6 +2,8 @@
 title: "Houses and Bloodlines"
 ---
 
+![[Assets/Paintings/houses-bloodlines.webp]]
+
 *The old blood and the great houses: who holds the land, the seats and the inheritance.*
 
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]]

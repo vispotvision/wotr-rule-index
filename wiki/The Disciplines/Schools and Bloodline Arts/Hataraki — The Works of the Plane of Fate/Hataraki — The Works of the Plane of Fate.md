@@ -2,6 +2,8 @@
 title: "Hataraki — The Works of the Plane of Fate"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Hataraki — The Works of the Plane of Fate
 
 *Hataraki, literally translated as Work, is the governing function of the Plane of Fate.*

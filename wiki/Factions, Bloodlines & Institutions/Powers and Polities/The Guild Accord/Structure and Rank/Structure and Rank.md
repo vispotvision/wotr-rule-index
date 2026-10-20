@@ -2,6 +2,8 @@
 title: "Structure and Rank"
 ---
 
+![[Assets/Paintings/practice-institution.webp]]
+
 *Why the Accord exists, how it ranks a practitioner, how it rewards and strikes, and the Division it will not name.*
 
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem|The Practitioner Problem]]: Standing Doctrine on Individuals Who Outweigh Regiments

@@ -3,10 +3,16 @@ title: "The Guild Accord"
 tags: ["Factions", "In-World Document"]
 ---
 
+![[Assets/Paintings/guild-accord.webp]]
+
 # The Guild Accord
 
 *A Codex of Law, Rank, and Resonance* · filed under the Concord Codex, Supreme Treaty of All Wellspring Practitioners
 > *"To temper the soul is to preserve the world."*
+
+![[Assets/Emblems/guild-accord.webp|320]]
+
+*The emblem of the Accord: level scales for Balance before Dominion, the interwoven bands of the Concord Lattice, and at the centre a fragment of Soul Crystal.*
 
 ---
 

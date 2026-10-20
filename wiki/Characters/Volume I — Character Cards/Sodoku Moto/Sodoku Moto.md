@@ -19,6 +19,8 @@ pc: true
 owner: Isaac
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Sodoku Moto
 
 **Sodoku Moto** · The Exiled Lion · Moto / Kharven · as of the muster at Kharven-Seat, the morning of the ninth hour  

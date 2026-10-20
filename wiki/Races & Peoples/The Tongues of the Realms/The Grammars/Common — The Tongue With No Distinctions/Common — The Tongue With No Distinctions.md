@@ -3,6 +3,8 @@ title: "Common — The Tongue With No Distinctions"
 tags: ["Peoples", "Reference Table"]
 ---
 
+![[Assets/Paintings/peoples.webp]]
+
 # Common — The Tongue With No Distinctions
 
 *The tongue the story is told in. The Tongues of the Realms governs, with one exception noted below.*

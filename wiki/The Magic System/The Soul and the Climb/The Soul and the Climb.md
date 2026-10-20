@@ -2,6 +2,8 @@
 title: "The Soul and the Climb"
 ---
 
+![[Assets/Paintings/soul-climb.webp]]
+
 *What a soul carries, what advancement does to it, and how it reads from outside.*
 
 - [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System: Law, Function and the Forge]]: What a soul carries before any of the above touches it.

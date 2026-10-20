@@ -2,6 +2,8 @@
 title: "Seats and Arms"
 ---
 
+![[Assets/Paintings/guild-accord.webp]]
+
 *The Citadel, the Gates that bind the Accord together, and the force that defends them.*
 
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Citadel|The Concord Citadel]]

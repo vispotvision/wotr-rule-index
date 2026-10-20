@@ -2,6 +2,8 @@
 title: "The Spirit Summoning Arts"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # The Spirit Summoning Arts
 
 > What common parlance calls "summoning" is not a single discipline. **It is a three-plane crossing.** On the Physical Plane, Aether is shaped into a vessel. On the Soul Plane, the summoner's Essence Core donates identity, pattern, and animating current. On the Plane of Fate, Attraction Force magnetizes the construct into recognized existence.

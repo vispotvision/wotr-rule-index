@@ -2,6 +2,8 @@
 title: "The Alftian Codex"
 ---
 
+![[Assets/Paintings/alftian.webp]]
+
 # The Alftian Codex
 
 *Being the Recovered Journal of Vis Trismegistus, Alftian Savant · in three volumes*

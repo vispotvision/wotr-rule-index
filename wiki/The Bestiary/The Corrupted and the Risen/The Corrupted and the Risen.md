@@ -2,6 +2,8 @@
 title: "The Corrupted and the Risen"
 ---
 
+![[Assets/Paintings/aberrations.webp]]
+
 *What corruption makes, what the Wells spawn, and what will not stay dead.*
 
 - [[The Bestiary/The Corrupted and the Risen/Aberrations/Aberrations|Aberrations]]: Ten entries · what corruption makes when it is given a shape to work with

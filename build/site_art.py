@@ -29,7 +29,7 @@ SECTIONS = {
 }
 DEFAULT = ("crown", "#d8ab4f", "#1c140b", "hero", "")
 
-# a folder's own painting (site/assets/<name>.webp), over its section's
+# a folder's own painting (wiki/Assets/Paintings/<name>.webp), over its section's; a hub page that embeds one overrides both
 FOLDER_ART = {
     "The Magic System/First Steps": "first-steps",
     "The Magic System/The Foundations": "foundations",
@@ -208,7 +208,7 @@ def plate(rel, title):
             f'{_words(kicker, title)}</div>\n\n')
 
 
-def banner(rel, title, base):
+def banner(rel, title, base, painting=None):
     """A section front page: the painted art (or the crest alone), the title and the tagline."""
     (key, hue, deep, art, tag), top = style_for(rel)
     if top and top != title:  # a sub-folder's front page inside a section
@@ -216,7 +216,7 @@ def banner(rel, title, base):
         kicker = " · ".join(rel.split("/")[:-2])
     else:
         kicker = "War of the Realms"
-    art = FOLDER_ART.get(rel.rsplit("/", 1)[0], art)
+    art = painting or FOLDER_ART.get(rel.rsplit("/", 1)[0], art)
     img = f'background-image:url({base}/assets/{art}.webp);' if art else ""
     uid = hashlib.sha1(rel.encode()).hexdigest()[:8]
     art_svg = "" if art else plate_svg(title, key, hue, deep, uid)

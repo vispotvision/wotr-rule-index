@@ -3,6 +3,8 @@ title: "Races & Peoples"
 tags: ["Peoples", "Bloodlines", "Geography"]
 ---
 
+![[Assets/Paintings/peoples.webp]]
+
 # Races & Peoples
 
 > The pattern that runs under every people in this section: **one origin, several sincere and mutually incompatible answers to what that origin demanded.** Not a family tree of decline from a purer ancestor. A set of arguments that nobody won.

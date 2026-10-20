@@ -2,6 +2,8 @@
 title: "Artifacts"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Artifacts
 
 - [[Artifacts/Verdiction Gauntlet · The Hand of Judgment]]

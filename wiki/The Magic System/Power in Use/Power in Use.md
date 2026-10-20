@@ -2,6 +2,8 @@
 title: "Power in Use"
 ---
 
+![[Assets/Paintings/power-in-use.webp]]
+
 *How power is put into the body, stacked, spent, carried in tags and beaten.*
 
 - [[The Magic System/Power in Use/Reinforcement|Reinforcement]]: The coat of one's own aura over the body's base, what it costs, and when it fails.

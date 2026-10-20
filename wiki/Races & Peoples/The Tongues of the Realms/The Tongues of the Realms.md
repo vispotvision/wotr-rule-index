@@ -3,6 +3,8 @@ title: "The Tongues of the Realms"
 tags: ["Peoples", "Reference Table"]
 ---
 
+![[Assets/Paintings/tongues.webp]]
+
 # The Tongues of the Realms
 
 *Framework document. Read before any individual grammar.*

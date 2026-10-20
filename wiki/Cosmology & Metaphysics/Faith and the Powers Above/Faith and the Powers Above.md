@@ -2,6 +2,8 @@
 title: "Faith and the Powers Above"
 ---
 
+![[Assets/Paintings/archons.webp]]
+
 *The Titans who bear the world's weight, the Archons who give it meaning, the Host, and the faiths that kneel to them.*
 
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans|The Fourteen Titans]]

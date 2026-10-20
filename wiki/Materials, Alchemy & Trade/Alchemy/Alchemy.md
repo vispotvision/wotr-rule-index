@@ -2,6 +2,8 @@
 title: "Alchemy"
 ---
 
+![[Assets/Paintings/alchemy.webp]]
+
 *The working of Wellspring law upon matter: the craft, its heresies, its register, and the Drafts and tags it sells.*
 
 - [[Materials, Alchemy & Trade/Alchemy/The Real Alchemy|The Real Alchemy]]: What the laboratory did, from the fourteenth century to the end of the nineteenth, with the figures the sources give. An out-of-world reference page.

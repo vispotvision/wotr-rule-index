@@ -2,6 +2,8 @@
 title: "Spellcraft"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Spellcraft
 
 - [[The Disciplines/Spellcraft/Resonant Divination]]

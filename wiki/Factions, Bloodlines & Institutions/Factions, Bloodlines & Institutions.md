@@ -3,6 +3,8 @@ title: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "Bloodlines", "Trade & Economy"]
 ---
 
+![[Assets/Paintings/factions.webp]]
+
 # Factions, Bloodlines & Institutions
 
 > Two systems of legitimacy occupy the same ground and neither can abolish the other. **The Crown holds** the land, the law, the levy, and the right to hang, legitimate by descent. **The Accord holds** the assay, the rank, the credit, the writ, and the arrays, legitimate by measurement.

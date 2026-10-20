@@ -3,6 +3,8 @@ title: "Materials, Alchemy & Trade"
 tags: ["Materials", "Alchemy", "Trade & Economy", "Reference Table"]
 ---
 
+![[Assets/Paintings/alchemy.webp]]
+
 # Materials, Alchemy & Trade
 
 > Three registers, one economy. **The Ledger** says what the world is made of. **The Standing Index** says what may lawfully be made from it. **Hide, Horn and Bone** says what was alive first.

@@ -3,6 +3,8 @@ title: "Geography & the Four Quarters"
 tags: ["Geography", "Trade & Economy", "Materials"]
 ---
 
+![[Assets/Paintings/geography.webp]]
+
 # Geography & the Four Quarters
 
 **Say it** · the FOR KWOR-terz

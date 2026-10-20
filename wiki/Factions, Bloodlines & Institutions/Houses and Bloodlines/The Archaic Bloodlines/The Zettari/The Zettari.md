@@ -2,6 +2,8 @@
 title: "The Zettari"
 ---
 
+![[Assets/Paintings/zettari.webp]]
+
 # The Zettari
 
 *Transcendent Sovereign Lineage · Path-Born Royal Human Bloodline*

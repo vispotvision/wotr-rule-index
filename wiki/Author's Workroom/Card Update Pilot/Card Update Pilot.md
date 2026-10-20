@@ -3,6 +3,8 @@ title: "Card Update Pilot: what was added and what doesn't add up"
 private: true
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Card Update Pilot
 
 Ten core cast cards re-cut to the current card template, the head built, gaps filled and releases designed. The drafts sit beside this page; the live cards are untouched until Isaac says go. For each card: what was invented (strike anything) and what the old card contradicts itself on.

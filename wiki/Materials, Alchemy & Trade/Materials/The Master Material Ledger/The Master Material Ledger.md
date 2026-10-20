@@ -3,6 +3,8 @@ title: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
 ---
 
+![[Assets/Paintings/material-ledger.webp]]
+
 # The Master Material Ledger
 
 *Consolidated substrate register · T0 through T9 · all four quarters*

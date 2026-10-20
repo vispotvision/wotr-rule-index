@@ -2,6 +2,8 @@
 title: "Work, Trade and Measure"
 ---
 
+![[Assets/Paintings/coin-trade.webp]]
+
 *The trades and their tools, the equipment of the age, and the standards everything is weighed by.*
 
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture|The Apparatus of the Age — Equipment and Material Culture]]: A Register of Equipment, Technology, and Material Culture Across the Four Quarters

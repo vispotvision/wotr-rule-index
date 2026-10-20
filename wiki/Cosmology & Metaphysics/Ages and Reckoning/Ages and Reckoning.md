@@ -2,6 +2,8 @@
 title: "Ages and Reckoning"
 ---
 
+![[Assets/Paintings/ages-reckoning.webp]]
+
 *How the world counts its years and its ages, and how its making advanced from the First Eon to the Withering.*
 
 - [[Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages|The Concordance of Ages]]: The Fixing of the Count, in Four Ages and One Continuous Reckoning

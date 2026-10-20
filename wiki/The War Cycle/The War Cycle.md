@@ -3,6 +3,8 @@ title: "The War Cycle"
 tags: ["War", "Medicine & Death", "Factions"]
 ---
 
+![[Assets/Paintings/war-cycle.webp]]
+
 # The War Cycle
 
 > **A practitioner converts Essence into effect. An army converts time into ground.**

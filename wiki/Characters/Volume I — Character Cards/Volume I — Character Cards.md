@@ -2,6 +2,8 @@
 title: "Volume I — Character Cards"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Volume I — Character Cards
 
 - [[Characters/Volume I — Character Cards/Muken Moto]]

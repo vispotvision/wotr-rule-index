@@ -97,7 +97,7 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
     section and shelf front page, card grids for link lists, glossary cards for runs
     of `**Term**: meaning`, paragraph breaks, long quotes set as prose;
   - `build/site_art.py` holds the crests, plates, `FOLDER_ART` (painting per shelf,
-    from `site/assets/*.webp`) and the diagrams (`python build/site_art.py` rewrites
+    from `wiki/Assets/Paintings/*.webp`, embedded at the top of each hub page) and the diagrams (`python build/site_art.py` rewrites
     `wiki/Assets/Diagrams/*.svg`; embed one with `![[Assets/Diagrams/name.svg]]`);
   - `build/site_charts.py` redraws mermaid: a chain becomes a gilt road, a timeline era
     bands, anything branching gilt plaques laid out by Graphviz;

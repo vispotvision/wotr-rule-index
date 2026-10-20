@@ -2,6 +2,8 @@
 title: "Powers and Polities"
 ---
 
+![[Assets/Paintings/powers-polities.webp]]
+
 *The crowns, the Accord that binds them, the Guilds that run the mains, and the court that strikes names from the record.*
 
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity|The Articles of the Accord, and the Kinds of Polity]]: The actual articles, the courts that hear them, the penalties, and the kinds of polity the Accord has to reach across.

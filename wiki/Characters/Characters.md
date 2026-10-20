@@ -2,6 +2,8 @@
 title: "Characters"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Characters
 
 > Every other section of this wiki describes systems. **This one describes the people the systems happened to.**

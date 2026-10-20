@@ -2,6 +2,8 @@
 title: "First Steps"
 ---
 
+![[Assets/Paintings/first-steps.webp]]
+
 *The newcomer's road. Read these four first and everything after them will make sense.*
 
 - [[The Magic System/First Steps/How Magic Works|How Magic Works]]: The whole system in brief, for a newcomer.

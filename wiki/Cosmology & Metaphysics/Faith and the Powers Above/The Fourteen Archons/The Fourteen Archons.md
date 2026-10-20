@@ -3,6 +3,8 @@ title: "The Fourteen Archons"
 tags: ["Cosmology", "Reference Table"]
 ---
 
+![[Assets/Paintings/archons.webp]]
+
 # The Fourteen Archons
 
 > *"To wield Archonic magic is not to use power. It is to invoke function. It is to call upon the labor of a crowned idea and ask it to work through you, briefly, at the cost of everything the idea was always going to be permitted to take."* — Codex of Three Planes, attributed to the Spiritwright Erindael of the Second Accord

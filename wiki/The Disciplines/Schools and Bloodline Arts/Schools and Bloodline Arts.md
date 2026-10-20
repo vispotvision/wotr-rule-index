@@ -2,6 +2,8 @@
 title: "Schools and Bloodline Arts"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 *Arts taught by the schools and carried in the blood.*
 
 - [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto|Asami and Gisei — The Two States of the Moto]]

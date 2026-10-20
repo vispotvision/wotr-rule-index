@@ -3,6 +3,8 @@ title: "The Moto Bloodline"
 tags: ["Bloodlines"]
 ---
 
+![[Assets/Paintings/moto.webp]]
+
 # The Moto Bloodline
 
 > Founded by **Bara Moto** and **Mizuki Moto.** Bara stands as the mortal manifestation of the First Epoch in literal human form; Mizuki gives that primordial authority **continuity, inheritance, and dynastic form.**

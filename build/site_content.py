@@ -142,6 +142,9 @@ def dress(rel: str, text: str) -> str:
     t = re.search(r'(?m)^title:\s*"?(.*?)"?\s*$', head)
     stem = rel.rsplit("/", 1)[-1][:-3]
     title = t.group(1).replace('\\"', '"') if t else stem
+    # a hub's painting embed (shown in Obsidian) becomes the site banner's art
+    pm = re.search(r"(?m)^!\[\[Assets/Paintings/([\w-]+)\.webp(?:\|[^\]]*)?\]\][ \t]*\n?", body)
+    body = body[:pm.start()] + body[pm.end():] if pm else body
     body = scrub(breathe(re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1)))
     first = re.match(r"\s*#{1,6} +(.+?)\s*\n", body)  # the plate already carries the title
     if first and re.sub(r"\W", "", first.group(1)).lower() == re.sub(r"\W", "", title).lower():
@@ -165,7 +168,7 @@ def dress(rel: str, text: str) -> str:
     if hub and "wotr-entries" in body:  # the page lists its own contents; Quartz's folder list would repeat it
         body += '\n<span class="wotr-curated"></span>\n'
 
-    art = banner(rel, title, BASE) if hub else plate(rel, title)
+    art = banner(rel, title, BASE, pm and pm.group(1)) if hub else plate(rel, title)
     return head + "\n" + art + body.lstrip("\n")
 
 
@@ -208,7 +211,7 @@ def main(out: Path) -> None:
         (out / rel).parent.mkdir(parents=True, exist_ok=True)
         text = re.sub(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]", unlink, (WIKI / rel).read_text(encoding="utf-8"))
         (out / rel).write_text(dress(rel, text), encoding="utf-8")
-    shutil.copytree(WIKI / "Assets", out / "Assets")
+    shutil.copytree(WIKI / "Assets", out / "Assets", ignore=shutil.ignore_patterns("Paintings"))  # banners load from /assets
     lines = ["---", "title: Every Page", "---", "", "Every page on the public wiki, by section and shelf.", ""]
     for section in sorted(kept):
         lines += [f"## {section}", ""]

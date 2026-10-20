@@ -3,6 +3,8 @@ title: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Lore & History", "Open Rulings"]
 ---
 
+![[Assets/Paintings/cosmology.webp]]
+
 # Cosmology & Metaphysics
 
 > Three planes, nested rather than stacked. Fourteen crowned ideas administering the principles that make the planes legible to each other. One threshold where the laws of all three become negotiable. And, running underneath the whole architecture, a count that was wrong by a factor near forty until somebody checked the ash.

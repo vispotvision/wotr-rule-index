@@ -2,6 +2,8 @@
 title: "The Wild"
 ---
 
+![[Assets/Paintings/natural-beasts.webp]]
+
 *Creatures that belong to the world: beasts of the land, beasts of spirit, and the dragon line.*
 
 - [[The Bestiary/The Wild/Natural Beasts/Natural Beasts|Natural Beasts]]: Eight entries · creatures that were born rather than made, however large they got

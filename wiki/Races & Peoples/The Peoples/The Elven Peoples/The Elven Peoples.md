@@ -2,6 +2,8 @@
 title: "The Elven Peoples"
 ---
 
+![[Assets/Paintings/elven.webp]]
+
 # The Elven Peoples
 
 *Five Theologies of a Single Song · Revised Codex*

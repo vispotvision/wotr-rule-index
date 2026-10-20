@@ -2,6 +2,8 @@
 title: "Techniques"
 ---
 
+![[Assets/Paintings/hero.webp]]
+
 # Techniques
 
 - [[The Disciplines/Techniques/Sigillum Fixationis|Sigillum Fixatio]]

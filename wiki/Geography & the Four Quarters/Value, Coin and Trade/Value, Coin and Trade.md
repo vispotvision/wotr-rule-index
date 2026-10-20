@@ -3,6 +3,8 @@ title: "Value, Coin and Trade"
 tags: ["Trade & Economy", "Materials"]
 ---
 
+![[Assets/Paintings/coin-trade.webp]]
+
 # Value, Coin and Trade
 
 *An Account of What Is Worth Something, and Why*

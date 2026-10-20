@@ -3,6 +3,8 @@ title: "Lore & History"
 tags: ["Lore & History", "In-World Document", "Cosmology", "Alchemy"]
 ---
 
+![[Assets/Paintings/lore.webp]]
+
 # Lore & History
 
 > The codices elsewhere in this wiki are institutional. **They were written by Divisions, for Divisions, and their voice is the voice of a body that expects to outlast its authors.**

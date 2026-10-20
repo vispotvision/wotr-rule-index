@@ -2,6 +2,8 @@
 title: "The Grammars"
 ---
 
+![[Assets/Paintings/tongues.webp]]
+
 *The constructed languages of the Realms, each with its own grammar.*
 
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions|Common — The Tongue With No Distinctions]]: The tongue the story is told in. The Tongues of the Realms governs, with one exception noted below.

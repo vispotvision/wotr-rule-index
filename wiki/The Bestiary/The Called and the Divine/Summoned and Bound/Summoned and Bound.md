@@ -2,6 +2,8 @@
 title: "Summoned and Bound"
 ---
 
+![[Assets/Paintings/summoned.webp]]
+
 # Summoned and Bound
 
 *Called things, entered as creatures. What a summoner keeps on a chain and what the chain is actually made of.*

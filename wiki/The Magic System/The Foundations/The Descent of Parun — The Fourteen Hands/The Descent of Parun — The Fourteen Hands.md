@@ -3,6 +3,8 @@ title: "The Descent of Parun — The Fourteen Hands"
 tags: ["Magic System", "Reference Table"]
 ---
 
+![[Assets/Paintings/descent-parun.webp]]
+
 # The Descent of Parun — The Fourteen Hands
 
 *A Reader's Grammar of the Written Tongues · compiled for the Guild Accord Division of Alchemetrica*

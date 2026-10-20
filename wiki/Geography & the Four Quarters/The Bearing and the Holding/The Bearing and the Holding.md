@@ -3,6 +3,8 @@ title: "The Bearing and the Holding"
 tags: ["Trade & Economy", "Geography", "In-World Document"]
 ---
 
+![[Assets/Paintings/bearing-holding.webp]]
+
 # The Bearing and the Holding
 
 *A Survey of the Four Quarters, Their Substrate, and What May Be Made Of Them*

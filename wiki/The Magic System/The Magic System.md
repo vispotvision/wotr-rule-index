@@ -3,6 +3,8 @@ title: "The Magic System"
 tags: ["Magic System", "Reference Table", "Open Rulings"]
 ---
 
+![[Assets/Paintings/magic.webp]]
+
 # The Magic System
 
 > The Continuum does not grant power. It measures a soul, records what the measurement found, and permits exactly as much as the architecture will bear. Everything in this section is an account of that measurement: what it reads, what it refuses to read, and what it costs to move the needle.

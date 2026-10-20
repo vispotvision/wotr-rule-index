@@ -3205,3 +3205,9 @@ Context: Card update pilot, 2026-10-17: Yoko's stat block named "Temür" and "An
 Yoko Mishiro and Sodoku Moto's son is Rikudoku Moto; "Riku" is his short name. One child, not two.
 
 Context: Card update pilot, 2026-10-17: Yoko's stat block says "Riku", her Lore says "Rikudoku Moto". Isaac: "riku is short for rikudoku".
+
+## 2026-10-20 — new
+
+New-lore canon (Isaac, 2026-10-20 questionnaire on the 19 post-reset scenes). The scenes govern and the cards are rewritten to them. One war, forty years long, ended about a month before The Uncounted Ch1. Its last four years were the worst: the Seikai turned, the Soul Plane broke, Ashura was wounded, the Zettari struck the Yukari, and Shimane was fought. Muken was born about 16 years ago. Gimbzo Kōkan Moto was the Kōkan king who purged his own line and ruled from the field, leaving the red chair empty. Kasane Byakuya (Kiyome's elder sister, Yukari by Telling) was his sworn guard and loved him. Yukazuri is also Gimbzo's. Kasane died of salt-throat on the day Shimane's news came. Yusif Stark was a big brother to Kasane, raising and shielding the children on the Ned Stark/Jon Snow model; the marriage is retconned. He died about three years ago keeping the secret. The siblings are tokenless because they had no house name, or didn't know it. When Muken takes his name, the Kōkan emblem goes on every seal he holds and he becomes the active leader of the Kōkan. Torvald, Ulf's brother and the Stark leader, named Ulf leader before his execution. The Zettari belong to another player: their choices stay open, and the present Sovereign is the real, ancient Shaka-Al, Dougou's father. Full list: imports/drafts/new-lore-questionnaire/decisions.md.
+
+Context: New-lore questionnaire, 10 batches; answers.json and decisions.md beside it.

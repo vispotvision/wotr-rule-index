@@ -39,7 +39,7 @@ Isaac's new-lore questionnaire settled every open retcon; the scenes above were 
 
 - **One war, forty years long**, ended about a month before Chapter One. Its last four years were the worst (the Seikai, the broken Soul Plane, Shimane).
 - **Gimbzo Kōkan Moto** was the Kōkan king who purged his own line; Muken (16) and Yukazuri (13) are both his.
-- **Kasane Byakuya**, Kiyome's elder sister, Yukari by her Telling, was his sworn guard and loved him. She died of salt-throat the morning the Shimane news came.
+- **Kasane Byakuya**, Kiyome's elder sister, Yukari by her Telling, was his sworn guard and loved him, and (Chapter Ten) married him privately. She died of salt-throat the morning the Shimane news came.
 - **Yusif Stark** was a big brother to her and half-raised the children; never married. He is dead, about three years.
 - **Tokenless** because they had no house name.
 - **Renamed** in The Verdict of Six: the kneeling rider is Hakon, the Lambert prisoner Osbert.
@@ -55,9 +55,9 @@ Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbe
 
 - **Aksel Keld**, the Iron Fist: eighteen, eleven battles unbeaten, right hand of black iron. Bought by Kagenori with the ice (no tithe, seed grain, no Moto boot on Keld snow).
 - **Kagenori serves Shizuha Shirogane**: the letters carry two seals with the silver in the place of precedence; Karogane is to shout Muken's parentage between the lines.
-- **Muken knows**: Kiyome told him in the Foot's mess hall (Chapter Ten); Dougou told him he killed Gimbzo at Shimane (Chapter Eleven); Muken told the Foot at the woodpile (Chapter Twelve).
+- **Muken knows**: Kiyome told him in the Foot's mess hall (Chapter Ten); Dougou told him he killed Gimbzo at Shimane (Chapter Eleven); Muken told Yukazuri, then the Foot at the woodpile (Chapter Twelve).
 - **Kasane married Gimbzo** privately at the white house, Kiyome the only witness.
 - **The three oaths**: Kiyome (the white house in the Shiraki hills, forty riders, a hidden granary), Hayato (twenty riders and his roads), Tetsugen (the Kurogane granaries and levies) gave their land and power to Muken.
-- **Under Muken's rule no Moto marches on Zettari land**, sworn by his honour; Muken and Dougou are pledged to fight when the snow goes.
+- **Under Muken's rule no Moto marches on Zettari land**, sworn by his honour. Muken offered Dougou his hand on a fight when the snow goes; the answer is the Zettari player's.
 - **Ashmore and Thornwall** are named as Banner Houses in his way. A carter walked out toward the Keld.
 - New names: Harrowmere, Tullock, Brannick ford, Low Esk, the Grey Teeth, the Shiraki hills.

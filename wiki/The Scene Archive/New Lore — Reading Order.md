@@ -28,6 +28,10 @@ The scenes archived after the 2026-10-18 lore reset, in reading order. Two threa
 | 17 | [[Scenes/The Truth of Muken]] | Enclave |
 | 18 | [[Scenes/The Iron Fist of the Keld]] | Enclave |
 | 19 | [[Scenes/The Uncounted, Chapter Eight The Inheritance]] | Muken |
+| 20 | [[Scenes/The Uncounted, Chapter Nine The Queen's Will]] | Muken, the Keld |
+| 21 | [[Scenes/The Uncounted, Chapter Ten The Red Line]] | Muken |
+| 22 | [[Scenes/The Uncounted, Chapter Eleven By My Honour]] | Muken |
+| 23 | [[Scenes/The Uncounted, Chapter Twelve The Woodpile]] | Muken |
 
 ## Retcons, settled 2026-10-20
 
@@ -45,4 +49,15 @@ Isaac's new-lore questionnaire settled every open retcon; the scenes above were 
 
 ## New names with no card yet
 
-Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbert Lambert, Oskar Pell, Hollis Draycott, Ulf Stark, Wystan and Aldwin Greymane, Godfrey Greymane (canon, first scene), Torvald Stark, Yusif Stark, Shigure Tenrai Moto, Kagenori Tenrai Moto, Shizuha Shirogane, Tetsugen Akagane, Sumie Kurenai, Kiyome Byakuya, Hayato Amagiri, Ren of the Akagane, Shisui Yukari, Seradris (another player's), Karogane, the Iron Fist of the Keld, Old Harald.
+Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbert Lambert, Oskar Pell, Hollis Draycott, Ulf Stark, Wystan and Aldwin Greymane, Godfrey Greymane (canon, first scene), Torvald Stark, Yusif Stark, Shigure Tenrai Moto, Kagenori Tenrai Moto, Shizuha Shirogane, Tetsugen Akagane, Sumie Kurenai, Kiyome Byakuya, Hayato Amagiri, Ren of the Akagane, Shisui Yukari, Seradris (another player's), Karogane, Aksel Keld (the Iron Fist of the Keld), Old Harald.
+
+## Added 2026-10-20 (Chapters Nine to Twelve)
+
+- **Aksel Keld**, the Iron Fist: eighteen, eleven battles unbeaten, right hand of black iron. Bought by Kagenori with the ice (no tithe, seed grain, no Moto boot on Keld snow).
+- **Kagenori serves Shizuha Shirogane**: the letters carry two seals with the silver in the place of precedence; Karogane is to shout Muken's parentage between the lines.
+- **Muken knows**: Kiyome told him in the Foot's mess hall (Chapter Ten); Dougou told him he killed Gimbzo at Shimane (Chapter Eleven); Muken told the Foot at the woodpile (Chapter Twelve).
+- **Kasane married Gimbzo** privately at the white house, Kiyome the only witness.
+- **The three oaths**: Kiyome (the white house in the Shiraki hills, forty riders, a hidden granary), Hayato (twenty riders and his roads), Tetsugen (the Kurogane granaries and levies) gave their land and power to Muken.
+- **Under Muken's rule no Moto marches on Zettari land**, sworn by his honour; Muken and Dougou are pledged to fight when the snow goes.
+- **Ashmore and Thornwall** are named as Banner Houses in his way. A carter walked out toward the Keld.
+- New names: Harrowmere, Tullock, Brannick ford, Low Esk, the Grey Teeth, the Shiraki hills.

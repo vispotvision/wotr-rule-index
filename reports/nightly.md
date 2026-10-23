@@ -1,12 +1,9 @@
-# Nightly — 2026-10-22 03:30
+# Nightly — 2026-10-23 03:30
 
 ## Overnight
 
-Quiet night for the rules: validate passes, docket empty, one conflict open, the same four findings, nothing new archived, backup on schedule from Sunday.
-
-The sync needs you this morning. Its 34 "push failures" are really commit failures: build/sync.sh line 114 still stages scenes/CAST.md and scenes/TIMELINE.md, and the 10-18 lore reset moved both to lore/v1/scenes/. Git refuses the whole add over the missing path, so wiki and table edits have not been committed since then (wiki/INDEX.md is sitting modified right now). The branch is level with origin, so nothing is lost, only stuck. I'd change that line to `lore/v1/scenes/CAST.md lore/v1/scenes/TIMELINE.md` and let the next quarter-hour run carry it up.
-
-Both books are still parked on chapter 1 gates waiting for your approve or reject.
+Nothing changed overnight: validate passes, no scenes archived, no new or cleared findings, the sync pushed 61 times without a failure and Sunday's backup is on schedule.
+The one thing waiting on you is still both books' chapter 1 gates; approve or reject them (`python build/book_next.py --approve 1`) and the books move again.
 
 ## Numbers
 
@@ -34,6 +31,6 @@ Both books are still parked on chapter 1 gates waiting for your approve or rejec
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 40 push(es), 0 quiet run(s), 34 push failure(s): push failed
-- backup: weekly (Sunday 03:00), last 2026-10-18 (4 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
-- last run of this digest: 2026-10-21T03:40:50
+- sync: 61 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-18 (5 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
+- last run of this digest: 2026-10-22T03:30:00

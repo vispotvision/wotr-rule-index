@@ -8,7 +8,7 @@ source: scenes/naisers_answer.md
 
 Naiser let the silence after the Sovereign's last words run long.
 
-He did it on purpose. The hall was built for it. The stream went on under the boards, steady as breath, and out beyond the open screens a wind moved through the tops of the cedars and set them hissing softly against one another and then let them be. In the clay cups the tea had stopped steaming. He let all of it go on until the room had settled back into its own quiet, the way water settles after a stone goes into it, and only then did he lift his eyes from the table.
+He did it on purpose. The hall was built for it. The stream went on under the boards, steady as breath, and out beyond the open screens a wind moved through the tops of the cedars and set them hissing softly against one another and then let them be. In the clay cups the tea had stopped steaming. The afternoon had turned while they talked; it came in low through the screens now and lay across the table in long bars the colour of honey, and lit the green-gold dregs in the cups, and set the dust turning slow and bright in the air above the boards. He let all of it go on until the room had settled back into its own quiet, the way water settles after a stone goes into it, and only then did he lift his eyes from the table.
 
 He had listened to all of it. To the Sovereign's careful courtesy, and to the line drawn under it, firm and plain as a boundary stone, that Kushara would not hand away its right to defend itself. To the prince's questions, which had come at him like thrown stones, and which were, every one of them, the right questions. To the story of Gimbzo, and the name of the thing that had killed him, and the pleasure in the voice that had told it. He had heard the palm come down on the table. He had felt, through the thin skin of the hall's threads, the heat of the anger that went between the father and the son, and the older, deeper thing beneath it that neither of them would have called by its name in front of strangers.
 
@@ -42,7 +42,7 @@ She said it lightly, almost as a joke, and it was the first time she had spoken 
 
 He let a breath go.
 
-Then he turned and looked, for a long moment, at his sister.
+Then he turned and looked at his sister.
 
 She looked back at him. She did not nod, or frown, or do anything at all that anyone at that table would have been able to read. But he had known her face since before either of them could walk, and he saw it. *Go on. Say it. He needs to hear it.*
 
@@ -90,7 +90,7 @@ She said it quietly, to no one in particular, and her eyes had gone very slightl
 
 "Forgive me," she said. "It's an old saying in the house. It's what we tell children when they first learn to hold their breath in the working. It came into my head." She inclined her head toward the prince, very slightly. "What you've built is remarkable. I mean that. I've never seen anyone hold that much in." She paused. "I'd only say that when you do want to know more about it, about where it came from and where it goes, there are old books in this valley that might interest you. And there are people here who'd be glad to read them with you."
 
-Naiser did not look at her. He did not need to.
+Naiser did not look at her.
 
 What he felt in her threads ran deeper than anything the others could have read in her face. Under the composure there was something that had very little to do with breath or chambers or the old reinforcement arts. She had been watching the prince since he came through the door. She had watched him look at her, and look away again. She had watched him grin over a dead man. She had found most of it, if Naiser was any judge, distinctly unsavoury, and she had very nearly let it show at the table when the Sovereign's hand came down.
 
@@ -110,7 +110,7 @@ Naiser let her have that one.
 
 "As for the Moto," he said.
 
-He was quiet for a moment, looking out through the open screens at the three standing stones in their white gravel.
+He was quiet for a moment, looking out through the open screens at the three standing stones in their white gravel, where the sun had laid their shadows long and blue across the raked lines and lit the orange lichen on their shoulders like embers.
 
 "I think it's time we stopped fighting," he said. "All of us. I don't think the Moto will start another war with either of our houses. Not for a very long time. I don't think they're capable of it. They're facing a civil war of their own now, the Tenrai drawing in all the other lines under one hand and every one of their own people pushing back against it, and I don't believe they'll come through it whole. Let alone with the strength left to threaten anyone else in the years to come." He shook his head. "They've lost every ally they ever had. Every one. They spent them, one after another, through the war, the way a man spends coins out of a purse he thinks will never empty. The Seikai. The Mahuo. Gimbzo's own lines. They squandered all of it. And they're learning now what everyone who has ever tried it learns in the end." He looked back at the Sovereign. "You can only force something into submission for so long."
 
@@ -128,7 +128,7 @@ His eyes had changed. The violet-black ring round the pupil had brightened, a li
 
 The silver went out of his eyes. The thread-marks dimmed.
 
-He looked down at his cold tea, and then up again, and he was only Naiser, sitting at a low table in a cedar hall with his hands on his knees.
+He looked down at his cold tea, and then up again, and he was only Naiser, sitting at a low table in a cedar hall with his hands on his knees and the light going amber on the boards around him.
 
 "I'd rather be standing beside Kushara when it comes," he said, "than across a battlefield from it. That's the whole of my answer, Sovereign. Everything else is wording."
 
@@ -164,3 +164,5 @@ Naiser sat quietly beside her, with his katana lying sheathed at his right hand 
 - **The Kōkan and the vision tie to Muken.** Naiser believes no Kōkan survive. There was one war, forty years long, and it ended about a month before *The Uncounted* opens; Muken was born about sixteen years ago, inside it, and Kasane came to the Halcrest Cuttings with him about sixteen years ago, under no name the clerks would take. Naiser's clouded vision of something great, already set moving, is Muken, the White Wolf (settled 2026-10-20); it stays faceless here because Naiser cannot see it yet.
 - **Gimbzo.** His old First-Eon card is being rewritten to the new lore: the Kōkan king who purged his own line and ruled forty years from the saddle. I gave him only what you and Dougou's player stated, plus Naiser's line that Gimbzo sent riders asking the Yukari to join him, in the second and third of the war's last four years. How Dougou killed him stays with Dougou's player.
 - **Length.** About 3,750 words. Past tense, to match the thread.
+
+**Revision 2026-10-24.** Warmed the hall with the turning afternoon (honey-coloured light across the table, blue shadows and ember-orange lichen on the standing stones, amber on the boards at the close) and cut a long-look tic and a needless-emphasis tic. Every beat and every line of Isaac's is kept, and every passage describing Shaka-Al and Dougou is untouched.

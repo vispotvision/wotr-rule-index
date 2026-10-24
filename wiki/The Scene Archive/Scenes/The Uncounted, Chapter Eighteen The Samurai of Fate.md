@@ -286,7 +286,7 @@ They looked at him.
 
 He had not spoken since the council began. He leaned forward now, in the red harness, and put one finger on the map, on the frozen line of the Marrow where it ran under the cliff below the Seat and round the foot of the rock to the ford.
 
-"Every Tenrai lord in the Seat will run when the wards go dead," he said quietly. "Not all of them. But most. I've seen them." The gold in his eye was very still. "They're humming fear. Every one of them. Fear of Kagenori, and fear of the silver chair, and fear of us. When the draw stops, the fear will win. And there's one way off that rock that isn't the main gate or a four-hundred-foot cliff." His finger moved. "The river postern. Under the Tenrai keep. Down a stair cut in the rock to the ice." He looked at Edric Ashmore. "Hold the river. Let them come down onto the ice. And then don't let them leave it."
+"Every Tenrai lord in the Seat will run when the wards go dead," he said quietly. "Not all of them. But most. I've seen them." The gold in his eye held steady as a lamp-flame behind glass. "They're humming fear. Every one of them. Fear of Kagenori, and fear of the silver chair, and fear of us. When the draw stops, the fear will win. And there's one way off that rock that isn't the main gate or a four-hundred-foot cliff." His finger moved. "The river postern. Under the Tenrai keep. Down a stair cut in the rock to the ice." He looked at Edric Ashmore. "Hold the river. Let them come down onto the ice. And then don't let them leave it."
 
 Ashmore looked at him for a long moment. Then he nodded slowly.
 
@@ -304,7 +304,7 @@ Three thousand and more of them. Stark riders and Greymane foot, Byakuya and Aka
 
 On the third morning, in the grey before the first bell, they stood on the ice of the Marrow below Kharven-Seat.
 
-It stood up out of the white country like a fist. A great dark rock rising sheer out of the frozen river on the west, four hundred feet of grey cliff with the silver house of the Shirogane perched on a terrace halfway up it like a bird on a ledge, and above that the long black roof of the Hall of Verdicts on the crown, and the Tenrai keep on the east, and walls everywhere, grey stone, grey and gold, with the Tenrai banners hanging from them in the still cold air. The gold on the walls caught what light there was. And under everything, through the rock and the walls and the ice under their feet, they could hear it. The draw-hum. The low steady sound of the Guild main coming up from the south under the river through its brass and slate, feeding the wards. It had been humming under the Seat for three hundred years. It had never once stopped.
+It stood up out of the white country like a fist raised to the sky, and it was beautiful. Nobody in the column had expected that. A great dark rock rising sheer out of the frozen river on the west, four hundred feet of cliff veined with frost that glittered rose and pale gold where the first light touched it, and lit all the way up its face, in the dark before dawn, by lamps. Worked lamps, hundreds of them, in cages of brass along the cliff stair and the terraces and the long curtain walls, burning a steady amber that never flickered, so that the whole rock seemed strung with beads of honey. Halfway up it the silver house of the Shirogane sat on its terrace like a bird on a ledge, its tall windows glowing blue-white from within. Above that the long black roof of the Hall of Verdicts on the crown, steaming faintly where the snow melted off it over the heated stone. The Tenrai keep on the east, its gold leaf catching the lamplight in long bright bars. A lift-cage of black iron and brass hung on its cables from the cliff-top to the river ford, lit inside like a lantern. And down at the foot of the rock, where the poor of the Seat lived in the lower town along the river, a thousand small orange points of oil-light, crowded together, the smoke of their chimneys going straight up in the still air into the last of the aurora, which hung over the whole of it in a slow green curtain fading into the blue of the morning. The Tenrai banners hung gold and crimson from every wall. And under everything, through the rock and the walls and the ice under their feet, they could hear it. The draw-hum. The low steady sound of the Guild main coming up from the south under the river through its brass and slate, feeding the wards. It had been humming under the Seat for three hundred years. It had never once stopped.
 
 Muken stood on the ice at the head of the Stark vanguard at the foot of the south road, in the red harness, with the bare black helmet on his head now and the grey blade at his hip, and looked up at the main gate.
 
@@ -326,7 +326,7 @@ It did not stop at once. It stuttered. It went up in pitch, high and thin and wa
 
 The silence came down on Kharven-Seat like snow.
 
-Every man on the ice heard it. The absence of a sound that had always been there. The Seat stood up out of the frozen river in the grey light with its walls and its gold and its banners, and for the first time in three hundred years it was utterly, perfectly silent, and on the walls the men in Tenrai gold stood and looked at each other, and somebody on the gatehouse began to shout.
+Every man on the ice heard it. The absence of a sound that had always been there. And then they saw it. Up the whole face of the rock, the worked lamps went out. Not all at once: in a long falling ripple, terrace by terrace, from the crown down, like a string of beads cut and sliding off the thread, amber, amber, dark. The blue-white glow in the tall windows of the silver house went dim and died. The steam stopped rising off the roof of the Hall. Halfway up its cables, the lift-cage jerked, and swung, and hung there, and its light went out. Only the orange oil-lights of the lower town along the river were left burning, small and crowded and stubborn, the way they had always burned. The Seat stood up out of the frozen river in the grey morning with its walls and its gold and its banners, dark from crown to foot, and for the first time in three hundred years it was utterly, perfectly silent, and on the walls the men in Tenrai gold stood and looked at each other, and somebody on the gatehouse began to shout.
 
 Muken drew Tsugigane.
 
@@ -362,11 +362,31 @@ And the Tenrai lords ran.
 
 Muken had told them they would, and they did. Not all of them. But most. Down the river stair under the Tenrai keep, with their families and their gold and their fear, onto the ice of the Marrow, where Edric Ashmore and his horse were waiting. A few of them tried to fight on the ice. Most of them knelt.
 
-The Haldorsson Keld fought to the last. They were Keld, and they had nowhere left to go, and they did not know how to kneel. They fought in the Hall square with their birch lances and their short axes and their glass-headed arrows, without the lifting, without the white cloths, without the Iron Fist, against three thousand, and Muken watched them do it from the broken gate with his hand on Tsugigane's hilt, and did not draw it. When it was over, there were perhaps forty of them left alive, and Lorn Stark had them disarmed and their wounded carried to Kiyome, and did not ask anyone's leave.
+The Haldorsson Keld fought to the last. They were Keld, and they had nowhere left to go, and they did not know how to kneel. They fought in the Hall square with their birch lances and their short axes and their glass-headed arrows, without the lifting, without the white cloths, without the Iron Fist, against three thousand, and Muken watched them do it from the broken gate with his hand on Tsugigane's hilt, and did not draw it. He had sworn. Nothing living that did not need cracking. These were men, and they were fighting for the only thing they had left, and the Starks would have to do it the hard way.
+
+The Starks did it the hard way.
+
+Rob Stark died in the Hall square at the fourth hour, under the black eaves of the Hall of Verdicts, in front of the doors.
+
+He had been at the front all morning. He always was. Rough and cheerful and hoarse, the one who had shouted *We know!* across the Skeldmere at a Tenrai agent standing in his stirrups, the one Yukazuri had sewn up at the Foot while he cursed her and then slept. He had gone into the Haldorssons in the square with his axe and his limewood shield and the boy with the red ears at his left hand, because the boy would not stay at the back, and when a Haldorsson came at the boy low from the side with a birch lance, Rob Stark stepped across him.
+
+The leaf-shaped head went in under his right arm, where the mail gapped at the armpit. Through the rings and the wool and between the ribs, deep. He did not fall at once. He put his axe into the Haldorsson's skull with the lance still in him, and then he sat down on the cobbles of the Hall square in the sudden quiet with his back against the black stone of the Hall's stair, the shaft standing out of his side, and looked surprised.
+
+Lorn reached him first. Mark a breath after.
+
+There was no saving it. Muken knew that from twenty paces, through the gold: the line of the lance through the chest, the lung on that side filling, the great vessel under it opened. Kiyome knew it when she came running across the square in her white with her hands already red from the wounded. She knelt beside him anyway, and looked, and then looked at Lorn, and did not say anything, and that was how Lorn knew.
+
+Rob Stark looked up at his brother, and at Mark, and at the boy with the red ears, who was on his knees on the cobbles with his hands over his mouth.
+
+"Tell her," said Rob. It came out wet. He was smiling. "The little surgeon. Tell her I didn't..." He coughed, and there was a great deal of red in it, very bright on the grey stone. "Tell her I didn't scream this time."
+
+Then he was gone.
+
+Lorn Stark knelt on the cobbles of the Hall square with his brother's head in his lap and did not move, while the last of the Haldorssons went down around them. When it was over, there were perhaps forty of them left alive, and Lorn got up off the cobbles, with his brother's blood to the elbows, and had them disarmed and their wounded carried to Kiyome, and did not ask anyone's leave. Muken watched him do it. He thought it was the bravest thing he had seen all day.
 
 It was not a siege. It was not a battle. Afterward, when the chroniclers tried to write it, they found they had no word for it. The Tenrai had held Kharven-Seat for three hundred years. They had the Hall and the cliff and the walls and the wards and twelve hundred house-guard and six hundred Keld and every practitioner of the seven lines who had stood behind Kagenori. They had their word, and their name, and their power.
 
-By noon on the third day, they had nothing.
+By noon on the third day, they had nothing. And the north had paid for the Seat with Rob Stark, and with ninety-one others, Starks and Greymanes and Thornwall pikes, whose names Ilse Hallenfeld wrote down that evening in her ledger in her fine cold hand, one by one, without being asked.
 
 To say they were defeated would have been an understatement. The Tenrai of Kharven-Seat were not defeated. They were obliterated. Ended. The way a rope ends, that has been rotten at the core for longer than anyone remembers, the moment someone finally finds its note.
 
@@ -462,19 +482,19 @@ Nobody had shut the doors. There was nobody left in it to shut them. The servant
 
 Muken walked down the length of it alone.
 
-The floor was pale grey stone polished until it held the light like still water. It was very clean. He walked across it, in the red harness and the bare black helmet, with Tsugigane in its saya at his hip, and did not look down. He did not need to. He could hear it. Under the polish, in the stone, near the foot of the dais, there was a note. Very faint. The note of a place where something had been spilled, and wiped up, and wiped up again, until there was nothing left to see.
+The floor was pale grey stone polished until it held the light like still water. It was very clean. He walked across it, in the red harness and the bare black helmet, with Tsugigane in its saya at his hip, and did not look down. He could hear it. Under the polish, in the stone, near the foot of the dais, there was a note. Very faint. The note of a place where something had been spilled, and wiped up, and wiped up again, until there was nothing left to see.
 
 He stopped at the foot of the dais.
 
 Kagenori Tenrai Moto was sitting on the lowest step.
 
-He was sitting the way a tired man sits on a stair at the end of a long day, with his elbows on his knees and his narrow head bowed, in his gold-trimmed black. He was quite still. There was a small cup of black lacquer on the step beside him, empty, and a folded letter on the step beside the cup, sealed in gold, and on the face of the letter, in a fine hand, a single word. A name.
+He was sitting the way a tired man sits on a stair at the end of a long day, with his elbows on his knees and his narrow head bowed, in his gold-trimmed black. There was a small cup of black lacquer on the step beside him, empty, and a folded letter on the step beside the cup, sealed in gold, and on the face of the letter, in a fine hand, a single word. A name.
 
 He had been dead for some hours.
 
 Muken stood and looked at him for a long time.
 
-He could see the thread. The one he had seen in the place where the threads run. A thread of gold running out of the man in gold-trimmed black at the foot of the empty dais, humming grief. It was not humming any more. It was quite still. But it was there, and it ran up the dais, three steps, to the silver chair.
+He could see the thread. The one he had seen in the place where the threads run. A thread of gold running out of the man in gold-trimmed black at the foot of the empty dais, humming grief. It had stopped humming. But it was there, and it ran up the dais, three steps, to the silver chair.
 
 Shizuha Shirogane was sitting in it.
 
@@ -525,3 +545,6 @@ Behind him, in the silver chair, Shizuha Shirogane sat very upright with her han
 ---
 
 *Author notes for Chapters Sixteen to Nineteen are at the end of Chapter Nineteen.*
+
+
+**Revision 2026-10-24.** Brought Kharven-Seat to light as the city it is (worked lamps in brass cages up the whole rock, the silver house's blue-white windows, the heated Hall roof, the lift-cage, the lower town's oil-lights, the aurora) and made the draw-cut visible as the lamps die terrace by terrace. Added the Seat's cost: Rob Stark dies in the Hall square stepping across the boy with the red ears ("Tell her I didn't scream this time"), and ninety-one others are recorded by Ilse Hallenfeld. Tics trimmed. All of Isaac's beats and lines kept.

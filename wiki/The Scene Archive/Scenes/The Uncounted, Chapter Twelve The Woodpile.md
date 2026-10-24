@@ -14,7 +14,7 @@ source: scenes/the_uncounted_chapter_twelve_the_woodpile.md
 
 They lit the yard with everything the Foot had left to burn.
 
-Torches of split pine soaked in seal fat, jammed into the cracks of the curtain wall every ten paces. Two iron braziers dragged out of the Tenrai guardroom and filled with the last of the stable timber, so that the charred ends of the old stalls stood up out of the flames like the ribs of something that had died there. The blubber lamps from the barracks, every one, set in a long row along the top of the woodpile, spitting and stinking of fish-oil and hot tallow, their light coming up yellow off the pale ends of the split wood. And over all of it, very high, very faint, the green of the northern sky moving behind the cloud like something turning over in its sleep.
+Torches of split pine soaked in seal fat, jammed into the cracks of the curtain wall every ten paces. Two iron braziers dragged out of the Tenrai guardroom and filled with the last of the stable timber, so that the charred ends of the old stalls stood up out of the flames like the ribs of something that had died there. The blubber lamps from the barracks, every one, set in a long row along the top of the woodpile, spitting and stinking of fish-oil and hot tallow, their light coming up yellow off the pale ends of the split wood. And over all of it, very high, very faint, the green of the northern sky moving behind the cloud like something turning over in its sleep, with a hem of violet showing where the cloud thinned.
 
 It was cold enough that the snow squeaked underfoot. The breath of six hundred people stood over the yard in a single low white cloud, and the torchlight went into it and stayed there, so that the whole of Kharven's Foot seemed to be lit from inside a lamp of frost.
 
@@ -42,7 +42,7 @@ She had come out of the surgeons' line with her sleeves still rolled to the elbo
 
 She had listened to every word without moving.
 
-When he finished she had been quiet for a long moment. Then she had taken her red hand out of her lap and drawn the mark on the canvas of the tent wall beside her, in the blood on her fingers, the long down-stroke and the hook and the crossing and the small closed loop like a knot in a rope. Perfectly, the way she always drew it. And she had looked at it, and then at him.
+When he finished she had been quiet while the lamp burned a little lower. Then she had taken her red hand out of her lap and drawn the mark on the canvas of the tent wall beside her, in the blood on her fingers, bright on the pale cloth. Perfectly, the way she always drew it. And she had looked at it, and then at him.
 
 *So that's whose it was,* she had said.
 
@@ -56,9 +56,9 @@ She stood at the front of the yard now with her sleeves rolled up in the cold an
 
 "I have to tell you something," said Muken.
 
-He did not raise his voice. He did not need to. The yard was so quiet that the words went out over it like a stone over still water, and the breath-cloud moved when he spoke, a little, and settled again.
+He did not raise his voice. The yard was so quiet that the words went out over it like a stone over still water, and the breath-cloud moved when he spoke, a little, and settled again.
 
-"Something I learned this morning," he said. "From these three." He did not point. He did not need to. Six hundred heads turned, very slightly, toward the three trampled places in the snow, and turned back. "I'll tell you all of it. And when I've told you, I want you to know that if it changes who I am to you, you don't owe me anything. Not one step. You knelt here because you chose to. If you want to choose different, you can do it here, tonight, by the same wood, and no man of mine will lift a hand to stop you."
+"Something I learned this morning," he said. "From these three." He did not point, and six hundred heads turned anyway, very slightly, toward the three trampled places in the snow, and turned back. "I'll tell you all of it. And when I've told you, I want you to know that if it changes who I am to you, you don't owe me anything. Not one step. You knelt here because you chose to. If you want to choose different, you can do it here, tonight, by the same wood, and no man of mine will lift a hand to stop you."
 
 He paused. The braziers cracked.
 
@@ -82,7 +82,7 @@ Muken let it all happen. He did not look away from any of it. He stood at the fo
 
 Then he lifted his voice, for the first time.
 
-"But I don't want you to follow me because of my name," said Muken. "Hear me. Not because I'm a Moto. Not because I'm his. Not because three lords of the seven lines rode four hundred miles to tell me what blood I've got in me." His eyes went over the yard, slowly, from the stretchers to the vanguard boys to the grey-bearded Stark who had spat. "That blood never did one thing for any of you except take. If that's all I am, then put me on a post, and burn me with this wood, and I'll not blame you."
+"But I don't want you to follow me because of my name," said Muken. "Hear me. Not because I'm a Moto, not because I'm his, not because three lords of the seven lines rode four hundred miles to tell me what blood I've got in me." His eyes went over the yard, slowly, from the stretchers to the vanguard boys to the grey-bearded Stark who had spat. "That blood never did one thing for any of you except take. If that's all I am, then put me on a post, and burn me with this wood, and I'll not blame you."
 
 He took one step forward, off the foot of the woodpile, into the trampled snow.
 
@@ -90,7 +90,7 @@ He took one step forward, off the foot of the woodpile, into the trampled snow.
 
 The breath-cloud moved over the yard and settled.
 
-Nobody said anything. Nobody moved.
+The yard held its breath and its ground.
 
 And then Muken turned his head, and looked at the three trampled places in the snow, and the three people standing in them, and the yard turned its head with him.
 
@@ -106,7 +106,7 @@ She came forward out of her trampled space into the light of the nearest brazier
 
 "Do you, Kiyome Byakuya," said Muken, "of the White Line, commit yourself to the sanctity of the people? And give up your land, and your power, to me? The true King of the Clans. And Leader of the Banner Houses."
 
-Kiyome looked at him for a long moment, in the torchlight, with the frost standing on the shoulders of her robes.
+Kiyome looked at him in the torchlight, with the frost standing on the shoulders of her robes and glittering there like ground glass, and took her time.
 
 Then she bowed. The white line bowed to a lord of the seven by the finger's width, small and exact; she bent from the waist until her loose white hair fell forward past her face, and held it there, in front of six hundred people in the snow.
 
@@ -134,11 +134,11 @@ He said it plainly, without any ceremony at all, the way he said distances.
 
 "Tetsugen Akagane," said Muken.
 
-The great bald man did not come forward. He stood where he was, beside the Stark farrier, broad as a door, with the copper of his coat gone black in the cold and his scarred hands on his belt, and let the yard come to him the way the boy had let the room come to him that morning.
+The great bald man did not come forward. He stood where he was, beside the Stark farrier, broad as a door, with the copper of his coat gone black in the cold except where the brazier found it and lit it red-bronze, and his scarred hands on his belt, and let the yard come to him the way the boy had let the room come to him that morning.
 
 "Do you, Tetsugen Akagane," said Muken, "Leader of the Copper Line, of the Blood and Heart Arts, commit yourself to the sanctity of the people? And give up your land, and your power, to me? The true King of the Clans."
 
-Tetsugen looked at him from under his thick grey brows for a long time. Long enough that somebody in the crowd shifted their feet on the squeaking snow.
+Tetsugen looked at him from under his thick grey brows, and kept looking. Long enough that somebody in the crowd shifted their feet on the squeaking snow.
 
 "I do," said Tetsugen Akagane.
 
@@ -168,7 +168,7 @@ He looked out over them.
 
 He took a breath.
 
-"And there's another thing you'll carry home," he said. "Every one of you. To every long house that ever buried a son on a southern field." He looked straight out at the grey-bearded rider who had spat. "Under my rule, no Moto will ever march on the Zettari again. Or anyone else's land. Not a levy. Not a column. Not one of your boys sent south to die in somebody else's war. We'll hold the north, and we'll hold it well, and we'll reach for nothing past it." His voice hardened. "I swore it this morning. By my honour. You can hold me to it."
+"And there's another thing you'll carry home," he said. "Every one of you. To every long house that ever buried a son on a southern field." He looked straight out at the grey-bearded rider who had spat. "Under my rule, no Moto will ever march on the Zettari again. Or anyone else's land. No levy, no column, not one of your boys sent south to die in somebody else's war. We'll hold the north, and we'll hold it well, and we'll reach for nothing past it." His voice hardened. "I swore it this morning. By my honour. You can hold me to it."
 
 The grey-bearded rider looked back at him. He did not spit again.
 
@@ -240,13 +240,13 @@ Muken stood in the middle of it.
 
 He did not lift his hands. He did not smile. He stood at the foot of the woodpile with his sister at his right knee holding up her bloody mark, and the dog howling at his left, and Lorn Stark and Godfrey Greymane a pace behind him with their fists on their chests, and he let it come.
 
-Down at the front, in the light of the brazier, Kiyome Byakuya had her eyes closed and her lips moving. Tetsugen Akagane had not knelt, and would not, but he had his hand on his chest still and his heavy jaw set like a stone. And by the other brazier, Hayato Amagiri was looking past all of it, past the yard and the kneeling crowd and the boy at the woodpile, at the postern gate standing a little open in the wall and the black cold beyond it, where somewhere out on the snow a single carter was walking south and east toward the Keld fires with the whole of it in his mouth.
+Down at the front, in the light of the brazier, Kiyome Byakuya had her eyes closed and her lips moving. Tetsugen Akagane had not knelt, and would not; he had his hand on his chest still and his heavy jaw set like a stone. And by the other brazier, Hayato Amagiri was looking past all of it, past the yard and the kneeling crowd and the boy at the woodpile, at the postern gate standing a little open in the wall and the black cold beyond it, where somewhere out on the snow a single carter was walking south and east toward the Keld fires with the whole of it in his mouth.
 
 *Two days,* thought Hayato. *He'll be there in one.*
 
 He did not say it. Nobody would have heard him.
 
-Over the yard, high up, behind the cloud, the green of the northern sky turned over once more in its sleep. And the chant went on, and on, and the woodpile stood behind the king of the north as high as a man's shoulder, every split end of it pale in the torchlight, the fullest stack in Kharven.
+Over the yard, high up, the green of the northern sky turned over once more in its sleep, and for the space of a few breaths it broke clear of the cloud, green and violet in long slow folds over the blank white banner, so that the banner took the colour of it and burned there like a lantern. And the chant went on, and on, and the woodpile stood behind the king of the north as high as a man's shoulder, every split end of it pale in the torchlight, the fullest stack in Kharven.
 
 ---
 ---
@@ -284,3 +284,5 @@ Over the yard, high up, behind the cloud, the green of the northern sky turned o
 **Kharven Inventory used:** the woodpile and the full stack, the breath-cloud, blubber lamps and seal fat, snow squeaking in deep cold, frost-stiff hide creaking at the elbow, aurora green, "when there was still grass," and the Stark fist on the chest.
 
 **Rule ids that most constrained it:** R70-114 (the warm bond: Yukazuri), R74-22 (the reveal lands cold, then the cluster), R72-21 (a Front ticks: the carter to the Keld), R72-25 (a tell: the spit, the folded arms), R70-50 (one changed detail on return: Kiyome's untied cord).
+
+**Revision 2026-10-24.** Lifted the torchlit yard's colour from what is there (violet at the aurora's hem, frost glittering on Kiyome, Tetsugen's copper red-bronze in the brazier light, Yukazuri's blood bright on the tent canvas, and the aurora breaking clear over the white banner at the close), no magitech at the frontier fort, and trimmed the tics (did not need to, long moments, Nobody said anything, the full mark kept only at the yard's payoff) and three countdown/antithesis runs by punctuation only; every beat and Isaac's lines are kept.

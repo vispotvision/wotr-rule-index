@@ -6,15 +6,15 @@
 
 There were seven chairs in the Hall of Verdicts, and six of them were filled.
 
-The hall was the oldest room in the Moto seat, and the seat was the oldest thing in the western shield, and there were scholars in the Holy Sea who argued that the hall was older than the Moto themselves and that the house had only moved into it, the way a hermit crab moves into a shell. It was round. Its walls were a dark grey stone so close-grained that it took a polish like iron, and they rose without a single window to a dome that was lost in shadow, and from somewhere up in that shadow, on a chain too long to see the end of, hung a great ring of black iron set with oil lamps that burned without smoke. The floor was the same stone as the walls. Cut into it, in a circle that ran just inside the line of the chairs, was a band of script no living scholar could read, deep and clean, as fresh as the day it was carved. Prisoners were made to kneel inside that circle. The house said that the script listened.
+The hall was the oldest room in the Moto seat, and the seat was the oldest thing in the western shield, and there were scholars in the Holy Sea who argued that the hall was older than the Moto themselves and that the house had only moved into it, the way a hermit crab moves into a shell. It was round. Its walls were a dark grey stone so close-grained that it took a polish like iron, and they rose without a single window to a dome that was lost in shadow, and from somewhere up in that shadow, on a chain too long to see the end of, hung a great ring of black iron set with worked lamps in iron cages, each with a Guild seal stamped in brass on its collar, that burned a steady gold without smoke or smell. They drew from the great main in the rock under the hold, and the draw came up through the walls with it, a low hum felt in the teeth and the breastbone more than heard, so that the whole round room seemed to be holding one long note. The floor was the same stone as the walls, and the Guild had laid heated lines under it, so that even in the dead of the northern winter it was warm to kneel on. Cut into it, in a circle that ran just inside the line of the chairs, was a band of script no living scholar could read, deep and clean, as fresh as the day it was carved. Prisoners were made to kneel inside that circle. The house said that the script listened.
 
 The seven chairs stood round the outside of it, facing in.
 
 They were not thrones. The Moto had always been very careful about thrones. Each was a plain high-backed seat of black wood on a low stone dais, and each was dressed in the colours of its line, so that a man brought in to kneel at the centre of the hall could turn his head and know, without a word spoken, exactly who was going to decide whether he lived.
 
-Bright hard silver for the Shirogane. Copper and raw red-bronze for the Akagane. Unrelieved black and ash for the Kurenai, with the crimson kept to a single hidden thread. Near-white for the Byakuya, pale as a church. Gold and banner-heraldry for the Tenrai. Indigo and mist-grey for the Amagiri.
+Bright hard silver for the Shirogane. Copper and raw red-bronze for the Akagane. Unrelieved black and ash for the Kurenai, with the crimson kept to a single hidden thread. Near-white for the Byakuya, pale as a church. Gold and banner-heraldry for the Tenrai, the banner behind the chair worked so thick with gold thread that it threw the lamplight back like a shield. Indigo and mist-grey for the Amagiri, deep as a lake at dusk.
 
-And red enamel over near-black steel, with a lion's head in a boss at the crest, for the Kōkan.
+And red enamel over near-black steel, with a lion's head in a boss at the crest, for the Kōkan: a red so deep and live under the gold lamps that it looked wet.
 
 The Kōkan chair was empty. The seventh chair had not been sat in since the war began. Gimbzo had ruled from a saddle and a tent and left it to the dust, so that every lord at the ring would look at it and know he could walk in any day and take it. Nobody had moved it in all that time, and nobody had ever had it taken out, and there was a fine grey skin of dust on its arms that the servants who swept the hall had been told, forty years ago, never to touch. The lion on its crest looked down at the centre of the floor with blind enamel eyes. Under it, on the night of the verdict, Torvald Stark knelt in chains.
 
@@ -30,9 +30,9 @@ He lifted his head and looked up at the Moto.
 
 Every child in the north was taught, before it was taught anything else, never to meet a Moto's eye. The Moto read through the eyes. A man who met them had opened his door. Torvald had been taught it as a boy at his grandmother's knee, and he had taught it to his own sons, and he lifted his one good eye now and looked straight into the faces of the six most powerful people in the Inner World, one after another, slowly, the way a man looks over horses at a fair.
 
-Kagenori Tenrai sat in the gold chair. He was a lean man of middle years, narrow-faced and very still, with grey at his temples and a mouth like a closed purse, and the Moto blood showed on him plainly: the faint metallic sheen at the brow and the temple, catching the lamplight like old brass, and the ring-lines in the iris that sharpened when he looked at something he meant to keep. He wore gold-trimmed black, and behind his chair hung the Tenrai banner, and he was the one who had called the council. Everyone in the hall knew he was the one who meant to keep it.
+Kagenori Tenrai sat in the gold chair. He was a lean man of middle years, narrow-faced and motionless as a heron, with grey at his temples and a mouth like a closed purse, and the Moto blood showed on him plainly: the faint metallic sheen at the brow and the temple, catching the lamplight like old brass, and the ring-lines in the iris that sharpened when he looked at something he meant to keep. He wore gold-trimmed black, and behind his chair hung the Tenrai banner, and he was the one who had called the council. Everyone in the hall knew he was the one who meant to keep it.
 
-Shizuha Shirogane sat in silver at his right. She was older than him, and very upright, a small grey-haired woman with a face like a hatchet and silver at her collar and her wrists and in the pins in her hair, and she had not looked at the prisoner once since he was brought in. Tetsugen Akagane, in copper, was the biggest of the six: thick-necked, heavy-handed, bald as a stone, with a jaw that worked continually as though he were chewing on something he did not like the taste of. Sumie Kurenai sat in black. She was perhaps forty, pale, thin as a rope, with her hair cut short at the jaw and ink-dark eyes that did not seem to blink, and her hands lay very still in her lap, and there was nothing of crimson about her anywhere that Torvald could see. Hayato Amagiri, in indigo and grey, was the youngest of them, a slight sharp man with restless fingers who sat a little forward in his chair and kept glancing, without seeming to know he did it, at the hall's single door.
+Shizuha Shirogane sat in silver at his right. She was older than him, and very upright, a small grey-haired woman with a face like a hatchet and silver at her collar and her wrists and in the pins in her hair, and she had not looked at the prisoner once since he was brought in. Tetsugen Akagane, in copper and red-bronze that glowed like a banked forge under the lamps, was the biggest of the six: thick-necked, heavy-handed, bald as a stone, with a jaw that worked continually as though he were chewing on something he did not like the taste of. Sumie Kurenai sat in black. She was perhaps forty, pale, thin as a rope, with her hair cut short at the jaw and ink-dark eyes that did not seem to blink, and her hands lay folded in her lap, and there was nothing of crimson about her anywhere that Torvald could see. Hayato Amagiri, in indigo and grey, was the youngest of them, a slight sharp man with restless fingers who sat a little forward in his chair and kept glancing, without seeming to know he did it, at the hall's single door.
 
 And Kiyome Byakuya, in white.
 
@@ -80,7 +80,7 @@ He did not wait for her to answer.
 
 "Some of the story is true," Kiyome said.
 
-The hall went very quiet.
+The hall went quiet around the hum.
 
 Kagenori did not look away from her. "All the best lies are," he said.
 
@@ -90,7 +90,7 @@ Across the circle, Tetsugen Akagane grunted, a heavy sound low in the chest, and
 
 They all looked at him. He did not seem to enjoy it.
 
-"I don't like you, Kagenori," he said. "I want that said, here, where the script can hear it. I've never liked you, I don't like what you've done with the roads, and I don't like how quick you are to put the word *house* in front of whatever it is you happen to want." He rubbed his jaw with one enormous copper-ringed hand. "But you're right about this. He's right," he said, to Kiyome. "We can't let them think they've got the upper hand. Not now. Not with Gimbzo dead and every line in the house looking at the others to see who flinches first. We let the Stark walk out of here, or we let him sit in a cell for a year while we argue about it, and every man with a scythe in the north will know we were afraid to finish it."
+"I don't like you, Kagenori," he said. "I want that said, here, where the script can hear it. I've never liked you, I don't like what you've done with the roads, and I don't like how quick you are to put the word *house* in front of whatever it is you happen to want." He rubbed his jaw with one enormous copper-ringed hand. "But you're right about this. He's right," he said, to Kiyome. "We can't let them think they've got the upper hand. Not now, with Gimbzo dead and every line in the house looking at the others to see who flinches first. We let the Stark walk out of here, or we let him sit in a cell for a year while we argue about it, and every man with a scythe in the north will know we were afraid to finish it."
 
 He did not look at the soldier at the end of the row as he said it. He very carefully did not look.
 
@@ -134,7 +134,7 @@ Torvald leaned forward against the chain at his waist, as far as it would let hi
 
 The hall changed.
 
-Torvald felt it. Every man and woman kneeling in the circle felt it. The lamps in the great iron ring overhead did not flicker, but their light seemed to draw in, all at once, a little closer to the flames, as if something enormous had taken a breath. The script cut into the floor under his knees grew cold, the way iron is cold at thirty below, so that it burned through the cloth at his knees and into the bone. The silver in his chains bit harder.
+Torvald felt it. Every man and woman kneeling in the circle felt it. The lamps in the great iron ring overhead held steady, and yet their light seemed to draw in, all at once, a little closer to their cages, as if something enormous had taken a breath, and the draw-hum in the walls dropped half a tone. The warm floor stayed warm. The script cut into it under his knees grew cold, the way iron is cold at thirty below, so that it burned through the cloth at his knees and into the bone. The silver in his chains bit harder.
 
 Six heads had turned toward him. Six pairs of eyes were looking at him, and in every one of them the ring-lines had sharpened, and in some of them the iris had begun to break up into fine patterns like frost on a pane, shards and lines and turning rings of light, and Torvald understood that six of the oldest bloodlines in the world were reading him at once. He felt it like hands. Like six sets of fingers going through him, through his face and his chest and the back of his skull, turning him over, looking for the lie.
 
@@ -160,7 +160,7 @@ It was the first time his voice had risen. It was not much. It was enough.
 
 Every head in the hall turned to the black chair.
 
-Sumie Kurenai did not speak. She drew a breath, very slowly, and her hands in her lap closed into fists, and the colour did not come back into her face.
+Sumie Kurenai did not speak. She drew a breath, slowly, and her hands in her lap closed into fists, and the colour did not come back into her face.
 
 "Kurenai," said Shizuha Shirogane.
 
@@ -168,11 +168,11 @@ It was the first word the old woman had spoken. Her voice was dry and thin and s
 
 "You told this council," she said, "that the register was closed. You told us the line was ended. You told us there was nothing left of them but a chair." She did not look at the chair. "You signed for it."
 
-"I signed for what I was shown," Sumie Kurenai said. Her voice was very low. "The register was closed. Every name that could be read was read out of it and every name that was read was ended. That is the truth. I would swear it before the script." She looked up, and her ink-dark eyes found the Shirogane's. "But there were marks in that register, Shizuha, that could not be read. Not by me. Not by anyone. Names written in a hand the instrument would not take." She swallowed. "We closed the book on what we could see. What we couldn't see, we called nothing. Because it gave us no reading. Because a thing that gives no reading is a thing that isn't there."
+"I signed for what I was shown," Sumie Kurenai said. Her voice was low. "The register was closed. Every name that could be read was read out of it and every name that was read was ended. That is the truth. I would swear it before the script." She looked up, and her ink-dark eyes found the Shirogane's. "But there were marks in that register, Shizuha, that could not be read, by me or by anyone. Names written in a hand the instrument would not take." She swallowed. "We closed the book on what we could see. What we couldn't see, we called nothing. Because it gave us no reading. Because a thing that gives no reading is a thing that isn't there."
 
 Torvald had spent half his life at fords and toll-gates listening to men explain themselves to him, and he knew the shape of what she had just done. Every word of it was true. She had laid them down one after another, carefully, the way a man lays flat stones over the mouth of a well, so that you could walk across them all day and never once hear the water underneath.
 
-Nobody said anything.
+The six chairs held their silence, silver and copper and gold, black and white and indigo, round the red one.
 
 Up in the dark of the dome, very faintly, something in the great iron ring creaked on its chain.
 
@@ -212,13 +212,13 @@ It was Kiyome Byakuya who broke it. She did not speak. She simply stood up, all 
 
 "Sit down, Kiyome," said Shizuha Shirogane.
 
-"I won't sign it. Not tonight. Not with what's just been said in this room." Her voice shook, very slightly, for the first time. "We've just been told that the Kōkan line is not ended. That this council was told it was ended on a reading that couldn't read. And the first thing we mean to do, the very first thing, is kill the only man in the Inner World who's willing to tell us so to our faces."
+"I won't sign it. Not tonight, with what's just been said in this room." Her voice shook, very slightly, for the first time. "We've just been told that the Kōkan line is not ended. That this council was told it was ended on a reading that couldn't read. And the first thing we mean to do, the very first thing, is kill the only man in the Inner World who's willing to tell us so to our faces."
 
 "He told us nothing," Kagenori said softly. "He told us a rumour he heard from a man who heard it from a woman."
 
 "He told us enough to turn Sumie white."
 
-Kagenori looked at her for a long moment. Then he turned his head, without hurry, and looked at the other four chairs.
+Kagenori let the hum of the hall fill the space where his answer should have been. Then he turned his head, without hurry, and looked at the other four chairs.
 
 "Shirogane," he said.
 
@@ -268,7 +268,7 @@ Sumie Kurenai set her feet.
 
 She cut.
 
-It was a clean cut. The Kurenai had been doing it for longer than there had been a Stark in the north, and they had made an art of it the way other lines made arts of reading or of war. The long blade came down in a single flat arc, and there was a sound like a heavy cleaver going through a joint on a butcher's block, and the edge passed through the back of Torvald's neck between the bones of the spine and on out through the throat, and stopped a finger's width above the stone. His head came off and struck the floor and rolled, once, and came to rest face up on the band of script, with the one good eye still open and the grin still on the ruined mouth. The body stayed kneeling for a heartbeat longer. Then the blood came out of it in a great pulsing rope, black under the lamps, and the knees went, and it fell forward onto its chest across the circle, and the chains rang on the stone.
+It was a clean cut. The Kurenai had been doing it for longer than there had been a Stark in the north, and they had made an art of it the way other lines made arts of reading or of war. The long blade came down in a single flat arc, and there was a sound like a heavy cleaver going through a joint on a butcher's block, and the edge passed through the back of Torvald's neck between the bones of the spine and on out through the throat, and stopped a finger's width above the stone. His head came off and struck the floor and rolled, once, and came to rest face up on the band of script, with the one good eye still open and the grin still on the ruined mouth. The body stayed kneeling for a heartbeat longer. Then the blood came out of it in a great pulsing rope, bright under the gold lamps as the enamel on the empty chair, and the knees went, and it fell forward onto its chest across the circle, and the chains rang on the stone.
 
 The blood ran out across the script. It filled the cut letters one by one, the way water fills a channel, and ran on round the circle in a slow red ring.
 
@@ -288,7 +288,7 @@ Kagenori Tenrai rose from his gold chair.
 
 Tetsugen Akagane said nothing. At the end of the row, young Ren had begun, very quietly, to weep.
 
-Kagenori turned to go. Then he paused, and looked back, not at the prisoners and not at the body, but at the lion on the crest of the seventh chair.
+Kagenori turned to go. Then he paused, and looked back past the prisoners and the body to the lion on the crest of the seventh chair.
 
 "And find them," he said. "Whatever it costs. Find out who heard it from whom, and who heard it from them, back to the woman, back to whoever was there. Kurenai. Amagiri. Every road, every register, every salt pan and mine and bonded house from here to the end of the world." His voice had gone very soft again. "Two children. Find them before anyone else does."
 
@@ -298,9 +298,9 @@ Kiyome Byakuya went last. At the edge of the dais she stopped, and turned, and c
 
 Then she stood, and went out, and did not look back at the chair.
 
-Nobody noticed, in the dark of the hall when the doors had shut, that Osbert Lambert had begun to count again.
+Nobody noticed, when the doors had shut and the servants had turned the worked lamps down to a red ember-glow in their cages, that Osbert Lambert had begun to count again.
 
-He was not counting carts this time. His lips were moving very slowly, over two words, the same two, again and again, the way a man goes over a figure he means to carry home and set down in a ledger somewhere it cannot be burned.
+He was not counting carts this time. His lips were moving slowly, over two words, the same two, again and again, the way a man goes over a figure he means to carry home and set down in a ledger somewhere it cannot be burned.
 
 *Two children.*
 
@@ -331,3 +331,5 @@ He was not counting carts this time. His lips were moving very slowly, over two 
 **Why Sumie goes white.** She is one of the few who knew a child escaped the cellars (with Shigure, Kagenori and a few Tenrai), and she buried it on the register's own logic. Her confession to Shizuha is true word for word and hides that; the pulled-back paragraph after the cut says so. She knew of one child; *two* is what breaks her face.
 
 **Rule ids that most constrained it:** R70-54 / R70-55 (first-sight inventories in the POV's order), R72-25 (live lies and tells: Kagenori's "a rumour from a man who heard it from a woman," and Sumie's confession), R70-69 (pressure in the room before the bodies: the lamps drawing in, the script going cold), R71-6 and the gore floor (the cut traced through the spine, full aftermath), R70-114 (warmth kept alive: Kiyome closing the eye).
+
+**Revision 2026-10-24.** Gave the Hall of Verdicts its Kharven-Seat magitech (worked lamps in iron cages with Guild seals, the draw-hum from the main in the rock, heated floors that make the script's cold land harder) and lifted the seven lines' colours in full, with Torvald's blood bright under the gold lamps; trimmed "very still", "for a long moment", "Nobody said anything", two antitheses and three countdowns in speech. Every beat and each of Isaac's lines is kept word for word.

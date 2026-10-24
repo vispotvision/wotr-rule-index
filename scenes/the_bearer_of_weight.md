@@ -6,7 +6,7 @@
 
 The tablet stood at the back of the hall where his father had set it, and Naiser sat in front of it in the dark.
 
-It was a single slab of grey limestone taller than a man, dressed flat on the face and left rough on the sides, so the marks of the quarry chisel still ran down its flanks in long shallow furrows. His father had cut it out of the hill behind the gate with his own hands, over the course of one whole winter, and had carried it down on a sledge with six men pulling and himself walking beside it with one palm laid on the stone, as if it were a horse that might bolt. He had carved the face himself as well. There was only one line on it, set at the height of a seated man's eyes, so that whoever read it had to be sitting to read it properly, and the letters were deep and plain and unornamented, cut with a patience Naiser had never once seen his father spend on anything else.
+It was a single slab of the valley's limestone taller than a man, grey with a warmth of honey in it where the light caught, dressed flat on the face and left rough on the sides, so the marks of the quarry chisel still ran down its flanks in long shallow furrows. His father had cut it out of the hill behind the gate with his own hands, over the course of one whole winter, and had carried it down on a sledge with six men pulling and himself walking beside it with one palm laid on the stone, as if it were a horse that might bolt. He had carved the face himself as well. There was only one line on it, set at the height of a seated man's eyes, so that whoever read it had to be sitting to read it properly, and the letters were deep and plain and unornamented, cut with a patience Naiser had never once seen his father spend on anything else.
 
 *Master the innards, and the outer world is yours to command.*
 
@@ -16,7 +16,7 @@ The hall was unlit. Someone had set a lamp at the door when they carried him in 
 
 Outside, the courtyard was full of the dead.
 
-The bodies were laid out on the far side of the wall, under cloth, facing east as the dead of the house were always laid, rows and rows of them, with lamps between. These were the others. Since the battle had ended at noon they had been coming back into the courtyard in ones and twos, the shapes of the men and women who had died that day, faint as breath on cold glass, a soft silver that gave no warmth and cast no shadow. They did not speak. They did not look at anyone. Each of them did one thing, over and over: a spearman turning to shout a warning, a girl of the archive lifting her hands to her face, an old man going down on one knee to pick up something he had dropped. They did it, and faded, and did it again. The living walked round them with their eyes on the paving.
+The bodies were laid out on the far side of the wall, under cloth, facing east as the dead of the house were always laid, rows and rows of them, with lamps between. They were the house's worked lamps, brought down from the halls in their cedar hoods, and they burned a clear honey-gold that did not flicker, a line of small steady suns laid along the rows. Above them the valley went on being beautiful, which was the hardest thing in it to bear. The cedar halls stepped down the slope on their limestone footings, their beams gone red-brown and resin-dark with age, their bark-shingle roofs furred silver-green with lichen, and the great cedars stood over all of it black against a sky the deep clear violet of the hour after dusk. Under the floor of this hall the stream ran as it had always run, cold over its stones, talking to itself in the dark. These were the others. Since the battle had ended at noon they had been coming back into the courtyard in ones and twos, the shapes of the men and women who had died that day, faint as breath on cold glass, a soft silver that gave no warmth and cast no shadow. They did not speak. They did not look at anyone. Each of them did one thing, over and over: a spearman turning to shout a warning, a girl of the archive lifting her hands to her face, an old man going down on one knee to pick up something he had dropped. They did it, and faded, and did it again. The living walked round them with their eyes on the paving.
 
 That was what the Seikai had done. That was the wound the war had left in Ashura.
 
@@ -34,7 +34,7 @@ His longblade lay on the floor beside him, sheathed. He had not cleaned it. He w
 
 In the Yukari, when a fighter lost a battle, he cut his hair.
 
-It was a small custom and an old one, older than the archive. The house did not make speeches about defeat. It did not hang its banners upside down or tear its clothes. It simply took a knife, the morning after, and cut off a length of hair at the back of the neck and laid it on the fire, and went about its work with a bare nape until the hair grew back, and everyone who saw that nape knew, and nobody said anything about it. A child who lost a sparring match in the yard was given a knife and shown how. Naiser had been nine the last time. He had lost to a cousin two years older, flat on his back in the dust with a practice blade at his throat, and he had cried with fury in front of the whole yard, and his father had come and stood over him and said nothing. Then his father had knelt, and taken the knife, and cut the hair himself, very gently, and put his hand on Naiser's head afterward, the way the elders did, and still said nothing.
+It was a small custom and an old one, older than the archive. The house did not make speeches about defeat. It did not hang its banners upside down or tear its clothes. It simply took a knife, the morning after, and cut off a length of hair at the back of the neck and laid it on the fire, and went about its work with a bare nape until the hair grew back, and everyone who saw that nape knew, and nobody spoke of it. A child who lost a sparring match in the yard was given a knife and shown how. Naiser had been nine the last time. He had lost to a cousin two years older, flat on his back in the dust with a practice blade at his throat, and he had cried with fury in front of the whole yard, and his father had come and stood over him and said nothing. Then his father had knelt, and taken the knife, and cut the hair himself, very gently, and put his hand on Naiser's head afterward, the way the elders did, and still said nothing.
 
 He had not lost since, in the yard or in the field, in all the years of the war.
 
@@ -64,13 +64,13 @@ The hall gave it back to him, very small.
 
 He heard the footsteps before they reached the door.
 
-He did not need to turn. He knew the step the way he knew his own pulse: light, unhurried, a little uneven since the winter she had broken her ankle on the archive stairs and never let it heal quite straight, the left foot coming down a breath softer than the right. Barefoot on the stone. She always went barefoot in the house. And under the sound of her feet, the other thing, the thing that was not sound at all, the faint pale tug at the edge of his thread-sight that meant her, and only her, as surely as a voice.
+He knew the step without turning, as he knew his own pulse: light, unhurried, a little uneven since the winter she had broken her ankle on the archive stairs and never let it heal quite straight, the left foot coming down a breath softer than the right. Barefoot on the stone. She always went barefoot in the house. And under the sound of her feet, the other thing, the thing that was not sound at all, the faint pale tug at the edge of his thread-sight that meant her, and only her, as surely as a voice.
 
 Naevra stopped in the doorway. For a moment she did not come in.
 
 He could see her without looking, the way he could always see her, and when at last he turned his head she was exactly as he had seen. Tall for a woman, nearly his height, and slender to the point of seeming insubstantial, a long pale line of a person who stood as if she were always listening to something just past the edge of the room. Her skin was porcelain-pale where his was dark, and the silver light did not cling to it; it went through it, almost, so that in the doorway she looked half like one of the dead herself. Her hair was white. It had been white since the day she was born, white as old parchment, straight and long, worn loose down her back tonight because there had been no time to bind it. Her eyes were silver-white, and when she was reading, as she was reading now, without meaning to, they took on a faint lavender cast and the air around her face filled with threads so fine they were visible only when they caught the light, hanging like cobweb in a barn door.
 
-She wore a plain grey shift with the sleeves pushed up past the elbow and a stained apron over it. The apron was the archive's apron, meant for ink, and it was not ink on it now. There was a smear of someone else's blood down her left forearm where she had not wiped it, and dirt on her knees, and her feet were filthy from the courtyard.
+She wore a plain shift of undyed linen with the sleeves pushed up past the elbow and a stained apron over it. The apron was the archive's apron, meant for ink, and it was not ink on it now. There was a smear of someone else's blood down her left forearm where she had not wiped it, and dirt on her knees, and her feet were filthy from the courtyard.
 
 Her lips were pressed thin. They went that way when she was holding something down. She had watched what this war did to him. She had watched it through every season of it, the way she watched everything, and she had read it in his threads from three rooms away on nights when he would not open his door, and she had never once told him what she saw there. He did not have to read her to know what was in her face. The pain of it. The long grief.
 
@@ -84,7 +84,7 @@ He closed his eyes.
 
 "I know," she said again, as if he had argued.
 
-Then she reached over and took his arm in both her hands. She did not ask. She took his wrist and his bloody hand, and drew it across to her, and pressed his palm flat against her chest, over her breastbone, where he could feel her heart going under the grey cloth, much too fast. She held it there with both hands over the back of his, the way she had when they were children and he woke from the dreams and she would hold his hand to her heart and say, *Feel that? That's still going. So are you.* She had sat with him like this when they were small, a year apart and she the one who would not cry, and he had hated her for it then.
+Then she reached over and took his arm in both her hands. She did not ask. She took his wrist and his bloody hand, and drew it across to her, and pressed his palm flat against her chest, over her breastbone, where he could feel her heart going under the linen, much too fast. She held it there with both hands over the back of his, the way she had when they were children and he woke from the dreams and she would hold his hand to her heart and say, *Feel that? That's still going. So are you.* She had sat with him like this when they were small, a year apart and she the one who would not cry, and he had hated her for it then.
 
 She wanted to cry. She had wanted to cry for hours, he thought; he could feel it in the hitch of her breathing under his hand. Then he heard the small wet catch in her throat and felt her shoulders begin to shake against his arm, and understood that she was not wanting to any longer. She was crying. She was doing it almost without sound, the way the house did everything, with her eyes open and her chin up and the tears simply running down.
 
@@ -128,7 +128,7 @@ He tilted his head down. His hair fell forward over his face, long and black and
 
 And he remembered his father.
 
-It came back whole, as if it had been waiting. The voice was going too, he could feel it going, but the words had stayed. The cold morning at the gate, and the frost on the flat stone, and his father in his travelling coat with the pack already on his back and the door to the dark standing open behind him, a long seam of nothing in the air above the hill, humming. His father had put both hands on Naiser's shoulders. He had looked at him for a long time without saying anything, which was how he said most things. Then he had spoken, quietly, so that the others at the gate would not hear.
+It came back whole, as if it had been waiting. The voice was going too, he could feel it going, but the words had stayed. The cold morning at the gate, and the frost on the flat stone, and his father in his travelling coat with the pack already on his back and the door to the dark standing open behind him, a long seam of nothing in the air above the hill, humming. His father had put both hands on Naiser's shoulders. He had looked at him a while without a word, which was how he said most things. Then he had spoken, quietly, so that the others at the gate would not hear.
 
 "Do not be afraid, my son. All things will come. Your destiny is here, in the now. You are the light." His father's hands had tightened. "You are the Bearer of Weight. You are the guide I leave behind for our people."
 
@@ -138,7 +138,7 @@ Naiser had wanted to shout after him that it wasn't fair. He had been grown by t
 
 He wanted to shout it now. He held it behind his teeth. It was still war.
 
-Beside him, Naevra had gone very still.
+Under his palm, Naevra's heart stumbled, and her breath stopped.
 
 She could feel it. He knew she could feel it, the same way she had always felt it, through the threads: the rage going through him like a storm through a forest, the two bloods out of step and grinding, the cold vast want sitting in the space between them with its eyes open. He could feel her reading it. The fine white threads in the air round her face had drawn tight, every one of them, the way a spider's web goes taut when something heavy lands in it. Her hands on the back of his had gone cold.
 
@@ -166,7 +166,7 @@ He got to his knees in front of the tablet. He laid the hair across the foot of 
 
 "He was wrong," Naiser said. "Or I haven't finished."
 
-Naevra looked at him for a long time. The threads round her face did not loosen. Whatever she was reading in him, she was still reading it, and she did not say what it was, and he did not ask.
+Naevra watched him, and the stream went on talking under the floor. The threads round her face did not loosen. Whatever she was reading in him, she was still reading it, and she did not say what it was, and he did not ask.
 
 At last she got up. She wiped her face with the heel of her hand, both cheeks, hard, the way their father used to wipe frost off the flat stone above the gate before a reading, and left a pale streak of someone else's dried blood across her cheekbone without noticing. She held her hand down to him.
 
@@ -176,7 +176,7 @@ He looked at her hand. It was shaking very slightly.
 
 He took it, and stood.
 
-Out in the courtyard the spearman turned to shout his warning, and the girl from the archive lifted her hands to her face, and the old man went down on one knee for the thing he had dropped, and none of them would ever finish. Beyond the wall, five hundred lamps were burning between the rows. Naiser walked out through the doorway with his sister's hand in his and his nape bare to the cold, and the dead in the silver light did not look up as he passed between them, and he did not look away.
+Out in the courtyard the spearman turned to shout his warning, and the girl from the archive lifted her hands to her face, and the old man went down on one knee for the thing he had dropped, and none of them would ever finish. Beyond the wall, five hundred lamps were burning gold between the rows under the black cedars, and the first stars had come out over the ridge, white and very sharp. Naiser walked out through the doorway with his sister's hand in his and his nape bare to the cold, and the dead in the silver light did not look up as he passed between them, and he did not look away.
 
 ---
 ---
@@ -206,3 +206,5 @@ Out in the courtyard the spearman turned to shout his warning, and the girl from
 - **His mother's people are elven** here, to carry the half-elf on his card. Neither parent's house is named.
 
 **Rule ids that most constrained it:** R49-02 (past tense for written work), R70-54 / R70-55 (first-sight inventories in POV order), R70-76 (the world's harm stated as law, reasons kept), R71-30 (the want between his bloods held unexplained), R70-114 (the warm bond), R73-38 (the bond shown before the loss lands on it).
+
+**Revision 2026-10-24.** Gave the enclave its colour (honey-gold worked lamps along the rows, red-brown cedar halls and lichened roofs under a violet dusk, the stream under the hall, stars over the ridge at the close) and trimmed the tics ("did not need to", "for a long time", "very still"). Every beat and every line Isaac wrote is kept word for word; Seradris remains only named in Naevra's speech.

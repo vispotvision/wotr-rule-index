@@ -14,9 +14,9 @@ source: scenes/the_uncounted_chapter_nine_the_queens_will.md
 
 There was no wood on the tundra, so the Keld burned fat.
 
-It went into the stone lamps in long white slabs, seal and reindeer and the yellow tallow of the great horned musk-beasts that came down off the high ice in the Thin Weeks, and it burned low and smoky and very hot, with a smell like a butcher's yard on a summer afternoon. The war-lodge of Aksel Keld was lit by nine of those lamps. It was a great domed tent of reindeer hide sewn over a frame of whalebone and driftwood carried a hundred miles from the northern shore, and inside it the air was thick with smoke and fat and the sharp sour reek of the fermented milk the Keld drank from horn cups the size of a man's two fists. Outside, the wind came over the white flat world from the pole with nothing in a thousand miles to stop it, and leaned on the lodge, and moaned in the guy-ropes. Inside, it was warm enough to sweat.
+It went into the stone lamps in long white slabs, seal and reindeer and the yellow tallow of the great horned musk-beasts that came down off the high ice in the Thin Weeks, and it burned low and smoky and very hot, with a smell like a butcher's yard on a summer afternoon and a light the deep yellow of butter, which climbed the curve of the hide walls and turned them the colour of honey held up to a fire. The war-lodge of Aksel Keld was lit by nine of those lamps. It was a great domed tent of reindeer hide sewn over a frame of whalebone and driftwood carried a hundred miles from the northern shore, and inside it the air was thick with smoke and fat and the sharp sour reek of the fermented milk the Keld drank from horn cups the size of a man's two fists. Outside, the wind came over the white flat world from the pole with nothing in a thousand miles to stop it, and leaned on the lodge, and moaned in the guy-ropes. Through the smoke-hole at the crown of the dome a strip of night showed, and across it the aurora moved, green going to violet at its hem, slow as weed in a current. Inside, it was warm enough to sweat.
 
-Kagenori Tenrai Moto had not taken off his outer coat. He sat on a stack of white bear-pelts across the central lamp from the Keld warlord, in gold-trimmed black, with his narrow face composed and his hands folded in his lap. The smoke did not seem to touch him. Behind his left shoulder, a pace back, stood a man in plain grey with no house colours at all: tall, lean, hooded, with a long pale face and very pale eyes and a stillness like a heron's in shallow water. He had not spoken since the Tenrai lord came into the lodge. He had not needed to. Every Keld captain in the tent knew his name. He had been out on the tundra for six weeks, going from fire to fire with Tenrai silver in one hand and Tenrai seed grain in the other.
+Kagenori Tenrai Moto had not taken off his outer coat. He sat on a stack of white bear-pelts across the central lamp from the Keld warlord, in gold-trimmed black that the lamplight picked out thread by thread, with his narrow face composed and his hands folded in his lap. The smoke did not seem to touch him. Behind his left shoulder, a pace back, stood a man in plain grey with no house colours at all: tall, lean, hooded, with a long pale face and very pale eyes and a stillness like a heron's in shallow water. He had not spoken since the Tenrai lord came into the lodge, and every Keld captain in the tent knew his name anyway. He had been out on the tundra for six weeks, going from fire to fire with Tenrai silver in one hand and Tenrai seed grain in the other.
 
 Karogane.
 
@@ -26,7 +26,7 @@ Aksel Keld was eighteen years old, and he had never lost a battle.
 
 He had fought eleven. Some of them against the hill clans that came down off the Shiogane in the bad years to raid the reindeer herds, and some of them against Tenrai tax columns before the Tenrai learned better than to send columns onto the ice, and one of them, the one the Keld sang about, against a Thornwall warband four times the size of his own that had come out past the treeline to take the whale-oil trade by force. He had broken it on the open ice in a single afternoon, in a whiteout, by moving his riders through the snow-blind so fast and so quietly that the Thornwall men had died believing they were fighting ghosts. He had been fifteen.
 
-He did not look like a boy. He was short, as the south counted tallness, and built the way the tundra built its people: low and wide and dense, with a barrel chest and short powerful legs and a neck like a tree-stump, all of it packed down under the weight of the cold until there was nothing on him that did not need to be there. His face was broad and flat and wind-burned a deep red-brown across the cheekbones. His eyes were narrow and very black and set deep against the glare. Three thin blue lines were tattooed down his chin from the lower lip, the marks of a Keld who had killed a man in defence of the herds, and a fourth had been added beside them, thicker, for a chief. His hair was black and coarse and braided close to his skull in tight rows, and the braids were threaded with small rings of walrus ivory, one for each fight he had won.
+He did not look like a boy. He was short, as the south counted tallness, and built the way the tundra built its people: low and wide and dense, with a barrel chest and short powerful legs and a neck like a tree-stump, all of it packed down under the weight of the cold until nothing was left on him but what the cold allowed. His face was broad and flat and wind-burned a deep red-brown across the cheekbones. His eyes were narrow and very black and set deep against the glare. Three thin blue lines were tattooed down his chin from the lower lip, the marks of a Keld who had killed a man in defence of the herds, and a fourth had been added beside them, thicker, for a chief. His hair was black and coarse and braided close to his skull in tight rows, and the braids were threaded with small rings of walrus ivory, one for each fight he had won.
 
 His right hand was iron.
 
@@ -34,7 +34,7 @@ It had been a hand, once. A Tenrai sword had taken it off at the wrist in his se
 
 He ruled that way too.
 
-He looked across the lamp at the Tenrai lord for a long moment, with his black eyes narrowed against the smoke.
+He looked across the lamp at the Tenrai lord with his black eyes narrowed against the smoke, and let the silence run as long as it liked.
 
 "We march in two days," he said.
 
@@ -86,15 +86,15 @@ It took Aksel a long time to see it. He saw it, in the end, the way he saw a her
 
 Kagenori Tenrai wanted a crown for another head than his own.
 
-He wanted a kingdom made for one woman, small and grey and hard as a hatchet, sitting very upright in a silver chair in the Hall of Verdicts. He wanted to build it for her with his own hands, stone by stone, and set her on it, and stand at her right side, and see her content. For a thousand years the Shirogane had been the rival of the Kōkan, the hard silver line that had always stood one step from the red chair and never been allowed to sit in it. If the Kōkan were truly ended, and the last of them put on a post by his own people, then there was one line in the Moto house with a better claim to the north than any other.
+He wanted a kingdom made for one woman, small and grey and hard as a hatchet, sitting very upright in a silver chair in the Hall of Verdicts, under worked lamps that burned white and steady on the Guild's draw while the whole north froze in the dark. He wanted to build it for her with his own hands, stone by stone, and set her on it, and stand at her right side, and see her content. For a thousand years the Shirogane had been the rival of the Kōkan, the hard silver line that had always stood one step from the red chair and never been allowed to sit in it. If the Kōkan were truly ended, and the last of them put on a post by his own people, then there was one line in the Moto house with a better claim to the north than any other.
 
 And Shizuha Shirogane had the most to gain of anyone alive.
 
 "All of the north will accept Queen Shizuha's rule," Kagenori said softly. "Every house of it. Every fire." He looked at Aksel across the lamp. "And those who do not accept it, Lord Aksel, will die. Quickly, I hope. But they will die." His voice did not change at all. "I hope you understand that. I'd not have you say later that you were not told."
 
-The wind leaned on the lodge. The fat-lamps guttered and steadied. Behind Kagenori's shoulder, Karogane had not moved, but his very pale eyes had come to rest on the Keld warlord's iron hand.
+The wind leaned on the lodge. The fat-lamps guttered and steadied, and the yellow light swung up the hide and settled again. Behind Kagenori's shoulder, Karogane stood exactly as he had stood all evening, and his very pale eyes had come to rest on the Keld warlord's iron hand.
 
-Aksel Keld looked at the Tenrai lord for a long moment.
+Aksel Keld held the Tenrai lord's eyes across the lamp while the aurora went over the smoke-hole and was gone.
 
 Then he lowered his head, very slightly, and lifted his iron fist off his knee, and set it against his chest, over his heart, with a dull heavy sound like a hammer laid on an anvil.
 
@@ -110,11 +110,11 @@ Behind his flat red-brown face, where nobody in the lodge could see it, a though
 
 Lorn Stark had been standing at the gate of Kharven's Foot since the sun came up.
 
-It was mended now. Two days, the outrider had said, and two days it had taken, two days and a night of every man and boy in the fort carrying stone up from the rubble of the breach and fitting it back into the gap in the curtain wall, course by course, while the Greymane masons shouted at them and the snow came down and nobody slept. The new stone was paler than the old. You could see the line of the mend from the bottom of the ridge, a long uneven seam of grey-white running down through the darker Tenrai grey. Muken had looked at it, the morning it was finished, and said they should leave it that way. That every man who came up the Kessen road should see where the wall had come down.
+It was mended now. Two days, the outrider had said, and two days it had taken, two days and a night of every man and boy in the fort carrying stone up from the rubble of the breach and fitting it back into the gap in the curtain wall, course by course, while the Greymane masons shouted at them and the snow came down and nobody slept. The new stone was paler than the old. You could see the line of the mend from the bottom of the ridge, a long uneven seam of grey-white running down through the darker Tenrai grey, and in the early sun the frost on the new stone glittered where the old stone only darkened. Muken had looked at it, the morning it was finished, and said they should leave it that way. That every man who came up the Kessen road should see where the wall had come down.
 
-The gate itself was new timber, raw pine, still weeping sap in the cold. Somebody had nailed the Stark wolf to it, and the Greymane wolf beside it, and above both of them, on a long pole over the gatehouse, a banner that had not existed a week ago.
+The gate itself was new timber, raw pine, still weeping sap in the cold, and the sap froze where it ran in beads as gold as amber. Somebody had nailed the Stark wolf to it, and the Greymane wolf beside it, and above both of them, on a long pole over the gatehouse, a banner that had not existed a week ago.
 
-It was white. Plain white wool, the cheapest the fort's stores had, unbleached and unembroidered, with nothing on it at all. The boys of the vanguard had made it the night after the crow came up from the south with the news of Ulf and Wystan, sitting in the barracks with needles borrowed from Yukazuri's kit, because nobody could agree what should go on it, and in the end they had decided that a tokenless king ought to have a banner with no token on it either. It hung over the gate of Kharven's Foot in the still grey morning, blank as new snow.
+It was white. Plain white wool, the cheapest the fort's stores had, unbleached and unembroidered, with nothing on it at all. The boys of the vanguard had made it the night after the crow came up from the south with the news of Ulf and Wystan, sitting in the barracks with needles borrowed from Yukazuri's kit, because nobody could agree what should go on it, and in the end they had decided that a tokenless king ought to have a banner with no token on it either. It hung over the gate of Kharven's Foot in the still morning, blank as new snow, against a sky going from rose at the ridge-line to a hard clean blue overhead.
 
 Lorn Stark stood under it in his father's mail, which was too big for him across the shoulders, with his father's axe across his back, and watched the road.
 
@@ -126,9 +126,9 @@ He did not move until they were at the foot of the gate.
 
 Then he straightened, the way his father had taught him, the way every Stark son was taught before he could walk: chin up, shoulders back, weight even on both feet, hands still. And he watched them come.
 
-The woman in white came first. She dismounted at the foot of the gate with the ease of someone who had been riding for a long time, and her near-white robes were grey with the dust and slush of the road to the hem, and the glass beads of a veil were pinned back from her face and clicked faintly at her temples when she moved. She had a katana at her hip, bound in white cord. She looked up at the blank banner over the gate for a long moment before she looked at him.
+The woman in white came first. She dismounted at the foot of the gate with the ease of someone who had been riding for a long time, and her near-white robes were grey with the dust and slush of the road to the hem, and the glass beads of a veil were pinned back from her face and clicked faintly at her temples when she moved, throwing small sparks of the sun. She had a katana at her hip, bound in white cord. She looked up at the blank banner over the gate, and kept looking, before she looked at him.
 
-Behind her came the two others. A great bald man in copper and grey who moved like a bull and dismounted like one, heavily, with a grunt. And a slight sharp man in indigo with restless fingers, who had his eyes on the mended seam in the wall before his boots touched the snow.
+Behind her came the two others. A great bald man in copper and grey, the copper gone red-bronze in the low sun, who moved like a bull and dismounted like one, heavily, with a grunt. And a slight sharp man in indigo with restless fingers, who had his eyes on the mended seam in the wall before his boots touched the snow.
 
 Lorn bowed exactly as low as a Warlord of the north bowed to a Moto lord, which was very little.
 
@@ -142,7 +142,7 @@ Then Lorn looked past them.
 
 The great black cat had stopped a little way down the road and lain down in the snow like a dog, with its yellow eyes half closed and its long ivory fangs resting on its paws, and the rider had dismounted beside it. Lorn had heard the outrider's account. He had not quite believed it. He believed it now. The Zettari was the biggest man he had ever seen, half a head taller than Wystan Greymane had been, in a black-and-gold robe that hung open over a chest like a barrel of nails, and he was standing in the snow by his cat looking up at the gate of Kharven's Foot, and he was, Lorn thought, very young.
 
-Lorn looked at him for a long moment. He thought about the forty years. He thought about every Stark who had gone south on a Moto levy and come home in a cart, or not come home. He thought about the Zettari spears they had faced on those fields.
+Lorn let himself look. He thought about the forty years. He thought about every Stark who had gone south on a Moto levy and come home in a cart, or not come home. He thought about the Zettari spears they had faced on those fields.
 
 Then he thought about his father's hand flat on his chest in the gatehouse, and Muken's face, and what Godfrey had said.
 
@@ -170,7 +170,7 @@ He looked at her steadily.
 
 "Muken is king now," said Lorn Stark. "King Muken. The Tokenless."
 
-Something moved in Kiyome's grey eyes. The fine silver rings in them, which had lain still as well-water the whole time she had been looking at the banner, turned once, very slowly, and were still again.
+Something moved in Kiyome's grey eyes. The fine silver rings in them, which had lain quiet as pond-ice the whole time she had been looking at the banner, turned once, very slowly, and were still again.
 
 She did not say anything.
 
@@ -184,13 +184,13 @@ Lorn did not hurry, and did not look back at them. He walked the way his father 
 
 He could feel the eyes of the fort on them as they crossed the yard. The Greymane men on the walls. The boys at the woodpile, with their arms full of split pine, stopped dead. The old woman with no teeth on her stump by the barracks door, in her three shawls, watching the woman in white go by with her toothless mouth set in a long hard line.
 
-Nobody said anything. The whole of Kharven's Foot was silent, except for the wind, and the creak of the new gate, and a child somewhere splitting wood, three blows for every split.
+The whole of Kharven's Foot had gone silent, except for the wind, and the creak of the new gate, and a child somewhere splitting wood, three blows for every split.
 
 ---
 
 ### III · The King of the Foot
 
-The meeting chamber had been the Tenrai garrison's mess hall. It was the largest room in the keep, long and low and stone-floored, with a hearth at one end big enough to roast an ox in. The long tables had been pushed back against the walls. In their place, in the middle of the floor, someone had set one table from the barracks, rough pine with a split down the middle, and round it a scatter of mismatched chairs. Shigure Tenrai's carved chair from the gatehouse. A bench from the stables. Two camp stools. A barrel.
+The meeting chamber had been the Tenrai garrison's mess hall. It was the largest room in the keep, long and low and stone-floored, with a hearth at one end big enough to roast an ox in, where a fire of split pine was burning orange and loud and throwing its colour halfway down the floor. The long tables had been pushed back against the walls. In their place, in the middle of the floor, someone had set one table from the barracks, rough pine with a split down the middle, and round it a scatter of mismatched chairs. Shigure Tenrai's carved chair from the gatehouse. A bench from the stables. Two camp stools. A barrel.
 
 At the head of it, with his back to the great hearth, sat the king of the north.
 
@@ -202,7 +202,7 @@ Godfrey Greymane sat at his right hand, on the bench from the stables, very stra
 
 Muken was looking at the door.
 
-He had been looking at it since the outrider came in from the wall to say the riders were at the gate. He was sitting very still. Godfrey had told him to. *Sit,* Godfrey had said, an hour ago, standing in this room while the boys dragged the furniture about. *Sit, and stay sat, and let them come to you. Don't get up when they come in. Don't go to meet them. You're not a sellsword waiting to be hired any more. They've come up the Kessen road to you. Let them walk the last of it.*
+He had been looking at it since the outrider came in from the wall to say the riders were at the gate. He had not moved in all that time. Godfrey had told him not to. *Sit,* Godfrey had said, an hour ago, standing in this room while the boys dragged the furniture about. *Sit, and stay sat, and let them come to you. Don't get up when they come in. Don't go to meet them. You're not a sellsword waiting to be hired any more. They've come up the Kessen road to you. Let them walk the last of it.*
 
 So he sat. It was the hardest thing he had done all week.
 
@@ -238,11 +238,11 @@ Lorn Stark came in first and stepped aside, as Godfrey had told him to, and stoo
 
 And the woman in white came through the door after him.
 
-Muken had been ready for a Moto lord. He had built one in his head for two days: someone hard and narrow and cold, in gold and black, with rings turning in their eyes the way they had turned in Shigure's on the stair. He had been ready to sit very still and look at that face across his table and not let the black hot thing out from behind his eye.
+Muken had been ready for a Moto lord. He had built one in his head for two days: someone hard and narrow and cold, in gold and black, with rings turning in their eyes the way they had turned in Shigure's on the stair. He had been ready to sit like stone and look at that face across his table and not let the black hot thing out from behind his eye.
 
 He was not ready for her.
 
-She stopped just inside the door and looked down the long room at him, and the grey morning light from the narrow windows came across her, and he saw her hair.
+She stopped just inside the door and looked down the long room at him, and the pale gold morning light from the narrow windows came across her, and he saw her hair.
 
 It was white. Silver-white, whiter than the robes, a white so clean it looked deliberate.
 
@@ -304,3 +304,5 @@ What he said, in the end, was very quiet.
 - **The recognition.** Kiyome's silver-white hair is Yukazuri's white, and their mother Kasane's, who died the morning the Shimane news came. Kiyome sees his eye, and her composure breaks and mends. (If Kiyome's hair isn't white on her card, tell me and I'll move the recognition to her eyes.) Muken stays seated. The post stops on his line: *say what you came to say.*
 
 **Rule ids that most constrained it:** R70-54 / R70-55 (first-sight inventories: Aksel, the Zettari as Lorn sees him), R72-25 (live lies and tells: Kagenori's "I do not mean to," Aksel's *For now*), R71-30 (the eye held unexplained), R70-50 (one changed detail on return: the healed seam, the mail, the token worn openly), R72-4 (stop on a line aimed at the guests).
+
+**Revision 2026-10-24.** Added colour drawn from what is there (fat-lamp butter-yellow and the aurora through the Keld smoke-hole, frost on the mend, amber sap on the gate, Kiyome's beads and Tetsugen's copper in the sun, the mess-hall hearth) and one touch of draw at the Hall of Verdicts only, with the tics trimmed (long moments, very still, well-water, did not need to, Nobody said anything); Dougou's passages are untouched and all beats and Isaac's lines are kept word for word.

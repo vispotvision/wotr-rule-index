@@ -8,7 +8,7 @@ source: scenes/the_iron_fist_of_the_keld.md
 
 For a while after the Crown Prince had finished, nobody in the long hall said anything at all.
 
-The stream went on under the boards. The tea had gone cold in its clay cups an hour ago and nobody had poured more. Through the open screens on the south side the white gravel garden lay in the flat grey light of mid-morning, and the three standing stones in it threw no shadows, and somewhere out in the cedars the house's crows were calling to one another in their harsh, patient voices, the way they always did when the enclave held more strangers than it was used to.
+The stream went on under the boards, clear and quick and cold, with a sound like small change being counted. The tea had gone cold in its clay cups an hour ago and nobody had poured more; the charcoal in the bronze brazier had sunk to a red eye under its ash. The hall was cedar from sill to ridge-beam, old wood gone the deep red-brown of a fox's back, and it smelled of resin and river-damp and ink. Through the open screens on the south side the white gravel garden lay in the soft pearl light of a high overcast, raked into long combed lines, and the three standing stones in it threw no shadows, and beyond it the great cedars stood in their ranks, dark green and red-barked, with moss bright as verdigris at their roots. Somewhere out in the cedars the house's crows were calling to one another in their harsh, patient voices, the way they always did when the enclave held more strangers than it was used to.
 
 *I'll count the small ones.*
 
@@ -22,7 +22,7 @@ His voice was a low rumble, like a cart going over a bridge.
 
 "A good man," he said. "You're right. I'm not one. I wasn't one at Sennen and I wasn't one at the Hall of Verdicts the night we took the Stark's head, and I've not become one in the month since, whatever I've done with a soldier and a horse in the dark." He looked down at his own hands again, open on his knees. "I don't expect to be. I'm too old and I've done too much. But I'd like to be the kind of bad man who tells the truth about it, if that's still on offer." He was quiet for a moment. "Thank you for not lying to me, Prince. Most people have stopped bothering."
 
-He said nothing else. He did not seem to need to.
+He said nothing else. It had cost him enough.
 
 Hayato Amagiri stirred beside him. The young lord's restless fingers had been tracing, all through the prince's answer, the lines he had drawn on the table earlier with a wet fingertip: the roads through the northern mountains, long since dried to nothing on the dark wood. He lifted his hand from the table now and let it fall into his lap.
 
@@ -32,11 +32,11 @@ Hayato Amagiri stirred beside him. The young lord's restless fingers had been tr
 
 They all looked at her.
 
-She was sitting at her brother's left hand, very straight, in grey, with her white plait over her shoulder and her hands folded in her lap, and her silver-white eyes were steady on Hayato.
+She was sitting at her brother's left hand, very straight, in grey, a crow worked small in black at her collar, with her white plait over her shoulder and her hands folded in her lap, and her silver-white eyes were steady on Hayato.
 
 "We'll put a reader on every train that goes over your roads," she said. "One of ours. A Yukari, with ink and a ledger and a crow. Every sack counted in at the northern end, and every sack counted out at the village it's meant for. Every name of every family that receives it, written down. And if a sack goes missing between the two, the crow goes up before the cart's out of sight, and the whole of the Inner World knows by nightfall whose ford it went missing at." She paused. "The Prince wants verifiable findings. So do we. There's nothing in the world harder to steal from than a thing that's being counted by somebody who isn't afraid of you."
 
-Hayato looked at her for a long moment. Then, slowly, he nodded.
+Hayato weighed her across the table, and then, slowly, he nodded.
 
 "Done," he said. "If Lord Naiser will lend you the readers."
 
@@ -52,7 +52,7 @@ He looked at the prince first.
 
 "You said you wouldn't be anyone's symbol," Naiser said. "And you said, rightly, that wherever you go, the world will see the Crown Prince of Kushara before it sees anything else, and the Tenrai will make of that whatever serves them." He inclined his head. "So don't go as the Crown Prince of Kushara."
 
-The stream ran under the floor.
+The stream ran under the floor. A shaft of light found its way through a gap in the cloud and lay for a moment across the garden, and every grain of the white gravel glittered, and then it was gone.
 
 "Go as the guest of this house," Naiser said. "Under the crow. Not under any Zettari banner, and not under the white or the copper or the indigo either. Under ours. A witness of the Yukari, as my readers are witnesses, travelling with my sister on the business of this house: to count what the war has done, and write it down, and send it home to be kept." He held the prince's eyes. "The Yukari have been walking into other people's ruins since before there were Zettari to keep the stones in their places. Nobody in the Inner World mistakes a Yukari witness for an army. If Kagenori wants to tell Kharven that the man who killed Gimbzo has come to meddle in their affairs, he'll have to tell them as well that the man came under the crow, with a Yukari ledger in his hand, and touched nothing but a pen." He paused. "It won't stop him lying. Nothing stops Kagenori lying. But it will make the lie harder to tell, and easier to catch."
 
@@ -78,7 +78,7 @@ Beside him, Naevra had lowered her eyes.
 
 Kiyome Byakuya had not moved through any of it.
 
-She sat across the table from the Zettari, in her near-white, with the white knot bound tight at her hip and the glass beads of her veil lying still at her temples, and she had listened to the prince the whole way through with her silver rings lying quiet as well-water in her grey eyes. When he said *I killed his father,* the rings had moved, once, very slightly. Nothing else had.
+She sat across the table from the Zettari, in her near-white, bright as new snow against the red cedar, with the white knot bound tight at her hip and the glass beads of her veil lying still at her temples, and she had listened to the prince the whole way through with the silver rings level in her grey eyes. When he said *I killed his father,* the rings had moved, once, very slightly. Nothing else had.
 
 Now she inclined her head to him, very low.
 
@@ -100,7 +100,7 @@ Naiser saw something move in Hayato's face, and go still.
 
 "A man of great honour," Kiyome said. "As great as his brother's. I sat in the hall and watched Torvald Stark die laughing on the script for telling us the truth, and I've known Ulf since I was a girl in my grandmother's house and he was already a grown man with grey in his beard, and there's not a breath of difference between them, except that Ulf has always been the more patient." Her voice did not rise. "And that is why Ulf will die too."
 
-Nobody spoke.
+Out in the cedars a crow called once and was answered.
 
 "Kagenori will call him back," Kiyome said. "To the hold. To the Hall of Verdicts. He'll send a summons under the old law, the one that binds every Warlord of the north to answer to the seven lines for the conduct of his house, and he'll name the Foot in it, and he'll name the boy. And Ulf will go." She drew a breath. "He'll go knowing exactly what's waiting for him on the script, because if he doesn't, Kagenori will have the excuse he's been waiting for to burn Hollenmark to the ground. So he'll ride south and kneel in the circle where his brother knelt, and buy the north a season with his head." She looked down at her hands. "And Muken will try to stop him. And Ulf won't let him. I know that man. He'll not let a sixteen-year-old boy throw himself on the Tenrai's spears to save an old one."
 
@@ -124,7 +124,7 @@ The young lord of the Amagiri was looking at the table, at the place where his w
 
 "I know where they'll send him next," he said. "Ulf. Or Wystan, if Ulf's already gone south. The Foot's taken. The Kessen road's open. The next thing the north needs is the Keld." He looked up. "The tundra. Past the treeline. Every road I mapped through the northern mountains runs through Keld country at the far end of it, and nothing goes over those roads without the Keld letting it. Whoever holds the Keld holds the back door of the whole north." He drew a breath. "So they'll send Muken to take it. To bring the Keld in, or put them down. Even if it means northerners killing northerners."
 
-"The Keld swear to a man," said Naevra slowly. "Not to a letter. Not to a house. They swear to whoever comes out onto the tundra in person and sits at their fires and eats their food and stays worth following." She frowned. "Old Harald leads the fires. Or did. He's too old now to sit a horse."
+"The Keld swear to a man," said Naevra slowly. "Not to a letter, nor to a house. They swear to whoever comes out onto the tundra in person and sits at their fires and eats their food and stays worth following." She frowned. "Old Harald leads the fires. Or did. He's too old now to sit a horse."
 
 "Not any more," said Hayato.
 
@@ -148,7 +148,7 @@ He looked at Tetsugen.
 
 "You've seen Muken fight," Hayato said. "Or near enough. You've read Shigure's account as many times as I have. Do you think he has it in him? Against the Iron Fist, on the Keld's own ground, in the dead of the winter?"
 
-Tetsugen was quiet for a long moment. He looked down at his great copper-ringed hands.
+Tetsugen took his time. He looked down at his great copper-ringed hands, and turned them over, as he did when a thing weighed on him.
 
 "If he fights it right," he said at last, "and uses his men right, and reads the ground the way he read the wall at the Foot, then yes. Any battle that can be fought out of the Foot should be his. He holds the road now. He holds the high ground. He has the Starks and the Greymanes behind him and a sister who keeps his men alive." He lifted his head. "That's not what worries me."
 
@@ -156,13 +156,13 @@ Tetsugen was quiet for a long moment. He looked down at his great copper-ringed 
 
 "Karogane will be there," said Tetsugen Akagane. "At the battle. On the tundra. He'll not trust the Iron Fist to do it alone, and he'll not leave it to chance. He'll be standing at the Keld's shoulder when the two of them meet." His jaw worked. "And I know Karogane. He won't need to win the fight. He'll walk out between the lines, in front of the whole of both armies, and he'll tell the boy who he is."
 
-The hall had gone very quiet.
+The hall had gone quiet enough to hear the brazier tick.
 
 "Gimbzo's son," Tetsugen said. "In front of the Starks. In front of the Keld. In front of every boy with a spear who followed him up the ridge at the Foot because he was one of them, a tokenless nobody, the same as they were." He let it lie. "Karogane will tell them all that their tokenless lieutenant is the son of the man who burned the north for twenty years. And then he'll stand back and watch what they do."
 
-Nobody spoke.
+The stream filled the silence under the boards.
 
-Naevra had gone pale. Kiyome sat perfectly still, with the rings in her grey eyes lying flat and silver and still as ice on a well. Hayato's fingers had stopped.
+Naevra had gone pale. Kiyome sat perfectly still, with the rings in her grey eyes lying flat and silver as winter ice. Hayato's fingers had stopped.
 
 Naiser looked down at the cold tea in his cup, and saw his own face in it, and the bare nape behind it, and the thread-marks at his temples beginning very faintly to burn.
 
@@ -184,13 +184,13 @@ They all looked at her.
 
 She rose.
 
-She rose all at once, near-white linen stirring round her, with the white knot bound at her hip and the glass beads at her temples chiming very faintly in the still air of the hall, and stood looking down the long room toward the north screens and the cold grey light beyond them.
+She rose all at once, near-white linen stirring round her, with the white knot bound at her hip and the glass beads at her temples chiming very faintly in the still air of the hall, and stood looking down the long room toward the north screens and the cold pearl light beyond them, where the cedars went up the valley side rank on rank into the cloud.
 
 "Then it's settled," said Kiyome Byakuya.
 
 She turned back to the table.
 
-"We go to Kharven's Foot," she said. "Before the battle. Before Karogane can stand on the snow and say it. Before the Starks can spend themselves trying to keep it from him." She looked at Tetsugen, and at Hayato, and both of them, after a long moment, nodded. "I'll not have my sister's son hear who his mother was from a Tenrai's mouth on a battlefield. Not if I have to ride through the whole of the north in the dead of winter to stop it."
+"We go to Kharven's Foot," she said. "Before the battle. Before Karogane can stand on the snow and say it. Before the Starks can spend themselves trying to keep it from him." She looked at Tetsugen, and at Hayato, and both of them, one after the other, nodded. "I'll not have my sister's son hear who his mother was from a Tenrai's mouth on a battlefield. Not if I have to ride through the whole of the north in the dead of winter to stop it."
 
 "Then you'll not ride through it alone," said Naevra.
 
@@ -198,7 +198,7 @@ She had risen too. She stood at her brother's side with her hands at her sides a
 
 "Not this time," she said. "I wasn't there for you the last time it mattered. I'm going to be there for this."
 
-Kiyome looked at her for a long moment. Something moved in her still grey eyes, and was gone, and did not need to be said.
+Kiyome looked at her. Something moved in her still grey eyes, and was gone, and was understood between them without a word.
 
 Naiser sat at the low table between them, with his hands flat on the dark wood and his sister on her feet beside him and three Moto lords across from him and the Sovereign of Kushara and the Crown Prince in the places of honour, and the cold tea in the cups, and the stream running loud under the floor.
 
@@ -232,3 +232,5 @@ He looked across the table, past the Moto, to the two Zettari, and waited.
   - **The timing**: the battle is a month away or less.
   - **Naevra goes north with Kiyome.** *I wasn't there for you the last time it mattered.* Whether she also walks the villages with Dougou depends on what Kushara decides.
 - **Tense.** Past, to match the thread.
+
+**Revision 2026-10-24.** Gave the cedar hall its beauty (red-brown cedar, the clear stream, the white gravel and the cedars in pearl light, Kiyome's near-white against the wood) with only a charcoal brazier for warmth and no draw; trimmed the long-moment, nobody-spoke, still-water and need-not tics and one countdown in Naevra's speech. All beats and Isaac's lines are kept, and Dougou's and Shaka-Al's passages are untouched.

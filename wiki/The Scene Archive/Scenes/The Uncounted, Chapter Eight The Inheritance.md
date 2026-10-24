@@ -26,13 +26,13 @@ He had been chopping wood for four days. The surgeon had told him not to. His si
 
 So he chopped wood.
 
-He did it one-handed, mostly. The left arm was still strapped across his chest under his shirt, where Shigure Tenrai's edge had come in under the mail and opened him from the armpit down across the ribs. It had been stitched twice. It had come open once. It hurt in a deep, dull, grinding way every time he breathed in, and in a bright, sharp way every time he swung the axe, and he had stopped noticing the difference between the two somewhere around the second day. He set the rounds on the block with his right hand, and took the axe up in his right hand, and brought it down, and the round split and fell, and he set up the next one. A full stack, against the wall of the old Tenrai barracks, as high as his shoulder and twice as long as a cart. Then another. Then the boys from the vanguard who could still lift things carried it down the ridge on their backs, a load at a time, to the forty houses.
+He did it one-handed, mostly. The left arm was still strapped across his chest under his shirt, where Shigure Tenrai's edge had come in under the mail and opened him from the armpit down across the ribs. It had been stitched twice. It had come open once. It hurt in a deep, dull, grinding way every time he breathed in, and in a bright, sharp way every time he swung the axe, and he had stopped noticing the difference between the two somewhere around the second day. He set the rounds on the block with his right hand, and took the axe up in his right hand, and brought it down, and the round split and fell, and he set up the next one. A full stack, against the wall of the old Tenrai barracks, as high as his shoulder and twice as long as a cart, every split face bright with pine resin that went gold where the low sun caught it. Then another. Then the boys from the vanguard who could still lift things carried it down the ridge on their backs, a load at a time, to the forty houses.
 
-He had not planned it. He had simply looked at the village from the broken wall on the first morning after the battle, at the thin smoke from its chimneys, and at the great stacks of seasoned pine the Tenrai had left behind in the fort's woodyard, more than the garrison could have burned in three winters, and gone down and picked up an axe.
+He had not planned it. He had simply looked at the village from the broken wall on the first morning after the battle, at the thin smoke from its chimneys going up straight and blue into a sky like hammered steel, and at the great stacks of seasoned pine the Tenrai had left behind in the fort's woodyard, more than the garrison could have burned in three winters, and gone down and picked up an axe.
 
 By the third day, there were men from the village coming up the ridge to help him.
 
-By the fourth, there were children. They could not lift the axe. They carried the split wood to the stack and laid it, carefully, the pale ends all outward, the way their grandfathers had laid it. An old woman with no teeth and a face like a winter apple had come up with them, wrapped in three shawls, and had stood watching him split for a long time, leaning on a stick. Then she had said, in the thick slow vowels of the northern hill country, *How's your stack, lad?* And when he had looked at her, not understanding, she had pointed at the long pale wall of split pine against the barracks with her stick and said it again. *How's your stack?*
+By the fourth, there were children. They could not lift the axe. They carried the split wood to the stack and laid it, carefully, the pale ends all outward, the way their grandfathers had laid it. An old woman with no teeth and a face like a winter apple had come up with them, wrapped in three shawls, madder red and moss green and a blue gone soft with washing, and had stood watching him split through half a morning, leaning on a stick. Then she had said, in the thick slow vowels of the northern hill country, *How's your stack, lad?* And when he had looked at her, not understanding, she had pointed at the long pale wall of split pine against the barracks with her stick and said it again. *How's your stack?*
 
 "Full," he had said.
 
@@ -40,7 +40,7 @@ And she had laughed until she had to sit down on the block, and then she had tol
 
 He had not known what to say to that. He had gone on chopping.
 
-He was splitting a round of old knotted pine, with the sweat running down inside his shirt and his breath going up white and his left side singing at him, when Rob Stark came across the yard. Rob still walked with the stick, but he walked faster with it now. He stopped at the edge of the woodpile and waited for the axe to come down.
+He was splitting a round of old knotted pine, with the sweat running down inside his shirt and his breath going up white and glittering where the frost took it, and his left side singing at him, when Rob Stark came across the yard. Rob still walked with the stick, but he walked faster with it now. He stopped at the edge of the woodpile and waited for the axe to come down.
 
 The round split. The halves fell.
 
@@ -54,11 +54,11 @@ At the edge of the yard, Yukazuri had unfolded her arms.
 
 ### II · The Gatehouse
 
-The gatehouse of Kharven's Foot had been the Tenrai captain's quarters, and it still smelled of her: some sharp clean southern resin they burned in their lamps, and oiled lamellar, and ink. Shigure's table was still there, and her chair, and a rack on the wall where her long curved sword had hung. Somebody had taken the Tenrai banner down from over the hearth and put the Stark wolf up in its place, and the Greymane wolf beside it, and the two grey heads looked down from the wall at the room with their painted teeth bared.
+The gatehouse of Kharven's Foot had been the Tenrai captain's quarters, and it still smelled of her: some sharp clean southern resin they burned in their lamps, and oiled lamellar, and ink. Shigure's table was still there, and her chair, and a rack on the wall where her long curved sword had hung. Somebody had taken the Tenrai banner down from over the hearth and put the Stark wolf up in its place, and the Greymane wolf beside it, and the two grey heads looked down from the wall at the room with their painted teeth bared and their painted eyes picked out in yellow, the brightest colour in the room after the fire.
 
 Ulf Stark sat at the table. Wystan Greymane stood at the window with his back to the room, looking out at the broken wall and the ridge and the long road going down into the south. The wolfhound lay under the table with its head on its paws, and it lifted its head when Muken came in, and thumped its tail once on the floor, and put its head down again.
 
-There was a letter on the table in front of Ulf. Grey wax. A gold seal, broken.
+There was a letter on the table in front of Ulf. Grey wax. A gold seal, broken, the Tenrai heraldry on it still sharp enough to catch the firelight.
 
 "Sit, lad," said Ulf.
 
@@ -72,7 +72,7 @@ Ulf almost smiled. He put his maimed hand flat on the letter.
 
 "We've been called back," he said. "Wystan and I. To Kharven's Seat. To the Hall of Verdicts. To answer to the council for the Foot." He turned the letter over with one finger, so that the broken gold seal lay uppermost. "It's the old summons. The one that binds every Warlord of the north to come and give account to the seven lines when the seven lines call. My grandfather answered it once. My brother answered it a month ago." He let the letter lie. "Kagenori's hand. And his own seal."
 
-Muken was very still.
+Muken stopped breathing.
 
 "You can't go," he said.
 
@@ -88,7 +88,7 @@ He said it gently. That was the worst of it.
 
 "Ulf's right, boy," said Wystan Greymane.
 
-He had turned from the window. He stood with his long grey hands clasped behind his back and the cold light behind him, and his long grey face was perfectly calm.
+He had turned from the window. He stood with his long grey hands clasped behind his back and the white winter glare off the ridge behind him, and his long grey face was perfectly calm.
 
 "Our lives," he said, "can be spent for the people. That's what they're for. That's what they've always been for." He looked at Muken steadily. "We're old men. We've had our years. We've had more of them than most of the men who've followed us. And the north doesn't need us any more, the way it needed us a month ago." He paused. "They have you now."
 
@@ -138,7 +138,7 @@ He did not raise his voice. He never did.
 
 "I swear that all the power of the house of Greymane, and all its tools, its wall and its watch, its men and its wolves and its long memory, are left to you, Muken the Tokenless. To hold for the north. Until you see fit to put them down." He paused. "The ridge does not move. Before witnesses. Before the Sky."
 
-The room was very quiet. Out in the yard, faintly, someone was splitting wood: a child, by the uneven rhythm of it, striking three times for every split.
+The fire settled in the hearth. Out in the yard, faintly, someone was splitting wood: a child, by the uneven rhythm of it, striking three times for every split.
 
 Then the door behind Muken banged open.
 
@@ -166,7 +166,7 @@ His voice was low and rough and shaking very slightly, and he did not seem to be
 
 He stopped. He could not go on.
 
-Wystan Greymane looked at his son for a long moment across the room. Something moved in the long grey face that Muken had never seen there, and it was gone almost before he saw it.
+Wystan Greymane looked at his son across the room. Something moved in the long grey face that Muken had never seen there, and it was gone almost before he saw it.
 
 "We are the keepers of the wall," Wystan said.
 
@@ -178,7 +178,7 @@ Godfrey said nothing. His fists were shaking.
 
 "The ridge does not move," said Wystan Greymane softly.
 
-After a long moment, very slowly, his son's fists opened.
+His son's fists opened, slowly, a finger at a time.
 
 Lorn Stark had not spoken. He stood just inside the door with the snow melting on his shoulders, looking at his father across the room. Muken saw him look. He saw the young Stark's jaw tighten, and work, and tighten again, and he saw him decide, somewhere in himself, that there was no argument he could make that his father had not already made to himself and answered.
 
@@ -188,9 +188,9 @@ It was barely a question. It was barely even a word.
 
 Ulf looked at his son.
 
-"You know why," he said. "You've known since Torvald." He let out a long breath through his nose. "Our generation has to come to an end, lad. It's had its time and it's spent it. Most of it badly. We lost the war, forty years of it, and buried our sons in it, and we held on through every one of those years out of nothing but stubbornness, and stubbornness won't take the north back. Something else will." He did not look at Muken. He did not need to. "So we're putting it in your hands. Yours, and Godfrey's. And his." His voice grew rougher. "We entrust him to you, Lorn. Muken. Guide him. Stand beside him. Teach him what he doesn't know, and learn from him what you don't. And see that you win the battle against the Keld."
+"You know why," he said. "You've known since Torvald." He let out a long breath through his nose. "Our generation has to come to an end, lad. It's had its time and it's spent it. Most of it badly. We lost the war, forty years of it, and buried our sons in it, and we held on through every one of those years out of nothing but stubbornness, and stubbornness won't take the north back. Something else will." He did not look at Muken; every man in the room knew where his eyes would have gone. "So we're putting it in your hands. Yours, and Godfrey's. And his." His voice grew rougher. "We entrust him to you, Lorn. Muken. Guide him. Stand beside him. Teach him what he doesn't know, and learn from him what you don't. And see that you win the battle against the Keld."
 
-Lorn Stark was silent for a long moment.
+Lorn Stark was silent while the snow went to water on his shoulders.
 
 Then he put his right hand flat on his chest, over his heart, the way his father had. He held it there. Then he closed it into a fist, slowly, against his breastbone, and pressed it there, hard, once. It was the Stark gesture. Muken had seen Rob do it, and Mark, and every Stark rider on the road to the Foot, before a fight or over a grave. It meant: *here. This. I hold it.*
 
@@ -210,7 +210,7 @@ He had thought it was just a thing people said. The kind of thing you said about
 
 Now two Warlords of the north were giving him their houses.
 
-Wystan Greymane looked at him, and then at Ulf. Ulf looked at him. For a moment neither of the old men said anything. Then Ulf's mouth moved in his braided beard, into something that was very nearly a smile and was not.
+Wystan Greymane looked at him, and then at Ulf. Ulf looked at him. For a moment the old men only looked. Then Ulf's mouth moved in his braided beard, into something that was very nearly a smile and was not.
 
 "We're sorry, lad," he said. "Truly. We'd have liked to see it. Where you go. What you become." His voice roughened. "We'd have liked to be there when you reach the top of whatever it is you're climbing. But we won't be."
 
@@ -220,7 +220,7 @@ He put his hand on Muken's shoulder one last time, and squeezed it, and let go.
 
 Behind Muken, in the doorway, very quietly, someone drew a breath.
 
-He did not need to turn round. He had known she was there since the door banged open. He had felt his own breathing slow down the moment the Stark and the Greymane came in out of the snow, the way it always did, without his ever wondering why. She had been standing in the cold of the doorway the whole time with her grey coat buttoned to the throat and her kit under her arm and her face doing nothing at all.
+He did not turn round. He had known she was there since the door banged open. He had felt his own breathing slow down the moment the Stark and the Greymane came in out of the snow, the way it always did, without his ever wondering why. She had been standing in the cold of the doorway the whole time with her grey coat buttoned to the throat and her kit under her arm and her face doing nothing at all.
 
 She had heard every word.
 
@@ -230,13 +230,13 @@ She had heard every word.
 
 They rode out the next morning, before light.
 
-Two old men on two grey horses, with no escort and no banners, down the long road from the Foot into the south. Ulf Stark had left his wolfhound tied in the gatehouse. It howled for an hour after he was gone, and nobody could make it stop, and in the end Muken went in and sat on the floor beside it with his back against Shigure Tenrai's table and his hand on the great rough head until it stopped. It lay down with its head on his boot. It did not get up again for the rest of the day.
+Two old men on two grey horses, with no escort and no banners, down the long road from the Foot into the south, under the last of the aurora: a slow green curtain over the ridge, fringed violet at its hem, that laid a cold sheen on the snow of the road in front of them and went on burning after they had passed out of sight. Ulf Stark had left his wolfhound tied in the gatehouse. It howled for an hour after he was gone, and nobody could make it stop, and in the end Muken went in and sat on the floor beside it with his back against Shigure Tenrai's table and his hand on the great rough head until it stopped. It lay down with its head on his boot. It did not get up again for the rest of the day.
 
 Eleven days later, a crow came up the road from the south, and Rob Stark read the letter it carried, standing in the yard by the woodpile, and then folded it very small and put it inside his coat and went away and did not speak to anybody until the next morning.
 
-Muken did not need to read it. Nobody did.
+Muken never asked to read it. Nobody did.
 
-He went down to the village at the bottom of the ridge that afternoon and chopped wood until it was too dark to see the block. The old woman with no teeth came and sat on a stump nearby, wrapped in her three shawls, and watched him, and did not say anything at all. When it was full dark she got up and went home. On her way past, she put her hand on his arm, very lightly, just for a moment, and left it there, and took it away.
+He went down to the village at the bottom of the ridge that afternoon and chopped wood until it was too dark to see the block, until the snow round him had gone the deep blue of the hour after sunset and the windows of the forty houses showed one by one the yellow of their lamps. The old woman with no teeth came and sat on a stump nearby, wrapped in her three shawls, and watched him, and kept her own counsel. When it was full dark she got up and went home. On her way past, she put her hand on his arm, very lightly, just for a moment, and left it there, and took it away.
 
 ---
 
@@ -254,11 +254,11 @@ Something went up through him from the soles of his boots to the roots of his wh
 
 "The *gall* of them," he said.
 
-His voice was quite quiet. Rob, and Lorn, and Godfrey Greymane, standing round the table with the outrider, all turned to look at him.
+He said it low. Rob, and Lorn, and Godfrey Greymane, standing round the table with the outrider, all turned to look at him.
 
 "A Moto lord," Muken said. "Coming *here*. To the Foot. A month after they took the head of the man who took it. And a Yukari with her." He laughed. It was not a good laugh. "Barefoot. As if the Moto couldn't come to us on their own, they've got to walk a Yukari up the road beside them, so we'll look at her bare feet in the snow and open the gate and think it's all been made right somewhere behind our backs while we were burying our dead." His hand had closed on the edge of the window frame until the knuckles went white. "What do they want? What can they possibly want from us that they haven't already *taken*?"
 
-Nobody answered him.
+The outrider looked at his boots.
 
 He could feel it rising in him. The warmth, the reinforcement, came down into his arms and legs in a fight; this came from somewhere older than that, and heavier, and it sat behind his left eye like a coal in a grate, and every time he thought of Ulf Stark riding down that road in the dark with his hand flat on his chest, it burned a little brighter. Ulf and Wystan. Torvald before them. The thirty at the breach. The red-haired boy with his spear. The forty houses at the bottom of the ridge breaking up their furniture to burn. Sixteen years of it. Eleven years of the Tenrai on that ridge. Forty years of war.
 
@@ -268,7 +268,7 @@ And now the Moto were coming up the road to make *peace.*
 
 Muken turned his head.
 
-Godfrey was standing at the end of the table with his long grey hands flat on it, the way his father used to stand, and his grey eyes were on Muken's face. They had dark circles under them still. They would have them, Muken thought, for a long time.
+Godfrey was standing at the end of the table with his long grey hands flat on it, the way his father used to stand, and his grey eyes were on Muken's face. They had dark circles under them still. They would have them, Muken thought, for years.
 
 "You can't show them that," Godfrey said. "What's in your face. Not when they come." His voice was low and steady and very tired. "They're coming to make peace. Whatever else they are. They're coming to *help*, if the outrider's right about the veil and who's wearing it. You can't meet them at the gate looking like that."
 
@@ -278,15 +278,15 @@ Muken let go of the window frame. He turned round. The wolfhound lifted its head
 
 "*Help* us?" he said. "They've been saying that for sixteen years, Godfrey. They've been saying it my whole life. Every Moto lord who ever put his seal to a requisition in the north said it was to help us. Every tithe. Every closed road. Every granary they took for the house-guard. *For the good of the north. For order. For unity.*" He was not shouting. He had not raised his voice at all. "And the whole time they were saying it, we were dying. Of hunger. Of the cough. Of the cold, with no oil and no wood. The whole time." He took a step toward the table. "They executed your father, Godfrey. Not a month gone. On their floor. Do you not *feel* anything?"
 
-The room went very still.
+The words hung in the room like breath in the cold.
 
 Rob Stark had gone pale. Lorn Stark, at the other end of the table, had shut his eyes.
 
-Godfrey Greymane looked at Muken for a long moment. His long grey face did not change at all.
+Godfrey Greymane looked at Muken. His long grey face did not change at all.
 
 "Of course I feel it," he said.
 
-His voice was very quiet.
+His voice had dropped almost to nothing.
 
 "I feel angry. I feel so angry I can't sleep. I lie awake every night on that cot in the barracks and I feel it, all night, and when the sun comes up I'm still feeling it." He did not take his hands off the table. "Don't you dare ask me if I feel anything. You didn't know him. You knew him a month. I knew him my whole life."
 
@@ -304,7 +304,7 @@ He straightened up from the table.
 
 The wolfhound had laid its head back down on Muken's boot.
 
-Muken stood in the middle of the gatehouse of Kharven's Foot, under the two wolves on the wall, with the black hot thing still burning behind his left eye and a cut across his ribs that would not close, and looked at Godfrey Greymane, and did not say anything for a long time.
+Muken stood in the middle of the gatehouse of Kharven's Foot, under the two wolves on the wall, with the black hot thing still burning behind his left eye and a cut across his ribs that would not close, and looked at Godfrey Greymane while the light went red and long across the floor from the broken window.
 
 He knew Godfrey was right.
 
@@ -363,3 +363,5 @@ Godfrey said nothing.
 - Muken's last line: *Then we've two days to mend the gate.*
 
 **Rule ids that most constrained it:** R70-114 and R73-38 (warm bonds shown before the loss lands: the oaths, Wystan's hand on his shoulder, the wolfhound), R72-31 (the warning in the world before the danger: the gold seal), R74-1 (the chronicle as the document voice at the threshold), R70-111 (one crafted speech at the big moment: the oaths).
+
+**Revision 2026-10-24.** Lifted the colour at the Foot (gold resin on the split pine, the old woman's shawls, frost-glitter, the aurora over the two old men riding south, blue snow and lamp-yellow windows at the village) and kept magitech absent at the frontier fort; trimmed every "did not need to", "for a long moment/time", "very/quite still" and "Nobody answered", and broke one countdown in Ulf's speech into a single sentence. All of Isaac's beats and lines are kept, in order.

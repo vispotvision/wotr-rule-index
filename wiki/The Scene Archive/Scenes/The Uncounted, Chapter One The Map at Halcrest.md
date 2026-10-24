@@ -30,7 +30,9 @@ A month after the war ended, in the chain-cities of Nalūn, a mercenary of sixte
 
 ### I
 
-The room above the salt-tea house at Halcrest was rented by the week and smelled of it. Lamp oil, wet wool, the butter-and-brine fug of the tea boiling below, and under all of it the mineral warmth that came up through the floor from the city cut into the dead sea's bed. The walls were salt, the pale Halcrest kind with its bedding planes showing like the grain of a board, and the lamp on the table was cut from salt too, so its light came through the stone the colour of weak honey. Outside the one small window the upper town lay under its fifth month of snow. Somewhere out past the roofs, the chain at Bridgemarch was taking up slack, and its slow iron clank came through the glass so regularly that nobody in the room heard it any more.
+The room above the salt-tea house at Halcrest was rented by the week and smelled of it. Lamp oil, wet wool, the butter-and-brine fug of the tea boiling below, and under all of it the mineral warmth that came up through the floor from the city cut into the dead sea's bed. The walls were salt, the pale Halcrest kind with its bedding planes showing like the grain of a board, and the lamp on the table was cut from salt too, so its light came through the stone the colour of weak honey. It was an oil lamp. Draw cost what a sergeant's pay could not cover, and the tea-house paid for none above the kitchen.
+
+Outside the one small window the upper town lay under its fifth month of snow, and it was beautiful in the way only a city cut from a dead sea could be. The terraces stepped up the basin wall in pale tiers, roofed in salt slab that the frost had furred white, and the bridge-chains strung from terrace to terrace carried worked lamps along their length like beads on a cord. Up on the factor quarter the lamps burned behind panes of clear salt-glass, rose and amber and a clean cold white, and the snow falling past them went pink and gold for the space of a breath before it dropped into the dark. Along the shaft-heads the brass gauge-housings stood capped in snow, their needles trembling under slate and Guild seal, and below the noise of the street ran the low draw-hum of the brine pumps, felt in the window glass more than heard. Somewhere out past the roofs, the chain at Bridgemarch was taking up slack, and its slow iron clank came through the glass so regularly that nobody in the room heard it any more.
 
 Muken had the map pinned at the corners with whatever was to hand. A whetstone held the north-east. His sister's tin of salve held the south. His own left boot, which he had taken off an hour ago to look at a blister and then forgotten, held the west, and the east was held down by the flat of his scrap-iron sword, a length of black and pitted steel that three different smiths had looked at and declined to put a price on.
 
@@ -98,7 +100,7 @@ He was quiet for a moment. Downstairs, someone dropped a pot and swore by their 
 
 "And the things on this map aren't animals, Muken. Not really. They're what fell through when the spirit side broke. They came out where it broke worst. And now they're walking somewhere else." She tapped the far edge of the paper, the blank and the timber. "My guess is they're going where it's thinnest. Where it's quiet. Somewhere they can get back."
 
-He looked at her for a long time. She had a way of saying the strangest things in the voice she used for telling a man to hold still while she pulled a splinter of rib out of his lung, and he had learned, slowly, over a lot of bad nights, that this was the voice she used when she was most sure.
+He studied her. She had a way of saying the strangest things in the voice she used for telling a man to hold still while she pulled a splinter of rib out of his lung, and he had learned, slowly, over a lot of bad nights, that this was the voice she used when she was most sure.
 
 "You got all that from boiling needles."
 
@@ -116,7 +118,7 @@ He laughed, a short bark, the broken tooth showing, and dragged a hand down his 
 
 ### III
 
-They had been raised in the Cuttings, under Halcrest, three galleries down where the warmth was steady and the air tasted of powdered halite and lamp soot. Their mother cut salt for a factor house called Orrel until her lungs went, and then she sorted bars at the stamping floor until her eyes went, and then she did nothing at all for nearly a year in a room the size of a cart, with the salt-throat coughing out of her in long dry fits that sounded like someone sawing a board, and her children's hands on her whenever a contract let them come down. She died a month ago, on the morning the news of Shimane came down the galleries, while the whole of the Cuttings stood out in the passages passing it from mouth to mouth that the war was over. Her name was Kasane. She had no other name the clerks would take.
+They had been raised in the Cuttings, under Halcrest, three galleries down where the warmth was steady and the air tasted of powdered halite and lamp soot. The draw came down the shafts in sealed conduit for the brine pumps and the lift-cages and went past the galleries without stopping. The cutting families burned fish-oil in tin cups, and the cages hummed by in the dark with their worked lamps lit and their gates shut, carrying factor men down to the stamping floor and up again. Where a cup's flame caught a seam of clean halite the wall threw it back in pink and violet and a faint drowned green, and the gallery children used to lie on their backs and count the colours, because it was the one thing in the Cuttings nobody charged for. Their mother cut salt for a factor house called Orrel until her lungs went, and then she sorted bars at the stamping floor, under the draw-presses that struck the house seal into every bar with a sound like a door slammed, until her eyes went, and then she did nothing at all for nearly a year in a room the size of a cart, with the salt-throat coughing out of her in long dry fits that sounded like someone sawing a board, and her children's hands on her whenever a contract let them come down. She died a month ago, on the morning the news of Shimane came down the galleries, while the whole of the Cuttings stood out in the passages passing it from mouth to mouth that the war was over. Her name was Kasane. She had no other name the clerks would take.
 
 That was the whole of it, as far as anyone at Orrel was concerned. A cutting-class woman with no house name, no papers and no token, entered in the drainage book under a number because there was nothing else to enter her under. She had come down into the Cuttings sixteen years ago, in the middle of the war, a young woman alone with a boy at the breast, from somewhere she never once named, and the Orrel house had taken the pair of them in the way the factor houses took in everything that arrived without a claim on it. The boy was too young to remember anywhere else, and grew up believing he had been born in the gallery, because nobody told him otherwise. Three years later there was Yukazuri. Whose either of them was, their mother never said. Muken had stopped asking before he was ten. Yukazuri, who could read most people the way the scribes read a bill, had never been able to read it out of her, and had gone on trying to the end.
 
@@ -160,7 +162,7 @@ He looked up then, and she was watching him with that grave face that most peopl
 
 "Do you remember the mark?" she asked.
 
-He knew which mark. He did not need to ask. "Course I do."
+He knew which mark. "Course I do."
 
 Their mother had drawn it for them once, when Yukazuri was very small and Muken was not much bigger, with the end of a burned stick on the salt of the wall. It was not a letter. It was not any letter in the Concord hand or the scribe's hand or the trader's ciphers or anything else they had ever seen since, and they had seen a great deal of writing by now on a great many contracts. It looked a little like a knot and a little like a closed eye, and a little like neither. Kasane had said, *that's ours. That's our name. Don't show it to the clerks.* And then she had rubbed it out with the heel of her hand and never drawn it again.
 
@@ -174,7 +176,7 @@ His head came up sharply. "You what?"
 
 "Sis."
 
-"He looked at it for a long time," she said, as if he had not spoken. "And then he said it wasn't anything. He said it was a child's scribble. He said it very fast, and then he wiped the window with his sleeve, and he wouldn't look at me after that." She folded the edge of the map down flat under her palm. "His breath went short when he said it. Here." She touched the hollow of her own throat. "Right up high. They do that when they're frightened and they're trying to be polite about it."
+"He looked at it a good while," she said, as if he had not spoken. "And then he said it wasn't anything. He said it was a child's scribble. He said it very fast, and then he wiped the window with his sleeve, and he wouldn't look at me after that." She folded the edge of the map down flat under her palm. "His breath went short when he said it. Here." She touched the hollow of her own throat. "Right up high. They do that when they're frightened and they're trying to be polite about it."
 
 The chain at Bridgemarch clanked. The lamp hissed in its salt bowl.
 
@@ -220,7 +222,7 @@ Draycott followed his look and saw what was on the table, and for the first time
 
 "Then you'll understand why we're paying what we're paying. Escort of a single convoy, eleven wagons, from the Halcrest gate to the river post and back. Twenty fighting men, your captain's choice, plus the surgeon. Forty bars a man, stamped Vessant, full weight. Eighty for you as sergeant. Half at the gate."
 
-It was a great deal of salt. Muken did not let it show on his face, but Yukazuri saw his right thumb move once against the edge of the table, which was where it showed on him.
+It was a great deal of salt. Muken kept it off his face. Yukazuri saw his right thumb move once against the edge of the table, which was where it showed on him.
 
 "What happened to the last escort?" Yukazuri asked.
 
@@ -254,7 +256,7 @@ The token hummed. Downstairs, the tea was boiling over, and someone was shouting
 
 "Name it."
 
-Muken looked at the map. He looked at it for a long time, at the long ragged tongue of red marks stretching out of the south, out of everything that had happened in the war's last years, out past the roads and the towns and the cuttings and up into the white space at the edge where the surveyors had given up. He thought about four hundred and thirty miles in two seasons. He thought about things that were not really animals, walking home through the snow.
+Muken looked at the map. He looked at the long ragged tongue of red marks stretching out of the south, out of everything that had happened in the war's last years, out past the roads and the towns and the cuttings and up into the white space at the edge where the surveyors had given up. He thought about four hundred and thirty miles in two seasons. He thought about things that were not really animals, walking home through the snow.
 
 He thought about a room the size of a cart.
 
@@ -264,7 +266,7 @@ He thought about a room the size of a cart.
 
 "She doesn't."
 
-"She does, or you'll be paying the half-again on yourself." Her voice had not risen. It did not need to. "You can dislike me when we get back."
+"She does, or you'll be paying the half-again on yourself." Her voice had not risen. "You can dislike me when we get back."
 
 Muken opened his mouth and shut it again. Draycott looked from one of them to the other with the faint interest of a man watching two other men haggle over a horse he did not intend to buy.
 
@@ -282,7 +284,7 @@ Muken stood up then. The room got smaller. He was half a head taller than the fa
 
 "Then it's on that," he said. "Same as it's always been."
 
-Draycott looked at the hand for a long moment. Then, because he was a man of the factor houses and a factor knew a good price when he was shown one, he took it.
+Draycott considered the hand. Then, because he was a man of the factor houses and a factor knew a good price when he was shown one, he took it.
 
 ---
 
@@ -302,7 +304,7 @@ When he had gone, his snow melting into dark spots on the floorboards by the doo
 
 "Captain would sell you by the ounce," she said. "He'd get more for you that way."
 
-He laughed again, quieter, and put his arm round her shoulders, and she let him, which she did not let anyone else do. They stood like that over the map. The lamp burned down in its salt bowl and the light through the stone went from honey to amber, and outside the window the snow came on thicker over the roofs of Halcrest, and down in the dark the chain at Bridgemarch kept the city hung together, link by link, the way it always had.
+He laughed again, quieter, and put his arm round her shoulders, and she let him, which she did not let anyone else do. They stood like that over the map. The lamp burned down in its salt bowl and the light through the stone went from honey to amber, and outside the window the snow came on thicker over the roofs of Halcrest, rose and gold where it fell past the factor lamps and white again below them, and down in the dark the chain at Bridgemarch kept the city hung together, link by link, the way it always had.
 
 "They're going somewhere," Muken said at last. "The things on the map."
 
@@ -359,3 +361,5 @@ Far out to the north-east, past the last of the roads, in the white space at the
 - **The Grand World / Malakar's splitting.** Muken's lore says he goes north "after Malakar's splitting." I took your "before the great split of the continents" to mean this scene sits before that splitting, and the north-road comes after.
 
 **Rule ids that most constrained it:** R49-02 (tense), R70-76 (mystic frame), R70-54 / R70-55 (first-sight inventories in POV order), R72-25 (a live lie with its tell), R74-5 (the lie caught when it is acted on in play), R71-30 (Still-Water Broadcast and the Shingan held unexplained), R70-114 (the warm bond, brother and sister), R53-30 (one world-only detail per beat: the salt lamps, the token's hum, the chain).
+
+**Revision 2026-10-24.** Halcrest given its city magitech and colour (the terraced skyline, worked lamps behind salt-glass in the factor quarter, shaft-head gauge-housings, brine pumps and lift-cages on draw, draw-presses at the stamping floor, the halite seams throwing pink and violet), with the tea-house room and the galleries kept oil-lit; "for a long time/moment," "did not need to" and one not-but construction trimmed. Every beat and Isaac's lines ("Nah, this can't be right, sis..." and "Yeah. That's what it looked like.") kept word for word.

@@ -12,9 +12,9 @@
 
 ### I · The Silver Chair
 
-The Shirogane kept their house at Kharven-Seat on the western terrace below the Hall of Verdicts, where the rock fell away in a cliff of grey stone four hundred feet to the frozen river, and the wind came up the face of it and never stopped.
+The Shirogane kept their house at Kharven-Seat on the western terrace below the Hall of Verdicts, where the rock fell away in a cliff of grey stone four hundred feet to the frozen river, and the wind came up the face of it and never stopped. Above it the city climbed in terraces to the Hall, every tier strung with Guild lamps on their iron standards, so that at dusk Kharven-Seat stood on its rock like a lit crown, and the Marrow far below wound away north between its black forests as a ribbon of ice that caught every one of those lights and glittered with them.
 
-It was a house of silver. Everything in it that could be made of silver was made of silver, and what could not be had been washed with it, so that the long receiving room on the cliff side was a single cold gleam from end to end: the lamps in their silver cages along the walls, the silver thread worked into the grey silk of the hangings, the floor of pale grey stone polished until it held the lamplight like still water. At the far end, on a dais of three low steps, stood a chair of hammered silver with a back as high as a tall man. The lamps had been placed so that whoever sat in it was lit from both sides and from below, and anyone who stood before it was lit from nowhere.
+It was a house of silver. Everything in it that could be made of silver was made of silver, and what could not be had been washed with it, so that the long receiving room on the cliff side was a single bright gleam from end to end: the worked lamps in their silver cages along the walls, burning on draw with a clear white flame that had a heart of blue in it and never guttered; the silver thread worked into the grey silk of the hangings, catching that light in a thousand points; the floor of pale grey stone, warm underfoot from the draw lines laid beneath it, polished until it held the lamplight like still water. Behind the hangings the sealed conduit ran in silver-washed sleeves, and the Guild seal on the gauge-housing by the door had been struck in silver too, and the whole room carried the low steady draw-hum the way a bell carries the last of its note. Along the cliff side, tall windows of old crown glass looked out over the drop, and through them the frozen river below lay white and glittering under the evening, with the first green of the aurora coming up over the forest beyond it. At the far end, on a dais of three low steps, stood a chair of hammered silver with a back as high as a tall man. The lamps had been placed so that whoever sat in it was lit from both sides and from below, and anyone who stood before it was lit from nowhere.
 
 Shizuha Shirogane was not sitting in it.
 
@@ -40,7 +40,7 @@ The grey men pulled her forward. They did it hard, by the arms, so that her boun
 
 Shizuha looked down at her.
 
-She looked for a long time. Her hands stayed clasped behind her back. Her face did not change at all. The coin-bright rings in her pale eyes moved over the girl slowly, the way a factor's eyes move down a column of figures, the swollen eye and the split lip and the white hair and the black-blooded forearms, and back to the white hair, and stayed there.
+She took her time. Her hands stayed clasped behind her back. Her face did not change at all. The coin-bright rings in her pale eyes moved over the girl slowly, the way a factor's eyes move down a column of figures, the swollen eye and the split lip and the white hair and the black-blooded forearms, and back to the white hair, and stayed there.
 
 "Ah," said Shizuha Shirogane.
 
@@ -74,7 +74,7 @@ She looked up at Shizuha Shirogane in her frost-worked silver gown at the foot o
 
 It landed on the silver-grey silk at the old woman's breast. Blood and spittle, in a long dark spatter across the frost-work.
 
-Nobody in the long room moved.
+Nobody in the long room moved. The lamps burned on in their silver cages, and the draw-hum went on in the walls.
 
 "You'd better enjoy this," said Yukazuri.
 
@@ -82,13 +82,11 @@ Her voice was a croak. It was thin and cracked and it had no strength left in it
 
 "This little bit of quiet," she said. "While it lasts. Enjoy it." Her open eye did not leave the old woman's. "My brother is going to kill every last one of you."
 
-She did not say anything else.
-
-She did not need to. She knelt there on the polished stone, at the foot of the silver dais, with the grey man's fist in her hair and her bound wrists in her lap and her black-blooded forearms bare, thirteen years old, and looked at the Queen of the Clans with one grey eye, and did not look away.
+She said nothing else. She knelt there on the polished stone, at the foot of the silver dais, with the grey man's fist in her hair and her bound wrists in her lap and her black-blooded forearms bare, thirteen years old, and looked at the Queen of the Clans with one grey eye, and did not look away.
 
 Shizuha Shirogane looked down at the blood on her breast.
 
-She did not touch it. She looked at it for a long moment, the way she had looked at the girl, as if it were a figure in a column. Then she lifted her eyes past the girl to the man on one knee behind her, and inclined her head, a single degree.
+She did not touch it. She looked at it as she had looked at the girl, a figure in a column. Then she lifted her eyes past the girl to the man on one knee behind her, and inclined her head, a single degree.
 
 Karogane rose.
 
@@ -116,13 +114,13 @@ Kagenori Tenrai Moto stood a pace behind his queen's right shoulder, with his na
 
 They sent her home on the ice.
 
-The rivers of Kharven did not flow in winter. They froze through from bank to bank, and the frozen courses became the only roads in the north that never drifted shut, white ribbons winding through the dark forest and the snowfields from the high country down to the Skeldmere, and every sledge and every courier and every army in the north travelled on them from the first hard frost to the thaw. The Marrow ran from the cliff below Kharven-Seat north and east for three days' travel, and passed within sight of the walls of Kharven's Foot, and went on to the lake.
+The rivers of Kharven did not flow in winter. They froze through from bank to bank, and the frozen courses became the only roads in the north that never drifted shut, white and blue-white ribbons winding through the dark forest and the snowfields from the high country down to the Skeldmere, and every sledge and every courier and every army in the north travelled on them from the first hard frost to the thaw. The Marrow ran from the cliff below Kharven-Seat north and east for three days' travel, and passed within sight of the walls of Kharven's Foot, and went on to the lake.
 
 Karogane sent her down the Marrow on a sledge.
 
 A small one, a dog-sledge, with no dogs. He had it pushed out from the foot of the Seat's cliff onto the river ice with a sail rigged on it of plain grey cloth, so that the south wind that came off the Seat's cliff and down the frozen river valley would carry it north. On the sledge he set a pike, upright, lashed to the frame. On the pike he set what he had taken in the silver room. He had wrapped nothing round it. He had left her hair loose, the Kōkan white, so that it would be seen.
 
-The wind took the sledge north down the Marrow. It went for two days and a night, through the forest and out past the frozen meres, past Keld riders straggling home from the Skeldmere who stopped on the bank and stared and did not follow, past a Thornwall pike column marching south who saw it go by and stood in the snow and took off their iron caps. And on the morning of the third day after the battle, the Greymane watch on the river wall at Kharven's Foot saw something small and dark coming up the white ribbon of the Marrow from the south, with a grey sail on it, very slowly, the way a leaf comes down a stream.
+The wind took the sledge north down the Marrow. It went for two days and a night, under the aurora hanging green and violet over the river valley in long slow curtains, through the forest and out past the frozen meres, past Keld riders straggling home from the Skeldmere who stopped on the bank and stared and did not follow, past a Thornwall pike column marching south who saw it go by and stood in the snow and took off their iron caps. And on the morning of the third day after the battle, the Greymane watch on the river wall at Kharven's Foot saw something small and dark coming up the white ribbon of the Marrow from the south, with a grey sail on it, very slowly, the way a leaf comes down a stream.
 
 ---
 
@@ -132,13 +130,13 @@ It was Godfrey Greymane who went down to the river.
 
 He went alone. He did not let anyone come with him. He walked out of the river postern and down the bank onto the ice and stood there in the cold with his grey cloak blowing, and waited while the little grey-sailed sledge came up the frozen river toward him, slowing as the wind failed in the lee of the ridge, until it stopped, at last, of its own accord, twenty paces from where he stood.
 
-He looked at it for a long time.
+He looked at it until the cold had gone through his boots.
 
 Then he took off his cloak, and walked to the sledge, and did what had to be done with his long grey hands, carefully, so that nothing of her touched the ice, and wrapped her in the grey wool of the Greymane cloak, and carried her back up the bank in his arms.
 
 Muken was at the postern.
 
-Nobody had told him. Nobody had needed to. The Greymane on the river wall had seen the white hair from a mile off, and the word had gone round the Foot in the time it takes to breathe in, and by the time Godfrey came up the bank with the grey bundle in his arms, every soul in the fort who could stand was on the walls or in the yard or at the postern gate, silent, and the king of the north was standing in the gate.
+Nobody had told him. The Greymane on the river wall had seen the white hair from a mile off, and the word had gone round the Foot in the time it takes to breathe in, and by the time Godfrey came up the bank with the grey bundle in his arms, every soul in the fort who could stand was on the walls or in the yard or at the postern gate, silent, and the king of the north was standing in the gate.
 
 He had come straight from the surgeons' line. He had been there three days, since the shore. He had not left it. He had worked it the way she had worked it, with the two Greymane women who could stitch and the Stark boy who could carry and Kiyome Byakuya, who could close a wound as well as anybody, kneeling in the rows of linen they had brought out from the Foot to replace the rows that had burned. He had not known what he was doing. He had done it anyway. He had held men down while Kiyome took arrowheads out of them, and boiled cloth, and fetched spirit, and sat with the ones who were going, the way she would have, until they went. He had not slept. His own ribs had been strapped by Kiyome on the first night with a long band of linen pulled so tight he could only breathe in the top of his chest, and his forearm sewn, badly, by one of the Greymane women while he held the lamp for her himself. There was blood on his hands that was not his. There was always blood on his hands now.
 
@@ -152,9 +150,9 @@ Godfrey gave her to him.
 
 It was very light. That was what Muken thought, afterward, when he could think anything. That it was so light. She had always been small, smaller than any girl her age in the Cuttings, because there had never been enough, and he had always given her the larger share and she had always found a way to give half of it back to him when he was not looking. And now it was so light he could have carried it in one arm.
 
-He did not unwrap the cloak. He did not need to. A strand of white hair had come out at the top of it, and lay across the grey wool, and stirred in the wind.
+He did not unwrap the cloak. A strand of white hair had come out at the top of it, and lay across the grey wool, and stirred in the wind, and the low sun off the river ice caught it and turned it for a moment to pale gold.
 
-He stood in the postern gate with it in his arms for a long time.
+He stood in the postern gate with it in his arms while the shadow of the wall crept across the yard.
 
 Then he turned round and carried her across the yard of Kharven's Foot, through the silent crowd, which drew back from him as he came like water from a stone, to the death-house.
 
@@ -168,19 +166,19 @@ He did not unwrap her. He did not speak. He sat with his knees drawn up and his 
 
 They came, after a while, to sit the Waiting with him.
 
-He did not ask them. Nobody asked. It was not a thing that was asked. Lorn Stark came first, in his father's mail, and sat down on the cold floor of the death-house a little way along the wall from him, and drew up his knees, and said nothing. Then Godfrey, without his cloak, in his shirt in the bitter cold, who sat on Muken's other side. Then Kiyome Byakuya, in her near-white, with her face quite still and her eyes swollen, who knelt at the foot of the stone shelf with her hands folded and the white cord of her house's knot still hanging loose from her sword-hilt. Then Rob and Mark Stark, Mark with his arm strapped across his chest where the arrow had been. Then the two Greymane women from the surgeons' line, and the Stark boy who could carry, and the boy with the red ears from the vanguard, who sat in the doorway because there was no room left inside, and cried without any sound at all.
+He did not ask them. Nobody asked. It was not a thing that was asked. Lorn Stark came first, in his father's mail, and sat down on the cold floor of the death-house a little way along the wall from him, and drew up his knees, and said nothing. Then Godfrey, without his cloak, in his shirt in the bitter cold, who sat on Muken's other side. Then Kiyome Byakuya, in her near-white, the glass beads at her collar catching the seal-fat yellow of the yard lamp through the open door, with her face set and her eyes swollen, who knelt at the foot of the stone shelf with her hands folded and the white cord of her house's knot still hanging loose from her sword-hilt. Then Rob and Mark Stark, Mark with his arm strapped across his chest where the arrow had been. Then the two Greymane women from the surgeons' line, and the Stark boy who could carry, and the boy with the red ears from the vanguard, who sat in the doorway because there was no room left inside, and cried without any sound at all.
 
-And then the old woman with no teeth, on two sticks, in her three shawls, who had to be helped over the threshold, and who did not sit, because she could not have got up again, but stood against the wall just inside the door with both hands on her sticks, and looked at the grey bundle on the shelf with her toothless mouth set in a long hard line.
+And then the old woman with no teeth, on two sticks, in her three shawls, who had to be helped over the threshold, and who did not sit, because she could not have got up again. She stood against the wall just inside the door with both hands on her sticks, and looked at the grey bundle on the shelf with her toothless mouth set in a long hard line.
 
 They sat the Waiting.
 
-That was all the Waiting was. Kharven people did not wail for their dead. They did not sing. They did not pray to anyone, because the Sky did not need to be told. They came into the cold room where the dead lay and sat with them in silence, so that the dead would not be alone in the cold, and so that the living would not be alone with the dead. A full night, from dark to dark. Sometimes more. Nobody spoke. Nobody ate. Nobody left, except to relieve themselves, and then they came back.
+That was all the Waiting was. Kharven people did not wail for their dead. They did not sing. They did not pray to anyone, because the Sky did not need to be told. They came into the cold room where the dead lay and sat with them in silence, so that the dead would not be alone in the cold, and so that the living would not be alone with the dead. A full night, from dark to dark. Sometimes more. There was no talk. Nobody ate. Nobody left, except to relieve themselves, and then they came back.
 
-They sat with her all that day, and all that night, and into the grey of the next morning.
+They sat with her all that day, and all that night, while the aurora came and went green over the doorway, and into the blue of the next morning.
 
 Muken did not speak once.
 
-Not to Lorn, beside him, whose shoulder was pressed against his in the cold. Not to Godfrey on his other side, shivering in his shirt. Not to Kiyome, who at some point in the night reached out one long white hand and laid it on the back of his bloody one where it hung off his knee, and left it there, and he did not move his hand away and did not turn it over to take hers. He sat with his back against the stone and his eyes on the grey bundle on the shelf and his face quite still, and nothing came out of him at all.
+Not to Lorn, beside him, whose shoulder was pressed against his in the cold. Not to Godfrey on his other side, shivering in his shirt. Not to Kiyome, who at some point in the night reached out one long white hand and laid it on the back of his bloody one where it hung off his knee, and left it there, and he did not move his hand away and did not turn it over to take hers. He sat with his back against the stone and his eyes on the grey bundle on the shelf, and nothing came out of him at all.
 
 Lorn knew that face. He had seen it in the long room, and at the woodpile, and on the Seat road with the salve tin in his fist.
 
@@ -206,19 +204,19 @@ Lorn started to get up after him. Godfrey's hand on his arm stopped him.
 
 He trained.
 
-He did it in the middle of the yard, in the snow, by the light of a single fat-lamp on the woodpile, with the Greymane watch on the walls above him and the wind coming over the curtain wall off the high country. He had no sword. The scrap-iron sword lay in the Foot's smithy in three pieces on the anvil, where the Stark armourer had laid it after Lorn carried the pieces back from the shore. He had looked at it, the first night, and gone away. So he took a practice blade from the rack by the barracks door, a Greymane drill-sword of heavy iron with no edge and a weighted pommel, made to build the arm, twice the weight of a real one. And he went out into the middle of the yard with it.
+He did it in the middle of the yard, in the snow, by the light of a single fat-lamp on the woodpile that threw a small yellow circle on the snow and nothing past it, with the Greymane watch on the walls above him and the wind coming over the curtain wall off the high country. He had no sword. The scrap-iron sword lay in the Foot's smithy in three pieces on the anvil, where the Stark armourer had laid it after Lorn carried the pieces back from the shore. He had looked at it, the first night, and gone away. So he took a practice blade from the rack by the barracks door, a Greymane drill-sword of heavy iron with no edge and a weighted pommel, made to build the arm, twice the weight of a real one. And he went out into the middle of the yard with it.
 
 And he began to cut.
 
-Not drill. Not forms. Not anything Yusif had ever taught him in the back of a worked-out gallery with a stick of ash. He cut the way a man cuts wood when he means to split the whole stack before morning. Down, from the right shoulder, with everything he had. Up, from the left hip. Across. Down again. Over and over, at nothing, at the snow and the dark and the white wind, with the heavy iron going round his head and his strapped ribs screaming at every stroke so that he could only breathe in short snarling gasps through his teeth.
+It was no drill and no form, nothing Yusif had ever taught him in the back of a worked-out gallery with a stick of ash. He cut the way a man cuts wood when he means to split the whole stack before morning. Down, from the right shoulder, with everything he had. Up, from the left hip. Across. Down again. Over and over, at nothing, at the snow and the dark and the white wind, with the heavy iron going round his head and his strapped ribs screaming at every stroke so that he could only breathe in short snarling gasps through his teeth.
 
 He cut until the stitches in his forearm tore and the blood ran down his wrist inside his sleeve and made the grip slick, and then he wrapped the grip in a strip of linen torn from the bottom of his shirt, and went on cutting.
 
-He cut until the sun came up grey over the curtain wall, and the Greymane watch changed, and the new watch looked down at him from the walls and looked at each other and said nothing.
+He cut until the sun came up over the curtain wall, rose first and then a hard pale gold, and set the frost on every merlon glittering, and the Greymane watch changed, and the new watch looked down at him from the walls and looked at each other and said nothing.
 
 He cut until noon.
 
-Nobody stopped him. Lorn stood in the door of the barracks with his arms folded and his jaw working on the left side and watched him, hour after hour. Godfrey stood beside him for a while, and went away, and came back. Kiyome did not come out at all. Once, at mid-morning, the old woman with no teeth came out of the barracks on her two sticks and stood by the woodpile and watched him for a long time with her toothless mouth set, and then shook her head, very slowly, and went back in.
+Nobody stopped him. Lorn stood in the door of the barracks with his arms folded and his jaw working on the left side and watched him, hour after hour. Godfrey stood beside him for a while, and went away, and came back. Kiyome did not come out at all. Once, at mid-morning, the old woman with no teeth came out of the barracks on her two sticks and stood by the woodpile and watched him through a hundred strokes with her toothless mouth set, and then shook her head, very slowly, and went back in.
 
 He was not getting better. That was what Lorn saw, from the door, and what frightened him most. A man who drills gets better. He finds the line of the stroke and grooves it and the stroke gets cleaner and faster and costs less. Muken was getting worse. Every cut was harder than the last and wilder, more of the shoulder in it and less of the hips, the heavy iron going wide of the line and coming back late, and every time it went wide he cut harder to pull it back, and it went wider. He was not cutting at anything. He was cutting at everything. And every stroke he cut, the gold seam in his left eye, which Lorn could see from twenty paces off now in the grey light, burned a little brighter, and spread a little further across the grey, and the snow round his feet in the middle of the yard had begun, very faintly, to crack.
 
@@ -238,7 +236,7 @@ There was no light. There was no sound. Nobody on the walls saw anything come. B
 
 And there was someone standing beside him.
 
-Lorn Stark, in the barracks door, saw a figure. He said so afterward, and Godfrey said so too, and neither of them could ever say more. A tall figure, very tall, taller than the Zettari, standing in the snow a pace to the king's left, made of the same flat grey noon light as everything else in the yard but somehow more of it, so that it was hard to look at directly, like the sun through cloud. They could not see its face. They could not see its feet. They thought, both of them, separately, that it had wings, or had had them once, and that the wings were broken.
+Lorn Stark, in the barracks door, saw a figure. He said so afterward, and Godfrey said so too, and neither of them could ever say more. A tall figure, very tall, taller than the Zettari, standing in the snow a pace to the king's left, made of the same pale noon light as everything else in the yard but somehow more of it, burning gold along its edges, so that it was hard to look at directly, like the sun through cloud. They could not see its face. They could not see its feet. They thought, both of them, separately, that it had wings, or had had them once, and that the wings were broken.
 
 Muken did not stop cutting.
 
@@ -268,7 +266,7 @@ Faisal put his hands behind his back.
 
 It was a small movement. The broken light simply shifted, at the place where its arms would be, and drew them back, and clasped them there, and stood. And something in the way it stood made Lorn Stark, in the barracks door, go cold all down his back, though he could not have said why, and never knew. He had never been in the Shirogane house at Kharven-Seat. He had never seen Shizuha Shirogane stand at the foot of her silver dais with her hands clasped behind her back, looking down at a kneeling girl.
 
-The Bound Flame looked at the king of the north for a long time.
+The Bound Flame looked at the king of the north, and let the silence stand.
 
 "Such obsession," said Faisal at last. "Such malice."
 
@@ -298,7 +296,7 @@ It was not a question. The light shifted. The hands came out from behind its bac
 
 And the world went white.
 
-It did not fade. It did not dissolve. It was simply gone, between one breath and the next, the yard and the walls and the woodpile and the men in the doorway and the grey noon sky, and in its place there was nothing but white. A white with no edge and no depth and no horizon, like the lifting on the Skeldmere but more complete than any lifting, so white that Muken could not have said whether he was standing in it or floating, or whether there was anything under his feet at all.
+It did not fade. It did not dissolve. It was simply gone, between one breath and the next, the yard and the walls and the woodpile and the men in the doorway and the grey noon sky, and in its place there was nothing but white. A white with no edge and no depth and no horizon, like the lifting on the Skeldmere but more complete than any lifting, so white that Muken could not have said whether he was standing in it or floating, or whether there was anything under his feet at all. And the white shone. It was the white at the heart of a forge, the white of the sun on the Skeldmere at noon, and it had colours in it the way pearl has colours, rose and pale green and a blue like the inside of ice, moving slowly through it and never settling.
 
 The drill-sword was gone from his hands.
 
@@ -314,11 +312,11 @@ And pulled.
 
 Muken came out of himself.
 
-He felt it happen. He felt himself come loose from his own body the way a man's foot comes loose from a boot stuck in a drift: a long dragging suck, and then a sudden lightness, and then nothing holding him at all. He was standing in the white beside himself. He could see himself. His own body, standing with its bloody hands empty at its sides and its chest strapped under the dead sergeant's coat and its white hair loose and its face, his face, quite still, the gold eye open and staring at nothing.
+He felt it happen. He felt himself come loose from his own body the way a man's foot comes loose from a boot stuck in a drift: a long dragging suck, and then a sudden lightness, and then nothing holding him at all. He was standing in the white beside himself. He could see himself. His own body, standing with its bloody hands empty at its sides and its chest strapped under the dead sergeant's coat and its white hair loose and its face, his face, emptied, the gold eye open and staring at nothing.
 
 And then the white began to come apart.
 
-It came apart into threads. The same threads he had seen in the place where Faisal knelt, fine as hair, gold and silver and black, but now they were not running past him and around him in the dark. They were running through him. Through the thing he was now, outside his body, the thing that had come loose. They ran into him from every side of the white, from the whole of the world, more of them than there were snowflakes on the Skeldmere, and every one of them was humming at its own note, and every one of them was beginning, slowly, to dissolve.
+It came apart into threads. The same threads he had seen in the place where Faisal knelt, fine as hair, gold and silver and black, the gold burning like wire drawn hot from a die, the silver cold and clear, the black so deep it seemed to be lit from behind, and all of them strung across the shining white in their millions like the aurora woven into cloth. Now they were not running past him and around him in the dark. They were running through him. Through the thing he was now, outside his body, the thing that had come loose. They ran into him from every side of the white, from the whole of the world, more of them than there were snowflakes on the Skeldmere, and every one of them was humming at its own note, so that the whole white rang with a chord too vast and too beautiful to bear, and every one of them was beginning, slowly, to dissolve.
 
 They were melting. Unravelling. Coming apart at the ends into fine gold dust that drifted in the white like sparks over a forge. And where they came apart, he could feel heat.
 
@@ -370,13 +368,13 @@ He looked at the boy.
 
 Muken went very still.
 
-"You asked me, in the yard," said the Bound Flame, quite gently, "what I know about the reason she died." The bright places did not leave his face. "I know this much. I know that whoever sent her home to you on that river did not do it because she was dangerous. A girl of thirteen with a needle. She did it because you are. And she did not want you dead. She could have had you dead. She had men on that shore with bows." The light was very still. "She wanted you like this. Standing in the snow for two days, cutting at nothing until the world cracks under your feet. She wanted you to take that grief and that hate into the Work and let it run, and let it run, until you were what your father was, and the north saw it, and turned from you, and you fell. As he fell." A pause. "She told her court as much. I did not hear her say it. I do not need to have heard it. It is written in every thread that ran out of that silver room."
+"You asked me, in the yard," said the Bound Flame, quite gently, "what I know about the reason she died." The bright places did not leave his face. "I know this much. I know that whoever sent her home to you on that river did not do it because she was dangerous. A girl of thirteen with a needle. She did it because you are. And she did not want you dead. She could have had you dead. She had men on that shore with bows." The light did not flicker. "She wanted you like this. Standing in the snow for two days, cutting at nothing until the world cracks under your feet. She wanted you to take that grief and that hate into the Work and let it run, and let it run, until you were what your father was, and the north saw it, and turned from you, and you fell. As he fell." A pause. "She told her court as much. I did not hear her say it. I do not need to have heard it. It is written in every thread that ran out of that silver room."
 
 Muken did not move. In the white, outside himself, he found he could not.
 
 "That is the reason she died," said Faisal. "To make you your father. Will you let it?"
 
-For a long time there was no answer.
+The threads hummed round them, and there was no answer.
 
 Then, very low:
 
@@ -406,7 +404,7 @@ He was still bent over in the white. He did not straighten. His voice came out o
 
 Faisal looked at him a long moment. Then the hands came out from behind his back, and he lifted one of them, and the white in front of them changed.
 
-There were things in it now. Floating, at the height of a man's chest, in a long uneven row that ran off into the white further than Muken could see. A stone. A bowl. A blade. A branch with the bark on it. A bone. A rope. A brick from a wall. A cup. Each of them hung alone in the white, and each of them was humming at its own note, and through each of them, if he looked, he could see the threads, and the cracks in them, gold and fine as hair.
+There were things in it now. Floating, at the height of a man's chest, in a long uneven row that ran off into the white further than Muken could see. A stone. A bowl. A blade. A branch with the bark on it. A bone. A rope. A brick from a wall. A cup. Each of them hung alone in the white, lit from within so that the grain of the wood and the weave of the rope and the glaze of the bowl showed in it as clearly as the veins in a leaf held up to the sun, and each of them was humming at its own note, and through each of them, if he looked, he could see the threads, and the cracks in them, gold and fine as hair.
 
 Some of the cracks were small. Some were deep. And some of the things in the row, a few of them, scattered along it with no pattern he could see, were rotten. He could feel it. The rope was rotten through, the strands gone grey and sodden at the core, holding nothing. The bowl had a flaw in its clay that ran from the lip to the foot and would split the first time anyone poured hot broth in it and scald whoever held it. The bone was diseased, honeycombed through with something that was eating it from inside. The brick was the one brick in a wall that would give, and bring the wall down on whoever stood under it.
 
@@ -492,7 +490,7 @@ Muken said nothing. He was still shaking.
 
 It came out of him in a whisper.
 
-"That is the first day," said Faisal. "There will be others. Hibi you have, now: one crack, one note, one thing opened, and only what is already dead. Hibiware you have touched, and you will not touch it again until you can do what you just did to a rope to every rope in a city at once and leave every sound one standing. That will take you years. Perhaps more." He was quiet a moment. "And there is a third waking under Hibiware, and I will not speak of it. Not to you. Not yet."
+"That is the first day," said Faisal. "There will be others. Hibi you have, now: one crack, one note, one thing opened, and only what is already dead. Hibiware you have touched, and you will not touch it again until you can do what you just did to a rope to every rope in a city at once and leave every sound one standing. That will take you years. Perhaps more." He was quiet a moment. "And there is a third waking under Hibiware, and I will not speak of it to you. Not yet."
 
 "And Hataraki?"
 
@@ -500,7 +498,7 @@ It came out of him in a whisper.
 
 The white began to grey at the edges.
 
-"Go back," said Faisal. "They are frightened for you in the yard. The Stark has not moved from that door in a day and a half. And your sister is still lying in the cold, and the Waiting is not finished." The light dimmed further. "I will come again. Not every day. When you need it, and when I can. One sixth of me does not go far." A pause. "Practise on rope. Not on men. Not yet."
+"Go back," said Faisal. "They are frightened for you in the yard. The Stark has not moved from that door in a day and a half. And your sister is still lying in the cold, and the Waiting is not finished." The light dimmed further. "I will come again. Not every day. When you need it, and when I can. One sixth of me does not go far." A pause. "Practise on rope. Not on men, not yet."
 
 "Faisal," said Muken.
 
@@ -508,7 +506,7 @@ The broken light stopped dimming.
 
 "I'm sorry," said Muken. "For what I said. In the yard." He swallowed, in a throat he did not have. "And for the wing."
 
-The Bound Flame looked at him for a long time across the greying white.
+The Bound Flame looked at him across the greying white, and a little warmth came back into the broken light.
 
 "Swear by your honour," said Faisal, "as the Stark taught you. And keep it. I will mend."
 
@@ -520,7 +518,7 @@ And the white went away.
 
 He was standing in the middle of the yard of Kharven's Foot with the drill-sword in his hands, buried a hand's depth in the snow.
 
-The grey noon light. The wind off the high country. The woodpile and the barracks wall and the Greymane watch on the curtain wall above, staring down at him. Lorn Stark in the barracks door with his arms unfolded now and his whole body leaning forward like a man about to run. Godfrey beside him.
+The pale noon light, hard and bright off the snow. The wind off the high country. The woodpile and the barracks wall and the Greymane watch on the curtain wall above, staring down at him. Lorn Stark in the barracks door with his arms unfolded now and his whole body leaning forward like a man about to run. Godfrey beside him.
 
 No time had passed. The sun had not moved.
 
@@ -530,7 +528,7 @@ The crazing was still there. The fine branching cracks across the trampled snow,
 
 He found the note. He held it. He did not strike.
 
-And very slowly, the way frost goes off a window when the sun comes round to it, the cracks in the snow closed. The logs stayed cracked. But the snow of the yard, round his feet, drew itself back together along its fine branching lines, one after another, from the edges inward, until it was only snow again, trampled and grey and whole, and the note went quiet.
+And very slowly, the way frost goes off a window when the sun comes round to it, the cracks in the snow closed. The logs stayed cracked. But the snow of the yard, round his feet, drew itself back together along its fine branching lines, one after another, from the edges inward, until it was only snow again, trampled and blue in its hollows and whole, glittering a little where the sun took it, and the note went quiet.
 
 On the wall above him, a Greymane spearman said, very softly, "Sky above."
 
@@ -558,7 +556,7 @@ Lorn Stark watched him go. Then he looked at Godfrey.
 
 "What," he said, "in the Sky's name was that?"
 
-Godfrey Greymane looked down at the drill-sword in his hands. Then at the snow in the middle of the yard, whole and grey and trampled, where an hour ago it had been crazed across like old glaze.
+Godfrey Greymane looked down at the drill-sword in his hands. Then at the snow in the middle of the yard, whole and trampled, where an hour ago it had been crazed across like old glaze.
 
 "I don't know," he said. "But my father told me once that the Kōkan kings could make the world hold its breath." He handed the drill-sword to the nearest Greymane on the barracks step, and turned toward the death-house. "I think they can teach it to breathe out as well."
 
@@ -640,3 +638,5 @@ Past tense. About 10,000 words.
 - R71-30: planted signs paid off (the mark, the rope, Asami).
 - R70-114: the warm bond's cost.
 - R72-25: Kagenori's tell.
+
+**Revision 2026-10-24.** The Shirogane house now has worked lamps on draw in silver cages, the draw-hum, heated stone and silver-sheathed conduit, over a lamplit city and a glittering Marrow under the aurora; the white space and the threads are more luminous; colour lifted at the Foot (seal-fat yellow, sunrise on the frost, blue snow) with no magitech added there; countdown and "not...but" constructions fixed and tics trimmed. Yukazuri's death stays one line, off the page, and all beats and Isaac's lines are kept word for word.

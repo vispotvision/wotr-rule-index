@@ -26,7 +26,7 @@ He listened to it. He did not reach for it. He did not try to hold any of it. He
 
 And then the dark of the death-house was full of threads.
 
-They came up out of the stone shelf under him and down out of the dark above, gold and silver and black, fine as hair, more of them than there were stars, running away in every direction and humming each at its own note. He was not sitting on the shelf any more. He was not anywhere. He was standing, or floating, in the place made of threads, and his ribs did not hurt, and his breath did not go up in a plume.
+They came up out of the stone shelf under him and down out of the dark above, gold and silver and black, fine as hair, more of them than there were stars, running away in every direction and humming each at its own note. The gold ones burned. The silver ones shone cold and clear, and the black ones had a sheen on them like a raven's wing, green and violet where the light slid along them. Where they crossed, they flared, small and bright, and the whole dark was strung with those crossings, near and far, deeper than the sky over the tundra on a winter night, as if someone had hung every aurora the north had ever seen on a loom and set it humming. He was not sitting on the shelf any more. He was not anywhere. He was standing, or floating, in the place made of threads, and his ribs did not hurt, and his breath did not go up in a plume.
 
 Faisal was kneeling in front of him.
 
@@ -82,7 +82,7 @@ He did not count how many times he began from the beginning.
 
 And then, at some point he could not have named, the row was not things any more.
 
-It was a wall. A wall of grey stone, rough-coursed, the kind of wall a Tenrai mason would build round a fortress, with a gatehouse and a gate. He knew it was the Seat. He did not know how he knew. And it was full of cracks, all humming: the fine steady ones of stone carrying its own weight, the way a sound wall carries it, and here and there, deep, branching, sour, the ones that had stopped carrying and were only pretending. A course where the mortar had rotted. A lintel over a postern that had been cracked by frost forty winters ago and patched and never mended. A ward-stone set into the gatehouse foundation, a worked thing, humming with Tenrai gold, whose binding had been laid by a man who had not meant the oath he laid it with.
+It was a wall. A wall of grey stone, rough-coursed, the kind of wall a Tenrai mason would build round a fortress, with a gatehouse and a gate. He knew it was the Seat. He did not know how he knew. And it was full of cracks, all humming: the fine steady ones of stone carrying its own weight, the way a sound wall carries it, and here and there, deep, branching, sour, the ones that had stopped carrying and were only pretending. A course where the mortar had rotted. A lintel over a postern that had been cracked by frost forty winters ago and patched and never mended. A ward-stone set into the gatehouse foundation, a worked thing tied into the Seat's draw, humming with Tenrai gold and glowing in the threads like a coal, whose binding had been laid by a man who had not meant the oath he laid it with.
 
 "Again," said Faisal.
 
@@ -96,7 +96,7 @@ He found the ward-stone. He held its note, the sour lie at the heart of it. He w
 
 "Only what is dead," said Faisal. "Only what is already broken and only pretending to stand. Everything else, the men will do. The Stark and the Greymane and the Byakuya and the Dawi's iron. You will not crack one living thing that does not need cracking." The light held him. "That is the oath I am asking of you. Not now. When you are ready to give it."
 
-Muken said nothing. He looked at the wall a long time.
+Muken said nothing. He looked at the wall until he could hear every stone in it.
 
 "I'll give it," he said.
 
@@ -108,11 +108,9 @@ His ribs were the first thing.
 
 Faisal did it without warning. There was no row any more and no wall. There was only the place made of threads, and the Bound Flame kneeling, and Muken sitting cross-legged before him, and Faisal said, "Look at yourself," and Muken looked.
 
-And he could see his own body.
+And he could see his own body, apart from the thing he was here among the threads: the one lying on the stone shelf in the death-house at the Foot with its back against the wall and its eyes closed and its chest rising and falling, very slowly, in the cold. He could see it the way he saw everything here, as threads and notes and cracks, and it was full of cracks. The seventh rib and the eighth on the left side, broken clean through, the ends grinding against each other at every breath. The old cut along the ribs, torn open twice and sewn three times, weeping. The long slash down the right forearm, sewn badly. The split palm. The bruise on the lung under the broken ribs where Aksel Keld's iron fist had driven them in. And everywhere, under all of it, fainter, older, the cracks of sixteen years: a wrist broken at eleven in the stamping floor at Halcrest and set crooked; a hairline in a shin from the Veyrath ditch; the knuckles of both hands, each one cracked and healed and cracked again.
 
-Not the thing he was here, outside himself, among the threads. His body. The one lying on the stone shelf in the death-house at the Foot with its back against the wall and its eyes closed and its chest rising and falling, very slowly, in the cold. He could see it the way he saw everything here, as threads and notes and cracks, and it was full of cracks. The seventh rib and the eighth on the left side, broken clean through, the ends grinding against each other at every breath. The old cut along the ribs, torn open twice and sewn three times, weeping. The long slash down the right forearm, sewn badly. The split palm. The bruise on the lung under the broken ribs where Aksel Keld's iron fist had driven them in. And everywhere, under all of it, fainter, older, the cracks of sixteen years: a wrist broken at eleven in the stamping floor at Halcrest and set crooked; a hairline in a shin from the Veyrath ditch; the knuckles of both hands, each one cracked and healed and cracked again.
-
-"Ruin ends what is dead," said Faisal. "You know that now. But ending is only half of a Work. Something has to remain, after." The light pulsed, softly. "*Junketsu no Gō.* The Work of Purity. It does not heal. Hear me. It establishes. It finds what ought to stand, the proper shape of a thing, what it was made to be before the world bent it, and it holds the thing to that shape until the thing remembers."
+"Ruin ends what is dead," said Faisal. "You know that now. But ending is only half of a Work. Something has to remain, after." The light pulsed, softly. "*Junketsu no Gō.* The Work of Purity. It establishes. Hear me, that is a larger thing than healing. It finds what ought to stand, the proper shape of a thing, what it was made to be before the world bent it, and it holds the thing to that shape until the thing remembers."
 
 "My ribs," said Muken.
 
@@ -122,7 +120,7 @@ He tried. It was harder than the rope. Harder than the wall. A crack in a rope w
 
 He could not hear it.
 
-He listened for a long time, and he could not hear it. Only the break. Only the grinding discord where the ends met. The black hot thing came up and told him that he was broken, that he had always been broken, that the break was what he was, and there was no other note to find.
+He listened until the threads round him dimmed with his tiredness, and he could not hear it. Only the break. Only the grinding discord where the ends met. The black hot thing came up and told him that he was broken, that he had always been broken, that the break was what he was, and there was no other note to find.
 
 "You are listening to the wrong thing," said Faisal.
 
@@ -142,7 +140,7 @@ He let go of the break.
 
 He listened to the rib on either side of it. The whole bone, above the break and below it, the living bone that had not been broken, humming its own steady note, the note of a rib that carried a man's breath in and out. He heard it. He held it. And he waited.
 
-And very slowly, in the cold of the death-house at the Foot, on the stone shelf, under the strapped linen, the two ends of the seventh rib on Muken's left side moved toward each other, a hair's breadth, and met, and began to remember.
+And very slowly, in the cold of the death-house at the Foot, on the stone shelf, under the strapped linen, the two ends of the seventh rib on Muken's left side moved toward each other, a hair's breadth, and met, and began to remember. In the place made of threads he saw it as a seam of pale gold closing along the bone, warm as lamplight through a window.
 
 ---
 
@@ -158,7 +156,7 @@ Muken looked at him.
 
 "Purity, through recognition, restores," said the Bound Flame. "Through obsession, it purges. It finds what ought to stand and holds everything to it, and what will not be held, it burns." The bright places where eyes would be did not move. "There is a woman in a silver chair at the Seat who believes she knows what the north ought to be. She holds everything to it. That is why your sister is on the ridge."
 
-Muken said nothing for a long moment.
+Muken thought of the silver room, and of the ridge, and was quiet.
 
 "I won't," he said.
 
@@ -170,7 +168,7 @@ Muken said nothing for a long moment.
 
 The threads round them shifted.
 
-They did not part, the way they had for the row and the wall. They turned. All of them, all at once, the whole of the place made of threads turning slowly round the two of them like the sky turns round the pole star, and as they turned, the notes changed. Lower. Softer. The humming of the living fell away somewhere behind them, and what was left was something else. Fainter. Further off. A sound like many people breathing very quietly in a cold room, a long way off. Like the Waiting.
+This time they turned. All of them, all at once, the whole of the place made of threads turning slowly round the two of them like the sky turns round the pole star, and as they turned, the gold in them paled toward silver and the silver toward a soft violet-blue, the colour of snow in the hour after sunset, and the notes changed. Lower. Softer. The humming of the living fell away somewhere behind them, and what was left was something else. Fainter. Further off. A sound like many people breathing very quietly in a cold room, a long way off. Like the Waiting.
 
 "*Seirei no Gō,*" said Faisal. "The Work of Spirit. It governs what passes between. Between life and death. Between the body and what comes after. It keeps the unseen world from becoming disorderly." He was quiet a moment. "Everyone who dies passes through it. Everyone. It is the road out."
 
@@ -202,7 +200,7 @@ It came out of him in a whisper.
 
 "I can't."
 
-"You can," said the Bound Flame. "You must. Not for your sake. For hers." He was quiet. "She is not finished passing. She cannot finish while you hold her. She will wait on the road out in the cold for as long as you hold on, because she loves you, and because she would never in her life let go of your hand first." The light warmed, very slightly. "She never did, did she."
+"You can," said the Bound Flame. "You must. For her sake, more than yours." He was quiet. "She is not finished passing. She cannot finish while you hold her. She will wait on the road out in the cold for as long as you hold on, because she loves you, and because she would never in her life let go of your hand first." The light warmed, very slightly. "She never did, did she."
 
 Muken shook his head. He could not speak.
 
@@ -216,7 +214,7 @@ He looked at the pale thread running out of his fist into the dark. At his own w
 
 He opened his hand.
 
-The thread did not go at once. It lay across his open palm a moment longer, humming, pale, small and clear and fierce. And then it lifted. Slowly. The way a strand of hair lifts in the wind. It lifted off his palm and drew away into the faint far dark of the road out, and its note went with it, further and further, softer and softer, until he could not hear it any more over the breathing of the dead.
+The thread did not go at once. It lay across his open palm a moment longer, humming, pale, small and clear and fierce. And then it lifted. Slowly. The way a strand of hair lifts in the wind. It lifted off his palm and drew away into the faint far dark of the road out, shining as it went, frost-pale and then faintly rose, and its note went with it, further and further, softer and softer, until he could not hear it any more over the breathing of the dead.
 
 And just before it went, at the very last, he thought he heard it change. Only a little. The way her voice used to change when she was pretending to be cross with him and could not keep it up.
 
@@ -240,23 +238,23 @@ Muken did not ask him what for.
 
 The threads turned again. Back. The faint far breathing of the road out fell away and the humming of the living came up, and with it, something new. A direction. Muken felt it before he saw it, the way you feel a current in a river before you see the water move: all the threads in that place, all of them, were not only running. They were running *from* somewhere, and *to* somewhere. They had a before and an after.
 
-"*Jikan no Shigoto,*" said Faisal. "The Work of Temporality. It arranges what comes before and what comes after. Cause, and what the cause makes. Without it the world would not be chaos. It would be unreadable." The bright places shifted. "Follow her thread back."
+"*Jikan no Shigoto,*" said Faisal. "The Work of Temporality. It arranges what comes before and what comes after. Cause, and what the cause makes. Without it the world would be worse than chaos. It would be unreadable." The bright places shifted. "Follow her thread back."
 
 Muken did not understand. And then he did.
 
-He looked for the place in the threads where her pale one had been. The thread was gone, and the place remained: a gap, where it had run. And he followed the gap back, the way you follow a dry streambed up a hill to where the spring was, and as he followed it, the threads round it lit up.
+He looked for the place in the threads where her pale one had been. The thread was gone, and the place remained: a gap, where it had run. And he followed the gap back, the way you follow a dry streambed up a hill to where the spring was, and as he followed it, the threads round it lit up, one after another, running away from him into the past like lamps being lit down a long street.
 
-He saw the silver room. He did not want to. He saw it: the polished floor and the silver dais and a small grey woman with her hands behind her back, and he saw the thread running out of her, gold and sour, toward the girl on her knees. And he followed that thread back, from the woman, and it went into a room full of letters with two seals on every one, silver on the left. And back from there, into a lodge of reindeer hide on the tundra, and a Keld boy with an iron hand saying *the queen's will is absolute*. And back. A council in a hall of black stone, six lords of the seven lines round a table, and a man in gold-trimmed black with a narrow face saying *search every road, every register, every salt pan.* And back. A cellar under Halcrest. A lamp. A man with white hair going down the stair after his own blood. And back, and back, and back, through twenty years and forty and a hundred, through wars he had never heard of and kings whose names were dust, through the silver line and the red line standing side by side in the Hall of Verdicts for a thousand years with their hands on their swords.
+He saw the silver room. He did not want to. He saw it: the polished floor and the caged lamps and the silver dais and a small grey woman with her hands behind her back, and he saw the thread running out of her, silver gone sour and tarnished, toward the girl on her knees. And he followed that thread back, from the woman, and it went into a room full of letters with two seals on every one, silver on the left. And back from there, into a lodge of reindeer hide on the tundra, and a Keld boy with an iron hand saying *the queen's will is absolute*. And back. A council in a hall of black stone, six lords of the seven lines round a table, and a man in gold-trimmed black with a narrow face saying *search every road, every register, every salt pan.* And back. A cellar under Halcrest. A lamp. A man with white hair going down the stair after his own blood. And back, and back, and back, through twenty years and forty and a hundred, through wars he had never heard of and kings whose names were dust, through the silver line and the red line standing side by side in the Hall of Verdicts for a thousand years with their hands on their swords.
 
 "It is all one thread," said Muken slowly.
 
-"It is all one thread," said Faisal. "Your sister did not die because a woman in a silver chair hated her. She died because a thousand years ago the silver line was told it would always stand second, and believed it, and could not let it go. And every Shirogane since has been born into that one wound, and lived in it, and died in it, and passed it on." The light was very still. "Temporality, through recognition, lets things move on. Cause, and consequence, and then the next thing. Through obsession, it loops. The same wound. The same vow. The same moment, over and over, forever, because nobody will let it end."
+"It is all one thread," said Faisal. "Your sister did not die because a woman in a silver chair hated her. She died because a thousand years ago the silver line was told it would always stand second, and believed it, and could not let it go. And every Shirogane since has been born into that one wound, and lived in it, and died in it, and passed it on." The light did not move. "Temporality, through recognition, lets things move on. Cause, and consequence, and then the next thing. Through obsession, it loops. The same wound. The same vow. The same moment, over and over, forever, because nobody will let it end."
 
 He let the threads fall still.
 
 "That is the reason she died," said the Bound Flame. "I told you in the yard that it was to make you your father. That is true. But under that, this. She died because a wound a thousand years old was still open, and the woman in the silver chair was living inside it." He looked at the boy. "If you go to the Seat and kill her for it, and that is all you do, you will have reopened it. The wound will pass to her sister, or her niece, or whoever sits the silver chair after. And in a thousand years, some Shirogane child will be told why it must hate the red line, and the reason will be you."
 
-Muken said nothing for a long time.
+Muken said nothing while the lit threads faded, one by one, back into the dark.
 
 "Then what do I do?" he said at last. "Let her live?"
 
@@ -276,7 +274,7 @@ The fifth Work, Faisal taught him quickly, because he already had the beginnings
 
 And Muken looked, and he saw the Seat.
 
-Not the wall, this time. The people in it. Every lord of the seven lines who had stood in the Hall of Verdicts and voted for the Kurenai blade on Ulf Stark's neck. Every Tenrai factor and Shirogane steward. Every captain of the house-guard. He could see the threads running out of each of them, and he could hear what they were humming, and most of them were humming fear. Fear of Kagenori. Fear of the silver chair. Fear of the boy in the north who had broken the Iron Fist with a song. A few were humming greed, and a few were humming nothing at all, the flat dead note of men who had stopped feeling anything years ago.
+This time it was the people in it. Every lord of the seven lines who had stood in the Hall of Verdicts and voted for the Kurenai blade on Ulf Stark's neck. Every Tenrai factor and Shirogane steward. Every captain of the house-guard. He could see the threads running out of each of them, Tenrai gold and Shirogane silver and the many colours of the lesser houses, the whole lamplit city on its rock strung with them like a harp, and he could hear what they were humming, and most of them were humming fear. Fear of Kagenori. Fear of the silver chair. Fear of the boy in the north who had broken the Iron Fist with a song. A few were humming greed, and a few were humming nothing at all, the flat dead note of men who had stopped feeling anything years ago.
 
 And one was humming grief.
 
@@ -308,7 +306,7 @@ He was quiet a moment.
 
 "Come here," said the Bound Flame.
 
-Muken got up. He did not know how, in that place, but he did, and he came and stood beside the kneeling figure, close, closer than he had ever been, so that the warm heavy light of it lay over him like the warmth off a banked fire, and he wanted to tell it everything.
+Muken got up. How he did it in that place he never knew; he did it, and came and stood beside the kneeling figure, close, closer than he had ever been, so that the warm heavy light of it lay over him like the warmth off a banked fire, and he wanted to tell it everything.
 
 "Kneel," said Faisal.
 
@@ -322,23 +320,23 @@ He had not known what it would be. He had seen the threads coming down on Faisal
 
 "Then what do I..."
 
-"Carry it," said the Bound Flame. "Do not push it up. Do not let it push you down. Find where it wants to go, and let it go there, through you, and out of you, and do not hold any of it longer than it needs to be held." The light was very steady. "That is Balance. It is not strength. It is knowing where the weight goes."
+"Carry it," said the Bound Flame. "Do not push it up. Do not let it push you down. Find where it wants to go, and let it go there, through you, and out of you, and do not hold any of it longer than it needs to be held." The light was very steady. "That is Balance. It is knowing where the weight goes."
 
 Muken knelt under it.
 
 He found where it wanted to go. It took him a long time. The weight came down on his back, and he did not push against it and he did not let it push him, and he felt for where it was going: down, through him, into the dark below. Into the ground. The way the weight of a roof goes down through a beam and a post and into the earth. The way the weight of a man goes down through his legs into the ice. The way Lorn Stark stood, with his weight going straight down through both heels, the way his father had taught him. He let the weight go through him. Down. Out. He held none of it. He only let it pass.
 
-It got lighter. Not because there was less of it. Because it was moving.
+It got lighter. There was as much of it as ever; it was moving now.
 
 "Yes," said Faisal softly.
 
 They knelt together a long time, the Bound Flame and the boy, under the weight of the threads, in the place where the Works were written.
 
-And at some point, Muken noticed that the dark place on the edge of Faisal's broken wing, the small missing piece where the light no longer reached, was not as dark as it had been. A little of the warm light was coming back into it. Very little. A hair's breadth.
+And at some point, Muken noticed that the dark place on the edge of Faisal's broken wing, the small missing piece where the light no longer reached, was not as dark as it had been. A little of the warm light was coming back into it, gold seeping into the gap the way dawn seeps into a valley. Very little. A hair's breadth.
 
-He did not say anything. He did not need to.
+He kept it to himself, and was glad.
 
-"*Shigoto no Kabe,*" said Faisal, after a long time. "That is what your grandfathers' grandfathers called it. *The Work of Bearing Load.* When you stand, someday, in front of something that means to come down on everyone behind you, and you will not move, this is what will hold you there." The light pulsed, once. "Not your strength. The weight, going through you, into the ground. You will feel it in your bones for days afterward. It will crack them, a little, every time. But it will hold."
+"*Shigoto no Kabe,*" said Faisal, at last. "That is what your grandfathers' grandfathers called it. *The Work of Bearing Load.* When you stand, someday, in front of something that means to come down on everyone behind you, and you will not move, this is what will hold you there." The light pulsed, once. "The weight, going through you, into the ground. You will feel it in your bones for days afterward. It will crack them, a little, every time. But it will hold."
 
 ---
 
@@ -352,13 +350,13 @@ Faisal did not answer.
 
 "The seventh," said Muken. "You said in the white space that there's a third waking under Hibiware, and you'd not speak of it. Is it that?" He looked at the kneeling figure. "What is it?"
 
-The Bound Flame was silent for a long time.
+The Bound Flame was silent, and the threads hummed on round them, gold and silver and black.
 
 "*Zentai-sei no Hataraki,*" he said at last. "The Work of Totality."
 
 The threads round them went very quiet.
 
-"It is the crown of the others," said Faisal. "It is what makes all of them belong to one world. Ruin ends and Purity establishes and Spirit passes and Temporality orders and Knowledge reveals and Balance reconciles, and Totality is what lets all of that be one thing instead of six things tearing each other apart. It is the first permission for the world to be whole." The light was very still. "It is your house's. The Kōkan's. It was the mark on your banner before your banner was blank. The crowned serpent. The raven king. *Kamigan.* Every Kōkan king who ever sat the red chair reached for it, and some of them touched it."
+"It is the crown of the others," said Faisal. "It is what makes all of them belong to one world. Ruin ends and Purity establishes and Spirit passes and Temporality orders and Knowledge reveals and Balance reconciles, and Totality is what lets all of that be one thing instead of six things tearing each other apart. It is the first permission for the world to be whole." The light gathered, and for a breath every thread in that place shone at once, white-gold, so bright and so whole that Muken could not look at it and could not look away. "It is your house's. The Kōkan's. It was the mark on your banner before your banner was blank. The crowned serpent. The raven king. *Kamigan.* Every Kōkan king who ever sat the red chair reached for it, and some of them touched it."
 
 "Teach me," said Muken.
 
@@ -380,7 +378,7 @@ Muken stood very still.
 
 "Years," said Faisal. "Many. Perhaps your whole life." A pause. "Perhaps it will be someone else's, after you."
 
-Muken thought about that for a long time.
+Muken thought about that, and about a cellar under Halcrest, and a lamp.
 
 "All right," he said at last.
 
@@ -422,7 +420,7 @@ The hand on his chest pressed, once, very gently. And pushed.
 
 He opened his eyes on the stone shelf in the death-house at the Foot.
 
-The cold. The dark. The bar across the door. The faint dark stain on the stone under his hand. A grey light coming under the door from the yard, and beyond the door, faint, the sound of a man breathing in his sleep, sitting against the wood: Lorn Stark, keeping the door.
+The cold. The dark. The bar across the door. The faint dark stain on the stone under his hand. A thin blue dawn light coming under the door from the yard, and beyond the door, faint, the sound of a man breathing in his sleep, sitting against the wood: Lorn Stark, keeping the door.
 
 He sat up.
 
@@ -437,3 +435,5 @@ He got up off the shelf, and went to the door, and lifted the bar.
 ---
 
 *Author notes for Chapters Sixteen to Nineteen are at the end of Chapter Nineteen.*
+
+**Revision 2026-10-24.** The Plane of Fate made more luminous and wondrous (raven-sheen black threads, flaring crossings, aurora on a loom, the Spirit turn into violet-blue, Temporality lit like a lamplit street, Totality shining white-gold, gold seams in the healing), with the Seat seen as a lamplit city of gold and silver threads and its ward-stone tied into the draw; antitheses in narration and the epigraph rephrased and tics trimmed. All beats and Isaac's lines kept word for word.

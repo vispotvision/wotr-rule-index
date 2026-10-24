@@ -8,6 +8,8 @@ source: scenes/naiser_and_seradris_the_courtyard.md
 
 Naiser wiped his face with the heel of his hand, once on each side, hard, the way his father used to clear frost from the flat stone above the gate. Naevra was right. He did not have time for this. Five hundred names had been read out over five hundred bodies before the light came, and the light had come, and the work of the living had not paused for any of it.
 
+The morning had come up gold over the eastern ridge as if nothing had happened. It lay along the cedar eaves and turned the red-brown beams to copper, and it found the lichen on the bark roofs and made it glow a soft green-silver, and down in the bottom of the valley the mist still lay over the stream in a long white skein that the sun was unpicking strand by strand. The courtyard paving was pale limestone, scrubbed in the night, and the frost on it glittered. Smoke from the pyres stood straight up in the windless air, blue at the root and gold where the light took it.
+
 He was crossing the courtyard toward the Council Room when he felt the heat.
 
 He felt it before he saw it. It came down on him out of the morning like the first breath of a kiln when the door is opened, a dry pressure on the skin of his face and the backs of his hands, and the thread-marks at his temples prickled with it. Above the wall a streak of fire was falling out of a clean blue sky, turning on itself in a tight bright spiral, and the air screamed thin around it. He knew whose it was. There was only one person in the house who came down off a wall like a burning arrow because walking round by the stair was beneath her.
@@ -42,7 +44,7 @@ He knew that. He made himself know it.
 
 "Brother."
 
-Naevra had come out of the Council Room doorway behind him. She had bound her hair since the night, a long white plait down her back, and there was clean grey cloth at her throat instead of the stained apron, and her face was composed again in the way the house's faces composed themselves, smooth as water over a drowned stone. Only the eyes gave her away. They were rimmed red, and they were already reading him, and he saw them go to the hood on his head and understand it and say nothing.
+Naevra had come out of the Council Room doorway behind him. She had bound her hair since the night, a long white plait down her back, and there was a clean band of indigo linen at her throat instead of the stained apron, and her face was composed again in the way the house's faces composed themselves, smooth as water over a drowned stone. Only the eyes gave her away. They were rimmed red, and they were already reading him, and he saw them go to the hood on his head and understand it and say nothing.
 
 There was a man with her. One of the gate runners, young, in the house's grey, out of breath and very pale, holding a folded paper against his chest as though it might fly away. He came down the two steps into the courtyard and stopped a respectful distance off, and his eyes went to the scorched paving, and to Seradris, and quickly away again, and he bowed low to Naiser.
 
@@ -72,13 +74,13 @@ He looked at her. A year. There was a year between them, no more; she had come i
 
 "How do we know they aren't using us?" He turned at last and took the paper from the runner's hand, and did not unfold it. He held it at his side, between two fingers, the way he would have held something that might bite. "For our influence. For our name. They know our family won the war. They know who holds dominion over the Spirit Realm now, and they know what it cost the families who stood in the way of it. The Mahuo. The Seikai." He said the last one evenly. He could feel Naevra not looking at him as he said it. "Every house that got between us and the seam is in the ground or in the dark. The Zettari can count. They aren't offering peace because they love us. They're offering it because they've looked at the board and they don't like where they're standing on it."
 
-The runner had gone very still.
+The runner had found something on the paving that needed his whole attention.
 
 "The only way I agree," Naiser said, "is if they give us something we cannot live without."
 
 Naevra was ready for that. She had always been the better of them at this. Their father had seen it when they were children, and so had Senri, who had told Naiser more than once, in the plain way Senri said everything, that he would have to learn to work with other people one day or he would end up ruling a house of one. He had not liked hearing it. He had never been able to argue with it either.
 
-"They have men," Naevra said. "Builders. Masons, engineers, carpenters, the whole of the Zettari guilds. They have more builders than we have people left." She did not raise her voice. She did not need to. "You saw the Enclave, Naiser. You walked through it this morning. Half of it is standing because it hasn't remembered yet that it's supposed to fall down. We can bury our dead with our own hands. We can't rebuild with them. Not before the winter. Not without them."
+"They have men," Naevra said. "Builders. Masons, engineers, carpenters, the whole of the Zettari guilds. They have more builders than we have people left." She did not raise her voice. "You saw the Enclave, Naiser. You walked through it this morning. Half of it is standing because it hasn't remembered yet that it's supposed to fall down. We can bury our dead with our own hands. We can't rebuild with them, and the winter won't wait while we learn how."
 
 He opened his mouth, and closed it again.
 
@@ -88,7 +90,7 @@ She was right. She was always right about this kind of thing, and it was always 
 
 The runner bowed his head so fast that he nearly overbalanced. "Yes, sire."
 
-He went at a half-run across the courtyard to the crow-loft by the east wall, where the house's birds roosted in their long rows under the eaves, black and silent and watching everything. Naiser heard the loft door bang, and the scratch of a pen on a slip of paper, and after a moment the sound of wings. A single crow went up out of the loft and over the wall, beating hard, a small black mark against the morning, and turned south, toward the Zettari and their Crown Prince and whatever it was they wanted from his house.
+He went at a half-run across the courtyard to the crow-loft by the east wall, where the house's birds roosted in their long rows under the eaves, silent and watching everything, black until the sun reached them and then sheened green and violet along the wing like oil on water. Naiser heard the loft door bang, and the scratch of a pen on a slip of paper, and after a moment the sound of wings. A single crow went up out of the loft and over the wall, beating hard, a small black mark against the morning, and turned south, toward the Zettari and their Crown Prince and whatever it was they wanted from his house.
 
 He watched it until he could not see it.
 
@@ -112,3 +114,5 @@ It was a request, and it was more than one. He asked it the way his father used 
 - **Naevra's age.** A year younger than Naiser, about thirty (settled 2026-10-20). The Bearer of Weight's "elder" line is rewritten to match.
 - **Tense.** Past, to match your draft and Seradris's post. The table rule for RP turns is present tense; say if you want it switched.
 - **Invented and logged:** the gate runner, the rider under a white cloth, the Zettari boundary seal (a quartered square in grey wax), the crow-loft on the east wall, and Naiser and Naevra leaving together for a few days.
+
+**Revision 2026-10-24.** Added the enclave's morning colour (gold on the cedar eaves, lichened roofs, mist on the stream, glittering frost, pyre smoke), an indigo band for Naevra and the crows' sheen, eased the runner's stillness into a dry beat, and cut one needless-emphasis tic and a countdown in Naevra's speech. Every beat and every line of Isaac's is kept, and every passage describing Seradris is untouched.

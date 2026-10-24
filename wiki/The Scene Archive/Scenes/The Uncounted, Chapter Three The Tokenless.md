@@ -10,7 +10,7 @@ source: scenes/the_uncounted_chapter_three_the_tokenless.md
 
 ---
 
-They lost five men at the head of the column before the horn stopped blowing, and three more on the Marrow crossing two days after that, when the ice under the lead wagon gave without a sound and took a team, two riders and the young driver everyone called Pell's Nephew down into the black water together. They never found any of them. On the ninth day the road came out of the timber at last onto a long bare shoulder of hill above a river, and at the bottom of it, behind a stockade of split logs gone grey with weather, stood the Vessant post.
+They lost five men at the head of the column before the horn stopped blowing, and three more on the Marrow crossing two days after that, when the ice under the lead wagon gave without a sound and took a team, two riders and the young driver everyone called Pell's Nephew down into the black water together. They never found any of them. On the ninth day the road came out of the timber at last onto a long bare shoulder of hill above a river. The sky over it was a hard clean blue, the first open sky in days. The river ran black-green between shelves of ice that the sun turned to blue glass at their edges, and smoke went straight up from the far bank in a single thread, and at the bottom of the hill, behind a stockade of split logs gone grey with weather, stood the Vessant post. There was no draw out here and never had been. The lamps in its windows were oil, and the yellow of them was the warmest colour for a hundred miles.
 
 Eleven wagons had left the Halcrest gate. Nine came in. Muken rode beside the lead team with his cheek stitched shut in a long black seam from the jaw to the corner of his eye, and his sister's stitches pulling every time he talked, and he did not talk much.
 
@@ -40,7 +40,7 @@ Muken looked up. Water was running off his elbows into the snow.
 
 "There's a man wants to see you," Rob said. "Inside. In the factor's hall." He shifted his weight off the bad leg. "Just you."
 
-Muken straightened slowly. He reached for his coat and shook it out, and as he did it he glanced, without turning his head, along the stockade to where the company's wagons were drawn up in a row, and his sister was sitting on the tailboard of the last one beside Mark Stark, with her kit open on her knees, changing the dressing on the boy's arm. She was not looking his way. She did not need to be. He saw her hands stop moving for a moment, then start again.
+Muken straightened slowly. He reached for his coat and shook it out, and as he did it he glanced, without turning his head, along the stockade to where the company's wagons were drawn up in a row, and his sister was sitting on the tailboard of the last one beside Mark Stark, with her kit open on her knees, changing the dressing on the boy's arm. She was not looking his way. He saw her hands stop moving for a moment, then start again.
 
 "What man," Muken said.
 
@@ -58,11 +58,11 @@ The factor's hall was the biggest building in the post: a long, low log house wi
 
 Muken went in. Behind him, he heard the door close. He heard the key turn in the lock from the outside.
 
-It was a small room and very warm. There was a stone fireplace at the far end with a fire of whole split logs going in it, and the heat came off it in a wall, and the only light was the fire's. It smelled of woodsmoke and old leather and wet dog. A wolfhound the size of a pony lay asleep on the hearthstone with its legs twitching. Beside it, in a great high-backed chair that had certainly not been made for a factor's hall, a chair of dark oak and iron and old wolf-pelt that looked as if it had been hauled down from some hall in the north on the back of a cart for this one meeting, sat a man.
+It was a small room and very warm. There was a stone fireplace at the far end with a fire of whole split logs going in it, and the heat came off it in a wall, and the only light was the fire's, gold on the planed boards and red in the iron of the lock and deep amber in the wolfhound's coat. It smelled of woodsmoke and old leather and wet dog. A wolfhound the size of a pony lay asleep on the hearthstone with its legs twitching. Beside it, in a great high-backed chair that had certainly not been made for a factor's hall, a chair of dark oak and iron and old wolf-pelt that looked as if it had been hauled down from some hall in the north on the back of a cart for this one meeting, sat a man.
 
 He was big. He was the kind of big that Rob Stark was going to be in twenty years, if Rob Stark lived that long: broad as a doorway, with a belly gone heavy under the mail and the arms gone heavier, and a great beard that had been rust-red once and was now salt-and-rust, braided at the chin with a ring of black iron. His hair was cut short, almost to the scalp, and the scalp was scarred white in three places. His left hand rested on the arm of the chair, and two fingers were missing from it, the small and the ring, cut away clean at the knuckle a long time ago. His face was broad and weathered and red with the fire, and his eyes in it were pale, northern blue, and very much awake.
 
-He wore no crown. He did not need one. He sat in the chair the way a mountain sits on a plain.
+He wore no crown. He sat in the chair the way a mountain sits on a plain.
 
 Muken knew who it was before the man opened his mouth. He did not know how he knew. Everyone north of the salt basins knew the name, the way you knew the name of a winter that had killed your grandfather's cattle. He had just never imagined he would be in a room with it.
 
@@ -84,7 +84,7 @@ It was a big laugh, from the belly, and the wolfhound on the hearth woke at the 
 
 "*Lord Stark*," Ulf said. "Listen to him. I heard you weren't half so formal with the last man I sent you." He was grinning. "I heard you told my representative in Halcrest that the keeper of a tea-house was a liar, and your captain was a liar, and you'd go anywhere for enough money, and then you doubled his price and made him shake your hand on it because you hadn't a token for him to seal to." He wiped his eye with the back of his maimed hand. "Draycott's not been the same since. He writes me letters about you. Long ones."
 
-Muken stood very still.
+Muken kept his face shut and his hands at his sides.
 
 "Draycott," he said. "Draycott's Vessant."
 
@@ -98,7 +98,7 @@ Ulf's grin widened.
 
 "I picked the road."
 
-"Three of my men are at the bottom of the Marrow. Five more are on the granite shoulder under a cairn. Rob Stark's going to walk with a stick till the spring." Muken did not raise his voice. He found, a little to his own surprise, that he did not need to. "You picked the worst road in the north for us on purpose."
+"Three of my men are at the bottom of the Marrow. Five more are on the granite shoulder under a cairn. Rob Stark's going to walk with a stick till the spring." Muken did not raise his voice, and found, a little to his own surprise, that the room carried it anyway. "You picked the worst road in the north for us on purpose."
 
 "I did." Ulf did not look away. "And you brought nine wagons out of eleven down it, and every man but eight, and both my nephews, alive. Through the thickest country on that pretty Zettari map your sister bought off a scribe in Ironlink." He let that land. "Yes, I know about the map. I know about the room over the tea-house. I know you bought her number out of the Orrel drainage book with your first season's pay and counted it twice. I know a great many things about you, Muken. I've been knowing them for some time."
 
@@ -138,7 +138,7 @@ Muken said nothing.
 
 "Into my service. Into the north's service." He turned the iron ring on his beard-braid with his thumb. "There's a threat coming down on us, Muken. A bigger one than anything you've seen on that road. Bigger than anything the north saw in forty years of the war, and the war's only a month done."
 
-Muken looked at him for a long time.
+Muken studied him across the hearth.
 
 "Lord Stark," he said. "I'm a nobody."
 
@@ -228,7 +228,7 @@ He spread his hands.
 
 ---
 
-Muken sat on the stool and looked at the fire for a long time.
+Muken sat on the stool and watched the fire eat into the split logs, white ash and orange seams opening in the bark.
 
 There was a question in him. It had been in him since Rob found him at the trough, and it had grown, the whole time he had been in this room, until there was no room left in him for anything else.
 
@@ -238,7 +238,7 @@ Ulf did not answer.
 
 "I mean it," Muken said. "Why me? You're one of the Seven. You've got your own riders, your own household, your own blood. You could've hired any company in Halcrest for this. The Grey Lamps. Fennick's. Any run-of-the-mill sellsword who knows which end of a spear goes in the other man. Why go to all this trouble?" He gestured at the room, the lock, the dog, the chair hauled down out of the north. "Why pick the worst road in the world and send me down it, just to see if I'd come out the other end?"
 
-Ulf Stark looked at him for a long moment. Then he chuckled. It was a quieter sound than the others, and warmer, and a little sad.
+Ulf Stark weighed him. Then he chuckled. It was a quieter sound than the others, and warmer, and a little sad.
 
 "Very perceptive," he said. "Aren't you."
 
@@ -250,7 +250,7 @@ Ulf Stark looked at him for a long moment. Then he chuckled. It was a quieter so
 
 Ulf's mouth twitched in the braided beard.
 
-"I'm afraid," he said, "I can't tell you that. Not all of it. Not yet." He held up his maimed hand before Muken could speak. "It's not that I don't want to. It's to protect you. There are things that, once a man knows them, he can't stop knowing. And there are people who can read a man for what he knows, lad, better than you'd ever believe. People who'd only have to look at you once, the way you're looking at me now, to see it on you. If you don't carry it, they can't find it."
+"I'm afraid," he said, "I can't tell you that. Not all of it, and not yet." He held up his maimed hand before Muken could speak. "It's not that I don't want to. It's to protect you. There are things that, once a man knows them, he can't stop knowing. And there are people who can read a man for what he knows, lad, better than you'd ever believe. People who'd only have to look at you once, the way you're looking at me now, to see it on you. If you don't carry it, they can't find it."
 
 "That's not an answer."
 
@@ -282,7 +282,7 @@ He stopped. He did not know how to finish it.
 
 ---
 
-Muken sat on the stool by the fire with his elbows on his knees and his head down, and looked at the floor between his boots for a long time.
+Muken sat on the stool by the fire with his elbows on his knees and his head down, and looked at the floor between his boots, where the firelight came and went over the boards.
 
 He thought about the road. About Big Bertha going down onto her broken knee in the snow. About Mark Stark sobbing with a short sword in his hand, holding the cub still. About the ice going out from under the lead wagon without a sound.
 
@@ -298,7 +298,7 @@ He did not look up.
 
 "Then you've not left me much choice, have you." He let out a long breath through his nose. "My sister would never let me live it down if I walked away. Never. I'd hear about it every day till I died." Something that was almost a smile touched the stitched side of his face, and pulled at the stitches, and went away. "And I don't think I could. In good conscience. Not after the road." He lifted his head and met the pale northern eyes. "Not after what you've told me about him."
 
-Ulf Stark looked at him for a long moment, and did not smile.
+Ulf Stark held his eyes, and did not smile.
 
 Then he reached inside his coat and took something out, and held it out across the hearth, on the flat of his maimed palm.
 
@@ -350,3 +350,5 @@ He sat back slowly in the great chair, and let his maimed hand fall onto the arm
 - **The cost of the road.** Eight dead in all: five at the head of the column when the horn blew, and three under the ice at the Marrow crossing, Pell's Nephew among them. Rob's bite has gone bad, so he walks with a stick; Mark's arm is splinted and his fever has broken. Muken's cheek is stitched from jaw to eye.
 
 **Rule ids that most constrained it:** R72-25 (Ulf's withholding, with its tells: the ring turned in his beard, the eyes on the token), R74-14 (a true sentence built to deceive: "we've always said seven"), R70-54 (first-sight inventory of Ulf), R70-114 (the warm bond: Yusif and the stick in the gallery), R71-30 (the dead token held unexplained).
+
+**Revision 2026-10-24.** Colour given to the river post (open blue sky, black-green water between blue-glass ice, oil lamps as the only warm yellow, since the draw does not reach past the roads) and to the firelit room; five of six "for a long time/moment," both "did not need to," "did not need one," "very still" and the "Not all of it. Not yet." countdown trimmed, with the last "for a long time" kept at the dead-token payoff. Every beat and all of Isaac's lines kept word for word.

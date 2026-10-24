@@ -58,7 +58,7 @@ The Vessant post was a small place and an idle one once the convoy was paid off,
 
 He was on the stockade.
 
-There was a walkway round the inside of the wall at the height of a man's shoulder, plank laid on log brackets, where a sentry could stand and see out over the sharpened tops of the stakes, and Muken stood on it, those three days, more than he stood anywhere else. He stood at the north corner, mostly. From there he could see the river, black and fast between its shelves of ice, and the timber going away on the far bank in long blue-grey ranks toward the edge of the world, and the sky over it, which in the third week of the Thin Weeks was white all day and went the colour of a bruise at evening.
+There was a walkway round the inside of the wall at the height of a man's shoulder, plank laid on log brackets, where a sentry could stand and see out over the sharpened tops of the stakes, and Muken stood on it, those three days, more than he stood anywhere else. He stood at the north corner, mostly. From there he could see the river, black and fast between its shelves of ice, and the timber going away on the far bank in long blue-grey ranks toward the edge of the world, and the sky over it, which in the third week of the Thin Weeks was white all day and went the colour of a bruise at evening. In the mornings the frost on the stake-points glittered like ground glass, and the hoar on the far timber caught the first sun and burned pink along the tops of the ranks for the length of a breath before it went white.
 
 He kept the token in his coat. He took it out, sometimes, when he was sure nobody could see, and held it in his palm and waited for it to hum. It never did.
 
@@ -82,13 +82,13 @@ Muken stood on the stockade with his hands on the cold points of the stakes and 
 
 *Is this it?* he thought. *Is this what he was waiting for?* He did not know what the question meant, exactly, or who he was asking it of. *Is this what I'm for?*
 
-The river did not answer. The timber did not. The sky went the colour of a bruise and then went dark.
+The river did not answer. The timber did not. The sky went the colour of a bruise, violet and rose low along the treeline, and then went dark, and later the aurora came up over the timber in long slow curtains of green hemmed with violet, bright enough that the snow on the walkway took the colour round his boots. It did not answer either.
 
 ---
 
 On the third morning his sister found him there.
 
-She came up the ladder to the walkway without a sound, the way she did everything, and he did not hear her until she was beside him. She had her grey field coat on, buttoned to the throat against the cold, and her white hair was braided and pinned up off her neck, the way she wore it when she was working, though there was nobody left at the post who needed working on. Her small grave face was pink with cold at the nose and the cheekbones. She did not say anything. She stood beside him at the stakes and looked where he was looking, at the river and the timber and the white sky over it, for a long time.
+She came up the ladder to the walkway without a sound, the way she did everything, and he did not hear her until she was beside him. She had her grey field coat on, buttoned to the throat against the cold, and her white hair was braided and pinned up off her neck, the way she wore it when she was working, though there was nobody left at the post who needed working on. Her small grave face was pink with cold at the nose and the cheekbones. She stood beside him at the stakes without a word and looked where he was looking, at the river and the timber and the white sky over it, until the cold had got into both their hands.
 
 He felt his breathing slow down. It always did, when she was near. He had never once in his life wondered why.
 
@@ -122,7 +122,7 @@ When he got to Yusif, she turned her head and looked at him for the first time.
 
 "Yusif Stark. Ulf's uncle. One of the Seven." He swallowed. "He rode with Gimbzo. In the war. And then he stopped. And then he came to us."
 
-Yukazuri did not say anything for a long time.
+Yukazuri was a while finding anything to say.
 
 "He taught me to hold a needle," she said at last. Her voice was very even. "I was five. He brought it down wrapped in a scrap of leather with a reel of gut, and he sat me on a sack of salt and showed me how to put it through a fold of wool and draw it tight so it wouldn't pull." She looked down at her own hands on the stakes, at the small brown fingers that had closed a hundred men. "He said it was the most useful thing in the world. He said more men would live because of a needle than would ever die because of a sword." She was quiet. "I thought he was just being kind."
 
@@ -138,7 +138,7 @@ The wind came over the stockade from the north, off the river, and it was cold e
 
 He hesitated. Then he looked over his shoulder, at the empty yard, the closed doors of the barn and the factor's hall, the smoke going up straight from the chimneys in the still morning. Nobody. He reached inside his coat and took out the token and held it out to her on his palm.
 
-She did not take it. She looked at it for a long moment. Then she bent her head, close, closer, until her ear was nearly touching his hand, the way she bent over a man's chest in the back of a cart to listen to what was going on inside it, and closed her eyes.
+She did not take it. She looked at it first, the way she looked at a wound before she touched it. Then she bent her head, close, closer, until her ear was nearly touching his hand, the way she bent over a man's chest in the back of a cart to listen to what was going on inside it, and closed her eyes.
 
 He waited.
 
@@ -158,17 +158,17 @@ He went still.
 
 The mark. Their mother's mark, in burned stick on the salt wall of the gallery. *That's ours. That's our name. Don't show it to the clerks.* The Zettari surveyor at the Marrow, wiping it off his window with his sleeve, with his breath gone short and high under his collarbone.
 
-Neither of them said it. Neither of them needed to.
+Neither of them said it.
 
 "What are we, Yuka?" Muken said. It came out of him very quietly, almost before he knew he had said it.
 
-His sister looked at him for a long moment, with the white braid coming loose where he had ruffled it, and her small grave face pink with cold, and her eyes very dark.
+His sister looked up at him, with the white braid coming loose where he had ruffled it, and her small grave face pink with cold, and her eyes very dark.
 
 "I don't know," she said. "Somebody's, with the name scraped off." She put her hand on top of his closed fist, over the token, and held it there. "But I don't think Yusif came down four galleries every season until I was ten to teach a needle to nothing. And I don't think a Warlord of the north hauls his own chair down out of Hollenmark on the back of a cart to talk to nothing either." She paused. "We're something, Muken. Somebody knows what. And whoever they are, they're frightened enough of it to make sure we never found out."
 
 ---
 
-They stood together on the stockade, her hand over his, and the river went on below them, black and fast between the ice.
+They stood together on the stockade, her hand over his, and the river went on below them, black and fast between the ice, throwing the low sun back in hard white sparks wherever it broke over a stone.
 
 "You've already decided," Yukazuri said after a while.
 
@@ -190,7 +190,7 @@ He laughed. He could not help it. It came out short and rough and pulled at the 
 
 "I was twelve at the Veyrath ditch," said Yukazuri, very evenly, "when I went down it on my knees through two hundred men the lords had left lying there, with my needle and my gut and the salve tin, and closed every one of them I could reach, and sat with the ones I couldn't until they went. You were up the bank holding the line. You didn't see." She did not raise her voice. She never did. "I've been the company's surgeon for a year. I've sewn your face shut twice. There are men alive in this post right now who wouldn't be if I'd been somewhere sensible. And if you go and lead an army of sixteen-year-olds against six Moto lines, Muken, then somebody's going to have to be there afterward for the ones who don't come back from it. That's my work. That's what Yusif gave me the needle for." She held his eyes. "So I'm coming. And if you try to leave me behind at some fort with a nice warm fire, I'll walk after you in the snow, and you'll have to explain to Lord Stark why your surgeon's lost three toes."
 
-He looked down at her for a long time.
+He looked down at her, and found he had no argument left that she had not already sewn shut.
 
 Then he put his hand on her head again, gently this time, and left it there, and did not ruffle her hair. He just left it there, the weight of it, the way he remembered Yusif doing, once or twice, to both of them, in the gallery, when he was going away and did not want to say so.
 
@@ -230,3 +230,5 @@ He looked out once more over the stakes, at the river and the timber and the whi
 - **The close.** Rob waits at the foot of the ladder, and Muken says: *Go and tell your uncle that the Tokenless is coming.*
 
 **Rule ids that most constrained it:** R70-114 and R73-38 (the warm bond shown in its own joy before the war lands on it: sitting on his feet in the gallery, the ruffled hair, the hand left on her head), R71-30 (the token and the receptive gift held unexplained), R72-25 (Ulf still withholding the seventh and the why), R70-55 (one changed detail on return: the braid coming loose where he ruffled it).
+
+**Revision 2026-10-24.** Colour given to the stockade days (frost glittering on the stake-points, pink hoar on the timber at sunrise, violet and rose at dusk, the aurora green and violet over the trees, sun sparking off the river); the post stays draw-less. All five "for a long time/moment," "Neither of them needed to" and one "did not say anything" trimmed. Every beat and Isaac's line ("What's wrong, big brother?") kept word for word.

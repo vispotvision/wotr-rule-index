@@ -6,7 +6,7 @@
 
 Naevra found him on the flat stone above the gate.
 
-It was the old reading-stone, the one their father had used for the midwinter Thread-Reading, worn smooth as a river pebble by a thousand years of Yukari knees. It stood at the top of the enclave's east steps, where the cedars drew back and the whole of the valley lay open below: the long grey ribbon of the stream, the terraced fields gone pale with frost, the smoke of the village going up straight in the still morning air. Naiser was sitting on it cross-legged, in the black founder's coat, with the katana across his knees and the hood up over his bare nape, looking east. He had been there since before the light.
+It was the old reading-stone, the one their father had used for the midwinter Thread-Reading, worn smooth as a river pebble by a thousand years of Yukari knees. It stood at the top of the enclave's east steps, where the cedars drew back and the whole of the valley lay open below: the long ribbon of the stream, slate-dark under the cedars and flashing silver where the sun had found it, the terraced fields white with frost and glittering, the red-brown roofs of the halls stepping down the slope in their coats of green lichen, the smoke of the village going up straight and blue in the still morning air. Over the eastern ridge the sky was the clear pale gold of a cold dawn, going to a deep clean blue overhead. Naiser was sitting on it cross-legged, in the black founder's coat, with the katana across his knees and the hood up over his bare nape, looking east. He had been there since before the light.
 
 She came up the steps barefoot on the cold stone, the way she always did, with a satchel of letters under one arm and her white plait down her back, and stopped two steps below him.
 
@@ -34,7 +34,7 @@ Naevra shook her head.
 
 The stream went on below them. Somewhere in the cedars a crow called and was answered.
 
-Naiser was quiet for a long moment.
+Naiser let the crow's call die away in the cedars before he answered.
 
 "The Kōkan were wiped out," he said. "By Gimbzo. By his own hand, most of them, and they were his own blood. That's what the house has always believed and what every report we ever had confirmed. They were the oldest line the Moto had, and the proudest, and most of them would not follow him, king of their own line or not. They saw where his greed was taking the house and they said so, in the hall, to his face." His voice was very level. "So he had them killed. Every one he could find. The ones who spoke against him first, and then their children, and then their cousins, and then anyone who'd ever married into them. The Kurenai closed the register on what was left." He looked at the folded letters by his knee. "Gimbzo was the last of them, and Gimbzo is a month dead at Shimane. And you're telling me there's a Kōkan still walking the world. After all of that. After everything they lost."
 
@@ -54,7 +54,7 @@ He did not like it. She could feel exactly how much he did not like it, through 
 
 Naiser had never wanted to stand between those two houses. He had wanted the war ended and the seam mended and his people fed. He had not wanted to become the post that two great bloodlines tied their quarrel to.
 
-And he did not want blood on this ground. Not here. Not on the oldest stone of the house.
+And he did not want blood on this ground, least of all here, on the oldest stone of the house.
 
 "Is it too late to stop them?" he said.
 
@@ -62,7 +62,7 @@ And he did not want blood on this ground. Not here. Not on the oldest stone of t
 
 Naevra stood up. She put her hands behind her back, the way she did when she was about to say something she had already decided he needed to hear, and looked down the valley toward the west.
 
-"You need not worry," she said. "Not about that. Not yet."
+"You need not worry," she said. "Not about that, not yet."
 
 "Naevra."
 
@@ -106,7 +106,7 @@ She looked at him.
 
 ---
 
-He was silent for a long time after that. Naevra did not interrupt him. She stood beside him on the reading-stone with her hands behind her back and her eyes on the valley, and let him think, the way their father had always let him think: by being there, and saying nothing, and waiting.
+He was silent a good while after that, and the sun climbed off the ridge and laid its first warmth on the stone. Naevra did not interrupt him. She stood beside him on the reading-stone with her hands behind her back and her eyes on the valley, and let him think, the way their father had always let him think: by being there, and saying nothing, and waiting.
 
 "Muken," Naiser said at last. He said the name slowly, as if he were tasting it. "The Tokenless."
 
@@ -120,7 +120,7 @@ He looked out at the valley, and the thread-marks at his temples had begun, very
 
 Naevra said nothing.
 
-"I told the Sovereign at our table that I'd seen something coming," Naiser said. "Something great. Something with no face." He lifted his hand and touched his own temple, lightly, with two fingers, where the threads ran. "I've been sitting on this stone since before the light trying to see it again. And this morning, for the first time, I think I saw the shape of it." He was quiet for a moment. "Not a face. Not yet. A figure, in the snow, with something white about it. Standing at the head of a great many people. Northerners, and men of the Moto lines, and some I didn't know. All of them standing together. Under one banner." He let his hand fall. "I think it's him, Naevra. I think this may be the one I saw. The one who will guide the north. And the one who might, at last, after all of it, bring the Moto house back together into one."
+"I told the Sovereign at our table that I'd seen something coming," Naiser said. "Something great. Something with no face." He lifted his hand and touched his own temple, lightly, with two fingers, where the threads ran. "I've been sitting on this stone since before the light trying to see it again. And this morning, for the first time, I think I saw the shape of it." He was quiet for a moment. "Not a face, not yet. A figure, in the snow, with something white about it. Standing at the head of a great many people. Northerners, and men of the Moto lines, and some I didn't know. All of them standing together. Under one banner." He let his hand fall. "I think it's him, Naevra. I think this may be the one I saw. The one who will guide the north. And the one who might, at last, after all of it, bring the Moto house back together into one."
 
 "Unify the Moto," said Naevra softly. "The seven lines."
 
@@ -134,7 +134,7 @@ He turned his head and looked at her.
 
 "The only two times in the whole history of that house that the Moto ever knew peace among themselves. Real peace. A generation of it, each time." He looked back out at the valley. "The tales of the Owl say that he had the wisdom of all the ages. That he could sit in the Hall of Verdicts and look at a quarrel between two lines that had been going on for three hundred years and see, in an afternoon, the one thing each side needed to be able to stop. And give it to them." He paused. "And the tales of the Fox say that he knew how to make the people happy. The farmers and the salt-cutters and the soldiers' widows. They say the Fox could make a whole province happier than he could ever make his own family." His voice went quieter. "They say it's what broke him in the end. That he gave everything he had to the people and had nothing left to give to the ones at his own table."
 
-Naevra was very still.
+The fine white threads round Naevra's face had drawn taut and caught the light.
 
 "Brother," she said. "Do you know which lines they came from? The Owl and the Fox?"
 
@@ -142,7 +142,7 @@ He looked at her.
 
 "The Owl was Byakuya," said Naevra Yukari. "The near-white line. *The Owl, the White Fox, the Heron.* It's carved over the door of their house. And the Fox was Akagane. *The Fox, the Red Wolf.*" She looked west, down the valley, toward the road. "Kiyome Byakuya and Tetsugen Akagane, Naiser. The Owl and the Fox. They're riding to our gate together."
 
-Naiser did not say anything for a long time.
+Naiser did not answer. Below them the stream ran on, bright now all the way down the valley.
 
 Then, slowly, he began to smile. It was not much of a smile. But it was the first she had seen on his face since the night of the funerals, and it reached his eyes.
 
@@ -164,7 +164,7 @@ He saw.
 
 "And when they come through that gate," Naevra said, "they're going to sit down at your table and drink your tea, and some time before dinner one of their own crows is going to land on the guest-hall roof with the news that three Moto lords are three days out on the western road. And that a Kōkan has taken the Foot." Her grin faded, a little. "And they'll want to know why they had to hear it from a bird."
 
-Naiser looked at the two black shapes on the river road for a long moment.
+Naiser watched the two black shapes on the river road.
 
 Then he stood up from the reading-stone, and picked up the katana, and put it through his sash. He reached back and pushed the hood off his head, and let the cold morning air come onto his bare nape, where the hair had been, where anyone who looked could see it.
 
@@ -212,3 +212,5 @@ He went on down the steps toward the south gate, in the black coat, with his nap
 **Shaka-Al and Dougou** appear only as two black panther-shapes on the river road, seen from above. No lines, actions or thoughts. The scene stops as Naiser goes down to meet them.
 
 **Rule ids that most constrained it:** R72-26 (offscreen NPCs moving on their wants: Kiyome's party, Kagenori's price), R74-35 (the council turns on a dated fact, sixteen), R70-114 (the warm bond: the grin at the dinner table), R71-30 (the vision held unexplained, a shape rather than a face).
+
+**Revision 2026-10-24.** Gave the valley from the reading-stone its colour (silver-flashing stream, glittering frost terraces, lichened red-brown roofs, blue smoke under a gold-and-blue dawn, the sun warming the stone), reworked three countdowns by punctuation and phrasing without changing Isaac's words, and cut four long-pause tics and a stillness tic. Every beat and every line of Isaac's is kept in order, and the passages on Shaka-Al and Dougou are untouched.

@@ -14,7 +14,7 @@ source: scenes/the_uncounted_chapter_fourteen_the_seat_road.md
 
 It was as if the world came apart into pieces, and every piece was singing.
 
-The ice sang. He heard it under his knee, through the trampled snow, a note so low he felt it as a weight, the whole frozen Skeldmere humming over the drowned lake beneath it like the string of a great bow drawn and held. The white of the lifting sang, high and thin and wavering, a thousand points of frost hanging in the air each at its own pitch. His own body sang, the broken ribs a ragged discord on his left side, his heart under them a drum, the scrap-iron sword in his hand a long clear ringing note that went up his arm into his teeth and did not stop.
+The ice sang. He heard it under his knee, through the trampled snow, a note so low he felt it as a weight, the whole frozen Skeldmere humming over the drowned lake beneath it like the string of a great bow drawn and held. The white of the lifting sang, high and thin and wavering, a thousand points of frost hanging in the air each at its own pitch, each one catching the hidden sun and throwing it back in sparks of blue and rose. His own body sang, the broken ribs a ragged discord on his left side, his heart under them a drum, the scrap-iron sword in his hand a long clear ringing note that went up his arm into his teeth and did not stop.
 
 And Aksel Keld sang.
 
@@ -168,11 +168,11 @@ Behind him, on the ice, the Iron Fist of the Keld lay on his back in the snow wi
 
 He came out of the lifting onto the shore of the Skeldmere and the world was burning.
 
-The surgeons' carts were burning. Six of them, drawn up in a half-ring on the snow above the ice with their shafts down, the way Yukazuri had always drawn up her line, a wall against the wind, and every one of them was alight from end to end. The linen was burning, the clean linen in its rows, and the boiled cloth in its tubs had boiled dry and the tubs were burning too, and the spirit had gone up in a blue roar that had blackened the snow for ten paces round. The smoke went up thick and greasy into the white and lay along the shore. The smell was burning cloth and burning wood and burning spirit and, under it, something else.
+The surgeons' carts were burning. Six of them, drawn up in a half-ring on the snow above the ice with their shafts down, the way Yukazuri had always drawn up her line, a wall against the wind, and every one of them was alight from end to end. The linen was burning, the clean linen in its rows, and the boiled cloth in its tubs had boiled dry and the tubs were burning too, and the spirit had gone up in a blue roar that had blackened the snow for ten paces round. The flames stood up orange and gold against the white, so bright after the lifting that they hurt to look at, and the snow round them had gone the colour of a forge mouth. The smoke went up thick and greasy into the white and lay along the shore. The smell was burning cloth and burning wood and burning spirit and, under it, something else.
 
 The Greymane guard lay in the snow among the carts.
 
-Twenty men. Muken did not count them. He did not need to. They lay where they had stood, in their grey cloaks, in a rough ring round the place where the surgeons' tent had been, most of them on their backs, most of them with their spears still in their hands. Some had been cut down from horseback, the long downward strokes of a cavalry sword that open a man from the collarbone to the breastbone. Some had been shot. One, near the tent, lay on his face with his own spear through him from behind, the point standing out between his shoulder blades, and his arms folded under him as though he had been holding them that way when he died.
+Twenty men. Muken did not count them; he knew the number Godfrey would have sent. They lay where they had stood, in their grey cloaks, in a rough ring round the place where the surgeons' tent had been, most of them on their backs, most of them with their spears still in their hands. Some had been cut down from horseback, the long downward strokes of a cavalry sword that open a man from the collarbone to the breastbone. Some had been shot. One, near the tent, lay on his face with his own spear through him from behind, the point standing out between his shoulder blades, and his arms folded under him as though he had been holding them that way when he died.
 
 Muken knew that man. He had seen him at the woodpile. A Greymane spearman near the gate, with his arms folded and his face like a shut door, who had stood when the yard knelt.
 
@@ -238,7 +238,7 @@ It went in above the ear, through the hood and the hair and the thin flat bone o
 
 Muken stood among the dead and the fire.
 
-He stood there with his chest heaving and the breath going up off him in a great white plume into the greasy smoke, and his hands hanging at his sides, empty, and the blood all over him. In his hair. In his eyes. Down the front of the dead sergeant's coat and Ulf Stark's mail, so much of it that the brown wool had gone black and stiff with it and the rings of the mail were clotted. Some of it was his. Most of it was not. His broken ribs were a red roaring furnace on his left side and every breath went in short and came out with a catch, and his right forearm was laid open and dripping off his fingers into the snow, and his split palm, where he had held the sword by the blade, had begun at last to hurt.
+He stood there with his chest heaving and the breath going up off him in a great white plume into the greasy smoke, and his hands hanging at his sides, empty, and the blood all over him. In his hair. In his eyes. Down the front of the dead sergeant's coat and Ulf Stark's mail, so much of it that the brown wool had gone black and stiff with it and the rings of the mail were clotted. Some of it was his. Most of it was not. His broken ribs were a red roaring furnace on his left side and every breath went in short and came out with a catch, and his right forearm was laid open and dripping off his fingers into the snow, each drop landing bright as a rowan berry and spreading pink into the crust, and his split palm, where he had held the sword by the blade, had begun at last to hurt.
 
 The carts burned round him. The wounded in the lee of the carts had gone quiet, or most of them. The wolfhound stood a little way off over the grey man whose arm it had broken, with its head low, and the grey man was not moving either.
 
@@ -264,7 +264,7 @@ Half a mile south, on the shore road, the long black box on runners was still vi
 
 Karogane.
 
-Muken could not see his face at that distance. He did not need to. He could see the shape of him against the white, tall and lean, with the hood down, sitting very still, looking back. Looking at him.
+Muken could not see his face at that distance. He knew him by the shape against the white, tall and lean, with the hood down, sitting the grey horse without a tremor, looking back. Looking at him.
 
 "*You think you can run?*"
 
@@ -320,7 +320,7 @@ The riders round it went over after it, one by one, small and dark against the w
 
 Muken stood on the road in Lorn Stark's arms and watched the place where it had gone.
 
-He was not roaring any more. He was not fighting. He stood quite still, with the blood running down off his fingers onto the snow and the dented salve tin in his fist and the breath going up off him in short white plumes, and his face, under the blood, had gone very quiet.
+He was not roaring any more. He was not fighting. He stood with the blood running down off his fingers onto the snow and the dented salve tin in his fist and the breath going up off him in short white plumes, and his face, under the blood, had gone very quiet.
 
 Lorn knew that face. He had seen it in the long room, the morning the Moto came, in the three minutes after Kiyome spoke. He had seen it at the woodpile.
 
@@ -328,7 +328,7 @@ It frightened him more than the roaring had.
 
 "Let go of me, Lorn," said Muken.
 
-His voice had come back. It was the gallery voice, flat and even, every word set down like a foot on a bad ledge.
+His voice had come back. It was the gallery voice, flat and even, the one he had used to talk frightened men across the rotten galleries under Halcrest.
 
 Lorn did not let go.
 
@@ -338,7 +338,7 @@ Lorn let go, slowly, and stepped back, and stood with his hands open at his side
 
 Muken did not move.
 
-Behind them, along the burning shore, riders were coming. He could hear them. The thorn-horn of Thornhaven, sounding somewhere out on the ice as the pikes came in off the lake. Ashmore hoofbeats on the shore road from the west. A woman's voice, low and clear as a struck bowl, calling his name. Kiyome. And under all of it, under the horns and the horses and the crackle of the burning carts and the moaning of the wounded in the snow, the world was still singing. Very quietly now. He could still hear it. He thought perhaps he would always hear it.
+Behind them, along the burning shore, riders were coming. He could hear them. The thorn-horn of Thornhaven, sounding somewhere out on the ice as the pikes came in off the lake. Ashmore hoofbeats on the shore road from the west. A woman's voice, low and clear as a struck bowl, calling his name. Kiyome. The lifting was thinning at last, the white going to gauze, and a low sun came through it from the south and lay along the Skeldmere in a long gold blade, so that the whole frozen lake behind him glittered to the horizon, every hoofprint and dropped lance and fallen man picked out sharp in it. And under all of it, under the horns and the horses and the crackle of the burning carts and the moaning of the wounded in the snow, the world was still singing. Very quietly now. He could still hear it. He thought perhaps he would always hear it.
 
 And in all that singing, somewhere far to the south, over the hill, on the Seat road, there was one note he would have known anywhere. Small and clear and fierce, and quite unbroken.
 
@@ -402,3 +402,5 @@ Then he closed his hand on it again, and turned round, and walked back along the
 - R72-21: the Front ticks (the carriage on the Seat road).
 - R70-114: the warm bond, under threat.
 - R79-6: no figures in the fight.
+
+**Revision 2026-10-24.** Colour lifted on the ice and shore (frost sparks in the lifting, the fire's orange and gold, blood bright on the snow, a low gold sun breaking over the glittering Skeldmere at the close); no magitech added, since this is open lake and frontier road; tics trimmed ("did not need to", "very/quite still", the bad-ledge simile), with the full mark kept only at the salve-tin payoff. All beats and Isaac's lines kept word for word.

@@ -20,19 +20,19 @@ She was not sure whether that frightened her or not. She decided, on the way to 
 
 ---
 
-The north gate was the smallest of the enclave's four: two posts of dark cedar and a crossbeam carved with the crow, and a pair of plain wooden doors, and beyond them a stretch of trampled snow where the gully came out of the trees. The house-guard had opened the doors and stood back from them, as Naiser had ordered, and Naevra walked out through them alone, in grey, barefoot on the cold boards of the threshold, with her white hair in its plait and nothing in her hands.
+The north gate was the smallest of the enclave's four: two posts of dark cedar and a crossbeam carved with the crow, and under the crow the old words of the house cut small into the grain, *a crow perches, a crow watches, a crow remembers*, and a pair of plain wooden doors, and beyond them a stretch of trampled snow where the gully came out of the trees, blue in the dawn and glittering where the first light reached it. The house-guard had opened the doors and stood back from them, as Naiser had ordered, and Naevra walked out through them alone, in dove-grey, barefoot on the cold boards of the threshold, with her white hair in its plait and nothing in her hands.
 
 The wards rose round her as she stepped through. She felt them reach out across the snow and touch the riders, and weigh them, and settle. Caution, very deep. Exhaustion. Grief, in some of them, old and worn smooth. And under all of it, in the one at the front, something so still and so clean that the wards went over it like water over glass and found nowhere at all to catch.
 
 The one at the front had already dismounted. She stood a little ahead of the others, in the trampled snow, with her horse's rein looped over one arm.
 
-She was tall. As tall as Naevra, nearly, and as pale, so that standing face to face on either side of the threshold they might have been the same white figure and its reflection in dark water. Her travelling clothes were near-white, layered, plain, the white of fresh linen and not of silk, stained grey at the hem from the road. The glass veil of her line was pinned back from her face and the beads of it hung at her temples, and they clicked very faintly when she moved her head. At the crown of her head the halo-ring of pale metal caught the first grey of the dawn. The sheen of the Moto blood lay faint as frost along her brow and at her temples, and her eyes were grey, light grey, the grey of rain on a window, with fine silver rings in them that did not turn at all, but lay perfectly still, the way the surface of a well lies still.
+She was tall. As tall as Naevra, nearly, and as pale, so that standing face to face on either side of the threshold they might have been the same white figure and its reflection in dark water. Her travelling clothes were near-white, layered, plain, the white of fresh linen and not of silk, stained grey at the hem from the road. The glass veil of her line was pinned back from her face and the beads of it hung at her temples, and they clicked very faintly when she moved her head. At the crown of her head the halo-ring of pale metal caught the first rose of the dawn, and the glass beads took it too and threw it back in small coloured sparks, rose and lavender and a cold clear green. The sheen of the Moto blood lay faint as frost along her brow and at her temples, and her eyes were grey, light grey, the grey of rain on a window, with fine silver rings in them that lay motionless as the face of a deep well.
 
 At her left hip, in a white scabbard bound with white cord, she wore a katana.
 
 Behind her, still in the saddle, a huge bald man in a grey cloak with copper showing at the cuffs. And beside him, already off his horse and standing very close to it, a slight sharp man with restless fingers who kept glancing back up the gully the way they had come.
 
-Naevra looked at the woman in white for a long moment.
+Naevra looked at the woman in white across the threshold.
 
 "Kiyome," she said.
 
@@ -82,7 +82,7 @@ Naevra did not speak.
 
 She looked back at Naevra.
 
-"That's all I know," she said. "That's everything. Some of it I've had from the Starks themselves, in the last ten days, by crows that shouldn't have been able to find me. Some of it I've had from Shigure Tenrai, in front of the whole council, without her knowing what she was telling me." Her grey eyes held Naevra's. "My sister's son took the Foot. My sister's son has the eye. And he doesn't know any of it. Not who his father was. Not who his mother was. Not that he has an aunt sitting in a white chair in the Moto hold who'd have given anything in the world to know he was alive."
+"That's all I know," she said. "That's everything. Some of it I've had from the Starks themselves, in the last ten days, by crows that shouldn't have been able to find me. Some of it I've had from Shigure Tenrai, in front of the whole council, without her knowing what she was telling me." Her grey eyes held Naevra's. "My sister's son took the Foot. My sister's son has the eye. And he doesn't know any of it: who his father was, who his mother was, or that he has an aunt sitting in a white chair in the Moto hold who'd have given anything in the world to know he was alive."
 
 ---
 
@@ -94,7 +94,7 @@ Kiyome turned her head and looked at him.
 
 It was a very small look. It did not last long. Naevra, standing in the threshold, felt it go past her like a cold draught from an opened door, and saw Hayato stop where he stood as if he had walked into a wall.
 
-He did not say anything else. But Naevra saw his face, and read it as clearly as she would have read a page. *We don't have the strength for this,* it said. *We haven't got another war in us. Not one. Not the Amagiri, not the Akagane, not the Byakuya. If this goes wrong in there, if the Zettari take it badly, if Kagenori hears where we are before we're home, there's nothing left to fight it with.*
+He did not say anything else. But Naevra saw his face, and read it as clearly as she would have read a page. *We don't have the strength for this,* it said. *We haven't got another war in us, none of us, Amagiri or Akagane or Byakuya. If this goes wrong in there, if the Zettari take it badly, if Kagenori hears where we are before we're home, there's nothing left to fight it with.*
 
 And Kiyome's face, turning back, said just as clearly that she knew. That she had never once thought otherwise. That she had not come here to fight anything.
 
@@ -110,7 +110,7 @@ Hayato's face went a shade paler. The big bald man in the saddle let out a long 
 
 "Guide us, then," said Kiyome Byakuya.
 
-Naevra hesitated, on the cedar boards. She did not need to say it. They knew. Every Moto in the Inner World knew. But it was the custom, and the custom was the house, and the house was hers to keep.
+Naevra hesitated, on the cedar boards. It hardly wanted saying. They knew. Every Moto in the Inner World knew. But it was the custom, and the custom was the house, and the house was hers to keep.
 
 "We ask," she said, "that no weapon be drawn on our sacred ground."
 
@@ -128,11 +128,11 @@ Naevra looked at the knot for a moment. Then she nodded, and turned, and led the
 
 Naiser was standing when they came into the long hall.
 
-He had not meant to stand. He had meant to receive them seated, behind the low table, the way he had received the Zettari. But when the screens at the north end of the hall slid back and his sister came through them with three Moto lords behind her, in their road-stained grey, and the cold of the north gate coming in with them, he found that he was on his feet, and could not quite remember getting there.
+He had not meant to stand. He had meant to receive them seated, behind the low table, the way he had received the Zettari. But when the screens at the north end of the hall slid back and his sister came through them with three Moto lords behind her, in their road-stained grey, and the cold of the north gate coming in with them, he found that he was on his feet, and could not quite remember getting there. The hall's worked lamps were still lit against the dawn, honey-gold in their cedar frames, and the light of them ran warm along the red-brown beams and lay on the road-stained cloaks of the three as they came.
 
 The Sovereign of Kushara and the Crown Prince were at the table. Naiser had seated them on the east side, in the places of honour. He did not look at them now. He looked at the three coming toward him down the long room, and the hall's own threads lay open to him as they always did in that room, and he read them.
 
-Kiyome Byakuya first, white and straight and very still, with her silver rings lying quiet as well-water and her katana bound in a white knot at her hip. He had seen her once, years ago, across a field under a flag of truce. She had not changed. She had only grown more like herself.
+Kiyome Byakuya first, white and straight and composed, the lamplight sparking in the glass at her temples, her silver rings lying quiet in her grey eyes and her katana bound in a white knot at her hip. He had seen her once, years ago, across a field under a flag of truce. She had not changed. She had only grown more like herself.
 
 Behind her, Tetsugen Akagane.
 
@@ -156,7 +156,7 @@ Then the Lord of the Akagane bent his bald head toward them. It was a deep bow. 
 
 Kiyome Byakuya came to stand beside him.
 
-She looked at the Sovereign, and at the Prince, steadily, one after the other. Then she inclined her head to them, not so deep as Tetsugen, but with great care, so that the glass beads at her temples hung perfectly still.
+She looked at the Sovereign, and at the Prince, steadily, one after the other. Then she inclined her head to them, less deeply than Tetsugen and with great care, so that the glass beads at her temples hung perfectly still.
 
 "Sovereign," she said. "Prince Dougou."
 
@@ -200,3 +200,5 @@ She stood beside Tetsugen Akagane, with the white knot bound tight at her hip, a
   - **The white knot**: Kiyome binds her hilt to its scabbard with white cord, a Byakuya peace-keeping custom.
   - Byakuya villages that have buried a third of their children since spring.
 - **Tense.** Past, to match the thread.
+
+**Revision 2026-10-24.** Gave the arrival colour (blue-and-glittering dawn snow, the crow's words cut under the north gate's crow, rose and lavender sparks off Kiyome's glass beads, honey-gold worked lamps on red-brown beams in the long hall), and cleared two antitheses, two countdowns and the tics (needless emphasis, a long look, a stillness tic, the repeated well simile). Every beat and every line of Isaac's is kept in order, and every passage touching Shaka-Al and Dougou is untouched.

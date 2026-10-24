@@ -22,7 +22,7 @@ He did it himself, on the first night, in the small room at the back of the hous
 
 He was still in the red harness. He had not taken it off since the gatehouse. Nobody had dared suggest it.
 
-The fire took. The small room filled slowly with warmth and the smell of pine and old dust burning. Somewhere outside, in the Hall square, Stark riders were singing round a brazier, low and rough and a little drunk, an old Kharven song about a woodpile. Somewhere further off, on the river, a horse was neighing. The draw-hum had come back at dusk, when Ilse Hallenfeld sent word to her draw-masters that the main could be mended, and it lay under everything again now, low and steady, under the rock and the ice and the walls, the way it had for three hundred years.
+The fire took. The small room filled slowly with warmth and the smell of pine and old dust burning. Somewhere outside, in the Hall square, Stark riders were singing round a brazier, low and rough and a little drunk, an old Kharven song about a woodpile. Somewhere further off, on the river, a horse was neighing. The draw-hum had come back at dusk, when Ilse Hallenfeld sent word to her draw-masters that the main could be mended, and it lay under everything again now, low and steady, under the rock and the ice and the walls, the way it had for three hundred years. Through the narrow window he could see the Seat come back to light: the worked lamps along the cliff stair and the terraces kindling again one by one in their brass cages, amber climbing the dark rock from the river to the crown like a slow tide coming in, until the whole fist of the Seat hung lit over the frozen Marrow again, and the aurora came out above it, green and violet, rippling. It was the most beautiful thing he had ever seen. He looked at it for a while and found he could not feel anything about it at all.
 
 He sat in front of the fire and listened to all of it.
 
@@ -48,7 +48,7 @@ It needed to be held a very long time.
 
 Toward midnight, there was a knock on the door.
 
-He did not answer. The door opened anyway, very quietly, and Lorn Stark came in with a blanket over one arm and a bowl in his hands, and set the bowl down on the stone floor beside him without a word. Bone broth, with the fat still floating on it. Then he sat down on the floor a little way off, against the wall, with the blanket in his lap, and drew up his knees, and said nothing.
+He did not answer. The door opened anyway, very quietly, and Lorn Stark came in with a blanket over one arm and a bowl in his hands, and set the bowl down on the stone floor beside him without a word. Bone broth, with the fat still floating on it. His hands were clean now. Somebody had made him wash them. His brother was lying in the Tenrai keep on a table under a Stark cloak, with Mark sitting beside him, and the Waiting would begin at dawn, and Lorn had come here first, with a bowl. Then he sat down on the floor a little way off, against the wall, with the blanket in his lap, and drew up his knees, and said nothing.
 
 After a while, Godfrey came in too, and sat down on Muken's other side.
 
@@ -72,7 +72,7 @@ But some time before dawn, he fell asleep, sitting up, with his back against the
 
 The Hall of Verdicts was a long black room under a long black roof on the crown of the rock, and it had been built for one purpose, and it had served that purpose for a thousand years.
 
-The floor was black stone, polished, and it fell away from the doors toward the far end in three wide shallow steps, so that whoever stood at the back of the hall looked down on whoever stood at the front. The walls were black stone. The beams were black oak, so old they had gone hard as iron. There were no windows. The only light came from the lamps, a hundred of them, in iron cages hung from the beams on long chains, and from a single round opening in the roof directly over the place at the bottom of the hall where those who came to be judged were made to stand, so that they stood in a shaft of grey daylight and everyone else stood in the dark.
+The floor was black stone, polished, and it fell away from the doors toward the far end in three wide shallow steps, so that whoever stood at the back of the hall looked down on whoever stood at the front. The walls were black stone. The beams were black oak, so old they had gone hard as iron. There were no windows. The only light came from the lamps, a hundred of them, worked lamps on draw in cages of black iron hung from the beams on long chains, each one burning a clear steady gold that laid the polish of the floor with a hundred small suns, and from a single round opening in the roof directly over the place at the bottom of the hall where those who came to be judged were made to stand, so that they stood in a shaft of grey daylight and everyone else stood in the dark.
 
 At the far end, on a low dais of black stone, there were seven chairs.
 
@@ -232,7 +232,7 @@ Muken looked at her.
 
 Something went across the small hard face in the shaft of light. Very fast. Gone.
 
-"And her," said Shizuha. She did not look round. She did not need to. "My sister. In my chair."
+"And her," said Shizuha. She did not look round. "My sister. In my chair."
 
 "Nanami Shirogane," said Muken, "will sit the silver chair. If she will." He did not look at Nanami. "And Shiro Tenrai the gold. If he will. And they'll sit in them under my eye for the rest of their lives, and every Shirogane and every Tenrai who comes to them in the night and whispers that the red line must be ended will be sent away. By them. In their own voices." He held the old woman's eyes. "Every one. For as long as they live. Until there is nobody left in either line who remembers why the whispering started."
 
@@ -260,7 +260,7 @@ They came forward one at a time to the foot of the dais, where the boy in red sa
 
 Lorn Stark first. For the Starks of Hollenmark. He came down the shallow steps of the black floor and stood at the foot of the dais in his father's mail and put his right hand flat on his chest, and closed it into a fist against his breastbone, and pressed it there once, hard, and held it.
 
-"By the sky that covers us," said Lorn Stark. "House Stark. To the red chair, and to the man in it." His voice was rough. "My father would have."
+"By the sky that covers us," said Lorn Stark. "House Stark. To the red chair, and to the man in it." His voice was rough. "My father would have. And Rob."
 
 Godfrey Greymane, for the Greymanes of Ridgewall. "The ridge does not move," he said, very quietly. "We'll hold it. For you, and for whoever comes after." He looked up at Muken. "My father would have, too."
 
@@ -384,7 +384,9 @@ When it was done, he wiped the blade on a cloth Kiyome handed him, and looked at
 
 There was peace in the north.
 
-It came the way the thaw came, slowly, and then all at once. The draw-hum came back under the Seat and stayed there, and the Hallenfeld clerks went through the Tenrai treasury chest by chest and sent the grain-tallies back to the long houses they had been taken from, and the grain after them, up the Marrow on sledges and down Hayato's indigo roads on mules, with a Yukari witness at each end counting the sacks. The levies did not go south. Not that spring, nor the next. The Stark riders went home to Hollenmark and the Greymanes to Ridgewall and the Thornwall pikes to Thornhaven, and the Ashmore horse to Ashbury, and the Keld to their fires on the tundra with their warlord on a litter, and in every long house in the north that winter, when the wood went on the fire, someone told the story of the boy who came home from the ice.
+It came the way the thaw came, slowly, and then all at once. The draw-hum came back under the Seat and stayed there, and the Hallenfeld clerks went through the Tenrai treasury chest by chest and sent the grain-tallies back to the long houses they had been taken from, and the grain after them, up the Marrow on sledges and down Hayato's indigo roads on mules, with a Yukari witness at each end counting the sacks. The levies did not go south. Not that spring, nor the next. The Stark riders went home to Hollenmark, carrying Rob Stark with them on a sledge under a cairn of his own shields, and the Greymanes to Ridgewall and the Thornwall pikes to Thornhaven, and the Ashmore horse to Ashbury, and the Keld to their fires on the tundra with their warlord on a litter, and in every long house in the north that winter, when the wood went on the fire, someone told the story of the boy who came home from the ice.
+
+The thaw, when it came, was green. Nobody alive had seen the north green. The moss came up first along the river in the lee of the rock, a soft brilliant green like spilled paint against the last grey ice, and then, on the south face of the Seat's cliff where the sun lay longest, small white flowers nobody could name, thousands of them, in the cracks of the stone. The old woman with no teeth, who had come down the Marrow behind the army on a sledge and refused to go home, sat on a bench in the Hall square in the sun and looked at them for a whole afternoon. *When the grass comes,* she said, to nobody, and laughed, a cracked old sound like a hinge, and wiped her eyes.
 
 They built a woodpile in the Hall square at the Seat. Nobody ordered it. Somebody started it, the boy with the red ears, the day after the first bell, splitting pine from the Tenrai stables, and the others joined him, and by the end of the week it ran the whole length of the Hall's south wall as high as a man's shoulder, every split end of it pale in the light. Nobody burned from it. It was not for burning. It was only there.
 
@@ -516,3 +518,6 @@ He did not know how long it would last.
 - R79-6: no figures in fights.
 
 The prose check passes on all four chapters with no fails.
+
+
+**Revision 2026-10-24.** Relit the Seat at dusk and lit the Hall of Verdicts' lamps as worked gold; added Lorn's grief for Rob (the broth brought with his brother lying in the keep; "My father would have. And Rob."), Rob carried home to Hollenmark, and a green thaw with the old woman's "When the grass comes." All of Isaac's beats and lines kept.

@@ -22,7 +22,7 @@ His voice was rough, and lower than he meant it to be.
 
 He put his right hand flat on his chest, over his heart, and closed it into a fist against his breastbone, and pressed it there once. Then he let it fall to his side, and looked at the floor three feet in front of him again, and was quiet.
 
-At the head of the table, Muken's mouth moved very slightly at the corner. He did not look at Lorn. He did not need to.
+At the head of the table, Muken's mouth moved very slightly at the corner. He did not look at Lorn, and Lorn, who had learned that corner of a mouth on four weeks of hard road, read it well enough from the wall.
 
 ---
 
@@ -44,7 +44,7 @@ Muken did not put his hand on its head.
 
 He did not move at all.
 
-Godfrey Greymane, at his right hand, saw the gold seam in his left eye go from a hair's breadth to the width of a thread, all at once, like a crack running across ice when a man's weight comes down on it. He saw the edges of Muken's knuckles go white on the pine. He saw nothing else, because there was nothing else to see. Muken sat in Shigure Tenrai's carved chair with his face quite still and his grey eyes on the Crown Prince of Kushara, and let him say the rest of it.
+Godfrey Greymane, at his right hand, saw the gold seam in his left eye go from a hair's breadth to the width of a thread, all at once, like a crack running across ice when a man's weight comes down on it. He saw the edges of Muken's knuckles go white on the pine. He saw nothing else, because there was nothing else to see. Muken sat in Shigure Tenrai's carved chair with his face set like frozen ground and his grey eyes on the Crown Prince of Kushara, and let him say the rest of it.
 
 *I won't apologize for it. He needed to be stopped.*
 
@@ -110,7 +110,7 @@ The dog looked back at him over its great grey shoulder. Then, slowly, with the 
 
 "You killed him," said Muken.
 
-His voice was very quiet. It was the gallery voice, flat and even, every word set down like a foot on a bad ledge. But under it, for anyone with ears, there was something that had not been there before, a kind of grain in it, like wood that had been split along a line it did not want to go.
+His voice was very quiet. It was the gallery voice, flat and even. But under it, for anyone with ears, there was something that had not been there before, a kind of grain in it, like wood that had been split along a line it did not want to go.
 
 "At Shimane," he said. "In the mud. And that morning, under Halcrest, when the crier came down the shafts, my mother turned her face to the wall and didn't turn it back." He held the prince's eyes. "I don't know if those two things were the same hour. I don't suppose you'd know either."
 
@@ -120,9 +120,9 @@ He let it sit.
 
 Godfrey's long grey hand had come to rest on the table again beside his, flat, not touching him.
 
-"And then I thought about Hiroe," Muken said. "And the cellars. And a village in the hill road called Harrowmere that had eighty people in it in the summer and twenty-six in it last week. And I thought about what my mother died of, which wasn't you." He was quiet a moment. "So no. I don't hate you for it. I'd like to. It'd be easier. I'd have somewhere to put all this." He touched his own chest, once, with two fingers, over the place where the black hot thing lay banked. "But you did what somebody had to do, and nobody else did it. Not the seven lines. Not the Hall. Not any of the men who stood behind him for twenty years and watched." He did not look at Kiyome, or Tetsugen, or Hayato. He did not need to. "You did. I'll not hate a man for doing the one thing everybody else was too frightened to."
+"And then I thought about Hiroe," Muken said. "And the cellars. And a village in the hill road called Harrowmere that had eighty people in it in the summer and twenty-six in it last week. And I thought about what my mother died of, which wasn't you." He was quiet a moment. "So no. I don't hate you for it. I'd like to. It'd be easier. I'd have somewhere to put all this." He touched his own chest, once, with two fingers, over the place where the black hot thing lay banked. "But you did what somebody had to do, and nobody else did it: the seven lines, the Hall, all the men who stood behind him for twenty years and watched." He did not look at Kiyome, or Tetsugen, or Hayato. "You did. I'll not hate a man for doing the one thing everybody else was too frightened to."
 
-The fire cracked. A spark went up.
+The fire cracked. A spark went up the flue, bright as a struck coin, and was gone.
 
 "As for being happy," said Muken.
 
@@ -138,7 +138,7 @@ Tetsugen Akagane let out a breath through his nose, very slowly, and took his ha
 
 It was Hayato who spoke into the silence after, because the prince had told him to.
 
-He came forward a pace, into the firelight, with the juniper still caught in the toggle at his throat and his restless fingers for once quite still.
+He came forward a pace, into the firelight, with the blue-black juniper still caught in the toggle at his throat and his restless fingers, for once, folded quiet in the indigo of his cape.
 
 "He's right," said Hayato. "The prince. We came to warn you, sire, and I've only told you half of it." He glanced, once, at Kiyome, and back. "Karogane's only the knife on that ice. The hand on it is Kagenori's, and the arm behind the hand belongs to someone else entirely."
 
@@ -176,7 +176,7 @@ It was very quiet in the long room.
 
 ### IV · Under My Rule
 
-Muken looked at her for a long moment. Then he looked down the table, past the barrel and the stools and the bench from the stables, to where the Crown Prince of Kushara had stepped back to stand by the stone wall in the shadow beyond the firelight, with his great arms in his sleeves.
+Muken looked at her, and let what she had said settle in him. Then he looked down the table, past the barrel and the stools and the bench from the stables, to where the Crown Prince of Kushara had stepped back to stand by the stone wall in the shadow beyond the firelight, with his great arms in his sleeves.
 
 "You said become whatever kind of king I want to be," said Muken. "And you said you don't know if you would have told your people the truth. And that mine chose me after seeing what kind of man I was." He paused. "I'll answer you, Prince. All of it. And then I'll answer my aunt, since she's waiting."
 
@@ -190,7 +190,7 @@ He stopped, as though the words were heavier than he had expected, and weighed t
 
 Tetsugen's head came up. Hayato's fingers stopped on the corner of his cape. Kiyome did not move at all.
 
-"Not a levy," said Muken. "Not a column. Not a single tax-cart. Not while I'm breathing." His voice did not rise. "Under my rule, we will control the north, the way we did for hundreds of years before the war. Our own snow. Our own salt. Our own ice. And we'll keep it well, which is more than we've done in my lifetime." His grey eyes moved, slowly, from one Moto face to the next. "And we'll reach for nothing else. We let ourselves believe we could control the whole of the inner world." He was quiet a moment. "We couldn't even control ourselves. My father went down into the cellars with a lamp after his own blood, and the seven lines watched him do it and wrote it down. That's what we were. That's what we made of the world when we had it."
+"No levy," said Muken. "No column, and not a single tax-cart, while I'm breathing." His voice did not rise. "Under my rule, we will control the north, the way we did for hundreds of years before the war. Our own snow. Our own salt. Our own ice. And we'll keep it well, which is more than we've done in my lifetime." His grey eyes moved, slowly, from one Moto face to the next. "And we'll reach for nothing else. We let ourselves believe we could control the whole of the inner world." He was quiet a moment. "We couldn't even control ourselves. My father went down into the cellars with a lamp after his own blood, and the seven lines watched him do it and wrote it down. That's what we were. That's what we made of the world when we had it."
 
 He paused.
 
@@ -214,9 +214,9 @@ He could hear it himself, in the long low stone room, with the Tenrai pine spitt
 
 "It may sound ironic," said Muken. "I know it does. I'm a Moto. Mine spent forty years killing yours, and twenty of them were my father's." He held the prince's eyes. "But I will not continue it. That idea. That the Moto are owed the world, and anyone who won't give it to us is owed a burning. It ends here. It ends at this table."
 
-He looked down, then, at the mark in the dust. At the long down-stroke, and the hook, and the crossing, and the small closed loop at the foot of it like a knot in a rope.
+He looked down, then, at the mark in the dust: his mother's mark, his name, lying where Kiyome had drawn it, with the firelight running gold along its strokes.
 
-"I was given this life for a reason," he said slowly. "I didn't think so, this morning. This morning I thought it was just the life I had, the way a man has the weather. But a woman cut salt with her lungs going for sixteen years so I'd live to sit in this chair. A Stark gave up his name and his place among the Seven to come down four galleries every season and teach me to hold a stick." He breathed. "Two Warlords of the north rode south to the Seat knowing what was waiting for them, so that their sons could stand in this room today and not look away." He did not look at Lorn or Godfrey. He did not need to. "Weather doesn't do that. Somebody meant it."
+"I was given this life for a reason," he said slowly. "I didn't think so, this morning. This morning I thought it was just the life I had, the way a man has the weather. But a woman cut salt with her lungs going for sixteen years so I'd live to sit in this chair. A Stark gave up his name and his place among the Seven to come down four galleries every season and teach me to hold a stick." He breathed. "Two Warlords of the north rode south to the Seat knowing what was waiting for them, so that their sons could stand in this room today and not look away." He did not look at Lorn or Godfrey. "Weather doesn't do that. Somebody meant it."
 
 He lifted his eyes.
 
@@ -236,7 +236,7 @@ Nobody moved.
 
 "I told the Sovereign of Kushara," said Kiyome, without lifting her head, "that if you said no, the Byakuya would serve you anyway, in a mercenary's tent. You haven't said no." She breathed. "So the white house will serve you in a king's hall. However mean the hall. However few the chairs."
 
-Muken looked at her for a long time.
+Muken looked at her bowed white head, and at the cord hanging from her fingers, and could not speak at once.
 
 "Get up, Aunt," he said at last, very quietly. "Please. You've ridden four hundred miles. The floor's cold."
 
@@ -248,7 +248,7 @@ Tetsugen Akagane had been watching from under his heavy grey brows. Now he grunt
 
 "I'll take them," said Muken.
 
-Hayato Amagiri had been very still. Now he laughed, once, under his breath, and it had no humour in it at all.
+Hayato Amagiri had stood through all of it without fidgeting once, which for him was a feat of arms. Now he laughed, once, under his breath, and it had no humour in it at all.
 
 "My uncle," he said, "is going to have an apoplexy." He shook his head slowly. "*No Moto will march on Zettari lands again.* He'll call that treason in open council before you've finished saying it." He looked at Muken. "I'd say it louder, sire. Say it tonight, by the woodpile, after the other thing. Say it where every Stark rider can hear it, and every one of them will carry it home to a long house that buried a son on a southern field." He drew a line in the air with one finger. "And I'll carry it down my roads. Every hut with a woodpile in it between here and the border. Before the Hall can say you didn't mean it."
 
@@ -338,3 +338,5 @@ The post stops with Muken's hand held out, so the shake is Dougou's to give or r
 **Open:** the yard tonight, by the woodpile, is still to come. That's both the telling of who he is and, per Hayato, "no Moto will march on Zettari lands."
 
 **Rule ids that most constrained it:** R72-4 (stop on a physical action aimed at another player's character: the open hand), R71-6 (a player's acts are world facts; his reasons stay his), R70-50 (one changed detail on return), R72-25 (Kiyome's oath, Tetsugen's knife hand as tells), R70-114 (the warm bond: Yusif's lesson), and your standing rule to answer every point without writing him.
+
+**Revision 2026-10-24.** Light colour in the frontier hall (the spark up the flue, Hayato's indigo and juniper, firelight gold along the mark), no magitech at the Foot, a beat of Hayato's dry wit, and the tics trimmed (did not need to, quite/very still, long moments, the foot-on-a-ledge, the full mark description, two countdown runs smoothed in Muken's speech without changing what he says); every beat and Isaac's lines are kept, and Dougou's passages are untouched.

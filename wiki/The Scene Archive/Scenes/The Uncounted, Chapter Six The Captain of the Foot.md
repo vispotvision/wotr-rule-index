@@ -18,7 +18,7 @@ The shock went through his wrists and his elbows and his shoulders and into the 
 
 He kept his feet. He did not know how.
 
-Shigure Tenrai Moto had not moved after the cut. She stood where she had landed, at the foot of the stair, with the long curved sword held out to the side at the end of its swing and her eyes on his face. She had not even shifted her weight. She had cut at him the way a woman reaches out to snuff a candle, and the candle had flinched, and she was looking at it with mild interest.
+Shigure Tenrai Moto had not moved after the cut. She stood where she had landed, at the foot of the stair, with the long curved sword held out to the side at the end of its swing and her eyes on his face. She had not even shifted her weight. The morning was coming up hard and blue behind the keep, and it caught on her: black lamellar laced in gold, the Tenrai heraldry worked in gold thread on the banner at her breast, a gold cord at the hilt of the sword. She was the only bright thing on the stair that was not on fire. She had cut at him the way a woman reaches out to snuff a candle, and the candle had flinched, and she was looking at it with mild interest.
 
 "Hm," she said.
 
@@ -42,7 +42,7 @@ He did not understand it. He did not understand it for a full breath. Then he lo
 
 The rings in them had stopped turning.
 
-Every time. He saw it, now that he was looking, the way he had seen the gait of the big creature on the Vessant road, the way he had seen the seam in the wall. The fine bright rings in the dark of her eyes turned and turned while she moved, slowly, like ripples on a pond, and then, the instant before each cut, they stopped. They stopped dead and went bright, the way a man's eyes go still when he takes aim. And on the last cut, the one that should have split his skull, they had stopped and gone bright, and then they had flickered, and gone out, and come back on, like a lamp in a draught.
+Every time. He saw it, now that he was looking, as he had seen the gait of the big creature on the Vessant road and the seam in the wall. The fine bright rings in the dark of her eyes turned and turned while she moved, slowly, like ripples on a pond, gold on black, and then, the instant before each cut, they stopped. They stopped dead and went bright, as a marksman's eyes fix when he takes aim. And on the last cut, the one that should have split his skull, they had stopped and gone bright, and then they had flickered, and gone out, and come back on, like a lamp in a draught.
 
 And she had pulled the cut.
 
@@ -70,7 +70,7 @@ It came up hard. This time it came as a brand. It came up out of somewhere at th
 
 And then he could see again. And the world had changed.
 
-It was still the yard. The snow, trampled black and red. The burning stables. The dead. The Tenrai on the stair with their shields locked, and the northerners at the foot of it, and Wystan's grey men coming across from the broken gate. The woman in front of him in black and gold, with her long curved sword. But it was all of it laid open now, the way a frozen river is laid open when the ice is clear, so that you can see the current moving under it. He could see where everything was carrying its weight. The stair. The walls. The shields. The bodies of the living and the dead. Every one of them was a set of loads going down through bones and stones and timber into the ground, and every load went through some place that was carrying more than it could hold. He could see those places. They stood out to his left eye like cracks of light in a dark wall.
+It was still the yard. The snow, trampled black and red, and beyond the trampling a field of it glittering untouched under the walls. The burning stables, orange and roaring, throwing sparks up into a sky gone the hard clean blue of a northern morning. The dead. The Tenrai on the stair with their shields locked, and the northerners at the foot of it, and Wystan's grey men coming across from the broken gate. The woman in front of him in black and gold, with her long curved sword. But it was all of it laid open now, the way a frozen river is laid open when the ice is clear, so that you can see the current moving under it. He could see where everything was carrying its weight. The stair. The walls. The shields. The bodies of the living and the dead. Every one of them was a set of loads going down through bones and stones and timber into the ground, and every load went through some place that was carrying more than it could hold. He could see those places. They stood out to his left eye like cracks of light in a dark wall, a fine hot gold, the colour of a forge seen through a chink.
 
 He could see them in her.
 
@@ -110,7 +110,7 @@ But she was on one knee in the snow, with her weight wrong and her footing gone,
 
 She made a sound, a long hiss through her teeth, like water on a hot stone.
 
-And then she did a thing he had not seen anyone do, and would not see again for a long time.
+And then she did a thing he had not seen anyone do, and would not see again for many winters.
 
 She let go of her sword.
 
@@ -120,7 +120,7 @@ He lay there. He could not breathe. He could not get his arms under him. The war
 
 Above him, Shigure Tenrai Moto got slowly to her feet.
 
-She was bleeding badly. The cut at the top of her shoulder was deep, to the bone, and the blood was coming out of it through the black plates in a steady pulse and running down the gold of the banner on her breast, and her left arm hung down at her side and did not move when she moved. Her palms were laid open across both of them where she had taken the blade in her hands. She stood over him in the snow, swaying, with the turning rings in her eyes beginning to slow and dim, and looked down at him for a long time.
+She was bleeding badly. The cut at the top of her shoulder was deep, to the bone, and the blood was coming out of it through the black plates in a steady pulse and running down the gold of the banner on her breast, and her left arm hung down at her side and did not move when she moved. Her palms were laid open across both of them where she had taken the blade in her hands. She stood over him in the snow, swaying, with the turning rings in her eyes beginning to slow and dim, and looked down at him while the blood ran off her fingers and pocked the snow red.
 
 Her own sword lay in the snow beside his head. She did not pick it up.
 
@@ -138,7 +138,7 @@ Shigure Tenrai Moto looked down at Muken for one breath more.
 
 She could have killed him. He knew it. She knew he knew it. Her sword was a hand's width from her foot, and she had one good arm, and he could not lift his own. One stroke. And the face that had come down out of Gimbzo, and the eye that had come up out of the dust, would have gone back into the snow of Kharven's Foot where nobody would ever see them again.
 
-She looked at him, at his face more than at the eye, and the rings in her eyes went quite still, and something passed across her long white face that he would not understand for years.
+She looked at him, at his face more than at the eye, and the rings in her eyes slowed and stopped, and something passed across her long white face that he would not understand for years.
 
 Then she bent, with a grunt of pain, and picked up her sword left-handed by the blade, careless of her open palm, and straightened.
 
@@ -148,7 +148,7 @@ She turned. Two of her men came down the broken stair for her, and she put her g
 
 A moment later, from somewhere round the far side of the keep, he heard the sound of horses on stone, going away fast down a road toward the south.
 
-Then nothing. Only boots, and northern shouting, and the burning stables, and the long low cold sound of the wind coming over the broken wall.
+Then nothing. Only boots, and northern shouting, and the burning stables, and the long low cold sound of the wind coming over the broken wall and lifting the snow off the rubble in glittering skeins.
 
 ---
 
@@ -160,13 +160,13 @@ Somebody was kneeling beside him. Many people. Boots, and voices, and a hand on 
 
 "*Muken.* Muken, lad, look at me. Look at me." Ulf Stark. His breath was going white over Muken's face, fast and hoarse. "Sky above. Sky above, lad, you put a Tenrai captain on her knees. With that. With *that.*" He was looking at the scrap-iron sword in the snow. "Wystan. Wystan, come and see this. Come and see what he did to the step."
 
-Another face. Long and grey. Wystan Greymane was not looking at the step. He was looking at Muken's left eye, very closely, from a hand's width away, and his face had gone very still in a way that Muken would remember for a long time afterward.
+Another face. Long and grey. Wystan Greymane was not looking at the step. He was looking at Muken's left eye, very closely, from a hand's width away, and his face had set like ground taking the frost, in a way that Muken would remember long afterward.
 
 "Ulf," said Wystan Greymane quietly. "Look at his eye."
 
 Ulf looked.
 
-Neither of them said anything at all.
+Neither man spoke. Behind them the stable roof fell in, and a column of sparks went up gold into the blue.
 
 Muken could not see his own eye. He would not see it for days, until he found a scrap of polished steel in the fort's armoury and looked into it, and saw what they had seen: a crack in the slate-grey of the left iris, low, fine as a hair, running out from the amber fleck that had always been there toward the edge, bright as a seam of gold in a stone. It would fade, over the next week, until he could barely find it. It would never go entirely.
 
@@ -186,7 +186,7 @@ The north had come up the ridge six hundred strong. Fifty-two of them would not 
 
 Thirty of those fifty-two had been in the vanguard.
 
-They laid them in a row along the inside of the curtain wall, by the breach, where the light came in, with their faces to the sky. Thirty of them. Most of them were boys. The thin red-haired one with the spear was third from the end. Somebody had closed his eyes and crossed his hands on the spear-shaft, and somebody else had taken the rags out of his helmet and folded them and put them under his head, as if that would make the ground softer.
+They laid them in a row along the inside of the curtain wall, by the breach, where the light came in, with their faces to the sky. The noon sun came through the gap in a long white bar, and the frost on their mail and in their hair caught it and glittered, so that the row of them shone as if someone had dressed them for a feast. Thirty of them. Most of them were boys. The thin red-haired one with the spear was third from the end. Somebody had closed his eyes and crossed his hands on the spear-shaft, and somebody else had taken the rags out of his helmet and folded them and put them under his head, as if that would make the ground softer.
 
 Muken walked down the row.
 
@@ -206,7 +206,7 @@ She looked up at him, at the strapped arm and the bound ribs and the pad over hi
 
 He sat.
 
-She reached up without a word and untied the pad from over his left eye, gently, and looked into the eye for a long time. He felt her breath on his face. He felt his own breathing slow down, the way it always did, and the grinding emptiness in his chest ease, a little, for the first time since the stair.
+She reached up without a word and untied the pad from over his left eye, gently, and looked into the eye, close and unhurried, as she looked into wounds. He felt her breath on his face. He felt his own breathing slow down, the way it always did, and the grinding emptiness in his chest ease, a little, for the first time since the stair.
 
 She did not say anything about the crack in his iris. She looked at it, and he saw her see it, and he saw her decide not to say anything, and he loved her for it more than he had ever loved anyone.
 
@@ -242,3 +242,5 @@ Then she tied the pad back on, and took a curved needle out of the kit on her kn
 **Closing line:** Yukazuri's canon voice line from her card, *Hold still. You can dislike me when it closes.*
 
 **Rule ids that most constrained it:** R71-7 (the deciding fact, the cracked step, shown in the read before the blow), R71-8 (a findable way out, both directions), R71-23 (a tell shown twice and used on the third), R71-19 (the ground on its own row: frost in old stone), R70-69 (Pressure in the room, then the bodies), R71-6 and the gore floor (shoulder to the bone, palms opened, the dead laid out), R70-114 (the warm bond at the close).
+
+**Revision 2026-10-24.** Lifted the colour (Tenrai black and gold on Shigure, the gold of the stress-cracks, the blue northern morning, glittering frost on the laid-out dead and the blowing snow) and kept magitech absent at the frontier fort; trimmed "for a long time", "very/quite still" and the chained "the way" similes. Every beat, line and figure of the duel, the count and the close is kept.

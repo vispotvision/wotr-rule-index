@@ -12,7 +12,7 @@ He set the cup down.
 
 "You asked what each of our families hopes to preserve," he said. "I'll answer you. But I would like to begin somewhere else, and I'd ask your patience for it."
 
-He looked out through the open screens for a moment, at the white gravel and the three standing stones and the cedars beyond them.
+He looked out through the open screens for a moment, at the white gravel bright in the sun and the three standing stones in their shawls of moss, and the cedars beyond them going up red-brown and dark green into a sky of clean cold blue.
 
 "I feel for them," he said. "The families the Moto talked into destroying themselves. I feel for them more than I can easily say." His hands lay open on his knees. "They were not wicked men, most of them. They were persuaded. Someone who reads fate for a living came to them and told them what was going to happen, and what they could become if they helped it happen, and they believed him, because a Moto is very rarely wrong about what will happen and very often wrong about what it will cost. So they reached for things they did not understand. They tried to arrange what cannot be arranged. And the spirits paid for it."
 
@@ -38,7 +38,7 @@ He paused. When he spoke again his voice had changed, not much, a little lower, 
 
 "If it were not for my father," he said, "there would be no Soul Plane left to be fractured. He went into the seam when the Seikai first forced it, four winters ago, when the war turned to its worst. He went alone, because a door like that will only take one. And he held it." He did not look at Naevra. He could feel her not looking at him. "He held it for four years. He never came back. Everything that still lives in the spirit side of this world, and everything that will be born out of it, is living on the time he bought."
 
-The stream ran on under the boards. Somewhere far back in the hall the maid set down a pot, very softly.
+The stream ran on under the boards. Somewhere far back in the hall the maid set down a pot, very softly. On the rail of the walk outside a crow had come down out of the cedars, glossy as wet ink, its feathers taking a violet sheen where the sun lay on them, and it sat there with its head on one side, watching the room the way the house's crows watched everything.
 
 "So." Naiser drew himself up. "You ask what the Yukari want. I'll tell you plainly, Sovereign, because I think you're a man who would rather be told plainly. We want the spiritual balance of this physical world kept. That's all. That's the whole of it. We want it kept, and we want the great families, yours and the Moto both, to understand the weight of what you're doing every time you invoke. Every time you call on something older than you are and ask it to lend you its strength. That is not a small thing. It has never been a small thing. And the war happened because too many people forgot that."
 
@@ -46,13 +46,13 @@ He was silent for a moment.
 
 "I'll be honest with you about one more thing," he said, "because if I'm not, you'll learn it some other way and you'll never trust me again. The fault was not only theirs. It was ours as well. Our own insolence." He said the word as though it tasted of the tea. "The Seikai were our making. Not by blood, or not only. They were made by our refusal to believe that anyone outside this house could ever come to understand what we understood. We held the spiritual knowledge close. We let it be known that no one else could reach it. And when someone did reach it, on their own, without our teaching and without our caution, there was no one to tell them where the edges were, and there was a house that had already decided they were a threat. We made them into what they became. Then we went to war with them for it."
 
-Naevra's hands had stilled in her lap. The fine white threads that sometimes hung in the air around her face when she was reading had come out, faintly, catching the light from the screens like cobweb in a barn door, and they had drawn very slightly taut. Naiser did not need to look at her to feel it.
+Naevra's hands had stilled in her lap. The fine white threads that sometimes hung in the air around her face when she was reading had come out, faintly, catching the light from the screens like cobweb in a barn door, and they had drawn very slightly taut. Naiser felt it without turning his head.
 
 "That is why I'm going to ask you for what I'm going to ask you for," he said.
 
 He laid one hand flat on the low table.
 
-"If there is to be peace between our two great families, and accommodation, then promises will have to be made, and they'll have to be kept. The first is this. You will never use the spiritual knowledge the Yukari hold, or anything learned from us, to fuel a war campaign. Not against the Moto, not against anyone. Not to win a battle and not to end one. If our knowledge goes out of this valley at all, it goes out to mend, never to take."
+"If there is to be peace between our two great families, and accommodation, then promises will have to be made, and they'll have to be kept. The first is this. You will never use the spiritual knowledge the Yukari hold, or anything learned from us, to fuel a war campaign, against the Moto or against anyone, whether to win a battle or to end one. If our knowledge goes out of this valley at all, it goes out to mend, never to take."
 
 He did not wait for a response.
 
@@ -74,7 +74,7 @@ He drew his hand back from the table and rested it on his knee again.
 
 He was quiet for a moment.
 
-"Which brings me to the last condition," he said, "and it is the one I will not move on. Your house, and every house that comes to an accord with ours, will give up any intention of controlling or manipulating the spirit world without our direct counsel and our teaching. I don't say that because we want to stand over you. I say it because the last people who reached into the Soul Plane without anyone to show them where the edges were broke it, and my father went in after them, and he isn't coming back." He looked at the Sovereign for a long moment. "Learn from us. We'll teach you. I'd sooner teach the whole world than bury another father for it. But no one touches the spirit side alone again."
+"Which brings me to the last condition," he said, "and it is the one I will not move on. Your house, and every house that comes to an accord with ours, will give up any intention of controlling or manipulating the spirit world without our direct counsel and our teaching. I don't say that because we want to stand over you. I say it because the last people who reached into the Soul Plane without anyone to show them where the edges were broke it, and my father went in after them, and he isn't coming back." He looked straight at the Sovereign. "Learn from us. We'll teach you. I'd sooner teach the whole world than bury another father for it. But no one touches the spirit side alone again."
 
 Then he was silent. He had said what he came to say.
 
@@ -82,7 +82,7 @@ Naevra lifted her cup and drank, and set it down without a sound, and looked up 
 
 "My brother hasn't mentioned the other matter," she said. "The one in your letter." Her voice did not change at all. "I'll say it, then, so that it's said and no one has to wonder. Whatever is decided about that, it is decided after this. After the terms, not before them, and not instead of them. Nobody at this table is a payment." She inclined her head, very slightly, toward the Sovereign. "Not on our side, and not on yours."
 
-Naiser said nothing. He did not need to. He sat with his hands on his knees and the katana lying sheathed at his right hand with its edge turned toward himself, and his sister kneeling quiet and white at his left, and the stream running loud beneath the floor, and he waited for the Sovereign of Kushara to answer.
+Naiser added nothing to it. He sat with his hands on his knees and the katana lying sheathed at his right hand with its edge turned toward himself, and his sister kneeling quiet and white at his left, and the stream running loud beneath the floor, and he waited for the Sovereign of Kushara to answer.
 
 ---
 
@@ -98,3 +98,5 @@ Naiser said nothing. He did not need to. He sat with his hands on his knees and 
 - **Invented:** the father's four years holding the seam, the war's last four (it carries on from the funeral piece), the midwives' measure, the tainted southern springs (settled 2026-10-20: a Seikai remnant still feeds the poison), and the three tithe-refusing valleys. Gimbzo's old First-Eon card is being rewritten to the new lore; I gave him nothing here beyond your line.
 - **The Mahuo.** Naiser's account, the Yukari slaughtering them while the Moto stood back, is his house's telling. Settled 2026-10-20: all three houses destroyed the Mahuo, each blaming another.
 - **Tense.** Past, to match the thread.
+
+**Revision 2026-10-24.** Lifted the view through the screens into colour (sunlit gravel, moss-shawled stones, red-brown cedars under a cold blue sky) and set a watching house crow on the rail; trimmed two needless-emphasis tics, a long-look tic and a countdown in the first condition's wording. All beats and Isaac's points are kept in order, and every passage describing Shaka-Al and Dougou is untouched.

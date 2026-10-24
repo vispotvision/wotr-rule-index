@@ -18,23 +18,23 @@ The ground was frozen as hard as iron, and there was no digging it. There never 
 
 Muken laid the first.
 
-He had carried her up himself, in Godfrey's grey cloak, because nobody would have dared offer to do it for him. He had laid her down on the bare rock at the end of the row, where the ridge looked south over the Kessen road and the white country beyond it toward the Seat, and he had knelt beside her for a long time with his hand on the grey wool, and then he had got up, and gone back down the path, and come back up it with a stone of the mend in his arms so heavy that his strapped ribs tore loose under the linen and he had to stop twice on the path to breathe. And he had set it down at her head.
+He had carried her up himself, in Godfrey's grey cloak, because nobody would have dared offer to do it for him. He had laid her down on the bare rock at the end of the row, where the ridge looked south over the Kessen road and the white country beyond it toward the Seat, and he had knelt beside her while the sky over the Kessen road went from blue to rose, with his hand on the grey wool, and then he had got up, and gone back down the path, and come back up it with a stone of the mend in his arms so heavy that his strapped ribs tore loose under the linen and he had to stop twice on the path to breathe. And he had set it down at her head.
 
 Then the others came.
 
 Lorn. Godfrey. Kiyome Byakuya, carrying her stone in both hands against her near-white robes as if it were a child. Tetsugen Akagane, who carried two, one in each fist, and set them down without a word. Hayato, whose stone was too big for him and who would not let anybody help. Rob and Mark Stark. The two Greymane women from the surgeons' line, and the Stark boy who could carry, and every Greymane in his long grey file, and every Stark rider who had come back off the Skeldmere, and the boys who had sewn the banner. The women from the long houses. Their children, carrying stones the size of their fists. The old woman with no teeth, who could not climb the ridge path on her two sticks and was carried up it on a door by four Stark riders, and who sat on the door at the top with a stone in her lap no bigger than a hen's egg, and when it was her turn, leaned over and set it down on the cairn very carefully, in the exact centre, where it would be seen.
 
-By the time the sun cleared the curtain wall, the cairn stood as high as a man's chest, pale against the snow. There was nothing on it. No name. No mark. The Kharven did not carve names on cairns; the Waiting kept names in mouths.
+By the time the sun cleared the curtain wall, the cairn stood as high as a man's chest, pale against the snow, and the first light lay on it warm and pink as the inside of a shell, and every rime-crusted stone in it sparkled. There was nothing on it. No name. No mark. The Kharven did not carve names on cairns; the Waiting kept names in mouths.
 
 But when everyone else had gone back down the ridge, Muken stayed.
 
 He knelt at the head of it in the snow, and took off his right glove, and with the end of his forefinger, slowly, in the frost that had already begun to form on the face of the stone he had carried, he drew a mark. A long down-stroke. A hook. A crossing. A small closed loop at the foot of it like a knot in a rope.
 
-His hand had never once been able to make it come out right. Not in sixteen years. Not on the gallery wall, not on the tea-house window, not in the dust of the Tenrai mess. She had always laughed at him for it.
+His hand had never once been able to make it come out right in sixteen years, on the gallery wall or the tea-house window or in the dust of the Tenrai mess. She had always laughed at him for it.
 
 It came out right.
 
-He knelt and looked at it a long time, the mark in the frost, perfect, the way she had always drawn it. And then the sun came round onto the face of the stone, and the frost began to go, and the mark went with it, line by line, until there was only grey stone, wet, and nothing on it at all.
+He knelt and looked at it a long time, the mark in the frost, perfect, the way she had always drawn it. And then the sun came round onto the face of the stone, and the frost began to go, and the mark went with it, line by line, until there was only grey stone, wet and shining in the sun, and nothing on it at all.
 
 He put his glove back on, and got up, and went down the ridge.
 
@@ -46,7 +46,7 @@ The forgeman came up the Kessen road at noon on the same day, alone, on foot, wi
 
 The Greymane watch on the wall saw him a mile off and did not know what they were seeing. A short dark shape on the white road, very broad, moving at a steady trudge that did not change on the hills, with something on its back so big and so square that it looked from a distance as if a piece of the road had stood up and was walking north. When he came closer they saw that it was a man, and then that it was not a man, and then that the thing on his back was an anvil of black iron the size of a small table, strapped to a frame of oak and iron, and that he was carrying it the way another man might carry a pack of blankets.
 
-He stopped at the foot of the gate and looked up at the blank white banner for a long time.
+He stopped at the foot of the gate and looked up at the blank white banner, cracking in the wind against a hard blue sky, and took his time about it.
 
 Then he looked at the mend in the wall, the long pale seam of new stone running down through the old, and something in his broad ruddy face moved, very slightly, as if he did not entirely approve of the coursing. Then he put back his head and called up to the gatehouse in a voice like a rockfall in a deep mine.
 
@@ -76,9 +76,9 @@ Kiyome did not answer him. She turned her head.
 
 Muken was standing in the doorway.
 
-He had come down from the ridge and gone to the smithy, and the Stark armourer had told him, and he had come. He stood in the door of the long room in the dead sergeant's coat with his strapped ribs and his stitched forearm and the snow of the ridge still white on his boots, and his face was quite still, and the Dawi turned round and looked at him.
+He had come down from the ridge and gone to the smithy, and the Stark armourer had told him, and he had come. He stood in the door of the long room in the dead sergeant's coat with his strapped ribs and his stitched forearm and the snow of the ridge still white on his boots, and his face gave nothing, and the Dawi turned round and looked at him.
 
-Borin Ironheart looked at him for a very long time.
+Borin Ironheart looked at him as he would have looked at a bar of steel come out of a stranger's forge.
 
 He looked at the white hair and the grey eyes and the gold seam in the left one. He looked at the boy's hands. At the way he stood. And then, slowly, he unfolded his arms and took one step toward him, and stopped, and his broad ruddy face did something it had perhaps not done in a long time. It went quiet.
 
@@ -114,11 +114,11 @@ Borin Ironheart turned round slowly.
 
 "I need a new one," said Muken. "Made out of the old. All three pieces. And I need it made in a day."
 
-The Dawi looked at him for a long, long moment.
+The Dawi looked at him, and his beard twitched.
 
 Then he laughed.
 
-It was not a cruel laugh. It came up out of the great barrel of his chest like a rockfall far off in a deep mine, low and rolling and enormous, and it went on for some time, and the fire in the hearth leaned toward it.
+The laugh had no cruelty in it. It came up out of the great barrel of his chest like full casks rolling down a cellar ramp, low and rolling and enormous, and it went on for some time, and the fire in the hearth leaned toward it.
 
 "A day," said Borin Ironheart, when he had finished. "A *day.* Out of three pieces of scrap. Boy, I've spent forty years on a single blade. I spent sixteen hours on that one" (he jerked his beard at Kiyome's hip) "and that was a short job, and I slept two days after it." He shook his head. "You don't know what you're asking."
 
@@ -148,11 +148,11 @@ He held them out.
 
 Borin Ironheart looked down at the seven needles on the boy's palm.
 
-He looked at them for a very long time. And something went across his broad ruddy face, fast, and was gone, the way a crack goes across ice when the weight comes down on it, and when it was gone his face was different. Older. Something in it that his students in the Varrak-Thur had a name for, and would not have said in front of him.
+He did not look up from them. And something went across his broad ruddy face, fast, and was gone, the way a crack goes across ice when the weight comes down on it, and when it was gone his face was different. Older. Something in it that his students in the Varrak-Thur had a name for, and would not have said in front of him.
 
 He held out his hand.
 
-It was enormous, square, granular-skinned, scarred across the palm and the knuckles by four centuries of hot iron, and it was quite steady. Muken laid the needles in it, linen and gut and all, and Borin closed his fingers over them, gently, the way a hand closes over a bird.
+It was enormous, square, granular-skinned, scarred across the palm and the knuckles by four centuries of hot iron, and it was quite steady. Muken laid the needles in it, linen and gut and all, and Borin closed his fingers over them as gently as if they might fly.
 
 "What's the blade to be called?" said the Dawi.
 
@@ -188,17 +188,17 @@ He looked at each of them, one after another. Then he spoke.
 
 "I'll be ready in a day," said Muken.
 
-His voice was quiet. It was not the gallery voice. It was lower than that, and slower, and every word in it had been set down so carefully that it seemed to have weight, like stones laid one on another on a cairn.
+His voice was quiet, lower and slower than the gallery voice, and each word in it carried weight, like stones laid one on another on a cairn.
 
 "One day," he said. "And then all will be revealed. And all of this will come to an end." His grey eyes did not move from their faces. "The Tenrai. The Shirogane. The silver chair. All of it."
 
-Nobody spoke.
+The fire ticked in the hearth.
 
 "I must find myself," said Muken. "First. Before anything. I've been cutting at nothing in the snow for two days and the world's been cracking under my feet, and I don't yet know how to stop it. I have to learn. And I have to heal." He touched his strapped side, once, very lightly. "I can't take the Seat with two ribs stove in and an arm that won't close. Before the battle, I have to be whole." He was quiet a moment. "Or as whole as I'm going to be."
 
 "Sire," said Godfrey quietly. "The Seat's three days' march. The Tenrai have the Hall and the cliff and the conduits, and whatever's left of the Keld. They'll have had a week to wall themselves in by the time we reach them. And they'll know we're coming. They sent her down the river to make sure of it." He did not look away. "Forgive me. But how can you know we'll win?"
 
-Muken looked at him for a long moment.
+Muken held his eyes.
 
 "Because the tides of fate have shown me," he said.
 
@@ -214,13 +214,13 @@ She had heard a great many Moto speak in her life. She had heard them in the Hal
 
 She had never heard anything like this.
 
-It was not the words. The words were simple. It was the thing under the words. The weight in them. The way every one of them seemed to settle into the air of the room and stay there, the way a stone settles into snow. It was the voice of a man who was not telling you what he wanted to happen, or what he hoped would happen, or what he would make happen if he could. He was telling you what was going to happen, because he had seen it, the way you would tell a man the river was frozen because you had walked across it.
+The words were simple. The weight was in the thing under them. The way every one of them seemed to settle into the air of the room and stay there, the way a stone settles into snow. It was the voice of a man who was not telling you what he wanted to happen, or what he hoped would happen, or what he would make happen if he could. He was telling you what was going to happen, because he had seen it, the way you would tell a man the river was frozen because you had walked across it.
 
 *That is a Moto,* thought Kiyome Byakuya. *That is a Moto speaking. The first I have heard in my life. Seven lines forgive us, that is what we were supposed to sound like.*
 
 She did not say it. She could not have said it.
 
-She looked at Tetsugen. The old Akagane lord was staring at the boy from under his thick grey brows with his heavy face gone quite still, and his scarred hands had come off his belt. She looked at Hayato. Hayato's lips were moving slightly, as if he were trying to work out the distance to something.
+She looked at Tetsugen. The old Akagane lord was staring at the boy from under his thick grey brows with his heavy face gone slack with something near wonder, and his scarred hands had come off his belt. She looked at Hayato. Hayato's lips were moving slightly, as if he were trying to work out the distance to something.
 
 "I don't understand," said Lorn Stark.
 
@@ -232,7 +232,7 @@ He said it roughly, from the door, without shame.
 
 They all looked at him.
 
-"The death-house," said Muken. "It's empty now. It's the coldest room in the Foot and the quietest, and nobody goes into it unless somebody's died." He breathed. "I'm going in there. And I need nobody to come in after me until I come out, whatever they hear, whatever they see under the door. Not you, Lorn. Not Godfrey. Not my aunt." He looked at Kiyome. "Not even if I stop breathing."
+"The death-house," said Muken. "It's empty now. It's the coldest room in the Foot and the quietest, and nobody goes into it unless somebody's died." He breathed. "I'm going in there. And I need nobody to come in after me until I come out, whatever they hear, whatever they see under the door. Not you, Lorn, nor Godfrey, nor my aunt." He looked at Kiyome. "Not even if I stop breathing."
 
 "Sire..." said Godfrey.
 
@@ -250,17 +250,17 @@ Borin Ironheart forged Tsugigane through that day and that night and the next, a
 
 They had never seen anything like it. Nobody in the north had. The Stark armourer, who had been beating out horseshoes and mail-rings at Hollenmark for thirty years and thought himself a fair smith, stood in the door of the long room for the first hour with his mouth open, and then went away and sat on the woodpile with his head in his hands, and then came back and asked, humbly, if he could work the bellows.
 
-Borin let him. He let six of them, in shifts: the Stark armourer, two Greymane masons, Rob Stark, Tetsugen Akagane, who took off his copper coat and worked a bellows for four hours without stopping or speaking, and the boy with the red ears, who could not be made to go away. They worked the great bellows of the Foot's smithy, carried into the long room and set either side of the hearth, until their arms gave out and the next shift took over, and the fire in the hearth went from red to orange to a yellow-white so bright that nobody could look at it, and stayed there. It did not flicker. It did not need fuel adjusting. It simply burned at the heat the Dawi wanted, as though it knew.
+Borin let him. He let six of them, in shifts: the Stark armourer, two Greymane masons, Rob Stark, Tetsugen Akagane, who took off his copper coat and worked a bellows for four hours without stopping or speaking, and the boy with the red ears, who could not be made to go away. They worked the great bellows of the Foot's smithy, carried into the long room and set either side of the hearth, until their arms gave out and the next shift took over, and the fire in the hearth went from cherry red to a roaring orange to a yellow-white so bright that nobody could look at it, and stayed there, throwing the shadows of the bellows-men huge and leaping up the old Tenrai beams and turning every face in the room the colour of new brass. It did not flicker. It wanted no tending. It simply burned at the heat the Dawi wanted, as though it knew.
 
 He began with the three pieces of the old sword.
 
-He laid them on the anvil, side by side, the hilt and the long broken middle and the point, and put his great granular hands on them, and closed his eyes, and stood like that for an hour. Not moving. Not speaking. The men at the bellows looked at each other.
+He laid them on the anvil, side by side, the hilt and the long broken middle and the point, and put his great granular hands on them, and closed his eyes, and stood like that for an hour without moving or speaking. The men at the bellows looked at each other.
 
 "He's listening," said Kiyome Byakuya quietly, from the doorway, where she had stood since he began. "A Dawi reads iron the way we read a face. He's finding out what it was before it was a sword."
 
 When he opened his eyes, he took the pieces off the anvil and put them in the fire.
 
-He did not forge them. Not at first. He took the old scrap iron apart. He heated each piece until it glowed, and folded it, and beat it out, and folded it again, and watched the scale come off it in black flakes and the slag run out of it in bright spitting threads, and folded it again. Over and over. The men at the bellows lost count. The iron got smaller each time, and greyer, and quieter, and the sound it made under the hammer changed, from a dull clatter like a pot lid to a clear high ring like a bell.
+He did not forge them. Not at first. He took the old scrap iron apart. He heated each piece until it glowed, deep cherry and then orange and then the yellow of a buttercup, and folded it, and beat it out, and folded it again, and watched the scale come off it in black flakes and the slag run out of it in bright spitting threads that skittered across the stone floor like shooting stars and winked out, and folded it again. Over and over. The men at the bellows lost count. The iron got smaller each time, and greyer, and quieter, and the sound it made under the hammer changed, from a dull clatter like a pot lid to a clear high ring like a bell.
 
 "Bad scrap," said Borin, once, to no one, as he drew a glowing bar out of the fire. "Bad scrap, from a dozen different smelts. Some of it's older than this fort." He turned the bar in the tongs, looking at it. "Some of it's very old. Some of it's had blood in it more than once." He put it back in the fire. "It's all got to come out. Everything that isn't iron. Everything that was put in by men who didn't know what they were doing." He folded it again. "Then we'll see what's left."
 
@@ -278,9 +278,9 @@ He did not let anyone watch the folding of the needles.
 
 He sent the bellows-men out of the long room. He sent Kiyome out. He barred the door behind them, and the Foot stood in the yard in the snow and the dark with the light of the forge coming yellow-white through the cracks round the door and the narrow windows, and listened to the hammer.
 
-It went on for six hours. It was not like the earlier hammering. It was slower, and lighter, and very even, a single stroke and then a long pause and then another, the rhythm of a man working at the very edge of what his hands could do and not daring to hurry. Sometimes there was a sound that was not hammering, a long hiss like water thrown on hot stone, or a high thin ringing that went on and on and made the old woman with no teeth, sitting on her door in the yard, put her hands over her ears. Once, near the fourth hour, the light through the cracks went out entirely, and the yard was dark, and nobody breathed, and then it came back, brighter.
+It went on for six hours. It was slower than the earlier hammering, and lighter, and very even, a single stroke and then a long pause and then another, the rhythm of a man working at the very edge of what his hands could do and not daring to hurry. Sometimes there was a sound that was not hammering, a long hiss like water thrown on hot stone, or a high thin ringing that went on and on and made the old woman with no teeth, sitting on her door in the yard, put her hands over her ears. Once, near the fourth hour, the light through the cracks went out entirely, and the yard was dark, and nobody breathed, and then it came back, brighter.
 
-And once, toward the end, they heard the Dawi speak. It was not in any tongue they knew. It was low and harsh and very old, and it went on for a long time, and it sounded like a man arguing with something that was arguing back.
+And once, toward the end, they heard the Dawi speak. It was in no tongue they knew, low and harsh and very old, and it went on and on, and it sounded like a man arguing with something that was arguing back.
 
 At the sixth hour the hammering stopped, and the door opened, and Borin Ironheart stood in it with the forge-light behind him, and he was grey to the lips.
 
@@ -290,7 +290,7 @@ At the sixth hour the hammering stopped, and the door opened, and Borin Ironhear
 
 He quenched it in the snow.
 
-Not in water, as the Stark armourer did, or oil, as the Moto smiths did in the south. He had them pack the long trough by the anvil with clean snow from the top of the curtain wall, where nobody had walked, a cartload of it, white and dry and so cold it smoked. And when the blade came out of the fire for the last time, long and slender and curved now like a crescent moon on its side, glowing the colour of a winter sunrise from the spine to the edge, he did not plunge it. He laid it down in the snow.
+The Stark armourer quenched in water and the Moto smiths of the south in oil. Borin had them pack the long trough by the anvil with clean snow from the top of the curtain wall, where nobody had walked, a cartload of it, white and dry and so cold it smoked. And when the blade came out of the fire for the last time, long and slender and curved now like a crescent moon on its side, glowing the colour of a winter sunrise from the spine to the edge, he did not plunge it. He laid it down in the snow.
 
 All along its length, all at once.
 
@@ -312,13 +312,15 @@ The Dawi was quiet a long moment.
 
 "The iron wanted to go back to sleep," said Borin. "Iron always does. The blood wanted to break things. It's very old, that blood. Very angry. It's been angry for a thousand years and it doesn't know why any more." He breathed. "And the needles." His great hands moved slightly on the trough. "The needles wanted to close things. That's all. They didn't argue at all. They just kept closing. Every crack I opened, every place the blood wanted to break, the needles went in after it and closed it." He lifted his head and looked at the blade lying in the snow, grey and plain and curved, with a single thin bright line running along it from the guard to a hand's width up the blade, where the old break had been, like a seam of silver in grey stone. "She's in there now. In the marrow. Where it broke." He looked away. "I've made a great many blades, Akagane. Kings' swords. Relics. Things the Guild would sell its own mothers for. I've never made one with a surgeon in it before."
 
-Tetsugen Akagane looked at the blade in the snow for a long time.
+Tetsugen Akagane looked at the blade in the snow, with the copper-red of the forge-light moving on his scarred face.
 
 Then he helped the Dawi up.
 
 ---
 
-It took the rest of the night and the morning after for the polishing and the fitting, and he did it all himself.
+It took the rest of the night and the morning after for the tempering and the polishing and the fitting, and he did it all himself.
+
+He drew the temper first, laying the blade spine-down over a bed of coals raked out from the hearth and turning it slowly, a finger's breadth at a time, with his eyes a hand from the steel. The colours came up out of the grey and ran along the spine like oil on water: pale straw first, then gold, then a deep bronze, then the purple of a ripe plum, and at the very back of the spine, where he let it go furthest, a clear peacock blue. He watched each colour come and stopped it where he wanted it, and the edge he never let past straw. When he plunged it into the snow again, the colours stayed, a band of gold and bronze and blue along the back of the blade that the polishing would take off and that the bellows-men, who saw it, would talk about for the rest of their lives.
 
 The hilt he bound in black rayskin and over it a wrap of plain dark red silk cord, the red of the red line, in the old diamond pattern that Kiyome Byakuya told him, standing at his elbow, the Kōkan had used. The guard he made from the old one, the iron guard of the scrap-iron sword, which had come off it in the breaking: he cleaned it and filed it and polished it until it was dark and plain and round, a simple disk with a single small hole worked through it, off-centre, in the shape of a needle's eye. The collar was iron. The pommel cap was iron. There was no gold on it anywhere, and no silver, and no gem.
 
@@ -346,8 +348,10 @@ It had been down for a day and a night and a day. Nobody had gone in. Lorn Stark
 
 And all that time, under the door, in the crack between the wood and the stone sill, there had been light.
 
-Not firelight. There was no fire in the death-house. A light like noon through cloud, steady and grey and warm, coming out under the door onto the snow of the yard, so that the snow there had never once frozen in all that time, and lay soft and wet, and in the soft wet snow, if you looked closely, very faint, there were the marks of fine branching cracks, coming and going, coming and going, like breath on a window.
+There was no fire in the death-house. The light was like noon through cloud, steady and warm, with a thread of gold running in it, coming out under the door onto the snow of the yard, so that the snow there had never once frozen in all that time, and lay soft and wet, and in the soft wet snow, if you looked closely, very faint, there were the marks of fine branching cracks, coming and going, coming and going, like breath on a window.
 
 ---
 
 *Author notes for Chapters Sixteen to Nineteen are at the end of Chapter Nineteen.*
+
+**Revision 2026-10-24.** Forge colour lifted (cherry, orange and yellow-white heat, slag sparks, the brass-lit room, and a drawn temper running straw, gold, bronze, plum and peacock blue), dawn colour on the cairn, a gold thread in the light under the death-house door; Kharven's Foot kept free of magitech; countdowns and antitheses rewritten and tics trimmed, with the full mark kept only at the cairn payoff. All beats and Isaac's lines kept word for word.

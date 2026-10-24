@@ -8,7 +8,7 @@ As sergeant, Muken knew the cargo was his to get where it was going. Eleven wago
 
 He had not known what kind.
 
-They came out of the trees on the sixth morning, where the road narrowed between two shoulders of granite and the snow lay in the ruts packed hard and grey. There were three of them. At first, through the spruce, he took them for goblins, and for a moment, before he saw them properly, he was nearly relieved. Goblins he knew. Goblins you could frighten, or pay, or kill.
+They came out of the trees on the sixth morning, where the road narrowed between two shoulders of granite and the snow lay in the ruts packed hard and glassy. The sun was barely clear of the timber. It came low and copper through the spruce and laid long blue shadows across the road, and every needle on the near trees carried its own rind of frost, so that the whole wood glittered as if it had been dusted with ground salt. Six days out from Halcrest there was no draw-hum anywhere, no gauge, no lamp but the wagons' oil; only the creak of the axles and the horses blowing. There were three of them. At first, through the spruce, he took them for goblins, and for a moment, before he saw them properly, he was nearly relieved. Goblins he knew. Goblins you could frighten, or pay, or kill.
 
 These were wrong.
 
@@ -24,7 +24,7 @@ The third was small. It came no higher than his hip. It was the fastest of the t
 
 He put two fingers in his mouth and whistled, three short blasts, and four of his men peeled off the column at a run toward the head of it, where the lead wagons were already slewing to a stop and somebody was shouting about the horses. The rest of the line knew the signal and drew in around the wagons. Behind him he heard the carriage door bang open.
 
-He did not need to turn. He knew it would be his sister. She would be leaning out of the door with one hand on the frame and her white hair coming out of its pins, and her face would be doing nothing at all, because that was what it did when she was frightened for him.
+He knew without turning that it would be his sister. She would be leaning out of the door with one hand on the frame and her white hair coming out of its pins, and her face would be doing nothing at all, because that was what it did when she was frightened for him.
 
 "Stay in," he said, without looking round.
 
@@ -136,7 +136,7 @@ He took the axe in both hands and raised it high over his head, and brought it d
 
 The head lay in the snow. Its jaws opened and closed, opened and closed, slower each time, and then stopped open.
 
-Muken reached them at last and went down on his knees beside them because his legs would no longer hold him up. For a while none of them said anything. The three bodies smoked on the road in the cold. The snow around them was black and red and trampled down to the frozen gravel, and here and there in it lay the bright scattered rings of Mark's mail like coins somebody had thrown away.
+Muken reached them at last and went down on his knees beside them because his legs would no longer hold him up. For a while none of them said anything. The three bodies smoked on the road in the cold. The snow around them was trampled down to the frozen gravel, black where the creatures had bled and a red so bright where the men had that it hurt to look at in the low sun, and here and there in it lay the scattered rings of Mark's mail, catching the copper light like coins somebody had thrown away.
 
 Mark was crying. He was doing it quietly now, with his face turned away from his brother, holding his ruined arm against his chest with his good hand. Rob was bleeding steadily through his breeches from the bite above the knee, a dark wet stain spreading down to his boot, and he did not seem to have noticed it yet.
 
@@ -144,11 +144,11 @@ Mark was crying. He was doing it quietly now, with his face turned away from his
 
 "That was the *small* one," Mark said. His voice shook so badly the words came out in pieces. "That was the small one, Sarge. That was the *cub.*"
 
-"Aye," said Rob, and spat black into the snow, and wiped his mouth with the back of his hand, and looked at the carcass of Big Bertha lying on its side with Muken's sword standing up out of its throat. He looked for a long time. Then he looked at Muken, at the open cheek and the blood down his coat and the hands that would not stop shaking, and something in that closed northern face shifted, very slightly, and settled again in a different place.
+"Aye," said Rob, and spat black into the snow, and wiped his mouth with the back of his hand, and looked at the carcass of Big Bertha lying on its side with Muken's sword standing up out of its throat. He took his time over it. Then he looked at Muken, at the open cheek and the blood down his coat and the hands that would not stop shaking, and something in that closed northern face shifted, very slightly, and settled again in a different place.
 
-He did not say anything. The Starks never did.
+Whatever it was, he kept it behind his teeth.
 
-Behind them, quick light footsteps were coming across the snow from the carriage, and Muken did not need to turn round to know whose they were. He heard the clink of glass and brass in a deep coat pocket. He heard his sister's voice, low and level, already giving orders, the voice she used for telling men to hold still.
+Behind them, quick light footsteps were coming across the snow from the carriage, and Muken knew whose they were without turning round. He heard the clink of glass and brass in a deep coat pocket. He heard his sister's voice, low and level, already giving orders, the voice she used for telling men to hold still. Her breath stood white in front of her and her hair had come entirely out of its pins, silver in the copper light, and her face was doing nothing at all.
 
 "Mark first," Yukazuri said. "Rob, lie down. Muken, sit before you fall."
 
@@ -193,3 +193,5 @@ Muken looked up the road. Then he looked down at his empty hands, and at his swo
 **What the horn means.** One long note and two short is the Lanternless call for "cargo stopped". The third blast is ragged and comes too soon, which suggests whoever is blowing it is hurt. The four men he sent forward are up there. That is the next chapter.
 
 **Rule ids that most constrained it:** R71-7 (the deciding fact, the right knee carrying all the weight, shown in the read before the blow), R71-8 (a findable way out), R71-10 (every exchange that lands, traced), R70-89 (the body first, no figures), R71-30 (the eye held unexplained), R72-11 (the chain of his actions stops where the world pushes back: the horn).
+
+**Revision 2026-10-24.** The timber road given colour (copper dawn through frosted spruce, blue shadow, men's blood bright against the creatures' black, Yukazuri silver in the low light) and one line marking that the draw does not reach this far out; "did not need to," "for a long time" and the second "the Starks never did" trimmed. Every beat of the fight and all of Isaac's lines kept word for word.

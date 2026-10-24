@@ -2,7 +2,7 @@
   "mcpServers": {
     "wotr": {
       "command": "bash",
-      "args": ["build/py.sh", "build/mcp_server.py"]
+      "args": ["build/py.sh", "build/mcp_server.py", "--ops"]
     }
   }
 }

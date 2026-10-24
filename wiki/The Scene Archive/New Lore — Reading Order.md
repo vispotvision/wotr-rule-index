@@ -5,7 +5,7 @@ private: true
 
 # New Lore — Reading Order
 
-The scenes archived after the 2026-10-18 lore reset, in reading order. Two threads run side by side: **The Uncounted** (Muken and Yukazuri in the north) and **the cedar enclave** (Naiser and Naevra Yukari, the Zettari talks, the Moto breakaway). Sources live in `scenes/`; the pages below are their mirrors.
+The scenes archived after the 2026-10-18 lore reset, in reading order. Two threads run side by side: **The Uncounted** (Muken and Yukazuri in the north) and **the cedar enclave** (Naiser and Naevra Yukari, the Zettari talks, the Moto breakaway). Sources live in `scenes/`; the pages below are their mirrors. *The Uncounted* runs through Chapter Nineteen, the fall of Kharven-Seat and the ratification of the seven lines.
 
 | # | Scene | Thread |
 |---|---|---|
@@ -56,7 +56,7 @@ Isaac's new-lore questionnaire settled every open retcon; the scenes above were 
 
 ## New names with no card yet
 
-Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbert Lambert, Oskar Pell, Hollis Draycott, Ulf Stark, Wystan and Aldwin Greymane, Godfrey Greymane (canon, first scene), Torvald Stark, Yusif Stark, Shigure Tenrai Moto, Kagenori Tenrai Moto, Shizuha Shirogane, Tetsugen Akagane, Sumie Kurenai, Kiyome Byakuya, Hayato Amagiri, Ren of the Akagane, Shisui Yukari, Seradris (another player's), Karogane, Aksel Keld (the Iron Fist of the Keld), Old Harald.
+Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbert Lambert, Oskar Pell, Hollis Draycott, Ulf Stark, Wystan and Aldwin Greymane, Godfrey Greymane (canon, first scene), Torvald Stark, Yusif Stark, Shigure Tenrai Moto, Kagenori Tenrai Moto, Shizuha Shirogane, Tetsugen Akagane, Sumie Kurenai, Kiyome Byakuya, Hayato Amagiri, Ren of the Akagane, Shisui Yukari, Seradris (another player's), Karogane, Aksel Keld (the Iron Fist of the Keld), Old Harald, Hisae Thornwall, Edric Ashmore, Ilse Hallenfeld, Nanami Shirogane, Shiro Tenrai.
 
 ## Added 2026-10-20 (Chapters Nine to Twelve)
 
@@ -81,5 +81,4 @@ Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbe
 - **Kharven-Seat falls.** Ilse Hallenfeld's gold buys the Guild draw-masters, who cut the main; the Thornwood corridors open the east wall; Hibi breaks only the lying ward-stone and the rotten gatehouse. **Kagenori** takes poison at the foot of the silver dais. **Karogane**'s blade breaks on the stair.
 - **The Hall of Verdicts.** Muken sits the red chair. **Shizuha** and **Karogane** are executed by his own hand at the first bell. **Nanami Shirogane** (Shizuha's younger sister) sits the silver chair and **Shiro Tenrai** (Karogane's elder brother) the gold; Hayato sits the indigo. The unification of the seven lines and the six Banner Houses is ratified and recorded by Ilse Hallenfeld.
 - **Open.** Shiro's son, about ten, is unnamed and "counting" (possibly **Azure Tenrai Moto**, Isaac to confirm). Kagenori's sealed letter, Kasane's red harness in the Shiraki hills, and Ayame Yuno, not yet arrived.
-- New names: the Skeldmere, the Grey Teeth, the Sennet and Haldorsson clans, the Marrow, Thornhaven's Thornwood corridors, Hisae Thornwall, Edric Ashmore, Ilse Hallenfeld, Nanami Shirogane, Shiro Tenrai, Tsugigane.
-
+- New names: the Skeldmere, the Sennet and Haldorsson clans, the Marrow, Thornhaven's Thornwood corridors, Tsugigane.

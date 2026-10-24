@@ -1,9 +1,8 @@
-# Nightly — 2026-10-23 03:30
+# Nightly — 2026-10-24 03:30
 
 ## Overnight
 
-Nothing changed overnight: validate passes, no scenes archived, no new or cleared findings, the sync pushed 61 times without a failure and Sunday's backup is on schedule.
-The one thing waiting on you is still both books' chapter 1 gates; approve or reject them (`python build/book_next.py --approve 1`) and the books move again.
+_(Claude's note goes here; build/nightly.sh writes it after these numbers. If this line is still here, the Claude step was off or failed — the numbers below stand on their own.)_
 
 ## Numbers
 
@@ -11,6 +10,16 @@ The one thing waiting on you is still both books' chapter 1 gates; approve or re
 - docket 0 outstanding
 - conflicts open 1
 - findings NEW 0 / CLEARED 0 / STILL OPEN 4
+
+## Scenes archived since the last run
+
+- `the_uncounted_chapter_eighteen_the_samurai_of_fate`
+- `the_uncounted_chapter_fifteen_the_work_of_ruins`
+- `the_uncounted_chapter_fourteen_the_seat_road`
+- `the_uncounted_chapter_nineteen_seven_lines_and_one_blood`
+- `the_uncounted_chapter_seventeen_the_seven_works`
+- `the_uncounted_chapter_sixteen_tsugigane`
+- `the_uncounted_chapter_thirteen_the_skeldmere`
 
 ## The book
 
@@ -31,6 +40,6 @@ The one thing waiting on you is still both books' chapter 1 gates; approve or re
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 61 push(es), 0 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-10-18 (5 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
-- last run of this digest: 2026-10-22T03:30:00
+- sync: 70 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-18 (6 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
+- last run of this digest: 2026-10-23T03:30:00

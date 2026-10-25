@@ -3223,3 +3223,9 @@ Context: Isaac's direction 2026-10-24: Claude Desktop project was still writing 
 Grand Angel Faisal is no longer divided into six pieces. The lore of Malakar splitting him across the six spiritual worlds is retconned; Faisal stands whole in the current canon.
 
 Context: Isaac, 2026-10-25, while commissioning a portrait of Faisal: "that lore retconned he is no longer broken up". Pages still carrying the division: Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host.md (Section V, The Shattering), Factions/Orders, Faiths and Cults/Sancta Lux.md, and the archived scene The Uncounted, Chapter Thirteen The Skeldmere (Faisal appears as 'a sixth of that'), with mentions in Chapters Fourteen, Fifteen, Seventeen and Nineteen. Open: whether he was never divided or was divided and later made whole, which decides how those pages and the Skeldmere scene are revised.
+
+## 2026-10-25 — new
+
+Faisal was never divided. Malakar never split the Grand Angel into six pieces; every page and archived scene that says otherwise is revised to the whole Faisal.
+
+Context: Isaac, 2026-10-25, answering the open item on the previous Faisal ruling: never divided, rather than divided and later made whole.

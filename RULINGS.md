@@ -3229,3 +3229,9 @@ Context: Isaac, 2026-10-25, while commissioning a portrait of Faisal: "that lore
 Faisal was never divided. Malakar never split the Grand Angel into six pieces; every page and archived scene that says otherwise is revised to the whole Faisal.
 
 Context: Isaac, 2026-10-25, answering the open item on the previous Faisal ruling: never divided, rather than divided and later made whole.
+
+## 2026-10-25 — new
+
+Agent ruling: with Faisal never divided, the Shattering is Malakar cracking the Lawbell at Highspire. Every externally anchored Celestial was Severed in the same hour; Faisal alone, whose Domain was grown rather than borrowed, came through whole and went to kneel under the cracked Bell's weight at the edge of creation, the place where the threads run, where he still hears every oath sworn on honour. The Host's losses, the census figures and the end of new Singings stand as before.
+
+Context: Grounds: Isaac's ruling 2026-10-25 that Faisal was never divided, with the Shattering kept as the war's turning point; the Celestial Host page's own mechanics (Celestials externally anchored through the Lawbell; a Grand Angel defined by a Domain of his own; no Celestial Sung since) and the Uncounted scenes' kneeling Faisal in the place where the threads run. Applied to The Celestial Host, Sancta Lux, The Powers of the Imperial Age, Lucius Xenotro, New Lore Reading Order, and The Uncounted chapters Thirteen, Fifteen and Seventeen (wiki and scenes/ copies). Isaac may overturn.

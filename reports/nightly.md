@@ -1,4 +1,4 @@
-# Nightly — 2026-10-24 03:30
+# Nightly — 2026-10-25 03:30
 
 ## Overnight
 
@@ -10,16 +10,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 - docket 0 outstanding
 - conflicts open 1
 - findings NEW 0 / CLEARED 0 / STILL OPEN 4
-
-## Scenes archived since the last run
-
-- `the_uncounted_chapter_eighteen_the_samurai_of_fate`
-- `the_uncounted_chapter_fifteen_the_work_of_ruins`
-- `the_uncounted_chapter_fourteen_the_seat_road`
-- `the_uncounted_chapter_nineteen_seven_lines_and_one_blood`
-- `the_uncounted_chapter_seventeen_the_seven_works`
-- `the_uncounted_chapter_sixteen_tsugigane`
-- `the_uncounted_chapter_thirteen_the_skeldmere`
 
 ## The book
 
@@ -40,6 +30,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 70 push(es), 0 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-10-18 (6 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-18.zip (38.1 MB, 1579 files)
-- last run of this digest: 2026-10-23T03:30:00
+- sync: 73 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-25 (0 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-25.zip (41.9 MB, 1173 files)
+- last run of this digest: 2026-10-24T03:30:00

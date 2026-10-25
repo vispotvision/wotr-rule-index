@@ -115,7 +115,7 @@ flowchart TD
 
 **Historical Role & Famous Figures**
 
-**FAISAL**, called the Grand Angel of Servitude, the Bound Flame, He Who Kneels at Creation's Edge — the only Midreach Celestial in recorded history to achieve the Grand Angel designation, and, until the Shattering, the closest thing the Choir had to a face mortals could recognize.
+**FAISAL**, called the Grand Angel of Servitude, the Bound Flame, He Who Kneels at Creation's Edge — the only Midreach Celestial in recorded history to achieve the Grand Angel designation, and, since the Shattering, the only face the Choir has left that mortals could recognize.
 
 **VERANTHA OF THE UNBROKEN TALLY** is recorded in fragmentary Midreach registry entries as the Celestial who held the longest unbroken Tally on record — four hundred and twelve years without a single witnessed oath going unkept in her jurisdiction — before her entry simply stops, mid-Tally, with no Severance recorded and no explanation offered. The Choir has not spoken her name in official capacity since.
 > **Advantages** · Vow-Light saturates further than baseline and can compel truth across a bounded area rather than merely discourage falsehood in individuals; exceptional resistance to Attraction Force manipulation, since their own architecture is built entirely from recognition and cannot easily be counterfeited.
@@ -206,14 +206,17 @@ Every Celestial alive today measures its own history against a single hinge poin
 
 Before it, the four Choirs numbered — per the Accord's own admittedly incomplete census, taken in the last peaceful year of the Era of Myths — somewhere in the low thousands, concentrated almost entirely within Utopia's three sub-realms. After it, credible sightings across all four Choirs combined number in the low dozens, spread across seven centuries, none of them confirmed twice.
 
-The hinge point itself has a name and a face. **Grand Angel Faisal**, alone among the entire Host, had completed the individuation the Choirs consider nearly impossible — had grown, across eleven thousand years of Oath-service, into something the Lawbell had not intended and could not have Sung on purpose: a Celestial capable of wanting things for reasons that were his own.
+The hinge point has a sound before it has a face. **Malakar cracked the Lawbell.**
 
-Malakar found this unacceptable in a way he did not find the rest of the Host unacceptable. The other three Choirs were obstacles. Faisal was proof of something Malakar's entire war depended on being impossible.
-> What Malakar did to him is recorded, in every source that mentions it at all, in the same six words: **he was divided into six pieces.**
+He did not need to fight the Host Celestial by Celestial. He needed to find what the Host hung from. Every Celestial's Crystal is externally anchored, wired into the Throne-network through the Bell that Sang it, and a crack driven through the Bell at Highspire runs through every anchor that hangs from it.
+> The Bellwrought recorded the toll that went out when it cracked. It did not circle the way the first toll circled. **It fell.**
 >
-> The pieces were separated across the six spiritual worlds with a precision that later scholarship — much of it produced independently by Niran Yukari during his Transfer-period research — describes as calculated specifically to prevent reunification: positioned so that no practitioner capable of gathering the knowledge of all six locations could also hold the power to act on it, and no practitioner holding the power could hold the knowledge, and no accident of history would ever place both in the same soul at the same time.
+> Across the four Choirs, every Celestial whose power was borrowed went dark in the same hour: Severed where it stood, mid-Oath, mid-Verdict, mid-sentence, its name gone from the Bell's registry with the Bell.
+
+**Grand Angel Faisal did not.** Alone among the entire Host he had completed the individuation the Choirs consider nearly impossible, had grown, across eleven thousand years of Oath-service, into something the Lawbell had not intended and could not have Sung on purpose: a Celestial capable of wanting things for reasons that were his own, with a Domain grown rather than borrowed. Nothing in him hung from the Bell. When the toll fell he was still standing, whole.
+> What he did next is why mortals call him the Bound Flame. A cracked Bell cannot hold the weight it was built to hold, and that weight was every oath sworn under it for eleven thousand years. **Faisal knelt under it.** He went to the edge of creation, to the place where the threads run, took the weight onto his own shoulders so that it would not come down on what is beneath it, and he has knelt there ever since. He hears every oath sworn on honour. He has not stood up.
 >
-> It was not an execution. Malakar could have executed a Celestial in less time than it takes to describe the act. It was a demonstration, delivered slowly and on purpose, that the Host's rarest achievement — a Celestial becoming, however briefly, a person — could be taken apart with the same tools used to build it.
+> Malakar found this unacceptable in a way he did not find the rest of the Host unacceptable. The other three Choirs were obstacles. Faisal was proof of something Malakar's entire war depended on being impossible: that personhood, earned slowly enough, survives the blow that breaks the institution it grew inside. Every source agrees that Malakar went to the edge more than once to break him. Every source agrees that Faisal is still kneeling.
 The Great Spirit War did not end because of the Shattering, but the Shattering is the moment every surviving Choir member marks as the one after which the war stopped being winnable in the shape it had been fought in.
 
 | Choir | What the campaigns after the Shattering did to it |
@@ -233,7 +236,7 @@ The Guild Accord's official position on the Celestial Host, current as of its la
 Shrine cultures across every mortal territory continue to venerate "angels" in a form the surviving Host would not recognize — gentler, whiter, uncomplicated by Tally, Ledger, or Ascent — and the Accord has made a quiet, unofficial decision not to correct this, on the theory that a comforting myth does less harm loose in the world than the true cost of what the myth is based on.
 
 Practitioners who claim descent from or contact with a Celestial are treated, by default Accord procedure, with the same bureaucratic suspicion applied to any extraordinary claim lacking a living witness to corroborate it — filed, investigated at low priority, rarely substantiated.
-> The one standing exception is any claim connected to **the six scattered pieces of Faisal**, which the Accord tracks with a level of resourcing disproportionate to every other Celestial-adjacent inquiry combined, for reasons its own internal memos describe only as *structural* and decline to elaborate further.
+> The one standing exception is any claim to have heard **Faisal at the edge**, the kneeling Grand Angel who still hears every oath sworn on honour, which the Accord tracks with a level of resourcing disproportionate to every other Celestial-adjacent inquiry combined, for reasons its own internal memos describe only as *structural* and decline to elaborate further.
 
 ---
 
@@ -257,4 +260,4 @@ Practitioners who claim descent from or contact with a Celestial are treated, by
 >
 > — **Severance** removes a Celestial not just from life but from the Lawbell's registry entirely. No afterlife, no reincarnation path, no recorded exception, which the Host regards with more grief than mortals typically extend to their own mortality.
 >
-> — Individuation into full personhood, the Grand Angel threshold, is achievable by only a handful of documented cases across the Host's entire recorded existence — and the one Celestial who unambiguously reached it was, subsequently, the one Malakar chose to make an example of.
+> — Individuation into full personhood, the Grand Angel threshold, is achievable by only a handful of documented cases across the Host's entire recorded existence — and the one Celestial who unambiguously reached it is the only one who came through the Shattering whole, and the cracked Bell's weight has rested on him since.

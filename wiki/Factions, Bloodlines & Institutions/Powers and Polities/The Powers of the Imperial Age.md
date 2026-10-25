@@ -140,7 +140,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 *The chartered body of measurement and consequence · the Grand Church at Altherion*
 
-**Wants.** Its Wellspring rights and its tax exemption kept. Its jurisdiction over oath, status, legitimacy and bad faith kept. The six pieces of the divided Grand Angel found before anyone else finds them.
+**Wants.** Its Wellspring rights and its tax exemption kept. Its jurisdiction over oath, status, legitimacy and bad faith kept. The kneeling Grand Angel reached, and heard, before anyone else reaches him.
 
 **Holds.** The Oracle, the only instrument in the four quarters that does not drift. The Grand Church inside a republic that cannot evict it. Chapter holds in Eresse and Foraye, a legation at the Concord Citadel, and the Ember Magistrates' circuit through towns that will never see the Church.
 

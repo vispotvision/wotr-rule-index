@@ -167,7 +167,7 @@ He was made Grand Paladin at the order's founding, because his doctrine proved h
 
 Faisal's blessing has not yet fully descended on him. The road he means to take runs toward command of the whole spectrum, and toward one band he does not have yet: black-edged radiance, for judgment against demons hiding inside shadow.
 
-The order's later account keeps him as its First Grand Paladin, with Veyr Chapel and the seven eidolons, and the floor of the Grand Church is inlaid with that lineage. The law the order runs by now was written by Darius and dated back to the founding Lucius stood in. The order also records that Malakar afterward took Faisal apart into six pieces. The order is still looking for them.
+The order's later account keeps him as its First Grand Paladin, with Veyr Chapel and the seven eidolons, and the floor of the Grand Church is inlaid with that lineage. The law the order runs by now was written by Darius and dated back to the founding Lucius stood in. The order also records that when Malakar afterward cracked the Lawbell, Faisal went to kneel under its weight at the edge of creation. The order is still trying to reach him.
 
 #### Ties
 

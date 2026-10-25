@@ -236,7 +236,7 @@ There was no light. There was no sound. Nobody on the walls saw anything come. B
 
 And there was someone standing beside him.
 
-Lorn Stark, in the barracks door, saw a figure. He said so afterward, and Godfrey said so too, and neither of them could ever say more. A tall figure, very tall, taller than the Zettari, standing in the snow a pace to the king's left, made of the same pale noon light as everything else in the yard but somehow more of it, burning gold along its edges, so that it was hard to look at directly, like the sun through cloud. They could not see its face. They could not see its feet. They thought, both of them, separately, that it had wings, or had had them once, and that the wings were broken.
+Lorn Stark, in the barracks door, saw a figure. He said so afterward, and Godfrey said so too, and neither of them could ever say more. A tall figure, very tall, taller than the Zettari, standing in the snow a pace to the king's left, made of the same pale noon light as everything else in the yard but somehow more of it, burning gold along its edges, so that it was hard to look at directly, like the sun through cloud. They could not see its face. They could not see its feet. They thought, both of them, separately, that it had wings, enormous, folded close against it as if under a weight neither of them could see.
 
 Muken did not stop cutting.
 
@@ -244,7 +244,7 @@ Muken did not stop cutting.
 
 The voice was the quietest thing in the yard. It was the voice from the place made of threads, low and warm and very far away and very near. Every man on the walls of Kharven's Foot heard it, and not one of them could have said afterward what language it spoke.
 
-"Such viciousness." The broken light did not move. "Do you think you can win like this?"
+"Such viciousness." The tall light did not move. "Do you think you can win like this?"
 
 The heavy iron went round Muken's head and came down into the snow with a sound like an axe into a stump.
 
@@ -258,13 +258,13 @@ He stopped with the drill-sword buried a hand's depth in the trampled snow, his 
 
 It came out of him low and cracked. It was the first thing he had said in two days.
 
-"What do *you* know about it?" He straightened. He turned, with the heavy iron coming up out of the snow in his hands, and looked at the tall broken light beside him with the gold eye blazing. "You're an angel. A sixth of one. Sent down here to fix the world. Something that sits in a place made of threads and thinks it knows everything because it can see the strings." His voice rose. "That's what the Moto think. Did you know that? Every one of them. They think they're the ones who hold the strings. That's what *she* thought, whoever she is in her silver chair, when she had my sister's head cut off and sent down the river on a pike for me to find." He was shouting now. "You're the same! You're exactly the same as the ones who killed her!"
+"What do *you* know about it?" He straightened. He turned, with the heavy iron coming up out of the snow in his hands, and looked at the tall light beside him with the gold eye blazing. "You're an angel. The last one. Sent down here to fix the world. Something that sits in a place made of threads and thinks it knows everything because it can see the strings." His voice rose. "That's what the Moto think. Did you know that? Every one of them. They think they're the ones who hold the strings. That's what *she* thought, whoever she is in her silver chair, when she had my sister's head cut off and sent down the river on a pike for me to find." He was shouting now. "You're the same! You're exactly the same as the ones who killed her!"
 
 The yard was very quiet.
 
 Faisal put his hands behind his back.
 
-It was a small movement. The broken light simply shifted, at the place where its arms would be, and drew them back, and clasped them there, and stood. And something in the way it stood made Lorn Stark, in the barracks door, go cold all down his back, though he could not have said why, and never knew. He had never been in the Shirogane house at Kharven-Seat. He had never seen Shizuha Shirogane stand at the foot of her silver dais with her hands clasped behind her back, looking down at a kneeling girl.
+It was a small movement. The tall light simply shifted, at the place where its arms would be, and drew them back, and clasped them there, and stood. And something in the way it stood made Lorn Stark, in the barracks door, go cold all down his back, though he could not have said why, and never knew. He had never been in the Shirogane house at Kharven-Seat. He had never seen Shizuha Shirogane stand at the foot of her silver dais with her hands clasped behind her back, looking down at a kneeling girl.
 
 The Bound Flame looked at the king of the north, and let the silence stand.
 
@@ -300,7 +300,7 @@ It did not fade. It did not dissolve. It was simply gone, between one breath and
 
 The drill-sword was gone from his hands.
 
-Faisal was in front of him. Standing upright, where in the place made of threads he had knelt: tall, the broken light gathered into the shape of a figure with the seam running down it and the ruined wings standing from its shoulders, and for the first time Muken understood how terribly tall it was, and how terribly much of it was missing.
+Faisal was in front of him. Standing upright, where in the place made of threads he had knelt: tall, the light gathered into the shape of a figure with the great wings standing from its shoulders, and for the first time Muken understood how terribly tall it was, and how much it was carrying even now, standing.
 
 "Hold still," said Faisal.
 
@@ -340,7 +340,7 @@ He was standing in the white among the dissolving threads with his hands behind 
 
 "Asami's in pieces," said Muken. His voice was strange here. It did not seem to come from anywhere. "On an anvil. In the Foot."
 
-"Asami is the word a blade of your house answers to while it sleeps," said Faisal. "The steel only carried it. It sleeps in the pieces now. It will answer when you call it." The broken wing shifted. "Not yet."
+"Asami is the word a blade of your house answers to while it sleeps," said Faisal. "The steel only carried it. It sleeps in the pieces now. It will answer when you call it." One great wing shifted. "Not yet."
 
 He was quiet a moment.
 
@@ -422,7 +422,7 @@ All of it. Every stone and bowl and branch and blade, the rotten and the sound, 
 
 And Faisal flickered.
 
-The broken light standing beside him went dim all at once, as if a wind had blown through it, and the long dark seam down the middle of it widened, and one of the ruined wings shuddered, and a little of the warm light came away from its edge and drifted off into the white like sparks off a fire, and did not come back.
+The tall light standing beside him went dim all at once, as if a wind had blown through it, and a crack of dark ran down the middle of it, and one of the great wings shuddered, and a little of the warm light came away from its edge and drifted off into the white like sparks off a fire, and did not come back.
 
 Muken stared at it.
 
@@ -430,7 +430,7 @@ Muken stared at it.
 
 "I..." Muken stopped.
 
-"I am a crack too," said the Bound Flame. "One sixth of something that was made whole. Everything I am is a seam where the rest of me was cut away." The light steadied, slowly, dimmer than before. "Obsession does not choose what it ends. That is the whole of what I needed you to see. Now you have seen it."
+"I am a crack too," said the Bound Flame. "Everything that carries a load carries it imperfectly. I have carried this one for longer than your north has had a name, and you have just found where it gathers in me." The light steadied, slowly, dimmer than before. "Obsession does not choose what it ends. That is the whole of what I needed you to see. Now you have seen it."
 
 Muken looked at the broken things in the white. At the sound green branch lying in pieces beside the rotten rope. At the dimmed light beside him that had knelt under the weight of the whole world for longer than the north had had a name, and had come down out of the place where the threads run to stand beside him in a yard in the snow, and that he had just hurt.
 
@@ -498,15 +498,15 @@ It came out of him in a whisper.
 
 The white began to grey at the edges.
 
-"Go back," said Faisal. "They are frightened for you in the yard. The Stark has not moved from that door in a day and a half. And your sister is still lying in the cold, and the Waiting is not finished." The light dimmed further. "I will come again. Not every day. When you need it, and when I can. One sixth of me does not go far." A pause. "Practise on rope. Not on men, not yet."
+"Go back," said Faisal. "They are frightened for you in the yard. The Stark has not moved from that door in a day and a half. And your sister is still lying in the cold, and the Waiting is not finished." The light dimmed further. "I will come again. Not every day. When you need it, and when I can. What kneels at the edge does not go far from it." A pause. "Practise on rope. Not on men, not yet."
 
 "Faisal," said Muken.
 
-The broken light stopped dimming.
+The light stopped dimming.
 
 "I'm sorry," said Muken. "For what I said. In the yard." He swallowed, in a throat he did not have. "And for the wing."
 
-The Bound Flame looked at him across the greying white, and a little warmth came back into the broken light.
+The Bound Flame looked at him across the greying white, and a little warmth came back into the dimmed light.
 
 "Swear by your honour," said Faisal, "as the Stark taught you. And keep it. I will mend."
 
@@ -640,3 +640,5 @@ Past tense. About 10,000 words.
 - R72-25: Kagenori's tell.
 
 **Revision 2026-10-24.** The Shirogane house now has worked lamps on draw in silver cages, the draw-hum, heated stone and silver-sheathed conduit, over a lamplit city and a glittering Marrow under the aurora; the white space and the threads are more luminous; colour lifted at the Foot (seal-fat yellow, sunrise on the frost, blue snow) with no magitech added there; countdown and "not...but" constructions fixed and tics trimmed. Yukazuri's death stays one line, off the page, and all beats and Isaac's lines are kept word for word.
+
+**Revision 2026-10-25.** Faisal is whole throughout: Malakar never divided him (ruling 2026-10-25). His broken wings, the seam and every "sixth" line now read as the whole Grand Angel kneeling under the cracked Lawbell's weight; every beat and line otherwise kept.

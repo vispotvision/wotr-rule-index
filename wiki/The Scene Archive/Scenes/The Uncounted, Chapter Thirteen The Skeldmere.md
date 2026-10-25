@@ -592,9 +592,9 @@ It was burning. A heavy warm light that came off it the way warmth comes off a b
 
 It had wings.
 
-Or it had had them. There were shapes rising from its shoulders that might once have been wings, great curved shapes of the same warm light, but they were broken. Torn. One was gone almost to the root. The other stood up from its shoulder in a long ragged arc that ended in nothing, as though someone had taken it in both hands and pulled. And the figure itself, now that he looked, was not whole either. There was a seam down it. A long dark seam where the light did not reach, running from the crown of the bowed head down through the shoulders and the chest to the knee on the ground. And on the far side of the seam, there was nothing at all.
+Two great curved shapes of the same warm light rose from its shoulders and folded down around it to the ground, held close and low the way a man holds his arms in against a load, and every long feather of them was bent, very slightly, under something Muken could not see. And the figure itself, now that he looked, was bowed under that same weight from the crown of its head to the knee on the ground, and steady, and not moving at all.
 
-*Half,* thought Muken. *Less than half. Somebody cut it into pieces.*
+*It's holding something up,* thought Muken. *Something enormous. And it has been holding it a long time.*
 
 "Six," said the voice. "Into six. This is one."
 
@@ -606,11 +606,11 @@ It did not have a face. It had where a face would be, and in that place there wa
 
 "Who are you?"
 
-"I was called Faisal," said the kneeling figure. "Once, when I was whole. The Grand Angel of Servitude. The Bound Flame. He who kneels at the edge of creation." The light moved very slightly, as if something under it had smiled. "Now I am a sixth of that, kept in the place where the threads run, so that no one who can find me can also free me. It was very cleverly done." The light dimmed, a little. "He was always clever."
+"I am called Faisal," said the kneeling figure. "The Grand Angel of Servitude. The Bound Flame. He who kneels at the edge of creation." The light moved very slightly, as if something under it had smiled. "I kneel here, in the place where the threads run, under the weight the Bell can no longer hold, and I do not get up. It is a small kingdom. It is the one I chose."
 
 "Why am I here?"
 
-"Because you were falling," said Faisal. "And I do not let things fall. It is the only thing I was ever made to do." The bright places where eyes would be did not move from him. "And because you swore an oath, two nights ago, on your honour, by a woodpile, in front of six hundred people. I heard it. I hear every oath that is sworn on honour, even now, even like this. I heard it, and it was true. Every word of it was true." The light warmed. "Do you know how rarely I hear that? A king, swearing, and every word of it true?"
+"Because you were falling," said Faisal. "And I do not let things fall. It is the only thing I was ever made to do." The bright places where eyes would be did not move from him. "And because you swore an oath, two nights ago, on your honour, by a woodpile, in front of six hundred people. I heard it. I hear every oath that is sworn on honour, even here, even under this. I heard it, and it was true. Every word of it was true." The light warmed. "Do you know how rarely I hear that? A king, swearing, and every word of it true?"
 
 Muken did not answer.
 
@@ -618,7 +618,7 @@ Muken did not answer.
 
 The threads hummed.
 
-"You read cracks," said the kneeling figure. "You have always read them. You think it is a gift of your blood. Every bearer learns it first, because a crack is where the weight shows. Everything that carries a load carries it imperfectly, and the imperfection is where the load collects. In stone. In iron. In bone. In a host of riders on the ice. In a man." The broken wing moved slightly. "You see where the weight has gathered, and you have learned to strike there. That is a mercenary's use of it. It is a good use. It has kept you alive."
+"You read cracks," said the kneeling figure. "You have always read them. You think it is a gift of your blood. Every bearer learns it first, because a crack is where the weight shows. Everything that carries a load carries it imperfectly, and the imperfection is where the load collects. In stone. In iron. In bone. In a host of riders on the ice. In a man." One great wing moved slightly under the weight. "You see where the weight has gathered, and you have learned to strike there. That is a mercenary's use of it. It is a good use. It has kept you alive."
 
 "But," said Muken.
 
@@ -644,7 +644,7 @@ The threads began to tremble.
 
 "Will I see you again?"
 
-"If you live," said the Bound Flame, from very far away, "and if you keep your word. One sixth of me is very little. But it is a sixth that does not forget."
+"If you live," said the Bound Flame, from very far away, "and if you keep your word. I kneel a very long way from anywhere. But I do not forget."
 
 And the threads went white.
 
@@ -696,7 +696,7 @@ The scrap-iron sword, in his hand, began to ring.
 - **"Separate the seven lines into one blood."** I read this as *bind* them back into one blood, matching "Seven lines and one blood." Tell me if you meant something else.
 
 **Canon it stands on:**
-- *The Celestial Host.* Faisal earned the Grand Angel title over about eleven thousand years of Oath-service. Malakar **divided him into six pieces** across the six spiritual worlds, placed so that no one who could find all six could also free them. Vow-Light makes lying cost something, and people near a Celestial want to confess. His line: "I do not stand because I am strong. I kneel, because I must never fall."
+- *The Celestial Host.* Faisal earned the Grand Angel title over about eleven thousand years of Oath-service. When Malakar cracked the Lawbell he alone came through whole, and he kneels under its weight at the edge of creation (revised 2026-10-25: he was never divided). Vow-Light makes lying cost something, and people near a Celestial want to confess. His line: "I do not stand because I am strong. I kneel, because I must never fall."
 - *Muken Moto's card.* The Shingan reads cracks and stress lines (Fractura, Eye of the Splintered Work). **Hibi**, his First Release, is called with **"Fure"** ("Shake"): the blade rings at the natural note of one thing and drives its worst flaw until it runs. The Kharven breath before it is its tell. The blade's sealed name is *Asami*, and his card has him returning across the Plane of Fate.
 - The Kharven Inventory and the earlier chapters.
 
@@ -716,7 +716,7 @@ The scrap-iron sword, in his hand, began to ring.
 - **This turns Chapter Twelve's naming of Ashmore and Thornwall:** both had taken Tenrai silver, and now both come over.
 - **Aksel's terms on the ice.** Down off the horse, settle it the Keld way: if he wins, the Starks go home; if Muken wins, the herd scatters. Muken: he'd have offered the same terms, "and that I'd still be offering it after I'd won."
 - **The wound.** The iron fist breaks the left seventh and eighth ribs through Ulf's mail, tears open the old cut and bruises the lung beneath. He goes down on one knee; the vision takes no time on the ice.
-- **Faisal's sixth** is kept in the place where the threads run, the Plane of Fate. He saves Muken because "I do not let things fall," and because he heard the woodpile oath and every word was true. He gives back *Fure*, "taken from your line in the cellars at Halcrest." The lesson in one line: "This is listening." He will be listening.
+- **Faisal** kneels in the place where the threads run, the Plane of Fate. He saves Muken because "I do not let things fall," and because he heard the woodpile oath and every word was true. He gives back *Fure*, "taken from your line in the cellars at Halcrest." The lesson in one line: "This is listening." He will be listening.
 
 **Stops at the midpoint,** on "*Fure,*" with the iron fist at the top of its arc and the scrap-iron sword ringing. Hibi's first opening and the second half of the battle are next.
 
@@ -732,3 +732,5 @@ The scrap-iron sword, in his hand, began to ring.
 The prose check passes with no fails, and the "eleven" warning is cleared.
 
 **Revision 2026-10-24.** Added colour before and after the lifting, which stays white (the fat-lamp yellow, rose and gold dawn behind the Grey Teeth with the iron fist black against it, frost on the Foot's gate, sun-gilded wind-ridges and jay-blue hollows on the Skeldmere, Thornhaven's red thorn-sprig banners, Kiyome's beads, Ashmore russet, aurora colours among Faisal's threads), one touch of draw at Ashbury's hall only, and trimmed the tics (did not need to, long moments, quite still) and four small antitheses; every beat and Isaac's lines are kept.
+
+**Revision 2026-10-25.** Faisal is whole throughout: Malakar never divided him (ruling 2026-10-25). His broken wings, the seam and every "sixth" line now read as the whole Grand Angel kneeling under the cracked Lawbell's weight; every beat and line otherwise kept.

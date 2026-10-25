@@ -157,16 +157,16 @@ Rank inside Sancta Lux **does not describe command.** It describes what a member
 
 A Celestial carries **Vow-Light** as a substrate of its Aether: a heavy, warm-pressure radiance under which spoken falsehood becomes physically effortful — a labouring breath, a tightening throat, a headache that scales with the size of the untruth. **It does not detect a lie. It makes lying cost something**, reliably, in every mortal and every tongue, **without examination, without a Ladder, and without the possibility of an Arbiter having a bad morning.**
 
-Then Malakar took Grand Angel Faisal apart into six pieces, the Host went from thousands to credible sightings in the low dozens across seven centuries, and no Celestial has been confirmed Sung since.
+Then Malakar cracked the Lawbell, Grand Angel Faisal went to kneel under its weight at the edge of creation, the Host went from thousands to credible sightings in the low dozens across seven centuries, and no Celestial has been confirmed Sung since.
 > What is left of the apparatus that used to hold the world's oaths is **a mortal order with a procedure manual.**
 >
 > **Sancta Lux is a prosthetic.** The **Glyph of Veridiction** is a deliberate mortal imitation of Vow-Light, and it is worse in every measurable respect. It makes lying costly instead of impossible. **It has a false-positive rate.**
 >
 > The order publishes that rate annually, in full, in a document **nobody outside Arbitration has requested in eleven years** — and Darius wrote the requirement to publish it into the architecture himself, over the Word's objection, on the stated ground that **an instrument which conceals its own error rate is not an instrument but a weapon with a good reputation.**
-**The lineage is not abstract.** Lucius drew on Faisal's Numen to raise the seven eidolons that made the order's name — which means **Sancta Lux's founding martial miracle was performed on borrowed Celestial architecture from a being who was subsequently divided into six pieces.**
+**The lineage is not abstract.** Lucius drew on Faisal's Numen to raise the seven eidolons that made the order's name — which means **Sancta Lux's founding martial miracle was performed on borrowed Celestial architecture from a being who now kneels at the edge of creation and has not stood up since.**
 
-The order's standing interest in locating those pieces is **the largest non-public programme it runs**, larger than its entire Wellspring holdings enforcement arm, resourced disproportionately for reasons its own internal memoranda describe only as *structural* and decline to elaborate.
-> The Guild Accord tracks the same six pieces with the same disproportionate resourcing and the same refusal to elaborate.
+The order's standing interest in reaching him, in every claim to have heard Faisal at the edge, is **the largest non-public programme it runs**, larger than its entire Wellspring holdings enforcement arm, resourced disproportionately for reasons its own internal memoranda describe only as *structural* and decline to elaborate.
+> The Guild Accord tracks the same claims with the same disproportionate resourcing and the same refusal to elaborate.
 >
 > **Neither institution has told the other everything it knows, and both are aware of this, and both have decided the arrangement is currently preferable to the alternative.**
 

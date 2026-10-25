@@ -36,9 +36,9 @@ They came up out of the stone shelf under him and down out of the dark above, go
 
 Faisal was kneeling in front of him.
 
-He was as he had been the first time, on the ice: bowed, one knee down and the other drawn up, with the whole weight of the threads coming down on his back and shoulders and running through him and out of him into the dark below, and holding it. The broken wings. The long dark seam down the middle of him where the rest was gone. The warm heavy light, gold and white, that made Muken want to say every true thing he knew.
+He was as he had been the first time, on the ice: bowed, one knee down and the other drawn up, with the whole weight of the threads coming down on his back and shoulders and running through him and out of him into the dark below, and holding it. The great wings folded low around him under the weight. The warm heavy light, gold and white, that made Muken want to say every true thing he knew.
 
-But the light was dimmer than it had been. And at the edge of one of the ruined wings, where Muken in the white space had cracked the whole row of things in his rage, there was a place where the light did not reach any more. A small place. A missing piece.
+But the light was dimmer than it had been. And at the edge of one of the great wings, where Muken in the white space had cracked the whole row of things in his rage, there was a place where the light did not reach any more. A small place. A missing piece.
 
 "You came on your own," said Faisal.
 
@@ -306,7 +306,7 @@ Muken was silent a long moment.
 
 The sixth Work was the one Faisal had been kneeling under since the world was young.
 
-"*Baransu no Shigoto,*" he said. "The Work of Balance. It keeps opposites from tearing the world apart. Ruin and Purity. Life and death. Law and freedom. Motion and stillness." The broken wing moved slightly under its burden. "It does not make them the same. It gives each its proper weight, so the world can carry the strain and not break."
+"*Baransu no Shigoto,*" he said. "The Work of Balance. It keeps opposites from tearing the world apart. Ruin and Purity. Life and death. Law and freedom. Motion and stillness." One great wing moved slightly under its burden. "It does not make them the same. It gives each its proper weight, so the world can carry the strain and not break."
 
 He was quiet a moment.
 
@@ -338,7 +338,7 @@ It got lighter. There was as much of it as ever; it was moving now.
 
 They knelt together a long time, the Bound Flame and the boy, under the weight of the threads, in the place where the Works were written.
 
-And at some point, Muken noticed that the dark place on the edge of Faisal's broken wing, the small missing piece where the light no longer reached, was not as dark as it had been. A little of the warm light was coming back into it, gold seeping into the gap the way dawn seeps into a valley. Very little. A hair's breadth.
+And at some point, Muken noticed that the dark place on the edge of Faisal's wing, the small missing piece where the light no longer reached, was not as dark as it had been. A little of the warm light was coming back into it, gold seeping into the gap the way dawn seeps into a valley. Very little. A hair's breadth.
 
 He kept it to himself, and was glad.
 
@@ -408,7 +408,7 @@ At the end of it, Faisal lifted his hand from the weight he carried one last tim
 
 "Will I see you again?"
 
-"When you need it," said Faisal, "and when I can. One sixth of me does not go far." The light shifted, as if something under it had smiled. "But I think you will not need me so often now."
+"When you need it," said Faisal, "and when I can. What kneels at the edge does not go far from it." The light shifted, as if something under it had smiled. "But I think you will not need me so often now."
 
 "I'll swear it," said Muken. "The oath you asked for. For the Seat."
 
@@ -443,3 +443,5 @@ He got up off the shelf, and went to the door, and lifted the bar.
 *Author notes for Chapters Sixteen to Nineteen are at the end of Chapter Nineteen.*
 
 **Revision 2026-10-24.** The Plane of Fate made more luminous and wondrous (raven-sheen black threads, flaring crossings, aurora on a loom, the Spirit turn into violet-blue, Temporality lit like a lamplit street, Totality shining white-gold, gold seams in the healing), with the Seat seen as a lamplit city of gold and silver threads and its ward-stone tied into the draw; antitheses in narration and the epigraph rephrased and tics trimmed. All beats and Isaac's lines kept word for word.
+
+**Revision 2026-10-25.** Faisal is whole throughout: Malakar never divided him (ruling 2026-10-25). His broken wings, the seam and every "sixth" line now read as the whole Grand Angel kneeling under the cracked Lawbell's weight; every beat and line otherwise kept.

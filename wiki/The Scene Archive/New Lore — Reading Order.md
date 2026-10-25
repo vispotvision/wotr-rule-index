@@ -72,7 +72,7 @@ Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbe
 ## Added 2026-10-24 (Chapters Thirteen to Nineteen)
 
 - **The Skeldmere.** The carter reaches the Keld first, so Karogane's reveal is spent; the Starks answer "We know!" Thornwall's pikes (the Lady, Byakuya-born, later named **Hisae**) and Ashmore's horse (**Lord Edric Ashmore**, sworn to Hayato at the junction stone) turn the battle. The Sennet and Haldorsson Keld clans break on their old feud.
-- **Faisal** (the wiki's spelling of Isaac's "Fasial"), one sixth of the Grand Angel, kept in the Plane of Fate, saves Muken and teaches him *Fure*, Hibi.
+- **Faisal** (the wiki's spelling of Isaac's "Fasial"), the Grand Angel, whole, kneeling under the cracked Lawbell's weight in the Plane of Fate, saves Muken and teaches him *Fure*, Hibi.
 - **Aksel Keld** is broken (iron hand shattered, sternum staved in) and spared. He later swears for the Keld on the card's condition: "stay worth following."
 - **Yukazuri** is taken from the surgeons' line on the shore (the Greymane spearman from the woodpile let the grey men in) and beheaded by Karogane in the Shirogane house on the third day of the **Great War of the North**. Her head comes home down the frozen Marrow. She is buried under a cairn on the ridge above the Foot.
 - **Hataraki.** Faisal teaches six of the seven Works (Ruins, Purity, Spirit, Temporality, Knowledge, Balance). Totality is withheld: its Obsession face is enforced oneness. Muken's oath: crack nothing at the Seat that is not already dead.

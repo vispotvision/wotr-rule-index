@@ -1,4 +1,4 @@
-# Nightly — 2026-10-26 05:25
+# Nightly — 2026-10-27 03:30
 
 ## Overnight
 
@@ -30,6 +30,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 59 push(es), 0 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-10-25 (1 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-25.zip (41.9 MB, 1173 files)
-- last run of this digest: 2026-10-25T03:30:01
+- sync: 47 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-25 (2 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-25.zip (41.9 MB, 1173 files)
+- last run of this digest: 2026-10-26T05:25:25

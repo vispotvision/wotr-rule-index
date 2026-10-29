@@ -35,8 +35,8 @@ Volume I card outside it was deleted the same day, about 285 in all, old
 voice-roster and villain cards included (Malphas, Yoko, Cozbi, Emira, Charles
 Lambert, Verinus, Sodoku). Retconned out by his ruling: Hild Ice, and for now
 Ayame Yuno, Sodoku, Edward Lambert and Fern Stark. Also cut: Dougou (no longer
-his to run), Naiser and Naevra Yukari (the cedar enclave thread), Borin and
-Raizan. Kept: Muken, Yukazuri, Gimbzo, Lorn, Godfrey, Shōki, Vaashuuk,
+his to run), Naevra Yukari, Borin and Raizan; Naiser was cut and restored the same
+hour, since he is still Isaac's character. Kept: Naiser, Muken, Yukazuri, Gimbzo, Lorn, Godfrey, Shōki, Vaashuuk,
 Renard, and the Zettari player's Rengai. Rashani was cut too: Isaac no
 longer runs him. Many cut characters will
 be recreated; old text is in git history. `character()` misses on cut names,

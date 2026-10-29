@@ -68,12 +68,12 @@
 ## Characters
 
 - [[Characters/Characters|Characters]] · private
-- [[Characters/Mara Venn|Mara Venn]] · private
 
 ### Volume I — Character Cards
 
 - [[Characters/Volume I — Character Cards/Amelia Greymane|Amelia Greymane]]
 - [[Characters/Volume I — Character Cards/Edric Ashmore|Edric Ashmore]]
+- [[Characters/Volume I — Character Cards/Faisal|Faisal]]
 - [[Characters/Volume I — Character Cards/Gimbzo|Gimbzo]] · private
 - [[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden|Godfrey Greymane — The Shieldwarden]]
 - [[Characters/Volume I — Character Cards/Hayato Amagiri|Hayato Amagiri]]

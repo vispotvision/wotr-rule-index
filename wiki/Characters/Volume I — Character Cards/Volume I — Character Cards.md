@@ -29,3 +29,4 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Amelia Greymane]]
 - [[Characters/Volume I — Character Cards/Raizan Tenrai Moto · The Doom Breaker]]
 - [[Characters/Volume I — Character Cards/Léonard Lambert]]
+- [[Characters/Volume I — Character Cards/Faisal]]

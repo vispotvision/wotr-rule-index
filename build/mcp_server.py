@@ -17,6 +17,7 @@ Tools
   rule(id)                   one rule in full
   check_docket(tags)         pending and proposed rules for the same tags
   list_conflicts()           CONFLICTS.md
+  skill(name, file)          the .claude/skills skills, also served as MCP prompts
   archive_scene(title, markdown)   save a finished scene: scenes/<slug>.md, the
                              wiki Scene Archive copy, one commit, pushed
   log_ruling(rule_id, ruling)      record a ruling in RULINGS.md so it gets applied
@@ -158,7 +159,8 @@ server = MCPServer(
         "for any prose; combat, adjudication, magic-mechanism, pov, dialogue, register, naming, items, "
         "scene-structure, mass-combat, stats, magic-design, codex, worldbuilding, standing-inventory, "
         "character-sheet, documents, verification, session-protocol) the first time the work touches it, "
-        "and do not re-read after compaction. Rules print newest pack first; the newer governs where two overlap."
+        "and do not re-read after compaction. Rules print newest pack first; the newer governs where two overlap. "
+        "The WOTR skills are on this server: skill() lists them, skill(name) loads one to follow; start with wotr-start."
     ),
 )
 
@@ -1982,13 +1984,64 @@ def research(question: str, model: str = "gemini-3.8-flash-high", minutes: int =
 # --------------------------------------------------------------------------
 # public mode: read-only tools behind a shared secret
 
+SKILLS = ROOT / ".claude" / "skills"
+# The skills, served so nobody uploads them to their account. judger is retired; the friends'
+# read-only route also drops the ones that run Isaac's machine (main() adds OPS_SKILLS there).
+OPS_SKILLS = {"wotr-ops", "wotr-book", "wotr-room", "wotr-ledger", "wotr-chatgpt"}
+SKILL_HIDE = {"judger"}
+SKILL_NOTE = ("(Served by the WOTR MCP. Where this names a repo path, a shell command or Claude Code, use the "
+              "matching WOTR MCP tool; a file under references/ loads with skill(name, file).)\n\n")
+
+
+def _skills() -> dict[str, tuple[str, str]]:
+    """name -> (description, body) for every served skill, read from disk on each call."""
+    import yaml
+    out = {}
+    for f in sorted(SKILLS.glob("*/SKILL.md")):
+        if f.parent.name in SKILL_HIDE:
+            continue
+        _, front, body = f.read_text(encoding="utf-8").split("---", 2)
+        out[f.parent.name] = ((yaml.safe_load(front) or {}).get("description", ""), body.strip())
+    return out
+
+
+@server.tool(name="skill")
+def skill_tool(name: str = "", file: str = "") -> str:
+    """The WOTR skills (wotr-write, wotr-rp, wotr-npc, wotr-name, wotr-technique, wotr-start, ...), so no one
+    has to add them to their account. name="" lists them with when to use each; skill(name) returns the
+    skill to follow; file="references/x.md" returns one of its reference files."""
+    skills = _skills()
+    if not name:
+        return "\n".join(f"- {n}: {d}" for n, (d, _) in skills.items())
+    if name not in skills:
+        return f"no skill {name!r}; skill() lists them"
+    root = (SKILLS / name).resolve()
+    if not file:
+        refs = sorted(p.relative_to(root).as_posix() for p in root.rglob("*.md") if p.name != "SKILL.md")
+        foot = ("\n\nReference files: " + ", ".join(refs)) if refs else ""
+        return SKILL_NOTE + skills[name][1] + foot
+    target = (root / file).resolve()
+    if root not in target.parents or target.suffix != ".md" or not target.is_file():
+        return f"no file {file!r} in {name}; skill({name!r}) lists its reference files"
+    return target.read_text(encoding="utf-8")
+
+
+def register_skill_prompts() -> int:
+    """Each served skill also as an MCP prompt, for clients that offer prompts in a menu."""
+    from mcp.server.mcpserver.prompts.base import Prompt
+    skills = _skills()
+    for n, (d, body) in skills.items():
+        server.add_prompt(Prompt.from_function((lambda text: lambda: text)(SKILL_NOTE + body), name=n, description=d))
+    return len(skills)
+
+
 # Tools that only read the repo (rules, the wiki mirror, scenes, the table). Every tool
 # not named here writes: scenes/, RULINGS.md, proposals/, table/*.yaml, reports/,
 # Notion pages, git commits and pushes, or runs build/sync.sh. narrate_scene writes
 # only audio files (and burns CPU on this PC), so it is allowed through, and so is handoff,
 # which only drops a file in the gitignored inbox/ for a Claude session to apply.
 READ_ONLY_TOOLS = {
-    "handoff", "inbox",
+    "handoff", "inbox", "skill",
     "load_rules", "rule", "natalie", "check_docket", "list_conflicts",
     "wiki", "character", "fow_line", "scene_recall",
     "session_start", "verify_scene", "codex", "codex_check", "stale_names", "scene_brief",
@@ -2008,7 +2061,7 @@ CORE_TOOLS = {
     "verify_scene", "scene_brief", "archive_scene", "log_ruling", "propose_rule",
     "ledger_add", "roster", "npc_set", "fronts", "advance_front", "pass_time", "due",
     "scene_menu", "create_character", "update_character", "ask_chatgpt", "ask_claude", "research",
-    "natalie", "natalie_gpt", "codex", "timeline",
+    "natalie", "natalie_gpt", "codex", "timeline", "skill",
 }
 
 
@@ -2162,6 +2215,9 @@ def main() -> int:
     if args.read_only:
         removed = restrict_to_read_only()
         print(f"read-only: {len(removed)} writing tools hidden ({', '.join(sorted(removed))})", flush=True)
+    if args.read_only:
+        SKILL_HIDE.update(OPS_SKILLS)
+    print(f"skills: {register_skill_prompts()} served as prompts and through skill()", file=sys.stderr, flush=True)
     if not args.http:
         if args.token:
             print("--token only applies to --http; ignored on stdio", file=sys.stderr)

@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-2 open lines.
+3 open lines.
 
 ## injuries and reserve
 
@@ -9,3 +9,7 @@
 ## who knows what
 
 - `L002` Listened at the king's door and caught the end of Muken and Amelia's talk, both of them wet-faced; both told him not a word  *(the-uncounted)*
+
+## bonds
+
+- `L003` First meeting: they traded their deepest insecurities and wept together, the first time either had cried in months (her, years). Neither calls it love yet. A spar in the Seat's yard comes next.  *(the-uncounted)*

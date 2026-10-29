@@ -19,3 +19,15 @@
   due: null
   status: open
   thread: the-uncounted
+- id: L003
+  category: bonds
+  who: Muken Moto and Amelia Greymane
+  text: 'First meeting: they traded their deepest insecurities and wept together, the first time either
+    had cried in months (her, years). Neither calls it love yet. A spar in the Seat''s yard comes next.'
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: the-uncounted
+  fed: []
+  strained: []

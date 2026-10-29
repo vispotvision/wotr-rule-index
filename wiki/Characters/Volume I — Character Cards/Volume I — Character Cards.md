@@ -24,3 +24,4 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Ulf Stark]]
 - [[Characters/Volume I — Character Cards/Rob Stark]]
 - [[Characters/Volume I — Character Cards/Mark Stark]]
+- [[Characters/Volume I — Character Cards/Hisae Thornwall]]

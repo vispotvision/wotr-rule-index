@@ -1,3 +1,5 @@
+![[Vaashuuk Snorr-Khal — portrait.jpg]]
+
 # Vaashuuk Snorr-Khal
 
 **Vaashuuk Snorr-Khal** · The Sin of Sloth · Goblin, the Hobgoblin Expanse · as of the bottom of the Pit, the hour the Wrath woke
@@ -135,7 +137,7 @@ The held note is that slow ringing pane of glass, and the field the lavender of 
 | Talking | patter, flattery, vanity, a joke when he is losing | the slag-yards, and every day since | Feint, Empathy | Mastered |
 | Hearing a structure go | creak, settle, the change in a timber's note before it fails | the bellows-gang | Perception, Analysis | Mastered |
 | Bellows-work | the long even push, breath with the stroke | the bellows-gang | Economy | Held, and he will never use it again |
-| Grooming | pompadour, claws, beauty mark, coat brushed | himself | Finesse | Mastered |
+| Grooming | the crest, the claws, every piercing polished, the cloak brushed | himself | Finesse | Mastered |
 
 ## XI. Spirit Axes
 
@@ -148,7 +150,7 @@ The held note is that slow ringing pane of glass, and the field the lavender of 
 
 ## XIII. Physical Description
 
-He is small even for a goblin, about half a grown man's height, wiry and slight, long-limbed and big-footed, and he carries himself in a permanent slouch with his weight dropped on one hip. His skin is the grey-green of a pond in shade, going to polished black obsidian on the knuckles and up the backs of the fingers, and the fingers end in long black claws he keeps lacquered and filed to neat points and buffs on his collar whenever he is talking. His ears are long, pointed and notched, hung with small gold rings. Two short black ridged horns curl back like a ram's from just above his hairline, and between them his hair, lank and black and lovingly oiled, is swept up into a tall swooping pompadour he touches every few seconds to make sure it is still there. His eyes are the yellow of old lamp oil and almost always half shut. One canine wears a gold cap, and across the bridge of his nose, where another goblin would carry a scar, he paints a small round black beauty mark every morning. He wears a plum-coloured velour greatcoat at least three sizes too big for him, its hem trailing near the ground, ornate gold frogging down the front, the cuffs rolled four times to find his hands, under a huge collar of long glossy black fur; under it a green silk shirt open to the breastbone, a dark belt with brass buckles, slim charcoal trousers and chunky black platform boots heavy with buckles and rivets, which add three inches he will not discuss.
+He is small even for a goblin, about half a grown man's height, wiry and slight, long-limbed and big-footed, and he carries himself in a permanent slouch with his weight dropped on one hip. His skin is a mossy green mottled with dark brown and black, the dark running down from his eyes over his cheeks in long streaks like old tear-tracks and gathering in patches at his brow, his jaw and his neck, and going to polished black obsidian on the knuckles and up the backs of the fingers; the fingers end in long black claws he keeps lacquered and filed to neat points and buffs on his collar whenever he is talking. His ears are long and pointed and stick out sideways through the hood, and he has pierced every inch of them he could reach: gold rings, silver hoops, bone studs and thin iron spikes driven clean through the cartilage. Two short black ridged horns curl back like a ram's from just above his hairline, hidden under the hood unless he pushes it back. His hair is black and coarse and lovingly oiled, swept up and over to one side in a spiky crest that falls across his brow, and he touches it every few seconds to make sure it is still there. His eyes are a bright bottle green under heavy black brows, almost always half shut, with two silver rings through the left brow and a small gold stud set in the bridge of his nose; his mouth is wide and thin-lipped, two fangs showing over the lower lip, one of them gold-capped, and an iron spike through the lip below. He wears a deep hood of olive wool over a long dark-olive cloak with a high stiff collar, a black shirt buttoned to the throat and a pale green silk tie knotted loose beneath it, a buckled collar of black leather round his neck, a string of yellowed fangs, and on a cord over the tie a little carved rat skull in white bone, which he will tell you, if you ask, is the only honest face in the Expanse. Under the cloak, slim charcoal trousers and chunky black platform boots heavy with buckles and rivets, which add three inches he will not discuss.
 
 ## XIV. Psychology
 
@@ -168,7 +170,8 @@ He is small even for a goblin, about half a grown man's height, wiry and slight,
 ## XV. Equipment
 
 **The Snooze-Glass** · a riveted glass sphere the size of an apple in brass bands, floating at his shoulder, holding a frozen curl of steam and a few suspended droplets; charged overnight with one TAR TIME · Item Tier Hallowed · rung Fieldwinner · stolen, he says, from a Stannvaard glassblower who "was gonna throw it out anyway"
-**The plum greatcoat** · velour, gold frogging, black fur collar; plain cloth, no working; he never paid the tailor and has never finished an apology for it
+**The olive cloak and hood** · fine wool, high stiff collar, the hood cut deep for the ears; plain cloth, no working; he never paid the tailor and has never finished an apology for it
+**The rat skull** · carved white bone on a cord; plain; the only honest face in the Expanse
 
 ## XVI. Temperance Record
 
@@ -208,7 +211,7 @@ The Holy Sea's tribunal, had it ever heard of him, would have filed him as the C
 
 He cannot finish anything. He has never killed anyone, and he will tell you so, and it is true, and it is the worst thing about him. Every job he takes, someone else finishes. Every person who has loved him found out that he would not stay to the end of it. Every apology he has started trails off.
 
-He wears beautiful clothes he never paid for and paints a beauty mark where another goblin would have a scar, because he has no scars. Nothing has ever reached him at speed.
+He wears beautiful clothes he never paid for and wears a gold stud in the bridge of his nose where another goblin would have a scar, because he has no scars. Nothing has ever reached him at speed.
 
 ### Where He Stands
 

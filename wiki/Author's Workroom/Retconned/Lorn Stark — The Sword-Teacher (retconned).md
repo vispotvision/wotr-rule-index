@@ -2,6 +2,8 @@
 title: "Lorn Stark — The Sword-Teacher"
 ---
 
+> **Retconned 2026-10-29.** This Lorn Stark (Fern's brother, Hild's uncle, the Sword-Teacher) is out of canon by Isaac's ruling. The only Lorn Stark is Ulf Stark's son, Muken's companion: see [[Characters/Volume I — Character Cards/Lorn Stark — The Sword|Lorn Stark — The Sword]]. Kept here for reference only.
+
 # Lorn Stark — The Sword-Teacher
 
 **Say it** · LORN STARK

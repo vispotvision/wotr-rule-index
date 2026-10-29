@@ -22,7 +22,6 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Renard Greymane — The Left of the Throne]]
 - [[Characters/Volume I — Character Cards/Edward Lambert — The Arithmetic]]
 - [[Characters/Volume I — Character Cards/Fern Stark · The Woman He Chose]]
-- [[Characters/Volume I — Character Cards/Hild Ice (Stark) — The Sword Princess]]
 - [[Characters/Volume I — Character Cards/Dougou Ozumu Zettari]]
 - [[Characters/Volume I — Character Cards/Rashani Zettari]]
 - [[Characters/Volume I — Character Cards/Rengai Zettari]]

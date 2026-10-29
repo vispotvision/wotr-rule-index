@@ -131,10 +131,10 @@ Only one of the five has its interior structure documented. **Kharven runs on si
 
 The Banner Houses carry northern names because their roots predate the Moto arrival by centuries. Muken took the crown and did not replace the people already holding the ground, which is why the kingdom fragments the way it does: **the houses were never absorbed, only bound**, and a binding survives exactly as long as the binder.
 
-The Banner Houses of Kharven
+[[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven|The Banner Houses of Kharven]] · south of the border, [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords|the Southern Warlords]]
 > **Gaps on this tier, flagged not filled.** Nalūn's factor houses, Ketsuen's meritocratic ladder, Stannvaard's Ore Council and Undaar-Keth's decree structure have no equivalent sub-page. Kharven is the only one of the five whose internal politics can be written from the wiki, which will show the moment a scene needs a Nalūn creditor or a Stannvaard councillor by name.
 >
-> **The Holy Sea of Alabaster** has a completed codex and appears in both the Kharven and Nalūn entries as a live relation, but sits in no quarter and has no page. Same for **Malō of Sātūlagi**. Isaac's ruling needed on which quarter each belongs to — neither reads as northern shield.
+> **The Holy Sea of Alabaster** sits in the Inner World's south (Isaac, 2026-10-29), below the Moto border with the Yukari valleys, Sum-gol and the Wellheads. Its warlord house is the Lamberts, one of the seven Southern Warlords. **Malō of Sātūlagi** still has no quarter; Isaac's ruling needed.
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Nalūn — The Chain-Cities]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sovereign Enclave of Ketsuen — The Crow's Reach]]

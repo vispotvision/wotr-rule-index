@@ -3265,3 +3265,13 @@ Context: Isaac, 2026-10-29, during the cull of Volume I to the new lore. Her nam
 Ayame Yuno, Sodoku Moto, Edward Lambert and Fern Stark are retconned out of canon for now. Their Volume I cards are deleted, and Sodoku's two technique pages (Tōga and the Arctic Lion configuration) went with his.
 
 Context: Isaac, 2026-10-29, right after the Hild Ice retcon. "For now" means they may come back as new cards. The new lore still names them: the Reading Order lists Ayame as "not yet arrived" and cites Sodoku's card for Kamigan and the Kōkan's Totality, the Verdict of Six notes build Osbert Lambert from Edward's card, and Fern is Lorn's sister in the Reading Order's Lorn note. NATALIE.md's voice roster still names Sodoku.
+
+## 2026-10-29 — new
+
+Agent ruling: Muken, Gimbzo and Yukazuri cards rewritten to the New Lore with originated figures. Muken: Stage V Splintering, Level 128, age eighteen as of The Grey Wall. Gimbzo: Stage X Realization, Level 296, past sixty; Domain NOBI and releases ENJŌ, NOBI and SHŌDO, all called "Moyase"; signature TETSUTSUI; card set the morning of Shimane. Yukazuri: Stage II Welling, Level 22; card set the morning of the Skeldmere.
+
+Context: Grounds: no new-lore scene states a Stage, Level or technique for any of them. Figures are derived from Fracture of Worlds (law of reserves, Stage table, η by Tier) under R79-10 and R79-11, so they are canon on use and Isaac may overturn them.
+- Muken's age: Isaac's Grey Wall beat says eighteen, against Ch19's sixteen. The card follows the newer beat.
+- Muken's Catalysts: Stage V comes from Faisal on the Skeldmere. Hibiware is woken but not callable below Stage VII. Debt Recognition, the Eye of the Splintered Work and the Judgment-field language are kept from the old card because The Grey Wall uses them.
+- Gimbzo's look: from Isaac's 2026-10-29 portrait (long white hair, weathered grey-brown skin, red pinpoint eyes, black high-collared coat). The card leaves open whether he knew his son lived, and how Dougou killed him, which is the Zettari player's to tell.
+- Lorn's card: its stale "Saruul" is corrected to Yukazuri, per R22-2.

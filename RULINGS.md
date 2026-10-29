@@ -3253,3 +3253,9 @@ Context: Isaac, 2026-10-29: "That other lorn is retconned." The Sword-Teacher's 
 Agent call, overturnable: Naiser Yukari's appearance follows Isaac's 2026-10-29 portrait (fair skin, grey-green eyes, low black ponytail, white haori over black, two old-script characters inked down the left of the throat, smoke-leaf), replacing the old card's 'dusky richness' of skin. Level 188 set with a 4,620-point allocation; EU 2,460 kept as a card outlier; AU/s recomputed to 427.2 (480 x 0.89). The founder-versus-Niran's-father question stays open.
 
 Context: Naiser Yukari card rebuild, commit 758a566
+
+## 2026-10-29 — new
+
+Hild Ice (Stark), the Sword Princess, is retconned out of canon. Her Volume I card is deleted.
+
+Context: Isaac, 2026-10-29, during the cull of Volume I to the new lore. Her name still turns up in the New Lore Reading Order (Lorn's age set against "Hild Ice's era"), in Chapter Eight's notes, and on the Sodoku, Fern, Ayame, Edward, Muken and Renard cards, which all need clearing when those are rewritten.

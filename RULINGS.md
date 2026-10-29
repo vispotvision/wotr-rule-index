@@ -3289,3 +3289,9 @@ Context: Isaac chose between the portraits and the scenes, and took the portrait
 The Southern Warlords are the great houses of the Inner World's south, below the Moto border and never bound to the Kōkan crown. The Yukari and the Mahuo are among them, and so are the Lamberts, a house of the Holy Sea of Alabaster. This places the Holy Sea of Alabaster in the Inner World's south.
 
 Context: 2026-10-29, Isaac: "We need to make the houses of the inner world south like the Lambert in The Holy Sea of Alabaster ... include the Yukari, these are known as the southern warlords"; "More obvious ones are yukari and Mahuo". Written up at wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords.md (commit 51cd5a6). Seven houses: Yukari, Mahuo (Sum-gol's chair empty), Lambert, the Yan Hall, Ryu, Corwen and Marrick. The last four are invented and his to strike.
+
+## 2026-10-29 — new
+
+Onomatopoeia, used freely and often, manga and anime style. Every hit that lands, every technique, aura, Release, machine and working gets its sound on the page, either italic in the sentence (*krang*) or on its own line for a big hit (*KRRAK.*), with capitals and stretched letters for size and length. Each sound fits its material and size, and techniques and auras fire with their card sound written out. Pressure, dread and silence have sounds. Culture colours the sound: a Moto or Japonic POV may hear manga SFX (don, gogogogo, zawa zawa, shiin), a Kharven or Common POV hears English ones. Explicit scenes write the bodily sounds as plainly as the anatomy. There is no count, and verify_scene does not flag it. Tags: prose-law, combat, magic-mechanism, register.
+
+Context: 2026-10-29, Isaac: "We should set wotr up to utilize more Onomatopoeia". Written into desktop/NATALIE.md under The page (commit e911b20). Checked against build/verify.py: italic and standalone sound-words pass without a FAIL or WARN.

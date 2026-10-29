@@ -17,3 +17,5 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden]]
 - [[Characters/Volume I — Character Cards/Shōki Kurenai Moto · The Sin of Wrath]]
 - [[Characters/Volume I — Character Cards/Vaashuuk Snorr-Khal · The Sin of Sloth]]
+- [[Characters/Volume I — Character Cards/Edric Ashmore]]
+- [[Characters/Volume I — Character Cards/Hollis Draycott]]

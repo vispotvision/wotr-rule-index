@@ -64,9 +64,11 @@ What is left is a post. The Mahuo post at Sum-gol still keeps its crows and its 
 
 **Identity:** The count. House Lambert keeps the Holy Sea honest about its numbers.
 
+**Current head:** Léonard Lambert, Warlord of the Lamberts, Keeper of Sallowgate
+
 **Words:** *Count True*
 
-**Colours:** White and ink-black, a balance on the breast
+**Colours:** White and ink-black, a balance on the field; the warlord rides in gilded plate under scarlet, with the Sallowgate bear on his breast
 
 The Holy Sea of Alabaster is a theocracy on a white shelf above the southern sea, ruled by its Palatine from the Alabaster Court, hosting a Sancta Lux chapter hold that reports past him, and built from top to bottom to weigh one commodity: a sworn account. **The Lamberts are the hands that do the weighing.** For as long as the Sea has had courts there has been a Lambert at the bench beside the cleric, counting: tariffs at the gate, grain in the store, witnesses in the dock, the days between a lord's promise and a lord's delivery. The Sea measures testimony. The Lamberts measure everything the testimony is about.
 
@@ -92,9 +94,9 @@ Lamberts travel. Cadet branches have gone north on the Sea's business for genera
 
 A lineage hall in the old southern style, with ancestral tablets nine rows deep and a title for every rung of the family, which the Yan recite in full at every introduction and which takes, for a senior elder, about as long as it takes to water a horse. Their wealth walks. The tall grey southern horse, a hand higher than anything the north can breed and dappled like river stones, comes from the Yan studs at Qingyuan and nowhere else, and the Yan keep the bloodlines in ledgers older than the Holy Sea's: sire, dam and grandsire for every animal they have ever sold, and the name of the man who bought it.
 
-That last column is the Yan's real stock in trade. **They sold to everyone in the war.** Ashmore's big southern horses at the Skeldmere were Yan horses; so were the Tenrai's; so was the tall grey that Karogane rode across the ice, a hand higher than any Keld mount and absurd for it. The Hall-Master can tell you which side bought how many remounts in which season, which is to say which side was expecting to lose cavalry, and when. *The Yan do not take sides. They take orders, in both senses.*
+That last column is the Yan's real stock in trade. **They sold to everyone in the war.** Ashmore's big southern horses at the Skeldmere were Yan horses; so were the Tenrai's; so was the tall grey that Karogane rode across the ice, a hand higher than any Keld mount and absurd for it. The Hall-Master can tell you which side bought how many remounts in which season, which is to say which side was expecting to lose cavalry, and when. *The Yan take orders, in both senses, and never a side.*
 
-Their own horsemen are few and superb, archers who shoot from the saddle at the full gallop, turning in the stirrups, with the grey horses running flat out under them like water poured downhill. The Yan do not ride to war. They ride to make sure a buyer has paid.
+Their own horsemen are few and superb, archers who shoot from the saddle at the full gallop, turning in the stirrups, with the grey horses running flat out under them like water poured downhill. When the Yan ride out in force, it is to make sure a buyer has paid.
 
 ## 5. House Ryu
 
@@ -110,7 +112,7 @@ Their own horsemen are few and superb, archers who shoot from the saddle at the 
 
 **Colours:** Sea-green and copper
 
-Once the Mahou line's admiralty and its southern ports. When the Mahuo were kings, the Ryu kept their ships, their harbour dues and their salt fleet, and were the second family of Sum-gol; when the Mahuo fell, the ships, the harbour dues and the salt fleet were all still sitting at Haeseong, with nobody left to send the revenue to. **The Ryu did not take the Mahuo's wealth. They simply stopped forwarding it.** The south has never settled whether that is theft. The Ryu would like it noted that the Mahuo have never asked.
+Once the Mahou line's admiralty and its southern ports. When the Mahuo were kings, the Ryu kept their ships, their harbour dues and their salt fleet, and were the second family of Sum-gol; when the Mahuo fell, the ships, the harbour dues and the salt fleet were all still sitting at Haeseong, with nobody left to send the revenue to. **The Ryu left the Mahuo's wealth exactly where it sat, and simply stopped forwarding it.** The south has never settled whether that is theft. The Ryu would like it noted that the Mahuo have never asked.
 
 Haeseong is the brightest city in the south: white walls, green copper roofs, a harbour packed with junks and coasting galleys and the long low salt barges, lanterns strung across the water every night of the year, and a Guild main brought down from the Wellheads at great expense so the lighthouse can burn worked light that reaches forty miles out. The salt road begins at its quays and runs north to the junction below Ashbury, and every sack of southern salt that ever crossed the Ashmore marches paid a Ryu toll on the way.
 
@@ -154,7 +156,7 @@ The north fights in knots and wedges and long Keld lines that move like weather.
 
 Half the southern hosts in the war had Marrick companies at their centre, and some years both halves. The house considers this a professional courtesy. A Marrick company fights for its contract to the last day of the season and not one day past it, and has been known to finish a battle at noon on the day its contract ran out by grounding pikes in the middle of the field and walking home through both armies, unharmed, because both armies would be hiring next season.
 
-Gerrit Marrick is sixty, loud, scarred, very funny, missing an ear, and the only warlord in the south who has fought in every war of the last forty years on at least two sides. He says the north never understood the rank. *"You don't stand in it because you're brave, lad. You stand in it because the man on your left is standing in it."*
+Gerrit Marrick is sixty, loud, scarred, very funny, missing an ear, and the only warlord in the south who has fought in every war of the last forty years on at least two sides. He says the north never understood the rank. *"You stand in it because the man on your left is standing in it, lad. Brave's got nothing to do with it."*
 
 ---
 

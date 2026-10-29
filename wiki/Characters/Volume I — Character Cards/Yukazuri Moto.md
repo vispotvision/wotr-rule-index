@@ -1,305 +1,196 @@
 # Yukazuri Moto
 
-**Yukazuri Moto** · The Still Knife · Kharven · as of the Moto lines seated again at Kharven-Seat, alone in the ruin  
-**Stat line** · Level 6 · Band I, Mortal Foundation · Stage IV, Flourishing, arrested · Path Spirit 72% / Body 18% / Attraction 10% · Adept · η 0.89 · Aether Class Unclassed · Crystal Awakened, Refined  
-**Combat grammar** · Verdict  
-**Aura and sound** · colour: warm dark grey with a hint of deep teal · signature sound: a low wet hum that catches on the listener’s out-breath  
-**Stack** · sustainable ceiling B · cap +2 Grades · layers: STILL WATER, First Release; no sworn vow, Draft or prepared tag recorded  
-**Releases** · STILL WATER (First Release) · bonded weapon: none  
-**Traits** · STILL-WATER BROADCAST (Primary) · tell: breathing eases inside forty feet · counter: distance or a held emotional ward / ANAMNESIS SIGHT (Secondary) · tell: her fingertips halt and her eyes lose the room · counter: denied contact or an erased record  
-**Techniques** · NERVE READING · tell: a breath caught behind the teeth · counter: suppressed signatures or a change of intent / COAGULATIO SEAL · tell: a dry click beneath the touching fingers · counter: denied contact or a closed channel / SOMNALIS DRIFT · tell: a low descending hum and a teal-grey flare · counter: leave its twenty-five-foot reach  
-**Voice** · “Hold still. You can dislike me when it closes.” · speaker type: a retired field nurse who still speaks in short bedside instructions
+**Yukazuri Moto** · Surgeon of the North · Kōkan and Byakuya, raised in the Orrel Cuttings · as of the morning of the Skeldmere, at the Foot's gate, counting linen
+**Stat line** · Level 22 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Body 25% / Attraction 15% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
+**Combat grammar** · Expenditure; she does not fight, and nothing she has is aimed at anyone
+**Aura and sound** · frost-pale, almost white, with a faint rose coming into it when she is working; most people never see it at all · sound: a long, slow out-breath
+**Stack** · sustainable F · cap +2 Grades · layers: none
+**Releases** · none; the First Release belongs to Flourishing · bonded weapon: none
+**Traits** · STILL WATER (Passive) · tell: everyone near her breathes slower · counter: noise, and fear louder than she is / THE HUM (Primary) · tell: she bends her ear to a thing the way she bends over a man's chest · counter: say nothing, and breathe evenly / WHERE IT'S DEAD (Secondary) · tell: her hands stop shaking · counter: none she has ever met / THE MARK (Inherited) · tell: she draws it true · counter: it does nothing but tell the truth
+**Techniques** · none worked; her skills are a surgeon's
+**Voice** · "Hold still. You can dislike me when it closes." · speaker type: a field surgeon of thirteen, trained on camp floors and in a ditch full of the dying, who tells grown men to lie down and is obeyed
 
 ---
 
 ## I. Identity
 
 **Full Name** · Yukazuri Moto
-
-**Pronunciation** · yoo-kah-ZOO-ree MOH-toh
-
-**Alias / Title** · The Still Knife — She Who Reads the Wound Before the Strike
-
-**Also Known As** · Moto of No House · The Quiet One · Ghost-Eyed Girl
-
-**Refusal** · She will not swear a person’s suffering into any lord’s service.
-
-**Conviction** · Someone must stay beside the person who cannot be saved.
-
-| **As Of** | After the Moto lines were seated again at Kharven-Seat, alone in the ruin |
-|---|---|
-| **Race / Lineage** | Human. **Mortal, unbloodlined** |
-| **Age / Sex** | 50 · Female |
-| **Faction** | **None by oath.** Moto by blood only, **and even that she no longer answers to** |
-| **Location** | A cabin in the ruined Moto ancestral ground, alone, since Muken died. **She has not left it in any season that mattered** |
-
-> **Second Catalyst · Muken's death.**
->
-> Not a battlefield death she could seal with Coagulatio and be angry at a lord over — **a removal she never saw coming and had no body to sit beside.**
->
-> The first Catalyst, the Marshland Immersion, taught her to listen. **This one taught her what happens to a Receptive Emitter with nothing left in range worth receiving.**
-
----
+**Pronunciation** · yoo-KAH-zoo-ree MOH-toh
+**Alias / Title** · Surgeon of the North, in the sentence Muken passed on the people who killed her · the Lanternless's surgeon · the little surgeon, to Rob Stark
+**Also Known As** · Yuka and sis, to her brother, and no one else · the daughter of Gimbzo, to the Shirogane · the Kōkan's sister, in the Annals of the North-Forged Crown
+**Race / Lineage** · Human. Kōkan through her father, Gimbzo; Byakuya through her mother, Kasane, who took the Yukari name at her Telling; the other of the last two of the red line
+**Age** · Thirteen; she died at thirteen
+**Realm / Faction** · The Lanternless free company, then her brother's army at Kharven's Foot; sworn to nobody
+**School and sect rank** · None. Yusif Stark taught her the stitch at five, on a sack of salt; the camp surgeons and the Veyrath ditch taught her the rest
+**Renown** · public: the north did not know her name until it came home on the ice · army: the Starks and Greymanes of the Foot would have walked into fire for the girl who sewed them; the vanguard boys sewed the white banner with her needles · sects: none · guilds: none · epithet: none in her life
+**Catalyst Event** · The Veyrath ditch, at twelve, on her knees through two hundred men the lords had left lying there, with her needle and her gut and the salve tin
+**Refusal** · She will not be left behind somewhere safe while the dying are somewhere else
+**Conviction** · Somebody has to be there afterward for the ones who don't come back from it, and sit with the ones who can't be saved until they go. It cost her the shore
+**Arc kind** · Flat: she was already who she was, and the people round her changed
 
 ## II. Soul Architecture
 
-**Level** · 6
-
-**Band** · I, Mortal Foundation
-
-**Current Stage name** · IV, Flourishing; arrested
-
-**Tier of Standing** · Adept
-
+**Level** · 22
+**Band** · I, Murmuring
+**Temperance Stage** · II, Welling
+**Path** · Spirit 60%, Body 25%, Attraction 15%. Spirit carries the gift that hears; Body carries her hands; Attraction carries her brother
+**Tier of Standing** · 2, Apprentice
+**η** · 0.35
 **Soul Crystal Tier** · Awakened
-
-**Crystal State** · Refined
-
-**Essence Family** · Fluxia
-
-**Temperance Stage** · **IV, the Hollowing — Arrested.** *The Hollowing requires the soul to empty toward something, and for thirty years there has been nothing to empty toward.*
-
-**Path** · Spirit 72% · Body 18% · Attraction 10%
-
-**Essence Typology** · Receptive Emitter — Somatic Sub-Class
-
-**Aether Class** · Unclassed (Class emerges at Glory). **Broadcasts outward, cannot fully close the channel**
-
-**Aether Index** · 258.1 AU/s — *unchanged; she never overclocked, never had reason to* · **η 0.89**
-
-> **Crystal State.** Still clean, still uncracked — **but the stillness now reads differently.**
->
-> A Crystal built to listen, in a place with almost nothing left alive to listen to, **has spent three decades listening to the land instead.**
->
-> **The ground remembers everyone who died on it. She has not stopped hearing that.**
+**Crystal State** · Refined; whatever she felt she put into her hands
+**Aether Class** · Unclassed
+**Essence Typology** · Fluxia: breath, flow, what moves through a body and how to slow it
 
 ## III. Wellspring Harmonizations
 
-**Somnalis** · Primary. Broadcast and receptive resonance, **now permanently active at range across the ruined ground rather than tied to proximity to people.**
+**Somnalis** · folk name the Hush · Depth first contact, at the Veyrath ditch · it slows what runs too fast in a body, breath and blood and fear
+**Anamnesis** · not harmonized · a leak she was born with: she hears the record a thing carries, a token's hum, a decision on a man, before she has any word for it
 
-**Anamnesis** · Secondary. Residual emotional memory reading — **the land itself is now her primary text.**
+## IV. Primary Stats
 
-**Coagulatio** · Tertiary. Wound-sealing and channel-suppression. *Rarely used on anyone but herself now.*
+| Primary | Total | Mean | Grade |
+|---|---|---|---|
+| Vitality | 80 | 10 | Hollow |
+| Ardency | 30 | 3.75 | Hollow |
+| Gnosis | 180 | 22.5 | F |
+| Dexterity | 120 | 15 | F |
+| Harmonics | 90 | 11.25 | F |
+| Resilience | 50 | 6.25 | Hollow |
+| Tempering | 10 | 1.25 | Hollow |
+| Dominion (seven, Throne apart) | 0 | 0 | Hollow |
+| **Throne** | not opened | · | · |
 
----
+**Pool** · 564 (264 from Levels, 300 from Thresholds I and II) · **Spent** · 560 · **Unspent** · 4
+
+## V. Sub-Stats
+
+**Vitality** · Fortitude 10 · Absorption 0 · Constitution 10 · Hemostasis 10 · Regeneration 10 · Filtration 10 · Tolerance 20 · Threshold 10
+**Ardency** · Flux 0 · Alacrity 0 · Depth 10 · Penetration 0 · Compression 20 · Cascade 0 · Overchannel 0 · Density 0
+**Gnosis** · Perception 70 · Acuity 30 · Forecast 0 · Fluency 0 · Retention 20 · Analysis 30 · Cognition 0 · Vigilance 30
+**Dexterity** · Celerity 0 · Reflex 20 · Finesse 70 · Economy 20 · Evasion 0 · Grapple 0 · Feint 0 · Sequence 10
+**Harmonics** · Attunement 20 · Projection 0 · Breadth 0 · Stability 10 · Empathy 60 · Synergy 0 · Axis 0 · Suppression 0
+**Resilience** · Integrity 10 · Ward 0 · Persistence 0 · Anchoring 10 · Fortification 0 · Hardening 0 · Oath 30 · Continuity 0
+**Tempering** · Clarity 10 · Overflow 0 · Maturity 0 · Coherence 0 · Yield 0 · Ceiling 0 · Capacity 0 · Longevity 0
+**Dominion** · Radius 0 · Sovereignty 0 · Sense 0 · Gravity 0 · Pressure 0 · Command 0 · Fate 0 · Throne not opened
+
+Perception, Finesse and Empathy: a pair of eyes, a pair of hands, and the thing that makes a frightened man lie still. Everything else is a small girl who never had enough to eat.
 
 ## VI. Physical Force
 
-**Strike Force** · 0.09 GN precision blade / **2.1 PJ Somnalis-loaded nerve-point hit**
-
-**Durability** · 4 PJ shielding, Coagulatio passive / 180 GJ baseline
-
-**Speed** · Mach 2.8 burst / Mach 1.1 sustained — *untested at current age*
-
-**Range** · Melee to short, four-foot blade / **Perception 40 ft passive, 80 ft active** — now ambient across the ruin rather than tied to nearby bodies
+**Strike Force** · Hollow; she has never struck anyone · **Lifting** · Hollow, a full surgeon's satchel and a man's arm while she sews it
+**Travel speed** · Hollow · **Reaction** · F by Reflex 20, 80 to 150 ms
+**Durability** · Hollow, Fortitude 10; she took three days in the carriage without a word
 
 ## VII. Aether Flow
 
-**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 258.1 AU/s · **η** 0.89
-
----
+**EU Reserve** · 5,036 EU · **Flux Density** · 2,000 EU/g · **AU/s** · 700 (2,000 × 0.35)
+**From full** · empties in 7.19 seconds at full output, Starvation at 6.47; she has never once spent at full · **Recovery** · ten per cent a minute at rest, and STILL WATER costs her less than she recovers
 
 ## VIII. Traits
 
-**STILL-WATER BROADCAST (Primary Trait)**
+**STILL WATER (Passive Trait)**
+When she comes close, breathing slows. Her brother stopped noticing it years ago; a whole room would go calm when she put her fingers to a wound, and a man would feel his own breath come down under the collarbone and lie still for the needle. Somnalis runs off her into the air within a few paces and eases what is running too fast in the bodies there: breath, pulse, the shaking. It costs her almost nothing, a share of her reserve too small to feel, and it never stops. Its limit is its reach, a few paces, and its strength; it slows a frightened man and does nothing to a man who has decided, and it cannot stop a bleed, only the panic over it. Its counter is noise and terror louder than she is; its tell is everyone near her breathing slower.
 
-**Still-Water Broadcast** · *Somnalis* — **Cannot be turned off.** Within forty feet, nervous systems trend toward calm. **For thirty years the only things regularly in range have been ghosts of routine and the wind through broken structures.** Her Shell keeps passing a small part of her own settled breathing rhythm outward; nearby bodies can follow it, while pain, choice and deliberate action remain possible. It has no separate activation cost, but receiving other people’s distress leaves her tired and makes her own feelings harder to distinguish. The easing breath and faint wet hum give it away. Beyond forty feet the calming effect ends; a held emotional ward prevents the rhythm taking hold. It cannot stop a blade already moving or repair the injury it makes.
+**THE HUM (Primary Trait)**
+She hears things. Every token in a post hums, and she could hear them all the way across a yard at night, like bees in a wall; she bent her ear to her brother's dead Stark token the way she bent over a man's chest and read it: not broken, not dead, only looking straight at him and unable to see anyone there. She hears a man decide, and she hears a lie in the breath, high and short, right up under the collarbone. Anamnesis is leaking through her Perception before she has a name for it, and it costs nothing she notices. Its limit is that it hears and does not act, and that it hears only what is there; a man who says nothing and breathes evenly gives her nothing. Its counter is exactly that; its tell is her head bent to listen.
 
-**ANAMNESIS SIGHT (Secondary Trait)**
+**WHERE IT'S DEAD (Secondary Trait)**
+Formed at the Veyrath ditch at twelve, two hundred men on her knees: *you don't cut what you can sew; you don't sew what has to come off; you look; you find where it's dead; you take that, and nothing else; and then you close what's left, and let it live.* While she is working, her hands do not shake and her face does nothing at all, which is what it does when she is frightened. It costs her afterwards, in the hours when she is not working, and she does not show that either. It holds only while there is work in front of her. It became the first lesson of her brother's Work of Ruins, and the law of the oath he swore before the Seat.
 
-**Anamnesis Sight** · *Somnalis · Anamnesis* — Reads residual emotional memory through contact. **The ruined Moto ground is saturated with it.** The sheer density of loss on that land means she can no longer touch a wall, a well or a gatepost without reading what happened there. **She has stopped touching more than she has to.** Her Attraction Layer admits the feeling held in a touched surface, and her Shell carries that record into present sensation. There is no deliberate activation to pay for; the cost is involuntary recall, lost attention to the present and emotional fatigue. Her fingers stop moving and her gaze slips away from the room. Breaking contact stops a fresh read, while an erased or damaged record yields nothing reliable. Rough reading can damage what the surface remembers; it cannot supply an event the object never held.
-
----
+**THE MARK (Inherited Trait)**
+The Kōkan mark, a long down-stroke, a hook, a crossing and a small closed loop like a knot in a rope, a little like a closed eye. Her brother's hand could never draw it; hers always drew it true, on frost, in camp dirt, on the bottom of her salve tin, in her own blood on her palm to steady her hands. At eleven she drew it in spilled lamp oil on the stamping floor and it burned blue for a moment before the oil went out. It is the red line's name written in the one hand the registers cannot read, and in her it answers. It costs nothing. It does nothing but tell the truth about whose she is, which she did not know until her brother told her, and she answered, *so that's whose it was.*
 
 ## IX. Domain
 
-**None.** She still refuses to claim ground — *which is its own quiet irony, given she now lives entirely inside land soaked in her family's history.*
-
----
+None.
 
 ## X. Techniques
 
-**NERVE READING (Technique)**
+None worked. She was a surgeon.
 
-**Nerve Reading** · *Somnalis* · 140 EU — Reads autonomic state, muscle pre-tension and Wellspring signature within 15 ft; **0.3–0.5 s advance notice of physical intent for four seconds.** *Counterplay: emotional-void opponents, heavily suppressed signatures.* The read compares breath, pulse and muscle tension across the next possible movements rather than fixing one inevitable future. She parts two fingers to open it; a short breath catches behind her teeth. Its 140 EU is 140 MJ, or 140/3,100 of her full reserve. An opponent who changes intention after the read makes its earlier forecast stale; leaving fifteen feet removes the live cues.
+## Skills
 
-**COAGULATIO SEAL (Technique)**
-
-**Coagulatio Seal** · 260 EU — Contact-activated clotting acceleration, or a 90-second Aether-suppression seal on an open channel. **Counterplay: none needed anymore. She uses this almost exclusively on herself now, for old joint damage rather than combat wounds.** Her fingers gather dispersed Essence into a compact seam at the contact point, helping a wound close or blocking the open channel she touches. A dry click beneath her fingers marks the seam taking hold. Its 260 EU is 260 MJ, or 260/3,100 of her full reserve. Denying contact prevents either seal; a channel closed before contact offers no opening to seal. A clot cannot replace missing tissue, and renewed pulling across the wound can reopen it.
-
-**SOMNALIS DRIFT (Technique)**
-
-**Somnalis Drift** · 390 EU — Full-broadcast 25 ft sympathetic suppression, eight-second duration, **risks severe Resonance Saturation bleedback.** **Used twice in her life.** She has not used it since Muken died — **no one left worth using it on, and no one left to notice if the bleedback took her somewhere she didn't come back from.** She opens both hands and lets the broadcast follow every responsive body within its reach, drawing their breathing and alarm response toward her own slower rhythm. A low descending hum and a teal-grey flare announce it. Its 390 EU is 390 MJ, or 390/3,100 of her full reserve. Bodies beyond twenty-five feet leave the effect; a held emotional ward resists it, and an already moving weapon keeps its momentum. The return of several incompatible states through her open channel causes the bleedback.
-
-### Releases
-
-**STILL WATER (First Release)** · folk name: Nagi, calm
-
-Her irises acquire pale rings, her hair lifts from her temples and warm dark-grey light, faintly teal, gathers against her skin. A low wet note rises as though a finger were circling the lip of a clay cup. With one open hand and the spoken name, she holds the returning signals apart in her own body instead of receiving them as one mass; Still-Water Broadcast reaches the top of its own Grade through her skin and anything she touches. The ordinary forty-foot broadcast continues unchanged outside that contact. Her workings still need their own gestures and costs, and this form grants neither a Domain nor certainty about another person’s intent. The release drains 35 EU each second, including its own shaping, and holds for 2,790/35 seconds from a full 3,100 EU reserve with no other spending or recovery. It ends at 310 EU, leaving her hands shaking and the received feelings hard to sort. Releasing silently keeps the pale rings, aura and sound but loses the rise to the top of her Grade; it costs the same to hold. A denied touch prevents the stronger effect reaching another body, a held emotional ward resists it, and distance can exhaust its clock. Several bodies changing rhythm at once can still overwhelm her separation of their signals. The release neither silences the baseline broadcast nor switches off Anamnesis Sight.
-
-**Bonded weapon** · none.
-
----
+| Skill | Cues / mechanics | Learned where | Priced by (Sub-Stats) | Mark |
+|---|---|---|---|---|
+| Field surgery | probes for arrowheads, the curved knife, spirit, gut, the cautery iron; look at the edges, never the wound | Yusif's sack of salt at five, camp surgeons, the Veyrath ditch | Finesse, Perception | Mastered |
+| Triage | the worst first, the ones who can wait told to lie down and obeyed | the Lanternless, the Foot's surgeons' line | Analysis, Vigilance | Mastered |
+| Reading breath and lies | where the breath sits, high under the collarbone or low and even; a thumb on a table edge | her brother, and everyone who lied to him | Perception, Empathy | Drilled |
+| Numbers | exact, never rounded: "Thirty. Don't round it. That's how factors cheat you." | the Orrel drainage book | Retention, Analysis | Drilled |
+| Salt-gallery living | the pallet, the cold, the half of the bowl given back in secret | the Cuttings | Tolerance | Mastered |
 
 ## XI. Spirit Axes
 
-> **Muken Moto** · *Brother, deceased* — **Preserved / Filial-Formative / Absolute.**
->
-> The only bond she ever oriented her whole life around. **His death didn't sever the axis. It just stopped receiving anything back.**
->
-> *She still reads for him sometimes, out of habit, into a silence that has had thirty years to become total.*
-
----
+**Muken Moto** · her brother · Axis 40 · built on a pallet in the cold so that neither of them froze; what crossed it was the larger share one way and half of it handed back the other, and an earful whenever he needed one
+**Kasane** · her mother · severed; she tried all her life to read the father out of her and never could
 
 ## XII. Resistances
 
-Vulnerable to **High-Flux Direct Crystal Assault** and **Emotional Void opponents.**
-
-**Grief-Saturated Environments** · No longer a vulnerability in the traditional sense. **She has adapted to living inside one permanently, which is its own kind of damage.**
-
----
+**Panic** · near-immune while working · **Pain, fear, captivity** · she took three days in the carriage and did not give them one word · **Everything physical** · Hollow; she was thirteen and small
 
 ## XIII. Physical Description
 
-**Height** 5'7" · **Build** still lean, though thirty years alone **has softened the fighter's economy of movement into something slower, more deliberate** — a body that no longer needs to be ready.
-
-**Hair** silver-white, unchanged by age since it was never a colour age could touch — **now simply matches the frost that sits on the ruined ground most of the year.** **Eyes** deep blue reading grey in low light; *they track intention less often now, because mostly there is nothing left approaching to track.* **Skin** deep brown, weathered.
-
-**Marks** · The scar from age twelve is still the only combat scar. **Everything since has been decades, not blades.**
-
-**Clothing** · Practical, undyed, patched by her own hand. **No armour — no reason to carry it.**
-
-Her face is narrow, with a broad nose and a mouth usually held loose rather than pressed shut. Her patched sleeves fit closely enough to keep clear of her hands; the cuffs are rubbed thin.
-
-> **Aura** · The feeling of a room after rain, still — **except now the room is empty and the rain never quite stops.**
-
----
+She was small, smaller than any girl her age in the Cuttings because there had never been enough, and came up to the middle of her brother's chest. Her hair was a silver-white so clean it looked deliberate, the Kōkan white and her mother's, and she kept it braided down her back and pinned up off her neck when she worked; it came out of its pins when she was frightened. Her face was narrow and grave, deep brown like her brother's, with a straight nose and a mouth that rested in a line most people took for disapproval until they saw it move; it went pink with cold at the nose and the cheekbones. Her eyes were a deep blue that went grey in poor light, and in lamplight off the salt they were nearly the colour of his. Along the outside of her left forearm, from the wrist bone nearly to the elbow, ran a long flat scar, very straight and only just gone white, the kind a blade leaves when someone raises an arm to it at the right time; she had been twelve, and she never talked about it and never covered it. She wore a field coat of undyed grey, cut short for kneeling in, with deep pockets she had sewn herself and that clinked with glass and brass, buttoned to the throat; at the Foot, an apron with the salve tin in its pocket and her sleeves rolled to the elbow, her hands red at the knuckles from the boiled cloth. A short blade rode at her left hip, its grip wrapped in grey cloth she rewound every morning, and nobody in the company ever saw her draw it for anything but cutting a bandage.
 
 ## XIV. Psychology
 
-**Core Wound** · She built her entire Temperance around listening for one person. **He's gone, and the listening didn't stop — it just stopped having anywhere to land.**
-
-**Flaw** · Cannot claim anything for herself. **Not a Domain, not a home that isn't his ruin, not a life that isn't organised around a bond that no longer answers.**
-
-**Desire** · No longer her brother's survival. **Now, something closer to permission to stop listening. She hasn't found it.**
-
-**Strength** · Still reads a room, a wound, a piece of ground more honestly than almost anyone alive. **Isolation didn't dull the gift. It just narrowed what it has left to read.**
-
-**Loop** · Checks whether a feeling arrived or grew, to tell if it's hers. **Thirty years alone has made this harder, not easier — grief that's this old stops announcing itself as an arrival.**
-
-**Foil** · Any character who chooses connection despite cost. **She chose isolation as the only response to loss she had.**
-
-> **Voice** · Sparse to the point of near-silence now. Still precise when she does speak. **The dry humour has gone quiet, not gone.**
->
-> **Posture** · Stillness that used to be tactical readiness **has become something closer to habit worn into muscle.**
->
-> **Stress default** · **Touches the Grey Wrap. Doesn't use it. Just holds it.**
+**Core Wound** · Nobody would tell her whose they were · **Flaw** · She goes where the dying are, whatever is between her and them · **Desire** · Her brother alive, and the men in front of her kept alive, and to know whose she is · **Strength** · She never raises her voice, and she is never wrong about a wound · **Loop** · look, find where it's dead, take that, close what's left · **Foil** · her brother, who knows how to hurt people where she knows how to sit with them · **Stress Default** · her face does nothing at all
 
 **Voice block**
-
-**Speaker type** · A retired field nurse who still speaks in short bedside instructions.  
-**Chant tongue** · The Moto household’s Japonic tongue; existing technique names are also spoken in Common.  
-**Lying tell** · She smooths the same fold of the Grey Wrap twice while withholding an answer.  
-**Notices first** · Breath, guarded joints and the hand held away from pain.  
-**Sentence length** · Short complete instructions; explanations follow only when the listener needs them.  
-**Contractions** · Sometimes.  
-**Pet word** · “Still.”  
-**Never says** · “You’ll be fine.”  
-**Stumbles** · Stops before a family name rather than stumbling over it.  
-**Gloss rights** · Diagnostic only.  
-**Stress shift** · Fewer words, each attached to the next necessary action.  
-**Grief shift** · Addresses the absent person directly, then falls quiet.  
-**Joy shift** · Her mouth softens before the dry humour returns.  
-**How modern** · Plain bedside speech without court ceremony or current slang.  
-**Sample line** · “Hold still. You can dislike me when it closes.”
-
----
+**Speaker type** · a field surgeon of thirteen
+**Chant tongue** · northern Common
+**Lying tell** · she does not lie to him; with everyone else she is never asked
+**Notices first** · breath, and where it sits; then hands · **Sentence length** · short orders, then a long, exact, specific case when she is arguing · **Contractions** · always · **Pet word** · "Hold still" · **Never says** · "You'll be fine" · **Stumbles** · no
+**Gloss rights** · diagnostic only, and only about a wound
+**Stress shift** · quieter, more exact · **Grief shift** · she sits with them until they go · **Joy shift** · nearly a laugh, which is as far as it goes · **How modern** · plain and dry; "Yeah," and an earful
+**Sample line** · "Hold still. You can dislike me when it closes."
 
 ## XV. Equipment
 
-**The Short Blade** · Unnamed. Eleven inches, unenchanted, well maintained. **Still worn out of habit more than expectation of use.**
-
-**The Grey Wrap** · Somnalis-saturated fibre. Passive Calm Field. ***The one item she has never once put down.***
-
----
+**The salve tin** · plain tin, the Kōkan mark drawn on its bottom; dented on the shore, with the mark and an arrow pointing south scratched in its lid with a needle · plain · her brother carries it
+**Seven surgeon's needles** · thin steel of three lengths, two curved, one bent very slightly at the tip from use on something tougher than skin, a short end of gut still in the eye of the longest · plain · folded into Tsugigane at the old break
+**The field kit** · gut, a flask of spirit, the salve tin's twin, the long iron probes and the short curved knife, splints, straps, boiled cloth in wooden tubs · plain
+**The bandage blade** · short, the grip wrapped in grey cloth rewound every morning · plain
 
 ## XVI. Temperance Record
 
-**I** · Complete — Marshland Immersion
+**Level log** · Levels 1 to 22: the Cuttings, the camp surgeons, the Veyrath ditch, the Lanternless
+**Stage ledger** · Stage I, Murmuring: her brother's breathing slowing near her, in the galleries, before either of them noticed / Stage II, Welling: Catalyst first contact with a Wellspring under pressure, Somnalis at the Veyrath ditch at twelve, two hundred men and one surgeon
 
-**II** · Complete — the dying soldier's eleven hours
-
-**III** · Complete — the river-crossing Wellspring eruption
-
-**IV** · **Active, Arrested — thirty years unresolved**
+She never climbed. She worked, and the Crystal grew round the work.
 
 ## XVII. Fracture Log
 
-| Fracture | State | What it did |
-|---|---|---|
-| **The Veyrath Ditch Contract** *Loop-Attunement* | Consolidated | **Cemented her role as the one who arrives after, not during** |
-| **The Marshland Immersion** *Stage I Catalyst* | Consolidated | Taught her to listen |
-| **The Brother's Death** *Everything* | **Unconsolidated** | **The fracture that has not closed in thirty years and organises every day since** |
+**The Veyrath ditch** · Layer Core · Status processed · Feature WHERE IT'S DEAD
 
 ---
 
 ## Lore
 
-### Incomplete in the Record
+### Origin
 
-**Stats · sections IV–V** carry no new combat data — **there is none for a fighter who has not fought in thirty years.** **Recovery rate** is unchanged from the original entry and has not been re-measured against three decades of isolation. **Speed figures** are untested at her current age.
+She was born in the Orrel Cuttings under Halcrest three years after her mother came down into the salt with her brother in her coat; whose either of them was, their mother never said, and Yukazuri tried to read it out of her all her life and never could. Her brother bought her number out of the Orrel drainage book with his first season's pay, every salt bar of it, and she counted it with him, twice. A big quiet man with a grey beard came down once a season until she was ten, and when she was five he sat her on a sack of salt and showed her how to put a needle through a fold of wool and draw it tight so it would not pull, and told her more men would live because of a needle than would ever die because of a sword. She thought he was just being kind. He wasn't.
 
-> **Stage IV is recorded as permanently arrested.** Whether that arrest ever resolves, **or whether the permanence is the point**, is the open question of her record.
+### The Making
 
----
+At twelve she went down the Veyrath ditch on her knees through two hundred men the lords had left lying there, with her needle and her gut and the salve tin, and sat with the ones she couldn't save until they went. She took the scar on her arm that winter. She was the Lanternless's surgeon for a year before the war ended, and she would not be left behind at any fort with a nice warm fire; when her brother went to the Starks, she went to the war. She triaged Mark first and told Rob to lie down. She stitched her brother's face shut twice, and saw the gold come into his eye on the Foot's stair and decided not to say anything, and he loved her for it more than he had ever loved anyone. When he knelt in the surgeons' tent and told her whose they were, she drew the mark in her own blood and walked out into the yard and held it up, and the north knelt.
 
-### The Life Behind the Card
+### The Cost
 
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of The Ashen Crown: Muken's house and the Moto lines. What those sources do not state is new here.*
+On the morning of the Skeldmere she told him to be careful, and he said she'd give him an earful if he wasn't. When the Keld arrows began and the gut-shot could not live the two hours to the Foot, she took the tent to them, and set her line on the shore of the Skeldmere behind the Stark ring with twenty Greymane guards Godfrey could never have refused her. A Greymane spearman who would not kneel at the woodpile let the grey men in. They killed her guard and burned her carts and took her south in a closed carriage on runners, Tenrai black and gold, and before they tore the salve tin out of her fingers she scratched the mark and an arrow pointing south in its lid with a needle. She did not say one word for three days, through everything they did to her on the road. In the long silver room of the Shirogane house at Kharven-Seat she spat blood across Shizuha Shirogane's gown and said, *you'd better enjoy this, this little bit of quiet, while it lasts; my brother is going to kill every last one of you,* and traced the mark on the back of her bound hand, and Karogane cut once. She died on the third day of the Great War of the North, at the foot of a silver chair nobody was sitting in.
 
-#### Origin
+### Where She Stands
 
-Yukazuri Moto was born in Nalūn. Her mother was of the Kōkan line, taken by a lesser noble house of that city, and her brother Muken was what that taking produced. Yukazuri shared the mother. She had none of what the Moto house would call the blood: human, mortal and unbloodlined, with silver-white hair from girlhood and deep blue eyes that went grey in poor light.
+Her head came home down the frozen Marrow on a sledge with a grey sail, and Godfrey Greymane went out alone on the ice and wrapped her in his cloak so nothing of her touched it. She is buried under the last cairn on the ridge above the Foot, where it looks south over the Kessen road toward the Seat, with an old woman's hen's-egg stone in the exact centre of the top; her brother drew the mark in the frost on his stone and for the first time in his life it came out right. Her needles are folded into the marrow of his sword where it broke, and its note only wants, everywhere it goes, to close. Every night that winter a small fire burned at the foot of her cairn, built the way a fire is built in a salt gallery, and nobody knew who kept it.
 
-Muken fed them both on what he earned in other people's wars. When he turned north into the boreal forest, she went with him, a small child on the road. He came into a country that had never heard of the place he came from, with a sister, a reputation and no standing at all. He took the north by blood-conquest and rite and held its crown for sixteen years. His marriage to Ayame Yuno of the Kagura Branch came inside the reign, and so did his children.
+### Ties
 
-She grew up in her brother's kingdom. Six Banner Houses swore to him. She swore to nobody.
-
-#### The Making
-
-At twelve she took the cut that is still her only combat scar. After it she learned to read a body before it moved: the breath, the set of a shoulder, the pulse under the skin.
-
-She worked by contract and took no oath, to her brother's crown or any other. On the Veyrath Ditch contract she reached the ditch after the fighting and worked down it through the men left lying there. From then on she was the one who came after. She closed the wounds of men the lords had spent, and she blamed the lords. In the ditch she began a habit she never lost. When a feeling reached her, she checked whether it had arrived or grown, to learn whether it was hers.
-
-Her first change came in a marsh. She lay a night in the water among men she could not see, and by morning she could tell the frightened from the dying without turning her head.
-
-In the last years of the reign, hobgoblin raiders held the Greymane fortress at the Ridgewall under assault from dusk to dawn. Her niece Mizuki held the wounded still in her cold. Yukazuri came in after the fighting and sat beside the one soldier the cold was holding who could not be saved. His dying took eleven hours. She kept him calm through all of them and listened to the end.
-
-Then the Tenrai removed her brother. Their plan ran through the palace in one night, outside open combat, and she never saw it coming. Muken died in the corridor outside his study, and Tomuka, one of his children, died the same night. There was no wound to seal and no lord to blame. There was no body to sit beside.
-
-#### The Cost
-
-She had built everything she could do around listening for one man, and after the removal the listening went on and found nowhere to land. She went alone to the ruined Moto ancestral ground.
-
-The ground keeps the memory of everyone who died on it, and the dead there are many. She cannot touch a wall, the well or the gatepost without reading what happened against it. She has stopped touching more than she has to.
-
-Her place had always been the hour after the fighting, beside whoever was dying. The removal left her no such hour.
-
-She has claimed nothing since: no ground, no house, no home but his ruin. She no longer answers to the Moto name. She has used her full broadcast twice and not once since he died, with nobody left to use it on and nobody to notice if its backlash took her somewhere she did not come back from. The sealing she once spent on soldiers goes now into her own old joints. The old check still runs, whether a feeling arrived or grew, and it rarely answers; a sorrow that old does not arrive. She wants leave to stop listening. She has not found it.
-
-#### Where They Stand
-
-She is fifty and lives alone in the cabin among broken structures, a well and a gatepost, with frost on the ground most of the year. She has not left it in any season that mattered. The calm she gives off cannot be turned off, and for thirty years only ghosts of routine and the wind through broken walls have come into its reach.
-
-Her clothes are undyed and patched by her own hand. She wears no armour. The short blade stays at her side from habit. Under strain her hand goes to the grey wrap she has never once put down, and holds it, and does nothing more.
-
-She speaks seldom, and every word is exact. Sometimes, from habit, she still reads for her brother.
-
-Who emptied the ground she lives on, and when, is not recorded. Her brother's son Sodoku is at Kharven-Seat, and the Moto lines sit again as its royal house. No record puts her there or says the news has reached the ruin.
-
-#### Ties
-
-- **Muken Moto** · brother and sister. He fed her on what he earned and carried her north, and she built all her listening around him and still reads for him into a ground that sends nothing back.
-- **Ayame Yuno** · kin by marriage. Her brother's queen; no card or scene puts the two women in one room.
-- **Sodoku Moto** · aunt and nephew. Her brother's son; no record puts them together.
-- **Mizuki Moto** · aunt and niece; comrades. Through the night at the Ridgewall her niece's cold held the dying soldier Yukazuri sat beside for eleven hours, and no word between them is recorded.
+- **Muken Moto** · her brother. "Please be careful." "If I'm not, you'll give me an earful."
+- **Kasane** · her mother, who never said.
+- **Gimbzo Kōkan Moto** · her father, whom she learned of at thirteen. *So that's whose it was.*
+- **Yusif Stark** · the first needle.
+- **Kiyome Byakuya** · her aunt, who has her white hair. They never spoke.
+- **Rob Stark** · "Tell her I didn't scream this time."
+- **Lorn Stark** · held her brother on the road for her sake.
+- **Godfrey Greymane** · who could never refuse her, and who brought her home.
+- **Karogane** · who cut once.
+- **Shizuha Shirogane** · who ordered it, to make her brother his father. It did not.

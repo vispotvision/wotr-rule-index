@@ -200,6 +200,6 @@ This morning he comes down the shallow steps of the black floor in his father's 
 - **Ulf Stark** · his father, Warlord before him, executed beside Wystan Greymane under the Kurenai blade; he gave Lorn the twelve sentences and the oath.
 - **Godfrey Greymane** · brother-in-arms. Sworn to the same secret the same night by his own father; the Shield beside the Sword.
 - **Rob and Mark Stark** · his brothers, riding in his vanguard.
-- **Saruul** · the king's sister, who closed the cut on Rob's leg at the Foot; Lorn held the king on the frozen road for her sake.
+- **Yukazuri Moto** · the king's sister, who closed the cut on Rob's leg at the Foot; Lorn held the king on the frozen road for her sake.
 - **Kiyome Byakuya** · the king's aunt, of the white line.
 - **Sumie Kurenai** · the headsman who killed his father, sitting in the black chair. He has not spoken to her.

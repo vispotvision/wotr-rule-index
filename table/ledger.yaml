@@ -41,3 +41,107 @@
   due: null
   status: open
   thread: the-uncounted
+- id: L005
+  category: injuries and reserve
+  who: Raizan Tenrai Moto
+  text: The tips of his right thumb and two fingers are blistered white where the Last Thread's hilt cooked
+    in his grip; his beard is singed; heat strain at seventy-seven in Shōki's oven.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L006
+  category: injuries and reserve
+  who: Raizan Tenrai Moto
+  text: 'The Last Thread, his bonded needle-blade, was destroyed: bent on Shōki''s skull, then melted
+    in Shōki''s fist. KAMIKAKUSHI still hides him, but ONE NEEDLE has no needle.'
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L007
+  category: debts
+  who: Shōki Kurenai Moto
+  text: ONNEN holds one blow banked under Raizan's name, the needle at the nape, and it can be spent only
+    against him. Raizan has confessed to the feast-lord killing the Hall laid on Tsuyu.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L008
+  category: injuries and reserve
+  who: Shōki Kurenai Moto
+  text: A cauterised hole a thumb deep in the occipital bone at the base of the skull. His fever is climbing.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L009
+  category: who knows what
+  who: Raizan Tenrai Moto
+  text: 'The Tengan showed him that Shōki''s doom is held in a black-red hand, so it cannot be broken,
+    and that his own last morning is this one: the window, the go board, the plum blossom.'
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L010
+  category: injuries and reserve
+  who: Faisal
+  text: Broke his own Soul Crystal; the anchor-thread to the Host is gone and the Bell's whole load has
+    gone into his body. He burns at his purest state and will fade; his spirit goes to the cycle of rebirth.
+    Hole in the chest, bleeding from the mouth. About half his reserve was spent on the plane-wide Visualisation.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L011
+  category: bonds
+  who: Marium
+  text: She loves Faisal and watches through the crack in the Hall of Equilibria's floor. The egg of the
+    Grand Angel sits on the Hall's mantle, waiting to hatch.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+  fed: []
+  strained: []
+- id: L012
+  category: who knows what
+  who: the Material World
+  text: Every living thing saw the gold crack across the sky and the straight light, and felt deception
+    grow hard to think under plane-wide Vow-Light.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L013
+  category: canon conflicts
+  who: Raizan / Shōki
+  text: Raizan's card makes him 77 and Shōki's makes the Hall 313 years back, but Isaac's post has Raizan
+    a new recruit at the Hall. The prose keeps Raizan nineteen at the Hall and no year count; needs a
+    ruling.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins
+- id: L014
+  category: canon conflicts
+  who: Faisal
+  text: Isaac gives Faisal a mother's hum and makes Malakar his brother; the Celestial Host page has Celestials
+    Sung by the Lawbell, and the context post calls Malakar Aegor's creation. Left unexplained on the
+    page.
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: The Sins

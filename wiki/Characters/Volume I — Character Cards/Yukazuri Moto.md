@@ -1,3 +1,5 @@
+![[Yukazuri Moto — portrait.jpg]]
+
 # Yukazuri Moto
 
 **Yukazuri Moto** · Surgeon of the North · Kōkan and Byakuya, raised in the Orrel Cuttings · as of the morning of the Skeldmere, at the Foot's gate, counting linen

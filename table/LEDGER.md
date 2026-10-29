@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-3 open lines.
+4 open lines.
 
 ## injuries and reserve
 
@@ -13,3 +13,7 @@
 ## bonds
 
 - `L003` First meeting: they traded their deepest insecurities and wept together, the first time either had cried in months (her, years). Neither calls it love yet. A spar in the Seat's yard comes next.  *(the-uncounted)*
+
+## renown
+
+- `L004` Army: Lorn Stark and the Imperial Guard recruits in the yard saw the king laugh at his tower window for the first time in six months  *(the-uncounted)*

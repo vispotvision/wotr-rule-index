@@ -31,3 +31,13 @@
   thread: the-uncounted
   fed: []
   strained: []
+- id: L004
+  category: renown
+  who: Muken Moto
+  text: 'Army: Lorn Stark and the Imperial Guard recruits in the yard saw the king laugh at his tower
+    window for the first time in six months'
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: the-uncounted

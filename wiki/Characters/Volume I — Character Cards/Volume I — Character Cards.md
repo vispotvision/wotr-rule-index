@@ -12,6 +12,8 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Naiser Yukari]]
 - [[Characters/Volume I — Character Cards/Lorn Stark — The Sword]]
 - [[Characters/Volume I — Character Cards/Hayato Amagiri]]
+- [[Characters/Volume I — Character Cards/Tetsugen Akagane]]
+- [[Characters/Volume I — Character Cards/Kiyome Byakuya]]
 - [[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden]]
 - [[Characters/Volume I — Character Cards/Shōki Kurenai Moto · The Sin of Wrath]]
 - [[Characters/Volume I — Character Cards/Vaashuuk Snorr-Khal · The Sin of Sloth]]

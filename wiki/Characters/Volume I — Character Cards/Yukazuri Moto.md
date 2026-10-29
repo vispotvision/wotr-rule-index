@@ -1,15 +1,3 @@
----
-private: true
-type: character-card
-title: "Yukazuri Moto"
-subtitle: "The Still Knife — She Who Reads the Wound Before the Strike"
-culture: Kharven
-rung: full
-as_of: "After the Moto lines were seated again at Kharven-Seat, alone in the ruin"
-sources: "Prior Yukazuri Moto card; character and fow_line; Fracture of Worlds, Parts One, Five, Nineteen, Twenty and Twenty-One; The Color of Essence; Release Forms; The Master Codex"
-pc: false
----
-
 # Yukazuri Moto
 
 **Yukazuri Moto** · The Still Knife · Kharven · as of the Moto lines seated again at Kharven-Seat, alone in the ruin  

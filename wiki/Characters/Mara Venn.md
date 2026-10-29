@@ -1,7 +1,3 @@
----
-title: "Mara Venn"
----
-
 # Mara Venn
 
 ## Mara Venn

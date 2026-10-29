@@ -1,7 +1,3 @@
----
-title: "Gimbzo"
----
-
 # Gimbzo
 
 **Say it** · GIMB-zoh

@@ -1,21 +1,3 @@
----
-private: true
-type: character-card
-title: "Vaashuuk Snorr-Khal"
-subtitle: "The Sin of Sloth · Vaashuuk the Handsome"
-culture: "Goblin, the Hobgoblin Expanse"
-rung: full
-as_of: "The bottom of the Pit, the hour the Wrath woke"
-sources:
-  - "Fracture of Worlds, Parts One, Three to Seven, Eleven, Sixteen to Twenty-Four"
-  - "Old Vaross, The Goblinoid Tongue; The Goblinoid Peoples"
-  - "The Heresiology of Alchemy"
-  - "The Eight Families and the Sixty Wellsprings: Limina, Caloria, Vectoria"
-  - "The Color of Essence; Release Forms"
-  - "The Wrath Wakes (scene)"
-pc: false
----
-
 # Vaashuuk Snorr-Khal
 
 **Vaashuuk Snorr-Khal** · The Sin of Sloth · Goblin, the Hobgoblin Expanse · as of the bottom of the Pit, the hour the Wrath woke

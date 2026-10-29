@@ -1,20 +1,3 @@
----
-private: true
-type: character-card
-title: "Lorn Stark"
-subtitle: "The Sword · Warlord of the Starks · Muken's Left Hand"
-culture: "Kharven, House Stark of Hollenmark"
-rung: full
-as_of: "The morning of the seven lines in the Hall of Verdicts, at Muken's side"
-sources:
-  - "The Uncounted, Chapters Eight to Nineteen"
-  - "The Banner Houses of Kharven"
-  - "Godfrey Greymane and Muken Moto cards"
-  - "Fracture of Worlds, Parts One, Three to Seven, Eleven, Sixteen to Twenty-Three"
-  - "The Color of Essence; Release Forms"
-pc: false
----
-
 ![[Lorn Stark — portrait.jpg]]
 
 # Lorn Stark

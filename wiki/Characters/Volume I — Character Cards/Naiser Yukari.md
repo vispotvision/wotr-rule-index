@@ -1,20 +1,3 @@
----
-private: true
-type: character-card
-title: "Naiser Yukari"
-subtitle: "The Founder Beneath the Storm"
-culture: "Half-elven, Seikai and Zettari blood; the Yukari line"
-rung: full
-as_of: "The First Eon, the season after the Naming Beneath Stormlight"
-sources:
-  - "Naiser Yukari, the existing Volume I card"
-  - "Niran Yukari and Naevra Yukari cards"
-  - "Fracture of Worlds, Parts One, Three to Seven, Eleven, Sixteen to Twenty-Three"
-  - "The Eight Families and the Sixty Wellsprings: Limina, Materia, Vectoria"
-  - "The Color of Essence; Release Forms"
-pc: false
----
-
 ![[Naiser Yukari — portrait.jpg]]
 
 # Naiser Yukari

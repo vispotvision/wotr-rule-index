@@ -1,7 +1,3 @@
----
-title: "Muken Moto"
----
-
 # Muken Moto
 
 **Say it** · MOO-ken MOH-toh

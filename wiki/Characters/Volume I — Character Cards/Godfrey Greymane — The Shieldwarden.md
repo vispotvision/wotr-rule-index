@@ -1,21 +1,3 @@
----
-private: true
-type: character-card
-title: "Godfrey Greymane"
-subtitle: "The Shieldwarden · Muken's Right Hand"
-culture: "Kharven, House Greymane of the Ridgewall"
-rung: full
-as_of: "The morning of the seven lines in the Hall of Verdicts, at Muken's right hand"
-sources:
-  - "The Uncounted, Chapters Eight to Nineteen"
-  - "The Banner Houses of Kharven"
-  - "Bram Greymane, Renard Greymane, Wren Greymane and Muken Moto cards"
-  - "Fracture of Worlds, Parts One, Three to Seven, Eleven, Sixteen to Twenty-Three"
-  - "The Eight Families and the Sixty Wellsprings: Materia"
-  - "The Color of Essence; Release Forms"
-pc: false
----
-
 ![[Godfrey Greymane — portrait.jpg]]
 
 # Godfrey Greymane
@@ -37,7 +19,7 @@ pc: false
 
 **Full Name** · Godfrey Greymane
 **Pronunciation** · GOD-free GRAY-mane
-**Alias / Title** · The Shieldwarden, by title before name, as the house requires · Muken's right hand
+**Alias / Title** · The Shieldwarden, by title before name, as the house requires [[Characters/Volume I — Character Cards/Spoil · The Butcher]]· Muken's right hand
 **Also Known As** · Wystan's lad, to the old men of the Stormfold · the King's Wall, in the Stark long houses
 **Race / Lineage** · Human, Kharven northern stock · House Greymane of the Ridgewall, Shieldwardens of the western border
 **Age** · Twenty-four

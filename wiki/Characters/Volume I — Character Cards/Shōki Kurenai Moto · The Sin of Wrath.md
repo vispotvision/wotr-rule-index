@@ -1,23 +1,3 @@
----
-private: true
-type: character-card
-title: "Shōki Kurenai Moto"
-subtitle: "The Sin of Wrath · The Unburied"
-culture: "Moto, Kurenai line"
-rung: full
-as_of: "The present reckoning, Year 715 In Concordance, three centuries after the Hall"
-sources:
-  - "Fracture of Worlds, Parts One, Three to Seven, Eleven, Sixteen to Twenty-Four"
-  - "The Moto Bloodline; The Moto Bloodline, Material Culture"
-  - "Asami and Gisei, The Two States of the Moto"
-  - "The Heresiology of Alchemy"
-  - "The Eight Families and the Sixty Wellsprings: Caloria, Materia, Limina"
-  - "The Color of Essence; Release Forms"
-pc: false
----
-
-# Shōki Kurenai Moto
-
 **Shōki Kurenai Moto** · The Sin of Wrath · Moto, Kurenai line · as of the present reckoning, three centuries after the Hall
 **Stat line** · Level 372 · Band IV, Mythic · Stage XI, Dissonance, trapped · Path Body 70% / Attraction 30% · Grandmaster · η 0.71 · Aether Class V, Radiant, Rot-Born · Crystal Sovereign, Overgrown over an open fracture
 **Combat grammar** · Percussion

@@ -3259,3 +3259,9 @@ Context: Naiser Yukari card rebuild, commit 758a566
 Hild Ice (Stark), the Sword Princess, is retconned out of canon. Her Volume I card is deleted.
 
 Context: Isaac, 2026-10-29, during the cull of Volume I to the new lore. Her name still turns up in the New Lore Reading Order (Lorn's age set against "Hild Ice's era"), in Chapter Eight's notes, and on the Sodoku, Fern, Ayame, Edward, Muken and Renard cards, which all need clearing when those are rewritten.
+
+## 2026-10-29 — new
+
+Ayame Yuno, Sodoku Moto, Edward Lambert and Fern Stark are retconned out of canon for now. Their Volume I cards are deleted, and Sodoku's two technique pages (Tōga and the Arctic Lion configuration) went with his.
+
+Context: Isaac, 2026-10-29, right after the Hild Ice retcon. "For now" means they may come back as new cards. The new lore still names them: the Reading Order lists Ayame as "not yet arrived" and cites Sodoku's card for Kamigan and the Kōkan's Totality, the Verdict of Six notes build Osbert Lambert from Edward's card, and Fern is Lorn's sister in the Reading Order's Lorn note. NATALIE.md's voice roster still names Sodoku.

@@ -20,3 +20,4 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Vaashuuk Snorr-Khal · The Sin of Sloth]]
 - [[Characters/Volume I — Character Cards/Edric Ashmore]]
 - [[Characters/Volume I — Character Cards/Hollis Draycott]]
+- [[Characters/Volume I — Character Cards/Yusif Stark]]

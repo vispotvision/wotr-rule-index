@@ -27,6 +27,19 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-29 — Volume I culled to the new lore (Isaac's decision; recorded by Claude Code)
+
+Isaac had every Volume I card the new lore never names deleted, the old
+voice-roster and villain cards included (Malphas, Yoko, Cozbi, Emira, Charles
+Lambert, Verinus); many will be recreated. 270 cards went. Kept: the cards the
+live `scenes/`, the New Lore Reading Order or the questionnaire decisions name
+(Muken, Yukazuri, Gimbzo, Naiser, Naevra, Lorn, Fern, Hild Ice, Godfrey,
+Renard, Edward Lambert, Borin, Ayame Yuno, Sodoku, Dougou), the cards made
+since the reset (Raizan, Shōki, Vaashuuk), and the Zettari player's Rashani
+and Rengai. `character()` misses on the cut names until they are recreated;
+old text is in git history (the commit before the cull). NATALIE.md's voice
+roster still names cut characters.
+
 ### 2026-10-18 — Lore reset: the old archive is `lore/v1/` (Isaac's decision; recorded by Claude Code)
 
 Archived scenes and table state from before the reset live in `lore/v1/`

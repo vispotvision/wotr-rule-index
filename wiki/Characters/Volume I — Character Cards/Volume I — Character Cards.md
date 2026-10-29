@@ -9,6 +9,7 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Muken Moto]]
 - [[Characters/Volume I — Character Cards/Yukazuri Moto]]
 - [[Characters/Volume I — Character Cards/Gimbzo]]
+- [[Characters/Volume I — Character Cards/Kasane Byakuya]]
 - [[Characters/Volume I — Character Cards/Naiser Yukari]]
 - [[Characters/Volume I — Character Cards/Lorn Stark — The Sword]]
 - [[Characters/Volume I — Character Cards/Hayato Amagiri]]

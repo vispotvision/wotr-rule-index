@@ -9,3 +9,13 @@
   status: open
   thread: the-uncounted
   due_trigger: next hard blow to Amelia's left shoulder
+- id: L002
+  category: who knows what
+  who: Godfrey Greymane
+  text: Listened at the king's door and caught the end of Muken and Amelia's talk, both of them wet-faced;
+    both told him not a word
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: the-uncounted

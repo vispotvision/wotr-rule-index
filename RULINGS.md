@@ -3247,3 +3247,9 @@ Context: Isaac, 2026-10-29, answering the open question in The Uncounted's chapt
 Lorn Stark the Sword-Teacher (Fern's brother, Hild's uncle, 44 in Hild's era) is retconned out of canon. The only Lorn Stark is Ulf Stark's son, Muken Moto's companion in The Uncounted, called The Sword. This supersedes the ruling earlier today that the two were separate men.
 
 Context: Isaac, 2026-10-29: "That other lorn is retconned." The Sword-Teacher's card is moved out of Volume I to Author's Workroom/Retconned. Pages still naming him in the Hild-era role: Hild Ice (Stark), Fern Stark, Osric of Hallenfeld, Edward Lambert, Brida Ashwell, Bram Greymane, Renard Greymane, Robin Ice, Tabitha Hallenfeld, Sodoku Moto, Who's Who, The Two Winters outline, Lorn Stark's Narration Register, and the Card Update Pilot copies. Open: who, if anyone, takes the uncle's place in Hild's story.
+
+## 2026-10-29 — new
+
+Agent call, overturnable: Naiser Yukari's appearance follows Isaac's 2026-10-29 portrait (fair skin, grey-green eyes, low black ponytail, white haori over black, two old-script characters inked down the left of the throat, smoke-leaf), replacing the old card's 'dusky richness' of skin. Level 188 set with a 4,620-point allocation; EU 2,460 kept as a card outlier; AU/s recomputed to 427.2 (480 x 0.89). The founder-versus-Niran's-father question stays open.
+
+Context: Naiser Yukari card rebuild, commit 758a566

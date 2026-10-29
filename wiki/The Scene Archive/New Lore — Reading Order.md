@@ -7,6 +7,8 @@ private: true
 
 The scenes archived after the 2026-10-18 lore reset, in reading order. Two threads run side by side: **The Uncounted** (Muken and Yukazuri in the north) and **the cedar enclave** (Naiser and Naevra Yukari, the Zettari talks, the Moto breakaway). Sources live in `scenes/`; the pages below are their mirrors. *The Uncounted* runs through Chapter Nineteen, the fall of Kharven-Seat and the ratification of the seven lines.
 
+**Compiled book.** *The Uncounted, Book One of the Kōkan* (Chapters One to Nineteen, with The Verdict of Six, The White Knot, The Truth of Muken and The Iron Fist of the Keld as interludes) lives in `book/the-uncounted/`, in a plain edition and an ElevenReader audio edition with Eleven v4 tags, each as Markdown and as dark-and-gold Word. It was built from the scenes as revised 2026-10-24 to R78-4 (colour, magitech in the cities, Rob Stark's death at the Seat), with the 2026-10-25 Faisal retcon carried in. Part Two, *The Two Winters*, is in outline in the Author's Workroom and will sit between Chapters Seventeen and Eighteen.
+
 | # | Scene | Thread |
 |---|---|---|
 | 1 | [[Scenes/The Uncounted, Chapter One The Map at Halcrest]] | Muken |
@@ -78,7 +80,7 @@ Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbe
 - **Hataraki.** Faisal teaches six of the seven Works (Ruins, Purity, Spirit, Temporality, Knowledge, Balance). Totality is withheld: its Obsession face is enforced oneness. Muken's oath: crack nothing at the Seat that is not already dead.
 - **Tsugigane** ("joined iron," and "inheritance") is forged by **Borin Ironheart** from the three pieces of the scrap-iron sword with Yukazuri's seven needles folded in at the old break. The saya is black ash from the Foot's woodpile, and the sageo is Kiyome's white knot cord.
 - **The Samurai of Fate** (*Unmei no Samurai*) are the old Byakuya-sworn guard of the Kōkan; Kasane was the last. Muken's harness is near-black red laced in white, with a crestless helmet.
-- **Kharven-Seat falls.** Ilse Hallenfeld's gold buys the Guild draw-masters, who cut the main; the Thornwood corridors open the east wall; Hibi breaks only the lying ward-stone and the rotten gatehouse. **Kagenori** takes poison at the foot of the silver dais. **Karogane**'s blade breaks on the stair.
+- **Kharven-Seat falls.** Ilse Hallenfeld's gold buys the Guild draw-masters, who cut the main; the Thornwood corridors open the east wall; Hibi breaks only the lying ward-stone and the rotten gatehouse. **Rob Stark** dies in the Hall square stepping across the boy with the red ears; ninety-one others fall with him, their names written in Ilse Hallenfeld's ledger. **Kagenori** takes poison at the foot of the silver dais. **Karogane**'s blade breaks on the stair.
 - **The Hall of Verdicts.** Muken sits the red chair. **Shizuha** and **Karogane** are executed by his own hand at the first bell. **Nanami Shirogane** (Shizuha's younger sister) sits the silver chair and **Shiro Tenrai** (Karogane's elder brother) the gold; Hayato sits the indigo. The unification of the seven lines and the six Banner Houses is ratified and recorded by Ilse Hallenfeld.
 - **Open.** Shiro's son, about ten, is unnamed and "counting" (possibly **Azure Tenrai Moto**, Isaac to confirm). Kagenori's sealed letter, Kasane's red harness in the Shiraki hills, and Ayame Yuno, not yet arrived.
 - New names: the Skeldmere, the Sennet and Haldorsson clans, the Marrow, Thornhaven's Thornwood corridors, Tsugigane.

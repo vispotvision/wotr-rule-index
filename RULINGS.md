@@ -3275,3 +3275,11 @@ Context: Grounds: no new-lore scene states a Stage, Level or technique for any o
 - Muken's Catalysts: Stage V comes from Faisal on the Skeldmere. Hibiware is woken but not callable below Stage VII. Debt Recognition, the Eye of the Splintered Work and the Judgment-field language are kept from the old card because The Grey Wall uses them.
 - Gimbzo's look: from Isaac's 2026-10-29 portrait (long white hair, weathered grey-brown skin, red pinpoint eyes, black high-collared coat). The card leaves open whether he knew his son lived, and how Dougou killed him, which is the Zettari player's to tell.
 - Lorn's card: its stale "Saruul" is corrected to Yukazuri, per R22-2.
+
+## 2026-10-29 — new
+
+Tetsugen Akagane is young, as in Isaac's portrait of 2026-10-29: slender, with messy black curls, gold eyes and a beauty mark under the left eye, in copper-ochre and white robes. He is no longer the big, bald, heavy-faced man a generation older than Hayato, and the scenes are to be re-aged to match. Kiyome Byakuya's hair is gold, also per Isaac's portrait. She is no longer white-haired like Kasane and Yukazuri.
+
+Context: Isaac chose between the portraits and the scenes, and took the portraits both times. Scenes that still say otherwise:
+- Tetsugen's "bald head" in Ch7, Ch9 and The Iron Fist of the Keld; "a whole generation under Tetsugen" in The Truth of Muken; and his "eldest" son, who spoke against a levy.
+- Kiyome's white hair matching Kasane's and Yukazuri's, and recognising her sister's white in Muken in Ch9.

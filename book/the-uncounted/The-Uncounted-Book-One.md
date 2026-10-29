@@ -4665,9 +4665,9 @@ It was burning. A heavy warm light that came off it the way warmth comes off a b
 
 It had wings.
 
-Or it had had them. There were shapes rising from its shoulders that might once have been wings, great curved shapes of the same warm light, but they were broken. Torn. One was gone almost to the root. The other stood up from its shoulder in a long ragged arc that ended in nothing, as though someone had taken it in both hands and pulled. And the figure itself, now that he looked, was not whole either. There was a seam down it. A long dark seam where the light did not reach, running from the crown of the bowed head down through the shoulders and the chest to the knee on the ground. And on the far side of the seam, there was nothing at all.
+Two great curved shapes of the same warm light rose from its shoulders and folded down around it to the ground, held close and low the way a man holds his arms in against a load, and every long feather of them was bent, very slightly, under something Muken could not see. And the figure itself, now that he looked, was bowed under that same weight from the crown of its head to the knee on the ground, and steady, and not moving at all.
 
-*Half,* thought Muken. *Less than half. Somebody cut it into pieces.*
+*It's holding something up,* thought Muken. *Something enormous. And it has been holding it a long time.*
 
 "Six," said the voice. "Into six. This is one."
 
@@ -4679,11 +4679,11 @@ It did not have a face. It had where a face would be, and in that place there wa
 
 "Who are you?"
 
-"I was called Faisal," said the kneeling figure. "Once, when I was whole. The Grand Angel of Servitude. The Bound Flame. He who kneels at the edge of creation." The light moved very slightly, as if something under it had smiled. "Now I am a sixth of that, kept in the place where the threads run, so that no one who can find me can also free me. It was very cleverly done." The light dimmed, a little. "He was always clever."
+"I am called Faisal," said the kneeling figure. "The Grand Angel of Servitude. The Bound Flame. He who kneels at the edge of creation." The light moved very slightly, as if something under it had smiled. "I kneel here, in the place where the threads run, under the weight the Bell can no longer hold, and I do not get up. It is a small kingdom. It is the one I chose."
 
 "Why am I here?"
 
-"Because you were falling," said Faisal. "And I do not let things fall. It is the only thing I was ever made to do." The bright places where eyes would be did not move from him. "And because you swore an oath, two nights ago, on your honour, by a woodpile, in front of six hundred people. I heard it. I hear every oath that is sworn on honour, even now, even like this. I heard it, and it was true. Every word of it was true." The light warmed. "Do you know how rarely I hear that? A king, swearing, and every word of it true?"
+"Because you were falling," said Faisal. "And I do not let things fall. It is the only thing I was ever made to do." The bright places where eyes would be did not move from him. "And because you swore an oath, two nights ago, on your honour, by a woodpile, in front of six hundred people. I heard it. I hear every oath that is sworn on honour, even here, even under this. I heard it, and it was true. Every word of it was true." The light warmed. "Do you know how rarely I hear that? A king, swearing, and every word of it true?"
 
 Muken did not answer.
 
@@ -4691,7 +4691,7 @@ Muken did not answer.
 
 The threads hummed.
 
-"You read cracks," said the kneeling figure. "You have always read them. You think it is a gift of your blood. Every bearer learns it first, because a crack is where the weight shows. Everything that carries a load carries it imperfectly, and the imperfection is where the load collects. In stone. In iron. In bone. In a host of riders on the ice. In a man." The broken wing moved slightly. "You see where the weight has gathered, and you have learned to strike there. That is a mercenary's use of it. It is a good use. It has kept you alive."
+"You read cracks," said the kneeling figure. "You have always read them. You think it is a gift of your blood. Every bearer learns it first, because a crack is where the weight shows. Everything that carries a load carries it imperfectly, and the imperfection is where the load collects. In stone. In iron. In bone. In a host of riders on the ice. In a man." One great wing moved slightly under the weight. "You see where the weight has gathered, and you have learned to strike there. That is a mercenary's use of it. It is a good use. It has kept you alive."
 
 "But," said Muken.
 
@@ -4717,7 +4717,7 @@ The threads began to tremble.
 
 "Will I see you again?"
 
-"If you live," said the Bound Flame, from very far away, "and if you keep your word. One sixth of me is very little. But it is a sixth that does not forget."
+"If you live," said the Bound Flame, from very far away, "and if you keep your word. I kneel a very long way from anywhere. But I do not forget."
 
 And the threads went white.
 
@@ -5321,7 +5321,7 @@ There was no light. There was no sound. Nobody on the walls saw anything come. B
 
 And there was someone standing beside him.
 
-Lorn Stark, in the barracks door, saw a figure. He said so afterward, and Godfrey said so too, and neither of them could ever say more. A tall figure, very tall, taller than the Zettari, standing in the snow a pace to the king's left, made of the same pale noon light as everything else in the yard but somehow more of it, burning gold along its edges, so that it was hard to look at directly, like the sun through cloud. They could not see its face. They could not see its feet. They thought, both of them, separately, that it had wings, or had had them once, and that the wings were broken.
+Lorn Stark, in the barracks door, saw a figure. He said so afterward, and Godfrey said so too, and neither of them could ever say more. A tall figure, very tall, taller than the Zettari, standing in the snow a pace to the king's left, made of the same pale noon light as everything else in the yard but somehow more of it, burning gold along its edges, so that it was hard to look at directly, like the sun through cloud. They could not see its face. They could not see its feet. They thought, both of them, separately, that it had wings, enormous, folded close against it as if under a weight neither of them could see.
 
 Muken did not stop cutting.
 
@@ -5329,7 +5329,7 @@ Muken did not stop cutting.
 
 The voice was the quietest thing in the yard. It was the voice from the place made of threads, low and warm and very far away and very near. Every man on the walls of Kharven's Foot heard it, and not one of them could have said afterward what language it spoke.
 
-"Such viciousness." The broken light did not move. "Do you think you can win like this?"
+"Such viciousness." The tall light did not move. "Do you think you can win like this?"
 
 The heavy iron went round Muken's head and came down into the snow with a sound like an axe into a stump.
 
@@ -5343,13 +5343,13 @@ He stopped with the drill-sword buried a hand's depth in the trampled snow, his 
 
 It came out of him low and cracked. It was the first thing he had said in two days.
 
-"What do *you* know about it?" He straightened. He turned, with the heavy iron coming up out of the snow in his hands, and looked at the tall broken light beside him with the gold eye blazing. "You're an angel. A sixth of one. Sent down here to fix the world. Something that sits in a place made of threads and thinks it knows everything because it can see the strings." His voice rose. "That's what the Moto think. Did you know that? Every one of them. They think they're the ones who hold the strings. That's what *she* thought, whoever she is in her silver chair, when she had my sister's head cut off and sent down the river on a pike for me to find." He was shouting now. "You're the same! You're exactly the same as the ones who killed her!"
+"What do *you* know about it?" He straightened. He turned, with the heavy iron coming up out of the snow in his hands, and looked at the tall light beside him with the gold eye blazing. "You're an angel. The last one. Sent down here to fix the world. Something that sits in a place made of threads and thinks it knows everything because it can see the strings." His voice rose. "That's what the Moto think. Did you know that? Every one of them. They think they're the ones who hold the strings. That's what *she* thought, whoever she is in her silver chair, when she had my sister's head cut off and sent down the river on a pike for me to find." He was shouting now. "You're the same! You're exactly the same as the ones who killed her!"
 
 The yard was very quiet.
 
 Faisal put his hands behind his back.
 
-It was a small movement. The broken light simply shifted, at the place where its arms would be, and drew them back, and clasped them there, and stood. And something in the way it stood made Lorn Stark, in the barracks door, go cold all down his back, though he could not have said why, and never knew. He had never been in the Shirogane house at Kharven-Seat. He had never seen Shizuha Shirogane stand at the foot of her silver dais with her hands clasped behind her back, looking down at a kneeling girl.
+It was a small movement. The tall light simply shifted, at the place where its arms would be, and drew them back, and clasped them there, and stood. And something in the way it stood made Lorn Stark, in the barracks door, go cold all down his back, though he could not have said why, and never knew. He had never been in the Shirogane house at Kharven-Seat. He had never seen Shizuha Shirogane stand at the foot of her silver dais with her hands clasped behind her back, looking down at a kneeling girl.
 
 The Bound Flame looked at the king of the north, and let the silence stand.
 
@@ -5385,7 +5385,7 @@ It did not fade. It did not dissolve. It was simply gone, between one breath and
 
 The drill-sword was gone from his hands.
 
-Faisal was in front of him. Standing upright, where in the place made of threads he had knelt: tall, the broken light gathered into the shape of a figure with the seam running down it and the ruined wings standing from its shoulders, and for the first time Muken understood how terribly tall it was, and how terribly much of it was missing.
+Faisal was in front of him. Standing upright, where in the place made of threads he had knelt: tall, the light gathered into the shape of a figure with the great wings standing from its shoulders, and for the first time Muken understood how terribly tall it was, and how much it was carrying even now, standing.
 
 "Hold still," said Faisal.
 
@@ -5425,7 +5425,7 @@ He was standing in the white among the dissolving threads with his hands behind 
 
 "Asami's in pieces," said Muken. His voice was strange here. It did not seem to come from anywhere. "On an anvil. In the Foot."
 
-"Asami is the word a blade of your house answers to while it sleeps," said Faisal. "The steel only carried it. It sleeps in the pieces now. It will answer when you call it." The broken wing shifted. "Not yet."
+"Asami is the word a blade of your house answers to while it sleeps," said Faisal. "The steel only carried it. It sleeps in the pieces now. It will answer when you call it." One great wing shifted. "Not yet."
 
 He was quiet a moment.
 
@@ -5507,7 +5507,7 @@ All of it. Every stone and bowl and branch and blade, the rotten and the sound, 
 
 And Faisal flickered.
 
-The broken light standing beside him went dim all at once, as if a wind had blown through it, and the long dark seam down the middle of it widened, and one of the ruined wings shuddered, and a little of the warm light came away from its edge and drifted off into the white like sparks off a fire, and did not come back.
+The tall light standing beside him went dim all at once, as if a wind had blown through it, and a crack of dark ran down the middle of it, and one of the great wings shuddered, and a little of the warm light came away from its edge and drifted off into the white like sparks off a fire, and did not come back.
 
 Muken stared at it.
 
@@ -5515,7 +5515,7 @@ Muken stared at it.
 
 "I..." Muken stopped.
 
-"I am a crack too," said the Bound Flame. "One sixth of something that was made whole. Everything I am is a seam where the rest of me was cut away." The light steadied, slowly, dimmer than before. "Obsession does not choose what it ends. That is the whole of what I needed you to see. Now you have seen it."
+"I am a crack too," said the Bound Flame. "Everything that carries a load carries it imperfectly. I have carried this one for longer than your north has had a name, and you have just found where it gathers in me." The light steadied, slowly, dimmer than before. "Obsession does not choose what it ends. That is the whole of what I needed you to see. Now you have seen it."
 
 Muken looked at the broken things in the white. At the sound green branch lying in pieces beside the rotten rope. At the dimmed light beside him that had knelt under the weight of the whole world for longer than the north had had a name, and had come down out of the place where the threads run to stand beside him in a yard in the snow, and that he had just hurt.
 
@@ -5583,15 +5583,15 @@ It came out of him in a whisper.
 
 The white began to grey at the edges.
 
-"Go back," said Faisal. "They are frightened for you in the yard. The Stark has not moved from that door in a day and a half. And your sister is still lying in the cold, and the Waiting is not finished." The light dimmed further. "I will come again. Not every day. When you need it, and when I can. One sixth of me does not go far." A pause. "Practise on rope. Not on men, not yet."
+"Go back," said Faisal. "They are frightened for you in the yard. The Stark has not moved from that door in a day and a half. And your sister is still lying in the cold, and the Waiting is not finished." The light dimmed further. "I will come again. Not every day. When you need it, and when I can. What kneels at the edge does not go far from it." A pause. "Practise on rope. Not on men, not yet."
 
 "Faisal," said Muken.
 
-The broken light stopped dimming.
+The light stopped dimming.
 
 "I'm sorry," said Muken. "For what I said. In the yard." He swallowed, in a throat he did not have. "And for the wing."
 
-The Bound Flame looked at him across the greying white, and a little warmth came back into the broken light.
+The Bound Flame looked at him across the greying white, and a little warmth came back into the dimmed light.
 
 "Swear by your honour," said Faisal, "as the Stark taught you. And keep it. I will mend."
 
@@ -6033,9 +6033,9 @@ They came up out of the stone shelf under him and down out of the dark above, go
 
 Faisal was kneeling in front of him.
 
-He was as he had been the first time, on the ice: bowed, one knee down and the other drawn up, with the whole weight of the threads coming down on his back and shoulders and running through him and out of him into the dark below, and holding it. The broken wings. The long dark seam down the middle of him where the rest was gone. The warm heavy light, gold and white, that made Muken want to say every true thing he knew.
+He was as he had been the first time, on the ice: bowed, one knee down and the other drawn up, with the whole weight of the threads coming down on his back and shoulders and running through him and out of him into the dark below, and holding it. The great wings folded low around him under the weight. The warm heavy light, gold and white, that made Muken want to say every true thing he knew.
 
-But the light was dimmer than it had been. And at the edge of one of the ruined wings, where Muken in the white space had cracked the whole row of things in his rage, there was a place where the light did not reach any more. A small place. A missing piece.
+But the light was dimmer than it had been. And at the edge of one of the great wings, where Muken in the white space had cracked the whole row of things in his rage, there was a place where the light did not reach any more. A small place. A missing piece.
 
 "You came on your own," said Faisal.
 
@@ -6303,7 +6303,7 @@ Muken was silent a long moment.
 
 The sixth Work was the one Faisal had been kneeling under since the world was young.
 
-"*Baransu no Shigoto,*" he said. "The Work of Balance. It keeps opposites from tearing the world apart. Ruin and Purity. Life and death. Law and freedom. Motion and stillness." The broken wing moved slightly under its burden. "It does not make them the same. It gives each its proper weight, so the world can carry the strain and not break."
+"*Baransu no Shigoto,*" he said. "The Work of Balance. It keeps opposites from tearing the world apart. Ruin and Purity. Life and death. Law and freedom. Motion and stillness." One great wing moved slightly under its burden. "It does not make them the same. It gives each its proper weight, so the world can carry the strain and not break."
 
 He was quiet a moment.
 
@@ -6335,7 +6335,7 @@ It got lighter. There was as much of it as ever; it was moving now.
 
 They knelt together a long time, the Bound Flame and the boy, under the weight of the threads, in the place where the Works were written.
 
-And at some point, Muken noticed that the dark place on the edge of Faisal's broken wing, the small missing piece where the light no longer reached, was not as dark as it had been. A little of the warm light was coming back into it, gold seeping into the gap the way dawn seeps into a valley. Very little. A hair's breadth.
+And at some point, Muken noticed that the dark place on the edge of Faisal's wing, the small missing piece where the light no longer reached, was not as dark as it had been. A little of the warm light was coming back into it, gold seeping into the gap the way dawn seeps into a valley. Very little. A hair's breadth.
 
 He kept it to himself, and was glad.
 
@@ -6405,7 +6405,7 @@ At the end of it, Faisal lifted his hand from the weight he carried one last tim
 
 "Will I see you again?"
 
-"When you need it," said Faisal, "and when I can. One sixth of me does not go far." The light shifted, as if something under it had smiled. "But I think you will not need me so often now."
+"When you need it," said Faisal, "and when I can. What kneels at the edge does not go far from it." The light shifted, as if something under it had smiled. "But I think you will not need me so often now."
 
 "I'll swear it," said Muken. "The oath you asked for. For the Seat."
 

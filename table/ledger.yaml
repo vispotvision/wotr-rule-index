@@ -1,0 +1,11 @@
+- id: L001
+  category: injuries and reserve
+  who: Amelia Greymane
+  text: Left pauldron has a hairline crack in its second lame and will split on the next hard blow to
+    the shoulder; she refused Muken's offer to pay for repairs and says she will mend it herself
+  opened: '2026-10-29'
+  opened_session: 1
+  due: null
+  status: open
+  thread: the-uncounted
+  due_trigger: next hard blow to Amelia's left shoulder

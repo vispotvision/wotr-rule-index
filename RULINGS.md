@@ -3283,3 +3283,9 @@ Tetsugen Akagane is young, as in Isaac's portrait of 2026-10-29: slender, with m
 Context: Isaac chose between the portraits and the scenes, and took the portraits both times. Scenes that still say otherwise:
 - Tetsugen's "bald head" in Ch7, Ch9 and The Iron Fist of the Keld; "a whole generation under Tetsugen" in The Truth of Muken; and his "eldest" son, who spoke against a levy.
 - Kiyome's white hair matching Kasane's and Yukazuri's, and recognising her sister's white in Muken in Ch9.
+
+## 2026-10-29 — new
+
+The Southern Warlords are the great houses of the Inner World's south, below the Moto border and never bound to the Kōkan crown. The Yukari and the Mahuo are among them, and so are the Lamberts, a house of the Holy Sea of Alabaster. This places the Holy Sea of Alabaster in the Inner World's south.
+
+Context: 2026-10-29, Isaac: "We need to make the houses of the inner world south like the Lambert in The Holy Sea of Alabaster ... include the Yukari, these are known as the southern warlords"; "More obvious ones are yukari and Mahuo". Written up at wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords.md (commit 51cd5a6). Seven houses: Yukari, Mahuo (Sum-gol's chair empty), Lambert, the Yan Hall, Ryu, Corwen and Marrick. The last four are invented and his to strike.

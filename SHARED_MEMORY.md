@@ -33,13 +33,14 @@ Isaac had every Volume I card the new lore never names deleted, the old
 voice-roster and villain cards included (Malphas, Yoko, Cozbi, Emira, Charles
 Lambert, Verinus); many will be recreated. 270 cards went. Kept: the cards the
 live `scenes/`, the New Lore Reading Order or the questionnaire decisions name
-(Muken, Yukazuri, Gimbzo, Naiser, Naevra, Lorn, Fern, Godfrey,
-Renard, Edward Lambert, Borin, Ayame Yuno, Sodoku, Dougou), the cards made
+(Muken, Yukazuri, Gimbzo, Naiser, Naevra, Lorn, Godfrey, Renard,
+Borin, Dougou), the cards made
 since the reset (Raizan, Shōki, Vaashuuk), and the Zettari player's Rashani
 and Rengai. `character()` misses on the cut names until they are recreated;
 old text is in git history (the commit before the cull). NATALIE.md's voice
-roster still names cut characters. Hild Ice's card was cut the same
-day: Isaac retconned her.
+roster still names cut characters. Isaac then retconned Hild Ice, and,
+for now, Ayame Yuno, Sodoku, Edward Lambert and Fern Stark; their cards were
+cut the same day.
 
 ### 2026-10-18 — Lore reset: the old archive is `lore/v1/` (Isaac's decision; recorded by Claude Code)
 

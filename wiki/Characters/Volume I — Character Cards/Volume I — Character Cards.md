@@ -26,3 +26,4 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Mark Stark]]
 - [[Characters/Volume I — Character Cards/Hisae Thornwall]]
 - [[Characters/Volume I — Character Cards/Wystan Greymane]]
+- [[Characters/Volume I — Character Cards/Amelia Greymane]]

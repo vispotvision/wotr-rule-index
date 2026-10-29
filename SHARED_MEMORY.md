@@ -37,7 +37,8 @@ Lambert, Verinus, Sodoku). Retconned out by his ruling: Hild Ice, and for now
 Ayame Yuno, Sodoku, Edward Lambert and Fern Stark. Also cut: Dougou (no longer
 his to run), Naiser and Naevra Yukari (the cedar enclave thread), Borin and
 Raizan. Kept: Muken, Yukazuri, Gimbzo, Lorn, Godfrey, Shōki, Vaashuuk,
-Renard, and the Zettari player's Rashani and Rengai. Many cut characters will
+Renard, and the Zettari player's Rengai. Rashani was cut too: Isaac no
+longer runs him. Many cut characters will
 be recreated; old text is in git history. `character()` misses on cut names,
 and NATALIE.md's voice roster still names cut characters.
 

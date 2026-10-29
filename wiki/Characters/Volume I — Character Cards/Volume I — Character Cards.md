@@ -14,5 +14,4 @@ title: "Volume I — Character Cards"
 - [[Characters/Volume I — Character Cards/Shōki Kurenai Moto · The Sin of Wrath]]
 - [[Characters/Volume I — Character Cards/Vaashuuk Snorr-Khal · The Sin of Sloth]]
 - [[Characters/Volume I — Character Cards/Renard Greymane — The Left of the Throne]]
-- [[Characters/Volume I — Character Cards/Rashani Zettari]]
 - [[Characters/Volume I — Character Cards/Rengai Zettari]]

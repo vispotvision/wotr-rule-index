@@ -3235,3 +3235,9 @@ Context: Isaac, 2026-10-25, answering the open item on the previous Faisal rulin
 Agent ruling: with Faisal never divided, the Shattering is Malakar cracking the Lawbell at Highspire. Every externally anchored Celestial was Severed in the same hour; Faisal alone, whose Domain was grown rather than borrowed, came through whole and went to kneel under the cracked Bell's weight at the edge of creation, the place where the threads run, where he still hears every oath sworn on honour. The Host's losses, the census figures and the end of new Singings stand as before.
 
 Context: Grounds: Isaac's ruling 2026-10-25 that Faisal was never divided, with the Shattering kept as the war's turning point; the Celestial Host page's own mechanics (Celestials externally anchored through the Lawbell; a Grand Angel defined by a Domain of his own; no Celestial Sung since) and the Uncounted scenes' kneeling Faisal in the place where the threads run. Applied to The Celestial Host, Sancta Lux, The Powers of the Imperial Age, Lucius Xenotro, New Lore Reading Order, and The Uncounted chapters Thirteen, Fifteen and Seventeen (wiki and scenes/ copies). Isaac may overturn.
+
+## 2026-10-29 — new
+
+There are two Lorn Starks. Lorn Stark of The Uncounted, Ulf Stark's son and Muken Moto's companion, called The Sword, is an earlier Lorn with his own card. Lorn Stark the Sword-Teacher, Fern's brother and Hild's uncle (44 in Hild's era), is a later Stark named for him. The Sword-Teacher's card is unchanged.
+
+Context: Isaac, 2026-10-29, answering the open question in The Uncounted's chapter notes ("Either his card's age moves, or this is an earlier Lorn the later one is named for") while commissioning Lorn "The Sword" Stark's card with a portrait.

@@ -3241,3 +3241,9 @@ Context: Grounds: Isaac's ruling 2026-10-25 that Faisal was never divided, with 
 There are two Lorn Starks. Lorn Stark of The Uncounted, Ulf Stark's son and Muken Moto's companion, called The Sword, is an earlier Lorn with his own card. Lorn Stark the Sword-Teacher, Fern's brother and Hild's uncle (44 in Hild's era), is a later Stark named for him. The Sword-Teacher's card is unchanged.
 
 Context: Isaac, 2026-10-29, answering the open question in The Uncounted's chapter notes ("Either his card's age moves, or this is an earlier Lorn the later one is named for") while commissioning Lorn "The Sword" Stark's card with a portrait.
+
+## 2026-10-29 — new
+
+Lorn Stark the Sword-Teacher (Fern's brother, Hild's uncle, 44 in Hild's era) is retconned out of canon. The only Lorn Stark is Ulf Stark's son, Muken Moto's companion in The Uncounted, called The Sword. This supersedes the ruling earlier today that the two were separate men.
+
+Context: Isaac, 2026-10-29: "That other lorn is retconned." The Sword-Teacher's card is moved out of Volume I to Author's Workroom/Retconned. Pages still naming him in the Hild-era role: Hild Ice (Stark), Fern Stark, Osric of Hallenfeld, Edward Lambert, Brida Ashwell, Bram Greymane, Renard Greymane, Robin Ice, Tabitha Hallenfeld, Sodoku Moto, Who's Who, The Two Winters outline, Lorn Stark's Narration Register, and the Card Update Pilot copies. Open: who, if anyone, takes the uncle's place in Hild's story.

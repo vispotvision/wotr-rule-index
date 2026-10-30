@@ -68,3 +68,33 @@ assert c2.post("/auth/key", json={"key": k.lower()}, headers=W).status_code == 2
 assert c2.post("/auth/key", json={"key": "0000-0000-0000-0000"}, headers=W).status_code == 401
 assert c2.post("/auth/key", json={"key": k}).status_code == 403
 print("ok keys")
+
+# sharing: a link shows the entry and only its images to anyone; a copy lands in the viewer's own
+# library with its own images; turning sharing off kills the link
+S.DEV = True
+a = client("SharerA")
+e = a.post("/api/entries", json={"kind": "character", "title": "Ka<b>ito", "data": {"epithet": "the Ember"}}, headers=W).json()
+png = io.BytesIO(); Image.new("RGB", (8, 8), "blue").save(png, "PNG")
+iid = a.post(f"/api/entries/{e['id']}/images", files={"file": ("x.png", png.getvalue(), "image/png")}, headers=W).json()["id"]
+other = a.post("/api/entries", json={"kind": "lore", "title": "secret"}, headers=W).json()
+png2 = io.BytesIO(); Image.new("RGB", (8, 8), "green").save(png2, "PNG")
+secret_img = a.post(f"/api/entries/{other['id']}/images", files={"file": ("y.png", png2.getvalue(), "image/png")}, headers=W).json()["id"]
+assert anon.get("/api/shared/nope").status_code == 404
+tok = a.put(f"/api/entries/{e['id']}/share", json={"on": True}, headers=W).json()["share"]
+assert a.put(f"/api/entries/{e['id']}/share", json={"on": True}, headers=W).json()["share"] == tok   # stable
+assert b.put(f"/api/entries/{e['id']}/share", json={"on": True}, headers=W).status_code == 404      # not B's
+pub = anon.get(f"/api/shared/{tok}").json()
+assert pub["title"] == "Ka<b>ito" and pub["owner"] == "SharerA" and pub["images"] == [iid] and "owner" not in pub["data"]
+assert anon.get(f"/s/{tok}/img/{iid}").status_code == 200
+assert anon.get(f"/s/{tok}/img/{secret_img}").status_code == 404                                   # not this entry's
+page = anon.get(f"/s/{tok}").text
+assert 'og:title" content="Ka&lt;b&gt;ito · WOTR Workshop"' in page and "og:image" in page and "<b>ito" not in page
+assert anon.post(f"/api/shared/{tok}/copy", headers=W).status_code == 401
+cid = b.post(f"/api/shared/{tok}/copy", headers=W).json()["id"]
+mine = b.get(f"/api/entries/{cid}").json()
+assert mine["title"] == "Ka<b>ito" and mine["portrait"] and mine["portrait"] != iid and mine["share"] is None
+assert b.get(f"/api/images/{mine['portrait']}").status_code == 200
+assert a.put(f"/api/entries/{e['id']}/share", json={"on": False}, headers=W).json()["share"] is None
+assert anon.get(f"/api/shared/{tok}").status_code == 404 and anon.get(f"/s/{tok}/img/{iid}").status_code == 404
+assert anon.get(f"/s/{tok}").status_code == 404
+print("ok sharing")

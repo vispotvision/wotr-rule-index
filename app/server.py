@@ -62,6 +62,11 @@ def db() -> sqlite3.Connection:
         portrait TEXT, created TEXT, updated TEXT);
     CREATE TABLE IF NOT EXISTS images(id TEXT PRIMARY KEY, owner INTEGER, entry_id TEXT, ext TEXT, created TEXT);
     """)
+    try:  # sharing, added 2026-10-30: an unguessable token per shared entry, NULL when private
+        con.execute("ALTER TABLE entries ADD COLUMN share TEXT")
+        con.execute("CREATE UNIQUE INDEX IF NOT EXISTS entries_share ON entries(share)")
+    except sqlite3.OperationalError:
+        pass
     return con
 
 
@@ -306,7 +311,7 @@ async def entries(request, user):
         if request.method == "GET":
             rows = con.execute("SELECT id, kind, title, portrait, updated, json_extract(data,'$.epithet') AS epithet, "
                                "json_extract(data,'$.aura') AS aura, json_extract(data,'$.culture') AS culture, "
-                               "json_extract(data,'$.kindOf') AS kindOf FROM entries WHERE owner=? ORDER BY updated DESC",
+                               "json_extract(data,'$.kindOf') AS kindOf, share IS NOT NULL AS shared FROM entries WHERE owner=? ORDER BY updated DESC",
                                (user["id"],)).fetchall()
             return JSONResponse([dict(r) for r in rows])
         body = await request.json()
@@ -315,7 +320,7 @@ async def entries(request, user):
             raise ValueError("kind must be one of " + ", ".join(KINDS))
         eid = secrets.token_urlsafe(9)
         data = json.dumps(body.get("data") or {}, ensure_ascii=False)
-        con.execute("INSERT INTO entries VALUES(?,?,?,?,?,?,?,?)",
+        con.execute("INSERT INTO entries(id, owner, kind, title, data, portrait, created, updated) VALUES(?,?,?,?,?,?,?,?)",
                     (eid, user["id"], kind, str(body.get("title") or "")[:200], data, None, now(), now()))
         return JSONResponse(entry_out(own_entry(con, user, eid)), status_code=201)
 
@@ -419,6 +424,95 @@ async def tool(request, user):
     return JSONResponse({"text": text, "error": bool(getattr(res, "is_error", False))})
 
 
+@api
+async def entry_share(request, user):
+    """Turn an entry's share link on (a fresh unguessable token) or off."""
+    eid = request.path_params["eid"]
+    on = bool((await request.json()).get("on"))
+    with db() as con:
+        row = own_entry(con, user, eid)
+        token = (row["share"] or secrets.token_urlsafe(12)) if on else None
+        con.execute("UPDATE entries SET share=? WHERE id=?", (token, eid))
+    return JSONResponse({"share": token})
+
+
+def shared_row(con, token: str):
+    row = con.execute("SELECT e.*, u.name AS owner_name FROM entries e JOIN users u ON u.id = e.owner WHERE e.share=?",
+                      (token,)).fetchone() if token else None
+    if not row:
+        raise LookupError(token)
+    return row
+
+
+async def shared(request: Request):
+    """A shared entry, read-only, for anyone holding the link."""
+    try:
+        with db() as con:
+            row = shared_row(con, request.path_params["token"])
+            imgs = [r["id"] for r in con.execute("SELECT id FROM images WHERE entry_id=? ORDER BY created", (row["id"],))]
+    except LookupError:
+        return JSONResponse({"error": "This link is not shared, or it was turned off."}, status_code=404)
+    return JSONResponse({"kind": row["kind"], "title": row["title"], "data": json.loads(row["data"] or "{}"),
+                         "portrait": row["portrait"], "images": imgs, "owner": row["owner_name"], "updated": row["updated"]})
+
+
+async def shared_image(request: Request):
+    try:
+        with db() as con:
+            row = shared_row(con, request.path_params["token"])
+            img = con.execute("SELECT id, ext FROM images WHERE id=? AND entry_id=?", (request.path_params["iid"], row["id"])).fetchone()
+    except LookupError:
+        img = None
+    if not img:
+        return Response("not found", status_code=404)
+    return FileResponse(IMAGES / f"{img['id']}.{img['ext']}", headers={"Cache-Control": "public, max-age=3600"})
+
+
+@api
+async def shared_copy(request, user):
+    """Save a copy of a shared entry, with its images, into the signed-in user's own library."""
+    with db() as con:
+        row = shared_row(con, request.path_params["token"])
+        eid, stamp = secrets.token_urlsafe(9), now()
+        con.execute("INSERT INTO entries(id, owner, kind, title, data, portrait, created, updated) VALUES(?,?,?,?,?,?,?,?)",
+                    (eid, user["id"], row["kind"], row["title"], row["data"], None, stamp, stamp))
+        IMAGES.mkdir(parents=True, exist_ok=True)
+        for img in con.execute("SELECT id, ext FROM images WHERE entry_id=? ORDER BY created", (row["id"],)).fetchall():
+            src = IMAGES / f"{img['id']}.{img['ext']}"
+            if not src.exists():
+                continue
+            iid = secrets.token_urlsafe(12)
+            (IMAGES / f"{iid}.{img['ext']}").write_bytes(src.read_bytes())
+            con.execute("INSERT INTO images VALUES(?,?,?,?,?)", (iid, user["id"], eid, img["ext"], stamp))
+            if img["id"] == row["portrait"]:
+                con.execute("UPDATE entries SET portrait=? WHERE id=?", (iid, eid))
+    return JSONResponse({"id": eid}, status_code=201)
+
+
+async def share_page(request: Request):
+    """The app shell for /s/<token>, with Open Graph tags so a pasted link unfurls as a card."""
+    from html import escape
+    page = (APP / "static" / "index.html").read_text(encoding="utf-8")
+    try:
+        with db() as con:
+            row = shared_row(con, request.path_params["token"])
+    except LookupError:
+        return Response(page, media_type="text/html", status_code=404)
+    d = json.loads(row["data"] or "{}")
+    title = (row["title"] or "Untitled") + " · WOTR Workshop"
+    desc = " · ".join(x for x in [d.get("epithet"), d.get("kindOf"), d.get("culture"), row["kind"].title(), "by " + row["owner_name"]] if x)
+    base = base_url(request)
+    tags = [f'<meta property="og:title" content="{escape(title)}">', f'<meta property="og:description" content="{escape(desc)}">',
+            f'<meta name="description" content="{escape(desc)}">', '<meta property="og:type" content="website">',
+            '<meta property="og:site_name" content="WOTR Workshop">', '<meta name="theme-color" content="#cf3a2b">',
+            f'<meta property="og:url" content="{escape(base + request.url.path)}">']
+    if row["portrait"]:
+        tags += [f'<meta property="og:image" content="{escape(base + request.url.path)}/img/{escape(row["portrait"])}">',
+                 '<meta name="twitter:card" content="summary_large_image">']
+    page = page.replace("<title>WOTR Workshop</title>", f"<title>{escape(title)}</title>\n" + "\n".join(tags))
+    return Response(page, media_type="text/html", headers={"Cache-Control": "no-cache"})
+
+
 async def index(request: Request):
     return FileResponse(APP / "static" / "index.html", headers={"Cache-Control": "no-cache"})
 
@@ -437,6 +531,11 @@ routes = [
     Route("/api/entries/{eid}", entry, methods=["GET", "PUT", "DELETE"]),
     Route("/api/entries/{eid}/images", entry_images, methods=["GET", "POST"]),
     Route("/api/images/{iid}", image, methods=["GET", "DELETE"]),
+    Route("/api/entries/{eid}/share", entry_share, methods=["PUT"]),
+    Route("/api/shared/{token}", shared),
+    Route("/api/shared/{token}/copy", shared_copy, methods=["POST"]),
+    Route("/s/{token}", share_page),
+    Route("/s/{token}/img/{iid}", shared_image),
     Route("/api/tools", tools),
     Route("/api/tool/{name}", tool, methods=["POST"]),
     Mount("/static", StaticFiles(directory=APP / "static")),

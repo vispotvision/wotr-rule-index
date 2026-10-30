@@ -158,12 +158,28 @@ function cardMarkdown(e) {
   return `# ${e.title}\n\n` + L('Kind', d.kindOf) + L('Era', d.era) + L('Culture', d.culture) + L('Leader', d.leader) + L('Wants', d.wants) + L('Holdings', d.holdings) +
     (d.body ? `\n${d.body}\n` : '') + (d.senses ? `\n${d.senses}\n` : '');
 }
+function cardRows(e) {
+  const d = e.data, st = S.canon.stages.find((s) => s.numeral === d.stage);
+  return e.kind === 'character' ? [['Culture', d.culture], ['Stage', st && `${st.numeral} · ${st.name}`], ['Path', d.path], ['Aether Class', d.aetherClass],
+    ['Crystal', [d.crystalTier, d.crystalState].filter(Boolean).join(', ')], ['Wellsprings', (d.wellsprings || []).join(', ')], ['Aura', [auraName(d.aura || ''), d.auraSound].filter(Boolean).join(' · ')],
+    ['Traits', (d.traits || []).map((t) => t.name).filter(Boolean).join(', ')], ['Voice', d.voiceLine && `\u201c${d.voiceLine}\u201d`]]
+    : [['Kind', d.kindOf], ['Owner', d.owner], ['Tier', d.tier], ['Wellspring', d.wellspring], ['Cost', d.cost], ['Counter', d.counter]];
+}
+// The Guild assay plate; imgFn turns an image id into a URL (own images or a share link's).
+function assay(e, imgFn, rows = cardRows(e)) {
+  const d = e.data, p = e.portrait;
+  return `<div class="assay"><div class="seal" aria-hidden="true">GUILD<br>ASSAY</div>
+    <div class="top"><div class="mini">${p ? `<img src="${imgFn(p)}" alt="">` : `<span class="glyph" aria-hidden="true">${esc((e.title || '?')[0])}</span>`}</div>
+    <div style="flex:1 1 240px;min-width:0"><h3>${esc(e.title || 'Untitled')}</h3>
+    <p class="sub">${esc([d.epithet, d.gloss, KIND[e.kind].label].filter(Boolean).join(' · '))}</p></div></div>
+    <dl>${rows.filter((r) => r[1]).map(([a, b]) => `<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('') || '<dd class="hint">Fill the sections and the plate fills itself.</dd>'}</dl></div>`;
+}
 const auraName = (hex) => (AURAS.find((a) => a[1] === hex) || [hex])[0];
 
 // ---------- views ----------
 
 function nav(active) {
-  $('#nav').innerHTML = S.me ? [['#/', 'Library', 'lib'], ['#/ai', 'Your AI', 'ai'], ['#/scenes', 'Scenes', 'scenes']].map(([h, l, k]) =>
+  $('#nav').innerHTML = S.me ? [['/#/', 'Library', 'lib'], ['/#/ai', 'Your AI', 'ai'], ['/#/scenes', 'Scenes', 'scenes']].map(([h, l, k]) =>
     `<a href="${h}"${k === active ? ' aria-current="page"' : ''}>${l}${k === 'scenes' ? '<span class="soon">soon</span>' : ''}</a>`).join('') : '';
   $('#who').innerHTML = S.me ? `${S.me.avatar ? `<img src="${esc(S.me.avatar)}" alt="">` : `<span class="avatar">${esc(S.me.name[0] || '?')}</span>`}
     <span>${esc(S.me.name)}</span><a class="btn small" href="/auth/logout">Sign out</a>` : '';
@@ -193,7 +209,7 @@ async function signin() {
   const enter = async () => {
     const r = await fetch('/auth/key', { method: 'POST', credentials: 'same-origin', headers: { 'Content-Type': 'application/json', 'X-WOTR': '1' },
       body: JSON.stringify({ key: $('#inv').value, name: $('#kname').value }) });
-    if (r.ok) { S.me = null; location.hash = '#/'; return; }
+    if (r.ok) { S.me = null; const after = store('wotr.after'); if (after) { store('wotr.after', ''); location.href = after; return; } location.hash = '#/'; return; }
     const j = await r.json().catch(() => ({})); const e = $('#kerr'); e.hidden = false; e.textContent = j.error || 'Could not sign in.';
     if (j.need_name) $('#kname').focus();
   };
@@ -222,7 +238,7 @@ function cardTile(e) {
   return `<a class="card" href="#/e/${esc(e.id)}" style="--aura:${esc(aura)};--k:${k.color}">
     <span class="seal">${esc(k.label)}</span>
     <span class="pic">${e.portrait ? `<img class="full" src="${img(e.portrait)}" alt="" loading="lazy">` : `<img class="em" src="/static/art/em-${e.kind}.webp" alt="">`}</span>
-    <span class="body"><b>${esc(e.title || 'Untitled')}</b><span>${esc(sub)}</span></span></a>`;
+    <span class="body"><b>${esc(e.title || 'Untitled')}</b><span>${esc(sub)}${e.shared ? ' · <em class="shared-mark">shared</em>' : ''}</span></span></a>`;
 }
 
 async function create(kind) {
@@ -246,7 +262,8 @@ async function editor(id, stepId) {
     <div class="spread"><div><p class="kicker" style="color:${k.color}">${esc(k.label)}</p>
       <h1 class="title" id="etitle">${esc(e.title || 'Untitled')}</h1>
       ${e.data.epithet ? `<p class="lede" style="margin-top:4px">${esc(e.data.epithet)}</p>` : ''}</div>
-      <div class="row"><span class="hint" id="saved" role="status">Saved</span><a class="btn small" href="#/">Library</a><button class="btn small danger" id="del">Delete</button></div></div>
+      <div class="row"><span class="hint" id="saved" role="status">Saved</span><button class="btn small draw" id="sharebtn" aria-expanded="false" aria-controls="sharebar">${e.share ? 'Shared' : 'Share'}</button><a class="btn small" href="#/">Library</a><button class="btn small danger" id="del">Delete</button></div></div>
+    <div id="sharebar" hidden></div>
     <div class="ed${hasAI ? '' : ' nonat'}">
       <nav class="steps" aria-label="Sections">${steps.map((s, i) => `<button class="step" data-step="${s.id}"${i === S.step ? ' aria-current="step"' : ''}><i aria-hidden="true">${'一二三四五六七八'[i]}</i><span class="sr">${i + 1}. </span>${esc(s.label)}</button>`).join('')}
         ${hasAI ? '' : `<a class="btn draw small" href="#/ai" style="margin-top:12px">Bring Natalie in</a>`}</nav>
@@ -312,18 +329,9 @@ function field(f) {
           </div></div>`, true);
     }
     case 'card': {
-      const md = cardMarkdown(S.entry), d = S.entry.data, st = S.canon.stages.find((s) => s.numeral === d.stage);
-      const rows = S.entry.kind === 'character' ? [['Culture', d.culture], ['Stage', st && `${st.numeral} · ${st.name}`], ['Path', d.path], ['Aether Class', d.aetherClass],
-        ['Crystal', [d.crystalTier, d.crystalState].filter(Boolean).join(', ')], ['Wellsprings', (d.wellsprings || []).join(', ')], ['Aura', [auraName(d.aura || ''), d.auraSound].filter(Boolean).join(' · ')],
-        ['Traits', (d.traits || []).map((t) => t.name).filter(Boolean).join(', ')], ['Voice', d.voiceLine && `“${d.voiceLine}”`]]
-        : [['Kind', d.kindOf], ['Owner', d.owner], ['Tier', d.tier], ['Wellspring', d.wellspring], ['Cost', d.cost], ['Counter', d.counter]];
-      const p = S.entry.portrait;
-      return wrap(`<div class="assay"><div class="seal" aria-hidden="true">GUILD<br>ASSAY</div>
-        <div class="top"><div class="mini">${p ? `<img src="${img(p)}" alt="">` : `<span class="glyph" aria-hidden="true">${esc((S.entry.title || '?')[0])}</span>`}</div>
-        <div style="flex:1 1 240px;min-width:0"><h3>${esc(S.entry.title || 'Untitled')}</h3>
-        <p class="sub">${esc([d.epithet, d.gloss, KIND[S.entry.kind].label].filter(Boolean).join(' · '))}</p></div></div>
-        <dl>${rows.filter((r) => r[1]).map(([a, b]) => `<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('') || '<dd class="hint">Fill the sections and the plate fills itself.</dd>'}</dl></div>
-        <div class="row" style="margin-top:16px"><button class="btn primary" id="dl">Download the card (.md)</button><button class="btn" id="copy">Copy markdown</button></div>
+      const md = cardMarkdown(S.entry), rows = cardRows(S.entry);
+      return wrap(assay(S.entry, img, rows) + `
+        <div class="row" style="margin-top:16px"><button class="btn primary" id="dl">Download the card (.md)</button><button class="btn" id="copy">Copy markdown</button><button class="btn draw" id="sharebtn2">Share this card</button></div>
         <details style="margin-top:12px"><summary class="hint" style="cursor:pointer;min-height:44px;display:flex;align-items:center">Show the markdown</summary><div class="md">${esc(md)}</div></details>`, true);
     }
   }
@@ -404,10 +412,81 @@ document.addEventListener('click', async (ev) => {
     a.download = (S.entry.title || 'untitled').replace(/[^\p{L}\p{N} _-]/gu, '') + '.md'; a.click(); return; }
   if (b.id === 'copy') { await navigator.clipboard.writeText(cardMarkdown(S.entry)); return toast('Copied'); }
   if (b.id === 'gen') return generateImage(b);
+  if (b.id === 'sharebtn' || b.id === 'sharebtn2') return toggleShareBar(true);
+  if (b.id === 'shareon' || b.id === 'shareoff') {
+    const r = await api(`/api/entries/${S.entry.id}/share`, { method: 'PUT', json: { on: b.id === 'shareon' } });
+    S.entry.share = r.share; return toggleShareBar(true, true);
+  }
+  if (b.id === 'sharecopy') { await navigator.clipboard.writeText($('#sharelink').value); return toast('Link copied'); }
+  if (b.id === 'savecopy') return saveCopy(b);
+  if (b.id === 'copyshare') { await navigator.clipboard.writeText(location.origin + location.pathname); return toast('Link copied'); }
   if (b.id === 'send') return natalieSend();
   if (b.id === 'aisave') return saveAI();
   if (b.id === 'aitest') return testAI(b);
 });
+
+function toggleShareBar(open, keep) {
+  const bar = $('#sharebar'); if (!bar) return;
+  if (!keep && !bar.hidden && open) { bar.hidden = true; $('#sharebtn').setAttribute('aria-expanded', 'false'); return; }
+  const link = S.entry.share ? `${location.origin}/s/${S.entry.share}` : '';
+  bar.hidden = false; $('#sharebtn').setAttribute('aria-expanded', 'true'); $('#sharebtn').textContent = S.entry.share ? 'Shared' : 'Share';
+  bar.innerHTML = `<div class="paper sharebar">${link ? `
+    <div class="f wide"><label for="sharelink">Anyone with this link can see the card, the details and the images, and save a copy</label>
+      <input id="sharelink" type="text" readonly value="${esc(link)}" onfocus="this.select()"></div>
+    <div class="row"><button class="btn primary" id="sharecopy">Copy link</button><a class="btn" href="${esc(link)}" target="_blank" rel="noopener">Open the shared page</a><button class="btn danger" id="shareoff">Stop sharing</button></div>
+    <p class="hint">Pasted into Discord it unfurls with the portrait. Stopping sharing kills the link; sharing again makes the same one.</p>` : `
+    <p style="margin:0;font:600 18px var(--serif)">${esc(S.entry.title || 'This entry')} is private. Make a link to share it?</p>
+    <div class="row"><button class="btn primary" id="shareon">Make a share link</button></div>
+    <p class="hint">Only people you give the link to can open it. Nothing else in your library is shown.</p>`}</div>`;
+  bar.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+}
+
+// ---------- a shared entry, read-only ----------
+
+function roValue(f, d, e) {
+  const v = d[f.k];
+  if (v == null || v === '' || (Array.isArray(v) && !v.length)) return '';
+  if (f.type === 'stage') { const st = S.canon.stages.find((s) => s.numeral === v); return esc(st ? `${st.numeral} · ${st.name} (Tier ${st.tier} · ${st.standing})` : v); }
+  if (f.type === 'springs') return `<span class="chips">${v.map((w) => `<span class="chip" aria-pressed="true">${esc(w)}</span>`).join('')}</span>`;
+  if (f.type === 'color') return `<span style="display:inline-flex;align-items:center;gap:8px"><span class="sw" style="background:${esc(v)};width:22px;height:22px;display:inline-block"></span>${esc(auraName(v))}</span>`;
+  if (f.type === 'list') return `<div class="items">${v.filter((x) => x.name || x.text).map((x) => `<div class="item"><b style="font:400 22px var(--display)">${esc((x.name || '').toUpperCase())}</b>
+    <span class="hint">${esc([x.kind, x.gloss].filter(Boolean).join(' · '))}</span>${x.text ? `<p style="margin:4px 0 0;white-space:pre-wrap">${esc(x.text)}</p>` : ''}
+    ${x.tell ? `<p style="margin:0"><b>Tell:</b> ${esc(x.tell)}</p>` : ''}${x.counter ? `<p style="margin:0"><b>Counter:</b> ${esc(x.counter)}</p>` : ''}</div>`).join('')}</div>`;
+  return `<span style="white-space:pre-wrap">${esc(v)}</span>`;
+}
+
+async function sharedView(token) {
+  const r = await fetch(`/api/shared/${encodeURIComponent(token)}`);
+  if (!S.me) S.me = await fetch('/api/me', { credentials: 'same-origin' }).then((x) => (x.ok ? x.json() : null)).catch(() => null);
+  nav('');
+  if (!r.ok) { view().innerHTML = `<div class="paper empty"><b>Not shared</b>This link is not shared, or its owner turned it off.</div>`; return; }
+  const e = await r.json(), k = KIND[e.kind];
+  S.shared = { ...e, token };
+  const imgFn = (id) => `/s/${encodeURIComponent(token)}/img/${encodeURIComponent(id)}`;
+  view().style.setProperty('--aura', e.data.aura || k.color);
+  const sections = schema(e.kind).map((step) => {
+    const rows = step.fields.filter((f) => !['card', 'gallery', 'linked'].includes(f.type) && f.k !== 'title')
+      .map((f) => [f.label, roValue(f, e.data, e)]).filter((x) => x[1]);
+    return rows.length ? `<section class="paper ro"><h2 class="sec">${esc(step.label)}</h2><dl>${rows.map(([a, b]) => `<dt>${esc(a)}</dt><dd>${b}</dd>`).join('')}</dl></section>` : '';
+  }).join('');
+  const others = e.images.filter((i) => i !== e.portrait);
+  view().innerHTML = `
+    <div class="spread"><div><p class="kicker" style="color:${k.color}">${esc(k.label)} · shared by ${esc(e.owner)}</p>
+      <h1 class="title">${esc(e.title || 'Untitled')}</h1>${e.data.epithet ? `<p class="lede" style="margin-top:4px">${esc(e.data.epithet)}</p>` : ''}</div>
+      <div class="row">${S.me ? `<button class="btn primary" id="savecopy">Save a copy to my library</button>` : `<a class="btn primary" href="/#/signin" id="signsave">Sign in to save a copy</a>`}
+        <button class="btn" id="copyshare">Copy link</button></div></div>
+    <div class="shared">
+      <div class="shared-card">${e.portrait ? `<div class="portrait" style="margin:0 auto 28px"><img src="${imgFn(e.portrait)}" alt="Portrait of ${esc(e.title)}"></div>` : ''}${assay(e, imgFn)}
+        ${others.length ? `<div class="gallery" style="margin-top:22px">${others.map((i) => `<figure><a href="${imgFn(i)}" target="_blank" rel="noopener"><img src="${imgFn(i)}" alt="" loading="lazy"></a></figure>`).join('')}</div>` : ''}</div>
+      <div class="sheet">${sections || '<div class="paper empty"><b>Just the card</b>Nothing more is filled in yet.</div>'}</div>
+    </div>`;
+  $('#signsave') && ($('#signsave').onclick = () => store('wotr.after', location.pathname));
+}
+async function saveCopy(btn) {
+  btn.disabled = true;
+  try { const r = await api(`/api/shared/${encodeURIComponent(S.shared.token)}/copy`, { method: 'POST' }); location.href = `/#/e/${r.id}`; }
+  catch (err) { toast(err.message); btn.disabled = false; }
+}
 
 async function upload(files) {
   for (const f of files) {
@@ -588,6 +667,8 @@ async function route() {
   const parts = path.split('/').filter(Boolean);
   try {
     if (!S.canon) S.canon = await fetch('/api/canon').then((r) => r.json());
+    const sp = location.pathname.match(/^\/s\/([\w-]+)$/);
+    if (sp && !parts.length) return sharedView(sp[1]);
     if (parts[0] === 'signin') return signin();
     if (!S.me) S.me = await api('/api/me');
     if (parts[0] === 'ai') return aiView();

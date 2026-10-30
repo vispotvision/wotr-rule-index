@@ -70,7 +70,7 @@ def now() -> str:
 
 
 def new_invite(note: str = "") -> str:
-    code = "-".join(secrets.token_hex(2).upper() for _ in range(3))
+    code = "-".join(secrets.token_hex(2).upper() for _ in range(4))  # 64 bits: it doubles as the sign-in key
     with db() as con:
         con.execute("INSERT INTO invites(code, note, created) VALUES(?,?,?)", (code, note, now()))
     return code
@@ -221,6 +221,29 @@ async def auth_dev(request: Request):
         uid = row["id"] if row else con.execute("INSERT INTO users(discord_id, name, avatar, created) VALUES(?,?,?,?)",
                                                 ("dev:" + name, name, "", now())).lastrowid
     return start_session(uid, request)
+
+
+async def auth_key(request: Request):
+    """Sign in with a key. An unused invite becomes the holder's personal key on first use
+    (with a name); after that the same key signs them back in on any device."""
+    if request.headers.get("x-wotr") != "1":
+        return JSONResponse({"error": "missing X-WOTR header"}, status_code=403)
+    body = await request.json()
+    code = str(body.get("key", "")).strip().upper()
+    name = str(body.get("name", "")).strip()[:40]
+    with db() as con:
+        inv = con.execute("SELECT code, used_by FROM invites WHERE code=?", (code,)).fetchone() if code else None
+        if not inv:
+            return JSONResponse({"error": "That key is not valid."}, status_code=401)
+        uid = inv["used_by"]
+        if uid is None:
+            if not name:
+                return JSONResponse({"error": "First time with this key: add the name you want to go by.", "need_name": True}, status_code=400)
+            uid = con.execute("INSERT INTO users(discord_id, name, avatar, created) VALUES(?,?,?,?)",
+                              ("key:" + secrets.token_hex(8), name, "", now())).lastrowid
+            con.execute("UPDATE invites SET used_by=? WHERE code=?", (uid, code))
+    resp = start_session(uid, request)
+    return JSONResponse({"ok": True}, headers={"set-cookie": resp.headers["set-cookie"]})
 
 
 async def auth_logout(request: Request):
@@ -405,6 +428,7 @@ routes = [
     Route("/auth/discord", auth_discord),
     Route("/auth/discord/callback", auth_discord_callback),
     Route("/auth/dev", auth_dev),
+    Route("/auth/key", auth_key, methods=["POST"]),
     Route("/auth/logout", auth_logout, methods=["POST", "GET"]),
     Route("/api/me", me),
     Route("/api/status", status),

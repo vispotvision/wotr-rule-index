@@ -2,11 +2,13 @@
 # characters, techniques, items, lore, places and factions, with images, and Natalie on the
 # player's own AI wired to the MCP's read-only tools in process.
 #
-# Serves 127.0.0.1:8780. Sign-in is Discord OAuth: DISCORD_CLIENT_ID, DISCORD_CLIENT_SECRET and
-# WOTR_APP_URL (the public https address, which also switches /auth/dev off) in
-# ~/.config/wotr/env. New accounts need an invite: build/py.sh app/server.py invite <note>.
+# Serves 127.0.0.1:8780, published by Tailscale Funnel on port 10000 (2026-10-30). Sign-in is a key
+# (an invite, which becomes the holder's key on first use), or Discord OAuth once configured:
+# DISCORD_CLIENT_ID and DISCORD_CLIENT_SECRET in ~/.config/wotr/env. WOTR_APP_URL (the public https
+# address, which also switches /auth/dev off) is set below.
+# New accounts need an invite: build/py.sh app/server.py invite <note>.
 # Data: ~/.local/share/wotr-app (app.db, images/). Never set WOTR_APP_DEV here.
-# Publishing it (e.g. `tailscale funnel --bg --https=10000 8780`) is a separate, deliberate step.
+# Published with `tailscale funnel --bg --https=10000 8780`; the MCP routes on 443 are untouched.
 
 [Unit]
 Description=WOTR Workshop, players' libraries and Natalie on their own AI
@@ -17,6 +19,7 @@ Type=simple
 WorkingDirectory=%h/wotr-rule-index
 EnvironmentFile=-%h/.config/wotr/env
 Environment=PYTHONIOENCODING=utf-8
+Environment=WOTR_APP_URL=https://ultron.tailf1bfa3.ts.net:10000
 ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh app/server.py --port 8780
 Restart=on-failure
 RestartSec=30

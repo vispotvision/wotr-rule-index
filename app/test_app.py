@@ -56,3 +56,15 @@ assert not list(S.IMAGES.glob(f"{iid}.*"))
 S.DEV = False
 assert anon.get("/auth/dev?name=X").status_code == 404
 print("ok")
+
+# key sign-in: an invite becomes the holder's key; the same key signs back in; junk is refused
+k = S.new_invite("test")
+c = TestClient(S.app, client=("127.0.0.1", 5000))
+assert c.post("/auth/key", json={"key": k}, headers=W).json().get("need_name")
+assert c.post("/auth/key", json={"key": k, "name": "Kei"}, headers=W).status_code == 200
+assert c.get("/api/me").json()["name"] == "Kei"
+c2 = TestClient(S.app, client=("127.0.0.1", 5000))
+assert c2.post("/auth/key", json={"key": k.lower()}, headers=W).status_code == 200 and c2.get("/api/me").json()["name"] == "Kei"
+assert c2.post("/auth/key", json={"key": "0000-0000-0000-0000"}, headers=W).status_code == 401
+assert c2.post("/auth/key", json={"key": k}).status_code == 403
+print("ok keys")

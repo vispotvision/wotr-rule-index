@@ -180,13 +180,25 @@ async function signin() {
     <div class="paper" style="display:flex;flex-direction:column;gap:16px">
       <h2 class="sec">Sign in</h2>
       ${err ? `<p class="msg err">${esc({ invite: 'That invite code is not valid, or it has been used.', discord: 'Discord did not let us in. Try again.', state: 'The sign-in expired. Try again.' }[err] || err)}</p>` : ''}
-      <div class="f"><label for="inv">Invite code</label><input id="inv" type="text" autocomplete="off" placeholder="Only needed the first time, e.g. 4F2A-91C0-7B3E"></div>
-      <button class="btn discord" id="go" ${status.discord ? '' : 'disabled'}>Continue with Discord</button>
-      ${status.discord ? '' : '<p class="hint">Discord sign-in is not set up on this server yet.</p>'}
+      <p class="msg err" id="kerr" role="alert" hidden></p>
+      <div class="f"><label for="inv">Your key</label><input id="inv" type="text" autocomplete="username" spellcheck="false" placeholder="e.g. 4F2A-91C0-7B3E-0D55"></div>
+      <div class="f"><label for="kname">Your name</label><input id="kname" type="text" autocomplete="nickname" placeholder="Only the first time you use a new key"></div>
+      <button class="btn primary" id="enter">Enter the Workshop</button>
+      <p class="hint">Isaac gives you a key. The first time you use it, it becomes yours: it signs you back in on any device, so keep it like a password.</p>
+      ${status.discord ? `<div class="ruler">or</div><button class="btn discord" id="go">Continue with Discord</button>` : ''}
       ${status.dev ? `<div class="ruler">local testing</div><a class="btn" href="/auth/dev?name=Isaac">Dev sign-in</a>` : ''}
       <p class="hint">Your library is yours: nobody else sees it, and nothing in it becomes table canon on its own.</p>
     </div></section>`;
-  $('#go').onclick = () => { location.href = '/auth/discord?invite=' + encodeURIComponent($('#inv').value.trim()); };
+  $('#go') && ($('#go').onclick = () => { location.href = '/auth/discord?invite=' + encodeURIComponent($('#inv').value.trim()); });
+  const enter = async () => {
+    const r = await fetch('/auth/key', { method: 'POST', credentials: 'same-origin', headers: { 'Content-Type': 'application/json', 'X-WOTR': '1' },
+      body: JSON.stringify({ key: $('#inv').value, name: $('#kname').value }) });
+    if (r.ok) { S.me = null; location.hash = '#/'; return; }
+    const j = await r.json().catch(() => ({})); const e = $('#kerr'); e.hidden = false; e.textContent = j.error || 'Could not sign in.';
+    if (j.need_name) $('#kname').focus();
+  };
+  $('#enter').onclick = enter;
+  view().addEventListener('keydown', (ev) => { if (ev.key === 'Enter' && (ev.target.id === 'inv' || ev.target.id === 'kname')) enter(); });
 }
 
 async function library() {

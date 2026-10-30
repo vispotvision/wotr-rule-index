@@ -121,6 +121,9 @@ scenes/       the archive; scenes/cast/ = speaker-tagged cast files for narratio
 table/        fronts.yaml ledger.yaml npcs.yaml sessions.yaml (+ FRONTS.md LEDGER.md NPCS.md rendered);
               voices.yaml here = voice fingerprints for voice_check (narration presets are build/voices.yaml)
 build/        every tool, the shell scripts, build/systemd/ (the units), casting/, voices/
+app/          the WOTR Workshop (app/server.py, static/, test_app.py): each player's own library
+              of characters, techniques, items, lore, places, factions with images; Natalie runs
+              on the player's own AI (key stays in their browser) with the MCP's read tools wired in
 bot/          the Discord bot — deterministic, no LLM, no dice in canon channels, writes
               role-gated to the Judger (bot/PLAN.md); the rule/docket/conflict commands were
               dropped on Isaac's call (ROADMAP.md, Phase F0). bot/queue/ = Judger proposals
@@ -130,8 +133,9 @@ proposals/    proposed rules awaiting a pack   reports/  audits, digests   impor
 desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md — what Claude
               Cowork (Desktop's folder mode) reads (~/Claude/CLAUDE.md links to it)
 .claude/      skills (wotr-rules, wotr-ops, judger; the writing set: wotr-write, wotr-rp,
-              wotr-npc, wotr-phenomenon, wotr-wound, wotr-stat-line, wotr-ledger; wotr-book drives
-              the book pipeline); Workflow scripts (book-chapter.js, judger-assist.js)
+              wotr-npc, wotr-phenomenon, wotr-wound, wotr-stat-line, wotr-ledger, wotr-name,
+              wotr-technique, wotr-lookup, wotr-start; wotr-book drives the book pipeline; the MCP
+              serves them all through skill() and as prompts); Workflow scripts (book-chapter.js, judger-assist.js)
               — the Workflow scripts run only in Claude Code; other agents use book_tools.py
 .mcp.json     registers WOTR MCP for Claude Code sessions here
 CLAUDE.md CONTINUE.md ROADMAP.md CONFLICTS.md RULINGS.md PROGRESS.md BRIEF.md README.md

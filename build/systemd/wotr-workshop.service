@@ -1,0 +1,25 @@
+# wotr-workshop.service — the WOTR Workshop (app/server.py): each player's own library of
+# characters, techniques, items, lore, places and factions, with images, and Natalie on the
+# player's own AI wired to the MCP's read-only tools in process.
+#
+# Serves 127.0.0.1:8780. Sign-in is Discord OAuth: DISCORD_CLIENT_ID, DISCORD_CLIENT_SECRET and
+# WOTR_APP_URL (the public https address, which also switches /auth/dev off) in
+# ~/.config/wotr/env. New accounts need an invite: build/py.sh app/server.py invite <note>.
+# Data: ~/.local/share/wotr-app (app.db, images/). Never set WOTR_APP_DEV here.
+# Publishing it (e.g. `tailscale funnel --bg --https=10000 8780`) is a separate, deliberate step.
+
+[Unit]
+Description=WOTR Workshop, players' libraries and Natalie on their own AI
+
+[Service]
+TimeoutStopSec=5
+Type=simple
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh app/server.py --port 8780
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=default.target

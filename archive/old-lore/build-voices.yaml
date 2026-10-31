@@ -1,0 +1,28 @@
+# Old-lore narration voice presets, moved out of build/voices.yaml. Not canon.
+# Anchors and refs still sit under build/voices/.
+Verinus:               # seventy-one in a twenty-six-year-old's body; dry, exact, never hurried
+  voice: "bm_george:0.7,bm_lewis:0.3"
+  speed: 0.95
+Aurelian:
+  voice: am_michael
+Darius:                # the Measurewright; Piccolo floor, Vegeta's edge when the door cracks
+  engine: qwen         # the prose brief that made the anchor lands closest to it (56% of draws >= 0.5; the 12-field form 44%)
+  instruct: >-
+    A stern middle-aged man. Deep, dry, resonant baritone, gruff and gravelly, low in the chest, measured and unhurried,
+    flat and precise with no lift at the ends of sentences, calm authority with contempt held under control. Speaks quietly;
+    never raises his voice. Clear American English, no accent, serious, no warmth.
+  anchor: build/voices/anchors/Darius
+  portray: {pitch_st: -2, formant: 0.95, speed: 0.95, range_factor: 0.8}
+  fallback: Darius-cb
+  tries: 3
+Kizami:                # the Notcher; a neck with too many joints; keeps the record
+  portray: {pitch_st: 2.5, formant: 1.06, speed: 1.08, range_factor: 1.15}
+  engine: chatterbox
+  model: standard
+  ref: build/voices/refs/kizami.wav
+  exaggeration: 0.65
+  cfg: 0.4
+Darius-cb:
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/darius.wav

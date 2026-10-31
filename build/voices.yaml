@@ -40,11 +40,6 @@ narrator-combat:       # the narrator performing a fight: same voice, Chatterbox
   speed: 1.05
 
 # characters
-Verinus:               # seventy-one in a twenty-six-year-old's body; dry, exact, never hurried
-  voice: "bm_george:0.7,bm_lewis:0.3"
-  speed: 0.95
-Aurelian:
-  voice: am_michael
 
 # The Seven, and the Price of Each — the leads are DESIGNED voices: Qwen3-TTS VoiceDesign from a written brief
 # (build/qwen_backend.py). `anchor` is the take Isaac approved on 12 Sep 2026; every batch is scored against it.
@@ -64,23 +59,6 @@ Gimbzo:                # eight feet of him; Yhwach register — very deep, dark,
   pitch_st: -1         # the deep register, held for every line
   range_factor: 0.9
   gain: 1.05
-Darius:                # the Measurewright; Piccolo floor, Vegeta's edge when the door cracks
-  engine: qwen         # the prose brief that made the anchor lands closest to it (56% of draws >= 0.5; the 12-field form 44%)
-  instruct: >-
-    A stern middle-aged man. Deep, dry, resonant baritone, gruff and gravelly, low in the chest, measured and unhurried,
-    flat and precise with no lift at the ends of sentences, calm authority with contempt held under control. Speaks quietly;
-    never raises his voice. Clear American English, no accent, serious, no warmth.
-  anchor: build/voices/anchors/Darius
-  portray: {pitch_st: -2, formant: 0.95, speed: 0.95, range_factor: 0.8}
-  fallback: Darius-cb
-  tries: 3
-Kizami:                # the Notcher; a neck with too many joints; keeps the record
-  portray: {pitch_st: 2.5, formant: 1.06, speed: 1.08, range_factor: 1.15}
-  engine: chatterbox
-  model: standard
-  ref: build/voices/refs/kizami.wav
-  exaggeration: 0.65
-  cfg: 0.4
 # the earlier Chatterbox casts, kept for A/B (VCTK speakers, CC BY 4.0; credits in build/voices/refs/CREDITS.md)
 Gimbzo-cb:
   engine: chatterbox
@@ -88,10 +66,6 @@ Gimbzo-cb:
   ref: build/voices/refs/gimbzo.wav
   speed: 0.92
   gain: 1.1
-Darius-cb:
-  engine: chatterbox
-  model: turbo
-  ref: build/voices/refs/darius.wav
 
 _pool: [am_michael, bf_emma, am_fenrir, af_sarah, bm_lewis, af_nicole, am_eric, bf_alice]
 

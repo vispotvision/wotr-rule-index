@@ -3325,3 +3325,9 @@ Context: Isaac asked to write the gold standard and the magic-in-combat answers 
 Fights and set pieces have no word count (Isaac, 2026-10-30). A fight or set piece runs as long as it needs, and Natalie extends rather than stopping at a number. This exempts fights and set pieces from the 3,500-word in-fiction length (R79-1) and removes the per-movement word targets (about 1,000 / 1,500 / 1,000) from the fight shape rule. Other in-fiction replies stay about 3,500 until Isaac says otherwise. Applied to desktop/NATALIE.md (Length, fight craft Shape, Set pieces).
 
 Context: Isaac: a fight can be as long as it needs to; no limit or set word count.
+
+## 2026-10-30 — new
+
+Fight pipeline (Isaac, 2026-10-30, 'build the first four'). Before a big fight: load the few-shot exemplar bank (desktop/style-bank/fight-exemplars/EXEMPLARS.md, provisional until Isaac signs off or replaces it) and fill the fight state sheet and zoom map (desktop/templates/FIGHT_STATE_SHEET.md). After drafting: run the review pass (desktop/FIGHT_REVIEW_PASS.md), log the fight's signature image in desktop/style-bank/used-devices.md, then verify_scene combat=True. Full blow coverage stays; zoom and volume vary by movement, one movement at peak, thought after the turns and not after every blow. No device in used-devices.md is reused; each fight carries one new image. Applied to desktop/NATALIE.md fight craft block.
+
+Context: Research on why AI fights read flat (spatial drift, uniform intensity, recycled imagery) and Anthropic's few-shot and self-correction guidance.

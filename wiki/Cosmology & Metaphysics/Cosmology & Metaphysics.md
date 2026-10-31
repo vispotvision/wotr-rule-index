@@ -81,13 +81,11 @@ Three institutional voices produce the material in this section, and they do not
 >
 > **6 · The Celestial Host** — the beings Law folded in order to witness itself.
 >
-> **7 · The Crossing and the Making of the God Hand** — the one surviving account of what the far side looks like from inside.
+> **7 · The Concordance of Ages** — the count, corrected. Read this before trusting any date anywhere in the wiki.
 >
-> **8 · The Concordance of Ages** — the count, corrected. Read this before trusting any date anywhere in the wiki.
+> **8 · Errata to the Received Registers** — what the correction cost, entry by entry.
 >
-> **9 · Errata to the Received Registers** — what the correction cost, entry by entry.
->
-> **10 · The Four Ceilings** — why the world's technology sits where it sits, and what removed the limits.
+> **9 · The Four Ceilings** — why the world's technology sits where it sits, and what removed the limits.
 >
 > **The two conversations.** The **Epochs** are cosmological: their durations run to the hundreds of thousands and not one of them derives from a count. The **Ages** are historical, attested by physical evidence, and run from Year −1,400 to the present. *A document giving both is giving a myth and a measurement, and expects the reader to know which is which.*
 *The groupings below are the filing. The order above is the path.*
@@ -101,7 +99,6 @@ The cosmological spine, in the order it was made: the totality before partition,
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons]]
 - [[Cosmology & Metaphysics/The Making of the World/The Veil]]
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host]]
-- [[Cosmology & Metaphysics/The Making of the World/The Crossing and the Making of the God Hand]]
 
 ### II · The Count
 

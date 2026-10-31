@@ -1,0 +1,24 @@
+{
+  "title": "Abilities and techniques: how Natalie invents and writes them",
+  "date": "2026-10-05",
+  "batches": [
+    {
+      "batch": 1,
+      "questions": [
+        {"id": "Q1", "header": "When to invent", "question": "When can I invent a new technique for one of your characters?", "options": ["Anytime, mid-scene (Recommended)", "Offer first, you approve", "Only from your sketch", "NPCs only"]},
+        {"id": "Q2", "header": "Trait roles", "question": "How should a character's techniques split between their Primary and Secondary Trait?", "options": ["Primary everyday, Secondary under pressure (Recommended)", "Both equal, mixed freely", "Combos make signatures", "Primary only"]},
+        {"id": "Q3", "header": "Physics reach", "question": "How far can a technique stray from the Trait's core physics?", "options": ["Real side-effects of it (Recommended)", "Core law only", "Anything a lens justifies", "Wild, a new effect each fight"]},
+        {"id": "Q4", "header": "Naming", "question": "How should techniques be named?", "options": ["Plain English (Recommended)", "Culture tongue + gloss", "Latin or Parunic invocation", "Mix by character"]}
+      ]
+    },
+    {
+      "batch": 2,
+      "questions": [
+        {"id": "Q5", "header": "Write-up", "question": "How should an invented technique be written up for you?", "options": ["Short description, card in repo (Recommended)", "Short description only", "Full card every time", "Description plus numbers line"]},
+        {"id": "Q6", "header": "Numbers", "question": "How much should numbers (EU, AU/s, Joules) show?", "options": ["Card yes, prose light (Recommended)", "Everywhere, prose too", "Only when it decides", "Never in prose"]},
+        {"id": "Q7", "header": "Frequency", "question": "How often should new techniques show up in fights?", "options": ["Signatures repeat, new at peaks (Recommended)", "Something new every fight", "Rarely, kit stays fixed", "Whenever it looks cool"]},
+        {"id": "Q8", "header": "Canon status", "question": "When does an invented technique become canon?", "options": ["Canon once you keep it (Recommended)", "Canon on first use", "Canon after it's carded", "Never, flavour only"]}
+      ]
+    }
+  ]
+}

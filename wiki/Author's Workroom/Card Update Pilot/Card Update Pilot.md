@@ -11,7 +11,6 @@ Ten core cast cards re-cut to the current card template, the head built, gaps fi
 
 ## Charles Lambert
 
-Draft: [[Author's Workroom/Card Update Pilot/Charles Lambert · The God Hand|Charles Lambert · The God Hand]]
 
 ### Added or derived
 

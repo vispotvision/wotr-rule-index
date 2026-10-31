@@ -145,3 +145,99 @@
   due: null
   status: open
   thread: The Sins
+- id: L015
+  category: the dead
+  who: Faisal
+  text: Died in the trench on the blackened plain, the fourteenth day, facing Malakar. His spirit went
+    to the cycle; his body rose off him as gold. His empty greaves, his breastplate and the laurel cuff
+    remain in the trench, and the gold dust of his fingertips lies on the back of Malakar's hand.
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L016
+  category: bonds
+  who: Marium
+  text: She watched Faisal die through the crack in the Hall of Equilibria's floor. The egg of the Grand
+    Angel on the mantle took his note and cracked once, top to bottom, without opening.
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+  fed: []
+  strained: []
+- id: L017
+  category: who knows what
+  who: Malakar
+  text: 'Faisal told him the truth: he knelt under the Bell''s weight so it would never come down on Malakar
+    as chains; he put down the Stilled World rather than silence him; he was never angry.'
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L018
+  category: who knows what
+  who: the Material World
+  text: OTHSAL's fallen petals of written law lie gold across the hills round the plain; shepherds have
+    touched them. The crack in the sky went dark rod by rod.
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L019
+  category: injuries and reserve
+  who: Shōki Kurenai Moto
+  text: 'At the Kessen ford: SHAKUNETSU''s glaze-skin shattered by the river''s quench; Covenant Scar
+    cracked through; heat restored by drinking the Karmic Fire out of Raizan with YAKI-IRE; the thirty-one
+    coins of Raizan''s ONNEN account spent in GŌKA.'
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L020
+  category: injuries and reserve
+  who: Raizan Tenrai Moto
+  text: 'Scalded by the Leidenfrost blast (both hands sloughing, right cheek, airway burns); KAMIKAKUSHI
+    broken; GŌKA burning in every vessel by his record of four hundred and twelve; twenty to thirty heartbeats
+    left. Last word: "Look." The name of the Tenrai chair who sent him was never given.'
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L021
+  category: who knows what
+  who: Shōki Kurenai Moto
+  text: 'Raizan read that HAKANASHI will not let him die, even by his own hand, and that there is one
+    strand out: looking outward. Shōki admitted aloud that he no longer knows which of his steps north
+    are his.'
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L022
+  category: debts
+  who: Kessen ford
+  text: A child went off the bridge rail into the flood, toward the boiling water round Shōki. Pending
+    Isaac's decision.
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins
+- id: L023
+  category: canon conflicts
+  who: Shōki / Kōkan chair
+  text: Shōki says the Kōkan chair voted at Tsuyu's Hall, making Muken an heir; his card says only that
+    several voting lines have heirs today. Needs a ruling.
+  opened: '2026-10-31'
+  opened_session: 2
+  due: null
+  status: open
+  thread: The Sins

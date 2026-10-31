@@ -608,6 +608,7 @@
 - [[The Scene Archive/Scenes/Naiser's Answer|Naiser's Answer]]
 - [[The Scene Archive/Scenes/Naiser's Terms|Naiser's Terms]]
 - [[The Scene Archive/Scenes/Paru 86|Paru 86]]
+- [[The Scene Archive/Scenes/The Axiom of the Kept|The Axiom of the Kept]]
 - [[The Scene Archive/Scenes/The Bearer of Weight|The Bearer of Weight]]
 - [[The Scene Archive/Scenes/The Cold|The Cold]]
 - [[The Scene Archive/Scenes/The Debt|The Debt]]
@@ -646,7 +647,6 @@
 - [[The Scene Archive/Scenes/The White Knot|The White Knot]]
 - [[The Scene Archive/Scenes/The White Wolf|The White Wolf]]
 - [[The Scene Archive/Scenes/The Wrath Wakes|The Wrath Wakes]]
-- [[The Scene Archive/Scenes/the axiom of the kept|the axiom of the kept]]
 
 ## The Table — Running Pieces
 

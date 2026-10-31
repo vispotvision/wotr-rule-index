@@ -135,7 +135,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 
 *Verdant Orc · the flowing hand*
 
-**Reed on wet bark bleeds.** Lift the reed and the ink spreads into the fibre and eats the next stroke before you have made it, **so the Verdant hand never lifts.** One continuous line, every glyph joined to the next, **terminals drawn long so the bleed has somewhere to go that does not matter.**
+**Reed on wet bark bleeds.** Lift the reed and the ink spreads into the fiber and eats the next stroke before you have made it, **so the Verdant hand never lifts.** One continuous line, every glyph joined to the next, **terminals drawn long so the bleed has somewhere to go that does not matter.**
 > Held near saturated ground, **certain sequences in this hand have catalysed Spoor-Meld states in readers who were not attempting one.** Whether that is a property of the script or of the language it carries is disputed. *The Verdant position is that the question is badly posed.*
 **Legibility** · Read with effort by other goblinoids. **Written by few outsiders.**
 
@@ -147,7 +147,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 > **The rail is the Authorization clause (the part of a working that names its lawful channel) for the entire sentence** — which is why nothing written under a broken rail carries force, **and why an Eressean scribe who lifts the pen mid-rail begins the page again.**
 The hand of law and consecration **and nothing else.** Ordinary correspondence uses a plain unrailed cursive **that no one bothers to name.**
 > *A private letter written in Songscript is either a legal instrument or a threat, and the recipient is expected to know which before opening it.*
-**Legibility** · Read by every educated elf. **Written only under licence.**
+**Legibility** · Read by every educated elf. **Written only under license.**
 
 ### Sylvaaric
 

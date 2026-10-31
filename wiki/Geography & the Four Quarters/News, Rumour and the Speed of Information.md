@@ -1,9 +1,9 @@
 ---
-title: "News, Rumour and the Speed of Information"
+title: "News, Rumor and the Speed of Information"
 tags: ["Geography", "Trade & Economy", "Reference Table"]
 ---
 
-# News, Rumour and the Speed of Information
+# News, Rumor and the Speed of Information
 
 *How far away a place is, measured in days rather than miles. Load-bearing for the Fronts.*
 > *The wire follows the conduit. Where the draw stops, the world goes quiet.*
@@ -30,7 +30,7 @@ A signal line laid alongside the sealed conduit, Guild-owned, Guild-operated, ru
 
 ### What it costs and what that does to the message
 
-Priced by the word, at a flat rate regardless of distance. A short message costs a labourer the better part of a day. This is not a detail; it is the reason every telegram in the world reads the way it does. **Cost forces compression, and compression is where meaning dies.**
+Priced by the word, at a flat rate regardless of distance. A short message costs a laborer the better part of a day. This is not a detail; it is the reason every telegram in the world reads the way it does. **Cost forces compression, and compression is where meaning dies.**
 
 The standard form is nine words, with a further charge for each word after. Names count. Punctuation is spoken as a word and paid for, which is why a stop is omitted whenever it can be, and why so many wires are ambiguous in exactly the place they should not be.
 
@@ -80,7 +80,7 @@ It moves at the speed of the fastest thing on the route: hull, coach, or in the 
 
 Criers, carters, pedlars, pilgrims, discharged soldiers, and the tap-room. Free, and over a short distance the fastest of the three, because a crier is in the square before a wire is copied out.
 
-Its characteristic error is the opposite of the wire's. The wire loses detail. **The mouth adds it.** A rumour gains a name, a number and a motive on every retelling, and the additions are always the ones that make the story make sense to the person adding them.
+Its characteristic error is the opposite of the wire's. The wire loses detail. **The mouth adds it.** A rumor gains a name, a number and a motive on every retelling, and the additions are always the ones that make the story make sense to the person adding them.
 
 So two contradictory accounts of the same Front are normal and neither teller is lying. The wire has stripped it to nine words. The tap-room has grown it back with the wrong material.
 
@@ -95,7 +95,7 @@ Use this to answer, on the spot, when a Front's news reaches a given place.
 | A day's ride | within the hour if both ends are gauged | two days | two to three days, distorted |
 | A week's road | within the hour if the line runs | six to eight days | two to three weeks, badly distorted |
 | Across a quarter | same day if the line runs; otherwise as post | two to three weeks | a season, or never |
-| Across the water | same day where cable exists, otherwise by hull | a month or more | rumour only, and usually a year out of date |
+| Across the water | same day where cable exists, otherwise by hull | a month or more | rumor only, and usually a year out of date |
 | Kharven seat | never | as the road allows, and the road does not allow much in the Thin Weeks | the only channel that has ever worked |
 
 **Three standing rules for the table.**

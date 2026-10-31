@@ -58,7 +58,7 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 
 ### Physics
 
-**Phenomenon** · Bone char as a catalyst: burnt bone is a vast-surface scaffold of mineral and carbon that keeps the print of what made it and speeds reactions at those sites. Gripped and bled on, a talon lets the body do one thing its beast could, for a while.
+**Phenomenon** · Bone char as a catalyst: burned bone is a vast-surface scaffold of mineral and carbon that keeps the print of what made it and speeds reactions at those sites. Gripped and bled on, a talon lets the body do one thing its beast could, for a while.
 
 **Law** · Heterogeneous catalysis: a catalyst lowers the barrier but never shifts the equilibrium, its active sites are finite and taken competitively, and its activity decays roughly exponentially with use.
 
@@ -79,7 +79,7 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 
 **Aether** · Small draw: one hand, one bone, one blood channel. The Residue is the talon itself, readable by anyone patient; each draw spends it, and the ground where one was drawn deafens Harmonists for a while.
 
-**Ground** · Caloria favours steep thermal gradients, combustible air and geothermal ground; thermal equilibrium, saturated cold and oxygen-poor air suppress it.
+**Ground** · Caloria favors steep thermal gradients, combustible air and geothermal ground; thermal equilibrium, saturated cold and oxygen-poor air suppress it.
 
 **Wellspring** · Cinerion, the Ash Veil (Caloria), primary: what survives a fire is not waste but a catalytic scaffold; it holds the talon's print and reclaims part of the practitioner's own waste. It gives Tempering Yield and Harmonics Stability.
 
@@ -89,7 +89,7 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 
 **Theory** · The Residue Position: every Wellspring is the residue of something already done, and Ashfang is that theory with a bone in its hand. The Accord licenses it under Consent.
 
-**Essence** · The Aether Shell, which the stored print acts on as a residue triggers a reaction; ash-grey veins along the graft path are Clouding showing in tissue. Developmental Tier at the floor is Harmonic.
+**Essence** · The Aether Shell, which the stored print acts on as a residue triggers a reaction; ash-gray veins along the graft path are Clouding showing in tissue. Developmental Tier at the floor is Harmonic.
 
 **School** · An old alchemical school believes the form survives in ash and can be called back, so it hunts bigger beasts for bigger talons; but ash keeps the record, not the capacity, and the ceiling rule closes that door.
 
@@ -130,10 +130,10 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 
 ### Counterplay
 
-**Tell** · Hand to trophy, blade to own arm, then the heartbeat goes wrong: three steps, in order, every time. Afterwards ash-grey veins along the graft path and a talon a little paler.
+**Tell** · Hand to trophy, blade to own arm, then the heartbeat goes wrong: three steps, in order, every time. Afterwards ash-gray veins along the graft path and a talon a little paler.
 
 **Limits** · One trait at a time, at the practitioner's own ceiling; needs a talon from their own kill, in hand, and an open blood channel; each reuse weaker.
 
 **Fails against** · A beast sealed or stripped before contact; a broken hand at Glory; saturated cold; a graft forced to pull rather than push; a lost trophy belt, or the good talon spent on a feint; a volley against borrowed flight.
 
-**Look up** · The Caloria and Vectoria entries for Cinerion and Petralon Failures; Caloria's favoured and suppressive ground; Essence seals; the Glory Stage table and the Body Path gates.
+**Look up** · The Caloria and Vectoria entries for Cinerion and Petralon Failures; Caloria's favored and suppressive ground; Essence seals; the Glory Stage table and the Body Path gates.

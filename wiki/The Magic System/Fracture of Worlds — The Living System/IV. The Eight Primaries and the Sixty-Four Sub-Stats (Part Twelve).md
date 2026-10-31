@@ -64,7 +64,7 @@ Ardency governs not what the body can do, but what Essence can do when the body 
 
 Gnosis is the stat of understanding. Not wisdom, which is a product of experience and Temperance, but the raw cognitive and perceptual machinery that lets a soul process what it encounters at the speed and resolution required to act. Whether they act correctly on what they see is a question for other stats.
 
-**Perception** — Sensory acuity and Aetheric threat detection. Awareness of displacement, Veil distortion, concealed entities and incoming force vectors before they resolve, and accurate modelling of the surrounding geometry including distorted architecture and Domain interiors. *Absorbs Cartography.*
+**Perception** — Sensory acuity and Aetheric threat detection. Awareness of displacement, Veil distortion, concealed entities and incoming force vectors before they resolve, and accurate modeling of the surrounding geometry including distorted architecture and Domain interiors. *Absorbs Cartography.*
 
 **Acuity** — Tactical cognition and real-time processing of multi-vector combat environments. Positioning, sequence recognition, adaptive strategy, and the speed at which an unfamiliar pattern is internalised mid-fight. *Absorbs Adaptation.*
 
@@ -84,7 +84,7 @@ Gnosis is the stat of understanding. Not wisdom, which is a product of experienc
 
 *The body's capacity to occupy, vacate and redirect across spatial geometry with precision and efficiency.*
 
-Not how strong the body is; how correctly it uses the space it occupies. A high-Dexterity fighter does not hit harder. They hit where the opening is, arrive before the defence closes and leave before the counter launches.
+Not how strong the body is; how correctly it uses the space it occupies. A high-Dexterity fighter does not hit harder. They hit where the opening is, arrive before the defense closes and leave before the counter launches.
 
 **Celerity** — Raw movement speed across physical and Aetheric displacement, and maximum acceleration over short distances from standing or braced. Travel and the first step's lethality. *Absorbs Burst.*
 
@@ -132,7 +132,7 @@ Where Vitality protects the body, Resilience protects the soul. At low Grades th
 
 **Integrity** — The Crystal's resistance to fracture, Dissonance collapse and catastrophic resonance failure under overdraw or hostile pressure, and the degree to which prior fractures have been processed into structural reinforcement. The foundation every other Sub-Stat rests on. Wounds that become walls. *Absorbs Scarring.*
 
-**Ward** — Defence against law-breaking, reality-overwriting and Domain-erasure forces, including techniques aimed at collapsing, inverting or redirecting the character's own Domain. What stands between a character and an effect that says they do not exist. *Absorbs Severance.*
+**Ward** — Defense against law-breaking, reality-overwriting and Domain-erasure forces, including techniques aimed at collapsing, inverting or redirecting the character's own Domain. What stands between a character and an effect that says they do not exist. *Absorbs Severance.*
 
 **Persistence** — Resistance to forced cessation, obliteration and conceptual erasure, and to Nospheric intrusion, Oblivion-class pressure and the corrosive qualities of inverted or annihilation-aspected Wellsprings. The soul's refusal to stop being when something with sufficient authority tells it to. *Absorbs Resilience Nullity.*
 
@@ -158,7 +158,7 @@ Every other Primary measures what a character is right now. Tempering measures t
 
 **Maturity** — Integration of prior stage trauma, resolution of internal contradictions, the speed at which fractures and failed transitions are metabolised into architecture rather than persistent damage, the rate at which transition conditions are recognised, and the efficiency with which bloodline traits and ancestral Geasa activate cleanly rather than ambush. **The primary Sub-Stat consulted when evaluating Threshold readiness.** *Absorbs Acceleration, Processing and Inheritance.*
 
-**Coherence** — Alignment between chosen Path and lived metaphysical behaviour. Dissonance between stated Path and actual expression degrades Tempering efficiency. **The structural prerequisite for Threshold eligibility.** The Crystal's internal honesty meter.
+**Coherence** — Alignment between chosen Path and lived metaphysical behavior. Dissonance between stated Path and actual expression degrades Tempering efficiency. **The structural prerequisite for Threshold eligibility.** The Crystal's internal honesty meter.
 
 **Yield** — Raw volume of Essence produced per Temperance Stage relative to universal baseline, the efficiency of converting ambient Wellspring activity into usable internal Essence, and the gap between generation and availability. Reload speed for the soul. *Absorbs Conversion and Latency.*
 
@@ -176,7 +176,7 @@ At low Grades, Dominion is mild ambient influence, the instinctive way a strong 
 
 **Radius** — Active reach of the Domain when formed, the speed at which its boundary extends during active formation, and the capacity to push a partial expression outward as an influence field short of full formation. How far your word carries, how fast it gets there, and what it can do before it has committed. *Absorbs Expansion and Dominion Projection.*
 
-**Sovereignty** — Control over local geometry, distance behaviour and trajectory interference, and the maximum complexity of law imposable through the Domain. Whether the rules inside your territory are simple physical rules or encoded conceptual truths. *Absorbs Reach.*
+**Sovereignty** — Control over local geometry, distance behavior and trajectory interference, and the maximum complexity of law imposable through the Domain. Whether the rules inside your territory are simple physical rules or encoded conceptual truths. *Absorbs Reach.*
 
 **Sense** — Perceiving and interacting with higher-order phenomena: dimensional seams, conceptual laws, Archon-tier pressures, Veil fold proximity, Realm boundaries, and the passive detection of tears and unstable junctions in spatial fabric. Where the seams are and where reality is thin. *Absorbs Dominion Acuity and Rift. Renamed from Acuity to end the collision with Gnosis Acuity.*
 

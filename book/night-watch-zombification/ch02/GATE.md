@@ -27,7 +27,7 @@ Accepted draft: `draft_r0.md` → `final.md`; notes → `final_notes.md`.
 
 ## The beat
 
-The ninth hind on the table by the second division; Vesk builds the contractile matrix into the third dilution, flask in both palms; Nuvalik opens the shoulder and will not say what the fourth hind gave her; Malphas on the gauge bench, cold room, living-coloured fingers, asks Foss for the Arbitration Division's field manual; the drip counted at twenty-two; the Stage question let go again; rot turns to motion. Critics found it delivered, with one gap: the beat-and-hooks pass WARNs that the H08 concealment half-lands (Malphas never registers it). The field-manual line carries a canon WARN.
+The ninth hind on the table by the second division; Vesk builds the contractile matrix into the third dilution, flask in both palms; Nuvalik opens the shoulder and will not say what the fourth hind gave her; Malphas on the gauge bench, cold room, living-colored fingers, asks Foss for the Arbitration Division's field manual; the drip counted at twenty-two; the Stage question let go again; rot turns to motion. Critics found it delivered, with one gap: the beat-and-hooks pass WARNs that the H08 concealment half-lands (Malphas never registers it). The field-manual line carries a canon WARN.
 
 ## Hooks
 
@@ -36,7 +36,7 @@ Paid: none (outline `pays` is empty).
 
 ## Front ticked
 
-Proposed Front **project-zombification** (Malphas's cell), segment 1 "The dose walks", first of its three pushes (ch2, 6, 10). World change: the matrix goes into the ninth hind; the POV sees the colour clearing at four pours, the hide drawing up once, the drip at twenty-two. Segment not filled. `front_id` stays null; nothing written to `table/fronts.yaml` (needs `add_front` on Isaac's word).
+Proposed Front **project-zombification** (Malphas's cell), segment 1 "The dose walks", first of its three pushes (ch2, 6, 10). World change: the matrix goes into the ninth hind; the POV sees the color clearing at four pours, the hide drawing up once, the drip at twenty-two. Segment not filled. `front_id` stays null; nothing written to `table/fronts.yaml` (needs `add_front` on Isaac's word).
 
 Written in Isaac's unattended run (he asked for the whole book written through); gate not decided
 

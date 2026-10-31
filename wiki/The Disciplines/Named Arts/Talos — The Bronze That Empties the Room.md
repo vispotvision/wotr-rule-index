@@ -60,7 +60,7 @@ The myth defines him by two facts: he was invulnerable to everything except the 
 
 **Activation** · None. Always on. The practitioner does not choose to activate it, cannot choose to deactivate it, **and in many cases is not initially aware that they are producing a null field.**
 
-A permanent low-intensity anti-phase field extending **5–15 metres** depending on Dominion. Within it, Wellspring effects diminish, techniques lose coherence, passive Traits degrade, active workings destabilise and collapse.
+A permanent low-intensity anti-phase field extending **5–15 meters** depending on Dominion. Within it, Wellspring effects diminish, techniques lose coherence, passive Traits degrade, active workings destabilise and collapse.
 > The cancellation is indiscriminate. The practitioner cannot use Wellspring-based techniques, cannot sustain Traits, cannot form or maintain a conventional Domain, and cannot benefit from allied support while standing inside their own field. **Their Crystal generates a null zone and then sits inside it.**
 **Cost** · Low, precisely because the field is unrefined. The Crystal is not performing targeted cancellation — it is leaking anti-phase Essence into the environment and letting the interference handle itself. **200–500 EU/s at idle**, a background metabolic process comparable to breathing.
 
@@ -77,10 +77,10 @@ A permanent low-intensity anti-phase field extending **5–15 metres** depending
 
 **Activation** · Declared, and sustained through deliberate expenditure.
 
-Passive Talos with the volume at maximum and will driving the output. Radius expands to **30–100 metres.** Suppression goes from ambient degradation to hard cancellation. Wellspring effects are not diminished, **they are zeroed.** Techniques do not lose coherence, **they cease to exist.** Domains collapse. Traits go dormant.
+Passive Talos with the volume at maximum and will driving the output. Radius expands to **30–100 meters.** Suppression goes from ambient degradation to hard cancellation. Wellspring effects are not diminished, **they are zeroed.** Techniques do not lose coherence, **they cease to exist.** Domains collapse. Traits go dormant.
 > The practitioner has declared that **no one in the room gets to use magic, including themselves.**
 Tenebra provides one refinement: partial self-shielding by tuning faceted geometry to redirect the cancellation away from the practitioner's own Shell. **Imperfect — roughly 15–30% of their own function is retained**, depending on how much concentration goes to shielding versus field maintenance. In practice: basic Essence reinforcement survives, complex techniques and Domain expression do not.
-> **The defining limitation: the practitioner is anchored.** They must stand at the centre and sustain from that fixed position. They cannot move outside the radius without collapsing the field, and repositioning costs the full activation expenditure again. **They have turned themselves into a stationary emplacement.**
+> **The defining limitation: the practitioner is anchored.** They must stand at the center and sustain from that fixed position. They cannot move outside the radius without collapsing the field, and repositioning costs the full activation expenditure again. **They have turned themselves into a stationary emplacement.**
 **EU Cost** · 80,000–200,000 activation. 8,000–20,000 EU/s maintenance. **Duration before incapacitation: 30–90 seconds** at full intensity depending on reserve.
 
 **Immediate cost** · Severe mental and physical fatigue. Gnosis degradation during sustained use, as the anti-phase field interferes with the practitioner's own cognitive processing. Post-deactivation recovery of minutes to hours.
@@ -111,7 +111,7 @@ The practitioner does not generate anti-phase interference and hope it cancels t
 
 *Every expression damages the practitioner. The mechanism is structural, not metabolic.*
 
-To cancel external Essence, the Crystal must produce Essence perfectly antiphase to whatever it encounters. **This means the Crystal is, with every activation, rehearsing the cancellation of its own output.** The Crystal learns what it practises, and an architecture optimised for cancellation is by definition an architecture progressively worse at generation.
+To cancel external Essence, the Crystal must produce Essence perfectly antiphase to whatever it encounters. **This means the Crystal is, with every activation, rehearsing the cancellation of its own output.** The Crystal learns what it practices, and an architecture optimised for cancellation is by definition an architecture progressively worse at generation.
 
 **Short-term** · Severe fatigue after every activation. Gnosis degrades first, being most sensitive to internal interference. Headaches, disorientation, temporary inability to process Aetheric information. Recovery in hours to days.
 

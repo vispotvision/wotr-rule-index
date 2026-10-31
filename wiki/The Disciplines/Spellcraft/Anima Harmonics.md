@@ -66,7 +66,7 @@ title: "Anima Harmonics"
 
 **Buzz** · A crack breaks a Crystal's symmetry and splits a paired mode into two lines a few hertz apart that beat; the beat grows with the fracture, and it sounds before any symptom.
 
-**Fell Chord** · A line the subject's own structure cannot produce came from elsewhere, a coupled neighbour or an outside drive; spotting it is comparing heard lines against possible ones.
+**Fell Chord** · A line the subject's own structure cannot produce came from elsewhere, a coupled neighbor or an outside drive; spotting it is comparing heard lines against possible ones.
 
 **Projection** · Injection locking, a weak clean tone pulling a nearby oscillator onto its frequency: the power delivered is negligible, the precision is the whole expense.
 

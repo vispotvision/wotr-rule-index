@@ -54,7 +54,7 @@ Its author devised the Obelisk alone, and it requires Stage XII, Emanation; as a
 
 **Lattice** · A high-stiffness, low-loss resonator holds its frequency against forcing, like cut quartz (Q 10⁴ to 10⁷, stability 10⁻⁶ to 10⁻⁸), so the prism holds its state for its whole span.
 
-**Cap** · Equal load sharing, like a fibre bundle: each survivor takes up a failed member's load, and past redistribution capacity the whole bundle fails at once rather than shedding its newest member.
+**Cap** · Equal load sharing, like a fiber bundle: each survivor takes up a failed member's load, and past redistribution capacity the whole bundle fails at once rather than shedding its newest member.
 
 **Anchor** · An arch-like compressive anchor, 5 to 50 MPa in compression and about a tenth in tension: loaded in the one direction it does not answer, it parts.
 
@@ -68,7 +68,7 @@ Its author devised the Obelisk alone, and it requires Stage XII, Emanation; as a
 
 ### Metaphysics
 
-**Aether** · A hemisphere of 1.34 × 10⁸ m³, held for as long as the line back to its maker holds; favoured by rock, worked stone and deep foundation, and it cannot be raised at sea, on a ship or from an airship.
+**Aether** · A hemisphere of 1.34 × 10⁸ m³, held for as long as the line back to its maker holds; favored by rock, worked stone and deep foundation, and it cannot be raised at sea, on a ship or from an airship.
 
 **Residue** · Heavy, structural and legible for a long time; the ground it stood on carries its Resonance and deafens Harmonists.
 
@@ -104,13 +104,13 @@ Its author devised the Obelisk alone, and it requires Stage XII, Emanation; as a
 
 **Effect** · Six orbiting sigils fall to a point and a prism the height of a tower grows from it; inside a district, one of the three modes runs, and no one on the ground knows which until it starts.
 
-**Sorting** · Friend and foe are sorted by the practitioner's judgement and attention; if that slips, allies are caught.
+**Sorting** · Friend and foe are sorted by the practitioner's judgment and attention; if that slips, allies are caught.
 
 **Hold** · The mode is locked at the trigger; changing it means collapse and a fresh raising. The trigger is internal: the practitioner stills their Essence and commits, with no outside chain to interrupt.
 
 **Failure** · Structural fault: under prolonged manifestation Structural Strain leaves micro-fractures in the Temperance layers, closed only by Essence stillness. A failed Sealing leaves an operatorless 800 m construct obeying itself.
 
-**Downstream** · Coherence fault: lived behaviour drifting from stated law warps the lattice toward inversion.
+**Downstream** · Coherence fault: lived behavior drifting from stated law warps the lattice toward inversion.
 
 **Bleed** · 10 to 15 percent of every draw leaves the Shell as heat, sound and structural bleed; the record is not shed but held, and replayed to the maker.
 

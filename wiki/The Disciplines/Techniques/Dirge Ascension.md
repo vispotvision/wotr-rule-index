@@ -67,7 +67,7 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 ### Metaphysics
 
-**Aether** · Four billion cubic metres with its couplings altered, not just its Essence spent. The residue is the most readable there is: every material inside records being sampled at the wrong scale, and Harmonists there hear everything slightly out of tune for a long time.
+**Aether** · Four billion cubic meters with its couplings altered, not just its Essence spent. The residue is the most readable there is: every material inside records being sampled at the wrong scale, and Harmonists there hear everything slightly out of tune for a long time.
 
 **Wellspring** · Exuroth, the Trial Flame (Caloria): repeated thermal shock then controlled recovery tempers the lattice past what slow cooling reaches; it supplies the tolerance to survive holding the state open.
 
@@ -93,7 +93,7 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Boundary** · The energy scale at which local couplings are read, inside 1,000 m for forty-five seconds; no single law is altered.
 
-**Effect** · Familiar laws with the wrong weights: survivable force is not, far distances are not, and every practised judgment is calibrated to a world no longer in the room. It ends on the clock, into recoil.
+**Effect** · Familiar laws with the wrong weights: survivable force is not, far distances are not, and every practiced judgment is calibrated to a world no longer in the room. It ends on the clock, into recoil.
 
 **Hold** · Zenith needs no anchor and the working has no outward component: total, internalised commitment.
 
@@ -124,7 +124,7 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Tell** · The practitioner commits totally and a kilometre of the world changes weight; nothing about it is quiet. Afterwards the practitioner is in recoil and the ground rings out of tune.
 
-**Limits** · Forty-five seconds, one kilometre with self at the centre, never alongside World Echelon, Sovereignty held at A.
+**Limits** · Forty-five seconds, one kilometre with self at the center, never alongside World Echelon, Sovereignty held at A.
 
 **Fails against** · The end of the counted window and the recoil after it; feints that waste ascensions; a divided crowd; Wellsprings detuned by fog, cold or shielding; Silence, Knot or Lock; Aether-dead ground; harm to the body in recoil; none of which needs the stronger side. An Archonic mandate or Talos-class Nihiloth null outranks it.
 

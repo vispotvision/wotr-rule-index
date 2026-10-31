@@ -12,7 +12,7 @@ A single articulated gauntlet of ethersteel and orichalcum-laced plate, sized to
 
 ### Physical account
 
-A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff to fingertip, point of balance at the heel of the palm beneath the gem, where the plate is thickest. On the Strike Force table, a discharge through it sits at Wilhelm's own Ardency, 268, B-Grade: 1 to 5 GN peak, 1.046 to 46 GJ, Building to Large Building level. It defeats proofed plate and fortified structure up to that ceiling. It fails against A-Grade-and-above personal defences (a Refraction-Stage or higher Domain shield), and, per its own Binding Limitation, against anything carrying genuine Divine Immunity.
+A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff to fingertip, point of balance at the heel of the palm beneath the gem, where the plate is thickest. On the Strike Force table, a discharge through it sits at Wilhelm's own Ardency, 268, B-Grade: 1 to 5 GN peak, 1.046 to 46 GJ, Building to Large Building level. It defeats proofed plate and fortified structure up to that ceiling. It fails against A-Grade-and-above personal defenses (a Refraction-Stage or higher Domain shield), and, per its own Binding Limitation, against anything carrying genuine Divine Immunity.
 
 ### Operation line
 
@@ -22,7 +22,7 @@ A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff
 
 **Force Repulsion Field.** A Petralon discharge through the palm, the same seismic transmission that makes his stance work, directed outward as a shockwave rather than held as ground contact. Numerical effect: bounded by the same B-Grade ceiling above.
 
-**Judgmental Reflection.** Nyxial's regulated system, the one that holds his baseline steady under both favourable and hostile conditions, redirects an incoming force back along its own vector instead of absorbing it. This is the same faculty that lets him hold setpoint through anything short of a Threshold Event; the gauntlet gives it an active answer instead of a passive one.
+**Judgmental Reflection.** Nyxial's regulated system, the one that holds his baseline steady under both favorable and hostile conditions, redirects an incoming force back along its own vector instead of absorbing it. This is the same faculty that lets him hold setpoint through anything short of a Threshold Event; the gauntlet gives it an active answer instead of a passive one.
 
 **Verdiction Seal.** Fixatio applied directly to a spirit or entity on contact: what is held by Fixatio stays held, and a sealed entity does not return to the material world by any means this working accounts for.
 

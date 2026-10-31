@@ -85,7 +85,7 @@ A Moto's own work, shaped across a hundred and twenty days of instruction on the
 
 **Aether** · A sharp draw per arrival and no sustain. Each arrival ratifies itself into the record, so the Residue is documentary as well as ambient; a field worked at tempo deafens Harmonists.
 
-**Wellspring** · Materia Primordia, the First Substance (Materia): graphite and diamond are one element arranged differently; the Crystal re-lattices its own Essence into an armoury.
+**Wellspring** · Materia Primordia, the First Substance (Materia): graphite and diamond are one element arranged differently; the Crystal re-lattices its own Essence into an armory.
 
 **Wellspring** · Anamnesis, the Wellspring of Remembrance (Limina): it reads the practitioner's combat history as a causal ledger and ratifies each claim.
 
@@ -97,7 +97,7 @@ A Moto's own work, shaped across a hundred and twenty days of instruction on the
 
 **Wellspring** · Aurevane, the Wellspring of Light (Fulguria): coherent light holds one phase across its front; it names the arrival as a designated, weighted thing.
 
-**Inherited failures** · Materia Primordia phase-locks the armoury to one allotrope under pressure; Anamnesis's thermal resetting erases a blade read carelessly; Monolithion's blade does not chip, it ends; Aurevane's glare makes the practitioner a beacon.
+**Inherited failures** · Materia Primordia phase-locks the armory to one allotrope under pressure; Anamnesis's thermal resetting erases a blade read carelessly; Monolithion's blade does not chip, it ends; Aurevane's glare makes the practitioner a beacon.
 
 **Essence** · The Essence Core supplies the substance and holds the ledger; the Shell is the coordinate; the Attraction Layer adjudicates lawfulness. Developmental Tier is Sovereign at Realization, settling Refined after years of lawful use.
 
@@ -115,7 +115,7 @@ A Moto's own work, shaped across a hundred and twenty days of instruction on the
 
 **Floor** · Realization, because the blade must be ratified at SS weight; below it the forge makes shapes, not verdicts. Bodily, read as Magicraft, with no chain to interrupt and no anchor.
 
-**Failure** · No precedent: an exchange the ledger has never met gets an empty hand. Under pressure the armoury phase-locks to one weapon for good; a blade remembered badly in haste can be lost.
+**Failure** · No precedent: an exchange the ledger has never met gets an empty hand. Under pressure the armory phase-locks to one weapon for good; a blade remembered badly in haste can be lost.
 
 **Bleed** · 20 to 30 percent of each arrival leaves the Shell as heat, sound and light, 16 percent at a Refined η 0.84; at tempo it is continuous and Aurevane makes it a beacon.
 

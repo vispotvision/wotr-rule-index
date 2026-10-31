@@ -31,7 +31,7 @@ flowchart TD
     R -->|"bound"| P["Safe passage"]
     R -->|"unbound"| B["Overwhelming vertigo<br>or spiritual burning"]
 ```
-*Transit feels like walking through wind and heartbeat. The world collapses into light, and the traveller reassembles where the Gate's twin awaits.*
+*Transit feels like walking through wind and heartbeat. The world collapses into light, and the traveler reassembles where the Gate's twin awaits.*
 
 ### Classifications
 
@@ -67,14 +67,14 @@ Only authorized guild members bearing valid **Transit Sigils** may pass freely. 
 
 ## The Transit Corridors
 
-Between Gates exist extradimensional veins of light and hum that form the connective tissue of the multiverse. To most travellers, a corridor appears as **endless mirrored pathways reflecting a thousand possible versions of themselves.** To the trained mind, it is a silent river of law — pure, directionless Aether.
-> **Time does not behave normally inside.** A journey that takes seconds outside might last hours, days, or entire lifetimes in perception, depending on the stability of the traveller's Essence. Veteran operatives call this **the Drift** — a test of Temperance and clarity of will.
+Between Gates exist extradimensional veins of light and hum that form the connective tissue of the multiverse. To most travelers, a corridor appears as **endless mirrored pathways reflecting a thousand possible versions of themselves.** To the trained mind, it is a silent river of law — pure, directionless Aether.
+> **Time does not behave normally inside.** A journey that takes seconds outside might last hours, days, or entire lifetimes in perception, depending on the stability of the traveler's Essence. Veteran operatives call this **the Drift** — a test of Temperance and clarity of will.
 >
 > Those who panic or lose mental cohesion **can split, arriving in multiple incomplete forms across several realms.** Enforcement calls this **Echo Fragmentation** — a form of metaphysical death worse than Severance.
 
 ### Malfunctions and hazards
 
-When a Gate destabilizes, the Veil Core emits a **Lattice Surge** — violent feedback of Aether that can shred travellers into resonance dust or open rifts to the Outer Realms. Causes include Wellspring collapses, Essence overdraw, or interference by divine entities. *During such events, light bends inward, sound becomes inverted, and gravity abandons direction.*
+When a Gate destabilizes, the Veil Core emits a **Lattice Surge** — violent feedback of Aether that can shred travelers into resonance dust or open rifts to the Outer Realms. Causes include Wellspring collapses, Essence overdraw, or interference by divine entities. *During such events, light bends inward, sound becomes inverted, and gravity abandons direction.*
 
 Some Gates, long abandoned, become corrupted — birthing **Echo Lairs** inhabited by entities known as **Drifters** or **Gateborn**, creatures assembled from failed travel resonance and fragmented souls.
 

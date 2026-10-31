@@ -78,7 +78,7 @@ A clerk who says *reGISter* trained in the chancery. One who says *REGister* lea
 
 ## IV. The Strata
 
-**The vernacular core.** Short, closed, monosyllabic. Body, weather, labour, kinship, violence, food. The oldest layer and the least changed, because nothing about carrying a load or burying a parent has needed a new word.
+**The vernacular core.** Short, closed, monosyllabic. Body, weather, labor, kinship, violence, food. The oldest layer and the least changed, because nothing about carrying a load or burying a parent has needed a new word.
 
 **The Latin overlay.** Law, contract, examination, craft, administration, medicine, measurement. Arrived with the Accord and arrived from above. Nearly every abstraction in Common is Latin, which is why a speaker reaching for a general idea sounds educated whether he is or not, and why a speaker who wants to sound plain has to work at it.
 
@@ -88,7 +88,7 @@ A clerk who says *reGISter* trained in the chancery. One who says *REGister* lea
 
 **Eressean loans** came through court and calendar, the smallest stratum and the highest status. *Seth*, from *saeth*, an appointed window: *at seth* is on time, *off seth* is late in a way that is somebody's fault. *Thair*, from *thaer*, a records room. *Lith*, from *lyth*, silence, borrowed together with the Eladrin practice, meaning a deliberate pause held in negotiation, which Concord negotiators attempt and almost always break first.
 
-**There is no word for magic.** Not a gap, a refusal. Common names the crafts by the labour: the work, the speaking, the writing, the cutting, the pouring, the singing. The Latin column exists for examiners and the plain column for everyone else, and a man who says *magic* has read too many chapbooks and is about to be corrected by somebody who has not.
+**There is no word for magic.** Not a gap, a refusal. Common names the crafts by the labor: the work, the speaking, the writing, the cutting, the pouring, the singing. The Latin column exists for examiners and the plain column for everyone else, and a man who says *magic* has read too many chapbooks and is about to be corrected by somebody who has not.
 
 ## V. Registers
 
@@ -106,7 +106,7 @@ By quarter, and the differences are lexical and prosodic rather than grammatical
 
 **Northern.** Heaviest Dawi loading, first-syllable stress generalised even onto Latin words. Slow. Reads as blunt to a westerner and honest to a northerner.
 
-**Eastern.** Heaviest Eressean loading, calendar vocabulary in ordinary use, the *lith* actually practised rather than attempted. An easterner who goes quiet in an argument has said something. A westerner reads it as having run out of words.
+**Eastern.** Heaviest Eressean loading, calendar vocabulary in ordinary use, the *lith* actually practiced rather than attempted. An easterner who goes quiet in an argument has said something. A westerner reads it as having run out of words.
 
 **Southern and the ports.** Cant closest to the surface, largest loan intake, fastest change. Almost every new word in Common in the last century entered through a port and was in respectable Western use within thirty years, while everybody denied where it came from.
 
@@ -118,7 +118,7 @@ Songscript is a score and needs a musician. Dawi runes need an angle-set and a h
 
 Literacy in Common is cheap. Literacy in every other written tongue in the four quarters is an apprenticeship. That single fact has done more to spread Common than the Accord, the Concord, and every army either has fielded.
 
-**It is not one of the Fourteen Hands and does nothing on its own.** Words written in it are inert. Every other script in this archive acts on the world by existing, which is why the peoples who own those scripts regard the Common alphabet as a convenience rather than a writing system, and why Common speakers regard that judgement as the reason those peoples cannot get a letter to a village.
+**It is not one of the Fourteen Hands and does nothing on its own.** Words written in it are inert. Every other script in this archive acts on the world by existing, which is why the peoples who own those scripts regard the Common alphabet as a convenience rather than a writing system, and why Common speakers regard that judgment as the reason those peoples cannot get a letter to a village.
 
 ## VIII. Speaking It Badly
 

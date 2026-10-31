@@ -16,7 +16,7 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 ## How it looks
 
-**A coat of their own aura.** Reinforcement shows as a skin of the practitioner's own colour: their Family's hue (the branch of physics their power works, each with its colour) at the clarity of their Stage (their step on the soul's sixteen-step ladder): dark low down, brighter as they climb. A Caloria (heat) fighter's coat shimmers ember-orange; a Fulguria (lightning) fighter's crackles arc-blue along the forearms; a Vectoria (force) fighter's shows as nothing but a weight the dust leans toward. It is thickest where they push.
+**A coat of their own aura.** Reinforcement shows as a skin of the practitioner's own color: their Family's hue (the branch of physics their power works, each with its color) at the clarity of their Stage (their step on the soul's sixteen-step ladder): dark low down, brighter as they climb. A Caloria (heat) fighter's coat shimmers ember-orange; a Fulguria (lightning) fighter's crackles arc-blue along the forearms; a Vectoria (force) fighter's shows as nothing but a weight the dust leans toward. It is thickest where they push.
 
 **The body under it.** Veins stand up, skin tightens and takes a sheen, the stance settles lower, and the breath deepens. Heat comes off a hard-pushed coat in waves.
 
@@ -24,7 +24,7 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 **Held gear, never other people.** The coat runs into what the hand is holding: a blade, a shield, a staff, the hilt of a hammer. Let go and it leaves the steel within a breath. It cannot be laid over another person, however close or however loved.
 
-**Masters can hide it.** Most practitioners must choose: hold their Pressure (the weight their presence puts on a room) in, which is tiring work, or coat up and show their colour. A master can reinforce with no colour showing at all, and that calm is a warning in itself. Few manage it below Master standing.
+**Masters can hide it.** Most practitioners must choose: hold their Pressure (the weight their presence puts on a room) in, which is tiring work, or coat up and show their color. A master can reinforce with no color showing at all, and that calm is a warning in itself. Few manage it below Master standing.
 
 ## What it costs
 

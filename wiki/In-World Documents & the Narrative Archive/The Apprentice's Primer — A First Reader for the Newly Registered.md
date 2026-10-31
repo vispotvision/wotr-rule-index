@@ -184,7 +184,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 ## Traits and Domains
 
 > *"Belief, once survived, becomes law."*
-**A Trait is the crystallised law of a soul.** *Traits are not learned. They awaken when four harmonics fall into coherence: the Core's emotional truth, the Attraction Layer's pattern of recognition, the Shell's behaviour of force, and the Temperance Field keeping the belief from collapsing under strain.*
+**A Trait is the crystallised law of a soul.** *Traits are not learned. They awaken when four harmonics fall into coherence: the Core's emotional truth, the Attraction Layer's pattern of recognition, the Shell's behavior of force, and the Temperance Field keeping the belief from collapsing under strain.*
 
 **Three failure states worth memorising.** **Resonance Fatigue**, background drain from holding a Trait. **Rigidity Effect**, what happens when you act against your own Trait. **Shear Break**, repeated action against your own law until the Trait inverts — *and inversion is never chosen and rarely reversed.*
 > **A Domain is not a technique. You do not deploy one the way you throw a punch.**

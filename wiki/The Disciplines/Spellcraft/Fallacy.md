@@ -156,6 +156,6 @@ title: "Fallacy"
 
 **Oblivara** · A redundantly encoded identity rebuilds its alignment from its own copies; past the correction limit the rebuild is confident, complete and wrong.
 
-**Silence** · No safe harbour: Silence stops authorisation, and Fallacy never asks for it.
+**Silence** · No safe harbor: Silence stops authorisation, and Fallacy never asks for it.
 
 **Look up** · The Counterplay register for Lock and Knot; Statute XXVI for lasting scars; the Limina entries for Nihiloth, Dissolution and Mirithane Failures; Judicium's price and Oblivara's limit; the Glory, Transcendence and Dissonance Stage tables.

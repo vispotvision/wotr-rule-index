@@ -62,7 +62,7 @@ The tenders who work the arrays pay for this in the ordinary way. Long array dut
 |---|---|---|
 | **North** · Inner World | Iron, nickel, copper, salt, beryl, timber | Cheap array heat, expensive everything else |
 | **West** · Old World | Wolfram, tin, lead, coal, lime, reworked slag | Total array dependency for survival, not production |
-| **East** · New World | Gold, silver, sulphur, cement, Onceglass, Cloudmetal — the arc's; the elven old-ground beside it lies outside this ledger | Almost no array dependency outside the eastern arc |
+| **East** · New World | Gold, silver, sulfur, cement, Onceglass, Cloudmetal — the arc's; the elven old-ground beside it lies outside this ledger | Almost no array dependency outside the eastern arc |
 | **South** · Outer World | Phosphate, nitre, chromite, fulgurite, serpentine | Extraction by hand at scale, value added elsewhere |
 
 ---
@@ -79,7 +79,7 @@ The tenders who work the arrays pay for this in the ordinary way. Long array dut
 | **Rock dust, silicate** | Western slate belts | Grinder's cough. Twenty year onset |
 | **Rock dust, fibrous serpentine** | Southern coastal quarries | Twenty year onset, invariably fatal, no treatment recorded |
 | **Lahar** | Eastern volcanic plains | Sudden, total, and faster than a horse |
-| **Fumarole gas pooling** | Eastern sulphur fields | Silent, collects in hollows, **kills rescue parties second** |
+| **Fumarole gas pooling** | Eastern sulfur fields | Silent, collects in hollows, **kills rescue parties second** |
 | **Wellspring drift** | Eastern quarter generally | Economic rather than physical. Bankrupts rather than kills |
 | **Tender's shake** | All array houses, all quarters | Onset at approximately eight years of service. Permanent. **No compensation scheme exists in any quarter** |
 | **Crevice proximity** | Southern Crevice margin | Undescribed. Four-league exclusion, revised outward five times in the last sixty years |

@@ -44,7 +44,7 @@ It was a long flat cut, the whole length of the blade, and Aksel saw it coming a
 
 Muken did not stop there.
 
-He went after him. He came in off his back foot as hard and fast as he had ever moved in his life, his broken ribs screaming and the blood running down his side and the white of the lifting going grey at the edges, and he did not lift the sword. The axe was coming up between them, and the sword would have had to go round it, and there was no time to go round anything. So he dropped his head and drove the crown of it, forehead first, the whole weight of his body behind it, straight into Aksel Keld's face.
+He went after him. He came in off his back foot as hard and fast as he had ever moved in his life, his broken ribs screaming and the blood running down his side and the white of the lifting going gray at the edges, and he did not lift the sword. The axe was coming up between them, and the sword would have had to go round it, and there was no time to go round anything. So he dropped his head and drove the crown of it, forehead first, the whole weight of his body behind it, straight into Aksel Keld's face.
 
 He felt the nose go under his forehead. The bridge of it, the thin bones between the eyes. He felt it give and spread like a crushed egg. Blood burst across his brow and into his eyes and down his face, hot, salt, and the sound Aksel made was a thick wet grunt, as if all the air in him had been punched out through his face. The back of the Keld's head snapped back. His eyes rolled up white for an instant.
 
@@ -108,7 +108,7 @@ All around them, out in the white, the Keld were scattering. He could hear it. T
 
 The herd was scattering.
 
-Muken stood in the little cleared ring of trampled snow with the Iron Fist of the Keld broken at his feet, and the wolfhound came up beside him with blood on its muzzle that was not its own, and pressed its great grey shoulder against his leg, and for the space of three breaths, in the white, in the silence after the singing, he thought it was over.
+Muken stood in the little cleared ring of trampled snow with the Iron Fist of the Keld broken at his feet, and the wolfhound came up beside him with blood on its muzzle that was not its own, and pressed its great gray shoulder against his leg, and for the space of three breaths, in the white, in the silence after the singing, he thought it was over.
 
 Then he heard the horse.
 
@@ -118,7 +118,7 @@ Then he heard the horse.
 
 It was Mark Stark.
 
-He came out of the white from the west, from the shore, on a lathered Stark bay that was going lame in the near fore, and he was riding with one arm. The other hung at his side with a black-glass arrow standing out of the meat of the upper arm, through the hide-coat and the mail, the shaft snapped off short. There was blood all down that side of him. His face was the colour of the snow.
+He came out of the white from the west, from the shore, on a lathered Stark bay that was going lame in the near fore, and he was riding with one arm. The other hung at his side with a black-glass arrow standing out of the meat of the upper arm, through the hide-coat and the mail, the shaft snapped off short. There was blood all down that side of him. His face was the color of the snow.
 
 He pulled the bay up so hard it nearly went down, and looked at Muken, and looked at the body on the ice, and did not seem to see it.
 
@@ -126,7 +126,7 @@ He pulled the bay up so hard it nearly went down, and looked at Muken, and looke
 
 Muken did not move.
 
-"Yukazuri," said Mark. His voice cracked on it. "On the shore. The surgeons' line. They came out of the lifting, grey men, a score of them, more, on southern horses. We never saw them till they were in among the carts." He swayed in the saddle and caught himself on the pommel with his good hand. "They killed the Greymane guard. All of them. Set fire to the carts. Took her and put her in a carriage, a closed thing on runners, Tenrai black and gold, it was waiting on the shore road the whole time, Sky knows how long, and they're going south with her. On the Seat road." He breathed. "I tried. I'm sorry. I tried."
+"Yukazuri," said Mark. His voice cracked on it. "On the shore. The surgeons' line. They came out of the lifting, gray men, a score of them, more, on southern horses. We never saw them till they were in among the carts." He swayed in the saddle and caught himself on the pommel with his good hand. "They killed the Greymane guard. All of them. Set fire to the carts. Took her and put her in a carriage, a closed thing on runners, Tenrai black and gold, it was waiting on the shore road the whole time, Sky knows how long, and they're going south with her. On the Seat road." He breathed. "I tried. I'm sorry. I tried."
 
 "Where," said Muken.
 
@@ -144,7 +144,7 @@ He knew why she had not stayed at the Foot. He knew it before Mark finished. He 
 
 And Karogane had known she would.
 
-Muken understood that too, standing there on the ice with the roar still in his throat. He understood it the way he had understood the gold lines in the Keld host. The Tenrai agent had never come to the Skeldmere to break the boy with a sentence. The carter had told him in the war-lodge at dawn that the sentence was spent, and Karogane had said *it changes nothing,* and he had been right, because the sentence had never been the plan. It had only been the first plan. The second plan had been sitting on the shore road in a closed carriage on runners since before the grey came up, waiting for the lifting, waiting for the king of the north to be busy somewhere out on the ice, waiting for the one person in the world he would turn his whole army round for.
+Muken understood that too, standing there on the ice with the roar still in his throat. He understood it the way he had understood the gold lines in the Keld host. The Tenrai agent had never come to the Skeldmere to break the boy with a sentence. The carter had told him in the war-lodge at dawn that the sentence was spent, and Karogane had said *it changes nothing,* and he had been right, because the sentence had never been the plan. It had only been the first plan. The second plan had been sitting on the shore road in a closed carriage on runners since before the gray came up, waiting for the lifting, waiting for the king of the north to be busy somewhere out on the ice, waiting for the one person in the world he would turn his whole army round for.
 
 *The red line's last. Both of us. Not one.*
 
@@ -162,11 +162,11 @@ Behind him, on the ice, the Iron Fist of the Keld lay on his back in the snow wi
 
 He came out of the lifting onto the shore of the Skeldmere and the world was burning.
 
-The surgeons' carts were burning. Six of them, drawn up in a half-ring on the snow above the ice with their shafts down, the way Yukazuri had always drawn up her line, a wall against the wind, and every one of them was alight from end to end. The linen was burning, the clean linen in its rows, and the boiled cloth in its tubs had boiled dry and the tubs were burning too, and the spirit had gone up in a blue roar that had blackened the snow for ten paces round. The flames stood up orange and gold against the white, so bright after the lifting that they hurt to look at, and the snow round them had gone the colour of a forge mouth. The smoke went up thick and greasy into the white and lay along the shore. The smell was burning cloth and burning wood and burning spirit and, under it, something else.
+The surgeons' carts were burning. Six of them, drawn up in a half-ring on the snow above the ice with their shafts down, the way Yukazuri had always drawn up her line, a wall against the wind, and every one of them was alight from end to end. The linen was burning, the clean linen in its rows, and the boiled cloth in its tubs had boiled dry and the tubs were burning too, and the spirit had gone up in a blue roar that had blackened the snow for ten paces round. The flames stood up orange and gold against the white, so bright after the lifting that they hurt to look at, and the snow round them had gone the color of a forge mouth. The smoke went up thick and greasy into the white and lay along the shore. The smell was burning cloth and burning wood and burning spirit and, under it, something else.
 
 The Greymane guard lay in the snow among the carts.
 
-Twenty men. Muken did not count them; he knew the number Godfrey would have sent. They lay where they had stood, in their grey cloaks, in a rough ring round the place where the surgeons' tent had been, most of them on their backs, most of them with their spears still in their hands. Some had been cut down from horseback, the long downward strokes of a cavalry sword that open a man from the collarbone to the breastbone. Some had been shot. One, near the tent, lay on his face with his own spear through him from behind, the point standing out between his shoulder blades, and his arms folded under him as though he had been holding them that way when he died.
+Twenty men. Muken did not count them; he knew the number Godfrey would have sent. They lay where they had stood, in their gray cloaks, in a rough ring round the place where the surgeons' tent had been, most of them on their backs, most of them with their spears still in their hands. Some had been cut down from horseback, the long downward strokes of a cavalry sword that open a man from the collarbone to the breastbone. Some had been shot. One, near the tent, lay on his face with his own spear through him from behind, the point standing out between his shoulder blades, and his arms folded under him as though he had been holding them that way when he died.
 
 Muken knew that man. He had seen him at the woodpile. A Greymane spearman near the gate, with his arms folded and his face like a shut door, who had stood when the yard knelt.
 
@@ -174,25 +174,25 @@ Muken knew that man. He had seen him at the woodpile. A Greymane spearman near t
 
 The wounded from the Stark ring lay where they had been carried, in a row in the lee of the carts. Some of them were still alive. Some of them were screaming. A Stark boy with no left hand was sitting up in the snow holding the stump against his chest and rocking, and looked up as Muken came past, and his mouth opened, and nothing came out of it.
 
-Among the burning carts, the grey men were waiting.
+Among the burning carts, the gray men were waiting.
 
 There were eight of them. They had been left. Muken saw it at once, the way he saw the gold lines: a rear-guard, set across the mouth of the shore road where it left the Skeldmere and went south through the low drifts toward the Seat, to hold it long enough. Long enough for what, he could see over their heads. A dark shape on the road, half a mile south and going away, a long black box on runners drawn by four horses at the gallop, with riders round it, going into the white.
 
 *There.*
 
-The grey men saw him coming. They spread out across the road. They did it well, with no word spoken, the way Karogane moved, every step measured. They were dismounted, their horses held behind them by a ninth man, and they had cavalry swords in their hands, long and slightly curved, Tenrai steel with the gold worked so fine into the guards that you could only see it in the firelight. Plain grey cloaks. Hoods up. No faces.
+The gray men saw him coming. They spread out across the road. They did it well, with no word spoken, the way Karogane moved, every step measured. They were dismounted, their horses held behind them by a ninth man, and they had cavalry swords in their hands, long and slightly curved, Tenrai steel with the gold worked so fine into the guards that you could only see it in the firelight. Plain gray cloaks. Hoods up. No faces.
 
 "*Where is she?*" Muken roared at them.
 
 They did not answer. They came at him.
 
-The first two came together, from either side of the bay's head, the way a pair of hounds come at a stag. He was off the horse before they reached it. He did not remember getting off. He was on the snow with the scrap-iron sword out of its scabbard in his hand, and it came out with that grinding catch again, halfway, as if the steel had swollen. He did not care. The first grey man was coming in from the left with his sword up for a cut at the head, and Muken did not parry it. He stepped in under it, inside the arc, close enough to smell the man's breath through the hood, and brought the scrap-iron sword round flat and low and up, two-handed, with his hips behind it, into the side of the man's neck below the hood.
+The first two came together, from either side of the bay's head, the way a pair of hounds come at a stag. He was off the horse before they reached it. He did not remember getting off. He was on the snow with the scrap-iron sword out of its scabbard in his hand, and it came out with that grinding catch again, halfway, as if the steel had swollen. He did not care. The first gray man was coming in from the left with his sword up for a cut at the head, and Muken did not parry it. He stepped in under it, inside the arc, close enough to smell the man's breath through the hood, and brought the scrap-iron sword round flat and low and up, two-handed, with his hips behind it, into the side of the man's neck below the hood.
 
 The edge went in at the side of the throat, through the muscle there, the long cord of it that turns the head, and on. The blade was dull and pitted and worn thin, and it should not have gone through. It went through. It was still humming, very faintly, and wherever it went the flesh and the bone seemed to part ahead of it along lines that were already there. It went through the windpipe and the spine at the neck with a short hard grinding crunch, and out the other side, and the hood fell one way and the body fell the other.
 
-The second grey man was already swinging. Muken turned on the ball of his foot with the dead man's blood still in the air between them and took the swing on the scrap-iron blade, edge to edge, and felt it bite into his own blade, deep, a notch the width of a finger, and he did not care about that either. He shoved. The grey man's sword slid off his. And Muken cut back across, high, at the place where the hood met the shoulder, and the head came off that one too.
+The second gray man was already swinging. Muken turned on the ball of his foot with the dead man's blood still in the air between them and took the swing on the scrap-iron blade, edge to edge, and felt it bite into his own blade, deep, a notch the width of a finger, and he did not care about that either. He shoved. The gray man's sword slid off his. And Muken cut back across, high, at the place where the hood met the shoulder, and the head came off that one too.
 
-It came off clean. It went up and turned once in the air with the grey hood still on it and came down on the burning cart behind, and lay there.
+It came off clean. It went up and turned once in the air with the gray hood still on it and came down on the burning cart behind, and lay there.
 
 "*You will pay!*"
 
@@ -202,29 +202,29 @@ He was roaring it at the cart, at the dark shape on the road, at the white, at a
 
 The other six came.
 
-He met them in the smoke among the burning carts, and afterward he did not remember most of it. He remembered pieces. A sword coming at his face out of the smoke, and the scrap-iron blade coming up under it, and the sound the two met with, a high ugly shriek, and the pain in his hands. A grey man going down with his knee opened. The wolfhound with its jaws locked on a grey man's sword-arm, shaking him like a rat while he screamed, until the arm broke and the scream changed. Heat on his left side from a burning cart. Blood in his eyes again, someone's, his own. A cut along his right forearm he did not feel until later, through the coat and the skin to the meat, a long clean opening the length of his hand.
+He met them in the smoke among the burning carts, and afterward he did not remember most of it. He remembered pieces. A sword coming at his face out of the smoke, and the scrap-iron blade coming up under it, and the sound the two met with, a high ugly shriek, and the pain in his hands. A gray man going down with his knee opened. The wolfhound with its jaws locked on a gray man's sword-arm, shaking him like a rat while he screamed, until the arm broke and the scream changed. Heat on his left side from a burning cart. Blood in his eyes again, someone's, his own. A cut along his right forearm he did not feel until later, through the coat and the skin to the meat, a long clean opening the length of his hand.
 
 And the scrap-iron sword, failing.
 
-He felt it go. It had been singing since the ice, since *Fure*, and every time it met a Tenrai blade the song in it went more sour. He had held its note too long. It had carried the cracks in the iron fist and the horn plates and the grey men's necks, and somewhere in all of that carrying it had found its own. He could hear it. A crack in the scrap-iron, near the guard, where the old blade had been forged and reforged a hundred times by men who did not care what it was. It was humming. It was running.
+He felt it go. It had been singing since the ice, since *Fure*, and every time it met a Tenrai blade the song in it went more sour. He had held its note too long. It had carried the cracks in the iron fist and the horn plates and the gray men's necks, and somewhere in all of that carrying it had found its own. He could hear it. A crack in the scrap-iron, near the guard, where the old blade had been forged and reforged a hundred times by men who did not care what it was. It was humming. It was running.
 
-A grey man came in at him from the right with a lunge at his belly. Muken knocked it aside with the scrap-iron sword, and the scrap-iron sword broke.
+A gray man came in at him from the right with a lunge at his belly. Muken knocked it aside with the scrap-iron sword, and the scrap-iron sword broke.
 
 It came apart along its own line, the way the iron fist had, the crack running up from the guard through the black pitted blade in a long jagged branching seam, and two-thirds of it fell off into the snow, and he was holding the hilt and a hand's length of broken steel.
 
-He threw it at the grey man's face. The man flinched.
+He threw it at the gray man's face. The man flinched.
 
 Muken went past him.
 
-There was a Keld lance lying in the snow beside one of the burning carts. Birch, with a long leaf-shaped head, dropped by some Keld rider who had chased a Stark wounded this far and died for it. He snatched it up on the run. He turned with it. The grey man who had lunged was coming after him, and another behind him, and Muken did not set the lance or brace it. He ran at them with it held low in both hands like a hay-fork and drove it into the first grey man's belly under the ribs, through the cloak and the coat and whatever was under the coat, with all his weight and all his rage behind it, so far that the leaf head came out of the man's back and the birch shaft went in after it to the length of a hand, and the man folded over it and went down.
+There was a Keld lance lying in the snow beside one of the burning carts. Birch, with a long leaf-shaped head, dropped by some Keld rider who had chased a Stark wounded this far and died for it. He snatched it up on the run. He turned with it. The gray man who had lunged was coming after him, and another behind him, and Muken did not set the lance or brace it. He ran at them with it held low in both hands like a hay-fork and drove it into the first gray man's belly under the ribs, through the cloak and the coat and whatever was under the coat, with all his weight and all his rage behind it, so far that the leaf head came out of the man's back and the birch shaft went in after it to the length of a hand, and the man folded over it and went down.
 
 He let go of the lance.
 
-The second grey man was on him. Muken caught the sword-wrist in his left hand as it came down, and held it, and the grey man was strong and the broken ribs on Muken's left side were grinding and his arm shook. His right hand went out by itself to the grey man's belt. There was a knife there. A long thin Tenrai dagger in a sheath of black lacquer. He drew it.
+The second gray man was on him. Muken caught the sword-wrist in his left hand as it came down, and held it, and the gray man was strong and the broken ribs on Muken's left side were grinding and his arm shook. His right hand went out by itself to the gray man's belt. There was a knife there. A long thin Tenrai dagger in a sheath of black lacquer. He drew it.
 
-He drove it into the side of the grey man's head.
+He drove it into the side of the gray man's head.
 
-It went in above the ear, through the hood and the hair and the thin flat bone of the temple, to the hilt. The grey man's eyes went wide inside the hood. His sword hand opened. He stood there a moment, held up by Muken's grip on his wrist, with the black lacquer hilt standing out of the side of his head, and then Muken let go, and he went down in the snow beside the burning cart, and did not move.
+It went in above the ear, through the hood and the hair and the thin flat bone of the temple, to the hilt. The gray man's eyes went wide inside the hood. His sword hand opened. He stood there a moment, held up by Muken's grip on his wrist, with the black lacquer hilt standing out of the side of his head, and then Muken let go, and he went down in the snow beside the burning cart, and did not move.
 
 ---
 
@@ -234,7 +234,7 @@ Muken stood among the dead and the fire.
 
 He stood there with his chest heaving and the breath going up off him in a great white plume into the greasy smoke, and his hands hanging at his sides, empty, and the blood all over him. In his hair. In his eyes. Down the front of the dead sergeant's coat and Ulf Stark's mail, so much of it that the brown wool had gone black and stiff with it and the rings of the mail were clotted. Some of it was his. Most of it was not. His broken ribs were a red roaring furnace on his left side and every breath went in short and came out with a catch, and his right forearm was laid open and dripping off his fingers into the snow, each drop landing bright as a rowan berry and spreading pink into the crust, and his split palm, where he had held the sword by the blade, had begun at last to hurt.
 
-The carts burned round him. The wounded in the lee of the carts had gone quiet, or most of them. The wolfhound stood a little way off over the grey man whose arm it had broken, with its head low, and the grey man was not moving either.
+The carts burned round him. The wounded in the lee of the carts had gone quiet, or most of them. The wolfhound stood a little way off over the gray man whose arm it had broken, with its head low, and the gray man was not moving either.
 
 He looked down.
 
@@ -242,35 +242,35 @@ There was something in the snow at his feet, among the trampled footprints and t
 
 Her salve tin.
 
-He picked it up. It was dented. The lid had been half pulled off, as though she had had it in her hand when they took her and held on to it until someone tore her fingers off it. The salve inside had gone hard and grey in the cold. And on the lid, scratched into the tin, freshly, with the point of something sharp, a needle, the scratches still bright against the dull metal, there was a mark.
+He picked it up. It was dented. The lid had been half pulled off, as though she had had it in her hand when they took her and held on to it until someone tore her fingers off it. The salve inside had gone hard and gray in the cold. And on the lid, scratched into the tin, freshly, with the point of something sharp, a needle, the scratches still bright against the dull metal, there was a mark.
 
 The long down-stroke. The hook. The crossing. The small closed loop at the foot like a knot in a rope.
 
 And under it, smaller, scratched hard and quick and crooked, an arrow. Pointing south.
 
-She had left him a sign. She had stood on the shore of the Skeldmere with her carts burning round her and the Greymane guard dying in the snow and grey men coming for her out of the smoke, and she had taken the needle out of her apron pocket and scratched their name and the way they were taking her into the lid of her salve tin, and dropped it where he would find it. Because she had known he would come. Because she had never in her life doubted that he would come.
+She had left him a sign. She had stood on the shore of the Skeldmere with her carts burning round her and the Greymane guard dying in the snow and gray men coming for her out of the smoke, and she had taken the needle out of her apron pocket and scratched their name and the way they were taking her into the lid of her salve tin, and dropped it where he would find it. Because she had known he would come. Because she had never in her life doubted that he would come.
 
 Muken closed his hand on the tin until the dented edge of it cut into the split palm.
 
 He looked up.
 
-Half a mile south, on the shore road, the long black box on runners was still visible against the white, going away. It had slowed. The road climbed there, out of the low drifts round the Skeldmere toward the first of the hills, and the four horses were labouring on the slope. The riders round it had slowed too. And among them, at the back, on a tall grey southern horse that stood a hand higher than any of the others, one rider had turned in his saddle, and was looking back at the burning shore.
+Half a mile south, on the shore road, the long black box on runners was still visible against the white, going away. It had slowed. The road climbed there, out of the low drifts round the Skeldmere toward the first of the hills, and the four horses were laboring on the slope. The riders round it had slowed too. And among them, at the back, on a tall gray southern horse that stood a hand higher than any of the others, one rider had turned in his saddle, and was looking back at the burning shore.
 
 Karogane.
 
-Muken could not see his face at that distance. He knew him by the shape against the white, tall and lean, with the hood down, sitting the grey horse without a tremor, looking back. Looking at him.
+Muken could not see his face at that distance. He knew him by the shape against the white, tall and lean, with the hood down, sitting the gray horse without a tremor, looking back. Looking at him.
 
 "*You think you can run?*"
 
-The roar came out of him with everything he had left. It tore his throat. It went out across the burning shore and the trampled snow and the dead, out across the half-mile of white to the shore road, and he saw the tall grey rider hear it. He saw the head lift.
+The roar came out of him with everything he had left. It tore his throat. It went out across the burning shore and the trampled snow and the dead, out across the half-mile of white to the shore road, and he saw the tall gray rider hear it. He saw the head lift.
 
 "*You think you can run from me?*"
 
-The grey rider did not move.
+The gray rider did not move.
 
 "*I will not stand for this!*" Muken was walking now, then running, out past the burning carts onto the shore road with the salve tin clenched in his bleeding hand and no weapon at all. "*Do you hear me, Tenrai? I will not stand for it! If you do anything to her, anything, if you touch one hair on her head, you will regret it! You will regret it for the rest of your life, and I will make it a very short one!*"
 
-Out on the hill, the tall grey rider turned his horse away, unhurried. He turned his back on the burning shore and the boy running on the road, and touched his heels to the tall grey horse, and rode on up the slope after the black carriage, and did not look back again.
+Out on the hill, the tall gray rider turned his horse away, unhurried. He turned his back on the burning shore and the boy running on the road, and touched his heels to the tall gray horse, and rode on up the slope after the black carriage, and did not look back again.
 
 Muken ran after him.
 
@@ -306,11 +306,11 @@ He said it more quietly. He did not loosen his arms.
 
 It came out of Muken in a whisper. It was barely a voice at all.
 
-"No," said Lorn. "She's not." He was quiet a moment. "She's my king's sister. She closed the cut on my brother Rob's leg at the Foot with her own hands while he screamed at her, and then she sat with him till he slept." His arms tightened. "And I swear to you, by the sky that covers us, by my father's death and my honour, we'll get her back. Every Stark rider on this ice will ride for it. But not like this. Not on foot, bleeding, with no sword, after an hour's start, into the white, with the Tenrai waiting at the end of it." He breathed. "That's what they want. That's the whole of why they took her. Don't give it them."
+"No," said Lorn. "She's not." He was quiet a moment. "She's my king's sister. She closed the cut on my brother Rob's leg at the Foot with her own hands while he screamed at her, and then she sat with him till he slept." His arms tightened. "And I swear to you, by the sky that covers us, by my father's death and my honor, we'll get her back. Every Stark rider on this ice will ride for it. But not like this. Not on foot, bleeding, with no sword, after an hour's start, into the white, with the Tenrai waiting at the end of it." He breathed. "That's what they want. That's the whole of why they took her. Don't give it them."
 
 Out on the hill, the long black carriage reached the top of the slope, and went over it, and was gone.
 
-The riders round it went over after it, one by one, small and dark against the white. The tall grey horse went last. And then there was nothing on the shore road but the empty white of the lifting, and the snow, and the long double furrow of the carriage runners going south over the hill toward Kharven-Seat and the Hall of Verdicts and whatever was waiting there.
+The riders round it went over after it, one by one, small and dark against the white. The tall gray horse went last. And then there was nothing on the shore road but the empty white of the lifting, and the snow, and the long double furrow of the carriage runners going south over the hill toward Kharven-Seat and the Hall of Verdicts and whatever was waiting there.
 
 Muken stood on the road in Lorn Stark's arms and watched the place where it had gone.
 
@@ -354,7 +354,7 @@ Then he closed his hand on it again, and turned round, and walked back along the
 2. Muken steps off the line of the coming blow. (I)
 3. He sweeps the blade toward the man's gut, and Aksel stands back. (I)
 4. He blitzes forward and head-butts him; blood flies; Aksel is dazed and falls on his back. (I)
-5. He slams the pommel into Aksel's armour like a hammer. "This is for the PEOPLE! FOR EVERYTHING..." Aksel doesn't fight back. Muken roars, fuelled by adrenaline. (I)
+5. He slams the pommel into Aksel's armor like a hammer. "This is for the PEOPLE! FOR EVERYTHING..." Aksel doesn't fight back. Muken roars, fueled by adrenaline. (I)
 6. He sheathes his blade. Aksel's body is broken. (I)
 7. They've taken Yukazuri as a hostage; Karogane has her tied up and is taking her to Kharven-Seat in a carriage. (II, IV)
 8. "WHERE IS SHE!?" (II, III)
@@ -367,7 +367,7 @@ Then he closed his hand on it again, and turned round, and walked back along the
 
 **How she was taken** (originated here, to answer "explain how she got kidnapped"):
 - **She left the Foot to save the wounded.** Once the arrows started, a man shot in the gut couldn't be carried two hours to the Foot. So she brought her line to the shore of the Skeldmere behind the Stark ring, with twenty Greymane guards Godfrey couldn't refuse her.
-- **Karogane's real plan.** The sentence between the lines was only his first plan; the carriage was the second. A closed Tenrai carriage on runners waited on the shore road from before dawn. Grey men came out of the whiteout while Muken was on the ice, killed the guard, burned the carts and took her. "He doesn't need to kill me. He only needs her." She's the other last Kōkan.
+- **Karogane's real plan.** The sentence between the lines was only his first plan; the carriage was the second. A closed Tenrai carriage on runners waited on the shore road from before dawn. Gray men came out of the whiteout while Muken was on the ice, killed the guard, burned the carts and took her. "He doesn't need to kill me. He only needs her." She's the other last Kōkan.
 - **The traitor.** The Greymane spearman with folded arms from Chapter Twelve let them in, and they paid him with his own spear through his back.
 - **Her sign.** She scratched the Kōkan mark and an arrow pointing south into the lid of her salve tin with her needle, and dropped it for him.
 - **Where:** south on the Seat road, to Kharven-Seat, the Hall of Verdicts. Your "Khavern's Seat" is written as canon "Kharven-Seat."
@@ -382,7 +382,7 @@ Then he closed his hand on it again, and turned round, and walked back along the
 - **Aksel lives**, badly broken: sternum staved in, nose crushed, iron hand destroyed, pink froth. He stops fighting the moment the hand comes apart. His line: "That's what you'd have offered. At my fire." Muken stops himself mid-blow, with an inherited echo of the card's line *he always stopped*. Aksel's fate is the next call.
 - **The wounds.** Muken now has the left seventh and eighth ribs broken, the old cut torn open, a forehead split from the head-butt, his right forearm opened, and his left palm cut from gripping the blade.
 - **Mark Stark** brings the news, with a glass arrowhead in his arm.
-- **The wolfhound** breaks a grey man's arm.
+- **The wolfhound** breaks a gray man's arm.
 - **Rob's leg.** Lorn's oath recalls Yukazuri closing the cut on his brother Rob's leg at the Foot.
 - **The odds Lorn cites.** Karogane has about thirty riders and an hour's start.
 - **The last image.** Muken walks back to the burning carts "to see who of his could still be saved." That's Yukazuri's job, now his.
@@ -397,4 +397,4 @@ Then he closed his hand on it again, and turned round, and walked back along the
 - R70-114: the warm bond, under threat.
 - R79-6: no figures in the fight.
 
-**Revision 2026-10-24.** Colour lifted on the ice and shore (frost sparks in the lifting, the fire's orange and gold, blood bright on the snow, a low gold sun breaking over the glittering Skeldmere at the close); no magitech added, since this is open lake and frontier road; tics trimmed ("did not need to", "very/quite still", the bad-ledge simile), with the full mark kept only at the salve-tin payoff. All beats and Isaac's lines kept word for word.
+**Revision 2026-10-24.** Color lifted on the ice and shore (frost sparks in the lifting, the fire's orange and gold, blood bright on the snow, a low gold sun breaking over the glittering Skeldmere at the close); no magitech added, since this is open lake and frontier road; tics trimmed ("did not need to", "very/quite still", the bad-ledge simile), with the full mark kept only at the salve-tin payoff. All beats and Isaac's lines kept word for word.

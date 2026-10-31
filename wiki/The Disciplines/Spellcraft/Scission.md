@@ -23,7 +23,7 @@ Wellspring · **Dissolution**, the Unbinding Stream (primary); Judicium, Fixatio
 
 Family · **Limina** — Entropy, Void and Mind.
 
-Physics Domain · Entropy and phase behaviour (solvation).
+Physics Domain · Entropy and phase behavior (solvation).
 
 Category · **Ritus** (Spirit-Aligned).
 

@@ -19,7 +19,7 @@ Runecraft (the cutting: a working written in Parun, the glyph grammar of all mag
 
 **Runed gear.** Lamps that burn without oil, stove plates, door wards in a clerk's house, a knife that holds its edge, a coat that sheds rain, a lock that knows its key. The cuts are fine and shallow, stamped with a cutter's mark and an excise seal, and often repaired, worse each time. The great pieces are another matter: a gate-array, a sword that has killed in nine wars, a ward under a fortress. They are all old, several can no longer be fully read, and nobody living can make another, because what was lost was the condition the old cutters worked in, not their skill.
 
-**Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a fuse. The user presses it to a surface or slaps it onto a body and pushes Essence (their own power) into it with the thumb; it flares in the user's colour, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
+**Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a fuse. The user presses it to a surface or slaps it onto a body and pushes Essence (their own power) into it with the thumb; it flares in the user's color, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
 
 | Fuel | How it works | Its weakness |
 |---|---|---|
@@ -29,9 +29,9 @@ Runecraft (the cutting: a working written in Parun, the glyph grammar of all mag
 
 Only practitioners can use a tag. The working waits for a woken Crystal (the soul's organ of power) to close it, and a sealed Crystal cannot. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under the Accord's mark, make them, and a black market sells unstamped ones beside every hall.
 
-**Bonded weapons.** A practitioner who carries one weapon through years of hard fighting leaves their Essence in it the way a hand leaves a shine on a hilt. In time the weapon answers them: it takes their colour when they reinforce, and when they release (let their Trait loose in its learned form), it carries part of the release. A blade may burn with its owner's heat, a staff hold the edge of their field. The weapon grows as its owner grows, and its part of the release is written on the owner's card.
+**Bonded weapons.** A practitioner who carries one weapon through years of hard fighting leaves their Essence in it the way a hand leaves a shine on a hilt. In time the weapon answers them: it takes their color when they reinforce, and when they release (let their Trait loose in its learned form), it carries part of the release. A blade may burn with its owner's heat, a staff hold the edge of their field. The weapon grows as its owner grows, and its part of the release is written on the owner's card.
 
-**Body runes.** At the far end of the craft, a cutter writes into a living Aether Shell rather than stone. The lines show as pale scar-tracks, or as nothing at all until the working runs, when they light in the bearer's colour under the skin. A body rune can do what nothing else can: a ward that is part of the person, a working that never needs carrying.
+**Body runes.** At the far end of the craft, a cutter writes into a living Aether Shell rather than stone. The lines show as pale scar-tracks, or as nothing at all until the working runs, when they light in the bearer's color under the skin. A body rune can do what nothing else can: a ward that is part of the person, a working that never needs carrying.
 
 ## What it costs
 

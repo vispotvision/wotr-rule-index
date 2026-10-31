@@ -106,7 +106,7 @@ The technique has a single known bearer; no derivation, teacher, location, or or
 
 **Tell** · A visible radius goes cold before anything is caught and speech clips short; the colder it is, the more is banked. Afterwards frost on everything covered and ground that stays cold.
 
-**Limits** · Six to eighteen metres with a one-to-two-metre Stillpoint at the apex; no force of its own; nothing to do in a still room; overbanking harms its holder.
+**Limits** · Six to eighteen meters with a one-to-two-meter Stillpoint at the apex; no force of its own; nothing to do in a still room; overbanking harms its holder.
 
 **Fails against** · Slow, low-energy movement that gives it nothing; a Knot or chaos-aligned disturbance; several exclusive threats at once; no target to discharge into (retreat, cover, a decoy); its own cold, which slows the holder.
 

@@ -8,11 +8,11 @@ title: "The Ledger of Forgotten Faces · Glyph Tool / Cursed Object"
 
 ### What it is
 
-A slim leather tome with pale grey pages that ripple like water at a touch, the cover embossed with a Ma-glyph flanked by two unblinking eyes. Opened, the pages fill with shifting ink-silhouettes that slowly resolve into faces and impressions Karo has personally encountered. Recovered, unsanctioned, from a sealed archive in an Eressean academic wing (the institution's exact name is unattested outside this card), where it had been shelved under a ward against uncontrolled manifestation after past incidents reading corrupted or overlapping impressions. Whispered, with the same uncertainty the card already carries, to have been used during the Great Spirit War to archive the faces of the fallen.
+A slim leather tome with pale gray pages that ripple like water at a touch, the cover embossed with a Ma-glyph flanked by two unblinking eyes. Opened, the pages fill with shifting ink-silhouettes that slowly resolve into faces and impressions Karo has personally encountered. Recovered, unsanctioned, from a sealed archive in an Eressean academic wing (the institution's exact name is unattested outside this card), where it had been shelved under a ward against uncontrolled manifestation after past incidents reading corrupted or overlapping impressions. Whispered, with the same uncertainty the card already carries, to have been used during the Great Spirit War to archive the faces of the fallen.
 
 ### Physical account
 
-A bound leather tome, roughly 1.1 kg closed, 24 by 17 cm. Balance sits on the spine when held open in both hands, as any book's does. It has no weapon application and no armour interaction of any kind.
+A bound leather tome, roughly 1.1 kg closed, 24 by 17 cm. Balance sits on the spine when held open in both hands, as any book's does. It has no weapon application and no armor interaction of any kind.
 
 ### Operation line
 

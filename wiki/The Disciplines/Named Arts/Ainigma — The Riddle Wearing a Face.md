@@ -122,14 +122,14 @@ Ainigma and **Solution** are natural adversaries, and the matchup is not symmetr
 
 Solution maximises capacity to process diagnostic information. Ainigma maximises the contradictory information that must be processed. Solution's strength becomes its vulnerability: **the synchronised architecture cannot classify data as unprocessable**, because its design assumption is that all data is processable given sufficient coherence.
 
-Parallel Cognition runs twelve Crystal state analyses and each returns a different valid result. Predictive Modelling forecasts the next action from Crystal state and receives twelve mutually exclusive predictions. Total Recall faithfully archives every contradictory reading at full fidelity, producing an eidetic record that resolves into nothing.
+Parallel Cognition runs twelve Crystal state analyses and each returns a different valid result. Predictive Modeling forecasts the next action from Crystal state and receives twelve mutually exclusive predictions. Total Recall faithfully archives every contradictory reading at full fidelity, producing an eidetic record that resolves into nothing.
 > The Ainigma practitioner does not need to be the better fighter. **They need to survive until Solution's clock runs out**, because every second spent processing the paradox is a second not spent on the fight.
 
 ---
 
 ## Archival Note
 
-Catalogued as a diagnostic-saturation concealment discipline within Limina, operating through Eidolyn-mediated template projection, Oblivara decoherence resistance and Tychokinetic observation randomisation. It does not produce invisibility. It produces **incomprehensibility**, which against diagnostic-dependent opponents is functionally superior.
+Catalogd as a diagnostic-saturation concealment discipline within Limina, operating through Eidolyn-mediated template projection, Oblivara decoherence resistance and Tychokinetic observation randomisation. It does not produce invisibility. It produces **incomprehensibility**, which against diagnostic-dependent opponents is functionally superior.
 > **Systemic position: anti-Gnosis.** Subtractive stealth fails against superior perception. Ainigma succeeds against superior perception, because superior perception captures more contradictory data and burns more bandwidth failing to resolve it.
 >
-> **The discipline is stronger against smarter opponents and weaker against simpler ones, which is the inverse of every other concealment in the catalogue.**
+> **The discipline is stronger against smarter opponents and weaker against simpler ones, which is the inverse of every other concealment in the catalog.**

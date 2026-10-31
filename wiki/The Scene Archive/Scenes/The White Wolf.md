@@ -14,7 +14,7 @@ Naevra found him on the flat stone above the gate.
 
 It was the old reading-stone, the one their father had used for the midwinter Thread-Reading, worn smooth as a river pebble by a thousand years of Yukari knees. It stood at the top of the enclave's east steps, where the cedars drew back and the whole of the valley lay open below: the long ribbon of the stream, slate-dark under the cedars and flashing silver where the sun had found it, the terraced fields white with frost and glittering, the red-brown roofs of the halls stepping down the slope in their coats of green lichen, the smoke of the village going up straight and blue in the still morning air. Over the eastern ridge the sky was the clear pale gold of a cold dawn, going to a deep clean blue overhead. Naiser was sitting on it cross-legged, in the black founder's coat, with the katana across his knees and the hood up over his bare nape, looking east. He had been there since before the light.
 
-She came up the steps barefoot on the cold stone, the way she always did, with a satchel of letters under one arm and her white plait down her back, and stopped two steps below him.
+She came up the steps barefoot on the cold stone, the way she always did, with a satchel of letters under one arm and her white braid down her back, and stopped two steps below him.
 
 "Brother."
 
@@ -80,7 +80,7 @@ He went still.
 
 "That's one Moto."
 
-"It's not only her." Naevra drew a breath. "I've heard rumours that Hayato Amagiri is riding with her. And Tetsugen Akagane."
+"It's not only her." Naevra drew a breath. "I've heard rumors that Hayato Amagiri is riding with her. And Tetsugen Akagane."
 
 Naiser turned his head sharply. "The Akagane?"
 
@@ -200,7 +200,7 @@ He went on down the steps toward the south gate, in the black coat, with his nap
 - Naiser: "It seems the Stark answered." The Kōkan wiped out by Gimbzo, his own line, most of them having opposed his greed.
 - Naevra: the Moto council split, some heading here now.
 - Naiser: "Is it too late to stop them?"
-- Naevra, hands behind her back: Kiyome is among them, always the one for peace; her worry about the backlash; Kiyome guiding her house toward peace; the rumours of Hayato and Tetsugen.
+- Naevra, hands behind her back: Kiyome is among them, always the one for peace; her worry about the backlash; Kiyome guiding her house toward peace; the rumors of Hayato and Tetsugen.
 - Naiser: Kagenori sees the Tenrai as the true heirs of the North and will do anything to stop the Kōkan; "these two don't even know who they are"; Muken the Tokenless, raised among the Lanternless where survival is everything, perhaps the one who'll guide the North and unify the Moto. The Ages of the Fox and the Owl, the Owl's wisdom and the Fox making the people happier than his own family. "Perhaps it is time for the Rise of the White Wolf."
 - Naevra's grin, Shaka-Al and Dougou returning any moment, and Naiser's resolve to be honest with the visitors about the Moto coming and about Muken.
 
@@ -219,4 +219,4 @@ He went on down the steps toward the south gate, in the black coat, with his nap
 
 **Rule ids that most constrained it:** R72-26 (offscreen NPCs moving on their wants: Kiyome's party, Kagenori's price), R74-35 (the council turns on a dated fact, sixteen), R70-114 (the warm bond: the grin at the dinner table), R71-30 (the vision held unexplained, a shape rather than a face).
 
-**Revision 2026-10-24.** Gave the valley from the reading-stone its colour (silver-flashing stream, glittering frost terraces, lichened red-brown roofs, blue smoke under a gold-and-blue dawn, the sun warming the stone), reworked three countdowns by punctuation and phrasing without changing Isaac's words, and cut four long-pause tics and a stillness tic. Every beat and every line of Isaac's is kept in order, and the passages on Shaka-Al and Dougou are untouched.
+**Revision 2026-10-24.** Gave the valley from the reading-stone its color (silver-flashing stream, glittering frost terraces, lichened red-brown roofs, blue smoke under a gold-and-blue dawn, the sun warming the stone), reworked three countdowns by punctuation and phrasing without changing Isaac's words, and cut four long-pause tics and a stillness tic. Every beat and every line of Isaac's is kept in order, and the passages on Shaka-Al and Dougou are untouched.

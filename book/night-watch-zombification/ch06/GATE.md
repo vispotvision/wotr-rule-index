@@ -16,7 +16,7 @@ FAIL: none.
 ## The declared lie and the misreading
 
 - **Lie (Vesk):** "It can be tempered sealed," he said. "It is slower. Half a division slower, thereabouts." He has never tempered it sealed. It stands uncorrected, and the book now carries a stand-time built on his invented figure.
-- **Misreading (Nuvalik, H07):** "He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the colour out of a man who was not working in it." Sound reasoning, wrong premise, never corrected.
+- **Misreading (Nuvalik, H07):** "He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the color out of a man who was not working in it." Sound reasoning, wrong premise, never corrected.
 
 ## The beat
 

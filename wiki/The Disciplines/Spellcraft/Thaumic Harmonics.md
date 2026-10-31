@@ -87,7 +87,7 @@ title: "Thaumic Harmonics"
 
 **Wellspring** · Nihiloth, the Hollow Law (Limina): two waves in antiphase sum to zero and the region between carries no energy; Interference Lock is its physics, without harmonising with it.
 
-**Wellspring** · Basilithe, the Stone Will (Materia): it stiffens a Crystal until its resonance will not be driven off, the defence against every imposed rhythm.
+**Wellspring** · Basilithe, the Stone Will (Materia): it stiffens a Crystal until its resonance will not be driven off, the defense against every imposed rhythm.
 
 **Wellspring** · Aurevane, the Wellspring of Light (Fulguria): coherent light holds a fixed phase across its front; coherence is exactly what the lock attacks.
 

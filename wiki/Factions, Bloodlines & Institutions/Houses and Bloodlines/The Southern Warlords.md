@@ -8,7 +8,7 @@ title: "The Southern Warlords"
 
 The north counts its warlords at seven and seats six. The south counts seven too, and seats six, and the empty chair is Sum-gol's. That is the first thing a northerner learns about the south and usually the only thing he believes: that the southern houses are softer, warmer and richer than his own, and fight with money. The second half is true. The rest is the kind of thing a man says about a country he has only ever seen from the far end of a pike.
 
-Where the Kessen road runs out of the Moto provinces and down through the low country, the Inner World stops being a shield of cold rock and turns green. The ground drops in long steps toward the southern sea: cedar valleys climbing into cloud on the east, the open grass of the Grey Plain in the middle, the spring country of the Wellheads steaming in the morning, iron hills and salt pans around Sum-gol, and at the bottom of it all the white shelf of the Holy Sea of Alabaster, where the cliffs are the colour of milk and the water under them is so clear the fishing boats seem to hang in the air. It is loud country. Market bells, temple gongs, the hum of the Guild main coming up out of the springs in its brass and slate, big grey horses calling across the plain at dusk, cedar-smoke and orange blossom and hot iron. The north buys its horses here, its oil, its salt from the southern pans, half its Wellspring draw, and every one of its grudges about southern courtesy.
+Where the Kessen road runs out of the Moto provinces and down through the low country, the Inner World stops being a shield of cold rock and turns green. The ground drops in long steps toward the southern sea: cedar valleys climbing into cloud on the east, the open grass of the Grey Plain in the middle, the spring country of the Wellheads steaming in the morning, iron hills and salt pans around Sum-gol, and at the bottom of it all the white shelf of the Holy Sea of Alabaster, where the cliffs are the color of milk and the water under them is so clear the fishing boats seem to hang in the air. It is loud country. Market bells, temple gongs, the hum of the Guild main coming up out of the springs in its brass and slate, big gray horses calling across the plain at dusk, cedar-smoke and orange blossom and hot iron. The north buys its horses here, its oil, its salt from the southern pans, half its Wellspring draw, and every one of its grudges about southern courtesy.
 
 None of the seven was ever bound by the Kōkan crown. The Moto held the provinces between the Polar Reach and the southern border; the warlords held what lay beyond it, and the long war of the last forty years was fought across their ground as often as across the north's. Some sold to it. Some bled in it. One was finished by it.
 
@@ -28,7 +28,7 @@ None of the seven was ever bound by the Kōkan crown. The Moto held the province
 
 **Words:** *The crow perches. The crow watches. The crow remembers.*
 
-**Colours:** Black and silver, silver threading through dark
+**Colors:** Black and silver, silver threading through dark
 
 The oldest blood in the south and the least interested in ruling it. The Yukari are an archaic bloodline before they are a house, and the house is the shape the bloodline took when the world forced it to hold ground: the valleys, the villages that pay the tithe, the long cedar hall with its covered walk and its raked white gravel and its three standing stones that throw no shadow, and wards laid along every approach that touch whoever comes up the southern road long before anyone at the gate has seen him. The Yukari name is chosen at the Telling, not inherited, which makes the house the only one of the seven whose members are all volunteers.
 
@@ -48,7 +48,7 @@ In the south they are the house everybody wants at the table and nobody wants wa
 
 **Words:** *Call, and It Answers*
 
-**Colours:** Vermilion and white
+**Colors:** Vermilion and white
 
 Once the richest seat in the south. Sum-gol sits where the Kessen road ends and the south begins, on iron and on salt, and for longer than the Moto have had a crown the Mahou line ruled it as kings: summoners whose arts called things across the Veil and bound them, and whose iron and salt went north in every cart that ever used the road. *The Mahuo's salt. The Sum-gol iron.* Every northern quartermaster still says the two together.
 
@@ -68,7 +68,7 @@ What is left is a post. The Mahuo post at Sum-gol still keeps its crows and its 
 
 **Words:** *Count True*
 
-**Colours:** White and ink-black, a balance on the field; the warlord rides in gilded plate under scarlet, with the Sallowgate bear on his breast
+**Colors:** White and ink-black, a balance on the field; the warlord rides in gilded plate under scarlet, with the Sallowgate bear on his breast
 
 The Holy Sea of Alabaster is a theocracy on a white shelf above the southern sea, ruled by its Palatine from the Alabaster Court, hosting a Sancta Lux chapter hold that reports past him, and built from top to bottom to weigh one commodity: a sworn account. **The Lamberts are the hands that do the weighing.** For as long as the Sea has had courts there has been a Lambert at the bench beside the cleric, counting: tariffs at the gate, grain in the store, witnesses in the dock, the days between a lord's promise and a lord's delivery. The Sea measures testimony. The Lamberts measure everything the testimony is about.
 
@@ -90,13 +90,13 @@ Lamberts travel. Cadet branches have gone north on the Sea's business for genera
 
 **Hall maxim:** *The Plain Remembers the Hoof*
 
-**Colours:** Grey and jade, a running horse in silver
+**Colors:** Gray and jade, a running horse in silver
 
-A lineage hall in the old southern style, with ancestral tablets nine rows deep and a title for every rung of the family, which the Yan recite in full at every introduction and which takes, for a senior elder, about as long as it takes to water a horse. Their wealth walks. The tall grey southern horse, a hand higher than anything the north can breed and dappled like river stones, comes from the Yan studs at Qingyuan and nowhere else, and the Yan keep the bloodlines in ledgers older than the Holy Sea's: sire, dam and grandsire for every animal they have ever sold, and the name of the man who bought it.
+A lineage hall in the old southern style, with ancestral tablets nine rows deep and a title for every rung of the family, which the Yan recite in full at every introduction and which takes, for a senior elder, about as long as it takes to water a horse. Their wealth walks. The tall gray southern horse, a hand higher than anything the north can breed and dappled like river stones, comes from the Yan studs at Qingyuan and nowhere else, and the Yan keep the bloodlines in ledgers older than the Holy Sea's: sire, dam and grandsire for every animal they have ever sold, and the name of the man who bought it.
 
-That last column is the Yan's real stock in trade. **They sold to everyone in the war.** Ashmore's big southern horses at the Skeldmere were Yan horses; so were the Tenrai's; so was the tall grey that Karogane rode across the ice, a hand higher than any Keld mount and absurd for it. The Hall-Master can tell you which side bought how many remounts in which season, which is to say which side was expecting to lose cavalry, and when. *The Yan take orders, in both senses, and never a side.*
+That last column is the Yan's real stock in trade. **They sold to everyone in the war.** Ashmore's big southern horses at the Skeldmere were Yan horses; so were the Tenrai's; so was the tall gray that Karogane rode across the ice, a hand higher than any Keld mount and absurd for it. The Hall-Master can tell you which side bought how many remounts in which season, which is to say which side was expecting to lose cavalry, and when. *The Yan take orders, in both senses, and never a side.*
 
-Their own horsemen are few and superb, archers who shoot from the saddle at the full gallop, turning in the stirrups, with the grey horses running flat out under them like water poured downhill. When the Yan ride out in force, it is to make sure a buyer has paid.
+Their own horsemen are few and superb, archers who shoot from the saddle at the full gallop, turning in the stirrups, with the gray horses running flat out under them like water poured downhill. When the Yan ride out in force, it is to make sure a buyer has paid.
 
 ## 5. House Ryu
 
@@ -110,13 +110,13 @@ Their own horsemen are few and superb, archers who shoot from the saddle at the 
 
 **Words:** *The Tide Pays Twice*
 
-**Colours:** Sea-green and copper
+**Colors:** Sea-green and copper
 
-Once the Mahou line's admiralty and its southern ports. When the Mahuo were kings, the Ryu kept their ships, their harbour dues and their salt fleet, and were the second family of Sum-gol; when the Mahuo fell, the ships, the harbour dues and the salt fleet were all still sitting at Haeseong, with nobody left to send the revenue to. **The Ryu left the Mahuo's wealth exactly where it sat, and simply stopped forwarding it.** The south has never settled whether that is theft. The Ryu would like it noted that the Mahuo have never asked.
+Once the Mahou line's admiralty and its southern ports. When the Mahuo were kings, the Ryu kept their ships, their harbor dues and their salt fleet, and were the second family of Sum-gol; when the Mahuo fell, the ships, the harbor dues and the salt fleet were all still sitting at Haeseong, with nobody left to send the revenue to. **The Ryu left the Mahuo's wealth exactly where it sat, and simply stopped forwarding it.** The south has never settled whether that is theft. The Ryu would like it noted that the Mahuo have never asked.
 
-Haeseong is the brightest city in the south: white walls, green copper roofs, a harbour packed with junks and coasting galleys and the long low salt barges, lanterns strung across the water every night of the year, and a Guild main brought down from the Wellheads at great expense so the lighthouse can burn worked light that reaches forty miles out. The salt road begins at its quays and runs north to the junction below Ashbury, and every sack of southern salt that ever crossed the Ashmore marches paid a Ryu toll on the way.
+Haeseong is the brightest city in the south: white walls, green copper roofs, a harbor packed with junks and coasting galleys and the long low salt barges, lanterns strung across the water every night of the year, and a Guild main brought down from the Wellheads at great expense so the lighthouse can burn worked light that reaches forty miles out. The salt road begins at its quays and runs north to the junction below Ashbury, and every sack of southern salt that ever crossed the Ashmore marches paid a Ryu toll on the way.
 
-They will be the first house to object if anybody restores the Mahuo royal line at Sum-gol, and the last to object out loud. Admiral-Lord Ha-eun sat at the Cedar Enclave and heard Naiser Yukari promise exactly that, and smiled, and asked a very good question about harbour dues.
+They will be the first house to object if anybody restores the Mahuo royal line at Sum-gol, and the last to object out loud. Admiral-Lord Ha-eun sat at the Cedar Enclave and heard Naiser Yukari promise exactly that, and smiled, and asked a very good question about harbor dues.
 
 ## 6. House Corwen
 
@@ -130,9 +130,9 @@ They will be the first house to object if anybody restores the Mahuo royal line 
 
 **Words:** *The Water Keeps Faith*
 
-**Colours:** Kingfisher blue and brass
+**Colors:** Kingfisher blue and brass
 
-A chartered family, the only one of the seven that holds its ground by Guild lease rather than by blood or conquest, and the richest per acre. The Wellheads are a high, wet, luminous country of hot springs and cold springs side by side, terraced pools in every colour from milk-jade to rust, gauge-housings on every wellmouth and brass conduit running off downhill toward the river, and the hum of the draw so constant that Corwen children who leave home cannot sleep for the silence. Every Wellspring under Guild lead from the Wellheads to the southern sea passes through a Corwen meter. The main that lights the wards on the Seat's rock starts here.
+A chartered family, the only one of the seven that holds its ground by Guild lease rather than by blood or conquest, and the richest per acre. The Wellheads are a high, wet, luminous country of hot springs and cold springs side by side, terraced pools in every color from milk-jade to rust, gauge-housings on every wellmouth and brass conduit running off downhill toward the river, and the hum of the draw so constant that Corwen children who leave home cannot sleep for the silence. Every Wellspring under Guild lead from the Wellheads to the southern sea passes through a Corwen meter. The main that lights the wards on the Seat's rock starts here.
 
 Their trouble is the water. **Since the war the springs in the south have gone bad**, and nobody will say why. Some taste wrong to anyone with the tongue to taste; villages downstream of them are sick, and the physicians do not know what they are treating; the Corwen meters read the draw as normal and the Corwen wardens read the meters. The Yukari say they can walk the springs from the mouth to the source and tell you where the harm is and whose hand is on it. *House Corwen has not yet asked them to.*
 
@@ -150,11 +150,11 @@ Maud Corwen is a big, cheerful, sharp-eyed woman who knows the lease terms of ev
 
 **Words:** *Shoulder to Shoulder*
 
-**Colours:** Ochre and black, in squares
+**Colors:** Ochre and black, in squares
 
 The north fights in knots and wedges and long Keld lines that move like weather. **The south fights in a wall**, a rank of men standing shoulder to shoulder because they cannot trust themselves to stand anywhere else, and charging in it with a sound like a building falling over. That rank was Marrick's before it was anyone else's. The Long Fields have bred pikemen for three hundred years; the Marrick captains drill them in the stubble after harvest, sixteen deep, eighteen-foot ash pikes and drums, and hire the finished companies out by the season to whoever has the coin.
 
-Half the southern hosts in the war had Marrick companies at their centre, and some years both halves. The house considers this a professional courtesy. A Marrick company fights for its contract to the last day of the season and not one day past it, and has been known to finish a battle at noon on the day its contract ran out by grounding pikes in the middle of the field and walking home through both armies, unharmed, because both armies would be hiring next season.
+Half the southern hosts in the war had Marrick companies at their center, and some years both halves. The house considers this a professional courtesy. A Marrick company fights for its contract to the last day of the season and not one day past it, and has been known to finish a battle at noon on the day its contract ran out by grounding pikes in the middle of the field and walking home through both armies, unharmed, because both armies would be hiring next season.
 
 Gerrit Marrick is sixty, loud, scarred, very funny, missing an ear, and the only warlord in the south who has fought in every war of the last forty years on at least two sides. He says the north never understood the rank. *"You stand in it because the man on your left is standing in it, lad. Brave's got nothing to do with it."*
 
@@ -172,7 +172,7 @@ What the south wants, in one line each:
 | **Mahuo** | Whatever is left of it, its own name back off other people's banners |
 | **Lambert** | The count to come out right, and the Holy Sea's courts heard north of the border |
 | **Yan** | Every army to need horses, and none of them to win too quickly |
-| **Ryu** | Sum-gol left empty, the salt road open, and the harbour dues uncontested |
+| **Ryu** | Sum-gol left empty, the salt road open, and the harbor dues uncontested |
 | **Corwen** | The springs clean before anyone outside the Wellheads proves they are not |
 | **Marrick** | A long peace with a lot of small wars in it |
 
@@ -188,10 +188,10 @@ What the south wants, in one line each:
 
 > **On the record.**
 >
-> **From the scenes:** the Yukari valleys, the Cedar Enclave and its wards, Shisui at the gate; Naiser's terms and the Mahuo restoration; the destruction of the Mahuo, each of three houses blaming another (settled 2026-10-20); the Mahuo post at Sum-gol and its crows; the Mahuo's salt and the Sum-gol iron; the Kessen road; Osbert Lambert at Hallenfeld; the tall grey southern horses; the southern rank; the tainted southern springs (a Seikai remnant still feeds the poison, settled 2026-10-20); the Guild main from the southern Wellsprings; the Moto closing their own roads.
+> **From the scenes:** the Yukari valleys, the Cedar Enclave and its wards, Shisui at the gate; Naiser's terms and the Mahuo restoration; the destruction of the Mahuo, each of three houses blaming another (settled 2026-10-20); the Mahuo post at Sum-gol and its crows; the Mahuo's salt and the Sum-gol iron; the Kessen road; Osbert Lambert at Hallenfeld; the tall gray southern horses; the southern rank; the tainted southern springs (a Seikai remnant still feeds the poison, settled 2026-10-20); the Guild main from the southern Wellsprings; the Moto closing their own roads.
 >
 > **Isaac's word, 2026-10-29:** the Southern Warlords are the houses of the Inner World's south; the Lamberts are a house of the Holy Sea of Alabaster; the Yukari and the Mahuo are among them. This places the Holy Sea of Alabaster in the Inner World's south.
 >
-> **Invented here, his to strike:** the count of seven with Sum-gol's chair empty; House Lambert's seat at Sallowgate, its words and its struck-name list; the Yan Hall, House Ryu, House Corwen and House Marrick entire, with their seats, heads, words and colours; the Mahuo words and colours; the table at the Cedar Enclave.
+> **Invented here, his to strike:** the count of seven with Sum-gol's chair empty; House Lambert's seat at Sallowgate, its words and its struck-name list; the Yan Hall, House Ryu, House Corwen and House Marrick entire, with their seats, heads, words and colors; the Mahuo words and colors; the table at the Cedar Enclave.
 >
 > **Open, flagged not filled.** The Ketsuen page still runs the Enclave's territory south through Sum-gol and the Yukari Inventory sets the Yukari valley inside Ketsuen; the new lore makes both sovereign southern ground. Old-lore Lamberts (the faculty-less fighters) are carried here as house lore only, with no names.

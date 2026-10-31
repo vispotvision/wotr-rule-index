@@ -74,12 +74,12 @@ Five hundred biomechanical events per second are not experienced by the target a
 
 Per-action force sits at roughly **0.2% of baseline.** Individually meaningless. Collectively equal to the practitioner's full baseline, applied continuously, from every reachable angle, at once.
 > The defender does not experience five hundred weak hits. They experience an unbroken wall of force with **no gaps, no timing windows, no defensive openings, because there is no interval between impacts long enough for the word interval to apply.**
-The practitioner appears to be standing perfectly still. The frequency has exceeded every perceptual register — visual, auditory, Aetheric. What the opponent perceives is a stationary person surrounded by a hemisphere of sustained compressive force, **and inside that hemisphere no defence predicated on timing, blocking or evasion is functional.**
+The practitioner appears to be standing perfectly still. The frequency has exceeded every perceptual register — visual, auditory, Aetheric. What the opponent perceives is a stationary person surrounded by a hemisphere of sustained compressive force, **and inside that hemisphere no defense predicated on timing, blocking or evasion is functional.**
 
 ### What it costs
 
 The body is executing 500 complete biomechanical cycles per second. **That frequency exceeds the mechanical resonance of human muscle, connective tissue and bone.**
-> Muscle fibres shred along their length from contraction frequencies exceeding the myosin detachment rate. Tendons designed for tension cycles measured in single-digit Hertz are loaded at 500 Hz and fail through fatigue in seconds. Joint cartilage, which absorbs impact through viscoelastic deformation requiring recovery time between loads, receives none and compresses permanently.
+> Muscle fibers shred along their length from contraction frequencies exceeding the myosin detachment rate. Tendons designed for tension cycles measured in single-digit Hertz are loaded at 500 Hz and fail through fatigue in seconds. Joint cartilage, which absorbs impact through viscoelastic deformation requiring recovery time between loads, receives none and compresses permanently.
 >
 > **Bone driven at 500 Hz enters resonant vibration along its natural frequency spectrum, and resonance in a structural member is the precondition for catastrophic failure.**
 >
@@ -94,7 +94,7 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 
 ## Combat Applications
 
-**Combo saturation** · Overwhelm Reflex and Deflection with more threat vectors per second than they can process. At x50 and above, **defence becomes statistical**: the defender blocks what they can and absorbs what they cannot.
+**Combo saturation** · Overwhelm Reflex and Deflection with more threat vectors per second than they can process. At x50 and above, **defense becomes statistical**: the defender blocks what they can and absorbs what they cannot.
 
 **Hyper-feinting** · The feints are mechanically identical to real strikes for the first 80% of their arc, **and the 20% that differentiates them occurs in the final 2 milliseconds.**
 
@@ -110,7 +110,7 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 
 **Environmental disruption** · A Nadi practitioner fighting inside someone else's Domain is fighting with degraded precision.
 
-**Armour** · Plate, hardened Recarvu tissue, Materia-reinforced shielding. **Anything that can absorb 1% hits indefinitely negates the discipline entirely.** *Devastating against unarmoured opponents and nearly useless against armoured ones.*
+**Armor** · Plate, hardened Recarvu tissue, Materia-reinforced shielding. **Anything that can absorb 1% hits indefinitely negates the discipline entirely.** *Devastating against unarmoured opponents and nearly useless against armored ones.*
 
 **Single decisive force** · The inverse philosophy. If one strike ends the fight, the hundred micro-dodges were irrelevant. **Iron Bison practitioners, who compound force into a single catastrophic release, are the direct counter-doctrine.**
 

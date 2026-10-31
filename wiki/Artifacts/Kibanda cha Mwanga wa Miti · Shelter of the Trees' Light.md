@@ -8,15 +8,15 @@ title: "Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light"
 
 ### What it is
 
-Relic, Domain Anchor, Illumination Tool. A hand lantern woven from goldwood roots polished to an amber gleam, holding a tear-shaped crystal suspended inside the frame on threads of visible Essence. The crystal shifts colour with ambient Wellspring saturation: green over fertile ground, amber on neutral terrain, pale silver in a consecrated grove. Small Parun glyphs spiral the frame and light when the lantern is drawn on. Forged within the Holy Sea of Alabaster at the site the record calls the Sanctum of Heartlight, from a soul-fragmented gem cut from the first flower of the Heartbloom Tree. Chimwala anchored the lantern's core to his own Domain at its forging, which is why it answers to nobody else without the Rite below.
+Relic, Domain Anchor, Illumination Tool. A hand lantern woven from goldwood roots polished to an amber gleam, holding a tear-shaped crystal suspended inside the frame on threads of visible Essence. The crystal shifts color with ambient Wellspring saturation: green over fertile ground, amber on neutral terrain, pale silver in a consecrated grove. Small Parun glyphs spiral the frame and light when the lantern is drawn on. Forged within the Holy Sea of Alabaster at the site the record calls the Sanctum of Heartlight, from a soul-fragmented gem cut from the first flower of the Heartbloom Tree. Chimwala anchored the lantern's core to his own Domain at its forging, which is why it answers to nobody else without the Rite below.
 
 ### Physical account
 
-Not a weapon; the Item Guide's proof-mark and armour-tier fields do not apply. Overall height approximately 32 cm, woven-root frame mass approximately 0.9 kg including the suspended crystal (an estimate; the card gives no figure). Balanced for one-handed carry at the frame's midpoint, where a wrist-loop of vine fibre normally sits.
+Not a weapon; the Item Guide's proof-mark and armor-tier fields do not apply. Overall height approximately 32 cm, woven-root frame mass approximately 0.9 kg including the suspended crystal (an estimate; the card gives no figure). Balanced for one-handed carry at the frame's midpoint, where a wrist-loop of vine fiber normally sits.
 
 ### Operation line
 
-**Sanctuary Light.** While lit, the lantern draws ambient Verdantia saturation through its *Ur* (Balance) boundary and holds a stabilizing field to a 20-metre radius that low-Stage corrupted Essence cannot cross cleanly, which is what reads to a bearer as low-tier corrupted spirits being warded off; it does not touch anything above Ambient-to-Active Concentration corruption.
+**Sanctuary Light.** While lit, the lantern draws ambient Verdantia saturation through its *Ur* (Balance) boundary and holds a stabilizing field to a 20-meter radius that low-Stage corrupted Essence cannot cross cleanly, which is what reads to a bearer as low-tier corrupted spirits being warded off; it does not touch anything above Ambient-to-Active Concentration corruption.
 
 **Pathway Beam.** The *On* (Light) glyph narrows the crystal's output to a directed line; anything the line crosses that is carrying an inscribed glyph, a laid trap-mechanism, or a live Essence current reads back to the bearer as a visible trace for as long as the beam holds.
 

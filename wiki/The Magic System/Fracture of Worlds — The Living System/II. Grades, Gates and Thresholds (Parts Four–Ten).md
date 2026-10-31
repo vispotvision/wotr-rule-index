@@ -21,7 +21,7 @@ A **Primary** is the combined total of its eight Sub-Stats, and its Grade is rea
 
 Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets.
 
-A Primary is dragged down by its neglected entries as hard as it is lifted by its favourites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak.
+A Primary is dragged down by its neglected entries as hard as it is lifted by its favorites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak.
 
 **Throne is the exception.** It carries no Temperance ceiling, its floor sits at EX-Grade, and it is excluded from the Dominion total. It is carried as its own line on the character sheet. Dominion's mean is the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.
 
@@ -158,7 +158,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 ### Resilience Gates
 
-**Integrity** open, though the conversion of prior fractures into reinforcement requires Body Path at Stage V to exceed B. **Ward** requires Spirit Path at Stage III to exceed C, with defence of the character's own Domain requiring Fate Path at Stage VIII to exceed SS. **Persistence** requires Fate Path at Stage VII to exceed S, and Stage VIII to exceed SS against Oblivion-class pressure. **Anchoring** open, though resistance to memory erasure and false implantation requires Spirit Path at Stage III to exceed C. **Fortification** requires Body Path at Stage IV to exceed B; resistance to self-generated blowback is open. **Hardening** requires Body Path at Stage III to exceed C; passive rejection of contamination is open. **Oath** requires Attraction Path at Stage IV to exceed B. **Continuity** requires Fate Path at Stage VI to exceed A against spatial displacement and Stage VII to exceed S against causal disruption.
+**Integrity** open, though the conversion of prior fractures into reinforcement requires Body Path at Stage V to exceed B. **Ward** requires Spirit Path at Stage III to exceed C, with defense of the character's own Domain requiring Fate Path at Stage VIII to exceed SS. **Persistence** requires Fate Path at Stage VII to exceed S, and Stage VIII to exceed SS against Oblivion-class pressure. **Anchoring** open, though resistance to memory erasure and false implantation requires Spirit Path at Stage III to exceed C. **Fortification** requires Body Path at Stage IV to exceed B; resistance to self-generated blowback is open. **Hardening** requires Body Path at Stage III to exceed C; passive rejection of contamination is open. **Oath** requires Attraction Path at Stage IV to exceed B. **Continuity** requires Fate Path at Stage VI to exceed A against spatial displacement and Stage VII to exceed S against causal disruption.
 
 ### Tempering Gates
 

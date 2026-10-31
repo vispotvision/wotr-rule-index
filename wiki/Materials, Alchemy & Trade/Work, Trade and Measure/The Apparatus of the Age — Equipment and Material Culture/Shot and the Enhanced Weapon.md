@@ -6,7 +6,7 @@ title: "Shot and the Enhanced Weapon"
 
 ## Part One · Plain Shot Against a Practitioner
 
-**The reference gun.** A period revolver in .44, unenhanced: no Essence in the gun, the round or the shooter's working. A lead ball of about 16 g leaves the muzzle at about 235 m/s carrying about 440 J, and crosses ten metres in about 43 ms. That is E-Grade output. A D-Grade practitioner's own strike carries far more. **The gun is not dangerous because it is strong. It is dangerous because it is fast, cheap and needs no reserve.**
+**The reference gun.** A period revolver in .44, unenhanced: no Essence in the gun, the round or the shooter's working. A lead ball of about 16 g leaves the muzzle at about 235 m/s carrying about 440 J, and crosses ten meters in about 43 ms. That is E-Grade output. A D-Grade practitioner's own strike carries far more. **The gun is not dangerous because it is strong. It is dangerous because it is fast, cheap and needs no reserve.**
 
 **The Grade that decides is Speed, not rank.** Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience Grade. The two are checked separately.
 

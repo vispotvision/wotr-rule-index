@@ -8,7 +8,7 @@ title: "What Things Cost"
 > **One gold mark is twelve silver marks. One silver mark is twenty-four copper. A gold mark is therefore two hundred and eighty-eight copper**, and almost nobody below a shop's counting-room ever handles one.
 > 
 > A Nalūn salt bar passes for one silver mark, more in a hard winter. Imperial bronze goes by weight.
-Prices are given as city prices on the main. Off the main, and everywhere north of the arrays, most of this list is paid in kind: grain, salt, cloth, fuel, board, a day's labour owed and settled at year's end. Where coin changes hands out there, it is copper, and in a copper famine it is nothing at all.
+Prices are given as city prices on the main. Off the main, and everywhere north of the arrays, most of this list is paid in kind: grain, salt, cloth, fuel, board, a day's labor owed and settled at year's end. Where coin changes hands out there, it is copper, and in a copper famine it is nothing at all.
 
 ---
 
@@ -26,7 +26,7 @@ Prices are given as city prices on the main. Off the main, and everywhere north 
 
 | Item | Price | Note |
 |---|---|---|
-| **Boots** | 4 to 6 silver new; 1 to 2 silver worn | Working boots, nailed. A labourer buys one pair in three years |
+| **Boots** | 4 to 6 silver new; 1 to 2 silver worn | Working boots, nailed. A laborer buys one pair in three years |
 | **A coat** | 5 to 8 silver for a working jacket; 1 to 2 gold for a greatcoat | The greatcoat outlives its first owner and usually its second |
 | **Candles and lamp oil** | Tallow, 1 copper the dozen; lamp oil, 1 copper an evening; a beeswax taper, 1 silver | An Essence lantern is 3 to 8 silver, and the inscription fee on top is the expensive part |
 
@@ -61,7 +61,7 @@ Prices are given as city prices on the main. Off the main, and everywhere north 
 
 | Item | Price | Note |
 |---|---|---|
-| **A sword** | 6 to 10 silver for a trooper's sabre; 4 to 7 gold for an officer's blade | A sword that carries a working is priced on the coil, not here |
+| **A sword** | 6 to 10 silver for a trooper's saber; 4 to 7 gold for an officer's blade | A sword that carries a working is priced on the coil, not here |
 | **A musket** | 5 to 10 silver | Old muzzle-loaders, sold off from armouries |
 | **A rifle** | 3 to 4 gold, single-shot breechloader; 6 to 10 gold for a repeater, where one can be had at all | Repeaters are mostly state issue and rarely on a counter |
 | **A revolver** | 3 to 4 gold | The officer's weapon, and the city's |
@@ -84,7 +84,7 @@ Prices are given as city prices on the main. Off the main, and everywhere north 
 
 | Work | Pay | Note |
 |---|---|---|
-| **A labourer, by the day** | 12 to 24 copper | Half a silver in a slack season, a silver in a good one. Often paid part in board or kind |
+| **A laborer, by the day** | 12 to 24 copper | Half a silver in a slack season, a silver in a good one. Often paid part in board or kind |
 | **A soldier, by the month** | 12 to 15 silver and his keep | Less stoppages for kit, which take a third of it |
 | **A clerk, by the month** | 4 to 8 gold | Paid quarterly, in arrears |
 | **A Guild inspector, by the month** | 10 to 18 gold | And the gifts nobody records |

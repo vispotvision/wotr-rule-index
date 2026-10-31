@@ -8,7 +8,7 @@ title: "Sigillum Fixationis"
 
 ### Summary card
 
-**Effect** · The caster names a single target within ten metres of line of sight, and the target's present state locks. A struck body stops moving, stops healing, and stops taking new damage easily. An active working's parameters freeze and cannot be altered or dispelled for the duration.
+**Effect** · The caster names a single target within ten meters of line of sight, and the target's present state locks. A struck body stops moving, stops healing, and stops taking new damage easily. An active working's parameters freeze and cannot be altered or dispelled for the duration.
 
 **Cost** · The caster's own Shell locks in sympathy: no blink-type or phase movement for the duration, and their own attention narrows around the bound target until it is difficult to redirect.
 
@@ -56,7 +56,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 ### Physics
 
-**Phenomenon** · Kinetic trapping: one named thing within ten metres is held in its present configuration by raising the energy barrier out of it, not by pushing on it. For nine seconds it stops changing.
+**Phenomenon** · Kinetic trapping: one named thing within ten meters is held in its present configuration by raising the energy barrier out of it, not by pushing on it. For nine seconds it stops changing.
 
 **Law** · Arrhenius: the rate of escape from a state is k = A·exp(−E_a/RT), with A about 10¹³ per second, so residence time grows exponentially with barrier height.
 
@@ -79,7 +79,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 ### Metaphysics
 
-**Aether** · A small, sharply bounded Materia draw at ten metres, favoured by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms. The Residue cures rather than fades: a held place stays faintly held for good, and repeated casting deafens Harmonists.
+**Aether** · A small, sharply bounded Materia draw at ten meters, favored by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms. The Residue cures rather than fades: a held place stays faintly held for good, and repeated casting deafens Harmonists.
 
 **Wellspring** · Fixatio, the Binding Flame (Materia): a cured network chars before it flows, so what it holds stays held because the other configuration is no longer reachable; it strengthens Vitality Fortitude and Resilience Anchoring.
 
@@ -97,7 +97,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 **Boundary** · The height of the barrier out of the target's present state, raised by about 83 kJ/mol; every law in the target keeps running beyond it.
 
-**Effect** · A word, Esto, and a closing fist; then the target's next movement is simply unavailable, with no pressure or grip anywhere. Pain stops worsening, bleeding stops without clotting, grey creeps in at the edges of sight.
+**Effect** · A word, Esto, and a closing fist; then the target's next movement is simply unavailable, with no pressure or grip anywhere. Pain stops worsening, bleeding stops without clotting, gray creeps in at the edges of sight.
 
 **Hardening** · The held body is truly hardened and resists damage up to the working's full C-Grade rating, 0.1 to 1 GN or 20.92 MJ to 1.046 GJ; a held ally is shielded, a held enemy shrugs off blows.
 
@@ -125,11 +125,11 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 **Cost** · Six percent of full reserve per cast, plus the caster's own Shell locked for nine seconds: no blink or phase movement and attention narrowed to the one target.
 
-**Duration** · Nine seconds, one and a half turns; range ten metres, line of sight, one target, one Sigillum standing at a time.
+**Duration** · Nine seconds, one and a half turns; range ten meters, line of sight, one target, one Sigillum standing at a time.
 
 ### Counterplay
 
-**Tell** · A spoken imperative and a fist pointed at the target, visible at ten metres, so it warns the one about to be held; afterwards, a wound exactly as old as it was nine seconds before.
+**Tell** · A spoken imperative and a fist pointed at the target, visible at ten meters, so it warns the one about to be held; afterwards, a wound exactly as old as it was nine seconds before.
 
 **Limits** · Nothing two or more Stages above the caster; nothing without a discrete physical or Aetheric form, so no Domain, Wellspring current or abstraction; one target, one Sigillum, nine seconds.
 

@@ -44,7 +44,7 @@ title: "Speculum Harmoniae"
 
 **Grade required** · B for the Speculum; S for the Nexus.
 
-**Path gate** · Spirit for the Speculum; Fate for the Nexus, which holds at 200 metres without the Attraction Path.
+**Path gate** · Spirit for the Speculum; Fate for the Nexus, which holds at 200 meters without the Attraction Path.
 
 **Resonant Pair** · None
 
@@ -64,7 +64,7 @@ title: "Speculum Harmoniae"
 
 **Limit** · The double has no mass and stops existing when struck once; the field's edge grows only as √N, falls off as 1/r², and cannot route anything faster than the caster's reaction.
 
-**Not hiding** · At fifty metres the eye separates points 6.7 mm apart, so the double is plainly a second body; it is misidentified, not hidden, as a flare beats a one-colour seeker and fails against a two-colour one.
+**Not hiding** · At fifty meters the eye separates points 6.7 mm apart, so the double is plainly a second body; it is misidentified, not hidden, as a flare beats a one-color seeker and fails against a two-color one.
 
 **Repeater** · The Speculum works like a transponder, receiving a signature and re-radiating it from elsewhere, not like a returning mirror.
 
@@ -109,7 +109,7 @@ title: "Speculum Harmoniae"
 
 **Effect** · Speculum: two of the caster, both correct on every instrument, and a pursuit that must be split; the one caught simply stops being present. Nexus: a battle going slightly wrong with no moment to point at, and the sense of being read.
 
-**Classifier** · The Nexus favours resonance with the caster's tone, not loyalty; it weakens no enemy, it only withholds the gain.
+**Classifier** · The Nexus favors resonance with the caster's tone, not loyalty; it weakens no enemy, it only withholds the gain.
 
 **Failure** · Projection error, a Boundary fault; the mirror's honesty; spectral overload, a Structure fault; glare; and Silence, where the Speculum is correct and produces nothing, a Field fault.
 
@@ -134,11 +134,11 @@ title: "Speculum Harmoniae"
 
 **Cost** · Speculum: 2 percent of full reserve and a slice of the caster's read of the target, thin until observed again. Nexus: 1 percent a turn, rising overload and cross-sense confusion, and the caster fixed standing.
 
-**Duration** · Speculum: 18 seconds, three turns, within 3 to 8 metres. Nexus: 36 seconds, six turns, up to one kilometre.
+**Duration** · Speculum: 18 seconds, three turns, within 3 to 8 meters. Nexus: 36 seconds, six turns, up to one kilometre.
 
 ### Counterplay
 
-**Tell** · Speculum: no seam; only a channel the caster did not read, a footfall the room does not permit, a pursuer left holding nothing. Nexus: a still figure with a chant and a staff, glowing at the field's centre.
+**Tell** · Speculum: no seam; only a channel the caster did not read, a footfall the room does not permit, a pursuer left holding nothing. Nexus: a still figure with a chant and a staff, glowing at the field's center.
 
 **Limits** · The double cannot land a real blow and dies when its line is cut; the Nexus bias is small, cannot win an exchange alone, and misses anything under fifty microseconds.
 

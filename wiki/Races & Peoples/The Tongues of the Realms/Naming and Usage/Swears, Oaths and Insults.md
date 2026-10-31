@@ -29,7 +29,7 @@ The clans swear by the Sky and the fire, curse with the cold, and insult by scar
 | Wet wood. | Wood that smokes and will not catch. | hard | Said of a liar or a man who cannot be relied on; the whole proverb, "wet wood burns eventually, a liar never dries," is the formal version |
 | Empty saddle. | A saddle with nobody in it. | hard | a man who is not there when the ride goes out; riders, veterans, the banner houses' men |
 | Cracked bowl. | A bowl that cannot hold its share. | hard | one who takes the first bowl from the one who cannot fill it (breaks the proverb); women at the pot, elders |
-| Short stack. | A woodpile too small for the winter. | firm | Said of a lazy or improvident man; neighbours, the answer to "how's your stack?" given about someone else |
+| Short stack. | A woodpile too small for the winter. | firm | Said of a lazy or improvident man; neighbors, the answer to "how's your stack?" given about someone else |
 | Full mouth. | All talk, since the full stack speaks louder. | firm | Said of a boaster; young men to young men, old men to young men |
 | Thin Weeks on you. | May the late-winter hunger find your house. | hard | A curse between households in a feud; not said in a lean year, when it is too close to true |
 | Qatuq take you. | Qatuq: the cold that takes the unready. | hard | Hunters and sealers; a curse that wishes a man dead the northern way, slowly and by his own mistake |
@@ -43,15 +43,15 @@ The clans swear by the Sky and the fire, curse with the cold, and insult by scar
 
 ## Moto
 
-A house that holds the offence is inaccuracy, so its heaviest words are verdicts. The house speaks in the old register: full forms, no contractions, honorifics where the old tongue is used. **The Moto never swear by a single Archon**, since addressing one alone is Singling, the principal heresy; a Moto who hears a Kharven say "Archons take it" hears nothing wrong, and a Moto who hears "Irath take it" hears heresy. They also do not petition, so there is no Moto "help me."
+A house that holds the offense is inaccuracy, so its heaviest words are verdicts. The house speaks in the old register: full forms, no contractions, honorifics where the old tongue is used. **The Moto never swear by a single Archon**, since addressing one alone is Singling, the principal heresy; a Moto who hears a Kharven say "Archons take it" hears nothing wrong, and a Moto who hears "Irath take it" hears heresy. They also do not petition, so there is no Moto "help me."
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
 | By the Fourteen. | Before all fourteen Archons at once, as the Bow is made. | firm (solemn) | The only lawful invocation in a Moto mouth; senior line members, the Kōkan, retainers taking an order |
 | Incorrect. | Wrongly read. | hard; from a senior, grave | The whole of blame, as "correct" is the whole of praise; lords to retainers, fathers to sons; one word, no heat |
-| Empty Bow. | Observance performed without the labour. | grave | Said of a man or a house that keeps the forms and does none of the work; held worse than neglect |
+| Empty Bow. | Observance performed without the labor. | grave | Said of a man or a house that keeps the forms and does none of the work; held worse than neglect |
 | Singler. | One who elevates one Archon above the fourteen. | grave | A charge of heresy; the Kōkan say it of Sancta Lux, and of themselves when Totality starts to look like a crown |
-| Petitioner. | One who asks an Archon for something. | hard | Contempt for a beggar at the altar, and for any man who bargains where he should labour |
+| Petitioner. | One who asks an Archon for something. | hard | Contempt for a beggar at the altar, and for any man who bargains where he should labor |
 | Clogged. | A house that will not let its dead leave. | hard | Said of a house that keeps its dead in portraits, relics and rehearsed grief |
 | Let him go unread. | May nobody read his name at Ice-out. | grave | A curse wishing a man's death to go unentered and unfaced; spoken by the old, rarely, and never over a body |
 | Written in the wrong hand. | A document in the wrong Archon's hand, void rather than incorrect. | hard | Said of a bastard, a false claim, a forged order, or a man who holds an office he was never read into |
@@ -132,7 +132,7 @@ The elves swear in the common tongue and in Vey-Elarin words dropped into it. Th
 | Unasked. | Taken without the Asking over wood, water, game or stone. | hard | Said of a thief of the land, a poacher, a road-builder; any branch, Varrisak most |
 | Transcript. | One who mistakes a filing system for a memory. | firm | Varrisak of Eresseans, and of any clerk |
 | Seral take it. | Let the winter have it. | mild | The Eladrin "damn it"; the northern courts |
-| Past nine. | A silence held past the nine-count. | grave | Eladrin; not a word at all but a silence counted past refusal into judgement; to say "past nine" of a man means he is judged |
+| Past nine. | A silence held past the nine-count. | grave | Eladrin; not a word at all but a silence counted past refusal into judgment; to say "past nine" of a man means he is judged |
 | Unpaid. | Worse than absent: a position, not a fact. | hard | Drow of Korvaeth; also "out of term" for a debt gone past its day |
 | By the Realmsong. | On the song Florwyn sang the kin into being with. | firm (solemn) | Elven oath-exclamation outside a court, where "Uren" (witnessed) is the formal one |
 
@@ -197,7 +197,7 @@ The order does not worship, and it says so in its catechism's first line. Its in
 
 #### The Archons in the street
 
-Shrine cultures and the Concord street curse by the Archon whose work fits the offence. **A Moto hears every one of these as Singling**, the principal heresy, and a Moto in a mixed room will take note of who says them.
+Shrine cultures and the Concord street curse by the Archon whose work fits the offense. **A Moto hears every one of these as Singling**, the principal heresy, and a Moto in a mixed room will take note of who says them.
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
@@ -254,7 +254,7 @@ Practitioners talk exact numbers, so they insult in them. Commons round, and mos
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
 | Posted. | Named on a hall's board. | hard | Of a man the halls want; "he's posted" ends a hiring |
-| Off-board. | Takes postings without a licence. | hard from a licensed hunter | Of the cheap unlicensed hunters every district hires anyway |
+| Off-board. | Takes postings without a license. | hard from a licensed hunter | Of the cheap unlicensed hunters every district hires anyway |
 | Well-bait. | Good for drawing something out, and for nothing after. | firm | Hunters of the useless |
 | Well-get. | Something that came out of a Well. | grave | Of a person, it says he is not one |
 | Commissioned. | There is an Extermination posting with your name on it. | grave | A threat more than an insult; hunters, Sealwrights, the halls' own enforcers |
@@ -263,13 +263,13 @@ Practitioners talk exact numbers, so they insult in them. Commons round, and mos
 
 ### The Draw
 
-Draw is guild licence only and the commons burn oil. The Accord's "cut his plate" belongs with these.
+Draw is guild license only and the commons burn oil. The Accord's "cut his plate" belongs with these.
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
 | Oil-burner. | A household with no draw. | firm | Main-district speech of the poor quarters |
 | Bad-main. | Raised on a bad main in a crowded quarter. | firm | Of someone twitchy, strange or woken at an odd age; poor quarters say it of their own with pity, everyone else without |
-| Leaker. | One who taps a main he has no licence for. | hard | Board men, and householders whose pressure dropped |
+| Leaker. | One who taps a main he has no license for. | hard | Board men, and householders whose pressure dropped |
 | Hum-deaf. | Cannot hear the draw-hum. | mild | Of the obtuse; Board men of everyone |
 
 ---

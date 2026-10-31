@@ -77,7 +77,7 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 
 ### Metaphysics
 
-**Aether** · Drawn continuously across the whole volume; Limina favours darkness, silence and ruins, Fluxia favours water and humidity, and an active Domain suppresses it outright. It leaves Dream Residue in the ground, which deafens Harmonists while it lies there.
+**Aether** · Drawn continuously across the whole volume; Limina favors darkness, silence and ruins, Fluxia favors water and humidity, and an active Domain suppresses it outright. It leaves Dream Residue in the ground, which deafens Harmonists while it lies there.
 
 **Wellspring** · Eidolyn, the Shaping Mind (Limina): a supersaturated medium deposits along a given template, so intent becomes the template and the curved line is a true local fact, not an illusion.
 
@@ -93,9 +93,9 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 
 ### Mechanism
 
-**Glyph** · Mirage laid across Boundary: Mirage sets a gradient-index medium, Boundary fixes the forty-metre claim.
+**Glyph** · Mirage laid across Boundary: Mirage sets a gradient-index medium, Boundary fixes the forty-meter claim.
 
-**Boundary** · The index gradient inside a forty-metre sphere moves; a second boundary, set through Oneirion on the field's attention density, warps timing and answers to different counters.
+**Boundary** · The index gradient inside a forty-meter sphere moves; a second boundary, set through Oneirion on the field's attention density, warps timing and answers to different counters.
 
 **Effect** · Attacks curve and aiming off does not correct them; one second runs longer or shorter than the last; the shortest path changes each time; worst, every practitioner inside misreads what their own workings cost.
 
@@ -111,7 +111,7 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70 (0.65 used). Grade A, allocation stopping at 400, 475 under strain only.
 
-**Paths** · On a Spirit Path the radius is capped at forty metres and the hold at A-Grade Sovereignty; Dominion Radius past A needs the Attraction Path, Dominion Sovereignty the Fate Path.
+**Paths** · On a Spirit Path the radius is capped at forty meters and the hold at A-Grade Sovereignty; Dominion Radius past A needs the Attraction Path, Dominion Sovereignty the Fate Path.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -128,10 +128,10 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 
 ### Counterplay
 
-**Tell** · Declared and visible: forty metres where the first thing anyone does goes wrong in an obvious way and things curve. Afterwards, Dream Residue in the ground and deafened Harmonics.
+**Tell** · Declared and visible: forty meters where the first thing anyone does goes wrong in an obvious way and things curve. Afterwards, Dream Residue in the ground and deafened Harmonics.
 
-**Limits** · Forty-metre radius, three turns a hold, no overlay on a claimed Domain, unmade by a Titan's presence, capped by Refraction's A-Grade ceiling. A Body Path anchor fixes aim but not the clock.
+**Limits** · Forty-meter radius, three turns a hold, no overlay on a claimed Domain, unmade by a Titan's presence, capped by Refraction's A-Grade ceiling. A Body Path anchor fixes aim but not the clock.
 
-**Fails against** · Ground claimed first or contested (Lock, a reality-lock invocation, an unclaimed Aether pulse); rigid adherence to ordinary law through a Body Path anchor or a grounding rune; distance beyond forty metres; a known pattern in the practitioner.
+**Fails against** · Ground claimed first or contested (Lock, a reality-lock invocation, an unclaimed Aether pulse); rigid adherence to ordinary law through a Body Path anchor or a grounding rune; distance beyond forty meters; a known pattern in the practitioner.
 
 **Look up** · The Counterplay register for Lock; the Limina and Fluxia entries for Eidolyn, Oneirion and Somnalis Failures; the Attraction Layer and Obsession Force; the Refraction Stage table; Runecraft's counters for the grounding rune.

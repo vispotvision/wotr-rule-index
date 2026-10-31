@@ -18,7 +18,7 @@ tags: ["Trade & Economy", "Materials"]
 >
 > A pumping array does not care what is in your vault. **It cares what arrives this week.**
 >
-> **The metal ledger** records the settlement of everything else. Land, grain, cloth, labour, ore, ships, debts, dowries, fines, ransoms.
+> **The metal ledger** records the settlement of everything else. Land, grain, cloth, labor, ore, ships, debts, dowries, fines, ransoms.
 >
 > Metal is **the memory of the economy.** It is what allows a transaction to be completed between people who will never meet again.
 Essence has all the properties of a terrible currency. It leaks from storage, cannot be assayed without an instrument, cannot be divided below a practical floor, is worthless to anyone who cannot use it, and **will not survive its owner.** It is nonetheless the primary good, because it is the thing everything else is made with.
@@ -58,7 +58,7 @@ Gold is the standard of value, the metal of the great settlements, and **the sub
 > The consequence is a **permanent monetary sink.** Gold that enters an oath does not come back. It cannot be re-melted without breaking the working, and breaking the working is, in most of the four quarters, a capital matter. Every generation consecrates a portion of the world's gold and removes it from circulation forever, and **the more devout a polity is, the faster it drains its own money supply.**
 >
 > Chronic gold scarcity is therefore not a failure of the mines. **It is a religion operating as a monetary policy that nobody voted for and nobody can repeal.**
-In daily practice, most people will never touch gold. It settles accounts between houses, kingdoms, and guilds. *A labourer may see one gold piece in a lifetime, at a wedding, and will remember it.*
+In daily practice, most people will never touch gold. It settles accounts between houses, kingdoms, and guilds. *A laborer may see one gold piece in a lifetime, at a wedding, and will remember it.*
 
 ### Silver
 
@@ -108,7 +108,7 @@ In a world of bad roads, worse law, and kingdoms that repudiate their debts on s
 > The answer is **Nalūn**, and the answer is not culture.
 >
 > The Kingdom of Nalūn sits on **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract executed under Nalūn authority is not a promise backed by a court. **It is a working**, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
-The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honour is a binding duel challenge because in Nalūn a merchant's honour is **a load-bearing financial instrument.**
+The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honor is a binding duel challenge because in Nalūn a merchant's honor is **a load-bearing financial instrument.**
 
 What this produces is the one thing medieval commerce anywhere else could not produce: **enforceable long-distance credit.** A bill drawn on Ironlink Hold is good in Kaetra and in the Ring smelters, not because those places respect Nalūn but **because the instrument enforces itself.**
 
@@ -182,20 +182,20 @@ The Accord's certification is a meritocracy in the strict sense: it measures, it
 
 **Rank is collateral.** An Accord rank is a documented, verifiable claim on future contract income, and lending houses maintain schedules of what each rank will support. This is the mechanism by which a landless person can raise capital, and it is the only such mechanism that exists. *A commoner with a rank can finance an expedition. A commoner without one cannot finance a cart.*
 
-**Temperance is a wage schedule.** Because Essence output is measurable, labour that uses Essence is priced directly on the coil. An array-tender's pay is a function of certified output and nothing else. **No other labour market in history has possessed an objective productivity measure**, and the effect is exactly as brutal as it sounds, because it removes every argument a worker could make about their own worth that does not appear on the instrument.
+**Temperance is a wage schedule.** Because Essence output is measurable, labor that uses Essence is priced directly on the coil. An array-tender's pay is a function of certified output and nothing else. **No other labor market in history has possessed an objective productivity measure**, and the effect is exactly as brutal as it sounds, because it removes every argument a worker could make about their own worth that does not appear on the instrument.
 
 **A person is an assayable asset.** If capability is measurable and future earnings predictable, then a person is a security, and bond contracts written against future output are ordinary instruments traded in ordinary markets. A young practitioner may sell a term of their future output to fund their training, which is how most practitioners who were not born wealthy became practitioners at all.
-> The Measurewrights record, because somebody should, that the late Reconstruction kingdoms' enslaved Wellspring labour and a modern training bond **are the same instrument at different levels of refinement.** The differences are real and worth having: the modern bond has a term, a price, a court, and a theoretical buyout.
+> The Measurewrights record, because somebody should, that the late Reconstruction kingdoms' enslaved Wellspring labor and a modern training bond **are the same instrument at different levels of refinement.** The differences are real and worth having: the modern bond has a term, a price, a court, and a theoretical buyout.
 >
 > The similarity is that in both cases **a person's output belongs to somebody else and the paperwork says so.**
-**Rank travels; title does not.** A Baron's writ stops at his river. An Accord rank is honoured in every member polity. For a great many people the Accord credential is the only portable legal identity they will ever possess, and it is issued on capability rather than on birth, **which is a genuinely revolutionary fact that the Accord has never once described in those terms.**
+**Rank travels; title does not.** A Baron's writ stops at his river. An Accord rank is honored in every member polity. For a great many people the Accord credential is the only portable legal identity they will ever possess, and it is issued on capability rather than on birth, **which is a genuinely revolutionary fact that the Accord has never once described in those terms.**
 > **And then there is the floor.** Someone with no rank, no Temperance, and no craft has only their body to sell, and the body is worth what a body is worth in a world where the array does the pumping, the ventilating, and the lifting.
 > 
-> The industrialisation of Essence did not raise everybody. **It revalued everybody**, and it revalued ordinary muscle downward, permanently, against a machine that does not tire and does not eat. The un-Tempered labourer of the Imperial Age is worse off in real terms than his Voyager-era ancestor, who at least was needed to turn the screw.
+> The industrialisation of Essence did not raise everybody. **It revalued everybody**, and it revalued ordinary muscle downward, permanently, against a machine that does not tire and does not eat. The un-Tempered laborer of the Imperial Age is worse off in real terms than his Voyager-era ancestor, who at least was needed to turn the screw.
 > 
 > *A meritocracy is an excellent arrangement for people with merit that the instrument can see.*
 >
-> The industrialisation of Essence did not raise everybody. **It revalued everybody**, and it revalued ordinary muscle downward, permanently, against a machine that does not tire and does not eat. The un-Tempered labourer of the late Imperial Age is worse off in real terms than his Imperial-era ancestor, who at least was needed to turn the screw.
+> The industrialisation of Essence did not raise everybody. **It revalued everybody**, and it revalued ordinary muscle downward, permanently, against a machine that does not tire and does not eat. The un-Tempered laborer of the late Imperial Age is worse off in real terms than his Imperial-era ancestor, who at least was needed to turn the screw.
 >
 > *A meritocracy is an excellent arrangement for people with merit that the instrument can see.*
 
@@ -213,10 +213,10 @@ Almost every polity in the four quarters is a monarchy. The republics are the ex
 > Legitimate by measurement. Recognises no bloodline. It does not need to depose a king. **It needs only to stop pumping.**
 *Neither side says this out loud. Both sides have costed it.*
 
-The compromise everyone lives inside has three parts. **Crowns ennoble high rank**, because a Rank V commoner who is refused a place at court is a Rank V commoner available to a neighbour. **Guilds accept charters**, because a guild hall stands on somebody's land. And **marriage does the reconciling** — the standard instrument by which a lineage acquires certified capability and a certified line acquires standing. Every significant political marriage in the last century can be read in both directions at once, and both readings are correct, *and the parties involved know it while the vows are being spoken.*
+The compromise everyone lives inside has three parts. **Crowns ennoble high rank**, because a Rank V commoner who is refused a place at court is a Rank V commoner available to a neighbor. **Guilds accept charters**, because a guild hall stands on somebody's land. And **marriage does the reconciling** — the standard instrument by which a lineage acquires certified capability and a certified line acquires standing. Every significant political marriage in the last century can be read in both directions at once, and both readings are correct, *and the parties involved know it while the vows are being spoken.*
 > Where the arrangement breaks is **succession.** A crown passes to a body. Rank does not.
 >
-> A kingdom whose heir assays weak, in a century whose neighbours field certified Rank V commoners on contract, has a strategic problem that no amount of ancestry solves and that cannot be fixed at the speed a bloodline breeds. The responses available are all bad: regency, which invites a coup; marriage into capability, which imports a rival house into the succession; reliance on contracted guild talent, which mortgages the crown to the Accord; or **concealment of the assay, which works until it does not.**
+> A kingdom whose heir assays weak, in a century whose neighbors field certified Rank V commoners on contract, has a strategic problem that no amount of ancestry solves and that cannot be fixed at the speed a bloodline breeds. The responses available are all bad: regency, which invites a coup; marriage into capability, which imports a rival house into the succession; reliance on contracted guild talent, which mortgages the crown to the Accord; or **concealment of the assay, which works until it does not.**
 >
 > Four of the eleven succession crises recorded since Year 200 began with **a disputed coil reading on an heir**, and the Archives files all four under dynastic history.
 
@@ -226,7 +226,7 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 
 *Everything above concerns perhaps one person in twenty. Any account of trade that omits the rest is describing a minority.*
 
-**Most transactions involve no coin at all.** Barter is not a primitive stage the four quarters have grown out of. It is the default, and coin is the exception, used at the boundary between strangers. Within a village, a valley, or a guild hall, obligations are **recorded rather than settled**: who owes whom a day's labour, a cartage, a share of the slaughter, a repair. Settlement happens annually, in kind.
+**Most transactions involve no coin at all.** Barter is not a primitive stage the four quarters have grown out of. It is the default, and coin is the exception, used at the boundary between strangers. Within a village, a valley, or a guild hall, obligations are **recorded rather than settled**: who owes whom a day's labor, a cartage, a share of the slaughter, a repair. Settlement happens annually, in kind.
 
 **Wages are largely in kind.** Grain, salt, cloth, ale, board, fuel, and the use of ground. This is not charity and it is not backwardness; it is the sensible arrangement where coin is scarce and the thing being produced is the thing being consumed.
 
@@ -275,7 +275,7 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 
 **The Essence peg.** Settled. The contract unit is a **standing myriad**: one myriad delivered daily, for a term of one year, from a named source. **Essence is quoted as a rate because Essence is a flow**, and every attempt to quote it as a quantity has produced a contract nobody could enforce. The Accord rate stands at forty silver marks the standing myriad, against twelve at Year 640, **and the whole of the Withering's economic history is in the distance between those two figures.**
 > *A house holding supply books written at Year 640 rates is holding an instrument worth more than three times its face and rising, which is why houses are now bought for their books with the ore thrown in.*
-**Silver's resonance.** The attribution of person-addressed binding to silver is drawn from the behaviour of Bloodsilver and Dawnsilver thread rather than from any direct statement in the substrate tables, which name basalt, quartz, iron, gold, and obsidian and are **silent on silver.** This is inference and is marked as such.
+**Silver's resonance.** The attribution of person-addressed binding to silver is drawn from the behavior of Bloodsilver and Dawnsilver thread rather than from any direct statement in the substrate tables, which name basalt, quartz, iron, gold, and obsidian and are **silent on silver.** This is inference and is marked as such.
 
 **Consecrated gold.** Whether gold taken into a rite is permanently removed or merely encumbered is doctrinally disputed between Lurien and Eresse, and the two positions have different monetary consequences **at a scale neither institution appears to have calculated.**
 

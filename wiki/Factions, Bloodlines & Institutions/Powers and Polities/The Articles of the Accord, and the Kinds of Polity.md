@@ -28,7 +28,7 @@ The formulary's four revisions, every one of them older than the first circle, a
 |---|---|---|---|---|
 | I | *Unum pondus* | one weight | One weight, one measure, one reach, through all the land. | Amercement; the measure struck |
 | II | *De verificatione* | the checking | Every weight and measure in lawful trade bears its stamps and is presented at the appointed window. | Trade suspended until presented |
-| III | *De percussione* | the striking | A false weight is struck across its stamps with the six-point and destroyed. | Destruction; second offence, licence forfeit |
+| III | *De percussione* | the striking | A false weight is struck across its stamps with the six-point and destroyed. | Destruction; second offense, license forfeit |
 | IV | *De soliditate* | solid or cased | No cased weight in trade. **Any person may sound a weight at any hour without leave.** | Amercement to the offender's means; the beam |
 | V | *De mensura plana* | level measure | Grain sold by level measure, the board drawn once and evenly. | Amercement; forfeit of the sale |
 
@@ -46,7 +46,7 @@ The formulary's four revisions, every one of them older than the first circle, a
 
 | # | Register | Plain | The rule | Penalty |
 |---|---|---|---|---|
-| XI | *De examine* | the examination | None practises the writing or the pouring **for hire** unregistered. | Amercement; tools forfeit; the work undone at his cost |
+| XI | *De examine* | the examination | None practices the writing or the pouring **for hire** unregistered. | Amercement; tools forfeit; the work undone at his cost |
 | XII | *De disciplina* | the indenture | Seven years for the cutting, indenture registered, a master limited in how many he may hold. | Indenture void; the boy freed; the master fined |
 | XIII | *Probatum est* | the proof | Nothing sold as proofed that has not been tested. | The heaviest fine in the formulary |
 | XIV | *De vase* | the vessel | Every charged vessel marked with maker and date of charge. Selling an uncharged vessel as charged is fraud, not error. | Reservation, and the Bench does not often forgive it |
@@ -59,12 +59,12 @@ The formulary's four revisions, every one of them older than the first circle, a
 | # | Register | Plain | The rule | Penalty |
 |---|---|---|---|---|
 | XVI | *De foramine* | the bore | No ferrule other than standard on any service. | Cut off; amercement; the fitting seized |
-| XVII | *De tundisio* | the tundish | Every housing fitted and unobstructed. **Covering a tundish is a separate offence from widening a bore**, and carries the heavier penalty, because it is done to conceal. | Cut off; the heavier fine |
+| XVII | *De tundisio* | the tundish | Every housing fitted and unobstructed. **Covering a tundish is a separate offense from widening a bore**, and carries the heavier penalty, because it is done to conceal. | Cut off; the heavier fine |
 | XVIII | *De sigillo* | the seal | Breaking a Guild seal on a conduit. | Cut off; a term |
 | XIX | *De crure mortuo* | the dead leg | A cut conduit shall be capped and reported within one turn. | Amercement on the owner, whoever that now is |
 | XX | *De arreragiis* | arrears | Cutting for arrears requires notice of one turn. **A death-house, a physician's house and a working forge may not be cut.** | — |
 
-**Article XX is honoured in the West and ignored everywhere the inspector is the same man as the collector**, which is most places. The exemption exists, is well known, and is claimed far more often than it is granted.
+**Article XX is honored in the West and ignored everywhere the inspector is the same man as the collector**, which is most places. The exemption exists, is well known, and is claimed far more often than it is granted.
 
 ### Title V · Of Bread, Ale and the Common Sale
 
@@ -82,7 +82,7 @@ The formulary's four revisions, every one of them older than the first circle, a
 
 | # | Register | Plain | The rule | Penalty |
 |---|---|---|---|---|
-| XXVI | *De pede pulverulento* | the dusty foot | A traveller's plea is heard and determined **before the market closes.** | — |
+| XXVI | *De pede pulverulento* | the dusty foot | A traveler's plea is heard and determined **before the market closes.** | — |
 | XXVII | *De custodia viae* | the road | The keeper of a stretch keeps it passable, and may take a toll only where he does. | Toll forfeit; the stretch reassigned |
 | XXVIII | *De pignore* | the pledge | What may be taken in pledge, and what may not: tools of a man's craft, and the last beast. | Restitution |
 
@@ -96,7 +96,7 @@ The formulary's four revisions, every one of them older than the first circle, a
 
 **Sancta Lux** hears what the Accord will not: oath, status, legitimacy, and whether a thing was done in bad faith rather than merely done. The two jurisdictions overlap and neither will define the boundary, because both prefer being able to claim a case than being obliged to take one.
 
-**Amercement** is the standard penalty and it is not a fixed fine. It is set by the court **to the offender's means**, which is why the same offence costs a labourer a week and a factor house an afternoon's profit, and why the factor house budgets for it.
+**Amercement** is the standard penalty and it is not a fixed fine. It is set by the court **to the offender's means**, which is why the same offense costs a laborer a week and a factor house an afternoon's profit, and why the factor house budgets for it.
 
 ## Part Four: The Kinds of Polity
 

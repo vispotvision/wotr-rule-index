@@ -53,7 +53,7 @@ Run the chain forwards from the cost, never backwards from a description. The EU
 
 ### The spine: joules → Grade → a tier from one to nine
 
-Every ladder in the Continuum (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armour) hangs on one spine, and the spine is already present twice over. Part Four gives each Grade a joule band. Part Five gives each Stage a Max Grade and a Tier of Standing (one of nine broad ranks grouping the sixteen Stages). Read the Max Grade column backwards and the thirteen Grades fall into the nine Tiers.
+Every ladder in the Continuum (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armor) hangs on one spine, and the spine is already present twice over. Part Four gives each Grade a joule band. Part Five gives each Stage a Max Grade and a Tier of Standing (one of nine broad ranks grouping the sixteen Stages). Read the Max Grade column backwards and the thirteen Grades fall into the nine Tiers.
 
 **The nine rungs.** A Grade sits at the lowest Tier of Standing whose Stages can reach it.
 
@@ -275,7 +275,7 @@ The missing fraction of every expenditure is wasted as **heat, noise and structu
 
 across three millimetres, and that is the small practitioner. At the middle practitioner's 39.0 MW it is 1.63 × 10⁵ K; at the large practitioner's 204 GW it is 8.5 × 10⁸ K. Skin chars at about 200 °C.
 
-**So the Soul Crystal is not a battery in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no waste heat, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does. Their aura still shows in its own colour, and their strength can still be felt; it simply sheds nothing.
+**So the Soul Crystal is not a battery in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no waste heat, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does. Their aura still shows in its own color, and their strength can still be felt; it simply sheds nothing.
 
 ### The tell, priced
 
@@ -289,11 +289,11 @@ The waste leaves the Shell as radiance, and Stefan–Boltzmann prices what it lo
 | Stage VIII, η 0.70 | 17.9 GW | 20,550 K | 843 m | 337 m |
 | the large practitioner, η 0.87 | 204 GW | 37,770 K | 2,846 m | 1,138 m |
 
-*Radius r = √(P / 4π · threshold).* At full output even the middle practitioner at η 0.99, wasting one percent, sets timber alight at fifteen metres. The large practitioner at full output burns at six and a half times the Sun's surface temperature, as hot as a blue O-type star, and an ignition radius of 1.14 kilometres reaches their own army and the ground they stand on; they can be seen working from the next valley.
+*Radius r = √(P / 4π · threshold).* At full output even the middle practitioner at η 0.99, wasting one percent, sets timber alight at fifteen meters. The large practitioner at full output burns at six and a half times the Sun's surface temperature, as hot as a blue O-type star, and an ignition radius of 1.14 kilometres reaches their own army and the ground they stand on; they can be seen working from the next valley.
 
 At the draw a working actually runs at, the tell is smaller and still there. The broadcast suppression at 48.75 AU/s and η 0.89 sheds 5.36 MW: a surface near 2,700 K, pain on bare skin to 14.6 m, timber catching at 5.8 m.
 
-**This is the tell, and it is also the cost.** A practitioner at full output is a lamp, a furnace and a hazard to everyone within a stated radius, and the radius is on this table. A low-η practitioner throws more heat and glare for the same work. A high-η one sheds almost none: their aura still burns in its own colour and brightens as they push, but it gives off no heat, which is why a cool, quiet aura is remarked on, and why one working in silence and in the cold should frighten an onlooker more, not less. The ladder of who is brighter than whom depends on *(1 − η) × output* and on nothing else. The tell does not end when the working does: scorched ground, a burnt ring and a room still warm are the aftermath, and the aftermath is read like the working was.
+**This is the tell, and it is also the cost.** A practitioner at full output is a lamp, a furnace and a hazard to everyone within a stated radius, and the radius is on this table. A low-η practitioner throws more heat and glare for the same work. A high-η one sheds almost none: their aura still burns in its own color and brightens as they push, but it gives off no heat, which is why a cool, quiet aura is remarked on, and why one working in silence and in the cold should frighten an onlooker more, not less. The ladder of who is brighter than whom depends on *(1 − η) × output* and on nothing else. The tell does not end when the working does: scorched ground, a burned ring and a room still warm are the aftermath, and the aftermath is read like the working was.
 
 ### η above one
 

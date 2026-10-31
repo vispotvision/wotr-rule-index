@@ -8,7 +8,7 @@ title: "Veil of Verdant Pact"
 
 ### Summary card
 
-**Effect** · A living dome of grown matter closes over the caster and every ally within five metres, and for as long as it holds, wounds taken inside it lag behind whatever caused them. *Fire arrives and the char becomes new bark. Frost arrives and the numbness becomes sap-slow warmth.*
+**Effect** · A living dome of grown matter closes over the caster and every ally within five meters, and for as long as it holds, wounds taken inside it lag behind whatever caused them. *Fire arrives and the char becomes new bark. Frost arrives and the numbness becomes sap-slow warmth.*
 
 **Cost** · **The ward routes injury through the caster's own body before it routes it into growth.** *Every burn, break, and poison the dome absorbs is felt by whoever raised it, in full, for the second it takes the wood to catch up.*
 
@@ -139,4 +139,4 @@ Veil of Verdant Pact is a documented Vitalia/Materia ward of anonymous, folk-tra
 
 **Fails against** · A strike in the closing second; a lost anchor; drying by Exuroth; Nihiloth, Absolution's flames or Tenebra's decay; starved or poisoned ground; harm to the raiser through the dome. A second hit on one spot does nothing.
 
-**Look up** · The Vitalia and Materia favour lists; the Verdantia and Materia Primordia Failures; Exuroth, Nihiloth and Absolution entries; the B-Grade Strike Force row; the Splintering Stage table.
+**Look up** · The Vitalia and Materia favor lists; the Verdantia and Materia Primordia Failures; Exuroth, Nihiloth and Absolution entries; the B-Grade Strike Force row; the Splintering Stage table.

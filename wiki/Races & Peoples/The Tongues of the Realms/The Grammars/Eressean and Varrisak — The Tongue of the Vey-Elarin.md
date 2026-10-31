@@ -58,7 +58,7 @@ Contour is never written in running text and never written in Songscript prose, 
 
 **The pitch does grammatical work.** A falling contour on a possessive can validate a claim that the affix left contingent, and a rising contour can withdraw one that the affix granted. An Eressean jurist reading a deposition aloud in court is performing an act with legal weight, and a jurist who reads a rising contour where the text expects a falling one has said something actionable. Depositions are therefore read by two jurists in alternation and the second exists to catch the first.
 
-**Volume carries nothing at all**, exactly as in Vaross, and for an unrelated reason. Vaross reserves volume for signalling across water. Eressean reserves it for song, and using a singing mechanism for speech is a category error that reads as either drunk or blasphemous depending on the room.
+**Volume carries nothing at all**, exactly as in Vaross, and for an unrelated reason. Vaross reserves volume for signaling across water. Eressean reserves it for song, and using a singing mechanism for speech is a category error that reads as either drunk or blasphemous depending on the room.
 
 ## IV. Morphology
 
@@ -127,7 +127,7 @@ The verb accordingly marks not time but **whether the act fell inside its window
 > *iesae* — the transfer was made in its season
 >
 > *ielo* — the transfer was made outside its season
-*-lo* is not past tense and is not a judgement, formally. In practice a chain of *-lo* verbs in a deposition is how an Eressean advocate destroys a witness without ever calling them a liar.
+*-lo* is not past tense and is not a judgment, formally. In practice a chain of *-lo* verbs in a deposition is how an Eressean advocate destroys a witness without ever calling them a liar.
 
 **Varrisak has no window marking and never developed it.** In its place is an obligatory evidential: **-ven** seen, **-dhae** dreamed, **-tor** told by another. A Varrisak cannot report an event without stating how they came to it, and the dreamed evidential outranks the seen one, which Eressean speakers find so difficult that most simply stop translating at that point.
 
@@ -163,7 +163,7 @@ The verb accordingly marks not time but **whether the act fell inside its window
 
 **Varrisak.** Faster, flatter contours, the evidential system in place of the window, and *-ieur* everywhere. Retains an imperative that Eressean lost, or invented one, depending on which philologist is asked. Oral only, by doctrine.
 
-**Eladrin.** The northern courts made **the pause a morpheme.** A measured silence of a counted length functions as a particle, and the count is the meaning: a four-count is assent, a nine-count is a refusal that will not be argued, and a silence held past a nine-count has moved out of language and into judgement. Queen Seralyth's unbroken silence through an entire negotiation is taught in the Winter Court as the highest sentence ever constructed in the dialect. Concord envoys transcribe these exchanges as having had nothing said in them.
+**Eladrin.** The northern courts made **the pause a morpheme.** A measured silence of a counted length functions as a particle, and the count is the meaning: a four-count is assent, a nine-count is a refusal that will not be argued, and a silence held past a nine-count has moved out of language and into judgment. Queen Seralyth's unbroken silence through an entire negotiation is taught in the Winter Court as the highest sentence ever constructed in the dialect. Concord envoys transcribe these exchanges as having had nothing said in them.
 
 **Echo Elf.** The restatement is grammatical rather than stylistic. An agreed fact takes the clitic **zo** and is repeated once, exactly, and an agreement that has not been *zo*-restated by every party has not been entered. The doubled *zo* phonemes are audible from across a room and are the reason Echo Elf negotiation takes as long as it does and has never once needed refighting.
 

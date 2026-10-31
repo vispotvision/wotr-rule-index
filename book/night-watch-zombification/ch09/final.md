@@ -136,7 +136,7 @@ She took the cover off. Wystan had the smell of it at once, iron and warmth and 
 
 She put a very little of the flask into the pail with the end of a glass rod, and stirred it twice, and stood back with her hands behind her.
 
-Nothing happened for the length of a slow count. Then the surface went from red to a duller red, from the middle out, the way a skin comes over milk off the boil, and the whole of it drew in a little from the sides of the pail. A ring of wet showed round it on the tin. The colour kept going while he watched it and did not stop going.
+Nothing happened for the length of a slow count. Then the surface went from red to a duller red, from the middle out, the way a skin comes over milk off the boil, and the whole of it drew in a little from the sides of the pail. A ring of wet showed round it on the tin. The color kept going while he watched it and did not stop going.
 
 "There," she said.
 
@@ -210,7 +210,7 @@ He took the slip out of the day book and gave it to her, and she read it and gav
 
 "It will have published by then," he said. "That is a different thing."
 
-The chapter's shutters were open on the north light and the light had gone the colour it went at the tenth. Wystan read her four lines in the book, holding the leaf by its corner, and did not follow the middle of them, and read them again. He signed nothing. It was her book and her hand and her reading, and that was the whole use of it.
+The chapter's shutters were open on the north light and the light had gone the color it went at the tenth. Wystan read her four lines in the book, holding the leaf by its corner, and did not follow the middle of them, and read them again. He signed nothing. It was her book and her hand and her reading, and that was the whole use of it.
 
 He went back to Cutler Row at the eleventh.
 

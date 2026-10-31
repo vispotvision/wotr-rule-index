@@ -105,7 +105,7 @@ title: "Saba no Rosa"
 
 **Essence** · The Attraction Layer throughout: holdings, bonds, paid debts and kept oaths are the Plane-of-Fate record. The Essence Core pays through Oblation; the Shell does nothing, so no blade and no wound. Developmental Tier at the floor is Resonant.
 
-**School** · An old eastern school holds that to exist is to encroach and everything owes, so the working calls the ordering of time forward; believing no ledger is clean, its adherents never build the defence and destroy themselves on the innocent.
+**School** · An old eastern school holds that to exist is to encroach and everything owes, so the working calls the ordering of time forward; believing no ledger is clean, its adherents never build the defense and destroy themselves on the innocent.
 
 ### Mechanism
 
@@ -113,7 +113,7 @@ title: "Saba no Rosa"
 
 **Boundary** · Whether a past deposit must answer to its present holder moves, deposit by deposit across a field; whether it happened, or was theirs, does not.
 
-**Effect** · A field of roses rises around the target, each a debt honoured or an oath kept, a thorn on every stem. Nothing touches them; claims simply stop being honoured, then the present coordinate standing on them fails, fast.
+**Effect** · A field of roses rises around the target, each a debt honored or an oath kept, a thorn on every stem. Nothing touches them; claims simply stop being honored, then the present coordinate standing on them fails, fast.
 
 **Hold** · Spellcraft held by attention with no material anchor, from Refraction, the Stage where a Domain seed first forms; it lapses the moment the practitioner is killed or Silenced.
 

@@ -46,7 +46,7 @@ Barrel Dwarf Kegshard Hold maintains a standing trade office in the Reach's chie
 **Basilithe** (primary, expressed as terrace and reef stability rather than tunnel-geometry) · **Ignivale** (strong secondary, the geothermal vent-forges) · **Ascensio** (definitive — the Vertical Claim is an Ascensio relationship formalized into an economy) · **Cymorath** (accessible, wind-reading and storm-timing across open water)
 > **Tiered Domain Claim** — Domain-adjacent stability across two or three **physically separate locations at once**, unlike any other Dawi lineage.
 >
-> **Qori-thread mastery** — flexible, load-distributing armour unmatched by any culture that only casts or only weaves.
+> **Qori-thread mastery** — flexible, load-distributing armor unmatched by any culture that only casts or only weaves.
 >
 > **Root-Severed** — cut off from all three tiers too long, a Reach Dwarf suffers a slow Coherence decline called **Flatfoot Grief.**
 >
@@ -81,7 +81,7 @@ The Clans keep **no written law.** Every clan maintains a **Ledger-Song** — a 
 
 Status and clan affiliation are **worn on the body rather than declared** — layered tattoo-work at the wrist and collarbone, and jewelry built up over a lifetime rather than gifted whole, both applied without regard for gender, since the Clans consider status **a record of what a person has done rather than what they were born as.**
 
-The Tallow aesthetic runs warmer than any other Dawi branch: woven wire worked directly into dyed stone-flock wool, laid over plate rather than replacing it, producing armour that reads at a distance as textile and only reveals its metal core on contact. **It is the only Dawi craft tradition built explicitly to look softer than it is.**
+The Tallow aesthetic runs warmer than any other Dawi branch: woven wire worked directly into dyed stone-flock wool, laid over plate rather than replacing it, producing armor that reads at a distance as textile and only reveals its metal core on contact. **It is the only Dawi craft tradition built explicitly to look softer than it is.**
 
 ### Wellsprings and traits
 

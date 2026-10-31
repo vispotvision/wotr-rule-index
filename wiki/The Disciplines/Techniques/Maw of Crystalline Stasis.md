@@ -10,14 +10,14 @@ title: "Maw of Crystalline Stasis"
 
 ### Summary card
 
-**Effect** · A six-metre field turns the practitioner's own cold into everyone's problem. Moisture, breath, and loose Essence crystallise into a lattice that slows what it touches and shatters what pushes through it too fast.
+**Effect** · A six-meter field turns the practitioner's own cold into everyone's problem. Moisture, breath, and loose Essence crystallise into a lattice that slows what it touches and shatters what pushes through it too fast.
 
 **Cost** · **His joints take the field's overflow.** *Frostbite sets in at his own knuckles and knees at high output, the price of holding a field wider than his Dominion was built to hold.*
 
-**Limit** · **Risks freezing the practitioner's own joints if sustained.** *The field does not distinguish inside the six metres, and he is standing inside it.*
+**Limit** · **Risks freezing the practitioner's own joints if sustained.** *The field does not distinguish inside the six meters, and he is standing inside it.*
 
 **Counter** · **Thermal flux collapses it from within.** *A Pyreveil arte or a sustained Aetheric overheat field forces the lattice back through its own phase transition before it can finish crystallising.*
-> **What nobody knows.** Whether the field fails at its edge or at its centre first when overheated. Nobody has stayed inside one long enough to report which, and its author has never asked anyone to try.
+> **What nobody knows.** Whether the field fails at its edge or at its center first when overheated. Nobody has stayed inside one long enough to report which, and its author has never asked anyone to try.
 
 ---
 
@@ -65,7 +65,7 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 ### Physics
 
-**Phenomenon** · Dendritic solidification under deep undercooling: vapour grows straight into branching ice, and whether the lattice is plates or needles is set only by temperature and supersaturation.
+**Phenomenon** · Dendritic solidification under deep undercooling: vapor grows straight into branching ice, and whether the lattice is plates or needles is set only by temperature and supersaturation.
 
 **Law** · Ice is strain-rate sensitive: it creeps below about 10⁻³ s⁻¹ and fails brittly above it, so the field slows what moves slowly and shatters what moves fast.
 
@@ -99,17 +99,17 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 ### Mechanism
 
-**Glyph** · Boundary (Root) for the six-metre edge laid across Form (Extension) for the lattice habit; Edge (Root) is the alternative, reading it as a limit on the phase diagram rather than the room.
+**Glyph** · Boundary (Root) for the six-meter edge laid across Form (Extension) for the lattice habit; Edge (Root) is the alternative, reading it as a limit on the phase diagram rather than the room.
 
-**Boundary** · The temperature and supersaturation of the vapour in 905 m³; pin those two and the branching habit selects itself.
+**Boundary** · The temperature and supersaturation of the vapor in 905 m³; pin those two and the branching habit selects itself.
 
-**Effect** · Six metres of branching frost that is not weather: slow movement is slowed, fast movement shatters, and Essence drawn through the lattice meets resistance. It punishes committing and rewards creeping.
+**Effect** · Six meters of branching frost that is not weather: slow movement is slowed, fast movement shatters, and Essence drawn through the lattice meets resistance. It punishes committing and rewards creeping.
 
-**Weak point** · Heat collapses it from inside, tips first: an overheated Maw fails at its edge while the coarse centre holds longest.
+**Weak point** · Heat collapses it from inside, tips first: an overheated Maw fails at its edge while the coarse center holds longest.
 
 **Anchor** · Below Refraction the Bodily vector supplies the anchor, the frame itself; the sentence ends when attention lapses.
 
-**Failure** · Boundary fault: the field does not know its maker, and the cold lands on the practitioner's knuckles and knees. Structural fault: a Dominion below A holding six metres pays the difference in frostbite, through raw Ardency and Vitality.
+**Failure** · Boundary fault: the field does not know its maker, and the cold lands on the practitioner's knuckles and knees. Structural fault: a Dominion below A holding six meters pays the difference in frostbite, through raw Ardency and Vitality.
 
 **Bleed** · 45 percent leaves as heat at the Shell, inside the volume being held cold, adding load to the sink; that is why the cost runs by the turn.
 
@@ -131,10 +131,10 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 ### Counterplay
 
-**Tell** · A declaration, then six metres of branching frost growing from where the practitioner stands; they cannot leave without ending it. Afterwards, a ring of shattered crystals to pick up by the handful.
+**Tell** · A declaration, then six meters of branching frost growing from where the practitioner stands; they cannot leave without ending it. Afterwards, a ring of shattered crystals to pick up by the handful.
 
-**Limits** · Six metres, three turns, no targeting, its maker included; it needs moisture and loose Essence, and dry air thins it.
+**Limits** · Six meters, three turns, no targeting, its maker included; it needs moisture and loose Essence, and dry air thins it.
 
-**Fails against** · Distance beyond six metres, and shot from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
+**Fails against** · Distance beyond six meters, and shot from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
 
 **Look up** · The Counterplay register for anchors; the Caloria entries for Cinerion and Vohrin, and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.

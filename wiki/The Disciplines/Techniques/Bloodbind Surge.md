@@ -86,7 +86,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Trait** · The surge is driven through the Bloodbind, a Trait written into the Essence Core and the Shell's conductivity map; it cannot be dropped to make room, and every cost follows from that.
 
-**Terrain** · Vectoria is favoured by structural mass, elevation and brittle or pre-stressed material; loose sediment, free fall and uniform soft ground give the arch no abutment. Caloria fails in thermal equilibrium, saturated cold and oxygen-poor air.
+**Terrain** · Vectoria is favored by structural mass, elevation and brittle or pre-stressed material; loose sediment, free fall and uniform soft ground give the arch no abutment. Caloria fails in thermal equilibrium, saturated cold and oxygen-poor air.
 
 **Inherited failures** · Petralon's tensile exposure: loaded the one way it does not answer, the structure parts rather than bends; Vohrin carries Caloria's failures into the cold half of the surge.
 
@@ -131,7 +131,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Tell** · The practitioner tears the Bloodbind open by hand, a visible act on their own body, and frost forms on their scars; afterwards the frost stays and they breathe like a runner.
 
-**Limits** · Ten seconds, self only, no reach, no projection, no throttle; nothing in it changes the practitioner's Stage, armour or reach, and triple strength does not outrun a volley.
+**Limits** · Ten seconds, self only, no reach, no projection, no throttle; nothing in it changes the practitioner's Stage, armor or reach, and triple strength does not outrun a volley.
 
 **Fails against** · Loose or soft ground; a fire Caloria discharge burning out the cold half (a partial; the strength lasts a moment longer); a Fixatio cage on the limb; a blow to the blood anchor; ten seconds with no ground to take; Harmonics suppression dulling the sharpening.
 

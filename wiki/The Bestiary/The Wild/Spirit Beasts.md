@@ -21,7 +21,7 @@ They travel in loose herds of four to six under an elder mare called a **Moonkee
 
 | Abilities | Weaknesses |
 |---|---|
-| **Harmonic Healing** · purifies Essence corruption, mends wounds, calms emotional unrest **Moonveil Step** · short-range teleportation through dreamlight, leaving an aurora shimmer **Wellspring Guard** · speed and magic resistance greatly amplified within a Wellspring's range **Horn of Binding** · channels a Conjunction of `Ma` Memory + `Ur` Balance to seal a corrupted being temporarily | Cannot survive heavily corrupted or void-aspected zones; **prolonged exposure sickens them** Trust is hard to earn — hostility meets immediate evasion or overwhelming defence **Horn shattering removes most of their magical ability**, and is considered sacrilege in many cultures |
+| **Harmonic Healing** · purifies Essence corruption, mends wounds, calms emotional unrest **Moonveil Step** · short-range teleportation through dreamlight, leaving an aurora shimmer **Wellspring Guard** · speed and magic resistance greatly amplified within a Wellspring's range **Horn of Binding** · channels a Conjunction of `Ma` Memory + `Ur` Balance to seal a corrupted being temporarily | Cannot survive heavily corrupted or void-aspected zones; **prolonged exposure sickens them** Trust is hard to earn — hostility meets immediate evasion or overwhelming defense **Horn shattering removes most of their magical ability**, and is considered sacrilege in many cultures |
 
 > During the Withering Age several herds guarded Wellsprings that kept whole forest realms from falling. **The Siege of Moonveil Grove** records a single Moonkeeper **halting a Crevice-born horror for three days** until Concord forces arrived.
 >
@@ -34,9 +34,9 @@ They travel in loose herds of four to six under an elder mare called a **Moonkee
 > *Gryphael*, Sky-Claw, in High Parunic. *Talaruk*, Lion of the Wind, in Old Iampu.
 **Spirit Beast · T5, Extreme Threat · Air-elemental Wellsprings, secondary Harmonic resonance when bonded · native to Draconis and Caelum**
 
-Shaped in the early Harmonial Age where Harmonic and Air-aspected currents intertwined. **Many hold that Omnis himself moulded the first griffons as aerial guardians of the floating citadels.**
+Shaped in the early Harmonial Age where Harmonic and Air-aspected currents intertwined. **Many hold that Omnis himself molded the first griffons as aerial guardians of the floating citadels.**
 
-Forequarters of a great eagle fused seamlessly into the hindquarters of a lion. **Plumage reflects Wellspring alignment** — white and silver for skybound flocks, bronze and gold for sun-favoured lineages, storm-grey for tempest dwellers. *Talons strong enough to pierce tempered steel.*
+Forequarters of a great eagle fused seamlessly into the hindquarters of a lion. **Plumage reflects Wellspring alignment** — white and silver for skybound flocks, bronze and gold for sun-favored lineages, storm-gray for tempest dwellers. *Talons strong enough to pierce tempered steel.*
 
 Predatory but not needlessly aggressive, and **fiercely territorial over nesting cliffs and Wellspring-fed aeries.** They mate for life; bonded pairs defend a chosen roost until death. **They ally with mortal riders who pass their trials of worthiness.**
 
@@ -74,13 +74,13 @@ During the **Storm of Wailing Peaks** a Raiju pack destroyed an Imperial scoutin
 
 Spirit-born from the raw winds, shaped by the violent intersection of Air-elemental and Harmonic currents. **Long held as harbingers of storm and misfortune.**
 
-Raptor and humanoid fused: feathered wings and arms, hooked beaks, **eyes glowing faintly with Wellspring energy.** Plumage from storm-grey to sunlit bronze, mottled with streaks of elemental energy crackling along the feathers.
+Raptor and humanoid fused: feathered wings and arms, hooked beaks, **eyes glowing faintly with Wellspring energy.** Plumage from storm-gray to sunlit bronze, mottled with streaks of elemental energy crackling along the feathers.
 > Aggressive and territorial. They hunt in small flocks, **using piercing cries and aerial agility to disorient prey before tearing it apart.**
 >
-> And they are cunning enough for rudimentary communication — **which they use to mimic voices and lure travellers into traps.** *Concord scouts have reported harpies imitating patrol members to lead them into crevices.*
+> And they are cunning enough for rudimentary communication — **which they use to mimic voices and lure travelers into traps.** *Concord scouts have reported harpies imitating patrol members to lead them into crevices.*
 **Sonic Screech** shatters fragile material and disrupts Essence concentration. **Wind Blade** generates slicing gusts from talon strikes. **Aerial Acrobatics** and **Mimicry** complete the set.
 
-**Vulnerable to grounded combatants and heavy armour**, sensitive to loud disorienting noise that breaks their coordination, and **their wings are delicate and susceptible to targeted attack.**
+**Vulnerable to grounded combatants and heavy armor**, sensitive to loud disorienting noise that breaks their coordination, and **their wings are delicate and susceptible to targeted attack.**
 
 The **Screeching of the Wind Pass** records a flock's ambush that cost several trade caravans. *In Draconis and Caelum they are feared and revered as wild spirits of storm and vengeance; frontier tribes use harpy feathers as talismans, and others conduct rites to appease them during storm season.*
 
@@ -94,7 +94,7 @@ The **Screeching of the Wind Pass** records a flock's ambush that cost several t
 **Mortal-born primates whose Essence became deeply intertwined with Harmonic and Dream currents.** The fusion granted psychic capability, elevated intelligence, and subtle manipulation of nearby minds. They evolved where Wellspring energies pulse strongly through the canopy.
 
 Larger than typical apes, sleek dark fur with faint iridescent highlights. **Eyes glow soft violet or pale blue**, and subtle markings along their limbs **resemble glyphic tattoos.**
-> They live in complex social groups **with hierarchies determined by psychic dominance**, communicating through a blend of vocalisation and telepathic pulse, **and coordinating hunts and defence with uncanny efficiency.**
+> They live in complex social groups **with hierarchies determined by psychic dominance**, communicating through a blend of vocalisation and telepathic pulse, **and coordinating hunts and defense with uncanny efficiency.**
 **Telepathic Link** shares thought and emotion across the group. **Psychic Strike** disrupts mental focus. **Dream Veil** creates illusion and mental barrier. **Wellspring Empathy** senses Essence flux and emotional state.
 
 Vulnerable to Essence-dampening wards and counter-psychic magic. **Physically weaker than brute beasts.** And **psychic overload can collapse group cohesion outright.**
@@ -112,7 +112,7 @@ Spirits born from Harmonic Wellsprings intertwined with ancient forest Essence. 
 
 Slender humanoid figures with bark-like skin, leaf-green eyes, **hair resembling flowing vines.** Their limbs shift subtly between wood and flesh, and their movement echoes rustling leaves.
 
-Peaceful and nurturing **and fiercely protective.** They tend flora and fauna, heal, and hold the balance of their groves; threatened, they unleash nature magic and summon forest creatures. *They aid travellers they judge respectful.*
+Peaceful and nurturing **and fiercely protective.** They tend flora and fauna, heal, and hold the balance of their groves; threatened, they unleash nature magic and summon forest creatures. *They aid travelers they judge respectful.*
 
 **Verdant Growth** entangles and builds barriers. **Healing Touch** mends wounds and cures poison. **Nature's Call** summons woodland creatures and elemental vines. **Forest Camouflage** makes them nearly invisible among trees.
 
@@ -162,7 +162,7 @@ Vulnerable to sound-dampening wards and Essence disruptors, **markedly less effe
 > *Mokuri*, Trickster Spirit, in Old Parunic. **The Forest Jester** among frontier folk.
 **Spirit-Beast, Trickster Shapeshifter · T2, Minor Threat · Dream and Harmonic Wellsprings · dense forests, mystical groves, hidden Wellspring sites**
 
-Born from the blend of Dream-aspected and Harmonic currents, embodying **playful cunning and shape-shifting magic.** Rooted in ancient forest lore, they delight in mischief, illusion, and testing the wits of travellers and sorcerers alike. **Their true forms are rare to witness, as they prefer ever-changing guises.**
+Born from the blend of Dream-aspected and Harmonic currents, embodying **playful cunning and shape-shifting magic.** Rooted in ancient forest lore, they delight in mischief, illusion, and testing the wits of travelers and sorcerers alike. **Their true forms are rare to witness, as they prefer ever-changing guises.**
 
 Small, fox-like or raccoon-like, with large expressive eyes and bushy tails **often tipped in glowing essence light.** *Their forms shimmer and flicker, sometimes sporting additional tails or strange appendages that are not there.*
 
@@ -206,7 +206,7 @@ Noble, majestic, **fiercely protective.** It intervenes to purge corruption and 
 
 | Abilities | Weaknesses |
 |---|---|
-| **Rebirth Flame** · immolates itself to ashes and is reborn, restoring vitality **Radiant Burst** · waves of purifying fire that cleanse corruption and heal allies **Essence Beacon** · amplifies Wellspring energy, empowering nearby creatures and sites **Flame Talons** · scorching strikes capable of melting armour and flesh | ***Vulnerable during the rebirth cycle, when it exists only as ashes*** Susceptible to water and Essence-dampening magic **Bound to Wellspring sanctuaries, which limits its range** |
+| **Rebirth Flame** · immolates itself to ashes and is reborn, restoring vitality **Radiant Burst** · waves of purifying fire that cleanse corruption and heal allies **Essence Beacon** · amplifies Wellspring energy, empowering nearby creatures and sites **Flame Talons** · scorching strikes capable of melting armor and flesh | ***Vulnerable during the rebirth cycle, when it exists only as ashes*** Susceptible to water and Essence-dampening magic **Bound to Wellspring sanctuaries, which limits its range** |
 
 > **The Ashes of Renewal** chronicles the Phoenix's intervention during the Great Spirit War, **turning the tide by cleansing corrupted Wellsprings.**
 >

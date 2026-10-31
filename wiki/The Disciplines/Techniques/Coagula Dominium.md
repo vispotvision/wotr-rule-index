@@ -8,7 +8,7 @@ title: "Coagula Dominium"
 
 ### Summary card
 
-**Effect** · A fifteen-metre field in which ambient Essence stops flowing and starts sitting. Spellwork routed through the field arrives late and undersized; anyone moving through it fights the air itself for every step.
+**Effect** · A fifteen-meter field in which ambient Essence stops flowing and starts sitting. Spellwork routed through the field arrives late and undersized; anyone moving through it fights the air itself for every step.
 
 **Cost** · Pressure builds behind the practitioner's own ribs for as long as the field holds; the same coagulating law that slows the enemy's Essence is running through his.
 
@@ -55,7 +55,7 @@ Its author speaks one philosophy over the technique, "Motion is privilege. I rev
 
 ### Physics
 
-**Phenomenon** · The jamming transition of a dense suspension: past a critical packing, particles lock and a fluid acts like a solid, as cornstarch lets you run across it but swallows you standing still. Fifteen metres of loose Essence goes thick.
+**Phenomenon** · The jamming transition of a dense suspension: past a critical packing, particles lock and a fluid acts like a solid, as cornstarch lets you run across it but swallows you standing still. Fifteen meters of loose Essence goes thick.
 
 **Law** · Krieger–Dougherty: relative viscosity η*r = (1 − φ/φ*m)^(−[η]·φ_m) diverges as packing φ nears its maximum, about 0.58 to 0.64; drag on a limb is F = 6πμrv.
 
@@ -79,7 +79,7 @@ Its author speaks one philosophy over the technique, "Motion is privilege. I rev
 
 **Wellspring** · Judicium, the Wellspring of Truth (Fulguria): reads each current's signature and supplies the criterion for what counts as load-bearing flux.
 
-**Terrain** · Materia is favoured by mineral-rich rock, worked stone and deep foundation, and suppressed by open water, high altitude and moving platforms; Fulguria wants dry air, conductive ground and clear sight.
+**Terrain** · Materia is favored by mineral-rich rock, worked stone and deep foundation, and suppressed by open water, high altitude and moving platforms; Fulguria wants dry air, conductive ground and clear sight.
 
 **Inherited failures** · Coagula's residual porosity: in a field it is percolation, connected paths through the jam that a clean single burst can find; Judicium's documented failures ride along too.
 
@@ -93,9 +93,9 @@ Its author speaks one philosophy over the technique, "Motion is privilege. I rev
 
 ### Mechanism
 
-**Glyph** · Knot (Maelor), a counter that entangles paths so workings arrive late and undersized, laid across Boundary (Zhaeren) for the fifteen-metre edge; Category Vectra.
+**Glyph** · Knot (Maelor), a counter that entangles paths so workings arrive late and undersized, laid across Boundary (Zhaeren) for the fifteen-meter edge; Category Vectra.
 
-**Boundary** · Coagula moves the packing fraction of ambient Essence inside fifteen metres; Judicium moves the criterion for load-bearing flux.
+**Boundary** · Coagula moves the packing fraction of ambient Essence inside fifteen meters; Judicium moves the criterion for load-bearing flux.
 
 **Effect** · A caster inside sees their working land late and one full Tier Grade down, an A result in an S hand, with no fault to diagnose. Walkers feel the air go to syrup and pay more Essence per stride; a runner on their own legs is not slowed.
 
@@ -124,9 +124,9 @@ Its author speaks one philosophy over the technique, "Motion is privilege. I rev
 
 ### Counterplay
 
-**Tell** · A declaration and a standing draw, then the air inside fifteen metres goes visibly and audibly thick for everyone, allies too; afterwards a density anomaly a sensitive can walk the edge of.
+**Tell** · A declaration and a standing draw, then the air inside fifteen meters goes visibly and audibly thick for everyone, allies too; afterwards a density anomaly a sensitive can walk the edge of.
 
-**Limits** · Fifteen metres, attention-bound, loose ambient Essence only, three learnable exemptions; high-Tier Wellsprings overpower the coagulation outright.
+**Limits** · Fifteen meters, attention-bound, loose ambient Essence only, three learnable exemptions; high-Tier Wellsprings overpower the coagulation outright.
 
 **Fails against** · Anything routed through Vectoria or Spatium; open water; thrown spears, fired shot, movement on one's own legs; a working cast in one clean burst, or a Seal forced early that finds percolation paths; the practitioner's attention split outside the radius; a hold carried into Saturation.
 

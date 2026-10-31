@@ -71,7 +71,7 @@ title: "Precept"
 | Quantity | Working | Result |
 |---|---|---|
 | Standing upkeep of a constraint | virtual work of constraint forces | zero |
-| Gap width, quarter-wave stack of n = 1.5 and 2.3 | (4/π) · arcsin 0.211 | 27% of the centre frequency |
+| Gap width, quarter-wave stack of n = 1.5 and 2.3 | (4/π) · arcsin 0.211 | 27% of the center frequency |
 | States opened by a correction | one per defect | countable |
 
 ### Metaphysics
@@ -104,7 +104,7 @@ title: "Precept"
 
 **Cannot** · Compel outside its clause, catch a working that reads its shape before sealing, be argued away by force, or grant rule (that is Coronation).
 
-**Failure** · The clause edge misplaced: a century of correct rulings nobody wanted. Institutional drift: a house runs a stated law its lived behaviour left long ago, readable in the archive.
+**Failure** · The clause edge misplaced: a century of correct rulings nobody wanted. Institutional drift: a house runs a stated law its lived behavior left long ago, readable in the archive.
 
 **Bleed** · 30 to 40 percent of the sealing spend at Glory, 20 to 30 at Master, leaves the Shell as heat and structural bleed into substrate and room, once; the standing bleed is zero.
 

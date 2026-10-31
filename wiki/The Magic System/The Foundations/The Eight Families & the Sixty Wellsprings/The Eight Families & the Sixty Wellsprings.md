@@ -27,7 +27,7 @@ The physics-first sorting corrects that at the cost of intuition. Wellsprings th
 ## What a Wellspring Physically Is
 
 A Wellspring is a **standing current in the Aether that carries a fixed law**. It is not stored anywhere and it does not belong to anyone. It runs whether observed or not, in the way that a pressure gradient runs whether or not something is standing in it.
-> **Harmonization is phase-locking.** The Aether Shell (the Crystal's outer layer, which turns inner power into outward force) adopts the current's characteristic behaviour so that Essence (a soul's own share of Aether) passing outward through the Shell is shaped by that law before it reaches the world. Nothing is added to the practitioner. The conduit is retuned, and everything that passes through it afterward carries the retuning.
+> **Harmonization is phase-locking.** The Aether Shell (the Crystal's outer layer, which turns inner power into outward force) adopts the current's characteristic behavior so that Essence (a soul's own share of Aether) passing outward through the Shell is shaped by that law before it reaches the world. Nothing is added to the practitioner. The conduit is retuned, and everything that passes through it afterward carries the retuning.
 This is why harmonization changes what a number means without changing the number. A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude. It becomes a Fortitude that behaves like a load-bearing mass rather than like tissue, with the failure curve of stone rather than the failure curve of flesh. **Same magnitude. Different constitutive law.**
 
 Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harmonize with twelve or more. Those who embody all sixty are called **Principals of Temperance**, and there are not many of them, and you will not meet one.
@@ -40,7 +40,7 @@ Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harm
 
 **A Trait biases the conduit permanently.** It is a law the soul itself carries, held in the Essence Core (the Crystal's inner layer, holding identity, memory and Traits), and it writes into the Shell's conductivity map rather than borrowing a current's. It cannot be dropped to make room. This is why two practitioners harmonized to the same Wellspring produce recognisably different output: the current supplies one law and the Core supplies another, and the working is what comes out of both.
 
-**A glyph is a boundary condition.** It creates nothing. The Wellspring's law was already running; the glyph moves a boundary and the law does what it has always done on the far side of the new boundary. Every entry below should be read with that in mind. Nobody in this register makes fire. They establish conditions under which the ordinary behaviour of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones nobody thought about.
+**A glyph is a boundary condition.** It creates nothing. The Wellspring's law was already running; the glyph moves a boundary and the law does what it has always done on the far side of the new boundary. Every entry below should be read with that in mind. Nobody in this register makes fire. They establish conditions under which the ordinary behavior of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones nobody thought about.
 > **Sites do not check for a Crystal.** A current pooling in a valley acts on everything standing in the valley, and a Class Ø (never-woken) soul's Shell is sealed and cannot phase-lock, but it has an Essence Core like anyone else. Sustained residence at Active Concentration or above therefore does to a shepherd what it does to an adept, minus the harmonization and minus the vocabulary.
 > 
 > What it leaves behind is a **Trait**, formed by Wellspring Convergence, in a body that will never be screened and a life that has no framework for it. Every quarter has villages downwind of a concentration where one family has been strange for six generations, and the strangeness is lawful, inheritable, and entirely undocumented.
@@ -118,9 +118,9 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 
 *The condition is what a surveyor writes down. The number is what the ground will actually give.*
 
-One EU is one megajoule, so a density in EU per cubic metre is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** That one identity is why the scale is a ceiling and not a mood. A boundary cannot be pushed into ground at a pressure the ground does not carry, and what is standing in the ground has a strength measured in the same unit.
+One EU is one megajoule, so a density in EU per cubic meter is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** That one identity is why the scale is a ceiling and not a mood. A boundary cannot be pushed into ground at a pressure the ground does not carry, and what is standing in the ground has a strength measured in the same unit.
 
-**What a site will actually give.** A current crosses a site the size of a hall in about a thousand seconds. That is the interval in which the ground replaces what has been taken from it. So a site yields at most **a thousandth of its density, per second**. The supply rate in AU/s (Aether Units per second, a rate of output) per cubic metre is the density in EU/m³ divided by a thousand, and the ceiling on a practitioner's output is that rate across the volume his field reaches.
+**What a site will actually give.** A current crosses a site the size of a hall in about a thousand seconds. That is the interval in which the ground replaces what has been taken from it. So a site yields at most **a thousandth of its density, per second**. The supply rate in AU/s (Aether Units per second, a rate of output) per cubic meter is the density in EU/m³ divided by a thousand, and the ceiling on a practitioner's output is that rate across the volume his field reaches.
 
 | Density | EU/m³ | As pressure | Supply, AU/s per m³ | Where that sits |
 |---|---|---|---|---|
@@ -132,10 +132,10 @@ One EU is one megajoule, so a density in EU per cubic metre is an energy density
 
 **In a Silence (ground where no lawful working can be authorised) the figure is zero.** That is the whole of why a Silence is not shielding. There is nothing to draw and nothing to push into, which is also why a soul held in one reports the sensation as loneliness rather than as weakness.
 
-**Ambient Saturation is the reference.** Its midpoint, one EU per cubic metre, is the ground every laddered reach is quoted against. Denser ground does not help a practitioner. It raises the floor his own field has to stand above, and addressing range, authority radius and anchor reach all fall as the **square root** of the local density. Concentrated ground cuts all three to an **eighteenth**. A Nexus cuts them to a **thousandth**. A Core cuts them to a **five-millionth**. That last figure is the arithmetic behind the sentence in the table above: inside a Core the law the Wellspring carries is the only law operating, and an S-Grade's kilometre of authority is a fifth of a millimetre wide.
+**Ambient Saturation is the reference.** Its midpoint, one EU per cubic meter, is the ground every laddered reach is quoted against. Denser ground does not help a practitioner. It raises the floor his own field has to stand above, and addressing range, authority radius and anchor reach all fall as the **square root** of the local density. Concentrated ground cuts all three to an **eighteenth**. A Nexus cuts them to a **thousandth**. A Core cuts them to a **five-millionth**. That last figure is the arithmetic behind the sentence in the table above: inside a Core the law the Wellspring carries is the only law operating, and an S-Grade's kilometre of authority is a fifth of a millimetre wide.
 
-**Why residence changes a body.** A person at rest dissipates about a hundred watts through about a fifteenth of a cubic metre, which is one and a half kilowatts per cubic metre. Active Concentration supplies ten to ten thousand kilowatts per cubic metre. The field is putting seven to seven thousand times the subject's own metabolic power density through them, continuously, and a body has no mechanism for declining a power density. That is why Baptism at that condition is involuntary, and why it reaches the shepherd as readily as the adept.
-> **Saturation, stated once.** Saturation begins at **ten thousand EU per cubic metre**, the stress at which a crystal lattice fails. It is reached by leaving that much in each cubic metre of a region, or by sustaining more than **a hundred AU/s through each square metre of the region's boundary**. The two are one statement. The second is the first carried out at the current's own speed. The threshold grows with the surface while output does not, so **a kilometre of open ground swallows what a hall would not.** A Zenith field a kilometre across puts about a fifth of one AU/s through each square metre of its edge, a five-hundredth of threshold. The same output inside a twenty-metre hall puts five hundred and fifty through each square metre, five times over, and everyone in the hall is a casualty of it. A drawn circle is the other half of the same arithmetic. A rite bleeding sixty EU a second into two metres of floor reaches Active Concentration within the hour and stays there, which is what the Circle step is for and what an improvised one costs.
+**Why residence changes a body.** A person at rest dissipates about a hundred watts through about a fifteenth of a cubic meter, which is one and a half kilowatts per cubic meter. Active Concentration supplies ten to ten thousand kilowatts per cubic meter. The field is putting seven to seven thousand times the subject's own metabolic power density through them, continuously, and a body has no mechanism for declining a power density. That is why Baptism at that condition is involuntary, and why it reaches the shepherd as readily as the adept.
+> **Saturation, stated once.** Saturation begins at **ten thousand EU per cubic meter**, the stress at which a crystal lattice fails. It is reached by leaving that much in each cubic meter of a region, or by sustaining more than **a hundred AU/s through each square meter of the region's boundary**. The two are one statement. The second is the first carried out at the current's own speed. The threshold grows with the surface while output does not, so **a kilometre of open ground swallows what a hall would not.** A Zenith field a kilometre across puts about a fifth of one AU/s through each square meter of its edge, a five-hundredth of threshold. The same output inside a twenty-meter hall puts five hundred and fifty through each square meter, five times over, and everyone in the hall is a casualty of it. A drawn circle is the other half of the same arithmetic. A rite bleeding sixty EU a second into two meters of floor reaches Active Concentration within the hour and stays there, which is what the Circle step is for and what an improvised one costs.
 
 ---
 
@@ -148,10 +148,10 @@ One EU is one megajoule, so a density in EU per cubic metre is an energy density
 
 ### How to Read an Entry
 
-| **Analogue** | The specific real phenomenon the Wellspring's behaviour matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
+| **Analogue** | The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
 |---|---|
 | **Mechanism** | What the Wellspring does to Essence, stated in the analogue's own terms. If the physics says a process is entropically driven, the Wellspring's cost structure says so too. |
-| **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, unchanged from the system source. Behaviour, never bonus. |
+| **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, unchanged from the system source. Behavior, never bonus. |
 | **Failure** | The characteristic malfunction, derived from the physics. Every analogue has a way of going wrong that is specific to it, and a Wellspring inherits its analogue's pathology. |
 
 ---
@@ -179,7 +179,7 @@ One EU is one megajoule, so a density in EU per cubic metre is an energy density
 
 Because each Family answers to a real physical domain, each Family answers to real physical conditions. Aetheric Density sets the ceiling on output rate everywhere, but a Family's Physics Domain sets a **second, narrower gate** on top of it, and veterans choose ground accordingly.
 
-| Family | Encounter type | Favoured conditions | Suppressive conditions |
+| Family | Encounter type | Favored conditions | Suppressive conditions |
 |---|---|---|---|
 | **Caloria** | **Spirit** (Fire/Heat/Cold) · **Medium** (Light) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
 | **Fulguria** | **Spirit** | Dry air, conductive substrate, clear line of sight | Faraday-caged interiors, heavy ferrous shielding, dense fog |
@@ -190,7 +190,7 @@ Because each Family answers to a real physical domain, each Family answers to re
 | **Fluxia** | **Medium** primary · **Spirit** at high concentration | Standing or moving water, humidity, pressure differential | Arid terrain, vacuum, thermally locked air |
 | **Limina** | **Spirit** primary · **Medium** at Veil-Thin density and above | Darkness, silence, Aether-thin ground, ruins | Saturated Aether, crowd density, active Domains |
 
-> None of this is a prohibition. A Caloria practitioner in saturated cold still works. They simply pay a larger fraction of their reserve to overcome the gradient they are fighting rather than riding, and their efficiency figure falls accordingly. **Terrain is not flavour. It is a modifier on η (efficiency: the share of spent power that arrives as effect).**
+> None of this is a prohibition. A Caloria practitioner in saturated cold still works. They simply pay a larger fraction of their reserve to overcome the gradient they are fighting rather than riding, and their efficiency figure falls accordingly. **Terrain is not flavor. It is a modifier on η (efficiency: the share of spent power that arrives as effect).**
 
 ---
 
@@ -211,7 +211,7 @@ Because each Family answers to a real physical domain, each Family answers to re
 
 **The Vectoria count** · The system source lists eight Vectoria Wellsprings including Sublimare. The consolidated Magic System register lists seven and omits Sublimare entirely. With Sublimare restored and Phreatis counted once, the register reconciles exactly to sixty unique currents across sixty-one listings. The Measurewrights record the consolidated table as the party in error and this register follows the system source.
 
-**The Phreatis cross-listing** · Phreatis answers to Vitalia and Fluxia both, and the physical reading supports the double assignment rather than resolving it. Synaptic potentiation and aquifer residence are two physics describing one behaviour. The entry is written once in Vitalia and referred from Fluxia.
+**The Phreatis cross-listing** · Phreatis answers to Vitalia and Fluxia both, and the physical reading supports the double assignment rather than resolving it. Synaptic potentiation and aquifer residence are two physics describing one behavior. The entry is written once in Vitalia and referred from Fluxia.
 
 **Sublimatio and Sublimare** · The two have been treated as near-duplicates in prior registers on the strength of their names. The physical reading separates them cleanly: sublimation skips a phase, fractional distillation separates a mixture. They are different operations with different residues and different failure modes, and the duplication was linguistic rather than mechanical.
 

@@ -24,7 +24,7 @@ He did not wait to be invited further. He did not think the Sovereign was a man 
 
 "I have news," he said. "From the north. From four directions now, and they agree."
 
-He drew Ulf Stark's letter out of the breast of his coat and held it, folded, in his hand. He did not offer it. He only held it, so they could see the grey wax and the wolf.
+He drew Ulf Stark's letter out of the breast of his coat and held it, folded, in his hand. He did not offer it. He only held it, so they could see the gray wax and the wolf.
 
 "A young man by the name of Muken," Naiser said, "whom the northern traders have taken to calling the Tokenless, led the Stark and Greymane vanguard against Kharven's Foot eleven days ago. He brought the curtain wall down at a place no one else could see a weakness in. He took the fortress in a morning." He paused. "And he met Shigure Tenrai Moto, the captain of the Foot, at the bottom of her own keep stair, and defeated her. She fled south with her arm hanging and her hands cut open, and the Foot is in northern keeping now. The Kessen road is open."
 
@@ -137,4 +137,4 @@ He stood with his hands at his sides and his nape bare to the wind, and waited f
 - **One line read for meaning.** "Capable of capturing and defeating Shigure" I read as capturing the Foot and defeating Shigure, since she escaped south in Chapter Six.
 - **Tense.** Past, to match the thread.
 
-**Revision 2026-10-24.** Gave the waking house and the guest courtyard colour (blue kitchen smoke, the eaves' worked lamps dimming into day, burning frost-beads, blue frost in the cedar shadow, bright limestone, a crow going north), and cut two repeated "quiet for a moment" pauses and a long-time tic in Naiser's speech. Every beat and every line of Isaac's is kept in order, and every passage describing Shaka-Al, Dougou and their panthers is untouched.
+**Revision 2026-10-24.** Gave the waking house and the guest courtyard color (blue kitchen smoke, the eaves' worked lamps dimming into day, burning frost-beads, blue frost in the cedar shadow, bright limestone, a crow going north), and cut two repeated "quiet for a moment" pauses and a long-time tic in Naiser's speech. Every beat and every line of Isaac's is kept in order, and every passage describing Shaka-Al, Dougou and their panthers is untouched.

@@ -6,7 +6,7 @@ title: "The Real Alchemy"
 
 *What the laboratory did, from the fourteenth century to the end of the nineteenth, with the figures the sources give. An out-of-world reference page.*
 
-Alchemy on the page rests on three sources, read in order. The Alchemical Index says what exists. Alchemetrica says what the discipline believes. This page says what the real trade did at the bench. The operations were genuine laboratory procedure. The furnaces were tended for weeks, sometimes months. The vessels were luted with dung and clay, and the cover-names were written to hide. Anything invented about process, apparatus or reagent behaviour is checked here before it reaches the page. Every entry gives the real practice with its figures and its sources, then the way it failed, then one or two lines on where WOTR already carries it. Where WOTR has no counterpart, the entry says so, and whatever is built there is WOTR's own.
+Alchemy on the page rests on three sources, read in order. The Alchemical Index says what exists. Alchemetrica says what the discipline believes. This page says what the real trade did at the bench. The operations were genuine laboratory procedure. The furnaces were tended for weeks, sometimes months. The vessels were luted with dung and clay, and the cover-names were written to hide. Anything invented about process, apparatus or reagent behavior is checked here before it reaches the page. Every entry gives the real practice with its figures and its sources, then the way it failed, then one or two lines on where WOTR already carries it. Where WOTR has no counterpart, the entry says so, and whatever is built there is WOTR's own.
 
 **Reading the entries.** Figures are as the sources give them. Metric conversions are standard arithmetic. A claim confirmed from one source only is marked *(single source)*. Sources are named by author and year and listed in full at the foot of the page.
 
@@ -51,7 +51,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 | Lemery, a tincture in horse dung in a double vessel | a fortnight | Lemery 1686 |
 | Fatio's account of an adept's medicine, 1690s | 7 months through 4 putrefactions | Newman 2019 |
 
-**The fault.** A sealed digestion gives no reading but its colour. The worker waits weeks for a black that may be rot or may be ruin, and the heat under it wanders.
+**The fault.** A sealed digestion gives no reading but its color. The worker waits weeks for a black that may be rot or may be ruin, and the heat under it wanders.
 
 **In WOTR.** Alchemetrica's Rot runs three to four and a half turns (six to nine weeks) in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion.
 
@@ -65,7 +65,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 ### Distillation
 
-**The practice.** Heat raised vapour from the charge. The cold of the head or the neck brought it back down as liquid, drop by drop, into a receiver. Lemery distilled balm in a copper still with a tinned head, its joint luted with wet bladder. The fire was of the second degree. He kept it between the second and third degree, because too low a fire would not raise the volatile part. Too high, and the water tasted burnt. The trade called that empyreuma. The drops were to come slowly, one after another (Lemery 1686).
+**The practice.** Heat raised vapor from the charge. The cold of the head or the neck brought it back down as liquid, drop by drop, into a receiver. Lemery distilled balm in a copper still with a tinned head, its joint luted with wet bladder. The fire was of the second degree. He kept it between the second and third degree, because too low a fire would not raise the volatile part. Too high, and the water tasted burned. The trade called that empyreuma. The drops were to come slowly, one after another (Lemery 1686).
 
 **The fault.** Distillation separates by heat alone, and heat is a blunt blade. Everything volatile at that heat comes over together, and a hot fire scorches the charge.
 
@@ -77,7 +77,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 - *Aqua fortis* (nitric acid), literally "strong water." Lemery charged a luted retort with saltpetre, white-calcined vitriol and dried clay, thirty-two ounces of each, and left a third of the retort empty. He warmed it by degrees. When red clouds passed into the receiver he held that degree fifteen or sixteen hours, then pushed the fire to its extremity until the clouds turned white (Lemery 1686). Assayers used it to part silver from gold (Wikipedia, "Nitric acid").
 - *Aqua regia* ("royal water"). It was first made by dissolving sal ammoniac in aqua fortis, a method in pseudo-Geber's *De inventione veritatis* of about 1300. It dissolves gold (Wikipedia, "Aqua regia") *(single source)*.
 - *Sal ammoniac* (ammonium chloride). It is a white crystal raised by sublimation, used as a flux and as the salt that turns aqua fortis into aqua regia (Wikipedia, "Aqua regia"; Newman 2019).
-- *Oil of vitriol* (sulphuric acid). Eighteen or twenty hours was not enough. The oil came over only after three days of continuous distilling. Lemery ran one retort of German vitriol three days and three nights. In his remarks on aqua fortis he adds that a fire kept five days and nights would still leave the receiver full of fume (Lemery 1686).
+- *Oil of vitriol* (sulfuric acid). Eighteen or twenty hours was not enough. The oil came over only after three days of continuous distilling. Lemery ran one retort of German vitriol three days and three nights. In his remarks on aqua fortis he adds that a fire kept five days and nights would still leave the receiver full of fume (Lemery 1686).
 - *Spirit of salt* (hydrochloric acid). Glauber made it from common salt and oil of vitriol. Its by-product, Glauber's salt, is dated to his discovery about 1625 in one account and to his published process in *De natura salium* of 1658 in another, and the date is disputed (Wikipedia, "Johann Rudolf Glauber"; Ahonen, DSB).
 **The fault.** Every one of these is made hot and delivered as fume. The luting has to hold for a day or three, and the receiver fills with the thing that kills.
 
@@ -93,7 +93,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 ### Circulation
 
-**The practice.** In a pelican or a sealed double vessel, heat drove vapour up and the cold of the arms brought it back into the charge, without the liquor ever being drawn off. The aim was to refine a spirit or to open a hard body (Lemery 1686; Brunschwig 1500). Rupescissa's quintessence was wine distilled repeatedly and then circulated in a closed glass for "a long period," and period recipes rarely give a time (Stewart 2013). In the adept's menstruum Fatio described, five pounds of matter gave four and a half in the receiver, which stood several days in a cold place before its vapours settled (Newman 2019).
+**The practice.** In a pelican or a sealed double vessel, heat drove vapor up and the cold of the arms brought it back into the charge, without the liquor ever being drawn off. The aim was to refine a spirit or to open a hard body (Lemery 1686; Brunschwig 1500). Rupescissa's quintessence was wine distilled repeatedly and then circulated in a closed glass for "a long period," and period recipes rarely give a time (Stewart 2013). In the adept's menstruum Fatio described, five pounds of matter gave four and a half in the receiver, which stood several days in a cold place before its vapors settled (Newman 2019).
 
 **The fault.** A closed circulation cannot be tasted, measured or corrected. A crack in the arm ends it, and so does a fire that falters.
 
@@ -101,7 +101,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 ### Sublimation
 
-**The practice.** A volatile solid was driven up by heat and caught as a solid on the cold upper walls or in the head. For corrosive sublimate, Lemery's matrass poured red nitrous vapour from its mouth for at least three hours, and the earthy residue at the bottom weighed twenty-eight ounces (Lemery 1686). The Treatise Newton copied sublimed on a mild fire for three days. It left a caput mortuum at the bottom, a cinnabar in the middle and a white sublimate at the top. The product was mixed and sublimed again two or three more times. Newton graded his own sublimations from a candle, to a sand bath, to the naked fire on a fire shovel, to be sure all that could rise had risen (Newman 2019).
+**The practice.** A volatile solid was driven up by heat and caught as a solid on the cold upper walls or in the head. For corrosive sublimate, Lemery's matrass poured red nitrous vapor from its mouth for at least three hours, and the earthy residue at the bottom weighed twenty-eight ounces (Lemery 1686). The Treatise Newton copied sublimed on a mild fire for three days. It left a caput mortuum at the bottom, a cinnabar in the middle and a white sublimate at the top. The product was mixed and sublimed again two or three more times. Newton graded his own sublimations from a candle, to a sand bath, to the naked fire on a fire shovel, to be sure all that could rise had risen (Newman 2019).
 
 **The fault.** Sublimation leaves a residue and layers its product. A single pass is rarely clean, so the real trade sublimed again and again.
 
@@ -154,13 +154,13 @@ Sand, iron filings and ash made graded beds, each with degrees of its own, and a
 
 **The fault.** A degree measured in coals depends on the coal, the draught and the furnace. Two workshops following one recipe ran two different fires.
 
-**In WOTR.** Alchemetrica's Heat says every alchemist judges temperature by flame colour, the sound of the charge, and a hand held where a hand should not go. That is Lemery's method. The conclusion that a written formula never reproduces the product follows from the period practice too.
+**In WOTR.** Alchemetrica's Heat says every alchemist judges temperature by flame color, the sound of the charge, and a hand held where a hand should not go. That is Lemery's method. The conclusion that a written formula never reproduces the product follows from the period practice too.
 
-### Reading heat by colour
+### Reading heat by color
 
-**The practice.** Solids begin to glow a dull red at about 450 to 475 °C in a darkened room (Darling 1911). The colour tables disagree with each other:
+**The practice.** Solids begin to glow a dull red at about 450 to 475 °C in a darkened room (Darling 1911). The color tables disagree with each other:
 
-| Colour | Howe (1900) | Stirling Consolidated Boiler Co. (1905) |
+| Color | Howe (1900) | Stirling Consolidated Boiler Co. (1905) |
 |---|---|---|
 | Red just visible | (not given) | 525 °C |
 | Dull red | 550-625 °C | 699 °C |
@@ -174,13 +174,13 @@ Howe's figures are Darling's (Darling 1911); the Stirling figures are as reporte
 
 Darling reckoned any two observers might differ by about 50 °C below yellow, and a trained quenching hand held to about 20 °C at his usual heat (Darling 1911).
 
-**The fault.** The colours read true only in dim light, and the reading belongs to the man more than to the scale. The same colour name sits 75 to 300 °C apart between the two published tables.
+**The fault.** The colors read true only in dim light, and the reading belongs to the man more than to the scale. The same color name sits 75 to 300 °C apart between the two published tables.
 
-**In WOTR.** Alchemetrica's open flame runs dull red through cherry through orange through white, in the order the tables give, and a master names a temperature off the colour to within a hundred degrees. That band is wider than one trained eye's error in Darling's reckoning, and narrower than the gap between the two tables, which often runs past a hundred degrees. The Alchemical Index's Slag-Iron Caustic, skimmed as the slag stops glowing red and starts glowing black, sits on the real glow threshold. Alchemetrica's dark workshop matches the real rule that glow colours read true only in dim light.
+**In WOTR.** Alchemetrica's open flame runs dull red through cherry through orange through white, in the order the tables give, and a master names a temperature off the color to within a hundred degrees. That band is wider than one trained eye's error in Darling's reckoning, and narrower than the gap between the two tables, which often runs past a hundred degrees. The Alchemical Index's Slag-Iron Caustic, skimmed as the slag stops glowing red and starts glowing black, sits on the real glow threshold. Alchemetrica's dark workshop matches the real rule that glow colors read true only in dim light.
 
 ### Instruments
 
-**The practice.** Fahrenheit made the first reliable mercury thermometers in 1713 and 1714 and published his scale in 1724 (Wikipedia, "Daniel Gabriel Fahrenheit"). Mercury boils at 356.7 °C, which caps the instrument. By the 1730s Boerhaave measured digestion heats on Fahrenheit's scale and held a fire at 180 °F for months (Boerhaave 1730s). Above red heat there was nothing until Wedgwood's clay-shrinkage pyrometer of 1782, whose scale was later shown to be badly wrong (Wikipedia, "Wedgwood scale"; Royal Society 2023). Daniell's expansion pyrometer of 1822 moved a pointer with a platinum rod. It gave the first continuous reading, though a poor one by later standards. Prinsep's gas pyrometer followed in 1828, Pouillet's colour table in 1836, and Siemens's resistance pyrometer, built for furnaces, in 1871, though it took years to make reliable. Seger's pyrometric cones came in 1886. Le Chatelier's platinum and rhodioplatinum thermocouple of 1886 and 1887 made reliable electrical reading practicable, and his optical pyrometer of 1892 read heats past the melting point of platinum (Darling 1911; Johnson Matthey).
+**The practice.** Fahrenheit made the first reliable mercury thermometers in 1713 and 1714 and published his scale in 1724 (Wikipedia, "Daniel Gabriel Fahrenheit"). Mercury boils at 356.7 °C, which caps the instrument. By the 1730s Boerhaave measured digestion heats on Fahrenheit's scale and held a fire at 180 °F for months (Boerhaave 1730s). Above red heat there was nothing until Wedgwood's clay-shrinkage pyrometer of 1782, whose scale was later shown to be badly wrong (Wikipedia, "Wedgwood scale"; Royal Society 2023). Daniell's expansion pyrometer of 1822 moved a pointer with a platinum rod. It gave the first continuous reading, though a poor one by later standards. Prinsep's gas pyrometer followed in 1828, Pouillet's color table in 1836, and Siemens's resistance pyrometer, built for furnaces, in 1871, though it took years to make reliable. Seger's pyrometric cones came in 1886. Le Chatelier's platinum and rhodioplatinum thermocouple of 1886 and 1887 made reliable electrical reading practicable, and his optical pyrometer of 1892 read heats past the melting point of platinum (Darling 1911; Johnson Matthey).
 
 **The fault.** Every early instrument covered the gentle end or read the fierce end wrongly. The furnace heats that mattered most were measured crudely from the 1820s and reliably only from 1886.
 
@@ -238,7 +238,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 ### The still
 
-**The practice.** The cucurbit, or body, held the charge. The alembic, or head, sat on it, caught the vapour, and ran the condensate down a beak into the receiver (Veronesi 2021; Newman 2019). Lemery used a copper body tinned inside, with a tinned copper head and a water-cooled worm, for plant waters and essences, and earthen or glass bodies for other work (Lemery 1686). A glass alembic from Oberstockstall survives at 41.8 cm tall (Veronesi 2021). Humphrey Newton listed Newton's apparatus as bodies, receivers, heads and crucibles, and said only the crucibles saw much use (Newman 2019).
+**The practice.** The cucurbit, or body, held the charge. The alembic, or head, sat on it, caught the vapor, and ran the condensate down a beak into the receiver (Veronesi 2021; Newman 2019). Lemery used a copper body tinned inside, with a tinned copper head and a water-cooled worm, for plant waters and essences, and earthen or glass bodies for other work (Lemery 1686). A glass alembic from Oberstockstall survives at 41.8 cm tall (Veronesi 2021). Humphrey Newton listed Newton's apparatus as bodies, receivers, heads and crucibles, and said only the crucibles saw much use (Newman 2019).
 
 **The fault.** The joint between body and head is the weak point of the whole train. Copper stills served only waters and essences; acids needed glass or earthenware.
 
@@ -246,7 +246,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 ### The retort and receiver
 
-**The practice.** The retort is body and neck in one piece, the vapour condensing in the neck and running into a receiver (Veronesi 2021). Lemery preferred earthen retorts for acid spirits because they stood the utmost fire and would not melt as glass did, and he held that good earthenware had pores as close as glass. Receivers for acid spirits had to be very large, so the spirits had room to circulate. Retorts were filled to about two thirds (Lemery 1686).
+**The practice.** The retort is body and neck in one piece, the vapor condensing in the neck and running into a receiver (Veronesi 2021). Lemery preferred earthen retorts for acid spirits because they stood the utmost fire and would not melt as glass did, and he held that good earthenware had pores as close as glass. Receivers for acid spirits had to be very large, so the spirits had room to circulate. Retorts were filled to about two thirds (Lemery 1686).
 
 **The fault.** The retort has no joint within itself, and its joint to the receiver still has to be luted. Lemery's lute set so hard that the joints had to be softened with wet cloths before the retort could be parted.
 
@@ -280,17 +280,17 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The practice.** An ovoid flask with a long neck, sealed shut for long digestions (Newman 1999; Princeton University Library). The Treatise Newton copied filled it a quarter full (Newman 2019). Newton's own notes record breaking his egg-glass when volatile salts rose in it (Spargo 2005). Its wall thickness goes unrecorded.
 
-**The fault.** The egg's only signal is its colour and its only failure is breaking. Sealed glass heated for weeks holds whatever pressure the charge makes.
+**The fault.** The egg's only signal is its color and its only failure is breaking. Sealed glass heated for weeks holds whatever pressure the charge makes.
 
-**In WOTR.** Alchemetrica's Standing Egg is the philosophical egg, with no failure signal short of the colour going wrong or the glass going. The historical egg gave the same two signals. Eggs under heat for years or centuries are WOTR's own; the real planned regimens ran seven to seventeen months.
+**In WOTR.** Alchemetrica's Standing Egg is the philosophical egg, with no failure signal short of the color going wrong or the glass going. The historical egg gave the same two signals. Eggs under heat for years or centuries are WOTR's own; the real planned regimens ran seven to seventeen months.
 
 ### Crucibles
 
 **The practice.** At Oberstockstall, a sixteenth-century laboratory dug in 1980 and again in 1993 and 1994, all the triangular crucibles were one refractory clay tempered with sand, grog or graphite. The graphite-tempered ones conducted heat better and resisted attack (Martinón-Torres, Rehren and von Osten). Hessian crucibles, made in Hesse from the late Middle Ages and traded across Europe, were kaolinitic clay with little flux and added quartz sand, fired above 1,300 °C. That firing formed mullite, which gave strength at high heat and resistance to sudden change of temperature, the earliest industrial use of mullite in Europe (Martinón-Torres, Rehren and Freestone 2006). Newton's records show metals melted in crucibles and breakages noted (Spargo 2005).
 
-**The fault.** A crucible is opaque. The melt inside is judged by the colour of the fire, the sound, and what comes out.
+**The fault.** A crucible is opaque. The melt inside is judged by the color of the fire, the sound, and what comes out.
 
-**In WOTR.** Alchemetrica's Crucible is refractory ceramic for fusion and calcination at the top of the heat range, opaque, a fusion judged by ear and by flame colour. It calls refractory ceramic porous. Real good crucibles and stoneware were dense; the cupel was the porous vessel, and porous by design.
+**In WOTR.** Alchemetrica's Crucible is refractory ceramic for fusion and calcination at the top of the heat range, opaque, a fusion judged by ear and by flame color. It calls refractory ceramic porous. Real good crucibles and stoneware were dense; the cupel was the porous vessel, and porous by design.
 
 ### Glass
 
@@ -349,18 +349,18 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 | Lemery, his own lute | 1686 | 2 parts sand to 1 part clay, tempered with water |
 | Lemery, joint glue | 1686 | ordinary glue on paper for alembics; wet bladder for spirit of wine; for acid spirits, flour and slaked lime 1 oz each with ½ oz potter's earth, wetted with beaten egg white, laid on in three layers wound with paper |
 | Fire lute | general | clay with sand and horsehair, straw or tow, dried before use |
-| Fat lute | general | clay beaten with boiled linseed oil to a putty, kept pliable in sealed pots, for acid vapour |
+| Fat lute | general | clay beaten with boiled linseed oil to a putty, kept pliable in sealed pots, for acid vapor |
 | Fusible lute | general | borax and slaked lime with water, to coat earthenware |
 
 Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early modern recipes; Lemery 1686; Wikipedia, "Lute (material)," for the general types.
 
 **The fault.** Lute shrinks and cracks as it dries, which is why dung, hair and cloth went into it and why it was dried before firing.
 
-**In WOTR.** Alchemetrica's three lutes are attested. Joint lute, egg white and flour bound with linen, is the medieval recipe of pseudo-Lull and Rupescissa. Fire lute of clay, sand and chopped fibre that cracks off in sheets if fired wet is the period fire lute. The fat lute matches too. A workshop guarding its fire-lute proportions is WOTR's own. The period proportions were printed.
+**In WOTR.** Alchemetrica's three lutes are attested. Joint lute, egg white and flour bound with linen, is the medieval recipe of pseudo-Lull and Rupescissa. Fire lute of clay, sand and chopped fiber that cracks off in sheets if fired wet is the period fire lute. The fat lute matches too. A workshop guarding its fire-lute proportions is WOTR's own. The period proportions were printed.
 
 ### What an excavated lute contains
 
-**The practice.** A thick clay coat from the outside of a distilling glass at Oberstockstall was examined under the microscope and by electron-beam analysis (Veronesi and Hanß 2023; Veronesi 2021). Oxides of silicon, antimony and calcium made up over eighty per cent of it. The antimony was powdered stibnite. No known recipe calls for it. There was abundant angular sand and a calcium-and-sulphur binder, probably gypsum. Long voids showed where hair, cloth or straw had burned out, and round voids may have been seeds or grain. Two long fissures parallel to the glass show it was put on in two coats. Egg white leaves nothing that can be analysed. Courts paid for the materials: the Württemberg laboratory spent 4 gulden 8 kreuzer on hair in 1618 and 1619.
+**The practice.** A thick clay coat from the outside of a distilling glass at Oberstockstall was examined under the microscope and by electron-beam analysis (Veronesi and Hanß 2023; Veronesi 2021). Oxides of silicon, antimony and calcium made up over eighty per cent of it. The antimony was powdered stibnite. No known recipe calls for it. There was abundant angular sand and a calcium-and-sulfur binder, probably gypsum. Long voids showed where hair, cloth or straw had burned out, and round voids may have been seeds or grain. Two long fissures parallel to the glass show it was put on in two coats. Egg white leaves nothing that can be analysed. Courts paid for the materials: the Württemberg laboratory spent 4 gulden 8 kreuzer on hair in 1618 and 1619.
 
 **The fault.** What a workshop wrote down and what it put on the glass were two different things.
 
@@ -370,7 +370,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 **The practice.** The record names five failures:
 - *Hard-setting.* Lemery's vessel lute dried so hard the joints had to be softened with wet cloths before the retort would part from the receiver (Lemery 1686).
-- *Vapour through the lute.* In the 1690s William Yworth wrapped his joints in bladder under the lute. The fume still came through, and on opening the receiver he nearly fainted. He took that stinking breakthrough, after three to five days of distilling, as the sign to stop (Newman 2019).
+- *Vapor through the lute.* In the 1690s William Yworth wrapped his joints in bladder under the lute. The fume still came through, and on opening the receiver he nearly fainted. He took that stinking breakthrough, after three to five days of distilling, as the sign to stop (Newman 2019).
 - *Bladder eaten through.* Corrosive spirits ate bladder, which is why Lemery changed to egg white and lime for acids (Lemery 1686).
 - *Breakage under repeated fire.* A modern reconstructor's luted cucurbit survived three or four hot distillations and broke while solid acid residue was being cleared out of it (Stewart 2013) *(single source)*.
 - *Shrinkage and cracking* on drying (Veronesi and Hanß 2023; Wikipedia, "Lute (material)").
@@ -392,7 +392,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 **The fault.** Wax and resin soften with heat, so a waxed stopper suits a finished product in storage and fails on a working vessel.
 
-**In WOTR.** The Farrant Papers' vessel carries a lute of grey wax over the stopper, cut and pressed back, with the consignor's mark in it. That matches period wax cements over finished stoppers. Alchemetrica's statement that there are no ground joints holds for the still train before standardised, interchangeable ground joints of about 1930; custom-ground joints and stoppers were older.
+**In WOTR.** The Farrant Papers' vessel carries a lute of gray wax over the stopper, cut and pressed back, with the consignor's mark in it. That matches period wax cements over finished stoppers. Alchemetrica's statement that there are no ground joints holds for the still train before standardised, interchangeable ground joints of about 1930; custom-ground joints and stoppers were older.
 
 ### Who luted
 
@@ -414,15 +414,15 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 ### The tria prima
 
-**The practice.** Sulphur, Mercury and Salt appear in full form in Paracelsus's *Opus Paramirum* of about 1530 and 1531 (Wikipedia, "Paracelsus"). They are principles, not the common substances. Sulphur is what makes a body burn. Mercury is what is fluid and volatile and rises as vapour or smoke. Salt stays fixed in the fire. Earlier alchemy had only Sulphur and Mercury; Paracelsus added Salt (Read 1957). He is said to have shown the three with a burning log: flame from the Sulphur, smoke from the Mercury, ash from the Salt *(single source for the attribution to Paracelsus himself)*. Paracelsian physicians sorted diseases the same way: sulphureous for fevers and inflammations, mercurial for excess moisture, saline for eruptions of the skin (Reading Early Medicine). The mapping onto body, soul and spirit was never fixed. One Paracelsian passage makes Mercury the spirit, Sulphur the soul and Salt the body (Read 1957), and later tables reverse the first two (Brown 1913). Boyle complained that chymists used the three words loosely and shifted their senses within a single book (Boyle 1675).
+**The practice.** Sulfur, Mercury and Salt appear in full form in Paracelsus's *Opus Paramirum* of about 1530 and 1531 (Wikipedia, "Paracelsus"). They are principles, not the common substances. Sulfur is what makes a body burn. Mercury is what is fluid and volatile and rises as vapor or smoke. Salt stays fixed in the fire. Earlier alchemy had only Sulfur and Mercury; Paracelsus added Salt (Read 1957). He is said to have shown the three with a burning log: flame from the Sulfur, smoke from the Mercury, ash from the Salt *(single source for the attribution to Paracelsus himself)*. Paracelsian physicians sorted diseases the same way: sulphureous for fevers and inflammations, mercurial for excess moisture, saline for eruptions of the skin (Reading Early Medicine). The mapping onto body, soul and spirit was never fixed. One Paracelsian passage makes Mercury the spirit, Sulfur the soul and Salt the body (Read 1957), and later tables reverse the first two (Brown 1913). Boyle complained that chymists used the three words loosely and shifted their senses within a single book (Boyle 1675).
 
 **The fault.** Boyle's objection in *The Sceptical Chymist* (1661): burning does not reveal what a body is made of. It makes new compounds. The ash, oil and spirit are products of the fire, and gold cannot be resolved into the three at all (Boyle 1661, as summarised in Thorpe 1909). Van Helmont added that the three cannot be drawn from a living body without destroying what made it alive.
 
-**In WOTR.** The Tria Prima of Furveus reads Sulphur onto the Core, Salt onto the Shell and Mercury onto the Attraction Layer (Alftian Codex, Volumes the First and Second). Because every real author mapped the triad his own way, the real record leaves room for it. Salt as the fixed body fits the Shell on real doctrine. Sulphur to the Core and Mercury to the Attraction Layer are WOTR's own choices.
+**In WOTR.** The Tria Prima of Furveus reads Sulfur onto the Core, Salt onto the Shell and Mercury onto the Attraction Layer (Alftian Codex, Volumes the First and Second). Because every real author mapped the triad his own way, the real record leaves room for it. Salt as the fixed body fits the Shell on real doctrine. Sulfur to the Core and Mercury to the Attraction Layer are WOTR's own choices.
 
 ### Five principles
 
-**The practice.** By Lemery's *Cours de chymie* (1675; English 1677 and 1686) the chymists counted five principles. Three were active: Spirit, the old Mercury; Oil, the old Sulphur; and Salt, while two were passive: Phlegm, which is water, and Earth, the *caput mortuum*. Lemery gave the recovery for each. Spirit rises first in the still. Oil rises after it and floats on the water, as rosemary and lavender do, or sinks, as box, guaiacum and cloves do. Salt stays in the residue and is drawn out with water, filtered and evaporated (Lemery 1686).
+**The practice.** By Lemery's *Cours de chymie* (1675; English 1677 and 1686) the chymists counted five principles. Three were active: Spirit, the old Mercury; Oil, the old Sulfur; and Salt, while two were passive: Phlegm, which is water, and Earth, the *caput mortuum*. Lemery gave the recovery for each. Spirit rises first in the still. Oil rises after it and floats on the water, as rosemary and lavender do, or sinks, as box, guaiacum and cloves do. Salt stays in the residue and is drawn out with water, filtered and evaporated (Lemery 1686).
 
 **The fault.** The five are still products of the fire. Lemery himself took a mechanical view of them and kept them only as a working analysis.
 
@@ -462,7 +462,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 ### The dose makes the poison
 
-**The practice.** The line comes from the Third Defence of Paracelsus's *Septem Defensiones*. He wrote it in Carinthia in 1538, and it was first printed in 1564. Its targets were physicians who accused him of prescribing poisons, meaning his mineral remedies (Deichmann et al. 1986; Grandjean 2016). The German says, in this page's plain rendering, that all things are poison and none is without it, and that the dose alone makes a thing no poison. The standard English opens with his question, "What is there that is not poison?" (Deichmann et al. 1986). The Latin slogan *sola dosis facit venenum* is later. It compresses his sentence and turns it about, since Paracelsus said the dose makes a thing *not* a poison (Bödeker and Moebus 2023).
+**The practice.** The line comes from the Third Defense of Paracelsus's *Septem Defensiones*. He wrote it in Carinthia in 1538, and it was first printed in 1564. Its targets were physicians who accused him of prescribing poisons, meaning his mineral remedies (Deichmann et al. 1986; Grandjean 2016). The German says, in this page's plain rendering, that all things are poison and none is without it, and that the dose alone makes a thing no poison. The standard English opens with his question, "What is there that is not poison?" (Deichmann et al. 1986). The Latin slogan *sola dosis facit venenum* is later. It compresses his sentence and turns it about, since Paracelsus said the dose makes a thing *not* a poison (Bödeker and Moebus 2023).
 
 **The fault.** The maxim assumes a threshold below which there is no harm. That holds for a single poisoning and fails for the cumulative metals. Mercury and arsenic taken at a "safe" daily dose build up in the body, and the chronic diseases they cause are what ended the remedies (Grandjean 2016). Age, timing and the patient's own make-up also decide the poison.
 
@@ -534,7 +534,7 @@ Benjamin Rush in the Philadelphia yellow fever of 1793 gave ten grains of calome
 
 **The practice.** Liquid mercury was swallowed a pound or two at a time for obstruction of the bowel, to act by its weight (Wood and Bache 1870) *(single source)*. The 1870 authors doubted it. Blue mass, the mercury pill, was about one third metallic mercury. That is some 65 mg to a pill, taken two or three times a day (Wikipedia, "Blue mass") *(single source)*. For syphilis, mercury went in three ways: ointment rubbed in before a fire, fumigation over heated crucibles, or red or white precipitate by mouth. The course ran until the patient salivated. One eighteenth-century course used five or six ounces of ointment a rubbing, with precipitate at twelve to fifteen grains, for six to twelve days (Edward Worth Library). The 1870 dispensatory still gave doses "with a view to salivation."
 
-**The fault.** Swallowed liquid mercury is barely absorbed. Inhaled mercury vapour is absorbed at about seventy to eighty-five per cent (Bernhoft 2012; ATSDR 2024). The metal in the gut is nearly inert. The metal hot at the bench is the poison. The popular figure of three pints of saliva a day as the sign of cure, and its credit to Paracelsus, rest on popular sources and are disputed.
+**The fault.** Swallowed liquid mercury is barely absorbed. Inhaled mercury vapor is absorbed at about seventy to eighty-five per cent (Bernhoft 2012; ATSDR 2024). The metal in the gut is nearly inert. The metal hot at the bench is the poison. The popular figure of three pints of saliva a day as the sign of cure, and its credit to Paracelsus, rest on popular sources and are disputed.
 
 **In WOTR.** The Alftian Codex's quicksilver among Furveus's remedies is attested practice. The body section below carries what it did to him.
 
@@ -544,7 +544,7 @@ Benjamin Rush in the Philadelphia yellow fever of 1793 gave ten grains of calome
 
 **The fault.** The margin is thin. A fatal dose of arsenic trioxide is given as 70 to 180 mg (ATSDR), 70 to 200 mg (Wikipedia, "Arsenic poisoning"), and 50 to 300 mg of inorganic arsenic (IPCS). The 1858 Bradford analyst put a fatal dose at 4½ grains, about 290 mg. That is about ten to forty-five of the tenth-grain pills, or roughly 8 to 34 ml of Fowler's, no more than about an ounce of the bottle. Fowler's also decays: in flint glass it slowly decomposes, smells of garlic, and silvers the inside of the bottle with lead drawn from the glass.
 
-**In WOTR.** The Alftian Codex's white arsenic in small measure for a girl with no colour in her is the period anaemia indication at a period small dose.
+**In WOTR.** The Alftian Codex's white arsenic in small measure for a girl with no color in her is the period anaemia indication at a period small dose.
 
 ### Tartar emetic and the antimony quarrel
 
@@ -584,13 +584,13 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ## What the Bench Does to the Body
 
-### Mercury vapour
+### Mercury vapor
 
-**The practice.** Mercury enters the body through the lungs. The vapour has no smell (Emsley 2005). At 20 °C, air over open mercury saturates at about 14 mg per cubic metre, a hundred and forty times the 1964 permissible level (Earles 1964). Heat multiplies it. Computed from the vapour-pressure table, the saturated air holds about 77 mg per cubic metre at 42 °C, about 690 at 77 °C and about 6,100 at 120 °C (Wikipedia, "Mercury (element)") *(single source for the table; the concentrations are arithmetic)*. Mercury's half-life in the blood is three to five days and in the brain longer than several years (Bernhoft 2012) *(single source)*.
+**The practice.** Mercury enters the body through the lungs. The vapor has no smell (Emsley 2005). At 20 °C, air over open mercury saturates at about 14 mg per cubic meter, a hundred and forty times the 1964 permissible level (Earles 1964). Heat multiplies it. Computed from the vapor-pressure table, the saturated air holds about 77 mg per cubic meter at 42 °C, about 690 at 77 °C and about 6,100 at 120 °C (Wikipedia, "Mercury (element)") *(single source for the table; the concentrations are arithmetic)*. Mercury's half-life in the blood is three to five days and in the brain longer than several years (Bernhoft 2012) *(single source)*.
 
-**The fault.** A warm sand bath, a gilder's pan or a mercury "fixed" over a fire puts grams of vapour into each cubic metre of a closed room, and nobody smells it.
+**The fault.** A warm sand bath, a gilder's pan or a mercury "fixed" over a fire puts grams of vapor into each cubic meter of a closed room, and nobody smells it.
 
-**In WOTR.** The Alftian Codex holds that the man who measures takes his own share every day he measures. The main route is the vapour at the heated bench more than the doses handed out.
+**In WOTR.** The Alftian Codex holds that the man who measures takes his own share every day he measures. The main route is the vapor at the heated bench more than the doses handed out.
 
 ### The mercurial triad
 
@@ -604,7 +604,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ### Onset and recovery
 
-**The practice.** Onset tracks the concentration in the air; years of service matter little. The US Public Health Service felt-hat study of 1941 found no case of mercurialism below 0.1 mg per cubic metre. Below 0.08, three of sixty-six men were borderline. Between 0.08 and 0.15, fifteen of a hundred and twenty-seven were borderline or first-stage (Neal et al. 1941). At low levels symptoms come over months to years. At high levels they come in weeks. On HMS *Triumph* in 1810, after a spill of cargo mercury below decks, cases appeared within three weeks and about two hundred of 587 men fell ill. Poisoning followed where a man slept. The men under the forecastle got off with sore gums, and among those who berthed below, the midshipmen, whose duties kept them on deck, came off lightest. The animals aboard died, and coins and watches came up silvered (Earles 1964). Most of the salivated men were back aboard after sixteen to twenty-seven days ashore. Recovery is partial. Former chloralkali workers examined an average of 12.3 years after exposure ended had more postural tremor than unexposed men, 18.2 against 7.5 per cent (Andersen et al. 1993). Men exposed more than thirty years before still showed nerve damage in proportion to their dose (Letz et al. 2000).
+**The practice.** Onset tracks the concentration in the air; years of service matter little. The US Public Health Service felt-hat study of 1941 found no case of mercurialism below 0.1 mg per cubic meter. Below 0.08, three of sixty-six men were borderline. Between 0.08 and 0.15, fifteen of a hundred and twenty-seven were borderline or first-stage (Neal et al. 1941). At low levels symptoms come over months to years. At high levels they come in weeks. On HMS *Triumph* in 1810, after a spill of cargo mercury below decks, cases appeared within three weeks and about two hundred of 587 men fell ill. Poisoning followed where a man slept. The men under the forecastle got off with sore gums, and among those who berthed below, the midshipmen, whose duties kept them on deck, came off lightest. The animals aboard died, and coins and watches came up silvered (Earles 1964). Most of the salivated men were back aboard after sixteen to twenty-seven days ashore. Recovery is partial. Former chloralkali workers examined an average of 12.3 years after exposure ended had more postural tremor than unexposed men, 18.2 against 7.5 per cent (Andersen et al. 1993). Men exposed more than thirty years before still showed nerve damage in proportion to their dose (Letz et al. 2000).
 
 **The fault.** The disease depends on ventilation and distance from the heat, which no career count captures. The mouth heals in weeks off the bench; the tremor may fade over years or stay.
 
@@ -616,7 +616,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 - *Isaac Newton.* Furnaces from 1669 and heavy work with mercury and antimony. In 1693 he broke down with insomnia, poor digestion, memory loss and paranoid letters. Hair said to be his, analysed in 1979, showed raised mercury: about fifteen times normal is one reported figure (Lesney 2003), and other reports run to about forty times. Spargo and Pounds and Johnson and Wolbarsht argued for poisoning in 1979. The case against reads the breakdown as a depressive illness with no mouth signs and no tremor in the handwriting (Ditchburn 1980; Keynes 1981); the hair's provenance is also open, and some put the collapse down to his break with Fatio de Duillier (Wikipedia, "Later life of Isaac Newton").
 - *Johann Rudolf Glauber.* His health failed from about 1660, an illness put down, as a modern inference, to the mercury, arsenic, antimony and lead of his trade. A fall from a wagon in 1666 crippled him and left him bedridden. He sold his books and apparatus to keep his family and died in Amsterdam in 1670 (Wikipedia, "Johann Rudolf Glauber").
 - *Carl Wilhelm Scheele.* He smelled and tasted his new substances. He had kidney disease from 1785 and died at forty-three. His doctors called it mercury poisoning; modern accounts add arsenic and lead (Wikipedia, "Carl Wilhelm Scheele").
-- *Charles II.* He kept a laboratory and worked at fixing mercury. His death in 1685 in convulsions has been put down to mercury vapour, and also to stroke and kidney failure (Emsley 2005).
+- *Charles II.* He kept a laboratory and worked at fixing mercury. His death in 1685 in convulsions has been put down to mercury vapor, and also to stroke and kidney failure (Emsley 2005).
 **The fault.** No case in the old record carries a measured dose. Every attribution is argued from signs and occupation after the fact.
 
 **In WOTR.** The Alftian Codex's Furveus, dictating when his hand will no longer write a formula small enough to read, follows the recorded pattern of a working chymist's decline.
@@ -635,7 +635,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 **The fault.** The signs come late and are not unique to arsenic. Mees' lines follow other poisons and illnesses too.
 
-**In WOTR.** Alchemetrica's Draft-mark sits in the sclera and under the nailbeds, keyed to what a man handled most. The Alftian Codex puts it on Furveus as grey nail-beds and pale bands across the nails that no washing lifted, keyed to quicksilver, calomel and white arsenic. Those bands are Mees' lines. A Mees' line grows out in five or six months, so a band still visible dates a dose within the last half-year. The discolouration of the sclera has no real counterpart for mercury or arsenic; silver's slate-grey argyria of skin, nails and eye, and lead's blue gum line, are the nearest real marks (DermNet). A renderer reading a career off the hands has real ground. Yellow nitric-acid stains on skin and nails, Mees' lines, the lead line and argyria each belong to one substance.
+**In WOTR.** Alchemetrica's Draft-mark sits in the sclera and under the nailbeds, keyed to what a man handled most. The Alftian Codex puts it on Furveus as gray nail-beds and pale bands across the nails that no washing lifted, keyed to quicksilver, calomel and white arsenic. Those bands are Mees' lines. A Mees' line grows out in five or six months, so a band still visible dates a dose within the last half-year. The discolouration of the sclera has no real counterpart for mercury or arsenic; silver's slate-gray argyria of skin, nails and eye, and lead's blue gum line, are the nearest real marks (DermNet). A renderer reading a career off the hands has real ground. Yellow nitric-acid stains on skin and nails, Mees' lines, the lead line and argyria each belong to one substance.
 
 ### Lead
 
@@ -647,7 +647,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ### Antimony and calcination fume
 
-**The practice.** Workers in antimony dust and fume develop "antimony spots," itchy pimples around the sweat glands, commonest in summer, and a dusting of the lungs with chronic cough (UKPID; ATSDR). Smelter workers breathing sulphur dioxide and dust develop chronic bronchitis, now a recognised compensable disease (WSIB). Paracelsus's *Von der Bergsucht* was the first account of it.
+**The practice.** Workers in antimony dust and fume develop "antimony spots," itchy pimples around the sweat glands, commonest in summer, and a dusting of the lungs with chronic cough (UKPID; ATSDR). Smelter workers breathing sulfur dioxide and dust develop chronic bronchitis, now a recognised compensable disease (WSIB). Paracelsus's *Von der Bergsucht* was the first account of it.
 
 **The fault.** The lung disease builds with dose and never reverses.
 
@@ -685,7 +685,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ### Tests and antidotes
 
-**The practice.** Scheele turned arsenic trioxide into garlic-smelling arsine with zinc and acid in 1775. Early tests were too weak for a court: in the Bodle trial of 1832 the yellow precipitate spoiled before it reached the jury. James Marsh's test of 1836 digested the sample in acid with zinc and led the arsine through a heated tube or onto cold porcelain, where it left a silvery-black mirror, sensitive to about 0.02 mg. Antimony gives a like mirror, told apart by solubility. Orfila used the test to convict Marie Lafarge in 1840 (National Library of Medicine; Wikipedia, "Marsh test"). Hugo Reinsch's test of 1841 heated bright copper foil in the acidified sample and caught arsenic, antimony, bismuth and mercury as a grey film (Wikipedia, "Reinsch test"). Bunsen and Berthold found hydrated ferric oxide as an antidote to arsenic in 1834 (DSB, "Bunsen"; Wikipedia, "Robert Bunsen").
+**The practice.** Scheele turned arsenic trioxide into garlic-smelling arsine with zinc and acid in 1775. Early tests were too weak for a court: in the Bodle trial of 1832 the yellow precipitate spoiled before it reached the jury. James Marsh's test of 1836 digested the sample in acid with zinc and led the arsine through a heated tube or onto cold porcelain, where it left a silvery-black mirror, sensitive to about 0.02 mg. Antimony gives a like mirror, told apart by solubility. Orfila used the test to convict Marie Lafarge in 1840 (National Library of Medicine; Wikipedia, "Marsh test"). Hugo Reinsch's test of 1841 heated bright copper foil in the acidified sample and caught arsenic, antimony, bismuth and mercury as a gray film (Wikipedia, "Reinsch test"). Bunsen and Berthold found hydrated ferric oxide as an antidote to arsenic in 1834 (DSB, "Bunsen"; Wikipedia, "Robert Bunsen").
 
 **The fault.** The Marsh test makes arsine, the gas that killed Gehlen. The test itself was a hazard to the analyst.
 
@@ -701,7 +701,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ---
 
-## Cover-Names and Colours
+## Cover-Names and Colors
 
 ### Decknamen
 
@@ -738,7 +738,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 
 ### Meanings that drift
 
-**The practice.** A cover-name meant different things to different authors. Newton's *Index chemicus* lists several meanings for the Green Lion, each tied to a named author (Newman 2018). Starkey used Saturn for stibnite, not lead. It took Newton years to see it (Newman 2005; Newton Project). "Stinking spirit" is usually ammonium carbonate in Starkey's notebooks and sulphur in another author (Chemistry World).
+**The practice.** A cover-name meant different things to different authors. Newton's *Index chemicus* lists several meanings for the Green Lion, each tied to a named author (Newman 2018). Starkey used Saturn for stibnite, not lead. It took Newton years to see it (Newman 2005; Newton Project). "Stinking spirit" is usually ammonium carbonate in Starkey's notebooks and sulfur in another author (Chemistry World).
 
 **The fault.** A reader decoding one house's book with another house's key gets a confident wrong recipe.
 
@@ -747,58 +747,58 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 ### Cover-names decoded
 
 **The practice.** Historians have read these back into chemistry:
-- *The grey wolf.* Basil Valentine's First Key (German 1599, woodcuts 1602) feeds the king to a ravenous grey wolf and burns the wolf, and the king returns. The wolf is stibnite; the king, gold: the assayer's purification of gold with antimony sulphide (Principe 2013, via Wikipedia, "The Twelve Keys of Basil Valentine"). Principe tested readings of several Keys in the laboratory *(single source)*.
+- *The gray wolf.* Basil Valentine's First Key (German 1599, woodcuts 1602) feeds the king to a ravenous gray wolf and burns the wolf, and the king returns. The wolf is stibnite; the king, gold: the assayer's purification of gold with antimony sulphide (Principe 2013, via Wikipedia, "The Twelve Keys of Basil Valentine"). Principe tested readings of several Keys in the laboratory *(single source)*.
 - *The green lion of Ripley's Bosom Book* (printed 1683). Thirty pounds of "sericon," dissolved a pound to a gallon of twice-distilled vinegar, set in a water bath to a green gum called our Green Lion. Distilled from a luted retort, it gave a faint water, a white fume, a reddish fume, then drops like blood, and left a black residue called our Dragon (Ripley 1683). Sericon was an impure red lead, and the green gum was crude lead acetate (Rampling 2014). Later readers took sericon for antimony. In Philalethes the green lion is crude antimony (Newman 1996).
-- *Saturnia*, the daughter of Saturn, is crude antimony. Mars is iron. Cadmus and his blood are iron and its sulphur. The Net that caught Mars and Venus is an alloy of copper with the star regulus (Newman 1996; Newman 2005).
+- *Saturnia*, the daughter of Saturn, is crude antimony. Mars is iron. Cadmus and his blood are iron and its sulfur. The Net that caught Mars and Venus is an alloy of copper with the star regulus (Newman 1996; Newman 2005).
 - *The eagle.* In Philalethes each preparation of the mercury with its arsenic is one eagle, taken to the seventh flight and sometimes the tenth. One eagle took about half a day by Starkey's improved method (Philalethes, "Preparations of the Sophic Mercury").
 - *The king and the queen.* In Philalethes the King is gold and weds the philosophical mercury. Both whiten, die, putrefy through livid, black, bluish and yellowish, and lie in a black tomb that promises resurrection if the fire is kept constant (Newman 1996).
 - *The philosophers' mercury.* Reduce stibnite with iron to the star regulus and fuse it with silver. Amalgamate with quicksilver, then purge and distil in eagles. De Maets' decipherment gives one ounce of regulus to two of cupelled silver to three of the purest mercury (Newman 1996).
 **The fault.** The published recipes left the silver out, a clean syncope. Hertodt in 1678 was stuck until he found in another author that the star regulus will not take up mercury without silver (Newman 1996).
 
-**In WOTR.** WOTR has no grey wolf, eagle, star regulus or philosophers' tree. The Grey Bride, the Winter Salt and the Third Cask are WOTR's own names with no real referent. The Alchemical Index carries no cover-names.
+**In WOTR.** WOTR has no gray wolf, eagle, star regulus or philosophers' tree. The Grey Bride, the Winter Salt and the Third Cask are WOTR's own names with no real referent. The Alchemical Index carries no cover-names.
 
 ### The impurity lesson
 
-**The practice.** Principe found that a Basil Valentine recipe for glass of antimony failed with pure laboratory reagents and worked with natural Hungarian stibnite, which carries silica, the ore Valentine specified (Principe 1987). Rampling ran Ripley's lead process under a fume hood and saw its colours (Rampling 2020, reviewed by Stadolnik 2021).
+**The practice.** Principe found that a Basil Valentine recipe for glass of antimony failed with pure laboratory reagents and worked with natural Hungarian stibnite, which carries silica, the ore Valentine specified (Principe 1987). Rampling ran Ripley's lead process under a fume hood and saw its colors (Rampling 2020, reviewed by Stadolnik 2021).
 
 **The fault.** A recipe that names a source names an impurity. Change the source and the recipe fails, and the failure reads as a lie in the book.
 
 **In WOTR.** The Standing Index, as Alchemetrica describes it, requires a reference lot because the written formula will not reproduce the product. That is Principe's impurity lesson in institutional form.
 
-### The colours of the Work
+### The colors of the Work
 
-**The practice.** The four-colour scheme is Greek: blackening, whitening, yellowing, and reddening or purpling, in Latin *nigredo, albedo, citrinitas, rubedo* (Wikipedia, "Magnum opus") *(single source for the Greek attribution to Maria and pseudo-Democritus)*. After the fifteenth century many writers folded the yellowing into the reddening and counted three (Rampling 2024). The peacock's tail, a show of many colours, was sometimes added. Philalethes summed the Work as black, the peacock's tail, white, orange and red. He called the black "an image of eternal death," a sight that gladdens the sage (Philalethes, *An Open Entrance*).
+**The practice.** The four-color scheme is Greek: blackening, whitening, yellowing, and reddening or purpling, in Latin *nigredo, albedo, citrinitas, rubedo* (Wikipedia, "Magnum opus") *(single source for the Greek attribution to Maria and pseudo-Democritus)*. After the fifteenth century many writers folded the yellowing into the reddening and counted three (Rampling 2024). The peacock's tail, a show of many colors, was sometimes added. Philalethes summed the Work as black, the peacock's tail, white, orange and red. He called the black "an image of eternal death," a sight that gladdens the sage (Philalethes, *An Open Entrance*).
 
-**The fault.** The colour told the worker where he stood only if his book and his matter agreed, and the schemes did not agree with each other.
+**The fault.** The color told the worker where he stood only if his book and his matter agreed, and the schemes did not agree with each other.
 
-**In WOTR.** Alchemetrica's Reading the Colour uses the Greek four: the Blacking, the Whitening, the Yellowing, the Reddening. The blacking expected and welcome, and colours read through glass in a sealed vessel, are Philalethes' practice. WOTR has no peacock's tail and no green stage.
+**In WOTR.** Alchemetrica's Reading the Color uses the Greek four: the Blacking, the Whitening, the Yellowing, the Reddening. The blacking expected and welcome, and colors read through glass in a sealed vessel, are Philalethes' practice. WOTR has no peacock's tail and no green stage.
 
-### The chemistry behind the colours
+### The chemistry behind the colors
 
 **The practice.**
 
-| Colour event | Real chemistry | Source |
+| Color event | Real chemistry | Source |
 |---|---|---|
-| Copper whitened | vapours of mercury or arsenic give copper a silver surface | Principe 2013 |
-| Copper yellowed | vapour from heated calamine makes brass | Principe 2013 |
-| White and white make yellow | Zosimos found white sulphur vapour taken up by white mercury gave a yellow, fixed product | Principe 2013 |
-| Black to red | mercury and sulphur heated in sealed glass give black mercury sulphide, then on sublimation straw, yellow and red, and red cinnabar collects | Simonini 2025 *(single source for the sequence)* |
+| Copper whitened | vapors of mercury or arsenic give copper a silver surface | Principe 2013 |
+| Copper yellowed | vapor from heated calamine makes brass | Principe 2013 |
+| White and white make yellow | Zosimos found white sulfur vapor taken up by white mercury gave a yellow, fixed product | Principe 2013 |
+| Black to red | mercury and sulfur heated in sealed glass give black mercury sulphide, then on sublimation straw, yellow and red, and red cinnabar collects | Simonini 2025 *(single source for the sequence)* |
 | Black to citrine | Ripley's black residue of lead acetate, touched with a coal, glows through within half an hour to a yellow calx; it is finely divided lead and carbon, which catches fire in air | Ripley 1683; Stadolnik 2021 |
 | Red "blood" | red fumes and blood-red drops at the end of the lead acetate distillation | Ripley 1683 |
 | Black to white | Starkey purged his amalgam from crow-like blackness to lunar whiteness, washing out dross with vinegar and salt | Philalethes, "Preparations" |
 | Trees | the prepared mercury and gold grow a branching tree in a sealed heated flask; no elapsed time reported | Conniff 2014 |
 | Peacock's tail | no historian found identifies the chemistry | none |
 
-**The fault.** Each colour belongs to a specific reaction in a specific matter. The same colour word in two recipes can name two different chemistries.
+**The fault.** Each color belongs to a specific reaction in a specific matter. The same color word in two recipes can name two different chemistries.
 
 **In WOTR.** Alchemetrica's rule that a working which blacks and then reddens without whitening has skipped its purification has a real parallel in the warnings below. The Alftian Codex's Whitening, read in a plant spirit circulating in the Returner, has no real counterpart in these sources, which describe the whitening of metals and amalgams.
 
 ### The regimen in the sealed egg
 
-**The practice.** Philalethes' *Open Entrance* (1667) times the colours for one part purified gold to three of the prepared mercury:
-- *Regimen of Mercury*, about forty to fifty days. Colours begin about the twentieth day. A green appears near the end of the fourth week, lasts about ten days, and gives way to black.
+**The practice.** Philalethes' *Open Entrance* (1667) times the colors for one part purified gold to three of the prepared mercury:
+- *Regimen of Mercury*, about forty to fifty days. Colors begin about the twentieth day. A green appears near the end of the fourth week, lasts about ten days, and gives way to black.
 - *Regimen of Saturn*, black as pitch, forty days by Newman's reading.
-- *Regimen of Jupiter*, three weeks, all colours, ending in a snowy white deposit on the glass.
+- *Regimen of Jupiter*, three weeks, all colors, ending in a snowy white deposit on the glass.
 - *Regimen of the Moon*, three weeks, white, with tiny silver trees.
 - *Regimen of Venus*, forty days, green. The philosophical tree grows in it.
 - *Regimen of Mars*, yellow or dirty brown, then the rainbow and the peacock's tail.
@@ -807,7 +807,7 @@ The text warns to keep the heat gentle, never shake the vessel, and never burn t
 
 **The fault.** These are Starkey's claimed stages and times. The one modern replication reported grew its tree in a sealed heated flask, and the report gives no elapsed time (Conniff 2014).
 
-**In WOTR.** Alchemetrica says colours arriving too fast mean the working should be abandoned, which matches Philalethes' warning about heat. WOTR has no colour-by-colour calendar like Philalethes' regimens. The nearest are the Rot's six to nine weeks to black (Alchemetrica) and the Alftian Codex's three turns to the Blacking and most of a month in the Returner to the Whitening.
+**In WOTR.** Alchemetrica says colors arriving too fast mean the working should be abandoned, which matches Philalethes' warning about heat. WOTR has no color-by-color calendar like Philalethes' regimens. The nearest are the Rot's six to nine weeks to black (Alchemetrica) and the Alftian Codex's three turns to the Blacking and most of a month in the Returner to the Whitening.
 
 ---
 
@@ -885,7 +885,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Conniff 2014 | Richard Conniff, "Alchemy May Not Have Been the Pseudoscience We All Thought It Was," *Smithsonian*, 2014 |
 | Davidson | John S. Davidson, annotations to Robert Boyle's *The Sceptical Chymist*, University of Glasgow. https://www.chem.gla.ac.uk/staff/alanc/annotations.pdf |
 | Deichmann et al. 1986 | W. B. Deichmann, D. Henschler, B. Holmstedt and G. Keil, "What is there that is not poison? A study of the Third Defense by Paracelsus," *Archives of Toxicology* 58 (1986): 207-213 |
-| Earles 1964 | M. P. Earles, "A Case of Mass Poisoning with Mercury Vapour on Board H.M.S. Triumph at Cadiz, 1810," *Medical History* 8 (1964): 281-286 |
+| Earles 1964 | M. P. Earles, "A Case of Mass Poisoning with Mercury Vapor on Board H.M.S. Triumph at Cadiz, 1810," *Medical History* 8 (1964): 281-286 |
 | Ditchburn 1980 | R. W. Ditchburn, "Newton's illness of 1692-3," *Notes and Records of the Royal Society* 35 (1980): 1-16 |
 | Emsley 2005 | John Emsley, *The Elements of Murder: A History of Poison*, Oxford University Press, 2005; consulted through secondary summaries |
 | Grandjean 2016 | Philippe Grandjean, "Paracelsus Revisited: The Dose Concept in a Complex World," *Basic and Clinical Pharmacology and Toxicology* 119 (2016): 126-132. https://pmc.ncbi.nlm.nih.gov/articles/PMC4942381/ |
@@ -936,7 +936,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 
 | Cited as | Source |
 |---|---|
-| Andersen et al. 1993 | A. Andersen et al., "A neurological and neurophysiological study of chloralkali workers previously exposed to mercury vapour," *Acta Neurologica Scandinavica* 88 (1993): 427-433 |
+| Andersen et al. 1993 | A. Andersen et al., "A neurological and neurophysiological study of chloralkali workers previously exposed to mercury vapor," *Acta Neurologica Scandinavica* 88 (1993): 427-433 |
 | ATSDR | Agency for Toxic Substances and Disease Registry: *Toxicological Profile for Mercury* (2024); *Case Studies in Environmental Medicine*, Arsenic Toxicity and Lead Toxicity; *Medical Management Guidelines*, Nitrogen Oxides and Arsenic; *Toxicological Profile for Antimony* |
 | Babcock 1882 | J. F. Babcock, "Notable Accidents," *New Remedies*, 1882. https://todayinsci.com/Events/Chemistry/NotableAccidents.htm |
 | Bernhoft 2012 | R. A. Bernhoft, "Mercury Toxicity and Treatment: A Review of the Literature," *Journal of Environmental and Public Health*, 2012. https://pmc.ncbi.nlm.nih.gov/articles/PMC3253456/ |
@@ -958,7 +958,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Neal et al. 1941 | P. A. Neal et al., *Mercurialism and its control in the felt hat industry*, US Public Health Service, Public Health Bulletin 263, 1941 |
 | Reading Early Medicine | "Chemical Medicine, Theory," Reading Early Medicine |
 | Schwarcz 2023 | Joe Schwarcz, "An End to 'Gilder's Palsy'," McGill Office for Science and Society, 2023 |
-| WSIB | Workplace Safety and Insurance Board, "Chronic Obstructive Lung Disease, Sulphur Dioxide and Particulates Exposure (Smelter Workers)" |
+| WSIB | Workplace Safety and Insurance Board, "Chronic Obstructive Lung Disease, Sulfur Dioxide and Particulates Exposure (Smelter Workers)" |
 | Yaemsiri et al. 2010 | S. Yaemsiri et al., "Growth rate of human fingernails and toenails in healthy American young adults," *Journal of the European Academy of Dermatology and Venereology*, 2010 |
 
 **Materials, heat and measurement**
@@ -967,7 +967,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 |---|---|
 | ARTECHNE | ARTECHNE project, Utrecht University, "The 'Gentle Heat' of Boerhaave's Little Furnace" |
 | Craddock 2000 | P. T. Craddock, "Historical Survey of Gold Refining 2," in A. Ramage and P. T. Craddock, *King Croesus' Gold*, British Museum Press, 2000 |
-| Darling 1911 | Charles R. Darling, *Pyrometry*, London, 1911 (with Howe's colour table of 1900). Project Gutenberg 56353 |
+| Darling 1911 | Charles R. Darling, *Pyrometry*, London, 1911 (with Howe's color table of 1900). Project Gutenberg 56353 |
 | Johnson Matthey | "The early history of the thermocouple," *Johnson Matthey Technology Review* |
 | Mineralogical Record | "Glauber, Johann Rudolf," Mineralogical Record biobibliography |
 | Princeton University Library | "The Philosophers' Glass" and "Experimenting with the Past," Princeton University Library digital alchemy exhibition |

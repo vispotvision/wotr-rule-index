@@ -12,7 +12,7 @@ A Cursed Object and Glyph Tool, Animatria-bound, capable of standing as a minor 
 
 ### Physical account
 
-A tome: plausible mass 4.1 kg fully clasped (the ink-flesh binding runs heavier than a comparable dead book), 38 cm spine height, 9 cm thick at rest and up to double that with the tentacles extended. Point of balance sits high, at the argent spine-clasps, so a one-handed carry rides awkwardly forward. It is not built or held as a weapon; the page-wyrm's bite is a beast's bite rather than a blade's. Against a struck target it acts like a small, precise puncture: it does nothing to proofed plate, settles for an exposed hand, throat, or visor gap against anything better than padded cloth, and needs no correction on that point from the armour tables.
+A tome: plausible mass 4.1 kg fully clasped (the ink-flesh binding runs heavier than a comparable dead book), 38 cm spine height, 9 cm thick at rest and up to double that with the tentacles extended. Point of balance sits high, at the argent spine-clasps, so a one-handed carry rides awkwardly forward. It is not built or held as a weapon; the page-wyrm's bite is a beast's bite rather than a blade's. Against a struck target it acts like a small, precise puncture: it does nothing to proofed plate, settles for an exposed hand, throat, or visor gap against anything better than padded cloth, and needs no correction on that point from the armor tables.
 
 ### Operation line
 

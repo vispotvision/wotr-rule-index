@@ -22,7 +22,7 @@ Every institution in the four quarters is an answer to one question: **on what g
 
 | Institution | Its claim | Its vulnerability |
 |---|---|---|
-| **The Guild Accord** | Legitimacy by measurement. It recognises no bloodline, honours rank in every member polity, and issues the only portable legal identity most people will ever hold | It is a bureaucracy that compresses what it administers, and **it has a sixth Division whose existence the public Codex does not acknowledge** |
+| **The Guild Accord** | Legitimacy by measurement. It recognises no bloodline, honors rank in every member polity, and issues the only portable legal identity most people will ever hold | It is a bureaucracy that compresses what it administers, and **it has a sixth Division whose existence the public Codex does not acknowledge** |
 | **The archaic bloodlines** | Legitimacy by descent, and the descent is not metaphorical — three of them trace to the three Epochs directly | A crown passes to a body. **A kingdom whose heir assays weak has a strategic problem no amount of ancestry solves** |
 | **The third parties** | Sancta Lux, the Bench of Attribution, and the Paths each claim an authority that answers to neither crown nor coil | Being answerable to no one is only an advantage until somebody asks who audits you |
 
@@ -71,7 +71,7 @@ Every institution in the four quarters is an answer to one question: **on what g
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity]]
 > **The law, in articles.** **The Articles of the Accord, and the Kinds of Polity** gives the actual text: twenty-eight numbered articles across six titles, each with its register name, its plain name, and its penalty.
 > 
-> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveller's plea heard and determined before the market closes — is the single rule that built the whole system.
+> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveler's plea heard and determined before the market closes — is the single rule that built the whole system.
 > 
 > Article XV is the one to know: **the speaking is not licensed and the Accord has never found a way to license it**, because a spoken working has no author in its own grammar. The Bench spent four hundred years trying to place a mouth at a scene and then legislated around it. Liability falls on whoever paid.
 > 
@@ -79,7 +79,7 @@ Every institution in the four quarters is an answer to one question: **on what g
 > 
 > **Companion piece.** *The Guild Accord in the Modern Era*, under the Guild Accord page, covers the institution rather than its law: where its reach actually ends, the Divisions as rivals, the politics of the High Concordant, the company and academy structures, and the great offices. It also supersedes the old Accord register — no terminals, no projected sigils, no floating numbers.
 >
-> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveller's plea heard and determined before the market closes — is the single rule that built the whole system.
+> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveler's plea heard and determined before the market closes — is the single rule that built the whole system.
 >
 > Article XV is the one to know: **the speaking is not licensed and the Accord has never found a way to license it**, because a spoken working has no author in its own grammar. The Bench spent four hundred years trying to place a mouth at a scene and then legislated around it. Liability falls on whoever paid.
 >

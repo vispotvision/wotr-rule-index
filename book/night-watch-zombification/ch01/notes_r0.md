@@ -39,7 +39,7 @@ The same night, from the fourth division to the sixth. Wystan checks and blots Y
 ## Originated in this draft (pending Isaac)
 
 - **Day desk location.** The day desk is at the front of the same Cutler Row building, up four steps from the passage. The beat says the hum "fills the building" and he then "carries the tin to the day desk," and I read the two as one house. If ch3 or ch12 needs the northern office to be a separate building, change the passage sentence and the four steps.
-- **The day clerk.** Unnamed. About fifty, bald crown with a grey fringe, a wen by the nose, brown day-coat buttoned one hole wrong, black sateen oversleeves. Wants the stove lit. Speaks with contractions, which none of the Register's people use. He is a candidate for the "day clerks" of ch12 and ch16.
+- **The day clerk.** Unnamed. About fifty, bald crown with a gray fringe, a wen by the nose, brown day-coat buttoned one hole wrong, black sateen oversleeves. Wants the stove lit. Speaks with contractions, which none of the Register's people use. He is a candidate for the "day clerks" of ch12 and ch16.
 - **The brass token.** Thumb-sized, worn at the rim, with the Division's device on one face and the title cut small on the other. Kept in his waistcoat pocket. **Brass wax** is a dull yellow stick issued only to officers. **Fresh tins** are packed in straw in a crate under the sink.
 - **Other furniture.** Grounding tea kept on the scullery shelf (inventory item; "the medical house gave" it is originated). A spirit kettle and jug. The back pages of the day book hold the forty-two minutes.
 - **The Register's position.** "A dose goes where it is put" is written under *edges* in the day book (bible: What Wystan believes, item 5).

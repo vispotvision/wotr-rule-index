@@ -77,7 +77,7 @@ Self-derived by its author, from the concept of a pulse that shakes loose recent
 
 ### Metaphysics
 
-**Aether** · Spread over the sphere and released once; Limina is favoured by darkness, silence and thin ground and starved by crowds, saturation and active Domains, so a full room costs more than an empty one. The Residue is a legible gap that Anamnesis reads.
+**Aether** · Spread over the sphere and released once; Limina is favored by darkness, silence and thin ground and starved by crowds, saturation and active Domains, so a full room costs more than an empty one. The Residue is a legible gap that Anamnesis reads.
 
 **Wellspring** · Letheveil, the Waters of Forgetting (Limina): compression keeps what carries information and drops the redundant; it tests Resilience Anchoring, so whatever is not load-bearing lets go first.
 

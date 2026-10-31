@@ -16,7 +16,7 @@ The Ashkaru predate the Planar Separation. They were authored by **Bairos**, the
 
 The Accord's register has no entry for them. The Stone Choir's deep archive holds a single margin note. The Ledger Monks decline to comment and have never explained why, which is the loudest thing the Ledger Monks have ever done.
 
-The Moto are Bara's children, the First Epoch given human form, the primordial authority made inheritable through Mizuki's dynastic architecture. **The Ashkaru are the older work.** Bairos's instruments before Bara existed. A sibling line to the Moto in the way that a chisel is a sibling to the carpenter's son: made by the same hand, made first, made for a different kind of labour.
+The Moto are Bara's children, the First Epoch given human form, the primordial authority made inheritable through Mizuki's dynastic architecture. **The Ashkaru are the older work.** Bairos's instruments before Bara existed. A sibling line to the Moto in the way that a chisel is a sibling to the carpenter's son: made by the same hand, made first, made for a different kind of labor.
 
 ---
 
@@ -40,7 +40,7 @@ The Ashkaru body is not a body in the sense that mortal anatomists use the word.
 
 **The Threads.** Six serpentine appendages, muscular and scaled, each terminating in an independent head with its own jaw, its own sensory apparatus, and its own rudimentary cognition. These are the parallel reading threads. Each head processes a different strand of input simultaneously. In the pre-Planar period, each strand corresponded to a different layer of the deep text. After the Separation, the six threads lost their native material and began reading whatever was available, which is why an Ashkaru's perceptive range is so broad and so difficult for any current-system instrument to classify.
 
-**The Hide.** Dense, mineral-adjacent, the grey-blue of deep basalt. Not skin over muscle but something closer toite under compression. It does not scar in the conventional sense. Damage is filled by the body's own crystalline substrate, leaving seams of slightly darker material that a geologist would recognize as veining in metamorphic rock.
+**The Hide.** Dense, mineral-adjacent, the gray-blue of deep basalt. Not skin over muscle but something closer toite under compression. It does not scar in the conventional sense. Damage is filled by the body's own crystalline substrate, leaving seams of slightly darker material that a geologist would recognize as veining in metamorphic rock.
 
 **The Ears.** Elongated, pointed, angled outward. Directional sensing organs, not decorative. They predate any elven morphology and are not related to it.
 
@@ -96,6 +96,6 @@ After the Separation, the world continued. The Ashkaru continued. Their purpose 
 
 ## Known Ashkaru
 
-**Kinjiki, The Inversion.** Level 500. Stage XIV, Zenith. Band V. The only Ashkaru confirmed present in the current narrative theatre. See character entry.
+**Kinjiki, The Inversion.** Level 500. Stage XIV, Zenith. Band V. The only Ashkaru confirmed present in the current narrative theater. See character entry.
 
 ---

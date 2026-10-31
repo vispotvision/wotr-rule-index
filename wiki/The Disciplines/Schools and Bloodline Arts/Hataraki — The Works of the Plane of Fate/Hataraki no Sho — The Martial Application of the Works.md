@@ -25,7 +25,7 @@ Cruelty is merely appetite wearing confidence. The Moto are not cruel by nature.
 
 ## Prologue · On Seeing and Working
 
-The house inherited two burdens. The first was **sight**. The second was **labour**. The first became the Shingan. The second remained Hataraki.
+The house inherited two burdens. The first was **sight**. The second was **labor**. The first became the Shingan. The second remained Hataraki.
 
 Lesser scholars try to separate them in commentary, as though perception and imposition could be discussed in isolation. This is the habit of scholars who have never stood in a live battlefield and felt ten contradictory futures scrape their nails down the inside of the air.
 > The Eye without the Work is an archivist too frightened to write in the margins.
@@ -36,7 +36,7 @@ Lesser scholars try to separate them in commentary, as though perception and imp
 
 ### Meigan · the revealing eye
 
-Meigan users become quiet in the wrong way. Not contemplative, but predatory. They begin to notice how falsehood leans upon structure, how fortifications hide their failure in ornament, how a smile can fail along one edge before the lie fails in the mouth. Such descendants favour cuts that do not look theatrical. They like seams. They like joints. **They like the place where a thing has been pretending not to break.**
+Meigan users become quiet in the wrong way. Not contemplative, but predatory. They begin to notice how falsehood leans upon structure, how fortifications hide their failure in ornament, how a smile can fail along one edge before the lie fails in the mouth. Such descendants favor cuts that do not look theatrical. They like seams. They like joints. **They like the place where a thing has been pretending not to break.**
 
 **Kakushi Wari** · *Hidden-Seam Rend.* A revelation cut placed not where the enemy is strongest, but where his form has already told on itself.
 
@@ -76,11 +76,11 @@ Rarely commented upon at length, because sovereign synthesis is wasted on those 
 
 There are two kinds of fools who misunderstand Ruin. The first believes Ruin to be evil. The second believes Ruin to be freedom. **Neither has looked closely enough at rotting timber.**
 
-Hametsu no Gei was created because diseased continuity is one of existence's oldest insults. A kingdom that ought to have fallen but persists through cruelty. A law that no longer serves the reality it governs. A body that should have died cleanly but has become host to recurrence, corruption, or profaned resurrection. These things require ending, and ending is not an accident. **It is labour.**
+Hametsu no Gei was created because diseased continuity is one of existence's oldest insults. A kingdom that ought to have fallen but persists through cruelty. A law that no longer serves the reality it governs. A body that should have died cleanly but has become host to recurrence, corruption, or profaned resurrection. These things require ending, and ending is not an accident. **It is labor.**
 
 **Hōkai Senkoku** · *Proclamation of Collapse.* Young practitioners delight in the name because they think the name itself performs the grandeur. It does not. What matters is whether the designation is **earned**. To pronounce collapse upon intact perfection is waste. To pronounce collapse upon a structure already hiding its own exhaustion is judgment.
 
-**Kaimetsu no Hasuji** · *Edge-Line of Annihilation.* Used through sword, spear, and decree alike. The least intelligent version is the one preferred by braggarts, a broad committed stroke meant to impress witnesses. The correct version is almost humble. It follows leverage. It understands angle. It uses the enemy's own tension against him. In armoured combat it seeks articulation, weight-bearing joints, visor channels, or previously rattled structure. In fortification warfare it waits for masonry to confess where the stress has settled.
+**Kaimetsu no Hasuji** · *Edge-Line of Annihilation.* Used through sword, spear, and decree alike. The least intelligent version is the one preferred by braggarts, a broad committed stroke meant to impress witnesses. The correct version is almost humble. It follows leverage. It understands angle. It uses the enemy's own tension against him. In armored combat it seeks articulation, weight-bearing joints, visor channels, or previously rattled structure. In fortification warfare it waits for masonry to confess where the stress has settled.
 
 **Tetsu Shūen** · *Iron Terminal.* A hammer-form, neglected by aesthetes and beloved by real soldiers. One does not pretend to become subtler than steel. One simply drives ruin through plate, gambeson, rib, and nerve in proper sequence until the body loses its argument with the blow. *I have always liked the honesty of hammers. They are incapable of ornamental thought.*
 > **The corruption of Ruin** is easy to identify. The practitioner ceases to ask whether a thing ought to end, and begins to enjoy ending as a general principle. Bloodlines have vanished into that error and called themselves pure for it.
@@ -139,7 +139,7 @@ Not clock-work. **Sequence-law.** It governs before, during, after, convergence,
 
 ### Chishiki no Gei · the Art of Knowledge
 
-The labour that permits reality to become legible. Most people say they want truth. What they want is confirmation decorated to look severe. **Actual knowledge is much colder.**
+The labor that permits reality to become legible. Most people say they want truth. What they want is confirmation decorated to look severe. **Actual knowledge is much colder.**
 
 **Naimei Ketsugi** · *Deliberation of the Inner Name.* Among the most dangerous techniques in the whole house, because naming alters what a thing can continue pretending to be. A false saint named as tyrant begins to lose the shelter of his own sanctimony. A ward named incorrectly begins to fail. A beast named according to hunger instead of species becomes readable where once it was only frightening.
 
@@ -155,7 +155,7 @@ The most commonly underestimated Work and therefore the most likely to outlive i
 
 ### Zentaisei no Gei · the Art of Totality
 
-Discussed only with restraint. The crown-function, the integrating labour, the gathering of all lesser Works into one governable frame.
+Discussed only with restraint. The crown-function, the integrating labor, the gathering of all lesser Works into one governable frame.
 
 **Sōgō Tōkan** · *Comprehensive Integration.* **Teiho no Oza** · *Throne of Accordant Judgment.* Not meant for immature egos. They are for command, for reality repair, for battlefields where multiple laws are already colliding and must either be reconciled or ranked.
 > The corruption of Totality is the oldest sovereign temptation. **To gather is easy. To gather without devouring distinction, that is mastery.**
@@ -174,7 +174,7 @@ A bloodline may possess excellent doctrine and still die like idiots if it forge
 
 ### On weapons
 
-The **tachi and longsword** to those who study revelation and temporality. **Spears and estocs** to those who favour causality and spirit-penetration. **Polearms** to commanders. And **hammers** to anyone who has finally accepted that armour is a conversation best ended honestly.
+The **tachi and longsword** to those who study revelation and temporality. **Spears and estocs** to those who favor causality and spirit-penetration. **Polearms** to commanders. And **hammers** to anyone who has finally accepted that armor is a conversation best ended honestly.
 > Against plate, do not behave like a poet. **Behave like architecture with intent.**
 >
 > Hook behind the knee. Strike the pauldron to numb the arm. Half-sword into the visor. Use **Shūen Kugi** through the armpit gap. Follow with **Danzai no Ku**, *Sentence of Severance*, only after the target has already been forced to admit his own instability.
@@ -205,7 +205,7 @@ Seven great lines of the Moto, expressing one inheritance in seven recognizable 
 
 If this record is read by a child of my blood, let him understand me clearly.
 
-Do not pursue Hataraki because it looks grand. Pursue it because reality is always in need of correct labour.
+Do not pursue Hataraki because it looks grand. Pursue it because reality is always in need of correct labor.
 > See before you act.
 >
 > Name before you sever.

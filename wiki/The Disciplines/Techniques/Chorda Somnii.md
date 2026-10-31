@@ -68,7 +68,7 @@ Chorda Somnii is self-derived rather than a documented working countered from st
 
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): every arrangement of a system is a point in a space with no location, and the working acts on that space rather than the room, which is why it reaches past line of sight.
 
-**Terrain** · Limina is favoured by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains.
+**Terrain** · Limina is favored by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains.
 
 **Inherited failures** · Oneirion's projection error: the path is right in the dream-space and lands somewhere unintended when mapped back into the room.
 
@@ -112,7 +112,7 @@ Chorda Somnii is self-derived rather than a documented working countered from st
 
 **Tell** · The practitioner fixes their eyes on one person and a line of current runs from hand to target; afterwards nothing is left in the room, but the practitioner gets the order of the last minute wrong.
 
-**Limits** · One thread, one target, 500 m by sight or Essence-link, held gaze or lock, three turns, nothing without a dream underneath; it does nothing to flesh, armour or reach.
+**Limits** · One thread, one target, 500 m by sight or Essence-link, held gaze or lock, three turns, nothing without a dream underneath; it does nothing to flesh, armor or reach.
 
 **Fails against** · A broken line of sight; a Fate-keyed ward, which severs it by reading its shape; a Sleep Debt never paid under sustained pressure; minds trained to refuse the tempo; a construct or husk; crowds or Domains; numbers.
 

@@ -61,7 +61,7 @@ The splitting of Hobgoblin and Orc — core versus shard — is not understood a
 
 **Metaphysical Anchor** · Essence, Physical and Resonant — **kinetic force, not light**
 
-Every physical feature they possess is a direct record of the force that made them: bone density three times a human's baseline, interlaced with microscopic mineral deposits; skin in metallic grey, slate-green, or russet-brown, marked with **Asteroidal Scars** that track the original fault lines of the asteroid itself. Their eyes have no traditional pupils — a **Heat-Signature glow**, molten iron or burning coal, that intensifies when they draw on Essence. Their voices are tectonic, carrying sub-bass frequencies **that physically vibrate the iron content of those standing nearby.**
+Every physical feature they possess is a direct record of the force that made them: bone density three times a human's baseline, interlaced with microscopic mineral deposits; skin in metallic gray, slate-green, or russet-brown, marked with **Asteroidal Scars** that track the original fault lines of the asteroid itself. Their eyes have no traditional pupils — a **Heat-Signature glow**, molten iron or burning coal, that intensifies when they draw on Essence. Their voices are tectonic, carrying sub-bass frequencies **that physically vibrate the iron content of those standing nearby.**
 
 They stand between 6'6" and 7'4". Coarse black hair kept in topknots or ritual braids weighted with lead or iron rings — each ring, in traditional practice, **representing a weight earned rather than a trophy taken.**
 
@@ -121,7 +121,7 @@ Not a separate people so much as **an Orc lineage whose Stone-Blood has been tur
 
 They are not shards. **They are the part that absorbed the full pressure of impact and chose cohesion over dispersal.** A single Crimson Order soldier is a sturdy anchor. A formation of them creates a **Phalanx of the Soul**, a Resonance Lattice nearly impenetrable to chaotic Aether.
 
-6'8" to 7'6", rigid upright posture, symmetrical athletic skeleton reinforced by the same asteroidal deposits found in Orcs **though arranged with far greater geometric precision.** Skin deep uniform red or burnt ochre, bearing **Legion Etchings** — perfectly straight bioluminescent lines in steady gold or bronze recording rank, unit, and earned designation. Eyes polished brass or iron with mechanical intensity. **In formation, their pupils go rectangular:** a Command Glyph configuration overlaying tactical data across their field of vision.
+6'8" to 7'6", rigid upright posture, symmetrical athletic skeleton reinforced by the same asteroidal deposits found in Orcs **though arranged with far greater geometric precision.** Skin deep uniform red or burned ochre, bearing **Legion Etchings** — perfectly straight bioluminescent lines in steady gold or bronze recording rank, unit, and earned designation. Eyes polished brass or iron with mechanical intensity. **In formation, their pupils go rectangular:** a Command Glyph configuration overlaying tactical data across their field of vision.
 > **The Vow of Silence** · A rite of passage from Stage I through Stage VI designed to prevent Trait corruption through emotional interference. **The Vow is not metaphor for the Crimson Order. It is load-bearing.** Breaking it triggers immediate Aetheric collapse.
 >
 > **The Engraving** · During stage transitions, new oaths are literally carved into the Soul Crystal, making their laws a physical part of their being. **A Hobgoblin who swears an oath has not made a promise. They have made an anatomical fact.**
@@ -245,7 +245,7 @@ The tension that structures Za'tarch's politics is **not between lineages. It is
 ### Key residents
 
 - ****Gorrum Ashentusk** — Elder, Ironblood, structural authority**
-  Six-foot-seven. The evidence of enormous former size is still present in his skeleton — vast shelf of shoulders, neck like quarried stone, hands that could palm a skull. **Age has not made him small; it has compressed him the way pressure compresses coal.** Skin the grey-green of old slate, mapped with Asteroidal Scars running jaw to collarbone to the backs of both forearms. Molten-iron eyes, heat-glow dim now but steady.
+  Six-foot-seven. The evidence of enormous former size is still present in his skeleton — vast shelf of shoulders, neck like quarried stone, hands that could palm a skull. **Age has not made him small; it has compressed him the way pressure compresses coal.** Skin the gray-green of old slate, mapped with Asteroidal Scars running jaw to collarbone to the backs of both forearms. Molten-iron eyes, heat-glow dim now but steady.
 
   He wears nothing ceremonial — roughspun trousers, sleeveless cured-hide vest, two iron rings braided into a single rope of coarse black hair down his spine. **One ring was his father's. He does not say which.**
 

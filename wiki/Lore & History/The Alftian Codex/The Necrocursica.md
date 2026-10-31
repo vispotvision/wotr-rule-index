@@ -140,19 +140,19 @@ Every record in the ground spends as it is read. The archivists below the gate l
 
 ## Chapter the Third · On the Tria Prima of the Persistent Dead
 
-Furveus reads the Tria Prima onto the living Crystal: Sulphur to the Core, Salt to the Shell, Mercury to the Attraction Layer. The reading is his. It is sound, and it is the one the trade now teaches. For the dead I use a modified reading, and I say so here so that nobody takes it for his.
+Furveus reads the Tria Prima onto the living Crystal: Sulfur to the Core, Salt to the Shell, Mercury to the Attraction Layer. The reading is his. It is sound, and it is the one the trade now teaches. For the dead I use a modified reading, and I say so here so that nobody takes it for his.
 
-In my reading Sulphur is the Volitional Trace, the part that points. Salt is the Corporeal Residue with the Aetheric Shell joined to it, the part that is fixed and can be weighed. Mercury is the Noospheric Echo, the part that goes between, carrying habit and voice from the dead to whoever stands near. The reading is useful only for the dead, and only inside the window. Outside it, use his.
+In my reading Sulfur is the Volitional Trace, the part that points. Salt is the Corporeal Residue with the Aetheric Shell joined to it, the part that is fixed and can be weighed. Mercury is the Noospheric Echo, the part that goes between, carrying habit and voice from the dead to whoever stands near. The reading is useful only for the dead, and only inside the window. Outside it, use his.
 
 When all three are present in one body, with a Shell still sounding, and the site cannot take the residue, the Crossing stalls on its own. Sealed ground does it. So does a field already saturated past what its Wellspring can receive. The result is a revenant.
 
-A revenant walks because the body still carries Salt enough to move, Mercury enough to repeat, and Sulphur enough to point it. It has habits and a direction, and nothing that weighs them. A household that has lost a man and sees him cross the yard at the hour he always crossed it will swear on the hearth that it thinks. Let them swear. Do not write it down.
+A revenant walks because the body still carries Salt enough to move, Mercury enough to repeat, and Sulfur enough to point it. It has habits and a direction, and nothing that weighs them. A household that has lost a man and sees him cross the yard at the hour he always crossed it will swear on the hearth that it thinks. Let them swear. Do not write it down.
 
 A revenant fades when the diffusion completes. Nobody needs to kill it. The counter is to move the body off the ground that will not take it, or to ground its charge with a ring of Stillgate Ash, which the Index sells at the Journeyman gate. Whoever stands at the ring pays, since living Essence at the ring bleeds into the ash along with the dead's.
 
 Villages that know the old remedies pack their dead in snow, or carry them off the family's ground to a cold room nobody sleeps in. They are right, and the body does not care why.
 
-Keep the three apart in the mind even when they lie together on the slab. A practitioner who reads the Sulphur and calls it the person has begun one of the seven failures of the fifth chapter. So has one who reads the Mercury and calls it the person.
+Keep the three apart in the mind even when they lie together on the slab. A practitioner who reads the Sulfur and calls it the person has begun one of the seven failures of the fifth chapter. So has one who reads the Mercury and calls it the person.
 
 ## Chapter the Fourth · Glyphic Syntax and the Mortalis Categories
 
@@ -188,7 +188,7 @@ The work is slow and dull and nobody thanks the man who does it. A battlefield g
 
 **Cost.** A once-only share of reserve for any standing ring, paid by whoever lays it. Waste heat. A tick on the Drift Scale for every operator inside the Boundary. Medicine steadies Shells and heals bodies. No Draft refills a reserve, and a practitioner who reaches for one after a containment has already misjudged the price of it.
 
-**Tell.** The operator comes off it grey at the mouth and cold at the fingers, and the room is quieter than a room should be.
+**Tell.** The operator comes off it gray at the mouth and cold at the fingers, and the room is quieter than a room should be.
 
 **Counter.** Stillgate Ash, and withdrawal. A containment that is failing is not saved by the man inside it staying longer. Bring him out, change the ring, and send in the other.
 
@@ -260,7 +260,7 @@ The cases below are documented. Names are altered where families asked, and mech
 
 Each is given by cause, product, marker and resolution. Four fail in the working: the Mirror Trace, the Worn Habit, the Incomplete Sealing and the Open Shell. The Averted Regard and the False Vocation fail in the one who works. The Misnaming fails in everyone he teaches.
 
-Where one of the stages of the Work, turned against itself, drives a case, the stage is named as Kwon Mu-jin's Codex names it. Calcination and distillation, as the bench practises them, are operations only, and the currents that stand behind those two stages are Cinerion and Sublimare. Sublimare's own operation is fractional distillation, a liquor parted by the order in which its fractions rise. The separation and the cleanse below are Sublimare-aligned.
+Where one of the stages of the Work, turned against itself, drives a case, the stage is named as Kwon Mu-jin's Codex names it. Calcination and distillation, as the bench practices them, are operations only, and the currents that stand behind those two stages are Cinerion and Sublimare. Sublimare's own operation is fractional distillation, a liquor parted by the order in which its fractions rise. The separation and the cleanse below are Sublimare-aligned.
 
 ### The Mirror Trace
 
@@ -330,7 +330,7 @@ The case I saw myself was a body poured in haste to beat the ninth day, and seal
 
 I put my own case under this head, because it belongs nowhere else.
 
-My father kept the retting ponds of our parish. The parish sank its pulled flax in them under stones and sods and let the water rot the gum from the fibre, and his whole craft was the hour he lifted it. Early, and the fibre held to the core. Late, and it was tow. He taught me the test: draw a stalk, snap it across, and see whether the fibre slips. One autumn I weighted a bundle into the far corner of the last pond, where he did not go, and left it there past the hour to see what the rot did next. He found it before the frost. It had gone grey and soft and kept the shape of a bundle, and it came apart in his hands. He burned it on the bank.
+My father kept the retting ponds of our parish. The parish sank its pulled flax in them under stones and sods and let the water rot the gum from the fiber, and his whole craft was the hour he lifted it. Early, and the fiber held to the core. Late, and it was tow. He taught me the test: draw a stalk, snap it across, and see whether the fiber slips. One autumn I weighted a bundle into the far corner of the last pond, where he did not go, and left it there past the hour to see what the rot did next. He found it before the frost. It had gone gray and soft and kept the shape of a bundle, and it came apart in his hands. He burned it on the bank.
 
 I have wanted to know what the rot does next on every day since.
 
@@ -401,7 +401,7 @@ It is the defensive counter to a failing seal. Use it when a Category Three body
 
 **Second, the Boundary.** Find the working's true reach. Pace from the body outward until the gauge falls back to the room's own reading, mark the pace, and walk the circle at that distance. Draw the Boundary there in Gravetide Ink, mixed on bone where bone is to hand, since the slab is the surface the ink answers to. Write the term as the formula writes it: one day and a night, or until sealed. A Boundary drawn short of the true reach contains nothing. A loose Boundary clause runs on after the working it was meant to end.
 
-**Third, the ash.** Lay a ring of Stillgate Ash inside the Boundary, close about the body. The ash grounds the body's charge and lets it finish its passage. Living Essence at the ring bleeds into it too, so whoever stands at the ring pays in his own Shell. He will come off it grey at the mouth and cold at the fingers. Change who stands at the ring before either of you has stood there long.
+**Third, the ash.** Lay a ring of Stillgate Ash inside the Boundary, close about the body. The ash grounds the body's charge and lets it finish its passage. Living Essence at the ring bleeds into it too, so whoever stands at the ring pays in his own Shell. He will come off it gray at the mouth and cold at the fingers. Change who stands at the ring before either of you has stood there long.
 
 **Fourth, withdrawal.** Withdrawal is a step of the procedure. Take it the moment the one outside contradicts the one inside twice running, and take it without discussion. Come up, mark the perimeter from outside, and begin again at the first step.
 
@@ -415,7 +415,7 @@ It is the defensive counter to a failing seal. Use it when a Category Three body
 
 The one inside reported a single direction in it. The one outside contradicted him: two. The contradiction was the diagnosis. The Trace had been delivered at the pour, and the second direction was the room's own, written into the open rune over the turns since.
 
-They withdrew once, and came back. They found the rune in the floorboards under its left heel, broke it, laid the seal in Gravemark of full strength, and closed it on Return. It ended in the fourth division of the night, in one breath. The one who had stood at the ring was grey for a season after, and he did not stand at another.
+They withdrew once, and came back. They found the rune in the floorboards under its left heel, broke it, laid the seal in Gravemark of full strength, and closed it on Return. It ended in the fourth division of the night, in one breath. The one who had stood at the ring was gray for a season after, and he did not stand at another.
 
 ## Appendix II · On the Necrocursica and the Alftian Codex
 

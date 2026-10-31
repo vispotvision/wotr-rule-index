@@ -12,7 +12,7 @@ A Soulbound Prosthesis and Glyph Tool, capable of stabilizing as a Lesser Domain
 
 ### Physical account
 
-A forearm and hand prosthesis: plausible mass 2.4 kg (star-salt bronze runs lighter than it looks), 31 cm wrist to fingertip, point of balance at the wrist cuff where the orbital rings sit, which is why the arm feels heaviest exactly where it hinges. It is not built to take a hit; the void-window palm is its most fragile part, and in a straight exchange with a weapon it loses to anything heavier than a dagger, its real defence being the Orbitals effect below rather than its own plate. Against armour, its own strikes land as blunt trauma: they bruise through padded and mail, jar a man inside brigandine, and do nothing to proofed plate beyond making it ring.
+A forearm and hand prosthesis: plausible mass 2.4 kg (star-salt bronze runs lighter than it looks), 31 cm wrist to fingertip, point of balance at the wrist cuff where the orbital rings sit, which is why the arm feels heaviest exactly where it hinges. It is not built to take a hit; the void-window palm is its most fragile part, and in a straight exchange with a weapon it loses to anything heavier than a dagger, its real defense being the Orbitals effect below rather than its own plate. Against armor, its own strikes land as blunt trauma: they bruise through padded and mail, jar a man inside brigandine, and do nothing to proofed plate beyond making it ring.
 
 ### Operation line
 

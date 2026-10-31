@@ -94,11 +94,11 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 ### Mechanism
 
-**Glyph** · Silence laid across Boundary: Silence is the whole content, Boundary fixes the fifteen-metre edge.
+**Glyph** · Silence laid across Boundary: Silence is the whole content, Boundary fixes the fifteen-meter edge.
 
-**Boundary** · The noise floor in the heat, scent and Essence-trace bands inside a fifteen-metre hemisphere; not the practitioner's emissions.
+**Boundary** · The noise floor in the heat, scent and Essence-trace bands inside a fifteen-meter hemisphere; not the practitioner's emissions.
 
-**Effect** · A fifteen-metre cold front on the ground and the sudden loss of a read: anything hunting by scent, heat or Essence finds the signal about halved. The mist itself is plainly visible, an arrow to anyone with a lantern.
+**Effect** · A fifteen-meter cold front on the ground and the sudden loss of a read: anything hunting by scent, heat or Essence finds the signal about halved. The mist itself is plainly visible, an arrow to anyone with a lantern.
 
 **Hold** · Below Refraction, breath is the anchor: the inhale and the held exhale.
 
@@ -128,9 +128,9 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 ### Counterplay
 
-**Tell** · A cold cloud fifteen metres across, hugging the ground where the air was clear; the practitioner is inside it. Afterwards, rime and air that smells of nothing.
+**Tell** · A cold cloud fifteen meters across, hugging the ground where the air was clear; the practitioner is inside it. Afterwards, rime and air that smells of nothing.
 
-**Limits** · Needs cold air, fifteen metres, sight unaffected, held through the exhale, overwhelmed by a warm or radiant Domain, Essence-trace suppression capped at B on the Body Path; it conceals and stops nothing.
+**Limits** · Needs cold air, fifteen meters, sight unaffected, held through the exhale, overwhelmed by a warm or radiant Domain, Essence-trace suppression capped at B on the Body Path; it conceals and stops nothing.
 
 **Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
 

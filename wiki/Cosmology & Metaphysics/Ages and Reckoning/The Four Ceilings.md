@@ -21,7 +21,7 @@ What changed after the Codex was sealed was not that anyone became cleverer. Fou
 - ***A note on the revision***
   The first edition was written against the received chronology and carried its errors, chiefly the stratigraphic figures now withdrawn and the two polities the Concordance found no independent attestation for. This edition compresses accordingly. Nothing in the physical account required amendment. The ceilings fell where they fell, in the order they fell, for the reasons given. Only the distances between them have changed, and they have changed by a factor near forty.
 
-  The Guild notes that a history of engineering survives a chronological correction better than a history of dynasties does, and considers this a point in the method's favour.
+  The Guild notes that a history of engineering survives a chronological correction better than a history of dynasties does, and considers this a point in the method's favor.
 
 ---
 
@@ -89,13 +89,13 @@ So they built cities on Wellsprings. Not near them. On them. The excavated sites
 >
 > A body is the only Essence conduit that walks. Lacking any means of sending Essence anywhere, they moved practitioners instead, taken from wherever they were found, hauled to the works that needed them, and held there for as long as they lasted. Surviving administrative tablets record throughput, loss, replacement rate, and maintenance cost in the same columns as grain.
 >
-> The Accord's records call this enslaved Wellspring labour and treat it as a moral fact. It was a technical one as well, and the two readings do not compete for the same ground.
+> The Accord's records call this enslaved Wellspring labor and treat it as a moral fact. It was a technical one as well, and the two readings do not compete for the same ground.
 
 ### The Coil
 
 The most important instrument in the modern economy was built to sort people, and its inventors would be bewildered by what it became.
 
-Hauling a practitioner three hundred leagues is expensive, and hauling one who turns out to be useless is a loss the ledger notices within a season. So somebody wound a conductor into a ring and found that it answers measurably to the Essence character of whatever is set inside it. The original was crude and slow and gave a single distinction between *worth the journey* and *not worth it*. It was also the first instrument in history to produce a number where there had previously been a judgement.
+Hauling a practitioner three hundred leagues is expensive, and hauling one who turns out to be useless is a loss the ledger notices within a season. So somebody wound a conductor into a ring and found that it answers measurably to the Essence character of whatever is set inside it. The original was crude and slow and gave a single distinction between *worth the journey* and *not worth it*. It was also the first instrument in history to produce a number where there had previously been a judgment.
 
 Every holding coil in every Accord assay house is a refinement of that ring. The trade in Holding-grade material, which is the trade the modern world runs on, descends without a break from an instrument built to price a person by the field they could stand in. *The Guild has kept this in the plain register over the Research Division's written objection.*
 
@@ -103,7 +103,7 @@ Every holding coil in every Accord assay house is a refinement of that ring. The
 
 **Metals** · Native and worked cold or hot-hammered. Native copper, meteoric iron, gold from placer bars. No smelting worth the name, or none that left slag the Archives has found. A people who hammer native metal are limited to what the ground hands them finished, which is very little.
 
-**Stone** · Precision-fitted without mortar, which is why fitted stonework still reads across the four quarters as a marker of age or of something not human. The technique requires enormous labour and no equipment, which is the correct signature for a civilisation with unlimited Essence and no machines.
+**Stone** · Precision-fitted without mortar, which is why fitted stonework still reads across the four quarters as a marker of age or of something not human. The technique requires enormous labor and no equipment, which is the correct signature for a civilisation with unlimited Essence and no machines.
 
 **Substrate resonance** · Their one genuine and lasting discovery.
 
@@ -133,7 +133,7 @@ The Archives' honest position is that the Antediluvians could produce effects at
 
 Nothing was built in the first two centuries of this era that would impress a Voyager-Era engineer, and everything the Accord built rested on it.
 
-The Reconstruction invented writing Essence down. Parunic syntax was formalised out of whatever the Antediluvians had been doing by feel, glyphs were assigned stable meanings, and the combinations were catalogued. **Kessian Yorul** designed the first Living Runes, inscriptions carved into bone that drew on the bearer's own circulation. **Mnirah Valein** codified the Twelve Stages of Spirit Infusion and, in doing so, established that capability could be graded, taught, and required before permission was granted.
+The Reconstruction invented writing Essence down. Parunic syntax was formalised out of whatever the Antediluvians had been doing by feel, glyphs were assigned stable meanings, and the combinations were catalogd. **Kessian Yorul** designed the first Living Runes, inscriptions carved into bone that drew on the bearer's own circulation. **Mnirah Valein** codified the Twelve Stages of Spirit Infusion and, in doing so, established that capability could be graded, taught, and required before permission was granted.
 
 The engineering consequence is the largest single break in this history and it is easy to miss because it produced no machine. Before notation, an effect required a practitioner present. After notation, an effect could be laid into a substrate and left there, and it would keep working when nobody was watching.
 
@@ -291,8 +291,8 @@ Five ceilings and the reasons they fell are given above. **There is a sixth and 
 
 **Attributable ordnance** · Powder is old, cheap and universal, and none of that is in dispute. What the Accord cannot do is **attribute** a shot. A working carries a signature the coil can read; a ball carries nothing but a hole.
 
-So the settlement is jurisdictional rather than technical. **Crowns field powder and the Accord does not.** The levy, the musket, the proofed harness and the proof-mark belong to the Crown, which holds the right to compel a person to fight. **An Accord member fielding chemical ordnance under Accord colours is fielding a weapon outside the enforcement model**, and no member has yet judged that trade worth making.
-> *Which is why a practitioner carrying a pistol is making a statement, and everyone in the room reads it as one.* **Shot is chemically cheap and a working is not**, so the economics never favoured the practitioner and never did, and armour survived gunpowder for that reason rather than in spite of it.
+So the settlement is jurisdictional rather than technical. **Crowns field powder and the Accord does not.** The levy, the musket, the proofed harness and the proof-mark belong to the Crown, which holds the right to compel a person to fight. **An Accord member fielding chemical ordnance under Accord colors is fielding a weapon outside the enforcement model**, and no member has yet judged that trade worth making.
+> *Which is why a practitioner carrying a pistol is making a statement, and everyone in the room reads it as one.* **Shot is chemically cheap and a working is not**, so the economics never favored the practitioner and never did, and armor survived gunpowder for that reason rather than in spite of it.
 *Onceglass sits in the same position from the opposite direction: it delivers force the Accord cannot trace back to an Engraver.* **The two are converging on one legal cliff and the Accord is arguing about only one of them.**
 
 ---

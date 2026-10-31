@@ -38,7 +38,7 @@ Outline row, verbatim:
 
 ### Hooks this chapter must plant
 
-- **H07-warm-hands** (planted ch2, due ch60, status planned): Malphas's hands keep a living man's colour in a four-degree coldhouse. Paid in the hearing gallery, at the verdict, as a detail Wystan notices and never explains; never recognition. Keywords: hands, warm, cold, gallery.
+- **H07-warm-hands** (planted ch2, due ch60, status planned): Malphas's hands keep a living man's color in a four-degree coldhouse. Paid in the hearing gallery, at the verdict, as a detail Wystan notices and never explains; never recognition. Keywords: hands, warm, cold, gallery.
 - **H08-concealed-contraction** (planted ch2, due ch6, status planned): Nuvalik got contraction out of the fourth hind's shoulder twice and did not report it; Malphas 'will discuss with her separately'. Paid when the discussion happens. Keywords: contraction, shoulder, separately, twice.
 - **H09-nuvaliks-three-names** (planted ch2, due ch55, status planned): Nuvalik carries a name three people carried before her and thinks she has spent all three on this work. Paid when she sets down the name she wears in the cell and leaves; she does not inform. Keywords: name, three, set down, leaves.
 - **H10-vesks-grafts** (planted ch2, due ch46, status planned): Vesk's grafted fingers, the ridged yellow nails that will not stop growing; the village that put stones on its graves. Paid when he dies of his own formulation and Nuvalik lays stones on his walking body. Keywords: grafts, nails, stones, grave.
@@ -82,7 +82,7 @@ None (the outline row `pays` is empty).
 
 Note: the sources give no Concord greeting, no everyday swearing and no idiom for the items marked (d); each is derived in one step from an attested fact (the live main, the witness clause, the cased weight, the silver token, the freeman by redemption, the tongue nobody dreams in) and chosen as the plainest option. Everything else is attested in the wiki mirror.
 
-Chartered, metered and entered. A people who did not conquer anybody and are the only layer that works in every court at once, and charge for it. **Food:** the assize loaf (weight fixed against the price of grain; a short loaf is the commonest charge on any market roll), white array-ground bread and dark hand-ground bread, and which one is on the table says what the household could afford, pulse porridge, ale at the fixed price assayed by sworn tasters, the salt bar (money that can be eaten), grounding tea for anyone who has sat too long near an Echo. Meat is a feast-day matter. **Greeting:** title before name, without exception, at any formal occasion (Prime Warden, Upper Bailiff, Master); the silver token shown at a door before the name is given (d); between neighbours the diagnostic is "Still on the main?" (d), and the answer tells you the district's pressure. **Oaths:** "Ita spondeo," thus I pledge, the only first person the chancery permits; "before witnesses" as the everyday emphatic (d); "under the seal"; Measurewrights swear the Hexagonal Oath; Enforcement and Strategic personnel carry three Oaths cut into their bones at initiation, "We see corruption, not race, creed, or kin," "Our lives are weights upon the scale," "We burn only when law demands." **Insults:** "slag," "a small button" (less to him than his reputation), "a blank" (no craft), "corded" (unreliable), "cocked" (cut off, out of the trade), "a dead leg" (on the books, does no work), "a mouth" (a speaker), "potboy" (a Drafter), "assayed" (found out), "cased" (looks solid, rings dull; d), "bought his freedom" (a freeman by redemption; d). **Time:** the Guild hour, fourteen equal hours of sixty counts pushed down the wire from Stannvaard; the turn of fourteen days ("within one turn" for any registration); Auren's day for the dead, Veyra's for markets, Irath's for musters, a court sitting on Uurgath's has chosen it; the quarterly inspection of the gauge-housing; seven years for an indenture; the Lantern's twelve years for a term of service; a man who has seen the Weight return twice is old; the Nameless day, on which nothing binds; maintenance between three and five in the morning; Year 715 of the Imperial Age, and nobody dreams in it. **The dead:** nine days above ground in the house, the sitting in shifts, and the sitting is the rite; the layer-out, who knows within the hour whether the Echo has gone; the parish roll; consecrated parish ground on Auren's day; "In registro relatum," the death entered; the excluded at the crossroads, without the roll; a death-house may not be cut for arrears; those who die in Accord service are sung each solstice, and a soldier who dies defending a Wellspring is not reclaimed. **Objects:** the meter on the wall by the door and the Board's seal on it; the standpipe, iron, waist-high, capped; the gauge-housing, brass, slate-backed, locked; the tundish; the stopcock and the cut plate; the inspector's seal press, gauge and book; the market inspector's small hammer; the silver rank token; the proof-mark, PROB EST; the strike-board; the bronze reach set into the wall at hand height; the split tally; the board in the hall with its green, blue, gold and obsidian wax; the nine-word wire; the letter of credit; the harness that cost two seasons' surplus. **Exchange:** draughts and the bill, monthly, to a chartered Board; the silver mark of twenty-four copper, and copper is the price of being alive; a letter of credit against a factor house; shares, not wages, on a Commission, with the bond posted and the losses on the subscribers; bottomry for a party without a patron; amercement set to the offender's means; fees for attestation; the entry in ink; mine scrip where the copper was melted; the tally between people who cannot read. **Proverbs, fixed wording:** "Balance before Dominion." "One weight, one measure, one reach, through all the land." "No one is measured in his own tongue." "What has been said stands said." "A clause improved is a clause void." "Where coin fades, Merit endures." "Merit spent is memory lost." "The Accord cannot hang you." "A melted coin does not testify." "A solid weight rings when struck." "Nobody dreams in Latin." (d) **Body:** the ear (the hum under a district, the dull note of a cased weight), the hands (ink and wax), sleep (children raised on a main sleep badly off it), the face at a door, which a wire-boy reads before he can read the wire.
+Chartered, metered and entered. A people who did not conquer anybody and are the only layer that works in every court at once, and charge for it. **Food:** the assize loaf (weight fixed against the price of grain; a short loaf is the commonest charge on any market roll), white array-ground bread and dark hand-ground bread, and which one is on the table says what the household could afford, pulse porridge, ale at the fixed price assayed by sworn tasters, the salt bar (money that can be eaten), grounding tea for anyone who has sat too long near an Echo. Meat is a feast-day matter. **Greeting:** title before name, without exception, at any formal occasion (Prime Warden, Upper Bailiff, Master); the silver token shown at a door before the name is given (d); between neighbors the diagnostic is "Still on the main?" (d), and the answer tells you the district's pressure. **Oaths:** "Ita spondeo," thus I pledge, the only first person the chancery permits; "before witnesses" as the everyday emphatic (d); "under the seal"; Measurewrights swear the Hexagonal Oath; Enforcement and Strategic personnel carry three Oaths cut into their bones at initiation, "We see corruption, not race, creed, or kin," "Our lives are weights upon the scale," "We burn only when law demands." **Insults:** "slag," "a small button" (less to him than his reputation), "a blank" (no craft), "corded" (unreliable), "cocked" (cut off, out of the trade), "a dead leg" (on the books, does no work), "a mouth" (a speaker), "potboy" (a Drafter), "assayed" (found out), "cased" (looks solid, rings dull; d), "bought his freedom" (a freeman by redemption; d). **Time:** the Guild hour, fourteen equal hours of sixty counts pushed down the wire from Stannvaard; the turn of fourteen days ("within one turn" for any registration); Auren's day for the dead, Veyra's for markets, Irath's for musters, a court sitting on Uurgath's has chosen it; the quarterly inspection of the gauge-housing; seven years for an indenture; the Lantern's twelve years for a term of service; a man who has seen the Weight return twice is old; the Nameless day, on which nothing binds; maintenance between three and five in the morning; Year 715 of the Imperial Age, and nobody dreams in it. **The dead:** nine days above ground in the house, the sitting in shifts, and the sitting is the rite; the layer-out, who knows within the hour whether the Echo has gone; the parish roll; consecrated parish ground on Auren's day; "In registro relatum," the death entered; the excluded at the crossroads, without the roll; a death-house may not be cut for arrears; those who die in Accord service are sung each solstice, and a soldier who dies defending a Wellspring is not reclaimed. **Objects:** the meter on the wall by the door and the Board's seal on it; the standpipe, iron, waist-high, capped; the gauge-housing, brass, slate-backed, locked; the tundish; the stopcock and the cut plate; the inspector's seal press, gauge and book; the market inspector's small hammer; the silver rank token; the proof-mark, PROB EST; the strike-board; the bronze reach set into the wall at hand height; the split tally; the board in the hall with its green, blue, gold and obsidian wax; the nine-word wire; the letter of credit; the harness that cost two seasons' surplus. **Exchange:** draughts and the bill, monthly, to a chartered Board; the silver mark of twenty-four copper, and copper is the price of being alive; a letter of credit against a factor house; shares, not wages, on a Commission, with the bond posted and the losses on the subscribers; bottomry for a party without a patron; amercement set to the offender's means; fees for attestation; the entry in ink; mine scrip where the copper was melted; the tally between people who cannot read. **Proverbs, fixed wording:** "Balance before Dominion." "One weight, one measure, one reach, through all the land." "No one is measured in his own tongue." "What has been said stands said." "A clause improved is a clause void." "Where coin fades, Merit endures." "Merit spent is memory lost." "The Accord cannot hang you." "A melted coin does not testify." "A solid weight rings when struck." "Nobody dreams in Latin." (d) **Body:** the ear (the hum under a district, the dull note of a cased weight), the hands (ink and wax), sleep (children raised on a main sleep badly off it), the face at a door, which a wire-boy reads before he can read the wire.
 
 **Recurrence, two minimum per Accord scene:** the hum, and the moment it stops; the meter, its seal and the bill; the small hammer and the dull note of a cased weight; the nine-word wire; the roll and the entry in ink.
 
@@ -111,7 +111,7 @@ R36-1-YASOSHIMA_SINK_YUNO_SECRET  [Yasoshima Essence Sink / What House Yuno Decl
   Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.
 
 R35-1-NARRATION_DISTANCE_BANDS  [Narration Distances (Psychic Distance by POV) The three registers]  live
-  Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
+  Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behavior or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
 
 R35-2-NARRATION_DISTANCE_ASSIGNMENTS  [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]  live
   Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
@@ -204,7 +204,7 @@ R19-3-PROSODY_VERBATIM  [Pack Nineteen §3]  live
   Capitals, stretched vowels, ellipses and repeated punctuation are notation for volume, duration, breath and intensity, and must be reproduced exactly rather than converted into narrative description.
 
 R19-4-REALISTIC_SPEECH  [Pack Nineteen §4]  live
-  Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavour.
+  Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavor.
 
 R19-5-COMPOSURE_BAN  [Pack Nineteen §5]  live
   Bars antithesis and parallelism, three-part lists, long subordinate clauses in shouted speech, and perfect syntax from established inarticulate/young/exhausted/foreign characters, and bars every character in a scene from constructing sentences at the same length.
@@ -237,7 +237,7 @@ R18-5-ALCHEMY_DOCTRINE_BINDING  [Pack Eighteen §5]  live
   Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
 
 R18-5-ALCHEMY_SOURCE_ORDER  [Pack Eighteen §5]  live
-  Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
+  Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behavior), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
 
 R18-6-ACCESS_METHOD  [Pack Eighteen §6]  live
   The Master Codex is accessed read-only via openpyxl from the actual spreadsheet file; the sheet is the authority, not Natalie's recollection of it.
@@ -332,7 +332,7 @@ R15-1-DICTION_PALETTE  [Pack Fifteen §1]  live
 R15-1-ELEVATED_VOCAB_OPTIONAL  [Pack Fifteen §1]  live
   The Elevated Vocabulary Standard stops being a mandate; its words stay available but nobody counts them.
 
-R15-1-LICENCE  [Pack Fifteen §1]  live
+R15-1-LICENSE  [Pack Fifteen §1]  live
   Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 
 R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK  [Pack Fifteen §1]  live
@@ -342,7 +342,7 @@ R15-1-READS_MODERN_STRUCK  [Pack Fifteen §1]  live
   Natalie no longer raises, fixes, or notes "reads modern" as a critique on principle.
 
 R15-1-REGISTER_BY_CULTURE  [Pack Fifteen §1]  live
-  Per-culture narration registers become optional flavour rather than law.
+  Per-culture narration registers become optional flavor rather than law.
 
 R15-1-TECHNICAL_REGISTER_SURVIVES  [Pack Fifteen §1]  live
   Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
@@ -357,13 +357,13 @@ R15-2-ONE_TEST  [Pack Fifteen §2]  live
   A word is flagged only if it punctures belief in the world, and the flag goes in author notes with the draft left untouched.
 
 R14-3-STATS_DECIDE_TABLE  [Pack Fourteen §3]  live
-  Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
+  Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armor, whether a read lands, duration and pushing a working, draw cost, wound behavior, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
 
 R14-3-TRACEABILITY  [Pack Fourteen §3]  live
   Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
 
 R14-4-EFFECTS_CHANNEL  [Pack Fourteen §4]  live
-  Every stat that decided an outcome must show on the page as behaviour and physics; grade letters and stat names never appear in narration, only their consequences.
+  Every stat that decided an outcome must show on the page as behavior and physics; grade letters and stat names never appear in narration, only their consequences.
 
 R14-6-CHECK28  [Pack Fourteen §6]  live
   Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
@@ -438,7 +438,7 @@ R13-9-COMBAT_GUIDE_EDIT  [Pack Thirteen §9]  live
   The Combat Craft Guide (third edition) has its §4 rewritten off this pack's §4, and its §1 extended per §6; named-character guard and cut assignments run in the same edition.
 
 R13-9-ITEM_GUIDE_WEAPON_ENTRY  [Pack Thirteen §9]  live
-  Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armour tier it beats and fails against.
+  Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armor tier it beats and fails against.
 
 R13-9-NOTION_PHYSICS_LINE  [Pack Thirteen §9]  live
   The Notion Magical Categories page and Lexicon page each gain a "Physics Domain and real phenomenon" line per entry, giving §3 a wiki home.
@@ -528,7 +528,7 @@ R12-6-RULES_AS_RULES  [Pack Twelve §6]  live
   The Mystic Register states consequences without offering mechanism (the canonical example: do not carry Object Wellsprings into Site Wellsprings, no mechanism given, a stated consequence, the Guild has buried those who tested it); more sentences are written in that shape.
 
 R12-7-AI_TELLS_RETAINED  [Pack Twelve §7]  live
-  The Ladder ban, the Gloss budget of zero, local burstiness, the reification budget, and every AI tell in the checklist survive unchanged; explaining a mechanism is no licence to write badly.
+  The Ladder ban, the Gloss budget of zero, local burstiness, the reification budget, and every AI tell in the checklist survive unchanged; explaining a mechanism is no license to write badly.
 
 R12-7-APPARATUS_CAP_REPLACED  [Pack Twelve §7]  live
   Pack Six's Apparatus Rule one-read-per-scene cap is struck; a faculty may now read as often as the scene needs, replaced by a cost — a read occupies attention, and the scene shows what the reading cost the reader in tempo.
@@ -552,7 +552,7 @@ R11-1-REFERENCE_TRIANGLE  [Pack Eleven §1]  live
   Warhammer 40,000 for bureaucratic scale, late-Victorian industrial imperialism for material texture and class geography, and manhwa for visual power-display grammar — the last now widened from Pack Nine's four beat types to the general visual register. References are not to be imitated directly.
 
 R11-2-APPARATUS_INHERITS_PHYSICS  [Pack Eleven §2]  live
-  A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.
+  A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favored condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.
 
 R11-2-HYDROLOGY_MODEL  [Pack Eleven §2]  live
   The technological age runs on Wellsprings as standing currents that pool where substrate/competing-currents/time allow, per The Mechanism of the Sixty; nobody built an engine, they sank a well.
@@ -564,7 +564,7 @@ R11-3-AMMO_TIERS  [Pack Eleven §3]  live
   Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
 
 R11-3-ARMOUR_STOPS_SHRINKING  [Pack Eleven §3]  live
-  Shot is chemically cheap and does not care about a soul; a working is not shot, so mass and material still buy a fraction of a second against a Wellspring-carried strike, which is why armour retreats to the cuirass-and-helm silhouette and stops there.
+  Shot is chemically cheap and does not care about a soul; a working is not shot, so mass and material still buy a fraction of a second against a Wellspring-carried strike, which is why armor retreats to the cuirass-and-helm silhouette and stops there.
 
 R11-3-BALLISTICS_RULING  [Pack Eleven §3]  live
   Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.
@@ -576,13 +576,13 @@ R11-3-FIREARM_PROSE_LAW  [Pack Eleven §3]  live
   The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
 
 R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED  [Pack Eleven §3]  live
-  Gunpowder exists, magical weapons exist, and armour is not dead.
+  Gunpowder exists, magical weapons exist, and armor is not dead.
 
 R11-4-DEPTH_AXIS  [Pack Eleven §4]  live
   A Well is not a hole in the ground; it is a place where the surface (Physical) has thinned enough that the middle layer (Soul) reaches through toward Fate, the deepest plane.
 
 R11-4-DESCENT_PROSE_LAW  [Pack Eleven §4]  live
-  A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
+  A descent's sensory opening favors the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
 
 R11-4-MAGNITUDE_AXIS  [Pack Eleven §4]  live
   Magnitude runs Ambient through Core with attested rungs (Ambient Saturation, Active Concentration, Veil-Thin, Core); intermediate rungs must be pulled from source before use and never invented.
@@ -693,7 +693,7 @@ R6-12-TELL_BANK_SURVIVING  [Pack Six §12]  live
   Added to the AI tells checklist and retained in full per Pack Twelve §7 — the Ladder in all forms, the apparatus as grammatical subject, scientific vocabulary explaining an ambient sensory impression, and fresh texture invented where Inventory texture exists.
 
 R6-2-CHEMISTRY_BAN  [Pack Six PART I.2]  live
-  Real-world scientific vocabulary explaining a sensory impression is barred unless the POV is a practitioner of that specific craft actively diagnosing; the Mechanism Standard governs technique trigger points and nothing else, never a licence for ambient exposition.
+  Real-world scientific vocabulary explaining a sensory impression is barred unless the POV is a practitioner of that specific craft actively diagnosing; the Mechanism Standard governs technique trigger points and nothing else, never a license for ambient exposition.
 
 R6-2-FACULTY_NEVER_SUBJECT  [Pack Six PART I.2]  live
   A named faculty is never the grammatical subject of a perception verb; the character perceives, the apparatus does not act on its own behalf.
@@ -708,7 +708,7 @@ R6-4-MISREADING_BUDGET  [Pack Six PART I.4]  live
   At least one POV inference per scene is wrong and is not corrected on the page; the misreading must be reasonable, consistent with what the POV knows, and left standing for the reader to find later.
 
 R6-5-MATERIAL_DENSITY_SURVIVES  [Pack Six PART I.5]  live
-  Material density (rust, weathering, wear, labour) stays described in full per the Directive; the distinction is that the world is described exhaustively but interpreted at zero — meaning and thematic weight are withheld.
+  Material density (rust, weathering, wear, labor) stays described in full per the Directive; the distinction is that the world is described exhaustively but interpreted at zero — meaning and thematic weight are withheld.
 
 R6-7-GOVERNING_RULE  [Pack Six PART II.7]  live
   Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
@@ -717,7 +717,7 @@ R6-9-RECURRENCE_RULE  [Pack Six PART II.9]  live
   Every scene draws texture from the Inventory before inventing anything; anything newly invented is entered into the Inventory the same session or it does not exist; each culture designates three-to-five high-frequency signature items on the Recurrence Ledger.
 
 R5-A-FLESH_CHANGES  [Pack Five A]  live
-  Prose register, humour, characterisation method, narration authority and tonal architecture derive from the Western tradition (Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality).
+  Prose register, humor, characterisation method, narration authority and tonal architecture derive from the Western tradition (Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality).
 
 R5-A-OPERATIVE_CONSEQUENCE  [Pack Five A]  live
   The system is author-facing and document-facing — it lives in the Codex, character sheets, in-world treatises and technical-reveal beats; it does not live in prose texture, narrator commentary, or character affect.
@@ -732,7 +732,7 @@ R5-B-FOIL_FUNCTION_SURVIVES  [Pack Five B]  live
   Deliberate moral and rhythmic contrast between paired characters (Merry/Pippin, Sam/Frodo, Tyrion/Bronn, Jaime/Brienne, Glokta/Severard) is Western-native and remains actively tracked.
 
 R5-B-MANHWA_DIRECTIVE_REPEALED  [Pack Five B]  live
-  Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
+  Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humor as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
 
 R5-C1-NARRATION_NEVER_WINKS  [Pack Five C.1]  live
   No line acknowledges that the reader knows better than the POV.
@@ -741,10 +741,10 @@ R5-C2-FLAT_DELIVERY  [Pack Five C.2]  live
   Section 1.2's saga restraint governs elegy: state the loss and move on, without raising the prose's voice.
 
 R5-D-HUMOUR_BARRED  [Pack Five D]  live
-  The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
+  The beat structure of setup, deadpan and reaction is barred; humor arrives inside dialogue and narration already in progress and never pauses the scene to land.
 
 R5-D-HUMOUR_PERMITTED  [Pack Five D]  live
-  Humour is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
+  Humor is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
 
 R5-E-ELEGIAC_REGISTER_ALLOWED  [Pack Five E]  live
   The elegiac register is available to scene narration because elegy in the saga mode reports a loss rather than judging it; Section C.2's flat-delivery rule is what keeps it on the correct side of the line.
@@ -864,7 +864,7 @@ R4-H2-EDWARD_LAMBERT_ASSIGNED  [Pack Four Still Open]  live
   Blade grammar; half-swording (Halbschwert — gripping partway up his own blade with the off hand for extra leverage and control on a thrust) up under the jaw; turns the point with the hip rather than the wrist because at fifty-three the wrist goes first; no exchanges, one finish.
 
 R3-7-COZBI_ASSIGNED  [Pack Three Amendment Seven]  live
-  Grammar Expenditure; signature move the Standing into the Ledger, not a bluff; answers plate with indifference; tells by crouching to examine rather than posturing, with speeded cadence signalling genuine alarm; status canonical, transcribed from the character card.
+  Grammar Expenditure; signature move the Standing into the Ledger, not a bluff; answers plate with indifference; tells by crouching to examine rather than posturing, with speeded cadence signaling genuine alarm; status canonical, transcribed from the character card.
 
 R3-7-COZBI_CRAFT_NOTE  [Pack Three Amendment Seven]  live
   An Expenditure fighter is boring to write badly and terrifying to write correctly; refuse the temptation to give him a spectacular exchange — the scene should feel like the opponent is winning, repeatedly, at increasing cost, until the arithmetic arrives.
@@ -882,7 +882,7 @@ R3-7-EXPENDITURE_TELL_AND_COUNTERPLAY  [Pack Three Amendment Seven]  live
   The tell is that the fighter is not looking at the opponent. Counterplay is reaching through the projection to the claims it carries (a Rescind-type working) or forcing a direct physical contest against the practitioner's own below-ceiling frame; both are documented as having worked once, neither is easy.
 
 R3-7-EXPENDITURE_VS_PLATE  [Pack Three Amendment Seven]  live
-  Plate is a cost problem rather than a defence problem to an Expenditure fighter, who is content to let armour do its job for as long as the wearer can afford to keep wearing it.
+  Plate is a cost problem rather than a defense problem to an Expenditure fighter, who is content to let armor do its job for as long as the wearer can afford to keep wearing it.
 
 R3-8-CAVALRY_PURSUIT_FUNCTION  [Pack Three Amendment Eight §14]  live
   Per Section 6, pursuit is butchery of the unresisting from behind at a canter for as long as the horses last; the honest version does not let the cavalry POV enjoy it and does not let them refuse it either.
@@ -918,7 +918,7 @@ R1-1-PERCUSSION_VS_BLADE  [Pack One Amendment One]  live
   A swordsman asks where you are unguarded; a hammer asks where you are already carrying load — fatigue accumulates and openings do not, so percussion fights get more dangerous the longer they run while blade fights get less decisive.
 
 R1-1-PERCUSSION_VS_PLATE_AND_TELL  [Pack One Amendment One]  live
-  Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
+  Percussion does not seek to penetrate plate, it uses it — armor transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
 
 R1-1-RASHANI_ASSIGNED  [Pack One Amendment One]  live
   Verdict grammar; signature Origin read then Zero-Point deflection, wins by knowing rather than reaching; answers plate with a structural read through to what it's bolted to; canonical.
@@ -942,7 +942,7 @@ R1-1-YOKO_ASSIGNED  [Pack One Amendment One]  live
   Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
 
 R1-4-PRECEDENCE_NOTE  [Pack One Amendment Four]  live
-  The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
+  The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armor-tier breakdown) are suspended or replaced accordingly.
 
 ## Docket
 
@@ -1105,7 +1105,7 @@ In the margin, level with Brack's line, he wrote one word. *edges.*
 
 He folded the docket form once, with her name inward, and laid it in the book at the page.
 
-The street door let in rain and a day clerk. He was a man of fifty or so, bald across the crown with a short fringe of grey above the ears, clean-shaven, his face gone red from the walk. He was heavy through the belly under a brown day-coat buttoned one hole wrong, and he had black sateen oversleeves on to keep the ink off his cuffs, with a wen at the side of his nose that he touched when he was thinking. He shook his hat out on the mat.
+The street door let in rain and a day clerk. He was a man of fifty or so, bald across the crown with a short fringe of gray above the ears, clean-shaven, his face gone red from the walk. He was heavy through the belly under a brown day-coat buttoned one hole wrong, and he had black sateen oversleeves on to keep the ink off his cuffs, with a wen at the side of his nose that he touched when he was thinking. He shook his hat out on the mat.
 
 "Still on the main, Master Ashmore?"
 
@@ -1249,7 +1249,7 @@ Nothing about either body has weight in the way a living thing has weight. Both 
 
 **Dissolution** · Limina. **Primary.** Solvation driven by the entropy of mixing — a solid dissolves not because the solvent attacks it but because the mixed state has higher entropy, and the process runs on its own once initiated. *Failure: entropy does not consult the practitioner about which structures were load-bearing.*
 **Mortalis** · Vitalia. **Co-primary as of the Becoming.** Venous black-red, no longer the decay half of him but the whole of the ground he stands on. He does not channel Mortalis the way a living practitioner borrows a current he'll eventually step out of. He is standing in his own.
-**Solfatara** · Caloria. Deep sulphurous red. The volcanic register, the fume, the miasma.
+**Solfatara** · Caloria. Deep sulfurous red. The volcanic register, the fume, the miasma.
 **Nihiloth** · Limina. Destructive interference — a Nihiloth Domain does not impose law, it cancels the law already present. And the cancellation is symmetric: everything he brings inside is subject to the same null, including the parts of himself he was relying on. **Post-Becoming, that symmetry costs him nothing new. There's nothing left in him a null can take that the split housing hasn't already priced in.**
 
 ---
@@ -1420,7 +1420,7 @@ Pending Isaac.
 
 Only Malphas appears in `voice_fingerprints` (Vesk, Nuvalik and Foss have fewer than eight attributed lines). Rule: if two characters' lines could be swapped and nobody noticed, the scene failed (R15-1-VOICE_DIFFERENTIATION).
 
-| character | lines | mean words | short share | questions | contractions | first person | imperatives | favourite words |
+| character | lines | mean words | short share | questions | contractions | first person | imperatives | favorite words |
 |---|---|---|---|---|---|---|---|---|
 | Malphas | 8 | 32 ±19.0 | 0.0 | 0.0 | 0.25 | 0.38 | 0.12 | objection, both, says, stays, where, written |
 
@@ -1460,7 +1460,7 @@ Only Malphas appears in `voice_fingerprints` (Vesk, Nuvalik and Foss have fewer 
 
 #### Bulwark  (02_wren_bulwark.md, score 39)
 [Notes (author-facing, not canon)] **One fix.** Your paste has the space closing around *Bram*. Bram is at the southern reach with three hundred men. I read it as Wren and wrote Wren. **Register split, per Pack Twelve.** The aurora is Mystic: the sky does a thing, nobody explains it, no causal account anywhere. The duel is Technical: exhaustive, tactica...
-[Notes (author-facing, not canon)] *Bulwark.* **Effect** — the shield's whole face takes an identical share of an impact instead of the boss taking it. Blue at the boss, spreading to the rim, leaving grey behind. **Cost** — the grey is spent capacity and does not come back inside a fight. Three deliveries is the historical number and this one took a thi...
+[Notes (author-facing, not canon)] *Bulwark.* **Effect** — the shield's whole face takes an identical share of an impact instead of the boss taking it. Blue at the boss, spreading to the rim, leaving gray behind. **Cost** — the gray is spent capacity and does not come back inside a fight. Three deliveries is the historical number and this one took a thi...
 ...wark  *The Ashgate road, within sight of the Kharven gates.*  ---  The sky over the north went to work at the ninth hour and did not consult anybody.  It began as a thickening. The cloud base did not move and did not break, a...
 ...need to come out any other way, because the whole of it had been designed to happen in a place with a gate behind it and no room to reform.  Wren had walked the ground in the summer under a false name with a hired cart and...
 
@@ -1497,7 +1497,7 @@ Only Malphas appears in `voice_fingerprints` (Vesk, Nuvalik and Foss have fewer 
 
 #### A Silence in the Chord  (00_SUPERSEDED_wrong_names.md, score 40)
 [Onawa, and why the beheading works] Her card is Level 300, Stage X, Grade A across every Primary Stat, a Realm-tier Domain that holds lesser Domains, a mile-and-a-half pressure field with the mask down. She cannot be killed in a fight. Her listed vulnerabilities are **consecrated and warded ground, direct harm to the raven, and prolonged separation from ...
-[The fracture, each branch answering in its own grammar] **Velthaeir** enters a finding in the sealed register and publishes nothing. **The Eladrin** send no letter and answer with a count, and a silence held past nine has moved out of language into judgement, and every Concord observer transcribes the exchange as having had nothing said in it. **The Echo Elves** split clean...
+[The fracture, each branch answering in its own grammar] **Velthaeir** enters a finding in the sealed register and publishes nothing. **The Eladrin** send no letter and answer with a count, and a silence held past nine has moved out of language into judgment, and every Concord observer transcribes the exchange as having had nothing said in it. **The Echo Elves** split clean...
 ...ears the Old Faces, came to Greysalt under parley on the ninth day of the withheld season with a household of nine and a raven on her shoulder and the First Ash Mask worn crownwise, as she had worn it since her mother's fune...
 ...en is in a position to tell them.  The Reach listens. Something in the tree line always notices first. Within nine days every Tsohanto barrow-ground in the New World had gone to the specific stillness of a place already grie...
 

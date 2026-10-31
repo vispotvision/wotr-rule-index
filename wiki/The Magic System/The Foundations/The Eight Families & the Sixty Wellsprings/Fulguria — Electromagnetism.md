@@ -54,7 +54,7 @@ title: "Fulguria — Electromagnetism"
 
 **Analogue** · The non-visible spectrum and polarisation. Total internal reflection.
 
-**Mechanism** · Most of the spectrum is not available to the eye, and most of what matters is happening there. Luminalis extends perception past the visible band and gives the Shell a polarising behaviour: incident observation is filtered out at the boundary rather than absorbed, and light that strikes past the critical angle does not leave at all. Seeing and hiding turn out to be the same optical operation run in opposite directions.
+**Mechanism** · Most of the spectrum is not available to the eye, and most of what matters is happening there. Luminalis extends perception past the visible band and gives the Shell a polarising behavior: incident observation is filtered out at the boundary rather than absorbed, and light that strikes past the critical angle does not leave at all. Seeing and hiding turn out to be the same optical operation run in opposite directions.
 
 **Stat Effect** · Strengthens Gnosis Perception, Dexterity Silence. The practitioner sees what hides and learns to hide what they reveal.
 

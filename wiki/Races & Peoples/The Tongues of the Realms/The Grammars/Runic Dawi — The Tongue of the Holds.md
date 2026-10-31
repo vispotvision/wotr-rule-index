@@ -99,7 +99,7 @@ Two rules govern it, and both are structural rather than ceremonial.
 > *Torvekk Kurren Kreisan* — the oath held
 >
 > *Torve Kurren Kreisan* — the oath broken
-One consonant. Every Dawi in the room hears it in the first syllable, before the name has finished, and there is no way to say the name that conceals it. **Losing an oath-name is not the punishment for breaking an oath. It is structurally the same event**, because the Crystal registers the gap between stated intent and actual behaviour without waiting to be told, and the language registers it the same way in the same instant.
+One consonant. Every Dawi in the room hears it in the first syllable, before the name has finished, and there is no way to say the name that conceals it. **Losing an oath-name is not the punishment for breaking an oath. It is structurally the same event**, because the Crystal registers the gap between stated intent and actual behavior without waiting to be told, and the language registers it the same way in the same instant.
 
 A Dawi introducing themselves to a stranger is submitting to an audit, every time, in public, in one word.
 
@@ -112,7 +112,7 @@ A Dawi introducing themselves to a stranger is submitting to an audit, every tim
 | **-ta / -tä** | the completed act, entered | *kurta*, a bearing that is in the Tally |
 | **-nur / -nyr** | the completed act, unentered | *kurnur*, a bearing nobody recorded |
 | **-me / -mi** | the undertaken, under oath | *kurme*, a bearing sworn to |
-| **-us / -ys** | the made thing, the artefact | *thrus*, a cut inscription |
+| **-us / -ys** | the made thing, the artifact | *thrus*, a cut inscription |
 | **-lo / -lö** | the unbegun | *kurlo*, a bearing not yet begun |
 
 ### There is no future tense
@@ -135,7 +135,7 @@ This is why Dawi commercial reliability is what it is, and why Dawi diplomacy is
 
 **Word order does not move under stress.** It cannot, because gradation is doing the emphatic work and stress is fixed. Dawi under extreme pressure produce syntactically identical sentences to Dawi at rest, with different consonants, which is why other peoples consistently misread Dawi agitation and why Dawi consistently misread everybody else's.
 
-**There is a copula and it is used constantly.** *on*, invariant. Vaross omits it, Eressean omits it, and Dawi state it explicitly in every predicate, which both neighbours find laborious and which the Dawi regard as the only honest way to assert that a thing is the case.
+**There is a copula and it is used constantly.** *on*, invariant. Vaross omits it, Eressean omits it, and Dawi state it explicitly in every predicate, which both neighbors find laborious and which the Dawi regard as the only honest way to assert that a thing is the case.
 
 ## VI. The Semantic Architecture
 
@@ -151,7 +151,7 @@ This is why Dawi commercial reliability is what it is, and why Dawi diplomacy is
 
 **Runic Dawi, the Barkstone dialect.** The working language of the holds. Full gradation, full harmony, Tally slot obligatory, cadence in formal contexts. Every phoneme carries material-world resonance, which is the Barrel Dawi's own account of why their brewing chants work.
 
-**Oath register.** Cask-Oath inscriptions and hold-oaths. Fixed wording, strict metre, and a fourth register at Kegshard that is not publicly documented and about which the maintainers have never been successfully asked.
+**Oath register.** Cask-Oath inscriptions and hold-oaths. Fixed wording, strict meter, and a fourth register at Kegshard that is not publicly documented and about which the maintainers have never been successfully asked.
 
 **Old High Runic.** Sacred inscription, predating the Rite of Bound Geometry, carrying a different resonance and an older grammar in which gradation is not yet regular. Read by Varun rune-forgers and by nobody else with confidence.
 
@@ -159,7 +159,7 @@ This is why Dawi commercial reliability is what it is, and why Dawi diplomacy is
 
 **Barkstone.** The standard. Slow, heavily graded, with the longest vowels of any dialect.
 
-**Varun, the High Dwarf register.** Mathematical Cadence extended out of the formal register into ordinary speech, so that Varun speak in metre continuously. Other Dawi find this exhausting and slightly self-satisfied. The Varun are unaware of the impression and would not adjust if they were.
+**Varun, the High Dwarf register.** Mathematical Cadence extended out of the formal register into ordinary speech, so that Varun speak in meter continuously. Other Dawi find this exhausting and slightly self-satisfied. The Varun are unaware of the impression and would not adjust if they were.
 
 **Low Dawi, the Hollow dialect.** Deepkin. **The hollow vocal quality is not stylistic**; sound stops carrying resonance in a Deepkin throat, so the fricatives lose their friction and the whole inventory shifts toward nasals and stops. Gradation survives and is the only reliable way to read a Deepkin's standing, since the rest of the phonology has flattened.
 
@@ -213,7 +213,7 @@ The second clause is grammatically unusual and every Dawi child is taught why: t
 > Torve, weak grade, of Kurren, of the hearth-line. Unentered. Unentered. Unentered.
 >
 > **He is named without his oath, and three things he did were never recorded.**
-The wall never states the offence. It states the grade and the count of unentered acts, and the holds consider that sufficient.
+The wall never states the offense. It states the grade and the count of unentered acts, and the holds consider that sufficient.
 
 **A refusal.**
 > *Kurlo. Ei kurme.*
@@ -224,7 +224,7 @@ The wall never states the offence. It states the grade and the count of unentere
 
 ## XII. Speaking It Badly
 
-**Concord speakers** voice the stops, producing *Borin* for *Porin* and *Kegshard* for *Kekshart*, and they treat gradation as free variation, which means they call Dawi by their oath-names in the weak grade constantly and without noticing. Dawi have stopped taking offence and have not stopped hearing it. Concord speakers also reach for a future tense that does not exist, and their attempts to construct one land in the oath form, which is how at least four trade delegations have accidentally sworn.
+**Concord speakers** voice the stops, producing *Borin* for *Porin* and *Kegshard* for *Kekshart*, and they treat gradation as free variation, which means they call Dawi by their oath-names in the weak grade constantly and without noticing. Dawi have stopped taking offense and have not stopped hearing it. Concord speakers also reach for a future tense that does not exist, and their attempts to construct one land in the oath form, which is how at least four trade delegations have accidentally sworn.
 
 **Goblinoid speakers** manage the clusters easily and destroy the harmony, since Vaross has none, producing words that mix classes and are simply unpronounceable rather than merely wrong. They also emphasise by holding the vowel, which in a language with phonemic length changes the word.
 

@@ -66,7 +66,7 @@ This is the same collision that happened on Earth when the mechanical clock disp
 | Anchored to | sunrise and sunset | the wire from Stannvaard |
 | Length | varies with season and latitude | fixed |
 | Kept by | the sun, a shadow-line, a bell | a gauge-house dial |
-| Used for | labour, rite, the Bow, the working day | schedules, contracts, the wire, the lines |
+| Used for | labor, rite, the Bow, the working day | schedules, contracts, the wire, the lines |
 | Who insists on it | Sohai households, Eresse, Kharven, most farmers | the Guild, the Accord, the chancery, the papers |
 
 **Ordinary people run both and do not find this strange.** A man works to the notch and catches the coach on the hour, and if the two disagree he is late for one of them and not the other, and which one he chooses to be late for is a statement about who he is.
@@ -106,7 +106,7 @@ The true year is a little over that, by rather more than half a day, and the cor
 
 **Eight times in every thirteen years**, a single day is inserted at the year's end that belongs to no Archon. Moto ***Munahi***, the empty day. Concord **the Nameless**. Dawi call it the unentered day and do not like it.
 
-Because it has no Archon it has no Labour, and because it has no Labour it has no character, and the consequences run right through every institution already built.
+Because it has no Archon it has no Labor, and because it has no Labor it has no character, and the consequences run right through every institution already built.
 - **No Work falls due.** The Sohai holds that the Bow is not performed on Munahi, because there is no station to perform it at. The house's own position is that this is the one day a year the religion is silent, and it is defended vigorously against the obvious objection.
 - **Nothing can be entered.** The Tally takes no entry dated to a day that is not in the count. Dawi clerks stop work entirely, and a hold on Munahi is a hold where nothing legally happened.
 - **No window opens.** Every Eressean rite is timely or untimely by its appointed window, and no window is appointed on a day outside the calendar, so an Eressean can perform nothing correctly and cannot be found to have performed anything incorrectly either.
@@ -180,7 +180,7 @@ The Sohai, being a religion of the Reading, holds that this is not a scheduling 
 
 **The sixty-count** is built on the sexagenary cycle, a continuous sixty-unit count running independently of the calendar and used for dating days and years alike. The WOTR version drops the two-part stem-and-branch generator and simply uses the sixty Wellsprings in register order, which the setting already had.
 
-**Era names** are built on the nengo system, in which years are counted within a named era declared on accession and re-declared on auspicious or inauspicious events, so that the date itself carries a judgement about the period. This maps onto the Moto register exactly and is the reason the Moto and the Accord cannot use each other's dates without a table.
+**Era names** are built on the nengo system, in which years are counted within a named era declared on accession and re-declared on auspicious or inauspicious events, so that the date itself carries a judgment about the period. This maps onto the Moto register exactly and is the reason the Moto and the Accord cannot use each other's dates without a table.
 
 **The drift** is built on the Sothic cycle: a civil year of fixed arithmetic length slipping steadily against the observed heliacal rising of a fixed star, with the discrepancy accumulating over centuries and the rising itself serving as the anchor the calendar is supposed to match.
 

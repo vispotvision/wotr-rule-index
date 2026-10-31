@@ -48,11 +48,11 @@ At the edge of the yard, Yukazuri had unfolded her arms.
 
 ### II · The Gatehouse
 
-The gatehouse of Kharven's Foot had been the Tenrai captain's quarters, and it still smelled of her: some sharp clean southern resin they burned in their lamps, and oiled lamellar, and ink. Shigure's table was still there, and her chair, and a rack on the wall where her long curved sword had hung. Somebody had taken the Tenrai banner down from over the hearth and put the Stark wolf up in its place, and the Greymane wolf beside it, and the two grey heads looked down from the wall at the room with their painted teeth bared and their painted eyes picked out in yellow, the brightest colour in the room after the fire.
+The gatehouse of Kharven's Foot had been the Tenrai captain's quarters, and it still smelled of her: some sharp clean southern resin they burned in their lamps, and oiled lamellar, and ink. Shigure's table was still there, and her chair, and a rack on the wall where her long curved sword had hung. Somebody had taken the Tenrai banner down from over the hearth and put the Stark wolf up in its place, and the Greymane wolf beside it, and the two gray heads looked down from the wall at the room with their painted teeth bared and their painted eyes picked out in yellow, the brightest color in the room after the fire.
 
 Ulf Stark sat at the table. Wystan Greymane stood at the window with his back to the room, looking out at the broken wall and the ridge and the long road going down into the south. The wolfhound lay under the table with its head on its paws, and it lifted its head when Muken came in, and thumped its tail once on the floor, and put its head down again.
 
-There was a letter on the table in front of Ulf. Grey wax. A gold seal, broken, the Tenrai heraldry on it still sharp enough to catch the firelight.
+There was a letter on the table in front of Ulf. Gray wax. A gold seal, broken, the Tenrai heraldry on it still sharp enough to catch the firelight.
 
 "Sit, lad," said Ulf.
 
@@ -82,7 +82,7 @@ He said it gently. That was the worst of it.
 
 "Ulf's right, boy," said Wystan Greymane.
 
-He had turned from the window. He stood with his long grey hands clasped behind his back and the white winter glare off the ridge behind him, and his long grey face was perfectly calm.
+He had turned from the window. He stood with his long gray hands clasped behind his back and the white winter glare off the ridge behind him, and his long gray face was perfectly calm.
 
 "Our lives," he said, "can be spent for the people. That's what they're for. That's what they've always been for." He looked at Muken steadily. "We're old men. We've had our years. We've had more of them than most of the men who've followed us. And the north doesn't need us any more, the way it needed us a month ago." He paused. "They have you now."
 
@@ -106,7 +106,7 @@ Muken shook his head. He could not stop shaking it.
 
 "No," Wystan agreed. "We shouldn't."
 
-He came across the room. He was very tall, and he stopped in front of Muken and looked down at him from his great grey height, and then he put one long grey hand on Muken's good shoulder, the way he had at the foot of the ridge in the dark before the Foot.
+He came across the room. He was very tall, and he stopped in front of Muken and looked down at him from his great gray height, and then he put one long gray hand on Muken's good shoulder, the way he had at the foot of the ridge in the dark before the Foot.
 
 "But we have to," he said. "And our duties aren't finished yet. Not quite."
 
@@ -124,7 +124,7 @@ His voice had dropped into an old cadence, slow and heavy, like stones being set
 
 Muken could not speak.
 
-Wystan Greymane stepped back, a pace, so that he stood beside Ulf. He put his own long grey hand flat over his own heart.
+Wystan Greymane stepped back, a pace, so that he stood beside Ulf. He put his own long gray hand flat over his own heart.
 
 "As the Warlord of House Greymane," he said, "of the Ridgewall and the western wall against Undaar-Keth, by the right of my fathers, who have held the ridge since before there was a north to hold it for..."
 
@@ -144,7 +144,7 @@ There were two of them. They came in out of the cold together, fast, with snow o
 
 The first was a Stark. Anyone would have known it from across a field. He was perhaps twenty-two, and built the way the Stark men were built, broad and heavy through the back and shoulders, but there was something less finished about him than about Rob or Ulf: as if the frame had been laid down and the weight not yet put on it. His hair was brown, cut short in the northern military style. His jaw was the Stark jaw, wide and square, and Muken saw it tighten on the left side, hard, before he said anything at all. He had deep brown eyes set under a heavy brow, and they went straight past Muken to the old man at the table.
 
-The second was a Greymane, and he was grey already. His hair was black, long, tied back at the nape, and everything else about him was grey: his eyes, his cloak, the long narrow face, the stillness he had stopped in, just inside the door, as if he had walked into a wall. He was younger than the Stark, nineteen or twenty, and taller even than his father, and there were dark circles under his grey eyes as if he had not slept in a week.
+The second was a Greymane, and he was gray already. His hair was black, long, tied back at the nape, and everything else about him was gray: his eyes, his cloak, the long narrow face, the stillness he had stopped in, just inside the door, as if he had walked into a wall. He was younger than the Stark, nineteen or twenty, and taller even than his father, and there were dark circles under his gray eyes as if he had not slept in a week.
 
 "Lorn," said Ulf Stark. "Godfrey."
 
@@ -160,7 +160,7 @@ His voice was low and rough and shaking very slightly, and he did not seem to be
 
 He stopped. He could not go on.
 
-Wystan Greymane looked at his son across the room. Something moved in the long grey face that Muken had never seen there, and it was gone almost before he saw it.
+Wystan Greymane looked at his son across the room. Something moved in the long gray face that Muken had never seen there, and it was gone almost before he saw it.
 
 "We are the keepers of the wall," Wystan said.
 
@@ -188,13 +188,13 @@ Lorn Stark was silent while the snow went to water on his shoulders.
 
 Then he put his right hand flat on his chest, over his heart, the way his father had. He held it there. Then he closed it into a fist, slowly, against his breastbone, and pressed it there, hard, once. It was the Stark gesture. Muken had seen Rob do it, and Mark, and every Stark rider on the road to the Foot, before a fight or over a grave. It meant: *here. This. I hold it.*
 
-"By my honour," said Lorn Stark.
+"By my honor," said Lorn Stark.
 
 ---
 
 Muken stood in the middle of the room and did not understand any of it.
 
-He did not understand why they were looking at him. Ulf and Wystan, with their hands on their hearts. Lorn with his fist against his chest. Godfrey, grey-faced, with his fists finally open. All of them looking at him as if he were something, as if he were the answer to a question he had never heard asked. He was nothing. He was a cutting woman's boy from three galleries under Halcrest, with a scrap-iron sword and a sister and a dead token in his coat. He had nothing anybody could swear to. Nothing anybody could put their trust in.
+He did not understand why they were looking at him. Ulf and Wystan, with their hands on their hearts. Lorn with his fist against his chest. Godfrey, gray-faced, with his fists finally open. All of them looking at him as if he were something, as if he were the answer to a question he had never heard asked. He was nothing. He was a cutting woman's boy from three galleries under Halcrest, with a scrap-iron sword and a sister and a dead token in his coat. He had nothing anybody could swear to. Nothing anybody could put their trust in.
 
 And yet.
 
@@ -214,7 +214,7 @@ He put his hand on Muken's shoulder one last time, and squeezed it, and let go.
 
 Behind Muken, in the doorway, very quietly, someone drew a breath.
 
-He did not turn round. He had known she was there since the door banged open. He had felt his own breathing slow down the moment the Stark and the Greymane came in out of the snow, the way it always did, without his ever wondering why. She had been standing in the cold of the doorway the whole time with her grey coat buttoned to the throat and her kit under her arm and her face doing nothing at all.
+He did not turn round. He had known she was there since the door banged open. He had felt his own breathing slow down the moment the Stark and the Greymane came in out of the snow, the way it always did, without his ever wondering why. She had been standing in the cold of the doorway the whole time with her gray coat buttoned to the throat and her kit under her arm and her face doing nothing at all.
 
 She had heard every word.
 
@@ -224,7 +224,7 @@ She had heard every word.
 
 They rode out the next morning, before light.
 
-Two old men on two grey horses, with no escort and no banners, down the long road from the Foot into the south, under the last of the aurora: a slow green curtain over the ridge, fringed violet at its hem, that laid a cold sheen on the snow of the road in front of them and went on burning after they had passed out of sight. Ulf Stark had left his wolfhound tied in the gatehouse. It howled for an hour after he was gone, and nobody could make it stop, and in the end Muken went in and sat on the floor beside it with his back against Shigure Tenrai's table and his hand on the great rough head until it stopped. It lay down with its head on his boot. It did not get up again for the rest of the day.
+Two old men on two gray horses, with no escort and no banners, down the long road from the Foot into the south, under the last of the aurora: a slow green curtain over the ridge, fringed violet at its hem, that laid a cold sheen on the snow of the road in front of them and went on burning after they had passed out of sight. Ulf Stark had left his wolfhound tied in the gatehouse. It howled for an hour after he was gone, and nobody could make it stop, and in the end Muken went in and sat on the floor beside it with his back against Shigure Tenrai's table and his hand on the great rough head until it stopped. It lay down with its head on his boot. It did not get up again for the rest of the day.
 
 Eleven days later, a crow came up the road from the south, and Rob Stark read the letter it carried, standing in the yard by the woodpile, and then folded it very small and put it inside his coat and went away and did not speak to anybody until the next morning.
 
@@ -262,7 +262,7 @@ And now the Moto were coming up the road to make *peace.*
 
 Muken turned his head.
 
-Godfrey was standing at the end of the table with his long grey hands flat on it, the way his father used to stand, and his grey eyes were on Muken's face. They had dark circles under them still. They would have them, Muken thought, for years.
+Godfrey was standing at the end of the table with his long gray hands flat on it, the way his father used to stand, and his gray eyes were on Muken's face. They had dark circles under them still. They would have them, Muken thought, for years.
 
 "You can't show them that," Godfrey said. "What's in your face. Not when they come." His voice was low and steady and very tired. "They're coming to make peace. Whatever else they are. They're coming to *help*, if the outrider's right about the veil and who's wearing it. You can't meet them at the gate looking like that."
 
@@ -276,7 +276,7 @@ The words hung in the room like breath in the cold.
 
 Rob Stark had gone pale. Lorn Stark, at the other end of the table, had shut his eyes.
 
-Godfrey Greymane looked at Muken. His long grey face did not change at all.
+Godfrey Greymane looked at Muken. His long gray face did not change at all.
 
 "Of course I feel it," he said.
 
@@ -294,7 +294,7 @@ He let that sit.
 
 He straightened up from the table.
 
-"You're a tokenless," he said. "You've no family. No house. No name. Nothing anybody in the south can see, nothing they'd sit across a table from. Even if my father named you lord before he rode out. Even with the Stark and the Greymane sworn to you on a dead man's word." He held Muken's eyes, grey on slate. "When that Moto lady comes up the road, she's going to look at you and see a sixteen-year-old sellsword with a scrap-iron sword and a bad temper. And so is the Yukari. And so is every man in the north who's watching to see what we do next." He paused. "So if you're going to be a king, Muken. If that's what my father died for. If that's what Ulf died for." His voice did not waver. "Then at least act like one."
+"You're a tokenless," he said. "You've no family. No house. No name. Nothing anybody in the south can see, nothing they'd sit across a table from. Even if my father named you lord before he rode out. Even with the Stark and the Greymane sworn to you on a dead man's word." He held Muken's eyes, gray on slate. "When that Moto lady comes up the road, she's going to look at you and see a sixteen-year-old sellsword with a scrap-iron sword and a bad temper. And so is the Yukari. And so is every man in the north who's watching to see what we do next." He paused. "So if you're going to be a king, Muken. If that's what my father died for. If that's what Ulf died for." His voice did not waver. "Then at least act like one."
 
 The wolfhound had laid its head back down on Muken's boot.
 
@@ -317,7 +317,7 @@ Godfrey said nothing.
 
 ## Author Notes
 
-- **Retcon 2026-10-20 (new-lore questionnaire).** The outrider's report loses the Zettari on the sabre-toothed cat, which is another player's to answer: he now reports a Moto lady by the veil, silver on her, twenty riders without banners and a Yukari woman walking barefoot, and Muken's anger and Godfrey's lines turn on the Yukari instead. Ulf's oath names Torvald as the brother who named him, and his "we lost the last war" is the one forty-year war.
+- **Retcon 2026-10-20 (new-lore questionnaire).** The outrider's report loses the Zettari on the saber-toothed cat, which is another player's to answer: he now reports a Moto lady by the veil, silver on her, twenty riders without banners and a Yukari woman walking barefoot, and Muken's anger and Godfrey's lines turn on the Yukari instead. Ulf's oath names Torvald as the brother who named him, and his "we lost the last war" is the one forty-year war.
 
 **What this is.** Isaac's passage, expanded into Chapter Eight. Past tense, third person, close on Muken, with a chronicle epigraph. About 5,400 words.
 
@@ -328,7 +328,7 @@ Godfrey said nothing.
 - Muken: "you can't go." Ulf: "Nonsense boy, if we don't go they'll attack before we recover." Wystan: "our lives can be sacrificed for the people, they have you now."
 - Muken asks why more people have to die, why fate is so cruel, why "they" get to decide. Ulf: that's the way of this life, we give and give and aren't guaranteed anything. Muken: "It's not right." Wystan: "we have to, but our duties aren't finished."
 - Ulf's oath, then Wystan's, leaving all the power and tools of their houses to Muken the Tokenless.
-- Lorn and Godfrey come in. Godfrey: "you cannot sacrifice yourself, I already lost Mother." Wystan's keepers-of-the-wall speech. Lorn's "Why," and Ulf's answer: our generation must end, guide him, win against the Keld. Lorn's Stark gesture: "By my honour."
+- Lorn and Godfrey come in. Godfrey: "you cannot sacrifice yourself, I already lost Mother." Wystan's keepers-of-the-wall speech. Lorn's "Why," and Ulf's answer: our generation must end, guide him, win against the Keld. Lorn's Stark gesture: "By my honor."
 - Muken's disbelief, and the commonfolk and the Lanternless always saying he was destined.
 - "We apologise we couldn't see you reach your peak; you have our sons."
 - Yukazuri hears it all. They ride out and are executed.
@@ -358,4 +358,4 @@ Godfrey said nothing.
 
 **Rule ids that most constrained it:** R70-114 and R73-38 (warm bonds shown before the loss lands: the oaths, Wystan's hand on his shoulder, the wolfhound), R72-31 (the warning in the world before the danger: the gold seal), R74-1 (the chronicle as the document voice at the threshold), R70-111 (one crafted speech at the big moment: the oaths).
 
-**Revision 2026-10-24.** Lifted the colour at the Foot (gold resin on the split pine, the old woman's shawls, frost-glitter, the aurora over the two old men riding south, blue snow and lamp-yellow windows at the village) and kept magitech absent at the frontier fort; trimmed every "did not need to", "for a long moment/time", "very/quite still" and "Nobody answered", and broke one countdown in Ulf's speech into a single sentence. All of Isaac's beats and lines are kept, in order.
+**Revision 2026-10-24.** Lifted the color at the Foot (gold resin on the split pine, the old woman's shawls, frost-glitter, the aurora over the two old men riding south, blue snow and lamp-yellow windows at the village) and kept magitech absent at the frontier fort; trimmed every "did not need to", "for a long moment/time", "very/quite still" and "Nobody answered", and broke one countdown in Ulf's speech into a single sentence. All of Isaac's beats and lines are kept, in order.

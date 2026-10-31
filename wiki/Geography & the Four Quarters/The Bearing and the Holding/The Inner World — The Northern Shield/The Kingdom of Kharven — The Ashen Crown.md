@@ -34,9 +34,9 @@ Bounded east by Ketsuen's ward-perimeter, west by the ridgeline separating the n
 | **The highland plateau** *the core* | Granite uplift scarred by glacial activity, boreal forest, **ironwood stands dense enough that the Dawi import the timber for tool handles.** Defensible, central, **and cold enough to discourage anyone who does not genuinely want to be there** |
 | **The Ironwood March** *east* | Transitional ground toward the Ketsuen border, boreal forest giving way to shield upland |
 | **The Stormfold** *west* | Exposed, wind-hammered, garrisoned by mountain companies whose function is to watch the western approaches **and to survive conditions that would kill most soldiers before the fighting started.** Past that ridgeline lies **the ground the bloodline came from** — nobody holds it, *and the Crown has never once filed a claim on it* |
-| **The Polar Reach** *north of the treeline* | Tundra and permafrost. Inhabited by the hardest people in the kingdom, **and by the specific category of Moto practitioner who seeks the emptiness because the emptiness is the only space large enough to practise Domain-scale techniques without killing bystanders** |
+| **The Polar Reach** *north of the treeline* | Tundra and permafrost. Inhabited by the hardest people in the kingdom, **and by the specific category of Moto practitioner who seeks the emptiness because the emptiness is the only space large enough to practice Domain-scale techniques without killing bystanders** |
 
-**Kharven-Seat** stands on the site of Muken's original stronghold. Destroyed during the Tenrai's seizure of power and **rebuilt by Sodoku using the surviving foundation stones.** The rebuilt city carries two architectural languages: squared heavy-walled Moto construction in grey granite and ironwork, **built to channel wind rather than resist it**, and the longhouse tradition of the northern clans, timber-framed and steep-roofed to shed snow load and hold heat through a six-month winter.
+**Kharven-Seat** stands on the site of Muken's original stronghold. Destroyed during the Tenrai's seizure of power and **rebuilt by Sodoku using the surviving foundation stones.** The rebuilt city carries two architectural languages: squared heavy-walled Moto construction in gray granite and ironwork, **built to channel wind rather than resist it**, and the longhouse tradition of the northern clans, timber-framed and steep-roofed to shed snow load and hold heat through a six-month winter.
 > *Visiting architects describe it as beautiful and threatening in roughly equal measure. The population describes it as home.*
 
 ---
@@ -44,7 +44,7 @@ Bounded east by Ketsuen's ward-perimeter, west by the ridgeline separating the n
 ## Origin · The Migration and the First Crown
 
 > The Kingdom of Kharven exists because **Muken Moto went north because it was the one direction that had not already decided what he was.**
-Malakar's splitting made the ancestral seat untenable and **the seven lines scattered toward temperate ground** — arable, defensible country compatible with the settled governance a divine bloodline expected to practise. **Muken went the other way.** North and east into the boreal forest, with the warriors who followed him because they trusted his judgment more than they trusted the obvious conclusion.
+Malakar's splitting made the ancestral seat untenable and **the seven lines scattered toward temperate ground** — arable, defensible country compatible with the settled governance a divine bloodline expected to practice. **Muken went the other way.** North and east into the boreal forest, with the warriors who followed him because they trusted his judgment more than they trusted the obvious conclusion.
 > He did not arrive as a claimant with a household behind him. **He arrived with a sister, a reputation earned in other people's wars, and no standing at all in a country that had never heard of the place he came from.**
 **The reasoning was strategic before it was spiritual.** The north was empty because the north was hard, and hard because the cold killed anything not prepared, not disciplined, not willing to do the work of survival every day without the luxury of a season where the land did the work for you. *These were the qualities Muken wanted in the people who served him.* **He did not need to test his subjects. The climate tested them. He only needed to govern the ones who passed.**
 
@@ -145,14 +145,14 @@ Personal, sworn by each house's lord to the reigning sovereign. Military service
 
 ## Culture
 
-Two traditions that have learned to coexist without fully merging. **The Moto tradition** — Mongolian-Inuit in its naming, its spiritual architecture, its relationship to authority and inherited duty. **The northern tradition** — Nordic in its pragmatism, its honour codes, its relationship to land and earned respect. *Neither fully, but something specific to Kharven: a hybrid carrying the severity of both and the softness of neither.*
-> **Honour in Kharven is not a code. It is a climate.**
+Two traditions that have learned to coexist without fully merging. **The Moto tradition** — Mongolian-Inuit in its naming, its spiritual architecture, its relationship to authority and inherited duty. **The northern tradition** — Nordic in its pragmatism, its honor codes, its relationship to land and earned respect. *Neither fully, but something specific to Kharven: a hybrid carrying the severity of both and the softness of neither.*
+> **Honor in Kharven is not a code. It is a climate.**
 >
 > The cold does not care about your intentions. It cares about your actions. **Did you store enough firewood? Did you repair the roof before the snow? Did you share food with the family whose harvest failed? Did you show up when the Crown called?**
 >
-> *A man who speaks beautifully and lets his neighbour starve is not honourable. A man who says nothing and splits his woodpile with the household down the road is.*
+> *A man who speaks beautifully and lets his neighbor starve is not honorable. A man who says nothing and splits his woodpile with the household down the road is.*
 >
-> The system produces a population that finds southern courtesy slightly absurd, **because courtesy is what you practise when survival is not the primary concern, and survival is always the primary concern in Kharven.**
+> The system produces a population that finds southern courtesy slightly absurd, **because courtesy is what you practice when survival is not the primary concern, and survival is always the primary concern in Kharven.**
 **The northern clans respect the Crown's competence. They fear the Crown's blood.** The fear is not irrational — *a sovereign who can see the stress lines in your soul, and whose judgment carries the weight of the Plane of Fate's administrative function, is not a lord you displease casually.* **The fear produces compliance. The competence produces loyalty. The combination produces a kingdom.**
 
 ### The Fusi Vā
@@ -166,9 +166,9 @@ The northern clans had their own oath traditions before the Moto came: simple, u
 
 ---
 
-## Defence
+## Defense
 
-**The primary defence is the territory itself.** An army marching from the south must cross three hundred miles of forest and highland in conditions that degrade equipment, consume supplies **and kill soldiers through exposure before the fighting begins.** From the west, the Greymane ridgeline. From the east, Ketsuen's ward-perimeter as passive buffer. **From the north there is nothing to approach from.**
+**The primary defense is the territory itself.** An army marching from the south must cross three hundred miles of forest and highland in conditions that degrade equipment, consume supplies **and kill soldiers through exposure before the fighting begins.** From the west, the Greymane ridgeline. From the east, Ketsuen's ward-perimeter as passive buffer. **From the north there is nothing to approach from.**
 
 At full mobilisation: **roughly twelve thousand** — three thousand Guard, nine thousand levy. *Not large by Inner World standards. It does not need to be.*
 > **Twelve thousand trained to campaign through a northern winter on cached supplies and hunted game, led by officers whose Shingan reads the battlefield in real time, operating on interior lines across terrain they know and the enemy does not, is a force the Inner World's larger armies have learned to leave alone.**

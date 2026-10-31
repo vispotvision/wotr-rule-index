@@ -19,7 +19,7 @@ This is not temperament and it is not a school. Two practitioners with identical
 
 **Path commitment is not declared. It is recognised.**
 
-The Crystal reads behavioural pattern: the consistent routing of Essence through one plane's logic over time. A practitioner who has fought exclusively through Body Path mechanics for three full Bands (blocks of a hundred Levels) has genuine Body Path alignment regardless of what they claim, what they were trained as, or what their house registered them under.
+The Crystal reads behavioral pattern: the consistent routing of Essence through one plane's logic over time. A practitioner who has fought exclusively through Body Path mechanics for three full Bands (blocks of a hundred Levels) has genuine Body Path alignment regardless of what they claim, what they were trained as, or what their house registered them under.
 
 And the reverse holds, which is where careers stall. A practitioner who has occasionally used Spirit techniques while routing primarily through physical expression **will find Spirit-aligned Sub-Stats (the finer stats beneath each main stat) quietly resisting advancement beyond C-Grade (a middling rank on the E to EX scale)** until the actual pattern of use reflects commitment. Nothing announces this. There is no refusal, no failure, no diagnosis. There is simply a ceiling that arrives earlier than it should and does not move.
 > **This is the single most misdiagnosed condition in the trade.** A practitioner stalled at C-Grade on a Sub-Stat they use constantly assumes insufficient training, insufficient Essence, insufficient talent, and buys accordingly.
@@ -66,13 +66,13 @@ The consequences are immediate and they explain several things the registers rec
 
 **A practitioner's Path is legible from their Traits before it is legible from their record.** A physician reading Trait tissue is reading Path alignment a decade before the Crystal has finished recognising it, which is why house physicians are paid what they are paid and why their assessments are not shown to the subject.
 
-**Traits that point one way produce a specialist.** Traits that point three ways produce someone genuinely capable at everything and gated out of the high grades on all of it. **This is the mechanism of Tempering Ceiling**, stated in the vocabulary of behaviour rather than of stats.
+**Traits that point one way produce a specialist.** Traits that point three ways produce someone genuinely capable at everything and gated out of the high grades on all of it. **This is the mechanism of Tempering Ceiling**, stated in the vocabulary of behavior rather than of stats.
 
 ## VI. Paths and the Seat
 
 A Threshold is a melt, and a melt cools into order only around Traits, because a law the Continuum has accepted does not stop being reliable at temperature.
 
-**Seeds that share a Path cool clean.** They agree about which plane's logic the new lattice should favour, and the lattice sets one way throughout. That is the clean seat, and it is why thaumaturgic (acting by instinct, before conscious thought) architecture is narrow and deep.
+**Seeds that share a Path cool clean.** They agree about which plane's logic the new lattice should favor, and the lattice sets one way throughout. That is the clean seat, and it is why thaumaturgic (acting by instinct, before conscious thought) architecture is narrow and deep.
 
 **Seeds that pull across Paths cool rough.** The lattice records the disagreement permanently and the practitioner comes out with genuine capability on two routes and full commitment on neither.
 > **A rough seat is cross-Path Trait architecture, and this is why rough-seated practitioners are unpredictable rather than weak.** They are not damaged. They are two arguments held in one lattice, and an opponent reading them for a Body Path pattern is reading a man who is also, honestly and simultaneously, something else.
@@ -100,7 +100,7 @@ The screening apparatus reads Crystals. **The Derivation Index, the coil (the as
 
 ## IX. Drift
 
-**Tempering Coherence is the alignment between a practitioner's Path and their lived behaviour**, and it is the structural prerequisite for Threshold eligibility. A soul whose routing has drifted from its recognised Path is not punished. It is simply not authorised.
+**Tempering Coherence is the alignment between a practitioner's Path and their lived behavior**, and it is the structural prerequisite for Threshold eligibility. A soul whose routing has drifted from its recognised Path is not punished. It is simply not authorised.
 
 The presentation is slow and unmistakable to anyone who has seen it before. Output falls with no injury behind it. Gated Sub-Stats stop moving. A Threshold that should have come does not come, and the practitioner is quantitatively ready for years. **Traits begin to argue with their bearer**, because a Trait is a standing law and the bearer has started living against it.
 > **Nothing corrects this except changing what the person actually does.** Instruction does not touch it. Expenditure does not touch it. A Draft seeds a lattice and cannot seed a decade of conduct.
@@ -111,5 +111,5 @@ The presentation is slow and unmistakable to anyone who has seen it before. Outp
 
 **On the page, a Path is a habit of body before it is anything else.** The Body Path practitioner closes without deciding to. The Spirit Path practitioner backs off half a step and is already reading. The Attraction Path practitioner speaks first and the room reorganises. **The Fate Path practitioner does not move at all, and whatever they said last week is still true.**
 
-The names may stand anywhere, in a mouth, an instrument, a document or the plain telling. **The effects come first, always, as behaviour and physics**, and a telling that can only say which Path somebody is has not shown it.
+The names may stand anywhere, in a mouth, an instrument, a document or the plain telling. **The effects come first, always, as behavior and physics**, and a telling that can only say which Path somebody is has not shown it.
 > *An opponent who has correctly identified a Path knows what the other man cannot do. That is the whole of the read, and it is worth more than knowing any technique he has.*

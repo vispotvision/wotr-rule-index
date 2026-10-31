@@ -14,11 +14,11 @@ title: "The Undying and the Constructs"
 ## Zombies
 
 > *Khalrak*, the Lost Flesh, in Old Parunic. **Rotwalkers** among frontier survivors.
-**Undying, Animated Corpse · T2, Moderate Threat · Corrupted and Abyssal Wellsprings, fuelled by lingering necromantic energies · battlefield graveyards and plague-ridden wastelands**
+**Undying, Animated Corpse · T2, Moderate Threat · Corrupted and Abyssal Wellsprings, fueled by lingering necromantic energies · battlefield graveyards and plague-ridden wastelands**
 
 Corpses reanimated by corrupted Wellspring energies, necromantic ritual, or abyssal taint. **Unlike Skeletal Folk they retain decayed flesh and sluggish motor function**, driven by primal hunger or necromantic command. **Their numbers swell rapidly in plague zones and on battlefields scarred by Abyssal or Corrupted Essence.**
 
-Decaying corpses with rotting flesh, exposed bone and festering wounds. Jerky uncoordinated movement, **eyes glowing faintly with corrupted Essence or pale blue light.** *Clothing and armour remnants hint at their past lives.*
+Decaying corpses with rotting flesh, exposed bone and festering wounds. Jerky uncoordinated movement, **eyes glowing faintly with corrupted Essence or pale blue light.** *Clothing and armor remnants hint at their past lives.*
 
 **Mindless and relentless.** They wander in hordes and attack any living creature they detect. **Their slow steady approach makes them dangerous in numbers**, overwhelming through sheer volume. *Rare variants show signs of minimal instinct or rudimentary coordination.*
 
@@ -40,7 +40,7 @@ Gaunt rotting humanoid figures with sharp claws and elongated teeth. **Skin mott
 
 Savage relentless predators **hunting both living and undead prey.** They move with unnatural speed and cunning, **attacking in packs with coordinated ambush tactics**, and their hunger drives them to desecrate the dead.
 
-**Pack Hunt.** **Feral Claws** tear through flesh and armour. **Essence Corruption** — their bites taint victims with necromantic decay. **Regenerative Hunger** recovers wounds rapidly when feeding on fresh flesh.
+**Pack Hunt.** **Feral Claws** tear through flesh and armor. **Essence Corruption** — their bites taint victims with necromantic decay. **Regenerative Hunger** recovers wounds rapidly when feeding on fresh flesh.
 
 **Vulnerable to radiant Essence and fire. Poor resistance to magical wards and purification. And they rely on close combat — ranged attacks disrupt their aggression.**
 
@@ -82,7 +82,7 @@ Skeletal figures draped in tattered robes embroidered with necromantic glyphs. *
 
 **Necromantic Mastery** raises and controls vast undead legions. **Essence Drain** absorbs life force to fuel spells and regeneration. **Arcane Dominion** wields destructive and binding magic across multiple Essence schools. **Phylactery Binding** — immortal unless the phylactery is destroyed.
 > **The phylactery is their only true vulnerability.** They require extensive preparation to maintain Essence flows, **and can be weakened by holy or harmonic Essence purges.**
-*The Fall of Erebus' Shadow details the war against the lich lord Vharzoth, whose armies nearly overwhelmed the Innerworld's defences. Numerous Concord campaigns have focused on locating and destroying phylacteries to end their reigns.*
+*The Fall of Erebus' Shadow details the war against the lich lord Vharzoth, whose armies nearly overwhelmed the Innerworld's defenses. Numerous Concord campaigns have focused on locating and destroying phylacteries to end their reigns.*
 
 ---
 
@@ -93,7 +93,7 @@ Skeletal figures draped in tattered robes embroidered with necromantic glyphs. *
 
 Suits of enchanted plate and chain forged in ancient workshops **and animated through potent Wellspring Essence and Spirit Rune Arts.** Created to guard Wellsprings, tombs and arcane repositories. **They possess no flesh but exhibit independent will and relentless dedication to their wards.**
 > *Some are remnants of lost orders, still patrolling forgotten ruins. Others serve modern spellbinders as guardians or shock troops.*
-Heavy full-plate or ornate segmented armour with arcane glyphs etched into the plates. **Some bear ethereal blue or green Essence glows emanating from inside**; others are cracked or rusted with age. They move with a clanking gait, **wielding swords, axes or polearms forged from rare materials.**
+Heavy full-plate or ornate segmented armor with arcane glyphs etched into the plates. **Some bear ethereal blue or green Essence glows emanating from inside**; others are cracked or rusted with age. They move with a clanking gait, **wielding swords, axes or polearms forged from rare materials.**
 
 Obedient and unyielding, **following their last command or programmed purpose with unerring precision.** Indifferent to pain or exhaustion, **and exhibiting tactical awareness far beyond mundane constructs.**
 

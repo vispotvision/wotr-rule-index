@@ -12,7 +12,7 @@ tags: ["Factions", "In-World Document"]
 
 ![[Assets/Emblems/guild-accord.webp|320]]
 
-*The emblem of the Accord: level scales for Balance before Dominion, the interwoven bands of the Concord Lattice, and at the centre a fragment of Soul Crystal.*
+*The emblem of the Accord: level scales for Balance before Dominion, the interwoven bands of the Concord Lattice, and at the center a fragment of Soul Crystal.*
 
 ---
 
@@ -25,7 +25,7 @@ The Guild Accord is the communion of guilds, academies, and Orders, signed circl
 >
 > Through this covenant, the Realms endure.
 >
-> **Read the Modern Era page first.** The covenant below is unchanged and so are the Divisions, the Tiered Path, the Commission Classes and the Black Concord. What has changed is the **register**: Lattice terminals, projected sigils, Aether credits and echo marks are rendered in the Draw Age as **the board, seal colours struck in wax, draughts and letters of credit, and entries in ink.** Nothing metaphysical is lost. The Lattice still records. It is not a screen, and nobody in the four quarters has ever seen a number floating in the air.
+> **Read the Modern Era page first.** The covenant below is unchanged and so are the Divisions, the Tiered Path, the Commission Classes and the Black Concord. What has changed is the **register**: Lattice terminals, projected sigils, Aether credits and echo marks are rendered in the Draw Age as **the board, seal colors struck in wax, draughts and letters of credit, and entries in ink.** Nothing metaphysical is lost. The Lattice still records. It is not a screen, and nobody in the four quarters has ever seen a number floating in the air.
 >
 > The Modern Era page also carries what this codex never had: **where the Accord actually reaches**, the Divisions as rivals rather than colleagues, the politics of the High Concordant, the company and academy structures beneath the Guildmasters, and the great offices.
 
@@ -65,7 +65,7 @@ flowchart TD
     GM --> DG["DEPUTY GUILDMASTERS<br>& PRIME INSTRUCTORS"]
     GM --> PL["PARTY LEADERS<br>tactical authority only"]
 ```
-> **The High Concordant.** Supreme Head, and the living voice of the Codex. Their soul is woven directly into the **Heart Vault**, the Wellspring Core at the centre of the Concord Citadel, and their breath sustains the Lattice's glow across every realm.
+> **The High Concordant.** Supreme Head, and the living voice of the Codex. Their soul is woven directly into the **Heart Vault**, the Wellspring Core at the center of the Concord Citadel, and their breath sustains the Lattice's glow across every realm.
 >
 > **Should the High Concordant perish without succession, the Vault stills, and the Guild Accord collapses.**
 

@@ -72,7 +72,7 @@ That puts him on the first rung of the tell ladder (the body's fixed signs of a 
 
 **[7] Her stack, and her own gap.**
 - *Focus:* she gathers her coat into the right fist. Her Flux, 250, B, is lifted one Grade, to A, in that fist alone. Everything else on her drops to the passive base. For the length of one punch, she is as open as he was.
-- *Stack:* focused coat plus the ARC NAIL call. Two layers, inside her cap (two Grades over her sustainable B), and the same fracture risk his carried. Her colour shows her Stage: Splintering Essence is fracture-streaked, hairlines of the Family's true colour flaring through a darker field.
+- *Stack:* focused coat plus the ARC NAIL call. Two layers, inside her cap (two Grades over her sustainable B), and the same fracture risk his carried. Her color shows her Stage: Splintering Essence is fracture-streaked, hairlines of the Family's true color flaring through a darker field.
 - *Timing:* the call costs her a beat too. She spends it in the beat his hips cannot use.
 
 **[8] What decided it.**

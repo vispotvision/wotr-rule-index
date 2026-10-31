@@ -57,7 +57,7 @@ A syllable is heavy if it contains a long vowel, a geminate, a syllabic *r*, or 
 
 **Emphasis is duration. Never volume.**
 
-This is the load-bearing prosodic fact and it is a cultural one. Volume in goblinoid usage is a signalling function, for shouting across water or a working floor, and carries no emotional content whatsoever. A goblinoid who raises his voice in an argument is understood to have lost control of the situation and is treated accordingly.
+This is the load-bearing prosodic fact and it is a cultural one. Volume in goblinoid usage is a signaling function, for shouting across water or a working floor, and carries no emotional content whatsoever. A goblinoid who raises his voice in an argument is understood to have lost control of the situation and is treated accordingly.
 
 To emphasise, a speaker **holds the vowel**. In writing this is marked by doubling beyond the lexical length, so a word already long can go longer.
 > *durrak* — a thousand-count of years

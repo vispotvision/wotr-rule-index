@@ -91,7 +91,7 @@ Durability is the total destructive energy a character can absorb, deflect, dist
 
 **Layer Three: Technique-Active Defenses.** Wards, barriers, Domain-grade exclusion fields actively maintained or deployed. Not included in baseline benchmarks because they are technique-dependent and Essence-costly. A Fixatio-anchored (anchored on Fixatio, the Wellspring of binding) barrier with a 50 TJ ceiling adds that on top of baseline, but costs Essence to maintain and can be shattered independently.
 
-**Layer Four: Domain Resistance.** At A-Grade and above, practitioners with active Domains gain a layer derived from Domain coherence. Within their own Domain, local law favours their survival. Not quantified in Joules, because it does not absorb energy. It degrades the coherence of incoming attacks, reducing effective yield before it reaches the Shell.
+**Layer Four: Domain Resistance.** At A-Grade and above, practitioners with active Domains gain a layer derived from Domain coherence. Within their own Domain, local law favors their survival. Not quantified in Joules, because it does not absorb energy. It degrades the coherence of incoming attacks, reducing effective yield before it reaches the Shell.
 
 | Tier Grade | Total Durability Ceiling (J) | TNT Equiv. | Survival Threshold |
 |---|---|---|---|
@@ -210,7 +210,7 @@ Path modifiers apply *after* Temperance and Tier are calculated. The magnitude w
 
 **The Apotheosis Threshold.** The Zenith rows in these tables sit beside the Grade ladder, not on it: each is keyed to a Stage, where every row above it is keyed to a stat range. At Zenith, Stage XIV, Physical Force is no longer assessed by conventional metrics. Revelation, Stage XV, keeps its EX+ Grade label, but its force goes unmeasured in the same way; the EX+ row marks where the lettered ladder ends, not a figure a Revelation practitioner is measured by. A punch from a Zenith-level practitioner does not deliver a quantifiable number of Joules. It delivers an event the local physics must accommodate. Conventional Joule ratings assume energy is a finite quantity interacting with matter by known law; Zenith-level force can locally alter those laws as a byproduct of delivery. The energy is real. The interaction is no longer standard.
 
-**The Hollow Floor.** Hollow-Grade output is indistinguishable from ordinary mortal capacity, below sixty Joules, a normal human fist at under twelve and a half metres per second. Most characters have already left it before entering the System, because the System does not begin tracking a soul until the Crystal has opened.
+**The Hollow Floor.** Hollow-Grade output is indistinguishable from ordinary mortal capacity, below sixty Joules, a normal human fist at under twelve and a half meters per second. Most characters have already left it before entering the System, because the System does not begin tracking a soul until the Crystal has opened.
 
 **Overchannel Spikes.** The benchmarks above are sustainable output. Overchannel can temporarily spike Strike Force and Lifting Strength by **two to five times** the sustainable ceiling, depending on the Ardency Overchannel Sub-Stat's Grade and the character's tolerance for Crystal Fracture risk. Every Overchannel event deposits structural damage that must be healed through rest, alchemical treatment or Temperance advancement. A character who regularly Overchannels accumulates fracture density that eventually becomes permanent. Some fractures become architectural features. Most become liabilities.
 

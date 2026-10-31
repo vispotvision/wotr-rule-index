@@ -67,7 +67,7 @@ Its bearer carries the technique as an inheritance rather than an invention: an 
 
 ### Metaphysics
 
-**Aether** · Ambient draw across 2,827 m², weighted to the inner ten metres; Vitalia wants living biomass and blood nearby and fails on sterile, frozen or depleted ground. It leaves a lasting bloom that deafens Harmonists while it stands.
+**Aether** · Ambient draw across 2,827 m², weighted to the inner ten meters; Vitalia wants living biomass and blood nearby and fails on sterile, frozen or depleted ground. It leaves a lasting bloom that deafens Harmonists while it stands.
 
 **Wellspring** · Verdantia, the Green Pulse (Vitalia): a plant has no final size and converts ambient energy to structure continuously, so its practitioners recover while idle and are hard to exhaust.
 
@@ -118,7 +118,7 @@ Its bearer carries the technique as an inheritance rather than an invention: an 
 
 **Tell** · Someone singing without stopping; it cannot be hidden, because the hymn is the working. Afterwards, the bloom in the ground and patients warm to the touch.
 
-**Limits** · Thirty metres, four turns a hymn, unbroken voice, gradual, no limbs restored, Essence lines halted not reversed, needs living tissue nearby, healed tissue capped at B.
+**Limits** · Thirty meters, four turns a hymn, unbroken voice, gradual, no limbs restored, Essence lines halted not reversed, needs living tissue nearby, healed tissue capped at B.
 
 **Fails against** · A voice stopped for one breath (noise, gag, grapple, throat); stone, ash or burned ground; a Mortalis current corrupting the healing; the singer's exposed feelings, open to reading; a volley on its known, stationary position.
 

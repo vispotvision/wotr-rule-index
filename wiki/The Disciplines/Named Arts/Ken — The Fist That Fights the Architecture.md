@@ -111,7 +111,7 @@ Ken's effects are recoverable. The disrupted interface is not destroyed — it i
 
 ## Counters
 
-**Armour and distance** · Ken requires contact at anatomically specific sites. Full plate, Recarvu hardening, Materia-reinforced barriers — **the counter-frequency impulse disperses before reaching the interface.**
+**Armor and distance** · Ken requires contact at anatomically specific sites. Full plate, Recarvu hardening, Materia-reinforced barriers — **the counter-frequency impulse disperses before reaching the interface.**
 
 **High Resilience Coherence** · Immune to Psychiken outright. Physical Ken still functions, but the discipline loses its most dangerous mode.
 
@@ -136,5 +136,5 @@ A fighter with two broken ribs is in pain, compensates around the injury, and fi
 
 ## Archival Note
 
-Catalogued as a diagnostic-strike Corporis discipline spanning Fulguria (Judicium), Vectoria (Fractura) and Vitalia (Mortalis) for Psychiken mode. The two modes are the same read-and-strike mechanism applied to different layers of the Crystal's stat architecture. Character-specific expressions — preferred targets, diagnostic specialisation, Psychiken qualification status — are recorded in the relevant character's codex entry.
-> Ken's closest systemic relatives are Fractura-based fault-reading and Judicium-based diagnostic disciplines. **Ken is distinguished by its target: not the Crystal, not the body, but the interface between them. No other catalogued discipline operates at that junction.**
+Catalogd as a diagnostic-strike Corporis discipline spanning Fulguria (Judicium), Vectoria (Fractura) and Vitalia (Mortalis) for Psychiken mode. The two modes are the same read-and-strike mechanism applied to different layers of the Crystal's stat architecture. Character-specific expressions — preferred targets, diagnostic specialisation, Psychiken qualification status — are recorded in the relevant character's codex entry.
+> Ken's closest systemic relatives are Fractura-based fault-reading and Judicium-based diagnostic disciplines. **Ken is distinguished by its target: not the Crystal, not the body, but the interface between them. No other catalogd discipline operates at that junction.**

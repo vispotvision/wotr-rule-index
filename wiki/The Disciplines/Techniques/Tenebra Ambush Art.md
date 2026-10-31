@@ -8,7 +8,7 @@ title: "Tenebra Ambush Art"
 
 ### Summary card
 
-**Effect · The practitioner closes the noise floor** around himself, crosses eight metres in an instant, and arrives already mid-strike. *A quarry that was watching the space he left never sees the space he arrives in.*
+**Effect · The practitioner closes the noise floor** around himself, crosses eight meters in an instant, and arrives already mid-strike. *A quarry that was watching the space he left never sees the space he arrives in.*
 
 **Cost** · Essence draw shows as a mild drip from eyes and nose. No EU figure is recorded for it.
 
@@ -58,7 +58,7 @@ Its author derived this alone, out of the same self-imposed trials of endurance 
 
 ### Physics
 
-**Phenomenon** · Contrast reduction: in a dim place the practitioner's Shell absorbs light and angles what little it returns away from the watcher, so he drops below the noise floor; then he crosses eight metres as an ordinary body through air.
+**Phenomenon** · Contrast reduction: in a dim place the practitioner's Shell absorbs light and angles what little it returns away from the watcher, so he drops below the noise floor; then he crosses eight meters as an ordinary body through air.
 
 **Law** · Detection range goes as the fourth root of the return, R ∝ σ^¼, and contrast is C = (L*object − L*background) / L_background; the crossing obeys Newton, and its noise grows with the sixth power of speed.
 
@@ -136,8 +136,8 @@ Its author derived this alone, out of the same self-imposed trials of endurance 
 
 **Tell** · Cold and ozone first, a room slightly too quiet, a shear of air over a hundred decibels on a fast crossing, blood at eyes and nose, and two cold trails where Cinerion is held.
 
-**Limits** · Buys eight metres and no more; nothing in light; nothing at forty metres; cannot hide its own sound.
+**Limits** · Buys eight meters and no more; nothing in light; nothing at forty meters; cannot hide its own sound.
 
 **Fails against** · Light; a watcher at an angle the facets were not built for; lit crowds or soft ground; distance; a volley into the dark doorway; a lost anchor below Refraction; the nearest dark, known beforehand; a sidestep, which leaves him to stop himself.
 
-**Look up** · The Limina and Vectoria favour lists; the Tenebra and Petralon Failures; the A-Grade Contact Range; the Glory Stage table; Cinerion for the trail.
+**Look up** · The Limina and Vectoria favor lists; the Tenebra and Petralon Failures; the A-Grade Contact Range; the Glory Stage table; Cinerion for the trail.

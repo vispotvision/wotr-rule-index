@@ -198,7 +198,7 @@ In the margin, level with Brack's line, he wrote one word. *edges.*
 
 He folded the docket form once, with her name inward, and laid it in the book at the page.
 
-The street door let in rain and a day clerk. He was a man of fifty or so, bald across the crown with a short fringe of grey above the ears, clean-shaven, his face gone red from the walk. He was heavy through the belly under a brown day-coat buttoned one hole wrong, and he had black sateen oversleeves on to keep the ink off his cuffs, with a wen at the side of his nose that he touched when he was thinking. He shook his hat out on the mat.
+The street door let in rain and a day clerk. He was a man of fifty or so, bald across the crown with a short fringe of gray above the ears, clean-shaven, his face gone red from the walk. He was heavy through the belly under a brown day-coat buttoned one hole wrong, and he had black sateen oversleeves on to keep the ink off his cuffs, with a wen at the side of his nose that he touched when he was thinking. He shook his hat out on the mat.
 
 "Still on the main, Master Ashmore?"
 

@@ -84,7 +84,7 @@ It has a single known practitioner, whose instrument is the Aether Chord Staff; 
 
 **Prior read** · Each technique must be heard separately: the lock holds only for a working already retained, so it fails against a varied repertoire.
 
-**Effect** · The target feels a thin rising chord and a hum; then his working leaves at full strength and lands thirty metres off, or comes home and hits him as precisely as he aimed it, or becomes light and noise. The arrival angle chooses, not the practitioner.
+**Effect** · The target feels a thin rising chord and a hum; then his working leaves at full strength and lands thirty meters off, or comes home and hits him as precisely as he aimed it, or becomes light and noise. The arrival angle chooses, not the practitioner.
 
 **Scope** · One ability instance of one caster, on his next offensive action this encounter; never several casters in a shared ritual, never a purely mundane attack.
 
@@ -118,4 +118,4 @@ It has a single known practitioner, whose instrument is the Aether Chord Staff; 
 
 **Fails against** · A crossbow; no casting in its reach, or a varied repertoire; noise (Void, Entropy, Knot); a path-fixing ward before the lock; a gagged or deafened chord; fog, shielding, crowds or a Domain; small or distant casting.
 
-**Look up** · The Fulguria and Limina favour lists; the Aurevane and Mirithane Failures; the Counterplay register for Knot; the Refraction Stage table; the A-Grade Projected Force Range.
+**Look up** · The Fulguria and Limina favor lists; the Aurevane and Mirithane Failures; the Counterplay register for Knot; the Refraction Stage table; the A-Grade Projected Force Range.

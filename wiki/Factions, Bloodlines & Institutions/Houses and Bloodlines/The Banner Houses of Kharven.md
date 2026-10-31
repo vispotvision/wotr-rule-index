@@ -18,7 +18,7 @@ The Banner Houses carry northern names because their roots predate the Moto arri
 
 **Current head:** Zaehaerys Stark, Warden of the Eastern March
 
-The Starks were the first house to accept Muken's alliance and the only house to accept it without being defeated first. Not because the Starks were weak — because the Starks were competent, and competent people recognise competence, and Muken's competence was visible from the moment he crossed the March with a column moving faster than anything the Starks had seen move through boreal forest. Zaehaerys's ancestor met him at the old boundary stones, measured the man against the measurement system the Starks had been applying to the world for three hundred and seventy-six years, and found the measurement favoured alliance over resistance.
+The Starks were the first house to accept Muken's alliance and the only house to accept it without being defeated first. Not because the Starks were weak — because the Starks were competent, and competent people recognise competence, and Muken's competence was visible from the moment he crossed the March with a column moving faster than anything the Starks had seen move through boreal forest. Zaehaerys's ancestor met him at the old boundary stones, measured the man against the measurement system the Starks had been applying to the world for three hundred and seventy-six years, and found the measurement favored alliance over resistance.
 
 The Starks carry an ice-aspected bloodline inheritance that predates the Moto and operates outside the standard Wellspring framework: a cold radiating from body and blood, intensifying under emotional pressure, silvering timber and stiffening snow in a radius around the bearer. The inheritance is not Moto. It is northern, older than the kingdom and older than the Starks' own records, and the Starks do not discuss its origins with outsiders because the origins are Stark business and the Starks keep their business behind their borders.
 
@@ -56,7 +56,7 @@ The least martial house in a martial kingdom and the most quietly dangerous. The
 
 The current head governs through bureaucratic competence rather than personal combat capability: soft voice, clean hands, and the danger that comes from knowing exactly how many bushels each Banner House needs to survive December and being willing to adjust the allocation on political grounds. The Ashmores do not threaten. Threats are for houses whose leverage requires explanation. Ashmore leverage explains itself every time the temperature drops.
 
-When the kingdom fell they survived because food is the one currency that never loses value. They traded grain for protection, protection for political access, political access for favourable positioning in whatever structure emerged from the collapse, and the positioning ensured that whoever eventually re-established the Crown would need the Ashmores more than the Ashmores needed the Crown. This is the Ashmore method. It has not failed in three centuries because it cannot fail. People always need to eat.
+When the kingdom fell they survived because food is the one currency that never loses value. They traded grain for protection, protection for political access, political access for favorable positioning in whatever structure emerged from the collapse, and the positioning ensured that whoever eventually re-established the Crown would need the Ashmores more than the Ashmores needed the Crown. This is the Ashmore method. It has not failed in three centuries because it cannot fail. People always need to eat.
 
 ## 4. House Thornwall
 
@@ -68,7 +68,7 @@ When the kingdom fell they survived because food is the one currency that never 
 
 Merchant-warriors, comfortable with commerce in a way most northern houses find slightly undignified and the Thornwalls consider essential. Their wealth comes from the ironwood stands the Dawi import for tool handles and ward-station construction, and their diplomatic function as the Stannvaard-facing house gives them an outsized voice in economic policy. They read trade manifests the way other houses read battle reports, and consider the ability to predict a supply shortage six months out a more valuable military skill than the ability to hold a shield wall, on the grounds that the shield wall is useless if the men behind it are starving.
 
-When Stannvaard cuts grain supply but keeps sending inscription substrate, the Thornwalls notice first, because they have tracked Stannvaard's trade behaviour for generations and know the difference between a shortage and a message. Their current reading of the Ore Council's supply decisions is that they are political rather than logistical: the Dawi are comfortable with an armed frontier buffer state and uncomfortable with an independent one, and the grain cut is a statement about the limits of Kharven's autonomy rather than a reflection of Stannvaard's capacity. The reading is correct. The Thornwalls are almost always correct about trade, which is why the other houses find them slightly irritating.
+When Stannvaard cuts grain supply but keeps sending inscription substrate, the Thornwalls notice first, because they have tracked Stannvaard's trade behavior for generations and know the difference between a shortage and a message. Their current reading of the Ore Council's supply decisions is that they are political rather than logistical: the Dawi are comfortable with an armed frontier buffer state and uncomfortable with an independent one, and the grain cut is a statement about the limits of Kharven's autonomy rather than a reflection of Stannvaard's capacity. The reading is correct. The Thornwalls are almost always correct about trade, which is why the other houses find them slightly irritating.
 
 ## 5. House Keld
 
@@ -98,7 +98,7 @@ The Hallenfelds are not glamorous. They do not produce legendary warriors or pol
 
 When the kingdom fell the Hallenfelds lost their function, because the thing they connected stopped existing. A nervous system without a body is wire. They have spent the years since maintaining the roads, the river crossings and the signal posts with the dogged persistence of people who believe the body will return and that when it does the nervous system needs to be ready.
 
-**Osric of Hallenfeld**, a survivor of the house's collapse, is currently among the 'uncles' advising Hild Stark in the Ironwood March. His presence in her coalition represents the Hallenfeld interest in restoring central authority, because the Hallenfelds cannot perform their function without a centre to connect things to.
+**Osric of Hallenfeld**, a survivor of the house's collapse, is currently among the 'uncles' advising Hild Stark in the Ironwood March. His presence in her coalition represents the Hallenfeld interest in restoring central authority, because the Hallenfelds cannot perform their function without a center to connect things to.
 
 ## The Six at a Glance
 
@@ -109,6 +109,6 @@ When the kingdom fell the Hallenfelds lost their function, because the thing the
 | Ashmore | Ashbury | Grain, the Greenhollow | Survived by trading food upward. Positioned. |
 | Thornwall | Thornhaven | Ironwood, the Stannvaard corridor | Reading the Ore Council correctly and unheeded. |
 | Keld | None. Polar Reach camps. | The tundra beyond the treeline | Withdrew. Must be won back in person. |
-| Hallenfeld | Hallenfeld junction | Roads, rivers, couriers | Function lost with the centre. Maintaining anyway. |
+| Hallenfeld | Hallenfeld junction | Roads, rivers, couriers | Function lost with the center. Maintaining anyway. |
 
 ---

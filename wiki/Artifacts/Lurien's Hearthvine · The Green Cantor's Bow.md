@@ -8,11 +8,11 @@ title: "Lurien's Hearthvine · The Green Cantor's Bow"
 
 ### What it is
 
-A Relic Glyph Tool, capable of standing as a minor Domain Anchor when planted in living ground. A living bow grown from twined heartwood and creeping vine, bark smooth where the palms rest and rough and knotted along the limbs. Fresh leaves sprout year round, veining with faint Aether-light when drawn; the string is a silvery gut-fibre that hums like a beesong, and dew beads on it at dawn even indoors. It was sung into shape at the Holy Sea of Alabaster during the Withering Era by a figure the card calls the first Green Cantor, using a graft from the Sanctuary Bough and roots steeped in Wellspring sap. No cut was ever made in its making, only coaxed growth guided by Parunic song.
+A Relic Glyph Tool, capable of standing as a minor Domain Anchor when planted in living ground. A living bow grown from twined heartwood and creeping vine, bark smooth where the palms rest and rough and knotted along the limbs. Fresh leaves sprout year round, veining with faint Aether-light when drawn; the string is a silvery gut-fiber that hums like a beesong, and dew beads on it at dawn even indoors. It was sung into shape at the Holy Sea of Alabaster during the Withering Era by a figure the card calls the first Green Cantor, using a graft from the Sanctuary Bough and roots steeped in Wellspring sap. No cut was ever made in its making, only coaxed growth guided by Parunic song.
 
 ### Physical account
 
-A war bow: plausible mass 0.9 kg (living wood runs lighter than seasoned yew), draw length 71 cm, draw weight an estimated 70 lb, point of balance at the grip, just below the arrow rest, where the riser is densest. On armour: it beats padded and mail cleanly, a broadhead through cloth or rings needs nothing special from the bow. A Ma-guided shot finds the gap in brigandine the way any well-placed arrow does. It turns on proofed plate the way any arrow turns, though a Seedshaft that lands in a joint, a visor slit, or a grapple point still roots and binds the man wearing the plate regardless.
+A war bow: plausible mass 0.9 kg (living wood runs lighter than seasoned yew), draw length 71 cm, draw weight an estimated 70 lb, point of balance at the grip, just below the arrow rest, where the riser is densest. On armor: it beats padded and mail cleanly, a broadhead through cloth or rings needs nothing special from the bow. A Ma-guided shot finds the gap in brigandine the way any well-placed arrow does. It turns on proofed plate the way any arrow turns, though a Seedshaft that lands in a joint, a visor slit, or a grapple point still roots and binds the man wearing the plate regardless.
 
 ### Operation line
 

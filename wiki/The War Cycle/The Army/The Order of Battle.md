@@ -29,7 +29,7 @@ Baggage runs at roughly one wagon per ten combatants, rising to one per six wher
 | Tail | What it is |
 |---|---|
 | **The necessary tail** | Carters, smiths, surgeons, cooks. **Cannot be reduced without reducing the army.** *The Division has attempted it four times and abandoned it four times* |
-| **The tolerated tail** | Sutlers, hawkers, licensed followers. Feed and clothe the army **at no cost to the treasury**, and are the reason troops do not desert to find these things elsewhere. *Every commander despises them and every commander licences them* |
+| **The tolerated tail** | Sutlers, hawkers, licensed followers. Feed and clothe the army **at no cost to the treasury**, and are the reason troops do not desert to find these things elsewhere. *Every commander despises them and every commander licenses them* |
 | **The unacknowledged tail** | Wives without contract, children, camp women, **the destitute who attach to an army because an army eats.** Regulated on paper, present in fact, **and the first to be abandoned when the column is pressed** |
 
 ---
@@ -52,7 +52,7 @@ Under Article IV, every signatory contributes combatants, specialists or logisti
 | System | What it is | Its characteristic failure |
 |---|---|---|
 | **Crown levy** | Service owed for land. Cheap, slow, seasonal, **and legally limited in duration** | **A levy that reaches its term walks home and is within its rights** — which is why levy campaigns end abruptly and often at the worst moment. Cannot hold a Domain-contested line, cannot be marched far from their own districts without dissolution |
-| **Indenture** | A captain contracts to deliver a stated number of men of stated quality for a stated term at a stated rate. **The dominant system in the Old World and the most flexible** | **The muster.** A captain paid per head has an interest in heads, and **borrowing men from a neighbouring company on inspection day is old enough to have its own vocabulary in three languages.** Commissioners now count by Lattice signature, *which has reduced the fraud and raised its price* |
+| **Indenture** | A captain contracts to deliver a stated number of men of stated quality for a stated term at a stated rate. **The dominant system in the Old World and the most flexible** | **The muster.** A captain paid per head has an interest in heads, and **borrowing men from a neighboring company on inspection day is old enough to have its own vocabulary in three languages.** Commissioners now count by Lattice signature, *which has reduced the fraud and raised its price* |
 | **Guild company** | Chartered houses fielding their own formations under Accord commission. Well-equipped, well-paid, technically excellent | **Contractually specific.** A guild company that has completed the object of its commission **stops**, and no appeal to the situation on the ground will move it, **because the Lattice recorded the object at signature and will record the deviation** |
 | **Contract companies** | Free companies hired by the season. The Accord's public position is that they are a regrettable necessity. **Its actual practice is that a third of any large Concord force is contracted, because contracted men can be sent where the Law of Reversal makes it awkward to send Legion troops** | **Unpaid contract companies mutiny, and a mutinied company does not go home. It takes the nearest town in lieu of wages** |
 

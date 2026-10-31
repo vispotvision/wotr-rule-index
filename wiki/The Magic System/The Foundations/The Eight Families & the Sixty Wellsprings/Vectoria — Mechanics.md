@@ -41,7 +41,7 @@ title: "Vectoria — Mechanics"
 
 ## Sublimatio · *The Ascending Breath*
 
-**Analogue** · Sublimation. Solid to vapour with no liquid phase, below the triple point.
+**Analogue** · Sublimation. Solid to vapor with no liquid phase, below the triple point.
 
 **Mechanism** · At sufficiently low pressure a solid does not melt. It leaves directly, and whatever cannot make that transition stays behind as residue. Sublimatio holds the Shell below its triple point so Essence skips the intermediate state entirely: no pooling, no partial expression, no waste at the phase boundary where most practitioners lose their margin.
 
@@ -53,9 +53,9 @@ title: "Vectoria — Mechanics"
 
 **Analogue** · Fractional distillation. Separation by differential volatility.
 
-**Mechanism** · A mixture heated in a column separates because its components have different vapour pressures, and the fraction that rises is not the same substance that entered. Where Sublimatio skips a phase, Sublimare separates a mixture. The Crystal is run as a column: impurity is driven off as the lighter fraction and what descends is the practitioner refined toward a single component.
+**Mechanism** · A mixture heated in a column separates because its components have different vapor pressures, and the fraction that rises is not the same substance that entered. Where Sublimatio skips a phase, Sublimare separates a mixture. The Crystal is run as a column: impurity is driven off as the lighter fraction and what descends is the practitioner refined toward a single component.
 
-**Stat Effect** · Strengthens Tempering Clarity, Resilience Insulation. The Crystal purifies itself, burning off impurities as silver vapour.
+**Stat Effect** · Strengthens Tempering Clarity, Resilience Insulation. The Crystal purifies itself, burning off impurities as silver vapor.
 
 **Failure** · Azeotrope. Some mixtures cannot be separated by distillation at all, and the practitioner runs the column indefinitely against a contaminant that boils at exactly their own temperature.
 
@@ -83,8 +83,8 @@ title: "Vectoria — Mechanics"
 
 **Analogue** · Work hardening. Dislocation multiplication under plastic strain.
 
-**Mechanism** · Bend a metal past yield and it becomes harder to bend again, because plastic deformation multiplies dislocations until they obstruct one another. The material is strongest exactly where it was most abused. Penance imposes that constitutive behaviour on the Crystal, so deliberate strain accumulates strength, and the strength is honest because it is located precisely at the sites of prior failure.
+**Mechanism** · Bend a metal past yield and it becomes harder to bend again, because plastic deformation multiplies dislocations until they obstruct one another. The material is strongest exactly where it was most abused. Penance imposes that constitutive behavior on the Crystal, so deliberate strain accumulates strength, and the strength is honest because it is located precisely at the sites of prior failure.
 
-**Stat Effect** · Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behaviour.
+**Stat Effect** · Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behavior.
 
 **Failure** · Strain embrittlement. Past a certain dislocation density the material has no ductility left, and the next load does not deform it. It ends it.

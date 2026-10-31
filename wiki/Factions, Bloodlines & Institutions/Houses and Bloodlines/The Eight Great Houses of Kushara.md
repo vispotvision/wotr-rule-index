@@ -21,7 +21,7 @@ Several of the Seven ruled independent kingdoms, confederacies, tribal territori
 
 **Additional titles:** House of the Living Throne · Blood of the Crownlands · Keepers of Kushara
 
-**Continental duty:** Sovereignty, continental law, supreme defence, inter-house arbitration, Royal Roads, Path stewardship
+**Continental duty:** Sovereignty, continental law, supreme defense, inter-house arbitration, Royal Roads, Path stewardship
 
 **Greatest asset:** The strongest sovereign bloodline and military lineage in the Old World
 
@@ -46,7 +46,7 @@ In continental war Kushara does not replace the forces of the Seven. It becomes 
 
 **Seat:** Khar'Mbara · **Territory:** The M'Bala Great Savannas and southern Kharu Belt
 
-**Continental duty:** Armies, cavalry, migration-road security, central defence
+**Continental duty:** Armies, cavalry, migration-road security, central defense
 
 **Greatest asset:** The largest bannermen host in the Old World
 
@@ -84,7 +84,7 @@ Vokari wealth underwrites sovereign coinage, military procurement, continental i
 
 Malani governs the resource every throne eventually discovers matters more than gold. Its lands follow the Nahal River System across floodplains, wetland farms, island communities, livestock regions, fisheries, irrigation districts, orchards and grain valleys. Its power is measured not by how its soldiers look but by how long a region survives when the rains fail.
 
-The house keeps the **Flood Calendar**, an archive combining rainfall, sediment, mountain snowmelt, water colour, Wellspring behaviour, animal migration, river depth and centuries of flood records. Malani engineers use reservoirs, spill channels, gates, canals, flood fields and artificial wetlands to turn destructive river expansion into agricultural renewal.
+The house keeps the **Flood Calendar**, an archive combining rainfall, sediment, mountain snowmelt, water color, Wellspring behavior, animal migration, river depth and centuries of flood records. Malani engineers use reservoirs, spill channels, gates, canals, flood fields and artificial wetlands to turn destructive river expansion into agricultural renewal.
 
 Malani barges carry grain, fish, preserved meat, fruit, oils, livestock, river salt, medicinal reeds and emergency drinking water toward the capital continuously, and royal strategic granaries are maintained with Malani assistance. When M'Bala dries, when Zamaran storms destroy crops, when northern settlements lose harvests, Malani reserves are redirected under sovereign command.
 > Crowns rule men. Malani decides whether those men eat.
@@ -99,16 +99,16 @@ Malani barges carry grain, fish, preserved meat, fruit, oils, livestock, river s
 
 Obaru borders rarely follow straight lines. Jurisdiction follows rivers, groves, canopy roads, ancestral territories, settlements, living boundary trees and recognised forest corridors through the Nyoka Rainsea.
 
-Its wealth is biological: medicinal compounds, poisons, rare fibres, resins, fungi, spirit amber, Memory bark, bloodwood and living materials that cannot be reliably cultivated elsewhere. Obaru healers and naturalists keep enormous archives recording which substances heal, poison, preserve, sedate, regenerate, stabilise Essence, or turn dangerous in combination.
+Its wealth is biological: medicinal compounds, poisons, rare fibers, resins, fungi, spirit amber, Memory bark, bloodwood and living materials that cannot be reliably cultivated elsewhere. Obaru healers and naturalists keep enormous archives recording which substances heal, poison, preserve, sedate, regenerate, stabilise Essence, or turn dangerous in combination.
 
-Kushara draws anti-venoms, medicinal resins, battlefield drugs, restorative fungi, rare herbs, surgical compounds, Memory bark, spirit amber, bloodwood and specialised healing fibres from these territories, along with extremely durable tropical timber for major architecture and weapon construction. Obaru patrols maintain canopy roads, regulate harvests, protect sacred groves, manage dangerous fauna, monitor disease, recover travellers and investigate biological Wellspring corruption.
-> When armour breaks and blood follows, Obaru becomes the stronger shield.
+Kushara draws anti-venoms, medicinal resins, battlefield drugs, restorative fungi, rare herbs, surgical compounds, Memory bark, spirit amber, bloodwood and specialised healing fibers from these territories, along with extremely durable tropical timber for major architecture and weapon construction. Obaru patrols maintain canopy roads, regulate harvests, protect sacred groves, manage dangerous fauna, monitor disease, recover travelers and investigate biological Wellspring corruption.
+> When armor breaks and blood follows, Obaru becomes the stronger shield.
 
 ## 6. House N'Yari — The House Beneath the Mountain
 
 **Seat:** Yarath-Kel · **Territory:** The Great Akar Rift, Broken Spine, southern Orunthal approaches
 
-**Continental duty:** Strategic minerals, eastern defence, geothermal engineering, Rift crossings
+**Continental duty:** Strategic minerals, eastern defense, geothermal engineering, Rift crossings
 
 **Greatest asset:** The greatest concentration of rare magical minerals under one regional authority
 
@@ -123,13 +123,13 @@ Its troops specialise in mountain warfare, cliff operations, volcanic hazard, ae
 
 **Seat:** Jomaraz · **Territory:** Zamara Gulf, Nine-Mouth Delta approaches, southwestern coast
 
-**Continental duty:** Navy, ports, foreign commerce, shipbuilding, coastal defence
+**Continental duty:** Navy, ports, foreign commerce, shipbuilding, coastal defense
 
 **Greatest asset:** The largest fleet in the Old World
 
 Jomari authority stretches across the Painted Harbors, the Sapphire Shelf, important islands, major coastal cities, naval fortresses and portions of the Nine-Mouth Delta. It maintains the **Gulf Fleet**, the largest maritime force on the continent, defending shipping lanes, suppressing piracy, escorting merchants, hunting dangerous sea creatures, transporting troops and monitoring foreign naval movement.
 
-Jomari shipwrights combine tropical hardwood, ironwood, Tide crystal, metal reinforcement and foreign technique into some of the finest ships built outside dedicated maritime civilisations. Diplomats, imported technology, distant goods, overseas intelligence, foreign merchants and visitors pass through Jomari harbours before moving inland, and the house keeps vessels reserved for sovereign deployment.
+Jomari shipwrights combine tropical hardwood, ironwood, Tide crystal, metal reinforcement and foreign technique into some of the finest ships built outside dedicated maritime civilisations. Diplomats, imported technology, distant goods, overseas intelligence, foreign merchants and visitors pass through Jomari harbors before moving inland, and the house keeps vessels reserved for sovereign deployment.
 > Kushara commands the land roads. Jomari keeps the horizon open.
 
 ## 8. House Zembari — Keepers of the Hidden Water
@@ -151,8 +151,8 @@ Its riders maintain wells, rescue caravans, map migrating dunes, monitor Essence
 
 | Great House | Position | Continental Function | Greatest Strategic Asset |
 |---|---|---|---|
-| Zettari | Sovereign House | Continental rule, supreme defence, arbitration | Strongest bloodline and the Kusharan throne |
-| N'Kharu | Pillar House | Armies and central defence | Largest bannermen levy |
+| Zettari | Sovereign House | Continental rule, supreme defense, arbitration | Strongest bloodline and the Kusharan throne |
+| N'Kharu | Pillar House | Armies and central defense | Largest bannermen levy |
 | Vokari | Pillar House | Treasury and precious metals | Richest gold mines |
 | Malani | Pillar House | Agriculture and river management | Largest food network |
 | Obaru | Pillar House | Medicine and rainforest stewardship | Greatest medicinal resources |
@@ -164,7 +164,7 @@ Its riders maintain wells, rescue caravans, map migrating dunes, monitor Essence
 
 Zettari supremacy does not make the others unnecessary. Dawn Guard's system does almost the opposite: he wants them powerful. A weak N'Kharu cannot defend M'Bala. A weak Malani cannot answer famine. A weak Jomari cannot hold the coast. A weak N'Yari cannot maintain the Rift. A weak Zembari loses the north.
 
-The objective is not to prevent strength. It is to make strength **interdependent**. N'Kharu armies require Malani food, Vokari coin, N'Yari material, Obaru medicine, Zembari intelligence and Jomari shipping. Vokari requires roads, labour, protection, food and markets. Malani requires military protection and transport. Obaru requires trade infrastructure. N'Yari requires food and commercial access. Jomari requires inland cargo, timber, ore and grain. Zembari requires manufactured goods and southern agriculture. And all seven require an authority capable of settling the disputes that inevitably follow.
+The objective is not to prevent strength. It is to make strength **interdependent**. N'Kharu armies require Malani food, Vokari coin, N'Yari material, Obaru medicine, Zembari intelligence and Jomari shipping. Vokari requires roads, labor, protection, food and markets. Malani requires military protection and transport. Obaru requires trade infrastructure. N'Yari requires food and commercial access. Jomari requires inland cargo, timber, ore and grain. Zembari requires manufactured goods and southern agriculture. And all seven require an authority capable of settling the disputes that inevitably follow.
 
 ## The Council of Seven Pillars
 

@@ -55,13 +55,13 @@ Spinal Forge Ascent is a documented body-Transmutation art of anonymous authorsh
 
 ### Physics
 
-**Phenomenon** · Anaerobic energy debt and a fibre-type shift, with bone compacted at constant mass: for eighteen seconds the fighter's own muscle and skeleton are rearranged for peak output, nothing added or removed, and afterwards the body pays.
+**Phenomenon** · Anaerobic energy debt and a fiber-type shift, with bone compacted at constant mass: for eighteen seconds the fighter's own muscle and skeleton are rearranged for peak output, nothing added or removed, and afterwards the body pays.
 
 **Law** · Hill's force-velocity relation, (P + a)·V = b·(P₀ − P): a muscle tuned for speed is weaker at every speed but the lowest; and the second law, since dissipation rises with rate, so the debt always exceeds the peak it avoided.
 
 **Limit** · Bone densifies only by collapsing its spongy part, up to cortical density, 1.9 g/cm³; how far it hardens is set by the spongy bone the fighter started with, and each use spends some for good.
 
-**Speed** · Re-expressing muscle toward the fastest fibre type raises shortening velocity five- to twelvefold from the same tissue; at ½mv² that is 25 to 144 times the delivered energy, covering the one-Grade step.
+**Speed** · Re-expressing muscle toward the fastest fiber type raises shortening velocity five- to twelvefold from the same tissue; at ½mv² that is 25 to 144 times the delivered energy, covering the one-Grade step.
 
 **Bone** · Denser bone at the same mass is thinner, but strength rises as density squared, so bending strength gains 41 percent, with break-even at an exponent of 1.5.
 
@@ -69,7 +69,7 @@ Spinal Forge Ascent is a documented body-Transmutation art of anonymous authorsh
 
 | Quantity | Working | Result |
 |---|---|---|
-| Shortening velocity, slow to fast fibre | 0.5 to 1.0 against 5 to 6 lengths a second | 5 to 12 × |
+| Shortening velocity, slow to fast fiber | 0.5 to 1.0 against 5 to 6 lengths a second | 5 to 12 × |
 | Delivered energy gain | velocity gain squared | 25 to 144 × |
 | Grade step, A floor to S floor | 4.184 × 10¹² ÷ 4.6024 × 10¹⁰ J | about 91 × |
 | Bending strength at 2 × density | 2² × (1/√2)³ = 4 × 0.354 | 1.41 × |
@@ -100,7 +100,7 @@ Spinal Forge Ascent is a documented body-Transmutation art of anonymous authorsh
 
 **Effect** · The spine ignites molten-white from the base up with no wind-up. For eighteen seconds corrections arrive before they are earned, and blows land like a far heavier fighter's at the same mass; then it stops on time, the fighter still and paying.
 
-**Loan** · Muscle and bone are one loan: fast glycolytic fibre that repays at a loss, and compacted bone that fails afterwards as cracks, not tears.
+**Loan** · Muscle and bone are one loan: fast glycolytic fiber that repays at a loss, and compacted bone that fails afterwards as cracks, not tears.
 
 **Failure** · Structure faults: heavy blunt damage mid-spread collapses the schedule and lands the whole debt at once, worse than the blow; no second configuration over the first; halting the spread lands the stress; basis loss; the spent spongy bone.
 

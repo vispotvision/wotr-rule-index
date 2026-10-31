@@ -12,7 +12,7 @@ A long, reed-slender blade in the shape of a katana, gold-hued, with a faint mis
 
 ### Physical account
 
-A katana-form blade: plausible mass 950 g, blade length 85 cm, overall length with hilt and reed-guard near 120 cm, point of balance roughly 15 cm forward of the guard, consistent with a cutting-forward katana rather than a thrusting one. On the Strike Force table, a cut delivered through Hozume's own Ardency, 395, A-Grade, sits at 5 to 100 GN, 46 GJ to 4.184 TJ, City Block to Multi-City Block level, and defeats plate, fortress stone and anything below that ceiling. It fails against S-Grade and above personal or structural defences (Town-level output or a true Domain barrier) and against anything past Hozume's own Stage VIII ceiling of 550.
+A katana-form blade: plausible mass 950 g, blade length 85 cm, overall length with hilt and reed-guard near 120 cm, point of balance roughly 15 cm forward of the guard, consistent with a cutting-forward katana rather than a thrusting one. On the Strike Force table, a cut delivered through Hozume's own Ardency, 395, A-Grade, sits at 5 to 100 GN, 46 GJ to 4.184 TJ, City Block to Multi-City Block level, and defeats plate, fortress stone and anything below that ceiling. It fails against S-Grade and above personal or structural defenses (Town-level output or a true Domain barrier) and against anything past Hozume's own Stage VIII ceiling of 550.
 
 ### Operation line
 

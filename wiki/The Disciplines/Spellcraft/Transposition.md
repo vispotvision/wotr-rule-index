@@ -24,7 +24,7 @@ title: "Transposition"
 
 **Family** · Spatium, with Materia for Fixatio.
 
-**Physics Domain** · Spatial Geometry: two alike resonators held near exchange completely, with nothing travelling between them.
+**Physics Domain** · Spatial Geometry: two alike resonators held near exchange completely, with nothing traveling between them.
 
 **Category** · Ritus, Spirit-aligned, performed rather than built, with a Conjunction tag where the rite pairs two specific targets.
 
@@ -58,7 +58,7 @@ title: "Transposition"
 
 ### Physics
 
-**Phenomenon** · Resonant energy transfer between coupled oscillators: two pendulums of the same frequency joined by a weak spring trade their motion completely after a fixed interval, with nothing travelling between them.
+**Phenomenon** · Resonant energy transfer between coupled oscillators: two pendulums of the same frequency joined by a weak spring trade their motion completely after a fixed interval, with nothing traveling between them.
 
 **Law** · Coupled-mode theory: two resonators exchange completely at the coupling rate κ when alike, only partly when detuned, and with a coupling that falls as a high power of distance.
 

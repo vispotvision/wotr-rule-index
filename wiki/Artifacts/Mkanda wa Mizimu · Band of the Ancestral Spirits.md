@@ -12,7 +12,7 @@ A Relic-grade, soulbound glyph tool: a wide ceremonial torque of braided elephan
 
 ### Physical account
 
-Mass ~0.9 kg (torque plus discs and beads; not stated on the card, conservative estimate for the described materials). Worn, not wielded — point of balance and armour-tier fields do not apply; it carries no offensive or defensive load-bearing function. Fits a standard adult neck at roughly 40 cm internal diameter.
+Mass ~0.9 kg (torque plus discs and beads; not stated on the card, conservative estimate for the described materials). Worn, not wielded — point of balance and armor-tier fields do not apply; it carries no offensive or defensive load-bearing function. Fits a standard adult neck at roughly 40 cm internal diameter.
 
 ### Operation line
 

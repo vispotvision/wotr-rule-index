@@ -12,7 +12,7 @@ tags: ["Magic System", "Reference Table"]
 
 ### What Wellsprings Do to Stats
 
-The Sixty Wellsprings are not power-ups. They are principles of becoming, metabolic dialects that alter how the Soul Crystal processes Essence, routes Aether and anchors reality. When a character harmonizes with a Wellspring, it permanently alters the behaviour of specific Sub-Stats, not by adding flat numerical bonuses, but by changing the qualitative character of how those Sub-Stats express their value.
+The Sixty Wellsprings are not power-ups. They are principles of becoming, metabolic dialects that alter how the Soul Crystal processes Essence, routes Aether and anchors reality. When a character harmonizes with a Wellspring, it permanently alters the behavior of specific Sub-Stats, not by adding flat numerical bonuses, but by changing the qualitative character of how those Sub-Stats express their value.
 
 A character with Fortitude at B-Grade who harmonizes with Monolithion does not gain Fortitude points. Their Fortitude begins behaving like stone rather than like flesh. The number stays the same. What the number means changes.
 
@@ -88,7 +88,7 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Absolution**, the Cleansing Current. Temperance through forgiveness. Strengthens Tempering Clarity, Harmonics Attunement, Resilience Fortification. Old fractures lose their toxicity.
 
-**Penance**, the Atoning Path. Temperance through discipline. Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behaviour.
+**Penance**, the Atoning Path. Temperance through discipline. Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behavior.
 
 ### Spatium
 
@@ -216,11 +216,11 @@ Attraction Force is the third fundamental force in the framework, equal in struc
 
 **Resilience.** Strengthens Oath, so sworn bonds become load-bearing; Anchoring, so identity holds its shape and its continuity because it is witnessed; and Continuity, so the causal timeline resists editing once the Continuum has registered it as recognized.
 
-**Tempering.** Improves Coherence, since alignment between stated Path and lived behaviour is easier to maintain when the soul is honestly witnessed, and Maturity, since bloodline traits and inherited Geasa activate more cleanly when the ancestral recognition chain is intact.
+**Tempering.** Improves Coherence, since alignment between stated Path and lived behavior is easier to maintain when the soul is honestly witnessed, and Maturity, since bloodline traits and inherited Geasa activate more cleanly when the ancestral recognition chain is intact.
 
-**Combat applications.** Maintaining coherent technique across long distances from bonded allies. Inheriting and transmitting combat forms through covenant rather than instruction. Recognizing an opponent's true Essence beneath disguise or glamour. Stabilizing allies whose Essence is fraying by lending them legibility. Composing Domains centred on covenant and sanctuary. Carrying bonds past death in forms that remain clean and reciprocal. Its strength is durable mutuality. Its weakness is the weight of being honestly seen.
+**Combat applications.** Maintaining coherent technique across long distances from bonded allies. Inheriting and transmitting combat forms through covenant rather than instruction. Recognizing an opponent's true Essence beneath disguise or glamour. Stabilizing allies whose Essence is fraying by lending them legibility. Composing Domains centerd on covenant and sanctuary. Carrying bonds past death in forms that remain clean and reciprocal. Its strength is durable mutuality. Its weakness is the weight of being honestly seen.
 
-**Costs.** Essence becomes more legible to those who can read it, including those who would harm it. The Crystal carries the imprint of every covenant honoured, and grief is the lawful tax on every covenant ended. Memory becomes weighted. Identity becomes accountable, defined in part by who has been allowed to witness it.
+**Costs.** Essence becomes more legible to those who can read it, including those who would harm it. The Crystal carries the imprint of every covenant honored, and grief is the lawful tax on every covenant ended. Memory becomes weighted. Identity becomes accountable, defined in part by who has been allowed to witness it.
 
 ### Obsession Force, the Law of Possession
 
@@ -232,9 +232,9 @@ The parasitic inversion. Where Attraction recognizes, Obsession imprisons. Where
 
 **Resilience degradation.** Degrades Anchoring, so memory loses proportion and identity narrows to a single defining attachment, and Integrity, so the Crystal develops structural dependency on the fixation and removal of the object produces fracture events.
 
-**Tempering degradation.** Degrades Coherence catastrophically; stated Path and lived behaviour diverge around the axis of fixation. Maturity stalls because the soul is no longer integrating new experience. It is recycling one experience endlessly.
+**Tempering degradation.** Degrades Coherence catastrophically; stated Path and lived behavior diverge around the axis of fixation. Maturity stalls because the soul is no longer integrating new experience. It is recycling one experience endlessly.
 
-**Combat applications.** Locking onto one target with impossible persistence. Tethering souls or techniques to a chosen fixation. Ignoring pain through compulsive singularity. Forcing resonance overlap between self and enemy. Domains centred on possession and recursion. Bonds preserved past death in broken, predatory form. Its strength is terrifying focus. Its weakness is total collapse of perspective outside the fixation.
+**Combat applications.** Locking onto one target with impossible persistence. Tethering souls or techniques to a chosen fixation. Ignoring pain through compulsive singularity. Forcing resonance overlap between self and enemy. Domains centerd on possession and recursion. Bonds preserved past death in broken, predatory form. Its strength is terrifying focus. Its weakness is total collapse of perspective outside the fixation.
 
 **Risks.** Essence coherence erodes. The Crystal narrows around one governing hunger. Other bonds weaken. Identity becomes recursive. At worst the user becomes an echo-organism of wanting, a living Essence Shard that never fully separated, still orbiting a source that is already gone. Where a World Spirit expands until others can live inside it, a soul claimed by Obsession Force contracts until nothing else can.
 
@@ -262,7 +262,7 @@ Five-step pipeline: Intent, Pattern, Essence Donation, Aether Formation, Attract
 
 **Secondary:** Gnosis Retention sets how many summon patterns can be held loaded. Tempering Yield sets how much Essence can be donated without depleting combat reserves. Dexterity Sequence sets command speed during engagement.
 
-**Wellspring inheritance.** Summons inherit their creator's alignment. A Materia-Family summoner produces anchored, durable, slow-to-dissolve constructs. A Limina-Family summoner produces absence-constructs, void-forms and negation agents. The spirit's behaviour is a function of the summoner's Harmonics profile, not a separate system.
+**Wellspring inheritance.** Summons inherit their creator's alignment. A Materia-Family summoner produces anchored, durable, slow-to-dissolve constructs. A Limina-Family summoner produces absence-constructs, void-forms and negation agents. The spirit's behavior is a function of the summoner's Harmonics profile, not a separate system.
 
 ### Spirit Rune Arts
 

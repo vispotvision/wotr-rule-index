@@ -8,7 +8,7 @@ She did it the way she did everything, without asking anybody to help and withou
 
 He stood at the bench with his hands out in front of him and watched the hide settle over the bones.
 
-The room had no hum in it. The main under Greyshaft Nine had been capped four years, and the standpipe housings along the west wall stood there in their brackets with nothing in them, iron gone the colour of an old kettle, capped and unbilled and quietly rusting into the slate. There was no meter by the door. Nobody in this building had been asked *still on the main* since the year the Board struck the row off its schedule. What the coldhouse had instead was the ice press turning over next door, and the drip in the far corner where the ceiling had gone soft. Twenty-two drops a minute.
+The room had no hum in it. The main under Greyshaft Nine had been capped four years, and the standpipe housings along the west wall stood there in their brackets with nothing in them, iron gone the color of an old kettle, capped and unbilled and quietly rusting into the slate. There was no meter by the door. Nobody in this building had been asked *still on the main* since the year the Board struck the row off its schedule. What the coldhouse had instead was the ice press turning over next door, and the drip in the far corner where the ceiling had gone soft. Twenty-two drops a minute.
 
 He had counted it once, a year ago, out of boredom, and had never got it back out of his head.
 
@@ -28,7 +28,7 @@ He had counted it once, a year ago, out of boredom, and had never got it back ou
 
 Nobody said anything to that. Vesk heard himself hedge it and did not much mind. He had lost the habit of minding.
 
-The flask sat under the third lamp with the formulation green in it, the third dilution, faintly cloudy, the suspended matter turning over slowly in a colour that belonged to a pond in July. Into that he had put the contractile matrix. Not over it, not after it. Into it, at the dilution, so that the thing that grew and the thing that pulled came off the same pour and arrived in the same tissue at the same time. That was the whole of the last four days and he had not slept through any of them.
+The flask sat under the third lamp with the formulation green in it, the third dilution, faintly cloudy, the suspended matter turning over slowly in a color that belonged to a pond in July. Into that he had put the contractile matrix. Not over it, not after it. Into it, at the dilution, so that the thing that grew and the thing that pulled came off the same pour and arrived in the same tissue at the same time. That was the whole of the last four days and he had not slept through any of them.
 
 He looked at his hands on the bench and made them close, and they got two thirds of the way and stopped.
 
@@ -74,7 +74,7 @@ Vesk had been listening with half of himself and counting the drops with the oth
 
 That was the end of the answer and Vesk knew it. He went back to the flask.
 
-Nuvalik had the ninth hind's hide back at the shoulder. She worked with her sleeves pushed past the elbow and her apron on, and she had not once asked anybody to bring the lamp nearer, and in eleven days Vesk had not seen her stand up straight to rest. The knife went where she put it. The crown growth stood up off the spine and the flanks in a grey-green mass, nine inches at the best of it, and she cut round the mass and not through it, because Vesk had asked for that on the first night and she had done it every night since without once being reminded.
+Nuvalik had the ninth hind's hide back at the shoulder. She worked with her sleeves pushed past the elbow and her apron on, and she had not once asked anybody to bring the lamp nearer, and in eleven days Vesk had not seen her stand up straight to rest. The knife went where she put it. The crown growth stood up off the spine and the flanks in a gray-green mass, nine inches at the best of it, and she cut round the mass and not through it, because Vesk had asked for that on the first night and she had done it every night since without once being reminded.
 
 "Nuvalik."
 
@@ -128,7 +128,7 @@ That was the way he carried anything now. Two hands flat, the flask standing bet
 
 Foss came, with the glass in his fist and his mouth set flat.
 
-The growth had built its own carriage. That was the part nobody outside this room would credit and the part Vesk had stopped trying to explain to anyone in it. The Green Pulse does not repair. It grows, continuously, off whatever ambient conversion it can reach, and it has no notion of a finished size. Put growth into a matrix with the scaffold eaten out from under it and it does not put the old scaffold back. It lays a fresh one to a plan of its own, and because it laid the plan along the vasculature the dose had travelled, the fresh scaffold came up with channels in it, following the old roads because the old roads were where the material was. Eleven days of that in a cold room had given the ninth hind a second circulation. There was no pump on the end of it.
+The growth had built its own carriage. That was the part nobody outside this room would credit and the part Vesk had stopped trying to explain to anyone in it. The Green Pulse does not repair. It grows, continuously, off whatever ambient conversion it can reach, and it has no notion of a finished size. Put growth into a matrix with the scaffold eaten out from under it and it does not put the old scaffold back. It lays a fresh one to a plan of its own, and because it laid the plan along the vasculature the dose had traveled, the fresh scaffold came up with channels in it, following the old roads because the old roads were where the material was. Eleven days of that in a cold room had given the ninth hind a second circulation. There was no pump on the end of it.
 
 Vesk did not need a pump. He needed a gradient, and a thing that grows makes its own.
 
@@ -140,7 +140,7 @@ Vesk did not need a pump. He needed a gradient, and a thing that grows makes its
 
 The pour took a long time and he was the only one in the room who enjoyed it.
 
-He worked it in at four places along the near flank, a little at each, and between each he stopped and gave it the count of forty and watched the colour go out of the surface as the channels took it away inland. That was the thing. That was the whole thing. On the first night, with the third dilution and no matrix, the colour had sat where he put it for a quarter of an hour like paint on a wall. Tonight it went. Not fast. But it went, and it went on going after he took his hands off it. The new scaffold was carrying. It had been carrying since before tonight and nobody had asked it to.
+He worked it in at four places along the near flank, a little at each, and between each he stopped and gave it the count of forty and watched the color go out of the surface as the channels took it away inland. That was the thing. That was the whole thing. On the first night, with the third dilution and no matrix, the color had sat where he put it for a quarter of an hour like paint on a wall. Tonight it went. Not fast. But it went, and it went on going after he took his hands off it. The new scaffold was carrying. It had been carrying since before tonight and nobody had asked it to.
 
 "Say what you see," he said.
 
@@ -160,7 +160,7 @@ He worked it in at four places along the near flank, a little at each, and betwe
 
 Malphas stood up off the gauge bench.
 
-He was not a large man. He filled nothing when he arrived and nothing when he moved, and in eleven days Vesk had watched for the thing that men like him were supposed to have and had not seen it once. No pressure in the room. No note under the floor. Nothing in the slate, nothing in the brass, nothing in the cold. What there was instead was the one thing Vesk could not get past: the Lord had been sitting on an iron bench in a room the housing gauge had at four degrees since the first division, with no gloves on and his coat folded beside him and not under him, and his fingers were the colour of a living man's fingers.
+He was not a large man. He filled nothing when he arrived and nothing when he moved, and in eleven days Vesk had watched for the thing that men like him were supposed to have and had not seen it once. No pressure in the room. No note under the floor. Nothing in the slate, nothing in the brass, nothing in the cold. What there was instead was the one thing Vesk could not get past: the Lord had been sitting on an iron bench in a room the housing gauge had at four degrees since the first division, with no gloves on and his coat folded beside him and not under him, and his fingers were the color of a living man's fingers.
 
 Eleven days he had watched for it. The twelfth had started at the second division and he had never asked.
 

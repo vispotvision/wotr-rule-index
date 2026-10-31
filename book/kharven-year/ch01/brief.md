@@ -79,7 +79,7 @@ Bible spine, ch1: the copy leaves the hall. The front ticks when the world moves
 
 ### THE STANDING INVENTORY: KHARVEN (LIVE)
 
-Steppe-riders who stopped riding because the land became permafrost. Food: windmeat, bone broth, the skin (fermented milk carried in sealskin; refusing the skin is an insult), seal fat, the root cache, stonecurd. Greeting: forearm grip, diagnostic. "How's your stack?" Oaths: "By the sky that covers us." "By the fire." Insults: "wet wood," "empty saddle," "cracked bowl." Time: a fire's length, a broth, the Thin Weeks, "when the grass comes." The dead: the death-house, the Waiting, sky burial, "gone to the sky." Objects: the night-stone, the woodpile, the hide-coat, the belt, the blubber lamp. Exchange: meat-sharing, labour-debt, salt. Proverbs, fixed wording: "The sky does not ask whether you are ready." "A full stack speaks louder than a full mouth." "The first bowl goes to the one who cannot fill it themselves." "Wet wood burns eventually. A liar never dries." "The night-stone remembers the fire." "Don't saddle a horse you cannot feed." "The dead can wait. The cold cannot." "Under the sky, everything balances." Body: hands, breath-plume, weight, scent. **Recurrence, two minimum per Kharven scene:** the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III haemorrhage).
+Steppe-riders who stopped riding because the land became permafrost. Food: windmeat, bone broth, the skin (fermented milk carried in sealskin; refusing the skin is an insult), seal fat, the root cache, stonecurd. Greeting: forearm grip, diagnostic. "How's your stack?" Oaths: "By the sky that covers us." "By the fire." Insults: "wet wood," "empty saddle," "cracked bowl." Time: a fire's length, a broth, the Thin Weeks, "when the grass comes." The dead: the death-house, the Waiting, sky burial, "gone to the sky." Objects: the night-stone, the woodpile, the hide-coat, the belt, the blubber lamp. Exchange: meat-sharing, labor-debt, salt. Proverbs, fixed wording: "The sky does not ask whether you are ready." "A full stack speaks louder than a full mouth." "The first bowl goes to the one who cannot fill it themselves." "Wet wood burns eventually. A liar never dries." "The night-stone remembers the fire." "Don't saddle a horse you cannot feed." "The dead can wait. The cold cannot." "Under the sky, everything balances." Body: hands, breath-plume, weight, scent. **Recurrence, two minimum per Kharven scene:** the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III haemorrhage).
 
 The Accord, Dawi, Moto, Eresse, Expanse and Korvaeth Standing Inventories live at `desktop/inventories/` in the repo (session_start and the MCP's `_inventory` load them by culture automatically; open the file directly if working without the MCP). Anything invented in play gets entered the same session, in the Inventory it belongs to. ◆ Ruled 2026-09-12 (R23-8) and applied: airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalised and unnamed, as the oaths already have it. The old forms are stale in new prose.
 
@@ -119,7 +119,7 @@ R19-4-ICEBERG_DIALOGUE  [Pack Nineteen §4]  live
   Characters never explain to each other something they both already know.
 
 R19-4-REALISTIC_SPEECH  [Pack Nineteen §4]  live
-  Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavour.
+  Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavor.
 
 R19-4-REGISTER_UNDER_STRESS  [Pack Nineteen §4]  live
   Under stress, a character's speech must get shorter, more concrete, more repetitive, and lose subordinate clauses, uniformly across all characters.
@@ -214,7 +214,7 @@ R15-1-ELEVATED_VOCAB_OPTIONAL  [Pack Fifteen §1]  live
 R15-1-LATIN_CHANT_SURVIVES  [Pack Fifteen §1]  live
   Latin for chant-based magic is not a register rule but a texture choice Isaac made, and it stands unless he says otherwise.
 
-R15-1-LICENCE  [Pack Fifteen §1]  live
+R15-1-LICENSE  [Pack Fifteen §1]  live
   Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 
 R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK  [Pack Fifteen §1]  live
@@ -227,7 +227,7 @@ R15-1-READS_MODERN_STRUCK  [Pack Fifteen §1]  live
   Natalie no longer raises, fixes, or notes "reads modern" as a critique on principle.
 
 R15-1-REGISTER_BY_CULTURE  [Pack Fifteen §1]  live
-  Per-culture narration registers become optional flavour rather than law.
+  Per-culture narration registers become optional flavor rather than law.
 
 R15-1-TECHNICAL_REGISTER_SURVIVES  [Pack Fifteen §1]  live
   Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
@@ -245,7 +245,7 @@ R15-4-MEMORY_ENTRIES_SUPERSEDED  [Pack Fifteen §4]  live
   Memory entries thirteen, fourteen, twenty-nine and thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary) are superseded as mandates and retained only as available technique; flagged for the memory sweep.
 
 R15-4-PACK_FIVE_SCOPE  [Pack Fifteen §4]  live
-  Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
+  Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humor recalibration, and narration authority all stand because none of them are register rules.
 
 R15-4-PACK_NINE_CLASS_MARKING  [Pack Fifteen §4]  live
   Pack Nine's requirement that class show in vocabulary becomes optional.
@@ -263,7 +263,7 @@ R14-4-DIAGNOSTIC_CHANNEL  [Pack Fourteen §4]  live
   Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
 
 R14-4-EFFECTS_CHANNEL  [Pack Fourteen §4]  live
-  Every stat that decided an outcome must show on the page as behaviour and physics; grade letters and stat names never appear in narration, only their consequences.
+  Every stat that decided an outcome must show on the page as behavior and physics; grade letters and stat names never appear in narration, only their consequences.
 
 R14-4-SUBSTAT_DIAGNOSTIC_ONLY  [Pack Fourteen §4]  live
   Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.
@@ -356,7 +356,7 @@ R12-6-RULES_AS_RULES  [Pack Twelve §6]  live
   The Mystic Register states consequences without offering mechanism (the canonical example: do not carry Object Wellsprings into Site Wellsprings, no mechanism given, a stated consequence, the Guild has buried those who tested it); more sentences are written in that shape.
 
 R12-7-AI_TELLS_RETAINED  [Pack Twelve §7]  live
-  The Ladder ban, the Gloss budget of zero, local burstiness, the reification budget, and every AI tell in the checklist survive unchanged; explaining a mechanism is no licence to write badly.
+  The Ladder ban, the Gloss budget of zero, local burstiness, the reification budget, and every AI tell in the checklist survive unchanged; explaining a mechanism is no license to write badly.
 
 R12-7-IGNORANCE_MISREADING_RETAINED  [Pack Twelve §7]  live
   The ignorance quota and misreading budget survive Pack Twelve intact and become more important as dramatic-irony tools now that explanation is the default; the wrong explanation is now the load-bearing device.
@@ -365,7 +365,7 @@ R12-7-LEGIBILITY_BAN_STRUCK  [Pack Twelve §7]  live
   Pack Six's total-legibility ban and blanket interpretation-at-zero rule are struck.
 
 R11-1-TONAL_SPINE_UNCHANGED  [Pack Eleven §1]  live
-  Pack Five stands in full; the Western Register still governs characterisation, humour and narration authority. Pack Eleven widens what the page may look like, not what it may sound like.
+  Pack Five stands in full; the Western Register still governs characterisation, humor and narration authority. Pack Eleven widens what the page may look like, not what it may sound like.
 
 R11-2-VOCABULARY_TIERS  [Pack Eleven §2]  live
   "The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
@@ -374,7 +374,7 @@ R11-3-FIREARM_PROSE_LAW  [Pack Eleven §3]  live
   The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
 
 R11-4-DESCENT_PROSE_LAW  [Pack Eleven §4]  live
-  A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
+  A descent's sensory opening favors the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
 
 R11-4-WELL_NAMING  [Pack Eleven §4]  live
   Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
@@ -461,7 +461,7 @@ R8-27-STANDING_TASK  [Pack Eight 2.7]  live
   A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.
 
 R8-3-WORKED_EXAMPLES_PENDING  [Pack Eight 3]  live
-  Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
+  Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogd errata count is explicitly self-flagged as an invented, unsized figure.
 
 R8-4-RETROACTIVE_TASKS  [Pack Eight 4]  live
   Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
@@ -482,7 +482,7 @@ R6-12-TELL_BANK_SURVIVING  [Pack Six §12]  live
   Added to the AI tells checklist and retained in full per Pack Twelve §7 — the Ladder in all forms, the apparatus as grammatical subject, scientific vocabulary explaining an ambient sensory impression, and fresh texture invented where Inventory texture exists.
 
 R6-2-CHEMISTRY_BAN  [Pack Six PART I.2]  live
-  Real-world scientific vocabulary explaining a sensory impression is barred unless the POV is a practitioner of that specific craft actively diagnosing; the Mechanism Standard governs technique trigger points and nothing else, never a licence for ambient exposition.
+  Real-world scientific vocabulary explaining a sensory impression is barred unless the POV is a practitioner of that specific craft actively diagnosing; the Mechanism Standard governs technique trigger points and nothing else, never a license for ambient exposition.
 
 R6-2-FACULTY_NEVER_SUBJECT  [Pack Six PART I.2]  live
   A named faculty is never the grammatical subject of a perception verb; the character perceives, the apparatus does not act on its own behalf.
@@ -497,13 +497,13 @@ R6-4-MISREADING_BUDGET  [Pack Six PART I.4]  live
   At least one POV inference per scene is wrong and is not corrected on the page; the misreading must be reasonable, consistent with what the POV knows, and left standing for the reader to find later.
 
 R6-5-MATERIAL_DENSITY_SURVIVES  [Pack Six PART I.5]  live
-  Material density (rust, weathering, wear, labour) stays described in full per the Directive; the distinction is that the world is described exhaustively but interpreted at zero — meaning and thematic weight are withheld.
+  Material density (rust, weathering, wear, labor) stays described in full per the Directive; the distinction is that the world is described exhaustively but interpreted at zero — meaning and thematic weight are withheld.
 
 R6-9-RECURRENCE_RULE  [Pack Six PART II.9]  live
   Every scene draws texture from the Inventory before inventing anything; anything newly invented is entered into the Inventory the same session or it does not exist; each culture designates three-to-five high-frequency signature items on the Recurrence Ledger.
 
 R5-A-FLESH_CHANGES  [Pack Five A]  live
-  Prose register, humour, characterisation method, narration authority and tonal architecture derive from the Western tradition (Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality).
+  Prose register, humor, characterisation method, narration authority and tonal architecture derive from the Western tradition (Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality).
 
 R5-A-OPERATIVE_CONSEQUENCE  [Pack Five A]  live
   The system is author-facing and document-facing — it lives in the Codex, character sheets, in-world treatises and technical-reveal beats; it does not live in prose texture, narrator commentary, or character affect.
@@ -518,10 +518,10 @@ R5-B-FOIL_FUNCTION_SURVIVES  [Pack Five B]  live
   Deliberate moral and rhythmic contrast between paired characters (Merry/Pippin, Sam/Frodo, Tyrion/Bronn, Jaime/Brienne, Glokta/Severard) is Western-native and remains actively tracked.
 
 R5-B-MANHWA_DIRECTIVE_REPEALED  [Pack Five B]  live
-  Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
+  Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humor as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
 
 R5-B-YOKO_SODOKU_SURVIVES  [Pack Five B]  live
-  Yoko against Sodoku is a precision-versus-instinct foil, not a comedy routine; its humour now arrives through what Yoko declines to say, never a deadpan beat landing on a punchline.
+  Yoko against Sodoku is a precision-versus-instinct foil, not a comedy routine; its humor now arrives through what Yoko declines to say, never a deadpan beat landing on a punchline.
 
 R5-C1-INFO_TRACKED_PER_POV  [Pack Five C.1]  live
   Before a scene, name what this POV knows, what they wrongly believe, and what the reader knows that they do not.
@@ -536,7 +536,7 @@ R5-C1-WRITE_FROM_LEAST_KNOWING  [Pack Five C.1]  live
   Where a scene could be written from two POVs, write it from whoever knows least about what is coming; a default, breakable with reason.
 
 R5-C2-ELEGY_CONCRETE_THING  [Pack Five C.2]  live
-  Elegy attaches to a named concrete, specific thing that is gone (a road, a dye colour, a lost word, a dying craft), never to abstractions; grief for "the old world" is furniture.
+  Elegy attaches to a named concrete, specific thing that is gone (a road, a dye color, a lost word, a dying craft), never to abstractions; grief for "the old world" is furniture.
 
 R5-C2-FLAT_DELIVERY  [Pack Five C.2]  live
   Section 1.2's saga restraint governs elegy: state the loss and move on, without raising the prose's voice.
@@ -548,19 +548,19 @@ R5-C2-ONE_PASSAGE_BUDGET  [Pack Five C.2]  live
   At most one sustained elegiac passage per scene, which may sit anywhere except the closing beat, which still ends on physical action per Scene Standards.
 
 R5-C3-NARRATION_REGISTER_EXTENSION  [Pack Five C.3]  live
-  Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
+  Free indirect discourse's per-character register license is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
 
 R5-D-FUNERAL_TEST  [Pack Five D]  live
-  Could this line be said at a funeral, by someone who means it, without breaking the room? If the humour needs a comedic frame to work, cut it.
+  Could this line be said at a funeral, by someone who means it, without breaking the room? If the humor needs a comedic frame to work, cut it.
 
 R5-D-HUMOUR_BARRED  [Pack Five D]  live
-  The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
+  The beat structure of setup, deadpan and reaction is barred; humor arrives inside dialogue and narration already in progress and never pauses the scene to land.
 
 R5-D-HUMOUR_CASTING  [Pack Five D]  live
   Lambert carries institutional dryness in the debrief; Pietro carries contempt as wit; Yoko is accidentally funny through literalism; Sodoku does not make jokes and should not start.
 
 R5-D-HUMOUR_PERMITTED  [Pack Five D]  live
-  Humour is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
+  Humor is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
 
 R5-E-ELEGIAC_REGISTER_ALLOWED  [Pack Five E]  live
   The elegiac register is available to scene narration because elegy in the saga mode reports a loss rather than judging it; Section C.2's flat-delivery rule is what keeps it on the correct side of the line.
@@ -587,7 +587,7 @@ R5-G-STYLE_DIRECTIVE_EXCLUDED_LIST  [Pack Five G]  live
   The Master Style Directive's §10 deliberately-excluded list gains the Manhwa Energy Directive.
 
 R5-G-STYLE_DIRECTIVE_HUMOUR_POINTER  [Pack Five G]  live
-  The Master Style Directive's §4 final paragraph (the manhwa-energy humour clause) is deleted and replaced with a pointer to Pack Five Section D.
+  The Master Style Directive's §4 final paragraph (the manhwa-energy humor clause) is deleted and replaced with a pointer to Pack Five Section D.
 
 R5-G-TELL_BANK_ADDITIONS  [Pack Five G]  live
   Declarative characterisation and the reaction-shot cutaway (from Section B's confirmed repeal) plus the comedic beat structure and narrator moral adjudication (from Sections D and E, still proposed) are added as active tells.
@@ -803,7 +803,7 @@ R22-6-DOCTRINE_COINAGES_TABLE  [Moto Reversion Ledger VI]  live
   Ar Nutag→Okuchi, Bükhel Mörgöl→Sōhai, Ajiin Devter→Hataraki no Sho.
 
 R22-6-SOHAI_LOSES_WORDPLAY  [Moto Reversion Ledger VI]  live
-  Bükhel Mörgöl shared its root with the crown Work and the house name, so religion/Work-of-Totality/family were one word and the charge of Singling was levelled in a term that said so; Sōhai does not do that — the one genuine cost of the reversion.
+  Bükhel Mörgöl shared its root with the crown Work and the house name, so religion/Work-of-Totality/family were one word and the charge of Singling was leveled in a term that said so; Sōhai does not do that — the one genuine cost of the reversion.
 
 R22-7-FUSI_VA_KEPT  [Moto Reversion Ledger VII]  live
   Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
@@ -893,7 +893,7 @@ R24-2-ELADRIN_GOVERNING_PRINCIPLE  [Racial Voice and Dialect Guide Amendment II]
   Winter Eladrin are not silent; speech is the least of what they are doing, and the prose has to carry the rest through distance and stillness.
 
 R24-2-ELADRIN_IDIOM_AND_SIGNATURES  [Racial Voice and Dialect Guide Amendment II]  live
-  Idiom draws on weather, season and the behaviour of cold as literal analytical vocabulary (thawing/set, keeps, melted, tracked); signature lines "It keeps" and "You have moved"; under stress stillness increases and the distance grammar stops entirely.
+  Idiom draws on weather, season and the behavior of cold as literal analytical vocabulary (thawing/set, keeps, melted, tracked); signature lines "It keeps" and "You have moved"; under stress stillness increases and the distance grammar stops entirely.
 
 R24-2-ELADRIN_NEVER_BARE_LINE  [Racial Voice and Dialect Guide Amendment II]  live
   Never write an Eladrin line of dialogue without a distance or stillness beat attached; a bare Eladrin line is an incomplete sentence in their language.
@@ -923,7 +923,7 @@ R24-N-OVERRIDE_CAVEAT  [Racial Voice and Dialect Guide Amendment Notes]  live
   All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC  [Zettari Naming Register Ruling Standing Ruling]  live
-  The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
+  The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavored register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
 
 R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER  [Zettari Forge Culture Ruling Standing Ruling]  live
   The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
@@ -932,7 +932,7 @@ R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR  [Zettari Forge Culture Ruling Sta
   A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
 
 R35-1-NARRATION_DISTANCE_BANDS  [Narration Distances (Psychic Distance by POV) The three registers]  live
-  Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
+  Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behavior or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
 
 R35-2-NARRATION_DISTANCE_ASSIGNMENTS  [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]  live
   Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
@@ -947,7 +947,7 @@ R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY  [Naming Guide Amendment / Element Inventor
   The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share one root inventory and one affix inventory drawn from the Vey-Elarin grammar, plus one new branch-specific root each (kalen, sova, morel, faelo, verath); roots are disyllabic and open with restricted codas and every element carries a pitch contour. Branch divergence is shown on the same root, not by five separate lists. The root marin stays unglossed, and the clash with already published apostrophe-style Eressean-adjacent names stays an open flag.
 
 R37-4-BEASTKIN_SOUL_NAME_INVENTORY  [Naming Guide Amendment / Element Inventories IV. Beastkin]  live
-  A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
+  A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavored by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practice Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
 
 ## Docket
 
@@ -1149,7 +1149,7 @@ also matched: Sodoku Moto/Tōga (冬牙) — Winter Fang.md; The Table — Runni
 **Also known as** The Scourge of the Moto · The Kōkan Prince
 **Race / Lineage** Human — Archaic Bloodline, Moto. **Kōkan Line. Former Crown Heir**
 **Age** 22 · **Sex** Male
-**Standing** Exiled by High Council decree, wanted across multiple territories, **charged with the massacre of the Tenrai main-branch settlement.** Travelling the Scourge of Hell with Yoko and Emira
+**Standing** Exiled by High Council decree, wanted across multiple territories, **charged with the massacre of the Tenrai main-branch settlement.** Traveling the Scourge of Hell with Yoko and Emira
 > **Catalyst Event.** A Tenrai-commissioned corridor assassination took his father Muken, his mother, and his brother Nergüi **in one night.**
 >
 > He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, **women and children included.**
@@ -1252,7 +1252,7 @@ also matched: Sodoku Moto/Tōga (冬牙) — Winter Fang.md; The Table — Runni
 | **Temperance Stage** | **V — Splintering**, active. Ceiling 350, sustainable max Grade B, **instability risk above 320** |
 | **Tier of Standing** | **5, Expert** · η ≈ 0.60 — *"the Crystal has learned to stop leaking"* |
 | **Path** | Spirit 65% · Attraction 30% · Body 5% |
-| **Essence Typology** | **Vitalia**, primary — growth, generosity, rhythm, **discovered through accumulation rather than rupture.** *Catalyst: "giving without counting, and finding the count was always in your favour."* **Fluxia**, undertone — the capacity to feel a thing again without being destroyed by the repetition |
+| **Essence Typology** | **Vitalia**, primary — growth, generosity, rhythm, **discovered through accumulation rather than rupture.** *Catalyst: "giving without counting, and finding the count was always in your favor."* **Fluxia**, undertone — the capacity to feel a thing again without being destroyed by the repetition |
 | **Aether Index** | **Unusually clean for her Class** — fed directly by the Harmonics anomaly, *which inflates her Lattice Conductivity past what Band E would ordinarily support* |
 | **Soul Crystal Tier** | **Resonant**, progressed from Harmonic. *In-world shorthand among those who knew her before is still Kindled* |
 | **Crystal State** | Refined, stable. **The first genuinely settled stretch of her life** — no active fracture, no suppression pressure |
@@ -1291,7 +1291,7 @@ also matched: Sodoku Moto/Tōga (冬牙) — Winter Fang.md; The Table — Runni
 
 > **The Aetheric Nose** · Innate Reflection · Somnalis-adjacent
 >
-> **Continuous, involuntary, unsuppressible.** Forty metres passive threat horizon, seventy active.
+> **Continuous, involuntary, unsuppressible.** Forty meters passive threat horizon, seventy active.
 >
 > ***Now tuned as much to a home and two children as to a war zone.***
 **Fox-Fire, Splintering Expression** · Tempered · Verdantia-adjacent — **the projected Stage V escalation has arrived.** No longer a four-minute palm-light: **a sustained, shapeable cold-amber flame, held for minutes rather than seconds, still carrying no offensive force behind it.**
@@ -1337,9 +1337,9 @@ Edward Lambert is not a great warrior. He is not a powerful practitioner. He is 
 #### II · Physical Description
 
 Edward Lambert is fifty-three years old and looks sixty because the last eleven years added the decade that the previous forty-two had not. He is of middling height, neither tall enough to command a room by stature nor short enough to be overlooked by it, the specific build of a man who has spent his life occupying the space between notice and invisibility and who has found that the space between the two is where the most useful work gets done.
-His frame is lean but not gaunt. A body that was once solidly built in the northern frontier manner, broad enough through the chest and shoulders to carry armour and swing a blade with the competence of a man who trained daily because training was the requirement, not the passion. The body has thinned with age and with the specific weight-loss that sustained stress produced in men who processed stress through the mind rather than through the body, the metabolism burning through reserves that the appetite was not replacing because the appetite was not interested in food. The appetite was interested in the problem, and the problem was the kingdom, and the kingdom had been the appetite's only subject for eleven years.
-His face is long and angular, weathered to the texture of old leather by decades of northern wind and the specific indoor weathering that lamplight and sleeplessness produced in men who spent their nights reading dispatches by inadequate illumination. The cheekbones are prominent, the jaw narrow but set, the mouth a line that curves neither up nor down at rest, the specific neutral expression of a man who decided early that the face was a surface and that surfaces were for other people to project onto, and that the projection told him more about the projector than any direct question would. His eyes are grey. Not the pale grey of the Stark bloodline or the malachite grey of Dawi mineral. The grey of iron. Small eyes, set deep beneath a brow that produces permanent shadow across the upper face, and the shadow is the thing that most people see first, because the shadow makes the eyes harder to read, and the hardness is the point.
-His hair is grey-brown, thinning at the crown, cut close to the skull in the northern military style that he adopted during his service and never abandoned because the style required no maintenance and maintenance was time and time was the thing Edward Lambert did not spend on anything that did not produce a return. He is clean-shaven, always, because a beard in the north was a vulnerability (it froze, it could be grabbed, it concealed the jaw's tells from people who were reading his face the way he read theirs) and because the daily shaving was the discipline, and the discipline was the man.
+His frame is lean but not gaunt. A body that was once solidly built in the northern frontier manner, broad enough through the chest and shoulders to carry armor and swing a blade with the competence of a man who trained daily because training was the requirement, not the passion. The body has thinned with age and with the specific weight-loss that sustained stress produced in men who processed stress through the mind rather than through the body, the metabolism burning through reserves that the appetite was not replacing because the appetite was not interested in food. The appetite was interested in the problem, and the problem was the kingdom, and the kingdom had been the appetite's only subject for eleven years.
+His face is long and angular, weathered to the texture of old leather by decades of northern wind and the specific indoor weathering that lamplight and sleeplessness produced in men who spent their nights reading dispatches by inadequate illumination. The cheekbones are prominent, the jaw narrow but set, the mouth a line that curves neither up nor down at rest, the specific neutral expression of a man who decided early that the face was a surface and that surfaces were for other people to project onto, and that the projection told him more about the projector than any direct question would. His eyes are gray. Not the pale gray of the Stark bloodline or the malachite gray of Dawi mineral. The gray of iron. Small eyes, set deep beneath a brow that produces permanent shadow across the upper face, and the shadow is the thing that most people see first, because the shadow makes the eyes harder to read, and the hardness is the point.
+His hair is gray-brown, thinning at the crown, cut close to the skull in the northern military style that he adopted during his service and never abandoned because the style required no maintenance and maintenance was time and time was the thing Edward Lambert did not spend on anything that did not produce a return. He is clean-shaven, always, because a beard in the north was a vulnerability (it froze, it could be grabbed, it concealed the jaw's tells from people who were reading his face the way he read theirs) and because the daily shaving was the discipline, and the discipline was the man.
 He wears dark wool. Always dark wool. A long coat over a quilted tunic, the coat's cut plain and functional, the fabric good but not ostentatious, the specific quality of clothing that communicated: this man has means but does not display them, and the not-displaying is the statement, and the statement is: I am not here to be seen. I am here to see.
 He carries no visible weapon. A short knife lives inside the coat, accessible through a slit in the lining, and the knife has not been drawn in four years, and the four years is the proof that the knife's presence is sufficient and the knife's use is not required, because a man who needs to draw a knife has already failed at the thing the knife was supposed to prevent, which is: the situation reaching the point where knives are relevant.
 
@@ -1365,7 +1365,7 @@ He carries no visible weapon. A short knife lives inside the coat, accessible th
 
 ---
 
-Broad through the shoulders and thick through the waist, built with the solidity of a body that has spent its life on roads. Sun-darkened face, wind-roughened, crow's feet around the eyes. Hair brown streaked with grey, pulled back with two wooden pins. Traveling coat of heavy wool, road-stained at the hem, belted with a leather strap holding a knife and a sheaf of route manifests rolled into a cylinder.
+Broad through the shoulders and thick through the waist, built with the solidity of a body that has spent its life on roads. Sun-darkened face, wind-roughened, crow's feet around the eyes. Hair brown streaked with gray, pulled back with two wooden pins. Traveling coat of heavy wool, road-stained at the hem, belted with a leather strap holding a knife and a sheaf of route manifests rolled into a cylinder.
 She reminds Hild of her mother. Not physically — Fern was lean and angular. The reminding is in how Tabitha reads rooms: for what they can carry and what they cannot, and how long the carrying will last before the surface fails. Fern read rooms that way.
 Tabitha walked three days through compromised territory to reach Kharven-Seat and tell Hild that the roads are talking and the roads are saying the Tenrai know where she is. The walking was the loyalty. The loyalty was the function. The function was the roads.
 *Gods. She is a baby. She is a baby with a sword and a jaw that belongs on a grown woman. I will be damned if I let the roads die before this child has a chance to walk them.*
@@ -1390,9 +1390,9 @@ Tabitha walked three days through compromised territory to reach Kharven-Seat an
 
 #### Description
 
-Short and dense through the torso, built close to the ground in the specific way women are built when their mothers and grandmothers all worked standing up. Round face, wind-chapped, permanently flushed across the cheeks and nose. Hair a colour that cannot decide between brown and red, settling on russet like autumn bracken, pinned in a twist at the skull's base with two bone pins that are not decorative and that she has used for field suturing on one occasion she mentions at meals with cheerful specificity.
+Short and dense through the torso, built close to the ground in the specific way women are built when their mothers and grandmothers all worked standing up. Round face, wind-chapped, permanently flushed across the cheeks and nose. Hair a color that cannot decide between brown and red, settling on russet like autumn bracken, pinned in a twist at the skull's base with two bone pins that are not decorative and that she has used for field suturing on one occasion she mentions at meals with cheerful specificity.
 Her eyes are hazel, green-brown, and they move across bodies performing assessment before performing greeting. She wears a leather satchel whose buckles have been re-set so many times the leather around the hardware has gone soft and shapeless. She brings willowbark when she has diagnosed something the patient has not noticed yet.
-**Her function:** The warmth. In a court defined by Lambert's arithmetic and Osric's strategy and Lorn's honour, Brida is the person who sees the eleven-year-old underneath the Sword Princess. She is the one who reads the jaw-tension on the left side and knows it means the child is holding something too heavy. She is the one who tells Hild to eat and means it and follows up and checks.
+**Her function:** The warmth. In a court defined by Lambert's arithmetic and Osric's strategy and Lorn's honor, Brida is the person who sees the eleven-year-old underneath the Sword Princess. She is the one who reads the jaw-tension on the left side and knows it means the child is holding something too heavy. She is the one who tells Hild to eat and means it and follows up and checks.
 **Her voice:** Firm and warm simultaneously. The voice of a thousand delivered instructions, each one as though it were the first, because the recipient needs to hear it as the first. *"The treatment is not negotiable."*
 
 ---
@@ -1416,7 +1416,7 @@ no card for 'a factor of the Council of Links' in the wiki mirror; check Notion 
 
 12 characters with eight or more attributed lines (heuristic attribution; treat as measurement, not verdict). Rule: if two characters' lines could be swapped and nobody noticed, the scene failed (R15-1-VOICE_DIFFERENTIATION).
 
-| character | lines | mean words | short share | questions | contractions | first person | imperatives | favourite words |
+| character | lines | mean words | short share | questions | contractions | first person | imperatives | favorite words |
 |---|---|---|---|---|---|---|---|---|
 | Lambert | 20 | 35.3 ±25.5 | 0.25 | 0.0 | 0.1 | 0.45 | 0.0 | years, three, eleven, grain, four, because |
 | Sodoku Moto | 13 | 45.6 ±21.7 | 0.0 | 0.0 | 0.08 | 0.46 | 0.08 | through, years, hand, tell, every, because |
@@ -1514,7 +1514,7 @@ The Crown holds the land, the law, the levy, the tax and the right to hang. The 
 > **The Bench is where that arrangement is actually administered, and it is administered by not being discussed.**
 >
 > A crown that quarrels with the Bench does not lose a war. **It loses entry on the formulas its own arsenals are built around** — quietly, over two or three sittings, on grounds that are every time doctrinally impeccable.
-Two crowns have tried. One withdrew the quarrel. **The other is Kaetran**, and the Kaetran arsenals are still supplied, and the terms on which they are supplied are not published, **and the Bench's Kaetran rulings since have been notably swift and notably favourable** — and the Measurewrights have entered a note observing this **and have not been asked to remove it.**
+Two crowns have tried. One withdrew the quarrel. **The other is Kaetran**, and the Kaetran arsenals are still supplied, and the terms on which they are supplied are not published, **and the Bench's Kaetran rulings since have been notably swift and notably favorable** — and the Measurewrights have entered a note observing this **and have not been asked to remove it.**
 
 ### `wiki Vaultmere` — the page returned is *The Kingdom of Nalūn — The Chain-Cities*; trimmed to Overview, the Seven Chain-Cities, the Six Provinces, the Wellsprings and the Oath, and Governance (the Council of Links, whose factor sits at the table in this chapter)
 
@@ -1579,7 +1579,7 @@ None yet: `state.json` `facts` is empty. This is chapter 1; the only continuity 
 - **Yoko Mishiro** — Level 145, Band II Awakened, Tier of Standing 5 Expert, η about 0.60, Resonant tier; Harmonics 345, anomalous. Nine years beside him. Exactly what is accurate and nothing more; nose before eyes; ears and tail betray her first. Gloss rights diagnostic only. Her four lines exist and the Bench has never seen them.
 - **Edward Lambert** — Level 142, Stage III Hold, Band II. Fifty-three, gloves indoors, collar to the throat, the count. Read three thousand and eleven names and would not delegate one. His seal is on the four hundred and six. His brother is a hole in an ordination roll. Gloss rights yes.
 - **Tabitha Hallenfeld** — Level 28, Stage 0, Band 0. The road woman. Has the question, written and dated, and two refusals.
-- **Brida Ashwell** — Level 45, Stage I, Band I (card says Ignition; Fracture of Worlds says Murmuring; R14-A open; no Stage name reaches the page). On a stick for a year, colour wrong for longer. Says the true thing. "The third bowl" is hers.
+- **Brida Ashwell** — Level 45, Stage I, Band I (card says Ignition; Fracture of Worlds says Murmuring; R14-A open; no Stage name reaches the page). On a stick for a year, color wrong for longer. Says the true thing. "The third bowl" is hers.
 - **Miku Tenrai Moto** — no card in the wiki mirror; nothing numeric on the page. Fourteen, the temporal running behind his eyes, a chair by right of a forfeiture at nine. Asked eleven times what he saw; four words: "I saw him mean it."
 - Unnamed, invented for the book and to be entered in the Inventory of whichever culture owns them if they survive the draft: a clerk of the Bench; a factor of the Council of Links at the Seat; the Chainwarden of the Eastern Reach's clerk; the four Vaultmere factors; the Chainwarden of the Vaultlands; an envoy of the Keth-Gorrum (Bugbear, carries a stone); a hereditary interpreter of Kethaal Vaross; the lord of House Thornwall (the wiki leaves the head unnamed); the Council Chair of the Ore Council (the wiki says he needs a name; the book does not give him one); the Coldbeck cooper who reads the names.
 

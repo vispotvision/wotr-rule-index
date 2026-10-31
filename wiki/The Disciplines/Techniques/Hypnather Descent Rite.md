@@ -78,11 +78,11 @@ The rite has a single known practitioner, and its philosophy states its purpose:
 
 ### Metaphysics
 
-**Aether** · A held line to one body, not a field; Limina is favoured by darkness, silence, thin Aether and ruins, and starved by saturation, crowds and active Domains. The Residue sits in the target: a worse-ordered Crystal a competent reader finds afterwards.
+**Aether** · A held line to one body, not a field; Limina is favored by darkness, silence, thin Aether and ruins, and starved by saturation, crowds and active Domains. The Residue sits in the target: a worse-ordered Crystal a competent reader finds afterwards.
 
 **Wellspring** · Hypnather, the Sleep Crown (Limina): a glass left undisturbed keeps relaxing toward the order it never reached, slowly and only while quiescent, and it cannot be forced by ordinary means.
 
-**Wellspring** · Letheveil, the Waters of Forgetting (Limina): each pass discards a little more, and a memory compressed repeatedly degrades toward an artefact still experienced as memory.
+**Wellspring** · Letheveil, the Waters of Forgetting (Limina): each pass discards a little more, and a memory compressed repeatedly degrades toward an artifact still experienced as memory.
 
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): a trajectory correct in the dream manifold lands nowhere in particular when mapped back into a room.
 
@@ -133,7 +133,7 @@ The rite has a single known practitioner, and its philosophy states its purpose:
 
 **Tell** · The practitioner fixes on one person inside 60 m and does nothing else while the rite runs; afterwards the target's Crystal reads worse ordered, and the practitioner is tired in a way sleep does not fix.
 
-**Limits** · Sixty metres, line of sight held throughout, sustained attention, and a target with a biological consciousness capable of genuine rest: no constructs, no undead.
+**Limits** · Sixty meters, line of sight held throughout, sustained attention, and a target with a biological consciousness capable of genuine rest: no constructs, no undead.
 
 **Fails against** · A hard shock, from pain or an ally's blow, which breaks quiescence before the lock takes; smoke, cover or a body in the sightline, which makes it miss; constructs; loud, crowded, saturated ground, which starves Limina.
 

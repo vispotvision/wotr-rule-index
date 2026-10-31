@@ -41,7 +41,7 @@ The source names Serenyra as the sole practitioner and names her instrument, the
 
 **Fracture** · Phase error grows with frequency as θ = 2π·f·δt, so the low end cancels, the middle partly, and the high end comes back doubled and off-key: the record is exact, the clock is not.
 
-**Local** · Cancellation holds only where the two paths match, a zone of quiet a few metres wide at the point where the incoming working would have finished.
+**Local** · Cancellation holds only where the two paths match, a zone of quiet a few meters wide at the point where the incoming working would have finished.
 
 **Channel** · Only Essence and Aetheric workings leave a signature to record; a crossbow bolt or a signature-free void effect is not on the channel.
 

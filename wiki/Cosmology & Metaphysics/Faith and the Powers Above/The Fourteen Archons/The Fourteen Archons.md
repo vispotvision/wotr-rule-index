@@ -154,7 +154,7 @@ While Titanic Law governs the geologic and cosmic architecture of the Realms, an
 
 The lattice underlying all Parunic syntax is read **from fourteen positions, one per Archon**, and a glyph is the path traced across that lattice from a given station. This is not a metaphor drawn from the Archons. **It is the mechanism by which their sovereignty is operational rather than ceremonial.**
 
-Every one of the hundred and thirty-six attested glyphs belongs to an Archon because every one of them is a reading taken from somewhere, and there is nowhere to read from that is not an Archon's station. **Thalen holds sixteen forms and Irath holds five, and the disparity is not favour.** It is how much of the lattice is legible from each seat.
+Every one of the hundred and thirty-six attested glyphs belongs to an Archon because every one of them is a reading taken from somewhere, and there is nowhere to read from that is not an Archon's station. **Thalen holds sixteen forms and Irath holds five, and the disparity is not favor.** It is how much of the lattice is legible from each seat.
 > *Which explains the register's oldest curiosity without softening it.* **Irath holds the fewest forms in the index and two of them are Command and Dominion**, both unclassifiable, and the smallest station carries the two heaviest words in the language.
 >
 > A station that sees little of the lattice sees the part of it that says *by what right*. **The Archons have never commented and the Codex records no Edict on the subject.**

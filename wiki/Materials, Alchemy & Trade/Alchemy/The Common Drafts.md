@@ -2,9 +2,9 @@
 title: "The Common Drafts"
 ---
 
-*The standard catalogue of the Draft trade, as kept by quartermasters, licensed apothecaries and the excise office · prices in Accord marks*
+*The standard catalog of the Draft trade, as kept by quartermasters, licensed apothecaries and the excise office · prices in Accord marks*
 
-> Twenty-two Drafts account for most of what is poured, sold, smuggled and drunk across the four quarters. This is the list every counter-clerk learns first, every smuggler forges first, and every practitioner should be able to name by the colour of the seal.
+> Twenty-two Drafts account for most of what is poured, sold, smuggled and drunk across the four quarters. This is the list every counter-clerk learns first, every smuggler forges first, and every practitioner should be able to name by the color of the seal.
 
 ---
 
@@ -18,7 +18,7 @@ The commonest Drafts are poured at several grades. A grade-II Windglass and a gr
 
 Glass or stoneware, a wax seal, an excise stamp, and sediment at the bottom that a careful buyer tilts to the light. A licensed Draft carries its grade in a Roman numeral pressed into the seal; a fight vial carries it on the cork as well, so it can be read by touch in the dark.
 
-**A fight Draft takes a beat to drink.** Thumb off the cork, swallow, and the half-second the body takes to answer. In a duel that beat is an opening, and every trained fighter watches for the hand going to the belt. What follows shows: a refill brightens a dimming aura back toward its full colour, a speed Draft leaves the drinker's footing light and quick, a strength Draft flushes the skin and swells the veins in the neck.
+**A fight Draft takes a beat to drink.** Thumb off the cork, swallow, and the half-second the body takes to answer. In a duel that beat is an opening, and every trained fighter watches for the hand going to the belt. What follows shows: a refill brightens a dimming aura back toward its full color, a speed Draft leaves the drinker's footing light and quick, a strength Draft flushes the skin and swells the veins in the neck.
 
 ## What it costs
 
@@ -37,7 +37,7 @@ Glass or stoneware, a wax seal, an excise stamp, and sediment at the bottom that
 | **IX** | Invocation | about 90 gold |
 | **X** | Realization | about 270 gold |
 
-> Twenty-four copper make a silver mark and twelve silver marks a gold. A labourer earns a silver mark in a good day. **A grade-X Draft costs a clerk four years of wages**, and the households that keep a case of them keep it in a vault.
+> Twenty-four copper make a silver mark and twelve silver marks a gold. A laborer earns a silver mark in a good day. **A grade-X Draft costs a clerk four years of wages**, and the households that keep a case of them keep it in a vault.
 
 **The crash.** Every fight Draft leaves a crash once its window closes, and the crash is the real price. Two or three in one fight is ordinary. Five is how veterans describe the worst week of their lives.
 
@@ -62,11 +62,11 @@ Glass or stoneware, a wax seal, an excise stamp, and sediment at the bottom that
 
 ## Example
 
-Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Halfway through he is down to a quarter of his reserve (the Essence he can spend before running dry), his aura thinning to a flicker. He steps back, takes the beat, and drinks a grade-III Vein Cordial; the light comes back up his arms, and the raider who saw the hand go to the belt has already closed the gap and cut his forearm. Hesk wins the bridge. That night he cannot recover a drop on his own, his forearm is still open, and a grade-III Willow Grey costs a silver and a half. He buys the four-copper grade I instead, which does almost nothing for a Stage III body, from a stall whose seal he did not check.
+Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Halfway through he is down to a quarter of his reserve (the Essence he can spend before running dry), his aura thinning to a flicker. He steps back, takes the beat, and drinks a grade-III Vein Cordial; the light comes back up his arms, and the raider who saw the hand go to the belt has already closed the gap and cut his forearm. Hesk wins the bridge. That night he cannot recover a drop on his own, his forearm is still open, and a grade-III Willow Gray costs a silver and a half. He buys the four-copper grade I instead, which does almost nothing for a Stage III body, from a stall whose seal he did not check.
 
 ---
 
-## The catalogue
+## The catalog
 
 ### Fight Drafts
 
@@ -86,7 +86,7 @@ Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Half
 | Name | What it does | Stage grade | The crash / side effect | Price | Source type |
 |---|---|---|---|---|---|
 | **Cutwater Tincture** | Cleans a wound and closes small vessels. Does not knit tissue and does not claim to | Unwoken and I | **Spoils in eleven days.** Spoiled Cutwater has killed more people than it ever saved. The date is printed on nothing | 3½ copper | Environmental |
-| **Willow Grey** | Dulls pain and brings down swelling for half a day. The commonest Draft in any poor quarter | Unwoken to III | **Eats the stomach.** Ringing ears and a bleeding gut in anyone who lives on it | 2 copper unwoken, 4 copper at I, 1½ silver at III | Environmental |
+| **Willow Gray** | Dulls pain and brings down swelling for half a day. The commonest Draft in any poor quarter | Unwoken to III | **Eats the stomach.** Ringing ears and a bleeding gut in anyone who lives on it | 2 copper unwoken, 4 copper at I, 1½ silver at III | Environmental |
 | **Snowmilk** | Breaks a fever in a night. A cold salt stirred into milk | Unwoken to II | **Drinks cold into you.** Given without a fever, it brings chills and shaking that last until morning | 3 copper unwoken, 12 copper at II | Material-Sourced |
 | **Penny Tonic** | A cup of steadiness for the unwoken (those whose Soul Crystal never woke): a long day's work without flagging | Unwoken only | **Deepens the grain.** It cannot advance anyone. Over years it hardens a drinker further in the direction they were already set, and a village raised on it is recognisable at a distance | 1 copper a cup | Synthetic |
 | **Metering Tonic** | Tightens a leaking Shell for six to nine hours and halves the spillage of a Welling child (a Stage II practitioner, whose power leaks into the room) | II | **Habituation.** A child kept on it through the whole of Welling controls their power worse afterward | 10 copper | Environmental |
@@ -103,12 +103,12 @@ Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Half
 | **Splinter Ration** | Supports the Crystal through Splintering (Stage V, when it cracks along the lines of what the practitioner feels). It does not stop the fracture. **It decides where the fracture runs** | V | Where the fracture runs is the product and the risk at once. Sworn practitioners get it; village talent does not | 48 silver (4 gold) | Creature-Sourced |
 | **Refraction Draught** | Steadies the double sight of Refraction (Stage VII, when the practitioner first sees their own Crystal from outside), sooner and with less damage | VII | **A stranger's habit of mind.** It is rendered from people, and the donor's way of seeing comes with it and never leaves | 160 silver (about 13⅓ gold) | Creature-Sourced |
 
-### Grey-trade Drafts
+### Gray-trade Drafts
 
 | Name | What it does | Stage grade | The crash / side effect | Price | Source type |
 |---|---|---|---|---|---|
 | **Ladder Dust** | Pushes a practitioner's stats above what their Crystal can hold, without a Catalyst. The numbers climb, and for a few weeks it looks like a breakthrough | Poured II to VIII | **Compounding fracture.** The Crystal cracks faster each week until the stat collapses or the Threshold is forced through crisis, and whatever fear or hunger was in the Crystal at that moment is built into what comes out | Twice the band of the grade above: 3 silver for grade II, 7 gold for grade V | Synthetic |
-| **Spawnblood** | Blood rendered from Well-spawn (creatures born out of a Well) by unlicensed houses. A savage surge of strength and reserve, graded by the depth of the Well it came from | II to IX | **The Well comes with it.** Cravings, dreams of the Well, a stain of its colour in the aura. Used long enough, the drinker cannot tell which wants are their own | Half the band: 18 copper at III, 1¾ gold at VI, 45 gold at IX | Creature-Sourced |
+| **Spawnblood** | Blood rendered from Well-spawn (creatures born out of a Well) by unlicensed houses. A savage surge of strength and reserve, graded by the depth of the Well it came from | II to IX | **The Well comes with it.** Cravings, dreams of the Well, a stain of its color in the aura. Used long enough, the drinker cannot tell which wants are their own | Half the band: 18 copper at III, 1¾ gold at VI, 45 gold at IX | Creature-Sourced |
 | **Threshold Reversal Draught** | Struck from the Index and illegal everywhere. Returns a Crystal to the shape of the Stage below, for those who seated badly and want a second try | V and up | **Loses what the Threshold built and keeps what it cost.** Nobody has survived being reversed twice | About 30 gold at seizure value; on the street, whatever the seller asks | Creature-Sourced |
 | **Chalkwater** | The common counterfeit. Sold as Vein Cordial, Red Seal or any clear fight Draft, under a forged seal | Claims any grade | **Does nothing,** which a fighter learns mid-fight. Some batches are cut with quicksilver or lead and kill slowly | A little under the real thing | Synthetic, in name |
 
@@ -123,5 +123,5 @@ Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Half
 ## Where they are sold
 
 - **The cities on the main** (the licensed district supply of Aether) buy anything: corner apothecaries for the everyday Drafts, licensed houses for the fight and advancement stock, and smugglers in every port for the rest. The trade is licensed, taxed at the gate and smuggled around the tax.
-- **The north** trades in kind. A belt of Drafts travels where a wall cannot, so the north ranks the pouring above the cutting, and a vial is paid for in salt, meat, fuel or a season's labour owed.
+- **The north** trades in kind. A belt of Drafts travels where a wall cannot, so the north ranks the pouring above the cutting, and a vial is paid for in salt, meat, fuel or a season's labor owed.
 - **The East** buys through its sects (the schools and great houses). A disciple draws Drafts against rank and duty; an outsider buys through a sect's factor, at a sect's price, or not at all.

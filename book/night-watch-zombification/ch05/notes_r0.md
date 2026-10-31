@@ -20,7 +20,7 @@
 3. **Ignorance quota:** what the walker did while he stood short of the stone. The field shows ground "broken close and several ways at once," a man standing and shifting his feet, in the same place each pass. Nothing else comes up. "He stood," he said. "I cannot give you what he did standing." It stays unresolved; ch7 resolves it. This falls out of the mechanism: Called Late reads broken ground against the decay of the shed, and hands leave nothing in the shed. (R6-3-IGNORANCE_QUOTA; R13-3-PHENOMENON_MANDATE, the fault)
 4. **Misreading:** the chosen edge (the sentence is quoted below). His reasoning is sound. Nobody set the stone for this, so a man who wanted a line only needed to know where one was. The walker demonstrably turned short of it every time and never followed the round west along the bound. The edges position already stands in Lyle's minute. What is wrong is the purpose he gives the turn. It is uncorrected on the page; ch7 pays it (the round stopped there and the carrier turned home) and ch15–16 break the edges theory in full. It does not name or imply a lick-keeper or an intermediary. The walker stays "somebody." (R6-4-MISREADING_BUDGET; R5-C1-WELL_REASONED_WRONG_CONCLUSION; R12-4-VOICE_ONE_POV; bible, "What Wystan believes that is wrong," 5)
 5. **What it costs:** (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)
-   - **Body.** Awake since the noon before, a day in the saddle, then eight divisions standing without food (counted privately: "Eight divisions. He had counted every one."). Feet swell in the boots, cold in the shins, hunger then none, the morning tremor, a left calf knot. Vision greys when he blinks. When he finally turns he goes down in an orthostatic faint to one knee, his bare palm flat on the stone. Both calves cramp when he sits. Tally reads it in a forester's words: "Blood goes to the feet."
+   - **Body.** Awake since the noon before, a day in the saddle, then eight divisions standing without food (counted privately: "Eight divisions. He had counted every one."). Feet swell in the boots, cold in the shins, hunger then none, the morning tremor, a left calf knot. Vision grays when he blinks. When he finally turns he goes down in an orthostatic faint to one knee, his bare palm flat on the stone. Both calves cramp when he sits. Tally reads it in a forester's words: "Blood goes to the feet."
    - **Owed.** The card's following-week debt, carried as "The week after would send its own bill. It always did." This is a Ledger proposal for the Judger after approval; nothing is written.
    - **Reserve.** Almost none: "His Essence ran at a trickle and always had, and the working asked almost nothing of his Crystal."
    - **Who saw.** Yinzhi and Tally saw him fall.
@@ -50,7 +50,7 @@
     - **Voice one, POV free-indirect:** Wystan, at his real competence. This covers the decay clock, the Aether standing thin off the main, Fixatio holding each placed piece, and his Essence's trickle.
     - **Voice two, second observer:** Yinzhi explaining to Tally at the fire ("If you know the rate you know how long since. He's putting it back where it was"). Tally supplies the tracker's analogue in his own vocabulary ("Edge of a print goes soft"), inside her exchange. (R12-4-VOICE_DISCIPLINE)
 13. **Stat that decides each contested action, by row:** (R14-3-STATS_DECIDE_TABLE; R14-3-TRACEABILITY; R14-4-EFFECTS_CHANNEL)
-    - **Whether the read lands:** Gnosis, per the card's mechanism (Perception 560 modelling geometry against the decay profile; Fluency 480 reading the stone's inscription, "first for the cutter and then for the words").
+    - **Whether the read lands:** Gnosis, per the card's mechanism (Perception 560 modeling geometry against the decay profile; Fluency 480 reading the stone's inscription, "first for the cutter and then for the words").
     - **Holding the scene while he builds it:** the Fixatio harmonisation ("what was held stayed held, a scene as well as a seal"; card III).
     - **Duration and the body's price:** the card's Cost line, against Vitality D. He collapses on turning. Card XII: "Weak against... cold."
     - **Keeping himself down throughout:** The Quiet Man (card VIII), unnamed on the page.
@@ -135,7 +135,7 @@ Day 4, sixth division, to Day 5, sixth. Yinzhi brings the Society's bundle to Cu
 
 - **Nol Tally, first inventory:**
   - *Build and age:* middle height, spare, long in the leg and short in the body, "forty or fifty."
-  - *Face and hair:* narrow, wind-reddened face, close grey beard cut unevenly with a knife, pale squinting eyes, cropped hair under a bark-coloured felt hat.
+  - *Face and hair:* narrow, wind-reddened face, close gray beard cut unevenly with a knife, pale squinting eyes, cropped hair under a bark-colored felt hat.
   - *Clothes:* an undyed wool smock belted over a leather jerkin, hide gaiters, boots resoled past their uppers.
   - *Hands:* big, with swollen knuckles and square-cut nails, and a white knife seam across the back of the left.
   - *Kit:*
@@ -152,7 +152,7 @@ Day 4, sixth division, to Day 5, sixth. Yinzhi brings the Society's bundle to Cu
     - takes out the rule without noticing.
 - **Tally's letter** (text as on the page). The parish, via the parish clerk, "had it from his father." Tally is at the stone most days at dusk, writing up.
 - **The stone:**
-  - A hip-high squared block of grey grit, leaning a little west.
+  - A hip-high squared block of gray grit, leaning a little west.
   - Yellow lichen on the north face.
   - The top dressed flat with a surveyor's sighting groove.
   - South face: *TERM* and the rest of a chancery word, the estate's name cut shallower and later, and a line that was once a year, now illegible.

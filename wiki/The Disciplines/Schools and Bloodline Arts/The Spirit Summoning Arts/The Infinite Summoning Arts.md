@@ -14,7 +14,7 @@ title: "The Infinite Summoning Arts"
 
 The name misleads almost everyone who hears it, including several people who have died to it. It does not mean unlimited output. Essence remains finite, the Aether Shell still strains, and an Infinite practitioner exhausts on the same curve as anyone else at their Coherence.
 
-What is infinite is the **catalogue**. The Accord's register lists what has been sealed and reported. It has been out of date for four hundred years, everyone in the Commission knows it, and Infinite Summoning is the art built on top of that gap. The practitioner does not select from a list. They draft to the problem.
+What is infinite is the **catalog**. The Accord's register lists what has been sealed and reported. It has been out of date for four hundred years, everyone in the Commission knows it, and Infinite Summoning is the art built on top of that gap. The practitioner does not select from a list. They draft to the problem.
 > **The trade is repetition.** A sealed compact gets cheaper each time it answers, because recognition accumulates. A drafted call never does. The Infinite practitioner pays first-call price forever, and nothing that answers them is guaranteed to be the same thing twice.
 **Temperance Gate** · Stage XI (Dissonance) for unsealed drafting under battlefield conditions · Stage XIII for sustained networks · The art is not taught below Stage XI and the Accord's position is that it should not be taught at all.
 
@@ -128,7 +128,7 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 ### Echo Manifestation
 
-**Effect** · Remnants of dissolved forms gathered and folded into new ones, so that a practitioner deep into an engagement is drafting from richer material than they began with. Long fights favour the drafter who survives them.
+**Effect** · Remnants of dissolved forms gathered and folded into new ones, so that a practitioner deep into an engagement is drafting from richer material than they began with. Long fights favor the drafter who survives them.
 
 **Cost** · Remnants carry the manner of their dissolution. A practitioner who has lost forms badly is building from that.
 
@@ -138,7 +138,7 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 ### Dimensional Resonance
 
-**Effect** · A form held across more than one plane simultaneously, so that defences seated on one plane do not fully engage it. The technique that makes the art strategically intolerable to the Accord.
+**Effect** · A form held across more than one plane simultaneously, so that defenses seated on one plane do not fully engage it. The technique that makes the art strategically intolerable to the Accord.
 
 **Cost** · The practitioner is also held across, and does not come all the way back. Documented resonance users lose time, lose sequence, and eventually lose the ability to say with confidence which plane a given memory happened on.
 

@@ -5,7 +5,7 @@
 **Edric Ashmore** · Lord of the Ashmore Marches · House Ashmore, a Banner House of the north · as of the morning of the seven lines in the Hall of Verdicts, sworn with his hand on the black stone of the dais
 **Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body 50% / Attraction 40% / Spirit 10% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
 **Combat grammar** · Blade, from the saddle; a lancer's lord
-**Aura and sound** · brown and russet, the colour of autumn bracken against snow · sound: hoofbeats a long way off, coming closer
+**Aura and sound** · brown and russet, the color of autumn bracken against snow · sound: hoofbeats a long way off, coming closer
 **Traits** · THE UNTOUCHED WINE (Primary) · tell: he looks at an offer for exactly as long as it takes a cup to go cold · counter: make him decide before the wine is poured / THE JUNCTION STONE (Secondary) · tell: his hand flat on stone when he swears · counter: put two oaths on the same stone
 **Signature** · THE ASHMORE LINE · tell: russet pennants and a long ragged line of big southern horses at the gallop · counter: pikes, set, on ground the horses cannot take at speed
 **Voice** · "And Ashmore?" · speaker type: a grain lord of the marches who weighs before he speaks and is faintly amazed every time he finds himself committed
@@ -15,7 +15,7 @@
 **Full Name** · Edric Ashmore · **Pronunciation** · ED-rik ASH-mor
 **Age** · Forty, and looks younger
 **Realm / Faction** · House Ashmore and the Ashmore marches, seat at Ashbury, where the Kessen, the Marrow and the salt road from the south meet; one of the six Banner Houses, sworn to Muken Moto through Hayato Amagiri at the junction stone below Ashbury
-**Colours and arms** · plain brown and russet, the russet bright as autumn bracken against the snow; the Ashmore boar
+**Colors and arms** · plain brown and russet, the russet bright as autumn bracken against the snow; the Ashmore boar
 **Refusal** · He will not fight for a cause; he will fight for a road, a price and a promise he can put his hand on
 **Conviction** · Whoever holds the roads holds Ashmore's grain, and for twenty years the Tenrai held them
 
@@ -38,7 +38,7 @@ Five or six hundred big southern horses with lances and long swords in a long ra
 
 ## Voice
 
-**Speaker type** · a grain lord of the marches · **Notices first** · the roads on the map, and whose colour they are drawn in · **Sentence length** · very short; he asks, he does not argue · **Contractions** · sometimes · **Never says** · yes before the wine is cold · **Joy shift** · he laughs, once, from the other side of the table
+**Speaker type** · a grain lord of the marches · **Notices first** · the roads on the map, and whose color they are drawn in · **Sentence length** · very short; he asks, he does not argue · **Contractions** · sometimes · **Never says** · yes before the wine is cold · **Joy shift** · he laughs, once, from the other side of the table
 **Sample line** · "And Ashmore?"
 
 ## Physical Description

@@ -78,7 +78,7 @@ It has a single known practitioner, and the technique answers one problem: extra
 
 ### Metaphysics
 
-**Aether** · A 140 m addressing envelope and a very small deposition; Limina is favoured by darkness, silence and ruins, suppressed by saturated Aether, crowds and active Domains, and a field that strips a region's Aetheric memory denies any template.
+**Aether** · A 140 m addressing envelope and a very small deposition; Limina is favored by darkness, silence and ruins, suppressed by saturated Aether, crowds and active Domains, and a field that strips a region's Aetheric memory denies any template.
 
 **Residue** · In the room a deposition site that briefly deafens Harmonists; in the target, Soul Crystal coherence loosened around the contradiction, readable later by a physician or renderer.
 

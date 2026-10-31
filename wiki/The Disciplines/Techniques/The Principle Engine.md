@@ -148,4 +148,4 @@ Its author built The Principle Engine alone around one core concept: it collapse
 
 **Fails against** · Silence, which starves it; dream logic or Knot, which presents a gap; a Nihiloth seal, which pre-empts the read; a cold, still, sealed room, where it is pure cost; gentle binds; two options with one then removed; Coherence drift.
 
-**Look up** · The Caloria and Fulguria favour lists; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.
+**Look up** · The Caloria and Fulguria favor lists; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.

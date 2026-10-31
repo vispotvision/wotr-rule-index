@@ -47,11 +47,11 @@ That night at the hearth is the first Telling. Every Telling since is the same a
 
 Senri was the last child Ashura Yukari bore, late in the long run of the Third Epoch, and her blood ran fuller in him than in any Yukari since the first mornings. He was born with the undivided eye. It took his left eye before he was grown, and the left stayed dark for the rest of his life, a still black pupil ringed in old crimson; the right saw for both, and saw deeper than any eye in the house. People who met him remembered the dark eye first and the patience second.
 
-He was a quiet man and a plain-spoken one. He said true things in the fewest words they would go into and then said nothing at all, which the house learned to read as the rest of the sentence. When the Moto offered to take his sight into the Loom's administration, to make it a lawful subset of their own judgement and him an officer of it, he refused them in one sentence and never discussed it again. The Moto remember the refusal. The Yukari remember the sentence.
+He was a quiet man and a plain-spoken one. He said true things in the fewest words they would go into and then said nothing at all, which the house learned to read as the rest of the sentence. When the Moto offered to take his sight into the Loom's administration, to make it a lawful subset of their own judgment and him an officer of it, he refused them in one sentence and never discussed it again. The Moto remember the refusal. The Yukari remember the sentence.
 
 ### Senri's stone
 
-He cut it himself. It is a single slab of the valley's limestone taller than a man, grey with a warmth of honey where the light catches it, dressed flat on the face and left rough on the flanks so the quarry chisel's furrows still run down them. He took it out of the hill behind the gate over one whole winter and brought it down on a sledge, six men pulling and Senri walking beside it with one palm laid on the stone as if it were a horse that might bolt. There is one line on its face, set at the height of a seated man's eyes, so that whoever reads it properly has to sit down to do it:
+He cut it himself. It is a single slab of the valley's limestone taller than a man, gray with a warmth of honey where the light catches it, dressed flat on the face and left rough on the flanks so the quarry chisel's furrows still run down them. He took it out of the hill behind the gate over one whole winter and brought it down on a sledge, six men pulling and Senri walking beside it with one palm laid on the stone as if it were a horse that might bolt. There is one line on its face, set at the height of a seated man's eyes, so that whoever reads it properly has to sit down to do it:
 
 > *Master the innards, and the outer world is yours to command.*
 
@@ -63,7 +63,7 @@ Senri married a daughter of House Lambert of Sallowgate, the counting house of t
 
 ### The seam
 
-Four winters before the war ended, the Seikai forced a seam into the Soul Plane: into the place in Ashura where the dead are kept. Senri went into it. He left from the gate on a frost-white morning in his travelling coat with the pack already on his back, because a door like that will take only one, and he held it from the inside for four years. Everything that still lives on the spirit side of the world lives on the time he bought.
+Four winters before the war ended, the Seikai forced a seam into the Soul Plane: into the place in Ashura where the dead are kept. Senri went into it. He left from the gate on a frost-white morning in his traveling coat with the pack already on his back, because a door like that will take only one, and he held it from the inside for four years. Everything that still lives on the spirit side of the world lives on the time he bought.
 
 When Naiser broke the Seikai working at its root on the slope above the river, the seam stopped widening. Senri did not come back. The house has not given him a posthumous name, because a posthumous name is given to the dead, and the archive enters Senri as neither. The Yukari say it plainly to anyone who asks: *he went into his mother to hold her shut.*
 
@@ -97,7 +97,7 @@ The house's terms to the other powers, given in the long hall, follow from all o
 
 **Eyes** · Dark irises from near-black to deep brown, with the faint violet-black corona of the Ketsumyōgan at the pupil's edge even at rest. Waking, the corona brightens to luminous crimson and thread-patterns turn slowly in the iris.
 
-**Skin and thread-marks** · Complexions from dark earthen brown to pale cool ivory. Bearers grow thread-marks over the years: fine luminous lines under the skin of the forearms, the backs of the hands, the temples and the base of the skull, branching like roots seen from beneath the soil. At rest they are the colour of old scars; under strain they glow silver going violet at the edges.
+**Skin and thread-marks** · Complexions from dark earthen brown to pale cool ivory. Bearers grow thread-marks over the years: fine luminous lines under the skin of the forearms, the backs of the hands, the temples and the base of the skull, branching like roots seen from beneath the soil. At rest they are the color of old scars; under strain they glow silver going violet at the edges.
 
 **Hair** · Most often jet black; blonde with notable frequency; deep crimson streaks in the lines that run closest to Ashura; now and then white from birth, which the house calls the Breath's mark. Active bearers carry Thread-Shimmer, a faint glow in the hair in low light.
 
@@ -105,7 +105,7 @@ The house's terms to the other powers, given in the long hall, follow from all o
 
 ### Customs
 
-- **The Telling.** The name is given only to those who hear the whole account of what it costs and then ask for it. Refusing is honourable and nobody presses.
+- **The Telling.** The name is given only to those who hear the whole account of what it costs and then ask for it. Refusing is honorable and nobody presses.
 - **Five names.** A childhood name; an adult name chosen at the Telling; a calling-name for intimates; the true name, spoken only in Council, at a Proving or before Senri's stone; a posthumous name given at death.
 - **The cut nape.** A fighter who loses cuts a lock from the back of the neck the morning after and lays it on the fire, and goes about with a bare nape until it grows back. Nobody speaks of it.
 - **The tea.** No word of business is spoken in a Yukari house until the guest has tasted the tea, bitter with small white flowers. Whatever is said after, the tea was shared.

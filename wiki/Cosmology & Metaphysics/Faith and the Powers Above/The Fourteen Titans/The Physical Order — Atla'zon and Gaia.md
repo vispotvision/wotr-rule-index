@@ -96,6 +96,6 @@ Thalen, Form. Foremost ally, the architect whose glyphs she embodies. Maelor, Me
 
 **Counter**  [Uur] Disruption breaks the lattice mid-formation. The sudden phase change back to soft tissue is its own kind of trauma, and the reversal is frequently worse than the completed conversion would have been.
 
-**What nobody knows**  Why the crystallisation front stops at scar tissue and routes around it. The Verdant Core has documented the behaviour for three hundred years and has no account of it.
+**What nobody knows**  Why the crystallisation front stops at scar tissue and routes around it. The Verdant Core has documented the behavior for three hundred years and has no account of it.
 
 *Codex: [Th] Foundation + [Ma] Recall / Materia Primordia / Materia / Material Science / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

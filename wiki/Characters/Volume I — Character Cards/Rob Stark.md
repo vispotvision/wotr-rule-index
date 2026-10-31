@@ -5,7 +5,7 @@
 **Rob Stark** · Sarge's Shadow · Kharven, House Stark of Hollenmark · as of the Hall square at Kharven-Seat, the hour he stepped across the boy with the red ears
 **Stat line** · Level 72 · Band I, Mortal Foundation · Stage III, Ascension · Path Body 75% / Attraction 25% · Journeyman · η 0.40 · Aether Class unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade, heavy; the boar-spear on the road, the great sword and the axe in the north
-**Aura and sound** · the Stark cold, a grey with frost at its edges that whitens his beard when he is angry · sound: a man breathing hard through his nose and not complaining
+**Aura and sound** · the Stark cold, a gray with frost at its edges that whitens his beard when he is angry · sound: a man breathing hard through his nose and not complaining
 **Traits** · STARK RIME (Inherited) · tell: frost in his beard · counter: heat / HE'S ALL OF OURS (Primary) · tell: he is standing where the Sarge can't see behind himself · counter: get past the Sarge first / DIDN'T SCREAM (Secondary) · tell: the strap between his teeth · counter: none anybody found
 **Signature** · THE WALL OF ONE · tell: he steps across, not aside · counter: more than one blade
 **Voice** · "Tell her. The little surgeon. Tell her I didn't scream this time." · speaker type: a big quiet northern soldier who says almost nothing, and then, once he has decided you are his, will not stop talking

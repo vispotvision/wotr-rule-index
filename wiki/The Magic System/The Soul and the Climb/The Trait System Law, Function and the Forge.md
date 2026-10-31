@@ -27,11 +27,11 @@ A Trait is survived into existence, never taught. The four harmonics that must f
 
 **A Trait belongs to the soul. The Soul Crystal only arms it.**
 
-The Crystal makes a Trait legible, dangerous and expensive. The material of the soul makes it at all. A Trait is woven into the fibre of a person's original Essence, present in the material of the soul before the Crystal ever opens, and it persists in Class Ø bearers whose Crystal is sealed and almost always stays sealed their whole lives; a rare few are woken by crisis, a master's forcing or a tribulation, at great cost.
+The Crystal makes a Trait legible, dangerous and expensive. The material of the soul makes it at all. A Trait is woven into the fiber of a person's original Essence, present in the material of the soul before the Crystal ever opens, and it persists in Class Ø bearers whose Crystal is sealed and almost always stays sealed their whole lives; a rare few are woken by crisis, a master's forcing or a tribulation, at great cost.
 
 This has three consequences worth stating plainly.
 
-First, the overwhelming majority of people in the world carry Traits. A woman whose bread rises when the same flour fails in her neighbour's hands, a smith whose welds hold past what the iron should permit, a man who has never in sixty years taken a fever: these are Traits, running at an amplitude too low to register as anything but character. Every quarter has a folk vocabulary for them and every one of those vocabularies is describing something real.
+First, the overwhelming majority of people in the world carry Traits. A woman whose bread rises when the same flour fails in her neighbor's hands, a smith whose welds hold past what the iron should permit, a man who has never in sixty years taken a fever: these are Traits, running at an amplitude too low to register as anything but character. Every quarter has a folk vocabulary for them and every one of those vocabularies is describing something real.
 
 Second, a Trait is not evidence of a Crystal. Testing for one by looking for the other produces false negatives constantly, which is a live institutional problem for any body that screens for practitioners.
 
@@ -56,7 +56,7 @@ A Trait held in the Essence Core is a permanent bias written into the Aether She
 The practical result is that **a Trait edits the body's baseline rather than adding an effect to it.** Nothing is bolted on. The organism is quietly rewritten toward the law, over years, in the ordinary currency of biology.
 
 What this looks like at autopsy and under a physician's hand:
-- **Density Traits** deposit mineral into the periosteum and thicken cortical bone past what mechanical load explains. Borin Ironheart's frame is the reference case. The bone is heavier than the man's diet or labour can account for.
+- **Density Traits** deposit mineral into the periosteum and thicken cortical bone past what mechanical load explains. Borin Ironheart's frame is the reference case. The bone is heavier than the man's diet or labor can account for.
 - **Speed Traits** show as tendon elasticity outside normal range, unusually heavy myelination on motor tracts, and a lactate handling curve that does not match the muscle mass.
 - **Endurance and thermal Traits** rebuild the vasculature: shunt architecture in the extremities, altered brown-fat distribution, a resting core temperature offset from the population mean.
 - **Perception Traits** thicken the relevant sensory apparatus and, more tellingly, reorganise the tissue behind it. The eye is ordinary. The tract is not.
@@ -75,7 +75,7 @@ Canon per Fracture of Worlds, Part Twenty, with function and bodily signature ad
 
 **Inherited, the Lineage Reflection.** Carried by bloodline, ancestral resonance, reincarnational echo, or a pact maintained across generations. Function: it runs whether or not the bearer consents to it, because it was written into the Core before the Core had a self to consent with. Governed by Tempering Maturity (how fully a soul has integrated its past hurts), which decides whether the bloodline cooperates or ambushes. Bodily signature: frequently visible from birth as a mark, a pigmentation, a malformation, a structural oddity that runs in the family and that nobody has previously connected to the law it encodes.
 
-**Passive, the Resonant Reflection.** Stabilised by long emotional pattern, continuous Essence exposure, or deep habit etched into the Crystal. Always active, low cost, no conscious control. Function: it is the atmosphere a person carries. Bodily signature: posture, gait, thermoregulation, scent, and the ambient behaviour of a room the bearer has been sitting in for an hour. The cheapest Trait class and the most identifying, which is why counter-intelligence work cares about Passive Traits far more than about Secondary ones.
+**Passive, the Resonant Reflection.** Stabilised by long emotional pattern, continuous Essence exposure, or deep habit etched into the Crystal. Always active, low cost, no conscious control. Function: it is the atmosphere a person carries. Bodily signature: posture, gait, thermoregulation, scent, and the ambient behavior of a room the bearer has been sitting in for an hour. The cheapest Trait class and the most identifying, which is why counter-intelligence work cares about Passive Traits far more than about Secondary ones.
 
 **Compound Traits.** Two or more Reflections fused into a single law. Fewer, stronger principles. Catalytic, and catastrophic if the fused law contradicts the self.
 
@@ -119,7 +119,7 @@ When a character reaches a Band ceiling without the Threshold, the level counter
 
 **This is the whole explanation of the Level 200 wall.** The world is not short of people who can grind pressure. It is short of people who can produce the Catalyst for Stage VII, Refraction, the Threshold at which Traits externalise and dual sight opens. Most practitioners spend the back half of their careers stalled in the high hundred-and-nineties, accumulating Residual Strain, becoming slowly more dangerous to themselves, and dying of something unrelated before the Threshold ever arrives. That population, stalled and straining and bitter about it, is the ordinary composition of every veteran corps in every army on the continent.
 
-Aptitude decides whether a Threshold happens cleanly, catastrophically, or at all. Tempering Maturity smooths the ascent. Tempering Coherence is the structural prerequisite for eligibility, the Crystal's honesty meter, and a practitioner whose stated Path (the route, body, spirit, bond or fate, their Crystal works through) and lived behaviour have drifted apart will be quantitatively ready for years and never authorised. Maturity is also what the Crystal actually consults.
+Aptitude decides whether a Threshold happens cleanly, catastrophically, or at all. Tempering Maturity smooths the ascent. Tempering Coherence is the structural prerequisite for eligibility, the Crystal's honesty meter, and a practitioner whose stated Path (the route, body, spirit, bond or fate, their Crystal works through) and lived behavior have drifted apart will be quantitatively ready for years and never authorised. Maturity is also what the Crystal actually consults.
 
 A soul advances when it has genuinely changed. Effort alone gets it to the door and holds it there.
 
@@ -151,7 +151,7 @@ Old families are strange for structural reasons. Six generations of purchased se
 
 ## XI. What the Institutions Do With This
 
-The Accord screens for Crystals that have stirred and reports the result as a screening for Traits, because the two produce nearly the same list at the top and wildly different lists at the bottom. Every screening season produces a quantity of false negatives: Class Ø souls carrying strong Traits, filed as commons, hired as labour, occasionally lethal.
+The Accord screens for Crystals that have stirred and reports the result as a screening for Traits, because the two produce nearly the same list at the top and wildly different lists at the bottom. Every screening season produces a quantity of false negatives: Class Ø souls carrying strong Traits, filed as commons, hired as labor, occasionally lethal.
 
 Great houses screen differently and earlier. A house physician reads infants for Inherited marks inside the first month, and the family knows by the child's first winter roughly what it has bought. The reading is taken off the body, because the body is where the law shows.
 

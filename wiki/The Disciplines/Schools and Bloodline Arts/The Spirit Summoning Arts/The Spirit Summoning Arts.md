@@ -67,14 +67,14 @@ This is the art behind eidolons that can think, adapt, feel, and persist beyond 
 | Tier | Categories | Temperance | Duration | Typical form |
 |---|---|---|---|---|
 | **I · Ephemeral Constructs** | Animatria | Stage IV – VI | 1 – 10 seconds | Flickering Essence shapes, light-echoes, brief force projections |
-| **II · Basic Summons** | Animatria + Arts | Stage VI – VIII | Seconds to minutes | Eidolons with basic behavioural patterns, companion constructs, scout-forms |
+| **II · Basic Summons** | Animatria + Arts | Stage VI – VIII | Seconds to minutes | Eidolons with basic behavioral patterns, companion constructs, scout-forms |
 | **III · Greater Summons** | Vocatia + Animatria + Arts | Stage IX – XI | Minutes to hours | Semi-autonomous spirits with tactical intelligence, ancestral echoes, Wellspring-resonant constructs |
 | **IV · Legion Summons** | Animatria + Concordia | Stage X – XII | Minutes to indefinite with Domain anchor | Coordinated hosts operating as a single tactical network |
 | **V · World-Tethered** | Vocatia + Concordia + Mnemata | Stage XII – XIV | Indefinite | Persistent presences anchored to a location, bloodline, or Wellspring vein |
 
 **Tier I** constructs do not think and do not persist. They are reflexive extrusions, **the summoning equivalent of throwing a punch**. Used for training, distraction, and emergency shielding.
 
-**Tier II** carries the summoner's Typology visibly — an Ignis-typed summoner produces flame-wreathed forms; an Aqua-typed summoner produces fluid, reflective shapes — and follows simple behavioural directives. Material anchors (a glyph-marked stone, a prepared focus object, a drop of the summoner's blood on a sigil) extend duration and reduce continuous Shell strain. Summon Stability sits at E-Tier to D-Tier.
+**Tier II** carries the summoner's Typology visibly — an Ignis-typed summoner produces flame-wreathed forms; an Aqua-typed summoner produces fluid, reflective shapes — and follows simple behavioral directives. Material anchors (a glyph-marked stone, a prepared focus object, a drop of the summoner's blood on a sigil) extend duration and reduce continuous Shell strain. Summon Stability sits at E-Tier to D-Tier.
 
 **Tier III** is the first tier where Vocatia becomes viable, and the difference is felt rather than measured. A Vocatia-invoked spirit carries an identity that did not originate entirely within the summoner. **It may act in ways the summoner did not anticipate. It may refuse orders that contradict the nature of the entity being channeled.** This is not malfunction. It is proof that the invocation contacted something real. Summon Stability C-Tier to B-Tier.
 

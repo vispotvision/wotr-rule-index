@@ -123,7 +123,7 @@ The Accord has documented the pattern across six confirmed incidents:
 
 **Phase Two — The Declaration.** The Inquisition announces itself. A declaration is posted, read aloud in the central square, and followed by a forty-eight-hour period during which any individual may approach, accept the tenets, and take the mask. Those who accept are inducted. Those who refuse are marked.
 
-**Phase Three — The Purification.** What remains after the declaration period is treated as structural corruption. The Inquisition moves through the territory systematically, burning what resists and collapsing what does not. They catalogue what survives. The cataloguing is the detail that disturbs the Accord's intelligence analysts most, because it suggests the Inquisition is not merely destroying. It is collecting.
+**Phase Three — The Purification.** What remains after the declaration period is treated as structural corruption. The Inquisition moves through the territory systematically, burning what resists and collapsing what does not. They catalog what survives. The cataloguing is the detail that disturbs the Accord's intelligence analysts most, because it suggests the Inquisition is not merely destroying. It is collecting.
 
 **Phase Four — The Planting.** A small garrison is left behind. A chapter marker is placed. The territory is declared corrected. The Inquisition does not govern what it has taken. It leaves a marker and moves to the next reading.
 

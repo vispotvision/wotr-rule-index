@@ -8,7 +8,7 @@ source: scenes/naisers_answer.md
 
 Naiser let the silence after the Sovereign's last words run long.
 
-He did it on purpose. The hall was built for it. The stream went on under the boards, steady as breath, and out beyond the open screens a wind moved through the tops of the cedars and set them hissing softly against one another and then let them be. In the clay cups the tea had stopped steaming. The afternoon had turned while they talked; it came in low through the screens now and lay across the table in long bars the colour of honey, and lit the green-gold dregs in the cups, and set the dust turning slow and bright in the air above the boards. He let all of it go on until the room had settled back into its own quiet, the way water settles after a stone goes into it, and only then did he lift his eyes from the table.
+He did it on purpose. The hall was built for it. The stream went on under the boards, steady as breath, and out beyond the open screens a wind moved through the tops of the cedars and set them hissing softly against one another and then let them be. In the clay cups the tea had stopped steaming. The afternoon had turned while they talked; it came in low through the screens now and lay across the table in long bars the color of honey, and lit the green-gold dregs in the cups, and set the dust turning slow and bright in the air above the boards. He let all of it go on until the room had settled back into its own quiet, the way water settles after a stone goes into it, and only then did he lift his eyes from the table.
 
 He had listened to all of it. To the Sovereign's careful courtesy, and to the line drawn under it, firm and plain as a boundary stone, that Kushara would not hand away its right to defend itself. To the prince's questions, which had come at him like thrown stones, and which were, every one of them, the right questions. To the story of Gimbzo, and the name of the thing that had killed him, and the pleasure in the voice that had told it. He had heard the palm come down on the table. He had felt, through the thin skin of the hall's threads, the heat of the anger that went between the father and the son, and the older, deeper thing beneath it that neither of them would have called by its name in front of strangers.
 
@@ -58,7 +58,7 @@ He let it stand.
 
 "I don't say that to shame you," he said, more quietly. "I say it because kings die, Prince Dougou. Empires die. I have watched two of them die in four years and I'll watch more before I'm done. But the faith of a family that strong, the thing it believes about itself, the morale that holds its lines together when everything around them is falling down, that doesn't die. You can kill every Moto who ever stood in front of you and you will still be fighting what they believe. Gimbzo is dead. What made Gimbzo isn't."
 
-Naevra's fingers moved, very slightly, against the grey silk in her lap.
+Naevra's fingers moved, very slightly, against the gray silk in her lap.
 
 "I'm afraid," Naiser said, "that his death has brought us nothing. Nothing but more conflict, and more of it coming. You know what he was to the Moto. He was the last fist they had that could still close." He paused. "And he left the house with no Kōkan behind him."
 
@@ -104,7 +104,7 @@ He drew a breath and turned back to the Sovereign.
 
 "So let me be clear about what we're asking for, and what we're not," he said. "We are not asking for authority over the spirit side. Not over yours and not over anyone's. We know that your authority will stand beside ours. It always has, whether either of our houses wanted to admit it." He spread his hands a little on the table. "You keep the physical world. The stone, the law, the boundary, the body. Your house's potential in it has no ceiling that I've ever seen, and I've seen your soldiers fight. All we are saying, all we have ever been saying, is that we hold the same in the spiritual world. The same weight. The same charge. It's not a crown. It's a post. We stand at it because someone has to and because we were made to."
 
-"And what you offered," Naevra said, "consultation, shared instruction, restrictions we set together on anything that could reach the Soul Plane or its Wellsprings." She nodded once. "That's the shape of it. That's what we would have asked for, if my brother had been better at asking." There was a flicker of dry humour in it, there and gone. "We can work out the wording. That's what scribes are for."
+"And what you offered," Naevra said, "consultation, shared instruction, restrictions we set together on anything that could reach the Soul Plane or its Wellsprings." She nodded once. "That's the shape of it. That's what we would have asked for, if my brother had been better at asking." There was a flicker of dry humor in it, there and gone. "We can work out the wording. That's what scribes are for."
 
 Naiser let her have that one.
 
@@ -120,7 +120,7 @@ Naiser nodded slowly.
 
 Then he was silent for a while, and when he spoke again his voice had gone somewhere else, lower, slower, as if he were listening to something on the far side of the hall that no one else could hear.
 
-"There's one more thing," he said. "I'll tell you, because I'd rather you heard it from me than from a rumour a year from now, with half of it wrong."
+"There's one more thing," he said. "I'll tell you, because I'd rather you heard it from me than from a rumor a year from now, with half of it wrong."
 
 His eyes had changed. The violet-black ring round the pupil had brightened, a little, toward silver, and the fine pale thread-marks at his temples had begun to glow faintly under the skin.
 
@@ -145,9 +145,9 @@ Naiser sat quietly beside her, with his katana lying sheathed at his right hand 
 **Notes**
 
 - **Retcon 2026-10-20 (new-lore questionnaire).** Naiser's Kōkan speech now names Gimbzo as Kōkan and the last of them, killer of his own blood, instead of placing the Kōkan's rule "long before any of us were born"; Gimbzo's riders come in the second and third of the war's last four years, not its second and third. The notes on Muken's birth, the one war and Gimbzo's page are corrected.
-- **Shaka-Al and Dougou are never written.** They get no lines, actions, thoughts or reactions. Every answer goes to a point in their post: the right to self-defence, "what happens when your people aren't there," Gimbzo and the Iron Bison, the apology, the offer of consultation, and whether the Yukari will sit neutral if the Moto move. The post stops on Naiser waiting for Shaka-Al.
+- **Shaka-Al and Dougou are never written.** They get no lines, actions, thoughts or reactions. Every answer goes to a point in their post: the right to self-defense, "what happens when your people aren't there," Gimbzo and the Iron Bison, the apology, the offer of consultation, and whether the Yukari will sit neutral if the Moto move. The post stops on Naiser waiting for Shaka-Al.
 - **Every point you gave is in, in your order.**
-  - Annihilating any unsanctioned spiritual army, framed as the answer to the defence question: Kushara keeps its own steel and blood arts, and the Yukari stand at its door on the spirit side.
+  - Annihilating any unsanctioned spiritual army, framed as the answer to the defense question: Kushara keeps its own steel and blood arts, and the Yukari stand at its door on the spirit side.
   - "We are no longer asking, we are telling." *Our mother* is Ashura, never named aloud.
   - His people have tended the spirit world since it began, and the teachings will pass between the houses in time.
   - The look to Naevra, then the question to Dougou about why the Moto are the way they are. Kings and empires die; a strong family's faith doesn't.
@@ -160,9 +160,9 @@ Naiser sat quietly beside her, with his katana lying sheathed at his right hand 
   - Accepting Shaka-Al's consultation offer: "That's what scribes are for."
   - The Tenrai turning back a Moto grain convoy at their own border. A house guarding its roads against itself is eating inward. That answers the neutrality question.
   - She pours the cold tea for all three.
-  - "Nobody asked me either": her sympathy for Dougou over the forced marriage, as you described, kept strictly about being told where to sit. She also has an interior beat, read through Naiser's threads: she finds his behaviour unsavoury, then understands it.
+  - "Nobody asked me either": her sympathy for Dougou over the forced marriage, as you described, kept strictly about being told where to sit. She also has an interior beat, read through Naiser's threads: she finds his behavior unsavoury, then understands it.
 - **The Kōkan and the vision tie to Muken.** Naiser believes no Kōkan survive. There was one war, forty years long, and it ended about a month before *The Uncounted* opens; Muken was born about sixteen years ago, inside it, and Kasane came to the Halcrest Cuttings with him about sixteen years ago, under no name the clerks would take. Naiser's clouded vision of something great, already set moving, is Muken, the White Wolf (settled 2026-10-20); it stays faceless here because Naiser cannot see it yet.
 - **Gimbzo.** His old First-Eon card is being rewritten to the new lore: the Kōkan king who purged his own line and ruled forty years from the saddle. I gave him only what you and Dougou's player stated, plus Naiser's line that Gimbzo sent riders asking the Yukari to join him, in the second and third of the war's last four years. How Dougou killed him stays with Dougou's player.
 - **Length.** About 3,750 words. Past tense, to match the thread.
 
-**Revision 2026-10-24.** Warmed the hall with the turning afternoon (honey-coloured light across the table, blue shadows and ember-orange lichen on the standing stones, amber on the boards at the close) and cut a long-look tic and a needless-emphasis tic. Every beat and every line of Isaac's is kept, and every passage describing Shaka-Al and Dougou is untouched.
+**Revision 2026-10-24.** Warmed the hall with the turning afternoon (honey-colored light across the table, blue shadows and ember-orange lichen on the standing stones, amber on the boards at the close) and cut a long-look tic and a needless-emphasis tic. Every beat and every line of Isaac's is kept, and every passage describing Shaka-Al and Dougou is untouched.

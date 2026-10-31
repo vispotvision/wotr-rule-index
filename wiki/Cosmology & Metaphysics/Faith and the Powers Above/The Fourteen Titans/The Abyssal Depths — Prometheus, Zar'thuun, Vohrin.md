@@ -15,7 +15,7 @@ title: "The Abyssal Depths — Prometheus, Zar'thuun, Vohrin"
 
 **Domain**  Fire, Destruction, Transmutation, Enlightenment through Pain
 
-**Ground**  The Wellspring of Finality, called the Pyric Heart. A burning sphere of liquid Aether that refines unworthy soul fragments into pure Essence vapour.
+**Ground**  The Wellspring of Finality, called the Pyric Heart. A burning sphere of liquid Aether that refines unworthy soul fragments into pure Essence vapor.
 
 ### Manifestation
 
@@ -37,9 +37,9 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 
 *Supplementary · Caloria · Exuroth · Thermodynamics · Zenith+ · [Ra] Flame + [Asa] Creation*
 
-**Trigger**  The caster must name, honestly, one thing about the target fragment or artefact that is false or unworthy. A guess does not open the working.
+**Trigger**  The caster must name, honestly, one thing about the target fragment or artifact that is false or unworthy. A guess does not open the working.
 
-**Effect**  Burns away everything false or unworthy in a soul fragment or artefact and refines what survives into pure usable Essence vapour. What remains afterward is measurably more stable and more honest by every Harmonics Fidelity metric the Accord maintains.
+**Effect**  Burns away everything false or unworthy in a soul fragment or artifact and refines what survives into pure usable Essence vapor. What remains afterward is measurably more stable and more honest by every Harmonics Fidelity metric the Accord maintains.
 
 **Measure**  Refinement removes roughly the bottom twenty to forty percent of a fragment's Essence-purity, proportional to how much falsity the caster correctly identified.
 
@@ -47,7 +47,7 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 
 **Limit**  It refines what exists. It adds nothing, and a fragment with nothing false in it comes out of the fire exactly as it went in.
 
-**Counter**  [Vael] Renewal reintroduces new growth mid-burn, diluting the purity threshold and letting false material survive alongside true. The result is an artefact that now reads clean and is not.
+**Counter**  [Vael] Renewal reintroduces new growth mid-burn, diluting the purity threshold and letting false material survive alongside true. The result is an artifact that now reads clean and is not.
 
 **What nobody knows**  Why the flame reads a deliberate forgery as false and a sincere error as true. The Pyric Scribes have branded four centuries of argument about this onto their own skin and settled nothing.
 
@@ -88,7 +88,7 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 
 **Effect**  Cleanses a region of overaccumulated Essence by absorbing it into inverted null-space, the way Zar'thuun's own Wellspring holds absence in shape. The overcharged region returns to stable baseline density almost immediately and stays there.
 
-**Measure**  Absorption capacity scales with the null-field's radius, typically clearing a ten to fifteen metre overcharge zone per casting.
+**Measure**  Absorption capacity scales with the null-field's radius, typically clearing a ten to fifteen meter overcharge zone per casting.
 
 **Cost**  Prolonged proximity erases small low-significance memories from everyone nearby along with the excess Essence. The mercy and the erasure are the same process running once, and there is no setting that performs only the first.
 
@@ -105,7 +105,7 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 ## VOHRIN — The Titan of Niflheim
 
 > *"Where all warmth forgets its name."*
-**Seat**  Prime Cryotheic Titan of the Abyssal Depths, Niflheim. Formed from the first condensation of cosmic vapour as creation's heat began to fade.
+**Seat**  Prime Cryotheic Titan of the Abyssal Depths, Niflheim. Formed from the first condensation of cosmic vapor as creation's heat began to fade.
 
 **Domain**  Oblivion, Frost, Stasis, Memory Erosion, Eternal Sleep
 

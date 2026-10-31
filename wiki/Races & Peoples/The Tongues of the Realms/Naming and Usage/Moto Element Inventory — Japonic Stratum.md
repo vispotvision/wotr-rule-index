@@ -28,7 +28,7 @@ that holds the seat, and for a Moto whose Line is not the point of the sentence
 
 **Byakuya** (near-white), **Tenrai** (gold, banner-heraldry), **Amagiri** (indigo,
 
-mist-grey) — from *The Moto Bloodline — Material Culture*.
+mist-gray) — from *The Moto Bloodline — Material Culture*.
 
 ## The thirty elements
 

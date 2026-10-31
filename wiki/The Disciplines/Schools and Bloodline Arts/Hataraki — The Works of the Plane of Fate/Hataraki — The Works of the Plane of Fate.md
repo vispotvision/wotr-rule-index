@@ -7,7 +7,7 @@ title: "Hataraki — The Works of the Plane of Fate"
 # Hataraki — The Works of the Plane of Fate
 
 *Hataraki, literally translated as Work, is the governing function of the Plane of Fate.*
-> It is not merely a form of magic, nor simply a source of power. It is the labour by which existence is maintained, classified, corrected, and moved toward its appointed outcome. Where other systems channel force, **Hataraki administers purpose.**
+> It is not merely a form of magic, nor simply a source of power. It is the labor by which existence is maintained, classified, corrected, and moved toward its appointed outcome. Where other systems channel force, **Hataraki administers purpose.**
 
 ---
 
@@ -15,13 +15,13 @@ title: "Hataraki — The Works of the Plane of Fate"
 
 In this framework, the Plane of Fate is not a passive realm where destinies drift. It is an active plane of order, motion, judgment, and unfolding design. Hataraki is the operative current running through that plane. Through it, ruin destroys when destruction is required, purity establishes what must endure, spirit governs the traffic between life and death, temporality arranges sequence and history, knowledge reveals meaning, balance reconciles opposition, and totality gathers all functions into one complete law.
 
-Each expression of Hataraki is called a **Work** because each one performs a necessary labour inside reality. A Work does not simply symbolize an idea. It enacts that idea as a law-bearing process within the world.
+Each expression of Hataraki is called a **Work** because each one performs a necessary labor inside reality. A Work does not simply symbolize an idea. It enacts that idea as a law-bearing process within the world.
 
 ### Origin
 
 Before measured time, before chronology, and before the later unfolding of the epochs, **Bara** created the Works of the World within the Plane of Fate. These Works were not made as techniques or schools of sorcery, but as primal functions: the first operative laws by which existence could act, divide, endure, unravel, and complete itself.
 
-For this reason the Works are older than history and older than sequence. Even time itself is not prior to them, because temporality is only one Work within the larger order of Hataraki. The Plane of Fate therefore stands as **the chamber of function before event**, the unseen order beneath becoming, where reality is not yet merely happening, but being assigned its labour.
+For this reason the Works are older than history and older than sequence. Even time itself is not prior to them, because temporality is only one Work within the larger order of Hataraki. The Plane of Fate therefore stands as **the chamber of function before event**, the unseen order beneath becoming, where reality is not yet merely happening, but being assigned its labor.
 
 ### The Three Levels
 
@@ -32,7 +32,7 @@ Hataraki operates on three levels at once.
 | **Operational** | It determines what that thing does and how it affects reality. |
 | **Judicial** | It determines when that function is permitted, necessary, excessive, or forbidden. |
 
-Under this model, fate is not blind prediction. **Fate is labour.** It is the continuous work of assigning, preserving, undoing, measuring, and completing the roles of all things.
+Under this model, fate is not blind prediction. **Fate is labor.** It is the continuous work of assigning, preserving, undoing, measuring, and completing the roles of all things.
 
 ---
 
@@ -71,7 +71,7 @@ Every Work therefore possesses both a lawful expression and a corruption vector.
 
 ### Hametsu no Gō · the Work of Ruins
 
-The function of collapse, devastation, despair, madness, entropy, and the residue of chaos. It governs the necessary unmaking of corrupted, exhausted, or unsustainable structures. **Ruin is not evil by default; it is the divine labour of ending what can no longer remain whole.**
+The function of collapse, devastation, despair, madness, entropy, and the residue of chaos. It governs the necessary unmaking of corrupted, exhausted, or unsustainable structures. **Ruin is not evil by default; it is the divine labor of ending what can no longer remain whole.**
 
 Its function within the Plane of Fate is to break false continuities. When a kingdom, soul, law, pact, age, or structure has become diseased beyond repair, Hametsu no Gō performs the work of severance through destruction. It strips away delusion, tears down decayed order, and returns excess creation to ash, silence, or fragmentation. It is one of the oldest conditions by which reality is permitted to stop.
 
@@ -83,7 +83,7 @@ Its function within the Plane of Fate is to break false continuities. When a kin
 
 ### Junketsu no Gō · the Work of Purity
 
-The function of foundation, creation, order, clarity, sanctity, and sacred sanity. The stabilizing labour that establishes what ought to stand, what ought to be protected, and what ought to remain uncontaminated by corruption.
+The function of foundation, creation, order, clarity, sanctity, and sacred sanity. The stabilizing labor that establishes what ought to stand, what ought to be protected, and what ought to remain uncontaminated by corruption.
 
 Its role is not merely to heal, but to **define proper structure**. Purity creates sound foundations, restores rightful form, and enforces integrity upon matter, law, spirit, and intention. Where Ruin strips away what has failed, Purity builds and preserves what is worthy of endurance. It is the primitive act by which existence becomes fit to remain.
 
@@ -97,7 +97,7 @@ Its role is not merely to heal, but to **define proper structure**. Purity creat
 
 The function of life, death, soul-traffic, communion, and metaphysical continuity. It governs the movement and condition of spiritual existence, including the transition between mortal life, death, afterlife, and any intermediary states between them.
 
-Spirit does not only animate life; it regulates endings, hauntings, remembrance, reincorporation, severance from the flesh, and the weight of the dead upon the living. **It is the labour that keeps the unseen world from becoming disorderly**, and what makes spiritual existence administrable at all.
+Spirit does not only animate life; it regulates endings, hauntings, remembrance, reincorporation, severance from the flesh, and the weight of the dead upon the living. **It is the labor that keeps the unseen world from becoming disorderly**, and what makes spiritual existence administrable at all.
 
 **Common functions** · Governance of life-force and soul integrity · passage between life, death, and posthumous states · communion with spirits, echoes, shades, and divine presences · regulation of necrotic imbalance, spiritual corruption, or soul-loss · maintenance of the boundary between the living and the dead.
 
@@ -121,7 +121,7 @@ This Work is especially important because it proves that Hataraki precedes chron
 
 ### Chishiki no Shigoto · the Work of Knowledge
 
-The function of understanding, revelation, perception, liberty of thought, interpretation, and meaningful cognition. **The labour that permits reality to be known rather than merely suffered.**
+The function of understanding, revelation, perception, liberty of thought, interpretation, and meaningful cognition. **The labor that permits reality to be known rather than merely suffered.**
 
 Knowledge gives shape to comprehension. It governs learning, memory, discernment, discovery, and the power to correctly interpret the laws of existence. It also has a liberating aspect, because knowledge breaks imprisonment by ignorance, false naming, and imposed blindness. It is the primitive permission for truth to become intelligible.
 
@@ -133,7 +133,7 @@ Knowledge gives shape to comprehension. It governs learning, memory, discernment
 
 ### Baransu no Shigoto · the Work of Balance
 
-The function of reconciliation, measure, proportion, unity, and reason between opposites. **The labour that prevents dualities from destroying the world through unchecked excess.**
+The function of reconciliation, measure, proportion, unity, and reason between opposites. **The labor that prevents dualities from destroying the world through unchecked excess.**
 
 Balance governs the tension between Ruin and Purity, death and life, law and freedom, creation and destruction, motion and stillness. It does not erase opposition. It assigns proper weight to each force so that existence can endure strain without tearing itself apart. It is the first mediation.
 
@@ -161,7 +161,7 @@ The highest and widest expression of Hataraki. The function of wholeness, integr
 
 The Works are not isolated domains. They are interdependent functions inside a single greater order.
 
-| Work | Its labour in one line |
+| Work | Its labor in one line |
 |---|---|
 | **Ruin** | clears what must end |
 | **Purity** | establishes what must remain |
@@ -188,7 +188,7 @@ The epochs are not replacements for Hataraki. They are **successive unveilings o
 ## Discrepancies of Record
 
 *Attested, not reconciled.*
-> **The second roster.** The system source preserves a differently-named set of seven Works, given with Sub-Stat clusters rather than with functions. Only two names are common to both rosters. The Archives has never issued a ruling on whether these are alternate names for the same seven labours, a superseded enumeration, or a distinct register describing the Works as they present to a practitioner rather than as they operate in the Plane of Fate.
+> **The second roster.** The system source preserves a differently-named set of seven Works, given with Sub-Stat clusters rather than with functions. Only two names are common to both rosters. The Archives has never issued a ruling on whether these are alternate names for the same seven labors, a superseded enumeration, or a distinct register describing the Works as they present to a practitioner rather than as they operate in the Plane of Fate.
 
 | Work, as the system source names it | Sub-Stat clusters | Character |
 |---|---|---|
@@ -204,8 +204,8 @@ The epochs are not replacements for Hataraki. They are **successive unveilings o
 
 ## Final Definition
 
-Hataraki is the active labour of the Plane of Fate. It is the system by which existence functions according to divine purpose. Every Work within it is a sacred operation: a law-bearing duty that sustains one necessary part of reality.
+Hataraki is the active labor of the Plane of Fate. It is the system by which existence functions according to divine purpose. Every Work within it is a sacred operation: a law-bearing duty that sustains one necessary part of reality.
 
-Bara created the Works before time. The Archons stand as higher sovereign expressions of meanings already present within them. World Spirits and Titans can exist because the Works first made such realities functionally possible. Attraction Force allows the Works to endure as lawful recognition and continuity, while Obsession Force corrupts those same labours into captivity and recursive need.
-> To wield Hataraki is therefore not just to use power. **It is to invoke function.** It is to call upon the labour of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
+Bara created the Works before time. The Archons stand as higher sovereign expressions of meanings already present within them. World Spirits and Titans can exist because the Works first made such realities functionally possible. Attraction Force allows the Works to endure as lawful recognition and continuity, while Obsession Force corrupts those same labors into captivity and recursive need.
+> To wield Hataraki is therefore not just to use power. **It is to invoke function.** It is to call upon the labor of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]

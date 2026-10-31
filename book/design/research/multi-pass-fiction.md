@@ -1,6 +1,6 @@
 # Multi-pass verification for LLM long fiction — what the check passes actually do
 
-Research notes, 2026-09-12. Angle: how practitioners and researchers make chapter-by-chapter LLM fiction hold together, with the focus on the **verification passes** — what they test, what catches real problems vs. theatre, how they gate a chapter, and what still breaks at book length. Every source below was fetched or seen in search results this session; where a summary came from a vendor page it is flagged.
+Research notes, 2026-09-12. Angle: how practitioners and researchers make chapter-by-chapter LLM fiction hold together, with the focus on the **verification passes** — what they test, what catches real problems vs. theater, how they gate a chapter, and what still breaks at book length. Every source below was fetched or seen in search results this session; where a summary came from a vendor page it is flagged.
 
 ---
 
@@ -84,7 +84,7 @@ Research notes, 2026-09-12. Angle: how practitioners and researchers make chapte
 
 ---
 
-## 3. What catches real problems vs. theatre
+## 3. What catches real problems vs. theater
 
 **Real signal (evidence-bearing, narrow, deterministic where possible):**
 1. **Typed-fact diff with quoted evidence.** ConStory-Checker, Atlas, AuthorAgent, Novarrium all converge: extract facts per category → pair candidate contradictions → require the checker to quote both spans. This is the one automated check that measurably beats humans (F1 0.68 vs 0.23).
@@ -93,7 +93,7 @@ Research notes, 2026-09-12. Angle: how practitioners and researchers make chapte
 4. **Mechanical style tells.** [EQ-Bench Slop Score](https://eqbench.com/slop-score.html) (60% slop words vs wordfreq baseline, 25% "not X, but Y", 15% over-represented trigrams; lists in [slop-score](https://github.com/sam-paech/slop-score)); AutoNovel's regex pass (tiered word lists, sentence-length coefficient of variation, transition clustering, em-dash rate, template-paragraph repetition); InkOS fatigue lists + style fingerprint; Claude-Book perplexity gate. Cheap, reproducible, and they target the actual mechanism of "flattening" (regression to the statistical mean).
 5. **Stage separation with a locked skeleton.** Dramaturge's Phase 2 freezes the storyline before detail edits, explicitly to stop later passes reintroducing structural inconsistencies. AutoNovel's layer/propagation-debt model does the same for bible ↔ outline ↔ prose.
 
-**Mostly theatre:**
+**Mostly theater:**
 - A single holistic 1–10 "quality" score used as a gate (LitBench/StoryRMB: 66–73% agreement with humans, chance in some checks; rubric text predicts the verdict).
 - Asking the writer model to "check your own chapter for problems" without a fact base — self-critique cannot catch a fact the model already believes, and revision without a locked structure introduces new errors (Dramaturge baselines).
 - Unbounded "loop until the editor is satisfied" (the n8n template default). Every measured system plateaus by round 3 (LLM Review, CritiCS, Dramaturge N_max=3, Claude-Book max 3) and degrades after (LLM Review past 4; CritiCS coherence vs rounds).
@@ -125,7 +125,7 @@ Common pattern across the good ones: **(a)** deterministic checks first, **(b)**
 - **Errors scale linearly with words and pile up in the middle** (ConStory 40–60% band; Novel-OS "sagging middle" detector exists because of this). Plan mid-book checks to be heavier, not lighter.
 - **Drift and repetition in agentic loops**: Magnet found actions repetitive after ~15 steps and had to inject domain shifts every 40; Agents' Room reports high trigram repetition; Book-Agent needed embedding-based repetition checks and rotating opener templates.
 - **Forgotten setups / hook debt**: the single most-cited practitioner failure (InkOS 40+ threads; Novel-OS overdue/dormant; story-skills unfired guns). Fixes are all ledger-based with due-chapter numbers.
-- **Voice flattening / homogenisation**: LLM Review warns extended feedback cycles converge styles; "Towards Human-Level Book-Writing" ([arXiv 2605.17064](https://arxiv.org/abs/2605.17064)) notes generated books are "structurally correct while remaining stylistically generic, overly explanatory"; every revision pass is a regression-to-mean pressure, which is why Claude-Book and AutoNovel put the slop/perplexity pass *inside* the loop rather than at the end.
+- **Voice flattening / homogenisation**: LLM Review warns extended feedback cycles converge styles; "Toward Human-Level Book-Writing" ([arXiv 2605.17064](https://arxiv.org/abs/2605.17064)) notes generated books are "structurally correct while remaining stylistically generic, overly explanatory"; every revision pass is a regression-to-mean pressure, which is why Claude-Book and AutoNovel put the slop/perplexity pass *inside* the loop rather than at the end.
 - **Context bloat**: InkOS hit token limits and ~$200/chapter around chapter 20 before switching to relevance retrieval; Sudowrite caps at 20k words; [Narrative World Model](https://arxiv.org/abs/2607.05577) argues a typed temporal-state graph with query-conditioned retrieval beats Graphiti/Zep-style memory on multi-hop story QA.
 - **Checkers cannot read intent**: unreliable narrators, lies, deliberate foreshadowing all read as contradictions (Novel-OS). Human sign-off with a persisted "intentional" flag is the only working answer found.
 - **Domain facts**: the Barr Group author still caught geography, an anachronistic device and a premise contradiction the nine-agent panel missed.
@@ -144,7 +144,7 @@ Common pattern across the good ones: **(a)** deterministic checks first, **(b)**
 - StoryWriter — https://arxiv.org/abs/2506.16445
 - Re3 — https://arxiv.org/abs/2210.06774 · DOC — https://aclanthology.org/2023.acl-long.190.pdf · Dramatron — https://github.com/google-deepmind/dramatron/blob/main/README.md
 - FACTTRACK — https://arxiv.org/abs/2407.16347 · Narrative World Model — https://arxiv.org/abs/2607.05577
-- Learning to Reason / VR-CLI — https://arxiv.org/abs/2503.22828 · R2-Write — https://arxiv.org/abs/2604.03004 · SuperWriter — https://arxiv.org/abs/2506.04180 · Towards Human-Level Book-Writing — https://arxiv.org/abs/2605.17064 · StoryLens — https://arxiv.org/abs/2605.28073
+- Learning to Reason / VR-CLI — https://arxiv.org/abs/2503.22828 · R2-Write — https://arxiv.org/abs/2604.03004 · SuperWriter — https://arxiv.org/abs/2506.04180 · Toward Human-Level Book-Writing — https://arxiv.org/abs/2605.17064 · StoryLens — https://arxiv.org/abs/2605.28073
 - LitBench — https://arxiv.org/abs/2507.00769 · StoryAlign — https://arxiv.org/abs/2605.04831 · Reliability without Validity — https://arxiv.org/html/2606.19544v1 · Rubric artifacts — https://arxiv.org/html/2609.02942 · LongEval — https://arxiv.org/abs/2502.19103
 - InkOS — https://dev.to/dylan_brown_4c803aefcfe51/building-an-autonomous-ai-agent-that-writes-novels-architecture-of-a-10-agent-pipeline-59pf
 - Novel-OS — https://github.com/mrigankad/Novel-OS · story-skills — https://github.com/danjdewhurst/story-skills · StoryForge (bootstrap only) — https://github.com/nkchuong1607/storyforge

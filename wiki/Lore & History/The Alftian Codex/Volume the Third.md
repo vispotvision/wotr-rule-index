@@ -28,9 +28,9 @@ The second volume told you nothing of a year it should have told you. This one t
 
 ## Chapter the Thirteenth · Rimward
 
-The wall was two courses of dressed stone and whatever the roof had been carrying, and it came down into the harbour street toward a boy of eleven. You were not in the street. I give it to you as it was, because in the wool store I was sparing.
+The wall was two courses of dressed stone and whatever the roof had been carrying, and it came down into the harbor street toward a boy of eleven. You were not in the street. I give it to you as it was, because in the wool store I was sparing.
 
-The fighting had come down to the harbour, and I was in the street because I had no business being anywhere else, which you told me afterward in fewer words. The boy stood under the line of the wall with a basket of salt fish. I had about a second and a half. No Draft I know forms that fast, and I have never met anyone whose does.
+The fighting had come down to the harbor, and I was in the street because I had no business being anywhere else, which you told me afterward in fewer words. The boy stood under the line of the wall with a basket of salt fish. I had about a second and a half. No Draft I know forms that fast, and I have never met anyone whose does.
 
 Frithia was under the same wall, going for the boy.
 
@@ -82,7 +82,7 @@ She told me later that she had come south that year from the ice country to teac
 
 She came up the valley within the turn. The schoolmaster took her into the house as its nurse, and she taught the older children the knife and the staff in the yard. We had one winter. It was the winter my Stage turned in the schoolroom, and I record that it was the same winter and make nothing of it.
 
-Our son was born at the end of the next summer, and Ara came back off the circuit to deliver him. The labour was long. I noticed first that his hands were too large for him, which I have since been told is not a thing a father says aloud. Then I noticed him. He has her mouth, and he sets it in the same straight line when the world has displeased him. We called him Geturo.
+Our son was born at the end of the next summer, and Ara came back off the circuit to deliver him. The labor was long. I noticed first that his hands were too large for him, which I have since been told is not a thing a father says aloud. Then I noticed him. He has her mouth, and he sets it in the same straight line when the world has displeased him. We called him Geturo.
 
 When the child was coming, the house had moved to settle it in the house's way. The schoolmaster wrote to the cousins at court, and their answer came back up the valley settling everything: a marriage, a bench for her in the house, and an apology to the cousins for the order in which things had happened. Nobody had asked her. Frithia heard the letter read out at the kitchen table, with the cousins' seal broken beside the bread, and said one sentence.
 
@@ -100,7 +100,7 @@ Ara, the first condition in the Accord I drafted, that your consent may not be p
 
 The second volume went down to Urbis in the spring and into the Archivum for common use. I came back up the valley from the station and taught.
 
-The east room kept its nine names that year. I entered nobody new in it. The school took the new ones instead, from the valley and past it, once the room's name had travelled: families from the lower reach and the potters' settlement, a carver's household from two stations down the warded track, a widow off the Uplands road with three children and a cart. By the spring after there were forty on the terraces in their ranks.
+The east room kept its nine names that year. I entered nobody new in it. The school took the new ones instead, from the valley and past it, once the room's name had traveled: families from the lower reach and the potters' settlement, a carver's household from two stations down the warded track, a widow off the Uplands road with three children and a cart. By the spring after there were forty on the terraces in their ranks.
 
 We taught under the valley's standing, on the record, without fee. The school fed me. It fed my son and his mother too. The cedar beams wept sap through the summer, and the old men said the wards were drinking. Every morning the carver's boy by the yard wall went at the practice stone with his mallet, and the stroke that landed late was always his.
 
@@ -128,23 +128,23 @@ Four reassessors came up the valley in turn. Each brought a chain or an instrume
 
 The fourth gave me a rank: Archmagus of the Division of Alchemetrica. The writ named my grade before it named me anything else, as a writ had done to me once before, at fourteen, when I walked out of the room. This time I read to the end.
 
-A rank is a licence. An Archmagus may certify teachers and enter pupils for the kingdom's examination in the Draft trade, and no child of our valley outside a blood or a hall had ever been entered for it. I signed for them. I knew what else I was signing, and I signed. They gave me a silver token for my collar, and I wore it and did not use it. The Division that ranked me is one Division, and the one that had already sealed my books is another. I learned the second at my own door.
+A rank is a license. An Archmagus may certify teachers and enter pupils for the kingdom's examination in the Draft trade, and no child of our valley outside a blood or a hall had ever been entered for it. I signed for them. I knew what else I was signing, and I signed. They gave me a silver token for my collar, and I wore it and did not use it. The Division that ranked me is one Division, and the one that had already sealed my books is another. I learned the second at my own door.
 
 Then the Division posted me, and it posted me to teach. I went wherever I was sent. The schoolmaster and Doyun kept the east room behind me.
 
-The first posting was a draw-town on a main, two days down the line. The Guild gave me the back room of the meter house, where the hum came up through the floor, and a slate laid flat on a bench buzzed against the wood until a child put a hand on it. Eleven clerks' children came to me after their own lessons. They had been told that a Draft is a small working a clever child can buy the chain for, and the meter-reader's girl had bought one. She was twelve. She wanted a licence to draw, which in a draw-town is the whole of a future: a licence is a seal and a wage, and a child without one reads the meters for the man who has it. She brought me a warming chain copied out of her father's almanac, folded small, the way children bring you a thing they have been told is forbidden.
+The first posting was a draw-town on a main, two days down the line. The Guild gave me the back room of the meter house, where the hum came up through the floor, and a slate laid flat on a bench buzzed against the wood until a child put a hand on it. Eleven clerks' children came to me after their own lessons. They had been told that a Draft is a small working a clever child can buy the chain for, and the meter-reader's girl had bought one. She was twelve. She wanted a license to draw, which in a draw-town is the whole of a future: a license is a seal and a wage, and a child without one reads the meters for the man who has it. She brought me a warming chain copied out of her father's almanac, folded small, the way children bring you a thing they have been told is forbidden.
 
 The chain was wrong in its fourth link. I told her so before I told her it was good, which it also was. Then I took the lens off, because she had done something with it. She had tried the Draft on her own hand in the privy with nobody standing by, and the fourth link had drawn its heat out of the skin under the ink. The blister under the fold of her thumb was the size of a copper.
 
 "Correct the chain first," I said. "Then the hand."
 
-I taught the room from her blister. A Draft takes its heat from somewhere. If the chain does not say where, it takes it from the nearest thing that will give, and the nearest thing is always the one who drew it. They copied that down. The lens-off read cost me the migraine behind the left eye into the next afternoon, and I taught the next day's lesson with the shutters closed and a wet cloth at the back of my neck while the meter-house clerk complained of the lamps. I could not give her a licence. I gave her a chain that would not burn her, and a letter to the Guild house saying that she drew a truer chain at twelve than the almanac she had copied it from. It was true. I doubt it was enough.
+I taught the room from her blister. A Draft takes its heat from somewhere. If the chain does not say where, it takes it from the nearest thing that will give, and the nearest thing is always the one who drew it. They copied that down. The lens-off read cost me the migraine behind the left eye into the next afternoon, and I taught the next day's lesson with the shutters closed and a wet cloth at the back of my neck while the meter-house clerk complained of the lamps. I could not give her a license. I gave her a chain that would not burn her, and a letter to the Guild house saying that she drew a truer chain at twelve than the almanac she had copied it from. It was true. I doubt it was enough.
 
 The second was a settlement past the last warded station, whose ground had put something out of a Well that spring. The carvers there had driven it off into the hills at a cost, and they wanted their children able to bind a wound before the wounded could be carried in. I taught the tourniquet first, since a cord and a stick cost nothing, and after it the Draft suspension that holds the edges of a wound still while they close. Ara learned the first from me when she was their size, and has taught it better since. A carver's boy of nine wanted the other thing, the working that kills what comes out of a Well. I told him I had none to teach. He did not believe me, which was fair, since I had come up from the station on the Division's mule with a silver token at my collar. He learned the tourniquet faster than any of them, on his sister's thigh, and he counted under his breath while he turned the stick, as I had told them all to, so that whoever came after would know how long it had been on.
 
 I had not slept a whole night in six years, and I did not begin in that settlement. I lay awake every night of the posting with my ear on the ground. In the third turn the post came up from the station with a letter in Doyun's good hand to say that Geturo had crawled the length of the east room to the bench by the door. I read it twice. I had not seen him do it, and I had his first year in pieces after that, the way a man reads a book with every third leaf cut out.
 
-The third was an infirmary in a river town that had heard what Doyun's suspensions do and wanted the method taught. I taught it to six nurses in a ward with the beds pushed back, pouring and pouring again until the suspension held clear in their hands and not only in mine. The eldest of them had a brother on the second bed. He had worked a pump-house on the main for twenty years and run dry at it, and he lay grey and quiet with his hands folded on the blanket, and she had heard that a Draft from the Division could put back what the pump-house took. I told her what I tell every family in every posting: no Draft refills anyone. A suspension steadies a Shell while it mends, and a Shell with nothing left to mend around only steadies. She heard me out. Then she asked me to pour one for him anyway. I did, and it held him quiet through the night and did nothing else. In the morning she was at the bench before I was, pouring for the woman in the fourth bed, and she did not look up when I came in.
+The third was an infirmary in a river town that had heard what Doyun's suspensions do and wanted the method taught. I taught it to six nurses in a ward with the beds pushed back, pouring and pouring again until the suspension held clear in their hands and not only in mine. The eldest of them had a brother on the second bed. He had worked a pump-house on the main for twenty years and run dry at it, and he lay gray and quiet with his hands folded on the blanket, and she had heard that a Draft from the Division could put back what the pump-house took. I told her what I tell every family in every posting: no Draft refills anyone. A suspension steadies a Shell while it mends, and a Shell with nothing left to mend around only steadies. She heard me out. Then she asked me to pour one for him anyway. I did, and it held him quiet through the night and did nothing else. In the morning she was at the bench before I was, pouring for the woman in the fourth bed, and she did not look up when I came in.
 
 That was the plain coin, and I paid it in every posting: the migraine after every read with the lens off, the nights, a son learning the east room without me. And there were the eight, whom I will come to.
 
@@ -226,9 +226,9 @@ They brought me to Urbis on one lung and put me in the room with the east window
 
 She held it out and said my name. "Kwon Mu-jin."
 
-There was nothing of her in the air to read. On her left wrist she wore a bracelet of brass bands wound with grey wire, and it had gone over toward me hard as the door opened and stayed there. I know that instrument. It pulls toward a man holding his weight down, so I take it she knew I was holding mine down, and I was. I hold it down in every room with anyone in it. It tires me, and I do it anyway.
+There was nothing of her in the air to read. On her left wrist she wore a bracelet of brass bands wound with gray wire, and it had gone over toward me hard as the door opened and stayed there. I know that instrument. It pulls toward a man holding his weight down, so I take it she knew I was holding mine down, and I was. I hold it down in every room with anyone in it. It tires me, and I do it anyway.
 
-I let go of the door frame and took the letter between the thumb and forefinger of my left hand, and turned the wax to the window. Grey wax. A ring crossed by three spokes, the lowest longest, and the registry's small letters under it. I held it there a long while.
+I let go of the door frame and took the letter between the thumb and forefinger of my left hand, and turned the wax to the window. Gray wax. A ring crossed by three spokes, the lowest longest, and the registry's small letters under it. I held it there a long while.
 
 "Who held it?"
 
@@ -242,7 +242,7 @@ There is no working in that wax. I would have felt one from the stair. The only 
 
 The winter came in on the square, and the trams went on under it on their hum. The line drew itself across the three fingers in its second turn, black on one side and angry pink on the other, where I have told carters since I was twelve that it would. Furveus crossed the city from the Heralds' Medical University to name it. He cannot hold a knife now. He stood at the table and named where the line was, and a surgeon of the University cut where he named. I write this book with what the line left me.
 
-I read him on sight, as I always have: the nail-beds grey, a pale band across every nail, the nod gone down into his jaw. I said nothing to him about any of it, and I write here that I said nothing. It was a small Separation.
+I read him on sight, as I always have: the nail-beds gray, a pale band across every nail, the nod gone down into his jaw. I said nothing to him about any of it, and I write here that I said nothing. It was a small Separation.
 
 He laughed first. "It won't fill you, Mu-jin. It'll steady the Shell. It'll heal the..." He put the cup in my hand.
 
@@ -288,7 +288,7 @@ The line takes a day from Urbis to Castlefall, and I took it on one lung, with t
 
 Castlefall at the thaw was fog on the rails and fog on the cedar of the platform, which is eleven winters old now and still weeping. The ground pressed at my temples from the carriage step. At the next stall two carters were quarrelling over the drakes hatched since the Weight went out of its station, and whether any of them would breed true. The second bell went.
 
-Draycott was already at the coffee stall with a cup. With the lens on I read him as anyone could have: a lean man of about forty-seven, greyer at the crown than he had been across a café table from me, standing with his weight on the back foot as though the platform might be withdrawn from under him. The signet on his smallest finger had worn smoother since then. A silver token hung at his collar, the disc turned outward. Under all of it was a stillness I took for a man holding his weight down, as I was holding mine.
+Draycott was already at the coffee stall with a cup. With the lens on I read him as anyone could have: a lean man of about forty-seven, grayer at the crown than he had been across a café table from me, standing with his weight on the back foot as though the platform might be withdrawn from under him. The signet on his smallest finger had worn smoother since then. A silver token hung at his collar, the disc turned outward. Under all of it was a stillness I took for a man holding his weight down, as I was holding mine.
 
 I paid my copper and took my cup. It is still terrible.
 
@@ -334,7 +334,7 @@ A day on the line to the Genesio waystation, and then the passes, which had open
 
 The Archivum at the top of the archive-town is squat and weathered, the oldest house the Heralds keep, and over its door Maelor's edict is cut into the lintel: Nothing is lost, only waiting to be remembered. I read it going in.
 
-The archivist of the lower stacks met us on the reading floor. Dessa Mael is small and straight-backed and past seventy, her white hair scraped into a knot and pinned with a steel pen, a narrow pale face lined fine round the eyes, the Heralds' grey under a knitted shawl, and ink on both forefingers. She brought tea before anyone had asked a question. The Archivum reads a gauge at the gate below once a turn, she said, and it had climbed through every season she had logged. At the thaw it stood at twenty-six, higher than any figure in her book. The lamps in the corridor beyond had been dark since the midwinter before last.
+The archivist of the lower stacks met us on the reading floor. Dessa Mael is small and straight-backed and past seventy, her white hair scraped into a knot and pinned with a steel pen, a narrow pale face lined fine round the eyes, the Heralds' gray under a knitted shawl, and ink on both forefingers. She brought tea before anyone had asked a question. The Archivum reads a gauge at the gate below once a turn, she said, and it had climbed through every season she had logged. At the thaw it stood at twenty-six, higher than any figure in her book. The lamps in the corridor beyond had been dark since the midwinter before last.
 
 I asked for the Scribe.
 
@@ -344,7 +344,7 @@ I did not go down to him. The gate admits whom it admits.
 
 The passage below the town is closed to ordinary traffic, and we went through it and across the bridged walkway over the falls with the spray freezing on the rail. The lamps on their brick stands were cold glass. The hall at the end is older than the count itself, and its stone says so in the width of its courses. The trees still stand. Their roots go through the cracks of the floor and their crowns are pressed flat against a ceiling that has no business holding the Uplands up. At the far end of the Mausoleum lay the two coffins. Vis, Alchemical Astronomer. Caelus, maker of contraptions of cyclopean design.
 
-Ivor Strom was sitting on the floor inside the hall with his bad knee out straight in front of him and the oilskin bunched round his hips. His white beard had gone yellow at the mouth, and the wine-coloured birthmark over his ear had darkened in the cold. The ink under his nails was the circle's, and it took the light of Draycott's hand-lamp as it had taken Furveus's in the lower room, drinking at the edge of the flame. He did not get up. I had not expected him to.
+Ivor Strom was sitting on the floor inside the hall with his bad knee out straight in front of him and the oilskin bunched round his hips. His white beard had gone yellow at the mouth, and the wine-colored birthmark over his ear had darkened in the cold. The ink under his nails was the circle's, and it took the light of Draycott's hand-lamp as it had taken Furveus's in the lower room, drinking at the edge of the flame. He did not get up. I had not expected him to.
 
 "Kwon." He tipped his head at the first coffin. "I left that one. Knew it wasn't for me."
 
@@ -454,7 +454,7 @@ I have not. That is the second correction this book owes the first: a record is 
 
 Geturo is two. He has her mouth, and his hands are still too large for him, and he walked across the east room to me on the first morning and stopped a pace short to look at the arm.
 
-Hiromi was born in the summer, while I was in Urbis. His hair grew in white, the colour of forge-ash before it cools, over pale red irises, and nobody in the house can explain it. I cannot either. I have tried. He sleeps with both fists up by his ears, as his brother did.
+Hiromi was born in the summer, while I was in Urbis. His hair grew in white, the color of forge-ash before it cools, over pale red irises, and nobody in the house can explain it. I cannot either. I have tried. He sleeps with both fists up by his ears, as his brother did.
 
 Frithia asked me on the third evening, in the east room, with the benches still out from the day. She asked in her own tongue first. Then in Accord common, once.
 

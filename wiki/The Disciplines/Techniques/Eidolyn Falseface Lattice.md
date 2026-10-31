@@ -78,13 +78,13 @@ It has a single known practitioner, and the problem it answers is plain: a fight
 
 ### Metaphysics
 
-**Aether** · Substrate is drawn across 2.14 × 10⁶ m³; Limina favours darkness, silence and thin ground. Saturated ground nucleates everywhere and deposits grit, not a beast. A template trace stays in the ground and deafens Harmonists.
+**Aether** · Substrate is drawn across 2.14 × 10⁶ m³; Limina favors darkness, silence and thin ground. Saturated ground nucleates everywhere and deposits grit, not a beast. A template trace stays in the ground and deafens Harmonists.
 
 **Wellspring** · Eidolyn, the Shaping Mind (Limina): given a template a supersaturated medium deposits along it with real strength, so intent becomes the template and the construct is solid, not illusion.
 
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): locates the fear-shape as a coordinate in configuration space.
 
-**Wellspring** · Somnalis, the Dream Veil (Fluxia): reads which shape the target's mind is modelling before the modelling is finished.
+**Wellspring** · Somnalis, the Dream Veil (Fluxia): reads which shape the target's mind is modeling before the modeling is finished.
 
 **Inherited failures** · Eidolyn's template defect reproduces any flaw in the intent at full scale, unseen until it stands there; Somnalis's ensemble collapse misreads the spread as one shape.
 
@@ -100,7 +100,7 @@ It has a single known practitioner, and the problem it answers is plain: a fight
 
 **Boundary** · The nucleation barrier in the ambient medium, lowered along one imposed pattern.
 
-**Trigger** · Reactive only: it releases against an incoming hostile action once a target within eighty metres carries a fear the practitioner can find; the reactive chain is why it needs Refraction.
+**Trigger** · Reactive only: it releases against an incoming hostile action once a target within eighty meters carries a fear the practitioner can find; the reactive chain is why it needs Refraction.
 
 **Effect** · The thing the attacker feared stands in the room, strikes and can be struck, its mass scaled by their conviction; taking a threat seriously is what is harvested. A shared dread makes one larger template; a fear with a hole in it arrives with the hole.
 
@@ -133,7 +133,7 @@ It has a single known practitioner, and the problem it answers is plain: a fight
 
 **Tell** · An attack is made and the attacker's worst fear answers it, never before, looking exactly like its source; a template trace lingers in the ground.
 
-**Limits** · Reactive only, eighty metres, needs a real conviction; fearless, lucid or diffuse fears give it nothing; Density capped at B on a Spirit Path; grit in saturated Aether.
+**Limits** · Reactive only, eighty meters, needs a real conviction; fearless, lucid or diffuse fears give it nothing; Density capped at B on a Spirit Path; grit in saturated Aether.
 
 **Fails against** · A true mirror, a Lock that un-templates it; Letheveil discipline; an empathic ally (Catharsis, Benediction) beside the frightened one; a second and third attacker reaching the practitioner while the construct is engaged.
 

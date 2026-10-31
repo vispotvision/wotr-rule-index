@@ -6,7 +6,7 @@ title: "Sōhai — The Whole Bow"
 
 ### *Sōhai · The True High Religion of the Okuchi*
 
-*The Unsingled Crown · The Fourteen Labours · The Charge Against the Scale · What Crossed the Water*
+*The Unsingled Crown · The Fourteen Labors · The Charge Against the Scale · What Crossed the Water*
 
 *A doctrinal entry, compiled from house registers and from what the Church declines to file*
 
@@ -32,40 +32,40 @@ From this the Sōhai derives its single load-bearing claim.
 
 **The Doctrine of the Unsingled Crown.** No Archon may be addressed alone, because no Archon operates alone. Urion measures and Maelor records and Iesara reveals, and the Triad of Law functions only as three. Elyndra's growth requires Auren's endings or it becomes the Plague of the Living Flesh. Wyther's motion without Maelor's record is amnesia at civilisational scale. Uurgath's entropy is the pressure that keeps the other thirteen honest, and a cosmos without him would freeze into an unchangeable perfection that is a subtler death than his. The lattice is not a pantheon with a chief. It is fourteen sovereigns each of whom prevents the other thirteen from consuming reality, and the prevention runs in every direction at once.
 
-Therefore: **to petition one Archon is to assert that its principle can function without the others.** That assertion is false about the lattice, and a false statement made in the posture of devotion is the specific thing the Sōhai calls blasphemy. The offence is inaccuracy, and the house has never dressed it up as anything grander.
+Therefore: **to petition one Archon is to assert that its principle can function without the others.** That assertion is false about the lattice, and a false statement made in the posture of devotion is the specific thing the Sōhai calls blasphemy. The offense is inaccuracy, and the house has never dressed it up as anything grander.
 
 *The house did not arrive at this by piety. It arrived at it by four thousand years of reading, during which it observed what happens to a polity that elevates one meaning above the rest, and it observed this on itself first.*
 
 ---
 
-## III. PRAISE IS LABOUR
+## III. PRAISE IS LABOR
 
-**Hataraki means the Works, and it also means labour, and the Sōhai holds that this is not a pun.**
+**Hataraki means the Works, and it also means labor, and the Sōhai holds that this is not a pun.**
 
-Fate is not prediction. Fate is work: the continuous assigning, preserving, undoing, measuring and completing of the roles of all things. If the Archons are the sovereigns of that labour, then the only coherent praise is to perform labour of the same kind. The Sōhai therefore recognises two acts and no third.
+Fate is not prediction. Fate is work: the continuous assigning, preserving, undoing, measuring and completing of the roles of all things. If the Archons are the sovereigns of that labor, then the only coherent praise is to perform labor of the same kind. The Sōhai therefore recognises two acts and no third.
 
 **The Bow.** Acknowledgment. Performed with the body, silent, and directed at all fourteen in sequence. It contains no request. A Sōhai practitioner who asks an Archon for something has stopped practising and started bargaining, and the house has a word for that.
 
 **The Work.** A concrete act performed in the character of one Archon's principle, performed daily, performed by hands. This is where the religion actually lives, and it is why a Kharven household can be observant without anyone in it being able to name a single Archon.
 
-### The Fourteen Labours
+### The Fourteen Labors
 
 *Assigned in the order of emergence. Every household is held to all fourteen. Most perform eleven without knowing they are performing anything.*
 
-| **Archon** | **Principle** | **The Labour** |
+| **Archon** | **Principle** | **The Labor** |
 |---|---|---|
 | **Urion** | Balance | **The Weighing.** One thing weighed on a true balance each day. In Kharven this is the ration, and the scale is inspected publicly at Ice-out. |
-| **Uurgath** | Disruption | **The Discard.** One thing destroyed that could have been kept. The broken haft is burned instead of hoarded. Refusing to let a finished thing continue is the labour. |
-| **Thalen** | Form | **The Squaring.** A corner checked. A wall, a door, a stack. *How's your stack* is Thalen's labour worn down to a greeting, and no northern clansman alive knows that. |
+| **Uurgath** | Disruption | **The Discard.** One thing destroyed that could have been kept. The broken haft is burned instead of hoarded. Refusing to let a finished thing continue is the labor. |
+| **Thalen** | Form | **The Squaring.** A corner checked. A wall, a door, a stack. *How's your stack* is Thalen's labor worn down to a greeting, and no northern clansman alive knows that. |
 | **Valen** | Time | **The Order.** Things done in their sequence and recorded in it. At the Reading, the names go in the order they died, and to read them alphabetically would be a desecration nobody could articulate. |
 | **Maelor** | Memory | **The Telling.** One dead person's name said aloud daily, in a room, to someone. |
 | **Zhaeren** | Space | **The Walking.** A boundary walked, a marker righted, a road kept passable one span further than your own need requires. |
-| **Irath** | Dominion | **The Command.** One order given and one order taken, each day, both plainly. A man who only gives has failed the labour as completely as a man who only takes. |
+| **Irath** | Dominion | **The Command.** One order given and one order taken, each day, both plainly. A man who only gives has failed the labor as completely as a man who only takes. |
 | **Veyra** | Desire | **The Unnecessary.** One thing made that serves no function. A carving on a bootjack. A dye nobody needed. The Sōhai holds a house with no ornament in it to be in a state of quiet sin. |
 | **Iesara** | Insight | **The Looking.** One assumption opened and checked. The barrel you believed was full. The granary floor you have never stood on. |
-| **Kaetra** | Dream | **The Telling of the False.** A story told that everyone present knows is untrue, told well and received seriously. Children's tales discharge the labour. So does a lie everybody has agreed to. |
-| **Wyther** | Motion | **The Moving.** Nothing stands a full year where it stood. Furniture, herds, the position of the woodpile. Stagnation is the offence. |
-| **Auren** | Death | **The Waiting.** Sitting with the dead. Kharven's whole winter institution is Auren's labour performed at national scale by a people who think they are being practical. |
+| **Kaetra** | Dream | **The Telling of the False.** A story told that everyone present knows is untrue, told well and received seriously. Children's tales discharge the labor. So does a lie everybody has agreed to. |
+| **Wyther** | Motion | **The Moving.** Nothing stands a full year where it stood. Furniture, herds, the position of the woodpile. Stagnation is the offense. |
+| **Auren** | Death | **The Waiting.** Sitting with the dead. Kharven's whole winter institution is Auren's labor performed at national scale by a people who think they are being practical. |
 | **Selhar** | Harmony | **The Tuning.** Voices matched to another voice. Singing with, never at. A household that cannot sing together is diagnosed, never scolded. |
 | **Elyndra** | Life | **The Feeding.** Something fed that is not yourself and cannot repay it. |
 
@@ -109,7 +109,7 @@ Recorded here in the order's own register, because it is not a weak answer.
 
 ### Where the argument actually sits
 
-The Sōhai says the Scale worships in practice and denies it in doctrine. Sancta Lux says the Sōhai reveres in doctrine and cannot demonstrate it in practice, since fourteen labours performed by a woman salting pork are indistinguishable from a woman salting pork.
+The Sōhai says the Scale worships in practice and denies it in doctrine. Sancta Lux says the Sōhai reveres in doctrine and cannot demonstrate it in practice, since fourteen labors performed by a woman salting pork are indistinguishable from a woman salting pork.
 
 Both descriptions are accurate. Neither is complete. No arbitration exists, and none can, because the only body with standing to arbitrate is one of the two parties.
 
@@ -133,7 +133,7 @@ The six lines carried what could be carried. Registers, retainers, the populatio
 
 What did not cross: the fourteen resident houses at the white shelf, one to each station, each with its own hours and its own hand and its own eleven-hundred-year continuity of practitioners. The Kagura Branch seasonal rites, held whole at Alabaster and held in fragments now. The full-day observance, which required a settled people with a surplus and has never once been performed in the north because the north has never once had an afternoon to spare. The Reading's liturgy, which the Queen carried and which the Queen took with her.
 
-There are households in the Greenhollow that perform all fourteen labours correctly, in order, every day of their lives, and could not tell you the name of a single Archon, and would be insulted by the suggestion that they were doing anything other than keeping a house properly.
+There are households in the Greenhollow that perform all fourteen labors correctly, in order, every day of their lives, and could not tell you the name of a single Archon, and would be insulted by the suggestion that they were doing anything other than keeping a house properly.
 
 The Sōhai holds that these households are the most observant people in the four quarters and that the loss of the names is a grief and not a failure.
 
@@ -141,11 +141,11 @@ The Sōhai holds that these households are the most observant people in the four
 
 ## VIII. HERESIES AND FAILURE MODES
 
-**Singling.** Elevation of one Archon. The principal heresy and the one the house watches for in itself, since the Kōkan favour Totality and Totality is the Work most easily mistaken for a crown.
+**Singling.** Elevation of one Archon. The principal heresy and the one the house watches for in itself, since the Kōkan favor Totality and Totality is the Work most easily mistaken for a crown.
 
 **Petition.** Asking. Converts the Bow into a transaction and the Archon into a merchant.
 
-**The Empty Bow.** Observance performed without the labour. The Sōhai considers this worse than neglect, on the grounds that a man who has stopped bowing has at least stopped lying.
+**The Empty Bow.** Observance performed without the labor. The Sōhai considers this worse than neglect, on the grounds that a man who has stopped bowing has at least stopped lying.
 
 **Devouring Certainty.** The corruption vector of Knowledge, listed in the house's own training register beside the other six, written by people who had watched it happen at Alabaster and declined to name the century.
 

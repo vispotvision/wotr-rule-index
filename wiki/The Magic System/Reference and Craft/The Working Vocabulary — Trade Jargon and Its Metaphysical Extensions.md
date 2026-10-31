@@ -70,13 +70,13 @@ The real process: a sliver of the sample is wrapped in lead, sometimes pre-treat
 
 **The single best word available and it is free.**
 
-As a cupellation completes, the last of the molten litharge runs across the surface of the bead and throws a rainbow play of colour. The colour dulls for an instant. Then there is a bright flash, called the **blick**, caused by the release of latent heat as the bead reaches its solidification point. The assayer watches for it because it is the moment the test finishes and the answer exists.
+As a cupellation completes, the last of the molten litharge runs across the surface of the bead and throws a rainbow play of color. The color dulls for an instant. Then there is a bright flash, called the **blick**, caused by the release of latent heat as the bead reaches its solidification point. The assayer watches for it because it is the moment the test finishes and the answer exists.
 
 It transfers directly and it transfers without explaining anything.
 
-**The blick is the instant a Crystal's real grade declares itself**: the colour running, the dull beat, the flash. Examiners watch for it. Practitioners dread it, because a man can lie about his Stage in every document he signs and cannot lie during the second the blick takes. There is a phrase for a career that ended in one, and there is a phrase for a man who has never sat for one.
+**The blick is the instant a Crystal's real grade declares itself**: the color running, the dull beat, the flash. Examiners watch for it. Practitioners dread it, because a man can lie about his Stage in every document he signs and cannot lie during the second the blick takes. There is a phrase for a career that ended in one, and there is a phrase for a man who has never sat for one.
 
-**And it is a scene, not a mechanism.** What is on the page is the colour, the dulling, and the flash. Why the Crystal does that is not stated and does not need to be, because the assayer's word for the flash is a word for a flash.
+**And it is a scene, not a mechanism.** What is on the page is the color, the dulling, and the flash. Why the Crystal does that is not stated and does not need to be, because the assayer's word for the flash is a word for a flash.
 
 ## III. The Glass
 
@@ -93,9 +93,9 @@ Glasshouse vocabulary supplies the language of Draft vessels, lens work, and the
 | **lehr** | the long oven a piece travels through as it anneals | the enforced rest after an ascension, weeks long, deeply resented | *in the lehr* is laid up, out of action |
 | **seed** | fine bubbles left in the metal | small permanent inclusions in a Crystal; common, mostly harmless, always noted | — |
 | **cord** | striations from an unevenly mixed melt | structural striation across a Crystal, and the thing an examiner looks for before anything else | *corded* is inconsistent, unreliable |
-| **frit** | ground glass applied to add colour | fragments of a broken Crystal, and the trade in them | *frit* is powder, and buying frit is buying something that came off a corpse |
+| **frit** | ground glass applied to add color | fragments of a broken Crystal, and the trade in them | *frit* is powder, and buying frit is buying something that came off a corpse |
 | **encasing** | a clear layer laid over a decorated core, which magnifies it | a working laid over another to amplify it | — |
-| **fuming** | metal vaporised over hot glass, depositing colour | residue laid down on a vessel by proximity to a working | — |
+| **fuming** | metal vaporised over hot glass, depositing color | residue laid down on a vessel by proximity to a working | — |
 | **flaring** | opening out the end of a tube | widening a channel past its intended bore | — |
 | **battledore** | the flat wooden paddle used to true a base | the flat tool that levels a poured vessel | — |
 

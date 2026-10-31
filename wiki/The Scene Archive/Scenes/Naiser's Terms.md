@@ -105,4 +105,4 @@ Naiser added nothing to it. He sat with his hands on his knees and the katana ly
 - **The Mahuo.** Naiser's account, the Yukari slaughtering them while the Moto stood back, is his house's telling. Settled 2026-10-20: all three houses destroyed the Mahuo, each blaming another.
 - **Tense.** Past, to match the thread.
 
-**Revision 2026-10-24.** Lifted the view through the screens into colour (sunlit gravel, moss-shawled stones, red-brown cedars under a cold blue sky) and set a watching house crow on the rail; trimmed two needless-emphasis tics, a long-look tic and a countdown in the first condition's wording. All beats and Isaac's points are kept in order, and every passage describing Shaka-Al and Dougou is untouched.
+**Revision 2026-10-24.** Lifted the view through the screens into color (sunlit gravel, moss-shawled stones, red-brown cedars under a cold blue sky) and set a watching house crow on the rail; trimmed two needless-emphasis tics, a long-look tic and a countdown in the first condition's wording. All beats and Isaac's points are kept in order, and every passage describing Shaka-Al and Dougou is untouched.

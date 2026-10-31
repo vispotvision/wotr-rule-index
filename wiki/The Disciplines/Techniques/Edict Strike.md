@@ -8,7 +8,7 @@ title: "Edict Strike"
 
 ### Summary card
 
-**Effect** · A downward blade strike gains metaphysical mass in proportion to the hesitation the practitioner reads in his target; armour built to withstand less than B-Grade force buckles under it.
+**Effect** · A downward blade strike gains metaphysical mass in proportion to the hesitation the practitioner reads in his target; armor built to withstand less than B-Grade force buckles under it.
 
 **Cost** · Aether strain through his wrists and shoulders with every full swing.
 
@@ -35,7 +35,7 @@ Governing Primary: Gnosis, off Judicium's own Gnosis Acuity and Gnosis Analysis,
 
 ### Origin
 
-Its author derived this alone, the same signature pairing as Bastion Imperium. "Uncertainty is the softest armour" is its doctrine, and as a self-derived technique it is met live, in the exchanges that use it.
+Its author derived this alone, the same signature pairing as Bastion Imperium. "Uncertainty is the softest armor" is its doctrine, and as a self-derived technique it is met live, in the exchanges that use it.
 
 ---
 
@@ -53,7 +53,7 @@ Its author derived this alone, the same signature pairing as Bastion Imperium. "
 |---|---|---|
 | Peak force, S-Grade band | force pairing | 0.1 to 2 TN |
 | Energy, S-Grade band | Grade table | 4.184 × 10¹² to 2.43 × 10¹³ J |
-| S-Grade blow against B-Grade armour | S band ÷ B ceiling of 4.6 × 10¹⁰ J | 91 to 528 times over |
+| S-Grade blow against B-Grade armor | S band ÷ B ceiling of 4.6 × 10¹⁰ J | 91 to 528 times over |
 | Least contact area for 0.5 TN | 5 × 10¹¹ N ÷ 1.1 × 10¹¹ Pa | 4.5 m² |
 | Windup and strike | commitment to landing | about 3 s, inside one 6 s turn |
 
@@ -79,7 +79,7 @@ Its author derived this alone, the same signature pairing as Bastion Imperium. "
 
 **Boundary** · The effective mass coupled into a falling blade, set equal to a read of the target.
 
-**Effect** · The blade darkens into iron-black facets, the air pulls inward, and about three seconds after commitment it comes straight down with a verdict-like thud; armour below B-Grade buckles. The target cannot tell whether they took a single or a doubled blow.
+**Effect** · The blade darkens into iron-black facets, the air pulls inward, and about three seconds after commitment it comes straight down with a verdict-like thud; armor below B-Grade buckles. The target cannot tell whether they took a single or a doubled blow.
 
 **Doubled** · Doubling for the same cost is an effective η above 1.0; the surplus is drawn from the room, so a doubled strike sheds less and leaves the ground around the target briefly thinner.
 
@@ -116,4 +116,4 @@ Its author derived this alone, the same signature pairing as Bastion Imperium. "
 
 **Fails against** · A target unreadable through a Resolve-aligned Wellspring; speed or a sublimation-type evasion out from under it; a commitment interrupted by a grapple or an ally stepping in; fog, ferrous plate or a shielded interior, which dull the read.
 
-**Look up** · Judicium and Coagula Failures in the Wellspring entries; Fulguria's suppressors; the Grade energy table and armour ceilings; the Transcendence Stage table; the Aether Shell failure states.
+**Look up** · Judicium and Coagula Failures in the Wellspring entries; Fulguria's suppressors; the Grade energy table and armor ceilings; the Transcendence Stage table; the Aether Shell failure states.

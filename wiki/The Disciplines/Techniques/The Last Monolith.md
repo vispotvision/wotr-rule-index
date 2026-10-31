@@ -137,4 +137,4 @@ Its author's philosophy for the state is "Let the world strike. I remain." It ha
 
 **Fails against** · Wedge, hook, pick, lever or lock; a second hit on one spot; Dissolution or Sublimatio; a deck or barge; any need to move; the moment of release after a long hold; speed beyond the read; Coherence drift.
 
-**Look up** · The Materia and Fulguria favour lists; the Coagula and Judicium Failures; the S-Grade Strike Force and Contact Range; the Transcendence Stage table; Dissolution and Sublimatio entries.
+**Look up** · The Materia and Fulguria favor lists; the Coagula and Judicium Failures; the S-Grade Strike Force and Contact Range; the Transcendence Stage table; Dissolution and Sublimatio entries.

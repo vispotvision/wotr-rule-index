@@ -27,9 +27,9 @@ The older Hermetic masters wrote in symbols, aphorisms, and witness-testimony, a
 ## Alchemy in Its Lawful Estate
 
 Alchemy differs from ordinary craft in that **it does not merely alter shape. It alters significance.** A lawful alchemical act changes **what a thing can mean inside the lattice of reality.** A tincture ceases to be a mixture and becomes a carrier of directed correction. An ash ceases to be waste and becomes **the readable memory of what was burned away.**
-> **All serious alchemy operates simultaneously in four theatres.**
+> **All serious alchemy operates simultaneously in four theaters.**
 >
-> **Material** · vessels, reagents, temperatures, distillation, ash, salts, vapours, coagulates.
+> **Material** · vessels, reagents, temperatures, distillation, ash, salts, vapors, coagulates.
 >
 > **Glyphic** · inscribed order, naming, containment sequence, lawful syntax.
 >
@@ -37,7 +37,7 @@ Alchemy differs from ordinary craft in that **it does not merely alter shape. It
 >
 > **Moral** · motive, cost-bearing, truthfulness of intent, relation between practitioner and process.
 >
-> **Any system that describes only the first theatre is chemistry. Any system that ignores the fourth theatre is already in danger.**
+> **Any system that describes only the first theater is chemistry. Any system that ignores the fourth theater is already in danger.**
 
 ### The Great Work
 
@@ -91,7 +91,7 @@ Lawful separation distinguishes the essential from the accidental. **It should c
 
 Perverted separation produces **a spectator soul**: clear-sighted, verbally precise, **ethically evasive.** The practitioner sees exactly what is wrong **and then exempts themselves from consequence by retreating into analysis.**
 
-**Signs** · **Perfect diagnosis, absent intervention.** Accumulation of notes in place of decisions. Fascination with moral structure coupled to refusal of moral burden. Repeated postponement **under the guise of nuance, complexity, or future inquiry.** *Aura behaviour of cool detachment, often mistaken for wisdom.*
+**Signs** · **Perfect diagnosis, absent intervention.** Accumulation of notes in place of decisions. Fascination with moral structure coupled to refusal of moral burden. Repeated postponement **under the guise of nuance, complexity, or future inquiry.** *Aura behavior of cool detachment, often mistaken for wisdom.*
 
 **Common expressions** · The archivist who knows a manuscript is dangerous and shelves it without alert. The teacher who recognizes drift in a student and says nothing **because the scene is not yet unbearable.** **The investigator who documents a coming catastrophe more carefully than they obstruct it.**
 > **Danger.** Non-commitment allows every other corruption to ripen.
@@ -172,11 +172,11 @@ Lawful coagulation gives durable form to what has been rightly transformed. **Pe
 
   Tonal hardening under contradiction · sympathetic over-compliance with dominant fields · **split between declared belief and actual pulse-pattern** · hollow over-coherence, especially after Mortalis or Anamnesis work · **oscillation between euphoria and vacancy following apparently successful procedures** · memory bleed, dream intrusion, involuntary recurrence imagery · attraction-layer misalignment causing pathological fixation, obsession, or artificial aversion
 - ****Bodily signs** — *the body does not invent. It reports***
-  Metallic scent in sweat after non-metallurgic work · **ash under fingernails that does not correspond to any burnt reagent in the room** · **nosebleeds coinciding with successful concealment of results** · delayed hand tremor after patient contact · mirrored bruising across sternum or wrists after bond work · atypical pupil dilation during glyph recitation · **persistent cold patches, especially over the heart and lower throat**
+  Metallic scent in sweat after non-metallurgic work · **ash under fingernails that does not correspond to any burned reagent in the room** · **nosebleeds coinciding with successful concealment of results** · delayed hand tremor after patient contact · mirrored bruising across sternum or wrists after bond work · atypical pupil dilation during glyph recitation · **persistent cold patches, especially over the heart and lower throat**
 - ****Laboratory signs** — *a laboratory tells the truth the practitioner refuses***
   Recurrent hairline fractures in vessels used by **one specific operator** · **sigils that "correct themselves" into darker variants over time** · soot fall patterns inconsistent with local airflow · **residues clustering in the shapes of names, ribs, roots, spirals, or open mouths** · repeated spoilage of control compounds near certain benches · **instruments developing tonal hum when no operation is active** · notes rewritten in the margins by the same hand **in a distinct moral register**
 - ****Environmental signs** — *realms and districts begin to remember prolonged error***
-  Wellspring discoloration or behavioural irregularity · **dream convergence among unrelated residents** · agricultural inversions, such as premature ripening followed by sterility · **local time-slippage, repetition, stalled echoes, or lost intervals** · weather taking on ritual rhythm around a single workshop · **birds refusing roofs, children reporting the same impossible figure, dogs barking at empty thresholds** · celestial or astronomical irregularities following sustained high-order activation
+  Wellspring discoloration or behavioral irregularity · **dream convergence among unrelated residents** · agricultural inversions, such as premature ripening followed by sterility · **local time-slippage, repetition, stalled echoes, or lost intervals** · weather taking on ritual rhythm around a single workshop · **birds refusing roofs, children reporting the same impossible figure, dogs barking at empty thresholds** · celestial or astronomical irregularities following sustained high-order activation
 - ****Institutional signs** — *corruption at civic scale is marked less by smoke than by paperwork***
   Rising use of sealed exemptions without peer review · **concentration of authority in one "indispensable" practitioner** · reduction of witness requirements during crisis · **disappearance of dissenting notes from archives** · relabeling of casualties as acceptable metaphysical attrition · **creation of euphemistic categories to avoid the word heresy**
 
@@ -273,7 +273,7 @@ Lawful coagulation gives durable form to what has been rightly transformed. **Pe
 
 *The Concordant register calls them an oath. The Standing Index would call them Votia, and both are correct.*
 
-A vow declares a permanent restriction and the Essence Core adopts it as a standing law. **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behaviour**, and Coherence is the structural prerequisite for Threshold eligibility. A licensed practitioner who keeps these seven is therefore **buying Coherence with conduct**, which is why the orders and the poor swear more of them than the great houses do.
+A vow declares a permanent restriction and the Essence Core adopts it as a standing law. **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior**, and Coherence is the structural prerequisite for Threshold eligibility. A licensed practitioner who keeps these seven is therefore **buying Coherence with conduct**, which is why the orders and the poor swear more of them than the great houses do.
 > **And a vow broken is a Shear Break.** The Core has been running a law the practitioner has now denied, and the law does not negotiate its own withdrawal.
 >
 > *Which changes what the Vows are for.* They were framed as a discipline and they function as **an instrument.** A sworn practitioner in drift is producing a falling Coherence reading before they have concealed anything, altered a note, or lied to a single investigator. **The soul signs precede the hand because the vow is what the soul is failing at.**

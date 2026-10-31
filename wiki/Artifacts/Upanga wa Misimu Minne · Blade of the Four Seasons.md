@@ -8,7 +8,7 @@ title: "Upanga wa Misimu Minne · Blade of the Four Seasons"
 
 ### What it is
 
-Relic, Weapon, Ritual Tool. A long curved leaf-blade of greensteel alloy that shifts hue with the season it is attuned to: green in spring, gold in summer, red in autumn, silver-white in winter. The spine carries a continuous line of Parun glyph-script that pulses as the attunement turns. The hilt is wrapped in braided vine fibre; the pommel holds a slowly rotating seed-shaped gem ringed by drifting pollen-Essence. Gifted to Chimwala by the Sylvaar following what the record calls the Treaty of Green Sky, forged from Sylvaar deepforge greensteel and tempered in the waters of an unnamed Well.
+Relic, Weapon, Ritual Tool. A long curved leaf-blade of greensteel alloy that shifts hue with the season it is attuned to: green in spring, gold in summer, red in autumn, silver-white in winter. The spine carries a continuous line of Parun glyph-script that pulses as the attunement turns. The hilt is wrapped in braided vine fiber; the pommel holds a slowly rotating seed-shaped gem ringed by drifting pollen-Essence. Gifted to Chimwala by the Sylvaar following what the record calls the Treaty of Green Sky, forged from Sylvaar deepforge greensteel and tempered in the waters of an unnamed Well.
 
 ### Physical account
 
@@ -36,7 +36,7 @@ Soulbound to any Grovekeeper who completes the Rite of the Turning Leaf. Forcing
 
 ### Counterplay
 
-A target that is genuinely Wellspring-pure and uncorrupted cannot be cut by this blade at all, which makes disguising as or standing beside such a being a reliable defence against it. Because forcing the attunement outside its natural cycle costs three times the standard draw, repeatedly baiting the wielder into off-cycle shifts drains them toward the point where they must choose between stopping and risking a Crystal Fracture Event of their own.
+A target that is genuinely Wellspring-pure and uncorrupted cannot be cut by this blade at all, which makes disguising as or standing beside such a being a reliable defense against it. Because forcing the attunement outside its natural cycle costs three times the standard draw, repeatedly baiting the wielder into off-cycle shifts drains them toward the point where they must choose between stopping and risking a Crystal Fracture Event of their own.
 
 ### Bearers
 

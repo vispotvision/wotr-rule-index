@@ -8,7 +8,7 @@ title: "Oblivion-Step"
 
 ### Summary card
 
-**Effect · The practitioner drops into** half-sleep for an instant and steps out again from the dream-shadow of another mind nearby, arriving up to fifty metres away with no line of travel between the two points and no sound.
+**Effect · The practitioner drops into** half-sleep for an instant and steps out again from the dream-shadow of another mind nearby, arriving up to fifty meters away with no line of travel between the two points and no sound.
 
 **Cost** · A quarter-second of disorientation on arrival, and a backwash of the anchor's own emotions surfacing in her afterward, uninvited.
 
@@ -64,9 +64,9 @@ Oblivion-Step has no teacher, precedent or borrowed lineage; it belongs to its a
 
 **Limit** · The air still has to move, so the quarter-second cannot be shortened without the step turning into a gunshot at each end; anything solid on the line stops it.
 
-**Relaxation** · Hypnather's analogue is a glass ageing toward order, φ(t) = exp[−(t/τ)^β] with β 0.3 to 0.7: the first half-second of a night's rest is quick, and interrupting it locks in a worse-ordered state.
+**Relaxation** · Hypnather's analogue is a glass aging toward order, φ(t) = exp[−(t/τ)^β] with β 0.3 to 0.7: the first half-second of a night's rest is quick, and interrupting it locks in a worse-ordered state.
 
-**Compression** · Letheveil's analogue is lossy compression; each re-encode of the same half-second compounds the last one's artefacts.
+**Compression** · Letheveil's analogue is lossy compression; each re-encode of the same half-second compounds the last one's artifacts.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -78,7 +78,7 @@ Oblivion-Step has no teacher, precedent or borrowed lineage; it belongs to its a
 
 ### Metaphysics
 
-**Aether** · A very small draw, two body-volumes of air and a quarter-second; Limina is favoured by darkness, silence and ruins and suppressed by saturated Aether, crowds and active Domains. The best ground is one distracted sentry in an empty ruin.
+**Aether** · A very small draw, two body-volumes of air and a quarter-second; Limina is favored by darkness, silence and ruins and suppressed by saturated Aether, crowds and active Domains. The best ground is one distracted sentry in an empty ruin.
 
 **Residue** · Light but readable by a patient reader, at both ends, plus the anchor's dream-shadow re-settling behind; the ground deafens Harmonists for a while.
 
@@ -88,7 +88,7 @@ Oblivion-Step has no teacher, precedent or borrowed lineage; it belongs to its a
 
 **Wellspring** · Letheveil, the Waters of Forgetting (Limina), minor: it keeps what is load-bearing and discards the rest, compressing the practitioner's memory of each crossing.
 
-**Inherited failures** · Oneirion's projection error lands the body nowhere in particular; Hypnather's interrupted relaxation locks the Crystal worse ordered; Letheveil's generation loss degrades memory toward an artefact.
+**Inherited failures** · Oneirion's projection error lands the body nowhere in particular; Hypnather's interrupted relaxation locks the Crystal worse ordered; Letheveil's generation loss degrades memory toward an artifact.
 
 **Essence** · All three layers pay: the Shell carries the displacement, the Attraction Layer the anchor and drifts toward strangers' fears, the Core the compressed crossing-memory. Developmental Tier Resonant; the endpoint is identity bleed, dissociation rather than destruction.
 

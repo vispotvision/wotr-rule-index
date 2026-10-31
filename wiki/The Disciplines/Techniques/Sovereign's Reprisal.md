@@ -55,7 +55,7 @@ Its author speaks one philosophy over the technique, "Impact is tribute." It has
 
 ### Physics
 
-**Phenomenon** · Impulse-gated storage and all-round discharge: a runed harness banks blunt blows instead of letting them finish, then returns the whole bank at once as a single pressure step through everyone within eight metres.
+**Phenomenon** · Impulse-gated storage and all-round discharge: a runed harness banks blunt blows instead of letting them finish, then returns the whole bank at once as a single pressure step through everyone within eight meters.
 
 **Law** · Impulse: what is banked is momentum and what goes out is momentum; the first law says the joules are the attackers', plus whatever the wearer adds to spike them.
 
@@ -75,7 +75,7 @@ Its author speaks one philosophy over the technique, "Impact is tribute." It has
 
 ### Metaphysics
 
-**Aether** · Fulguria likes dry air and clear sight and fails behind iron and in fog; Caloria likes steep heat gradients and fails in cold equilibrium. A cold, iron-shielded stone fortress in winter sits in both suppression lists. After a release the eight metres around the wearer deafen Harmonists.
+**Aether** · Fulguria likes dry air and clear sight and fails behind iron and in fog; Caloria likes steep heat gradients and fails in cold equilibrium. A cold, iron-shielded stone fortress in winter sits in both suppression lists. After a release the eight meters around the wearer deafen Harmonists.
 
 **Wellspring** · Judicium, the Wellspring of Truth (Fulguria): no substance can show another's spectrum, so the bank is read without spending any of it; it strengthens Gnosis Acuity and Analysis.
 
@@ -87,7 +87,7 @@ Its author speaks one philosophy over the technique, "Impact is tribute." It has
 
 **Essence** · The Aether Shell carries both bank and discharge, which run through it, not around it, so the bill lands in the spine; Resilience Fortification redirects hostile Essence through structure. Developmental Tier Radiant.
 
-**School** · The Tributaries read banked force as sovereignty and never release; fouling silts their conduits unseen, and their masters learn their armour stopped working only when they finally answer.
+**School** · The Tributaries read banked force as sovereignty and never release; fouling silts their conduits unseen, and their masters learn their armor stopped working only when they finally answer.
 
 ### Mechanism
 
@@ -97,7 +97,7 @@ Its author speaks one philosophy over the technique, "Impact is tribute." It has
 
 **Release** · The boundary is a when, not a how much, so ending it releases everything; storage erased every blow's direction, so the bank leaves as one ring in all directions and does not choose targets.
 
-**Effect** · Attackers hit a huge armoured figure that just receives, strikes landing clean and giving nothing back up the arm. The sigil over its eye brightens; then an iron-crack, and everyone near stops being on their feet at once, those who hit hardest most.
+**Effect** · Attackers hit a huge armored figure that just receives, strikes landing clean and giving nothing back up the arm. The sigil over its eye brightens; then an iron-crack, and everyone near stops being on their feet at once, those who hit hardest most.
 
 **Failure** · Structure faults: fouling; a misread threshold; overfill forcing the release at an unchosen moment; Overchannel fracture that accumulates and becomes permanent; and a broken inscription.
 
@@ -123,9 +123,9 @@ Its author speaks one philosophy over the technique, "Impact is tribute." It has
 
 ### Counterplay
 
-**Tell** · No glow or gather, only blows landing clean and returning nothing; then the sigil over the eye brightens, and that is all the warning. Afterwards a still figure with eyes closed amid an eight-metre ring of fallen men.
+**Tell** · No glow or gather, only blows landing clean and returning nothing; then the sigil over the eye brightens, and that is all the warning. Afterwards a still figure with eyes closed amid an eight-meter ring of fallen men.
 
-**Limits** · No reprisal without a banked impact, and it cannot fire on nothing; all or nothing, no target choice; eight metres; one full answer to a large input per full reserve.
+**Limits** · No reprisal without a banked impact, and it cannot fire on nothing; all or nothing, no target choice; eight meters; one full answer to a large input per full reserve.
 
 **Fails against** · Piercing through the plates, since a spike both slips the threshold and breaks the inscription; ranged harassment; a cold iron-shielded interior; a finishing point Locked first; the wearer's allies crowded around it; a large input, and the cost of answering it.
 

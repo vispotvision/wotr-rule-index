@@ -14,7 +14,7 @@ title: "Volume the Second"
 
 ## Chapter the Sixth · The Lower Room
 
-Castlefall met me with lime and frost at the turn of the cold season. The carriage came off the main at the foot of the valley with its hum sinking out of my back teeth, and the cedar of the platform, six winters old, was still weeping sap onto the carters' boots. One of them asked another who kept his posts. I had been at Urbis since the king's hall, and I walked up through the craft-streets with my pack cutting into one shoulder, past the dye-works and the leat running grey with lime. Three streets short of the tanner's I felt a seal I did not know. It pressed as a held breath presses on a room, and it was holding.
+Castlefall met me with lime and frost at the turn of the cold season. The carriage came off the main at the foot of the valley with its hum sinking out of my back teeth, and the cedar of the platform, six winters old, was still weeping sap onto the carters' boots. One of them asked another who kept his posts. I had been at Urbis since the king's hall, and I walked up through the craft-streets with my pack cutting into one shoulder, past the dye-works and the leat running gray with lime. Three streets short of the tanner's I felt a seal I did not know. It pressed as a held breath presses on a room, and it was holding.
 
 The flat was as I had left it. The stove, the table, Malphas's jar of Uplands herbs working on its shelf, Neros's charts weighted flat under our four cups. A room keeps a decision after the people who made it have gone downstairs, the way a crucible keeps its heat after the fire is drawn, and this one had been decided in without me.
 
@@ -92,7 +92,7 @@ Then I climbed the outside stair past the lower room's door, where lamplight lay
 
 The next afternoon I went to the café on the square, because Draycott would be there. Neros said he had kept the good table by the window every afternoon for a turn, with Strom and a pot of coffee, and he had. I sat down at it without being asked. I had watched him do as much to Furveus two winters before, and I found I had kept the manner.
 
-"Kwon." He looked pleased. The dead front tooth showed, grey among the white. "You'll take coffee."
+"Kwon." He looked pleased. The dead front tooth showed, gray among the white. "You'll take coffee."
 
 "No. I have come to tell you what you are selling."
 
@@ -206,7 +206,7 @@ The Work is the Temperance path itself, walked twice. It goes once through the f
 
 ## Chapter the Ninth · A Letter from Gisli Draycott, Unanswered
 
-It came to the flat in the spring after the commission, folded twice and sealed in grey wax. In the wax was Draycott's registered craft mark, a ring crossed by three spokes, the lowest longer than the other two, with the registry's small letters cut beneath. I copy the letter whole.
+It came to the flat in the spring after the commission, folded twice and sealed in gray wax. In the wax was Draycott's registered craft mark, a ring crossed by three spokes, the lowest longer than the other two, with the registry's small letters cut beneath. I copy the letter whole.
 > To Kwon Mu-jin, whom the Heralds call the Thrice-Great, at Castlefall.
 > 
 > Kwon,
@@ -256,7 +256,7 @@ Penn found me at the refectory door before the first frost. I told him about the
 
 "All paths lead to the Still Gate," he said. "Only peace walks through it. I would not ask my father to walk it twice."
 
-The Prior sent for me at the turn of the season. He is a small man with a clerk's stoop, his grey hair cropped to the skull like a scrubbed brush, clean-shaven, his face gone soft under the jaw, in the same grey as his monks, with a chain of office he tucks inside the robe and forgets. He offered me the vow, a chair in the higher classes, a room in the Archivum below us for my work, and any student I asked for. He offered them to the Thrice-Great. He used the name twice, carefully, as a man sets a seal.
+The Prior sent for me at the turn of the season. He is a small man with a clerk's stoop, his gray hair cropped to the skull like a scrubbed brush, clean-shaven, his face gone soft under the jaw, in the same gray as his monks, with a chain of office he tucks inside the robe and forgets. He offered me the vow, a chair in the higher classes, a room in the Archivum below us for my work, and any student I asked for. He offered them to the Thrice-Great. He used the name twice, carefully, as a man sets a seal.
 
 At fourteen I walked out of a court on the day it named me, and I did not want to leave a second room the same way. So I stayed in the chair and weighed it. Until that year I had done what my teachers told me; when that broke, it did not heal back into obedience. It healed into the habit that reads a chain and puts the correction on the bench. I had carried it six years as a wound. In the Prior's room I put my weight on it on purpose, as a carpenter stands on a mended beam before he trusts the floor to anyone else. While he spoke, his chain of office slid out of the robe. It hung over the desk with the seal on its end turning toward me and away, and I watched it turn twice.
 
@@ -270,7 +270,7 @@ In the hall it had set round my voice and gone when I stopped speaking. On the b
 
 I took the lens off in the middle of the bridge. η 0.71. A little under a million units. The array held steady over the main beneath me, and my own field held inside it, a standing region with a clear edge that moved when I moved. The primers call that a Domain. Mine has no name yet.
 
-The migraine met me on the station platform. I rode home with it, the lens in my fist, until the Uplands came up grey in the window.
+The migraine met me on the station platform. I rode home with it, the lens in my fist, until the Uplands came up gray in the window.
 
 ## Chapter the Eleventh · The Room at Sum-gol
 
@@ -294,13 +294,13 @@ She let me stand in the nothing for as long as it took me to understand it. That
 
 That summer I stopped working alone. Coagulatio began to answer at the bench before I had finished asking, a suspension setting the moment I reached for the rod. When I laid my palm on a school beam, sticky with the summer's sap, the old cedar gave me back the tone of a hundred winters of children reciting the grammar, faint as a pulse through cloth. Anamnesis had begun to answer me. I record the relief of it as it was.
 
-In the autumn the schoolmaster gave me the east room. It had the most benches and the fewest pupils, and by the next spring there were eight on its roll, from the valley and most of them not of the house: two rice-farmers' boys, a carter's twins, the potter's two daughters, a fisher's boy from the lower reach and the smith's youngest. I entered each on the roll, on the record, as Sum-gol has entered its pupils since the settlement at the Proving gave the valley its own standing. That standing is the school's licence, and mine inside it. I took no fee. The school feeds me, which a clerk of the schedules would enter as pay in kind, and I enter it so here. I taught them the Draft trade and the first grammar. The house art I was still learning myself, and the schoolmaster would not have it taught outside the blood. We left that where it lay.
+In the autumn the schoolmaster gave me the east room. It had the most benches and the fewest pupils, and by the next spring there were eight on its roll, from the valley and most of them not of the house: two rice-farmers' boys, a carter's twins, the potter's two daughters, a fisher's boy from the lower reach and the smith's youngest. I entered each on the roll, on the record, as Sum-gol has entered its pupils since the settlement at the Proving gave the valley its own standing. That standing is the school's license, and mine inside it. I took no fee. The school feeds me, which a clerk of the schedules would enter as pay in kind, and I enter it so here. I taught them the Draft trade and the first grammar. The house art I was still learning myself, and the schoolmaster would not have it taught outside the blood. We left that where it lay.
 
 A man at my Stage who let his weight go in a room of barely woken children would have the whole room on the floor inside the hour. So I held mine down from the first bell to the last. By evening it had worn a groove behind my eyes. I had known for years that a man on a bench beside an iron gate did the same for me. By the second month I knew what it had cost him, and that he had never said.
 
 Doyun came into the room the spring I was twenty-two, behind his cat.
 
-The cat came first. It was a grey-and-white tom with half its left ear gone to some old argument and a voice it used on everyone. It walked up the aisle between the benches and sat on my feet as though it had paid for them. The boy came after. He came at a pace somebody had told him more than once was not to be a run, and which he had bargained down to a very fast walk with a great deal of arm in it. He was thirteen and small for it. Thin as a rope, chalk to the knee, a slate under one arm, and black hair coarse as rice-straw, flattened on one side by the valley wind. His face was narrow and browned by the paddies. A burn scar the shape of a kettle's lip marked the back of his left wrist. His smock had been let down twice at the hem, and the let-down bands showed darker than the rest.
+The cat came first. It was a gray-and-white tom with half its left ear gone to some old argument and a voice it used on everyone. It walked up the aisle between the benches and sat on my feet as though it had paid for them. The boy came after. He came at a pace somebody had told him more than once was not to be a run, and which he had bargained down to a very fast walk with a great deal of arm in it. He was thirteen and small for it. Thin as a rope, chalk to the knee, a slate under one arm, and black hair coarse as rice-straw, flattened on one side by the valley wind. His face was narrow and browned by the paddies. A burn scar the shape of a kettle's lip marked the back of his left wrist. His smock had been let down twice at the hem, and the let-down bands showed darker than the rest.
 
 "Teacher, the cat is called Nabi and he goes where I go, which my mother says is the wrong way round and I say is not the cat's fault, and he won't be any trouble, and if he is any trouble I'll take him out, and I've read the first four pages of the grammar they gave me at my entering already, and I think the third page is wrong."
 
@@ -346,7 +346,7 @@ He has a talent for the Draft trade that I did not put there. His suspensions st
 
 When he asked who else might, I gave him Malphas's address. Malphas's letters come now care of the Archivum of the Heralds at Genesio, where the title they gave him says he works. Doyun copied it onto the corner of his slate in his good hand, then onto paper, and then asked me to spell Genesio again.
 
-Most of this volume I have written in that room, and the rest on the circuit I walk out of the school through the valley's settlements, a bench and a slate in each. Ara met me on that road this spring, below the potters' settlement, with a satchel on her shoulder and nothing else. She is twenty. Her hair was plaited down her back out of her way, its silver-white dulled with road dust, and she was thinner than her letter had admitted, the cheekbones sharp above the mole. On her working hand she wore a plain ring I did not know. It warms, she said, when a wound nearby can still be saved. She had two fingers pressed to her temple, where the valley presses on anyone back from outside, and she took them away to wave. She had left the court's wards to walk the circuit with me, and she had not written to ask.
+Most of this volume I have written in that room, and the rest on the circuit I walk out of the school through the valley's settlements, a bench and a slate in each. Ara met me on that road this spring, below the potters' settlement, with a satchel on her shoulder and nothing else. She is twenty. Her hair was braided down her back out of her way, its silver-white dulled with road dust, and she was thinner than her letter had admitted, the cheekbones sharp above the mole. On her working hand she wore a plain ring I did not know. It warms, she said, when a wound nearby can still be saved. She had two fingers pressed to her temple, where the valley presses on anyone back from outside, and she took them away to wave. She had left the court's wards to walk the circuit with me, and she had not written to ask.
 
 I put my hand on her head. She let me.
 
@@ -368,7 +368,7 @@ Affixed by the hand of Kwon Mu-jin, for the use of whoever continues this work. 
 
 **The remaining four.** Conjunction Perverted, Fermentation Perverted, Distillation Perverted, Coagulation Perverted. They are the third volume's subject, and the third volume will have to address what I did not address at Castlefall.
 
-**The Tria Prima of Furveus.** Written down at last in my hand from his dictation, the winter of the commission: Sulphur to the Core, Salt to the Shell, Mercury to the Attraction Layer, with his separating, his Whitening and his Wedding in their order. The Heralds' Medical University has begun, grudgingly, to examine his results. He has not spoken to me at length of the lowlands since the morning of the coffee. He works. He checks his hands after. His head nods when he is tired, and the jaw has begun to follow it. He still finds white arsenic useful in small measure. I used to fear that dose for his patients; now I watch what it does to his hands.
+**The Tria Prima of Furveus.** Written down at last in my hand from his dictation, the winter of the commission: Sulfur to the Core, Salt to the Shell, Mercury to the Attraction Layer, with his separating, his Whitening and his Wedding in their order. The Heralds' Medical University has begun, grudgingly, to examine his results. He has not spoken to me at length of the lowlands since the morning of the coffee. He works. He checks his hands after. His head nods when he is tired, and the jaw has begun to follow it. He still finds white arsenic useful in small measure. I used to fear that dose for his patients; now I watch what it does to his hands.
 
 **The Great Work.** It proceeds as a spiral. Each stage comes round again from higher up, and the corruptions are the inverse pressures that make the climb legible by contrast. I have walked the second round as far as its Separation.
 

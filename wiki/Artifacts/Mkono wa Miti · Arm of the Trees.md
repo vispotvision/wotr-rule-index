@@ -8,11 +8,11 @@ title: "Mkono wa Miti · Arm of the Trees"
 
 ### What it is
 
-A Relic-grade, soulbound defensive tool: a forearm bracer grown rather than forged, layers of living bark curving seamlessly around the arm, smooth yet stronger than bronze. Moss-like Essence fibers along the grain pulse with soft green light. Amber shards holding preserved seeds and spirit-insects are set into it, each cut with a Parun glyph. Cultivated from a sapling of the Heartbloom Tree, nurtured by Chimwala from seed and bound to his Essence over years of symbiotic growth until it hardened into permanent armour.
+A Relic-grade, soulbound defensive tool: a forearm bracer grown rather than forged, layers of living bark curving seamlessly around the arm, smooth yet stronger than bronze. Moss-like Essence fibers along the grain pulse with soft green light. Amber shards holding preserved seeds and spirit-insects are set into it, each cut with a Parun glyph. Cultivated from a sapling of the Heartbloom Tree, nurtured by Chimwala from seed and bound to his Essence over years of symbiotic growth until it hardened into permanent armor.
 
 ### Physical account
 
-Mass ~0.7 kg (living bark and amber inlay over a forearm's length; not stated on the card, conservative estimate). Length ~30 cm, fitted to the left forearm, worn permanently rather than donned. As light natural armour it stops common shot, blunt strikes, and blade edges up to roughly the E-to-D-Grade force band outright (per the Strike Force table's lower tiers) by transferring the force into the ground rather than the arm; it fails outright against proofed shot and against any strike at or above Chimwala's own S-Grade ceiling, since a light bracer cannot out-mass what a full cuirass is built to survive.
+Mass ~0.7 kg (living bark and amber inlay over a forearm's length; not stated on the card, conservative estimate). Length ~30 cm, fitted to the left forearm, worn permanently rather than donned. As light natural armor it stops common shot, blunt strikes, and blade edges up to roughly the E-to-D-Grade force band outright (per the Strike Force table's lower tiers) by transferring the force into the ground rather than the arm; it fails outright against proofed shot and against any strike at or above Chimwala's own S-Grade ceiling, since a light bracer cannot out-mass what a full cuirass is built to survive.
 
 ### Operation line
 
@@ -26,7 +26,7 @@ Mass ~0.7 kg (living bark and amber inlay over a forearm's length; not stated on
 
 ### Bond and cost
 
-Soulbound to Chimwala N'Doro; the card states outright that it cannot be worn by another without severing the living bond, which would kill the artefact rather than merely deactivate it. Requires periodic "feeding" with sunlight, water and Essence from fertile ground — in barren or corrupted terrain its regeneration functions weaken drastically, per the card's stated limitation.
+Soulbound to Chimwala N'Doro; the card states outright that it cannot be worn by another without severing the living bond, which would kill the artifact rather than merely deactivate it. Requires periodic "feeding" with sunlight, water and Essence from fertile ground — in barren or corrupted terrain its regeneration functions weaken drastically, per the card's stated limitation.
 
 ### Counterplay
 

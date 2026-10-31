@@ -72,7 +72,7 @@ title: "Invert Eidolon"
 |---|---|---|
 | Strain energy, toughened glass | U = σ² / 2E, 120 MPa, 70 GPa | 1.03 × 10⁵ J·m⁻³ |
 | Fracture front in stressed glass | measured | about 1.5 × 10³ m·s⁻¹ |
-| Two-metre body coming apart | 2 m ÷ 1.5 × 10³ m·s⁻¹ | about 1.3 ms |
+| Two-meter body coming apart | 2 m ÷ 1.5 × 10³ m·s⁻¹ | about 1.3 ms |
 
 ### Metaphysics
 

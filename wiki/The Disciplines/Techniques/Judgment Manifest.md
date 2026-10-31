@@ -68,7 +68,7 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 ### Metaphysics
 
-**Aether** · The ceiling is an Aether quantity. Fulguria favours dry air, conductive ground and clear sight; Caloria favours steep thermal gradients. The Residue is standing law layered on the field, the heaviest kind, and it deafens Harmonists who work that ground afterwards.
+**Aether** · The ceiling is an Aether quantity. Fulguria favors dry air, conductive ground and clear sight; Caloria favors steep thermal gradients. The Residue is standing law layered on the field, the heaviest kind, and it deafens Harmonists who work that ground afterwards.
 
 **Saturation** · Three EX constructs across two kilometres risk saturation; past the threshold the field tips into a Crystal Fracture Event for everyone present, the practitioner included.
 
@@ -127,6 +127,6 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Fails against** · Limina that blurs a construct's definition (Oneirion, Letheveil, Knot); a call for a fourth construct, which collapses one; Silence, which severs Animatria; fog, shielding and saturated cold, which starve the Families; a located practitioner; the end of thirty seconds.
 
-**Rigidity** · Each construct enforces its Principle without negotiation; what measures favourably passes.
+**Rigidity** · Each construct enforces its Principle without negotiation; what measures favorably passes.
 
 **Look up** · The Counterplay register for Knot, Seal and Silence; the Fulguria and Caloria entries for Judicium and Exuroth Failures; the Limina entries for Oneirion and Letheveil; the Zenith Stage table and the Dominion gates.

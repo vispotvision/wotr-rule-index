@@ -44,7 +44,7 @@ Each of the sixty Wellsprings is a living process, a law of transformation encod
 Alchemy is permitted because **it accelerates what the Continuum is already doing.** Wellspring processes run continuously across the Continuum whether or not anyone is watching. Metals ripen in the ground. Rot completes itself. Frequencies separate under time.
 
 What the alchemist does is arrange conditions and issue an authorisation so that **a process the Continuum was already running runs here, now, faster, and under supervision.**
-> **The work is a matter of hurrying a thing along and then paying for the hurry**, with nothing created and nothing stolen, and every doctrinal defence the Bench has ever mounted rests on that sentence.
+> **The work is a matter of hurrying a thing along and then paying for the hurry**, with nothing created and nothing stolen, and every doctrinal defense the Bench has ever mounted rests on that sentence.
 
 ### What pays for the work
 
@@ -127,15 +127,15 @@ The Work moves through seven stages, in one order: **Calcination, Dissolution, S
 
 ### The Tria Prima
 
-**Sulphur, Salt and Mercury** are the three principles of a body: the active, the fixed and the one that mediates. Each answers to a layer of the Crystal by plane, **Sulphur to the Essence Core, Salt to the Aether Shell, Mercury to the Attraction Layer.**
+**Sulfur, Salt and Mercury** are the three principles of a body: the active, the fixed and the one that mediates. Each answers to a layer of the Crystal by plane, **Sulfur to the Essence Core, Salt to the Aether Shell, Mercury to the Attraction Layer.**
 
-**Spagyria is medicine layer by layer.** The spagyrist parts a plant into its three principles, purifies each and puts them back. The Sulphur is the oil from the still, the Mercury the spirit from the ferment, the Salt the ash of what is left, burned white and crystallised. Parted and purified, each principle reaches one layer of the patient, so a spagyric medicine treats a man one layer at a time.
+**Spagyria is medicine layer by layer.** The spagyrist parts a plant into its three principles, purifies each and puts them back. The Sulfur is the oil from the still, the Mercury the spirit from the ferment, the Salt the ash of what is left, burned white and crystallised. Parted and purified, each principle reaches one layer of the patient, so a spagyric medicine treats a man one layer at a time.
 
 **Separate, purify, recombine.** The separating is a Parting. The purifying is the Distillation of the Work, read at the Whitening. The recombining is a Wedding. The Work's order is kept charge by charge: each principle whitens in its own vessel, where no Wedding can fall, and the Wedding is the Conjunction of the joined medicine. *The separating and the Whitening are safe in a careful house. The Wedding carries the Rupture Event risk of any Conjunction.*
 
 ### Medicine by the dose
 
-**The dose is the point.** Quicksilver, calomel and white arsenic stand in the physician-alchemist's cabinet under their own names: calomel for a gut that will not move, white arsenic in small measure for a patient with no colour in her. Each heals at a measure and poisons past it. **The one who measures takes his own share every day he measures.** Crucible palsy is quicksilver's work on the hand that weighs it out, and Draft-mark is the rest of the account, written on the nails.
+**The dose is the point.** Quicksilver, calomel and white arsenic stand in the physician-alchemist's cabinet under their own names: calomel for a gut that will not move, white arsenic in small measure for a patient with no color in her. Each heals at a measure and poisons past it. **The one who measures takes his own share every day he measures.** Crucible palsy is quicksilver's work on the hand that weighs it out, and Draft-mark is the rest of the account, written on the nails.
 
 ---
 
@@ -147,7 +147,7 @@ The Work moves through seven stages, in one order: **Calcination, Dissolution, S
 |---|---|---|---|
 | **Coagulation** *mirrors Coagulatio* · `[Ur] Balance` `[Ma] Recall` `[Th] Foundation` | Gathering and setting: what was dispersed comes out of suspension round a seed | Precipitation, setting, crystallisation: **the moment a suspension becomes a solid and stops behaving like a liquid.** Thermodynamically the least demanding, and the first operation a Drafter runs alone | Coagulatio is stable and **deactivates cleanly.** *A collapsed Coagulation leaves you with wasted stock and a lecture* |
 | **Distillation** *draws on Sublimare* · `[Ie] Perception` `[Ur] Balance` `[Flx] Flux` | Isolation and purification: the true signature parted from everything else in the vessel | Vaporisation and recondensation, fractionation. **Also the forensic operation**: high-level Distillation isolates an Essence type back to its root origin, which is how a corrupted vein is identified **and how a lot's Provenance Class is confirmed when the seller's warranty is doubted** | A Distillation without a Direction glyph **separates every signature present, including the ones you meant to keep.** *Technically successful and commercially worthless* |
-| **Sublimation** *mirrors Sublimatio* · `[Xr] Excision` `[Vael] Renewal` `[Ora] Truth` | Elevation without intermediate states; burden converted to clarity | A solid becomes vapour and returns as a purer solid **without ever having been liquid**, and **there is no stage between at which the working can be inspected or corrected.** A harmonised alchemist can attempt workings structurally inaccessible to a purely theoretical one, *because the process already knows them and shortens the road accordingly* | **There is no partial Sublimation.** What did not rise stays in the bottom of the vessel **as a fused mass that has to be broken out with a chisel** |
+| **Sublimation** *mirrors Sublimatio* · `[Xr] Excision` `[Vael] Renewal` `[Ora] Truth` | Elevation without intermediate states; burden converted to clarity | A solid becomes vapor and returns as a purer solid **without ever having been liquid**, and **there is no stage between at which the working can be inspected or corrected.** A harmonised alchemist can attempt workings structurally inaccessible to a purely theoretical one, *because the process already knows them and shortens the road accordingly* | **There is no partial Sublimation.** What did not rise stays in the bottom of the vessel **as a fused mass that has to be broken out with a chisel** |
 | **Conjunction** *no single Wellspring mirror* | The Attraction-aligned law of merging, the same principle that governs Synergia, Domain formation and Essence fusion. **The most dangerous operation in the discipline** | Incompatible Wellsprings forced together without mediation produce **Rupture Events.** The Parunic mediation glyphs **are the structural buffer the Continuum requires before it will permit two laws to occupy one substrate**, and every stroke of them bears load. *The common laying is [Wvn] Weave at three points round the vessel, to lock a third glyph in place while the two principles meet, and [Ap] Aperture at the neck, to let pressure out before it can spill.* | **Rupture Event.** **The two laws contest, inside a sealed vessel, and the vessel is the first thing to lose**; neither blends with the other and neither cancels it. *Conjunction benches are sited against an outer wall and the outer wall is built light on purpose, so that it goes before the roof does* |
 
 ---
@@ -187,7 +187,7 @@ flowchart TD
 
 **The Feeding** · Never all at once, because **a working that is fed too fast completes the nearest available version of its process, and the nearest is seldom the one intended.** **Fermentation completes here**, in the growing back after the Rot's killing. *A master feeds by eye. An apprentice feeds by the clock and by written weight and is not permitted to deviate.*
 
-**The Rising** · Vapour to solid on the cold walls of the Riser, **and whatever failed to rise is a loss that cannot be recovered.**
+**The Rising** · Vapor to solid on the cold walls of the Riser, **and whatever failed to rise is a loss that cannot be recovered.**
 
 **The Setting** · **From here the process is over and the product exists as an object.**
 
@@ -199,15 +199,15 @@ flowchart TD
 
 ---
 
-## Reading the Colour
+## Reading the Color
 
 *There are no instruments inside a sealed vessel. There is glass, and there is what the working looks like through it, and four centuries of practice have reduced that to four readings.*
 
-**Colours arriving out of order mean the sentence is executing wrongly and the working should be abandoned. Colours arriving too fast mean the same.** A working that blacks and then reddens **without whitening** has skipped the purification and is carrying whatever it was supposed to have shed. *The Bench has an entry for what that produces, and it is not a product.*
+**Colors arriving out of order mean the sentence is executing wrongly and the working should be abandoned. Colors arriving too fast mean the same.** A working that blacks and then reddens **without whitening** has skipped the purification and is carrying whatever it was supposed to have shed. *The Bench has an entry for what that produces, and it is not a product.*
 
 ### The stages at the bench
 
-| Stage | At the bench | Read by colour |
+| Stage | At the bench | Read by color |
 |---|---|---|
 | **Calcination** | The Burning |  |
 | **Dissolution** | The Taking |  |
@@ -217,14 +217,14 @@ flowchart TD
 | **Distillation** | Circulation in the Returner, unopened; no Turning of its own | **The Whitening** |
 | **Coagulation** | The Setting | **The Reddening** |
 
-**Distillation is pinned to a colour and to no Turning.** It runs inside the sealed vessel, and the glass is the only place it can be seen.
+**Distillation is pinned to a color and to no Turning.** It runs inside the sealed vessel, and the glass is the only place it can be seen.
 
 **Five Turnings stand outside the seven.** The Reading comes before the Work begins. The Rising is the Sublimation operation. The Sealing runs on Fixatio's chains. The Standing and the Mark belong to the workshop and the Bench. *The Yellowing tracks no stage of its own; it is the tincture arriving, on the way to the Reddening.*
 
 | Reading | What it means |
 |---|---|
 | **The Blacking** | Putrefaction proceeding correctly. Deep, matte, light-swallowing. **Expected, desirable, and terrifying to anyone seeing it for the first time.** *A working that never blacks has not rotted and will not conjoin* |
-| **The Whitening** | Purification complete inside the sealed vessel. **This is the Distillation of the Great Work**, run as circulation in the Returner and read by this colour. Pale, often pearlescent: **the point at which most workings become safe to inspect** |
+| **The Whitening** | Purification complete inside the sealed vessel. **This is the Distillation of the Great Work**, run as circulation in the Returner and read by this color. Pale, often pearlescent: **the point at which most workings become safe to inspect** |
 | **The Yellowing** | The tincture arriving. Amber through gold. **The last stage before a decision has to be made about whether to push further, and pushing further is where fortunes are lost** |
 | **The Reddening** | Completion. Deep red through to near-black in thick glass. **A working that reddens has done what it was told** |
 
@@ -240,14 +240,14 @@ flowchart TD
 
 **The Riser** · Tall conical earthenware, stacked in series, for sublimation. The sublimate collects on the interior walls and is scraped out cold.
 
-**The Returner** · Two side-arms curving back into the body so condensed vapour runs continuously back down into the charge. **Permits circulation for turn after turn without ever opening the system, which is the only way certain workings can be run at all.** *The Distillation of the Great Work runs here, and it is read by the Whitening through the glass.*
+**The Returner** · Two side-arms curving back into the body so condensed vapor runs continuously back down into the charge. **Permits circulation for turn after turn without ever opening the system, which is the only way certain workings can be run at all.** *The Distillation of the Great Work runs here, and it is read by the Whitening through the glass.*
 
-**The Standing Egg** · Thick-walled sealed ovoid glass for the long digestions. Once shut it is not opened until the working is finished or has failed, **and a Standing Egg has no failure signal short of the colour going wrong or the glass going.**
+**The Standing Egg** · Thick-walled sealed ovoid glass for the long digestions. Once shut it is not opened until the working is finished or has failed, **and a Standing Egg has no failure signal short of the color going wrong or the glass going.**
 
 **The Draft-circle** · The one entry here that holds nothing: **the inscribed ground the vessels sit inside**, carrying the Authorization, Boundary, Direction and Sealing chains. *Scribed for one working and washed after.*
 > **Why the material matters.** Glass lets the working be seen and resists the menstrua, and cracks under thermal shock, and will not take the top of the range. Refractory ceramic takes any heat and is **porous and blind.** Copper conducts beautifully and **is eaten alive by Strongwater in under an hour.**
 >
-> So a menstruum distillation runs in glass or luted earthen and never in bare copper, a fusion runs in a crucible **and is judged by ear and by flame colour because nothing can be seen**, and a Conjunction runs in **whatever the house can afford to lose.**
+> So a menstruum distillation runs in glass or luted earthen and never in bare copper, a fusion runs in a crucible **and is judged by ear and by flame color because nothing can be seen**, and a Conjunction runs in **whatever the house can afford to lose.**
 >
 > *Onceglass has been proposed as vessel stock in every generation since the caldera trade opened, on the reasoning that it takes an inscription with unusual clarity. It also shatters completely on discharge, which is acceptable in a militia charge and is not acceptable in a vessel with three days of a master's work inside it.*
 
@@ -255,15 +255,15 @@ flowchart TD
 
 ## Heat
 
-*Every alchemist in the four quarters judges temperature by flame colour, by the sound of the charge, and by holding a hand where a hand should not go. The instrument-makers sell glass thermometers for the baths and thermocouples and pyrometers for the furnace, and every one of them reads the bed or the fire and never the charge inside the sealed glass.*
+*Every alchemist in the four quarters judges temperature by flame color, by the sound of the charge, and by holding a hand where a hand should not go. The instrument-makers sell glass thermometers for the baths and thermocouples and pyrometers for the furnace, and every one of them reads the bed or the fire and never the charge inside the sealed glass.*
 
-| Bed | Behaviour |
+| Bed | Behavior |
 |---|---|
 | **The Still Bath** | Water. Gentlest, self-limiting at the boil. Named for Ithra, **credited in three traditions and attested in none.** *Cannot be overheated, which is why apprentices are given it and why masters resent being given it* |
 | **The Sand** | A bed of sand between flame and vessel. Higher than water, more even than fire, **forgiving of a wandering flame. The workhorse bed of the trade** |
 | **The Ash** | Slower, gentler, **holds through a night without tending** |
 | **The Bed** | Fermenting dung packed around the vessel. **Holds blood-warmth for three turns to four and a half without fuel, without tending, and without any possibility of overheating.** *The correct instrument for the Rot, and every attempt to replace it with something less humiliating has produced worse results* |
-| **Open flame with the bellows** | The top of the range. Judged by colour, from dull red through cherry and orange to white, **and a master will name a temperature off the colour to within a hundred degrees and be right** |
+| **Open flame with the bellows** | The top of the range. Judged by color, from dull red through cherry and orange to white, **and a master will name a temperature off the color to within a hundred degrees and be right** |
 | **The Long Furnace** | Brick, with a fuel tower feeding charcoal down by gravity. Holds a constant low heat for turns or months without a hand on it. **A Long Furnace that goes out mid-working has destroyed more accumulated value than any fire in the record** |
 
 > The practical consequence of an instrument that stops at the glass is that **heat is a craft skill.**
@@ -274,13 +274,13 @@ flowchart TD
 
 ## The Lute
 
-*The glyph-seal keeps the Continuum honest. The lute-seal keeps the vapour in the vessel. Apprentices confuse them exactly once.*
+*The glyph-seal keeps the Continuum honest. The lute-seal keeps the vapor in the vessel. Apprentices confuse them exactly once.*
 
 There are no ground joints. Every junction is closed by hand with lute, **a paste of clay and hair and dung and egg and flour**, mixed by recipe, applied wet, and dried before the fire is lit.
 
-**Joint lute** · Egg white and fine flour bound with linen strip. Seals a spirituous vapour and comes away cleanly. *Any apprentice can make it.*
+**Joint lute** · Egg white and fine flour bound with linen strip. Seals a spirituous vapor and comes away cleanly. *Any apprentice can make it.*
 
-**Fire lute** · Clay, sand, chopped fibre. Goes on the bottom of a vessel that will sit in flame, **and must be dried through before heat or it cracks off in sheets.** *This is the lute every workshop guards the proportions of.*
+**Fire lute** · Clay, sand, chopped fiber. Goes on the bottom of a vessel that will sit in flame, **and must be dried through before heat or it cracks off in sheets.** *This is the lute every workshop guards the proportions of.*
 
 **Fat lute** · Fine clay worked with boiled oil. Stays pliable; used where a vessel will need opening again.
 > **Dawi hold-forges use a fourth that they do not sell and will not discuss.** The Bench has twice attempted to require its disclosure as a condition of entry on Dawi formulas **and has twice been told, in writing, in Khazalid, that the recipe is not property and cannot therefore be surrendered.**
@@ -299,7 +299,7 @@ There are no ground joints. Every junction is closed by hand with lute, **a past
 
 | Solvent | What it is |
 |---|---|
-| **Strongwater** | Distilled from saltpetre and vitriol over roughly a day of graduated heat. Colourless when clean, yellow when not. The receiver fills with **red-orange fume that is the working's own signal it is proceeding.** Eats silver and most metals; **will not touch gold.** *The fume is the single commonest cause of death in the trade at large* |
+| **Strongwater** | Distilled from saltpetre and vitriol over roughly a day of graduated heat. Colorless when clean, yellow when not. The receiver fills with **red-orange fume that is the working's own signal it is proceeding.** Eats silver and most metals; **will not touch gold.** *The fume is the single commonest cause of death in the trade at large* |
 | **Kingswater** | Strongwater with Ghostsalt added. Fumes yellow. **Dissolves gold, which nothing else does**, which is why it is called what it is called **and why every parting bench keeps it under a separate lock** |
 | **Blackstone Oil** | Heavy, oily, **the most corrosive thing on a common bench.** Three days of continuous distillation before the oil itself comes over. **Meets water violently enough to break the vessel it is in**, *and a great many benches carry a scar from somebody who learned this in the ordinary way* |
 | **Salt-spirit** | Sharp, pungent, from salt and vitriol. The general-purpose acid, **and the least feared, which is why it accounts for more ruined hands than Blackstone Oil does** |
@@ -326,11 +326,11 @@ A menstruum distillation runs a day for Strongwater and **three days before Blac
 
 ### The workshop
 
-It smells of **charcoal first**, and under the charcoal of hot stone, and under that **of the Bed**, which no amount of ventilation ever entirely removes and which every alchemist stops smelling within a month **and never smells again.** Then Strongwater, sharp enough to take the back of the throat. Sulphur off the calcination bench. Wet clay from the luting table where somebody is always working. Blood-smell from the rendering room. Old paper and lamp oil from the record desk, **which is by the door because the records leave the building and the reagents do not.**
+It smells of **charcoal first**, and under the charcoal of hot stone, and under that **of the Bed**, which no amount of ventilation ever entirely removes and which every alchemist stops smelling within a month **and never smells again.** Then Strongwater, sharp enough to take the back of the throat. Sulfur off the calcination bench. Wet clay from the luting table where somebody is always working. Blood-smell from the rendering room. Old paper and lamp oil from the record desk, **which is by the door because the records leave the building and the reagents do not.**
 
 It sounds like a bellows on a slow cycle and the tick of a Long Furnace settling as the charcoal drops. Glass on stone. Somebody counting under their breath at the Feeding. **Very little talk, because talk at the wrong moment during a Feeding costs a master a month.**
 
-It looks dark, **because the working is read by colour through glass and bright light makes that harder.** The benches are lit low and the windows are high and small, and what light there is comes off Deadlight phials and off the fires, **and the fires are the only warm colour in the room.**
+It looks dark, **because the working is read by color through glass and bright light makes that harder.** The benches are lit low and the windows are high and small, and what light there is comes off Deadlight phials and off the fires, **and the fires are the only warm color in the room.**
 > **There are children in it.** Carrying ash, mixing lute, watching a bath that must not be allowed to go dry. **There have always been children in it.**
 
 ### What it costs the body
@@ -338,7 +338,7 @@ It looks dark, **because the working is read by colour through glass and bright 
 | Condition | Course |
 |---|---|
 | **Crucible palsy** | Onset at roughly nine years of bench service. **Quicksilver's work on the one who measures it.** Begins as a tremor in the writing hand, progresses to the head and jaw, **and is accompanied by a withdrawal of manner that families notice before physicians do**: irritability, then shyness, then a reluctance to be looked at. *Permanent, progressive, and the reason a master's later formulas are dictated* |
-| **Draft-mark** | Discolouration in the sclera and under the nailbeds, keyed to what the practitioner has handled most. **A physician's doses leave grey nail-beds and pale bands across the nails.** Cosmetic, diagnostic, **and socially ruinous, since a renderer can name a man's whole career off his hands in under a second** |
+| **Draft-mark** | Discolouration in the sclera and under the nailbeds, keyed to what the practitioner has handled most. **A physician's doses leave gray nail-beds and pale bands across the nails.** Cosmetic, diagnostic, **and socially ruinous, since a renderer can name a man's whole career off his hands in under a second** |
 | **Vein cough** | From calcination fume, particularly sulphide roast. Twenty-year onset, chronic, **and the commonest cause of retirement in the trade** |
 | **The quiet** | Documented in long-service Distillation specialists. **A flattening of feeling that begins as professional detachment and does not stop there.** Practitioners describe it as **no longer finding things important, including things they know to be important.** *The Archives has classified it as an occupational condition and has not proposed a treatment* |
 | **Law-fragment burn** | Acute. Contact with a corrupted product **in which a portion of a Wellspring process was partially invoked and then abandoned and is still attempting to complete itself.** *The injury continues after contact ends, because the fragment does not know it has left the vessel* |
@@ -401,7 +401,7 @@ It looks dark, **because the working is read by colour through glass and bright 
 
 ### The argument the Accord will not have in public
 
-The lawful defence of alchemy is that it accelerates a process the Continuum was already running. Mechanica takes the result without running it. **Stated that way, the prohibition is coherent and the Accord's position is unanswerable.**
+The lawful defense of alchemy is that it accelerates a process the Continuum was already running. Mechanica takes the result without running it. **Stated that way, the prohibition is coherent and the Accord's position is unanswerable.**
 
 Stated another way, **and the eastern workshops state it regularly**: the Accord's arrays draw more from the veins in a season than every Mechanica bench in the four quarters draws in a decade, **and the difference is that the arrays do it with the correct paperwork.**
 > The Research and Archives Division has published a reply to this argument on four occasions. **Each reply is longer than the last.**
@@ -431,7 +431,7 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 
 *A caster's work is gone when the working ends. A Draft sits on a shelf with a price on it, and everything that happened to it on the way there is written down somewhere.*
 
-**Alchemy is practised as Draftcraft**, the craft of the pour and the vessel. It writes in price, vessel, seal and ledger, and its cost is provenance: every lot can be traced, and the trade lives by the tracing.
+**Alchemy is practiced as Draftcraft**, the craft of the pour and the vessel. It writes in price, vessel, seal and ledger, and its cost is provenance: every lot can be traced, and the trade lives by the tracing.
 
 **What a Draft carries.** A graded Draft carries its Class, its Fidelity and its Carry, struck at the Mark, and the grade is the stamp's. A clerk enters it as it reads: *Class II, Field Substrate; fidelity Sound; Carry Marked.*
 
@@ -459,7 +459,7 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 |---|---|
 | **Cinderhand** | Two to four years. Ash, fuel, sweeping, carrying, watching a bath that must not go dry. **Touches no reagent.** Learns the smell of the room and whether a Long Furnace is settling correctly, **which cannot be taught any other way and which every master relies on for the rest of their life** |
 | **Luteboy** | Mixes and applies lute. **The most dangerous responsibility given to the least qualified person in the building**, and the point at which a house finds out whether it has hired somebody careful |
-| **Bellows** | Heat. Learns flame colour, learns to hold a bed steady through a night, **learns that more workings are lost to inattention than to error** |
+| **Bellows** | Heat. Learns flame color, learns to hold a bed steady through a night, **learns that more workings are lost to inattention than to error** |
 | **Hand** | Permitted to run Turnings under a master's chain. **Scribes no circle and seals nothing** |
 | **Drafter** | The house's journeyman, a rung and not a Tier. Runs Coagulations alone, Distillations under supervision, **and is not permitted near a Conjunction bench for another four years** |
 | **Master of the Circle** | Scribes and seals. **Carries the liability.** In most polities personally accountable for whatever the circle closes, a Boundary failure above all, **and the accountability does not transfer to the house** |

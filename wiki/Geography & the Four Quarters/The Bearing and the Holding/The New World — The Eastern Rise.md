@@ -35,7 +35,7 @@ The wet flanks weather differently. Under high rainfall and heat the ash breaks 
 
 ## The Ground Itself
 
-Ash plains that carry a crop in three seasons and bury a village in one night. Cloud forest on the volcanic flanks, dripping, layered, and full of things nobody has classified. Obsidian flows glassy enough to cut a boot through. Sulphur fields around the fumaroles where the ground is warm and yellow and nothing grows. Rivers running grey with suspended pumice, and off the northern coast, coral platforms building on drowned volcanic cones.
+Ash plains that carry a crop in three seasons and bury a village in one night. Cloud forest on the volcanic flanks, dripping, layered, and full of things nobody has classified. Obsidian flows glassy enough to cut a boot through. Sulfur fields around the fumaroles where the ground is warm and yellow and nothing grows. Rivers running gray with suspended pumice, and off the northern coast, coral platforms building on drowned volcanic cones.
 > **The Wellsprings here move.** This is the fact eastern practice is organised around and that western surveyors consistently refuse to believe until they have lost a season to it.
 >
 > Ground this young does not hold a Wellspring in a fixed position across generations. A working sited on a strong local source can find that source thinned or shifted after an eruption, a caldera settling, or nothing anyone can identify.
@@ -48,7 +48,7 @@ Ash plains that carry a crop in three seasons and bury a village in one night. C
 
 **Alchemelt Brick** · *T2 · Synthetic stone · Artisan guilds of the arc*
 
-Volcanic ash ground with burnt lime and water, which sets hard, sets fast, and **sets underwater.** This last property is why the eastern quarter is building deep-water harbours at a rate the west finds indecent while western harbours silt shut. It resists ambient magic and crumbles under sustained structural stress, so it is used for floors, foundations, moles, and cisterns rather than for anything that must span. Bearing moderate, Holding deliberately low. Family Materia, Domain Material Science.
+Volcanic ash ground with burned lime and water, which sets hard, sets fast, and **sets underwater.** This last property is why the eastern quarter is building deep-water harbors at a rate the west finds indecent while western harbors silt shut. It resists ambient magic and crumbles under sustained structural stress, so it is used for floors, foundations, moles, and cisterns rather than for anything that must span. Bearing moderate, Holding deliberately low. Family Materia, Domain Material Science.
 
 **Pumice Float** · *T1 · Stone · Caldera ignimbrite sheets, universal*
 
@@ -87,9 +87,9 @@ The technomagical enclave did not discover the metal. Everyone knew it was in th
 
 Silver, lead, zinc, and garnet in banded contact bodies, worked open from surface because the deposits outcrop. **Silver here is a byproduct of a zinc operation**, which is an inversion that western silver houses have found financially unpleasant.
 
-**Yellowbreath Sulphur** · *T1 · Mineral · Fumarole fields throughout the arc*
+**Yellowbreath Sulfur** · *T1 · Mineral · Fumarole fields throughout the arc*
 
-Sublimate sulphur, collected by hand off the vent rims by men who work in wet cloth and do not work long. Feedstock for every acid in the eastern alchemical trade and a primary Pyraeon reagent. Family Caloria, Domain Thermodynamics.
+Sublimate sulfur, collected by hand off the vent rims by men who work in wet cloth and do not work long. Feedstock for every acid in the eastern alchemical trade and a primary Pyraeon reagent. Family Caloria, Domain Thermodynamics.
 
 **Ember Flint** · *T2 · Stone · Foraye*
 
@@ -99,7 +99,7 @@ Sparks a mild magical flame when struck. Field-mage survival stock, and **the si
 
 Stores visions and is dangerously volatile. Provenance recorded on the strength of the resin's physical character and the tree species involved. *This attribution has not been confirmed by the Archives Division and is flagged accordingly.*
 
-**Glacium** · *T5 · Frost-infused mineral · Iampu, the elven old-ground, grown in the ice-caves under Winter Court licence*
+**Glacium** · *T5 · Frost-infused mineral · Iampu, the elven old-ground, grown in the ice-caves under Winter Court license*
 
 Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below freezing for the purpose, in a process the Winter Court does not document and does not permit inspection of. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Vohrin. Family Caloria, Domain Thermodynamics.
 
@@ -125,6 +125,6 @@ The exception is the eastern arc, which has built the only permanent heavy indus
 
 ## Trade Posture
 
-Exports Cloudmetal, silver, gold, Onceglass, sulphur, and cement. Imports iron, tools, wolfram, credit, and expertise. **The arc owes the west heavily and resents it.** *This is the arc's posture, not the elven old-ground's.*
+Exports Cloudmetal, silver, gold, Onceglass, sulfur, and cement. Imports iron, tools, wolfram, credit, and expertise. **The arc owes the west heavily and resents it.** *This is the arc's posture, not the elven old-ground's.*
 
 The Accord's Arbitration Division spends a disproportionate share of its calendar on the arc's colonial rights, Wellspring access, and the question of whether an unregistered Onceglass charge is a weapon or a commodity.

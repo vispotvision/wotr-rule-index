@@ -8,7 +8,7 @@ title: "Edictum"
 
 ### Summary card
 
-**Effect** · A spoken declaration that binds a named target, soul, artefact, or space under a stated condition or judgment; once spoken it holds unless the target outranks the caster's own authority or is shielded by contradiction glyphs or oath-nullification.
+**Effect** · A spoken declaration that binds a named target, soul, artifact, or space under a stated condition or judgment; once spoken it holds unless the target outranks the caster's own authority or is shielded by contradiction glyphs or oath-nullification.
 
 **Cost** · Full clarity of soul at the moment of speaking — the working reads the caster's own conviction as its authorization, and any impurity in that conviction is charged back to the caster rather than absorbed by the target.
 
@@ -87,7 +87,7 @@ Urion originates the form at the cosmological scale; mortal derivations of the s
 
 **Glyph** · Boundary laid under Command: both name a kind of limit on any law, since the law the target runs on is unknown until named.
 
-**Boundary** · The value the target's own behaviour may take at a named limit: a sentenced target cannot do the forbidden act, a protected one cannot be touched by the named harm, a silenced one cannot use the named Craft.
+**Boundary** · The value the target's own behavior may take at a named limit: a sentenced target cannot do the forbidden act, a protected one cannot be touched by the named harm, a silenced one cannot use the named Craft.
 
 **Effect** · Instant as the sentence ends, with no travel time; the target still wants the thing and finds the doing unavailable, an absence, not a resistance.
 

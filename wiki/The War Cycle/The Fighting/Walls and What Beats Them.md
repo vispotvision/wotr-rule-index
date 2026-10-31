@@ -39,7 +39,7 @@ So armies besiege. **Most of the days of most campaigns are spent sitting outsid
 
 | Form | Built against | What happened |
 |---|---|---|
-| **The high wall** | Escalade and starvation | Tall, relatively thin, designed so nobody can climb it. Effective for centuries **and obsolete the moment a besieger could bring a practitioner capable of unmaking masonry at range** — which made every tall wall in the world **a target rather than a defence** |
+| **The high wall** | Escalade and starvation | Tall, relatively thin, designed so nobody can climb it. Effective for centuries **and obsolete the moment a besieger could bring a practitioner capable of unmaking masonry at range** — which made every tall wall in the world **a target rather than a defense** |
 | **The low work** | Practitioners | Thick, low, earth-backed, angled so **every face is covered by fire from another face.** A practitioner can unmake a section and finds behind it a ditch, a second face, and enfilade. **The reduction now costs Essence per section rather than Essence per wall, and the arithmetic of the costing-out doctrine turns against the attacker** |
 | **Anchored work** | Everything | Principality Mortar, **and the eleven structures raised on it.** A Domain anchored at Realm scale **registers in the Continuum as terrain rather than as building. It is not reduced. It is not mined. It cannot be removed by its own builders**, and four of the eleven now stand in places nobody governs |
 
@@ -82,7 +82,7 @@ The sequence is documented and identical everywhere. **Horses first, then the an
 
 *Everything a garrison does after the breach is practicable is judged against a convention nobody signed and everybody enforces.*
 
-A garrison may surrender on terms while resistance remains meaningful, and will ordinarily be allowed to march out with its arms, its colours and its honour. **This is not mercy. It is the besieger buying the place cheaply rather than buying it with a storm.**
+A garrison may surrender on terms while resistance remains meaningful, and will ordinarily be allowed to march out with its arms, its colors and its honor. **This is not mercy. It is the besieger buying the place cheaply rather than buying it with a storm.**
 > Once a practicable breach exists and the garrison refuses terms and forces a storm, **the convention holds that the garrison and the town have forfeited protection.** Quarter may be refused. The place may be sacked.
 >
 > Every commander in the four quarters knows this and every garrison commander weighs it, **and the weighing is the most consequential decision anyone makes in a siege — because it is made on behalf of a population that does not get a vote.**

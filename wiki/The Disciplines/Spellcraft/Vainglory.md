@@ -101,7 +101,7 @@ title: "Vainglory"
 
 **Glyph** · Mirage (Kaetra) as the boundary that moves, laid under Reverie (Maelor) for the register the correction is drawn from.
 
-**Boundary** · The tolerance on the Shell's reflection moves: how much correction a return may introduce. Eidolyn then deposits the corrected return as something with real material behaviour.
+**Boundary** · The tolerance on the Shell's reflection moves: how much correction a return may introduce. Eidolyn then deposits the corrected return as something with real material behavior.
 
 **Effect** · Each corrected return becomes the next state to reflect, so the construct drifts toward the flattery on an exponential. To strangers it is a better version of the summoner; to anyone who knows them, an immaculate likeness of an untrue claim, getting worse hourly.
 
@@ -113,7 +113,7 @@ title: "Vainglory"
 
 **Anchor** · Glory is below Refraction, so a deliberate raising needs voice, hand, ink or blood; take it and the sentence does not complete.
 
-**Failure** · Coherence fault by design: the construct is lived behaviour drifting from stated law, so the summoner's output falls, Thresholds refuse to authorise and Traits argue with them, before anyone touches them. Then saturation displaces them, or cavity damage consumes them.
+**Failure** · Coherence fault by design: the construct is lived behavior drifting from stated law, so the summoner's output falls, Thresholds refuse to authorise and Traits argue with them, before anyone touches them. Then saturation displaces them, or cavity damage consumes them.
 
 **Dismissal** · Not safe: a true Eidolon at R ≤ 1 decays when supply stops, but a saturated loop holds stored energy that must go somewhere first.
 

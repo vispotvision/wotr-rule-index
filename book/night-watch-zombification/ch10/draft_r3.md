@@ -26,7 +26,7 @@ Foss wrote it at the gauge bench, in the warm air off the press, and blotted it.
 
 Vesk tipped the flask. Waited. Tipped it back.
 
-The ninth hind lay on the slate table in the middle of the room under two lengths of sacking. Nuvalik had had the big knife to her on the fifth night and taken the hide off the near shoulder and down the flank as far as the last rib, and stopped there. She had said she could see what she wanted to see with that much off, and the rest of the hide was holding the rest of the hind together, and she was not going to take away the one thing doing any work. The sacking lay over the open side. Where it had slipped at the withers the lamp found the shoulder, bare and drawn and the colour of a plum's inside, the long muscle over the blade lying the way it had lain for a week.
+The ninth hind lay on the slate table in the middle of the room under two lengths of sacking. Nuvalik had had the big knife to her on the fifth night and taken the hide off the near shoulder and down the flank as far as the last rib, and stopped there. She had said she could see what she wanted to see with that much off, and the rest of the hide was holding the rest of the hind together, and she was not going to take away the one thing doing any work. The sacking lay over the open side. Where it had slipped at the withers the lamp found the shoulder, bare and drawn and the color of a plum's inside, the long muscle over the blade lying the way it had lain for a week.
 
 Nuvalik sat on the stool by the table's head. She had the small knife and a rag and was working the rag along the flat of the blade, point to heel, the same stroke, over and over. She had sat there part of every night since the fifth. Vesk had stopped asking her why.
 
@@ -34,7 +34,7 @@ Across the room the Lord sat with his forearms on his knees.
 
 His coat lay folded on the bench beside him, and not under him. He had been sitting that way since Deming came in, and in all that time Vesk had not seen him shift. The lamp on the west wall hung on a nail between the second and third housing. It lit his hands from the side where they hung between his knees.
 
-They were the colour of hands.
+They were the color of hands.
 
 Vesk looked at them for longer than he meant to. The press was on the east wall. Its warm air went along the east wall and stayed there, and Foss sat in it, and Foss's hands were pink with it to the second knuckle. The iron bench was the whole width of the room away from the press, against the brick, under the capped iron of three standpipes nobody had troubled to strip. Vesk's own hands, inside the yard gloves, had gone past aching an hour since. The two grafted fingers were only a stiffness at the ends of the gloves.
 
@@ -126,7 +126,7 @@ Nobody answered him, and after a while Nuvalik took the small knife off the tabl
 
 "Look at the housing," Foss said.
 
-He had brought the lamp down to it. He crouched with the glass screwed into his eye and put his face to the cap, with the lamp held behind it, so that the seam where the cap met the pipe stood out large. The rust ran across the seam unbroken, the colour of an old kettle, with dust along its top.
+He had brought the lamp down to it. He crouched with the glass screwed into his eye and put his face to the cap, with the lamp held behind it, so that the seam where the cap met the pipe stood out large. The rust ran across the seam unbroken, the color of an old kettle, with dust along its top.
 
 "That's how it's sat four years," Foss said. "Since the main was capped. Nobody's had that cap off. That's the emptiest iron in the building. It has been the emptiest iron in the building every day any of us has been in it, and I could have told you on the first night which way she'd go if anybody had asked me which way." He did not look round. "Nobody asked me which way. I want that in the book as well."
 
@@ -138,7 +138,7 @@ He had brought the lamp down to it. He crouched with the glass screwed into his 
 
 Vesk looked at the hind lying against the iron with her neck along the brick.
 
-At home they put stones on the graves. It was the beck stones, the flat grey ones out of the water, one to a visitor, laid on the turf over the head. He had asked his mother once what they were for and she had said they were to keep the dead where they were put, and he had thought, even small, that that was a thing people said. Nobody in his village had ever got up. He had laid a good many stones and never known what a single one of them was doing.
+At home they put stones on the graves. It was the beck stones, the flat gray ones out of the water, one to a visitor, laid on the turf over the head. He had asked his mother once what they were for and she had said they were to keep the dead where they were put, and he had thought, even small, that that was a thing people said. Nobody in his village had ever got up. He had laid a good many stones and never known what a single one of them was doing.
 
 *Now I know what they're for,* he thought.
 
@@ -146,7 +146,7 @@ He stood with that for a while. There was no stone in the building, and there wa
 
 Behind him Deming came back in.
 
-He came in slowly, with one hand on the door frame, and the Lord moved aside for him again without a word. Deming's face was grey and wet at the mouth. The hat had been crushed, and he was pushing the crown back out with his thumb from the inside, going round, and he did not speak until it was the right shape. He did not look toward the corner.
+He came in slowly, with one hand on the door frame, and the Lord moved aside for him again without a word. Deming's face was gray and wet at the mouth. The hat had been crushed, and he was pushing the crown back out with his thumb from the inside, going round, and he did not speak until it was the right shape. He did not look toward the corner.
 
 "I beg the room's pardon," Deming said. "It was the ford." He put the hat's brim right with his thumb, round and round. "It is... I had eel at the inn at the ford on the way up, and I was told not to have it, the girl told me not to, and I had it. It has been coming on since the eighth division." He swallowed. "That was the eel."
 

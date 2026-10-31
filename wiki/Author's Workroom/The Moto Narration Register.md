@@ -15,7 +15,7 @@ title: "The Moto Narration Register"
 
 **Words it keeps out.** Named feelings beyond one word, and usually not that one. Abstract Latinate nouns for the self (anguish, despair, resolve). Any single Archon asked for anything. Modern words of any kind. Contractions, in narration and in speech.
 
-**Its signature phrase.** "The whole of it." Seiji: "That is the whole of it and it has been the whole of it for eleven years." Sodoku: "That is the whole of the fault and it is mine." The narration: "That was the whole of what Sodoku had sent." A Moto closes a judgement by bounding it. The phrase is the prose form of "the offence is inaccuracy": a thing correctly read has edges.
+**Its signature phrase.** "The whole of it." Seiji: "That is the whole of it and it has been the whole of it for eleven years." Sodoku: "That is the whole of the fault and it is mine." The narration: "That was the whole of what Sodoku had sent." A Moto closes a judgment by bounding it. The phrase is the prose form of "the offense is inaccuracy": a thing correctly read has edges.
 
 ## Sentence shape
 
@@ -47,7 +47,7 @@ It never names its own pleasure, triumph or grief outright; it records their abs
 > "The read cost him eleven seconds. He knew the number because he counted while he was blind, which is a habit and had been a habit since he was fifteen, and at nine he heard the horse."
 **5. Silence is an act, and the Moto lets others fill it.** A Moto waits, and the waiting is written as its own sentence. What another man says into the silence, and in what order, is read as the message.
 > "Sodoku waited." And after it: "A man arriving with news will give it in his own order if you leave the silence alone, and the order he gives it in is half the message."
-**6. Judgement is bounded: "the whole of it."** A verdict is stated once, closed, and owned. When the fault is the POV's own, it is named in his own voice with no self-pity and no appeal.
+**6. Judgment is bounded: "the whole of it."** A verdict is stated once, closed, and owned. When the fault is the POV's own, it is named in his own voice with no self-pity and no appeal.
 > "*A man who thinks in walls does not think of the door being opened from inside. That is the whole of the fault and it is mine and it has cost us nothing today, which is the only reason I am able to look at it.*"
 **7. Feeling is recorded as absence.** The register names what is not there instead of what is. Satisfaction appears only as the sentence that says there was none.
 > "That was the second thing Sodoku understood and it arrived a half-beat behind the first, and there was no pleasure anywhere in it."

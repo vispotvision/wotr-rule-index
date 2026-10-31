@@ -78,7 +78,7 @@ Read **The Bearing and the Holding** for what the ground is and what may be made
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Bearing and the Holding]]
 - [[Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade]]
 - [[Geography & the Four Quarters/News, Rumour and the Speed of Information]]
-> **Distance measured in days.** **News, Rumour and the Speed of Information** sits under this section because what it actually documents is how far away anything is.
+> **Distance measured in days.** **News, Rumor and the Speed of Information** sits under this section because what it actually documents is how far away anything is.
 >
 > Three channels. **The wire** is near-instant, priced by the word, read by the Guild, and follows the sealed conduit, which means it reaches exactly as far as the draw does and no further. A cut district is deaf, and a Withering-era quarter loses its signal net at the same rate it loses pressure. **The post** is cheap, prepaid, and the only channel still serving a cut district. **The mouth** is free, faster over short distances, and wrong.
 >

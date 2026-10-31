@@ -49,7 +49,7 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 | **Vaultmere** *the counting city* | Where the salt is exceptionally dense and dry — **ideal for long-term storage of Parun-bound instruments.** Sealed chambers holding the physical record of every significant agreement in the kingdom's history, **climate-regulated by the salt itself.** Roughly three thousand: archivists, contract scribes, and the calibrators who verify authenticity. *Quiet, deliberate, and slightly oppressive in the way of any place where every surface contains the weight of promises that cannot be unmade. Visiting factors describe it as the place where you can feel the kingdom's memory pressing against your skin* |
 | **Bridgemarch** *the junction* | The central void, where the tunnel network converges and the largest chain-bridges span two hundred feet across open caverns. **Built vertically rather than horizontally**, structures hanging from the ceiling and climbing the walls in tiers. **The sound of chain is constant — a low rhythmic clanking that becomes, for residents, a form of silence.** *More egalitarian, more physical, more inclined to solve problems with engineering than with contracts — a disposition the factor houses regard with the specific wariness of people who understand that the person who maintains the bridge decides whether the bridge stays up* |
 | **Deepvein** *the Wellspring floor* | Lowest of the seven, where the beds are thickest and Contraxis concentration is most intense. **Contracts sealed here hold tighter, last longer, and enforce with a specificity instruments sealed elsewhere do not match — and the difference is measurable.** Roughly two thousand: the kingdom's most senior contract specialists, the Measurewright station, and the handful of scholars studying the Contraxis–Fixatio interaction. *Warm, quiet, and glowing. The Chain Light is constant here, a faint amber radiance that does not flicker and does not need fuel, and the oldest residents claim they can feel the Wellspring the way other people feel weather* |
-| **Rimward** *the eastern frontier* | Newest and most vulnerable, founded ~140 years ago to service corridor trade. Not the Holy Sea of Alabaster's harbour of the same name. Thinner salt, weaker resonance, **and contracts sealed here carry a slight but measurable reduction in enforcement strength.** **The factor houses regard this as a quality-control problem. The Rimward merchants regard it as a competitive advantage** — *because a contract that enforces slightly less rigidly allows slightly more flexibility, and flexibility is what frontier commerce requires* |
+| **Rimward** *the eastern frontier* | Newest and most vulnerable, founded ~140 years ago to service corridor trade. Not the Holy Sea of Alabaster's harbor of the same name. Thinner salt, weaker resonance, **and contracts sealed here carry a slight but measurable reduction in enforcement strength.** **The factor houses regard this as a quality-control problem. The Rimward merchants regard it as a competitive advantage** — *because a contract that enforces slightly less rigidly allows slightly more flexibility, and flexibility is what frontier commerce requires* |
 
 ---
 
@@ -60,7 +60,7 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 | Province · Capital | Character |
 |---|---|
 | **The Ironward** *Ironlink Hold* | Political and financial core. Provincial and kingdom governance are in practice the same thing, **and the Ironward's Chainwarden is traditionally the most junior Council member, given the post as a formality because the Council governs the province directly** |
-| **The Upper Basin** *Halcrest* | The province of arrival and departure — **the one outsiders see first and often the only one they see.** Its Chainwarden holds the external security perimeter, the harbour defences, and the Chain Gate garrison. *The most militarily significant province in a kingdom that does not have a military — a distinction the Chainwarden navigates with the resigned competence of someone asked to defend a thing that refuses to believe it needs defending* |
+| **The Upper Basin** *Halcrest* | The province of arrival and departure — **the one outsiders see first and often the only one they see.** Its Chainwarden holds the external security perimeter, the harbor defenses, and the Chain Gate garrison. *The most militarily significant province in a kingdom that does not have a military — a distinction the Chainwarden navigates with the resigned competence of someone asked to defend a thing that refuses to believe it needs defending* |
 | **The Cuttings** *Cutwall* | Extraction. The six cutting houses operate under their own internal governance, **which the Council regulates but does not administer** — a distinction they defend with an obstinacy that is itself a provincial trait. **The kingdom's most physically dangerous district.** *The safety record is good by any standard except the standard of people who have never been underground* |
 | **The Vaultlands** *Vaultmere* | Archival. **Deliberate, precise, and suspicious of haste in any form.** Home to the kingdom's largest concentration of trained scribes, each of whom completed **a seven-year apprenticeship before being permitted to draft an instrument that would be sealed.** *A factor without a scribe is a man with opinions. A scribe without a factor is a scribe with a full calendar* |
 | **The Span** *Bridgemarch* | Transit. Defined by engineering rather than commerce. **Has produced more Chief Engineers than Council members** — a statistic its residents cite with pride and the Council cites with concern. *The factor houses decide where things go, but the Span decides whether they get there, and the difference matters more than anyone in Ironlink Hold is comfortable admitting* |
@@ -94,7 +94,7 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 
 ## Law and Custom
 
-**The Honour Challenge** · Insulting a merchant's honour is a binding challenge, **because a merchant's honour is a load-bearing financial instrument.** Resolution: retraction, arbitration, or **a formal counter-negotiation in which the accused must demonstrate through prescribed transactions under full Wellspring scrutiny that their conduct meets the standard the accuser claimed it did not.** *The loser pays all costs.*
+**The Honor Challenge** · Insulting a merchant's honor is a binding challenge, **because a merchant's honor is a load-bearing financial instrument.** Resolution: retraction, arbitration, or **a formal counter-negotiation in which the accused must demonstrate through prescribed transactions under full Wellspring scrutiny that their conduct meets the standard the accuser claimed it did not.** *The loser pays all costs.*
 
 **Salt Law** · Property is measured not in area but in salt: **the volume a family's ancestors cut, the tunnels that cutting produced, and the right to maintain them against collapse.**
 > **The Drainage Obligation** is the single most important provision. Every tunnel owner must maintain their drainage to a standard sufficient to prevent intrusion into adjacent tunnels, **because salt fails in standing water.**
@@ -116,14 +116,14 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 
 ---
 
-## Defence
+## Defense
 
 The **Chain Guard**: roughly eight hundred professionals responsible for tunnel security, surface perimeter, and the physical safety of the factor houses. **Competent, well-equipped, and entirely insufficient to resist a determined military assault.**
 > **This does not matter. Taking Nalūn by force accomplishes nothing.**
 >
 > An invading army would find itself responsible for maintaining drainage works that require three centuries of institutional knowledge, **and would fail at it within a season.**
 >
-> The kingdom's actual defence is economic. Every crown, lending house and military supply chain in the four quarters depends on its instruments. ***A war against Nalūn is a war against one's own balance sheet.***
+> The kingdom's actual defense is economic. Every crown, lending house and military supply chain in the four quarters depends on its instruments. ***A war against Nalūn is a war against one's own balance sheet.***
 
 ---
 
@@ -135,7 +135,7 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 
 **Language** · Concord Common spoken with a precision reflecting the culture's relationship to binding language. **Contracts are drafted in a register so exact it has become a technical dialect.**
 
-**Religion** · The Holy Sea maintains a chapel in Ironlink Hold, **staffed by a single cleric whose primary function appears to be banking.** The kingdom's actual devotional life centres on the Wellspring, and the rituals around sealing significant contracts carry a ceremonial gravity that functions as worship.
+**Religion** · The Holy Sea maintains a chapel in Ironlink Hold, **staffed by a single cleric whose primary function appears to be banking.** The kingdom's actual devotional life centers on the Wellspring, and the rituals around sealing significant contracts carry a ceremonial gravity that functions as worship.
 > ***The chain-cities do not pray. They negotiate, and the negotiation is the prayer.***
 
 ---
@@ -169,10 +169,10 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 
 ## Open Rulings
 
-> **Bonded labour.** The Long Reading proposes that **the salt cuttings run on the undocumented as an institution rather than an abuse** — that the Kōkan remnant, unreadable to the Alabaster register, were assigned into cutting-class contracts because a party without standing is not a party. **Muken's own mother is that ruling's test case.**
+> **Bonded labor.** The Long Reading proposes that **the salt cuttings run on the undocumented as an institution rather than an abuse** — that the Kōkan remnant, unreadable to the Alabaster register, were assigned into cutting-class contracts because a party without standing is not a party. **Muken's own mother is that ruling's test case.**
 >
 > *If ratified it goes into this codex and changes how every scene set here reads. Recommended. Currently the Culture section describes three classes and no unfree one*
 >
 > **Cultural anchor · still open.** This entry is written **culture-neutral, grounded in commercial logic.** If an anchor is selected, naming conventions, social customs and institutional detail can be rebuilt in a dedicated pass.
 >
-> **Originated and pending ratification:** the seven-city structure and six of the city profiles (Ironlink Hold's geography is canon); the six provinces and their Chainwardens; the Honour Challenge as counter-negotiation; Salt Law and the Drainage Obligation; the three-class structure; the Chain Light; the seven-year scribe training; the post-war political tension including the Eastern Reach dissent.
+> **Originated and pending ratification:** the seven-city structure and six of the city profiles (Ironlink Hold's geography is canon); the six provinces and their Chainwardens; the Honor Challenge as counter-negotiation; Salt Law and the Drainage Obligation; the three-class structure; the Chain Light; the seven-year scribe training; the post-war political tension including the Eastern Reach dissent.

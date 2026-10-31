@@ -35,11 +35,11 @@ Where a Tier spans two Grades (Storied, Found, Numinous), the upper Grade needs 
 |---|---|---|
 | Weapon (melee) | the hit a working adds | Attack output band |
 | Projectile, round, arrow | speed, and the hit | Attack Speed and Attack output |
-| Armour, ward, shield | what it stops: a strike at or below its Tier's Grade | Attack output band, stamped as the proof-mark |
+| Armor, ward, shield | what it stops: a strike at or below its Tier's Grade | Attack output band, stamped as the proof-mark |
 | Focus, staff, instrument | the working it can channel without failing | the channeller's Grade, capped at the item's |
 | Relic with a standing effect | the effect's strength | the table the effect uses |
 
-**Armour's Tier is its proof.** Proofed plate stops a strike in the D output band and below. The mark states the Tier, the house that tested it and the test. **A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.**
+**Armor's Tier is its proof.** Proofed plate stops a strike in the D output band and below. The mark states the Tier, the house that tested it and the test. **A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.**
 
 ## What an Item Costs to Make
 
@@ -49,10 +49,10 @@ Costs are drawn from the maker's reserve (1 EU = 1 MJ):
 |---|---|---|
 | Enhanced round or arrow | 1% of the maker's reserve each, whatever the energy added, with a floor of 0.001 EU | the maker's Duration; consumed when fired |
 | Enhanced weapon (standing working) | 10% of the maker's reserve, once | until the working is broken, read or unmade |
-| Proofed armour | 25% of the maker's reserve, once | until struck by a strike two Tiers above its proof |
+| Proofed armor | 25% of the maker's reserve, once | until struck by a strike two Tiers above its proof |
 | Relic | the maker's whole reserve, once, and a spell of Essence Starvation after | permanent while its material holds |
 
-**A practitioner can equip themselves but cannot equip an army.** An Apprentice maker (Stage II, reserve about 0.56 EU) can prepare about ninety enhanced rounds from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armour, or one relic.
+**A practitioner can equip themselves but cannot equip an army.** An Apprentice maker (Stage II, reserve about 0.56 EU) can prepare about ninety enhanced rounds from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armor, or one relic.
 
 ## On a Card
 

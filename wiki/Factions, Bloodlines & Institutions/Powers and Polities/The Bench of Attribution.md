@@ -151,4 +151,4 @@ The Crown holds the land, the law, the levy, the tax and the right to hang. The 
 > **The Bench is where that arrangement is actually administered, and it is administered by not being discussed.**
 >
 > A crown that quarrels with the Bench does not lose a war. **It loses entry on the formulas its own arsenals are built around** — quietly, over two or three sittings, on grounds that are every time doctrinally impeccable.
-Two crowns have tried. One withdrew the quarrel. **The other is Kaetran**, and the Kaetran arsenals are still supplied, and the terms on which they are supplied are not published, **and the Bench's Kaetran rulings since have been notably swift and notably favourable** — and the Measurewrights have entered a note observing this **and have not been asked to remove it.**
+Two crowns have tried. One withdrew the quarrel. **The other is Kaetran**, and the Kaetran arsenals are still supplied, and the terms on which they are supplied are not published, **and the Bench's Kaetran rulings since have been notably swift and notably favorable** — and the Measurewrights have entered a note observing this **and have not been asked to remove it.**

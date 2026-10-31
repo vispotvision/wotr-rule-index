@@ -65,7 +65,7 @@ Self-derived by its author, from the concept of a small dream-creature implanted
 
 **Growth** · Rest-driven relaxation follows a stretched exponential, so one long undisturbed night feeds the graft more than six naps.
 
-**Seat** · It sits behind the ribs at the base of the heart, where about 80 percent of vagal fibres carry the body's felt state upward; that is where feeling is read.
+**Seat** · It sits behind the ribs at the base of the heart, where about 80 percent of vagal fibers carry the body's felt state upward; that is where feeling is read.
 
 **Channel** · Core feeling is low-dimensional, about 10 bit/s, far below any carrier's capacity: watching is cheap, the graft is the expense.
 

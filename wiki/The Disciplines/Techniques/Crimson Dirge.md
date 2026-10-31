@@ -8,7 +8,7 @@ title: "Crimson Dirge"
 
 ### Summary card
 
-**Effect** · A sung field up to a thousand metres across in which one verse can reach into a named Wellspring's own law and run it backward, sideways, or against its bearer, burning matter, guilt, or memory depending on which verse is sung and which law it targets.
+**Effect** · A sung field up to a thousand meters across in which one verse can reach into a named Wellspring's own law and run it backward, sideways, or against its bearer, burning matter, guilt, or memory depending on which verse is sung and which law it targets.
 
 **Cost** · Two percent of the caster's own memory bleeds away with every law edited. The hymn does not distinguish between the field's memory and the singer's.
 
@@ -72,7 +72,7 @@ No inventor, teacher, or originating problem is known for the hymn, and its cast
 
 ### Metaphysics
 
-**Aether** · The draw spans four billion cubic metres. The residue is the heaviest there is: stone cracked along old stress lines, flash-frozen water, people with gaps where their guilt was, and ground where Harmonists stay deaf a long time.
+**Aether** · The draw spans four billion cubic meters. The residue is the heaviest there is: stone cracked along old stress lines, flash-frozen water, people with gaps where their guilt was, and ground where Harmonists stay deaf a long time.
 
 **Wellspring** · Judicium, the Wellspring of Truth (Fulguria): the verdict layer, which picks the process each verse takes and confirms the verse has taken.
 
@@ -86,7 +86,7 @@ No inventor, teacher, or originating problem is known for the hymn, and its cast
 
 **Saturation** · A kilometre field at Zenith for six turns is a saturation candidate by scale alone; past the threshold it ends in Crystal Fracture Events in everyone inside, the singer included.
 
-**Theory** · The Debt Position's worst case: a hymn fuelled by the singer's guilt and billing memory it cannot itemise is credit with no statement; the Accord licenses it under Consent.
+**Theory** · The Debt Position's worst case: a hymn fueled by the singer's guilt and billing memory it cannot itemise is credit with no statement; the Accord licenses it under Consent.
 
 **Essence** · The Essence Core pays directly, emotional charge as fuel and memory as price, courting Fracture into Shards; the Attraction Layer carries recognition across the field. Developmental Tier Crystallized Soul.
 
@@ -98,7 +98,7 @@ No inventor, teacher, or originating problem is known for the hymn, and its cast
 
 **Boundary** · One interval per verse: the tempering interval in Exuroth's cycle or the nucleation delay in Catharsis's supercooling.
 
-**Effect** · Singing first, from far off, then the named process stops behaving. The burn follows the target's own stress lines; the stripping is total. The verse picks the effect, not the target, so no defence helps; there is only leaving.
+**Effect** · Singing first, from far off, then the named process stops behaving. The burn follows the target's own stress lines; the stripping is total. The verse picks the effect, not the target, so no defense helps; there is only leaving.
 
 **Hold** · Zenith needs no anchor, but the hymn is sung, the loudest declaration there is; a failed sung working dissipates and committed Essence does not return.
 

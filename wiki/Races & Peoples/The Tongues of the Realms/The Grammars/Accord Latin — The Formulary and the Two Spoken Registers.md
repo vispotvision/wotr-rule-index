@@ -56,7 +56,7 @@ An Accord examiner says *Ars Scripti*. The woman who paid him to cut a ward into
 
 **Four registers of the language itself.**
 
-**Chancery.** Contracts, tolls, registrations, judgements. Fixed formulae, no invention permitted, and a clause not in the formulary is a clause an advocate will attack.
+**Chancery.** Contracts, tolls, registrations, judgments. Fixed formulae, no invention permitted, and a clause not in the formulary is a clause an advocate will attack.
 
 **Liturgical.** Consecration and rite. Older, more archaic, and the register the orders guard.
 
@@ -109,7 +109,7 @@ This is the real reason the guilds hold Spellcraft in contempt and the real reas
 
 **Pitched, not asserted. Quantitative, not stressed.** The chant runs in metrical feet built from vowel length, and the length is the mechanism. A short vowel held long or a long vowel clipped is not an accent. It is a different line, and the chant stops.
 
-**It scales with throats, and it cannot be practised alone.** Anything above trivial requires more than one voice, and the requirement is not ceremonial. The sustained vowel has to be carried continuously while the line advances, which one set of lungs cannot do, so the voices overlap and hand the vowel between them. Three is the working minimum. Serious work runs to nine and to more.
+**It scales with throats, and it cannot be practiced alone.** Anything above trivial requires more than one voice, and the requirement is not ceremonial. The sustained vowel has to be carried continuously while the line advances, which one set of lungs cannot do, so the voices overlap and hand the vowel between them. Three is the working minimum. Serious work runs to nine and to more.
 > *Teneat murus. Teneat. Teneat.*
 >
 > Let the wall hold. Let it hold. Let it hold.
@@ -176,15 +176,15 @@ The third clause is the one novices are made to sit with. The orders do not glos
 
 **Goblinoid speakers** cannot produce a vowel-initial word without effort and cannot hear quantity at all, since Vaross marks weight by holding rather than by phonemic length. Mandate clerks are trained on the chancery register exclusively and are excellent at it. Mandate choristers effectively do not exist.
 
-**Dawi speakers** are the best in the four quarters at *Cantus* and the reason is mechanical: quantity is phonemic in Runic Dawi and Mathematical Cadence trains the ear on metre from childhood. A Dawi chorister hears a false quantity before the syllable has finished. Dawi clerks in the chancery register voice nothing and are read as blunt.
+**Dawi speakers** are the best in the four quarters at *Cantus* and the reason is mechanical: quantity is phonemic in Runic Dawi and Mathematical Cadence trains the ear on meter from childhood. A Dawi chorister hears a false quantity before the syllable has finished. Dawi clerks in the chancery register voice nothing and are read as blunt.
 
-**Eressean speakers** handle the metre easily and the invocation register with visible distaste, because *Vox* has no first person and no witness slot, and an Eressean is being asked to speak a sentence that names nobody and stands for nothing. Most simply decline to use it, which the Accord records as a preference and which is, in Eressean terms, closer to a refusal.
+**Eressean speakers** handle the meter easily and the invocation register with visible distaste, because *Vox* has no first person and no witness slot, and an Eressean is being asked to speak a sentence that names nobody and stands for nothing. Most simply decline to use it, which the Accord records as a preference and which is, in Eressean terms, closer to a refusal.
 
 ## Provenance and Rulings Applied
 
 Attested in canon: the four Accord craft names *Ars Operis*, *Ars Vocis*, *Ars Scripti* and *Ars Vasis*, the Latinate and vernacular doublet with its contempt column, Spellcraft as the craft of the poor and the desperate requiring no substrate or guild, Draftcraft as the commercial craft, Runecraft as the high craft, and the Accord's role as the neutral instrument nobody dreams in.
 
-**Chantcraft is accepted, as a fifth craft.** *Ars Cantus* stands. The alternative was folding it into Spellcraft with tone as a delivery vector, and that loses the institutional reading, which is the most valuable thing in it: a craft that scales with throats cannot be practised alone, and a craft that cannot be practised alone must have orders, rosters and a novice-master, and can be destroyed by a fever. Nothing else in the system produces that.
+**Chantcraft is accepted, as a fifth craft.** *Ars Cantus* stands. The alternative was folding it into Spellcraft with tone as a delivery vector, and that loses the institutional reading, which is the most valuable thing in it: a craft that scales with throats cannot be practiced alone, and a craft that cannot be practiced alone must have orders, rosters and a novice-master, and can be destroyed by a fever. Nothing else in the system produces that.
 
 **The count stays four in the Accord's own mouth**, and the reason is jurisdictional rather than arithmetical. Chantcraft has never been an Accord examination category, because the orders examine their own in office books older than the chancery, and the Accord has never pressed a claim it expected to lose in public. The document called *The Four Crafts* is therefore correctly named from the Accord's side and undercounts from everyone else's, which is exactly the kind of thing the Accord does.
 

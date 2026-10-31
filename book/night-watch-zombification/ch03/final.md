@@ -24,7 +24,7 @@ An iron handle, cold, under a right hand that was not his. A lamp somewhere behi
 
 Then the paper.
 
-He unfolded it on his knee. His own hand, younger and smaller, in a brown ink that had since gone the colour of tea. *Keld, O. Door on the landing. Handle iron, cold. Right hand. Lamp behind. Count at thirty-one. Legs tired. Not afraid. Bread, dark, butter. Says: "Sixth. They said the sixth. Hold it to the sixth."*
+He unfolded it on his knee. His own hand, younger and smaller, in a brown ink that had since gone the color of tea. *Keld, O. Door on the landing. Handle iron, cold. Right hand. Lamp behind. Count at thirty-one. Legs tired. Not afraid. Bread, dark, butter. Says: "Sixth. They said the sixth. Hold it to the sixth."*
 
 He read the paper against the minute, word by word, once forward and once backward.
 
@@ -38,11 +38,11 @@ The medical house stood two streets over, behind the Division's stables, a long 
 
 The porter knew his face. The man looked at it a moment, the way a wire-boy reads a face before he can read the wire, and let him up.
 
-Keld's room was on the upper floor at the end. Whitewash, a cot, a washstand, a peg with the Division coat hanging on it and the silver-grey at the shoulder still bright, because nobody had worn it through anything for years. In the coat's breast, Wystan knew, was Keld's token. Silver. Nobody had ever come to take it back.
+Keld's room was on the upper floor at the end. Whitewash, a cot, a washstand, a peg with the Division coat hanging on it and the silver-gray at the shoulder still bright, because nobody had worn it through anything for years. In the coat's breast, Wystan knew, was Keld's token. Silver. Nobody had ever come to take it back.
 
 Keld sat at the window in a chair turned to face the street.
 
-A big man, gone loose in the frame. The shoulders were still wide and the chest had fallen in under them. The orderlies kept his hair cropped to the skull and shaved him every second day, and today was not the day, so the grey showed along the jaw. A clean shirt. Grey Division trousers, a blanket across the knees though the room was warm. His hands lay on the sill, square and heavy, with the knuckles scarred white from something that had happened before Wystan ever knew him.
+A big man, gone loose in the frame. The shoulders were still wide and the chest had fallen in under them. The orderlies kept his hair cropped to the skull and shaved him every second day, and today was not the day, so the gray showed along the jaw. A clean shirt. Grey Division trousers, a blanket across the knees though the room was warm. His hands lay on the sill, square and heavy, with the knuckles scarred white from something that had happened before Wystan ever knew him.
 
 "Master Keld."
 
@@ -90,7 +90,7 @@ Keld was watching the street.
 
 The day desk had its stove lit and its chalk slate filled, and the Prime Warden was standing at the lectern with the docket book open in front of her and one finger under a line.
 
-Elspeth Lyle was a small woman, shorter than the lectern made her look, somewhere near sixty, with iron-grey hair drawn back so tight from the forehead that it lifted the brows. She wore the black gown of the office with the Division's silver-grey at the shoulder unworn and very clean. Spectacles low on the nose, on a black ribbon. A silver token on a short chain at her belt, and it swung when she turned a page. Ink on the side of the second finger of the right hand, the mark of a woman who still wrote her own minutes.
+Elspeth Lyle was a small woman, shorter than the lectern made her look, somewhere near sixty, with iron-gray hair drawn back so tight from the forehead that it lifted the brows. She wore the black gown of the office with the Division's silver-gray at the shoulder unworn and very clean. Spectacles low on the nose, on a black ribbon. A silver token on a short chain at her belt, and it swung when she turned a page. Ink on the side of the second finger of the right hand, the mark of a woman who still wrote her own minutes.
 
 The day clerk was at the far end, very busy.
 
@@ -148,7 +148,7 @@ The upper passage was narrow and ill-lit, with the Prime Warden's door at the en
 
 "Ashmore."
 
-Edwyn Brack was a broad man of about fifty with a short neck and a clean-shaven red face that looked scrubbed. His grey hair was cut close all over. A pair of gold-wire spectacles was pushed up onto his forehead and forgotten there. He wore the Bureau's grey worsted, good cloth, and on the pad of his right thumb a shiny white scar the size of a thumbnail, the old burn a man gets once from holding a coil wrong and never again. He held the folder against his chest in both hands. Its tape was the Bureau's green.
+Edwyn Brack was a broad man of about fifty with a short neck and a clean-shaven red face that looked scrubbed. His gray hair was cut close all over. A pair of gold-wire spectacles was pushed up onto his forehead and forgotten there. He wore the Bureau's gray worsted, good cloth, and on the pad of his right thumb a shiny white scar the size of a thumbnail, the old burn a man gets once from holding a coil wrong and never again. He held the folder against his chest in both hands. Its tape was the Bureau's green.
 
 "Master Brack."
 

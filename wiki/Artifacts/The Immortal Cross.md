@@ -24,7 +24,7 @@ And Ashura's blood cannot close it at all. A hand with an Epoch in it does not s
 
 ## Where it is kept
 
-The Cross lies in the deepest archive of the Cedar Enclave: the four arms wrapped apart in oiled cloth, the heart alone in a cedar box. The head of the house and the keeper of the archive know the room. Outside the family the Cross is a rumour; the old Moto registers name it, and the Seikai learned of it.
+The Cross lies in the deepest archive of the Cedar Enclave: the four arms wrapped apart in oiled cloth, the heart alone in a cedar box. The head of the house and the keeper of the archive know the room. Outside the family the Cross is a rumor; the old Moto registers name it, and the Seikai learned of it.
 
 The archive keeps a short register of those who were brought to try, with the house's leave, across the long Third Epoch. None seated more than two arms. Most could not seat the Seikai arm, because a mortal who has understood what can be reached alone has usually already reached for it. The Yukari believe the Seikai never came for the Cross at all. They tried to make its heart without it, by cutting into Ashura herself, and that cut is the seam Senri went into.
 
@@ -36,7 +36,7 @@ With the seam open, the Soul Plane's recognition stutters, and the house holds t
 
 ## Summary card
 
-**Effect** · Closed, the Cross holds its bearer under Null-Light without a gap, and the one change it watches cannot proceed: the Crossing that begins at death, and the slow approach to it that is age. The bearer stops ageing at the hour of closing and cannot die. A body destroyed is rendered again from its recognised pattern in the Soul Plane over nine days, the length of a Crossing held open.
+**Effect** · Closed, the Cross holds its bearer under Null-Light without a gap, and the one change it watches cannot proceed: the Crossing that begins at death, and the slow approach to it that is age. The bearer stops aging at the hour of closing and cannot die. A body destroyed is rendered again from its recognised pattern in the Soul Plane over nine days, the length of a Crossing held open.
 
 **Cost** · Closing takes the closer's whole reserve at once and leaves a spell of Essence Starvation after it. From then on the hold is fed from the Soul Plane and costs the bearer nothing in Essence. It costs everything else: the bearer can never pass the Still Gate, never follow anyone who has, and every grief stays exactly as it was on the day it landed.
 

@@ -9,7 +9,7 @@ title: "The Called · Summon Register"
 *The register of things called, and what answers when they are.*
 > Every summon entry answers the same questions in the same order, and **the order is doctrine.** Provenance before appearance. **What holds it together before what it can do.** Cost and counterplay in the same breath as the technique.
 >
-> **An entry that records what a called thing can do without recording what is paying for it has recorded a rumour.**
+> **An entry that records what a called thing can do without recording what is paying for it has recorded a rumor.**
 
 ---
 
@@ -75,7 +75,7 @@ title: "The Called · Summon Register"
 
 | Class | Latitude | Failure mode |
 |---|---|---|
-| **Directed** | Executes the order as spoken. No judgement, no adaptation | Follows a bad order off a cliff and does it precisely |
+| **Directed** | Executes the order as spoken. No judgment, no adaptation | Follows a bad order off a cliff and does it precisely |
 | **Interpretive** | Adapts method freely, holds to stated intent | Reads the intent wrong and commits to the reading |
 | **Consenting** | May refuse an order that contradicts its own nature | Refuses at the worst possible moment, **and is right to** |
 | **Sovereign** | Negotiates terms, and may impose them as a condition of answering at all | The price is agreed before the fight and paid long after it |
@@ -89,7 +89,7 @@ title: "The Called · Summon Register"
 | **Authorization** | Notifies the Continuum which Wellsprings are being invoked and by whose standing |
 |---|---|
 | **Boundary** | Spatial and temporal limits. Where it may operate and how long it may persist |
-| **Direction** | The behavioural vector. Guard, strike, scout, carry, witness |
+| **Direction** | The behavioral vector. Guard, strike, scout, carry, witness |
 | **Sealing** | Clean dissolution when the working ends. **The role practitioners skip and the one that kills them** |
 
 ---

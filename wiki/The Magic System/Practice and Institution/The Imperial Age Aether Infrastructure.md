@@ -28,7 +28,7 @@ A charged main is audible. Not loudly, and not as sound exactly, but a live dist
 
 Every lawful draw passes a meter, and the meter is the whole of the Imperial Age in one object.
 
-It counts, it is sealed, and the seal is the property of the Board rather than of the householder. **Breaking a seal is a specific offence with its own tariff, prosecuted more reliably than assault**, because the seal is the instrument by which the Board exists.
+It counts, it is sealed, and the seal is the property of the Board rather than of the householder. **Breaking a seal is a specific offense with its own tariff, prosecuted more reliably than assault**, because the seal is the instrument by which the Board exists.
 
 **Supply grades:**
 - **Sealed domestic.** Heat, light, warded doorframes, a working stove. Metered, capped, cheap, and adulterated in the sense that the density delivered is below what the tariff implies and everyone knows it.
@@ -58,11 +58,11 @@ Density delivered below tariff is the ordinary condition of poor districts, and 
 
 ## VI. Powder and Proof
 
-Gunpowder is ordinary and old, and it is the reason armour did not die.
+Gunpowder is ordinary and old, and it is the reason armor did not die.
 
-**Shot is chemically cheap. A working is not.** A musket ball costs a fraction of a penny and a practitioner's expenditure is drawn against a reserve that took years to build, so the economics of an engagement between the two never favoured the practitioner and still do not.
+**Shot is chemically cheap. A working is not.** A musket ball costs a fraction of a penny and a practitioner's expenditure is drawn against a reserve that took years to build, so the economics of an engagement between the two never favored the practitioner and still do not.
 
-**Proofed plate** is armour tested by firing at it and marked with the result. **The proof-mark is the whole industry**: a stamp naming the house, the charge tested, and the range. Plate proofed against a pistol at twenty paces carries a different mark from plate proofed against a musket at fifty, and the marks are forged constantly.
+**Proofed plate** is armor tested by firing at it and marked with the result. **The proof-mark is the whole industry**: a stamp naming the house, the charge tested, and the range. Plate proofed against a pistol at twenty paces carries a different mark from plate proofed against a musket at fifty, and the marks are forged constantly.
 > *A proof-mark is a promise about a specific charge at a specific range, made by a workshop that may no longer exist, on a piece of steel that has since been repaired twice. Every soldier who has bought his own harness knows this and buys anyway, because the alternative is buying nothing.*
 
 ## VII. Rail, Wire and the Rest

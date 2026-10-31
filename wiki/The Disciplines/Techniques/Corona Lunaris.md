@@ -70,7 +70,7 @@ Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, r
 
 **Wellspring** · Aurevane, the Wellspring of Light (Fulguria): coherent light holds one phase across its front and fine points resolve when their patterns separate, so perception sharpens and output leaves the Shell undistorted.
 
-**Terrain** · Fulguria is favoured by dry air, conductive ground and clear sight, and suppressed by Faraday-caged interiors, heavy ferrous shielding and dense fog; fog scatters the coherence Aurevane needs.
+**Terrain** · Fulguria is favored by dry air, conductive ground and clear sight, and suppressed by Faraday-caged interiors, heavy ferrous shielding and dense fog; fog scatters the coherence Aurevane needs.
 
 **Inherited failures** · Aurevane's Glare: coherent output is a beacon, and the 8,300 K surface is Glare stated in kelvin.
 
@@ -78,13 +78,13 @@ Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, r
 
 **Essence** · The Aether Shell carries it and suffers both failures: Lunar Burn is Clouding, burned pathways with headaches and light sensitivity; the dome shattering at threshold is Rupture. Developmental Tier Harmonic, Radiant from Transcendence.
 
-**School** · The colour-philosophers read brightness as harm departing, so a brighter corona seems safer; it is not, since the light is material, something can eat it, and some attacks give the corona nothing to turn.
+**School** · The color-philosophers read brightness as harm departing, so a brighter corona seems safer; it is not, since the light is material, something can eat it, and some attacks give the corona nothing to turn.
 
 ### Mechanism
 
 **Glyph** · Boundary (Zhaeren), for a working whose whole content is where the interface sits, laid across Light (Maelor).
 
-**Boundary** · The reflectance of a surface about one and a half metres around a body, where air has none.
+**Boundary** · The reflectance of a surface about one and a half meters around a body, where air has none.
 
 **Effect** · An Aetheric attack reaches the dome, spreads across it, loses its lethal vector and leaves sideways as a flash scaled to what was thrown. Physical force is not converted: a fist, blade or hammer passes through as ordinary impact.
 

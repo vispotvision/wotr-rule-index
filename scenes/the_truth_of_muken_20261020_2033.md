@@ -4,7 +4,7 @@ The question lay on the low table where the Sovereign had set it, between the cl
 
 Under the floor the stream went on talking to itself against the foundation posts. Somewhere at the back of the hall a lamp-wick needed trimming and was spitting about it, a small dry tick every few breaths, and the smoke from it went straight up in the still air and flattened against the beams. The Yukari built their long halls of cedar over limestone footings, and the whole room smelled of both, clean wood and cold stone, with the steam off the tea gone thin and grassy as it cooled.
 
-Kiyome Byakuya sat with her hands open on her knees. The white of her sleeves had picked up a grey line of road dust at the cuffs that had not been there when she came in, a long smear where she had braced her forearm on the northern gatepost dismounting, and she had not brushed it off. Her sword lay on the mat at her right side with its hilt toward her and the white knot of her house bound around the guard. Her eyes went to the knot once. Then they came up, pale grey and very steady, and settled on the Sovereign of Kushara.
+Kiyome Byakuya sat with her hands open on her knees. The white of her sleeves had picked up a gray line of road dust at the cuffs that had not been there when she came in, a long smear where she had braced her forearm on the northern gatepost dismounting, and she had not brushed it off. Her sword lay on the mat at her right side with its hilt toward her and the white knot of her house bound around the guard. Her eyes went to the knot once. Then they came up, pale gray and very steady, and settled on the Sovereign of Kushara.
 
 "You asked whether the boy is why we came," she said. "He is. You have been honest with us, Sovereign, more honest than our own council has been in years, and I won't sit in this house and answer you with half of it."
 
@@ -52,7 +52,7 @@ He said it to the table at first. Then he lifted his eyes and said it again, to 
 
 He turned his whole body on the cushion, slowly, until he faced the Sovereign square.
 
-"You asked me what changed my mind. I'll give you the truth, since you said you'd rather have that from a man who's made terrible decisions than a polished apology." The scarred hands opened on the sword-hilt and lay flat. "Nothing honourable changed it. I'd like to sit here and tell you I woke one morning with the Sennen road on my conscience. I didn't. I supported that campaign. I sat in council and argued for it. My granaries fed the columns that went down that road, and I signed the provisioning orders myself, in my own hand, with my own seal, and I knew what those columns would do to every settlement standing between them and the river. I knew, and I signed."
+"You asked me what changed my mind. I'll give you the truth, since you said you'd rather have that from a man who's made terrible decisions than a polished apology." The scarred hands opened on the sword-hilt and lay flat. "Nothing honorable changed it. I'd like to sit here and tell you I woke one morning with the Sennen road on my conscience. I didn't. I supported that campaign. I sat in council and argued for it. My granaries fed the columns that went down that road, and I signed the provisioning orders myself, in my own hand, with my own seal, and I knew what those columns would do to every settlement standing between them and the river. I knew, and I signed."
 
 Hayato shut his eyes for half a breath.
 
@@ -140,7 +140,7 @@ Kiyome bowed from the waist, low, her forehead nearly to the cedar, and held it 
 
 When she straightened she turned back to the far side of the table, to the young man sitting beside his father.
 
-"Prince Dougou." Her voice was quite level. "You said your people are starving too, and that you won't pretend their suffering went away because ours got too loud to ignore. I'm not asking you to. I'd think less of you if you did." She folded her hands in her lap, over the grey line of road dust on her sleeve. "You asked what we're prepared to lose. You've heard it. Lord Tetsugen's books and his valley. Lord Hayato's roads. My house's oath, and the crown it was built to keep. None of that buys your dead back. I know it doesn't."
+"Prince Dougou." Her voice was quite level. "You said your people are starving too, and that you won't pretend their suffering went away because ours got too loud to ignore. I'm not asking you to. I'd think less of you if you did." She folded her hands in her lap, over the gray line of road dust on her sleeve. "You asked what we're prepared to lose. You've heard it. Lord Tetsugen's books and his valley. Lord Hayato's roads. My house's oath, and the crown it was built to keep. None of that buys your dead back. I know it doesn't."
 
 She looked at him for a long moment, and the white knot lay still at her side.
 

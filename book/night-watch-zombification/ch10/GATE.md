@@ -46,7 +46,7 @@ In the coldhouse at night, the ninth hind stands up off the table. She leans tow
 
 - **Planted:** none (the outline gives `plants: []`).
 - **Paid:** H21-the-ninth-hind, in full. Quotes: "The ninth hind stood up off the table." / "The hind reached the standpipe." / she "lay against the iron where she had put herself, and stayed down."
-- **Touched, not paid:** H07-warm-hands ("They were the colour of hands."), H10-vesks-grafts, H16-thirty-one-days, H18-the-project-name-is-the-file, H28-foss-released.
+- **Touched, not paid:** H07-warm-hands ("They were the color of hands."), H10-vesks-grafts, H16-thirty-one-days, H18-the-project-name-is-the-file, H28-foss-released.
 
 ## Front ticked
 

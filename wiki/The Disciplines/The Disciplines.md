@@ -57,7 +57,7 @@ Every named discipline in the Continuum decomposes into these categories. A disc
 | **Mnemata** | Spirit ↔ Attraction | Dream records, ancestral fields, temporal imprints, and historical echo-law. Memory stored as residual frequency rather than as narrative. |
 | **Crystalia** | Body ↔ Spirit | The engineering, forging, and refinement of Soul Crystals themselves. |
 | **Ritus** | Spirit | Ritual activation. Ceremonial, communal, and slow, and the ancestor of every field-capable discipline that later internalised what the circle used to externalise. |
-| **Domain Weaving** | Attraction | Deliberate reshaping of local Continuum behaviour so that a chosen law becomes easier to sustain within a defined space. |
+| **Domain Weaving** | Attraction | Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space. |
 | **Arts** | Body | Spirit Forge techniques, Binding Arts, and Resonant Forms. The physical and material infrastructure through which the other categories are given a body. |
 | **Aetherica** | Triadic Convergence | The measurement substrate. Frequency values, interaction patterns, standardized tonal profiles. |
 | **Concordia** | Spirit ↔ Attraction **Apex** | Alignment of multiple Aether bodies, Wellsprings, and Domains into a single coherent field. Synergia and Harmonia scaled up and made durable rather than momentary. |
@@ -98,14 +98,14 @@ The documents in this section do not share a voice, and reading them correctly m
 | Register | Voice | Speaks to |
 |---|---|---|
 | **Aetherica codex** | Structural and clinical. Taxonomic classification, Temperance Gates, tiered progression, failure modes stated as conditions. | The Sage Arts, the Spirit Rune Arts, the Spirit Summoning Arts, the Harmonic Arts |
-| **The Codex of Three Planes** | Liturgical. Function described as sacred labour; the Works named in the older tongue. | Hataraki |
+| **The Codex of Three Planes** | Liturgical. Function described as sacred labor; the Works named in the older tongue. | Hataraki |
 | **Bara Moto's own hand** | Contemptuous, exact, and administrative. A founder addressing his descendants across an unmeasured gulf of time, largely to tell them where they are going wrong. | Moto no Gei |
 
 ---
 
 ## Entries
 
-Read **Hataraki** first. Everything else in the Continuum is a way of performing a labour it already authorised.
+Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorised.
 
 The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates. The four that follow are **bloodline and personal arts** — the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
 
@@ -125,7 +125,7 @@ The first five entries are the general disciplines, open in principle to any pra
 
 ## The Practitioner Disciplines
 
-These are the named arts a practitioner *trains*, as opposed to the labours the Continuum authorises. They are catalogued by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
+These are the named arts a practitioner *trains*, as opposed to the labors the Continuum authorises. They are catalogd by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
 
 Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Asami** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**

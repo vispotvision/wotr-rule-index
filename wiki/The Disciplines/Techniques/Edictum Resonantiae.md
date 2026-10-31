@@ -8,13 +8,13 @@ title: "Edictum Resonantiae"
 
 ### Summary card
 
-**Effect** · Inside a 200 metre dome, one named kind of action is barred or rerouted to a milder outcome: a lethal blow lands as a disarm. The Edict, not the speaker, is what refuses.
+**Effect** · Inside a 200 meter dome, one named kind of action is barred or rerouted to a milder outcome: a lethal blow lands as a disarm. The Edict, not the speaker, is what refuses.
 
 **Cost** · 12 percent of full reserve for the first Edict, each later one a quarter more until the voice has rested a full day. The speaker must embody the Edict, and breaking its spirit returns the backlash to their own Crystal.
 
 **Limit** · One category of action per casting; narrow wording bites hard and broad wording barely registers.
 
-**Counter** · The speaker breaking their own Edict, an opposing Edict at the cost of both, or the neighbouring action. Strong personal Domains partly ignore it, and a genuine Fate or Archonic mandate overrides it.
+**Counter** · The speaker breaking their own Edict, an opposing Edict at the cost of both, or the neighboring action. Strong personal Domains partly ignore it, and a genuine Fate or Archonic mandate overrides it.
 
 **What nobody knows** · Why an Edict spoken cynically, in the letter but not the spirit, still holds; one school says the rule reads the wording and never the speaker, and the question stays open.
 
@@ -84,7 +84,7 @@ title: "Edictum Resonantiae"
 
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): the rule covers a class of trajectories, so an action just outside the letter of the wording is still inside it.
 
-**Inherited failures** · Judicium's spectral overload is why a broad Edict is weak; Aurevane's glare makes the dome a beacon two hundred metres across.
+**Inherited failures** · Judicium's spectral overload is why a broad Edict is weak; Aurevane's glare makes the dome a beacon two hundred meters across.
 
 **Essence** · The Attraction Layer pays, and its failure, Obsession Force, is the real risk: a caster who cannot release an Edict. The speaker must embody it throughout; breaking its spirit returns the backlash to their own Crystal. Developmental Tier Radiant at Transcendence.
 
@@ -96,7 +96,7 @@ title: "Edictum Resonantiae"
 
 **Boundary** · The set of outcomes reachable by one named class of action inside the dome; not strength, trajectory or energy.
 
-**Effect** · A spoken Edict and a staff struck into the ground; for two hundred metres the bound action meets water-like resistance, then fails or resolves into the named alternative: the lethal blow lands as a disarm. The refusal has no author in it.
+**Effect** · A spoken Edict and a staff struck into the ground; for two hundred meters the bound action meets water-like resistance, then fails or resolves into the named alternative: the lethal blow lands as a disarm. The refusal has no author in it.
 
 **Wording** · Narrow wording leaves few routes and bites hard; broad wording leaves many and barely registers. The wording is the working.
 
@@ -108,7 +108,7 @@ title: "Edictum Resonantiae"
 
 **Failure** · Coherence fault: the speaker's conduct and stated law drift apart, output degrades across castings, Thresholds refuse and Traits argue; Tempering Coherence reads it.
 
-**Bleed** · 20 to 30 percent leaves the Shell as heat, invisible per cubic metre and large in total; its lasting share is the roughened voice.
+**Bleed** · 20 to 30 percent leaves the Shell as heat, invisible per cubic meter and large in total; its lasting share is the roughened voice.
 
 ### Essence
 
@@ -129,8 +129,8 @@ title: "Edictum Resonantiae"
 
 **Tell** · The speaker names the forbidden category aloud and strikes the ground; everyone who heard knows the terms binding the speaker too. The echo marks the ground afterwards.
 
-**Limits** · One category per casting, a 200 m dome centred on the speaker, three turns and an echo; broad wording is weak; the speaker must stay present and consistent.
+**Limits** · One category per casting, a 200 m dome centerd on the speaker, three turns and an echo; broad wording is weak; the speaker must stay present and consistent.
 
-**Fails against** · The speaker breaking their own Edict, with the backlash landing on their Crystal; a countersigned or spoken-back Seal; an opposing Edict, at the cost of both; the neighbouring action; a Void tear, at a price; fog and shielded interiors.
+**Fails against** · The speaker breaking their own Edict, with the backlash landing on their Crystal; a countersigned or spoken-back Seal; an opposing Edict, at the cost of both; the neighboring action; a Void tear, at a price; fog and shielded interiors.
 
 **Look up** · The Counterplay register on vows, Shear Breaks and Seals; the Judicium, Aurevane and Oneirion Failures; the Attraction Layer and Obsession Force; the Coherence fault; the Transcendence Stage table.

@@ -86,7 +86,7 @@ Its author devised this working alone. It carries no filed counter beyond what a
 
 ### Mechanism
 
-**Glyph** · Frequency (Selhar) laid across Edge (Thalen) for the hundred-metre line.
+**Glyph** · Frequency (Selhar) laid across Edge (Thalen) for the hundred-meter line.
 
 **Boundary** · The continuity of one named vibrational mode along a line; not the material and not the energy.
 

@@ -10,9 +10,9 @@ His calves had not forgiven him the night at the stone. The left one still had t
 
 The first lick stood in the corner of the second field, where the round crossed the headland.
 
-It was an oak post, squared, knee-high, with the top cut out into a hollow and a block wedged down into the hollow. The block was grey salt with a rust-brown streak through it. It had been licked in on all four faces to a waist. Round the post the ground was trodden to mud and printed over with slots. Hinds, mostly. One stag, deeper, the toes splayed.
+It was an oak post, squared, knee-high, with the top cut out into a hollow and a block wedged down into the hollow. The block was gray salt with a rust-brown streak through it. It had been licked in on all four faces to a waist. Round the post the ground was trodden to mud and printed over with slots. Hinds, mostly. One stag, deeper, the toes splayed.
 
-He did not touch it. He took the day book out of his coat and wrote *lick. oak post. headland. grey salt, brown streak*, and the division after it, and put the pencil away.
+He did not touch it. He took the day book out of his coat and wrote *lick. oak post. headland. gray salt, brown streak*, and the division after it, and put the pencil away.
 
 "That's what they put their mouths to," Yinzhi said.
 
@@ -30,7 +30,7 @@ He had his back to the round. A carrier's frame of ash lay on the grass beside h
 
 He heard them late. He got up in stages, one hand on the post.
 
-He was short and thick through the chest and bowed at the knee. He wore a sheepskin jerkin with the wool turned in, and gaiters of cracked leather over boots packed at the tops with straw. Grey stubble. A knitted cap pulled down to the eyebrows. His hands were broad and split across every knuckle, and the splits were packed white with salt. Round his neck on a thong hung a length of hazel, notched down one edge and cut along its length: one half of a tally.
+He was short and thick through the chest and bowed at the knee. He wore a sheepskin jerkin with the wool turned in, and gaiters of cracked leather over boots packed at the tops with straw. Gray stubble. A knitted cap pulled down to the eyebrows. His hands were broad and split across every knuckle, and the splits were packed white with salt. Round his neck on a thong hung a length of hazel, notched down one edge and cut along its length: one half of a tally.
 
 Wystan took the brass out of his waistcoat and showed it on his palm.
 
@@ -66,7 +66,7 @@ The old block lay on the grass where the beetle had knocked it. It was white, wo
 
 "The old ones were white."
 
-"Plain salt, that. These are tonic." Josse went down on one knee by the frame and turned the sacking back. The blocks inside were stacked on their ends, each the size of an assize loaf, grey, with the brown gone through them at the slant. "There's a tonic in with the salt, see, the brown. For the coat and the feet, through the back end of winter. They come out of winter with a better coat on them. New this season."
+"Plain salt, that. These are tonic." Josse went down on one knee by the frame and turned the sacking back. The blocks inside were stacked on their ends, each the size of an assize loaf, gray, with the brown gone through them at the slant. "There's a tonic in with the salt, see, the brown. For the coat and the feet, through the back end of winter. They come out of winter with a better coat on them. New this season."
 
 "Who paid for them?"
 
@@ -164,7 +164,7 @@ He was kneeling in the birch with the frame off his back.
 
 The old block came out of the post-top at the third knock, a white stub worn down to nothing, and he picked it out of the hollow with two fingers and dropped it in the sack for the hens at home. The new one was cold from the sack. He stood it on its end in the hollow, and put the heel of his hand on its top, and leaned. It went down into the cut wood and stopped. He took up the beetle and gave it two taps, one on each shoulder of the block, and felt it seat.
 
-His knees were wet through the gaiters and he did not mind it. His back was easy with the frame off. There was dark bread in the front of his jerkin for when he was home, and a thrush up in the birch going over the same few notes, and he was humming with it and a little behind. He looked at the block standing in the post, square and new, grey with the brown gone through, and he was pleased with it. That was all there was in him. It filled him to the edges and there was room left over.
+His knees were wet through the gaiters and he did not mind it. His back was easy with the frame off. There was dark bread in the front of his jerkin for when he was home, and a thrush up in the birch going over the same few notes, and he was humming with it and a little behind. He looked at the block standing in the post, square and new, gray with the brown gone through, and he was pleased with it. That was all there was in him. It filled him to the edges and there was room left over.
 
 The birch closed north of him. He did not look that way. He had no call to.
 

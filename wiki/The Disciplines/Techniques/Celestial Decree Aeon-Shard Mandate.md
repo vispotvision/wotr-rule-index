@@ -77,7 +77,7 @@ The Mandate is a self-derived technique and requires Stage XII; anyone who has n
 
 **Wellspring** · Oneirion with Tenebra for perception rewritten: a configuration-space law plus signal suppression.
 
-**Terrain** · Limina is favoured by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains.
+**Terrain** · Limina is favored by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains.
 
 **Inherited failures** · Dissolution's indiscriminate solvency: the beam takes the load-bearing members of anything it crosses, ground under the caster included; every paired Wellspring's documented failure rides along and can be induced.
 

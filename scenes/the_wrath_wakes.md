@@ -8,11 +8,11 @@ They had been beautiful once, in the way the Hall's ironwork was always beautifu
 
 He did not move. He lay with his face to the welkin and watched it come apart.
 
-Hell was not dark. Nobody who had been there would have called it dark. The sky over the Pit was the red of a forge mouth from edge to edge, banded higher up with sulphur-yellow and a green so bright it hurt, where the vents breathed into it, and the cinnabar river at the foot of the slab threw rose light up the wet black cliffs in sheets that moved as the current moved. Somewhere out in the glare a basalt column cracked with a report like a gun and a pillar of steam went up white and hung. The air shook with the low continuous roar of the vents, so constant that the ear stopped hearing it and only the teeth went on knowing it was there. It smelled of sulphur and hot stone and, faintly, of incense, which he had never been able to explain.
+Hell was not dark. Nobody who had been there would have called it dark. The sky over the Pit was the red of a forge mouth from edge to edge, banded higher up with sulfur-yellow and a green so bright it hurt, where the vents breathed into it, and the cinnabar river at the foot of the slab threw rose light up the wet black cliffs in sheets that moved as the current moved. Somewhere out in the glare a basalt column cracked with a report like a gun and a pillar of steam went up white and hung. The air shook with the low continuous roar of the vents, so constant that the ear stopped hearing it and only the teeth went on knowing it was there. It smelled of sulfur and hot stone and, faintly, of incense, which he had never been able to explain.
 
 The memory came the way it always came, whole and exact and without any warning, a stain that no amount of heat had ever burned out.
 
-The black floor of the Hall of Verdicts. The shaft of grey daylight coming down through the round opening in the roof. The seven chairs in their colours round the circle of old script, and his own wrists heavy in the irons, and Tsuyu kneeling in the place under the light with her hair pinned up off her neck the way the Kurenai require, because he had pinned it himself that morning, before he knew. Jinsuke's sandals on the stone. The crimson inlay down the spine of the blade. The sound it made, which was a sound he had made himself a thousand times, and had never once heard.
+The black floor of the Hall of Verdicts. The shaft of gray daylight coming down through the round opening in the roof. The seven chairs in their colors round the circle of old script, and his own wrists heavy in the irons, and Tsuyu kneeling in the place under the light with her hair pinned up off her neck the way the Kurenai require, because he had pinned it himself that morning, before he knew. Jinsuke's sandals on the stone. The crimson inlay down the spine of the blade. The sound it made, which was a sound he had made himself a thousand times, and had never once heard.
 
 He remembered all of it. He remembered the pin he had used, a plain copper pin from her own box, and the smell of the camphor in her collar, and that she had not looked at him at the end because she had known that if she looked at him he would try something and they would kill him too. He remembered it the way the Kurenai register remembers a sentence: completely, in order, with nothing left out.
 
@@ -26,7 +26,7 @@ Calamity. That was the word that came. He let it stay.
 
 The fire started at his back.
 
-He felt it light in the hollow between his shoulder blades, where the Kurenai had carved the first line of the Covenant Scar, and it came up through the skin in a flame of incandescent purple, so bright the black glass under him lit violet for a yard in every direction. It ran outward across the great slabs of muscle on either side of his spine, down the long lats, up over the knotted mountain of the trapezius and into the back of his neck, and under the purple the skin crazed the way glaze crazes on a fired pot, a fine network of cracks all over him with cherry-red ember light showing down in every one. The last of the chain across his chest went to vapour with a sigh. The smell of hot iron filled the air.
+He felt it light in the hollow between his shoulder blades, where the Kurenai had carved the first line of the Covenant Scar, and it came up through the skin in a flame of incandescent purple, so bright the black glass under him lit violet for a yard in every direction. It ran outward across the great slabs of muscle on either side of his spine, down the long lats, up over the knotted mountain of the trapezius and into the back of his neck, and under the purple the skin crazed the way glaze crazes on a fired pot, a fine network of cracks all over him with cherry-red ember light showing down in every one. The last of the chain across his chest went to vapor with a sigh. The smell of hot iron filled the air.
 
 He leaned up.
 
@@ -40,7 +40,7 @@ There was a goblin lying in the air.
 
 Not floating, which a practitioner might do with Vectoria and a great deal of bad temper. Lying. He was stretched out on his back about ten feet up and a few yards out over the river, one knee crooked, one arm folded behind his head, as comfortable as a man in a hammock, and the air under him had a faint gleam to it, a slick glassy sheen, as though he were resting on a pane of something clear and very thick that had been poured there and left to set. Steam from the river came up against the underside of it and spread out and slowed and hung there in curls that did not move.
 
-He was small even for his kind, half Shōki's height at a guess, and the demonhood had been unkind and generous with him at once. His skin was the grey-green of a pond in shade, going to polished obsidian at the knuckles and up the backs of the fingers, and the fingers had become claws, long and black and lacquered, filed into neat points, and he was buffing one of them on the fur collar of his coat as he talked. The coat was a wonderful thing, plum-coloured velour three sizes too big, with gold frogging down the front and a collar of some long black fur that swallowed his shoulders, and the cuffs were rolled four times to find his hands. Under it a green silk shirt was open to the breastbone. Two short horns, black and ridged like a ram's, came out of his brow just above the hairline and curled back, and between them he had arranged his hair, which was lank and black and plainly cared for, into a sweeping oiled pompadour that he touched every few seconds to make sure it was still there. His ears were long and notched. His eyes were the yellow of old lamp oil, heavy-lidded, half shut. When he grinned there was a gold cap on one canine.
+He was small even for his kind, half Shōki's height at a guess, and the demonhood had been unkind and generous with him at once. His skin was the gray-green of a pond in shade, going to polished obsidian at the knuckles and up the backs of the fingers, and the fingers had become claws, long and black and lacquered, filed into neat points, and he was buffing one of them on the fur collar of his coat as he talked. The coat was a wonderful thing, plum-colored velour three sizes too big, with gold frogging down the front and a collar of some long black fur that swallowed his shoulders, and the cuffs were rolled four times to find his hands. Under it a green silk shirt was open to the breastbone. Two short horns, black and ridged like a ram's, came out of his brow just above the hairline and curled back, and between them he had arranged his hair, which was lank and black and plainly cared for, into a sweeping oiled pompadour that he touched every few seconds to make sure it was still there. His ears were long and notched. His eyes were the yellow of old lamp oil, heavy-lidded, half shut. When he grinned there was a gold cap on one canine.
 
 Across the bridge of his nose, where another goblin would have had a scar, he had painted a little black beauty mark.
 
@@ -48,7 +48,7 @@ Across the bridge of his nose, where another goblin would have had a scar, he ha
 
 Shōki said nothing.
 
-His left eye did what the Kurenai eye always did. The ring-lines came up in the iris and the red capillary light flooded in behind them, and the Reigan went past the plum velour and the silk and the grey-green skin and into the chest, to the Attraction Layer, where every killing a soul has ever done is written into it as scar, layer on layer, the record that does not burn. It read a goblin's chest the way it read every chest. It looked for the count.
+His left eye did what the Kurenai eye always did. The ring-lines came up in the iris and the red capillary light flooded in behind them, and the Reigan went past the plum velour and the silk and the gray-green skin and into the chest, to the Attraction Layer, where every killing a soul has ever done is written into it as scar, layer on layer, the record that does not burn. It read a goblin's chest the way it read every chest. It looked for the count.
 
 There was no count.
 
@@ -142,7 +142,7 @@ The word took a long time to come out of his slow mouth. It came out as a groan 
 
 Without Interval.
 
-The field opened around him in the dragging air and the colour of the Pit changed. The red of the welkin went to the orange of a kiln's mouth inside a ring a hundred and fifty yards across, and the edge of the ring hardened, not to the eye but to everything else, a boundary that heat could not cross. Nothing that was hot inside it could cool now. The great slow folds of the purple wave had nowhere to go. The steam had nowhere to go. Every ounce of heat that came out of him stayed, and added, and added, and the temperature inside the ring began to climb.
+The field opened around him in the dragging air and the color of the Pit changed. The red of the welkin went to the orange of a kiln's mouth inside a ring a hundred and fifty yards across, and the edge of the ring hardened, not to the eye but to everything else, a boundary that heat could not cross. Nothing that was hot inside it could cool now. The great slow folds of the purple wave had nowhere to go. The steam had nowhere to go. Every ounce of heat that came out of him stayed, and added, and added, and the temperature inside the ring began to climb.
 
 It climbed fast.
 
@@ -156,7 +156,7 @@ The heat wave hanging in the air in front of him stirred, and the leading edge o
 
 Vaashuuk had stopped grinning.
 
-He was sweating. A bead of it ran out of the pompadour and down his temple and across the painted beauty mark, and smeared it, and he did not notice. The plum velour of the coat had begun, faintly, along the hem, to smoke. He looked down at the dripping air under him, and up at the kiln-coloured welkin inside the ring, and at the ring itself out there in the glare, and last at Shōki, and the lamp-oil eyes were all the way open now.
+He was sweating. A bead of it ran out of the pompadour and down his temple and across the painted beauty mark, and smeared it, and he did not notice. The plum velour of the coat had begun, faintly, along the hem, to smoke. He looked down at the dripping air under him, and up at the kiln-colored welkin inside the ring, and at the ring itself out there in the glare, and last at Shōki, and the lamp-oil eyes were all the way open now.
 
 "Oh," he said. "Oh, that's *smart.* That's real smart. I hate smart." He fanned himself with one claw, which did nothing. "Nobody told me you were smart. They told me you were big and loud and you hit stuff."
 

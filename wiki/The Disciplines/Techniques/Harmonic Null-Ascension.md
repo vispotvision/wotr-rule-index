@@ -66,7 +66,7 @@ This working has one practitioner, its author. It has no filed counter beyond wh
 
 ### Metaphysics
 
-**Aether** · A held line to one target and a small burst; Fulguria wants dry air and clear sight. Dead air or a target with no structural resonance gives it nothing. The burst leaves fifteen metres of ringing ground that deafens Harmonists.
+**Aether** · A held line to one target and a small burst; Fulguria wants dry air and clear sight. Dead air or a target with no structural resonance gives it nothing. The burst leaves fifteen meters of ringing ground that deafens Harmonists.
 
 **Wellspring** · Orrenthal, the Metallic Heart (Fulguria): a metal's electrons belong to the lattice, not any atom, so it bends without breaking; it finds and holds the target's true frequency.
 
@@ -88,7 +88,7 @@ This working has one practitioner, its author. It has no filed counter beyond wh
 
 **Boundary** · The damping of one named mode in one target; the practitioner finds the frequency and pins only ζ low.
 
-**Effect** · Two fingers or a staff pluck a string that is not there; the tone climbs from below hearing, locked on what holds the target together, so there is nothing to intercept. At the top the target fractures, implodes or suffers soul-pattern distortion, throwing a burst to fifteen metres.
+**Effect** · Two fingers or a staff pluck a string that is not there; the tone climbs from below hearing, locked on what holds the target together, so there is nothing to intercept. At the top the target fractures, implodes or suffers soul-pattern distortion, throwing a burst to fifteen meters.
 
 **Contest** · The lock is contested, not the climb: Harmonics Attunement against the target's Harmonics Stability. Anyone at or above the practitioner's Stage is immune.
 
@@ -119,7 +119,7 @@ This working has one practitioner, its author. It has no filed counter beyond wh
 
 **Tell** · Two fingers or a staff raised, a string plucked on nothing, then a silence that is not silence; easy to miss at 500 m. After: the burst, ringing ground, a doubled voice.
 
-**Limits** · 500 m line of sight, one target and a fifteen-metre burst; no effect at or above the practitioner's Stage or on anything without structural resonance; ruinous past a few breaths; no drive through shielding above C on Spirit.
+**Limits** · 500 m line of sight, one target and a fifteen-meter burst; no effect at or above the practitioner's Stage or on anything without structural resonance; ruinous past a few breaths; no drive through shielding above C on Spirit.
 
 **Fails against** · Damping (a silence field, Verdantia or Cymorath); a resonance split across several bands, a Knot, or decoupling through Oneirion; a broken line of sight or a decoy, since every delay doubles the practitioner's bill; spread targets; fog.
 

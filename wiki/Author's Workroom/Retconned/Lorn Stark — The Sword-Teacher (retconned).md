@@ -33,9 +33,9 @@ title: "Lorn Stark — The Sword-Teacher"
 
 Lorn Stark is the man who does the right thing.
 
-This sounds simple. In a collapsed kingdom where every surviving lord is calculating advantage and every alliance is conditional and every oath is weighed against the cost of keeping it, doing the right thing is the most complicated position available, because the right thing does not negotiate, does not adjust for circumstance, does not bend when bending would be easier, and does not produce the outcomes that calculating men produce. The right thing produces Lorn Stark: a man who is standing beside a broken throne holding the chains of a prisoner because the prisoner insulted his niece, and the holding is the function, and the function is the honour, and the honour is the man.
+This sounds simple. In a collapsed kingdom where every surviving lord is calculating advantage and every alliance is conditional and every oath is weighed against the cost of keeping it, doing the right thing is the most complicated position available, because the right thing does not negotiate, does not adjust for circumstance, does not bend when bending would be easier, and does not produce the outcomes that calculating men produce. The right thing produces Lorn Stark: a man who is standing beside a broken throne holding the chains of a prisoner because the prisoner insulted his niece, and the holding is the function, and the function is the honor, and the honor is the man.
 
-Lorn does not scheme. Lorn does not calculate advantage. Lorn does not position himself for political benefit or assess the cost-benefit ratio of loyalty before committing to it. Lorn commits and the committing is the assessment, and the assessment is: this is my sister's daughter, and my sister is dead, and the daughter is alive, and the alive is the thing I am here to protect, and the protecting is not conditional, and the not-conditional is the honour, and the honour is the thing I carry the way other men carry swords.
+Lorn does not scheme. Lorn does not calculate advantage. Lorn does not position himself for political benefit or assess the cost-benefit ratio of loyalty before committing to it. Lorn commits and the committing is the assessment, and the assessment is: this is my sister's daughter, and my sister is dead, and the daughter is alive, and the alive is the thing I am here to protect, and the protecting is not conditional, and the not-conditional is the honor, and the honor is the thing I carry the way other men carry swords.
 
 ---
 
@@ -43,7 +43,7 @@ Lorn does not scheme. Lorn does not calculate advantage. Lorn does not position 
 
 Fern's brother, and the resemblance is structural rather than superficial. The same Stark bone architecture built broader and heavier, the same brown eyes set deeper beneath a brow that carries more weather. His jaw is the Stark jaw, the jaw that Hild shares, the jaw that tightens on the left side before the mouth speaks.
 
-Forty-four and showing the specific accelerated grey that the last eleven years produced. Hair grey at the temples, brown elsewhere, cut in the northern military style. His body is the body of a man who was never exceptional with a blade and who trained every day regardless, producing a frame that is competent and durable rather than impressive — the specific build of a man whose discipline exceeded his talent and whose discipline's excess was the thing that made him reliable.
+Forty-four and showing the specific accelerated gray that the last eleven years produced. Hair gray at the temples, brown elsewhere, cut in the northern military style. His body is the body of a man who was never exceptional with a blade and who trained every day regardless, producing a frame that is competent and durable rather than impressive — the specific build of a man whose discipline exceeded his talent and whose discipline's excess was the thing that made him reliable.
 
 He wears a soldier's coat and carries a sword that is maintained with care that exceeds the sword's quality, because the maintenance is the discipline and the discipline is the man. His hands are calloused. His face is honest the way northern faces are honest: it shows what it carries, and what it carries is visible, and the visibility is the trust.
 
@@ -127,7 +127,7 @@ He and Osric told her gently, in the room behind the throne hall, that her own p
 
 He said his disagreements in the room, in front of whoever was there. At the long table in the Seat's kitchen, after her father had come north, Lambert set the stores against a draft while somebody dug a gallery toward the north wall. Lorn answered him across the table. He had watched better men than either of them destroyed by saving an objection for the corridor, he said. "You are counting bushels against a siege that has already started digging." He asked what they would do when the ground opened, and Lambert said he did not know. The whole house heard him.
 
-There was one thing Lorn would not say to her. In the empty hall Lambert asked whether she meant to hand over the reins. Lorn never asked. He reckoned that the arrangement with his sister had cost him more than any oath he had sworn to a man with a title. The grey came early at his temples.
+There was one thing Lorn would not say to her. In the empty hall Lambert asked whether she meant to hand over the reins. Lorn never asked. He reckoned that the arrangement with his sister had cost him more than any oath he had sworn to a man with a title. The gray came early at his temples.
 
 #### Where They Stand
 

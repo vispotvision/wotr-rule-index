@@ -12,7 +12,7 @@ A silver ring of two interlocking loops, one mirror-polished, one etched with fl
 
 ### Physical account
 
-A silver ring, roughly 9 g, about 2 cm across the interlocked loops, worn constantly on Karo's left index finger. It has no weapon application and no armour interaction; it is a focus, not an implement.
+A silver ring, roughly 9 g, about 2 cm across the interlocked loops, worn constantly on Karo's left index finger. It has no weapon application and no armor interaction; it is a focus, not an implement.
 
 ### Operation line
 

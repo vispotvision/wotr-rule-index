@@ -38,7 +38,7 @@ flowchart TD
     PP -.-> V
     SP -.-> V
 ```
-> **The hierarchy of law.** Titanic Law governs the geologic and cosmic architecture of the Realms. **Archonic Law** governs the conceptual forces that give physical and energetic phenomena their meaning. **Wellspring Law** governs the behaviour of Essence currents and Aether. All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must draw from one of these three strata. No magic exists outside the lattice Omnara's Division created.
+> **The hierarchy of law.** Titanic Law governs the geologic and cosmic architecture of the Realms. **Archonic Law** governs the conceptual forces that give physical and energetic phenomena their meaning. **Wellspring Law** governs the behavior of Essence currents and Aether. All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must draw from one of these three strata. No magic exists outside the lattice Omnara's Division created.
 
 ---
 

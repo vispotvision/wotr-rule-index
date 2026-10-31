@@ -29,7 +29,7 @@ The Night Watch investigates illegal magic and the phenomena the law has no name
 | **The walks** | Fixed lines, each held by one walker. The walker goes out on the same walk every week, counts what the ground holds, and gives the place by the nearest stone. The North Ferriby walk is forty miles of timber a week |
 | **The walkers** | Foresters and counters. A walker's count goes in as a filing under his name, his chapter and his walk: *Tally, N., Timberline chapter, North Ferriby walk* |
 | **The coil-carriers** | A chapter's instrument hands. When a walker's find wants sealing, the coil-carrier goes out to the ground with a tin, seals the sample standing in it under the chapter's wax, and assays it at the chapter bench |
-| **The bulletin office** | Takes in the chapters' filings and prints them as **inserts** on the cheapest rag it can buy, so the ink bleeds into the fibre. Inserts go out in bundles. The office cuts for length |
+| **The bulletin office** | Takes in the chapters' filings and prints them as **inserts** on the cheapest rag it can buy, so the ink bleeds into the fiber. Inserts go out in bundles. The office cuts for length |
 | **The Night Register** | Takes up what the Lattice Classification Bureau closes |
 
 ---
@@ -73,7 +73,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 | **Nol Tally** | Walker on the North Ferriby walk. Forty miles of timber a week; counts deer for a living; measures what he finds with a rule |
 | **Qiu Yinzhi** | Coil-carrier. Artificer's apprentice out of a Measurewright line, capped eight months; wears a regulation bracelet that pulls toward a suppressed practitioner |
 
-**The filing.** On the ninth, eleven hinds and a stag dead where they stood in the Ferriby cut, a grey-green mass nine inches at the tallest come up through the hide, the tissue under it undecayed, four ravens in the birch that never came down. The coil-carrier sealed a section inside the hour. On the tenth the walker went north to the Ferriby stones and found the last carcass twenty-two paces short of the parish boundary marker, with clean ground on the far side. He checked the far side twice.
+**The filing.** On the ninth, eleven hinds and a stag dead where they stood in the Ferriby cut, a gray-green mass nine inches at the tallest come up through the hide, the tissue under it undecayed, four ravens in the birch that never came down. The coil-carrier sealed a section inside the hour. On the tenth the walker went north to the Ferriby stones and found the last carcass twenty-two paces short of the parish boundary marker, with clean ground on the far side. He checked the far side twice.
 
 **The classification.** The Bureau's northern office returned it inside two days: Wellspring bleed, Verdantia, tertiary expression, no operator indicated. No further action and no file. The return did not mention the marker.
 
@@ -99,11 +99,11 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 
 ## The Tells
 
-- **An insert on cheap rag**, the ink bled into the fibre, headed with a name, a chapter and a walk.
+- **An insert on cheap rag**, the ink bled into the fiber, headed with a name, a chapter and a walk.
 - **Chapter wax** across the join of a Fixatio-anchored tin.
 - **A man with a rule** measuring something dead and writing the number down.
 - **A coil walked slowly along a wall** at chest height, the carrier watching the wire and not the room.
-- **A regulation bracelet**: brass bands wound with fine grey wire, seated against the inside of the wrist, guild proof-marks on the outer band.
+- **A regulation bracelet**: brass bands wound with fine gray wire, seated against the inside of the wrist, guild proof-marks on the outer band.
 - **A lamp lit at the third hour** on a street whose main is off.
 - **Brass where a full desk would carry silver.**
 - **A burned coil.**
@@ -125,7 +125,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 
 ## Relations and Reputation
 
-**The crown** chartered the Society, and the Society holds its warrant and answers to the state. **The guilds** are the Watch's neighbours on the same ground: it works alongside them, their trace examiners read a working's traces as evidence as it does, and their courts want the cases the crown's courts want. **The Lattice Classification Bureau** is a separate office. It classifies the Society's filings and closes the ones in which it finds no operator, and it is honest and usually right; Edwyn Brack of its northern office has never been wrong in a way that mattered. **The forming Accord** is younger than the Watch. Where a circle has signed, the Articles bind, and Article XV is the one the Register works through.
+**The crown** chartered the Society, and the Society holds its warrant and answers to the state. **The guilds** are the Watch's neighbors on the same ground: it works alongside them, their trace examiners read a working's traces as evidence as it does, and their courts want the cases the crown's courts want. **The Lattice Classification Bureau** is a separate office. It classifies the Society's filings and closes the ones in which it finds no operator, and it is honest and usually right; Edwyn Brack of its northern office has never been wrong in a way that mattered. **The forming Accord** is younger than the Watch. Where a circle has signed, the Articles bind, and Article XV is the one the Register works through.
 
 **Sancta Lux's Inquisitors** are the Church's lateral office, sent after unconsecrated high working wherever the Church holds standing, with authority to pronounce sentence in the field without an Arbiter. The Watch works the other way: it counts, seals and files, and its cases go to a hearing. **The Holy Inquisition**, which took the Inquisitor's name without the Church's leave, claims the same work and prosecutes it by fire. It is lawful where the crowns and churches that back it rule, and outlawed where the Accord's circles have signed.
 

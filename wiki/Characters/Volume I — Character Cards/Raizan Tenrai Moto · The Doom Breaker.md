@@ -20,7 +20,7 @@
 **Full Name** · Raizan Tenrai Moto
 **Pronunciation** · RYE-zahn ten-RYE MOH-toh
 **Alias / Title** · The Doom Breaker
-**Also Known As** · the Old Hawk, in the Tenrai house · *Unmei-kudaki*, Doom-Breaker, in the old court tongue · "the grey thread" among Kharven soldiers, who say you only see him in the corner of your eye
+**Also Known As** · the Old Hawk, in the Tenrai house · *Unmei-kudaki*, Doom-Breaker, in the old court tongue · "the gray thread" among Kharven soldiers, who say you only see him in the corner of your eye
 **Race / Lineage** · Human, Archaic Bloodline, Moto, the Tenrai line
 **Age** · Seventy-seven
 **Realm / Faction** · The Tenrai line of the Moto
@@ -109,7 +109,7 @@ Tenebra keeps him beneath the noise floor of a room: his footfalls absorbed, his
 ## IX. Domain
 
 **HITSUZEN · Inevitability (Domain)**
-Inside his Domain the likeliest thing happens. Opened by the Second Release out to forty yards, it presses every future in the field toward the most probable one: no lucky dodge, no blade that turns on a buckle by chance, no miracle. Whatever the odds favour, the odds deliver. It holds 2 minutes from a full reserve, about 75,000 EU a second. Its cost is that it is blind to which side the odds favour; it serves him only while he is the likelier man, and a stronger fighter inside it is made surer of winning, not less. It is beaten by being the likelier side outright, by stepping out of the forty yards, or by a real free choice made in the middle of it, an act no reading could have leaned toward, which the field cannot press because it has no weight to press.
+Inside his Domain the likeliest thing happens. Opened by the Second Release out to forty yards, it presses every future in the field toward the most probable one: no lucky dodge, no blade that turns on a buckle by chance, no miracle. Whatever the odds favor, the odds deliver. It holds 2 minutes from a full reserve, about 75,000 EU a second. Its cost is that it is blind to which side the odds favor; it serves him only while he is the likelier man, and a stronger fighter inside it is made surer of winning, not less. It is beaten by being the likelier side outright, by stepping out of the forty yards, or by a real free choice made in the middle of it, an act no reading could have leaned toward, which the field cannot press because it has no weight to press.
 
 ## X. Techniques
 
@@ -130,7 +130,7 @@ The old word for a person the gods have taken, who is there and then is not. His
 **HITSUZEN · Inevitability (Second Release)**
 It opens and powers the Domain above. The held note is silence, deeper than the room's.
 
-**Bonded weapon** · The Last Thread: a needle-blade of grey Tenrai steel the length of a hand, carried in his left sleeve. It carries KAMIKAKUSHI's hush; taken from him, the First Release still hides him, but the needle that was the point of hiding is gone
+**Bonded weapon** · The Last Thread: a needle-blade of gray Tenrai steel the length of a hand, carried in his left sleeve. It carries KAMIKAKUSHI's hush; taken from him, the First Release still hides him, but the needle that was the point of hiding is gone
 
 ## Skills
 
@@ -151,7 +151,7 @@ None he will name. The Tengan shows him the threads between people; he has cut t
 
 ## XIII. Physical Description
 
-He is an old man, and looks it, and that is the first thing anyone is meant to see. The crown of his head is bald and brown and shines in lamplight; what hair is left at the sides and back is white as fresh snow, long and loose and blown back from his temples as if he had been standing in a wind. His beard is full and white and soft, cut square at the chest, and his moustache covers his mouth. His face is long and deeply lined, every line of it cut fine and deep, the brow creased in long furrows and the skin round the eyes folded into a hundred small creases, and an old scar runs pale and thin from the left brow down across the cheekbone. His eyes are pale grey-blue under heavy lids, quiet and tired-looking, and when he reads, fine spokes of light appear in the irises like the spokes of a wheel. He is lean and a little stooped, with narrow shoulders and long thin hands, the knuckles swollen, the fingers still perfectly steady. He wears the Tenrai in its plainest form: a high-collared coat of deep navy-black, close at the throat, the collar banded in dull gold; a thin gold edge down the front; at the throat, holding the collar closed, a clasp of gold Kharven knotwork, the one northern thing on him, from a marriage fifty years buried. His left sleeve hangs a little heavier than his right.
+He is an old man, and looks it, and that is the first thing anyone is meant to see. The crown of his head is bald and brown and shines in lamplight; what hair is left at the sides and back is white as fresh snow, long and loose and blown back from his temples as if he had been standing in a wind. His beard is full and white and soft, cut square at the chest, and his mustache covers his mouth. His face is long and deeply lined, every line of it cut fine and deep, the brow creased in long furrows and the skin round the eyes folded into a hundred small creases, and an old scar runs pale and thin from the left brow down across the cheekbone. His eyes are pale gray-blue under heavy lids, quiet and tired-looking, and when he reads, fine spokes of light appear in the irises like the spokes of a wheel. He is lean and a little stooped, with narrow shoulders and long thin hands, the knuckles swollen, the fingers still perfectly steady. He wears the Tenrai in its plainest form: a high-collared coat of deep navy-black, close at the throat, the collar banded in dull gold; a thin gold edge down the front; at the throat, holding the collar closed, a clasp of gold Kharven knotwork, the one northern thing on him, from a marriage fifty years buried. His left sleeve hangs a little heavier than his right.
 
 ## XIV. Psychology
 
@@ -168,9 +168,9 @@ He is an old man, and looks it, and that is the first thing anyone is meant to s
 
 ## XV. Equipment
 
-**The Last Thread** · needle-blade of grey Tenrai steel, the length of a hand, in a slim sheath sewn into the left sleeve · Item Tier Storied · rung Kingsarm · a few grams · proof-mark a single Tenrai hawk cut where the needle meets the grip · bonded; it carries KAMIKAKUSHI's hush
+**The Last Thread** · needle-blade of gray Tenrai steel, the length of a hand, in a slim sheath sewn into the left sleeve · Item Tier Storied · rung Kingsarm · a few grams · proof-mark a single Tenrai hawk cut where the needle meets the grip · bonded; it carries KAMIKAKUSHI's hush
 **The knotwork clasp** · gold, northern work, plain · no working; a dead wife's wedding gift
-**A go board and stones** · travelling set, slate and shell · no working
+**A go board and stones** · traveling set, slate and shell · no working
 
 ## XVI. Temperance Record
 

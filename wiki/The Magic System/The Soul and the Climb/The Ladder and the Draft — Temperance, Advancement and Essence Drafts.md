@@ -87,7 +87,7 @@ So, in the matter of advancement, a Draft does exactly one honest thing, one dis
 
 **The dishonest use.** A practitioner who has *not* met their Catalyst can be pushed above their sustainable grade anyway. The Crystal will hold the numbers for a while. Then it begins fracturing, and the fracture rate compounds, and it ends one of two ways: the stat collapses, or the Threshold is forced through crisis and the practitioner arrives at the next Stage having been reorganised around whatever was in the Crystal at that moment. **Whatever is in the Crystal at the moment of reorganisation is built into what comes out.** Somebody who forced Splintering while afraid is a permanently different practitioner from somebody who met it having decided something.
 
-**What this means for the world.** The grey trade in advancement compounds is enormous, entirely predictable, and structurally unfixable, because the thing it sells is real. It works. It just does not do the half people are buying it for, and by the time that is apparent the buyer has already been reorganised.
+**What this means for the world.** The gray trade in advancement compounds is enormous, entirely predictable, and structurally unfixable, because the thing it sells is real. It works. It just does not do the half people are buying it for, and by the time that is apparent the buyer has already been reorganised.
 
 ---
 
@@ -97,7 +97,7 @@ So, in the matter of advancement, a Draft does exactly one honest thing, one dis
 
 A Threshold is a melt. The Crystal is carried to the point where its lattice stops holding its shape, and it is allowed to cool into a new one. A melt does not cool into order on its own. Something has to survive the heat for the new lattice to grow around, and in a Soul Crystal that something is **Traits**.
 
-A Trait is a law the Continuum has already accepted as reliable, and a law does not stop being reliable at temperature. This is the only property in the Crystal with that behaviour, and it is why Traits decide the quality of an advancement that strain merely made possible. **Strain gets a soul to the melt. Nucleation decides what the melt produces.**
+A Trait is a law the Continuum has already accepted as reliable, and a law does not stop being reliable at temperature. This is the only property in the Crystal with that behavior, and it is why Traits decide the quality of an advancement that strain merely made possible. **Strain gets a soul to the melt. Nucleation decides what the melt produces.**
 
 The consequences follow without further argument.
 
@@ -118,7 +118,7 @@ The consequences follow without further argument.
 
 The Sub-Stats a Draft plausibly reaches: **Clarity** (refinement of Essence already held) and **Yield** (volume produced per Stage, ambient Aether absorbed rather than passed through, and the gap between generation and availability).
 
-The Sub-Stats no Draft has ever reached: **Coherence**, the alignment between a practitioner's chosen Path and their lived behaviour, which is the structural prerequisite for Threshold eligibility, and **Maturity**, the degree to which prior trauma has been genuinely integrated, which is the primary Sub-Stat the Crystal consults when evaluating readiness.
+The Sub-Stats no Draft has ever reached: **Coherence**, the alignment between a practitioner's chosen Path and their lived behavior, which is the structural prerequisite for Threshold eligibility, and **Maturity**, the degree to which prior trauma has been genuinely integrated, which is the primary Sub-Stat the Crystal consults when evaluating readiness.
 > **Coherence is the Crystal's internal honesty meter, and it cannot be drunk.** That is the entire mechanical reason the second key exists, stated in the vocabulary of the stat framework rather than in the vocabulary of doctrine.
 
 ---

@@ -58,7 +58,7 @@ Everything the four quarters have ever dug out of the ground was put there in th
 | **Titanstone** | The shattered remains of slumbering World Spirits. Near-immortal in density, carrying a metaphysical weight sufficient that a cracked block takes a city down with it. It is found rather than quarried. |
 | **Crevice Shale** | Fractures nearby Realm law. Forbidden to move, hold, or trade under **Article III of the Concord Codex** — a law about a rock, and the only such law the Accord has ever written. |
 
-The Guild takes no position on the theology of the age and observes only that both materials behave as though something decided their properties. That is a statement about behaviour and carries no claim about intent.
+The Guild takes no position on the theology of the age and observes only that both materials behave as though something decided their properties. That is a statement about behavior and carries no claim about intent.
 
 ### The Antediluvian Calendar
 
@@ -79,7 +79,7 @@ They built on Wellsprings. Not near them. **On them.** Every excavated site shar
 
 The most important instrument in the modern economy was built to sort people.
 
-Hauling a practitioner across three hundred leagues is expensive, and hauling one who turns out to be useless is a loss the ledger notices. So somebody wound a conductor into a ring and discovered that it answers measurably to the Essence character of whatever is set inside it, and for the first time in history a question that had been a matter of somebody's judgement produced a number instead.
+Hauling a practitioner across three hundred leagues is expensive, and hauling one who turns out to be useless is a loss the ledger notices. So somebody wound a conductor into a ring and discovered that it answers measurably to the Essence character of whatever is set inside it, and for the first time in history a question that had been a matter of somebody's judgment produced a number instead.
 
 Every holding coil in every Accord assay house is a refinement of that ring. The trade in Holding-grade material, which is the trade the modern world runs on, descends without a break from an instrument built to decide which people were worth the journey. *The Guild has included this in the plain register rather than the appendices, over the Research Division's written objection.*
 > **A distinction the trade literature blurs and the Guild does not.** The **principle** is Antediluvian and among the oldest instruments in the record. The **coil** is not. A ring that answers to what is set inside it tells one reader something; **a coil that gives the same number in two kingdoms is a different device entirely**, and that device is a Voyager Era product of shared units, sealed reference standards and annual calibration.
@@ -104,7 +104,7 @@ When a Wellspring began to fail, an Antediluvian city could not answer by leavin
 
 **Close** · The sealing of the Concord Codex, which is Year Zero.
 
-The Age produced no machine and contains the largest single break in the history of making. Parunic syntax was formalised out of whatever the Antediluvians had been doing by feel, glyphs were assigned stable meanings, and the combinations were catalogued. **Kessian Yorul** cut the first Living Runes into bone, inscriptions that draw on the bearer's own circulation. **Mnirah Valein** codified the Twelve Stages of Spirit Infusion and, in doing so, established that capability could be graded, taught, and required before permission was granted, which is the ancestor of every guild licence now in force.
+The Age produced no machine and contains the largest single break in the history of making. Parunic syntax was formalised out of whatever the Antediluvians had been doing by feel, glyphs were assigned stable meanings, and the combinations were catalogd. **Kessian Yorul** cut the first Living Runes into bone, inscriptions that draw on the bearer's own circulation. **Mnirah Valein** codified the Twelve Stages of Spirit Infusion and, in doing so, established that capability could be graded, taught, and required before permission was granted, which is the ancestor of every guild license now in force.
 > Before notation, an effect required a practitioner standing in the room. After notation, an effect could be laid into a substrate and left there, and it would keep working when nobody was watching.
 > 
 > Every array, every ward-network, every pump and fan and grid beneath every modern city descends from that sentence. The years In Concordance did not invent the array. They inherited the idea and eventually had the money to build one at scale.

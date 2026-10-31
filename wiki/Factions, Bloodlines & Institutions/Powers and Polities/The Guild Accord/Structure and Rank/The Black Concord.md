@@ -56,7 +56,7 @@ Every mission, name, and record is burned after execution. Only the Overseer ret
 
 **No one joins the Black Concord by choice. They are taken** — chosen from the ranks of the condemned, the Forsworn, or the dead. Through the **Rite of Absence**, their Soul Crystal is hollowed and re-tuned to the Null Frequency. Their memories are rewritten to serve the Accord's unseen necessities.
 
-To outsiders, these agents appear as ordinary operatives, scholars, or travellers. But the Black Concord can recognize one another by their **Resonance Silence** — *the faint emptiness that follows in their wake, a lack of Essence hum in the world around them.*
+To outsiders, these agents appear as ordinary operatives, scholars, or travelers. But the Black Concord can recognize one another by their **Resonance Silence** — *the faint emptiness that follows in their wake, a lack of Essence hum in the world around them.*
 
 ---
 

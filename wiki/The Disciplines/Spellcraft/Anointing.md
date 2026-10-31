@@ -14,7 +14,7 @@ title: "Anointing"
 
 **Limit** · It cannot confer legitimacy by ceremony alone, grant dominion or rule, or be undone casually; a mark laid in error misdirects the Crystal for the rest of its path.
 
-**Counter** · A Judicium practitioner or a Measurewright at the rite, a stronger claim, or a refusal to honour it; a forced or tricked Anointing comes off only by Scission.
+**Counter** · A Judicium practitioner or a Measurewright at the rite, a stronger claim, or a refusal to honor it; a forced or tricked Anointing comes off only by Scission.
 
 **What nobody knows** · Who, if anyone, chose a subject whose true Anointing was performed by an officiant who believed the rite was empty.
 
@@ -50,7 +50,7 @@ title: "Anointing"
 
 ### Origin
 
-**Origin** · Kept by the Order of Benediction, which licenses the rite and treats that licence as a decision rather than a finding. The False Anointing Rebellion, raised by a corrupt bishop's empty marks, is the tradition's standing warning against forged performance.
+**Origin** · Kept by the Order of Benediction, which licenses the rite and treats that license as a decision rather than a finding. The False Anointing Rebellion, raised by a corrupt bishop's empty marks, is the tradition's standing warning against forged performance.
 
 **Practitioners** · The Order of Benediction; two anointers of the Moto Family; the Oracles of Vellsorea; a practitioner of Highspire.
 
@@ -60,7 +60,7 @@ title: "Anointing"
 
 **Phenomenon** · A recognition tag, like a phosphate group placed on a protein: the mark does no work itself, it changes what the thing is taken to be, and everything that reads it behaves differently.
 
-**Law** · Mass action at a binding site, K*d = k*off / k*on: how long a bond holds is its residence time, 1 / k*off, and a mark's effects are the behaviour of whatever reads it.
+**Law** · Mass action at a binding site, K*d = k*off / k*on: how long a bond holds is its residence time, 1 / k*off, and a mark's effects are the behavior of whatever reads it.
 
 **Limit** · Even the strongest affinity bond holds about a day; a mark that lasts a career must be cured, not merely bound, and a mark nobody reads does nothing.
 
@@ -86,7 +86,7 @@ title: "Anointing"
 
 **Inherited failures** · Benediction's competitive inhibition lets a stronger claim displace the mark; Fixatio's irreversibility makes a mark laid in error permanent; Judicium's spectral overload blinds the reader.
 
-**Consent** · A genuine Anointing is a relationship: a subject chosen by a Wellspring current, an Archon or the order's standing authority. The Order of Benediction licenses it anyway, and that licence is a decision, not a finding.
+**Consent** · A genuine Anointing is a relationship: a subject chosen by a Wellspring current, an Archon or the order's standing authority. The Order of Benediction licenses it anyway, and that license is a decision, not a finding.
 
 **Essence** · The subject's Attraction Layer holds the recognition, their Essence Core holds the Traitus mark, and the officiant stakes their own Core. Developmental Tier is Harmonic at Glory.
 
@@ -135,6 +135,6 @@ title: "Anointing"
 
 **Limits** · It confers recognition, not power or rule; its effect is only what readers grant it; it cannot survive an assay if empty.
 
-**Fails against** · A Judicium practitioner or a Measurewright at the rite; a higher-affinity claim; a reader who refuses to honour it; a lying officiant's own drift in Coherence; Scission, for a forced one.
+**Fails against** · A Judicium practitioner or a Measurewright at the rite; a higher-affinity claim; a reader who refuses to honor it; a lying officiant's own drift in Coherence; Scission, for a forced one.
 
 **Look up** · The Benediction, Fixatio and Judicium entries and their failures; the Attraction Path gates for Oath, Axis and Empathy; Scission's complication rate; Coronation for rule; the Glory Stage table.

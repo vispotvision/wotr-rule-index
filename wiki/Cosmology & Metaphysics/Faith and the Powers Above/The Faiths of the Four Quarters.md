@@ -8,7 +8,7 @@ tags: ["Cosmology", "Peoples", "Factions"]
 *What people in the four quarters actually do, on an ordinary day, about the fact that the world has owners.*
 > *Ask a man his religion and he will name an institution. Watch him for a week and you will find out what he believes.*
 
-## Part One: How Religion Is Actually Practised
+## Part One: How Religion Is Actually Practiced
 
 The error to avoid is treating a faith as a set of propositions people assent to. **Religion in a pre-modern society is a set of things people do**, mostly at home, mostly daily, mostly without reflection, and the doctrine is downstream of the practice rather than upstream of it.
 
@@ -38,15 +38,15 @@ Every faith below is written to the same six questions, and the last one matters
 
 **Claim.** The Fourteen are crowned and the Works are older, and both are true, and the order matters. No Archon may be addressed alone because none operates alone.
 
-**Daily.** The Bow at the hinge, fourteen inclinations in emergence order, containing no request. Then the Labour: one concrete act in the character of one Archon's principle, performed by hands. The Weighing, the Discard, the Squaring, the Telling, and eleven more. Most households perform eleven of the fourteen without knowing they are performing anything.
+**Daily.** The Bow at the hinge, fourteen inclinations in emergence order, containing no request. Then the Labor: one concrete act in the character of one Archon's principle, performed by hands. The Weighing, the Discard, the Squaring, the Telling, and eleven more. Most households perform eleven of the fourteen without knowing they are performing anything.
 
 **Clergy.** None. The household is the unit. This is why the Moto have never built a temple and have never understood why anybody else does, and it is also why the Sohai has no institutional weight to bring against Sancta Lux in any forum where institutions are what counts.
 
-**Heresies.** Singling, the elevation of one Archon. Petition, which converts the Bow into a transaction. The Empty Bow, observance without labour, held to be worse than neglect on the grounds that a man who has stopped bowing has at least stopped lying.
+**Heresies.** Singling, the elevation of one Archon. Petition, which converts the Bow into a transaction. The Empty Bow, observance without labor, held to be worse than neglect on the grounds that a man who has stopped bowing has at least stopped lying.
 
 **Cost.** Everything, quietly, daily, forever, with no ceremony and no audience. The Sohai asks more of an ordinary Tuesday than any other faith in the four quarters and offers nothing in return that can be pointed at.
 
-**Wrong about.** Its own immunity to Singling. The Kokan favour Totality, Totality is the Work most easily mistaken for a crown, and the house watches for this in itself precisely because it has already happened once and the record of when is not in Kharven.
+**Wrong about.** Its own immunity to Singling. The Kokan favor Totality, Totality is the Work most easily mistaken for a crown, and the house watches for this in itself precisely because it has already happened once and the record of when is not in Kharven.
 
 **On the calendar.** Auren's day in every month for the dead. Munahi is the one day the Bow is not performed, because there is no station to perform it at, and the house defends this vigorously against the obvious objection.
 
@@ -60,7 +60,7 @@ Every faith below is written to the same six questions, and the last one matters
 
 **Clergy.** Ordained, trained, examined, salaried, and pensioned. They eat by benefice, by fee for attestation, and by the Accord's retainer. **A Scale cleric is a professional and is treated as one**, which is a source of both its reach and its contempt.
 
-**Heresies.** Weighing without a scale, meaning private judgement. The False Standard, an unauthorised weight. And the one the house does not discuss, which is the suggestion that a scale calibrated by the people being weighed is not a scale.
+**Heresies.** Weighing without a scale, meaning private judgment. The False Standard, an unauthorised weight. And the one the house does not discuss, which is the suggestion that a scale calibrated by the people being weighed is not a scale.
 
 **Cost.** Money, mostly, and it is not hidden. Attestations, dispensations, the fee for a reading. The Scale is honest that piety is expensive and holds that a thing costing nothing is worth its price.
 
@@ -80,7 +80,7 @@ The votives are the tell. **Small objects left where a current runs close to the
 
 **Clergy.** None, but there are always **women who know the seeps**, unpaid, unappointed, usually old, who are asked and who answer, and who are not called anything in particular. A district has two or three. Everybody knows which. When one dies the knowledge sometimes goes with her, and this has happened often enough that whole seeps have been forgotten.
 
-**Heresies.** The concept does not apply, which is precisely what infuriates the organised faiths. There is no orthodoxy to depart from. Two villages nine miles apart will practise differently, know they do, and not consider the question interesting.
+**Heresies.** The concept does not apply, which is precisely what infuriates the organised faiths. There is no orthodoxy to depart from. Two villages nine miles apart will practice differently, know they do, and not consider the question interesting.
 
 **Cost.** Nothing. This is not incidental. **The Current is free, and it is free in a world where the Scale charges and the draw is metered**, and that single fact does more for its persistence than any belief in it.
 
@@ -96,7 +96,7 @@ The votives are the tell. **Small objects left where a current runs close to the
 
 **Daily.** The entry. Every completed lawful act, in fixed wording, scanned to Mathematical Cadence, because a statement that does not scan has not been entered whatever it says. A hold-clerk is a metrician before he is anything else and does not consider this liturgical.
 
-**Clergy.** The clerks, and they eat by the hold. **A Dawi would say these are administrators.** Every other people in the four quarters, on being shown a caste of hereditary record-keepers using a fixed liturgical metre to enter acts into a book that has never been closed, would say something else.
+**Clergy.** The clerks, and they eat by the hold. **A Dawi would say these are administrators.** Every other people in the four quarters, on being shown a caste of hereditary record-keepers using a fixed liturgical meter to enter acts into a book that has never been closed, would say something else.
 
 **Heresies.** The unentered act, *kurnur*. The broken oath, which is not a sin but a change of grade, audible in the name, permanent, and published on a wall. And the deepest one, which is the Deepkin's Mirror-Sign: the only Dawi language in which a broken oath does not announce itself, and the only Dawi practice the other lineages regard as genuinely impious.
 
@@ -110,7 +110,7 @@ The votives are the tell. **Small objects left where a current runs close to the
 
 **Claim.** *The sky does not ask whether you are ready.* Not a deity. A condition. The sky covers everyone, is indifferent, and outlasts every arrangement made under it, and the correct response to this is not worship but competence.
 
-**Daily.** The woodpile. *How's your stack* is a greeting, a diagnostic and an examination of conscience at once, and it is Thalen's labour worn down past recognition, and no northern clansman alive knows that. The night-stone. Meat-sharing. The first bowl to the one who cannot fill it themselves.
+**Daily.** The woodpile. *How's your stack* is a greeting, a diagnostic and an examination of conscience at once, and it is Thalen's labor worn down past recognition, and no northern clansman alive knows that. The night-stone. Meat-sharing. The first bowl to the one who cannot fill it themselves.
 
 **The dead.** The death-house, the Waiting, sky burial. *Gone to the sky.* A whole national institution devoted to sitting with the dead through a winter, performed by a people who believe they are being practical. Kharven-Seat is the one exception, and it is the city's own rite rather than the faith's: the Seat buries its dead in the ground, under cut stones in the upper burying ground, while everywhere else the faith still gives its dead to the sky.
 
@@ -137,7 +137,7 @@ Most cults die in obscurity for want of a network, and this should be true in pl
 **Client cults** run on a personal relationship between a practitioner and the person paying, and sell a service rather than a membership.
 > **The kind readers.** A back room, a fee, and an assay of a sort: a reading of what a person actually is, given gently, with no record kept and nothing forwarded to the Accord. What the Guild examination offers, minus the consequences. Half of them are frauds, some are competent and unlicensed, and the distinction matters far less to the client than either party pretends. The Bench prosecutes them for unregistered practice and never for what they actually do, because what they actually do is listen.
 **Cultic movements** demand the whole person: commitment, money, and separation.
-> **The Lease-holders.** They hold that the Archons administer and the Titans own, that everything anyone has ever drawn was borrowed, and that the Withering is the term running out. Their response is not to repent but to **pay early**: tithe, labour, communal living, and a discipline of taking as little from the draw as a body can survive on.
+> **The Lease-holders.** They hold that the Archons administer and the Titans own, that everything anyone has ever drawn was borrowed, and that the Withering is the term running out. Their response is not to repent but to **pay early**: tithe, labor, communal living, and a discipline of taking as little from the draw as a body can survive on.
 >
 > They buy dead legs. A district the Guild has cut is a district where the Accord's writ has already failed, the property is worthless, and nobody is watching, so the Lease-holders move into the quiet quarters and are frequently the only functioning institution in them. **They feed people the Accord has stopped counting**, and they are growing, and the growth is measured almost exactly by the contraction of the signal net.
 >
@@ -149,7 +149,7 @@ Most cults die in obscurity for want of a network, and this should be true in pl
 
 **Petition is the tell.** Where a character goes when they want something badly places them faster than any statement of belief. The Sohai bars it, the Scale prices it, the Current is made of it, the Tally has no grammar for it, and the Sky does not consider the sky to be listening.
 
-**Every faith on this page is wrong about something specific**, and the scene is usually in the gap. The Current kills the people who practise it hardest. The Tally has lost a century. The Scale's weights were made by interested parties. The Sohai cannot see Singling in itself. The Sky's competence runs out in exactly the winter that matters.
+**Every faith on this page is wrong about something specific**, and the scene is usually in the gap. The Current kills the people who practice it hardest. The Tally has lost a century. The Scale's weights were made by interested parties. The Sohai cannot see Singling in itself. The Sky's competence runs out in exactly the winter that matters.
 
 **The votive is free texture and costs one line.** A shelf of tin hands at a seep. A ribbon at a wellhead. Coins nobody takes.
 
@@ -159,7 +159,7 @@ Researched rather than recalled.
 
 **Domestic devotion.** Pre-modern religious life ran substantially in the home, with most households holding objects of ritual significance ranging from fine work to cheap mass-produced items, and the same devotional practices spanning all social strata. Petitions increasingly moved into the domestic setting, with a promise to visit a shrine with an offering if help arrived.
 
-**Votives.** The vow is the lynchpin of the arrangement between the petitioner and the power, with the ex-voto given in hope or gratitude. Votives were frequently mould-made, inexpensive and used by ordinary people, and anatomical votives shaped like the afflicted body part were widespread across both pagan and later Christian shrines. The shelf of tin hands is this practice, transposed.
+**Votives.** The vow is the lynchpin of the arrangement between the petitioner and the power, with the ex-voto given in hope or gratitude. Votives were frequently mold-made, inexpensive and used by ordinary people, and anatomical votives shaped like the afflicted body part were widespread across both pagan and later Christian shrines. The shelf of tin hands is this practice, transposed.
 
 **Cult recruitment.** Interpersonal bonds are the essential mechanism, established quantitatively across several very different groups. Doctrine follows attachment rather than preceding it. Recruitment runs along existing networks and works most efficiently on people with few countervailing commitments, a condition the literature calls **structural availability**, and joiners are typically in a life transition and were introduced by somebody they already liked. Most new movements perish in obscurity for want of a recruitment network.
 

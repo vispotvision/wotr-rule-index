@@ -25,7 +25,7 @@ tags: ["Magic System", "Reference Table"]
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
 >
-> *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behaviour and physics. What the numbers do is make sure the behaviour was earned.*
+> *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behavior and physics. What the numbers do is make sure the behavior was earned.*
 
 ---
 
@@ -114,7 +114,7 @@ tags: ["Magic System", "Reference Table"]
 
 **A practitioner may bind a technique under a stated condition, sworn into the Lattice or into their own Crystal. The narrower the condition and the heavier the forfeiture, the greater the output.**
 > *"Against those who deserve it" is not a vow. "Only against the Zettari, and if I break it my Crystal shatters" is a vow.*
-**Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behaviour.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts.
+**Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts.
 
 **Why it kills.** A vow broken is a **Shear Break**. The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. The orders treat a lapsed vow as a medical emergency and get to the disciplinary question later, if there is one.
 > **The disclosure variant is the useful one.** Stating a technique's true mechanism aloud, in the target's hearing, before use, **surrenders every advantage of surprise and increases output accordingly.**

@@ -11,7 +11,7 @@ tags: ["Magic System", "Disciplines"]
 
 ## The Design Problem
 
-**The casting model as it stands is correct and complete. It is also, in its centre of gravity, Eastern.**
+**The casting model as it stands is correct and complete. It is also, in its center of gravity, Eastern.**
 
 The five-step pipeline runs inside one practitioner, in real time, in a single continuous act of will. The most legible unit is **the Technique**: a named, repeatable thing a person does with their body and their reserve, at a stated cost. *Every load-bearing question the system asks is a question about one soul's interior.*
 > **That is the cultivation shape. It is the core of the system and it stays the core, and it is not what Tolkien, Martin, Clarke or Le Guin are doing; the crafts below build their made things around it.**
@@ -42,7 +42,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 >
 > A glyph creates nothing. The law of the Wellspring (one of sixty natural sources of magic, each carrying a physical law) was already running. **Authorization** says by what right a limit is set, **Boundary** sets it, **Direction** states which way the law is to run across it, and **Sealing** takes the limit back down.
 >
-> *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burnt workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
+> *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burned workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
 >
 > ***The Western frame does not need to be imported into WOTR. It needs to be excavated out of it.***
 
@@ -50,7 +50,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 
 ## The Five Levers
 
-**I · Invert the status hierarchy.** Real-time casting sits at the centre by default. **Move the made object and the prepared substance above it in guild dignity, and put the live caster at the bottom of the guild ladder, whatever the crowd outside thinks of him.** *Costs nothing structurally. Changes everything about how the world reads.*
+**I · Invert the status hierarchy.** Real-time casting sits at the center by default. **Move the made object and the prepared substance above it in guild dignity, and put the live caster at the bottom of the guild ladder, whatever the crowd outside thinks of him.** *Costs nothing structurally. Changes everything about how the world reads.*
 
 **II · Contest the word.** **Nobody calls it magic.** Each craft carries an Accord name in liturgical Latin and a plain name in the common tongue, **and which one a character reaches for places them by class before they have finished the sentence.** *This is the Norman and Anglo-Saxon doublet English actually runs on, and it is Tolkien's method exactly.*
 
@@ -92,7 +92,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 
 ***Ars Operis.*** **The work. The umbrella and the examination category.**
 
-The discipline of building a lawful Parun sentence and committing it to a medium. **It is what the Accord tests, licences, taxes and prohibits. It is not a thing anyone practises**, because practice always means one of the four crafts beneath it.
+The discipline of building a lawful Parun sentence and committing it to a medium. **It is what the Accord tests, licenses, taxes and prohibits. It is not a thing anyone practices**, because practice always means one of the four crafts beneath it.
 > **The theoretical worker** studies Magicraft and performs nothing. They know the Codex (the Accord's master register of glyphs, Wellsprings and laws), the Families, the Wellspring assignments, the Derivation Index, the case law. **They can tell a Runesmith that his Boundary layer is malformed and be right. They have never in their lives put a working into anything.**
 >
 > *The Research and Archives Division is full of them, its examination boards are made of them, and its most senior appointments require no demonstrated capacity to cast whatsoever.*
@@ -100,7 +100,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 > **The practical worker** performs. **Their standing among the theoretical is roughly that of a farrier at a physicians' dinner.**
 >
 > *This tension is free, historically accurate to every guild that ever existed, and it gives the Accord an interior politics with no monster in it.*
-**The examination.** Four gates, in order, **and the order is the argument**: knowledge of grammar, then a demonstrated working, then a masterpiece submitted to the board, then the oath. *A worker who fails the masterpiece may practise under supervision indefinitely and will never sign their own name to an inscription.*
+**The examination.** Four gates, in order, **and the order is the argument**: knowledge of grammar, then a demonstrated working, then a masterpiece submitted to the board, then the oath. *A worker who fails the masterpiece may practice under supervision indefinitely and will never sign their own name to an inscription.*
 
 ---
 
@@ -115,11 +115,11 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 **What it costs** · **The body, immediately, in the same scene.** *There is no substrate to absorb the strain, so the practitioner is the substrate.*
 > **Status: low in the guilds' eyes, and only there. This is the single most important change in the document.**
 >
-> **To a guildsman, a man who can only speak is a man who could not afford to learn to cut.** The soldier's craft, the hedge-worker's craft, the travelling fraud's craft and the craft of the desperate.
+> **To a guildsman, a man who can only speak is a man who could not afford to learn to cut.** The soldier's craft, the hedge-worker's craft, the traveling fraud's craft and the craft of the desperate.
 >
 > It requires no substrate, no vessel, no workshop, no seven years, and no guild. ***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.*** The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see. The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see.
 >
-> *The Accord licences it grudgingly, at the lowest fee band, with the shortest examination — and its examiners refer to the licence among themselves as the shouting ticket.*
+> *The Accord licenses it grudgingly, at the lowest fee band, with the shortest examination — and its examiners refer to the license among themselves as the shouting ticket.*
 
 ### Delivery vectors · all of them Spellcraft
 
@@ -202,9 +202,9 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 **Medium** · the sustained sentence, carried by tone. **Neither ephemeral nor permanent.** It holds for as long as it is sung and decays predictably afterward.
 
-**What nothing else can do** · **It scales with throats.** Everything above trivial requires more than one voice, **which makes Chantcraft the only craft that cannot be practised alone.**
+**What nothing else can do** · **It scales with throats.** Everything above trivial requires more than one voice, **which makes Chantcraft the only craft that cannot be practiced alone.**
 > *That single constraint makes it institutional by necessity: orders, choirs, liturgies, schedules, a roster, and the particular catastrophe of a choir that loses three singers to fever in a week.*
-**What it costs** · **Other people, and their time, indefinitely.** *A sung ward is a standing labour obligation. Somebody is singing right now or the thing is failing.*
+**What it costs** · **Other people, and their time, indefinitely.** *A sung ward is a standing labor obligation. Somebody is singing right now or the thing is failing.*
 
 **Status: sacral, and outside the guild structure entirely** — which is why the Accord finds it difficult and why Sancta Lux and the Sohai live here.
 > **Reference points.** Finrod and Sauron singing at each other until one of them falls. Lúthien before the throne. *The monastic office sung eight times a day for six hundred years by men who were replaced one at a time.*

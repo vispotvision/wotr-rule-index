@@ -4,7 +4,7 @@
 
 ---
 
-> *My mother told me stories on the pallet in the last gallery, when the lamp was low and Yukazuri was asleep. Not the stories other mothers told. She told me about men in red armour laced with white, who knelt to nobody but one chair, and who walked out in front of the king when there was something coming that meant to come down on everyone behind him. She called them the Samurai of Fate. I asked her once where they were now. She said they were all dead, a long time ago, and turned her face to the wall.*
+> *My mother told me stories on the pallet in the last gallery, when the lamp was low and Yukazuri was asleep. Not the stories other mothers told. She told me about men in red armor laced with white, who knelt to nobody but one chair, and who walked out in front of the king when there was something coming that meant to come down on everyone behind him. She called them the Samurai of Fate. I asked her once where they were now. She said they were all dead, a long time ago, and turned her face to the wall.*
 >
 > *Attributed to Muken Moto, as set down in the* Annals of the North-Forged Crown
 
@@ -14,7 +14,7 @@
 
 Lorn Stark woke with his back against the death-house door and the bar going up behind him.
 
-He was on his feet before he knew he was awake, with his father's axe in his hands and his heart going like a drum. The door opened inward. A grey light came out of it, the last of the noon-through-cloud light that had been coming under it for a day and a night and a day, and it was fading as he watched, draining back into the dark of the cell like water into sand.
+He was on his feet before he knew he was awake, with his father's axe in his hands and his heart going like a drum. The door opened inward. A gray light came out of it, the last of the noon-through-cloud light that had been coming under it for a day and a night and a day, and it was fading as he watched, draining back into the dark of the cell like water into sand.
 
 And Muken came out.
 
@@ -30,7 +30,7 @@ His voice came out cracked. He had not used it in two days.
 
 Muken looked at him.
 
-The grey eyes. The ring-lines in them. The gold in the left one, the fine seam across the iris that Lorn had watched spread and spread through all the days since the long room, wider every time he looked. It was still there. But it lay quiet now. It did not burn. It sat in the grey of his eye the way a vein of ore sits in grey stone, very bright and very still.
+The gray eyes. The ring-lines in them. The gold in the left one, the fine seam across the iris that Lorn had watched spread and spread through all the days since the long room, wider every time he looked. It was still there. But it lay quiet now. It did not burn. It sat in the gray of his eye the way a vein of ore sits in gray stone, very bright and very still.
 
 "You kept the door," said Muken.
 
@@ -42,7 +42,7 @@ He did not say anything else. He did not need to. He put one hand on Lorn Stark'
 
 "Is it done?" said Muken. "The sword."
 
-"It's done." Lorn's voice was rough. "This morning. At dawn. The Dawi laid it on the table in the long room and lay down on the floor with his head on his anvil, and he's not moved since. Nobody's dared wake him." He swallowed. "And your aunt's had the Byakuya armourers at something all night in the gatehouse with the Akagane smiths and half of Hayato's riders, and none of them will tell me what. She said it was for you. She said you'd know."
+"It's done." Lorn's voice was rough. "This morning. At dawn. The Dawi laid it on the table in the long room and lay down on the floor with his head on his anvil, and he's not moved since. Nobody's dared wake him." He swallowed. "And your aunt's had the Byakuya armorers at something all night in the gatehouse with the Akagane smiths and half of Hayato's riders, and none of them will tell me what. She said it was for you. She said you'd know."
 
 Muken was quiet a moment.
 
@@ -58,13 +58,13 @@ It lay on the split pine table in front of Shigure Tenrai's carved chair, on a l
 
 The long room was very quiet. The fire in the great hearth had burned down to a deep red bed of coals, and it did not flicker, and it gave off a steady even heat that filled the room from wall to wall, though nobody had fed it since dawn. Borin Ironheart lay asleep on the stone floor in front of it with his head on his anvil and his great arms folded across his barrel chest and his three braided beard-trunks rising and falling, very slowly, like the bellows of a forge banked for the night. The crack he had made in the floor when he set the anvil down ran from the hearthstone to the leg of the table.
 
-Godfrey Greymane was sitting on the bench from the stables with his long grey hands folded on his knees, in a cloak that was not his own, a Stark hide-coat somebody had found him, and when the door opened he looked up, and got to his feet, and stood very still.
+Godfrey Greymane was sitting on the bench from the stables with his long gray hands folded on his knees, in a cloak that was not his own, a Stark hide-coat somebody had found him, and when the door opened he looked up, and got to his feet, and stood very still.
 
 Muken came across the room to the table.
 
 He did not touch it at once. He stood and looked at it.
 
-It was in its saya. Black lacquer, seven coats, so deep and so smooth that the red light of the coals lay in it like light in still water, bound at the mouth and the foot with plain iron. The hilt was bound in black rayskin and wrapped over in dark red silk cord, the old diamond pattern. The guard was the guard of the scrap-iron sword. He knew it at once. Cleaned and filed and polished until it was dark and plain and round, but it was the same guard, the one he had pulled out of a scrap-heap at the Orrel stamping floor when he was eleven, and there was a hole worked through it now, small, off-centre, in the shape of a needle's eye.
+It was in its saya. Black lacquer, seven coats, so deep and so smooth that the red light of the coals lay in it like light in still water, bound at the mouth and the foot with plain iron. The hilt was bound in black rayskin and wrapped over in dark red silk cord, the old diamond pattern. The guard was the guard of the scrap-iron sword. He knew it at once. Cleaned and filed and polished until it was dark and plain and round, but it was the same guard, the one he had pulled out of a scrap-heap at the Orrel stamping floor when he was eleven, and there was a hole worked through it now, small, off-center, in the shape of a needle's eye.
 
 The sageo, the cord that would bind it to his belt, was white.
 
@@ -78,7 +78,7 @@ And the sword sang.
 
 Not loudly. He was the only one in the room who heard it, though afterward Godfrey swore he had felt something, a stirring in the air like a breath let out. A single note. Clear and high and sweet, coming up out of the black lacquer and the iron and the steel inside it into the palm of his hand and up his arm into his chest, and settling there, in the place under his breastbone where the black hot thing lay banked.
 
-It was not the note of the scrap-iron sword. The scrap-iron had sung harsh and clanging, a pot-lid note, a note of a hundred bad smelts and a hundred bad smiths. This was something else. It was the note of grey steel that had had everything that was not steel folded out of it. And under it, woven through it, very faint, like a thread of silver running through grey cloth, there was another note.
+It was not the note of the scrap-iron sword. The scrap-iron had sung harsh and clanging, a pot-lid note, a note of a hundred bad smelts and a hundred bad smiths. This was something else. It was the note of gray steel that had had everything that was not steel folded out of it. And under it, woven through it, very faint, like a thread of silver running through gray cloth, there was another note.
 
 He knew it. He would have known it anywhere.
 
@@ -86,7 +86,7 @@ It was not her. He knew that. She was gone, down the road out, and he had opened
 
 He drew it.
 
-He did it slowly, an inch at a time, and the blade came out of the black ash saya without a sound, and the red light of the coals ran down it like water. It was plain. Grey steel, a long gentle curve, a single edge as fine as a hair. There was no pattern in the steel, no flame of temper-line along the edge, nothing. Only grey. And along it, from the needle-eyed guard a hand's width up the blade, in the place where the scrap-iron had broken, a single thin bright line. A seam of silver in grey stone.
+He did it slowly, an inch at a time, and the blade came out of the black ash saya without a sound, and the red light of the coals ran down it like water. It was plain. Gray steel, a long gentle curve, a single edge as fine as a hair. There was no pattern in the steel, no flame of temper-line along the edge, nothing. Only gray. And along it, from the needle-eyed guard a hand's width up the blade, in the place where the scrap-iron had broken, a single thin bright line. A seam of silver in gray stone.
 
 "Tsugigane," said Muken.
 
@@ -100,21 +100,21 @@ On the floor in front of the hearth, without opening his eyes, Borin Ironheart g
 
 Kiyome Byakuya was waiting for him in the gatehouse.
 
-She stood in the middle of the guardroom where Shigure Tenrai had once kept her carved chair, in her near-white robes with the hem grey from the yard, and her loose white hair tied back, and her sword at her hip without its knot. The room was full of people. Byakuya armourers in white, kneeling with needle and cord. Two Akagane smiths in copper-coloured aprons, still grimed to the elbow. Half a dozen of Hayato's Amagiri riders, who had been sent to strip the Tenrai armoury at the Foot of every piece of lacquered iron it held. And Tetsugen Akagane himself, sitting on an upturned bucket in the corner with his scarred hands on his knees, looking as if he had not slept, which he had not.
+She stood in the middle of the guardroom where Shigure Tenrai had once kept her carved chair, in her near-white robes with the hem gray from the yard, and her loose white hair tied back, and her sword at her hip without its knot. The room was full of people. Byakuya armorers in white, kneeling with needle and cord. Two Akagane smiths in copper-colored aprons, still grimed to the elbow. Half a dozen of Hayato's Amagiri riders, who had been sent to strip the Tenrai armory at the Foot of every piece of lacquered iron it held. And Tetsugen Akagane himself, sitting on an upturned bucket in the corner with his scarred hands on his knees, looking as if he had not slept, which he had not.
 
 They all stopped when he came in. They all stood.
 
-And laid out on a long trestle down the middle of the guardroom, piece by piece, there was the armour.
+And laid out on a long trestle down the middle of the guardroom, piece by piece, there was the armor.
 
 Muken stopped in the door and looked at it.
 
-"I didn't know what you meant," said Kiyome Byakuya quietly. "When you asked me. Before you went into the death-house. *Make me what she told me about.* I didn't know what she'd told you." Her grey eyes were very steady. "So I sat down and thought about what my sister would have told a boy on a pallet in a salt mine, at night, if she could only tell him one thing about who she was. And I knew."
+"I didn't know what you meant," said Kiyome Byakuya quietly. "When you asked me. Before you went into the death-house. *Make me what she told me about.* I didn't know what she'd told you." Her gray eyes were very steady. "So I sat down and thought about what my sister would have told a boy on a pallet in a salt mine, at night, if she could only tell him one thing about who she was. And I knew."
 
 She turned her head and looked at the trestle.
 
 "The Samurai of Fate," she said. "*Unmei no Samurai.* The guard of the red chair. They were the Kōkan king's own, from the old days, before the Recension. Every one of them sworn by name. Every one of them a Byakuya, or raised by the Byakuya, and taught the oath over the lamp. Red lacquer, for the red line. White lacing, for the white line that kept it." She breathed. "Kasane was the last of them. The last Byakuya sworn to stand at a Kōkan king's shoulder in the old way. She wore the red harness at Gimbzo's side for six years." Her voice did not shake. "She left it in the white house the night she went into the salt. It's still there. In the Shiraki hills. I couldn't bring it to you in a day." She looked at the trestle. "So we made you one."
 
-It was made out of Tenrai armour. Muken could see that. He could hear it, under the new lacquer, the note of the old iron, the plates that had been cut and riveted for some Tenrai captain at the Foot, whose name nobody remembered. But it had been taken apart. Every plate of it. And put back together.
+It was made out of Tenrai armor. Muken could see that. He could hear it, under the new lacquer, the note of the old iron, the plates that had been cut and riveted for some Tenrai captain at the Foot, whose name nobody remembered. But it had been taken apart. Every plate of it. And put back together.
 
 The cuirass was lamellar, the small iron scales laced into rows the old way, and every scale had been stripped of its Tenrai gold and lacquered again in a single night, coat on coat, dried in front of the gatehouse braziers, in a red so deep it was nearly black. The red of old blood. Of the red line. The lacing that held the scales together was white silk cord, close-woven, in the dense diagonal pattern Kiyome's grandmother had taught her. The shoulder-guards hung from the cuirass in the same red and white. The sleeves were dark cloth sewn over with small iron plates and fine mail. The thigh-guards, the greaves, the gauntlets with their fingers of mail and their backs of red-lacquered plate.
 
@@ -132,13 +132,13 @@ He looked at the cuirass again, at the place over the breastbone, over the heart
 
 A long down-stroke. A hook. A crossing. A small closed loop at the foot of it like a knot in a rope.
 
-He did not ask who had painted it. He knew. One of the Byakuya armourers was standing by the brazier with a fine brush still in her hand and white paint on her fingers, and she was crying, and trying not to.
+He did not ask who had painted it. He knew. One of the Byakuya armorers was standing by the brazier with a fine brush still in her hand and white paint on her fingers, and she was crying, and trying not to.
 
 ---
 
 They dressed him in the gatehouse, piece by piece, the old way.
 
-Kiyome did it herself, with the Byakuya armourers handing her each piece in turn. She knew the order. She had been taught it as a child, by the same grandmother who had taught her the oath over the lamp. First the under-robe, plain white, and the loose trousers bound at the ankle. Then the greaves, laced over the shins. Then the thigh-guards, tied round the waist, hanging like an apron of red scales over the front of the legs. Then the sleeves, one arm and then the other, and the gauntlets laced at the wrist. Then the cuirass itself, lifted onto him by two of the Akagane smiths because it was heavier than it looked, and closed down the right side, and tied. Then the shoulder-guards, each one hung from its cord at the shoulder and tied off behind. Then the throat-guard.
+Kiyome did it herself, with the Byakuya armorers handing her each piece in turn. She knew the order. She had been taught it as a child, by the same grandmother who had taught her the oath over the lamp. First the under-robe, plain white, and the loose trousers bound at the ankle. Then the greaves, laced over the shins. Then the thigh-guards, tied round the waist, hanging like an apron of red scales over the front of the legs. Then the sleeves, one arm and then the other, and the gauntlets laced at the wrist. Then the cuirass itself, lifted onto him by two of the Akagane smiths because it was heavier than it looked, and closed down the right side, and tied. Then the shoulder-guards, each one hung from its cord at the shoulder and tied off behind. Then the throat-guard.
 
 He stood still for all of it. He did not speak. He felt each piece go on, and settle, and take its weight, and he felt the weight go down through him into the stone floor of the gatehouse the way the weight of the threads had gone down through him in the place where the Works were written. He did not push against it. He let it pass.
 
@@ -146,7 +146,7 @@ When it was done, Kiyome stepped back.
 
 She looked at him for a long time.
 
-He stood in the middle of the gatehouse guardroom in the red harness of the Samurai of Fate, red as old blood and laced with white, with the tiny white mark painted over his heart and the bare black helmet in the hands of the armourer beside him. His white hair was tied back with the same strip of leather it had always been tied back with. His face, above the red throat-guard, was very still.
+He stood in the middle of the gatehouse guardroom in the red harness of the Samurai of Fate, red as old blood and laced with white, with the tiny white mark painted over his heart and the bare black helmet in the hands of the armorer beside him. His white hair was tied back with the same strip of leather it had always been tied back with. His face, above the red throat-guard, was very still.
 
 He was sixteen years old.
 
@@ -154,9 +154,9 @@ He looked, Kiyome Byakuya thought, like every story her grandmother had ever tol
 
 Tetsugen Akagane got up off his bucket.
 
-He came across the guardroom slowly, the old copper lord, broad as a door, and stopped in front of the boy in the red harness, and looked him up and down from under his thick grey brows.
+He came across the guardroom slowly, the old copper lord, broad as a door, and stopped in front of the boy in the red harness, and looked him up and down from under his thick gray brows.
 
-"Your father," said Tetsugen, "never wore red." His voice was flat and iron. "Did you know that? Gimbzo. He wore black. Black lacquer, black lacing, black everything, for twenty years. He said the red line had become a thing to be ashamed of, after what the Recension made of it, and that he'd not wear its colour until he'd made it worth wearing again." He was quiet a moment. "He never did."
+"Your father," said Tetsugen, "never wore red." His voice was flat and iron. "Did you know that? Gimbzo. He wore black. Black lacquer, black lacing, black everything, for twenty years. He said the red line had become a thing to be ashamed of, after what the Recension made of it, and that he'd not wear its color until he'd made it worth wearing again." He was quiet a moment. "He never did."
 
 Muken looked at him.
 
@@ -170,11 +170,11 @@ The note came up into his palm. Clear and high and sweet, with the silver thread
 
 He walked to the narrow window of the gatehouse and looked out.
 
-The window looked north, over the yard, and the woodpile, and the curtain wall with its long pale seam of the mend, and beyond the wall, the ridge. He could see the row of cairns on it, pale against the snow, the dead of the Foot. And at the end of the row, where the ridge looked south toward the Kessen road and the white country and the Seat, the last one. Higher than the others. With one small stone no bigger than a hen's egg set in the exact centre of the top.
+The window looked north, over the yard, and the woodpile, and the curtain wall with its long pale seam of the mend, and beyond the wall, the ridge. He could see the row of cairns on it, pale against the snow, the dead of the Foot. And at the end of the row, where the ridge looked south toward the Kessen road and the white country and the Seat, the last one. Higher than the others. With one small stone no bigger than a hen's egg set in the exact center of the top.
 
 He stood and looked at it for a long time.
 
-All of it. Everything since the map at Halcrest. The cellars, and his mother's lungs, and the factor at the top of the shaft. The salt. The Vessant road and the Veyrath ditch and the stair at the Foot. Ulf and Wystan riding south. The long room, and Kiyome's finger in the dust. The Skeldmere, and the iron hand coming apart in seven pieces. The shore, and the burning carts, and the salve tin in the snow. The silver room he had never seen and would see in three days. The grey sail coming up the frozen river like a leaf coming down a stream. The cairn. The road out, and the pale thread lifting off his open palm.
+All of it. Everything since the map at Halcrest. The cellars, and his mother's lungs, and the factor at the top of the shaft. The salt. The Vessant road and the Veyrath ditch and the stair at the Foot. Ulf and Wystan riding south. The long room, and Kiyome's finger in the dust. The Skeldmere, and the iron hand coming apart in seven pieces. The shore, and the burning carts, and the salve tin in the snow. The silver room he had never seen and would see in three days. The gray sail coming up the frozen river like a leaf coming down a stream. The cairn. The road out, and the pale thread lifting off his open palm.
 
 All of this pain. All of this suffering. He had carried it up out of the galleries on his back, and carried it across the north, and he had thought for a while, in the yard, cutting at nothing in the snow, that he would have to carry it forever, and that it would crack the world under his feet.
 
@@ -186,9 +186,9 @@ He could feel it going. Out of him, through the red harness and the stone of the
 
 He turned from the window.
 
-"Thank you," he said, to all of them. To Kiyome and Tetsugen and the Byakuya armourer with the white paint on her fingers and the Akagane smiths and Hayato's riders. "All of you."
+"Thank you," he said, to all of them. To Kiyome and Tetsugen and the Byakuya armorer with the white paint on her fingers and the Akagane smiths and Hayato's riders. "All of you."
 
-He took the bare black helmet from the armourer's hands and put it under his left arm.
+He took the bare black helmet from the armorer's hands and put it under his left arm.
 
 And walked out of the gatehouse.
 
@@ -198,7 +198,7 @@ And walked out of the gatehouse.
 
 Lorn Stark was waiting at the foot of the gatehouse stair.
 
-Of course he was. He was standing in the yard in the snow in his father's mail with his father's axe across his back and his hands still at his sides, the way he always stood, weight even on both feet, and when the gatehouse door opened and the king came down the stair in the red harness with the white lacing and the bare black helmet under his arm and the grey blade at his hip in its black saya, Lorn's face did something it had not done since he was a boy.
+Of course he was. He was standing in the yard in the snow in his father's mail with his father's axe across his back and his hands still at his sides, the way he always stood, weight even on both feet, and when the gatehouse door opened and the king came down the stair in the red harness with the white lacing and the bare black helmet under his arm and the gray blade at his hip in its black saya, Lorn's face did something it had not done since he was a boy.
 
 It went completely still.
 
@@ -212,7 +212,7 @@ He stopped at the foot of the stair, in front of Lorn.
 
 His voice carried over the whole yard. It did not have to be raised. It had that weight in it still, the weight Kiyome had heard in the long room, every word set down like a stone on a cairn.
 
-"Every Stark and every Greymane," he said. "Every Byakuya and Akagane and Amagiri rider. Thornwall. Ashmore. Everyone who'll come." His grey eyes went over them, slowly, the whole yard. "We march at first light. Down the Marrow, on the ice." He paused. "The same road they sent her home on."
+"Every Stark and every Greymane," he said. "Every Byakuya and Akagane and Amagiri rider. Thornwall. Ashmore. Everyone who'll come." His gray eyes went over them, slowly, the whole yard. "We march at first light. Down the Marrow, on the ice." He paused. "The same road they sent her home on."
 
 Nobody spoke.
 
@@ -228,7 +228,7 @@ Muken sat in Shigure Tenrai's carved chair in the red harness with the helmet on
 
 The Lady of Thornwall spoke first.
 
-She had come in off the Skeldmere with her pikes the day after the battle and stayed. She was a small upright woman of perhaps sixty, Byakuya-born, with Kiyome's grey eyes and a Thornwall woman's weathered face and grey felt, and her name, it turned out, was Hisae. She had never once in forty years in the north been called anything but *the Lady*, and she seemed faintly surprised that anyone wanted to know it.
+She had come in off the Skeldmere with her pikes the day after the battle and stayed. She was a small upright woman of perhaps sixty, Byakuya-born, with Kiyome's gray eyes and a Thornwall woman's weathered face and gray felt, and her name, it turned out, was Hisae. She had never once in forty years in the north been called anything but *the Lady*, and she seemed faintly surprised that anyone wanted to know it.
 
 "The Seat stands on the rock above the Marrow," she said, in a voice like dry leaves. "Everyone knows that. The cliff on the west, four hundred feet to the river. The Hall of Verdicts on the crown of the rock. The Shirogane house on the western terrace under it. The Tenrai keep on the east. And the main gate on the south, where the road comes up from the river ford, and it's been the main gate for three hundred years because there's no other way up the rock that an army can use." She folded her small hands. "No other way that the Tenrai know of."
 
@@ -248,11 +248,11 @@ Muken said nothing. He was looking at the map on the table, at the pale line of 
 
 They all turned.
 
-The woman who had spoken had come up the Kessen road that afternoon in a closed sledge with a Hallenfeld courier captain at the reins and six armed clerks riding behind. She was tall and thin and grey and wrapped in a great dark coat lined with wolf, and she had ink on her fingers. She had not taken off her gloves. She sat at the far end of the split pine table with a ledger open in front of her, and she had been writing in it, steadily, all through the Lady of Thornwall's account.
+The woman who had spoken had come up the Kessen road that afternoon in a closed sledge with a Hallenfeld courier captain at the reins and six armed clerks riding behind. She was tall and thin and gray and wrapped in a great dark coat lined with wolf, and she had ink on her fingers. She had not taken off her gloves. She sat at the far end of the split pine table with a ledger open in front of her, and she had been writing in it, steadily, all through the Lady of Thornwall's account.
 
 "Ilse Hallenfeld," said Godfrey quietly, for the king's ear. "Mistress of the Hallenfeld counting-house. The junction. Every courier and quartermaster and road-toll between the Seat and the southern marches answers to her." He was quiet a moment. "She doesn't leave the junction. Ever."
 
-"I've left it," said Ilse Hallenfeld, without looking up from her ledger. "I'll want that noted." She turned a page. "The Seat has twelve hundred house-guard, give or take, and what's left of the Haldorsson Keld, who came in off the Skeldmere with Karogane's carriage because their clan had already taken Tenrai silver and had nowhere else to go. Perhaps six hundred. And it has the Tenrai lords and their practitioners, which is the problem." She looked up at last, with eyes like grey ice. "The Seat's wards are drawn. The gate-wards, the wall-wards, the wards on the Hall. All of them. They draw off the Seat's main, the Guild main that comes up from the southern Wellsprings through the conduit under the river. Brass and slate and Guild seals, the whole length of it. Without the draw, those wards are stone with some gold paint on it." She tapped the ledger with one gloved finger. "The draw-masters who keep that main are Guild. Guild draw-masters are paid by the Seat's treasury, quarterly, through the Hallenfeld counting-house, because the Seat's treasury has been running on Hallenfeld credit for eleven years and it hasn't paid us back a copper of it."
+"I've left it," said Ilse Hallenfeld, without looking up from her ledger. "I'll want that noted." She turned a page. "The Seat has twelve hundred house-guard, give or take, and what's left of the Haldorsson Keld, who came in off the Skeldmere with Karogane's carriage because their clan had already taken Tenrai silver and had nowhere else to go. Perhaps six hundred. And it has the Tenrai lords and their practitioners, which is the problem." She looked up at last, with eyes like gray ice. "The Seat's wards are drawn. The gate-wards, the wall-wards, the wards on the Hall. All of them. They draw off the Seat's main, the Guild main that comes up from the southern Wellsprings through the conduit under the river. Brass and slate and Guild seals, the whole length of it. Without the draw, those wards are stone with some gold paint on it." She tapped the ledger with one gloved finger. "The draw-masters who keep that main are Guild. Guild draw-masters are paid by the Seat's treasury, quarterly, through the Hallenfeld counting-house, because the Seat's treasury has been running on Hallenfeld credit for eleven years and it hasn't paid us back a copper of it."
 
 Hayato Amagiri began, very slowly, to smile.
 
@@ -268,7 +268,7 @@ Muken looked at her a long moment.
 
 Ilse Hallenfeld did not pretend to misunderstand him.
 
-"Because the Tenrai are bad debtors," she said. "Because the Shirogane are worse. Because a girl of thirteen came down the Marrow past my junction on a sledge with a grey sail, and my courier captains stood on the bank and took their caps off, and I asked them why." She folded her gloved hands on the ledger. "And because the counting-house has kept its books for three hundred years on one rule, which is that a debt is a debt, and it gets paid. They owe you. I'd like to see it collected."
+"Because the Tenrai are bad debtors," she said. "Because the Shirogane are worse. Because a girl of thirteen came down the Marrow past my junction on a sledge with a gray sail, and my courier captains stood on the bank and took their caps off, and I asked them why." She folded her gloved hands on the ledger. "And because the counting-house has kept its books for three hundred years on one rule, which is that a debt is a debt, and it gets paid. They owe you. I'd like to see it collected."
 
 Edric Ashmore laughed, once, from the other side of the table.
 
@@ -294,21 +294,21 @@ Ashmore looked at him for a long moment. Then he nodded slowly.
 
 They came down the Marrow on the ice in three days, as he had said they would.
 
-Three thousand and more of them. Stark riders and Greymane foot, Byakuya and Akagane and Amagiri, Thornwall pikes and Ashmore horse and the Hallenfeld clerks riding at the back of the column with their ledgers, on the frozen river road through the forest and out past the meres and down through the long white valley toward the rock, the same road the grey sail had come up. They passed the place on the bank where the Keld stragglers had stood and stared. They passed the place where the Thornwall column had taken off their caps. Nobody spoke of it. Nobody needed to.
+Three thousand and more of them. Stark riders and Greymane foot, Byakuya and Akagane and Amagiri, Thornwall pikes and Ashmore horse and the Hallenfeld clerks riding at the back of the column with their ledgers, on the frozen river road through the forest and out past the meres and down through the long white valley toward the rock, the same road the gray sail had come up. They passed the place on the bank where the Keld stragglers had stood and stared. They passed the place where the Thornwall column had taken off their caps. Nobody spoke of it. Nobody needed to.
 
-On the third morning, in the grey before the first bell, they stood on the ice of the Marrow below Kharven-Seat.
+On the third morning, in the gray before the first bell, they stood on the ice of the Marrow below Kharven-Seat.
 
 It stood up out of the white country like a fist raised to the sky, and it was beautiful. Nobody in the column had expected that. A great dark rock rising sheer out of the frozen river on the west, four hundred feet of cliff veined with frost that glittered rose and pale gold where the first light touched it, and lit all the way up its face, in the dark before dawn, by lamps. Worked lamps, hundreds of them, in cages of brass along the cliff stair and the terraces and the long curtain walls, burning a steady amber that never flickered, so that the whole rock seemed strung with beads of honey. Halfway up it the silver house of the Shirogane sat on its terrace like a bird on a ledge, its tall windows glowing blue-white from within. Above that the long black roof of the Hall of Verdicts on the crown, steaming faintly where the snow melted off it over the heated stone. The Tenrai keep on the east, its gold leaf catching the lamplight in long bright bars. A lift-cage of black iron and brass hung on its cables from the cliff-top to the river ford, lit inside like a lantern. And down at the foot of the rock, where the poor of the Seat lived in the lower town along the river, a thousand small orange points of oil-light, crowded together, the smoke of their chimneys going straight up in the still air into the last of the aurora, which hung over the whole of it in a slow green curtain fading into the blue of the morning. The Tenrai banners hung gold and crimson from every wall. And under everything, through the rock and the walls and the ice under their feet, they could hear it. The draw-hum. The low steady sound of the Guild main coming up from the south under the river through its brass and slate, feeding the wards. It had been humming under the Seat for three hundred years. It had never once stopped.
 
-Muken stood on the ice at the head of the Stark vanguard at the foot of the south road, in the red harness, with the bare black helmet on his head now and the grey blade at his hip, and looked up at the main gate.
+Muken stood on the ice at the head of the Stark vanguard at the foot of the south road, in the red harness, with the bare black helmet on his head now and the gray blade at his hip, and looked up at the main gate.
 
 He could see the ward-stone.
 
-The one he had seen in the place where the threads run. Set into the foundation of the gatehouse, low, on the left, a block of grey granite with Tenrai gold worked into its face in a pattern of angular glyphs, humming with the draw. And under the hum of the draw, under the gold, the other note. The sour one. The note of an oath laid by a man who had not meant it. He could hear it from here, half a mile off, on the ice. He had been hearing it for three days.
+The one he had seen in the place where the threads run. Set into the foundation of the gatehouse, low, on the left, a block of gray granite with Tenrai gold worked into its face in a pattern of angular glyphs, humming with the draw. And under the hum of the draw, under the gold, the other note. The sour one. The note of an oath laid by a man who had not meant it. He could hear it from here, half a mile off, on the ice. He had been hearing it for three days.
 
 He waited.
 
-On his right, Lorn Stark sat his horse in his father's mail. On his left, Godfrey Greymane, on foot, at the head of the Greymane foot in their long grey file, with a new grey cloak at last, sewn for him in the night by the women of the long houses. Behind them, the Stark vanguard and the white banner, blank as new snow.
+On his right, Lorn Stark sat his horse in his father's mail. On his left, Godfrey Greymane, on foot, at the head of the Greymane foot in their long gray file, with a new gray cloak at last, sewn for him in the night by the women of the long houses. Behind them, the Stark vanguard and the white banner, blank as new snow.
 
 Far off to the east, on the hills, where the Thornwood stood dark against the white, nothing moved.
 
@@ -320,7 +320,7 @@ It did not stop at once. It stuttered. It went up in pitch, high and thin and wa
 
 The silence came down on Kharven-Seat like snow.
 
-Every man on the ice heard it. The absence of a sound that had always been there. And then they saw it. Up the whole face of the rock, the worked lamps went out. Not all at once: in a long falling ripple, terrace by terrace, from the crown down, like a string of beads cut and sliding off the thread, amber, amber, dark. The blue-white glow in the tall windows of the silver house went dim and died. The steam stopped rising off the roof of the Hall. Halfway up its cables, the lift-cage jerked, and swung, and hung there, and its light went out. Only the orange oil-lights of the lower town along the river were left burning, small and crowded and stubborn, the way they had always burned. The Seat stood up out of the frozen river in the grey morning with its walls and its gold and its banners, dark from crown to foot, and for the first time in three hundred years it was utterly, perfectly silent, and on the walls the men in Tenrai gold stood and looked at each other, and somebody on the gatehouse began to shout.
+Every man on the ice heard it. The absence of a sound that had always been there. And then they saw it. Up the whole face of the rock, the worked lamps went out. Not all at once: in a long falling ripple, terrace by terrace, from the crown down, like a string of beads cut and sliding off the thread, amber, amber, dark. The blue-white glow in the tall windows of the silver house went dim and died. The steam stopped rising off the roof of the Hall. Halfway up its cables, the lift-cage jerked, and swung, and hung there, and its light went out. Only the orange oil-lights of the lower town along the river were left burning, small and crowded and stubborn, the way they had always burned. The Seat stood up out of the frozen river in the gray morning with its walls and its gold and its banners, dark from crown to foot, and for the first time in three hundred years it was utterly, perfectly silent, and on the walls the men in Tenrai gold stood and looked at each other, and somebody on the gatehouse began to shout.
 
 Muken drew Tsugigane.
 
@@ -336,7 +336,7 @@ They heard it on the ice. A single sharp report, like a log splitting in a deep 
 
 The gate of Kharven-Seat came down.
 
-It came down slowly, the great gate and the gatehouse round it, along its own rot, the way the rope had come down in the place where the Works were written. It sagged, and then folded, and then fell, in a long grinding roar and a great cloud of grey dust and old snow, and when the dust cleared there was a hole in the south wall of Kharven-Seat where the gate had been, wide enough to ride twenty abreast. And on either side of it, the wall stood. Every sound stone in it. Untouched.
+It came down slowly, the great gate and the gatehouse round it, along its own rot, the way the rope had come down in the place where the Works were written. It sagged, and then folded, and then fell, in a long grinding roar and a great cloud of gray dust and old snow, and when the dust cleared there was a hole in the south wall of Kharven-Seat where the gate had been, wide enough to ride twenty abreast. And on either side of it, the wall stood. Every sound stone in it. Untouched.
 
 Muken sheathed Tsugigane.
 
@@ -350,7 +350,7 @@ They told it afterward round every fire in the north, and they told it for a hun
 
 The Stark vanguard went through the broken gate at the gallop with the white banner at its head, and the Greymane foot behind them, and they met the Tenrai house-guard in the square inside the gate, and the house-guard broke. They did not break all at once. Some of them fought, and fought well, the way men fight who have been told all their lives that they are the best soldiers in the north. But their wards had gone dead under them, and the draw-hum was gone, and their practitioners on the walls were reaching for Wellsprings that would not answer through a silent main, and in the middle of it all, behind them, on the eastern wall, there were suddenly Thornwall pikes.
 
-Twelve hundred of them. Up a stair behind a frozen waterfall that nobody in the Seat had known was there, thirty at a time, in the grey before the first bell, while every eye on the rock was on the south road and the boy in red on the ice. They came over the eastern wall in a hedge of iron points with the thorn-horn sounding, and the Tenrai keep was between them and the square, and the Tenrai keep did not hold.
+Twelve hundred of them. Up a stair behind a frozen waterfall that nobody in the Seat had known was there, thirty at a time, in the gray before the first bell, while every eye on the rock was on the south road and the boy in red on the ice. They came over the eastern wall in a hedge of iron points with the thorn-horn sounding, and the Tenrai keep was between them and the square, and the Tenrai keep did not hold.
 
 And the Tenrai lords ran.
 
@@ -372,7 +372,7 @@ There was no saving it. Muken knew that from twenty paces, through the gold: the
 
 Rob Stark looked up at his brother, and at Mark, and at the boy with the red ears, who was on his knees on the cobbles with his hands over his mouth.
 
-"Tell her," said Rob. It came out wet. He was smiling. "The little surgeon. Tell her I didn't..." He coughed, and there was a great deal of red in it, very bright on the grey stone. "Tell her I didn't scream this time."
+"Tell her," said Rob. It came out wet. He was smiling. "The little surgeon. Tell her I didn't..." He coughed, and there was a great deal of red in it, very bright on the gray stone. "Tell her I didn't scream this time."
 
 Then he was gone.
 
@@ -390,7 +390,7 @@ To say they were defeated would have been an understatement. The Tenrai of Kharv
 
 Karogane was waiting for him on the stair to the silver house.
 
-It was a long stair, cut into the face of the cliff below the Hall of Verdicts, steep and narrow, with a rail of iron on the outer side and nothing beyond the rail but four hundred feet of air and the frozen river. It went down from the Hall square to the Shirogane terrace. And halfway down it, where it turned on a narrow landing, the Tenrai agent stood with his back to the rock and his plain grey cloak thrown back and his long pale hands quite empty, as though he had been standing there all morning, waiting for someone in particular to come down.
+It was a long stair, cut into the face of the cliff below the Hall of Verdicts, steep and narrow, with a rail of iron on the outer side and nothing beyond the rail but four hundred feet of air and the frozen river. It went down from the Hall square to the Shirogane terrace. And halfway down it, where it turned on a narrow landing, the Tenrai agent stood with his back to the rock and his plain gray cloak thrown back and his long pale hands quite empty, as though he had been standing there all morning, waiting for someone in particular to come down.
 
 Muken came down the stair alone.
 
@@ -404,7 +404,7 @@ Karogane looked up at him. The long pale face. The very pale eyes. For the first
 
 "Muken Moto," said Muken.
 
-"So I've heard." The soft dry voice was very level. "So the whole north has heard, apparently. Shouted from a woodpile." The pale eyes went over the red harness, the white lacing, the bare black helmet, the grey blade at his hip. "And now you've dressed up as one of her old guard. The Samurai of Fate." Something that was nearly a smile. "Your mother wore that, you know. At Gimbzo's side. I saw her once. She looked better in it."
+"So I've heard." The soft dry voice was very level. "So the whole north has heard, apparently. Shouted from a woodpile." The pale eyes went over the red harness, the white lacing, the bare black helmet, the gray blade at his hip. "And now you've dressed up as one of her old guard. The Samurai of Fate." Something that was nearly a smile. "Your mother wore that, you know. At Gimbzo's side. I saw her once. She looked better in it."
 
 Muken said nothing.
 
@@ -418,7 +418,7 @@ The pale eyes narrowed a fraction.
 
 Karogane looked at him for a long moment.
 
-Then his long pale hand went inside his grey cloak, and came out with the sword.
+Then his long pale hand went inside his gray cloak, and came out with the sword.
 
 The short straight blade. Plain Tenrai steel with no gold on it anywhere. The one nobody had ever seen until a silver room at the foot of an empty dais. Muken knew it at once. He had never seen it. He knew it.
 
@@ -446,7 +446,7 @@ He did not strike. He only held it, through Tsugigane's steel, along the length 
 
 The plain blade broke.
 
-Not with a crack. It simply came apart in Karogane's hand, all along its length, the way a dead branch comes apart when you step on it in the snow, into a dozen grey pieces that rang on the stone of the landing and slid off the edge between the rails of the iron balustrade and fell, turning, four hundred feet, to the frozen river below.
+Not with a crack. It simply came apart in Karogane's hand, all along its length, the way a dead branch comes apart when you step on it in the snow, into a dozen gray pieces that rang on the stone of the landing and slid off the edge between the rails of the iron balustrade and fell, turning, four hundred feet, to the frozen river below.
 
 Karogane stood on the landing with the empty hilt in his long pale hand and stared at it.
 
@@ -456,7 +456,7 @@ Muken put the point of Tsugigane against his throat.
 
 Karogane did not move.
 
-He stood there with the grey blade at his throat and the empty hilt in his hand, and looked at the boy in red. And for the first time in his life, perhaps, the long pale face did something. It broke. Not much. A crack across it, at the mouth. And what was underneath, for one instant, was the face of a tired, frightened, ordinary man who had spent his whole life being a knife in somebody else's hand, and had just watched the knife come apart.
+He stood there with the gray blade at his throat and the empty hilt in his hand, and looked at the boy in red. And for the first time in his life, perhaps, the long pale face did something. It broke. Not much. A crack across it, at the mouth. And what was underneath, for one instant, was the face of a tired, frightened, ordinary man who had spent his whole life being a knife in somebody else's hand, and had just watched the knife come apart.
 
 He knelt.
 
@@ -472,11 +472,11 @@ They were already coming down the stair. They had not stayed at the top. He had 
 
 The silver house was open.
 
-Nobody had shut the doors. There was nobody left in it to shut them. The servants in grey had fled when the draw stopped, down the river stair with the Tenrai lords, or up into the Hall square to throw themselves on Kiyome's mercy, and the long silver receiving room on the cliff side stood open to the cold, with its lamps out and its silver cages dark and the grey light coming in through the tall windows off the frozen river four hundred feet below.
+Nobody had shut the doors. There was nobody left in it to shut them. The servants in gray had fled when the draw stopped, down the river stair with the Tenrai lords, or up into the Hall square to throw themselves on Kiyome's mercy, and the long silver receiving room on the cliff side stood open to the cold, with its lamps out and its silver cages dark and the gray light coming in through the tall windows off the frozen river four hundred feet below.
 
 Muken walked down the length of it alone.
 
-The floor was pale grey stone polished until it held the light like still water. It was very clean. He walked across it, in the red harness and the bare black helmet, with Tsugigane in its saya at his hip, and did not look down. He could hear it. Under the polish, in the stone, near the foot of the dais, there was a note. Very faint. The note of a place where something had been spilled, and wiped up, and wiped up again, until there was nothing left to see.
+The floor was pale gray stone polished until it held the light like still water. It was very clean. He walked across it, in the red harness and the bare black helmet, with Tsugigane in its saya at his hip, and did not look down. He could hear it. Under the polish, in the stone, near the foot of the dais, there was a note. Very faint. The note of a place where something had been spilled, and wiped up, and wiped up again, until there was nothing left to see.
 
 He stopped at the foot of the dais.
 
@@ -492,7 +492,7 @@ He could see the thread. The one he had seen in the place where the threads run.
 
 Shizuha Shirogane was sitting in it.
 
-She sat very upright, with her hands folded in her lap, in her silver-grey gown with the frost-work down the front. It had been cleaned. There was no mark on it anywhere. Her short grey hair was perfectly in place. Her pale coin-bright eyes were open, and fixed on the boy in red at the foot of the dais.
+She sat very upright, with her hands folded in her lap, in her silver-gray gown with the frost-work down the front. It had been cleaned. There was no mark on it anywhere. Her short gray hair was perfectly in place. Her pale coin-bright eyes were open, and fixed on the boy in red at the foot of the dais.
 
 "He wouldn't sit in it," said Shizuha Shirogane.
 
@@ -504,9 +504,9 @@ Muken said nothing.
 
 "So I sat," said Shizuha. "It seemed only fair." She looked back up. "It's very uncomfortable. I'd always wondered."
 
-The grey light came in through the tall windows. Somewhere far below, on the frozen river, a horse was neighing.
+The gray light came in through the tall windows. Somewhere far below, on the frozen river, a horse was neighing.
 
-"You came yourself," said Shizuha Shirogane. "In her colours. In the red harness. Kasane's." Something moved in her face that was not quite a smile. "I'd hoped you'd come burning. I'd hoped you'd come down that stair with the cliff cracking under your feet and the Hall falling in behind you and your eyes gone gold to the edges, the way his did, at the end. Gimbzo's." She tilted her head a degree. "I'd have been content, if you had. I'd have won."
+"You came yourself," said Shizuha Shirogane. "In her colors. In the red harness. Kasane's." Something moved in her face that was not quite a smile. "I'd hoped you'd come burning. I'd hoped you'd come down that stair with the cliff cracking under your feet and the Hall falling in behind you and your eyes gone gold to the edges, the way his did, at the end. Gimbzo's." She tilted her head a degree. "I'd have been content, if you had. I'd have won."
 
 "I know," said Muken.
 
@@ -518,7 +518,7 @@ She looked at him a long moment.
 
 "Why didn't it break?" said Shizuha Shirogane.
 
-Muken looked up at her, the small grey woman in the silver chair at the top of the dais that had been built for her by a dead man, with her hands folded in her lap and the cliff and the frozen river behind her through the tall windows.
+Muken looked up at her, the small gray woman in the silver chair at the top of the dais that had been built for her by a dead man, with her hands folded in her lap and the cliff and the frozen river behind her through the tall windows.
 
 "It did," he said.
 
@@ -528,11 +528,11 @@ He did not say anything else. He did not explain. He stood at the foot of the da
 
 She was in the doorway. She had been there since he came in. He had heard her note, clear and steady, the white line.
 
-"Lady Shirogane is to come with us to the Hall," said Muken. "She's to be treated with every courtesy her rank deserves." He was quiet a moment. "And Lord Kagenori is to be taken up and laid out properly. In the Tenrai keep. In his own colours." He looked down at the letter on the step, at the single word on its face. "And that's to go with him. Unopened."
+"Lady Shirogane is to come with us to the Hall," said Muken. "She's to be treated with every courtesy her rank deserves." He was quiet a moment. "And Lord Kagenori is to be taken up and laid out properly. In the Tenrai keep. In his own colors." He looked down at the letter on the step, at the single word on its face. "And that's to go with him. Unopened."
 
 "Sire," said Kiyome Byakuya.
 
-Muken turned from the dais and walked back down the long silver room toward the door, across the pale grey floor that held the light like still water. And at the place near the foot of the dais where the note was, the faint note under the polish, he did not stop. But he slowed, very slightly. And then went on.
+Muken turned from the dais and walked back down the long silver room toward the door, across the pale gray floor that held the light like still water. And at the place near the foot of the dais where the note was, the faint note under the polish, he did not stop. But he slowed, very slightly. And then went on.
 
 Behind him, in the silver chair, Shizuha Shirogane sat very upright with her hands folded in her lap, and watched him go, and did not say anything at all.
 

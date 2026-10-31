@@ -27,7 +27,7 @@ A practitioner who draws in a saturated room is working against a gradient and p
 
 **The Wellspring stratum.** Each of the sixty carries a Core Law, and each Core Law states a real regularity of the world. The glyph does not create the law. The glyph is a boundary condition imposed on a law that was already running, and the working is what the law does once the boundary has moved.
 
-This is the single most misunderstood sentence in practical instruction. Nobody makes fire. A practitioner establishes a condition under which the ordinary behaviour of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones the practitioner has not thought about. Practitioners are burned by their own workings constantly, and the reason is always the same: the law kept running after the intent stopped.
+This is the single most misunderstood sentence in practical instruction. Nobody makes fire. A practitioner establishes a condition under which the ordinary behavior of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones the practitioner has not thought about. Practitioners are burned by their own workings constantly, and the reason is always the same: the law kept running after the intent stopped.
 
 **The Essence stratum.** The Soul Crystal's three layers, its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally.
 
@@ -65,7 +65,7 @@ This is why the physical account matters at all. A system that only described it
 
 ## VI. The Form of a Proper Entry
 
-The Registry's standard, unchanged since the second Register and honoured about half the time.
+The Registry's standard, unchanged since the second Register and honored about half the time.
 
 **The phenomenon**, named in ordinary terms and in the vocabulary a Measurewright would use.
 
@@ -75,7 +75,7 @@ The Registry's standard, unchanged since the second Register and honoured about 
 
 **The Essence account**, at all three strata, in diagnostic voice.
 
-**The fault**, which falls out of the mechanism and never out of the practitioner's stamina. Every working has one. A working recorded without a fault has been recorded by someone who did not look, and the Registry's back catalogue is full of them.
+**The fault**, which falls out of the mechanism and never out of the practitioner's stamina. Every working has one. A working recorded without a fault has been recorded by someone who did not look, and the Registry's back catalog is full of them.
 
 ## VII. The Four Faults
 
@@ -87,4 +87,4 @@ Every documented failure mode reduces to one of these.
 
 **Structural fault.** The Crystal could not hold what the boundary permitted. Overchannel, Backlash, Fracture. The working succeeds and the practitioner does not.
 
-**Coherence fault.** The practitioner's lived behaviour and their stated law have drifted apart, and the Continuum reads the drift. Output degrades, Thresholds refuse to authorise, and Traits begin to argue with their bearer. This is the slowest fault and the one that ends careers.
+**Coherence fault.** The practitioner's lived behavior and their stated law have drifted apart, and the Continuum reads the drift. Output degrades, Thresholds refuse to authorise, and Traits begin to argue with their bearer. This is the slowest fault and the one that ends careers.

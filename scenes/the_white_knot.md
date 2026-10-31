@@ -6,7 +6,7 @@
 
 They came in a day and a half.
 
-The crows had said three days. The crows had been counting by the western road, the way any sane rider would come, down out of the shield and across the low country and up the long valley through the villages. The Moto did not come by the western road. They came out of the forest on the north side of the enclave, by a path through the cedars that Naevra had walked a hundred times as a girl and had never once seen a horse on, a deer track over a shoulder of the hill that ended in a gully nobody used. Twenty riders in plain grey cloaks, with no banners, picking their way down the gully in single file in the blue hour before dawn. The wards had felt them coming an hour before the sentries saw them. By the time the house woke, they were already standing at the north gate with their horses' heads down and steaming, waiting to be let in.
+The crows had said three days. The crows had been counting by the western road, the way any sane rider would come, down out of the shield and across the low country and up the long valley through the villages. The Moto did not come by the western road. They came out of the forest on the north side of the enclave, by a path through the cedars that Naevra had walked a hundred times as a girl and had never once seen a horse on, a deer track over a shoulder of the hill that ended in a gully nobody used. Twenty riders in plain gray cloaks, with no banners, picking their way down the gully in single file in the blue hour before dawn. The wards had felt them coming an hour before the sentries saw them. By the time the house woke, they were already standing at the north gate with their horses' heads down and steaming, waiting to be let in.
 
 *Hayato's roads,* Naevra thought, when the runner brought her the word. *He found a way through the hills that we didn't know we had.*
 
@@ -14,17 +14,17 @@ She was not sure whether that frightened her or not. She decided, on the way to 
 
 ---
 
-The north gate was the smallest of the enclave's four: two posts of dark cedar and a crossbeam carved with the crow, and under the crow the old words of the house cut small into the grain, *a crow perches, a crow watches, a crow remembers*, and a pair of plain wooden doors, and beyond them a stretch of trampled snow where the gully came out of the trees, blue in the dawn and glittering where the first light reached it. The house-guard had opened the doors and stood back from them, as Naiser had ordered, and Naevra walked out through them alone, in dove-grey, barefoot on the cold boards of the threshold, with her white hair in its plait and nothing in her hands.
+The north gate was the smallest of the enclave's four: two posts of dark cedar and a crossbeam carved with the crow, and under the crow the old words of the house cut small into the grain, *a crow perches, a crow watches, a crow remembers*, and a pair of plain wooden doors, and beyond them a stretch of trampled snow where the gully came out of the trees, blue in the dawn and glittering where the first light reached it. The house-guard had opened the doors and stood back from them, as Naiser had ordered, and Naevra walked out through them alone, in dove-gray, barefoot on the cold boards of the threshold, with her white hair in its braid and nothing in her hands.
 
 The wards rose round her as she stepped through. She felt them reach out across the snow and touch the riders, and weigh them, and settle. Caution, very deep. Exhaustion. Grief, in some of them, old and worn smooth. And under all of it, in the one at the front, something so still and so clean that the wards went over it like water over glass and found nowhere at all to catch.
 
 The one at the front had already dismounted. She stood a little ahead of the others, in the trampled snow, with her horse's rein looped over one arm.
 
-She was tall. As tall as Naevra, nearly, and as pale, so that standing face to face on either side of the threshold they might have been the same white figure and its reflection in dark water. Her travelling clothes were near-white, layered, plain, the white of fresh linen and not of silk, stained grey at the hem from the road. The glass veil of her line was pinned back from her face and the beads of it hung at her temples, and they clicked very faintly when she moved her head. At the crown of her head the halo-ring of pale metal caught the first rose of the dawn, and the glass beads took it too and threw it back in small coloured sparks, rose and lavender and a cold clear green. The sheen of the Moto blood lay faint as frost along her brow and at her temples, and her eyes were grey, light grey, the grey of rain on a window, with fine silver rings in them that lay motionless as the face of a deep well.
+She was tall. As tall as Naevra, nearly, and as pale, so that standing face to face on either side of the threshold they might have been the same white figure and its reflection in dark water. Her traveling clothes were near-white, layered, plain, the white of fresh linen and not of silk, stained gray at the hem from the road. The glass veil of her line was pinned back from her face and the beads of it hung at her temples, and they clicked very faintly when she moved her head. At the crown of her head the halo-ring of pale metal caught the first rose of the dawn, and the glass beads took it too and threw it back in small colored sparks, rose and lavender and a cold clear green. The sheen of the Moto blood lay faint as frost along her brow and at her temples, and her eyes were gray, light gray, the gray of rain on a window, with fine silver rings in them that lay motionless as the face of a deep well.
 
 At her left hip, in a white scabbard bound with white cord, she wore a katana.
 
-Behind her, still in the saddle, a huge bald man in a grey cloak with copper showing at the cuffs. And beside him, already off his horse and standing very close to it, a slight sharp man with restless fingers who kept glancing back up the gully the way they had come.
+Behind her, still in the saddle, a huge bald man in a gray cloak with copper showing at the cuffs. And beside him, already off his horse and standing very close to it, a slight sharp man with restless fingers who kept glancing back up the gully the way they had come.
 
 Naevra looked at the woman in white across the threshold.
 
@@ -66,7 +66,7 @@ Behind her, the big man in the saddle shifted his weight, and his horse blew.
 
 "He is," Kiyome said again. "Gimbzo's son, and my sister's. My sister Kasane." Her voice was very quiet now. "And they had a daughter too. Younger. Her name is Yukazuri."
 
-The wind came down the gully out of the cedars and moved the plain grey cloaks of the riders and set the glass beads at Kiyome's temples chiming.
+The wind came down the gully out of the cedars and moved the plain gray cloaks of the riders and set the glass beads at Kiyome's temples chiming.
 
 "Kasane was the elder of us by twelve years," Kiyome said. "Kasane Byakuya. She heard the Telling in this valley when she was fourteen and took your house's name, and she answered to it till she died. And she was the one who was sworn. The red line before the white. When the time came for a Byakuya to stand at the Kōkan king's side in the old way, as his sworn guard, it was Kasane they sent." She looked away, past Naevra, into the enclave, at the dark roofs and the cedars. "And the king she was sent to stand beside was Gimbzo. And when Gimbzo turned on his own line, and put the Kōkan into the ground one by one for telling him no, Kasane was the one standing closest to him. She couldn't stop it. Nobody could." She was silent for a moment. "She loved him. I was a girl, and even I could see it. She loved him the whole way down, through all of it, and on the night of the cellars she walked up out of them on her own feet with his son inside her coat."
 
@@ -76,7 +76,7 @@ Naevra did not speak.
 
 She looked back at Naevra.
 
-"That's all I know," she said. "That's everything. Some of it I've had from the Starks themselves, in the last ten days, by crows that shouldn't have been able to find me. Some of it I've had from Shigure Tenrai, in front of the whole council, without her knowing what she was telling me." Her grey eyes held Naevra's. "My sister's son took the Foot. My sister's son has the eye. And he doesn't know any of it: who his father was, who his mother was, or that he has an aunt sitting in a white chair in the Moto hold who'd have given anything in the world to know he was alive."
+"That's all I know," she said. "That's everything. Some of it I've had from the Starks themselves, in the last ten days, by crows that shouldn't have been able to find me. Some of it I've had from Shigure Tenrai, in front of the whole council, without her knowing what she was telling me." Her gray eyes held Naevra's. "My sister's son took the Foot. My sister's son has the eye. And he doesn't know any of it: who his father was, who his mother was, or that he has an aunt sitting in a white chair in the Moto hold who'd have given anything in the world to know he was alive."
 
 ---
 
@@ -122,11 +122,11 @@ Naevra looked at the knot for a moment. Then she nodded, and turned, and led the
 
 Naiser was standing when they came into the long hall.
 
-He had not meant to stand. He had meant to receive them seated, behind the low table, the way he had received the Zettari. But when the screens at the north end of the hall slid back and his sister came through them with three Moto lords behind her, in their road-stained grey, and the cold of the north gate coming in with them, he found that he was on his feet, and could not quite remember getting there. The hall's worked lamps were still lit against the dawn, honey-gold in their cedar frames, and the light of them ran warm along the red-brown beams and lay on the road-stained cloaks of the three as they came.
+He had not meant to stand. He had meant to receive them seated, behind the low table, the way he had received the Zettari. But when the screens at the north end of the hall slid back and his sister came through them with three Moto lords behind her, in their road-stained gray, and the cold of the north gate coming in with them, he found that he was on his feet, and could not quite remember getting there. The hall's worked lamps were still lit against the dawn, honey-gold in their cedar frames, and the light of them ran warm along the red-brown beams and lay on the road-stained cloaks of the three as they came.
 
-The Sovereign of Kushara and the Crown Prince were at the table. Naiser had seated them on the east side, in the places of honour. He did not look at them now. He looked at the three coming toward him down the long room, and the hall's own threads lay open to him as they always did in that room, and he read them.
+The Sovereign of Kushara and the Crown Prince were at the table. Naiser had seated them on the east side, in the places of honor. He did not look at them now. He looked at the three coming toward him down the long room, and the hall's own threads lay open to him as they always did in that room, and he read them.
 
-Kiyome Byakuya first, white and straight and composed, the lamplight sparking in the glass at her temples, her silver rings lying quiet in her grey eyes and her katana bound in a white knot at her hip. He had seen her once, years ago, across a field under a flag of truce. She had not changed. She had only grown more like herself.
+Kiyome Byakuya first, white and straight and composed, the lamplight sparking in the glass at her temples, her silver rings lying quiet in her gray eyes and her katana bound in a white knot at her hip. He had seen her once, years ago, across a field under a flag of truce. She had not changed. She had only grown more like herself.
 
 Behind her, Tetsugen Akagane.
 
@@ -140,11 +140,11 @@ Naiser had known Hayato as a boy. Before Hiroe, at one of the great gatherings o
 
 Hayato stopped. For a moment his narrow face did something complicated. Then he bowed his head, low, and held it.
 
-"You honour me by remembering, Lord Naiser," he said. "It has been a very long time." He straightened. "I'm only sorry it's under such circumstances as these that we meet again."
+"You honor me by remembering, Lord Naiser," he said. "It has been a very long time." He straightened. "I'm only sorry it's under such circumstances as these that we meet again."
 
 "So am I," said Naiser. "But we meet. That's more than most."
 
-Tetsugen Akagane had stopped beside the table. He stood there a moment, looking down at the two Zettari seated in the places of honour on the east side, the Sovereign of Kushara and the Crown Prince. Something went across his heavy face that might have been a great many things.
+Tetsugen Akagane had stopped beside the table. He stood there a moment, looking down at the two Zettari seated in the places of honor on the east side, the Sovereign of Kushara and the Crown Prince. Something went across his heavy face that might have been a great many things.
 
 Then the Lord of the Akagane bent his bald head toward them. It was a deep bow. Deeper, Naiser thought, than a lord of the copper line had bent to a Zettari in forty years. He held it a long time. He did not say anything at all.
 
@@ -173,7 +173,7 @@ She stood beside Tetsugen Akagane, with the white knot bound tight at her hip, a
 **Notes**
 
 - **Retcon 2026-10-20 (new-lore questionnaire).** "The last summer before the war" is now the last summer before Hiroe, twenty years back, with Kiyome and Naevra about thirty; Kiyome's account now has Kasane as a Byakuya who took the Yukari name, Gimbzo's sworn guard who loved him, dead of salt-throat the morning of the Shimane news, and Yusif Stark as her big brother and the children's shield, never her husband. Naiser knew Hayato "before Hiroe", not before the war.
-- **Shaka-Al and Dougou are never written.** They sit in the places of honour on the east side, as Naiser seated them, and get no lines, actions, thoughts or reactions. Tetsugen's deep bow and Kiyome's address are aimed at them, and the post stops on Kiyome waiting for Shaka-Al.
+- **Shaka-Al and Dougou are never written.** They sit in the places of honor on the east side, as Naiser seated them, and get no lines, actions, thoughts or reactions. Tetsugen's deep bow and Kiyome's address are aimed at them, and the post stops on Kiyome waiting for Shaka-Al.
 - **Your beats, kept in order.**
   - The Moto arrive in a day and a half, with Kiyome at the front to speak for the terms.
   - Naevra and Kiyome, childhood best friends: "We haven't met since we were children," Kiyome's apology for being a poor friend, "My presence here must trouble you," and Naevra's "You don't trouble me... I know how delicate."
@@ -195,4 +195,4 @@ She stood beside Tetsugen Akagane, with the white knot bound tight at her hip, a
   - Byakuya villages that have buried a third of their children since spring.
 - **Tense.** Past, to match the thread.
 
-**Revision 2026-10-24.** Gave the arrival colour (blue-and-glittering dawn snow, the crow's words cut under the north gate's crow, rose and lavender sparks off Kiyome's glass beads, honey-gold worked lamps on red-brown beams in the long hall), and cleared two antitheses, two countdowns and the tics (needless emphasis, a long look, a stillness tic, the repeated well simile). Every beat and every line of Isaac's is kept in order, and every passage touching Shaka-Al and Dougou is untouched.
+**Revision 2026-10-24.** Gave the arrival color (blue-and-glittering dawn snow, the crow's words cut under the north gate's crow, rose and lavender sparks off Kiyome's glass beads, honey-gold worked lamps on red-brown beams in the long hall), and cleared two antitheses, two countdowns and the tics (needless emphasis, a long look, a stillness tic, the repeated well simile). Every beat and every line of Isaac's is kept in order, and every passage touching Shaka-Al and Dougou is untouched.

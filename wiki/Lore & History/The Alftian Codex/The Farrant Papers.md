@@ -22,7 +22,7 @@ title: "The Farrant Papers"
 > 
 > Exhibit B. Volume the Second, by the same. Deposited 700 IC; withdrawn under the same seal the same season. Read and held as Exhibit A.
 > 
-> Exhibit C. One letter, folded twice, sealed in grey wax under a registered craft mark, directed "To Kwon Mu-jin, whom the Heralds call the Thrice-Great, care of the Archivum of the Heralds, Urbis." Held by the Division with papers touching the deposits. Unopened.
+> Exhibit C. One letter, folded twice, sealed in gray wax under a registered craft mark, directed "To Kwon Mu-jin, whom the Heralds call the Thrice-Great, care of the Archivum of the Heralds, Urbis." Held by the Division with papers touching the deposits. Unopened.
 > 
 > Exhibit D. Readings of the Weight by Neros, astronomer, of Urbis, checked by the Measurewrights' instrument chair at Nalūn. The Division's reference: the Drift of Tempus.
 > 
@@ -38,7 +38,7 @@ title: "The Farrant Papers"
 
 The Division keeps its Urbis desk in the lower floors of the Archivum, under the Monastery, by the Heralds' leave. I went down on Maelor's day with the crown's warrant still creased from the clerks' press. Two clerks. A file-press, and a gauge on the wall with the Board's seal on its glass, and one desk set to face the stair, so that whoever sits at it sees who comes down before they see her. The main hums louder down there.
 
-Halveth sat at that desk. Description of record: a woman past sixty, spare, her grey hair pinned flat to the skull; half-spectacles on a black ribbon; the right middle finger ink-stained to the second joint; fingerless mittens of grey wool against the cold of the lower floors; a Division clerk's grey, with sleeve-guards over the cuffs. No silver that I could see. At a Division desk that means none, or a pocket.
+Halveth sat at that desk. Description of record: a woman past sixty, spare, her gray hair pinned flat to the skull; half-spectacles on a black ribbon; the right middle finger ink-stained to the second joint; fingerless mittens of gray wool against the cold of the lower floors; a Division clerk's gray, with sleeve-guards over the cuffs. No silver that I could see. At a Division desk that means none, or a pocket.
 
 She rose, set the file on the table in front of me, and stood until I picked it up. She said nothing then. She has said nothing to me since, and she writes.
 
@@ -48,7 +48,7 @@ A report is a filing. A filing goes to the bulletin office, which prints what it
 
 The chapter secretary told me the Division had asked for someone who reads nothing. Halveth gave no reason. My guess is that a woman who reads nothing has no reading to be argued with, and I set it down as a guess.
 
-The order covers what I would rather leave out, so: I was screened at seven, in the screening season, and nothing stirred, so no roll took me. The chapter bench read me when I joined the Society and entered me Class Ø. Every reading in these notes belongs to an instrument or to somebody who can read, and I name which. On my left wrist is the regulation bracelet, brass bands wound with grey wire, which pulls toward anyone holding his weight down. It is the only warning I get.
+The order covers what I would rather leave out, so: I was screened at seven, in the screening season, and nothing stirred, so no roll took me. The chapter bench read me when I joined the Society and entered me Class Ø. Every reading in these notes belongs to an instrument or to somebody who can read, and I name which. On my left wrist is the regulation bracelet, brass bands wound with gray wire, which pulls toward anyone holding his weight down. It is the only warning I get.
 
 I walked an Urbis walk for eight years, the slow-main streets east of the high street. I have carried the crown's warrant for twelve. A cut district that went on humming after its plate was dropped. A relic lot at the river stairs whose Carry ran heavier than its papers. A man whose file put him at Stage VI, who believed Judicium had begun to speak to him in particular.
 
@@ -76,11 +76,11 @@ The station carver met the train and asked me who keeps my posts. I told him I h
 > Margin, H.: You are on their record now.
 The pressure came on behind my temples inside the first division off the train, a low weight laid there and left. Ketsuen gives it to everyone.
 
-Castlefall smells of lime first. In the morning the leat below the tannery ran grey with it. Next door a carver's mallet was going on a practice stone, every stroke on its beat, and the tanner says the boy who used to land every third stroke late keeps half the street's posts now.
+Castlefall smells of lime first. In the morning the leat below the tannery ran gray with it. Next door a carver's mallet was going on a practice stone, every stroke on its beat, and the tanner says the boy who used to land every third stroke late keeps half the street's posts now.
 
 The flat above the tanner's is let again to a dyer's family, and the lower room at the back of the yard, the old drying-room, to a distiller. Gauge, the foot of the outside stair, seventh division: seven and two marks. The survey tables put that at the high end of Ambient Saturation, and the ladder calls ground that reads high and steady Rill. It harms nobody.
 
-Calla, distiller, of Castlefall. Description of record: a woman near fifty, short and broad through the shoulders, her hair cropped close under a kerchief the colour of old rust; a square weathered face, spectacles pushed up onto the kerchief; forearms scarred with the small white burns a still gives; a leather apron over grey wool worn shiny at the hip where the bench edge meets it. Concord-born, from down the line. Her certificate hangs framed by the door: bench-certified, pure alchemy. A copper sat on the sill. She aired the room three days when she took it, as her mother taught her, and left the coin against the ill luck a working's leavings bring.
+Calla, distiller, of Castlefall. Description of record: a woman near fifty, short and broad through the shoulders, her hair cropped close under a kerchief the color of old rust; a square weathered face, spectacles pushed up onto the kerchief; forearms scarred with the small white burns a still gives; a leather apron over gray wool worn shiny at the hip where the bench edge meets it. Concord-born, from down the line. Her certificate hangs framed by the door: bench-certified, pure alchemy. A copper sat on the sill. She aired the room three days when she took it, as her mother taught her, and left the coin against the ill luck a working's leavings bring.
 
 She had covered the circle with a rug. She read the warrant through, which few people do, and pulled the rug back herself.
 
@@ -156,7 +156,7 @@ The younger physician, he said, had gone home before the end. The old man with t
 
 He keeps the empty vessel in the shut room, on the cleared bench. He let me see it.
 
-Dark heavy glass, sloped at the shoulder, with a lute of grey wax over the stopper, cut and pressed back. The grade was stamped low on the side, and I read it with the loupe: Class II, Field Substrate; fidelity Sound; Carry Marked. The grade is the stamp's. My coil gave residue at its floor inside the glass and nothing to set against the stamp. The maker's mark in the glass answers to Furveus on the roll. Exhibit B has him pour it. In the wax over the lute was a ring crossed by three spokes, the lowest longest, with registry letters beneath. It is the mark on Exhibit C. On a contracted lot the consignor's wax goes over the lute, and I have read a hundred such at the river stairs.
+Dark heavy glass, sloped at the shoulder, with a lute of gray wax over the stopper, cut and pressed back. The grade was stamped low on the side, and I read it with the loupe: Class II, Field Substrate; fidelity Sound; Carry Marked. The grade is the stamp's. My coil gave residue at its floor inside the glass and nothing to set against the stamp. The maker's mark in the glass answers to Furveus on the roll. Exhibit B has him pour it. In the wax over the lute was a ring crossed by three spokes, the lowest longest, with registry letters beneath. It is the mark on Exhibit C. On a contracted lot the consignor's wax goes over the lute, and I have read a hundred such at the river stairs.
 
 I asked what the paper said.
 
@@ -194,7 +194,7 @@ What happened in that house let the impression close an account its maker had le
 
 Furveus has rooms at the Heralds' Medical University while it examines his results.
 
-Description of record, set against Exhibit A's: broad in the shoulder and soft at the middle; hair the colour of wet rope, greyer at the temples; a physician's black gone brown at the cuffs. His head nodded, fine and fast, and the jaw followed it once he had been talking a while. Grey nail-beds, and pale bands across the nails.
+Description of record, set against Exhibit A's: broad in the shoulder and soft at the middle; hair the color of wet rope, grayer at the temples; a physician's black gone brown at the cuffs. His head nodded, fine and fast, and the jaw followed it once he had been talking a while. Gray nail-beds, and pale bands across the nails.
 
 He laughed, and then said, "Everyone who comes through that door reads me before they say good morning. You said good morning. Sit down."
 
@@ -233,7 +233,7 @@ Two days by hired mule up the passes. The Archivum stands at the top of the arch
 
 Gauge, the reading floor, eighth division: nine and five marks. The top of Ambient. The floor is cold enough to show breath.
 
-Archivist Dessa Mael has kept the lower stacks longer than I have been alive. Description of record: small, straight-backed, past seventy; white hair scraped into a knot and pinned with a steel pen; a narrow pale face, lined fine round the eyes; the Heralds' grey under a knitted shawl; ink on both forefingers. She brings tea when she judges that a person needs a moment before the next question, and she brought it before the first.
+Archivist Dessa Mael has kept the lower stacks longer than I have been alive. Description of record: small, straight-backed, past seventy; white hair scraped into a knot and pinned with a steel pen; a narrow pale face, lined fine round the eyes; the Heralds' gray under a knitted shawl; ink on both forefingers. She brings tea when she judges that a person needs a moment before the next question, and she brought it before the first.
 
 The Necrocursica, she told me, is one of four works of its kind below the gate. Two are generations old. The fourth is about six years older than the Necrocursica, deposited without a name from a postal address in Castlefall.
 
@@ -242,7 +242,7 @@ She checked the address for me. It was registered to Ivor Strom, and it was the 
 "He reads in the older hands when he comes in," she said. "He has not come in since the thaw."
 
 The Strom Submission has sat below the gate for about twelve years, reviewed once, by a senior archivist since retired. Dessa Mael read me the note.
-> Submission describes a residue of the dead not in the catalogue. It keeps an intent. Recommend escalation to the Research Division for further study.
+> Submission describes a residue of the dead not in the catalog. It keeps an intent. Recommend escalation to the Research Division for further study.
 "Was it escalated?"
 
 Her eyes tightened a very little at the corners, and she let a pause stand. "The recommendation was logged. I cannot confirm it was actioned."
@@ -331,7 +331,7 @@ She read these notes standing, while I stood across the desk from her, and her f
 > Margin, H., below, in a slightly different hand: He answered the letter.
 I did not know of any letter. Entered.
 
-She pointed at her desk. On it lay a letter folded twice and sealed in grey wax: the ring, the three spokes, the lowest longest. It was addressed to me, care of the Division.
+She pointed at her desk. On it lay a letter folded twice and sealed in gray wax: the ring, the three spokes, the lowest longest. It was addressed to me, care of the Division.
 
 ## Exhibit E · A Letter from Gisli Draycott, Transcribed in Full
 
@@ -341,7 +341,7 @@ She pointed at her desk. On it lay a letter folded twice and sealed in grey wax:
 > 
 > I expected the crown's people some years ago. That they have come at last, by way of a station record in Castlefall that anyone may read, flatters my discretion and says less for how the crown spends its watchers.
 > 
-> I write because a letter can be read twice. Kwon shares the preference and practises it more thoroughly: he has answered neither of mine.
+> I write because a letter can be read twice. Kwon shares the preference and practices it more thoroughly: he has answered neither of mine.
 > 
 > The Trace is real. The finding was hers before it was mine. Ivor found a crude half of it on his own, and the Archivum keeps it in a drawer at Genesio. The name is Kwon's. The framing is mine, and I will answer for it.
 > 
@@ -371,7 +371,7 @@ The chapter's coil-carrier came up with me and took the far end of the platform,
 
 The second bell went.
 
-Description of record. A silver token first, on a chain at his collar, the disc turned outward. Then the man: about forty-six, lean; the fair hair greyer than Exhibit A has it and going thin at the crown; a long face shaved close, the skin fine at the eyes; a dead front tooth, grey among the white, which he shows often; a signet on the smallest finger, worn smoother; good grey wool, a coat cut close and brushed. He was already drinking a cup of the terrible coffee.
+Description of record. A silver token first, on a chain at his collar, the disc turned outward. Then the man: about forty-six, lean; the fair hair grayer than Exhibit A has it and going thin at the crown; a long face shaved close, the skin fine at the eyes; a dead front tooth, gray among the white, which he shows often; a signet on the smallest finger, worn smoother; good gray wool, a coat cut close and brushed. He was already drinking a cup of the terrible coffee.
 
 The bracelet on my left wrist pulled toward him from the top of the platform stair, and it did not stop pulling while I was there.
 
@@ -383,7 +383,7 @@ He laid his token face up on the counter between our cups, as the Concord does w
 
 "The station record. Anyone may read it."
 
-The token lay where he had put it and did not change colour. I set down both.
+The token lay where he had put it and did not change color. I set down both.
 
 He told me where Ivor Strom is: in the hollow below the archive-town at night, and by day in a pass-house above the Genesio waystation. He told me that works have been finished.
 

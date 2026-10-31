@@ -130,4 +130,4 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Fails against** · Silence; leather, clay, fog and shutters; a divided crowd; detuning past the locking range; a phase sitting on the court's own; Knot and Lock on its one limit; a Sovereign Spirit Domain or a Catharsis or Benediction Empathy field; a read seam; the end of eight turns; harm to the practitioner, a node in his own court.
 
-**Look up** · The Fulguria favour list; the Judicium Failure and the Heresiology's injury entries; Silence, Knot and Lock in the Counterplay register; the saturation rule; the Zenith Stage table.
+**Look up** · The Fulguria favor list; the Judicium Failure and the Heresiology's injury entries; Silence, Knot and Lock in the Counterplay register; the saturation rule; the Zenith Stage table.

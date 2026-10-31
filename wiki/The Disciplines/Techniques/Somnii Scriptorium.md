@@ -80,11 +80,11 @@ title: "Somnii Scriptorium"
 
 ### Metaphysics
 
-**Aether** · A Limina draw, favoured by darkness, silence, thin ground and ruins, suppressed by saturated Aether, crowds and active Domains. The Residue is a Claustra claim that must keep being renewed; many opened chambers deafen Harmonists.
+**Aether** · A Limina draw, favored by darkness, silence, thin ground and ruins, suppressed by saturated Aether, crowds and active Domains. The Residue is a Claustra claim that must keep being renewed; many opened chambers deafen Harmonists.
 
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): every arrangement of a system is a point in a space with no location, so the working addresses the target there rather than in the room; it strengthens Gnosis Cognition and Ardency Cascade.
 
-**Wellspring** · Eidolyn, the Shaping Mind (Limina): intent is the template and the construct's solidity is real material behaviour, not illusion; it strengthens Ardency Density and Gnosis Retention.
+**Wellspring** · Eidolyn, the Shaping Mind (Limina): intent is the template and the construct's solidity is real material behavior, not illusion; it strengthens Ardency Density and Gnosis Retention.
 
 **Inherited failures** · Oneirion's projection error lands the trajectory nowhere when mapped back to a room; Eidolyn's template defect reproduces any flaw in intent at full scale.
 
@@ -124,13 +124,13 @@ title: "Somnii Scriptorium"
 
 **Cost** · One percent of full reserve each turn held, plus a half-beat of lag in the room, faster exhaustion than either space alone, and fragments of the target's fear or grief carried home.
 
-**Duration** · Eighteen seconds, three turns; range 200 metres, line of sight, one named target.
+**Duration** · Eighteen seconds, three turns; range 200 meters, line of sight, one named target.
 
 ### Counterplay
 
 **Tell** · The practitioner says the target's name aloud; the target stands upright, breathing and absent for three turns; the practitioner glows and lags half a beat. Afterwards a conversation too long for the time, or no sign at all, the easier to miss.
 
-**Limits** · It traps and questions but cannot rewrite a personality; a strong will resists it and a fractured mind distorts what it yields; three turns, 200 metres, line of sight.
+**Limits** · It traps and questions but cannot rewrite a personality; a strong will resists it and a fractured mind distorts what it yields; three turns, 200 meters, line of sight.
 
 **Fails against** · A covered mouth before the name ends, or a blow to the practitioner, which opens the seal; the target's path Knotted or the anchor Locked first; a ward against forced relocation; an ally breaking in mid-transfer; crowds and Domains around the practitioner.
 

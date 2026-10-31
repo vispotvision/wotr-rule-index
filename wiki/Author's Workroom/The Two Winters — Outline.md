@@ -34,7 +34,7 @@ private: true
 *Days 6 to 30. The Foot, first winter.*
 
 - **The forge scene moves here.** Muken comes out of the death-house to Tsugigane on the table (the Chapter Eighteen door and blade scene, unchanged).
-- He practises on rope every morning: rotten rope from the smithy, then rotten timbers, then the Foot's old frost-cracked lintels. Each takes him longer and costs less.
+- He practices on rope every morning: rotten rope from the smithy, then rotten timbers, then the Foot's old frost-cracked lintels. Each takes him longer and costs less.
 - The first Banner oaths are sworn at the woodpile. They are sworn and then nothing holds them; Lorn says it in one line: "We swore. It felt like nothing."
 - **Aksel Keld** wakes in the surgeons' line with his chest staved in. Muken visits him every day and says nothing. On the twentieth day Aksel asks why he stopped. Muken: "I don't know yet."
 - **End:** a Byakuya crow brings word that the Hall of Verdicts has met in full council, and named Muken a traitor to the Moto and a danger to the inner world. Kiyome's warning from Chapter Eleven comes true.
@@ -76,7 +76,7 @@ private: true
 *Late spring. Ayame Yuno arrives.*
 
 - The Banner oaths still hold nothing. Kiyome writes to the one house she knows that binds oaths for a living: the **Yuno, Kagura Branch**, island elders who answer to an aiga the north has never seen.
-- **Ayame Yuno** comes north by ship and sledge with two attendants, in silver-grey and pale amber, snow spiralling around her as she walks. She is not impressed by a boy of sixteen with a red chair he hasn't sat in.
+- **Ayame Yuno** comes north by ship and sledge with two attendants, in silver-gray and pale amber, snow spiralling around her as she walks. She is not impressed by a boy of sixteen with a red chair he hasn't sat in.
 - She hears his oath and her Crown of Concord tastes it, and it tastes clean. She says nothing about that for a week.
 - The first true Banner oath is sworn under her rite, the binding the Kharven Inventory calls the **Fusi Vā**. For the first time, Lorn feels it hold.
 - **End:** she refuses something he asks for. Her card's refusal applies: she will not turn her liturgy into a weapon. Their friction starts here.
@@ -87,7 +87,7 @@ private: true
 - A campaign south and west: the Kessen ford, the salt road, the Tenrai granary towns.
 - **Aksel Keld** rides again, without his hand, beside Muken. The Keld swear on the card's condition, "stay worth following." *(Moved here from the ratification.)*
 - **Battle of the Kessen ford.** Ayame's lattice holds a broken levy together, and Muken sees what she does and what it costs her.
-- Draw Age colour: the first Tenrai town they take has worked lamps and a Guild standpipe, and the commons have never been allowed to use either. Muken opens the standpipe.
+- Draw Age color: the first Tenrai town they take has worked lamps and a Guild standpipe, and the commons have never been allowed to use either. Muken opens the standpipe.
 
 ### 25 · Salt
 *Late summer. Muken goes home to Halcrest.*
@@ -101,7 +101,7 @@ private: true
 *Autumn. The Shiraki hills.*
 
 - The Byakuya seat: glass, veils, near-white halls.
-- Kiyome takes him home and gives him **Kasane's own red harness**, the real one, kept since the night she went into the salt. *(This replaces the overnight armour in old Chapter Eighteen.)*
+- Kiyome takes him home and gives him **Kasane's own red harness**, the real one, kept since the night she went into the salt. *(This replaces the overnight armor in old Chapter Eighteen.)*
 - **Nanami Shirogane** is there, fostered by the Byakuya for ten years. Muken meets her for the first time. She is kind to him before she learns who he is, and cold after. This plants her chair at the end.
 - **End:** a Shirogane assassin in the white house. Ayame's Crown of Concord catches the lie in his oath of hospitality a breath before he strikes. It's the first covert attack, the kind Muken's card says will one day kill him. Kiyome is wounded.
 
@@ -137,7 +137,7 @@ private: true
 
 **Old Chapter Eighteen, *The Samurai of Fate*, becomes Chapter Thirty:**
 - Its first two movements (the door and the blade) move to the start of new Chapter Eighteen, *Rope*.
-- The armour movement becomes Kasane's real harness from the white house. Tetsugen's line about Gimbzo wearing black stays.
+- The armor movement becomes Kasane's real harness from the white house. Tetsugen's line about Gimbzo wearing black stays.
 - "Prepare... three days" happens at the end of the two years.
 - The council of the road moves into *The Muster*. The fall of the Seat stays as written.
 

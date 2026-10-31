@@ -24,13 +24,13 @@ Their forms shift with their Essence: roaring flame, crashing wave, jagged stone
 |---|---|---|---|
 | **Fire** | The molten veins of Theros and volcanic Wellsprings | Fierce and destructive | Flame manipulation, explosive bursts, heat auras |
 | **Water** | The flowing currents of Etherea and aquatic Wellsprings | Fluid and adaptive | Tidal surges, water manipulation, healing mists |
-| **Earth** | Mountains, deep caves, and ancient stone Wellsprings | Stoic and relentless | Tremors, rock armour, seismic shockwaves |
+| **Earth** | Mountains, deep caves, and ancient stone Wellsprings | Stoic and relentless | Tremors, rock armor, seismic shockwaves |
 | **Air** | Storm clouds and wind-swept peaks, linked to Caelum and Draconis | Swift and capricious | Gusts, lightning strikes, invisibility in fog or storm |
 
 > **They share a core identity as forces of nature rather than thinking beings.** Some develop rudimentary awareness or bond with mortals. **Others act as impersonal natural phenomena and never notice that anyone was there.**
 **Vulnerable to Essence opposition** — water douses fire, earth grounds air. **Dispersible by powerful ritual magic or Essence-dampening wards.** And **some require constant Wellspring energy to hold form; depletion causes collapse.**
 
-*The Great Eruption of Helstra was blamed on a rampaging Fire Elemental that shattered an ancient volcano's seal. The Storm of the Thousand Winds marked a surge of Air Elementals summoned by a lost sorcerer's folly.* **Some tribes seek to bind them for protection or war. Others leave sacred Wellsprings untouched to honour their guardianship.**
+*The Great Eruption of Helstra was blamed on a rampaging Fire Elemental that shattered an ancient volcano's seal. The Storm of the Thousand Winds marked a surge of Air Elementals summoned by a lost sorcerer's folly.* **Some tribes seek to bind them for protection or war. Others leave sacred Wellsprings untouched to honor their guardianship.**
 
 ---
 
@@ -41,7 +41,7 @@ Their forms shift with their Essence: roaring flame, crashing wave, jagged stone
 > Singular oceanic behemoths **birthed directly by Titans of the deep.** Most descend from a time **before Gaia's shaping of the Material World, when the oceans were unbroken voidwater.**
 >
 > The most feared is **the Leviathan of Abythron, created by Zar'thuun as a guardian of the deepest void trenches** — an amalgam of abyssal essence, deep-sea adaptation and ancient draconic bloodline, giving it an unnatural combination of resilience and cunning.
-A colossal sea serpent **stretching hundreds of metres**, armoured in abyss-black scales traced with faint bioluminescence. Coral-like horns and jagged bone crests crown the head; **the maw is lined with layered teeth capable of crushing steel-hulled ships.** The eyes glow deep abyssal blue **and can induce fear or paralysis in weaker wills.**
+A colossal sea serpent **stretching hundreds of meters**, armored in abyss-black scales traced with faint bioluminescence. Coral-like horns and jagged bone crests crown the head; **the maw is lined with layered teeth capable of crushing steel-hulled ships.** The eyes glow deep abyssal blue **and can induce fear or paralysis in weaker wills.**
 
 Solitary, immensely territorial, **drawn to disturbances in deep Wellspring currents.** Slow and deliberate in the deep, capable of blistering speed when striking.
 > **It hunts both physically and metaphysically** — dragging ships and creatures beneath the surface **while severing their soul's tether to the living realm.**

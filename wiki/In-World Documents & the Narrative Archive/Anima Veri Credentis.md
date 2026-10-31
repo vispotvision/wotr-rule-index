@@ -25,7 +25,7 @@ A first-person account written late in a long life, by a woman who **watched the
 >
 > **Holiness, as she met it, smelled of lamp smoke, old vellum, cooled iron, and incense ash wetted by a priestess's thumb.** Of rain that had seeped into stone older than the names of kings. Of wool robes left drying beside braziers while bells muttered in distant chambers.
 >
-> *Even now, after decades of consecration, blood-vigil and dream-fast, when the scent of burnt resin rises from a censer bowl, my spine remembers that first night and straightens of its own accord.*
+> *Even now, after decades of consecration, blood-vigil and dream-fast, when the scent of burned resin rises from a censer bowl, my spine remembers that first night and straightens of its own accord.*
 
 ---
 
@@ -36,7 +36,7 @@ A first-person account written late in a long life, by a woman who **watched the
 >
 > Tall, moon-pale, **so still in her habits that servants used to lower their voices before they realized she had entered a room.**
 >
-> Hair the colour of grave-ash touched by silver at the edges, straight as hanging prayer paper, long enough to brush the backs of her knees when unbound. Narrow face, severe mouth, **eyes ringed faintly like ripples trapped in ice.**
+> Hair the color of grave-ash touched by silver at the edges, straight as hanging prayer paper, long enough to brush the backs of her knees when unbound. Narrow face, severe mouth, **eyes ringed faintly like ripples trapped in ice.**
 >
 > Across her sternum and inner wrists, hidden unless ritual heat called them forth, **the tracer-glyphs of ordination.**
 >

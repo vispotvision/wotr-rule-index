@@ -14,7 +14,7 @@ It was cold enough that the snow squeaked underfoot. The breath of six hundred p
 
 They had all come. Nobody had been ordered.
 
-Lorn had sent the word round the barracks at dusk, plainly, in four words, *the king will speak,* and then he had stood at the door of the keep and watched them come out of every door in the fort. The Stark riders first, in their hide-coats and mail, with their axes across their backs out of habit, because a Stark did not go to hear a thing said without something to hold. The Greymane foot behind them, grey-cloaked and quiet, in their long patient file. The vanguard boys, who had sewn the white banner, in a knot at the front with their elbows in each other's ribs. Then the others. The farriers and the cooks and the carters, the two Greymane masons with stone-dust still in their beards, the wounded from the surgeons' line on their crutches and their stretchers, carried out and set down along the barracks wall in a row. The women from the long houses down the Kessen road who had walked up after the Foot fell to cook and carry and nurse. Their children, wrapped to the eyes. And the old woman with no teeth, on her stump by the barracks door, in her three shawls, who had not moved from that stump in four days and did not move from it now, because the yard had come to her.
+Lorn had sent the word round the barracks at dusk, plainly, in four words, *the king will speak,* and then he had stood at the door of the keep and watched them come out of every door in the fort. The Stark riders first, in their hide-coats and mail, with their axes across their backs out of habit, because a Stark did not go to hear a thing said without something to hold. The Greymane foot behind them, gray-cloaked and quiet, in their long patient file. The vanguard boys, who had sewn the white banner, in a knot at the front with their elbows in each other's ribs. Then the others. The farriers and the cooks and the carters, the two Greymane masons with stone-dust still in their beards, the wounded from the surgeons' line on their crutches and their stretchers, carried out and set down along the barracks wall in a row. The women from the long houses down the Kessen road who had walked up after the Foot fell to cook and carry and nurse. Their children, wrapped to the eyes. And the old woman with no teeth, on her stump by the barracks door, in her three shawls, who had not moved from that stump in four days and did not move from it now, because the yard had come to her.
 
 They stood in the snow in the torchlight and the breath-cloud, six hundred of them, and waited, and the only sound was the braziers and the spitting of the lamps and, somewhere at the back, a child asking a question and being hushed.
 
@@ -24,7 +24,7 @@ He had chosen it. Godfrey had wanted the gatehouse steps, where he could be seen
 
 Nobody had laughed.
 
-He stood there now in the dead sergeant's coat with Ulf Stark's mail under it and the scrap-iron sword at his hip and the dead bronze token on his belt, bareheaded, with his white hair tied back and the torchlight on it. Ulf Stark's wolfhound sat at his left knee. Lorn Stark stood at his right hand, a pace back, in his father's mail with his father's axe; Godfrey Greymane at his left, in grey, with his long hands folded in front of him. Neither of them moved.
+He stood there now in the dead sergeant's coat with Ulf Stark's mail under it and the scrap-iron sword at his hip and the dead bronze token on his belt, bareheaded, with his white hair tied back and the torchlight on it. Ulf Stark's wolfhound sat at his left knee. Lorn Stark stood at his right hand, a pace back, in his father's mail with his father's axe; Godfrey Greymane at his left, in gray, with his long hands folded in front of him. Neither of them moved.
 
 Kiyome Byakuya, Hayato Amagiri and Tetsugen Akagane stood in the crowd.
 
@@ -66,17 +66,17 @@ The yard did not breathe out.
 
 At the front, one of the vanguard boys, the youngest, the one with the red ears who had held the needle while the others argued over what to put on the banner, said "*No,*" very quietly, the way a child says it when a thing has been dropped and broken. Nobody hushed him.
 
-Further back, a Stark rider with a grey braided beard turned his head aside and spat into the snow. It hissed.
+Further back, a Stark rider with a gray braided beard turned his head aside and spat into the snow. It hissed.
 
 By the barracks door, on her stump, the old woman with no teeth had not moved. But her hands, folded in her lap in her three shawls, had closed on each other.
 
-Muken let it all happen. He did not look away from any of it. He stood at the foot of the woodpile with his hands at his sides and let six hundred people look at him, at his white hair and his grey eyes and the thin gold seam in the left one that the torchlight caught, and he let them see, at last, what they were looking at. The red line. The Kōkan. The last of the blood that had burned Hiroe and emptied the cellars at Halcrest and taken their fathers south on the levies and sent them home in carts.
+Muken let it all happen. He did not look away from any of it. He stood at the foot of the woodpile with his hands at his sides and let six hundred people look at him, at his white hair and his gray eyes and the thin gold seam in the left one that the torchlight caught, and he let them see, at last, what they were looking at. The red line. The Kōkan. The last of the blood that had burned Hiroe and emptied the cellars at Halcrest and taken their fathers south on the levies and sent them home in carts.
 
 "Yes," he said quietly. "That one."
 
 Then he lifted his voice, for the first time.
 
-"But I don't want you to follow me because of my name," said Muken. "Hear me. Not because I'm a Moto, not because I'm his, not because three lords of the seven lines rode four hundred miles to tell me what blood I've got in me." His eyes went over the yard, slowly, from the stretchers to the vanguard boys to the grey-bearded Stark who had spat. "That blood never did one thing for any of you except take. If that's all I am, then put me on a post, and burn me with this wood, and I'll not blame you."
+"But I don't want you to follow me because of my name," said Muken. "Hear me. Not because I'm a Moto, not because I'm his, not because three lords of the seven lines rode four hundred miles to tell me what blood I've got in me." His eyes went over the yard, slowly, from the stretchers to the vanguard boys to the gray-bearded Stark who had spat. "That blood never did one thing for any of you except take. If that's all I am, then put me on a post, and burn me with this wood, and I'll not blame you."
 
 He took one step forward, off the foot of the woodpile, into the trampled snow.
 
@@ -132,13 +132,13 @@ The great bald man did not come forward. He stood where he was, beside the Stark
 
 "Do you, Tetsugen Akagane," said Muken, "Leader of the Copper Line, of the Blood and Heart Arts, commit yourself to the sanctity of the people? And give up your land, and your power, to me? The true King of the Clans."
 
-Tetsugen looked at him from under his thick grey brows, and kept looking. Long enough that somebody in the crowd shifted their feet on the squeaking snow.
+Tetsugen looked at him from under his thick gray brows, and kept looking. Long enough that somebody in the crowd shifted their feet on the squeaking snow.
 
 "I do," said Tetsugen Akagane.
 
 Then, because he was who he was, he did not leave it there.
 
-He turned, slowly, on the spot, and looked at the yard. At the Starks in their hide-coats and the Greymane foot in their grey. At the grey-bearded rider who had spat. He looked at them the way a man looks at a field he once rode over at the head of a column.
+He turned, slowly, on the spot, and looked at the yard. At the Starks in their hide-coats and the Greymane foot in their gray. At the gray-bearded rider who had spat. He looked at them the way a man looks at a field he once rode over at the head of a column.
 
 "Some of you will know my name," he said, in his flat iron voice. "If your fathers went south in the Sennen campaign, they ate from my granaries on the way. I signed for every sack. I knew where the columns were going and what they'd do when they got there, and I signed." He let that sit in the breath-cloud. "I'll not ask you to forgive it. I've given the boy the books. Every name. Mine's at the top." He turned back to Muken. "My valley's yours. The Kurogane granaries. My levies, every one, and they'll answer nobody's muster but yours. And my own neck, if you find a use for it."
 
@@ -162,9 +162,9 @@ He looked out over them.
 
 He took a breath.
 
-"And there's another thing you'll carry home," he said. "Every one of you. To every long house that ever buried a son on a southern field." He looked straight out at the grey-bearded rider who had spat. "Under my rule, no Moto will ever march on the Zettari again. Or anyone else's land. No levy, no column, not one of your boys sent south to die in somebody else's war. We'll hold the north, and we'll hold it well, and we'll reach for nothing past it." His voice hardened. "I swore it this morning. By my honour. You can hold me to it."
+"And there's another thing you'll carry home," he said. "Every one of you. To every long house that ever buried a son on a southern field." He looked straight out at the gray-bearded rider who had spat. "Under my rule, no Moto will ever march on the Zettari again. Or anyone else's land. No levy, no column, not one of your boys sent south to die in somebody else's war. We'll hold the north, and we'll hold it well, and we'll reach for nothing past it." His voice hardened. "I swore it this morning. By my honor. You can hold me to it."
 
-The grey-bearded rider looked back at him. He did not spit again.
+The gray-bearded rider looked back at him. He did not spit again.
 
 "But we have to fight for what's ours," said Muken.
 
@@ -196,7 +196,7 @@ At the front, the vanguard boy with the red ears made a sound in his throat. The
 
 The boy beside him went down after him. And the one beside him. And then the whole knot of them, the twenty-odd who had sewn the banner, all at once, the way they had done it the first time, with their elbows in each other's ribs.
 
-Rob Stark went down. Then Mark beside him. Then the grey-bearded rider who had spat, slowly, with a grunt, one knee and then the other, in his frozen hide-coat that creaked at the elbow like a door.
+Rob Stark went down. Then Mark beside him. Then the gray-bearded rider who had spat, slowly, with a grunt, one knee and then the other, in his frozen hide-coat that creaked at the elbow like a door.
 
 And then it went through the yard the way fire goes through dry grass, or the way it did in the old days when there was still grass: from the front to the back, from the Starks to the Greymane foot to the farriers and the masons and the women from the long houses with their children on their hips. The men on the stretchers along the barracks wall could not kneel, and so they lifted their fists instead, and laid them on their chests.
 
@@ -224,7 +224,7 @@ Six hundred heads turned.
 
 "*Hail to the king,*" she said. She was shaking. She did not stop. "*Hail. Hail to the true king of the north.*"
 
-The vanguard boy with the red ears said it after her. Then the boys round him. Then Rob, and Mark, and the farrier beside Tetsugen Akagane, and the women from the long houses, and the Greymane foot in their long grey file, all of them, from their knees, in the snow, in the torchlight, in the cold that took the words out of their mouths in white plumes and lifted them into the breath-cloud over the yard until the whole of it seemed to be made of them.
+The vanguard boy with the red ears said it after her. Then the boys round him. Then Rob, and Mark, and the farrier beside Tetsugen Akagane, and the women from the long houses, and the Greymane foot in their long gray file, all of them, from their knees, in the snow, in the torchlight, in the cold that took the words out of their mouths in white plumes and lifted them into the breath-cloud over the yard until the whole of it seemed to be made of them.
 
 "*Hail to the true king of the north. Hail to the true king of the north.*"
 
@@ -240,7 +240,7 @@ Down at the front, in the light of the brazier, Kiyome Byakuya had her eyes clos
 
 He did not say it. Nobody would have heard him.
 
-Over the yard, high up, the green of the northern sky turned over once more in its sleep, and for the space of a few breaths it broke clear of the cloud, green and violet in long slow folds over the blank white banner, so that the banner took the colour of it and burned there like a lantern. And the chant went on, and on, and the woodpile stood behind the king of the north as high as a man's shoulder, every split end of it pale in the torchlight, the fullest stack in Kharven.
+Over the yard, high up, the green of the northern sky turned over once more in its sleep, and for the space of a few breaths it broke clear of the cloud, green and violet in long slow folds over the blank white banner, so that the banner took the color of it and burned there like a lantern. And the chant went on, and on, and the woodpile stood behind the king of the north as high as a man's shoulder, every split end of it pale in the torchlight, the fullest stack in Kharven.
 
 ---
 ---
@@ -279,4 +279,4 @@ Over the yard, high up, the green of the northern sky turned over once more in i
 
 **Rule ids that most constrained it:** R70-114 (the warm bond: Yukazuri), R74-22 (the reveal lands cold, then the cluster), R72-21 (a Front ticks: the carter to the Keld), R72-25 (a tell: the spit, the folded arms), R70-50 (one changed detail on return: Kiyome's untied cord).
 
-**Revision 2026-10-24.** Lifted the torchlit yard's colour from what is there (violet at the aurora's hem, frost glittering on Kiyome, Tetsugen's copper red-bronze in the brazier light, Yukazuri's blood bright on the tent canvas, and the aurora breaking clear over the white banner at the close), no magitech at the frontier fort, and trimmed the tics (did not need to, long moments, Nobody said anything, the full mark kept only at the yard's payoff) and three countdown/antithesis runs by punctuation only; every beat and Isaac's lines are kept.
+**Revision 2026-10-24.** Lifted the torchlit yard's color from what is there (violet at the aurora's hem, frost glittering on Kiyome, Tetsugen's copper red-bronze in the brazier light, Yukazuri's blood bright on the tent canvas, and the aurora breaking clear over the white banner at the close), no magitech at the frontier fort, and trimmed the tics (did not need to, long moments, Nobody said anything, the full mark kept only at the yard's payoff) and three countdown/antithesis runs by punctuation only; every beat and Isaac's lines are kept.

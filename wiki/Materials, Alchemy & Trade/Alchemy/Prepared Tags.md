@@ -30,7 +30,7 @@ A tag can never work above its maker's Stage. A reserve-fed tag works at whichev
 
 Fine lines cut or burned into the material, sometimes inked, always in a fixed order the eye can follow if it knows the school. Paper is cheap, quick and dies in the rain. Leather lasts months and survives a soaking. Slate is heavy, lasts a year, and shatters when it fires.
 
-**As it fires, the lines light up in an aura colour**: the maker's own colour for an ambient or stored tag, **the user's colour for a reserve tag**. A trained eye reads who is paying for the working from the colour alone. Then the material chars from the edges inward, with the smell of hot paper or scorched hide, and each kind of tag has its own sound: the flash tag's crack, the ward tag's glassy ring, the blast tag's rising whine in the last second before it goes.
+**As it fires, the lines light up in an aura color**: the maker's own color for an ambient or stored tag, **the user's color for a reserve tag**. A trained eye reads who is paying for the working from the color alone. Then the material chars from the edges inward, with the smell of hot paper or scorched hide, and each kind of tag has its own sound: the flash tag's crack, the ward tag's glassy ring, the blast tag's rising whine in the last second before it goes.
 
 A tag is slapped onto a surface or a body, laid in advance, or wrapped round a knife and thrown.
 
@@ -49,29 +49,29 @@ A tag is slapped onto a surface or a body, laid in advance, or wrapped round a k
 
 **Failure.** Cheap tags fail, and they fail three ways. Most often the tag **fizzles**: the lines glow and nothing comes. Sometimes it **fires wrong**: the ward comes up a hand's breadth to the left, the smoke comes out as sparks. Rarely, and worst, **it does not stop**: the closing line was cut badly, so the working runs on after the tag should be ash, a flash tag that keeps flashing, a kindling tag that burns until the building does.
 
-**The licence.** Licensed tags carry the cutter's mark (a cutter's mark is a signature and a warranty at once) and an excise stamp. Cutting without a licence is a crime the Accord enforces with real violence, and the black market runs regardless.
+**The license.** Licensed tags carry the cutter's mark (a cutter's mark is a signature and a warranty at once) and an excise stamp. Cutting without a license is a crime the Accord enforces with real violence, and the black market runs regardless.
 
 ## How it is beaten
 
 - **Wet it.** A soaked paper tag swells and its lines blur. Leather and slate shrug it off.
 - **Cut the line.** A tag torn through its lines will not fire, or fires wrong. A blade across a stuck tag is the fastest answer to a Binding or a Seal.
 - **Take the fight to dead ground.** Ambient tags need Aether in the air.
-- **Read the colour.** A reserve tag tells you who is feeding it. Hit them, and the tag starves.
+- **Read the color.** A reserve tag tells you who is feeding it. Hit them, and the tag starves.
 - **Wait it out.** A stored-charge tag weakens by the week. An old tag from a dead cutter is a gamble.
 - **Watch the hand.** Slapping, laying or throwing a tag takes a beat, and the hand that goes to the sleeve is a tell.
 
 ## Example
 
-Orla Venn, a Stage III bounty hunter, walks into a warehouse after a forger. She lays a Tripwire Tag across the back door, keeps a Flash Tag in her left sleeve and a Binding Tag in her right. The forger runs, the Tripwire shrieks, and she throws the Flash Tag wrapped round a knife; it cracks white in his face. She closes and slaps the Binding Tag on his thigh, and the lines light up in her own colour as she feeds it. The forger's partner sees the colour, knows who is paying, and goes for Orla instead of the tag. She has to choose between holding the leg and defending her throat, and the tag goes dark the moment she lets go.
+Orla Venn, a Stage III bounty hunter, walks into a warehouse after a forger. She lays a Tripwire Tag across the back door, keeps a Flash Tag in her left sleeve and a Binding Tag in her right. The forger runs, the Tripwire shrieks, and she throws the Flash Tag wrapped round a knife; it cracks white in his face. She closes and slaps the Binding Tag on his thigh, and the lines light up in her own color as she feeds it. The forger's partner sees the color, knows who is paying, and goes for Orla instead of the tag. She has to choose between holding the leg and defending her throat, and the tag goes dark the moment she lets go.
 
 ---
 
-## The catalogue
+## The catalog
 
 | Name | What it does | Fuel | Maker's Stage | Price | Who cuts them |
 |---|---|---|---|---|---|
-| **Flash Tag** | A white burst and a crack. Blinds and deafens anyone facing it within about four metres for a few seconds | Ambient Aether | I to III | 6 copper to 2 gold | Licensed cutters; penny tags on the black market |
-| **Smoke Tag** | Pours out thick grey smoke, a room's worth, for about a minute | Ambient Aether | I to II | 4 copper to 3 silver | Licensed cutters |
+| **Flash Tag** | A white burst and a crack. Blinds and deafens anyone facing it within about four meters for a few seconds | Ambient Aether | I to III | 6 copper to 2 gold | Licensed cutters; penny tags on the black market |
+| **Smoke Tag** | Pours out thick gray smoke, a room's worth, for about a minute | Ambient Aether | I to II | 4 copper to 3 silver | Licensed cutters |
 | **Tripwire Tag** | Pasted across a door or a path. Shrieks loud enough to hear a street away when a body crosses it. The commonest tag on the main | Ambient Aether | I to II | 6 copper to 2 silver | Licensed cutters, sold to households and shops |
 | **Kindling Tag** | Bursts into a hot, clinging flame on whatever it is stuck to | Ambient Aether | I to III | 6 copper to 1 gold | Licensed cutters |
 | **Blast Tag** | Explodes on the trigger or after a count. At Stage II it blows a door off its hinges; at Stage IV it brings down a wall | The maker's stored charge | II to V | 3 silver to 15 gold | Licensed to armies and mines; black market in every port |

@@ -14,7 +14,7 @@ title: "Winter Rend"
 
 **Limit** · **Ineffective against insulated or flame-forged armor built to withstand a genuine thermal swing.**
 
-**Counter** · **A heat burst met head-on cancels the arc's cold before it lands, and rapid mobility simply outruns the two-metre reach before the arc closes.**
+**Counter** · **A heat burst met head-on cancels the arc's cold before it lands, and rapid mobility simply outruns the two-meter reach before the arc closes.**
 
 **What nobody knows** · Why the cold rides the strike's own kinetic wake rather than radiating from the practitioner directly, the way every other cold-law working in the register does.
 
@@ -58,7 +58,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 ### Physics
 
-**Phenomenon** · Forced convection: a cold surface moved through air sheds heat ten times faster than a still one, so cold rides a sweeping strike; where the edge touches armour, the outer skin shrinks faster than the metal beneath and cracks (thermal shock).
+**Phenomenon** · Forced convection: a cold surface moved through air sheds heat ten times faster than a still one, so cold rides a sweeping strike; where the edge touches armor, the outer skin shrinks faster than the metal beneath and cracks (thermal shock).
 
 **Law** · Transfer grows as h ∝ √v, and a surface drop past R = σ(1 − ν)/(Eα) cracks a material in tension from the outside in.
 
@@ -83,7 +83,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Wellspring** · Vohrin (Caloria), one power at two levels, Titan and Wellspring, drawn here at the Wellspring level: cold is a deficit held as a discipline, an acceptance of heat; here the discipline rides a moving edge rather than the practitioner.
 
-**Wellspring** · Tenebra, the Hidden Shadow (Limina): the practitioner's return drops below the watcher's noise floor, covering the close to two metres; it does not make the arc.
+**Wellspring** · Tenebra, the Hidden Shadow (Limina): the practitioner's return drops below the watcher's noise floor, covering the close to two meters; it does not make the arc.
 
 **Inherited failures** · Vohrin's cold is unmade by a strong heat vector at the far end; Tenebra's aspect dependence shows the approach to a watcher at the unplanned angle.
 
@@ -105,13 +105,13 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Trigger** · A sweeping melee strike of arm or weapon; below Refraction its anchor is the arm that draws the arc.
 
-**Effect** · A dry clean cold smell, a white line of the room's own water frozen along the path, then armour that splits along lines no armourer knows; bare skin whitens along the line and the limb goes slow, the pain coming later.
+**Effect** · A dry clean cold smell, a white line of the room's own water frozen along the path, then armor that splits along lines no armorer knows; bare skin whitens along the line and the limb goes slow, the pain coming later.
 
 **Chime** · A faint ringing as a thin ice layer cracks as fast as it forms.
 
-**Scope** · A two-metre arc, delivered across its sweep and not sustained, below the 3 to 10 m A-Grade Contact Range.
+**Scope** · A two-meter arc, delivered across its sweep and not sustained, below the 3 to 10 m A-Grade Contact Range.
 
-**Failure** · Field fault: a room with no gradient left, or heat driven into the arc, gives the cold nothing; insulation denies the contact, and speed outruns two metres.
+**Failure** · Field fault: a room with no gradient left, or heat driven into the arc, gives the cold nothing; insulation denies the contact, and speed outruns two meters.
 
 **Bleed** · 45 percent of the spend and the heat taken leave the Shell as warmth into the air, so a warm closed room slowly spoils the working.
 
@@ -135,8 +135,8 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Tell** · The dry cold smell before the practitioner arrives, a white arc that shows where the edge went and where the next will go, a small ring that is no blow, warm air round him, and numb arms shaken out.
 
-**Limits** · Two metres of reach; small cold; no shock without contact; weaker with every sweep in a closed room.
+**Limits** · Two meters of reach; small cold; no shock without contact; weaker with every sweep in a closed room.
 
-**Fails against** · Padded jack, wool, leather or felt; insulated or flame-forged armour; heat into the arc, such as Pyreveil; anything beyond two metres; a warm closed room and repeated sweeps; a broken or bound drawing arm; the arc itself, readable after the first.
+**Fails against** · Padded jack, wool, leather or felt; insulated or flame-forged armor; heat into the arc, such as Pyreveil; anything beyond two meters; a warm closed room and repeated sweeps; a broken or bound drawing arm; the arc itself, readable after the first.
 
-**Look up** · The Caloria and Limina favour lists; the Vohrin and Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
+**Look up** · The Caloria and Limina favor lists; the Vohrin and Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.

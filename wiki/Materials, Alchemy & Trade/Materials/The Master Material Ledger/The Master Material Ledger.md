@@ -45,7 +45,7 @@ tags: ["Materials", "Reference Table"]
 | **Rock dust, silicate** *western slate belts* | Twenty years | Grinder's cough | *Simply what happens to men who breathe rock dust for twenty years* |
 | **Rock dust, fibrous serpentine** *southern coastal quarries* | Twenty years **after leaving the trade** | Lung scarring, **invariably fatal** | Enforcement has posted no writ **and the quarries have raised no objection to the absence** |
 | **Lahar** *eastern volcanic plains* | Minutes | A river of wet ash moving at the speed of a horse | Mitigation: distance. **Does not leave bodies to bury** |
-| **Fumarole gas pooling** *eastern sulphur fields* | Immediate | Silent asphyxiation in hollows | **Do not descend after a casualty. Kills rescue parties second** |
+| **Fumarole gas pooling** *eastern sulfur fields* | Immediate | Silent asphyxiation in hollows | **Do not descend after a casualty. Kills rescue parties second** |
 | **Wellspring drift** *eastern quarter* | Seasons to years | Source thins or shifts; the working is stranded | Economic rather than physical. **Has bankrupted more eastern ventures than every eruption in recorded history combined** |
 | **Tender's shake** *all array houses, all quarters* | ~8 years of service | Fine persistent palsy of the hands. **Permanent** | Mitigation: *hire young and hire in numbers.* **No compensation scheme exists in any quarter** |
 | **Crevice proximity** *southern margin* | Undescribed | Undescribed | Four-league exclusion line, **revised outward five times in the last sixty years** |
@@ -73,7 +73,7 @@ tags: ["Materials", "Reference Table"]
 > **Seerstone Resin** — attributed provisionally to eastern cloud forest canopy species. Unconfirmed by Archives.
 Two further entries the Measurewrights record as open. **Whether the Crevice is geology at all**: the Guild declines to certify it as a fault in any sense. And **whether the Kaetran Ring's passages are caused by the impact structure or merely coincident with it** — *the correlation is too exact to be accident and too unexamined to be asserted.*
 
-One inference is recorded and marked as such. **Silver's Resonance** is given as person-addressed binding, drawn from Bloodsilver and Dawnsilver behaviour — **the substrate tables name basalt, quartz, iron, gold and obsidian and are silent on silver.**
+One inference is recorded and marked as such. **Silver's Resonance** is given as person-addressed binding, drawn from Bloodsilver and Dawnsilver behavior — **the substrate tables name basalt, quartz, iron, gold and obsidian and are silent on silver.**
 
 ---
 

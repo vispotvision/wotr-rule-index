@@ -29,7 +29,7 @@ Its cells are called **cultures**. A new member is **inoculated**. A culture is 
 |---|---|
 | **To obtain the unattainable** | Whatever the Gate, the Academy or the law has put out of reach: a forbidden working, a sealed text, a material nobody may buy, a result no lawful bench will run |
 | **To feed the founder's backlog** | He takes in far more than he can turn. His Saturation sits at its ceiling and his Conversion has not moved since he was alive, and every gain since has widened the gap. The cultures run the conversions he cannot run himself |
-| **To break the Gate** | The Gate is the state's lockdown on who may learn which magic: controlled texts, Crystal registration, inspectors, licence and exam. The Mother teaches what the Gate forbids to people the Gate has refused, and each one it teaches is a hole in the lockdown |
+| **To break the Gate** | The Gate is the state's lockdown on who may learn which magic: controlled texts, Crystal registration, inspectors, license and exam. The Mother teaches what the Gate forbids to people the Gate has refused, and each one it teaches is a hole in the lockdown |
 | **Profit and power** | A culture pays for itself. What it learns is sold, what it makes is used, and what it costs is charged to somebody else |
 
 ---
@@ -66,7 +66,7 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 | **Vesk** | Makes the growth. Grafted, twice; calls the founder Lord |
 | **Xu Deming** | Buys the stock under his own name and carries the liability that follows the payer |
 
-**The work.** Rot synthesis and the slow breakdown of biological matrices, hidden under careful synthesis so that it reads as a Wellspring process. Nine hinds hung on the rail eleven days without a smell. In the field, eleven hinds and a stag dead where they stood, carrying a grey-green mass nine inches at the crown, with undecayed tissue beneath it.
+**The work.** Rot synthesis and the slow breakdown of biological matrices, hidden under careful synthesis so that it reads as a Wellspring process. Nine hinds hung on the rail eleven days without a smell. In the field, eleven hinds and a stag dead where they stood, carrying a gray-green mass nine inches at the crown, with undecayed tissue beneath it.
 
 **The flaw.** The work had an edge: twenty-two paces short of a parish boundary marker, with clean ground on the far side. A Night Watch forester found it and walked the far side twice.
 
@@ -105,7 +105,7 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 
 **Pressure on the weak member.** Every culture has a buyer who knows he is expendable. At Greyshaft Nine he had counted his own days of usefulness. A man who expects to be sacrificed can be offered something better.
 
-**Closing the Gate from the other side.** The cult recruits the people the state refuses. A licence, a teacher or a lawful place for a refused talent takes away the cult's offer.
+**Closing the Gate from the other side.** The cult recruits the people the state refuses. A license, a teacher or a lawful place for a refused talent takes away the cult's offer.
 
 **Against the founder himself: volume.** Precision does not beat him and purity does not beat him. Feed him faster than he can convert and he does not grow stronger; he backs up, and the Cauldron becomes a container. Separate him from the Golden Remnant, the second vessel that holds the rest of his Core, and he must choose which one he is using, a choice he has never had to make.
 

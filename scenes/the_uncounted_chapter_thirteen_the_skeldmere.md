@@ -30,7 +30,7 @@ The carter's lips were cracked and bleeding. He nodded.
 
 The lodge was very quiet. The fat-lamps hissed.
 
-Behind Aksel's left shoulder, a pace back, in plain grey with his hood down, Karogane had not moved. Aksel knew what his face was doing without turning to look. He had sat across a lamp from that face for six weeks. It was a long pale face with very pale eyes, and it did nothing, ever, and Aksel had learned to read the nothing the way he read a sky.
+Behind Aksel's left shoulder, a pace back, in plain gray with his hood down, Karogane had not moved. Aksel knew what his face was doing without turning to look. He had sat across a lamp from that face for six weeks. It was a long pale face with very pale eyes, and it did nothing, ever, and Aksel had learned to read the nothing the way he read a sky.
 
 It was doing a great deal of nothing now.
 
@@ -54,23 +54,23 @@ He got to his feet.
 
 He did it all at once, the way the Keld rose from their fires, with no hand on the floor, his short powerful legs taking all of him straight up off the packed snow. The walrus-ivory rings in his braids clicked. Around the lodge the Keld captains rose with him, one for each of his fights, men he had broken in and men who had broken in beside him, in their reindeer coats with their spears and their short recurved bows of horn and sinew, and the old Keld war-chant they never sang aloud but only hummed, low in the chest, began somewhere at the back of the lodge.
 
-"Wake the fires," said Aksel Keld. "We ride at the grey."
+"Wake the fires," said Aksel Keld. "We ride at the gray."
 
 ---
 
 ### II · We March
 
-The Keld did not form ranks. They had never formed ranks. A rank was a southern thing, a wall of men who stood in a line because they could not trust themselves to stand anywhere else. The Keld came out of their snow-shelters in the black hour before the grey and found their horses by smell, and mounted, and drifted together across the ice in loose knots of twenty and thirty that moved like a herd of reindeer moves, each knot with its own captain and its own reason, and the knots drifted together in the dark until they were four thousand riders spread over a mile of the Skeldmere, breathing.
+The Keld did not form ranks. They had never formed ranks. A rank was a southern thing, a wall of men who stood in a line because they could not trust themselves to stand anywhere else. The Keld came out of their snow-shelters in the black hour before the gray and found their horses by smell, and mounted, and drifted together across the ice in loose knots of twenty and thirty that moved like a herd of reindeer moves, each knot with its own captain and its own reason, and the knots drifted together in the dark until they were four thousand riders spread over a mile of the Skeldmere, breathing.
 
 Six hundred men breathing in the cold made a sound like a tide coming in under a pier. Four thousand made a sound like the sea.
 
 They were short men on short horses, the northern kind that did not founder in the drift and could live a week on lichen and their own fat. Every rider had two coats, the inner of reindeer hair turned in and the outer of sealskin turned out, and a hood of wolverine fur that did not take frost. Every rider had his bow in a case of sealskin at his knee and thirty arrows in the quiver at his back, the heads of black glass and bone because iron cracked in the deep cold. Every rider had a lance of birch with a long leaf head, and a short axe, and a knife. And every rider had, tied at his saddle-bow, a twist of white cloth the length of his arm, which he would pull over his face and his horse's face in the lifting, so that a Keld rider in a whiteout was a white thing on a white thing in a white world, and could not be seen until he was close enough to touch.
 
-Aksel Keld rode out in front of them as the grey came up, and with it, low in the east behind the Grey Teeth, a band of rose and pale gold no wider than a hand.
+Aksel Keld rode out in front of them as the gray came up, and with it, low in the east behind the Grey Teeth, a band of rose and pale gold no wider than a hand.
 
 He sat his horse, a stocky dun with a black stripe down its back, at the edge of the great loose herd of them, and looked out east over the ice to where the long dark line of the Grey Teeth stood up out of the white, and then south, toward the Foot. Toward the boy.
 
-Karogane rode up beside him on a tall grey southern horse that stood a hand higher than any Keld mount and looked absurd for it, and stopped, and said nothing.
+Karogane rode up beside him on a tall gray southern horse that stood a hand higher than any Keld mount and looked absurd for it, and stopped, and said nothing.
 
 Aksel gave him one look, and no more.
 
@@ -90,7 +90,7 @@ The iron hand. Black iron and walrus tusk and sinew, the heavy articulated finge
 
 He said nothing after it. Four thousand throats took it up, low, a hum in the chest that went across the ice like a wind coming, and the horses stamped and blew, and the frozen ground rang under their hooves and came up through the horses into the riders' knees.
 
-Beside him, on his absurd tall grey horse, Karogane watched the Keld warlord with his very pale eyes, and his long pale face did nothing at all.
+Beside him, on his absurd tall gray horse, Karogane watched the Keld warlord with his very pale eyes, and his long pale face did nothing at all.
 
 *For now,* Aksel Keld thought again, as he had thought in the lodge with his fist on his heart, and lowered his hand.
 
@@ -100,17 +100,17 @@ Beside him, on his absurd tall grey horse, Karogane watched the Keld warlord wit
 
 At the Foot, Yukazuri was waiting at the gate.
 
-She had been up all night. Muken could see it in the set of her shoulders under her shawl and the colour of the skin under her eyes. She had been up all night at the surgeons' line with the two Greymane women who could stitch and the Stark boy who could carry, laying out everything she had on clean linen in rows: the gut and the needles, the salve tins, the spirit, the long iron probes for arrowheads and the short curved knife for what the probes could not reach, the splints, the straps, the boiled cloth in its wooden tubs with the steam still coming off it. He knew because he had come to the tent door at midnight and seen her at it, kneeling between the rows with her hands moving and her lips moving, counting, and had gone away again without saying anything because there was nothing he could say that she had not already counted.
+She had been up all night. Muken could see it in the set of her shoulders under her shawl and the color of the skin under her eyes. She had been up all night at the surgeons' line with the two Greymane women who could stitch and the Stark boy who could carry, laying out everything she had on clean linen in rows: the gut and the needles, the salve tins, the spirit, the long iron probes for arrowheads and the short curved knife for what the probes could not reach, the splints, the straps, the boiled cloth in its wooden tubs with the steam still coming off it. He knew because he had come to the tent door at midnight and seen her at it, kneeling between the rows with her hands moving and her lips moving, counting, and had gone away again without saying anything because there was nothing he could say that she had not already counted.
 
 She stood at the gate now in the first light, with the frost on the new gate-timbers glittering and the white banner hanging over her head, blank as new snow, and her sleeves already rolled to the elbow in the cold.
 
-Behind her the yard was full of horses. Four hundred of them. Lorn Stark's vanguard, the best of the Stark riders and the boys who had sewn the banner, in their hide-coats and mail with their axes across their backs and their round shields of limewood and hide on their arms, mounted and waiting, their breath going up in a single low cloud. The Greymane foot stood along the walls above them in their long grey file, spears grounded, watching. They were not riding. Godfrey Greymane had argued against it for an hour in the long room and lost, and then argued for it, quietly, to his own men, for another hour, and won. *Somebody holds the Foot,* he had said, finally, standing at the end of the split pine table with his long grey hands flat on the wood. *If the Keld come round us in the snow and we've left the gate with nobody on it, we'll have no Foot to come home to. The Greymanes hold. It's what we do.*
+Behind her the yard was full of horses. Four hundred of them. Lorn Stark's vanguard, the best of the Stark riders and the boys who had sewn the banner, in their hide-coats and mail with their axes across their backs and their round shields of limewood and hide on their arms, mounted and waiting, their breath going up in a single low cloud. The Greymane foot stood along the walls above them in their long gray file, spears grounded, watching. They were not riding. Godfrey Greymane had argued against it for an hour in the long room and lost, and then argued for it, quietly, to his own men, for another hour, and won. *Somebody holds the Foot,* he had said, finally, standing at the end of the split pine table with his long gray hands flat on the wood. *If the Keld come round us in the snow and we've left the gate with nobody on it, we'll have no Foot to come home to. The Greymanes hold. It's what we do.*
 
-He stood at the gatehouse now, a little apart from his men, very straight, in grey, and did not look at the yard.
+He stood at the gatehouse now, a little apart from his men, very straight, in gray, and did not look at the yard.
 
 Muken stopped in front of his sister.
 
-He looked at her. She looked back at him, with her small sharp face set like a closed fist and her grey eyes very steady, and for a moment neither of them spoke, and the four hundred horses blew and stamped behind them, and somewhere on the wall a Greymane spearman coughed.
+He looked at her. She looked back at him, with her small sharp face set like a closed fist and her gray eyes very steady, and for a moment neither of them spoke, and the four hundred horses blew and stamped behind them, and somewhere on the wall a Greymane spearman coughed.
 
 "Please be careful," said Yukazuri.
 
@@ -162,7 +162,7 @@ He had known the number. Godfrey had told him in the long room. The outriders ha
 
 He had not.
 
-They covered the ice. From the dark line of the Grey Teeth in the east to the white blur of the far shore in the north, the Keld were spread over the Skeldmere in their loose drifting knots like a herd that went on to the edge of seeing, and the edge of seeing went on further than it should have, because the light was already going flat. Four thousand riders, and every one of them a short dark shape on a short dark horse, and over all of them their breath standing in a mist that the low grey sky came down to meet. They were not moving. They sat their horses on the ice the way the ice sat on the lake, as if they had always been there and always would.
+They covered the ice. From the dark line of the Grey Teeth in the east to the white blur of the far shore in the north, the Keld were spread over the Skeldmere in their loose drifting knots like a herd that went on to the edge of seeing, and the edge of seeing went on further than it should have, because the light was already going flat. Four thousand riders, and every one of them a short dark shape on a short dark horse, and over all of them their breath standing in a mist that the low gray sky came down to meet. They were not moving. They sat their horses on the ice the way the ice sat on the lake, as if they had always been there and always would.
 
 "Four thousand," said Lorn Stark quietly.
 
@@ -180,13 +180,13 @@ He did not decide to do it. It happened the way it had happened on the stair at 
 
 The Keld were still there. The ice was still there. But now, over all of it, like frost on a window, there were lines.
 
-Thin lines. Hair-fine. Gold. They ran through the Keld host the way cracks run through old glaze, between one knot of riders and the next, along the seams where one captain's men ended and another's began, branching and joining and branching again. Most of them were faint, hardly there. A few were brighter. And one, out on the left of the Keld host, toward the Grey Teeth, between a big knot of riders on dark horses and a smaller one on greys, was bright enough that it seemed to hum.
+Thin lines. Hair-fine. Gold. They ran through the Keld host the way cracks run through old glaze, between one knot of riders and the next, along the seams where one captain's men ended and another's began, branching and joining and branching again. Most of them were faint, hardly there. A few were brighter. And one, out on the left of the Keld host, toward the Grey Teeth, between a big knot of riders on dark horses and a smaller one on grays, was bright enough that it seemed to hum.
 
 *There,* thought Muken. *That's where it's tired.*
 
 He did not know how he knew. He had never known. He only knew that it had never once been wrong.
 
-"Lorn," he said. "The greys. On their left, by the mountains."
+"Lorn," he said. "The grays. On their left, by the mountains."
 
 Lorn looked.
 
@@ -196,7 +196,7 @@ Lorn looked.
 
 Lorn Stark gave him a long sideways look. Then he looked back at the ice, and his jaw tightened on the left side, and he nodded once.
 
-"The greys are the Sennet clan," he said. "The dark horses are the Haldorssons. Sennet and Haldorsson have been killing each other over the Teeth pastures since my grandfather's time. Aksel Keld broke them both in and made them ride together." He was quiet a moment. "You couldn't have known that."
+"The grays are the Sennet clan," he said. "The dark horses are the Haldorssons. Sennet and Haldorsson have been killing each other over the Teeth pastures since my grandfather's time. Aksel Keld broke them both in and made them ride together." He was quiet a moment. "You couldn't have known that."
 
 "I didn't," said Muken.
 
@@ -208,7 +208,7 @@ Out on the ice, a knot of riders had detached itself from the front of the Keld 
 
 They met in the middle of the ice, halfway between the two hosts, where the snow lay untouched and very white.
 
-Twelve Keld riders came out, in a loose ring, with Aksel Keld at the front of them on his dun with the black stripe, and the tall grey southern horse beside him. Muken took Lorn and six Stark riders, and the wolfhound, and nobody else. He had thought of taking Kiyome and her forty. He had thought better of it. *If the Tenrai see Byakuya white beside me at a parley,* he had said to her at dawn, *they'll know what you've done before you're ready for them to know it.* She had looked at him a long moment and then gone to her riders, and they had ridden off north along the shore before light, toward Thornhaven, and he had not seen them since.
+Twelve Keld riders came out, in a loose ring, with Aksel Keld at the front of them on his dun with the black stripe, and the tall gray southern horse beside him. Muken took Lorn and six Stark riders, and the wolfhound, and nobody else. He had thought of taking Kiyome and her forty. He had thought better of it. *If the Tenrai see Byakuya white beside me at a parley,* he had said to her at dawn, *they'll know what you've done before you're ready for them to know it.* She had looked at him a long moment and then gone to her riders, and they had ridden off north along the shore before light, toward Thornhaven, and he had not seen them since.
 
 Hayato had gone two nights ago. South and west, on his own roads, toward Ashbury, with his twenty. *Give me two days,* he had said, mounting in the dark of the yard with the juniper still in his toggle. *Two days and a road. That's all I've ever needed.*
 
@@ -222,7 +222,7 @@ Aksel Keld looked back at him with narrow black eyes and said nothing at all.
 
 It was the man beside him who dismounted.
 
-He swung down off the tall grey horse in one smooth movement, plain grey cloak swirling, and stood on the snow, tall and lean with his hood thrown back and a long pale face and very pale eyes. He carried no sword that Muken could see. He did not need one. He moved the way Shigure Tenrai had moved on the stair, with nothing wasted and nothing hurried, as though every step had been measured out for him in advance and he was only walking the measure.
+He swung down off the tall gray horse in one smooth movement, plain gray cloak swirling, and stood on the snow, tall and lean with his hood thrown back and a long pale face and very pale eyes. He carried no sword that Muken could see. He did not need one. He moved the way Shigure Tenrai had moved on the stair, with nothing wasted and nothing hurried, as though every step had been measured out for him in advance and he was only walking the measure.
 
 *Karogane,* thought Muken. *So that's what a knife looks like.*
 
@@ -242,13 +242,13 @@ Karogane's pale eyes moved, at last, to Muken.
 
 Muken looked back at him.
 
-He looked at the long pale face and the plain grey cloak and the hands, which were long and pale too, and motionless at his sides, and very clean. He looked at the Tenrai gold thread worked so fine into the hem of the grey that you could only see it when the light caught it. He thought about the stair at the Foot, and Shigure's sword at his throat, and the Tenrai factor at the top of the shaft with his ledger. He thought about Kagenori in the Hall of Verdicts, and the letters with two seals, and the silver always on the left.
+He looked at the long pale face and the plain gray cloak and the hands, which were long and pale too, and motionless at his sides, and very clean. He looked at the Tenrai gold thread worked so fine into the hem of the gray that you could only see it when the light caught it. He thought about the stair at the Foot, and Shigure's sword at his throat, and the Tenrai factor at the top of the shaft with his ledger. He thought about Kagenori in the Hall of Verdicts, and the letters with two seals, and the silver always on the left.
 
 "So this is what my family has become," said Muken.
 
 He said it quietly, almost to himself, and it carried anyway.
 
-"A muck," he said. "A muck of disgust. Clerks and knives and men who send other men's sons to die on the ice for a chair they'll never sit in." He did not look away from Karogane's face. "My father was a monster. I'll not argue it. But he stood in the mud at Shimane himself, at the end. He didn't send a man in grey to stand there for him."
+"A muck," he said. "A muck of disgust. Clerks and knives and men who send other men's sons to die on the ice for a chair they'll never sit in." He did not look away from Karogane's face. "My father was a monster. I'll not argue it. But he stood in the mud at Shimane himself, at the end. He didn't send a man in gray to stand there for him."
 
 Something moved in Karogane's face.
 
@@ -312,7 +312,7 @@ There was nothing more to say, and everyone on the ice knew it. Lorn turned his 
 
 Behind them, Karogane was shouting.
 
-He was shouting it at last, the thing he had come four hundred miles across the tundra to shout. He had climbed back into his saddle on the tall grey horse and stood in the stirrups, facing the Stark line, and his soft dry voice had found a carrying edge Muken would not have believed it had.
+He was shouting it at last, the thing he had come four hundred miles across the tundra to shout. He had climbed back into his saddle on the tall gray horse and stood in the stirrups, facing the Stark line, and his soft dry voice had found a carrying edge Muken would not have believed it had.
 
 "*Gimbzo's son!*" shouted Karogane. "*You are following Gimbzo's son! The butcher of Hiroe! The cellar king! His blood is in that boy and you are following it onto the ice!*"
 
@@ -340,7 +340,7 @@ Behind him, four thousand Keld riders pulled the white cloth up over their faces
 
 The light went flat.
 
-It went all at once, the way the Keld said it did, the way the Hallenfeld quartermasters wrote in their notebooks and nobody south of the Kessen road believed. One moment there was a horizon, the dark line of the Grey Teeth and the white blur of the far shore and the grey sky over both. The next there was nothing. The ice and the sky became one white, and the white had no edge and no depth, and a man looking into it could not tell whether the thing in front of him was a mile off or a hand's width, or whether it was there at all. The horizon lifted off the Skeldmere and floated. The sky came down. The world went blind.
+It went all at once, the way the Keld said it did, the way the Hallenfeld quartermasters wrote in their notebooks and nobody south of the Kessen road believed. One moment there was a horizon, the dark line of the Grey Teeth and the white blur of the far shore and the gray sky over both. The next there was nothing. The ice and the sky became one white, and the white had no edge and no depth, and a man looking into it could not tell whether the thing in front of him was a mile off or a hand's width, or whether it was there at all. The horizon lifted off the Skeldmere and floated. The sky came down. The world went blind.
 
 And out of the blindness came the Keld.
 
@@ -364,7 +364,7 @@ Muken sat his bay at the heart of it with the scrap-iron sword in his hand and t
 
 He could see the lines.
 
-That was the thing. The Shingan did not care about the lifting. The Keld were invisible to his right eye and his left eye both, and still the gold lines ran through the host, and the host was there whether he could see it or not. He could see the gold running through the white like veins through marble. He could see where the knots were, by the seams between them. He could see them moving, circling the Stark ring in the blindness, drifting in and striking and drifting out. And he could see the bright line out on the left, the humming one, between the Sennet greys and the Haldorsson dark horses, still there, still bright, still tired.
+That was the thing. The Shingan did not care about the lifting. The Keld were invisible to his right eye and his left eye both, and still the gold lines ran through the host, and the host was there whether he could see it or not. He could see the gold running through the white like veins through marble. He could see where the knots were, by the seams between them. He could see them moving, circling the Stark ring in the blindness, drifting in and striking and drifting out. And he could see the bright line out on the left, the humming one, between the Sennet grays and the Haldorsson dark horses, still there, still bright, still tired.
 
 But he could not reach it. It was half a mile off across the ice, behind a thousand Keld in a white he could not ride through without losing his way inside forty paces. And between him and it, the Stark ring was getting smaller.
 
@@ -412,7 +412,7 @@ Out on the north side of the Keld host, at its very edge, something had come int
 
 They came out of the lifting like a wall walking.
 
-Thornwall pikes. Twelve hundred of them, Lorn said afterward, and he had counted the banners, each with its dark red thorn-sprig standing out of the white like blood on a sleeve: the men of Thornhaven, in their heavy grey felt and their iron caps, in a solid block forty men wide and thirty deep, with their eighteen-foot ash pikes levelled before them in a hedge so thick that a horse could not have pushed its nose through it. They did not hurry. They came down out of the north onto the Keld flank at a walk, in step, to the slow beat of a drum, with the thorn-horn sounding behind them every hundred paces, and at their head, on a white horse, in near-white robes with her loose white hair blown back and the glass beads at her temples catching what light there was and throwing it back in small sparks of every colour, rode Kiyome Byakuya, with forty Byakuya riders at her back and a woman beside her in Thornwall grey whom Muken had never seen.
+Thornwall pikes. Twelve hundred of them, Lorn said afterward, and he had counted the banners, each with its dark red thorn-sprig standing out of the white like blood on a sleeve: the men of Thornhaven, in their heavy gray felt and their iron caps, in a solid block forty men wide and thirty deep, with their eighteen-foot ash pikes leveled before them in a hedge so thick that a horse could not have pushed its nose through it. They did not hurry. They came down out of the north onto the Keld flank at a walk, in step, to the slow beat of a drum, with the thorn-horn sounding behind them every hundred paces, and at their head, on a white horse, in near-white robes with her loose white hair blown back and the glass beads at her temples catching what light there was and throwing it back in small sparks of every color, rode Kiyome Byakuya, with forty Byakuya riders at her back and a woman beside her in Thornwall gray whom Muken had never seen.
 
 The Keld on the north side of the host did not know what had hit them.
 
@@ -450,9 +450,9 @@ Edric Ashmore had looked at the map under the low hum of the one worked lamp in 
 
 On the ice, the Keld host began to come apart.
 
-Muken saw it in the gold before he saw it with his eyes. The north side of the host, where the Thornwall pikes had come in, had gone into a chaos of broken lines and knots spinning off into the white. The south side, where the Ashmore horse had struck, was buckling, the knots pulling back on each other, the seams between them glowing hot. And out on the left, by the Grey Teeth, the bright humming line between the Sennet greys and the Haldorsson dark horses had begun, at last, to run.
+Muken saw it in the gold before he saw it with his eyes. The north side of the host, where the Thornwall pikes had come in, had gone into a chaos of broken lines and knots spinning off into the white. The south side, where the Ashmore horse had struck, was buckling, the knots pulling back on each other, the seams between them glowing hot. And out on the left, by the Grey Teeth, the bright humming line between the Sennet grays and the Haldorsson dark horses had begun, at last, to run.
 
-He watched it go. It went like a crack runs across ice when the weight comes down: all at once, faster than the eye, along its whole length. The Sennet greys turned their horses, and turned them on the Haldorssons beside them, in the white, with their lances down, because whatever old thing lay between those two clans over the Teeth pastures had been waiting for exactly this, for the Iron Fist to be busy somewhere else, and the Iron Fist was busy.
+He watched it go. It went like a crack runs across ice when the weight comes down: all at once, faster than the eye, along its whole length. The Sennet grays turned their horses, and turned them on the Haldorssons beside them, in the white, with their lances down, because whatever old thing lay between those two clans over the Teeth pastures had been waiting for exactly this, for the Iron Fist to be busy somewhere else, and the Iron Fist was busy.
 
 *There,* thought Muken. *I told you. That's where it was tired.*
 
@@ -564,7 +564,7 @@ And the world went away.
 
 He was standing in a place made of threads.
 
-He knew it was a place because he was standing in it, and he knew he was standing because his feet were on something, though when he looked down there was nothing there but more threads, running away from under his boots in every direction, crossing and crossing again, fine as hair, gold and silver and black, rose and sea-green and the violet of the northern sky, and colours he had no names for. They ran up into the dark above him and down into the dark below and out to every side, so many that the dark between them was only a kind of absence, and every one of them was humming. Very faintly. Each at its own note. The sound of it was like the sound of six hundred people breathing in the cold, or four thousand, or every person who had ever lived, all at once, very far away.
+He knew it was a place because he was standing in it, and he knew he was standing because his feet were on something, though when he looked down there was nothing there but more threads, running away from under his boots in every direction, crossing and crossing again, fine as hair, gold and silver and black, rose and sea-green and the violet of the northern sky, and colors he had no names for. They ran up into the dark above him and down into the dark below and out to every side, so many that the dark between them was only a kind of absence, and every one of them was humming. Very faintly. Each at its own note. The sound of it was like the sound of six hundred people breathing in the cold, or four thousand, or every person who had ever lived, all at once, very far away.
 
 His ribs did not hurt.
 
@@ -604,7 +604,7 @@ It did not have a face. It had where a face would be, and in that place there wa
 
 "Why am I here?"
 
-"Because you were falling," said Faisal. "And I do not let things fall. It is the only thing I was ever made to do." The bright places where eyes would be did not move from him. "And because you swore an oath, two nights ago, on your honour, by a woodpile, in front of six hundred people. I heard it. I hear every oath that is sworn on honour, even here, even under this. I heard it, and it was true. Every word of it was true." The light warmed. "Do you know how rarely I hear that? A king, swearing, and every word of it true?"
+"Because you were falling," said Faisal. "And I do not let things fall. It is the only thing I was ever made to do." The bright places where eyes would be did not move from him. "And because you swore an oath, two nights ago, on your honor, by a woodpile, in front of six hundred people. I heard it. I hear every oath that is sworn on honor, even here, even under this. I heard it, and it was true. Every word of it was true." The light warmed. "Do you know how rarely I hear that? A king, swearing, and every word of it true?"
 
 Muken did not answer.
 
@@ -634,7 +634,7 @@ The kneeling figure did not answer at once. The threads hummed. Far away, very f
 
 The threads began to tremble.
 
-"Go back," said Faisal. "He is about to strike again. Find the note. Hold it. And when you swear, swear by your honour, as the Stark taught you." The light began to dim, and the place made of threads began to dim with it, going grey at the edges, going white. "I will be listening."
+"Go back," said Faisal. "He is about to strike again. Find the note. Hold it. And when you swear, swear by your honor, as the Stark taught you." The light began to dim, and the place made of threads began to dim with it, going gray at the edges, going white. "I will be listening."
 
 "Will I see you again?"
 
@@ -703,7 +703,7 @@ The scrap-iron sword, in his hand, began to ring.
 
 **Calls I made (agent rulings, open to overturn):**
 - **The carter reaches the Keld** an hour before dawn, so Karogane's planned reveal is spent before the battle starts. He shouts "Gimbzo's son" anyway, and the Stark line answers *"We know!"* (Rob Stark), then *"He told us himself, you daft bastard!"* (the boy with the red ears), and laughs.
-- **Muken's reading of the host.** The Shingan sees the Keld host's seams as gold lines and finds the old feud between the Sennet greys and the Haldorsson dark horses over the Teeth pastures (both clans new). It breaks when the load comes on.
+- **Muken's reading of the host.** The Shingan sees the Keld host's seams as gold lines and finds the old feud between the Sennet grays and the Haldorsson dark horses over the Teeth pastures (both clans new). It breaks when the load comes on.
 - **The Keld way of war.** The lifting, the white cloths over rider and horse, glass and bone arrowheads because iron cracks in the deep cold, birch lances, hit-and-fade from three sides, then a wedge.
 - **Thornwall.** The Lady of Thornwall was born a Byakuya, a cousin of Kiyome's mother, and married north forty years ago. Kiyome's crow said four words: *The red line lives.* She cellars the Tenrai factor and marches twelve hundred Thornhaven pikes two days across the tundra. A Byakuya rider leads them through the whiteout by the sound of the lake booming under it. She has no name yet.
 - **Ashmore.** The marches sit at the junction of the Kessen, Marrow and salt roads. Hayato's map shows the Tenrai's roads in black and his own in indigo, with more indigo than black. **Lord Edric Ashmore** swears to Hayato at the junction stone below Ashbury, then rides with five or six hundred horse. Hayato rides at the front, badly, shouting "Two days and a road!"
@@ -725,6 +725,6 @@ The scrap-iron sword, in his hand, began to ring.
 
 The prose check passes with no fails, and the "eleven" warning is cleared.
 
-**Revision 2026-10-24.** Added colour before and after the lifting, which stays white (the fat-lamp yellow, rose and gold dawn behind the Grey Teeth with the iron fist black against it, frost on the Foot's gate, sun-gilded wind-ridges and jay-blue hollows on the Skeldmere, Thornhaven's red thorn-sprig banners, Kiyome's beads, Ashmore russet, aurora colours among Faisal's threads), one touch of draw at Ashbury's hall only, and trimmed the tics (did not need to, long moments, quite still) and four small antitheses; every beat and Isaac's lines are kept.
+**Revision 2026-10-24.** Added color before and after the lifting, which stays white (the fat-lamp yellow, rose and gold dawn behind the Grey Teeth with the iron fist black against it, frost on the Foot's gate, sun-gilded wind-ridges and jay-blue hollows on the Skeldmere, Thornhaven's red thorn-sprig banners, Kiyome's beads, Ashmore russet, aurora colors among Faisal's threads), one touch of draw at Ashbury's hall only, and trimmed the tics (did not need to, long moments, quite still) and four small antitheses; every beat and Isaac's lines are kept.
 
 **Revision 2026-10-25.** Faisal is whole throughout: Malakar never divided him (ruling 2026-10-25). His broken wings, the seam and every "sixth" line now read as the whole Grand Angel kneeling under the cracked Lawbell's weight; every beat and line otherwise kept.

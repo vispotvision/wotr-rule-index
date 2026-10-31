@@ -15,7 +15,7 @@ tags: ["Bloodlines"]
 
 ## Foundational Identity
 
-Their identity centres on **shinma**, the sacred and unbreakable relational interval running between person and person, the living and the dead, the land and the sea, the *ie* and the gods who first walked it.
+Their identity centers on **shinma**, the sacred and unbreakable relational interval running between person and person, the living and the dead, the land and the sea, the *ie* and the gods who first walked it.
 > Where other lineages inherit force that breaks, devours, commands, or foresees, **the Yuno inherit the harder portion.** They must keep the ma, mend it where it tears, **and answer, in their own bodies, for every silence a broken ma leaves behind.**
 **Core inheritance** · Ancestral *keizu* recited without error **back through more generations than any living Yuno has counted aloud**, a discipline of *kotoage* sharp enough to bind a hearing crowd, and **the keeper's instinct for where a ma has thinned before it tears.**
 
@@ -42,20 +42,20 @@ Their identity centres on **shinma**, the sacred and unbreakable relational inte
 
 ## The Seven Tsutome of Shinma
 
-Shinma is **not simply holy magic and not simply etiquette raised to the level of law.** It is the discipline by which the interval between all living and unliving things is measured, honoured, defended, **and, when torn, mended before the tear widens into catastrophe.**
+Shinma is **not simply holy magic and not simply etiquette raised to the level of law.** It is the discipline by which the interval between all living and unliving things is measured, honored, defended, **and, when torn, mended before the tear widens into catastrophe.**
 > Their arts do not overpower a thing so much as **force it back into right relation with everything it stands beside.** Even their harshest workings carry the shape of ceremony — **closer to a verdict than a massacre.**
 >
 > Because the Yuno are a house of kashira rather than conquest, **their power always arrives dressed.** A working that could flay a man instead arrives as procession, as judgment, **as the folding of a brocade across a shoulder that will never be unfolded again.**
 
-| Tsutome | Labour |
+| Tsutome | Labor |
 |---|---|
 | **Kiyome** · Consecration | Sets apart a threshold, a hall, a relic, or a body as **sacred and no longer available to profane or unstable use** |
 | **Akashi** · Witness | Seals a vow, a marriage, an accusation, an inheritance, or a confession **beneath a truth the speaker cannot later unmake** |
 | **Yomiji** · Passage | Governs the funerary crossing, the vigil, ancestor continuity, and **the lawful movement of a soul from this shore toward the western gate at Nishimori** |
 | **Wagō** · Reconciliation | Brings enemies, broken councils, and clashing Domains into a held space **where contradiction can be carried without collapsing into war** |
 | **Yurushi** · Atonement | Answers curse pressure, inherited stain, and broken *chigiri* through confession, payment, **and the slow work of forgiveness** |
-| **Muki-Naoshi** · Orientation | Turns a person, a hall, a relic, or a whole *ie* **back to face its correct centre** when it has drifted from lawful balance |
-| **Tōbō no Michi** · Far Wisdom | **The highest and rarest labour** — gathering memory, oath, passage, and reconciliation **into a single sacramental act** |
+| **Muki-Naoshi** · Orientation | Turns a person, a hall, a relic, or a whole *ie* **back to face its correct center** when it has drifted from lawful balance |
+| **Tōbō no Michi** · Far Wisdom | **The highest and rarest labor** — gathering memory, oath, passage, and reconciliation **into a single sacramental act** |
 
 ---
 
@@ -91,7 +91,7 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 
 ## The Five Sacred Branches
 
-| Branch | Nature | Bearing | Favoured Tsutome |
+| Branch | Nature | Bearing | Favored Tsutome |
 |---|---|---|---|
 | **Hatsuhi** | The oldest and most sacred line, tied to the first light and to the shaping of the isles. Public sanctification, coronation, civic vows, **and the rites owed to a newly raised title** | Unhurried and formally dressed even outside of rite, brocade worn folded rather than displayed | Kiyome, then Akashi |
 | **Nishimori** | Night vigils, funerary rites, ancestor tending, and **the silent maintenance of the western gate, where the living road ends and the road to Yomi begins** | Quieter than the other branches, **rarely speaks first**, hands often resting near a *hossu* even at rest | Yomiji, then Yurushi |
@@ -133,7 +133,7 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 
 > The Yuno are **a dynasty of sacred relation.** They do not simply pray over the world; **they force divided things to stand in right ma with one another** — force memory to answer *keizu*, force grief to answer Yomiji, force law to answer *nasake*, **and force every fracture to reveal the larger weave it never stopped belonging to.**
 >
-> Their power is not easiest understood as destruction or command, though it can wound and dominate when the ma demands it. **It is better understood as a gentle name worn over an enormous weight** — the labour of holding too many truths in one hand at once, **and refusing to let the world split clean where a deeper relation still calls to be kept.**
+> Their power is not easiest understood as destruction or command, though it can wound and dominate when the ma demands it. **It is better understood as a gentle name worn over an enormous weight** — the labor of holding too many truths in one hand at once, **and refusing to let the world split clean where a deeper relation still calls to be kept.**
 
 ## Yasoshima — The Eighty Isles
 

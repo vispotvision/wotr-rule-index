@@ -32,11 +32,11 @@ At lesser attainments it resembles advanced matter shaping. At greater attainmen
 
 ### 1 · Form — , mass, density, substance
 
-Governs physical substance directly. Stone, iron, bone, flesh, dust, crystal, wood, soil, armour, blood, and forged materials all fall beneath its authority.
+Governs physical substance directly. Stone, iron, bone, flesh, dust, crystal, wood, soil, armor, blood, and forged materials all fall beneath its authority.
 
-**Functions** · Increase or reduce density · harden or soften material · compress loose matter into unified mass · reshape terrain, weapons, armour, and bodies · reinforce one's own physical form · restore fractured structures · convert debris into barriers, pillars, chains, blades, or pressure constructs.
+**Functions** · Increase or reduce density · harden or soften material · compress loose matter into unified mass · reshape terrain, weapons, armor, and bodies · reinforce one's own physical form · restore fractured structures · convert debris into barriers, pillars, chains, blades, or pressure constructs.
 
-**In combat** · Armour may become too heavy to lift. Soil may vitrify into black glass. Dust may compress into cutting edges. Flesh may harden like layered stone. Weapons may buckle beneath their own weight.
+**In combat** · Armor may become too heavy to lift. Soil may vitrify into black glass. Dust may compress into cutting edges. Flesh may harden like layered stone. Weapons may buckle beneath their own weight.
 
 **Limit** · Requires existing substance. **It cannot freely create matter from nothing.**
 
@@ -44,7 +44,7 @@ Governs physical substance directly. Stone, iron, bone, flesh, dust, crystal, wo
 
 Does not govern universal time. It governs **material sequence**, the progression through which physical matter experiences change. It does not rewrite history; it alters the temporal pressure contained within matter itself.
 
-**Functions** · Accelerate rust, decay, erosion, cooling, burning, or decomposition · delay collapse or physical failure · suspend reactions mid-process · extend the interval before damage manifests · age structures, weapons, armour, or barriers · restore matter to a prior state if sufficient material memory remains.
+**Functions** · Accelerate rust, decay, erosion, cooling, burning, or decomposition · delay collapse or physical failure · suspend reactions mid-process · extend the interval before damage manifests · age structures, weapons, armor, or barriers · restore matter to a prior state if sufficient material memory remains.
 
 **In combat** · A blade may corrode in its wielder's grasp. A collapsing tower may remain standing for moments longer. A wound may refuse to open. A fortress wall may weather centuries in a breath.
 
@@ -57,7 +57,7 @@ Does not govern universal time. It governs **material sequence**, the progressio
 > **It is not emptiness. It is matter's contradiction.**
 **Functions** · Generate anti-structure against existing matter · cancel density, cohesion, or mass · create annihilation pressure between matter and inverse signature · corrode barriers through opposition of form · introduce anti-form into material memory · dissolve structures without burning or breaking them.
 
-**In combat** · A shield ceases to function as a shield. Stone hollows from within. Armour loses its agreement with weight and collapses into dust. **A blade may lose the reality of its edge before the weapon itself fails.**
+**In combat** · A shield ceases to function as a shield. Stone hollows from within. Armor loses its agreement with weight and collapses into dust. **A blade may lose the reality of its edge before the weapon itself fails.**
 
 **Limit** · Notoriously unstable. Misuse rebounds into the practitioner, producing anti-form scars, hollow bones, missing flesh, or Soul Crystal inversion.
 
@@ -65,9 +65,9 @@ Does not govern universal time. It governs **material sequence**, the progressio
 
 Governs the threshold where spiritual power acquires physical consequence. Most disciplines treat Essence as fuel. The Material Force treats Essence as **substance capable of weight, density, pressure, and structure.**
 
-**Functions** · Condense Essence into tangible constructs · grant physical hardness to Aether Shells · reinforce barriers through Essence density · shape Essence into chains, armour, seals, anchors, or weapons · force hostile Essence into rigid states · strengthen the body through materialized pathways.
+**Functions** · Condense Essence into tangible constructs · grant physical hardness to Aether Shells · reinforce barriers through Essence density · shape Essence into chains, armor, seals, anchors, or weapons · force hostile Essence into rigid states · strengthen the body through materialized pathways.
 
-**In combat** · An aura may become heavy enough to pin opponents. Essence may be forged into armour. Soul Crystal flow may be weighed down. Hostile energy may be rendered brittle and shattered.
+**In combat** · An aura may become heavy enough to pin opponents. Essence may be forged into armor. Soul Crystal flow may be weighed down. Hostile energy may be rendered brittle and shattered.
 
 **Limit** · Excessive condensation risks internal calcification, pathway rigidity, Aether Shell damage, and Soul Crystal fractures.
 
@@ -85,8 +85,8 @@ Governs space only insofar as space relates to matter. Not supreme spatial autho
 
 Not truly a sixth branch. **It is the convergence of all others.** Matter, Time, Anti-Matter, Essence, Space, Physical Law. When unified, the practitioner ceases to command isolated phenomena and instead governs the complete material condition of a target, structure, battlefield, or domain.
 
-**Functions** · Read a target as a complete material system · alter body, armour, Essence, sequence, space, and resistance simultaneously · attack total physical coherence · restore structures through multiple laws at once · establish zones governed by singular material logic · force contradictory matter into unified alignment.
-> Armour grows heavy. Essence hardens. Space thickens. Weapons age. Movement slows. Boundaries lock.
+**Functions** · Read a target as a complete material system · alter body, armor, Essence, sequence, space, and resistance simultaneously · attack total physical coherence · restore structures through multiple laws at once · establish zones governed by singular material logic · force contradictory matter into unified alignment.
+> Armor grows heavy. Essence hardens. Space thickens. Weapons age. Movement slows. Boundaries lock.
 >
 > **The practitioner does not attack the enemy. The enemy's material existence becomes the battlefield.**
 **Limit** · Demands immense comprehension and stability. Failure results in Material Rejection, Soul Crystal overload, or catastrophic self-collapse.
@@ -145,7 +145,7 @@ Temperance determines whether the Soul Crystal can survive the contradiction of 
 | **Boundary** | position, distance, thresholds |
 | **Totality** | integration of all branches |
 
-> **Assets** · Exceptional physical control · powerful defensive capability · battlefield shaping authority · strong anti-siege utility · high compatibility with Arts and Domain-Weaving · effective against terrain, structures, armour, weapons, and Essence constructs.
+> **Assets** · Exceptional physical control · powerful defensive capability · battlefield shaping authority · strong anti-siege utility · high compatibility with Arts and Domain-Weaving · effective against terrain, structures, armor, weapons, and Essence constructs.
 >
 > **Liabilities** · Severe physical backlash · Soul Crystal pressure accumulation · self-calcification risk · Anti-Matter instability · temporal self-aging · Aether Shell fractures · Totality overload.
 
@@ -164,7 +164,7 @@ The primary failure mode. It occurs when too many contradictory commands are imp
 
 ## Key Figures
 
-**Shaka Al, the Material Hand** · One of the most renowned practitioners of the late Second Epoch. He transformed terrain into weapons, burdened armies beneath the weight of their own armour, and treated the battlefield as an extension of his body. His style was direct, oppressive, and relentless. He did not overpower enemies through spectacle. **He made the world itself too heavy to resist.**
+**Shaka Al, the Material Hand** · One of the most renowned practitioners of the late Second Epoch. He transformed terrain into weapons, burdened armies beneath the weight of their own armor, and treated the battlefield as an extension of his body. His style was direct, oppressive, and relentless. He did not overpower enemies through spectacle. **He made the world itself too heavy to resist.**
 
 **Revari Zettari, High Sovereign of Material Aspect Sovereignty** · Though not strictly a Material Force practitioner, Revari's royal authority demonstrated one of the highest known expressions of material principle. His dominion over Form, Essence, Space, Existence, and localized Time revealed how material law could ascend into sovereign bloodline authority. Among Aegorian scholars he remains a central comparative figure.
 

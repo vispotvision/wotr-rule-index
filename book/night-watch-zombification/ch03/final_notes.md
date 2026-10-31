@@ -82,23 +82,23 @@ Day 1, noon to the ninth division. Wystan wakes with his hands shaking. He recal
 ## Originated in this draft (pending Isaac)
 
 - **Elspeth Lyle (first appearance):**
-  - *Appearance:* small, about sixty. Iron-grey hair drawn back tight enough to lift the brows. Black gown of office with the shoulder embroidery unworn. Spectacles on a black ribbon, a silver token on a short chain at her belt, ink on the side of her right second finger.
-  - *Voice:* level, clipped, without contractions. She is the only person in the building who uses "Warden of Duty," and she uses it as a weapon. Dry humour: "Your three lamps are on my bill."
+  - *Appearance:* small, about sixty. Iron-gray hair drawn back tight enough to lift the brows. Black gown of office with the shoulder embroidery unworn. Spectacles on a black ribbon, a silver token on a short chain at her belt, ink on the side of her right second finger.
+  - *Voice:* level, clipped, without contractions. She is the only person in the building who uses "Warden of Duty," and she uses it as a weapon. Dry humor: "Your three lamps are on my bill."
   - *Want:* a clean quarterly return, signed together with the gauge-housing's seal.
   - *Refusal:* "I will not put the Night Register on that return quarrelling with the Bureau over deer."
   - *Lie:* as declared above.
   - *Room:* small and hot. The housing on the wall by the door. A minute book and the office's red wax. She is one of the six.
 - **Edwyn Brack (first physical inventory):**
-  - *Appearance:* broad, about fifty, short neck, a scrubbed-looking clean-shaven red face, grey hair cut close. Gold-wire spectacles forgotten on his forehead. The Bureau's grey worsted. A coil burn on the pad of his right thumb.
+  - *Appearance:* broad, about fifty, short neck, a scrubbed-looking clean-shaven red face, gray hair cut close. Gold-wire spectacles forgotten on his forehead. The Bureau's gray worsted. A coil burn on the pad of his right thumb.
   - *Voice:* big and unhurried, northern ("Aye," "I'll not," "since I'm stood here"), with contractions. His idiom is the scale and the ring of a solid weight.
   - *Other:* he has a surveyor who took the Ferriby passes. The Bureau's folder tape is green. Why he is in the building stays uncorrected.
 - **Osgood Keld:**
-  - *Appearance:* a big man gone loose. Cropped grey hair, shaved every second day, knuckles scarred white. He sits in a chair at the upper-floor end window of the medical house, facing the lane to the stables and the farrier's.
+  - *Appearance:* a big man gone loose. Cropped gray hair, shaved every second day, knuckles scarred white. He sits in a chair at the upper-floor end window of the medical house, facing the lane to the stables and the farrier's.
   - *His coat:* the Division coat hangs on a peg with his silver token still in it.
   - *What he says:* "Is that them" and "They said the sixth." He counts under his breath.
   - *Past:* he taught Wystan the druggist's fold in the back room of "the old office on the river." Wystan was the second man through the landing door and took the minute off the handle.
 - **Keld's minute and the written record:**
-  - The record is a sheet folded in four in Wystan's coat, in brown ink gone the colour of tea.
+  - The record is a sheet folded in four in Wystan's coat, in brown ink gone the color of tea.
   - The text: *Keld, O. Door on the landing. Handle iron, cold. Right hand. Lamp behind. Count at thirty-one. Legs tired. Not afraid. Bread, dark, butter. Says: "Sixth. They said the sixth. Hold it to the sixth."* H12's later slip (ch41) has these words to slip from.
   - The order of the check: the minute first, then the paper.
 - **Unnamed figures:** the orderly (young, sleeves rolled, a burn scar on one forearm) and the medical-house porter.

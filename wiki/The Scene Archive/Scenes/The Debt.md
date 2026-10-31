@@ -10,11 +10,11 @@ source: scenes/the_debt.md
 
 The pressure came up out of the ground like blood comes up through snow.
 
-Shōki was standing at the fork where the drovers' road met the old Kessen road, under a stone lantern taller than he was, when the thread in him went taut. The aurora had sunk low by then, a long fringe of green and rose lying along the northern ridge like a hem of fire, and the snow at the fork was blue in its light and very still. Then, at his feet, it was not blue. Black-red came up through it in threads, the colour of old blood held to a lamp, fine as hair at first and then thicker, crawling out of the frozen ground and up over his boots and up the folds of the hakama and in at the cracks of his skin, the way roots go into a wall. They found the thread under his Crystal and wound themselves round it and pulled.
+Shōki was standing at the fork where the drovers' road met the old Kessen road, under a stone lantern taller than he was, when the thread in him went taut. The aurora had sunk low by then, a long fringe of green and rose lying along the northern ridge like a hem of fire, and the snow at the fork was blue in its light and very still. Then, at his feet, it was not blue. Black-red came up through it in threads, the color of old blood held to a lamp, fine as hair at first and then thicker, crawling out of the frozen ground and up over his boots and up the folds of the hakama and in at the cracks of his skin, the way roots go into a wall. They found the thread under his Crystal and wound themselves round it and pulled.
 
 Not a tug, this time. A grip.
 
-He felt his Crystal take the strain. The whole lattice of him, Core and Layer and Shell, bowed toward the ground like a bough under wet snow. Something in his chest creaked that had never creaked before. The purple at the cracks of his skin dimmed to the colour of a bruise, and for a moment the black-red was brighter than his own fire, crawling over him in a net, and the stone lantern at his shoulder threw his shadow on the snow in a colour that was not his.
+He felt his Crystal take the strain. The whole lattice of him, Core and Layer and Shell, bowed toward the ground like a bough under wet snow. Something in his chest creaked that had never creaked before. The purple at the cracks of his skin dimmed to the color of a bruise, and for a moment the black-red was brighter than his own fire, crawling over him in a net, and the stone lantern at his shoulder threw his shadow on the snow in a color that was not his.
 
 A voice came up the thread with it.
 
@@ -26,7 +26,7 @@ Shōki was not fazed.
 
 He looked down at the black-red threads crawling on his chest, and at the place under his breastbone where they went in, and he thought, with a kind of distant clarity, that the voice was right, and that it did not matter. His soul. What was that now. He had looked into his own chest once, the morning after the Hall, with the Kurenai eye, and the eye had cooked in its socket for what it saw. He knew what was in there. He knew it better than the thing at the bottom of the thread did, for all its watching.
 
-A shell. That was what was in there. A hollow shell, burned out at the centre, that had been a man once and a headsman and a husband, and was now a casing for a fire going somewhere. Not a person chasing a destiny. A destiny, wearing what was left of a person, the way the Hall's irons were wearing his wrists. Something had been done to him. A transgression had been laid on him in the Hall of Verdicts by seven chairs and a red one, and he had been carrying it ever since the way the black floor carries the stain, and everything he was now had grown out of it, the way a callus grows out of a wound and becomes the hand.
+A shell. That was what was in there. A hollow shell, burned out at the center, that had been a man once and a headsman and a husband, and was now a casing for a fire going somewhere. Not a person chasing a destiny. A destiny, wearing what was left of a person, the way the Hall's irons were wearing his wrists. Something had been done to him. A transgression had been laid on him in the Hall of Verdicts by seven chairs and a red one, and he had been carrying it ever since the way the black floor carries the stain, and everything he was now had grown out of it, the way a callus grows out of a wound and becomes the hand.
 
 Let the thing at the bottom of the thread own the soul. It was welcome to it. It had bought a scorched room with nobody living in it.
 
@@ -88,7 +88,7 @@ He was lying on his back in the hay with his arms folded behind his head and his
 
 He did not move for another hour.
 
-Then he got up, brushed the hay off the velour very carefully, one strand at a time, checked the pompadour by touch, settled the hat on top of it, and went out of the barn into the grey before dawn, and started walking west, toward the gorge.
+Then he got up, brushed the hay off the velour very carefully, one strand at a time, checked the pompadour by touch, settled the hat on top of it, and went out of the barn into the gray before dawn, and started walking west, toward the gorge.
 
 He walked.
 
@@ -98,19 +98,19 @@ He did not make a chaise. He did not drift. He walked on his own two feet throug
 
 The Tinker's Gorge was a crack in the western shield a mile long and three hundred feet deep, and it was the brightest place in the whole Iron Mandate.
 
-It had to be. There was no daylight at the bottom of it, so the goblins who lived there had made their own. Draw-lamps hung on chains from every ledge and gallery in strings of brass and green glass, dozens of them, hundreds, and the light came down the walls of the gorge in a great warm cascade of lime and amber and pink and copper-gold, pooling on the floor where the workshops were. The workshops were built into the rock in tiers, one above the other, connected by ladders and rope-bridges and little iron cage-lifts that went up and down on counterweights with a clank and a hiss. Every one had a door painted a different colour, because the goblins had nothing else that was theirs to paint. Steam came out of a thousand pipes. Sparks came off a thousand wheels. The noise was tremendous, a continuous ringing roaring clattering music of files and hammers and lathes and drills, and over all of it, from every gallery, the bright hard sound of goblin voices calling measurements to each other in Vaross, the *r*s trilling, the vowels held long.
+It had to be. There was no daylight at the bottom of it, so the goblins who lived there had made their own. Draw-lamps hung on chains from every ledge and gallery in strings of brass and green glass, dozens of them, hundreds, and the light came down the walls of the gorge in a great warm cascade of lime and amber and pink and copper-gold, pooling on the floor where the workshops were. The workshops were built into the rock in tiers, one above the other, connected by ladders and rope-bridges and little iron cage-lifts that went up and down on counterweights with a clank and a hiss. Every one had a door painted a different color, because the goblins had nothing else that was theirs to paint. Steam came out of a thousand pipes. Sparks came off a thousand wheels. The noise was tremendous, a continuous ringing roaring clattering music of files and hammers and lathes and drills, and over all of it, from every gallery, the bright hard sound of goblin voices calling measurements to each other in Vaross, the *r*s trilling, the vowels held long.
 
 And at the head of the gorge, where the road came down, there was a tower of black basalt with the fist on its banner, and in the tower there was a bell, and when the bell rang the shift changed, and when the shift changed four thousand goblins put down one set of tools and another four thousand picked them up, and the work did not stop. It had not stopped, Vaashuuk knew, in nineteen years.
 
 He came down the road into the gorge at the change of shift, just as the bell was ringing.
 
-Nobody noticed him. Goblins were coming up the ladders from the night shift, grey with tiredness, their eyes red-rimmed behind soldered goggles, their fingers black with flux and stained with burns, and goblins were going down the ladders to the day shift, already tired, already rubbing their eyes. They passed him on the road in their hundreds and did not look at him, because he was a goblin in a coat, and coats were none of their business, and nothing that did not come with a quota was any of their business.
+Nobody noticed him. Goblins were coming up the ladders from the night shift, gray with tiredness, their eyes red-rimmed behind soldered goggles, their fingers black with flux and stained with burns, and goblins were going down the ladders to the day shift, already tired, already rubbing their eyes. They passed him on the road in their hundreds and did not look at him, because he was a goblin in a coat, and coats were none of their business, and nothing that did not come with a quota was any of their business.
 
 He walked down to the floor of the gorge. He found the biggest workshop on the bottom tier, the valve-seat shop, with its door painted a bright brave yellow, and he went in.
 
 It was long and low and hot, cut back into the rock, lit with green draw-lamps, and in it there were three long benches and ninety goblins at the benches, filing. Each one had a little brass blank in a vice and a file in her hand, and each one was working the blank down to a valve-seat, true to a hair, by eye and by feel, the way his mother had. The filing made a soft hissing whisper all down the shop like rain on a roof. At the far end, on a raised platform, there was a hobgoblin with a ledger.
 
-He was huge, by goblin standards, seven feet of grey-green muscle in a foreman's leather apron, with tusks capped in iron and a rank-cut on his shoulder plate, four cuts and a crossbar, and he was writing in the ledger with a steel pen and not looking up. When Vaashuuk came in he did not look up then either.
+He was huge, by goblin standards, seven feet of gray-green muscle in a foreman's leather apron, with tusks capped in iron and a rank-cut on his shoulder plate, four cuts and a crossbar, and he was writing in the ledger with a steel pen and not looking up. When Vaashuuk came in he did not look up then either.
 
 "You're late," he said. "Bench three. End stool. Quota's sixty seats."
 
@@ -158,7 +158,7 @@ The foreman came down off his platform. He came slowly, down the three steps, al
 
 "Get up," said the foreman, "or I'll put you up."
 
-He bent down and took Vaashuuk by the collar of the plum velour, in one huge grey-green fist, and began to lift.
+He bent down and took Vaashuuk by the collar of the plum velour, in one huge gray-green fist, and began to lift.
 
 He began to. The fist closed on the velour and the arm drew back and the great shoulders bunched to haul, and Vaashuuk, under the hat, yawned.
 

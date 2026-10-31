@@ -9,5 +9,5 @@ Verdict: revise (1 FAIL, 2 WARN, 0 dropped)
   - Fix: 'He looked at the Register, then at the girl with the case, then at the man's hands.'
 
 - **WARN** [POV and knowledge (R5-C1 / R35 narration-distance)] "He shrugged, and it cost him nothing."
-  - Problem: Narrator certifies Josse's inner state rather than Wystan inferring it from behaviour.
+  - Problem: Narrator certifies Josse's inner state rather than Wystan inferring it from behavior.
   - Fix: Replace with an external correlate, e.g. 'He shrugged, easy, and went back to the block.'

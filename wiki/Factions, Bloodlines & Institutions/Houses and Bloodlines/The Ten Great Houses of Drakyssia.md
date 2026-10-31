@@ -68,7 +68,7 @@ Zhaeryn controls the largest concentration of gold mines in the Outer World, ext
 
 The House became enormously wealthy. Imperial law ensured it did not become enormously independent — the richest mines are **Crown Resources under Zhaeryn stewardship** rather than absolute private property.
 
-**Manages:** imperial gold reserves · precious-metal extraction · gemstone certification · mining licences · coinage metals · strategic stockpiles · mine safety · deep-earth surveying · anti-smuggling · royal tribute assessment · mineral taxation · wartime reserves.
+**Manages:** imperial gold reserves · precious-metal extraction · gemstone certification · mining licenses · coinage metals · strategic stockpiles · mine safety · deep-earth surveying · anti-smuggling · royal tribute assessment · mineral taxation · wartime reserves.
 
 Its vaults keep the empire functioning through drought, war, failed harvest and trade disruption. Its mining towns employ enormous numbers of Humans, Elves, Dragonkin, Wyrms and smaller draconic peoples, and the House enforces extraction limits around Wellsprings — the Outer World having already learned what happens when a civilisation mines metaphysical resources without restraint.
 > Gold may be exhausted. The land may not.
@@ -124,11 +124,11 @@ Ormyr allows the empire to survive beneath its own volcanic homeland, detecting 
 
 **Seat:** Rhaegyr's Crucible · **Heartland:** Volcanic southern Drakhal Spine
 
-**Charge:** Weapons, armour, metallurgy, siege equipment, Dragonfire forging, military engineering, strategic manufacturing
+**Charge:** Weapons, armor, metallurgy, siege equipment, Dragonfire forging, military engineering, strategic manufacturing
 
 Rhaegyr manufactures the physical machinery of Drakyssian power. Its forge-cities surround volcanic vents, magma chambers, geothermal fields and controlled Dragonfire furnaces, and its smiths combine mortal metallurgy with draconic heat tolerance and magical material science. Its greatest workshops forge components no ordinary smithy can heat.
 
-**Manufactures:** dragon-forged weapons · scale armour · Wyvern rider equipment · drake armour · siege weapons · fortress gates · Aether-resistant chains · military tools · Dragonfire glass · heat-tempered steel · war platforms · specialised dragon barding.
+**Manufactures:** dragon-forged weapons · scale armor · Wyvern rider equipment · drake armor · siege weapons · fortress gates · Aether-resistant chains · military tools · Dragonfire glass · heat-tempered steel · war platforms · specialised dragon barding.
 
 The separation is deliberate and structural: **Zhaeryn owns the ore. Rhaegyr owns the furnace. Drakhalis owns the final war stockpile.** No single House holds the whole military production chain. The same forge network also produces farming tools, bridge components, waterworks, mining equipment, ship fittings, earthquake braces and ordinary civilian metal goods, indirectly supporting millions of non-dragons.
 > Ore Becomes Empire in the Furnace.
@@ -145,7 +145,7 @@ The least glamorous necessity of empire and perhaps the most important. Dragons 
 
 **Manages:** imperial grain reserves · dragon livestock herds · emergency food stores · agricultural treaties · ranch territories · hunting quotas · fishery protection · drought planning · famine relief · soil conservation · migration corridors · ecological carrying-capacity records.
 
-During mobilisation it supplies mobile herds and preserved stores to dragon armies. Its agricultural law also protects mortal populations from predatory overhunting: imperial dragons cannot simply descend on protected livestock and eat what they please, compensation law applies even to nobles, and a farmer whose cattle are legally requisitioned by a dragon army must be paid. A dragon who eats them without authorisation may discover that being three hundred metres long does not exempt one from imperial taxation.
+During mobilisation it supplies mobile herds and preserved stores to dragon armies. Its agricultural law also protects mortal populations from predatory overhunting: imperial dragons cannot simply descend on protected livestock and eat what they please, compensation law applies even to nobles, and a farmer whose cattle are legally requisitioned by a dragon army must be paid. A dragon who eats them without authorisation may discover that being three hundred meters long does not exempt one from imperial taxation.
 > Even Fire Must Eat.
 
 ## 9. House Ishkar — The Wellspring Wardens
@@ -190,7 +190,7 @@ Akhazar lets the empire rule without occupying every mortal settlement, translat
 | Avarax | Trade | Connects Drakyssia to the Outer World and wider Continuum |
 | Maelkar | Continuity | Eggs, hatchlings, Dens, hibernating elders, bloodlines |
 | Ormyr | Depth | Tunnels, aquifers, Wyrmdeep infrastructure, seismic security |
-| Rhaegyr | Forge | Weapons, armour, infrastructure, strategic manufacturing |
+| Rhaegyr | Forge | Weapons, armor, infrastructure, strategic manufacturing |
 | Eredan | Sustenance | Feeds dragons and mortals, prevents ecological collapse |
 | Ishkar | Aether | Protects Wellsprings, manages continental depletion |
 | Akhazar | Dominion | Treaties, tributaries, roads, frontiers, foreign relations |
@@ -203,7 +203,7 @@ Several of the Ten could individually destroy mortal kingdoms. Dovaryn could put
 
 Yet the system was built so that **specialisation creates dependence**. Dovaryn can field the Wyverns, but Eredan feeds them, Rhaegyr arms their riders, Zhaeryn finances prolonged mobilisation, Ishkar determines where enough Aether exists to sustain deployment, Ormyr maintains the infrastructure beneath their roosts, Avarax supplies foreign materials, Maelkar maintains breeding populations, Akhazar keeps supply routes through tributary territory open, and Drakhalis coordinates all of it.
 
-A House rebelling against the throne therefore risks frozen money, closed trade, restricted Aether, eggs removed from imperial protection, sealed supply roads, terminated forge contracts, stopped food shipments, and neighbouring Houses authorised to occupy its territory. Kain Drakhalis built the mature system around one understanding of dragon psychology: a dragon can be powerful enough to fight everyone, and still cannot manufacture, feed, mine, breed and govern everything alone.
+A House rebelling against the throne therefore risks frozen money, closed trade, restricted Aether, eggs removed from imperial protection, sealed supply roads, terminated forge contracts, stopped food shipments, and neighboring Houses authorised to occupy its territory. Kain Drakhalis built the mature system around one understanding of dragon psychology: a dragon can be powerful enough to fight everyone, and still cannot manufacture, feed, mine, breed and govern everything alone.
 
 ## The Council of Ten Wings
 
@@ -215,7 +215,7 @@ On an Aether-depleted continent, this restraint is not idealism. It is survival.
 
 Drakyssia's claim over roughly eighty percent of the Outer World is administered not as one continuous province but as overlapping systems of authority. Dovaryn holds much of the sky. Ormyr influences the depths. Akhazar maintains roads and political borders. Avarax connects markets and ports. Ishkar protects the remaining Aether geography. Eredan holds the food-producing landscapes. Zhaeryn manages mineral territories. Maelkar protects the future population of dragonkind. Rhaegyr turns continental resources into infrastructure. Drakhalis gives all of it one sovereign direction.
 
-The empire is less a single colour painted across a map than a web laid over the continent. A human farmer in the Southern Grass Sea might live beneath a Veyran king, sell livestock through an Avarax-chartered merchant, receive Eredan agricultural protection, travel an Akhazar-recognised road, watch Dovaryn Wyverns overhead, use Rhaegyr iron tools, and never meet a representative of House Drakhalis. Every one of those systems still leads back to Kra'Vorrak.
+The empire is less a single color painted across a map than a web laid over the continent. A human farmer in the Southern Grass Sea might live beneath a Veyran king, sell livestock through an Avarax-chartered merchant, receive Eredan agricultural protection, travel an Akhazar-recognised road, watch Dovaryn Wyverns overhead, use Rhaegyr iron tools, and never meet a representative of House Drakhalis. Every one of those systems still leads back to Kra'Vorrak.
 
 ## The Balance of the Ten Wings
 

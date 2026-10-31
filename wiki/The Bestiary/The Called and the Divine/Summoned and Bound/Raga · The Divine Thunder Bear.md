@@ -91,9 +91,9 @@ title: "Raga · The Divine Thunder Bear"
 
 ## VI · Physical Description
 
-He stands two point nine metres at the shoulder on all fours and runs six point two from muzzle to haunch, and the assessors who put a figure on his mass settled on three point eight tonnes with a note attached, because a body that heavy should sink and his prints in river silt run four centimetres deep where a bull would leave thirty. The hide is black in the way a burnt thing is black, absorbing rather than reflecting, and the guard hairs stand in dense parallel ranks that shed water in sheets and never lie flat. Across the shoulders the fur thickens into a hump of muscle wider than a cart, and the forelimbs beneath it carry the heavy straight-boned architecture of an animal built to push rather than to chase.
+He stands two point nine meters at the shoulder on all fours and runs six point two from muzzle to haunch, and the assessors who put a figure on his mass settled on three point eight tonnes with a note attached, because a body that heavy should sink and his prints in river silt run four centimetres deep where a bull would leave thirty. The hide is black in the way a burned thing is black, absorbing rather than reflecting, and the guard hairs stand in dense parallel ranks that shed water in sheets and never lie flat. Across the shoulders the fur thickens into a hump of muscle wider than a cart, and the forelimbs beneath it carry the heavy straight-boned architecture of an animal built to push rather than to chase.
 
-The rack is the part that ruins people's sleep. Twelve tines minimum, more when he has been standing in weather, spanning close to five metres and branching in the pale grey of storm-stripped driftwood, ridged and knuckled along their length where new horn has pushed through old. They are not antlers in any sense a hunter would accept. They grow during an engagement and shed during one, dropping points that hiss when they hit wet ground and are cold by the time anybody dares pick one up. Every tip carries a standing corona, and the green motes that drift free of them are that corona letting go, small and slow and drifting upward through the rain in numbers that make a battlefield look briefly like a summer field at dusk.
+The rack is the part that ruins people's sleep. Twelve tines minimum, more when he has been standing in weather, spanning close to five meters and branching in the pale gray of storm-stripped driftwood, ridged and knuckled along their length where new horn has pushed through old. They are not antlers in any sense a hunter would accept. They grow during an engagement and shed during one, dropping points that hiss when they hit wet ground and are cold by the time anybody dares pick one up. Every tip carries a standing corona, and the green motes that drift free of them are that corona letting go, small and slow and drifting upward through the rain in numbers that make a battlefield look briefly like a summer field at dusk.
 
 His eyes have no sclera and no pupil. Two flat green points set deep under the brow ridge, the same green as the motes, and they do not track the way an animal's track. They arrive on a thing a moment after the head has already turned toward it. The muzzle is broad and blunt and scarred across the bridge in three parallel lines that nobody has ever explained. There is no smell of animal on him at all. Ozone, wet stone, and scorched hair, layered in that order, and the ozone reaches a formation about two seconds before he does.
 
@@ -105,11 +105,11 @@ He makes no sound walking. **The footfalls arrive later**, and they arrive at th
 
 Raga does not speak, and the assumption that he cannot is one the Archives have declined to endorse. He communicates by arriving, by standing, and by declining to move, and the vocabulary is smaller than it sounds. A summoner learns to read the set of the head and the angle of the rack, and every summoner who has learned it reports the same three positions and no more.
 
-What he does instead of speaking is count. The interval is audible to anyone standing inside forty-five metres, a low tick under the storm that is not quite a sound and not quite a pressure change, and it is regular, and it does not stop when he is idle. Practitioners who have worked with him describe the tick continuing in their own chest for days afterward, keeping time with nothing.
+What he does instead of speaking is count. The interval is audible to anyone standing inside forty-five meters, a low tick under the storm that is not quite a sound and not quite a pressure change, and it is regular, and it does not stop when he is idle. Practitioners who have worked with him describe the tick continuing in their own chest for days afterward, keeping time with nothing.
 
 He is patient in a way that reads as indifference and is closer to arithmetic. **He is not deciding whether to strike.** He is establishing where the thing is, and the thing is a distance, and the distance resolves on its own schedule.
 
-*The one behaviour every account agrees on: he faces the summoner before he faces the target. Every time. Nobody has recorded what he is checking for and nobody has asked twice.*
+*The one behavior every account agrees on: he faces the summoner before he faces the target. Every time. Nobody has recorded what he is checking for and nobody has asked twice.*
 
 ---
 
@@ -126,15 +126,15 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Function:** The strike happens immediately. **The consequence arrives at the speed of sound.**
 
-  **Mechanism:** Electromagnetism. The flash is a genuine return stroke, a channel established and equalised in under two hundred microseconds, and it deposits its charge at the marked point in the instant it occurs. What Raga withholds is the acoustic event. The channel's superheated air wants to expand and produce the shock, and Orrenthal holds the resonance folded and unreleased at the point of origin until the interval has run. The count is the real distance between Raga and the mark divided by three hundred and forty three metres per second, and it is not adjustable, and Raga does not know how to make it shorter.
+  **Mechanism:** Electromagnetism. The flash is a genuine return stroke, a channel established and equalised in under two hundred microseconds, and it deposits its charge at the marked point in the instant it occurs. What Raga withholds is the acoustic event. The channel's superheated air wants to expand and produce the shock, and Orrenthal holds the resonance folded and unreleased at the point of origin until the interval has run. The count is the real distance between Raga and the mark divided by three hundred and forty three meters per second, and it is not adjustable, and Raga does not know how to make it shorter.
 
-  **Numerical Effect:** Peak current in the 30 kA range against ordinary targets, with one attested measurement at 180 kA against a Domain-seated practitioner. Channel temperature near 28,000 K. **Interval measured between 0.29 seconds at a hundred metres and 8.7 seconds at three kilometres**, which is the engagement that gave him his soldiers' name.
+  **Numerical Effect:** Peak current in the 30 kA range against ordinary targets, with one attested measurement at 180 kA against a Domain-seated practitioner. Channel temperature near 28,000 K. **Interval measured between 0.29 seconds at a hundred meters and 8.7 seconds at three kilometres**, which is the engagement that gave him his soldiers' name.
 
-  **Target Response:** Nothing, and then everything. The marked target feels the charge deposit as a cold pressure behind the sternum and has the interval to understand what is standing over them. **When the count runs out the withheld shock releases at the mark**, and the release carries the full acoustic energy of a strike that has been holding it in one place for several seconds. Bodies inside two metres come apart along the wet lines. Armour survives and the man inside does not.
+  **Target Response:** Nothing, and then everything. The marked target feels the charge deposit as a cold pressure behind the sternum and has the interval to understand what is standing over them. **When the count runs out the withheld shock releases at the mark**, and the release carries the full acoustic energy of a strike that has been holding it in one place for several seconds. Bodies inside two meters come apart along the wet lines. Armor survives and the man inside does not.
 
   **Limitation:** The consequence lands where the mark is, and the mark travels with the target. **It cannot be made to land early, cannot be made to land elsewhere, and cannot be cancelled by Raga once the flash has gone.**
 
-  **Weakness:** The interval tells a competent opponent exactly how far away Raga is, to within a few metres, before he has been seen. **Every use of The Count is a range report given free to the enemy.**
+  **Weakness:** The interval tells a competent opponent exactly how far away Raga is, to within a few meters, before he has been seen. **Every use of The Count is a range report given free to the enemy.**
 
   **Cost:** Attraction-category, carried by the summoner. Each Count deepens the Arrears by a fraction that does not reset between engagements.
 
@@ -146,7 +146,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **First Display:** Low stakes. Raga marks a standing stone at fifty paces during a demonstration and the assembled Proctors watch nothing happen for a fifth of a second before the stone opens. **The rule is taught in one beat and never needs teaching again.**
 
-  **Sensory Description:** The flash has no colour anyone agrees on and leaves no afterimage. The summoner's mouth is still open on the last syllable of the name. Raga's rack sheds two tines and the motes come off them in a rush, drifting up through the rain, and under everything the tick keeps time.
+  **Sensory Description:** The flash has no color anyone agrees on and leaves no afterimage. The summoner's mouth is still open on the last syllable of the name. Raga's rack sheds two tines and the motes come off them in a rush, drifting up through the rain, and under everything the tick keeps time.
 
   **Interactions:** Anything that pins a target in place converts The Count from a warning into an execution. **This is the entire reason a Sovereign-bond Divine Beast has ever been fielded alongside line infantry.**
 
@@ -194,17 +194,17 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Mechanism:** **Thermodynamics.** This block departs from the Electromagnetism domain the rest of the entry runs on, and the departure is deliberate and Codex-supported: [Thn] Thunder is assigned to Cataclysm under Caloria, and Report is the one technique in Raga's kit that is genuinely a heat event. The charge accumulated across the hide superheats the air in the compression layer ahead of his mass, and the layer detonates on contact rather than deforming. **The strike is the expansion, and the body he hits is standing inside it.**
 
-  **Numerical Effect:** Overpressure of 40 to 60 kPa within two metres of contact. **Tympanic rupture begins near 35 kPa and pulmonary injury near 70**, which places every target of a clean Report in the band where the ears go and the lungs are a coin toss. Closing speed measured at 14 m/s over the last twenty metres.
+  **Numerical Effect:** Overpressure of 40 to 60 kPa within two meters of contact. **Tympanic rupture begins near 35 kPa and pulmonary injury near 70**, which places every target of a clean Report in the band where the ears go and the lungs are a coin toss. Closing speed measured at 14 m/s over the last twenty meters.
 
   **Target Response:** Mail and brigandine transmit the overpressure into the torso intact. **Plate performs worse**, because the cuirass rings and the ringing is inside the man. Survivors bleed from the ears for a week and describe the world afterward as being underwater. The dead are intact and wrong.
 
-  **Limitation:** Requires a run-up of at least twenty metres. **It cannot be delivered from a standing position** and it cannot be steered once committed.
+  **Limitation:** Requires a run-up of at least twenty meters. **It cannot be delivered from a standing position** and it cannot be steered once committed.
 
   **Weakness:** The compression layer is visible for the last half second as a distortion in the rain, and it announces the contact point. **A man who has seen one Report can time the second one.**
 
-  **Cost:** Physical. The detonation happens against Raga as much as against the target, and he carries the deceleration through the forelimbs. **Attested consequence: after four Reports in one engagement he stopped putting weight on the left fore, and he still favours it.**
+  **Cost:** Physical. The detonation happens against Raga as much as against the target, and he carries the deceleration through the forelimbs. **Attested consequence: after four Reports in one engagement he stopped putting weight on the left fore, and he still favors it.**
 
-  **Counterplay:** Break the run-up. **Broken ground, caltrops, a pike hedge, anything that makes twenty metres of clean approach unavailable.** Failing that, get to ground: overpressure falls off sharply with distance and prone bodies inside four metres have survived where standing ones inside eight did not.
+  **Counterplay:** Break the run-up. **Broken ground, caltrops, a pike hedge, anything that makes twenty meters of clean approach unavailable.** Failing that, get to ground: overpressure falls off sharply with distance and prone bodies inside four meters have survived where standing ones inside eight did not.
 
   **Codex Assignment:** [Thn] · [Noq] · [Uur] · Primary Cataclysm · Secondary Orrenthal · Caloria primary with Fulguria trigger · Thermodynamics. **Flagged as a deliberate cross-family entry, consistent with the Codex's own assignment of [Thn]**
 
@@ -254,7 +254,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 |---|---|
 | **Severed Tether** | No tether exists to sever. **Killing the summoner does not banish him.** He completes any running count, faces the body, and leaves on his own schedule |
 | **Unsealed Departure** | A summoner who omits [Vor] finds the Arrears does not decay. **It becomes the practitioner's permanent baseline**, and the nine-year case in section V is an unsealed departure and nothing more complicated than that |
-| **Behaviour in Silence** | Harmonic Silence does not remove him. **It removes the interval**, and a Raga whose count has been silenced strikes without delay and without warning, which two Sealwrights have now learned is the worse outcome. Standing Enforcement guidance: **do not silence the bear** |
+| **Behavior in Silence** | Harmonic Silence does not remove him. **It removes the interval**, and a Raga whose count has been silenced strikes without delay and without warning, which two Sealwrights have now learned is the worse outcome. Standing Enforcement guidance: **do not silence the bear** |
 | **Resistance to Dissolution** | Not applicable in the ordinary sense. He is Native and departs by choice. **The register notes that no summoner has ever tested what happens if the choice and the sealing disagree** |
 | **Permanence Hazard** | He is already permanent. **The hazard runs the other way**: a summoner storm-anchored past four days stops being able to distinguish the Arrears from his own sense of time |
 
@@ -266,7 +266,7 @@ Attraction Force answers by recognition. Obsession Force takes the same shape an
 
 **The interval inverts.** A compelled Raga does not withhold the consequence and let it arrive. He withholds the *cause*. The thunder comes first, at full weight, on a target that has not been struck by anything and will not be for several seconds, and the target hears their own death arrive and then stands in the interval waiting for the flash that will justify it. **Nobody named survives the wait.** Two in the filing tried to run and the mark went with them, and the account of what the running looked like is the reason the filing is sealed.
 
-The second inversion is quieter and is the one the Arbitration Division actually fears. **A compelled Raga stops needing the name.** [Vo] is doing the binding under Thaloré, and Thaloré is a Fluxia current, and a Fluxia current that has been forced rather than asked does not hold a boundary. The vow goes first. Everything Raga is, is downstream of a refusal, and a Raga who cannot refuse is a weather system with a grudge and forty-five metres of reach.
+The second inversion is quieter and is the one the Arbitration Division actually fears. **A compelled Raga stops needing the name.** [Vo] is doing the binding under Thaloré, and Thaloré is a Fluxia current, and a Fluxia current that has been forced rather than asked does not hold a boundary. The vow goes first. Everything Raga is, is downstream of a refusal, and a Raga who cannot refuse is a weather system with a grudge and forty-five meters of reach.
 
 ---
 

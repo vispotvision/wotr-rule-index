@@ -11,7 +11,7 @@ private: true
 **Naiser Yukari** · The Bearer of Weight · Lord of House Yukari · son of Senri Yukari and a daughter of House Lambert, grandson of Ashura Yukari · as of the season after the war
 **Stat line** · Level 188 · Band II, Awakened · Stage VI, Glory · Path Spirit 40% / Body 35% / Fate 25% · Expert · η 0.89 · Aether Class III, Resonant · Crystal Harmonic, Refined
 **Combat grammar** · Verdict
-**Aura and sound** · Limina at Glory's clarity, a medium grey with black-violet living in it like black silk drawn over a blade edge, and brief silver-violet flares when the deeper lineage harmonics wake; sound: two low notes a hair apart that drift together until they are one
+**Aura and sound** · Limina at Glory's clarity, a medium gray with black-violet living in it like black silk drawn over a blade edge, and brief silver-violet flares when the deeper lineage harmonics wake; sound: two low notes a hair apart that drift together until they are one
 **Stack** · sustainable A in Finesse, Economy and Penetration · cap +2 Grades · layers: RYŌKE NO KATA, the Twin Mantle when called
 **Releases** · THE TWIN MANTLE (First Release) · bonded weapon: the unnamed longblade
 **Traits** · TWIN-BLOOD HARMONY (Primary) · tell: his breath and his heartbeat fall into one count · counter: a rhythm that drives them apart / THE ENTERED WORD (Secondary) · tell: oaths spoken near him come out plainer than the speaker meant · counter: say nothing / THE BREATH'S CONTINUANCE (Inherited) · tell: he does not hurry, ever · counter: speed early, before he settles
@@ -41,18 +41,18 @@ private: true
 
 **Level** · 188
 **Band** · II, Awakened
-**Temperance Stage** · VI, Glory. He did not reach it through fervour or spectacle. He reached it through synthesis, forcing two bloods into one count
+**Temperance Stage** · VI, Glory. He did not reach it through fervor or spectacle. He reached it through synthesis, forcing two bloods into one count
 **Path** · Spirit 40%, Body 35%, Fate 25%
 **Tier of Standing** · 5, Expert
 **η** · 0.89. Above the Expert band and standing as recorded; almost all of what he commits lands where he meant it
 **Soul Crystal Tier** · Harmonic
-**Crystal State** · Refined, held in balance by constant labour
+**Crystal State** · Refined, held in balance by constant labor
 **Aether Class** · III, Resonant; above the usual Class for Glory, as recorded
 **Essence Typology** · Limina
 
 ## III. Wellspring Harmonizations
 
-**Anamnesis** · the Wellspring of Remembrance · Limina · Depth: deep · objects and souls store their history in readable form, the way fired clay keeps its dose; he reads lineage the way a smith reads temper colours
+**Anamnesis** · the Wellspring of Remembrance · Limina · Depth: deep · objects and souls store their history in readable form, the way fired clay keeps its dose; he reads lineage the way a smith reads temper colors
 **Fixatio** · the Binding Flame · Materia · Depth: held · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes
 **Ascensio** · the Ladder of Ascent · Vectoria · Depth: held · the inclined plane: the same climb made over a longer road so the structure never sees the peak strain; why his Stages came quietly, and why he still owes the difference
 
@@ -99,7 +99,7 @@ Precision in the hands and feet, Finesse, Economy, Reflex and Penetration, with 
 ## VIII. Traits
 
 **TWIN-BLOOD HARMONY (Primary Trait)**
-Two pendulum clocks hung on one beam will, over a night, fall into the same swing, each nudging the other through the wood until they tick as one; the old clockmakers found it and could not stop it. His bloods did that. The Yukari current, Ashura's sight in his father's line, wide and deep and always reaching for every thread in the room, and the Lambert blood from his mother, exact and counting, the blood that reads a blow before it is thrown, pulled against each other through his childhood, and then over years, through the beam of his own Crystal, they began to answer: the count sharpens the sight, the sight gives the count something to count, and the two swing as one. It is constant and it is his greatest strength: no wasted motion, a defensive structure that is almost unnervingly complete. It costs the labour of keeping the treaty, every day, the Equilibrium Tax on every great working. Its limit and its counter are the same thing: two clocks kept in step by a shared beam can be knocked out of it by a strong enough outside rhythm. Anger, grief, a forced emotional beat, a technique that makes his bloods feel their old quarrel, and they slip out of step; he does not grow weaker at once, he grows more dangerous in the wrong directions, the Yukari side drowning in threads it cannot stop reading or the Lambert side narrowing into a cold count that has forgotten what it is counting for.
+Two pendulum clocks hung on one beam will, over a night, fall into the same swing, each nudging the other through the wood until they tick as one; the old clockmakers found it and could not stop it. His bloods did that. The Yukari current, Ashura's sight in his father's line, wide and deep and always reaching for every thread in the room, and the Lambert blood from his mother, exact and counting, the blood that reads a blow before it is thrown, pulled against each other through his childhood, and then over years, through the beam of his own Crystal, they began to answer: the count sharpens the sight, the sight gives the count something to count, and the two swing as one. It is constant and it is his greatest strength: no wasted motion, a defensive structure that is almost unnervingly complete. It costs the labor of keeping the treaty, every day, the Equilibrium Tax on every great working. Its limit and its counter are the same thing: two clocks kept in step by a shared beam can be knocked out of it by a strong enough outside rhythm. Anger, grief, a forced emotional beat, a technique that makes his bloods feel their old quarrel, and they slip out of step; he does not grow weaker at once, he grows more dangerous in the wrong directions, the Yukari side drowning in threads it cannot stop reading or the Lambert side narrowing into a cold count that has forgotten what it is counting for.
 
 **THE ENTERED WORD (Secondary Trait)**
 His house enters every promise made in its hall in the Yukari record, and his mother's house keeps its counts true or strikes the liar from its rolls; between the two, his soul learned that a word said is a word kept. Fixatio cures what it binds the way a thermoset cures: once the bridges form, the other shape is no longer a place it can go back to. Near him, declarations set. Oaths taken in his presence bind more tightly, betrayals leave deeper scars, and a man who brings him a grievance hears himself state it more plainly than he meant to. Reality listens a little harder when he decides what something is. It costs him nearness: people do not stand near him as near an ordinary man, but as near a record being written. Its limit is Fixatio's own failure: a binding set in error is set for good, and he has made some. Its counter is silence. Say nothing in his presence that you are not prepared to have cured into you.
@@ -122,7 +122,7 @@ He lets a layered shadow-current run through the other man's Aether, and Anamnes
 He sets a threshold across the field, a line of pressure that marks the territory of his will, and Fixatio cures it into the ground. Those who cross it without enough force of self feel resistance in body and spirit at once, as if entering a doctrine that has already judged them unready. It costs 540 EU, twenty-two percent of his reserve, and holds while he stands. Its limit is the length of a line he can walk. It is less a wall than a declaration; it is beaten by crossing it with enough self, by a will that has already decided what it is, or by going round its ends. The tell is the air along it dimming, as if a lamp had been turned down only there.
 
 **RYŌKE NO KATA · Form of Both Houses (Signature Technique)** · mark: Mastered
-The two bloods brought into full synchronised expression: the Yukari sight and the Lambert count swinging as one clock. His strikes become ruthlessly efficient, his steps hard to read, his defence almost complete, and each action arrives less like a choice than an inevitability. It costs 710 EU, twenty-nine percent of his reserve, for the length of an exchange. Its limit is the treaty: held too long or too often, it is where the Equilibrium Tax comes due. Its tell is the two notes of his aura becoming one. Its counter is the long fight; outlast it, and the clocks start to drift.
+The two bloods brought into full synchronised expression: the Yukari sight and the Lambert count swinging as one clock. His strikes become ruthlessly efficient, his steps hard to read, his defense almost complete, and each action arrives less like a choice than an inevitability. It costs 710 EU, twenty-nine percent of his reserve, for the length of an exchange. Its limit is the treaty: held too long or too often, it is where the Equilibrium Tax comes due. Its tell is the two notes of his aura becoming one. Its counter is the long fight; outlast it, and the clocks start to drift.
 
 **Vows** · none in force
 
@@ -150,7 +150,7 @@ None carried on the card. People stand near him as near a record being written.
 
 ## XIII. Physical Description
 
-He is tall even sitting, long in the limb, composed, with the refined stillness of someone who learned early that posture is a language, and his long frame is packed with a density nobody expects until they try to move him. His skin is dark and warm, a dusky brown that silver light clings to. His hair is black and falls to his waist; it has not been cut since he was nine. His face would be called beautiful if it were less severe: high in the cheekbone, narrow at the jaw, a straight hard mouth, and under the eyes the blue shadow of a man who does not sleep enough. His eyes are dark, near black, with the violet-black ring of the Ketsumyōgan round the pupil that never quite goes away. Fine pale thread-marks run under the skin at his temples and down the backs of his hands, branching like roots seen from beneath the soil, the colour of old scars at rest and silver going violet under strain. Down the left side of his throat run two characters in the old court script, inked dark, and below them a smaller mark half hidden by the collar. He wears the founder's mantle over a dark under-robe: long and dark and high-collared, wide in the sleeve, worked inside with reinforcement sigils and old stitched motifs from the first household. He is usually smoking. A thin roll of smoke-leaf rests between two long fingers, and he talks round it, and the smoke goes up slow and straight from it even when the wind is blowing.
+He is tall even sitting, long in the limb, composed, with the refined stillness of someone who learned early that posture is a language, and his long frame is packed with a density nobody expects until they try to move him. His skin is dark and warm, a dusky brown that silver light clings to. His hair is black and falls to his waist; it has not been cut since he was nine. His face would be called beautiful if it were less severe: high in the cheekbone, narrow at the jaw, a straight hard mouth, and under the eyes the blue shadow of a man who does not sleep enough. His eyes are dark, near black, with the violet-black ring of the Ketsumyōgan round the pupil that never quite goes away. Fine pale thread-marks run under the skin at his temples and down the backs of his hands, branching like roots seen from beneath the soil, the color of old scars at rest and silver going violet under strain. Down the left side of his throat run two characters in the old court script, inked dark, and below them a smaller mark half hidden by the collar. He wears the founder's mantle over a dark under-robe: long and dark and high-collared, wide in the sleeve, worked inside with reinforcement sigils and old stitched motifs from the first household. He is usually smoking. A thin roll of smoke-leaf rests between two long fingers, and he talks round it, and the smoke goes up slow and straight from it even when the wind is blowing.
 
 ## XIV. Psychology
 
@@ -168,7 +168,7 @@ He is tall even sitting, long in the limb, composed, with the refined stillness 
 ## XV. Equipment
 
 **The unnamed longblade** · narrow, severe, single-edged · Item Tier Instrument · rung Siegepiece · bonded; it carries THE TWIN MANTLE's edge · he seldom draws it, which is why it is frightening when he does
-**The founder's mantle** · high-collared, long and dark, woven with internal reinforcement sigils and stitched motifs from the first household, worn by the heads of the house · Item Tier Hallowed · rung Fieldwinner · less armour than heraldry made to work
+**The founder's mantle** · high-collared, long and dark, woven with internal reinforcement sigils and stitched motifs from the first household, worn by the heads of the house · Item Tier Hallowed · rung Fieldwinner · less armor than heraldry made to work
 **The Yukari Signet** · the signet of the head of the house · no working beyond its name
 
 ## XVI. Temperance Record
@@ -201,7 +201,7 @@ Four winters before the war ended, the Seikai forced a seam into the Soul Plane,
 
 ### The Cost
 
-The harmony is paid for every day. Every great working draws on the labour of keeping the two bloods agreed; a long fight turns his advantage into upkeep; an enemy who cares nothing for form can drag him onto ground where elegance buys nothing. He cannot afford to be shaken. The people near him pay as well. Oaths sworn in his presence bind tighter, betrayals near him scar deeper, and few come closer than the edge of the room.
+The harmony is paid for every day. Every great working draws on the labor of keeping the two bloods agreed; a long fight turns his advantage into upkeep; an enemy who cares nothing for form can drag him onto ground where elegance buys nothing. He cannot afford to be shaken. The people near him pay as well. Oaths sworn in his presence bind tighter, betrayals near him scar deeper, and few come closer than the edge of the room.
 
 ### Where He Stands
 

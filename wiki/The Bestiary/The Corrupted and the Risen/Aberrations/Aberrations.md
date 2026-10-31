@@ -24,7 +24,7 @@ Large muscular equines with glossy black coats and **two curved sharp horns risi
 
 Aggressive and territorial, forming small herds under dominant stallions. **Their presence is accompanied by unsettling whispers and shadowy auras.**
 
-**Infernal Charge** shatters armour and barriers. **Shadow Aura** saps morale and disrupts Essence flow. **Hellfire Hooves** leave burning wounds **that resist healing.** **Dark Whisper** causes fear and confusion.
+**Infernal Charge** shatters armor and barriers. **Shadow Aura** saps morale and disrupts Essence flow. **Hellfire Hooves** leave burning wounds **that resist healing.** **Dark Whisper** causes fear and confusion.
 
 *Vulnerable to radiant Essence and holy magic. Sensitive to coordinated ranged attacks disrupting the charge. Require proximity to Abyssal Wellsprings to maintain peak power.*
 
@@ -60,11 +60,11 @@ Aggressive, loyal, relentless. They hunt in packs or alone **and are capable of 
 > **Their bodies phase between dimensions**, allowing them to appear and vanish at will.
 Skeletal gaunt figures with elongated limbs and **membranous wings that absorb light.** Skin deep shadow-black, almost translucent in moonlight, **eyes burning with cold pale blue fire.** *Joints crack audibly as they move with unnerving silence.*
 
-Cold, predatory, relentless. **They stalk in darkness before striking with lethal precision**, exploiting fear and confusion. **Their presence causes unsettling whispers and hallucinations, weakening mental defences.**
+Cold, predatory, relentless. **They stalk in darkness before striking with lethal precision**, exploiting fear and confusion. **Their presence causes unsettling whispers and hallucinations, weakening mental defenses.**
 
 **Phase Shift** slips between shadow and reality, becoming intangible briefly. **Soul Rend** — **strikes sever Essence threads, causing instant paralysis or death.** **Whispering Veil** induces terror and hallucination. **Silent Flight.**
 > Vulnerable to light-based Essence and sacred wards. **Physical attacks harm them during phase-shift recovery.** And they are **highly sensitive to sound — loud noise disrupts their stealth.**
-*The Black Whisper Hunt chronicles a Concord operation to purge an infestation from a remote frontier town. Survivors recount eerie voices and vanished neighbours before the final battle.*
+*The Black Whisper Hunt chronicles a Concord operation to purge an infestation from a remote frontier town. Survivors recount eerie voices and vanished neighbors before the final battle.*
 
 ---
 
@@ -77,13 +77,13 @@ Cold, predatory, relentless. **They stalk in darkness before striking with letha
 
 The upper body a hauntingly beautiful human female, pale or iridescent, **with faint scale patterns along arms and neck.** The lower body a sinuous serpent tail in dark shimmering scale. *Their movements are hypnotic and unnervingly graceful, accompanied by faint whispers.*
 
-**Cunning, patient and predatory. They favour psychological manipulation** — seduction, deception and trap over direct confrontation. Solitary, **though they occasionally form covens to expand their influence over a region.**
+**Cunning, patient and predatory. They favor psychological manipulation** — seduction, deception and trap over direct confrontation. Solitary, **though they occasionally form covens to expand their influence over a region.**
 
 **Illusory Veil** disorients and ensnares minds. **Essence Drain** saps vitality through prolonged contact or hypnotic gaze. **Serpent's Coil** constricts physically **and metaphysically, disrupting Essence flow.** **Dreamweave** invades dreams and builds nightmare constructs.
 
 **Vulnerable when illusions are pierced. Physically weaker than most predators. Susceptible to harmonic Wellspring purging rituals.**
 
-*The Whispering Grove Massacre saw an entire caravan fall to a coven's illusionary trap. Several accounts tell of travellers lost to their own nightmares in border forests.*
+*The Whispering Grove Massacre saw an entire caravan fall to a coven's illusionary trap. Several accounts tell of travelers lost to their own nightmares in border forests.*
 
 ---
 
@@ -119,7 +119,7 @@ Lurking predators preferring ambush over brute force. Solitary and territorial, 
 
 **Petrifying Gaze** turns flesh to stone instantly or slowly depending on focus. **Essence Venom Breath** weakens flesh and disrupts Wellspring flow. **Stone Armor.** **Terrifying Roar** causes psychological terror.
 > **The gaze requires line of sight and focus — distractions or reflections break its effect.** Vulnerable to rapid close-quarters assault before petrification sets in. **Essence purifying rituals degrade their petrification powers temporarily.**
-*The Siege of the Stone Gate recounts a gorgon's defence of a crevice breach, turning entire battalions into statues. Tales of the Crystal Cursed originate from victims who slowly petrified over years.*
+*The Siege of the Stone Gate recounts a gorgon's defense of a crevice breach, turning entire battalions into statues. Tales of the Crystal Cursed originate from victims who slowly petrified over years.*
 
 ---
 
@@ -130,7 +130,7 @@ Lurking predators preferring ambush over brute force. Solitary and territorial, 
 
 Ancient reptilian creatures emerging **where Wellspring flows have become twisted by Abyssal and Corrupted forces.**
 
-Lizard-like beasts with thick scaled hides in mottled dark green, brown or stone grey. **Eyes glowing sickly yellow or amber**, bodies adorned with jagged spines. *Their movements are slow and deliberate — lethal patience embodied.*
+Lizard-like beasts with thick scaled hides in mottled dark green, brown or stone gray. **Eyes glowing sickly yellow or amber**, bodies adorned with jagged spines. *Their movements are slow and deliberate — lethal patience embodied.*
 
 Solitary and territorial. **They ambush by stealth and patience**, relying on the gaze to incapacitate before closing. **Intelligent hunters that avoid unnecessary confrontation** unless defending territory or hunting large prey.
 
@@ -168,7 +168,7 @@ Aggressive and territorial, **nesting in hidden lairs and defending them fiercel
 
 Predators born from corrupted Wellspring Essence **blending primal feline and scorpion traits.**
 
-Large feline body with **a spiked armoured tail resembling a scorpion's stinger.** Fur from tawny to deep crimson, eyes burning predatory amber. **Wings resembling those of a bat or dragon** enable short bursts of flight.
+Large feline body with **a spiked armored tail resembling a scorpion's stinger.** Fur from tawny to deep crimson, eyes burning predatory amber. **Wings resembling those of a bat or dragon** enable short bursts of flight.
 
 Territorial and aggressive, hunting alone or in small family groups. **Highly intelligent for beasts and capable of calculating attacks.**
 
@@ -193,10 +193,10 @@ Gaunt towering humanoid forms draped in frost and rags, **glowing icy blue eyes*
 
 Relentless, **driven by endless hunger and madness.** They hunt anything that moves with terrifying endurance and predatory cunning. **Their presence chills the air and freezes water in their wake.** Usually solitary, **though they have been known to form packs during the harshest winters.**
 
-**Frost Aura** chills and slows, freezing surfaces it touches. **Insatiable Hunger** absorbs Essence from prey to heal and grow stronger. **Howl of Despair** saps morale **and induces hallucinations of starvation.** **Iceclaw Strike** pierces armour and freezes wounds.
+**Frost Aura** chills and slows, freezing surfaces it touches. **Insatiable Hunger** absorbs Essence from prey to heal and grow stronger. **Howl of Despair** saps morale **and induces hallucinations of starvation.** **Iceclaw Strike** pierces armor and freezes wounds.
 
-**Vulnerable to fire and heat. Their madness causes unpredictable, reckless behaviour. And prolonged exposure to Harmonic Essence weakens their corrupted core.**
+**Vulnerable to fire and heat. Their madness causes unpredictable, reckless behavior. And prolonged exposure to Harmonic Essence weakens their corrupted core.**
 
 *The Blight of Frost Hollow tells of a Wendigo terrorising mountain villages for decades until shamans and hunters banished it. The Winter's Maw campaign suffered severe losses to Wendigo ambushes on supply runs.*
-> **Northern tribes conduct rites to protect against their hunger — and to honour the spirits of those lost to the curse.**
+> **Northern tribes conduct rites to protect against their hunger — and to honor the spirits of those lost to the curse.**
 - [[The Bestiary/The Corrupted and the Risen/Aberrations/Lich]]

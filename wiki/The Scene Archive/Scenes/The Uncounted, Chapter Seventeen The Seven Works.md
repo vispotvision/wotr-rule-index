@@ -88,7 +88,7 @@ He did not count how many times he began from the beginning.
 
 And then, at some point he could not have named, the row was not things any more.
 
-It was a wall. A wall of grey stone, rough-coursed, the kind of wall a Tenrai mason would build round a fortress, with a gatehouse and a gate. He knew it was the Seat. He did not know how he knew. And it was full of cracks, all humming: the fine steady ones of stone carrying its own weight, the way a sound wall carries it, and here and there, deep, branching, sour, the ones that had stopped carrying and were only pretending. A course where the mortar had rotted. A lintel over a postern that had been cracked by frost forty winters ago and patched and never mended. A ward-stone set into the gatehouse foundation, a worked thing tied into the Seat's draw, humming with Tenrai gold and glowing in the threads like a coal, whose binding had been laid by a man who had not meant the oath he laid it with.
+It was a wall. A wall of gray stone, rough-coursed, the kind of wall a Tenrai mason would build round a fortress, with a gatehouse and a gate. He knew it was the Seat. He did not know how he knew. And it was full of cracks, all humming: the fine steady ones of stone carrying its own weight, the way a sound wall carries it, and here and there, deep, branching, sour, the ones that had stopped carrying and were only pretending. A course where the mortar had rotted. A lintel over a postern that had been cracked by frost forty winters ago and patched and never mended. A ward-stone set into the gatehouse foundation, a worked thing tied into the Seat's draw, humming with Tenrai gold and glowing in the threads like a coal, whose binding had been laid by a man who had not meant the oath he laid it with.
 
 "Again," said Faisal.
 
@@ -174,7 +174,7 @@ Muken thought of the silver room, and of the ridge, and was quiet.
 
 The threads round them shifted.
 
-This time they turned. All of them, all at once, the whole of the place made of threads turning slowly round the two of them like the sky turns round the pole star, and as they turned, the gold in them paled toward silver and the silver toward a soft violet-blue, the colour of snow in the hour after sunset, and the notes changed. Lower. Softer. The humming of the living fell away somewhere behind them, and what was left was something else. Fainter. Further off. A sound like many people breathing very quietly in a cold room, a long way off. Like the Waiting.
+This time they turned. All of them, all at once, the whole of the place made of threads turning slowly round the two of them like the sky turns round the pole star, and as they turned, the gold in them paled toward silver and the silver toward a soft violet-blue, the color of snow in the hour after sunset, and the notes changed. Lower. Softer. The humming of the living fell away somewhere behind them, and what was left was something else. Fainter. Further off. A sound like many people breathing very quietly in a cold room, a long way off. Like the Waiting.
 
 "*Seirei no Gō,*" said Faisal. "The Work of Spirit. It governs what passes between. Between life and death. Between the body and what comes after. It keeps the unseen world from becoming disorderly." He was quiet a moment. "Everyone who dies passes through it. Everyone. It is the road out."
 
@@ -250,7 +250,7 @@ Muken did not understand. And then he did.
 
 He looked for the place in the threads where her pale one had been. The thread was gone, and the place remained: a gap, where it had run. And he followed the gap back, the way you follow a dry streambed up a hill to where the spring was, and as he followed it, the threads round it lit up, one after another, running away from him into the past like lamps being lit down a long street.
 
-He saw the silver room. He did not want to. He saw it: the polished floor and the caged lamps and the silver dais and a small grey woman with her hands behind her back, and he saw the thread running out of her, silver gone sour and tarnished, toward the girl on her knees. And he followed that thread back, from the woman, and it went into a room full of letters with two seals on every one, silver on the left. And back from there, into a lodge of reindeer hide on the tundra, and a Keld boy with an iron hand saying *the queen's will is absolute*. And back. A council in a hall of black stone, six lords of the seven lines round a table, and a man in gold-trimmed black with a narrow face saying *search every road, every register, every salt pan.* And back. A cellar under Halcrest. A lamp. A man with white hair going down the stair after his own blood. And back, and back, and back, through twenty years and forty and a hundred, through wars he had never heard of and kings whose names were dust, through the silver line and the red line standing side by side in the Hall of Verdicts for a thousand years with their hands on their swords.
+He saw the silver room. He did not want to. He saw it: the polished floor and the caged lamps and the silver dais and a small gray woman with her hands behind her back, and he saw the thread running out of her, silver gone sour and tarnished, toward the girl on her knees. And he followed that thread back, from the woman, and it went into a room full of letters with two seals on every one, silver on the left. And back from there, into a lodge of reindeer hide on the tundra, and a Keld boy with an iron hand saying *the queen's will is absolute*. And back. A council in a hall of black stone, six lords of the seven lines round a table, and a man in gold-trimmed black with a narrow face saying *search every road, every register, every salt pan.* And back. A cellar under Halcrest. A lamp. A man with white hair going down the stair after his own blood. And back, and back, and back, through twenty years and forty and a hundred, through wars he had never heard of and kings whose names were dust, through the silver line and the red line standing side by side in the Hall of Verdicts for a thousand years with their hands on their swords.
 
 "It is all one thread," said Muken slowly.
 
@@ -276,15 +276,15 @@ The fifth Work, Faisal taught him quickly, because he already had the beginnings
 
 "I didn't stop him."
 
-"No," said Faisal. "Knowledge reveals. It does not act. That is the other Works' labour." The light was quiet. "But you will not miss it again. Look."
+"No," said Faisal. "Knowledge reveals. It does not act. That is the other Works' labor." The light was quiet. "But you will not miss it again. Look."
 
 And Muken looked, and he saw the Seat.
 
-This time it was the people in it. Every lord of the seven lines who had stood in the Hall of Verdicts and voted for the Kurenai blade on Ulf Stark's neck. Every Tenrai factor and Shirogane steward. Every captain of the house-guard. He could see the threads running out of each of them, Tenrai gold and Shirogane silver and the many colours of the lesser houses, the whole lamplit city on its rock strung with them like a harp, and he could hear what they were humming, and most of them were humming fear. Fear of Kagenori. Fear of the silver chair. Fear of the boy in the north who had broken the Iron Fist with a song. A few were humming greed, and a few were humming nothing at all, the flat dead note of men who had stopped feeling anything years ago.
+This time it was the people in it. Every lord of the seven lines who had stood in the Hall of Verdicts and voted for the Kurenai blade on Ulf Stark's neck. Every Tenrai factor and Shirogane steward. Every captain of the house-guard. He could see the threads running out of each of them, Tenrai gold and Shirogane silver and the many colors of the lesser houses, the whole lamplit city on its rock strung with them like a harp, and he could hear what they were humming, and most of them were humming fear. Fear of Kagenori. Fear of the silver chair. Fear of the boy in the north who had broken the Iron Fist with a song. A few were humming greed, and a few were humming nothing at all, the flat dead note of men who had stopped feeling anything years ago.
 
 And one was humming grief.
 
-It was very faint. A thread of gold, running out of a man in gold-trimmed black who stood alone in the silver room at the Seat at the foot of an empty dais, with his narrow face quite white, looking at the place on the polished floor where a servant in grey had wiped up a girl's blood.
+It was very faint. A thread of gold, running out of a man in gold-trimmed black who stood alone in the silver room at the Seat at the foot of an empty dais, with his narrow face quite white, looking at the place on the polished floor where a servant in gray had wiped up a girl's blood.
 
 "Kagenori," said Muken.
 
@@ -414,7 +414,7 @@ At the end of it, Faisal lifted his hand from the weight he carried one last tim
 
 The Bound Flame waited.
 
-"By my honour," said Muken, "I'll crack nothing at the Seat that is not already dead. No living thing that does not need cracking. Not wall, not ward, not man." He breathed. "And I'll close what I can. The way she would have."
+"By my honor," said Muken, "I'll crack nothing at the Seat that is not already dead. No living thing that does not need cracking. Not wall, not ward, not man." He breathed. "And I'll close what I can. The way she would have."
 
 The warm heavy light went through him like heat through iron.
 

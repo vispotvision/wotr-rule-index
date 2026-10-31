@@ -5,7 +5,7 @@
 **Hollis Draycott** · Agent for the Vessant House · Halcrest, the Nalūn factor houses · as of the room above the tea-house at Halcrest, the morning he hired the Lanternless
 **Stat line** · Level 38 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Attraction 30% / Body 10% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
 **Combat grammar** · none; he hires people for that
-**Aura and sound** · a faint bronze sheen, the colour of a well-handled seal-token · sound: the hum of a sound contract, a steady note just under a lamp's hiss
+**Aura and sound** · a faint bronze sheen, the color of a well-handled seal-token · sound: the hum of a sound contract, a steady note just under a lamp's hiss
 **Traits** · READS THE BELT (Primary) · tell: his eyes go quickly and openly to your belt before your face · counter: wear no token, or a token that tells him nothing / THE OLDEST CONTRACT (Secondary) · tell: his thumb runs once round the rim of his token · counter: ask him what the contract costs, not what it pays
 **Signature** · none; the Vessant house's seal and purse do his work
 **Voice** · "I'll be frank, since your surgeon seems determined that I should be." · speaker type: a factor-house agent and contract clerk, courteous, exact about money and vague about the dead
@@ -38,7 +38,7 @@ Thirty-one years of a sound contract have bound his Attraction to the Vessant ho
 
 ## Physical Description
 
-He is younger than the job makes him sound, with a long, even face, a straight nose and a level mouth, and brown hair worn thick and untidy, pushed back and falling forward again across his brow. His eyes are a clear green and steady, and they go to your belt first. Ink stains the second finger of his right hand, the scribe's mark, though he has none of the scribe's stoop. He wears a long dark travelling coat with a high collar, cut close and lined with something soft at the throat, the snow still on its shoulders when he comes in from the street, and oiled boots; on his belt, where a fighting man would wear a knife, a bronze Vessant seal-token the size of a large coin on a short chain, humming faintly for as long as the contract holds.
+He is younger than the job makes him sound, with a long, even face, a straight nose and a level mouth, and brown hair worn thick and untidy, pushed back and falling forward again across his brow. His eyes are a clear green and steady, and they go to your belt first. Ink stains the second finger of his right hand, the scribe's mark, though he has none of the scribe's stoop. He wears a long dark traveling coat with a high collar, cut close and lined with something soft at the throat, the snow still on its shoulders when he comes in from the street, and oiled boots; on his belt, where a fighting man would wear a knife, a bronze Vessant seal-token the size of a large coin on a short chain, humming faintly for as long as the contract holds.
 
 ## Lore
 

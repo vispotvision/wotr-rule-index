@@ -129,6 +129,6 @@ Real-world substrate, named per the research rule.
 
 **Accommodation.** Giles's communication accommodation theory, including the upward and downward axis, over-accommodation as perceived condescension, and objective convergence carrying divergent intent, illustrated by the Catalan and Castilian norm.
 
-**Indexicality and linguistic capital.** Silverstein and Bourdieu, and the third-wave move associated with Eckert that treats variation as deliberate stylistic practice rather than a passive readout of social category. This is the licence for characters who *use* their accents rather than merely having them, and it is what keeps this page from being a table of stereotypes.
+**Indexicality and linguistic capital.** Silverstein and Bourdieu, and the third-wave move associated with Eckert that treats variation as deliberate stylistic practice rather than a passive readout of social category. This is the license for characters who *use* their accents rather than merely having them, and it is what keeps this page from being a table of stereotypes.
 
 **Shibboleths.** The Sicilian Vespers of 1282, the Matins of Bruges of 1302, Kraków in 1312, and the eighteenth-century runaway advertisements identifying absconders by regional accent. The historicity of the medieval anecdotes is disputed in each case, which does not matter for the craft point: what recurs is the shape, an ordinary word chosen because it cannot be faked.

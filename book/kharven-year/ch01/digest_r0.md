@@ -29,8 +29,8 @@
    Fix: Recast without the mirrored "a thing X is a thing Y" construction, or move the lamp-leaning beat inside the line.
 
 7. **canon (Lambert's hair)**
-   Quote: "Gloves on, collar done up to the throat, grey at the temple and nowhere else"
-   Fix: Change to grey-brown, thinning at the crown, per the Lambert card; or flag the divergence in author notes as deliberate.
+   Quote: "Gloves on, collar done up to the throat, gray at the temple and nowhere else"
+   Fix: Change to gray-brown, thinning at the crown, per the Lambert card; or flag the divergence in author notes as deliberate.
 
 8. **canon (four houses vs fourteen)**
    Quote: "He knew where the four houses sat. He had known the four names since before the first cart of grain came north"
@@ -58,8 +58,8 @@
     Quote: "The Bench keeps a Record and Nalūn keeps a salt and this house keeps a pillar with a nail in it"
     Fix: Narrow to the Kharven pillar custom, or reframe as Lambert's complaint about not being consulted.
 
-14. **canon (Bench clerk in Divisions grey)**
-    Quote: "A woman of forty in the grey of the Divisions, hair the brown of a wet plank"
+14. **canon (Bench clerk in Divisions gray)**
+    Quote: "A woman of forty in the gray of the Divisions, hair the brown of a wet plank"
     Fix: Half-line clarifying the clerk is seconded from a Division, if that is the intended reading; the Bench is not a Division.
 
 15. **canon (forfeiture site)**

@@ -13,7 +13,7 @@ tags: ["Magic System", "Reference Table"]
 
 A Trait is the crystallized law of a soul, the moment emotion, conviction and Temperance (the soul's refinement, climbed in sixteen Stages) align so completely that the Continuum (the whole fabric of reality) begins responding to that belief as a rule. A Trait is not learned. It awakens when lived experience hardens into metaphysical truth, when the three layers of the Crystal (the Soul Crystal, the soul's organ of power) stop merely holding a belief and begin running on it.
 
-Every Trait forms when four harmonics fall into coherence: the **Essence Core** (the emotional truth), the **Attraction Layer** (the pattern of recognition bending toward that truth), the **Aether Shell** (the behaviour of force born from that belief), and the **Temperance Field** (the refinement keeping the belief from collapsing under strain).
+Every Trait forms when four harmonics fall into coherence: the **Essence Core** (the emotional truth), the **Attraction Layer** (the pattern of recognition bending toward that truth), the **Aether Shell** (the behavior of force born from that belief), and the **Temperance Field** (the refinement keeping the belief from collapsing under strain).
 
 ### The Four Reflections
 
@@ -43,12 +43,12 @@ Traits awaken during Resonance Events.
 
 ### Trait Scaling with Temperance
 
-| Tiers of Standing | Stages | Behaviour |
+| Tiers of Standing | Stages | Behavior |
 |---|---|---|
 | 1–4 · Initiate to Adept | I–IV | Present but volatile. Output low to modest, inconsistent, real risk of misfires and self-harm. |
 | 5 · Expert | V–VI | Stabilize into the soul's baseline rhythm. Modest to meaningful output, reliable enough for training. |
 | 5–6 · Expert to Master | VII–VIII | Interface cleanly with Wellspring dialects. Significant output, semi-lawful, capable of shaping small environments. |
-| 6–7 · Master to Grandmaster | IX–XII | Field-state behaviour. Major, consistently world-facing output. Reality bends locally wherever the bearer exerts will. |
+| 6–7 · Master to Grandmaster | IX–XII | Field-state behavior. Major, consistently world-facing output. Reality bends locally wherever the bearer exerts will. |
 | 8 · Archmaster | XIII–XIV | Fuse with Domain Law. Output exceeds ordinary metrics. The Trait stops being an ability and becomes part of how reality must behave in that presence. |
 
 ### Trait Evolution
@@ -57,13 +57,13 @@ Traits awaken during Resonance Events.
 
 **Overgrowth** — a Trait expands beyond the soul's capacity to guide it, producing bodily mutation, Essence warping, environmental distortion or unintended Domain formation. The warning sign is a Trait that acts even when the bearer does not consciously will it.
 
-**Ascension** — a Trait crosses the final threshold into Domain Law. Its behaviour defines local physics. Space, memory, probability and emotion must negotiate with that law. The bearer's presence becomes synonymous with a particular kind of reality.
+**Ascension** — a Trait crosses the final threshold into Domain Law. Its behavior defines local physics. Space, memory, probability and emotion must negotiate with that law. The bearer's presence becomes synonymous with a particular kind of reality.
 
 ### Trait Costs and Risks
 
 **Resonance Fatigue** — exhaustion, Essence depletion and slowed recovery from overuse.
 
-**The Rigidity Effect** — emotional or behavioural inflexibility. The more absolute the Trait's law, the less the soul can safely contradict it.
+**The Rigidity Effect** — emotional or behavioral inflexibility. The more absolute the Trait's law, the less the soul can safely contradict it.
 
 **Shear Break** — the Trait collapses, inverts, or turns against the bearer after they repeatedly deny the truth that birthed it.
 
@@ -120,7 +120,7 @@ Domains are not techniques. They are consequences of sufficient Temperance, Domi
 
 **Stage XIV, Zenith** — Domain and character become indistinguishable. Reality acclimates to the character rather than the character imposing on reality.
 
-### Common Domain Behaviours
+### Common Domain Behaviors
 
 **Low-G / High-G** — adjusted gravity. Governed by Dominion Sovereignty and the character's relationship to physical law.
 

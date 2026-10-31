@@ -44,9 +44,9 @@ He knew that. He made himself know it.
 
 "Brother."
 
-Naevra had come out of the Council Room doorway behind him. She had bound her hair since the night, a long white plait down her back, and there was a clean band of indigo linen at her throat instead of the stained apron, and her face was composed again in the way the house's faces composed themselves, smooth as water over a drowned stone. Only the eyes gave her away. They were rimmed red, and they were already reading him, and he saw them go to the hood on his head and understand it and say nothing.
+Naevra had come out of the Council Room doorway behind him. She had bound her hair since the night, a long white braid down her back, and there was a clean band of indigo linen at her throat instead of the stained apron, and her face was composed again in the way the house's faces composed themselves, smooth as water over a drowned stone. Only the eyes gave her away. They were rimmed red, and they were already reading him, and he saw them go to the hood on his head and understand it and say nothing.
 
-There was a man with her. One of the gate runners, young, in the house's grey, out of breath and very pale, holding a folded paper against his chest as though it might fly away. He came down the two steps into the courtyard and stopped a respectful distance off, and his eyes went to the scorched paving, and to Seradris, and quickly away again, and he bowed low to Naiser.
+There was a man with her. One of the gate runners, young, in the house's gray, out of breath and very pale, holding a folded paper against his chest as though it might fly away. He came down the two steps into the courtyard and stopped a respectful distance off, and his eyes went to the scorched paving, and to Seradris, and quickly away again, and he bowed low to Naiser.
 
 "Sire." He had to swallow before he could go on. "A rider, sire. Under a white cloth, from the Zettari. They wish to make peace." He held the paper out. "They want to marry your sister Naevra to the Crown Prince."
 
@@ -84,7 +84,7 @@ Naevra was ready for that. She had always been the better of them at this. Their
 
 He opened his mouth, and closed it again.
 
-She was right. She was always right about this kind of thing, and it was always the thing he least wanted to hear. He looked down at the paper in his hand, still folded, and turned it over once with his thumb. The seal on it was the Zettari boundary-mark, pressed in grey wax: a square, quartered, plain as a surveyor's stake.
+She was right. She was always right about this kind of thing, and it was always the thing he least wanted to hear. He looked down at the paper in his hand, still folded, and turned it over once with his thumb. The seal on it was the Zettari boundary-mark, pressed in gray wax: a square, quartered, plain as a surveyor's stake.
 
 "Set up the meeting," he said.
 
@@ -113,6 +113,6 @@ It was a request, and it was more than one. He asked it the way his father used 
 - **One line of yours I read for meaning.** "We will be alright. Seradris was simply have a lot of building" became Naiser's own thought: *She'll be all right. She is still building. There is so much of her still to come.*
 - **Naevra's age.** A year younger than Naiser, about thirty (settled 2026-10-20). The Bearer of Weight's "elder" line is rewritten to match.
 - **Tense.** Past, to match your draft and Seradris's post. The table rule for RP turns is present tense; say if you want it switched.
-- **Invented and logged:** the gate runner, the rider under a white cloth, the Zettari boundary seal (a quartered square in grey wax), the crow-loft on the east wall, and Naiser and Naevra leaving together for a few days.
+- **Invented and logged:** the gate runner, the rider under a white cloth, the Zettari boundary seal (a quartered square in gray wax), the crow-loft on the east wall, and Naiser and Naevra leaving together for a few days.
 
-**Revision 2026-10-24.** Added the enclave's morning colour (gold on the cedar eaves, lichened roofs, mist on the stream, glittering frost, pyre smoke), an indigo band for Naevra and the crows' sheen, eased the runner's stillness into a dry beat, and cut one needless-emphasis tic and a countdown in Naevra's speech. Every beat and every line of Isaac's is kept, and every passage describing Seradris is untouched.
+**Revision 2026-10-24.** Added the enclave's morning color (gold on the cedar eaves, lichened roofs, mist on the stream, glittering frost, pyre smoke), an indigo band for Naevra and the crows' sheen, eased the runner's stillness into a dry beat, and cut one needless-emphasis tic and a countdown in Naevra's speech. Every beat and every line of Isaac's is kept, and every passage describing Seradris is untouched.

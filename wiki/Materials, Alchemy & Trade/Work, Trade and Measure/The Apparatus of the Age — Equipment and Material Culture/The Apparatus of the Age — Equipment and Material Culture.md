@@ -34,11 +34,11 @@ tags: ["Materials", "Trade & Economy"]
 
 ### Heat and water
 
-**The Hearth** · **The centre of every household that does not have an array, which is most of them.** It heats, cooks, lights and gathers. *Fuel is wood, peat in the uplands, charcoal where wood is scarce and coin is not, and dried dung on the frontier, which burns hot and smells exactly as advertised.*
+**The Hearth** · **The center of every household that does not have an array, which is most of them.** It heats, cooks, lights and gathers. *Fuel is wood, peat in the uplands, charcoal where wood is scarce and coin is not, and dried dung on the frontier, which burns hot and smells exactly as advertised.*
 
 **The Ember Box** · A clay-lined container holding slow charcoal or a single **Ember Flint.** *The Flint is the single most widely distributed Essence-active object in the eastern quarter by simple count, and in the west it is the field practitioner's survival stock:* **a reliable fire-starter that works in wet conditions where flint and steel will not.**
 
-**The Forge-Array Stove** · Sustained controllable heat without fuel. *It does not cook differently from a hearth.* **It cooks the same way without the smoke, the ash, the fuel storage and the chimney** — *which means the household has reclaimed the space a woodpile occupies and the labour a fire demands, and that is the specific luxury separating a forge-city dwelling from a surface one.*
+**The Forge-Array Stove** · Sustained controllable heat without fuel. *It does not cook differently from a hearth.* **It cooks the same way without the smoke, the ash, the fuel storage and the chimney** — *which means the household has reclaimed the space a woodpile occupies and the labor a fire demands, and that is the specific luxury separating a forge-city dwelling from a surface one.*
 
 **The Well** · **The most critical infrastructure in any settlement.** In a warded settlement an inscription at the foundation stone monitors contamination — *which makes the ward-carver the person standing between the community and the specific death that arrives when the water turns bad.*
 
@@ -49,7 +49,7 @@ tags: ["Materials", "Trade & Economy"]
 
 *In any city on the network, three objects sit between a household and the ground, and none of them belongs to the household.*
 
-**The Meter** · On the wall by the door, brass-cased, counting. **Sealed, and the seal is the Board's property rather than the householder's**, which is why breaking one is a specific offence with its own tariff and is prosecuted more reliably than assault.
+**The Meter** · On the wall by the door, brass-cased, counting. **Sealed, and the seal is the Board's property rather than the householder's**, which is why breaking one is a specific offense with its own tariff and is prosecuted more reliably than assault.
 
 **The House Main** · Sealed conduit off the street standpipe, feeding the stove, the lanterns and whatever inscriptions the doorframe carries. *A house is described in a lease by its supply grade before it is described by its rooms.*
 
@@ -66,7 +66,7 @@ tags: ["Materials", "Trade & Economy"]
 > Found in metered houses of the clerk's grade and up. **A cold-box standing open is the most expensive object in any house on the main**, which is why every one of them has a spring on the door and every child raised beside one has been shouted at about it.
 **The Icebox** · Oak or deal lined with zinc, a block of ice in the upper chamber and a drip-pan beneath. **The same service without the bill**, bought from the iceman three mornings a week instead of from the Board once a month.
 
-**The Ice Trade** · Ice is cut from the northern lakes in winter, packed in sawdust and straw, and carried south in lagged wagons and ships' holds to an ice-house at every railhead and harbour. *The cold is free and the hauling is not, and a winter that fails to freeze the lakes is a summer of spoiled milk three hundred miles away.* **It is the north's most valuable export and the one the north itself never uses.**
+**The Ice Trade** · Ice is cut from the northern lakes in winter, packed in sawdust and straw, and carried south in lagged wagons and ships' holds to an ice-house at every railhead and harbor. *The cold is free and the hauling is not, and a winter that fails to freeze the lakes is a summer of spoiled milk three hundred miles away.* **It is the north's most valuable export and the one the north itself never uses.**
 
 **Tins** · Food sealed in tinned iron, boiled in the can, and sold by the shelf. **Greaves tin makes the can, and the can goes wherever a ration has to keep**: the regiment, the ship, the expedition, the miner's dinner, the shop shelf in a street that has never owned a cold-box. *The tin has done more to lengthen a campaign than any working in the Codex, and for its first years it had to be opened with a bayonet.*
 
@@ -75,7 +75,7 @@ tags: ["Materials", "Trade & Economy"]
 
 ### Dress
 
-**Common dress** · Wool or linen, undyed unless the wearer can afford the dyer — **in which case the colour itself is the class marker.** *Blue from woad is common, red from madder is dearer, and anything that holds its colour after six months of wearing and washing cost more than the garment.*
+**Common dress** · Wool or linen, undyed unless the wearer can afford the dyer — **in which case the color itself is the class marker.** *Blue from woad is common, red from madder is dearer, and anything that holds its color after six months of wearing and washing cost more than the garment.*
 
 **The Practitioner's Coat** · **No standard pattern.** *A Corporis fighter wears what moves with the body and survives being hit. An Engraver wears something with pockets. An Alchemist wears something that has already survived several chemical accidents and shows it.*
 > **The single universal element is the rank token** — a silver disc at throat, belt or wrist, inscribed to the bearer and verifiable on a coil.
@@ -90,10 +90,10 @@ tags: ["Materials", "Trade & Economy"]
 
 **The middle** · Dress as their parents dressed at their age. **The frock coat, the stiff collar and the tall hat on a Guild day; the full skirt, the bustle and the bonnet.** *Respectable runs a generation behind fashionable, knows it, and counts this a virtue.*
 
-**The poor** · Wear what work has always worn. **Fustian, moleskin and corduroy, a cap, a shawl, a canvas apron, nailed boots**, bought third-hand or made over. *Work clothes do not change because the work does not, and a labourer from the first years of the age would pass unremarked on a building site in the last.*
-> **The mills have broken the old colour order.** A bench-made mauve or magenta now costs what woad used to, and the rule above, that colour is money, still holds in the provinces and is already a joke in the capitals. *The rich answered by moving the marker from colour to cut, which the mills cannot yet copy.*
+**The poor** · Wear what work has always worn. **Fustian, moleskin and corduroy, a cap, a shawl, a canvas apron, nailed boots**, bought third-hand or made over. *Work clothes do not change because the work does not, and a laborer from the first years of the age would pass unremarked on a building site in the last.*
+> **The mills have broken the old color order.** A bench-made mauve or magenta now costs what woad used to, and the rule above, that color is money, still holds in the provinces and is already a joke in the capitals. *The rich answered by moving the marker from color to cut, which the mills cannot yet copy.*
 > 
-> **Every people bends all three through its own Inventory.** The cut, the colour and the object that must be on the body are theirs. The layering by class is the age's.
+> **Every people bends all three through its own Inventory.** The cut, the color and the object that must be on the body are theirs. The layering by class is the age's.
 
 ### The hour
 
@@ -105,7 +105,7 @@ tags: ["Materials", "Trade & Economy"]
 > **Its limit is the one its Wellspring carries.** A frequency that cannot be shifted cannot be detuned away from a forcing that matches it, so a regulator is cut off the pitch of the local main, and **a sound held at its own pitch will shatter it.** *Regulator-cutters keep each station's pitch in a sealed book. A stopped station clock with a cracked bar behind it is a sabotage somebody had to look up first, and the book is where they looked.*
 **The Pocket Watch** · **The middle class's first possession and the clerk's sign of office.** Silver for the clerk, gold for his employer, nickel in the later span for the foreman who has to prove he was on time, each set against the station clock on the walk to work. *A man who owns a watch has joined the Guild hour. A man who does not still lives on the notch.*
 
-**Bells and the sun** · In the country and the north the day is still the notch: seven stations of daylight and seven of dark, longer in summer, rung from the church or the fort. **A traveller stepping off the branch line into a provincial town resets his watch to the station and his day to the bell.**
+**Bells and the sun** · In the country and the north the day is still the notch: seven stations of daylight and seven of dark, longer in summer, rung from the church or the fort. **A traveler stepping off the branch line into a provincial town resets his watch to the station and his day to the bell.**
 
 ---
 
@@ -121,7 +121,7 @@ tags: ["Materials", "Trade & Economy"]
 > A bodkin point **forces a butted ring apart and is resisted by a riveted one** — *which makes construction a plot-relevant distinction, and cheap mail a death sentence dressed as equipment.*
 **Helmet** · **The most important piece after the gambeson, because head wounds kill and everything else merely disables.** *A soldier without a helmet is a soldier his officer has given up on.*
 
-**Weapon** · Arming sword or spear, and a musket where the armoury had one to spare. **Stillband iron — good Bearing, poor Holding.** *A line soldier's weapon holds no inscription because it does not need one and the inscription would cost more than the sword.*
+**Weapon** · Arming sword or spear, and a musket where the armory had one to spare. **Stillband iron — good Bearing, poor Holding.** *A line soldier's weapon holds no inscription because it does not need one and the inscription would cost more than the sword.*
 
 **Pack** · Bedroll, spare shirt, mending kit, wooden bowl, spoon, belt flask, three days' rations, whetstone. *The Ember Flint if he is lucky enough to own one. And a prayer, if the soldier is the praying kind — and soldiers on campaign become the praying kind faster than any other demographic.*
 
@@ -129,7 +129,7 @@ tags: ["Materials", "Trade & Economy"]
 
 *The levy above is the older soldier and still the commoner one. The line regiment is the Crown's soldier of the age, and it has changed its coat twice in living memory.*
 
-**The early line** · **Bright coats with facings by regiment, the shako and the crossbelt, and drill on the square until a volley is one sound.** Cavalry in lace and plume, lancers and hussars, and the charge as the decision. *Bright colour was the point: an officer had to find his own line through powder smoke, and a man in a red coat was a man who could not desert quietly.*
+**The early line** · **Bright coats with facings by regiment, the shako and the crossbelt, and drill on the square until a volley is one sound.** Cavalry in lace and plume, lancers and hussars, and the charge as the decision. *Bright color was the point: an officer had to find his own line through powder smoke, and a man in a red coat was a man who could not desert quietly.*
 
 **The late line** · **Khaki and drab, the soft cap, webbing, the entrenching tool, the bolt-action repeater and a pouch of smokeless cartridges.** *The coat changed because the rifle did. At five hundred paces a bright coat is a mark, and a smokeless volley no longer hides it.* The trench follows the rifle, and the spade becomes the second weapon of the line.
 
@@ -142,32 +142,32 @@ tags: ["Materials", "Trade & Economy"]
 
 *The reason the plate above did not die, stated once and then assumed everywhere.*
 
-**Shot is chemically cheap and a working is not.** A ball costs a fraction of a penny; a practitioner's expenditure is drawn against a reserve that took years to build. **The economics of an engagement between the two have never favoured the practitioner and never did**, which is why lines still exist, why ranks still exist, and why armour outlived the arrival of gunpowder rather than being ended by it.
+**Shot is chemically cheap and a working is not.** A ball costs a fraction of a penny; a practitioner's expenditure is drawn against a reserve that took years to build. **The economics of an engagement between the two have never favored the practitioner and never did**, which is why lines still exist, why ranks still exist, and why armor outlived the arrival of gunpowder rather than being ended by it.
 
 **The Musket** · Slow, loud, and it does not care what Stage the man in front of it reached. *A C-Grade practitioner can react to gunfire and cannot outrun it. A volley is a volley.*
 
 **The Pistol** · Short range, carried by officers, cavalry and anyone who expects the fight to happen inside a room. **The weapon that has killed the most practitioners above Stage V**, because it is drawn at a distance where reaction is not the deciding variable.
-> **Proofed plate and the mark.** Armour is tested by firing at it and stamped with the result, and **the proof-mark is the whole industry**: the house that tested it, the charge, and the range. Plate proofed against a pistol at twenty paces carries a different mark from plate proofed against a musket at fifty.
+> **Proofed plate and the mark.** Armor is tested by firing at it and stamped with the result, and **the proof-mark is the whole industry**: the house that tested it, the charge, and the range. Plate proofed against a pistol at twenty paces carries a different mark from plate proofed against a musket at fifty.
 >
 > **The marks are forged constantly**, and every soldier who buys his own harness knows it. *A proof-mark is a promise about a specific charge at a specific range, made by a workshop that may no longer exist, on a piece of steel that has since been repaired twice.* **They buy anyway, because the alternative is buying nothing.**
 *Aethersteel takes a proof-mark like any other plate, and the Impact Damping Lattice inscribed along the sigil lines is tested separately and marked separately, and the two marks are read together by anyone competent and read as one mark by everyone else.*
 
-### The armoured professional
+### The armored professional
 
-**Full plate: twenty to twenty-five kilograms distributed over the whole body**, and a fit fighter can mount unaided, run, and roll. *The crane-and-immobility myth is from tournament armour, not field equipment.*
+**Full plate: twenty to twenty-five kilograms distributed over the whole body**, and a fit fighter can mount unaided, run, and roll. *The crane-and-immobility myth is from tournament armor, not field equipment.*
 > **The field harness is engineering.** Every surface angled to deflect, every joint articulated, **and the whole assembly fitted to the individual — because plate that does not fit is plate that kills its wearer by restricting movement at the moment movement matters.**
 *Aethersteel plate carries Impact Damping Lattices inscribed along the sigil lines, turning the harness into a resonant structure that distributes incoming shock across the whole surface.*
 
 **A sword does not go through a breastplate. Half-swording into gaps and grappling are the answer.**
 
-**Mail voiders** · Armpits, inner elbows, groin, the back of the knee. ***These are where the killing happens*** — and the voiders are the last defence between the gap and the flesh. **The most expensive per-unit-weight item in the harness.**
+**Mail voiders** · Armpits, inner elbows, groin, the back of the knee. ***These are where the killing happens*** — and the voiders are the last defense between the gap and the flesh. **The most expensive per-unit-weight item in the harness.**
 
 ### The practitioner-combatant
 
 | Kit | What it is and why |
 |---|---|
 | **The Kineticist** | Brigandine or reinforced gambeson, **leaving hands and arms mobile.** Gauntlets are a compromise; **many forgo them entirely and accept the trade: faster casting, vulnerable hands.** *A Kineticist's dominant hand is scarred, calloused, and visibly different from the off-hand — because the hand that channels daily develops the wear patterns of a tool that is used too hard and too often* |
-| **The Corporis fighter** | **Minimal armour. The body is the conduit, and metal between the skin and the world is metal between the conduit and the target.** Wraps at hands and wrists, reinforced clothing, boots that grip. *The Moto tradition adds Fractura-attuned handwraps inscribed on the binding cloth, amplifying impact transfer through the first three knuckle joints — the Corporis practitioner's equivalent of a mage's staff* |
+| **The Corporis fighter** | **Minimal armor. The body is the conduit, and metal between the skin and the world is metal between the conduit and the target.** Wraps at hands and wrists, reinforced clothing, boots that grip. *The Moto tradition adds Fractura-attuned handwraps inscribed on the binding cloth, amplifying impact transfer through the first three knuckle joints — the Corporis practitioner's equivalent of a mage's staff* |
 | **The Thaumaturge** | A ritual blade **(not a weapon — a precision cutting instrument for glyph-work in hostile conditions)**, consecrated chalk, a substrate pouch, and a staff functioning as a resonance anchor. ***The staff is not decorative. It is a tuning fork the size of a walking stick, and the practitioner who plants it and works from it is the practitioner whose circle holds*** |
 | **The Alchemist** | A bandolier of finished Drafts — incendiaries, corrosives, healing compounds, smoke agents, **and the class of offensive Draft the Accord classifies as munitions and the Alchemist classifies as applied chemistry.** *The leather is treated to resist the contents of its own flasks, and it fails at this roughly once per campaign — which is why Alchemists' coats carry the specific pattern of chemical staining that identifies the discipline to anyone who has seen it before* |
 | **The Mancer** | **Almost nothing visible.** A Clearbeam loupe, a notebook, a small field coil, reference standards, a stylus. *A Mancer in the field looks like a clerk who wandered into the wrong camp — which is exactly how a competent Mancer prefers to look, because a Mancer's value is intelligence, and a Mancer who looks valuable is a Mancer who gets targeted* |
@@ -216,7 +216,7 @@ tags: ["Materials", "Trade & Economy"]
 
 **The Essence Engine** · **An Aethersteel rotor cut with a Vectoria glyph and fed on draw.** The glyph turns a supply into a push and the push turns the rotor. Nothing burns, nothing boils, nothing smokes. It hums at the pitch of the main that feeds it, and the men who work it call it a draw-engine and call themselves engine men.
 > **The engine is the reason the age is the age.** A mill that once stood on a river now stands on a main, and a works that once needed a hundred hands at the crank needs one engine man and thirty hands at the machines. *The forge-array took a thousand years to change the four quarters. The main and the meter have done it in a lifetime, in every town at once, and are not finished.*
-**What it costs** · Draw, by the meter, at trade supply or bonded. **A workshop engine the size of a travelling trunk draws about four thousandths of an AU/s at full load; the main engine of a spinning mill draws a whole AU/s**, and the bill knows the difference to the copper.
+**What it costs** · Draw, by the meter, at trade supply or bonded. **A workshop engine the size of a traveling trunk draws about four thousandths of an AU/s at full load; the main engine of a spinning mill draws a whole AU/s**, and the bill knows the difference to the copper.
 
 **What it leaves** · **Residue, not smoke.** An engine run hard and long leaves its field in the ground it stands on, and the men who stand beside it carry the rest. *This is the unsealed field of the Master Material Ledger's hazard register, and the reason a renderer can pick a long-service engine man off the table by his Shell alone.*
 
@@ -232,9 +232,9 @@ tags: ["Materials", "Trade & Economy"]
 > *The rails sing before a train arrives. It is the first tell every child on a line-side street learns, and the last thing a man on the track hears.*
 **The Tram** · The same arrangement at street scale: a slot conduit in the road between the tracks, a car that couples to it, a bell, a conductor with a ticket punch. **The tram made the city wider than a walk**, and the terraces standing at the end of every line exist because of it.
 
-**The Charged Cell** · **An engine that carries its own supply.** A chest of Aethersteel plates separated by Chainsalt, charged at a cell-house off a trade main and sold back to its owner by the hour of charge. **A charged cell holds about two and a half EU in every litre**, so a chest the size of a travelling trunk runs a light motorcar for most of an afternoon at a steady pace.
+**The Charged Cell** · **An engine that carries its own supply.** A chest of Aethersteel plates separated by Chainsalt, charged at a cell-house off a trade main and sold back to its owner by the hour of charge. **A charged cell holds about two and a half EU in every liter**, so a chest the size of a traveling trunk runs a light motorcar for most of an afternoon at a steady pace.
 > **A charged cell leaks.** Essence does not keep, and a cell standing idle loses about a twentieth of its charge a day. *A cell charged five days before it is needed is a quarter spent, and nobody refunds the quarter.*
-**The Motorcar** · A cell chest, an engine, rubber tyres and a coachbuilder's body. **A rich man's object twice over**: once for the car, and once for the chauffeur who knows where the next cell-house is. *Off the main there are no cell-houses, and a motorcar in the provinces is a horse's burden within a day.*
+**The Motorcar** · A cell chest, an engine, rubber tires and a coachbuilder's body. **A rich man's object twice over**: once for the car, and once for the chauffeur who knows where the next cell-house is. *Off the main there are no cell-houses, and a motorcar in the provinces is a horse's burden within a day.*
 
 **The Airship** · **Gas lift, engine push.** A rigid frame of Cloudmetal, a third the weight of iron, holding the gas cells, and cell-driven engines on the gondola turning the airscrews. Slow, quiet and enormous, and the only way across the passes that does not care about the snow. *The Accord's watchtowers keep airship berths, and the Bestiary records a great beast brought down by airship bombardment when nothing on the ground could reach it.*
 
@@ -263,9 +263,9 @@ tags: ["Materials", "Trade & Economy"]
 
 **The Press** · Engine-driven rotary presses printing through the night. **The Guild gazettes print the rates and cost three copper; the penny papers print everything else and cost one**, and the broadsheet, the illustrated weekly and the serial in parts come out of the same works. *Print was always cheap and ungovernable. The engine made it fast, and a scandal now reaches the provinces before the man it concerns has finished his breakfast.*
 > **The hoarding and the shopfront.** Every blank wall on a tram route carries a bill, every bill sells something made in a works, and the glass front of every shop on a good street is lit from behind by Essence lamps after dark. *The age sells itself to itself on every surface it can paste a sheet to, and the bill-sticker works faster than the magistrate who fines him.*
-**The Photograph** · The plate camera, the studio with its painted backdrop and head-clamp, and the portrait on a card in every middle-class parlour. **Police registers and Guild offices are beginning to keep a face beside a name**, and a person who has been photographed once can be found again by anyone holding the card. *Photographs of Essence workings come out wrong in ways the studios argue about and cannot fix.*
+**The Photograph** · The plate camera, the studio with its painted backdrop and head-clamp, and the portrait on a card in every middle-class parlor. **Police registers and Guild offices are beginning to keep a face beside a name**, and a person who has been photographed once can be found again by anyone holding the card. *Photographs of Essence workings come out wrong in ways the studios argue about and cannot fix.*
 
-**Moving Pictures and Recorded Sound** · **Of the late span and the richer places.** A cinematograph show in a hired hall, where the first film most cities ever saw was a train arriving at their own station; a gramophone in the parlour, and a voice on a wax cylinder that outlives the singer. *In the provinces they arrive with the travelling show and leave with it.*
+**Moving Pictures and Recorded Sound** · **Of the late span and the richer places.** A cinematograph show in a hired hall, where the first film most cities ever saw was a train arriving at their own station; a gramophone in the parlor, and a voice on a wax cylinder that outlives the singer. *In the provinces they arrive with the traveling show and leave with it.*
 
 ---
 
@@ -275,7 +275,7 @@ tags: ["Materials", "Trade & Economy"]
 
 **Steel and iron** · **Cheap, for the first time in history.** Forge-arrays running on the main pour steel by the ton, and rail, girder, engine frame, wire, nail and needle all come out of the same works. Stillband ore is the backbone of every bridge in the western quarter; Forge-Iron arms the line. *Steel was a sword once. Now it is a fence post, and a smith who priced by the old weight has gone out of business.*
 
-**Rubber and gutta-percha** · Tapped from trees in the chartered plantations of the south and east and shipped west in the raw. **Rubber makes the tyre, the hose, the belt and the gasket; gutta-percha insulates the Guild wire where it runs underground and under rivers.** *The plantations are the far end of a chain whose near end is a motorcar at a city kerb, and neither end has seen the other.*
+**Rubber and gutta-percha** · Tapped from trees in the chartered plantations of the south and east and shipped west in the raw. **Rubber makes the tire, the hose, the belt and the gasket; gutta-percha insulates the Guild wire where it runs underground and under rivers.** *The plantations are the far end of a chain whose near end is a motorcar at a city curb, and neither end has seen the other.*
 
 **Early plastics** · **Of the late span.** Celluloid for collars, combs, billiard balls and film stock; a bench-cured resin for telephone housings and switch plates. Cheap, bright, and inclined to burn. *Both come off alchemical benches, and the alchemical houses price them accordingly.*
 

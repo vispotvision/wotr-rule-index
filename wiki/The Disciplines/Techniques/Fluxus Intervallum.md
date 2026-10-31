@@ -60,9 +60,9 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 **Law** · Coupled-mode theory: transfer is complete in a time π/(2κ), where the coupling κ falls roughly as 1/d³ and works only when it far exceeds each end's own losses.
 
-**Limit** · Both ends must be real mass, the line must be straight and clear, and doubling the distance cuts the coupling eightfold, so the range is thirty metres.
+**Limit** · Both ends must be real mass, the line must be straight and clear, and doubling the distance cuts the coupling eightfold, so the range is thirty meters.
 
-**Seen** · Thirty metres takes about 1 to 60 ms; a slow crossing is a streak along the line to C-Grade reflexes and up, the fastest a jump to anyone short of A-Grade. It is never instantaneous.
+**Seen** · Thirty meters takes about 1 to 60 ms; a slow crossing is a streak along the line to C-Grade reflexes and up, the fastest a jump to anyone short of A-Grade. It is never instantaneous.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -121,9 +121,9 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 ### Counterplay
 
-**Tell** · The caster goes still, locks their gaze on a mass up to thirty metres off and breathes out slowly: destination and trigger both on show. The strain-line lingers after.
+**Tell** · The caster goes still, locks their gaze on a mass up to thirty meters off and breathes out slowly: destination and trigger both on show. The strain-line lingers after.
 
-**Limits** · Thirty metres, a clear straight line between two real masses, a calm and an exhale to release, none where gravity is absent or chaotic, half a turn of stagger each arrival.
+**Limits** · Thirty meters, a clear straight line between two real masses, a calm and an exhale to release, none where gravity is absent or chaotic, half a turn of stagger each arrival.
 
 **Fails against** · Anything on the line before the exhale ends; an endpoint Locked with Fixatio; a strain-line erased by Tenebra or Zar'thuun; a Judicium interdiction, which misfires it; a destination raised in potential; whatever waits at the arrival.
 

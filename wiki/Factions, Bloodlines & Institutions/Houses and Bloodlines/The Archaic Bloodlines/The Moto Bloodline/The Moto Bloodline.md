@@ -78,7 +78,7 @@ Because Bara authored the Works **before chronology itself**, the Moto do not me
 
 ## The Seven Great Lines
 
-| Line | Shingan | Nature | Favoured Works |
+| Line | Shingan | Nature | Favored Works |
 |---|---|---|---|
 | **Byakuya** | Meigan | Cold revelation, hidden seams, exposed falsehood, clean structural breach. *The Owl, The White Fox, The Heron, The Stoat* | Knowledge, then Purity |
 | **Shirogane**  | Meigan | A harder cadet revelation branch — immediate breach, anti-fortification work, **merciless structural punishment.** *The Lynx, The Snow Fox, The Hawk Owl, The Wolfcat* | Knowledge sharpened by Ruins |

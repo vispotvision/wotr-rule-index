@@ -10,9 +10,9 @@ title: "Vorynn Execution Strike"
 
 ### Summary card
 
-**Effect** · The strike does not need to be hard to be final. Contact alone collapses the target's momentum on the spot. Muscle chains lock, kinetic defence goes rigid, and the follow-through does the rest.
+**Effect** · The strike does not need to be hard to be final. Contact alone collapses the target's momentum on the spot. Muscle chains lock, kinetic defense goes rigid, and the follow-through does the rest.
 
-**Cost** · **Every use tears fibre along the ignition path.** *Chained further, the tear compounds; his own count puts the Essence toll near a fifth of what he is carrying per use.*
+**Cost** · **Every use tears fiber along the ignition path.** *Chained further, the tear compounds; his own count puts the Essence toll near a fifth of what he is carrying per use.*
 
 **Limit** · **Requires Bloodbind ignition.** *Without the blood already burning, there is no vector to compress and no strike to throw.*
 
@@ -97,7 +97,7 @@ No derivation history is recorded for this technique beyond its author's profile
 
 **Category** · Debt, plainly: a stated draw against a stated balance per use, with Residue alongside through Cinerion.
 
-**Essence** · The Aether Shell runs hyper-dense muscular ignition from a blood-pact and uses frost for slowing at contact; the Structural fault tears fibre along the ignition path with every use.
+**Essence** · The Aether Shell runs hyper-dense muscular ignition from a blood-pact and uses frost for slowing at contact; the Structural fault tears fiber along the ignition path with every use.
 
 **Sub-Stats** · Ardency Penetration, Dexterity Feint and Celerity for the close, and Vitality Tolerance for what the body survives of the ignition.
 
@@ -115,7 +115,7 @@ No derivation history is recorded for this technique beyond its author's profile
 
 **Effect** · A touch that is not a blow, then the limb stops arguing: it stays where it was going and will not come back; frost and a white patch on the skin, a cold not felt because the nerve is blocked; in a practitioner the pathway goes hard and quiet.
 
-**Failure** · Structural fault: the working succeeds and the practitioner's fibre tears, compounding when chained; clothing, a heat ward, saturated cold, fouling or no contact each deny it.
+**Failure** · Structural fault: the working succeeds and the practitioner's fiber tears, compounding when chained; clothing, a heat ward, saturated cold, fouling or no contact each deny it.
 
 **Bleed** · 45 percent of the spend and all the heat taken leave the Shell as warmth, so the air round him warms and the room with it.
 
@@ -144,4 +144,4 @@ No derivation history is recorded for this technique beyond its author's profile
 
 **Fails against** · A padded jack, dry wool or an air gap; a Pyreveil or Exuroth ward; a cold or warming closed room; a Limina void-momentum working declining the collapse; distance or flight; a broken wrist or broken attention; chained spending.
 
-**Look up** · The Caloria and Limina favour lists; the Vohrin, Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.
+**Look up** · The Caloria and Limina favor lists; the Vohrin, Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.

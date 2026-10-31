@@ -17,7 +17,7 @@ title: "The Old World — The Western Wearing"
 
 Two continental masses collided, threw up a range on the scale of anything now standing, and then spent an unimaginable stretch of time being worn back down to the stumps. What is left at the surface is **the deep interior of that range brought up into daylight**: slate belts and mica schist folded like cloth, with granite bodies intruded up into them from below.
 
-Those granite bodies are the point. As each one cooled it sweated out a hot mineralising fluid into the cracks in its own roof, and that fluid deposited **tin and tungsten** in sheeted veins around the granite cupolas. Further out, cooler, the same fluids left **lead and silver** in the limestone. Along the seaward foreland, in the basins that formed while the range was still rising, plant matter accumulated and became **coal**. Along the coastal plain, buried salt has risen through the overburden in domes, dragging up sulphur and oil-shale with it.
+Those granite bodies are the point. As each one cooled it sweated out a hot mineralising fluid into the cracks in its own roof, and that fluid deposited **tin and tungsten** in sheeted veins around the granite cupolas. Further out, cooler, the same fluids left **lead and silver** in the limestone. Along the seaward foreland, in the basins that formed while the range was still rising, plant matter accumulated and became **coal**. Along the coastal plain, buried salt has risen through the overburden in domes, dragging up sulfur and oil-shale with it.
 
 It has been worked continuously for longer than any current kingdom has existed.
 
@@ -27,7 +27,7 @@ It has been worked continuously for longer than any current kingdom has existed.
 
 Worked country. Terraced hillsides, coppiced woodland cut on rotation for eleven hundred years, hedgerows on field boundaries older than the treaties that name them. Spoil heaps stand at the head of every valley, **grassed over on the outside and still poisonous within.** In the tin districts the ground subsides without warning over workings nobody recorded, and in the coal foreland it subsides on a schedule everyone has learned to plan around.
 
-The rivers run orange below the old adits and have done for generations. Nothing lives in them above the tidal reach. The harbours silt, because eleven centuries of mining spoil has to go somewhere and it goes downstream.
+The rivers run orange below the old adits and have done for generations. Nothing lives in them above the tidal reach. The harbors silt, because eleven centuries of mining spoil has to go somewhere and it goes downstream.
 > Ambient Wellspring saturation is low to moderate and **locally depleted around the old districts**, which is the western quarter's defining industrial problem and the reason its arrays are so expensive to run.
 
 ---
@@ -41,12 +41,12 @@ The standard armament and structural iron of the western kingdoms. Durable again
 >
 > The signature material of the quarter and a fair summary of its condition. Old smelting was inefficient enough that the slag heaps of dead kingdoms still assay well for iron, and modern forge-arrays are hot enough to get it out.
 >
-> Slagbloom is cheap, sulphurous, brittle in the cold, and carries a persistent oddity: **inscriptions laid on it read doubled**, because the metal was worked and marked once already and something of the earlier marking survives the second melt. Engravers charge extra to work it. Superstitious foremen will not have it in a mine cage.
+> Slagbloom is cheap, sulfurous, brittle in the cold, and carries a persistent oddity: **inscriptions laid on it read doubled**, because the metal was worked and marked once already and something of the earlier marking survives the second melt. Engravers charge extra to work it. Superstitious foremen will not have it in a mine cage.
 >
 > Bearing moderate and inconsistent, Holding erratic. Resonance: Anamnesis, unwelcome. Family Materia, Domain Material Science.
 **Palegrit Limestone** · *T2 · Stone · Platform carbonate across the central west*
 
-Ashlar for building, lime for mortar, and flux for every iron furnace in the quarter. Three uses, one quarry, and the reason the western kingdoms build in pale stone while the north builds in grey. Karst country: the same rock dissolves, which gives the west its cave systems, its sinkholes, and its habit of losing rivers underground for leagues at a time. Bearing good, Holding poor.
+Ashlar for building, lime for mortar, and flux for every iron furnace in the quarter. Three uses, one quarry, and the reason the western kingdoms build in pale stone while the north builds in gray. Karst country: the same rock dissolves, which gives the west its cave systems, its sinkholes, and its habit of losing rivers underground for leagues at a time. Bearing good, Holding poor.
 
 **Veinwood Plank** · *T2 · Wood · Mountain trees of Varūn*
 

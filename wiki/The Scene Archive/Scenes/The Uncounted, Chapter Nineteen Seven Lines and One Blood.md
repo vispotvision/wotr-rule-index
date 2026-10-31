@@ -20,7 +20,7 @@ source: scenes/the_uncounted_chapter_nineteen_seven_lines_and_one_blood.md
 
 The Tenrai had kept the Kōkan's palace as a treasury.
 
-It stood on the crown of the rock beside the Hall of Verdicts, older than the Hall and lower, a long grey house of the old Kōkan building with deep eaves and dark beams and floors of black stone worn smooth by a thousand years of feet. For three hundred years, since the Tenrai took the Seat, nobody had lived in it. They had filled its rooms with chests. Grain-tallies and tax-ledgers and the deeds to half the north, stacked to the beams in the old Kōkan bedchambers, and the iron-bound strongboxes of the Tenrai treasury in the great hall where the Kōkan kings had once sat to give judgment. They had put a lock on every door. They had never once lit a fire in it.
+It stood on the crown of the rock beside the Hall of Verdicts, older than the Hall and lower, a long gray house of the old Kōkan building with deep eaves and dark beams and floors of black stone worn smooth by a thousand years of feet. For three hundred years, since the Tenrai took the Seat, nobody had lived in it. They had filled its rooms with chests. Grain-tallies and tax-ledgers and the deeds to half the north, stacked to the beams in the old Kōkan bedchambers, and the iron-bound strongboxes of the Tenrai treasury in the great hall where the Kōkan kings had once sat to give judgment. They had put a lock on every door. They had never once lit a fire in it.
 
 Muken lit one.
 
@@ -36,7 +36,7 @@ And under all of it, the singing of the world. He could still hear it. He though
 
 He did not hear her note.
 
-He had not heard it since the road out. Since he opened his hand in the place where the threads run and let it go. He had known he would not. He listened for it anyway. He sat in front of the fire in the Kōkan kings' own room on the first night of his reign over the whole of the north, in his dead mother's armour, and listened for the note of a thirteen-year-old girl with a needle, among all the notes of the world, and it was not there.
+He had not heard it since the road out. Since he opened his hand in the place where the threads run and let it go. He had known he would not. He listened for it anyway. He sat in front of the fire in the Kōkan kings' own room on the first night of his reign over the whole of the north, in his dead mother's armor, and listened for the note of a thirteen-year-old girl with a needle, among all the notes of the world, and it was not there.
 
 He had nobody.
 
@@ -78,11 +78,11 @@ But some time before dawn, he fell asleep, sitting up, with his back against the
 
 The Hall of Verdicts was a long black room under a long black roof on the crown of the rock, and it had been built for one purpose, and it had served that purpose for a thousand years.
 
-The floor was black stone, polished, and it fell away from the doors toward the far end in three wide shallow steps, so that whoever stood at the back of the hall looked down on whoever stood at the front. The walls were black stone. The beams were black oak, so old they had gone hard as iron. There were no windows. The only light came from the lamps, a hundred of them, worked lamps on draw in cages of black iron hung from the beams on long chains, each one burning a clear steady gold that laid the polish of the floor with a hundred small suns, and from a single round opening in the roof directly over the place at the bottom of the hall where those who came to be judged were made to stand, so that they stood in a shaft of grey daylight and everyone else stood in the dark.
+The floor was black stone, polished, and it fell away from the doors toward the far end in three wide shallow steps, so that whoever stood at the back of the hall looked down on whoever stood at the front. The walls were black stone. The beams were black oak, so old they had gone hard as iron. There were no windows. The only light came from the lamps, a hundred of them, worked lamps on draw in cages of black iron hung from the beams on long chains, each one burning a clear steady gold that laid the polish of the floor with a hundred small suns, and from a single round opening in the roof directly over the place at the bottom of the hall where those who came to be judged were made to stand, so that they stood in a shaft of gray daylight and everyone else stood in the dark.
 
 At the far end, on a low dais of black stone, there were seven chairs.
 
-Six of them stood in a long shallow arc, each in its line's colours. Silver for the Shirogane. Gold for the Tenrai. White for the Byakuya. Copper for the Akagane. Indigo for the Amagiri. Black, with the crimson hidden in it, for the Kurenai. And in the middle of the arc, a little forward of the others, a little higher, the seventh.
+Six of them stood in a long shallow arc, each in its line's colors. Silver for the Shirogane. Gold for the Tenrai. White for the Byakuya. Copper for the Akagane. Indigo for the Amagiri. Black, with the crimson hidden in it, for the Kurenai. And in the middle of the arc, a little forward of the others, a little higher, the seventh.
 
 The red chair.
 
@@ -100,7 +100,7 @@ They came in.
 
 He watched them come, from the red chair, in the lamplight. All of them. Down the three shallow steps of the black floor and into the dark of the hall, and found their places, and stood.
 
-The Banner Houses first. Lorn Stark in his father's mail, with the Stark wolf on his breast and his father's axe across his back, who stood at the front on the left with his weight even on both feet and his jaw working on the left side. Godfrey Greymane in his new grey cloak, very straight, beside him. Hisae of Thornwall, small and upright in grey felt, with her Byakuya eyes. Edric Ashmore in brown and russet with the boar on his breast and his broken nose and his look of faint amazement. Ilse Hallenfeld in her dark coat lined with wolf, with her ledger under her arm and ink on her gloves.
+The Banner Houses first. Lorn Stark in his father's mail, with the Stark wolf on his breast and his father's axe across his back, who stood at the front on the left with his weight even on both feet and his jaw working on the left side. Godfrey Greymane in his new gray cloak, very straight, beside him. Hisae of Thornwall, small and upright in gray felt, with her Byakuya eyes. Edric Ashmore in brown and russet with the boar on his breast and his broken nose and his look of faint amazement. Ilse Hallenfeld in her dark coat lined with wolf, with her ledger under her arm and ink on her gloves.
 
 And the Keld.
 
@@ -128,9 +128,9 @@ And then the doors at the top of the hall opened again, and two more people came
 
 ### III · The Ones Who Were Chosen
 
-The first was a young woman of perhaps twenty-five, in silver-grey.
+The first was a young woman of perhaps twenty-five, in silver-gray.
 
-She came down the black floor slowly, alone, with her hands clasped in front of her. She was small, like her sister. Grey-eyed, like her sister, with the same coin-bright rings in the grey. But her hair was not grey. It was black, long, braided down her back, and her face was not hard as a hatchet. It was a young face, pale, set very carefully, and it had been crying, and had stopped.
+She came down the black floor slowly, alone, with her hands clasped in front of her. She was small, like her sister. Gray-eyed, like her sister, with the same coin-bright rings in the gray. But her hair was not gray. It was black, long, braided down her back, and her face was not hard as a hatchet. It was a young face, pale, set very carefully, and it had been crying, and had stopped.
 
 Nanami Shirogane.
 
@@ -138,9 +138,9 @@ Shizuha's sister. Thirty-six years her junior, the last child of a mother who ha
 
 She stopped beside the silver chair, and did not sit, and looked at the boy in the red chair with her sister's eyes, and her face did not change.
 
-The second was a man of forty in plain grey.
+The second was a man of forty in plain gray.
 
-He was tall and lean, with a long pale face and very pale eyes, and the whole Hall stirred when it saw him, because for a moment, in the lamplight, he was Karogane. Then he came closer and he was not. He was older. Greyer. His face was lined in places Karogane's was not, round the eyes and the mouth, the lines of a man who had laughed more in his life than his brother. And he walked down the black floor of the Hall of Verdicts the way a man walks who has been told he is going to his own hanging and has decided to do it with his back straight.
+He was tall and lean, with a long pale face and very pale eyes, and the whole Hall stirred when it saw him, because for a moment, in the lamplight, he was Karogane. Then he came closer and he was not. He was older. Grayer. His face was lined in places Karogane's was not, round the eyes and the mouth, the lines of a man who had laughed more in his life than his brother. And he walked down the black floor of the Hall of Verdicts the way a man walks who has been told he is going to his own hanging and has decided to do it with his back straight.
 
 Shiro Tenrai.
 
@@ -150,7 +150,7 @@ He stopped beside the gold chair.
 
 And beside him, holding his hand, there was a boy.
 
-Ten, perhaps. Small and thin and pale, in grey like his father, with the long Tenrai face and the very pale Tenrai eyes, and the faint ring-lines of the seven lines' blood in them. He held his father's hand and looked round the Hall of Verdicts with those very pale eyes, at the lamps and the black beams and the seven chairs and the boy in red in the middle of them. He did not look frightened. He looked as though he were counting something.
+Ten, perhaps. Small and thin and pale, in gray like his father, with the long Tenrai face and the very pale Tenrai eyes, and the faint ring-lines of the seven lines' blood in them. He held his father's hand and looked round the Hall of Verdicts with those very pale eyes, at the lamps and the black beams and the seven chairs and the boy in red in the middle of them. He did not look frightened. He looked as though he were counting something.
 
 Nobody in the Hall knew his name, then. Shiro had not given it. It would be many years before anyone thought to ask.
 
@@ -178,17 +178,17 @@ Muken understood that look. He had worn it himself, in the long room, the mornin
 
 They brought in Shizuha and Karogane together.
 
-The Kurenai brought them. That was the old law. Four Kurenai in black and ash, two to each, walking them down the black floor of the Hall from the doors to the bottom of the shallow steps, to the place under the round opening in the roof where the shaft of grey daylight came down. And left them standing in it, in the light, with everyone else in the dark.
+The Kurenai brought them. That was the old law. Four Kurenai in black and ash, two to each, walking them down the black floor of the Hall from the doors to the bottom of the shallow steps, to the place under the round opening in the roof where the shaft of gray daylight came down. And left them standing in it, in the light, with everyone else in the dark.
 
-Shizuha Shirogane stood very upright in her silver-grey gown, cleaned, with the frost-work down the front and her short grey hair perfectly in place. Her hands were bound in front of her with white cord. She did not look at the boy in the red chair. She looked at the silver chair beside him, and at her sister standing beside it, for a long time. Nanami did not look away. Neither of them said anything.
+Shizuha Shirogane stood very upright in her silver-gray gown, cleaned, with the frost-work down the front and her short gray hair perfectly in place. Her hands were bound in front of her with white cord. She did not look at the boy in the red chair. She looked at the silver chair beside him, and at her sister standing beside it, for a long time. Nanami did not look away. Neither of them said anything.
 
-Karogane stood beside her in his plain grey, with his hands bound, and his long pale face quite still again. Whatever had cracked in it on the stair had been mended. He looked at the gold chair, and at his brother standing beside it, and at the boy holding his brother's hand. Something moved, very slightly, at the corner of his mouth. Then it was gone.
+Karogane stood beside her in his plain gray, with his hands bound, and his long pale face quite still again. Whatever had cracked in it on the stair had been mended. He looked at the gold chair, and at his brother standing beside it, and at the boy holding his brother's hand. Something moved, very slightly, at the corner of his mouth. Then it was gone.
 
 The Hall was silent.
 
 Muken stood up from the red chair.
 
-He came down off the dais, slowly, in the red harness, with Tsugigane at his hip, down the three low steps of black stone, and stood at the edge of the shaft of grey light, so that they were in the light and he was in the dark, and looked at them.
+He came down off the dais, slowly, in the red harness, with Tsugigane at his hip, down the three low steps of black stone, and stood at the edge of the shaft of gray light, so that they were in the light and he was in the dark, and looked at them.
 
 He did not speak for a long time.
 
@@ -220,7 +220,7 @@ He turned his head, very slightly, toward the silver chair, and the gold.
 
 Shizuha Shirogane looked at him at last.
 
-The coin-bright eyes, in the shaft of grey daylight, fixed on the boy in red in the dark at the edge of it. And for a long moment she said nothing at all.
+The coin-bright eyes, in the shaft of gray daylight, fixed on the boy in red in the dark at the edge of it. And for a long moment she said nothing at all.
 
 "You'll do it yourself?" she said. "Tomorrow."
 
@@ -242,13 +242,13 @@ Something went across the small hard face in the shaft of light. Very fast. Gone
 
 "Nanami Shirogane," said Muken, "will sit the silver chair. If she will." He did not look at Nanami. "And Shiro Tenrai the gold. If he will. And they'll sit in them under my eye for the rest of their lives, and every Shirogane and every Tenrai who comes to them in the night and whispers that the red line must be ended will be sent away. By them. In their own voices." He held the old woman's eyes. "Every one. For as long as they live. Until there is nobody left in either line who remembers why the whispering started."
 
-He stepped forward, one pace, into the edge of the shaft of grey light.
+He stepped forward, one pace, into the edge of the shaft of gray light.
 
 "That's what I'm going to do with your wound," said Muken. "The one you were born in. The one your mother was born in, and hers. The one you meant to pass on to your sister with your chair." He looked at her. "I'm going to close it. And I'm going to make her hold the edges together for the rest of her life, until it heals."
 
 Shizuha Shirogane stared at him.
 
-And then, for the first time since the silver room, since the girl on her knees, the small hard upright woman in the silver-grey gown did something nobody in that Hall had ever seen her do.
+And then, for the first time since the silver room, since the girl on her knees, the small hard upright woman in the silver-gray gown did something nobody in that Hall had ever seen her do.
 
 She looked away.
 
@@ -270,7 +270,7 @@ Lorn Stark first. For the Starks of Hollenmark. He came down the shallow steps o
 
 Godfrey Greymane, for the Greymanes of Ridgewall. "The ridge does not move," he said, very quietly. "We'll hold it. For you, and for whoever comes after." He looked up at Muken. "My father would have, too."
 
-Hisae of Thornwall, small and upright, Byakuya-born. She swore for Thornhaven and the Thornwood and the corridors, and when she had finished she did something none of the Banner lords had done. She turned, and looked at Kiyome Byakuya standing beside the white chair, and the two of them, the old woman and the not-so-old one, both born in the white house in the Shiraki hills, both with the same grey eyes, said together, very softly, so that only the front of the Hall could hear it:
+Hisae of Thornwall, small and upright, Byakuya-born. She swore for Thornhaven and the Thornwood and the corridors, and when she had finished she did something none of the Banner lords had done. She turned, and looked at Kiyome Byakuya standing beside the white chair, and the two of them, the old woman and the not-so-old one, both born in the white house in the Shiraki hills, both with the same gray eyes, said together, very softly, so that only the front of the Hall could hear it:
 
 "*And the red line before the white. Until the end of the red line.*"
 
@@ -364,7 +364,7 @@ And it was done.
 
 Ilse Hallenfeld laid down her pen.
 
-"Ratified," she said, into the silence. "Witnessed. Recorded." She blotted the page, very carefully. "Seven lines. Six Banner Houses. One crown." She looked up at the boy in the red chair with her eyes like grey ice. "It's the largest single entry the Hallenfeld counting-house has ever made, Your Grace. I'll want it noted that I made it."
+"Ratified," she said, into the silence. "Witnessed. Recorded." She blotted the page, very carefully. "Seven lines. Six Banner Houses. One crown." She looked up at the boy in the red chair with her eyes like gray ice. "It's the largest single entry the Hallenfeld counting-house has ever made, Your Grace. I'll want it noted that I made it."
 
 ---
 
@@ -372,7 +372,7 @@ Ilse Hallenfeld laid down her pen.
 
 He did it himself, at the first bell, in the square outside the Hall of Verdicts, where Ulf Stark and Wystan Greymane had knelt.
 
-He did not make a speech. Nobody made a speech. The square was full, and silent, and cold, and the breath of three thousand people went up over it in a single white cloud. The Kurenai brought them out. Shizuha first, in her silver-grey, and then Karogane, in his plain grey. Neither of them said anything. Shizuha looked once, at the end, at the doors of the Hall, where her sister stood in the doorway in silver with her hands clasped in front of her. Then she looked away.
+He did not make a speech. Nobody made a speech. The square was full, and silent, and cold, and the breath of three thousand people went up over it in a single white cloud. The Kurenai brought them out. Shizuha first, in her silver-gray, and then Karogane, in his plain gray. Neither of them said anything. Shizuha looked once, at the end, at the doors of the Hall, where her sister stood in the doorway in silver with her hands clasped in front of her. Then she looked away.
 
 Muken drew Tsugigane.
 
@@ -382,7 +382,7 @@ He did not use Hibi. He did not need to. There was nothing dead to find. He did 
 
 He did not look away from either of them.
 
-When it was done, he wiped the blade on a cloth Kiyome handed him, and looked at it. The grey steel. The bright seam of silver by the guard. There was no mark on it. There never would be. He sheathed it, and turned, and walked back up the steps of the Hall of Verdicts past Nanami Shirogane in the doorway, who did not look at him, and did not move, and stood there in the cold in her silver until the Kurenai had finished, and the square had emptied, and the snow had begun, very softly, to fall.
+When it was done, he wiped the blade on a cloth Kiyome handed him, and looked at it. The gray steel. The bright seam of silver by the guard. There was no mark on it. There never would be. He sheathed it, and turned, and walked back up the steps of the Hall of Verdicts past Nanami Shirogane in the doorway, who did not look at him, and did not move, and stood there in the cold in her silver until the Kurenai had finished, and the square had emptied, and the snow had begun, very softly, to fall.
 
 ---
 
@@ -392,7 +392,7 @@ There was peace in the north.
 
 It came the way the thaw came, slowly, and then all at once. The draw-hum came back under the Seat and stayed there, and the Hallenfeld clerks went through the Tenrai treasury chest by chest and sent the grain-tallies back to the long houses they had been taken from, and the grain after them, up the Marrow on sledges and down Hayato's indigo roads on mules, with a Yukari witness at each end counting the sacks. The levies did not go south. Not that spring, nor the next. The Stark riders went home to Hollenmark, carrying Rob Stark with them on a sledge under a cairn of his own shields, and the Greymanes to Ridgewall and the Thornwall pikes to Thornhaven, and the Ashmore horse to Ashbury, and the Keld to their fires on the tundra with their warlord on a litter, and in every long house in the north that winter, when the wood went on the fire, someone told the story of the boy who came home from the ice.
 
-The thaw, when it came, was green. Nobody alive had seen the north green. The moss came up first along the river in the lee of the rock, a soft brilliant green like spilled paint against the last grey ice, and then, on the south face of the Seat's cliff where the sun lay longest, small white flowers nobody could name, thousands of them, in the cracks of the stone. The old woman with no teeth, who had come down the Marrow behind the army on a sledge and refused to go home, sat on a bench in the Hall square in the sun and looked at them for a whole afternoon. *When the grass comes,* she said, to nobody, and laughed, a cracked old sound like a hinge, and wiped her eyes.
+The thaw, when it came, was green. Nobody alive had seen the north green. The moss came up first along the river in the lee of the rock, a soft brilliant green like spilled paint against the last gray ice, and then, on the south face of the Seat's cliff where the sun lay longest, small white flowers nobody could name, thousands of them, in the cracks of the stone. The old woman with no teeth, who had come down the Marrow behind the army on a sledge and refused to go home, sat on a bench in the Hall square in the sun and looked at them for a whole afternoon. *When the grass comes,* she said, to nobody, and laughed, a cracked old sound like a hinge, and wiped her eyes.
 
 They built a woodpile in the Hall square at the Seat. Nobody ordered it. Somebody started it, the boy with the red ears, the day after the first bell, splitting pine from the Tenrai stables, and the others joined him, and by the end of the week it ran the whole length of the Hall's south wall as high as a man's shoulder, every split end of it pale in the light. Nobody burned from it. It was not for burning. It was only there.
 
@@ -400,7 +400,7 @@ And at the end of the row of cairns on the ridge above Kharven's Foot, someone k
 
 Nobody knew who. Nobody ever saw them. But every night that winter, and the next, a small fire burned at the foot of the last cairn, the one with the stone no bigger than a hen's egg on top, small and close and economical, the way a fire is built in a salt gallery to last all night on very little. And every morning it had burned down to ash, and every evening it was lit again.
 
-The king of the north lived alone in the old Kōkan house on the crown of the rock, in the small square room at the back with the single window looking north, and slept on the floor in front of the hearth, and practised on rope.
+The king of the north lived alone in the old Kōkan house on the crown of the rock, in the small square room at the back with the single window looking north, and slept on the floor in front of the hearth, and practiced on rope.
 
 He was sixteen.
 
@@ -416,7 +416,7 @@ One was silver. Small and dry and very careful. A young woman in a silver chair,
 
 The other was gold. Very pale. A boy of ten with the long Tenrai face, standing beside his father's chair with his hand in his father's, looking round the Hall of Verdicts with his very pale eyes. Counting.
 
-Muken could not hear what the boy was counting. Knowledge revealed what a thing was. It did not tell you what it would become. That was Temporality's labour, and Temporality did not show you a road you had not yet walked.
+Muken could not hear what the boy was counting. Knowledge revealed what a thing was. It did not tell you what it would become. That was Temporality's labor, and Temporality did not show you a road you had not yet walked.
 
 But he listened to it. Every day.
 
@@ -432,7 +432,7 @@ He did not know how long it would last.
 **What this is.** Isaac's beat, every line kept and in his order, written out as four chapters. Past tense, close on Muken except where marked. About 29,000 words together.
 - **Chapter Sixteen, *Tsugigane*:** the cairn, Borin's arrival, the commission and the needles, "I will be ready in a day," and the forging.
 - **Chapter Seventeen, *The Seven Works*:** the Plane of Fate training. Faisal teaches six Works and withholds Totality, and Muken emerges renewed.
-- **Chapter Eighteen, *The Samurai of Fate*:** the blade and the armour, "We take Kharven-Seat in three days," the council of the road, the fall of the Seat, Karogane on the stair, and Shizuha in the silver chair.
+- **Chapter Eighteen, *The Samurai of Fate*:** the blade and the armor, "We take Kharven-Seat in three days," the council of the road, the fall of the Seat, Karogane on the stair, and Shizuha in the silver chair.
 - **Chapter Nineteen, *Seven Lines and One Blood*:** alone in the palace, the Hall of Verdicts, Nanami and Shiro, the sentence, the ratification, the first bell, and the spring.
 
 **Your beats, in order:**
@@ -441,8 +441,8 @@ He did not know how long it would last.
 3. It's the first time Kiyome has heard Muken speak like a true Moto. They understand his request but not what he means by "the tides of fate." (16, III)
 4. Faisal's training: he teaches all the Works but Totality, saying it isn't time and it isn't ready. (17)
 5. Muken emerges from the Plane of Fate renewed. His blade is made and set before him in its saya. (17, IX; 18, II)
-6. He has asked Kiyome to have the Moto make him traditional armour, to dress like the Samurai of Fate his mother told him about. (18, III)
-7. He puts the armour on piece by piece, grasps Tsugigane for the first time, and looks to where Yukazuri is buried. All this pain flows into the tides of fate. (18, III)
+6. He has asked Kiyome to have the Moto make him traditional armor, to dress like the Samurai of Fate his mother told him about. (18, III)
+7. He puts the armor on piece by piece, grasps Tsugigane for the first time, and looks to where Yukazuri is buried. All this pain flows into the tides of fate. (18, III)
 8. He walks out; Lorn is waiting. "Prepare... We take Kharven-Seat in three days." (18, IV)
 9. Thornwall's men and corridors, Hallenfeld's gold and Ashmore's men are used. The Tenrai have only a broken form of the Keld and their own word and power. They aren't just defeated, they're obliterated. (18, V and VI)
 10. Shizuha and Karogane are captured. (18, VII and VIII)
@@ -488,7 +488,7 @@ He did not know how long it would last.
   - **Balance:** he kneels beside Faisal under the weight and learns Shigoto no Kabe. Faisal's damaged wing begins to mend.
   - **Totality:** withheld for years, "perhaps your whole life... perhaps someone else's, after you."
   - **His oath:** to crack nothing at the Seat that isn't already dead.
-- **The armour.** The **Samurai of Fate** (*Unmei no Samurai*) are the old Kōkan guard, Byakuya-sworn. Kasane was the last, and her own harness is still in the Shiraki hills. Muken's set is rebuilt overnight from captured Tenrai lamellar, lacquered near-black red and laced in white. The helmet has **no crest**, to match the blank banner. A tiny white Kōkan mark is painted over the heart. Tetsugen notes that Gimbzo wore only black.
+- **The armor.** The **Samurai of Fate** (*Unmei no Samurai*) are the old Kōkan guard, Byakuya-sworn. Kasane was the last, and her own harness is still in the Shiraki hills. Muken's set is rebuilt overnight from captured Tenrai lamellar, lacquered near-black red and laced in white. The helmet has **no crest**, to match the blank banner. A tiny white Kōkan mark is painted over the heart. Tetsugen notes that Gimbzo wore only black.
 - **The council of the road:**
   - **Lady Hisae Thornwall** is the Lady from Chapter Thirteen, now named. Her house's hidden forest corridors and an ice-hidden stair lead to the Seat's eastern face, kept open two hundred years "because one day the Kōkan would come home and need a back door."
   - **Ilse Hallenfeld**, mistress of the counting-house, has held the Seat's debt for eleven years. She buys the Guild draw-masters, who cut the Seat's main at the first bell, so every Tenrai ward dies at once.
@@ -497,14 +497,14 @@ He did not know how long it would last.
 - **Karogane** fights Muken on the cliff stair. His plain blade has "a dead flat note," used for one thing only, and Tsugigane's needle-note closes on it and it falls apart into the river. He kneels.
 - **Kagenori** takes poison at the foot of the dais after Shizuha agrees to sit in the chair once if he drinks first. His letter is buried with him unopened, with a single name on its face. Shizuha: "Why didn't it break?" Muken: "It did."
 - **Alone.** Lorn brings bone broth, and the four of them sit on the floor; "the first bowl goes to the one who can't fill it himself." Muken falls asleep on Godfrey's shoulder.
-- **The Hall of Verdicts:** six chairs in line colours and **the red chair**, plain red lacquer with the Kōkan mark. Muken sits it, the first Kōkan to do so in twenty years.
+- **The Hall of Verdicts:** six chairs in line colors and **the red chair**, plain red lacquer with the Kōkan mark. Muken sits it, the first Kōkan to do so in twenty years.
 - **Nanami Shirogane**, about twenty-five, black-haired, was fostered ten years with the Byakuya. **Shiro Tenrai**, about forty, kept the Tenrai records for twenty years. Muken's reason for choosing them: "someone who has every reason to hate me, and nothing to gain by it."
 - **The sentence.** Muken does it himself at the first bell, without Hibi. His reason: Shizuha put death in someone else's hand and watched. He "closes the wound" by making Nanami send the whisperers away for the rest of her life, and Shizuha looks away for the first time.
 - **The ratification, sworn one by one and recorded by Ilse Hallenfeld:**
   - Stark, Greymane, Thornwall (Hisae and Kiyome speak the Byakuya oath together), Ashmore, Hallenfeld.
   - The Keld: Aksel on a litter, with no iron hand ("some things are better left unmade," per Borin), swears on "stay worth following."
   - The seven lines. Tetsugen: "I'll not obey you, boy. I'll follow you." **Hayato** takes the indigo chair, because his uncle ran and is held. **Sumie Kurenai**, the executioner's line, is told she won't be needed: "I think it'll be closing things."
-- **The spring.** A woodpile is built in the Hall square, not for burning. Someone keeps a small fire at Yukazuri's cairn every night. Muken practises on rope.
+- **The spring.** A woodpile is built in the Hall square, not for burning. Someone keeps a small fire at Yukazuri's cairn every night. Muken practices on rope.
 - **The hook.** Shiro's son, about ten, pale-eyed, "counting," is left unnamed on purpose. Muken's card names **Azure Tenrai Moto** as the man who later has him killed through covert channels. Tell me if this boy is Azure, and I'll name him.
 
 **Open:**

@@ -18,7 +18,7 @@ title: "Limina — Entropy, Void and Mind"
 
 **Stat Effect** · Strengthens Gnosis Warding, and **tests** Resilience Coherence rather than simply raising it. The practitioner learns which memories are load-bearing and which are chains.
 
-**Failure** · Generation loss. Each pass discards a little more, and a memory compressed repeatedly degrades toward an artefact the practitioner still experiences as a memory.
+**Failure** · Generation loss. Each pass discards a little more, and a memory compressed repeatedly degrades toward an artifact the practitioner still experiences as a memory.
 
 ## Lethegraal · *The Cup of Forgetting*
 
@@ -32,9 +32,9 @@ title: "Limina — Entropy, Void and Mind"
 
 ## Hypnather · *The Sleep Crown*
 
-**Analogue** · Structural relaxation. Physical ageing of a glass toward its equilibrium configuration.
+**Analogue** · Structural relaxation. Physical aging of a glass toward its equilibrium configuration.
 
-**Mechanism** · A glass is a liquid that stopped moving before it finished arranging itself, and left undisturbed it continues to relax toward the ordered state it never reached, slowly and only while quiescent. Hypnather grants the Crystal that behaviour. The reorganisation happens during genuine rest and cannot be forced, which is why Hypnather practitioners sleep like the dead and wake structurally different.
+**Mechanism** · A glass is a liquid that stopped moving before it finished arranging itself, and left undisturbed it continues to relax toward the ordered state it never reached, slowly and only while quiescent. Hypnather grants the Crystal that behavior. The reorganisation happens during genuine rest and cannot be forced, which is why Hypnather practitioners sleep like the dead and wake structurally different.
 
 **Stat Effect** · Strengthens Vitality Regeneration on sleep cycles, Tempering Latency, Gnosis Retention. Recovery during rest becomes dramatically more efficient.
 
@@ -63,7 +63,7 @@ title: "Limina — Entropy, Void and Mind"
 
 **Analogue** · Templated nucleation. Ordered deposition onto an imposed pattern.
 
-**Mechanism** · A supersaturated medium will not organise itself, but given a template it deposits along the template's geometry with high fidelity and considerable strength. Eidolyn makes intent the template. The construct's solidity is real material behaviour rather than illusion, and its failure modes are the failure modes of a poorly designed casting.
+**Mechanism** · A supersaturated medium will not organise itself, but given a template it deposits along the template's geometry with high fidelity and considerable strength. Eidolyn makes intent the template. The construct's solidity is real material behavior rather than illusion, and its failure modes are the failure modes of a poorly designed casting.
 
 **Stat Effect** · Strengthens Ardency Density in summoned constructs, Ardency Inscription, Gnosis Memorium. Mental constructs gain material solidity.
 
@@ -112,7 +112,7 @@ title: "Limina — Entropy, Void and Mind"
 
 **Analogue** · Thermal inertia under negative feedback. A regulated system holding setpoint against ambient.
 
-**Mechanism** · A body with high heat capacity governed by a feedback loop holds its temperature regardless of what the room does, and the larger the capacity the smaller the excursion. Nyxial gives the Crystal that regulation. The practitioner's baseline does not rise in favourable conditions and does not fall in hostile ones, which is a disadvantage exactly as often as it is a defence.
+**Mechanism** · A body with high heat capacity governed by a feedback loop holds its temperature regardless of what the room does, and the larger the capacity the smaller the excursion. Nyxial gives the Crystal that regulation. The practitioner's baseline does not rise in favorable conditions and does not fall in hostile ones, which is a disadvantage exactly as often as it is a defense.
 
 **Stat Effect** · Strengthens Harmonics Stability, Dominion Gravity, Vitality Endurance. Baseline output does not fluctuate with environmental pressure.
 

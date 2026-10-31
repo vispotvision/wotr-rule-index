@@ -8,7 +8,7 @@ title: "Bastion Imperium"
 
 ### Summary card
 
-**Effect · The practitioner anchors himself** in place; the ground beneath him stabilises into a metaphysical bulwark, he becomes immovable within a 10-metre stance, and any force below the Stage's own threshold loses power against him.
+**Effect · The practitioner anchors himself** in place; the ground beneath him stabilises into a metaphysical bulwark, he becomes immovable within a 10-meter stance, and any force below the Stage's own threshold loses power against him.
 
 **Cost** · Severe Aether compression through his legs and spine while the stance holds, and real fatigue once he releases it.
 
@@ -41,7 +41,7 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 
 ### Physics
 
-**Phenomenon** · Solid-state sintering, grains fusing by diffusion below the melting point until the pores close and the mass acts as one body: the ground inside ten metres becomes part of the practitioner, who cannot be moved while the stance holds.
+**Phenomenon** · Solid-state sintering, grains fusing by diffusion below the melting point until the pores close and the mass acts as one body: the ground inside ten meters becomes part of the practitioner, who cannot be moved while the stance holds.
 
 **Law** · Bearing pressure, σ = F/A: a body resting on ground holds while the applied pressure stays under what the substrate carries; densification follows the Coble and Herring rates, D·γ·Ω/(kT·Gⁿ) with n of three to four.
 
@@ -63,7 +63,7 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 
 **Aether** · Draws on the substrate and the ambient across all 314 m². The Residue is permanent: sintered ground does not un-sinter, and the ceramic footprint can be found by a surveyor years later; a Harmonist on an old bastion floor hears less than on bare rock.
 
-**Ground** · Materia favours mineral-rich rock, worked stone and deep foundations; open water, altitude and moving platforms suppress it, and the stance weakens with every metre lost from solid ground and on unstable terrain.
+**Ground** · Materia favors mineral-rich rock, worked stone and deep foundations; open water, altitude and moving platforms suppress it, and the stance weakens with every meter lost from solid ground and on unstable terrain.
 
 **Wellspring** · Coagula, the Unifying Pulse (Materia), primary: grains held hot below melting fuse into one body; it gathers the ground and gives Resilience Integrity and Tempering Coherence.
 
@@ -79,7 +79,7 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 
 ### Mechanism
 
-**Glyph** · Lock (Thalen), a Counter occupying the limit on the practitioner's own position, laid across Boundary (Zhaeren), a Root drawing the ten-metre edge. Category: Claustra.
+**Glyph** · Lock (Thalen), a Counter occupying the limit on the practitioner's own position, laid across Boundary (Zhaeren), a Root drawing the ten-meter edge. Category: Claustra.
 
 **Boundary** · Two move: Coagula moves the diffusion rate in the substrate underfoot; Judicium moves the threshold below which arriving force is admitted.
 
@@ -107,7 +107,7 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 |---|---|---|
 | Cost, one stance | 6% of full reserve | 5.9 × 10⁴ to 1.1 × 10⁶ EU, 59 GJ to 1.1 TJ |
 | Mean draw | cost ÷ 24 s | 2,475 to 46,000 AU/s, 2.5 to 46 GW |
-| Waste per square metre | waste ÷ 314 m² | 1.6 to 44 MW/m² |
+| Waste per square meter | waste ÷ 314 m² | 1.6 to 44 MW/m² |
 | Reserve covers | 90% ÷ 6% | 15 |
 
 **Cost** · Six percent of full reserve per stance, plus severe Aether compression through legs and spine that compounds over a long engagement, then real fatigue after release.
@@ -116,12 +116,12 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 
 ### Counterplay
 
-**Tell** · The practitioner plants, the earth ripples, sigils bloom and iron groans; from then on they do not move. Afterwards a ten-metre ring of ceramic ground, warm for hours and permanent.
+**Tell** · The practitioner plants, the earth ripples, sigils bloom and iron groans; from then on they do not move. Afterwards a ten-meter ring of ceramic ground, warm for hours and permanent.
 
-**Limits** · No movement at all; ten metres; twenty-four seconds; force above the S band is simply not covered.
+**Limits** · No movement at all; ten meters; twenty-four seconds; force above the S band is simply not covered.
 
-**Fails against** · Ground taken by Sublimatio, or water (a bastion on a barge is a man standing still); anything airborne or beyond ten metres; force above 2 TN; a blow to the sintered floor at its residual pores.
+**Fails against** · Ground taken by Sublimatio, or water (a bastion on a barge is a man standing still); anything airborne or beyond ten meters; force above 2 TN; a blow to the sintered floor at its residual pores.
 
 **Rigidity** · Their law is hold: anything that must be chased, a runner, a fire, a hostage carried off, costs them either the working or the thing.
 
-**Look up** · The Materia entries for Coagula's porosity and Sublimatio; Judicium's price; Materia's favoured and suppressive ground; the S-Grade force table; the Transcendence Stage table and the Body and Fate Path gates.
+**Look up** · The Materia entries for Coagula's porosity and Sublimatio; Judicium's price; Materia's favored and suppressive ground; the S-Grade force table; the Transcendence Stage table and the Body and Fate Path gates.

@@ -10,7 +10,7 @@ He heard her on the second flight. The hum had come up through the flags and int
 
 "I did not think you had."
 
-The Society tied its bundles with hemp twine and a knot a child could have picked. He cut it with the sill knife. The week's inserts lay on top, on the cheap rag, the ink gone furred into the fibre. Under them was a sheet of ruled paper torn from a book along the stitching, folded small and sealed with a drop of candle grease, and addressed in pencil. *Night Register. Cutler Row. By the chapter.*
+The Society tied its bundles with hemp twine and a knot a child could have picked. He cut it with the sill knife. The week's inserts lay on top, on the cheap rag, the ink gone furred into the fiber. Under them was a sheet of ruled paper torn from a book along the stitching, folded small and sealed with a drop of candle grease, and addressed in pencil. *Night Register. Cutler Row. By the chapter.*
 
 He took it up by one corner and opened it on the bench with the back of the sill knife.
 
@@ -54,11 +54,11 @@ The hum went out of the road at the last standpipe, iron and waist-high and capp
 
 The light was going when they came to the cut, at the eleventh division, and nothing went off at the eleventh, because out here nothing had been on.
 
-The Ferriby cut was a ride through the timber, running north, wide enough for two carts and floored with old stumps and wiry grass. The birch stood across it on the east side, pale in the half-light. The ground fell a little to the west, where a burn ran along the foot of the timber, audible and not visible. Near the north end, where the cut narrowed, a squat grey stone stood on the rise, and a man sat against it on his pack, writing.
+The Ferriby cut was a ride through the timber, running north, wide enough for two carts and floored with old stumps and wiry grass. The birch stood across it on the east side, pale in the half-light. The ground fell a little to the west, where a burn ran along the foot of the timber, audible and not visible. Near the north end, where the cut narrowed, a squat gray stone stood on the rise, and a man sat against it on his pack, writing.
 
 He got up when he saw them. He did it in one movement, without using his hands, and put the pencil behind his ear.
 
-Tally was a man of middle height and no spare weight, long in the leg and short in the body, the build of a man who walks for his living and eats when he remembers. Forty or fifty; the weather had made it hard to say. His face was narrow and wind-reddened across the cheekbones, with a close grey beard he kept short with a knife, unevenly. Pale eyes, set in the permanent squint of a man who looks a long way off in bad light. His hair was cropped close under a felt hat gone the colour of bark. He wore a smock of undyed wool belted over a leather jerkin, hide gaiters laced to the knee, and boots resoled so many times the uppers were older than the soles. His hands were big for the rest of him, the knuckles swollen, the nails cut square, and there was a white seam across the back of the left one where a blade had once gone in and been pulled out. A sheath knife rode at his belt on the right. On the left, in a leather slot stitched to the seam of his breeches, a folding boxwood rule with brass joints. A notebook bound in oilcloth hung from his belt on a thong, with a second pencil tied to it on a string.
+Tally was a man of middle height and no spare weight, long in the leg and short in the body, the build of a man who walks for his living and eats when he remembers. Forty or fifty; the weather had made it hard to say. His face was narrow and wind-reddened across the cheekbones, with a close gray beard he kept short with a knife, unevenly. Pale eyes, set in the permanent squint of a man who looks a long way off in bad light. His hair was cropped close under a felt hat gone the color of bark. He wore a smock of undyed wool belted over a leather jerkin, hide gaiters laced to the knee, and boots resoled so many times the uppers were older than the soles. His hands were big for the rest of him, the knuckles swollen, the nails cut square, and there was a white seam across the back of the left one where a blade had once gone in and been pulled out. A sheath knife rode at his belt on the right. On the left, in a leather slot stitched to the seam of his breeches, a folding boxwood rule with brass joints. A notebook bound in oilcloth hung from his belt on a thong, with a second pencil tied to it on a string.
 
 "Qiu," he said to Yinzhi, and nodded. Then he looked at Wystan, and at the black coat, and at his hands. "You'll be the Register."
 
@@ -76,13 +76,13 @@ Tally shut the book and hung it back on its thong.
 
 "You'll want the line," he said.
 
-He walked them the line in the last of the light. He went up the middle of the cut, where his own boots had worn the grass flat on the ninth and the tenth and every day since the letter, and Wystan and Yinzhi walked in his track behind him. The dead lay along the east side under the birch where Tally had found them. They lay down on their legs, folded, as a hind lies down to chew, and along each spine and flank the grey-green mass stood up out of the hide in soft fibrous ridges, gone pale at the crowns. The eyes were whole. Nothing had been at them. There was a smell, faint and sweetish, with no rot in it. Wystan did not count them. Tally had.
+He walked them the line in the last of the light. He went up the middle of the cut, where his own boots had worn the grass flat on the ninth and the tenth and every day since the letter, and Wystan and Yinzhi walked in his track behind him. The dead lay along the east side under the birch where Tally had found them. They lay down on their legs, folded, as a hind lies down to chew, and along each spine and flank the gray-green mass stood up out of the hide in soft fibrous ridges, gone pale at the crowns. The eyes were whole. Nothing had been at them. There was a smell, faint and sweetish, with no rot in it. Wystan did not count them. Tally had.
 
 "That's her," Tally said, at the north end. "Last one."
 
 A hind, lying toward the stone. Tally stood at her head and turned and walked north, and counted his paces aloud in a flat voice as he went. "... twenty. Twenty-one. Twenty-two." He stopped with his toe against the stone.
 
-It stood to Wystan's hip, a squared block of grey grit leaning a little out of true toward the west, furred with yellow lichen on the north face and bare on the south. Its top had been dressed flat once and cut across with a single straight groove, the kind a surveyor sights along. Wystan put two fingers on the top edge, on the arris where the dressing met the side, and held them there. Stone, cold, grit under the lichen. It had carried nothing that he could feel, and he had not thought it would.
+It stood to Wystan's hip, a squared block of gray grit leaning a little out of true toward the west, furred with yellow lichen on the north face and bare on the south. Its top had been dressed flat once and cut across with a single straight groove, the kind a surveyor sights along. Wystan put two fingers on the top edge, on the arris where the dressing met the side, and held them there. Stone, cold, grit under the lichen. It had carried nothing that he could feel, and he had not thought it would.
 
 The letters were on the south face, low down. Tally held the lantern for him. The weather had taken most of them back into the stone, and what it had left stood proud only where the rain did not run. He read them the way he read any hand, first for the cutter and then for the words. *TERM*, and the rest of a word the chancery still used, and under it the estate's name cut shallower, by somebody else, later. Below that was a line that might once have been a year. The weather had had it.
 
@@ -172,13 +172,13 @@ It lay just inside the birch on the east side, on the estate's round. The round 
 
 He went over it again, and there were more of them under the first. The breaks lay over one another on the same line, at the same stride, and their clocks did not agree. The newest were weeks old. Under them lay older, and under those older again, and he could not get to the bottom of them. None went on past the place where they stopped, or followed the round where it bent west along the bound. Nothing of his came near the stone.
 
-He held that, and went through it again from the beginning, and again. The second division. The third. His vision began to go grey at the edges when he blinked, and come back slow. The fourth, and the fifth. Across the rise the fire had sunk to embers. One of them slept.
+He held that, and went through it again from the beginning, and again. The second division. The third. His vision began to go gray at the edges when he blinked, and come back slow. The fourth, and the fifth. Across the rise the fire had sunk to embers. One of them slept.
 
 The sixth division came, and nothing came back with it. Eight divisions. He had counted every one. There was no main out here to return. He stood in the cut with his hands shaking and heard the whole of the country be quiet around him, the burn and the birch and a wren somewhere, and nothing under any of it.
 
 He said, "Come across."
 
-They came round the stone, Yinzhi first, her coat buttoned to the throat and her face grey with the night. Tally stopped a pace behind her and did not come nearer the dead than he had to.
+They came round the stone, Yinzhi first, her coat buttoned to the throat and her face gray with the night. Tally stopped a pace behind her and did not come nearer the dead than he had to.
 
 "Somebody came up from the south," Wystan said. His voice came out low and rough and he waited for it and went on. "Along the estate's round. Through the birch. He stopped short of the stone, well short, and stood a while, and went back the way he came. On foot. Not a horse, not a cart. At a walking pace, not hurried. And more than once."
 
@@ -206,11 +206,11 @@ Nobody had set the marker for this. It had been there since before the roll, and
 
 He turned to look at the birch, and the ground went away from under him.
 
-It did not go far. The grey came in from the edges of his eyes all at once and the cut tipped, and his knee was on the grass and his hand was on the stone, flat, on the cold grit, before he knew he had put it there. His heart was going fast and thin. He stayed where he was and let it come back. Yinzhi had him by the upper arm.
+It did not go far. The gray came in from the edges of his eyes all at once and the cut tipped, and his knee was on the grass and his hand was on the stone, flat, on the cold grit, before he knew he had put it there. His heart was going fast and thin. He stayed where he was and let it come back. Yinzhi had him by the upper arm.
 
 "Legs," Tally said. "You've stood all night. Blood goes to the feet. Put your head down."
 
-He put his head down. After a while the grey went back to the edges and stayed there.
+He put his head down. After a while the gray went back to the edges and stayed there.
 
 He took his hand off the stone. He had not held it by the edge. He looked at his palm, at the grit pressed into it and a smear of yellow lichen, and found nothing there but stone. Then he sat back against the south face, over the letters, and both calves cramped at once, and he waited that out too.
 

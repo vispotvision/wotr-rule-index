@@ -4,7 +4,7 @@ title: "Sancta Lux"
 
 # Sancta Lux
 
-*The Hand That Casts Judgement · Standing, the Oracle, the Works, the Host*
+*The Hand That Casts Judgment · Standing, the Oracle, the Works, the Host*
 > *A scale is not adored. A scale is consulted. The man who kneels to a measure has already agreed to be lied to.*
 >
 > — opening clause, the Catechism of Equal Breath
@@ -25,7 +25,7 @@ Common mortal usage renders that reference as **the Judger.** Every Attestant is
 |---|---|
 | **Reference** | Urion, Archon of Balance. **Judicaris**, the Order Magic of measured force and lawful arbitration |
 | **Titanic Ground** | Dazkar, the Arbiter of Purganeth, from whose law the Archonic principle descends |
-| **Common Names** | The Hand That Casts Judgement · The Gravel of Judger · The Scale |
+| **Common Names** | The Hand That Casts Judgment · The Gravel of Judger · The Scale |
 
 ---
 
@@ -66,7 +66,7 @@ Darius has never corrected the record. Three Accord tribunals have put the quest
 Every authored structure in existence emits an **architectural spectrum**: an oath, a working, a Domain, a lie, a killing, a marriage, a treaty. Judicium reads that spectrum. **Reading it means nothing on its own.** A spectrum is only information when compared against something that does not drift — and the whole problem of judgment across four worlds and sixty Wellsprings is that **everything drifts. Every mortal standard bends toward the hand that holds it.**
 > **The Oracle is the thing that does not bend.** On filings it is written **Sel-Ur**, from the root glyphs of Measure and Balance. The Measurewrights who work in front of it call it **the Unmoved Measure** when they are being precise and **the Old Woman** when they are not.
 >
-> It occupies the whole of the **Hall of Equal Breath**: a low, warm, flame-lit room with no windows, a floor of unpolished grey stone, and two standing lamps at the far ends — one burning gold, one burning azure — held in a fixed rotational relation **that has not varied by a measurable degree in nine hundred years.**
+> It occupies the whole of the **Hall of Equal Breath**: a low, warm, flame-lit room with no windows, a floor of unpolished gray stone, and two standing lamps at the far ends — one burning gold, one burning azure — held in a fixed rotational relation **that has not varied by a measurable degree in nine hundred years.**
 >
 > Between the lamps hangs the assembly itself, which is not a statue and not a machine, **and which nobody who has stood in front of it describes the same way twice.**
 A Measurewright brings a reading into the Hall. **The Oracle returns weight.** It does not return guilt, corruption, alignment, or intent. It returns mass — and a Lector converts that mass into a finding, and an Arbiter converts the finding into a sentence, **and somebody in plate carries the sentence out into the world and kills a person with it.**
@@ -87,21 +87,21 @@ A Measurewright brings a reading into the Hall. **The Oracle returns weight.** I
 
 The Oracle returns weight **in a grammar.** Sancta Lux expected that grammar to be one word wide.
 
-Balance is the order's whole subject. Urion is the Balancer, the Scale is the instrument, Baransu no Shigoto is the labour of measure and proportion, and a body founded on a single Archonic principle reasonably expects its instrument to speak in that principle and no other.
+Balance is the order's whole subject. Urion is the Balancer, the Scale is the instrument, Baransu no Shigoto is the labor of measure and proportion, and a body founded on a single Archonic principle reasonably expects its instrument to speak in that principle and no other.
 > What Sel-Ur actually returns is a reading **sorted into seven categories**, and Balance is only one of them. The others are **Ruin, Purity, Spirit, Temporality, Knowledge, and Totality.**
 >
 > **Those are the Works.**
-Hametsu no Gō, which clears what must end. The labour of Purity, which establishes what must remain. Spirit, which governs passage between states of being. Jikan no Shigoto, which arranges sequence. Knowledge, which reveals what a thing is. Balance, which reconciles.
+Hametsu no Gō, which clears what must end. The labor of Purity, which establishes what must remain. Spirit, which governs passage between states of being. Jikan no Shigoto, which arranges sequence. Knowledge, which reveals what a thing is. Balance, which reconciles.
 
 And **Zentai-sei no Hataraki**, the Work of Totality, which gathers all of them into one architecture — which the Oracle invokes **roughly once in nine thousand readings**, and which **every Measurewright who has ever seen it invoked has requested reassignment within the year.**
 
 ### Epsilon's conclusion
 
-Epsilon catalogued the pattern across three centuries of readings and reached the conclusion the order has been managing ever since. **The Works predate Archonic personhood.** Bara authored them inside the Plane of Fate before chronology existed, and the Archons rose later as sovereign crowned expressions of meanings the Works already held in their barest operative form.
-> **Urion is not the floor.** Urion is one crowned idea standing on a labour older than his name, and Sancta Lux's instrument reads the whole floor **because the floor is what the instrument was calibrated against** — and the order has been calling the floor by the name of one of its tiles for eleven hundred years.
+Epsilon catalogd the pattern across three centuries of readings and reached the conclusion the order has been managing ever since. **The Works predate Archonic personhood.** Bara authored them inside the Plane of Fate before chronology existed, and the Archons rose later as sovereign crowned expressions of meanings the Works already held in their barest operative form.
+> **Urion is not the floor.** Urion is one crowned idea standing on a labor older than his name, and Sancta Lux's instrument reads the whole floor **because the floor is what the instrument was calibrated against** — and the order has been calling the floor by the name of one of its tiles for eleven hundred years.
 The finding is sealed. Internally it is called **the Seventh Objection**, after the seventh grammatical category the Oracle returns and the order does not teach. **Standing above Lector is required to know it exists. Standing at the Sealed Standard is required to read it.**
 
-Its practical consequence is that Sancta Lux is **the only mortal institution in the four worlds with a continuous empirical record of Hataraki operating** — and it has spent three centuries suppressing that record, because publishing it would concede that six equally primordial labours exist over which the order holds no authority at all, **and that its own authority is derivative, inherited, and one tile wide.**
+Its practical consequence is that Sancta Lux is **the only mortal institution in the four worlds with a continuous empirical record of Hataraki operating** — and it has spent three centuries suppressing that record, because publishing it would concede that six equally primordial labors exist over which the order holds no authority at all, **and that its own authority is derivative, inherited, and one tile wide.**
 
 *Darius has read the Seventh Objection. He is one of three living holders of the Sealed Standard. What he has decided to do about it is the thing his own record notes he has chosen and told nobody — and which he believes will justify a fifth fracture in a Soul Crystal that will not survive one.*
 
@@ -155,7 +155,7 @@ Rank inside Sancta Lux **does not describe command.** It describes what a member
 
 **The work Sancta Lux does was not originally mortal work.** Verdicts were spoken by Celestials Sung out of the Lawbell for the purpose, in a Choir structure that predates every mortal institution now claiming jurisdiction over anything.
 
-A Celestial carries **Vow-Light** as a substrate of its Aether: a heavy, warm-pressure radiance under which spoken falsehood becomes physically effortful — a labouring breath, a tightening throat, a headache that scales with the size of the untruth. **It does not detect a lie. It makes lying cost something**, reliably, in every mortal and every tongue, **without examination, without a Ladder, and without the possibility of an Arbiter having a bad morning.**
+A Celestial carries **Vow-Light** as a substrate of its Aether: a heavy, warm-pressure radiance under which spoken falsehood becomes physically effortful — a laboring breath, a tightening throat, a headache that scales with the size of the untruth. **It does not detect a lie. It makes lying cost something**, reliably, in every mortal and every tongue, **without examination, without a Ladder, and without the possibility of an Arbiter having a bad morning.**
 
 Then Malakar cracked the Lawbell, Grand Angel Faisal went to kneel under its weight at the edge of creation, the Host went from thousands to credible sightings in the low dozens across seven centuries, and no Celestial has been confirmed Sung since.
 > What is left of the apparatus that used to hold the world's oaths is **a mortal order with a procedure manual.**
@@ -180,7 +180,7 @@ The order's standing interest in reaching him, in every claim to have heard Fais
 
 **Working set** · `[Krn]` Crown · `[IrW]` Will · `[Ar]` Accord · `[Edt]` Edict · `[Flm]` Judic Flame · `[Ed]` Edgetruth · `[Exile]` Exile
 
-**Arts** · Spirit Sealing, Spirit Rune, Spirit Summoning, Sage. The Glyphs of **Absolution, Veridiction and Judgement** are the order's three examined workings, **and no member advances past Measurewright without all three.**
+**Arts** · Spirit Sealing, Spirit Rune, Spirit Summoning, Sage. The Glyphs of **Absolution, Veridiction and Judgment** are the order's three examined workings, **and no member advances past Measurewright without all three.**
 
 **Manifesti** · Judica, Dictum, Decretum, Censure, Mandatum. **Expunction** is held under the Verdiction Codex and has been lawfully invoked **four times in eleven centuries** — once in living memory, in the **Trial of the Echoless**, against its own.
 > **Mirror trials.** The accuser is read against the same reference as the accused, in the same session, in front of the same lamps.
@@ -231,10 +231,10 @@ A permanent legation sits at the Concord Citadel, staffed at Arbiter grade, adja
 Sancta Lux **holds no long-standing alliance outside Accord membership and has never sought one**, on the doctrinal ground that **an ally is a party you have agreed in advance not to weigh.**
 
 Its relationship with the secular Accord guilds is *procedurally correct and personally poisonous.* Free-magic cultures regard it as a zealot body, **which is unfair**, and as an unaccountable one, **which is not.** The elven kingdoms tolerate the Eresse hold on sufferance and audit it annually. **Vaelen Mourcrix** and Darius maintain a professional relationship best described as adversarial affection: *Vaelen weighs, Darius executes, and neither approves of the other's half of the work.*
-> **The Gravel of Judger**, in the mouths of the people it has ruled against. **The Hand That Casts Judgement**, in the mouths of the faithful, *who are numerous and who have almost all of the theology wrong.* Among the Ember Magistrates' circuit towns the order has a third name that appears in no filing and that its officers pretend not to have heard: **the Weighing Men.**
+> **The Gravel of Judger**, in the mouths of the people it has ruled against. **The Hand That Casts Judgment**, in the mouths of the faithful, *who are numerous and who have almost all of the theology wrong.* Among the Ember Magistrates' circuit towns the order has a third name that appears in no filing and that its officers pretend not to have heard: **the Weighing Men.**
 >
 > **Nobody in four worlds has ever accused Sancta Lux of taking a bribe. Everyone in four worlds has an opinion about what it did instead.**
 
 ---
 
-*First appearance: WOTR Volume II, Chronicles of Exiles, Chapter 12, "Judgement Day."*
+*First appearance: WOTR Volume II, Chronicles of Exiles, Chapter 12, "Judgment Day."*

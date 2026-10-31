@@ -71,7 +71,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Concentration** · A shaped charge's jet runs at 8 to 10 km/s and its tip pressure exceeds any material's strength; the total energy is ordinary, the concentration is the weapon.
 
-**Spall** · Armour is far weaker in tension than compression, so the rear face throws fragments into whatever is behind it while the front stays whole; a breastplate can come off a corpse undamaged.
+**Spall** · Armor is far weaker in tension than compression, so the rear face throws fragments into whatever is behind it while the front stays whole; a breastplate can come off a corpse undamaged.
 
 **Energy** · Truly stored, not drawn: seven sealed chambers under standing compression, charged over a career and vented one at a time. The Iron Tree is a battery; nearly every other working is a switch.
 
@@ -104,13 +104,13 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 ### Mechanism
 
-**Glyph** · Boundary (Zhaeren) for the seal, laid under Edge (Thalen) for the single opened vent; both Roots, since no Wellspring owns the ordinary behaviour of a pressurised body.
+**Glyph** · Boundary (Zhaeren) for the seal, laid under Edge (Thalen) for the single opened vent; both Roots, since no Wellspring owns the ordinary behavior of a pressurised body.
 
 **Boundary** · The number of open outlets moves from zero to one, at one place, for an instant.
 
 **Effect** · A fist or shoulder with no wind-up lands at a distance thought safe; the plate stays whole and what is behind it stops being a load-bearing structure. A wall stands while the room behind it falls; stone splits along its own grain.
 
-**Branches** · Iron Fist (Tetsu no Kobushi) caves armour and ruptures organs; Iron Kick (Keri) breaks knees and ground; Iron Elbow (Hiji) and Iron Head (Atama) at close range; Iron Knee (Hiza) against the grabbed; Iron Shoulder (Kata) breaks formations and gates; Iron Step (Ho) forces the ground.
+**Branches** · Iron Fist (Tetsu no Kobushi) caves armor and ruptures organs; Iron Kick (Keri) breaks knees and ground; Iron Elbow (Hiji) and Iron Head (Atama) at close range; Iron Knee (Hiza) against the grabbed; Iron Shoulder (Kata) breaks formations and gates; Iron Step (Ho) forces the ground.
 
 **Apex** · Black-Heart Bison Break (Kokushin Gyūha): one sealed chamber into one contact point, entering the target instead of spreading. The Sevenfold Seal (Nanatsu no Fūin) closes the whole vessel.
 
@@ -137,7 +137,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 | Reserve covers, apex | 90% ÷ 8.0% | 11, about a dozen |
 | Reserve covers, branches / Seals | 90% ÷ 9.7% to 90% ÷ 3.0%; 90% ÷ 15.2% | 9 to 29; 5.9 |
 
-**Cost** · Three to ten percent of full reserve per branch, eight on the apex, fifteen on the Seal, and every attack costs the bearer his armour until recompression.
+**Cost** · Three to ten percent of full reserve per branch, eight on the apex, fifteen on the Seal, and every attack costs the bearer his armor until recompression.
 
 **Duration** · Each vent is an instant inside one six-second turn; recompression runs on the seal's schedule and cannot be hurried.
 

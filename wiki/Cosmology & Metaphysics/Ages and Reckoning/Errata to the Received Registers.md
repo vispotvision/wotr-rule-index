@@ -18,7 +18,7 @@ The Concordance withdrew the received chronology. It did not, and could not, wit
 
 The Archives requested a full recension, meaning that every affected register be reissued in corrected form. The Guild declined, for two reasons and one of them is not administrative convenience.
 > **The first reason is that a recension destroys the evidence.** A charter written in the old count is a record of what its signatories believed, and a bloodline claim written against a date that no longer exists is still a claim, still binding on its parties, and still the only surviving proof that the claim was made. Reissuing it silently corrected would leave the Accord holding a shelf of documents that all agree with each other and none of which anyone has read.
-**The second reason is that the conversion is mechanical.** Where a superseded register gives a date in the old count, the correction is a substitution and not a judgement, and a reader who has this instrument in hand can perform it without consulting the Guild. Six substitutions cover the whole corpus.
+**The second reason is that the conversion is mechanical.** Where a superseded register gives a date in the old count, the correction is a substitution and not a judgment, and a reader who has this instrument in hand can perform it without consulting the Guild. Six substitutions cover the whole corpus.
 
 ---
 
@@ -67,7 +67,7 @@ The Guild has surveyed the principal holdings and records the following as confo
 
 **Bloodline and Path registers** · See Section II. None cite an Age.
 
-**Wellspring registers** · The sixty Wellsprings are described by law and behaviour rather than by date. Where a Wellspring register gives an era of discovery, it is giving the era in which somebody wrote it down, which is a fact about scribes.
+**Wellspring registers** · The sixty Wellsprings are described by law and behavior rather than by date. Where a Wellspring register gives an era of discovery, it is giving the era in which somebody wrote it down, which is a fact about scribes.
 
 **Technique and glyph registers** · Unaffected. A glyph combination has no date.
 

@@ -12,7 +12,7 @@ A Relic-grade Domain Anchor and ritual tool: a sacred hand drum of hollowed iron
 
 ### Physical account
 
-Mass ~2.2 kg (hollowed ironwood body plus stretched hide; not stated on the card, conservative estimate). Diameter ~35 cm, depth ~18 cm, played standing or seated, one-handed or with a beater. Not a weapon or armour — the armour-tier field does not apply.
+Mass ~2.2 kg (hollowed ironwood body plus stretched hide; not stated on the card, conservative estimate). Diameter ~35 cm, depth ~18 cm, played standing or seated, one-handed or with a beater. Not a weapon or armor — the armor-tier field does not apply.
 
 ### Operation line
 

@@ -32,7 +32,7 @@ The historical pattern is exact and should run in full. Purveyance produced abus
 
 **Cost next season:** the tallies. A tally is a promise, the Crown has issued thousands, and the day they are presented is a day the Crown chooses between paying and being seen not to.
 
-### 2. Labour-debt and meat-sharing
+### 2. Labor-debt and meat-sharing
 
 The customary instruments, unwritten, enormously powerful, and **unenforceable against a man who simply refuses.** The Seat can call on them, and the calling works because refusing is socially ruinous rather than illegal.
 

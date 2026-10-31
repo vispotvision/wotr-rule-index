@@ -24,7 +24,7 @@ title: "Kami no Kobushi — The God Fist"
 | **Fixatio** | Pins the opponent's structural failure at its exact point of origin, preventing recovery |
 | **Coagulatio** | Loads the descent with collapse-weight rather than mass-weight; the blow falls like an ending, not a hit |
 | **Cataclysm** | Accelerates the deterioration already present in the target's ward, body, or Essence structure |
-| **Fractura** | Identifies and widens pre-existing fracture lines in material, metaphysical, or soul-based defences |
+| **Fractura** | Identifies and widens pre-existing fracture lines in material, metaphysical, or soul-based defenses |
 | **Nihiloth** | Strips the opponent's resistance of its sense that resistance is meaningful |
 
 The Ruin Fist does not create destruction. It finds destruction that was already coming and makes it arrive on schedule. Where other strikers try to break a thing from the outside, a Hōkai practitioner reads the structural rot already present in their opponent and plants their heel on top of it. **The blow does not shatter the wall. It locates the wall's oldest crack and declares that crack the verdict.**
@@ -109,9 +109,9 @@ The Sequence Fist does not move faster than its opponents. **It moves more corre
 
 **Type** · Disclosure-Fixator · *Anchor what a thing truly is and strike the truth of it.*
 
-**Wellsprings** · **Fixatio** pins the opponent's revealed true form, preventing re-concealment once named · **Judicium** ranks the hidden structures, which defences are real, which borrowed, which bluff · **Luminalis** illuminates the Essence signature, making false layers visible as distinct from authentic ones · **Eidolyn** reads the shape of memory and identity underneath the surface presentation · **Aurevane** applies revealed truth as structural pressure.
+**Wellsprings** · **Fixatio** pins the opponent's revealed true form, preventing re-concealment once named · **Judicium** ranks the hidden structures, which defenses are real, which borrowed, which bluff · **Luminalis** illuminates the Essence signature, making false layers visible as distinct from authentic ones · **Eidolyn** reads the shape of memory and identity underneath the surface presentation · **Aurevane** applies revealed truth as structural pressure.
 > The Revelation Fist does not strike the body the opponent presents. It strikes the body the opponent *actually is* underneath every ward, every bluff, every borrowed Wellspring. **Knowledge is not preparation for the strike. It is the strike.**
-**Core principle** · What is correctly named cannot hide from what it owes — the more precisely the practitioner has named the opponent's true form, function, and debt, the harder the blow that follows the naming. Defences are only real if they are native; Luminalis distinguishes what belongs to the opponent from what was borrowed, bought, or stolen, and the blow lands on the gap between them. And the opponent's history is their most honest architecture: the practitioner is not fighting who is standing in front of them, **they are fighting the sum of every choice that produced that person.**
+**Core principle** · What is correctly named cannot hide from what it owes — the more precisely the practitioner has named the opponent's true form, function, and debt, the harder the blow that follows the naming. Defenses are only real if they are native; Luminalis distinguishes what belongs to the opponent from what was borrowed, bought, or stolen, and the blow lands on the gap between them. And the opponent's history is their most honest architecture: the practitioner is not fighting who is standing in front of them, **they are fighting the sum of every choice that produced that person.**
 - ****In practice****
   Against a warrior concealing their true Wellspring alignment, Luminalis strips the surface signature, Judicium ranks which layer is genuine, and the blow is delivered against the genuine layer, bypassing the concealment entirely.
 
@@ -128,11 +128,11 @@ The Sequence Fist does not move faster than its opponents. **It moves more corre
 
 **Type** · Reconciliation-Fixator · *Anchor the point where two forces cancel, then strike from it.*
 
-**Wellsprings** · **Fixatio** seats the practitioner at the exact fulcrum between two opposing forces, so displacement requires defeating both simultaneously · **Coagulatio** gathers opposing forces into one bound mass before release · **Manganthra** reads which force in any exchange is overextended and which is starved · **Thalor** applies binding tension between opposites, making the gap between them a usable surface · **Basilithe** establishes the ground beneath as the settled centre of any contested field.
+**Wellsprings** · **Fixatio** seats the practitioner at the exact fulcrum between two opposing forces, so displacement requires defeating both simultaneously · **Coagulatio** gathers opposing forces into one bound mass before release · **Manganthra** reads which force in any exchange is overextended and which is starved · **Thalor** applies binding tension between opposites, making the gap between them a usable surface · **Basilithe** establishes the ground beneath as the settled center of any contested field.
 
-The Scales Fist finds the point in every fight where two forces are pulling against each other and plants there. The practitioner becomes the fulcrum. They do not push one side or the other; they strike from the centre at the moment of maximum tension, when both forces are fully committed and neither can correct. **It is the art of letting your enemies' forces load your fist for you.**
+The Scales Fist finds the point in every fight where two forces are pulling against each other and plants there. The practitioner becomes the fulcrum. They do not push one side or the other; they strike from the center at the moment of maximum tension, when both forces are fully committed and neither can correct. **It is the art of letting your enemies' forces load your fist for you.**
 
-**Core principle** · Every conflict has a centre of gravity, and Fixatio seats on the centre, not the edge. Opposition is leverage: Thalor binds the tension between competing forces and holds it available as potential energy, and Coagulatio collapses that potential into the descent at the moment of maximum strain. **The fulcrum cannot be moved by either side, because moving it would require agreeing on which force has lawful authority — and at the centre, neither does.**
+**Core principle** · Every conflict has a center of gravity, and Fixatio seats on the center, not the edge. Opposition is leverage: Thalor binds the tension between competing forces and holds it available as potential energy, and Coagulatio collapses that potential into the descent at the moment of maximum strain. **The fulcrum cannot be moved by either side, because moving it would require agreeing on which force has lawful authority — and at the center, neither does.**
 - ****In practice****
   Against a two-fighter coordinated assault, the practitioner plants between them. Both attacks arrive and find the practitioner occupying the exact geometric point where their force vectors cancel. Thalor binds that cancellation and Coagulatio repurposes it as a single outward verdict.
 
@@ -150,10 +150,10 @@ The Scales Fist finds the point in every fight where two forces are pulling agai
 **Type** · Sovereign-Fixator · *Anchor all six Works simultaneously and let the Plane itself deliver the verdict.*
 
 **Wellsprings** · **Fixatio** is the unifying spine, seating the practitioner as a load-bearing coordinate of the Plane itself · **Monolithion** ratifies the blow as a sovereign sentence drawing from all subordinate Works at once · **Coagulatio** gathers the cumulative mass of every active Work-layer into the single descent · **Judicium** governs the judicial integration of all six prior doctrines into one ranked, irrefutable verdict · **Materia Primordia** calls on the precondition of all reality's coherence to ratify the blow as a law that predates the opponent.
-> The Total Fist is **not a seventh style.** It is what happens when a practitioner has so thoroughly internalized all six prior doctrines that they no longer choose between them. All six Works run simultaneously, each performing its labour in the same instant, and the resulting blow is not a martial technique but a statement of fact delivered by fate itself.
+> The Total Fist is **not a seventh style.** It is what happens when a practitioner has so thoroughly internalized all six prior doctrines that they no longer choose between them. All six Works run simultaneously, each performing its labor in the same instant, and the resulting blow is not a martial technique but a statement of fact delivered by fate itself.
 >
 > **It cannot be taught as a first discipline. It can only be arrived at.**
-**Core principle** · Every prior doctrine is a prerequisite, not a component. The Total Fist does not mix the six styles; it requires the practitioner to have *already become* each of them, so that when Zentai fires, all six are native rather than layered. The Plane does not amplify the practitioner — the practitioner becomes sufficient infrastructure that the Plane extends *through* them the way it extends through Gimbzo, not as a tool but as a continuation of its own labour. And Materia Primordia does not grant power from outside; it ratifies what the practitioner has already established as lawful, **calling on the oldest layer of reality's grammar to confirm that this blow was always going to land.**
+**Core principle** · Every prior doctrine is a prerequisite, not a component. The Total Fist does not mix the six styles; it requires the practitioner to have *already become* each of them, so that when Zentai fires, all six are native rather than layered. The Plane does not amplify the practitioner — the practitioner becomes sufficient infrastructure that the Plane extends *through* them the way it extends through Gimbzo, not as a tool but as a continuation of its own labor. And Materia Primordia does not grant power from outside; it ratifies what the practitioner has already established as lawful, **calling on the oldest layer of reality's grammar to confirm that this blow was always going to land.**
 
 ### In practice
 
@@ -170,7 +170,7 @@ Every counter that exists for the individual six doctrines fails against it, bec
 
 ### The deepest temptation
 
-The Total Fist carries a temptation that is not of any single Work's excess, but of **completeness itself**. A practitioner who has touched all seven doctrines and felt the Plane extend through them may begin to believe that *staying* in that coordinate is the purpose, not the cost. That the labour is to remain, permanently, as infrastructure. That returning to the world is a lesser thing than holding the Plane's floor forever.
+The Total Fist carries a temptation that is not of any single Work's excess, but of **completeness itself**. A practitioner who has touched all seven doctrines and felt the Plane extend through them may begin to believe that *staying* in that coordinate is the purpose, not the cost. That the labor is to remain, permanently, as infrastructure. That returning to the world is a lesser thing than holding the Plane's floor forever.
 
 Gimbzo is the proof that this is not delusion. **It is simply the direction the Work points, if you follow it far enough.**
 > Lawful Totality integrates and returns.

@@ -4,7 +4,7 @@ title: "X. The Tier Ladders (Part Twenty-Four)"
 
 # X. The Tier Ladders (Part Twenty-Four)
 
-> Every ladder in the Continuum (the whole fabric of reality) hangs on one spine: peak output in joules, read to a Grade (a letter rank of output, Hollow up to EX+), read to a rung from one to nine. The Essence Ledger sets the spine. This Part names the rungs for each kind of thing that can be measured on it (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armour) and says what each ladder adds that a joule figure does not show. A rung is a fact anyone can look up. What it means in the room is for whoever is standing in it to work out.
+> Every ladder in the Continuum (the whole fabric of reality) hangs on one spine: peak output in joules, read to a Grade (a letter rank of output, Hollow up to EX+), read to a rung from one to nine. The Essence Ledger sets the spine. This Part names the rungs for each kind of thing that can be measured on it (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armor) and says what each ladder adds that a joule figure does not show. A rung is a fact anyone can look up. What it means in the room is for whoever is standing in it to work out.
 
 ## The Bestiary ladder
 
@@ -32,7 +32,7 @@ One EU is one megajoule, so the EU column is the joule ceiling divided by a mill
 
 **Hearth-pest.** Below fifteen kilojoules. Its hardest blow is a man's or a dog's. A door holds against it, a householder with a spade answers it, and it is dangerous by being where somebody is rather than by what it does when it arrives. Vermin, the single walking corpse, the trickster in the hedge.
 
-**Field-bane.** Up to twenty-one megajoules, Wall level at the ceiling. It kills stock, breaks a fence, stoves in a door, puts a horse and rider down in one exchange. The great natural predators live here: the Greater Wolf's run, the lion's charge, the griffon's dive, a grown Droval's pounce across thirty metres. A Field-bane costs a fraction of an EU at the floor and twenty at the top.
+**Field-bane.** Up to twenty-one megajoules, Wall level at the ceiling. It kills stock, breaks a fence, stoves in a door, puts a horse and rider down in one exchange. The great natural predators live here: the Greater Wolf's run, the lion's charge, the griffon's dive, a grown Droval's pounce across thirty meters. A Field-bane costs a fraction of an EU at the floor and twenty at the top.
 
 **Road-bane.** Up to a gigajoule. It closes a road: overturns a wagon, breaks a gate, capsizes a boat, brings down a bridge span or a small house. This is the Cyclops's wall-breaking blow, the Goliath's stomp, a hellhound's breath across a camp. Its hardest working costs between 21 and 1,046 EU.
 
@@ -52,7 +52,7 @@ One EU is one megajoule, so the EU column is the joule ceiling divided by a mill
 
 The spine gives every ladder its own modifiers. The Bestiary's are three, and each lifts the rung by **one**. A creature's **standing** is its output rung plus the modifiers it holds: never more than three above its output, never past nine.
 
-**Reach.** Its harm lands beyond the ground a party can hold. Lightning at three kilometres, a song across open water, a hunt that runs across realms on an Essence signature, harm that outlasts the creature's presence: a storm curse on a valley, ground frozen metres deep after the Titan has gone, currents altered for a season. A creature with reach cannot be answered by standing still and holding a line, because the line is inside its range.
+**Reach.** Its harm lands beyond the ground a party can hold. Lightning at three kilometres, a song across open water, a hunt that runs across realms on an Essence signature, harm that outlasts the creature's presence: a storm curse on a valley, ground frozen meters deep after the Titan has gone, currents altered for a season. A creature with reach cannot be answered by standing still and holding a line, because the line is inside its range.
 
 **Persistence.** It is hard to kill. It regenerates, returns, stores its life somewhere other than its body, or keeps fighting through wounds that end a body: the hydra's heads, the phoenix's ashes, the lich's phylactery, the Goliath's stoneform. **Hard to hit does not lift the rung.** A thing that phases, teleports, flies or vanishes into snow lengthens the fight and does not raise its ceiling; the first blow that lands on it lands on its rung. The Ledger prices what lands, not what misses.
 
@@ -82,7 +82,7 @@ The Commission's Danger Tiers stand exactly as the Accord issues them.
 
 **A Commission Tier is not a Grade.** A Threat Tier names the practitioner rank a Commission requires: T4 means the Accord sends Adepts, T7 means it sends Grandmasters under a Gold Sigil and nobody engages lawfully without one. A Grade is a joule band. A Tier of Standing is a set of Grades. So the Commission's T is a figure for the answer, and the Ledger's rung is a figure for the thing, and **the Ledger's standing, output plus modifiers, is the Ledger's figure for the same question the Commission asks.** Where the Commission weighs the same three things the Ledger weighs, the two agree, and across most of the register they do.
 
-**The Leviathan and the Kraken show why a T cannot simply be a Grade.** Both are T9, and neither eats worlds. The Leviathan's hardest working is a surge that shatters a coast, on the order of 10¹⁴ joules, March-bane. What carries it three rungs higher is that it reaches (a maelstrom that pulls fleets under and currents altered for a season), it persists (hundreds of metres of abyss-black plate and a gaze that severs the soul's tether before the body is touched), and it is tied (a living anchor of an abyssal Wellspring on a plane boundary). The Kraken is the same arithmetic on a smaller surge. **A T9 beast is a March-bane holding all three.** An EX+ Grade would be something else entirely, and the register has none.
+**The Leviathan and the Kraken show why a T cannot simply be a Grade.** Both are T9, and neither eats worlds. The Leviathan's hardest working is a surge that shatters a coast, on the order of 10¹⁴ joules, March-bane. What carries it three rungs higher is that it reaches (a maelstrom that pulls fleets under and currents altered for a season), it persists (hundreds of meters of abyss-black plate and a gaze that severs the soul's tether before the body is touched), and it is tied (a living anchor of an abyssal Wellspring on a plane boundary). The Kraken is the same arithmetic on a smaller surge. **A T9 beast is a March-bane holding all three.** An EX+ Grade would be something else entirely, and the register has none.
 
 **T1 is empty because nobody files it.** A Hearth-pest is a householder's matter. The rat in the grain store and the fox at the hens are T1 on the Commission's scale and no Guild Hall has ever opened a Commission for one, so the register asks its eleven questions of nothing there. The rung exists; the paperwork does not.
 
@@ -159,7 +159,7 @@ Output is the creature's hardest recorded working, by order of magnitude. **R** 
 
 ## What the rung tells a hunter
 
-The output rung is what you must be able to survive: armour, ward and Grade are chosen against it, and one Grade above a creature's output wins the exchange the way it wins any exchange. The modifiers tell you where and how to fight. **Persistence** means bring the thing that ends it (fire for the hydra's stumps, the phylactery before the lich, the ashes before the phoenix rises), and a creature that is only hard to hit needs patience, noise and mirrors, not a higher rank. **Reach** means close the distance or leave its ground, and Raga is the one entry where closing is the mistake. **The tie** is the best counter in the register: draw the thing off its Wellspring, deny it the site, or fight it where the vein is thin, and every rung the tie gave it is gone. And **where the Commission's tier sits above the Ledger's standing**, the Commission is pricing a pack, a rider, a place or a death. Break the pack, unseat the rider, change the ground, or refuse the death, and you are fighting the creature the Ledger describes.
+The output rung is what you must be able to survive: armor, ward and Grade are chosen against it, and one Grade above a creature's output wins the exchange the way it wins any exchange. The modifiers tell you where and how to fight. **Persistence** means bring the thing that ends it (fire for the hydra's stumps, the phylactery before the lich, the ashes before the phoenix rises), and a creature that is only hard to hit needs patience, noise and mirrors, not a higher rank. **Reach** means close the distance or leave its ground, and Raga is the one entry where closing is the mistake. **The tie** is the best counter in the register: draw the thing off its Wellspring, deny it the site, or fight it where the vein is thin, and every rung the tie gave it is gone. And **where the Commission's tier sits above the Ledger's standing**, the Commission is pricing a pack, a rider, a place or a death. Break the pack, unseat the rider, change the ground, or refuse the death, and you are fighting the creature the Ledger describes.
 
 ## The Drafts ladder
 
@@ -236,12 +236,12 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 | Work | Index rank | Class / Fid. / Carry | held per dose | rung by energy | modifier | **rung** |
 |---|---|---|---|---|---|---|
-| **Pressure Burst Capsule** | T6 | II / — / — | 10 – 100 J: ambient pressure times a void of a tenth of a litre to a litre | Tincture | none | **Tincture** |
+| **Pressure Burst Capsule** | T6 | II / — / — | 10 – 100 J: ambient pressure times a void of a tenth of a liter to a liter | Tincture | none | **Tincture** |
 | **Cutwater Tincture** | T1 | III / C / 8 | about 10³ J, 0.001 EU: small vessels closed, no tissue knit | Tincture | Fidelity C: ceiling, not promise | **Tincture** |
 | **Grace Fall Draught** | T3 | III / — / — | a few kJ per fall held; about 0.005 EU for one fall | Tincture | none; three falls in one window cross into Tonic, and that is the failure | **Tincture** |
 | **Wick-Salt** | T1 | II / B / 3 | about 2 × 10⁴ J, 0.02 EU: a small flame for four minutes | Tonic | none | **Tonic** |
 | **Metering Tonic** | T2 | II / B / 6 | 0.5 – 5 EU: a Welling Shell tightened for six to nine hours | Tonic | none | **Tonic** |
-| **Thundercrack Grenade** | T5 | II / — / — | about 1 EU, 10⁶ J: eardrums ruptured within four metres, mortar failed in tension | Tonic | none | **Tonic** |
+| **Thundercrack Grenade** | T5 | II / — / — | about 1 EU, 10⁶ J: eardrums ruptured within four meters, mortar failed in tension | Tonic | none | **Tonic** |
 | **Deadlight Phial** | T3 | II / B / 7 | about 2 EU: a few watts of cold light for two hundred hours | Tonic | none | **Tonic** |
 | **Hillcarry Salts** | T3 | II / A / 12 | 100 – 600 EU per ration dose | Draught | none | **Draught** |
 | **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty millilitres, spent cycling a Stage V Core toward a second Wellspring bond | Draught | none | **Draught** |
@@ -434,7 +434,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **How the joules held are read.** A Domain is paid for as a rate, and the Ledger turns a rate into a quantity over its own unit of time, the six-second turn. **The joules held are the maintenance draw across one turn, delivered through the holder's η: draw in EU/s × 6 × η × one megajoule.** A Domain expression paid per activation rather than per second is read at its activation cost through the same η. A Domain spent whole, detonated or collapsed on purpose, is read at what the spending cost, and stands on its own row beside the held one.
 
-**Density is the tell.** Joules held ÷ the area of the disc the radius draws, π r², gives the charge on each square metre of held ground, in J/m². It does not move the rung. It is what an opponent standing at the edge can estimate, and it is the figure a collapse is felt in.
+**Density is the tell.** Joules held ÷ the area of the disc the radius draws, π r², gives the charge on each square meter of held ground, in J/m². It does not move the rung. It is what an opponent standing at the edge can estimate, and it is the figure a collapse is felt in.
 
 ## The nine rungs
 
@@ -462,7 +462,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Burgh.** A town's weight of law held at once. At this rung a Domain begins reshaping the environment it stands in rather than merely existing within it, and the Continuum must accommodate it.
 
-**Dukedom.** A small country's weight held standing. **Domain law at this rung can override the local behaviour of a Wellspring**, which is why a Wellspring Core, the seventh rung of the sites ladder, is the first ground a Dukedom meets as an equal.
+**Dukedom.** A small country's weight held standing. **Domain law at this rung can override the local behavior of a Wellspring**, which is why a Wellspring Core, the seventh rung of the sites ladder, is the first ground a Dukedom meets as an equal.
 
 **Globe.** Country to Large Planet, held. The Domain produces Archon-echo effects and the ground it covers carries the holder's doctrine after the holder has gone.
 
@@ -503,7 +503,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **The four held Domains stand on the third and fourth rungs, and the one spent whole stands a rung above them.** A Holdfast detonated is a Precinct for one instant, and that is the whole difference between keeping a Domain and using it.
 
-**Recorded by reach, not placed.** These Domains carry a radius and no draw the ladder can read: the Open Crucible, 40 m and past active maintenance; the Adamant Forge, anchored to the Forge complex; the Sounding, fifty kilometres at η 0.89; the Forge of Endurance, 3.2 km and 8 km in Overdrive; the Verdict Domain, a fifty-kilometre law field; the Ember Sanctum, thirty kilometres of pressure radius around a smaller Realm; an influence of one to two kilometres under full Emanation; a Domain-Precursor at up to three kilometres; two Domains of sixty and fifty metres; the Settled Domain of ten; the Waiting Room of about twenty; a seed extended to 120 metres through the Crook of Turned Seasons; the Garden of Still Snow at twelve, the Cinder Court at thirty-five, the Origin Court at eight; the Null, whose radius is environmental; and the Hall of Shattered Mirrors, the Quiet Hour and the Kōkan Totality Domain, which carry no figure at all. **Each has a rung, and the rung waits on its draw.**
+**Recorded by reach, not placed.** These Domains carry a radius and no draw the ladder can read: the Open Crucible, 40 m and past active maintenance; the Adamant Forge, anchored to the Forge complex; the Sounding, fifty kilometres at η 0.89; the Forge of Endurance, 3.2 km and 8 km in Overdrive; the Verdict Domain, a fifty-kilometre law field; the Ember Sanctum, thirty kilometres of pressure radius around a smaller Realm; an influence of one to two kilometres under full Emanation; a Domain-Precursor at up to three kilometres; two Domains of sixty and fifty meters; the Settled Domain of ten; the Waiting Room of about twenty; a seed extended to 120 meters through the Crook of Turned Seasons; the Garden of Still Snow at twelve, the Cinder Court at thirty-five, the Origin Court at eight; the Null, whose radius is environmental; and the Hall of Shattered Mirrors, the Quiet Hour and the Kōkan Totality Domain, which carry no figure at all. **Each has a rung, and the rung waits on its draw.**
 
 ## Counterplay
 
@@ -513,7 +513,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Sites, on the spine.** A Wellspring is not a place, but it pools: a current concentrates where the substrate conducts, where no competing current draws on it, and where time has let it saturate the field until the ground expresses the law on its own. A site is that pool, and a vein is the channel that feeds it. **A site is placed by hazard: the output a practitioner must be able to command to keep their own law inside the site at its worst ground.** That figure is read in joules like every other peak, the row it lands in is the rung, and the rung says how strong you must be to stand there and remain yourself.
 
-**Why hazard is read this way.** A site does not strike. It retunes. Harmonization is phase-locking, and a current strong enough to phase-lock a Shell against its bearer's will is a current the bearer's own output has failed to hold off. So the ladder asks the question the survey asks, from the other side: what Grade of output holds a Crystal's own architecture against this current. The density scale answers it in words, and the spine answers it in joules. **The two meet at one fixed point: Domain law at SSS can override the local behaviour of a Wellspring, and a Wellspring Core is the ground where the Wellspring's law is the only law operating. A Core therefore stands on SSS, the seventh rung, and the density scale is laid down the spine from there.**
+**Why hazard is read this way.** A site does not strike. It retunes. Harmonization is phase-locking, and a current strong enough to phase-lock a Shell against its bearer's will is a current the bearer's own output has failed to hold off. So the ladder asks the question the survey asks, from the other side: what Grade of output holds a Crystal's own architecture against this current. The density scale answers it in words, and the spine answers it in joules. **The two meet at one fixed point: Domain law at SSS can override the local behavior of a Wellspring, and a Wellspring Core is the ground where the Wellspring's law is the only law operating. A Core therefore stands on SSS, the seventh rung, and the density scale is laid down the spine from there.**
 
 ## The nine rungs
 
@@ -587,9 +587,9 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **The rung tells an opponent how strong they must be to fight on this ground and still be the one fighting.** A Millrace is survivable for an afternoon and not for a season; a Whirlpool gives a Spirit-type onset no warning at all; a Fountainhead rewrites anyone below its rung who stays. The type says which sense to trust on the way in, and the perimeter is marked from outside: **withdrawal is not retreat, and a fight drawn onto ground a rung above one side's Grade is half won before it starts.** Which side that is depends on who read the site first.
 
-## The Weapons and armour ladder
+## The Weapons and armor ladder
 
-**Weapons and armour, on the spine.** Plain arms in the four quarters are Bearing-grade material with no Essence in them, and they perform as their physics; cheap runed pieces are nearly as common, and the great pieces are old and rare. The ladder reads the ones that carry a working, and it reads them the way the spine reads everything: in joules. **A weapon is placed by the hit it delivers: the attack output of the working in it, at the Grade of whoever put the Essence there. A piece of armour, a ward or a shield is placed by what it stops: the attack output band of the strongest strike it holds against.** The joules find the row, and the row is the rung.
+**Weapons and armor, on the spine.** Plain arms in the four quarters are Bearing-grade material with no Essence in them, and they perform as their physics; cheap runed pieces are nearly as common, and the great pieces are old and rare. The ladder reads the ones that carry a working, and it reads them the way the spine reads everything: in joules. **A weapon is placed by the hit it delivers: the attack output of the working in it, at the Grade of whoever put the Essence there. A piece of armor, a ward or a shield is placed by what it stops: the attack output band of the strongest strike it holds against.** The joules find the row, and the row is the rung.
 
 **Whose Grade.** An enhanced weapon performs no higher than the Grade of whoever put the Essence into it. Channelled through the weapon in the moment, that is the wielder's Grade; enchanted, glyphed or worked beforehand, it is the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand. **A weapon's rung travels with its maker's work and not with its current owner, except where the working is channelled, and then it travels with the hand.**
 
@@ -599,7 +599,7 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 
 **The Bearing and Holding grades say what the material is.** Bearing is its physical work: what it stops, carries and survives as steel, stone or hide. Holding is its Essence work: what working it can carry and for how long. Every material has both, they run independently, and the material's tier, T0 to T9, is where the Master Material Ledger enters it.
 
-**The item Tier says what the object may hold, and the rung says what it does.** An item Tier is the lower of what its material can hold and the Tier of Standing its maker stood at, and material tier n holds a working up to item Tier n, level with Tier of Standing n. So the material tier is the rung's ceiling for any standing working: **a weapon or armour placed above its material's tier is a working the material cannot carry, and the material fails first.** A plain item with no working in it has no Tier and no rung; its Bearing is the whole of it.
+**The item Tier says what the object may hold, and the rung says what it does.** An item Tier is the lower of what its material can hold and the Tier of Standing its maker stood at, and material tier n holds a working up to item Tier n, level with Tier of Standing n. So the material tier is the rung's ceiling for any standing working: **a weapon or armor placed above its material's tier is a working the material cannot carry, and the material fails first.** A plain item with no working in it has no Tier and no rung; its Bearing is the whole of it.
 
 **The stamp and the rung read the same Grades.** The Accord's stamp is read off the Grade it holds; the rung is read off the spine. They agree everywhere except where one stamp covers two rungs or two stamps share one:
 
@@ -651,31 +651,31 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 
 ## The modifiers
 
-**Proof: the armour's rung is a promise.** Armour at rung n stops a strike at rung n and below. **A strike one rung above the proof breaks it; a strike two rungs above passes as if it were not there.** The proof-mark names the house, the test and the charge, and a proof is a promise about a specific charge made by a workshop that may no longer exist.
+**Proof: the armor's rung is a promise.** Armor at rung n stops a strike at rung n and below. **A strike one rung above the proof breaks it; a strike two rungs above passes as if it were not there.** The proof-mark names the house, the test and the charge, and a proof is a promise about a specific charge made by a workshop that may no longer exist.
 
 **Two dials: speed and the hit.** A working on a projectile moves its speed, its hit, or both. Speed tops out at the enhancer's Attack Speed and the hit at the enhancer's Attack output band; the rung reads the hit. **An enhanced round is dodged at its actual velocity, not at its rung.**
 
-**Standing or spent.** A standing working on a blade lasts until it is broken, read or unmade and costs its maker a tenth of their reserve once; proofed armour a quarter, and it lasts until struck two rungs above its proof; an enhanced round or arrow a hundredth, and it is consumed when fired. **The rung is what one piece does; the price says how many pieces a maker can put in the field.** A lone practitioner can equip themselves; it takes a workshop of them to arm a host with cheap runed pieces, and no workshop now living makes the great ones.
+**Standing or spent.** A standing working on a blade lasts until it is broken, read or unmade and costs its maker a tenth of their reserve once; proofed armor a quarter, and it lasts until struck two rungs above its proof; an enhanced round or arrow a hundredth, and it is consumed when fired. **The rung is what one piece does; the price says how many pieces a maker can put in the field.** A lone practitioner can equip themselves; it takes a workshop of them to arm a host with cheap runed pieces, and no workshop now living makes the great ones.
 
 **Material ceiling.** The material tier caps the rung for a standing working. **A piece whose recorded hit or discharge reads above its material's tier is placed at the hit, and its material is where it fails.**
 
-**Off the proof.** A few pieces deliver something that is not a joule figure: a strike that unthreads what it touches regardless of proofed Grade, dissolution applied past the Shell to the Crystal. **Such a piece is placed at its ceiling, and no proof on the ladder answers it.** Its answer is never the armour.
+**Off the proof.** A few pieces deliver something that is not a joule figure: a strike that unthreads what it touches regardless of proofed Grade, dissolution applied past the Shell to the Crystal. **Such a piece is placed at its ceiling, and no proof on the ladder answers it.** Its answer is never the armor.
 
 ## Placement
 
 | Piece | kind | figure read | joules or Grade | material or stamp | **rung** |
 |---|---|---|---|---|---|
-| **Slyvine's Scarf** | relic, a rope or a weak shield | Proofed, Grade D | 1.5 × 10⁴ – 2.1 × 10⁷ J | T2 or above | **Linepiece**, as armour |
-| **Mkono wa Miti** | grown-in bracer, light natural armour | stops shot, blunt strikes and edges to the E-to-D band; fails against proofed shot | up to D | living bark | **Linepiece**, as armour |
+| **Slyvine's Scarf** | relic, a rope or a weak shield | Proofed, Grade D | 1.5 × 10⁴ – 2.1 × 10⁷ J | T2 or above | **Linepiece**, as armor |
+| **Mkono wa Miti** | grown-in bracer, light natural armor | stops shot, blunt strikes and edges to the E-to-D band; fails against proofed shot | up to D | living bark | **Linepiece**, as armor |
 | **Upanga wa Misimu Minne** | blade | cuts at its bearer's Ardency, 190, B; beats proofed plate through C | 1.046 – 46 GJ | greensteel | **Siegepiece** |
 | **Verdiction Gauntlet** | gauntlet, stored discharge | Ardency 268, B; 1 to 5 GN | 1.046 – 46 GJ | — | **Siegepiece** |
-| **Kogane Kei** | blade, channelled | its bearer's Ardency, 395, A; fails against S-Grade defences | 46 GJ – 4.2 TJ | — | **Fieldwinner** |
+| **Kogane Kei** | blade, channelled | its bearer's Ardency, 395, A; fails against S-Grade defenses | 46 GJ – 4.2 TJ | — | **Fieldwinner** |
 | **Kurosetsu Reforged** | longsword | A-Grade Strike Force at full delivery | 46 GJ – 4.2 TJ | Aethersteel, effective T5 | **Fieldwinner**; material and hit agree |
-| **The Monochrome Helm** | helm, combat relic | Tier A | 46 GJ – 4.2 TJ | — | **Fieldwinner**, as armour |
+| **The Monochrome Helm** | helm, combat relic | Tier A | 46 GJ – 4.2 TJ | — | **Fieldwinner**, as armor |
 | **Amaranth Severance** | estoc, soulbound | a bonded wielder's output, A to S; beats proofed plate through A, fails against SS | A to S | blood-glass steel | **Fieldwinner** in an A-Grade hand, **Kingsarm** in an S-Grade one |
 | **Ur-Maul** | forge-hammer | made by its bearer at Stage X, Tier of Standing 6 | ceiling S–SS | — | **Kingsarm**, ceiling by maker |
 | **The Crook of Turned Seasons** | crook | T6, Arcane-Resistant | ceiling S–SS | T6 | **Kingsarm**, ceiling by material |
-| **The Arctic Lion** | sovereign armour | Glacium, T5; the Verdict Aegis discharges 14,180,000,000 EU at η 0.91 | proof to A; the Aegis 1.29 × 10¹⁶ J, SSS | Glacium T5, brittle | **Fieldwinner** as armour; the Aegis reads **Landbreaker**, above its Glacium |
+| **The Arctic Lion** | sovereign armor | Glacium, T5; the Verdict Aegis discharges 14,180,000,000 EU at η 0.91 | proof to A; the Aegis 1.29 × 10¹⁶ J, SSS | Glacium T5, brittle | **Fieldwinner** as armor; the Aegis reads **Landbreaker**, above its Glacium |
 | **The Mourning Regalia**, the Ketsumei Construct | sabers, threads, veil-shields and gauntlets shaped from claimed Essence | 64,360,000,000 EU at η 0.94 | 6.05 × 10¹⁶ J, SSS | none: shaped, not forged | **Landbreaker** |
 | **The Index** | Null-Devour conductor | T9, Null-Forged; strikes bypass Aetheric shielding | ceiling EX+ | T9 | **Unmaker**, ceiling by material; off the proof |
 
@@ -683,4 +683,4 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 
 ## Counterplay
 
-**The rung tells an opponent what the piece can do and, just as plainly, what it cannot.** A weapon's rung is its maker's ceiling or its wielder's, and the piece says which: a channelled blade is answered by the hand, a made one by its proof, and a relic in a stranger's grip still hits at its maker's Grade. Armour tells its own limit on its mark: **one rung above the proof breaks it, and two go through it as if it were not there.** Every enhancement radiates its working's signature, and a Harmonist reads the rung without touching the piece. The seam, the joint and the material's failure are where the answer lives; which one is the fight's business.
+**The rung tells an opponent what the piece can do and, just as plainly, what it cannot.** A weapon's rung is its maker's ceiling or its wielder's, and the piece says which: a channelled blade is answered by the hand, a made one by its proof, and a relic in a stranger's grip still hits at its maker's Grade. Armor tells its own limit on its mark: **one rung above the proof breaks it, and two go through it as if it were not there.** Every enhancement radiates its working's signature, and a Harmonist reads the rung without touching the piece. The seam, the joint and the material's failure are where the answer lives; which one is the fight's business.

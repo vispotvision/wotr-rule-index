@@ -61,7 +61,7 @@ Descended from the ancient **Clawbound Accord** formed during the Watcher's Ecli
 
 **The Clawbound Trial** · A rite in which the young practitioner must shadow-walk through territory their clan elder has anchored with Tenebra-resonance. Not a test of speed — **a test of whether the practitioner can read the shadow-map the elder has written and follow it without detection.** Both emerge with a permanent bond marker in their Harmonics architecture. *The bond is always mutual; the elder accepts a burden too.*
 
-**The Emotional Covenant** · Before significant action, Catkin formally acknowledge the reservoir they are bringing to the event. Not a spiritual ritual. **More like inventory.** The warrior stands still, catalogues what they are carrying emotionally, and decides consciously whether the reservoir is ready or should be managed first. **They are the only known culture to treat pre-combat emotional assessment as a formal discipline.**
+**The Emotional Covenant** · Before significant action, Catkin formally acknowledge the reservoir they are bringing to the event. Not a spiritual ritual. **More like inventory.** The warrior stands still, catalogs what they are carrying emotionally, and decides consciously whether the reservoir is ready or should be managed first. **They are the only known culture to treat pre-combat emotional assessment as a formal discipline.**
 
 **Settlements** · Shadowed Ridge · the Dusk Quarter of Altherion · Nightveil Hollow. *Characterized by being difficult to locate from the outside and immediately obvious to navigate once inside — built around the shadow map residents carry rather than around visible landmarks.*
 

@@ -23,7 +23,7 @@ A celestial dragon stretched horizon to horizon, scales an aurora of gold and bl
 
 ### The Load
 
-Essence Circulation between realms, performed through the act of aspiration. To breathe, in this cosmology, is to briefly echo Omnis. He carries light down into matter and teaches it to rise, and he is neither kind nor cruel about who manages it. His creed is motion. Those who stagnate fall out of his favour and those who rise past reason burn.
+Essence Circulation between realms, performed through the act of aspiration. To breathe, in this cosmology, is to briefly echo Omnis. He carries light down into matter and teaches it to rise, and he is neither kind nor cruel about who manages it. His creed is motion. Those who stagnate fall out of his favor and those who rise past reason burn.
 
 ### The Record
 
@@ -41,7 +41,7 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 
 **Effect**  Exhales a ribbon of purifying plasma that burns Essence impurity out of everything in its path and reawakens dormant Wellsprings under the cone. Corruption in the swept area burns away cleanly. Healthy tissue and healthy Essence pass through it untouched, which is what distinguishes it from ordinary flame and what makes the first witness assume it has failed.
 
-**Measure**  Burn radius and duration scale with lung capacity and Stage. Typical is a four to six metre cone lasting under two seconds.
+**Measure**  Burn radius and duration scale with lung capacity and Stage. Typical is a four to six meter cone lasting under two seconds.
 
 **Cost**  The caster's own respiratory system takes the first pass of the purification. Raw throat, reduced stamina, hours of it.
 
@@ -86,7 +86,7 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 **Trigger**  The dying practitioner's active, willing consent. The transfer cannot be forced, and a coerced consent registers as refusal.
 
-**Effect**  Transfers an incomplete Temperance path or a dying Trait directly into a successor vessel, the way a bloodline's lost art resurfaces three generations later. The successor experiences the inheritance as sudden procedural memory, knowing how without ever having practised, and the knowing arrives whole rather than in pieces.
+**Effect**  Transfers an incomplete Temperance path or a dying Trait directly into a successor vessel, the way a bloodline's lost art resurfaces three generations later. The successor experiences the inheritance as sudden procedural memory, knowing how without ever having practiced, and the knowing arrives whole rather than in pieces.
 
 **Measure**  Transfer completes within the dying practitioner's final minutes. The successor's own Temperance Stage shifts by up to two Stages immediately.
 
@@ -113,7 +113,7 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 ### Manifestation
 
-A colossal armoured figure of radiant obsidian, face behind a mirrored helm. From his chest hang scales suspended on chains of light, one pan holding eternal flame and the other eternal shadow. His voice is not heard but felt, a vibration that shakes the soul into confession. Purganeth mirrors him. Endless halls of reflective obsidian where souls walk alone and their steps echo their truths back at them.
+A colossal armored figure of radiant obsidian, face behind a mirrored helm. From his chest hang scales suspended on chains of light, one pan holding eternal flame and the other eternal shadow. His voice is not heard but felt, a vibration that shakes the soul into confession. Purganeth mirrors him. Endless halls of reflective obsidian where souls walk alone and their steps echo their truths back at them.
 
 ### The Load
 
@@ -160,7 +160,7 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 
 ### Manifestation
 
-A shifting figure of iridescent mist, body composed of translucent wings and mirrored glass, movement rippling through colours that have no name. Her face changes with every dreamer who perceives her. Behind her veil, countless eyes open and close in silent rhythm. Virelion is a boundless field of drifting islands suspended in dreamlight where every thought births a temporary landscape. Mortals who encounter her wake changed, their Wellspring harmonics altered by the contact and their dreams laced afterward with impossible geometries.
+A shifting figure of iridescent mist, body composed of translucent wings and mirrored glass, movement rippling through colors that have no name. Her face changes with every dreamer who perceives her. Behind her veil, countless eyes open and close in silent rhythm. Virelion is a boundless field of drifting islands suspended in dreamlight where every thought births a temporary landscape. Mortals who encounter her wake changed, their Wellspring harmonics altered by the contact and their dreams laced afterward with impossible geometries.
 
 ### The Load
 
@@ -180,7 +180,7 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 **Trigger**  The caster must first have witnessed the target's genuine unguarded self-image. A performed one will not serve, and the working can tell the difference even when the caster cannot.
 
-**Effect**  Opens the Somnum Flow directly and lets the caster reshape a target's self-image at the root, redefining what they believe themselves to be and therefore what they are capable of becoming. The target's behaviour, confidence and capability shift to match the new image. The change is real rather than cosmetic, which is precisely the problem with it.
+**Effect**  Opens the Somnum Flow directly and lets the caster reshape a target's self-image at the root, redefining what they believe themselves to be and therefore what they are capable of becoming. The target's behavior, confidence and capability shift to match the new image. The change is real rather than cosmetic, which is precisely the problem with it.
 
 **Measure**  Reshaping takes effect gradually over days, consistent with genuine belief change rather than instant compulsion.
 
@@ -207,7 +207,7 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 ### Manifestation
 
-A tall spectral mariner wrapped in flowing grey bands resembling smoke and silk. Where his face should be, a void ripples with faint constellations. In his hand rests the Oar of Echo, carved from petrified starlight, and each stroke across the river releases a chord that guides souls onward. Those who glimpse him report overwhelming calm, as though the concept of fear had been temporarily excised rather than overcome.
+A tall spectral mariner wrapped in flowing gray bands resembling smoke and silk. Where his face should be, a void ripples with faint constellations. In his hand rests the Oar of Echo, carved from petrified starlight, and each stroke across the river releases a chord that guides souls onward. Those who glimpse him report overwhelming calm, as though the concept of fear had been temporarily excised rather than overcome.
 
 ### The Load
 
@@ -254,7 +254,7 @@ Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch.
 
 ### Manifestation
 
-A tower of smoke-wreathed armour, hollow at the core, the inner cavity lined with thousands of faintly glowing eyes. Every movement sheds spectral insects that speak in whispers. Colour fades where he passes and sound dampens, and the soul reflexively lowers its own Essence pressure to avoid being noticed. To see him fully is to experience the Ilgrimmic Reflex, the immediate involuntary recognition of one's deepest secret.
+A tower of smoke-wreathed armor, hollow at the core, the inner cavity lined with thousands of faintly glowing eyes. Every movement sheds spectral insects that speak in whispers. Color fades where he passes and sound dampens, and the soul reflexively lowers its own Essence pressure to avoid being noticed. To see him fully is to experience the Ilgrimmic Reflex, the immediate involuntary recognition of one's deepest secret.
 
 ### The Load
 

@@ -8,7 +8,7 @@ title: "Seraphic Thread Blessing"
 
 ### Summary card
 
-**Effect** · A shimmering thread drawn from the Plane of Fate binds shut an ally's wound and resolve, within 15 metres, restoring Essence flow to something closer to its clean state and steadying the ally's next two acts of will.
+**Effect** · A shimmering thread drawn from the Plane of Fate binds shut an ally's wound and resolve, within 15 meters, restoring Essence flow to something closer to its clean state and steadying the ally's next two acts of will.
 
 **Cost** · The caster feels a trace of the wound they just closed; a mild, lingering emotional drain that fades once the ally's Crystal has stabilised.
 
@@ -62,7 +62,7 @@ No inventor, house or period is recorded; it stands as a general Codex technique
 
 ### Metaphysics
 
-**Aether** · A small draw across 15 m; Vitalia is favoured by living biomass, temperate air and blood, Fulguria by dry air and clear sight. A battlefield is better ground than a cold, clean infirmary.
+**Aether** · A small draw across 15 m; Vitalia is favored by living biomass, temperate air and blood, Fulguria by dry air and clear sight. A battlefield is better ground than a cold, clean infirmary.
 
 **Residue** · A fading filament in the air, and in the patient an oath-shaped bond whose affinity the Continuum can read: a healed man carries a record of who healed him, and the caster the reciprocal trace.
 

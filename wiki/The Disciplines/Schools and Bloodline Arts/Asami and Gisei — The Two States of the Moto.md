@@ -82,7 +82,7 @@ The True Nature and the cultivated self reach equilibrium rather than alternatin
 
 **Asami is not free. Nothing that honest ever is.**
 
-The trained identity acts as armour as much as purpose. It mediates between True Nature and world; it translates the raw self into acceptable, deployable, legible form. **Asami removes the translation.** Every wound the function was quietly managing. Every grief the labour was quietly carrying. Every love and fury and desire the Work kept organised and directed toward correct application. **None of it is organised in Asami. It is there, undeniable, the way a first thought is undeniable before the second thought arrives to correct it.**
+The trained identity acts as armor as much as purpose. It mediates between True Nature and world; it translates the raw self into acceptable, deployable, legible form. **Asami removes the translation.** Every wound the function was quietly managing. Every grief the labor was quietly carrying. Every love and fury and desire the Work kept organised and directed toward correct application. **None of it is organised in Asami. It is there, undeniable, the way a first thought is undeniable before the second thought arrives to correct it.**
 > **The greatest danger is not what Asami does to opponents. It is what it does to the practitioner afterward.**
 >
 > Returning to the functional self — picking the cultivated identity back up, re-engaging the Fate Ledger, resuming the Work after having been, even briefly, entirely themselves — is described uniformly as one of the hardest things any Moto has ever done. **Not because the state is addictive. Because returning to anything less feels like deliberate diminishment.**
@@ -177,7 +177,7 @@ The memories are gone. The bonds are gone. The Traits are gone. The Shingan may 
 The terminal practitioner wanders. **They fight when something crosses their path because fighting is the only context in which the power they purchased has a use.** They are kind to strangers because kindness costs nothing and they have learned the price of everything. **They cannot go home because they cannot remember where home was, and they cannot build a new one because the Attraction Layer architecture that forms bonds has been spent and cannot reform.**
 > They are, in the most precise sense of the word, **a sacrifice. Not a person who made a sacrifice. A sacrifice that used to be a person.**
 >
-> *The Plane of Fate does not fear the Asami state. It recognises it. It fears the practitioner who learned to trade in their own bones. Not because the trade is unjust. Because the Plane must honour it, and what the Plane honours, it cannot return.*
+> *The Plane of Fate does not fear the Asami state. It recognises it. It fears the practitioner who learned to trade in their own bones. Not because the trade is unjust. Because the Plane must honor it, and what the Plane honors, it cannot return.*
 >
 > — First Conclave fragment, heavily damaged, date uncertain
 
@@ -185,7 +185,7 @@ The terminal practitioner wanders. **They fight when something crosses their pat
 
 ## Archival Note
 
-Catalogued as **Moto-origin states rather than disciplines.** Asami is accessible to any soul meeting the depth and authenticity threshold and is **not Moto-exclusive.** Gisei requires prior Asami achievement and runs on the same Oblation mechanism as Moetana, **trading identity rather than lifespan.**
+Catalogd as **Moto-origin states rather than disciplines.** Asami is accessible to any soul meeting the depth and authenticity threshold and is **not Moto-exclusive.** Gisei requires prior Asami achievement and runs on the same Oblation mechanism as Moetana, **trading identity rather than lifespan.**
 > The two costs are not interchangeable. **Moetana's practitioner dies younger. Gisei's practitioner dies less complete.**
 >
 > **Three answers to one question: what does a soul do when it has found what it truly is?**

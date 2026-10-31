@@ -30,7 +30,7 @@ Wen Talley's Primary Trait is heat: a forge-boy who once held a burning rafter o
 
 ## What it all costs
 
-Reserve spent is gone until it is drawn back by rest, by the ground, at a Wellspring, or from a fight Draft. A card writes a working's drain as how long it could run from a full reserve. As the reserve falls, the body shows it: at half, the breath shortens and the aura dims; at a quarter, a tremor and a thinning colour; below a tenth the practitioner starves, the aura flickers and the Trait stutters. Pushing past the Crystal's safe ceiling cracks it, and cracks that build up become permanent. Beyond reserve there is money, the oath sworn at the gate, and, in a Draft bought from the wrong source, someone else's convictions mixed into your own. *Read next: [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], then [[The Magic System/Power in Use/Counterplay What Beats a Practitioner|Counterplay: What Beats a Practitioner]].*
+Reserve spent is gone until it is drawn back by rest, by the ground, at a Wellspring, or from a fight Draft. A card writes a working's drain as how long it could run from a full reserve. As the reserve falls, the body shows it: at half, the breath shortens and the aura dims; at a quarter, a tremor and a thinning color; below a tenth the practitioner starves, the aura flickers and the Trait stutters. Pushing past the Crystal's safe ceiling cracks it, and cracks that build up become permanent. Beyond reserve there is money, the oath sworn at the gate, and, in a Draft bought from the wrong source, someone else's convictions mixed into your own. *Read next: [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], then [[The Magic System/Power in Use/Counterplay What Beats a Practitioner|Counterplay: What Beats a Practitioner]].*
 
 ## Stages, Levels and Grades
 
@@ -56,7 +56,7 @@ Cheap runed gear is everywhere; the great pieces are old and cannot be made agai
 
 ## Auras and Pressure
 
-Every practitioner's aura shows in their own colour: the hue of their Family (the branch of physics their power works: Caloria ember-orange for heat, Fulguria arc-blue for lightning, and six more) at the clarity of their Stage, brightening as they push. Pressure (the weight a stronger soul puts on a room) is felt first in the room, then in bodies: one Stage up bends attention, two brings sweat and nausea, three drops people where they stand. *Read next: [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]].*
+Every practitioner's aura shows in their own color: the hue of their Family (the branch of physics their power works: Caloria ember-orange for heat, Fulguria arc-blue for lightning, and six more) at the clarity of their Stage, brightening as they push. Pressure (the weight a stronger soul puts on a room) is felt first in the room, then in bodies: one Stage up bends attention, two brings sweat and nausea, three drops people where they stand. *Read next: [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]].*
 
 ## Releases and Domains
 

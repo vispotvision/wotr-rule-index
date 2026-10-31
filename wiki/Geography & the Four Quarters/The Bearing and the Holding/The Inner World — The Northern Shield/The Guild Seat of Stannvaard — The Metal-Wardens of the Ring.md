@@ -40,7 +40,7 @@ Among them is **Altherion**, the multiracial republic whose River Crown Council 
 > The ore seams follow the faults, **which means the richest deposits are concentrated along the crater walls rather than the basin floor.**
 >
 > *Which is why the Dawi built their cities into the walls rather than on them. The metal is in the cliffs, and the Dawi followed it.*
-**Climate inside the Ring is warmer** than the surrounding shield, from residual geothermal activity and the thermal mass of the walls. **The air carries the taste of sulphur, hot metal, and the specific dry-mineral smell of stone that has been heated and cooled thousands of times.**
+**Climate inside the Ring is warmer** than the surrounding shield, from residual geothermal activity and the thermal mass of the walls. **The air carries the taste of sulfur, hot metal, and the specific dry-mineral smell of stone that has been heated and cooled thousands of times.**
 
 **Altherion** sits on the northern rim at the junction of the three principal roads. *It was not planned. It accreted the way frontier settlements always accrete: merchants needed a place to sleep, the place needed a market, the market needed law, and by the time anyone decided to write a charter the city was already there.*
 > What makes it different is that **the charter it eventually received was drafted by every race that lived there, at the same table** — and the table's design, **round, without a head, one chair per delegation and no chair larger than another**, is still in the River Crown Council's chamber and is still used.
@@ -50,7 +50,7 @@ Among them is **Altherion**, the multiracial republic whose River Crown Council 
 ## Origin · Three Histories That Became One
 
 **The Ore** · A High Dawi prospecting expedition assessed the crater and sent word to the deep halls that **the richest mineral deposit in the northern quarter was sitting in an open crater on the surface, unguarded, unmined, and waiting for someone with a forge hot enough to work it.** The halls sent smiths. The smiths brought families. The families became guilds. **The guilds became a kingdom** — *not by intention but by the accumulated weight of people who stayed because the work was there, and who discovered over generations that a community organised around a forge has already solved most of the problems governments are designed to solve.*
-> **Thane-Gorr's** forges burn continuously, fed by Wellspring-heated furnaces that hold temperatures no fuel achieves and hold them steady for days. The glow is visible from the rim at night, **a dull orange pulse against the crater walls** that travellers use as a navigation reference **and that poets have been comparing to a heartbeat for centuries because the comparison is accurate and nobody has found a better one.**
+> **Thane-Gorr's** forges burn continuously, fed by Wellspring-heated furnaces that hold temperatures no fuel achieves and hold them steady for days. The glow is visible from the rim at night, **a dull orange pulse against the crater walls** that travelers use as a navigation reference **and that poets have been comparing to a heartbeat for centuries because the comparison is accurate and nobody has found a better one.**
 **The Republic** · The Dawi offered to govern the incoming population under guild law. **The non-Dawi declined, on the reasonable ground that guild law was designed for guilds and that most of them were not guild members.** The compromise was the founding charter: a multiracial republic, the **Essence Resource Sharing Act** preventing any body from monopolising Wellspring access, and the **Trade Equality Act** preventing any race or guild from monopolising extraction or trade.
 > *The charter was, in essence, a promise that Altherion's governance would measure every community the same way — which is why Sancta Lux eventually chose it as a home.*
 >
@@ -70,11 +70,11 @@ Among them is **Altherion**, the multiracial republic whose River Crown Council 
 |---|---|---|
 | **Thane-Gorr** *the forge capital* | Seat of the Ore Council. Seven levels connected by shaft-lifts, chain-bridges and tunnels **that follow the ore seams through the crater wall.** The lowest levels reach the base of the impact melt sheet. *A small Tinker Goblin engineering quarter maintains the mechanical infrastructure and has been petitioning for a guild seat for two centuries with increasing volume and decreasing patience* | ~12,000 |
 | **The Upper Ring** *extraction districts* | Four smaller crater cities on the eastern, western and northern walls. **Production facilities first and settlements second**, their civic life organised around the guild shifts that determine when people work, eat and sleep | ~15,000 |
-| **Altherion** *the republic on the rim* | Governs itself under its own charter. The Ore Council has never attempted to override its constitutional provisions — partly because they do not conflict with authority over extraction, **and partly because Altherion's population includes the labour force that moves the product after it leaves the forge, and the Ore Council is not foolish enough to antagonise them.** *Not the kingdom's capital — Thane-Gorr is — but it is the kingdom's face, and the face belongs to a multiracial republic that happens to sit on top of a Dawi forge-state that happens to host the most powerful judicial body in four worlds* | ~22,000 |
+| **Altherion** *the republic on the rim* | Governs itself under its own charter. The Ore Council has never attempted to override its constitutional provisions — partly because they do not conflict with authority over extraction, **and partly because Altherion's population includes the labor force that moves the product after it leaves the forge, and the Ore Council is not foolish enough to antagonise them.** *Not the kingdom's capital — Thane-Gorr is — but it is the kingdom's face, and the face belongs to a multiracial republic that happens to sit on top of a Dawi forge-state that happens to host the most powerful judicial body in four worlds* | ~22,000 |
 | **The Rimlands** *surrounding territory* | Roads, way-stations, timber and the agriculture feeding the crater population. Governed by a warden appointed **jointly** by both Councils — *a jurisdictional compromise that satisfies neither body and functions because neither body has proposed a better arrangement* | ~12,000 |
 | **The Corridor Holdings** *trade route territory* | Administered by the Transport Guild. Utilitarian governance: road maintenance, way-station operation, escort coordination. **A transient population with the specific character of people who live on roads rather than in cities** | ~6,000 |
 | **The Deep Reach** *below the basin floor* | Under a Council-appointed Steward rather than a guild warden, **because the territory's Wellspring sensitivity and its proximity to the Deepkin-occupied zones require governance more cautious than standard guild administration can provide.** *The Deepkin maintain a significant presence and an advisory role the surface Dawi consider necessary and slightly unnerving — because the Deepkin know things about what lies beneath the Ring that nobody else knows and have declined to share in full* | ~3,000 |
-| **The Ember Magistrates' Circuit** *not geographic* | The permanent travelling court riding between communities too small or distant to bring cases to the Grand Church. **Operates under Sancta Lux authority and crosses Stannvaard's borders into neighbouring kingdoms** — *a jurisdictional overlap the Ore Council manages by pretending it does not exist and Sancta Lux manages by filing paperwork the Ore Council has never read* | ~40,000 served |
+| **The Ember Magistrates' Circuit** *not geographic* | The permanent traveling court riding between communities too small or distant to bring cases to the Grand Church. **Operates under Sancta Lux authority and crosses Stannvaard's borders into neighboring kingdoms** — *a jurisdictional overlap the Ore Council manages by pretending it does not exist and Sancta Lux manages by filing paperwork the Ore Council has never read* | ~40,000 served |
 
 ---
 
@@ -115,7 +115,7 @@ Three parallel systems **whose jurisdictions are defined by function rather than
 **Guild Law** · Practical, specific, enforced by arbitration tribunals **whose appeals process is slow, thorough, and famously humourless.**
 - **The Drainage Obligation**, borrowed from Nalūn's model — structural integrity sufficient to prevent collapse into adjacent workings.
 - **The Tender's Obligation** — lifetime support for array-tenders who develop **the tender's shake**, the fine persistent palsy that arrives at about eight years of forge-array service **and does not leave.**
-- **The Assay Standard** — counterfeiting a stamp is a capital offence. *The last person who attempted it was found, tried and sentenced within three days, which is the fastest judicial process in the kingdom's history.*
+- **The Assay Standard** — counterfeiting a stamp is a capital offense. *The last person who attempted it was found, tried and sentenced within three days, which is the fastest judicial process in the kingdom's history.*
 **Republican Law** · Applies to every person within Altherion's territory **regardless of guild affiliation, racial origin or institutional membership.**
 
 **Sancta Lux Jurisdiction** · Operating on the principle that **the Scale measures everywhere and that the measurement does not require the measured party's consent.** The Ember Magistrates hold flame-lit equilibrium courts in towns that will never see the Grand Church, **and their jurisdiction is one of the few legal authorities neither Council can override.**
@@ -125,21 +125,21 @@ Three parallel systems **whose jurisdictions are defined by function rather than
 
 ## Economy
 
-**Stannvaard's economy is the northern shield's economy.** Every Inner World kingdom's economy connects to the Ring's output, **and the Guild Seat sits at the centre of that web with the patience of a people who know the web cannot function without them.**
+**Stannvaard's economy is the northern shield's economy.** Every Inner World kingdom's economy connects to the Ring's output, **and the Guild Seat sits at the center of that web with the patience of a people who know the web cannot function without them.**
 
 **The Accord relationship is the deepest of any Inner World state.** Enforcement maintains a permanent legation at Altherion. Research sources experimental metalwork from the Inscription Guild. Strategic's weapons procurement runs through the Forge Guild. **The Skyglass Archive sources its substrate materials from the Deep Reach.**
-> **Stannvaard is the Accord's armoury, and the Guild Seat is where the armoury's masters sit and decide how quickly it restocks.**
+> **Stannvaard is the Accord's armory, and the Guild Seat is where the armory's masters sit and decide how quickly it restocks.**
 Altherion runs on trade, services, and the institutional revenue of hosting the Grand Church — pilgrim traffic, arbitration fees, diplomatic delegations, **making it the most commercially active surface settlement on the northern shield despite producing nothing itself.**
-> *The merchants have a saying: Altherion makes nothing and sells everything — accurate in the way all self-deprecating merchant humour is accurate, meaning it describes a real condition and pretends to be embarrassed by it.*
+> *The merchants have a saying: Altherion makes nothing and sells everything — accurate in the way all self-deprecating merchant humor is accurate, meaning it describes a real condition and pretends to be embarrassed by it.*
 
 ---
 
-## Defence
+## Defense
 
 **The Forge Guard** · Roughly four thousand. *Not flashy. Not fast.* **Built from the same material as the Ring's walls: dense, patient, and extremely difficult to move.**
 
 **Sancta Lux** maintains its own capability within the compound — the Arbiter-Militant wing, the Inquisitors with their gauntlet-etched Judica rites, and **the Mask, of which there is only ever one, whose mere presence in a room suppresses invocation.** It answers to the Will of Judger, **currently held by Darius, who refuses to be invested in it and has been pending investiture for eleven years.**
-> The strategic defence is economic. **A war against Stannvaard is a war against your own balance sheet, your own armoury, and the judicial body that every other kingdom's legal system references when its own authority is insufficient.**
+> The strategic defense is economic. **A war against Stannvaard is a war against your own balance sheet, your own armory, and the judicial body that every other kingdom's legal system references when its own authority is insufficient.**
 >
 > *Nobody has been willing to pay all three costs simultaneously.*
 
@@ -159,7 +159,7 @@ Altherion runs on trade, services, and the institutional revenue of hosting the 
 
 The crater cities are carved from impact-fractured stone: **dense, angular, every surface either load-bearing or insulating or both.** The forge-light rises through the shaft systems and chain-lift voids and fills the upper levels with a warm amber pulsing illumination **that makes the entire interior of the Ring feel alive, as though the mountain has a circulatory system and the fire is its blood.**
 
-*Altherion is timber-framed over stone, rooflines pitched against snow, with the specific visual chaos that results from seven different racial building traditions being practised in the same streets across three centuries.* **The Church compound is the exception: consecrated stone, low walls, flame-lit interiors,** the deliberate austerity of a body that considers the absence of ornamentation a theological position.
+*Altherion is timber-framed over stone, rooflines pitched against snow, with the specific visual chaos that results from seven different racial building traditions being practiced in the same streets across three centuries.* **The Church compound is the exception: consecrated stone, low walls, flame-lit interiors,** the deliberate austerity of a body that considers the absence of ornamentation a theological position.
 
 **Language** · Dawi Common in the crater cities. Concord Common in Altherion. **Lattice Tongue** for High Dawi sacred and technical inscription — *where the grammar of the utterance mirrors the grammar of the universe, and non-Dawi listeners describe the experience as hearing a proof being recited rather than a sentence being spoken.*
 

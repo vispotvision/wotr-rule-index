@@ -47,7 +47,7 @@ The Palace is a self-derived technique and requires Stage XII; anyone unfamiliar
 
 ### Physics
 
-**Phenomenon** · Predictive perception and sensory gating: the brain reports a blend of what the senses say and what it expects, weighted by how sure each is, and it can mute one real input in favour of a competing one.
+**Phenomenon** · Predictive perception and sensory gating: the brain reports a blend of what the senses say and what it expects, weighted by how sure each is, and it can mute one real input in favor of a competing one.
 
 **Law** · Bayesian cue combination: the percept is the precision-weighted posterior, so a precise enough prior overrides the input.
 
@@ -106,7 +106,7 @@ The Palace is a self-derived technique and requires Stage XII; anyone unfamiliar
 
 **Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; Grade SSS (726 to 950) in Harmonics Projection and Gnosis Cognition, on the Attraction Path.
 
-**Paths** · Gnosis Retention needs the Spirit Path at Glory to pass A, so only one full overlay is held ready; Gnosis Cognition's resistance to glamour needs Spirit at Flourishing to pass B, so the caster's own defence stays at B.
+**Paths** · Gnosis Retention needs the Spirit Path at Glory to pass A, so only one full overlay is held ready; Gnosis Cognition's resistance to glamour needs Spirit at Flourishing to pass B, so the caster's own defense stays at B.
 
 **Grade** · SSS is a scale, 100 kilotons to one teraton, not a discharge: nothing is ever delivered against a body.
 

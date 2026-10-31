@@ -77,7 +77,7 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 | 10 | 18 | 1 | 14 | 22 |
 | 23 | 6 | 19 | 2 | 15 |
 
-> **Thirteen sits at the centre and is the only cell that does not move under any of the fourteen Archonic stations.**
+> **Thirteen sits at the center and is the only cell that does not move under any of the fourteen Archonic stations.**
 >
 > Which is why **the dental nasal appears in more Parun words than any other sound**, and why **a speaker who cannot produce it cannot speak the language at all.**
 >
@@ -173,10 +173,10 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **ena** | 16 | **by the dead, in the mouth of the living** |
 | **oku** | 17 | by a warrant I hold in writing and can produce |
 | **eshi** | 21 | by an office, not a person; spoken by whoever holds the chair |
-| **iso** | 22 | under Accord licence, number unstated |
+| **iso** | 22 | under Accord license, number unstated |
 | **uza** | 23 | by a debt owed to me and now called |
 | **anger** | 39 | by a bloodline, named or unnamed |
-| **isof** | 40 | under Accord licence, number appended after the clause |
+| **isof** | 40 | under Accord license, number appended after the clause |
 | **ithun** | 41 | by an oath sworn elsewhere and still standing |
 | **oyeth** | 50 | by a thing I made with my hands |
 | **ublash** | 54 | by the consent of the one this covers |
@@ -273,7 +273,7 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **ame bes sekar hus** | 130 | By the house that trained her, over her own body, divided evenly among all named, ending when she sleeps |
 | **at kelo ngat hoyem** | 130 | In haste and under duress, over a boundary walked, through and out the far side, ending when she is touched by the one it covers |
 | **eshi tam nashor wolyeth** | 195 | By an office and not a person, over this ground, outward in every direction at once, **ending when the last of the lineage here is dead** |
-| **isof golsher shilo theb** | 195 | Under licence with the number appended, over a name spoken in the same breath, divided unevenly with the remainder retained, ending when the speaker dies and not before |
+| **isof golsher shilo theb** | 195 | Under license with the number appended, over a name spoken in the same breath, divided unevenly with the remainder retained, ending when the speaker dies and not before |
 | **elwar dosh sengalo wolyeth** | 260 | Warranted by its own arithmetic, over what is written on this surface, downward through every layer named in order, **ending when the last of the lineage is dead** |
 
 > **The Fourth Seal above is the clause the Accord cites when it argues that licensing is not bureaucracy.**
@@ -286,14 +286,14 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 
 | People | Standing |
 |---|---|
-| **Guild Accord** | Root and Cant. **The Cant is the product; the Root is the licence** |
+| **Guild Accord** | Root and Cant. **The Cant is the product; the Root is the license** |
 | **Echo Elves** | Cold Parun. **The largest population of live composers in the world** |
 | **Deepkin** | Mirror-Speech, rarely, **and never where it can be timed** |
 | **Drow** | Inverted, fluently, **and never below the Doubled Seal** |
 | **Verdant Orcs** | Swamp Parun, limited by breath |
 | **Ironblood** | Gravetongue, **which is not this** |
 | **High Dawi** | Almost none. **They cut instead, and consider speech a hurried medium** |
-| **Eresseans** | Read universally, spoken under licence only — *and a private letter in Songscript is still the greater threat* |
+| **Eresseans** | Read universally, spoken under license only — *and a private letter in Songscript is still the greater threat* |
 | **Concord humans** | The Cant, by rote, badly, **and the death rate reflects it** |
 | **The Moto** | **Neither Root nor Cant.** The Kōkan Line administered the Loom under delegated sight, and a delegated warrant is not *by my own standing* and is not *by an office* either. **The lexicon has no Warrant word for what they hold**, and Moto speakers open on a sound the Vaulted Ring records and does not assign a value to. *The Ring's working position is that the word exists and the value is unknown. The Moto have never been asked, and would not be answered if they were* |
 

@@ -38,7 +38,7 @@ It never tells the reader what Sodoku is thinking; Sodoku is seen only from outs
 ## The rules
 
 **1. Read a man by his kit.** The inference is Lorn's, and it could be wrong.
-> "He had been armoured since before the light, which meant he had put it on in the dark and by himself, and the mail skirt under the plate had been rebound at the left hip in a way that said somebody competent had done it recently and that it had needed doing."
+> "He had been armored since before the light, which meant he had put it on in the dark and by himself, and the mail skirt under the plate had been rebound at the left hip in a way that said somebody competent had done it recently and that it had needed doing."
 **2. Reports are weighed, not believed.**
 > "Then two of them are being paid and I would like to know which two."
 **3. The number is known and not repeated.**

@@ -51,11 +51,11 @@ Its author devised the Lance alone. It has no documented counter on file anywher
 
 **Limit** · A body with no flaw population has nothing to select; a flawless lattice (Weibull modulus 20 and above) offers one way to fail or none.
 
-**Menu** · The spread of failure modes follows Weibull statistics: a worked, scarred body (modulus 5 to 10) offers many; flaw population alone makes glass 100 times weaker in bulk than as pristine fibre.
+**Menu** · The spread of failure modes follows Weibull statistics: a worked, scarred body (modulus 5 to 10) offers many; flaw population alone makes glass 100 times weaker in bulk than as pristine fiber.
 
 **Yield** · About 400 TJ, 95.6 kilotons, a real blast sized against an Emanation Shell, not a body; loading a known Shell fault breaks it 30 to 50 percent below its rated ceiling.
 
-**Cataclysm** · Routed through Cataclysm the release becomes a detonation, blast radius growing with the cube root of yield: a three-kilometre event that engulfs the caster at 900 metres, plus a 40 m echo along the fracture line.
+**Cataclysm** · Routed through Cataclysm the release becomes a detonation, blast radius growing with the cube root of yield: a three-kilometre event that engulfs the caster at 900 meters, plus a 40 m echo along the fracture line.
 
 **Dissolution** · Routed through Dissolution the same choice brings no shock, echo or line; the target comes apart at its own pace, mixing being downhill, and the room is left standing.
 
@@ -84,7 +84,7 @@ Its author devised the Lance alone. It has no documented counter on file anywher
 
 **Inherited failures** · Fractura's self-inspection shows the caster his own flaws under strain; Cataclysm's reflected overpressure returns the shock to its origin in confinement; Dissolution's indiscriminate solvency takes load-bearing structure too; Basilithe's anchor cannot be detuned away from a matching force.
 
-**Category** · Correspondence: a line in the room and a choice among failures are one act, as a prism picks which colour exits without making any; Debt is live in the echoed pain and the rising second cast.
+**Category** · Correspondence: a line in the room and a choice among failures are one act, as a prism picks which color exits without making any; Debt is live in the echoed pain and the rising second cast.
 
 **Essence** · The Aether Shell delivers; the Essence Core pays to hold every unresolved failure open until one is forced. Developmental Tier Sovereign.
 
@@ -120,7 +120,7 @@ Its author devised the Lance alone. It has no documented counter on file anywher
 
 **Cost** · About 13 percent of full reserve for a full cast, sharply more for a second; plus the echoed pain of the chosen wound, then impaired balance and light sensitivity.
 
-**Duration** · Instantaneous; the ringing residue lasts a few seconds; range 900 metres, the reach of the flaw-reading.
+**Duration** · Instantaneous; the ringing residue lasts a few seconds; range 900 meters, the reach of the flaw-reading.
 
 ### Counterplay
 
@@ -128,7 +128,7 @@ Its author devised the Lance alone. It has no documented counter on file anywher
 
 **Limits** · No flaw, nothing to select; no override of anyone at or above Emanation; single target with a 40 m echo; not cheap twice.
 
-**Fails against** · Distance beyond 900 metres; homogeneous soft ground; a Locked flaw site or a Knotted reading; Basilithe flawlessness; flattened probabilities; a substituted Oneirion dream-self; regeneration against Dissolution; spread targets.
+**Fails against** · Distance beyond 900 meters; homogeneous soft ground; a Locked flaw site or a Knotted reading; Basilithe flawlessness; flattened probabilities; a substituted Oneirion dream-self; regeneration against Dissolution; spread targets.
 
 **Selection** · The law must select the worst failure available; a target with none worth choosing leaves it only a lesser wound.
 

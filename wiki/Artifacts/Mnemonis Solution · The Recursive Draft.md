@@ -12,7 +12,7 @@ A stoppered containment prism holding a single dose of pale, faintly rippling fl
 
 ### Physical account
 
-Not a weapon; the armour-tier field the Item Guide requires for weapon entries does not apply. Plausible figures for a single-dose alchemical draft, given nothing more specific on the card: a fired-glass containment prism roughly 9 cm along its longest edge, holding about 50 mL of active fluid, total weight near 280 g including stopper and casing.
+Not a weapon; the armor-tier field the Item Guide requires for weapon entries does not apply. Plausible figures for a single-dose alchemical draft, given nothing more specific on the card: a fired-glass containment prism roughly 9 cm along its longest edge, holding about 50 mL of active fluid, total weight near 280 g including stopper and casing.
 
 ### Operation line
 

@@ -28,7 +28,7 @@ By the end of the second, a few of them knew who had taken it.
 
 ### II · The Hall of Verdicts
 
-The Hall of Verdicts stood on the crown of the rock Kharven-Seat was built on, and the rock hummed. The draw came up through it from the great main under the hold, a low note felt in the teeth, and fed the worked lamps that hung in iron cages from the ring overhead, each with its Guild seal in brass on the collar, burning a clean smokeless gold. It fed the lines under the floor too, so that the dark stone was warm underfoot while frost stood thick on the great doors outside. Round the circle of script on the floor stood the seven chairs, each in its line's colours: Tenrai gold, Shirogane silver, Kurenai black and ash, Akagane copper and red-bronze, Amagiri indigo and mist-grey, Byakuya near-white hung with glass beads, and the Kōkan red.
+The Hall of Verdicts stood on the crown of the rock Kharven-Seat was built on, and the rock hummed. The draw came up through it from the great main under the hold, a low note felt in the teeth, and fed the worked lamps that hung in iron cages from the ring overhead, each with its Guild seal in brass on the collar, burning a clean smokeless gold. It fed the lines under the floor too, so that the dark stone was warm underfoot while frost stood thick on the great doors outside. Round the circle of script on the floor stood the seven chairs, each in its line's colors: Tenrai gold, Shirogane silver, Kurenai black and ash, Akagane copper and red-bronze, Amagiri indigo and mist-gray, Byakuya near-white hung with glass beads, and the Kōkan red.
 
 Kagenori Tenrai Moto did not shout. He had not shouted in thirty years. He sat in the gold chair, under the Tenrai banner, its heraldry worked in gold thread on black and lit gold from below, with his narrow face perfectly still and his mouth closed like a purse, and the whole of his rage came off him in a slow, steady pressure that made the lamps in the great iron ring overhead burn low and blue in their cages.
 
@@ -40,9 +40,9 @@ He said it softly. It went round the hall and came back down out of the dome.
 
 Three of the chairs were filled. Shizuha Shirogane sat in silver at his right, upright and iron-haired and hatchet-faced, lamplight running down her silk sleeves like water down a blade, and had not spoken since the hall was opened. Sumie Kurenai sat in black and ash across from him, pale as tallow, the crimson lining of her sleeves showing only when she moved. The Akagane chair, the Amagiri chair and the Byakuya chair were empty, their copper and indigo and beaded white catching the light. So was the seventh, the red one, under its dust, with its blind enamel lion, its lacquer still the deep red of a coal under ash wherever the dust had slid. Nobody looked at it. Everybody knew exactly where it was.
 
-In the centre of the circle of script, where prisoners knelt, there was a stool, and on the stool sat Shigure Tenrai Moto.
+In the center of the circle of script, where prisoners knelt, there was a stool, and on the stool sat Shigure Tenrai Moto.
 
-She had ridden four days to get here and had not changed her armour. The black lamellar was stiff with dried blood down the whole left side, where the cut at the top of her shoulder had bled and bled and been bound and bled again. Her left arm was strapped across her chest. Her palms were wrapped in linen gone brown. Her face was grey with exhaustion and loss of blood, and the rings in her eyes turned very slowly, dimly, like the last ripples on a pond long after the stone has gone in. She had told her story once, from the beginning to the end, in a flat level voice, without being asked a single question. Now she sat and waited.
+She had ridden four days to get here and had not changed her armor. The black lamellar was stiff with dried blood down the whole left side, where the cut at the top of her shoulder had bled and bled and been bound and bled again. Her left arm was strapped across her chest. Her palms were wrapped in linen gone brown. Her face was gray with exhaustion and loss of blood, and the rings in her eyes turned very slowly, dimly, like the last ripples on a pond long after the stone has gone in. She had told her story once, from the beginning to the end, in a flat level voice, without being asked a single question. Now she sat and waited.
 
 "They took our fort," Kagenori said. "The Foot. The gate on the Kessen road. Two hundred of our house-guard on a ridge that has never fallen to anybody, on walls the old clans laid in our grandfathers' grandfathers' time and our own house raised again in good square stone. And they took it in a morning. Stark and Greymane, with their old men and their boys." He did not move. "Led by a tokenless. A *tokenless*. Do you understand what that does? Do you understand how that makes us look? Every village between the Thresh and the shield is going to hear it before the month's out. The great Moto, the seven lines and the one blood, the house that reads the world. Beaten off its own wall by a boy who can't sign for a sack of meal."
 
@@ -70,7 +70,7 @@ Sumie Kurenai had gone white to the lips.
 
 The lamps in the great iron ring overhead dipped, all at once, and the draw-hum in the rock under them faltered half a note and came back.
 
-"I saw it," Shigure said. "The left eye. In the middle of the fight. Gold came up through the iris, like a crack running through slate." She was quiet for a moment. "I've seen that eye before, Kagenori. Once. In the cellars under Halcrest, sixteen years ago, the night Gimbzo went down with a lamp after the last of his own line. Gold, coming up through the grey in the eyes of the ones he cornered there, right to the end." She held his gaze. "You know what else went up out of that cellar alive. You had it from me the next morning." Her voice did not change. "The boy has that eye. And he has Gimbzo's face. I'd know that face if I were dead. I stood behind it for twenty years."
+"I saw it," Shigure said. "The left eye. In the middle of the fight. Gold came up through the iris, like a crack running through slate." She was quiet for a moment. "I've seen that eye before, Kagenori. Once. In the cellars under Halcrest, sixteen years ago, the night Gimbzo went down with a lamp after the last of his own line. Gold, coming up through the gray in the eyes of the ones he cornered there, right to the end." She held his gaze. "You know what else went up out of that cellar alive. You had it from me the next morning." Her voice did not change. "The boy has that eye. And he has Gimbzo's face. I'd know that face if I were dead. I stood behind it for twenty years."
 
 The hall held its breath. Somewhere under the floor a heated line ticked as it cooled.
 
@@ -122,13 +122,13 @@ It was not a question. Shigure did not pretend it was.
 
 "Why?"
 
-She looked up at him from the stool, grey-faced, with her ruined hands in her lap and her strapped arm across the gold banner on her breast.
+She looked up at him from the stool, gray-faced, with her ruined hands in her lap and her strapped arm across the gold banner on her breast.
 
 "Because you'd have wanted to see him first," she said. "Before you killed him. You'd have wanted to know for certain." Her dim eyes held his. "And because I did."
 
 Kagenori looked at her until the lamps burned lower.
 
-Then he walked out of the hall, and did not look back, and the blue lamps in the great iron ring slowly, slowly, came up to their ordinary gold again behind him, and the gold ran back across the seven chairs one colour at a time.
+Then he walked out of the hall, and did not look back, and the blue lamps in the great iron ring slowly, slowly, came up to their ordinary gold again behind him, and the gold ran back across the seven chairs one color at a time.
 
 ---
 
@@ -138,7 +138,7 @@ The Byakuya kept their seat in the old city below the Moto hold, in a house of p
 
 She had not been to the Hall of Verdicts since the night of Torvald Stark. She had not answered the summons that came the morning after Shigure rode in, or the one that came the morning after that. She sat in the long pale room at the back of her house that her grandmother had used for prayer, with the shutters open on the garden and the glass beads of the veil laid on the floor beside her, and did not eat very much, and waited.
 
-When Tetsugen Akagane and Hayato Amagiri came to her, they came at night, by the garden gate, without servants, in plain cloaks over their house colours, copper showing at Tetsugen's throat and Amagiri indigo at Hayato's cuff, the way men come to a house when they do not want it known that they have come.
+When Tetsugen Akagane and Hayato Amagiri came to her, they came at night, by the garden gate, without servants, in plain cloaks over their house colors, copper showing at Tetsugen's throat and Amagiri indigo at Hayato's cuff, the way men come to a house when they do not want it known that they have come.
 
 She received them in the prayer room. There were three cushions on the floor and a single worked lamp under a shade of milk-glass, turned down to a pearl glow, and a pot of tea, poured hot from the house line, that nobody touched. The floor was warm under the mats. Somewhere in the walls the draw ran in its sealed conduit with a hum so low it was felt in the floor more than heard. Tetsugen lowered his great bulk onto his cushion with a grunt, like a bull lying down, and sat with his huge copper-ringed hands on his knees. Hayato did not sit at all at first. He stood by the open shutters with his restless fingers moving at his sides and looked out into the dark garden, and only sat when Kiyome looked at him, and then on the very edge of the cushion, as if he expected to have to leave in a hurry.
 
@@ -212,7 +212,7 @@ Kiyome turned to Hayato.
 
 The young lord of the Amagiri sat on the edge of his cushion with his restless fingers gone still at last, looking at the open shutters, at the dark garden and the glass chiming in the white trees, and beyond them the black shape of the Moto hold on its rock, with the aurora standing over it in slow folds of green and violet, and the city's lamps strung gold down the rock along the mains, and at the top the lamps of the Hall of Verdicts, still burning.
 
-"I've been mapping the roads out for a year," he said. His voice was very quiet. "Every one of them. Every pass, every ford, every way out of the western shield that a man could ride by night without being seen from the hold. I told myself it was the Amagiri's office. Route-reading. Escape." He laughed, softly, without any humour in it at all. "I think I was just getting ready to run."
+"I've been mapping the roads out for a year," he said. His voice was very quiet. "Every one of them. Every pass, every ford, every way out of the western shield that a man could ride by night without being seen from the hold. I told myself it was the Amagiri's office. Route-reading. Escape." He laughed, softly, without any humor in it at all. "I think I was just getting ready to run."
 
 He looked at Kiyome.
 
@@ -252,4 +252,4 @@ He looked at Kiyome.
 
 **Rule ids that most constrained it:** R72-26 (named NPCs move on their wants offscreen, and each close gives them a doing-now: Kagenori buying the north, Kiyome riding east), R72-25 (live lies and secrets: Tetsugen's Ren, Hayato's maps), R74-35 (a council turns on the dated fact: sixteen years), R70-69 (Pressure shown in the room: the lamps going blue), R72-20 (the world ticks offscreen: crows, the Ridgewall, Undaar-Keth).
 
-**Revision 2026-10-24.** Gave the Hall of Verdicts its Kharven-Seat magitech (worked lamps in iron cages with Guild seals, the draw-hum in the rock, heated floors) and the seven chairs in full line colour, and lit the Byakuya house and the hold under the aurora; trimmed "for a long moment/time", "Nobody spoke" and two countdown lines in speech. Every beat and Isaac's lines are kept; Shaka-Al and Dougou stay off the page.
+**Revision 2026-10-24.** Gave the Hall of Verdicts its Kharven-Seat magitech (worked lamps in iron cages with Guild seals, the draw-hum in the rock, heated floors) and the seven chairs in full line color, and lit the Byakuya house and the hold under the aurora; trimmed "for a long moment/time", "Nobody spoke" and two countdown lines in speech. Every beat and Isaac's lines are kept; Shaka-Al and Dougou stay off the page.

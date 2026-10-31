@@ -14,11 +14,11 @@ title: "The Physician's Eye"
 ## What a Surgeon Can Actually Read
 
 > **There is no instrument. There is a hand, an eye, a nose, and thirty years — and the thirty years are the instrument.**
-**Colour** · Pallor and the specific grey of serious blood loss. The dusky purple-black of tissue that has stopped receiving. **The advancing red of spreading infection, which is read by marking its edge with a fingernail and looking again in an hour.** Yellow in the sclera.
+**Color** · Pallor and the specific gray of serious blood loss. The dusky purple-black of tissue that has stopped receiving. **The advancing red of spreading infection, which is read by marking its edge with a fingernail and looking again in an hour.** Yellow in the sclera.
 
 **Smell** · **The most underrated instrument in surgery and the one that carries furthest.** Sweetish rot means gas in the tissue and means the limb. The flat foul stench of hospital rot. Voided bowel means the abdomen is open whether or not you can see where. *Experienced surgeons diagnose from the tent doorway and are right.*
 
-**Heat, by hand** · Local heat is inflammation. General heat is fever. **Cold and clammy is the body giving up its extremities to keep its centre, and it is the worst sign available to a hand.**
+**Heat, by hand** · Local heat is inflammation. General heat is fever. **Cold and clammy is the body giving up its extremities to keep its center, and it is the worst sign available to a hand.**
 
 **Texture** · **Crepitus under the fingers, which is gas and is a death sentence.** Boggy oedema. The hardness of a mass. The give of an abscess.
 
@@ -52,7 +52,7 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 
 **Sealwright referral** · **The only genuine treatment.** A fragment is a Parunic problem and requires a Parunic answer — **closure of the unfinished sentence rather than removal of the tissue.**
 
-**Amputation proximal to the fragment** · Works, **if the fragment has not travelled, and the surgeon cannot know whether it has.** *The commonest treatment in the field, and a bet made with somebody else's limb.*
+**Amputation proximal to the fragment** · Works, **if the fragment has not traveled, and the surgeon cannot know whether it has.** *The commonest treatment in the field, and a bet made with somebody else's limb.*
 
 **Containment** · Sealed dressing, isolation, and a rule that nobody touches the dressings without the Sealwright's own materials. **Fragments transfer**, which is why *a surgeon working fragment wounds has a shorter career than one who does not.*
 

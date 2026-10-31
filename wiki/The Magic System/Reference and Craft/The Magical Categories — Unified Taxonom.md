@@ -131,7 +131,7 @@ Sits between Body and Spirit because the trigger is always Spirit (emotional/Ess
 
 **Triadic Axis**
 
-The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behaviour reshapes over time through Temperance — the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
+The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance — the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
 
 Not a technique cast, but the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognised by what a soul refuses to let end.
 
@@ -245,7 +245,7 @@ Sits between Spirit and Attraction because memory itself is Soul Plane, but its 
 
 **Triadic Convergence**
 
-The quantitative study of Aether behaviour: Flux, Aether Units, Efficiency, Density, Coherence. Aetherica links Crystalia, the Coherence Ladder, and the Scale System into one analytic frame — the *measurement* discipline underlying nearly every numeric value in this Continuum.
+The quantitative study of Aether behavior: Flux, Aether Units, Efficiency, Density, Coherence. Aetherica links Crystalia, the Coherence Ladder, and the Scale System into one analytic frame — the *measurement* discipline underlying nearly every numeric value in this Continuum.
 
 Triadic Convergence because it's least concerned with *doing* magic and most with *describing* it. A practitioner of Aetherica might never cast in their life, instead ensuring everyone else's workings are measured against the same Ladder.
 
@@ -269,7 +269,7 @@ The Spirit-Attraction Apex because it requires both: Spirit-side precision to al
 
 **Attraction-Aligned** 
 
-Deliberate reshaping of local Continuum behaviour so that a chosen law becomes easier to sustain within a defined space. The practitioner does not enforce the law directly; they alter what the region is willing to do cheaply.
+Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space. The practitioner does not enforce the law directly; they alter what the region is willing to do cheaply.
 
 Attraction-aligned because a Domain is a standing negotiation with the Plane of Fate rather than an application of force. It persists exactly as long as the Attraction Layer keeps recognising the claim, which is why a Domain fails all at once rather than fraying.
 
@@ -287,7 +287,7 @@ The binding, sealing, and lawful imprisonment of a thing against its own nature 
 
 Sits between Spirit and Attraction because the seal's *syntax* is Soul Plane precision while its *duration* is a Fate-side claim that must be renewed by something. A Claustra working that loses its anchor does not weaken. It opens.
 
-The category the Binding Arts have been practising without a name, and the home of the **Vow Clause**. A vow is a seal a practitioner sets on themselves, and it is the only Claustra working whose anchor is the bearer's own continued behaviour.
+The category the Binding Arts have been practising without a name, and the home of the **Vow Clause**. A vow is a seal a practitioner sets on themselves, and it is the only Claustra working whose anchor is the bearer's own continued behavior.
 
 **Examples:** Dragon Binding · Null-Anchors · The Veil's standing closures · Oath-Seals
 
@@ -341,7 +341,7 @@ Workings whose operative currency is a declared and irrevocable price: an offeri
 
 Spirit-aligned because what is being altered is the Essence Core's posture rather than its output. A Votia working makes a practitioner stronger by making them narrower, and the Continuum answers narrowness with power.
 
-**The Vow Clause, stated mechanically.** A vow declares a permanent restriction and the Core adopts it as a standing law. **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behaviour**, and it is the structural prerequisite for Threshold eligibility. A vow kept is therefore a direct purchase of Coherence by conduct rather than by expenditure, which is why vows are common in every hall and camp, and commonest in the populations that cannot buy Drafts: soldiers, hedge-workers, the orders, the poor.
+**The Vow Clause, stated mechanically.** A vow declares a permanent restriction and the Core adopts it as a standing law. **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior**, and it is the structural prerequisite for Threshold eligibility. A vow kept is therefore a direct purchase of Coherence by conduct rather than by expenditure, which is why vows are common in every hall and camp, and commonest in the populations that cannot buy Drafts: soldiers, hedge-workers, the orders, the poor.
 > *It is the cheapest advancement mechanism in the world and it is priced in the rest of your life.*
 **A vow broken is a Shear Break.** The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. This is why the orders treat a lapsed vow as a medical emergency rather than a disciplinary one, and why the disciplinary response follows only if the practitioner survives.
 

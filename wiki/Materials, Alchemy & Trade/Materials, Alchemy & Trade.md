@@ -24,7 +24,7 @@ tags: ["Materials", "Alchemy", "Trade & Economy", "Reference Table"]
 > Measured on the coil.
 **The two do not track each other.** Forge-Iron bears magnificently and holds nothing. Gloomhide is spiritually inert and physically superb. Mireclay holds a totem for one night and cannot hold a roof for one hour.
 
-**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to. **Family** names the behavioural family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing — recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
+**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to. **Family** names the behavioral family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing — recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
 > Blank cells in those three columns mean **canon is silent, not that the material is inert.** An Engraver who fights his substrate pays for it in the lifespan of the inscription.
 
 ---
@@ -44,7 +44,7 @@ flowchart LR
 
 | Register | Compiled from | What it settles |
 |---|---|---|
-| **The Master Material Ledger** | The Measurewrights' survey, the standing Accord T0–T9 list, the coin volume, the Four Ceilings technology history, and the Master Codex alchemical tab | Every material attested anywhere: building stone, structural metal, armour and weapon stock, fabric and thread, Holding substrate, precious metals, and the alchemical formula index |
+| **The Master Material Ledger** | The Measurewrights' survey, the standing Accord T0–T9 list, the coin volume, the Four Ceilings technology history, and the Master Codex alchemical tab | Every material attested anywhere: building stone, structural metal, armor and weapon stock, fabric and thread, Holding substrate, precious metals, and the alchemical formula index |
 | **The Standing Index** | The Bench's own register, with Provenance Class, Fidelity and Carry on every row | What is lawful in commerce. **Nothing in the alchemical economy exists commercially until it is entered** |
 | **Hide, Horn and Bone** | The creature-material addendum | The organic input side, from the commonest worked bone in the four quarters to the skeleton of a confirmed World Spirit |
 

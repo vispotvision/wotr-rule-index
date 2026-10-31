@@ -38,7 +38,7 @@ He leaned forward.
 
 The fire cracked.
 
-Muken did not argue. He could not have, honestly, if he had wanted to. He had seen the men Ulf meant without knowing he was seeing them: the grey heads in every Stark hall the convoy had passed, the stooped backs at the fords, the old riders with no sons beside them. He had seen the boys too. Riding point on the Vessant road. Holding the gate at the Marrow crossing with spears longer than they were. Sixteen. Seventeen. Some younger, and lying about it.
+Muken did not argue. He could not have, honestly, if he had wanted to. He had seen the men Ulf meant without knowing he was seeing them: the gray heads in every Stark hall the convoy had passed, the stooped backs at the fords, the old riders with no sons beside them. He had seen the boys too. Riding point on the Vessant road. Holding the gate at the Marrow crossing with spears longer than they were. Sixteen. Seventeen. Some younger, and lying about it.
 
 He had not put the two together until now.
 
@@ -58,17 +58,17 @@ The Vessant post was a small place and an idle one once the convoy was paid off,
 
 He was on the stockade.
 
-There was a walkway round the inside of the wall at the height of a man's shoulder, plank laid on log brackets, where a sentry could stand and see out over the sharpened tops of the stakes, and Muken stood on it, those three days, more than he stood anywhere else. He stood at the north corner, mostly. From there he could see the river, black and fast between its shelves of ice, and the timber going away on the far bank in long blue-grey ranks toward the edge of the world, and the sky over it, which in the third week of the Thin Weeks was white all day and went the colour of a bruise at evening. In the mornings the frost on the stake-points glittered like ground glass, and the hoar on the far timber caught the first sun and burned pink along the tops of the ranks for the length of a breath before it went white.
+There was a walkway round the inside of the wall at the height of a man's shoulder, plank laid on log brackets, where a sentry could stand and see out over the sharpened tops of the stakes, and Muken stood on it, those three days, more than he stood anywhere else. He stood at the north corner, mostly. From there he could see the river, black and fast between its shelves of ice, and the timber going away on the far bank in long blue-gray ranks toward the edge of the world, and the sky over it, which in the third week of the Thin Weeks was white all day and went the color of a bruise at evening. In the mornings the frost on the stake-points glittered like ground glass, and the hoar on the far timber caught the first sun and burned pink along the tops of the ranks for the length of a breath before it went white.
 
 He kept the token in his coat. He took it out, sometimes, when he was sure nobody could see, and held it in his palm and waited for it to hum. It never did.
 
-*What's your oldest?* the steward had asked him, every time, at Orrel, when he was a child. And laughed. And every time, the answer had been: nothing. No contract. No history. No credit. No name the clerks would take. He had spent his whole life since believing that was the thing that was wrong with him. That he was nothing, born of nothing, the son of a cutting woman and of a father nobody had ever named to him, and that everything he had done since, every season's pay, every contract honoured, every road walked to the end, was the slow work of making something out of that nothing by hand.
+*What's your oldest?* the steward had asked him, every time, at Orrel, when he was a child. And laughed. And every time, the answer had been: nothing. No contract. No history. No credit. No name the clerks would take. He had spent his whole life since believing that was the thing that was wrong with him. That he was nothing, born of nothing, the son of a cutting woman and of a father nobody had ever named to him, and that everything he had done since, every season's pay, every contract honored, every road walked to the end, was the slow work of making something out of that nothing by hand.
 
 And now a Warlord of the north had handed him a contract, sealed under the Chain Light, and it had lain dead in his palm. And the Warlord had not looked surprised. He had looked as if something he had been told for years had finally turned out to be true.
 
 He thought about Yusif.
 
-He had not let himself think about Yusif in a long time. It had hurt too much, after the visits stopped, and then it had stopped hurting, which was worse, and he had put the big quiet grey-bearded man away somewhere at the back of himself, in a worked-out gallery where he did not go. Now he went. He sat down in it, in his head, on the cold floor, and let it come back.
+He had not let himself think about Yusif in a long time. It had hurt too much, after the visits stopped, and then it had stopped hurting, which was worse, and he had put the big quiet gray-bearded man away somewhere at the back of himself, in a worked-out gallery where he did not go. Now he went. He sat down in it, in his head, on the cold floor, and let it come back.
 
 The salt-meat wrapped in oiled cloth. The new wool. The way Yusif had always had to stoop under the gallery roof, and never once complained of it. The stick, a length of ash the right weight for a small boy's hands, and the big rough hands closed round his own on the end of it. *Again. Again. You're thinking. Stop thinking. Let your feet do it. There. That's it. Again.* The way Yusif had looked at their mother, the few times he stayed long enough to look: carefully, with his head a little bowed, the way you might look at something in a shrine. The way he had looked at Muken, sometimes, when he thought Muken was not watching. As if he were waiting for something.
 
@@ -82,17 +82,17 @@ Muken stood on the stockade with his hands on the cold points of the stakes and 
 
 *Is this it?* he thought. *Is this what he was waiting for?* He did not know what the question meant, exactly, or who he was asking it of. *Is this what I'm for?*
 
-The river did not answer. The timber did not. The sky went the colour of a bruise, violet and rose low along the treeline, and then went dark, and later the aurora came up over the timber in long slow curtains of green hemmed with violet, bright enough that the snow on the walkway took the colour round his boots. It did not answer either.
+The river did not answer. The timber did not. The sky went the color of a bruise, violet and rose low along the treeline, and then went dark, and later the aurora came up over the timber in long slow curtains of green hemmed with violet, bright enough that the snow on the walkway took the color round his boots. It did not answer either.
 
 ---
 
 On the third morning his sister found him there.
 
-She came up the ladder to the walkway without a sound, the way she did everything, and he did not hear her until she was beside him. She had her grey field coat on, buttoned to the throat against the cold, and her white hair was braided and pinned up off her neck, the way she wore it when she was working, though there was nobody left at the post who needed working on. Her small grave face was pink with cold at the nose and the cheekbones. She stood beside him at the stakes without a word and looked where he was looking, at the river and the timber and the white sky over it, until the cold had got into both their hands.
+She came up the ladder to the walkway without a sound, the way she did everything, and he did not hear her until she was beside him. She had her gray field coat on, buttoned to the throat against the cold, and her white hair was braided and pinned up off her neck, the way she wore it when she was working, though there was nobody left at the post who needed working on. Her small grave face was pink with cold at the nose and the cheekbones. She stood beside him at the stakes without a word and looked where he was looking, at the river and the timber and the white sky over it, until the cold had got into both their hands.
 
 He felt his breathing slow down. It always did, when she was near. He had never once in his life wondered why.
 
-She was thirteen. She came up to the middle of his chest. When she had been small, five or six, too small to work the stamping floor, she had used to sit on his feet in the gallery while he worked the salt face, holding onto his knees with both arms, and he had walked her up and down that way until she shrieked. He looked down at her now, at the white braid and the grey coat and the long new scar down her forearm where the sleeve had ridden up, and felt something in his chest that he did not have a word for.
+She was thirteen. She came up to the middle of his chest. When she had been small, five or six, too small to work the stamping floor, she had used to sit on his feet in the gallery while he worked the salt face, holding onto his knees with both arms, and he had walked her up and down that way until she shrieked. He looked down at her now, at the white braid and the gray coat and the long new scar down her forearm where the sleeve had ridden up, and felt something in his chest that he did not have a word for.
 
 He reached out and put his hand on the top of her head, the whole big cracked palm of it, and ruffled her hair, the way he had done since she was born. It came loose from one of its pins. She did not slap his hand away. That was how he knew she was worried.
 
@@ -142,7 +142,7 @@ She did not take it. She looked at it first, the way she looked at a wound befor
 
 He waited.
 
-She straightened up. Her eyes, when she opened them, had gone very dark, nearly black, the deep blue swallowed up by the grey of the morning.
+She straightened up. Her eyes, when she opened them, had gone very dark, nearly black, the deep blue swallowed up by the gray of the morning.
 
 "It's sealed," she said. "It's a good seal. Old wall. Bright light. I can feel it in there, the shape of it, like a coin in a pocket." She frowned. "It's not broken. It's not dead. It's just..." She searched for the word. "It's just not talking to you. As if it's looking straight at you and can't see anyone there."
 
@@ -231,4 +231,4 @@ He looked out once more over the stakes, at the river and the timber and the whi
 
 **Rule ids that most constrained it:** R70-114 and R73-38 (the warm bond shown in its own joy before the war lands on it: sitting on his feet in the gallery, the ruffled hair, the hand left on her head), R71-30 (the token and the receptive gift held unexplained), R72-25 (Ulf still withholding the seventh and the why), R70-55 (one changed detail on return: the braid coming loose where he ruffled it).
 
-**Revision 2026-10-24.** Colour given to the stockade days (frost glittering on the stake-points, pink hoar on the timber at sunrise, violet and rose at dusk, the aurora green and violet over the trees, sun sparking off the river); the post stays draw-less. All five "for a long time/moment," "Neither of them needed to" and one "did not say anything" trimmed. Every beat and Isaac's line ("What's wrong, big brother?") kept word for word.
+**Revision 2026-10-24.** Color given to the stockade days (frost glittering on the stake-points, pink hoar on the timber at sunrise, violet and rose at dusk, the aurora green and violet over the trees, sun sparking off the river); the post stays draw-less. All five "for a long time/moment," "Neither of them needed to" and one "did not say anything" trimmed. Every beat and Isaac's line ("What's wrong, big brother?") kept word for word.

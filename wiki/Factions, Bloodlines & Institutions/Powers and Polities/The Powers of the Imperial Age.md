@@ -19,7 +19,7 @@ The Imperial Age is the age in which everything that can be owned is being claim
 |---|---|
 | **Wells and draw** | The main and the meter run on harmonised veins. A supply contract written at old rates is an inheritance, and a Well is the only thing that writes new ones |
 | **Materials** | Cheap steel, rubber and gutta-percha, Cloudmetal from the eastern arc, Riftstone and gravity ore from the Old World's rifts, the Master Material Ledger's Essence-born materials. The works eat them faster than any one realm digs them |
-| **Markets and labour** | A works needs hands and a buyer. Branded goods, department stores and consumer Essence goods have made a buyer out of every metered house, and the un-Tempered labourer is worth less every year the arrays improve |
+| **Markets and labor** | A works needs hands and a buyer. Branded goods, department stores and consumer Essence goods have made a buyer out of every metered house, and the un-Tempered laborer is worth less every year the arrays improve |
 | **Routes** | Rail, wire, sea lanes, Dragon Roads, caravan water and the Concord Gates. Whoever holds the route sets the price of everything carried on it |
 | **The hunting trade** | Wells breed Well-spawn, a Well worked harder breeds more, and every mine, main and settlement near a Well now pays somebody to clear it. Hunting has become a business, sold by the party and priced by the share |
 
@@ -33,7 +33,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 |---|---|---|---|
 | **The crown or great house** | The land, the levy, the tax, and the right to hang | Descent, the army, and the court of the realm | It cannot run a works, and it cannot hunt a Well |
 | **The chartered company** | The trade: the works, the warehouse, the route, the store and the scrip | The charter, the share list and the company's own guards | Its charter can be revoked, and its shares can crash |
-| **The guilds** | The hunters, the licence, and local policing of magic | The licence, the guild court, the trace examiner and the hunting hall | It holds no land and keeps no standing army, and outside a signed circle it is only a guild |
+| **The guilds** | The hunters, the license, and local policing of magic | The license, the guild court, the trace examiner and the hunting hall | It holds no land and keeps no standing army, and outside a signed circle it is only a guild |
 
 **Each layer fights the others over jurisdiction, and which one wins differs by place.** On the New World's arc the charter is the ground, so the company and the guilds win. In the Inner World heartland crown law and guild law have grown into each other until nobody can say which issued a given rule. In the Old World the great houses win, and a foreign company enters only through a house's port on a house's terms. In the Outer World the throne wins outright, and the Ten Houses are their own companies. In Kharven there is no working crown and no instrument that binds, so whoever arrives with the most men and the best grain wins that season.
 
@@ -82,11 +82,11 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Fears.** One Pillar monopolising what another needs. A foreign company buying a Pillar's loyalty with better prices than the throne can offer. Wellspring damage from reckless extraction, which Vokari's surveyors have walked away from fortunes to avoid.
 
-**The seam.** A foreign company can only enter through House Jomari's harbours. Jomari profits from every cargo it lets inland, and the Pillars that lose trade to foreign goods blame Jomari first and the throne second.
+**The seam.** A foreign company can only enter through House Jomari's harbors. Jomari profits from every cargo it lets inland, and the Pillars that lose trade to foreign goods blame Jomari first and the throne second.
 
 ### The Ashen Crown of Kharven and its Banner Houses
 
-*Inner World, the far north · a kingdom without a working centre*
+*Inner World, the far north · a kingdom without a working center*
 
 **Wants.** A crown worth following again. Each Banner House wants the crown restored on terms that keep its own function: the border, the wall, the grain, the timber, the tundra, the roads.
 
@@ -94,7 +94,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Fights by.** Open war on the frontier, oaths that bind only while they are worth keeping, and food. The north lives decades behind the Accord cities; its wars are fought with the tools of an earlier span, and it prices loyalty by the bushel.
 
-**Set against.** Undaar-Keth probing the western ridge. Stannvaard, which cuts grain and keeps sending inscription substrate, because it wants a buffer state and not an independent one. Any company that comes up the road while the centre is empty.
+**Set against.** Undaar-Keth probing the western ridge. Stannvaard, which cuts grain and keeps sending inscription substrate, because it wants a buffer state and not an independent one. Any company that comes up the road while the center is empty.
 
 **Fears.** Being a buffer. Being bought one house at a time. A winter in which House Ashmore's allocation decides who survives.
 
@@ -158,13 +158,13 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Wants.** Correction. It holds that the reading needs no Ladder and that purification is mercy delivered early.
 
-**Holds.** No fixed seat. Legal standing where the crowns and churches that back it rule, and the Gate to enforce in that territory. Chapter markers and small garrisons left in the places it has declared corrected, and a catalogue of everything it has kept from the places it has burned.
+**Holds.** No fixed seat. Legal standing where the crowns and churches that back it rule, and the Gate to enforce in that territory. Chapter markers and small garrisons left in the places it has declared corrected, and a catalog of everything it has kept from the places it has burned.
 
 **Fights by.** Campaign. A Circuit Justiciar takes a reading, a declaration is read in the square, forty-eight hours pass, and what refused the mask is treated as structural corruption.
 
 **Set against.** Sancta Lux, which exiled its founders. The Guild Accord, which outlaws it wherever a circle has signed and has authorised enforcement for six years without coming. Every settlement on a Circuit Justiciar's road.
 
-**Fears.** The Accord deciding the cost is worth paying and sending practitioners of matching Stage. The world learning what the catalogue is for.
+**Fears.** The Accord deciding the cost is worth paying and sending practitioners of matching Stage. The world learning what the catalog is for.
 
 **The seam.** It does not govern what it takes. Every planted chapter is a small garrison far from support, and every marker is a record of where the Inquisition has been and a line toward where it goes next.
 
@@ -192,15 +192,15 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 *A communion of guilds, forming now, circle by circle*
 
-**Wants.** The hunting trade licensed and the licence paid for. Anyone may practise privately; taking pay for a working or a hunt needs a guild licence, and every unlicensed hunter is a fee the guild did not collect.
+**Wants.** The hunting trade licensed and the license paid for. Anyone may practice privately; taking pay for a working or a hunt needs a guild license, and every unlicensed hunter is a fee the guild did not collect.
 
-**Holds.** The hunters, the hunting halls and the licence. Trace examiners who read a working's traces as evidence. Local policing of magic, and the guild courts that try it. Where a circle has signed, the Articles and the Commission framework bind. Elsewhere a guild is only a guild, and its writ runs as far as its members' reputations.
+**Holds.** The hunters, the hunting halls and the license. Trace examiners who read a working's traces as evidence. Local policing of magic, and the guild courts that try it. Where a circle has signed, the Articles and the Commission framework bind. Elsewhere a guild is only a guild, and its writ runs as far as its members' reputations.
 
-**Fights by.** Licence and exclusion: a man who cannot get an attestation cannot get credit. Guild courts against crown courts over who may try a crime done with a working. And locally, directly: the guilds hunt down those who do wrong.
+**Fights by.** License and exclusion: a man who cannot get an attestation cannot get credit. Guild courts against crown courts over who may try a crime done with a working. And locally, directly: the guilds hunt down those who do wrong.
 
 **Set against.** Crown courts, over jurisdiction. Chartered companies that hire unlicensed hunters cheap. Crowns that register Crystals and control texts and want to decide for themselves who may learn which magic. Sancta Lux, whose jurisdiction overlaps theirs and will not define the boundary.
 
-**Fears.** A circle breaking before it closes. A crown that makes its own licence and refuses the guild's. The hunting guilds' own loophole, in which they train their own outside the state's gate, becoming the thing a crown uses as an excuse to shut them.
+**Fears.** A circle breaking before it closes. A crown that makes its own license and refuses the guild's. The hunting guilds' own loophole, in which they train their own outside the state's gate, becoming the thing a crown uses as an excuse to shut them.
 
 **The seam.** A guild court and a crown court will both claim a case they want and both refuse one they do not. A defendant who knows which court wants him can often choose the one that does not.
 
@@ -246,13 +246,13 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 ### The Ore Council of Stannvaard and its merchant houses
 
-*The Guild Seat · twelve guild masters, the extraction schedule, and the Accord's armoury*
+*The Guild Seat · twelve guild masters, the extraction schedule, and the Accord's armory*
 
 **Wants.** The extraction schedule kept as the realm's real law. The northern corridors quiet. Kharven armed and dependent.
 
 **Holds.** The Ring's metal, which every Inner World economy runs on. Weapons procurement for the Accord's Strategic Division. The Merchant guild's great houses, which regulate a trade and make nothing.
 
-**Fights by.** Supply. Stannvaard sets how fast the armoury restocks and to whom, and it cuts grain while sending substrate when it wants to tell a neighbour where its autonomy ends.
+**Fights by.** Supply. Stannvaard sets how fast the armory restocks and to whom, and it cuts grain while sending substrate when it wants to tell a neighbor where its autonomy ends.
 
 **Set against.** Any power that would make Kharven independent. Any company that would buy the ore at the pithead before it reaches the Council.
 
@@ -264,7 +264,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 *Fourteen recognised houses and the Council of Links · the Chain-Cities*
 
-**Wants.** Their supply books kept valuable, which means corridors open and contracts honoured.
+**Wants.** Their supply books kept valuable, which means corridors open and contracts honored.
 
 **Holds.** The instruments. Supply contracts are the most traded documents in the four quarters and the factor houses intermediate most of them, because their Parun-sealed contracts are the only ones counterparties trust to hold. The Greis Trading House runs eleven way-stations along the Iron-to-Salt Corridor under Nalūn-sealed contracts.
 
@@ -302,7 +302,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Fights by.** Price. It decides which ventures get outfitted at all, and a party without a patron borrows on bottomry at a rate the Company sets.
 
-**Set against.** Chartered hunting companies that sell the same risk cheaper by hiring hunters without licences.
+**Set against.** Chartered hunting companies that sell the same risk cheaper by hiring hunters without licenses.
 
 **Fears.** The tables leaving the room. A clerk showing a party what a Containment on a live Wellspring actually costs in lives.
 
@@ -322,7 +322,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Holds.** Settlements under Accord charter, company ports, company stores paying in scrip, and the survey maps its claims are filed against.
 
-**Fights by.** Company war through its own guards. Economic war through the share lists: a rumour of a new Well lifts its shares, a rumour of a moved one crashes them, and both rumours have been bought and sold.
+**Fights by.** Company war through its own guards. Economic war through the share lists: a rumor of a new Well lifts its shares, a rumor of a moved one crashes them, and both rumors have been bought and sold.
 
 **Set against.** Eresse, whose old-ground titles predate its charter. Korvaeth and the Sunroot Regency, whose disputed names sit under half its land grants. Overseas crowns that granted rival charters to the same stretch of coast.
 
@@ -338,9 +338,9 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Holds.** Contracts, a roster of hired hunting parties, a few licensed captains, and a great many cheap unlicensed hunters working under them.
 
-**Fights by.** Price, and proxy. It undercuts the guild halls by hiring hunters without licences and putting one licensed captain over each party so the pay is lawful on paper.
+**Fights by.** Price, and proxy. It undercuts the guild halls by hiring hunters without licenses and putting one licensed captain over each party so the pay is lawful on paper.
 
-**Set against.** The hunting guilds, whose licence it is hollowing out. The Company of Adventurers, whose risk it sells cheaper. Any circle of the Guild Accord that closes the captain-over-a-party arrangement.
+**Set against.** The hunting guilds, whose license it is hollowing out. The Company of Adventurers, whose risk it sells cheaper. Any circle of the Guild Accord that closes the captain-over-a-party arrangement.
 
 **Fears.** A signed circle in the district where most of its contracts are. A bad season in which the tables catch up with its prices.
 
@@ -354,7 +354,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 **Holds.** A charter from a crown with no writ in Kharven, company way-stations, hauling contracts, and grain bought forward from whoever will sell it.
 
-**Fights by.** Being the centre. Where Kharven has no working crown, the Company offers roads, pay and order, and a house that takes its money finds the Company's men guarding its bridges.
+**Fights by.** Being the center. Where Kharven has no working crown, the Company offers roads, pay and order, and a house that takes its money finds the Company's men guarding its bridges.
 
 **Set against.** House Hallenfeld, which holds the junction and wants a crown, not a company, to connect. House Thornwall, whose ironwood trade it means to take. Stannvaard, which wants Kharven dependent on it and not on a company from the south.
 
@@ -372,7 +372,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 |---|---|---|
 | **A crime done with a working** | The guild court, with its trace examiners, and the crown court | The traces are guild evidence and the victim is a crown subject. Each court takes the cases it wants |
 | **Company land** | The chartering crown and the company that took the ground | The company paid for it. The crown granted the right to pay for it |
-| **The hunter on crown ground** | The crown's game law, the guild's licence, the company's contract | A hunter can be lawful under one, poaching under another and in breach under the third, on the same afternoon |
+| **The hunter on crown ground** | The crown's game law, the guild's license, the company's contract | A hunter can be lawful under one, poaching under another and in breach under the third, on the same afternoon |
 | **Oath and bad faith** | Sancta Lux and the Accord's courts | Neither will define the boundary, because both prefer being able to claim a case to being obliged to take one |
 | **The arc's old-ground** | Eressean law and the Accord's charters | Four Eons against a charter from living memory |
 | **A name in the New World** | Korvaeth, the Sunroot Regency and the arc companies | A charter is only as good as the name it was granted under |
@@ -387,13 +387,13 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 |---|---|---|
 | The Dragon Throne | Foreign buyers of Wells, and its own Houses | Depletion; interdependence strained |
 | The Kusharan Throne | Foreign companies, the Accord's reach | Law older than the Accord, minerals it will not sell cheap |
-| The Kharven Banner Houses | Undaar-Keth, Stannvaard, the Northern Road Company | An empty centre and something to take |
+| The Kharven Banner Houses | Undaar-Keth, Stannvaard, the Northern Road Company | An empty center and something to take |
 | Eresse | The Eastern Arc Company | Old-ground titles against new charters |
 | Korvaeth and the Regency | Each other | Whether a name can be property |
 | Sancta Lux | The Holy Inquisition, Sōhai | Apostasy; the Singling charge |
 | The Holy Inquisition | Everyone on its road | Purification |
 | The Void Vanguard | The native powers of the plane | A home for Aelor |
-| The guilds | Crown courts, the Well-Hunters' Company | Jurisdiction; the licence |
+| The guilds | Crown courts, the Well-Hunters' Company | Jurisdiction; the license |
 | The Night Watch | The Mother, unlicensed practitioners | Attribution; the state's Gate |
 | The Mother | The Night Watch, the crowns that keep the Gate | The Gate; a working with no author |
 | The Ore Council | Any power freeing Kharven | The buffer state |
@@ -405,7 +405,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 ## What It Costs Below
 
-The scramble is paid for at the bottom. **Displaced trades** lose their work to the works: the carrier to the rail, the hand-spinner to the mill, the lamplighter to the main. **Works labour** is paid on the coil and by the piece. A man who is slow or sick finds the shortfall entered as his problem on his account. **The colonised** find a charter granted over their ground by a crown they have never seen, and a company store where the market used to be. **Unions and unrest** follow all three. Combinations of workmen, strikes at the works, riots at the cut, and the company guards sent to end them.
+The scramble is paid for at the bottom. **Displaced trades** lose their work to the works: the carrier to the rail, the hand-spinner to the mill, the lamplighter to the main. **Works labor** is paid on the coil and by the piece. A man who is slow or sick finds the shortfall entered as his problem on his account. **The colonised** find a charter granted over their ground by a crown they have never seen, and a company store where the market used to be. **Unions and unrest** follow all three. Combinations of workmen, strikes at the works, riots at the cut, and the company guards sent to end them.
 
 Every power on this page has a position on that unrest. Most of them would call it a matter of order.
 
@@ -415,8 +415,8 @@ Every power on this page has a position on that unrest. Most of them would call 
 
 *Every power above has an interest a player can find and use, and every one of them shows it in the open.*
 - **Starve one House and turn another.** Drakyssia's Houses depend on each other by design. Cut what one supplies and a second House is hurt, and it knows exactly whom to blame.
-- **Enter through Jomari.** Every foreign cargo into the Old World passes House Jomari's harbours. The Pillars who lose by it resent Jomari first.
-- **Buy a Kharven house.** Ashmore sells grain, Thornwall sells timber, Hallenfeld wants a centre. The Northern Road Company is buying all three, and none of the three has told the others.
+- **Enter through Jomari.** Every foreign cargo into the Old World passes House Jomari's harbors. The Pillars who lose by it resent Jomari first.
+- **Buy a Kharven house.** Ashmore sells grain, Thornwall sells timber, Hallenfeld wants a center. The Northern Road Company is buying all three, and none of the three has told the others.
 - **Wait for the window.** Eresse binds for Eons inside its window and not at all outside it.
 - **Hold a name.** On Korvaeth ground a validated name is a weapon every court must hear.
 - **Read the rate.** Sancta Lux publishes its false-positive rate every year, and almost nobody reads it.

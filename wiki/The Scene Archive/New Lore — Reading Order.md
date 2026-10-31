@@ -7,7 +7,7 @@ private: true
 
 The scenes archived after the 2026-10-18 lore reset, in reading order. Two threads run side by side: **The Uncounted** (Muken and Yukazuri in the north) and **the cedar enclave** (Naiser and Naevra Yukari, the Zettari talks, the Moto breakaway). Sources live in `scenes/`; the pages below are their mirrors. *The Uncounted* runs through Chapter Nineteen, the fall of Kharven-Seat and the ratification of the seven lines.
 
-**Compiled book.** *The Uncounted, Book One of the Kōkan* (Chapters One to Nineteen, with The Verdict of Six, The White Knot, The Truth of Muken and The Iron Fist of the Keld as interludes) lives in `book/the-uncounted/`, in a plain edition and an ElevenReader audio edition with Eleven v4 tags, each as Markdown and as dark-and-gold Word. It was built from the scenes as revised 2026-10-24 to R78-4 (colour, magitech in the cities, Rob Stark's death at the Seat), with the 2026-10-25 Faisal retcon carried in. Part Two, *The Two Winters*, is in outline in the Author's Workroom and will sit between Chapters Seventeen and Eighteen.
+**Compiled book.** *The Uncounted, Book One of the Kōkan* (Chapters One to Nineteen, with The Verdict of Six, The White Knot, The Truth of Muken and The Iron Fist of the Keld as interludes) lives in `book/the-uncounted/`, in a plain edition and an ElevenReader audio edition with Eleven v4 tags, each as Markdown and as dark-and-gold Word. It was built from the scenes as revised 2026-10-24 to R78-4 (color, magitech in the cities, Rob Stark's death at the Seat), with the 2026-10-25 Faisal retcon carried in. Part Two, *The Two Winters*, is in outline in the Author's Workroom and will sit between Chapters Seventeen and Eighteen.
 
 | # | Scene | Thread |
 |---|---|---|
@@ -67,7 +67,7 @@ Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbe
 - **Muken knows**: Kiyome told him in the Foot's mess hall (Chapter Ten); Dougou told him he killed Gimbzo at Shimane (Chapter Eleven); Muken told Yukazuri, then the Foot at the woodpile (Chapter Twelve).
 - **Kasane married Gimbzo** privately at the white house, Kiyome the only witness.
 - **The three oaths**: Kiyome (the white house in the Shiraki hills, forty riders, a hidden granary), Hayato (twenty riders and his roads), Tetsugen (the Kurogane granaries and levies) gave their land and power to Muken.
-- **Under Muken's rule no Moto marches on Zettari land**, sworn by his honour. Muken offered Dougou his hand on a fight when the snow goes; the answer is the Zettari player's.
+- **Under Muken's rule no Moto marches on Zettari land**, sworn by his honor. Muken offered Dougou his hand on a fight when the snow goes; the answer is the Zettari player's.
 - **Ashmore and Thornwall** are named as Banner Houses in his way. A carter walked out toward the Keld.
 - New names: Harrowmere, Tullock, Brannick ford, Low Esk, the Grey Teeth, the Shiraki hills.
 
@@ -76,7 +76,7 @@ Kasane, Yukazuri (re-aged), Rob and Mark Stark, Hakon (the kneeling rider), Osbe
 - **The Skeldmere.** The carter reaches the Keld first, so Karogane's reveal is spent; the Starks answer "We know!" Thornwall's pikes (the Lady, Byakuya-born, later named **Hisae**) and Ashmore's horse (**Lord Edric Ashmore**, sworn to Hayato at the junction stone) turn the battle. The Sennet and Haldorsson Keld clans break on their old feud.
 - **Faisal** (the wiki's spelling of Isaac's "Fasial"), the Grand Angel, whole, kneeling under the cracked Lawbell's weight in the Plane of Fate, saves Muken and teaches him *Fure*, Hibi.
 - **Aksel Keld** is broken (iron hand shattered, sternum staved in) and spared. He later swears for the Keld on the card's condition: "stay worth following."
-- **Yukazuri** is taken from the surgeons' line on the shore (the Greymane spearman from the woodpile let the grey men in) and beheaded by Karogane in the Shirogane house on the third day of the **Great War of the North**. Her head comes home down the frozen Marrow. She is buried under a cairn on the ridge above the Foot.
+- **Yukazuri** is taken from the surgeons' line on the shore (the Greymane spearman from the woodpile let the gray men in) and beheaded by Karogane in the Shirogane house on the third day of the **Great War of the North**. Her head comes home down the frozen Marrow. She is buried under a cairn on the ridge above the Foot.
 - **Hataraki.** Faisal teaches six of the seven Works (Ruins, Purity, Spirit, Temporality, Knowledge, Balance). Totality is withheld: its Obsession face is enforced oneness. Muken's oath: crack nothing at the Seat that is not already dead.
 - **Tsugigane** ("joined iron," and "inheritance") is forged by **Borin Ironheart** from the three pieces of the scrap-iron sword with Yukazuri's seven needles folded in at the old break. The saya is black ash from the Foot's woodpile, and the sageo is Kiyome's white knot cord.
 - **The Samurai of Fate** (*Unmei no Samurai*) are the old Byakuya-sworn guard of the Kōkan; Kasane was the last. Muken's harness is near-black red laced in white, with a crestless helmet.

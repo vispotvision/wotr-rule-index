@@ -5,7 +5,7 @@
 **Yusif Stark** · the Quiet Man · Kharven, House Stark of Hollenmark · as of the last season he came down four galleries, the year the boy was thirteen
 **Stat line** · Level 160 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Attraction 30% / Spirit 10% · Expert · η 0.62 · Aether Class I, Muridic · Crystal Harmonic, Refined
 **Combat grammar** · Blade; edge, weight and the long clean line of the cut
-**Aura and sound** · the Stark cold, a hard white rime over grey, quieter than any Stark's before him · sound: an ash stick tapping once on a salt floor
+**Aura and sound** · the Stark cold, a hard white rime over gray, quieter than any Stark's before him · sound: an ash stick tapping once on a salt floor
 **Traits** · LET YOUR FEET DO IT (Primary) · tell: none; that is the point · counter: a fight you have to think through / STARK RIME (Inherited) · tell: his breath stops steaming · counter: heat / THE THING NOBODY WROTE DOWN (Secondary) · tell: he says nothing at all · counter: ask him in front of the one he is keeping it from
 **Signature** · THE LONG CLEAN LINE · tell: one cut, no flourish · counter: do not be where the line ends
 **Voice** · "You protect the weak. You defend the man next door. You keep the north quiet so the children can sleep in it. Everything else is just weather." · speaker type: a soldier who quit the best war-king in the north the morning after the worst night of it, and never explained himself to anyone but children
@@ -16,7 +16,7 @@
 **Age** · Forty-two when he died, about three years ago; Ulf Stark's young uncle, younger than his nephew
 **Realm / Faction** · House Stark of Hollenmark; once the best of Gimbzo's captains; afterwards, no one's, and a quiet road down into the Orrel Cuttings once a season
 **Refusal** · He would not put his name on the boy, or say the boy's father's; he called him Kasane's, every time, for sixteen years
-**Conviction** · Always swear by your honour, because it's the only thing you have that can be held to account. He kept the secret until it killed him
+**Conviction** · Always swear by your honor, because it's the only thing you have that can be held to account. He kept the secret until it killed him
 
 **Primaries** · Vitality 600 · Ardency 500 · Gnosis 400 · Dexterity 1,000 · Harmonics 300 · Resilience 800 · Tempering 300 · Dominion 300 · **Pool** 4,200 (2,100 from Levels, 2,100 from Thresholds I to VI), all spent
 **EU Reserve** · 295,202 EU · **Flux Density** · 30,000 EU/g · **AU/s** · 18,600 (30,000 × 0.62) · empties in 15.87 seconds at full output
@@ -45,7 +45,7 @@ One cut, edge and weight and the whole body behind it along one line, with nothi
 
 ## Physical Description
 
-He was a big quiet man, and older-looking than his years: his hair went grey early and silver after, worn short and swept back off a lined, weathered face, with pale grey eyes narrowed against snow-light and a mouth that rarely moved. He dressed for the road, in a long dark coat buckled close down the front with straps of worn leather, heavy leather bracers and fingerless gauntlets, a broad belt, and a dark scarf wound high round his throat and over his shoulders like a short cloak; he carried a plain northern longsword and an ash stick. When he came down four galleries into the Cuttings he brought salt-meat and wool and stood in the low doorway stooping, and the children did not know his name.
+He was a big quiet man, and older-looking than his years: his hair went gray early and silver after, worn short and swept back off a lined, weathered face, with pale gray eyes narrowed against snow-light and a mouth that rarely moved. He dressed for the road, in a long dark coat buckled close down the front with straps of worn leather, heavy leather bracers and fingerless gauntlets, a broad belt, and a dark scarf wound high round his throat and over his shoulders like a short cloak; he carried a plain northern longsword and an ash stick. When he came down four galleries into the Cuttings he brought salt-meat and wool and stood in the low doorway stooping, and the children did not know his name.
 
 ## Lore
 

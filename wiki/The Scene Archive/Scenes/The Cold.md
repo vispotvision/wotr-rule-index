@@ -36,7 +36,7 @@ A drop of molten obsidian from his own stamp had been hanging in the air there, 
 
 Then there were more of them.
 
-They came out of the goblin like frost comes across a windowpane, but in jagged pieces, scattered, wrong. A coil of steam off the river stopped and stood in the air as a white glass ribbon that would never finish its curl. A tongue of his own purple fire, flaring off his shoulder, went still in the middle of its leap and hung there as a twisted violet sculpture with every flicker caught in it like an insect in amber. Half a bubble on the boiling river stopped in the act of bursting and became a dome of rose-coloured crystal with a ragged hole in its top. All around them the Pit was coming apart into pieces of perfect stillness, malformed and beautiful and dead, each fragment sealed off from the next along clean flat planes that cut through steam and stone and light alike, and where the planes met there was a sound, very faint, like ice settling on a pond in the night.
+They came out of the goblin like frost comes across a windowpane, but in jagged pieces, scattered, wrong. A coil of steam off the river stopped and stood in the air as a white glass ribbon that would never finish its curl. A tongue of his own purple fire, flaring off his shoulder, went still in the middle of its leap and hung there as a twisted violet sculpture with every flicker caught in it like an insect in amber. Half a bubble on the boiling river stopped in the act of bursting and became a dome of rose-colored crystal with a ragged hole in its top. All around them the Pit was coming apart into pieces of perfect stillness, malformed and beautiful and dead, each fragment sealed off from the next along clean flat planes that cut through steam and stone and light alike, and where the planes met there was a sound, very faint, like ice settling on a pond in the night.
 
 Shōki understood it a moment too late.
 
@@ -48,7 +48,7 @@ A fragment had closed around his right hand.
 
 He saw it. The maw, scale and teeth and furnace, was sitting inside a pane of nothing that cut his forearm off two inches below the fused cuff in a plane as clean as a headsman's stroke, and the part of him on the far side of the plane was there and was his and could not move. He could not feel heat in it. He could not feel anything in it. It was not cold. It was not anything.
 
-"Ouuuuu," said Vaashuuk, a little breathless. "Hurts, huh. Hurts me too." And it did; Shōki could see it. The goblin was grey round the mouth, and sweat stood on his upper lip under the painted beauty mark, and his claws were shaking. "This is why I don't do it. Takes the stuffin' outta me. Captain's gonna owe me a week off. A month." He swallowed. "Okay. Hold still. Not that you got a choice."
+"Ouuuuu," said Vaashuuk, a little breathless. "Hurts, huh. Hurts me too." And it did; Shōki could see it. The goblin was gray round the mouth, and sweat stood on his upper lip under the painted beauty mark, and his claws were shaking. "This is why I don't do it. Takes the stuffin' outta me. Captain's gonna owe me a week off. A month." He swallowed. "Okay. Hold still. Not that you got a choice."
 
 The stillness was spreading down, under them. Shōki felt the slab beneath his boots go quiet, the yellow glow of the obsidian stopping in a single instant into dull dead black. He looked down. There was a plane running through the rock beneath them, a clean flat face of nothing, and beyond it, through it, below it, there was something the Pit did not have.
 
@@ -60,7 +60,7 @@ The fragments touched the floor of hell, and the floor of hell broke along their
 
 Cold.
 
-It went into him all at once, like a hand closing round his chest. He was on his knees, and under his knees was snow, deep and dry and squeaking, and above him was a sky so blue it rang, a pale enormous winter blue from one edge of the world to the other, with a sun low in it the colour of new brass, and the light came off the snow in a white blaze that made his one eye water. The air smelled of pine resin and woodsmoke and nothing else. No sulphur. No incense. No vents. In the silence he could hear a crow, a long way off, and the soft tick of snow settling off a branch.
+It went into him all at once, like a hand closing round his chest. He was on his knees, and under his knees was snow, deep and dry and squeaking, and above him was a sky so blue it rang, a pale enormous winter blue from one edge of the world to the other, with a sun low in it the color of new brass, and the light came off the snow in a white blaze that made his one eye water. The air smelled of pine resin and woodsmoke and nothing else. No sulfur. No incense. No vents. In the silence he could hear a crow, a long way off, and the soft tick of snow settling off a branch.
 
 And in his chest, something moved.
 
@@ -74,7 +74,7 @@ It was so cold it burned. He pushed it in to the wrist, to the cuff, feeling the
 
 *Cold,* he thought. *I had forgotten cold.*
 
-The heat of him was already working outward through the snow. A ring of it went soft around his knees, then grey, then wet, then gone, and under it was black earth and frozen bracken, steaming.
+The heat of him was already working outward through the snow. A ring of it went soft around his knees, then gray, then wet, then gone, and under it was black earth and frozen bracken, steaming.
 
 ---
 
@@ -84,7 +84,7 @@ He had landed badly. He had landed on his pompadour. There was snow in his colla
 
 He lifted his head out of the drift, shook it like a dog, and looked downhill.
 
-Below him the slope ran down through scattered black pines to a valley, and in the valley there was a road, and on the far side of the road, on a ridge of grey granite, there was a watchtower of black basalt blocks, squat and square and ugly as a fist, and on top of the tower, snapping in the wind, there was a banner.
+Below him the slope ran down through scattered black pines to a valley, and in the valley there was a road, and on the far side of the road, on a ridge of gray granite, there was a watchtower of black basalt blocks, squat and square and ugly as a fist, and on top of the tower, snapping in the wind, there was a banner.
 
 He knew it. Every goblin from the deep yards knew it before they knew their own mother's face. Iron-red cloth, and on it a black basalt fist, closed, the knuckles forward. The Iron Mandate of Undaar-Keth. The Empire in the North, the goblins in the yards called it when there was no hobgoblin in earshot, and the Imperium when there was one and they wanted to make him smile.
 
@@ -122,7 +122,7 @@ It was very good. He had not known how good food could be. He ate with his face 
 
 "Those marks," said someone beside him.
 
-There was an old man at the other end of the bench. Shōki had not seen him sit. He was very small and very old, bundled in three coats and a fur hat with the ear-flaps down, with a face as brown and creased as a walnut and a long white moustache stained yellow at the ends from his pipe, which he was holding, unlit, between two knuckles. His eyes were milky blue at the edges, still sharp in the middle, and they were on the Covenant Scar.
+There was an old man at the other end of the bench. Shōki had not seen him sit. He was very small and very old, bundled in three coats and a fur hat with the ear-flaps down, with a face as brown and creased as a walnut and a long white mustache stained yellow at the ends from his pipe, which he was holding, unlit, between two knuckles. His eyes were milky blue at the edges, still sharp in the middle, and they were on the Covenant Scar.
 
 "I've seen those," the old man said. "Once. When I was a lad. My father took me down to the Seat for the assize, and I saw them walk the condemned down the black floor. The Kurenai." He said it carefully, in the old court way, the way his father had. "They had that mark. Just there." He touched his own left shoulder through the three coats. "Only theirs were red."
 
@@ -148,7 +148,7 @@ And now there was one crown. One house. One law.
 
 The anger came up.
 
-It did not come as it had in the Pit, in a column of fire. It came out of him the way the steam came off him, through every crack in his skin at once, and it was not heat. Or it was heat, and something else with it. It went out of him into the cold bright air as a haze, a faint shimmer the colour of a bruise, purple-black at its heart and fever-red at its edges, and it did not rise like steam rises. It spread. It went low across the snow and under the doors and in through the chinks of the shutters and down the street, slow and thick, and wherever it touched it stayed.
+It did not come as it had in the Pit, in a column of fire. It came out of him the way the steam came off him, through every crack in his skin at once, and it was not heat. Or it was heat, and something else with it. It went out of him into the cold bright air as a haze, a faint shimmer the color of a bruise, purple-black at its heart and fever-red at its edges, and it did not rise like steam rises. It spread. It went low across the snow and under the doors and in through the chinks of the shutters and down the street, slow and thick, and wherever it touched it stayed.
 
 The noodle man behind the steam made a sound.
 
@@ -186,7 +186,7 @@ He stood up. The bench, relieved of him, sprang back an inch.
 
 There was something on the table under the old man's elbow. It had been there the whole time, a little thing, half under the fallen pipe, and Shōki had not looked at it. He looked at it now.
 
-It was a chapbook. A cheap little pamphlet of folded paper the size of a man's palm, the kind pedlars carried in a tray and sold for a copper to children at fairs, printed in blurred black ink on grey paper, with a woodcut on the cover coloured by hand in red and orange. The woodcut showed a huge man, almost round, with a kettle for a head and steam pouring out of the spout, and chains on his wrists, sitting in a puddle of his own tears that were boiling. Under it, in big friendly letters, it said:
+It was a chapbook. A cheap little pamphlet of folded paper the size of a man's palm, the kind pedlars carried in a tray and sold for a copper to children at fairs, printed in blurred black ink on gray paper, with a woodcut on the cover colored by hand in red and orange. The woodcut showed a huge man, almost round, with a kettle for a head and steam pouring out of the spout, and chains on his wrists, sitting in a puddle of his own tears that were boiling. Under it, in big friendly letters, it said:
 
 **OLD FURNACE AND THE HEADSMAN'S WIFE**
 *A Tale for Wicked Children, With a Moral*

@@ -1,12 +1,12 @@
 ---
-title: "The Uncounted, Chapter Eleven By My Honour"
+title: "The Uncounted, Chapter Eleven By My Honor"
 private: true
 source: scenes/the_uncounted_chapter_eleven_by_my_honour.md
 ---
 
 > Mirrored from `scenes/the_uncounted_chapter_eleven_by_my_honour.md`; edit it there.
 
-## Book One of the Kōkan · Chapter Eleven: By My Honour
+## Book One of the Kōkan · Chapter Eleven: By My Honor
 
 ---
 
@@ -44,13 +44,13 @@ And then he said it.
 
 *I killed him.*
 
-The wolfhound was on its feet before the words were finished. It had been lying across Muken's boots again, with its chin on his instep, and now it was up and between his chair and the room, enormous and grey and shaking, with every hair along its spine standing like a brush and its lips drawn back off teeth as long as a man's thumb, and the sound that came out of it was nothing like the door-on-a-bad-hinge sound it had made before. It was low and continuous and it came up through the stone floor into the soles of everyone's feet.
+The wolfhound was on its feet before the words were finished. It had been lying across Muken's boots again, with its chin on his instep, and now it was up and between his chair and the room, enormous and gray and shaking, with every hair along its spine standing like a brush and its lips drawn back off teeth as long as a man's thumb, and the sound that came out of it was nothing like the door-on-a-bad-hinge sound it had made before. It was low and continuous and it came up through the stone floor into the soles of everyone's feet.
 
 Muken did not put his hand on its head.
 
 He did not move at all.
 
-Godfrey Greymane, at his right hand, saw the gold seam in his left eye go from a hair's breadth to the width of a thread, all at once, like a crack running across ice when a man's weight comes down on it. He saw the edges of Muken's knuckles go white on the pine. He saw nothing else, because there was nothing else to see. Muken sat in Shigure Tenrai's carved chair with his face set like frozen ground and his grey eyes on the Crown Prince of Kushara, and let him say the rest of it.
+Godfrey Greymane, at his right hand, saw the gold seam in his left eye go from a hair's breadth to the width of a thread, all at once, like a crack running across ice when a man's weight comes down on it. He saw the edges of Muken's knuckles go white on the pine. He saw nothing else, because there was nothing else to see. Muken sat in Shigure Tenrai's carved chair with his face set like frozen ground and his gray eyes on the Crown Prince of Kushara, and let him say the rest of it.
 
 *I won't apologize for it. He needed to be stopped.*
 
@@ -112,7 +112,7 @@ It did not stop growling. But it stopped shaking.
 
 "Down," said Muken.
 
-The dog looked back at him over its great grey shoulder. Then, slowly, with the hackles still up along its spine, it lay down across his boots again, and put its chin on his instep, and watched the prince with its yellow eyes and did not close them.
+The dog looked back at him over its great gray shoulder. Then, slowly, with the hackles still up along its spine, it lay down across his boots again, and put its chin on his instep, and watched the prince with its yellow eyes and did not close them.
 
 "You killed him," said Muken.
 
@@ -124,7 +124,7 @@ He let it sit.
 
 "I want you to know I thought about it," said Muken. "Just now. Sitting here. I thought about three steps of floor and the place under your arm where the robe hangs loose." He said it without any heat at all. "I've sold my sword since I was fourteen. You'd have seen me think it. You were watching for it."
 
-Godfrey's long grey hand had come to rest on the table again beside his, flat, not touching him.
+Godfrey's long gray hand had come to rest on the table again beside his, flat, not touching him.
 
 "And then I thought about Hiroe," Muken said. "And the cellars. And a village in the hill road called Harrowmere that had eighty people in it in the summer and twenty-six in it last week. And I thought about what my mother died of, which wasn't you." He was quiet a moment. "So no. I don't hate you for it. I'd like to. It'd be easier. I'd have somewhere to put all this." He touched his own chest, once, with two fingers, over the place where the black hot thing lay banked. "But you did what somebody had to do, and nobody else did it: the seven lines, the Hall, all the men who stood behind him for twenty years and watched." He did not look at Kiyome, or Tetsugen, or Hayato. "You did. I'll not hate a man for doing the one thing everybody else was too frightened to."
 
@@ -196,7 +196,7 @@ He stopped, as though the words were heavier than he had expected, and weighed t
 
 Tetsugen's head came up. Hayato's fingers stopped on the corner of his cape. Kiyome did not move at all.
 
-"No levy," said Muken. "No column, and not a single tax-cart, while I'm breathing." His voice did not rise. "Under my rule, we will control the north, the way we did for hundreds of years before the war. Our own snow. Our own salt. Our own ice. And we'll keep it well, which is more than we've done in my lifetime." His grey eyes moved, slowly, from one Moto face to the next. "And we'll reach for nothing else. We let ourselves believe we could control the whole of the inner world." He was quiet a moment. "We couldn't even control ourselves. My father went down into the cellars with a lamp after his own blood, and the seven lines watched him do it and wrote it down. That's what we were. That's what we made of the world when we had it."
+"No levy," said Muken. "No column, and not a single tax-cart, while I'm breathing." His voice did not rise. "Under my rule, we will control the north, the way we did for hundreds of years before the war. Our own snow. Our own salt. Our own ice. And we'll keep it well, which is more than we've done in my lifetime." His gray eyes moved, slowly, from one Moto face to the next. "And we'll reach for nothing else. We let ourselves believe we could control the whole of the inner world." He was quiet a moment. "We couldn't even control ourselves. My father went down into the cellars with a lamp after his own blood, and the seven lines watched him do it and wrote it down. That's what we were. That's what we made of the world when we had it."
 
 He paused.
 
@@ -226,7 +226,7 @@ He looked down, then, at the mark in the dust: his mother's mark, his name, lyin
 
 He lifted his eyes.
 
-"So this is my fate," said Muken. "And I'll claim it. I'll claim my destiny, since everyone keeps telling me I have one." The corner of his mouth moved again. "But I'll claim it my own way. I will not force my powers onto the weak, or the innocent, the way he did. Not with a sword, and not with whatever this is." He touched the corner of his left eye, once, with two fingers, where the gold seam lay. "I'll stand in front of them. And I'll defend them with honour, or I'll not stand there at all."
+"So this is my fate," said Muken. "And I'll claim it. I'll claim my destiny, since everyone keeps telling me I have one." The corner of his mouth moved again. "But I'll claim it my own way. I will not force my powers onto the weak, or the innocent, the way he did. Not with a sword, and not with whatever this is." He touched the corner of his left eye, once, with two fingers, where the gold seam lay. "I'll stand in front of them. And I'll defend them with honor, or I'll not stand there at all."
 
 At the foot of the table, Kiyome Byakuya's eyes had filled again.
 
@@ -236,7 +236,7 @@ She did not wipe them. She unfolded her hands. And then, slowly, as though the m
 
 Her voice was very low. It was not meant for the room. It was meant for one person in it.
 
-"Peace before the blade." She went down on one knee on the stone floor of the Tenrai mess, in her near-white robes grey with the road, and laid the katana flat across her knee with its hilt toward him. "And the red line before the white. Until the end of the red line." She bowed her head over the sword. "That's the oath of my house, nephew. My grandmother taught it to me over the lamp, and to Kasane before me. It binds me to you. It doesn't bind you to anything at all."
+"Peace before the blade." She went down on one knee on the stone floor of the Tenrai mess, in her near-white robes gray with the road, and laid the katana flat across her knee with its hilt toward him. "And the red line before the white. Until the end of the red line." She bowed her head over the sword. "That's the oath of my house, nephew. My grandmother taught it to me over the lamp, and to Kasane before me. It binds me to you. It doesn't bind you to anything at all."
 
 Nobody moved.
 
@@ -248,13 +248,13 @@ Muken looked at her bowed white head, and at the cord hanging from her fingers, 
 
 She did not get up at once. When she did, she rose the way she had risen at the enclave, all at once, with the glass beads at her temples chiming faintly, and the white cord still hanging from her fingers, and she did not tie it back onto her sword.
 
-Tetsugen Akagane had been watching from under his heavy grey brows. Now he grunted, low in his chest.
+Tetsugen Akagane had been watching from under his heavy gray brows. Now he grunted, low in his chest.
 
-"I've no oath to give you," he said. "The Akagane never swore to the red. We only ever obeyed it." He looked at Muken with his flat stone face. "But I'll tell you this, boy. Sire. If you meant that, about the Zettari lands, then you'll want my books. The Sennen muster rolls. Every commander's name who drew grain from my stores to march south." He hooked his thumbs in his belt. "A king who means to stop his own people marching on their neighbours had better know which of his own people did the marching."
+"I've no oath to give you," he said. "The Akagane never swore to the red. We only ever obeyed it." He looked at Muken with his flat stone face. "But I'll tell you this, boy. Sire. If you meant that, about the Zettari lands, then you'll want my books. The Sennen muster rolls. Every commander's name who drew grain from my stores to march south." He hooked his thumbs in his belt. "A king who means to stop his own people marching on their neighbors had better know which of his own people did the marching."
 
 "I'll take them," said Muken.
 
-Hayato Amagiri had stood through all of it without fidgeting once, which for him was a feat of arms. Now he laughed, once, under his breath, and it had no humour in it at all.
+Hayato Amagiri had stood through all of it without fidgeting once, which for him was a feat of arms. Now he laughed, once, under his breath, and it had no humor in it at all.
 
 "My uncle," he said, "is going to have an apoplexy." He shook his head slowly. "*No Moto will march on Zettari lands again.* He'll call that treason in open council before you've finished saying it." He looked at Muken. "I'd say it louder, sire. Say it tonight, by the woodpile, after the other thing. Say it where every Stark rider can hear it, and every one of them will carry it home to a long house that buried a son on a southern field." He drew a line in the air with one finger. "And I'll carry it down my roads. Every hut with a woodpile in it between here and the border. Before the Hall can say you didn't mean it."
 
@@ -264,7 +264,7 @@ Hayato Amagiri had stood through all of it without fidgeting once, which for him
 
 Muken looked down at his own right hand on the table.
 
-There was a callus across the base of the fingers that had been there since he was eight years old. A thick ridge of hard skin where a length of ash had rubbed it raw in the back of a worked-out gallery, season after season, while a big quiet grey-bearded man stooped under the low roof with his own hands closed over the boy's on the end of the stick.
+There was a callus across the base of the fingers that had been there since he was eight years old. A thick ridge of hard skin where a length of ash had rubbed it raw in the back of a worked-out gallery, season after season, while a big quiet gray-bearded man stooped under the low roof with his own hands closed over the boy's on the end of the stick.
 
 *Again. Again. You're thinking. Stop thinking.*
 
@@ -272,11 +272,11 @@ And once, at the very end of a lesson, with the lamp going down and the stick pu
 
 He said it now, aloud, to the room, in Yusif Stark's own words.
 
-"*Always swear by your honour,*" said Muken. "*Because it's the only thing you have that can be held to account.*"
+"*Always swear by your honor,*" said Muken. "*Because it's the only thing you have that can be held to account.*"
 
 At the wall, Lorn Stark made a sound in his throat, very small, and looked at the floor.
 
-"Yusif said that to me," said Muken. "When I was eight. In the dark, under the salt, with nobody but me to hear it. He said a man's gold can be taken, and his land, and his name. They took his. He gave up his place among the Seven and his house's name to come down those galleries, and nobody ever let him have them back." He breathed. "But nobody can take a man's honour off him. He can only put it down himself. So it's the one thing anybody can ever hold him to." He looked at Lorn. "I never knew what he meant. I think I do now."
+"Yusif said that to me," said Muken. "When I was eight. In the dark, under the salt, with nobody but me to hear it. He said a man's gold can be taken, and his land, and his name. They took his. He gave up his place among the Seven and his house's name to come down those galleries, and nobody ever let him have them back." He breathed. "But nobody can take a man's honor off him. He can only put it down himself. So it's the one thing anybody can ever hold him to." He looked at Lorn. "I never knew what he meant. I think I do now."
 
 Lorn did not lift his eyes. But his right hand came up off his side, slowly, and lay flat on his chest, and closed into a fist against his breastbone, and pressed there once, hard. And stayed.
 
@@ -286,13 +286,13 @@ The legs scraped on the stone. It was the loudest sound in the room. The wolfhou
 
 So the king of the north stood up.
 
-He was not tall. He had never been tall. He stood at the head of his split pine table in a dead sergeant's coat gone the colour of tea, with Ulf Stark's mail under it and his left arm still held a little close to his side, and his white hair tied back with a strip of leather, and the dead bronze token on his belt, and the gold seam lying quiet now in his left eye like a vein of ore in grey stone. He came round the end of the table, past the barrel, past the stools, past his aunt with the white cord in her fingers and the two lords of the seven lines, and stopped three steps from the Crown Prince of Kushara.
+He was not tall. He had never been tall. He stood at the head of his split pine table in a dead sergeant's coat gone the color of tea, with Ulf Stark's mail under it and his left arm still held a little close to his side, and his white hair tied back with a strip of leather, and the dead bronze token on his belt, and the gold seam lying quiet now in his left eye like a vein of ore in gray stone. He came round the end of the table, past the barrel, past the stools, past his aunt with the white cord in her fingers and the two lords of the seven lines, and stopped three steps from the Crown Prince of Kushara.
 
 The same three steps of floor he had looked at, ten minutes ago, through the gold.
 
 He held out his right hand. The callused one. Open, palm sideways, the way the Starks offered a hand, not the way the Moto did.
 
-"By my honour," said Muken, "we shall fight."
+"By my honor," said Muken, "we shall fight."
 
 He did not lower his hand. He did not look away.
 
@@ -310,9 +310,9 @@ He stood with his hand out, in the firelight, in the long low hall at Kharven's 
 **Your beats, in order (IV and V):**
 1. "Under my rule... no Moto will ever march on Zettari lands again. Under my rule we will hold the north like we did for hundreds of years before the War. We let ourselves believe we could control the entire world when we couldn't even control ourselves." Muken pauses.
 2. "And I am sure you'll make a great king. It isn't right for them to force the responsibility of your country on you; however, I hope for the prosperity of the Zettari, just as for the Yukari. Not for the families, but for the people themselves."
-3. Muken knows how ironic it sounds. "May sound ironic because I am a Moto and mine spent a long time killing yours, but I will not continue that idea. I was given this life for a reason. This is my fate, and I will claim my destiny. I will not force my powers onto the weak and innocent, and I will defend them with honour."
-4. Yusif's words: "Always swear by your honour, because it's the only thing that can be held to account."
-5. Muken stands and offers Dougou his hand. "By my honour we shall fight, and hopefully our fight can be something all of our people can remember."
+3. Muken knows how ironic it sounds. "May sound ironic because I am a Moto and mine spent a long time killing yours, but I will not continue that idea. I was given this life for a reason. This is my fate, and I will claim my destiny. I will not force my powers onto the weak and innocent, and I will defend them with honor."
+4. Yusif's words: "Always swear by your honor, because it's the only thing that can be held to account."
+5. Muken stands and offers Dougou his hand. "By my honor we shall fight, and hopefully our fight can be something all of our people can remember."
 
 **Dougou's post, answered point by point. He is never written.**
 
@@ -327,7 +327,7 @@ He stood with his hand out, in the firelight, in the long low hall at Kharven's 
 | "You have something I don't" | Muken: it isn't right to force a country on a man for whose son he is |
 | "Better king than his father?" | "Under my rule" |
 | "Become whatever kind of king you want" | Muken's claim to fate, on his own terms |
-| No armies, no politics, when the snow goes | Muken's handshake and "By my honour we shall fight" |
+| No armies, no politics, when the snow goes | Muken's handshake and "By my honor we shall fight" |
 
 The post stops with Muken's hand held out, so the shake is Dougou's to give or refuse. Dougou gets no lines, actions, thoughts or reactions. He appears only where he put himself, by the wall.
 
@@ -345,4 +345,4 @@ The post stops with Muken's hand held out, so the shake is Dougou's to give or r
 
 **Rule ids that most constrained it:** R72-4 (stop on a physical action aimed at another player's character: the open hand), R71-6 (a player's acts are world facts; his reasons stay his), R70-50 (one changed detail on return), R72-25 (Kiyome's oath, Tetsugen's knife hand as tells), R70-114 (the warm bond: Yusif's lesson), and your standing rule to answer every point without writing him.
 
-**Revision 2026-10-24.** Light colour in the frontier hall (the spark up the flue, Hayato's indigo and juniper, firelight gold along the mark), no magitech at the Foot, a beat of Hayato's dry wit, and the tics trimmed (did not need to, quite/very still, long moments, the foot-on-a-ledge, the full mark description, two countdown runs smoothed in Muken's speech without changing what he says); every beat and Isaac's lines are kept, and Dougou's passages are untouched.
+**Revision 2026-10-24.** Light color in the frontier hall (the spark up the flue, Hayato's indigo and juniper, firelight gold along the mark), no magitech at the Foot, a beat of Hayato's dry wit, and the tics trimmed (did not need to, quite/very still, long moments, the foot-on-a-ledge, the full mark description, two countdown runs smoothed in Muken's speech without changing what he says); every beat and Isaac's lines are kept, and Dougou's passages are untouched.

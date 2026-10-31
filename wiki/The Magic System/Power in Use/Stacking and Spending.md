@@ -31,10 +31,10 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 | Reserve left | The tells |
 |---|---|
 | **Half** | The breath shortens and stays short between exchanges. The aura dims, as if a hand had cupped the lamp. |
-| **A quarter** | A tremor in the hands and the knees. The colour thins: the hue washes toward grey and the edges of the aura fray. |
+| **A quarter** | A tremor in the hands and the knees. The color thins: the hue washes toward gray and the edges of the aura fray. |
 | **A tenth** | The aura flickers on and off like a lamp on a failing main (a city's Aether supply line). Traits (the soul's standing laws) stutter: a working comes out late, or half, or not at all. Below this is Starvation, where stats sag and the Crystal's outer layer degrades. |
 
-**Maxing out.** A Crystal pushed to its ceiling and past it shows heat first, a fever-flush and steam off wet clothes, then blood: from the nose, the corners of the eyes, the gums. Last, the aura cracks. Bright fault-lines run through the colour like crazed glass, and every trained eye in the room knows what they are.
+**Maxing out.** A Crystal pushed to its ceiling and past it shows heat first, a fever-flush and steam off wet clothes, then blood: from the nose, the corners of the eyes, the gums. Last, the aura cracks. Bright fault-lines run through the color like crazed glass, and every trained eye in the room knows what they are.
 
 **Waste.** Every working loses some of its Essence as heat, noise and light, and how much is set by the practitioner's efficiency (η, the share of spending that arrives as effect). A novice's working is loud and hot: a roar, a blast of warm air, light spilling everywhere. A master's is quiet. The same force arrives with almost nothing around it, and the quiet is often the first thing that tells an opponent what they are facing.
 
@@ -47,7 +47,7 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 
 ## How it is beaten
 
-- **Read the ladder.** The tells are the same on everyone. A short breath and a dimming aura means half; when the colour flickers, close.
+- **Read the ladder.** The tells are the same on everyone. A short breath and a dimming aura means half; when the color flickers, close.
 - **Strip a layer.** Break the focus that holds a release, make a vow-sworn fighter choose between the vow and his life, knock the weapon that carries his coat. Each layer lost is a Grade lost.
 - **Make them stack.** A fighter at the cap who is losing has one move left, another layer, and it is the one most likely to crack him.
 - **Strike the drink.** A fight Draft costs a beat with the neck of a bottle at the lips. Break the belt of bottles before the fight and the reserve is all they have.
@@ -58,4 +58,4 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 
 **Hob Garrow**, a Stage VI caravan guard with Materia (stone and substance) Essence, has a stack line that reads: *coat, focused (+1); vow, no step back (to the top of the band); IRON GRIP, called (surge); cap at +2.* Against a Stage VI raider on a pass road he focuses his coat into his right fist and swears his vow aloud: he will not take a step back. That is two layers, a Grade up and the top of the band above it, and the risk is real.
 
-Two minutes in, his breath is short and his ochre aura has dimmed: half. The raider sees it and starts circling. Hob drinks a fight Draft with his free hand, a beat with his guard down, and takes a cut along the jaw for it. His reserve comes back up. At a quarter again his hands shake and the ochre washes grey. He calls IRON GRIP as he swings, the surge cracks the raider's shoulder, and the fight is done. An hour later the crash lands, and Hob sleeps across two sacks of meal while the wagons roll on without him.
+Two minutes in, his breath is short and his ochre aura has dimmed: half. The raider sees it and starts circling. Hob drinks a fight Draft with his free hand, a beat with his guard down, and takes a cut along the jaw for it. His reserve comes back up. At a quarter again his hands shake and the ochre washes gray. He calls IRON GRIP as he swings, the surge cracks the raider's shoulder, and the fight is done. An hour later the crash lands, and Hob sleeps across two sacks of meal while the wagons roll on without him.

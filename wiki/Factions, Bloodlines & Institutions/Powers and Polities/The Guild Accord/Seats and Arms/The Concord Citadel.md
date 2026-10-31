@@ -78,7 +78,7 @@ Every Concord Seal, Commission, and Merit flows first through this light before 
 
 A sprawling complex of halls, guild quarters, training sanctums, and Gate plazas. Here agents from every realm converge: soldiers, mages, Sealwrights, and scholars walking side by side. **The air is perpetually filled with light rain — the condensation of Aether in its purest form.**
 
-At its centre stands the **Forum of Balance**, where citizens bring disputes before minor Arbiters. Every verdict echoes upward to the Council Spire, imprinting itself in the Codex as precedent.
+At its center stands the **Forum of Balance**, where citizens bring disputes before minor Arbiters. Every verdict echoes upward to the Council Spire, imprinting itself in the Codex as precedent.
 > **Justice in the Accord is circular — born below, judged above, recorded forever.**
 
 ---

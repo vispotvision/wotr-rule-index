@@ -72,7 +72,7 @@ The Archive receives the Name-record **and the Archive does not release it.** A 
 **The nine-day window explains the entire trade's structure.** Why Class IV must be rendered fast. **Why the rendering houses sit near the assizes and the battlefields and the workhouses.** Why a body that has been argued over is a body worth nothing. And why Gravemark Ink specifies grinding within nine days of the donation — ***and every alchemist knows the figure without knowing why it is nine.***
 > **The Law of Return is an anti-rendering provision and has never been read as one.**
 >
-> The Codex Protocol states that any Accord soldier who dies defending a Wellspring becomes part of its flow **and that their Essence cannot be reclaimed.** This is presented as an honour.
+> The Codex Protocol states that any Accord soldier who dies defending a Wellspring becomes part of its flow **and that their Essence cannot be reclaimed.** This is presented as an honor.
 >
 > **Structurally it is a prohibition on Class IV rendering of Accord war dead, drafted before the trade existed, in language that does not mention the trade.** Whether it was foresight or accident is not recorded.
 >
@@ -111,7 +111,7 @@ So the prohibition is not that necromancy is disrespectful. **It is that a necro
 
 | Form | What it is |
 |---|---|
-| **Lawful Echo** *Class II* | Desaturated, grey, tied to an anchor. **Not dangerous in itself and hazardous by proximity** — sustained exposure produces Melancholic Erosion. The remedy is removal from the site, **and the folk remedy is grounding tea, which does nothing and helps** |
+| **Lawful Echo** *Class II* | Desaturated, gray, tied to an anchor. **Not dangerous in itself and hazardous by proximity** — sustained exposure produces Melancholic Erosion. The remedy is removal from the site, **and the folk remedy is grounding tea, which does nothing and helps** |
 | **Soul Drift** | Involuntary partial crossing by a living person. Commonest in thin-Veil zones **and in the recently bereaved, whose Attraction Layer is reaching for an anchor that has moved.** Treated as a medical emergency requiring re-anchoring. ***Grief is the commonest cause of Veil injury in the four quarters and is not classified as a cause of anything in the Accord's own returns*** |
 | **Echo Beasts** | Corrupted soul-forms condensed from unresolved Soul Plane content pouring through a rupture. **Produced in volume by battlefields** |
 | **The Hollow** *Class V* | Static, purple silence. **What is left where the Crossing was prevented at scale and long enough.** Contact produces Dissonance: cracks in the Crystal, misfiring, apathy. *The field guides advise fire or flight* *and the field guides are not being dramatic* |

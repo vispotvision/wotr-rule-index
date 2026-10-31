@@ -35,7 +35,7 @@ The base unit of both length and weight is **the grain**, a single counted seed 
 | **span** | 12 thumbs | the working unit; a mason's rule is a span long |
 | **reach** | 3 spans | fingertip to fingertip is close; the Accord's standard reach is a bronze bar |
 | **rod** | 5½ reaches | awkward, universally complained about, never changed |
-| **furrow** | 40 rods | what a team ploughs before it turns |
+| **furrow** | 40 rods | what a team plows before it turns |
 | **walk** | 8 furrows | an hour's walking on level road, which is why distance and time are the same word in most of the four quarters |
 
 **The Accord wanted fourteen and did not get it.** Fourteen is the doctrinally correct number and the chancery proposed it in the second revision: fourteen thumbs to the span, on the reasoning that the day divides by fourteen and so should everything else. Every trade in the four quarters refused, in unison, for a reason that has nothing to do with theology. **You cannot halve fourteen twice.** A carpenter needs the half, the quarter and the eighth, and twelve gives him all three, and fourteen gives him one and then a fraction he has to think about.
@@ -124,12 +124,12 @@ A district on falling pressure is billed the same for less, because the meter co
 
 ## IX. Where the Weighing Is Also Worship
 
-**Urion's Labour is the Weighing:** one thing weighed on a true balance every day. It requires no priest, no building and no scale but the household's own, and it is performed by more people in the four quarters than any organised rite.
+**Urion's Labor is the Weighing:** one thing weighed on a true balance every day. It requires no priest, no building and no scale but the household's own, and it is performed by more people in the four quarters than any organised rite.
 
 So the same physical act carries three meanings at once and the actors are usually unaware of two of them.
 - **The Accord** weighs to establish a fact and charge for it.
 - **Sancta Lux** weighs to establish worth, and holds the establishing to be sacred.
-- **The Sohai** weighs to acknowledge Balance, expects no answer, and considers the other two to have confused a Labour with a transaction.
+- **The Sohai** weighs to acknowledge Balance, expects no answer, and considers the other two to have confused a Labor with a transaction.
 - **Kharven** weighs the ration and inspects the scale in public at Ice-out, and would tell you it is doing none of the above and is simply making sure nobody starves.
 A scene in which a man weighs something in front of another man is never only about the weight.
 

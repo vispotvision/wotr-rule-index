@@ -44,7 +44,7 @@ Authority: Pack Eighteen repealed the ratification protocol. Everything here is 
 - **R20C-10.** Vāimoana confirmed as the island name. Vāitele and Tuāoi dropped.
 - **R20C-11.** A confederation of aiga governed by fono. No king, no standing army, no Accord charter. Live.
 - **R20C-12.** The most stable Essence saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana. Live.
-- **R20C-13.** What the Agamalu declined to disclose four times: their own saturation readings. The fono holds centuries of them. The reason is not secrecy. The readings show a stability nobody on the island can account for, an admission of ignorance invites a survey, and a survey invites a licence. The Division files it as obstruction because the alternative reading is worse.
+- **R20C-13.** What the Agamalu declined to disclose four times: their own saturation readings. The fono holds centuries of them. The reason is not secrecy. The readings show a stability nobody on the island can account for, an admission of ignorance invites a survey, and a survey invites a license. The Division files it as obstruction because the alternative reading is worse.
 - **R20C-14.** Filemu's voice is lauga register. The sentence arrives carrying the weight of something already decided; the volume stays low and the cadence does the work. Under stress the cadence holds and the length drops. Lauga compresses.
 - **R20C-15.** Taulagi and Afasoa are re-anchored, not renamed. The Agamalu register is alive and legitimate, so both read as Vāimoana-descended. Two people carrying the confederation's naming standing a long way from any fono is a thread, not a defect.
 - **R20C-16.** Sonzai gets a **record card, not a character card**: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples. Those are Isaac's.
@@ -64,7 +64,7 @@ Hydrology not combustion. Cities on sites. Class geography by draw distance. App
 - **R20C-23 (R12-A).** Origin stays mythic. Mechanism is fully explicable; where it came from is not. The last surviving soft zone.
 - **R20C-24 (R13-A).** Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation.
 - **R20C-25 (R13-B).** The Percussion master-strike table is Dawi-authored in-world.
-- **R20C-26 (R13-C).** **The steel stops the shot, always.** A working may spall, bias, weaken or find the seam. It is never the armour.
+- **R20C-26 (R13-C).** **The steel stops the shot, always.** A working may spall, bias, weaken or find the seam. It is never the armor.
 - **R20C-27 (R13-D).** A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
 - **R20C-28 (R13-E).** The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
 - **R20C-29 (R13-F).** Category naming in diagnostic voice: allowed.
@@ -89,7 +89,7 @@ Hydrology not combustion. Cities on sites. Class geography by draw distance. App
 - **R20C-42.** Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood. **The gate applies to the working, not the technique** — a Stage V practitioner with an internalised technique still needs a medium.
 - **R20C-43.** Law III is dead and replaced. **Progression follows the sixteen Temperance Stages. The sixty Wellsprings are what a practitioner draws from, not what they climb.** The fourteen in the old text were Archons; someone conflated the lists.
 - **R20C-44.** Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.
-- **R20C-45.** The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalogue was never closed.
+- **R20C-45.** The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalog was never closed.
 - **R20C-46.** The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
 - **R20C-47.** Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.
 
@@ -101,7 +101,7 @@ Hydrology not combustion. Cities on sites. Class geography by draw distance. App
 - **Oaths and obscenity.** Sworn on a quench, and the water is kept. Quench-barrels are a house's record, stacked and dated; a barrel poured out is a vow broken in public. The obscenity is **cold**. Anything made without fire is a fraud, and calling a man's work cold starts fights.
 - **Colloquial time.** Heats, not hours. *Three heats back.* *It'll be two heats.* The week does not exist as a unit.
 - **The dead.** Cremated in the forge; the ash goes into the next quench. Every Zettari blade carries somebody and a smith can usually tell you who.
-- **The household object.** The tally-stick of heats owed. Fire is lent constantly between houses; a drawer of sticks in your favour is real wealth and everyone knows the count.
+- **The household object.** The tally-stick of heats owed. Fire is lent constantly between houses; a drawer of sticks in your favor is real wealth and everyone knows the count.
 - **Exchange.** They sell hours of the fire, never objects. The unit of account is the heat. Accord factors find the pricing incomprehensible, which is why Zettari work sells badly abroad.
 - **Proverbs.** *Cold makes nothing.* / *The barrel remembers.* / *A borrowed fire is a borrowed name.* / *You cannot hurry a heat and you cannot slow a life.* / *Ask the hands, not the man.* / *Thin ground, deep work.*
 - **The body.** Hands are a curriculum vitae and are read as one — burn-scatter dates the apprenticeship, scar patterns say what he has worked and at what temperature. A Zettari shakes hands palm-up. Concealing your hands is close to a confession.
@@ -141,7 +141,7 @@ Convention: **1 is most distant, 5 deepest interior.** FID remains house default
 - **R20C-55.** The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use.
 - **R20C-56.** Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene. The archive is a record.
 - **R20C-57.** The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave.
-- **R20C-58.** Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
+- **R20C-58.** Per-culture narration registers are flavor, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
 
 ## The fold — the only thing left on the docket
 

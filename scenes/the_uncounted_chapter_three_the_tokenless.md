@@ -4,11 +4,11 @@
 
 ---
 
-They lost five men at the head of the column before the horn stopped blowing, and three more on the Marrow crossing two days after that, when the ice under the lead wagon gave without a sound and took a team, two riders and the young driver everyone called Pell's Nephew down into the black water together. They never found any of them. On the ninth day the road came out of the timber at last onto a long bare shoulder of hill above a river. The sky over it was a hard clean blue, the first open sky in days. The river ran black-green between shelves of ice that the sun turned to blue glass at their edges, and smoke went straight up from the far bank in a single thread, and at the bottom of the hill, behind a stockade of split logs gone grey with weather, stood the Vessant post. There was no draw out here and never had been. The lamps in its windows were oil, and the yellow of them was the warmest colour for a hundred miles.
+They lost five men at the head of the column before the horn stopped blowing, and three more on the Marrow crossing two days after that, when the ice under the lead wagon gave without a sound and took a team, two riders and the young driver everyone called Pell's Nephew down into the black water together. They never found any of them. On the ninth day the road came out of the timber at last onto a long bare shoulder of hill above a river. The sky over it was a hard clean blue, the first open sky in days. The river ran black-green between shelves of ice that the sun turned to blue glass at their edges, and smoke went straight up from the far bank in a single thread, and at the bottom of the hill, behind a stockade of split logs gone gray with weather, stood the Vessant post. There was no draw out here and never had been. The lamps in its windows were oil, and the yellow of them was the warmest color for a hundred miles.
 
 Eleven wagons had left the Halcrest gate. Nine came in. Muken rode beside the lead team with his cheek stitched shut in a long black seam from the jaw to the corner of his eye, and his sister's stitches pulling every time he talked, and he did not talk much.
 
-The factor at the post counted the wagons in against his manifest twice. Then he counted the men, which took less time. Then he paid, in stamped Vessant bars, full weight, on a trestle by the gate, and every bar was there to the last, and the death-price for the eight who had not come back was there too, in a separate stack, sealed in oiled cloth and labelled in a neat clerk's hand with the names Muken gave him. He did not haggle. He did not ask a single question about the road. He looked at Muken's face, at the seam in it, and then he looked away and wrote something down in his book that Muken could not read upside down.
+The factor at the post counted the wagons in against his manifest twice. Then he counted the men, which took less time. Then he paid, in stamped Vessant bars, full weight, on a trestle by the gate, and every bar was there to the last, and the death-price for the eight who had not come back was there too, in a separate stack, sealed in oiled cloth and labeled in a neat clerk's hand with the names Muken gave him. He did not haggle. He did not ask a single question about the road. He looked at Muken's face, at the seam in it, and then he looked away and wrote something down in his book that Muken could not read upside down.
 
 That was the first thing that was wrong.
 
@@ -136,7 +136,7 @@ Muken studied him across the hearth.
 
 "Lord Stark," he said. "I'm a nobody."
 
-He said it flatly, without any bitterness in it, the way he would have said the sky was grey. It was simply the truth, and he had been carrying it his whole life, and it was as familiar to him as the weight of his own sword.
+He said it flatly, without any bitterness in it, the way he would have said the sky was gray. It was simply the truth, and he had been carrying it his whole life, and it was as familiar to him as the weight of his own sword.
 
 "I'm a commoner. Less than. I'm tokenless. In the chain-cities a tokenless man can't sign for a sack of meal. I was born in a cutting gallery under Halcrest and I've been selling my arm to whoever pays since I was fourteen." He spread his hands, the cracked white knuckles, the scar across the back of the right one. "I've got a sister, a sword three smiths wouldn't price, and a reputation for not dying. What in the name of the Sky can a man like me do for one of the Seven?"
 
@@ -198,7 +198,7 @@ Muken frowned. He knew the name of the road. Everybody did. It ran south and eas
 
 "The same. His brother Aldwin came home to him in a salt-cart with a ransom tag on his collar. Wystan's not a man who forgets that sort of thing."
 
-Muken was quiet. He was thinking. He found that he could not stop himself: the way he could not stop himself looking at a road and seeing where it narrowed, the way he could not stop himself reading a big creature's gait for the leg it favoured. The north was a map in his head now, the way Yukazuri's had been, laid out in brown ink and red.
+Muken was quiet. He was thinking. He found that he could not stop himself: the way he could not stop himself looking at a road and seeing where it narrowed, the way he could not stop himself reading a big creature's gait for the leg it favored. The north was a map in his head now, the way Yukazuri's had been, laid out in brown ink and red.
 
 "Two houses," he said. "Out of seven." He looked up. "What about the rest of them? Ashmore. Thornwall. The Keld. Hallenfeld."
 
@@ -264,7 +264,7 @@ The name went into the room and stayed there.
 
 Muken could not speak.
 
-He remembered. He remembered a big quiet man with a grey beard, who came down into the Cuttings once a season with salt-meat and wool and never stayed the night. Who had taught a boy of eight to hold a stick like a sword in the back of a worked-out gallery, and a girl of five to hold a needle. Who had never told them his name except the short one, *Yusif*, and had never once in all those years explained why a man like him would climb down four galleries under Halcrest to visit a cutting woman and her two uncounted children. Who had told Muken, over and over, until he could have said it in his sleep: *You protect the weak. You defend the man next door. You keep the north quiet so the children can sleep in it. Everything else is just weather.*
+He remembered. He remembered a big quiet man with a gray beard, who came down into the Cuttings once a season with salt-meat and wool and never stayed the night. Who had taught a boy of eight to hold a stick like a sword in the back of a worked-out gallery, and a girl of five to hold a needle. Who had never told them his name except the short one, *Yusif*, and had never once in all those years explained why a man like him would climb down four galleries under Halcrest to visit a cutting woman and her two uncounted children. Who had told Muken, over and over, until he could have said it in his sleep: *You protect the weak. You defend the man next door. You keep the north quiet so the children can sleep in it. Everything else is just weather.*
 
 Who had stopped coming, the winter Muken was thirteen. Who had never come again.
 
@@ -345,4 +345,4 @@ He sat back slowly in the great chair, and let his maimed hand fall onto the arm
 
 **Rule ids that most constrained it:** R72-25 (Ulf's withholding, with its tells: the ring turned in his beard, the eyes on the token), R74-14 (a true sentence built to deceive: "we've always said seven"), R70-54 (first-sight inventory of Ulf), R70-114 (the warm bond: Yusif and the stick in the gallery), R71-30 (the dead token held unexplained).
 
-**Revision 2026-10-24.** Colour given to the river post (open blue sky, black-green water between blue-glass ice, oil lamps as the only warm yellow, since the draw does not reach past the roads) and to the firelit room; five of six "for a long time/moment," both "did not need to," "did not need one," "very still" and the "Not all of it. Not yet." countdown trimmed, with the last "for a long time" kept at the dead-token payoff. Every beat and all of Isaac's lines kept word for word.
+**Revision 2026-10-24.** Color given to the river post (open blue sky, black-green water between blue-glass ice, oil lamps as the only warm yellow, since the draw does not reach past the roads) and to the firelit room; five of six "for a long time/moment," both "did not need to," "did not need one," "very still" and the "Not all of it. Not yet." countdown trimmed, with the last "for a long time" kept at the dead-token payoff. Every beat and all of Isaac's lines kept word for word.

@@ -62,11 +62,11 @@ Its author devised this ward alone. It carries no filed counter beyond what an o
 
 ### Metaphysics
 
-**Aether** · Draws Fulguria and Vectoria: worked stone in dry air favours both; fog, mud or a shielded room puts both against the gradient and costs more reserve to hold.
+**Aether** · Draws Fulguria and Vectoria: worked stone in dry air favors both; fog, mud or a shielded room puts both against the gradient and costs more reserve to hold.
 
 **Wellspring** · Judicium, the Wellspring of Truth (Fulguria): every element shows only its own spectrum, so the shell reads what arrives truly; the verdict is how much it resembles the holder.
 
-**Wellspring** · Sublimatio, the Ascending Breath (Vectoria): solid to vapour with no liquid phase, so what matches passes cleanly and what cannot sublime stays as residue in the holder.
+**Wellspring** · Sublimatio, the Ascending Breath (Vectoria): solid to vapor with no liquid phase, so what matches passes cleanly and what cannot sublime stays as residue in the holder.
 
 **Inherited failures** · Judicium's spectral overload under a long siege of arrivals; Sublimatio's residue, the arrested energy piling up in the holder's Crystal.
 
@@ -76,7 +76,7 @@ Its author devised this ward alone. It carries no filed counter beyond what an o
 
 **Sub-Stats** · Governed by Ardency (Density), with Resilience (Integrity, Anchoring).
 
-**Path gates** · On the Attraction Path Density is capped at B (1 to 5 GN) and inscription durability at C; A-Grade arrest needs the Body Path at Flourishing; memory defence is capped at C, the illusion blind spot as a gate.
+**Path gates** · On the Attraction Path Density is capped at B (1 to 5 GN) and inscription durability at C; A-Grade arrest needs the Body Path at Flourishing; memory defense is capped at C, the illusion blind spot as a gate.
 
 **School** · The Ordeal courts built wards into gates, reasoning a wall cannot be bribed; what the ward cannot detect it certifies, so their immaculate archive is a list of everything that crossed unregistered.
 
@@ -90,7 +90,7 @@ Its author devised this ward alone. It carries no filed counter beyond what an o
 
 **Modes** · Near-match crosses slowed and cleaned, corrupted Essence purified; poor match is arrested; dishonesty, treachery or chaos in the incoming intent cannot pass and reflects to its source.
 
-**Effect** · No flare, no give: a thrown thing slows in the last half-metre at a rate unrelated to how hard it came, and the second throw slows the same; those behind it feel vouched for rather than covered.
+**Effect** · No flare, no give: a thrown thing slows in the last half-meter at a rate unrelated to how hard it came, and the second throw slows the same; those behind it feel vouched for rather than covered.
 
 **Scope** · A static field 3 to 7 m round the practitioner, inside the 3 to 10 m A-Grade Contact Range.
 
@@ -124,4 +124,4 @@ Its author devised this ward alone. It carries no filed counter beyond what an o
 
 **Fails against** · A false word from the holder; a lance or bolt on a coin-sized spot, twice in one place; S-Grade speed; Tenebra or memory illusion; leather, clay, fog, mud; a Seal forced early; Knot; large blows until it overfills.
 
-**Look up** · The Fulguria and Vectoria favour lists; the Judicium and Sublimatio Failures; the Strike Force row and Contact Range; the Counterplay register for Knot and the Seal; the Glory Stage table.
+**Look up** · The Fulguria and Vectoria favor lists; the Judicium and Sublimatio Failures; the Strike Force row and Contact Range; the Counterplay register for Knot and the Seal; the Glory Stage table.

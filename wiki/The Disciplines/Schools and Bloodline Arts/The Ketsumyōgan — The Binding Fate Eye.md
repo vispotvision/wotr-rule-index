@@ -71,7 +71,7 @@ flowchart TD
 
 *Thread Line · Thread Sight.* Foundational thread perception, and the most common type. It sees the causal threads connecting entities, events, and objects across all three planes. **It does not manipulate. It reads.**
 
-**Passive** · Continuous visualization within a range determined by Monolithion development, baseline 20 to 40 metres and expandable with training. Threads appear as luminous filaments whose colour, thickness, and tension encode the nature, strength, and plane of origin of the connection. **Physical-plane threads appear silver-white. Soul-plane threads appear deep blue. Fate-plane threads appear gold-violet.** Damaged, corrupted, or artificially severed threads appear frayed, discoloured, or flickering.
+**Passive** · Continuous visualization within a range determined by Monolithion development, baseline 20 to 40 meters and expandable with training. Threads appear as luminous filaments whose color, thickness, and tension encode the nature, strength, and plane of origin of the connection. **Physical-plane threads appear silver-white. Soul-plane threads appear deep blue. Fate-plane threads appear gold-violet.** Damaged, corrupted, or artificially severed threads appear frayed, discoloured, or flickering.
 
 **Thread Map** 糸図 · *Shizu.* Reads every thread connected to a single entity simultaneously, producing a comprehensive relational map: allies, enemies, debts, bonds, curses, fate-links, active contracts, dormant obligations, and the relative tension of each. Overwhelming against complex targets, and disorienting without Judicium to sort the input.
 
@@ -97,7 +97,7 @@ flowchart TD
 
 *Spirit Thread · Thread of Souls.* Sees the threads between souls: ancestral bonds, emotional connections, spiritual debts, curse-chains, love, grief, grudges, oaths. Where the Moto Reigan sees **inside** souls, and can find them as far as four hundred miles off, the Reishi sees **between** souls, the space where one identity ends and another's influence begins.
 
-**Passive** · Distinguishes living connections from dead ones, which persist as ghostly filaments anchored to the Soul Plane's archive. Emotional content is perceptible as colour temperature: **warm bonds glow amber-gold, cold bonds glow blue-silver, corrupted bonds glow red-black.** Ancestral threads run deep, connecting a living soul to its lineage backward through the Veil into the generational record.
+**Passive** · Distinguishes living connections from dead ones, which persist as ghostly filaments anchored to the Soul Plane's archive. Emotional content is perceptible as color temperature: **warm bonds glow amber-gold, cold bonds glow blue-silver, corrupted bonds glow red-black.** Ancestral threads run deep, connecting a living soul to its lineage backward through the Veil into the generational record.
 
 **Soul Read** 霊読 · *Reidoku.* Reads a single soul-thread's complete history: when the bond formed, what created it, how it has changed, what it currently carries, and whether it has been artificially manipulated. A forensic tool — it identifies curses by reading the thread between cursed and curser, verifies oaths, and **detects imposters by reading whether the soul-threads that should connect a person to their claimed identity actually exist.**
 
@@ -149,7 +149,7 @@ flowchart TD
 
 **Thread Redirect** 糸転 · *Itoten.* Moves a weft thread. The endpoints remain the same but the path changes, and this alters how the connection manifests. A thread running through the Physical Plane (two people who would meet by chance) can be redirected through the Soul Plane (they now meet through a shared emotional experience) or the Fate Plane (they meet because probability architecture has rearranged to make their intersection inevitable). **The outcome changes based on the path, not the endpoints.**
 
-**Pattern Shift** 紋移 · *Mon'i.* Rearranges multiple weft threads simultaneously. Large-scale probability manipulation. A battlefield whose causal web favoured the enemy can be reweaved so the threads converge on the bearer's allies. **Not guaranteed** — the weave resists unnatural patterns, and the more the rearrangement deviates from the web's natural tendency, the harder the threads fight back and the greater the risk of Resonance Trauma.
+**Pattern Shift** 紋移 · *Mon'i.* Rearranges multiple weft threads simultaneously. Large-scale probability manipulation. A battlefield whose causal web favored the enemy can be reweaved so the threads converge on the bearer's allies. **Not guaranteed** — the weave resists unnatural patterns, and the more the rearrangement deviates from the web's natural tendency, the harder the threads fight back and the greater the risk of Resonance Trauma.
 
 **In combat** · The strategist's eye. It does not fight. It repositions. An incoming attack's thread can be redirected to converge on a different target, an obstacle, or **the attacker's own thread**, folding the strike back toward its origin. The cost is sustained concentration and heavy Essence expenditure, and the manipulation must be continuously maintained or the web snaps back.
 
@@ -189,7 +189,7 @@ The left eye is traditionally called the **Inshi** 因糸, Cause Thread. The rig
 - ****Enmusubi** — and the question the elders keep returning to**
   The deliberate forging of deep Soul-Plane-level connections between people, places, or entities. Not surface bonds. **Soul threads** — the kind that ordinarily form only through years of shared experience, love, grief, or oath.
 
-  The bearer can create a bond between two strangers carrying the emotional weight and causal significance of a lifelong relationship. **The bond is not false. It is architecturally real.** The Soul Plane recognizes it. The Fate Plane factors it into probability calculations. The Physical Plane manifests it as instinctive trust, involuntary protectiveness, and the subtle behavioural shifts that accompany genuine connection. It fades if not reinforced by actual experience, but while it holds it is indistinguishable from organic attachment.
+  The bearer can create a bond between two strangers carrying the emotional weight and causal significance of a lifelong relationship. **The bond is not false. It is architecturally real.** The Soul Plane recognizes it. The Fate Plane factors it into probability calculations. The Physical Plane manifests it as instinctive trust, involuntary protectiveness, and the subtle behavioral shifts that accompany genuine connection. It fades if not reinforced by actual experience, but while it holds it is indistinguishable from organic attachment.
 
   **Ethical weight.** This is the Sōshi the Yukari elders debate most frequently. Creating real bonds between people who did not choose them raises questions of consent, autonomy, and the right of any individual, however gifted, to write on another person's soul.
 - ****Meikaimon** — one-directional**

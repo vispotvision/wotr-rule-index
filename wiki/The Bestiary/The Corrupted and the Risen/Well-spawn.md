@@ -2,7 +2,7 @@
 title: "Well-spawn"
 ---
 
-*Creatures bred by a Well, masked in their Well's colour, ranked by how deep it bred them*
+*Creatures bred by a Well, masked in their Well's color, ranked by how deep it bred them*
 
 > A Wellspring is one of the sixty currents of natural law that feed all magic, and a Well (common speech for a Core Concentration) is ground where one of them runs thick enough to rewrite whatever lives in it. A Well breeds, and **what it breeds wears its Well on its face.** Delvers call them the Well's get. Hunters call them masks, because the mask is what they are paid on and the mask is where they aim.
 
@@ -10,11 +10,11 @@ title: "Well-spawn"
 
 ## What it is
 
-A Well-spawn is a creature born and bred inside a Well, whose body runs on the Well's law instead of its own biology. **It wears a mask of hard plate in its Well's colour, and the mask is where that law is held:** break it, and the creature is finished.
+A Well-spawn is a creature born and bred inside a Well, whose body runs on the Well's law instead of its own biology. **It wears a mask of hard plate in its Well's color, and the mask is where that law is held:** break it, and the creature is finished.
 
 ## How it looks
 
-Shaped like whatever its line was bred from, a fox, a toad, a crab, a bramble, but with a plate grown over the face (or over whatever serves it for one). The plate carries the hue of the Well's **Family** (one of the eight groups the sixty Wellsprings fall into, each a branch of physics) and a pattern drawn from that physics. **The deeper the spawn was bred, the clearer and brighter the mask.** Its aura, where it shows one, is the same colour, and every line has a sound of its own: the Tolling Crab's one clear note, the Tinder-fox's dry crackle.
+Shaped like whatever its line was bred from, a fox, a toad, a crab, a bramble, but with a plate grown over the face (or over whatever serves it for one). The plate carries the hue of the Well's **Family** (one of the eight groups the sixty Wellsprings fall into, each a branch of physics) and a pattern drawn from that physics. **The deeper the spawn was bred, the clearer and brighter the mask.** Its aura, where it shows one, is the same color, and every line has a sound of its own: the Tolling Crab's one clear note, the Tinder-fox's dry crackle.
 
 ## What it costs
 
@@ -26,7 +26,7 @@ A Well-spawn eats **draw** (Aether, the ambient field all magic is drawn from, p
 
 ## Example
 
-Edda Marsh, a licensed captain with a party of five riflemen and a porter, takes a contract to clear the upper workings of a Basilithe Well. The porter hears a note ring in the dark, the same note twice. Edda reads the mask by lamplight before anyone fires: ochre-amber, banded like quarry rock, dull as a charcoal ember. **Materia, upper workings: a Tolling Crab, and shot will flatten on it.** She keeps the rifles quiet, strikes the tuning bar from her kit, rings the crab's note back at it and holds it. The carapace falls into gravel all at once, and the porter is on the mask with a hammer before the dust settles, because the hall pays on a coloured shard and a grey one is worth nothing.
+Edda Marsh, a licensed captain with a party of five riflemen and a porter, takes a contract to clear the upper workings of a Basilithe Well. The porter hears a note ring in the dark, the same note twice. Edda reads the mask by lamplight before anyone fires: ochre-amber, banded like quarry rock, dull as a charcoal ember. **Materia, upper workings: a Tolling Crab, and shot will flatten on it.** She keeps the rifles quiet, strikes the tuning bar from her kit, rings the crab's note back at it and holds it. The carapace falls into gravel all at once, and the porter is on the mask with a hammer before the dust settles, because the hall pays on a colored shard and a gray one is worth nothing.
 
 ---
 
@@ -48,24 +48,24 @@ Edda Marsh, a licensed captain with a party of five riflemen and a porter, takes
 
 | Family | Physics | Mask hue | Pattern |
 |---|---|---|---|
-| **Caloria** | Heat | **Ember-orange**, iron at cherry-red; Solfatara lines run sulphur-red | **Crazed** like slag cooling on a foundry floor |
+| **Caloria** | Heat | **Ember-orange**, iron at cherry-red; Solfatara lines run sulfur-red | **Crazed** like slag cooling on a foundry floor |
 | **Fulguria** | Electricity, light | **Arc-blue**, the blue of current; near-white to deep naval by Wellspring | **Branching**, a lightning tree burned into the plate |
-| **Vectoria** | Force, weight | **Iron grey to gunmetal**; Abython lines near-black | **Concentric rings**, a stone dropped in still water |
+| **Vectoria** | Force, weight | **Iron gray to gunmetal**; Abython lines near-black | **Concentric rings**, a stone dropped in still water |
 | **Spatium** | Distance, position | **Deep violet**, red-violet to blue-violet | **Ruled lines that never quite meet**; the eye keeps trying to close them |
 | **Materia** | Matter | **Ochre to deep amber**, limestone pale to iron-oxide dark | **Strata and facets**, and a fine grit that comes off on the hand |
 | **Vitalia** | Life | **Arterial red**; Verdantia lines chlorophyll green, Mortalis black-red | **Veins and growth rings** |
 | **Fluxia** | Fluids, pressure | **Deep teal**, darkest on Thaloré lines | **Streamlines and eddies**, water over a weir |
 | **Limina** | Entropy, void, mind | **Black-violet**, from dream-lavender to absolute dark | **An absence.** The eye slides off it, and finds the face by where the darkness is deepest |
 
-**Clarity reads the depth**, on the same smelting scale as a practitioner's Essence colour:
+**Clarity reads the depth**, on the same smelting scale as a practitioner's Essence color:
 
 | Bred at | The mask looks |
 |---|---|
-| **The Mouth** | Smoke-brown, the colour a tint under the murk |
-| **The Upper Workings** | Warm dark grey, the colour a suggestion |
-| **The Lower Workings** | Grey veined with the true colour, flickering when the creature is roused |
-| **The Deeps** | Silver-grey suffused with colour, bright enough to throw its hue on a gallery wall |
-| **The Heart** | Brilliant, the colour bleaching to white at the edges |
+| **The Mouth** | Smoke-brown, the color a tint under the murk |
+| **The Upper Workings** | Warm dark gray, the color a suggestion |
+| **The Lower Workings** | Gray veined with the true color, flickering when the creature is roused |
+| **The Deeps** | Silver-gray suffused with color, bright enough to throw its hue on a gallery wall |
+| **The Heart** | Brilliant, the color bleaching to white at the edges |
 
 > A hunter reads a mask the way an assayer of power reads an aura: **the hue says which Well, the clarity says how deep.** A delver who meets a mask brighter than the last one has learned where he is standing.
 
@@ -75,7 +75,7 @@ Edda Marsh, a licensed captain with a party of five riflemen and a porter, takes
 
 A Well has depth. Its ground thickens from the mouth down to the heart, and each band of it is a rung on the sites ladder (the register's scale of how strong a person must be to stand on dense ground and stay themselves). **A spawn's power is set by the ground that bred it, and it is read on the same Grade ladder as a person's.** A **Grade** is a band of peak output in joules, from Hollow and F at the bottom to EX+ at the top; a person's **Tier of Standing** (the nine ranks of practitioner, Initiate to Paragon) is a set of Grades.
 
-On the Bestiary's own ladder a creature stands on a **rung** (nine steps of what it can break, from Hearth-pest through Field-bane, Road-bane, Hamlet-bane and Town-bane up to Sky-eater), and each rung matches a Grade. The Accord prices the same creature as a **Commission Tier** (its danger rating, T1 to T9, naming the rank of practitioner it sends) under a **Sigil** (the licence colour a hunter must carry to engage lawfully).
+On the Bestiary's own ladder a creature stands on a **rung** (nine steps of what it can break, from Hearth-pest through Field-bane, Road-bane, Hamlet-bane and Town-bane up to Sky-eater), and each rung matches a Grade. The Accord prices the same creature as a **Commission Tier** (its danger rating, T1 to T9, naming the rank of practitioner it sends) under a **Sigil** (the license color a hunter must carry to engage lawfully).
 
 A spawn's own output sits two rungs below the ground it was bred on. **On its Well it holds the tie** (a creature fed by its Wellspring site stands one rung higher there than off it), so it fights one rung stronger at home than anywhere else.
 
@@ -105,7 +105,7 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 **Some serve Malphas.** A few speaking spawn have been found working for Malphas and his circle. What he offers them, the register does not know.
 
-**Deep spawn are banished.** Break the mask of anything bred in the Deeps or the Heart and the body comes apart into the current and is drawn back down the Well. It leaves its mask behind, split and already grey. **Whether what the Well breeds next is the same creature, nobody has ever been able to prove.**
+**Deep spawn are banished.** Break the mask of anything bred in the Deeps or the Heart and the body comes apart into the current and is drawn back down the Well. It leaves its mask behind, split and already gray. **Whether what the Well breeds next is the same creature, nobody has ever been able to prove.**
 
 ---
 
@@ -137,24 +137,24 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 ## Living Beside a Well
 
-**For fighters.** Clearing Wells is a trade. Mines, Boards and crowns contract hunting parties to keep spawn off their works; the guild hunting halls license the hunters, and the chartered companies undercut the halls by putting one licensed captain over a party of cheap rifles. **The halls pay on the mask, and only while it holds its colour**, so a party breaks the plate, bags the shards and runs them to the hall within the day.
+**For fighters.** Clearing Wells is a trade. Mines, Boards and crowns contract hunting parties to keep spawn off their works; the guild hunting halls license the hunters, and the chartered companies undercut the halls by putting one licensed captain over a party of cheap rifles. **The halls pay on the mask, and only while it holds its color**, so a party breaks the plate, bags the shards and runs them to the hall within the day.
 
 | Bred at | The hall pays |
 |---|---|
 | The Mouth | A copper a tail on the Well roads; no clerk will handle a hundred fox masks |
 | The Upper Workings | 2 to 5 gold a mask |
 | The Lower Workings | 10 to 25 gold a mask |
-| The Deeps | 60 to 150 gold a mask, half for a banished one's grey mask |
+| The Deeps | 60 to 150 gold a mask, half for a banished one's gray mask |
 | The Heart, or any speaker | By contract, from a crown or a charter Board |
 
-The guilds still call hunters mouths with rifles. **The Well towns call them by name**, buy them drinks, and paint their mask tallies over the tavern door. A young practitioner's first descent with a hunting party is the most common way a name is made in the Imperial Age, and the first mask a hunter breaks is kept, grey or not, for life.
+The guilds still call hunters mouths with rifles. **The Well towns call them by name**, buy them drinks, and paint their mask tallies over the tavern door. A young practitioner's first descent with a hunting party is the most common way a name is made in the Imperial Age, and the first mask a hunter breaks is kept, gray or not, for life.
 
 **For commoners.** Well towns live with spawn the way river towns live with floods.
 
 - **Smoked glass by the door, a hammer by the bed.** Every house near a Well keeps both. The glass is for the bright ones; the hammer is for the mask.
-- **The grey shard over the lintel.** A broken mask, gone grey, is nailed above the door to keep others away. The register says it does nothing. Hunters nail them up too.
-- **Mask Night.** Once a year the children of a Well town paint paper masks in their Well's colour and run the streets with pots and whistles, shrieking. **It teaches every child the colour to run from**, and the noise is supposed to send the shallow lines back down. Delvers do not stop it.
-- **Count the colours.** A delver who sees a brighter mask than the last turns round. Nobody calls it cowardice in a Well town.
+- **The gray shard over the lintel.** A broken mask, gone gray, is nailed above the door to keep others away. The register says it does nothing. Hunters nail them up too.
+- **Mask Night.** Once a year the children of a Well town paint paper masks in their Well's color and run the streets with pots and whistles, shrieking. **It teaches every child the color to run from**, and the noise is supposed to send the shallow lines back down. Delvers do not stop it.
+- **Count the colors.** A delver who sees a brighter mask than the last turns round. Nobody calls it cowardice in a Well town.
 - **Never answer your name from below the lamp-line.** The dead do not call the roll. Something else does.
 - **The first cup for the old man below.** Deep crews leave the first cup of a shift's tea at the shaft head, and drink the second.
 
@@ -167,14 +167,14 @@ The guilds still call hunters mouths with rifles. **The Well towns call them by 
 | Entry | Family, Wellspring | Bred at | Mask | Commission · Rung on its Well |
 |---|---|---|---|---|
 | **Tinder-fox** | Caloria, Ignivale | The Mouth | Ember-orange crazing over the muzzle | T2 Moderate, Green · Field-bane |
-| **Levelling Leech** | Spatium, Transference | The Mouth | A violet disc over the sucker, its ruled lines never meeting | T2 Moderate, Green · Field-bane |
+| **Leveling Leech** | Spatium, Transference | The Mouth | A violet disc over the sucker, its ruled lines never meeting | T2 Moderate, Green · Field-bane |
 | **Reaching Briar** | Vitalia, Verdantia | The Mouth | A green, ring-grown knot over the root-crown | T4 High, Blue · Road-bane |
 | **Glarewing** | Fulguria, Aurevane | The Upper Workings | An arc-blue lightning tree across the brow | T4 High, Blue · Road-bane |
 | **Tolling Crab** | Materia, Basilithe | The Upper Workings | Ochre-amber strata set into the carapace front | T5 Extreme, Blue · Hamlet-bane |
 | **Lamp-drinker** | Limina, Vantabriel | The Upper Workings | Found only as the darkest place on a dark shape | T6 Domain, Gold · Hamlet-bane |
 | **Sump-toad** | Vectoria, Abython | The Lower Workings | Gunmetal rings across the brow, riding level with the water | T5 Extreme, Blue · Hamlet-bane |
 | **Mourning Pike** | Fluxia, Thaloré | The Lower Workings | Deep teal streamlines over the skull | T5 Extreme, Blue · Hamlet-bane |
-| **Roll-caller** | Limina, Anamnesis | The Deeps | Silver-grey shot with black-violet, finely striped | T6 Domain, Gold · Town-bane |
+| **Roll-caller** | Limina, Anamnesis | The Deeps | Silver-gray shot with black-violet, finely striped | T6 Domain, Gold · Town-bane |
 
 The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, which is why they stand above their depth.
 
@@ -204,7 +204,7 @@ Fox-sized, coat singed short and black at the tips, warm to the hand through a g
 > Bufo profundus in the Guild register. **Sump-toad**, **the bottom-sitter**; among delvers, **the old man below**.
 **Well-spawn · T5, Extreme Threat, Blue Sigil · Vectoria, Abython · bred in the deepest sumps of the lower workings of Abython Wells**
 
-**On the ladder** · output Road-bane; holds the tie; stands at Hamlet-bane. **Mask** · a broad grey plate across the brow, near-black gunmetal veined with clearer steel, ringed like a stone dropped in still water. It rides level with the sump, eyes set in it, and a winding-man's first sight of the toad is a plate floating in black water that is not floating.
+**On the ladder** · output Road-bane; holds the tie; stands at Hamlet-bane. **Mask** · a broad gray plate across the brow, near-black gunmetal veined with clearer steel, ringed like a stone dropped in still water. It rides level with the sump, eyes set in it, and a winding-man's first sight of the toad is a plate floating in black water that is not floating.
 
 Bred where the Aether is heavy enough to suffocate a practitioner who has not trained for it. **No Archon is credited.**
 
@@ -223,7 +223,7 @@ A toad the size of an ox, flat and slick, hide loose on it like a sack. Abython 
 > Vocator sepultorum in the Guild register. **Roll-caller**; among deep crews, **the Foreman**, because it calls the roll in the voice of whoever kept the pay-book when it last heard one.
 **Well-spawn · T6, Domain Threat, Gold Sigil · Limina, Anamnesis · bred in the Deeps of Anamnesis Wells, where the Veil runs thin; has never been seen above them**
 
-**On the ladder** · output Hamlet-bane; holds the tie; stands at Town-bane. The Commission rates it a Domain Threat for the mind and the voice, and sends Masters. **Mask** · a whole face of silver-grey plate shot with a black-violet the eye cannot hold, striped fine and even like cooled lava rock. It glows faintly when warmed.
+**On the ladder** · output Hamlet-bane; holds the tie; stands at Town-bane. The Commission rates it a Domain Threat for the mind and the voice, and sends Masters. **Mask** · a whole face of silver-gray plate shot with a black-violet the eye cannot hold, striped fine and even like cooled lava rock. It glows faintly when warmed.
 
 Bred in the Deeps of Anamnesis Wells, the currents that let a thing read the history stored in stone, metal and bone. **No Archon is credited. What the line was first bred from, nobody knows.**
 
@@ -237,6 +237,6 @@ Its strike is **the Recollection**: everything it has read and stored let go at 
 |---|---|
 | **The roll** · speaks the names and voices of everyone the Well has killed **The reading** · one touch, and it knows your history and your dead **The bargain** · trades what it knows for draw, and lies while it does **Following** · the lesser spawn of its Well move with it **The Recollection** · a discharge of stored light and heat that collapses a working level | **The mask.** Worked plate at its own Grade; it wants a Master's blow, enhanced shot of the same rank, or the failure below first. Broken, it banishes the creature down the Well **Thermal resetting.** Heat the mask, with a magnesium flare, a furnace brand or a held Caloria working, and the stored record pours out of it as light; for a while it remembers nothing, speaks nothing and is only an animal **The Recollection empties it.** Bait the discharge and the same thing follows **It must touch to read.** Keep it at a spear's length and keep your coat out of its hands **Saturated Aether, crowds and noise** give Limina nowhere to stand |
 
-> A deep crew on a Limina Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the cage.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a grey mask, split clean across, and would not say what it had told her.
+> A deep crew on a Limina Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the cage.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a gray mask, split clean across, and would not say what it had told her.
 >
 > On Anamnesis Wells the pay-book is kept above ground, the dead are never named below the lamp-line, and **"the Foreman's asking for you"** means a grief that has started to talk back.

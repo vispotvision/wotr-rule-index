@@ -36,7 +36,7 @@ flowchart TD
 | Name | Who they are |
 |---|---|
 | **Vis Trismegistus** | Elfin. Son of Trans-Alftian terrace-farmers. Astronomer by inclination, alchemist by ambush. **Sage of the Anamnetic Line, Keeper of the Correspondence.** *Called Trismegistus because he holds three parts of the wisdom of the whole world — a claim he makes once, in a king's hall, and never repeats* |
-| **Furveus, called Paracelsus** | The pharmacologist. Developer of **Spagyria** and the *Tria Prima* — Sulphur, Salt, Mercury. Precise, morally ambiguous, **checks his hands after work he finds difficult.** Takes the commission |
+| **Furveus, called Paracelsus** | The pharmacologist. Developer of **Spagyria** and the *Tria Prima* — Sulfur, Salt, Mercury. Precise, morally ambiguous, **checks his hands after work he finds difficult.** Takes the commission |
 | **Noxinus Ren** | The poet. Older, wiser, and **compelled into writing the** ***Necrocursica*** **by a bargain that looked clean from outside.** Puts the warning in the footnote. *Among the finest poets in the Trans-Alftian tradition, which suggests ethical distress is extraordinarily generative if one is also extraordinarily talented* |
 | **Neros** | The astronomer. Quieter than the others, **collects charts the way farmers collect debts.** Catches the Tempus drift on instruments precise enough to register it |
 | **Gillus De Raits** | Stage VII. Primary Wellspring **Mortalis**, secondary **Anamnesis** — attuned to dissolution and memory simultaneously. **Writes the letter. Waits six years for the answer.** *Looks like someone who is very good at waiting* |

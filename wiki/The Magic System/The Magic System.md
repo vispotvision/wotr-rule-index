@@ -173,7 +173,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 
 ### V · [[The Magic System/Practice and Institution/Practice and Institution|Practice and Institution]]
 
-*Who may practise, where their capacity came from, what they are called, how they are trained, and what the practice is set against.*
+*Who may practice, where their capacity came from, what they are called, how they are trained, and what the practice is set against.*
 
 - [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]: Why nearly everyone carries a Crystal and almost nobody is taught to wake it.
 - [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]: Where a practitioner's capacity came from, and why the institutions cannot agree.

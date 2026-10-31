@@ -8,7 +8,7 @@ title: "Mireglass Suffusion"
 
 ### Summary card
 
-**Effect** · A shadow-fluid floods out to twelve to fifteen metres, and every enemy standing in it sees a memory of their own worst failure step out of the mireglass and come at them. *The blow that lands is real. The shape throwing it is a memory wearing a body it never had.*
+**Effect** · A shadow-fluid floods out to twelve to fifteen meters, and every enemy standing in it sees a memory of their own worst failure step out of the mireglass and come at them. *The blow that lands is real. The shape throwing it is a memory wearing a body it never had.*
 
 **Cost** · **The caster wades in the same flood.** *Their own buried memories surface in fragments for as long as the field holds, since there is no documented way to flood only the enemy's share of the ground.*
 
@@ -49,7 +49,7 @@ title: "Mireglass Suffusion"
 
 ### Origin
 
-Mireglass Suffusion is filed in the Iridescent Archive, a catalogued repository rather than a living practitioner's private stock: a documented technique of unrecorded authorship, known and archived, not self-derived by any single hand still living to be asked. It is counterable by anyone who has studied the Archive's own record of it.
+Mireglass Suffusion is filed in the Iridescent Archive, a catalogd repository rather than a living practitioner's private stock: a documented technique of unrecorded authorship, known and archived, not self-derived by any single hand still living to be asked. It is counterable by anyone who has studied the Archive's own record of it.
 
 ---
 
@@ -88,7 +88,7 @@ Mireglass Suffusion is filed in the Iridescent Archive, a catalogued repository 
 
 **Essence** · The Aether Shell projects the film; the Attraction Layer is loaded too, since the silhouette comes from the bearing of an old failure, a bond on the Plane of Fate. Developmental Tier Harmonic at Glory.
 
-**School** · The Memorialists rightly find that memory brings the wrong neighbours and contains forgetting, then teach students to believe the silhouette as a confession; past the correction limit trusting the record is what kills them.
+**School** · The Memorialists rightly find that memory brings the wrong neighbors and contains forgetting, then teach students to believe the silhouette as a confession; past the correction limit trusting the record is what kills them.
 
 ### Mechanism
 

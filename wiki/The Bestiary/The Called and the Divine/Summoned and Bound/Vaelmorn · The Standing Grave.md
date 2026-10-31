@@ -43,7 +43,7 @@ title: "Vaelmorn · The Standing Grave"
 | **Aether Class** | **II · Harmonic**, which is absurdly low for a Divine Beast and is not an error. **He conducts badly and holds perfectly**, and the whole of him is that trade |
 | **Summon Stability Facet** | **S-Tier.** Weeks. **Longest attested continuous presence is fourteen years**, at Halloway Mire, where the summoner had been dead for eleven of them |
 | **Traits** | One, and it has a name in the bog villages that the Archives decline to write down. **Its law is that nothing in contact with him is permitted to finish** |
-| **Domain** | **Seated, passive, and ambulatory.** Radius roughly ninety metres. He carries it the way he carries everything else |
+| **Domain** | **Seated, passive, and ambulatory.** Radius roughly ninety meters. He carries it the way he carries everything else |
 
 ---
 
@@ -90,13 +90,13 @@ title: "Vaelmorn · The Standing Grave"
 
 ## VI · Physical Description
 
-He stands three point one metres at the shoulder and the proportions are wrong for the height, front-heavy and narrow through the hindquarters, with forelegs like fence posts and a chest that hangs low enough to drag through standing water. The hide is not visible anywhere. What covers him is moss, layered and matted into a pelt forty centimetres deep across the shoulders and thinning to a ragged fringe along the belly and the backs of the legs, and the colour runs from the dull olive of old bottle glass at the crown to a sodden near-black where it trails in the water. It is alive. Small pale fruiting bodies stand up from it in patches and there are ferns rooted along his spine, and the whole surface moves faintly in still air with the slow settling motion of something that has been undisturbed for a long time and is not enjoying being disturbed now.
+He stands three point one meters at the shoulder and the proportions are wrong for the height, front-heavy and narrow through the hindquarters, with forelegs like fence posts and a chest that hangs low enough to drag through standing water. The hide is not visible anywhere. What covers him is moss, layered and matted into a pelt forty centimetres deep across the shoulders and thinning to a ragged fringe along the belly and the backs of the legs, and the color runs from the dull olive of old bottle glass at the crown to a sodden near-black where it trails in the water. It is alive. Small pale fruiting bodies stand up from it in patches and there are ferns rooted along his spine, and the whole surface moves faintly in still air with the slow settling motion of something that has been undisturbed for a long time and is not enjoying being disturbed now.
 
-The rack spans four point six metres and masses somewhere above two hundred kilograms, which is four times what the neck of any living cervid could carry and is one of the reasons the assessors stopped calling him an animal. The tines are bare hardwood, grey and lichen-crusted, forking and reforking into a dead thicket that catches mist and holds it. **The count of the points changes.** Foresters who have watched him across seasons put the range between forty and something over ninety, and the two Archives entries that bothered to record a figure recorded different ones eight days apart. New tines come in wet and dark and stiffen over weeks. Old ones do not shed.
+The rack spans four point six meters and masses somewhere above two hundred kilograms, which is four times what the neck of any living cervid could carry and is one of the reasons the assessors stopped calling him an animal. The tines are bare hardwood, gray and lichen-crusted, forking and reforking into a dead thicket that catches mist and holds it. **The count of the points changes.** Foresters who have watched him across seasons put the range between forty and something over ninety, and the two Archives entries that bothered to record a figure recorded different ones eight days apart. New tines come in wet and dark and stiffen over weeks. Old ones do not shed.
 
-The face is the least altered part of him and the hardest to look at. A cervid skull's architecture under the moss, long-nosed and heavy-browed, with the moss growing in a clean line that stops at the muzzle and leaves the grey hide of the nose and lips bare. The eyes are set deep and are entirely dark, without shine, and they do not appear to focus on anything nearer than the horizon. He blinks perhaps twice an hour. **Around him the air is cold and smells of iron, wet bark, and the sweetish organic sourness of turned peat**, and the temperature inside his ninety metres runs four to six degrees below the field outside it in every season measured.
+The face is the least altered part of him and the hardest to look at. A cervid skull's architecture under the moss, long-nosed and heavy-browed, with the moss growing in a clean line that stops at the muzzle and leaves the gray hide of the nose and lips bare. The eyes are set deep and are entirely dark, without shine, and they do not appear to focus on anything nearer than the horizon. He blinks perhaps twice an hour. **Around him the air is cold and smells of iron, wet bark, and the sweetish organic sourness of turned peat**, and the temperature inside his ninety meters runs four to six degrees below the field outside it in every season measured.
 
-The woman stands at his left flank and has never been observed anywhere else. She is a head shorter than an ordinary woman and narrower, with the compression through the ribs and hips that peat does to a body over centuries, and she is preserved rather than alive in a way that survives about four seconds of looking. Her hair is the colour and texture of wet peat itself, dark to nearly black, hanging in matted ropes past her waist and threaded through with living sphagnum that appears to be rooted in it. Her skin is tanned to the deep russet-brown of oiled leather, taut over the cheekbones, the features intact and slightly flattened, the closed eyelids smooth and sunken. **Her eyes have never been observed open.** Her shoulders are narrow and sloped, her chest flat against the sternum, her abdominal wall drawn in hard against the spine, and her hands and feet are perfect: every knuckle, every nail, the nails slightly long. She wears a shift of undyed wool felted into the skin of her upper arms and back so thoroughly that the two are no longer separable, though the weave is still legible at the hem where it hangs to mid-calf. **Around her throat, a ligature groove three fingers wide, with the plaited pattern of the cord still impressed in it.**
+The woman stands at his left flank and has never been observed anywhere else. She is a head shorter than an ordinary woman and narrower, with the compression through the ribs and hips that peat does to a body over centuries, and she is preserved rather than alive in a way that survives about four seconds of looking. Her hair is the color and texture of wet peat itself, dark to nearly black, hanging in matted ropes past her waist and threaded through with living sphagnum that appears to be rooted in it. Her skin is tanned to the deep russet-brown of oiled leather, taut over the cheekbones, the features intact and slightly flattened, the closed eyelids smooth and sunken. **Her eyes have never been observed open.** Her shoulders are narrow and sloped, her chest flat against the sternum, her abdominal wall drawn in hard against the spine, and her hands and feet are perfect: every knuckle, every nail, the nails slightly long. She wears a shift of undyed wool felted into the skin of her upper arms and back so thoroughly that the two are no longer separable, though the weave is still legible at the hem where it hangs to mid-calf. **Around her throat, a ligature groove three fingers wide, with the braided pattern of the cord still impressed in it.**
 
 She walks when he walks. She stops when he stops. She has never spoken, has never been recorded touching him, and stands close enough to his flank that the moss has begun growing across the outside of her left arm.
 
@@ -106,11 +106,11 @@ She walks when he walks. She stops when he stops. She has never spoken, has neve
 
 Vaelmorn is gentle in a way that has ruined a great many people's ability to think about him clearly. He does not startle, does not threaten, moves out of the path of anything smaller than himself, and has been observed standing motionless for two hours rather than disturb a nesting bird. Children in bog country are not warned about him. They are warned about the places he has been.
 
-He does not speak. **Something near him does.** Practitioners inside the ninety metres report hearing names, individual and unfamiliar, spoken once at the edge of audibility in voices that do not repeat. The Archives hold four hundred and nine transcribed names from six separate field records and have matched eleven of them to people in the death registers of the surrounding parishes. **Nine of those eleven were recorded as drowned.**
+He does not speak. **Something near him does.** Practitioners inside the ninety meters report hearing names, individual and unfamiliar, spoken once at the edge of audibility in voices that do not repeat. The Archives hold four hundred and nine transcribed names from six separate field records and have matched eleven of them to people in the death registers of the surrounding parishes. **Nine of those eleven were recorded as drowned.**
 
 His one legible mood is reluctance, and it surfaces only when he is asked to move away from ground he has been standing on for a long time. He complies. He always complies. **The complying takes a long time and something in the set of the head makes people stop asking twice.**
 
-*The behaviour every account agrees on: when a thing dies within his radius, he turns his head toward it before anyone else in the field has registered that it happened. He does not go to it. He just knows, and looks, and waits to be asked.*
+*The behavior every account agrees on: when a thing dies within his radius, he turns his head toward it before anyone else in the field has registered that it happened. He does not go to it. He just knows, and looks, and waits to be asked.*
 
 ---
 
@@ -161,7 +161,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Trigger:** Permanent while he is present. It is his Domain and he does not seat it, raise it, or drop it.
 
-  **Function:** Inside ninety metres, nothing finishes. **Nothing heals either.**
+  **Function:** Inside ninety meters, nothing finishes. **Nothing heals either.**
 
   **Mechanism:** Biochemistry. The same suppression the Carry applies to one body, applied thin across a volume. Ambient temperature inside the radius falls four to six degrees, dissolved oxygen in standing water and in open wounds drops toward zero, and the local pH shifts acid. **Clotting cascades stall at the fibrin stage. Sepsis does not advance. Blood loss continues at rate and consciousness does not.** A man opened across the femoral artery inside the radius bleeds out onto the moss for as long as anyone is willing to watch and does not lose the thread of what he was saying.
 
@@ -195,7 +195,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Mechanism:** Biochemistry through the bond structure rather than through tissue. Each tine on the rack is an anchor point for one carried identity, and the Attraction Layer's knot permits the damage to be routed along the bond to the passenger instead of to the bearer. **The passenger is already suppressed and cannot die of it.** They can be broken, opened, burned and unmade, and every bit of it holds at the moment of infliction and does not progress, and they carry it from then on.
 
-  **Numerical Effect:** One tine per lending, consumed. **The tine goes grey-white, splits, and does not regrow.** No upper limit on the severity absorbed and no attested failure to absorb. Between forty and ninety tines available at any time, which is a resource pool measured in people.
+  **Numerical Effect:** One tine per lending, consumed. **The tine goes gray-white, splits, and does not regrow.** No upper limit on the severity absorbed and no attested failure to absorb. Between forty and ninety tines available at any time, which is a resource pool measured in people.
 
   **Target Response:** Whatever struck him has struck nothing. **Witnesses report the sound of the impact arriving from somewhere off to the side**, which is the passenger, and the sound is not always only an impact.
 
@@ -255,7 +255,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 |---|---|
 | **Severed Tether** | No tether exists. **Halloway Mire ran eleven years past the summoner's death** and ended when the mire was drained for peat cutting |
 | **Unsealed Departure** | Indistinguishable from a sealed one in every recorded instance. **The Toll is taken at the request rather than at the seal** and does not decay either way |
-| **Behaviour in Silence** | **Unaffected.** Harmonic Silence severs Donated forms and degrades Analog ones. Vaelmorn is Native, holds badly, and conducts at Class II, and Silence has nothing in him to cut. Two Sealwrights have confirmed this and one has written that the confirmation was the worst hour of her professional life |
+| **Behavior in Silence** | **Unaffected.** Harmonic Silence severs Donated forms and degrades Analog ones. Vaelmorn is Native, holds badly, and conducts at Class II, and Silence has nothing in him to cut. Two Sealwrights have confirmed this and one has written that the confirmation was the worst hour of her professional life |
 | **Resistance to Dissolution** | Total, passive, and not adversarial. **He does not resist. Dissolution simply has no purchase on a thing whose entire architecture is retention** |
 | **Permanence Hazard** | **The hazard is the ground.** Eleven days of residual field after departure, non-decomposing soil for a season afterward, and a conifer belt thinning from below across four centuries of walking |
 
@@ -267,7 +267,7 @@ The lawful Vaelmorn waits to be asked. **The compelled one does not, and the dif
 
 Attraction Force answers by recognition. Obsession Force takes the same shape and compels, and an Obsession-Force Carry does not require dying, does not require consent, and does not require a request. A living body inside the radius is taken mid-sentence. **The suppression lands, the pH drops, the metabolism falls to two percent, and the person continues** at the exact state they occupied when it arrived, aware, unable to advance, and walking at his flank by the following morning.
 
-The second inversion is the one that turns him from an event into a condition. **A compelled Vaelmorn stops needing the radius.** Hic Nemo is a Domain he carries because he is holding it and holding it is all he does, and a knot forced rather than tied does not stay ninety metres wide. The projections in the sealed filing run to a valley, then to a watershed, then stop, because the clerk who wrote them stopped.
+The second inversion is the one that turns him from an event into a condition. **A compelled Vaelmorn stops needing the radius.** Hic Nemo is a Domain he carries because he is holding it and holding it is all he does, and a knot forced rather than tied does not stay ninety meters wide. The projections in the sealed filing run to a valley, then to a watershed, then stop, because the clerk who wrote them stopped.
 
 **And the third one, which the Measurewrights raised and nobody answered.** Every entity in the register can be corrupted from outside. Vaelmorn's corruption vector is a description of his own Wellspring's documented failure mode, running unchecked, in a body designed for it. **He may not require an external agent at all.** He may simply be further along.
 
@@ -291,7 +291,7 @@ The second inversion is the one that turns him from an event into a condition. *
 
 **Halloway Mire.** Fourteen years continuous, eleven of them after the summoner's death. Ended by peat cutting. **The parish registers for the surrounding four villages show a mortality rate of zero across the entire period and a birth rate that fell to zero in the ninth year.** No document in the Archives connects the two figures and both are in the same volume.
 
-**The Truce at Corran Fen.** Two lines, roughly a hundred wounded each, neither able to close and neither able to withdraw casualties. **Terms were agreed by men shouting across ninety metres of bog at a stag who was not listening.**
+**The Truce at Corran Fen.** Two lines, roughly a hundred wounded each, neither able to close and neither able to withdraw casualties. **Terms were agreed by men shouting across ninety meters of bog at a stag who was not listening.**
 
 **The Nineteen.** Bench-heard. Six hours of deliberate attack conducted to establish tine count. The commander was censured on procedure. **The passengers are not named in the finding and the Measurewrights' request that they be named was refused as immaterial.**
 

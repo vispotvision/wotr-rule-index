@@ -70,7 +70,7 @@ It came up hard. This time it came as a brand. It came up out of somewhere at th
 
 And then he could see again. And the world had changed.
 
-It was still the yard. The snow, trampled black and red, and beyond the trampling a field of it glittering untouched under the walls. The burning stables, orange and roaring, throwing sparks up into a sky gone the hard clean blue of a northern morning. The dead. The Tenrai on the stair with their shields locked, and the northerners at the foot of it, and Wystan's grey men coming across from the broken gate. The woman in front of him in black and gold, with her long curved sword. But it was all of it laid open now, the way a frozen river is laid open when the ice is clear, so that you can see the current moving under it. He could see where everything was carrying its weight. The stair. The walls. The shields. The bodies of the living and the dead. Every one of them was a set of loads going down through bones and stones and timber into the ground, and every load went through some place that was carrying more than it could hold. He could see those places. They stood out to his left eye like cracks of light in a dark wall, a fine hot gold, the colour of a forge seen through a chink.
+It was still the yard. The snow, trampled black and red, and beyond the trampling a field of it glittering untouched under the walls. The burning stables, orange and roaring, throwing sparks up into a sky gone the hard clean blue of a northern morning. The dead. The Tenrai on the stair with their shields locked, and the northerners at the foot of it, and Wystan's gray men coming across from the broken gate. The woman in front of him in black and gold, with her long curved sword. But it was all of it laid open now, the way a frozen river is laid open when the ice is clear, so that you can see the current moving under it. He could see where everything was carrying its weight. The stair. The walls. The shields. The bodies of the living and the dead. Every one of them was a set of loads going down through bones and stones and timber into the ground, and every load went through some place that was carrying more than it could hold. He could see those places. They stood out to his left eye like cracks of light in a dark wall, a fine hot gold, the color of a forge seen through a chink.
 
 He could see them in her.
 
@@ -160,7 +160,7 @@ Somebody was kneeling beside him. Many people. Boots, and voices, and a hand on 
 
 "*Muken.* Muken, lad, look at me. Look at me." Ulf Stark. His breath was going white over Muken's face, fast and hoarse. "Sky above. Sky above, lad, you put a Tenrai captain on her knees. With that. With *that.*" He was looking at the scrap-iron sword in the snow. "Wystan. Wystan, come and see this. Come and see what he did to the step."
 
-Another face. Long and grey. Wystan Greymane was not looking at the step. He was looking at Muken's left eye, very closely, from a hand's width away, and his face had set like ground taking the frost, in a way that Muken would remember long afterward.
+Another face. Long and gray. Wystan Greymane was not looking at the step. He was looking at Muken's left eye, very closely, from a hand's width away, and his face had set like ground taking the frost, in a way that Muken would remember long afterward.
 
 "Ulf," said Wystan Greymane quietly. "Look at his eye."
 
@@ -168,7 +168,7 @@ Ulf looked.
 
 Neither man spoke. Behind them the stable roof fell in, and a column of sparks went up gold into the blue.
 
-Muken could not see his own eye. He would not see it for days, until he found a scrap of polished steel in the fort's armoury and looked into it, and saw what they had seen: a crack in the slate-grey of the left iris, low, fine as a hair, running out from the amber fleck that had always been there toward the edge, bright as a seam of gold in a stone. It would fade, over the next week, until he could barely find it. It would never go entirely.
+Muken could not see his own eye. He would not see it for days, until he found a scrap of polished steel in the fort's armory and looked into it, and saw what they had seen: a crack in the slate-gray of the left iris, low, fine as a hair, running out from the amber fleck that had always been there toward the edge, bright as a seam of gold in a stone. It would fade, over the next week, until he could barely find it. It would never go entirely.
 
 "The keep," said Wystan, and stood up, and his voice was ordinary again, an old soldier's voice giving orders. "She's gone out the postern with what's left of them. Ten, maybe twelve. Let her go. We've no horses to catch her with and no men to spare." He looked round the yard, at the dead. "Get the gate up. Get the stables out before it takes the barracks with it. Get a count."
 
@@ -180,7 +180,7 @@ Muken could not see his own eye. He would not see it for days, until he found a 
 
 The count came in at noon.
 
-The Tenrai garrison of Kharven's Foot had been two hundred. Sixty-one of them were dead in the yard and on the walls and in the rubble of the breach. Eighty more had thrown down their arms in the barracks when the gate went and were sitting now in the snow of the yard with their hands on their heads, under the spears of grey-bearded Greymane men. The rest had gone out through the postern with their captain, or over the north wall on ropes, or nobody knew where.
+The Tenrai garrison of Kharven's Foot had been two hundred. Sixty-one of them were dead in the yard and on the walls and in the rubble of the breach. Eighty more had thrown down their arms in the barracks when the gate went and were sitting now in the snow of the yard with their hands on their heads, under the spears of gray-bearded Greymane men. The rest had gone out through the postern with their captain, or over the north wall on ropes, or nobody knew where.
 
 The north had come up the ridge six hundred strong. Fifty-two of them would not go down it again.
 
@@ -194,7 +194,7 @@ He walked it slowly, because he could not walk it any other way, with his left a
 
 At the end of the row, someone was waiting for him.
 
-She was sitting on a fallen block of the breach with her kit open on her knees and her grey coat buttoned to the throat, and her hands were red to the wrists, and there was blood dried brown on her face and in the white of her braid. She had been working since the gate went down. She looked about a hundred years old. She looked about nine.
+She was sitting on a fallen block of the breach with her kit open on her knees and her gray coat buttoned to the throat, and her hands were red to the wrists, and there was blood dried brown on her face and in the white of her braid. She had been working since the gate went down. She looked about a hundred years old. She looked about nine.
 
 She looked up at him, at the strapped arm and the bound ribs and the pad over his eye, and her small grave face did not change at all.
 
@@ -243,4 +243,4 @@ Then she tied the pad back on, and took a curved needle out of the kit on her kn
 
 **Rule ids that most constrained it:** R71-7 (the deciding fact, the cracked step, shown in the read before the blow), R71-8 (a findable way out, both directions), R71-23 (a tell shown twice and used on the third), R71-19 (the ground on its own row: frost in old stone), R70-69 (Pressure in the room, then the bodies), R71-6 and the gore floor (shoulder to the bone, palms opened, the dead laid out), R70-114 (the warm bond at the close).
 
-**Revision 2026-10-24.** Lifted the colour (Tenrai black and gold on Shigure, the gold of the stress-cracks, the blue northern morning, glittering frost on the laid-out dead and the blowing snow) and kept magitech absent at the frontier fort; trimmed "for a long time", "very/quite still" and the chained "the way" similes. Every beat, line and figure of the duel, the count and the close is kept.
+**Revision 2026-10-24.** Lifted the color (Tenrai black and gold on Shigure, the gold of the stress-cracks, the blue northern morning, glittering frost on the laid-out dead and the blowing snow) and kept magitech absent at the frontier fort; trimmed "for a long time", "very/quite still" and the chained "the way" similes. Every beat, line and figure of the duel, the count and the close is kept.

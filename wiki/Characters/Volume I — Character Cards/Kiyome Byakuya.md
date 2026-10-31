@@ -20,10 +20,10 @@
 **Pronunciation** · kee-YOH-meh byah-KOO-yah
 **Alias / Title** · Lady Byakuya · Lady Kiyome · Byakuya-dono · Kiyome Byakuya of the White Line, as she swore at the woodpile
 **Also Known As** · the Owl, to Naevra Yukari, who called her and Tetsugen the Owl and the Fox · Aunt, to Muken · the lady with silver on her and a veil, to a Stark outrider who did not know her name
-**Race / Lineage** · Human. Byakuya, the near-white line of the seven, whose oldest office was the Kōkan's own guard: the king, and the king's children. Its colours are near-white with glass, veils and halos; its beasts are the Owl, the White Fox, the Heron and the Stoat, and the Owl is carved over the door of her house
+**Race / Lineage** · Human. Byakuya, the near-white line of the seven, whose oldest office was the Kōkan's own guard: the king, and the king's children. Its colors are near-white with glass, veils and halos; its beasts are the Owl, the White Fox, the Heron and the Stoat, and the Owl is carved over the door of her house
 **Age** · About thirty
 **Realm / Faction** · The Byakuya and the north, sworn to Muken Moto; the white chair of the Hall of Verdicts
-**School and sect rank** · Her grandmother's prayer room, the oath over the lamp at the hour of the evening bell, the armourer's order and the lacing pattern, the knot · head of the Byakuya, by every sign; she has given Muken her land and her name and has not said what that leaves her
+**School and sect rank** · Her grandmother's prayer room, the oath over the lamp at the hour of the evening bell, the armorer's order and the lacing pattern, the knot · head of the Byakuya, by every sign; she has given Muken her land and her name and has not said what that leaves her
 **Renown** · public: the lady who received the Yukari envoys, gave them tea, and sent them home alive · army: the Starks and Greymanes knew her as the lady who brought twelve hundred Thornwall pikes onto the Skeldmere on a white horse · sects: the seven lines thought her the one chair in the Hall with sense, and too shallow to use it · guilds: none · epithet: none of her own; the house's
 **Catalyst Event** · The Verdict of Six, standing through Torvald Stark's beheading because she would not sign it, then kneeling to close his eye
 **Refusal** · She will not ask her sister's son for a single thing; the oath binds her to him and does not bind him to anything at all
@@ -75,7 +75,7 @@
 **Tempering** · Clarity 60 · Overflow 0 · Maturity 50 · Coherence 80 · Yield 30 · Ceiling 0 · Capacity 30 · Longevity 0
 **Dominion** · Radius 30 · Sovereignty 20 · Sense 50 · Gravity 30 · Pressure 50 · Command 60 · Fate 0 · Throne not opened
 
-Oath 240 is the whole woman, and Ward 180 and Stability 160 are how she kept it standing in the Hall for sixteen years. Perception and Finesse are a guard's eyes and a guard's hands, an armourer's and a surgeon's too. She has almost nothing for the blow; her house was built to stand in front of the king, not to strike for him.
+Oath 240 is the whole woman, and Ward 180 and Stability 160 are how she kept it standing in the Hall for sixteen years. Perception and Finesse are a guard's eyes and a guard's hands, an armorer's and a surgeon's too. She has almost nothing for the blow; her house was built to stand in front of the king, not to strike for him.
 
 ## VI. Physical Force
 
@@ -87,7 +87,7 @@ Oath 240 is the whole woman, and Ward 180 and Stability 160 are how she kept it 
 
 **EU Reserve** · 295,202 EU · **Flux Density** · 60,000 EU/g · **AU/s** · 37,200 (60,000 × 0.62)
 **From full** · empties in 7.94 seconds at full output, Starvation at 7.14 seconds; she has never been seen to spend at full · **Recovery** · ten per cent a minute at rest, and she rests badly
-**Spending tells** · at half, the beads at her temples stop clicking and hang still; at a quarter, the cold rainbow at her edges goes out; at a tenth, the near-white flickers to grey and she has to put a hand on something to stand
+**Spending tells** · at half, the beads at her temples stop clicking and hang still; at a quarter, the cold rainbow at her edges goes out; at a tenth, the near-white flickers to gray and she has to put a hand on something to stand
 
 ## VIII. Traits
 
@@ -139,7 +139,7 @@ The common Moto sight, in her held level and quiet, fine silver rings lying as s
 
 ## XIII. Physical Description
 
-She is tall and very straight, as tall as Naevra Yukari, nearly, and pale, so that standing face to face with the Yukari they might be the same white figure and its reflection in dark water. Her hair is a warm gold, long, fine and loose, with heavy locks falling across her brow and into her eyes, and the length of it gathered low over one shoulder in a loose tail bound with a narrow band of gold. Her face is fine and long-boned, with a straight nose, a small composed mouth that lifts at one corner more often than people expect, and eyes of clear sea-glass green with fine silver rings in them that lie motionless as the face of a deep well and turn once, slowly, when something strikes her. The Moto sheen lies faint as frost along her brow and at her temples. She wears white: in the Hall, silk so near to white it seems under the lamps to give off a faint light of its own, crossed at the collar over an under-robe of soft blue and violet, with the veil of her line, fine glass beads, pinned back from her face so that they hang at her temples and click when she moves her head, and a halo-ring of pale metal at her crown; on the road, layered linen the white of fresh washing, grey at the hem from the dust and the slush. Her katana rides at her left hip in a white scabbard, without its knot. Her hands are long and pale, and since the Foot they have been red to the wrist more often than not.
+She is tall and very straight, as tall as Naevra Yukari, nearly, and pale, so that standing face to face with the Yukari they might be the same white figure and its reflection in dark water. Her hair is a warm gold, long, fine and loose, with heavy locks falling across her brow and into her eyes, and the length of it gathered low over one shoulder in a loose tail bound with a narrow band of gold. Her face is fine and long-boned, with a straight nose, a small composed mouth that lifts at one corner more often than people expect, and eyes of clear sea-glass green with fine silver rings in them that lie motionless as the face of a deep well and turn once, slowly, when something strikes her. The Moto sheen lies faint as frost along her brow and at her temples. She wears white: in the Hall, silk so near to white it seems under the lamps to give off a faint light of its own, crossed at the collar over an under-robe of soft blue and violet, with the veil of her line, fine glass beads, pinned back from her face so that they hang at her temples and click when she moves her head, and a halo-ring of pale metal at her crown; on the road, layered linen the white of fresh washing, gray at the hem from the dust and the slush. Her katana rides at her left hip in a white scabbard, without its knot. Her hands are long and pale, and since the Foot they have been red to the wrist more often than not.
 
 ## XIV. Psychology
 
@@ -178,7 +178,7 @@ She is tall and very straight, as tall as Naevra Yukari, nearly, and pale, so th
 
 ### Origin
 
-She was born to the Byakuya in the white house, twelve years after her sister Kasane, and their grandmother taught them both the oath over the lamp at the hour of the evening bell, and the knot, and the order for dressing the armour of the red chair's guard. At nine she swore the oath on the prayer-room floor with her grandmother's hand on her head; that summer the houses swapped their children for a season, and she and Naevra Yukari lay on that floor and swore to be friends for ever. When the time came for a Byakuya to stand at the Kōkan king's side in the old way, it was Kasane they sent. Kiyome was the only witness, before their grandmother's lamp, when her sister married Gimbzo, because he asked her to, and because she loved him, and because she thought she could hold him.
+She was born to the Byakuya in the white house, twelve years after her sister Kasane, and their grandmother taught them both the oath over the lamp at the hour of the evening bell, and the knot, and the order for dressing the armor of the red chair's guard. At nine she swore the oath on the prayer-room floor with her grandmother's hand on her head; that summer the houses swapped their children for a season, and she and Naevra Yukari lay on that floor and swore to be friends for ever. When the time came for a Byakuya to stand at the Kōkan king's side in the old way, it was Kasane they sent. Kiyome was the only witness, before their grandmother's lamp, when her sister married Gimbzo, because he asked her to, and because she loved him, and because she thought she could hold him.
 
 ### The Making
 

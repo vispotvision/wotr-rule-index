@@ -28,13 +28,13 @@ Against the wall, Lorn Stark's jaw tightened on the left side and was still.
 
 "As for curiosity and friendship," Muken said, "I wasn't going to mistake one for the other. I've sold my sword since I was fourteen. A man who looks at you the way you looked at me just now, all the way down and back up, isn't wondering whether he likes you. He's wondering how you'd go down." He held the prince's eyes. "I've had that look from sergeants and from paymasters and from men across a ditch. I know what it costs and what it doesn't. You can keep looking. It's free."
 
-The wolfhound, standing at his chair with its hackles still raised, made a sound in its chest like a door on a bad hinge. Muken put his left hand down on its great grey head without looking at it, and the sound stopped.
+The wolfhound, standing at his chair with its hackles still raised, made a sound in its chest like a door on a bad hinge. Muken put his left hand down on its great gray head without looking at it, and the sound stopped.
 
 "And yes," he said. "The Keld."
 
 He did not look at Godfrey, and Godfrey Greymane spoke as if he had been waiting for his place in the line, and perhaps he had.
 
-"The Keld march in two days, sire," Godfrey said. "From their fires at the Grey Teeth. Our outriders have them at something under four thousand. Riders, mostly, on the short northern horses that don't founder in the drift, and every man of them can sleep in the snow in his coat and wake up and fight." His long grey hands lay flat and unmoving on the pine. "Aksel Keld leads them. The Iron Fist. You've heard he's never lost. That's true. He's eighteen, and he's fought eleven times, and he's won eleven times, and three of those were against forces greater than his by twice and more." He paused. "My father fought beside his grandfather once, on the ice, against a Shiogane raid. He said Old Harald Keld was the only man he'd ever seen who could hear a whiteout coming before the sky changed. He said the grandson would be worse."
+"The Keld march in two days, sire," Godfrey said. "From their fires at the Grey Teeth. Our outriders have them at something under four thousand. Riders, mostly, on the short northern horses that don't founder in the drift, and every man of them can sleep in the snow in his coat and wake up and fight." His long gray hands lay flat and unmoving on the pine. "Aksel Keld leads them. The Iron Fist. You've heard he's never lost. That's true. He's eighteen, and he's fought eleven times, and he's won eleven times, and three of those were against forces greater than his by twice and more." He paused. "My father fought beside his grandfather once, on the ice, against a Shiogane raid. He said Old Harald Keld was the only man he'd ever seen who could hear a whiteout coming before the sky changed. He said the grandson would be worse."
 
 "Worse," Muken said.
 
@@ -92,7 +92,7 @@ He gave each of them the name, exactly, one after another, as Lorn had at the ga
 
 "I'm sure you've come a long way, and I'm sure you've a great deal to say, and I'll hear it. Godfrey's told me I'm to hear all of it, and Godfrey's generally right." He held Kiyome's eyes. "But I'll tell you now, before you start, so nobody wastes their breath. I don't care what you people think. Of me, or of the north, or of who has a right to what. I only care what the people think. The ones out there." He jerked his chin at the window, at the yard, at the steady three-blows-to-a-split of the child at the woodpile. "And what they want. What they've wanted for twenty years. Their ambitions, if you like, though they'd never call them that. A roof that doesn't fall in. A pot with something in it. A boy who goes south on a levy and comes back. Those are the only ambitions I've got any time for."
 
-Tetsugen Akagane had come a step into the room. He was a heavy man, broad as a door, bald as an egg, with the copper of his house gone dark at the seams of his coat and burning red-bronze everywhere else in the firelight, and the horn handle of a meat knife at his belt that was the only steel he had brought in. He gave Muken a long weighing look from under thick grey brows, like a man looking at a horse he had been told was unbreakable.
+Tetsugen Akagane had come a step into the room. He was a heavy man, broad as a door, bald as an egg, with the copper of his house gone dark at the seams of his coat and burning red-bronze everywhere else in the firelight, and the horn handle of a meat knife at his belt that was the only steel he had brought in. He gave Muken a long weighing look from under thick gray brows, like a man looking at a horse he had been told was unbreakable.
 
 "Good," Tetsugen said.
 
@@ -116,7 +116,7 @@ Hayato Amagiri was the one who answered him.
 
 He had been standing half a step behind Tetsugen with his narrow face drawn and his restless fingers for once at rest, folded in the wet indigo of his rain-cape, which the fire turned the deep blue of a lake at dusk. A sprig of blue-black juniper had caught in the toggle at his throat somewhere on the northern road and stayed there. When he spoke it was in the plain working cadence of a man discussing distances, and it was all the more terrible for that.
 
-"Harrowmere was a hundred and four in my grandfather's survey," he said. "Seventy-nine when the war ended. Twenty-six, you say, and I believe you, because I passed it two days ago and counted eleven chimneys with smoke." He drew a breath through his long nose. "Tullock is nine. Brannick ford is gone; the Tenrai burned it in the summer for harbouring a Stark rider. Low Esk I don't know. I'll learn." He looked straight at Muken. "I keep the roads for my house, sire. I've walked every one of them north of the Seat. And I'll tell you what no one in the Hall of Verdicts would tell you, because it's the only thing I'm good for. Every one of those numbers is in a Tenrai ledger somewhere, in a clerk's good hand, with the date it was taken down. They know. They have always known." His mouth tightened. "They simply never thought it was a sum worth doing."
+"Harrowmere was a hundred and four in my grandfather's survey," he said. "Seventy-nine when the war ended. Twenty-six, you say, and I believe you, because I passed it two days ago and counted eleven chimneys with smoke." He drew a breath through his long nose. "Tullock is nine. Brannick ford is gone; the Tenrai burned it in the summer for harboring a Stark rider. Low Esk I don't know. I'll learn." He looked straight at Muken. "I keep the roads for my house, sire. I've walked every one of them north of the Seat. And I'll tell you what no one in the Hall of Verdicts would tell you, because it's the only thing I'm good for. Every one of those numbers is in a Tenrai ledger somewhere, in a clerk's good hand, with the date it was taken down. They know. They have always known." His mouth tightened. "They simply never thought it was a sum worth doing."
 
 Muken stared at the three Moto leaders.
 
@@ -136,7 +136,7 @@ The fire cracked. The wolfhound, under his hand, had gone quiet, and its great r
 
 Kiyome Byakuya looked at her nephew.
 
-She had not stopped looking at him since the door. She had looked at him while the prince spoke and while the boy answered, and through Godfrey's report of the Keld and Lorn Stark's quiet hard words from the wall, and through Harrowmere and Tullock and Low Esk. She had looked at the shape of his jaw, which was Kasane's, and the set of his mouth, which was not, and the white hair tied back with a strip of leather the way her sister had tied her own hair back on the training ground at the white house when they were girls. And she had looked at his left eye, at the hair-fine crack of gold across the grey, and her own eyes had stung so hard that the silver rings in them had turned once, very slowly, against her will.
+She had not stopped looking at him since the door. She had looked at him while the prince spoke and while the boy answered, and through Godfrey's report of the Keld and Lorn Stark's quiet hard words from the wall, and through Harrowmere and Tullock and Low Esk. She had looked at the shape of his jaw, which was Kasane's, and the set of his mouth, which was not, and the white hair tied back with a strip of leather the way her sister had tied her own hair back on the training ground at the white house when they were girls. And she had looked at his left eye, at the hair-fine crack of gold across the gray, and her own eyes had stung so hard that the silver rings in them had turned once, very slowly, against her will.
 
 *So much hatred,* she thought. *Seven lines forgive us, child. So much of it. And every word of it earned.*
 
@@ -174,13 +174,13 @@ It was the first time she had said his name.
 
 She came forward then, all the way down the long room, past the barrel and the stools and the bench from the stables, with the hearth-light going rose and gold through the white of her robes, until she stood at the foot of his split pine table, close enough to touch the scrap-iron sword. The wolfhound's hackles went up again. Muken did not take his hand off its head. Kiyome did not look at it.
 
-"You said you don't claim to be a Moto," she said. "And you don't. You've never claimed anything in your life, have you? You've only ever taken what you could carry." Her grey eyes held his. "So I'll claim it for you. Because somebody has to, before somebody else does it worse."
+"You said you don't claim to be a Moto," she said. "And you don't. You've never claimed anything in your life, have you? You've only ever taken what you could carry." Her gray eyes held his. "So I'll claim it for you. Because somebody has to, before somebody else does it worse."
 
 She put out one long white hand and laid her forefinger on the rough pine of the table, in the space between them.
 
 And she drew.
 
-It was a mark. One mark, drawn slowly, with a single finger, in the fine grey dust of the Tenrai mess where the boys had not swept. It was not a letter. It was not any letter in the Concord hand or the scribe's hand or the trader's ciphers. It had a long down-stroke and a hook, and a crossing, and a small closed loop at the foot of it like a knot in a rope, and when she lifted her finger off the end of it, it lay on the table between them in the dust, plain as a footprint.
+It was a mark. One mark, drawn slowly, with a single finger, in the fine gray dust of the Tenrai mess where the boys had not swept. It was not a letter. It was not any letter in the Concord hand or the scribe's hand or the trader's ciphers. It had a long down-stroke and a hook, and a crossing, and a small closed loop at the foot of it like a knot in a rope, and when she lifted her finger off the end of it, it lay on the table between them in the dust, plain as a footprint.
 
 Muken looked at it.
 
@@ -222,13 +222,13 @@ Tetsugen Akagane stood rooted in the middle of the room, with his scarred hands 
 
 Hayato had opened his eyes again. He was looking at the floor.
 
-At the wall, Lorn Stark had not moved. He stood with his weight even on both feet and his hands still at his sides, exactly as his father had taught him, and looked at the floor three feet in front of him, and his face was the colour of the wall.
+At the wall, Lorn Stark had not moved. He stood with his weight even on both feet and his hands still at his sides, exactly as his father had taught him, and looked at the floor three feet in front of him, and his face was the color of the wall.
 
 Godfrey Greymane did not look at the floor. He looked at Muken.
 
 They had known. Both of them. They had known since the gatehouse, since the night before their fathers rode south down the Kessen road to the Seat and the Hall of Verdicts and the Kurenai blade. Ulf Stark had taken Lorn up onto the wall-walk in the dark and told him all of it, plainly, in twelve sentences, and then made him swear by the sky that covers us that he would carry it until it could be carried by someone with a better right. And Wystan Greymane had sat with his son by the woodpile in the cold with a cup of the skin going sour in his hand and told him the same, in rather more words, and at the end of it had said: *He'll learn it one day, Godfrey. Better from a friend's mouth than an enemy's. But not from yours. You swear it. You hold the ridge.*
 
-And Godfrey had held it. Every day since, at the boy's right hand, through the Foot's mending and the white banner and the kneeling by the woodpile, through *sire* and *yes, sire,* he had held the ridge. He had looked into that grey eye with its gold crack every morning and said nothing. He had found it the hardest thing he had ever done in his life.
+And Godfrey had held it. Every day since, at the boy's right hand, through the Foot's mending and the white banner and the kneeling by the woodpile, through *sire* and *yes, sire,* he had held the ridge. He had looked into that gray eye with its gold crack every morning and said nothing. He had found it the hardest thing he had ever done in his life.
 
 He was not sure, now, sitting very straight on the bench from the stables, whether he was glad it was over.
 
@@ -252,7 +252,7 @@ It went through him like water under ice: fast, and black, and a long way down.
 
 *It wasn't the salt.*
 
-His hand had closed, very slowly, in the grey fur of the wolfhound's neck. The great dog bore it without a sound.
+His hand had closed, very slowly, in the gray fur of the wolfhound's neck. The great dog bore it without a sound.
 
 *Yusif,* he thought. *Coming down four galleries every season with salt-meat and wool. Looking at her like something in a shrine. Teaching me the stick. Teaching me to protect the weak.*
 
@@ -306,7 +306,7 @@ It was Godfrey who spoke first. Of course it was.
 
 "Sire."
 
-Muken turned his head and only looked at Godfrey Greymane, sitting at his right hand on the bench from the stables, very straight, with his long grey hands flat on the pine and the dark circles under his grey eyes.
+Muken turned his head and only looked at Godfrey Greymane, sitting at his right hand on the bench from the stables, very straight, with his long gray hands flat on the pine and the dark circles under his gray eyes.
 
 "We knew," said Godfrey. "Lorn and I. Both of us. Our fathers told us the night before they rode south." He did not look away. "Mine made me swear it on the ridge. I swore. I'd swear it again, and I'd keep it again, every day of it. I'll not ask your pardon for that." His voice did not change. "But I'll tell you that I'm sorry for it. Every morning I said *sire* to you, I was sorry."
 
@@ -318,7 +318,7 @@ Muken looked at him, and went on looking.
 
 "All this while. With me sat next to you." Something moved at the corner of Muken's mouth. It was nowhere near a smile. But it was nowhere near the black hot thing either. "Your father would have been proud of you. I'd have hit you, in his place. But he'd have been proud."
 
-Godfrey's long grey hands did not move on the table. But his throat did, once.
+Godfrey's long gray hands did not move on the table. But his throat did, once.
 
 "He told me a lord in a hurry to end a meeting leaves it knowing less," he said. "I think today he'd have said a king in a hurry to hate somebody hates the wrong man." He met Muken's eyes. "You didn't, sire. Just now. You could have. You didn't."
 
@@ -344,7 +344,7 @@ He said it at once, without any heat at all.
 
 "Tonight. In the yard. By the woodpile, where they knelt." He looked at Lorn, and then at Godfrey. "Every Stark and every Greymane in the Foot. The boys who sewed the banner. The old woman by the barracks door with no teeth. All of them." His hand moved, once, over the mark in the dust, without touching it. "If they want to put me on a post for it, they can do it here, in front of me, tonight, and save the Keld the trouble. And if they don't." He stopped. "If they don't, then Karogane can stand between the lines and shout whatever he likes at the ice. There'll be nobody on our side of it who hasn't heard it already."
 
-Tetsugen Akagane gave the boy in the Tenrai chair the same weighing look as before, from under his thick grey brows, and held it longer. Then he turned, slowly, to Kiyome.
+Tetsugen Akagane gave the boy in the Tenrai chair the same weighing look as before, from under his thick gray brows, and held it longer. Then he turned, slowly, to Kiyome.
 
 "That," he said, in his flat iron voice, "is not his father."
 
@@ -422,4 +422,4 @@ Dougou appears only as where he stood when his post ended: beside the table, arm
 
 **Rule ids that most constrained it:** R72-4 (the post stops on a line aimed at Dougou), R71-30 (the planted mark pays off), R74-22 (the reveal lands cold, then a cluster), R72-25 (Kiyome's "is", Godfrey's sworn silence), R70-50 (one changed detail on return: Hayato's juniper, Tetsugen's knife), and your standing rule to answer every point the other player made without writing him.
 
-**Revision 2026-10-24.** Lifted the hall's colour from what is in it (the pine fire's orange and gold, Tetsugen's copper red-bronze in the firelight, Hayato's indigo, Kiyome's beads and white robes in the hearth-light, the glittering snow-silence outside), no magitech at the frontier fort, and trimmed the tics (long moments, very/quite still, did not need to, Nobody spoke, one foot-on-a-ledge kept as the closing callback, the full mark kept at its payoff) and the one countdown run; every beat and Isaac's lines are kept, and Dougou's passages are untouched.
+**Revision 2026-10-24.** Lifted the hall's color from what is in it (the pine fire's orange and gold, Tetsugen's copper red-bronze in the firelight, Hayato's indigo, Kiyome's beads and white robes in the hearth-light, the glittering snow-silence outside), no magitech at the frontier fort, and trimmed the tics (long moments, very/quite still, did not need to, Nobody spoke, one foot-on-a-ledge kept as the closing callback, the full mark kept at its payoff) and the one countdown run; every beat and Isaac's lines are kept, and Dougou's passages are untouched.

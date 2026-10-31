@@ -25,7 +25,7 @@ When the Scattering broke the goblinoid peoples out of the Old World, **the Crim
 **The Ironfold Council does not debate policy.** It receives intelligence, assesses threats, issues decrees, and enforces them. *The efficiency of this system is its strength. The rigidity is its weakness.* **The Mandate has never lost a border war.** It has also never produced a body of law that a civilian would describe as humane, and the Expanse's parliamentary historians consider this a related phenomenon.
 
 **The name** · Old Vaross. *Undaar* from **undaal** — platform, elevation, the throne that sits above. *Keth* is **the open palm**, the universal goblinoid gesture of peaceful intent, carried here as clan-signifier **and bitter irony**: the open palm offered by a state that governs through closed fist.
-> *The Mandate is named for the peace it intends but has never been permitted to practise.*
+> *The Mandate is named for the peace it intends but has never been permitted to practice.*
 **Roughly fifty-five thousand souls**, predominantly hobgoblin, with significant Bugbear, Ironblood Orc and Tinker Goblin populations.
 > *The Expanse asks. We answer. The difference is that we do not wait for the question to finish.*
 >
@@ -35,7 +35,7 @@ When the Scattering broke the goblinoid peoples out of the Old World, **the Crim
 
 ## Geography and the Western Shield
 
-Dense boreal forest, river valleys, low granite ridgelines separating drainage basins, **and the specific quality of terrain that military surveyors call defensible and everyone else calls miserable.** *The forest is resinous and dark, the canopy thick enough to block sky in midsummer, the undergrowth dense enough to swallow a formation within fifty metres of the treeline.*
+Dense boreal forest, river valleys, low granite ridgelines separating drainage basins, **and the specific quality of terrain that military surveyors call defensible and everyone else calls miserable.** *The forest is resinous and dark, the canopy thick enough to block sky in midsummer, the undergrowth dense enough to swallow a formation within fifty meters of the treeline.*
 
 The ridgelines run north–south, creating natural defensive corridors **the Mandate has fortified with a thoroughness that visiting attachés describe as excessive and that the Mandate's own commanders describe as adequate.**
 
@@ -48,7 +48,7 @@ At the confluence of three rivers on a basalt plateau chosen for **its defensive
 Dark, heavy, angular, with walls thick enough to absorb siege-engine impact and **streets laid out in a grid that optimises movement of troops and materiel from any quarter to any gate.**
 > **The grid is not decorative. It is doctrine.**
 >
-> *A city whose streets are designed for rapid military movement is a city that has decided, at the level of its foundation stones, that defence is not a department of governance but the architecture of governance itself.*
+> *A city whose streets are designed for rapid military movement is a city that has decided, at the level of its foundation stones, that defense is not a department of governance but the architecture of governance itself.*
 
 ### The Decree Stone
 
@@ -80,7 +80,7 @@ Both acts are performed in public by the Ironfold's designated **Stone-Carver**,
 Some came as refugees from inter-clan wars. **Some came as raiders who discovered that raiding the Mandate's border was the military equivalent of headbutting a wall**, and who, after sufficient headbutting, **accepted the wall's offer of citizenship in exchange for standing on the other side of it.**
 
 The **Ironblood Clause** was enacted under Commander Gorath-Keth, who argued with the pragmatism of a commander who had spent eight years fighting orcs on the northern perimeter that **the Ironblood were going to be inside the borders one way or another, and that a population with citizenship has a stake in the border's survival while a population without citizenship has a stake in its collapse.**
-> *It passed five to two, and the two dissenters were reassigned to the northern perimeter for the following season — which the Ironfold's records describe as a coincidence and which the dissenters described as a very specific kind of hobgoblin humour.*
+> *It passed five to two, and the two dissenters were reassigned to the northern perimeter for the following season — which the Ironfold's records describe as a coincidence and which the dissenters described as a very specific kind of hobgoblin humor.*
 
 ---
 
@@ -94,7 +94,7 @@ The **Ironblood Clause** was enacted under Commander Gorath-Keth, who argued wit
 | **Vreth-Kaan** *the northern wall* | Coldest, harshest, most militarily active. Faces the unaffiliated frontier, the polar waste's edge, **and the specific category of creature that breeds in high-Aether tundra and considers hobgoblin settlements an interesting food source.** *Its soldiers are selected for cold-tolerance, endurance, and the mental resilience required to spend a winter on a wall that overlooks nothing except the precise direction from which the next attack will come* | ~7,000 |
 | **Gorr-Shal** *the eastern march* | Borders Stannvaard's extraction claims. The Mandate's most commercially active district, **conducting trade through a customs post the Dawi's factor agents describe as efficient and the Mandate's own merchants describe as humiliating** — *because every transaction is processed through a military checkpoint and every merchant is treated as a potential threat until cleared* | ~9,000 |
 | **Keth-Vorruk** *the southern line* | Holds the barrier that has prevented human frontier expansion for three centuries. **Its Commander is traditionally the most diplomatically skilled member of the Ironfold**, because the border requires managing a relationship that is simultaneously hostile and commercial — *characterised by the mutual understanding that the settlers will keep pushing, the wall will keep holding, and the space between the pushing and the holding is where the actual relationship lives* | ~8,000 |
-| **Ashenmoor** *the interior* | The agricultural heartland and **the Bugbear heartland** — territory the Bugbears settled while their hobgoblin neighbours were building walls, farmed **with the patient persistence of a people whose ancestral inheritance is the memory of a layer that took the full force of impact and survived by being too massive to move.** *A small Ironblood community chose farming over garrison duty and is treated by the Bugbear majority with the cautious warmth reserved for relatives who have recently stopped throwing furniture* | ~10,000 |
+| **Ashenmoor** *the interior* | The agricultural heartland and **the Bugbear heartland** — territory the Bugbears settled while their hobgoblin neighbors were building walls, farmed **with the patient persistence of a people whose ancestral inheritance is the memory of a layer that took the full force of impact and survived by being too massive to move.** *A small Ironblood community chose farming over garrison duty and is treated by the Bugbear majority with the cautious warmth reserved for relatives who have recently stopped throwing furniture* | ~10,000 |
 | **Tinker's Gorge** *the workshop district* | The canyon settlement holding the Tinker Goblin workshops and **the category of experimental facility the Ironfold inspects quarterly and that the inspectors describe as technically within regulations and probably not going to explode.** Standing policy on Tinker innovation: **approve everything that does not explode, document everything that does, and never tell them to stop — because the day the Tinkers stop inventing is the day the Mandate loses its only source of technological surprise** | ~3,000 |
 | **Vorrak's Reach** *the western frontier* | Held primarily for strategic depth: **territory the Mandate does not need but that an invading force from the coast would have to cross.** Named for **Vorrak the Carver**, the third Stone-Carver, who spent her retirement carving practice decrees into living trees — *remembered by the forestry workers as the woman who gave the forest a law it did not ask for and that it has been ignoring ever since* | ~4,000 |
 
@@ -162,7 +162,7 @@ Seven operational commanders, one per district, holding **both military and civi
 
 ---
 
-## Defence · The Ironwall
+## Defense · The Ironwall
 
 Roughly **eight thousand** — the largest standing army on the northern shield and the most operationally ready, **in the specific sense that a force defending the same borders for six centuries has optimised every procedure for exactly one purpose: holding the line.**
 > **Ironwall doctrine does not produce individual heroes. It produces units that function, supply chains that deliver, and fortifications that hold.**
@@ -180,7 +180,7 @@ Roughly **eight thousand** — the largest standing army on the northern shield 
 **Martial, direct, and functional in the way a well-maintained fortification is functional:** everything serves a purpose, nothing is decorative, **and the absence of ornamentation is itself a statement about what the culture values.**
 
 **Composition** · ~55% hobgoblin, 25% Bugbear, 12% Ironblood Orc, 5% Tinker Goblin, 3% other — *predominantly human frontier families who crossed the southern line going the wrong direction and were offered citizenship rather than expulsion, on the pragmatic ground that a family who voluntarily enters a military state has already selected for the characteristics the military state values.*
-> **The racial dynamics are functional rather than harmonious: the hobgoblins command, the Bugbears feed, the Ironblood fight, and the Tinkers build.** The roles are not legally prescribed — *but six centuries of cultural gravity have produced a de facto division of labour that newcomers absorb within a generation and that the Mandate's own citizens regard as natural in the way breathing is natural, meaning they do not notice it until someone from outside points it out.*
+> **The racial dynamics are functional rather than harmonious: the hobgoblins command, the Bugbears feed, the Ironblood fight, and the Tinkers build.** The roles are not legally prescribed — *but six centuries of cultural gravity have produced a de facto division of labor that newcomers absorb within a generation and that the Mandate's own citizens regard as natural in the way breathing is natural, meaning they do not notice it until someone from outside points it out.*
 **Language** · Old Vaross for administration and law. **Gorr-Vaross**, the Bugbear dialect, in the Ashenmoor — *long coordinated chains joined by* and, *resisting subordination, idiom drawn from water, rot, growth and things that sink.* The Ironblood speak Old Vaross with **heavier consonants, shorter vowels, and the sub-bass frequencies that physically vibrate the iron content of nearby listeners** — *which the hobgoblin population has learned to filter and which visitors have not.*
 
 **Architecture** · *The Bugbear architectural instinct is horizontal while the hobgoblin instinct is vertical, and the contrast between the capital's angular verticality and the Ashenmoor's spread-out horizontality is the most visible expression of the kingdom's internal racial character.*

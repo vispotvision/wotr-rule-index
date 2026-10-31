@@ -41,9 +41,9 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Function** · A small corvid-shaped construct, wingspan roughly the length of his forearm, dispatched ahead of a party to observe and relay.
 
-**Mechanism** · Its body is compressed Sublimare-purified ink over Fixatio-sealed parchment fibre. A thread-thin Anamnesis tether runs back to his own perception, so what it sees, he sees, delayed by the width of a held breath rather than truly live.
+**Mechanism** · Its body is compressed Sublimare-purified ink over Fixatio-sealed parchment fiber. A thread-thin Anamnesis tether runs back to his own perception, so what it sees, he sees, delayed by the width of a held breath rather than truly live.
 
-**Numerical effect** · Roughly four minutes of active flight before the tether thins past useful resolution. Effective range approximately 800 metres.
+**Numerical effect** · Roughly four minutes of active flight before the tether thins past useful resolution. Effective range approximately 800 meters.
 
 **Target response** · To a casual glance it reads as an ordinary carrion-crow, **until it tilts its head at an angle no living bird holds.**
 
@@ -83,9 +83,9 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Function** · A lean, faceless humanoid that exists for the length of a single committed strike, carrying a stylus-shaped blade of compressed Calcination flame.
 > **Mechanism** · The blade is Calcination's ego-death function given a cutting edge. What it burns away first is **whatever the target's Essence architecture is currently lying to itself about** — an unstable stance, a Trait held past its honest limit, a wound the body has not admitted yet.
-**Numerical effect** · Edge temperature approximately 1400°C. Contact radius 0.3–0.6 metres. The construct dissolves 4–6 seconds after manifestation regardless of whether the strike connects.
+**Numerical effect** · Edge temperature approximately 1400°C. Contact radius 0.3–0.6 meters. The construct dissolves 4–6 seconds after manifestation regardless of whether the strike connects.
 
-**Target response** · A clean hit forces an honest structural failure. Compromised armour gives entirely; a Trait held past what the target's Temperance actually supports collapses along with it.
+**Target response** · A clean hit forces an honest structural failure. Compromised armor gives entirely; a Trait held past what the target's Temperance actually supports collapses along with it.
 
 **Cost** · Roughly 15% of reserve, the most expensive single summon on the roster. His own hands blister faintly for an hour afterward regardless of whether he touched anything.
 
@@ -123,7 +123,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Mechanism** · Synchronized through a shared Concordia field rather than thirty separate Anamnesis tethers, which is the only reason it is affordable at all. **He is not sustaining thirty constructs. He is sustaining one network with thirty expression-points.**
 
-**Numerical effect** · Each moth carries no more than a paper cut's worth of contact force, but the swarm collectively degrades visibility and fouls fine motor tasks — bowstrings, glyph-tracing hands, delicate footwork — across roughly a 15-metre radius.
+**Numerical effect** · Each moth carries no more than a paper cut's worth of contact force, but the swarm collectively degrades visibility and fouls fine motor tasks — bowstrings, glyph-tracing hands, delicate footwork — across roughly a 15-meter radius.
 
 **Target response** · Individually dismissible, collectively suffocating. Most opponents do not take it seriously until they have been inside it for thirty seconds.
 
@@ -227,7 +227,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Function** · Strips false structure from material or wound-site, invoking Cinerion through material contact to work Calcination's ego-death function.
 
-**Numerical effect** · Burn radius 0.5–1.2 metres, approximately 1400°C at the face.
+**Numerical effect** · Burn radius 0.5–1.2 meters, approximately 1400°C at the face.
 
 **Cost** · Negligible EU; high personal cost to have cast.
 
@@ -309,7 +309,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### Full Accounting · *Signature, Domain-scale capstone*
 
-**Gates** · Requires full Open Crucible Domain activation. Only usable within its 40-metre radius.
+**Gates** · Requires full Open Crucible Domain activation. Only usable within its 40-meter radius.
 
 **Trigger** · Both hands spread inside an active Domain. **No chant** — the Domain itself is already speaking for him at that scale.
 

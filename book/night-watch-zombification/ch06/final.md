@@ -4,7 +4,7 @@
 
 The fourth hind had been five days off the rail and Nuvalik had her open on the slate from the point of the shoulder to the second rib, and the shoulder was the only part of her worth a lamp.
 
-She worked with the small knife, the one she kept for seams. Under the blade the tissue came away in sheets, pale where the ice had held it and darker along the fibre where the pour had gone in, and the darker part ran inland from the pour sites in threads no thicker than a horsehair, and she followed them with the point and did not cut them.
+She worked with the small knife, the one she kept for seams. Under the blade the tissue came away in sheets, pale where the ice had held it and darker along the fiber where the pour had gone in, and the darker part ran inland from the pour sites in threads no thicker than a horsehair, and she followed them with the point and did not cut them.
 
 The room had no hum in it. It had not had one for four years. What it had instead was the press at the far end going over on its cam, and the drip in the corner, and behind her the sound of Foss turning a page.
 
@@ -52,9 +52,9 @@ Across the room Vesk made a noise that was not a word. She did not look at him. 
 
 Vesk stopped.
 
-Malphas had not moved. He had his forearms on his knees and his hands hanging off the ends of them, and from the slate Nuvalik could see the backs of them: the knuckles, the nails, the skin over the tendons. They were the colour of hands. The gauge over the door had stood at four degrees since the first division and her own fingers had gone the colour of tallow inside the first quarter of it, the way they did every day, and his were the colour of hands.
+Malphas had not moved. He had his forearms on his knees and his hands hanging off the ends of them, and from the slate Nuvalik could see the backs of them: the knuckles, the nails, the skin over the tendons. They were the color of hands. The gauge over the door had stood at four degrees since the first division and her own fingers had gone the color of tallow inside the first quarter of it, the way they did every day, and his were the color of hands.
 
-She had thought about it on the second night and been satisfied with it. He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the colour out of a man who was not working in it. Nobody else in the room had ever sat in here without working. There was nothing to compare him to.
+She had thought about it on the second night and been satisfied with it. He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the color out of a man who was not working in it. Nobody else in the room had ever sat in here without working. There was nothing to compare him to.
 
 "Why is it not in the book," Malphas said.
 
@@ -128,7 +128,7 @@ It was while he was standing the flask up that Foss put his hand flat on the thi
 
 The room changed. Nuvalik felt it go through her the way she had once felt a district come off the main under her feet, a thing arriving by not being there any more, and she did not look up from the hind's flank and heard both the other men stop moving.
 
-It was a book with a limp grey cover, no bigger than a hand, swollen along the spine from a wet pocket. Foss had it open flat with the glass holding the leaves down.
+It was a book with a limp gray cover, no bigger than a hand, swollen along the spine from a wet pocket. Foss had it open flat with the glass holding the leaves down.
 
 "You said a season," Malphas said.
 
@@ -136,7 +136,7 @@ It was a book with a limp grey cover, no bigger than a hand, swollen along the s
 
 "Whose is it."
 
-"Nobody's. It is a print, not an issue. An issue is numbered and logged against a man's name and goes back when he is struck off or dies or goes to the Bench." He turned it over and showed the back, and the back was grey and had nothing on it. "This is a print somebody took off an issue, badly, with the heads set by eye. No number, no name, no chapter, no mark that says whose desk it came off. I have been through it twice for that. There is nothing in this book that leads to anybody."
+"Nobody's. It is a print, not an issue. An issue is numbered and logged against a man's name and goes back when he is struck off or dies or goes to the Bench." He turned it over and showed the back, and the back was gray and had nothing on it. "This is a print somebody took off an issue, badly, with the heads set by eye. No number, no name, no chapter, no mark that says whose desk it came off. I have been through it twice for that. There is nothing in this book that leads to anybody."
 
 "Then read me the paragraph."
 
@@ -216,7 +216,7 @@ Vesk got the gloves. They were the yard gloves, canvas, stiff with the cold, the
 
 Nuvalik opened the near flank at four places and stood back. Foss carried the flask from the bench to the table in both hands, because Foss was the second pair, and set it down beside her and took his hands off it. She broke the seal at the table. It came away in a thin rind and Vesk took the rind off her in a dish before it touched the slate, and she put the tundish in and poured at the first place and gave it the count of forty.
 
-The colour went out of the surface and away inland, faster at the two forward pours and slower at the two behind, the way it had in the ninth and in the fourth. Foss called the division. Vesk wrote it. She poured at the second place and watched the channels take it away under the hide toward the emptier end of her, and the room was as quiet as a room with no main under it gets.
+The color went out of the surface and away inland, faster at the two forward pours and slower at the two behind, the way it had in the ninth and in the fourth. Foss called the division. Vesk wrote it. She poured at the second place and watched the channels take it away under the hide toward the emptier end of her, and the room was as quiet as a room with no main under it gets.
 
 Between the pours she looked round once. Malphas was at the door with his coat over his arm, in the part where the lamp did not reach, and nothing in his hands but the coat. Through all four pours no sound came from that corner that she could hear.
 

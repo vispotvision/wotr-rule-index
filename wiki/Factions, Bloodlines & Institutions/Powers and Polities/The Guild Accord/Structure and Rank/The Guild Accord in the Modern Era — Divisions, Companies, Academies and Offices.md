@@ -24,7 +24,7 @@ The original document renders the machinery in a mode the setting has since move
 | Old rendering | Modern Era rendering |
 |---|---|
 | Lattice terminals projecting Commissions | **The board.** Paper, wax, a clerk, and a hall with a wall for it |
-| Sigil colours | **Seal colours.** Green, blue, gold and obsidian wax, struck on the posting |
+| Sigil colors | **Seal colors.** Green, blue, gold and obsidian wax, struck on the posting |
 | Aether credits | **Draughts and the bill.** The Guild's unit of draw, and a letter of credit against a factor house |
 | Scry-glyph verification | **The wire, the field report, and a countersigning witness** |
 | Echo marks | **Entries.** The Bench's power of entry, on the roll, in ink |
@@ -70,13 +70,13 @@ Five Divisions, one unacknowledged sixth, and they are not colleagues. Each hold
 
 **Held for life**, because the office is not a post. The Concordant's soul is woven into the Vault at the Citadel's core and their breath sustains the Lattice. There is no retirement and no removal, and this is the whole shape of the office.
 
-**Powers.** Appointment and dismissal of Divisional Heads. Command of the Black Concord. The casting judgement in a divided Council. The charter, and the revocation of a charter, which is the power everything else rests on.
+**Powers.** Appointment and dismissal of Divisional Heads. Command of the Black Concord. The casting judgment in a divided Council. The charter, and the revocation of a charter, which is the power everything else rests on.
 
 **And one enormous constraint.** The Concordant cannot leave the Citadel for long. **The most powerful person in the four quarters cannot travel**, has not seen most of what they govern, and receives everything through five Divisional Heads, each of whom decides what is worth carrying up.
 
 So the real politics of the office is not the exercise of power. It is **curation.** A Head who wants a thing done does not argue for it. They arrange for the Concordant to hear about the problem it solves, three times, from three directions, over a season. Every senior person in the Citadel understands this. It is not corruption and nobody thinks of it that way.
 
-**The succession is the whole game and it is played before the death.** If the Concordant dies unsucceeded the Vault stills and the Accord collapses, and everyone knows this, which means the Council will accept almost any nominee rather than risk a gap. Therefore the contest is entirely over who is standing closest when the moment comes, and therefore the Concordant's health is the most closely held and most intensively rumoured fact in the Inner World, and therefore **the wire out of the Citadel is read by more people than any other line on the network.**
+**The succession is the whole game and it is played before the death.** If the Concordant dies unsucceeded the Vault stills and the Accord collapses, and everyone knows this, which means the Council will accept almost any nominee rather than risk a gap. Therefore the contest is entirely over who is standing closest when the moment comes, and therefore the Concordant's health is the most closely held and most intensively rumored fact in the Inner World, and therefore **the wire out of the Citadel is read by more people than any other line on the network.**
 
 ## V. The Guilds
 
@@ -106,7 +106,7 @@ The freedom brings the right to work for whom you choose or to set up on your ow
 
 **Merchant companies.** Regulate a **trade** rather than a craft, and their members make nothing. The great houses of Stannvaard. Historically these outrank craft companies in wealth and are outranked by them in precedence, and neither side has ever stopped minding.
 
-**Societies.** Restrict senior membership to actual practitioners, unlike the companies, most of which long ago stopped requiring that the Master of the company practise the trade the company is named for. **The Alchemists' Society** is the strictest: a man may be a freeman of it by purchase and may not sit on its Court unless he can work.
+**Societies.** Restrict senior membership to actual practitioners, unlike the companies, most of which long ago stopped requiring that the Master of the company practice the trade the company is named for. **The Alchemists' Society** is the strictest: a man may be a freeman of it by purchase and may not sit on its Court unless he can work.
 
 **Ventures.** And this is the one worth understanding properly.
 
@@ -131,7 +131,7 @@ The five Commission Classes are unchanged. Reconnaissance, Containment, Retrieva
 | Rank | What it is |
 |---|---|
 | **Scholar** | Under instruction. Not yet permitted to work unsupervised |
-| **Licentiate** | Holds the **licence**: permission to practise for hire. This is the qualification that matters commercially and the one most holders stop at |
+| **Licentiate** | Holds the **license**: permission to practice for hire. This is the qualification that matters commercially and the one most holders stop at |
 | **Master** | Permitted to take apprentices. A teaching qualification, not a superior practising one, and the distinction is constantly misunderstood outside academia |
 | **Doctor** | Permitted to teach the masters, examine, and dispute. Confers the right to be wrong in public at length |
 | **Chair** | An endowed and appointed post, named for whoever endowed it. Held for life or until a better one is offered |
@@ -142,7 +142,7 @@ The five Commission Classes are unchanged. Reconnaissance, Containment, Retrieva
 
 A society does not teach. It **elects**, from a large pool, a small fixed number each year, and the election is by the existing members. Membership is styled **Fellow**, carries a postnominal, and cannot be bought at any price, which is precisely why it is worth more than anything that can.
 
-The Society's whole power is that it is the only body in the four quarters that confers standing **without money changing hands.** It has no charter to grant, no licence to issue and no court to convene. It simply says, once a year, who is worth listening to, and the four quarters have agreed to care.
+The Society's whole power is that it is the only body in the four quarters that confers standing **without money changing hands.** It has no charter to grant, no license to issue and no court to convene. It simply says, once a year, who is worth listening to, and the four quarters have agreed to care.
 
 **The Accord and the Societies have never worked out their relationship** and both prefer it that way. Research and Archives funds them, and has never dared try to appoint to them.
 
@@ -168,7 +168,7 @@ The historical pattern is exact and worth copying: an office is created to *do* 
 
 Every crown appoints its own: **Mage Royal**, **Alchemist Royal**, **Engraver Royal**, and in the Inner World a **Gauger Royal** in three kingdoms so far. These are salaried, resident, and expected to work.
 
-**Two honour systems, and they overlap badly.** The Grand Mage is the Accord's. The Mage Royal is a crown's. Neither outranks the other and no protocol has ever settled which enters a room first, so the compromise everywhere is that they enter together and are announced together, and the two men involved have usually loathed each other for years.
+**Two honor systems, and they overlap badly.** The Grand Mage is the Accord's. The Mage Royal is a crown's. Neither outranks the other and no protocol has ever settled which enters a room first, so the compromise everywhere is that they enter together and are announced together, and the two men involved have usually loathed each other for years.
 
 ## VIII. Hooks
 

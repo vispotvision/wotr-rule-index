@@ -8,7 +8,7 @@ It was an old Board pattern with a brass face and the Board's seal whole on the 
 
 He took his ale at the hatch at the fixed price. The sworn taster's chalk was on the barrel head, a day old. He carried the pot to the corner by the hearth, where the carter sat over a bowl of pulse.
 
-The carter was a long man folded onto a short settle, with his knees up near the table's edge. Fifty, or a hard forty. He wore a waxed smock gone brown at the left shoulder where a load strap had crossed it for years, and a jerkin under it with horn buttons, two missing. His hands were big and dry and split along the insides of the fingers where the reins ran. The left thumbnail was black. A whip lay coiled on the settle beside him with its thong wound round the stock. Out in the yard his cart stood tipped back on its stays with the shafts in the air, and his grey cob was in the end stall eating somebody else's hay.
+The carter was a long man folded onto a short settle, with his knees up near the table's edge. Fifty, or a hard forty. He wore a waxed smock gone brown at the left shoulder where a load strap had crossed it for years, and a jerkin under it with horn buttons, two missing. His hands were big and dry and split along the insides of the fingers where the reins ran. The left thumbnail was black. A whip lay coiled on the settle beside him with its thong wound round the stock. Out in the yard his cart stood tipped back on its stays with the shafts in the air, and his gray cob was in the end stall eating somebody else's hay.
 
 Foss had never had his name. He had not asked for it, and it had not been offered.
 
@@ -24,7 +24,7 @@ Foss sat. He set the pot down and took the bundle out of the inside of his coat,
 
 The carter did not count. He picked the tie loose with the black thumbnail and turned the matting back.
 
-The bars lay in it side by side. Grey-white, each the length of a hand and the thickness of a thumb, broken square at the ends where they had been snapped off the sheet at the pans. There was no mark on any of them. Pan salt would not hold a stamp through a wet season, and nobody paid the extra to try.
+The bars lay in it side by side. Gray-white, each the length of a hand and the thickness of a thumb, broken square at the ends where they had been snapped off the sheet at the pans. There was no mark on any of them. Pan salt would not hold a stamp through a wet season, and nobody paid the extra to try.
 
 The carter took a clasp knife out of his smock, opened it against his thigh, and shaved a corner off the nearest bar into his pulse. Then he shaved a second curl onto the flat of the blade and put it on his tongue.
 
@@ -108,7 +108,7 @@ Foss sat and looked at the bowl, where the salt had gone.
 
 He was thinking about the road.
 
-He had spent a season on this road asking for a book. He had asked carters and chapmen and a woman who sold horn spoons at the crossing below the inn, a little at a time and never twice to the same face, whether anybody had a grey limp-covered thing with the Division's heads in it, because a man he did work for wanted to read a paragraph. And the book had come. It had come up the road in a carter's coat with four other books in the bundle, and the carrier could not have told you what any of them were. Somebody had printed it off an issue, badly, and somebody's issue had gone missing to be printed from, and the Division would want its book back, and the Division would ask on the road. You asked a carter, and he told you what he carried.
+He had spent a season on this road asking for a book. He had asked carters and chapmen and a woman who sold horn spoons at the crossing below the inn, a little at a time and never twice to the same face, whether anybody had a gray limp-covered thing with the Division's heads in it, because a man he did work for wanted to read a paragraph. And the book had come. It had come up the road in a carter's coat with four other books in the bundle, and the carrier could not have told you what any of them were. Somebody had printed it off an issue, badly, and somebody's issue had gone missing to be printed from, and the Division would want its book back, and the Division would ask on the road. You asked a carter, and he told you what he carried.
 
 *And what they carry up the Ferriby lane is blocks.*
 
@@ -204,13 +204,13 @@ Foss put the pencil in the spine.
 
 His fingers had gone white at the nails in the time it had taken to write four lines. They always did in this room. He stood with the book shut under his hand and looked at them, and then, because he was a man who looked at things, he looked across at Malphas's hands, still hanging between his knees under the dead standpipes in the lamplight.
 
-They were the colour of hands. The gauge over the door said four degrees. He had had that housing open himself and trusted it to the degree. He looked at the knuckles, where the colour goes first. It had not gone. He had no instrument for it and nothing he could lay against it, and after a while he stopped looking.
+They were the color of hands. The gauge over the door said four degrees. He had had that housing open himself and trusted it to the degree. He looked at the knuckles, where the color goes first. It had not gone. He had no instrument for it and nothing he could lay against it, and after a while he stopped looking.
 
 "Go home," Malphas said. "Sleep. Next turn you take the carter the walks."
 
 He rode home by the Swale road because it was the long way, and he wanted to see it.
 
-It was light by the third division, grey and flat, and the cob went along at a walk with her head down. On his left the ground fell away to the Swale, and past the river the forest went up in walks, each one a ride cut straight up the slope with a keeper's hut at its foot. He began to count them and stopped at nine. The count was not what mattered. Every ride had a crossing at its foot, and every crossing had a carter who came up to it and a carter who went on from it, and every one of them would want his bars.
+It was light by the third division, gray and flat, and the cob went along at a walk with her head down. On his left the ground fell away to the Swale, and past the river the forest went up in walks, each one a ride cut straight up the slope with a keeper's hut at its foot. He began to count them and stopped at nine. The count was not what mattered. Every ride had a crossing at its foot, and every crossing had a carter who came up to it and a carter who went on from it, and every one of them would want his bars.
 
 He worked it as a tolerance. One lane, one man at the top, five bars and two. Then the walks: a block to a keeper, a carter to every two or three walks, none of them knowing the others. He had no figures for it. He put letters to it in his head and ran it, and it came out large and loose and very hard to walk from one end to the other.
 
@@ -238,7 +238,7 @@ When the work was done he would be released with his own name. It was in the boo
 
 Past the hamlet the road came down close to the river, and one of the walks came down to it on his own side of the water.
 
-There was a lick at the foot of the ride. An oak post, squared, knee-high, with the top cut to a hollow and a block wedged in it. Two hinds stood at it in the grey light with their heads down. They lifted their heads and looked at him and did not run, and one of them put her head down again and went on licking.
+There was a lick at the foot of the ride. An oak post, squared, knee-high, with the top cut to a hollow and a block wedged in it. Two hinds stood at it in the gray light with their heads down. They lifted their heads and looked at him and did not run, and one of them put her head down again and went on licking.
 
 He reined in. The cob stopped and blew.
 

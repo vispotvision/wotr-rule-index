@@ -33,7 +33,7 @@ Draft: `ch07/draft_r0.md`. Body 3,539 words (H1 and place line excluded), set-pi
 
 ## Josse Garretsohn, originated (no card; no figure given)
 
-- **Build:** short, thick through the chest, bow-legged, grey stubble, a knitted cap down to the eyebrows.
+- **Build:** short, thick through the chest, bow-legged, gray stubble, a knitted cap down to the eyebrows.
 - **Hands:** broad, split across every knuckle, the splits packed white with salt. He sets blocks bare, with the heel of the hand and the ball of the thumb.
 - **Clothes:** a sheepskin jerkin with the wool turned in; cracked leather gaiters; boots packed at the tops with straw.
 - **Carries:** a carrier's frame of ash with a sacked load of tonic blocks, and a short beetle whose split head is bound with wire. The hazel half-tally hangs on a thong at his neck, and dark bread sits in his jerkin (in the minute). The old plain-salt stubs go in the sack "for the hens at home".
@@ -46,11 +46,11 @@ Draft: `ch07/draft_r0.md`. Body 3,539 words (H1 and place line excluded), set-pi
 ## Other originations (for Isaac to override)
 
 - The licks are squared oak posts, knee-high, with a hollow top. Some were set by Josse's father.
-- The tonic block is grey salt with a rust-brown streak poured through at a slant, about the size of an assize loaf. Before this season the blocks were plain white salt.
+- The tonic block is gray salt with a rust-brown streak poured through at a slant, about the size of an assize loaf. Before this season the blocks were plain white salt.
 - The tally has a notch per lick set and a notch with a nick across it for tonic, which is "the steward's money, not the farm's".
 - The steward has a bad hip and has never been up past the second field (Josse's say-so).
 - Past the birch the round runs along the bound: "walls and the bound-ditch", with no beasts worth the salt.
-- Yinzhi's coil "browned" down its length on the block. This is instrument behaviour and gives no figure.
+- Yinzhi's coil "browned" down its length on the block. This is instrument behavior and gives no figure.
 - A scene-break rule (`---`) separates the Josse scene from the birch.
 
 ## Hooks
@@ -71,4 +71,4 @@ Draft: `ch07/draft_r0.md`. Body 3,539 words (H1 and place line excluded), set-pi
 
 ## Summary for continuity
 
-Day 7. Wystan and Yinzhi walk the Ferriby estate's round north from the home farm. There is a salt lick every half mile, on knee-high oak posts, and the blocks are new tonic blocks, grey with a brown streak. At one post they meet the lick-keeper Josse Garretsohn, first seen, setting blocks bare-handed. Wystan shows the brass and gives only "the Register". Josse says the round turns at the birch, as his father's did, and that the steward paid for the tonic on the split tally. He lies that the blocks come from the home-farm barn and refuses to hand over his half of the tally. He set the birch lick before the thaw. The last lick is inside the birch on the east side, well short of the stone. It sits at Called Late's stopping place: the salt stopped there and the carrier turned home. Hair is rubbed into the bark on the north faces of the trunks round it. Yinzhi's coil shows the block carrying. Wystan grips it bare-handed and takes the forty-third minute: Josse setting it, content, nobody else in it. He concludes the formulator never goes near them. The block is tinned under his brass.
+Day 7. Wystan and Yinzhi walk the Ferriby estate's round north from the home farm. There is a salt lick every half mile, on knee-high oak posts, and the blocks are new tonic blocks, gray with a brown streak. At one post they meet the lick-keeper Josse Garretsohn, first seen, setting blocks bare-handed. Wystan shows the brass and gives only "the Register". Josse says the round turns at the birch, as his father's did, and that the steward paid for the tonic on the split tally. He lies that the blocks come from the home-farm barn and refuses to hand over his half of the tally. He set the birch lick before the thaw. The last lick is inside the birch on the east side, well short of the stone. It sits at Called Late's stopping place: the salt stopped there and the carrier turned home. Hair is rubbed into the bark on the north faces of the trunks round it. Yinzhi's coil shows the block carrying. Wystan grips it bare-handed and takes the forty-third minute: Josse setting it, content, nobody else in it. He concludes the formulator never goes near them. The block is tinned under his brass.

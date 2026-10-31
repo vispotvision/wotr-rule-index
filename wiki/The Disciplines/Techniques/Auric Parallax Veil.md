@@ -47,7 +47,7 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 
 ### Physics
 
-**Phenomenon** · Selection among outcomes a process already has: every real chance event has a spread of possible results, and a thin sheet up to sixty metres wide holds several open, like the two paths of a double slit, then fixes which one is real and cancels the rest.
+**Phenomenon** · Selection among outcomes a process already has: every real chance event has a spread of possible results, and a thin sheet up to sixty meters wide holds several open, like the two paths of a double slit, then fixes which one is real and cancels the rest.
 
 **Law** · The distribution is the law: selection reweights outcomes that already have support and cannot add support where there was none.
 
@@ -68,7 +68,7 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 
 **Aether** · A plane, not a volume: geometrically cheap, informationally dear. The Residue is a district where certain outcomes did not happen, which deafens Harmonists after it falls; an Eclipseron practitioner, reading absences, is its natural investigator.
 
-**Ground** · Materia favours mineral-rich rock, worked stone and deep foundations; open water, high altitude and moving platforms suppress it, so a Veil raised on a deck fights its own ground.
+**Ground** · Materia favors mineral-rich rock, worked stone and deep foundations; open water, high altitude and moving platforms suppress it, so a Veil raised on a deck fights its own ground.
 
 **Wellspring** · Basilithe, the Stone Will (Materia), primary: stiffness fixes a resonance that will not be driven off; it is the lock that makes one fringe real.
 
@@ -90,7 +90,7 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 
 **Glyph** · Lock (Thalen), a Counter that occupies a limit so no other can be set there, laid across Truth (Iesara), the form for which of several readings stands.
 
-**Boundary** · The weighting of an event's existing outcomes across a sixty-metre plane moves.
+**Boundary** · The weighting of an event's existing outcomes across a sixty-meter plane moves.
 
 **Effect** · Behind a thin standing sheet of refracting light and shadow, things that should have happened nearly happen: a blow lands a centimetre low, a working completes badly as if always aimed that way. There is no failure to point at.
 
@@ -128,7 +128,7 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 
 **Tell** · One slow parting gesture, then a thin prismatic sheet standing between the practitioner and what they select for; afterwards a district where certain things did not happen.
 
-**Limits** · Sixty metres, line of sight, one region; never stabilise and destabilise one space at once; no branch that was not possible; no outright override of a peer Emanation will, only distortion of a weaker harmonic.
+**Limits** · Sixty meters, line of sight, one region; never stabilise and destabilise one space at once; no branch that was not possible; no outright override of a peer Emanation will, only distortion of a weaker harmonic.
 
 **Fails against** · A distribution flattened by a Null-Law field or Silence; open water, altitude or a moving deck; more concurrent states than it can hold, a Knot; a pure Basilithe construct, or Petralon mass forced through; a corrupted choice.
 

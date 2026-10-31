@@ -40,7 +40,7 @@ These bind every grammar in the set. Anything a language document says that cont
 
 **Four. Grammar carries worldview, and it does it by what it makes impossible.** Old Vaross has no adjectives, so a quality must be attached to somebody and an insult becomes an accusation. Eressean has no unwitnessed possessive, so *my name* is a construction that requires naming the witness. Build the hole first and the philosophy comes out of it.
 
-**Five. Sound follows material conditions.** Dawi consonant gradation exists because the tongue is shouted across a working forge floor and evolved to keep root identity legible through noise. Old Vaross holds vowels because the goblinoid peoples emphasise by duration, and they emphasise by duration because volume is for signalling across water. Phonology is never chosen for flavour alone.
+**Five. Sound follows material conditions.** Dawi consonant gradation exists because the tongue is shouted across a working forge floor and evolved to keep root identity legible through noise. Old Vaross holds vowels because the goblinoid peoples emphasise by duration, and they emphasise by duration because volume is for signaling across water. Phonology is never chosen for flavor alone.
 
 **Six. Orthography on the page.** Hyphens join compound elements. Doubled vowels mark length and length marks weight. **Diacritics are forbidden across every tongue without exception.** Long vowels are written doubled and nothing else.
 

@@ -6,9 +6,9 @@
 
 The night before the assault, the two old men sat up late in the command tent with a jug between them and the lamp turned low, and talked about the boy.
 
-The tent was Greymane, and it smelled of it: oiled canvas and wet wolfskin and the iron-and-tallow stink of armour that had been greased against the cold and worn for a week. A brazier of charcoal stood in the middle of it, ticking as it cooled. A map was pinned to a trestle under the lamp, weighted at the corners with a dagger, a helm, a horn cup and a stone, and on it in charcoal someone had drawn the long road climbing out of the low country, and the ridge, and the squat square shape at the top of the ridge where the road went through a gate. Beside the shape, in Wystan Greymane's cramped hand, three words: *Kharven's Foot. Two hundred.*
+The tent was Greymane, and it smelled of it: oiled canvas and wet wolfskin and the iron-and-tallow stink of armor that had been greased against the cold and worn for a week. A brazier of charcoal stood in the middle of it, ticking as it cooled. A map was pinned to a trestle under the lamp, weighted at the corners with a dagger, a helm, a horn cup and a stone, and on it in charcoal someone had drawn the long road climbing out of the low country, and the ridge, and the squat square shape at the top of the ridge where the road went through a gate. Beside the shape, in Wystan Greymane's cramped hand, three words: *Kharven's Foot. Two hundred.*
 
-Wystan sat with his long legs stretched out toward the brazier and his boots off, flexing his toes in their wool. He was sixty-one, and long, and grey all through: grey hair cropped short, grey beard cut close to the jaw, grey eyes set deep in a long grey Greymane face that had been carved, it seemed, for weathering and nothing else. He had the stillness that the Ridgewall men had, the stillness of men who spent their lives standing on a wall looking west for something that might come, and he had a way of not moving at all and then moving very fast. On the breast of the surcoat that hung over the back of his chair, worked in darker thread, was the wolf's head of his house. On the table at his elbow, folded small, was a scrap of parchment on a cord, with a number on it. It had been round his brother Aldwin's neck when the Tenrai sent him home in the salt cart. Wystan had not let it out of his reach since.
+Wystan sat with his long legs stretched out toward the brazier and his boots off, flexing his toes in their wool. He was sixty-one, and long, and gray all through: gray hair cropped short, gray beard cut close to the jaw, gray eyes set deep in a long gray Greymane face that had been carved, it seemed, for weathering and nothing else. He had the stillness that the Ridgewall men had, the stillness of men who spent their lives standing on a wall looking west for something that might come, and he had a way of not moving at all and then moving very fast. On the breast of the surcoat that hung over the back of his chair, worked in darker thread, was the wolf's head of his house. On the table at his elbow, folded small, was a scrap of parchment on a cord, with a number on it. It had been round his brother Aldwin's neck when the Tenrai sent him home in the salt cart. Wystan had not let it out of his reach since.
 
 "So," he said. "The boy."
 
@@ -40,7 +40,7 @@ Wystan was silent for a while.
 
 "I'm not..."
 
-"You are. It's the uncle in you. Yusif's blood." Wystan held up a long grey hand before Ulf could argue. "And I'll tell you why you're wrong, and then you can hit me if you like, but you'll not tell him." He leaned forward. "Think it through. You tell that boy tomorrow, or the day after, or any day this year, that he's Gimbzo's son and the last of the Kōkan and a Moto by blood, and what happens? He stops knowing whose he is. He stands in front of a Tenrai gate with his sword up and he looks at the men on the other side and he thinks, *those are mine.* He thinks, *that's my blood up on that wall.* And he hesitates. And one hesitation in a breach is the whole of a man's life."
+"You are. It's the uncle in you. Yusif's blood." Wystan held up a long gray hand before Ulf could argue. "And I'll tell you why you're wrong, and then you can hit me if you like, but you'll not tell him." He leaned forward. "Think it through. You tell that boy tomorrow, or the day after, or any day this year, that he's Gimbzo's son and the last of the Kōkan and a Moto by blood, and what happens? He stops knowing whose he is. He stands in front of a Tenrai gate with his sword up and he looks at the men on the other side and he thinks, *those are mine.* He thinks, *that's my blood up on that wall.* And he hesitates. And one hesitation in a breach is the whole of a man's life."
 
 Ulf said nothing.
 
@@ -48,7 +48,7 @@ Ulf said nothing.
 
 The brazier ticked. Outside, somewhere in the lines, a horse stamped and blew.
 
-"Besides," Wystan said, and a dry, crooked smile came onto his long grey face for the first time. "Who'd have thought it? At our age? That we'd live to see the rise of another great warlord of the north. Another one of the old kind." He chuckled, low in his chest. "I thought I'd be in the ground long before I saw that again."
+"Besides," Wystan said, and a dry, crooked smile came onto his long gray face for the first time. "Who'd have thought it? At our age? That we'd live to see the rise of another great warlord of the north. Another one of the old kind." He chuckled, low in his chest. "I thought I'd be in the ground long before I saw that again."
 
 Ulf turned that over in the brazier light. Then, slowly, he picked his cup up again.
 
@@ -58,13 +58,13 @@ Wystan nodded.
 
 "No doubt," he said. "No doubt at all."
 
-He reached for the jug and filled both cups, and they drank without speaking. On the trestle the lamp burned low over the map, over the charcoal road and the charcoal ridge and the squat charcoal square at the top of it with its two hundred, and over a second scrap of parchment lying folded by Ulf's elbow, sealed in grey wax. It had gone south that morning in a copy, by crow, through the Mahuo post at Sum-gol, and from there by another crow east into the Yukari valleys. It said, in Ulf Stark's square northern hand: *The Foot will be in our keeping by the new moon. The Kessen road will stay open. Tell the Lord Naiser the north has not forgotten who stood with it.*
+He reached for the jug and filled both cups, and they drank without speaking. On the trestle the lamp burned low over the map, over the charcoal road and the charcoal ridge and the squat charcoal square at the top of it with its two hundred, and over a second scrap of parchment lying folded by Ulf's elbow, sealed in gray wax. It had gone south that morning in a copy, by crow, through the Mahuo post at Sum-gol, and from there by another crow east into the Yukari valleys. It said, in Ulf Stark's square northern hand: *The Foot will be in our keeping by the new moon. The Kessen road will stay open. Tell the Lord Naiser the north has not forgotten who stood with it.*
 
 ---
 
 Kharven's Foot stood at the top of the long ridge where the Kessen road came up out of the low country and went through the mountains toward the north.
 
-It had been there longer than anyone could say. The old northern clans had built the first of it, a ring of dry stone round a well, back when the land was still grass and the riders still rode; then somebody had built over that, and somebody over them, and eleven years back, with the war already thirty years old and the north going badly in it, the Tenrai had come and rebuilt all of it in their own square grey stone, with a gatehouse and two towers and a curtain wall eight men high, and put a garrison in it, and a toll-post at the gate, and a Tenrai banner on the tallest tower, gold heraldry on black, that you could see in clear weather from three days down the road. Whoever held the Foot held the road. Whoever held the road held the north by the throat. In two months, when Kagenori Tenrai Moto laid his martial law on the Kessen road, the Foot was where the door would be.
+It had been there longer than anyone could say. The old northern clans had built the first of it, a ring of dry stone round a well, back when the land was still grass and the riders still rode; then somebody had built over that, and somebody over them, and eleven years back, with the war already thirty years old and the north going badly in it, the Tenrai had come and rebuilt all of it in their own square gray stone, with a gatehouse and two towers and a curtain wall eight men high, and put a garrison in it, and a toll-post at the gate, and a Tenrai banner on the tallest tower, gold heraldry on black, that you could see in clear weather from three days down the road. Whoever held the Foot held the road. Whoever held the road held the north by the throat. In two months, when Kagenori Tenrai Moto laid his martial law on the Kessen road, the Foot was where the door would be.
 
 So the north had come to take the door off its hinges first.
 
@@ -72,7 +72,7 @@ They had come up through the dark, six hundred of them, Stark and Greymane and a
 
 The vanguard stood at the front.
 
-There were a hundred and twenty of them, and Muken had walked down their lines twice in the dark already, and both times he had felt his stomach go cold. Ulf had not lied to him. They were boys. Not all of them; there were older men among them too, here and there, grey-bearded veterans with no sons left, who had asked for the vanguard because the vanguard was where you went when you had nothing left to keep yourself alive for. But most of them were boys. Sixteen. Seventeen. A few of them younger, and lying about it, with spears they had to hold two-handed and helmets stuffed with rags to keep them on, and the soft blurred faces of children who had not yet decided what shape they were going to be.
+There were a hundred and twenty of them, and Muken had walked down their lines twice in the dark already, and both times he had felt his stomach go cold. Ulf had not lied to him. They were boys. Not all of them; there were older men among them too, here and there, gray-bearded veterans with no sons left, who had asked for the vanguard because the vanguard was where you went when you had nothing left to keep yourself alive for. But most of them were boys. Sixteen. Seventeen. A few of them younger, and lying about it, with spears they had to hold two-handed and helmets stuffed with rags to keep them on, and the soft blurred faces of children who had not yet decided what shape they were going to be.
 
 Like him. They looked like him.
 
@@ -80,7 +80,7 @@ He stood at the front of them in a mail shirt Ulf had given him that was too lon
 
 Ulf and Wystan came down the line toward him through the snow.
 
-The Lord of Hollenmark was in his war-mail, with a great axe across his shoulder and his breath going up white through his braided beard, and men straightened as he passed them without knowing they did it. Wystan walked beside him with the long Greymane stride, in a grey surcoat and a grey cloak, bareheaded, with his sword at his hip and a hunting horn at his belt. They stopped in front of the vanguard, and turned, and looked at it.
+The Lord of Hollenmark was in his war-mail, with a great axe across his shoulder and his breath going up white through his braided beard, and men straightened as he passed them without knowing they did it. Wystan walked beside him with the long Greymane stride, in a gray surcoat and a gray cloak, bareheaded, with his sword at his hip and a hunting horn at his belt. They stopped in front of the vanguard, and turned, and looked at it.
 
 Ulf did not raise his voice. In the silence under the ridge it carried to every man in the hundred and twenty and some way past them.
 
@@ -100,7 +100,7 @@ He put his maimed hand on Muken's shoulder.
 
 He took his hand away.
 
-Wystan Greymane stepped forward. He looked down at Muken, from his great grey height, with something in his deep-set grey eyes that Muken could not read, and put his long hand on Muken's other shoulder, and squeezed it once.
+Wystan Greymane stepped forward. He looked down at Muken, from his great gray height, with something in his deep-set gray eyes that Muken could not read, and put his long hand on Muken's other shoulder, and squeezed it once.
 
 "You're up, lad," he said quietly.
 
@@ -110,11 +110,11 @@ Then he stepped back, and Muken was alone at the front of them.
 
 He did not know what to say.
 
-He stood in the snow and looked at them, the hundred and twenty, and they looked back at him, and the silence went on, and he could feel it stretching and going thin like ice over a river, and he could not find a single word. He had never made a speech in his life. Sergeants did not make speeches. Sergeants said *move* and *hold* and *on me* and *get your shield up, you stupid bastard,* and that was the whole of it. He looked at the soft faces of the boys under their rag-stuffed helmets, and the hard grey faces of the old men among them, and he thought: *They're waiting for me. They're waiting for me to tell them why.*
+He stood in the snow and looked at them, the hundred and twenty, and they looked back at him, and the silence went on, and he could feel it stretching and going thin like ice over a river, and he could not find a single word. He had never made a speech in his life. Sergeants did not make speeches. Sergeants said *move* and *hold* and *on me* and *get your shield up, you stupid bastard,* and that was the whole of it. He looked at the soft faces of the boys under their rag-stuffed helmets, and the hard gray faces of the old men among them, and he thought: *They're waiting for me. They're waiting for me to tell them why.*
 
 And he did not know why. Not in words.
 
-Then, behind the vanguard, past the end of its ranks, where the surgeons had set up their line in the lee of a fallen pine with their kits open in the snow and their braziers lit for the irons, he saw a small figure in a grey coat with a white braid pinned up off her neck, the brazier coals behind her throwing orange up the side of her face. She stood without moving. She was not looking at Ulf or Wystan or the ridge or the wall. She was looking at him.
+Then, behind the vanguard, past the end of its ranks, where the surgeons had set up their line in the lee of a fallen pine with their kits open in the snow and their braziers lit for the irons, he saw a small figure in a gray coat with a white braid pinned up off her neck, the brazier coals behind her throwing orange up the side of her face. She stood without moving. She was not looking at Ulf or Wystan or the ridge or the wall. She was looking at him.
 
 She did not nod. She did not smile. She did not do anything at all. She only stood there and looked at him, steadily, the way she looked at a man on a cart when she had decided he was going to live.
 
@@ -134,7 +134,7 @@ The hundred and twenty were very quiet.
 
 He was not shouting any more. They were leaning toward him, the whole front rank of them, the way men lean toward a fire.
 
-"So this is for the north," he said. "For the people in it. That's all. That's all I've got to give you, I've nothing else." He looked down the line, at the boys and the old men, at the Stark wolves and the Greymane wolves on the breasts of some of them and the bare cloth on the breasts of most of them. "I don't care if you're Stark. I don't care if you're Greymane. I don't care if you're some house nobody's ever heard of, from some valley nobody's ever been to. I don't care if you're nothing at all. If you're tokenless. Like me." He swallowed. "We're neighbours. That's what we are. Every one of us. We're the man next door. And you don't let the man next door go hungry, and you don't let anybody burn his house, and you don't let him walk up a hill on his own."
+"So this is for the north," he said. "For the people in it. That's all. That's all I've got to give you, I've nothing else." He looked down the line, at the boys and the old men, at the Stark wolves and the Greymane wolves on the breasts of some of them and the bare cloth on the breasts of most of them. "I don't care if you're Stark. I don't care if you're Greymane. I don't care if you're some house nobody's ever heard of, from some valley nobody's ever been to. I don't care if you're nothing at all. If you're tokenless. Like me." He swallowed. "We're neighbors. That's what we are. Every one of us. We're the man next door. And you don't let the man next door go hungry, and you don't let anybody burn his house, and you don't let him walk up a hill on his own."
 
 He reached up over his shoulder, and drew the scrap-iron sword.
 
@@ -144,7 +144,7 @@ It came out of the scabbard with its dry rasp in the silence, black and pitted a
 
 For a moment nothing happened at all.
 
-Then a boy in the front rank, a thin red-haired boy of perhaps fifteen with a spear twice his height, lifted the spear up over his head in both hands, the way Muken had lifted the sword. And the boy next to him did. And the old grey-bearded veteran behind them did, without a word, his axe going up into the dark. And then it went down the line like fire through dry grass, spears and axes and swords and bare fists going up, a hundred and twenty of them, all at once, and from somewhere in the middle of them a sound came up, too close under the wall for cheering: a low, hard, rising growl, from a hundred and twenty throats, like wolves.
+Then a boy in the front rank, a thin red-haired boy of perhaps fifteen with a spear twice his height, lifted the spear up over his head in both hands, the way Muken had lifted the sword. And the boy next to him did. And the old gray-bearded veteran behind them did, without a word, his axe going up into the dark. And then it went down the line like fire through dry grass, spears and axes and swords and bare fists going up, a hundred and twenty of them, all at once, and from somewhere in the middle of them a sound came up, too close under the wall for cheering: a low, hard, rising growl, from a hundred and twenty throats, like wolves.
 
 Wystan Greymane turned his head and looked at Ulf Stark.
 
@@ -174,13 +174,13 @@ The plan was the gate. It had always been the gate. Wystan's men had the ram, a 
 
 Halfway up the ridge, Muken looked at the wall, and saw it.
 
-He did not know how he saw it. He would never know, not for years. One moment the curtain wall was a long blank face of square grey Tenrai stone gone rose along its top in the dawn, eight men high, featureless, with heads and bows moving along the top of it. The next, there was a line in it. A fault. A long jagged seam running down through the stone from the battlements to the footing, thirty paces left of the gatehouse, where the Tenrai had built their new grey wall over the old dry-stone ring of the clans, and the frost had got in between the two, year after year after year, and pushed. Nobody had seen it. Nobody could have. It was something you *felt,* the way you feel the one stair in a staircase that is going to give under your weight: a place where the whole of the wall's load was going down through stone that could not carry it, and had not been able to for years, and was only waiting.
+He did not know how he saw it. He would never know, not for years. One moment the curtain wall was a long blank face of square gray Tenrai stone gone rose along its top in the dawn, eight men high, featureless, with heads and bows moving along the top of it. The next, there was a line in it. A fault. A long jagged seam running down through the stone from the battlements to the footing, thirty paces left of the gatehouse, where the Tenrai had built their new gray wall over the old dry-stone ring of the clans, and the frost had got in between the two, year after year after year, and pushed. Nobody had seen it. Nobody could have. It was something you *felt,* the way you feel the one stair in a staircase that is going to give under your weight: a place where the whole of the wall's load was going down through stone that could not carry it, and had not been able to for years, and was only waiting.
 
 The heat came up behind his left eye, sharp, like a cinder.
 
 "*Left!*" he roared. "*Ladders left! On me! Thirty paces left of the gate, on me, ON ME!*"
 
-They came with him. He would remember that, later, more than anything else about the morning. He turned away from the gate and ran for a blank piece of wall where the plan had said nothing at all, and he did not look back, and they came with him. Forty of them, fifty, with the two ladders. The thin red-haired boy with the spear. The old grey-bearded veteran with the axe.
+They came with him. He would remember that, later, more than anything else about the morning. He turned away from the gate and ran for a blank piece of wall where the plan had said nothing at all, and he did not look back, and they came with him. Forty of them, fifty, with the two ladders. The thin red-haired boy with the spear. The old gray-bearded veteran with the axe.
 
 The ladders went up against the seam. The Tenrai on the wall saw where they were going and ran along the battlements to meet them, and the stones and the boiling pitch came down, and the first ladder went over backward with six men on it, and Muken heard them hit the slope. The second ladder held. He went up it. He did not remember deciding to. The warmth came down out of his chest into his legs and arms and back, as it always did, and he went up the rungs three at a time with the scrap-iron sword in one hand, and at the top of the ladder a Tenrai spearman leaned out over the battlement to thrust down at his face, and Muken caught the haft below the head with his free hand and pulled, and the man came over the wall headfirst past him and was gone.
 
@@ -190,7 +190,7 @@ And the wall moved under him.
 
 It was a small movement. A shiver, a settling, like an old horse shifting its weight. But he felt it through his boots, and the men on the walk felt it, Tenrai and northern both, and every one of them stopped, for one breath, and looked down. And then the seam he had seen from halfway down the ridge opened along its whole length with a sound like a tree splitting in a hard frost, and thirty feet of the Tenrai curtain wall leaned slowly outward over the slope, and kept leaning, and went down.
 
-He was not on it. He had come over the wall six paces to the right of the seam, by luck or by something that was not luck, and he stood on the wall-walk and watched the whole section beside him go over in a long roar of grey stone and snow and dust and screaming men, down the ridge, and when the dust began to thin there was a gap in the curtain of Kharven's Foot that a cart could have driven through.
+He was not on it. He had come over the wall six paces to the right of the seam, by luck or by something that was not luck, and he stood on the wall-walk and watched the whole section beside him go over in a long roar of gray stone and snow and dust and screaming men, down the ridge, and when the dust began to thin there was a gap in the curtain of Kharven's Foot that a cart could have driven through.
 
 The hundred and twenty came through it.
 
@@ -200,7 +200,7 @@ After that, for what felt like half the morning, it was the yard.
 
 He would remember very little of the yard afterward, and he would be glad of it. It was the kind of fighting that has no shape. The Tenrai garrison came down out of the towers and the barracks and the keep to plug the breach, and the northerners came up through it to widen it, and they met in the snow of the courtyard between the walls, snow that was red within minutes, a bright raw red that steamed, and it became a crush, two hundred men and more in a space built for forty, pressed so close that half of them could not lift their arms. Men died there without knowing who killed them. Men were killed by their own side. Men drowned in the trampled slush with their faces pushed into it and a dozen pairs of boots on their backs.
 
-He fought. He did not remember most of it. He remembered the warmth in his body, and the scrap-iron sword going in and coming out, and the shock of it up his wrists every time it met bone. He remembered that the warmth was thinner than it had been on the Vessant road, and going faster, and that his arms were growing heavy. He remembered the red-haired boy with the spear, beside him through most of it, and then not beside him, and when he looked round for him, the boy was lying on his back in the snow by the well with his spear still in his hands and his eyes open and a Tenrai sword through his belly, and there was nothing to do about it and no time to do it. He remembered the old grey-bearded veteran with the axe going into a knot of Tenrai spearmen by the barracks door, roaring, alone, and the knot closing over him, and not opening again.
+He fought. He did not remember most of it. He remembered the warmth in his body, and the scrap-iron sword going in and coming out, and the shock of it up his wrists every time it met bone. He remembered that the warmth was thinner than it had been on the Vessant road, and going faster, and that his arms were growing heavy. He remembered the red-haired boy with the spear, beside him through most of it, and then not beside him, and when he looked round for him, the boy was lying on his back in the snow by the well with his spear still in his hands and his eyes open and a Tenrai sword through his belly, and there was nothing to do about it and no time to do it. He remembered the old gray-bearded veteran with the axe going into a knot of Tenrai spearmen by the barracks door, roaring, alone, and the knot closing over him, and not opening again.
 
 He remembered, somewhere in the middle of it, hearing the ram hit the gate. And then hit it again. And then a great splintering crash, and Wystan's horn, and the roar of the Greymanes coming in through the gatehouse behind the Tenrai, and the crush in the yard breaking all at once, the way ice breaks on a river in spring.
 
@@ -222,7 +222,7 @@ Muken felt it before he understood what it was. It came down the stair ahead of 
 
 The figure on the stair was a woman.
 
-She was perhaps forty. She was tall, and lean as a blade, and she wore the war-dress of the Tenrai: black lamellar laced with gold, a gold-trimmed surcoat over it, and on the breast of it, where another house would wear a boss, the banner of her line, the Tenrai heraldry, worked in gold thread. She carried no shield. She held a long, slightly curved sword loosely at her side in one hand, with the point resting on the stone of the stair, and there was no blood on it at all. Her hair was black, threaded with grey, bound up high on her head with a gold cord. Her face was long and narrow and pale and very calm, and at her brow and her temples and the hollow of her throat, the skin caught the light of the burning stables with a faint metallic sheen, like old brass.
+She was perhaps forty. She was tall, and lean as a blade, and she wore the war-dress of the Tenrai: black lamellar laced with gold, a gold-trimmed surcoat over it, and on the breast of it, where another house would wear a boss, the banner of her line, the Tenrai heraldry, worked in gold thread. She carried no shield. She held a long, slightly curved sword loosely at her side in one hand, with the point resting on the stone of the stair, and there was no blood on it at all. Her hair was black, threaded with gray, bound up high on her head with a gold cord. Her face was long and narrow and pale and very calm, and at her brow and her temples and the hollow of her throat, the skin caught the light of the burning stables with a faint metallic sheen, like old brass.
 
 Her eyes were the worst of it. There were rings in them. Fine bright lines, turning slowly in the dark of the iris, like the rings that spread on a pond after a stone has gone in, round and round, never stopping.
 
@@ -262,7 +262,7 @@ She brought the long curved sword up from the stair into both hands.
 
 "And whatever you are, boy," said Shigure Tenrai Moto, "I am going to find out what's inside you."
 
-Behind Muken, across the yard, at the end of the surgeons' line by the broken gate, a small figure in a grey coat had stopped with a roll of bandage in her hands, and was looking at him over the heads of the army.
+Behind Muken, across the yard, at the end of the surgeons' line by the broken gate, a small figure in a gray coat had stopped with a roll of bandage in her hands, and was looking at him over the heads of the army.
 
 He did not see her. He saw only the woman on the stair.
 
@@ -279,7 +279,7 @@ She came down off the last step.
 
 - **Retcon 2026-10-20 (new-lore questionnaire).** Ulf's account of the cellar night now has Gimbzo, the Kōkan king, purging his own line, with Kasane Byakuya as his sworn guard who walked out with the boy; "he took her" stands only as the north's version beside Yusif's, and Yusif's death keeping the secret is touched. Shigure stood behind Gimbzo's face twenty years, not six, and the Tenrai rebuilt the Foot eleven years back over the old clan work.
 
-**What this is.** Isaac's passage expanded into Chapter Five. Every beat is kept, in his order. Wystan and Ulf discuss whether the boy is Kōkan, and Ulf says he's Gimbzo's son, with that bearing and air he doesn't know he has. Wystan chuckles about living to see the rise of another great warlord. Ulf feels wrong hiding his lineage, and Wystan argues that telling him early would split his loyalty, that he should learn it himself, and that answers would strip him of the war's pain. Then the question about the battle for Kharven's Foot, answered "No doubt." Muken is in the vanguard with Ulf and Wystan beside him. Ulf speaks: Muken has no house and no token and still fights for the people, so he is named lieutenant. Ulf's message has gone to the Yukari through Sum-gol about holding the fort. Wystan's "You're up." Yukazuri watches from the crowd, and Muken speaks: free ourselves from our oppressors, no one arranges our lives in the name of unity, they don't understand survival in this frozen wasteland, Stark or Greymane or lesser house or tokenless we are neighbours, rage together because our fury is one. The sword raised. Wystan's smile. Thirty would die. It ends where you asked: Muken confronted by the Moto commander, and the fight begins. Past tense, third person, close on Muken after the tent. About 6,000 words.
+**What this is.** Isaac's passage expanded into Chapter Five. Every beat is kept, in his order. Wystan and Ulf discuss whether the boy is Kōkan, and Ulf says he's Gimbzo's son, with that bearing and air he doesn't know he has. Wystan chuckles about living to see the rise of another great warlord. Ulf feels wrong hiding his lineage, and Wystan argues that telling him early would split his loyalty, that he should learn it himself, and that answers would strip him of the war's pain. Then the question about the battle for Kharven's Foot, answered "No doubt." Muken is in the vanguard with Ulf and Wystan beside him. Ulf speaks: Muken has no house and no token and still fights for the people, so he is named lieutenant. Ulf's message has gone to the Yukari through Sum-gol about holding the fort. Wystan's "You're up." Yukazuri watches from the crowd, and Muken speaks: free ourselves from our oppressors, no one arranges our lives in the name of unity, they don't understand survival in this frozen wasteland, Stark or Greymane or lesser house or tokenless we are neighbors, rage together because our fury is one. The sword raised. Wystan's smile. Thirty would die. It ends where you asked: Muken confronted by the Moto commander, and the fight begins. Past tense, third person, close on Muken after the tent. About 6,000 words.
 
 **One tag I read for meaning.** In your draft the battle question reads "So you think he'll actually win the battle for Kharven's Foot," and then "Wystan nodded as Ulf asked him that question. No doubt." I gave the question to Ulf and the answer to Wystan.
 
@@ -289,13 +289,13 @@ She came down off the last step.
 - **Chapter One** is brought into line with Gimbzo as the father.
 
 **Originated here (yours to keep or strike):**
-- **Wystan Greymane**: sixty-one, grey all through, Ridgewall stillness. He keeps Aldwin's ransom tag on a cord within reach.
+- **Wystan Greymane**: sixty-one, gray all through, Ridgewall stillness. He keeps Aldwin's ransom tag on a cord within reach.
 - **Ulf's letter to the Yukari**, by crow through the Mahuo post at Sum-gol: *Tell the Lord Naiser the north has not forgotten who stood with it.*
-- **Kharven's Foot.** Old clan work, a dry-stone ring round a well, built over again and again and rebuilt by the Tenrai eleven years back in square grey stone, commanding the Kessen road. Kagenori's "our grandfathers" in Chapter Seven now names the clans' laying and the Tenrai's raising together. The garrison is two hundred, the attackers six hundred, and the vanguard a hundred and twenty boys and grey-bearded veterans with no sons left.
+- **Kharven's Foot.** Old clan work, a dry-stone ring round a well, built over again and again and rebuilt by the Tenrai eleven years back in square gray stone, commanding the Kessen road. Kagenori's "our grandfathers" in Chapter Seven now names the clans' laying and the Tenrai's raising together. The garrison is two hundred, the attackers six hundred, and the vanguard a hundred and twenty boys and gray-bearded veterans with no sons left.
 - **The fault in the wall.** Muken *feels* the seam where frost has split the new Tenrai wall from the old ring under it, thirty paces left of the gate, and switches the ladders to it. The wall comes down beside him. This is the common Moto Shingan and Fractura from his card waking, still unnamed; the gold crack that comes with it in Chapter Six is the Kōkan sign.
-- **The dead.** The thin red-haired boy with the spear, killed by the well. The grey-bearded veteran, killed by the barracks door. These are the first of your thirty.
+- **The dead.** The thin red-haired boy with the spear, killed by the well. The gray-bearded veteran, killed by the barracks door. These are the first of your thirty.
 - **Shigure Tenrai Moto** (shee-GOO-reh), Captain of the Foot, Kagenori's appointee, "Daughter of the Gold Banner." She is about forty, wears black-and-gold Tenrai lamellar with the banner worked on the breast, and carries a long curved sword with no blood on it. She has the Moto metallic sheen and turning rings in her eyes. Her Pressure in the yard bends knees and makes a boy vomit, which is at least two Stages above Muken. She is a new name and has no wiki page. The fight is hers to win or lose next chapter.
 
 **Rule ids that most constrained it:** R70-69 (Pressure shown in the room, then in bodies), R71-7 (the deciding fact read before the act: the seam in the wall), R71-30 (the eye held unexplained), R72-25 and R74-14 (Wystan's argument for keeping the secret), R70-111 (one crafted speech at a big moment), R74-26 (the long build to one hard shock, Shigure's recognition).
 
-**Revision 2026-10-24.** Colour given to the assault (the aurora green and violet over the ridge before dawn and running on the sword, the snow going blue to rose, the Tenrai banner gold on black, blood bright and steaming in the yard), with the frontier fort kept draw-less; both "did not need to," four "for a long time/moment," two "very still," "Nobody spoke," the countdown in Ulf's address (reworded without changing what he says) and two not-but constructions trimmed. Every beat and Isaac's lines, including Muken's speech, "You're up, lad" and "No doubt," kept word for word.
+**Revision 2026-10-24.** Color given to the assault (the aurora green and violet over the ridge before dawn and running on the sword, the snow going blue to rose, the Tenrai banner gold on black, blood bright and steaming in the yard), with the frontier fort kept draw-less; both "did not need to," four "for a long time/moment," two "very still," "Nobody spoke," the countdown in Ulf's address (reworded without changing what he says) and two not-but constructions trimmed. Every beat and Isaac's lines, including Muken's speech, "You're up, lad" and "No doubt," kept word for word.

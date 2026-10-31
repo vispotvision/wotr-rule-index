@@ -32,7 +32,7 @@ Hayato Amagiri stirred beside him. The young lord's restless fingers had been tr
 
 They all looked at her.
 
-She was sitting at her brother's left hand, very straight, in grey, a crow worked small in black at her collar, with her white plait over her shoulder and her hands folded in her lap, and her silver-white eyes were steady on Hayato.
+She was sitting at her brother's left hand, very straight, in gray, a crow worked small in black at her collar, with her white braid over her shoulder and her hands folded in her lap, and her silver-white eyes were steady on Hayato.
 
 "We'll put a reader on every train that goes over your roads," she said. "One of ours. A Yukari, with ink and a ledger and a crow. Every sack counted in at the northern end, and every sack counted out at the village it's meant for. Every name of every family that receives it, written down. And if a sack goes missing between the two, the crow goes up before the cart's out of sight, and the whole of the Inner World knows by nightfall whose ford it went missing at." She paused. "The Prince wants verifiable findings. So do we. There's nothing in the world harder to steal from than a thing that's being counted by somebody who isn't afraid of you."
 
@@ -54,7 +54,7 @@ He looked at the prince first.
 
 The stream ran under the floor. A shaft of light found its way through a gap in the cloud and lay for a moment across the garden, and every grain of the white gravel glittered, and then it was gone.
 
-"Go as the guest of this house," Naiser said. "Under the crow. Not under any Zettari banner, and not under the white or the copper or the indigo either. Under ours. A witness of the Yukari, as my readers are witnesses, travelling with my sister on the business of this house: to count what the war has done, and write it down, and send it home to be kept." He held the prince's eyes. "The Yukari have been walking into other people's ruins since before there were Zettari to keep the stones in their places. Nobody in the Inner World mistakes a Yukari witness for an army. If Kagenori wants to tell Kharven that the man who killed Gimbzo has come to meddle in their affairs, he'll have to tell them as well that the man came under the crow, with a Yukari ledger in his hand, and touched nothing but a pen." He paused. "It won't stop him lying. Nothing stops Kagenori lying. But it will make the lie harder to tell, and easier to catch."
+"Go as the guest of this house," Naiser said. "Under the crow. Not under any Zettari banner, and not under the white or the copper or the indigo either. Under ours. A witness of the Yukari, as my readers are witnesses, traveling with my sister on the business of this house: to count what the war has done, and write it down, and send it home to be kept." He held the prince's eyes. "The Yukari have been walking into other people's ruins since before there were Zettari to keep the stones in their places. Nobody in the Inner World mistakes a Yukari witness for an army. If Kagenori wants to tell Kharven that the man who killed Gimbzo has come to meddle in their affairs, he'll have to tell them as well that the man came under the crow, with a Yukari ledger in his hand, and touched nothing but a pen." He paused. "It won't stop him lying. Nothing stops Kagenori lying. But it will make the lie harder to tell, and easier to catch."
 
 He turned to the Sovereign.
 
@@ -78,7 +78,7 @@ Beside him, Naevra had lowered her eyes.
 
 Kiyome Byakuya had not moved through any of it.
 
-She sat across the table from the Zettari, in her near-white, bright as new snow against the red cedar, with the white knot bound tight at her hip and the glass beads of her veil lying still at her temples, and she had listened to the prince the whole way through with the silver rings level in her grey eyes. When he said *I killed his father,* the rings had moved, once, very slightly. Nothing else had.
+She sat across the table from the Zettari, in her near-white, bright as new snow against the red cedar, with the white knot bound tight at her hip and the glass beads of her veil lying still at her temples, and she had listened to the prince the whole way through with the silver rings level in her gray eyes. When he said *I killed his father,* the rings had moved, once, very slightly. Nothing else had.
 
 Now she inclined her head to him, very low.
 
@@ -98,7 +98,7 @@ The beads at her temples clicked, very softly, as she turned her head toward the
 
 Naiser saw something move in Hayato's face, and go still.
 
-"A man of great honour," Kiyome said. "As great as his brother's. I sat in the hall and watched Torvald Stark die laughing on the script for telling us the truth, and I've known Ulf since I was a girl in my grandmother's house and he was already a grown man with grey in his beard, and there's not a breath of difference between them, except that Ulf has always been the more patient." Her voice did not rise. "And that is why Ulf will die too."
+"A man of great honor," Kiyome said. "As great as his brother's. I sat in the hall and watched Torvald Stark die laughing on the script for telling us the truth, and I've known Ulf since I was a girl in my grandmother's house and he was already a grown man with gray in his beard, and there's not a breath of difference between them, except that Ulf has always been the more patient." Her voice did not rise. "And that is why Ulf will die too."
 
 Out in the cedars a crow called once and was answered.
 
@@ -108,7 +108,7 @@ Out in the cedars a crow called once and was answered.
 
 "That's the whole of it," said Kiyome. "That's what the north's become. You've seen it yourselves, if you've read the crows. Every lord in the Stark and Greymane camps past fifty-five, and every spear under them carried by a boy." She lifted her eyes. "It's as if the whole of the old north has decided, all together, without ever saying so aloud, that their lives are a small price. A short expense. Spent now, all at once, to buy something they'll never live to see." She was quiet for a moment. "And they've put that boy at the front of it, and they mean to spend themselves round him until he's strong enough to stand on his own."
 
-Naiser said nothing. He was thinking of a gate in the frost, and a man in a travelling coat with his pack on his back, putting both hands on his son's shoulders, and walking into a seam in the air.
+Naiser said nothing. He was thinking of a gate in the frost, and a man in a traveling coat with his pack on his back, putting both hands on his son's shoulders, and walking into a seam in the air.
 
 *You are the Bearer of Weight.*
 
@@ -162,7 +162,7 @@ The hall had gone quiet enough to hear the brazier tick.
 
 The stream filled the silence under the boards.
 
-Naevra had gone pale. Kiyome sat perfectly still, with the rings in her grey eyes lying flat and silver as winter ice. Hayato's fingers had stopped.
+Naevra had gone pale. Kiyome sat perfectly still, with the rings in her gray eyes lying flat and silver as winter ice. Hayato's fingers had stopped.
 
 Naiser looked down at the cold tea in his cup, and saw his own face in it, and the bare nape behind it, and the thread-marks at his temples beginning very faintly to burn.
 
@@ -198,9 +198,9 @@ She had risen too. She stood at her brother's side with her hands at her sides a
 
 "Not this time," she said. "I wasn't there for you the last time it mattered. I'm going to be there for this."
 
-Kiyome looked at her. Something moved in her still grey eyes, and was gone, and was understood between them without a word.
+Kiyome looked at her. Something moved in her still gray eyes, and was gone, and was understood between them without a word.
 
-Naiser sat at the low table between them, with his hands flat on the dark wood and his sister on her feet beside him and three Moto lords across from him and the Sovereign of Kushara and the Crown Prince in the places of honour, and the cold tea in the cups, and the stream running loud under the floor.
+Naiser sat at the low table between them, with his hands flat on the dark wood and his sister on her feet beside him and three Moto lords across from him and the Sovereign of Kushara and the Crown Prince in the places of honor, and the cold tea in the cups, and the stream running loud under the floor.
 
 He did not rise.
 
@@ -220,7 +220,7 @@ He looked across the table, past the Moto, to the two Zettari, and waited.
   - Naevra: she'll walk the villages with Dougou and hold the ledger, and he can hand it to her when the grief is too much.
   - Kiyome: *Witnessed. Forgiveness was never mine to ask for.* She agrees Muken must hear it from his own and not the Tenrai, which carries straight into your Starks speech.
 - **Your beats, kept in order.**
-  - Kiyome: the Starks would line up to die before the Tenrai told Muken; Ulf guides him, as honourable as Torvald; Ulf will be called back by the council to be executed and won't let Muken stop him; the old regime spends itself as "a short expense" for the next generation.
+  - Kiyome: the Starks would line up to die before the Tenrai told Muken; Ulf guides him, as honorable as Torvald; Ulf will be called back by the council to be executed and won't let Muken stop him; the old regime spends itself as "a short expense" for the next generation.
   - Hayato: Muken's next charge is the Keld, even if northerners fight northerners, against the Iron Fist of the Keld, one of the Seven, as young as Muken. Karogane will make the young Keld fight his battle for great rewards. Can Muken win?
   - Tetsugen: fought rightly from the Foot, yes, but Karogane will be there to confront Muken and reveal the truth.
   - Kiyome: "Then it is settled, we must go to Kharven's Foot before the battle begins."

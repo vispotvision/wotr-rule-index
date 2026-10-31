@@ -41,7 +41,7 @@ tags: ["Magic System", "Reference Table"]
 
 ## VII · Glyphica and the Parunic syntax
 
-**Parun** · The language of law. Older than any surviving kingdom and not fully catalogued by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.
+**Parun** · The language of law. Older than any surviving kingdom and not fully catalogd by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.
 
 **What a glyph does** · A glyph creates nothing and carries no power. The Wellspring's law was already running and continues after the working ends. **A glyph is a boundary condition imposed on that law**, and the working is what the law does once the boundary has moved. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench considered.
 
@@ -142,7 +142,7 @@ tags: ["Magic System", "Reference Table"]
 
 **Echo Fracture** · The Harmonia failure state, produced by mismatched Resonant Tone.
 
-**Aetheric Saturation** · Essence released by workings flooding an area faster than it disperses, past ten thousand EU per cubic metre. Produces Fracture Events in everyone present, including whoever caused it. Not Ambient Saturation, the surveyors' name for ordinary ground.
+**Aetheric Saturation** · Essence released by workings flooding an area faster than it disperses, past ten thousand EU per cubic meter. Produces Fracture Events in everyone present, including whoever caused it. Not Ambient Saturation, the surveyors' name for ordinary ground.
 
 **Essence Starvation** · Operation below ten percent reserve. Reduced stat expression, Shell degradation, Trait flickering.
 
@@ -162,7 +162,7 @@ tags: ["Magic System", "Reference Table"]
 
 *Field vocabulary. What practitioners use on each other before anyone has cast anything.*
 
-**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own colour, burning brighter as they push.
+**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own color, burning brighter as they push.
 
 **Suppression** · The skill of holding Pressure in. Tiring to maintain. **Dropping it deliberately is a threat and is understood as one.**
 
@@ -176,7 +176,7 @@ tags: ["Magic System", "Reference Table"]
 
 **The Guild Accord** · The licensing and regulatory body. Its register of techniques is out of date and everyone knows it.
 
-**The register** · The Accord's official catalogue of known techniques and disciplines. **Absence from the register is not evidence that a thing does not exist.**
+**The register** · The Accord's official catalog of known techniques and disciplines. **Absence from the register is not evidence that a thing does not exist.**
 
 **Forbidden** · A discipline the Accord has named and prohibited. Chronokinesis beyond Stage X, Chronoturgy entirely. A Forbidden thing has a procedure for handling you.
 
@@ -215,7 +215,7 @@ tags: ["Magic System", "Reference Table"]
 
 **Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.
 
-**Effects always appear as behaviour and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap is not stated. It is the man who cannot lift his arm.
+**Effects always appear as behavior and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap is not stated. It is the man who cannot lift his arm.
 
 | Channel | What it carries |
 |---|---|

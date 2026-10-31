@@ -23,7 +23,7 @@ tags: ["Bestiary", "Reference Table", "Peoples"]
 | **Essence Affinity** | The Wellspring current the creature runs on. **This is the operative field.** Everything the thing can do and every way it can be beaten follows from it |
 | **Realm Affiliation** | Where it is native and where it has been recorded straying |
 | **Danger Tier** | T1 through T9, **on the same scale as the Commission threat tiers.** A T7 requires a Gold Sigil to lawfully engage |
-| **Weaknesses** | Recorded in the same detail as the abilities. **This is what separates a bestiary from a bestiary of rumours** |
+| **Weaknesses** | Recorded in the same detail as the abilities. **This is what separates a bestiary from a bestiary of rumors** |
 | **Historical Encounters** | Named engagements with dates where the Archives hold them, **and folk accounts where they do not** |
 | **Cultural Significance** | What the thing means to the people who share ground with it — **which is frequently at odds with what it is** |
 
@@ -33,7 +33,7 @@ tags: ["Bestiary", "Reference Table", "Peoples"]
 
 | Tier | Designation | Attested |
 |---|---|---|
-| **T2** | Minor / Moderate Threat | Zombies · Tanuki · Tinder-fox · Levelling Leech |
+| **T2** | Minor / Moderate Threat | Zombies · Tanuki · Tinder-fox · Leveling Leech |
 | **T3** | Moderate Threat | Greater Wolf · Sasquatch · Dryads |
 | **T4** | High Threat | Unicorn · Harpy · Skeletal Folk · Neiman Lion · Psy-Apes · Ghouls · Bai Ze · Hippogrif · Siren · Pegasus · Glarewing · Reaching Briar |
 | **T5** | Extreme Threat | Bicorn · Griffon · Goliath · Raiju · Lamia · Living Armor · Minotaur · Cyclops · Basilisk · Cockatrice · Hellhound · Manticore · Sump-toad · Tolling Crab · Mourning Pike |
@@ -72,6 +72,6 @@ Six pages, grouped by Type. **Spirit Beasts** · **The Draconic Lineage** · **N
 
 ### The bound and the bred
 
-*The six pages above catalogue what exists. The two below are different kinds of entry. A called thing has somebody answerable for it. A Well's get has nobody answerable for it, and is every delver's problem.*
+*The six pages above catalog what exists. The two below are different kinds of entry. A called thing has somebody answerable for it. A Well's get has nobody answerable for it, and is every delver's problem.*
 - [[The Bestiary/The Called and the Divine/Summoned and Bound/Summoned and Bound]]
 - [[The Bestiary/The Corrupted and the Risen/Well-spawn]]

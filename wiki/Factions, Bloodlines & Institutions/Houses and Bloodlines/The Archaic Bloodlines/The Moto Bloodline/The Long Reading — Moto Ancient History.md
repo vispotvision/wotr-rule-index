@@ -21,7 +21,7 @@ Bara authored the Works before chronology, and Sarnai gave that authorship a fam
 >
 > Trade routes did not run to Alabaster because it had goods. **They ran there because the alternative was doing business without knowing what your counterparty was.**
 >
-> The house held no standing army worth the name and did not need one. There is no recorded instance of the Long Reading conquering a neighbour. **There was never a reason. A polity that requires the Moto's determination to function has already been annexed and simply has not been told.**
+> The house held no standing army worth the name and did not need one. There is no recorded instance of the Long Reading conquering a neighbor. **There was never a reason. A polity that requires the Moto's determination to function has already been annexed and simply has not been told.**
 
 ### Read and Assign
 
@@ -32,9 +32,9 @@ The Long Reading did not administer territory. **It administered people, individ
 **The instrument · Covenant Scar.** A dormant law-mark set into living flesh, holding inheritance triggers, military vows, marital obligation and punitive backlash. **It remains in the house's shared arts to this day and is taught without comment.**
 > At Alabaster it was applied to populations. **A scarred obligation is not a chain and does not present as one. It does not restrain the body. It restrains the standing.**
 >
-> A scarred labourer who leaves their assigned function does not get caught by a hunter. **They get caught by the law refusing to recognise them anywhere else — because the Moto's whole art is recognition, and they had simply declined to extend it.**
+> A scarred laborer who leaves their assigned function does not get caught by a hunter. **They get caught by the law refusing to recognise them anywhere else — because the Moto's whole art is recognition, and they had simply declined to extend it.**
 >
-> The house would have been offended to hear this called slavery, and the offence would have been sincere. **Slavery is arbitrary. This was correct.** Every determination was accurate, every assessment honest, **and the accuracy is precisely what made it impossible to argue with.**
+> The house would have been offended to hear this called slavery, and the offense would have been sincere. **Slavery is arbitrary. This was correct.** Every determination was accurate, every assessment honest, **and the accuracy is precisely what made it impossible to argue with.**
 >
 > *A man told he is unfree by a tyrant has a grievance. A man told he is unfree by an instrument that has never once been wrong has a diagnosis.*
 >
@@ -143,7 +143,7 @@ What it produced downstream was **a hard line between the documented and the und
 >
 > **An unclassifiable mark returns no reading. A person who returns no reading has not been witnessed. A person who has not been witnessed has not been counted.**
 >
-> Nalūn's factor houses needed cutting-class labour. Bonded contracts require a party with standing to be a party, **and require nothing at all of a party without it.** *The paperwork was clean. Every instrument involved functioned exactly as designed.*
+> Nalūn's factor houses needed cutting-class labor. Bonded contracts require a party with standing to be a party, **and require nothing at all of a party without it.** *The paperwork was clean. Every instrument involved functioned exactly as designed.*
 >
 > *The house that read people at birth and scarred their lawful function into them had its last line read out of a register and assigned one. Nobody arranged the symmetry. Nobody was in a position to notice it. Both instruments were honest, and being honest is what made them work.*
 
@@ -186,7 +186,7 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 | **The true name** | The seat's own name is recorded in a glyph the Continuum cannot classify — **one of the thirty unassigned entries in the Master Glyph Index.** Left blank deliberately. **It is the oldest proper noun in the project and it should be Isaac's** |
 | **Dating** | No absolute years given. The Concordance closes the First Eon at Year −900; current reckoning is Year 715 In Concordance, the twenty-fifth year of the Imperial Age. **Where the Refusal and the Recension sit against that spine needs a pass with the Concordance open** |
 | **The Recension's date** | Proposed at two to four generations before Muken. **Near enough that living memory of it exists in the hinterland and nowhere else** |
-| **Bonded labour in Nalūn** | If the salt cuttings run on the undocumented **as an institution rather than an abuse**, it goes into the Nalūn codex and changes how every scene set there reads. *Recommended* |
+| **Bonded labor in Nalūn** | If the salt cuttings run on the undocumented **as an institution rather than an abuse**, it goes into the Nalūn codex and changes how every scene set there reads. *Recommended* |
 | **Sancta Lux** | The Seventh Objection now has an obvious content: **the sacraments are a Moto Work, the Wellspring is a Moto residue, and the Grand Church is a tenant.** Three living readers, one no longer sleeping |
 | **Does Sodoku know** | His father put a hand on his head at a dinner table and said nothing. **If the nothing included this, the Kōkan Butcher has been carrying an inheritance he cannot see the shape of** |
 | **The six lines' registers** | Whether any northern line preserved an honest account of the window, **and where it is, and who has read it** |

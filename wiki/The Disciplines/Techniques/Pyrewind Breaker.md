@@ -8,7 +8,7 @@ title: "Pyrewind Breaker"
 
 ### Summary card
 
-**Effect** · A spiralling gale of fire detonates outward to a 20-metre radius, burning everything caught inside and following the burn with a blunt shockwave that knocks bodies back or down and overloads weak shields on contact.
+**Effect** · A spiralling gale of fire detonates outward to a 20-meter radius, burning everything caught inside and following the burn with a blunt shockwave that knocks bodies back or down and overloads weak shields on contact.
 
 **Cost** · A heavy Aether burn in the caster, with a real risk of internal overheating if the working is pushed or repeated too soon.
 
@@ -41,11 +41,11 @@ Not named in the source card. No inventor, house or period is given, so this sta
 
 ### Physics
 
-**Phenomenon** · A deflagration, a subsonic flame front, that may or may not become a detonation, where the burn locks to a shock: fire spirals out to twenty metres with a blunt pressure wave running ahead of it in the open.
+**Phenomenon** · A deflagration, a subsonic flame front, that may or may not become a detonation, where the burn locks to a shock: fire spirals out to twenty meters with a blunt pressure wave running ahead of it in the open.
 
 **Law** · Blast scales by the cube root of yield, Z = R/W^(1/3), with 5 psi (34 kPa) at about 4 m from 1 kg of TNT; in the open only about 1 percent of the energy goes into the shock.
 
-**Limit** · Oxygen caps the fire: a twenty-metre sphere of ordinary air holds enough oxygen for at most about 120 GJ of burning, the lower reaches of A-Grade.
+**Limit** · Oxygen caps the fire: a twenty-meter sphere of ordinary air holds enough oxygen for at most about 120 GJ of burning, the lower reaches of A-Grade.
 
 **Confinement** · In the open it stays a deflagration and the shock outruns the flame (58 ms to the edge); against walls the transition completes, the whole yield drives the wave, and the 5 psi radius runs 89 to 400 m.
 
@@ -63,7 +63,7 @@ Not named in the source card. No inventor, house or period is given, so this sta
 
 ### Metaphysics
 
-**Aether** · One burst across 3.35 × 10⁴ m³ in under a second; Caloria is favoured by heat gradients and combustible air, and fails in equilibrium, saturated cold and oxygen-poor air, which here also caps the chemistry.
+**Aether** · One burst across 3.35 × 10⁴ m³ in under a second; Caloria is favored by heat gradients and combustible air, and fails in equilibrium, saturated cold and oxygen-poor air, which here also caps the chemistry.
 
 **Residue** · Heavy and physical, char and ash that Cinerion can metabolise; the ground deafens Harmonists for a while, and repeated bursts in one place push it toward saturation and Crystal Fracture for everyone present.
 
@@ -81,7 +81,7 @@ Not named in the source card. No inventor, house or period is given, so this sta
 
 ### Mechanism
 
-**Glyph** · Flame governs where the reaction front may be, laid across Vastness for the twenty metres.
+**Glyph** · Flame governs where the reaction front may be, laid across Vastness for the twenty meters.
 
 **Boundary** · Where the front may be and how fast it may run, not fuel, oxygen or pressure; the shock follows by itself.
 
@@ -112,12 +112,12 @@ Not named in the source card. No inventor, house or period is given, so this sta
 
 ### Counterplay
 
-**Tell** · A spoken Caloria declaration, a white-orange serpent of flame, then rising hair, chest pressure and a metal taste before the heat. Afterwards a twenty-metre ring of char and an oxygen-starved hollow.
+**Tell** · A spoken Caloria declaration, a white-orange serpent of flame, then rising hair, chest pressure and a metal taste before the heat. Afterwards a twenty-meter ring of char and an oxygen-starved hollow.
 
 **Limits** · 20 m; under a second; no steering, throttling, aiming or recall; capped at 120 GJ of fire by the room's oxygen.
 
 **Fails against** · A hand over the mouth; a cellar, snowfield, flooded street or sealed vault; Thaloré water, which blunts the blast; a Cinerion barrier, which turns the shock; a Verdantia ward, which muffles it; a corridor, where the reflection returns.
 
-**Blindness** · It spares nothing inside twenty metres, including what the practitioner would protect; a second burst inside the tempering interval comes untempered.
+**Blindness** · It spares nothing inside twenty meters, including what the practitioner would protect; a second burst inside the tempering interval comes untempered.
 
 **Look up** · The Caloria terrain entries; Thaloré, Cinerion and Verdantia; the Caloria Failures for Exuroth and Cataclysm; Overchannel risks; the Glory Stage table; the A-Grade band.

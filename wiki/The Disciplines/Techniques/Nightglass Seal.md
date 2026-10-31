@@ -8,7 +8,7 @@ title: "Nightglass Seal"
 
 ### Summary card
 
-**Effect** · A pane of black-glass mist two metres across snaps up between the caster and an incoming working, and whatever crosses it arrives with no purpose attached. *A blade still cuts. A named technique still lands as inert motion with the naming stripped out of it.*
+**Effect** · A pane of black-glass mist two meters across snaps up between the caster and an incoming working, and whatever crosses it arrives with no purpose attached. *A blade still cuts. A named technique still lands as inert motion with the naming stripped out of it.*
 
 **Cost** · **The seal borrows the caster's own short-term memory to run the erasure.** *He loses minutes he cannot get back, taken at random from the last hour, every time the pane closes on something.*
 
@@ -49,7 +49,7 @@ title: "Nightglass Seal"
 
 ### Origin
 
-Nightglass Seal is filed in the Iridescent Archive, a catalogued repository rather than a living practitioner's private stock: a documented technique of unrecorded authorship, known and archived, not self-derived by any single hand still living to be asked. It is counterable by anyone who has studied the Archive's own record of it.
+Nightglass Seal is filed in the Iridescent Archive, a catalogd repository rather than a living practitioner's private stock: a documented technique of unrecorded authorship, known and archived, not self-derived by any single hand still living to be asked. It is counterable by anyone who has studied the Archive's own record of it.
 
 ---
 
@@ -76,7 +76,7 @@ Nightglass Seal is filed in the Iridescent Archive, a catalogued repository rath
 
 ### Metaphysics
 
-**Aether** · A very small draw, three square metres held twelve seconds; a dark corridor is Limina's own weather. The Residue is light on the ground and left on the far side: erased warrants whose Authorization traces nowhere, Limina's mark of absence.
+**Aether** · A very small draw, three square meters held twelve seconds; a dark corridor is Limina's own weather. The Residue is light on the ground and left on the far side: erased warrants whose Authorization traces nowhere, Limina's mark of absence.
 
 **Wellspring** · Tenebra, the Hidden Shadow (Limina): a thing is undetectable when its return falls below the watcher's noise floor; it keeps the pane itself from being a target.
 
@@ -98,7 +98,7 @@ Nightglass Seal is filed in the Iridescent Archive, a catalogued repository rath
 
 **Boundary** · The decoder's reference, pinned to one word that recognises nothing; separately, the pane's own return is pinned below the noise floor.
 
-**Effect** · A two-metre pane of black-glass mist arrives faster than the strike; the blade goes through and lands, but a named technique arrives as bare motion: fire as mere heat, binding as rope, a verdict as noise.
+**Effect** · A two-meter pane of black-glass mist arrives faster than the strike; the blade goes through and lands, but a named technique arrives as bare motion: fire as mere heat, binding as rope, a verdict as noise.
 
 **Mirror** · A watcher staring into it gets their own perceptual signature back, a smear where a face should be.
 
@@ -129,9 +129,9 @@ Nightglass Seal is filed in the Iridescent Archive, a catalogued repository rath
 
 ### Counterplay
 
-**Tell** · A two-metre pane of black-glass mist appears with no word and no gesture, and that silence marks an internal chain; afterwards, warrants that trace nowhere and a practitioner who cannot say what they did an hour ago.
+**Tell** · A two-meter pane of black-glass mist appears with no word and no gesture, and that silence marks an internal chain; afterwards, warrants that trace nowhere and a practitioner who cannot say what they did an hour ago.
 
-**Limits** · Two metres, two turns, one plane facing one way; unauthorised force crosses unaltered; Tenebra-aligned attackers partly bypass it; Fortification capped at B.
+**Limits** · Two meters, two turns, one plane facing one way; unauthorised force crosses unaltered; Tenebra-aligned attackers partly bypass it; Fortification capped at B.
 
 **Fails against** · Shot, rocks and plain soldiers; feints that make it close on cheap workings; bright, loud, crowded ground; Judicium, which reads the warrant through; Absolution, which releases the shadow geometry; Knot against Knot; a Seal forced early; coherence drift.
 

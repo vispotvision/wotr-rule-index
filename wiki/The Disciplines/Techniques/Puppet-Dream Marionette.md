@@ -74,7 +74,7 @@ Self-derived by its author, from the concept of threading somnalic filaments int
 
 ### Metaphysics
 
-**Aether** · A tiny draw: one threshold at up to 60 m for one turn. Fluxia needs a medium and is favoured by water, humidity and pressure difference; a dry vault is a Fluxia prison. Limina wants darkness, silence and few people.
+**Aether** · A tiny draw: one threshold at up to 60 m for one turn. Fluxia needs a medium and is favored by water, humidity and pressure difference; a dry vault is a Fluxia prison. Limina wants darkness, silence and few people.
 
 **Residue** · On the practitioner, not the ground: panic residue clings to their Shell and fades only with time, driving it toward Clouding.
 

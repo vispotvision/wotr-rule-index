@@ -41,7 +41,7 @@ Identical frequency, identical phase, identical priority. The output is no longe
 
 | Wellspring | Function |
 |---|---|
-| **Coagula** *The Unifying Pulse, Materia · Primary* | Unity drawn from dissolution. **The alignment mechanism.** Treats the three layers as fragments that were always meant to be one thing, and pulls them toward phase-lock the way gravity pulls mass toward centre. **With it, synchronisation becomes a gravitational tendency rather than an act of will** *Strengthens Resilience Integrity, Tempering Coherence* |
+| **Coagula** *The Unifying Pulse, Materia · Primary* | Unity drawn from dissolution. **The alignment mechanism.** Treats the three layers as fragments that were always meant to be one thing, and pulls them toward phase-lock the way gravity pulls mass toward center. **With it, synchronisation becomes a gravitational tendency rather than an act of will** *Strengthens Resilience Integrity, Tempering Coherence* |
 | **Anima Spirare** *The Soul's Breath, Vitalia · Secondary* | **The vitality engine that sustains the lock.** Triaxial alignment is metabolically expensive — body, spirit and relational architecture all running at maximum coherence at once. The cooperative curve steepens delivery to match demand, **keeping fuel ahead of burn for as long as reserves hold** *Strengthens Vitality Hemostasis, Regeneration, Harmonics Confluence* |
 | **Oblation** *The Offering Flame, Fluxia · Tertiary* | **The cost mechanism.** Willingness to pay soul-cost — measured as actual vital expenditure, not EU — translates directly into duration and intensity. Bernoulli's principle: what is surrendered in one term appears in another, **and the total is not increased by the sacrifice. They do not gain power from giving up lifespan. They trade it, and the exchange rate is exact** *Strengthens Harmonics Axis, Dominion Command, Tempering Yield* |
 | **Mirithane** *The Wellspring of Reflection, Limina · Support* | **The equilibrium diagnostic that permits activation.** Any self-deception, any gap between who the practitioner is and who their Shell is expressing, prevents synchronisation. Mirithane closes the gap by making the mirror accurate — **which is why Moetana requires not calm, not serenity, but honesty** *Strengthens Harmonics Fidelity, Tempering Coherence* |
@@ -67,7 +67,7 @@ The lock is felt throughout the body. Weight shifts as the Shell restructures ar
 | **Harmonious Strike** | A strike propagating across all three layers of the target's Crystal simultaneously: physical damage, Shell disruption, and Attraction Layer perturbation that destabilises bonds, Traits and harmonisations. **The target does not experience three injuries. They experience one injury that registers on every layer of their existence at once.** *It does not necessarily hit harder than a conventional strike. It hits everywhere* |
 | **Ethereal Communion** | The Attraction Layer's heightened coherence extends its resonant range to spirits, remnant imprints, environmental currents and ambient Soul Plane phenomena. **The practitioner does not command these contacts. They resonate with them, and what returns along the resonance carries information** |
 | **Predictive Awareness** | Emotional state, spiritual intent and biomechanical preparation read as one data stream. **The prediction is not precognition. It is empathic anticipation** — they read what the opponent is about to do because they can feel what the opponent is about to feel |
-| **Life's Embrace** | Elevated Anima Spirare coherence. Cuts close, bruises metabolise, torn fibres reknit. **Triage, not restoration** — it stabilises the body so the phase-lock is not disrupted by accumulating minor damage. Severed limbs, organ damage and structural fracture exceed the curve entirely |
+| **Life's Embrace** | Elevated Anima Spirare coherence. Cuts close, bruises metabolise, torn fibers reknit. **Triage, not restoration** — it stabilises the body so the phase-lock is not disrupted by accumulating minor damage. Severed limbs, organ damage and structural fracture exceed the curve entirely |
 
 ---
 
@@ -120,7 +120,7 @@ Moetana does not follow a single Family's terminal path. **The vector depends on
 
 ## Archival Note
 
-Catalogued as a **Conjunctia-class transformation state rather than a discipline.** It belongs to no single Family, Method or Affinity.
+Catalogd as a **Conjunctia-class transformation state rather than a discipline.** It belongs to no single Family, Method or Affinity.
 > **Closest systemic analogue: the Zenith threshold** (Stage XIV, the moment of perfect triaxial alignment). **The difference is duration.** Zenith is an instantaneous spike that collapses in seconds. Moetana is the sustained, Oblation-fed version that holds the alignment open through continuous vital expenditure.
 >
 > *Zenith is free and brief. Moetana is expensive and extended. The same alignment, two different relationships with time.*

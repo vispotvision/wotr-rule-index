@@ -27,7 +27,7 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 >
 > **The first is an asset the institution manufactured. The second is a phenomenon the institution discovered.**
 >
-> *The correction was not requested by the academic community. It was requested by the Bureau of Strategic Assessment, after the third incident in which a field commander deployed a practitioner on the basis of a classification that accurately described the output and completely failed to predict the behaviour under conditions the classification had not been tested against.*
+> *The correction was not requested by the academic community. It was requested by the Bureau of Strategic Assessment, after the third incident in which a field commander deployed a practitioner on the basis of a classification that accurately described the output and completely failed to predict the behavior under conditions the classification had not been tested against.*
 >
 > *A warning to the reader who believes this is a simple distinction. It is simple the way the distinction between a river and a canal is simple. Both carry water. One was built. One was found. The engineering that manages them is entirely different, and the engineer who confuses them drowns.*
 
@@ -141,7 +141,7 @@ Measured across a standardised battery spanning **all three encounter axes — W
 >
 > **Every thaumaturge has a pattern.** Single-axis fluency produces one. **The Crystal that can only hear one frequency plays one song.** *A theurgist trained to listen for the song can learn it, and a song you have learned is a song you can interrupt.*
 >
-> **Every theurgist has a gap.** Cross-axis literacy distributes attention. **The Crystal that listens to everything hears everything poorly.** *A thaumaturge who commits fully to their native axis can overwhelm any single channel in a distributed defence, and a channel that is overwhelmed is a channel that has collapsed regardless of what the other channels are doing.*
+> **Every theurgist has a gap.** Cross-axis literacy distributes attention. **The Crystal that listens to everything hears everything poorly.** *A thaumaturge who commits fully to their native axis can overwhelm any single channel in a distributed defense, and a channel that is overwhelmed is a channel that has collapsed regardless of what the other channels are doing.*
 
 ---
 

@@ -146,7 +146,7 @@ title: "Summon Entry · Blank Template"
 | **Clean Sealing** | *What a lawful dismissal looks like, how long it takes, and what remains on the ground* |
 |---|---|
 | **Severed Tether** | *What happens to the construct and what comes back up the line into the summoner* |
-| **Behaviour in Silence** | *Inside a Silence Realm or under Harmonic Silence. Donated forms die outright. Say what the others do* |
+| **Behavior in Silence** | *Inside a Silence Realm or under Harmonic Silence. Donated forms die outright. Say what the others do* |
 | **Resistance to Dissolution** | *For Analog and Native forms. Whether it has ever declined to go, and what was done about it* |
 | **Permanence Hazard** | *What it would take for this form to stop being a summon and start being a resident* |
 
@@ -170,7 +170,7 @@ title: "Summon Entry · Blank Template"
 
 ## XII · Attested Encounters
 
-*Named engagements with dates where the Archives hold them. Field accounts, rumour and soldier's slang where they do not, marked as such. Note where the record and the folk account disagree, and do not resolve the disagreement.*
+*Named engagements with dates where the Archives hold them. Field accounts, rumor and soldier's slang where they do not, marked as such. Note where the record and the folk account disagree, and do not resolve the disagreement.*
 
 ---
 

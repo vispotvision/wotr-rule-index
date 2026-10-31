@@ -8,7 +8,7 @@ title: "Amaranth Severance · The Blooming Thorn"
 
 ### What it is
 
-Weapon, Soulbound, a latent Domain Anchor when overfed. A slender estoc-length blade of blood-glass steel, smoked iron at the forte fading to a translucent crimson point. The guard and pommel form a lattice of black-vine filigree cradling a carved rose-crystal bud, with a thorned spur hooking forward over the knuckles. Awakened, red vapour curls from the fuller like slow-burning petals, and the tip weeps a single bead of ruby light before a fight starts. Forged in the catacombs of Bluvest by the Red Alchemists during the Withering Era, from marrow-silver and a petrified soul-bud cut from a condemned High Vampire matriarch, with final tempering held beneath a Parunic choir at the Skyglass Archive, an experiment the Codex never authorized and later sealed.
+Weapon, Soulbound, a latent Domain Anchor when overfed. A slender estoc-length blade of blood-glass steel, smoked iron at the forte fading to a translucent crimson point. The guard and pommel form a lattice of black-vine filigree cradling a carved rose-crystal bud, with a thorned spur hooking forward over the knuckles. Awakened, red vapor curls from the fuller like slow-burning petals, and the tip weeps a single bead of ruby light before a fight starts. Forged in the catacombs of Bluvest by the Red Alchemists during the Withering Era, from marrow-silver and a petrified soul-bud cut from a condemned High Vampire matriarch, with final tempering held beneath a Parunic choir at the Skyglass Archive, an experiment the Codex never authorized and later sealed.
 
 ### Physical account
 
@@ -18,7 +18,7 @@ Mass approximately 1.1 kg; overall length approximately 115 cm, of which the bla
 
 **Severance Pulse.** Drinking Essence carried in fresh blood on a hit lets the *Uur* (Disruption) glyph condition a Mortalis boundary against the target's own Aether Shell lattice, fracturing it on the following hit; overcharged, the same boundary escalates from Resonance Fracture into full Vector Severance, unthreading the lattice rather than merely cracking it.
 
-**Morphic stances.** Dormant Vine, Bloom and Ashen Petal are not fired or summoned; they are a Traitus-class visible state the blade's own Crystal pressure takes on under the wielder's intent, dull grey and oathbound at rest, crimson-veined with deeper penetration and point control once blooded, smoking-edged and able to sever a Domain's own anchor-threads at arm's reach when pushed furthest.
+**Morphic stances.** Dormant Vine, Bloom and Ashen Petal are not fired or summoned; they are a Traitus-class visible state the blade's own Crystal pressure takes on under the wielder's intent, dull gray and oathbound at rest, crimson-veined with deeper penetration and point control once blooded, smoking-edged and able to sever a Domain's own anchor-threads at arm's reach when pushed furthest.
 
 **Kill-record.** The *Ma* (Memory) glyph lets the rose-crystal store a signature per sworn kill; each stored signature grants a brief Topology Lockdown, a targeted suppression, against that victim's bloodline the next time it is encountered.
 
@@ -32,8 +32,8 @@ Soulbound and vow-gated; the blade rejects any wielder who has not signed a vow 
 
 ### Counterplay
 
-The Severance Pulse needs blood contact to trigger at all; fighting at range, or against a bloodless construct or the properly undead, starves it outright. Because the vow is the blade's only leash, the standing documented counter is to force the wielder to choose between honouring the vow's terms and surviving the fight in front of them, since an oath-breaker fights briefly unbound and then pays for it in a localized Fracture Event.
+The Severance Pulse needs blood contact to trigger at all; fighting at range, or against a bloodless construct or the properly undead, starves it outright. Because the vow is the blade's only leash, the standing documented counter is to force the wielder to choose between honoring the vow's terms and surviving the fight in front of them, since an oath-breaker fights briefly unbound and then pays for it in a localized Fracture Event.
 
 ### Bearers
 
-Forged as the court-execution blade of the Crimson Prefecture of Bluvest; later carried by an Accord shadow operative during the Dorrosfenn purges; rumoured to have bloomed in the hands of a Reaper-figure on the Caedor frontier. Currently held at the Dreadveil Reliquary, Lower Bluvest, catalogued as "Rose-III," and noted as periodically missing during the Eclipse Wars. First appearance: *Inclusion Saga, The Blooming Silence*, Chapter 4, the volume title and number carried over unverified from the old card.
+Forged as the court-execution blade of the Crimson Prefecture of Bluvest; later carried by an Accord shadow operative during the Dorrosfenn purges; rumored to have bloomed in the hands of a Reaper-figure on the Caedor frontier. Currently held at the Dreadveil Reliquary, Lower Bluvest, catalogd as "Rose-III," and noted as periodically missing during the Eclipse Wars. First appearance: *Inclusion Saga, The Blooming Silence*, Chapter 4, the volume title and number carried over unverified from the old card.

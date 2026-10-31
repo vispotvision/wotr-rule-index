@@ -20,9 +20,9 @@ Which means Mechanica always has a donor. There is no such thing as an operator 
 **Extraction.** Output taken from a Soul Crystal (the soul's organ that stores Essence and channels it outward) that is not the operator's. The donor may be captive, purchased, dead, or unaware. This is the oldest form and the one the Statutes were written against, and its products are the most efficient in the register because a Crystal has already done the expensive part.
 > *Soul Splicing, Trait Collapse Engines, and the whole vocabulary the Accord uses in its prohibition schedules describe extraction and nothing else, which is why the schedules read as hysterical to anyone who has only encountered the second and third practices.*
 **Tapping.** Output taken from a Wellspring site without the site's participation. A lawful practitioner at a concentration harmonises, which is a negotiation the current can decline. A tap does not ask. It opens a path from the vein into an apparatus and holds it open, and the site is drawn from without reciprocity until it stops giving.
-> *This is what produces a site running under Obsession Force (recognition curdled into taking). The corruption is not spiritual. It is a physical consequence of sustained withdrawal against a current that was never consulted, and the site's subsequent behaviour toward visitors is the behaviour of a system that has learned what people are for.*
+> *This is what produces a site running under Obsession Force (recognition curdled into taking). The corruption is not spiritual. It is a physical consequence of sustained withdrawal against a current that was never consulted, and the site's subsequent behavior toward visitors is the behavior of a system that has learned what people are for.*
 **Engine work.** Built apparatus that performs extraction or tapping without a practitioner present. The operator's skill is entirely in the construction, the device runs unattended, and this is the form that scales.
-> **Engine work is why Mechanica is an economic problem rather than a criminal one.** Extraction requires a monster. Tapping requires a monster with a workshop. **An engine requires a competent millwright, a licence he does not have, and a district that cannot afford lawful draw.**
+> **Engine work is why Mechanica is an economic problem rather than a criminal one.** Extraction requires a monster. Tapping requires a monster with a workshop. **An engine requires a competent millwright, a license he does not have, and a district that cannot afford lawful draw.**
 >
 > *The Enforcement Division's own figures, which it does not publish in this form, show that the overwhelming majority of Mechanica in the Concord is somebody's heating.*
 
@@ -67,12 +67,12 @@ An engine is a device in a cellar. Finding it requires the two-instrument compar
 
 The Concord's draw network is licensed, metered, sealed and lawful, and its Authorization is held institutionally rather than personally. A householder drawing off a district main has never warranted anything in their life.
 
-The Accord's position is that the Board holds the warrant and the supply runs under it, which is coherent, and which is also **the same structure as engine work with a licence on top.**
+The Accord's position is that the Board holds the warrant and the supply runs under it, which is coherent, and which is also **the same structure as engine work with a license on top.**
 > *The distinction the Accord draws is that the veins feeding the mains were harmonised with rather than tapped, at emplacement, by practitioners named in the founding instruments. Several of those instruments are four hundred years old. Two are known to be forgeries. The Division that would investigate the third has been reorganised twice since the question was last asked in writing.*
 
 ## VIII. Writing It
 
-**An operator is a tradesman, not a sorcerer.** Aprons, tools, a bill of materials, a customer. The horror is in the donor and the ledger, never in the operator's demeanour.
+**An operator is a tradesman, not a sorcerer.** Aprons, tools, a bill of materials, a customer. The horror is in the donor and the ledger, never in the operator's demeanor.
 
 **Show the other end of the apparatus.** Every engine has one. If a scene features Mechanica and never establishes what is being drawn from, it has written a magic machine and not this.
 

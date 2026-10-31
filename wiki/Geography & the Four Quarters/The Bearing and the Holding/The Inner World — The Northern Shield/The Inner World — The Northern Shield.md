@@ -49,7 +49,7 @@ The standard fortification stone of four kingdoms. Minimally resistive to magic,
 
 **Stillband Ore** · *T2 · Metal ore · Bedded across the western shield*
 
-Banded iron, magnetite alternating with grey chert in finger-width layers. Smelts to sound structural iron. The chert bands scatter Essence badly, so anything made from unrefined Stillband takes an inscription and then loses it over a season. Cheap, abundant, and the backbone of every bridge and rail in the quarter. Bearing good, Holding poor.
+Banded iron, magnetite alternating with gray chert in finger-width layers. Smelts to sound structural iron. The chert bands scatter Essence badly, so anything made from unrefined Stillband takes an inscription and then loses it over a season. Cheap, abundant, and the backbone of every bridge and rail in the quarter. Bearing good, Holding poor.
 
 **Sunkwood** · *T3 · Wood · Recovered from the beds of the chain-lakes*
 
@@ -68,7 +68,7 @@ Oak and black spruce drowned when the ice dammed the northern drainage, buried i
 > Bearing poor, Holding deliberately nil. Resonance: Fixatio. Family Materia, Domain Material Science. Fails in standing water, which is why the chain-cities are obsessive about their drainage in a way outsiders find comic until the first collapse.
 **Blackcap Sulphide** · *T3 · Metal ore · Melt sheet beneath the Ring*
 
-Massive nickel and copper sulphide with a platinoid fraction, concentrated where the impact melt cooled and settled. Alloyed into iron it produces a metal that **keeps its temper inside a forge-array's working field**, where ordinary steel goes soft and stupid. Every crucible tong, array clamp, and furnace door hinge worth owning is Blackcap alloy. Bearing very good, Holding moderate. Resonance: Manganthra. Family Materia, Domain Material Science. Roasting it releases a sulphur fume that has killed the vegetation for six leagues downwind of the Ring smelters and shows no sign of stopping.
+Massive nickel and copper sulphide with a platinoid fraction, concentrated where the impact melt cooled and settled. Alloyed into iron it produces a metal that **keeps its temper inside a forge-array's working field**, where ordinary steel goes soft and stupid. Every crucible tong, array clamp, and furnace door hinge worth owning is Blackcap alloy. Bearing very good, Holding moderate. Resonance: Manganthra. Family Materia, Domain Material Science. Roasting it releases a sulfur fume that has killed the vegetation for six leagues downwind of the Ring smelters and shows no sign of stopping.
 
 **Clearbeam Beryl** · *T4 · Crystal · Pegmatite dykes on the northern margin*
 
@@ -86,7 +86,7 @@ Northern industry is extractive, new, and undercapitalised. **The ore is superb 
 
 Smelting happens at the Ring because that is where the sulphide is, and the Ring smelters run on forge-arrays fed directly off the ambient saturation, which is the one genuine advantage the quarter has over anywhere else. A Ring furnace costs a fraction of what the same furnace costs in the west, because in the west you must buy your Essence and here **it is simply in the air.**
 
-Everything else about northern working is worse. The shafts are shallow, the shield being so hard that sinking is slow and blasting is the only practical method. Haulage roads freeze and thaw and destroy themselves annually. Skilled Engravers are scarce enough that ward maintenance on frontier settlements is done by travelling men paid in meals, *which is precisely as reliable as it sounds.*
+Everything else about northern working is worse. The shafts are shallow, the shield being so hard that sinking is slow and blasting is the only practical method. Haulage roads freeze and thaw and destroy themselves annually. Skilled Engravers are scarce enough that ward maintenance on frontier settlements is done by traveling men paid in meals, *which is precisely as reliable as it sounds.*
 
 The northern shield is the exception and operates on a wholly different logic. **Salt cutting requires no smelting, no array heat, and almost no capital.** It requires only the tunnels, which the cutting itself produces, and the oaths, which the northern oath-houses enforce with a thoroughness that has become the quarter's chief cultural export.
 

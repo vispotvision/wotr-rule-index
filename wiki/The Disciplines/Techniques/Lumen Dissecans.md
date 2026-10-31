@@ -12,7 +12,7 @@ title: "Lumen Dissecans"
 
 **Cost** · 2 percent of full reserve each turn the beam holds, 4 percent a full dissection, a fifth of output rate tied up meanwhile, and lattice afterimages on ordinary objects afterwards.
 
-**Limit** · Only a working still in progress, one per activation, within 500 metres and line of sight; finished and instant effects show nothing.
+**Limit** · Only a working still in progress, one per activation, within 500 meters and line of sight; finished and instant effects show nothing.
 
 **Counter** · A lattice built to scramble itself, a mirror that turns the beam back on the caster, fog or shielding, or a Void-aligned construct that answers with noise.
 
@@ -76,7 +76,7 @@ title: "Lumen Dissecans"
 
 ### Metaphysics
 
-**Aether** · A thin directed beam, not a field; Fulguria favours dry air and clear sight, and fog or shielding starves it. The Residue sits on the target working: a survivor carries a phase trace of having been read, and its maker knows.
+**Aether** · A thin directed beam, not a field; Fulguria favors dry air and clear sight, and fog or shielding starves it. The Residue sits on the target working: a survivor carries a phase trace of having been read, and its maker knows.
 
 **Wellspring** · Judicium, the Wellspring of Truth (Fulguria): every element shows only its own spectrum, so Gnosis Acuity and Analysis read a Crystal, a technique or a lie by signature alone.
 

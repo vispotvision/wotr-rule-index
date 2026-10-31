@@ -35,7 +35,7 @@ A Stage XII practitioner can unmake a regiment in an afternoon. **They cannot oc
 | Finding | Consequence |
 |---|---|
 | **They are artillery, not infantry** | A weapon system with a rate of fire, a magazine, a crew requirement, and a displacement time. **Every doctrinal error in the Division's history has come from officers who treated them as very good soldiers rather than as very expensive guns** |
-| **They have a magazine and it empties** | Essence is finite per practitioner per day, replenishment is slower than expenditure under load, **and the practitioner knows exactly how much they have left at every moment.** That knowledge governs their behaviour more completely than any order does |
+| **They have a magazine and it empties** | Essence is finite per practitioner per day, replenishment is slower than expenditure under load, **and the practitioner knows exactly how much they have left at every moment.** That knowledge governs their behavior more completely than any order does |
 | **They cannot be two places** | The constraint the entire doctrine is built on, **and the one commanders forget first** — because a practitioner arriving somewhere is spectacular and a practitioner failing to arrive somewhere else is invisible |
 | **They degrade** | Sustained output past the second hour produces measurable coarsening in the Aether Shell. *Techniques surgical at dawn are approximate by midday and blunt by dusk.* **A tired practitioner is not a weaker practitioner. They are a less precise one** — a different and often worse problem for everybody nearby |
 | **They are irreplaceable** | A Legion can absorb the loss of a company and continue. **It cannot absorb the loss of its Aether Knights.** This asymmetry is the enemy's principal opportunity, and every experienced commander conducts their campaign around protecting an asset **more valuable than the objective** |
@@ -77,7 +77,7 @@ A practitioner enters an engagement with a budget. **Make them spend it on thing
 
 **Frontage** · A line of men occupies a width. A practitioner occupies a point and a radius. Beyond that radius the war continues. **Mass is the instrument by which an army makes a battlefield larger than one person can attend to.**
 
-**Flank and rear** · The practitioner's own supply, baggage, and line of retreat are held by ordinary men, **and can be taken by ordinary men.** An army that ignores this in favour of contesting the centre **has agreed to fight the enemy's battle.**
+**Flank and rear** · The practitioner's own supply, baggage, and line of retreat are held by ordinary men, **and can be taken by ordinary men.** An army that ignores this in favor of contesting the center **has agreed to fight the enemy's battle.**
 
 **Depth** · Reserves absorb a breakthrough. A single catastrophic technique that would end a shallow formation merely wounds a deep one, **and the difference between those two outcomes is measured in ranks.**
 
@@ -175,7 +175,7 @@ The Division's standing instruction is that capture is preferred, that the instr
 > **The Lawbrand exists for this.** It seals Essence rather than spilling blood, and the Spirit Armory's continued production of a weapon that is worse than a sword at everything except taking practitioners alive **is the clearest statement of Accord priorities in the entire arsenal.**
 **Politically** · A Crown that has lost its champion has lost a category of threat it cannot rebuild inside a generation. **Terms available after such a capture are terms unavailable after a battlefield death, because a corpse cannot be returned and a prisoner can.**
 
-**Metaphysically** · A living Soul Crystal can be read. **Trials of Resonance conducted on a captured practitioner have produced intelligence that no interrogation could**, and Arbitration's position on the admissibility of such readings has been revised in the Accord's favour on three occasions.
+**Metaphysically** · A living Soul Crystal can be read. **Trials of Resonance conducted on a captured practitioner have produced intelligence that no interrogation could**, and Arbitration's position on the admissibility of such readings has been revised in the Accord's favor on three occasions.
 
 **Materially** · *This entry has been redacted from all copies issued below the Citadel.*
 
@@ -222,7 +222,7 @@ The Division's counter is procedural and slow and consists almost entirely of th
 
 **The costed-out threshold** · No instrument reliably distinguishes a depleted practitioner from a full one at distance. The War-Priests' estimates carry an acknowledged error margin **and men die inside it.** Four proposals for a field instrument have been funded and none has left the Archives.
 
-**Whether the Bind can be conducted by a lesser practitioner** · Present doctrine requires an asset of comparable Stage. Whether two or three lower-Stage practitioners can jointly Bind one greater has been modelled favourably **and never tested, because the test consumes the practitioners either way.**
+**Whether the Bind can be conducted by a lesser practitioner** · Present doctrine requires an asset of comparable Stage. Whether two or three lower-Stage practitioners can jointly Bind one greater has been modeled favorably **and never tested, because the test consumes the practitioners either way.**
 
 **Domain Re-form in veteran formations** · The Division holds figures for recruit formations and none for veterans, **because veteran formations are not made available for the trials.** The gap is known, has been known for ninety years, and is annotated in the Division's own returns as *pending.*
 

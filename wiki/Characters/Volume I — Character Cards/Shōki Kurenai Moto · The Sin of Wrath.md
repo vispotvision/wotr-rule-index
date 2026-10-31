@@ -1,7 +1,7 @@
 ![[Shōki Kurenai Moto — portrait.jpg]]
 
 **Shōki Kurenai Moto** · The Sin of Wrath · Moto, Kurenai line · as of the present reckoning, three centuries after the Hall
-**Stat line** · Level 372 · Band IV, Mythic · Stage XI, Dissonance, trapped · Path Body 70% / Attraction 30% · Grandmaster · η 0.71 · Aether Class V, Radiant, Rot-Born · Crystal Sovereign, Overgrown over an open fracture
+**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body 70% / Attraction 30% · Grandmaster · η 0.71 · Aether Class V, Radiant, Rot-Born · Crystal Sovereign, Overgrown over an open fracture
 **Combat grammar** · Percussion
 **Aura and sound** · Caloria ember-orange at Dissonance clarity, brilliant and grained like a filament overdriven, rimmed black-violet where Vantabriel keeps what it takes; sound: a blast-furnace roar under a ringing of iron
 **Stack** · sustainable SS · cap +2 Grades · layers: SHAKUNETSU always standing; ABI or ENMA-CHŌ when called; the grudge bank
@@ -9,7 +9,7 @@
 **Traits** · ENSHŌ (Primary) · tell: struck flesh glows cherry-red and steams, blood hisses instead of running · counter: cold, wet and attacks that carry no energy / ONNEN (Secondary) · tell: the black-violet rim thickens toward whoever has hurt him · counter: give him nothing to bank, or overfeed him past saturation / TSUMI-YOMI (Inherited) · tell: ring-lines and red capillary light in the left eye, his gaze on your breastbone · counter: a soul that has never killed, or a ward that returns the read / SHŌNETSU (Passive) · tell: snow will not lie within ten yards of him · counter: distance and cold ground / HAKANASHI (Compound) · tell: he answers every blow · counter: bait him off his target
 **Techniques** · GŌKA · tell: a bellows breath, the Covenant Scar flares, the irons go white · counter: break contact, shed the struck kit, strike the cool beat after / YAKI-IRE · tell: a cherry-red handprint goes black with a hiss · counter: never take the second touch, wear ductile kit / SENTENCE OF SEVERANCE · tell: the stare comes first · counter: deny the reading
 **Voice** · "Thirty-one men in your chest, and you ask me for mercy. Entered. Stand still and I will close the book." · speaker type: a hanging judge reading sentence over the noise of a foundry floor
-**Next gate** · Stage XII, Emanation · Catalyst: passage out of Dissonance, the fractures made features, and his Coherence nowhere near it · Band gate: Level 400 waits on XII · Front: his road bends toward the Hall of Verdicts and the heirs of the seven chairs
+**Next gate** · Stage XII, Emanation · Catalyst: passage out of Dissonance, the fractures made features, and his Coherence nowhere near it · Band gate: Level 400 waits on XII, and the counter has nearly stopped; Residual Strain builds in him every day he does not pass, which is part of why the fever never breaks · Front: his road bends toward the Hall of Verdicts and the heirs of the seven chairs
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## II. Soul Architecture
 
-**Level** · 372
+**Level** · 398
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance. Trapped in it: he entered at the block and never passed through
 **Path** · Body 70%, Attraction 30%. No Spirit, no Fate; the gates hold Alacrity, Clarity, Ward and Retention low, and Sovereignty under A
@@ -55,42 +55,42 @@
 
 | Primary | Total | Mean | Grade |
 |---|---|---|---|
-| Vitality | 3,600 | 450 | S |
+| Vitality | 3,661 | 457.6 | S |
 | Ardency | 3,500 | 437.5 | S |
-| Gnosis | 500 | 62.5 | D |
-| Dexterity | 900 | 112.5 | C |
+| Gnosis | 600 | 75 | D |
+| Dexterity | 1,090 | 136.25 | C |
 | Harmonics | 162 | 20.25 | F |
-| Resilience | 950 | 118.75 | C |
+| Resilience | 1,050 | 131.25 | C |
 | Tempering | 1,500 | 187.5 | B |
-| Dominion (seven, Throne apart) | 1,500 | 214.3 | B |
+| Dominion (seven, Throne apart) | 1,595 | 227.9 | B |
 | **Throne** | not opened | · | · |
 
-**Pool** · 12,612 (6,012 from Levels, 6,600 from Thresholds I to XI) · **Unspent** · 0
+**Pool** · 13,158 (6,558 from Levels, 6,600 from Thresholds I to XI) · **Unspent** · 0
 
 ## V. Sub-Stats
 
-**Vitality** · Fortitude 560 · Absorption 700 · Constitution 360 · Hemostasis 520 · Regeneration 260 · Filtration 60 · Tolerance 700 · Threshold 440
+**Vitality** · Fortitude 560 · Absorption 700 · Constitution 360 · Hemostasis 520 · Regeneration 321 · Filtration 60 · Tolerance 700 · Threshold 440
 **Ardency** · Flux 725 · Alacrity 175 · Depth 260 · Penetration 640 · Compression 360 · Cascade 400 · Overchannel 725 · Density 215
-**Gnosis** · Perception 260 · Acuity 40 · Forecast 15 · Fluency 20 · Retention 25 · Analysis 80 · Cognition 30 · Vigilance 30
-**Dexterity** · Celerity 260 · Reflex 220 · Finesse 60 · Economy 40 · Evasion 30 · Grapple 200 · Feint 20 · Sequence 70
+**Gnosis** · Perception 320 · Acuity 40 · Forecast 15 · Fluency 20 · Retention 25 · Analysis 120 · Cognition 30 · Vigilance 30
+**Dexterity** · Celerity 350 · Reflex 320 · Finesse 60 · Economy 40 · Evasion 30 · Grapple 200 · Feint 20 · Sequence 70
 **Harmonics** · Attunement 40 · Projection 70 · Breadth 10 · Stability 10 · Empathy 1 · Synergy 5 · Axis 1 · Suppression 25
-**Resilience** · Integrity 260 · Ward 130 · Persistence 260 · Anchoring 130 · Fortification 140 · Hardening 20 · Oath 5 · Continuity 5
+**Resilience** · Integrity 300 · Ward 130 · Persistence 260 · Anchoring 190 · Fortification 140 · Hardening 20 · Oath 5 · Continuity 5
 **Tempering** · Clarity 60 · Overflow 725 · Maturity 120 · Coherence 140 · Yield 300 · Ceiling 60 · Capacity 45 · Longevity 50
-**Dominion** · Radius 280 · Sovereignty 240 · Sense 110 · Gravity 260 · Pressure 500 · Command 60 · Fate 50 · Throne not opened
+**Dominion** · Radius 280 · Sovereignty 275 · Sense 110 · Gravity 320 · Pressure 500 · Command 60 · Fate 50 · Throne not opened
 
 Flux, Overchannel and Overflow stand at 725 and Absorption and Tolerance at 700, all on or past the line where Dissonance carries fracture risk. Oath stands at 5: a Kurenai's oath, broken on the black floor, and the stat went with it. Empathy and Axis stand at 1, the ash of what Gisei burned.
 
 ## VI. Physical Force
 
-**Strike Force** · SS ceiling by Flux 725: 2 TN to 1 PN peak, 24.3 TJ upward; a blow at the floor of SS costs him about a fifth of his reserve, so his committed blows run S, 4.2 to 24.3 TJ · Body Path adds its share
+**Strike Force** · SS ceiling by Flux 725: 2 TN to 1 PN peak, 24.3 TJ upward; a blow at the floor of SS costs him about a tenth of his reserve, so his committed blows run SS, 24.3 TJ upward, and GŌKA at base lands there · Body Path adds its share
 **Lifting** · A to S, millions of tonnes held by Fortitude and Constitution
-**Travel speed** · B, Mach 1.5 to 5 by Celerity 260 · **Reaction** · B, 1 to 5 ms by Reflex 220
+**Travel speed** · A, Mach 5 to 25 by Celerity 350 · **Reaction** · A, 0.2 to 1 ms by Reflex 320
 **Durability** · SS by Fortitude and Absorption, before ENSHŌ turns what lands into heat
 
 ## VII. Aether Flow
 
-**EU Reserve** · 153,555,000 EU · **Flux Density** · 12,000,000 EU/g · **AU/s** · 8,520,000 (12,000,000 × 0.71) · **Waste at full output** · 2.47 TW, shed as heat
-**From full** · empties in 18.0 s at full output, Starvation in 16.2 s, under three turns · **Recovery** · ten percent a minute at rest on ordinary ground; faster on hot ground, slower in cold and wet · **Grudge bank** · up to 38,388,750 EU held above his maximum by ONNEN; past that it goes into his structure
+**EU Reserve** · 330,655,690 EU · **Flux Density** · 12,000,000 EU/g · **AU/s** · 8,520,000 (12,000,000 × 0.71) · **Waste at full output** · 2.47 TW, shed as heat
+**From full** · empties in 38.8 s at full output, Starvation in 34.9 s, under seven turns · **Recovery** · ten percent a minute at rest on ordinary ground; faster on hot ground, slower in cold and wet · **Grudge bank** · up to 82,663,922 EU held above his maximum by ONNEN; past that it goes into his structure
 
 ## VIII. Traits
 
@@ -98,7 +98,7 @@ Flux, Overchannel and Overflow stand at 725 and Absorption and Tolerance at 700,
 He was the hot child of a cold line, and his soul did this before it ever tried. A blow that lands on him does not rebound or tear the way it would in other flesh: his Shell drops the collision's restitution toward nothing, so most of the struck energy stops as heat in the tissue under the impact, the way a dead-blow hammer swallows its own rebound. The spot flushes, swells, burns and hurts, the four old signs of inflammation all at once, and the heat cauterises the wound as it opens, so a cut that would bleed a man white closes in a hiss. The heat stays resident in him rather than radiating, and Exuroth's tempered lattice and his Tolerance let him carry it. The cost is thermal debt: every joule he swallows has to leave, and if he cannot spend it or vent it, it leaves through the nearest organ, so a long fight he does not finish cooks him from inside, and he drinks like a horse after every one. It acts only on energy that arrives as force or heat; cold, poison, starvation of air, soul-work and Limina negation pass straight through it. Its counter is the cold: water, ice and saturated cold ground pull the banked heat out of the struck tissue faster than the Trait can hold it, and a fighter who never trades blows and bleeds him by attrition with things that carry no energy gives the Trait nothing to eat.
 
 **ONNEN · Grudge (Secondary Trait)**
-Forged at the block. What ENSHŌ swallows, ONNEN keeps, on Vantabriel's hysteresis: the heat does not decay, and his Reigan tags each portion with the soul that dealt it, so the bank is a ledger of who owes what. He can hold up to a quarter of his maximum reserve above that maximum, 38,388,750 EU, and he can spend a portion only against its author, where Tarturon couples it to the moral weight of the debt and it burns with the force of the original blow returned. It is always on and it never forgets; every insult that lands as force is entered. The cost is fever: a full bank runs him at a heat that would kill a man and makes him sleepless, and past a quarter the excess has nowhere to go but into the structure holding it, which is a Crystal Fracture Event. Its counter is twofold and findable by anyone who reads Vantabriel's page. Give him nothing to bank: strike from range with energy he cannot thermalise, or never strike him at all. Or overfeed him on purpose, several fighters loading him with more than he can spend, until the bank saturates and the overflow cracks his own lattice. A Catharsis or Lethegraal practitioner who can lay hands on him can also shorten the relaxation time and drain the bank, which he will kill to prevent.
+Forged at the block. What ENSHŌ swallows, ONNEN keeps, on Vantabriel's hysteresis: the heat does not decay, and his Reigan tags each portion with the soul that dealt it, so the bank is a ledger of who owes what. He can hold up to a quarter of his maximum reserve above that maximum, 82,663,922 EU, and he can spend a portion only against its author, where Tarturon couples it to the moral weight of the debt and it burns with the force of the original blow returned. It is always on and it never forgets; every insult that lands as force is entered. The cost is fever: a full bank runs him at a heat that would kill a man and makes him sleepless, and past a quarter the excess has nowhere to go but into the structure holding it, which is a Crystal Fracture Event. Its counter is twofold and findable by anyone who reads Vantabriel's page. Give him nothing to bank: strike from range with energy he cannot thermalise, or never strike him at all. Or overfeed him on purpose, several fighters loading him with more than he can spend, until the bank saturates and the overflow cracks his own lattice. A Catharsis or Lethegraal practitioner who can lay hands on him can also shorten the relaxation time and drain the bank, which he will kill to prevent.
 
 **TSUMI-YOMI · Sin-Reading (Inherited Trait)**
 The Kurenai Reigan reads curse anatomy and soul structure, and in the line's headsmen it reads the record every killing leaves in the Attraction Layer, scar on scar, the way fired clay keeps the dose it has absorbed. In him that reading hardened into a Trait: he cannot look at a chest without counting what it holds, and the count is the moral weight his Tarturon fire burns by. A target with a long record takes GŌKA at full; a target who has never killed takes it at its base and no more. The cost is that he cannot stop reading, and Ignivale's low barrier means a record heavy enough fires his heat before he chooses, which is how he wastes himself on the first butcher in a room while the real threat walks behind him. It reads only what has been done, never what is about to be done, and it reads the dead as nothing. Its counter is a soul with no killing in it, or any ward that returns or quiets a reading, Oblivara's retroreflection or a Tenebra veil, which leaves him counting nothing and burning at base.
@@ -114,15 +114,15 @@ At the block he went into Asami and looked inward instead of out, the Shallow-Se
 ## IX. Domain
 
 **ABI · Without Interval (Domain)**
-The deepest of the hells is the one without a pause, and his Domain is a closed system. The Second Release opens it in one turn, out to a hundred and fifty meters, and inside the field heat cannot cross the boundary, by radiation, conduction or the air: the edge is adiabatic, so by the plain first law every working spent inside, his waste, his enemy's waste, every blow's heat, stays in and the temperature only climbs, second by second, while ONNEN banks from every hostile act inside regardless of whom it struck. It holds 2 minutes 40 seconds from a full reserve, about 960,000 EU a second. The cost is that the law is symmetric: his own heat stays too, so a long Domain cooks him past his Tolerance as surely as anyone, and when it falls the stored heat leaves all at once as a blast from the boundary inward and outward. It is a crude Domain on a B-Grade Dominion with Sovereignty 240: any practitioner of his Stage with stronger Sovereignty and Gravity contests the ground and erodes the field from its edge, bodies can walk out across the boundary even though heat cannot, and anyone who can outlast two minutes forty in an oven, heat-proofed or Abython-equalised, waits for the field to fall on its owner.
+The deepest of the hells is the one without a pause, and his Domain is a closed system. The Second Release opens it in one turn, out to a hundred and fifty meters, and inside the field heat cannot cross the boundary, by radiation, conduction or the air: the edge is adiabatic, so by the plain first law every working spent inside, his waste, his enemy's waste, every blow's heat, stays in and the temperature only climbs, second by second, while ONNEN banks from every hostile act inside regardless of whom it struck. It holds 2 minutes 40 seconds from a full reserve, about 2,067,000 EU a second. The cost is that the law is symmetric: his own heat stays too, so a long Domain cooks him past his Tolerance as surely as anyone, and when it falls the stored heat leaves all at once as a blast from the boundary inward and outward. It is a crude Domain on a B-Grade Dominion with Sovereignty 240: any practitioner of his Stage with stronger Sovereignty and Gravity contests the ground and erodes the field from its edge, bodies can walk out across the boundary even though heat cannot, and anyone who can outlast two minutes forty in an oven, heat-proofed or Abython-equalised, waits for the field to fall on its owner.
 
 ## X. Techniques
 
 **GŌKA · Karmic Fire (Signature Technique)** · mark: Mastered · page: GŌKA
-He breathes in like a bellows, the Covenant Scar on his chest flares black-violet, the Hall Irons go white, and he puts a fist on the target; on contact Tarturon seeds a reaction in the struck body or kit that carries its own oxidiser, so it burns at thermite heat, two and a half thousand degrees, without air, under water, under sand, and cannot be smothered, since water only turns to steam and burst. The base cost is 12% of his reserve, 18,426,600 EU, which delivers 13.1 TJ, S-Grade, a little over three kilotons; against a target with a long record read by TSUMI-YOMI he may pour that target's whole ONNEN account into the same blow, and with a full bank it reaches 56,815,350 EU spent and 40.3 TJ delivered, SS, near ten kilotons, as high as his Stage lets any working of his climb. Against a soul with no killing in it, it runs at base and nothing more. The cost past the EU is the rage itself: the bank spent is gone, and for one turn after he is cooler and slower than he can stand. It needs contact; the fire is placed, never thrown. Before: the breath and the scar flare are a full beat of tell, and stepping out of reach or interposing anything he will hit first spends the working on the wrong thing. During: the reaction lives in what was struck, so shedding the struck pauldron or cutting out the burning flesh ends it, ugly as that is. After: the cool turn that follows is the window, and every crew that has ever hurt him took it there.
+He breathes in like a bellows, the Covenant Scar on his chest flares black-violet, the Hall Irons go white, and he puts a fist on the target; on contact Tarturon seeds a reaction in the struck body or kit that carries its own oxidiser, so it burns at thermite heat, two and a half thousand degrees, without air, under water, under sand, and cannot be smothered, since water only turns to steam and burst. The base cost is 12% of his reserve, 39,678,683 EU, which delivers 28.2 TJ, SS-Grade, about six and a half kilotons; against a target with a long record read by TSUMI-YOMI he may pour that target's whole ONNEN account into the same blow, and with a full bank it reaches 122,342,605 EU spent and 86.9 TJ delivered, SS, near twenty-one kilotons, as high as his Stage lets any working of his climb. Against a soul with no killing in it, it runs at base and nothing more. The cost past the EU is the rage itself: the bank spent is gone, and for one turn after he is cooler and slower than he can stand. It needs contact; the fire is placed, never thrown. Before: the breath and the scar flare are a full beat of tell, and stepping out of reach or interposing anything he will hit first spends the working on the wrong thing. During: the reaction lives in what was struck, so shedding the struck pauldron or cutting out the burning flesh ends it, ugly as that is. After: the cool turn that follows is the window, and every crew that has ever hurt him took it there.
 
 **YAKI-IRE · Quench (Signature Technique)** · mark: Drilled · page: YAKI-IRE
-The swordsmith's word for the moment the blade goes into the water. His first touch drives heat into one spot of steel, iron, stone or bone until steel glows cherry-red above its change point; his second touch on the same spot pulls the heat back out through his palm in an instant, ENSHŌ swallowing it, so steel freezes into brittle martensite and stone and bone crack from thermal shock, and the third blow shatters what the first two prepared. Each cycle costs 1.5% of his reserve, 2,303,325 EU, 1.64 TJ, A-Grade, and refunds a little heat to the bank. It does nothing to wood, leather, cloth, soft flesh or ductile metal: copper comes out of a quench softer, not harder, which the Akagane copper line has known for a thousand years. The tell is a cherry-red handprint that goes black with a hiss on the second touch. Never let him touch the same place twice; temper the struck piece by heating it gently before the second touch, which restores its toughness; or fight him in copper, bronze and leather.
+The swordsmith's word for the moment the blade goes into the water. His first touch drives heat into one spot of steel, iron, stone or bone until steel glows cherry-red above its change point; his second touch on the same spot pulls the heat back out through his palm in an instant, ENSHŌ swallowing it, so steel freezes into brittle martensite and stone and bone crack from thermal shock, and the third blow shatters what the first two prepared. Each cycle costs 1.5% of his reserve, 4,959,835 EU, 3.52 TJ, A-Grade, and refunds a little heat to the bank. It does nothing to wood, leather, cloth, soft flesh or ductile metal: copper comes out of a quench softer, not harder, which the Akagane copper line has known for a thousand years. The tell is a cherry-red handprint that goes black with a hiss on the second touch. Never let him touch the same place twice; temper the struck piece by heating it gently before the second touch, which restores its toughness; or fight him in copper, bronze and leather.
 
 **SENTENCE OF SEVERANCE (House Art, Moto)** · mark: Mastered · page: The Moto Bloodline
 The house's concluding principle, the strike that falls under the weight of a judgment already made. Every Moto uses it on a target already revealed; he uses it on everyone, because TSUMI-YOMI has already judged them. The stare is its tell, and a target his reading cannot see gives it nothing to fall under.
@@ -136,7 +136,7 @@ At Stage XI the First Release no longer needs calling; it is how he stands. His 
 The standing note is the blast furnace with its doors thrown open, and the field the color of a kiln's mouth; it opens and powers the Domain above and holds 2 minutes 40 seconds from full. Held past its limit it is a Crystal Fracture Event along the old line of the block. Afterward he runs Overgrown until he has slept, and he does not sleep well. Step out of the field or contest it with stronger Sovereignty.
 
 **ENMA-CHŌ · Enma's Register (Third Release)**
-The field takes Vantabriel's black-violet at its edges and its deep note sounds under the furnace; inside it ENSHŌ becomes local law two Grades over its base for that effect alone, so no blow lands on him as force at all: all of it arrives as heat and is banked. It holds 50 seconds from full, about 3,071,100 EU a second. Its limit is the bank: everything poured into him goes toward the quarter-reserve saturation line, and a crew that loads him deliberately past it inside ENMA-CHŌ cracks his Crystal with their own blows. Cold, poison, soul-work and Limina negation pass through it as they pass through the Trait.
+The field takes Vantabriel's black-violet at its edges and its deep note sounds under the furnace; inside it ENSHŌ becomes local law two Grades over its base for that effect alone, so no blow lands on him as force at all: all of it arrives as heat and is banked. It holds 50 seconds from full, about 6,613,000 EU a second. Its limit is the bank: everything poured into him goes toward the quarter-reserve saturation line, and a crew that loads him deliberately past it inside ENMA-CHŌ cracks his Crystal with their own blows. Cold, poison, soul-work and Limina negation pass through it as they pass through the Trait.
 
 **Bonded weapon** · The Hall Irons carry the First Release's heat and part of ABI's boundary; taken off him, the boundary of his Domain falls inward a third of its radius
 
@@ -183,7 +183,7 @@ He is tall and lean and hard, built like a drawn wire rather than a wall, all si
 
 ## XVI. Temperance Record
 
-**Level log** · Level 288: the morning of the Hall · Level 372: three centuries of debts collected on the road, each Level slower than the last
+**Level log** · Level 288: the morning of the Hall · Level 372: three centuries of debts collected on the road, each Level slower than the last · Level 398: raised by Isaac's ruling, 2026-10-31, so that he stands above every other Moto; the 546 new points went to Perception, Analysis, Celerity, Reflex, Integrity, Anchoring, Sovereignty (to 275, the top his Path gate allows), Gravity and Regeneration
 **Stage ledger** · Stages I to X, Kurenai Hall of the Blade: climbed by the book, every Catalyst met under the line's discipline, the Realm consolidated under the Hall's own eye · Stage XI, Dissonance: Catalyst at the block in the Hall of Verdicts, meeting the irons' sanction and choosing how to meet it, witnessed by the seven chairs; no re-assay, since nobody who could examine him has been allowed close
 
 He climbed like a Kurenai: quietly, on schedule, every Stage met with the Litany of Alignment and the line's cold hand on the hot child's shoulder. He was the best the Hall had and the Hall knew it, which is why the master-headsman kept him as first hand and why the irons that went on him were forged for a Master. He entered Dissonance the morning of the Hall and has stood in it ever since, three hundred years without passing through, his fractures never becoming features, the brightness of a filament overdriving and never steadying.

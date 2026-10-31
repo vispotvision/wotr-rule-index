@@ -1,0 +1,50 @@
+{
+ "batch1_explaining": {
+  "E1_explainer": "Mixed, by who knows (the person in the room who could really know; a stranger says nothing and the damage teaches)",
+  "E2_timing": "During: slowed down (mechanism and impact run together in one stretched beat)",
+  "E3_reveal_depth": "Mechanism plus cost (the speaker states the price aloud)",
+  "E4_vows": "Spoken, price made physical (declared aloud, the body pays on the page)"
+ },
+ "batch2_shape": {
+  "S1_fight_shape": "Probe, reveal, counter, escalate (each step changes what the reader knows; ends on a cost)",
+  "S2_domain_open": "Called aloud, then formed (name and opening run together, shonen style)",
+  "S3_fight_talk": "Constant (banter, taunts, commentary the whole fight; REVERSES the pauses-only house line in NATALIE Prose 'Fighters talk in the pauses')",
+  "S4_perfect_hit": "Time-slow, senses narrow (Black Flash style; rare)"
+ },
+ "batch3_mind_body": {
+  "M1_fight_mind": "Mix by fighter (analysts think long, brawlers barely think)",
+  "M2_environment": "Wide-shot spectacle (a big paragraph that makes the scale felt)",
+  "M3_counter": "Planted clue, then spotted",
+  "M4_body_cost": "Escalating tells, every few lines (breath, colour, tremor, flicker)"
+ },
+ "batch4_technique_design": {
+  "T1_kit_shape": "One deep mechanism, many uses",
+  "T2_restrictions": "Every strong technique has a stated condition (power bought with a named rule; stronger means more conditions)",
+  "T3_new_uses": "Once per big fight (a clear earned trick, the 'oh, you can do THAT' beat)",
+  "T4_naming": "English name always (CONFLICT FLAG: current rule says called aloud in English OR the speaker's own tongue; Moto/Mahuo naming canon)"
+ },
+ "batch5_rp_fights": {
+  "R1_fight_turn": "A full exchange cycle (your move, their answer, counter, escalation, stop at the next real decision)",
+  "R2_enemy_brain": "Veterans, always adapting (read tells, change plans)",
+  "R3_death": "A sign, an exit, then the blow (current rule stands)",
+  "R4_improve_first": "Mechanism and cost (show how each technique works on the body and what it costs)"
+ },
+ "batch6_prose_texture": {
+  "P1_paragraph_shape": "Long cumulative, several blows (Weak Grade movement; short line when something lands)",
+  "P2_figurative": "Anime-bold hyperbole (mountains, storms, gods clearing throats)",
+  "P3_opening": "The reading of the opponent (POV sizes up kit, stance, wrong assumptions before the first blow)",
+  "P4_ending": "The price lands (finish, then the cost to the winner in body and in what changes)"
+ },
+ "batch7_pain_points": {
+  "Q_pain": "Fights too short or rushed; Techniques too simple; Prose too tidy or flat",
+  "Q_benchmarks": "JJK (Gojo vs Sukuna/Toji); HxH (Gon vs Hisoka/Kurapika); Bleach (Ichigo vs Byakuya/Aizen); Naruto/Cradle/DBZ",
+  "Q_power_gap": "Pressure in the room (lamp flames bend, animals flee, breath shortens)",
+  "Q_prep": "All four: re-read cards and kits; look up real-world basis (Superpower Wiki + physics); look up wounds; outline beats and the counter first"
+ },
+ "batch8_length_depth_heat": {
+  "L1_fight_length": "Three movements (about 1000 / 1500 / 1000 words: feel-out and first reveal; counter, reversal, held-back card; finish and price)",
+  "L2_depth": "All four: interactions and combos; layers revealed during the fight; counters and counter-counters; technique expresses the person",
+  "L3_heat": "All four: kinetic verbs and big sound; ego and bravado; long adrenaline runs; colour and light",
+  "L4_test": "Yes, write a test duel (about 1,500-2,000 words using every answer so far; he marks the lines)"
+ }
+}

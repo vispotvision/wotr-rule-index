@@ -1,0 +1,20 @@
+{
+ "batch1": {
+  "blow_plus_magic": "Carried on the blow (the real hit lands and the technique rides inside it; both damages written)",
+  "explanation_placement": "In narration, as law (stated plainly and moved on; trained POVs and speakers may still give the physics where they have earned it)",
+  "clashes": "By the real physics (natural result of the two phenomena, e.g. fire meets frost: steam and scald)",
+  "technique_count": "As many as it needs (no fixed number)"
+ },
+ "batch2": {
+  "utility_magic": "All four: active defence; movement techniques; sensing and reading; recovery and healing",
+  "weirdness": "By the character (a tinkerer finds bizarre tricks, a brute finds brute ones; the card decides)",
+  "stage_gap": "Mix, scaled to the gap (one Stage hard but fair; two takes a vow or breakthrough; three or more the room shows it and the fight ends like a rope)",
+  "info_war": "Central (fighters scout, bluff, lie about techniques, hide cards; the reveal can win or lose the fight)"
+ },
+ "batch3": {
+  "combos": "Drilled pairs, shown on the page (Resonant Pairs and Synergia; one sets, one finishes)",
+  "weapons": "Weapon as an extension of the art (carries part of the technique and the user's body; no personality)",
+  "aura_in_motion": "A constant visible coat (colour clings, surges at contact, draws back toward the core as reserve falls)",
+  "pc_techniques": "Veteran inventive (new uses inside the card's cost and limit; his PC kit used like a lived-in man)"
+ }
+}

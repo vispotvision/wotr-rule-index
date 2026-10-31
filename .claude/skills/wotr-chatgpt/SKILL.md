@@ -4,7 +4,7 @@ description: How Claude and ChatGPT share War of the Realms work, including imag
 ---
 
 
-> **Superseded in part, 2026-10-31.** Isaac chose to offload only when he asks: Claude does abilities, cards, stats, maps and research in-session, and uses `ask_chatgpt`, Codex or image calls only when he says so. The division of systems to ChatGPT and prose to Claude below no longer governs.
+> **Retired, 2026-10-31.** Isaac no longer has the ChatGPT plan: do not use `ask_chatgpt`, Codex, `chatgpt_image` or any ChatGPT handoff. Claude does abilities, cards, stats, maps and research in-session. If a task needs an image, tell Isaac plainly and carry on without one. The sharing described below no longer governs.
 
 # Claude and ChatGPT on one table
 

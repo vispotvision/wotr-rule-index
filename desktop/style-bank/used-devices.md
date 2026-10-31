@@ -22,3 +22,8 @@ Images, beats and sounds already spent in drafted fights. A new fight does not r
 
 ## Per fight (append below)
 
+
+### The Glass Orchard (2026-10-30)
+- Signature image: wounds that sprout (roots and glass-fern shoots from cuts); a vow that takes the talker's voice; a kill by salt through grafted roots; both fighters silent at the end.
+- Spent: the salt cellar cut open mid-turn as the finishing stroke; a stack of light rings on a spinning blade (Flywheel); a gloved hand ungloved to catch a shaft; sound draining out of the world one piece at a time at the perfect hit; lanterns coming on terrace by terrace as the closing image; "Bollocks" as the release after a vow; a child witness who offers fruit.
+- Sounds: whum, tchk, tok, KRAANG-ng-ng, fffrrrsh, SKRRRRK, KSSHHHHHH.

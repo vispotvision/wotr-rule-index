@@ -3415,3 +3415,9 @@ Context: Table-ops questionnaire batches five and six, 2026-10-31.
 Tooling, intelligence, law and the Quarters (Isaac, 2026-10-31). (1) Four pipelines are one-word commands, built as skills: /fight, /ability, /character, /improve. (2) Natalie grades her own draft silently and fixes it; the exemplar banks are curated by Isaac (Natalie nominates, he chooses); chat is adapted to the job (prose alone, systems work a summary, questions plain answers). (3) Espionage runs each faction's own way (files, people, workings); trials take the shape of their legal tradition (Moto hearing, Dawi tally, Kharven bargain); economic plots are told as people, numbers and an event; the Four Quarters stay distinct by palette, POV lens and culture inventory together. Applied to desktop/NATALIE.md and the four new skills under .claude/skills/.
 
 Context: Table-ops questionnaire batches seven and eight, 2026-10-31.
+
+## 2026-10-31 — new
+
+Levels raised: Tetsugen Akagane 365, Kiyome Byakuya 370, Hayato Amagiri 380, Kasane Byakuya 390 (all Band IV, Stage XI Dissonance), the strongest Moto outside Shōki. Shōki Kurenai Moto raised to Level 398 so he stays the highest. The power is hidden, not retconned: each has masked their true Stage for decades (Kiyome by GLASS, Tetsugen by THE COPPER HEART's held hour, Hayato by RAIN MIST over his Crystal, Kasane by never showing it and then sealing her Crystal in the salt). Archived scenes stand as what the world saw. Cards for the four rewritten 2026-10-31; Shōki's card takes the Level 398 amendment block (figures in the session's shoki_amendment.md).
+
+Context: Isaac, 2026-10-31, after Ten Yards of Summer. He chose Kasane 390 ("strongest of all"), hidden power over retcon, and raising Shōki above Hayato.

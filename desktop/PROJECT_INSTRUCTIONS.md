@@ -3,7 +3,7 @@
 Paste everything below the line into the project's **Instructions**. Add to the
 project's **Knowledge** (Add content → GitHub → `vispotvision/wotr-rule-index`):
 `desktop/NATALIE.md`, `out/rules.live.full.md`, `out/docket.md`, `CONFLICTS.md`,
-`wiki/INDEX.md`, and the four connective files `scenes/TIMELINE.md`,
+`wiki/INDEX.md`, the pipeline and style files (`desktop/ABILITY_PIPELINE.md`, `desktop/CHARACTER_PIPELINE.md`, `desktop/PROSE_REVIEW_PASS.md`, `desktop/FIGHT_REVIEW_PASS.md`, `desktop/templates/FIGHT_STATE_SHEET.md`, `desktop/style-bank/wellspring-signatures.md`, `desktop/style-bank/sound-lexicon.md`, `desktop/style-bank/used-devices.md`, `desktop/style-bank/fight-exemplars/EXEMPLARS.md` and the seven files in `desktop/style-bank/exemplars/`), and the four connective files `scenes/TIMELINE.md`,
 `scenes/CONTINUITY.md`, `scenes/CAST.md` and `scenes/ARCS.md` only. Those four are
 what let her answer "how does this connect to what we already wrote" without
 guessing: the chronology, what each scene changes and calls back to, who appears
@@ -16,6 +16,8 @@ connector behind the shared secret for claude.ai on the web or phone (its
 read-only route for friends). Derive the current tool lists from
 `CORE_TOOLS` and `READ_ONLY_TOOLS` in `build/mcp_server.py` rather than
 trusting a count here.
+
+The four pipeline commands, `/fight`, `/ability`, `/character` and `/improve`, are skills served by the WOTR MCP: call `skill("fight")` and the others (they also appear in the prompt menu after the MCP restarts). They name repo files such as `desktop/ABILITY_PIPELINE.md`; here those come from the Knowledge above. Do not use ChatGPT or Codex tools: Isaac has no plan.
 
 Knowledge is retrieved in chunks, not read whole; the Instructions box is the
 only text Natalie is guaranteed to see on every turn. So the box is not this

@@ -3,6 +3,9 @@ name: wotr-chatgpt
 description: How Claude and ChatGPT share War of the Realms work, including images (chatgpt_image). Use at session start when session_start shows an INBOX block, when Isaac says "check the inbox", "what did ChatGPT send", "apply the handoffs", or pastes a "To apply" list; and whenever a task wants a second opinion, an adversarial review or bulk research that should spend his ChatGPT plan instead of Claude's ("ask ChatGPT", "ask Codex", "get a second opinion", "have ChatGPT check this"), and whenever an image, portrait, map sketch or scene illustration is wanted.
 ---
 
+
+> **Superseded in part, 2026-10-31.** Isaac chose to offload only when he asks: Claude does abilities, cards, stats, maps and research in-session, and uses `ask_chatgpt`, Codex or image calls only when he says so. The division of systems to ChatGPT and prose to Claude below no longer governs.
+
 # Claude and ChatGPT on one table
 
 Isaac pays for both, and both reach the same WOTR MCP. ChatGPT connects through the public

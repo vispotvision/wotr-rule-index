@@ -22,5 +22,17 @@
   "creatures": "Written in the scene, filed after (invented in the writing; a bestiary entry made when it recurs)",
   "villains": "By the card (a villain is a person: refusal, want, voice, numbers, backstory, sealed facts)",
   "arc_plan": "All four: the Fronts and their clocks; anchor scenes and the ending; cast and their wants; seeds and plants"
+ },
+ "batch5_review_notes_culture": {
+  "review_checks": "All four: swap test for voices; recycled imagery and stock devices; thought and reaction after every beat; sense variety and lived-in rooms",
+  "review_run": "Every scene I write (a silent self-check before posting, fixes made before Isaac sees it)",
+  "research_notes": "A shared research file (one rolling, searchable file, a heading per topic, under research_notes/)",
+  "culture_builder": "From art and from you (his art or description sets the culture; otherwise minimal)"
+ },
+ "batch6_archive_discord_offload_publish": {
+  "archiving": "By scene weight (set pieces held for his word; ordinary turns archive at scene end)",
+  "discord_posts": "By scene (talk and travel one draft; fights and contests a draft and a rulings card)",
+  "offloading": "Only when you ask (everything done here unless he says 'ask ChatGPT'; supersedes 'ChatGPT = systems, Claude = prose')",
+  "publishing": "Private by default, you promote (new cards, techniques and scenes stay off the public site until he says so)"
  }
 }

@@ -3391,3 +3391,9 @@ Context: Character-pipeline questionnaire, four batches, 2026-10-31.
 Review, notes, archiving, offloading and publishing (Isaac, 2026-10-31). (1) Every scene Natalie writes gets a silent prose review pass before posting (desktop/PROSE_REVIEW_PASS.md: voice swap test, recycled imagery against the used-devices ledger, thought and reaction kept to the turns, sense variety and lived-in rooms), with fixes made before Isaac sees it. (2) Research notes live in one rolling file under research_notes/, a heading per topic. (3) A new culture is set by Isaac's art or description, otherwise minimal and grown in play. (4) Archiving is by scene weight: ordinary turns archive at scene end, set pieces wait for his word. (5) Discord posts: talk and travel one draft, fights and contests a draft plus a rulings card. (6) Natalie does all systems and research work in-session and uses ChatGPT or Codex only when Isaac asks; this supersedes the 2026-10-06 split (systems to ChatGPT, prose to Claude). (7) New pages, cards, techniques and scenes are private by default until Isaac promotes them. Applied to desktop/NATALIE.md and the wotr-chatgpt skill.
 
 Context: Character-pipeline questionnaire batches five and six, 2026-10-31.
+
+## 2026-10-31 — new
+
+No ChatGPT or Codex (Isaac, 2026-10-31). Isaac no longer has the ChatGPT plan, so ChatGPT and Codex are not used at all: no ask_chatgpt, no Codex, no chatgpt_image, no ChatGPT handoff. Natalie does all systems, research and review work in-session. The cross-read is retired; when he wants a second opinion Natalie gives her own hard read with the line-editor brief. This replaces the earlier 'only when you ask' offloading answer and the 2026-10-06 split of systems to ChatGPT. Applied to desktop/NATALIE.md (Cross-read, Pipelines) and the wotr-chatgpt skill.
+
+Context: Isaac: he no longer has the $100 ChatGPT plan, so do not use it at all.

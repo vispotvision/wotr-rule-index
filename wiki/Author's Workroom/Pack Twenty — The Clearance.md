@@ -4,6 +4,8 @@ title: "Pack Twenty — The Clearance"
 
 # Pack Twenty — The Clearance
 
+> **Superseded in part.** The island name in the Agamalu and Vāimoana section below was later ruled back to **Yasoshima** (C-004, 2026-09-12; see `build/renames.yaml`). Vāimoana is a stale name; this page keeps the pack's record as it stood.
+
 *Every open docket item ruled. Both conflicts closed. Büri confirmed dead and the sweep scoped. Ruling codes run R20C-* to avoid collision with the Naming Guide Amendment's R20- *series.*
 
 Authority: Pack Eighteen repealed the ratification protocol. Everything here is live on reading. The full reasoning sits in `WOTR_Companion_Guide_Amendments_Pack_Twenty.md`; this page is the operative list.

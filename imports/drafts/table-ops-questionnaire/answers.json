@@ -34,5 +34,17 @@
   "refusal_hinge": "All three (word and body, the card, and honest dubcon where the mismatch is real; the consequence follows)",
   "aftermath": "Mixed (consequence, tenderness and a hook, as the scene earned)",
   "pov": "Whoever the scene needs (the POV chosen by who is most affected and who can see the right thing)"
+ },
+ "batch7_tooling": {
+  "commands": "All four: /fight, /ability, /character, /improve (one-word commands for the pipelines)",
+  "self_grade": "No, just fix it silently (the scene arrives clean)",
+  "exemplar_curation": "You curate (Natalie nominates candidates; Isaac chooses what goes in and out)",
+  "chat_style": "Adapted to the job (prose gets nothing but the prose, systems work a summary, questions plain answers)"
+ },
+ "batch8_factions_law_economy": {
+  "espionage": "All three, by the faction (a guild uses files, a house uses people, a sect uses workings)",
+  "law": "By the legal tradition (a Moto hearing, a Dawi tally, a Kharven bargain each have their own shape)",
+  "economy_plots": "Layered (people, numbers and an event in the proportion the arc needs)",
+  "quarters": "All of these (palette sets the base, the POV sets the lens, the inventory sets the detail)"
  }
 }

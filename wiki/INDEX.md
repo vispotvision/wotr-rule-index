@@ -6,7 +6,6 @@
 
 - [[A Reader's Codex|A Reader's Codex]]
 - [[Start Here|Start Here]]
-- [[Who's Who, the Starting Threads|Who's Who: the Starting Threads]]
 
 
 ## Artifacts

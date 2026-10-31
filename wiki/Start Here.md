@@ -13,8 +13,7 @@ War of the Realms is a dark shonen cultivation fantasy set in a magitech world, 
 1. **[[The Magic System/First Steps/How Magic Works|How Magic Works]]**. One page on the whole system in plain words: the Soul Crystal (the organ in the soul that stores power and sends it out), Stages, Grades, Traits, releases, Drafts and what everything costs. Start here even if you skip everything else.
 2. **[[A Reader's Codex|A Reader's Codex]]**, listed in the wiki as the **Glossary**. The world on one page, the history in brief, and forty terms the stories assume you know. Keep it open in a second tab.
 3. **[[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]]**. The numbers a scene throws at you (Stage, Grade, Level, reserve, coin) on one sheet, with what each one means at the table.
-4. **[[Who's Who, the Starting Threads|Who's Who: the Starting Threads]]**. The people at the centre of each live story, who they are and what they want, without the spoilers.
-5. **[[Factions, Bloodlines & Institutions/Factions at a Glance|Factions at a Glance]]**. The crowns, guilds, houses and sects that push the stories, each in a line or two: what it is and what it wants.
+4. **[[Factions, Bloodlines & Institutions/Factions at a Glance|Factions at a Glance]]**. The crowns, guilds, houses and sects that push the stories, each in a line or two: what it is and what it wants.
 
 ## The Magic System, in reading order
 

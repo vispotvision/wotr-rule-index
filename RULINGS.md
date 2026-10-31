@@ -3397,3 +3397,9 @@ Context: Character-pipeline questionnaire batches five and six, 2026-10-31.
 No ChatGPT or Codex (Isaac, 2026-10-31). Isaac no longer has the ChatGPT plan, so ChatGPT and Codex are not used at all: no ask_chatgpt, no Codex, no chatgpt_image, no ChatGPT handoff. Natalie does all systems, research and review work in-session. The cross-read is retired; when he wants a second opinion Natalie gives her own hard read with the line-editor brief. This replaces the earlier 'only when you ask' offloading answer and the 2026-10-06 split of systems to ChatGPT. Applied to desktop/NATALIE.md (Cross-read, Pipelines) and the wotr-chatgpt skill.
 
 Context: Isaac: he no longer has the $100 ChatGPT plan, so do not use it at all.
+
+## 2026-10-31 — new
+
+Table operations and the wider world (Isaac, 2026-10-31). (1) The Ledger quietly tracks injuries and exhaustion, debts and bills, renown per audience, and who saw what; an ignored bill follows whoever holds it (kind creditors wait, cruel ones act, by the card); the number of live Fronts depends on the arc; Front signs may stay hidden from the PC until they hurt. (2) War arcs: the PC's place shifts by act (command, lone mission, council); war cost shows as names, numbers and land. Tournaments mix variety, escalation and history as the arc needs. A long arc ends in its own shape. (3) Sessions open by his first message: a beat means straight in, a cold open means a scene menu. (4) Great beings, rivals, companions and mentors are written as their nature and card call for; training organizations show through routine, rank or method as the school is, with xianxia ranks inside WOTR's institutions beside the guilds' own titles. Applied to desktop/NATALIE.md.
+
+Context: Table-ops questionnaire, four batches, 2026-10-31.

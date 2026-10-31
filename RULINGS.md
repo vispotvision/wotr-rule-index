@@ -3295,3 +3295,9 @@ Context: 2026-10-29, Isaac: "We need to make the houses of the inner world south
 Onomatopoeia, used freely and often, manga and anime style. Every hit that lands, every technique, aura, Release, machine and working gets its sound on the page, either italic in the sentence (*krang*) or on its own line for a big hit (*KRRAK.*), with capitals and stretched letters for size and length. Each sound fits its material and size, and techniques and auras fire with their card sound written out. Pressure, dread and silence have sounds. Culture colours the sound: a Moto or Japonic POV may hear manga SFX (don, gogogogo, zawa zawa, shiin), a Kharven or Common POV hears English ones. Explicit scenes write the bodily sounds as plainly as the anatomy. There is no count, and verify_scene does not flag it. Tags: prose-law, combat, magic-mechanism, register.
 
 Context: 2026-10-29, Isaac: "We should set wotr up to utilize more Onomatopoeia". Written into desktop/NATALIE.md under The page (commit e911b20). Checked against build/verify.py: italic and standalone sound-words pass without a FAIL or WARN.
+
+## 2026-10-30 — R61-8-NECROCURSICA_SEVEN_UNMOORINGS
+
+Agent ruling (Natalie), grounds: Isaac 2026-10-30, "all the god hand stuff etc isn't apart of new world", and commit f1da4f3 retired the God Hand account as retconned (canon hierarchy rung 1). The rule's last sentence, "Grade III and the God Hand page's 'two sevens' stay true", points at a retired page and is void. The rename itself stands: the Heresiology keeps 'Seven Cacodaemonic Corruptions' and the Necrocursica's seven are the Seven Unmoorings. The God Hand is not new-world canon, so no 'two sevens' claim rests on it. Isaac may overturn.
+
+Context: Found in a repo sweep for old lore leaking into the new world. The Cymorath portfolio ruling (rules/doc-cymorath-portfolio-ruling.yaml) also lists the God Hand page among pages edited; that is a historical record and is left as written.

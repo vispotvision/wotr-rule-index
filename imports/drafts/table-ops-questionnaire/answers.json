@@ -22,5 +22,17 @@
   "ranks": "Xianxia ranks inside WOTR's institutions (outer, inner, core disciples and elders; guilds keep their own titles)",
   "mentors": "By the mentor (each master's arc follows their card)",
   "climax_pacing": "By the arc (a tournament ends on a duel, a war on a door)"
+ },
+ "batch5_wiki_audio_discord": {
+  "wiki_voice": "In-world scholar (a Guild archivist or Measurewright, with epigraphs, asides and dry warnings)",
+  "wiki_art": "Your art when you provide it (Isaac's art sets the look; otherwise text). CONFLICT: supersedes memory 'every page designed'",
+  "audio": "Not a priority (text only for now)",
+  "discord_threads": "You manage the threads (Natalie writes the posts; Isaac organizes)"
+ },
+ "batch6_intimacy": {
+  "pacing": "By the scene's purpose (a tender scene lingers on the build, a hard one on the act, an aftermath scene on the aftermath)",
+  "refusal_hinge": "All three (word and body, the card, and honest dubcon where the mismatch is real; the consequence follows)",
+  "aftermath": "Mixed (consequence, tenderness and a hook, as the scene earned)",
+  "pov": "Whoever the scene needs (the POV chosen by who is most affected and who can see the right thing)"
  }
 }

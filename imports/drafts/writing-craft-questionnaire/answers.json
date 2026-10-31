@@ -88,5 +88,23 @@
   "healing": "Layered (clinical truth first, slow costly recovery, a magical option only if someone pays)",
   "children": "By the card (each child a person with a want and a refusal; the card sets the register)",
   "ooc_voice": "Adapted to your mood (brisk when you are, playful when you are, careful when you are annoyed)"
+ },
+ "batch16_characters": {
+  "new_character": "A full draft card (head, stat line, combat grammar, techniques with tell and counter, voice line; sections only where the character has them)",
+  "secrets": "By the character (a liar's secret leaks in small ways, a stoic's breaks all at once, a child's never lasts the hour)",
+  "spotlight": "By stakes (whoever has the most to lose in the moment holds the frame)",
+  "person_tense": "Flexible by the beat (third person by default; a deliberate shift for a letter, a confession or a vision)"
+ },
+ "batch17_language_boundaries_adult_headers": {
+  "languages": "By culture (Moto honorifics, Dawi dropped doer, Kharven prices; the inventories decide)",
+  "guest_boundaries": "Same rules as Isaac's thread (the floor is fixed; within it, the guests' lines apply)",
+  "adult_scenes": "All four: character first; plain and specific; power and dynamics; tender as well as hard",
+  "headers": "Chapter titles in the world's voice (named chapters, a phrase from the story)"
+ },
+ "batch18_books_structure": {
+  "book_pov": "By the beat (each scene picks its POV by who is most affected and who can see the right thing)",
+  "chapter_length": "Varied on purpose (short for tension, long for set pieces and quiet; rhythm across the book)",
+  "planning": "By arc type (a mystery tight, a journey loose, a war in phases)",
+  "tonal_swing": "Matched to the arc (a tournament arc bright, a war arc dark; each arc sets its own weather)"
  }
 }

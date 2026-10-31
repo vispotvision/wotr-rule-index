@@ -28,7 +28,7 @@ owner: <creator, if not an NPC>
 **<NAME>** · <title> · <culture> · as of <moment>
 **Stat line** · Level <n> · Band <I–V, name> · Stage <numeral, Fracture of Worlds name> · Path <Path> · <Tier of Standing by name> · η <value> · Aether Class <class> · Crystal <Tier>, <State>
 **Combat grammar** · <Verdict | Blade | Percussion | Expenditure> (R71-69)
-**Aura and sound** · colour: <Family hue at Stage clarity, e.g. ember-orange, dual-toned> · signature sound: <…> (R78-6, R78-10)
+**Aura and sound** · color: <Family hue at Stage clarity, e.g. ember-orange, dual-toned> · signature sound: <…> (R78-6, R78-10)
 **Stack** · sustainable <Grade> · cap +2 Grades · layers: <releases, vows, Drafts, tags in play> (R78-10)
 **Releases** · <NAME> (First Release) / <NAME> (Second Release) / … · bonded weapon: <…, or none> (R78-10)
 **Traits** · <NAME> (Primary) · tell: <…> · counter: <…> / <NAME> (Secondary) · tell: <…> · counter: <…> / …
@@ -243,4 +243,4 @@ owner: <creator, if not an NPC>
 
 ## Lore
 
-<History, ties, rumour, anything that does not fit a section above.>
+<History, ties, rumor, anything that does not fit a section above.>

@@ -10,7 +10,7 @@ Filled before a fight or set piece is drafted, kept in the author notes, updated
 
 ## 2. Fighters (one row each, rewritten at every movement)
 
-| Fighter | Position | Distance to each other | Weapon in hand | Aura colour and state | Reserve (full / half / quarter / tenth) | Wounds that carry | Knows about the other | Lying about |
+| Fighter | Position | Distance to each other | Weapon in hand | Aura color and state | Reserve (full / half / quarter / tenth) | Wounds that carry | Knows about the other | Lying about |
 |---|---|---|---|---|---|---|---|---|
 
 Rules for the sheet: a wound listed here is felt in every later exchange (a dead leg is not planted on; a broken hand cannot grip); a weapon listed as dropped stays dropped until a beat picks it up; distance changes only by a stated step, lunge, throw or push.

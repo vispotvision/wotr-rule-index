@@ -15,7 +15,7 @@ Images, beats and sounds already spent in drafted fights. A new fight does not r
 - Dying villain who confesses a patron ("you know who sent me?") and asks for a small mercy.
 - "Burn it down. Somebody. Please." and a small kindness to the loser at the end.
 - A chain, a hook or a rope dropped from a beam by an ally in the rafters.
-- A vow paid in a sense organ (ear, eye) with the organ greying or whitening.
+- A vow paid in a sense organ (ear, eye) with the organ graying or whitening.
 - A kill-ending where the broken chest "lay open" with the heart visible.
 - "Friend" as the villain's address; "Oh, that's good!" as the showman's joy at a wound.
 - Sound-words used: KRAAAK, KRANG, KRUMP, KRRUNCH, TONK, TANG, GOOOOOOM, KSSSSSHHHH, KRAKA-DOOM. Fresh sounds for fresh impacts.

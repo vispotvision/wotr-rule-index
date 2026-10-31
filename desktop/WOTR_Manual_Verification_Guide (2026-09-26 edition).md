@@ -7,7 +7,7 @@
 > - **Check 11 (scene ending).** A chapter or arc closes on a hook; a scene on any concrete close, a pressing question included; a turn stops at his next real decision (R79-1, R79-4).
 > - **Checks 12, 13, 16, 20, 21 and 22 (paragraph variance, sentence variance and the rhythm law, the chain and the run, fragments, openers, filter verbs).** Retired: prose carries no statistics. A revelation may take a short line and its consequence gets room; a one-line paragraph stands wherever the movement earns it (R79-3).
 > - **Check 29 (signature items per session).** Retired with the Kharven recurrence minimum; the items stay as Inventory texture, and Inventories are reference with no sizes (R79-3). The "one world-only detail per beat" read under "The checker is a floor" goes with it (R79-3); invented texture stands as canon once archived (R79-4).
-> - **Check 30 (combat vocabulary).** Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. Fight jargon, Eastern or Western, is free and never required, so the zero-school-terms WARN goes. Misses may be summed in a sentence; every hit that lands gets its own clause (R79-6). Roleplay fights show the full mechanism like a set piece (R79-6, superseding R77-2).
+> - **Check 30 (combat vocabulary).** Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behavior. Fight jargon, Eastern or Western, is free and never required, so the zero-school-terms WARN goes. Misses may be summed in a sentence; every hit that lands gets its own clause (R79-6). Roleplay fights show the full mechanism like a set piece (R79-6, superseding R77-2).
 > - **Check 31 (anatomy).** Wounds are plain and anime on the page, full gore and geysers; clinical names and haemorrhage class live in the notes and a medic's mouth (R79-6).
 > - **Check 32 (causal connectives in fights).** A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands; the two-voice and one-read caps retire (R79-6).
 > - **Figures in fights.** In a fight, figures live in mouths, never narration; no readout inside a fight (R79-6).
@@ -511,7 +511,7 @@ Sentence CV: ≥ 80% good; 50–80% moderate; < 50% uniform, the strongest struc
 
 **By hand:** search for delve, echo, numinous, sovereign, sanctum, weave, ledger; each hit must be the WOTR sense.
 
-**Fix:** a plain synonym ("dig", "rang back", "wove" → "plaited").
+**Fix:** a plain synonym ("dig", "rang back", "wove" → "braided").
 
 ---
 

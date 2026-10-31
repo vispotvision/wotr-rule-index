@@ -23,7 +23,7 @@ Crows of Fate: a bloodline that saw the threads before the world was ready to sh
 **Senses:**
 - *Smells:* cedar and limestone, clean; ink, once a Yukari is old enough to carry it; oiled cloth around old stone; broth steam at a desk where the tools have gone cold.
 - *Sounds:* the Quiet Weight, a room going attentive; a hand set on a child's head; bare feet on stone; the pause between a Yukari's sentences; the midwinter reading carried down from the gate.
-- *Colours:* silver threading through dark; violet-black at the pupil; crimson where the corona has taken the whole iris; black hair with shimmer; the grey of Senri's stone.
+- *Colors:* silver threading through dark; violet-black at the pupil; crimson where the corona has taken the whole iris; black hair with shimmer; the gray of Senri's stone.
 - *Textures:* a stone worn smooth by weather and use; oiled cloth; thread-marks felt as faint ridges under the fingertip; paper and scroll edges.
 - *Tastes:* broth gone lukewarm because it was forgotten; dumplings; cold well water on the stone above the gate.
 
@@ -34,7 +34,7 @@ Crows of Fate: a bloodline that saw the threads before the world was ready to sh
 - **Dhaerin.** The master at Vaeloris who taught the Crow to carve, dead of the rite that sealed Cozbi Mahuo.
 
 **Folk beliefs** (held in the valley about the house, and in part by the house):
-- **The eye takes a parent.** When a Yukari child's corona comes in, one of its parents will begin to weaken, so neighbours bring food to the father's door.
+- **The eye takes a parent.** When a Yukari child's corona comes in, one of its parents will begin to weaken, so neighbors bring food to the father's door.
 - **The Crow's Audit sees sin.** A Yukari looking at you sees what you have done wrong, so people in the valley look away from a Yukari's eyes.
 - **A true name pulls the thread.** Whoever learns a Yukari's true name can pull on his fate, so the true name is never said outside family, Council, a Proving or the stone.
 - **Grief opens the eye.** A Yukari who has not grieved cannot really see, so the valley pities a child with a quiet life.

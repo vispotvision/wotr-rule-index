@@ -23,7 +23,7 @@ A frontier that became a kingdom because its gate posts were failing and one peo
 **Senses:**
 - *Smells:* cedar and limestone; sap weeping from new wall boards; ink off an inscription roll; the mineral weight of a Wellspring-saturated valley; broth steam over root vegetables; dried fish; boreal forest after rain.
 - *Sounds:* a mallet on a practice stone, and the stroke that lands late; a carver tapping a footing and listening; a Thread-Reading from the standing-stone gate; a courier's horse on a warded track; lake water on a fishing boat's hull; a tavern at Nalūn's Rimward arguing about the Holy Sea.
-- *Colours:* raw timber, pale and wet; grey limestone ridges; the brown of birch bark; ward-cut glyphs the colour of the stone they are cut in, since a Ketsuen ward shows nothing; chain-lakes in glacial scars.
+- *Colors:* raw timber, pale and wet; gray limestone ridges; the brown of birch bark; ward-cut glyphs the color of the stone they are cut in, since a Ketsuen ward shows nothing; chain-lakes in glacial scars.
 - *Textures:* sticky sap on a beam; a glyph groove under the thumb; a braided-leather cord; cold stone at the gate worn smooth by centuries; wet cedar bark.
 - *Tastes:* the broth that tastes of the kingdom; dumplings; lake fish; Upland herbs, bitter; well water from a warded stone, flat and clean.
 
@@ -38,7 +38,7 @@ A frontier that became a kingdom because its gate posts were failing and one peo
 - **Wet beams keep the ward young.** Sap weeping from the timber is the ward drinking, so a house is never dried out with fires in its first years.
 - **The Crow reads each of us at midwinter.** At the Thread-Reading the Crow sees every citizen's thread and knows who has done wrong, so people settle quarrels and confess debts in the weeks before midwinter.
 - **Deep-water fish make gifted children.** The big, regular fish of the lake districts' deep waters carry the gift, and a pregnant woman is fed them daily.
-- **The perimeter reads your heart.** The ward-line knows whether a traveller means harm, so honest people walk the track openly and at a steady pace.
+- **The perimeter reads your heart.** The ward-line knows whether a traveler means harm, so honest people walk the track openly and at a steady pace.
 
 **Literacy:** High among the Proven, since a Proving is a review of written records presented in public, and every citizen hears the Telling on completing it. Lower among the Unproven and on the frontier, where letters go on birch bark and are read aloud at the station. The Academy and Vaeloris read everything, including the ward grammar most people cannot.
 

@@ -17,7 +17,7 @@ Seven parts, in this order, in as many sentences as the blow earns:
 2. **Read**: what the other fighter saw and how they moved (the duck, the check, the turn).
 3. **Contact or miss**: what part touched what part, or what the miss hit instead (a wall, a lamp, air that cooled a neck).
 4. **Tissue**: what it did to skin, muscle, nerve, bone, tooth, organ. Named, specific, ugly.
-5. **Sound and blood**: the sound-word, the colour and motion of blood, the smell.
+5. **Sound and blood**: the sound-word, the color and motion of blood, the smell.
 6. **Reaction**: what the body did (breath, stagger, grin, scream, silence).
 7. **Next position**: who stands where now, who has the weight, what the next blow now costs or opens.
 
@@ -32,7 +32,7 @@ Homer's six, stretched by dark shonen: approach; the named target; the weapon's 
 - Per blow: wind-up and mechanics; exact target and contact; flesh and bone damage; sound, blood and reaction.
 - Every blow written, landed or not.
 - Between blows: footwork and position; breath, fatigue and pain; the mind reading the fight; talk, taunts, reactions.
-- Technique firing: colour and glow; sound and called English name; ground and wall damage; speed and afterimages.
+- Technique firing: color and glow; sound and called English name; ground and wall damage; speed and afterimages.
 - Gore at kills and turning points: limbs and heads; viscera and marrow; bone through skin and crushed bodies; lingering on the dying.
 - Aftermath: wounds that stay; who saw; the dead and the grief; the bill that comes due.
 
@@ -42,7 +42,7 @@ Homer's six, stretched by dark shonen: approach; the named target; the weapon's 
 - **Body**: olecranon, floating rib, jaw hinge, orbital bone, collarbone, sinew, tendon, marrow, gristle, viscera, brachial artery, windpipe.
 - **Blood**: arc, geyser, sheet, spatter, spray, bead, rope, steam on cold air.
 - **Sound**: *KRAAAK*, *THUD*, *SHHHK*, a wet crack like a green stick, a crunch like boot on frozen snow.
-- **Heat**: bravado, taunts, laughter, savouring, a fighter who loves it.
+- **Heat**: bravado, taunts, laughter, savoring, a fighter who loves it.
 
 ## Model passage
 

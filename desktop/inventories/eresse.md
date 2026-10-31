@@ -5,7 +5,7 @@ High elves of the Grand Principality who turned a shared calendar into law and h
 **Senses:**
 - *Smells:* granary bread; bark tea, sharp and green-bitter; sap syrup boiling down; game, dressed after the Asking; boiled root; mineral water set out blood-warm; fresh-cut ironwood, cut under restriction; cool earth in council chambers built partly below grade; ink for the Songscript rail; gold, which smells of nothing, and the hand that held it.
 - *Sounds:* "Elaruren," on a falling tone; a name answered in "-ama," and the room hearing it; the light tapped r; a Concord speaker flattening the tone; two jurists reading a deposition in alternation; the Asking spoken over game; a voice rising for the unfinished, falling for the settled; song, the only use of volume; the pen of a copyist recopying the rite calendar; the ceremonial bow's string.
-- *Colours:* Sacred Gold; ironwood; sap syrup amber; granary brown; the half-light of a chamber below grade; the ink line of the rail above the text; the eight turnings' own light: First Green, Long Sun, Deep Dark, Returning Light; clear water in a cup.
+- *Colors:* Sacred Gold; ironwood; sap syrup amber; granary brown; the half-light of a chamber below grade; the ink line of the rail above the text; the eight turnings' own light: First Green, Long Sun, Deep Dark, Returning Light; clear water in a cup.
 - *Textures:* gold, heavy and soft, warming fast in the hand; the ironwood bow's grip; water at blood heat on the tongue; a light-boned hand that breaks cleanly; bark; sap syrup on the fingers; a page of the calendar, recopied without variation; stone steps down into a council chamber.
 - *Tastes:* granary bread; game with the Asking spoken over it; boiled root; sap syrup; bark tea; mineral water, blood-warm, flat and faintly salt; bark tea steeped past its window, and too bitter; sap scorched in the pan.
 
@@ -43,7 +43,7 @@ The elves swear in the common tongue and in Vey-Elarin words dropped into it. Th
 | Unasked. | Taken without the Asking over wood, water, game or stone. | hard | Said of a thief of the land, a poacher, a road-builder; any branch, Varrisak most |
 | Transcript. | One who mistakes a filing system for a memory. | firm | Varrisak of Eresseans, and of any clerk |
 | Seral take it. | Let the winter have it. | mild | The Eladrin "damn it"; the northern courts |
-| Past nine. | A silence held past the nine-count. | grave | Eladrin; not a word at all but a silence counted past refusal into judgement; to say "past nine" of a man means he is judged |
+| Past nine. | A silence held past the nine-count. | grave | Eladrin; not a word at all but a silence counted past refusal into judgment; to say "past nine" of a man means he is judged |
 | Unpaid. | Worse than absent: a position, not a fact. | hard | Drow of Korvaeth; also "out of term" for a debt gone past its day |
 | By the Realmsong. | On the song Florwyn sang the kin into being with. | firm (solemn) | Elven oath-exclamation outside a court, where "Uren" (witnessed) is the formal one |
 

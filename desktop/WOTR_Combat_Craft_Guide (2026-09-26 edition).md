@@ -16,12 +16,12 @@
 
 ## Pack Twenty — The Clearance (`rules/pack-20-twenty.yaml`), cross-referenced as quoted substance, not folded as amendments
 
-All seven rows carry `amends: null`. Each is quoted verbatim with its id at the section it touches and is labelled a cross-reference; none is presented as a Combat Craft Guide amendment, and no base sentence is changed on their authority.
+All seven rows carry `amends: null`. Each is quoted verbatim with its id at the section it touches and is labeled a cross-reference; none is presented as a Combat Craft Guide amendment, and no base sentence is changed on their authority.
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** — §2, after the ballistics ruling: the three tiers (the Item & Equipment Writing Guide's, R11-3-AMMO_TIERS) are ratified "subject to R20C-26"; quoted in full.
 - **R20C-24-PHYSICAL_UNIT_CEILING** — §6, after the density budget: Joules and m/s in a Measurewright's or Guild officer's mouth, weight-and-reach for everyone else; quoted in full. Pointer added at §8's "exact numbers" sentence.
 - **R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED** — §3, after R13-6's call for a hammer master-strike table: the table is Dawi-authored in-world; quoted in full. Also listed in Appendix A as owed, since the table itself is still unwritten.
-- **R20C-26-STEEL_STOPS_THE_SHOT** — §2, new "Armour and shot" paragraph, quoted in full; the same sentence quoted again at §4.4 beside the base line "A proofed firearm round is the other actual answer". The base line is left as it stands.
+- **R20C-26-STEEL_STOPS_THE_SHOT** — §2, new "Armor and shot" paragraph, quoted in full; the same sentence quoted again at §4.4 beside the base line "A proofed firearm round is the other actual answer". The base line is left as it stands.
 - **R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME** — §9, after the eight gap-fill steps: quoted in full as the bound on the pass.
 - **R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED** — §1, beneath the assignments table: quoted in full as confirmation of the Black Agent, Rengai, and Yoko rows. It spells "Rengai Zettai"; quoted as written, with a spelling note that C-005 ruled Zettari. Its closing sentence, "Remaining assignments run with Combat Guide 3e", is recorded as owed in Appendix A; no further assignment is made.
 - **R20C-58-REGISTERS_FLAVOUR_NOT_LAW** — §6, in the new "Whose voice, at what distance" note: quoted in full. The Moto register "gets built with Combat Guide 3e" and is recorded as owed in Appendix A, not built.
@@ -34,11 +34,11 @@ All seven rows carry `amends: null`. Each is quoted verbatim with its id at the 
 
 ## Judgment calls (this edition's, not rules)
 
-1. **Where the cross-references sit.** The Pack Twenty and R39/R41 rows name no locus in this guide (`amends: null` or another guide). Each was placed at the one section whose base text it visibly bears on: ammunition and armour-versus-shot in §2 (and §4.4 for the plate line); the hammer table in §3; physical units and voice/distance in §6, which is where the floor names its speakers and its diagnostic voice; the stat rulings in §7, which is the only section that reads stats off a card; the gap-fill bound in §9. Nothing was placed in two sections except R20C-26 (§2 and §4.4, same sentence both times) and R20C-24 (§6 quote, §8 pointer).
+1. **Where the cross-references sit.** The Pack Twenty and R39/R41 rows name no locus in this guide (`amends: null` or another guide). Each was placed at the one section whose base text it visibly bears on: ammunition and armor-versus-shot in §2 (and §4.4 for the plate line); the hammer table in §3; physical units and voice/distance in §6, which is where the floor names its speakers and its diagnostic voice; the stat rulings in §7, which is the only section that reads stats off a card; the gap-fill bound in §9. Nothing was placed in two sections except R20C-26 (§2 and §4.4, same sentence both times) and R20C-24 (§6 quote, §8 pointer).
 2. **The one-sentence glosses beside R39-1 and R39-4 in §7 are this edition's reading, not rule text.** They say only that a named Primary is read as its Sub-Stat total with the Grade as the mean, and that an above-bracket Sub-Stat is reached only under strain, never by allocation. Both restate the quoted verbatim; neither adds a number, a bracket, or a stat the ruling does not name. R39-2 (Dominion's count) is pointed to by id, not quoted, because the adjudication table reads Dominion and the reader should know its count is ruled separately. R20C-24 and R20C-27 likewise each carry one sentence of placement ("this governs the vocabulary, by speaker"; "the outcome stands and the author notes carry the flag") that restates the quoted ban in the guide's own terms and adds nothing to it.
 3. **"Zettai" kept in the §1 name column, with a note.** C-005 (Isaac, 2026-09-12) ruled the bloodline Zettari everywhere. The 2026-09-12 edition's table spells Rashani, Rengai, and Dougou "Zettai", matching the Pack One verbatims behind those rows, and this edition leaves that column as it was so the rows stay traceable to their verbatims, adding a spelling note that gives the ruled form. No rule routed to this guide changes the spelling; the Character Template's 2026-09-13 edition made the same choice. Isaac can direct the sweep if he wants it in the table itself.
 4. **"Combat Guide 3e" is quoted, not claimed.** R20C-54 and R20C-58 both name "Combat Guide 3e" as where the remaining assignments and the Moto register get built. This edition does not call itself 3e, does not build either, and records both as owed in Appendix A. Whether this dated edition, the next, or something else is "3e" is Isaac's to say.
-5. **R20C-26 is quoted twice, glossed nowhere.** Its third sentence, "It is never the armour," admits more than one reading, and the only in-index paraphrase of it sits in a row that is `status: superseded` (R20C-CA-BAN_DEAD), which cannot be used as law. The guide therefore quotes the row and leaves the base §4.4 sentence beside it untouched; if the two are in tension, that is for CONFLICTS.md, not for this edition to smooth over.
+5. **R20C-26 is quoted twice, glossed nowhere.** Its third sentence, "It is never the armor," admits more than one reading, and the only in-index paraphrase of it sits in a row that is `status: superseded` (R20C-CA-BAN_DEAD), which cannot be used as law. The guide therefore quotes the row and leaves the base §4.4 sentence beside it untouched; if the two are in tension, that is for CONFLICTS.md, not for this edition to smooth over.
 6. **Appendix B kept as an empty heading rather than deleted outright,** so that the 2026-09-12 changelog's historical references to "the Appendix" still point at something. Its content is gone.
 7. **The 2026-09-12 changelog is left word for word,** including its lines that call Wren's and Edward's rows "not yet ratified" and `status: proposed`. Those lines were true when written and are the lineage; this changelog says what changed.
 
@@ -76,7 +76,7 @@ All seven rows carry `amends: null`. Each is quoted verbatim with its id at the 
 - **R3-7-EXPENDITURE_GRAMMAR** — extends the vocabulary ruling with a fourth grammar: Expenditure hunts cost, not openings or fatigue. §1.
 - **R3-7-EXPENDITURE_ASSIGNMENT** — extends: assigns Expenditure to Cozbi, Legion summoners, construct-users, and any fighter whose combat proposition is that the blow's target isn't the working's source. §1.
 - **R3-7-EXPENDITURE_MOVES** — extends: the four Expenditure moves (the Offering, the Standing, the Ledger, the Absence). §1.
-- **R3-7-EXPENDITURE_VS_PLATE** — extends: plate is irrelevant to Expenditure, a cost problem rather than a defence problem. §1.
+- **R3-7-EXPENDITURE_VS_PLATE** — extends: plate is irrelevant to Expenditure, a cost problem rather than a defense problem. §1.
 - **R3-7-EXPENDITURE_TELL_AND_COUNTERPLAY** — extends: the tell (not looking at the opponent) and the two documented counterplays (reach through the projection; force a direct physical contest). §1.
 - **R3-7-COZBI_CRAFT_NOTE** — adds the craft note on writing an Expenditure fighter: refuse the spectacular exchange, let the opponent appear to win until the arithmetic arrives. §1.
 
@@ -137,7 +137,7 @@ Two further assignments are drafted but **not yet ratified by Isaac** and are fo
 
 *Sixth companion document, 2026-09-13 edition. Closes the "no dedicated combat worked example" gap flagged in the Scene Writing Process Guide, the Ability/Technique Design Guide, and the Master Style Directive. This guide governs how fights are choreographed and written; it does not replace the Combat Prose Standard already in the project instructions, it gives that standard actual technical substance to draw from. This edition folds in the vocabulary tiering (Pack One, Three), the firearms and range-opening rulings (Pack Eleven), the combat technical floor and adjudication chapter (Packs Twelve through Fourteen), and the named-character grammar assignments the previous edition left open. The 2026-09-13 edition promotes Wren Greymane's and Edward Lambert's assignments from the pending appendix into the main table on Isaac's ratification of 2026-09-13, and cross-references the Pack Twenty clearance rows and the 2026-09-13 stat and narration-distance rulings at the sections they touch, each quoted and attributed; none of those rows amends this guide. See the changelog above for the full audit trail.*
 
-> **Precedence.** This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary, and the armour-tier breakdown below are all duel instruments, explicitly suspended or replaced in mass combat per that guide's sections 1, 3, and 4. *(R1-4-PRECEDENCE_NOTE)*
+> **Precedence.** This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary, and the armor-tier breakdown below are all duel instruments, explicitly suspended or replaced in mass combat per that guide's sections 1, 3, and 4. *(R1-4-PRECEDENCE_NOTE)*
 
 ---
 
@@ -157,7 +157,7 @@ Applies to characters trained in a conventional sword tradition. Guards, master-
 
 Applies to characters whose combat is a reading followed by a conclusion. There is no conversation, because a conclusion doesn't converse. The prose skeleton is *read, rank, commit*, and the tension lives in the read rather than in the exchange. *(R1-1-VERDICT_GRAMMAR)*
 
-*Assign to:* Sodoku (canonical), Rashani (canonical in behaviour if not in name), and any Kamigan-class or perception-lineage fighter. *Prose cue:* the beat before the strike is longer than the strike. Fighters in this grammar are terrifying in the pause and anticlimactic in the motion, and that's correct.
+*Assign to:* Sodoku (canonical), Rashani (canonical in behavior if not in name), and any Kamigan-class or perception-lineage fighter. *Prose cue:* the beat before the strike is longer than the strike. Fighters in this grammar are terrifying in the pause and anticlimactic in the motion, and that's correct.
 
 ### III. Percussion Grammar
 
@@ -174,7 +174,7 @@ Blade grammar hunts **openings**. Percussion grammar hunts **fatigue**. A swords
 | **The Shove** | Haft, shoulder, boss, or pommel, delivered at closed distance | **Measure.** Answers anyone who has closed inside the weapon's arc — the percussion fighter's only real vulnerability. |
 | **The Return** | The rebound taken deliberately and redirected into a second strike from the recoil | **Recovery.** Answers anyone counting on the pause after a heavy blow. The grammar's signature — the strike that separates a hammer-fighter from a man with a hammer. |
 
-**Percussion's answer to plate:** none of these seek to penetrate. Plate isn't defeated by percussion, it's *used*. Armour transmits force inward, so the correct target is the joint, the base, and the man's ability to keep standing in fifty pounds of steel — a percussion fighter's answer to plate is to make the plate expensive to wear. *(R1-1-PERCUSSION_VS_PLATE_AND_TELL)*
+**Percussion's answer to plate:** none of these seek to penetrate. Plate isn't defeated by percussion, it's *used*. Armor transmits force inward, so the correct target is the joint, the base, and the man's ability to keep standing in fifty pounds of steel — a percussion fighter's answer to plate is to make the plate expensive to wear. *(R1-1-PERCUSSION_VS_PLATE_AND_TELL)*
 
 **Percussion's tell:** the fighter tracks the opponent's breathing and footing rather than their weapon. In prose, have them look at the wrong thing.
 
@@ -191,9 +191,9 @@ Blade grammar hunts **openings**. Percussion grammar hunts **fatigue**. A swords
 | **The Offering** | Something expendable is put where the opponent must deal with it | **Converts the opponent's capability into expenditure.** The construct isn't expected to win. It's expected to cost. |
 | **The Standing** | The practitioner does nothing at all for a period the opponent finds intolerable | **Converts time into advantage.** Only available to a fighter who doesn't experience time as a resource — exactly Cozbi's documented strength, and why almost nobody else can use this. |
 | **The Ledger** | The accumulated cost is called in at once | **Converts the whole preceding engagement into a single effect.** Un-repeatable per encounter for that reason. |
-| **The Absence** | The vessel is destroyed and the practitioner is unaffected | **Converts a victory into nothing.** The opponent has won and gained no ground — discovering this is the psychological centre of fighting anyone in this grammar. |
+| **The Absence** | The vessel is destroyed and the practitioner is unaffected | **Converts a victory into nothing.** The opponent has won and gained no ground — discovering this is the psychological center of fighting anyone in this grammar. |
 
-**Expenditure's answer to plate:** irrelevant. Plate is a cost problem rather than a defence problem, and an expenditure fighter is content to let armour do its job for as long as the wearer can afford to keep wearing it. *(R3-7-EXPENDITURE_VS_PLATE)*
+**Expenditure's answer to plate:** irrelevant. Plate is a cost problem rather than a defense problem, and an expenditure fighter is content to let armor do its job for as long as the wearer can afford to keep wearing it. *(R3-7-EXPENDITURE_VS_PLATE)*
 
 **Expenditure's tell:** the fighter isn't looking at the opponent. In prose, have them looking at something adjacent, or crouching to examine something on the ground. **Counterplay, documented twice and neither easy:** reach through the projection to the claims it carries (a Rescind-type working, done once), or force a direct physical contest against the practitioner's own below-ceiling frame (also done once, and it worked). *(R3-7-EXPENDITURE_TELL_AND_COUNTERPLAY)*
 
@@ -205,8 +205,8 @@ The previous edition flagged this as an open gap. It's closed, first pass:
 
 | Character | Grammar | Signature | Answer to plate | Status |
 |---|---|---|---|---|
-| **Sodoku Moto** | Verdict | Ichii Kessai from Lion Stance. No defensive form; defence means ending it first. | Fault-line propagation — ranks the plate and cuts where it's already stressed. | Canonical |
-| **Rashani Zettai** | Verdict | Origin read, then Zero-Point deflection. Wins by knowing rather than reaching. | Structural read through the armour to what it's bolted to. | Canonical |
+| **Sodoku Moto** | Verdict | Ichii Kessai from Lion Stance. No defensive form; defense means ending it first. | Fault-line propagation — ranks the plate and cuts where it's already stressed. | Canonical |
+| **Rashani Zettai** | Verdict | Origin read, then Zero-Point deflection. Wins by knowing rather than reaching. | Structural read through the armor to what it's bolted to. | Canonical |
 | **Rengai Zettai** | Percussion | The Return. Post-injury, his field ceiling narrows and the Return becomes his economy rather than his flourish. | Uses the plate. Joints and base. | Ratified, 2026-09-12, including the post-injury reading |
 | **Dougou Zettai** | Percussion | The Settling into the Iron Step. Strikes the ground before the body. | Black-Heart Bison Break — backforce rather than penetration. | Canonical |
 | **Cozbi Mahuo** | Expenditure | The Standing into the Ledger. He will do nothing for as long as it takes, and this is not a bluff. | Indifference. He isn't trying to get through it. | Canonical |
@@ -227,7 +227,7 @@ The previous edition flagged this as an open gap. It's closed, first pass:
 
 ## 2. RANGE OPENINGS: FIREARMS AND THE TWENTY-FOOT THRESHOLD
 
-Gunpowder exists, magical weapons exist, and armour is not dead. Plate retreated to the historical cuirass-and-helm silhouette and then **stopped there**, because mass and material still buy a fighter the fraction of a second needed to not be where a Wellspring-carried strike arrives. The result: **every armed man now carries at least two answers, because there are at least two questions** — coat, breast, helm, sword, and firearm. This is exactly why this guide survives intact: Liechtenauer and Fiore still govern once measure closes. Inside twenty feet a discharged firearm is a club, and the sword is the thing that finishes it. *(R11-3-DUAL_ANSWER_SILHOUETTE)*
+Gunpowder exists, magical weapons exist, and armor is not dead. Plate retreated to the historical cuirass-and-helm silhouette and then **stopped there**, because mass and material still buy a fighter the fraction of a second needed to not be where a Wellspring-carried strike arrives. The result: **every armed man now carries at least two answers, because there are at least two questions** — coat, breast, helm, sword, and firearm. This is exactly why this guide survives intact: Liechtenauer and Fiore still govern once measure closes. Inside twenty feet a discharged firearm is a club, and the sword is the thing that finishes it. *(R11-3-DUAL_ANSWER_SILHOUETTE)*
 
 **An engagement may open at range before the HEMA grammar takes over — inside roughly twenty feet is where it does.** Unchanged in substance otherwise: everything in §1, §3, and §4 below governs once the fight closes to blade range. *(R11-5-COMBAT_GUIDE_RANGE_OPENING)*
 
@@ -235,7 +235,7 @@ Gunpowder exists, magical weapons exist, and armour is not dead. Plate retreated
 
 **Ammunition tiers — cross-reference, not a rule of this guide.** The three ammunition tiers are the Item & Equipment Writing Guide's (R11-3-AMMO_TIERS; Pack Eleven §3; that guide's 2026-09-12 reconstruction, §5, names them common shot, proofed shot, and the named round). Pack Twenty's clearance ratifies them, subject to R20C-26 *(R20C-22-AMMUNITION_TIERS_RATIFIED, `amends: null`)*: "The three ammunition tiers ratified, subject to R20C-26." R20C-26 is quoted next.
 
-**Armour and shot — cross-reference, not a rule of this guide.** *(R20C-26-STEEL_STOPS_THE_SHOT, `rules/pack-20-twenty.yaml`, `amends: null`, `applies_to: combat, items, adjudication`)*: "The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour." Read this beside the ballistics ruling above and beside §4.4's line on the proofed round; the guide adds no gloss of its own to it.
+**Armor and shot — cross-reference, not a rule of this guide.** *(R20C-26-STEEL_STOPS_THE_SHOT, `rules/pack-20-twenty.yaml`, `amends: null`, `applies_to: combat, items, adjudication`)*: "The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armor." Read this beside the ballistics ruling above and beside §4.4's line on the proofed round; the guide adds no gloss of its own to it.
 
 > **Cross-reference, not a rule of this guide:** the Item & Equipment Writing Guide's firearms prose law bans any sentence explaining *why* a proofed round defeats proofed plate — the physical account of the hole stays on the page, the causal account doesn't, full stop, even though §5–§6 below require a causal explanation for everything else at first display and finisher. If a scene's opening exchange is a gunshot, that specific beat is the one place in this guide's technical floor where the causal layer is withheld by design, not by omission.
 
@@ -318,7 +318,7 @@ Every armor type below follows the same three-part structure: **Physical Behavio
 ### 4.4 Plate Harness
 **Physical:** Historically dominant against period weapons — swords are nearly useless against it except at joints or in a grapple. Rigid plate resists deforming, which is precisely why it reduces blunt trauma so effectively; when a hit *does* deform the plate, the transferred energy is severe (broken ribs, internal injury) even without penetration.
 **Metaphysics:** Ideal substrate for dense runic work — Impact Damping Lattices converting kinetic force into harmless vibration, Wellspring Channels routing Essence through sigil lines.
-**Prose Cue:** *"The hammer blow skidded over his pauldron in a shock of sparks, the plate ringing like a bell; he staggered, but the steel held."* Don't let a random sword through a breastplate in one hit without real justification — precision thrusts into gaps and grappling (half-swording, dagger into mail voids) are the actual answer to plate. A proofed firearm round is the other actual answer — see §2 — but the guide never explains why it works, only shows that it did. §2's Pack Twenty cross-reference is read beside this line: "The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour." *(R20C-26-STEEL_STOPS_THE_SHOT, quoted, not folded)*
+**Prose Cue:** *"The hammer blow skidded over his pauldron in a shock of sparks, the plate ringing like a bell; he staggered, but the steel held."* Don't let a random sword through a breastplate in one hit without real justification — precision thrusts into gaps and grappling (half-swording, dagger into mail voids) are the actual answer to plate. A proofed firearm round is the other actual answer — see §2 — but the guide never explains why it works, only shows that it did. §2's Pack Twenty cross-reference is read beside this line: "The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armor." *(R20C-26-STEEL_STOPS_THE_SHOT, quoted, not folded)*
 
 ### 4.5 Ceramic Plate (Shard Harness)
 **Physical:** A sacrificial structure — the plate is meant to shatter, spreading the impact across a wide area and disintegrating on the first serious hit rather than holding indefinitely.
@@ -375,7 +375,7 @@ A hit that only shows layer one is a physics textbook. A hit that only shows lay
 **Whose voice, at what distance — cross-references, not rules of this guide.** The four voices above say *who* states a floor item. Two rows, both live as of 2026-09-13 (one an Isaac ruling of that date, one a Pack Twenty clearance row), bear on how that voice is then written, and are quoted here so a combat writer does not have to go looking:
 
 - *Narration distance* *(R41-1-DISTANCE_IS_TWO_AXES, `rules/doc-distance-two-axes-ruling.yaml`; amends the Scene Writing Process Guide's narration-distance section, not this guide; closes C-015)*: "Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck." A fight written in the POV's own read carries both axes; the Scene Writing Process Guide is where they are set.
-- *Per-culture registers* *(R20C-58-REGISTERS_FLAVOUR_NOT_LAW, `rules/pack-20-twenty.yaml`, `amends: null`, `applies_to: register, dialogue`)*: "Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e." The Moto register is not built here; it is recorded as owed (Appendix A). Nothing in this section is a register rule.
+- *Per-culture registers* *(R20C-58-REGISTERS_FLAVOUR_NOT_LAW, `rules/pack-20-twenty.yaml`, `amends: null`, `applies_to: register, dialogue`)*: "Per-culture narration registers are flavor, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e." The Moto register is not built here; it is recorded as owed (Appendix A). Nothing in this section is a register rule.
 
 ---
 
@@ -389,7 +389,7 @@ The table below names which stat answers which question in the scene, so that re
 |---|---|
 | Whose presence bends the room | Stage gap first; Dominion Pressure and Radius for how far |
 | Who closes measure first, who reacts in time | Dexterity: Celerity for travel, Reflex for reaction, Burst for the first step; Attack, Reaction, and Travel Speed by Grade |
-| Whether a working beats an armour tier | Ardency Penetration against the tier's stated behaviour above (§4); Flux for how much arrives |
+| Whether a working beats an armor tier | Ardency Penetration against the tier's stated behavior above (§4); Flux for how much arrives |
 | Whether a read lands, and what it costs in tempo | Gnosis Perception for the noticing, Acuity for the interpreting; a faculty read spends a moment |
 | How long a working holds and how hard it can be pushed | Tempering Compression and Longevity for duration; Overflow and Overchannel for the push, with Crystal Fracture risk above the Stage ceiling |
 | What the draw costs in this room | Harmonics Attunement and Depth against local Aetheric Density; Residue and Saturation shift the price |
@@ -486,7 +486,7 @@ The difference is naming the real mechanism (the Settling, Langort, brigandine a
 1. **Beat inventory.** Every exchange listed. Every named beat preserved. Nothing cut.
 2. **Logic audit.** Read, fault, counter, and stated cause per exchange — missing ones supplied from the fighters' assigned guards and cuts.
 3. **Stratum audit.** Every working checked for Aether, Wellspring, and Essence presence — missing strata supplied.
-4. **Physics audit.** Measure and tempo continuous. Weapon mass and reach against the Item Guide. Armour tier named and consistent.
+4. **Physics audit.** Measure and tempo continuous. Weapon mass and reach against the Item Guide. Armor tier named and consistent.
 5. **Body audit.** Fatigue carried forward — grip failure, forearm pump, breath debt, the cut leg still cut. Stress analgesia applied and withdrawn on sight of the wound.
 6. **Phenomenon audit.** Every working checked against the Ability/Technique Design Guide's phenomenon rule, or flagged.
 7. **Vocabulary pass.** Checked against §3, §6, and §7 above.
@@ -502,7 +502,7 @@ The difference is naming the real mechanism (the Settling, Langort, brigandine a
 
 The previous edition's flagged-gaps page is replaced by §6 above per R13-9-COMBAT_GUIDE_EDIT. Its named-character-assignment gap is closed (§1). These two gaps are not closed by any live rule and are carried forward rather than silently dropped:
 
-- **Alchemical reactives and Auramancy mechanics.** Sun-Salt, Therphorus, and Auramancy shielding/armor-piercing mechanics exist in the source Arms & Armour Codex but aren't summarized here — pull them in when a scene actually needs siege-craft or shield combat specifically.
+- **Alchemical reactives and Auramancy mechanics.** Sun-Salt, Therphorus, and Auramancy shielding/armor-piercing mechanics exist in the source Arms & Armor Codex but aren't summarized here — pull them in when a scene actually needs siege-craft or shield combat specifically.
 - **Aether-Sight visor mechanics.** Night vision, spectral sight, auto-darkening against Lux spikes exist in the source material and are available on request for any scene involving optics-heavy combat, but aren't core to melee choreography and are still left out of this pass.
 
 Three further items are owed by rule text that names a later edition or a table not yet written. They are listed here so the debt is visible, not built here:

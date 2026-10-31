@@ -11,7 +11,7 @@ Read the draft against the state sheet and answer each line. A "no" is fixed in 
 
 ## Blows
 4. Does every blow carry its Blow Card parts (set, read, contact or miss, tissue, sound and blood, reaction, next position; a miss takes parts 1, 2, 3 and 7)? Mark any blow that is a bare clause.
-5. Is tissue named and specific, never "hurt"? Is the sound and the blood given its own motion and colour?
+5. Is tissue named and specific, never "hurt"? Is the sound and the blood given its own motion and color?
 6. Does the technique ride on the blow, with both damages written, and never replace it?
 7. Does the kill or turning point carry the Kill Card (approach, named target, weapon path through named structures, sense detail, reaction, how long the dying takes and what is said, then taunt, vow or silence)?
 

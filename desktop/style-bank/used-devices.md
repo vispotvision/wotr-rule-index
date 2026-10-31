@@ -27,3 +27,8 @@ Images, beats and sounds already spent in drafted fights. A new fight does not r
 - Signature image: wounds that sprout (roots and glass-fern shoots from cuts); a vow that takes the talker's voice; a kill by salt through grafted roots; both fighters silent at the end.
 - Spent: the salt cellar cut open mid-turn as the finishing stroke; a stack of light rings on a spinning blade (Flywheel); a gloved hand ungloved to catch a shaft; sound draining out of the world one piece at a time at the perfect hit; lanterns coming on terrace by terrace as the closing image; "Bollocks" as the release after a vow; a child witness who offers fruit.
 - Sounds: whum, tchk, tok, KRAANG-ng-ng, fffrrrsh, SKRRRRK, KSSHHHHHH.
+
+### The Steamfall Duel (2026-10-31)
+- Signature image: a blade's pitch as a thermometer (the duelist who cannot hide his heat is heard as a falling note); standing-wave ripples frozen on a pool as the perfect hit; a floor of sinter rung to collapse by striking its own note; a duelist who counts his hits aloud.
+- Spent: First/Second/Third counted hits; the fork cooled in a snowmelt runnel; the sound of the world draining out one piece at a time (retired as stock for perfect hits); "I'll still have to take your swords" and a cheaper-second-man warning from a beaten duelist; bones that "sing" as a wound; "Hm. So it sings both ways."
+- Sounds: tonnng (the fork, signature), dwoom, pkkt, shff, fssst, tik-tik-tik, tak, tk.

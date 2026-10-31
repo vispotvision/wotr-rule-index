@@ -1,0 +1,8 @@
+
+## Steamfall duel: Basilithe against Penanceflare (2026-10-31)
+
+- **Basilithe** (Materia): natural frequency and the stiffness-to-mass ratio; quartz oscillator stability. A struck body rings at f = (1/2π)·√(k/m). Driven at its own natural frequency, a brittle body builds amplitude until it fractures (a wine glass; the Tacoma Narrows bridge). Heat lowers a metal's stiffness and expands it, so a tuning fork's pitch sags as it warms (steel forks drop by a few parts per ten thousand per degree). Failure per the Family page: resonant catastrophe, a frequency that cannot be shifted cannot be detuned away from.
+- **Penanceflare** (Caloria): blackbody radiation, Planck's law, emissivity. A body glows dull red near 525 C, cherry near 800 C, orange near 1,000 C, yellow-white past 1,300 C (Wien's displacement law moves the peak toward blue as T rises). Failure per the Family page: no concealment mode; the glow tracks effort.
+- **The interplay:** a blade that heats rings at a falling pitch, so a fighter who can tune to a note can read the other's temperature, and aim at its natural frequency, by ear. Cooling a fork in a cold stream retunes it.
+- **Wounds:** a duelist's blade at red heat sears as it cuts and cauterizes the edge (second-degree to full-thickness burn, little bleeding, charring); a resonant fracture of the forearm splinters the radius and ulna along the shaft and powders the small carpal bones; a transverse rib fracture from a thrown body on sinter.
+- **Superpower Wiki concepts used:** Sonic Manipulation, Vibration Manipulation (resonance, shatter), Heat Manipulation, Thermal Radiation. Facts and numbers stay WOTR's.

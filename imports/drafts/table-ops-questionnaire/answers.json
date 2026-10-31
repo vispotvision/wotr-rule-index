@@ -1,0 +1,26 @@
+{
+ "batch1_ledger_fronts": {
+  "ledger_tracks": "All four: injuries and exhaustion; debts and bills; renown per audience; who saw what",
+  "unpaid_bills": "By who holds it (a kind creditor waits, a cruel one acts; the holder's card decides)",
+  "front_count": "By the arc (a mystery runs two, a war runs eight; the arc decides)",
+  "front_signs": "Hidden until it hurts (some Fronts show nothing to the PC until the payoff; the reader may see more than the PC)"
+ },
+ "batch2_war_tournament_session": {
+  "war_arc_place": "Shifts by the arc's act (command in act one, a lone mission in act two, the council in act three)",
+  "war_cost": "All three (a name, a figure and a field, as the scene needs)",
+  "tournament_fights": "Mixed (variety, escalation and history in the proportion the arc needs: a bracket with a story)",
+  "session_shape": "By his opening (a beat means straight in; opening cold means a scene menu)"
+ },
+ "batch3_beings_rivals_companions": {
+  "still_missing": "All four named as gaps: rivals and recurring enemies; mentors and training organizations; companions and pets; the Archons and great beings",
+  "great_beings": "By the being (a sleeper is a landscape, a bargainer is a man in a coat)",
+  "rivals": "By the rival (a bully, a prodigy and a mirror, each in their own way)",
+  "companions": "By the companion (a war-horse, a house cat and a bonded spirit written as what each is)"
+ },
+ "batch4_sects_mentors_climax": {
+  "sects": "All three, by the school (a military academy is rank, a temple is routine, a forge-school is method)",
+  "ranks": "Xianxia ranks inside WOTR's institutions (outer, inner, core disciples and elders; guilds keep their own titles)",
+  "mentors": "By the mentor (each master's arc follows their card)",
+  "climax_pacing": "By the arc (a tournament ends on a duel, a war on a door)"
+ }
+}

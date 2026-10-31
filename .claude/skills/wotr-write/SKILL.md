@@ -57,8 +57,8 @@ is new (a working's phenomenon, an injury), reused after. A domain's full rule
 text the first time the scene touches it (`load_rules(tags)`); an open docket
 item is decided at the table and the writing goes on.
 
-**The turn.** About 3,500 words, every in-fiction reply alike (R79-1); an
-out-of-character answer runs at its own length. Present tense (written scenes
+**The turn.** No word count, for any in-fiction reply (Isaac, 2026-10-30,
+reversing R79-1); an out-of-character answer runs at its own length. Present tense (written scenes
 and books take past), third person. Open on one clause fixing where his move
 landed, answer what he did, move the world, and carry his PC through the beat
 and the routine to a decision that is genuinely his: a risk, a bargain, a
@@ -113,7 +113,7 @@ author notes live in the archive only.
 
 ## 2. Set piece
 
-The same law at set-piece weight: about 3,500 words (R79-1), the full
+The same law at set-piece weight: no word count, as long as it needs, the full
 pipeline in `references/scene-pipeline.md`.
 
 1. **Load** as for a turn: brief rulebook once a session, the domain tags in

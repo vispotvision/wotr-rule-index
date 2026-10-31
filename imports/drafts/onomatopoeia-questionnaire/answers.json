@@ -1,0 +1,14 @@
+{
+ "batch1": {
+  "categories": "All four: impact and object sounds; technique and magic sounds; state and atmosphere sounds; feeling and body sounds",
+  "variety": "Mixed: signatures plus fresh hits (a technique keeps a signature word; each fight also invents fresh ones for new things)",
+  "language": "By the POV's culture (a Moto POV hears manga-style Japanese sound words; Kharven and Common POVs hear English ones)",
+  "beyond_fights": "All four: city and market ambience; wilds and weather; emotional beats; comic beats"
+ },
+ "batch2": {
+  "typography": "Stretched and scaled freely (length and case carry size: a tiny tik, a middling thud, a vast GOOOOOOM)",
+  "placement": "Varied by tempo (quick trades mid-clause; the turning blow leads on its own line)",
+  "state_words": "Plain romanized (shiin, gogogogo, doki-doki without italics; matches the existing romanized-mimetic rule)",
+  "in_mouths": "By character (a showman or clown says them; a cold killer never would; the card decides)"
+ }
+}

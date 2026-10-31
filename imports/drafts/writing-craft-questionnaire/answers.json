@@ -9,7 +9,7 @@
   "emotion": "Anime-big, said and shown (open, loud, theatrical feeling: tears, shouting)",
   "bonds": "All four: rival to reluctant ally; mentor and student; found crew; slow-burn romance",
   "grief": "Full weight, given room (the scene stays with the loss; interior, memory, small physical things)",
-  "warmth": "Big shared celebration (a feast, a festival; colour, noise, singing, bodies pressed together)"
+  "warmth": "Big shared celebration (a feast, a festival; color, noise, singing, bodies pressed together)"
  },
  "batch3_villains_stakes": {
   "villain_danger": "It depends on the villain (no default)",
@@ -30,9 +30,45 @@
   "turn_mix": "Balanced, steered by the beat (a fight leans on action, a talk on people, a quiet one on interior)"
  },
  "batch6_creatures_humour": {
-  "creatures": "Biology first, like a field naturalist (anatomy, behaviour, habitat; believed before feared)",
-  "humour": "All four: dry and deadpan; crude and bawdy; anime gags and reactions; dark and gallows",
+  "creatures": "Biology first, like a field naturalist (anatomy, behavior, habitat; believed before feared)",
+  "humor": "All four: dry and deadpan; crude and bawdy; anime gags and reactions; dark and gallows",
   "openings": "By the scene's weight (fights open in motion, quiet scenes in a place, court scenes on a gesture)",
   "interior_flashbacks": "Flashbacks sparingly, as big set pieces (interior stays light; big flashbacks are their own marked scenes). FLAG: narrows R79-4 'flashbacks run freely' and 'interiority woven steadily'"
+ },
+ "batch7_arcs_politics_gear": {
+  "tournament": "Mixed, by the arc (a festival one, a deadly one, a political one)",
+  "factions": "Layered, all three (named wanters, procedures, street consequences)",
+  "gear": "Mixed (wear by default; tier and price when the POV would see them; provenance for famous pieces)",
+  "romance_short_of_explicit": "By character (a shy character quiet, a bold one loud; the card decides how they look at someone)"
+ },
+ "batch8_voice_endings": {
+  "narrator": "By the POV's culture (a Moto scene narrates in seasons, a Kharven one in prices)",
+  "endings": "By the arc's weight (a scene ends on an image, a chapter on a turn, an arc on a door opening)",
+  "pc_inner_life": "Bold, give him depth (a memory he has not mentioned may surface; his rewrite overrules). FLAG: conflicts with NATALIE canon hierarchy 'What his PC knows comes from his card and canon, never a new memory'",
+  "motifs": "Light callbacks to earlier scenes (a name, a scar, a phrase; the world remembers)"
+ },
+ "batch9_progression": {
+  "breakthrough": "By the Stage and the story (crisis at Stage IV, a long cell at VII, the sky itself at XII)",
+  "readout": "In prose only (no block; the change is described, not tabulated)",
+  "release": "Scaled to the stakes (a release that decides a life gets a page; a flourish gets a line)",
+  "overreach": "By the Wellspring's failure mode (each fails in its own named way)"
+ },
+ "batch10_world": {
+  "battles": "By the battle's nature (a siege as vignettes at walls and gates, a field battle as the lead's duel, a massacre wide and cold)",
+  "religion": "Mixed by culture (the Moto speak to their dead, the Dawi tally them, the Kharven price them)",
+  "daily_life": "Constantly, as texture (prices, meals, rent, tools, chores in every scene)",
+  "slang": "Heavily, per culture (each culture's oaths, proverbs and idioms part of every voice)"
+ },
+ "batch11_length_loop_research": {
+  "reply_length": "As long as the beat needs, no number (drop the 3,500 target everywhere, not only for fights; reverses R79-1 length)",
+  "feedback_loop": "Questionnaires like this (no other loop)",
+  "auto_research": "All four: wounds and injuries; how a working works; crafts, trades and materials; history and period detail",
+  "multiplayer": "By the scene's pace (talk free; a fight ordered with a reply window)"
+ },
+ "batch12_documents_dreams_names": {
+  "documents": "Used as texture, rarely central (signage and labels carry flavor, not plot)",
+  "dreams": "Vivid and concrete, no fog (a dream is a place with objects and rules, specific and strange)",
+  "material_culture": "Mixed (specific in most scenes, lingered on in quiet ones, a class and culture signal when it matters)",
+  "names": "Comic names among commons, thinning above (major NPCs and carded Moto never; villains and rivals may)"
  }
 }

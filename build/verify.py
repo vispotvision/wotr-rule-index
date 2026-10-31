@@ -15,6 +15,8 @@ import sys
 from functools import lru_cache
 from pathlib import Path
 
+from american_spelling import british
+
 EM_DASH = re.compile(r"[—–]|(?<!-)--(?!-)")
 ANTITHESIS = [
     re.compile(r"\b(?:not|isn['’]t|wasn['’]t|is not|was not|aren['’]t|weren['’]t)\s+(?:just|merely|simply|only|so much)\b[^.!?\n]{0,80}?\b(?:but|it['’]s|it is|as|rather)\b", re.I),
@@ -182,7 +184,7 @@ KHARVEN_RECURRENCE = {
     "the Thin Weeks": re.compile(r"thin weeks", re.I),
     "the death-house / the Waiting": re.compile(r"death-?house|\bthe Waiting\b"),
 }
-# R79-1: every in-fiction reply runs about 3,500 words, set pieces and Discord included; reported, never warned.
+# R79-1 reversed (Isaac, 2026-10-30): no in-fiction reply has a word count; the length is reported for information only.
 BANDS = dict.fromkeys(("turn", "standard", "conversational", "set-piece", "discord"), 3500)
 # R78-3 (Isaac, 2026-10-14): fight abstractions in narration say what the body did instead; --combat only (R79-6).
 # The elevated word bank and its density WARN are retired (R78-11, Isaac 2026-10-16).
@@ -279,6 +281,9 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     total_words = sum(len(s.split()) for s in sentences)
 
     # --- bans --------------------------------------------------------------
+    brit = british(raw)
+    if brit:
+        fails.append("British spelling (American English only, Isaac 2026-10-30): " + ", ".join(f"{x} -> {y}" for x, y in brit[:8]) + (f" (+{len(brit) - 8} more)" if len(brit) > 8 else ""))
     n = len(EM_DASH.findall(raw))
     if n:
         fails.append(f"em dashes: {n} (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)")
@@ -395,7 +400,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
                      "say what the fist, foot, blade or body did (R78-3-PHYSICAL_AND_SATURATED, R79-6)")
 
     # --- table rules ---------------------------------------------------------
-    info.append(f"length {total_words} words (about {BANDS.get(band, 3500):,} for every in-fiction reply, R79-1-NATALIE_WRITES_HIS_PC)")
+    info.append(f"length {total_words} words (no word count, Isaac 2026-10-30)")
     italics = [m.group(1) for m in ITALIC.finditer(raw) if len(m.group(1).split()) >= 3]
     info.append(f"italic interior beats: {len(italics)} (free, no count, R79-4)")
     if prose_paras:

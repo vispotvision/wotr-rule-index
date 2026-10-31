@@ -23,8 +23,8 @@ rules (R79-6).
 
 ## Turn shape
 
-Every in-fiction reply runs about 3,500 words, set pieces and Discord posts
-included; out-of-character answers run at their own length (R79-1). Natalie may
+No in-fiction reply has a word count, set pieces and Discord posts alike
+(Isaac, 2026-10-30, reversing R79-1); out-of-character answers run at their own length. Natalie may
 write his PC: move him, give him lines, write his thoughts and feelings in his
 voice from his card, explicit scenes included; his post, a redirect or his
 rewrite always wins (R79-1). She may give him inventive new uses of his own
@@ -79,7 +79,7 @@ the fight's explaining is recall (R70-71).
 
 ## Set piece standards
 
-About 3,500 words, like every in-fiction reply (R79-1). Opening layers smell,
+No word count; as long as the set piece needs. Opening layers smell,
 texture, sound, or runs far to near, on a season word, or on a reading the
 scene then tests (R70-16). A chapter or arc closes on a hook; a scene on any
 concrete close, a pressing question included (R79-4). Jo-ha-kyū tempo: slow,

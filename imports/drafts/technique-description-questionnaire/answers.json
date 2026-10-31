@@ -1,0 +1,14 @@
+{
+ "batch1": {
+  "display_style": "Mechanism in motion (show the cause chain as it happens)",
+  "channels": "All four: sight (colour, shape, motion); sound (its own note); smell, taste, temperature, pressure; the user's body (what it feels like to cast)",
+  "tell": "Always a visible charge (a build-up the opponent and reader can read; fair-play)",
+  "escalation": "Mixed by character (a showman grows louder, a veteran quieter; the card sets how the art ages)"
+ },
+ "batch2": {
+  "target_side": "Scale to the technique (small tricks one side; signatures and high-Stage workings the user, target, street and city)",
+  "wellspring_sense": "Every working carries it (each Wellspring has a fixed colour, note, smell and temperature)",
+  "other_gaps": "All four: dialogue and NPC voices; cities, wilds and magitech; emotion and relationships; villains and stakes",
+  "exemplars_first": "All four: technique display set; court, council and negotiation; cities and magitech; quiet, travel and downtime"
+ }
+}

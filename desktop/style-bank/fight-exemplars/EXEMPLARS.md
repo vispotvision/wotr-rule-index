@@ -4,6 +4,8 @@ Loaded before any fight or set piece, as the few-shot bank. They teach density a
 
 Status: written by Claude from Isaac's questionnaire answers (2026-10-30). Isaac has not signed off on them. Replace or add passages from fights he loves; his pasted passages outrank these.
 
+Canon note: the Wellspring names, aura colours and technique details inside these passages are illustrative and are not canon (for example, a blue cold-edge has no Family of its own). Real fights take the colour from the character's Family hue (The Color of Essence) and the working's signature from `desktop/style-bank/wellspring-signatures.md`.
+
 How to use: read all of them, then write the fight with different bodies, different tools, different ground. Copy nothing but the discipline.
 
 <examples>

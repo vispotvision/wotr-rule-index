@@ -106,5 +106,23 @@
   "chapter_length": "Varied on purpose (short for tension, long for set pieces and quiet; rhythm across the book)",
   "planning": "By arc type (a mystery tight, a journey loose, a war in phases)",
   "tonal_swing": "Matched to the arc (a tournament arc bright, a war arc dark; each arc sets its own weather)"
+ },
+ "batch19_dark_themes": {
+  "atrocity": "By the arc (each arc sets how close the camera goes)",
+  "mind_magic": "All three (the mechanism is fair, the use is a crime, the law is an argument)",
+  "oppression": "All three (street detail, institutional machinery, resistance, interleaved)",
+  "hero_morality": "By the card (what the person refuses sets the line; the page keeps to it)"
+ },
+ "batch20_form": {
+  "formatting": "Plain for Discord, rich for the repo (Discord posts clean and paste-ready; repo files may carry headers and structure)",
+  "dialogue_style": "Mixed by speed (quick lines run bare; a slow line carries a gesture)",
+  "lead_sense": "Vary by scene (no default; each scene opens on a different sense)",
+  "glossing": "In the notes and wiki (the page says the word; the wiki defines it)"
+ },
+ "batch21_difficulty_growth_death": {
+  "difficulty": "Scaled to the arc (a tournament forgiving, a war arc lethal; each arc sets the danger)",
+  "failure": "Mixed by stakes (small failures are costs; big ones are clean misses with consequences)",
+  "growth_pace": "His call, my pacing (Level points, Stage and card changes are Isaac's; Natalie offers beats and he chooses)",
+  "death": "All of these (signaled and permanent, rare costly returns, mourning with a long shadow, almost never undone)"
  }
 }

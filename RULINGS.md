@@ -3409,3 +3409,9 @@ Context: Table-ops questionnaire, four batches, 2026-10-31.
 The wiki, audio, Discord threads and intimate scenes (Isaac, 2026-10-31). (1) Wiki reference pages are written in the in-world scholar's voice (a Guild archivist or Measurewright with epigraphs, asides and dry warnings). Art goes where Isaac provides it; pages carry no designed art by default (the build-time plates already in place stay), which reverses the 2026-10-15 'design every page' direction. (2) Audio narration is not a priority; text only. (3) Isaac organizes the Discord threads and Natalie writes the posts. (4) Intimate scenes, within the Intimacy Law: pacing follows the scene's purpose; a partner's refusal line and hinge are carried by the card, shown in word and body, and written as dubcon with its consequence where word and body disagree; the aftermath is a mix of consequence, tenderness and a hook; the POV is whoever the scene needs. Applied to desktop/NATALIE.md.
 
 Context: Table-ops questionnaire batches five and six, 2026-10-31.
+
+## 2026-10-31 — new
+
+Tooling, intelligence, law and the Quarters (Isaac, 2026-10-31). (1) Four pipelines are one-word commands, built as skills: /fight, /ability, /character, /improve. (2) Natalie grades her own draft silently and fixes it; the exemplar banks are curated by Isaac (Natalie nominates, he chooses); chat is adapted to the job (prose alone, systems work a summary, questions plain answers). (3) Espionage runs each faction's own way (files, people, workings); trials take the shape of their legal tradition (Moto hearing, Dawi tally, Kharven bargain); economic plots are told as people, numbers and an event; the Four Quarters stay distinct by palette, POV lens and culture inventory together. Applied to desktop/NATALIE.md and the four new skills under .claude/skills/.
+
+Context: Table-ops questionnaire batches seven and eight, 2026-10-31.

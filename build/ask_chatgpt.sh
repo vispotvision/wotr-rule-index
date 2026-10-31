@@ -7,6 +7,7 @@
 # Read-only all the way down: the sandbox cannot write, and the WOTR server is started
 # with --read-only so no saving tool exists, which is what lets its tools run unapproved.
 # ChatGPT connectors (Gmail, Notion...) still need approval, so in exec they are refused.
+# Live web search is on: research answers can cite the pages it actually opened.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 prompt="${*:-$(cat)}"
@@ -18,6 +19,6 @@ out=$(mktemp --suffix=.md)
 trap 'rm -f "$out" "$out.log"' EXIT
 "$codex" exec -s read-only --ephemeral -C "$PWD" \
   -c "mcp_servers.wotr.args=[\"$PWD/build/py.sh\",\"build/mcp_server.py\",\"--read-only\"]" \
-  -c 'mcp_servers.wotr.default_tools_approval_mode="approve"' \
+  -c 'mcp_servers.wotr.default_tools_approval_mode="approve"' -c 'web_search="live"' \
   -o "$out" "$prompt" >/dev/null 2>"$out.log" || { tail -20 "$out.log" >&2; exit 1; }
 cat "$out"

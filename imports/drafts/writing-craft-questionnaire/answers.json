@@ -1,0 +1,38 @@
+{
+ "batch1_dialogue": {
+  "npc_voice": "Culture and rank first (register and forms of address do most of the work; each culture its own grammar)",
+  "subtext": "By culture (Moto and court voices speak in layers; soldiers and commons speak bluntly)",
+  "exposition": "Through a character's pride (an NPC who loves their subject over-explains in their own voice)",
+  "crowd_talk": "Scale to the scene (council cross-talk, tavern murmur, hearing one voice at a time)"
+ },
+ "batch2_emotion": {
+  "emotion": "Anime-big, said and shown (open, loud, theatrical feeling: tears, shouting)",
+  "bonds": "All four: rival to reluctant ally; mentor and student; found crew; slow-burn romance",
+  "grief": "Full weight, given room (the scene stays with the loss; interior, memory, small physical things)",
+  "warmth": "Big shared celebration (a feast, a festival; colour, noise, singing, bodies pressed together)"
+ },
+ "batch3_villains_stakes": {
+  "villain_danger": "It depends on the villain (no default)",
+  "villain_entrance": "It depends on the villain (no default)",
+  "stakes": "Mixed, by arc (tournament arcs personal, war arcs world-scale)",
+  "villain_fate": "By the character (each villain's end follows their nature and the arc)"
+ },
+ "batch4_scenes": {
+  "training": "Full scenes with a teacher (a specific exercise, a body in pain, a lesson that costs)",
+  "settings": "Through the POV's eye and body (a place seen by someone with a trade and a mood)",
+  "mystery": "Fair clues, planted early (everything the solution needs is on the page first)",
+  "time_joins": "A bridge paragraph (one developed paragraph carries the days between, with specifics)"
+ },
+ "batch5_rp_table": {
+  "consequences": "Mixed by weight (a bribe noticed that night, a theft billed within the week, a betrayal waits an arc)",
+  "initiative": "At natural pauses (hooks come when the PC has a breath; active scenes stay clean)",
+  "offstage": "Mixed (signs by default, cutaways at turns; the reader sometimes knows more than the PC)",
+  "turn_mix": "Balanced, steered by the beat (a fight leans on action, a talk on people, a quiet one on interior)"
+ },
+ "batch6_creatures_humour": {
+  "creatures": "Biology first, like a field naturalist (anatomy, behaviour, habitat; believed before feared)",
+  "humour": "All four: dry and deadpan; crude and bawdy; anime gags and reactions; dark and gallows",
+  "openings": "By the scene's weight (fights open in motion, quiet scenes in a place, court scenes on a gesture)",
+  "interior_flashbacks": "Flashbacks sparingly, as big set pieces (interior stays light; big flashbacks are their own marked scenes). FLAG: narrows R79-4 'flashbacks run freely' and 'interiority woven steadily'"
+ }
+}

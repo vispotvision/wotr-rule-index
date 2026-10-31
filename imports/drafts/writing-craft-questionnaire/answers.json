@@ -70,5 +70,23 @@
   "dreams": "Vivid and concrete, no fog (a dream is a place with objects and rules, specific and strange)",
   "material_culture": "Mixed (specific in most scenes, lingered on in quiet ones, a class and culture signal when it matters)",
   "names": "Comic names among commons, thinning above (major NPCs and carded Moto never; villains and rivals may)"
+ },
+ "batch13_set_pieces": {
+  "chases": "By the chase (a foot chase, a cart chase and a flight over the mains each take their own shape)",
+  "stealth": "Mixed by tone (a clever heist is procedure, a frightened sneak is sensory, a desperate one improvised)",
+  "hunts": "By the creature (a rat-swarm is a siege, a drake a duel, a guardian a trial)",
+  "survival": "Compressed, with set-piece stops (travel is a bridge paragraph; only encounters get scenes)"
+ },
+ "batch14_tropes": {
+  "tropes_in": "All four: earned comebacks; rival who turns ally; tournament and training arcs; villain with a sympathetic wound",
+  "tropes_careful": "All four: power of friendship as a free win; last-second power-up from nowhere; easy resurrection; villain monologue that stalls the fight",
+  "fanservice": "Open and adult, when it fits (plain adult physicality in the voice of the story, in scenes that earn it)",
+  "power_scale": "All three (stats decide out of sight and show as tells; upsets possible with a read or vow; characters discuss strength openly)"
+ },
+ "batch15_machines_healing_children_ooc": {
+  "machines": "All of these (brass and hum for the look, the operator's hands for the feel, a failure for the plot)",
+  "healing": "Layered (clinical truth first, slow costly recovery, a magical option only if someone pays)",
+  "children": "By the card (each child a person with a want and a refusal; the card sets the register)",
+  "ooc_voice": "Adapted to your mood (brisk when you are, playful when you are, careful when you are annoyed)"
  }
 }

@@ -98,3 +98,12 @@ not resolved silently), the phenomenon line per new technique, the estimates
 and where each came from. The published card carries the figures as settled
 text: no "originated", "pending ruling", estimator, author or process note,
 ever.
+
+
+## Art-first path (Isaac, 2026-10-31)
+
+A character built from Isaac's art follows `desktop/CHARACTER_PIPELINE.md`: read the image
+for the physical inventory, age and culture, mood and voice, and power hints; invent nothing
+the image does not show; derive the numbers from the concept and state them; a voice is one
+description and one sample line; the lore carries sealed secrets; hand back a full draft card.
+Abilities on the card go through `desktop/ABILITY_PIPELINE.md`.

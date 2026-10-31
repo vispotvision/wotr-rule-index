@@ -9,6 +9,18 @@ counter within reach at its own Stage. Limit and tell where they exist. The
 before, during and after counter triad only for signatures. Every ability has
 a counter.
 
+## Entry shape and the full path (Isaac, 2026-10-31)
+
+An entry is written in the Superpower Wiki's shape: the plain paragraph, then
+**Applications** (8 to 15 discrete uses, one sentence each), **Variations**,
+**Associations** and **Limits**; the physics lives in the notes page, never in
+the entry. The path from a rough sketch to a filed card is in
+`desktop/ABILITY_PIPELINE.md`: research (Superpower Wiki is a primary source,
+physics, the Wellspring's analogue), design, the Wellspring signature from
+`desktop/style-bank/wellspring-signatures.md`, a sample display for
+signatures and releases, one best name, an overlap check surfaced to Isaac,
+then filing.
+
 ## Order of design, never reversed (R79-9)
 
 1. Who is this person: what they refuse, what they survived, what they believe
@@ -55,7 +67,7 @@ Every ability (Trait, technique, signature, school art, bloodline faculty) is
 gloss after it where the character has a naming register (`THE ROT · kusari`, English first, R78-5),
 its kind in brackets (a release form's kind is *First*, *Second* or *Third
 Release*), then a single paragraph of any length, which also gives the
-signature sound and, for a Trait, the aura's colour (R78-6). That paragraph is
+signature sound and, for a Trait, the aura's color (R78-6). That paragraph is
 the whole wiki page and the whole card entry; nothing else goes on it. The
 field format (R47-2) is retired; an old field-format entry is rewritten the
 next time it is edited or used.

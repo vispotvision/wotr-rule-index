@@ -43,7 +43,7 @@ pending fields.
   in use counted against it (vows, releases, Drafts, strain lifts); only
   outside help (allies, arrays, Domains) sits outside it; items work at their
   own Tier (R79-10)
-- Releases and bonded weapon, aura colour and signature sound
+- Releases and bonded weapon, aura color and signature sound
 - Soul Crystal tier and Crystal State going in (Refined, Fractured,
   Overgrown, Crystallized)
 - Essence Family
@@ -61,7 +61,7 @@ owner wins and the line says which was used.
 
 ## The question map (§3)
 
-Pressure: Stage gap and Dominion. Measure and reaction: Dexterity. Armour:
+Pressure: Stage gap and Dominion. Measure and reaction: Dexterity. Armor:
 Ardency Penetration against tier. The read: Gnosis. Duration and push:
 Tempering. The draw: Harmonics against Density. Wounds: Vitality, ATLS on
 top. Crystal damage: Resilience. Cannot: Path gate. The Grade of the stat in

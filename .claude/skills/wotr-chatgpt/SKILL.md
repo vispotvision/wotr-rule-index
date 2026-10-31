@@ -49,7 +49,7 @@ card or the notes with their source, never a rule's verbatim. Close it with `inb
 Claude cannot draw; `chatgpt_image(prompt, name)` borrows ChatGPT's image model on the
 ChatGPT plan (30 to 120 s). The picture comes back inline, saved to `~/wotr-drafts/images/`,
 with a link under the token. Brief it like a painter: subject, setting, light, palette,
-medium, framing; WOTR looks like Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy and Lord of the Mysteries, vivid and magitech-lit, never muted grey (R53-28, R78-4). It letters signs and
+medium, framing; WOTR looks like Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy and Lord of the Mysteries, vivid and magitech-lit, never muted gray (R53-28, R78-4). It letters signs and
 dials with Earth words on its own ("London" on a gauge), so ask for no text or give the
 exact WOTR words. Describe a style instead of naming a living artist, and no real
 person's likeness (Isaac's rule). Explicit content is refused by OpenAI's model.

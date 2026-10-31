@@ -36,7 +36,7 @@ the new boundary, followed through to the target. That is also what makes a
 working fair: an effect that follows from a mechanism has limits and a
 counter a player can work out; an effect with no mechanism has neither.
 
-## Fair: real physics is the floor, not a licence
+## Fair: real physics is the floor, not a license
 
 Real physics says what is possible, the system says what it costs, fairness
 says what makes a good fight. Something physics allows can still be too
@@ -88,7 +88,7 @@ ideas, not only on physics. Explore widely, for example:
   process, Kant's categories, Buddhist dependent origination, Daoist wu wei,
   Stoic pneuma and sympathy.
 - **Pseudoscience and superseded science:** Hermeticism and correspondence,
-  alchemy (the tria prima, solve et coagula), the four humours, phlogiston,
+  alchemy (the tria prima, solve et coagula), the four humors, phlogiston,
   the luminiferous aether, vitalism and élan vital, Mesmer's animal
   magnetism, Reichenbach's Odic force, the Pythagorean harmony of the
   spheres, Kepler's Harmonices Mundi, Kabbalah's sefirot, astrology's
@@ -103,7 +103,7 @@ How they enter:
   Sets of Books.md` are the model: competing accounts, none refuted.
 - **The physics still closes.** A pseudoscientific school can be wrong
   in-world, and interestingly wrong. That is a good hook for a challenge:
-  a faction that works from humours or phlogiston misreads the working in a
+  a faction that works from humors or phlogiston misreads the working in a
   way a player can exploit or fall for.
 - **Credit the source in the author notes** (thinker, work, idea). On the
   page, follow the naming law: `load_rules(["naming", "worldbuilding"])`

@@ -1,0 +1,26 @@
+{
+ "batch1_character": {
+  "numbers": "Derive everything from the concept (Level, Band, Stage, Path, Grades, Aether Class, harmonizations set from the Fracture of Worlds tables and stated plainly; Isaac overrules any of it)",
+  "voice_approval": "Only a voice line (a sentence describing the voice plus one sample line, approved with the card)",
+  "backstory": "Rich lore, with held secrets (public history, private history, and sealed facts the page will not state)",
+  "art": "Art first (Isaac's words: 'I give u art for characters etc and you make characters based on that art'): Isaac supplies the art and Natalie builds the character, and by extension other things, from it"
+ },
+ "batch2_art_first": {
+  "read_from_art": "All four: the full physical inventory; age, culture and place; mood, bearing and voice; power and aura hints",
+  "gaps": "Stay close to what is drawn (invent nothing the art does not show; leave the rest null and log it)",
+  "art_for": "All four: places and maps; items and gear; creatures and Well-spawn; techniques and effects",
+  "art_storage": "You decide per image (Natalie asks where each one lives when it arrives)"
+ },
+ "batch3_improve_locations_factions": {
+  "improve_post_return": "Just the rewrite (his intent, voice, tense and person; no commentary; his post still wins)",
+  "improve_targets": "All four: body and blows (Blow Card); magic on the blow (display, signature, cost); voice and heat; continuity and rules",
+  "locations": "Only what scenes use (locations are written when a scene needs them and grow from play)",
+  "faction_card": "All four: wants and splits; procedures and seals; money and reach; a face and a front"
+ },
+ "batch4_items_creatures_villains_arcs": {
+  "items": "From art (if art exists it drives the item; otherwise one line)",
+  "creatures": "Written in the scene, filed after (invented in the writing; a bestiary entry made when it recurs)",
+  "villains": "By the card (a villain is a person: refusal, want, voice, numbers, backstory, sealed facts)",
+  "arc_plan": "All four: the Fronts and their clocks; anchor scenes and the ending; cast and their wants; seeds and plants"
+ }
+}

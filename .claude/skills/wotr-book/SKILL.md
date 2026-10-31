@@ -168,7 +168,7 @@ Then write `book/<slug>/AUDIT_chNN.md`:
 - **Voice**: rewrite `STYLE.md` from the approved chapters: the few
   principles the narration actually runs on (sentence rhythm and how it
   moves under strain, how deep the interiority goes, what the POV notices
-  first, how dialogue carries subtext, where the humour lives), each with one
+  first, how dialogue carries subtext, where the humor lives), each with one
   or two quoted examples and the chapters that show it. Principles, not a
   checklist: a writer should take it in one read. A habit the book would not
   want copied is a tic and goes to ISSUES.md, not STYLE.md. Say where the

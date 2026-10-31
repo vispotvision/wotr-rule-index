@@ -19,12 +19,12 @@ grep -nEi "(isn't|wasn't|is not|was not|it's not|not just) .{0,40}(but|it's|it w
 grep -nE 'Not [a-z]+\.$|No [a-z]+\. No ' "$f"       # countdown negation
 grep -nEi 'now that|as mentioned|as you know|in other words' "$f"   # signposting
 grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # figures: in a fight, mouths only, never narration, no readout (R79-6); blocks only at milestones (R70-80)
-grep -nEi 'cold glint|sucked in a cold breath|killing intent surged|the steel sang|a grim smile|blood ran cold|every fibre of his being|darkness gathered|power surged through|stronger than ever|a wave of power|stats soared' "$f"  # exact cliché phrases banned (R70-35); bare killing intent and qi rising or flaring are genre vocabulary (R79-5)
+grep -nEi 'cold glint|sucked in a cold breath|killing intent surged|the steel sang|a grim smile|blood ran cold|every fiber of his being|darkness gathered|power surged through|stronger than ever|a wave of power|stats soared' "$f"  # exact cliché phrases banned (R70-35); bare killing intent and qi rising or flaring are genre vocabulary (R79-5)
 ```
 
 Fights, roleplay and set piece alike, additionally: every blow is body, path,
 target, result and what it cost, with what the fighter read and the opening he
-found shown as behaviour (R79-6); fight jargon, Eastern or Western, free and
+found shown as behavior (R79-6); fight jargon, Eastern or Western, free and
 never required (R79-6); a technique or release called in English or the
 speaker's own tongue (R79-6); wounds plain and anime on the page, clinical
 names in the notes and a medic's mouth (R79-6); one clear causal line at a

@@ -1,0 +1,14 @@
+{
+ "batch1_intake": {
+  "intake": "Write abilities the way the Superpower Wiki does and pull from its concepts and ideas and from physics (Isaac's own words: 'look at super power wiki abilities should be written like that and pulled from some of there concepts and ideas and ideas from physics'). Superpower Wiki page shape confirmed from the live API: Also Called; Capabilities; Applications; Techniques; Variations; Associations; Limitations; Known Users.",
+  "research_shown": "Full research in the notes (chat gets a one-line summary such as 'Grounded in latent heat; full note saved')",
+  "test_display": "Only for signature techniques (small tricks go straight to the card; signatures and releases get a sample display first)",
+  "naming": "One, my best (pick the right name, say why; he changes it if he wants)"
+ },
+ "batch2_entry_shape": {
+  "applications": "A long tail, 8 to 15 (the Superpower Wiki way: many concrete uses, each a sentence)",
+  "wiki_use": "All of it, as a primary source (design, application, variation, association and limitation; canon always governs facts and numbers)",
+  "physics_in_entry": "Notes only (the entry stays in plain everyday words; the physics lives in the notes)",
+  "overlap": "Ask you (overlap is Isaac's call; Natalie surfaces it with a recommendation)"
+ }
+}

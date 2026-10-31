@@ -14,10 +14,10 @@ Brachial: minutes longer. Carotid: unconscious in seconds, dead in a minute.
 
 ## Weapon classes, what they do at the body
 
-**Cut (sword, axe, sabre).** Skin, fat, muscle, then bone if the edge and
+**Cut (sword, axe, saber).** Skin, fat, muscle, then bone if the edge and
 mass allow. Depth is mass times speed against the tissue in the way. A cut
 that reaches the artery in the inner thigh, upper arm or neck is the killing
-cut; a cut across the chest is theatre unless it opens the pleura. Fingers,
+cut; a cut across the chest is theater unless it opens the pleura. Fingers,
 tendons of the forearm and the hamstring end a fight without killing.
 
 **Thrust (spear, sword point, rondel).** Narrow, deep, hard to stop. Enters
@@ -42,7 +42,7 @@ dead in days at a pre-modern ceiling.
 **Crush (mass combat press).** Asphyxia standing up; ribs against ribs; the
 man dies upright and stays there.
 
-## Armour interactions
+## Armor interactions
 
 Gambeson: turns a glancing cut, absorbs blunt partially, nothing against
 thrust with weight. Mail: stops cuts, fails to thrust and to blunt (the

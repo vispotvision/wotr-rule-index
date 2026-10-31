@@ -50,7 +50,7 @@ Bare `python build/query.py` prints a missing-pyyaml error; use `build/py.sh`.
 | `naming` | naming a person, place, technique, house or culture |
 | `worldbuilding` | setting texture, technology level, material culture |
 | `standing-inventory` | per-culture idiom and texture |
-| `items` | weapons, armour, artefacts, consumables |
+| `items` | weapons, armor, artifacts, consumables |
 | `character-sheet` | the card, entry format, technique entries |
 | `documents` | in-world documents, deliverable format |
 | `verification` | `verify_scene` / `build/verify.py`, the self-review pass |

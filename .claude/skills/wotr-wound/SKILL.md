@@ -1,6 +1,6 @@
 ---
 name: wotr-wound
-description: "Real injury research for War of the Realms fights. Use this BEFORE writing any wound, hit, cut, shot, burn, fall or finisher in WOTR, and whenever Isaac asks what a blow would actually do, how long a man has, whether he can still fight, or what heals. Given weapon, angle, armour tier and the target's Vitality, it returns the anatomy struck, the ATLS haemorrhage class, the minute-by-minute functional timeline, what kills by morning, and what the Ledger records. Trigger even when the beat only implies injury (a fall, a fire, a crush, a ricochet)."
+description: "Real injury research for War of the Realms fights. Use this BEFORE writing any wound, hit, cut, shot, burn, fall or finisher in WOTR, and whenever Isaac asks what a blow would actually do, how long a man has, whether he can still fight, or what heals. Given weapon, angle, armor tier and the target's Vitality, it returns the anatomy struck, the ATLS haemorrhage class, the minute-by-minute functional timeline, what kills by morning, and what the Ledger records. Trigger even when the beat only implies injury (a fall, a fire, a crush, a ricochet)."
 ---
 
 # wotr-wound
@@ -10,7 +10,7 @@ from memory. This skill returns a wound brief the prose is then written from.
 
 ## Inputs (ask only for what the beat does not supply)
 
-Weapon and its mass. Angle and target region. Armour tier at that region
+Weapon and its mass. Angle and target region. Armor tier at that region
 (none, gambeson, mail, plate, proofed plate; worked or unworked). Target's
 Stage and Vitality line via `fow_line`. Distance and whether the man was
 moving into or away from the blow.
@@ -22,7 +22,7 @@ Research once per scene, only what is new, and reuse it after (R79-2).
 1. Read `references/injury-tables.md` for the matching weapon class.
 2. Search once (WebSearch) for the real injury: the anatomy at that angle, the vessel
    or organ, the bone. Trauma literature, not fiction. Name the source.
-3. Search once for the armour interaction at that tier (mail against thrust,
+3. Search once for the armor interaction at that tier (mail against thrust,
    plate against cut, gambeson against blunt). Pack Eleven: proof-marks are
    texture; a worked cuirass is stopped by the working, never the steel, and
    no sentence explains why a proofed round beats proofed plate (C-001 open).
@@ -51,4 +51,4 @@ Research once per scene, only what is new, and reuse it after (R79-2).
 
 Gore in full. Never soften. The POV's own body on the page as much as the
 opponent's. Kharven medicine speaks in bowls: "the third bowl" is Class III
-(pending entry). Nothing invented; an estimate is labelled.
+(pending entry). Nothing invented; an estimate is labeled.

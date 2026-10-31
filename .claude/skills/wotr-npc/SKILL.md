@@ -25,7 +25,7 @@ and carried name for Far-Northern people).
 ## The seven fields (roster order; Lie may be "none")
 
 1. **Want.** One concrete thing, this season, that the PC can help or hurt.
-   Not "respect": a licence renewed, a son back from the muster, the
+   Not "respect": a license renewed, a son back from the muster, the
    woodpile through the Thin Weeks.
 2. **Refusal line.** The thing they will not do no matter what is offered.
    Found by asking what they survived.
@@ -40,7 +40,7 @@ and carried name for Far-Northern people).
    what they never say. Gloss rights (who explains aloud in dialogue, a voice
    trait, not a gate on narration, R79-9): never, diagnostic only, or yes. Swap test against
    every other speaker in the scene.
-6. **Body.** Full first-sight inventory: hair by comparison (colour, texture,
+6. **Body.** Full first-sight inventory: hair by comparison (color, texture,
    length), face shape and one feature, body with shoulders, chest, waist,
    thighs, belly, hands named, clothing with fit and wear, one distinguishing
    mark, one scent.

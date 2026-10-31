@@ -10,7 +10,7 @@
 | quiet / interior / travel | prose-law, pov, scene-structure, standing-inventory, register |
 | explicit scene | prose-law, dialogue, pov, scene-structure |
 | a working performed on the page | prose-law, magic-mechanism, combat (+ codex if new) |
-| firearms, armour, gear | prose-law, items, combat, adjudication |
+| firearms, armor, gear | prose-law, items, combat, adjudication |
 | session start or end | session-protocol |
 
 The moment a formation exists, mass-combat rules take over: sensory order
@@ -51,7 +51,7 @@ and no reward or penalty lines. No Rumor Mill, no printed recap (R79-2).
 ## Adjudication without dice
 
 Stage gap and Dominion decide Pressure. Dexterity decides measure and reaction.
-Ardency Penetration against armour tier. Gnosis for the read. Tempering for
+Ardency Penetration against armor tier. Gnosis for the read. Tempering for
 duration and push. Harmonics against local Aetheric Density for the draw.
 Vitality for wounds, ATLS class on top. Resilience for what a working does to
 the Crystal. Path gates for what a character cannot do. The stats decide out of sight:
@@ -64,7 +64,7 @@ Who may read whom is in `wotr-stat-line` (R70-78 to R70-99).
 Pressure shows in the room first (smoke, frost, lamp flames, the draw-hum,
 animals), then in bodies (R70-69): one Stage up bends attention; two, sweat
 and nausea; three or more drops people; a Band gap changes the weather.
-Each practitioner's aura also shows, in their own colour, brighter as they push (R78-6). Suppression tires. Killing intent is Pressure aimed through Dominion and needs
+Each practitioner's aura also shows, in their own color, brighter as they push (R78-6). Suppression tires. Killing intent is Pressure aimed through Dominion and needs
 a ruled mechanism before first use (R70-70).
 
 The read is the game. A self-derived technique gets exchanges of evidence
@@ -87,7 +87,7 @@ breaking, swift (R70-15); paired and cumulative sentences wherever the
 movement wants them. No sentence-length, rhythm or count rule (R79-3).
 Reification by ear, never at the beat (R49-21). Every blow is body, path,
 target, result and what it cost; what a fighter read and the opening he found
-are shown as behaviour (R79-6). Fight jargon, Eastern or Western, is free and
+are shown as behavior (R79-6). Fight jargon, Eastern or Western, is free and
 never required; a technique or release is called in English or the speaker's
 own tongue, as the character would; afterimages for speed (R78-5, R79-6).
 Exchanges where nothing lands may be summed in a sentence; every hit that
@@ -120,14 +120,14 @@ speech and italic thought only (R70-37); narration and documents stay
 timeless; system and science words are free in a trained POV's narration,
 and a commoner's narration keeps his own words (R79-4, R78-3). The checker's
 modern-word list catches slang in narration (R48-13, R49-44, R51). Narration
-sounds like the POV's own reach, close by default, with the culture as flavour
+sounds like the POV's own reach, close by default, with the culture as flavor
 (R79-4). An improvement of his post is a free rewrite keeping his intent, and
 keeps the tense and person he wrote in unless he asks for a conversion (R79-4,
 Isaac's coverage answer 2026-10-17).
 Voice differentiation is the surviving law: if two characters' lines could swap
 unnoticed, the scene failed; voices are mind and sound in equal measure (R52-02).
 
-Humour wherever earned; each character's own humour governs, fights included
+Humor wherever earned; each character's own humor governs, fights included
 (R79-5), and anime gags, setup and reaction included, come from the characters
 who play that way (R78-8). Sodoku jokes only by accident (R52-14). Speeches
 carry no cap, and accents are written in full phonetic spelling, each card

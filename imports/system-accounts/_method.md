@@ -335,3 +335,5 @@ accounts resolves to a row, and every row is cited by at least one account
 **Nothing is resolved.** The four largest are `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR` and `SA-GAP-TURN-LENGTH`, and
 each of them blocks a check the issue asked for.
+
+> Moved 2026-10-30: `_conflicts.jsonl` now lives at `archive/old-lore/imports/system-accounts/_conflicts.jsonl` (it names old-lore characters).

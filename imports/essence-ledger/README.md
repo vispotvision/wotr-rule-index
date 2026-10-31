@@ -176,3 +176,5 @@ threshold had been read against the C-Grade Durability row, and is `attested`.
 Souma Byakuya Moto's 0.005 PJ Durability keeps its class but now matches the
 B-Grade Durability ceiling rather than Part Eleven's prose illustration, the two
 being the same 5 TJ. Nothing else moved, and no card figure was changed.
+
+> Moved 2026-10-30: `physics-check.md` now lives at `archive/old-lore/imports/essence-ledger/physics-check.md` (it quotes old-lore cards).

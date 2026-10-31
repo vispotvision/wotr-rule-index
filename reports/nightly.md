@@ -1,4 +1,4 @@
-# Nightly — 2026-10-30 03:30
+# Nightly — 2026-10-31 03:30
 
 ## Overnight
 
@@ -10,17 +10,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 - docket 0 outstanding
 - conflicts open 1
 - findings NEW 0 / CLEARED 0 / STILL OPEN 4
-
-## Scenes archived since the last run
-
-- `gods_bane`
-- `paru_86`
-- `the_cold`
-- `the_debt`
-- `the_grey_wall`
-- `the_last_combustion`
-- `the_summons`
-- `the_wrath_wakes`
 
 ## The book
 
@@ -41,6 +30,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 113 push(es), 0 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-10-25 (5 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-25.zip (41.9 MB, 1173 files)
-- last run of this digest: 2026-10-29T03:30:00
+- sync: 95 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-25 (6 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-25.zip (41.9 MB, 1173 files)
+- last run of this digest: 2026-10-30T03:30:04

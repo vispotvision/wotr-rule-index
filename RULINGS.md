@@ -3463,3 +3463,9 @@ Context: Isaac: the old-lore scenes are no longer canon. Agent ruling applied by
 Cozbi Mahuo kit cut (2026-11-01): per Isaac, only the Antithesis-related kit remains. Removed: the Traits (The Called Dead Answer, The Hollow Seat, The Keeper's Tense), the Domain (The Long Hall), the techniques Dead Letter, The Pallbearers, Wake and The Post Roads, the three Releases, and the Vow. Remaining: Ability Antithesis, and the techniques The Founding, The Bound Wild and The Conscripts. The registered law at Stage XIII is now Antithesis. Narrative sections (identity, art, who he is, the Order) are untouched. Releases, a Domain and a vow can be rebuilt on Antithesis when Isaac asks.
 
 Context: Isaac: "get rid of all his other traits keep only these ones we made now" / "only the antithesis related stuff". Agent ruling applied by Natalie.
+
+## 2026-11-01 — new
+
+Naiser Yukari upgraded to Level 395 (2026-11-01, Isaac's direction): Band IV Mythic, Stage XII Emanation, Tier 7 Grandmaster, Grade cap SSS (ceiling 950), Aether Class V Radiant, Crystal Sovereign (Refined), eta 0.89, reserve 3.03e8 EU (law of reserves), Flux Density 4.8e6 EU/g, AU/s 4.27e6. Pool 14,295 (6,495 Levels + 7,800 Thresholds I-XII), allocated by his profile with Dominion lifted at Emanation. Kit rewritten in the Hiromi layout: Traits Twin-Blood Harmony, The Entered Word, The Breath's Continuance; Domain The Corridor Between Halls (formed naturally at Emanation); techniques Kage no Keifu, Yukari no Mon, Ryoke no Kata and new Kemuri no Han; Releases The Twin Mantle, The Corridor Between Halls, The Record Opens. Temperance record: Stages VII-X in guarded seclusion, XI on the slope above the river, XII the morning after. Identity, appearance, psychology, lore and ties unchanged.
+
+Context: Isaac: "now lets upgrade Naiser's character card he's level 395". Agent ruling applied by Natalie.

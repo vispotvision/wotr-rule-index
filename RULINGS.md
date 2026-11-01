@@ -3457,3 +3457,9 @@ Context: Isaac: "Cozbi is a man ... he is Antithesis", "I wanted him to be a sum
 Cozbi Mahuo (2026-11-01): the old-lore scenes (lore/v1) are not canon and nothing on his card is drawn from them. Superseding the earlier entries: THE BOUND CALAMITY (dragon, Merged Form) and THE AMALGAMATIONS are withdrawn and replaced by THE BOUND WILD (sealed compacts with living powers, Spirit Singularity) and THE CONSCRIPTS (drafts on harvested soul-fragment, Axis Binding, Echo Manifestation), both built on the current Infinite Summoning Arts page. THE FOUNDING stands (Concordia). His Ability remains Antithesis (Field Manual: Cozbi is Antithesis), described fresh as a held seam where an attraction and its negation share one point; no Rescind, Valorin or Dhaerin counters. He is a man, 25, a great summoner across every school, with the dead as his house art.
 
 Context: Isaac: the old-lore scenes are no longer canon. Agent ruling applied by Natalie.
+
+## 2026-11-01 — new
+
+Cozbi Mahuo kit cut (2026-11-01): per Isaac, only the Antithesis-related kit remains. Removed: the Traits (The Called Dead Answer, The Hollow Seat, The Keeper's Tense), the Domain (The Long Hall), the techniques Dead Letter, The Pallbearers, Wake and The Post Roads, the three Releases, and the Vow. Remaining: Ability Antithesis, and the techniques The Founding, The Bound Wild and The Conscripts. The registered law at Stage XIII is now Antithesis. Narrative sections (identity, art, who he is, the Order) are untouched. Releases, a Domain and a vow can be rebuilt on Antithesis when Isaac asks.
+
+Context: Isaac: "get rid of all his other traits keep only these ones we made now" / "only the antithesis related stuff". Agent ruling applied by Natalie.

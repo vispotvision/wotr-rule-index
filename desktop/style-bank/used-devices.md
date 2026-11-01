@@ -32,3 +32,18 @@ Images, beats and sounds already spent in drafted fights. A new fight does not r
 - Signature image: a blade's pitch as a thermometer (the duelist who cannot hide his heat is heard as a falling note); standing-wave ripples frozen on a pool as the perfect hit; a floor of sinter rung to collapse by striking its own note; a duelist who counts his hits aloud.
 - Spent: First/Second/Third counted hits; the fork cooled in a snowmelt runnel; the sound of the world draining out one piece at a time (retired as stock for perfect hits); "I'll still have to take your swords" and a cheaper-second-man warning from a beaten duelist; bones that "sing" as a wound; "Hm. So it sings both ways."
 - Sounds: tonnng (the fork, signature), dwoom, pkkt, shff, fssst, tik-tik-tik, tak, tk.
+
+### The Owl and the Fox (2026-10-31)
+- Signature image: the grudge bank filling as the fight's clock (two Grandmasters landing everything for three breaths and filling a twentieth of the line); the Sin's furnace roar stopping with his heart (AKA-TE, commotio cordis) and Ignivale restarting it like a surgeon's fist; the gold line from Muken's Eye laid across the air to the old crack at the nape.
+- Spent: owl-feather planes of light that cut by ablation and light the target through (SHIROBANE); a fox-maw arrow that bites and holds to hear the heart (KITSUNE-YA); an arrow carried crosswise in the teeth; a working split at its seam and its fallen fire meeting snowmelt in a steam blast; a fighter cutting the burning meat off his own forearm with a meat knife; a spearhead quenched brittle by a second touch and shattered by a knee into the wielder's face; a heat-vortex winding the air round a man like thread on a spindle; "Now we're both old men" (also used by Raizan in The Ford: retire it).
+- Sounds: swshhh, rin, shu, hyun, kon, dooon, BYON (bow, signature), hyuuuu, pashi, gabu (fox bite, signature), bou, GOHHHH, kiiin, ZUDOOOON, zazazaa, mishimishi, BAGOOOM, gochi, chiki chiki, kachi, pichi, pakin, bokin, DOKUN, BACHIN, DOOOKUN, GOAAAAA, zoku, JUUUUWAAAAH, PARIIIIN.
+
+### Without Interval (2026-11-01)
+- Signature image: a road going out of a man's memory like a lamp blown out in a long house, one road per life sent to safety; the indigo strip of a road-Domain laid through a red adiabatic dome like a river through a desert; a dying rider asking if it is summer.
+- Spent: a fighter stopped at an invisible weir-line and walking along it feeling for the end like a fence in the dark; a woman riding the villain's back with a staff across his throat while he walks on; a heart-Domain holding every heart in a field against heat; a lieutenant leaving her king to drag a man back onto the road; the death of a minor rider six paces off the only ground the rescuer can reach; heat stroke's "the dry".
+- Sounds: kssk, sha (the draw), kiii, mun, mera-mera, gotsu, giri, gooooo, jiwa, DOOOON (KODŌ, signature), dokdokdok, pishi-pishi, zaaaaa (TSUJI, signature), sara, kakon, bachabacha.
+
+### The Dead Note (2026-11-01)
+- Signature image: a death that never finished, heard as a dead note in a man's neck and run by the hero's ring through crossed blades; the nape opening in one straight line and bleeding like an ordinary man's; a host's web of threads going still at a question; tea poured high in a long amber thread.
+- Spent: a villain who strikes at the hero's sword to break it first; the guard's own sword taken off her and turned on the king she guards; a crater stamped under a man who becomes a wall; a shieldwoman driven on set heels into a fallen trunk with her mantle burning; a second, living note under the dead one; "you're mine now, and I'm yours."
+- Sounds: bogeul-bogeul, kkaak, jol-jol, huljjeok (Korean, Hiromi); BWOOOOOOM, GWAAANG, grrrnk (English, Muken).

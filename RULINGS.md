@@ -3439,3 +3439,9 @@ Context: Isaac, 2026-11-01, with concept art for a Cozbi redesign. Overrides The
 Table call, pending Isaac: Cozbi Mahuo's hosted guests (THE HOLLOW SEAT) and cast guests (DEAD LETTER) bring their skill, knowledge and fighting style whole, but can fire Wellspring arts only where Cozbi's own Crystal carries the current (Mortalis, Anima Spirare, Eidolyn). A dead person's Soul Crystal comes apart at death and does not travel with the Echo, so he gets the method of other arts but not the current to run them.
 
 Context: 2026-11-01. Isaac asked whether Hosting lets Cozbi take on almost anyone's abilities. Natalie recommended the method-not-current ruling; the alternative (powers come through at reduced strength on his reserve) was offered and not yet chosen. Written onto Cozbi's card as pending.
+
+## 2026-11-01 — new
+
+Cozbi Mahuo card: Isaac approves every pending proposal and invention on it (2026-11-01). Canon: Eressean-blood ear; age 52; the Called Dead Answer as the registered law; the vermilion refusal; the Order of the Spiritual Reality structure; the Sum-gol seam secret; guests carry skill and method but fire only Wellspring arts Cozbi's own Crystal carries; derived figures (eta 0.90, Domain radius, per-guest prices) stand. Cozbi does not repudiate the Zettari-Mahou Accord; he lets it shield the young while the Order is built outside it. The Southern Warlords page now names him head. No Kwon Mu-jin or Ara Min Mahuo ties. Kit rewritten in the Hiromi layout (native names, metaphysics and physics as one account, combat use in each part).
+
+Context: Isaac: "get rid of pending I approve everything". Agent ruling applied by Natalie at his direction.

@@ -241,3 +241,117 @@
   due: null
   status: open
   thread: The Sins
+- id: L024
+  category: the dead
+  who: Raizan Tenrai Moto
+  text: Killed by Shōki at the Kessen ford, the Karmic Fire venting out through him as blood-steam after
+    Shōki lifted his quench hand to save a child. The Tenrai house at Kessen burned to the beams.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L025
+  category: the dead
+  who: Aldo Brennick
+  text: Stark vanguard rider, 23, of a Hollenmark farm; died of heat stroke inside ABI in the cedar wood,
+    six paces off the road where Hayato's mask could not reach him.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L026
+  category: who knows what
+  who: The Kessen bridge crowd
+  text: Saw the Sin of Wrath pull a little girl in a yellow plum-blossom jacket out of the boiling ford;
+    she lives with his handprint burned round her left wrist.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L027
+  category: who knows what
+  who: Muken, Amelia, Lorn and the Stark riders
+  text: Saw Kiyome, Tetsugen and Hayato fight at Stage XI in the cedar wood (Kiyome's light, Tetsugen's
+    release to sixty-one, Hayato's road-cut, crossroads and fox mask). The Veil is gone for all three
+    in front of them.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L028
+  category: injuries and reserve
+  who: Muken Moto
+  text: Hairline cracks in both forearms wrist to elbow (SHIGOTO NO KABE), left knee injured, facial and
+    lip blisters; HIBI held near its ceiling on the dead crack at Shōki's nape.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L029
+  category: injuries and reserve
+  who: Kiyome Byakuya
+  text: Shard through the right cheek, shard over the right scapula, hands burned black, nails split,
+    harness blistered; field spear destroyed; her katana taken by Shōki.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L030
+  category: injuries and reserve
+  who: Tetsugen Akagane
+  text: Left forearm burned and cut away by his own knife to the bone at the wrist, one left rib broken,
+    throat burned; TOSHI-GAERI and KODŌ held, several years staying in his body.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L031
+  category: injuries and reserve
+  who: Hayato Amagiri
+  text: Eleven roads lost for good to KITSUNE-MEN, among them the Kessen road from the cedar wood to Grainsby
+    Ford; heat injury; mask burns on the cheeks.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L032
+  category: injuries and reserve
+  who: Shōki Kurenai Moto
+  text: The dead crack at the nape opened and bleeding like a man's, the first wound ENSHŌ cannot take;
+    heart stopped two seconds by AKA-TE; right lung torn; ONNEN bank at about a fifth of saturation; ABI
+    running with about twenty seconds left. Wrath now felt, with grief and regret inside it.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L033
+  category: injuries and reserve
+  who: Amelia Greymane and Lorn Stark
+  text: Amelia driven eight paces into a fallen cedar under STONEFAST, mantle on fire, burns from dragging
+    Hayato out. Lorn's FROSTFALL failing inside the furnace, the backlash coming.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+- id: L034
+  category: bonds
+  who: Hiromi and Cozbi Mahuo
+  text: Cozbi agrees to write to the Cedar Enclave by his own post so Hiromi, eleven, his sister's son,
+    may train with the Yukari.
+  opened: '2026-11-01'
+  opened_session: 3
+  due: null
+  status: open
+  thread: Kharven
+  fed: []
+  strained: []

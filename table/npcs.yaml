@@ -44,3 +44,25 @@
   doing_now: Drilling Imperial Guard recruits in the Seat's yard; saw Muken laughing at the tower window
   role: Leader of the Imperial Guard
   last_updated: '2026-10-29'
+- name: Hiromi
+  thread: Kharven
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: at the Sum-gol Post, waiting on his uncle's letter to the Cedar Enclave
+  stands_with: Cozbi Mahuo
+  last_updated: '2026-11-01'
+- name: Aldo Brennick
+  thread: Kharven
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: dead in the cedar wood on the Kessen road
+  stands_with: House Stark
+  last_updated: '2026-11-01'

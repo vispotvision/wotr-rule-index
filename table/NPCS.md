@@ -15,3 +15,12 @@
 **Lorn Stark** · wants: — · refuses: — · last seen: The Grey Wall: the Seat's yard
   - doing now: Drilling Imperial Guard recruits in the Seat's yard; saw Muken laughing at the tower window
   - role: Leader of the Imperial Guard
+
+## Kharven
+
+**Hiromi** · wants: — · refuses: — · last seen: —
+  - doing now: at the Sum-gol Post, waiting on his uncle's letter to the Cedar Enclave
+  - stands with him: Cozbi Mahuo
+**Aldo Brennick** · wants: — · refuses: — · last seen: —
+  - doing now: dead in the cedar wood on the Kessen road
+  - stands with him: House Stark

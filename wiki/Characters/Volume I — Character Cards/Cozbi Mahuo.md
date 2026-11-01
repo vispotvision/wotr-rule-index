@@ -15,10 +15,11 @@ private: true
 **Aura and sound** · near-white at Principality's clarity, washed through with arterial red at the fringe like red glass held up to the sun, a black-violet seam where Eidolyn runs under it; it reads as pressure before color · sound: a heartbeat from the wrong side of a door, *kung... kung...*, with a fine crystal ticking under it while his constructs form · smell: cold iron and grave soil, then copper
 **Releases** · THE KEEPER'S MANTLE (First) · THE LONG HALL (Second, opens the Domain) · CALL, AND IT ANSWERS (Third) · bonded weapon: none
 **Traits** · THE CALLED DEAD ANSWER (Primary) · tell: the dead nearby turn to face him · counter: a withheld true name / THE HOLLOW SEAT (Inherited) · tell: his voice takes the guest's accent · counter: someone who knew the guest knows its tells / THE KEEPER'S TENSE (Secondary) · tell: the living he has decided about go into the past tense · counter: a body with no boundary to read
-**Techniques** · DEAD LETTER · tell: a red-white seal opens in the air, *kung* · counter: the casting flaw / THE PALLBEARERS · tell: marching under the ground, *jeobeok* · counter: break the geometry / WAKE · tell: every guest goes still and gold-red · counter: distance / THE POST ROADS · tell: the crows on a post-house all turn one way · counter: take and hold the house
+**Techniques** · DEAD LETTER · tell: a red-white seal opens in the air, *kung* · counter: the casting flaw / THE PALLBEARERS · tell: marching under the ground, *jeobeok* · counter: break the shape / WAKE · tell: every guest goes still and gold-red · counter: distance / THE POST ROADS · tell: the crows on a post-house all turn one way · counter: take and hold the house
 **Vow** · GUESTS, NEVER SERVANTS: no Mahuo soul compelled; price, the black nail of his right ring finger
 **Voice** · "The Corwen keep the water. The Lamberts keep the count. We keep the dead. Nobody else would take them." · speaker type: a patient host who has already decided how the evening ends
 **Gloss rights** · unlimited
+**Kit format** · each art in the Superpower Wiki shape: the power in one line, Also Called, Capabilities, Applications, Techniques, Variations, Associations, Limitations, Known Users
 **Next gate** · Stage XIV, Zenith. Zenith is not broken into; it is conferred, by recognition from a Hollow Throne, and recognition is the thing his whole life is pointed at.
 
 ---
@@ -84,89 +85,150 @@ Pending the Stat Sheet. Reserve as in Section II; guest prices and drains are wr
 
 ### THE CALLED DEAD ANSWER (Primary Trait)
 
-When Cozbi reached Principality, the Continuum recorded a law he embodies, and this is it: a dead soul called by its true name by the Keeper answers. Answering means it comes to him, turns toward him and hears him out, wherever it is drifting. It does not mean it obeys. A summoner calls into the dark and hopes; Cozbi calls and is heard, and that one difference is the whole of his reputation. Calling a known name costs almost nothing, a breath's worth of his reserve. The real cost is that the dead remember who called them, every one, and some of them arrive angry. The tell is the one Naiser saw on the Sumgang: every dead thing within reach of his sense stops and turns to face him, even the ones he did not call, because the law runs whether he speaks or not. The counter is the name. A soul whose true name was withheld in life can hear him but is not bound to come. That covers Yukari *imi* names spoken only before Senri's stone, a Beastkin held-name kept by a witness, and a soul nobody ever named. A ring of Stillgate Ash grounds the dead inside it, so they have nowhere to answer from.
+**The power to call any dead soul by its true name and be heard.** Cozbi's registered law at Principality. A sub-power of Necromancy and Summoning; the root of every other art he has.
+
+**Also Called** · The Keeper's Law · the Answering (Sum-gol folk) · Name-Calling (Mahuo)
+
+**Capabilities**
+
+When a person dies, their soul comes apart and the piece that carries their self, the Echo, is meant to pass on. Since the war broke the Soul Plane, Echoes go nowhere. They drift in rivers and soak into the ground, and the south is full of them. Cozbi's Stage XIII breakthrough made one law about those souls part of how the world works: if he speaks a dead person's true name, that soul hears him wherever it is and comes to him.
+
+That is the whole power at its root. It decides **who comes**. It does not make them obey. A called soul arrives as itself, with its own memories, personality and will, turns to face him and listens. What it does next is a negotiation: most of the drift is lost, confused and glad to be spoken to, and does what he asks; a strong-willed soul can hear him out and refuse. Every other art in his kit (giving the dead bodies, hosting them, raising armies) is built on this one, because a summoner who has to hunt for the dead is slow and a summoner they come to is not.
+
+The law also runs on its own, all the time. Every dead soul within about a mile of him is aware of him and leans his way, the way iron filings lean toward a magnet. In practice that means he always knows where the dead are around him, how many, and roughly how they died, and no haunting, ghost or bound spirit near him is fully under anyone else's control.
+
+**Cost** · almost nothing in Essence; a name is a breath. The real price is that every soul he calls remembers who called it, and some arrive angry. **Tell** · every dead thing in reach stops and turns to face him, even the ones he did not call. **Counter** · a name he cannot use (below).
 
 **Applications**
-- Calls any dead person whose true name he knows to his side, from anywhere the drift has carried them.
-- Feels the direction of every Echo within a mile at once, the way a man feels which way a wind blows.
-- Makes a haunting stop mid-scream and turn to listen.
-- Questions the recently dead about how they died, and the dead answer, though not always truthfully.
-- Finds a corpse by calling the name of the person who was in it and following which way the Echo turns.
-- Reads a battlefield's dead as a crowd, telling at a glance which side lost more and where.
-- Silences a room of restless spirits with one word, buying an exorcist the time to work.
-- Calls a dead witness into a courtroom, which is why three southern courts have ruled the practice inadmissible and the fourth has not.
-- Pulls a newly dead ally's Echo back from the drift before it washes away, to be laid properly later.
-- Unsettles any summoner working near him, because their bound dead turn toward Cozbi mid-command.
-- Finds a lost Mahuo by name across the whole south, provided they are dead.
+- Summon any dead person whose true name he knows, from anywhere the drift has carried them.
+- Sense every dead soul within about a mile: where, how many, how long dead.
+- Question the dead about how they died, who killed them, what they knew.
+- Find a corpse by calling its owner's name and seeing which way the Echo turns.
+- Stop a haunting, a wraith or a rampaging spirit mid-attack by calling it to him.
+- Pull a rival necromancer's or summoner's bound dead off their leash, since those souls turn toward Cozbi when he is near.
+- Catch a dying ally's soul before it washes away, to be laid to rest properly later.
+- Read a battlefield's dead at a glance to see which side lost more and where.
+- Bring a murder victim's soul into a room as a witness.
+- Find any dead Mahuo anywhere in the south by name.
+
+**Techniques**
+- *Name-Call:* the true name spoken aloud; the strongest and surest call.
+- *Relic-Call:* calling through remains or a thing the dead person loved, when the name is unknown. Slower and weaker; the soul may come confused.
+- *Crowd-Hush:* one word that makes every soul in reach go quiet and listen.
+- *The Turn:* reading which way the drift leans to find where the dead are thickest.
 
 **Variations**
-- In a gentler Keeper the law would only ever soothe; in Cozbi it soothes and conscripts with the same word.
-- A Mahuo of lower Stage carries a shadow of it: the dead nearby notice them, and that is all.
+- Lower-Stage Mahuo carry a faint echo of it: the dead notice them and nothing more.
+- A gentler Keeper would only ever use it to lay souls to rest; Cozbi uses the same call to recruit.
 
 **Associations**
-- Chains with DEAD LETTER (a name called is a name cast into a body) and with THE KEEPER'S TENSE (he knows who will be answering soon).
-- Opposes the Yukari record, which keeps true names out of reach, and the Stillgate grounding rites.
+- The root of DEAD LETTER (a called soul given a body), THE HOLLOW SEAT (a called soul taken inside him) and THE PALLBEARERS (the nameless dead gathered in bulk).
+- Fed by THE KEEPER'S TENSE, which tells him who will be dead soon.
 
-**Limits**
-- Answering is not obeying; a dead soul with a strong will can hear him out and refuse.
-- Withheld true names, unnamed souls, grounded ground and the living are all outside it.
-- The dead keep score of who called them.
+**Limitations**
+- Works only on the dead. The living are untouched.
+- Needs a true name, remains or a loved object. A soul that never had a name, or whose name nobody knows, cannot be called.
+- A **withheld true name** is safe. Yukari true names are spoken only before Senri's stone; a Beastkin held-name is kept by a witness. Such souls hear him and are free to ignore him.
+- **Grounded** dead are out of reach. A ring of Stillgate Ash gives a soul somewhere to go, so it has nothing to answer from.
+- Calling is not commanding. Strong souls refuse, bargain, lie or come in hostile.
+- The dead keep score.
+
+**Known Users** · Cozbi Mahuo. Lesser forms in the Mahuo line.
 
 ### THE HOLLOW SEAT (Inherited Trait)
 
-The Mahuo branches have always carried the aptitude for hosting the dead, and Kwon Mu-jin's branch lost it. Cozbi has more of it than anyone alive. He seats a dead guest inside his own body the way a host seats a guest at the head of his table: the guest's skill, reflexes and knowledge become his for as long as it stays, and Anima Spirare drives the borrowed body-memory through him in a cascade, so the guest's craft arrives whole instead of in pieces. He can host one guest comfortably, three under strain and never more. It costs him in bleed-through: the guest's habits stay after the guest leaves, a dead swordsman's grip, a dead fishwife's swearing, sometimes for weeks, and he has never been entirely sure which of his own habits were his to begin with. The tell is his voice taking on the guest's accent, and the white of his aura picking up the guest's color at the edge. The counter is history: a hosted guest fights exactly as it fought in life, so anyone who fought or trained beside that person knows all its tells, and a wound to the host while a guest is seated lands on both of them.
+**The power to take a dead person's soul into one's own body and use their skill, reflexes and knowledge as one's own.** Mahuo bloodline hosting, at its strongest. A form of Possession turned inside out (the host stays in charge) and of Skill Replication.
+
+**Also Called** · Hosting · the Guest's Chair · Seating the Dead
+
+**Capabilities**
+
+The Mahuo branches have always been able to carry the dead inside themselves; Kwon Mu-jin's branch lost it, and Kwon Hae-ryu's kept a careful, slow version. Cozbi has it at full strength. He invites a dead soul in, seats it in his body like a guest at his table, and for as long as it stays, everything that soul *knew how to do* is his: a swordsman's footwork and timing, a surgeon's hands, a linguist's tongue, a locksmith's ear, a general's feel for a battlefield. Anima Spirare, the blood-current of his house, drives the guest's body-memory through him all at once, so the skill arrives whole the moment the guest sits down. He does not learn it. He has it.
+
+What makes this frightening is the combination. The guest supplies the skill; Cozbi supplies a Stage XIII body and reserve. A dead master's technique, which in life ran on a master's strength and speed, now runs on his. He stays the driver the whole time: the guest advises and its reflexes fire, but it cannot take the wheel unless he lets it.
+
+**What he gets and what he does not (recommended ruling, pending Isaac).** A dead person's Soul Crystal does not travel with them; at death it comes apart and only the Echo drifts. Their Wellspring powers ran on that Crystal. So from a guest he gets the **method** of every art they knew, exactly and completely, but he can only **fire** an art if his own Crystal carries the matching Wellspring (Mortalis, Anima Spirare, Eidolyn). A dead fire master teaches him precisely how the fire works and leaves him unable to light it. A dead necromancer, blood-healer or construct-shaper comes through at full power, because those run on currents he holds. Physical skill, fighting style, knowledge and memory always come through whole.
+
+He can seat **one** guest comfortably, **two** with effort and **three** at the edge of what his blood can take. Never more.
+
+**Cost** · bleed-through: a guest's habits, fears and grudges stay after it leaves, sometimes for weeks, and he is no longer sure which of his own habits started as his. **Tell** · his voice takes on the guest's accent, and the white of his aura picks up the guest's color at the edge. **Counter** · history (below).
 
 **Applications**
-- Hosts a dead master swordsman and fights as that swordsman, with Cozbi's Stage behind the blade.
-- Hosts a dead linguist to speak a tongue he never learned, accent and all.
-- Hosts a dead physician to set a bone or close a wound with a master's hands.
-- Hosts a dead scout to read tracks, weather and ground like a native of the place.
-- Hosts a dead smith to judge a blade's temper at a glance.
-- Hosts the previous owner of a lock, a cipher or a house and walks straight through its secrets.
-- Holds a guest's dying knowledge (a password, a burial place, a betrayer's face) and reads it out aloud.
-- Carries a frightened Echo inside himself across hostile ground, safe from grounding or exorcism.
-- Seats three guests at once to fight with three schools in one body, at the cost of a pounding heart and bleeding gums.
-- Lends his body for a night to a dead parent so their child can say goodbye, which is the first service the Order sells.
+- Fight as any dead master whose name he knows, with Stage XIII power behind their technique.
+- Combine up to three fighting styles at once, switching between a swordsman's guard, a spearman's reach and a wrestler's clinch inside one exchange.
+- Use any dead specialist's expertise instantly: medicine, smithing, engineering, tracking, navigation, law.
+- Speak any language a dead native speaker knew, accent included.
+- Know anything a guest knew in life: passwords, hiding places, faces, secrets, battle plans.
+- Learn exactly how a rival school fights by hosting one of its dead.
+- Read an enemy's tells by hosting someone who once fought them.
+- Fire any death, blood or construct art a guest knew, at full power.
+- Shelter a frightened soul inside himself across hostile ground, safe from exorcism.
+- Lend his body for a night to a dead parent so their family can say goodbye.
+
+**Techniques**
+- *Seating:* inviting one guest in; quick, and safe.
+- *Full Table:* three guests at once, three schools in one body; his heart pounds and his gums bleed.
+- *Clearing the Table:* putting all guests out at once, used when a seated guest is wounded or turning on him.
 
 **Variations**
-- In Kwon Hae-ryu's branch the same blood hosts slowly and carefully, and only things that carry rather than fight.
-- In a weaker host the guest drives and the host rides; in Cozbi the guest only ever drives what he lets it.
+- In Kwon Hae-ryu's branch it hosts only things that carry rather than fight, slowly and carefully.
+- In a weaker host the guest drives and the host rides; in Cozbi the guest only ever drives what he allows.
 
 **Associations**
-- Works with THE CALLED DEAD ANSWER (named guests come willingly) and with THE KEEPER'S MANTLE (which shelters a hosted guest from being driven out).
-- Chains with Imprint Summoning, since a guest he has hosted can be cast later as an exact replica.
+- A guest he has hosted once can later be cast perfectly with DEAD LETTER, or as a cheap copy (Imprint).
+- THE KEEPER'S MANTLE protects a seated guest from being driven out.
+- THE CALLED DEAD ANSWER brings the guests.
 
-**Limits**
-- Three guests at most, and three is a hemorrhage risk.
-- Bleed-through is cumulative and he cannot always tell what is his.
-- A guest's grudges, fears and injuries arrive with its skill.
-- The Anima Spirare failure, disseminated activation: hosting past his limit runs his blood's cascade everywhere at once, and he bleeds from the gums, the nose and the eyes until the guests are put out.
+**Limitations**
+- Dead people only, and only ones he can call by name (see THE CALLED DEAD ANSWER).
+- The guest must agree to sit. A soul that refuses cannot be hosted.
+- Three at most.
+- Method without current: Wellspring arts outside his own three cannot be fired (if the ruling stands).
+- A guest fights exactly as it fought in life, so **anyone who fought, trained or lived beside that person already knows all its tells**. Host a famous duelist and every rival of that duelist can read you.
+- A guest brings its injuries, fears and grudges along with its skill.
+- A wound to him while a guest is seated lands on both of them.
+- **Disseminated activation**, the Anima Spirare failure: hosting past his limit runs his blood's cascade everywhere at once, and he bleeds from the gums, nose and eyes until he clears the table.
+
+**Known Users** · Cozbi Mahuo (full). Kwon Hae-ryu (partial, carrying forms only). Lost in Kwon Mu-jin's branch.
 
 ### THE KEEPER'S TENSE (Secondary Trait)
 
-Mortalis lets him read the line every living body walks between keeping itself together and letting go. He sees it as temperature: how far each person in a room stands from the boundary. He can tell who is sick and does not know it, who has been bleeding inside since the last fight, who has a year and who has a night. He reads it like a gauge, constantly and without trying. The price is the Mortalis failure, Equilibration. A man who stands at the boundary all day cools toward it without noticing. His hands are always cold, his pulse runs slow, he forgets to eat, and the living start to read to him as drafts of the dead they will become. The tell is the one he cannot hide: once he has decided a living person will die, he speaks of them in the past tense. The counter is a body with no boundary to read. A wearer of Veilthread Salve returns nothing to his sense, and neither does a construct or a Limina practitioner holding a void-veil.
+**The power to see how close any living body is to death.** A Mortalis sense. A form of Death Sense and Vital Reading.
+
+**Also Called** · Death-Sight · the Gauge · reading the line
+
+**Capabilities**
+
+A living body only stays alive by spending energy every moment to hold itself together; death is the spending stopping. Mortalis lets Cozbi see that line directly, as a kind of temperature on everyone around him: how hard each body is working to stay alive and how much it has left. He reads it constantly, without trying, the way most people see color.
+
+That means he knows, at a glance, things people work hard to hide: who is badly hurt under their armor, who has been bleeding inside since their last fight, who is poisoned and does not know it yet, who is sick, who is exhausted, and roughly how long anyone has, whether that is a year or a night. In a fight he knows exactly when an opponent's body is closest to giving out, and he times his biggest blows for those moments. He also tells the living from the dead and from constructs instantly, because constructs and the dead have no line to read.
+
+**Cost** · Equilibration, the Mortalis failure. Someone who stares at the line all day cools toward it without noticing: his hands are always cold, his pulse runs slow, he forgets to eat, and the living start to look to him like drafts of the dead they will become. **Tell** · once he has decided a living person will die, he starts speaking of them in the past tense. **Counter** · a body with no line to read (below).
 
 **Applications**
-- Knows at a glance how badly a fighter is hurt, however well they hide it.
-- Sees which of an enemy's soldiers are already dying and ignores them.
-- Diagnoses a poisoning before the poisoned man feels it.
-- Times a strike for the instant an opponent's body is furthest from holding together.
-- Picks the one person in a crowd who will die first if the building comes down, and moves them.
-- Knows when a hosted guest is starting to come apart and puts it out in time.
-- Reads which of two twins is the elder by how far each stands from the line.
-- Tells a living person from an Eidolyn, Animatria or flesh-golem double instantly, because constructs have no boundary.
-- Prices a death for the Order's ledger: how long, how hard, what passage it will need.
+- See through any bluff about an injury.
+- Know how much fight an opponent has left, and when they are about to drop.
+- Time the finishing blow for the instant the opponent's body is weakest.
+- Ignore enemies who are already dying and focus on the ones who are not.
+- Spot poison, disease or internal bleeding before symptoms show.
+- Tell real people from doubles, illusions, puppets and constructs instantly.
+- Pick which person in a crowd will die first if a building falls, and move them.
+- Know when one of his own seated guests or summons is about to come apart.
+- Price a death for the Order's books: how long, how hard, what passage it needs.
 
 **Variations**
-- In a healer the same sense would be a gift beyond price; in Cozbi it is a gauge reading out everyone's remaining time.
-- In the Necrocursica's Averted Regard it is the same sense gone wrong: the practitioner stops being able to look at the living at all.
+- In a healer the same sense would be a gift beyond price.
+- In the Necrocursica's Averted Regard it goes wrong completely: the practitioner stops being able to see the living as living at all.
 
 **Associations**
-- Feeds THE CALLED DEAD ANSWER (he knows whose names he will be calling soon) and WAKE (he knows when a field is ripe).
+- Tells THE CALLED DEAD ANSWER whose names he will be calling soon; tells WAKE when to fire.
 
-**Limits**
-- Constructs, the veiled and the void-trained read as blank.
-- Equilibration: every year at the boundary takes something warm out of him that does not come back.
+**Limitations**
+- Reads nothing from constructs, the dead, or anyone veiled. A wearer of Veilthread Salve, or a void-trained Limina fighter, returns a blank.
+- It shows him how close someone is to death, not what they will do. A fighter with nothing left can still swing.
+- Equilibration is permanent and cumulative: every year at the line takes warmth out of him that does not come back.
+
+**Known Users** · Cozbi Mahuo.
 
 ---
 
@@ -174,7 +236,33 @@ Mortalis lets him read the line every living body walks between keeping itself t
 
 ### THE LONG HALL (opened by the Second Release)
 
-Called aloud, with the full name: "The Long Hall." A gong sounds from nowhere, *deung*, and the hall at Sum-gol, the one burned in the war, stands up around him: red lacquered pillars, white paper screens, a table running further than the eye can follow, laid for every guest who ever ate there. The Domain's law is the law of a host's table. Every dead soul inside the hall is his guest and answers him whether he knows its name or not. Anyone who dies inside it takes a seat at the table at once, and rises on his side. The living inside feel the hall's weight as a host's courtesy that cannot be refused. It costs a Domain's draw at Band V, heavy enough that he holds it in minutes, not hours, and its edge is as far as he can see from where he called it, up to about a mile *(derived; Dominion Radius pending the Stat Sheet)*. The tell is the gong, then the doors appearing in the air at the hall's edge. The counter is the doors: the hall has them, because every hall does, and a guest may leave by one until the gong sounds a second time and they shut. A fighter who walks out before the second gong is outside his law.
+**The power to rebuild the burned hall of Sum-gol around the battlefield as a Domain where every death serves him.**
+
+**Also Called** · The Host's Table · the Hall That Was Burned
+
+**Capabilities**
+
+Called aloud, by its full name: "The Long Hall." A gong sounds out of nowhere, *deung*, and the great hall of Sum-gol, burned in the war, stands up around him: red lacquered pillars, white paper screens, and a table running further than the eye can follow, set for every guest who ever ate there.
+
+A Domain is a space where his law outranks the world's. The law of this one is **the law of a host's table**:
+- **Every dead soul inside is his guest** and answers him, named or not, with no true name needed.
+- **Anyone who dies inside takes a seat at once and rises on his side.** Every enemy who falls joins him. Every ally of yours who falls joins him.
+- The living inside feel the hall's weight as a host's courtesy that is very hard to refuse: pressure, slowness, the urge to sit down.
+
+It reaches as far as he can see from where he called it, up to about **a mile** *(estimate pending his sheet)*, and he holds it for **minutes, not hours**, because a Band V Domain is heavy to keep up.
+
+**Tell** · the gong, then doors appearing in the air at the hall's edge. **Counter** · the doors (below).
+
+**Applications**
+- Remove the need for names: every dead soul in range is his to call.
+- Turn every casualty on the field into a soldier for him.
+- Punish an enemy army for every man it loses.
+- Make it nearly impossible to kill his summons without feeding him more.
+
+**Limitations**
+- **The hall has doors, because every hall does.** Anyone who walks out through one before the gong sounds a **second** time is outside his law. After the second gong they shut.
+- Minutes, not hours.
+- Its edge is fixed where he called it.
 
 ## X. Techniques
 
@@ -182,120 +270,181 @@ Called aloud, with the full name: "The Long Hall." A gong sounds from nowhere, *
 
 #### DEAD LETTER (signature summoning)
 
-A dead letter is post-office language for mail that cannot be delivered and cannot go back, and since the Soul Plane broke every Echo in the south has been one. Cozbi delivers them. He names a dead person, they answer under his law, and he casts them a body out of Eidolyn: the air nucleates along a template of the person as they were, and the body sets as real material, with real weight and real strength, faithful down to the scar. Inside it is the dead person, with their own self, their own skill, their own mind. It costs 120,000 EU to call and cast, less than a ten-thousandth of his reserve, and 12,000 EU a second to keep it standing, which holds one guest for some thirty-five hours from full. Being an Infinite drafter, he pays that first-call price every time; nothing gets cheaper with use. Each open guest is a thread on his body: he cannot sleep normally while one stands, cannot digest properly and grows thinner over a campaign. The condition is the name: he must know the person's true name, or have their remains or a thing they loved in his hand. The visible charge is a seal of red-white light opening in the air in front of him like a letter being unsealed, and the heartbeat sound coming through it, *kung*, before anything steps out. The counter is the casting. Eidolyn reproduces every flaw in the template exactly, so a fighter who finds the flaw (a misremembered limp, a hand cast slightly too small, a weak joint where Cozbi's memory was weak) can break the body there, and the guest drops back into the drift.
+**The power to call a specific dead person back into a real, solid body, with their own mind and skills.** Cozbi's named summoning. A form of Resurrection-by-Summoning and Construct Creation; Infinite-school drafting on a foundation of called souls.
+
+**Also Called** · Delivering the Mail · Return to Sender (Sum-gol joke)
+
+**Capabilities**
+
+A dead letter is post-office language for mail that cannot be delivered and cannot be sent back, which is what every soul in the south has been since the Soul Plane broke. Cozbi delivers them. He calls a dead person by name (THE CALLED DEAD ANSWER), and then, with Eidolyn, he builds them a body: the air crystallizes along a template of the person as he remembers them and sets as real flesh and bone, with real weight and real strength, faithful down to the scars. The soul steps into it, and that person is standing in front of him again.
+
+The result is the person, not a puppet. They think for themselves, remember their life, fight with every skill they ever had and can talk, plan and improvise. A dead general can command; a dead swordsman can duel; a dead engineer can fix the machine they built. Their body is as strong as the person was in life, carried on Cozbi's power, and it stays up as long as he keeps feeding it. The same rule as THE HOLLOW SEAT applies to their magic: physical skill and knowledge come through whole, and Wellspring arts only fire if they run on currents his Crystal carries *(recommended ruling, pending Isaac)*.
+
+Because the dead bring their own souls, he only pays for the body, which is why he can afford this so freely. Calling and casting one costs **120,000 EU**, less than a ten-thousandth of his reserve, and keeping them standing costs **12,000 EU a second**, about **thirty-five hours** for one from full. Being an Infinite drafter, he pays that first-call price every single time.
+
+**Cost** · each guest standing is a thread pulling on his body: while any are up, he cannot sleep properly, cannot digest well and grows thinner over a campaign. **Condition** · he must have the true name, the remains, or a thing the person loved. **Tell** · a seam of red-white light opens in the air like an envelope being unsealed, and a slow heartbeat sounds through it, *kung*, before anything steps out. **Counter** · the casting flaw (below).
 
 **Applications**
-- Calls a named dead warrior back into the fight in a body that remembers every scar and every technique.
-- Calls a dead master to teach a living student face to face for a night.
-- Calls a murder victim to point at their murderer in front of witnesses.
-- Calls a dead engineer to repair the machine they built.
-- Sends a guest walking ahead into a trap, a ward or a poisoned room, since it is already dead.
-- Casts a guest's body with a deliberate change (a longer reach, a harder skin) at the cost of the guest's comfort and trust.
-- Calls a dead enemy commander and asks them where they hid their reserves.
-- Casts a guest small enough to carry a message down a well or through a keyhole.
-- Lets a family sit at table one more time with someone they buried.
-- Calls a dead guard who knew a fortress's passwords to walk him through the gate.
-- Casts a guest in the body of a beast it once rode, so a dead cavalryman comes back mounted.
-- Lays a guest down properly afterward, sending it on to wherever it should have gone, which is the service the Order exists to sell.
+- Bring back a dead master warrior to fight beside him with their full skill.
+- Bring back a dead commander to run his army.
+- Bring back an enemy's dead loved one, and put them in front of the enemy.
+- Bring back a murder victim to name their killer before witnesses.
+- Bring back a dead expert (an engineer, a scholar, a physician) to do their work.
+- Send a summoned guest first into a trap, a ward or a poisoned room, since it is already dead.
+- Build a guest a better body than they had (longer reach, harder skin), at the cost of their comfort and trust.
+- Cast a guest small enough to fit through a keyhole or down a well.
+- Return a dead cavalryman on his dead horse.
+- Let a family sit at the table one more time with someone they buried.
+- When done, lay the guest to rest properly, which is the service his Order exists to sell.
+
+**Techniques**
+- *The Seal:* the standard call-and-cast.
+- *Imprint:* casting a copy of a guest he has called before, without calling them again. Cheaper and faster, but the copy cannot improve or change, and anyone who fought the original has fought it.
+- *Fate-Chain Letter:* a list of named guests authorized together, each stepping out as the one before falls. Killing a guest speeds up the chain; it stops only if a guest is held, not killed.
+- *Recasting:* rebuilding a broken guest's body around the same soul, at full first-call price.
 
 **Variations**
-- An Imprint variant casts a replica from a guest he has called before, cheaper and without the guest's consent, and he uses it on people he does not respect.
-- A Fate-Chain variant authorizes a series of named guests, each stepping out as the last falls.
+- Kwon Mu-jin works the reverse way: a fixed roster of standard forms, re-summoned the same every time.
+- Malphas raises the dead through their corpses and alchemy; Cozbi through their names and new bodies.
 
 **Associations**
-- Requires THE CALLED DEAD ANSWER; is fed by THE HOLLOW SEAT (a guest once hosted is cast perfectly); scales into THE PALLBEARERS and closes in WAKE.
+- Requires THE CALLED DEAD ANSWER. A guest he has hosted through THE HOLLOW SEAT is cast perfectly, with no flaws. Scales up into THE PALLBEARERS; ends in WAKE.
 
-**Limits**
-- Without a name, remains or a loved thing, he can only cast nameless drift.
-- A guest is still itself and may refuse, sulk, lie or turn.
-- Template defect: every flaw in his memory of a person is cast into their body.
-- Silence Realms and Nihiloth fields cut the tether, and the body sets solid and empty, like a statue.
+**Limitations**
+- Needs a name, remains or a loved thing. Without them he can only raise the nameless (THE PALLBEARERS).
+- The guest is still itself. It may refuse orders, sulk, lie or turn on him.
+- **Template defect**, the Eidolyn failure: the body is built from his memory, so anything he remembered wrong is built in, like a weak knee, a hand slightly too small or a joint cast badly. A fighter who finds the flaw breaks the body there, and the guest drops back into the drift.
+- A Silence Realm or a Nihiloth field cuts his line to the guest, and the body stands there empty, like a statue.
+- Every guest left standing drains his body, if not his reserve.
 
-**First display (sample, for Isaac's approval)**
+**Known Users** · Cozbi Mahuo.
+
+**First display (sample)**
 
 > He did not raise his voice. He said the name the way a clerk reads an address off a parcel, "Han Sae-ryeong, of the Ferry Lane," and the air in front of him split along a seam of red-white light, a long tear that opened like the flap of an envelope, and through it came the heartbeat, *kung*, too slow, too heavy, from the far side of something. The smell came after it, cold iron and turned grave soil and under them a copper sweetness that made the dock-hands' mouths water and their stomachs turn at the same time. Then the ticking, *tik-tik-tik-tik*, fine as frost growing on a pane, as a lattice of black-violet threw itself out of nothing in the shape of a big man with a boatman's shoulders, and filled, and went from glass to flesh, and was a man. Han Sae-ryeong looked down at his own two hands. He had been in the Sumgang a year. Cozbi felt the thread take hold under his breastbone like a fishhook setting, felt his own pulse slow one beat to pay for it, and smiled at the ferryman with genuine warmth. "Welcome back, Sae-ryeong-ssi," he said. "I'm afraid I need you to row."
 
 #### THE PALLBEARERS (signature legion)
 
-DEAD LETTER calls one guest by name. THE PALLBEARERS calls the nameless: everything the drift has carried into the ground he stands on, cast in plain Eidolyn bodies and bound into one network that moves like a single crowd. They have no names he knows, so they cannot be called as themselves; they come as what they were in the aggregate. On a river they come as dock crews and drowned fishermen, on an old battlefield as soldiers, in a city as a crowd. Each costs 40,000 EU to raise and 4,000 EU a second to keep, because the dead bring their own selves and he pays for bodies only. A hundred stand for about an hour from full, a thousand for about six minutes, ten thousand for under forty seconds. The network makes them stronger together than apart: the field gets harder, not just bigger. The cost is that he holds the network's shape himself. While conducting he cannot also fight, and every thread is a separate weight on his body: he goes gray, his gums bleed, he shakes. The condition is ground with dead in it, which in the south since the war is nearly all ground. The visible charge is the ground answering before anything rises: footsteps start under the soil, *jeobeok, jeobeok*, hundreds of them, marching in step toward the surface. The counter is the geometry: split the host, pull part of it out of his reach, and the separated bodies fall back to being single clumsy constructs; killing them one at a time is a waste of everyone's day.
+**The power to raise the nameless dead of the ground he stands on as an army that moves as one.** Legion Summoning on the Infinite model. A form of Army Summoning and Undead Horde Creation.
+
+**Also Called** · The Host · the Procession · Raising the Field
+
+**Capabilities**
+
+DEAD LETTER brings back one person he can name. THE PALLBEARERS brings back everyone he cannot. Every piece of ground in the south holds its dead, and since the Soul Plane broke they have nowhere to go: a battlefield holds soldiers, a river holds the drowned, a city holds its graveyards. Cozbi calls all of them at once, builds each a plain Eidolyn body and ties them into one network.
+
+The network is the point. They do not fight as a mob of separate bodies. They move like one creature with a thousand limbs, each body making the ones beside it stronger, so the more there are and the closer they stand, the harder the whole thing hits. Soldiers who have fought it say the field does not get bigger, it gets *heavier*. Because they are nameless, they bring no special skills: they fight with whatever the dead of that ground were (soldiers fight like soldiers, fishermen like fishermen), and their strength is numbers, weight and nerve.
+
+They are cheap for the same reason as everything else he does: the dead bring their own souls and he pays only for bodies. Each costs **40,000 EU** to raise and **4,000 EU a second** to keep. **A hundred** stand for about **an hour** from full, **a thousand** for about **six minutes**, and **ten thousand** for under **forty seconds**. He picks the size to match the problem.
+
+**Cost** · he has to hold the network's shape himself, so while conducting a big host **he cannot fight properly**; and every body is a thread on his own, which grays him, bleeds his gums and shakes his hands. **Condition** · ground with dead in it, which in the south since the war is almost everywhere. **Tell** · marching starts under the soil before anything rises, *jeobeok, jeobeok*, hundreds of feet in step coming up. **Counter** · break the shape (below).
 
 **Applications**
-- Raises a host on any battlefield from the battlefield's own dead.
-- Walls off a street with a crowd that cannot be dispersed or bribed.
-- Carries a wounded army off a field on the shoulders of the dead, which is where the name comes from.
-- Floods a castle's lower halls with drowned men from its own moat.
-- Digs a siege trench overnight with a crew that never tires.
-- Holds a bridge or a pass with numbers the enemy cannot count.
-- Searches a forest, a city or a river bottom with a thousand pairs of eyes at once.
-- Sets an ambush in a cemetery that rises from the graves the enemy is standing on.
-- Pulls a rival summoner's constructs apart by drowning them in bodies.
-- Puts on a funeral procession for a whole village, every mourner a dead neighbor.
-- Builds a living bulwark around civilians while a fight passes over them.
+- Turn any battlefield, graveyard or river against the army standing on it.
+- Wall off a street, pass or bridge with a crowd that cannot be scared off.
+- Overwhelm any single fighter with numbers past counting.
+- Drown a rival summoner's constructs under bodies.
+- Carry a wounded army off the field on the shoulders of the dead, which is where the name comes from.
+- Dig trenches, haul stone and build defenses overnight with a crew that never tires.
+- Search a forest, a city or a riverbed with a thousand pairs of eyes.
+- Spring an ambush from the graves an enemy is camped on.
+- Shield civilians inside a ring of bodies while a fight passes over them.
+- Feed the host into WAKE when it is time to end things.
+
+**Techniques**
+- *Constellation:* arranging the host in a shape (a ring, a wedge, a spear-point) so the strength peaks where he wants it.
+- *Echo Gathering:* folding the remains of broken bodies into new ones, so the longer a fight runs, the better his host gets.
+- *Recursive Raising:* letting a pallbearer raise others on its own. It empties him faster than he notices, and it has nearly killed him once.
 
 **Variations**
-- A Constellation variant ties the host into a shape (a ring, a spear-head) so the amplification peaks at one point.
-- A Recursive variant authorizes a pallbearer to raise others, which empties him faster than he notices, and he has nearly died of it once.
+- Karo Venrik runs a lawful version tuned for sensing rather than fighting, each form built for one task.
 
 **Associations**
-- Gathers its dead with THE CALLED DEAD ANSWER, scales DEAD LETTER, and is spent in WAKE.
-- Echo Manifestation: guests broken in the fight leave remnants he folds into the next ones, so a long fight makes his host better.
+- Gathered by THE CALLED DEAD ANSWER; mixed with named guests from DEAD LETTER as officers; spent in WAKE.
 
-**Limits**
-- He conducts and cannot also play.
+**Limitations**
+- **Break the shape and it breaks.** Split the host, pull part of it out of his reach, and the separated bodies drop to single clumsy constructs. Killing them one by one is a waste of everyone's day.
+- While conducting, he is a man standing still in the middle of a battle.
+- Nameless bodies have no special skills; it is mass, not mastery.
 - Ground grounded with Stillgate Ash, salt-sown or consecrated against the dead gives him nothing to raise.
-- The host is nameless, so it has no individual skill; it is weight, numbers and nerve.
-- Every open thread is a body-tax, and after a long campaign he looks like a man starving.
+- After a long campaign he looks like a man starving.
+
+**Known Users** · Cozbi Mahuo.
 
 #### WAKE (signature collapse)
 
-A wake is the night the dead are sat with before burial. It is also what he does to his host at the end. Every guest on his feed stops, turns to the target and goes from white to a deep gold-red all at once, and he dissolves them together. Their remaining allocation leaves as a single blow at one chosen point. A hundred pallbearers collapsing release 4,000,000 EU, about 3.6 × 10¹² J at η 0.90: an A-Grade strike, the energy of some eight hundred and sixty tons of TNT, enough to flatten several city blocks. A thousand release ten times that, about 8.6 kilotons, deep in SS. The cost is that everything spent is gone; if the blow does not end the fight, he is standing alone in the middle of it with an empty feed. The condition is that only guests on his own feed can be collapsed; anything tethered to a post-house, and anyone hosted in him, is outside it. The visible charge is the turn: every guest going still and gold-red at once, and the heartbeat sound going quiet for the length of a held breath before *KWAAANG*. The counter is distance. The release is huge but local, and a fighter who reads the turn and gets clear has beaten it.
+**The power to dissolve every summon at once and release all their stored energy as one blow.** A form of Summon Collapse and Energy Release.
+
+**Also Called** · The Last Rite · the Gold Turn
+
+**Capabilities**
+
+A wake is the night the dead are sat with before burial. It is also what Cozbi does to his host at the end. Every body he has summoned carries the energy he spent building it. WAKE takes all of that back at once: every guest on his line stops, turns to face the target, glows from white to deep gold-red, and then collapses into a single blast at one chosen point.
+
+Its size depends on how much he has standing. **A hundred** pallbearers release **4,000,000 EU**, about the force of **860 tons of TNT** (an A-Grade strike that flattens several city blocks). **A thousand** release ten times that, about **8.6 kilotons** (SS-Grade). *(Worked at an estimated efficiency of 0.90 until his sheet is set.)* He can also collapse just a few guests for a small, exact blow.
+
+**Cost** · everything spent is gone: if WAKE does not end the fight, he is standing alone in the middle of it with nothing summoned. **Condition** · only summons on his own line; tethered watchmen and seated guests cannot be collapsed. **Tell** · every guest freezes and turns gold-red at once, the heartbeat sound goes silent for one held breath, then *KWAAANG*. **Counter** · distance (below).
 
 **Applications**
-- Ends a siege by collapsing the host against the gate.
-- Breaks a Domain's edge with one concentrated blow from outside.
-- Clears a road through an army in a single stroke.
-- Shapes the release into a cone to throw it down a tunnel or along a river.
-- Collapses a handful of guests into a small exact blow to break a single lock, wall or bone.
-- Uses the turn itself as a feint, since everyone who knows the art runs when the dead go red.
-- Burns out a nest of Well-creatures by collapsing the host inside it.
-- Gives the dead a last thing to do, which some of them ask for.
+- End a battle in one stroke after the host has worn the enemy down.
+- Break a gate, a wall or a fortress.
+- Crack a Domain's edge from outside.
+- Clear a road through an army.
+- Shape the blast into a cone down a tunnel or along a river.
+- Collapse just two or three guests to break a single lock, wall or bone.
+- Use the turn as a feint: anyone who knows the art runs when the dead go red.
+- Burn out a nest of Well-creatures by collapsing the host inside it.
 
 **Variations**
-- A Singularity variant compresses the host into one great body instead of one blow, which he refuses to do with named dead and does freely with the nameless.
+- *Singularity:* instead of a blast, the host is crushed into one giant body that carries all their power. He does this freely with the nameless and never with named dead, because the souls inside do not survive it as themselves.
 
 **Associations**
-- Spends THE PALLBEARERS and DEAD LETTER guests; THE KEEPER'S TENSE tells him when an enemy is weakest to receive it.
+- Spends THE PALLBEARERS and DEAD LETTER guests. THE KEEPER'S TENSE tells him the moment the enemy is weakest to take it.
 
-**Limits**
-- Everything spent is spent.
-- Only guests on his own feed.
-- Distance beats it.
-- The dead remember being spent, and the drift is colder to him for days afterward.
+**Limitations**
+- **Distance beats it.** The blast is enormous but local. A fighter who reads the turn and gets clear has beaten it.
+- All-or-nothing on the guests collapsed: they are gone.
+- Only works on his own active summons.
+- The dead remember being spent, and the drift is cold to him for days afterward.
+
+**Known Users** · Cozbi Mahuo.
 
 #### THE POST ROADS (tethered network)
 
-This one is old work, and it is the reason nobody has asked who pays the Sum-gol couriers. Under every Mahuo post-house on every southern road, from the iron hills to the Yukari valleys, Cozbi has anchored a Plane Tether: a fixed thread between the Plane of Fate and that ground, through which a guest can stand without his attention. Each post-house keeps one dead watchman on the roof among the crows, and through the network he can be present at any of them, seeing what the watchman sees and speaking with its mouth. He paid for the anchoring once, at each house, in something he does not get back, and he has never told anyone what. Keeping the network open costs nothing more. The visible tell is the crows: when he looks through a post-house, every crow on its roof turns its head the same way at once, *pudeok*. The counter is the ground: a tether cannot be broken, only starved, so take and hold the post-house and that eye is shut.
+**The power to be present, watch and act at every Mahuo post-house across the south at once.** Plane Tethers and Omnipresent Form, built into the mail. A form of Remote Presence and Surveillance.
+
+**Also Called** · The Watchmen · the Roof-Crows
+
+**Capabilities**
+
+Under every Mahuo post-house on every southern road, from the iron hills to the Yukari valleys, Cozbi has anchored a permanent link between that spot and the world of the dead. Because the link is anchored to the ground itself, a summoned watchman can stand there indefinitely without costing him anything to keep up. Each post-house has one, sitting on the roof among the crows.
+
+Through any of them, at any time, he can see what the watchman sees, hear what it hears, speak with its mouth, and send summons there. That makes him effectively present across the whole south's road network at once. It is also why nobody has asked who pays the couriers: the post is his eyes, and every letter between the north and the Yukari valleys passes under them.
+
+**Cost** · paid once, at each house, in something he does not get back; he has never said what. Keeping it open costs nothing more. **Tell** · when he looks through a post-house, every crow on its roof turns its head the same way at once, *pudeok*. **Counter** · take the house (below).
 
 **Applications**
-- Watches every letter that passes through the south's mail.
-- Stands guard at a dozen places at once without moving.
-- Speaks across the whole south through any post-house's watchman.
-- Calls a guest at a distant post-house and sends it to act there.
-- Knows who rode a road and when, from what the watchmen saw.
-- Delivers a summons, a threat or a condolence in person, through a dead mouth, a hundred miles away.
-- Holds a road closed by having its watchman stand in it.
-- Finds a fugitive the day they use any southern road.
+- Watch every road and every letter in the south.
+- Know who traveled where and when.
+- Find a fugitive the day they use a southern road.
+- Speak to anyone near a post-house, a hundred miles away, through a dead mouth.
+- Send DEAD LETTER guests or pallbearers to act at a distant post-house.
+- Close a road by having its watchman stand in it.
+- Guard many places at once without moving.
 
 **Variations**
-- The Anemoir hold tethers like these across generations; his are newer and run on the same rule.
+- The Anemoir Cult holds tethers like these across generations; his are newer and run on the same rule.
 
 **Associations**
-- Omnipresent Form: through the tethers his attention covers ground no host could. It observes and obstructs; it cannot mass, and it never fights well.
+- Extends every other art in his kit to wherever there is a post-house.
 
-**Limits**
-- Fixed: a post-house taken is an eye shut.
-- Divided attention: a man watching through thirty roofs is only partly in his own body.
-- The anchoring price, paid once, is sealed.
+**Limitations**
+- **A tether cannot be broken, only starved.** Take and hold the post-house and that eye is shut.
+- The tethers are fixed; he cannot move them.
+- The watchmen can watch and block. They are not built to fight hard, and they cannot gather into an army.
+- Watching through many roofs at once means he is only partly present in his own body.
+
+**Known Users** · Cozbi Mahuo. The Anemoir Cult (the general art).
 
 ---
 
@@ -303,7 +452,27 @@ This one is old work, and it is the reason nobody has asked who pays the Sum-gol
 
 #### THE KEEPER'S MANTLE (First Release)
 
-Called with one word, "Keep," or silent and weaker. The white fur of his mantle lifts, comes apart into light and becomes drift, hundreds of small pale Echoes circling him in a slow orbit like snow that will not land, his aura going near-white and red at every edge. While it holds, the threads of his guests stop taxing his body directly and run through the orbiting drift instead. He can keep a host up without starving, a hosted guest cannot be driven out of him, and anything that strikes at him has to pass through a coat of the dead, who catch blows the way pallbearers catch a falling coffin. It holds about four hours from full and strains as a First Release does, within its limit: when it drops, every thread it carried lands on his body at once, and he has been known to sleep a day afterward. The tell is the fur lifting before the word is spoken. The counter is to outlast it.
+**The power to wrap himself in an orbit of the dead that shields him and carries the strain of his summons.**
+
+**Also Called** · "Keep" (the release word) · the Snow That Will Not Land
+
+**Capabilities**
+
+Called with one word, "Keep," or silently and weaker. The white fur of his mantle lifts, comes apart into light and becomes drift: hundreds of small pale souls circling him in a slow orbit, like snow that will not land, with his aura going near-white and red at every edge.
+
+It does three things while it holds. **It shields him:** anything that strikes at him has to pass through a coat of the dead, who catch blows the way pallbearers catch a falling coffin. **It carries his load:** the strain of every summon he has up runs through the orbiting souls instead of his body, so he can keep a big host standing without starving or bleeding. **It locks his guests in:** a guest seated through THE HOLLOW SEAT cannot be forced out of him. It holds about **four hours** from full.
+
+**Tell** · the fur lifts before the word is spoken. **Counter** · outlast it. When it drops, every thread it carried lands on his body at once, and he has slept a whole day afterward.
+
+**Applications**
+- Fight in the middle of his own host without being exposed.
+- Keep a large army summoned for hours instead of minutes of strain.
+- Hold three seated guests without bleeding.
+- Survive a hit that would otherwise land clean.
+
+**Limitations**
+- Four hours, then the whole bill arrives at once.
+- The shield catches blows; it does not stop a strike big enough to go through a crowd.
 
 #### THE LONG HALL (Second Release, Domain)
 
@@ -311,9 +480,29 @@ See Section IX.
 
 #### CALL, AND IT ANSWERS (Third Release)
 
-The house words, shouted, and only ever shouted. It calls everything the ground remembers, every dead the place has ever held: a battlefield's whole history, a river's every drowning, a city's every grave. They rise at once, and the ones whose names the ground itself remembers rise as themselves. He could never pay for that many bodies, and he does not: the ground's own memory holds them up, the way a World-Tethered presence is held by the place it belongs to, for exactly as long as he stands at the boundary to keep the ground answering. What he pays with is himself. It is the largest working any Mahuo has ever been recorded making, and it takes him straight to his failure. Equilibration hits all at once: his heartbeat drops toward the stopping point, frost forms on his lashes, the red goes out of his aura until only the white is left, and the people who have seen it say he looks exactly like what he calls. It holds about ninety seconds, and in those ninety seconds the ground is his. The condition is ground with deep dead in it; on a new-built field or a salted plain it calls almost nothing. The counter is to be standing on ground that has no dead, or to survive the ninety seconds. Afterward his heart has to be started again, and only the Anima Spirare in his blood has ever done it.
+**The power to raise everyone who has ever died on a piece of ground, all at once, for ninety seconds.**
 
-**First display (sample, for Isaac's approval)**
+**Also Called** · The House Words · the Ninety Seconds
+
+**Capabilities**
+
+The Mahuo house words, shouted, and only ever shouted. Everything the ground remembers rises: a battlefield's whole history, a river's every drowning, a city's every grave, going back as far as people have died there. Those whose names the ground itself remembers rise as themselves; the rest rise as the nameless. On old ground that can be **a hundred thousand bodies**.
+
+He could never pay for that many, and he does not. The ground's own memory holds them up, the way a place holds its old ghosts, for exactly as long as he stands at the edge of death to keep the ground answering. What he pays with is himself. The Mortalis failure hits him all at once: his heart slows toward stopping, frost forms on his lashes, and the red drains out of his aura until only the white is left. It lasts about **ninety seconds**, and in those ninety seconds the ground is his. It is the largest working any Mahuo has ever been recorded making.
+
+**Condition** · ground with deep dead in it. **Tell** · the house words, shouted, and the ground starting to beat like a heart. **Counter** · clean ground, or surviving the ninety seconds. Afterward his heart has to be started again, and only the Anima Spirare in his blood has ever managed it.
+
+**Applications**
+- End a war on the field it is being fought on.
+- Raise a famous dead hero of that ground as themselves.
+- Bury an army under the history of the place it chose to fight.
+
+**Limitations**
+- New ground, salted ground or ground with no dead calls almost nothing.
+- Ninety seconds, then he is a man with a stopped heart.
+- Every time he does it, Equilibration takes more of him that does not come back.
+
+**First display (sample)**
 
 > "Call," Cozbi said, and the word went out of him with the last warmth in his body, "*AND IT ANSWERS.*" The red went out of his aura like a lamp turned down, all of it, leaving the white standing round him bare and terrible, and the field under the armies began to beat. *Kung.* Every soldier on both sides felt it come up through their boot soles. *Kung.* The frost grew on his lashes, on the white fur, on the backs of his hands. *Kung.* And the horse-plain at Qingyuan, which had been fought over since before there were horses on it, gave up its dead all at once. *URREUREUREU.* A rolling roar came out of the earth like a landslide in reverse as a hundred thousand bodies of black-violet lattice pushed up through the grass, filling, setting, standing: pikemen in the armor of four dead kingdoms, horsemen on dead horses, a woman in a bridal veil who had been killed on the road to her own wedding three hundred years ago, all of them turning, all of them, to face the man in the white mantle whose heart had just stopped.
 
@@ -323,7 +512,15 @@ The house words, shouted, and only ever shouted. It calls everything the ground 
 
 #### GUESTS, NEVER SERVANTS
 
-Sworn aloud before the burned hall at Sum-gol: the dead of his own house come to him as guests, freely, or not at all. He will not compel a Mahuo soul, by name, by law or by any art. The vow's price showed on his body the moment he swore it: the nail of his right ring finger went black and has never grown back. What it buys is the Mahuo dead's trust. Those who come to him come whole and fight beside him with everything they had. What it costs is everything else. His mother's Echo has not come. He cannot call her. He looks for her on the river every evening, and if he ever breaks the vow to bring her back, the Mahuo dead will all know it at once.
+**A vow never to compel a soul of his own house.** Sworn aloud before the burned hall at Sum-gol.
+
+**What it does** · The dead of the Mahuo come to him freely or not at all. He will not force a Mahuo soul, by name, by law or by any art.
+
+**Its price** · It showed on his body the moment he swore it: the nail of his right ring finger went black and has never grown back.
+
+**What it buys** · The Mahuo dead trust him. Those who come, come whole, and fight beside him with everything they had, which makes his own family's dead the strongest guests he has.
+
+**What it costs** · His mother's soul has not come. Under the vow he cannot call her. He watches the river for her every evening. If he ever breaks it to bring her back, every Mahuo soul will know at once.
 
 ---
 
@@ -390,6 +587,8 @@ He is patient as something that decided time is not a resource it needs to conse
 - **Canon to settle.** Isaac's ruling of 2026-11-01 seats Cozbi as head of House Mahuo; The Southern Warlords still reads "Current head: None seated." The Zettari–Mahou Accord condemns his methods and obliges the Mahou to surrender anyone replicating them: does he repudiate the Accord, or let it stand as a shield for the young while he builds the Order outside it? Open.
 - **Invented here, strikeable:** the vermilion refusal, the Post as the Order's face, the registered law's name, *Honryeong*, the seam secret, the Path split.
 - **The kit, derived figures, overlap and inventions:**
+  **Open ruling.** Guests (hosted or cast) bring their skill, knowledge and fighting style whole, but fire Wellspring arts only where Cozbi's own Crystal carries the current (Mortalis, Anima Spirare, Eidolyn), because a dead person's Crystal does not travel with the Echo. Recommended, logged, pending Isaac.
+
   **Derived figures.** Reserve from the law of reserves at Level 450 (log₁₀ EU = 3.4202 + 0.012812 × 450 → 1.53 × 10⁹). Guest costs sit under the canon Animatria range (75,000 to 150,000 EU to raise, 10,000 to 25,000 EU/s to keep), because his guests supply their own selves and he pays for the body only; DEAD LETTER sits in the canon range because a named guest gets a full, faithful casting. Joules in WAKE are worked at η 0.90, an estimate pending the sheet. Domain radius is an estimate pending Dominion Radius. All stand as canon on use until a source value beats them.
 
   **Overlap check.**

@@ -1,4 +1,4 @@
-# Nightly — 2026-10-31 03:30
+# Nightly — 2026-11-01 03:30
 
 ## Overnight
 
@@ -10,6 +10,14 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 - docket 0 outstanding
 - conflicts open 1
 - findings NEW 0 / CLEARED 0 / STILL OPEN 4
+
+## Scenes archived since the last run
+
+- `the_axiom_of_the_kept`
+- `the_floor`
+- `the_ford`
+- `the_hollow`
+- `the_order_of_precedence`
 
 ## The book
 
@@ -30,6 +38,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 95 push(es), 0 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-10-25 (6 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-25.zip (41.9 MB, 1173 files)
-- last run of this digest: 2026-10-30T03:30:04
+- sync: 101 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-11-01 (0 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-11-01.zip (44.3 MB, 962 files)
+- last run of this digest: 2026-10-31T03:30:00

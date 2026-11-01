@@ -3451,3 +3451,9 @@ Context: Isaac: "get rid of pending I approve everything". Agent ruling applied 
 Cozbi Mahuo corrections (2026-11-01): he is a man, age 25 (this supersedes the age 52 in the earlier ruling). He is one of the great summoners ever, a master of every school of summoning (Infinite, Legion, World-Tethered, Concordia, binding and Merged Form, Animatria constructs), with the dead as his house art. His Ability is Antithesis (a thing and its negation forced to occupy one point), per the Field Manual. Card gains ANTITHESIS, THE FOUNDING, THE BOUND CALAMITY and THE AMALGAMATIONS.
 
 Context: Isaac: "Cozbi is a man ... he is Antithesis", "I wanted him to be a summoner one of the great summoners ever", "he's 25 not 52". Agent ruling applied by Natalie.
+
+## 2026-11-01 — new
+
+Cozbi Mahuo (2026-11-01): the old-lore scenes (lore/v1) are not canon and nothing on his card is drawn from them. Superseding the earlier entries: THE BOUND CALAMITY (dragon, Merged Form) and THE AMALGAMATIONS are withdrawn and replaced by THE BOUND WILD (sealed compacts with living powers, Spirit Singularity) and THE CONSCRIPTS (drafts on harvested soul-fragment, Axis Binding, Echo Manifestation), both built on the current Infinite Summoning Arts page. THE FOUNDING stands (Concordia). His Ability remains Antithesis (Field Manual: Cozbi is Antithesis), described fresh as a held seam where an attraction and its negation share one point; no Rescind, Valorin or Dhaerin counters. He is a man, 25, a great summoner across every school, with the dead as his house art.
+
+Context: Isaac: the old-lore scenes are no longer canon. Agent ruling applied by Natalie.

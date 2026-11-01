@@ -3433,3 +3433,9 @@ Context: Table calls made while building the cards, 2026-10-31.
 Cozbi Mahuo is Level 450 and the current head of House Mahuo (the Mahou line). His aim is to establish the Mahuo as the Order of the Spiritual Reality, the Keepers of Death. He declines Naiser Yukari's help, including the Yukari offer to restore the Mahuo royal line at Sum-gol.
 
 Context: Isaac, 2026-11-01, with concept art for a Cozbi redesign. Overrides The Southern Warlords ("Current head: None seated", Sum-gol vacant). The Zettari–Mahou Accord still condemns Cozbi's methods and obliges the Mahou to surrender anyone replicating them; how his seat stands against the Accord (and Kwon Mu-jin's office under it) is open and goes to Isaac.
+
+## 2026-11-01 — new
+
+Table call, pending Isaac: Cozbi Mahuo's hosted guests (THE HOLLOW SEAT) and cast guests (DEAD LETTER) bring their skill, knowledge and fighting style whole, but can fire Wellspring arts only where Cozbi's own Crystal carries the current (Mortalis, Anima Spirare, Eidolyn). A dead person's Soul Crystal comes apart at death and does not travel with the Echo, so he gets the method of other arts but not the current to run them.
+
+Context: 2026-11-01. Isaac asked whether Hosting lets Cozbi take on almost anyone's abilities. Natalie recommended the method-not-current ruling; the alternative (powers come through at reduced strength on his reserve) was offered and not yet chosen. Written onto Cozbi's card as pending.

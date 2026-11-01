@@ -3427,3 +3427,9 @@ Context: Isaac, 2026-10-31, after Ten Yards of Summer. He chose Kasane 390 ("str
 Natalie's calls on the Level raise, for Isaac to overturn: Kiyome's true Aether Class is IV Luminous (shown I Muridic), since Class I cannot carry Grandmaster efficiency; Hayato's is III Resonant (shown unclassed); Kasane's III Resonant. New kits: Kiyome HAKKŌ, KAGAMI-WARI, MUSUBI, releases YUKIAKARI / HAKUREN (Domain) / KŌKAN NO MAE. Tetsugen AKA-TE (commotio cordis), KETSURO, THE SENNEN BOOKS (Trait), releases TOSHI-GAERI / KODŌ (Domain) / SHINZŌ-DOME. Hayato AMAGIRI-ASHI, MICHI-KIRI (the Skeldmere draw), Wellsprings Phreatis and Transference, releases KIRISAME / TSUJI (Domain) / KITSUNE-MEN (the fox mask; spends a road from memory per use). Kasane AKAITO, Wellsprings Fixatio and Judicium, releases AKAZONAE / MAE NO NIWA (Domain) / SAIGO NO MICHI (used on the cellar stair), and FŪIN the Salt Seal (sealed her own Crystal to Class Ø in the Cuttings; died sealed). The three living know each other's true Stage since the night at the white house. Ages stand (Hayato 27, Kiyome ~30) though young for their Levels.
 
 Context: Table calls made while building the cards, 2026-10-31.
+
+## 2026-11-01 — new
+
+Cozbi Mahuo is Level 450 and the current head of House Mahuo (the Mahou line). His aim is to establish the Mahuo as the Order of the Spiritual Reality, the Keepers of Death. He declines Naiser Yukari's help, including the Yukari offer to restore the Mahuo royal line at Sum-gol.
+
+Context: Isaac, 2026-11-01, with concept art for a Cozbi redesign. Overrides The Southern Warlords ("Current head: None seated", Sum-gol vacant). The Zettari–Mahou Accord still condemns Cozbi's methods and obliges the Mahou to surrender anyone replicating them; how his seat stands against the Accord (and Kwon Mu-jin's office under it) is open and goes to Isaac.

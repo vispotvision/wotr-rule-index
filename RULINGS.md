@@ -3445,3 +3445,9 @@ Context: 2026-11-01. Isaac asked whether Hosting lets Cozbi take on almost anyon
 Cozbi Mahuo card: Isaac approves every pending proposal and invention on it (2026-11-01). Canon: Eressean-blood ear; age 52; the Called Dead Answer as the registered law; the vermilion refusal; the Order of the Spiritual Reality structure; the Sum-gol seam secret; guests carry skill and method but fire only Wellspring arts Cozbi's own Crystal carries; derived figures (eta 0.90, Domain radius, per-guest prices) stand. Cozbi does not repudiate the Zettari-Mahou Accord; he lets it shield the young while the Order is built outside it. The Southern Warlords page now names him head. No Kwon Mu-jin or Ara Min Mahuo ties. Kit rewritten in the Hiromi layout (native names, metaphysics and physics as one account, combat use in each part).
 
 Context: Isaac: "get rid of pending I approve everything". Agent ruling applied by Natalie at his direction.
+
+## 2026-11-01 — new
+
+Cozbi Mahuo corrections (2026-11-01): he is a man, age 25 (this supersedes the age 52 in the earlier ruling). He is one of the great summoners ever, a master of every school of summoning (Infinite, Legion, World-Tethered, Concordia, binding and Merged Form, Animatria constructs), with the dead as his house art. His Ability is Antithesis (a thing and its negation forced to occupy one point), per the Field Manual. Card gains ANTITHESIS, THE FOUNDING, THE BOUND CALAMITY and THE AMALGAMATIONS.
+
+Context: Isaac: "Cozbi is a man ... he is Antithesis", "I wanted him to be a summoner one of the great summoners ever", "he's 25 not 52". Agent ruling applied by Natalie.

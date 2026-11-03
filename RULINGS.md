@@ -3499,3 +3499,9 @@ Context: Natalie, 2026-11-03, rules and code pass after Isaac's depth, atmospher
 Agent ruling (Natalie), grounds: Isaac 2026-11-03, "the more explaination the more you explain how specific thing works through metaphysics and even physics the better someone can understand it", recorded as R80-22 and R80-25. R4-13-ZERO_BUDGET ("the gloss budget is zero per scene") is superseded: narration may explain and gloss as much as the moment needs, every invented, system or technical term explained on its first use. verify_scene's gloss watch, modern-word watch, fight-abstraction watch and European-jargon watch retire with R4-13, R49-44, R78-3's term ban and R77-1. Isaac may overturn.
 
 Context: Natalie, 2026-11-03, rules and code pass; the gloss watch flagged explanation Isaac now wants.
+
+## 2026-11-03 — new
+
+Combat and magic fix, round 1 (Isaac, 2026-11-03, by questionnaire). (1) Fast trades: every Blow Card part stays in every blow; quick trades compress the wording into long cumulative sentences instead of dropping parts. (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time. (3) Eta and reserve: narration names eta as an idea and gives the loss in proportions and on the body (a third of the draw went to heat, his reserve near half); exact figures only in mouths and the notes. (4) Who explains: narration explains the full mechanism in every POV; an untrained POV's narration explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still explains only what the speaker could know.
+
+Context: imports/drafts/combat-magic-fix-questionnaire/answers.json batch1; built from an audit of contradictions between NATALIE.md, R80, older live rows, guides and verify.py.

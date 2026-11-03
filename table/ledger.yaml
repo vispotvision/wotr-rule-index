@@ -421,3 +421,86 @@
   due: null
   status: open
   thread: Kharven
+- id: L041
+  category: injuries and reserve
+  who: Muken Moto
+  text: 'Glass and Irons: diagonal face laceration left brow to right jaw (nose cut, right cheek open
+    to the mouth, facial artery seared; will scar corner to corner), Kōkan eye kept; epigastric blow with
+    torn rectus sheath, gastric bleed and a liver subcapsular hematoma still bleeding; carotid and laryngeal
+    bruising; flash burns of scalp, nape, ears, both hands; right palm stripped on the iron. Carried:
+    compound left forearm, three left ribs, left kneecap, teeth, two right fingers. Reserve near a tenth
+    (brass seams, Eye blinking blind, teeth chattering).'
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: the-uncounted
+- id: L042
+  category: injuries and reserve
+  who: Shōki Kurenai Moto
+  text: 'Glass and Irons: right Hall Iron broken by HIBI on its cold shut; Enma''s Register boundary fallen
+    inward a third; one minute of the kept morning has passed; Hell Fire spent part of Muken''s ONNEN
+    account; GŌKA charging at the stop. Torn right lung and open nape crack carried.'
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: the-uncounted
+- id: L043
+  category: injuries and reserve
+  who: Vaashuuk Snorr-Khal
+  text: 'Glass and Irons: extensor tendons of left index and middle fingers cut by Senna''s kunai (fingers
+    won''t straighten); notch torn from the left ear''s helix, a gold ring lost; Snooze-Glass charge spent,
+    needs a full night''s sleep. First wound of his life taken awake.'
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: Kharven
+- id: L044
+  category: injuries and reserve
+  who: Senna Yukari
+  text: 'Glass and Irons: anterior right shoulder dislocation with torn labrum, unreduced at the stop.'
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: Kharven
+- id: L045
+  category: injuries and reserve
+  who: Hiromi
+  text: 'Glass and Irons: nasal fracture deviated left, left brow cut to the bone, near-asphyxia; the
+    founded kingfisher dissolved.'
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: Kharven
+- id: L046
+  category: debts
+  who: Vaashuuk Snorr-Khal
+  text: Owes the Yukari 'payback for all the goblins' Senri killed; begun, never to be finished. Senna
+    holds his torn-out gold ear ring.
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: Kharven
+- id: L047
+  category: who knows what
+  who: Shōki Kurenai Moto
+  text: Heard Muken shout Amelia's name in the cedar wood; has entered her and threatened to kill her.
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: the-uncounted
+- id: L048
+  category: who knows what
+  who: Dari
+  text: Saw Hiromi hurt while Naiser held her back; bound by charter to report every wound to Cozbi.
+  opened: '2026-11-03'
+  opened_session: 5
+  due: null
+  status: open
+  thread: Kharven

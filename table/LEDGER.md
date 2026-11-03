@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-40 open lines.
+48 open lines.
 
 ## injuries and reserve
 
@@ -19,6 +19,11 @@
 - `L033` Amelia driven eight paces into a fallen cedar under STONEFAST, mantle on fire, burns from dragging Hayato out. Lorn's FROSTFALL failing inside the furnace, the backlash coming.  *(Kharven)*
 - `L035` In ENMA-CHŌ: left forearm both bones crazed by YAKI-IRE and broken open, bone through the skin, handprint burn round the forearm; left lower ribs 9 to 11 broken with a burn over them; left kneecap broken and dislocated; right fourth and fifth fingers broken and skinned; two upper-left teeth broken at the gum, lip split; burn blisters over the heart; left eyelid blistered shut, the Eye still seeing. Kiyome's red harness cracked through on the left. Whether any of it stays is Isaac's call.  *(Kharven)*
 - `L040` Four more roads lost sending Tetsugen, Lorn, Kiyome and Amelia out of the wood, about fifteen this fight; holds his last road, to the Seat gate, open for Muken.  *(Kharven)*
+- `L041` Glass and Irons: diagonal face laceration left brow to right jaw (nose cut, right cheek open to the mouth, facial artery seared; will scar corner to corner), Kōkan eye kept; epigastric blow with torn rectus sheath, gastric bleed and a liver subcapsular hematoma still bleeding; carotid and laryngeal bruising; flash burns of scalp, nape, ears, both hands; right palm stripped on the iron. Carried: compound left forearm, three left ribs, left kneecap, teeth, two right fingers. Reserve near a tenth (brass seams, Eye blinking blind, teeth chattering).  *(the-uncounted)*
+- `L042` Glass and Irons: right Hall Iron broken by HIBI on its cold shut; Enma's Register boundary fallen inward a third; one minute of the kept morning has passed; Hell Fire spent part of Muken's ONNEN account; GŌKA charging at the stop. Torn right lung and open nape crack carried.  *(the-uncounted)*
+- `L043` Glass and Irons: extensor tendons of left index and middle fingers cut by Senna's kunai (fingers won't straighten); notch torn from the left ear's helix, a gold ring lost; Snooze-Glass charge spent, needs a full night's sleep. First wound of his life taken awake.  *(Kharven)*
+- `L044` Glass and Irons: anterior right shoulder dislocation with torn labrum, unreduced at the stop.  *(Kharven)*
+- `L045` Glass and Irons: nasal fracture deviated left, left brow cut to the bone, near-asphyxia; the founded kingfisher dissolved.  *(Kharven)*
 
 ## who knows what
 
@@ -33,6 +38,8 @@
 - `L036` Has read ENMA-CHŌ as one morning kept open (every line rings dead) and found the one living thread, Shōki's Axis to Tsuyu, from his chest to the block.  *(Kharven)*
 - `L037` Read Muken's count: 308 by eighteen (Thresh contracts 9, Veyrath ditch 31, the Orrel road 12, the Halcrest stair 6, the Foot 44, and the shore, the Skeldmere and the Marrow ice).  *(Kharven)*
 - `L039` Both entered at the Sum-gol Post: Cozbi's threat to kill every Yukari if harm comes to Hiromi, and Naiser's matching debt to answer for any harm under his roof. Naiser named the Ashura seam as a talk still owed.  *(Kharven)*
+- `L047` Heard Muken shout Amelia's name in the cedar wood; has entered her and threatened to kill her.  *(the-uncounted)*
+- `L048` Saw Hiromi hurt while Naiser held her back; bound by charter to report every wound to Cozbi.  *(Kharven)*
 
 ## bonds
 
@@ -50,6 +57,7 @@
 
 - `L007` ONNEN holds one blow banked under Raizan's name, the needle at the nape, and it can be spent only against him. Raizan has confessed to the feast-lord killing the Hall laid on Tsuyu.  *(The Sins)*
 - `L022` A child went off the bridge rail into the flood, toward the boiling water round Shōki. Pending Isaac's decision.  *(The Sins)*
+- `L046` Owes the Yukari 'payback for all the goblins' Senri killed; begun, never to be finished. Senna holds his torn-out gold ear ring.  *(Kharven)*
 
 ## canon conflicts
 

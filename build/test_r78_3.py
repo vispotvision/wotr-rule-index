@@ -3,9 +3,6 @@ import sys; sys.path.insert(0, "build")
 from pathlib import Path
 import verify as v
 
-assert v.FIGHT_ABSTRACT.search("The parry had cost him the line.")
-assert v.FIGHT_ABSTRACT.search("He closed measure fast.")
-assert not v.FIGHT_ABSTRACT.search("the line of his jaw") and not v.FIGHT_ABSTRACT.search("He ruled a line under it.")
 fight = "He closed measure and took the line."
 # R80-22/R80-25 (Isaac 2026-11-03): the fight-abstraction watch retired; terms are welcome beside the body.
 assert not any(w.startswith("fight abstraction") for w in v.run(fight, combat=True)["warns"])
@@ -30,4 +27,18 @@ ref = Path(__file__).resolve().parent.parent / "desktop/style-bank/references/th
 # The reference is preserved verbatim (it keeps its British spellings), so the spelling FAIL is exempt here.
 _fails = [f for f in v.run(ref.read_text(encoding="utf-8"))["fails"] if not f.startswith("British spelling")]
 assert not _fails, _fails
+# R81-9 (Isaac 2026-11-03): only exact stock phrases FAIL; single words and canon signatures are free.
+assert not v.run("The tension was palpable. A tapestry of banners. Visceral fear.")["fails"]
+assert not v.run("A whisper of falling ash came off his shoulders, and the air smelled of ozone.")["fails"]
+assert v.run("The coppery tang of blood filled the air.")["fails"]
+assert v.run("It was a testament to his skill.")["fails"]
+# En dashes in ranges are free; em dashes FAIL.
+assert not v.run("Stages IV–VII.")["fails"] and v.run("He came — fast.")["fails"]
+# Emotion said is free; hypophora is a question answered at once, an open question is free.
+assert not v.run("She was afraid, and she said so.")["warns"]
+assert any("hypophora" in w for w in v.run("Why did he stop? He was tired.")["warns"])
+assert not any("hypophora" in w for w in v.run("Was the drum holding every heart on one count, and if it was, what happened to a blow that landed off the beat?")["warns"])
+# Thin blows (R80-5, R81-1): a strike with no tissue or body mechanics WARNs in a fight.
+assert any(w.startswith("thin blow?") for w in v.run("He hit Aksel hard.", combat=True)["warns"])
+assert not any(w.startswith("thin blow?") for w in v.run("His left heel drove, the hip turned, and he hit Aksel under the jaw.", combat=True)["warns"])
 print("ok")

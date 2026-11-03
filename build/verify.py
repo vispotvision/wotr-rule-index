@@ -17,7 +17,8 @@ from pathlib import Path
 
 from american_spelling import british
 
-EM_DASH = re.compile(r"[—–]|(?<!-)--(?!-)")
+# Em dashes only (and the "--" that stands for one); an en dash in a range (Stage IV–VII) is free (R81-9 pass).
+EM_DASH = re.compile(r"—|(?<!-)--(?!-)")
 ANTITHESIS = [
     re.compile(r"\b(?:not|isn['’]t|wasn['’]t|is not|was not|aren['’]t|weren['’]t)\s+(?:just|merely|simply|only|so much)\b[^.!?\n]{0,80}?\b(?:but|it['’]s|it is|as|rather)\b", re.I),
     re.compile(r"\b(?:this|that|it|which|he|she)\s+(?:is|was)\s+(?:less|more)\s+(?:a |an )?\w+\s+than\s+(?:a |an |it was |it is )?\w+", re.I),
@@ -30,37 +31,28 @@ NOT_FRAG = re.compile(r"(?:^|(?<=[.!?] )|(?<=[.!?][”\"*] )|(?<=[*“\"]))Not(?
 LADDER = re.compile(r"\b(?:was|is|became|meant)\s+[a-z]+\s+and\s+the\s+[a-z]+\s+(?:was|is|became|meant)\b", re.I)
 FACULTIES = r"(?:Cymorath|Kamigan|Shingan|Meigan|Reigan|Tengan|Ketsumy[oō]gan|Crown Eye|Seeing|Ruling Sight|Revealing Sight|Spirit Sight|Sky Sight)"
 APPARATUS_SUBJECT = re.compile(r"\b(?:his|her|the|their)\s+" + FACULTIES + r"\s+(?:saw|read|mapped|noted|caught|found|registered|filed|marked|tracked|perceived|counted|watched|traced|classified|flagged|told|reported)\b")
-GLOSS = re.compile(r"\b(?:which meant|which was to say|meaning that|in other words|that is to say|which is to say|what that meant was)\b", re.I)
-SIGNPOST = re.compile(r"\b(?:he|she|they|[A-Z][a-z]+)\s+(?:felt|was|were)\s+(?:a\s+(?:wave|surge|flicker|pang|rush|stab)\s+of\s+)?(?:afraid|fear|angry|anger|relief|relieved|dread|terror|terrified|joy|sad|sadness|grief|ashamed|shame|guilt|guilty|nervous|anxious|anxiety|hopeful|hope|despair)\b", re.I)
 TIDY_CLOSE = re.compile(r"^(?:Ultimately|In the end|And so|Finally|At last|Perhaps that|Maybe that)\b", re.I)
 HYPOPHORA_Q = re.compile(r"\?\s*$")
 # R49-21: reification has no count and 'never at the beat' is a read, so no check here.
-# R48-13, R49-44: modern words are free in speech, flagged in narration. Real science and
-# anatomy terms are exempt (R49-45): adrenaline, cortisol and the like stay off this list.
-# R51-03 slang (okay, OK, vibe, awesome, cool) and R51-04 pop-psych (triggered, toxic, closure,
-# mindset, boundaries); R51-04 keeps anxiety and stress, so they and trauma are off the list.
-# 'cool' and 'closure' have plain senses too; the WARN asks for a read. Add words here.
-# R51-05: tech and office words (deadline, feedback, 'on the main') are legal when the POV's
-# culture has the thing; a regex cannot know the POV's culture, so they are not listed.
-# 'weekend' lives in CALENDAR below, which covers narration and speech.
-MODERN = re.compile(r"\b(?:okay|OK|vibes?|awesome|cool|triggered|toxic|closure|mindset|boundaries)\b", re.I)
 # R51-08: Earth day and month names never appear, in narration or speech. Case-sensitive;
 # 'May' and 'March' only when capitalised after a lowercase word, so sentence-initial
 # 'May he...' and the verb 'march' pass.
 CALENDAR = re.compile(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|January|February|April|June|July|August|September|October|November|December|[Ww]eekends?)\b|(?<=[a-z,;] )(?:May|March)\b")
 # R51-30: Earth religious swears are replaced in-world; warned in narration and speech.
 HOLY_OATH = re.compile(r"\b(?:(?i:god\s*damn\w*|go to hell|for god['’]s sake)|Christ|Jesus)\b")
-# R51-10: the hard-ban list, FAIL at first use, narration and dialogue.
-SLOP = re.compile(r"\b(?:tapestr(?:y|ies)|testaments?|palpabl[ey]|viscerall?y?|symphony of|a dance of|whispers? of|orbs|ministrations"
+# R51-10 as amended by R81-9 (Isaac 2026-11-03): only exact stock phrases FAIL, narration and dialogue.
+# Single words are free (tapestry, palpable, visceral, ministrations); 'testament' and 'orbs' fail only in
+# their stock phrases (R70-35, SLOP_STOCK); 'whisper of' and 'the smell of ozone' are canon Wellspring
+# signatures (desktop/style-bank/wellspring-signatures.md) and are exempt.
+SLOP = re.compile(r"\b(?:testaments? to|symphony of|a dance of|orbs"
                   r"|electric\w*\W+(?:\w+\W+){0,3}?touch\w*|touch\w*\W+(?:\w+\W+){0,3}?electric\w*|velvety? voice"
                   r"|shiver\w* down (?:his|her|their|my|your) spine|breath (?:he|she|they|I) didn['’]t know (?:he|she|they|I) (?:was|were) holding"
-                  r"|coppery tang|smell of ozone)\b", re.I)
+                  r"|coppery tang)\b", re.I)
 # R70-35 (VB12 D): three items trimmed to their stock sense; only the stock form fails ('a testament
 # to', 'visceral' off the anatomy, orbs for eyes), so a will, the visceral pleura and orbs that are
 # lamps, regalia or worked spheres pass.
 SLOP_STOCK = {
     "testament": re.compile(r"\btestaments? to\b", re.I),
-    "visceral": re.compile(r"\bviscerally\b|\bvisceral\b(?! (?:pleura|peritoneum|pericardium|fat|organs?|layers?|surfaces?|nerves?|afferents?|pain|branch\w*|arter\w*|lymph\w*|cavity|muscle)\b)", re.I),
     "orbs": re.compile(r"\b(?:his|her|their|my|your) (?:[\w-]+ ){0,2}orbs\b|\borbs (?:of (?:his|her|their|my|your) (?:eyes|breasts|bosom)|(?:\w+ )?(?:widen|narrow|blink|squint|flick|fixed on|met (?:his|her|their|mine|yours)\b))", re.I),
 }
 # R70-35 (VB12 A-C): cultivation-translation, Western fantasy and LitRPG stock join the hard-ban
@@ -103,16 +95,16 @@ READOUT_FIG = re.compile(r"(?i:\b(?:stage|level|grade|tier|band|rung|reserve|coh
                          + RUNNING.pattern)
 QUOTED = re.compile(r"[\"“][^\"“”\n]*[\"”]")
 ITALIC = re.compile(r"(?<!\*)\*(?!\*)([^*\n]+?)\*(?!\*)")
-# R77-1 (Isaac, 2026-10-08): European manual jargon is warned on every surface,
-# including dialogue. Body/action words remain evidence of the blade grammar.
-# Eastern-school terms are free in narration and never required (R78-5, R79-6).
-EUROPEAN_FENCING = re.compile(r"\b(?:Vor|Nach|Indes|Zufechten|Krieg|Vom[ -]Tag|Ochs|Pflug|Alber|Zornhau|Absetzen|Durchwechseln|Winden|Krumphau|Zwerchhau|Schielhau|Scheitelhau|Mutieren|Duplieren)\b", re.I)
+# Body and blade action words: evidence that a fight scene shows the body (R80-4, R80-5).
 BLADE_ACTION = re.compile(r"\b(?:bind|half-sword|halfsword|pommel|guard|ward|thrust|cut|feint|parry|riposte|void|cross|edge|flat|crossguard|quillon|point|counter-cut|blade|sword|weight|heel|heels|foot|feet|stance|step(?:s|ped|ping)?)\b", re.I)
 # Compatibility for existing consumers; this now counts plain actions, not jargon.
 HEMA = BLADE_ACTION
 # R79-6: wounds are written plain on the page, so plain part names count beside the clinical ones.
 ANATOMY = re.compile(r"\b(?:jaws?|collarbones?|cheekbones?|throats?|windpipe|necks?|guts?|belly|bellies|groin|knees?|kneecaps?|wrists?|elbows?|shoulders?|hips?|thighs?|shins?|ankles?|teeth|tooth|ribcage|bones?|skulls?|arter(?:y|ies)|veins?|femoral|carotid|clavicle|radius|ulna|humerus|tibia|fibula|patella|scapula|sternum|rib|ribs|vertebra|spine|jugular|subclavian|brachial|aorta|lung|liver|kidney|spleen|diaphragm|tendon|ligament|cartilage|orbit|mandible|maxilla|skull|trachea|larynx|hypovol|haemorrh|hemorrh|shock|Class\s+(?:I|II|III|IV))\b", re.I)
-# R70-136 (ME2 A), amended by R77-1: --combat checks blade body/action evidence,
+# Blow Card evidence (R80-5, R81-1): a landed strike and the body that threw it.
+STRIKE = re.compile(r"\b(?:(?:hit|hits|struck|strikes|punch(?:ed|es)?|kick(?:ed|s)?|slash(?:ed|es)?|stabb?(?:ed|s)?|chopp?(?:ed|s)?|smash(?:ed|es)?|slamm?(?:ed|s)?|elbowed|kneed|head-?butt(?:ed)?|cut) (?:him|her|them|the (?:Sin|man|woman|boy|girl|arm|leg|head|face|side|shoulder)|[A-Z][a-z]+\b)|took (?:him|her|them) (?:in|on|across|under))")
+MECHANICS = re.compile(r"\b(?:heels?|hips?|shoulders?|foot|feet|toes?|knees?|weight|stance|step(?:s|ped)?|pivot\w*|lunge\w*|torque|momentum|leverage|braced?|planted|drove|wind-?up|swung|swing)\b", re.I)
+# R70-136 (ME2 A): --combat checks blade body/action evidence,
 # or the existing other-school vocabulary. --school overrides --culture.
 SCHOOLS = {
     "blade": BLADE_ACTION,
@@ -184,11 +176,9 @@ KHARVEN_RECURRENCE = {
     "the Thin Weeks": re.compile(r"thin weeks", re.I),
     "the death-house / the Waiting": re.compile(r"death-?house|\bthe Waiting\b"),
 }
-# R79-1 reversed (Isaac, 2026-10-30): no in-fiction reply has a word count; the length is reported for information only.
-BANDS = dict.fromkeys(("turn", "standard", "conversational", "set-piece", "discord"), 3500)
-# R78-3 (Isaac, 2026-10-14): fight abstractions in narration say what the body did instead; --combat only (R79-6).
-# The elevated word bank and its density WARN are retired (R78-11, Isaac 2026-10-16).
-FIGHT_ABSTRACT = re.compile(r"\b(?:(?:the|his|her|their|its|off the|on the) line\b(?! of| under)|(?:closed?|closing|in|out of|inside|the|his|her) measure\b|tempo\b|vectors?\b|geometry\b|the read\b)", re.I)
+# R79-1 reversed (Isaac, 2026-10-30): no in-fiction reply has a word count; --band is kept for callers
+# and the length is reported for information only.
+BANDS = ("turn", "standard", "conversational", "set-piece", "discord")
 
 
 def split_sentences(text: str) -> list[str]:
@@ -317,12 +307,16 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     # --- warn-level patterns -----------------------------------------------
     for m in APPARATUS_SUBJECT.finditer(body):
         warns.append(f"faculty as grammatical subject: \"{m.group(0)}\" (R6-2-FACULTY_NEVER_SUBJECT, Check 19)")
-    # gloss watch retired 2026-11-03: explanation is wanted (R80-22, R80-26 supersede R4-13)
-    for m in SIGNPOST.finditer(body):
-        warns.append(f"emotional signposting: \"{m.group(0)}\" (AI-tells §4)")
-    q = [s for p in prose_paras if not p.startswith("\"") for s in split_sentences(p) if HYPOPHORA_Q.search(s) and not re.search(r"[\"“”]", s)]
-    for s in q:
-        warns.append(f"question in narration (hypophora?): \"{s[:80]}\" (R49-41-QUESTIONS)")
+    # gloss and emotion-signpost watches retired 2026-11-03: explanation is wanted and emotion is
+    # said and shown (R80-22, R80-26; NATALIE Interiority). Hypophora is a narration question answered
+    # at once by a short sentence; an analyst's open questions are free (R81-6).
+    for p in prose_paras:
+        if p.startswith("\""):
+            continue
+        ss = split_sentences(p)
+        for s, nxt in zip(ss, ss[1:]):
+            if HYPOPHORA_Q.search(s) and not re.search(r"[\"“”]", s + nxt) and len(nxt.split()) <= 8:
+                warns.append(f"hypophora (question answered at once): \"{s[:70]} {nxt[:40]}\" (R49-41-QUESTIONS)")
     if sentences and TIDY_CLOSE.match(sentences[-1]):
         warns.append(f"tidy summary close: \"{sentences[-1][:80]}\" (AI-tells §2; R79-4: chapters and arcs close on a hook, scenes on any concrete close, a pressing question included, turns at his next real decision)")
 
@@ -389,9 +383,6 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
             s_ = narr[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
             warns.append(f"near a hard-ban phrase: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R70-36-CHECKER_ENFORCES; read it against R70-35)")
 
-    # --- R78-3: physical over abstract in fights ------------------------------
-    # fight-abstraction watch retired 2026-11-03: technical terms are welcome beside the body (R80-22, R80-25)
-
     # --- table rules ---------------------------------------------------------
     info.append(f"length {total_words} words (no word count, Isaac 2026-10-30)")
     italics = [m.group(1) for m in ITALIC.finditer(raw) if len(m.group(1).split()) >= 3]
@@ -399,9 +390,6 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     if prose_paras:
         end = "a turn stops at his next real decision" if turn else "a scene ends on any concrete close, a pressing question included; a chapter or arc on a hook"
         info.append(f"last line: \"{prose_paras[-1][-140:]}\" ({end}, R79-4-INTERIOR_MEANING_WORLD)")
-
-    # --- European jargon (R77-1, check 22, all WOTR prose) ------------------
-    # European-jargon watch retired 2026-11-03: R80-25 supersedes R77-1; jargon is welcome when explained
 
     # --- readouts and stale devices (R71-103, ME2 B and D) --------------------
     ro = readouts(body)
@@ -430,7 +418,24 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         fight_narr = ITALIC.sub(" ", "\n\n".join(QUOTED.sub(" ", p) for p in prose_paras))
         if run_ := list(RUNNING.finditer(fight_narr)):
             s_ = fight_narr[max(0, run_[0].start() - 50):run_[0].end() + 10].replace("\n", " ")
-            warns.append(f"figure in fight narration: {len(run_)} reserve figures (EU, AU/s, eta), first \"...{s_.strip()}...\"; in a fight, figures live in mouths, never narration (R79-6-FIGHTS_ON_THE_PAGE)")
+            warns.append(f"figure in fight narration: {len(run_)} reserve figures (EU, AU/s, eta), first \"...{s_.strip()}...\"; in a fight, eta is an idea and a proportion in narration, figures live in mouths (R79-6, R81-3)")
+        # Thin blows (R80-5, R81-1): a paragraph that lands a strike with no named tissue, or with no
+        # body mechanics (foot, hip, shoulder, weight), is probably a bare clause. A read, not a count.
+        thin = []
+        for k, p in enumerate(prose_paras):
+            pp = ITALIC.sub(" ", QUOTED.sub(" ", p))
+            if not STRIKE.search(pp):
+                continue
+            # a short line when something lands is law; its paragraph and the next are read together
+            ctx = pp + " " + ITALIC.sub(" ", QUOTED.sub(" ", prose_paras[k + 1])) if k + 1 < len(prose_paras) else pp
+            ctx = pp + " " + (ITALIC.sub(" ", QUOTED.sub(" ", prose_paras[k - 1])) if k else "") + " " + ctx
+            miss = [n for n, rx in (("tissue", ANATOMY), ("body mechanics", MECHANICS)) if not rx.search(ctx)]
+            if miss:
+                thin.append((pp, miss))
+        for pp, miss in thin[:3]:
+            warns.append(f"thin blow? a strike with no {' or '.join(miss)} in \"{re.sub(chr(10), ' ', pp)[:90]}...\" (Blow Card, R80-5, R81-1)")
+        if len(thin) > 3:
+            warns.append(f"thin blow?: {len(thin) - 3} more paragraphs")
 
     # --- explicit mode (R73-41, ME2 B and C; word-presence checks retired, R79-7) ----
     if explicit:

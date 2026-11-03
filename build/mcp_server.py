@@ -676,13 +676,14 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
 def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard", school: str = "", turn: bool = False,
                  explicit: bool = False) -> str:
     """Mechanical prose checks on a draft before it is posted (R79-3 to R79-7): em dashes,
-    antithesis, countdown negation, the Ladder, apparatus-as-subject, signposting,
-    hard-ban words and phrases, stale devices. No rhythm, length or count checks:
-    the word count prints as information (no word count, Isaac 2026-10-30). Jargon,
-    glosses and modern words are free (R80-22, R80-24, R80-26).
-    combat=True adds blade body/action and anatomy evidence (plain parts count)
-    and WARNs on any readout or narrated figure in a fight
-    (R79-6); school: blade, japanese, chinese, korean, percussion, boxing, firearms,
+    antithesis, countdown negation, the Ladder, apparatus-as-subject, hypophora,
+    exact stock phrases (R81-9: single words and canon signatures are free), stale
+    devices. No rhythm, length or count checks: the word count prints as
+    information (no word count, Isaac 2026-10-30). Jargon, glosses, modern words
+    and emotion said aloud are free (R80-22, R80-24, R80-26).
+    combat=True adds blade body/action and anatomy evidence (plain parts count),
+    a thin-blow WARN (a strike with no tissue or body mechanics, R80-5, R81-1),
+    and WARNs on any readout or narrated figure in a fight (R79-6, R81-3); school: blade, japanese, chinese, korean, percussion, boxing, firearms,
     kharven (Eastern terms are free and never required). explicit=True adds the floor
     guard and the euphemism list (R73-41, R79-7). Run once a turn, fix every FAIL,
     read the WARNs without looping on them."""

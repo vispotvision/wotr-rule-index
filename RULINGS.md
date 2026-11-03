@@ -3511,3 +3511,9 @@ Context: imports/drafts/combat-magic-fix-questionnaire/answers.json batch1; buil
 Combat and magic fix, round 2 (Isaac, 2026-11-03, by questionnaire). (5) Hidden cards: a held-back card fires and its effect is shown in full body detail; its full mechanism is explained the moment it is revealed, in the same exchange. The reader is puzzled for a beat, never left there. (6) Fight thought: the read in every blow is behavior plus a quick thought; extended reasoning follows the fighter's card, analysts thinking whole exchanges through and brawlers barely. The review pass checks thought against the card, not a count. (7) Physics: the real phenomenon and its law are named and explained in plain words on the page, with an analogy where it helps; the exact math stays in the notes. (8) Wound words: clinical names are welcome in narration when explained beside the plain body; hemorrhage class stays in the notes and medics' mouths.
 
 Context: imports/drafts/combat-magic-fix-questionnaire/answers.json batch2.
+
+## 2026-11-03 — new
+
+Combat and magic fix, round 3 (Isaac, 2026-11-03, by questionnaire). (9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring signatures are exempt; verify_scene changes to match. (10) Sounds: a technique's and a Wellspring's signature sound recur forever, so the reader learns them; the used-devices ledger retires only impact sounds and images. Two techniques of one Wellspring share its smell and texture but each keeps its own sound word. (11) Releases: calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice (to hide it, or with no breath). (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
+
+Context: imports/drafts/combat-magic-fix-questionnaire/answers.json batch3.

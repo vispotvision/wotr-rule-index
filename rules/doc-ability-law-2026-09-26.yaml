@@ -13,10 +13,9 @@ rules:
   pack_number: null
   section: A
   title: 'What an ability entry describes: what it is, never how to use it'
-  status: live
+  status: superseded
   kind: mandate
-  summary: An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters,
-    and never how it is used in a fight.
+  summary: "An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight. [Superseded 2026-11-03 by R81-16: an entry states the combat use inside each bullet.]"
   verbatim: 'An ability entry describes what the ability is, never how to use it: the mechanism, what
     it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights
     or lines telling the reader how to use it; the owner invents the applications.'

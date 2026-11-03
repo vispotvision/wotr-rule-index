@@ -1,0 +1,485 @@
+# Isaac's combat and magic fix questionnaire, 2026-11-03, recorded in RULINGS.md and indexed the same day. Each verbatim is one numbered clause of the recorded paragraph.
+pack: Directions 2026-11-03 (combat and magic fix)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-1-FAST_TRADES_FULL_CARD
+  section: combat-magic-fix-questionnaire
+  title: Every Blow Card part in every blow, written tight in quick trades
+  kind: mandate
+  summary: Quick trades keep every Blow Card part and compress the wording into long cumulative sentences; no part
+    is dropped for pace.
+  verbatim: '(1) Fast trades: every Blow Card part stays in every blow; quick trades compress the wording into long
+    cumulative sentences instead of dropping parts.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - prose-law
+  notes: Clause (1) of the RULINGS.md paragraph "Combat and magic fix, round 1" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-1 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-2-WORKING_CARD_ON_REPEAT
+  section: combat-magic-fix-questionnaire
+  title: The full Working Card at first display, finisher and change; repeats by what changed
+  kind: mandate
+  summary: A working takes the full Working Card at first display, at the finisher and whenever something changes;
+    an ordinary repeat writes charge, effect, cost and what differs.
+  verbatim: '(2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever
+    something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost
+    plus whatever is different this time.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - magic-mechanism
+  - prose-law
+  notes: Clause (2) of the RULINGS.md paragraph "Combat and magic fix, round 1" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-2 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-3-ETA_AS_PROPORTION
+  section: combat-magic-fix-questionnaire
+  title: Eta and reserve as ideas and proportions in narration
+  kind: mandate
+  summary: Narration names eta as an idea and gives loss and reserve as proportions and body tells; exact figures
+    only in mouths and the notes.
+  verbatim: '(3) Eta and reserve: narration names eta as an idea and gives the loss in proportions and on the body
+    (a third of the draw went to heat, his reserve near half); exact figures only in mouths and the notes.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - magic-mechanism
+  - stats
+  notes: Clause (3) of the RULINGS.md paragraph "Combat and magic fix, round 1" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-3 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-4-EXPLAIN_IN_ANY_POV
+  section: combat-magic-fix-questionnaire
+  title: Narration explains the full mechanism in any POV, in that POV's words
+  kind: mandate
+  summary: Narration explains the whole mechanism in every POV; an untrained POV in plainer, wondering words; dialogue
+    still explains only what the speaker could know.
+  verbatim: '(4) Who explains: narration explains the full mechanism in every POV; an untrained POV''s narration
+    explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still explains only
+    what the speaker could know.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - pov
+  - magic-mechanism
+  - combat
+  - prose-law
+  notes: Clause (4) of the RULINGS.md paragraph "Combat and magic fix, round 1" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-4 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-5-HIDDEN_CARD_REVEAL
+  section: combat-magic-fix-questionnaire
+  title: A held card shows its effect first and is explained in full at the reveal
+  kind: mandate
+  summary: A held-back card fires with its effect in full body detail and its full mechanism explained at the reveal,
+    in the same exchange; the reader is puzzled for a beat, never left there.
+  verbatim: '(5) Hidden cards: a held-back card fires and its effect is shown in full body detail; its full mechanism
+    is explained the moment it is revealed, in the same exchange. The reader is puzzled for a beat, never left there.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - magic-mechanism
+  - pov
+  notes: Clause (5) of the RULINGS.md paragraph "Combat and magic fix, round 2" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-5 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-6-FIGHT_THOUGHT_BY_CARD
+  section: combat-magic-fix-questionnaire
+  title: Fight thought follows the fighter's card
+  kind: mandate
+  summary: Each blow's read is behavior plus a quick thought; extended reasoning follows the card (analysts think
+    exchanges through, brawlers barely); the review checks against the card, not a count.
+  verbatim: '(6) Fight thought: the read in every blow is behavior plus a quick thought; extended reasoning follows
+    the fighter''s card, analysts thinking whole exchanges through and brawlers barely. The review pass checks thought
+    against the card, not a count.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - pov
+  - prose-law
+  notes: Clause (6) of the RULINGS.md paragraph "Combat and magic fix, round 2" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-6 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-7-PHYSICS_NAMED_ON_PAGE
+  section: combat-magic-fix-questionnaire
+  title: The real phenomenon and its law named and explained on the page
+  kind: mandate
+  summary: The real phenomenon and its governing law are named and explained in plain words on the page, an analogy
+    where it helps; the exact math stays in the notes.
+  verbatim: '(7) Physics: the real phenomenon and its law are named and explained in plain words on the page, with
+    an analogy where it helps; the exact math stays in the notes.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - combat
+  - prose-law
+  notes: Clause (7) of the RULINGS.md paragraph "Combat and magic fix, round 2" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-7 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-8-CLINICAL_NAMES_IN_NARRATION
+  section: combat-magic-fix-questionnaire
+  title: Clinical wound names welcome in narration when explained
+  kind: mandate
+  summary: Clinical names are welcome in narration when explained beside the plain body; hemorrhage class stays
+    in the notes and medics' mouths.
+  verbatim: '(8) Wound words: clinical names are welcome in narration when explained beside the plain body; hemorrhage
+    class stays in the notes and medics'' mouths.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - prose-law
+  notes: Clause (8) of the RULINGS.md paragraph "Combat and magic fix, round 2" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-8 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-9-STOCK_PHRASES_ONLY
+  section: combat-magic-fix-questionnaire
+  title: Only exact stock phrases are banned; canon signatures exempt
+  kind: ban
+  summary: Only exact stock phrases are banned; single words are free; canon Wellspring signatures are exempt; verify_scene
+    matches.
+  verbatim: '(9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring
+    signatures are exempt; verify_scene changes to match.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - prose-law
+  - register
+  - verification
+  notes: Clause (9) of the RULINGS.md paragraph "Combat and magic fix, round 3" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-9 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-10-SIGNATURE_SOUNDS_RECUR
+  section: combat-magic-fix-questionnaire
+  title: Signature sounds recur; only impact sounds and images retire
+  kind: mandate
+  summary: Technique and Wellspring signature sounds recur forever; the used-devices ledger retires only impact
+    sounds and images; two techniques of one Wellspring keep their own sound words.
+  verbatim: '(10) Sounds: a technique''s and a Wellspring''s signature sound recur forever, so the reader learns
+    them; the used-devices ledger retires only impact sounds and images. Two techniques of one Wellspring share
+    its smell and texture but each keeps its own sound word.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - prose-law
+  - combat
+  - magic-mechanism
+  notes: Clause (10) of the RULINGS.md paragraph "Combat and magic fix, round 3" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-10 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-11-RELEASE_CALL
+  section: combat-magic-fix-questionnaire
+  title: A release called aloud gives the full rise; silent is weaker
+  kind: mandate
+  summary: Calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice.
+  verbatim: '(11) Releases: calling a release aloud gives the full rise; a silent release is possible and weaker,
+    the fighter''s choice (to hide it, or with no breath).'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - magic-mechanism
+  - adjudication
+  notes: Clause (11) of the RULINGS.md paragraph "Combat and magic fix, round 3" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-11 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-12-OWN_DOMAIN_IN_CAP
+  section: combat-magic-fix-questionnaire
+  title: The user's own Domain counts toward the two-Grade cap
+  kind: mandate
+  summary: The user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains,
+    arrays and outside help stack past it; a Third Release fills the cap alone.
+  verbatim: '(12) Stacking: the user''s own Domain, releases, vows and Drafts all count toward the two-Grade cap;
+    only allies'' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - adjudication
+  - stats
+  - combat
+  notes: Clause (12) of the RULINGS.md paragraph "Combat and magic fix, round 3" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-12 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-13-PC_CHOICE_ON_CONTINUE
+  section: combat-magic-fix-questionnaire
+  title: On a continue, the PC's decision is carried by his card and flagged
+  kind: procedure
+  summary: When a continue reaches a real PC decision, Natalie carries him through it by card and oath, flags it
+    in the notes, and his rewrite overturns.
+  verbatim: '(13) PC choices: when a ''continue'' runs into one of his PC''s real decisions, Natalie carries him
+    through it by his card and oath, says so in the author notes, and he overturns by rewrite.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - session-protocol
+  - scene-structure
+  notes: Clause (13) of the RULINGS.md paragraph "Combat and magic fix, round 4" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-13 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-14-PC_HISTORY_FREE
+  section: combat-magic-fix-questionnaire
+  title: The PC's past may be invented freely, canon on use
+  kind: mandate
+  summary: Natalie may invent what the scene needs of the PC's past, flagged in the notes; canon on use unless he
+    strikes it.
+  verbatim: '(14) PC history: Natalie may invent what the scene needs of his PC''s past, freely, flagged in the
+    notes; it is canon on use and stands unless he strikes it.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - session-protocol
+  - character-sheet
+  notes: Clause (14) of the RULINGS.md paragraph "Combat and magic fix, round 4" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-14 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-15-PC_WOUNDS_ON_CARD
+  section: combat-magic-fix-questionnaire
+  title: Lasting PC wounds go onto the card at scene end
+  kind: procedure
+  summary: Wounds and their lasting effects go onto the PC's card at scene end; he strikes or changes them; Level,
+    Stage and techniques stay his.
+  verbatim: '(15) PC wounds: wounds and their lasting effects go onto his card at scene end; he strikes or changes
+    them. Level, Stage and techniques stay his.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - session-protocol
+  - character-sheet
+  notes: Clause (15) of the RULINGS.md paragraph "Combat and magic fix, round 4" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-15 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-16-ENTRY_LAYOUT_NO_APPLICATIONS
+  section: combat-magic-fix-questionnaire
+  title: Technique entries in Isaac's layout, no Applications list
+  kind: mandate
+  summary: 'Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics
+    and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no
+    Applications list.'
+  verbatim: '(16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native
+    name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet,
+    then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - magic-design
+  - character-sheet
+  - codex
+  notes: Clause (16) of the RULINGS.md paragraph "Combat and magic fix, round 4" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-16 on 2026-11-03.
+  supersedes:
+  - R47-1-NO_APPLICATIONS
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-17-WORKING_CARD_SCOPE
+  section: combat-magic-fix-questionnaire
+  title: All magic takes the Working Card, scaled; aura and reinforcement once
+  kind: mandate
+  summary: All magic gets the Working Card at its first show in a scene, scaled; the always-on aura and reinforcement
+    get it once, then live as body tells.
+  verbatim: '(17) Card scope: all magic gets the Working Card at its first show in a scene, scaled; the always-on
+    aura and reinforcement get it once, then live as body tells (dimming, flaring, thinning) for the rest of the
+    fight.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - combat
+  notes: Clause (17) of the RULINGS.md paragraph "Combat and magic fix, round 5" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-17 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-18-CARD_MERGE_ORDER
+  section: combat-magic-fix-questionnaire
+  title: Blow and Working Cards interleave; the Kill Card extends the Blow Card
+  kind: procedure
+  summary: A working riding a blow interleaves the two cards step by step; on a kill the Kill Card extends the Blow
+    Card.
+  verbatim: '(18) Card merge: when a working rides a blow, the cards interleave: the working''s charge and draw
+    ride the blow''s set, its aura and room ride the read and contact, its mechanism and effect sit beside the tissue,
+    its cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - combat
+  - magic-mechanism
+  - prose-law
+  notes: Clause (18) of the RULINGS.md paragraph "Combat and magic fix, round 5" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-18 on 2026-11-03.
+- pack: Directions 2026-11-03 (combat and magic fix)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R81-19-BATTLE_BLOW_CARD
+  section: combat-magic-fix-questionnaire
+  title: In battle the POV's own fight takes full Blow Cards; the mass by bodies
+  kind: mandate
+  summary: The POV's own fight in a battle takes full Blow Cards; the mass is told through specific bodies and wounds;
+    a blow too fast to see is carded from what the POV saw after.
+  verbatim: '(19) Battles: the POV''s own fight in a battle gets full Blow Cards; the mass around it is told through
+    specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage,
+    the wound, the position), explained.'
+  amends:
+  - guide: NATALIE.md
+    locus: DEPTH AND EXPLANATION, THE MAGIC FRAME, THE FIGHT, THE TABLE
+    operation: extends
+  applies_to:
+  - mass-combat
+  - combat
+  - pov
+  notes: Clause (19) of the RULINGS.md paragraph "Combat and magic fix, round 5" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json.
+    Indexed as R81-19 on 2026-11-03.

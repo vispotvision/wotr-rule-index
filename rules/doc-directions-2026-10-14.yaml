@@ -15,7 +15,7 @@ rules:
   section: R78-1-VOCABULARY_PUSHED_HIGH
   title: Physical clarity and saturated English vocabulary
   kind: mandate
-  summary: "Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).]"
+  summary: "Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).] [Also: the fight-abstraction WARN retired (R80-26); clinical names welcome in narration when explained (R81-8).]"
   verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/):
     physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved,
     the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or
@@ -110,10 +110,7 @@ rules:
   section: page-craft-questionnaire
   title: 'Fights on the page: shouted English names, afterimages, geysers, free flashbacks'
   kind: mandate
-  summary: Eastern school terms free in narration; techniques shouted in English; afterimages for speed;
-    battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime
-    blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks;
-    talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+  summary: "Eastern school terms free in narration; techniques called aloud in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full anatomy, anime blood, wounds shrugged off then felt, small hits add up; one POV per stretch; will counts through vow, Resonance or breakthrough. [Amended: fighters talk constantly (R80-3); flashbacks rare and marked (R80-9); thought by the card (R81-6); a release called aloud gives the full rise, silent is weaker (R81-11); clinical names welcome when explained (R81-8); misses are not summed (R80-5).]"
   verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/,
     round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school
     terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique''s

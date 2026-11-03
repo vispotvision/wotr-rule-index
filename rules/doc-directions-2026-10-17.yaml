@@ -193,10 +193,7 @@ rules:
   section: prose-rp-questionnaire
   title: Interiority, meaning and the world on the page
   kind: mandate
-  summary: NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning;
-    narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense
-    and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention
-    canon once archived.
+  summary: "NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived. [Amended by R81-4 and R80-22: system and science words free in any POV's narration when explained; an untrained POV explains in plainer, wondering words; flashbacks narrowed by R80-9.]"
   verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority,
     meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion
     plays anime-big by default, felt and thought through; the held-image technique is an occasional device
@@ -316,7 +313,7 @@ rules:
   section: prose-rp-questionnaire
   title: Fights and workings on the page
   kind: mandate
-  summary: "RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.]"
+  summary: "RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.] [Amended by R81-4: narration explains in any POV, not only the trained one; R81-8: clinical names welcome in narration when explained.]"
   verbatim: 'Isaac''s direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights
     and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece.
     Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found

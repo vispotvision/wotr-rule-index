@@ -255,9 +255,7 @@ rules:
     title: The Technical Register, defined
     status: live
     kind: definition
-    summary: The Technical Register governs chosen actions with exhaustive tactical explanation; only combat
-      roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page
-      (R77-2). Written scenes and books keep the full floor.
+    summary: "The Technical Register governs chosen actions with exhaustive tactical explanation, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired with R77-2 (R79-6); the Blow Card and Working Card carry it (R80-5, R81-1, R81-2).]"
     verbatim: >-
       The Technical Register governs combat, craft, injury, and anything a
       practitioner does on purpose. It is Naruto. It is exhaustive,
@@ -301,11 +299,7 @@ rules:
     title: The Mystic Register, defined
     status: live
     kind: definition
-    summary: >-
-      The Mystic Register governs Wellsprings, sites, rites, oaths, the
-      Veil, and anything the world does regardless of who is watching; it
-      is stated as law, never as physics — imperative rules, prices given
-      as prices, taboos given without justification.
+    summary: "The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification. [Amended by R81-7: narration may name and explain the real physics beside the law; prices and taboos are still stated as law.]"
     verbatim: >-
       The Mystic Register governs Wellsprings, sites, rites, oaths, the
       Veil, and anything the world does regardless of who is watching. It
@@ -435,9 +429,7 @@ rules:
     title: What a combat exchange owes the reader, five minimums
     status: live
     kind: mandate
-    summary: An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits;
-      combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism
-      and figures in notes (R77-2). Written scenes keep the full explanation.
+    summary: "An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired (R79-6); the read is behavior plus a quick thought (R81-6); cost as proportions and body (R81-3).]"
     verbatim: >-
       What a combat exchange now owes the reader. At minimum, across the
       engagement:
@@ -606,11 +598,7 @@ rules:
     title: "Voice one: the POV's own read"
     status: live
     kind: definition
-    summary: >-
-      Free indirect explanation ceilinged at the POV character's actual
-      competence; an out-of-depth character explains wrong, and a
-      confidently wrong technical explanation is now the primary vehicle
-      for the misreading budget.
+    summary: "Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget. [Amended by R81-4: this ceiling binds the POV's own understanding and dialogue; narration still explains the full mechanism in any POV, in that POV's plainer words, so a confidently wrong read is set right on the page.]"
     verbatim: >-
       The POV's own read. Free indirect, inside his competence. The
       ceiling is what this character actually knows, and a character who

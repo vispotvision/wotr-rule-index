@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1411 live of 1791 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1428 live of 1810 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (148)
+## adjudication (150)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -24,7 +24,7 @@ Names which stat answers each Table Rule 5 adjudication question (who bends the 
 
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
-A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
+A meaningful exchange carries measure, tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit, written as the Blow Card and Working Card in roleplay and written scenes alike. [Amended: R77-1 and R77-2 retired; R79-6, R80-5, R81-1, R81-2.]
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
@@ -42,7 +42,7 @@ The power economy remains a hard rail (finite, spent, shown on the page), the la
 
 ### R12-3-COMBAT_EXCHANGE_OWES [Pack Twelve §3]
 
-An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
+An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired (R79-6); the read is behavior plus a quick thought (R81-6); cost as proportions and body (R81-3).]
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
@@ -204,7 +204,7 @@ Where a ruling's operative sentence is written generally, it applies to every ca
 
 ### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
 
-Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
+Every blow carries the full Blow Card (R80-5, R81-1); a working takes the full Working Card at its first display, at the finisher and whenever something changes, and an ordinary repeat its charge, effect, cost and what differs (R81-2); each grammar pays its way. [Amended: the first-display-and-finisher floor widened by R81-1 and R81-2; R77-2's roleplay clause retired (R79-6).]
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
 
@@ -252,7 +252,7 @@ Let a fight end by a yield that binds under the culture's custom with its terms 
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
-Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism and figures in notes (R77-2).
+Show a tell plainly at its first and second appearance and read it at length at the third. [Amended: R77-2's notes-only roleplay clause retired (R79-6), so the mechanism is on the page; Natalie may write the read in the PC's head and his rewrite wins (R79-1).]
 
 > Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
 
@@ -474,7 +474,7 @@ A crime done with a working is proved by trace examiners reading its traces as e
 
 ### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
 
-RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.]
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.] [Amended by R81-4: narration explains in any POV, not only the trained one; R81-8: clinical names welcome in narration when explained.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
 
@@ -501,6 +501,18 @@ Chases, stealth, hunts and journeys take their own shapes; tropes in and tropes 
 Atrocity's camera set by the arc; mind magic mechanism, violation and law at once; Discord posts plain; danger scales to the arc with a findable way out; deaths signaled and permanent; the PC's growth is his call.
 
 > Writing craft, batches nineteen to twenty-one (Isaac, 2026-10-31). (1) Atrocity: how close the camera goes is set by the arc. Mind-affecting magic: mechanism fair, use a violation with cost, law an argument, all at once. Oppression: street level, machinery and resistance interleaved. Hero morality: by the card. (2) Form: Discord posts plain and paste-ready, repo files may carry structure; dialogue by speed; no default lead sense; the page says an invented word and the wiki defines it (a trained POV's own explanation still stands). (3) The table: world danger scales to the arc with a findable way out in every fight; a PC's small failure is a cost and a big one a clean miss with consequences; his growth (Level points, Stage, card changes) is his call, Natalie offers beats; deaths are signaled, permanent and felt long after, returns rare, by canon means and costly. Applied to desktop/NATALIE.md.
+
+### R81-11-RELEASE_CALL [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice.
+
+> (11) Releases: calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice (to hide it, or with no breath).
+
+### R81-12-OWN_DOMAIN_IN_CAP [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it; a Third Release fills the cap alone.
+
+> (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -892,7 +904,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (250)
+## character-sheet (252)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1133,12 +1145,6 @@ Rewrite an ability entry still in the field format into the paragraph shape the 
 Write every figure plainly, on ability write-ups and on cards, with no estimate mark; an estimate is still canon on use and loses to a source value on contact, and which figures are estimates lives in the author notes only.
 
 > no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page.
-
-### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
-
-An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
-
-> An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
 
 ### R47-4-LEDGER_COSTS [Ability Law 2026-09-26 D]
 
@@ -1640,7 +1646,7 @@ A sketched character gets a full draft card first; third person by default; inve
 
 ### R80-15-ABILITY_PIPELINE [Directions 2026-10-24 to 2026-11-03 Abilities]
 
-Abilities are drawn from the Superpower Wiki and real physics, with research in the notes, a sample display for signatures and releases, one best name, and overlaps surfaced to Isaac.
+Abilities are drawn from the Superpower Wiki and real physics, with research in the notes, a sample display for signatures and releases, one best name, and overlaps surfaced to Isaac. [Amended by R81-16: no Applications, Variations, Associations or Limits lists, the combat use inside each bullet; physics on the entry (R80-25).]
 
 > Ability pipeline (Isaac, 2026-10-31). Abilities are written the way the Superpower Wiki writes them and drawn from its concepts and from real physics. The Superpower Wiki is a primary source for design, application, variation, association and limitation (WOTR canon governs every fact and number). A technique entry keeps the R76/R79-9 paragraph and adds Applications (8 to 15 discrete uses, one sentence each, inside the cost and limit), Variations, Associations and Limits; the entry stays in plain everyday words and its physics lives in the notes page. Full research goes to the notes page with a one-line chat summary. A signature technique or release gets a sample first display for approval before it is saved; small tricks go straight to the card. One best name is offered. Overlap or outclassing between abilities is surfaced to Isaac with a recommendation and he decides. The full path is desktop/ABILITY_PIPELINE.md. Applied to desktop/NATALIE.md (Technique entries, Superpower Wiki line) and .claude/skills/wotr-write/references/technique-design.md. The wotr-technique and wotr-phenomenon skills are mid-edit by another session and were not touched.
 
@@ -1655,6 +1661,24 @@ Characters, places, items, creatures and techniques are built art-first, inventi
 Every blow by its full body mechanics and every working by its charge, color, atmosphere, sound, smell, pressure and bodily feel, its mechanism traced in physics and WOTR metaphysics; more explanation is better; jargon of every kind welcome when explained.
 
 > Combat and magic on the page are explained in depth: every blow by its full body mechanics, every working by its charge, color, atmospheric change, sound, smell, pressure and bodily feel, and its mechanism traced step by step through both real physics and WOTR metaphysics (Essence, Soul Crystal, Shell, eta and waste heat, Wellspring, Family, harmonization). More explanation is better. Jargon of every kind (physics, anatomy, martial, system terms) is welcome and used freely as long as it is descriptive and explained; it is never avoided as a bad thing.
+
+### R81-14-PC_HISTORY_FREE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Natalie may invent what the scene needs of the PC's past, flagged in the notes; canon on use unless he strikes it.
+
+> (14) PC history: Natalie may invent what the scene needs of his PC's past, freely, flagged in the notes; it is canon on use and stands unless he strikes it.
+
+### R81-15-PC_WOUNDS_ON_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Wounds and their lasting effects go onto the PC's card at scene end; he strikes or changes them; Level, Stage and techniques stay his.
+
+> (15) PC wounds: wounds and their lasting effects go onto his card at scene end; he strikes or changes them. Level, Stage and techniques stay his.
+
+### R81-16-ENTRY_LAYOUT_NO_APPLICATIONS [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no Applications list.
+
+> (16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet, then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -2397,7 +2421,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (113)
+## codex (114)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2941,9 +2965,15 @@ Sonzai hands-off; card head required, sections a menu, no cap; figures set when 
 
 ### R80-15-ABILITY_PIPELINE [Directions 2026-10-24 to 2026-11-03 Abilities]
 
-Abilities are drawn from the Superpower Wiki and real physics, with research in the notes, a sample display for signatures and releases, one best name, and overlaps surfaced to Isaac.
+Abilities are drawn from the Superpower Wiki and real physics, with research in the notes, a sample display for signatures and releases, one best name, and overlaps surfaced to Isaac. [Amended by R81-16: no Applications, Variations, Associations or Limits lists, the combat use inside each bullet; physics on the entry (R80-25).]
 
 > Ability pipeline (Isaac, 2026-10-31). Abilities are written the way the Superpower Wiki writes them and drawn from its concepts and from real physics. The Superpower Wiki is a primary source for design, application, variation, association and limitation (WOTR canon governs every fact and number). A technique entry keeps the R76/R79-9 paragraph and adds Applications (8 to 15 discrete uses, one sentence each, inside the cost and limit), Variations, Associations and Limits; the entry stays in plain everyday words and its physics lives in the notes page. Full research goes to the notes page with a one-line chat summary. A signature technique or release gets a sample first display for approval before it is saved; small tricks go straight to the card. One best name is offered. Overlap or outclassing between abilities is surfaced to Isaac with a recommendation and he decides. The full path is desktop/ABILITY_PIPELINE.md. Applied to desktop/NATALIE.md (Technique entries, Superpower Wiki line) and .claude/skills/wotr-write/references/technique-design.md. The wotr-technique and wotr-phenomenon skills are mid-edit by another session and were not touched.
+
+### R81-16-ENTRY_LAYOUT_NO_APPLICATIONS [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no Applications list.
+
+> (16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet, then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.
 
 ### R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL [The Farrant Papers Ratification 2026-09-28 papers 5]
 
@@ -3077,7 +3107,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (204)
+## combat (217)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3123,7 +3153,7 @@ The twenty-six Categories say what kind of thing came out; their alignment tag n
 
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
-A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
+A meaningful exchange carries measure, tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit, written as the Blow Card and Working Card in roleplay and written scenes alike. [Amended: R77-1 and R77-2 retired; R79-6, R80-5, R81-1, R81-2.]
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
@@ -3159,7 +3189,7 @@ The Combat Craft Guide (third edition) has its §4 rewritten off this pack's §4
 
 ### R13-9-VERIFY_CHECKS_22_26 [Pack Thirteen §9]
 
-Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN), causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures in notes under R77-2, while written scenes keep the full floor.
+Combat checks cover anatomy (23, WARN), causal connection, stated fault and reserve accounting (24 to 26). [Amended: check 22's European-jargon WARN retired with R77-1 (R80-26); R77-2's notes-only roleplay clause retired (R79-6).]
 
 > wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
 
@@ -3171,13 +3201,13 @@ Every weapon entry in the Item and Equipment Writing Guide carries mass, length,
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
-The Technical Register governs chosen actions with exhaustive tactical explanation; only combat roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page (R77-2). Written scenes and books keep the full floor.
+The Technical Register governs chosen actions with exhaustive tactical explanation, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired with R77-2 (R79-6); the Blow Card and Working Card carry it (R80-5, R81-1, R81-2).]
 
 > The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight. It explains the read, the fault, the counter, the reserve, and the reason the answer worked. It uses real vocabulary and does not flinch from detail.
 
 ### R12-3-COMBAT_EXCHANGE_OWES [Pack Twelve §3]
 
-An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
+An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired (R79-6); the read is behavior plus a quick thought (R81-6); cost as proportions and body (R81-3).]
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
@@ -3435,7 +3465,7 @@ Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the a
 
 ### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
 
-Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
+Every blow carries the full Blow Card (R80-5, R81-1); a working takes the full Working Card at its first display, at the finisher and whenever something changes, and an ordinary repeat its charge, effect, cost and what differs (R81-2); each grammar pays its way. [Amended: the first-display-and-finisher floor widened by R81-1 and R81-2; R77-2's roleplay clause retired (R79-6).]
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
 
@@ -3531,7 +3561,7 @@ Write taunts, lies and accusations mid-exchange as moves aimed at breaking the o
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
-Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism and figures in notes (R77-2).
+Show a tell plainly at its first and second appearance and read it at length at the third. [Amended: R77-2's notes-only roleplay clause retired (R79-6), so the mechanism is on the page; Natalie may write the read in the PC's head and his rewrite wins (R79-1).]
 
 > Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
 
@@ -3573,7 +3603,7 @@ An art's release call may be spoken as often as the fighter can afford the beat 
 
 ### R71-30-HELD_BACK_REVEAL [Combat Law 2026-10-04 MC4]
 
-A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign.
+A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign. [Amended by R81-5: when the held card fires its effect is shown in full body detail, and its full mechanism is explained at the reveal, in the same exchange.]
 
 > Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.
 
@@ -3655,12 +3685,6 @@ A practitioner's faculty prints an opponent's exact figures when his Gnosis Perc
 
 > Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward is the counter.
 
-### R71-45-RAISING_DOMAIN_DUEL [Combat Law 2026-10-04 MC19]
-
-In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat.
-
-> Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)
-
 ### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
 
 When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
@@ -3675,7 +3699,7 @@ When top-ladder practitioners fight in a city, carry the scale by one marked dip
 
 ### R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY [Combat Law 2026-10-04 MC22]
 
-Outside a display beat, write a working's waste light by the smith's colour scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never use the word glow.
+Outside a display beat, write a working's waste light by the smith's color scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker. [Amended: the glow ban retired by R79-6, auras glow.]
 
 > Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.
 
@@ -3867,7 +3891,7 @@ A stale enhanced round may fail in a fight only if the page showed its date earl
 
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
-When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+When a fight breaks a ward, the failing layer is named and explained as it goes: a POV inside the craft in its own terms, any other POV in plainer words, and a mouth may name it too. [Amended by R81-4; R70-100 is superseded.]
 
 > By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
 
@@ -3951,13 +3975,13 @@ Modern science, to the present day, may explain workings and fights and drive ma
 
 ### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
 
-Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).]
+Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).] [Also: the fight-abstraction WARN retired (R80-26); clinical names welcome in narration when explained (R81-8).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
 
 ### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
 
-Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+Eastern school terms free in narration; techniques called aloud in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full anatomy, anime blood, wounds shrugged off then felt, small hits add up; one POV per stretch; will counts through vow, Resonance or breakthrough. [Amended: fighters talk constantly (R80-3); flashbacks rare and marked (R80-9); thought by the card (R81-6); a release called aloud gives the full rise, silent is weaker (R81-11); clinical names welcome when explained (R81-8); misses are not summed (R80-5).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
 
@@ -3981,7 +4005,7 @@ Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides conte
 
 ### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
 
-RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.]
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.] [Amended by R81-4: narration explains in any POV, not only the trained one; R81-8: clinical names welcome in narration when explained.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
 
@@ -4032,6 +4056,90 @@ Each moment of a fight or working is detailed and the world visibly reacts (the 
 Supersedes R77-1 and R70-100; full Blow Card and Working Card replace R79-6's one causal line and summed misses and R78-3's term ban; technique entries and cards explained in full; stale word counts and the cross-read annotated; the 2026-10-24 to 2026-11-03 directions indexed.
 
 > Agent ruling (Natalie), applying Isaac's 2026-11-03 directions to the index. Grounds: Isaac, 2026-11-03, "update the guides for writing abilities techniques hell even characters and making scenes combat scenes better based on these ideas the more descriptive the more explaination the better", and "commit and fix any of the rule issues" (canon hierarchy rung 1, newest wins). (1) R77-1-EUROPEAN_FENCING_ACTIONS and R70-100-MARTIAL_VOCABULARY_NAMES_MOVES are superseded: jargon of every kind is welcome when explained, beside the body. (2) R79-6's 'one causal line at first display' and 'misses summed' and R78-3's ban on the line, measure, tempo, vector, geometry and the read give way to the Working Card and the full Blow Card; the rest of R79-6 and R78-3 stands, the no-readout rule included. (3) The depth standard covers technique entries and character cards too: the 2026-10-31 ability-pipeline clause 'plain everyday words, its physics in the notes page' and the 2026-10-31 clause 'the page says an invented word and the wiki defines it' give way to full explanation on the page, every term explained on first use. (4) R79-1's and R79-8's 3,500-word targets were already reversed by Isaac on 2026-10-30, and R79-8's cross-read by the 2026-10-31 no-ChatGPT direction; their index rows are annotated so load_rules stops serving them. (5) The craft directions from 2026-10-24 to 2026-11-03, recorded in RULINGS.md but never indexed, are indexed as R80-1 onward in rules/doc-directions-2026-11-03.yaml. Isaac may overturn any of this.
+
+### R81-1-FAST_TRADES_FULL_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Quick trades keep every Blow Card part and compress the wording into long cumulative sentences; no part is dropped for pace.
+
+> (1) Fast trades: every Blow Card part stays in every blow; quick trades compress the wording into long cumulative sentences instead of dropping parts.
+
+### R81-2-WORKING_CARD_ON_REPEAT [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A working takes the full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs.
+
+> (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time.
+
+### R81-3-ETA_AS_PROPORTION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration names eta as an idea and gives loss and reserve as proportions and body tells; exact figures only in mouths and the notes.
+
+> (3) Eta and reserve: narration names eta as an idea and gives the loss in proportions and on the body (a third of the draw went to heat, his reserve near half); exact figures only in mouths and the notes.
+
+### R81-4-EXPLAIN_IN_ANY_POV [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration explains the whole mechanism in every POV; an untrained POV in plainer, wondering words; dialogue still explains only what the speaker could know.
+
+> (4) Who explains: narration explains the full mechanism in every POV; an untrained POV's narration explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still explains only what the speaker could know.
+
+### R81-5-HIDDEN_CARD_REVEAL [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A held-back card fires with its effect in full body detail and its full mechanism explained at the reveal, in the same exchange; the reader is puzzled for a beat, never left there.
+
+> (5) Hidden cards: a held-back card fires and its effect is shown in full body detail; its full mechanism is explained the moment it is revealed, in the same exchange. The reader is puzzled for a beat, never left there.
+
+### R81-6-FIGHT_THOUGHT_BY_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Each blow's read is behavior plus a quick thought; extended reasoning follows the card (analysts think exchanges through, brawlers barely); the review checks against the card, not a count.
+
+> (6) Fight thought: the read in every blow is behavior plus a quick thought; extended reasoning follows the fighter's card, analysts thinking whole exchanges through and brawlers barely. The review pass checks thought against the card, not a count.
+
+### R81-7-PHYSICS_NAMED_ON_PAGE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The real phenomenon and its governing law are named and explained in plain words on the page, an analogy where it helps; the exact math stays in the notes.
+
+> (7) Physics: the real phenomenon and its law are named and explained in plain words on the page, with an analogy where it helps; the exact math stays in the notes.
+
+### R81-8-CLINICAL_NAMES_IN_NARRATION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Clinical names are welcome in narration when explained beside the plain body; hemorrhage class stays in the notes and medics' mouths.
+
+> (8) Wound words: clinical names are welcome in narration when explained beside the plain body; hemorrhage class stays in the notes and medics' mouths.
+
+### R81-10-SIGNATURE_SOUNDS_RECUR [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Technique and Wellspring signature sounds recur forever; the used-devices ledger retires only impact sounds and images; two techniques of one Wellspring keep their own sound words.
+
+> (10) Sounds: a technique's and a Wellspring's signature sound recur forever, so the reader learns them; the used-devices ledger retires only impact sounds and images. Two techniques of one Wellspring share its smell and texture but each keeps its own sound word.
+
+### R81-11-RELEASE_CALL [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice.
+
+> (11) Releases: calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice (to hide it, or with no breath).
+
+### R81-12-OWN_DOMAIN_IN_CAP [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it; a Third Release fills the cap alone.
+
+> (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
+
+### R81-17-WORKING_CARD_SCOPE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+All magic gets the Working Card at its first show in a scene, scaled; the always-on aura and reinforcement get it once, then live as body tells.
+
+> (17) Card scope: all magic gets the Working Card at its first show in a scene, scaled; the always-on aura and reinforcement get it once, then live as body tells (dimming, flaring, thinning) for the rest of the fight.
+
+### R81-18-CARD_MERGE_ORDER [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A working riding a blow interleaves the two cards step by step; on a kill the Kill Card extends the Blow Card.
+
+> (18) Card merge: when a working rides a blow, the cards interleave: the working's charge and draw ride the blow's set, its aura and room ride the read and contact, its mechanism and effect sit beside the tissue, its cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.
+
+### R81-19-BATTLE_BLOW_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The POV's own fight in a battle takes full Blow Cards; the mass is told through specific bodies and wounds; a blow too fast to see is carded from what the POV saw after.
+
+> (19) Battles: the POV's own fight in a battle gets full Blow Cards; the mass around it is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage, the wound, the position), explained.
 
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -4149,7 +4257,7 @@ Killing intent is Pressure narrowed onto one man through Dominion, felt as cold,
 
 ### R70-71-EXPLAINING_WORKING_MID_FIGHT [Style Law 2026-10-03 MY4]
 
-Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live.
+Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live. [Amended by R81-5 and R80-22: planting stays; the mechanism is still explained in full on the page at its display or reveal.]
 
 > Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
 
@@ -4161,13 +4269,13 @@ At a power reveal let the watching crowd speak in waves inside the POV's hearing
 
 ### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
 
-Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure. [Amended: never inside a fight (R79-6); there the reserve shows as proportion and body in narration, figures only in mouths (R81-3).]
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
 
 ### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
 
-When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
+When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together. [Amended by R81-3: in a fight the figure lives in a mouth or the notes; narration gives the proportion and the body.]
 
 > Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.
 
@@ -4463,7 +4571,7 @@ Memory entries thirteen, fourteen, twenty-nine and thirty (accent calibration, p
 
 ### R12-4-VOICE_ONE_POV [Pack Twelve §4]
 
-Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget.
+Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget. [Amended by R81-4: this ceiling binds the POV's own understanding and dialogue; narration still explains the full mechanism in any POV, in that POV's plainer words, so a confidently wrong read is set right on the page.]
 
 > The POV's own read. Free indirect, inside his competence. The ceiling is what this character actually knows, and a character who is out of his depth explains wrong. A wrong technical explanation delivered confidently is now the most valuable tool in the kit and replaces the misreading budget as its primary vehicle.
 
@@ -4619,7 +4727,7 @@ Fighters talk constantly; techniques called in English; big fights climb probe, 
 
 ### R80-9-CRAFT_REST_OF_PAGE [Directions 2026-10-24 to 2026-11-03 Writing craft]
 
-Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked.
+Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked. [Amended by R81-6: fight thought follows the card; the 'interior stays light' half is not applied.]
 
 > Craft law for the rest of the page (Isaac, 2026-10-30, writing-craft questionnaire). (1) Voices: a major NPC's voice is built culture and rank first, then want, then a verbal fingerprint; subtext follows culture (Moto and court layered, soldiers and commons blunt); lore comes through an NPC's pride, argument, signage and objects; a room of speakers takes the audible shape that room would have. (2) Feeling: emotion anime-big, said and shown; grief given full weight and room; warmth before loss as shared celebration; stories lean on rival-to-ally, mentor and student, found crew and slow-burn romance. (3) Villains: danger and entrance depend on the villain, no default; each ends by their nature and the arc; stakes mixed by arc. (4) Scenes: training as full scenes with a teacher; places through the POV's eye and body; mysteries play fair with clues planted early; time carried by a bridge paragraph; openings by the scene's weight. (5) Creatures introduced biology first. (6) Humour dry, crude, anime and gallows. (7) Table: consequences scale by weight, hooks at natural pauses, offstage actors as signs with cutaways at turns, turn proportions follow the beat. (8) Flashbacks are rare and run as their own marked set pieces; this narrows R79-4 'flashbacks run freely'. The 'interior stays light' half of the same answer is NOT applied, because it conflicts with The Weak Grade direction and the analyst/brawler fight-mind rule; Isaac to say if he meant it. Applied to desktop/NATALIE.md.
 
@@ -5099,7 +5207,7 @@ How modern a character's speech runs is set on their card; the default is casual
 
 ### R51-10-SLOP_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know... [Amended by R81-9: single words are free (tapestry, testament, palpable, visceral, orbs, ministrations); the exact stock phrases stand (a symphony of, a dance of, a shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, an electric touch, a velvet voice); 'whisper of' and 'the smell of ozone' are exempt as canon Wellspring signatures.]
 
 > A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
 
@@ -5445,7 +5553,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (112)
+## documents (111)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -5494,12 +5602,6 @@ Publish the name, kind and paragraph as the ability's Notion page and card entry
 Rewrite an ability entry still in the field format into the paragraph shape the next time it is edited or used, and leave the rest until then.
 
 > Old field-format entries are converted when next edited or used.
-
-### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
-
-An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
-
-> An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
 
 ### R47-7-NAMES_NOT_NUMBERS [Ability Law 2026-09-26 G]
 
@@ -6079,7 +6181,7 @@ Stages and Bands may carry their Roman numeral beside the name, as Fracture of W
 
 ### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
 
-Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure. [Amended: never inside a fight (R79-6); there the reserve shows as proportion and body in narration, figures only in mouths (R81-3).]
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
 
@@ -6119,7 +6221,7 @@ When a scene with other players is archived, the Judger marks each canon break s
 
 > The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
 
-## items (93)
+## items (92)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6210,12 +6312,6 @@ Plate is a cost problem rather than a defence problem to an Expenditure fighter,
 Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
 
 > Percussion answers to plate: none of these seek to penetrate. Plate is not defeated by percussion, it is used. The armour transmits force inward, and the correct target is the joint, the base, the balance and the man's ability to keep standing in fifty pounds of steel. A percussion fighter's answer to plate is to make the plate expensive to wear.
-
-### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
-
-An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
-
-> An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
 
 ### R47-5-LADDER_RUNG [Ability Law 2026-09-26 E]
 
@@ -7041,12 +7137,6 @@ Write every figure plainly, on ability write-ups and on cards, with no estimate 
 
 > no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page.
 
-### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
-
-An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
-
-> An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
-
 ### R47-3-COUNTERS_AS_FACTS [Ability Law 2026-09-26 C]
 
 Tells and counters stay mandatory but are written as facts about what the ability cannot survive and what gives it away, never as instructions to an opponent.
@@ -7253,7 +7343,7 @@ Sonzai hands-off; card head required, sections a menu, no cap; figures set when 
 
 ### R80-15-ABILITY_PIPELINE [Directions 2026-10-24 to 2026-11-03 Abilities]
 
-Abilities are drawn from the Superpower Wiki and real physics, with research in the notes, a sample display for signatures and releases, one best name, and overlaps surfaced to Isaac.
+Abilities are drawn from the Superpower Wiki and real physics, with research in the notes, a sample display for signatures and releases, one best name, and overlaps surfaced to Isaac. [Amended by R81-16: no Applications, Variations, Associations or Limits lists, the combat use inside each bullet; physics on the entry (R80-25).]
 
 > Ability pipeline (Isaac, 2026-10-31). Abilities are written the way the Superpower Wiki writes them and drawn from its concepts and from real physics. The Superpower Wiki is a primary source for design, application, variation, association and limitation (WOTR canon governs every fact and number). A technique entry keeps the R76/R79-9 paragraph and adds Applications (8 to 15 discrete uses, one sentence each, inside the cost and limit), Variations, Associations and Limits; the entry stays in plain everyday words and its physics lives in the notes page. Full research goes to the notes page with a one-line chat summary. A signature technique or release gets a sample first display for approval before it is saved; small tricks go straight to the card. One best name is offered. Overlap or outclassing between abilities is surfaced to Isaac with a recommendation and he decides. The full path is desktop/ABILITY_PIPELINE.md. Applied to desktop/NATALIE.md (Technique entries, Superpower Wiki line) and .claude/skills/wotr-write/references/technique-design.md. The wotr-technique and wotr-phenomenon skills are mid-edit by another session and were not touched.
 
@@ -7268,6 +7358,12 @@ Every blow by its full body mechanics and every working by its charge, color, at
 Supersedes R77-1 and R70-100; full Blow Card and Working Card replace R79-6's one causal line and summed misses and R78-3's term ban; technique entries and cards explained in full; stale word counts and the cross-read annotated; the 2026-10-24 to 2026-11-03 directions indexed.
 
 > Agent ruling (Natalie), applying Isaac's 2026-11-03 directions to the index. Grounds: Isaac, 2026-11-03, "update the guides for writing abilities techniques hell even characters and making scenes combat scenes better based on these ideas the more descriptive the more explaination the better", and "commit and fix any of the rule issues" (canon hierarchy rung 1, newest wins). (1) R77-1-EUROPEAN_FENCING_ACTIONS and R70-100-MARTIAL_VOCABULARY_NAMES_MOVES are superseded: jargon of every kind is welcome when explained, beside the body. (2) R79-6's 'one causal line at first display' and 'misses summed' and R78-3's ban on the line, measure, tempo, vector, geometry and the read give way to the Working Card and the full Blow Card; the rest of R79-6 and R78-3 stands, the no-readout rule included. (3) The depth standard covers technique entries and character cards too: the 2026-10-31 ability-pipeline clause 'plain everyday words, its physics in the notes page' and the 2026-10-31 clause 'the page says an invented word and the wiki defines it' give way to full explanation on the page, every term explained on first use. (4) R79-1's and R79-8's 3,500-word targets were already reversed by Isaac on 2026-10-30, and R79-8's cross-read by the 2026-10-31 no-ChatGPT direction; their index rows are annotated so load_rules stops serving them. (5) The craft directions from 2026-10-24 to 2026-11-03, recorded in RULINGS.md but never indexed, are indexed as R80-1 onward in rules/doc-directions-2026-11-03.yaml. Isaac may overturn any of this.
+
+### R81-16-ENTRY_LAYOUT_NO_APPLICATIONS [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no Applications list.
+
+> (16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet, then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.
 
 ### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
 
@@ -7515,7 +7611,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (269)
+## magic-mechanism (277)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -7687,7 +7783,7 @@ Before shipping, every new working/technique/ability names in the author notes t
 
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
-A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
+A meaningful exchange carries measure, tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit, written as the Blow Card and Working Card in roleplay and written scenes alike. [Amended: R77-1 and R77-2 retired; R79-6, R80-5, R81-1, R81-2.]
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
@@ -7753,13 +7849,13 @@ The power economy remains a hard rail (finite, spent, shown on the page), the la
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
-The Technical Register governs chosen actions with exhaustive tactical explanation; only combat roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page (R77-2). Written scenes and books keep the full floor.
+The Technical Register governs chosen actions with exhaustive tactical explanation, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired with R77-2 (R79-6); the Blow Card and Working Card carry it (R80-5, R81-1, R81-2).]
 
 > The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight. It explains the read, the fault, the counter, the reserve, and the reason the answer worked. It uses real vocabulary and does not flinch from detail.
 
 ### R12-2-MYSTIC_REGISTER_DEF [Pack Twelve §2]
 
-The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification.
+The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification. [Amended by R81-7: narration may name and explain the real physics beside the law; prices and taboos are still stated as law.]
 
 > The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching. It is Lord of the Mysteries. It is stated as law, never as physics: rules given in the imperative, prices given as prices, taboos given without justification.
 
@@ -7771,13 +7867,13 @@ If a person chose to do a thing, it is Technical Register. If it was already run
 
 ### R12-3-COMBAT_EXCHANGE_OWES [Pack Twelve §3]
 
-An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
+An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired (R79-6); the read is behavior plus a quick thought (R81-6); cost as proportions and body (R81-3).]
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
 ### R12-4-VOICE_ONE_POV [Pack Twelve §4]
 
-Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget.
+Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget. [Amended by R81-4: this ceiling binds the POV's own understanding and dialogue; narration still explains the full mechanism in any POV, in that POV's plainer words, so a confidently wrong read is set right on the page.]
 
 > The POV's own read. Free indirect, inside his competence. The ceiling is what this character actually knows, and a character who is out of his depth explains wrong. A wrong technical explanation delivered confidently is now the most valuable tool in the kit and replaces the misreading budget as its primary vehicle.
 
@@ -7897,7 +7993,7 @@ Ability Effect fields may render a working as an externalised shape (animal, ele
 
 ### R10-3-EFFECT_PHYSICAL_ONLY [Pack Ten PART THREE]
 
-A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page.
+A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page. [Amended by R81-7 and R80-22: the working's mechanism, physics and metaphysics are explained on the page; only why the Wellspring chose that particular shape may stand as law.]
 
 > Effect is physical only. What the shape looks like, what it does, what the room and the target feel. Never why the Wellspring resolved as a tiger and not a wolf — if that answer exists at all, it is workbook, one line at the foot, never on the page.
 
@@ -8389,7 +8485,7 @@ Decide every race between workings, or between a working and a blade, from a new
 
 ### R71-30-HELD_BACK_REVEAL [Combat Law 2026-10-04 MC4]
 
-A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign.
+A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign. [Amended by R81-5: when the held card fires its effect is shown in full body detail, and its full mechanism is explained at the reveal, in the same exchange.]
 
 > Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.
 
@@ -8459,12 +8555,6 @@ A practitioner holding his Pressure in pays in named places of his body (jaw, co
 
 > Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).
 
-### R71-45-RAISING_DOMAIN_DUEL [Combat Law 2026-10-04 MC19]
-
-In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat.
-
-> Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)
-
 ### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
 
 When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
@@ -8473,7 +8563,7 @@ When two Domains meet in a duel, show the seam between the two laws in the room 
 
 ### R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY [Combat Law 2026-10-04 MC22]
 
-Outside a display beat, write a working's waste light by the smith's colour scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never use the word glow.
+Outside a display beat, write a working's waste light by the smith's color scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker. [Amended: the glow ban retired by R79-6, auras glow.]
 
 > Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.
 
@@ -8581,7 +8671,7 @@ Against worked armour a proofed round strikes as one Tier higher on R46-3's one 
 
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
-When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+When a fight breaks a ward, the failing layer is named and explained as it goes: a POV inside the craft in its own terms, any other POV in plainer words, and a mouth may name it too. [Amended by R81-4; R70-100 is superseded.]
 
 > By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
 
@@ -8617,7 +8707,7 @@ Modern science, to the present day, may explain workings and fights and drive ma
 
 ### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
 
-Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).]
+Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).] [Also: the fight-abstraction WARN retired (R80-26); clinical names welcome in narration when explained (R81-8).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
 
@@ -8641,7 +8731,7 @@ Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides conte
 
 ### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
 
-RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.]
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.] [Amended by R81-4: narration explains in any POV, not only the trained one; R81-8: clinical names welcome in narration when explained.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
 
@@ -8686,6 +8776,60 @@ Every blow by its full body mechanics and every working by its charge, color, at
 Each moment of a fight or working is detailed and the world visibly reacts (the air cracks and ripples, light bends, the ground groans), in vivid, kinetic, mystical language.
 
 > Every moment of a fight or working is detailed with vivid, kinetic, mystical language and the world visibly reacting: the air cracks and ripples, light bends, pressure shears frost off stone, the ground spiderwebs and groans, shockwaves roll out, heat-haze warps the distance. Elevated, archaic and verbose words are welcome wherever they make the moment larger and clearer. This sits on top of the 2026-11-03 depth ruling: explain fully and describe lavishly.
+
+### R81-2-WORKING_CARD_ON_REPEAT [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A working takes the full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs.
+
+> (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time.
+
+### R81-3-ETA_AS_PROPORTION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration names eta as an idea and gives loss and reserve as proportions and body tells; exact figures only in mouths and the notes.
+
+> (3) Eta and reserve: narration names eta as an idea and gives the loss in proportions and on the body (a third of the draw went to heat, his reserve near half); exact figures only in mouths and the notes.
+
+### R81-4-EXPLAIN_IN_ANY_POV [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration explains the whole mechanism in every POV; an untrained POV in plainer, wondering words; dialogue still explains only what the speaker could know.
+
+> (4) Who explains: narration explains the full mechanism in every POV; an untrained POV's narration explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still explains only what the speaker could know.
+
+### R81-5-HIDDEN_CARD_REVEAL [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A held-back card fires with its effect in full body detail and its full mechanism explained at the reveal, in the same exchange; the reader is puzzled for a beat, never left there.
+
+> (5) Hidden cards: a held-back card fires and its effect is shown in full body detail; its full mechanism is explained the moment it is revealed, in the same exchange. The reader is puzzled for a beat, never left there.
+
+### R81-7-PHYSICS_NAMED_ON_PAGE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The real phenomenon and its governing law are named and explained in plain words on the page, an analogy where it helps; the exact math stays in the notes.
+
+> (7) Physics: the real phenomenon and its law are named and explained in plain words on the page, with an analogy where it helps; the exact math stays in the notes.
+
+### R81-10-SIGNATURE_SOUNDS_RECUR [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Technique and Wellspring signature sounds recur forever; the used-devices ledger retires only impact sounds and images; two techniques of one Wellspring keep their own sound words.
+
+> (10) Sounds: a technique's and a Wellspring's signature sound recur forever, so the reader learns them; the used-devices ledger retires only impact sounds and images. Two techniques of one Wellspring share its smell and texture but each keeps its own sound word.
+
+### R81-11-RELEASE_CALL [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice.
+
+> (11) Releases: calling a release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice (to hide it, or with no breath).
+
+### R81-17-WORKING_CARD_SCOPE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+All magic gets the Working Card at its first show in a scene, scaled; the always-on aura and reinforcement get it once, then live as body tells.
+
+> (17) Card scope: all magic gets the Working Card at its first show in a scene, scaled; the always-on aura and reinforcement get it once, then live as body tells (dimming, flaring, thinning) for the rest of the fight.
+
+### R81-18-CARD_MERGE_ORDER [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A working riding a blow interleaves the two cards step by step; on a kill the Kill Card extends the Blow Card.
+
+> (18) Card merge: when a working rides a blow, the cards interleave: the working's charge and draw ride the blow's set, its aura and room ride the read and contact, its mechanism and effect sit beside the tissue, its cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.
 
 ### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
 
@@ -8974,7 +9118,7 @@ Killing intent is Pressure narrowed onto one man through Dominion, felt as cold,
 
 ### R70-71-EXPLAINING_WORKING_MID_FIGHT [Style Law 2026-10-03 MY4]
 
-Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live.
+Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live. [Amended by R81-5 and R80-22: planting stays; the mechanism is still explained in full on the page at its display or reveal.]
 
 > Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
 
@@ -9134,7 +9278,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (42)
+## mass-combat (43)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -9354,7 +9498,7 @@ The combat sample bank holds both a fight passage in each culture file where Nat
 
 ### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
 
-Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+Eastern school terms free in narration; techniques called aloud in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full anatomy, anime blood, wounds shrugged off then felt, small hits add up; one POV per stretch; will counts through vow, Resonance or breakthrough. [Amended: fighters talk constantly (R80-3); flashbacks rare and marked (R80-9); thought by the card (R81-6); a release called aloud gives the full rise, silent is weaker (R81-11); clinical names welcome when explained (R81-8); misses are not summed (R80-5).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
 
@@ -9363,6 +9507,12 @@ Eastern school terms free in narration; techniques shouted in English; afterimag
 The Ledger tracks wounds, debts, renown and witnesses quietly; ignored bills follow their holder; Fronts per arc; war and tournament arcs by shape; sessions open by his first message.
 
 > Table operations and the wider world (Isaac, 2026-10-31). (1) The Ledger quietly tracks injuries and exhaustion, debts and bills, renown per audience, and who saw what; an ignored bill follows whoever holds it (kind creditors wait, cruel ones act, by the card); the number of live Fronts depends on the arc; Front signs may stay hidden from the PC until they hurt. (2) War arcs: the PC's place shifts by act (command, lone mission, council); war cost shows as names, numbers and land. Tournaments mix variety, escalation and history as the arc needs. A long arc ends in its own shape. (3) Sessions open by his first message: a beat means straight in, a cold open means a scene menu. (4) Great beings, rivals, companions and mentors are written as their nature and card call for; training organizations show through routine, rank or method as the school is, with xianxia ranks inside WOTR's institutions beside the guilds' own titles. Applied to desktop/NATALIE.md.
+
+### R81-19-BATTLE_BLOW_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The POV's own fight in a battle takes full Blow Cards; the mass is told through specific bodies and wounds; a blow too fast to see is carded from what the POV saw after.
+
+> (19) Battles: the POV's own fight in a battle gets full Blow Cards; the mass around it is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage, the wound, the position), explained.
 
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -9722,7 +9872,7 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 
 ### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
 
-Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+Eastern school terms free in narration; techniques called aloud in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full anatomy, anime blood, wounds shrugged off then felt, small hits add up; one POV per stretch; will counts through vow, Resonance or breakthrough. [Amended: fighters talk constantly (R80-3); flashbacks rare and marked (R80-9); thought by the card (R81-6); a release called aloud gives the full rise, silent is weaker (R81-11); clinical names welcome when explained (R81-8); misses are not summed (R80-5).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
 
@@ -10560,7 +10710,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (165)
+## pov (169)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -10594,7 +10744,7 @@ Only Pack Five's register-by-culture rule is struck; its dramatic irony through 
 
 ### R12-4-VOICE_ONE_POV [Pack Twelve §4]
 
-Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget.
+Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget. [Amended by R81-4: this ceiling binds the POV's own understanding and dialogue; narration still explains the full mechanism in any POV, in that POV's plainer words, so a confidently wrong read is set right on the page.]
 
 > The POV's own read. Free indirect, inside his competence. The ceiling is what this character actually knows, and a character who is out of his depth explains wrong. A wrong technical explanation delivered confidently is now the most valuable tool in the kit and replaces the misreading budget as its primary vehicle.
 
@@ -10756,7 +10906,7 @@ Show the fact that decides an exchange before it lands, in the POV's read or a s
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
-Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism and figures in notes (R77-2).
+Show a tell plainly at its first and second appearance and read it at length at the third. [Amended: R77-2's notes-only roleplay clause retired (R79-6), so the mechanism is on the page; Natalie may write the read in the PC's head and his rewrite wins (R79-1).]
 
 > Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
 
@@ -10846,7 +10996,7 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
-When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+When a fight breaks a ward, the failing layer is named and explained as it goes: a POV inside the craft in its own terms, any other POV in plainer words, and a mouth may name it too. [Amended by R81-4; R70-100 is superseded.]
 
 > By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
 
@@ -10858,7 +11008,7 @@ At a sanctioned bout the Measurewright says her reading aloud as she takes it, s
 
 ### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
 
-Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+Eastern school terms free in narration; techniques called aloud in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full anatomy, anime blood, wounds shrugged off then felt, small hits add up; one POV per stretch; will counts through vow, Resonance or breakthrough. [Amended: fighters talk constantly (R80-3); flashbacks rare and marked (R80-9); thought by the card (R81-6); a release called aloud gives the full rise, silent is weaker (R81-11); clinical names welcome when explained (R81-8); misses are not summed (R80-5).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
 
@@ -10876,13 +11026,13 @@ Natalie may write his PC (act, speak, think, explicit scenes included); his post
 
 ### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
 
-NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived. [Amended by R81-4 and R80-22: system and science words free in any POV's narration when explained; an untrained POV explains in plainer, wondering words; flashbacks narrowed by R80-9.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
 
 ### R80-9-CRAFT_REST_OF_PAGE [Directions 2026-10-24 to 2026-11-03 Writing craft]
 
-Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked.
+Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked. [Amended by R81-6: fight thought follows the card; the 'interior stays light' half is not applied.]
 
 > Craft law for the rest of the page (Isaac, 2026-10-30, writing-craft questionnaire). (1) Voices: a major NPC's voice is built culture and rank first, then want, then a verbal fingerprint; subtext follows culture (Moto and court layered, soldiers and commons blunt); lore comes through an NPC's pride, argument, signage and objects; a room of speakers takes the audible shape that room would have. (2) Feeling: emotion anime-big, said and shown; grief given full weight and room; warmth before loss as shared celebration; stories lean on rival-to-ally, mentor and student, found crew and slow-burn romance. (3) Villains: danger and entrance depend on the villain, no default; each ends by their nature and the arc; stakes mixed by arc. (4) Scenes: training as full scenes with a teacher; places through the POV's eye and body; mysteries play fair with clues planted early; time carried by a bridge paragraph; openings by the scene's weight. (5) Creatures introduced biology first. (6) Humour dry, crude, anime and gallows. (7) Table: consequences scale by weight, hooks at natural pauses, offstage actors as signs with cutaways at turns, turn proportions follow the beat. (8) Flashbacks are rare and run as their own marked set pieces; this narrows R79-4 'flashbacks run freely'. The 'interior stays light' half of the same answer is NOT applied, because it conflicts with The Weak Grade direction and the analyst/brawler fight-mind rule; Isaac to say if he meant it. Applied to desktop/NATALIE.md.
 
@@ -10891,6 +11041,30 @@ Voices built culture and rank first; emotion anime-big; villains by their nature
 A sketched character gets a full draft card first; third person by default; invented language by culture; guest players under the same rules; adult scenes carry all four spirits; chapters titled in the world's voice.
 
 > Writing craft, batches sixteen to eighteen (Isaac, 2026-10-31). (1) A new character sketched by Isaac gets a full draft card first; secrets are hidden and revealed in the way the character would; in a group scene whoever has the most to lose holds the frame. (2) Third person by default, with a deliberate shift for a letter (first), a confession (second) or a vision. (3) Invented language is kept by culture, the inventories deciding. (4) Guest players at the Discord table: the same rules as Isaac's thread; the floor is fixed and each guest's lines, veils and opt-ins apply within it. (5) Adult scenes carry all four spirits as needed: character first, plain and specific, power and dynamics, tender as well as hard. (6) Chapters titled in the world's voice and varied in length on purpose; a scene picks its POV by who is most affected and can see the right thing; planning follows the arc type; each arc sets its own tonal weather. Applied to desktop/NATALIE.md.
+
+### R81-4-EXPLAIN_IN_ANY_POV [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration explains the whole mechanism in every POV; an untrained POV in plainer, wondering words; dialogue still explains only what the speaker could know.
+
+> (4) Who explains: narration explains the full mechanism in every POV; an untrained POV's narration explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still explains only what the speaker could know.
+
+### R81-5-HIDDEN_CARD_REVEAL [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A held-back card fires with its effect in full body detail and its full mechanism explained at the reveal, in the same exchange; the reader is puzzled for a beat, never left there.
+
+> (5) Hidden cards: a held-back card fires and its effect is shown in full body detail; its full mechanism is explained the moment it is revealed, in the same exchange. The reader is puzzled for a beat, never left there.
+
+### R81-6-FIGHT_THOUGHT_BY_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Each blow's read is behavior plus a quick thought; extended reasoning follows the card (analysts think exchanges through, brawlers barely); the review checks against the card, not a count.
+
+> (6) Fight thought: the read in every blow is behavior plus a quick thought; extended reasoning follows the fighter's card, analysts thinking whole exchanges through and brawlers barely. The review pass checks thought against the card, not a count.
+
+### R81-19-BATTLE_BLOW_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The POV's own fight in a battle takes full Blow Cards; the mass is told through specific bodies and wounds; a blow too fast to see is carded from what the POV saw after.
+
+> (19) Battles: the POV's own fight in a battle gets full Blow Cards; the mass around it is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage, the wound, the position), explained.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -11552,7 +11726,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (333)
+## prose-law (341)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -11694,7 +11868,7 @@ A descent's sensory opening favours the body (feet, teeth, pack weight) over the
 
 ### R10-3-EFFECT_PHYSICAL_ONLY [Pack Ten PART THREE]
 
-A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page.
+A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page. [Amended by R81-7 and R80-22: the working's mechanism, physics and metaphysics are explained on the page; only why the Wellspring chose that particular shape may stand as law.]
 
 > Effect is physical only. What the shape looks like, what it does, what the room and the target feel. Never why the Wellspring resolved as a tiger and not a wolf — if that answer exists at all, it is workbook, one line at the foot, never on the page.
 
@@ -11998,12 +12172,6 @@ When a Trait a character already holds fires in a fight, narration names it the 
 
 > Named at first fire. Narration names the Trait the first time it fires in a scene, then shows it working. The reader holds the name the way he holds a technique's.
 
-### R71-45-RAISING_DOMAIN_DUEL [Combat Law 2026-10-04 MC19]
-
-In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat.
-
-> Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)
-
 ### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
 
 When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
@@ -12012,7 +12180,7 @@ When two Domains meet in a duel, show the seam between the two laws in the room 
 
 ### R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY [Combat Law 2026-10-04 MC22]
 
-Outside a display beat, write a working's waste light by the smith's colour scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never use the word glow.
+Outside a display beat, write a working's waste light by the smith's color scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker. [Amended: the glow ban retired by R79-6, auras glow.]
 
 > Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.
 
@@ -12078,7 +12246,7 @@ When a weapon or round is first appraised while a fight runs, a trained eye name
 
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
-When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+When a fight breaks a ward, the failing layer is named and explained as it goes: a POV inside the craft in its own terms, any other POV in plainer words, and a mouth may name it too. [Amended by R81-4; R70-100 is superseded.]
 
 > By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
 
@@ -12096,7 +12264,7 @@ The combat sample bank holds both a fight passage in each culture file where Nat
 
 ### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
 
-Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).]
+Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).] [Also: the fight-abstraction WARN retired (R80-26); clinical names welcome in narration when explained (R81-8).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
 
@@ -12108,7 +12276,7 @@ WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shon
 
 ### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
 
-Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+Eastern school terms free in narration; techniques called aloud in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full anatomy, anime blood, wounds shrugged off then felt, small hits add up; one POV per stretch; will counts through vow, Resonance or breakthrough. [Amended: fighters talk constantly (R80-3); flashbacks rare and marked (R80-9); thought by the card (R81-6); a release called aloud gives the full rise, silent is weaker (R81-11); clinical names welcome when explained (R81-8); misses are not summed (R80-5).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
 
@@ -12144,7 +12312,7 @@ Every rhythm, sentence-length and count rule retires; a revelation may take a sh
 
 ### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
 
-NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived. [Amended by R81-4 and R80-22: system and science words free in any POV's narration when explained; an untrained POV explains in plainer, wondering words; flashbacks narrowed by R80-9.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
 
@@ -12156,7 +12324,7 @@ No speech cap; the card sets speech flaws; catchphrases only from a card; pre-R7
 
 ### R79-6-FIGHTS_ON_THE_PAGE [Directions 2026-10-17 prose-rp-questionnaire]
 
-RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.]
+RP fights show full mechanism; blows as body, path, target, result and cost; no readouts in fights; auras glow; plain anime wounds; narration may explain, no voice cap; only fairness counts bind; battle formulas optional; figures in mouths; names in English (R80-3); world magic as law; jargon free. [Amended by R80-5, R80-22 and R80-25: every blow on the full Blow Card, misses included; every working on the full Working Card instead of one causal line.] [Amended by R81-4: narration explains in any POV, not only the trained one; R81-8: clinical names welcome in narration when explained.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): fights and workings on the page. A roleplay fight shows the full mechanism on the page, like a written set piece. Every blow is body, path, target, result and what it cost; what a fighter read and the opening he found are shown as behaviour. No readout inside a fight; readouts only at a breakthrough, a re-assay or an arc's end. Auras glow and afterimages may be light. Wounds are written plain and anime on the page, full gore and geysers, shrugged off then felt; clinical names and haemorrhage class live in the notes and a medic's mouth. A working's first display carries one clear causal line, in a mouth or in narration; the full three-strata account lives on the card and in the notes. Narration may explain what the trained POV understands, and any voice that has earned it may explain; the two-voice cap and the one-read cap retire. Only fairness binds as a count: every fight Natalie stages has a findable way out, and a death gets a sign and an exit first; every other per-fight count is guidance and the display-beat caps retire. The battle formulas retire as rules: the lead keeps POV in battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools. In a fight, figures live in mouths, never narration. A technique or release is called in English or the speaker's own tongue, as the character would. The world's own magic is stated as law with its reasons kept. Fight jargon is free and never required. Exchanges where nothing lands may be summed in a sentence; every hit that lands gets its own clause and they add up.
 
@@ -12231,6 +12399,60 @@ No certain type of vocabulary: every word chosen fresh for the thing in front of
 Narration may explain and gloss as much as the moment needs, every invented, system or technical term explained on first use; the gloss, modern-word, fight-abstraction and European-jargon watches retire from verify_scene.
 
 > Agent ruling (Natalie), grounds: Isaac 2026-11-03, "the more explaination the more you explain how specific thing works through metaphysics and even physics the better someone can understand it", recorded as R80-22 and R80-25. R4-13-ZERO_BUDGET ("the gloss budget is zero per scene") is superseded: narration may explain and gloss as much as the moment needs, every invented, system or technical term explained on its first use. verify_scene's gloss watch, modern-word watch, fight-abstraction watch and European-jargon watch retire with R4-13, R49-44, R78-3's term ban and R77-1. Isaac may overturn.
+
+### R81-1-FAST_TRADES_FULL_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Quick trades keep every Blow Card part and compress the wording into long cumulative sentences; no part is dropped for pace.
+
+> (1) Fast trades: every Blow Card part stays in every blow; quick trades compress the wording into long cumulative sentences instead of dropping parts.
+
+### R81-2-WORKING_CARD_ON_REPEAT [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A working takes the full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs.
+
+> (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time.
+
+### R81-4-EXPLAIN_IN_ANY_POV [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration explains the whole mechanism in every POV; an untrained POV in plainer, wondering words; dialogue still explains only what the speaker could know.
+
+> (4) Who explains: narration explains the full mechanism in every POV; an untrained POV's narration explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still explains only what the speaker could know.
+
+### R81-6-FIGHT_THOUGHT_BY_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Each blow's read is behavior plus a quick thought; extended reasoning follows the card (analysts think exchanges through, brawlers barely); the review checks against the card, not a count.
+
+> (6) Fight thought: the read in every blow is behavior plus a quick thought; extended reasoning follows the fighter's card, analysts thinking whole exchanges through and brawlers barely. The review pass checks thought against the card, not a count.
+
+### R81-7-PHYSICS_NAMED_ON_PAGE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The real phenomenon and its governing law are named and explained in plain words on the page, an analogy where it helps; the exact math stays in the notes.
+
+> (7) Physics: the real phenomenon and its law are named and explained in plain words on the page, with an analogy where it helps; the exact math stays in the notes.
+
+### R81-8-CLINICAL_NAMES_IN_NARRATION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Clinical names are welcome in narration when explained beside the plain body; hemorrhage class stays in the notes and medics' mouths.
+
+> (8) Wound words: clinical names are welcome in narration when explained beside the plain body; hemorrhage class stays in the notes and medics' mouths.
+
+### R81-9-STOCK_PHRASES_ONLY [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Only exact stock phrases are banned; single words are free; canon Wellspring signatures are exempt; verify_scene matches.
+
+> (9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring signatures are exempt; verify_scene changes to match.
+
+### R81-10-SIGNATURE_SOUNDS_RECUR [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Technique and Wellspring signature sounds recur forever; the used-devices ledger retires only impact sounds and images; two techniques of one Wellspring keep their own sound words.
+
+> (10) Sounds: a technique's and a Wellspring's signature sound recur forever, so the reader learns them; the used-devices ledger retires only impact sounds and images. Two techniques of one Wellspring share its smell and texture but each keeps its own sound word.
+
+### R81-18-CARD_MERGE_ORDER [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+A working riding a blow interleaves the two cards step by step; on a kill the Kill Card extends the Blow Card.
+
+> (18) Card merge: when a working rides a blow, the cards interleave: the working's charge and draw ride the blow's set, its aura and room ride the read and contact, its mechanism and effect sit beside the tissue, its cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -13104,13 +13326,13 @@ A readout may mark a Level gained with the stat points it brought, a Stage break
 
 ### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
 
-Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure. [Amended: never inside a fight (R79-6); there the reserve shows as proportion and body in narration, figures only in mouths (R81-3).]
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
 
 ### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
 
-When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
+When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together. [Amended by R81-3: in a fight the figure lives in a mouth or the notes; narration gives the proportion and the body.]
 
 > Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.
 
@@ -13272,7 +13494,7 @@ How modern a character's speech runs is set on their card; the default is casual
 
 ### R51-10-SLOP_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know... [Amended by R81-9: single words are free (tapestry, testament, palpable, visceral, orbs, ministrations); the exact stock phrases stand (a symphony of, a dance of, a shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, an electric touch, a velvet voice); 'whisper of' and 'the smell of ozone' are exempt as canon Wellspring signatures.]
 
 > A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
 
@@ -13552,7 +13774,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (182)
+## register (183)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -13784,13 +14006,13 @@ Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's shape/natu
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
-The Technical Register governs chosen actions with exhaustive tactical explanation; only combat roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page (R77-2). Written scenes and books keep the full floor.
+The Technical Register governs chosen actions with exhaustive tactical explanation, on the page in roleplay and written scenes alike. [Amended: R77-2's notes-only roleplay clause retired with R77-2 (R79-6); the Blow Card and Working Card carry it (R80-5, R81-1, R81-2).]
 
 > The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight. It explains the read, the fault, the counter, the reserve, and the reason the answer worked. It uses real vocabulary and does not flinch from detail.
 
 ### R12-2-MYSTIC_REGISTER_DEF [Pack Twelve §2]
 
-The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification.
+The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification. [Amended by R81-7: narration may name and explain the real physics beside the law; prices and taboos are still stated as law.]
 
 > The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching. It is Lord of the Mysteries. It is stated as law, never as physics: rules given in the imperative, prices given as prices, taboos given without justification.
 
@@ -13946,7 +14168,7 @@ Put three habits on the alchemists' trade menu (reading mouths, hands, sclera an
 
 ### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
 
-Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).]
+Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).] [Also: the fight-abstraction WARN retired (R80-26); clinical names welcome in narration when explained (R81-8).]
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
 
@@ -14015,6 +14237,12 @@ No certain type of vocabulary: every word chosen fresh for the thing in front of
 Supersedes R77-1 and R70-100; full Blow Card and Working Card replace R79-6's one causal line and summed misses and R78-3's term ban; technique entries and cards explained in full; stale word counts and the cross-read annotated; the 2026-10-24 to 2026-11-03 directions indexed.
 
 > Agent ruling (Natalie), applying Isaac's 2026-11-03 directions to the index. Grounds: Isaac, 2026-11-03, "update the guides for writing abilities techniques hell even characters and making scenes combat scenes better based on these ideas the more descriptive the more explaination the better", and "commit and fix any of the rule issues" (canon hierarchy rung 1, newest wins). (1) R77-1-EUROPEAN_FENCING_ACTIONS and R70-100-MARTIAL_VOCABULARY_NAMES_MOVES are superseded: jargon of every kind is welcome when explained, beside the body. (2) R79-6's 'one causal line at first display' and 'misses summed' and R78-3's ban on the line, measure, tempo, vector, geometry and the read give way to the Working Card and the full Blow Card; the rest of R79-6 and R78-3 stands, the no-readout rule included. (3) The depth standard covers technique entries and character cards too: the 2026-10-31 ability-pipeline clause 'plain everyday words, its physics in the notes page' and the 2026-10-31 clause 'the page says an invented word and the wiki defines it' give way to full explanation on the page, every term explained on first use. (4) R79-1's and R79-8's 3,500-word targets were already reversed by Isaac on 2026-10-30, and R79-8's cross-read by the 2026-10-31 no-ChatGPT direction; their index rows are annotated so load_rules stops serving them. (5) The craft directions from 2026-10-24 to 2026-11-03, recorded in RULINGS.md but never indexed, are indexed as R80-1 onward in rules/doc-directions-2026-11-03.yaml. Isaac may overturn any of this.
+
+### R81-9-STOCK_PHRASES_ONLY [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Only exact stock phrases are banned; single words are free; canon Wellspring signatures are exempt; verify_scene matches.
+
+> (9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring signatures are exempt; verify_scene changes to match.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -14456,7 +14684,7 @@ How modern a character's speech runs is set on their card; the default is casual
 
 ### R51-10-SLOP_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know... [Amended by R81-9: single words are free (tapestry, testament, palpable, visceral, orbs, ministrations); the exact stock phrases stand (a symphony of, a dance of, a shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, an electric touch, a velvet voice); 'whisper of' and 'the smell of ozone' are exempt as canon Wellspring signatures.]
 
 > A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
 
@@ -14646,7 +14874,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (134)
+## scene-structure (135)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -14740,7 +14968,7 @@ Per the Mass Combat Craft Guide §7: the wounded left where they fell, the strip
 
 ### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
 
-Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
+Every blow carries the full Blow Card (R80-5, R81-1); a working takes the full Working Card at its first display, at the finisher and whenever something changes, and an ordinary repeat its charge, effect, cost and what differs (R81-2); each grammar pays its way. [Amended: the first-display-and-finisher floor widened by R81-1 and R81-2; R77-2's roleplay clause retired (R79-6).]
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
 
@@ -14770,7 +14998,7 @@ An art's release call may be spoken as often as the fighter can afford the beat 
 
 ### R71-30-HELD_BACK_REVEAL [Combat Law 2026-10-04 MC4]
 
-A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign.
+A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign. [Amended by R81-5: when the held card fires its effect is shown in full body detail, and its full mechanism is explained at the reveal, in the same exchange.]
 
 > Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.
 
@@ -14896,7 +15124,7 @@ Every rhythm, sentence-length and count rule retires; a revelation may take a sh
 
 ### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
 
-NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived. [Amended by R81-4 and R80-22: system and science words free in any POV's narration when explained; an untrained POV explains in plainer, wondering words; flashbacks narrowed by R80-9.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
 
@@ -14920,7 +15148,7 @@ Fighters talk constantly; techniques called in English; big fights climb probe, 
 
 ### R80-9-CRAFT_REST_OF_PAGE [Directions 2026-10-24 to 2026-11-03 Writing craft]
 
-Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked.
+Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked. [Amended by R81-6: fight thought follows the card; the 'interior stays light' half is not applied.]
 
 > Craft law for the rest of the page (Isaac, 2026-10-30, writing-craft questionnaire). (1) Voices: a major NPC's voice is built culture and rank first, then want, then a verbal fingerprint; subtext follows culture (Moto and court layered, soldiers and commons blunt); lore comes through an NPC's pride, argument, signage and objects; a room of speakers takes the audible shape that room would have. (2) Feeling: emotion anime-big, said and shown; grief given full weight and room; warmth before loss as shared celebration; stories lean on rival-to-ally, mentor and student, found crew and slow-burn romance. (3) Villains: danger and entrance depend on the villain, no default; each ends by their nature and the arc; stakes mixed by arc. (4) Scenes: training as full scenes with a teacher; places through the POV's eye and body; mysteries play fair with clues planted early; time carried by a bridge paragraph; openings by the scene's weight. (5) Creatures introduced biology first. (6) Humour dry, crude, anime and gallows. (7) Table: consequences scale by weight, hooks at natural pauses, offstage actors as signs with cutaways at turns, turn proportions follow the beat. (8) Flashbacks are rare and run as their own marked set pieces; this narrows R79-4 'flashbacks run freely'. The 'interior stays light' half of the same answer is NOT applied, because it conflicts with The Weak Grade direction and the analyst/brawler fight-mind rule; Isaac to say if he meant it. Applied to desktop/NATALIE.md.
 
@@ -14953,6 +15181,12 @@ Atrocity's camera set by the arc; mind magic mechanism, violation and law at onc
 Wiki pages in the in-world scholar's voice with no designed art by default; audio not a priority; Isaac organizes Discord threads; intimate scenes paced by purpose with refusal and hinge on the card.
 
 > The wiki, audio, Discord threads and intimate scenes (Isaac, 2026-10-31). (1) Wiki reference pages are written in the in-world scholar's voice (a Guild archivist or Measurewright with epigraphs, asides and dry warnings). Art goes where Isaac provides it; pages carry no designed art by default (the build-time plates already in place stay), which reverses the 2026-10-15 'design every page' direction. (2) Audio narration is not a priority; text only. (3) Isaac organizes the Discord threads and Natalie writes the posts. (4) Intimate scenes, within the Intimacy Law: pacing follows the scene's purpose; a partner's refusal line and hinge are carried by the card, shown in word and body, and written as dubcon with its consequence where word and body disagree; the aftermath is a mix of consequence, tenderness and a hook; the POV is whoever the scene needs. Applied to desktop/NATALIE.md.
+
+### R81-13-PC_CHOICE_ON_CONTINUE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+When a continue reaches a real PC decision, Natalie carries him through it by card and oath, flags it in the notes, and his rewrite overturns.
+
+> (13) PC choices: when a 'continue' runs into one of his PC's real decisions, Natalie carries him through it by his card and oath, says so in the author notes, and he overturns by rewrite.
 
 ### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
 
@@ -15286,7 +15520,7 @@ Set verse apart as a quoted block when a character sings, recites or writes it o
 
 ### R70-71-EXPLAINING_WORKING_MID_FIGHT [Style Law 2026-10-03 MY4]
 
-Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live.
+Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live. [Amended by R81-5 and R80-22: planting stays; the mechanism is still explained in full on the page at its display or reveal.]
 
 > Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
 
@@ -15452,7 +15686,7 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 
 > Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
 
-## session-protocol (102)
+## session-protocol (105)
 
 ### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
 
@@ -15570,7 +15804,7 @@ Nightly slimmed; book timer off, quotas stripped; idle services stopped, read-on
 
 ### R80-9-CRAFT_REST_OF_PAGE [Directions 2026-10-24 to 2026-11-03 Writing craft]
 
-Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked.
+Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked. [Amended by R81-6: fight thought follows the card; the 'interior stays light' half is not applied.]
 
 > Craft law for the rest of the page (Isaac, 2026-10-30, writing-craft questionnaire). (1) Voices: a major NPC's voice is built culture and rank first, then want, then a verbal fingerprint; subtext follows culture (Moto and court layered, soldiers and commons blunt); lore comes through an NPC's pride, argument, signage and objects; a room of speakers takes the audible shape that room would have. (2) Feeling: emotion anime-big, said and shown; grief given full weight and room; warmth before loss as shared celebration; stories lean on rival-to-ally, mentor and student, found crew and slow-burn romance. (3) Villains: danger and entrance depend on the villain, no default; each ends by their nature and the arc; stakes mixed by arc. (4) Scenes: training as full scenes with a teacher; places through the POV's eye and body; mysteries play fair with clues planted early; time carried by a bridge paragraph; openings by the scene's weight. (5) Creatures introduced biology first. (6) Humour dry, crude, anime and gallows. (7) Table: consequences scale by weight, hooks at natural pauses, offstage actors as signs with cutaways at turns, turn proportions follow the beat. (8) Flashbacks are rare and run as their own marked set pieces; this narrows R79-4 'flashbacks run freely'. The 'interior stays light' half of the same answer is NOT applied, because it conflicts with The Weak Grade direction and the analyst/brawler fight-mind rule; Isaac to say if he meant it. Applied to desktop/NATALIE.md.
 
@@ -15621,6 +15855,24 @@ Wiki pages in the in-world scholar's voice with no designed art by default; audi
 Four pipelines as skills; Natalie grades her own drafts; Isaac curates exemplar banks; espionage, trials and economic plots by each tradition; the Four Quarters stay distinct.
 
 > Tooling, intelligence, law and the Quarters (Isaac, 2026-10-31). (1) Four pipelines are one-word commands, built as skills: /fight, /ability, /character, /improve. (2) Natalie grades her own draft silently and fixes it; the exemplar banks are curated by Isaac (Natalie nominates, he chooses); chat is adapted to the job (prose alone, systems work a summary, questions plain answers). (3) Espionage runs each faction's own way (files, people, workings); trials take the shape of their legal tradition (Moto hearing, Dawi tally, Kharven bargain); economic plots are told as people, numbers and an event; the Four Quarters stay distinct by palette, POV lens and culture inventory together. Applied to desktop/NATALIE.md and the four new skills under .claude/skills/.
+
+### R81-13-PC_CHOICE_ON_CONTINUE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+When a continue reaches a real PC decision, Natalie carries him through it by card and oath, flags it in the notes, and his rewrite overturns.
+
+> (13) PC choices: when a 'continue' runs into one of his PC's real decisions, Natalie carries him through it by his card and oath, says so in the author notes, and he overturns by rewrite.
+
+### R81-14-PC_HISTORY_FREE [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Natalie may invent what the scene needs of the PC's past, flagged in the notes; canon on use unless he strikes it.
+
+> (14) PC history: Natalie may invent what the scene needs of his PC's past, freely, flagged in the notes; it is canon on use and stands unless he strikes it.
+
+### R81-15-PC_WOUNDS_ON_CARD [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Wounds and their lasting effects go onto the PC's card at scene end; he strikes or changes them; Level, Stage and techniques stay his.
+
+> (15) PC wounds: wounds and their lasting effects go onto his card at scene end; he strikes or changes them. Level, Stage and techniques stay his.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -16578,7 +16830,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (197)
+## stats (199)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -17084,6 +17336,18 @@ Sources by field; formulas recomputed, outliers stand; estimates plain and canon
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): numbers and systems. Sources are read by field: Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent; Natalie resolves by that order and moves on. Formulas that must always compute (1 EU = 1 MJ; AU/s = Flux times eta) are recomputed; bands and ladders are typical ranges and a card's outlier stands. A missing figure is derived from the Fracture of Worlds tables, written plainly with no mark, canon on use, and a source value beats it on contact; no pending fields. A fight Draft refills reserve and the crash pays for it. The two-Grade stacking cap counts every self-boost (vows, releases, Drafts, strain lifts) against the Grade on the card; only outside help (allies, arrays, Domains) sits outside it; items work at their own Tier. The Grade of the stat in use decides a contest; the Stage gap governs Pressure and the upset limit; ties break on the read, then what is left to spend, then the ground. The stats decide out of sight: no deciding-row citations, no Stat Ledger; archive notes name a row only for a contested or turning outcome; the gap-fill pass runs only for set pieces and his submitted fights, unlogged. Money that changes hands is named; an item's Tier and price appear once, when the POV would see them; a Draft needs only a plausible source. One item ladder decides out of sight: a proofed round strikes one Tier over the target armour and a named round two, makers graded by Tier of Standing. In a fight a faculty read is an estimate in thought or speech; exact figures print only outside a fight. Cards keep EU as the source of truth with a line for how long a working lasts from full; the page uses duration and body tells. The running-low thresholds are world law; their wording is free.
 
+### R81-3-ETA_AS_PROPORTION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Narration names eta as an idea and gives loss and reserve as proportions and body tells; exact figures only in mouths and the notes.
+
+> (3) Eta and reserve: narration names eta as an idea and gives the loss in proportions and on the body (a third of the draw went to heat, his reserve near half); exact figures only in mouths and the notes.
+
+### R81-12-OWN_DOMAIN_IN_CAP [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+The user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it; a Third Release fills the cap alone.
+
+> (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -17575,13 +17839,13 @@ A readout may mark a Level gained with the stat points it brought, a Stage break
 
 ### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
 
-Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure. [Amended: never inside a fight (R79-6); there the reserve shows as proportion and body in narration, figures only in mouths (R81-3).]
 
 > Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
 
 ### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
 
-When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
+When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together. [Amended by R81-3: in a fight the figure lives in a mouth or the notes; narration gives the proportion and the body.]
 
 > Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.
 
@@ -17765,7 +18029,7 @@ Every card carries a line naming its bearer's next Stage, that Stage's Fracture 
 
 > Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
 
-## verification (96)
+## verification (97)
 
 ### R20C-55-COST_AUDIT_ON_CONTACT [Pack Twenty R20C-55]
 
@@ -17913,7 +18177,7 @@ Table Rule 5's contested-action decisions must be reconstructible from the page;
 
 ### R13-9-VERIFY_CHECKS_22_26 [Pack Thirteen §9]
 
-Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN), causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures in notes under R77-2, while written scenes keep the full floor.
+Combat checks cover anatomy (23, WARN), causal connection, stated fault and reserve accounting (24 to 26). [Amended: check 22's European-jargon WARN retired with R77-1 (R80-26); R77-2's notes-only roleplay clause retired (R79-6).]
 
 > wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
 
@@ -18162,6 +18426,12 @@ Supersedes R77-1 and R70-100; full Blow Card and Working Card replace R79-6's on
 Narration may explain and gloss as much as the moment needs, every invented, system or technical term explained on first use; the gloss, modern-word, fight-abstraction and European-jargon watches retire from verify_scene.
 
 > Agent ruling (Natalie), grounds: Isaac 2026-11-03, "the more explaination the more you explain how specific thing works through metaphysics and even physics the better someone can understand it", recorded as R80-22 and R80-25. R4-13-ZERO_BUDGET ("the gloss budget is zero per scene") is superseded: narration may explain and gloss as much as the moment needs, every invented, system or technical term explained on its first use. verify_scene's gloss watch, modern-word watch, fight-abstraction watch and European-jargon watch retire with R4-13, R49-44, R78-3's term ban and R77-1. Isaac may overturn.
+
+### R81-9-STOCK_PHRASES_ONLY [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+
+Only exact stock phrases are banned; single words are free; canon Wellspring signatures are exempt; verify_scene matches.
+
+> (9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring signatures are exempt; verify_scene changes to match.
 
 ### R58-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -18449,7 +18719,7 @@ The Aether stratum is what was already in the room before a draw: Aetheric Densi
 
 ### R12-2-MYSTIC_REGISTER_DEF [Pack Twelve §2]
 
-The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification.
+The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching; it is stated as law, never as physics — imperative rules, prices given as prices, taboos given without justification. [Amended by R81-7: narration may name and explain the real physics beside the law; prices and taboos are still stated as law.]
 
 > The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching. It is Lord of the Mysteries. It is stated as law, never as physics: rules given in the imperative, prices given as prices, taboos given without justification.
 
@@ -19391,7 +19661,7 @@ Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides conte
 
 ### R79-4-INTERIOR_MEANING_WORLD [Directions 2026-10-17 prose-rp-questionnaire]
 
-NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived.
+NPC thoughts free; emotion anime-big by default; no ten-percent iceberg; the POV may draw meaning; narration in the POV's own reach; science words for trained POVs; first-sight inventory woven; his tense and person kept; hook and concrete endings; marked-break cutaways; POV culture leads mixed rooms; invention canon once archived. [Amended by R81-4 and R80-22: system and science words free in any POV's narration when explained; an untrained POV explains in plainer, wondering words; flashbacks narrowed by R80-9.]
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): interiority, meaning and the world on the page. NPCs may have italic thoughts freely, with no count, in any mode. Emotion plays anime-big by default, felt and thought through; the held-image technique is an occasional device and the once-per-arc break count goes. The iceberg's ten percent is dropped; no as-you-know stays, and explanation and long reasoning are fine when earned and when they change the stakes. The POV may interpret, remember and draw meaning in narration; only a narrator's moral appended after an image stays banned. Narration sounds like the POV's own reach, close by default, with the culture as flavour; per-character distances and the narration-register gate on new POVs retire. System and science words are free in a trained POV's narration; a commoner's narration keeps his own words. A major figure gets the full physical inventory at first sight, woven through the scene as the POV's attention moves. An improvement of his post keeps the tense and person he wrote in unless he asks for a conversion. Chapters and arcs close on a hook; scenes on any concrete close, a pressing question included; turns stop at his next real decision. A cutaway sits at a marked break, shows the act and keeps the reason; in a mystery, no face or name. A mixed room is led by the POV's culture and the others show through their people. Natalie invents texture, places, words and minor people freely when nothing on file covers them; it stands as canon once in an archived scene, and he may strike it. A culture with no Standing Inventory is written from the wiki and cards straight away.
 

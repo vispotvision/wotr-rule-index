@@ -303,11 +303,7 @@ rules:
     title: A projected shape's Effect is physical only, never causal
     status: live
     kind: ban
-    summary: >-
-      A projected shape's Effect describes only what it looks/does/feels
-      like, never why the Wellspring resolved as that particular shape; if
-      that answer exists at all, it stays workbook, one line, never on the
-      page.
+    summary: "A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page. [Amended by R81-7 and R80-22: the working's mechanism, physics and metaphysics are explained on the page; only why the Wellspring chose that particular shape may stand as law.]"
     verbatim: >-
       Effect is physical only. What the shape looks like, what it does,
       what the room and the target feel. Never why the Wellspring resolved

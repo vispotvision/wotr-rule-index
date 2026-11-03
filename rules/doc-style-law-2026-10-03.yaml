@@ -2341,9 +2341,7 @@ rules:
   title: Plant a working's rules before the fight
   status: live
   kind: mandate
-  summary: Plant a working's rules earlier through training, a document or talk, so a fight's explaining
-    is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still
-    read live.
+  summary: "Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live. [Amended by R81-5 and R80-22: planting stays; the mechanism is still explained in full on the page at its display or reveal.]"
   verbatim: Rules shown beforehand. A working's rules are planted earlier (training, a document, talk),
     so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived
     techniques are still read live (R12-3).
@@ -2840,8 +2838,7 @@ rules:
   title: 'In-scene readouts: appraisal, wound, Essence spent'
   status: live
   kind: mandate
-  summary: Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's
-    diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+  summary: "Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure. [Amended: never inside a fight (R79-6); there the reserve shows as proportion and body in narration, figures only in mouths (R81-3).]"
   verbatim: 'Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil
     at the counter, a faculty. The genre''s appraisal in WOTR''s hands); A wound (A diagnostic line in
     a surgeon''s terms: the structure struck, the ATLS class, the minutes left. Brida''s ''third bowl''
@@ -2978,8 +2975,7 @@ rules:
   title: The body first, the number a line after
   status: live
   kind: mandate
-  summary: When a cost or a gain lands, the body shows it first and the readout follows a line later in
-    the same beat, both on the page together.
+  summary: "When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together. [Amended by R81-3: in a fight the figure lives in a mouth or the notes; narration gives the proportion and the body.]"
   verbatim: Body, then number. The body first and the readout in the same beat, a line after. Both on
     the page together, with the body always ahead.
   amends:

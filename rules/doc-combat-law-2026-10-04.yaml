@@ -136,9 +136,7 @@ rules:
   title: The combat floor rescaled and paid by grammar
   status: live
   kind: budget
-  summary: Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding
-    exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures
-    in notes and shows tells and body cost (R77-2).
+  summary: "Every blow carries the full Blow Card (R80-5, R81-1); a working takes the full Working Card at its first display, at the finisher and whenever something changes, and an ordinary repeat its charge, effect, cost and what differs (R81-2); each grammar pays its way. [Amended: the first-display-and-finisher floor widened by R81-1 and R81-2; R77-2's roleplay clause retired (R79-6).]"
   verbatim: 'Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict
     states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure
     carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is
@@ -876,9 +874,7 @@ rules:
   title: A tell shown twice, read at the third
   status: live
   kind: procedure
-  summary: Show a tell plainly at its first and second appearance and read it at length at the third, and
-    when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism
-    and figures in notes (R77-2).
+  summary: "Show a tell plainly at its first and second appearance and read it at length at the third. [Amended: R77-2's notes-only roleplay clause retired (R79-6), so the mechanism is on the page; Natalie may write the read in the PC's head and his rewrite wins (R79-1).]"
   verbatim: Shown twice, then read. The tell is shown plainly at its first and second appearance and read
     at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your
     PC, the reading is yours.
@@ -1131,9 +1127,7 @@ rules:
   title: 'A held reveal: the rule acts unexplained first and is told at the reveal'
   status: live
   kind: mandate
-  summary: A working's rule may act on the page before the fight without explanation, as evidence a reader
-    could catch, and be told by a voice only at the reveal, with the author notes listing each planted
-    sign.
+  summary: "A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign. [Amended by R81-5: when the held card fires its effect is shown in full body detail, and its full mechanism is explained at the reveal, in the same exchange.]"
   verbatim: 'Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier,
     unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list
     each planted sign.'
@@ -1672,11 +1666,9 @@ rules:
   pack_number: null
   section: MC19
   title: A Domain rises by attention, and from Stage XI is held in and let go
-  status: live
+  status: superseded
   kind: definition
-  summary: In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a
-    cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds
-    it in and the holder lets it go in a beat.
+  summary: "In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. [Superseded 2026-11-03 under R80-3 (6) and R78-6: a Domain is called aloud and forms as it is named.]"
   verbatim: 'Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where
     canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule
     it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates
@@ -1790,9 +1782,7 @@ rules:
   title: Waste light is incandescent, by the smith's colour scale
   status: live
   kind: mandate
-  summary: Outside a display beat, write a working's waste light by the smith's colour scale (dull red,
-    orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never
-    use the word glow.
+  summary: "Outside a display beat, write a working's waste light by the smith's color scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker. [Amended: the glow ban retired by R79-6, auras glow.]"
   verbatim: Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to
     orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow
     stays banned.
@@ -3485,9 +3475,7 @@ rules:
   title: A breaking ward is named by layer only from inside the craft
   status: live
   kind: mandate
-  summary: When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while
-    any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's
-    school words are.
+  summary: "When a fight breaks a ward, the failing layer is named and explained as it goes: a POV inside the craft in its own terms, any other POV in plainer words, and a mouth may name it too. [Amended by R81-4; R70-100 is superseded.]"
   verbatim: By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only
     what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
   amends:

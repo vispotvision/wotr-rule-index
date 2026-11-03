@@ -303,9 +303,7 @@ rules:
     title: The combat technical floor, eight required elements
     status: live
     kind: mandate
-    summary: A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural
-      injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay
-      shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
+    summary: "A meaningful exchange carries measure, tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit, written as the Blow Card and Working Card in roleplay and written scenes alike. [Amended: R77-1 and R77-2 retired; R79-6, R80-5, R81-1, R81-2.]"
     verbatim: >-
       Every meaningful exchange (a hit that lands, a first display, a
       counter, a change of measure that decides something) puts the
@@ -934,9 +932,7 @@ rules:
     title: "--combat verification adds checks 22-26"
     status: live
     kind: consequential_edit
-    summary: Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN),
-      causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures
-      in notes under R77-2, while written scenes keep the full floor.
+    summary: "Combat checks cover anatomy (23, WARN), causal connection, stated fault and reserve accounting (24 to 26). [Amended: check 22's European-jargon WARN retired with R77-1 (R80-26); R77-2's notes-only roleplay clause retired (R79-6).]"
     verbatim: >-
       wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density,
       anatomical density, causal-connective density in fight passages, a

@@ -3475,3 +3475,9 @@ Context: Isaac: "now lets upgrade Naiser's character card he's level 395". Agent
 Combat and magic on the page are explained in depth: every blow by its full body mechanics, every working by its charge, color, atmospheric change, sound, smell, pressure and bodily feel, and its mechanism traced step by step through both real physics and WOTR metaphysics (Essence, Soul Crystal, Shell, eta and waste heat, Wellspring, Family, harmonization). More explanation is better. Jargon of every kind (physics, anatomy, martial, system terms) is welcome and used freely as long as it is descriptive and explained; it is never avoided as a bad thing.
 
 Context: Isaac, 2026-11-03, after the Muken vs Aksel Keld ice fight read thin on body mechanics and magic explanation. Supersedes any reading of R79-6/R78-3/R77-1 that thins narrated mechanism or bans jargon; the no-readout rule still keeps raw stat figures out of narration.
+
+## 2026-11-03 — new
+
+Every moment of a fight or working is detailed with vivid, kinetic, mystical language and the world visibly reacting: the air cracks and ripples, light bends, pressure shears frost off stone, the ground spiderwebs and groans, shockwaves roll out, heat-haze warps the distance. Elevated, archaic and verbose words are welcome wherever they make the moment larger and clearer. This sits on top of the 2026-11-03 depth ruling: explain fully and describe lavishly.
+
+Context: Isaac, 2026-11-03, on the Hibi rewrite: it lacked 'the air cracked, rippling' type atmospheric description and mystical verbose vocabulary.

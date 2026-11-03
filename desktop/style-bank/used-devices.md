@@ -47,3 +47,13 @@ Images, beats and sounds already spent in drafted fights. A new fight does not r
 - Signature image: a death that never finished, heard as a dead note in a man's neck and run by the hero's ring through crossed blades; the nape opening in one straight line and bleeding like an ordinary man's; a host's web of threads going still at a question; tea poured high in a long amber thread.
 - Spent: a villain who strikes at the hero's sword to break it first; the guard's own sword taken off her and turned on the king she guards; a crater stamped under a man who becomes a wall; a shieldwoman driven on set heels into a fallen trunk with her mantle burning; a second, living note under the dead one; "you're mine now, and I'm yours."
 - Sounds: bogeul-bogeul, kkaak, jol-jol, huljjeok (Korean, Hiromi); BWOOOOOOM, GWAAANG, grrrnk (English, Muken).
+
+### The Bridge and the Spear (2026-11-02)
+- Signature image: a Domain drawn back into its maker like a bubble of red glass into the blowpipe, the heat leaving the air in ribbons and frost following it in; a point so condensed the Eye finds no crack in it; a fox spirit wrapping a boy in nine tails like nine winter blankets.
+- Spent: a Founding shown as boundary, core and charter in order; a construct whose chaos is its template (the elders' story); the color a man refuses to wear given to the guardian he makes; a threat entered by smoke that bends once and straightens; a king sending everyone away so they cannot be taken in front of him; a vow paid in the eye as a tear of blood; "Don't you dare die in a wood."
+- Sounds: seuruk, kung (Cozbi, signature), ttak-ttak, pparuk, deureureuk, pudeudeuk (Korean, Cozbi); thudthudthud, hwooooom, iiiiiii (English, Muken).
+
+### Enma's Register (2026-11-02)
+- Signature image: a hell that is one morning kept open (the Hall of Verdicts on the day of the sentence), read by the Eye as every line ringing dead; bone crazed by heat and quench, heard ticking like ice in a first frost before it breaks; one living hairline on the executioner's block.
+- Spent: a Domain opening like a book from a spine with the old world drawn off like a painted scene; a floor that refuses the load and so kills a wall-technique; a victim's kill-count read off his chest one entry at a time with a price per entry; "There. See? Didn't crack." spat after a rib-shot; the torturer waiting at the eye for the rage to boil; a sword-point held a finger's width from the eye that matches the torturer's own lost one.
+- Sounds: iiiiiii, ooooommm (ENMA-CHŌ, signature), pakk, krk, pt, tsss, JIIIIIII, tik-tik-tikitik, BRAKK, shlk, pchk, pip, jjt.

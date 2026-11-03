@@ -3481,3 +3481,9 @@ Context: Isaac, 2026-11-03, after the Muken vs Aksel Keld ice fight read thin on
 Every moment of a fight or working is detailed with vivid, kinetic, mystical language and the world visibly reacting: the air cracks and ripples, light bends, pressure shears frost off stone, the ground spiderwebs and groans, shockwaves roll out, heat-haze warps the distance. Elevated, archaic and verbose words are welcome wherever they make the moment larger and clearer. This sits on top of the 2026-11-03 depth ruling: explain fully and describe lavishly.
 
 Context: Isaac, 2026-11-03, on the Hibi rewrite: it lacked 'the air cracked, rippling' type atmospheric description and mystical verbose vocabulary.
+
+## 2026-11-03 — new
+
+No house vocabulary (Isaac, 2026-11-03). WOTR does not follow a certain type of vocabulary. Writing is unique for every little thing: each word is chosen fresh for the thing in front of it, plain or technical, archaic or modern, mystical or crude, whatever makes that moment exact, vivid and clear. No register, word bank, word family or dial is imposed on narration, and none is required or banned for being plain, elevated, Latinate, anime or modern. This retires R78-1 (vocabulary pushed high), R78-11 (words from the thing, with its elevated-verb and plain-body-part rules), R70-27 (the per-culture antique narration dial) and R70-37 (modern words only in speech and thought), and the 'action words an anime reader knows' and 'elevated verbs on the hit' lists in NATALIE.md. Characters' speech still follows their card and culture, and the exact cliché stock phrases stay banned because they are the opposite of unique.
+
+Context: Isaac, 2026-11-03: "I also hate this idea that WOTR has to follow a certain type of vocabulary let writing be unique for every little thing", with "commit and fix any of the rule issues".

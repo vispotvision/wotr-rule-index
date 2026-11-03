@@ -355,3 +355,69 @@
   thread: Kharven
   fed: []
   strained: []
+- id: L035
+  category: injuries and reserve
+  who: Muken Moto
+  text: 'In ENMA-CHŌ: left forearm both bones crazed by YAKI-IRE and broken open, bone through the skin,
+    handprint burn round the forearm; left lower ribs 9 to 11 broken with a burn over them; left kneecap
+    broken and dislocated; right fourth and fifth fingers broken and skinned; two upper-left teeth broken
+    at the gum, lip split; burn blisters over the heart; left eyelid blistered shut, the Eye still seeing.
+    Kiyome''s red harness cracked through on the left. Whether any of it stays is Isaac''s call.'
+  opened: '2026-11-03'
+  opened_session: 4
+  due: null
+  status: open
+  thread: Kharven
+- id: L036
+  category: who knows what
+  who: Muken Moto
+  text: Has read ENMA-CHŌ as one morning kept open (every line rings dead) and found the one living thread,
+    Shōki's Axis to Tsuyu, from his chest to the block.
+  opened: '2026-11-03'
+  opened_session: 4
+  due: null
+  status: open
+  thread: Kharven
+- id: L037
+  category: who knows what
+  who: Shōki Kurenai Moto
+  text: 'Read Muken''s count: 308 by eighteen (Thresh contracts 9, Veyrath ditch 31, the Orrel road 12,
+    the Halcrest stair 6, the Foot 44, and the shore, the Skeldmere and the Marrow ice).'
+  opened: '2026-11-03'
+  opened_session: 4
+  due: null
+  status: open
+  thread: Kharven
+- id: L038
+  category: bonds
+  who: Dari and Hiromi
+  text: Dari, Cozbi's Founding (the Bridge, nine-tailed fox maid), follows Hiromi to the Cedar Enclave
+    and reports to Cozbi; a permanent upkeep thread on Cozbi.
+  opened: '2026-11-03'
+  opened_session: 4
+  due: null
+  status: open
+  thread: Kharven
+  fed: []
+  strained: []
+- id: L039
+  category: who knows what
+  who: Naiser Yukari and Cozbi Mahuo
+  text: 'Both entered at the Sum-gol Post: Cozbi''s threat to kill every Yukari if harm comes to Hiromi,
+    and Naiser''s matching debt to answer for any harm under his roof. Naiser named the Ashura seam as
+    a talk still owed.'
+  opened: '2026-11-03'
+  opened_session: 4
+  due: null
+  status: open
+  thread: Kharven
+- id: L040
+  category: injuries and reserve
+  who: Hayato Amagiri
+  text: Four more roads lost sending Tetsugen, Lorn, Kiyome and Amelia out of the wood, about fifteen
+    this fight; holds his last road, to the Seat gate, open for Muken.
+  opened: '2026-11-03'
+  opened_session: 4
+  due: null
+  status: open
+  thread: Kharven

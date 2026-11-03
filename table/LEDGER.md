@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-34 open lines.
+40 open lines.
 
 ## injuries and reserve
 
@@ -17,6 +17,8 @@
 - `L031` Eleven roads lost for good to KITSUNE-MEN, among them the Kessen road from the cedar wood to Grainsby Ford; heat injury; mask burns on the cheeks.  *(Kharven)*
 - `L032` The dead crack at the nape opened and bleeding like a man's, the first wound ENSHŌ cannot take; heart stopped two seconds by AKA-TE; right lung torn; ONNEN bank at about a fifth of saturation; ABI running with about twenty seconds left. Wrath now felt, with grief and regret inside it.  *(Kharven)*
 - `L033` Amelia driven eight paces into a fallen cedar under STONEFAST, mantle on fire, burns from dragging Hayato out. Lorn's FROSTFALL failing inside the furnace, the backlash coming.  *(Kharven)*
+- `L035` In ENMA-CHŌ: left forearm both bones crazed by YAKI-IRE and broken open, bone through the skin, handprint burn round the forearm; left lower ribs 9 to 11 broken with a burn over them; left kneecap broken and dislocated; right fourth and fifth fingers broken and skinned; two upper-left teeth broken at the gum, lip split; burn blisters over the heart; left eyelid blistered shut, the Eye still seeing. Kiyome's red harness cracked through on the left. Whether any of it stays is Isaac's call.  *(Kharven)*
+- `L040` Four more roads lost sending Tetsugen, Lorn, Kiyome and Amelia out of the wood, about fifteen this fight; holds his last road, to the Seat gate, open for Muken.  *(Kharven)*
 
 ## who knows what
 
@@ -28,6 +30,9 @@
 - `L021` Raizan read that HAKANASHI will not let him die, even by his own hand, and that there is one strand out: looking outward. Shōki admitted aloud that he no longer knows which of his steps north are his.  *(The Sins)*
 - `L026` Saw the Sin of Wrath pull a little girl in a yellow plum-blossom jacket out of the boiling ford; she lives with his handprint burned round her left wrist.  *(Kharven)*
 - `L027` Saw Kiyome, Tetsugen and Hayato fight at Stage XI in the cedar wood (Kiyome's light, Tetsugen's release to sixty-one, Hayato's road-cut, crossroads and fox mask). The Veil is gone for all three in front of them.  *(Kharven)*
+- `L036` Has read ENMA-CHŌ as one morning kept open (every line rings dead) and found the one living thread, Shōki's Axis to Tsuyu, from his chest to the block.  *(Kharven)*
+- `L037` Read Muken's count: 308 by eighteen (Thresh contracts 9, Veyrath ditch 31, the Orrel road 12, the Halcrest stair 6, the Foot 44, and the shore, the Skeldmere and the Marrow ice).  *(Kharven)*
+- `L039` Both entered at the Sum-gol Post: Cozbi's threat to kill every Yukari if harm comes to Hiromi, and Naiser's matching debt to answer for any harm under his roof. Naiser named the Ashura seam as a talk still owed.  *(Kharven)*
 
 ## bonds
 
@@ -35,6 +40,7 @@
 - `L011` She loves Faisal and watches through the crack in the Hall of Equilibria's floor. The egg of the Grand Angel sits on the Hall's mantle, waiting to hatch.  *(The Sins)*
 - `L016` She watched Faisal die through the crack in the Hall of Equilibria's floor. The egg of the Grand Angel on the mantle took his note and cracked once, top to bottom, without opening.  *(The Sins)*
 - `L034` Cozbi agrees to write to the Cedar Enclave by his own post so Hiromi, eleven, his sister's son, may train with the Yukari.  *(Kharven)*
+- `L038` Dari, Cozbi's Founding (the Bridge, nine-tailed fox maid), follows Hiromi to the Cedar Enclave and reports to Cozbi; a permanent upkeep thread on Cozbi.  *(Kharven)*
 
 ## renown
 

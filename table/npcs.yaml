@@ -52,9 +52,9 @@
   lied_about: []
   last_seen: null
   voice: null
-  doing_now: at the Sum-gol Post, waiting on his uncle's letter to the Cedar Enclave
+  doing_now: on the road to the Cedar Enclave to train with Naiser
   stands_with: Cozbi Mahuo
-  last_updated: '2026-11-01'
+  last_updated: '2026-11-03'
 - name: Aldo Brennick
   thread: Kharven
   want: null
@@ -66,3 +66,25 @@
   doing_now: dead in the cedar wood on the Kessen road
   stands_with: House Stark
   last_updated: '2026-11-01'
+- name: Dari
+  thread: Kharven
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: riding the Yukari carriage to the Cedar Enclave as Hiromi's maid and guard
+  stands_with: Cozbi Mahuo, Hiromi
+  last_updated: '2026-11-03'
+- name: Senna Yukari
+  thread: Kharven
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: at the Cedar Enclave, Hiromi's new training partner under her father
+  stands_with: Naiser Yukari
+  last_updated: '2026-11-03'

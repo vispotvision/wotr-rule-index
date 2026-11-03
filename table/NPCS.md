@@ -19,8 +19,14 @@
 ## Kharven
 
 **Hiromi** · wants: — · refuses: — · last seen: —
-  - doing now: at the Sum-gol Post, waiting on his uncle's letter to the Cedar Enclave
+  - doing now: on the road to the Cedar Enclave to train with Naiser
   - stands with him: Cozbi Mahuo
 **Aldo Brennick** · wants: — · refuses: — · last seen: —
   - doing now: dead in the cedar wood on the Kessen road
   - stands with him: House Stark
+**Dari** · wants: — · refuses: — · last seen: —
+  - doing now: riding the Yukari carriage to the Cedar Enclave as Hiromi's maid and guard
+  - stands with him: Cozbi Mahuo, Hiromi
+**Senna Yukari** · wants: — · refuses: — · last seen: —
+  - doing now: at the Cedar Enclave, Hiromi's new training partner under her father
+  - stands with him: Naiser Yukari

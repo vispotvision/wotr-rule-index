@@ -6,6 +6,31 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-03, later (combat and magic fix; R81-1 to R81-19)
+
+Isaac asked to fix every confusion in the combat and magic law; an audit found 25
+contradictions and a questionnaire (`imports/drafts/combat-magic-fix-questionnaire/`)
+settled them. All applied:
+
+- **Index:** R81-1 to R81-19 in `rules/doc-directions-2026-11-03b.yaml`; R47-1 and
+  R71-45 superseded; 22 older rows annotated (R77-2 notes-only clause, trained-POV
+  ceiling, mystic-register physics, readouts in fights, glow ban, R78-5 old wording,
+  R80-15 Applications, R51-10 single words). Agent ruling logged.
+- **NATALIE.md:** fast trades, battles and blurs, Working Card scope and repeats,
+  card merge, held cards, η as proportion, any-POV explaining (the bad R79-6 citation
+  struck), clinical names, Gloss defined, stock phrases only, signature sounds,
+  release calls, own Domain in the cap, PC choice / history / wounds, no Applications list.
+- **Guides and skills:** Combat Craft Guide second 11-03 block (strikes the stale
+  older lines by quote), wotr-write references, wotr-write cross-read without
+  ChatGPT, fight skill, ABILITY_PIPELINE (worked example in the Hiromi layout),
+  FIGHT_REVIEW_PASS, FIGHT_STATE_SHEET, used-devices and sound-lexicon headers.
+- **verify.py:** see SHARED_MEMORY 2026-11-03; MCP public/readonly restarted.
+- **Exemplars:** magic-on-the-blow rewritten with the full Working Card.
+- **Scenes:** The Bridge and the Spear and Enma's Register revised (Working Card,
+  physics on the page), mirrored; Muken's wounds on his card.
+- **Not touched:** other sessions' dirty cards (Cozbi, Faisal, Godfrey, Naiser),
+  table pages, style-bank README, lore/v1 scenes.
+
 ## State on 2026-11-03 (depth, atmosphere, no house vocabulary; R80-1 to R80-26)
 
 Isaac, after a thin Muken vs Aksel Keld ice fight: explain everything in depth

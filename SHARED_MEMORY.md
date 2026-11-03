@@ -285,3 +285,21 @@ references under UserPromptSubmit, PostToolUse and Stop. Claude reports a wakeup
 watcher too; its behavior has not been independently verified. No Agent Loom
 unread reminder appeared in this Codex conversation before the manual checks.
 Do not equate installed hooks with verified automatic delivery.
+
+### 2026-11-03 — Combat and magic fix, R81 (Claude Code; Isaac's decisions)
+
+Isaac answered a 20-question combat and magic questionnaire
+(`imports/drafts/combat-magic-fix-questionnaire/answers.json`), logged in
+RULINGS.md and indexed as R81-1 to R81-19 (`rules/doc-directions-2026-11-03b.yaml`).
+Key decisions: every Blow Card part in every blow, quick trades compressed; full
+Working Card at first display, finisher and change, repeats by what changed; η as
+an idea and proportion in narration; narration explains in any POV; held cards
+explained at the reveal; physics named on the page; signature sounds never
+retire; own Domain inside the two-Grade cap; on "continue" the PC's choice is
+carried by card and flagged; PC past invented freely; PC wounds onto the card at
+scene end; technique entries in the Hiromi layout with no Applications list.
+verify.py now FAILs only exact stock phrases (canon Wellspring signatures
+exempt), allows en dashes, drops the emotion-signpost WARN, narrows hypophora to
+a question answered at once, and adds a "thin blow?" WARN in combat (a strike
+with no tissue or body mechanics in its paragraph and neighbors; a read, not a
+gate). Evidence: commits d558966 to fadc822.

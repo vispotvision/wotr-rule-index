@@ -67,4 +67,4 @@ For a Kharven or Common POV, the same states come as English: a hush, a hum, a h
 
 ## Anti-repeat
 
-Before a fight or set piece, check `used-devices.md`. Sounds already spent there are retired as stock. Every fight coins at least a few new words for new things. If two hits in a scene would take the same word, change the material, the size, the wet or dry, or the tempo of the second.
+Before a fight or set piece, check `used-devices.md`. Impact sounds already spent there are retired as stock; a technique's or Wellspring's signature sound never is, and recurs every time it fires (R81-10). Every fight coins at least a few new words for new things. If two hits in a scene would take the same word, change the material, the size, the wet or dry, or the tempo of the second.

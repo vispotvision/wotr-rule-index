@@ -26,7 +26,7 @@ Full blow coverage stays; the zoom changes. For each movement set the zoom and t
 | Movement | Volume (1 quiet to 10 peak) | Zoom: slowed (every part of the Blow Card, senses stretched) / standard (the card in full, at pace) / quick (every Blow Card part kept, written tighter; none dropped) | Thought after blows: heavy / light / none | Talk |
 |---|---|---|---|---|
 
-Rules: no more than one movement at peak volume; the slowed zoom is spent on the turn, the vow, the perfect hit and the kill; quick zoom carries trades; a reaction or thought does not follow every blow; the quietest beat sits just before the peak.
+Rules: no more than one movement at peak volume; the slowed zoom is spent on the turn, the vow, the perfect hit and the kill; quick zoom carries trades; thought follows each fighter's card, a quick read on every blow and extended reasoning only for an analyst (R81-6); the quietest beat sits just before the peak.
 
 ## 4b. Workings (one row each, Isaac 2026-11-03)
 

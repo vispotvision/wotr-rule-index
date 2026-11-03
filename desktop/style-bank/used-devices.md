@@ -1,6 +1,6 @@
 # Used devices ledger
 
-Images, beats and sounds already spent in drafted fights. A new fight does not reuse them. Add to this file at the end of every fight (review pass, step 17). Entries are the thing and where it lived, not instructions to copy.
+Images, beats and impact sounds already spent in drafted fights. A new fight does not reuse them. A technique's or Wellspring's signature sound is never spent: it recurs every time that technique fires, and any listed here are recorded as its signature, not retired (R81-10). Add to this file at the end of every fight (review pass, step 17). Entries are the thing and where it lived, not instructions to copy.
 
 ## Retired as stock (test duel, model passages, Cinder Market, 2026-10-30)
 

@@ -11,11 +11,12 @@ a counter.
 
 ## Entry shape and the full path (Isaac, 2026-10-31)
 
-An entry is written in the Superpower Wiki's shape: the plain paragraph, then
-**Applications** (8 to 15 discrete uses, one sentence each), **Variations**,
-**Associations** and **Limits**; the physics lives in the notes page, never in
-the entry. The path from a rough sketch to a filed card is in
-`desktop/ABILITY_PIPELINE.md`: research (Superpower Wiki is a primary source,
+An entry is written in Isaac's own layout (Reitori, Hiromi; R81-16), drawing
+on the Superpower Wiki for design, application, variation and limitation but
+never copying its lists: there is no Applications, Variations, Associations or
+Limits list, and the physics lives on the entry beside the metaphysics (R80-25).
+The path from a rough sketch to a filed card is in
+`desktop/ABILITY_PIPELINE.md`:`desktop/ABILITY_PIPELINE.md`: research (Superpower Wiki is a primary source,
 physics, the Wellspring's analogue), design, the Wellspring signature from
 `desktop/style-bank/wellspring-signatures.md`, a sample display for
 signatures and releases, one best name, an overlap check surfaced to Isaac,
@@ -54,23 +55,30 @@ then filing.
 The swap test: if two characters exchanged abilities and neither read as
 wrong, neither ability is working.
 
-## Entry format (Ability Format R76, 2026-10-05)
+## Entry format (R76, R81-16, Isaac's layout of 2026-11-01)
 
-**Describe what the ability is, never how to use it.** Mechanism, what it can
-act on, costs, limits, tell and counters. No tactics, combos, worked fights,
-"use it to…" lines or fight counts written as advice: Isaac invents the
-applications. Counters and tells are facts ("fails in a warm room", "the air
-shimmers"), never instructions to an opponent.
+**Describe what the ability is and how it fights.** Every technique, skill or
+magic is assumed to be used in battle unless the card says otherwise, so each
+bullet states its combat use in the same breath as its mechanism (R81-16;
+R47-1, "never how it is used in a fight", is superseded). Counters and tells
+are facts ("fails in a warm room", "the air shimmers"), never instructions to
+an opponent. For his PC the new uses in play are still Natalie's to write and
+his to keep.
 
-Every ability (Trait, technique, signature, school art, bloodline faculty) is
-**one name and one paragraph** (R76-1 to R76-5): the name in caps, a short
-gloss after it where the character has a naming register (`THE ROT · kusari`, English first, R78-5),
-its kind in brackets (a release form's kind is *First*, *Second* or *Third
-Release*), then a single paragraph of any length, which also gives the
-signature sound and, for a Trait, the aura's color (R78-6). That paragraph is
-the whole wiki page and the whole card entry; nothing else goes on it. The
-field format (R47-2) is retired; an old field-format entry is rewritten the
-next time it is edited or used.
+The layout: a heading per Trait, Domain, Technique, Release or Vow, the name in
+caps with its native-language name (script and romanization; English first
+where the character has a naming register, `THE ROT · kusari`, R78-5) and its
+kind (a release form's kind is *First*, *Second* or *Third Release*); a short
+intro saying what it is, with its signature sound and, for a Trait, the aura's
+color (R78-6); then bullets of the form **Name (native name): description**,
+each a developed explanation in which the metaphysics and the physics are one
+account (the world's terms and the real phenomenon underneath, the glyph's
+boundary condition, the figures inline) and the combat use is stated in the
+same bullet; a **Nature** bullet (passive or active, what it scales with, what
+it is bound to); and **Cost and Tell**, **Counter** and **Failure** bullets.
+Signatures and releases also say how they play against a higher Stage. The
+field format (R47-2) and the one-paragraph-only form are retired; an old entry
+is rewritten into this layout the next time it is edited or used.
 
 - Any words that make it clearest, chosen fresh; technical terms welcome when
   explained on first use. Explaining fully beats concision (DEPTH AND
@@ -86,7 +94,7 @@ next time it is edited or used.
   Malphas's reach, he rots. ... A blade still can."
 
 The design work above (phenomenon, three strata, Codex, FOW, fairness) still
-happens in full; it feeds the paragraph and the author notes in chat. When
+happens in full; it feeds the entry and the author notes in chat. When
 Isaac sketches an ability out of character, supply how it works without being
 asked (R79-2). For his PC, inventive new uses of his abilities are Natalie's to
 write in play; new techniques, Level points and card changes stay his.
@@ -125,10 +133,11 @@ stated fault) stays in the author notes, which never reach the page.
 
 Correspondence, sympathy and contagion, essence and accident, form and
 actualisation, recognition and refusal: the Attraction-side read and the
-document voice. Real physics and Mechanism Vocabulary: any diagnostic voice, and a trained
-POV's narration; a commoner's narration keeps his own words (R79-4, R78-3). On
-the page a working's first display carries one clear causal line; the full
-three-strata account above lives on the card and in the notes (R79-6).
+document voice. Real physics and Mechanism Vocabulary: any voice, and narration in any POV
+when explained, an untrained POV in plainer, more wondering words (R81-4). On
+the page a working takes the full Working Card (DEPTH AND EXPLANATION in
+desktop/NATALIE.md), the real phenomenon and its law named and explained, the
+math in the notes (R81-7).
 
 ## The gap-fill pass (when Isaac submits a fight or working to improve)
 

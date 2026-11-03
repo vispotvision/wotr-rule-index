@@ -1,3 +1,16 @@
+> **Amended 2026-11-03 (second block) by Isaac's combat and magic fix questionnaire (R81-1 to R81-19, `rules/doc-directions-2026-11-03b.yaml`).** This block governs over every block and line below. Struck outright in the older blocks: "exchanges where nothing lands may be summed" and "misses may be summed" (R80-5); "clinical names live in the notes" (R81-8); "one clear causal line" (R80-25); "narration may explain what the trained POV understands" (R81-4); "about 3,500 words" and every word band (R80-11); "never HEMA… narration never writes the line, measure…" (R80-26); "fighters talk in the pauses and go quiet while the blades move" (R80-3); "flashbacks run freely" (R80-9: rare and marked); "called in English or the speaker's own tongue" (R80-3: English).
+>
+> - **Pace.** Every Blow Card part in every blow; a quick trade compresses the wording into long cumulative sentences and drops nothing (R81-1).
+> - **Repeats.** The full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs (R81-2). All magic takes the card, scaled; the aura coat and reinforcement once, then as body tells (R81-17).
+> - **Merging.** A working on a blow interleaves the cards: charge and draw with the set, aura and room with the read and contact, mechanism and effect beside the tissue, cost beside the reaction. The Kill Card extends the Blow Card (R81-18).
+> - **Numbers.** η as an idea and a proportion in narration; exact figures in mouths and the notes (R81-3).
+> - **Who explains.** Narration explains the full mechanism in any POV, an untrained POV in plainer, wondering words; dialogue only what the speaker could know (R81-4). A held card shows its effect first and is explained in full at the reveal, the same exchange (R81-5).
+> - **Physics.** The real phenomenon and its law named and explained on the page; the math in the notes (R81-7). Clinical wound names welcome in narration when explained (R81-8).
+> - **Thought.** By the card: each blow's read is behavior plus a quick thought; analysts think exchanges through, brawlers barely (R81-6).
+> - **Sounds and words.** Signature sounds recur forever; the ledger retires impact sounds and images only (R81-10). Only exact stock phrases are banned; canon signatures are exempt (R81-9).
+> - **Releases and stacking.** A release called aloud gives the full rise, silent is weaker (R81-11). The user's own Domain counts toward the two-Grade cap; a Third Release fills it alone (R81-12). A Domain is called aloud and forms as named (R71-45 superseded).
+> - **Battles.** The POV's own fight takes full Blow Cards; the mass by specific bodies; a blow too fast to see is carded from what the POV saw after (R81-19).
+
 > **Amended 2026-11-03 by Isaac's direction (DEPTH AND EXPLANATION in `desktop/NATALIE.md`).** This block governs over every older line below and over the 2026-10-17 block where they disagree.
 >
 > - **More is better.** Every blow, working and moment is shown and explained so fully that nothing about how it happened, why it worked or what it did is left to confusion. Thin is wrong.

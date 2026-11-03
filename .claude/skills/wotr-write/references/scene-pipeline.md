@@ -85,18 +85,22 @@ scene then tests (R70-16). A chapter or arc closes on a hook; a scene on any
 concrete close, a pressing question included (R79-4). Jo-ha-kyū tempo: slow,
 breaking, swift (R70-15); paired and cumulative sentences wherever the
 movement wants them. No sentence-length, rhythm or count rule (R79-3).
-Reification by ear, never at the beat (R49-21). Every blow is body, path,
-target, result and what it cost; what a fighter read and the opening he found
-are shown as behavior (R79-6). Fight jargon, Eastern or Western, is free and
-never required; a technique or release is called in English or the speaker's
-own tongue, as the character would; afterimages for speed (R78-5, R79-6).
-Exchanges where nothing lands may be summed in a sentence; every hit that
-lands gets its own clause, and they add up (R79-6). Duel shape follows the
-combat grammar (R70-102). A working's first display carries one clear causal
-line, in a mouth or in narration; the full three-strata account lives on the
-card and in the notes (R79-6). Wounds plain and anime on the page, full gore
-and geysers, shrugged off then felt; clinical names and haemorrhage class in
-the notes and a medic's mouth (R79-6). Auras glow; afterimages may be light.
+Reification by ear, never at the beat (R49-21). Every blow takes the full
+Blow Card, misses included (R80-5); a quick trade keeps every part and
+compresses the wording into long cumulative sentences (R81-1). Fight jargon,
+Eastern or Western, is welcome when explained beside the body (R80-22); a
+technique is called aloud in English (R80-3); afterimages for speed (R78-5).
+Duel shape follows the combat grammar (R70-102). A working takes the full
+Working Card at first display, at the finisher and whenever something changes,
+and an ordinary repeat its charge, effect, cost and what differs (R81-2); all
+magic is carded, the aura coat and reinforcement once and then as body tells
+(R81-17); a working riding a blow interleaves with the Blow Card and the Kill
+Card extends it (R81-18). The real phenomenon and its law are named and
+explained on the page, the math in the notes (R81-7). Wounds plain and anime
+on the page, full gore and geysers, shrugged off then felt; clinical names
+welcome in narration when explained, hemorrhage class in the notes and a
+medic's mouth (R81-8). Auras glow; afterimages may be light. Thought by the
+card: analysts think exchanges through, brawlers barely (R81-6).
 The POV's own body on the page as much as the opponent's. Aftermath never
 skipped, including after any explicit scene.
 
@@ -115,11 +119,12 @@ unswappable voice. A changed detail on return is a tool, not a count (R79-3).
 
 ## Register
 
-Third person only; first person stays in documents (R70-12). Modern slang in
-speech and italic thought only (R70-37); narration and documents stay
-timeless; system and science words are free in a trained POV's narration,
-and a commoner's narration keeps his own words (R79-4, R78-3). The checker's
-modern-word list catches slang in narration (R48-13, R49-44, R51). Narration
+Third person only; first person stays in documents (R70-12). No house
+vocabulary: every word chosen fresh for the thing in front of it, plain or
+technical, archaic or modern (R80-24; R70-37 is superseded). System and science
+words are free in any POV's narration when explained; an untrained POV explains
+in plainer, more wondering words, and the reader still gets the whole mechanism
+(R81-4). Narration
 sounds like the POV's own reach, close by default, with the culture as flavor
 (R79-4). An improvement of his post is a free rewrite keeping his intent, and
 keeps the tense and person he wrote in unless he asks for a conversion (R79-4,

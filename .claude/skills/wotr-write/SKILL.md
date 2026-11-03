@@ -140,12 +140,14 @@ pipeline in `references/scene-pipeline.md`.
 5. **Present** the verified draft in the reply (the prose, not a summary).
    Author notes go with the archive, not under the prose.
 
-**The cross-read** runs only when Isaac asks ("cross-read", "second opinion",
-"ask ChatGPT"; R79-8). Then save the draft to `~/wotr-drafts/<slug>.md`, call
-`ask_chatgpt` with the line-editor brief from `wotr-chatgpt`, revise with what
-holds, keeping his intent, verify again. One round for a turn, two for a set
-piece. If ChatGPT fails or runs past five minutes, post without it and say so
-in one line.
+**A second opinion** runs only when Isaac asks ("cross-read", "second
+opinion"). ChatGPT and Codex are never called (R80-18, Isaac 2026-10-31): give
+your own hard read with the line-editor brief (the five weakest sentences
+quoted with rewrites in the same voice and tense, every rule breach with its
+id, where the senses, the body or the room went thin, any line two characters
+could swap, and the strongest line so it is protected), revise with what holds,
+keeping his intent, and verify again. One round for a turn, two for a set
+piece.
 
 ## 3. Author notes (at archive only)
 

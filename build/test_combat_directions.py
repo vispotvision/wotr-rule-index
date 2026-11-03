@@ -16,16 +16,16 @@ class CombatDirectionsTests(unittest.TestCase):
     def readout(self, result):
         return [w for w in result['warns'] if 'no readouts inside a fight' in w]
 
-    def test_recorded_jargon_and_existing_manual_terms_warn(self):
+    def test_recorded_jargon_is_free_now(self):  # R80-25 supersedes R77-1 (Isaac 2026-11-03)
         for term in ('Vor', 'Nach', 'Indes', 'Zufechten', 'Krieg', 'Vom Tag',
                      'Ochs', 'Pflug', 'Alber', 'Zornhau', 'Winden', 'Absetzen',
                      'Durchwechseln', 'Krumphau', 'Zwerchhau', 'Schielhau',
                      'Scheitelhau', 'Mutieren', 'Duplieren'):
             with self.subTest(term=term):
-                self.assertEqual(len(self.jargon(self.check('She uses ' + term + '.'))), 1)
+                self.assertEqual(len(self.jargon(self.check('She uses ' + term + '.'))), 0)
 
-    def test_jargon_warns_in_dialogue_and_without_combat_flag(self):
-        self.assertTrue(self.jargon(self.check('"VOR," she says.')))
+    def test_jargon_free_in_dialogue_and_without_combat_flag(self):
+        self.assertFalse(self.jargon(self.check('"VOR," she says.')))
 
     def test_jargon_is_not_positive_blade_evidence(self):
         result = self.check('Zornhau.', combat=True)
@@ -77,9 +77,9 @@ class CombatDirectionsTests(unittest.TestCase):
         self.assertFalse(any(w.startswith('figure in fight narration:') for w in spoken['warns']))
         self.assertFalse(any(w.startswith('figure in fight narration:') for w in self.check('Her cut costs 40 EU.')['warns']))
 
-    def test_fight_abstraction_only_under_combat(self):
+    def test_fight_abstraction_watch_retired(self):  # R80-22, R80-25 (Isaac 2026-11-03)
         text = 'He closed measure and took the line.'
-        self.assertTrue(any(w.startswith('fight abstraction') for w in self.check(text, combat=True)['warns']))
+        self.assertFalse(any(w.startswith('fight abstraction') for w in self.check(text, combat=True)['warns']))
         self.assertFalse(any(w.startswith('fight abstraction') for w in self.check(text)['warns']))
         self.assertFalse(verify.BLADE_ACTION.search('measure tempo'))
 
@@ -100,7 +100,7 @@ class CombatDirectionsTests(unittest.TestCase):
         import mcp_server
         text = 'Vor. Her blade shakes beside her clavicle.\n\n## Author notes\n40 EU, mechanism and account.'
         report = mcp_server.verify_scene(text, combat=True, turn=True)
-        self.assertIn('European fencing jargon:', report)
+        self.assertNotIn('European fencing jargon:', report)
         self.assertNotIn('R77-2-COMBAT_ROLEPLAY_TELLS', report)
         gap = mcp_server.gap_fill('Her blade strikes because she shifts her weight.')
         self.assertIn('blade body/action terms', gap)

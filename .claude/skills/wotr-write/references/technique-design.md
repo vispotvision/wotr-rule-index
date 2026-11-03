@@ -72,8 +72,9 @@ the whole wiki page and the whole card entry; nothing else goes on it. The
 field format (R47-2) is retired; an old field-format entry is rewritten the
 next time it is edited or used.
 
-- Plain everyday words and short sentences: "goes solid", not "jams"; no
-  jargon a reader has to decode. Concise beats exhaustive.
+- Any words that make it clearest, chosen fresh; technical terms welcome when
+  explained on first use. Explaining fully beats concision (DEPTH AND
+  EXPLANATION in desktop/NATALIE.md, Isaac 2026-11-03).
 - Full figures inline (EU, time from full, Grade, m/s, joules), written plainly
   with no (est.) mark (R76-6); estimates are listed in the author notes only.
   Never a number where a source has one.

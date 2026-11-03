@@ -6,6 +6,32 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-03 (depth, atmosphere, no house vocabulary; R80-1 to R80-26)
+
+Isaac, after a thin Muken vs Aksel Keld ice fight: explain everything in depth
+(full Blow Card, a new Working Card for every working, physics and metaphysics
+as one account), the world answers every moment in vivid mystical language,
+jargon of every kind welcome when explained, and no house vocabulary at all.
+
+- **NATALIE.md** gains DEPTH AND EXPLANATION under THE TONE; the Explaining,
+  Describing a working, Fights on the page, Blow Card, Vocabulary and Technique
+  entries lines rewritten to match. ABILITY_PIPELINE (Depth standard),
+  CHARACTER_PIPELINE (How they move), the card template, FIGHT_STATE_SHEET
+  (workings table, footing), FIGHT_REVIEW_PASS (checks 15 to 22), the Combat
+  Craft Guide (2026-11-03 amendment block) and the fight, improve, wotr-rp,
+  wotr-write, wotr-phenomenon, wotr-technique and ability skills follow.
+- **Index:** every craft direction recorded in RULINGS.md from 2026-10-24 to
+  2026-11-03 and never indexed is now R80-1 to R80-26 in
+  `rules/doc-directions-2026-11-03.yaml`. Superseded: R4-13, R49-44, R49-50,
+  R51-01, R70-27, R70-28, R70-37, R70-100, R77-1, R78-1, R78-11, R80-6. R79-1,
+  R79-6, R79-8 and R78-3 summaries annotated (word count, Working Card,
+  cross-read, term ban). Agent rulings logged for each call.
+- **verify.py:** gloss, modern-word, fight-abstraction and European-jargon
+  watches retired; tests updated (test_combat_directions' MCP test and
+  test_skills need the MCP venv; test_writers_room needs Python 3.11).
+- **Not touched:** another session's uncommitted wiki cards, lore/v1 scenes,
+  table pages and style-bank README/used-devices; untracked files.
+
 ## State on 2026-10-18 (lore reset: the old archive is lore/v1)
 
 Isaac is resetting the lore again; the archived scenes go into their own

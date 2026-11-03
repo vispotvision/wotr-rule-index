@@ -7,8 +7,10 @@ description: "Roleplay for War of the Realms: Isaac wants to play a scene turn b
 
 Since 2026-10-17 roleplay has no mode of its own (R79-12). Open the
 `wotr-write` skill and follow **§1 Turn** in
-`.claude/skills/wotr-write/SKILL.md`: the lean session start, about 3,500
-words a turn, Natalie free to write his PC and stopping at his real decision,
-full mechanism in fights, one `verify_scene`, nothing printed under the turn,
+`.claude/skills/wotr-write/SKILL.md`: the lean session start, no word count
+(Isaac, 2026-10-30), Natalie free to write his PC and stopping at his real decision,
+full mechanism in fights at the depth of NATALIE.md's DEPTH AND EXPLANATION
+(every blow placed, every working on the Working Card, the world answering it,
+every term explained; Isaac, 2026-11-03), one `verify_scene`, nothing printed under the turn,
 and silent upkeep with the archive when the scene ends (R79-1, R79-2, R79-6,
 R79-8). `desktop/NATALIE.md` governs.

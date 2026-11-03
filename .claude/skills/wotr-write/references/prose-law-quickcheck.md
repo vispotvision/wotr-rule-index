@@ -12,7 +12,7 @@ checker still prints is retired law and is ignored (R79-3).
 
 ```bash
 f=/tmp/wotr-drafts/<slug>.md
-wc -w "$f"                                    # every in-fiction reply: about 3,500 (R79-1)
+wc -w "$f"                                    # information only: no word count (Isaac, 2026-10-30)
 grep -n '—' "$f"                              # em dashes: zero
 grep -nE ' like |the way |as if|as though' "$f"      # similes: welcome when earned, read each
 grep -nEi "(isn't|wasn't|is not|was not|it's not|not just) .{0,40}(but|it's|it was|,)" "$f"   # "not X, Y" family

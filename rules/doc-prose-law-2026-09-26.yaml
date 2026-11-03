@@ -1170,7 +1170,7 @@ rules:
   pack_number: null
   section: Word choice
   title: Modern flags
-  status: live
+  status: superseded
   kind: mandate
   summary: Modern words in narration are caught by a checker word list of banned modern words, checked
     automatically in narration.
@@ -1345,7 +1345,7 @@ rules:
   pack_number: null
   section: Word choice
   title: Own body
-  status: live
+  status: superseded
   kind: mandate
   summary: A trained POV (medical or fighting training) names his own wound exactly; an untrained POV
     keeps his own body in plain words.

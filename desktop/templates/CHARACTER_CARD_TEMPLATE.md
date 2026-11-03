@@ -28,7 +28,8 @@ owner: <creator, if not an NPC>
 **<NAME>** · <title> · <culture> · as of <moment>
 **Stat line** · Level <n> · Band <I–V, name> · Stage <numeral, Fracture of Worlds name> · Path <Path> · <Tier of Standing by name> · η <value> · Aether Class <class> · Crystal <Tier>, <State>
 **Combat grammar** · <Verdict | Blade | Percussion | Expenditure> (R71-69)
-**Aura and sound** · color: <Family hue at Stage clarity, e.g. ember-orange, dual-toned> · signature sound: <…> (R78-6, R78-10)
+**Aura and sound** · color: <Family hue at Stage clarity, e.g. ember-orange, dual-toned> · signature sound: <…> · feel: <smell, temperature, pressure, and what the room does when it rises> (R78-6, R78-10)
+**How he moves** · <stance and guard, footwork, favored strikes and their path, how the body carries weight, what it does hurt; plain and technical terms both> (Isaac, 2026-11-03)
 **Stack** · sustainable <Grade> · cap +2 Grades · layers: <releases, vows, Drafts, tags in play> (R78-10)
 **Releases** · <NAME> (First Release) / <NAME> (Second Release) / … · bonded weapon: <…, or none> (R78-10)
 **Traits** · <NAME> (Primary) · tell: <…> · counter: <…> / <NAME> (Secondary) · tell: <…> · counter: <…> / …
@@ -117,10 +118,13 @@ owner: <creator, if not an NPC>
      THE ABILITIES.
      Every one, Trait, technique, signature, school art, bloodline faculty alike, is written the same way (R76-1):
        NAME IN CAPS · gloss (where the naming register has one) (Kind)
-       One paragraph, any length, plain everyday words, full figures inline, no (est.) mark (R76-6).
+       A developed explanation, any length, technical terms welcome and explained, full figures inline, no (est.) mark (R76-6).
+       At full depth (DEPTH AND EXPLANATION, NATALIE.md, Isaac 2026-11-03): the charge, the draw
+       (Soul Crystal, Shell, η, waste heat), the look and what it does to the room, the mechanism
+       in physics and metaphysics as one account, how it plays in a fight, the counter and the failure explained.
        It always states MECHANISM, COST and one fair COUNTER within reach at its own Stage;
        LIMIT and TELL where they exist (R79-9). The belief stays implied. Offices and the Lattice
-       property only where they read naturally (R76-3). What it is, never how to use it.
+       property only where they read naturally (R76-3). What it is, and how it plays in a fight.
      The counter rests on known law; the before, during and after triad only for signatures (R79-9).
      Every ability has a counter.
      Model: FERMENT (Primary Trait), Malphas.

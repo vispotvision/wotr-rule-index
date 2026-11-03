@@ -7,8 +7,9 @@ assert v.FIGHT_ABSTRACT.search("The parry had cost him the line.")
 assert v.FIGHT_ABSTRACT.search("He closed measure fast.")
 assert not v.FIGHT_ABSTRACT.search("the line of his jaw") and not v.FIGHT_ABSTRACT.search("He ruled a line under it.")
 fight = "He closed measure and took the line."
-assert any(w.startswith("fight abstraction") for w in v.run(fight, combat=True)["warns"])
-assert not any(w.startswith("fight abstraction") for w in v.run(fight)["warns"])  # R79-6: --combat only
+# R80-22/R80-25 (Isaac 2026-11-03): the fight-abstraction watch retired; terms are welcome beside the body.
+assert not any(w.startswith("fight abstraction") for w in v.run(fight, combat=True)["warns"])
+assert not any(w.startswith("fight abstraction") for w in v.run(fight)["warns"])
 
 # R79-3: no rhythm, count or length WARNs; R79-1: length is info only, in every band.
 plain = " ".join(["He walked to the door and opened it."] * 12)

@@ -83,8 +83,9 @@ challenge (`references/fair-play.md`): NPCs act on what they could know.
 
 **Fights at the table (R79-6)** show the full mechanism on the page, like a
 written set piece: every blow body, path, target, result and what it cost, the
-read and the opening shown as behavior, a working's first display carrying
-one clear causal line. Figures in mouths, never narration, and no readout
+read and the opening shown as behavior, every working on the Working Card,
+the world answering it, every term explained (DEPTH AND EXPLANATION, Isaac
+2026-11-03). Figures in mouths, never narration, and no readout
 inside a fight. There is no switch to another mode when a fight starts; the
 set-piece law is the turn's law.
 

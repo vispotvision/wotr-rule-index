@@ -15,7 +15,9 @@ description: "Design a War of the Realms technique, Trait, art or ability from a
    Class. The technique grows from that.
 3. **The phenomenon.** Run `wotr-phenomenon` (`skill("wotr-phenomenon")`):
    the real physics, the governing law, the boundary condition the glyph
-   supplies, the failure mode.
+   supplies, the failure mode, with the power's Superpower Wiki page
+   (powerlisting.fandom.com, one of the primary sources for abilities) for
+   its applications, combinations and limitations.
 4. **The mechanism and the price.** Cost in EU against the owner's reserve,
    written as how long it lasts from full; limit and tell; one fair counter
    within reach at the technique's own Stage on known law. A signature's
@@ -25,8 +27,10 @@ description: "Design a War of the Realms technique, Trait, art or ability from a
 5. **The Codex.** `codex(query)` for precedent, Wellspring, Family and
    Physics Domain. Never invent a Wellspring or glyph.
 6. **The entry.** One name in caps, a short gloss where the character has a
-   naming register (`wotr-name`), its kind in brackets, then one paragraph in
-   plain everyday words with the figures inline.
+   naming register (`wotr-name`), its kind in brackets, then a developed
+   explanation at full depth (charge, draw, look and room, mechanism in physics
+   and metaphysics, counter and failure), technical terms welcome and explained,
+   figures inline (Isaac, 2026-11-03).
 
 The whole card comes back at once. Every choice sticks only when the player
 keeps it; a PC's new techniques are his call.

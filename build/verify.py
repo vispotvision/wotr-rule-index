@@ -317,9 +317,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     # --- warn-level patterns -----------------------------------------------
     for m in APPARATUS_SUBJECT.finditer(body):
         warns.append(f"faculty as grammatical subject: \"{m.group(0)}\" (R6-2-FACULTY_NEVER_SUBJECT, Check 19)")
-    for m in GLOSS.finditer(body):
-        s = body[max(0, m.start() - 60):m.end() + 40].replace("\n", " ")
-        warns.append(f"gloss watch: \"...{s.strip()}...\" (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)")
+    # gloss watch retired 2026-11-03: explanation is wanted (R80-22, R80-26 supersede R4-13)
     for m in SIGNPOST.finditer(body):
         warns.append(f"emotional signposting: \"{m.group(0)}\" (AI-tells §4)")
     q = [s for p in prose_paras if not p.startswith("\"") for s in split_sentences(p) if HYPOPHORA_Q.search(s) and not re.search(r"[\"“”]", s)]
@@ -334,9 +332,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     # R70-37 (IN1): italic thought may carry what the POV would say aloud, so it leaves the
     # modern-word, gamer-slang and formula watches with speech.
     narr_plain = ITALIC.sub(" ", narr)
-    for m in MODERN.finditer(narr_plain):
-        s_ = narr_plain[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
-        warns.append(f"modern word in narration: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)")
+    # modern-word watch retired 2026-11-03: no house vocabulary (R80-24 supersedes R49-44)
     for m in GAMER.finditer(narr_plain):
         s_ = narr_plain[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
         warns.append(f"gamer slang in narration: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R70-94-GAMER_SLANG; free in a mouth)")
@@ -394,10 +390,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
             warns.append(f"near a hard-ban phrase: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R70-36-CHECKER_ENFORCES; read it against R70-35)")
 
     # --- R78-3: physical over abstract in fights ------------------------------
-    abstract = [m for s in narr_sents for m in FIGHT_ABSTRACT.finditer(s)] if combat else []
-    if abstract:
-        warns.append(f"fight abstraction in narration: {len(abstract)} ({', '.join(sorted({m.group(0).lower() for m in abstract}))}); "
-                     "say what the fist, foot, blade or body did (R78-3-PHYSICAL_AND_SATURATED, R79-6)")
+    # fight-abstraction watch retired 2026-11-03: technical terms are welcome beside the body (R80-22, R80-25)
 
     # --- table rules ---------------------------------------------------------
     info.append(f"length {total_words} words (no word count, Isaac 2026-10-30)")
@@ -408,9 +401,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         info.append(f"last line: \"{prose_paras[-1][-140:]}\" ({end}, R79-4-INTERIOR_MEANING_WORLD)")
 
     # --- European jargon (R77-1, check 22, all WOTR prose) ------------------
-    jargon = sorted({m.group(0) for m in EUROPEAN_FENCING.finditer(body)}, key=str.casefold)
-    if jargon:
-        warns.append(f"European fencing jargon: {', '.join(jargon)}; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)")
+    # European-jargon watch retired 2026-11-03: R80-25 supersedes R77-1; jargon is welcome when explained
 
     # --- readouts and stale devices (R71-103, ME2 B and D) --------------------
     ro = readouts(body)
@@ -429,9 +420,9 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         school = school or school_for(culture)
         h = len(SCHOOLS[school].findall(raw)); a = len(ANATOMY.findall(raw))
         if h == 0 and school == "blade":
-            warns.append("no blade body/action vocabulary found in a combat scene (R77-1-EUROPEAN_FENCING_ACTIONS, R13-9-VERIFY_CHECKS_22_26, check 22)")
+            warns.append("no blade body/action vocabulary found in a combat scene (R80-4-BLOWS_FIRST, R13-9-VERIFY_CHECKS_22_26, check 22)")
         elif h == 0 and school not in ("japanese", "chinese", "korean"):  # Eastern terms are free, never required (R78-5, R79-6)
-            warns.append(f"no {school} school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, check 22)")
+            warns.append(f"no {school} school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R80-4-BLOWS_FIRST, check 22)")
         if a == 0:
             warns.append("no injury vocabulary, plain or clinical, found in a combat scene (R13-6-ANATOMY_VOCAB, R79-6, check 23)")
         label = "blade body/action terms" if school == "blade" else f"{school} school terms"

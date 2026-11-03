@@ -8,7 +8,7 @@ source_file: ''
 rules:
 - pack: Combat Prose Rulings 2026-10-08
   pack_number: null
-  status: live
+  status: superseded
   supersedes: &id001 []
   ratified: 'Isaac, 2026-10-08, Claude Code: directions recorded in RULINGS.md'
   source: &id002

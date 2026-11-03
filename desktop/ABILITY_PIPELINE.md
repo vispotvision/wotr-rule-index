@@ -6,39 +6,44 @@ Isaac's direction: abilities are written the way the Superpower Wiki writes them
 
 A Superpower Wiki power page runs: a one-line definition ("The power to ...", with the broader powers it varies); Also Called; Capabilities (prose on what the power can do at its root and the physical basis); Applications (a list of discrete, concrete uses, each a sentence or two); Techniques (named methods); Variations (the power specialized or twisted); Associations (neighboring powers it combines with); Limitations (what stops it); Known Users and Known Techniques. The page reads like a field guide: general principle first, then a long tail of specific uses, then limits.
 
-WOTR keeps its own technique-entry rules (name in caps, a gloss, kind in brackets, one paragraph in plain everyday words with full figures inline, mechanism, cost, one fair counter within reach, limit and tell where they exist). The Superpower Wiki shape adds the long tail: a technique's entry carries its **Applications**, **Variations** and **Associations** as well.
+WOTR keeps its own technique-entry rules (name in caps, a gloss, kind in brackets, a developed explanation with technical terms welcome and explained and full figures inline, mechanism, cost, one fair counter within reach, limit and tell where they exist). The Superpower Wiki shape adds the long tail: a technique's entry is written in the layout of Isaac's Reitori and Hiromi examples (2026-11-01): a heading with the native name, an intro, then Name (native name): description bullets in which metaphysics and physics are one account and the combat use is in the same bullet, a Nature bullet, and Cost, Tell, Counter and Failure bullets. There is no separate Applications list.
 
 ## The steps
 
 1. **Intake.** Read the sketch, the character's card and their refusal. Open the Superpower Wiki page for the nearest power (and the pages it varies or associates with) and read its Capabilities, Applications, Techniques, Variations, Associations and Limitations. Take concepts from it; take no WOTR fact from it.
 2. **Physics.** Name the real phenomenon, the governing law, the boundary condition the glyph supplies, and the failure mode (the `wotr-phenomenon` skill). Find the nearest Wellspring analogue and Physics Domain in the Codex.
 3. **Design.** Mechanism, cost, a stated condition, one fair counter within reach at the technique's own Stage (and a counter at each phase of a signature), the limit and the tell. A visible charge always comes before the effect.
-4. **Applications.** List eight to fifteen discrete uses the mechanism lawfully allows, the Superpower Wiki way: a short sentence each, drawn from the wiki's list for the nearest power and from the physics. Each stays inside the cost and the limit. Isaac's direction (2026-10-31) makes the Superpower Wiki a primary source for design, application, variation, association and limitation; WOTR canon governs every fact and number. The long tail is the veteran's kit, available the moment the page finds a use.
+3b. **Write the entry** in the Hiromi layout. Heading with the native name (script, romanization, gloss). Intro: what it is. Bullets, Name (native name): description, each telling the metaphysics and the physics as one account (the Wellspring, plane, law or debt together with the real phenomenon, the law, the boundary condition the glyph supplies) and how it plays in a fight. A Nature bullet (passive or active, scaling, bound to what, figures). Cost, Tell, Counter and Failure bullets. Signatures and releases add how it plays against a higher Stage.
+4. **Applications.** (Folded into the bullets; no separate list.) List eight to fifteen discrete uses the mechanism lawfully allows, the Superpower Wiki way: a short sentence each, drawn from the wiki's list for the nearest power and from the physics. Each stays inside the cost and the limit. Isaac's direction (2026-10-31) makes the Superpower Wiki a primary source for design, application, variation, association and limitation; WOTR canon governs every fact and number. The long tail is the veteran's kit, available the moment the page finds a use.
 5. **Variations and Associations.** The ways the art twists in a different user or school, and the neighboring arts it combines with (Resonant Pairs, Synergia).
 6. **Sensory signature.** Take the Wellspring's signature from `desktop/style-bank/wellspring-signatures.md`: hue, sound, smell or taste, touch, the user's body, and the tell. Add the technique's own signature sound word.
 7. **Sample display.** A signature technique or a release gets a short sample first display (all four channels, a visible charge, scaled to the technique) for Isaac to approve before it is saved. A small trick goes straight to the card.
 8. **Name.** One name, the best, with the reason; English, one beat; Isaac changes it if he wants.
-9. **Notes.** The full research (Superpower Wiki findings, the physics, the Wellspring and Codex lookups, the sources) goes in the notes page, and the entry itself stays in plain everyday words with no physics section. Chat gets a one-line summary.
+9. **Notes.** The full research (Superpower Wiki findings, the physics, the Wellspring and Codex lookups, the sources) goes in the notes page, and the entry itself carries the full physics and metaphysics in its bullets, every technical term explained on first use (DEPTH AND EXPLANATION in `desktop/NATALIE.md`, Isaac 2026-11-03). Chat gets a one-line summary.
 10. **Overlap.** Compare against the existing kits. If the new art overlaps or outclasses another, surface it to Isaac with a recommendation (keep both and mark the difference, merge, or cut); he decides.
 11. **File.** The entry goes to the character's card or the technique page through the wiki tools; canon on use once Isaac keeps it.
+
+## Depth standard (DEPTH AND EXPLANATION in `desktop/NATALIE.md`, Isaac 2026-11-03)
+
+An entry leaves nothing to guess. Every bullet that describes the art answers, at length:
+
+- **The charge and the draw.** What the user's body does to start it, and what anyone watching can see coming; Essence off the Soul Crystal through the Shell, the Wellspring and its Family, the η and where the lost share shows as waste heat.
+- **The look and the room.** The aura's color, shape and motion and how they change as it builds; what it does to the air, light, temperature, pressure, ground and water around it; its sound word, smell, taste and touch from the Wellspring's signature. Written vividly, the air cracking and rippling, the light bending, the stone groaning, in whatever words make it clearest, chosen fresh for this art.
+- **The mechanism, step by step.** The real phenomenon named with its law and explained so a reader with no physics can follow it (an analogy is welcome), told as one account with the metaphysics (the Wellspring's law, the glyph's boundary condition).
+- **In a fight.** How it rides a blow, both damages written; how it plays against a higher Stage.
+- **The counter and the failure.** What the counter physically does to the mechanism, and the Wellspring's named failure mode explained, not just named.
+
+Jargon of every kind is welcome (physics, engineering, anatomy, martial, system terms) as long as it is explained where it first appears. The sample display in step 7 is written to the Working Card.
 
 ## Entry template
 
 ```
-NAME IN CAPS (gloss) [kind]
-One paragraph, plain words, figures inline: mechanism, cost, condition, tell, the counter.
-
-Applications
-- (a short sentence per use, drawn from the nearest Superpower Wiki power and from the physics)
-
-Variations
-- (how it twists in another user or school)
-
-Associations
-- (neighboring arts it chains with)
-
-Limits
-- (what stops it, including the Wellspring's named failure mode)
+### Technique: Name (native script · Romanization)
+Intro. What it is, in one developed paragraph.
+* **Part (native name):** what it does; the metaphysics and physics as one account; how it plays in a fight.
+* **Nature:** passive or active, scaling, bound to what, figures.
+* **Cost and Tell:** ...
+* **Counter and Failure:** ...
 ```
 
 

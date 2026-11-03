@@ -919,7 +919,7 @@ rules:
   pack_number: null
   section: VB4
   title: An antique-word dial per culture
-  status: live
+  status: superseded
   kind: mandate
   summary: Each Standing Inventory sets its culture's narration dial to plain, period or archaic as law,
     and narration's words follow the dial of the POV's culture.
@@ -960,7 +960,7 @@ rules:
   pack_number: null
   section: VB5
   title: Exact terms for apparatus and workings, plain words for an untrained body
-  status: live
+  status: superseded
   kind: mandate
   summary: Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's
     own body and his reading of the scene in plain words, and still meets Check 30's floor.
@@ -1269,7 +1269,7 @@ rules:
   pack_number: null
   section: IN1
   title: Italic thought may talk the way the POV talks
-  status: live
+  status: superseded
   kind: mandate
   summary: Italic thought may use any word the POV would say aloud, modern words included, while plain
     narration keeps its timeless register and verify drops italic thought from the modern-word check.
@@ -3360,7 +3360,7 @@ rules:
   pack_number: null
   section: CB1
   title: Duel moves named in the POV's own school
-  status: live
+  status: superseded
   kind: mandate
   summary: European-school guards, cuts, timing and measure are narrated as body actions in every post,
     scene and book, without European fencing jargon (R77-1); whether Eastern-school terms follow that ban

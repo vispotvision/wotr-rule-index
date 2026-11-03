@@ -15,10 +15,7 @@ rules:
   section: R78-1-VOCABULARY_PUSHED_HIGH
   title: Physical clarity and saturated English vocabulary
   kind: mandate
-  summary: Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the
-    read; elevated English of every root in nearly every narration sentence, stackable, fights included;
-    elevated verbs, plain body parts; workings shown physically then named in system and science terms
-    freely; Latin-heavy diction only for characters who speak it.
+  summary: "Blows written as body, path, target and result; workings shown physically and named in system and science terms freely; Latin-heavy diction only in the speech of characters who speak it. [Amended: technical and martial terms (the line, measure, tempo, the read) are welcome beside the body when explained (R80-22, R80-25); the elevated-English density and elevated-verb rules give way to no house vocabulary (R80-24).]"
   verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/):
     physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved,
     the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or
@@ -446,7 +443,7 @@ rules:
     his circle''s size floats; story beats such as crews are a palette, never owed per thread.'
 - pack: Directions 2026-10-14
   pack_number: null
-  status: live
+  status: superseded
   supersedes: []
   ratified: 'Isaac, 2026-10-16, Claude Code chat: direction'
   source:

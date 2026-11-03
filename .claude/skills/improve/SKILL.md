@@ -8,8 +8,8 @@ description: Improve one of Isaac's posts. Use when Isaac types /improve or past
 A free rewrite (`desktop/NATALIE.md`, "Improve my post"). His intent, voice, tense and person stay; his post still wins. Return the rewrite alone, with no commentary.
 
 Fix four things, in this order of attention:
-1. **Body and blows.** The Blow Card on every blow, landed or not; the Kill Card at a kill; wounds that carry.
-2. **Magic on the blow.** The technique rides inside the hit, with its Wellspring signature, a visible charge, and its cost.
+1. **Body and blows.** The Blow Card on every blow, landed or not, every part written out; the fighters placed in space; the Kill Card at a kill; wounds that carry.
+2. **Magic on the blow.** The technique rides inside the hit and runs the Working Card: charge, draw, aura, what the air and ground do, the senses, the mechanism in physics and metaphysics explained, the cost (DEPTH AND EXPLANATION in `desktop/NATALIE.md`, Isaac 2026-11-03).
 3. **Voice and heat.** Distinct voices by culture and rank, anime-big feeling, color and sound words in the lexicon's palette, American spelling.
 4. **Continuity and rules.** Positions, limits, tense, canon; no new technique growth, Level points or card changes (those stay his).
 

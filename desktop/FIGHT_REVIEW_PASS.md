@@ -26,10 +26,16 @@ Read the draft against the state sheet and answer each line. A "no" is fixed in 
 13. Does the fight have its own signature image, one thing the reader has not seen in any other fight?
 14. Do the same verbs, sounds or sentence frames recur inside this fight more than the moment earns?
 
-## Clarity of the working
-15. Is the technique explained once, in the right voice, with its cost? Is the explanation shorter than the damage it causes?
-16. Is the planted clue paid off, and is it visible on a second read?
+## Depth and clarity (Isaac, 2026-11-03)
+15. Does every working run the Working Card (charge, draw, aura, the room, the senses, the mechanism in physics and metaphysics, the effect, the cost)? Mark any working shown only as light and a name.
+16. Is every failure or counter explained as fully as a success, physically and metaphysically?
+17. Does the world answer each big moment (the air cracks and ripples, light bends, the ground groans), in vivid and elevated language, without reusing a device from `used-devices.md`?
+18. Is every technical, martial or system term explained on its first use, and set beside the body rather than in place of it?
+19. Is every blow placed in space: which foot, which hip, the path of the limb, and where both fighters stand after? Could a reader draw the ring at every exchange?
+20. Does the geography hold from first line to last? Does every rule the climax uses appear earlier, uncontradicted? Do the terms of the contest match what the fighters carry?
+21. Does any character think in table words (card, row, sheet, rule id)? Cut them.
+22. Is the planted clue paid off, and is it visible on a second read?
 
 ## After the pass
-17. Add the fight's signature image and any new stock device to `used-devices.md`.
-18. Run `verify_scene` with combat=True; fix every FAIL.
+23. Add the fight's signature image and any new stock device to `used-devices.md`.
+24. Run `verify_scene` with combat=True; fix every FAIL.

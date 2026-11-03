@@ -1,3 +1,12 @@
+> **Amended 2026-11-03 by Isaac's direction (DEPTH AND EXPLANATION in `desktop/NATALIE.md`).** This block governs over every older line below and over the 2026-10-17 block where they disagree.
+>
+> - **More is better.** Every blow, working and moment is shown and explained so fully that nothing about how it happened, why it worked or what it did is left to confusion. Thin is wrong.
+> - **Blows.** The Blow Card at full weight on every blow, every part written out, the force followed to where it went; the fighters placed in space (footing, distance, facing, what is in each hand) between exchanges.
+> - **Workings.** The Working Card replaces the one clear causal line: charge, draw (Soul Crystal, Shell, η, waste heat), aura, the room, the senses, the mechanism step by step in physics and metaphysics as one account, the effect, the cost. A failure or counter is explained as fully as a success.
+> - **Atmosphere.** The world answers each moment in vivid, kinetic, mystical language (the air cracks and ripples, light bends, the ground spiderwebs and groans), every moment in its own words; no house vocabulary (Isaac, 2026-11-03), so R78-1, R78-11, R70-27 and R70-37 retire.
+> - **Jargon.** Physics, engineering, anatomy, martial terms Eastern and Western (the line, measure, tempo, the read included) and every system term are welcome, explained on first use, beside the body and never in place of it. The R77-1 ban and the R78-3 ban on line, measure, tempo, vector and geometry retire as bans.
+> - **Clarity.** Geography holds; the terms of the contest match the kit; the climax uses only rules planted earlier; nobody thinks in table words.
+
 > **Amended 2026-10-17 by Isaac's direction (R79-1 to R79-7, `rules/doc-directions-2026-10-17.yaml`).** Where this edition, the 2026-10-14 list below and this list disagree, this list governs; the sections below stay as written until the next edition folds it in.
 >
 > - **Roleplay fights (Table Rule 6, R77-2).** A roleplay fight shows the full mechanism on the page, like a written set piece; the tells-only rule for roleplay is gone (R79-6). Natalie may write his PC in a fight, his post winning over what she wrote; other creators' characters stay hands-off (R79-1).

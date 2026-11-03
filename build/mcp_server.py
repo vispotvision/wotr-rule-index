@@ -676,12 +676,12 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
 def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard", school: str = "", turn: bool = False,
                  explicit: bool = False) -> str:
     """Mechanical prose checks on a draft before it is posted (R79-3 to R79-7): em dashes,
-    antithesis, countdown negation, the Ladder, apparatus-as-subject, gloss watch,
-    signposting, hard-ban words and phrases, modern words in narration, stale devices.
-    No rhythm, length or count checks: the word count prints as information (about
-    3,500 every in-fiction reply, R79-1). European fencing jargon is WARNed (R77-1).
-    combat=True adds blade body/action and anatomy evidence (plain parts count), the
-    fight-abstraction WARN, and WARNs on any readout or narrated figure in a fight
+    antithesis, countdown negation, the Ladder, apparatus-as-subject, signposting,
+    hard-ban words and phrases, stale devices. No rhythm, length or count checks:
+    the word count prints as information (no word count, Isaac 2026-10-30). Jargon,
+    glosses and modern words are free (R80-22, R80-24, R80-26).
+    combat=True adds blade body/action and anatomy evidence (plain parts count)
+    and WARNs on any readout or narrated figure in a fight
     (R79-6); school: blade, japanese, chinese, korean, percussion, boxing, firearms,
     kharven (Eastern terms are free and never required). explicit=True adds the floor
     guard and the euphemism list (R73-41, R79-7). Run once a turn, fix every FAIL,
@@ -990,7 +990,7 @@ def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", cultu
         "2. This POV knows: ____ | wrongly believes: ____ | the reader knows that they do not: ____  (R5-C1-INFO_TRACKED_PER_POV)",
         "3. What it costs, specific and visible (reserve, body, debt, renown, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)",
         "4. Closes on: ____  (a chapter or arc on a hook; a scene on any concrete close, a pressing question included; a turn at his next real decision: a risk, a bargain, a fight, a line that matters. R79-1, R79-4)",
-        "5. Length: about 3,500 words (R79-1)",
+        "5. Length: no word count; as long as the beat needs (R80-11)",
         "6. Each named practitioner's kit, read from character(name) once per scene: Traits, techniques, skills by name, with cost and limit. NPCs reach for theirs unprompted and inventively, fresh uses derived from the mechanism and inside its limits; his PC may get inventive new uses of his own abilities, while new techniques, Level points and card changes stay Isaac's (R79-1, 2026-10-17 refinement): ____",
     ]
     if scene_type in ("duel", "working"):
@@ -1747,7 +1747,7 @@ def gap_fill(markdown: str) -> str:
            f"2. LOGIC AUDIT — {causal} causal connectives in the text (check 24 fails a fight passage with none). For every outcome: which stat row decided it (R14-3-TRACEABILITY)? Name the row in the author notes.",
            f"3. STRATUM AUDIT — mentions: Aether {strata['Aether']}, Wellspring {strata['Wellspring']}, Essence {strata['Essence']}. The page owes one clear causal line at first display; the full three-strata account lives on the card and in the notes (R79-6, superseding R13-2-THREE_STRATA_MANDATE).",
            f"4. PHYSICS AUDIT — real-science terms present: {', '.join(f'{k}×{v}' for k, v in sci.most_common(8)) or 'none'}. Each Wellspring law is stated as the real law with a directional operator (R13-2-STRATUM_TWO_WELLSPRING).",
-           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R77-1). Every blow is body, path, target, result and cost; wounds plain and anime on the page, clinical names and ATLS class in the notes and a medic's mouth; the POV's own body on the page. Roleplay fights show the full mechanism like a set piece; figures live in mouths, never narration (R79-6).",
+           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R80-4). Every blow is body, path, target, result and cost; wounds plain and anime on the page, clinical names and ATLS class in the notes and a medic's mouth; the POV's own body on the page. Roleplay fights show the full mechanism like a set piece; figures live in mouths, never narration (R79-6).",
            f"6. PHENOMENON AUDIT — for each working: the real phenomenon it runs on, its Physics Domain and Wellspring, Category and alignment tag, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE). Write the line in the author notes if the text does not carry it.",
            f"7. VOCABULARY PASS — Mechanism Vocabulary present: {', '.join(f'{k}×{v}' for k, v in mech.most_common(8)) or 'none'}. Show the effect first, then name it; system and science terms are free in narration (R78-3, amending R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).",
            "8. PROSE PASS (last) —", Vf.report(prose),

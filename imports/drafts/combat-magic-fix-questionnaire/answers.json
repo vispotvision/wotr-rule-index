@@ -1,0 +1,38 @@
+{
+  "context": "Isaac, 2026-11-03: fix every confusion in the combat and magic rulings, built from an audit of NATALIE.md, R80, live rows, guides, skills and verify.py, plus the last four archived scenes.",
+  "batch1": {
+    "fast_trades": "All parts, written tight: every Blow Card part stays in every blow; quick trades compress the wording into long cumulative sentences instead of dropping parts.",
+    "repeat_uses": "Full first, then what changed: full Working Card at first display, at the finisher, and whenever something changes (new use, counter, overreach); ordinary repeats write charge, effect and cost plus whatever is different this time.",
+    "eta_and_reserve": "Concepts and proportions: narration names eta as an idea and gives the loss in proportions and body; exact figures only in mouths and the notes.",
+    "who_explains": "Any POV, in its own words: narration explains the full mechanism in every POV; an untrained POV explains it in plainer, more wondering words, but the reader still gets all of it. Dialogue still limited to what the speaker could know."
+  },
+  "batch2": {
+    "hidden_cards": "Effect first, full card at reveal: a held-back card fires and its effect is shown in full body detail; the full mechanism is explained the moment it is revealed, in the same exchange. The reader is puzzled for a beat, never left there.",
+    "fight_thought": "By the card: the read in every blow is behavior plus a quick thought; extended reasoning follows the fighter's card (analysts think whole exchanges through, brawlers barely). The review pass checks against the card, not a count.",
+    "physics": "Named and explained on page: the real phenomenon and its law are named and explained in plain words on the page, with an analogy where it helps; the exact math stays in the notes.",
+    "wound_words": "Welcome in narration: clinical names in narration when explained alongside the plain body; hemorrhage class still in notes and medics' mouths."
+  },
+  "batch3": {
+    "word_bans": "Stock phrases only: ban only exact cliche phrases; unban single words; canon Wellspring signatures exempt; verify_scene changes to match.",
+    "sounds": "Signatures stay, impacts retire: technique and Wellspring signature sounds recur forever; the ledger retires only impact sounds and images. Two techniques of one Wellspring share its smell and texture but each keeps its own sound word.",
+    "releases": "Called for full, silent weaker: calling the release aloud gives the full rise; a silent release is possible and weaker, the fighter's choice.",
+    "stacking": "Own Domain inside the cap: own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself."
+  },
+  "batch4": {
+    "pc_choices": "Decide by card, flag it: on a 'continue', carry the PC through his open decision by his card and oath, say so in the notes; Isaac overturns by rewrite.",
+    "pc_history": "Freely, canon on use: invent what the scene needs, his past included, flagged in the notes; it stands unless he strikes it.",
+    "pc_wounds": "I write them on: wounds and their lasting effects go on the card at scene end; he strikes or changes them. Level, Stage and techniques stay his.",
+    "entry_shape": "His layout, no list: heading per Trait or Technique, native name, intro, bullets with metaphysics and physics as one account and the combat use inside each bullet; Nature, Cost and Tell, Counter, Failure bullets. No Applications list."
+  },
+  "batch5": {
+    "card_scope": "Everything, scaled: all magic gets the Working Card at its first show in a scene; the always-on aura and reinforcement get it once, then live as body tells for the rest of the fight.",
+    "card_merge": "Interleaved; Kill extends: the working's charge and draw ride the blow's set, aura and room ride the read and contact, mechanism and effect sit beside the tissue, cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.",
+    "battles": "Lead's blows full, mass by bodies: the POV's own fight in a battle gets full Blow Cards; the mass is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (afterimage, wound, position), explained.",
+    "cleanups": [
+      "Rows and guides",
+      "verify.py",
+      "Fight exemplars",
+      "Recent scenes"
+    ]
+  }
+}

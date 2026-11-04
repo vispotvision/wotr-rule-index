@@ -303,3 +303,21 @@ exempt), allows en dashes, drops the emotion-signpost WARN, narrows hypophora to
 a question answered at once, and adds a "thin blow?" WARN in combat (a strike
 with no tissue or body mechanics in its paragraph and neighbors; a read, not a
 gate). Evidence: commits d558966 to fadc822.
+
+### 2026-11-04 — The WOTR MCP moves to Rust (Isaac's decision; recorded by Claude Code)
+
+Isaac asked for the MCP, verify and most of the architecture in Rust, for speed.
+Measured first: the slowness was PyYAML's pure-Python loader (load_rules 1.6 s,
+now 0.16 s via CSafeLoader in `build/common.py`) and a quadratic loop in
+`build/embed_index.py` search; both fixed in Python. Phase 1 of the port is
+done: `rust/` serves stdio MCP (`.mcp.json`), ten tools native, the rest via
+`build/mcp_worker.py`; `rust/parity.py` shows all 1,539 cases byte-identical
+(every scene through verify with four flag sets). Startup 1 ms vs 476 ms.
+Found on the way: verify's floor guard read no character cards (stale path,
+fixed in `build/verify.py`; it now sees 55 names, two under eighteen), and
+rules packs 1, 2, 4 and 6 each repeat one YAML key (the first value is
+silently dropped by both loaders; reported to Isaac, not edited). Next phases:
+HTTP + token gate + a key dashboard (named API keys, permissions, which are
+online; localhost only), then wiki/scene search, then the writing tools.
+Isaac no longer uses Codex or Antigravity.
+

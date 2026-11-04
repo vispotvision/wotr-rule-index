@@ -1,8 +1,10 @@
 {
   "mcpServers": {
     "wotr": {
-      "command": "bash",
-      "args": ["build/py.sh", "build/mcp_server.py", "--ops"]
+      "command": "rust/target/release/wotr-mcp",
+      "args": [
+        "--ops"
+      ]
     }
   }
 }

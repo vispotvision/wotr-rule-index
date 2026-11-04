@@ -67,6 +67,14 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   more than one card in play (Sodoku Moto: the Volume I card and the Level-500
   "Arctic Lion" page); the thread's latest archived scene says which; check
   before you trust `fow_line`.
+- **WOTR MCP in Rust** (`rust/`, binary `rust/target/release/wotr-mcp`, since 2026-11-04) —
+  what `.mcp.json` now launches. Ten tools run natively (load_rules, rule, check_docket,
+  list_conflicts, natalie, natalie_gpt, skill, character, fow_line, verify_scene); every other
+  tool goes to one long-lived `build/mcp_worker.py`, which imports `mcp_server.py`. Tool names,
+  descriptions and schemas come from `rust/tools.json`: after changing a Python tool's
+  signature or docstring run `rust/target/release/wotr-mcp dump`. After changing a native tool
+  in either language run `bash build/py.sh rust/parity.py` (exit 0 = byte-identical output).
+  HTTP, the token gate and the key dashboard are not ported yet: the public units still run Python.
 - **WOTR MCP** (`build/mcp_server.py`, 45 tools) — what Claude Desktop
   ("Natalie"), Claude Code (`.mcp.json`), the Discord bot and the book pipeline
   use. **Without an MCP client, 21 of the read-only tools are a command line:**
@@ -137,7 +145,8 @@ desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md �
               wotr-technique, wotr-lookup, wotr-start; wotr-book drives the book pipeline; the MCP
               serves them all through skill() and as prompts); Workflow scripts (book-chapter.js, judger-assist.js)
               — the Workflow scripts run only in Claude Code; other agents use book_tools.py
-.mcp.json     registers WOTR MCP for Claude Code sessions here
+.mcp.json     registers WOTR MCP for Claude Code sessions here (the Rust binary)
+rust/         the Rust MCP: src/ (main, rules, verify, pages, util), tools.json, parity.py
 CLAUDE.md CONTINUE.md ROADMAP.md CONFLICTS.md RULINGS.md PROGRESS.md BRIEF.md README.md
 ```
 
@@ -229,6 +238,9 @@ python build/book_next.py --approve 1              # or --reject 1 --note "..."
 python build/judger_apply.py <scene-slug>          # list proposals; then P01 P03 ... to apply the ids he names
 
 # the MCP itself
+(cd rust && cargo build --release)        # build the Rust MCP; .mcp.json runs rust/target/release/wotr-mcp --ops
+rust/target/release/wotr-mcp verify draft.md --combat   # verify.py's command line, in Rust
+bash build/py.sh rust/parity.py           # Rust vs Python over the whole archive; must exit 0
 python build/mcp_server.py                # stdio, all 45 tools (what .mcp.json registers)
 python build/mcp_server.py --public       # read-only + token, what the unit runs
 

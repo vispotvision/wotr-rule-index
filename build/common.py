@@ -105,9 +105,13 @@ def load_vocab() -> set:
     return set(re.findall(r"^\|\s*`([a-z-]+)`", body, flags=re.M))
 
 
+# libyaml's C parser, ~10x faster than the pure-Python SafeLoader; same safe semantics.
+_YAML_LOADER = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+
+
 def load_rule_files():
     for path in sorted(RULES_DIR.glob("*.yaml")):
-        doc = yaml.safe_load(path.read_text(encoding="utf-8"))
+        doc = yaml.load(path.read_text(encoding="utf-8"), Loader=_YAML_LOADER)
         if not doc or "rules" not in doc:
             continue
         yield path, doc

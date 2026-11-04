@@ -160,7 +160,9 @@ EUPHEMISM = re.compile(r"\b[Hh]is member\b|\b[Hh]er sex\b|(?<!into )(?<!toward )
 # roster carries no ages yet, so its people WARN as unaged until it does.
 WIKI = Path(__file__).resolve().parent.parent / "wiki"
 ROSTER = WIKI.parent / "table" / "npcs.yaml"
-CARD_DIRS = ("Volume I \u2014 Character Cards", "Characters")
+# the cards moved under Characters/ with the vault (2026-10-15); the old path matched nothing, so the
+# floor guard saw only the table roster
+CARD_DIRS = ("Characters/Volume I \u2014 Character Cards", "Characters")
 NAME_TITLES = {"The", "Lord", "Lady", "Sir", "Ser", "Dr.", "Commander", "Elder", "Captain"}
 AGE_FIELD = re.compile(r"\*\*Age(?:\s*/\s*\w+)?[:.]?\*\*[ \t]*[:.·|]?[ \t]*([^·|\n]+)|(?:^|\.[ \t])Age (\d{1,4})\.", re.M)
 _NUM = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()

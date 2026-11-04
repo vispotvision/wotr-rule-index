@@ -59,3 +59,6 @@ inbox/
 # the read-only route (wotr-mcp-readonly.service, Funnel path /ro)
 build/.mcp_token_ro
 build/mcp_readonly.log
+
+# the Rust MCP's build output (cargo build --release in rust/)
+rust/target/

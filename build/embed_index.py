@@ -196,15 +196,21 @@ def search(query: str, corpus: str, limit: int = 5, per_file: int = 2) -> list[d
     q /= max(float(np.linalg.norm(q)), 1e-9)
     sims = ix["vecs"] @ q
     by_file: dict[str, dict] = {}
+    unfilled = 0  # files still short of per_file chunks; replaces an O(n) all() per chunk
     for i in np.argsort(-sims):
         c = ix["chunks"][i]
         if c["corpus"] != corpus:
             continue
-        h = by_file.setdefault(c["path"], {"path": c["path"], "title": c["title"],
-                                            "score": float(sims[i]), "chunks": []})
+        h = by_file.get(c["path"])
+        if h is None:
+            h = by_file[c["path"]] = {"path": c["path"], "title": c["title"],
+                                      "score": float(sims[i]), "chunks": []}
+            unfilled += 1
         if len(h["chunks"]) < per_file:
             h["chunks"].append((c["heading"], c["text"], float(sims[i])))
-        if len(by_file) > limit * 4 and all(len(h["chunks"]) >= per_file for h in by_file.values()):
+            if len(h["chunks"]) == per_file:
+                unfilled -= 1
+        if len(by_file) > limit * 4 and unfilled == 0:
             break
     hits = sorted(by_file.values(), key=lambda h: -h["score"])
     return hits[:limit]

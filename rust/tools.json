@@ -1,0 +1,1736 @@
+{
+ "instructions": "Tools over the War of the Realms rule index at /home/oridon/wotr-rule-index. Claude Code sessions in the repo skip the natalie call: CLAUDE.md already imports NATALIE.md. Every other client calls natalie once at the start of a session (it is on the ops surface; a client without it reads NATALIE.md from its project knowledge). Rule loading is lean: once a session, before the first writing, load_rules(tags=[], brief=True), every live rule as one line; load a domain in full (load_rules with its applies_to tags: prose-law for any prose; combat, adjudication, magic-mechanism, pov, dialogue, register, naming, items, scene-structure, mass-combat, stats, magic-design, codex, worldbuilding, standing-inventory, character-sheet, documents, verification, session-protocol) the first time the work touches it, and do not re-read after compaction. Rules print newest pack first; the newer governs where two overlap. The WOTR skills are on this server: skill() lists them, skill(name) loads one to follow; start with wotr-start.",
+ "tools": [
+  {
+   "name": "load_rules",
+   "description": "Load the rules in force for a task. tags: applies_to tags (see instructions).\nstatus defaults to [\"live\"]. brief=True returns one line per rule, id: summary.\ntags=[] with brief=True is the whole live rulebook: read it once a session.\npart=N (from 1) returns it in batches of ~25k tokens for clients that truncate\nlong results; the header names the part count. Read every part.",
+   "inputSchema": {
+    "properties": {
+     "tags": {
+      "items": {
+       "type": "string"
+      },
+      "title": "Tags",
+      "type": "array"
+     },
+     "status": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Status"
+     },
+     "brief": {
+      "default": false,
+      "title": "Brief",
+      "type": "boolean"
+     },
+     "part": {
+      "default": 0,
+      "title": "Part",
+      "type": "integer"
+     }
+    },
+    "required": [
+     "tags"
+    ],
+    "title": "load_rules_toolArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "rule",
+   "description": "One rule in full by id, e.g. R12-3-COMBAT_EXCHANGE_OWES or R13-C.",
+   "inputSchema": {
+    "properties": {
+     "id": {
+      "title": "Id",
+      "type": "string"
+     }
+    },
+    "required": [
+     "id"
+    ],
+    "title": "ruleArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "natalie",
+   "description": "desktop/NATALIE.md, Natalie's standing instructions: who Natalie is, the\ntable rules, the culture inventories. Read it at the start of\nany WOTR session. section = a heading's words to return just that part.\nWith no section, desktop/NATALIE.gpt.md (the ChatGPT overlay) is appended at the end\nunder a header that Claude skips; section = \"ChatGPT\" returns the overlay alone.",
+   "inputSchema": {
+    "properties": {
+     "section": {
+      "default": "",
+      "title": "Section",
+      "type": "string"
+     }
+    },
+    "title": "natalieArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "natalie_gpt",
+   "description": "desktop/NATALIE.gpt.md, the overlay for ChatGPT sessions only. Call it right after\nnatalie when you are a GPT model: how to read NATALIE.md (act instead of asking,\nwhich rule wins, where numbers come from), your own prose tells, and a worked example\nof the prose Isaac wants. Claude sessions do not need it.",
+   "inputSchema": {
+    "properties": {},
+    "title": "natalie_gptArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "check_docket",
+   "description": "Pending open rulings and proposed (never-ratified) rules touching these tags.\nIf one would materially change what you are about to write, ask Isaac before writing.",
+   "inputSchema": {
+    "properties": {
+     "tags": {
+      "items": {
+       "type": "string"
+      },
+      "title": "Tags",
+      "type": "array"
+     }
+    },
+    "required": [
+     "tags"
+    ],
+    "title": "check_docketArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "list_conflicts",
+   "description": "CONFLICTS.md: live rules that contradict each other, awaiting Isaac's ruling.",
+   "inputSchema": {
+    "properties": {},
+    "title": "list_conflictsArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "archive_scene",
+   "description": "Save a finished scene. Writes scenes/<slug>.md (title as the H1, author notes\nappended under '## Author notes'), copies it to the wiki's Scene Archive as a private\npage, commits and pushes. Returns the file paths.",
+   "inputSchema": {
+    "properties": {
+     "title": {
+      "title": "Title",
+      "type": "string"
+     },
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     },
+     "author_notes": {
+      "default": "",
+      "title": "Author Notes",
+      "type": "string"
+     }
+    },
+    "required": [
+     "title",
+     "markdown"
+    ],
+    "title": "archive_sceneArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "wiki_write",
+   "description": "Write a whole wiki page (the Obsidian vault; Notion is retired) and push it:\nthe Ledger, a Front, any page. path is relative to wiki/, e.g.\n'The Table — Running Pieces/The Ledger.md'. markdown is\nthe full page, frontmatter included if it has one; an existing page's frontmatter\nis kept when markdown brings none. The public site rebuilds on push; pages in\nprivate folders or with 'private: true' stay off it.",
+   "inputSchema": {
+    "properties": {
+     "path": {
+      "title": "Path",
+      "type": "string"
+     },
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     },
+     "message": {
+      "default": "",
+      "title": "Message",
+      "type": "string"
+     }
+    },
+    "required": [
+     "path",
+     "markdown"
+    ],
+    "title": "wiki_writeArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "log_ruling",
+   "description": "Record a ruling Isaac made at the table (rule_id may be a rule id, a CONFLICTS id\nlike C-001, or 'new'). Appended to RULINGS.md and pushed; applied to the index\nin the next Claude Code session.",
+   "inputSchema": {
+    "properties": {
+     "rule_id": {
+      "title": "Rule Id",
+      "type": "string"
+     },
+     "ruling": {
+      "title": "Ruling",
+      "type": "string"
+     },
+     "context": {
+      "default": "",
+      "title": "Context",
+      "type": "string"
+     }
+    },
+    "required": [
+     "rule_id",
+     "ruling"
+    ],
+    "title": "log_rulingArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "sync_now",
+   "description": "Run build/sync.sh: commit and push wiki edits made in Obsidian (the site rebuilds) and render the Ledger, Fronts and roster pages.\nTakes a minute or two.",
+   "inputSchema": {
+    "properties": {},
+    "title": "sync_nowArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "wiki",
+   "description": "Search the wiki (the Obsidian vault, the source since 2026-10-15) by meaning and by keyword. Returns the best\nmatches with the passages that matched, and the full text of the top page (capped)\nwhen full=True. limit is how many\npages come back; raise it when surveying what exists rather than looking one up.",
+   "inputSchema": {
+    "properties": {
+     "query": {
+      "title": "Query",
+      "type": "string"
+     },
+     "full": {
+      "default": true,
+      "title": "Full",
+      "type": "boolean"
+     },
+     "limit": {
+      "default": 6,
+      "title": "Limit",
+      "type": "integer"
+     }
+    },
+    "required": [
+     "query"
+    ],
+    "title": "wikiArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "character",
+   "description": "A character's card from the wiki mirror (the Volume I-V Character Cards and\nsingle-character sections), full text. Say if none exists rather than inventing.",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     }
+    },
+    "required": [
+     "name"
+    ],
+    "title": "characterArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "fow_line",
+   "description": "The Fracture of Worlds line for a named practitioner, pulled from their card:\nLevel / Stage / Band, the stat table, force-and-flow figures, EU reserve, eta.\nIf the card has no numbers, says so. Never invent a number.",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     }
+    },
+    "required": [
+     "name"
+    ],
+    "title": "fow_lineArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "scene_recall",
+   "description": "Search the scene archive (scenes/) for continuity: who said what, what happened\nwhere. Matches by meaning as well as by keyword, so describe the moment in your\nown words. Returns the best-matching scenes with the passages that matched.\nlimit is how many scenes come back; raise it when tracing how a thread connects\nacross the archive rather than looking up one moment.\nold_lore=True searches the archive from before the 2026-10-18 lore reset\n(lore/v1/scenes) instead; every hit is labelled old lore and is never canon for\nevents in the current lore, only a record of what was written then.",
+   "inputSchema": {
+    "properties": {
+     "query": {
+      "title": "Query",
+      "type": "string"
+     },
+     "limit": {
+      "default": 8,
+      "title": "Limit",
+      "type": "integer"
+     },
+     "old_lore": {
+      "default": false,
+      "title": "Old Lore",
+      "type": "boolean"
+     }
+    },
+    "required": [
+     "query"
+    ],
+    "title": "scene_recallArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "session_start",
+   "description": "Where a thread stands, in one call, for any thread name (R79-8): the thread's last\narchived scene (title, date and its last ~1,500 words), the Standing Inventory for the\nculture, the Ledger lines that have come due, and the inbox count. For Natalie's eyes\nonly; nothing from it is printed as a recap. scene_type is kept for callers and unused:\nload_rules and fow_line are called when the scene needs them.",
+   "inputSchema": {
+    "properties": {
+     "thread": {
+      "title": "Thread",
+      "type": "string"
+     },
+     "scene_type": {
+      "default": "standard",
+      "title": "Scene Type",
+      "type": "string"
+     },
+     "culture": {
+      "default": "Kharven",
+      "title": "Culture",
+      "type": "string"
+     }
+    },
+    "required": [
+     "thread"
+    ],
+    "title": "session_startArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "verify_scene",
+   "description": "Mechanical prose checks on a draft before it is posted (R79-3 to R79-7): em dashes,\nantithesis, countdown negation, the Ladder, apparatus-as-subject, hypophora,\nexact stock phrases (R81-9: single words and canon signatures are free), stale\ndevices. No rhythm, length or count checks: the word count prints as\ninformation (no word count, Isaac 2026-10-30). Jargon, glosses, modern words\nand emotion said aloud are free (R80-22, R80-24, R80-26).\ncombat=True adds blade body/action and anatomy evidence (plain parts count),\na thin-blow WARN (a strike with no tissue or body mechanics, R80-5, R81-1),\nand WARNs on any readout or narrated figure in a fight (R79-6, R81-3); school: blade, japanese, chinese, korean, percussion, boxing, firearms,\nkharven (Eastern terms are free and never required). explicit=True adds the floor\nguard and the euphemism list (R73-41, R79-7). Run once a turn, fix every FAIL,\nread the WARNs without looping on them.",
+   "inputSchema": {
+    "properties": {
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     },
+     "combat": {
+      "default": false,
+      "title": "Combat",
+      "type": "boolean"
+     },
+     "culture": {
+      "default": "",
+      "title": "Culture",
+      "type": "string"
+     },
+     "band": {
+      "default": "standard",
+      "title": "Band",
+      "type": "string"
+     },
+     "school": {
+      "default": "",
+      "title": "School",
+      "type": "string"
+     },
+     "turn": {
+      "default": false,
+      "title": "Turn",
+      "type": "boolean"
+     },
+     "explicit": {
+      "default": false,
+      "title": "Explicit",
+      "type": "boolean"
+     }
+    },
+    "required": [
+     "markdown"
+    ],
+    "title": "verify_sceneArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "codex",
+   "description": "Look a term up in The Master Codex, read from the xlsx (R18-6, never from\nmemory): a glyph token or name, a spell, an alchemical formula, a Pantheon\nmember, a Wellspring or Family. sheet narrows to one of The Pantheon, Master\nGlyph Index, Spell Index, Alchemical Index, Lists. Pack Eighteen step 4a:\nquery it for anything the scene will work before naming or writing it.",
+   "inputSchema": {
+    "properties": {
+     "query": {
+      "title": "Query",
+      "type": "string"
+     },
+     "sheet": {
+      "default": "",
+      "title": "Sheet",
+      "type": "string"
+     },
+     "limit": {
+      "default": 8,
+      "title": "Limit",
+      "type": "integer"
+     }
+    },
+    "required": [
+     "query"
+    ],
+    "title": "codexArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "codex_check",
+   "description": "Pack Eighteen checks 37-39 on a draft against The Master Codex: every\nLatinate coinage on the Lists sheet, every [Glyph] token in the Master Glyph\nIndex, and the Spell Index rows it names (precedent stays a manual call).",
+   "inputSchema": {
+    "properties": {
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     }
+    },
+    "required": [
+     "markdown"
+    ],
+    "title": "codex_checkArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "propose_rule",
+   "description": "File a rule Natalie originated at the table as a proposal (pending Isaac's\nratification). Appended to proposals/PROPOSED.md and pushed; folded into the next\namendment pack extraction. rule_text should be the rule as it would read in a pack.",
+   "inputSchema": {
+    "properties": {
+     "title": {
+      "title": "Title",
+      "type": "string"
+     },
+     "rule_text": {
+      "title": "Rule Text",
+      "type": "string"
+     },
+     "applies_to": {
+      "items": {
+       "type": "string"
+      },
+      "title": "Applies To",
+      "type": "array"
+     },
+     "rationale": {
+      "default": "",
+      "title": "Rationale",
+      "type": "string"
+     },
+     "session": {
+      "default": "",
+      "title": "Session",
+      "type": "string"
+     }
+    },
+    "required": [
+     "title",
+     "rule_text",
+     "applies_to"
+    ],
+    "title": "propose_ruleArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "ask_chatgpt",
+   "description": "Ask ChatGPT (Codex, on Isaac's ChatGPT plan) and get its answer back, in 10 to 90 s.\nIt works in this repo read-only, with the read-only WOTR tools: give it paths, not\npasted text. Use it for a second opinion, an adversarial review of a draft against the\nrules, research that would mean many reads, or a rival take on a beat or a name. Its\nanswer is input to check, never authority, and it can save nothing.",
+   "inputSchema": {
+    "properties": {
+     "prompt": {
+      "title": "Prompt",
+      "type": "string"
+     }
+    },
+    "required": [
+     "prompt"
+    ],
+    "title": "ask_chatgptArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "ask_claude",
+   "description": "Ask Claude (on Isaac's Claude plan, as Natalie, with this repo's CLAUDE.md) and get its\nanswer back, in 10 to 120 s: the mirror of ask_chatgpt, so the two check each other.\nRead-only: it reads the repo and the read-only WOTR tools and can save nothing. Give it\npaths, not pasted text. Its answer is input to check, never authority.",
+   "inputSchema": {
+    "properties": {
+     "prompt": {
+      "title": "Prompt",
+      "type": "string"
+     }
+    },
+    "required": [
+     "prompt"
+    ],
+    "title": "ask_claudeArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "research_chatgpt",
+   "description": "Hand a real-world research question to ChatGPT (live web search, on Isaac's ChatGPT plan)\nand get on with the work: the cited write-up lands in the inbox as a research item in 2 to\n10 minutes (read it with inbox). For the science behind an ability, a working, a wound, a\nmaterial or a phenomenon: it names the real phenomenon, the governing law with measured\nfigures, the limits, the failure modes and costs, the nearest fictional precedents, and\nevery source it opened. Outside research, never a rule source or a verbatim.",
+   "inputSchema": {
+    "properties": {
+     "question": {
+      "title": "Question",
+      "type": "string"
+     },
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     }
+    },
+    "required": [
+     "question"
+    ],
+    "title": "research_chatgptArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "chatgpt_image",
+   "description": "Make one image with ChatGPT's image model (on Isaac's ChatGPT plan), in 30 to 120 s.\nIt comes back shown inline, saved to ~/wotr-drafts/images/, with a link. Describe the\nwhole picture: subject, setting, light, palette, medium, framing. WOTR's look is\nArcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy and\nLord of the Mysteries (R53-28, R78-4), vivid and magitech-lit, never Berserk or Vinland. Describe a style rather\nthan naming a living artist, and no real person's likeness (Isaac's rule: reference,\nnever copies). The model letters signs and dials on its own, with Earth names\n(it wrote \"London\" on a gauge): ask for no text, or give the exact WOTR words.\nOpenAI's model refuses explicit content. name: a short file name.",
+   "inputSchema": {
+    "properties": {
+     "prompt": {
+      "title": "Prompt",
+      "type": "string"
+     },
+     "name": {
+      "default": "",
+      "title": "Name",
+      "type": "string"
+     }
+    },
+    "required": [
+     "prompt"
+    ],
+    "title": "chatgpt_imageArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "handoff",
+   "description": "Leave a research write-up or an image brief for a Claude session; nothing here touches\ncanon. kind: research | image (R79-12: only these two). body: the write-up with its\nsources, or the image brief. One handoff per item; Claude applies or declines each one.",
+   "inputSchema": {
+    "properties": {
+     "kind": {
+      "title": "Kind",
+      "type": "string"
+     },
+     "title": {
+      "title": "Title",
+      "type": "string"
+     },
+     "body": {
+      "title": "Body",
+      "type": "string"
+     },
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     }
+    },
+    "required": [
+     "kind",
+     "title",
+     "body"
+    ],
+    "title": "handoffArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "inbox",
+   "description": "What has been handed off (handoff) and not yet applied, oldest first.",
+   "inputSchema": {
+    "properties": {
+     "full": {
+      "default": true,
+      "title": "Full",
+      "type": "boolean"
+     }
+    },
+    "title": "inboxArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "inbox_done",
+   "description": "Close one inbox item after applying or declining it. outcome says which, and what was\nwritten where (e.g. 'applied: ledger_add L-0412' or 'declined: contradicts R71-6').",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     },
+     "outcome": {
+      "title": "Outcome",
+      "type": "string"
+     }
+    },
+    "required": [
+     "name",
+     "outcome"
+    ],
+    "title": "inbox_doneArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "stale_names",
+   "description": "The Büri/Moto sweep: every wiki page and scene still carrying a struck\nBüri-register term (from the Moto Reversion Ledger's tables: Büri, Ajiin, Altan,\nNüdel, Khar Ild, the Seven Works, Sātūlagi...). scope: all | wiki | scenes.\nReturns per-file counts with the governing replacement, worst first. Nothing is\nedited; the ruling is Moto in all new prose, old files flagged.",
+   "inputSchema": {
+    "properties": {
+     "scope": {
+      "default": "all",
+      "title": "Scope",
+      "type": "string"
+     },
+     "max_files": {
+      "default": 60,
+      "title": "Max Files",
+      "type": "integer"
+     }
+    },
+    "title": "stale_namesArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "scene_brief",
+   "description": "The short pre-write for a set piece (R79-2: scene_brief and the full pipeline are\nfor set pieces only; a turn goes straight to the draft). Give the beat Isaac handed\nyou; get back the brief to fill before drafting: POV choice (write from whoever knows\nleast, R5-C1), what the POV knows / wrongly believes / the reader knows, the cost,\nthe close, each named practitioner's kit; plus FOW lines for the named characters\nand the rule loadout for the scene type. The brief lives in the author notes at\narchive; nothing of it is printed under the scene. culture is kept for callers and\nno longer used.",
+   "inputSchema": {
+    "properties": {
+     "beat": {
+      "title": "Beat",
+      "type": "string"
+     },
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     },
+     "scene_type": {
+      "default": "standard",
+      "title": "Scene Type",
+      "type": "string"
+     },
+     "culture": {
+      "default": "Kharven",
+      "title": "Culture",
+      "type": "string"
+     },
+     "characters": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Characters"
+     }
+    },
+    "required": [
+     "beat"
+    ],
+    "title": "scene_briefArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "scene_context",
+   "description": "The lorebook: paste a draft, a beat, or Isaac's prompt and get back what the wiki\nknows about every name in it — character cards (full, capped), pages for places,\nartifacts, disciplines and factions (their head), the prior scenes on the same\nground (semantic), struck Büri-register terms, and any name the wiki has no page\nfor. Call it before drafting and again before posting; nothing is written.\nbudget caps the reply in characters.",
+   "inputSchema": {
+    "properties": {
+     "draft": {
+      "title": "Draft",
+      "type": "string"
+     },
+     "budget": {
+      "default": 24000,
+      "title": "Budget",
+      "type": "integer"
+     }
+    },
+    "required": [
+     "draft"
+    ],
+    "title": "scene_contextArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "cast_index",
+   "description": "Who appears in which scene. Matches every wiki character-card name (and the\nvoice roster) against scenes/, writes scenes/CAST.md and, if missing, a\nscenes/ARCS.md reading-order skeleton grouped by the numbered prefixes. Returns\nthe cast list.\n\nAlias collapsing: short roster names (e.g. 'Aurelian') are collapsed into their\nfull card name (e.g. 'Aurelian Prudentius Custos Clausorum') when one exists.\nMentions from either form are merged; the heading shows the canonical name with\naliases in parentheses.",
+   "inputSchema": {
+    "properties": {
+     "write": {
+      "default": true,
+      "title": "Write",
+      "type": "boolean"
+     }
+    },
+    "title": "cast_indexArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "create_character",
+   "description": "Add a new character card: writes the wiki page under the given volume\n(Volume I / III / IV / V — Character Cards, or 'Characters'), commits and pushes. markdown is the full card in the seventeen-section\nformat (see convert_character for the skeleton). Refuses a name that already has a\ncard; use update_character for those. Numbers must come from the FOW tables or\nIsaac; anything estimated is marked pending in the card.",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     },
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     },
+     "volume": {
+      "default": "Volume I — Character Cards",
+      "title": "Volume",
+      "type": "string"
+     },
+     "tags": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Tags"
+     }
+    },
+    "required": [
+     "name",
+     "markdown"
+    ],
+    "title": "create_characterArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "update_character",
+   "description": "Replace an existing character card's body in the wiki (same id, links\nsurvive), then commit and push. markdown is the full\nreplacement card, not a diff.",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     },
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     }
+    },
+    "required": [
+     "name",
+     "markdown"
+    ],
+    "title": "update_characterArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "trello_cards",
+   "description": "List the cards in a Trello board export (Trello → Menu → Print and export →\nExport as JSON). Filter by list name or a keyword. Use the card name with\nconvert_character(source=<the card's text>) or pass the whole export path.",
+   "inputSchema": {
+    "properties": {
+     "json_path": {
+      "title": "Json Path",
+      "type": "string"
+     },
+     "list_name": {
+      "default": "",
+      "title": "List Name",
+      "type": "string"
+     },
+     "query": {
+      "default": "",
+      "title": "Query",
+      "type": "string"
+     }
+    },
+    "required": [
+     "json_path"
+    ],
+    "title": "trello_cardsArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "convert_character",
+   "description": "Convert an old character record (a Trello card's JSON or text, an old sheet,\nany prose) into the current system: returns a conversion brief — the source\nmaterial, every old-register name flagged with its Moto-canon form, the\nseventeen-section skeleton with what each section must hold and which rules\ngovern it, the FOW Band / Stage / Tier Grade tables so numbers land on the\nreal scale, and the rule loadout. You write the card from the brief, then\ncreate_character saves it. Never invent a number: anything the source does not\ngive and the tables do not fix is written as 'pending Isaac' in the card.\nsource may be raw text, a JSON string, or a card name when json_path is given.",
+   "inputSchema": {
+    "properties": {
+     "source": {
+      "title": "Source",
+      "type": "string"
+     },
+     "name": {
+      "default": "",
+      "title": "Name",
+      "type": "string"
+     },
+     "json_path": {
+      "default": "",
+      "title": "Json Path",
+      "type": "string"
+     },
+     "target_volume": {
+      "default": "Volume I — Character Cards",
+      "title": "Target Volume",
+      "type": "string"
+     }
+    },
+    "required": [
+     "source"
+    ],
+    "title": "convert_characterArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "fronts",
+   "description": "The Fronts as clocks: want, last move, position, the next tick and the pace in story days (R72-20).\nFilter by thread ('Kharven', 'Korvaeth', 'Mu-jin'); clocks are never printed in play (R72-21).",
+   "inputSchema": {
+    "properties": {
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     },
+     "include_closed": {
+      "default": false,
+      "title": "Include Closed",
+      "type": "boolean"
+     }
+    },
+    "title": "frontsArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "advance_front",
+   "description": "Tick a Front's clock by one by hand, for a move his acts caused or sped, with the next tick if known.\nThe calendar ticks come from pass_time (R72-20); the Front resolves when its clock fills.",
+   "inputSchema": {
+    "properties": {
+     "front_id": {
+      "title": "Front Id",
+      "type": "string"
+     },
+     "what_happened": {
+      "title": "What Happened",
+      "type": "string"
+     },
+     "next_move": {
+      "default": "",
+      "title": "Next Move",
+      "type": "string"
+     }
+    },
+    "required": [
+     "front_id",
+     "what_happened"
+    ],
+    "title": "advance_frontArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "set_front_clock",
+   "description": "Rewrite a Front's clock (4 to 6 consequences, the last how it resolves or breaks) and/or its pace in story days per tick.\nHis acts can speed, slow or stop a Front (R72-20): pace_days=0 stops the calendar ticking it.",
+   "inputSchema": {
+    "properties": {
+     "front_id": {
+      "title": "Front Id",
+      "type": "string"
+     },
+     "ticks": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Ticks"
+     },
+     "pace_days": {
+      "anyOf": [
+       {
+        "type": "integer"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Pace Days"
+     }
+    },
+    "required": [
+     "front_id"
+    ],
+    "title": "set_front_clockArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "add_front",
+   "description": "Open a new Front: name, thread, what it wants, its clock (4 to 6 consequences) and its pace in story days per tick (R72-20).",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     },
+     "thread": {
+      "title": "Thread",
+      "type": "string"
+     },
+     "want": {
+      "title": "Want",
+      "type": "string"
+     },
+     "ticks": {
+      "items": {
+       "type": "string"
+      },
+      "title": "Ticks",
+      "type": "array"
+     },
+     "next_move": {
+      "default": "",
+      "title": "Next Move",
+      "type": "string"
+     },
+     "pace_days": {
+      "anyOf": [
+       {
+        "type": "integer"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Pace Days"
+     }
+    },
+    "required": [
+     "name",
+     "thread",
+     "want",
+     "ticks"
+    ],
+    "title": "add_frontArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "pass_time",
+   "description": "Story time passes on a thread: every open Front there with a pace banks the days and ticks offscreen once per pace spent (R72-20).\nstory_date (Y-M-D in the Accord count, month 1 to 13, day 1 to 28) sets the thread's date, and given alone passes the days since the last one.",
+   "inputSchema": {
+    "properties": {
+     "thread": {
+      "title": "Thread",
+      "type": "string"
+     },
+     "days": {
+      "default": 0,
+      "title": "Days",
+      "type": "integer"
+     },
+     "story_date": {
+      "default": "",
+      "title": "Story Date",
+      "type": "string"
+     }
+    },
+    "required": [
+     "thread"
+    ],
+    "title": "pass_timeArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "due",
+   "description": "What has come due: Ledger lines whose story date has come (today, Y-M-D, or the thread's held date), whose trigger was marked fired, or whose clock is full (R72-22).\nA line with neither (every row from before R72) keeps the old reading by sessions_old, marked 'no date or trigger yet'; the bill arrives as an offer with terms (R72-23).",
+   "inputSchema": {
+    "properties": {
+     "sessions_old": {
+      "default": 2,
+      "title": "Sessions Old",
+      "type": "integer"
+     },
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     },
+     "today": {
+      "default": "",
+      "title": "Today",
+      "type": "string"
+     }
+    },
+    "title": "dueArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "ledger_add",
+   "description": "Enter a Ledger line with its thread and a due_date (story date, Y-M-D) or a named due_trigger (R72-22); due_condition is the old name for a trigger.\nCategories: the dead, injuries and reserve, debts, who knows what, renown (per audience: public, army, sects, guilds; 'reputation' still accepted), canon conflicts, bonds, heat (one per thread, level in words), projects (ticks 4 to 8), roads (ticks 4 to 6).",
+   "inputSchema": {
+    "properties": {
+     "category": {
+      "title": "Category",
+      "type": "string"
+     },
+     "who": {
+      "title": "Who",
+      "type": "string"
+     },
+     "text": {
+      "title": "Text",
+      "type": "string"
+     },
+     "due_after_sessions": {
+      "anyOf": [
+       {
+        "type": "integer"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Due After Sessions"
+     },
+     "due_condition": {
+      "default": "",
+      "title": "Due Condition",
+      "type": "string"
+     },
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     },
+     "due_date": {
+      "default": "",
+      "title": "Due Date",
+      "type": "string"
+     },
+     "due_trigger": {
+      "default": "",
+      "title": "Due Trigger",
+      "type": "string"
+     },
+     "ticks": {
+      "anyOf": [
+       {
+        "type": "integer"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Ticks"
+     },
+     "level": {
+      "default": "",
+      "title": "Level",
+      "type": "string"
+     }
+    },
+    "required": [
+     "category",
+     "who",
+     "text"
+    ],
+    "title": "ledger_addArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "ledger_mark",
+   "description": "Mark a standing Ledger line: what fed or strained a bond (R72-24), heat raised or cooled to a level in words, or ticks filled on a project or road clock (R72-28, R72-29).\nA full clock comes due through due(); how says what moved it.",
+   "inputSchema": {
+    "properties": {
+     "entry_id": {
+      "title": "Entry Id",
+      "type": "string"
+     },
+     "fed": {
+      "default": "",
+      "title": "Fed",
+      "type": "string"
+     },
+     "strained": {
+      "default": "",
+      "title": "Strained",
+      "type": "string"
+     },
+     "level": {
+      "default": "",
+      "title": "Level",
+      "type": "string"
+     },
+     "tick": {
+      "default": 0,
+      "title": "Tick",
+      "type": "integer"
+     },
+     "how": {
+      "default": "",
+      "title": "How",
+      "type": "string"
+     }
+    },
+    "required": [
+     "entry_id"
+    ],
+    "title": "ledger_markArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "fire_trigger",
+   "description": "Mark a named trigger fired (words from it, or a line id): every open Ledger line waiting on it comes due (R72-22).\nSilent upkeep does this through session_end's fired list; call this when it fires mid-session.",
+   "inputSchema": {
+    "properties": {
+     "trigger": {
+      "title": "Trigger",
+      "type": "string"
+     },
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     }
+    },
+    "required": [
+     "trigger"
+    ],
+    "title": "fire_triggerArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "ledger_collect",
+   "description": "Mark a Ledger line collected: what happened when it came due.",
+   "inputSchema": {
+    "properties": {
+     "entry_id": {
+      "title": "Entry Id",
+      "type": "string"
+     },
+     "how": {
+      "title": "How",
+      "type": "string"
+     }
+    },
+    "required": [
+     "entry_id",
+     "how"
+    ],
+    "title": "ledger_collectArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "roster",
+   "description": "The NPC roster for a thread: want, refusal, what they know, the live lie and its tell, doing now and where they stand with him (R72-25, R72-26).\npublic=True prints only name, look, voice and role, the face a player may see (R72-40).",
+   "inputSchema": {
+    "properties": {
+     "thread": {
+      "default": "",
+      "title": "Thread",
+      "type": "string"
+     },
+     "public": {
+      "default": false,
+      "title": "Public",
+      "type": "boolean"
+     }
+    },
+    "title": "rosterArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "npc_set",
+   "description": "Create or update an NPC on the roster; only the fields you pass change. lie and tell are a lie the NPC's want makes them tell and how it shows, only where they would lie (R72-25 as amended by R79-2); doing_now and stands_with (owed, slighted, warm, afraid, or words) are kept current by silent upkeep as scenes happen, never printed; look and role are the public face.",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "title": "Name",
+      "type": "string"
+     },
+     "thread": {
+      "title": "Thread",
+      "type": "string"
+     },
+     "want": {
+      "default": "",
+      "title": "Want",
+      "type": "string"
+     },
+     "refusal_line": {
+      "default": "",
+      "title": "Refusal Line",
+      "type": "string"
+     },
+     "knows": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Knows"
+     },
+     "lied_about": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Lied About"
+     },
+     "last_seen": {
+      "default": "",
+      "title": "Last Seen",
+      "type": "string"
+     },
+     "voice": {
+      "default": "",
+      "title": "Voice",
+      "type": "string"
+     },
+     "lie": {
+      "default": "",
+      "title": "Lie",
+      "type": "string"
+     },
+     "tell": {
+      "default": "",
+      "title": "Tell",
+      "type": "string"
+     },
+     "doing_now": {
+      "default": "",
+      "title": "Doing Now",
+      "type": "string"
+     },
+     "stands_with": {
+      "default": "",
+      "title": "Stands With",
+      "type": "string"
+     },
+     "look": {
+      "default": "",
+      "title": "Look",
+      "type": "string"
+     },
+     "role": {
+      "default": "",
+      "title": "Role",
+      "type": "string"
+     }
+    },
+    "required": [
+     "name",
+     "thread"
+    ],
+    "title": "npc_setArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "scene_menu",
+   "description": "Seeds for the Scene Menu, offered only when Isaac opens without a beat: three OOC hooks from anywhere, with no source rule and no reward or penalty lines (R79-2, amending R72-17). The Front, the Ledger and a barely seen character below are suggestions, not slots.\nHe picks in a word and the turn opens on that hook in the world. There is no Rumor Mill (R79-2).",
+   "inputSchema": {
+    "properties": {
+     "thread": {
+      "title": "Thread",
+      "type": "string"
+     },
+     "culture": {
+      "default": "Kharven",
+      "title": "Culture",
+      "type": "string"
+     }
+    },
+    "required": [
+     "thread"
+    ],
+    "title": "scene_menuArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "session_end",
+   "description": "Silent upkeep at a scene's end, then the archive (R79-8): nothing printed beyond a\none-line confirmation. days or story_date pass story time as pass_time does; fired marks\ntriggers; ledger takes ledger_add fields for lines that bind; fronts takes front_id,\nwhat_happened and next_move; npcs takes npc_set fields (doing_now, stands_with) for the\nNPCs the scene moved; cards takes {name, markdown} with the full replacement card\n(update_character) for lasting changes only: a wound that stays, Crystal State, Level,\nStage, a technique he approved, renown. title (with scene_markdown) archives the scene\nas archive_scene does. Each write is an agent ruling logged with the session.",
+   "inputSchema": {
+    "properties": {
+     "thread": {
+      "title": "Thread",
+      "type": "string"
+     },
+     "scene_markdown": {
+      "default": "",
+      "title": "Scene Markdown",
+      "type": "string"
+     },
+     "title": {
+      "default": "",
+      "title": "Title",
+      "type": "string"
+     },
+     "author_notes": {
+      "default": "",
+      "title": "Author Notes",
+      "type": "string"
+     },
+     "rulings": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Rulings"
+     },
+     "notes": {
+      "default": "",
+      "title": "Notes",
+      "type": "string"
+     },
+     "ledger": {
+      "anyOf": [
+       {
+        "items": {
+         "additionalProperties": true,
+         "type": "object"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Ledger"
+     },
+     "fronts": {
+      "anyOf": [
+       {
+        "items": {
+         "additionalProperties": true,
+         "type": "object"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Fronts"
+     },
+     "npcs": {
+      "anyOf": [
+       {
+        "items": {
+         "additionalProperties": true,
+         "type": "object"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Npcs"
+     },
+     "cards": {
+      "anyOf": [
+       {
+        "items": {
+         "additionalProperties": true,
+         "type": "object"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Cards"
+     },
+     "fired": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Fired"
+     },
+     "days": {
+      "default": 0,
+      "title": "Days",
+      "type": "integer"
+     },
+     "story_date": {
+      "default": "",
+      "title": "Story Date",
+      "type": "string"
+     }
+    },
+    "required": [
+     "thread"
+    ],
+    "title": "session_endArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "reconcile",
+   "description": "Mechanical consistency checks across the wiki, the scenes and the index:\nduplicate pages, a character's Stage or Level stated differently in a scene than\non the card, a Wellspring named with the wrong Family.",
+   "inputSchema": {
+    "properties": {},
+    "title": "reconcileArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "pack_impact",
+   "description": "Before a new amendment pack is extracted: which live rules share distinctive\nvocabulary with its text, so collisions are read before they become conflicts.",
+   "inputSchema": {
+    "properties": {
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     },
+     "name": {
+      "default": "new_pack",
+      "title": "Name",
+      "type": "string"
+     }
+    },
+    "required": [
+     "markdown"
+    ],
+    "title": "pack_impactArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "timeline",
+   "description": "scenes/TIMELINE.md: every scene in reading order with the in-world moment the\ntext states. Created as a skeleton on first call; edit the 'placed' column.",
+   "inputSchema": {
+    "properties": {},
+    "title": "timelineArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "gap_fill",
+   "description": "Advisory only (R79-12): Pack Thirteen §5's eight-step gap-fill pass, for a set piece\nor a fight Isaac submits, never a gate on a turn. Structured report: beat inventory,\nlogic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary\npass, prose pass. Counts what can be counted and asks the question each step exists\nto ask; nothing in it is a FAIL.",
+   "inputSchema": {
+    "properties": {
+     "markdown": {
+      "title": "Markdown",
+      "type": "string"
+     }
+    },
+    "required": [
+     "markdown"
+    ],
+    "title": "gap_fillArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "scene_text",
+   "description": "The scene's narration text in the cast-file format: a `# Title` line, paragraphs separated by\nblank lines, `---` for section breaks, author notes and markdown removed. This is exactly what the\nnarrator reads. To give characters their own voices, insert speaker tags where the voice changes —\n[Verinus] before a spoken line, [narrator] to return — and let the prose set the delivery: a dialogue\ntag or the narration around a line (\"he said quietly\", \"roared\", \"after a silence\", \"she laughed and\nsaid\") becomes delivery after a colon ([Verinus: quiet], [Gimbzo: loud], [Ruin: beat]; words: slow,\nslower, fast, faster, quiet, loud, whisper, beat, long beat) or a performed cue inside the line ([laugh],\n[chuckle], [sigh], [gasp], [cough], [clear throat]) — only where the text says so, never invented.\nItalic direct thought is the POV character's own voice. Change nothing else, and pass the result to\ncast_scene. Untagged text is the narrator's.",
+   "inputSchema": {
+    "properties": {
+     "scene": {
+      "title": "Scene",
+      "type": "string"
+     }
+    },
+    "required": [
+     "scene"
+    ],
+    "title": "scene_textArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "cast_scene",
+   "description": "Save a speaker-tagged script for a scene (scenes/cast/<scene>.cast.md) so narrate_scene renders\neach character in their own voice. `script` is the text from scene_text with [Name] tags inserted\n(see scene_text). The tagged text with its tags removed must match the scene word for word — the\ntool refuses anything that drops or changes words and says where. Speakers with no entry in\nbuild/voices.yaml get a stable pool voice; the reply lists them so Isaac can assign voices.",
+   "inputSchema": {
+    "properties": {
+     "scene": {
+      "title": "Scene",
+      "type": "string"
+     },
+     "script": {
+      "title": "Script",
+      "type": "string"
+     }
+    },
+    "required": [
+     "scene",
+     "script"
+    ],
+    "title": "cast_sceneArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "narrate_scene",
+   "description": "Render one scene of the archive to an MP3, in the background on Isaac's PC (build/audio_export.py).\n`engine`: \"local\" (Kokoro/Chatterbox/Qwen, free) or \"elevenlabs\" (every speaker through the\n_elevenlabs map in build/voices.yaml; costs characters on Isaac's ElevenLabs plan, so ask him which\nhe wants before choosing it — the reply states the character count). ElevenLabs renders are\nnamed *-eleven and sit beside the local ones. `scene` is a scene file name or title (or a unique part of one). If the\nscene has a cast file (cast_scene), every tagged speaker gets their own voice from build/voices.yaml\nand `voice` sets only the narrator; otherwise `voice` reads the whole scene — a built-in Kokoro voice,\na voices.yaml name, a custom style file in build/voices/, or a blend like \"af_heart:0.6,bm_george:0.4\".\nReturns the job id, a time estimate and where the file will be; narration_status gives the link.",
+   "inputSchema": {
+    "properties": {
+     "scene": {
+      "title": "Scene",
+      "type": "string"
+     },
+     "voice": {
+      "default": "narrator",
+      "title": "Voice",
+      "type": "string"
+     },
+     "engine": {
+      "default": "local",
+      "title": "Engine",
+      "type": "string"
+     }
+    },
+    "required": [
+     "scene"
+    ],
+    "title": "narrate_sceneArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "narration_status",
+   "description": "Narration jobs started with narrate_scene (running / done / failed) and every rendered scene\nwith the link to play it: over the public connector a URL on this server; on the desktop the file path.\nAudio also lands in the Google Drive folder War of the Realms — Documents/Arcs/Audio when Drive is mounted.",
+   "inputSchema": {
+    "properties": {
+     "job": {
+      "default": "",
+      "title": "Job",
+      "type": "string"
+     }
+    },
+    "title": "narration_statusArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "research",
+   "description": "Outside research through Gemini with Google Search (the Antigravity CLI, `agy -p`, on Isaac's\nGoogle login). For real-world facts: physics, anatomy, history, arms and armour, sources. The answer\nis outside research, never a rule source: it does not go in a verbatim field. model: `agy models`.",
+   "inputSchema": {
+    "properties": {
+     "question": {
+      "title": "Question",
+      "type": "string"
+     },
+     "model": {
+      "default": "gemini-3.8-flash-high",
+      "title": "Model",
+      "type": "string"
+     },
+     "minutes": {
+      "default": 10,
+      "title": "Minutes",
+      "type": "integer"
+     }
+    },
+    "required": [
+     "question"
+    ],
+    "title": "researchArguments",
+    "type": "object"
+   }
+  },
+  {
+   "name": "skill",
+   "description": "The WOTR skills (wotr-write, wotr-rp, wotr-npc, wotr-name, wotr-technique, wotr-start, ...), so no one\nhas to add them to their account. name=\"\" lists them with when to use each; skill(name) returns the\nskill to follow; file=\"references/x.md\" returns one of its reference files.",
+   "inputSchema": {
+    "properties": {
+     "name": {
+      "default": "",
+      "title": "Name",
+      "type": "string"
+     },
+     "file": {
+      "default": "",
+      "title": "File",
+      "type": "string"
+     }
+    },
+    "title": "skill_toolArguments",
+    "type": "object"
+   }
+  }
+ ],
+ "core": [
+  "advance_front",
+  "archive_scene",
+  "ask_chatgpt",
+  "ask_claude",
+  "character",
+  "check_docket",
+  "codex",
+  "create_character",
+  "due",
+  "fow_line",
+  "fronts",
+  "ledger_add",
+  "list_conflicts",
+  "load_rules",
+  "log_ruling",
+  "natalie",
+  "natalie_gpt",
+  "npc_set",
+  "pass_time",
+  "propose_rule",
+  "research",
+  "roster",
+  "rule",
+  "scene_brief",
+  "scene_context",
+  "scene_menu",
+  "scene_recall",
+  "session_end",
+  "session_start",
+  "skill",
+  "timeline",
+  "update_character",
+  "verify_scene",
+  "wiki",
+  "wiki_write"
+ ],
+ "read_only": [
+  "cast_scene",
+  "character",
+  "check_docket",
+  "codex",
+  "codex_check",
+  "due",
+  "fow_line",
+  "fronts",
+  "gap_fill",
+  "handoff",
+  "inbox",
+  "list_conflicts",
+  "load_rules",
+  "narrate_scene",
+  "narration_status",
+  "natalie",
+  "roster",
+  "rule",
+  "scene_brief",
+  "scene_context",
+  "scene_menu",
+  "scene_recall",
+  "scene_text",
+  "session_start",
+  "skill",
+  "stale_names",
+  "timeline",
+  "verify_scene",
+  "wiki"
+ ],
+ "skill_hide": [
+  "judger"
+ ],
+ "ops_skills": [
+  "wotr-book",
+  "wotr-chatgpt",
+  "wotr-ledger",
+  "wotr-ops",
+  "wotr-room"
+ ],
+ "skill_note": "(Served by the WOTR MCP. Where this names a repo path, a shell command or Claude Code, use the matching WOTR MCP tool; a file under references/ loads with skill(name, file).)\n\n"
+}

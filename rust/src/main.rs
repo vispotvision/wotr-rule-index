@@ -15,10 +15,12 @@ mod embed;
 mod http;
 mod keys;
 mod pages;
+mod pyyaml;
 mod rules;
 mod search;
 mod table;
 mod util;
+mod writers;
 mod verify;
 
 use rmcp::model::*;
@@ -36,6 +38,9 @@ const NATIVE: &[&str] = &[
     "load_rules", "rule", "check_docket", "list_conflicts", "natalie", "natalie_gpt", "skill",
     "character", "fow_line", "verify_scene", "wiki", "scene_recall", "scene_context",
     "fronts", "due", "roster", "scene_menu", "session_start",
+    "archive_scene", "wiki_write", "log_ruling", "sync_now", "propose_rule", "handoff", "inbox", "inbox_done",
+    "create_character", "update_character", "advance_front", "set_front_clock", "add_front", "pass_time",
+    "ledger_add", "ledger_mark", "fire_trigger", "ledger_collect", "npc_set", "session_end",
 ];
 
 #[derive(Deserialize, Clone)]
@@ -133,6 +138,14 @@ fn arg_list(a: &Map<String, Value>, k: &str) -> Option<Vec<String>> {
     a.get(k)?.as_array().map(|v| v.iter().filter_map(|x| x.as_str().map(String::from)).collect())
 }
 
+/// An exception the Python tool would not have caught, as the MCP error text names it.
+fn py_err(r: Result<String, writers::E>) -> Result<String, String> {
+    r.map_err(|e| match e {
+        writers::E::Key(k) => format!("KeyError: '{k}'"),
+        writers::E::Value(m) => format!("ValueError: {m}"),
+    })
+}
+
 fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Result<String, String> {
     Ok(match tool {
         "load_rules" => {
@@ -155,6 +168,36 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
         "roster" => table::roster(&arg_str(a, "thread", ""), arg_bool(a, "public"))?,
         "scene_menu" => table::scene_menu(&arg_req(a, "thread")?, &arg_str(a, "culture", "Kharven"))?,
         "session_start" => table::session_start(&arg_req(a, "thread")?, &arg_str(a, "culture", "Kharven")),
+        "archive_scene" => writers::archive_scene(&arg_req(a, "title")?, &arg_req(a, "markdown")?, &arg_str(a, "author_notes", "")),
+        "wiki_write" => writers::wiki_write(&arg_req(a, "path")?, &arg_req(a, "markdown")?, &arg_str(a, "message", "")),
+        "log_ruling" => writers::log_ruling(&arg_req(a, "rule_id")?, &arg_req(a, "ruling")?, &arg_str(a, "context", "")),
+        "sync_now" => writers::sync_now(),
+        "propose_rule" => writers::propose_rule(&arg_req(a, "title")?, &arg_req(a, "rule_text")?, &arg_list(a, "applies_to").ok_or("missing argument 'applies_to'")?,
+                                                &arg_str(a, "rationale", ""), &arg_str(a, "session", "")),
+        "handoff" => writers::handoff(&arg_req(a, "kind")?, &arg_req(a, "title")?, &arg_req(a, "body")?, &arg_str(a, "thread", "")),
+        "inbox" => writers::inbox(a.get("full").and_then(Value::as_bool).unwrap_or(true)),
+        "inbox_done" => writers::inbox_done(&arg_req(a, "name")?, &arg_req(a, "outcome")?),
+        "create_character" => writers::create_character(&arg_req(a, "name")?, &arg_req(a, "markdown")?, &arg_str(a, "volume", "Volume I \u{2014} Character Cards"), arg_list(a, "tags")),
+        "update_character" => writers::update_character(&arg_req(a, "name")?, &arg_req(a, "markdown")?),
+        "advance_front" => py_err(writers::advance_front(&arg_req(a, "front_id")?, &arg_req(a, "what_happened")?, &arg_str(a, "next_move", "")))?,
+        "set_front_clock" => py_err(writers::set_front_clock(&arg_req(a, "front_id")?, arg_list(a, "ticks"), a.get("pace_days").and_then(Value::as_i64)))?,
+        "add_front" => py_err(writers::add_front(&arg_req(a, "name")?, &arg_req(a, "thread")?, &arg_req(a, "want")?, arg_list(a, "ticks").ok_or("missing argument 'ticks'")?,
+                                                 &arg_str(a, "next_move", ""), a.get("pace_days").and_then(Value::as_i64)))?,
+        "pass_time" => py_err(writers::pass_time(&arg_req(a, "thread")?, arg_int(a, "days", 0), &arg_str(a, "story_date", "")))?,
+        "ledger_add" => py_err(writers::ledger_add(&arg_req(a, "category")?, &arg_req(a, "who")?, &arg_req(a, "text")?, a.get("due_after_sessions").cloned().unwrap_or(Value::Null),
+                                                   &arg_str(a, "due_condition", ""), &arg_str(a, "thread", ""), &arg_str(a, "due_date", ""), &arg_str(a, "due_trigger", ""),
+                                                   a.get("ticks").and_then(Value::as_i64), &arg_str(a, "level", "")))?,
+        "ledger_mark" => py_err(writers::ledger_mark(&arg_req(a, "entry_id")?, &arg_str(a, "fed", ""), &arg_str(a, "strained", ""), &arg_str(a, "level", ""),
+                                                     arg_int(a, "tick", 0), &arg_str(a, "how", "")))?,
+        "fire_trigger" => py_err(writers::fire_trigger(&arg_req(a, "trigger")?, &arg_str(a, "thread", "")))?,
+        "ledger_collect" => py_err(writers::ledger_collect(&arg_req(a, "entry_id")?, &arg_req(a, "how")?))?,
+        "npc_set" => py_err(writers::npc_set(&arg_req(a, "name")?, &arg_req(a, "thread")?, writers::npc_fields(a)))?,
+        "session_end" => {
+            let objs = |k: &str| a.get(k).and_then(Value::as_array).cloned().unwrap_or_default();
+            py_err(writers::session_end(&arg_req(a, "thread")?, &arg_str(a, "scene_markdown", ""), &arg_str(a, "title", ""), &arg_str(a, "author_notes", ""),
+                                        arg_list(a, "rulings").unwrap_or_default(), &arg_str(a, "notes", ""), objs("ledger"), objs("fronts"), objs("npcs"), objs("cards"),
+                                        arg_list(a, "fired").unwrap_or_default(), arg_int(a, "days", 0), &arg_str(a, "story_date", "")))?
+        }
         "verify_scene" => {
             let (culture, school) = (arg_str(a, "culture", ""), arg_str(a, "school", ""));
             let o = verify::Opts {
@@ -330,6 +373,18 @@ async fn main() {
                     std::process::exit(1)
                 }
             }
+            return;
+        }
+        Some("yaml-dump") => {
+            // JSON on stdin -> safe_dump's YAML, for rust/yaml_parity.py
+            let v: Value = serde_json::from_str(&std::io::read_to_string(std::io::stdin()).expect("stdin")).expect("JSON");
+            print!("{}", pyyaml::dump(&v));
+            return;
+        }
+        Some("yaml-load") => {
+            // YAML on stdin -> JSON, as table.rs reads it, for rust/yaml_parity.py
+            let v = table::parse_yaml(&std::io::read_to_string(std::io::stdin()).expect("stdin")).unwrap_or_else(|e| panic!("{e}"));
+            print!("{}", serde_json::to_string(&v).unwrap());
             return;
         }
         Some("call") => {

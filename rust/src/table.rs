@@ -18,7 +18,7 @@ macro_rules! rx {
 }
 
 /// Python's str() of a YAML value.
-fn s(v: Option<&Value>) -> String {
+pub(crate) fn s(v: Option<&Value>) -> String {
     match v {
         None | Some(Value::Null) => "None".into(),
         Some(Value::Bool(b)) => if *b { "True" } else { "False" }.into(),
@@ -30,7 +30,7 @@ fn s(v: Option<&Value>) -> String {
 }
 
 /// Python truthiness.
-fn t(v: Option<&Value>) -> bool {
+pub(crate) fn t(v: Option<&Value>) -> bool {
     match v {
         None | Some(Value::Null) => false,
         Some(Value::Bool(b)) => *b,
@@ -42,7 +42,7 @@ fn t(v: Option<&Value>) -> bool {
 }
 
 /// Python's int(): ints, digit strings (spaces allowed), bools; anything else is the ValueError.
-fn int(v: Option<&Value>) -> Result<i64, String> {
+pub(crate) fn int(v: Option<&Value>) -> Result<i64, String> {
     match v {
         Some(Value::Number(n)) => n.as_i64().or_else(|| n.as_f64().map(|f| f.trunc() as i64)).ok_or("int(): bad number".into()),
         Some(Value::Bool(b)) => Ok(*b as i64),
@@ -62,8 +62,13 @@ fn or(r: &Value, k: &str, or_: &str) -> String {
 }
 
 /// f"{r.get(k, '')}": the default only when the key is absent
-fn get_s(r: &Value, k: &str) -> String {
+pub(crate) fn get_s(r: &Value, k: &str) -> String {
     if r.get(k).is_some() { s(r.get(k)) } else { String::new() }
+}
+
+/// YAML text as values, the way PyYAML's safe_load reads what PyYAML's safe_dump wrote.
+pub fn parse_yaml(text: &str) -> Result<Value, String> {
+    crate::pyyaml::load(text)
 }
 
 pub fn load(kind: &str) -> Result<Vec<Value>, String> {
@@ -71,27 +76,27 @@ pub fn load(kind: &str) -> Result<Vec<Value>, String> {
     if !p.exists() {
         return Ok(vec![]);
     }
-    let v: Value = serde_yaml_ng::from_str(&read_lossy(&p)).map_err(|e| format!("{}: {e}", p.display()))?;
+    let v = parse_yaml(&read_lossy(&p)).map_err(|e| format!("{}: {e}", p.display()))?;
     Ok(match v {
         Value::Array(a) => a,
         _ => vec![],
     })
 }
 
-fn same_thread(a: Option<&Value>, b: &str) -> bool {
+pub(crate) fn same_thread(a: Option<&Value>, b: &str) -> bool {
     let a = if t(a) { s(a).to_lowercase().trim().to_string() } else { String::new() };
     let b = b.to_lowercase().trim().to_string();
     !a.is_empty() && !b.is_empty() && (b.contains(&a) || a.contains(&b))
 }
 
-fn story_days(v: &str) -> Option<i64> {
+pub(crate) fn story_days(v: &str) -> Option<i64> {
     let c = rx!(r"^\s*(\d+)-(\d+)-(\d+)\s*$").captures(v).ok().flatten()?;
     let (y, m, d): (i64, i64, i64) = (c[1].parse().ok()?, c[2].parse().ok()?, c[3].parse().ok()?);
     ((1..=13).contains(&m) && (1..=28).contains(&d)).then(|| y * 364 + (m - 1) * 28 + d - 1)
 }
 
 /// str(s or "") for story_days
-fn opt_str(v: Option<&Value>) -> String {
+pub(crate) fn opt_str(v: Option<&Value>) -> String {
     if t(v) { s(v) } else { String::new() }
 }
 
@@ -111,7 +116,7 @@ pub fn fronts_for(thread: Option<&str>, include_closed: bool) -> Result<Vec<Valu
     Ok(rows)
 }
 
-fn clock(r: &Value) -> Vec<Value> {
+pub(crate) fn clock(r: &Value) -> Vec<Value> {
     r.get("clock").and_then(Value::as_array).cloned().unwrap_or_default()
 }
 

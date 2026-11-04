@@ -359,3 +359,17 @@ in Python behind the Rust server: a Rust YAML emitter would reformat the data
 files, each writer is bound by its git push, and `log_ruling` is the one path into
 `RULINGS.md`. Audio and TTS stay in Python (their models are Python-only).
 
+### 2026-11-04 — The writers are Rust too (Isaac's decision; replaces the same day's "writers stay Python")
+
+Isaac asked for the writers to be ported, overturning my call above. Every table
+writer, session_end, archive_scene (scenes_to_wiki.py ported in), wiki_write,
+log_ruling, propose_rule, create_character, update_character, the inbox tools and
+sync_now run natively; 38 of 58 tools. `rust/src/pyyaml.rs` writes table/*.yaml
+byte-identically to PyYAML (15,738 awkward rows checked both ways by
+`rust/yaml_parity.py`) and reads it with YAML 1.1 typing. `rust/writer_parity.py`
+replays 53 writer calls through Python and Rust in two scratch clones pushing to
+scratch remotes: replies, 625 files and 34 commit messages identical. Still in
+Python: codex lookups (xlsx), audio and narration, the archive audits
+(reconcile, pack_impact, timeline, gap_fill, stale_names, cast_index,
+scene_brief), the Trello import, and the retired ChatGPT tools.
+

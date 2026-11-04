@@ -149,19 +149,12 @@ pub fn wiki(query: &str, full: bool, limit: i64) -> String {
     out.join("\n\n")
 }
 
-fn git(args: &[&str]) -> (i32, String) {
-    match std::process::Command::new("git").args(args).current_dir(&*ROOT).output() {
-        Ok(o) => (o.status.code().unwrap_or(1), format!("{}{}", String::from_utf8_lossy(&o.stdout), String::from_utf8_lossy(&o.stderr)).trim().to_string()),
-        Err(e) => (1, e.to_string()),
-    }
-}
-
 /// _pre_r70_tag: a scene written under the style law before 2026-10-03.
 fn pre_r70_tag(p: &Path, editions: &HashMap<String, String>) -> &'static str {
     let name = p.file_name().map(|n| n.to_string_lossy().into_owned()).unwrap_or_default();
     let ed = editions.get(&name).cloned().unwrap_or_else(|| {
         let rel = rel_posix(p, &ROOT);
-        let (code, added) = git(&["log", "--diff-filter=A", "--format=%as", "-1", "--", &rel]);
+        let (code, added) = crate::writers::git(&["log", "--diff-filter=A", "--format=%as", "-1", "--", &rel]);
         if code == 0 && !added.is_empty() && added.as_str() < "2026-10-03" { "pre-R70".into() } else { "R70".into() }
     });
     if ed == "pre-R70" { "  (pre-R70 style: precedent for events, not for prose)" } else { "" }

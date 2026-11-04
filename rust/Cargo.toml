@@ -31,3 +31,8 @@ zip = { version = "9", default-features = false, features = ["deflate"] }
 
 [profile.release]
 lto = "thin"
+
+# examples/chatterbox_onnx.rs only (a feasibility test): the MIGraphX execution provider. Dev-dependency
+# features stay out of the wotr-mcp build.
+[dev-dependencies]
+ort = { version = "=2.0.0-rc.15", default-features = false, features = ["std", "load-dynamic", "api-24", "migraphx"] }

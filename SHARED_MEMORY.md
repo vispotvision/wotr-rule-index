@@ -395,3 +395,16 @@ Speed is the same (156 s vs 156 s for a scene): inference dominates. MP3 encodin
 uses the venv lameenc's LAME 3.100 via libpython3.14; a Python upgrade breaks that
 path and narration falls back to WAV.
 
+### 2026-11-04 — Chatterbox Turbo on ONNX + MIGraphX: tested, not ported (Claude Code's finding; Isaac kept PyTorch)
+
+Isaac installed onnxruntime-opt-rocm (MIGraphX) and the official fp32 export
+`ResembleAI/chatterbox-turbo-ONNX` (build/models/chatterbox-turbo-onnx/). The Rust
+runner `rust/examples/chatterbox_onnx.rs` is correct (speech tokens identical to
+the model card's Python example) but slower than the PyTorch worker: RTF 1.16
+with the language model on MIGraphX, 1.48 on CPU, 0.71 for PyTorch; read-back WER
+equal (0.092). Only the language model runs on MIGraphX (fixed KV cache, io
+binding, MIGRAPHX_DISABLE_MLIR=1); the speech encoder (NonZero), decoder
+(MultiHeadAttention with bias) and embeddings fail on the EP. Recheck when
+MIGraphX gains fp32/fp16 MLIR attention for gfx1201. Chatterbox, Qwen and
+CosyVoice stay on PyTorch. Samples: ~/wotr-drafts/chatterbox-onnx-test/.
+

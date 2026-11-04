@@ -2,7 +2,7 @@
 
 # Godfrey Greymane
 
-**Godfrey Greymane** · The Shieldwarden · Kharven, House Greymane · as of the morning of the seven lines in the Hall of Verdicts
+**Godfre[[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden]]y Greymane** · The Shieldwarden · Kharven, House Greymane · as of the morning of the seven lines in the Hall of Verdicts
 **Stat line** · Level 142 · Band II, Awakened · Stage IV, Flourishing · Path Body 65% / Attraction 35% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
 **Combat grammar** · Expenditure
 **Aura and sound** · Materia ochre at Flourishing's clarity, a warm dark gray with amber only hinted, a fine grit of ridge-stone dust settling round his boots when he sets them; sound: a low grinding settle, like a stone sinking into its bed

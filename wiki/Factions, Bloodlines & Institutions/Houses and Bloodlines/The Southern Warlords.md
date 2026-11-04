@@ -44,7 +44,7 @@ In the south they are the house everybody wants at the table and nobody wants wa
 
 **Identity:** The crown that was carried. House Mahuo is what happens to a name used as a banner.
 
-**Current head:** None seated. *The royal line stands at whatever is left of it.*
+**Current head:** Cozbi Mahuo, seated by Isaac's ruling of 2026-11-01, Head of House Mahuo and Master of the Sum-gol Post.
 
 **Words:** *Call, and It Answers*
 

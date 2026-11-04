@@ -9,15 +9,16 @@ private: true
 # Naiser Yukari
 
 **Naiser Yukari** · The Bearer of Weight · Lord of House Yukari · son of Senri Yukari and a daughter of House Lambert, grandson of Ashura Yukari · as of the season after the war
-**Stat line** · Level 188 · Band II, Awakened · Stage VI, Glory · Path Spirit 40% / Body 35% / Fate 25% · Expert · η 0.89 · Aether Class III, Resonant · Crystal Harmonic, Refined
+**Stat line** · Level 395 · Band IV, Mythic · Stage XII, Emanation · Tier 7, Grandmaster · Grade cap SSS, ceiling 950 · Path Spirit 40% / Body 35% / Fate 25% · η 0.89 · Aether Class V, Radiant · Crystal Sovereign, Refined · reserve 3.03 × 10⁸ EU
 **Combat grammar** · Verdict
-**Aura and sound** · Limina at Glory's clarity, a medium gray with black-violet living in it like black silk drawn over a blade edge, and brief silver-violet flares when the deeper lineage harmonics wake; sound: two low notes a hair apart that drift together until they are one
-**Stack** · sustainable A in Finesse, Economy and Penetration · cap +2 Grades · layers: RYŌKE NO KATA, the Twin Mantle when called
-**Releases** · THE TWIN MANTLE (First Release) · bonded weapon: the unnamed longblade
+**Aura and sound** · Limina at Emanation's clarity, a medium gray with black-violet living in it like black silk drawn over a blade edge, silver-violet flaring at the seams when the deeper lineage harmonics wake, and the air round him dimming like a corridor with the lamps turned low; sound: two low notes a hair apart that drift together until they are one, with a long hall's echo under them · smell: cedar smoke and cold stone
+**Stack** · sustainable A in Finesse, Economy and Penetration · cap +2 Grades · layers: RYŌKE NO KATA, the Twin Mantle when called, the Corridor when opened
+**Releases** · THE TWIN MANTLE (First) · THE CORRIDOR BETWEEN HALLS (Second, opens the Domain) · THE RECORD OPENS (Third) · bonded weapon: the unnamed longblade
 **Traits** · TWIN-BLOOD HARMONY (Primary) · tell: his breath and his heartbeat fall into one count · counter: a rhythm that drives them apart / THE ENTERED WORD (Secondary) · tell: oaths spoken near him come out plainer than the speaker meant · counter: say nothing / THE BREATH'S CONTINUANCE (Inherited) · tell: he does not hurry, ever · counter: speed early, before he settles
-**Techniques** · KAGE NO KEIFU · tell: the shadow under him stretches toward you · counter: a mind with nothing unresolved in it / YUKARI NO MON · tell: a line of dimmed air across the ground · counter: cross it with enough self, or go round / RYŌKE NO KATA · tell: the two notes become one · counter: outlast it
+**Domain** · THE CORRIDOR BETWEEN HALLS · tell: a line of dimmed air, then the hall's pillars appearing in the dark · counter: cross with enough self, or leave by the doors at either end
+**Techniques** · KAGE NO KEIFU · tell: the shadow under him stretches toward you · counter: a mind with nothing unresolved in it / YUKARI NO MON · tell: a line of dimmed air across the ground · counter: cross it with enough self, or go round / RYŌKE NO KATA · tell: the two notes become one · counter: outlast it / KEMURI NO HAN · tell: the smoke from the leaf stands still · counter: make what he said false
 **Voice** · "I was born from two houses. I bent neither knee long enough to die inside either one." · speaker type: a disinherited heir who has become a judge, and smokes through the verdict
-**Next gate** · Stage VII, Refraction · Catalyst: first Domain seed activation; his proto-threshold is close · Band gate: Stage VII before Level 200 · Front: the peace with Kushara, and the wound in Ashura his father went into
+**Next gate** · Stage XIII, Principality · Catalyst: the Continuum entering his law into the register, the moment reality stops asking and starts adapting · Front: the peace with Kushara, and the wound in Ashura his father went into
 
 ---
 
@@ -39,95 +40,178 @@ private: true
 
 ## II. Soul Architecture
 
-**Level** · 188
-**Band** · II, Awakened
-**Temperance Stage** · VI, Glory. He did not reach it through fervor or spectacle. He reached it through synthesis, forcing two bloods into one count
+**Level** · 395
+**Band** · IV, Mythic
+**Temperance Stage** · XII, Emanation. He did not reach it through fervor or spectacle. He reached it through synthesis, forcing two bloods into one count, and then six Stages laid over a long road, each one owed in full
 **Path** · Spirit 40%, Body 35%, Fate 25%
-**Tier of Standing** · 5, Expert
-**η** · 0.89. Above the Expert band and standing as recorded; almost all of what he commits lands where he meant it
-**Soul Crystal Tier** · Harmonic
+**Tier of Standing** · 7, Grandmaster
+**η** · 0.89. Top of the Grandmaster band, 0.85 to 0.90, and standing as recorded; almost all of what he commits lands where he meant it
+**Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, held in balance by constant labor
-**Aether Class** · III, Resonant; above the usual Class for Glory, as recorded
+**Aether Class** · V, Radiant. His Crystal's Attraction Layer carries territorial durability, which is why the Corridor forms round him without being called
 **Essence Typology** · Limina
 
 ## III. Wellspring Harmonizations
 
 **Anamnesis** · the Wellspring of Remembrance · Limina · Depth: deep · objects and souls store their history in readable form, the way fired clay keeps its dose; he reads lineage the way a smith reads temper colors
-**Fixatio** · the Binding Flame · Materia · Depth: held · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes
+**Fixatio** · the Binding Flame · Materia · Depth: deep · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes. Failure: over-cure, a rigidity that cannot bend even to save him
 **Ascensio** · the Ladder of Ascent · Vectoria · Depth: held · the inclined plane: the same climb made over a longer road so the structure never sees the peak strain; why his Stages came quietly, and why he still owes the difference
 
 ## IV. Primary Stats
 
 | Primary | Total | Mean | Grade |
 |---|---|---|---|
-| Vitality | 600 | 75 | D |
-| Ardency | 700 | 87.5 | D |
-| Gnosis | 700 | 87.5 | D |
-| Dexterity | 1,000 | 125 | C |
-| Harmonics | 200 | 25 | F |
-| Resilience | 700 | 87.5 | D |
-| Tempering | 300 | 37.5 | E |
-| Dominion (seven, Throne apart) | 420 | 60 | D |
+| Vitality | 1,775 | 221.875 | B |
+| Ardency | 2,060 | 257.5 | B |
+| Gnosis | 2,055 | 256.875 | B |
+| Dexterity | 2,935 | 366.875 | A |
+| Harmonics | 595 | 74.375 | D |
+| Resilience | 2,065 | 258.125 | B |
+| Tempering | 885 | 110.625 | C |
+| Dominion (seven, Throne apart) | 1,925 | 275 | B |
 | **Throne** | not opened | · | · |
 
-**Pool** · 4,620 (2,520 from Levels, 2,100 from Thresholds I to VI) · **Unspent** · 0
+**Pool** · 14,295 (6,495 from Levels, 7,800 from Thresholds I to XII) · **Unspent** · 0
 
 ## V. Sub-Stats
 
-**Vitality** · Fortitude 160 · Absorption 80 · Constitution 140 · Hemostasis 40 · Regeneration 60 · Filtration 40 · Tolerance 40 · Threshold 40
-**Ardency** · Flux 100 · Alacrity 120 · Depth 60 · Penetration 200 · Compression 150 · Cascade 0 · Overchannel 0 · Density 70
-**Gnosis** · Perception 180 · Acuity 150 · Forecast 60 · Fluency 50 · Retention 100 · Analysis 100 · Cognition 60 · Vigilance 0
-**Dexterity** · Celerity 160 · Reflex 200 · Finesse 220 · Economy 200 · Evasion 60 · Grapple 40 · Feint 80 · Sequence 40
-**Harmonics** · Attunement 40 · Projection 0 · Breadth 0 · Stability 120 · Empathy 40 · Synergy 0 · Axis 0 · Suppression 0
-**Resilience** · Integrity 160 · Ward 120 · Persistence 100 · Anchoring 120 · Fortification 60 · Hardening 40 · Oath 100 · Continuity 0
-**Tempering** · Clarity 120 · Overflow 0 · Maturity 60 · Coherence 120 · Yield 0 · Ceiling 0 · Capacity 0 · Longevity 0
-**Dominion** · Radius 20 · Sovereignty 120 · Sense 40 · Gravity 40 · Pressure 100 · Command 40 · Fate 60 · Throne not opened
+**Vitality** · Fortitude 470 · Absorption 235 · Constitution 415 · Hemostasis 120 · Regeneration 175 · Filtration 120 · Tolerance 120 · Threshold 120
+**Ardency** · Flux 295 · Alacrity 355 · Depth 175 · Penetration 590 · Compression 440 · Cascade 0 · Overchannel 0 · Density 205
+**Gnosis** · Perception 530 · Acuity 440 · Forecast 175 · Fluency 145 · Retention 295 · Analysis 295 · Cognition 175 · Vigilance 0
+**Dexterity** · Celerity 470 · Reflex 585 · Finesse 645 · Economy 585 · Evasion 175 · Grapple 120 · Feint 235 · Sequence 120
+**Harmonics** · Attunement 120 · Projection 0 · Breadth 0 · Stability 355 · Empathy 120 · Synergy 0 · Axis 0 · Suppression 0
+**Resilience** · Integrity 470 · Ward 355 · Persistence 295 · Anchoring 355 · Fortification 175 · Hardening 120 · Oath 295 · Continuity 0
+**Tempering** · Clarity 355 · Overflow 0 · Maturity 175 · Coherence 355 · Yield 0 · Ceiling 0 · Capacity 0 · Longevity 0
+**Dominion** · Radius 90 · Sovereignty 550 · Sense 185 · Gravity 185 · Pressure 455 · Command 185 · Fate 275 · Throne not opened
 
-Precision in the hands and feet, Finesse, Economy, Reflex and Penetration, with Perception and Acuity behind them: strikes expressed through precision, not spectacle. Harmonics is thin because he has never let another current into himself; he has enough trouble with the two he was born with.
+Precision in the hands and feet, Finesse, Economy, Reflex and Penetration, with Perception and Acuity behind them: strikes expressed through precision, not spectacle. Dominion made the jump a Stage XII soul makes: Sovereignty and Pressure carry it, and Radius stays short because his Corridor is a hall, not a field. Harmonics is thin because he has never let another current into himself; he has enough trouble with the two he was born with. Overflow, Ceiling and Yield stay shut: he has never pushed.
 
 ## VI. Physical Force
 
-**Strike Force** · B by Penetration 200, delivered at one point · **Lifting** · C; a density nobody expects in so long a frame
-**Travel speed** · C by Celerity 160, fast in the first exchange and faster in the readjustment · **Reaction** · B by Reflex 200
-**Durability** · C to B, exceptional for so long a frame
+**Strike Force** · SS by Penetration 590, delivered at one point · **Lifting** · S; a density nobody expects in so long a frame
+**Travel speed** · S by Celerity 470, fast in the first exchange and faster in the readjustment · **Reaction** · SS by Reflex 585
+**Durability** · S by Fortitude 470 and Constitution 415, exceptional for so long a frame
 
 ## VII. Aether Flow
 
-**EU Reserve** · 2,460 EU, as the old card records it, far beneath the Glory band and standing · **Flux Density** · 480 EU/g · **AU/s** · 427.2 (480 × 0.89)
-**From full** · empties in under six seconds at full output, Starvation at about five; nobody has ever seen him open at full, because he never needs to: each of his arts costs a fixed share and lands entire · **Recovery** · ten percent a minute at rest, which on so small a reserve is quick
+**EU Reserve** · 3.03 × 10⁸ EU, from the law of reserves at Level 395 (log₁₀ EU = 3.4202 + 0.012812 × 395) · **Flux Density** · 4.8 × 10⁶ EU/g · **AU/s** · 4.27 × 10⁶ (4.8 × 10⁶ × 0.89)
+**From full** · empties in about 71 seconds at full output, Starvation at about 64; nobody has ever seen him open at full, because he never needs to: each of his arts costs a fixed share and lands entire · **Recovery** · ten percent a minute at rest, which on so large a reserve is a long time and a short one
 
 ## VIII. Traits
 
-**TWIN-BLOOD HARMONY (Primary Trait)**
-Two pendulum clocks hung on one beam will, over a night, fall into the same swing, each nudging the other through the wood until they tick as one; the old clockmakers found it and could not stop it. His bloods did that. The Yukari current, Ashura's sight in his father's line, wide and deep and always reaching for every thread in the room, and the Lambert blood from his mother, exact and counting, the blood that reads a blow before it is thrown, pulled against each other through his childhood, and then over years, through the beam of his own Crystal, they began to answer: the count sharpens the sight, the sight gives the count something to count, and the two swing as one. It is constant and it is his greatest strength: no wasted motion, a defensive structure that is almost unnervingly complete. It costs the labor of keeping the treaty, every day, the Equilibrium Tax on every great working. Its limit and its counter are the same thing: two clocks kept in step by a shared beam can be knocked out of it by a strong enough outside rhythm. Anger, grief, a forced emotional beat, a technique that makes his bloods feel their old quarrel, and they slip out of step; he does not grow weaker at once, he grows more dangerous in the wrong directions, the Yukari side drowning in threads it cannot stop reading or the Lambert side narrowing into a cold count that has forgotten what it is counting for.
+Naiser Yukari, the Bearer of Weight and Lord of the Cedar Enclave, is a man of near thirty who won a forty-year war on a slope above a river and turned round to count what it cost. His abilities are a reflection of two bloods forced to keep one count and of the house's habit of entering every promise in a record, driven by the refusal to let the Yukari name be carried as anyone's banner. Figures marked *(derived)* are worked from the Fracture of Worlds tables and stand as canon on use until a source value beats them.
 
-**THE ENTERED WORD (Secondary Trait)**
-His house enters every promise made in its hall in the Yukari record, and his mother's house keeps its counts true or strikes the liar from its rolls; between the two, his soul learned that a word said is a word kept. Fixatio cures what it binds the way a thermoset cures: once the bridges form, the other shape is no longer a place it can go back to. Near him, declarations set. Oaths taken in his presence bind more tightly, betrayals leave deeper scars, and a man who brings him a grievance hears himself state it more plainly than he meant to. Reality listens a little harder when he decides what something is. It costs him nearness: people do not stand near him as near an ordinary man, but as near a record being written. Its limit is Fixatio's own failure: a binding set in error is set for good, and he has made some. Its counter is silence. Say nothing in his presence that you are not prepared to have cured into you.
+### Primary Trait: Twin-Blood Harmony (双血調和 · Sōketsu Chōwa)
 
-**THE BREATH'S CONTINUANCE (Inherited Trait)**
-Ashura's blood runs thinner in him than in his father, and it still lengthens the line of him and the life in it: extended vitality, refined sensory filtering, a strange resistance to spiritual decay. It makes him hard to rush toward ruin. It costs him the long view; he will outlive most of the people who stood near him, and knows it. Its limit is that it slows ruin rather than stopping it. Its counter is to be quick: hit him in the first moments, before he has settled into the slow, certain pace that is his best ground.
+Two pendulum clocks hung on one beam will, over a night, fall into the same swing, each nudging the other through the wood until they tick as one; the old clockmakers found it and could not stop it. His bloods did that. The Yukari current, Ashura's sight in his father's line, wide and deep and always reaching for every thread in the room, and the Lambert blood from his mother, exact and counting, the blood that reads a blow before it is thrown, pulled against each other through his childhood, and then over years, through the beam of his own Crystal, they began to answer.
 
-**Trait risks carried** · Resonance Fatigue: the Equilibrium Tax · Rigidity: he will not lean toward either blood even when leaning would save him · Shear Break condition: letting the Yukari name be carried as a banner
+* **The Clocks Agree (同調 · Dōchō):** Coupled oscillators lock phase through any shared medium, and his Crystal is the shared medium. The count sharpens the sight and the sight gives the count something to count, so every action arrives less like a choice than an inevitability: Finesse, Economy and Penetration run a Grade above what the numbers read when the two swing together. It is constant and costs him nothing to start, which is why it is also the thing an opponent attacks.
+* **The Count Reads (算読 · Sandoku):** The Lambert half is a ledger that has counted every blow it has seen. It reads a blow before it is thrown by comparing the shoulder's first commitment against thousands of earlier ones: a forecast made from priors, accurate until the opponent does something no one has done. In a fight he moves before the blow lands, and the opponent sees only a man who is never where the strike goes.
+* **The Sight Holds (糸視 · Itomi):** The Yukari half sees every Aether thread in the room, each person's current as a line, so he tracks several fighters at once and knows which of them is committed. Against a crowd it is why he is never surrounded; against one duelist it shows where the opponent's next line runs.
+* **Nature:** Passive and constant, a standing tuning. It scales with Tempering Coherence and Gnosis, and is bound to his two bloods agreeing. When they disagree, it fails all at once.
+* **Cost and Tell:** The Equilibrium Tax: every great working draws on the labor of keeping the bloods agreed, so a long fight turns his advantage into upkeep. His breath and heartbeat fall into one count, and the two notes of his aura drift together.
+* **Counter and Failure:** A rhythm that drives the bloods apart: a ragged, ugly fighter who cares nothing for form, or grief, which desynchronizes them. Rigidity is the failure: he will not lean toward either blood even when leaning would save him.
+
+### Secondary Trait: The Entered Word (録言 · Rokugen)
+
+His house enters every promise made in its hall in the Yukari record, and his mother's house keeps its counts true or strikes the liar from its rolls; between the two, his soul learned that a word said is a word kept.
+
+* **Setting (定着 · Teichaku):** Fixatio cures what it binds the way a thermoset cures: once the cross-links form, the other shape is no longer a place it can go back to. Near him, declarations set. Oaths taken in his presence bind more tightly and betrayals leave deeper scars. Reality listens a little harder when he decides what something is.
+* **Plain Speech (平語 · Heigo):** A man who brings him a grievance hears himself state it more plainly than he meant to, because the curing runs on what is said, and the extra words that would have hidden it do not set. It is the oldest of his tools: a negotiation with him is a record being written.
+* **The Binding Truce (縛休戦 · Shibari Kyūsen):** He can offer terms, and the terms bind both sides at the strength of the Setting. A truce he names holds against a broken sword, a grudge, a bribe. Breaking it costs the breaker, visibly, in the body.
+* **Nature:** Passive and social, bound to speech. It scales with Dominion Sovereignty and Resilience Oath, and works only on what is said within his hearing.
+* **Cost and Tell:** It costs him nearness: people do not stand near him as near an ordinary man, but as near a record being written. Oaths spoken near him come out plainer than the speaker meant.
+* **Counter and Failure:** Say nothing. A man who makes no declaration gives it nothing to set. The failure is over-cure: he cannot go back on his own word, including the mistaken ones.
+
+### Inherited Trait: The Breath's Continuance (続息 · Zokusoku)
+
+Ashura's blood runs thinner in him than in his father, and it still lengthens the line of him and the life in it.
+
+* **Slow Ruin (緩壊 · Kankai):** A strange resistance to spiritual decay: damage reaches him more slowly than it should, so he stays composed under a wound that would have broken a faster man. He is hard to rush toward ruin.
+* **The Filtered Sense (濾感 · Rokan):** Refined sensory filtering strips noise from what he perceives, so he reads a room's real signal through a crowd, a glamour or a haze.
+* **Nature:** Passive, slow, lengthening. It costs him the long view: he will outlive most of the people who stood near him, and knows it.
+* **Counter and Failure:** Be quick. Hit him in the first moments, before he has settled into the slow, certain pace that is his best ground. It slows ruin rather than stopping it.
 
 ## IX. Domain
 
-**Proto-threshold, unmanifested.** The precursor signs are present. Space round him sometimes behaves like a place between houses, between vows, between names, and those caught in his strongest pressure report a corridor between ancestral halls, judged by both and owned by neither. It will seed at Refraction.
+### The Corridor Between Halls (狭間の廊 · Hazama no Rō)
+
+At Emanation, Domains form naturally round a soul, and his formed without being called: space round him behaves like a place between houses, between vows, between names. Those caught in his strongest pressure report a corridor between ancestral halls, judged by both and owned by neither. A corridor is a waveguide: it passes only the modes it was built for, and a wave below its cutoff does not propagate but decays exponentially along its length. That is the physics of the whole Domain, and it is also its metaphysics, because "enough self" is a cutoff.
+
+* **The Threshold (敷居 · Shikii):** Anyone crossing the line without enough force of self is below cutoff. Their force, speed and intent feel the line as resistance in body and spirit at once, as if entering a doctrine that has already judged them unready, and the blow dies in the first pace past it. A fighter above cutoff walks through with a cost.
+* **The Two Benches (両席 · Ryōseki):** The corridor is judged from both ends, the Yukari hall and the Lambert bench. In it, every grievance, debt and unresolved inheritance a person carries is read, and the heavier the account, the heavier the air on them. It does not tell him what they will do, only what they owe.
+* **The Length (廊の長 · Rō no Naga):** Radius stays short, about two hundred paces *(derived from Dominion Radius 90)*, because it is a hall, not a field. Inside it there are two doors, one at each end, and a guest may leave by either.
+* **Nature:** Active, area, bounded; it costs a Band IV Domain's draw and he holds it for minutes. It is the fixed home of Yukari no Mon.
+* **Cost and Tell:** A line of dimmed air, then pillars appearing in the dark at the corridor's edges, and the two notes of his aura becoming a long hall's echo.
+* **Counter and Failure:** Cross with enough self, or walk out by a door. The failure is the corridor's own: it is only as sound as the judgment of both houses, and a man who has settled with both is below nothing.
 
 ## X. Techniques
 
-**KAGE NO KEIFU · Genealogy of Shadow (Signature Technique)** · mark: Mastered
-He lets a layered shadow-current run through the other man's Aether, and Anamnesis reads it as it goes, the way a scholar reads a record, and pulls every dormant tension, contradiction and lineage fracture in that soul up to the surface at once. Against an unstable enemy it brings hesitation, backlash or a loss of form; against a disciplined one it still muddies the tempo, because they feel every unresolved inheritance in them together. It costs 320 EU, thirteen percent of his reserve. It needs contact through the Aether, a crossed blade or a held gaze. Its counter is a soul with nothing unresolved in it, rarer than gold; or a ward that returns a reading. The tell is his shadow stretching toward you across the ground.
+### Signature Technique: Kage no Keifu (影の系譜 · Genealogy of Shadow)
 
-**YUKARI NO MON · Gate of the Bound Line (Signature Technique)** · mark: Mastered
-He sets a threshold across the field, a line of pressure that marks the territory of his will, and Fixatio cures it into the ground. Those who cross it without enough force of self feel resistance in body and spirit at once, as if entering a doctrine that has already judged them unready. It costs 540 EU, twenty-two percent of his reserve, and holds while he stands. Its limit is the length of a line he can walk. It is less a wall than a declaration; it is beaten by crossing it with enough self, by a will that has already decided what it is, or by going round its ends. The tell is the air along it dimming, as if a lamp had been turned down only there.
+He lets a layered shadow-current run through the other man's Aether, and Anamnesis reads it as it goes, the way a scholar reads a record.
 
-**RYŌKE NO KATA · Form of Both Houses (Signature Technique)** · mark: Mastered
-The two bloods brought into full synchronised expression: the Yukari sight and the Lambert count swinging as one clock. His strikes become ruthlessly efficient, his steps hard to read, his defense almost complete, and each action arrives less like a choice than an inevitability. It costs 710 EU, twenty-nine percent of his reserve, for the length of an exchange. Its limit is the treaty: held too long or too often, it is where the Equilibrium Tax comes due. Its tell is the two notes of his aura becoming one. Its counter is the long fight; outlast it, and the clocks start to drift.
+* **The Reading (読取 · Yomitori):** Anamnesis stores history in readable form, the way fired clay keeps its dose, and the shadow-current is the reading head. It pulls every dormant tension, contradiction and lineage fracture in that soul up to the surface at once.
+* **The Surfacing (浮上 · Fujō):** Against an unstable enemy it brings hesitation, backlash or a loss of form; against a disciplined one it still muddies the tempo, because they feel every unresolved inheritance in them together.
+* **Nature:** Active, contact-borne. It costs about 3.9 × 10⁷ EU, thirteen percent of his reserve *(derived)*. It needs contact through the Aether, a crossed blade or a held gaze.
+* **Cost and Tell:** His shadow stretches toward the other man.
+* **Counter and Failure:** A soul with nothing unresolved in it, rarer than gold; or a ward that returns a reading.
+
+### Signature Technique: Yukari no Mon (縁の門 · Gate of the Bound Line)
+
+He sets a threshold across the field, a line of pressure that marks the territory of his will, and Fixatio cures it into the ground.
+
+* **The Line (線 · Sen):** A thermoset cure laid along the ground: once cross-linked it holds without him. Those who cross without enough force of self feel resistance in body and spirit at once, and it is the seed of the Corridor's Threshold.
+* **The Declaration (宣言 · Sengen):** It is less a wall than a declaration, so it is beaten by crossing it with enough self, by a will that has already decided what it is, or by going round its ends.
+* **Nature:** Active, area-denial. It costs about 6.7 × 10⁷ EU, twenty-two percent of his reserve *(derived)*, and holds while he stands. Its limit is the length of a line he can walk.
+* **Cost and Tell:** The air along it dims, as if a lamp had been turned down only there.
+* **Counter and Failure:** Cross it with enough self, or go round.
+
+### Signature Technique: Ryōke no Kata (両家の型 · Form of Both Houses)
+
+The two bloods brought into full synchronized expression: the Yukari sight and the Lambert count swinging as one clock.
+
+* **The Form (型 · Kata):** His strikes become ruthlessly efficient, his steps hard to read, his defense almost complete. In a duel it is the answer to a stronger opponent: it removes waste, not force.
+* **The Reckoning (清算 · Seisan):** Because the count is exact, every exchange ends with an account struck: what he spent, what the other man spent, who is ahead. He leaves the fight the moment the sum turns.
+* **Nature:** Active, for the length of an exchange. It costs about 8.8 × 10⁷ EU, twenty-nine percent of his reserve *(derived)*. Held too long or too often, it is where the Equilibrium Tax comes due.
+* **Cost and Tell:** The two notes of his aura become one.
+* **Counter and Failure:** The long fight; outlast it, and the clocks start to drift.
+
+### Signature Technique: Kemuri no Han (煙の判 · Smoke Verdict)
+
+He lights the rolled leaf from a coal, and what he says through the smoke is entered. The habit was his before the art: a pause in every argument. Fixatio took the habit and made it law.
+
+* **The Skein (筋 · Suji):** An exhaled aerosol is a tracer: its pattern shows the air's flow. Fixatio cures it, so the smoke stands in a skein that does not drift. It records the sentence spoken through it, and the sentence binds those inside it until the smoke clears.
+* **The Bend (曲 · Magari):** The smoke bends once when a lie is told inside it, the same bend that tells him when he himself is lying. In an exchange it is a lie detector the other man can see, which is the point.
+* **The Cord (縄 · Nawa):** In a fight he can set a verdict as a cord round a target: "you will not cross this floor until you have answered me," and the skein holds him to it for as long as the leaf burns. It is a snare for a person, not a body, and it breaks if what he said becomes false.
+* **Nature:** Active, short, bound to the leaf. It costs about 2.4 × 10⁷ EU, eight percent of his reserve *(derived)*, and lasts as long as the leaf.
+* **Cost and Tell:** The smoke from the leaf stands still.
+* **Counter and Failure:** Make what he said false: win the fight, change the terms, take the floor. A cord is only as strong as its sentence.
 
 **Vows** · none in force
 
-**THE TWIN MANTLE (First Release)** · folk name: the Night Between
-His aura settles over him like a second coat: black silk over the shoulders, silver-violet at the seams, and for a breath the two halves of him show, the Breath's long line and the Lambert count laid one over the other like two pages held to the light. TWIN-BLOOD HARMONY strikes at the top of its Grade. Its drain is set by the size of his reserve: it holds about eight seconds from full, which is one exchange, which is all he has ever needed it for. Called, it is the house's name, spoken; silent, the second page does not show. Afterward he is spent, and the quarrel in his blood is loud for an hour.
+## Releases
+
+### First Release: The Twin Mantle (双衣 · Sōi)
+
+Called with the house's name, spoken, or silent and weaker. His aura settles over him like a second coat: black silk over the shoulders, silver-violet at the seams, and for a breath the two halves of him show, the Breath's long line and the Lambert count laid one over the other like two pages held to the light.
+
+* **The Second Page (二枚目 · Nimaime):** TWIN-BLOOD HARMONY strikes at the top of its Grade. Silent, the second page does not show.
+* **Nature:** Active, short. It holds about forty seconds from full, one fight's worth. Afterward he is spent, and the quarrel in his blood is loud for an hour.
+* **Tell and Counter:** The aura becomes a coat. Outlast it.
+
+### Second Release: The Corridor Between Halls (狭間の廊 · Hazama no Rō)
+
+Opens the Domain. See Section IX.
+
+### Third Release: The Record Opens (開録 · Kairoku)
+
+He speaks the line from his Telling stone, *Master the innards, and the outer world is yours to command*, and the Yukari record opens: every promise ever entered in the hall, every debt counted on the Lambert bench, brought due at once inside the Corridor.
+
+* **The Roll (点呼 · Tenko):** Those who have kept their oaths find them a weight lifted; those who have broken one feel it land, in body and spirit, at the size it was made. Nothing is invented. It is a reading of what is already owed.
+* **The Cure (硬化 · Kōka):** Fixatio sets the reading as law for the length of the release, so a man cannot undo what he swore, and his own promises hold hardest of all.
+* **Nature:** Active, short and heavy. It costs the Corridor's draw and then the Equilibrium Tax: it holds about twelve seconds, and afterward his bloods quarrel for a day.
+* **Tell and Counter:** The line spoken aloud, and the record's pages turning in the air. Stand on no oath, or owe nothing, or outlast the twelve seconds.
 
 **Bonded weapon** · The unnamed longblade, narrow and severe, carried more as punctuation than ornament; it carries THE TWIN MANTLE's edge
 
@@ -146,7 +230,7 @@ None carried on the card. People stand near him as near a record being written.
 
 ## XII. Resistances
 
-**Spiritual decay** · strong, the Breath in his blood · **Glamour and mind-work** · fair, Ward 120, Cognition 60 · **Emotional destabilisation** · his weak point; it desynchronises the bloods · **Brute, formless violence** · uncomfortable; an enemy who does not care about form drags him onto ugly ground
+**Spiritual decay** · very strong, the Breath in his blood · **Glamour and mind-work** · strong, Ward 355, Cognition 175 · **Emotional destabilization** · his weak point; it desynchronizes the bloods · **Brute, formless violence** · uncomfortable; an enemy who does not care about form drags him onto ugly ground
 
 ## XIII. Physical Description
 
@@ -173,15 +257,16 @@ He is tall even sitting, long in the limb, composed, with the refined stillness 
 
 ## XVI. Temperance Record
 
-**Level log** · Level 188: a life in the Yukari yard and the forty-year war
-**Stage ledger** · Stages I to V: the yard's trials and the war's, taken under his father's eye · Stage VI, Glory: Catalyst the winter his father went into the seam, and the years he held the house without him
+**Level log** · Level 395: a life in the Yukari yard, the forty-year war, and the four winters since his father went into the seam
+**Stage ledger** · Stages I to V: the yard's trials and the war's, taken under his father's eye · Stage VI, Glory: Catalyst the winter his father went into the seam, and the years he held the house without him · Stages VII to X: seclusion in the Cedar Enclave, each guarded by Naevra, each a long road: Refraction when the Corridor first seeded, Transcendence, Invocation, Realization · Stage XI, Dissonance: Catalyst the slope above the river, where he met a force that could end him and held coherent long enough to choose how · Stage XII, Emanation: the morning after, when the Corridor formed round him without his calling it and the four hundred and eleven lay behind him
 
-He climbed by the inclined plane. Ascensio laid each Threshold over a long road, so his Crystal never met a crisis it could not carry; and he knows, as the Wellspring's students do, that the work is never reduced, only redistributed, and that he arrives at every Stage owing the difference.
+He climbed by the inclined plane. Ascensio laid each Threshold over a long road, so his Crystal never met a crisis it could not carry; and he knows, as the Wellspring's students do, that the work is never reduced, only redistributed, and that he arrives at every Stage owing the difference. At Stage XII he owes six.
 
 ## XVII. Fracture Log
 
 **The two bloods** · Layer Core · Status processed · Feature TWIN-BLOOD HARMONY
-**The slope above the river** · Layer Attraction · Status open · Feature the hair he did not cut, because he had won
+**The slope above the river** · Layer Attraction · Status processed into Emanation · Feature THE CORRIDOR BETWEEN HALLS, and the hair he did not cut, because he had won
+**The Seikai seam** · Layer Fate · Status open · Feature the wound in Ashura his father went into
 
 ---
 

@@ -335,3 +335,17 @@ the Funnel: Main 58 tools, friends 20, no token 401. Also fixed:
 `WOTR_MCP_PUBLIC_URL` in `~/.config/wotr/env` named a dead host (ultron-1), so
 audio links from the old route did not resolve; it is ultron now.
 
+### 2026-11-04 — Search tools in Rust; research on Agent Reach (Isaac's decisions; recorded by Claude Code)
+
+`wiki`, `scene_recall` and `scene_context` run natively in `rust/` (phase 3):
+the query is embedded with the same bge-small ONNX model and the wotr venv's ONNX
+Runtime 1.30 (bit-identical vectors; the system 1.29 differs in the fourth
+decimal), against `build/index/` as the sync builds it. Parity: 108 cases
+identical; ten differ only in the order of tied results, which Python itself
+randomizes (alias sets, numpy's unstable argsort). About twice as fast warm.
+`session_start` moved to phase 4 with the table (it needs `table.due`).
+`research` no longer uses Antigravity: Agent Reach web search and page reads,
+agent-browser (installed at Isaac's request, on the system Chromium) for pages
+Agent Reach cannot read, the Superpower Wiki through its MediaWiki API; a bot
+check is reported, never passed.
+

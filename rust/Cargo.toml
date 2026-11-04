@@ -17,6 +17,10 @@ fancy-regex = "0.20"
 axum = "0.8"
 tower = { version = "0.5", features = ["util"] }
 tower-http = { version = "0.7", features = ["fs"] }
+# embeddings: the system ONNX Runtime (onnxruntime-cpu), loaded at run time, and the model's own tokenizer
+ort = { version = "=2.0.0-rc.15", default-features = false, features = ["std", "load-dynamic", "api-24"] }
+unicode-normalization = "0.1"
+tokenizers = { version = "0.22", default-features = false, features = ["onig"] }
 
 [profile.release]
 lto = "thin"

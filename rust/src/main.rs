@@ -11,10 +11,12 @@
 //!                                         / and /ro) gated by the named keys, and the key dashboard on
 //!                                         127.0.0.1 (default 8790); see http.rs
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
+mod embed;
 mod http;
 mod keys;
 mod pages;
 mod rules;
+mod search;
 mod util;
 mod verify;
 
@@ -31,7 +33,7 @@ use util::root;
 
 const NATIVE: &[&str] = &[
     "load_rules", "rule", "check_docket", "list_conflicts", "natalie", "natalie_gpt", "skill",
-    "character", "fow_line", "verify_scene",
+    "character", "fow_line", "verify_scene", "wiki", "scene_recall", "scene_context",
 ];
 
 #[derive(Deserialize, Clone)]
@@ -122,6 +124,9 @@ fn arg_req(a: &Map<String, Value>, k: &str) -> Result<String, String> {
 fn arg_bool(a: &Map<String, Value>, k: &str) -> bool {
     a.get(k).and_then(Value::as_bool).unwrap_or(false)
 }
+fn arg_int(a: &Map<String, Value>, k: &str, def: i64) -> i64 {
+    a.get(k).and_then(Value::as_i64).unwrap_or(def)
+}
 fn arg_list(a: &Map<String, Value>, k: &str) -> Option<Vec<String>> {
     a.get(k)?.as_array().map(|v| v.iter().filter_map(|x| x.as_str().map(String::from)).collect())
 }
@@ -140,6 +145,9 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
         "skill" => pages::skill(&arg_str(a, "name", ""), &arg_str(a, "file", ""), hide, note),
         "character" => pages::character(&arg_req(a, "name")?),
         "fow_line" => pages::fow_line(&arg_req(a, "name")?),
+        "wiki" => search::wiki(&arg_req(a, "query")?, a.get("full").and_then(Value::as_bool).unwrap_or(true), arg_int(a, "limit", 6)),
+        "scene_recall" => search::scene_recall(&arg_req(a, "query")?, arg_int(a, "limit", 8), arg_bool(a, "old_lore")),
+        "scene_context" => search::scene_context(&arg_req(a, "draft")?, arg_int(a, "budget", 24000)),
         "verify_scene" => {
             let (culture, school) = (arg_str(a, "culture", ""), arg_str(a, "school", ""));
             let o = verify::Opts {
@@ -265,6 +273,13 @@ impl ServerHandler for Wotr {
     }
 }
 
+/// First-use costs moved off the request path: verify's ~120 regexes, the embedding model and the
+/// search index (~60 MB), and the lorebook's alias registry.
+fn warm() {
+    let _ = verify::run("warm", &verify::Opts { combat: true, explicit: true, ..Default::default() });
+    let _ = search::scene_context("warm", 1000);
+}
+
 // ---------------------------------------------------------------- command line
 fn verify_cli(args: &[String]) -> i32 {
     let flag = |f: &str| args.iter().any(|a| a == f);
@@ -299,6 +314,17 @@ async fn main() {
             let s = std::process::Command::new("bash").args(["build/py.sh", "build/mcp_worker.py", "--dump"]).current_dir(&*util::ROOT).status();
             std::process::exit(s.map(|s| s.code().unwrap_or(1)).unwrap_or(1));
         }
+        Some("embed") => {
+            // the query vector as JSON, for checking it against fastembed's
+            match embed::embed(args.get(1).map(String::as_str).unwrap_or("")) {
+                Ok(v) => println!("{}", serde_json::to_string(&v).unwrap()),
+                Err(e) => {
+                    eprintln!("{e}");
+                    std::process::exit(1)
+                }
+            }
+            return;
+        }
         Some("call") => {
             let tool = args.get(1).cloned().unwrap_or_default();
             let json = match args.get(2).map(String::as_str) {
@@ -325,7 +351,7 @@ async fn main() {
         let ports = if ports.is_empty() { vec![8765, 8767] } else { ports };
         let dash = values("--dash").first().and_then(|p| p.parse().ok()).unwrap_or(8790);
         let template = Wotr::fixed(true, false);
-        std::thread::spawn(|| verify::run("warm", &verify::Opts { combat: true, explicit: true, ..Default::default() }));
+        std::thread::spawn(warm);
         let w = template.worker.clone();
         tokio::spawn(async move { w.warm().await });
         http::serve(template, ports, dash, values("--log").first().cloned()).await;
@@ -335,7 +361,7 @@ async fn main() {
     let server = Wotr::fixed(ops, flag("--read-only"));
     // warm-ups, off the request path: verify's ~120 regexes compile on first use, and the Python
     // worker imports mcp_server once; both would otherwise land on the first call that needs them
-    std::thread::spawn(|| verify::run("warm", &verify::Opts { combat: true, explicit: true, ..Default::default() }));
+    std::thread::spawn(warm);
     let tools = server.surface().tools;
     if tools.iter().any(|t| !NATIVE.contains(&t.name.as_str())) {
         let w = server.worker.clone();

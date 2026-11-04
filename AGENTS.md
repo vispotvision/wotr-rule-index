@@ -68,8 +68,10 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   "Arctic Lion" page); the thread's latest archived scene says which; check
   before you trust `fow_line`.
 - **WOTR MCP in Rust** (`rust/`, binary `rust/target/release/wotr-mcp`, since 2026-11-04) —
-  what `.mcp.json` now launches. Ten tools run natively (load_rules, rule, check_docket,
-  list_conflicts, natalie, natalie_gpt, skill, character, fow_line, verify_scene); every other
+  what `.mcp.json` now launches. Thirteen tools run natively (load_rules, rule, check_docket,
+  list_conflicts, natalie, natalie_gpt, skill, character, fow_line, verify_scene, wiki,
+  scene_recall, scene_context; the semantic search embeds queries with the same bge-small ONNX
+  model and the wotr venv's ONNX Runtime, reading `build/index/`, which Python still builds); every other
   tool goes to one long-lived `build/mcp_worker.py`, which imports `mcp_server.py`. Tool names,
   descriptions and schemas come from `rust/tools.json`: after changing a Python tool's
   signature or docstring run `rust/target/release/wotr-mcp dump`. After changing a native tool

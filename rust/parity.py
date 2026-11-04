@@ -59,6 +59,20 @@ def cases():
     for n in sorted(names) + ["Moto", "Yoko", "zzz-nobody", "a"]:
         yield "character", {"name": n}
         yield "fow_line", {"name": n}
+    for q in ["Soul Crystal", "Renard Greymane", "Emira", "Kaalabad", "Standing Inventory Kharven", "the Scene Archive",
+              "Pyreveil thermal debt", "What Things Cost", "Kōkan Line", "Shirogane", "how does eta work", "Wellspring",
+              "Draw Age standpipes", "Aetherion Academy", "Malphas", "Hild Ice", "Cozbi Mahuo", "Yoko Mishiro", "Measurewright",
+              "Release forms", "Dominion Pressure", "the Veil", "zzzz nothing qqq", "Moto", "Sodoku Moto Arctic Lion"]:
+        yield "wiki", {"query": q}
+        yield "wiki", {"query": q, "full": False, "limit": 12}
+    for q in ["the duel at the arena", "Amelia Greymane", "a funeral in the snow", "Yukazuri", "the ledger comes due",
+              "Glass and Irons", "the king's door", "who swore the oath", "fire meets frost", "Kujo arc"]:
+        yield "scene_recall", {"query": q}
+        yield "scene_recall", {"query": q, "old_lore": True, "limit": 12}
+    for sp in sorted((ROOT / "lore/v1/scenes").glob("*.md"))[::8] + sorted((ROOT / "scenes").glob("*.md"))[:6]:
+        txt = sp.read_text(encoding="utf-8", errors="replace")
+        yield "scene_context", {"draft": txt[:3000]}
+    yield "scene_context", {"draft": "Sodoku Moto walked in. Nobody spoke to Blarvex Quintillion, and Blarvex Quintillion said nothing back."}
     scenes = sorted(p for p in (ROOT / "scenes").glob("*.md")) + sorted((ROOT / "lore/v1/scenes").glob("*.md")) \
         + sorted((ROOT / "desktop/style-bank").rglob("*.md"))
     for p in scenes:
@@ -70,7 +84,7 @@ def cases():
 
 
 def main() -> int:
-    bad, seen, total = {}, {}, 0
+    bad, seen, total, order_only = {}, {}, 0, {}
     for tool, args in cases():
         if wanted and tool not in wanted:
             continue
@@ -81,6 +95,9 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             py = f"<<python error>> {type(e).__name__}: {e}"
         rs = rust(tool, args)
+        if py != rs and sorted(py.splitlines()) == sorted(rs.splitlines()):
+            order_only[tool] = order_only.get(tool, 0) + 1  # same lines, ties in another order
+            continue
         if py != rs:
             bad.setdefault(tool, []).append(args)
             if len(bad[tool]) == 1:
@@ -88,7 +105,7 @@ def main() -> int:
                 print(f"\n=== MISMATCH {tool} {shown}")
                 print("".join(list(difflib.unified_diff(py.splitlines(True), rs.splitlines(True), "python", "rust", n=1))[:40]))
     for tool, n in seen.items():
-        print(f"{tool:15} {n - len(bad.get(tool, [])):5}/{n} match")
+        print(f"{tool:15} {n - len(bad.get(tool, [])):5}/{n} match" + (f" ({order_only[tool]} of them in a different tie order)" if tool in order_only else ""))
     print(f"{total} cases, {sum(map(len, bad.values()))} mismatches")
     return 1 if bad else 0
 

@@ -1970,6 +1970,32 @@ def _reach(*args: str, timeout: int = 90) -> dict:
         return {"ok": False, "error": {"code": "BAD_OUTPUT", "message": str(e)}}
 
 
+def _browser_read(url: str) -> tuple[str, str] | None:
+    """(title, text) of a page through agent-browser (Vercel's headless-Chrome CLI, on the system
+    Chromium), for pages Agent Reach cannot read: script-built pages, readers it is paused on. A page
+    that answers with a bot check is reported as blocked, never pushed through. None when it fails."""
+    ab = shutil.which("agent-browser") or str(Path.home() / ".local/bin/agent-browser")
+    if not Path(ab).exists():
+        return None
+    os.environ.setdefault("AGENT_BROWSER_EXECUTABLE_PATH", "/usr/bin/chromium")
+    run = lambda *a: _run([ab, "--session", "wotr-research", *a], timeout=60)  # noqa: E731
+    try:
+        if run("open", url)[0] != 0:
+            return None
+        title = run("get", "title")[1].strip()
+        if title.lower().startswith(("just a moment", "attention required", "access denied")):
+            return title, "(blocked by the site's bot check)"
+        code, text = run("get", "text", "body")
+        return (title, text) if code == 0 and text.strip() else None
+    except subprocess.TimeoutExpired:
+        return None
+    finally:
+        try:
+            run("close")
+        except subprocess.TimeoutExpired:
+            pass
+
+
 def _wikitext_plain(t: str) -> str:
     t = re.sub(r"(?s)<ref[^>]*>.*?</ref>|<ref[^>]*/>|<!--.*?-->", "", t)
     for _ in range(3):  # nested templates
@@ -2009,7 +2035,8 @@ def _superpower(query: str) -> str:
 
 @server.tool()
 def research(question: str, read: int = 2, urls: list[str] | None = None, power: str = "") -> str:
-    """Outside research on the open web through Agent Reach (search and page reading on Isaac's machine).
+    """Outside research on the open web through Agent Reach (search and page reading on Isaac's machine;
+    a page it cannot read is opened in a headless browser instead).
     For real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,
     trades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page
     in `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own
@@ -2029,7 +2056,12 @@ def research(question: str, read: int = 2, urls: list[str] | None = None, power:
         r = _reach("read", u)
         if not r.get("ok"):
             e = r.get("error") or {}
-            out.append(f"## Could not read {u}: {e.get('code')}")
+            got = _browser_read(u)
+            if got:
+                title, text = got
+                out.append(f"## {title or u} ({u}, read in a browser)\n\n" + text.strip()[:7000] + ("\n...[truncated]" if len(text) > 7000 else ""))
+            else:
+                out.append(f"## Could not read {u}: {e.get('code')}")
             continue
         for i in (r.get("items") or [])[:1]:
             text = (i.get("text") or "").strip()

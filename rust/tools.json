@@ -1608,7 +1608,7 @@
   },
   {
    "name": "research",
-   "description": "Outside research on the open web through Agent Reach (search and page reading on Isaac's machine).\nFor real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,\ntrades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page\nin `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own\ntext with their URLs for you to read and cite: outside research, never canon and never a rule source;\nit does not go in a verbatim field. A failed source is named, not retried.",
+   "description": "Outside research on the open web through Agent Reach (search and page reading on Isaac's machine;\na page it cannot read is opened in a headless browser instead).\nFor real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,\ntrades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page\nin `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own\ntext with their URLs for you to read and cite: outside research, never canon and never a rule source;\nit does not go in a verbatim field. A failed source is named, not retried.",
    "inputSchema": {
     "properties": {
      "question": {

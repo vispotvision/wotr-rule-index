@@ -49,7 +49,7 @@ pub fn git(args: &[&str]) -> (i32, String) {
     }
 }
 
-fn date_fmt(fmt: &str) -> String {
+pub(crate) fn date_fmt(fmt: &str) -> String {
     std::process::Command::new("date").arg(format!("+{fmt}")).output().map(|o| String::from_utf8_lossy(&o.stdout).trim().to_string()).unwrap_or_default()
 }
 
@@ -58,7 +58,7 @@ pub fn today() -> String {
     date_fmt("%F")
 }
 
-fn now_iso() -> String {
+pub(crate) fn now_iso() -> String {
     date_fmt("%Y-%m-%dT%H:%M:%S")
 }
 
@@ -959,7 +959,7 @@ fn manifest() -> Map<String, Value> {
     serde_json::from_str(&read_lossy(&root("wiki/.manifest.json"))).unwrap_or_default()
 }
 
-fn find_page(title: &str) -> Option<(String, String)> {
+pub(crate) fn find_page(title: &str) -> Option<(String, String)> {
     let m = manifest();
     let tl = title.to_lowercase();
     let title_of = |v: &Value| s(v.get("title")).to_lowercase();

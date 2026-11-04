@@ -16,18 +16,11 @@ macro_rules! rx {
 }
 
 /// A row: column A first (openpyxl's iter_rows starts at column 1), None for an empty cell.
-type Row = Vec<Option<String>>;
+pub type Row = Vec<Option<String>>;
 type Sheets = Vec<(String, Vec<Row>)>;
 
 fn codex_path() -> PathBuf {
-    let home = std::env::var("HOME").unwrap_or_default();
-    let raw = std::env::var("WOTR_TRUE_CANON").ok().filter(|v| !v.is_empty()).or_else(|| {
-        let env = std::fs::read_to_string(format!("{home}/.config/wotr/env")).unwrap_or_default();
-        env.lines().filter_map(|l| l.trim().strip_prefix("WOTR_TRUE_CANON=")).map(|v| v.trim().trim_matches(|c| c == '"' || c == '\'').to_string()).find(|v| !v.is_empty())
-    });
-    let raw = raw.unwrap_or_else(|| "~/wotr-vault/true-canon".into());
-    let raw = if raw == "~" || raw.starts_with("~/") { format!("{home}{}", &raw[1..]) } else { raw };
-    PathBuf::from(raw).join("The Master Codex.xlsx")
+    crate::util::env_path("WOTR_TRUE_CANON", Some("~/wotr-vault/true-canon")).unwrap().join("The Master Codex.xlsx")
 }
 
 fn cell(d: &Data) -> Option<String> {
@@ -69,6 +62,79 @@ fn sheets() -> Result<Arc<Sheets>, String> {
     let s = Arc::new(out);
     *c = Some((mtime, s.clone()));
     Ok(s)
+}
+
+/// Python's repr() of a float.
+fn py_float(f: f64) -> String {
+    if !f.is_finite() {
+        return if f.is_nan() { "nan" } else if f > 0.0 { "inf" } else { "-inf" }.into();
+    }
+    let e = format!("{f:e}");
+    let (m, exp) = e.split_once('e').unwrap();
+    let exp: i32 = exp.parse().unwrap();
+    let (sign, d) = (if m.starts_with('-') { "-" } else { "" }, m.replace(['-', '.'], ""));
+    if (-4..16).contains(&exp) {
+        let point = exp + 1;
+        if point <= 0 {
+            return format!("{sign}0.{}{d}", "0".repeat(-point as usize));
+        }
+        let d = format!("{d:0<w$}", w = point as usize);
+        let (i, f) = d.split_at(point as usize);
+        return format!("{sign}{i}.{}", if f.is_empty() { "0" } else { f });
+    }
+    let m = if d.len() > 1 { format!("{}.{}", &d[..1], &d[1..]) } else { d };
+    format!("{sign}{m}e{}{:02}", if exp < 0 { '-' } else { '+' }, exp.abs())
+}
+
+/// The <v> text of a sheet's number cells by (row, column) from 0, read from the xlsx itself: openpyxl
+/// makes a number an int unless that text has a '.' or an exponent, which calamine's f64 cannot say.
+fn raw_numbers(p: &std::path::Path, name: &str) -> std::collections::HashMap<(usize, usize), String> {
+    use std::io::Read;
+    let mut out = std::collections::HashMap::new();
+    let Some(mut z) = std::fs::File::open(p).ok().and_then(|f| zip::ZipArchive::new(f).ok()) else { return out };
+    let mut read = |f: &str| {
+        let mut s = String::new();
+        if let Ok(mut e) = z.by_name(f) {
+            let _ = e.read_to_string(&mut s);
+        }
+        s
+    };
+    let attr = |tag: &str, k: &str| rx!(r#"\s([\w:]+)="([^"]*)""#).captures_iter(tag).flatten().find(|c| &c[1] == k).map(|c| c[2].to_string());
+    let esc = name.replace('&', "&amp;").replace('<', "&lt;").replace('>', "&gt;").replace('"', "&quot;");
+    let wb = read("xl/workbook.xml");
+    let Some(rid) = rx!(r"<sheet\s[^>]*>").find_iter(&wb).flatten().map(|m| m.as_str()).find(|s| attr(s, "name").as_deref() == Some(&esc)).and_then(|s| attr(s, "r:id")) else { return out };
+    let rels = read("xl/_rels/workbook.xml.rels");
+    let Some(target) = rx!(r"<Relationship\s[^>]*>").find_iter(&rels).flatten().map(|m| m.as_str()).find(|s| attr(s, "Id").as_deref() == Some(&rid)).and_then(|s| attr(s, "Target")) else { return out };
+    let xml = read(&target.strip_prefix('/').map(String::from).unwrap_or_else(|| format!("xl/{target}")));
+    for m in rx!(r"<c\s[^>]*>").find_iter(&xml).flatten() {
+        let tag = m.as_str();
+        if tag.ends_with("/>") || attr(tag, "t").is_some_and(|t| t != "n") {
+            continue;
+        }
+        let body = &xml[m.end()..xml[m.end()..].find("</c>").map_or(m.end(), |i| m.end() + i)];
+        let (Some(r), Some(v)) = (attr(tag, "r"), rx!(r"<v>([^<]*)</v>").captures(body).ok().flatten()) else { continue };
+        let col = r.chars().take_while(char::is_ascii_alphabetic).fold(0, |a, c| a * 26 + (c as usize - 'A' as usize + 1));
+        if let Ok(row) = r.trim_start_matches(|c: char| c.is_ascii_alphabetic()).parse::<usize>() {
+            out.insert((row - 1, col - 1), v[1].to_string());
+        }
+    }
+    out
+}
+
+/// One sheet of any workbook as openpyxl's read-only iter_rows(values_only=True) gives it: from row 1,
+/// a number printed as Python prints the int or float openpyxl made of it.
+pub fn sheet_rows(p: &std::path::Path, name: &str) -> Result<Vec<Row>, String> {
+    let mut wb: Xlsx<_> = open_workbook(p).map_err(|e| format!("{}: {e}", p.display()))?;
+    let range = wb.worksheet_range(name).map_err(|_| format!("KeyError: 'Worksheet {name} does not exist.'"))?;
+    let raw = raw_numbers(p, name);
+    let (r0, c0) = range.start().map(|(r, c)| (r as usize, c as usize)).unwrap_or((0, 0));
+    let num = |r: usize, c: usize, d: &Data| match (d, raw.get(&(r, c))) {
+        (Data::Float(f), Some(v)) if v.contains(['.', 'e', 'E']) => Some(py_float(*f)),
+        (Data::Float(f), Some(_)) => Some(format!("{}", *f as i64)),
+        _ => cell(d),
+    };
+    let rows = range.rows().enumerate().map(|(i, r)| std::iter::repeat_n(None, c0).chain(r.iter().enumerate().map(|(j, d)| num(r0 + i, c0 + j, d))).collect());
+    Ok(std::iter::repeat_n(Row::new(), r0).chain(rows).collect())
 }
 
 fn at(r: &Row, i: usize) -> Option<&str> {
@@ -206,4 +272,14 @@ pub fn check(text: &str) -> Result<String, String> {
     ));
     out.push(if fails == 0 { "CLEAN".into() } else { format!("{fails} FAIL") });
     Ok(out.join("\n"))
+}
+
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn float_repr() {
+        for (f, s) in [(20.0, "20.0"), (0.5, "0.5"), (-1.25, "-1.25"), (1e16, "1e+16"), (1e15, "1000000000000000.0"), (0.0001, "0.0001"), (1e-5, "1e-05"), (1.5e-7, "1.5e-07"), (0.0, "0.0"), (123456.789, "123456.789")] {
+            assert_eq!(super::py_float(f), s);
+        }
+    }
 }

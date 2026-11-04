@@ -115,16 +115,6 @@ fn text(status: StatusCode, body: impl Into<String>) -> Response {
     (status, [(header::CONTENT_TYPE, "text/plain; charset=utf-8")], body.into()).into_response()
 }
 
-fn audio_dir() -> PathBuf {
-    // the Drive folder when WOTR_DRIVE is set and mounted (rclone), else the repo's docs/audio
-    if let Ok(d) = std::env::var("WOTR_DRIVE") {
-        let d = PathBuf::from(d.replacen('~', &std::env::var("HOME").unwrap_or_default(), 1));
-        if d.is_dir() {
-            return d.join("War of the Realms — Documents").join("Arcs").join("Audio");
-        }
-    }
-    crate::util::root("docs/audio")
-}
 
 fn walk(dir: &Path, out: &mut Vec<PathBuf>) {
     for e in std::fs::read_dir(dir).into_iter().flatten().flatten() {
@@ -147,7 +137,7 @@ async fn file(req: Request, target: &Path) -> Response {
 
 /// /audio/<relative path>: the rendered MP3s, Range-capable for a phone player; /audio/ lists them.
 async fn audio(req: Request, tail: &str) -> Response {
-    let root = audio_dir();
+    let root = crate::util::audio_dir();
     let rel = pct_decode(tail).replace('\\', "/").trim_matches('/').to_string();
     let real = root.canonicalize().unwrap_or(root.clone());
     if rel.is_empty() {

@@ -373,3 +373,13 @@ Python: codex lookups (xlsx), audio and narration, the archive audits
 (reconcile, pack_impact, timeline, gap_fill, stale_names, cast_index,
 scene_brief), the Trello import, and the retired ChatGPT tools.
 
+### 2026-11-04 — All 58 MCP tools run in Rust (Isaac's decision; recorded by Claude Code)
+
+The rest is ported: codex and codex_check (calamine, openpyxl's rows), the audits
+(stale_names, scene_brief, gap_fill, timeline, reconcile, pack_impact, cast_index),
+trello_cards, convert_character, scene_text, cast_scene, narrate_scene and
+narration_status (orchestration only; the TTS engines stay Python programs),
+research, and the retired ChatGPT wrappers (stub-tested, never run for real).
+Checks on the final build: parity.py 2,425 cases identical; writer, audit and job
+replays in scratch clones all identical; a live stdio session over every new tool.
+

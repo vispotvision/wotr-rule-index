@@ -15,6 +15,71 @@ pub fn root(rel: &str) -> PathBuf {
     ROOT.join(rel)
 }
 
+/// common.load_env(): the env file's KEY=value pairs for the keys this process has unset or empty
+/// (the first line for a key wins, as os.environ is set by then).
+static ENV_FILE: LazyLock<Vec<(String, String)>> = LazyLock::new(|| {
+    let home = std::env::var("HOME").unwrap_or_default();
+    let path = std::env::var("WOTR_ENV_FILE").ok().filter(|v| !v.is_empty()).unwrap_or_else(|| format!("{home}/.config/wotr/env"));
+    let mut out: Vec<(String, String)> = Vec::new();
+    for line in read_lossy(Path::new(&path)).lines() {
+        let line = line.trim();
+        let Some((k, v)) = line.split_once('=').filter(|_| !line.starts_with('#')) else { continue };
+        let (k, mut v) = (k.trim(), v.trim().to_string());
+        if v.len() >= 2 && (v.starts_with('"') && v.ends_with('"') || v.starts_with('\'') && v.ends_with('\'')) {
+            v = v[1..v.len() - 1].to_string();
+        }
+        if v == "~" || v.starts_with("~/") {
+            v = format!("{home}{}", &v[1..]);
+        }
+        let ident = k.starts_with(|c: char| c.is_ascii_alphabetic() || c == '_') && k.chars().all(|c| c.is_ascii_alphanumeric() || c == '_');
+        if ident && !v.is_empty() && std::env::var(k).unwrap_or_default().is_empty() && !out.iter().any(|(o, _)| o == k) {
+            out.push((k.to_string(), v));
+        }
+    }
+    out
+});
+
+/// os.environ.get(key) in the Python server, the env file loaded: None when unset or empty.
+pub fn env(key: &str) -> Option<String> {
+    std::env::var(key).ok().filter(|v| !v.is_empty()).or_else(|| ENV_FILE.iter().find(|(k, _)| k == key).map(|(_, v)| v.clone()))
+}
+
+/// common.env_path: the variable (or the default) as a path, a leading ~ expanded.
+pub fn env_path(key: &str, default: Option<&str>) -> Option<PathBuf> {
+    let raw = env(key).or(default.map(String::from))?;
+    let home = std::env::var("HOME").unwrap_or_default();
+    Some(PathBuf::from(if raw == "~" || raw.starts_with("~/") { format!("{home}{}", &raw[1..]) } else { raw }))
+}
+
+/// A child as mcp_server._env() starts it: this environment, the env file and PYTHONIOENCODING, in the repo.
+pub fn command(prog: impl AsRef<std::ffi::OsStr>) -> std::process::Command {
+    let mut c = std::process::Command::new(prog);
+    c.envs(ENV_FILE.iter().map(|(k, v)| (k, v))).env("PYTHONIOENCODING", "utf-8").current_dir(&*ROOT);
+    c
+}
+
+/// mcp_server._audio_dir: the Drive folder when WOTR_DRIVE is set and mounted (rclone), else docs/audio.
+pub fn audio_dir() -> PathBuf {
+    match env_path("WOTR_DRIVE", None).filter(|d| d.is_dir()) {
+        Some(d) => d.join("War of the Realms — Documents").join("Arcs").join("Audio"),
+        None => root("docs/audio"),
+    }
+}
+
+/// urllib.parse.quote(s, safe=safe), and quote_plus when `plus`.
+pub fn quote(s: &str, safe: &str, plus: bool) -> String {
+    let mut out = String::new();
+    for b in s.bytes() {
+        match b {
+            b' ' if plus => out.push('+'),
+            b'A'..=b'Z' | b'a'..=b'z' | b'0'..=b'9' | b'_' | b'.' | b'-' | b'~' => out.push(b as char),
+            b if b.is_ascii() && safe.contains(b as char) => out.push(b as char),
+            b => out.push_str(&format!("%{b:02X}")),
+        }
+    }
+    out
+}
+
 /// A file as text, invalid UTF-8 replaced (Python's errors="replace"); "" when unreadable.
 pub fn read_lossy(p: &Path) -> String {
     fs::read(p).map(|b| String::from_utf8_lossy(&b).into_owned()).unwrap_or_default()

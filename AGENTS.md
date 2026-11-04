@@ -68,16 +68,15 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   "Arctic Lion" page); the thread's latest archived scene says which; check
   before you trust `fow_line`.
 - **WOTR MCP in Rust** (`rust/`, binary `rust/target/release/wotr-mcp`, since 2026-11-04) —
-  what `.mcp.json` now launches. Eighteen tools run natively (load_rules, rule, check_docket,
-  list_conflicts, natalie, natalie_gpt, skill, character, fow_line, verify_scene, wiki,
-  scene_recall, scene_context, the table (fronts, due, roster, scene_menu, session_start and
-  every writer: advance_front, set_front_clock, add_front, pass_time, ledger_add, ledger_mark,
-  fire_trigger, ledger_collect, npc_set, session_end), archive_scene, wiki_write, log_ruling,
-  propose_rule, create_character, update_character, handoff, inbox, inbox_done, sync_now: 38 in
-  all). table/*.yaml is written by `rust/src/pyyaml.rs`, a port of PyYAML's safe_dump and of its
-  YAML 1.1 reading, byte-identical (`bash build/py.sh rust/yaml_parity.py`); after changing a
-  writer in either language, `bash build/py.sh rust/writer_parity.py` replays every writer in two
-  scratch clones with scratch remotes and must print ALL IDENTICAL. The semantic search embeds queries with the same bge-small ONNX
+  what `.mcp.json` now launches. Every one of the 58 tools runs natively (since 2026-11-04);
+  `build/mcp_worker.py` (which imports `mcp_server.py`) is only the fallback for a tool added to
+  the Python server and not yet ported, and the source of `rust/tools.json` (`wotr-mcp dump`).
+  Still Python by design, run as programs: the TTS engines (`build/audio_export.py`, which
+  narrate_scene starts), the search index build (`build/embed_index.py`), `build/sync.sh`, and
+  the external CLIs research calls (Agent Reach, agent-browser). table/*.yaml is written by
+  `rust/src/pyyaml.rs`, byte-identical to PyYAML. The checks, all must pass after a change:
+  `rust/parity.py` (read tools), `rust/yaml_parity.py`, and in scratch clones with scratch
+  remotes `rust/writer_parity.py`, `rust/audit_parity.py` and `rust/job_parity.py`. The semantic search embeds queries with the same bge-small ONNX
   model and the wotr venv's ONNX Runtime, reading `build/index/`, which Python still builds); every other
   tool goes to one long-lived `build/mcp_worker.py`, which imports `mcp_server.py`. Tool names,
   descriptions and schemas come from `rust/tools.json`: after changing a Python tool's

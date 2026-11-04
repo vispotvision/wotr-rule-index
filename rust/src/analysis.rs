@@ -16,7 +16,7 @@ macro_rules! rx {
     }};
 }
 
-fn name_of(p: &Path) -> String {
+pub(crate) fn name_of(p: &Path) -> String {
     p.file_name().map(|n| n.to_string_lossy().into_owned()).unwrap_or_default()
 }
 
@@ -29,7 +29,7 @@ fn is(r: &Regex, s: &str) -> bool {
 }
 
 /// sorted(dir.glob("*.md")) as Paths sort on POSIX: by the path string.
-fn md_files(dir: &Path) -> Vec<PathBuf> {
+pub(crate) fn md_files(dir: &Path) -> Vec<PathBuf> {
     let mut v: Vec<PathBuf> = std::fs::read_dir(dir).into_iter().flatten().flatten().map(|e| e.path()).filter(|p| name_of(p).ends_with(".md")).collect();
     v.sort();
     v
@@ -229,6 +229,7 @@ struct Card {
     list: String,
     desc: String,
     labels: Vec<String>,
+    checklists: Vec<(String, Vec<String>)>,
 }
 
 fn get_s(o: &Value, k: &str) -> String {
@@ -253,17 +254,25 @@ fn trello(obj: &Value) -> Vec<Card> {
                     list: c.get("idList").and_then(|id| lists.iter().rev().find(|(k, _)| *k == id)).map(|(_, n)| n.clone()).unwrap_or_default(),
                     desc: get_s(c, "desc"),
                     labels: label_names(c),
+                    checklists: obj
+                        .get("checklists")
+                        .and_then(Value::as_array)
+                        .into_iter()
+                        .flatten()
+                        .filter(|cl| truthy(cl.get("idCard")) && cl.get("idCard") == c.get("id"))
+                        .map(|cl| (get_s(cl, "name"), cl.get("checkItems").and_then(Value::as_array).into_iter().flatten().map(|i| get_s(i, "name")).collect()))
+                        .collect(),
                 })
                 .collect()
         }
         Value::Array(a) => a
             .iter()
             .filter(|c| c.is_object())
-            .map(|c| Card { name: get_s(c, "name"), list: String::new(), desc: get_s(c, "desc"), labels: label_names(c) })
+            .map(|c| Card { name: get_s(c, "name"), list: String::new(), desc: get_s(c, "desc"), labels: label_names(c), checklists: vec![] })
             .collect(),
         Value::Object(_) => {
             let desc = obj.get("desc").or_else(|| obj.get("description")).map(pystr).unwrap_or_default();
-            vec![Card { name: get_s(obj, "name"), list: String::new(), desc, labels: vec![] }]
+            vec![Card { name: get_s(obj, "name"), list: String::new(), desc, labels: vec![], checklists: vec![] }]
         }
         _ => vec![],
     }
@@ -292,7 +301,7 @@ pub fn trello_cards(json_path: &str, list_name: &str, query: &str) -> Result<Str
 
 // ---------------------------------------------------------------- scene_text
 /// mcp_server._scene_files: (path, title) for every scene in scenes/.
-fn scene_files() -> Vec<(PathBuf, String)> {
+pub(crate) fn scene_files() -> Vec<(PathBuf, String)> {
     md_files(&root("scenes"))
         .into_iter()
         .filter(|p| {
@@ -308,7 +317,7 @@ fn scene_files() -> Vec<(PathBuf, String)> {
         .collect()
 }
 
-fn find_scene(query: &str) -> (Option<PathBuf>, Vec<String>) {
+pub(crate) fn find_scene(query: &str) -> (Option<PathBuf>, Vec<String>) {
     let q = query.trim().to_lowercase();
     let files = scene_files();
     if let Some((p, _)) = files.iter().find(|(p, t)| name_of(p).to_lowercase() == q || stem(p).to_lowercase() == q || t.to_lowercase() == q) {
@@ -334,7 +343,7 @@ fn clean_inline(s: &str) -> String {
 }
 
 /// audio_export.scene_blocks: ("title" | "para" | "divider", text)
-fn scene_blocks(md: &str) -> Vec<(&'static str, String)> {
+pub(crate) fn scene_blocks(md: &str) -> Vec<(&'static str, String)> {
     let mut md = md.replace("\r\n", "\n");
     if md.starts_with("---\n") {
         if let Some(end) = md[4..].find("\n---\n") {
@@ -390,7 +399,7 @@ pub fn scene_text(scene: &str) -> String {
 }
 
 /// Python's repr() of a str.
-fn py_repr(s: &str) -> String {
+pub(crate) fn py_repr(s: &str) -> String {
     let q = if s.contains('\'') && !s.contains('"') { '"' } else { '\'' };
     let mut out = String::from(q);
     for c in s.chars() {
@@ -634,4 +643,302 @@ mod tests {
         assert_eq!(most_common(["b", "a", "a", "b", "c"].map(String::from).into_iter(), 2), "b\u{d7}2, a\u{d7}2");
         assert_eq!(clean_inline("**bold** and *it* [link](x) `c` ![i](y) \u{a7}5"), "bold and it link c section 5");
     }
+}
+
+// ---------------------------------------------------------------- cast_index
+/// Python's \w for one char: str.isalnum() or the underscore.
+fn word(c: char) -> bool {
+    c.is_alphanumeric() || c == '_'
+}
+
+/// len(re.findall(r"(?<!B)" + re.escape(n) + r"(?!B)", t)) where B is a char class, without a regex.
+fn count_bounded(t: &str, n: &str, b: impl Fn(char) -> bool) -> usize {
+    let (mut pos, mut c) = (0, 0);
+    while let Some(i) = t[pos..].find(n) {
+        let s = pos + i;
+        if !t[..s].chars().next_back().is_some_and(&b) && !t[s + n.len()..].chars().next().is_some_and(&b) {
+            c += 1;
+            pos = s + n.len();
+        } else {
+            pos = s + t[s..].chars().next().map_or(1, char::len_utf8);
+        }
+    }
+    c
+}
+
+/// A dict's get / setdefault / pop on an insertion-ordered list of pairs.
+fn slot<'a, V: Default>(m: &'a mut Vec<(String, V)>, k: &str) -> &'a mut V {
+    let i = m.iter().position(|(x, _)| x == k).unwrap_or_else(|| {
+        m.push((k.to_string(), V::default()));
+        m.len() - 1
+    });
+    &mut m[i].1
+}
+
+fn pop<V: Default>(m: &mut Vec<(String, V)>, k: &str) -> V {
+    m.iter().position(|(x, _)| x == k).map(|i| m.remove(i).1).unwrap_or_default()
+}
+
+fn merge(into: &mut Vec<(String, i64)>, from: Vec<(String, i64)>) {
+    for (scene, n) in from {
+        let v = slot(into, &scene);
+        *v = (*v).max(n);
+    }
+}
+
+pub fn cast_index(write: bool) -> String {
+    let mut card_names: BTreeSet<String> = BTreeSet::new();
+    for p in rglob_md(&root("wiki")) {
+        let parent = p.parent().map(name_of).unwrap_or_default();
+        if parent.to_lowercase().contains("character card") || ["Characters", "Sodoku Moto", "Hild Ice (Stark) \u{2014} The Sword Princess"].contains(&parent.as_str()) {
+            let st = stem(&p);
+            let first = rx!(r"\s+[—·]\s+").split(&st).next().and_then(Result::ok).unwrap_or("").trim().to_string();
+            if (3..=40).contains(&chars(&first)) && !first.to_lowercase().starts_with("volume") {
+                card_names.insert(first);
+            }
+        }
+    }
+    let short_names: BTreeSet<String> = [
+        "Sodoku Moto", "Yoko Mishiro", "Emira", "Black Agent", "Cozbi Mahuo", "Lambert", "Pietro", "Hild Ice", "Renard Greymane", "Dhaerin", "Rengai", "Niran", "Mira",
+        "Haruki", "Verinus", "Darius", "Aurelian", "Charles", "Wren", "Dabney", "Kwon Mu-jin", "Ilthára", "Brida", "Dougou", "Rashani",
+    ]
+    .map(String::from)
+    .into();
+    let mut alias_to_canon: Vec<(String, String)> = Vec::new();
+    let mut canon_aliases: Vec<(String, Vec<String>)> = Vec::new();
+    for short in &short_names {
+        if card_names.contains(short) {
+            continue;
+        }
+        let cands: Vec<&String> = card_names.iter().filter(|c| c.starts_with(&format!("{short} ")) || c.starts_with(&format!("{short}(")) || *c == short).collect();
+        if cands.len() == 1 {
+            alias_to_canon.push((short.clone(), cands[0].clone()));
+            slot(&mut canon_aliases, cands[0]).push(short.clone());
+        }
+    }
+    let names: BTreeSet<&String> = card_names.iter().chain(short_names.iter().filter(|s| !alias_to_canon.iter().any(|(a, _)| a == *s))).collect();
+    let scenes: Vec<PathBuf> = md_files(&root("scenes")).into_iter().filter(|p| !["MANIFEST.md", "CAST.md", "ARCS.md"].contains(&name_of(p).as_str())).collect();
+    let texts: Vec<(String, String)> = scenes.iter().map(|p| (name_of(p), read_page(p))).collect();
+    let mut raw: Vec<(String, Vec<(String, i64)>)> = Vec::new();
+    for n in names {
+        let first = n.split_whitespace().next().unwrap_or("");
+        for (f, t) in &texts {
+            let mut c = count_bounded(t, n, word);
+            if c == 0 && chars(first) >= 4 {
+                c = count_bounded(t, first, word);
+            }
+            if c >= 2 {
+                slot(&mut raw, n).push((f.clone(), c as i64));
+            }
+        }
+    }
+    for (short, canon) in &alias_to_canon {
+        let hits = pop(&mut raw, short);
+        if !hits.is_empty() {
+            merge(slot(&mut raw, canon), hits);
+        }
+    }
+    // names sharing a first word (4+ chars) with 80% scene overlap are one character: merged under the longest
+    let mut groups: Vec<(String, Vec<String>)> = Vec::new();
+    for (n, _) in &raw {
+        let first = n.split_whitespace().next().unwrap_or("");
+        if chars(first) >= 4 {
+            slot(&mut groups, first).push(n.clone());
+        }
+    }
+    for (_, group) in groups {
+        let sets: Vec<HashSet<&String>> = group.iter().filter_map(|n| raw.iter().find(|(x, _)| x == n)).map(|(_, h)| h.iter().map(|(s, _)| s).collect()).collect();
+        if sets.len() < 2 {
+            continue;
+        }
+        let all: HashSet<&String> = sets.iter().flatten().copied().collect();
+        let common = sets[0].iter().filter(|x| sets.iter().all(|s| s.contains(*x))).count();
+        if all.is_empty() || (common as f64) / (all.len() as f64) < 0.8 {
+            continue;
+        }
+        let canonical = group.iter().fold(&group[0], |m, n| if chars(n) > chars(m) { n } else { m }).clone();
+        let mut absorbed = Vec::new();
+        slot(&mut raw, &canonical);
+        for n in &group {
+            if *n == canonical {
+                continue;
+            }
+            let hits = pop(&mut raw, n);
+            merge(slot(&mut raw, &canonical), hits);
+            absorbed.push(n.clone());
+        }
+        if !absorbed.is_empty() {
+            slot(&mut canon_aliases, &canonical).extend(absorbed);
+        }
+    }
+    let mut appear: Vec<(String, Vec<String>)> = raw
+        .into_iter()
+        .map(|(n, mut hits)| {
+            hits.sort_by_key(|(_, c)| std::cmp::Reverse(*c));
+            (n, hits.into_iter().map(|(f, c)| format!("{f} ({c})")).collect())
+        })
+        .collect();
+    let mut out = vec![
+        "# Cast index".to_string(),
+        String::new(),
+        format!("{} named characters across {} scenes; count is mentions. Generated by WOTR MCP cast_index; regenerate after new scenes.", appear.len(), scenes.len()),
+        String::new(),
+    ];
+    appear.sort_by_key(|(_, f)| std::cmp::Reverse(f.len()));
+    for (n, files) in &appear {
+        let label = match canon_aliases.iter().find(|(c, _)| c == n) {
+            Some((_, a)) => {
+                // shortcut: Python sorts a set here, so equal-length aliases come in hash order; first-seen order here
+                let mut a: Vec<&String> = a.iter().enumerate().filter(|(i, x)| !a[..*i].contains(x)).map(|(_, x)| x).collect();
+                a.sort_by_key(|x| chars(x));
+                format!("{n} (a.k.a. {})", a.iter().map(|x| x.as_str()).collect::<Vec<_>>().join(", "))
+            }
+            None => n.clone(),
+        };
+        out.push(format!("## {label} ({} scenes)", files.len()));
+        out.push(files.join(", "));
+        out.push(String::new());
+    }
+    let text = out.join("\n");
+    if write {
+        let _ = std::fs::write(root("scenes/CAST.md"), &text);
+        let arcs = root("scenes/ARCS.md");
+        if !arcs.exists() {
+            let mut groups: std::collections::BTreeMap<String, Vec<String>> = Default::default();
+            let mut loose = Vec::new();
+            for p in &scenes {
+                let n = name_of(p);
+                match rx!(r"^(\d+)_([a-z]+)_").captures(n.as_str()).ok().flatten() {
+                    Some(m) => groups.entry(m[2].to_string()).or_default().push(n.clone()),
+                    None => loose.push(n),
+                }
+            }
+            let mut a = vec!["# Reading order".to_string(), String::new(), "Edit freely: one heading per arc, scenes in order. docs_export.py compiles The Scene Archive in this order when the file exists.".into(), String::new()];
+            for (g, mut files) in groups {
+                a.push(format!("## {}{} arc", g[..1].to_uppercase(), &g[1..]));
+                files.sort();
+                a.extend(files.iter().map(|f| format!("- {f}")));
+                a.push(String::new());
+            }
+            a.push("## Unplaced".into());
+            a.extend(loose.iter().map(|f| format!("- {f}")));
+            let _ = std::fs::write(arcs, a.join("\n") + "\n");
+        }
+    }
+    text
+}
+
+// ---------------------------------------------------------------- convert_character
+const SHEET_SECTIONS: [(&str, &str); 14] = [
+    ("I · Identity", "name, house/line and register (Moto canon; five strata), age, origin, affiliation, status, Level / Stage / Band on one line, and the Catalyst Event — everything downstream is its consequence"),
+    ("II · Soul Architecture", "Soul Crystal (Essence Core, Aether Shell, Attraction Layer), Crystal State, Aether Class (which sets η, R78-10), Essence Typology; aura colour and signature sound; school, sect rank and renown (R78-10)"),
+    ("III · Work Architecture", "Wellspring harmonisations: which of the Sixty answer, Family and Physics Domain from the Master Codex, the Craft (Magicraft / Spellcraft / Runecraft / Draftcraft) and Category of each working"),
+    ("IV–V · Stats", "the Eight Primaries with Grade and Sub-Stat peaks: Gnosis, Tempering, Ardency, Resilience, Dexterity, Vitality, Dominion, Harmonics. Grades come off the Tier Grade table; the Stage sets the ceiling"),
+    ("VI–VII · Force and Flow", "Strike Force band, Attack Speed, Reaction, Travel, Aura Pressure Field radius, Domain Pressure, EU Reserve, Flux Density, AU/s, η — the part a Measurewright could confirm"),
+    ("VIII–IX · Traits and Domain", "each Trait names the Lattice property it alters (R17-5-TRAIT_SCOPE); Domain state by Stage (seed at VII), opened and powered by the Second Release; release forms with folk name, bonded weapon, stack line (R78-10)"),
+    ("X · Techniques", "summary card (Effect, Cost, Limit, Counter, What nobody knows) + full Design Chain + Codex line + FOW line per technique; Counter mandatory (R12-3-COUNTER_MANDATORY); every technique statable as 'it does X to Y, which under Z produces W' (R17-2-THE_TEST)"),
+    ("XI · Spirit Axes", "who they are bonded to; sited here because the people someone loves are load-bearing"),
+    ("XII · Resistances", "what they can take: per-Wellspring / per-Family resistances, Resilience against hostile workings"),
+    ("XIII · Physical Description", "full inventory on first sight: hair by comparison, face, body with areas named, clothing with fit and wear, distinguishing marks (Table Rule 11)"),
+    ("XIV · Psychology", "what they refuse, what they survived, what they believe that costs them (character first); an unswappable voice"),
+    ("XV · Equipment", "weapons with mass, length, point of balance, armour tier beaten/failed (R13-9-ITEM_GUIDE_WEAPON_ENTRY); proof-marks; artefacts with their own Operation line"),
+    ("XVI · Temperance Record", "the ladder climbed: each Stage reached, its threshold catalyst, and when"),
+    ("XVII · Fracture Log", "every fracture, consolidated or unconsolidated, with its price — the unconsolidated ones are the character"),
+];
+const CONVERSION_RULES: [&str; 5] = [
+    "- Old stats map to the Tier Grade table by range; a Stage sets the stat ceiling; a Level sets the Band. If the source gives none of these, write 'Level/Stage/Band: pending Isaac' and do not pick.",
+    "- Names: Moto register for the Moto bloodline and its lines (Kōkan, Byakuya, Kurenai, Tenrai, Shirogane, Akagane, Amagiri); five strata per the Inner World Naming Amendment; naming register is not ethnicity.",
+    "- Every technique: summary card + Design Chain + Codex line (glyphs, Wellspring, Family, Physics Domain, Category, Stage) + FOW line; Counter mandatory; name the real phenomenon (R13-3-PHENOMENON_MANDATE).",
+    "- Character first: what they refuse, what they survived, what they believe that costs them; then the phenomenon; then the Codex.",
+    "- Anything you originate (a Wellspring assignment, a Trait, a fracture the source never mentioned) is marked 'originated, pending ratification' in the card and filed with propose_rule if it is a rule.",
+];
+
+fn fow_tables() -> Result<String, String> {
+    let p = crate::util::env_path("WOTR_TRUE_CANON", Some("~/wotr-vault/true-canon")).unwrap().join("FOW_Stat_and_Magic_System_Codex.xlsx");
+    if !p.exists() {
+        return Ok("(FOW_Stat_and_Magic_System_Codex.xlsx not found; check the canon folder)".into());
+    }
+    let mut out = Vec::new();
+    for (sheet, first, last) in [("Core Progression", 1, 30), ("Physical Benchmarks", 1, 18)] {
+        let rows = crate::codex::sheet_rows(&p, sheet)?;
+        out.push(format!("### {sheet}"));
+        for r in rows.iter().skip(first - 1).take(last - first + 1) {
+            let cells: Vec<&str> = r.iter().flatten().map(|c| c.trim()).filter(|c| !c.is_empty()).collect();
+            if !cells.is_empty() {
+                out.push(format!("| {} |", cells.join(" | ")));
+            }
+        }
+        out.push(String::new());
+    }
+    Ok(out.join("\n"))
+}
+
+fn card_text(c: &Card) -> String {
+    let lists: String = c.checklists.iter().map(|(cl, items)| format!("\nChecklist {cl}:\n{}", items.iter().map(|i| format!("- {i}")).collect::<Vec<_>>().join("\n"))).collect();
+    format!("Card: {}\nList: {}\nLabels: {}\n\n{}\n{lists}", c.name, c.list, c.labels.join(", "), c.desc)
+}
+
+pub fn convert_character(source: &str, name: &str, json_path: &str, target_volume: &str) -> Result<String, String> {
+    let (mut text, mut name) = (source.to_string(), name.to_string());
+    let mut take = |c: &Card, text: &mut String| {
+        if name.is_empty() {
+            name = c.name.clone();
+        }
+        *text = card_text(c);
+    };
+    if !json_path.is_empty() {
+        let p = Path::new(json_path);
+        if p.exists() {
+            let cards = trello(&crate::pyjson::loads(&read_lossy(p)).map_err(|e| format!("JSONDecodeError: {e}"))?);
+            if let Some(c) = cards.iter().find(|c| !source.is_empty() && c.name.to_lowercase().contains(&source.to_lowercase())) {
+                take(c, &mut text);
+            }
+        }
+    } else if let Ok(v) = crate::pyjson::loads(source) {
+        if let Some(c) = trello(&v).first() {
+            take(c, &mut text);
+        }
+    }
+    if name.is_empty() {
+        name = rx!(r"(?m)^#\s+(.+)$").captures(text.as_str()).ok().flatten().map_or("Unnamed".into(), |m| m[1].trim().to_string());
+    }
+    let stale: Vec<String> = search::reversion_map()
+        .into_iter()
+        .filter_map(|(old, new)| {
+            let n = count_bounded(&text, &old, |c| word(c) || c == '-');
+            (n > 0).then(|| format!("{old} \u{d7}{n} \u{2192} {new}"))
+        })
+        .collect();
+    let existing = writers::find_page(&name);
+    let numbers: Vec<String> = rx!(r"\b(?:Level|Stage|Band|Grade|EU|η|AU/s)\b[^.\n]{0,40}").find_iter(&text).flatten().map(|m| m.as_str().trim().to_string()).collect();
+    let tags: Vec<String> = ["character-sheet", "stats", "naming", "codex", "magic-design"].map(String::from).into();
+    let (rules_cs, _, _) = rules::select(&tags, &["live".into()])?;
+    let mut lines = vec![format!("# CONVERSION BRIEF \u{2014} {name} \u{2192} {target_volume}"), String::new()];
+    if let Some((_, rel)) = existing {
+        lines.push(format!("NOTE: a card already exists ({rel}); this is an update, use update_character when done."));
+    }
+    lines.extend(["## Source material (verbatim, the only facts you may use)".into(), String::new(), head(text.trim(), 12000).to_string(), String::new()]);
+    if !stale.is_empty() {
+        lines.extend(["## Old-register names in the source \u{2014} write the governing form".into(), String::new()]);
+        lines.extend(stale.iter().map(|s| format!("- {s}")));
+        lines.push(String::new());
+    }
+    lines.extend(["## Numbers present in the source (everything else numeric is pending Isaac)".into(), String::new()]);
+    if numbers.is_empty() {
+        lines.push("- none".into());
+    }
+    lines.extend(numbers.iter().take(40).map(|n| format!("- {n}")));
+    lines.extend([String::new(), "## The seventeen-section skeleton \u{2014} use these exact headings".into(), String::new()]);
+    lines.extend(SHEET_SECTIONS.iter().map(|(h, w)| format!("## {h}\n  {w}")));
+    lines.extend(["".into(), "Format reference: any card in Volume I (character('Cozbi Mahuo')). Under 16,348 characters.".into(), "".into()]);
+    lines.extend(["## FOW scale (from FOW_Stat_and_Magic_System_Codex.xlsx)".into(), String::new(), fow_tables()?]);
+    lines.extend(["## Conversion rules".into(), String::new()]);
+    lines.extend(CONVERSION_RULES.map(String::from));
+    lines.extend([String::new(), format!("## Rule loadout (character-sheet stats naming codex magic-design) \u{2014} {} live, brief", rules_cs.len()), String::new()]);
+    lines.extend(rules_cs.iter().take(70).map(|r| rules::fmt(r, false)));
+    if rules_cs.len() > 70 {
+        lines.push(format!("... {} more via load_rules", rules_cs.len() - 70));
+    }
+    lines.extend([String::new(), "Then: write the card \u{2192} verify_scene(markdown) for prose sections \u{2192} create_character(name, markdown, volume).".into()]);
+    Ok(lines.join("\n"))
 }

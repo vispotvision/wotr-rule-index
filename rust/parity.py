@@ -140,6 +140,16 @@ def cases():
         for ln, q in [("", ""), ("char", ""), ("north", ""), ("", "fire"), ("", "ICE"), ("nope", "")]:
             yield "trello_cards", {"json_path": str(tmp / f), "list_name": ln, "query": q}
     yield "trello_cards", {"json_path": str(tmp / "missing.json")}
+    stale = " and ".join(o for o, _ in M._reversion_map()[:6])
+    for src in ["# Kwon Mu-jin\n\nLevel 40, Stage IV. Band C; η 0.4 and AU/s 12. Grade B+\n\n" + stale + " " + stale + "-x",
+                "no heading, just Level 3.", "", "  \n", json.dumps(board), json.dumps([{"name": "A", "desc": "x"}]), "42", "{bad json",
+                json.dumps({"name": "Cozbi Mahuo", "desc": "Stage IX"}), "#\n\nCozbi Mahuo", "x" * 13000]:
+        yield "convert_character", {"source": src}
+    for src in ["sod", "", "nobody", "ORPHAN"]:
+        yield "convert_character", {"source": src, "json_path": str(tmp / "board.json")}
+    yield "convert_character", {"source": "Hild", "name": "Hild Ice", "json_path": str(tmp / "missing.json"), "target_volume": "Volume III — Character Cards"}
+    yield "convert_character", {"source": "a", "json_path": str(tmp / "list.json")}
+    yield "cast_index", {"write": False}
     yield "trello_cards", {"json_path": "relative/missing.json"}
     sf = M._scene_files()
     for p, t in sf:

@@ -4,7 +4,8 @@
 //!   wotr-mcp [--ops] [--read-only]        stdio MCP (what .mcp.json launches); same surfaces as
 //!                                         mcp_server.py: core by default, --ops (or WOTR_MCP_OPS=1)
 //!                                         for every tool, --read-only narrows either
-//!   wotr-mcp call TOOL '{"arg": ...}'     run one tool and print its text (parity tests)
+//!   wotr-mcp call TOOL '{"arg": ...}' [--public BASE TOKEN]
+//!                                         run one tool and print its text (parity tests)
 //!   wotr-mcp verify FILE [--combat] ...   build/verify.py's command line
 //!   wotr-mcp http [--port N]... [--dash N] [--log FILE]
 //!                                         the public route (default ports 8765 and 8767, the Funnel's
@@ -15,8 +16,10 @@ mod analysis;
 mod codex;
 mod embed;
 mod http;
+mod jobs;
 mod keys;
 mod pages;
+mod pyjson;
 mod pyyaml;
 mod rules;
 mod search;
@@ -44,6 +47,8 @@ const NATIVE: &[&str] = &[
     "create_character", "update_character", "advance_front", "set_front_clock", "add_front", "pass_time",
     "ledger_add", "ledger_mark", "fire_trigger", "ledger_collect", "npc_set", "session_end",
     "codex", "codex_check", "stale_names", "scene_brief", "gap_fill", "trello_cards", "scene_text", "timeline", "reconcile", "pack_impact",
+    "cast_index", "convert_character", "cast_scene", "narrate_scene", "narration_status", "research",
+    "ask_chatgpt", "ask_claude", "research_chatgpt", "chatgpt_image",
 ];
 
 #[derive(Deserialize, Clone)]
@@ -149,7 +154,7 @@ fn py_err(r: Result<String, writers::E>) -> Result<String, String> {
     })
 }
 
-fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Result<String, String> {
+fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str, public: Option<&(String, String)>) -> Result<String, String> {
     Ok(match tool {
         "load_rules" => {
             let tags = arg_list(a, "tags").ok_or("missing argument 'tags'")?;
@@ -211,6 +216,16 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
         "timeline" => analysis::timeline()?,
         "reconcile" => analysis::reconcile()?,
         "pack_impact" => analysis::pack_impact(&arg_req(a, "markdown")?, &arg_str(a, "name", "new_pack"))?,
+        "cast_index" => analysis::cast_index(a.get("write").and_then(Value::as_bool).unwrap_or(true)),
+        "convert_character" => analysis::convert_character(&arg_req(a, "source")?, &arg_str(a, "name", ""), &arg_str(a, "json_path", ""),
+                                                           &arg_str(a, "target_volume", "Volume I \u{2014} Character Cards"))?,
+        "cast_scene" => jobs::cast_scene(&arg_req(a, "scene")?, &arg_req(a, "script")?)?,
+        "narrate_scene" => jobs::narrate_scene(&arg_req(a, "scene")?, &arg_str(a, "voice", "narrator"), &arg_str(a, "engine", "local"), public)?,
+        "narration_status" => jobs::narration_status(&arg_str(a, "job", ""), public)?,
+        "research" => jobs::research(&arg_req(a, "question")?, arg_int(a, "read", 2), &arg_list(a, "urls").unwrap_or_default(), &arg_str(a, "power", ""))?,
+        "ask_chatgpt" => jobs::ask_chatgpt(&arg_req(a, "prompt")?),
+        "ask_claude" => jobs::ask_claude(&arg_req(a, "prompt")?),
+        "research_chatgpt" => jobs::research_chatgpt(&arg_req(a, "question")?, &arg_str(a, "thread", "")),
         "verify_scene" => {
             let (culture, school) = (arg_str(a, "culture", ""), arg_str(a, "school", ""));
             let o = verify::Opts {
@@ -231,7 +246,7 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
 /// permissions are read on every request, so an edit or a disable applies at once.
 #[derive(Clone)]
 enum Access {
-    Fixed { ops: bool, read_only: bool },
+    Fixed { ops: bool, read_only: bool, public: Option<(String, String)> },
     Key { reg: Arc<keys::Registry>, id: String },
 }
 
@@ -251,13 +266,13 @@ struct Wotr {
 
 impl Wotr {
     fn fixed(ops: bool, read_only: bool) -> Self {
-        Wotr { spec: Arc::new(load_spec()), access: Access::Fixed { ops, read_only }, worker: Arc::default() }
+        Wotr { spec: Arc::new(load_spec()), access: Access::Fixed { ops, read_only, public: None }, worker: Arc::default() }
     }
 
     fn surface(&self) -> Surface {
         let s = &self.spec;
         let (ops, ro, custom, public) = match &self.access {
-            Access::Fixed { ops, read_only } => (*ops, *read_only, None, None),
+            Access::Fixed { ops, read_only, public } => (*ops, *read_only, None, public.clone()),
             Access::Key { reg, id } => match reg.get(id).filter(|k| k.enabled) {
                 None => return Surface { tools: vec![], hide: vec![], public: None },
                 Some(k) => {
@@ -287,16 +302,25 @@ impl Wotr {
         Surface { tools, hide, public }
     }
 
-    async fn call(&self, tool: &str, args: Map<String, Value>) -> Result<String, String> {
+    async fn call(&self, tool: &str, args: Map<String, Value>) -> Result<Vec<ContentBlock>, String> {
         let sf = self.surface();
         if !sf.tools.iter().any(|t| t.name == tool) {
             return Err(format!("Unknown tool: {tool}"));
         }
+        if tool == "chatgpt_image" {
+            // [Image, text] in Python: the JPEG preview (or the file) as an image block, then the text
+            let run = move || {
+                let (image, text) = jobs::chatgpt_image(&arg_req(&args, "prompt")?, &arg_str(&args, "name", ""), sf.public.as_ref())?;
+                Ok(image.map(|(data, mime)| ContentBlock::image(data, mime)).into_iter().chain([ContentBlock::text(text)]).collect())
+            };
+            return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
+        }
         if NATIVE.contains(&tool) {
             let (tool, note) = (tool.to_string(), self.spec.skill_note.clone());
-            return tokio::task::spawn_blocking(move || native(&tool, &args, &sf.hide, &note)).await.map_err(|e| e.to_string())?;
+            let run = move || native(&tool, &args, &sf.hide, &note, sf.public.as_ref()).map(|t| vec![ContentBlock::text(t)]);
+            return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
         }
-        self.worker.call(tool, &args, sf.public.as_ref()).await
+        self.worker.call(tool, &args, sf.public.as_ref()).await.map(|t| vec![ContentBlock::text(t)])
     }
 }
 
@@ -315,7 +339,7 @@ impl ServerHandler for Wotr {
     async fn call_tool(&self, req: CallToolRequestParams, _: RequestContext<RoleServer>) -> Result<CallToolResponse, McpError> {
         let known = self.surface().tools.iter().any(|t| t.name == req.name);
         Ok(match self.call(&req.name, req.arguments.unwrap_or_default()).await {
-            Ok(text) => CallToolResult::success(vec![ContentBlock::text(text)]),
+            Ok(blocks) => CallToolResult::success(blocks),
             Err(e) if !known => CallToolResult::error(vec![ContentBlock::text(e)]),
             Err(e) => CallToolResult::error(vec![ContentBlock::text(format!("Error executing tool {}: {e}", req.name))]),
         }
@@ -408,8 +432,20 @@ async fn main() {
                 None => "{}".into(),
             };
             let a: Map<String, Value> = serde_json::from_str(&json).expect("args must be a JSON object");
-            match Wotr::fixed(true, false).call(&tool, a).await {
-                Ok(t) => println!("{t}"),
+            let mut server = Wotr::fixed(true, false);
+            // --public BASE TOKEN: answer as a dashboard key with that base URL and token would be answered
+            if let Some(i) = args.iter().position(|x| x == "--public") {
+                let public = Some((args.get(i + 1).cloned().unwrap_or_default(), args.get(i + 2).cloned().unwrap_or_default()));
+                server.access = Access::Fixed { ops: true, read_only: false, public };
+            }
+            let r = server.call(&tool, a).await;
+            jobs::join_background();
+            match r {
+                // one text block prints as its text; anything else as the JSON content list
+                Ok(b) => match b.as_slice() {
+                    [ContentBlock::Text(t)] => println!("{}", t.text),
+                    _ => println!("{}", serde_json::to_string(&b).unwrap()),
+                },
                 Err(e) => {
                     eprintln!("{e}");
                     std::process::exit(1)

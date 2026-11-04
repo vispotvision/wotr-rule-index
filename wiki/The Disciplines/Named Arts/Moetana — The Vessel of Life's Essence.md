@@ -1,5 +1,5 @@
 ---
-title: "Moetana — The Vessel of Life's Essence"
+title: Moetana — The Vessel of Life's Essence
 ---
 
 # Moetana — The Vessel of Life's Essence

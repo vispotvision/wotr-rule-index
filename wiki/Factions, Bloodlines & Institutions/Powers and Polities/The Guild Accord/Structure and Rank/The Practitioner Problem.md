@@ -1,5 +1,5 @@
 ---
-title: "The Practitioner Problem"
+title: The Practitioner Problem
 ---
 
 # The Practitioner Problem

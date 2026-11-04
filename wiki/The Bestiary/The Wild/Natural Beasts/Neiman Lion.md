@@ -1,5 +1,5 @@
 ---
-title: "Neiman Lion"
+title: Neiman Lion
 ---
 
 # Neiman Lion

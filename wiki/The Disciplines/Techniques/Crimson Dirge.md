@@ -1,5 +1,5 @@
 ---
-title: "Crimson Dirge"
+title: Crimson Dirge
 ---
 
 # Crimson Dirge

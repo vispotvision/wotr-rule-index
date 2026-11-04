@@ -1,5 +1,5 @@
 ---
-title: "The Zettari — Agano Sand and the Witnessed Temper"
+title: The Zettari — Agano Sand and the Witnessed Temper
 ---
 
 # The Zettari — Agano Sand and the Witnessed Temper

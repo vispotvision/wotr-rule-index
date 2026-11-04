@@ -1,5 +1,5 @@
 ---
-title: "Sōhai — The Whole Bow"
+title: Sōhai — The Whole Bow
 ---
 
 # Sōhai — The Whole Bow

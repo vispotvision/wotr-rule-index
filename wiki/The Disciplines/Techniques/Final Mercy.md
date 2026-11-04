@@ -1,5 +1,5 @@
 ---
-title: "Final Mercy"
+title: Final Mercy
 ---
 
 # Final Mercy

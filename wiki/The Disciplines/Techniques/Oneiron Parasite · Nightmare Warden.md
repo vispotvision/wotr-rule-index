@@ -1,5 +1,5 @@
 ---
-title: "Oneiron Parasite · Nightmare Warden"
+title: Oneiron Parasite · Nightmare Warden
 ---
 
 # Oneiron Parasite · Nightmare Warden

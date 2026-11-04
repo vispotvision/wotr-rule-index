@@ -1,5 +1,5 @@
 ---
-title: "Symphonia Ascendens"
+title: Symphonia Ascendens
 ---
 
 # Symphonia Ascendens

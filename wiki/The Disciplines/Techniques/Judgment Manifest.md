@@ -1,5 +1,5 @@
 ---
-title: "Judgment Manifest"
+title: Judgment Manifest
 ---
 
 # Judgment Manifest

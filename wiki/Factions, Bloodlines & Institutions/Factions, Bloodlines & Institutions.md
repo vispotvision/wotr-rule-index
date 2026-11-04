@@ -1,6 +1,9 @@
 ---
-title: "Factions, Bloodlines & Institutions"
-tags: ["Factions", "Bloodlines", "Trade & Economy"]
+title: Factions, Bloodlines & Institutions
+tags:
+  - Factions
+  - Bloodlines
+  - Trade & Economy
 ---
 
 ![[Assets/Paintings/factions.webp]]

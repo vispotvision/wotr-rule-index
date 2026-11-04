@@ -1,5 +1,5 @@
 ---
-title: "Band of Frozen Brambles · Winter-Briar"
+title: Band of Frozen Brambles · Winter-Briar
 ---
 
 # Band of Frozen Brambles · Winter-Briar

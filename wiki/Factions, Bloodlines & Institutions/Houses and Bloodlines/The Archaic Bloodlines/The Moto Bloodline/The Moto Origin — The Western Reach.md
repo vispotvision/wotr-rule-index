@@ -1,6 +1,8 @@
 ---
-title: "The Moto Origin — The Western Reach"
-tags: ["Bloodlines", "Lore & History"]
+title: The Moto Origin — The Western Reach
+tags:
+  - Bloodlines
+  - Lore & History
 ---
 
 # The Moto Origin — The Western Reach

@@ -1,5 +1,5 @@
 ---
-title: "The Draconic Lineage"
+title: The Draconic Lineage
 ---
 
 # The Draconic Lineage

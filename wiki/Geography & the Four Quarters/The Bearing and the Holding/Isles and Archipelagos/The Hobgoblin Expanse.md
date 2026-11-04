@@ -1,5 +1,5 @@
 ---
-title: "The Hobgoblin Expanse"
+title: The Hobgoblin Expanse
 ---
 
 # The Hobgoblin Expanse

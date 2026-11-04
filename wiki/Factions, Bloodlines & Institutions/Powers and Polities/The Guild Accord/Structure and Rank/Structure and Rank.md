@@ -1,5 +1,5 @@
 ---
-title: "Structure and Rank"
+title: Structure and Rank
 ---
 
 ![[Assets/Paintings/practice-institution.webp]]

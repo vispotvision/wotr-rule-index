@@ -1,5 +1,5 @@
 ---
-title: "Nadi — The Art of Doing More Than Once"
+title: Nadi — The Art of Doing More Than Once
 ---
 
 # Nadi — The Art of Doing More Than Once

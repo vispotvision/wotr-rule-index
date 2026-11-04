@@ -1,5 +1,5 @@
 ---
-title: "The Measures at a Glance"
+title: The Measures at a Glance
 ---
 
 *Every number a practitioner is read by, on one page. For the whole system in brief, see How Magic Works.*

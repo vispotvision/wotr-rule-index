@@ -1,5 +1,5 @@
 ---
-title: "Houses and Bloodlines"
+title: Houses and Bloodlines
 ---
 
 ![[Assets/Paintings/houses-bloodlines.webp]]

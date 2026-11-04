@@ -1,5 +1,5 @@
 ---
-title: "Sovereign's Reprisal"
+title: Sovereign's Reprisal
 ---
 
 # Sovereign's Reprisal

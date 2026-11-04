@@ -1,5 +1,5 @@
 ---
-title: "The Strata — Valmir, Kaldrion, Chronaeus"
+title: The Strata — Valmir, Kaldrion, Chronaeus
 ---
 
 # The Strata — Valmir, Kaldrion, Chronaeus

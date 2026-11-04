@@ -1,5 +1,5 @@
 ---
-title: "The Dawi Peoples"
+title: The Dawi Peoples
 ---
 
 ![[Assets/Paintings/dawi.webp]]

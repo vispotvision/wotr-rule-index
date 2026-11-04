@@ -1,6 +1,7 @@
 ---
 title: "The Physical Account: Two Sets of Books"
-tags: ["Magic System"]
+tags:
+  - Magic System
 ---
 
 # The Physical Account: Two Sets of Books

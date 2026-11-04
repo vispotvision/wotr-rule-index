@@ -1,5 +1,5 @@
 ---
-title: "Reference and Craft"
+title: Reference and Craft
 ---
 
 ![[Assets/Paintings/reference-craft.webp]]

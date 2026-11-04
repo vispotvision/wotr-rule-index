@@ -1,5 +1,5 @@
 ---
-title: "Saba no Rosa"
+title: Saba no Rosa
 ---
 
 # Saba no Rosa

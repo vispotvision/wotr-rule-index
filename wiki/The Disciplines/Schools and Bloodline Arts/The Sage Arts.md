@@ -1,5 +1,5 @@
 ---
-title: "The Sage Arts"
+title: The Sage Arts
 ---
 
 # The Sage Arts

@@ -1,5 +1,5 @@
 ---
-title: "Practice and Institution"
+title: Practice and Institution
 ---
 
 ![[Assets/Paintings/practice-institution.webp]]

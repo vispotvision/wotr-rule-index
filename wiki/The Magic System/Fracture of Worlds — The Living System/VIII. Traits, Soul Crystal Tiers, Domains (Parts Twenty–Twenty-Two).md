@@ -1,6 +1,8 @@
 ---
-title: "VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)"
-tags: ["Magic System", "Reference Table"]
+title: VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)

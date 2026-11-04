@@ -1,5 +1,5 @@
 ---
-title: "Scission"
+title: Scission
 ---
 
 # Scission

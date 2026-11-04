@@ -1,5 +1,5 @@
 ---
-title: "Upanga wa Misimu Minne · Blade of the Four Seasons"
+title: Upanga wa Misimu Minne · Blade of the Four Seasons
 ---
 
 # Upanga wa Misimu Minne · Blade of the Four Seasons

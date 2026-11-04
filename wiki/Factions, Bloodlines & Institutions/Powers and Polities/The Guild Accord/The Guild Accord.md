@@ -1,6 +1,8 @@
 ---
-title: "The Guild Accord"
-tags: ["Factions", "In-World Document"]
+title: The Guild Accord
+tags:
+  - Factions
+  - In-World Document
 ---
 
 ![[Assets/Paintings/guild-accord.webp]]

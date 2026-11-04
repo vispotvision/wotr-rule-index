@@ -1,5 +1,5 @@
 ---
-title: "The Army"
+title: The Army
 ---
 
 ![[Assets/Paintings/war-cycle.webp]]

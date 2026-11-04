@@ -1,6 +1,7 @@
 ---
-title: "Materia — Material Science"
-tags: ["Magic System"]
+title: Materia — Material Science
+tags:
+  - Magic System
 ---
 
 # Materia — Material Science

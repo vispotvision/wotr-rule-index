@@ -1,5 +1,5 @@
 ---
-title: "The Corrupted and the Risen"
+title: The Corrupted and the Risen
 ---
 
 ![[Assets/Paintings/aberrations.webp]]

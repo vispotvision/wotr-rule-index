@@ -1,5 +1,5 @@
 ---
-title: "Cryost Ascendant"
+title: Cryost Ascendant
 ---
 
 # Cryost Ascendant

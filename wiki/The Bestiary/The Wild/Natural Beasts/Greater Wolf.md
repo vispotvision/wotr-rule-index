@@ -1,5 +1,5 @@
 ---
-title: "Greater Wolf"
+title: Greater Wolf
 ---
 
 # Greater Wolf

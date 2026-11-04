@@ -1,6 +1,9 @@
 ---
-title: "The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions"
-tags: ["Magic System", "Materials", "Reference Table"]
+title: The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions
+tags:
+  - Magic System
+  - Materials
+  - Reference Table
 ---
 
 # The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions

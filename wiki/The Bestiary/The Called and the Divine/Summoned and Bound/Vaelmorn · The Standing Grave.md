@@ -1,5 +1,5 @@
 ---
-title: "Vaelmorn · The Standing Grave"
+title: Vaelmorn · The Standing Grave
 ---
 
 # Vaelmorn · The Standing Grave

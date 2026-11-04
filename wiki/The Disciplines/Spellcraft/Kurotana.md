@@ -1,5 +1,5 @@
 ---
-title: "Kurotana"
+title: Kurotana
 ---
 
 # Kurotana

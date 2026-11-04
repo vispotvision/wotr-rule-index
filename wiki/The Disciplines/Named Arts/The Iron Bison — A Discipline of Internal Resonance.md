@@ -1,5 +1,5 @@
 ---
-title: "The Iron Bison — A Discipline of Internal Resonance"
+title: The Iron Bison — A Discipline of Internal Resonance
 ---
 
 # The Iron Bison — A Discipline of Internal Resonance

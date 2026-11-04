@@ -1,5 +1,5 @@
 ---
-title: "Powers and Polities"
+title: Powers and Polities
 ---
 
 ![[Assets/Paintings/powers-polities.webp]]

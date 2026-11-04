@@ -1,5 +1,5 @@
 ---
-title: "The Elven Peoples"
+title: The Elven Peoples
 ---
 
 ![[Assets/Paintings/elven.webp]]

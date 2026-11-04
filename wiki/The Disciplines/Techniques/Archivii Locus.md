@@ -1,5 +1,5 @@
 ---
-title: "Archivii Locus"
+title: Archivii Locus
 ---
 
 # Archivii Locus

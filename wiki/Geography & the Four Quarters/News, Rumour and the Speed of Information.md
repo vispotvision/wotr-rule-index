@@ -1,6 +1,9 @@
 ---
-title: "News, Rumor and the Speed of Information"
-tags: ["Geography", "Trade & Economy", "Reference Table"]
+title: News, Rumor and the Speed of Information
+tags:
+  - Geography
+  - Trade & Economy
+  - Reference Table
 ---
 
 # News, Rumor and the Speed of Information

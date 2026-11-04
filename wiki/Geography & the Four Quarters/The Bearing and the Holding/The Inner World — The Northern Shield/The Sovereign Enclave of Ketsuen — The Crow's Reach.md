@@ -1,5 +1,5 @@
 ---
-title: "The Sovereign Enclave of Ketsuen — The Crow's Reach"
+title: The Sovereign Enclave of Ketsuen — The Crow's Reach
 ---
 
 # The Sovereign Enclave of Ketsuen — The Crow's Reach

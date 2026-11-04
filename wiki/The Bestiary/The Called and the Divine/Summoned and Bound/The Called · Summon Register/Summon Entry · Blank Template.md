@@ -1,5 +1,5 @@
 ---
-title: "Summon Entry · Blank Template"
+title: Summon Entry · Blank Template
 ---
 
 # Summon Entry · Blank Template

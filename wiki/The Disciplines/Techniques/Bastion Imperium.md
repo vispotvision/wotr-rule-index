@@ -1,5 +1,5 @@
 ---
-title: "Bastion Imperium"
+title: Bastion Imperium
 ---
 
 # Bastion Imperium

@@ -1,5 +1,5 @@
 ---
-title: "Hataraki no Sho — The Martial Application of the Works"
+title: Hataraki no Sho — The Martial Application of the Works
 ---
 
 # Hataraki no Sho — The Martial Application of the Works

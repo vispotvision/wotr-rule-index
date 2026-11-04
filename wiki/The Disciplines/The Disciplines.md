@@ -1,5 +1,5 @@
 ---
-title: "The Disciplines"
+title: The Disciplines
 ---
 
 ![[Assets/Paintings/hero.webp]]

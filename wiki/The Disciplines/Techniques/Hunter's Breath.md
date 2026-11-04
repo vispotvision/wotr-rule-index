@@ -1,5 +1,5 @@
 ---
-title: "Hunter's Breath"
+title: Hunter's Breath
 ---
 
 # Hunter's Breath

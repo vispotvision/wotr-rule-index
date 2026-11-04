@@ -1,5 +1,5 @@
 ---
-title: "Amaranth Severance · The Blooming Thorn"
+title: Amaranth Severance · The Blooming Thorn
 ---
 
 # Amaranth Severance · The Blooming Thorn

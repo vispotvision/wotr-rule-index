@@ -1,5 +1,5 @@
 ---
-title: "First Steps"
+title: First Steps
 ---
 
 ![[Assets/Paintings/first-steps.webp]]

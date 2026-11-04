@@ -1,6 +1,9 @@
 ---
-title: "The Four Ceilings"
-tags: ["Cosmology", "Lore & History", "Trade & Economy"]
+title: The Four Ceilings
+tags:
+  - Cosmology
+  - Lore & History
+  - Trade & Economy
 ---
 
 # The Four Ceilings

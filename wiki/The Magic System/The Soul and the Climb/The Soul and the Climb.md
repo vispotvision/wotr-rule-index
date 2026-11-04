@@ -1,5 +1,5 @@
 ---
-title: "The Soul and the Climb"
+title: The Soul and the Climb
 ---
 
 ![[Assets/Paintings/soul-climb.webp]]

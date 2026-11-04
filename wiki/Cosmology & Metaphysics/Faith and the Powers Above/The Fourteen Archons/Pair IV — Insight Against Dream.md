@@ -1,5 +1,5 @@
 ---
-title: "Pair IV — Insight Against Dream"
+title: Pair IV — Insight Against Dream
 ---
 
 # Pair IV — Insight Against Dream

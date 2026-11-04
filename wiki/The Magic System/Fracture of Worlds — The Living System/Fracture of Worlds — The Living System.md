@@ -1,6 +1,8 @@
 ---
-title: "Fracture of Worlds — The Living System"
-tags: ["Magic System", "Reference Table"]
+title: Fracture of Worlds — The Living System
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 ![[Assets/Paintings/fracture-worlds.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "The Spirit Rune Arts"
+title: The Spirit Rune Arts
 ---
 
 # The Spirit Rune Arts

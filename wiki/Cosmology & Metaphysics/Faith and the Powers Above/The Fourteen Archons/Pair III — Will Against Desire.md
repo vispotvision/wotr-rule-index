@@ -1,5 +1,5 @@
 ---
-title: "Pair III — Will Against Desire"
+title: Pair III — Will Against Desire
 ---
 
 # Pair III — Will Against Desire

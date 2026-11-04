@@ -1,5 +1,5 @@
 ---
-title: "Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin"
+title: Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin
 ---
 
 # Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin

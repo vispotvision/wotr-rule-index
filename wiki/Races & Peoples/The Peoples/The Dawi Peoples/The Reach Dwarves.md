@@ -1,5 +1,5 @@
 ---
-title: "The Reach Dwarves"
+title: The Reach Dwarves
 ---
 
 # The Reach Dwarves

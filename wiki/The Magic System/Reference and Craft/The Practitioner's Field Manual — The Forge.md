@@ -1,6 +1,8 @@
 ---
-title: "The Practitioner's Field Manual — The Forge"
-tags: ["Magic System", "Reference Table"]
+title: The Practitioner's Field Manual — The Forge
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Practitioner's Field Manual — The Forge

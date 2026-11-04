@@ -1,5 +1,5 @@
 ---
-title: "Puppet-Dream Marionette"
+title: Puppet-Dream Marionette
 ---
 
 # Puppet-Dream Marionette

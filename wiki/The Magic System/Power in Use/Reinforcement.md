@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement"
+title: Reinforcement
 ---
 
 *How a practitioner's body holds its power, and how they push it further. For the whole system in brief, see How Magic Works.*

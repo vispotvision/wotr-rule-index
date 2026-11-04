@@ -1,5 +1,5 @@
 ---
-title: "The Marshgrave's Phial · The Bottle That Weeps"
+title: The Marshgrave's Phial · The Bottle That Weeps
 ---
 
 # The Marshgrave's Phial · The Bottle That Weeps

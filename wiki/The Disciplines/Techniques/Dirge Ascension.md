@@ -1,5 +1,5 @@
 ---
-title: "Dirge Ascension"
+title: Dirge Ascension
 ---
 
 # Dirge Ascension

@@ -1,5 +1,5 @@
 ---
-title: "The Inner World — The Northern Shield"
+title: The Inner World — The Northern Shield
 ---
 
 ![[Assets/Paintings/northern-shield.webp]]

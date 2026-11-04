@@ -1,5 +1,5 @@
 ---
-title: "Speculum Harmoniae"
+title: Speculum Harmoniae
 ---
 
 # Speculum Harmoniae

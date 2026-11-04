@@ -1,6 +1,8 @@
 ---
-title: "Runic Dawi — The Tongue of the Holds"
-tags: ["Peoples", "Reference Table"]
+title: Runic Dawi — The Tongue of the Holds
+tags:
+  - Peoples
+  - Reference Table
 ---
 
 # Runic Dawi — The Tongue of the Holds

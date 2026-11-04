@@ -1,5 +1,5 @@
 ---
-title: "Eidolyn Falseface Lattice"
+title: Eidolyn Falseface Lattice
 ---
 
 # Eidolyn Falseface Lattice

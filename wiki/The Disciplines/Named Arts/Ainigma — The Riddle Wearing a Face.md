@@ -1,5 +1,5 @@
 ---
-title: "Ainigma — The Riddle Wearing a Face"
+title: Ainigma — The Riddle Wearing a Face
 ---
 
 # Ainigma — The Riddle Wearing a Face

@@ -1,6 +1,8 @@
 ---
-title: "I. Levels, Experience and Stat Points (Parts One–Three)"
-tags: ["Magic System", "Reference Table"]
+title: I. Levels, Experience and Stat Points (Parts One–Three)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # I. Levels, Experience and Stat Points (Parts One–Three)

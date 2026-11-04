@@ -1,5 +1,5 @@
 ---
-title: "Aberrations"
+title: Aberrations
 ---
 
 ![[Assets/Paintings/aberrations.webp]]

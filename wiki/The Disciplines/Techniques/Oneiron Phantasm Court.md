@@ -1,5 +1,5 @@
 ---
-title: "Oneiron Phantasm Court"
+title: Oneiron Phantasm Court
 ---
 
 # Oneiron Phantasm Court

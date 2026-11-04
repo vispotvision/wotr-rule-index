@@ -1,6 +1,8 @@
 ---
-title: "VI. The Sixteen Temperance Stages (Part Sixteen)"
-tags: ["Magic System", "Reference Table"]
+title: VI. The Sixteen Temperance Stages (Part Sixteen)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # VI. The Sixteen Temperance Stages (Part Sixteen)

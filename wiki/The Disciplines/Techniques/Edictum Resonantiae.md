@@ -1,5 +1,5 @@
 ---
-title: "Edictum Resonantiae"
+title: Edictum Resonantiae
 ---
 
 # Edictum Resonantiae

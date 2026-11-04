@@ -1,5 +1,5 @@
 ---
-title: "Anima Veri Credentis"
+title: Anima Veri Credentis
 ---
 
 # Anima Veri Credentis

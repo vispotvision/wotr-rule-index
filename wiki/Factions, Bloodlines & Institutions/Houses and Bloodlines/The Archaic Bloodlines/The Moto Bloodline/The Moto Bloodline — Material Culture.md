@@ -1,6 +1,7 @@
 ---
-title: "The Moto Bloodline — Material Culture"
-tags: ["Bloodlines"]
+title: The Moto Bloodline — Material Culture
+tags:
+  - Bloodlines
 ---
 
 # The Moto Bloodline — Material Culture

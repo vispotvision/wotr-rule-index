@@ -1,5 +1,5 @@
 ---
-title: "In-World Documents & the Narrative Archive"
+title: In-World Documents & the Narrative Archive
 ---
 
 ![[Assets/Paintings/hero.webp]]

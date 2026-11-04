@@ -1,5 +1,5 @@
 ---
-title: "The Iron Tree"
+title: The Iron Tree
 ---
 
 # The Iron Tree

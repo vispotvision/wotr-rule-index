@@ -1,6 +1,9 @@
 ---
-title: "Accord Latin — The Formulary and the Two Spoken Registers"
-tags: ["Peoples", "Magic System", "Reference Table"]
+title: Accord Latin — The Formulary and the Two Spoken Registers
+tags:
+  - Peoples
+  - Magic System
+  - Reference Table
 ---
 
 # Accord Latin — The Formulary and the Two Spoken Registers

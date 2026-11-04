@@ -1,6 +1,7 @@
 ---
-title: "The Veil"
-tags: ["Cosmology"]
+title: The Veil
+tags:
+  - Cosmology
 ---
 
 # The Veil

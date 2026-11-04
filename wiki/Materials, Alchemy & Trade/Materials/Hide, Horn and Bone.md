@@ -1,6 +1,9 @@
 ---
-title: "Hide, Horn and Bone"
-tags: ["Materials", "Trade & Economy", "Reference Table"]
+title: Hide, Horn and Bone
+tags:
+  - Materials
+  - Trade & Economy
+  - Reference Table
 ---
 
 # Hide, Horn and Bone

@@ -1,5 +1,5 @@
 ---
-title: "Pair V — Motion Against Stillness"
+title: Pair V — Motion Against Stillness
 ---
 
 # Pair V — Motion Against Stillness

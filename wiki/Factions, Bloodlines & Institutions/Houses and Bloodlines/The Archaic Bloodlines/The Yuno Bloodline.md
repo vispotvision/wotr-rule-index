@@ -1,6 +1,7 @@
 ---
-title: "The Yuno Bloodline"
-tags: ["Bloodlines"]
+title: The Yuno Bloodline
+tags:
+  - Bloodlines
 ---
 
 # The Yuno Bloodline

@@ -1,6 +1,8 @@
 ---
-title: "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)"
-tags: ["Magic System", "Reference Table"]
+title: IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)

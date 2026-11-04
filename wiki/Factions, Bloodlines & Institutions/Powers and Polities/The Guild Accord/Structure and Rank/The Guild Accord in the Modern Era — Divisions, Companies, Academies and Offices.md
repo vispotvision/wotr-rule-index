@@ -1,6 +1,8 @@
 ---
-title: "The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices"
-tags: ["Factions", "Trade & Economy"]
+title: The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices
+tags:
+  - Factions
+  - Trade & Economy
 ---
 
 # The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices

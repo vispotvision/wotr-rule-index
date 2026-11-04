@@ -1,5 +1,5 @@
 ---
-title: "Training and Sects"
+title: Training and Sects
 ---
 
 *How a woken practitioner grows, who teaches them, how they are ranked, and what fame and contest do to them. For the whole system in brief, see How Magic Works.*

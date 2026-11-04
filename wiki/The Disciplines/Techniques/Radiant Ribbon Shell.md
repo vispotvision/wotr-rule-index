@@ -1,5 +1,5 @@
 ---
-title: "Radiant Ribbon Shell"
+title: Radiant Ribbon Shell
 ---
 
 # Radiant Ribbon Shell

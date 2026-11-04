@@ -1,5 +1,5 @@
 ---
-title: "The Open Crucible — Kwon Mu-jin's Book of Summons"
+title: The Open Crucible — Kwon Mu-jin's Book of Summons
 ---
 
 # The Open Crucible — Kwon Mu-jin's Book of Summons

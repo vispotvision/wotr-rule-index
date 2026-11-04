@@ -1,5 +1,5 @@
 ---
-title: "Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light"
+title: Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light
 ---
 
 # Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light

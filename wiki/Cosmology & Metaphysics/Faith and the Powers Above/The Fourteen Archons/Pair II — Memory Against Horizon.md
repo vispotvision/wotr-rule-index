@@ -1,5 +1,5 @@
 ---
-title: "Pair II — Memory Against Horizon"
+title: Pair II — Memory Against Horizon
 ---
 
 # Pair II — Memory Against Horizon

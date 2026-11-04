@@ -1,6 +1,8 @@
 ---
-title: "The Works and Days — Occupations, Trades and Technology"
-tags: ["Trade & Economy", "Peoples"]
+title: The Works and Days — Occupations, Trades and Technology
+tags:
+  - Trade & Economy
+  - Peoples
 ---
 
 # The Works and Days — Occupations, Trades and Technology

@@ -1,5 +1,5 @@
 ---
-title: "Harmonic Null-Ascension"
+title: Harmonic Null-Ascension
 ---
 
 # Harmonic Null-Ascension

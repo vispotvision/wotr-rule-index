@@ -1,5 +1,5 @@
 ---
-title: "The Called · Summon Register"
+title: The Called · Summon Register
 ---
 
 ![[Assets/Paintings/bestiary.webp]]

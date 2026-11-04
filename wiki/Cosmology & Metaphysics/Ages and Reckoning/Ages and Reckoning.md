@@ -1,5 +1,5 @@
 ---
-title: "Ages and Reckoning"
+title: Ages and Reckoning
 ---
 
 ![[Assets/Paintings/ages-reckoning.webp]]

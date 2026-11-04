@@ -1,5 +1,5 @@
 ---
-title: "The Rites"
+title: The Rites
 ---
 
 # The Rites

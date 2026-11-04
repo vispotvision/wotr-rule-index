@@ -1,5 +1,5 @@
 ---
-title: "The Alftian Codex"
+title: The Alftian Codex
 ---
 
 ![[Assets/Paintings/alftian.webp]]

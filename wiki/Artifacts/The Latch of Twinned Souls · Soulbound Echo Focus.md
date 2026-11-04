@@ -1,5 +1,5 @@
 ---
-title: "The Latch of Twinned Souls · Soulbound Echo Focus"
+title: The Latch of Twinned Souls · Soulbound Echo Focus
 ---
 
 # The Latch of Twinned Souls · Soulbound Echo Focus

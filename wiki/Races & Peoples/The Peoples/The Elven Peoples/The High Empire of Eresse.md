@@ -1,5 +1,5 @@
 ---
-title: "The High Empire of Eresse"
+title: The High Empire of Eresse
 ---
 
 # The High Empire of Eresse

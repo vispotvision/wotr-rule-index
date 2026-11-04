@@ -1,5 +1,5 @@
 ---
-title: "Characters"
+title: Characters
 ---
 
 ![[Assets/Paintings/hero.webp]]

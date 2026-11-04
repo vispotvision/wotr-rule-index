@@ -1,5 +1,5 @@
 ---
-title: "The Foundations"
+title: The Foundations
 ---
 
 ![[Assets/Paintings/foundations.webp]]

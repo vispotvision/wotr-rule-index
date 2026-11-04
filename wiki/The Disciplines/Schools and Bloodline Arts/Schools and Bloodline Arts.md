@@ -1,5 +1,5 @@
 ---
-title: "Schools and Bloodline Arts"
+title: Schools and Bloodline Arts
 ---
 
 ![[Assets/Paintings/hero.webp]]

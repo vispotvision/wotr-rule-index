@@ -1,6 +1,8 @@
 ---
-title: "The Alchemical Index"
-tags: ["Alchemy", "Reference Table"]
+title: The Alchemical Index
+tags:
+  - Alchemy
+  - Reference Table
 ---
 
 # The Alchemical Index

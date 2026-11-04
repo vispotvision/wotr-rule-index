@@ -1,5 +1,5 @@
 ---
-title: "Mnemonis Solution · The Recursive Draft"
+title: Mnemonis Solution · The Recursive Draft
 ---
 
 # Mnemonis Solution · The Recursive Draft

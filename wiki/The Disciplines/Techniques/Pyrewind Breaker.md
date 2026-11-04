@@ -1,5 +1,5 @@
 ---
-title: "Pyrewind Breaker"
+title: Pyrewind Breaker
 ---
 
 # Pyrewind Breaker

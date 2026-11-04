@@ -1,6 +1,8 @@
 ---
-title: "The Master Material Ledger"
-tags: ["Materials", "Reference Table"]
+title: The Master Material Ledger
+tags:
+  - Materials
+  - Reference Table
 ---
 
 ![[Assets/Paintings/material-ledger.webp]]

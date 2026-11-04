@@ -1,5 +1,5 @@
 ---
-title: "The Twelve Stages of Spirit Infusion"
+title: The Twelve Stages of Spirit Infusion
 ---
 
 # The Twelve Stages of Spirit Infusion

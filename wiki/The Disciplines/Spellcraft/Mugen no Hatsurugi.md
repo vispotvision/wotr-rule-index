@@ -1,5 +1,5 @@
 ---
-title: "Mugen no Hatsurugi"
+title: Mugen no Hatsurugi
 ---
 
 # Mugen no Hatsurugi

@@ -1,5 +1,5 @@
 ---
-title: "Lurien's Hearthvine · The Green Cantor's Bow"
+title: Lurien's Hearthvine · The Green Cantor's Bow
 ---
 
 # Lurien's Hearthvine · The Green Cantor's Bow

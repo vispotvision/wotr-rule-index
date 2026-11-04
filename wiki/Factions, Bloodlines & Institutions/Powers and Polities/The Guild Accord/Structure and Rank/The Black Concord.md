@@ -1,5 +1,5 @@
 ---
-title: "The Black Concord"
+title: The Black Concord
 ---
 
 # The Black Concord

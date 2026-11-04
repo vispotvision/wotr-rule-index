@@ -1,5 +1,5 @@
 ---
-title: "The Spirit Summoning Arts"
+title: The Spirit Summoning Arts
 ---
 
 ![[Assets/Paintings/hero.webp]]

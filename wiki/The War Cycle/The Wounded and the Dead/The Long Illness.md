@@ -1,5 +1,5 @@
 ---
-title: "The Long Illness"
+title: The Long Illness
 ---
 
 # The Long Illness

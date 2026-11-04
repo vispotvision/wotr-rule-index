@@ -1,5 +1,5 @@
 ---
-title: "Winter Rend"
+title: Winter Rend
 ---
 
 # Winter Rend

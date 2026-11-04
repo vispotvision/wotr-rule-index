@@ -1,5 +1,5 @@
 ---
-title: "The Concord Military"
+title: The Concord Military
 ---
 
 # The Concord Military

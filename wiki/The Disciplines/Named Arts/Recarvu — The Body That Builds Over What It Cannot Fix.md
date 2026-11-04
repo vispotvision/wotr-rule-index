@@ -1,5 +1,5 @@
 ---
-title: "Recarvu — The Body That Builds Over What It Cannot Fix"
+title: Recarvu — The Body That Builds Over What It Cannot Fix
 ---
 
 # Recarvu — The Body That Builds Over What It Cannot Fix

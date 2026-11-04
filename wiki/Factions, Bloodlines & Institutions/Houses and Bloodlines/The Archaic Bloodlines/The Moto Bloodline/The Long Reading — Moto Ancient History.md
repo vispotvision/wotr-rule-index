@@ -1,6 +1,8 @@
 ---
-title: "The Long Reading — Moto Ancient History"
-tags: ["Lore & History", "Bloodlines"]
+title: The Long Reading — Moto Ancient History
+tags:
+  - Lore & History
+  - Bloodlines
 ---
 
 # The Long Reading — Moto Ancient History

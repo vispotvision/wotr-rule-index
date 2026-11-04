@@ -1,5 +1,5 @@
 ---
-title: "Maw of Crystalline Stasis"
+title: Maw of Crystalline Stasis
 ---
 
 # Maw of Crystalline Stasis

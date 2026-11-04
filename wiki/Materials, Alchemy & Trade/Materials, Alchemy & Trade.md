@@ -1,6 +1,10 @@
 ---
-title: "Materials, Alchemy & Trade"
-tags: ["Materials", "Alchemy", "Trade & Economy", "Reference Table"]
+title: Materials, Alchemy & Trade
+tags:
+  - Materials
+  - Alchemy
+  - Trade & Economy
+  - Reference Table
 ---
 
 ![[Assets/Paintings/alchemy.webp]]

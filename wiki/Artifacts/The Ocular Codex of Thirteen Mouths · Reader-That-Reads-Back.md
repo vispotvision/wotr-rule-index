@@ -1,5 +1,5 @@
 ---
-title: "The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back"
+title: The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back
 ---
 
 # The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back

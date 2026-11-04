@@ -1,5 +1,5 @@
 ---
-title: "Solution — The Mind That Solves Itself"
+title: Solution — The Mind That Solves Itself
 ---
 
 # Solution — The Mind That Solves Itself

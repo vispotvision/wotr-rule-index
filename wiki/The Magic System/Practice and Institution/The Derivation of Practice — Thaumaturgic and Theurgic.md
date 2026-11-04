@@ -1,6 +1,8 @@
 ---
-title: "The Derivation of Practice — Thaumaturgic and Theurgic"
-tags: ["Magic System", "Lore & History"]
+title: The Derivation of Practice — Thaumaturgic and Theurgic
+tags:
+  - Magic System
+  - Lore & History
 ---
 
 # The Derivation of Practice — Thaumaturgic and Theurgic

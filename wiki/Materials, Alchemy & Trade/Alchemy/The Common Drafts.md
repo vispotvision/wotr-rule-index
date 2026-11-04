@@ -1,5 +1,5 @@
 ---
-title: "The Common Drafts"
+title: The Common Drafts
 ---
 
 *The standard catalog of the Draft trade, as kept by quartermasters, licensed apothecaries and the excise office · prices in Accord marks*

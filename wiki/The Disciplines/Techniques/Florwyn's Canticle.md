@@ -1,5 +1,5 @@
 ---
-title: "Florwyn's Canticle"
+title: Florwyn's Canticle
 ---
 
 # Florwyn's Canticle

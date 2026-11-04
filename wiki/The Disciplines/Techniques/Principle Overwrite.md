@@ -1,5 +1,5 @@
 ---
-title: "Principle Overwrite"
+title: Principle Overwrite
 ---
 
 # Principle Overwrite

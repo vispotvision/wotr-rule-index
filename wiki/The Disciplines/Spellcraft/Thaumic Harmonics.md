@@ -1,5 +1,5 @@
 ---
-title: "Thaumic Harmonics"
+title: Thaumic Harmonics
 ---
 
 # Thaumic Harmonics

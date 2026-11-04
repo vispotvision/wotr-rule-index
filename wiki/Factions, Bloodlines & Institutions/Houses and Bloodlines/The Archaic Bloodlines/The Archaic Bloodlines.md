@@ -1,6 +1,8 @@
 ---
-title: "The Archaic Bloodlines"
-tags: ["Bloodlines", "Peoples"]
+title: The Archaic Bloodlines
+tags:
+  - Bloodlines
+  - Peoples
 ---
 
 ![[Assets/Paintings/houses-bloodlines.webp]]

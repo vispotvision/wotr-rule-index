@@ -1,5 +1,5 @@
 ---
-title: "Orders, Faiths and Cults"
+title: Orders, Faiths and Cults
 ---
 
 ![[Assets/Paintings/orders-faiths.webp]]

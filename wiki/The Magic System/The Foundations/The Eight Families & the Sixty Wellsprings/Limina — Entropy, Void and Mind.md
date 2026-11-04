@@ -1,5 +1,5 @@
 ---
-title: "Limina — Entropy, Void and Mind"
+title: Limina — Entropy, Void and Mind
 ---
 
 # Limina — Entropy, Void and Mind

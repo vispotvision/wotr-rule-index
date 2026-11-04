@@ -1,5 +1,5 @@
 ---
-title: "Vorynn Execution Strike"
+title: Vorynn Execution Strike
 ---
 
 # Vorynn Execution Strike

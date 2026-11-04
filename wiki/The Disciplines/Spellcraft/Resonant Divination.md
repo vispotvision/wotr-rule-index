@@ -1,5 +1,5 @@
 ---
-title: "Resonant Divination"
+title: Resonant Divination
 ---
 
 # Resonant Divination

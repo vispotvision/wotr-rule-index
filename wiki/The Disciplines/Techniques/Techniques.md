@@ -1,5 +1,5 @@
 ---
-title: "Techniques"
+title: Techniques
 ---
 
 ![[Assets/Paintings/hero.webp]]

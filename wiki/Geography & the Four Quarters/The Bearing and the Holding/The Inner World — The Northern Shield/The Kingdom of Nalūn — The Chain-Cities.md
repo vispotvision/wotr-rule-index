@@ -1,5 +1,5 @@
 ---
-title: "The Kingdom of Nalūn — The Chain-Cities"
+title: The Kingdom of Nalūn — The Chain-Cities
 ---
 
 # The Kingdom of Nalūn — The Chain-Cities

@@ -1,5 +1,5 @@
 ---
-title: "Moto Element Inventory — Japonic Stratum"
+title: Moto Element Inventory — Japonic Stratum
 ---
 
 # Moto Element Inventory — Japonic Stratum

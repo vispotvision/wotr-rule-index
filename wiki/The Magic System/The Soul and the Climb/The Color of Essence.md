@@ -1,6 +1,8 @@
 ---
-title: "The Color of Essence"
-tags: ["Magic System", "Reference Table"]
+title: The Color of Essence
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Color of Essence

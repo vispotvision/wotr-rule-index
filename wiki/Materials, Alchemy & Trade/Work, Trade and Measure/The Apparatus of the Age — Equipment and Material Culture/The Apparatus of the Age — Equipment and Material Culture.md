@@ -1,6 +1,8 @@
 ---
-title: "The Apparatus of the Age — Equipment and Material Culture"
-tags: ["Materials", "Trade & Economy"]
+title: The Apparatus of the Age — Equipment and Material Culture
+tags:
+  - Materials
+  - Trade & Economy
 ---
 
 ![[Assets/Paintings/alchemy.webp]]

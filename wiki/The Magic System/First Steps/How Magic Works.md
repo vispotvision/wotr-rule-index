@@ -1,5 +1,5 @@
 ---
-title: "How Magic Works"
+title: How Magic Works
 ---
 
 *A first page on magic. Each section ends with the page that goes deeper.*

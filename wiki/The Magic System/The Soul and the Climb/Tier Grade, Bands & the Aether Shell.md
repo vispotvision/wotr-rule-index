@@ -1,6 +1,8 @@
 ---
-title: "Tier Grade, Bands & the Aether Shell"
-tags: ["Magic System", "Reference Table"]
+title: Tier Grade, Bands & the Aether Shell
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # Tier Grade, Bands & the Aether Shell

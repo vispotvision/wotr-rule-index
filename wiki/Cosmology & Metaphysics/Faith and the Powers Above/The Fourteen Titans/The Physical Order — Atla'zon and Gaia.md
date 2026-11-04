@@ -1,5 +1,5 @@
 ---
-title: "The Physical Order — Atla'zon and Gaia"
+title: The Physical Order — Atla'zon and Gaia
 ---
 
 # The Physical Order — Atla'zon and Gaia

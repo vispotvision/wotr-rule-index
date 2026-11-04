@@ -1,6 +1,8 @@
 ---
-title: "The Concordance of Ages"
-tags: ["Lore & History", "In-World Document"]
+title: The Concordance of Ages
+tags:
+  - Lore & History
+  - In-World Document
 ---
 
 # The Concordance of Ages

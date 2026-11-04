@@ -1,5 +1,5 @@
 ---
-title: "Anima Harmonics"
+title: Anima Harmonics
 ---
 
 # Anima Harmonics

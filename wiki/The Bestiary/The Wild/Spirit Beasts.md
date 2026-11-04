@@ -1,5 +1,5 @@
 ---
-title: "Spirit Beasts"
+title: Spirit Beasts
 ---
 
 # Spirit Beasts

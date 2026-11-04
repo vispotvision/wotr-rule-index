@@ -1,6 +1,10 @@
 ---
-title: "Lore & History"
-tags: ["Lore & History", "In-World Document", "Cosmology", "Alchemy"]
+title: Lore & History
+tags:
+  - Lore & History
+  - In-World Document
+  - Cosmology
+  - Alchemy
 ---
 
 ![[Assets/Paintings/lore.webp]]

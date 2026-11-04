@@ -1,5 +1,5 @@
 ---
-title: "Auric Parallax Veil"
+title: Auric Parallax Veil
 ---
 
 # Auric Parallax Veil

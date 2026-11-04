@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Parallax Lance"
+title: Sovereign Parallax Lance
 ---
 
 # Sovereign Parallax Lance

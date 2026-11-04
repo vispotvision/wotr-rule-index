@@ -1,6 +1,8 @@
 ---
-title: "Errata to the Received Registers"
-tags: ["Lore & History", "In-World Document"]
+title: Errata to the Received Registers
+tags:
+  - Lore & History
+  - In-World Document
 ---
 
 # Errata to the Received Registers

@@ -1,6 +1,8 @@
 ---
-title: "VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)"
-tags: ["Magic System", "Reference Table"]
+title: VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)

@@ -1,6 +1,8 @@
 ---
-title: "The Three Epochs"
-tags: ["Cosmology", "Lore & History"]
+title: The Three Epochs
+tags:
+  - Cosmology
+  - Lore & History
 ---
 
 # The Three Epochs

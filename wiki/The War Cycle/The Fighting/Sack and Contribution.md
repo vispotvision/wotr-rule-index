@@ -1,5 +1,5 @@
 ---
-title: "Sack and Contribution"
+title: Sack and Contribution
 ---
 
 # Sack and Contribution

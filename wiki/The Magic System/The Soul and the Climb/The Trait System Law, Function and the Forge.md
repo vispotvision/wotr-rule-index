@@ -1,6 +1,8 @@
 ---
 title: "The Trait System: Law, Function and the Forge"
-tags: ["Magic System", "Reference Table"]
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Trait System: Law, Function and the Forge

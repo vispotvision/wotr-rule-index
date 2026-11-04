@@ -1,6 +1,7 @@
 ---
-title: "The Yukari Bloodline"
-tags: ["Bloodlines"]
+title: The Yukari Bloodline
+tags:
+  - Bloodlines
 ---
 
 # The Yukari Bloodline

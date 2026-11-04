@@ -1,6 +1,7 @@
 ---
 title: "The Four Paths: Routing, Recognition and the Gate"
-tags: ["Magic System"]
+tags:
+  - Magic System
 ---
 
 # The Four Paths: Routing, Recognition and the Gate

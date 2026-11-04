@@ -1,6 +1,8 @@
 ---
-title: "The Eight Families & the Sixty Wellsprings"
-tags: ["Magic System", "Reference Table"]
+title: The Eight Families & the Sixty Wellsprings
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 ![[Assets/Paintings/eight-families.webp]]

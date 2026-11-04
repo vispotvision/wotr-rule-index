@@ -1,5 +1,5 @@
 ---
-title: "The Ashkaru"
+title: The Ashkaru
 ---
 
 # The Ashkaru

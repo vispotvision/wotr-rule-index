@@ -1,6 +1,8 @@
 ---
-title: "The Four Crafts"
-tags: ["Magic System", "Disciplines"]
+title: The Four Crafts
+tags:
+  - Magic System
+  - Disciplines
 ---
 
 # The Four Crafts

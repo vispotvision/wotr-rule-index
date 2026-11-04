@@ -1,5 +1,5 @@
 ---
-title: "Mkono wa Miti · Arm of the Trees"
+title: Mkono wa Miti · Arm of the Trees
 ---
 
 # Mkono wa Miti · Arm of the Trees

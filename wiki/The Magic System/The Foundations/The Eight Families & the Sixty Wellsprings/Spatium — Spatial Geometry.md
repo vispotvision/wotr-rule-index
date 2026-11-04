@@ -1,5 +1,5 @@
 ---
-title: "Spatium — Spatial Geometry"
+title: Spatium — Spatial Geometry
 ---
 
 # Spatium — Spatial Geometry

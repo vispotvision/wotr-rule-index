@@ -1,5 +1,5 @@
 ---
-title: "Raga · The Divine Thunder Bear"
+title: Raga · The Divine Thunder Bear
 ---
 
 # Raga · The Divine Thunder Bear

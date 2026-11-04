@@ -1,5 +1,5 @@
 ---
-title: "Solarbound Aegoric Knight"
+title: Solarbound Aegoric Knight
 ---
 
 # Solarbound Aegoric Knight

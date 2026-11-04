@@ -1,5 +1,5 @@
 ---
-title: "Letheveil Memory-Quake"
+title: Letheveil Memory-Quake
 ---
 
 # Letheveil Memory-Quake

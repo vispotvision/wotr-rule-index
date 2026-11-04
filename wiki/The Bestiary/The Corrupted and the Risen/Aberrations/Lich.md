@@ -1,5 +1,5 @@
 ---
-title: "Lich"
+title: Lich
 ---
 
 # Lich

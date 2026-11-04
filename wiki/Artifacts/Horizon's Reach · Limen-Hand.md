@@ -1,5 +1,5 @@
 ---
-title: "Horizon's Reach · Limen-Hand"
+title: Horizon's Reach · Limen-Hand
 ---
 
 # Horizon's Reach · Limen-Hand

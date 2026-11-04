@@ -1,5 +1,5 @@
 ---
-title: "New Lore — Reading Order"
+title: New Lore — Reading Order
 private: true
 ---
 

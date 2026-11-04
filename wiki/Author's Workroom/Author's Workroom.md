@@ -1,5 +1,5 @@
 ---
-title: "Information not on WIKI"
+title: Information not on WIKI
 ---
 
 ![[Assets/Paintings/hero.webp]]

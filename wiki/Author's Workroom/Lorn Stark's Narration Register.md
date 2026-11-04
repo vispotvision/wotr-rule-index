@@ -1,5 +1,5 @@
 ---
-title: "Lorn Stark's Narration Register"
+title: Lorn Stark's Narration Register
 ---
 
 # Lorn Stark's Narration Register

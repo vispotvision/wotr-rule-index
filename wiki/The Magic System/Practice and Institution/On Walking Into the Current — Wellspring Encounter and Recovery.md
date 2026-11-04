@@ -1,6 +1,8 @@
 ---
-title: "On Walking Into the Current — Wellspring Encounter and Recovery"
-tags: ["Magic System", "Medicine & Death"]
+title: On Walking Into the Current — Wellspring Encounter and Recovery
+tags:
+  - Magic System
+  - Medicine & Death
 ---
 
 # On Walking Into the Current — Wellspring Encounter and Recovery

@@ -1,5 +1,5 @@
 ---
-title: "Faith and the Powers Above"
+title: Faith and the Powers Above
 ---
 
 ![[Assets/Paintings/archons.webp]]

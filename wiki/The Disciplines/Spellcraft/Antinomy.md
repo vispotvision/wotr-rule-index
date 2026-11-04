@@ -1,5 +1,5 @@
 ---
-title: "Antinomy"
+title: Antinomy
 ---
 
 # Antinomy

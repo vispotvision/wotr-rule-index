@@ -1,6 +1,9 @@
 ---
-title: "The Standing Index"
-tags: ["Materials", "Trade & Economy", "Reference Table"]
+title: The Standing Index
+tags:
+  - Materials
+  - Trade & Economy
+  - Reference Table
 ---
 
 # The Standing Index

@@ -1,5 +1,5 @@
 ---
-title: "Talos — The Bronze That Empties the Room"
+title: Talos — The Bronze That Empties the Room
 ---
 
 # Talos — The Bronze That Empties the Room

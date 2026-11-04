@@ -1,5 +1,5 @@
 ---
-title: "Summoned and Bound"
+title: Summoned and Bound
 ---
 
 ![[Assets/Paintings/summoned.webp]]

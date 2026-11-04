@@ -1,6 +1,9 @@
 ---
-title: "The Bestiary"
-tags: ["Bestiary", "Reference Table", "Peoples"]
+title: The Bestiary
+tags:
+  - Bestiary
+  - Reference Table
+  - Peoples
 ---
 
 ![[Assets/Paintings/bestiary.webp]]

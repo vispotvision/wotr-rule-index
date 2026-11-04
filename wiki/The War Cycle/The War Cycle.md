@@ -1,6 +1,9 @@
 ---
-title: "The War Cycle"
-tags: ["War", "Medicine & Death", "Factions"]
+title: The War Cycle
+tags:
+  - War
+  - Medicine & Death
+  - Factions
 ---
 
 ![[Assets/Paintings/war-cycle.webp]]

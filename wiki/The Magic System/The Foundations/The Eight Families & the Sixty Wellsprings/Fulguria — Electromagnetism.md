@@ -1,5 +1,5 @@
 ---
-title: "Fulguria — Electromagnetism"
+title: Fulguria — Electromagnetism
 ---
 
 # Fulguria — Electromagnetism

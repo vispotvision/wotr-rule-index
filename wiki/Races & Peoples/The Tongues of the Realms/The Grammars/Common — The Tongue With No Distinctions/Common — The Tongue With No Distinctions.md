@@ -1,6 +1,8 @@
 ---
-title: "Common — The Tongue With No Distinctions"
-tags: ["Peoples", "Reference Table"]
+title: Common — The Tongue With No Distinctions
+tags:
+  - Peoples
+  - Reference Table
 ---
 
 ![[Assets/Paintings/peoples.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "The Two Winters — Outline"
+title: The Two Winters — Outline
 private: true
 ---
 

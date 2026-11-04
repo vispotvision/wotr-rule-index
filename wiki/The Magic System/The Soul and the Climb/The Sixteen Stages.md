@@ -1,6 +1,8 @@
 ---
-title: "The Sixteen Stages"
-tags: ["Magic System", "Reference Table"]
+title: The Sixteen Stages
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Sixteen Stages

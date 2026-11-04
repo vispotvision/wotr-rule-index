@@ -1,6 +1,9 @@
 ---
-title: "The Bearing and the Holding"
-tags: ["Trade & Economy", "Geography", "In-World Document"]
+title: The Bearing and the Holding
+tags:
+  - Trade & Economy
+  - Geography
+  - In-World Document
 ---
 
 ![[Assets/Paintings/bearing-holding.webp]]

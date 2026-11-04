@@ -1,5 +1,5 @@
 ---
-title: "The Principle Engine"
+title: The Principle Engine
 ---
 
 # The Principle Engine

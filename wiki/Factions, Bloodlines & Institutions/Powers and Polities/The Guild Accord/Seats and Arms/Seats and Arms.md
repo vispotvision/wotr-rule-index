@@ -1,5 +1,5 @@
 ---
-title: "Seats and Arms"
+title: Seats and Arms
 ---
 
 ![[Assets/Paintings/guild-accord.webp]]

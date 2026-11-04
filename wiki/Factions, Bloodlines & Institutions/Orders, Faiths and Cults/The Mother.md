@@ -1,5 +1,5 @@
 ---
-title: "The Mother"
+title: The Mother
 ---
 
 # The Mother

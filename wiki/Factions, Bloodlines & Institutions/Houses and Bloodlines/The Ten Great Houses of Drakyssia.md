@@ -1,5 +1,5 @@
 ---
-title: "The Ten Great Houses of Drakyssia"
+title: The Ten Great Houses of Drakyssia
 ---
 
 # The Ten Great Houses of Drakyssia

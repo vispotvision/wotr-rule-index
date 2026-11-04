@@ -1,5 +1,5 @@
 ---
-title: "Walls and What Beats Them"
+title: Walls and What Beats Them
 ---
 
 # Walls and What Beats Them

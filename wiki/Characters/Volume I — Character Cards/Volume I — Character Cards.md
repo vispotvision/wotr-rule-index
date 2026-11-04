@@ -1,5 +1,5 @@
 ---
-title: "Volume I — Character Cards"
+title: Volume I — Character Cards
 ---
 
 ![[Assets/Paintings/hero.webp]]

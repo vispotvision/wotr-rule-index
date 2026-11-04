@@ -1,5 +1,5 @@
 ---
-title: "Isles and Archipelagos"
+title: Isles and Archipelagos
 ---
 
 ![[Assets/Paintings/geography.webp]]

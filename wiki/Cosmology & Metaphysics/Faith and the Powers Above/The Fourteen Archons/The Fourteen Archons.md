@@ -1,6 +1,8 @@
 ---
-title: "The Fourteen Archons"
-tags: ["Cosmology", "Reference Table"]
+title: The Fourteen Archons
+tags:
+  - Cosmology
+  - Reference Table
 ---
 
 ![[Assets/Paintings/archons.webp]]

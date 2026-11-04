@@ -1,6 +1,9 @@
 ---
-title: "The Counted Speech — A Speaker's Grammar of Parun"
-tags: ["Magic System", "Peoples", "Reference Table"]
+title: The Counted Speech — A Speaker's Grammar of Parun
+tags:
+  - Magic System
+  - Peoples
+  - Reference Table
 ---
 
 # The Counted Speech — A Speaker's Grammar of Parun

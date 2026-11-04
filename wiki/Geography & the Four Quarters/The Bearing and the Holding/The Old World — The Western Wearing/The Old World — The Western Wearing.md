@@ -1,5 +1,5 @@
 ---
-title: "The Old World — The Western Wearing"
+title: The Old World — The Western Wearing
 ---
 
 ![[Assets/Paintings/geography.webp]]

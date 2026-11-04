@@ -1,5 +1,5 @@
 ---
-title: "Tenebra Ambush Art"
+title: Tenebra Ambush Art
 ---
 
 # Tenebra Ambush Art

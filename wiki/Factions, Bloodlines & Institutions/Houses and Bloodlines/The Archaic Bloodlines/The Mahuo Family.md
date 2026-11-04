@@ -1,5 +1,5 @@
 ---
-title: "The Mahuo Family"
+title: The Mahuo Family
 ---
 
 # The Mahuo Family

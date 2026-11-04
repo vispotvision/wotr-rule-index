@@ -1,5 +1,5 @@
 ---
-title: "The Fighting"
+title: The Fighting
 ---
 
 ![[Assets/Paintings/war-cycle.webp]]

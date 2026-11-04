@@ -1,5 +1,5 @@
 ---
-title: "The Physician's Eye"
+title: The Physician's Eye
 ---
 
 # The Physician's Eye

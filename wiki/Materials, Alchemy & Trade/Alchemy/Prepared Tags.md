@@ -1,5 +1,5 @@
 ---
-title: "Prepared Tags"
+title: Prepared Tags
 ---
 
 *The common tags of the field kit, as cut by licensed hands, copied by unlicensed ones and guarded by the schools · prices in Accord marks*

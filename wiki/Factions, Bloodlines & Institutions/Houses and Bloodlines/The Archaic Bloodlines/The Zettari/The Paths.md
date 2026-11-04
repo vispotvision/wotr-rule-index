@@ -1,5 +1,5 @@
 ---
-title: "The Paths"
+title: The Paths
 ---
 
 # The Paths

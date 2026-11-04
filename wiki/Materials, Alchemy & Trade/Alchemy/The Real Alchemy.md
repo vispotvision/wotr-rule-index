@@ -1,5 +1,5 @@
 ---
-title: "The Real Alchemy"
+title: The Real Alchemy
 ---
 
 # The Real Alchemy

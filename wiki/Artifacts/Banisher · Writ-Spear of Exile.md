@@ -1,5 +1,5 @@
 ---
-title: "Banisher · Writ-Spear of Exile"
+title: Banisher · Writ-Spear of Exile
 ---
 
 # Banisher · Writ-Spear of Exile

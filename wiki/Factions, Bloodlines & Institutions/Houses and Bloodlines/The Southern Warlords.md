@@ -1,5 +1,5 @@
 ---
-title: "The Southern Warlords"
+title: The Southern Warlords
 ---
 
 # The Southern Warlords

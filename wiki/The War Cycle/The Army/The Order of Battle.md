@@ -1,5 +1,5 @@
 ---
-title: "The Order of Battle"
+title: The Order of Battle
 ---
 
 # The Order of Battle

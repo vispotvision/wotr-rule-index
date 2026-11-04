@@ -1,5 +1,5 @@
 ---
-title: "The Infinite Summoning Arts"
+title: The Infinite Summoning Arts
 ---
 
 # The Infinite Summoning Arts

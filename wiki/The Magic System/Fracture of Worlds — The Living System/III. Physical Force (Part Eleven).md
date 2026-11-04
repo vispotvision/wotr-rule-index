@@ -1,6 +1,9 @@
 ---
-title: "III. Physical Force (Part Eleven)"
-tags: ["Magic System", "Reference Table", "War"]
+title: III. Physical Force (Part Eleven)
+tags:
+  - Magic System
+  - Reference Table
+  - War
 ---
 
 # III. Physical Force (Part Eleven)

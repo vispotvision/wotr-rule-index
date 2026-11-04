@@ -1,5 +1,5 @@
 ---
-title: "The Black Aperture · Void Key"
+title: The Black Aperture · Void Key
 ---
 
 # The Black Aperture · Void Key

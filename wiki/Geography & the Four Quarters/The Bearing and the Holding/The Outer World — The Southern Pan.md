@@ -1,5 +1,5 @@
 ---
-title: "The Outer World — The Southern Pan"
+title: The Outer World — The Southern Pan
 ---
 
 # The Outer World — The Southern Pan

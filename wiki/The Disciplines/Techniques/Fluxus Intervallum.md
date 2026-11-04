@@ -1,5 +1,5 @@
 ---
-title: "Fluxus Intervallum"
+title: Fluxus Intervallum
 ---
 
 # Fluxus Intervallum

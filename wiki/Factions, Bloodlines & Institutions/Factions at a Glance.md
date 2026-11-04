@@ -1,5 +1,5 @@
 ---
-title: "Factions at a Glance"
+title: Factions at a Glance
 ---
 
 *Who holds what across the four quarters, what each wants, and where a stranger first runs into them.*

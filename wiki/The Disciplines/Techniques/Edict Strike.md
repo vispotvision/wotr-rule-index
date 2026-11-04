@@ -1,5 +1,5 @@
 ---
-title: "Edict Strike"
+title: Edict Strike
 ---
 
 # Edict Strike

@@ -1,5 +1,5 @@
 ---
-title: "Staff of the Verdant Pulse · Domain Anchor"
+title: Staff of the Verdant Pulse · Domain Anchor
 ---
 
 # Staff of the Verdant Pulse · Domain Anchor

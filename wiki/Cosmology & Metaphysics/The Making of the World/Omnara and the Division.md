@@ -1,5 +1,5 @@
 ---
-title: "Omnara and the Division"
+title: Omnara and the Division
 ---
 
 # Omnara and the Division

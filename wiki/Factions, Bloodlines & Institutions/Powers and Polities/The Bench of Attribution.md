@@ -1,6 +1,8 @@
 ---
-title: "The Bench of Attribution"
-tags: ["Factions", "Trade & Economy"]
+title: The Bench of Attribution
+tags:
+  - Factions
+  - Trade & Economy
 ---
 
 # The Bench of Attribution

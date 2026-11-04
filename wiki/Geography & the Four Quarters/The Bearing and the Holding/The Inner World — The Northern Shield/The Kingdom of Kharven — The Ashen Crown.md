@@ -1,5 +1,5 @@
 ---
-title: "The Kingdom of Kharven — The Ashen Crown"
+title: The Kingdom of Kharven — The Ashen Crown
 ---
 
 # The Kingdom of Kharven — The Ashen Crown

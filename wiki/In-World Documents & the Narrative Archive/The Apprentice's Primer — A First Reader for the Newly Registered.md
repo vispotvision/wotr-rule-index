@@ -1,5 +1,5 @@
 ---
-title: "The Apprentice's Primer — A First Reader for the Newly Registered"
+title: The Apprentice's Primer — A First Reader for the Newly Registered
 ---
 
 # The Apprentice's Primer — A First Reader for the Newly Registered

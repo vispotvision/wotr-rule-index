@@ -1,5 +1,5 @@
 ---
-title: "Ashfang Mark Invocation"
+title: Ashfang Mark Invocation
 ---
 
 # Ashfang Mark Invocation

@@ -1,5 +1,5 @@
 ---
-title: "Caloria — Thermodynamics"
+title: Caloria — Thermodynamics
 ---
 
 # Caloria — Thermodynamics

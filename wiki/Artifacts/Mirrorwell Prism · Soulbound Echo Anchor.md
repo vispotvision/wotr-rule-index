@@ -1,5 +1,5 @@
 ---
-title: "Mirrorwell Prism · Soulbound Echo Anchor"
+title: Mirrorwell Prism · Soulbound Echo Anchor
 ---
 
 # Mirrorwell Prism · Soulbound Echo Anchor

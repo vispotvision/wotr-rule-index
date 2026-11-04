@@ -1,5 +1,5 @@
 ---
-title: "The Primordial Dyad — Order and Chaos"
+title: The Primordial Dyad — Order and Chaos
 ---
 
 # The Primordial Dyad — Order and Chaos

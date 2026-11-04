@@ -1,5 +1,5 @@
 ---
-title: "Anointing"
+title: Anointing
 ---
 
 # Anointing

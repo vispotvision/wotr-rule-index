@@ -1,6 +1,8 @@
 ---
-title: "The Magical Categories — Unified Taxonom"
-tags: ["Magic System", "Reference Table"]
+title: The Magical Categories — Unified Taxonom
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Magical Categories: Unified Taxonomy

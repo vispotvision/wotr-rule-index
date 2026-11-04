@@ -1,5 +1,5 @@
 ---
-title: "The Powers of the Imperial Age"
+title: The Powers of the Imperial Age
 ---
 
 # The Powers of the Imperial Age

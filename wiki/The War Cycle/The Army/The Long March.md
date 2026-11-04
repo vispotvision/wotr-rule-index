@@ -1,5 +1,5 @@
 ---
-title: "The Long March"
+title: The Long March
 ---
 
 # The Long March

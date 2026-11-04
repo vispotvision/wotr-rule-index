@@ -1,5 +1,5 @@
 ---
-title: "Naming and Usage"
+title: Naming and Usage
 ---
 
 ![[Assets/Paintings/tongues.webp]]

@@ -1,6 +1,8 @@
 ---
-title: "Old Vaross — The Goblinoid Tongue"
-tags: ["Peoples", "Reference Table"]
+title: Old Vaross — The Goblinoid Tongue
+tags:
+  - Peoples
+  - Reference Table
 ---
 
 # Old Vaross — The Goblinoid Tongue

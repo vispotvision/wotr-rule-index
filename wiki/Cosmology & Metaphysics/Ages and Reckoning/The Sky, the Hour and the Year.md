@@ -1,6 +1,8 @@
 ---
-title: "The Sky, the Hour and the Year"
-tags: ["Cosmology", "Reference Table"]
+title: The Sky, the Hour and the Year
+tags:
+  - Cosmology
+  - Reference Table
 ---
 
 # The Sky, the Hour and the Year

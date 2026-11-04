@@ -1,5 +1,5 @@
 ---
-title: "Hataraki — The Works of the Plane of Fate"
+title: Hataraki — The Works of the Plane of Fate
 ---
 
 ![[Assets/Paintings/hero.webp]]

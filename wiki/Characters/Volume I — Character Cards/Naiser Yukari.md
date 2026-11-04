@@ -1,5 +1,5 @@
 ---
-title: "Naiser Yukari"
+title: Naiser Yukari
 private: true
 ---
 # Naiser Yukari

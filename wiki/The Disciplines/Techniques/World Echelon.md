@@ -1,5 +1,5 @@
 ---
-title: "World Echelon"
+title: World Echelon
 ---
 
 # World Echelon

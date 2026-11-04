@@ -1,5 +1,5 @@
 ---
-title: "Sancta Lux"
+title: Sancta Lux
 ---
 
 # Sancta Lux

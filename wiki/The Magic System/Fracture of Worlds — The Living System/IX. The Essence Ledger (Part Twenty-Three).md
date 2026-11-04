@@ -1,5 +1,5 @@
 ---
-title: "IX. The Essence Ledger (Part Twenty-Three)"
+title: IX. The Essence Ledger (Part Twenty-Three)
 ---
 
 # IX. The Essence Ledger (Part Twenty-Three)

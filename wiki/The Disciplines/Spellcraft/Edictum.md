@@ -1,5 +1,5 @@
 ---
-title: "Edictum"
+title: Edictum
 ---
 
 # Edictum

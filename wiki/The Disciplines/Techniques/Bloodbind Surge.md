@@ -1,5 +1,5 @@
 ---
-title: "Bloodbind Surge"
+title: Bloodbind Surge
 ---
 
 # Bloodbind Surge

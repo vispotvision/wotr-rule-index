@@ -1,5 +1,5 @@
 ---
-title: "Pair I — Form Against Time"
+title: Pair I — Form Against Time
 ---
 
 # Pair I — Form Against Time

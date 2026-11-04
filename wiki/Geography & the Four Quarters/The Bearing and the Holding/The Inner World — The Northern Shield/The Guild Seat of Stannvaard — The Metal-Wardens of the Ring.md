@@ -1,5 +1,5 @@
 ---
-title: "The Guild Seat of Stannvaard — The Metal-Wardens of the Ring"
+title: The Guild Seat of Stannvaard — The Metal-Wardens of the Ring
 ---
 
 # The Guild Seat of Stannvaard — The Metal-Wardens of the Ring

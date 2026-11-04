@@ -1,5 +1,5 @@
 ---
-title: "Swears, Oaths and Insults"
+title: Swears, Oaths and Insults
 ---
 
 # Swears, Oaths and Insults

@@ -1,6 +1,9 @@
 ---
-title: "The Faiths of the Four Quarters"
-tags: ["Cosmology", "Peoples", "Factions"]
+title: The Faiths of the Four Quarters
+tags:
+  - Cosmology
+  - Peoples
+  - Factions
 ---
 
 # The Faiths of the Four Quarters

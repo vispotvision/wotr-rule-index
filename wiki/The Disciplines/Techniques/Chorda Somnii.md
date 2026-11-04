@@ -1,5 +1,5 @@
 ---
-title: "Chorda Somnii"
+title: Chorda Somnii
 ---
 
 # Chorda Somnii

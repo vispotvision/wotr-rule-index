@@ -1,5 +1,5 @@
 ---
-title: "The Wounded and the Dead"
+title: The Wounded and the Dead
 ---
 
 ![[Assets/Paintings/wounded-dead.webp]]

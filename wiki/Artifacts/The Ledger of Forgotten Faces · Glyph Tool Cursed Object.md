@@ -1,5 +1,5 @@
 ---
-title: "The Ledger of Forgotten Faces · Glyph Tool / Cursed Object"
+title: The Ledger of Forgotten Faces · Glyph Tool / Cursed Object
 ---
 
 # The Ledger of Forgotten Faces · Glyph Tool / Cursed Object

@@ -1,6 +1,8 @@
 ---
 title: "The Imperial Age: Aether Infrastructure"
-tags: ["Magic System", "Trade & Economy"]
+tags:
+  - Magic System
+  - Trade & Economy
 ---
 
 # The Imperial Age: Aether Infrastructure

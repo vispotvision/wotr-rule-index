@@ -1,6 +1,8 @@
 ---
-title: "Accent — Placement, Prestige and the Shibboleth"
-tags: ["Peoples", "Reference Table"]
+title: Accent — Placement, Prestige and the Shibboleth
+tags:
+  - Peoples
+  - Reference Table
 ---
 
 # Accent — Placement, Prestige and the Shibboleth

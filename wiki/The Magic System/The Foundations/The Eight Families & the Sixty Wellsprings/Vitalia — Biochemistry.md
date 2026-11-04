@@ -1,5 +1,5 @@
 ---
-title: "Vitalia — Biochemistry"
+title: Vitalia — Biochemistry
 ---
 
 # Vitalia — Biochemistry

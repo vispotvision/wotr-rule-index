@@ -1,5 +1,5 @@
 ---
-title: "Lumen Dissecans"
+title: Lumen Dissecans
 ---
 
 # Lumen Dissecans

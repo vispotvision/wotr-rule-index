@@ -1,5 +1,5 @@
 ---
-title: "Kogane Kei · The Soul-Reed Blade"
+title: Kogane Kei · The Soul-Reed Blade
 ---
 
 # Kogane Kei · The Soul-Reed Blade

@@ -1,6 +1,9 @@
 ---
-title: "The Fisc — Paying for a Siege"
-tags: ["War", "Trade & Economy", "Reference Table"]
+title: The Fisc — Paying for a Siege
+tags:
+  - War
+  - Trade & Economy
+  - Reference Table
 ---
 
 # The Fisc — Paying for a Siege

@@ -1,5 +1,5 @@
 ---
-title: "The Night Watch"
+title: The Night Watch
 ---
 
 # The Night Watch

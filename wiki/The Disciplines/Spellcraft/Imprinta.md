@@ -1,5 +1,5 @@
 ---
-title: "Imprinta"
+title: Imprinta
 ---
 
 # Imprinta

@@ -1,5 +1,5 @@
 ---
-title: "The Moto Narration Register"
+title: The Moto Narration Register
 ---
 
 # The Moto Narration Register

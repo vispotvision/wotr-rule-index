@@ -1,6 +1,8 @@
 ---
-title: "The Standing and the Title — The Three Names"
-tags: ["Magic System", "Factions"]
+title: The Standing and the Title — The Three Names
+tags:
+  - Magic System
+  - Factions
 ---
 
 # The Standing and the Title — The Three Names

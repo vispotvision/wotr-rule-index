@@ -1,5 +1,5 @@
 ---
-title: "Pack Twenty — The Clearance"
+title: Pack Twenty — The Clearance
 ---
 
 # Pack Twenty — The Clearance

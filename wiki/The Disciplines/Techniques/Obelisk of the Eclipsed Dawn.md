@@ -1,5 +1,5 @@
 ---
-title: "Obelisk of the Eclipsed Dawn"
+title: Obelisk of the Eclipsed Dawn
 ---
 
 # Obelisk of the Eclipsed Dawn

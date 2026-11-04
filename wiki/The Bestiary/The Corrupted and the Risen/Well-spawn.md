@@ -1,5 +1,5 @@
 ---
-title: "Well-spawn"
+title: Well-spawn
 ---
 
 *Creatures bred by a Well, masked in their Well's color, ranked by how deep it bred them*

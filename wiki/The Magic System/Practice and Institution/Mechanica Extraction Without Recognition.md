@@ -1,6 +1,8 @@
 ---
 title: "Mechanica: Extraction Without Recognition"
-tags: ["Magic System", "Factions"]
+tags:
+  - Magic System
+  - Factions
 ---
 
 # Mechanica: Extraction Without Recognition

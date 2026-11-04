@@ -1,5 +1,5 @@
 ---
-title: "The Undying and the Constructs"
+title: The Undying and the Constructs
 ---
 
 # The Undying and the Constructs

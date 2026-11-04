@@ -1,6 +1,9 @@
 ---
-title: "The Magic System"
-tags: ["Magic System", "Reference Table", "Open Rulings"]
+title: The Magic System
+tags:
+  - Magic System
+  - Reference Table
+  - Open Rulings
 ---
 
 ![[Assets/Paintings/magic.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "The Goblinoid Peoples"
+title: The Goblinoid Peoples
 ---
 
 # The Goblinoid Peoples

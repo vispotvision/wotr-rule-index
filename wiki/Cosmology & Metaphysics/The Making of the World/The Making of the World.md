@@ -1,5 +1,5 @@
 ---
-title: "The Making of the World"
+title: The Making of the World
 ---
 
 ![[Assets/Paintings/making-world.webp]]

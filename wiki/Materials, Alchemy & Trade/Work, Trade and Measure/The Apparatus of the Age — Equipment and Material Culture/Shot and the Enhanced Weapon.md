@@ -1,5 +1,5 @@
 ---
-title: "Shot and the Enhanced Weapon"
+title: Shot and the Enhanced Weapon
 ---
 
 # Shot and the Enhanced Weapon

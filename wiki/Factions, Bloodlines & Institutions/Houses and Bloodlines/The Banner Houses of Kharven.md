@@ -1,5 +1,5 @@
 ---
-title: "The Banner Houses of Kharven"
+title: The Banner Houses of Kharven
 ---
 
 # The Banner Houses of Kharven

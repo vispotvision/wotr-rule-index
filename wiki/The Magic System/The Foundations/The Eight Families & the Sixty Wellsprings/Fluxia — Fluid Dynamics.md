@@ -1,5 +1,5 @@
 ---
-title: "Fluxia — Fluid Dynamics"
+title: Fluxia — Fluid Dynamics
 ---
 
 # Fluxia — Fluid Dynamics

@@ -1,6 +1,9 @@
 ---
-title: "Weight, Measure and the Standard"
-tags: ["Trade & Economy", "Materials", "Reference Table"]
+title: Weight, Measure and the Standard
+tags:
+  - Trade & Economy
+  - Materials
+  - Reference Table
 ---
 
 # Weight, Measure and the Standard

@@ -1,6 +1,9 @@
 ---
-title: "Races & Peoples"
-tags: ["Peoples", "Bloodlines", "Geography"]
+title: Races & Peoples
+tags:
+  - Peoples
+  - Bloodlines
+  - Geography
 ---
 
 ![[Assets/Paintings/peoples.webp]]

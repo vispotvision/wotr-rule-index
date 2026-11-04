@@ -1,6 +1,8 @@
 ---
-title: "The Material Index · T0–T4"
-tags: ["Materials", "Reference Table"]
+title: The Material Index · T0–T4
+tags:
+  - Materials
+  - Reference Table
 ---
 
 # The Material Index · T0–T4

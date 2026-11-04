@@ -1,5 +1,5 @@
 ---
-title: "The Crossing"
+title: The Crossing
 ---
 
 # The Crossing

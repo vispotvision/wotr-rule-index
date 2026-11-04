@@ -1,5 +1,5 @@
 ---
-title: "Precept"
+title: Precept
 ---
 
 # Precept

@@ -1,5 +1,5 @@
 ---
-title: "The Void Vanguard"
+title: The Void Vanguard
 ---
 
 # The Void Vanguard

@@ -1,5 +1,5 @@
 ---
-title: "The Zettari–Mahou Accord"
+title: The Zettari–Mahou Accord
 ---
 
 # The Zettari–Mahou Accord

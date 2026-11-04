@@ -1,6 +1,9 @@
 ---
-title: "The Articles of the Accord, and the Kinds of Polity"
-tags: ["Factions", "Trade & Economy", "Reference Table"]
+title: The Articles of the Accord, and the Kinds of Polity
+tags:
+  - Factions
+  - Trade & Economy
+  - Reference Table
 ---
 
 # The Articles of the Accord, and the Kinds of Polity

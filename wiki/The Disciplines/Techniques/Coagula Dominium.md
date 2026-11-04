@@ -1,5 +1,5 @@
 ---
-title: "Coagula Dominium"
+title: Coagula Dominium
 ---
 
 # Coagula Dominium

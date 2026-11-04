@@ -1,5 +1,5 @@
 ---
-title: "The Veil"
+title: The Veil
 ---
 
 # The Veil

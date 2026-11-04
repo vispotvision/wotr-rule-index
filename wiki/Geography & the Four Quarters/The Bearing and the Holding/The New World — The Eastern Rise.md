@@ -1,5 +1,5 @@
 ---
-title: "The New World — The Eastern Rise"
+title: The New World — The Eastern Rise
 ---
 
 # The New World — The Eastern Rise

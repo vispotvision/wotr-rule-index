@@ -1,6 +1,8 @@
 ---
 title: "Counterplay: What Beats a Practitioner"
-tags: ["Magic System", "War"]
+tags:
+  - Magic System
+  - War
 ---
 
 # Counterplay: What Beats a Practitioner

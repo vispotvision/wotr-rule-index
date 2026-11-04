@@ -1,6 +1,8 @@
 ---
-title: "The Heresiology of Alchemy"
-tags: ["Alchemy", "Lore & History"]
+title: The Heresiology of Alchemy
+tags:
+  - Alchemy
+  - Lore & History
 ---
 
 # The Heresiology of Alchemy

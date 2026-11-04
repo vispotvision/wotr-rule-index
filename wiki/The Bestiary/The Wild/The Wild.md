@@ -1,5 +1,5 @@
 ---
-title: "The Wild"
+title: The Wild
 ---
 
 ![[Assets/Paintings/natural-beasts.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "Invert Eidolon"
+title: Invert Eidolon
 ---
 
 # Invert Eidolon

@@ -1,5 +1,5 @@
 ---
-title: "Haelvorn · Housecat"
+title: Haelvorn · Housecat
 ---
 
 # Haelvorn · Housecat

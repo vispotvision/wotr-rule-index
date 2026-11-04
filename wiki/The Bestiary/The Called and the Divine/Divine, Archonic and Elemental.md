@@ -1,5 +1,5 @@
 ---
-title: "Divine, Archonic and Elemental"
+title: Divine, Archonic and Elemental
 ---
 
 # Divine, Archonic and Elemental

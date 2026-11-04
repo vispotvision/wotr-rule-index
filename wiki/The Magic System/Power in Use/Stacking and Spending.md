@@ -1,5 +1,5 @@
 ---
-title: "Stacking and Spending"
+title: Stacking and Spending
 ---
 
 *How power-ups add together, and how a practitioner's reserve shows as it runs down. For the whole system in brief, see How Magic Works.*

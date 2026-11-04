@@ -1,5 +1,5 @@
 ---
-title: "Mireglass Suffusion"
+title: Mireglass Suffusion
 ---
 
 # Mireglass Suffusion

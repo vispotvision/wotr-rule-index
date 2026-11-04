@@ -1,5 +1,5 @@
 ---
-title: "Yasoshima — The Eighty Isles"
+title: Yasoshima — The Eighty Isles
 ---
 
 # Yasoshima — The Eighty Isles

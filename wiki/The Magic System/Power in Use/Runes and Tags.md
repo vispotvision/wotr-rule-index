@@ -1,5 +1,5 @@
 ---
-title: "Runes and Tags"
+title: Runes and Tags
 ---
 
 *Runecraft in the hand and on the field: runed gear, prepared tags, bonded weapons, and runes cut into living bodies. For the whole system in brief, see How Magic Works.*

@@ -1,5 +1,5 @@
 ---
-title: "Speculum Recordationis"
+title: Speculum Recordationis
 ---
 
 # Speculum Recordationis

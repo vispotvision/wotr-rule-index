@@ -1,6 +1,8 @@
 ---
-title: "The Tongues of the Realms"
-tags: ["Peoples", "Reference Table"]
+title: The Tongues of the Realms
+tags:
+  - Peoples
+  - Reference Table
 ---
 
 ![[Assets/Paintings/tongues.webp]]

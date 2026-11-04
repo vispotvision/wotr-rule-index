@@ -1,6 +1,8 @@
 ---
-title: "The Lexicon of Magic — Master Terminology"
-tags: ["Magic System", "Reference Table"]
+title: The Lexicon of Magic — Master Terminology
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Lexicon of Magic — Master Terminology

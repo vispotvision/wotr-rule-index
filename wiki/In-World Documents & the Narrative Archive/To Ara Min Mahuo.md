@@ -1,5 +1,5 @@
 ---
-title: "To Ara Min Mahuo"
+title: To Ara Min Mahuo
 ---
 
 # To Ara Min Mahuo

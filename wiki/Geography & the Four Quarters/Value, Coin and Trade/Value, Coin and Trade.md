@@ -1,6 +1,8 @@
 ---
-title: "Value, Coin and Trade"
-tags: ["Trade & Economy", "Materials"]
+title: Value, Coin and Trade
+tags:
+  - Trade & Economy
+  - Materials
 ---
 
 ![[Assets/Paintings/coin-trade.webp]]

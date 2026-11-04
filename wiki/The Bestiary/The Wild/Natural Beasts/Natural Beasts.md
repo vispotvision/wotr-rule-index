@@ -1,5 +1,5 @@
 ---
-title: "Natural Beasts"
+title: Natural Beasts
 ---
 
 ![[Assets/Paintings/natural-beasts.webp]]

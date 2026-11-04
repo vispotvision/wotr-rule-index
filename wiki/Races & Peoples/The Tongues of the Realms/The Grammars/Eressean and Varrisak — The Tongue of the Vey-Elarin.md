@@ -1,6 +1,8 @@
 ---
-title: "Eressean and Varrisak — The Tongue of the Vey-Elarin"
-tags: ["Peoples", "Reference Table"]
+title: Eressean and Varrisak — The Tongue of the Vey-Elarin
+tags:
+  - Peoples
+  - Reference Table
 ---
 
 # Eressean and Varrisak — The Tongue of the Vey-Elarin

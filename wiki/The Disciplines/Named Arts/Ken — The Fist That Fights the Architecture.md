@@ -1,5 +1,5 @@
 ---
-title: "Ken — The Fist That Fights the Architecture"
+title: Ken — The Fist That Fights the Architecture
 ---
 
 # Ken — The Fist That Fights the Architecture

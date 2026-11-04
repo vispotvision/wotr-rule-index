@@ -1,5 +1,5 @@
 ---
-title: "The Celestial Host — Naming"
+title: The Celestial Host — Naming
 ---
 
 # The Celestial Host — Naming

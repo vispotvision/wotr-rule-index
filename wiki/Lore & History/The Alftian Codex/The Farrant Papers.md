@@ -1,5 +1,5 @@
 ---
-title: "The Farrant Papers"
+title: The Farrant Papers
 ---
 
 # The Farrant Papers

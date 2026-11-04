@@ -1,5 +1,5 @@
 ---
-title: "Kami no Kobushi"
+title: Kami no Kobushi
 ---
 
 # Kami no Kobushi

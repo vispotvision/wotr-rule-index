@@ -1,5 +1,5 @@
 ---
-title: "Power in Use"
+title: Power in Use
 ---
 
 ![[Assets/Paintings/power-in-use.webp]]

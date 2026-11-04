@@ -1,5 +1,5 @@
 ---
-title: "Start Here"
+title: Start Here
 ---
 
 *The newcomer's road into the wiki. Read these in order and you will know enough to follow any scene. Everything else can wait until a story sends you looking.*

@@ -1,6 +1,7 @@
 ---
-title: "The Celestial Host"
-tags: ["Cosmology"]
+title: The Celestial Host
+tags:
+  - Cosmology
 ---
 
 # The Celestial Host

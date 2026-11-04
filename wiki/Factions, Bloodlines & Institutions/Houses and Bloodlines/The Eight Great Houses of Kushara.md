@@ -1,5 +1,5 @@
 ---
-title: "The Eight Great Houses of Kushara"
+title: The Eight Great Houses of Kushara
 ---
 
 # The Eight Great Houses of Kushara

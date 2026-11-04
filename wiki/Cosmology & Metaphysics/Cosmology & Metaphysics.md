@@ -1,6 +1,9 @@
 ---
-title: "Cosmology & Metaphysics"
-tags: ["Cosmology", "Lore & History", "Open Rulings"]
+title: Cosmology & Metaphysics
+tags:
+  - Cosmology
+  - Lore & History
+  - Open Rulings
 ---
 
 ![[Assets/Paintings/cosmology.webp]]

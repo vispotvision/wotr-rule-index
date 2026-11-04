@@ -1,5 +1,5 @@
 ---
-title: "Volume the Third"
+title: Volume the Third
 ---
 
 # Volume the Third

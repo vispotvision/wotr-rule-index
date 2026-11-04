@@ -1,5 +1,5 @@
 ---
-title: "Vectoria — Mechanics"
+title: Vectoria — Mechanics
 ---
 
 # Vectoria — Mechanics

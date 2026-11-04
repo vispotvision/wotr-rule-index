@@ -1,5 +1,5 @@
 ---
-title: "Somnii Scriptorium"
+title: Somnii Scriptorium
 ---
 
 # Somnii Scriptorium

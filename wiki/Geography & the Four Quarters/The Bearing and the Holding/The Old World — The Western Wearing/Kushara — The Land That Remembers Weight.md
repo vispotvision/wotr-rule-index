@@ -1,5 +1,5 @@
 ---
-title: "Kushara — The Land That Remembers Weight"
+title: Kushara — The Land That Remembers Weight
 ---
 
 # Kushara — The Land That Remembers Weight

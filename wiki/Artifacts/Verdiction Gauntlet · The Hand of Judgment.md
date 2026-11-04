@@ -1,5 +1,5 @@
 ---
-title: "Verdiction Gauntlet · The Hand of Judgment"
+title: Verdiction Gauntlet · The Hand of Judgment
 ---
 
 # Verdiction Gauntlet · The Hand of Judgment

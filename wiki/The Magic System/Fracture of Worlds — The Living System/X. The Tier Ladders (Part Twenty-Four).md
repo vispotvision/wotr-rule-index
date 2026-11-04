@@ -1,5 +1,5 @@
 ---
-title: "X. The Tier Ladders (Part Twenty-Four)"
+title: X. The Tier Ladders (Part Twenty-Four)
 ---
 
 # X. The Tier Ladders (Part Twenty-Four)

@@ -1,5 +1,5 @@
 ---
-title: "Obrenkael · The Mule"
+title: Obrenkael · The Mule
 ---
 
 # Obrenkael · The Mule

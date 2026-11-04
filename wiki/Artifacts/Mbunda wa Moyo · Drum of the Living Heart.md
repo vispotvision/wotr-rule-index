@@ -1,5 +1,5 @@
 ---
-title: "Mbunda wa Moyo · Drum of the Living Heart"
+title: Mbunda wa Moyo · Drum of the Living Heart
 ---
 
 # Mbunda wa Moyo · Drum of the Living Heart

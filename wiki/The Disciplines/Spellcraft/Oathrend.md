@@ -1,5 +1,5 @@
 ---
-title: "Oathrend"
+title: Oathrend
 ---
 
 # Oathrend

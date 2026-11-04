@@ -1,5 +1,5 @@
 ---
-title: "The Tiered Path"
+title: The Tiered Path
 ---
 
 # The Tiered Path

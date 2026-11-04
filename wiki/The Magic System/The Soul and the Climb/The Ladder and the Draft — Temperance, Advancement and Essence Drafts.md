@@ -1,6 +1,8 @@
 ---
-title: "The Ladder and the Draft — Temperance, Advancement and Essence Drafts"
-tags: ["Magic System", "Alchemy"]
+title: The Ladder and the Draft — Temperance, Advancement and Essence Drafts
+tags:
+  - Magic System
+  - Alchemy
 ---
 
 # The Ladder and the Draft — Temperance, Advancement and Essence Drafts

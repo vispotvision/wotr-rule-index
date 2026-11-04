@@ -1,5 +1,5 @@
 ---
-title: "Liminal Palace of False Dawn"
+title: Liminal Palace of False Dawn
 ---
 
 # Liminal Palace of False Dawn

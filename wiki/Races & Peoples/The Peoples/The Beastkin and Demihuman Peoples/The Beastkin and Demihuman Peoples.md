@@ -1,5 +1,5 @@
 ---
-title: "The Beastkin and Demihuman Peoples"
+title: The Beastkin and Demihuman Peoples
 ---
 
 ![[Assets/Paintings/beastkin.webp]]

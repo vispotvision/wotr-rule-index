@@ -1,5 +1,5 @@
 ---
-title: "The Iron Mandate of Undaar-Keth — The Closed Fist"
+title: The Iron Mandate of Undaar-Keth — The Closed Fist
 ---
 
 # The Iron Mandate of Undaar-Keth — The Closed Fist

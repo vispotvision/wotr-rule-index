@@ -1,5 +1,5 @@
 ---
-title: "Asami and Gisei — The Two States of the Moto"
+title: Asami and Gisei — The Two States of the Moto
 ---
 
 # Asami and Gisei — The Two States of the Moto

@@ -1,5 +1,5 @@
 ---
-title: "One Exchange, Annotated"
+title: One Exchange, Annotated
 ---
 
 *A single exchange from a school ranking bout, with the system shown working underneath it, start to finish. For the measures used here, see The Measures at a Glance.*

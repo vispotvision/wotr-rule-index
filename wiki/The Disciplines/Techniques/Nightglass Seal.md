@@ -1,5 +1,5 @@
 ---
-title: "Nightglass Seal"
+title: Nightglass Seal
 ---
 
 # Nightglass Seal

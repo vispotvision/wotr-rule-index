@@ -1,5 +1,5 @@
 ---
-title: "Celestial Harmonic Shear"
+title: Celestial Harmonic Shear
 ---
 
 # Celestial Harmonic Shear

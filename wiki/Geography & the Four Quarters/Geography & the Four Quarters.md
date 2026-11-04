@@ -1,6 +1,9 @@
 ---
-title: "Geography & the Four Quarters"
-tags: ["Geography", "Trade & Economy", "Materials"]
+title: Geography & the Four Quarters
+tags:
+  - Geography
+  - Trade & Economy
+  - Materials
 ---
 
 ![[Assets/Paintings/geography.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "Vainglory"
+title: Vainglory
 ---
 
 # Vainglory

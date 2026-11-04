@@ -1,6 +1,8 @@
 ---
-title: "The Fourteen Titans"
-tags: ["Cosmology", "Reference Table"]
+title: The Fourteen Titans
+tags:
+  - Cosmology
+  - Reference Table
 ---
 
 ![[Assets/Paintings/titans.webp]]

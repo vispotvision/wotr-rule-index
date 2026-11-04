@@ -1,6 +1,10 @@
 ---
-title: "Cozbi Mahuo"
-tags: ["mahuo", "southern-warlords", "keepers-of-death", "summoner"]
+title: Cozbi Mahuo
+tags:
+  - mahuo
+  - southern-warlords
+  - keepers-of-death
+  - summoner
 private: true
 ---
 # Cozbi Mahuo

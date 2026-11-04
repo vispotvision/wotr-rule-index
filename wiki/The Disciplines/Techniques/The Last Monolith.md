@@ -1,5 +1,5 @@
 ---
-title: "The Last Monolith"
+title: The Last Monolith
 ---
 
 # The Last Monolith

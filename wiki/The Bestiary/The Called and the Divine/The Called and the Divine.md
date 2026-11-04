@@ -1,5 +1,5 @@
 ---
-title: "The Called and the Divine"
+title: The Called and the Divine
 ---
 
 ![[Assets/Paintings/summoned.webp]]

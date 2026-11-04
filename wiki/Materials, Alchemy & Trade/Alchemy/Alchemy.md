@@ -1,5 +1,5 @@
 ---
-title: "Alchemy"
+title: Alchemy
 ---
 
 ![[Assets/Paintings/alchemy.webp]]

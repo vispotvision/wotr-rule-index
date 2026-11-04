@@ -1,5 +1,5 @@
 ---
-title: "The Concord Citadel"
+title: The Concord Citadel
 ---
 
 # The Concord Citadel

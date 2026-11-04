@@ -1,5 +1,5 @@
 ---
-title: "Spellcraft"
+title: Spellcraft
 ---
 
 ![[Assets/Paintings/hero.webp]]

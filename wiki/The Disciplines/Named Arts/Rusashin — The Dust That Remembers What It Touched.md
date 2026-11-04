@@ -1,5 +1,5 @@
 ---
-title: "Rusashin — The Dust That Remembers What It Touched"
+title: Rusashin — The Dust That Remembers What It Touched
 ---
 
 # Rusashin — The Dust That Remembers What It Touched

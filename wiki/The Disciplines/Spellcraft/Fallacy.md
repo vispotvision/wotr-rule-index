@@ -1,5 +1,5 @@
 ---
-title: "Fallacy"
+title: Fallacy
 ---
 
 # Fallacy

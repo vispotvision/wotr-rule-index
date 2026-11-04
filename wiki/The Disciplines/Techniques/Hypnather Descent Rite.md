@@ -1,5 +1,5 @@
 ---
-title: "Hypnather Descent Rite"
+title: Hypnather Descent Rite
 ---
 
 # Hypnather Descent Rite

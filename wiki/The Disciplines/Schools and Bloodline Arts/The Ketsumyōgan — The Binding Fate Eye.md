@@ -1,5 +1,5 @@
 ---
-title: "The Ketsumyōgan — The Binding Fate Eye"
+title: The Ketsumyōgan — The Binding Fate Eye
 ---
 
 # The Ketsumyōgan — The Binding Fate Eye

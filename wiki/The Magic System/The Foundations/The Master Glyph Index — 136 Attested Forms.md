@@ -1,6 +1,8 @@
 ---
-title: "The Master Glyph Index — 136 Attested Forms"
-tags: ["Magic System", "Reference Table"]
+title: The Master Glyph Index — 136 Attested Forms
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Master Glyph Index — 136 Attested Forms

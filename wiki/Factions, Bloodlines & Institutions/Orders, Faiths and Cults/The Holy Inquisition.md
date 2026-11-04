@@ -1,5 +1,5 @@
 ---
-title: "The Holy Inquisition"
+title: The Holy Inquisition
 ---
 
 # The Holy Inquisition

@@ -1,6 +1,8 @@
 ---
-title: "II. Grades, Gates and Thresholds (Parts Four–Ten)"
-tags: ["Magic System", "Reference Table"]
+title: II. Grades, Gates and Thresholds (Parts Four–Ten)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # II. Grades, Gates and Thresholds (Parts Four–Ten)

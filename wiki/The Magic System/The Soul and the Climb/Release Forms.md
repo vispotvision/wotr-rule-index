@@ -1,5 +1,5 @@
 ---
-title: "Release Forms"
+title: Release Forms
 ---
 
 *How a practitioner turns their own Trait loose, in a form the whole room can see. For the whole system in brief, see How Magic Works.*

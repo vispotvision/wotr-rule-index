@@ -1,5 +1,5 @@
 ---
-title: "The Aether Bastion"
+title: The Aether Bastion
 ---
 
 # The Aether Bastion

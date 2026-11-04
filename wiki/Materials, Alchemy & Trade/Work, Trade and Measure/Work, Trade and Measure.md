@@ -1,5 +1,5 @@
 ---
-title: "Work, Trade and Measure"
+title: Work, Trade and Measure
 ---
 
 ![[Assets/Paintings/coin-trade.webp]]

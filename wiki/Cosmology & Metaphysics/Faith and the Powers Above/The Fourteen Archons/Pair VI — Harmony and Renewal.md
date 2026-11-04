@@ -1,5 +1,5 @@
 ---
-title: "Pair VI — Harmony and Renewal"
+title: Pair VI — Harmony and Renewal
 ---
 
 # Pair VI — Harmony and Renewal

@@ -1,6 +1,8 @@
 ---
-title: "Open Rulings — The Docket"
-tags: ["Open Rulings", "Prose"]
+title: Open Rulings — The Docket
+tags:
+  - Open Rulings
+  - Prose
 ---
 
 > **Historical, retired 2026-10-17.** Every item below was ruled or closed (the Büri/Moto sweep is done; R13 and R14 were ruled 2026-09-12). The live docket is `check_docket` and `out/docket.md`; open questions are decided at the table (R79-2).

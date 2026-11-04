@@ -1,5 +1,5 @@
 ---
-title: "Spinal Forge Ascent"
+title: Spinal Forge Ascent
 ---
 
 # Spinal Forge Ascent

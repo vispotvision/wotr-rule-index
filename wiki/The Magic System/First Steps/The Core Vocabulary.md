@@ -1,6 +1,8 @@
 ---
-title: "The Core Vocabulary"
-tags: ["Magic System", "Reference Table"]
+title: The Core Vocabulary
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # The Core Vocabulary

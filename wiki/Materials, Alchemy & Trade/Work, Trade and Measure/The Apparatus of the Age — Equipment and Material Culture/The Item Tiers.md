@@ -1,5 +1,5 @@
 ---
-title: "The Item Tiers"
+title: The Item Tiers
 ---
 
 # The Item Tiers

@@ -1,6 +1,7 @@
 ---
-title: "A Reader's Codex"
-tags: ["Reference Table"]
+title: A Reader's Codex
+tags:
+  - Reference Table
 ---
 
 # A Reader's Codex

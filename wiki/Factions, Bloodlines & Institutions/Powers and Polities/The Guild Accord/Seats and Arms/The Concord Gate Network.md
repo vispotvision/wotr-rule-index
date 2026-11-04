@@ -1,5 +1,5 @@
 ---
-title: "The Concord Gate Network"
+title: The Concord Gate Network
 ---
 
 # The Concord Gate Network

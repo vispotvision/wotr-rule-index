@@ -1,5 +1,5 @@
 ---
-title: "Kami no Kobushi — The God Fist"
+title: Kami no Kobushi — The God Fist
 ---
 
 # Kami no Kobushi — The God Fist

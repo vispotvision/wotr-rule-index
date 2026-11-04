@@ -1,6 +1,7 @@
 ---
-title: "The Moto Bloodline"
-tags: ["Bloodlines"]
+title: The Moto Bloodline
+tags:
+  - Bloodlines
 ---
 
 ![[Assets/Paintings/moto.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "The Grammars"
+title: The Grammars
 ---
 
 ![[Assets/Paintings/tongues.webp]]

@@ -1,5 +1,5 @@
 ---
-title: "The Harmonic Arts"
+title: The Harmonic Arts
 ---
 
 # The Harmonic Arts

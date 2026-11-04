@@ -1,5 +1,5 @@
 ---
-title: "Dreambreaker Field · The Shattered Midnight"
+title: Dreambreaker Field · The Shattered Midnight
 ---
 
 # Dreambreaker Field · The Shattered Midnight

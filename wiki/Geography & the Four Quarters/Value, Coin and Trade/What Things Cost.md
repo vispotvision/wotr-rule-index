@@ -1,5 +1,5 @@
 ---
-title: "What Things Cost"
+title: What Things Cost
 ---
 
 # What Things Cost

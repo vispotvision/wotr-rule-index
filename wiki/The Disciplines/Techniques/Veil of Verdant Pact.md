@@ -1,5 +1,5 @@
 ---
-title: "Veil of Verdant Pact"
+title: Veil of Verdant Pact
 ---
 
 # Veil of Verdant Pact

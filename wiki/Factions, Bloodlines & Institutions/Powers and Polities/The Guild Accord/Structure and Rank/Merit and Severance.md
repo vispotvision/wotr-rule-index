@@ -1,5 +1,5 @@
 ---
-title: "Merit and Severance"
+title: Merit and Severance
 ---
 
 # Merit and Severance

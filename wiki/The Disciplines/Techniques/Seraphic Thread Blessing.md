@@ -1,5 +1,5 @@
 ---
-title: "Seraphic Thread Blessing"
+title: Seraphic Thread Blessing
 ---
 
 # Seraphic Thread Blessing

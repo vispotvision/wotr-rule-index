@@ -1,5 +1,5 @@
 ---
-title: "Mkanda wa Mizimu · Band of the Ancestral Spirits"
+title: Mkanda wa Mizimu · Band of the Ancestral Spirits
 ---
 
 # Mkanda wa Mizimu · Band of the Ancestral Spirits

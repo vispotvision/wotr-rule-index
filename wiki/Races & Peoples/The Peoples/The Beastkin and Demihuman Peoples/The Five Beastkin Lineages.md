@@ -1,5 +1,5 @@
 ---
-title: "The Five Beastkin Lineages"
+title: The Five Beastkin Lineages
 ---
 
 # The Five Beastkin Lineages

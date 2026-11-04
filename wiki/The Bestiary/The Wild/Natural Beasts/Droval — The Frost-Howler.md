@@ -1,5 +1,5 @@
 ---
-title: "Droval — The Frost-Howler"
+title: Droval — The Frost-Howler
 ---
 
 # Droval — The Frost-Howler

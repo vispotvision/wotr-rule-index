@@ -1,5 +1,5 @@
 ---
-title: "The Scene Archive"
+title: The Scene Archive
 ---
 
 # The Scene Archive

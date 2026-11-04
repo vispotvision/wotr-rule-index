@@ -1,5 +1,5 @@
 ---
-title: "Named Arts"
+title: Named Arts
 ---
 
 ![[Assets/Paintings/hero.webp]]

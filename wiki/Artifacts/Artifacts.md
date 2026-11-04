@@ -1,5 +1,5 @@
 ---
-title: "Artifacts"
+title: Artifacts
 ---
 
 ![[Assets/Paintings/hero.webp]]

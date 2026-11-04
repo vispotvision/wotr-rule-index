@@ -1,5 +1,5 @@
 ---
-title: "Materials"
+title: Materials
 ---
 
 ![[Assets/Paintings/material-ledger.webp]]

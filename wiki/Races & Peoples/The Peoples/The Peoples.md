@@ -1,5 +1,5 @@
 ---
-title: "The Peoples"
+title: The Peoples
 ---
 
 ![[Assets/Paintings/peoples.webp]]

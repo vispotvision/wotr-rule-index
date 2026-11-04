@@ -1,5 +1,5 @@
 ---
-title: "Corona Lunaris"
+title: Corona Lunaris
 ---
 
 # Corona Lunaris

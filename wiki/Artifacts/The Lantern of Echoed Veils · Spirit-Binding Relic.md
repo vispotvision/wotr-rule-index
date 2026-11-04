@@ -1,5 +1,5 @@
 ---
-title: "The Lantern of Echoed Veils · Spirit-Binding Relic"
+title: The Lantern of Echoed Veils · Spirit-Binding Relic
 ---
 
 # The Lantern of Echoed Veils · Spirit-Binding Relic

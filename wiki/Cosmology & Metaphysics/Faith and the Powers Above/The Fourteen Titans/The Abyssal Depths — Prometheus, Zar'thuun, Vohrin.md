@@ -1,5 +1,5 @@
 ---
-title: "The Abyssal Depths — Prometheus, Zar'thuun, Vohrin"
+title: The Abyssal Depths — Prometheus, Zar'thuun, Vohrin
 ---
 
 # The Abyssal Depths — Prometheus, Zar'thuun, Vohrin

@@ -1,6 +1,8 @@
 ---
-title: "Alchemetrica"
-tags: ["Alchemy", "Materials"]
+title: Alchemetrica
+tags:
+  - Alchemy
+  - Materials
 ---
 
 # Alchemetrica

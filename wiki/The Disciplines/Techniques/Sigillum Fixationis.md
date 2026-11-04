@@ -1,5 +1,5 @@
 ---
-title: "Sigillum Fixationis"
+title: Sigillum Fixationis
 ---
 
 # Sigillum Fixationis

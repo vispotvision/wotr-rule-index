@@ -1,5 +1,5 @@
 ---
-title: "The Zettari"
+title: The Zettari
 ---
 
 ![[Assets/Paintings/zettari.webp]]

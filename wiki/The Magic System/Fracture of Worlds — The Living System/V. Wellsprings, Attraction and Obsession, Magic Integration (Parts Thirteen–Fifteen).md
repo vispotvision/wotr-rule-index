@@ -1,6 +1,8 @@
 ---
-title: "V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)"
-tags: ["Magic System", "Reference Table"]
+title: V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)
+tags:
+  - Magic System
+  - Reference Table
 ---
 
 # V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)

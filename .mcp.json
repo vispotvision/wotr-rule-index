@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "wotr": {
-      "command": "rust/target/release/wotr-mcp",
+      "command": "/home/oridon/wotr-rule-index/rust/target/release/wotr-mcp",
       "args": [
         "--ops"
       ]

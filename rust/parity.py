@@ -73,6 +73,21 @@ def cases():
         txt = sp.read_text(encoding="utf-8", errors="replace")
         yield "scene_context", {"draft": txt[:3000]}
     yield "scene_context", {"draft": "Sodoku Moto walked in. Nobody spoke to Blarvex Quintillion, and Blarvex Quintillion said nothing back."}
+    import table as T
+    threads = sorted({str(r.get("thread")) for k in ("fronts", "ledger", "npcs", "threads") for r in T.load(k) if r.get("thread")})
+    for th in threads + ["", "Kharven", "nowhere-thread", "Sodoku", "Moto"]:
+        yield "fronts", {"thread": th}
+        yield "fronts", {"thread": th, "include_closed": True}
+        yield "due", {"thread": th}
+        yield "due", {"thread": th, "sessions_old": 0, "today": "715-3-14"}
+        yield "roster", {"thread": th}
+        yield "roster", {"thread": th, "public": True}
+        if th:
+            yield "scene_menu", {"thread": th}
+            yield "session_start", {"thread": th}
+    for c in [p.stem for p in (ROOT / "desktop/inventories").glob("*.md")] + ["Nowhere", "kharven"]:
+        yield "session_start", {"thread": "the-uncounted", "culture": c}
+        yield "scene_menu", {"thread": "the-uncounted", "culture": c}
     scenes = sorted(p for p in (ROOT / "scenes").glob("*.md")) + sorted((ROOT / "lore/v1/scenes").glob("*.md")) \
         + sorted((ROOT / "desktop/style-bank").rglob("*.md"))
     for p in scenes:

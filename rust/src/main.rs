@@ -17,6 +17,7 @@ mod keys;
 mod pages;
 mod rules;
 mod search;
+mod table;
 mod util;
 mod verify;
 
@@ -34,6 +35,7 @@ use util::root;
 const NATIVE: &[&str] = &[
     "load_rules", "rule", "check_docket", "list_conflicts", "natalie", "natalie_gpt", "skill",
     "character", "fow_line", "verify_scene", "wiki", "scene_recall", "scene_context",
+    "fronts", "due", "roster", "scene_menu", "session_start",
 ];
 
 #[derive(Deserialize, Clone)]
@@ -148,6 +150,11 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
         "wiki" => search::wiki(&arg_req(a, "query")?, a.get("full").and_then(Value::as_bool).unwrap_or(true), arg_int(a, "limit", 6)),
         "scene_recall" => search::scene_recall(&arg_req(a, "query")?, arg_int(a, "limit", 8), arg_bool(a, "old_lore")),
         "scene_context" => search::scene_context(&arg_req(a, "draft")?, arg_int(a, "budget", 24000)),
+        "fronts" => table::fronts(&arg_str(a, "thread", ""), arg_bool(a, "include_closed"))?,
+        "due" => table::due(arg_int(a, "sessions_old", 2), &arg_str(a, "thread", ""), &arg_str(a, "today", ""))?,
+        "roster" => table::roster(&arg_str(a, "thread", ""), arg_bool(a, "public"))?,
+        "scene_menu" => table::scene_menu(&arg_req(a, "thread")?, &arg_str(a, "culture", "Kharven"))?,
+        "session_start" => table::session_start(&arg_req(a, "thread")?, &arg_str(a, "culture", "Kharven")),
         "verify_scene" => {
             let (culture, school) = (arg_str(a, "culture", ""), arg_str(a, "school", ""));
             let o = verify::Opts {

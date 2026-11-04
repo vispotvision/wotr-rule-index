@@ -349,3 +349,13 @@ agent-browser (installed at Isaac's request, on the system Chromium) for pages
 Agent Reach cannot read, the Superpower Wiki through its MediaWiki API; a bot
 check is reported, never passed.
 
+### 2026-11-04 — Table reads in Rust; the writers stay Python (Claude Code's call; Isaac may overturn)
+
+Phase 4: `fronts`, `due`, `roster`, `scene_menu` and `session_start` run natively
+in `rust/`, reading `table/*.yaml`. The full parity suite is 1,737 cases with no
+mismatch. Every tool that writes (the Ledger, Fronts, roster and session tools,
+archive_scene, wiki_write, log_ruling, propose_rule, the character writes) stays
+in Python behind the Rust server: a Rust YAML emitter would reformat the data
+files, each writer is bound by its git push, and `log_ruling` is the one path into
+`RULINGS.md`. Audio and TTS stay in Python (their models are Python-only).
+

@@ -27,7 +27,7 @@ fn count(hay: &str, needle: &str) -> usize {
 }
 
 /// _rank: the keyword ranker. (score, path, lowercased text), best first, ties in walk order.
-fn rank(root_dir: &Path, query: &str, limit: usize) -> Vec<(i64, PathBuf, String)> {
+pub fn rank(root_dir: &Path, query: &str, limit: usize) -> Vec<(i64, PathBuf, String)> {
     let ts = terms(query);
     if ts.is_empty() {
         return vec![];

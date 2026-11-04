@@ -1956,30 +1956,87 @@ def narration_status(job: str = "") -> str:
     return "\n".join(out)
 
 
+def _reach(*args: str, timeout: int = 90) -> dict:
+    """One Agent Reach call (the agent-reach CLI, read-only web access on this machine) as its JSON."""
+    reach = shutil.which("agent-reach") or str(Path.home() / ".local/bin/agent-reach")  # the units' PATH may lack ~/.local/bin
+    try:
+        code, out = _run([reach, *args], timeout=timeout)
+        return json.loads(out[out.find("{"):]) if "{" in out else {"ok": False, "error": {"code": "NO_OUTPUT", "message": out[-300:]}}
+    except FileNotFoundError:
+        return {"ok": False, "error": {"code": "NEED_SETUP", "message": "agent-reach is not installed"}}
+    except subprocess.TimeoutExpired:
+        return {"ok": False, "error": {"code": "TIMEOUT", "message": f"no answer in {timeout} s"}}
+    except ValueError as e:
+        return {"ok": False, "error": {"code": "BAD_OUTPUT", "message": str(e)}}
+
+
+def _wikitext_plain(t: str) -> str:
+    t = re.sub(r"(?s)<ref[^>]*>.*?</ref>|<ref[^>]*/>|<!--.*?-->", "", t)
+    for _ in range(3):  # nested templates
+        t = re.sub(r"\{\{[^{}]*\}\}", "", t)
+    t = re.sub(r"\[\[(?:File|Image|Category):[^\]]*\]\]", "", t)
+    t = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", t)
+    t = re.sub(r"'{2,}", "", t)
+    return re.sub(r"\n{3,}", "\n\n", t).strip()
+
+
+def _superpower(query: str) -> str:
+    """The Superpower Wiki page best matching `query`, through its MediaWiki API: the site's pages sit
+    behind a bot check that Agent Reach cannot pass, and the API answers plain requests."""
+    import urllib.parse
+    import urllib.request
+    api = "https://powerlisting.fandom.com/api.php?"
+    def get(params: dict) -> dict:
+        req = urllib.request.Request(api + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2}),
+                                     headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) WOTR-research"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read().decode("utf-8"))
+    try:
+        hits = get({"action": "query", "list": "search", "srsearch": query, "srlimit": 5})["query"]["search"]
+        # the page named exactly as asked wins (its redirects followed); search order only breaks ties
+        page = get({"action": "parse", "page": query, "prop": "wikitext", "redirects": 1}).get("parse")
+        if not page and not hits:
+            return f"## Superpower Wiki: nothing matches '{query}'"
+        page = page or get({"action": "parse", "page": hits[0]["title"], "prop": "wikitext", "redirects": 1})["parse"]
+        others = ", ".join(h["title"] for h in hits if h["title"] != page["title"])
+        url = "https://powerlisting.fandom.com/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_"))
+        text = _wikitext_plain(page["wikitext"])
+        return (f"## Superpower Wiki: {page['title']} ({url})\n" + (f"also matched: {others}\n" if others else "")
+                + "\n" + text[:9000] + ("\n...[truncated]" if len(text) > 9000 else ""))
+    except Exception as e:  # noqa: BLE001 - a failed lookup is reported, never raised
+        return f"## Superpower Wiki: lookup failed ({type(e).__name__}: {e})"
+
+
 @server.tool()
-def research(question: str, model: str = "gemini-3.8-flash-high", minutes: int = 10) -> str:
-    """Outside research through Gemini with Google Search (the Antigravity CLI, `agy -p`, on Isaac's
-    Google login). For real-world facts: physics, anatomy, history, arms and armour, sources. The answer
-    is outside research, never a rule source: it does not go in a verbatim field. model: `agy models`."""
-    import shutil
-    import tempfile
-    agy = shutil.which("agy") or str(Path.home() / ".local/bin/agy")  # the desktop's PATH may lack ~/.local/bin
-    prompt = ("Research this with web search and reading web pages only: never run shell commands or touch files. Answer plainly, cite a source URL for every factual claim, "
-              "and say where sources disagree or you are unsure.\n\n" + question)
-    # Its own empty folder: agy is a full agent with file tools, so it never sees the repo.
-    with tempfile.TemporaryDirectory(prefix="wotr-research-") as tmp:
-        try:
-            code, out = _run([agy, "-p", prompt, "--model", model, "--print-timeout", f"{minutes * 60}s"],
-                             timeout=minutes * 60 + 30, cwd=Path(tmp))
-        except FileNotFoundError:
-            return "agy (the Antigravity CLI) is not on PATH."
-        except subprocess.TimeoutExpired:
-            return f"No answer within {minutes} min; ask again with more minutes or a narrower question."
-    if "print timeout after" in out:  # agy exits 0 on its own timeout too
-        return f"No answer within {minutes} min ({model} was still searching); ask again with more minutes or a narrower question."
-    if code or not out or out.startswith("jetski: no output produced"):  # a denied tool still exits 0
-        return f"agy failed (exit {code}): {out[-1500:]}"
-    return f"[Gemini research, {model}; outside source, not canon]\n\n{out}"
+def research(question: str, read: int = 2, urls: list[str] | None = None, power: str = "") -> str:
+    """Outside research on the open web through Agent Reach (search and page reading on Isaac's machine).
+    For real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,
+    trades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page
+    in `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own
+    text with their URLs for you to read and cite: outside research, never canon and never a rule source;
+    it does not go in a verbatim field. A failed source is named, not retried."""
+    out = ["[Outside research via Agent Reach; not canon, never a rule source]"]
+    found = _reach("web", "search", question, "--limit", "6")
+    items = found.get("items") or []
+    if not found.get("ok"):
+        e = found.get("error") or {}
+        out.append(f"## Search failed: {e.get('code')}: {e.get('message', '')[:200]}")
+    else:
+        out.append(f"## Search: {question}\n" + "\n".join(
+            f"- {i.get('title') or i.get('url')} ({i.get('url')})\n  {(i.get('text') or '').strip()[:500].replace(chr(10), ' ')}" for i in items))
+    pages = list(urls or []) + [i["url"] for i in items if i.get("url") and "fandom.com" not in i["url"]][:max(0, min(read, 5))]
+    for u in dict.fromkeys(pages):
+        r = _reach("read", u)
+        if not r.get("ok"):
+            e = r.get("error") or {}
+            out.append(f"## Could not read {u}: {e.get('code')}")
+            continue
+        for i in (r.get("items") or [])[:1]:
+            text = (i.get("text") or "").strip()
+            out.append(f"## {i.get('title') or u} ({u})\n\n" + text[:7000] + ("\n...[truncated]" if len(text) > 7000 else ""))
+    if power.strip():
+        out.append(_superpower(power.strip()))
+    return "\n\n".join(out)
 
 
 # --------------------------------------------------------------------------

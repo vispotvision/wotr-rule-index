@@ -1608,22 +1608,37 @@
   },
   {
    "name": "research",
-   "description": "Outside research through Gemini with Google Search (the Antigravity CLI, `agy -p`, on Isaac's\nGoogle login). For real-world facts: physics, anatomy, history, arms and armour, sources. The answer\nis outside research, never a rule source: it does not go in a verbatim field. model: `agy models`.",
+   "description": "Outside research on the open web through Agent Reach (search and page reading on Isaac's machine).\nFor real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,\ntrades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page\nin `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own\ntext with their URLs for you to read and cite: outside research, never canon and never a rule source;\nit does not go in a verbatim field. A failed source is named, not retried.",
    "inputSchema": {
     "properties": {
      "question": {
       "title": "Question",
       "type": "string"
      },
-     "model": {
-      "default": "gemini-3.8-flash-high",
-      "title": "Model",
-      "type": "string"
-     },
-     "minutes": {
-      "default": 10,
-      "title": "Minutes",
+     "read": {
+      "default": 2,
+      "title": "Read",
       "type": "integer"
+     },
+     "urls": {
+      "anyOf": [
+       {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "default": null,
+      "title": "Urls"
+     },
+     "power": {
+      "default": "",
+      "title": "Power",
+      "type": "string"
      }
     },
     "required": [

@@ -18,12 +18,14 @@ Phenomenon line and the physics the three-stratum stack is built on.
    and read its Capabilities, Applications, Techniques, Variations,
    Combinations, Limitations and Known Users. Applications and Combinations
    feed inventive uses; Limitations feed the fault and the counter; Known
-   Users are the precedent in step 8. The HTML pages 403; use the API:
+   Users are the precedent in step 8. `research(question, power="<Power Name>")` on the
+   WOTR MCP pulls the page; by hand, the HTML pages 403, so use the API:
    search `https://powerlisting.fandom.com/api.php?action=query&list=search&srsearch=<words>&format=json`,
    then page text `https://powerlisting.fandom.com/api.php?action=parse&page=<Title>&prop=wikitext&format=json&redirects=1`.
    WOTR canon (Codex, Wellsprings, glyphs, Fracture of Worlds, cards) still
    governs every fact; the wiki shapes what the power can do, never a number.
-3. **Name the real phenomenon.** Search once (WebSearch). The actual physical process
+3. **Name the real phenomenon.** Search once (WebSearch, or the MCP's `research`, which runs
+   Agent Reach and reads the pages; Agent Reach also when WebSearch misses the body). The actual physical process
    that produces that effect in the real world, at real scale. Hydrogen
    embrittlement. Cavitation. Joule heating. Bernoulli. Leidenfrost. Prefer
    the mundane law to the exotic one; the reader believes what they half

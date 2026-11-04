@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "acceptEdits",
-  "model": "sonnet",
+  "model": "opus",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
@@ -34,12 +34,74 @@
       },
       "loadUserSettings": true,
       "enableChrome": false,
-      "visibleModels": [],
+      "visibleModels": [
+        "opus",
+        "fable",
+        "sonnet",
+        "haiku"
+      ],
       "modelAliases": {},
       "environmentVariables": "",
       "environmentHash": "runtime-input:v1:157fb03a6ccdc425495e533e797338f6a705d373fec638b7aebd7de65d201250",
       "sessionEnvironmentHash": "runtime-input:v1:ebc4ebc6ad9f613efdcf6ec714d83795d5000ef0a5a8d9955baf5dbec8f4fa98",
-      "selectedModels": []
+      "selectedModels": [
+        {
+          "value": "opus",
+          "label": "Opus 5.5",
+          "description": "Best for everyday, complex tasks",
+          "resolvedModel": "claude-opus-5-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "fable",
+          "label": "Fable 5.1",
+          "description": "Most capable for your hardest and longest-running tasks",
+          "resolvedModel": "claude-fable-5-1",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "sonnet",
+          "label": "Sonnet 5.5",
+          "description": "Efficient for routine tasks",
+          "resolvedModel": "claude-sonnet-5-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "haiku",
+          "label": "Haiku 5.5",
+          "description": "Fastest for quick answers",
+          "resolvedModel": "claude-haiku-5-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        }
+      ]
     },
     "codex": {
       "enabled": false,
@@ -120,8 +182,12 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": null,
   "inlineEditModel": null,
-  "savedProviderModel": {},
-  "savedProviderEffort": {},
+  "savedProviderModel": {
+    "claude": "opus"
+  },
+  "savedProviderEffort": {
+    "claude": "high"
+  },
   "savedProviderServiceTier": {},
   "savedProviderPermissionMode": {
     "claude": "acceptEdits"

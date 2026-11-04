@@ -1,7 +1,7 @@
 ![[Faisal — portrait.jpg]]
-![[Faisal — portrait.jpg]]
-![[Faisal — portrait.jpg]]
-![[Faisal — portrait.jpg]]
+
+
+
 
 # Faisal
 

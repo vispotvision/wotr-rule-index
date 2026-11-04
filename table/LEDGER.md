@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-48 open lines.
+54 open lines.
 
 ## injuries and reserve
 
@@ -24,6 +24,10 @@
 - `L043` Glass and Irons: extensor tendons of left index and middle fingers cut by Senna's kunai (fingers won't straighten); notch torn from the left ear's helix, a gold ring lost; Snooze-Glass charge spent, needs a full night's sleep. First wound of his life taken awake.  *(Kharven)*
 - `L044` Glass and Irons: anterior right shoulder dislocation with torn labrum, unreduced at the stop.  *(Kharven)*
 - `L045` Glass and Irons: nasal fracture deviated left, left brow cut to the bone, near-asphyxia; the founded kingfisher dissolved.  *(Kharven)*
+- `L049` Glass and Irons V: Zentai-sei no Hataraki woke uncalled and drew past his reserve on his own substance (permanent, cumulative); facial furrow reopened, forehead skin torn, abdominal tear widened; knee, ribs and left forearm held only by the harness lacing (Junketsu through the old order). Sworn aloud in the Register: 'All those who raise their hands against the ones I love will die' - the Ruins note rose over the chord.  *(the-uncounted)*
+- `L050` Glass and Irons V: right arm gone at the shoulder (shattered like tempered glass), axillary bleed ENSHŌ cannot close; nose crushed; X cut across the chest, Covenant Scar cut in half; GŌKA spent into the floor; left ribs broken; in shock at the foot of the block; Register cracked open to the cedar wood.  *(the-uncounted)*
+- `L051` Glass and Irons III: also left deltoid pierced to the acromion, right flank opened through the obliques into the peritoneum, left quadriceps bored to the femur; reserve heavily drawn by the reversible loops. Reached the crack in Enma's Register at the end of V.  *(Kharven)*
+- `L052` Glass and Irons III: collapsed after the Z-flame and the Twelve Hands of Parun; blood from the mouth, fingernails blackened, Z-shaped scorch on his shirt.  *(Kharven)*
 
 ## who knows what
 
@@ -40,6 +44,8 @@
 - `L039` Both entered at the Sum-gol Post: Cozbi's threat to kill every Yukari if harm comes to Hiromi, and Naiser's matching debt to answer for any harm under his roof. Naiser named the Ashura seam as a talk still owed.  *(Kharven)*
 - `L047` Heard Muken shout Amelia's name in the cedar wood; has entered her and threatened to kill her.  *(the-uncounted)*
 - `L048` Saw Hiromi hurt while Naiser held her back; bound by charter to report every wound to Cozbi.  *(Kharven)*
+- `L053` Saw Hiromi take the space's Dominion from a Sin two Stages up (Irath's power, Malvin Yukari's); knows Cozbi kept it from the terms. Saw Senna's null-light wake.  *(Kharven)*
+- `L054` Saw Bara's face in Muken's reflection and named it aloud.  *(the-uncounted)*
 
 ## bonds
 

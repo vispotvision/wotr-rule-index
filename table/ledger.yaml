@@ -504,3 +504,68 @@
   due: null
   status: open
   thread: Kharven
+- id: L049
+  category: injuries and reserve
+  who: Muken Moto
+  text: 'Glass and Irons V: Zentai-sei no Hataraki woke uncalled and drew past his reserve on his own
+    substance (permanent, cumulative); facial furrow reopened, forehead skin torn, abdominal tear widened;
+    knee, ribs and left forearm held only by the harness lacing (Junketsu through the old order). Sworn
+    aloud in the Register: ''All those who raise their hands against the ones I love will die'' - the
+    Ruins note rose over the chord.'
+  opened: '2026-11-03'
+  opened_session: 6
+  due: null
+  status: open
+  thread: the-uncounted
+- id: L050
+  category: injuries and reserve
+  who: Shōki Kurenai Moto
+  text: 'Glass and Irons V: right arm gone at the shoulder (shattered like tempered glass), axillary bleed
+    ENSHŌ cannot close; nose crushed; X cut across the chest, Covenant Scar cut in half; GŌKA spent into
+    the floor; left ribs broken; in shock at the foot of the block; Register cracked open to the cedar
+    wood.'
+  opened: '2026-11-03'
+  opened_session: 6
+  due: null
+  status: open
+  thread: the-uncounted
+- id: L051
+  category: injuries and reserve
+  who: Vaashuuk Snorr-Khal
+  text: 'Glass and Irons III: also left deltoid pierced to the acromion, right flank opened through the
+    obliques into the peritoneum, left quadriceps bored to the femur; reserve heavily drawn by the reversible
+    loops. Reached the crack in Enma''s Register at the end of V.'
+  opened: '2026-11-03'
+  opened_session: 6
+  due: null
+  status: open
+  thread: Kharven
+- id: L052
+  category: injuries and reserve
+  who: Hiromi
+  text: 'Glass and Irons III: collapsed after the Z-flame and the Twelve Hands of Parun; blood from the
+    mouth, fingernails blackened, Z-shaped scorch on his shirt.'
+  opened: '2026-11-03'
+  opened_session: 6
+  due: null
+  status: open
+  thread: Kharven
+- id: L053
+  category: who knows what
+  who: Naiser Yukari
+  text: Saw Hiromi take the space's Dominion from a Sin two Stages up (Irath's power, Malvin Yukari's);
+    knows Cozbi kept it from the terms. Saw Senna's null-light wake.
+  opened: '2026-11-03'
+  opened_session: 6
+  due: null
+  status: open
+  thread: Kharven
+- id: L054
+  category: who knows what
+  who: Shōki Kurenai Moto
+  text: Saw Bara's face in Muken's reflection and named it aloud.
+  opened: '2026-11-03'
+  opened_session: 6
+  due: null
+  status: open
+  thread: the-uncounted

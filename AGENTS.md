@@ -71,12 +71,16 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   what `.mcp.json` now launches. Every one of the 58 tools runs natively (since 2026-11-04);
   `build/mcp_worker.py` (which imports `mcp_server.py`) is only the fallback for a tool added to
   the Python server and not yet ported, and the source of `rust/tools.json` (`wotr-mcp dump`).
-  Still Python by design, run as programs: the TTS engines (`build/audio_export.py`, which
-  narrate_scene starts), the search index build (`build/embed_index.py`), `build/sync.sh`, and
+  Narration runs in Rust too (`wotr-mcp audio`, same arguments as `build/audio_export.py`, which
+  stays as the reference): Kokoro and Supertonic in-process on the venv's ONNX Runtime, MP3s
+  through the venv's lameenc LAME (byte-identical; it loads libpython3.14 for that library's
+  symbols, so a Python upgrade drops narration to WAV until fixed). Still Python, run as
+  programs: the Chatterbox and Qwen GPU workers, the Whisper read-back check, `--qwen` runs
+  (handed to audio_export.py), the search index build (`build/embed_index.py`), `build/sync.sh`, and
   the external CLIs research calls (Agent Reach, agent-browser). table/*.yaml is written by
   `rust/src/pyyaml.rs`, byte-identical to PyYAML. The checks, all must pass after a change:
   `rust/parity.py` (read tools), `rust/yaml_parity.py`, and in scratch clones with scratch
-  remotes `rust/writer_parity.py`, `rust/audit_parity.py` and `rust/job_parity.py`. The semantic search embeds queries with the same bge-small ONNX
+  remotes `rust/writer_parity.py`, `rust/audit_parity.py`, `rust/job_parity.py` and `rust/audio_parity.py`. The semantic search embeds queries with the same bge-small ONNX
   model and the wotr venv's ONNX Runtime, reading `build/index/`, which Python still builds); every other
   tool goes to one long-lived `build/mcp_worker.py`, which imports `mcp_server.py`. Tool names,
   descriptions and schemas come from `rust/tools.json`: after changing a Python tool's

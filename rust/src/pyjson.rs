@@ -281,6 +281,41 @@ fn ascii_str(t: &str, out: &mut String) {
     out.push('"');
 }
 
+/// json.dumps(v, sort_keys=sort_keys): ensure_ascii, ", " and ": " separators.
+pub fn dumps(v: &Value, sort_keys: bool) -> String {
+    fn go(v: &Value, sort: bool, out: &mut String) {
+        match v {
+            Value::Array(a) => {
+                out.push('[');
+                for (i, x) in a.iter().enumerate() {
+                    out.push_str(if i > 0 { ", " } else { "" });
+                    go(x, sort, out);
+                }
+                out.push(']');
+            }
+            Value::Object(o) => {
+                let mut keys: Vec<&String> = o.keys().collect();
+                if sort {
+                    keys.sort();
+                }
+                out.push('{');
+                for (i, k) in keys.into_iter().enumerate() {
+                    out.push_str(if i > 0 { ", " } else { "" });
+                    ascii_str(k, out);
+                    out.push_str(": ");
+                    go(&o[k], sort, out);
+                }
+                out.push('}');
+            }
+            Value::String(t) => ascii_str(t, out),
+            o => out.push_str(&o.to_string()),
+        }
+    }
+    let mut out = String::new();
+    go(v, sort_keys, &mut out);
+    out
+}
+
 /// json.dumps(v, indent=indent): ensure_ascii, "," and ": " separators.
 pub fn dumps_indent(v: &Value, indent: usize) -> String {
     fn go(v: &Value, indent: usize, level: usize, out: &mut String) {

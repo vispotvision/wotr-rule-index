@@ -7,22 +7,27 @@
 //!   wotr-mcp call TOOL '{"arg": ...}' [--public BASE TOKEN]
 //!                                         run one tool and print its text (parity tests)
 //!   wotr-mcp verify FILE [--combat] ...   build/verify.py's command line
+//!   wotr-mcp audio [--scene X] ...        build/audio_export.py's command line (audio.rs); audio-probe
+//!                                         is rust/audio_parity.py's view of the engines
 //!   wotr-mcp http [--port N]... [--dash N] [--log FILE]
 //!                                         the public route (default ports 8765 and 8767, the Funnel's
 //!                                         / and /ro) gated by the named keys, and the key dashboard on
 //!                                         127.0.0.1 (default 8790); see http.rs
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
 mod analysis;
+mod audio;
 mod codex;
 mod embed;
 mod http;
 mod jobs;
 mod keys;
+mod kokoro;
 mod pages;
 mod pyjson;
 mod pyyaml;
 mod rules;
 mod search;
+mod supertonic;
 mod table;
 mod util;
 mod writers;
@@ -397,6 +402,8 @@ async fn main() {
     let args: Vec<String> = std::env::args().skip(1).collect();
     match args.first().map(String::as_str) {
         Some("verify") => std::process::exit(verify_cli(&args[1..])),
+        Some("audio") => std::process::exit(audio::main(&args[1..])),
+        Some("audio-probe") => std::process::exit(audio::probe()),
         Some("dump") => {
             let s = std::process::Command::new("bash").args(["build/py.sh", "build/mcp_worker.py", "--dump"]).current_dir(&*util::ROOT).status();
             std::process::exit(s.map(|s| s.code().unwrap_or(1)).unwrap_or(1));

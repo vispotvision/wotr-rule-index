@@ -383,3 +383,15 @@ research, and the retired ChatGPT wrappers (stub-tested, never run for real).
 Checks on the final build: parity.py 2,425 cases identical; writer, audit and job
 replays in scratch clones all identical; a live stdio session over every new tool.
 
+### 2026-11-04 — Narration in Rust (Isaac's decision; recorded by Claude Code)
+
+Isaac chose: Kokoro, Supertonic and the pipeline in Rust; Chatterbox, Qwen3-TTS
+and CosyVoice stay Python GPU workers (no Rust path to the AMD card). `wotr-mcp
+audio` takes audio_export.py's arguments; narrate_scene starts it. Checked by
+`rust/audio_parity.py`: phonemes and tokens identical over 1,442 paragraphs,
+Kokoro and Supertonic samples max difference 0, a full scene's MP3 byte-identical,
+Chatterbox requests byte-identical (its audio differs run to run in Python too).
+Speed is the same (156 s vs 156 s for a scene): inference dominates. MP3 encoding
+uses the venv lameenc's LAME 3.100 via libpython3.14; a Python upgrade breaks that
+path and narration falls back to WAV.
+

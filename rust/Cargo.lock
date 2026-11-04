@@ -2001,6 +2001,7 @@ dependencies = [
  "axum",
  "calamine",
  "fancy-regex",
+ "libloading",
  "ort",
  "regex",
  "rmcp",

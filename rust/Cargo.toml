@@ -24,6 +24,8 @@ ort = { version = "=2.0.0-rc.15", default-features = false, features = ["std", "
 unicode-normalization = "0.1"
 tokenizers = { version = "0.22", default-features = false, features = ["onig"] }
 calamine = "0.38.0"
+# espeak-ng and lameenc's LAME, loaded from the wotr venv at run time (already ort's)
+libloading = "0.9"
 # already calamine's; read directly for the raw text of number cells, which openpyxl types by
 zip = { version = "9", default-features = false, features = ["deflate"] }
 

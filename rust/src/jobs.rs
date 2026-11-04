@@ -1,10 +1,11 @@
 //! The tools that start other programs (mcp_server.py, ported line for line): narration
-//! (cast_scene, narrate_scene, narration_status, with audio_export.py's cast-file parsing; the
-//! render itself stays build/audio_export.py, started detached), research through the agent-reach
+//! (cast_scene, narrate_scene, narration_status; the render is `wotr-mcp audio`, audio.rs, started
+//! detached), research through the agent-reach
 //! and agent-browser CLIs and the Superpower Wiki's API (curl), and the build/ask_*.sh calls
 //! (ask_chatgpt, ask_claude, research_chatgpt, chatgpt_image). rust/job_parity.py replays them
 //! against the Python tools with stub programs.
 use crate::analysis::{find_scene, name_of, py_repr, scene_blocks};
+use crate::audio::{check_cast, parse_cast};
 use crate::pyjson;
 use crate::table::{s, t};
 use crate::util::{self, audio_dir, chars, head, read_lossy, root, stem, tail, ROOT};
@@ -70,7 +71,7 @@ fn which(name: &str) -> String {
         .unwrap_or_else(|| format!("{}/.local/bin/{name}", home()))
 }
 
-fn commas(n: usize) -> String {
+pub(crate) fn commas(n: usize) -> String {
     let d = n.to_string();
     let mut out = String::new();
     for (i, c) in d.chars().enumerate() {
@@ -130,83 +131,7 @@ fn scene_missing(scene: &str, cands: Vec<String>, more: &str) -> String {
     if cands.is_empty() { format!("No scene matches {}.{more}", py_repr(scene)) } else { format!("More than one scene matches; say which:\n  {}", cands.join("\n  ")) }
 }
 
-// ---------------------------------------------------------------- cast files (audio_export.py)
-const DELIVERY: [&str; 10] = ["slow", "slower", "fast", "faster", "quiet", "loud", "whisper", "urgent", "beat", "long beat"];
-const CUES: [&str; 10] = ["laugh", "chuckle", "sigh", "gasp", "cough", "clear throat", "sniff", "groan", "shush", "breath"];
-
-type Span = (String, String);
-type Block = (&'static str, Vec<Span>);
-
-fn norm(s: &str) -> String {
-    rx!(r"\s+").replace_all(s, " ").trim().to_string()
-}
-
-/// audio_export.parse_tag: who and the delivery words; an unknown word is the SystemExit text.
-fn parse_tag(inner: &str) -> Result<String, String> {
-    let (who, mods) = inner.split_once(':').unwrap_or((inner, ""));
-    for w in mods.split(',').map(|w| w.trim().to_lowercase()).filter(|w| !w.is_empty()) {
-        if !DELIVERY.contains(&w.as_str()) {
-            return Err(format!("unknown delivery word {} in tag [{inner}]; known: {}", py_repr(&w), DELIVERY.join(", ")));
-        }
-    }
-    Ok(who.trim().to_string())
-}
-
-/// audio_export.parse_cast: [(kind, [(who, text)])]
-fn parse_cast(text: &str) -> Result<Vec<Block>, String> {
-    let text = text.replace("\r\n", "\n");
-    let mut blocks = Vec::new();
-    for raw in rx!(r"\n\s*\n").split(&text).flatten() {
-        let b = raw.trim();
-        if b.is_empty() {
-            continue;
-        }
-        if rx!(r"^(-{3,}|\*{3,}|_{3,})\z").is_match(b).unwrap_or(false) {
-            blocks.push(("divider", vec![]));
-            continue;
-        }
-        let (kind, b) = match b.strip_prefix("# ") {
-            Some(r) => ("title", r.trim()),
-            None => ("para", b),
-        };
-        let b = rx!(r"\s+").replace_all(b, " ").into_owned();
-        let (mut spans, mut who, mut pos) = (Vec::new(), "narrator".to_string(), 0);
-        for m in rx!(r"\[([^\[\]\n]{1,80})\]").captures_iter(b.as_str()).flatten() {
-            let (all, inner) = (m.get(0).unwrap(), &m[1]);
-            if CUES.contains(&inner.trim().to_lowercase().as_str()) {
-                continue; // a performed cue stays in the span's text
-            }
-            let chunk = b[pos..all.start()].trim();
-            if !chunk.is_empty() {
-                spans.push((who.clone(), chunk.to_string()));
-            }
-            who = parse_tag(inner)?;
-            pos = all.end();
-        }
-        let chunk = b[pos..].trim();
-        if !chunk.is_empty() {
-            spans.push((who, chunk.to_string()));
-        }
-        blocks.push((kind, spans));
-    }
-    Ok(blocks)
-}
-
-/// audio_export.check_cast: None when the cast text, tags removed, is the scene's.
-fn check_cast(scene: &[(&'static str, String)], cast: &[Block]) -> Option<String> {
-    let cues = rx!(r"(?i)\s*\[(clear throat|chuckle|laugh|cough|groan|shush|breath|sniff|sigh|gasp)\]\s*");
-    let want = norm(&scene.iter().filter(|(k, _)| *k != "divider").map(|(_, t)| t.as_str()).collect::<Vec<_>>().join(" "));
-    let got = norm(&cast.iter().filter(|(k, _)| *k != "divider").flat_map(|(_, sp)| sp.iter().map(|(_, t)| norm(&cues.replace_all(t, " ")))).collect::<Vec<_>>().join(" "));
-    if want == got {
-        let (ns, nc) = (scene.iter().filter(|(k, _)| *k == "divider").count(), cast.iter().filter(|(k, _)| *k == "divider").count());
-        return (ns != nc).then(|| format!("the scene has {ns} --- dividers, the cast file {nc}"));
-    }
-    let (w, g): (Vec<char>, Vec<char>) = (want.chars().collect(), got.chars().collect());
-    let i = w.iter().zip(&g).position(|(a, b)| a != b).unwrap_or(w.len().min(g.len()));
-    let cut = |v: &[char]| v[i.saturating_sub(60).min(v.len())..(i + 80).min(v.len())].iter().collect::<String>();
-    Some(format!("cast text parts from the scene at character {i}:\n  scene: \u{2026}{}\u{2026}\n  cast:  \u{2026}{}\u{2026}", cut(&w), cut(&g)))
-}
-
+// ---------------------------------------------------------------- cast files
 pub fn cast_scene(scene: &str, script: &str) -> Result<String, String> {
     let (path, cands) = find_scene(scene);
     let Some(path) = path else { return Ok(scene_missing(scene, cands, "")) };
@@ -226,7 +151,7 @@ pub fn cast_scene(scene: &str, script: &str) -> Result<String, String> {
     let voices = if presets.exists() { crate::pyyaml::load(&read_lossy(&presets))? } else { Value::Null };
     let assigned: Vec<String> = voices.as_object().map(|m| m.keys().filter(|k| !k.starts_with('_')).cloned().collect()).unwrap_or_default();
     let mut who: Vec<&str> = Vec::new();
-    for (w, _) in cast.iter().flat_map(|(_, sp)| sp) {
+    for (w, _, _) in cast.iter().flat_map(|(_, sp)| sp) {
         if !who.contains(&w.as_str()) {
             who.push(w);
         }
@@ -283,7 +208,7 @@ fn audio_url(path: &Path, public: Public) -> String {
 }
 
 /// sys.executable for the render: the venv's interpreter, picked as build/env.sh picks it.
-fn python() -> String {
+pub(crate) fn python() -> String {
     use std::os::unix::fs::PermissionsExt;
     let exe = |p: &str| Path::new(p).metadata().is_ok_and(|m| m.is_file() && m.permissions().mode() & 0o111 != 0);
     util::env("WOTR_PYTHON").filter(|p| exe(p)).or_else(|| Some(format!("{}/.venvs/wotr/bin/python", home())).filter(|p| exe(p))).unwrap_or_else(|| "python3".into())
@@ -313,8 +238,13 @@ pub fn narrate_scene(scene: &str, voice: &str, engine: &str, public: Public) -> 
         return Ok("The ElevenLabs engine is not available over the shared connector; ask Isaac to render it from his desk.".into());
     }
     let lf = std::fs::File::create(&log).map_err(|e| e.to_string())?;
-    let mut c = util::command(python());
-    c.arg(root("build/audio_export.py")).args(["--scene", &name_of(&path), "--voice", voice, "--out"]).arg(&dir).args(["--engine", &engine]);
+    // the render is this binary's `audio` (audio_export.py's port); WOTR_AUDIO_BIN is job_parity's stub
+    // (a binary rebuilt under a running server reads as "<path> (deleted)"; the new one is at <path>)
+    let exe = util::env("WOTR_AUDIO_BIN").map(PathBuf::from)
+        .or_else(|| std::env::current_exe().ok().map(|p| PathBuf::from(p.to_string_lossy().trim_end_matches(" (deleted)"))))
+        .ok_or("cannot find wotr-mcp")?;
+    let mut c = util::command(exe);
+    c.arg("audio").args(["--scene", &name_of(&path), "--voice", voice, "--out"]).arg(&dir).args(["--engine", &engine]);
     let mut child = c.stdin(Stdio::null()).stdout(lf.try_clone().map_err(|e| e.to_string())?).stderr(lf).spawn().map_err(|e| e.to_string())?;
     std::thread::spawn(move || child.wait()); // reaped, never waited on
     jobs.push(json!({"id": job_id, "scene": name_of(&path), "voice": voice, "engine": engine, "log": log.to_string_lossy(),

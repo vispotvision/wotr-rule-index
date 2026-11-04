@@ -5,7 +5,9 @@ ask_claude, research_chatgpt and chatgpt_image.
 
   bash build/py.sh rust/job_parity.py [scratch-dir]     # exit 1 on any difference
 
-Nothing real runs: each clone's build/audio_export.py and build/ask_*.sh are stubs, and agent-reach,
+Nothing real runs: each clone's build/audio_export.py and build/ask_*.sh are stubs (the Rust render is
+`wotr-mcp audio`, so its side gets the same stub render through WOTR_AUDIO_BIN, started as `<bin>
+audio --scene ...`; rust/audio_parity.py checks the real render), and agent-reach,
 agent-browser and curl are stubs first on PATH, answering from one canned table (the Python side's
 urllib is pointed at the same table). HOME is a scratch folder per side, the env file an empty one.
 Compared: every reply (an image reply as its blocks), the jobs file and logs, scenes/cast, CAST.md,
@@ -231,6 +233,8 @@ def setup(a: Path, b: Path) -> dict:
     stub(stubs / "agent-reach", REACH)
     stub(stubs / "agent-browser", BROWSER)
     stub(stubs / "curl", CURL)
+    # the Rust render is `wotr-mcp audio ARGS`: the same stub, the subcommand dropped, so the logs compare
+    stub(W.S / "audio-render", "#!PY\nimport sys\nsys.argv = sys.argv[:1] + sys.argv[2:]\n" + AUDIO + "\nsys.exit(main())\n")
     fixture = W.S / "fixture"
     fixture.mkdir()
     subprocess.run(["magick", "-size", "300x200", "gradient:red-blue", str(fixture / "a.png")], check=True)
@@ -258,7 +262,7 @@ def setup(a: Path, b: Path) -> dict:
         (W.S / f"state{side}").mkdir()
         envs[side] = {**os.environ, "HOME": str(home), "PATH": f"{stubs}:{os.environ['PATH']}", "WOTR_ENV_FILE": str(W.S / "empty.env"),
                       "WOTR_PYTHON": PY, "STUB_DATA": str(W.S / "stubdata.json"), "STUB_STATE": str(W.S / f"state{side}"),
-                      "FIXTURE": str(fixture), "WOTR_ROOT": str(root)}
+                      "FIXTURE": str(fixture), "WOTR_ROOT": str(root), "WOTR_AUDIO_BIN": str(W.S / "audio-render")}
         envs[side].pop("AGENT_BROWSER_EXECUTABLE_PATH", None)
         envs[side].pop("WOTR_DRIVE", None)
     return envs

@@ -41,13 +41,11 @@ struct Model {
 
 static MODEL: LazyLock<Mutex<Option<Model>>> = LazyLock::new(|| Mutex::new(None));
 static INDEX: LazyLock<Mutex<Option<Arc<Index>>>> = LazyLock::new(|| Mutex::new(None));
-static ENV: LazyLock<Result<ort::environment::Environment, String>> = LazyLock::new(|| {
+pub(crate) static ENV: LazyLock<Result<ort::environment::Environment, String>> = LazyLock::new(|| {
     // the ONNX Runtime the index was built with (the wotr venv's) gives bit-identical query vectors;
     // the system onnxruntime-cpu differs in the fourth decimal and is the fallback
-    let venv = std::env::var("HOME").map(|h| format!("{h}/.venvs/wotr/lib")).unwrap_or_default();
-    let own = std::fs::read_dir(&venv).into_iter().flatten().flatten()
-        .map(|e| e.path().join("site-packages/onnxruntime/capi"))
-        .flat_map(|d| std::fs::read_dir(d).into_iter().flatten().flatten().map(|e| e.path()))
+    let own = crate::util::site_packages("wotr").map(|d| d.join("onnxruntime/capi"))
+        .into_iter().flat_map(|d| std::fs::read_dir(d).into_iter().flatten().flatten().map(|e| e.path()))
         .find(|p| p.file_name().is_some_and(|n| n.to_string_lossy().starts_with("libonnxruntime.so.")));
     let lib = std::env::var("ORT_DYLIB_PATH").ok().or(own.map(|p| p.to_string_lossy().into_owned())).unwrap_or_else(|| "/usr/lib/libonnxruntime.so".into());
     ort::init_from(&lib).map_err(|e| format!("{lib}: {e}"))?.build().map_err(|e| e.to_string())
@@ -90,17 +88,25 @@ pub fn embed(text: &str) -> Result<Vec<f32>, String> {
     Ok(v)
 }
 
-fn npy_f32(bytes: &[u8]) -> Result<Vec<f32>, String> {
-    // NPY v1/v2: magic, version, header length, a dict header ('<f4', C order), then raw data
+/// An .npy file's float data as f32 (np.asarray(x, dtype=np.float32)): '<f4' or '<f8', C order.
+pub(crate) fn npy_f32(bytes: &[u8]) -> Result<Vec<f32>, String> {
+    // NPY v1/v2: magic, version, header length, a dict header, then raw data
     if bytes.len() < 10 || &bytes[..6] != b"\x93NUMPY" {
-        return Err("vectors.npy: not an npy file".into());
+        return Err("not an npy file".into());
     }
     let (hlen, start) = if bytes[6] == 1 { (u16::from_le_bytes([bytes[8], bytes[9]]) as usize, 10) } else { (u32::from_le_bytes(bytes[8..12].try_into().unwrap()) as usize, 12) };
     let header = String::from_utf8_lossy(&bytes[start..start + hlen]);
-    if !header.contains("'<f4'") || header.contains("'fortran_order': True") {
-        return Err(format!("vectors.npy: unexpected header {header}"));
+    let data = &bytes[start + hlen..];
+    if header.contains("'fortran_order': True") {
+        return Err(format!("unexpected npy header {header}"));
     }
-    Ok(bytes[start + hlen..].chunks_exact(4).map(|b| f32::from_le_bytes(b.try_into().unwrap())).collect())
+    if header.contains("'<f8'") {
+        return Ok(data.chunks_exact(8).map(|b| f64::from_le_bytes(b.try_into().unwrap()) as f32).collect());
+    }
+    if !header.contains("'<f4'") {
+        return Err(format!("unexpected npy header {header}"));
+    }
+    Ok(data.chunks_exact(4).map(|b| f32::from_le_bytes(b.try_into().unwrap())).collect())
 }
 
 /// The index, reloaded when the sync rebuilt it (vectors.npy's mtime), as embed_index._load does.
@@ -112,7 +118,7 @@ fn index() -> Result<Arc<Index>, String> {
         return Ok(ix.clone());
     }
     let meta: Meta = serde_json::from_slice(&std::fs::read(root("build/index/chunks.json")).map_err(|e| e.to_string())?).map_err(|e| e.to_string())?;
-    let vecs = npy_f32(&std::fs::read(&vp).map_err(|e| e.to_string())?)?;
+    let vecs = npy_f32(&std::fs::read(&vp).map_err(|e| e.to_string())?).map_err(|e| format!("vectors.npy: {e}"))?;
     if vecs.len() != meta.chunks.len() * DIM {
         return Err("index is mid-rebuild; try again".into());
     }

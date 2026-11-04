@@ -51,6 +51,17 @@ pub fn env_path(key: &str, default: Option<&str>) -> Option<PathBuf> {
     Some(PathBuf::from(if raw == "~" || raw.starts_with("~/") { format!("{home}{}", &raw[1..]) } else { raw }))
 }
 
+/// <common.VENVS>/<name>: the project's venv is "wotr", a TTS engine's "wotr-<engine>".
+pub fn venv(name: &str) -> PathBuf {
+    env_path("WOTR_VENVS", Some("~/.venvs")).unwrap().join(name)
+}
+
+/// A venv's site-packages (lib/python3.X/site-packages), where the audio code finds the libraries
+/// and data files the Python engines use (espeak-ng, ONNX Runtime, lameenc).
+pub fn site_packages(name: &str) -> Option<PathBuf> {
+    fs::read_dir(venv(name).join("lib")).ok()?.flatten().map(|e| e.path().join("site-packages")).find(|p| p.is_dir())
+}
+
 /// A child as mcp_server._env() starts it: this environment, the env file and PYTHONIOENCODING, in the repo.
 pub fn command(prog: impl AsRef<std::ffi::OsStr>) -> std::process::Command {
     let mut c = std::process::Command::new(prog);

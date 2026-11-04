@@ -1,4 +1,4 @@
-# Nightly — 2026-11-03 03:30
+# Nightly — 2026-11-04 03:30
 
 ## Overnight
 
@@ -10,6 +10,14 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 - docket 0 outstanding
 - conflicts open 1
 - findings NEW 0 / CLEARED 0 / STILL OPEN 4
+
+## Scenes archived since the last run
+
+- `enmas_register`
+- `glass_and_irons`
+- `glass_and_irons_20261103_1620`
+- `glass_and_irons_20261103_2043`
+- `the_bridge_and_the_spear`
 
 ## The book
 
@@ -30,6 +38,6 @@ _(Claude's note goes here; build/nightly.sh writes it after these numbers. If th
 
 ## The sync (last 26 h) and the weekly backup
 
-- sync: 75 push(es), 0 quiet run(s), 0 push failure(s)
-- backup: weekly (Sunday 03:00), last 2026-11-01 (2 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-11-01.zip (44.3 MB, 962 files)
-- last run of this digest: 2026-11-02T03:30:18
+- sync: 78 push(es), 0 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-11-01 (3 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-11-01.zip (44.3 MB, 962 files)
+- last run of this digest: 2026-11-03T03:30:15

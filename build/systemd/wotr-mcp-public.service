@@ -1,26 +1,24 @@
-# wotr-mcp-public.service — was the logon task "WOTR MCP public"
-# (build/mcp_public_setup.ps1: hidden, restarted itself five times a minute apart).
+# wotr-mcp-public.service — the WOTR MCP from anywhere, and the key dashboard (Rust, since 2026-11-04)
 #
-# Isaac's own WOTR MCP from anywhere: build/mcp_server.py --http --token on
-# 127.0.0.1:8765 — FULL tools (writers, ask_chatgpt, ask_claude; his call, 2026-09-26 and
-# 2026-10-06), the shared secret from build/.mcp_token required on every request —
-# published as https://<machine>.<tailnet>.ts.net/ by Tailscale Funnel. Claude on the
-# web and phone and ChatGPT use it. Friends get wotr-mcp-readonly.service (path /ro,
-# its own secret) instead: this token can write canon and spend both plans.
+# rust/target/release/wotr-mcp http: the MCP on 127.0.0.1:8765 and :8767, which Tailscale
+# Funnel publishes as https://<machine>.<tailnet>.ts.net/ and /ro. Every request needs an
+# enabled key's token (header Bearer <token>, or the path /t/<token>/mcp), and the key sets
+# the tools it may call. The keys live in ~/.config/wotr/mcp_keys.json (0600); the first run
+# imported the two old secrets (build/.mcp_token as "Main", full; build/.mcp_token_ro as
+# "Read-only (friends)"), so no connector URL changed. The dashboard, where keys are made,
+# edited, rotated and watched, is http://127.0.0.1:8790/ on this PC only, never funneled.
 #
-# NOT enabled by build/systemd_setup.sh: build/mcp_public_setup.sh enables and starts
-# this unit after it has written the secret and opened the funnel, so the server never
-# comes up without a token. Goes through build/py.sh (ExecStart= cannot take a variable
-# as the executable). Restarts on a crash after 30 s — but not on exit 2, which is the
-# server's own refusal to start without a shared secret (build/.mcp_token missing or
-# rotated away, WOTR_MCP_TOKEN unset) or a bad flag: a configuration error, not a
-# crash, so RestartPreventExitStatus=2 lets the unit stop and `systemctl --user status
-# wotr-mcp-public` show the reason once, instead of a 30 s loop appending it to the log.
+# This one unit replaced wotr-mcp-public (Python, full tools) and wotr-mcp-readonly (Python,
+# /ro). Tools not yet ported run in one Python worker (build/mcp_worker.py) it starts itself.
+# Rollback: ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/mcp_server.py --http
+# --token --ops --port 8765 --log build/mcp_public.log, plus the old readonly unit from git.
 #
-# Logs: journalctl --user -u wotr-mcp-public, and build/mcp_public.log (--log below).
+# NOT enabled by build/systemd_setup.sh: build/mcp_public_setup.sh enables it with the funnel.
+# Build first: (cd rust && cargo build --release). Logs: build/mcp_public.log (--log below)
+# and journalctl --user -u wotr-mcp-public.
 
 [Unit]
-Description=WOTR MCP, full tools, shared secret required; published by Tailscale Funnel
+Description=WOTR MCP (Rust): the Funnel route gated by named keys, and the key dashboard
 
 [Service]
 TimeoutStopSec=5
@@ -28,10 +26,9 @@ Type=simple
 WorkingDirectory=%h/wotr-rule-index
 EnvironmentFile=-%h/.config/wotr/env
 Environment=PYTHONIOENCODING=utf-8
-ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/mcp_server.py --http --token --ops --port 8765 --log build/mcp_public.log
+ExecStart=%h/wotr-rule-index/rust/target/release/wotr-mcp http --port 8765 --port 8767 --dash 8790 --log build/mcp_public.log
 Restart=on-failure
-RestartSec=30
-RestartPreventExitStatus=2
+RestartSec=10
 
 [Install]
 WantedBy=default.target

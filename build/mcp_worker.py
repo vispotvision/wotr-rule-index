@@ -39,6 +39,9 @@ def serve() -> None:
         try:
             req = json.loads(line)
             t = tools[req["tool"]]
+            # the caller's key: audio and image links are built with its base URL and token
+            pub = req.get("public") or {}
+            M.PUBLIC["base"], M.PUBLIC["token"] = pub.get("base", ""), pub.get("token", "")
             res = t.fn(**req.get("args") or {})
             resp = {"ok": res if isinstance(res, str) else str(res)}
         except Exception as e:  # noqa: BLE001 - every failure goes back to the caller as text

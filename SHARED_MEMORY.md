@@ -321,3 +321,17 @@ HTTP + token gate + a key dashboard (named API keys, permissions, which are
 online; localhost only), then wiki/scene search, then the writing tools.
 Isaac no longer uses Codex or Antigravity.
 
+### 2026-11-04 — The public MCP route is Rust, gated by named keys (Isaac's decision; recorded by Claude Code)
+
+Phase 2 is live: `wotr-mcp-public` runs `rust/target/release/wotr-mcp http` on
+8765 and 8767 (the Funnel's `/` and `/ro`); `wotr-mcp-readonly` is retired.
+Every request needs an enabled key's token; each key has a preset (full, core,
+read-only, custom tool list) applied live. Keys are in
+`~/.config/wotr/mcp_keys.json` (0600); the old two secrets were imported as
+"Main" (full) and "Read-only (friends)", so no URL changed. Isaac makes,
+renames, rotates, disables and watches keys (online = open sessions and a call
+in the last 30 min) at http://127.0.0.1:8790/, loopback only. Verified through
+the Funnel: Main 58 tools, friends 20, no token 401. Also fixed:
+`WOTR_MCP_PUBLIC_URL` in `~/.config/wotr/env` named a dead host (ultron-1), so
+audio links from the old route did not resolve; it is ultron now.
+

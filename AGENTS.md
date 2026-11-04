@@ -74,7 +74,9 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   descriptions and schemas come from `rust/tools.json`: after changing a Python tool's
   signature or docstring run `rust/target/release/wotr-mcp dump`. After changing a native tool
   in either language run `bash build/py.sh rust/parity.py` (exit 0 = byte-identical output).
-  HTTP, the token gate and the key dashboard are not ported yet: the public units still run Python.
+  The public route is Rust too (`wotr-mcp http`, the `wotr-mcp-public` unit): named API keys, each
+  with its own token and tool permissions, made and watched at the dashboard
+  http://127.0.0.1:8790/ (this PC only, never funneled); keys in `~/.config/wotr/mcp_keys.json`.
 - **WOTR MCP** (`build/mcp_server.py`, 45 tools) — what Claude Desktop
   ("Natalie"), Claude Code (`.mcp.json`), the Discord bot and the book pipeline
   use. **Without an MCP client, 21 of the read-only tools are a command line:**
@@ -193,7 +195,7 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   | `wotr-book.timer` | 02:00 | `build/book_dispatch.sh` — one chapter if no gate waits |
   | `wotr-backup.timer` | Sun 03:00 | `build/backup.sh` — zip to Drive or `~/wotr-backups` |
   | `wotr-jobs.service` | always | `build/jobs_server.py` on 127.0.0.1:8799 (n8n's door) |
-  | `wotr-mcp-public.service` | always | `mcp_server.py --public` on 8765 (read-only, token; enabled by `build/mcp_public_setup.sh`, not the installer) |
+  | `wotr-mcp-public.service` | always | `rust/target/release/wotr-mcp http` on 8765 and 8767 (the Funnel's `/` and `/ro`), every request gated by a dashboard key; the dashboard on 127.0.0.1:8790 (enabled by `build/mcp_public_setup.sh`, not the installer; replaced wotr-mcp-readonly 2026-11-04) |
   | `wotr-bot.service` | always | `bot/run.sh` → `bot/main.py` |
   | `wotr-comfy.service` | always | ComfyUI (`~/comfy/ComfyUI`, venv `wotr-comfy`) on 127.0.0.1:8188, the 9070 XT only (`--cuda-device 0`); enabled by `build/comfy_setup.sh`, not the installer |
 
@@ -242,7 +244,7 @@ python build/judger_apply.py <scene-slug>          # list proposals; then P01 P0
 rust/target/release/wotr-mcp verify draft.md --combat   # verify.py's command line, in Rust
 bash build/py.sh rust/parity.py           # Rust vs Python over the whole archive; must exit 0
 python build/mcp_server.py                # stdio, all 45 tools (what .mcp.json registers)
-python build/mcp_server.py --public       # read-only + token, what the unit runs
+rust/target/release/wotr-mcp http        # the public route + key dashboard, what the unit runs
 
 # operations — Isaac's, or on his word: they (re)install and restart the live units
 bash build/setup_linux.sh                 # fresh machine: venv, config, units

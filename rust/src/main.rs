@@ -6,7 +6,13 @@
 //!                                         for every tool, --read-only narrows either
 //!   wotr-mcp call TOOL '{"arg": ...}'     run one tool and print its text (parity tests)
 //!   wotr-mcp verify FILE [--combat] ...   build/verify.py's command line
+//!   wotr-mcp http [--port N]... [--dash N] [--log FILE]
+//!                                         the public route (default ports 8765 and 8767, the Funnel's
+//!                                         / and /ro) gated by the named keys, and the key dashboard on
+//!                                         127.0.0.1 (default 8790); see http.rs
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
+mod http;
+mod keys;
 mod pages;
 mod rules;
 mod util;
@@ -80,8 +86,9 @@ impl Worker {
     }
 
     /// One call; a dead worker is respawned once.
-    async fn call(&self, tool: &str, args: &Map<String, Value>) -> Result<String, String> {
-        let line = serde_json::json!({"tool": tool, "args": args}).to_string() + "\n";
+    async fn call(&self, tool: &str, args: &Map<String, Value>, public: Option<&(String, String)>) -> Result<String, String> {
+        let public = public.map(|(b, t)| serde_json::json!({"base": b, "token": t}));
+        let line = serde_json::json!({"tool": tool, "args": args, "public": public}).to_string() + "\n";
         let mut slot = self.0.lock().await;
         for _ in 0..2 {
             if slot.is_none() {
@@ -149,39 +156,76 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
 }
 
 // ---------------------------------------------------------------- the MCP server
-struct Wotr {
-    spec: Spec,
+/// Who a session serves: a fixed surface (stdio, the flags), or a dashboard key whose
+/// permissions are read on every request, so an edit or a disable applies at once.
+#[derive(Clone)]
+enum Access {
+    Fixed { ops: bool, read_only: bool },
+    Key { reg: Arc<keys::Registry>, id: String },
+}
+
+struct Surface {
     tools: Vec<ToolSpec>,
     hide: Vec<String>,
+    /// (base URL, token) for audio and image links
+    public: Option<(String, String)>,
+}
+
+#[derive(Clone)]
+struct Wotr {
+    spec: Arc<Spec>,
+    access: Access,
     worker: Arc<Worker>,
 }
 
 impl Wotr {
-    fn new(ops: bool, read_only: bool) -> Self {
-        let spec = load_spec();
-        let tools = spec
+    fn fixed(ops: bool, read_only: bool) -> Self {
+        Wotr { spec: Arc::new(load_spec()), access: Access::Fixed { ops, read_only }, worker: Arc::default() }
+    }
+
+    fn surface(&self) -> Surface {
+        let s = &self.spec;
+        let (ops, ro, custom, public) = match &self.access {
+            Access::Fixed { ops, read_only } => (*ops, *read_only, None, None),
+            Access::Key { reg, id } => match reg.get(id).filter(|k| k.enabled) {
+                None => return Surface { tools: vec![], hide: vec![], public: None },
+                Some(k) => {
+                    let public = Some((k.base.clone(), k.token.clone()));
+                    match k.preset.as_str() {
+                        "full" => (true, false, None, public),
+                        "core" => (false, false, None, public),
+                        "read-only" => (false, true, None, public),
+                        _ => (true, false, Some(k.tools), public),
+                    }
+                }
+            },
+        };
+        let tools: Vec<ToolSpec> = s
             .tools
             .iter()
-            .filter(|t| ops || spec.core.contains(&t.name))
-            .filter(|t| !read_only || spec.read_only.contains(&t.name))
+            .filter(|t| ops || s.core.contains(&t.name))
+            .filter(|t| !ro || s.read_only.contains(&t.name))
+            .filter(|t| custom.as_ref().is_none_or(|c| c.contains(&t.name)))
             .cloned()
             .collect();
-        let mut hide = spec.skill_hide.clone();
-        if read_only {
-            hide.extend(spec.ops_skills.iter().cloned());
+        let mut hide = s.skill_hide.clone();
+        // the ops skills drive writing tools; a surface that cannot write does not see them
+        if ro || custom.is_some() && tools.iter().all(|t| s.read_only.contains(&t.name)) {
+            hide.extend(s.ops_skills.iter().cloned());
         }
-        Wotr { spec, tools, hide, worker: Arc::default() }
+        Surface { tools, hide, public }
     }
 
     async fn call(&self, tool: &str, args: Map<String, Value>) -> Result<String, String> {
-        if !self.tools.iter().any(|t| t.name == tool) {
+        let sf = self.surface();
+        if !sf.tools.iter().any(|t| t.name == tool) {
             return Err(format!("Unknown tool: {tool}"));
         }
         if NATIVE.contains(&tool) {
-            let (tool, hide, note) = (tool.to_string(), self.hide.clone(), self.spec.skill_note.clone());
-            return tokio::task::spawn_blocking(move || native(&tool, &args, &hide, &note)).await.map_err(|e| e.to_string())?;
+            let (tool, note) = (tool.to_string(), self.spec.skill_note.clone());
+            return tokio::task::spawn_blocking(move || native(&tool, &args, &sf.hide, &note)).await.map_err(|e| e.to_string())?;
         }
-        self.worker.call(tool, &args).await
+        self.worker.call(tool, &args, sf.public.as_ref()).await
     }
 }
 
@@ -193,12 +237,12 @@ impl ServerHandler for Wotr {
     }
 
     async fn list_tools(&self, _: Option<PaginatedRequestParams>, _: RequestContext<RoleServer>) -> Result<ListToolsResult, McpError> {
-        let tools = self.tools.iter().map(|t| Tool::new(t.name.clone(), t.description.clone(), Arc::new(t.input_schema.clone()))).collect();
+        let tools = self.surface().tools.iter().map(|t| Tool::new(t.name.clone(), t.description.clone(), Arc::new(t.input_schema.clone()))).collect();
         Ok(ListToolsResult::with_all_items(tools))
     }
 
     async fn call_tool(&self, req: CallToolRequestParams, _: RequestContext<RoleServer>) -> Result<CallToolResponse, McpError> {
-        let known = self.tools.iter().any(|t| t.name == req.name);
+        let known = self.surface().tools.iter().any(|t| t.name == req.name);
         Ok(match self.call(&req.name, req.arguments.unwrap_or_default()).await {
             Ok(text) => CallToolResult::success(vec![ContentBlock::text(text)]),
             Err(e) if !known => CallToolResult::error(vec![ContentBlock::text(e)]),
@@ -208,12 +252,12 @@ impl ServerHandler for Wotr {
     }
 
     async fn list_prompts(&self, _: Option<PaginatedRequestParams>, _: RequestContext<RoleServer>) -> Result<ListPromptsResult, McpError> {
-        let prompts = pages::skills(&self.hide).into_iter().map(|(n, d, _)| Prompt::new(n, Some(d), None)).collect();
+        let prompts = pages::skills(&self.surface().hide).into_iter().map(|(n, d, _)| Prompt::new(n, Some(d), None)).collect();
         Ok(ListPromptsResult::with_all_items(prompts))
     }
 
     async fn get_prompt(&self, req: GetPromptRequestParams, _: RequestContext<RoleServer>) -> Result<GetPromptResponse, McpError> {
-        let skills = pages::skills(&self.hide);
+        let skills = pages::skills(&self.surface().hide);
         let (_, d, body) = skills.into_iter().find(|(n, _, _)| *n == req.name).ok_or_else(|| McpError::invalid_params(format!("Unknown prompt: {}", req.name), None))?;
         let mut r = GetPromptResult::new(vec![PromptMessage::new_text(Role::User, format!("{}{body}", self.spec.skill_note))]);
         r.description = Some(d);
@@ -263,7 +307,7 @@ async fn main() {
                 None => "{}".into(),
             };
             let a: Map<String, Value> = serde_json::from_str(&json).expect("args must be a JSON object");
-            match Wotr::new(true, false).call(&tool, a).await {
+            match Wotr::fixed(true, false).call(&tool, a).await {
                 Ok(t) => println!("{t}"),
                 Err(e) => {
                     eprintln!("{e}");
@@ -275,20 +319,29 @@ async fn main() {
         _ => {}
     }
     let flag = |f: &str| args.iter().any(|a| a == f);
-    if flag("--http") || flag("--public") {
-        eprintln!("--http is phase 2; serve HTTP with build/mcp_server.py until then");
-        std::process::exit(2);
+    let values = |f: &str| args.windows(2).filter(|w| w[0] == f).map(|w| w[1].clone()).collect::<Vec<_>>();
+    if args.first().map(String::as_str) == Some("http") {
+        let ports: Vec<u16> = values("--port").iter().filter_map(|p| p.parse().ok()).collect();
+        let ports = if ports.is_empty() { vec![8765, 8767] } else { ports };
+        let dash = values("--dash").first().and_then(|p| p.parse().ok()).unwrap_or(8790);
+        let template = Wotr::fixed(true, false);
+        std::thread::spawn(|| verify::run("warm", &verify::Opts { combat: true, explicit: true, ..Default::default() }));
+        let w = template.worker.clone();
+        tokio::spawn(async move { w.warm().await });
+        http::serve(template, ports, dash, values("--log").first().cloned()).await;
+        return;
     }
     let ops = flag("--ops") || matches!(std::env::var("WOTR_MCP_OPS").unwrap_or_default().trim(), "1" | "true" | "yes");
-    let server = Wotr::new(ops, flag("--read-only"));
+    let server = Wotr::fixed(ops, flag("--read-only"));
     // warm-ups, off the request path: verify's ~120 regexes compile on first use, and the Python
     // worker imports mcp_server once; both would otherwise land on the first call that needs them
     std::thread::spawn(|| verify::run("warm", &verify::Opts { combat: true, explicit: true, ..Default::default() }));
-    if server.tools.iter().any(|t| !NATIVE.contains(&t.name.as_str())) {
+    let tools = server.surface().tools;
+    if tools.iter().any(|t| !NATIVE.contains(&t.name.as_str())) {
         let w = server.worker.clone();
         tokio::spawn(async move { w.warm().await });
     }
-    eprintln!("wotr-mcp: {} tools ({} native), stdio", server.tools.len(), server.tools.iter().filter(|t| NATIVE.contains(&t.name.as_str())).count());
+    eprintln!("wotr-mcp: {} tools ({} native), stdio", tools.len(), tools.iter().filter(|t| NATIVE.contains(&t.name.as_str())).count());
     let service = server.serve(rmcp::transport::stdio()).await.expect("stdio serve");
     let _ = service.waiting().await;
 }

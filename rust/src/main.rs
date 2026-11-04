@@ -11,6 +11,8 @@
 //!                                         / and /ro) gated by the named keys, and the key dashboard on
 //!                                         127.0.0.1 (default 8790); see http.rs
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
+mod analysis;
+mod codex;
 mod embed;
 mod http;
 mod keys;
@@ -41,6 +43,7 @@ const NATIVE: &[&str] = &[
     "archive_scene", "wiki_write", "log_ruling", "sync_now", "propose_rule", "handoff", "inbox", "inbox_done",
     "create_character", "update_character", "advance_front", "set_front_clock", "add_front", "pass_time",
     "ledger_add", "ledger_mark", "fire_trigger", "ledger_collect", "npc_set", "session_end",
+    "codex", "codex_check", "stale_names", "scene_brief", "gap_fill", "trello_cards", "scene_text", "timeline", "reconcile", "pack_impact",
 ];
 
 #[derive(Deserialize, Clone)]
@@ -198,6 +201,16 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str) -> Re
                                         arg_list(a, "rulings").unwrap_or_default(), &arg_str(a, "notes", ""), objs("ledger"), objs("fronts"), objs("npcs"), objs("cards"),
                                         arg_list(a, "fired").unwrap_or_default(), arg_int(a, "days", 0), &arg_str(a, "story_date", "")))?
         }
+        "codex" => codex::find(&arg_req(a, "query")?, &arg_str(a, "sheet", ""), arg_int(a, "limit", 8))?,
+        "codex_check" => codex::check(&arg_req(a, "markdown")?)?,
+        "stale_names" => analysis::stale_names(&arg_str(a, "scope", "all"), arg_int(a, "max_files", 60)),
+        "scene_brief" => analysis::scene_brief(&arg_req(a, "beat")?, &arg_str(a, "thread", ""), &arg_str(a, "scene_type", "standard"), &arg_list(a, "characters").unwrap_or_default())?,
+        "gap_fill" => analysis::gap_fill(&arg_req(a, "markdown")?)?,
+        "trello_cards" => analysis::trello_cards(&arg_req(a, "json_path")?, &arg_str(a, "list_name", ""), &arg_str(a, "query", ""))?,
+        "scene_text" => analysis::scene_text(&arg_req(a, "scene")?),
+        "timeline" => analysis::timeline()?,
+        "reconcile" => analysis::reconcile()?,
+        "pack_impact" => analysis::pack_impact(&arg_req(a, "markdown")?, &arg_str(a, "name", "new_pack"))?,
         "verify_scene" => {
             let (culture, school) = (arg_str(a, "culture", ""), arg_str(a, "school", ""));
             let o = verify::Opts {

@@ -377,7 +377,7 @@ fn unknown_names(draft: &str, matched: &HashSet<String>, reg: &Registry) -> Vec<
 
 /// _reversion_map: struck -> governing pairs from the Moto Reversion Ledger, the Canon
 /// Amendment's strike and build/renames.yaml, longest first.
-fn reversion_map() -> Vec<(String, String)> {
+pub(crate) fn reversion_map() -> Vec<(String, String)> {
     let mut pairs = Vec::new();
     let src = std::fs::read_dir(root("sources")).into_iter().flatten().flatten().map(|e| e.path()).find(|p| p.file_name().is_some_and(|n| n.to_string_lossy().contains("Moto_Reversion")));
     if let Some(src) = src {

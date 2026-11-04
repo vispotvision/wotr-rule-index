@@ -219,10 +219,10 @@ fn readout_fig() -> &'static Regex {
 }
 fn quoted() -> &'static Regex { rx!(r#"["“][^"“”\n]*["”]"#) }
 fn italic() -> &'static Regex { rx!(r"(?<!\*)\*(?!\*)([^*\n]+?)\*(?!\*)") }
-fn blade_action() -> &'static Regex {
+pub(crate) fn blade_action() -> &'static Regex {
     rx!(r"(?i)\b(?:bind|half-sword|halfsword|pommel|guard|ward|thrust|cut|feint|parry|riposte|void|cross|edge|flat|crossguard|quillon|point|counter-cut|blade|sword|weight|heel|heels|foot|feet|stance|step(?:s|ped|ping)?)\b")
 }
-fn anatomy() -> &'static Regex {
+pub(crate) fn anatomy() -> &'static Regex {
     rx!(r"(?i)\b(?:jaws?|collarbones?|cheekbones?|throats?|windpipe|necks?|guts?|belly|bellies|groin|knees?|kneecaps?|wrists?|elbows?|shoulders?|hips?|thighs?|shins?|ankles?|teeth|tooth|ribcage|bones?|skulls?|arter(?:y|ies)|veins?|femoral|carotid|clavicle|radius|ulna|humerus|tibia|fibula|patella|scapula|sternum|rib|ribs|vertebra|spine|jugular|subclavian|brachial|aorta|lung|liver|kidney|spleen|diaphragm|tendon|ligament|cartilage|orbit|mandible|maxilla|skull|trachea|larynx|hypovol|haemorrh|hemorrh|shock|Class\s+(?:I|II|III|IV))\b")
 }
 fn strike() -> &'static Regex {

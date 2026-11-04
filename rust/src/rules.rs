@@ -20,8 +20,9 @@ pub struct Rule {
     pack: String,
     section: String,
     pub status: String,
-    summary: String,
-    verbatim: String,
+    pub(crate) summary: String,
+    pub(crate) verbatim: String,
+    pub(crate) title: String,
     amends: Option<Vec<Amend>>,
     supersedes: Option<Vec<String>>,
     notes: Option<String>,
@@ -96,7 +97,7 @@ pub fn fmt(r: &Rule, full: bool) -> String {
 }
 
 /// (rules matching any tag with a wanted status, newest pack first; the unknown tags; the known tags sorted)
-fn select(tags: &[String], status: &[String]) -> Result<(Vec<Rule>, Vec<String>, Vec<String>), String> {
+pub(crate) fn select(tags: &[String], status: &[String]) -> Result<(Vec<Rule>, Vec<String>, Vec<String>), String> {
     let vocab = vocab();
     let bad: Vec<String> = tags.iter().filter(|t| !vocab.contains(*t)).cloned().collect();
     let want: BTreeSet<String> = tags.iter().filter(|t| vocab.contains(*t)).cloned().collect();

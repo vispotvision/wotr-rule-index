@@ -88,6 +88,65 @@ def cases():
     for c in [p.stem for p in (ROOT / "desktop/inventories").glob("*.md")] + ["Nowhere", "kharven"]:
         yield "session_start", {"thread": "the-uncounted", "culture": c}
         yield "scene_menu", {"thread": "the-uncounted", "culture": c}
+    import tempfile
+    sys.path.insert(0, str(ROOT / "build"))
+    import codex as Cx
+    sh = Cx.sheets()
+    qs = ["", "  ", "Pyreveil", "zzzqqq", "ignis", "[Ab]", "12", "3", "Thermal", "Archon", "a", "Cymorath", "Crymorath"]
+    for name, rows in sh.items():
+        for r in rows[1::9]:
+            qs += [str(c) for c in r[:3] if c not in (None, "")][:2]
+    for q in qs:
+        yield "codex", {"query": q}
+        yield "codex", {"query": q, "limit": 3}
+    for sname in list(sh) + ["lists", "Nope"]:
+        for q in ["Pyreveil", "fire", "i", "zzz"]:
+            yield "codex", {"query": q, "sheet": sname, "limit": 50}
+    yield "codex", {"query": "fire", "limit": 0}
+    yield "codex", {"query": "fire", "limit": -2}
+    glyphs = [str(r[0]) for r in sh["Master Glyph Index"][1:12]]
+    spells = [str(r[1]) for r in sh["Spell Index"][1:6] if r[1]]
+    yield "codex_check", {"markdown": "Nothing here."}
+    yield "codex_check", {"markdown": " ".join(glyphs) + " [Zz] [Ab](link) Crymorath Velorath Mistatio proposed Quillantia.\n\n## Notes\n[Qq] Bogusatio"}
+    yield "codex_check", {"markdown": "The " + ", ".join(spells) + " and " + " ".join(glyphs[:3]) + " Pyreveil Cymorath"}
+    yield "codex_check", {"markdown": "A Velorath line, proposed: Velorath.\nThe Mistatio stood."}
+    for sp in sorted((ROOT / "scenes").glob("*.md")) + sorted((ROOT / "lore/v1/scenes").glob("*.md"))[::4] + sorted((ROOT / "wiki/The Magic System").rglob("*.md"))[::7]:
+        md = sp.read_text(encoding="utf-8", errors="replace")
+        yield "codex_check", {"markdown": md}
+        yield "gap_fill", {"markdown": md}
+    yield "gap_fill", {"markdown": ""}
+    yield "gap_fill", {"markdown": "# Head\n\nHe struck. Resonance resonance RESONANCE momentum because so it.\n\nη eta EU coupling Coherence lattice"}
+    for scope in ["all", "wiki", "scenes", "nope"]:
+        for mf in [60, 0, 5, -3, 10000]:
+            yield "stale_names", {"scope": scope, "max_files": mf}
+    chars = ["Sodoku Moto", "Yoko", "zzz-nobody", "Emira"]
+    for st in ["standard", "duel", "battle", "talky", "quiet", "explicit", "working", "nope"]:
+        yield "scene_brief", {"beat": "  A duel at dawn on the ice.  ", "scene_type": st}
+        yield "scene_brief", {"beat": "x", "thread": "the-uncounted", "scene_type": st, "characters": chars}
+    yield "scene_brief", {"beat": "b", "characters": []}
+    tmp = Path(tempfile.mkdtemp(prefix="trello"))
+    board = {"lists": [{"id": "L1", "name": "Characters"}, {"id": "L2", "name": "Places — North"}, {"id": "L1", "name": "Dup List"}],
+             "cards": [{"name": "Sodoku", "idList": "L1", "desc": "A cold   man\nof iron", "labels": [{"name": "PC"}, {"name": "Moto"}], "id": "c1"},
+                       {"name": "Closed one", "idList": "L2", "closed": True, "desc": "gone"},
+                       {"name": "Kharven Docks", "idList": "L2", "desc": "", "labels": []},
+                       {"name": "Orphan", "idList": "L9", "desc": "fire and frost"},
+                       {"name": "Ünïcode Ice", "desc": "Hild Ice, the wall", "closed": 0}],
+             "checklists": [{"idCard": "c1", "name": "Kit", "checkItems": [{"name": "sword"}]}]}
+    (tmp / "board.json").write_text(json.dumps(board, ensure_ascii=False), encoding="utf-8")
+    (tmp / "list.json").write_text(json.dumps([{"name": "A", "desc": "one two"}, "skip", {"name": "B", "labels": [{"name": "x"}]}]), encoding="utf-8")
+    (tmp / "one.json").write_text(json.dumps({"name": "Solo", "description": "the desc here"}), encoding="utf-8")
+    (tmp / "num.json").write_text("42", encoding="utf-8")
+    for f in ["board.json", "list.json", "one.json", "num.json"]:
+        for ln, q in [("", ""), ("char", ""), ("north", ""), ("", "fire"), ("", "ICE"), ("nope", "")]:
+            yield "trello_cards", {"json_path": str(tmp / f), "list_name": ln, "query": q}
+    yield "trello_cards", {"json_path": str(tmp / "missing.json")}
+    yield "trello_cards", {"json_path": "relative/missing.json"}
+    sf = M._scene_files()
+    for p, t in sf:
+        yield "scene_text", {"scene": p.name}
+        yield "scene_text", {"scene": t}
+    for q in ["", "glass", "GLASS_AND_IRONS", "zzz", "it's", 'say "no"', "back\\slash\n", "naiser", "the"]:
+        yield "scene_text", {"scene": q}
     scenes = sorted(p for p in (ROOT / "scenes").glob("*.md")) + sorted((ROOT / "lore/v1/scenes").glob("*.md")) \
         + sorted((ROOT / "desktop/style-bank").rglob("*.md"))
     for p in scenes:

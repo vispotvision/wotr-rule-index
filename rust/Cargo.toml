@@ -23,6 +23,7 @@ tower-http = { version = "0.7", features = ["fs"] }
 ort = { version = "=2.0.0-rc.15", default-features = false, features = ["std", "load-dynamic", "api-24"] }
 unicode-normalization = "0.1"
 tokenizers = { version = "0.22", default-features = false, features = ["onig"] }
+calamine = "0.38.0"
 
 [profile.release]
 lto = "thin"

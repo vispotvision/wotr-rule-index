@@ -72,7 +72,7 @@ fn words(x: &str) -> usize {
 }
 
 /// mcp_server._slug
-fn slug_us(title: &str) -> String {
+pub(crate) fn slug_us(title: &str) -> String {
     let x = rx!(r"[^\w\s-]").replace_all(title, "").trim().to_lowercase();
     let x = rx!(r"[\s_-]+").replace_all(&x, "_").to_string();
     let x = head(&x, 80).to_string();

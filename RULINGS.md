@@ -4013,3 +4013,9 @@ Context: Grounds: R85-18 and R85-22. The price wording and the limits are invent
 tbh most if not all archons are soveriegn across all 3 planes. However some are deemed more powerful that others. Like Uurgath and Urion are unparalleled in fate compared to the other archons since there ideas are inconcievable if you get the idea and the point.
 
 Context: Isaac, 2026-11-05, in chat. Indexed as R85-24. Corrects R85-22 and R85-23 where they read as Archons being Sovereign only on the Plane of Fate.
+
+## 2026-11-05 — new
+
+I think we should also re-write the aether class to fit inside of this new system instead of forcing it to become apart of it I think the class of aether should be more a classifier of how strong your influence and your classifier is when it comes to influence on the physical world. However if we are gonna do it that wasy we might need to give Fate and Spirit classes of there own as well?
+
+Context: Isaac, 2026-11-05, in chat; he approved the three-ladder proposal with "Yes, build them". Indexed as R85-25.

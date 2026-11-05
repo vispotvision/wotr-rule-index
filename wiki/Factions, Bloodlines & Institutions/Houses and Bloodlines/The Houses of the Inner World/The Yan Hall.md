@@ -1,6 +1,5 @@
 ---
 title: The Yan Hall
-private: true
 tags:
   - Bloodlines
 ---

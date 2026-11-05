@@ -1,6 +1,5 @@
 ---
 title: House Marrick
-private: true
 tags:
   - Bloodlines
 ---

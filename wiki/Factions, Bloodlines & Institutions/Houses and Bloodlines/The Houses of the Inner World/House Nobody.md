@@ -1,6 +1,5 @@
 ---
 title: House Nobody
-private: true
 tags: [Bloodlines]
 ---
 

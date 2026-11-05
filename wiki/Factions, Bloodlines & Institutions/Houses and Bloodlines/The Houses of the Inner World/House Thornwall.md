@@ -1,6 +1,5 @@
 ---
 title: House Thornwall
-private: true
 tags: [Bloodlines]
 ---
 

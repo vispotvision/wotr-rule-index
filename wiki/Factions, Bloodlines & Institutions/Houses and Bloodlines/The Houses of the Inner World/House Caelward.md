@@ -1,6 +1,5 @@
 ---
 title: House Caelward
-private: true
 tags: [Bloodlines]
 ---
 

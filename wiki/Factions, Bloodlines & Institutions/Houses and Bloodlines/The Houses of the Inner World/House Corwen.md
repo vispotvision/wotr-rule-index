@@ -1,6 +1,5 @@
 ---
 title: House Corwen
-private: true
 tags:
   - Bloodlines
 ---

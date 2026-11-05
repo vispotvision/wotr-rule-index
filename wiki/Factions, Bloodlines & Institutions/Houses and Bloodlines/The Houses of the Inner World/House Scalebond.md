@@ -1,6 +1,5 @@
 ---
 title: House Scalebond
-private: true
 tags: [Bloodlines]
 ---
 

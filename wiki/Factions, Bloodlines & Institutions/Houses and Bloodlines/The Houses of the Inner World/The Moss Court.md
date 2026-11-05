@@ -1,6 +1,5 @@
 ---
 title: The Moss Court
-private: true
 tags: [Bloodlines]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: House Ryu
-private: true
 tags:
   - Bloodlines
 ---

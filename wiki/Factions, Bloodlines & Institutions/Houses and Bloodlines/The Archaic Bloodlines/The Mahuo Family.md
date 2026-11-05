@@ -1,6 +1,5 @@
 ---
 title: The Mahuo Family
-private: true
 tags:
   - Bloodlines
 ---

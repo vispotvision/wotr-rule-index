@@ -1,6 +1,5 @@
 ---
 title: House Hallenfeld
-private: true
 tags: [Bloodlines]
 ---
 

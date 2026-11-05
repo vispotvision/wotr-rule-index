@@ -1,6 +1,5 @@
 ---
 title: The Houses of the Inner World
-private: true
 tags: [Bloodlines]
 ---
 

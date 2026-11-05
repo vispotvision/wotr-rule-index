@@ -1,6 +1,5 @@
 ---
 title: House Lambert
-private: true
 tags:
   - Bloodlines
 ---

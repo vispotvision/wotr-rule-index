@@ -1,6 +1,5 @@
 ---
 title: House Keld
-private: true
 tags: [Bloodlines]
 ---
 

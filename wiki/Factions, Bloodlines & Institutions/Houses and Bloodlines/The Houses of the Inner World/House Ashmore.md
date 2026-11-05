@@ -1,6 +1,5 @@
 ---
 title: House Ashmore
-private: true
 tags: [Bloodlines]
 ---
 

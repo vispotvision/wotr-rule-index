@@ -1,6 +1,5 @@
 ---
 title: House Stark
-private: true
 tags: [Bloodlines]
 ---
 

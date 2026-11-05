@@ -1,6 +1,5 @@
 ---
 title: House Greymane
-private: true
 tags: [Bloodlines]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: The Valorin Family
-private: true
 tags:
   - Bloodlines
 ---

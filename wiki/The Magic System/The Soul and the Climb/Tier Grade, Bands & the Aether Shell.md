@@ -21,8 +21,8 @@ Three numbers were on that slate, and the crowd had read one.
 
 Level is the count of how many times a Soul Crystal has meaningfully densified. Age has nothing to do with it and neither do training hours. It is the sediment of genuine contact with consequence, counted, compressed, and expressed as a number, and **it moves by danger overcome.** Killing one thing stronger than you moves it more than a hundred weak kills, which has made a science of the last blow, and crews argue over who got the kill long after they have stopped arguing over the money.
 
-The ceiling is **500** for every practitioner below Stage (one of the sixteen rungs of a soul's refinement) XV. This is the structural limit of what a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. Characters below Stage XV who reach Level 500 and continue to accumulate pressure do not advance in level. They begin the Apotheosis approach (the slow crossing from practitioner into living law), a qualitative event outside the scope of numbered progression. **Paragons (the highest standing, Stages XV and XVI) exceed Level 500.** At Stages XV–XVI, Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
-> No character can breach a Band ceiling without first passing the Temperance Threshold (the crisis that refines a soul up to its next Stage) that cluster demands. The System will simply halt the level counter and build pressure, called **Residual Strain**, until the Threshold is passed or the character fractures under the weight.
+The ceiling is **500** for every practitioner below Stage (one of the sixteen rungs of a soul's refinement) XV. This is as much as a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. A soul below Stage XV that reaches Level 500 and goes on taking pressure gets no more Levels for it. It begins the Apotheosis approach (the slow crossing from practitioner into living law), and the Archives stopped trying to put a number on that some time ago. **Paragons (the highest standing, Stages XV and XVI) exceed Level 500**: Level keeps rising past it with no ceiling and no sixth Band, and the Codex declines to number it.
+> Nobody breaches a Band ceiling without first passing the Temperance Threshold (the crisis that refines a soul up to its next Stage) that cluster demands. The Continuum simply halts the counter and goes on building pressure, called **Residual Strain**, until the Threshold is passed or the soul fractures under the weight.
 
 | Band | Levels | Temperance cluster | Gate |
 |---|---|---|---|
@@ -34,18 +34,19 @@ The ceiling is **500** for every practitioner below Stage (one of the sixteen ru
 
 > **Read the last two columns differently.** The **Gate** binds. The **Temperance cluster** describes where practitioners in that Band usually sit and binds nothing.
 >
-> A soul accumulates Level by danger overcome and Stage by Catalyst (an event hard enough to force the next Stage, or the same key handed over in a Draft or a blessing), and the two arrive on unrelated schedules. Nothing stops a practitioner from grinding to the top of Band II at Stage IV if no Catalyst has ever reached them and they cannot pay for one. They will be strong, wrong-shaped, and stopped dead at the gate, and the file will read as an error to anyone who does not understand the difference between the columns.
+> A soul accumulates Level by danger overcome and Stage by Catalyst (an event hard enough to force the next Stage, or the same key handed over in a Draft or a blessing), and the two arrive on unrelated schedules. Nothing stops a practitioner from grinding to the top of Band II at Stage IV if no Catalyst has ever reached them and they cannot pay for one. They will be strong, wrong-shaped, and stopped dead at the gate, and their sheet will read as an error to anyone who cannot tell the two columns apart.
 >
 > The reverse case is the house heir. Stages can be bought, and a soul that takes Catalysts faster than it takes pressure arrives at a high Stage on a thin Level, holding architecture it has not earned the density to fill and with no Release to show for any of it. It clears every gate on this table and is the most common way for a great family's second son to die in his first real fight.
-**Band I** is the era of first contact. The Crystal is porous, receptive, and relatively unformed. Growth here is the fastest in a character's life because the Crystal is still learning the shape of Essence (a soul's own share of Aether, pulled in from the world around it and refined in the Crystal). Practitioners of genuine but bounded power, dangerous to mortals, irrelevant to Archons (the fourteen great powers that embody cosmic law).
 
-**Band II** follows the first genuine encounters with forces larger than the self. The Crystal has begun to show its character, the specific resonance signature that will define this practitioner across every future stage. Techniques cohere. A Domain seed (the first spark of a space where one's own law outranks physics) becomes possible.
+**Band I** is the age of first contact, when the Crystal is porous and half made, and no later years will ever go as fast, because it is still learning the shape of Essence (a soul's own share of Aether, pulled in from the world around it and refined in the Crystal). Everybody on a market street who can warm a kettle is in this Band. They are a real danger to a tavern and a matter of no interest to an Archon (one of the fourteen great powers that embody cosmic law).
 
-**Band III** exercises genuine metaphysical authority. Aura suppresses weaker resonances without effort. Techniques carry the weight of doctrine rather than improvisation. The world responds to their presence before they act.
+**Band II** comes after the first meeting with something a great deal bigger than you. The Crystal starts to show its character, a signature its owner will carry for life, and tricks start to cohere into a style. On the far edge of it, at Stage VII, comes the first flicker of a [[The Magic System/The Soul and the Climb/Domains|Domain]] (a space where one's own law outranks the world's).
 
-**Band IV** has stopped being measured in individual techniques and is measured in how significantly a practitioner's existence reshapes the metaphysical landscape of the space they occupy. Domain becomes law. Crystal density generates passive environmental effects.
+**Band III** is where a room starts doing what it is told. An aura leans on weaker ones with no effort at all, a technique carries the weight of doctrine, and the dogs get up and leave before the visitor has reached the gate.
 
-**Band V** practitioners are cosmological presences. Metaphysical output is measured against Archon and Titan-scale phenomena. Individual combat becomes a secondary concern. The primary arena is the contest of Domains, Principles, and accumulated doctrine pressing against the laws of the Continuum (the whole lawful order of reality) itself.
+**Band IV** has stopped being counted in techniques. It is counted in what a person's being there does to the land around them, the crops and weather and sleep of a valley, and the Domain that had to be held is now simply how things are in that direction.
+
+**Band V** is measured against Archons and Titans. Individual combat has become a side issue, and the serious arena is the contest of Domains, Principles and whole lifetimes of doctrine pressing on the Continuum (the whole lawful order of reality) itself.
 
 ---
 
@@ -53,12 +54,12 @@ The ceiling is **500** for every practitioner below Stage (one of the sixteen ru
 
 ![[Assets/Diagrams/grades.svg]]
 
-Tier Grade is the qualitative bracket that determines what scale of force, phenomenon, or entity a stat can meaningfully engage, resist, or overcome. It is derived from the stat's raw numeric value and confirmed by Temperance Stage. **A stat cannot hold its Tier Grade if the Soul Crystal has not undergone the Threshold required to sustain that density.**
-> **The table measures a Sub-Stat (one of eight finer measures inside each main stat).** The Temperance ceiling and the Path gates (limits set by the Plane a soul's growth leans toward) both bind the Sub-Stat, and every Grade letter in the gate tables and the Resonant Pairs is a threshold on that Sub-Stat's own number.
+A Tier Grade is the letter that says what size of thing a stat can meaningfully hit, hold off or lift. It is read off the stat's number and confirmed by the Stage, and **no stat holds a Grade its Crystal has not crossed the Threshold to carry.** Every child in the four quarters knows the letters, and the bookies quote them like the price of bread.
+> **The table measures a Sub-Stat (one of eight finer measures inside each main stat).** The Stage's ceiling and the Path gates (limits set by the Plane a soul's growth leans toward) both bind the Sub-Stat, and every Grade letter in the gate tables and the Resonant Pairs is a threshold on that Sub-Stat's own number.
 >
-> **A Primary is the combined total of its eight Sub-Stats, and its Grade is read off the mean.** Points are spent on Sub-Stats only; the Primary is the arithmetic afterward. Eight Ardency (the stat for how hard a soul's Essence hits) Sub-Stats totaling 2,400 give a mean of 300 and an A-Grade Ardency, which is the figure a character sheet has always carried on the Primary line. The total is what the sheet records. The mean is what an assessor reads. Full treatment in **Fracture of Worlds**, Parts One to Three and Parts Four to Ten.
+> **A Primary is the combined total of its eight Sub-Stats, and its Grade is read off the mean.** Points go on Sub-Stats only, and the Primary is the arithmetic afterward. Eight Ardency (the stat for how hard a soul's Essence hits) Sub-Stats totaling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records, and the mean is what an assessor reads. Dominion alone divides by seven, because Throne stands outside its total. The full treatment is in [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Fracture of Worlds, Parts One to Three]] and [[The Magic System/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten)|Parts Four to Ten]].
 >
-> **The differential rule.** A character one full Tier Grade above their opponent in the relevant stat wins a direct exchange of that stat category without meaningful contest. **Two Tiers above is overwhelming to the point of one-sided. Three Tiers above means the lower-grade character has stopped fighting a battle and is surviving an event.**
+> **The differential rule.** One full Grade over an opponent in the stat in use wins a direct exchange of that stat without much of a contest. **Two Grades is one-sided. At three, the lower fighter has stopped being in a fight and is surviving an event.**
 
 | Grade | Stat range | Attack output | Travel speed |
 |---|---|---|---|
@@ -76,9 +77,9 @@ Tier Grade is the qualitative bracket that determines what scale of force, pheno
 | **EX** | 1,201 – 1,500 | 1.24 × 10^29 – 6.906 × 10^37 J. Moon to Large Planet, 29.6 exatons – 16.506 ronnatons TNT | Relativistic+, 50% – 100% c |
 | **EX+** | 1,501 and above | 6.906 × 10^37 J and above. Brown Dwarf level and beyond, scaling toward stellar and solar-system scale | FTL and above, beginning at c |
 
-> 💡 **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU (Essence Units, a soul's stored power). **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. Worked end to end, EU to joules to Grade to tons of TNT, in [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
+> **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU (Essence Units, a soul's stored power). **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. It is worked end to end, EU to joules to Grade to tons of TNT, in [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
 >
-> **Within-Tier resolution.** When two characters operate at the same Tier Grade, exchanges are resolved by technique quality, tactical intelligence, positioning, and Sub-Stat architecture. A character at the upper boundary of B-Grade, stat value 275, produces roughly **five times** the Strike Force of one at the lower boundary, stat value 176. Both are B-Grade. The five-fold differential is real and significant but not automatically decisive, because technique architecture, Wellspring (one of the sixty types of Aether and the governing idea it carries, a lens that changes how a soul uses its power, with its own alchemical character and physical law) affinity, and Path bonuses can compress or invert the raw advantage. A Wellspring can highlight and even double a person's natural Essence Typology (the kind of Essence their soul makes on its own), starting small and reaching double only with years of mastery, and that shows up here as a fighter whose row on the table undersells them.
+> **Inside one Grade.** Two fighters on the same letter settle it by technique, wits, position and how their Sub-Stats are built. A fighter at the top of B-Grade, stat value 275, hits roughly **five times** as hard as one at the bottom, stat value 176, and both are B-Grade. That is a real gap and not always a decisive one, because technique, a Wellspring's lens (one of the Sixty, the governing idea that changes how a soul uses its power) and Path bonuses can close it or turn it round. A Wellspring can highlight and even double a person's natural Essence Typology (the kind of Essence their soul makes on its own), starting small and reaching double only with years of mastery, and that shows up here as a fighter whose row on the table undersells them.
 
 ### The Sharp-Blunt Asymmetry
 
@@ -90,15 +91,15 @@ The Continuum tracks total energy for Tier Grade comparison but tracks local pre
 
 ### Overchannel Spikes
 
-> The benchmarks above represent **sustainable** output. Overchannel events, where a character forces their Crystal to produce output above its structurally safe ceiling, can temporarily spike Strike Force and Lifting Strength by factors of **two to five times** the sustainable ceiling, depending on the Ardency Overchannel Sub-Stat's current Grade and the character's tolerance for Crystal Fracture risk.
+> The rows above are **sustainable** output. An overchannel, forcing the Crystal past its safe ceiling, can spike Strike Force and Lifting Strength to **two to five times** that for a moment, depending on the Ardency Overchannel Sub-Stat's Grade and how much Crystal Fracture the fighter is willing to risk.
 >
-> These spikes are not free. Every Overchannel event deposits structural damage that must be healed through rest, alchemical treatment, or Temperance advancement. A character who regularly Overchannels accumulates fracture density that eventually becomes permanent. **Some fractures become architectural features. Most become liabilities.**
+> It always bills. Every overchannel leaves structural damage that must be healed by rest, alchemy or the next Threshold, and a fighter who makes a habit of it builds up fractures that eventually stay. **Some fractures become architectural features. Most become liabilities.**
 
 ---
 
 ## Reaction Speed by Grade
 
-Speed divides into three components: **Attack Speed** (velocity of technique execution), **Reaction Speed** (capacity to perceive and respond to incoming force), and **Travel Speed** (movement velocity across space). All three are influenced by Dexterity Sub-Stats, particularly Celerity, Reflex, and Sequence, but each responds differently to Temperance advancement.
+Speed comes in three kinds: **Attack Speed** (how fast a technique goes out), **Reaction Speed** (how fast a fighter sees it and answers), and **Travel Speed** (how fast they cross the ground). Dexterity Sub-Stats feed all three, Celerity, Reflex and Sequence above all, and each answers differently to the climb.
 
 | Grade | Reaction Speed | Attack Speed |
 |---|---|---|
@@ -109,14 +110,14 @@ Speed divides into three components: **Attack Speed** (velocity of technique exe
 | **C** | 5 – 15 ms | Mach 1.0 – 2.0 |
 | **B** | 1 – 5 ms | Mach 2.0 – 10. Can stand in a volley of bolts and arrows without significant reactive disadvantage |
 | **A** | Sub-millisecond, roughly 0.2 – 1 ms | Mach 10 – 30. Movement generates heat buildup and pressure waves without deliberate technique |
-| **S** | 0.05 – 0.2 ms | Mach 30 – 500. The air itself becomes a weapon; characters below S-Grade Resilience sustain damage from proximity alone |
+| **S** | 0.05 – 0.2 ms | Mach 30 – 500. The air itself becomes a weapon; anyone below S-Grade Resilience takes damage just from standing near it |
 | **SS** | Below 0.05 ms. Biological neural processes insufficient; Essence-mediated sensory routing becomes primary | Mach 500 – 8,740. Passage perceived as an instantaneous event by anyone below S-Grade |
 | **SSS** | Entirely Essence-mediated | 1% – 10% c. Dodging requires SSS Reaction Speed at minimum to register the attack as having occurred |
 | **X** | Combat perceived in Essence-time rather than physical time | 10% – 50% c. Practitioners below SSS cannot perceive, let alone react |
-| **EX** | — | Approaching c. Movement generates relativistic effects causing localized temporal distortion as a byproduct rather than an intention |
-| **EX+** | — | FTL parameters. Movement is Essence-mediated spatial restructuring where distance is subject to Domain authority |
+| **EX** | No figure | Approaching c. Moving at all warps time nearby, as a side effect nobody asked for |
+| **EX+** | No figure | Faster than light. Movement is the Essence rebuilding space, and distance answers to Domain authority |
 
-> **At Zenith, Stage XIV**, speed is no longer assessed by conventional metrics. The Continuum's standard measurement framework requires metaphysical recalibration to register Zenith-level movement as a phenomenon rather than an event. Zenith characters leave light out of it: in the limit case, they exist in all relevant positions simultaneously until they choose otherwise.
+> **At Zenith, Stage XIV**, the Archives stopped measuring speed. A Zenith's movement no longer registers as something happening, and in the limit they stand in every position that matters at once until they decide otherwise.
 
 > **The three-copper bolt.** A crossbow bolt is the cheapest thing in the world that can kill a high-Stage fighter in a room, because it is read by Speed Grade like any other projectile and because reinforcement, the aura coat a fighter trusts to stop it, goes out on anyone asleep, drugged or surprised. Margrave Ulf Stavang, Stage VIII and the terror of three rivers, died at his own daughter's wedding from one bolt out of the musicians' gallery, loosed by a boy paid six coppers, because he was looking at the soup. The Reaction table above promises a reading of the loose. It has never promised that you will be looking.
 
@@ -134,8 +135,8 @@ A normal look shows the Eight Primaries with their Grades, and a Sub-Stat appear
 [Mun Seo-yeon · Level 170 · Stage VI, Glory · Path: Spirit]
 [Human, Sum-gol lineage]
 [Class: Auditor · Tier III, Resonant]
-[Ardency B · Vitality C · Gnosis A · Dexterity A]
-[Harmonics B · Resilience C · Tempering B · Dominion D]
+[Ardency B · Vitality D · Gnosis C · Dexterity C]
+[Harmonics D · Resilience E · Tempering E · Dominion F]
 [Trait: Every Column Balances · Level 44]
 [Skills: Bookkeeping A · Footwork B · Appraisal C · Knife D]
 [Blessings: none]
@@ -150,7 +151,7 @@ And the same window in the middle of things, when it is mostly bad news arriving
 [Reserve: 41%]
 ```
 
-**Life spends most of the points.** What you do raises those stats, and a few points are yours to place at each Stage, which is why a cobbler's son and a duke's son with the same Level read so differently and why a sheet read properly is a biography. **Race and lineage show on the sheet** and shape base stats and what comes easily, and that goes for classes and suitable Wellsprings too. **Skills** rise with use and show as Grades: every practitioner has them, from Footwork to Appraisal to Rendering, and techniques are named things done with them. Drafts, runes, tags and chants are all skills and trades of this kind, open to anyone who will put in the years. **Traits** have their own levels. **Techniques show no level** and take a bigger name when they jump. A **blessing** gets its own line, and since the giver wrote that line, it can lie.
+**Life spends most of the points.** What you do raises those stats, and a few points are yours to place at each Stage, which is why a cobbler's son and a duke's son with the same Level read so differently and why a sheet read properly is a biography. **Race and lineage show on the sheet** and shape base stats and what comes easily, and that goes for classes and suitable Wellsprings too. **Skills** rise with use and show as Grades: every practitioner has them, from Footwork to Appraisal to Rendering, and techniques are named things done with them. Drafts, runes, tags and chants are all skills and trades of this kind, open to anyone who will put in the years, though all but the pouring want a woken Crystal. **Traits** have their own levels. **Techniques show no level** and take a bigger name when they jump. A **blessing** gets its own line, and since the giver wrote that line, it can lie.
 
 **A window speaks only to its owner.** Reading anybody else is the work of a stronger Gnosis Perception against a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake what they show. Instruments read everyone. **Monsters are on the same scale:** a monster has a Level, Grades and a Threat Tier, T1 to T9 like a commission, gains its Levels by killing and changes form at its own thresholds, and a weak reader gets question marks where the numbers should be, usually at the moment it matters most.
 
@@ -170,7 +171,7 @@ Where Temperance measures the refinement of the Essence Core (the Crystal's inne
 
 At thresholds, starting where a Shell first takes a Class, **the soul offers its owner a named class that fits how they have lived.** The name arrives on the window, and it is usually embarrassing: Wallbreaker, Auditor, Ferryman, Gravedigger's Friend, Last Man Standing. It gives abilities, usually skills and an easier road to certain kinds of move, and it shapes what grows fastest from there. Some are shared by thousands, every hedge-rank Wallbreaker in the four quarters having roughly the same shoulders, and some have been held by exactly one person in the history of the Archives.
 
-**It evolves at each tier by how it is lived.** When the Shell climbs, the class is offered again in a form chosen from what the person actually did with the last one, so two Auditors at Class II can come out at Class III as a Reckoner and a Debt Collector, and a soul with a false account of itself will find the window declining to share that account. The ladder below, Dormant through Absolute, is the class's tier, and every η figure on it stands as written: the name changes, and the share that arrives follows the Shell.
+**It evolves at each tier by how it is lived.** When the Shell climbs, the class is offered again in a form chosen from what the person actually did with the last one, so two Auditors at Class II can come out at Class III as a Reckoner and a Debt Collector, and a soul with a false account of itself will find the window declining to share that account. The ladder below, Dormant through Absolute, is the class's tier, and from the first class at Glory that tier sets η (eta, the share of each spend that arrives as effect): the name changes, and the share that arrives follows the Shell.
 
 **The one wild concept stays the person's own.** A class is what the soul says about a life. A concept is what the person decided to do about it, and the class gets no vote on that: a Stage VII Auditor may well fight with soup. Cooks and Measurewrights will both tell you the two sometimes lean together, and the songs mix them up constantly.
 
@@ -262,17 +263,17 @@ Crystallized is not a State. Self-as-law belongs to the Crystallized Soul tier a
 
 Nobody's reserve refills out of thin air, thin air being precisely the trouble. A practitioner pulls Aether from the environment around them, refines it in the Soul Crystal into Essence, and drives it out through the Shell, so where you stand matters: rich ground fills you faster and thin ground starves you. The scholar's term for the richness is Aetheric Density, and a sect that holds a rich valley will fight for it like a fair crowd holding the good bench. A Wellspring site, a Core in common speech (no relation to the Essence Core inside the Crystal), mostly lies at the heart of a dungeon. A worked Core is a dungeon someone cleared and now holds: it recharges and has keepers, and its keepers can close it. The old counter to anybody with a large reserve and a long fight ahead of them is therefore to take the fight off rich ground and onto salted, bled or thin ground, and let the figures below do the work.
 
-| **EU · Essence Units** | The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Scales with Temperance Stage. A practitioner operating below ten percent EU suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering. |
+| **EU · Essence Units** | The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Set by Level and capped by Stage. A practitioner operating below ten percent EU suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering. |
 |---|---|
 | **Flux Density · EU/g** | The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output taken from the same reserve. |
-| **AU/s · Aether Units per second** | The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. Governed by Ardency Flux, Ardency Alacrity, and Tempering Yield. **AU/s = Flux Density × η** |
-| **Eta · η · Efficiency** | The ratio of Essence spent to Essence that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat**, because it determines how long the reserve lasts under continuous output. Governed by Aether Class, Tempering Clarity, and Ardency Compression. |
+| **AU/s · Aether Units per second** | The rate a practitioner spends at full output. Governed by Ardency Flux, Ardency Alacrity, and Tempering Yield. **AU/s = Flux Density × η**, and the power that actually lands is **AU/s × η**. So η counts twice, on purpose: once for how much the Shell can move, and once for what survives the trip. |
+| **Eta · η · Efficiency** | The share of Essence spent that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat.** At full output a higher η empties the reserve faster, and for the same delivered effect it makes the reserve last longer, which is the whole of what happened to the Barn. Governed by Aether Class, Tempering Clarity, and Ardency Compression. |
 
 None of these four figures appears on a window. They are how assayers and scholars do the sums, and the owner sees only the bar, the percentage and the shake in their own hands.
 
 ### Efficiency by Tier of Standing
 
-*Read by the fighting guilds' Stage table.*
+**Which ladder to read.** From the first class at Glory, the Aether Class tier sets η, and the table below is two other things: the figure for the unclassed at Stages I to V, and a field average above them, what the fighting halls expect of a stranger at that Stage before anyone has read him. A read Class overrides it, and a registered card's own figure governs its holder. So a Stage VI Clerk with a Class III Shell runs 0.90 to 0.95, whatever the Expert row says, and a Radiant Shell at Stage VIII runs above 1.0 while the Master row reads 0.70 to 0.80.
 
 | Tier | η | What changed |
 |---|---|---|
@@ -286,23 +287,18 @@ None of these four figures appears on a window. They are how assayers and schola
 | **8 · Archmaster** · Principality to Zenith | 0.95 – 1.2 | Biomes carry the practitioner's doctrine. Above 1.0 the practitioner produces more coherent output than they spend. Nobody is getting free energy: the Continuum is recognizing their expression as law and supplementing it with ambient flow. **The environment becomes a co-author.** |
 | **9 · Paragon** · Revelation to Apex | above 1.2, unbounded | No figure has been measured. The lettered scale has no rung here, and the Archives leave the gap open rather than fill it with a guess. |
 
-> **Efficiency at Splintering to Refraction.** Tier 5, Expert reads η 0.60 to 0.70 at Stages V to VII, thirty to forty percent loss, the same band the Aether Class table gives **Class I Muridic**.
->
-> *Both describe how much of a working survives the trip out through the Shell. Both are reproduced as written. Neither has been withdrawn.*
-
 ---
 
 ## Domains
 
-> *"When belief holds, the world begins to answer."*
-A Domain is a space where a character's inner law becomes local reality, the moment the Attraction Layer claims territory on the Plane of Fate (the plane of Attraction Force and Obsession Force and the workings of reality itself, where what is possible can be moved) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as the Domain is sustained.
-> Domains are consequences of sufficient Temperance, Dominion (the stat of presence and authority over space) Sub-Stat development, and Aether Class clarity. No technique stands in for one, and a character does not choose to deploy a Domain the way they choose to throw a punch. **A Domain forms because the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent.**
->
-> **Anyone at Stage VIII can have one, their own concept made real,** and fame, rivalries and bounties follow it around. A bought Stage VIII has the weight and none of the finding: sects teach the road to a Domain, and money does not. A Domain fills its owner's window with its name and what changed, and a timer bar drains. The two-Grade boost cap stands inside it; only outside help goes past.
+A Domain is a space where a soul's own law outranks the world's, and it has [[The Magic System/The Soul and the Climb/Domains|a page of its own]]. The short of it, since people will ask: a soul grows one by living, and the [[The Magic System/The Soul and the Climb/Release Forms|Second Release]] opens and powers it, by name, called aloud. The Stage grants it and a Grade never does. Dominion (the stat of presence and authority over space) and the Shell's clarity decide how wide it runs and how steady it stands. Anyone at Stage VIII can have one, a bought Stage VIII has the right and none of the finding, and the two-Grade boost cap stands inside it.
 
 | Stage | What the Domain is |
 |---|---|
-| **VII · Refraction** | Domain seed activation. The first fragile, flickering territory. Lasts minutes rather than hours. Requires active concentration. Collapses if attention fractures. The seed is the Attraction Layer's first territorial claim. |
-| **VIII · Transcendence** | The Domain stabilizes. A piece of the lattice accepts the soul's signature permanently. Can be held for hours and survives minor disruption. This is where the first true Domain forms. |
-| **IX – X · Invocation to Realization** | The Domain consolidates into a Realm capable of holding other Domains. Pacts, artifacts, and law begin to imprint on terrain. The Domain becomes a reality the Continuum must accommodate. |
-| **XI – XII · Dissonance to Emanation** | Passive Domain effects leak without active maintenance. Traits become local physics. The Domain transitions from a deliberate expression to an ambient consequence of existing. |
+| **The Threshold into VII** | The flicker. A one-time burst of the person's own Trait, usually seconds long, with no Release under it. |
+| **VII · Refraction** | The seed. With a Second Release the flicker can be called back and held for minutes. It collapses if attention breaks. |
+| **VIII · Transcendence** | The first true Domain, held for hours and steady under small disruption. |
+| **IX – X · Invocation to Realization** | The Catalyst into IX is a first flicker of a Realm, and the Third Release makes one: a field that can hold other fields. Pacts, artifacts and law set into the terrain. |
+| **XI – XII · Dissonance to Emanation** | Its effects leak with nobody holding them. Traits become local physics, and the Domain has turned from something done into something that simply is the case. |
+
+*Read next: [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]], for what an owner actually sees of all this, and [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]], for the name on the Shell.*

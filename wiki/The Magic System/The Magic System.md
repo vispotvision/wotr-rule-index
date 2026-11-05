@@ -3,7 +3,6 @@ title: The Magic System
 tags:
   - Magic System
   - Reference Table
-  - Open Rulings
 ---
 
 ![[Assets/Paintings/magic.webp]]
@@ -24,7 +23,7 @@ Everything in this section is in that story. She could not argue with the number
 >
 > *"You call Temperance a buff. It is a confession of how much you have survived."*
 >
-> **Where the numbers live.** Everything on this page is the account. The arithmetic underneath it is **Fracture of Worlds — The Living System**, filed at the foot of this section in twenty-two Parts across eight pages. Bands and Temperance Gates, the Tier Grade thresholds, the Sub-Stat ceiling per Stage, all sixty-four Path gates, Threshold Catalysts, Resonant Pairs, Strike Force and Durability benchmarks, Aether Class efficiency, the η table, Domain costs.
+> **Where the numbers live.** Everything on this page is the account. The arithmetic underneath it is **[[The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System|Fracture of Worlds — The Living System]]**, filed at the foot of this section in twenty-four Parts across ten pages. Bands and Temperance Gates, the Tier Grade thresholds, the Sub-Stat ceiling per Stage, all sixty-four Path gates, Threshold Catalysts, Resonant Pairs, Strike Force and Durability benchmarks, Aether Class efficiency, the η table, Domain costs.
 >
 > Read it when a value is in question, not before. This page tells you what the system is. Fracture of Worlds tells you what the number has to be.
 
@@ -87,7 +86,7 @@ Newcomers ask how to learn a spell. The question is malformed. Workings are buil
 
 ## The Eight Primaries
 
-Eight Primary Stats, eight Sub-Stats beneath each, sixty-four values in total. **A Primary is the combined total of its eight Sub-Stats.** Points are spent on the grain, most of them by the life a person leads and a few placed by choice at each Stage; the category is the arithmetic afterward. The Temperance ceiling and the Path gates bind the Sub-Stat, and a Primary's Grade is read off the mean. Two characters at identical Primary totals can be radically different practitioners because their distributions tell different stories, and a specialist can read modest on an assessor's ledger while three Sub-Stats at the ceiling do the actual work.
+Eight Primary Stats, eight Sub-Stats beneath each, sixty-four values in total. **A Primary is the combined total of its eight Sub-Stats**, with one exception: Dominion's Throne sits outside the total, so Dominion is read over seven. Points are spent on the grain, most of them by the life a person leads and a few placed by choice at each Stage; the category is the arithmetic afterward. The Temperance ceiling and the Path gates bind the Sub-Stat, and a Primary's Grade is read off the mean. Two characters at identical Primary totals can be radically different practitioners because their distributions tell different stories, and a specialist can read modest on an assessor's ledger while three Sub-Stats at the ceiling do the actual work.
 
 | Primary | What it measures | Plane |
 |---|---|---|
@@ -112,14 +111,14 @@ Sub-Stats are gated behind Path commitment. A Path is the direction advancement 
 
 **Spirit Path** · perception, inscription, clarity, processing. Gates most of Gnosis and much of Tempering's refinement architecture.
 
-**Attraction Path** · bond, recognition, reach, sovereignty. Gates nearly all of Harmonics and the majority of Dominion.
+**Attraction Path** · bond, recognition, reach, command. Gates nearly all of Harmonics and the majority of Dominion.
 
-**Fate Path** · the high gates. Persistence, Continuity, Ceiling, Fate, Throne. Almost nothing on Fate Path unlocks below Stage V, and its terminal Sub-Stats do not open below Stage XIII.
+**Fate Path** · the high gates. Persistence, Continuity, Ceiling, Sovereignty, Fate, Throne. Almost nothing on Fate Path unlocks below Stage V, and its terminal Sub-Stats do not open below Stage XIII.
 > ***The three-and-four question, settled.*** *The Physical Force chapter names three Paths and the gate tables name four, and both are correct.* **Fate carries no force**, so it takes no line in a table of force modifiers, and its absence there is a fact about force rather than a fact about Paths.
 >
-> The deeper difference is how commitment is recognized. **Body, Spirit and Attraction are demonstrated by routing Essence.** Fate gates Persistence, Continuity, Ceiling, Stability, Fate and Throne, none of which concern output at all, **so Fate commitment is recognized by what a soul refuses to let end.** No drill produces it and no instructor assigns it.
+> The deeper difference is how commitment is recognized. **Body, Spirit and Attraction are demonstrated by routing Essence.** Fate gates Persistence, Continuity, Ceiling, Sovereignty past A, Stability on Wellspring-absent ground, Fate and Throne, none of which concern output at all, **so Fate commitment is recognized by what a soul refuses to let end.** No drill produces it and no instructor assigns it.
 >
-> *Which is why the Measurewrights read it as a late-tier extension. It arrives on time, and it stays invisible until somebody has held something long enough for the holding to count.* **Full treatment in The Four Paths.**
+> *Which is why the Measurewrights read it as a late-tier extension. It arrives on time, and it stays invisible until somebody has held something long enough for the holding to count.* **Full treatment in [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]].**
 
 ---
 
@@ -128,21 +127,21 @@ Sub-Stats are gated behind Path commitment. A Path is the direction advancement 
 A window is the soul reporting its numbers to its owner, in the owner's own tongue, and no one else can see it. Scholars argue about who built it. It comes in short blocks, fights included, for damage, skill gains and reserve, and it shows Grades, percentages, bars and levels, while EU, AU/s and η stay with the instruments and the notes. A normal look gives the sheet:
 
 ```
-[Corra Vell · Human · Level 196 · Stage VII, Refraction]
+[Corra Vell · Human · Level 196 · Stage VII, Refraction · Path: Body]
 [Class: Yard Breaker · Muridic]
-[Vitality A · Ardency A · Gnosis C · Dexterity B]
-[Harmonics C · Resilience B · Tempering B · Dominion C]
+[Vitality B · Ardency B · Gnosis D · Dexterity C]
+[Harmonics E · Resilience D · Tempering D · Dominion E]
 [Reserve: 100% ▓▓▓▓▓▓▓▓▓▓]
 [Trait: Bank the Fire, Level 41]
 [Skills: Hammerwork A · Tracking B · Bargaining D]
 [Blessing: none]
 ```
 
-**The sheet.** Race and lineage show on it and shape base stats and what comes easily. The Eight Primaries show with Grades, and a Sub-Stat appears when it is used or when it moves; the full set remains to study.
+**The sheet.** Race and lineage show on it and shape base stats and what comes easily. The Eight Primaries show with Grades, read off the mean of their Sub-Stats, so a working fighter's sheet reads lower than her fists: Corra's Flux and Fortitude stand well above that B. A Sub-Stat appears when it is used or when it moves; the full set remains to study.
 
 **Skills** rise with use and show as Grades. Drafts, runes, tags and chants are skills and trades like any other. **Traits** stay as filed in their Four Reflections and their laws, and each one carries a level that rises with use and grows with overall Level and skill. **Techniques** are named things done with a skill. They show no level and take a bigger name when they jump.
 
-**Aether Class.** At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves at each tier by how it is lived. The ladder on file (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute) stays as its tier, and all its η law stands. The one wild concept stays the person's own.
+**Aether Class.** At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves at each tier by how it is lived. The ladder on file (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute) stays as its tier, and all its η law stands: from the first class at Glory, the tier sets η. The one wild concept stays the person's own.
 
 **Level** moves by danger overcome. Killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
 
@@ -154,17 +153,17 @@ A window is the soul reporting its numbers to its owner, in the owner's own tong
 
 The Catalyst was for a long time the Accord's favorite argument that the ladder was fair. Drafts and blessings can supply one, and everybody with a vault has always known it. Stages can be bought, the great houses hoard the top Drafts, and a coil at a noble's wedding reads like a ledger of the family's holdings. The poor rise by dungeon luck, guild patronage and blessings, and the great houses lose more sleep over one commoner with a monster core than over any rival.
 
-Money stops at the door it opens. Sects teach what it cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. A rich Stage IX may have no Release at all while a poor fighter at the same Stage has all three. Anyone at Stage VIII can have a Domain, their own concept made real, once the Second Release that opens it has been found. The two-Grade boost cap stays, and only outside help goes past it.
+Money stops at the door it opens. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so there money buys the attempt and not the seat. Sects teach what it cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. A rich Stage IX may have no Release at all while a poor fighter at the same Stage has all three. Anyone at Stage VIII can have a [[The Magic System/The Soul and the Climb/Domains|Domain]], their own concept made real, once the Second Release that opens it has been found. The two-Grade boost cap stays, and only outside help goes past it.
 
-A monster's core is in a way its Soul Crystal, worth more the stronger the monster, and an alchemist renders it into the Essence Drafts used for tempering. Swallowed raw it gives everything at once, and most who try die or come out wrong. A Crystal cut from a dead practitioner makes the strongest Draft of all, the worst crime in every realm and the most profitable. Monsters themselves level by killing, evolve and share the Level and Grade scale, and dungeons grow down in floors around a Core, alive and learning, with something guarding the heart. The Bestiary has the rest.
+A monster's [[Materials, Alchemy & Trade/Alchemy/Monster Cores|core]] is in a way its Soul Crystal, worth more the stronger the monster, and an alchemist renders it into the Essence Drafts used for tempering. Swallowed raw it gives everything at once, and most who try die or come out wrong. A Crystal cut from a dead practitioner makes the strongest Draft of all, the worst crime in every realm and the most profitable. Monsters themselves level by killing, evolve and share the Level and Grade scale, and dungeons grow down in floors around a Core, alive and learning, with something guarding the heart. [[The Bestiary/The Bestiary|The Bestiary]] has the rest.
 
 ---
 
 ## Fate and Blessings
 
-The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths and is more tied to blessings. Fate Arts are rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Hataraki can take back or remove a blessing, which is a good part of why that bloodline is feared.
+The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths, where it is small and anyone's to use (see [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]), and it is more tied to blessings. Fate Arts are rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Hataraki can take back or remove a blessing, which is a good part of why that bloodline is feared.
 
-A blessing grants a power out of a person's natural reach, even in Level. It need not go through Fate, but most do. Higher spirits, Archons, Epochs and people of higher Temperance give them, because they are spiritually stronger, and a great giver spends almost nothing. Epochs and Archons act rarely, and it shakes the world. A blessing is listed on the sheet as its own line and can lie, because the giver wrote the line. A curse is often a blessing with terms you did not read.
+A blessing grants a power out of a person's natural reach, even in Level. It need not go through Fate, but most do. Higher spirits, Archons, Epochs and people of higher Temperance give them, because they are spiritually stronger, and a great giver spends almost nothing. Epochs and Archons act rarely, and it shakes the world. A blessing is listed on the sheet as its own line and can lie, because the giver wrote the line. A curse is often a blessing with terms you did not read. See [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]].
 
 ---
 
@@ -187,7 +186,7 @@ Every Family has a terminal failure state. The early symptoms are indistinguisha
 
 ## Entries
 
-The section is filed in six shelves and a workbook. Each shelf has its own page; the reading order runs down this list.
+The section is filed in six shelves and a workbook. Each shelf has its own page, and each shelf ends by pointing at the next. This list is the reading order, the one that visits everything. [[Start Here]] and First Steps offer short routes through it for readers in a hurry.
 
 ### I · [[The Magic System/First Steps/First Steps|First Steps]]
 
@@ -196,7 +195,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 - [[The Magic System/First Steps/How Magic Works|How Magic Works]]: The whole system in brief, for a newcomer: the soul and its windows, Wellsprings as lenses, Traits and skills with their levels, classes, Stages for sale, monster cores and dungeons, guild titles, gear, Fate and blessings.
 - [[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]]: Every number a practitioner, a monster or a piece of gear is read by, what it decides, and one fighter read on all of them, window included.
 - [[The Magic System/First Steps/One Exchange, Annotated|One Exchange, Annotated]]: A single exchange between two fighters, with every rule that decided it marked and each fighter's windows shown as a worked example.
-- [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]]: The words. Nothing else here is readable without them.
+- [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]]: The words. The first three pages explain each one as it comes; this is where they are kept, and it stays open beside everything after.
 
 ### II · [[The Magic System/The Foundations/The Foundations|The Foundations]]
 
@@ -205,7 +204,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 - [[The Magic System/The Foundations/The Physical Account Two Sets of Books|The Physical Account: Two Sets of Books]]: What a working is. Two complete descriptions of every event, both true, and where the energy actually comes from.
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]]: The laws being conditioned. Read the hub, then whichever Family you need.
 - [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|The Master Glyph Index — 136 Attested Forms]]: The boundaries imposed on those laws.
-- [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|The Descent of Parun — The Fourteen Hands]]: The fourteen ways of writing a boundary down, and what each one changes. Its child, **The Counted Speech**, is why almost nobody says it aloud.
+- [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|The Descent of Parun — The Fourteen Hands]]: The fourteen ways of writing a boundary down, and what each one changes. Its child, **[[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun|The Counted Speech]]**, is why almost nobody says it aloud.
 
 ### III · [[The Magic System/The Soul and the Climb/The Soul and the Climb|The Soul and the Climb]]
 
@@ -220,6 +219,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 - [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]]: What your soul thinks you are, and what it hands you for it.
 - [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]]: What rises by doing it, and the few points that are yours to place.
 - [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]]: The First, Second and Third Release: the soul's law let off its limit in a learned shape.
+- [[The Magic System/The Soul and the Climb/Domains|Domains]]: The seed, the true Domain and the Realm: a space where one soul's law outranks the world's, how it is called, and how fields clash.
 - [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]]: What all of the above looks like from outside.
 
 ### IV · [[The Magic System/Power in Use/Power in Use|Power in Use]]
@@ -236,11 +236,12 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 
 *Who may practice, where their capacity came from, what they are called, how they are trained, and what the practice is set against.*
 
-- [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]: Why nearly everyone carries a Crystal and almost nobody is taught to wake it.
+- [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]: Why nearly everyone carries a Crystal, why about one in ten is taught to wake it, and who holds the door on the rest of the lesson.
 - [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]: Where a practitioner's capacity came from, and why the institutions cannot agree.
 - [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title: Guild Titles as Trust]]: The nine titles every guild shares, what each one lets a stranger hand you, and the two other names you carry.
 - [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]]: Schools, disciple ranks, seclusion and the tournament ladder.
 - [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]]: What a thumb grants, how the line on your window lies, and who can take it off again.
+- [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]: Small Fate, anyone's to make: what a vow buys, what breaking one does, and the one day the law sleeps.
 - [[The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts|Who Pays for the Lamp: The Living Crafts]]: How a city's magic really gets done: lamp-wardens, ward-cutters, hedge-workers and Guild craftsmen, paid by the job, who can strike, overcharge or refuse.
 - [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current — Wellspring Encounter and Recovery]]: What happens to a body that meets a Wellspring without meaning to.
 - [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica: Extraction Without Recognition]]: The practice everything above defines itself against.
@@ -249,7 +250,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 
 *Consulted rather than read. The Field Manual is author-facing: how magic is written, not what magic is.*
 
-- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories — Unified Taxonom]]: Reference. Consulted rather than read.
+- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories: Unified Taxonomy]]: Reference. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]: Every term, defined. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]: The trade words of lamp-wardens, assayers and glasshouses, carried over into the metaphysical case.
 - [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]: Author-facing. How magic is written rather than what it is.
@@ -258,6 +259,8 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 
 *The stat framework itself: a reference you open with a specific question already in hand.*
 
-> **How to use it.** *Statting a character*: open **I** for the point economy, then **II** for the ceiling their Stage permits and the Path gates on their Sub-Stats. *Writing a fight*: **II** for the Grade differential, **III** for what the strike actually does to masonry and bone. *Writing a working*: **V** for the Wellspring's stat effect, **VII** for how much of it survives the Shell. *Writing advancement*: **VI** for the Catalyst the Crystal is waiting on. *Writing a Domain*: **VIII**.
+> **How to use it.** *Statting a character*: open **I** for the point economy, then **II** for the ceiling their Stage permits and the Path gates on their Sub-Stats. *Writing a fight*: **II** for the Grade differential, **III** for what the strike actually does to masonry and bone. *Writing a working*: **V** for the Wellspring's stat effect, **VII** for how much of it survives the Shell. *Writing advancement*: **VI** for the Catalyst the Crystal is waiting on. *Writing a Domain*: **VIII**. *Pricing a working in joules*: **IX**. *Reading gear, a beast or a Commission on its ladder*: **X**. The Sub-Stats themselves are **IV**.
 
-> **Elsewhere in the wiki.** The named arts live under **The Disciplines.** The material register lives under **Materials, Alchemy & Trade.** Monsters and their cores are under **[[The Bestiary/The Bestiary|The Bestiary]]**, with **[[The Bestiary/Dungeons|Dungeons]]** beside them. Item Grade, Rarity and Master Works are in **[[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]**. *The Apprentice's Primer, the in-world first reader that condenses this entire section for a newly registered practitioner, sits under In-World Documents.*
+> **Elsewhere in the wiki.** The named arts live under **[[The Disciplines/The Disciplines|The Disciplines]].** The material register lives under **[[Materials, Alchemy & Trade/Materials, Alchemy & Trade|Materials, Alchemy & Trade]].** Monsters and their cores are under **[[The Bestiary/The Bestiary|The Bestiary]]**, with **[[The Bestiary/Dungeons|Dungeons]]** beside them. Item Grade, Rarity and Master Works are in **[[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]**. *[[In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered|The Apprentice's Primer]], the in-world first reader that condenses this entire section for a newly registered practitioner, sits under [[In-World Documents & the Narrative Archive/In-World Documents & the Narrative Archive|In-World Documents]].*
+
+*Back to [[Start Here]].*

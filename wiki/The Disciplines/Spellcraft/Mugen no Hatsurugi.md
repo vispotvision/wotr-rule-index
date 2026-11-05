@@ -4,7 +4,7 @@ title: The Infinite First Blade
 
 # THE INFINITE FIRST BLADE (無限の初剣 · Mugen no Hatsurugi) (Mnemata, with Vectra for the delivery)
 
-*Scholars' term: Mugen no Hatsurugi. The art is bodily, read as Magicraft, and lives on this shelf by old filing.*
+*Scholars' term: Mugen no Hatsurugi. The art is bodily speaking, and lives on this shelf by old filing.*
 
 > The town crier at Ogawara gives the count of its blades as fifty-three. The song says eighty-one. The minstrels of the southern road have it at a hundred and eight and a soup ladle, and the armorers' guild once tried to bill its bearer per arrival for the wear on their marks, and lost, because every one of those blades had been paid for or properly won. Nobody who has seen it agrees on anything but this: he did not draw it. It was in his hand, and it had always been in his hand, and you were the one who had got that wrong.
 
@@ -77,7 +77,7 @@ The failure is no precedent: an exchange the ledger has never met gets an empty 
 
 **Category** · Mnemata primary (Anamnesis's natural partner category, memory and historical-imprint law given a working body), Vectra secondary for the delivery itself.
 
-**Craft** · Magicraft. The projection is bodily rather than spoken, written, or poured.
+**Skill** · Bodily speaking. The projection is carried in the body rather than said aloud, written, or poured, and it holds while the body does.
 
 **Stage floor** · Stage X, Realization, matching its bearer's attested Temperance Stage.
 

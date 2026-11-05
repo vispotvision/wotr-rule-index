@@ -52,7 +52,7 @@ Ardency governs not what the body can do, but what Essence can do when the body 
 
 **Depth** — How deeply the caster synchronizes with an active Wellspring, how unmistakably the working carries that Wellspring's qualitative character, and whether two Wellspring qualities can be held in one expression without resonance conflict. Whether you are borrowing from a Wellspring or speaking its language. *Absorbs Saturation and Duality.*
 
-**Penetration** — Capacity to pierce defensive fields, Soul Crystal wards and metaphysical barriers. High Flux with low Penetration hits like a padded wall.
+**Penetration** — Capacity to pierce defensive fields, Soul Crystal wards, metaphysical barriers and worked armor, where a strike is read on this Grade against the piece's proof; plain armor fights by its kind. High Flux with low Penetration hits like a padded wall.
 
 **Compression** — The degree to which raw Aether is refined before release. Same destruction, less cost, and less signature: a compressed working is quieter in the Aether and harder to identify before it lands. *Absorbs Radiance.*
 

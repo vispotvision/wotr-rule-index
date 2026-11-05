@@ -2,7 +2,7 @@
 title: The Treason of Every Gift
 ---
 
-# THE TREASON OF EVERY GIFT (Synergia, a self-derived Spellcraft art)
+# THE TREASON OF EVERY GIFT (Synergia, a self-derived spoken art)
 
 *Scholars' term: Antinomy.*
 
@@ -74,11 +74,13 @@ The dialectical school holds that a demonstrable thesis and antithesis mean the 
 
 **Family** · Limina primary, Spatium secondary.
 
-**Physics Domain** · Error-correcting redundancy and destructive interference (Limina) crossed with resonant coupled-oscillator exchange (Spatium).
+**Physics Domain** · Entropy, Void and Mind, primary; Spatial Geometry, secondary.
+
+**Phenomenon** · Error-correcting redundancy and destructive interference (Limina) crossed with resonant coupled-oscillator exchange (Spatium).
 
 **Category** · Synergia.
 
-**Craft** · Spellcraft; the two-finger gesture holds only while the practitioner's attention holds it, and produces no chant, no sigil, no inscription.
+**Skill** · Speaking, gestured; the two-finger gesture holds only while the practitioner's attention holds it, and produces no chant, no sigil, no inscription.
 
 **Stage floor** · XI, Dissonance.
 
@@ -88,7 +90,7 @@ The dialectical school holds that a demonstrable thesis and antithesis mean the 
 
 ### FOW line
 
-Governing Primary Harmonics and Gnosis, per Limina's Stat Affinity, with Dominion from Spatium; Sub-Stats Harmonics Suppression, Gnosis Cognition, Dominion Sense, Resilience Nullity and Warding from Oblivara. Stage floor XI, Dissonance. Grade SS. Path gate Attraction, dominant. No Resonant Pair documented.
+Governing Primary Harmonics and Gnosis, per Limina's Stat Affinity, with Dominion from Spatium; Sub-Stats Harmonics Suppression, Gnosis Cognition, Dominion Sense and Resilience Persistence from Oblivara. Stage floor XI, Dissonance. Grade SS. Path gate Attraction, dominant. No Resonant Pair documented.
 
 ### Origin
 

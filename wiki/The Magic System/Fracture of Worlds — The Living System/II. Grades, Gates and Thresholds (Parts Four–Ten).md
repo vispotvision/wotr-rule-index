@@ -17,7 +17,7 @@ Tier Grade is the qualitative bracket that determines what scale of force, pheno
 
 Grades use real-world energy equivalents drawn from physical TNT yield benchmarks and speed measurements. When two characters clash, who wins a contested exchange is answered first by Tier Grade differential, then by technique and tactical intelligence, then by Soul Crystal architecture.
 
-**One full Tier Grade above** an opponent in the relevant stat wins a direct exchange of that stat category without meaningful contest. **Two Tiers above** is overwhelming to the point of one-sided. **Three Tiers above** means the lower-grade character is not engaging in a battle, they are surviving an event.
+**One full Tier Grade above** an opponent in the relevant stat wins a direct exchange of that stat category without meaningful contest. **Two Grades above** is overwhelming to the point of one-sided. **Three Grades above** means the lower-grade character is not engaging in a battle, they are surviving an event.
 
 ### Where the Grade Sits
 
@@ -25,7 +25,7 @@ The table below measures a **Sub-Stat's** raw value, and the Temperance ceiling 
 
 A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totaling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads, and a contested exchange is decided by the Grade of the Sub-Stat actually in use. See I. Levels, Experience and Stat Points for the point economy.
 
-Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets. The owner's window reads in these letters, and the raw value stays for study.
+Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at, and a specialist's favorites may stand a bracket or more above the mean. The owner's window reads in these letters, and the raw value stays for study.
 
 A Primary is dragged down by its neglected entries as hard as it is lifted by its favorites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak.
 
@@ -47,7 +47,7 @@ A Primary is dragged down by its neglected entries as hard as it is lifted by it
 | EX | 1,201–1,500 | 1.24×10^29 – 6.906×10^37 J | 50–100% c |
 | EX+ | 1,501+ | 6.906×10^37 J and above | FTL and above |
 
-**Hollow.** The unawakened baseline. No genuine contact with Essence. Output indistinguishable from ordinary mortal capacity. Most characters have already left it before they enter the System.
+**Hollow.** The unawakened baseline. No genuine contact with Essence. Output indistinguishable from ordinary mortal capacity. The System counts it all the same: a baker at Hollow keeps a Level, a Baking skill and a little sheet, with no Essence on it until waking.
 
 **F.** First resonance contact has occurred. The Soul Crystal has opened. Technique nascent, Essence output barely controlled, but no longer fully mortal in potential.
 
@@ -55,15 +55,15 @@ A Primary is dragged down by its neglected entries as hard as it is lifted by it
 
 **D.** Technique coherence established. Multi-step Aetheric expressions without collapse. Wall level, 0.005 tons TNT at the ceiling.
 
-**C.** The journeyman tier. Intermediate-complexity techniques supported. Domain seeds (first roots of a space where the practitioner's law overrides local law) structurally possible though not stable. Small Building to low Building, 0.005 to 0.25 tons TNT.
+**C.** The journeyman tier. Intermediate-complexity techniques supported. Dominion at this Grade has the density a Domain (a space where the practitioner's law overrides local law) will one day stand on, though the Stage grants a Domain and a Grade never does: a seed flickers at the Threshold into Refraction, a true Domain comes at Transcendence. Small Building to low Building, 0.005 to 0.25 tons TNT.
 
-**B.** Aura begins generating passive environmental pressure. Presence felt before techniques land. Domain architecture active rather than potential. Building to Large Building, 0.25 to 11 tons TNT.
+**B.** Presence felt before techniques land. An unwoken crowd has felt the weight in the room since C; between the woken, Pressure runs on the Stage gap and Dominion, as Part Eleven sets out. Building to Large Building, 0.25 to 11 tons TNT.
 
-**A.** Sovereign practitioner tier. Domain live and law-bearing. City Block to Multi-City Block, 11 to 1,000 tons TNT.
+**A.** Sovereign practitioner tier. A Domain held at this Grade, from Stage VIII on, is live and law-bearing. City Block to Multi-City Block, 11 to 1,000 tons TNT.
 
-**S.** Legend-class entry. Full-output techniques register at natural-disaster and large-scale military detonation level. Aura suppresses B-grade and below passively. Small Town to Town, 1 to 5.8 kilotons TNT.
+**S.** Legend-class entry. Full-output techniques register at natural-disaster level. Aura suppresses B-grade and below passively. Small Town to Town, 1 to 5.8 kilotons TNT.
 
-**SS.** Continental threat entry. Full-output events measured against major geological disruptions. A Domain at this level begins reshaping its local environment rather than merely existing within it. Town to Large Town, 5.8 to 100 kilotons TNT, the lower range of nuclear yields.
+**SS.** Continental threat entry. Full-output events measured against major geological disruptions. A Domain at this level begins reshaping its local environment rather than merely existing within it. Town to Large Town, 5.8 to 100 kilotons TNT.
 
 **SSS.** Small-country scale destructive equivalence. Domain law can override localized Wellspring behavior within its territory. Full-power expression is a regional metaphysical event. Large Town to Small Country, 100 kilotons to 1 teraton TNT.
 
@@ -77,11 +77,11 @@ At **Zenith, Stage XIV**, speed and attack output are no longer assessed by conv
 
 ## Part Five — Temperance Gates and Stat Ceilings
 
-Temperance Stage functions as a hard ceiling on every Sub-Stat in the system, and a Primary's mean therefore cannot exceed it either. A character cannot allocate their way past a ceiling their Soul Crystal cannot structurally sustain. Throne alone carries no ceiling. The Crystal must have undergone the corresponding Threshold Event before it can hold a stat at the grade above.
+Temperance Stage functions as a hard ceiling on every Sub-Stat in the system, and a Primary's mean therefore cannot exceed it either. A character cannot allocate their way past a ceiling their Soul Crystal cannot structurally sustain. Throne alone carries no ceiling. The Crystal must have undergone the corresponding Threshold Event before it can hold a stat at the grade above. The ceiling binds what a Crystal holds to stay. A transient boost (a vow, a Release, a Draft, a strain lift) passes it lawfully inside the two-Grade cap, which is read from the sustainable Grade on the sheet, and outside help adds no risk unless it is forced on someone; a blessing counts as outside help.
 
 The Max Grade column binds allocation: a Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket. At Stages V, VII, IX and XI the Sub-Stat ceiling sits above that bracket, and the band between them, 276 to 350, 401 to 475, 551 to 625, 726 to 750, is the instability zone, reachable only under strain, never by allocation.
 
-Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed. This is a stat dragged past a Threshold nobody has crossed. A Draft or a blessing that supplies the Catalyst crosses the Threshold itself, and Part Eight sets out the terms.
+Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade to stay, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed. This is a stat dragged past a Threshold nobody has crossed. A Draft or a blessing that supplies the Catalyst crosses the Threshold itself, and Part Eight sets out the terms.
 
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ Thresholds are not achieved by accumulating enough experience. They are triggere
 
 A character can be quantitatively eligible for months of in-world time and never pass a Threshold because the Catalyst has not occurred. The road to the Catalyst differs: some meet it in crisis, some work toward it in seclusion, some are driven to it by tribulation, and most by a mixture of the three.
 
-**The fourth road is money.** A Draft or a blessing can supply a Catalyst, and it simply works, so Stages can be bought, and the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts. The poor rise by dungeon luck, guild patronage and blessings, and a blessing may carry a person further than any of those, since it grants a power out of their natural reach, even in Level. **A bought Stage opens the door and no more.** The ceiling lifts, and nothing the events below would have taught comes with it. A Release must still be found and mastered by fighting, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. Veterans will tell you they can feel a bought Stage inside two exchanges, and they say so at the top of their lungs, usually to the person who bought it.
+**The fourth road is money.** A Draft or a blessing can supply the Catalyst for any Stage, and it simply works, so Stages can be bought, and the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts. The poor rise by dungeon luck, guild patronage and blessings, and a blessing may carry a person further than any of those, since it grants a power out of their natural reach, even in Level. **A bought Stage opens the door and no more.** The ceiling lifts, and nothing the events below would have taught comes with it. A Release must still be found and mastered by fighting, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. Veterans will tell you they can feel a bought Stage inside two exchanges, and they say so at the top of their lungs, usually to the person who bought it.
 
 Stage I counts as a Threshold worth 100 points. Every practitioner starts with it. The events below are the transitions as a soul lives them, and each grants the Stage number multiplied by 100 on the terms of Part Three, whichever way the Catalyst arrived.
 
@@ -190,15 +190,15 @@ Stage I counts as a Threshold worth 100 points. Every practitioner starts with i
 
 **III to IV, Flourishing.** Formation of the first genuine Spirit Axis, a bond with another soul that carries mechanical weight in the Harmonics system.
 
-**IV to V, Splintering.** Surviving contact with an entity or force more than two full Tiers above the character's current ceiling. Not defeating it, surviving it. The Crystal fractures along emotional lines.
+**IV to V, Splintering.** Surviving contact with an entity or force more than two full Tier Grades above the character's current ceiling. Not defeating it, surviving it. The Crystal fractures along emotional lines.
 
 **V to VI, Glory.** The self burns bright and is noticed. Willingly accepting genuine soul-cost to preserve something the character values above their own structural integrity. The peak of the inner phase.
 
-**VI to VII, Refraction.** Dual sight. The soul sees itself from outside. First Domain seed activation, however fragile or small. Projected fields become coherent.
+**VI to VII, Refraction.** Dual sight. The soul sees itself from outside. First Domain seed activation, however fragile or small: a one-time flicker of the person's own Trait at the Threshold, which needs no Release. The Second Release, open from this Stage, is what later lets a seed be called and held. Projected fields become coherent.
 
-**VII to VIII, Transcendence.** The world is read as symbol. Resolving a core internal contradiction documented in the Soul Crystal's fracture record, a wound carried as structural damage and consciously processed into architecture. The first true Domain forms.
+**VII to VIII, Transcendence.** The world is read as symbol. Resolving a core internal contradiction documented in the Soul Crystal's fracture record, a wound carried as structural damage and consciously processed into architecture. From this Stage a true Domain can be grown by living and called aloud.
 
-**VIII to IX, Invocation.** Calling on Wellsprings, Titans, or Archonic law as co-authors of expression. The practitioner consolidates their Domain into a Realm capable of holding other Domains.
+**VIII to IX, Invocation.** Calling on Wellsprings, Titans, or Archonic law as co-authors of expression. The practitioner's Domain throws a first flicker of a Realm capable of holding other Domains, once, at the Threshold, on the same terms as the seed. The Third Release, open from this Stage, is what makes a Realm.
 
 **IX to X, Realization.** Truth as lived consequence. The world answers back. Pacts, artifacts and law imprint on terrain. The Domain becomes a reality the Continuum must accommodate.
 
@@ -208,7 +208,7 @@ Stage I counts as a Threshold worth 100 points. Every practitioner starts with i
 
 **XII to XIII, Principality.** Achieving Domain coherence sufficient for the Continuum to formally register a law the character embodies. A local force of nature. First World Spirit threshold. Biomes carry doctrine.
 
-**XIII to XIV, Zenith.** The character's accumulated doctrine becomes recognizable to a Hollow Throne (the empty seat of a dead Archon). The Throne resonates with them. The transition is not a breakthrough. It is recognition. Full World Spirit. Reality acclimates to the character. Story becomes physics.
+**XIII to XIV, Zenith.** The character's accumulated doctrine becomes recognizable to a Hollow Throne (the empty seat of a dead Archon). The Throne resonates with them. The transition is not a breakthrough. It is recognition, and a Throne must recognize a buyer too, so here money buys the attempt and not the seat. Full World Spirit. Reality acclimates to the character. Story becomes physics.
 
 **XIV to XV, Revelation.** Genuine exchange with an Archon or Titan at a level where the character is a participant rather than a witness or a casualty. The first step of the Apotheosis approach.
 
@@ -237,6 +237,6 @@ The System has two structural enemies: grinding and stagnation. Both are penaliz
 
 **Grinding** is countered by the **Crystal Adaptation Rule**. Any threat or stimulus type engaged more than five times without meaningful variation to the character's technique or the threat's composition is reclassified internally as **Familiar**. Familiar stimuli yield ten percent of their original XP value, permanently, for that character. The only way to restore value is to approach it with a genuinely novel technique or under genuinely novel conditions the Crystal registers as a different category of experience.
 
-**Stagnation** is countered by **Residual Strain** accumulation. Every fifty levels spent above a Band ceiling without passing the required Temperance Threshold imposes a five percent penalty to all XP gains and a two percent increase to all Overchannel and Backlash risk values. This pressure builds continuously.
+**Stagnation** is countered by **Residual Strain** accumulation. Every fifty levels' worth of XP accrued at a halted Band ceiling without passing the required Temperance Threshold imposes a five percent penalty to all XP gains and a two percent increase to all Overchannel and Backlash risk values. This pressure builds continuously.
 
 It dissolves entirely the moment the Threshold is passed. On dissolution the character receives a **Strain Release Bonus** equal to thirty percent of all XP accumulated during the stagnation period, delivered as a single Resonant Surge. The System is not punishing patience. It is representing the physical truth of a soul carrying the weight of what it has already earned but not yet integrated. That weight has texture. That texture eventually becomes pain. And then, when the character meets the Catalyst Condition or can afford someone who bottled it, it becomes power.

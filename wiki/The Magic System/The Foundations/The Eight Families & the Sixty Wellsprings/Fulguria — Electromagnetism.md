@@ -14,9 +14,9 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Fulguria reads a room, a wound or a lie before it finishes forming. One of these six brings that reading forward: a little at first, and after years of mastery up to double, so that the same glance at the same Grade carries twice the knowing and a blow finds twice the precision. Another Typology can take them too, at a higher Essence cost and with a rougher result, and Fulguria's own will tell you how rough, at length and uninvited. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
-**Stat Affinity** · *Gnosis (Perception, Acuity, Analysis, Diagnosis, Cognition, Cartography) · Dexterity (Celerity, Burst, Silence) · Dominion (Reach, Acuity)*
+**Stat Affinity** · *Gnosis (Perception, Acuity, Analysis, Cognition) · Dexterity (Celerity, Feint) · Dominion (Sovereignty, Sense)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -34,9 +34,11 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Mechanism** · Every element absorbs and emits at wavelengths fixed by its own electron structure, and no substance can present another's spectrum. Judicium tunes Gnosis to that principle: the practitioner reads the characteristic lines of a Crystal, a technique, or a lie, and identifies composition from signature alone. Eddy-current inspection finds the crack under the paint without removing the paint.
 
-**Stat Effect** · Strengthens Gnosis Acuity, Analysis, Diagnosis. The mind becomes a scalpel. Judicium practitioners read weakness the way literate people read text.
+**Stat Effect** · Strengthens Gnosis Acuity and Analysis. The mind becomes a scalpel. Judicium practitioners read weakness the way literate people read text.
 
-**Failure** · Spectral overload. Every object in view reports its composition simultaneously and the practitioner loses the ability to prioritize any of it.
+**Glyph** · `[Sel]` Measure, `[Ur]` Balance, `[Ar]` Accord, `[Krn]` Crown, `[IrW]` Will, `[Ed]` Edgetruth, `[Edt]` Edict, `[Exile]` Exile, `[NmEl]` Name-Eater, `[Flm]` Judic Flame; attested on twelve more.
+
+**Failure** · Spectral overload. Every object in view reports its composition simultaneously and the practitioner loses the ability to prioritize any of it. Overdriven past the point where a reading's back-action outruns what it reads, the read stops being nondestructive and starts to adjudicate, which can turn away force or at the very top end a life, and having no aperture it takes the reader's own memory in the same stroke.
 
 ## Aurevane · *The Wellspring of Light*
 
@@ -52,9 +54,11 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Mechanism** · Two points are resolvable only when their diffraction patterns separate, and coherent light holds a fixed phase relationship across its whole front, which is what separates a true beam from a bright lamp. Aurevane raises both figures at once. What the practitioner perceives resolves finer, and what they express leaves the Shell in phase, meaning the output matches the intent with almost no distortion introduced in transit.
 
-**Stat Effect** · Strengthens Gnosis Perception, Vigilance, Harmonics Fidelity. What you see becomes truer. What you express becomes more accurate.
+**Stat Effect** · Strengthens Gnosis Perception, Vigilance, Harmonics Attunement. What you see becomes truer. What you express becomes more accurate.
 
-**Failure** · Glare. Coherent output is also a beacon, and Aurevane practitioners are the easiest people in any engagement to locate.
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+
+**Failure** · Glare. Coherent output is also a beacon, and Aurevane practitioners are the easiest people in any engagement to locate. Pushed too hard it turns on its own optics: past the Shell's damage threshold the coherent front burns the conduit it leaves by, and the eyes go first.
 
 ## Cymorath · *The Air of Ascent*
 
@@ -70,7 +74,9 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Mechanism** · A charged particle in a field does not choose a direction. Its path falls out of the cross product of its own velocity and the field it moves through. Cymorath gives the practitioner that reading of space: a set of gradients in place of a set of positions, each with a magnitude and a direction, so that movement becomes a question of which vector is already available rather than which one must be forced.
 
-**Stat Effect** · Strengthens Dexterity Celerity, Burst, Gnosis Cartography. The body reads space as a language of vectors and opportunities.
+**Stat Effect** · Strengthens Dexterity Celerity, Gnosis Perception. The body reads space as a language of vectors and opportunities.
+
+**Glyph** · No clean primary. The Codex still seats `[FrTh]` FrostThrone and `[ObsG]` Obsidian-Glacier here, a leftover from when frost was filed under this name; Cymorath is the Air of Ascent and frost belongs to Vohrin (see the note on [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria]]). Attested on four more.
 
 **Failure** · Drift. The practitioner follows the available gradient rather than the intended line, and arrives somewhere efficient that is not where they meant to be.
 
@@ -86,9 +92,11 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Analogue** · Metallic bonding. The delocalized electron sea.
 
-**Mechanism** · A metal is strong, conductive, and ductile for one reason: its valence electrons belong to the lattice rather than to any atom in it. Nothing is individually owned, so the structure deforms without fracturing and carries charge without resistance. Orrenthal imposes that bonding character on the Crystal. The Measurewrights note without embarrassment that the Wellspring's moral reading and its physical reading are the same reading.
+**Mechanism** · A metal is strong, conductive, and ductile for one reason: its valence electrons belong to the lattice rather than to any atom in it. Nothing is individually owned, so the structure deforms without fracturing and carries charge with little resistance. Orrenthal imposes that bonding character on the Crystal. The Measurewrights note without embarrassment that the Wellspring's moral reading and its physical reading are the same reading.
 
 **Stat Effect** · Strengthens Vitality Constitution, Resilience Integrity, Tempering Maturity. Moral density that the Crystal recognizes as structural reinforcement.
+
+**Glyph** · `[Chw]` Choir, `[Br]` Bridge; attested on three more.
 
 **Failure** · Intergranular corrosion. Attack proceeds along the boundaries rather than the body, and the structure fails at its seams while its bulk remains sound.
 
@@ -106,7 +114,9 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Mechanism** · Most of the spectrum is not available to the eye, and most of what matters is happening there. Luminalis extends perception past the visible band and gives the Shell a polarizing behavior: incident observation is filtered out at the boundary rather than absorbed, and light that strikes past the critical angle does not leave at all. Seeing and hiding turn out to be the same optical operation run in opposite directions.
 
-**Stat Effect** · Strengthens Gnosis Perception, Dexterity Silence. The practitioner sees what hides and learns to hide what they reveal.
+**Stat Effect** · Strengthens Gnosis Perception, Dexterity Feint. The practitioner sees what hides and learns to hide what they reveal.
+
+**Glyph** · `[Lum]` Light, `[Ie]` Perception, `[Sar]` Reflection, `[Vei]` Depth, `[Oc]` Oculus, `[Dn]` Dawn; attested on nine more.
 
 **Failure** · Birefringence. The Shell splits its own output into two paths with different velocities, and complex workings arrive out of phase with themselves.
 
@@ -124,6 +134,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Mechanism** · Long wavelengths travel enormous distances, penetrate what shorter ones cannot, and carry the oldest signals in existence. Resolution at that scale comes from separating two small instruments by a continental baseline and reconciling their phase, and a larger instrument would not help. Abyntheus expands the practitioner's conceptual aperture by the same trick, letting a mortal Crystal engage phenomena whose scale should render them illegible.
 
-**Stat Effect** · Strengthens Dominion Reach, Acuity, Gnosis Cognition. The conceptual ceiling expands to engage Archon-tier and Principle-level phenomena.
+**Stat Effect** · Strengthens Dominion Sovereignty, Sense, Gnosis Cognition. The conceptual ceiling expands to engage Archon-tier and Principle-level phenomena.
+
+**Glyph** · `[Ab]` Abyss, `[Abys]` Deep, `[Let]` Tide; attested on three more.
 
 **Failure** · Baseline decoherence. Hold the two ends of the perception apart too long and they lose phase lock, and what returns is noise the practitioner is nonetheless convinced is a signal.

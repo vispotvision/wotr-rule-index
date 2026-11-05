@@ -75,11 +75,13 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 
 **Family** · No single Family; Limina through Mirithane.
 
-**Physics Domain** · Vibration and resonance: modal decomposition and the noise floor.
+**Physics Domain** · Entropy, Void and Mind, through Mirithane.
+
+**Phenomenon** · Vibration and resonance: modal decomposition and the noise floor.
 
 **Category** · Harmonia (Spirit and Attraction), with Crystalia and Mnemata supporting.
 
-**Craft** · Spellcraft, held in receptive rather than projective mode; it lapses when attention breaks.
+**Skill** · Speaking, held in receptive rather than projective mode; it lapses when attention breaks.
 
 **Stage floor** · Refraction
 

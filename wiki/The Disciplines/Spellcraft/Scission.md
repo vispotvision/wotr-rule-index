@@ -25,7 +25,7 @@ The physics is solvation, one thing dissolving into another. Two bound things ar
 
 There is a hard limit in that arithmetic. The entropy of mixing is about two hundred times too weak to break a covalent bond, so cross-linked bonds refuse, and the separation runs only where heat of bonding does the work, as in ionic and van der Waals bonds. A warning to readers of old copies: this page once said the rite raises the entropy of the bound configuration above that of the two parts held apart, and then concluded that separation was preferred, which does not follow, since if the bound state had the higher entropy nothing would separate. What the mechanism needs is the opposite, and what Dissolution's own register actually says: the rite must raise the free energy of the bound configuration relative to the separated pair, or equally lower the pair's, which is what supplying a solvent does. Dissolution's register is about why a solid dissolves into a solvent, and an old copyist carried the sentence across while reversing what counted as "mixed."
 
-Dissolution, the Unbinding Stream (Limina), is the Aether doing the work: the mixed state has more disorder than the separated one, so shedding what no longer serves is nearly effortless, and it strengthens Resilience Severance and Tempering Processing. Three more Wellsprings are read against it as the law, permanence and memory triad. Judicium (Fulguria) reads composition from signature and locates the interface. Fixatio (Materia) sets the barrier height, both reference and weakness. Anamnesis (Limina) supplies what the bond used to be. The glyph is Edge (Thalen) for the interface, laid under Measure (Urion) for the diagnosis that locates it, and the same pair serves against four laws: Trait from soul, Essence from body, memory from identity, Wellspring from host. The boundary that moves is the free energy of the bound state against the separated one, at one interface, while a seed site makes the cheaper state reachable; the bond itself is left alone.
+Dissolution, the Unbinding Stream (Limina), is the Aether doing the work: the mixed state has more disorder than the separated one, so shedding what no longer serves is nearly effortless, and it strengthens Resilience Ward and Tempering Maturity. Three more Wellsprings are read against it as the law, permanence and memory triad. Judicium (Fulguria) reads composition from signature and locates the interface. Fixatio (Materia) sets the barrier height, both reference and weakness. Anamnesis (Limina) supplies what the bond used to be. The glyph is Edge (Thalen) for the interface, laid under Measure (Urion) for the diagnosis that locates it, and the same pair serves against four laws: Trait from soul, Essence from body, memory from identity, Wellspring from host. The boundary that moves is the free energy of the bound state against the separated one, at one interface, while a seed site makes the cheaper state reachable; the bond itself is left alone.
 
 The steps are fixed and a missing one fails the rite outright. Intention names the cut. Space holds the chamber below saturation. Circle is the vessel's wall. Offering is a reagent. Invocation states the condition. Catalyst is the seed site. Seal closes against the warrant that opened it. All three layers of the Essence are involved: the Essence Core is cut from, the Attraction Layer holds the bonds and harmonizations a Wellspring-from-host cut works on, and the Aether Shell takes the backlash through Resilience Ward. Developmental Tier at the floor is Harmonic.
 
@@ -72,11 +72,13 @@ Wellspring · **Dissolution**, the Unbinding Stream (primary); Judicium, Fixatio
 
 Family · **Limina**: Entropy, Void and Mind.
 
-Physics Domain · Entropy and phase behavior (solvation).
+Physics Domain · Entropy, Void and Mind.
+
+Phenomenon · Entropy and phase behavior (solvation).
 
 Category · **Ritus** (Spirit-Aligned).
 
-Craft · **Spellcraft** (a spoken and ceremonial working; Chantcraft's older choir-form folds into this).
+**Skill** · Speaking (a spoken and ceremonial working; the older choir-form, sung by a chanting choir, folds into this).
 
 Stage floor · **Stage VI, Glory**.
 

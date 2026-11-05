@@ -85,11 +85,11 @@ A merchant above his title is a merchant selling on somebody else's. Every port 
 |---|---|---|
 | Weapon (melee) | the hit a working adds | Attack output band |
 | Projectile, bolt, arrow | speed, and the hit | Attack Speed and Attack output |
-| Armor, ward, shield | what it stops: a strike at or below its Tier's Grade | Attack output band, stamped as the proof-mark |
+| Armor, ward, shield | what it stops: a strike whose Penetration reads at or below its Tier's Grade | the striker's Ardency Penetration Grade, against the proof-mark |
 | Focus, staff, instrument | the working it can channel without failing | the channeler's Grade, capped at the item's |
 | Relic with a standing effect | the effect's strength | the table the effect uses |
 
-**Armor's Tier is its proof.** Proofed harness stops a strike in the D output band and below. The mark states the Tier, the house that tested it and the test. **A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.**
+**Armor's Tier is its proof.** A strike against worked armor is read on the striker's Ardency Penetration Grade against the proof, whatever force sits behind it: high Flux with low Penetration hits like a padded wall, and the harness holds while the man inside takes the bruise. Proofed harness stops a strike of D Penetration and below. The mark states the Tier, the house that tested it and the test. **A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.** Plain armor has no proof and fights by its kind.
 
 ## What an Item Costs to Make
 
@@ -102,11 +102,11 @@ Costs are paid out of the maker's reserve (1 EU = 1 MJ):
 | Proofed armor | 25% of the maker's reserve, once | until struck by a strike two Tiers above its proof |
 | Relic | the maker's whole reserve, once, and a spell of Essence Starvation after | permanent while its material holds |
 
-**A practitioner can equip themselves but cannot equip an army.** An Apprentice maker (Stage II, reserve about 0.56 EU) can prepare about ninety enhanced bolts from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armor, or one relic.
+**A practitioner can equip themselves but cannot equip an army.** A Stage II maker (reserve about 0.56 EU) can prepare about ninety enhanced bolts from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armor, or one relic.
 
 ## Hide, Bone and Scale
 
-Monster parts make gear, and the best gear going is monster gear, because something spent a long life and a great many other animals growing that scale. A part goes to the bench as a material like any other. On the day it comes off the carcass it assays at about the monster's Threat Tier, the T1 to T9 danger grade a commission carries, so a T5 beast's plates hold what Aethersteel holds and a T7 drake's hide is where Drakehide Steel gets its name. Then it starts to fall, because a part begins losing grade from the moment the animal stops, and the whole beast trade is an argument with decomposition. Crews have run a wyvern's wing-leather forty miles in a sack of snow on the understanding that the runner keeps a share and his feet are his own affair.
+Monster parts make gear, and the best gear going is monster gear, because something spent a long life and a great many other animals growing that scale. A part goes to the bench as a material like any other. On the day it comes off the carcass it assays at the beast's own Grade and Level on the coil, so an A-Grade beast's plates hold what Aethersteel holds and a drake that reads SS is where Drakehide Steel gets its name. The trade says all this in Threat Tiers, the T1 to T9 danger grade a commission carries, and for most beasts that is close enough, a T5 beast's plates and a T7 drake's hide being the common way to put it. Where the T comes from what a beast does and not what it is made of, the coil wins, and a Lamp-drinker's hide does not hold what its Gold Sigil promised. Then it starts to fall, because a part begins losing grade from the moment the animal stops, and the whole beast trade is an argument with decomposition. Crews have run a wyvern's wing-leather forty miles in a sack of snow on the understanding that the runner keeps a share and his feet are his own affair.
 
 The old law sits on top of it without any exception. **The maker's title still caps the stamp**, so a T7 scale in a Journeyman's hands makes a Tempered coat with an extremely handsome surface. What the material gives for nothing is its plain toughness, since a hide that turned spears on the living animal goes on turning them whether a working is in it or not.
 

@@ -68,11 +68,13 @@ The failure is a boundary fault. Against a deposit that is not unpaid the law do
 
 **Family** · Limina (Anamnesis); Vitalia (Mortalis, Contrition); Vectoria (Fractura); Materia (Monolithion); Fluxia (Oblation).
 
-**Physics Domain** · Progressive collapse: load redistribution through a structure, with failure starting at an existing flaw.
+**Physics Domain** · Entropy, Void and Mind (Anamnesis); Biochemistry (Mortalis, Contrition); Mechanics (Fractura); Material Science (Monolithion); Fluid Dynamics (Oblation).
+
+**Phenomenon** · Progressive collapse: load redistribution through a structure, with failure starting at an existing flaw.
 
 **Category** · Ritus
 
-**Craft** · Spellcraft, held by attention with no material anchor; it lapses the moment the practitioner is killed or Silenced.
+**Skill** · Speaking, held by attention with no material anchor; it lapses the moment the practitioner is killed or Silenced.
 
 **Stage floor** · Refraction
 

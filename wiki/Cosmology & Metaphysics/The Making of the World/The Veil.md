@@ -24,7 +24,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Cost** · Essence priced by the ground: a Baseline crossing is 2 percent of full reserve, a Thin zone half to 1 percent, a Thick zone 5 to 20 percent. Every crossing also adds Soul Drift, which never comes back.
 
-**Limit** · No controlled operation below Refraction, no entry into the Soul Plane or Plane of Fate, only the threshold, and the body is left behind every time. Nobody seals a significant rupture alone.
+**Limit** · No controlled operation below Refraction. The crossing art gives no entry into the Soul Plane or Plane of Fate, only the threshold, and it leaves the body behind every time; the rare road that takes the body is at the foot of this page. Nobody seals a significant rupture alone.
 
 **Counter** · Thick ground or a city; Silence, wards and anti-Harmonia fields; harm to the unattended body, since a crossing cannot be aborted fast.
 
@@ -40,7 +40,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Category** · Harmonia for Bifold Perception and crossings; rupture containment is Concordia work.
 
-**Craft** · Spellcraft, with the chain held internally from Refraction.
+**Skill** · Thread-singing, with the chain held internally from Refraction.
 
 **Stage floor** · Refraction
 
@@ -162,10 +162,36 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Tell** · A practitioner visibly handling two perceptual grammars at once; on a crossing, an unattended body exactly where it was. Drift has no tell at any one crossing; only the count of entries reads it. A rupture's tell is Echo Beasts.
 
-**Limits** · No controlled operation below Refraction; no solo rupture sealing; no entry into the Soul Plane or Plane of Fate, only the threshold; cost set by where the practitioner stands; the body left behind every time.
+**Limits** · No controlled operation below Refraction; no solo rupture sealing; for the crossing art, no entry into the Soul Plane or Plane of Fate, only the threshold, and the body left behind every time; cost set by where the practitioner stands.
 
 **Fails against** · Thick ground or a city; Silence, wards and anti-Harmonia fields; harm to the unattended body, since a crossing cannot be aborted fast; repeated lawful reasons to cross, each one counted in Drift.
 
 **Carried** · Anyone ever carried through a crossing is already counting Drift, told or not; a soulguard cannot decline a soul.
 
 **Look up** · The Veil entry's Access and Perception gates and Thin, Thick and Rupture structure; the Drift scale; Transference's Failure in the Spatium entries; the Silence Realm register; records of how often a practitioner has gone in.
+
+---
+
+## The Bodily Road
+
+Everything above is the crossing art, and the crossing art leaves the body in the chair. The world is wider than the art. The planes can be entered by the living, in the flesh, rarely and at a high price, and the Guild keeps a short roll of those who did it beside a much longer one of those who set out.
+
+Ysolde Carrow is the entry every clerk knows. She was a thread singer of Realization standing with a coat of plum and silver and the highest fee in the Rose Coils, and in 668 a grain widow paid her nine hundred gold to go down to the bottom of a Whirlpool and fetch back a drowned son, in person, since a word was no use to her. Six men held the rope. It went slack in the fourth hour. Carrow walked up the stair eleven months later by the hall's book and eighty-eight minutes later by her own count, in the same coat, holding the cut end, at ninety-one points of Drift on a scale that stops at a hundred. She has not tasted salt since, and she cannot say which hand she writes with. She gave back the nine hundred. The son is still where he was, because the dead stay dead, and no one on either roll has ever brought one home by this road.
+
+**Three roads are on the roll.**
+
+- **Thin ground at its worst.** A mass-death site or a worn ritual ground where the wall has come so close that a whole person can be pushed through it, on a rare night, at a place nobody has learned to choose.
+- **The bottom of a deep dungeon.** The Deeps of an old [[The Bestiary/Dungeons|dungeon]] thin the Veil and the Heart thins it further, so whoever has killed their way that far stands nearer another plane than any singer in a gilded chair. The Well's law holds the door, and what guards the Heart generally stands in it.
+- **A high-Stage art.** A handful of arts, taught in no hall, carry the body where the crossing art carries only the awareness. The roll credits them to people at Emanation and above, the floor for carrying others, and it lists each one by owner and by what became of the owner.
+
+**Why it costs what it costs.** It is the same coupling on a far worse account. Transmission falls exponentially with what has to pass, and a whole body, with all its weight and the Crystal seated in it, is a great deal more to pass than an awareness and a shift of Essence. Nobody has ever found this to be a harder crossing. It is a different order of expense, and no reserve makes it cheap.
+
+**The price.**
+
+| What it takes | How it lands |
+|---|---|
+| **Reserve** | The way in spends as a Thick crossing at its worst, and there is no Aether to pull on the far side, since Aether is the Physical Plane's medium. You have what you walked in with |
+| **Drift** | A body on the far side counts as sustained liminal entry from the first step: 3 points, then 1 a minute, and it never comes back. Ninety-seven minutes makes a Veil Pilgrim, with no chair to come back to |
+| **The clock** | The far side keeps its own hours. A traveler may come home to a dead spouse, a sold house and an arrears notice |
+| **The body** | Flesh has no standing on the Soul Plane, where what a thing is counts as where it stands, or on the Plane of Fate, where the odds are the ground. Something is always left there, and the window does not always say what |
+| **The neighbors** | A body going through a wall strains it. A traveler can strike a rupture on the way out or on the way home, and the Echo Beasts are a bill the nearest town pays |

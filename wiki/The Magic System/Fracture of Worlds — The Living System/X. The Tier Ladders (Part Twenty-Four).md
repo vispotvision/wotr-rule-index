@@ -18,7 +18,7 @@ The rung says what the thing can break. The modifiers say how long you will be i
 
 **Monsters climb.** They move and live across the whole Inner World, beasts and beast-like animals more widely still, and the Scourge of Hell is only the one area known for extremely dangerous ones. A monster gains Levels by killing and changes form at its own thresholds, and it stands on the same Level and Grade scale as a person. A strong enough Gnosis reads it like anyone else, and a weak reader gets question marks in the window, `[Wyvern · Level ??? · Grade ?]`, and is well advised to take the hint. Commissions grade monsters T1 to T9, and a famous one earns a name, an epithet and a bounty, at about which point the odds boards take an interest.
 
-**The core and the parts.** A monster's core is in a way its Soul Crystal, worth more the stronger the monster. It is the lawful Crystal Draw of The Standing Index: an alchemist renders it into Essence Drafts used for tempering, with Creature-Sourced potency and the risk of Identity Contamination (the source's nature coming through in the drinker). Swallowed raw it gives everything at once, and most who try die or come out wrong. Monster parts make gear. A Crystal cut from a dead practitioner makes the strongest Draft of all, the worst crime in every realm and the most profitable, and it is why Class IV of the Index has never balanced. Some of what is sold as monster core came out of people.
+**The core and the parts.** A monster's core is in a way its Soul Crystal, worth more the stronger the monster. It is the lawful Crystal Draw of The Standing Index: an alchemist renders it into Essence Drafts used for tempering, with Creature-Sourced potency and the risk of Identity Contamination (the source's nature coming through in the drinker). Swallowed raw it gives everything at once, and most who try die or come out wrong. Monster parts make gear. A stone and its parts are read from the beast's own Grade and Level on the coil; T stays the shorthand for danger and price, and most beasts line up with it. A Crystal cut from a dead practitioner makes the strongest Draft of all, the worst crime in every realm and the most profitable, and it is why Class IV of the Index has never balanced. Some of what is sold as monster core came out of people.
 
 ## The nine rungs
 
@@ -36,7 +36,7 @@ The rung says what the thing can break. The modifiers say how long you will be i
 
 One EU is one megajoule, so the EU column is the joule ceiling divided by a million. S and SS meet edge to edge and both sit in March-bane, so no beast's rung turns on the line between them.
 
-**Any rung kills a man.** A crossbow bolt carries a hundred joules. The ladder does not measure whether a creature can kill you. It measures what it can break when you are not the only thing in front of it.
+**Any rung kills a man.** A crossbow bolt carries a few hundred joules. The ladder does not measure whether a creature can kill you. It measures what it can break when you are not the only thing in front of it.
 
 **Hearth-pest.** Below fifteen kilojoules. Its hardest blow is a man's or a dog's. A door holds against it, a householder with a spade answers it, and it is dangerous by being where somebody is rather than by what it does when it arrives. Vermin, the single walking corpse, the trickster in the hedge.
 
@@ -90,7 +90,7 @@ The Commission's Danger Tiers stand exactly as the Accord issues them.
 
 **A Commission Tier is not a Grade.** A Threat Tier names the title a Commission requires, because an adventurer may take commissions up to the Threat Tier of their title: T4 goes to Adepts and above, T7 goes to Grandmasters under a Gold Sigil and nobody engages lawfully without one. A Grade is a joule band. On a fighting guild's table, a Tier of Standing is a set of Grades. So the Commission's T is a figure for the answer, and the Ledger's rung is a figure for the thing, and **the Ledger's standing, output plus modifiers, is the Ledger's figure for the same question the Commission asks.** Where the Commission weighs the same three things the Ledger weighs, the two agree, and across most of the register they do.
 
-**The Leviathan and the Kraken show why a T cannot simply be a Grade.** Both are T9, and neither eats worlds. The Leviathan's hardest working is a surge that shatters a coast, on the order of 10¹⁴ joules, March-bane. What carries it three rungs higher is that it reaches (a maelstrom that pulls fleets under and currents altered for a season), it persists (hundreds of meters of abyss-black plate and a gaze that severs the soul's tether before the body is touched), and it is tied (a living anchor of an abyssal Wellspring on a plane boundary). The Kraken is the same arithmetic on a smaller surge. **A T9 beast is a March-bane holding all three.** An EX+ Grade would be something else entirely, and the register has none.
+**The Leviathan and the Kraken show why a T cannot simply be a Grade.** Both are T9, and neither eats worlds. The Leviathan's hardest working is a surge that shatters a coast, on the order of 10¹⁴ joules, March-bane. What carries it three rungs higher is that it reaches (a maelstrom that pulls fleets under and currents altered for a season), it persists (hundreds of meters of abyss-black plate and a gaze that severs the soul's tether before the body is touched), and it is tied (a living anchor of Abython, the Abyssal Pulse, on a plane boundary). The Kraken is the same arithmetic on a smaller surge. **A T9 beast is a March-bane holding all three.** An EX+ Grade would be something else entirely, and the register has none.
 
 **T1 is empty because nobody files it.** A Hearth-pest is a householder's matter. The rat in the grain store and the fox at the hens are T1 on the Commission's scale and no Guild Hall has ever opened a Commission for one, so the register asks its eleven questions of nothing there. The rung exists; the paperwork does not.
 
@@ -119,24 +119,24 @@ Output is the creature's hardest recorded working, by order of magnitude. **R** 
 | **Hippogrif** | T4 | Field-bane (~10⁵ J) | none | **Field-bane** | The Commission rates it T4 for the rider it carries; flight makes it hard to hit, not hard to kill |
 | **Siren** | T4 | Road-bane (~10⁸ J) | R | **Hamlet-bane** | The tide that capsizes the boat, and a song that lands across open water |
 | **Pegasus** | T4 | Field-bane (~10⁵ J) | W | **Road-bane** | Needs a pure Wellspring to hold its strength. The Commission rates it T4 for the knight on its back |
-| **Bicorn** | T5 | Road-bane (~10⁸ J) | W | **Hamlet-bane** | Needs Abyssal Wellsprings for peak power. The Commission rates it T5 for the herd |
+| **Bicorn** | T5 | Road-bane (~10⁸ J) | W | **Hamlet-bane** | Needs the corrupted sites of the Abyssal Depths for peak power. The Commission rates it T5 for the herd |
 | **Griffon** | T5 | Field-bane (~10⁷ J) | W | **Road-bane** | Wellspring Bond over its aerie. The Commission rates it T5 for the bonded pair; its output alone is a Field-bane dive |
 | **Raiju** | T5 | Hamlet-bane (~10⁹ J) | R | **Town-bane** | Called lightning, and a storm curse that outlasts the pack |
 | **Goliath** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Stoneform and endurance, and Wellspring Channeling on the passes it guards |
 | **Lamia** | T5 | Field-bane (~10⁴ J) | R | **Road-bane** | Dreamweave reaches sleepers beyond the veil. The Commission rates it T5 for the coven; the body is weaker than most predators |
 | **Living Armor** | T5 | Field-bane (~10⁶ J) | P, W | **Hamlet-bane** | Immune to pain and fatigue, and run on bound Wellspring Essence. The Commission rates it T5 for contingents that learn |
-| **Minotaur** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Resilient Hide, and power running on Earth flow in its labyrinth |
+| **Minotaur** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Resilient Hide, and power running on Materia flow in its labyrinth |
 | **Cyclops** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Regenerative Resilience fed by the mountain Wellspring it guards |
 | **Basilisk** | T5 | Hamlet-bane (~10⁹ J) | P | **Town-bane** | The gaze remakes a body; Stone Hide resists both steel and working |
 | **Cockatrice** | T5 | Hamlet-bane (~10⁹ J) | W | **Town-bane** | The gaze, and the corrupted Wellspring zones it nests in |
-| **Hellhound** | T5 | Road-bane (~10⁸ J) | R, W | **Town-bane** | Tracks across vast distance, and needs Abyssal Wellsprings for peak power |
+| **Hellhound** | T5 | Road-bane (~10⁸ J) | R, W | **Town-bane** | Tracks across vast distance, and needs the corrupted sites of the Abyssal Depths for peak power |
 | **Manticore** | T5 | Field-bane (~10⁵ J) | none | **Field-bane** | The Commission rates it T5 for the venom; its output alone is a Field-bane, and a sting that kills is still a sting |
 | **Wyvern** | T6 | Hamlet-bane (~10⁹ J) | R, W | **March-bane** | Bolts at range, and storm resonance that cold and water break |
 | **Sea Serpent** | T6 | Hamlet-bane (~10¹⁰ J) | R, P | **March-bane** | Sonar Roar across leagues, and Regenerative Scales |
 | **Arachne** | T6 | Field-bane (~10⁶ J) | R, W | **Hamlet-bane** | Webs across a region's trade routes, fed in the lair. The Commission rates it T6 for the web, which is a domain in all but name; outside the lair it is physically vulnerable |
-| **Wendigo** | T6 | Road-bane (~10⁸ J) | R, P, W | **March-bane** | Decades of hunting, Essence taken to heal, and a corrupted Frost Wellspring beneath it |
+| **Wendigo** | T6 | Road-bane (~10⁸ J) | R, P, W | **March-bane** | Decades of hunting, Essence taken to heal, and a corrupted Titan-touched cold site beneath it |
 | **Wyrm** | T7 | Town-bane (~10¹² J) | R, W | **Realm-bane** | The breath, not the pass: when Kallessyr collapsed a pass the mountain's own weight did the rest. Pursues for decades; a living anchor of its Wellspring |
-| **Night Gaunt** | T7 | Field-bane (~10⁵ J) | R, W | **Hamlet-bane** | The Commission rates it T7 for Soul Rend; its blow alone is a Field-bane, and it is hard to hit, not hard to kill. Whispers across a town; born where Abyssal and Void meet |
+| **Night Gaunt** | T7 | Field-bane (~10⁵ J) | R, W | **Hamlet-bane** | The Commission rates it T7 for Soul Rend; its blow alone is a Field-bane, and it is hard to hit, not hard to kill. Whispers across a town; born where the Abyssal Depths meet the Void |
 | **Gorgon** | T7 | Town-bane (~10¹¹ J) | R, W | **Realm-bane** | A battalion turned in one gaze, victims still turning years later, and a crevice breach to defend |
 | **Phoenix** | T7 | Town-bane (~10¹¹ J) | P, W | **Realm-bane** | Rebirth Flame, and sanctuaries it cannot leave for long |
 | **Hydra** | T8 | Town-bane (~10¹¹ J) | P, W | **Realm-bane** | Regrowth, and corrupted Wellsprings. The Commission rates it T8 for the nine-headed; a six-headed hydra reads Realm-bane, and the output rises with the heads |
@@ -197,7 +197,7 @@ The output rung is what you must be able to survive: armor, ward and Grade are c
 
 **Philter.** A dose that holds a Journeyman's whole working range in one vessel. **This is the rung at which a Draft can carry a practitioner to a quantitative floor in one issue**, and the rung at which it is sold against a term of service rather than a price.
 
-**Elixir.** Threshold work in earnest. An Elixir holds as much as an Expert's reserve spends in a long engagement and supports a Crystal through a reorganization. **An Elixir can supply the floor and it can supply a seed, and a work made for the purpose, here or on a higher rung, can supply the Catalyst (the event that sets off a Stage breakthrough) as well.** The Stage has then simply been bought, the door is open and no more, and the great houses hoard the top of this ladder for exactly that reason.
+**Elixir.** Threshold work in earnest. An Elixir holds as much as an Expert's reserve spends in a long engagement and supports a Crystal through a reorganization. **An Elixir can supply the floor and it can supply a seed, and a work made for the purpose, here or on a higher rung, can supply the Catalyst (the event that sets off a Stage breakthrough) as well.** The Stage has then simply been bought, the door is open and no more, and the great houses hoard the top of this ladder for exactly that reason. **The low Stages are bought smaller.** Below Splintering a Threshold holds little, so a work made to supply its Catalyst stands on a Tonic, a Draught or a Philter, dear for its recipe rather than its joules, and a house child drinks through them on an allowance. A purse can buy the Catalyst for any Stage; at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
 
 **Quintessence.** A dose at the scale of a Master's Domain. Works on this rung anchor, stabilize and hold at the size of a live, law-bearing field, and **the question of what the dose was rendered from stops being hypothetical**.
 
@@ -254,7 +254,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 | **Thundercrack Grenade** | T5 | II / — / — | about 1 EU, 10⁶ J: eardrums ruptured within four meters, mortar failed in tension | Tonic | none | **Tonic** |
 | **Deadlight Phial** | T3 | II / B / 7 | about 2 EU: a few watts of cold light for two hundred hours | Tonic | none | **Tonic** |
 | **Hillcarry Salts** | T3 | II / A / 12 | 100 – 600 EU per ration dose | Draught | none | **Draught** |
-| **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty milliliters, spent cycling a Stage V Core toward a second Wellspring bond | Draught | none | **Draught** |
+| **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty milliliters, spent cycling a Stage V Essence Core toward a second Wellspring bond | Draught | none | **Draught** |
 | **Ascension Ration, Accord Standard** | T4 | III / A / 25 | 2,000 – 10,000 EU: a Journeyman carried to the Flourishing floor | Philter | none | **Philter** |
 | **Splinter Ration** | T5 | III / A / 35 | 5 × 10⁴ – 2 × 10⁵ EU: a Crystal supported through Splintering | Elixir | none | **Elixir** |
 | **Refraction Draught** | T6 | IV / A / 50 | 10⁵ – 10⁶ EU: the dual-sight transition at Stage VII | Elixir | Carry Marked: the donor's way of seeing recorded, no move | **Elixir** |
@@ -301,7 +301,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 **Implement.** A single act at the scale of a building. An Implement that stores its own charge is an Implement in any hand that can open it; one that only passes its bearer's drain is an Implement because its bearer is.
 
-**Relic.** Expert scale, city-block output in one act or a store that can answer it. **A Relic is the first rung at which taking the thing off its bearer is a war aim rather than a theft.**
+**Relic.** Expert scale, city-block output in one act or a store that can answer it. **A Relic is the first rung at which taking the thing off its bearer is a war aim rather than a theft.** The rung's name is a size and not the trade's word: what a shop calls a relic may stand lower than this, and a true relic, off every ladder, is another matter.
 
 **Heirloom.** Master scale. An Heirloom's act is a natural disaster at the level of a town, and it is almost always bound to one soul, **because nothing else could carry the drain**.
 
@@ -319,8 +319,8 @@ The two agree most often through the middle of the trade, where a Threshold rati
 |---|---|---|
 | **Free** | Answers any hand, or whoever last fed it | **The rung is the object's own and travels with it.** Whoever holds it holds the rung |
 | **Keyed** | Answers a standing, a rite, a vow or a harmonization rather than one soul | **The rung is the object's own in a keyed hand, and one rung lower in any other** where it answers at all |
-| **Soulbound** | Answers one soul and refuses the rest | **Never above the bearer's Tier of Standing**, because every act crosses the bearer's Shell. In any other hand it has no rung |
-| **Grown-in** | Bound into the bearer's body, Core or Domain; severed, it dies | **As Soulbound, and it cannot be taken.** The rung is the bearer's to lose, not the object's |
+| **Soulbound** | Answers one soul and refuses the rest. This is the trade's bonded piece, the one kind that grows with its owner | **Never above the bearer's Tier of Standing**, because every act crosses the bearer's Shell. In any other hand it has no rung |
+| **Grown-in** | Bound into the bearer's body, Essence Core or Domain; severed, it dies | **As Soulbound, and it cannot be taken.** The rung is the bearer's to lose, not the object's |
 
 **A store falls as it spends.** An artifact placed by what it stores stands on the rung its store puts it, and it steps down the ladder as the store empties. An artifact placed by what it discharges keeps its rung as long as its bearer can pay.
 
@@ -408,7 +408,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 | Provenance | What holds it | What the rung does when the summoner falls |
 |---|---|---|
-| **Donated** | a fragment of the summoner's own Core on a live tether | **ends with the summoner**, and ends inside any Silence Realm (a place where the Aether is dead) |
+| **Donated** | a fragment of the summoner's own Essence Core on a live tether | **ends with the summoner**, and ends inside any Silence Realm (a place where the Aether is dead) |
 | **Analog** | a synthetic three-layer architecture inside the summoner's Concordia field (a field aligning several souls and forces into one) | degrades with the field; a coherent one may resist dissolution |
 | **Native** | its own Crystal | **stands.** The rung was the price of being recognized, and killing the summoner does not unpay it |
 | **Anchored** | Crystal function borrowed from a vein, a bloodline or a Domain | **stands as long as the node does**, and outlives the summoner |
@@ -468,7 +468,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Holdfast.** A territory at the scale of a building, held at Building to Large Building force. **Nearly every Domain on record whose drain is written down stands here**, from Refraction to Transcendence, which is the rung's own statement of what a live Domain costs to keep.
 
-**Precinct.** A district-scale charge: City Block to Multi-City Block held standing. The Domain is law-bearing in the sense Grade A gives it, and a Precinct spent whole is a disaster at that scale.
+**Precinct.** A district-scale charge: City Block to Multi-City Block held standing. The rung measures the charge and leaves the Domain to the Stage that grants it, and a Precinct spent whole is a disaster at that scale.
 
 **Burgh.** A town's weight of law held at once. At this rung a Domain begins reshaping the environment it stands in rather than merely existing within it, and the Continuum must accommodate it.
 
@@ -499,7 +499,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Collapse.** A Domain collapses when EU drops below the maintenance floor, when concentration is shattered, or when a stronger Domain overwrites it, and the Resonance Shockwave is proportional to size and density. **The rung prices the shockwave: a collapsing Domain can release up to its joules held onto everything inside, the holder included.** A Domain spent on purpose releases what the spending cost, and is read on its own row.
 
-**The hierarchy is unchanged.** When two Domains overlap, Temperance differential, then Dominion Sovereignty and Gravity, then Wellspring compatibility, then doctrine coherence decide, as Part Twenty-Two writes it. The rung is not a step in that order. It is what is standing on the ground when the order is applied.
+**The hierarchy is unchanged.** When two Domains overlap, Temperance differential, then Dominion Sovereignty and Gravity with a read able to flip them, then Wellspring compatibility, then doctrine coherence decide, as Part Twenty-Two writes it. The rung is not a step in that order. It is what is standing on the ground when the order is applied.
 
 ## Placement
 
@@ -665,7 +665,7 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 
 ## The modifiers
 
-**Proof: the armor's rung is a promise.** Armor at rung n stops a strike at rung n and below. **A strike one rung above the proof breaks it; a strike two rungs above passes as if it were not there.** The proof-mark names the house, the test and the bow, and a proof is a promise about a specific bow and bolt made by a workshop that may no longer exist.
+**Proof: the armor's rung is a promise.** Armor at rung n stops a strike at rung n and below. **A strike one rung above the proof breaks it; a strike two rungs above passes as if it were not there.** Against worked armor the strike is read on the striker's Ardency Penetration Grade, so high Flux with low Penetration spends its joules on the plate and goes no further. The proof-mark names the house, the test and the bow, and a proof is a promise about a specific bow and bolt made by a workshop that may no longer exist.
 
 **Two dials: speed and the hit.** A working on a projectile moves its speed, its hit, or both. Speed tops out at the enhancer's Attack Speed and the hit at the enhancer's Attack output band; the rung reads the hit. **An enhanced bolt is dodged at its actual velocity, not at its rung.**
 

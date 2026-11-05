@@ -137,7 +137,7 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 
 ### The Titan-Keyed Art: *The Stillwater Rite*
 
-*Defensive · Caloria · Vohrin · Thermodynamics · Revelation+ · [Vor] Return + [Cro] Cycle*
+*Defensive · Vohrin, outside the Sixty, filed beside Caloria · Thermodynamics · Revelation+ · [Vor] Return + [Cro] Cycle*
 > The second of the two workings gated above Zenith. **Stage XV, Revelation.** Nobody in the Accord's living register holds both this and *The Closing Eye*.
 
 **Trigger**  The target must already be in genuine crisis. Dying, catastrophically wounded, or cursed past normal stabilization. It will not take on a target who could still be saved by ordinary means.
@@ -154,4 +154,4 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 
 **What nobody knows**  Why the held forget purpose before they forget pain. Every other kind of erasure in the register runs the other way round.
 
-*Codex: [Vor] Return + [Cro] Cycle / Vohrin / Caloria / Thermodynamics / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Vor] Return + [Cro] Cycle / Vohrin, outside the Sixty, filed beside Caloria / Thermodynamics / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*

@@ -69,7 +69,7 @@ Nothing that could be called technology, and everything that technology would la
 
 This is the era in which the ore bodies were emplaced, and the modern extractive economy is entirely a matter of finding out where the Titans put things and then arguing about who owns it. The Measurewrights hold, without much enthusiasm for the theological implications, that the four quarters' entire material inheritance was fixed before there was anybody to inherit it.
 
-The northern shield's basement rock dates here. So does the flood-basalt province of the southern interior, in a single convulsion the Archives associate with the later phases of the Great Spirit War and the Measurewrights decline to date at all. The ophiolite belt along the southern coast is ocean floor from this era, shoved up onto the continent by a collision nobody witnessed. **The Crevice opens here**, and the Crevice is the only feature in the ledger that a surveyor will not certify as geology.
+The northern shield's basement rock dates here. So does the flood-basalt province of the southern interior, in a single convulsion the Archives associate with the later phases of the Great Spirit War, a war the Guild keeps off this count, and the Measurewrights decline to date at all. The ophiolite belt along the southern coast is ocean floor from this era, shoved up onto the continent by a collision nobody witnessed. **The Crevice opens here**, and the Crevice is the only feature in the ledger that a surveyor will not certify as geology.
 
 Two materials in current use are era-one products and cannot be made by any process now known.
 

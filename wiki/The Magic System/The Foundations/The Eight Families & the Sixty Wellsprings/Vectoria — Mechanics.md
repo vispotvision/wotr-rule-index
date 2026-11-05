@@ -16,9 +16,9 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Vectoria is a thing under pressure and knows it. One of these eight brings that forward: a little at first, and after years of mastery up to double, so that the same shoulder at the same Grade drives twice the momentum's character into what it meets, and the same stance sends twice as much of a blow into the ground. Another Typology can take them too, at a higher Essence cost and with a rougher result, which is how a bridge gets knocked down badly. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
-**Stat Affinity** · *Tempering (Acceleration, Clarity, Coherence) · Resilience (Scarring, Insulation, Nullity, Integrity) · Vitality (Endurance, Threshold, Nullity) · Dominion (Gravity)*
+**Stat Affinity** · *Tempering (Clarity, Maturity, Coherence) · Resilience (Integrity, Fortification, Persistence) · Vitality (Constitution, Threshold, Tolerance) · Dominion (Gravity)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -36,7 +36,9 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Mechanism** · Nothing fails at its theoretical strength. Everything fails at a pre-existing flaw, because stress concentrates at a crack tip in proportion to the square root of the crack's length, and once that intensity exceeds the material's toughness the crack runs at a fraction of the speed of sound and does not stop. Fractura gives the practitioner sight of those flaws and the precision to load exactly one of them.
 
-**Stat Effect** · Strengthens Gnosis Analysis in fault-reading, Ardency Penetration, Resilience Scarring. The practitioner sees where things break and learns to break them precisely.
+**Stat Effect** · Strengthens Gnosis Analysis in fault-reading, Ardency Penetration, Resilience Integrity. The practitioner sees where things break and learns to break them precisely.
+
+**Glyph** · `[Rk]` Rupture, `[Uur]` Disruption, `[Clp]` Collapse, `[Vorn]` End; attested on four more.
 
 > **Failure** · Self-inspection. The Wellspring does not exempt its bearer, and a Fractura practitioner under strain reads their own flaw population with perfect clarity at the worst possible moment.
 
@@ -54,7 +56,9 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Mechanism** · Masonry is enormously strong in compression and nearly worthless in tension, which is why the arch exists: it converts a span into a queue of compressive members. Petralon reorganizes the Crystal along the same principle, routing every incoming load into compression and accepting slow creep deformation as the price of never developing a tensile crack.
 
-**Stat Effect** · Strengthens Vitality Endurance, Dominion Gravity. The character becomes the ground beneath the ground.
+**Stat Effect** · Strengthens Vitality Constitution, Dominion Gravity. The character becomes the ground beneath the ground.
+
+**Glyph** · `[Th]` Foundation, `[En]` Lattice, `[Va]` Law, `[Bd]` Bedrock, `[Grt]` Granite, `[Mt]` Mantle; attested on seven more.
 
 **Failure** · Tensile exposure. Load the structure in the one direction it does not answer and it does not deform gracefully. It parts.
 
@@ -72,9 +76,11 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Mechanism** · Lifting a mass to a height costs the same total work by any route, but the inclined plane trades distance for peak force and so the same climb can be made without ever exceeding what the structure can bear. Ascensio applies that to Threshold transitions, spreading the required change across a longer path so the Crystal never sees the peak stress that a direct ascent imposes.
 
-**Stat Effect** · Strengthens Tempering Acceleration, Harmonics Attunement. Stage transitions become smoother and less violent.
+**Stat Effect** · Strengthens Tempering Maturity, Harmonics Attunement. Stage transitions become smoother and less violent.
 
-**Failure** · The work is redistributed and none of it is reduced. Practitioners mistake the absence of crisis for the absence of cost and arrive at the next Stage owing the difference.
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+
+**Failure** · Deferred load. The work is redistributed and none of it is reduced. Practitioners mistake the absence of crisis for the absence of cost and arrive at the next Stage owing the difference.
 
 ## Sublimatio · *The Ascending Breath*
 
@@ -92,6 +98,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Ardency Compression, Tempering Clarity. Output becomes cleaner and sharper, with less waste per expression.
 
+**Glyph** · None primary. Attested on `[Grs]` Grace, `[Dom]` Dominion, `[Rk]` Rupture and `[Exile]` Exile.
+
 **Failure** · Residue accumulation. Everything that could not sublime is still there, and it is the fraction of the practitioner least willing to move.
 
 ## Sublimare · *The Rising Breath*
@@ -108,7 +116,9 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Mechanism** · A mixture heated in a column separates because its components have different vapor pressures, and the fraction that rises is not the same substance that entered. Where Sublimatio skips a phase, Sublimare separates a mixture. The Crystal is run as a column: impurity is driven off as the lighter fraction and what descends is the practitioner refined toward a single component.
 
-**Stat Effect** · Strengthens Tempering Clarity, Resilience Insulation. The Crystal purifies itself, burning off impurities as silver vapor.
+**Stat Effect** · Strengthens Tempering Clarity, Resilience Fortification. The Crystal purifies itself, burning off impurities as silver vapor.
+
+**Glyph** · `[Prc]` Pressure; attested on four more.
 
 **Failure** · Azeotrope. Some mixtures cannot be separated by distillation at all, and the practitioner runs the column indefinitely against a contaminant that boils at exactly their own temperature.
 
@@ -126,7 +136,9 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Mechanism** · A vessel at depth survives by matching the water, never by resisting it, because net stress is a difference and a difference of zero loads nothing. Abython trains the Shell to equalize rather than oppose, which is why its practitioners work in Aether-absent environments that suffocate everyone else: they have stopped holding pressure in and stopped maintaining a differential at all.
 
-**Stat Effect** · Strengthens Resilience Nullity, Harmonics Voidance, Vitality Nullity. The character operates where other practitioners suffocate.
+**Stat Effect** · Strengthens Resilience Persistence, Harmonics Stability, Vitality Tolerance. The character operates where other practitioners suffocate.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Rapid ascent. Return to ordinary Aetheric density too fast and the equalized interior comes out of solution, which is as unpleasant metaphysically as it is in a diver.
 
@@ -144,7 +156,9 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Mechanism** · A worked component carries locked-in stresses from its own manufacture, invisible, dimensionally irrelevant, and entirely capable of causing failure under a load the part should have carried. Heat treatment relaxes them while leaving the shape untouched. Absolution does exactly this to old fractures: the history stays, the geometry stays, and the stored energy that made the history dangerous is released.
 
-**Stat Effect** · Strengthens Tempering Clarity, Harmonics Fidelity, Resilience Insulation. Old fractures lose their toxicity.
+**Stat Effect** · Strengthens Tempering Clarity, Harmonics Attunement, Resilience Fortification. Old fractures lose their toxicity.
+
+**Glyph** · `[Grs]` Grace; attested on five more.
 
 **Failure** · Over-relaxation. Take too much out and the structure loses the compressive prestress it had been quietly relying on to stay closed.
 
@@ -163,5 +177,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 **Mechanism** · Bend a metal past yield and it becomes harder to bend again, because plastic deformation multiplies dislocations until they obstruct one another. The material is strongest exactly where it was most abused. Penance imposes that constitutive behavior on the Crystal, so deliberate strain accumulates strength, and the strength is honest because it is located precisely at the sites of prior failure.
 
 **Stat Effect** · Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behavior.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Strain embrittlement. Past a certain dislocation density the material has no ductility left, and the next load does not deform it. It ends it.

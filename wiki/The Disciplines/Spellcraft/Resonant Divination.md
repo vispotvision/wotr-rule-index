@@ -77,11 +77,13 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 
 **Family** · None of its own; it reads Spatium (Transference) and Vitalia (Benediction).
 
-**Physics Domain** · Ambient-noise interferometry and coupled oscillators: a link recovered from shared noise, a cut link ringing down, a pair phase-locking.
+**Physics Domain** · Spatial Geometry (Transference); Biochemistry (Benediction).
+
+**Phenomenon** · Ambient-noise interferometry and coupled oscillators: a link recovered from shared noise, a cut link ringing down, a pair phase-locking.
 
 **Category** · Harmonia (Spirit and Attraction), with Aetherica and Mnemata supporting.
 
-**Craft** · Spellcraft, held by attention; the Sonochoral Conclave's tonal chant is its style and no requirement.
+**Skill** · Speaking, held by attention; the Sonochoral Conclave's tonal chant is its style and no requirement.
 
 **Stage floor** · Transcendence
 

@@ -6,10 +6,10 @@ title: The Infinite Summoning Arts
 
 The *Merry Wager*, a wine galley sixty souls strong, broke her back on the Thole skerries in a black gale, with Yselle Ambrel asleep in the bilge sleeping off a bad oyster. Everything after that is testimony, and the testimony is the problem. The bosun swore on his mother that a green-gold eel as long as the ship came up out of the surf and held the hull on the rocks in one coil. The cook said it was a bridge of white hands, passing people along. The purser said gulls, a hundred of them the size of ponies, flying lines ashore. A deckhand told the Commission's clerk, under oath, that he had been carried up the beach by a fat man telling jokes. All four were telling the truth, in order, because Ambrel had drafted four different answers to four different problems inside an hour, and sixty people walked off that rock at dawn past a woman who had lost a stone in weight in a night and could not have told you what any of those things were. The Commission spent three years trying to enter them in the register. It fined her for failure to file.
 
-### THE INFINITE SUMMONING ARTS (school art; Vocatia and Animatria past the register)
+### THE INFINITE SUMMONING ARTS (school art; Vocatia and Animatria past the register, and in a rare few, Fate itself)
 They never call the same thing twice, because they never write anything down.
 
-ESSENCE DRAFT! One soul split into threads, each thread holding up something you have never seen before.  
+THREAD DRAFT! One soul split into threads, each thread holding up something you have never seen before.  
 THE AETHER FEED! The thing changes shape in the middle of the fight, and it has only got started.  
 FATE-CHAIN SUMMONING! Kill this one and the next arrives faster, and it knows what you did.  
 AETHERIC CONSTELLATIONS! They come in a pattern, and each one standing makes the others worse.  
@@ -22,6 +22,7 @@ AXIS BINDING! The summon grows and falters with her moods, so her wounds are its
 ECHO MANIFESTATION! The ghosts of what you just killed get built into what comes next.  
 DIMENSIONAL RESONANCE! Part of it is somewhere your armor is not.  
 OMNIPRESENT FORM! One presence standing in forty doorways, and it notices you in all of them.  
+WHAT MIGHT HAVE COME! No thread and no contract: whatever could have stood here stands here, and there is no end to them.  
 
 ## How It Really Works
 
@@ -33,17 +34,35 @@ OMNIPRESENT FORM! One presence standing in forty doorways, and it notices you in
 
 ## What the Word Actually Names
 
-The name misleads almost everyone who hears it, including several people who have died to it. It does not mean unlimited output. Essence remains finite, the Aether Shell still strains, and an Infinite practitioner exhausts on the same curve as anyone else at their Coherence.
+The name misleads almost everyone who hears it, including several people who have died to it. For nearly everyone who practices the art, it does not mean unlimited output. Essence remains finite, the Aether Shell still strains, and a drafter exhausts on the same curve as anyone else at their Coherence. The rare exception has a road of its own, below.
 
-What is infinite is the **catalog**. The Accord's register lists what has been sealed and reported. It has been out of date for four hundred years, everyone in the Commission knows it, and Infinite Summoning is the art built on top of that gap. The practitioner drafts to the problem and selects from no list.
+What is infinite, for a drafter, is the **catalog**. The Accord's register lists what has been sealed and reported. It has been out of date for four hundred years, everyone in the Commission knows it, and Infinite Summoning is the art built on top of that gap. The practitioner drafts to the problem and selects from no list.
 > **The trade is repetition.** A sealed compact gets cheaper each time it answers, because recognition accumulates. A drafted call never does. The Infinite practitioner pays first-call price forever, and nothing that answers them is guaranteed to be the same thing twice.
 **Temperance Gate** · Stage XI (Dissonance) for unsealed drafting under battlefield conditions · Stage XIII for sustained networks · The art is not taught below Stage XI and the Accord's position is that it should not be taught at all.
 
 ---
 
+## The Fate Road
+
+There is a second thing the word names, and the people it names do not come to Commission hearings. A rare few summon through Fate itself, and for them the word means what the frightened always thought it meant: no ceiling on how many.
+
+A drafter's call holds up a form on a thread of Essence, and a contract holds a bound creature to its terms. The Fate road does neither. Fate is the working of what is going to be true, the control of Attraction Force and Obsession Force and of the odds themselves, and a summoner on this road leans on the possibility of a thing until it is the case. What stands up was never bound and never drafted. It is the soldier who might have held this bridge, the hound the family might have kept, and it is here because the odds were moved until it had always been on its way. Nothing is held, so there is no thread to tax the body and none for an enemy to count, no contract to steal, and no number at which the summoner runs out.
+
+**Temperance Gate** · The art's own gate, then the Fate Path, a Dominion Fate high enough to move the odds at the speed of a fight, and most often the blood for it, since a real Fate Art is rare and mostly goes by bloodline. No case on the public record stands below Stage XII.
+
+**Cost** · The odds are paid in the summoner's own. Each thing that might have come and now has is paid for with something that might have happened to them: a door in their own life closes for good, and they find out which one later. The old ones on this road have very few days left that can go more than one way, and they know how most of them end.
+
+**Limit** · Fate attaches, and something unattached gives it nothing to pull on. The summoner calls only what has a true claim to be there: a place they swore to keep, a line they carry, a debt owed them, a thing that really might have come to this ground. On a field where they have no claim, the road is simply closed.
+
+**Counter** · Break the claim, or walk away from the ground it rests on, and nothing further comes. Those already standing are as real as anyone and die like anyone. The summoner's own body is an ordinary body at its Stage, with no host's thread running back to warn it. And a Fate Art can be read by another: the Moto's [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] treats such a summons as a job someone has assigned to the odds.
+
+Everything else on this page belongs to the drafters' road. Plane Tethers and Imprint Summoning touch the Plane of Fate as a place to anchor or to copy from, and neither of them is this.
+
+---
+
 ## The Two Standing Operations
 
-### Essence Draft
+### Thread Draft
 
 The practitioner fragments Core output into threads, each thread anchoring one call. Where an ordinary summoner spends a whole allocation on one form, the drafter divides and holds. Every thread is a separate load and every thread is felt separately.
 
@@ -197,12 +216,12 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 ---
 
-**Cost.** First-call price every time, forever, and each open thread taxes your own body until it closes, which is why drafters are reliably the thinnest people in a war camp.
+**Cost.** First-call price every time, forever, and each open thread taxes your own body until it closes, which is why drafters are reliably the thinnest people in a war camp. On the Fate road, a door in your own life for each thing that comes.
 
-**Counter.** Count the threads, then cut the practitioner's line of attention or break the first link; do not kill a chain link when you can hold it.
+**Counter.** Count the threads, then cut the practitioner's line of attention or break the first link; do not kill a chain link when you can hold it. On the Fate road, break the claim or leave the ground it rests on.
 
 **Numbers.**
-- Gates: Stage XI (Dissonance) for unsealed drafting under battlefield conditions, Stage XIII for sustained networks. Not taught below Stage XI.
+- Gates: Stage XI (Dissonance) for unsealed drafting under battlefield conditions, Stage XIII for sustained networks. Not taught below Stage XI. The Fate road: none on record below Stage XII.
 - The Accord's register has been out of date for four hundred years.
 - Third-generation recursive forms carry almost no Binding. One Fate-Chain at a time; one Axis Binding per Axis.
 - Three competing models of why a draft answers, none predicting a first-time draft.

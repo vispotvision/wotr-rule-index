@@ -6,10 +6,10 @@ title: The High Empire of Eresse
 
 **Say it** · eh-RESS-eh
 
-*The Whole Chorus · First Eon, Great Spirit War Era · Before the Duskwalker Schism*
+*The Whole Chorus · The Great Spirit War, by the Empire's own reckoning and off the Guild's count · Before the Duskwalker Schism*
 > *"She sang, and we were the note that answered her. We did not forget this. We only, later, forgot how to hear it together."*
 >
-> *Attributed to the Sunroot Court, First Eon*
+> *Attributed to the Sunroot Court*
 >
 > Before there was a Grand Principality, before there were Varrisak wanderers or Drow custodians of ruined places, there was one people and one word for what they were: **Vey-Elarin, the tuned.**
 >

@@ -21,7 +21,7 @@ The new Master sued. Hamo pleaded that the thing had done it, and pointed to whe
 
 **Two fields carry weight here that carry none anywhere else in the Bestiary.**
 
-**Crystal Provenance** decides whether the thing has a soul of its own or is wearing a piece of somebody else's. A Donated construct has no Crystal (Soul Crystal, the organ that refines Aether into Essence) to record. A Native entity has one and had it long before anyone learned its name. **Everything the entry can honestly say about resilience, refusal and death follows from that single line.**
+**Crystal Provenance** decides whether the thing has a soul of its own or is wearing a piece of somebody else's. A Donated construct has no Crystal (Soul Crystal, the organ that refines Aether into Essence) to record. A Native entity has one and had it long before anyone learned its name. **Everything the entry can honestly say about resilience, refusal and death follows from that single line.** A bound thing also has its own window, with its Level, its terms and its evolution, and the contract behind it can be stolen. [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Spirit Summoning Arts|The Spirit Summoning Arts]] has that law, and [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]] has the window.
 
 **Bond Class** decides how much of an order the thing can decline. The Bestiary's other sections never need this, because a wyvern is not under instruction. **Half the entries in this section can refuse, and the register should say so in the same breath it says what they can do.**
 

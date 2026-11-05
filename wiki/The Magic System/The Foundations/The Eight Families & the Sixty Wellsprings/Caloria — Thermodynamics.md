@@ -16,9 +16,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Caloria has this burn in everything it does. One of these ten brings the burn forward: a little at first, and after years of mastery up to double, so that the same fist at the same Grade lands with twice the rupture in it. Another Typology can take them too, at a higher Essence cost and with a rougher result, and the bath-house trade will tell you it shows in the water. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
-**Stat Affinity** · *Ardency (Flux, Detonation, Overchannel, Saturation, Cascade, Duality, Radiance) · Vitality (Tolerance, Threshold, Endurance) · Tempering (Overflow, Conversion, Compression, Longevity)*
+**Stat Affinity** · *Ardency (Flux, Overchannel, Depth, Cascade, Compression) · Vitality (Tolerance, Threshold, Constitution) · Tempering (Overflow, Yield, Clarity, Longevity)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -36,7 +36,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · Burning does not remove energy from a system. It re-partitions it into forms the system can no longer hold in the same shape. Pyreveil retunes the Shell so Essence expenditure runs at higher reaction temperature with the released energy staying partly resident in the body rather than radiating away entirely. Output climbs, and the practitioner's own tissue stops registering thermal load as damage.
 
-**Stat Effect** · Strengthens Ardency Flux, Ardency Saturation, Vitality Tolerance. Output burns hotter. The body stops minding heat.
+**Stat Effect** · Strengthens Ardency Flux, Ardency Depth, Vitality Tolerance. Output burns hotter. The body stops minding heat.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Thermal debt. The energy that stayed resident has to leave eventually, and it leaves through whatever tissue is nearest when the working ends.
 
@@ -56,6 +58,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Ardency Overchannel, Tempering Overflow, Vitality Threshold. Pain thresholds rise. The Crystal tolerates what would shatter lesser vessels.
 
+**Glyph** · `[Ra]` Flame, `[Asa]` Creation, `[Ve]` Desire; attested on seven more.
+
 **Failure** · Quench cracking. Cycle too fast without the tempering interval and the lattice arrives hard, brittle, and split along its own thermal gradients.
 
 ## Ignivale · *The Wellspring of the Spark*
@@ -72,7 +76,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · The spark that lights a fuel-air mixture carries a fraction of a millijoule. Everything after is the reaction paying for itself. Ignivale reduces the activation energy of Essence formation, so the interval between intent and expression collapses toward the physical limit of the nervous system. First strikes arrive before the opponent has finished reading the preparation.
 
-**Stat Effect** · Strengthens Ardency Detonation, Dexterity Burst. First strikes arrive faster. Burst frequency increases.
+**Stat Effect** · Strengthens Ardency Overchannel, Dexterity Celerity. First strikes arrive faster and cost less to start.
+
+**Glyph** · `[Ig]` Ignite, `[Noq]` Wind, `[Vt]` Vector; attested on eleven more.
 
 **Failure** · Preignition. The barrier drops low enough that ambient emotional charge crosses it unbidden, and the working fires without the practitioner having decided to fire it.
 
@@ -90,7 +96,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · People call what survives a fire waste, and people are wrong. Char is a high-surface-area carbon scaffold that catalyzes further reaction, and settled ash returns potassium and phosphorus to the ground that fed the fire. Cinerion retunes the Shell to metabolize its own combustion products, harvesting from expenditure what other practitioners simply vent. The suspended residue also scatters incident light and Essence-sight alike.
 
-**Stat Effect** · Strengthens Tempering Conversion, Harmonics Recovery. The residue of destruction becomes recovery material.
+**Stat Effect** · Strengthens Tempering Yield, Harmonics Stability. The residue of destruction becomes recovery material.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Fouling. Accumulated residue eventually coats the conduit rather than feeding it, and recovery rate collapses precisely when the practitioner has spent the most.
 
@@ -108,7 +116,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · Dissolved gas stays in solution under load and comes out of it the moment the load eases, which is why a volcanic system vents continuously for centuries without erupting. Solfatara holds the Crystal at permanent partial exsolution: a steady controlled release rather than a stored charge. The practitioner does not build to a discharge. They simply never stop discharging.
 
-**Stat Effect** · Strengthens Tempering Compression, Vitality Endurance, Dominion Pressure. Sustained pressure output becomes the character's natural state.
+**Stat Effect** · Strengthens Tempering Clarity, Vitality Constitution, Dominion Pressure. Sustained pressure output becomes the character's natural state.
+
+**Glyph** · `[Slg]` Slag; attested on one more.
 
 **Failure** · Vent blockage and phreatic failure. Interrupt the release and the pressure does not politely wait. It finds a new path through whatever is structurally weakest.
 
@@ -126,7 +136,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · A catalyst is not consumed and does not appear in the products. It provides a surface where two species that would never meet in bulk are held adjacent long enough to react, opening a pathway with a lower barrier than the direct route. Manganthra gives the Shell that surface, which is the mechanical reason a Manganthra practitioner can hold contradictory Wellsprings without resonance conflict tearing the lattice.
 
-**Stat Effect** · Strengthens Ardency Duality, Gnosis Adaptation. The practitioner integrates contradictory Wellspring energies without resonance conflict.
+**Stat Effect** · Strengthens Ardency Depth, Gnosis Acuity. The practitioner integrates contradictory Wellspring energies without resonance conflict.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Catalyst poisoning. One strongly-binding contaminant occupies the active sites permanently, and the practitioner loses not one harmonization but the capacity to hold any pair at all.
 
@@ -144,7 +156,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · A subsonic flame front that meets sufficient confinement and turbulence accelerates until the reaction couples to a shock wave and begins propagating faster than sound in the unreacted medium. The mechanism changes kind where a lesser one would only change degree. Cataclysm makes that transition available to Essence expression, and blast radius thereafter scales with the cube root of yield, which is why the Wellspring's area effects widen coherently rather than merely spilling.
 
-**Stat Effect** · Strengthens Ardency Cascade, Ardency Detonation, Dominion Expansion. Area expressions become wider and more structurally coherent.
+**Stat Effect** · Strengthens Ardency Cascade, Ardency Overchannel, Dominion Radius. Area expressions become wider and more structurally coherent.
+
+**Glyph** · `[Thn]` Thunder, `[Eith]` Flux, `[Wy]` Motion; attested on five more.
 
 **Failure** · Reflected overpressure. In confinement the shock returns along its own path, and the practitioner standing at the origin receives the sum of the wave and its reflection.
 
@@ -162,7 +176,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · Smoldering propagates at roughly a millimeter a minute at temperatures a third of open flame, and peat beds have burned continuously for decades because the reaction is limited only by oxidizer reaching the char. Pyraeon converts the Crystal's output profile from flame to smolder: far lower instantaneous yield, and an endurance that does not decay across an engagement or across a life.
 
-**Stat Effect** · Strengthens Vitality Endurance, Tempering Longevity, Ardency Flux. Output does not fade over time. The ember persists.
+**Stat Effect** · Strengthens Vitality Constitution, Tempering Longevity, and Ardency Flux held over time rather than Flux at peak. Output does not fade over time. The ember persists.
+
+**Glyph** · `[Py]` Pyre, `[Cin]` Cinder, `[Fge]` Forge; attested on five more.
 
 **Failure** · Underground propagation. The reaction continues where the practitioner cannot see it, consuming reserve and tissue for hours after they believed the working ended.
 
@@ -180,7 +196,9 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · Melting ice at zero degrees absorbs three hundred and thirty-four joules per gram and the temperature does not move a fraction. The energy goes entirely into breaking the ordered structure. Catharsis routes accumulated emotional load into a phase transition instead of into output, so enormous internal pressure is consumed by the change of state itself and the practitioner arrives on the other side measurably calmer and structurally different.
 
-**Stat Effect** · Strengthens Harmonics Empathy, Tempering Processing, Resilience Insulation. Emotional weight converts into structural clarity.
+**Stat Effect** · Strengthens Harmonics Empathy, Tempering Maturity, Resilience Fortification. Emotional weight converts into structural clarity.
+
+**Glyph** · `[Xr]` Excision, `[Sv]` Sever; attested on three more.
 
 **Failure** · Supercooling. The transition fails to nucleate, the load accumulates past the point where it should have released, and when it finally goes it goes all at once.
 
@@ -198,6 +216,34 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Mechanism** · Every body above absolute zero radiates, and the spectrum of that radiation reports its temperature to anyone with an instrument. Penanceflare raises the Shell's emissivity toward unity. The practitioner's workings become brilliantly legible, their intent readable in the emission, and concealment becomes impossible in exactly the measure that honesty becomes free.
 
-**Stat Effect** · Strengthens Ardency Radiance, Gnosis Vigilance. Workings become more visible and more honest in expression.
+**Stat Effect** · Strengthens Ardency Compression inversely, raising a working's visibility rather than lowering it, and Gnosis Vigilance. Workings become more visible and more honest in expression.
 
-> **Failure** · There is no concealment mode. The Wellspring does not permit one, and a Penanceflare practitioner who needs to hide has harmonized with the wrong Wellspring.
+**Glyph** · None primary. Attested on `[Py]` Pyre and `[Let]` Tide.
+
+> **Failure** · Thermal runaway. Force the emissivity past what the body can shed and the heat climbs faster than the light can carry it off, so the practitioner burns brighter and hotter together, in the open, until the tissue gives out. There is also no concealment mode. The Wellspring does not permit one, and a Penanceflare practitioner who needs to hide has harmonized with the wrong Wellspring.
+
+---
+
+## Outside the Sixty · Vohrin · *The Stillwater Core*
+
+> **This entry is the register's one exception, and it is marked as one.** The Sixty are fixed, Caloria holds ten of them, and Vohrin is not among the ten. It is the power of a Titan, [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin|the Prime Cryotheic of Niflheim]], and it can be worked at Wellspring level. The note sits on this page because heat run backward is still thermodynamics, and because fighters keep writing "Vohrin (Caloria)" in their entries and somebody has to tell them what they have written.
+
+**The idea** · The cold that stills. Prometheus burns what is false, Zar'thuun unmakes what is excess, and Vohrin stills what is left so it can be built upon. Cold here is no fire of its own. It is a deficit, heat let go of and held as a discipline.
+
+**Two levels** · One power, worked two ways. The frost arts of the hunters and the northern schools work it at Wellspring level or as a Titan-derived current, each at the Stage floor its own entry states. The Titan-Keyed Stillwater Rite works it at the Titan's level and is gated at Revelation.
+
+**Where it pools** · A cold site is a Titan-touched site. Surveyors and renderers read a Vohrin gallery the way they read a Core, with the same care and the same rope, and it does not go on any list of the Sixty's sites.
+
+*How scholars explain it.*
+
+**Analogue** · Heat extraction. Conduction down a held gradient and the minimum work of a heat pump, which climbs steeply as the cold end falls; at the Titan's level, the zero-flux condition of a body that neither emits nor absorbs.
+
+**Mechanism** · Cold is never emitted. A region goes cold only when energy leaves it, so the Shell takes heat out along a gradient that already exists and has to put it somewhere: the lungs, the air behind the practitioner, the bank of a field. In cold air the heat is cheap to move and in warm air it costs many times as much, and in thermal equilibrium there is nothing to pump at all. At contact the ordered cold crystallizes the Essence pathway in a wound.
+
+**Stat Effect** · None of record, since it has no row in Part Thirteen. In use, Vitality Tolerance answers for the cold.
+
+**Glyph** · No primary of its own that the register accepts. Its arts write in common forms such as `[Vor]` Return and `[Cro]` Cycle, and the Codex's frost rows, `[FrTh]` FrostThrone and `[ObsG]` Obsidian-Glacier, still stand under Cymorath's name (see the Cymorath entry).
+
+**Failure** · Cold soak. Take heat past what the sink can carry and the deficit settles in whoever is holding it: the fingers, the lungs, then the mind, with purpose going before pain. A cold that is only a held deficit is also broken by heat forced back in faster than it can be taken, which is how flame ends the Stillwater Rite.
+
+**Signature** · The aura stays inside the Family hue, ember-orange banked down nearly to brown under a skin of rime. The blue that people remember is the ice, and the aura is not blue. Sound is a long creak of settling ice and then the sound of the room falling away; the air smells scrubbed and then of nothing; heat leaves the skin toward the working. The practitioner's lungs ache and small purposes slip. The tell is frost running out from the feet, with the breath stopping in the air before it has gone anywhere.

@@ -8,7 +8,7 @@ tags:
 
 # Monster Cores
 
-*Where the stone sits, what it fetches by Threat Tier, how fast it dies, what the bench makes of it, what happens if you eat it, the crime that looks exactly like it, and the people who live off all of the above*
+*Where the stone sits, what it fetches by the beast's own Grade and Level, how fast it dies, what the bench makes of it, what happens if you eat it, the crime that looks exactly like it, and the people who live off all of the above*
 
 > *One stone, of the wyrm called Grandfather Rent. Received of: the rope.*
 >
@@ -52,7 +52,7 @@ An animal has an Essence Core (the seat of its own nature) and, unlike a practit
 | **Spirit Beasts** | A body may hold one, and many leave no body at all | Killing one for its stone is legal, usually fatal, and the sort of thing a whole valley will remember |
 | **Elementals** | The whole thing is built around it, and it is the one solid part when the rest stops | Mind the falling lava |
 | **Living Armor and other constructs** | None of their own, as a rule. Whatever was seated in them to make them go | Sometimes a stone, sometimes a Crystal. See the crime, below |
-| **The Lich** | A Crystal, because it used to be a person | Taking it is the crime, below, and no court has yet decided how to feel about that |
+| **The Lich** | A Crystal, because it used to be a person, and the phylactery holds it | Taking it is the crime, below, and no court has yet decided how to feel about that |
 
 **Cutting.** A stone comes out hot from the bigger beasts. A crew's cutter, generally whoever has the strongest stomach and worst sense of smell, uses a long hook and a leather sling for anything at T5 or above, because skin contact with a fresh one starts the leak (see *Keeping it*, below). Most stones go home in somebody's shirt regardless, since a shirt is what people have.
 
@@ -60,9 +60,13 @@ An animal has an Essence Core (the seat of its own nature) and, unlike a practit
 
 ## What It Is Worth
 
-**The price table.** Prices are raw, on the coil (the brass assay instrument), at a renderer's door, for a clean stone with a hall's chit. **Threat Tier** is the Commission's danger rating, T1 to T9, the same scale lords post bounties by. Monsters level and evolve, so the coil prices the beast on the day it died rather than the row its kind usually sits in. An old wolf with a name can fetch the row above. The figures here are those of [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]], and the rest of the page explains them.
+**The stone is read off the beast.** The coil (the brass assay instrument) reads a stone and a carcass at the beast's own Grade and Level, the way it reads anybody, and that read sets the Stage the stone serves and what it fetches. **Threat Tier** is the Commission's danger rating, T1 to T9, the same scale lords post bounties by, and the whole trade uses it as shorthand for danger and price, because for most beasts the two line up. Every table on this page is written in that shorthand.
 
-| Threat Tier | Stage it serves | Size | At the door | A course poured from it, licensed | Rarity | What that means |
+Where they part, the coil wins, because a T also counts what a beast does to a crew, a road or a coast, and none of that is in the stone. A Lamp-drinker is T6 on the board for what it does in the dark, and it comes off a floor of D-Grade stock with a hardest blow at Hamlet-bane, so it reads B at the very best and pays out a hen's egg, whatever the hunters expected for a Gold Sigil. The Leviathan is T9 for its reach, its plate and its tie to the deep, and its hardest surge is a March-bane's, so its stone reads S to SS and serves Stages VIII to X. A very large stone it is, and nobody will sell it to you.
+
+**The price table.** Prices are raw, on the coil, at a renderer's door, for a clean stone with a hall's chit. Monsters level and evolve, so the coil prices the beast on the day it died rather than the row its kind usually sits in. An old wolf with a name can fetch the row above. The figures here are those of [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]], and the rest of the page explains them.
+
+| Threat Tier, as the shorthand | Stage it usually serves | Size | At the door | A course poured from it, licensed | Rarity | What that means |
 |---|---|---|---|---|---|---|
 | **T1** | I, Murmuring | A pea | 3 to 5 silver | 10 silver | Common | A laborer's week, from something that had been at the henhouse. Children hunt these, and some of them come home |
 | **T2** | II, Welling | A hazelnut | 12 to 18 silver | 30 silver | Common | About a laborer's month |
@@ -72,7 +76,7 @@ An animal has an Essence Core (the seat of its own nature) and, unlike a practit
 | **T6** | VIII to X | A woman's fist | 800 to 8,000 gold | 1,800 to 16,200 gold | Very Rare | More than the crew's home village will see in a generation |
 | **T7** | XI and XII | A big man's fist | 20,000 gold and up | Not quoted | Legendary | By private treaty, with an armed escort and several new friends |
 | **T8** | XIII and XIV | Reported as a child's head | Not quoted | Not quoted | Mythic | Under the Obsidian Seal, the Accord's black classification, and never on a counter |
-| **T9** | XV and XVI | Nobody has said | Not quoted | Not quoted | Unique | The Leviathan, the Lich, the Kraken. If you have one of these, you are reading the wrong page |
+| **T9** | XV and XVI, on paper | Nobody has said | Not quoted | Not quoted | Unique | The Commission puts the Leviathan, the Lich and the Kraken here, and the coil reads each of them lower, the Lich at the necromancer's own Grade. If you have one of these, you are reading the wrong page |
 
 A house pays between a third and a half of what the course will fetch poured, and a stone rendered in a hunting town sells a third under the city price, having been nearer the beast. **A famous monster's core carries a premium for the name, on top of any bounty**, and the bounty is usually the smaller part. Hide, bone and scale sell separately ([[Materials, Alchemy & Trade/Materials/Hide, Horn and Bone|Hide, Horn and Bone]]), for about as much again while fresh, falling every day from the kill.
 
@@ -114,7 +118,7 @@ By that table Nem's stone has lost a shaving off its outermost band. The bookies
 1. **The read.** Beast, grade, carry and age, off the bands. The Appraisal skill and the coil, and a good renderer's nose. A careful house enters the beast's name and the crew's chit against the lot.
 2. **The burn and the Parting.** The stone goes through the first Turnings of the bench, burned and taken and parted, and what comes off the Parting is Essence with the beast's nature still in it.
 3. **The washings.** Here is the entire art. Each washing lowers the carry and loses Essence with it, and the house decides with the client how much wolf to leave in.
-4. **The pour.** Bottled to the Stage it serves, with the Tier of the beast on the seal, and usually the beast's name, because people like to know.
+4. **The pour.** Bottled to the Stage it serves, with the beast's Grade on the seal, and usually the beast's name, because people like to know.
 
 | The lot | Washings | Doses from one stone | Carry | Who buys it |
 |---|---|---|---|---|
@@ -178,7 +182,7 @@ Everything arrives at once: every band the beast laid down in its life, all the 
 
 **The wrong ones** are the ones crews tell stories about. Hob Wendle of Rimward ate a T6 stone off a tunneling thing at Nine Wells in 640, and came up three Stages with the strength of a siege ram and the need to dig. He dug out through the floor of his own house that night and through two neighbors' cellars by morning. He was still recognizably Hob, he kept apologizing, and his voice could be heard coming up through the well for most of a year.
 
-**The whole ones** are why it keeps happening. Sister Wenlyn Oake, a kitchen servant at a sect in the Violet Peaks, swallowed a T5 stone in 655 with the elders' dogs at the door, and walked out through them at Stage VI with a Level she had not earned, a Skill column with nothing in it but Soup, and a coat in a blazing kingfisher blue. It takes a bold person to hunt somebody like that, and the sect did, for eleven years. A raw climb has all the gaps of a bought one, with no Release until it is found and mastered by fighting, and the hunters come quickly.
+**The whole ones** are why it keeps happening. Sister Wenlyn Oake, a kitchen servant at a sect in the Violet Peaks, swallowed a T5 stone in 655 with the elders' dogs at the door, and walked out through them at Stage VI with a Level the swallow itself had paid for, since nothing she had ever faced was as dangerous as that stone, a Skill column with nothing in it but Soup, and a coat in a blazing kingfisher blue. It takes a bold person to hunt somebody like that, and the sect did, for eleven years. A raw climb has all the gaps of a bought one, with no Release until it is found and mastered by fighting, and the hunters come quickly.
 
 **Why lords care.** A raw stone in a commoner's fist is the one thing a lord's whole apparatus of grain, land, debt and Draft supply has no hold on, and it costs nothing to threaten. Most realms therefore hang people for holding an unrendered stone above T4 without a hall's chit, and lords have burned villages on the rumor of one. Nem's terms have been studied by more peasants than the catechism.
 

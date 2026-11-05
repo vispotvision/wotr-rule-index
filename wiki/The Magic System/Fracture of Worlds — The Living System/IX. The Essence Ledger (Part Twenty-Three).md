@@ -16,13 +16,13 @@ Her sum is the first line of this Part. A reserve divided by a rate is the time 
 
 ### The four quantities, and the fifth
 
-**EU (Essence Units)** is the raw reserve: the total volume of usable Essence stored in the Crystal (the Soul Crystal, which is the soul itself) at any moment. It scales with Temperance Stage (one of sixteen rungs of the soul's refinement) and is governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling the Crystal refills to. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell (the soul's outer layer, which passes power out into the world) degradation, Trait (a belief hardened into a personal law of the soul) flickering.
+**EU (Essence Units)** is the raw reserve: the total volume of usable Essence stored in the Crystal (the Soul Crystal, which is the soul itself) at any moment. It is set by Level and capped by Temperance Stage (one of sixteen rungs of the soul's refinement), and governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling the Crystal refills to. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell (the soul's outer layer, which passes power out into the world) degradation, Trait (a belief hardened into a personal law of the soul) flickering.
 
 **Flux Density (EU/g)** is the compression ratio, how much Essence is packed per unit of Crystal mass. Higher means greater output from the same reserve. It is governed by **Tempering Clarity** and **Ardency Compression**, and it is what separates a practitioner who burns through their reserve in three techniques from one who fights for an hour on the same pool.
 
-**AU/s (Aether Units per second)** is the output rate, how much Essence converts into active expression per second of sustained operation. It is governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**, and it follows the formula **AU/s = Flux Density × η**.
+**AU/s (Aether Units per second)** is the output rate, how much Essence is spent into active expression per second at full output. It is governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**, and it follows the formula **AU/s = Flux Density × η**.
 
-**Eta (η), Efficiency** is the ratio of Essence spent to Essence that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. It is the single most important variable in sustained combat, because it determines how long the reserve lasts under continuous output. It is governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
+**Eta (η), Efficiency** is the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. It is the single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. It is governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
 
 **The fifth quantity is the one Part Eleven already measures**, and it is the one that lets the other four be priced at all. Strike Force is the destructive energy delivered per discrete attack action, recorded in **Newtons** for peak contact force and in **Joules** for total energy yield. The Continuum already keeps its books in joules. The Ledger is not a new currency; it is the exchange rate between the two sets of books.
 
@@ -88,6 +88,8 @@ The lowest rungs are bought in fractions of a unit. An Initiate's whole ceiling,
 ### The law of reserves
 
 A reserve is set by **Level** and capped by **Stage**. Level sets it along a log-linear law; the Band (a span of a hundred Levels) gates, which a Stage must pass before its Level can climb, cap it.
+
+**The law runs from waking.** A sealed Crystal holds no Essence, so a commoner's Level sits on the window and buys no reserve at all, and the day the Crystal opens the law takes up at whatever Level the life has reached. **A bought Stage lifts the cap and leaves the reserve where Level put it:** an heir who drinks through to Stage VII at Level 20 holds about 4,750 EU, an eighth of a Stage III brawler's 37,400 at Level 90, with the ceiling and the color and nothing underneath.
 
 The law runs through three fixed reference points: a Stage VIII Master at Level 250 with 4,200,000 EU, a Stage XII Grandmaster at Level 378 with 180,000,000 EU, and a Stage XII Grandmaster at Level 430 with 850,000,000 EU. Between the first two the slope is **0.012750 decades per Level**; between the second two it is **0.012964**. The two segments agree to 1.7 percent, and across the whole span:
 
@@ -170,7 +172,7 @@ Illustrative reserves, one for each way a reserve can stand against its Stage's 
 
 ### The drain
 
-AU/s is a *rate*: how much Essence converts into active expression per second of sustained operation, and the variable that determines how long the reserve lasts under continuous output. One AU is one EU crossing the Shell, so a second at full AU/s costs exactly AU/s worth of EU.
+AU/s is a *rate*: how much Essence is spent into active expression per second at full output, and the variable that determines how long the reserve lasts when it is held there. One AU is one EU crossing the Shell, so a second at full AU/s costs exactly AU/s worth of EU.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -183,6 +185,8 @@ AU/s is a *rate*: how much Essence converts into active expression per second of
 **One combat turn is six seconds.** Divide either clock by six and it reads in turns: a practitioner whose reserve holds twenty-one seconds at full output has three and a half turns of it.
 
 The drain times are a property of the two figures a practitioner carries, reserve and AU/s, and of one AU being one EU. The power and the waste are at the constant.
+
+**η counts twice, on purpose.** AU/s = Flux Density × η says how much the Shell can move, and AU/s × η says what survives the trip, so delivered power is Flux Density × η². Take the small practitioner below, 3,100 EU at a Flux Density of 290 EU/g. At η 0.89 the Shell moves 258.1 AU/s and delivers 229.7 MW; at η 0.50 the same Crystal would move 145 AU/s and deliver 72.5 MW. At full output the cleaner Shell empties the reserve faster, 12.0 seconds against 21.4. For the same delivered effect it lasts longer: 72.5 MW at η 0.89 costs 81.5 AU/s and holds for 38.1 seconds, against the 21.4 at η 0.50.
 
 ### Worked, at three scales
 
@@ -251,7 +255,7 @@ Illustrative reserves and AU/s, sorted by how long the reserve holds at full dra
 | 4 h 59 m 42 s | 4 h 29 m 44 s | 2,697 | Stage XII, Grandmaster | 180,000,000 | about 10,010 | 0.91 | 901 MW |
 | about 642 days | about 578 days | 8.3 million | Stage XII, Grandmaster | 4.8 × 10¹⁴ | 8.648 × 10⁶ | 0.94 | 519 GW |
 
-Every η here is the practitioner's own. The Tier ranges of Part Nineteen are typical, and a practitioner whose η stands outside their Tier's range stands as recorded.
+Every η here is the practitioner's own. The Tier ranges of Part Nineteen serve the unclassed at Stages I to V and stand as a field average above them; a read Class overrides them, and a practitioner whose η stands outside their Tier's range stands as recorded.
 
 **The whole column is a clock.** Most reserves empty in under two minutes at full drain. The exceptions are the very largest reserves and the low-output ones built for long work: a Stage XII reserve of 180,000,000 EU spent at about 10,010 AU/s is built for multi-hour forge work, and its two numbers say so.
 

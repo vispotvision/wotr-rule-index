@@ -1,3 +1,7 @@
+---
+title: Null-Light
+---
+
 # Null-Light
 
 Tobiah Quillon, who toured the fairs with a mule, a gilt wagon and a claim to have out-shone the sun at Ambrel Bridge, once sold four hundred tickets to watch him make the shadowless stones of the Cedar Enclave cast a shadow. House Yukari, to the lasting astonishment of everybody, let him in and gave him tea. He set forty mirrored lamps around the court, burning white, rose and a hard sea-green, and he lit them at noon on a clear day, with the sun helping. Every pebble in that court threw forty shadows, and so did the tea tray, the mule and the steward's sleeves, a spray of colored shade that the paying customers talked about for the rest of their lives. The three stones stood in the middle of it, each one lit from every side, with clean raked gravel at their feet. Quillon stayed until his oil ran out. He sold the lamps in the next town to pay back the tickets, and he never afterward said a word against the Yukari, though he did take to checking the ground behind him.

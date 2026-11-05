@@ -67,11 +67,13 @@ Wellspring · **Nihiloth**, the Hollow Law (primary).
 
 Family · **Limina**: Entropy, Void and Mind.
 
-Physics Domain · Field cancellation / destructive interference.
+Physics Domain · Entropy, Void and Mind.
+
+Phenomenon · Field cancellation / destructive interference.
 
 Category · **Claustra** (Spirit ↔ Attraction).
 
-Craft · **Spellcraft** (a spoken renunciation).
+**Skill** · Speaking (a spoken renunciation).
 
 Stage floor · **Stage IX, Invocation**.
 

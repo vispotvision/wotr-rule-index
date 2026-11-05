@@ -12,7 +12,7 @@ title: The Iron Tree
 
 **Effect** · Every branch is a release-valve off the bearer's sealed body-engine: a single chamber's stored pressure enters a chosen contact point in one instant instead of leaking outward, so the force drives into the target rather than spreading across the surface.
 
-**Cost** · 2,800 to 8,900 EU per branch, drawn from a 92,000 EU reserve at its author's scale; Kokushin Gyūha costs 7,400 EU exactly. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.
+**Cost** · 2,800 to 8,900 EU per branch, paid from a 92,000 EU reserve at its author's scale; Kokushin Gyūha costs 7,400 EU exactly. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.
 
 **Limit** · Requires contact or near-contact and a grounded stance. Airborne targets and Void or anti-recognition fields deny chamber circulation entirely, per the discipline's own recorded weaknesses.
 
@@ -26,11 +26,11 @@ title: The Iron Tree
 
 **Family** · Materia primary, Vitalia secondary, Fluxia tertiary.
 
-**Physics Domain** · Material Science (thermoset cross-linking, grain growth under sustained load) primary; Biochemistry (cooperative binding, the harder the draw, the more readily the soul provides) secondary.
+**Physics Domain** · Material Science (thermoset cross-linking, grain growth under sustained load) primary; Biochemistry (cooperative binding, the harder the pull, the more readily the soul provides) secondary.
 
 **Category** · Arts (Body-Aligned: structured, discipline-based styles blending movement, form and Essence flow).
 
-**Craft** · Magicraft.
+**Skill** · Bodily speaking; the sealed body is the only anchor, and a branch lasts as long as one chamber takes to vent.
 
 **Stage floor** · VII, Refraction, for the seven branches (the Iron Bison discipline's own preliminary floor); IX, Invocation, for sustained combat use; its author's apex expression ran at Stage XIII, Principality.
 
@@ -53,7 +53,7 @@ title: The Iron Tree
 
 ### FOW line
 
-Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilience Anchoring and Hardening, Ardency Compression, Tempering Compression, per the ratified Iron Bison discipline's own stat effects. Stage floor VII (preliminary), IX (sustained), XII (indefinite maintenance); its author's apex sat at Stage XIII. Grade required A-Grade minimum, X-Grade at that apex. Path gate Body, dominant. No Resonant Pair documented.
+Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilience Anchoring and Hardening, Ardency Compression, Tempering Clarity, per the Iron Bison discipline's own stat effects. Stage floor VII (preliminary), IX (sustained), XII (indefinite maintenance); its author's apex sat at Stage XIII. Grade required A-Grade minimum, X-Grade at that apex. Path gate Body, dominant. No Resonant Pair documented.
 
 ### Origin
 
@@ -73,7 +73,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Spall** · Armor is far weaker in tension than compression, so the rear face throws fragments into whatever is behind it while the front stays whole; a breastplate can come off a corpse undamaged.
 
-**Energy** · Truly stored, not drawn: seven sealed chambers under standing compression, charged over a career and vented one at a time. The Iron Tree is a battery; nearly every other working is a switch.
+**Energy** · Truly stored, not pulled: seven sealed chambers under standing compression, charged over a career and vented one at a time. The Iron Tree is a battery; nearly every other working is a switch.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -82,7 +82,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 ### Metaphysics
 
-**Aether** · Draw near nil: a closed-world compression anchor, external leak near zero by design, internal cycling beyond measurement. Residue is almost none, which makes a master hard to read; what a vent leaves deafens Harmonists at the contact point.
+**Aether** · Pull near nil: a closed-world compression anchor, external leak near zero by design, internal cycling beyond measurement. Residue is almost none, which makes a master hard to read; what a vent leaves deafens Harmonists at the contact point.
 
 **Wellspring** · Fixatio, the Binding Flame (Materia), primary: what it holds is held because the alternative state is no longer reachable; it is the seal itself.
 
@@ -90,7 +90,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Wellspring** · Chthonica, the Root Deep (Materia): grip is billions of contacts too small to measure alone; it roots the grounded stance.
 
-**Wellspring** · Anima Spirare, the Soul's Breath (Vitalia): an amplifying cascade, each factor activating many; the harder the draw, the more readily the soul provides.
+**Wellspring** · Anima Spirare, the Soul's Breath (Vitalia): an amplifying cascade, each factor activating many; the harder the pull, the more readily the soul provides.
 
 **Wellspring** · Phreatis, the Waters of Memory (Fluxia, cross-listed): the deep reservoir; it circulates all seven chambers as one.
 
@@ -114,7 +114,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Apex** · Black-Heart Bison Break (Kokushin Gyūha): one sealed chamber into one contact point, entering the target instead of spreading. The Sevenfold Seal (Nanatsu no Fūin) closes the whole vessel.
 
-**Floors** · Refraction for the seven branches, Invocation for sustained combat, Emanation for indefinite maintenance of the seal. It is Magicraft with no anchor but the body; the only anchor is the ground. A-Grade at the floor, X-Grade at the apex of the architecture.
+**Floors** · Refraction for the seven branches, Invocation for sustained combat, Emanation for indefinite maintenance of the seal. It is bodily speaking with no anchor but the body; the only anchor is the ground. A-Grade at the floor, X-Grade at the apex of the architecture.
 
 **Exclusive** · Seal and vent cannot coexist: while a branch vents the bearer is unarmoured, and a vented chamber reloads on the seal's own schedule, not his.
 

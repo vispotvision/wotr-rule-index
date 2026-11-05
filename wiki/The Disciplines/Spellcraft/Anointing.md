@@ -63,11 +63,13 @@ The failure is the empty rite: correct words with no current behind them make a 
 
 **Family** · Vitalia (Benediction); Materia (Fixatio); Fulguria (Judicium).
 
-**Physics Domain** · Biochemistry: a recognition tag at a binding site, like a phosphate mark on a protein.
+**Physics Domain** · Biochemistry.
+
+**Phenomenon** · A recognition tag at a binding site, like a phosphate mark on a protein.
 
 **Category** · Ritus (Spirit-Aligned), with Traitus for the standing mark and Animatria where it wakes a latent construct-bearing capacity.
 
-**Craft** · Spellcraft, in words, hand and oil; the mark is a standing effect that outlives the officiant's attention.
+**Skill** · Speaking, in words, hand and oil; the mark is a standing effect that outlives the officiant's attention.
 
 **Stage floor** · Glory
 

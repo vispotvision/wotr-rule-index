@@ -127,21 +127,23 @@ Typology also determines Wellspring compatibility, which determines which Sub-St
 
 ### The Resource System
 
-**EU (Essence Units):** the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Scales with Temperance Stage, governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.
+**EU (Essence Units):** the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Set by Level and capped by Stage (below), governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.
 
 **Flux Density (EU/g):** the compression ratio, how much Essence is packed per unit of Crystal mass. Higher means greater output from the same reserve. Governed by **Tempering Clarity** and **Ardency Compression**. This separates a practitioner who burns through their reserve in three techniques from one who fights for an hour on the same pool.
 
-**AU/s (Aether Units per second):** the output rate, how much Essence converts into active expression per second of sustained operation. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**.
+**AU/s (Aether Units per second):** the output rate, how much Essence is spent into active expression per second at full output. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**.
 
-**Eta (η), Efficiency:** the ratio of Essence spent to Essence that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because it determines how long the reserve lasts under continuous output. Governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
+**Eta (η), Efficiency:** the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. Governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**: from the first class at Glory the class's tier sets it, and the unclassed read their Stage's typical figure below.
 
 **What the owner sees.** None of these figures appears in a window. The window shows the reserve as a percentage and a bar, `[Reserve: 41%]`, and leaves EU, AU/s and η to the assay sheet and the slate. Body tells come first anyway: at half the breath shortens, at a quarter the color thins, at a tenth the Traits begin to stutter.
 
 ### The Turn, and What a Unit Is Worth
 
-**One combat turn is 6 seconds.** Every duration the system states in combat turns is read through that figure: a working held three turns is held 18 seconds, a field that stands eight turns stands 48. The calendar turn of fourteen days is another thing that shares the name.
+**One combat turn is 6 seconds.** Every duration the system states in combat turns is read through that figure: a working held three turns is held 18 seconds, a field that stands eight turns stands 48. The fourteen-day turn of older papers is another thing that shares the name.
 
-**One EU is one megajoule.** One AU is one EU, so **1 AU/s is 1 MW**. Power spent is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as heat, sound and structural bleed. A reserve of *E* EU spent at *R* AU/s empties in *E* ÷ *R* seconds, and that figure does not depend on the conversion at all.
+**One EU is one megajoule.** One AU is one EU, so **1 AU/s is 1 MW**. Power spent is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as heat, sound and structural bleed. A reserve of *E* EU spent at *R* AU/s empties in *E* ÷ *R* seconds.
+
+**η counts twice, on purpose:** once in AU/s, for how much the Shell can move, and once in delivery, for what survives the trip. So at full output a higher η empties the reserve faster, because the Shell moves more, and for the same delivered effect it lasts longer, because less is lost on the way. Part Twenty-Three works the figures.
 
 ### The EU Band by Temperance Stage
 
@@ -195,7 +197,7 @@ The ladder gives typical rates, not limits. A practitioner's own output is Flux 
 
 ### Efficiency by Tier of Standing
 
-The nine Tiers of Standing replace the former lettered Coherence Bands, and they are read here on the fighting guilds' table; a merchant's title says nothing about his η. The η figures below are the source values redistributed across the new partition, which runs one Stage per tier at the bottom and reaches Revelation and Apex at the top, where the lettered scale stopped at Zenith.
+The nine Tiers of Standing replace the former lettered Coherence Bands, and they are read here on the fighting guilds' table; a merchant's title says nothing about his η. The η figures below are the source values redistributed across the new partition, which runs one Stage per tier at the bottom and reaches Revelation and Apex at the top, where the lettered scale stopped at Zenith. They are the figure for the unclassed at Stages I to V and a field average above them. From the first class at Glory the class's tier sets η, so a read Class overrides this table, and a card's own figure governs its holder.
 
 | Tier | Temperance | η | Note |
 |---|---|---|---|

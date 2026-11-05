@@ -74,7 +74,7 @@ The failure is Coherence fault by design. The construct is lived behavior drifti
 
 **Category** · Animatria, Spirit-aligned; a construct that outlives its summoner's control becomes a Synergia-category Phenomena event.
 
-**Craft** · Spellcraft; the construct holds only while attention holds, and holds worse than a true Eidolon.
+**Skill** · Speaking; the construct holds only while attention holds, and holds worse than a true Eidolon.
 
 **Stage floor** · Glory
 

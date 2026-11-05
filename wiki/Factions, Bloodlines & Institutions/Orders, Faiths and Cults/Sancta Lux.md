@@ -37,7 +37,7 @@ Common mortal usage renders that reference as **the Judger.** Every Attestant is
 
 ### The received account
 
-Sancta Lux was founded during the Great Spirit War by **Sadara Izayoi**, who claimed a direct reading from the Scale and vowed to enact its correction across every realm that would receive her and several that would not. She is remembered as **the First Hand.**
+By the order's own reckoning, which no Guild surveyor will put on the count, Sancta Lux was founded during the Great Spirit War by **Sadara Izayoi**, who claimed a direct reading from the Scale and vowed to enact its correction across every realm that would receive her and several that would not. She is remembered as **the First Hand.**
 
 Beneath her, the first martial wing took shape under **Lucius**, recorded as **First Grand Paladin**: a plague-cleanser who purified the survivors at Veyr Chapel at seventeen **without burning them alive**, and who summoned seven luminous eidolons at twenty and went blind for three days for the privilege. **Lucius called on Faisal's Numen to do it**, which matters later and matters enormously. **Epsilon**, longest-lived Grand Archmagus in the order's history, codified the glyphwork.
 
@@ -81,7 +81,7 @@ A Measurewright brings a reading into the Hall. **The Oracle returns weight.** G
 >
 > This is true and it is worthless. **The Oracle has never been wrong because the Oracle has never made a claim.**
 >
-> Every atrocity in the order's eleven-century history lives in **the two conversions between the reading and the corpse**, and every one of them was committed by somebody who had passed an examination.
+> Every atrocity in the order's history, eleven centuries of it as the order counts, lives in **the two conversions between the reading and the corpse**, and every one of them was committed by somebody who had passed an examination.
 
 ---
 
@@ -123,7 +123,7 @@ Rank inside Sancta Lux describes **what a member is permitted to do to a reading
 | Standing | May | Temperance |
 |---|---|---|
 | **I · Attestant** | Witness. **May not weigh.** Trained in transcription method taken wholesale from Bellwrought Celestial practice and taught, *with a straight face*, that the method is their own tradition. They may stand in the Hall of Equal Breath. **They may not speak in it** | I – III |
-| **II · Measurewright** | Take a reading. **May not interpret one.** The order's largest grade and its most fatalistic. Drilled until the separation between observation and meaning is somatic rather than intellectual, *and the drill costs most of them the capacity for casual conversation* | III – V |
+| **II · Measurewright** | Take a reading. **May not interpret one.** The order's largest grade and its most fatalistic. Drilled until the separation between observation and meaning is somatic rather than intellectual, *and the drill costs most of them the capacity for casual conversation*. The grade borrows the Guild's word and holds none of the Guild's office: an order Measurewright reads and keeps silent, where a Guild Measurewright keeps the world's tables and argues about them | III – V |
 | **III · Lector** | Render a reading into a finding. **The first grade permitted to say what something means.** Also the first grade permitted to be wrong in a way that reaches a body | V – VII |
 | **IV · Arbiter** | Convert a finding into a sentence. Splits at investiture into **Arbiter-Militant**, seconded to Enforcement, and **Arbiter-Lector**, seconded to Arbitration. *The two halves are institutionally required to disagree, and do, loudly, in a chamber built for the purpose* | VII – IX |
 | **V · Archpaladin · Grand Archmagus** | Deliver sentence at Domain scale. Open a Threshold case on another member. **Fewer than thirty living across four worlds** | X and above |

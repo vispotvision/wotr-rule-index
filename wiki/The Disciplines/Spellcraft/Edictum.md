@@ -68,11 +68,13 @@ Wellspring · **Judicium**, the Wellspring of Truth (primary).
 
 Family · **Fulguria**: Electromagnetism.
 
-Physics Domain · Control-boundary imposition (a fixed condition enforced at a defined limit).
+Physics Domain · Electromagnetism.
+
+Phenomenon · Control-boundary imposition (a fixed condition enforced at a defined limit).
 
 Category · **Claustra** (Spirit ↔ Attraction).
 
-Craft · **Spellcraft** (explicitly a spoken working).
+**Skill** · Speaking (explicitly a spoken working).
 
 Stage floor · **Stage VII, Refraction**.
 

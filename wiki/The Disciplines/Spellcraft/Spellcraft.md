@@ -15,7 +15,6 @@ Most of these arts are spoken or held. Four live here by old filing and are work
 - [[The Disciplines/Spellcraft/Resonant Divination|The Ear of Fate]] (Resonant Divination)
 - [[The Disciplines/Spellcraft/Anima Harmonics|Every Soul a Bell]] (Anima Harmonics)
 - [[The Disciplines/Spellcraft/Thaumic Harmonics|The Breaking of All Songs]] (Thaumic Harmonics)
-- [[The Disciplines/Spellcraft/The Veil]]
 - [[The Disciplines/Spellcraft/Invert Eidolon|The Self That Never Forgave]] (Invert Eidolon)
 - [[The Disciplines/Spellcraft/Vainglory|The Usurper in My Image]] (Vainglory)
 - [[The Disciplines/Spellcraft/Transposition|The Exchange of Destinies]] (Transposition)
@@ -25,7 +24,7 @@ Most of these arts are spoken or held. Four live here by old filing and are work
 - [[The Disciplines/Spellcraft/Edictum|Because I Said So]] (Edictum)
 - [[The Disciplines/Spellcraft/Imprinta|The Unburied Ember]] (Imprinta)
 - [[The Disciplines/Spellcraft/Fallacy|The Lie Creation Swallowed]] (Fallacy)
-- [[The Disciplines/Spellcraft/Kami no Kobushi|The God Fist: Seven Ways to Refuse]] (Kami no Kobushi)
+- [[The Disciplines/Named Arts/Kami no Kobushi — The God Fist|The God Fist: Seven Ways to Refuse]] (Kami no Kobushi), now kept with the Named Arts
 - [[The Disciplines/Spellcraft/Mugen no Hatsurugi|The Infinite First Blade]] (Mugen no Hatsurugi)
 - [[The Disciplines/Spellcraft/Saba no Rosa|Saba no Rosa]] (the Reckoning of Roses)
 - [[The Disciplines/Spellcraft/The Iron Tree]]

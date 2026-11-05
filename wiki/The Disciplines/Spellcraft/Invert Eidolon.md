@@ -21,9 +21,9 @@ There is no chant, circle or gesture. The chain is internal above Refraction, wi
 
 The physics is residual stress in a casting. A part cooled faster than it could relax locks in tension it was never loaded with, like a Prince Rupert's drop that shrugs off a hammer and bursts when its tail is nicked. The law is templated solidification from a defective billet, with Griffith's criterion σ_f = √(2Eγ/πa): a crack runs when released strain energy exceeds the cost of new surface, so stored tension makes a tiny flaw enough. That gives a thing strong in every direction but one. General load hits the compressed skin, which is what it is for, and one small specific defect brings the whole body apart. A stored stress goes somewhere when unwatched, which is why putting the construct down may cost as much as raising it. And stressed parts fail later from causes too small to record, so the construct turns erratic, often on its summoner, without wanting anything.
 
-A fabrication charge set by complexity, then a sustain every second it stands: Aether pulled and refined and spent at the heaviest continuous rate in Spellcraft. The construct is Residue (what a working leaves behind), a fragment of the summoner's Core walking outside them, and several at once multiply Shell strain toward a depletion cascade, the discipline's worst recorded event. Twenty to 30 percent of the sustain leaves the Shell as heat, sound and light every second, so the summoner is a furnace visible from the next ridge, and scorches the ground around them. What is left afterward is a scorched ring and one fewer unclosed fracture.
+A fabrication charge set by complexity, then a sustain every second it stands: Aether pulled and refined and spent at the heaviest continuous rate of any spoken art. The construct is Residue (what a working leaves behind), a fragment of the summoner's Core walking outside them, and several at once multiply Shell strain toward a depletion cascade, the discipline's worst recorded event. Twenty to 30 percent of the sustain leaves the Shell as heat, sound and light every second, so the summoner is a furnace visible from the next ridge, and scorches the ground around them. What is left afterward is a scorched ring and one fewer unclosed fracture.
 
-Eidolyn, the Shaping Mind (Limina), is the template: intent is the template and matter deposits along it with high fidelity and real strength, and it strengthens Ardency Density, Ardency Inscription and Gnosis Memorium. Oblivara, the Dark Mirror (Limina), is why it turns: a corner reflector returns energy along its incoming path, so the construct returns what reaches it to its source and never counts its summoner an ally. Nihiloth, the Hollow Law (Limina), cancels the law already present, giving the construct its refusal-shaped character. The glyph is Form laid under Mind: Form limits what the template may take from, Mind names where the contents are read from. The boundary is what counts as available material, which moves to include the unresolved, and Eidolyn faithfully reproduces the locked-in stress with it. The Essence Core is the billet, the Attraction Layer is the tether, the Shell carries the strain. Developmental Tier is Radiant at Transcendence.
+Eidolyn, the Shaping Mind (Limina), is the template: intent is the template and matter deposits along it with high fidelity and real strength, and it strengthens Ardency Density and Gnosis Retention. Oblivara, the Dark Mirror (Limina), is why it turns: a corner reflector returns energy along its incoming path, so the construct returns what reaches it to its source and never counts its summoner an ally. Nihiloth, the Hollow Law (Limina), cancels the law already present, giving the construct its refusal-shaped character. The glyph is Form laid under Mind: Form limits what the template may take from, Mind names where the contents are read from. The boundary is what counts as available material, which moves to include the unresolved, and Eidolyn faithfully reproduces the locked-in stress with it. The Essence Core is the billet, the Attraction Layer is the tether, the Shell carries the strain. Developmental Tier is Radiant at Transcendence.
 
 The result is a sound, strong construct that does not tire, flinch or share its summoner's interest, stress oriented toward the thing refused, returning everything back along the tether at the summoner. Transcendence gates semi-autonomous constructs at S-Grade, and full tactical autonomy waits for Realization at SS. Below Transcendence only a brief, fragile, accidental construct forms through an ordinary Animatria working, never the full thing. The supply is the real ceiling: it finds a refusal and cannot make one. The summoner must have survived the fracture's Stage, and a fracture spent is spent.
 
@@ -58,7 +58,7 @@ Structural fault is the operation and no accident of it: the Crystal lends what 
 | Two or three at once to Starvation | strain multiplies | under 38 s; three can end in one turn |
 | Waste at the band's foot | (1 − η) × sustain | 1.98 to 7.43 GW; pain to 281 to 544 m, timber to 112 to 218 m |
 
-**Cost** · Set shares of full reserve, so every summoner at a Stage gets the same seconds; the sustain is the heaviest continuous drain in Spellcraft.
+**Cost** · Set shares of full reserve, so every summoner at a Stage gets the same seconds; the sustain is the heaviest continuous drain of any spoken art.
 
 **Duration** · Seconds: five to fourteen turns for one construct, a single exchange for three.
 
@@ -72,11 +72,13 @@ Structural fault is the operation and no accident of it: the Crystal lends what 
 
 **Family** · Limina
 
-**Physics Domain** · Residual stress in a casting: templated solidification from a flawed billet, and brittle fracture.
+**Physics Domain** · Entropy, Void and Mind.
+
+**Phenomenon** · Residual stress in a casting: templated solidification from a flawed billet, and brittle fracture.
 
 **Category** · Animatria (Spirit-Aligned)
 
-**Craft** · Spellcraft; the construct holds only while the summoner's attention and tether hold.
+**Skill** · Speaking; the construct holds only while the summoner's attention and tether hold.
 
 **Stage floor** · Transcendence
 

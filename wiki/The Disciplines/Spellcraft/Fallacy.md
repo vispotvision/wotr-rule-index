@@ -76,11 +76,13 @@ The scaffold schools teach it as a useful fiction to be taken down after the wor
 
 **Family** · Limina
 
-**Physics Domain** · Metastability and nucleation: a state that holds until one seed of the true state forms.
+**Physics Domain** · Entropy, Void and Mind.
+
+**Phenomenon** · Metastability and nucleation: a state that holds until one seed of the true state forms.
 
 **Category** · Mechanica, with Phenomena for the self-running collapse.
 
-**Craft** · Spellcraft; spoken and then held by attention below Refraction, held by attention alone above it.
+**Skill** · Speaking; said aloud and then held by attention below Refraction, held by attention alone above it.
 
 **Stage floor** · Glory
 

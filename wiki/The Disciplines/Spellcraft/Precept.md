@@ -2,7 +2,7 @@
 title: The Graven Absence
 ---
 
-# THE GRAVEN ABSENCE (Glyphica, Runecraft filed on the Spellcraft shelf)
+# THE GRAVEN ABSENCE (Glyphica, a cut art filed on the spoken shelf)
 
 *Scholars' term: Precept. The older registers called the practice enshrining.*
 
@@ -20,7 +20,7 @@ Carve one line on a stone, and inside those walls that thing just does not exist
 
 A bead on a wire has nowhere else to go, and no force had to tell it so. That is a constraint, and a region under this art loses a possible shape the same way: whatever tries to take that shape finds no such shape exists there. Nothing resists. Constraint forces do zero virtual work, Σ Rᵢ · δrᵢ = 0, so the standing upkeep is zero by theorem; the whole cost sits in the substrate, paid once, and a substrate can be chiseled. Band structure in a periodic medium is the other half of the law: it makes a forbidden band where no mode exists, and a single defect opens exactly one allowed state inside it. A band gap has edges. It forbids one range and is transparent everywhere else, so this art compels nothing outside the clause it names. A gap's sharpness grows exponentially with the number of regular periods, so a Precept is as sharp as its clause was regularly laid, and its author's strength has nothing to do with it.
 
-There is no charge anyone sees. There is one pull at sealing, Aether refined in the Soul Crystal and driven out through the Shell (the Crystal's outer skin), and then none, and 30 to 40 percent of the sealing spend at Glory, 20 to 30 at Master, leaves as heat and structural bleed into substrate and room, once. The standing bleed is zero. No cast, light or pressure follows, and nobody feels stopped. The inscription is the Residue (what a working leaves behind), located and touchable, and with no continuous deposit it can be filed where people must live, which is why guilds use it for codes. It is Runecraft: fixed in a substrate, degrading as any inscription degrades, and beaten through the substrate with no chain to interrupt. The substrate is always the anchor.
+There is no charge anyone sees. There is one pull at sealing, Aether refined in the Soul Crystal and driven out through the Shell (the Crystal's outer skin), and then none, and 30 to 40 percent of the sealing spend at Glory, 20 to 30 at Master, leaves as heat and structural bleed into substrate and room, once. The standing bleed is zero. No cast, light or pressure follows, and nobody feels stopped. The inscription is the Residue (what a working leaves behind), located and touchable, and with no continuous deposit it can be filed where people must live, which is why guilds use it for codes. It is cut: fixed in a substrate, degrading as any inscription degrades, and beaten through the substrate with no chain to interrupt. The substrate is always the anchor.
 
 Fixatio, the Binding Flame (Materia), sets the gap: a cured thermoset chars before it flows, and what it holds stays held because the alternative is no longer reachable. It strengthens Vitality Fortitude and Resilience Anchoring. Judicium, the Wellspring of Truth (Fulguria), sets its edges, since no substance can present another's spectrum, and that is the whole craft of drafting. The glyph is Boundary, the limit that moves, laid under Order, the register the clause is filed in, and Lock is the same shape used as a reply. The boundary is the set of configurations reachable inside a named sphere: strength and willingness are left alone, and only what is available changes. Over a sphere no layer of the subject is touched, since the working is in the substrate; a soul-bound Precept sits in the Essence Core as a Trait. Developmental Tier is Harmonic at Glory. Where it binds parties as a compact, Votia comes into it, and the author cannot take it back.
 
@@ -72,11 +72,13 @@ The failure is the clause edge misplaced: a century of correct rulings nobody wa
 
 **Family** · Materia (Fixatio); Fulguria (Judicium).
 
-**Physics Domain** · Constraint without force: a forbidden band in a periodic medium, with one allowed state opened per defect.
+**Physics Domain** · Material Science (Fixatio); Electromagnetism (Judicium).
+
+**Phenomenon** · Constraint without force: a forbidden band in a periodic medium, with one allowed state opened per defect.
 
 **Category** · Glyphica (Authorization and Sealing), with Votia where it binds parties as a compact.
 
-**Craft** · Runecraft; fixed in a substrate and degrading only as an inscription does.
+**Skill** · Cutting; fixed in a substrate and degrading only as an inscription does.
 
 **Stage floor** · Glory
 
@@ -110,4 +112,4 @@ The failure is the clause edge misplaced: a century of correct rulings nobody wa
 
 **Fails against** · A chiseled, scraped or toppled substrate; one precise exception written in the same register; Rescind, for an unconsented soul-bound Precept; a sum countersigned or spoken back where old Seals allow; the clause read as drafted; drift under pressure.
 
-**Look up** · The Fixatio and Judicium entries and their failures; the Runecraft and Seal registers for Sealing roles and closing conditions; Rescind under the Consent Doctrine; the Glory, Transcendence and Realization Stage tables.
+**Look up** · The Fixatio and Judicium entries and their failures; the rune and Seal registers for Sealing roles and closing conditions; Rescind under the Consent Doctrine; the Glory, Transcendence and Realization Stage tables.

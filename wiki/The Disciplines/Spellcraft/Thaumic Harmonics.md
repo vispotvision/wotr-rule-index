@@ -71,11 +71,13 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Family** · None of its own; it reads whatever Family the target working runs on.
 
-**Physics Domain** · Forced oscillation and superposition: a small, correctly timed wave in antiphase cancels a large one.
+**Physics Domain** · None of its own; it reads the domain of the working it answers.
+
+**Phenomenon** · Forced oscillation and superposition: a small, correctly timed wave in antiphase cancels a large one.
 
 **Category** · Harmonia (Spirit and Attraction), with Aetherica supplying the clean baseline a reading is compared against.
 
-**Craft** · Spellcraft, most often used against another Spellcraft or Runecraft working already in progress.
+**Skill** · Speaking, most often used against another spoken or cut working already in progress.
 
 **Stage floor** · Glory
 

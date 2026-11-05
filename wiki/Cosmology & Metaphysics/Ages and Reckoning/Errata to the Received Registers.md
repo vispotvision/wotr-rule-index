@@ -69,6 +69,8 @@ Where a superseded register uses the term at left, the reader substitutes the te
 
 *Below the table, in the same hand, a seventh that the Guild did not sign: where any document stamps a year from 690 IC onward as "the such-and-such year of the Imperial Age", read "of the Dark Ages" and leave the number alone, so that Year 700 is the tenth year of the Dark Ages and Year 715 the twenty-fifth. The name Imperial Age belongs to what comes after the turn of the century, Year 800, the Renaissance of banks and universities, and to nothing earlier.*
 
+*Under that, in a third hand, three names the Guild never got round to: where a register says "the Creation Age", read the First Eon. Where it says "the Era of Myths", read the days before the Great Spirit War, which Section II keeps off this count. "The Second Accord" stands in no sealed chronology, and a register citing it is giving its author's own reckoning.*
+
 ### On the Withdrawn Figures
 
 Every number in the old count above about two thousand derives from a single stratigraphic method that read seasonal ash layers as annual ones, at a site where the ash falls four times a year. The error compounds by a factor near forty across the depth of the section.

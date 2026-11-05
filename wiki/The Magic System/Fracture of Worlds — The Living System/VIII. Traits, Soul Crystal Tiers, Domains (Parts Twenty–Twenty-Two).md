@@ -9,7 +9,7 @@ tags:
 
 On the north road they still sing about Penny Thyra, and the song gets most of it wrong. Thyra Ketilsdottir kept the toll on the Ottermouth bridge for forty-one years at a penny a head, and somewhere in the second of those years, after a raider's horse went over her and left her with a hip that told the weather, she came to believe with her whole body that nobody crosses without paying. The Guild roll calls what grew out of that a Trait (a belief hardened into a personal law of the soul). The carters called it Thyra's rule and kept a penny ready. The Seven Bright Sabers of the Cinnabar Hall, inner disciples in vermilion silk with a bet riding on them in three towns, came up that road one harvest morning and declined. The first walked onto the planks with his chin up and stopped with one boot in the air, as though the morning had set around him. The second threw a slash of orange aura at the old woman in her hutch, and it got halfway across the river and fell into the water as a shower of hot sparks, having paid no more than he had. Then the toll-bell began to swing with nobody on the rope, its one flat note lifting every gull off the Ott, and the air over the whole bridge turned the brown-gold of old copper, thick as cold honey, with the rule standing in it as plainly as a hand against the chest: the flickering seed of a Domain, from a woman who had never fought anybody in her life and had told the assay house she was too busy to come in.
 
-It held four minutes. In the fifth a fish-seller on the far bank shouted her name, her attention split, and the seed collapsed with a shockwave that took out the middle span and put all seven Sabers and Thyra herself into the Ott. They paid, every one of them, dripping, from the bank, seven pennies laid out on a wet stone, and three towns have not let the Cinnabar Hall forget it. Her own bill came out of the same idea. The rule had no exception in it, so she could not cross her own bridge without paying herself, out of one apron pocket into the other, and in the winter there was no penny in the house her daughter was buried on the far bank without her. The roll has a name for that as well, the Rigidity Effect. A street fighter will tell you a power grows in three sizes, the idea, the changed body and the world obeying it. This Part sets down the law of the idea, the Crystal that carries it, and the world.
+It held four minutes. In the fifth a fish-seller on the far bank shouted her name, her attention split, and the seed collapsed with a shockwave that took out the middle span and put all seven Sabers and Thyra herself into the Ott. They paid, every one of them, dripping, from the bank, seven pennies laid out on a wet stone, and three towns have not let the Cinnabar Hall forget it. She never raised it again. A soul gets that one flicker at the Threshold into Refraction, on its own Trait and with no Release behind it, and calling and holding a seed takes a Second Release, which is found by fighting. Her own bill came out of the same idea. The rule had no exception in it, so she could not cross her own bridge without paying herself, out of one apron pocket into the other, and in the winter there was no penny in the house her daughter was buried on the far bank without her. The roll has a name for that as well, the Rigidity Effect. A street fighter will tell you a power grows in three sizes, the idea, the changed body and the world obeying it. This Part sets down the law of the idea, the Crystal that carries it, and the world.
 
 ## Part Twenty — The Trait System
 
@@ -75,7 +75,7 @@ The Stage sets what a Trait is permitted to be, and its level says how far the b
 
 **The Rigidity Effect:** emotional or behavioral inflexibility. The more absolute the Trait's law, the less the soul can safely contradict it.
 
-**Shear Break:** the Trait collapses, inverts, or turns against the bearer after they repeatedly deny the truth that birthed it.
+**Shear Break:** the Trait collapses, inverts, or turns against the bearer after they repeatedly deny the truth that birthed it. A single broken vow lands at once by its own terms and is no Shear Break until the denial repeats; see [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]].
 
 **Alignment Benefits:** compatible Wellsprings, Realms or Archonic Domains increase stability, reduce Essence cost and deepen expression.
 
@@ -85,7 +85,7 @@ The Stage sets what a Trait is permitted to be, and its level says how far the b
 
 *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
 
-The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (named classes, tiered by how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds, up to Five, is certified at the bench and never read off the Crystal.
+The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (named classes, tiered by how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds is certified at the bench and never read off the Crystal.
 
 | Tier | Description | Corresponds to |
 |---|---|---|
@@ -114,9 +114,9 @@ The Soul Crystal is literally the soul, and tempering melts it down and rebuilds
 
 A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests and where Attraction and Obsession are controlled) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained.
 
-Domains are not techniques. They are consequences of sufficient Temperance, Dominion (the stat for presence and pressure on others) development and Aether Class clarity. A character does not choose to deploy a Domain the way they choose to throw a punch. A Domain forms because the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent. Once a soul has grown one, the Second Release opens it and powers it, it is called aloud, and it forms as it is named; what nobody has ever done is call a Domain the soul has not grown.
+A Domain is grown before it is called, and it is no technique to be learned off a wall. The Stage grants it and a Grade never does, and the growing is done by living: Temperance, Dominion (the stat for presence and pressure on others) and Aether Class clarity climb until the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent. Once a soul has grown one, the Second Release opens it and powers it, it is called aloud at the fighter's choosing, and it forms as it is named; what nobody has ever done is call a Domain the soul has not grown.
 
-Anyone at Stage VIII can have one, their own concept made real. A bought Stage VIII opens that door and no more, and sects teach how to go through it, which money cannot buy. A Release or a Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stands, the holder's own Domain counting against it; only outside help goes past it.
+Anyone at Stage VIII can have one, their own concept made real; the fuller account is on [[The Magic System/The Soul and the Climb/Domains|Domains]]. A bought Stage VIII opens that door and no more, and sects teach how to go through it, which money cannot buy. A Release or a Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stands, the holder's own Domain counting against it; only outside help goes past it.
 
 ```
 [DOMAIN SEED: NOBODY CROSSES WITHOUT PAYING]
@@ -126,11 +126,11 @@ Anyone at Stage VIII can have one, their own concept made real. A bought Stage V
 
 ### Domain Formation Timeline
 
-**Stage VII, Refraction:** seed activation. The first fragile, flickering territory. Lasts minutes rather than hours. Requires active concentration and collapses if attention fractures. The seed is the Attraction Layer's first territorial claim.
+**Stage VII, Refraction:** seed activation. The first fragile, flickering territory. As the Catalyst into this Stage it is a one-time flicker of the person's own Trait and needs no Release; the Second Release, open from here, is what lets a seed be called and held. Lasts minutes rather than hours. Requires active concentration and collapses if attention fractures. The seed is the Attraction Layer's first territorial claim.
 
-**Stage VIII, Transcendence:** the Domain stabilizes. A piece of the lattice accepts the soul's signature permanently. Holdable for hours; survives minor disruption. The first true Domain.
+**Stage VIII, Transcendence:** the Domain stabilizes. A piece of the lattice accepts the soul's signature permanently. Holdable for hours; survives minor disruption. The first true Domain, grown by living and called aloud.
 
-**Stages IX–X, Invocation through Realization:** consolidation into a **Realm** capable of holding other Domains. Pacts, artifacts and law imprint on terrain. The Domain becomes a reality the Continuum must accommodate.
+**Stages IX–X, Invocation through Realization:** consolidation into a **Realm** capable of holding other Domains. The Catalyst into Stage IX is a first flicker of one, on the same terms as the seed, and the Third Release makes one. Pacts, artifacts and law imprint on terrain. The Domain becomes a reality the Continuum must accommodate.
 
 **Stages XI–XII, Dissonance through Emanation:** passive effects leak without active maintenance. Traits become local physics. Mere presence alters metaphysical conditions. The Domain transitions from deliberate expression to ambient consequence of existing.
 
@@ -158,9 +158,9 @@ When two Domains overlap, the Continuum resolves the conflict through a hierarch
 
 **First, Temperance differential.** A character two or more Stages above their opponent's Domain simply overwrites it. The higher doctrine takes precedence.
 
-**Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty and Gravity holds their territory while the weaker Domain erodes.
+**Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty and Gravity holds their territory while the weaker Domain erodes, and a sharp read can flip it: find where the holder's law is thin and the ground changes hands.
 
-**Third, Wellspring compatibility.** Domains built from opposed Wellspring Houses produce interference patterns that degrade both. Domains from adjacent Houses may coexist or reinforce each other.
+**Third, Wellspring compatibility.** Domains built from opposed Families produce interference patterns that degrade both. Domains from adjacent Families may coexist or reinforce each other.
 
 **Fourth, doctrine coherence.** A Domain built from a deeply held, honestly lived truth is structurally denser than one built from adopted belief or forced cultivation. The Continuum measures **Tempering Coherence** and **Tempering Maturity** as the tiebreaker between otherwise equivalent Domains.
 

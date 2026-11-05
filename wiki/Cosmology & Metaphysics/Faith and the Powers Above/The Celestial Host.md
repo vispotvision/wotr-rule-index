@@ -214,7 +214,7 @@ Individual Lowmere Celestials are, by design, almost never named in surviving re
 
 Every Celestial alive today measures its own history against a single hinge point the Host calls, without further elaboration, **the Shattering**.
 
-Before it, the four Choirs numbered (per the Accord's own admittedly incomplete census, taken in the last peaceful year of the Era of Myths) somewhere in the low thousands, concentrated almost entirely within Utopia's three sub-realms. After it, credible sightings across all four Choirs combined number in the low dozens, spread across seven centuries, none of them confirmed twice.
+Before it, the four Choirs numbered (per an admittedly incomplete census the Accord inherited, said to have been taken in the last peaceful year before the War, a year no surveyor will put on the count) somewhere in the low thousands, concentrated almost entirely within Utopia's three sub-realms. After it, credible sightings across all four Choirs combined number in the low dozens, spread across seven centuries by the Host's own reckoning, which the Guild has declined to convert, and none of them confirmed twice.
 
 The hinge point has a sound before it has a face. **Malakar cracked the Lawbell.**
 

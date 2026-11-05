@@ -33,8 +33,16 @@ In the street an eidolon is a fetch and asking to see someone's is an insult, fo
 
 ## What a Spirit Actually Is
 
-A **lawful extrusion of the summoner's own Soul Crystal**, rather than an external entity plucked from elsewhere, given temporary autonomous existence through Parunic syntax and Wellspring-authorized process. The summoned form carries the emotional grammar of its creator's Essence Typology, resonates with their harmonized Wellsprings, and endures only as long as their Attraction Layer can sustain the recognition that holds it together.
+It depends who you called, and the word covers three different things.
+
+**A construct**, from Animatria or the Arts, is a **lawful extrusion of the summoner's own Soul Crystal**, rather than an external entity plucked from elsewhere, given temporary autonomous existence through Parunic syntax and Wellspring-authorized process. The summoned form carries the emotional grammar of its creator's Essence Typology, resonates with their harmonized Wellsprings, and endures only as long as their Attraction Layer can sustain the recognition that holds it together.
 > This makes summoning one of the most revealing arts in the Continuum. **A summoner's spirits are confessions.** They externalize what the soul contains, shaped by trauma, refined through Temperance, and bounded by the Coherence Ladder's honest measure of how much law a single body can project beyond itself.
+
+**A called presence**, from Vocatia, is someone else. It has a Crystal of its own and had it long before anyone learned its name, and it answers by recognition and may refuse.
+
+**A bound thing**, spirit or beast, is a called presence or a beast held by contract, and a contract has a sheet. It has its own window, read by its holder, where its Level grows, its terms show and its debts are counted ([[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]] shows one). It can evolve under the holder's hand, and it can be stolen by anyone who gets a better contract onto it, which has made more enemies among summoners than any duel has. The register's fields for all of this are in [[The Bestiary/The Called and the Divine/Summoned and Bound/Summoned and Bound|Summoned and Bound]].
+
+A rare few summon with no contract and no construct at all, through Fate itself; that is on [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Infinite Summoning Arts|the Infinite page]].
 
 ---
 
@@ -107,17 +115,18 @@ A Tier III body carried by a poured vessel and a Binding, as in the Mortalis com
 
 ## Wellspring Resonance
 
-Summoned spirits inherit the Wellspring alignment of their creator. A summoner harmonized with multiple Houses produces spirits of correspondingly layered complexity.
+Summoned spirits inherit the Wellspring alignment of their creator, and the shape they take follows the Family. A summoner harmonized across several Families produces spirits of correspondingly layered complexity. The yards still use older nicknames for some of these rows, and the Clubs below keep them in their names.
 
-| House | Manifestation | Used for | Risk |
+| Family | Manifestation | Used for | Risk |
 |---|---|---|---|
-| **Coagulation** *Coagula, Fixatio, Coagulatio* | Anchored, durable, slow-to-dissolve presences | Defensive constructs, ward-guardians, long-duration sentinels | Spirits may resist dissolution, becoming permanence hazards |
-| **Ascent** *Ascensio, Sublimatio, Judicium* | Elevated clarity and judgmental precision | Truthseeking constructs, consecrated guardians, verdict-witnesses | Constructs may develop conviction that outlasts their authorization |
-| **Green Pulse** *Verdantia, Anima Spirare, Benediction* | Vital warmth, restorative capacity, empathic responsiveness | Healer-companions, chorus-constructs, recovery-field generators | Over-empathic resonance may cause the construct to absorb surrounding grief or trauma |
-| **The Veil** *Somnalis, Oneirion, Eidolyn, Anamnesis* | Dreamlike, memory-threaded, perceptually liminal | Scout-constructs, ancestral echo-forms, memory-archive vessels | Constructs may blur the boundary between recalled and fabricated memory |
-| **The Black Gate** *Mortalis, Tenebra, Oblivara, Nihiloth* | Shadow-forms, silence-constructs, dissolution agents | Assassination support, curse-severance, merciful release | Constructs may erode the summoner's own memory, identity, or emotional continuity |
-| **The Forge** *Exuroth, Pyreveil, Manganthra, Catharsis* | Incandescent, volatile, catalytically intense | Siege-breaking, corruption-purging, trial-by-fire constructs | Constructs may exceed their Boundary glyphs and ignite uncontrolled Essence burn |
-| **The Hollow** *Lethegraal, Tarturon, Eclipseron, Vantabriel* | Absence-constructs, void-forms, negation agents. Deeply rare. | Anti-summoning fields, Mechanica containment, Wellspring wound stabilization | Constructs may hollow the summoner's Essence Core through prolonged contact |
+| **Materia** *Coagula, Fixatio, Coagulatio* | Anchored, durable, slow-to-dissolve presences | Defensive constructs, ward-guardians, long-duration sentinels | Spirits may resist dissolution, becoming permanence hazards |
+| **Limina** *Eidolyn, Nihiloth, Oblivara, Vantabriel* | Absence-constructs, void-forms, negation agents, and from the Family's dream and memory members, dreamlike, memory-threaded forms | Anti-summoning fields, Mechanica containment, assassination support, scout-constructs, memory-archive vessels | Constructs may hollow the summoner's Essence Core through prolonged contact, erode their memory or identity, or blur the boundary between recalled and fabricated memory |
+| **Vitalia** *Verdantia, Anima Spirare, Benediction, Mortalis* | Vital warmth, restorative capacity, empathic responsiveness; from Mortalis, a quiet form for the last of it | Healer-companions, chorus-constructs, recovery-field generators, merciful release | Over-empathic resonance may cause the construct to absorb surrounding grief or trauma |
+| **Caloria** *Exuroth, Pyreveil, Manganthra, Catharsis* | Incandescent, volatile, catalytically intense | Siege-breaking, corruption-purging, trial-by-fire constructs | Constructs may exceed their Boundary glyphs and ignite uncontrolled Essence burn |
+| **Fulguria** *Judicium, Aurevane, Luminalis* | Elevated clarity and judgmental precision | Truthseeking constructs, consecrated guardians, verdict-witnesses | Constructs may develop conviction that outlasts their authorization |
+| **Fluxia** *Somnalis, Thaloré, Oblation* | Fluid, reflective shapes that take the form of what holds them | Companions that read a room, tidal screens, forms that spend themselves for another | Constructs may take on the mood of whoever stands nearest, the enemy included |
+| **Vectoria** *Fractura, Petralon, Ascensio* | Heavy load-bearing forms, cracked with light where the strain runs | Breaching constructs, shield-walls, bearers that carry what the host cannot | Constructs may carry strain back down the tether when they break |
+| **Spatium** *Transference, Transmutatio, Eclipseron* | Forms that read wrong at a distance and stand where they were not | Exchange-bodies, couriers, stand-ins that trade places with the summoner | Constructs may leave the summoner unsure where they are themselves |
 
 ---
 
@@ -159,7 +168,7 @@ From the **Voyager Era** down to the present Dark Ages, Spirit Summoning has bec
 
 **Cost.** A piece of your own Core per eidolon and a heavy drain every second it stands, a real risk of Essence depletion cascade, and everyone present finds out what you are like inside.
 
-**Counter.** Sever the tether: Harmonic Silence inside a Silence Realm dissolves any Animatria form outright, a Binding can be broken, and a summoner holding a host cannot also watch their own back.
+**Counter.** Sever the tether: Harmonic Silence inside a Silence Realm dissolves any Animatria form outright, a Binding can be broken, a contract can be stolen, and a summoner holding a host cannot also watch their own back.
 
 **Numbers.**
 - Animatria eidolon: 75,000 to 150,000 EU each by complexity, then 10,000 to 25,000 EU per second to sustain.

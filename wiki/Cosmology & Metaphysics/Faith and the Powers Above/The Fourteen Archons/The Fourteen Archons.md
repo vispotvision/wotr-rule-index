@@ -15,7 +15,7 @@ tags:
 
 At Saltash the guilds have walked the Fourteen Banners through the streets every midsummer since before anyone kept the minutes, each trade behind the Archon it considers its own: the weighmasters under Urion's gold and azure, the masons under Thalen's six stars, the midwives and the sextons arm in arm behind emerald and dead white, and the dyers, who have no Archon and no shame, under whichever banner paid for the cloth. Uurgath's banner is black and no decent trade will carry it, so every year the rat-catchers and the knackers are paid to, and every year they do it with tremendous style. In Year 671 the rat-catchers, tired of being paid, set the thing alight at the Corn Cross on purpose, on the stated principle that this was the only honest way to carry it. The flames ran along the bunting into Veyra's blood-red silk, and the candle-makers walking under it cheered for a moment before they noticed. By dark four banners were ash, the Corn Cross had burned to its pegs, seven guild masters were in the river in their chains of office, and the procession finished anyway, because no trade in Saltash will be the one that stopped walking.
 
-At the very back, behind Elyndra, the gardeners carry a fifteenth pole with nothing on it. They have always done so. Ask them why and they look embarrassed. The gardeners are carrying the only Archon anyone has ever lost, and you will meet her name on the next shelf, in the entry for the one who ate her.
+At the very back, behind Elyndra, the gardeners carry a fifteenth pole with nothing on it. They have always done so. Ask them why and they look embarrassed. The gardeners are carrying the only lost Archon anyone can still name, and you will meet that name on [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos|the next shelf]], in the entry for the one who ate her.
 
 ---
 
@@ -68,6 +68,16 @@ Listed in order of emergence, with governing Archon, common name, thematic desig
 | **XII. AUREN** | Death Magic | *Mortaris* | Passage, silence, lawful ending, soul transition |
 | **XIII. SELHAR** | Harmony Magic | *Resonaris* | Frequency, accord, vibrational governance, tonal law |
 | **XIV. ELYNDRA** | Life Magic | *Vitalaris* | Growth, rebirth, regenerative law, the cycle of renewal |
+
+---
+
+## The Hollow Thrones
+
+The Age of Gods ended when the conscious forms once seated at the origin of certain Principles withdrew, dissolved or were unmade in the Great Spirit War. The Principles did not stop. A **Hollow Throne** is one of them: a Principle that still governs, lawfully and mechanically, with no one home, the way a heart goes on beating in a body with no mind left in it.
+
+Every Zenith answers to one. A person at the top of the climb, whose whole life has grown into a doctrine, becomes recognizable to a vacant Throne, the Throne resonates, and that recognition is the crossing into Stage XIV ([[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]] has the rest). A purse can buy the attempt and never the seat, since a Throne does not read a receipt. The old accounts go one step further and speak of someone actually filling a Throne, a person who has also become a place setting down the self altogether. The Principle's work does not change when that happens, but its texture takes the new occupant's accent, which is why theologians will tell you a Throne used to feel different. It did. It had someone else in it.
+
+**How many there are, no roll says.** The Fracture speaks of the Hollow Thrones of defunct Archons in the plural, the registers above crown fourteen and carry one empty pole, and the same old accounts hold that a handful of Primordial Archons were never mortal and have never left anything vacant. I have seen three counts offered by three Measurewrights, each under seal, and each from a person who wished to be paid for it.
 
 ---
 

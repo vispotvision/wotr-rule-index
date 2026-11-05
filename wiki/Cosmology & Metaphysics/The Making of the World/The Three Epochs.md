@@ -11,7 +11,7 @@ High on Kessel Tor there is a hollow in a basalt face, broad as a threshing floo
 
 Things like that are why people get careful about the three beings on this page. In the days of the Physical Epochs, Bara, Ashura and Aegor walked in human form, and what is left of those days lies about the world as dead and dangerous battlefields, relics people kill for, and old beings who remember. What they were before they ever put on a body is the rest of this entry.
 
-> From the Division's three currents arose three Primordial Epochs, each one a sovereign intelligence crystallized from the raw law of a single plane. The mortal word *god* fits them badly: they are the principles that make godhood possible, the load-bearing grammar beneath every subsequent expression of divine, mortal, and metaphysical power.
+> From the Division's three currents arose three Primordial Epochs, each one a sovereign intelligence crystallized from the raw law of a single plane. The mortal word *god* fits them badly: they are the principles that make godhood possible, the load-bearing grammar beneath every subsequent expression of divine, mortal, and metaphysical power. The word *Epoch* does two jobs, and the registers use both: it names these three beings, and it names the long stretch of the world each of them shaped.
 ```mermaid
 flowchart TD
     D["THE DIVISION"]

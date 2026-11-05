@@ -4,7 +4,7 @@ title: The Black Vessel
 
 # THE BLACK VESSEL (Kurotana) (Conjunction, a standing state)
 
-*Scholars' term: Kurotana, the corrupted mirror of Moetana, and the name it answers to. It is a state of being with powers spent per use, durable as Runecraft, and it lives on this shelf by old filing.*
+*Scholars' term: Kurotana, the corrupted mirror of Moetana, and the name it answers to. It is a state of being with powers spent per use, durable as a cut rune, and it lives on this shelf by old filing.*
 
 > Every village along the northern roads keeps a broom by the door and a rule that nobody can quite explain: if a crow sits at your table while you are deciding something, you put it out, and you decide again. A Guild copyist at Highspire stopped halfway down this entry two centuries ago, inked in red in the margin, and went to find a different job. The Guild, which wastes nothing, has kept her margin.
 
@@ -75,11 +75,13 @@ The failure is cleavage. A clean, unmixed reminder of the one it replaced splits
 
 **Family** · Materia (Monolithion); Limina (Vantabriel, Nihiloth); Fluxia (Oblation).
 
-**Physics Domain** · Directional solidification to a single crystal: no internal boundaries, great resistance to slow load, and nothing to stop a crack.
+**Physics Domain** · Material Science (Monolithion); Entropy, Void and Mind (Vantabriel, Nihiloth); Fluid Dynamics (Oblation).
+
+**Phenomenon** · Directional solidification to a single crystal: no internal boundaries, great resistance to slow load, and nothing to stop a crack.
 
 **Category** · Conjunction
 
-**Craft** · A standing state rather than a cast working, as durable as Runecraft; its powers are spent per use.
+**Skill** · Speaking, internalized: a standing state rather than a cast working, as durable as a cut rune; its powers are spent per use.
 
 **Stage floor** · Dissonance
 

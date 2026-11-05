@@ -283,8 +283,8 @@
 
 #### The Apparatus of the Age — Equipment and Material Culture
 
-- [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon|Shot and the Enhanced Weapon]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture|The Apparatus of the Age — Equipment and Material Culture]]
+- [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Bolt and the Enhanced Weapon|The Bolt and the Enhanced Weapon]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology|The Works and Days — Occupations, Trades and Technology]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard|Weight, Measure and the Standard]]

@@ -6,9 +6,77 @@ title: The Real Alchemy
 
 *What the laboratory did, from the fourteenth century to the end of the nineteenth, with the figures the sources give. An out-of-world reference page.*
 
+In 1810 the British warship HMS *Triumph*, at Cadiz with a cargo of mercury aboard, sprang the worst kind of leak there is. The metal got loose below decks. Within three weeks the men's gums had swelled and their mouths were running with spit, and about two hundred of the 587 aboard fell ill. The animals aboard died. Coins and watches came up silvered, the ship's small change plated by the air everyone was breathing, and you could have drawn the disease on a plan of the berths: the men under the forecastle got off with sore gums, and of those who berthed below, the midshipmen came off lightest, because their duties kept them on deck. Nobody smelled a thing, because mercury vapor has no smell. Most of the salivated men were back aboard after sixteen to twenty-seven days ashore, to a ship poisoned with a metal the physicians of the age were prescribing by the ounce.
+
+That is the real trade, and nothing anyone has invented for it is louder. Isaac Newton and his assistant sat up on alternate nights for six weeks every spring and six more every autumn, feeding a fire that scarcely went out, and when his dated experiments stopped he stood, by his own plan, at least ten steps short of the stone. Herman Boerhaave distilled the same mercury five hundred times, broke retorts along the way, and got no gold for it. In 1658, with antimony ninety-two years under the ban of the Paris Faculty of Medicine, the physician Vallot gave Louis XIV emetic wine at Calais and the king got up cured, after which the Parlement of Paris needed eight more years to lift the ban. An Edinburgh chemist named Stewart broke a vessel of fuming nitric acid in 1863, within hours he and his assistant could hardly breathe, and both of them died. And in a modern laboratory, working from a recipe in George Starkey's notebook, Lawrence Principe came in one morning and found a metallic tree standing in his sealed flask.
+
+Every one of those figures is in the entries below, with its source and its fault. They are here so that a WOTR bench can be as filthy and as dangerous as the real one, and louder, because on a WOTR bench the principles the real alchemists only believed in are true.
+
 Alchemy on the page rests on three sources, read in order. The Alchemical Index says what exists. Alchemetrica says what the discipline believes. This page says what the real trade did at the bench. The operations were genuine laboratory procedure. The furnaces were tended for weeks, sometimes months. The vessels were luted with dung and clay, and the cover-names were written to hide. Anything invented about process, apparatus or reagent behavior is checked here before it reaches the page. Every entry gives the real practice with its figures and its sources, then the way it failed, then one or two lines on where WOTR already carries it. Where WOTR has no counterpart, the entry says so, and whatever is built there is WOTR's own.
 
-**Reading the entries.** Figures are as the sources give them. Metric conversions are standard arithmetic. A claim confirmed from one source only is marked *(single source)*. Sources are named by author and year and listed in full at the foot of the page.
+**Reading the entries.** Figures are as the sources give them. Metric conversions are standard arithmetic. A claim confirmed from one source only is marked *(single source)*. Sources are named by author and year and listed in full at the foot of the page. The *In WOTR* lines speak of the bench of the Dark Ages, the age that opens in 690 IC, where everything built and carried stays medieval. The modern figures are here so the writer knows what the bench is really doing, and a Measurewright (the Guild's certified assessor) or a high-Stage practitioner may know them through the Aether, but nobody in that world can buy the instrument that reads them.
+
+---
+
+## The Bench and the Sixty
+
+The real alchemists were wrong about the world and right about the bench. WOTR keeps their bench and makes them right about the world, and that is the one large difference between every entry below and the page you would write from it.
+
+**The law (R83-9).** Practitioners pull Aether, the raw stuff of magic, from the environment around them, and Aether comes in different types that affect the Soul Crystal (the soul's organ that stores and channels power) differently. What the Crystal refines from them is Essence, the share of Aether a soul holds and spends. Those types are the Wellsprings. There are sixty, fixed and counted, and they are sources of power that also represent alchemical principles and spiritual transformations. So a Wellspring does in WOTR what Sulfur, Mercury and the stages of the Great Work were only supposed to do at the real bench: one law runs in the fire, in the vessel and in the person tending them. A Wellspring also has sites where its Aether pools, which common speech calls Cores, and that is ground and its keepers, a separate matter. Each entry on the Family pages under [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]] carries an **Alchemy** line for what it stands for at the bench and a **Spirit** line for what it does to the soul, and this page follows those lines.
+
+This also leaves an old fight in a state neither side would enjoy. Newman and Principe, below, read alchemy's images as chemistry in code, against Jung's reading of them as the soul's projections, and in the real record the chemists have the better of it. In WOTR the furnace and the soul run on one law, so the chemist and the confessor go on arguing over every deathbed and both of them are reading something that is there.
+
+Bench apprentices in the Four Quarters learn the seven stages of the Work as a counting chant for the bellows, in the Work's own order:
+
+> *Burn it, drown it, part it, wed it,*
+> *rot it, raise it, set it, dread it.*
+
+The eighth verb is their own addition, and the masters have stopped correcting it.
+
+**What has standing at the Bench.** The Bench of Attribution is the court that keeps the trade's register, and it files what it can prove. Six Wellsprings are at once Wellspring, cosmic principle and named operation, and four more lend their law to a stage of the Work.
+
+| This page's entry | The bench's word | Wellspring | What it lends |
+|---|---|---|---|
+| Calcination | The Burning | **Cinerion**, the Ash Veil | Stage of the Work. Strong dry heat drives off what is volatile and leaves what is fixed |
+| Solution | The Taking | **Dissolution**, the Unbinding Stream | Named operation and stage of the Work. Cohesion unraveled into the menstruum (the dissolving liquid) |
+| Separation | The Parting | **Judicium**, the Wellspring of Truth | Stage of the Work. Discernment: the parts told apart and taken apart |
+| Putrefaction and digestion, Fermentation | The Rot through the Feeding | **Rebirthine**, the Cycle Eternal | Stage of the Work. Breakdown pays for growth |
+| Conjunction | The Wedding | None of its own | Stage of the Work. It runs on Attraction (how reality, memory and people bind to a soul), and a Conjunction corrupted injures Attraction itself |
+| Distillation | Distillation | **Sublimare**, the Rising Breath | Stage of the Work. Parting by boiling point, the spirit risen and returned |
+| Sublimation | The Rising | **Sublimatio**, the Ascending Breath | Named operation. Elevates without passing through the states between |
+| Coagulation and congelation | The Setting | **Coagulatio**, the Returning Stone | Named operation and stage of the Work. Gathers what is dispersed round a seed and sets it |
+| Fixation | The Sealing | **Fixatio**, the Binding Flame | Named operation. Anchors and seals |
+| No entry | — | **Transmutatio**, the Law of Change | Named operation. Re-expresses a thing in another basis, nothing created or lost |
+| No entry | — | **Materia Primordia**, the First Substance | Named operation. Re-lattices one Essence into another of its own forms |
+
+The last two have no entry below because no real bench ever did what they do, though Boerhaave gave it five hundred tries. Calcination and Distillation are bench operations and no soul harmonizes with either as such: a soul harmonizes with Cinerion or Sublimare, and the bench borrows from them.
+
+**What the trade says about the rest.** The other Wellsprings have no operation filed under their name at the Bench. Every working alchemist has an opinion anyway, and the Family pages give those opinions marked as the trade's reading, open to a fight. A WOTR workshop should be having that fight. These are the ones that touch this page.
+
+| This page's entry | Wellspring | The trade's reading |
+|---|---|---|
+| The tria prima: Sulfur | **Pyreveil** | The Sulfur principle at full heat: a fire that stays resident in the body it burns |
+| The tria prima: Mercury | **Cymorath** | Volatile Mercury: the spirit that finds its own road up the neck of the still |
+| The tria prima: Salt | **Petralon** | Salt in its fixed office: the foundation that bears the whole vessel and never rises |
+| The degrees of fire | **Ignivale**, **Ascensio** | The first degree, the smallest heat that goes on to pay for itself; and one heat reached by steps, where a fool reaches it at a stroke and loses the glass |
+| Reading heat by color | **Penanceflare** | The fire that reports itself |
+| The water bath | **Nyxial** | The Still Bath: self-limiting at the boil, whatever the fire below it does |
+| The dung bath | **Anima Spirare** | The quickening: the steady blood-warmth of the Bed, in which a charge stays alive |
+| The athanor | **Pyraeon** | The Long Furnace's fire: slow heat kept for months, with the charge never once flaring |
+| The philosophical egg | **Somnalis**, **Hypnather** | The sealed egg before it turns; and the Standing, in which nothing may be done and the thing goes on ordering itself in the dark |
+| Lute | **Chthonica** | The humble seal: it holds because it touches everything |
+| The blacking | **Mortalis** | The charge gone black in the Rot, at the point where a matter stops holding itself together |
+| Cibation | **Verdantia** | The Feeding: growth given a little at a time and never all at once |
+| The metal tree | **Terranova** | The metal tree in the still flask: a mass that mends by growing |
+| The assay's blick | **Mirithane** | The flash on the assay button that shows the metal exactly as it is |
+| The assay pound | **Basilithe** | The Standard: the one fixed measure every other weight is read against |
+| The caput mortuum | **Eclipseron** | The dead head read: what stayed behind in the retort tells you what left it |
+| The burst vessel | **Cataclysm**, **Solfatara** | The moment a burning charge stops burning and becomes a blast; and the vessel that breathes, fume let off without end so the charge never bursts |
+| The dose | **Contrition** | A poison survived at its measure, and the body keeps the receipt |
+| Cover-names | **Tenebra** | The recipe written to hide |
+| The Emerald Tablet | **Abyntheus** | The Emerald Principle at the bench, as above, so below: the great scale read off the small vessel |
+
+**The two bills.** Alchemetrica says that what burns in the crucible burns in the one who tends it, and in WOTR that is architecture. A bench worker pays twice. The real bill is all here, in the mercury and the arsenic and the nitrous fume, and it is the same in both worlds. The second bill runs through the Soul Crystal, on the Spirit line of whatever Wellspring the work has been running under, and its law, its signs and its inquisitors are in [[Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy|The Heresiology of Alchemy]].
 
 ---
 
@@ -20,7 +88,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** Calcination is slow and its yield is small. The result follows how long the fire was kept, far more than how fierce it was. A calx also changes as it burns: Lemery found that longer calcination of red precipitate lightened it and made it milder.
 
-**In WOTR.** Alchemetrica's Burning runs four hours to three days (The Twelve Turnings; Time, and What It Costs). Real calcinations ran from thirty-six hours (Lemery's tin in a pan) and four days (the same tin in a crucible) to Lavoisier's twelve days, past the Burning's upper figure. The Burning's smell of hot stone and scorched bone, and the fume not to be breathed, match Lemery's bench.
+**In WOTR.** Alchemetrica's Burning runs four hours to three days (The Twelve Turnings; Time, and What It Costs). Real calcinations ran from thirty-six hours (Lemery's tin in a pan) and four days (the same tin in a crucible) to Lavoisier's twelve days, past the Burning's upper figure. The law under the Burning is Cinerion's. The Burning's smell of hot stone and scorched bone, and the fume not to be breathed, match Lemery's bench.
 
 ### Solution
 
@@ -28,7 +96,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** The menstruum decides everything. The wrong one leaves the matter untouched, and an impure stock dissolves into something the worker did not expect.
 
-**In WOTR.** Alchemetrica's Taking is the Turning where a workshop learns its stock was not what the seller said. The historical bench met impure stock at the same step.
+**In WOTR.** Alchemetrica's Taking is the Turning where a workshop learns its stock was not what the seller said. The historical bench met impure stock at the same step. The Taking is the bench's Dissolution, and Dissolution is at once a Wellspring, a named operation and a stage of the Work.
 
 ### Separation
 
@@ -36,7 +104,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** Every step loses matter. Paper holds liquor, washings carry salts away, and a careless decant takes the sediment with it.
 
-**In WOTR.** Alchemetrica's Parting is filtration and decanting, slow and unglamorous, where most of a journeyman's early years are spent. The historical parting was as slow, and it lost matter at every step.
+**In WOTR.** Alchemetrica's Parting is filtration and decanting, slow and unglamorous, where most of a journeyman's early years are spent. The historical parting was as slow, and it lost matter at every step. The law it draws on is Judicium, discernment, which is why a good parting hand and a good liar-catcher are sometimes the same person.
 
 ### Putrefaction and digestion
 
@@ -53,7 +121,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** A sealed digestion gives no reading but its color. The worker waits weeks for a black that may be rot or may be ruin, and the heat under it wanders.
 
-**In WOTR.** Alchemetrica's Rot runs three to four and a half turns (six to nine weeks) in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion.
+**In WOTR.** Alchemetrica's Rot runs three to four and a half turns (six to nine weeks) in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion. The law from the Rot to the Feeding is Rebirthine's, breakdown paying for growth, and the trade reads the black itself as Mortalis.
 
 ### Fermentation
 
@@ -61,7 +129,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** A ferment runs on its own clock and its own heat. It can foam over, sour, or stall, and a sealed ferment builds gas.
 
-**In WOTR.** The Alftian Codex draws Furveus's Mercury as the spirit from the ferment, which is Lemery's route. The Codex's seven stages of the Work (Volume the Second) place Fermentation fifth.
+**In WOTR.** The Alftian Codex draws Furveus's Mercury as the spirit from the ferment, which is Lemery's route. The Codex's seven stages of the Work (Volume the Second) place Fermentation fifth, and the stage draws on Rebirthine.
 
 ### Distillation
 
@@ -69,7 +137,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** Distillation separates by heat alone, and heat is a blunt blade. Everything volatile at that heat comes over together, and a hot fire scorches the charge.
 
-**In WOTR.** Alchemetrica's Distillation separates a signal from noise, and without a Direction glyph it separates every signature present. Lemery's still had the same failing with no glyph to help it.
+**In WOTR.** Alchemetrica's Distillation separates a signal from noise, and without a Direction glyph it separates every signature present. Lemery's still had the same failing with no glyph to help it. The law Distillation draws on is Sublimare's, the spirit risen and returned, and the trade reads the spirit that finds its own road up the neck as Cymorath.
 
 ### The strong waters
 
@@ -89,7 +157,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** Modern chemistry finds cohobation does nothing that holding the charge at heat for the same time would not do (Wikipedia, "Cohobation"). Each pass also costs matter and risks the glass.
 
-**In WOTR.** No counterpart. Alchemetrica names no repeated-return distillation, and the Standing Index's nine recrystallisations under witness are a different operation.
+**In WOTR.** No counterpart. Alchemetrica names no repeated-return distillation, and the Standing Index's nine recrystallizations under witness are a different operation.
 
 ### Circulation
 
@@ -105,7 +173,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** Sublimation leaves a residue and layers its product. A single pass is rarely clean, so the real trade sublimed again and again.
 
-**In WOTR.** Alchemetrica's Rising collects on the cold walls of the Riser, and what failed to rise is lost. There is no partial Sublimation. What did not rise stays as a fused mass broken out with a chisel. The historical bench sublimed partially and repeatedly, and its unrisen residue is the period counterpart of that fused mass. Canon names no sublimation outside the Sublimatio operation.
+**In WOTR.** Alchemetrica's Rising collects on the cold walls of the Riser, and what failed to rise is lost. There is no partial Sublimation. What did not rise stays as a fused mass broken out with a chisel. The historical bench sublimed partially and repeatedly, and its unrisen residue is the period counterpart of that fused mass. Canon names no sublimation outside the Sublimatio operation, whose law elevates a thing without passing through the states between, with no stage at which the working can be inspected or corrected.
 
 ### Coagulation, congelation and fixation
 
@@ -113,7 +181,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** A thing "fixed" by one fire may rise again under a hotter one. The word named a result at a stated heat, and the heat was rarely stated.
 
-**In WOTR.** Alchemetrica's Coagulation mirrors Coagulatio, and its Setting is the Turning where process becomes object. Lemery's and Boerhaave's operations are the physical register those entries name.
+**In WOTR.** Alchemetrica's Coagulation mirrors Coagulatio, and its Setting is the Turning where process becomes object. Lemery's and Boerhaave's operations are the physical register those entries name. Coagulatio and Fixatio are both among the six Wellsprings that are also named operations: every Sealing chain on the bench runs under Fixatio's law, and the Bench files a Fixatio Draft as a Coagulation.
 
 ### Conjunction
 
@@ -121,15 +189,15 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** The danger was pressure in sealed glass. Newton's notes record his egg-glass breaking when volatile vitriolic salts rose during a digestion (Spargo 2005).
 
-**In WOTR.** Alchemetrica's Wedding is fast and decisive, and the Alftian Codex's Furveus pours the principles in one movement with an Aperture glyph at the neck to let pressure out. Recombination at the historical bench, of metals or of plant principles, was a slow sealed digestion (Lemery: days to a fortnight in dung). The fast Wedding is WOTR's own. The period danger at the joining was pressure in sealed glass, which is what the Aperture answers. Canon's own danger at the Wedding is Rupture.
+**In WOTR.** Alchemetrica's Wedding is fast and decisive, and the Alftian Codex's Furveus pours the principles in one movement with an Aperture glyph at the neck to let pressure out. Recombination at the historical bench, of metals or of plant principles, was a slow sealed digestion (Lemery: days to a fortnight in dung). The fast Wedding is WOTR's own. The period danger at the joining was pressure in sealed glass, which is what the Aperture answers. Canon's own danger at the Wedding is Rupture. Conjunction is the one stage with no Wellspring of its own: it runs on Attraction, and a Conjunction corrupted injures Attraction itself, which the Heresiology treats as the Corruption of Instrumental Union.
 
 ### Cementation, cupellation and parting
 
-**The practice.** These were the assayer's operations. Cementation packed gold plate in layers with a salt paste and held it at violent heat ten to twelve hours to purge its base metals (Lemery 1686). Cupellation needs a porous cup of bone ash. Lead oxide melts at 888 °C and soaks into the cup, leaving the silver or gold bead on top, in a furnace at about 960 to 1,000 °C under an oxidising draught (Wikipedia, "Cupellation"). The stibnite parting, first set out in the German assaying booklets of the early sixteenth century, drew silver and base metals into sulphides and left the gold (Craddock 2000). The excavated laboratory at Oberstockstall, in Lower Austria, held about three hundred triangular crucibles and about forty scorifiers. It held between sixty and a hundred bone-ash cupels, by differing counts (Martinón-Torres and Rehren).
+**The practice.** These were the assayer's operations. Cementation packed gold plate in layers with a salt paste and held it at violent heat ten to twelve hours to purge its base metals (Lemery 1686). Cupellation needs a porous cup of bone ash. Lead oxide melts at 888 °C and soaks into the cup, leaving the silver or gold bead on top, in a furnace at about 960 to 1,000 °C under an oxidizing draft (Wikipedia, "Cupellation"). The stibnite parting, first set out in the German assaying booklets of the early sixteenth century, drew silver and base metals into sulfides and left the gold (Craddock 2000). The excavated laboratory at Oberstockstall, in Lower Austria, held about three hundred triangular crucibles and about forty scorifiers. It held between sixty and a hundred bone-ash cupels, by differing counts (Martinón-Torres and Rehren).
 
 **The fault.** Each parting carried a little gold away with it. Cupellation also breathed lead fume into the room.
 
-**In WOTR.** Alchemetrica's Reading is the assay before any working, and Weight, Measure and the Standard sets the assay pound so a bead's mass reads directly as fineness. The Working Vocabulary names the cupel, scorification, litharge, the button and the blick as the assay's trade words, and Alchemetrica keeps Kingswater at every parting bench. Cementation has no counterpart.
+**In WOTR.** Alchemetrica's Reading is the assay before any working, and Weight, Measure and the Standard sets the assay pound so a bead's mass reads directly as fineness. The Working Vocabulary names the cupel, scorification, litharge, the button and the blick as the assay's trade words, and Alchemetrica keeps Kingswater at every parting bench. The trade reads the blick as Mirithane. Cementation has no counterpart.
 
 ### The order of the operations
 
@@ -137,7 +205,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** A list of operations in a book was a teaching order, and often a cover. It omitted steps and repeated others under new names.
 
-**In WOTR.** Alchemetrica's Twelve Turnings echo Ripley's twelve in number, with cibation as the Feeding. The Alftian Codex's seven stages of the Work are WOTR's own list and need no real warrant.
+**In WOTR.** Alchemetrica's Twelve Turnings echo Ripley's twelve in number, with cibation as the Feeding. The Alftian Codex's seven stages of the Work are WOTR's own list and need no real warrant, and they carry a weight the real lists never could: six of the seven draw on a Wellspring's law.
 
 ---
 
@@ -152,9 +220,9 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 - the fourth, coals and wood together, the fiercest.
 Sand, iron filings and ash made graded beds, each with degrees of its own, and ash was the mildest because it holds little heat. The reverberatory ran hotter than any of them. A "wheel fire" ringed a crucible with live coals for fusion. The Treatise Newton copied set a water-bath digestion at a heat "which you can hardly bear to touch" (Newman 2019).
 
-**The fault.** A degree measured in coals depends on the coal, the draught and the furnace. Two workshops following one recipe ran two different fires.
+**The fault.** A degree measured in coals depends on the coal, the draft and the furnace. Two workshops following one recipe ran two different fires.
 
-**In WOTR.** Alchemetrica's Heat says every alchemist judges temperature by flame color, the sound of the charge, and a hand held where a hand should not go. That is Lemery's method. The conclusion that a written formula never reproduces the product follows from the period practice too.
+**In WOTR.** Alchemetrica's Heat says every alchemist judges temperature by flame color, the sound of the charge, and a hand held where a hand should not go. That is Lemery's method. The conclusion that a written formula never reproduces the product follows from the period practice too. The trade reads the first degree as Ignivale and the climb by degrees as Ascensio, and a practitioner harmonized to either will tell you that he can feel the difference between your third degree and your fourth, and may be right.
 
 ### Reading heat by color
 
@@ -176,7 +244,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** The colors read true only in dim light, and the reading belongs to the man more than to the scale. The same color name sits 75 to 300 °C apart between the two published tables.
 
-**In WOTR.** Alchemetrica's open flame runs dull red through cherry through orange through white, in the order the tables give, and a master names a temperature off the color to within a hundred degrees. That band is wider than one trained eye's error in Darling's reckoning, and narrower than the gap between the two tables, which often runs past a hundred degrees. The Alchemical Index's Slag-Iron Caustic, skimmed as the slag stops glowing red and starts glowing black, sits on the real glow threshold. Alchemetrica's dark workshop matches the real rule that glow colors read true only in dim light.
+**In WOTR.** Alchemetrica's open flame runs dull red through cherry through orange through white, in the order the tables give, and a master names a temperature off the color to within a hundred degrees. That band is wider than one trained eye's error in Darling's reckoning, and narrower than the gap between the two tables, which often runs past a hundred degrees. The Alchemical Index's Slag-Iron Caustic, skimmed as the slag stops glowing red and starts glowing black, sits on the real glow threshold. Alchemetrica's dark workshop matches the real rule that glow colors read true only in dim light. The trade calls the self-reporting fire Penanceflare's.
 
 ### Instruments
 
@@ -184,7 +252,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** Every early instrument covered the gentle end or read the fierce end wrongly. The furnace heats that mattered most were measured crudely from the 1820s and reliably only from 1886.
 
-**In WOTR.** These instruments exist from 690 IC with the rest of the age's hardware (R53-01, R63-2), the span running from the 1800s into the middle of the 1900s: Daniell's and Siemens's pyrometers, Seger's cones, Le Chatelier's thermocouple, and the mercury thermometer older still. Alchemetrica reads them as tools of the bed and the furnace that never reach the charge inside a sealed vessel, so heat at the charge stays a craft skill.
+**In WOTR.** None of these instruments exists in any era: what is built and carried stays medieval. A Dark Ages bench owns brass and glass, assay forks that ring truer as the ground thickens, water clocks for the hours, and the bead-glasses and clay trial-cones Alchemetrica describes, which are the crude cousins of the thermometer and Seger's cone. They read the bed or the fire, and none of them reads the charge inside a sealed vessel, so heat at the charge stays a craft skill. A high-Stage Measurewright may know through the Aether what a thermocouple would have said, to the degree, and will certainly tell you, and you will still be judging your fire by its color.
 
 ### The water bath
 
@@ -192,7 +260,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** The bath limits itself at the boil, which protects the charge and also caps it. A bath allowed to boil dry stops protecting anything.
 
-**In WOTR.** Alchemetrica's Still Bath is the balneum Mariae, self-limiting at the boil. It is named for Ithra, credited in three traditions and attested in none, which has its period parallel in Maria's bath, a credit carried by a name coined about a thousand years after her. The Cinderhand's bath that must not go dry is an apprentice's task on any period bench. The vaporous bath has no counterpart.
+**In WOTR.** Alchemetrica's Still Bath is the balneum Mariae, self-limiting at the boil. It is named for Ithra, credited in three traditions and attested in none, which has its period parallel in Maria's bath, a credit carried by a name coined about a thousand years after her. The trade reads the Still Bath as Nyxial, self-limiting whatever the fire below it does. The Cinderhand's bath that must not go dry is an apprentice's task on any period bench. The vaporous bath has no counterpart.
 
 ### Sand, ash and filings
 
@@ -210,7 +278,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 - above about 70 °C the risk of self-ignition rises, and piles are broken up at 82 to 93 °C (Rynk 1992).
 **The fault.** Dung heat is neither constant nor blood-warm. It starts hot, falls over weeks, has to be turned or renewed, and a large pile can fire itself.
 
-**In WOTR.** Alchemetrica's Bed holds blood-warmth for three to four and a half turns (six to nine weeks) without fuel, tending, or any possibility of overheating. The span matches the working life of a dung heat. The even blood-warmth and the safety from overheating are WOTR's own; a small bed packed round one vessel is the nearest real case. The Bed's smell, which nobody in the workshop notices after a month, is the dung bath's own.
+**In WOTR.** Alchemetrica's Bed holds blood-warmth for three to four and a half turns (six to nine weeks) without fuel, tending, or any possibility of overheating. The span matches the working life of a dung heat. The even blood-warmth and the safety from overheating are WOTR's own; a small bed packed round one vessel is the nearest real case. The Bed's smell, which nobody in the workshop notices after a month, is the dung bath's own. The trade reads the Bed's warmth as Anima Spirare, the quickening in which a charge stays alive.
 
 ### Lamp, sun and the little furnace
 
@@ -234,7 +302,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** No measured burn time for a charge of the tower is recorded in these sources. The real long runs on record were fires kept by people. Humphrey Newton wrote that the fire in Newton's laboratory scarcely went out night or day for about six weeks in spring and again in autumn, the two men sitting up on alternate nights (Newman 2019).
 
-**In WOTR.** Alchemetrica's Long Furnace is the athanor, fuel tower and gravity feed and all. Its turns or months without a hand on it outruns the evidence, which shows tended runs of six weeks (Newman 2019) to several months (Boerhaave 1730s), with no unattended burn time measured. The tick of the furnace settling as the charcoal drops is the gravity feed's own sound.
+**In WOTR.** Alchemetrica's Long Furnace is the athanor, fuel tower and gravity feed and all. Its turns or months without a hand on it outruns the evidence, which shows tended runs of six weeks (Newman 2019) to several months (Boerhaave 1730s), with no unattended burn time measured. The small noise the furnace makes settling as the charcoal drops is the gravity feed's own, and the trade reads its slow fire as Pyraeon.
 
 ### The still
 
@@ -282,7 +350,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** The egg's only signal is its color and its only failure is breaking. Sealed glass heated for weeks holds whatever pressure the charge makes.
 
-**In WOTR.** Alchemetrica's Standing Egg is the philosophical egg, with no failure signal short of the color going wrong or the glass going. The historical egg gave the same two signals. Eggs under heat for years or centuries are WOTR's own; the real planned regimens ran seven to seventeen months.
+**In WOTR.** Alchemetrica's Standing Egg is the philosophical egg, with no failure signal short of the color going wrong or the glass going. The historical egg gave the same two signals. Eggs under heat for years or centuries are WOTR's own; the real planned regimens ran seven to seventeen months. The trade reads the egg before it turns as Somnalis, every color it might go held at once and unread, and the long wait as Hypnather.
 
 ### Crucibles
 
@@ -294,11 +362,11 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 ### Glass
 
-**The practice.** Soda-lime glass softens at about 730 °C and survives a sudden change of only about 40 °C, against about 170 °C for borosilicate (Wikipedia, "Soda-lime glass"; "Borosilicate glass"). Glass was chosen wherever the reaction had to be watched (Veronesi 2021). It broke. Boerhaave's five hundred mercury distillations cost him retorts along the way (Boerhaave 1730s), and Lemery coated his glass retorts in lute because a reverberatory could melt them (Lemery 1686). Otto Schott developed borosilicate glass at Jena in the late nineteenth century.
+**The practice.** Soda-lime glass softens at about 730 °C and survives a sudden change of only about 40 °C, against about 170 °C for borosilicate (Wikipedia, "Soda-lime glass"; "Borosilicate glass"). Glass was chosen wherever the reaction had to be watched (Veronesi 2021). It broke. Boerhaave's five hundred mercury distillations cost him retorts along the way (Boerhaave 1730s), and Lemery coated his glass retorts in lute because a reverberatory could melt them (Lemery 1686). Otto Schott developed borosilicate glass at Jena in the late nineteenth century. It softens near 820 °C.
 
 **The fault.** Glass cracks under thermal shock and cannot take the top of the range.
 
-**In WOTR.** Alchemetrica's account of glass, which cracks under thermal shock and will not take the top of the range, is the period account of soda and potash glass. Borosilicate glass falls inside the Imperial Age's technology span. It still softens near 820 °C, so "will not take the top of the range" holds for it, but its resistance to thermal shock stands against Alchemetrica's account, and this page does not settle the two. Onceglass has no real counterpart.
+**In WOTR.** Alchemetrica's account of glass, which cracks under thermal shock and will not take the top of the range, is the period account of soda and potash glass, and no era of WOTR makes borosilicate to argue with it. Onceglass has no real counterpart.
 
 ### How long the fire was kept
 
@@ -330,7 +398,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** Lute is the cheapest thing on the bench and holds the lives in the room. It is also made by eye and dried by guess.
 
-**In WOTR.** Alchemetrica's Lute closes every junction by hand with clay and hair and dung and egg and flour. Every ingredient is attested.
+**In WOTR.** Alchemetrica's Lute closes every junction by hand with clay and hair and dung and egg and flour. Every ingredient is attested. The trade reads lute as Chthonica, the humble seal.
 
 ### The recipes
 
@@ -356,11 +424,11 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 **The fault.** Lute shrinks and cracks as it dries, which is why dung, hair and cloth went into it and why it was dried before firing.
 
-**In WOTR.** Alchemetrica's three lutes are attested. Joint lute, egg white and flour bound with linen, is the medieval recipe of pseudo-Lull and Rupescissa. Fire lute of clay, sand and chopped fiber that cracks off in sheets if fired wet is the period fire lute. The fat lute matches too. A workshop guarding its fire-lute proportions is WOTR's own. The period proportions were printed.
+**In WOTR.** Alchemetrica's three lutes are attested. Joint lute, egg white and flour bound with linen, is the medieval recipe of pseudo-Lull and Rupescissa. Fire lute of clay, sand and chopped fiber that cracks off in sheets if fired wet is the period fire lute. The fat lute matches too. A workshop guarding its fire-lute proportions is WOTR's own. The period proportions were printed, and nothing is printed in WOTR, so a guarded proportion there has only the copyist to fear.
 
 ### What an excavated lute contains
 
-**The practice.** A thick clay coat from the outside of a distilling glass at Oberstockstall was examined under the microscope and by electron-beam analysis (Veronesi and Hanß 2023; Veronesi 2021). Oxides of silicon, antimony and calcium made up over eighty per cent of it. The antimony was powdered stibnite. No known recipe calls for it. There was abundant angular sand and a calcium-and-sulfur binder, probably gypsum. Long voids showed where hair, cloth or straw had burned out, and round voids may have been seeds or grain. Two long fissures parallel to the glass show it was put on in two coats. Egg white leaves nothing that can be analysed. Courts paid for the materials: the Württemberg laboratory spent 4 gulden 8 kreuzer on hair in 1618 and 1619.
+**The practice.** A thick clay coat from the outside of a distilling glass at Oberstockstall was examined under the microscope and by electron-beam analysis (Veronesi and Hanß 2023; Veronesi 2021). Oxides of silicon, antimony and calcium made up over eighty per cent of it. The antimony was powdered stibnite. No known recipe calls for it. There was abundant angular sand and a calcium-and-sulfur binder, probably gypsum. Long voids showed where hair, cloth or straw had burned out, and round voids may have been seeds or grain. Two long fissures parallel to the glass show it was put on in two coats. Egg white leaves nothing that can be analyzed. Courts paid for the materials: the Württemberg laboratory spent 4 gulden 8 kreuzer on hair in 1618 and 1619.
 
 **The fault.** What a workshop wrote down and what it put on the glass were two different things.
 
@@ -388,11 +456,11 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 ### Wax, cement and stoppers
 
-**The practice.** Boerhaave closed a mercury bottle with a cork dipped in a melted cement of pitch, rosin, tallow and brimstone, then bound it with linen and packthread (Boerhaave 1730s). Ground stoppers existed by the 1690s, in Yworth's separatory glass (Newman 2019). Still joints were made with lute, bladder, cork, rubber bungs or custom-ground glass until makers standardised their own ranges in the 1920s, and interchangeable ground joints came about 1930 (Wikipedia, "Ground glass joint").
+**The practice.** Boerhaave closed a mercury bottle with a cork dipped in a melted cement of pitch, rosin, tallow and brimstone, then bound it with linen and packthread (Boerhaave 1730s). Ground stoppers existed by the 1690s, in Yworth's separatory glass (Newman 2019). Still joints were made with lute, bladder, cork, rubber bungs or custom-ground glass until makers standardized their own ranges in the 1920s, and interchangeable ground joints came about 1930 (Wikipedia, "Ground glass joint").
 
 **The fault.** Wax and resin soften with heat, so a waxed stopper suits a finished product in storage and fails on a working vessel.
 
-**In WOTR.** The Farrant Papers' vessel carries a lute of gray wax over the stopper, cut and pressed back, with the consignor's mark in it. That matches period wax cements over finished stoppers. Alchemetrica's statement that there are no ground joints holds for the still train before standardised, interchangeable ground joints of about 1930; custom-ground joints and stoppers were older.
+**In WOTR.** The Farrant Papers' vessel carries a lute of gray wax over the stopper, cut and pressed back, with the consignor's mark in it. That matches period wax cements over finished stoppers. Alchemetrica's statement that there are no ground joints holds for the still train before standardized, interchangeable ground joints of about 1930; custom-ground joints and stoppers were older.
 
 ### Who luted
 
@@ -414,11 +482,11 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 ### The tria prima
 
-**The practice.** Sulfur, Mercury and Salt appear in full form in Paracelsus's *Opus Paramirum* of about 1530 and 1531 (Wikipedia, "Paracelsus"). They are principles, not the common substances. Sulfur is what makes a body burn. Mercury is what is fluid and volatile and rises as vapor or smoke. Salt stays fixed in the fire. Earlier alchemy had only Sulfur and Mercury; Paracelsus added Salt (Read 1957). He is said to have shown the three with a burning log: flame from the Sulfur, smoke from the Mercury, ash from the Salt *(single source for the attribution to Paracelsus himself)*. Paracelsian physicians sorted diseases the same way: sulphureous for fevers and inflammations, mercurial for excess moisture, saline for eruptions of the skin (Reading Early Medicine). The mapping onto body, soul and spirit was never fixed. One Paracelsian passage makes Mercury the spirit, Sulfur the soul and Salt the body (Read 1957), and later tables reverse the first two (Brown 1913). Boyle complained that chymists used the three words loosely and shifted their senses within a single book (Boyle 1675).
+**The practice.** Sulfur, Mercury and Salt appear in full form in Paracelsus's *Opus Paramirum* of about 1530 and 1531 (Wikipedia, "Paracelsus"). They are principles, not the common substances. Sulfur is what makes a body burn. Mercury is what is fluid and volatile and rises as vapor or smoke. Salt stays fixed in the fire. Earlier alchemy had only Sulfur and Mercury; Paracelsus added Salt (Read 1957). He is said to have shown the three with a burning log: flame from the Sulfur, smoke from the Mercury, ash from the Salt *(single source for the attribution to Paracelsus himself)*. Paracelsian physicians sorted diseases the same way: sulfurous for fevers and inflammations, mercurial for excess moisture, saline for eruptions of the skin (Reading Early Medicine). The mapping onto body, soul and spirit was never fixed. One Paracelsian passage makes Mercury the spirit, Sulfur the soul and Salt the body (Read 1957), and later tables reverse the first two (Brown 1913). Boyle complained that chymists used the three words loosely and shifted their senses within a single book (Boyle 1675).
 
-**The fault.** Boyle's objection in *The Sceptical Chymist* (1661): burning does not reveal what a body is made of. It makes new compounds. The ash, oil and spirit are products of the fire, and gold cannot be resolved into the three at all (Boyle 1661, as summarised in Thorpe 1909). Van Helmont added that the three cannot be drawn from a living body without destroying what made it alive.
+**The fault.** Boyle's objection in *The Sceptical Chymist* (1661): burning does not reveal what a body is made of. It makes new compounds. The ash, oil and spirit are products of the fire, and gold cannot be resolved into the three at all (Boyle 1661, as summarized in Thorpe 1909). Van Helmont added that the three cannot be drawn from a living body without destroying what made it alive.
 
-**In WOTR.** The Tria Prima of Furveus reads Sulfur onto the Core, Salt onto the Shell and Mercury onto the Attraction Layer (Alftian Codex, Volumes the First and Second). Because every real author mapped the triad his own way, the real record leaves room for it. Salt as the fixed body fits the Shell on real doctrine. Sulfur to the Core and Mercury to the Attraction Layer are WOTR's own choices.
+**In WOTR.** The Tria Prima of Furveus reads Sulfur onto the Core, Salt onto the Shell and Mercury onto the Attraction Layer (Alftian Codex, Volumes the First and Second). Because every real author mapped the triad his own way, the real record leaves room for it. Salt as the fixed body fits the Shell on real doctrine. Sulfur to the Core and Mercury to the Attraction Layer are WOTR's own choices. The trade adds its own reading on top, with three Wellsprings standing for the three principles at the bench: Pyreveil for Sulfur at full heat, Cymorath for volatile Mercury, and Petralon for Salt in its fixed office.
 
 ### Five principles
 
@@ -438,7 +506,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 1. *Digestion.* Seal a double vessel, lute the joint with wet bladder, and set it in horse dung four or five days, or a fortnight for a stronger charge.
 **The fault.** Every step runs a separate fire, and the salt step runs the fiercest one, which destroys what the others kept.
 
-**In WOTR.** The Alftian Codex's Salt, the ash of what is left burned white and crystallised, is Lemery's calcine, leach, evaporate and whiten, step for step. Its oil and its spirit follow Lemery's routes. The Codex's Whitening read as pale and pearly in a spirit has no counterpart in these sources; the whitened thing at Lemery's bench was the salt.
+**In WOTR.** The Alftian Codex's Salt, the ash of what is left burned white and crystallized, is Lemery's calcine, leach, evaporate and whiten, step for step. Its oil and its spirit follow Lemery's routes. The Codex's Whitening read as pale and pearly in a spirit has no counterpart in these sources; the whitened thing at Lemery's bench was the salt.
 
 ### The fixed salt
 
@@ -466,7 +534,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 **The fault.** The maxim assumes a threshold below which there is no harm. That holds for a single poisoning and fails for the cumulative metals. Mercury and arsenic taken at a "safe" daily dose build up in the body, and the chronic diseases they cause are what ended the remedies (Grandjean 2016). Age, timing and the patient's own make-up also decide the poison.
 
-**In WOTR.** The Alftian Codex states it in its own words: each heals at a measure and poisons past it, and the man who measures pays in his hands. The toxicology adds that the man who measures pays cumulatively, which the Codex's "every day he measures" already carries.
+**In WOTR.** The Alftian Codex states it in its own words: each heals at a measure and poisons past it, and the man who measures pays in his hands. The toxicology adds that the man who measures pays cumulatively, which the Codex's "every day he measures" already carries. The trade reads the survived measure as Contrition: the body keeps the receipt.
 
 ### Paracelsus and mercury
 
@@ -502,11 +570,11 @@ A "drop" was often read as a minim. Real drops vary with the liquid and the lip 
 
 **The fault.** Two pints under one name, and a drop that changed with the bottle, put error into every liquid dose. The US and British formulas for Fowler's solution differ for exactly this reason (Wood and Bache 1870).
 
-**In WOTR.** Weight, Measure and the Standard builds its weights on the grain, one dried barley seed, and keeps an assay weight of twelve ounces to the pound for physic and Draft ingredients. No WOTR dose table exists.
+**In WOTR.** Weight, Measure and the Standard builds its weights on the grain, one dried barley seed, and keeps an assay weight of twelve ounces to the pound for physic and Draft ingredients. The trade reads the fixed measure as Basilithe. No WOTR dose table exists.
 
 ### Calomel
 
-**The practice.** Calomel is mercurous chloride, *mercurius dulcis*. Beguin made it by grinding corrosive sublimate with as much quicksilver as it would "kill" and subliming. The 1870 method sublimed quicksilver sulphate with common salt and more quicksilver, powdered the sublimate, and washed it with boiling water until the washings showed no corrosive sublimate (Wood and Bache 1870). Doses in 1870:
+**The practice.** Calomel is mercurous chloride, *mercurius dulcis*. Beguin made it by grinding corrosive sublimate with as much quicksilver as it would "kill" and subliming. The 1870 method sublimed quicksilver sulfate with common salt and more quicksilver, powdered the sublimate, and washed it with boiling water until the washings showed no corrosive sublimate (Wood and Bache 1870). Doses in 1870:
 
 | Purpose | Historical dose | Metric |
 |---|---|---|
@@ -540,11 +608,11 @@ Benjamin Rush in the Philadelphia yellow fever of 1793 gave ten grains of calome
 
 ### White arsenic and Fowler's solution
 
-**The practice.** White arsenic is arsenious acid, arsenic trioxide. In 1870 the average dose was one tenth of a grain (6.5 mg) three times a day in pill, usually with opium. Henry Hunt gave one twentieth of a grain (3.2 mg) three times a day for ulcerated cancer of the womb and for menorrhagia. It was given for cancer of the lip, skin disease, chorea, periodic headache and agues. Asthmatics smoked it in cigarettes at a quarter grain (Wood and Bache 1870). Thomas Fowler of Stafford published his solution in 1786, and it entered the London Pharmacopoeia in 1809 (Wood and Bache 1870; Wikipedia, "Fowler's solution"). The US formula boiled 64 grains of arsenious acid with 64 of potassium bicarbonate in twelve fluid ounces of water, added half an ounce of compound spirit of lavender "to give it taste, and prevent its being mistaken for water," and made it up to a wine pint. That gives half a grain per fluidrachm, about 8.8 mg per ml. The usual adult dose was ten drops two or three times a day, about 5.4 mg a dose if a drop is a minim. Mitchell pushed it to fifteen or twenty drops a dose for agues (Wood and Bache 1870). By the 1880s it was given for ague, sleeping sickness, psoriasis, chorea, asthma, anaemia and rheumatism, and from about 1865 for leukaemia.
+**The practice.** White arsenic is arsenious acid, arsenic trioxide. In 1870 the average dose was one tenth of a grain (6.5 mg) three times a day in pill, usually with opium. Henry Hunt gave one twentieth of a grain (3.2 mg) three times a day for ulcerated cancer of the womb and for menorrhagia. It was given for cancer of the lip, skin disease, chorea, periodic headache and agues. Asthmatics smoked it in cigarettes at a quarter grain (Wood and Bache 1870). Thomas Fowler of Stafford published his solution in 1786, and it entered the London Pharmacopoeia in 1809 (Wood and Bache 1870; Wikipedia, "Fowler's solution"). The US formula boiled 64 grains of arsenious acid with 64 of potassium bicarbonate in twelve fluid ounces of water, added half an ounce of compound spirit of lavender "to give it taste, and prevent its being mistaken for water," and made it up to a wine pint. That gives half a grain per fluidrachm, about 8.8 mg per ml. The usual adult dose was ten drops two or three times a day, about 5.4 mg a dose if a drop is a minim. Mitchell pushed it to fifteen or twenty drops a dose for agues (Wood and Bache 1870). By the 1880s it was given for ague, sleeping sickness, psoriasis, chorea, asthma, anemia and rheumatism, and from about 1865 for leukemia.
 
 **The fault.** The margin is thin. A fatal dose of arsenic trioxide is given as 70 to 180 mg (ATSDR), 70 to 200 mg (Wikipedia, "Arsenic poisoning"), and 50 to 300 mg of inorganic arsenic (IPCS). The 1858 Bradford analyst put a fatal dose at 4½ grains, about 290 mg. That is about ten to forty-five of the tenth-grain pills, or roughly 8 to 34 ml of Fowler's, no more than about an ounce of the bottle. Fowler's also decays: in flint glass it slowly decomposes, smells of garlic, and silvers the inside of the bottle with lead drawn from the glass.
 
-**In WOTR.** The Alftian Codex's white arsenic in small measure for a girl with no color in her is the period anaemia indication at a period small dose.
+**In WOTR.** The Alftian Codex's white arsenic in small measure for a girl with no color in her is the period anemia indication at a period small dose.
 
 ### Tartar emetic and the antimony quarrel
 
@@ -613,7 +681,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 ### Named cases
 
 **The practice.** Four figures of the trade are argued over:
-- *Isaac Newton.* Furnaces from 1669 and heavy work with mercury and antimony. In 1693 he broke down with insomnia, poor digestion, memory loss and paranoid letters. Hair said to be his, analysed in 1979, showed raised mercury: about fifteen times normal is one reported figure (Lesney 2003), and other reports run to about forty times. Spargo and Pounds and Johnson and Wolbarsht argued for poisoning in 1979. The case against reads the breakdown as a depressive illness with no mouth signs and no tremor in the handwriting (Ditchburn 1980; Keynes 1981); the hair's provenance is also open, and some put the collapse down to his break with Fatio de Duillier (Wikipedia, "Later life of Isaac Newton").
+- *Isaac Newton.* Furnaces from 1669 and heavy work with mercury and antimony. In 1693 he broke down with insomnia, poor digestion, memory loss and paranoid letters. Hair said to be his, analyzed in 1979, showed raised mercury: about fifteen times normal is one reported figure (Lesney 2003), and other reports run to about forty times. Spargo and Pounds and Johnson and Wolbarsht argued for poisoning in 1979. The case against reads the breakdown as a depressive illness with no mouth signs and no tremor in the handwriting (Ditchburn 1980; Keynes 1981); the hair's provenance is also open, and some put the collapse down to his break with Fatio de Duillier (Wikipedia, "Later life of Isaac Newton").
 - *Johann Rudolf Glauber.* His health failed from about 1660, an illness put down, as a modern inference, to the mercury, arsenic, antimony and lead of his trade. A fall from a wagon in 1666 crippled him and left him bedridden. He sold his books and apparatus to keep his family and died in Amsterdam in 1670 (Wikipedia, "Johann Rudolf Glauber").
 - *Carl Wilhelm Scheele.* He smelled and tasted his new substances. He had kidney disease from 1785 and died at forty-three. His doctors called it mercury poisoning; modern accounts add arsenic and lead (Wikipedia, "Carl Wilhelm Scheele").
 - *Charles II.* He kept a laboratory and worked at fixing mercury. His death in 1685 in convulsions has been put down to mercury vapor, and also to stroke and kidney failure (Emsley 2005).
@@ -623,7 +691,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ### Arsenic, acute
 
-**The practice.** Within one to two hours: a burning mouth and throat, drooling, trouble swallowing, vomiting, pain in the belly, diarrhoea (UKPID). Garlic breath is among the early signs (ATSDR). The 1870 dispensatory, after Christison, gave three courses: inflammation of the gut killing in one to three days; collapse with little inflammation, killing in five or six hours; and gut symptoms followed by palsy, fits and coma. Some cases resembled cholera. In the 1858 Bradford sweets poisoning, a lozenge maker's mistake put about nine grains of arsenic into each sweet. About twenty people died and more than two hundred fell seriously ill (Wikipedia, "1858 Bradford sweets poisoning").
+**The practice.** Within one to two hours: a burning mouth and throat, drooling, trouble swallowing, vomiting, pain in the belly, diarrhea (UKPID). Garlic breath is among the early signs (ATSDR). The 1870 dispensatory, after Christison, gave three courses: inflammation of the gut killing in one to three days; collapse with little inflammation, killing in five or six hours; and gut symptoms followed by palsy, fits and coma. Some cases resembled cholera. In the 1858 Bradford sweets poisoning, a lozenge maker's mistake put about nine grains of arsenic into each sweet. About twenty people died and more than two hundred fell seriously ill (Wikipedia, "1858 Bradford sweets poisoning").
 
 **The fault.** Huge doses are often vomited, and so men survived a drachm while others died of a few grains.
 
@@ -635,11 +703,11 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 **The fault.** The signs come late and are not unique to arsenic. Mees' lines follow other poisons and illnesses too.
 
-**In WOTR.** Alchemetrica's Draft-mark sits in the sclera and under the nailbeds, keyed to what a man handled most. The Alftian Codex puts it on Furveus as gray nail-beds and pale bands across the nails that no washing lifted, keyed to quicksilver, calomel and white arsenic. Those bands are Mees' lines. A Mees' line grows out in five or six months, so a band still visible dates a dose within the last half-year. The discolouration of the sclera has no real counterpart for mercury or arsenic; silver's slate-gray argyria of skin, nails and eye, and lead's blue gum line, are the nearest real marks (DermNet). A renderer reading a career off the hands has real ground. Yellow nitric-acid stains on skin and nails, Mees' lines, the lead line and argyria each belong to one substance.
+**In WOTR.** Alchemetrica's Draft-mark sits in the sclera and under the nailbeds, keyed to what a man handled most. The Alftian Codex puts it on Furveus as gray nail-beds and pale bands across the nails that no washing lifted, keyed to quicksilver, calomel and white arsenic. Those bands are Mees' lines. A Mees' line grows out in five or six months, so a band still visible dates a dose within the last half-year. The discoloration of the sclera has no real counterpart for mercury or arsenic; silver's slate-gray argyria of skin, nails and eye, and lead's blue gum line, are the nearest real marks (DermNet). A renderer reading a career off the hands has real ground. Yellow nitric-acid stains on skin and nails, Mees' lines, the lead line and argyria each belong to one substance.
 
 ### Lead
 
-**The practice.** Lead reached the chymist through cupellation and litharge, lead-chamber vitriol and lead vessels. In 1656 Samuel Stockhausen of Goslar blamed the smelters' disease on litharge fume (Wikipedia, "Samuel Stockhausen"), and in 1767 George Baker traced the Devonshire colic to lead in cider presses. The signs are colic with obstinate constipation, wrist-drop from weakness of the forearm muscles, anaemia, and a narrow blue-black line along the gum, which Henry Burton described in 1840 (Wikipedia, "Burton's line"; ATSDR).
+**The practice.** Lead reached the chymist through cupellation and litharge, lead-chamber vitriol and lead vessels. In 1656 Samuel Stockhausen of Goslar blamed the smelters' disease on litharge fume (Wikipedia, "Samuel Stockhausen"), and in 1767 George Baker traced the Devonshire colic to lead in cider presses. The signs are colic with obstinate constipation, wrist-drop from weakness of the forearm muscles, anemia, and a narrow blue-black line along the gum, which Henry Burton described in 1840 (Wikipedia, "Burton's line"; ATSDR).
 
 **The fault.** Lead gives colic long before it gives the gum line, and the colic was blamed on diet for a century.
 
@@ -647,11 +715,11 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 ### Antimony and calcination fume
 
-**The practice.** Workers in antimony dust and fume develop "antimony spots," itchy pimples around the sweat glands, commonest in summer, and a dusting of the lungs with chronic cough (UKPID; ATSDR). Smelter workers breathing sulfur dioxide and dust develop chronic bronchitis, now a recognised compensable disease (WSIB). Paracelsus's *Von der Bergsucht* was the first account of it.
+**The practice.** Workers in antimony dust and fume develop "antimony spots," itchy pimples around the sweat glands, commonest in summer, and a dusting of the lungs with chronic cough (UKPID; ATSDR). Smelter workers breathing sulfur dioxide and dust develop chronic bronchitis, now a recognized compensable disease (WSIB). Paracelsus's *Von der Bergsucht* was the first account of it.
 
 **The fault.** The lung disease builds with dose and never reverses.
 
-**In WOTR.** Alchemetrica's vein cough, from calcination fume and especially sulphide roast, is smelter's bronchitis. Its twenty-year onset is WOTR's own figure.
+**In WOTR.** Alchemetrica's vein cough, from calcination fume and especially sulfide roast, is smelter's bronchitis. Its twenty-year onset is WOTR's own figure.
 
 ### Acid fume
 
@@ -681,7 +749,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 **The fault.** In this record the worst killers were small, sensitive quantities held in the hand, and the typical injuries were to eyes and fingers, because the chymist bends over the work. No named alchemist killed by a bursting vessel before 1700 appears in these sources. Van Helmont's gas bursting sealed vessels, often repeated, could not be confirmed.
 
-**In WOTR.** No counterpart for fulminates or chlorate-type explosives on the bench. Alchemetrica's Conjunction bench against an outer wall built light is WOTR's own architecture for a WOTR hazard.
+**In WOTR.** No counterpart for fulminates or chlorate-type explosives on the bench, and WOTR has no guns and no gunpowder in any era, so the Essonnes row is the real record and nothing more. The vessel's violent end is the trade's reading of Cataclysm. Alchemetrica's Conjunction bench against an outer wall built light is WOTR's own architecture for a WOTR hazard.
 
 ### Tests and antidotes
 
@@ -689,11 +757,11 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 **The fault.** The Marsh test makes arsine, the gas that killed Gehlen. The test itself was a hazard to the analyst.
 
-**In WOTR.** No counterpart. No WOTR canon names a test for a poison. The Marsh and Reinsch tests both fall inside the Imperial Age's technology span, which admits everything invented from 1800 to 1900.
+**In WOTR.** No counterpart. No WOTR canon names a test for a poison, and the Marsh and Reinsch tests are nineteenth-century glassware that no era of WOTR will build. The nearest thing a WOTR court can call is a Judicium reader, whose art is to identify composition from signature alone, at a reader's fee.
 
 ### The whole career
 
-**The practice.** Scheele died at forty-three after about twenty-five working years, and Glauber fell ill at about fifty-six, was crippled by a fall at sixty-two and was dead at sixty-six. Mercury miners, gilders and hatters were typically disabled rather than killed. Reform came by ventilation and removal. In 1818 d'Arcet won the Ravrio prize of three thousand francs with a gilders' forge whose draught carried the fume away (d'Arcet 1818). Electroplating after 1840 began to replace fire-gilding (Schwarcz 2023) *(single source)*. Children and bal maidens raked white arsenic out of the Cornish calciner flues with a cloth over the face (National Academies; Cornish Mining World Heritage Site) *(single source)*.
+**The practice.** Scheele died at forty-three after about twenty-five working years, and Glauber fell ill at about fifty-six, was crippled by a fall at sixty-two and was dead at sixty-six. Mercury miners, gilders and hatters were typically disabled rather than killed. Reform came by ventilation and removal. In 1818 d'Arcet won the Ravrio prize of three thousand francs with a gilders' forge whose draft carried the fume away (d'Arcet 1818). Electroplating after 1840 began to replace fire-gilding (Schwarcz 2023) *(single source)*. Children and bal maidens raked white arsenic out of the Cornish calciner flues with a cloth over the face (National Academies; Cornish Mining World Heritage Site) *(single source)*.
 
 **The fault.** No career-length statistic for alchemists exists. Nobody gathered one.
 
@@ -709,7 +777,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 
 **The fault.** The cover protected the secret from the thief and from the heir alike. Whole recipes were lost when the key was.
 
-**In WOTR.** Alchemetrica's Cover-Names substitutes a figure for a substance, decipherable inside the house that wrote it. That is the practice Newman decoded.
+**In WOTR.** Alchemetrica's Cover-Names substitutes a figure for a substance, decipherable inside the house that wrote it. That is the practice Newman decoded, and the trade reads it as Tenebra.
 
 ### The devices of concealment
 
@@ -726,7 +794,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 
 **The fault.** A dispersed or syncopated recipe fails its own house when a book is lost or a master dies before he explains.
 
-**In WOTR.** Alchemetrica's syncope and dispersion are Newman's and Kraus's devices. Its parathesis, a false step a knowledgeable reader recognises as absurd and skips, is WOTR's own sense of Newman's word.
+**In WOTR.** Alchemetrica's syncope and dispersion are Newman's and Kraus's devices. Its parathesis, a false step a knowledgeable reader recognizes as absurd and skips, is WOTR's own sense of Newman's word.
 
 ### Why they concealed
 
@@ -747,7 +815,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 ### Cover-names decoded
 
 **The practice.** Historians have read these back into chemistry:
-- *The gray wolf.* Basil Valentine's First Key (German 1599, woodcuts 1602) feeds the king to a ravenous gray wolf and burns the wolf, and the king returns. The wolf is stibnite; the king, gold: the assayer's purification of gold with antimony sulphide (Principe 2013, via Wikipedia, "The Twelve Keys of Basil Valentine"). Principe tested readings of several Keys in the laboratory *(single source)*.
+- *The gray wolf.* Basil Valentine's First Key (German 1599, woodcuts 1602) feeds the king to a ravenous gray wolf and burns the wolf, and the king returns. The wolf is stibnite; the king, gold: the assayer's purification of gold with antimony sulfide (Principe 2013, via Wikipedia, "The Twelve Keys of Basil Valentine"). Principe tested readings of several Keys in the laboratory *(single source)*.
 - *The green lion of Ripley's Bosom Book* (printed 1683). Thirty pounds of "sericon," dissolved a pound to a gallon of twice-distilled vinegar, set in a water bath to a green gum called our Green Lion. Distilled from a luted retort, it gave a faint water, a white fume, a reddish fume, then drops like blood, and left a black residue called our Dragon (Ripley 1683). Sericon was an impure red lead, and the green gum was crude lead acetate (Rampling 2014). Later readers took sericon for antimony. In Philalethes the green lion is crude antimony (Newman 1996).
 - *Saturnia*, the daughter of Saturn, is crude antimony. Mars is iron. Cadmus and his blood are iron and its sulfur. The Net that caught Mars and Venus is an alloy of copper with the star regulus (Newman 1996; Newman 2005).
 - *The eagle.* In Philalethes each preparation of the mercury with its arsenic is one eagle, taken to the seventh flight and sometimes the tenth. One eagle took about half a day by Starkey's improved method (Philalethes, "Preparations of the Sophic Mercury").
@@ -755,7 +823,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 - *The philosophers' mercury.* Reduce stibnite with iron to the star regulus and fuse it with silver. Amalgamate with quicksilver, then purge and distil in eagles. De Maets' decipherment gives one ounce of regulus to two of cupelled silver to three of the purest mercury (Newman 1996).
 **The fault.** The published recipes left the silver out, a clean syncope. Hertodt in 1678 was stuck until he found in another author that the star regulus will not take up mercury without silver (Newman 1996).
 
-**In WOTR.** WOTR has no gray wolf, eagle, star regulus or philosophers' tree. The Grey Bride, the Winter Salt and the Third Cask are WOTR's own names with no real referent. The Alchemical Index carries no cover-names.
+**In WOTR.** WOTR has no gray wolf, eagle or star regulus, and no philosophers' tree as a cover-name; the metal tree in the still flask appears only as the trade's reading of Terranova. The Gray Bride, the Winter Salt and the Third Cask are WOTR's own names with no real referent. The Alchemical Index carries no cover-names.
 
 ### The impurity lesson
 
@@ -771,7 +839,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 
 **The fault.** The color told the worker where he stood only if his book and his matter agreed, and the schemes did not agree with each other.
 
-**In WOTR.** Alchemetrica's Reading the Color uses the Greek four: the Blacking, the Whitening, the Yellowing, the Reddening. The blacking expected and welcome, and colors read through glass in a sealed vessel, are Philalethes' practice. WOTR has no peacock's tail and no green stage.
+**In WOTR.** Alchemetrica's Reading the Color uses the Greek four: the Blacking, the Whitening, the Yellowing, the Reddening. The blacking expected and welcome, and colors read through glass in a sealed vessel, are Philalethes' practice. The trade reads the Blacking as Mortalis, the point where a matter stops holding itself together. WOTR has no peacock's tail and no green stage.
 
 ### The chemistry behind the colors
 
@@ -782,7 +850,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 | Copper whitened | vapors of mercury or arsenic give copper a silver surface | Principe 2013 |
 | Copper yellowed | vapor from heated calamine makes brass | Principe 2013 |
 | White and white make yellow | Zosimos found white sulfur vapor taken up by white mercury gave a yellow, fixed product | Principe 2013 |
-| Black to red | mercury and sulfur heated in sealed glass give black mercury sulphide, then on sublimation straw, yellow and red, and red cinnabar collects | Simonini 2025 *(single source for the sequence)* |
+| Black to red | mercury and sulfur heated in sealed glass give black mercury sulfide, then on sublimation straw, yellow and red, and red cinnabar collects | Simonini 2025 *(single source for the sequence)* |
 | Black to citrine | Ripley's black residue of lead acetate, touched with a coal, glows through within half an hour to a yellow calx; it is finely divided lead and carbon, which catches fire in air | Ripley 1683; Stadolnik 2021 |
 | Red "blood" | red fumes and blood-red drops at the end of the lead acetate distillation | Ripley 1683 |
 | Black to white | Starkey purged his amalgam from crow-like blackness to lunar whiteness, washing out dross with vinegar and salt | Philalethes, "Preparations" |
@@ -852,7 +920,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 
 **The fault.** Holmyard translated the Jabirian version only. The *Sirr al-Khalīqa* version was Ruska's find two years later, and the two are easily run together. The date of Nuysement's *Traittez* is given as 1620 by French sources and 1621 by English ones, and the question is open.
 
-**In WOTR.** The Alftian Codex, Volume the First, carries all three recitations and the flyleaf line, which Volume the Second quotes again. The credits above belong to those passages.
+**In WOTR.** The Alftian Codex, Volume the First, carries all three recitations and the flyleaf line, which Volume the Second quotes again. The credits above belong to those passages. The trade reads the Tablet's principle at the bench as Abyntheus, the great scale read off the small vessel.
 
 ---
 

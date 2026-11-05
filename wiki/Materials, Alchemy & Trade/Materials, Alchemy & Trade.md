@@ -11,9 +11,11 @@ tags:
 
 # Materials, Alchemy & Trade
 
+Mad Dunna Quillon ran Bloodsilver past the harbor searchers of three kingdoms for seventeen years by packing it inside hollowed bars of Chainsalt, because Chainsalt (a bedded salt that refuses Essence, the refined power a practitioner holds and spends) gives an assay fork nothing to ring against, and the fork is what a searcher carries. She was caught by a cook. Off the southern serpentine coast, with the whole crew of the *Bold Annis* singing under green lanterns, he cracked a salt bar over the stew pot and a slug of bright metal dropped into the fish. He pocketed it, as any cook would. Within the month it had eaten through the pocket, the purse and a good part of his thigh, and he limped up the first quay of the first port he saw and begged the first searcher there to arrest him. They hanged Dunna in a yellow dress at the Accord's expense, before the largest crowd that harbor has ever held, and she is said to have asked who paid for the rope and what it was graded.
+
 > Three registers, one economy. **The Ledger** says what the world is made of. **The Standing Index** says what may lawfully be made from it. **Hide, Horn and Bone** says what was alive first.
 >
-> *A material that scores high on both is not called good. It is called strategic, and the Accord keeps a register of who owns the seams.*
+> *A material that scores high on both earns a harder word than good: strategic, and the Accord keeps a register of who owns the seams.*
 
 ---
 
@@ -23,13 +25,13 @@ tags:
 >
 > Measured on the press. **It has nothing whatsoever to do with Essence.**
 >
-> **HOLDING** is what a material does under Essence. How much it retains, how long, how cleanly it releases, and whether an inscription stays legible to the Continuum over years rather than weeks.
+> **HOLDING** is what a material does under Essence. How much it retains, how long, how cleanly it releases, and whether an inscription stays legible to the Continuum (the order of the world that reads a working and answers it) over years rather than weeks.
 >
-> Measured on the coil.
+> Measured on the coil (the great brass assay instrument; a practitioner stands inside it to be read, and a sample sits where the practitioner would).
 **The two do not track each other.** Forge-Iron bears magnificently and holds nothing. Gloomhide is spiritually inert and physically superb. Mireclay holds a totem for one night and cannot hold a roof for one hour.
 
-**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to. **Family** names the behavioral family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing — recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
-> Blank cells in those three columns mean **canon is silent, not that the material is inert.** An Engraver who fights his substrate pays for it in the lifespan of the inscription.
+**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty fixed types of Aether, each affecting the Soul Crystal differently). **Family** names the behavioral family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
+> Blank cells in those three columns mean **canon is silent, not that the material is inert.** An Engraver (the craftsman who cuts a working into a substrate) who fights his substrate pays for it in the lifespan of the inscription.
 
 ---
 
@@ -58,10 +60,10 @@ flowchart LR
 
 The registers are dry by construction and the pattern only shows at scale.
 > **The world's whole high-temperature capability rests on two ores in two places.** Blacktooth wolfram out of the western tin districts and Ashfast chromite off the southern serpentine belt. The Logistics Division has flagged the dependency in every annual report for nineteen years and nothing has changed.
-**The most important materials are the dull ones.** Chainsalt refuses Essence so completely that every gasket and isolation collar in every serious array is cut from it. Drawcord Sinew is the best cordage below silk and nobody has ever written a song about it. **Grey Standing Chalk is deliberately characterless**, and an apprentice who cannot make a circle work with it has made a bad circle.
+**The most important materials are the dull ones.** Chainsalt refuses Essence so completely that every gasket and isolation collar in every serious array (a working laid out in glyph and substrate to run in place) is cut from it. Drawcord Sinew is the best cordage below silk and nobody has ever written a song about it. **Gray Standing Chalk is deliberately characterless**, and an apprentice who cannot make a circle work with it has made a bad circle.
 
-**And the register's most consequential column is the one about where things came from.** The Three Marks run from **Class I Vein Draw**, taken straight off a Wellspring by array and carrying nothing, to **Class VI Archonic Residue**, which is not rendered but found, and has **no origin the instrument can locate.**
-> Between them sits **Class IV, Crystal Draw** — rendered from something that carried a Soul Crystal. Three lawful sources, **and the arithmetic has never balanced.**
+**And the register's most consequential column is the one about where things came from.** The Three Marks run from **Class I Vein Draw**, taken straight off a Wellspring site by array and carrying nothing, to **Class VI Archonic Residue**, which is not rendered but found, and has **no origin the instrument can locate.**
+> Between them sits **Class IV, Crystal Draw**, rendered from something that carried a Soul Crystal. Three lawful sources, **and the arithmetic has never balanced.**
 
 ---
 
@@ -69,33 +71,33 @@ The registers are dry by construction and the pattern only shows at scale.
 
 > **The reading order.** Thirteen documents. The path runs from the ground upward: what the world is made of, what was alive first, how it is worked, what may lawfully be sold, who rules on it, what it is worth, and who does the work.
 >
-> **1 · The Bearing and the Holding** — the ground itself, and what Essence actually did to industry. **Read this first.** It is the only document that explains why the world looks the way it does, and everything below assumes it.
+> **1 · The Bearing and the Holding**: the ground itself, and what Essence actually did to the trades. **Read this first.** It is the only document that explains why the world looks the way it does, and everything below assumes it.
 >
-> **2 · The Master Material Ledger** — the Tier Scale, the Hazard Register, the unlocatable sources, and the Class IV shortfall.
+> **2 · The Master Material Ledger**: the Tier Scale, the Hazard Register, the unlocatable sources, and the Class IV shortfall.
 >
-> **3 · The Material Index, T0–T4** — the ground, the bulk supply, the first instrument grades.
+> **3 · The Material Index, T0–T4**: the ground, the bulk supply, the first instrument grades.
 >
-> **4 · The Material Index, T5–T9** — what requires a forge-array, a rite, or a corpse, and what lies past that.
+> **4 · The Material Index, T5–T9**: what requires a forge-array, a rite, or a corpse, and what lies past that.
 >
-> **5 · Hide, Horn and Bone** — what was alive first, and the twentieth entry.
+> **5 · Hide, Horn and Bone**: what was alive first, and the twentieth entry.
 >
-> **6 · Alchemetrica** — the practitioner's codex. What the work is, and what the bench costs the body.
+> **6 · Alchemetrica**: the practitioner's codex. What the work is, and what the bench costs the body.
 >
-> **7 · The Alchemical Index** — the forty-one attested formulas, each with its analogue, its mechanism and its failure.
+> **7 · The Alchemical Index**: the sixty-one attested formulas, each with its analogue, its mechanism and its failure.
 >
-> **8 · The Heresiology of Alchemy** — the doctrinal counterpart. Seven lawful stages, seven inversions, and the grammar a civilisation needs so it does not mistake catastrophe for genius.
+> **8 · The Heresiology of Alchemy**: the doctrinal counterpart. Seven lawful stages, seven inversions, and the grammar a civilization needs so it does not mistake catastrophe for genius.
 >
-> **9 · The Standing Index** — the Bench's own register. Forty-five entries, the three marks, and the three lawful sources of Class IV.
+> **9 · The Standing Index**: the Bench's own register. Forty-five entries, the three marks, and the three lawful sources of Class IV.
 >
-> **10 · The Bench of Attribution** — entry, striking, attribution and reservation, and the one instrument the procedure has never required.
+> **10 · The Bench of Attribution**: entry, striking, attribution and reservation, and the one instrument the procedure has never required.
 >
-> **11 · Value, Coin and Trade** — what any of it is worth, in two ledgers that meet at one number.
+> **11 · Value, Coin and Trade**: what any of it is worth, in two ledgers that meet at one number.
 >
-> **12 · The Works and Days** — who does the work, sorted by what the instrument can see.
+> **12 · The Works and Days**: who does the work, sorted by what the instrument can see.
 >
-> **13 · The Apparatus of the Age** — what they carry while doing it. The tallow candle before the Aethersteel plate.
+> **13 · The Apparatus of the Age**: what they carry while doing it. The tallow candle before the Aethersteel plate.
 >
-> **On the two counts.** The Master Material Ledger carries **forty-one** attested formulas in its Alchemical Index. The Standing Index carries **forty-five** entries. *These are different registers and the numbers are not in conflict: one records what the trade knows, the other records what the trade was willing to surrender to the Bench.*
+> **On the two counts.** The Master Material Ledger carries **sixty-one** attested formulas in its Alchemical Index. The Standing Index carries **forty-five** entries. *These are different registers and the numbers are not in conflict: one records what the trade knows, the other records what the trade was willing to surrender to the Bench.*
 *The groupings below are the filing. The order above is the path.*
 
 ### I · The ground and the registers
@@ -107,7 +109,7 @@ The registers are dry by construction and the pattern only shows at scale.
 
 ### II · The bench
 
-*How the work is done, what it costs the body, and how a civilisation names the ways it goes wrong.*
+*How the work is done, what it costs the body, and how a civilization names the ways it goes wrong.*
 - [[Materials, Alchemy & Trade/Alchemy/Alchemetrica]]
 - [[Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy]]
 
@@ -127,16 +129,16 @@ Value, Coin and Trade
 
 *The registers say what the world is made of. These two say who touches it, with what, and what it does to them.*
 
-**The Works and Days** sorts the whole population by **what the instrument can see** — three floors, and the register begins with the third **because they are the majority, and any account of the world's work that begins with the practitioners is describing the exception and calling it the rule.**
+**The Works and Days** sorts the whole population by **what the instrument can see**: three floors, and the register begins with the third **because they are the majority, and any account of the world's work that begins with the practitioners is describing the exception and calling it the rule.**
 
 **The Apparatus of the Age** is its equipment appendix: *the tallow candle before the Aethersteel plate, because the candle appears in more scenes than any weapon.*
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture]]
-> **Cross-section note.** *The Works and Days* names its own unbuilt gaps — **food and cuisine, music, ground-level justice, domestic life and courtship** — which are the same items standing on the docket as **the folk world.** *That register is the closest thing to a foundation for them that exists.*
+> **Cross-section note.** *The Works and Days* names its own unbuilt gaps, **food and cuisine, music, ground-level justice, domestic life and courtship**, which are the same items standing on the docket as **the folk world.** *That register is the closest thing to a foundation for them that exists.*
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard]]
 > **What a pound is, and who never accepted it.** **Weight, Measure and the Standard** underpins the assay, the proof-mark and the Bench, none of which work without standard weights.
 >
 > Everything is built on a counted seed, which is also the flaw, since the Accord's grain is a Western seed. Two parallel systems: **market weight** at sixteen ounces for bulk and **assay weight** at twelve for anything the Bench touches, with the assay pound scaled so a bead reads directly as fineness. Weights carry verification stamps and a false one is **struck** with a six-point mark across them, and struck weights still in circulation are the most reliable indicator of how far the Accord's reach actually extends.
 >
-> Two things worth having in any market scene. A **cased** weight is a bronze shell filled with lead and gives a dull note instead of ringing, so every inspector taps before he does anything else. And the whole grain trade turns on one word, **level or heaped**, which makes the strike-board the most political object in the market.
+> Two things worth having in any market scene. A **cased** weight is a bronze shell filled with lead and gives a dull note instead of ringing, so every market searcher taps before he does anything else. And the whole grain trade turns on one word, **level or heaped**, which makes the strike-board the most political object in the market.
 - [[Materials, Alchemy & Trade/Alchemy/The Real Alchemy]]

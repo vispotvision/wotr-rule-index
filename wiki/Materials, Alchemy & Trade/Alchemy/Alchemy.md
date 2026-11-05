@@ -4,7 +4,9 @@ title: Alchemy
 
 ![[Assets/Paintings/alchemy.webp]]
 
-*The working of Wellspring law upon matter: the craft, its heresies, its register, and the Drafts and tags it sells.*
+*The working of Wellspring law (the sixty types of Aether, and what each one does) upon matter: the craft, its heresies, its register, and the Drafts and tags it sells.*
+
+When a Riser (the tall earthen vessel of sublimation) let go at Pomfret Row in the second year of the Dark Ages, it snowed sky-blue salt on three parishes for an afternoon, and by supper the children who had caught it in their aprons were selling it back to the house that lost it, at forty coppers the sack. This shelf is the long account of that trade, kept by a Guild archivist who has been on both ends of the sack.
 
 - [[Materials, Alchemy & Trade/Alchemy/The Real Alchemy|The Real Alchemy]]: What the laboratory did, from the fourteenth century to the end of the nineteenth, with the figures the sources give. An out-of-world reference page.
 - [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]]: The Working of Wellspring Law Upon Matter

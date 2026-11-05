@@ -8,9 +8,17 @@ title: Prepared Tags
 
 ---
 
+Tamsin Cordwain warranted tags at Quenby for forty-one years under a mark the whole county could sketch from memory, and her will asked for one thing: that she go into the ground the way she had lived, loudly and at her own expense. So on the morning they buried her, forty apprentices in amber sashes lined the Cutters' Stair with the four hundred and twelve tags laid up in her strongbox, every one of them fired on the air or on a stored charge, and as the bier came down they touched them off one by one. Flash tags went up the Stair like a string of small white suns. Smoke rolled down the steps a room's worth at a time. A Hush tag dropped the whole hill into silence for a few held breaths, and two Blast tags took the weathercock off the chandlery, by prior arrangement with the chandler. Under all of it ran the thing every cutter knows and few ever see in bulk: an ambient or stored tag lights in its maker's color, so that for a quarter of an hour, three days dead, Tamsin Cordwain went on signing her name up the length of the Stair in honey amber, and grown men wept into their hats.
+
+Then the ninety-first tag lit spark blue, and so did the ninety-second.
+
+In the second rank of mourners, in his good black, stood Fulk Pyke, Warden of the Company of the Slate, whose own color every cutter in Quenby had been looking at across a feud for thirty years. Twenty-seven tags in that box carried Tamsin Cordwain's mark and burned Fulk Pyke's blue. She had spent nine years tracing them through the ports, each one a forgery of her warranty that had already killed somebody or would, and in her last month she had bought twenty-seven fresh off the boats, through a nephew, and left instructions about the order in which they should be laid out. Forty apprentices turned around. The fight went down the Stair and through the churchyard with a hundred people in it and every sleeve in the trade emptying at once. Three mourners died on those steps and a fourth went home without his jaw. Pyke ran with his coat alight and the Accord hanged him at the autumn assize, and the Slate and the Cordwain apprentices still break each other's windows on her day. The children of Quenby count out their games by it: *Amber holds and amber stays, blue will hang you all your days.*
+
+That funeral is a working knowledge of tags, delivered at volume. What a tag is, who can fire it, what color it lights and why the mark on it matters are set out below, with fewer casualties.
+
 ## What it is
 
-A **tag** is Runecraft (the cutting: a working written into a material so that it holds without its maker) cut fast onto **paper, leather or slate**, carried in a sleeve, a belt or a boot, and fired in a single beat. A wall needs a season because it has to stand for centuries. A tag needs an hour because it only has to stand until it is used, and its last line is its own burning: when the tag is spent the material is ash, and the working ends with it.
+A **tag** (a *slap* or a *strip* in any tavern with fighters in it) is Runecraft (the cutting: a working written into a material so that it holds without its maker) cut fast onto **paper, leather or slate**, carried in a sleeve, a belt or a boot, and fired in a single beat. A wall needs a season because it has to stand for centuries. A tag needs an hour because it only has to stand until it is used, and its last line is its own burning: when the tag is spent the material is ash, and the working ends with it.
 
 **Only practitioners can fire a tag.** The trigger is a touch of the user's own Essence (the stuff a working is made of) through a woken Soul Crystal (the seat of a practitioner's power), with a word or a hand sign. An unwoken hand holding a tag is holding paper.
 
@@ -20,7 +28,7 @@ A tag is also why low-Stage fighters love them. Below Refraction (Stage VII, the
 
 | Fuel | Where the power comes from | What it means in a fight |
 |---|---|---|
-| **Ambient Aether** | The magic in the air around it, at the room's Density (how much Aether a place holds) | Cheap and never stale. **Fails in dead ground** (a district cut off from its supply, or a place no Wellspring reaches) and weakens anywhere thin |
+| **Ambient Aether** | The magic in the air around it, at the room's Density (how much Aether, the raw stuff of magic, a place holds) | Cheap and never stale. **Fails in dead ground** (salted ground, worked by hedge-workers so Aether will not pool on it; bled ground, pulled empty; a place beside a Core, a worked Wellspring site, whose keepers have closed it; or a place no Wellspring's Aether reaches) and weakens anywhere thin |
 | **The user's reserve** | The Essence the person firing it can spend before running dry | As strong as the user, up to the maker's Stage. **It costs the user**, and the more they feed it the longer it holds |
 | **The maker's stored charge** | Reserve the cutter poured into the tag when it was made | Works anywhere and for anyone who can fire it. **Goes stale**: strongest the day it is cut, weaker each week, dead in a season |
 
@@ -36,12 +44,12 @@ A tag is slapped onto a surface or a body, laid in advance, or wrapped round a k
 
 ## What it costs
 
-**Coin.** Tags compete with enhanced shot (bullets carrying a working) and are priced against it, by the maker's Stage:
+**Coin.** Tags compete with enhanced bolts (crossbow bolts carrying a working) and are priced against them, by the maker's Stage:
 
 | Maker's Stage | Price, one tag | Note |
 |---|---|---|
 | **I** · Murmuring | 4 to 8 copper | **Penny tags.** One in three fails |
-| **II** · Welling | 2 to 4 silver | The field standard; about the price of one enhanced round |
+| **II** · Welling | 2 to 4 silver | The field standard; about the price of one enhanced bolt |
 | **III** · Ascension | 1 to 2 gold | Bought singly, by people who expect to live because of it |
 | **IV** · Flourishing | 3 to 6 gold | Officers', bounty hunters' and sect disciples' kit |
 | **V** · Splintering | 9 to 18 gold | Rarely on a counter |
@@ -55,7 +63,7 @@ A tag is slapped onto a surface or a body, laid in advance, or wrapped round a k
 
 - **Wet it.** A soaked paper tag swells and its lines blur. Leather and slate shrug it off.
 - **Cut the line.** A tag torn through its lines will not fire, or fires wrong. A blade across a stuck tag is the fastest answer to a Binding or a Seal.
-- **Take the fight to dead ground.** Ambient tags need Aether in the air.
+- **Take the fight off rich ground**, onto salted, bled or thin ground. Ambient tags need Aether in the air.
 - **Read the color.** A reserve tag tells you who is feeding it. Hit them, and the tag starves.
 - **Wait it out.** A stored-charge tag weakens by the week. An old tag from a dead cutter is a gamble.
 - **Watch the hand.** Slapping, laying or throwing a tag takes a beat, and the hand that goes to the sleeve is a tell.
@@ -72,7 +80,7 @@ Orla Venn, a Stage III bounty hunter, walks into a warehouse after a forger. She
 |---|---|---|---|---|---|
 | **Flash Tag** | A white burst and a crack. Blinds and deafens anyone facing it within about four meters for a few seconds | Ambient Aether | I to III | 6 copper to 2 gold | Licensed cutters; penny tags on the black market |
 | **Smoke Tag** | Pours out thick gray smoke, a room's worth, for about a minute | Ambient Aether | I to II | 4 copper to 3 silver | Licensed cutters |
-| **Tripwire Tag** | Pasted across a door or a path. Shrieks loud enough to hear a street away when a body crosses it. The commonest tag on the main | Ambient Aether | I to II | 6 copper to 2 silver | Licensed cutters, sold to households and shops |
+| **Tripwire Tag** | Pasted across a door or a path. Shrieks loud enough to hear a street away when a body crosses it. The commonest tag on any kept street | Ambient Aether | I to II | 6 copper to 2 silver | Licensed cutters, sold to households and shops |
 | **Kindling Tag** | Bursts into a hot, clinging flame on whatever it is stuck to | Ambient Aether | I to III | 6 copper to 1 gold | Licensed cutters |
 | **Blast Tag** | Explodes on the trigger or after a count. At Stage II it blows a door off its hinges; at Stage IV it brings down a wall | The maker's stored charge | II to V | 3 silver to 15 gold | Licensed to armies and mines; black market in every port |
 | **Ward Tag** | Throws up a flat pane of hard Aether a pace wide that stops one blow or one volley, then shatters | The user's reserve | II to IV | 2 silver to 6 gold | Licensed cutters |
@@ -87,8 +95,8 @@ Orla Venn, a Stage III bounty hunter, walks into a warehouse after a forger. She
 
 ## Who cuts them
 
-- **Licensed cutters.** Accord-licensed hands working under a master's mark, selling over a counter with an excise stamp. Most tags on the main come from them, and the Accord guards the monopoly hard.
+- **Licensed cutters.** Accord-licensed hands working under a master's mark, selling over a counter with an excise stamp. Most tags on the kept streets (the city quarters whose lamps and wards are kept by hired crafts) come from them, and the Accord guards the monopoly hard. Stage brackets bar purchased tags outright, which has done nothing for the trade in tags sewn into a fighter's hat.
 - **The black market.** Unlicensed cutters, failed apprentices and forgers of other men's marks. Cheaper, unwarranted, and the source of most tags that do not stop.
-- **The sects.** The schools and great houses of the East keep their best tag forms as secrets, taught by rank. A disciple who leaves with a Binding or an Anchor form in their hands is hunted for what they know.
+- **The sects.** The schools and great houses of the East keep their best tag forms as secrets, taught by rank, and a school's tag-hand can be spotted at fifty paces by the way the sleeve is cut. A disciple who leaves with a Binding or an Anchor form in their hands is hunted for what they know.
 
 > In the north almost nobody cuts. What tags the north carries come from Accord quartermasters, and a northern soldier pays for them in kind.

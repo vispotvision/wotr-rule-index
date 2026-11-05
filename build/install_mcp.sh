@@ -15,8 +15,9 @@
 # The config is ~/.config/Claude/claude_desktop_config.json (was
 # %APPDATA%\Claude\..., virtualised into the Store package's LocalCache). The
 # previous file is kept next to it as claude_desktop_config.json.bak. The entry
-# runs the venv's python on build/mcp_server.py over stdio; the server reads
-# ~/.config/wotr/env itself (common.load_env), so nothing else is needed here.
+# runs the Rust server, rust/target/release/wotr-mcp, over stdio (since 2026-11-04;
+# build it first with `cd rust && cargo build --release`); it reads ~/.config/wotr/env
+# itself, so nothing else is needed here.
 
 set -eu -o pipefail
 . "$(dirname "$0")/env.sh"
@@ -39,7 +40,11 @@ if [ ! -f "$cfg" ]; then
     exit 1
 fi
 echo "config: $cfg"
-server="$WOTR_REPO/build/mcp_server.py"
+server="$WOTR_REPO/rust/target/release/wotr-mcp"
+if [ ! -x "$server" ]; then
+    echo "$server is not built: cd rust && cargo build --release" >&2
+    exit 1
+fi
 
 # 1. is Claude Desktop running? The Arch package is /usr/lib/claude-desktop/claude-desktop,
 # process name claude-desktop (pgrep -x: exact name, so the Claude Code CLI - process
@@ -64,16 +69,16 @@ if [ -n "$running" ]; then
     fi
 fi
 
-# 2. add the server entry (a JSON edit that keeps every other key as it is)
+# 2. set the server entry (a JSON edit that keeps every other key as it is)
 if [ "$mode" = write ]; then
     cp -p "$cfg" "$cfg.bak"
     echo "backup: $cfg.bak"
 fi
-"$WOTR_PYTHON" - "$cfg" "$WOTR_PYTHON" "$server" "$mode" <<'PY'
+"$WOTR_PYTHON" - "$cfg" "$server" "$mode" <<'PY'
 import json
 import sys
 
-cfg, python, server, mode = sys.argv[1:5]
+cfg, server, mode = sys.argv[1:4]
 with open(cfg, encoding="utf-8-sig") as f:  # tolerate a BOM if one ever crept in
     data = json.load(f)
 if not isinstance(data, dict):
@@ -81,7 +86,8 @@ if not isinstance(data, dict):
 servers = data.get("mcpServers")
 if not isinstance(servers, dict):
     servers = data["mcpServers"] = {}
-servers["WOTR MCP"] = {"command": python, "args": [server]}
+servers.pop("WOTR MCP", None)  # the name this script once used, beside the app's own "wotr"
+servers["wotr"] = {"command": server, "args": []}
 text = json.dumps(data, indent=2, ensure_ascii=False) + "\n"
 if mode == "dry-run":
     sys.stdout.write(text)
@@ -94,7 +100,7 @@ if [ "$mode" = dry-run ]; then
     echo "(dry run: nothing written)"
     exit 0
 fi
-echo "Added 'WOTR MCP' -> $WOTR_PYTHON $server"
+echo "Set 'wotr' -> $server"
 
 # 3. the app has to start fresh to read it; that is your move, not this script's
-echo "Config written. Start Claude Desktop from the launcher; WOTR MCP appears in the tools menu inside a chat."
+echo "Config written. Start Claude Desktop from the launcher; the wotr tools appear in the tools menu inside a chat."

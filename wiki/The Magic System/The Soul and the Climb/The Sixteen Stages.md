@@ -337,7 +337,7 @@ Biomes carry doctrine here. The land near a Stage XIII practitioner takes more t
 
 **Catalyst** · the practitioner's accumulated doctrine becomes recognizable to a Hollow Throne, and the Throne resonates. The transition comes by recognition, and no breakthrough reaches it.
 
-***The one they tell*** · The Guild sent twelve Measurewrights up Mount Skarn to assay a Zenith, with assay forks, water clocks and a year's worth of good sealed paper, under a banner and with a band as far as the snow line. They were gone three years. Eleven brought back careful accounts of the attempt. The twelfth brought back a recipe for plum jam, which the Archives has filed with the others and which a majority of the Division now considers the most accurate of them. Their forks came down still ringing, thin and sweet, though nobody has struck them since. They are ringing now in a glass case on the Upper Ring at Stannvaard, where children are brought to hear them and taken away again quite quickly.
+***The one they tell*** · The Guild sent twelve Measurewrights up Mount Skarn to assay a Zenith, with assay forks, water clocks and a year's worth of good sealed paper, under a banner and with a band as far as the snow line. They were gone three years. Eleven brought back careful accounts of the attempt. The twelfth brought back a recipe for plum jam, which the Archives has filed with the others and which a majority of the Division now considers the most accurate of them. Their forks came down still ringing, thin and sweet, though nobody has struck them since. They are ringing now in a glass case on the Upper Ring at Marrowhold, where children are brought to hear them and taken away again quite quickly.
 
 ***From inside*** · Something that was already there notices.
 
@@ -372,7 +372,7 @@ The practitioners who reach it describe the pressure and decline to describe the
 
 **Catalyst** · holding a Principle in the Soul Crystal without fracturing, even momentarily, even imperfectly
 
-***The one they tell*** · The house of Tolly and Daughters on the Exchange Stair at Stannvaard has posted the same line for four hundred years, a thousand to one that somebody reaches Apex by next midsummer, and it takes a few coppers on it every season from drunks and one quiet Measurewright. It has never paid out. One spring a runner brought the family a rumor, and they closed the shop, settled every debt in the city and were gone by sundown. They came back ten years later, reopened on the same stair at the same odds, and have never said what they heard.
+***The one they tell*** · The house of Tolly and Daughters on the Exchange Stair at Altherion has posted the same line for four hundred years, a thousand to one that somebody reaches Apex by next midsummer, and it takes a few coppers on it every season from drunks and one quiet Measurewright. It has never paid out. One spring a runner brought the family a rumor, and they closed the shop, settled every debt in the city and were gone by sundown. They came back ten years later, reopened on the same stair at the same odds, and have never said what they heard.
 
 A Principle is a truth normally reserved for beings that have completed Apotheosis. Apex is the state of a Crystal dense enough with accumulated doctrine to contain one, briefly, badly, and not come apart.
 

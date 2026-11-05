@@ -34,11 +34,11 @@ Nine days above ground in the house, then burial in consecrated parish ground. *
 
 The **layer-out** is a woman of the parish, usually old, usually poor, paid in coin or in kind, **and socially situated exactly where every such worker in every quarter is situated: indispensable and slightly unclean.** She washes, binds, straightens, **and knows within the hour whether the Echo has gone**, and her word on that is accepted by the parish and has been for longer than the Accord has existed.
 
-### Dawi
+### Marrowkin
 
-Interment in the hold, in stone, **in the rock the clan has worked.** The Dawi position is that a Dawi's Temperance was earned in the hold and returns to the hold, **and that burial anywhere else is theft from the ancestors.**
+Interment in the hold, walled into a cut gallery, **in the bone the clan has worked.** The Marrowkin position is that a Marrowkin's Temperance was earned in the hold and returns to the hold, **and that burial anywhere else is theft from the ancestors.**
 
-So a Dawi who dies abroad is carried home, however far, however long, **and the nine days are frequently spent in transit in a sealed stone casket that the clan will not open and will not explain.** *Whether the diffusion completes correctly under those conditions is a question the Dawi consider impertinent and the Archives consider open.*
+So a Marrowkin who dies abroad is carried home, however far, however long, **and the nine days are frequently spent in transit in a sealed stone casket that the clan will not open and will not explain.** *Whether the diffusion completes correctly under those conditions is a question the Marrowkin consider impertinent and the Archives consider open.*
 
 ### Yuno
 
@@ -157,7 +157,7 @@ A body nobody claims inside the window passes to whoever holds it lawfully: an a
 
 ## Unresolved Entries
 
-**Dawi transit** · Whether diffusion completes correctly inside a sealed stone casket over a journey of weeks. **The Dawi consider the question impertinent. The Archives consider it open. No hold has permitted an assay.**
+**Marrowkin transit** · Whether diffusion completes correctly inside a sealed stone casket over a journey of weeks. **The Marrowkin consider the question impertinent. The Archives consider it open. No hold has permitted an assay.**
 
 **The goblinoid three centuries** · **The Concord position was reversed without acknowledgement.** No reparation has been proposed and none has been requested, **which the Division records as resolution.**
 

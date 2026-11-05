@@ -162,7 +162,7 @@ At first light I swore myself to the Dawn Guard's teaching vow at the quench, be
 
 ## Chapter the Seventeenth · Eight Names on the Roll
 
-With the rank I could enter pupils for the kingdom's examination in the Draft trade, which the Carver's Seat sets and marks for the whole of Ketsuen, and I entered eight of mine. They were the first children of the valley outside a blood or a hall ever entered for it. I left them in the candidates' hall at the Seat in the wardens' keeping, as every candidate is left, and took the ninth east with me because he wrote the best hand and I needed lists.
+With the rank I could enter pupils for the Reach's examination in the Draft trade, which the Carver's Seat sets and marks for the whole of the Crow's Reach, and I entered eight of mine. They were the first children of the valley outside a blood or a hall ever entered for it. I left them in the candidates' hall at the Seat in the wardens' keeping, as every candidate is left, and took the ninth east with me because he wrote the best hand and I needed lists.
 
 The examination sat on the third morning after the night I drafted the terms. I was teaching in the camp.
 

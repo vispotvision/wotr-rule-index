@@ -239,7 +239,7 @@ Songscript is reserved for law and consecration. Ordinary Eressean correspondenc
 
 **Goblinoid speakers** trill the *r*, close their syllables, and reach instinctively for an imperative that does not exist, producing window-statements with no authority behind them. A Vaross speaker in an Eressean chamber is a man repeatedly announcing that the hour has come, to a room that knows perfectly well he cannot open it.
 
-**Dawi speakers** handle the phonology well and the witness system badly, because Runic Dawi oath-names put the answerability in the name itself rather than in an affix, so a Dawi speaking Eressean under-marks constantly. They are heard as evasive when they are being, by their own lights, redundant.
+**Marrowkin speakers** handle the phonology well and the witness system badly, because Tally-Tongue oath-names put the answerability in the name itself rather than in an affix, so a Marrowkin speaking Eressean under-marks constantly. They are heard as evasive when they are being, by their own lights, redundant.
 
 **Eressean speakers of Common** over-specify provenance, name their witnesses unprompted, and produce sentences that read to Concord ears as either aristocratic or paranoid. They also refuse to give orders and issue schedules instead, which has cost at least two joint campaigns their opening week.
 

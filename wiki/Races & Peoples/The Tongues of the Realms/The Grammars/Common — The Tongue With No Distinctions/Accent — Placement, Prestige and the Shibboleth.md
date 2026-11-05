@@ -22,7 +22,7 @@ Eye-dialect, rendering a speaker's vowels phonetically on the page, is barred ou
 
 Accent in WOTR is carried by **word choice, syntax, function words, silence, and what a speaker calls things.** All five are invisible as spelling and audible in dialogue.
 
-The four grammars already do this for foreign speakers, and they do it by deriving the accent from the first language: a goblinoid drops articles because Vaross has none, a Dawi will not state an intention without swearing because there is no verb form for it, an Eressean names his witnesses because his own tongue will not let him possess anything silently. That method stands. This page extends it to the harder case, which is **Concord humans speaking Common to each other.**
+The four grammars already do this for foreign speakers, and they do it by deriving the accent from the first language: a goblinoid drops articles because Vaross has none, a Marrowkin will not state an intention without swearing because there is no verb form for it, an Eressean names his witnesses because his own tongue will not let him possess anything silently. That method stands. This page extends it to the harder case, which is **Concord humans speaking Common to each other.**
 
 ## I. The Asymmetry
 
@@ -30,7 +30,7 @@ The fact that makes accent worth writing in this world at all.
 
 **Foreigners are exempt. Natives are on trial.**
 
-Common has no chancery, no guild and no order with jurisdiction over it, so there is no prestige standard a foreigner is expected to reach. A Dawi with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone, and nobody corrects him, because nobody has the standing to.
+Common has no chancery, no guild and no order with jurisdiction over it, so there is no prestige standard a foreigner is expected to reach. A Marrowkin with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone, and nobody corrects him, because nobody has the standing to.
 
 But a Concord man is placed instantly, by everyone, in a sentence or two, and it costs him. His own people own the standard and enforce it on each other constantly and informally, with a look. **The outsider's accent is a fact about where he is from. The insider's accent is a verdict on what he is worth.**
 
@@ -46,7 +46,7 @@ This inverts the usual fantasy handling, where the foreign accent is the marked 
 
 **Four. What he calls the crafts.** The doublet in action. *Ars Scripti* is an examiner. *The inscription* is a guild clerk. *The writing* is a customer. *The cutting* is a man who has watched it done. *A mouth* is contempt for a speaker, and it is a word a certain kind of person uses in front of the wrong company exactly once.
 
-**Five. The loan strata he reaches for.** *At seth* or *on time*. *Cadre* or *the lads*. *Tally* or *the book*. Eressean loans are court and calendar and mark the East and the educated. Vaross loans are garrison and mark a man who has served or lived beside those who did. Dawi loans are trade and drink and mark the North.
+**Five. The loan strata he reaches for.** *At seth* or *on time*. *Cadre* or *the lads*. *Tally* or *the book*. Eressean loans are court and calendar and mark the East and the educated. Vaross loans are garrison and mark a man who has served or lived beside those who did. Marrowkin loans are trade and drink and mark the North.
 
 **Six. How he handles a silence.** An easterner who goes quiet has said something, because the *lith* is a real practice there. A westerner reads the same silence as having run out of words and fills it. This lever costs no dialogue at all and is the one most often left on the table.
 
@@ -106,8 +106,8 @@ The pattern recurs across centuries. In 1282 the Sicilians reportedly asked susp
 
 The WOTR versions are already sitting in the grammars, unused.
 - <strong>The syllabic</strong> <strong><em>r</em></strong><strong>.</strong> Concord speakers universally insert a vowel and produce <em>gurr</em> for <em>grr</em>, audible in the first word, and cannot be trained out of it under pressure. Anywhere the Mandate wants to sort goblinoid from Concord in the dark, one word does it.
-- **Vowel length.** A Vaross speaker holds vowels for emphasis and a Dawi treats length as phonemic, so a Concord man reading a formula aloud shortens a long vowel and has said a different word. A gate that requires the toll formula spoken rather than shown is a gate that filters.
-- **Grade.** A Dawi name in the weak grade is an oath-broken Dawi. A hold that asks a stranger to say his own name is not being polite.
+- **Vowel length.** A Vaross speaker holds vowels for emphasis and a Marrowkin treats length as phonemic, so a Concord man reading a formula aloud shortens a long vowel and has said a different word. A gate that requires the toll formula spoken rather than shown is a gate that filters.
+- **Grade.** A Marrowkin name in the weak grade is an oath-broken Marrowkin. A hold that asks a stranger to say his own name is not being polite.
 - **The pitch contour.** A Concord speaker cannot hear it and cannot produce it, so any Eressean claim spoken by one is void, which means an Eressean court can identify a forgery by having it read aloud.
 **And the quieter application, which is the one that will earn its keep.** Eighteenth-century advertisements for runaway servants and apprentices routinely identified them by accent, with descriptions like *speaks broad Yorkshire*. In the Realms the same words go out hand-copied and nailed to doors. A deserter notice, a bond-runner's description, a Bench of Attribution circular hunting a mouth who left no mark: **accent is the only description available for a man who cut nothing, poured nothing, and signed nothing.** Given that a spoken working has no author in its own grammar, accent is very often the entire case file.
 

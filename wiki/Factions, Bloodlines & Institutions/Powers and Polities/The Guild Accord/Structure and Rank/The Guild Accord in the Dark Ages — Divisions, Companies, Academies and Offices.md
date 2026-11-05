@@ -120,7 +120,7 @@ The freedom brings the right to work for whom you choose or to set up on your ow
 
 **Craft companies.** Regulate a craft: standards of work, terms of apprenticeship, who may take hire. The Engravers, the Drafters, the Assayers, the Fitters and Gaugers.
 
-**Merchant companies.** Regulate a **trade** rather than a craft, and their members make nothing. The great houses of Stannvaard. These outrank craft companies in wealth and are outranked by them in precedence, and neither side has ever stopped minding.
+**Merchant companies.** Regulate a **trade** rather than a craft, and their members make nothing. The great houses of Altherion. These outrank craft companies in wealth and are outranked by them in precedence, and neither side has ever stopped minding.
 
 **Societies.** Restrict senior membership to actual practitioners, unlike the companies, most of which long ago stopped requiring that the Master of the company practice the trade the company is named for. **The Alchemists' Society** is the strictest: a man may be a freeman of it by purchase and may not sit on its Court unless he can work.
 

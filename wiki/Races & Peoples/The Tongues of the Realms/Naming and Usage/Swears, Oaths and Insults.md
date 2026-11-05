@@ -4,10 +4,10 @@ title: Swears, Oaths and Insults
 
 # Swears, Oaths and Insults
 
-*Six peoples and how they curse · the Kharven, the Moto, the Dawi, the Accord, the elves and the Zettari · and the words every people shares*
+*Six peoples and how they curse · the Kharven, the Moto, the Marrowkin, the Accord, the elves and the Zettari · and the words every people shares*
 > Every people swears in its own words first, and in the common tongue's plain body-swears as well. **What a people swears by is what it holds sacred, and what it insults with is what it fears to be.** The Sky, the Fourteen, the named Archons, the Veil, the Realmsong, Varūn and the ancestors carry the weight, and nobody in the four quarters swears by anything else.
 
-The oldest layer of this page reached the Guild on a strip of ship's sail. When the wine cog *Long Hester* opened her belly on the Sowmarsh bar, thirty-eight people spent nine days on a spit of yellow sand with two casks of water and no shared opinion about anything: Kharven sealers, Dawi coopers, a pair of Eressean sisters, a Moto retainer in lacquered harness who corrected everyone, and a chancery clerk named Drogo Fulke. By the third day they had stopped fighting over the water and started fighting over whose insults were worse. By the sixth it was a contest with judges, and a Dawi cooper was winning it by saying one word three times, very quietly. Fulke took it all down on red sailcloth in fish blood, and lost the top of an ear for asking a sealer to repeat *Kiilut*. The boats that came for them found thirty-eight people hoarse, sunburned and on excellent terms. The strip is in the Stannvaard rolls, and these tables are its great-grandchildren.
+The oldest layer of this page reached the Guild on a strip of ship's sail. When the wine cog *Long Hester* opened her belly on the Sowmarsh bar, thirty-eight people spent nine days on a spit of yellow sand with two casks of water and no shared opinion about anything: Kharven sealers, Marrowkin coopers, a pair of Eressean sisters, a Moto retainer in lacquered harness who corrected everyone, and a chancery clerk named Drogo Fulke. By the third day they had stopped fighting over the water and started fighting over whose insults were worse. By the sixth it was a contest with judges, and a Marrowkin cooper was winning it by saying one word three times, very quietly. Fulke took it all down on red sailcloth in fish blood, and lost the top of an ear for asking a sealer to repeat *Kiilut*. The boats that came for them found thirty-eight people hoarse, sunburned and on excellent terms. The strip is in the Altherion rolls, and these tables are its great-grandchildren.
 
 ## How to Read the Tables
 
@@ -67,25 +67,25 @@ A house that holds the offense is inaccuracy, so its heaviest words are verdicts
 
 ---
 
-## The Dawi
+## The Marrowkin
 
-Dawi have no light oath. "Kurme" is the swearing itself, so a Dawi who says "I swear" has sworn, and they do not say it for emphasis. Their curses fall on the cask, the angle, the entry and the grade.
+Marrowkin have no light oath. "Kurme" is the swearing itself, so a Marrowkin who says "I swear" has sworn, and they do not say it for emphasis. Their curses fall on the cask, the angle, the entry and the grade.
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
-| Kurnur. | Unentered: you did it and nobody will stand behind it. | hard | Any Dawi to any Dawi; the three-times form ("Kurnur. Kurnur. Kurnur.") quotes the Oath-Breakers' wall and is grave |
-| The name in the weak grade. | Torve for Torvekk: the oath-name said as broken. | grave | The worst thing one Dawi can do to another in one syllable; done on purpose only by enemies and the wall |
-| Ollu kuolee. | The brew dies. | hard | The Dawi "damn it" for real disaster, a collapsed gallery or a lost cask; Barrel Dawi will not say it within sight of a Cask-Oath barrel |
+| Kurnur. | Unentered: you did it and nobody will stand behind it. | hard | Any Marrowkin to any Marrowkin; the three-times form ("Kurnur. Kurnur. Kurnur.") quotes the Oath-Breakers' wall and is grave |
+| The name in the weak grade. | Torve for Torvekk: the oath-name said as broken. | grave | The worst thing one Marrowkin can do to another in one syllable; done on purpose only by enemies and the wall |
+| Ollu kuolee. | The brew dies. | hard | The Marrowkin "damn it" for real disaster, a collapsed gallery or a lost cask; the Cask Line will not say it within sight of a Cask-Oath barrel |
 | Nikkat ei on. | The angles are not [true]. | hard | The flat damnation of a piece of work, the Tally's "Nikkat on" turned over; clerks, rune-forgers, masters over apprentices |
 | Wrong angle. | A rune cut askew, which does nothing. | firm | Said of any failed work or failed man; "askew" for his work in general |
 | Voiced. | Said the way somebody not paying attention says it (b for p). | firm | Said of a careless speaker, and of Concord men generally |
 | Just rock. | The thing without its measurement. | firm | Said of worthless ore, a worthless plan, a man with no record |
 | The seam's out. | The ore seam is played out. | mild | Resigned exclamation, "we are done here"; miners, shift crews |
 | Varūn never said. | The god never told us which answer he meant. | mild | A shrug-oath at a question with no answer; the old, the Reach branches |
-| Cask-cracker. | One who ends a brew that holds an oath. | grave | Said of an oath-breaker; Barrel Dawi above all |
-| Piss in the brew. | Exactly that. | grave | Aimed at the one thing Dawi hold sacred; said to start a fight, or by outsiders who do not know better |
-| Will-sayer. | One who says "I will," which the tongue cannot. | firm | Said of a Concord envoy, a braggart, a young Dawi who has spent too long in Stannvaard |
-| Bare-chin. | A beard with no rings: no time served. | mild | Elders to the young, forge Dawi to outsiders |
+| Cask-cracker. | One who ends a brew that holds an oath. | grave | Said of an oath-breaker; the Cask Line above all |
+| Piss in the brew. | Exactly that. | grave | Aimed at the one thing Marrowkin hold sacred; said to start a fight, or by outsiders who do not know better |
+| Will-sayer. | One who says "I will," which the tongue cannot. | firm | Said of a Concord envoy, a braggart, a young Marrowkin who has spent too long in Altherion |
+| Bare-chin. | A beard with no rings: no time served. | mild | Elders to the young, forge Marrowkin to outsiders |
 | Kurlo. Ei kurme. | Unbegun. Not undertaken. | hard (as a refusal) | The "no, and do not ask me for the other word" that ends a negotiation |
 
 ---

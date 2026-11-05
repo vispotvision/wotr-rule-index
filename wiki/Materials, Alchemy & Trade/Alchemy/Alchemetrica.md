@@ -291,7 +291,7 @@ There are no ground joints. Every junction is closed by hand with lute, **a past
 **Fire lute** · Clay, sand, chopped fiber. Goes on the bottom of a vessel that will sit in flame, **and must be dried through before heat or it cracks off in sheets.** *This is the lute every workshop guards the proportions of.*
 
 **Fat lute** · Fine clay worked with boiled oil. Stays pliable; used where a vessel will need opening again.
-> **Dawi hold-forges use a fourth that they do not sell and will not discuss.** The Bench has twice attempted to require its disclosure as a condition of entry on Dawi formulas **and has twice been told, in writing, in Khazalid, that the recipe is not property and cannot therefore be surrendered.**
+> **Marrowkin hold-forges use a fourth that they do not sell and will not discuss.** The Bench has twice attempted to require its disclosure as a condition of entry on Marrowkin formulas **and has twice been told, in writing, in the Tally-Tongue, that the recipe is not property and cannot therefore be surrendered.**
 >
 > **Luting is the most consequential unskilled-looking task in the discipline.** A failed lute vents Strongwater fume into a closed workshop, **and Strongwater fume in a closed workshop kills everybody in it in the order they were standing nearest.**
 >

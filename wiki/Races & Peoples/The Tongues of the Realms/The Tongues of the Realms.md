@@ -11,7 +11,7 @@ tags:
 
 *Framework document. Read before any individual grammar.*
 
-At the Ford Fair on Withy Reach, in the year the salt came late, a Concord wine factor named Fulbert Pimm climbed onto a trestle table in a plum-colored coat, raised his cup to his three new partners, a Dawi cooper, a hobgoblin ship's officer and an Eressean lady of the calendar, and told them through one hired interpreter that he would see them all paid by the new moon. The cooper heard an oath and began, with great ceremony, to enter it. The officer heard a man promise money without saying who would bear the cost, and his voice sank and slowed until the benches near him emptied. The lady heard a date named by somebody with no standing to open it, went silent, and started counting. The interpreter, who was paid by the day, finished his ale and left through the kitchen. By sundown the Goose Riot had the bridge, four hundred people in their fair colors were pelting each other with roast birds and then with the spits, the wine was on fire, and Pimm stood bound in three languages to a thing he had said in none of them.
+At the Ford Fair on Withy Reach, in the year the salt came late, a Concord wine factor named Fulbert Pimm climbed onto a trestle table in a plum-colored coat, raised his cup to his three new partners, a Marrowkin cooper, a hobgoblin ship's officer and an Eressean lady of the calendar, and told them through one hired interpreter that he would see them all paid by the new moon. The cooper heard an oath and began, with great ceremony, to enter it. The officer heard a man promise money without saying who would bear the cost, and his voice sank and slowed until the benches near him emptied. The lady heard a date named by somebody with no standing to open it, went silent, and started counting. The interpreter, who was paid by the day, finished his ale and left through the kitchen. By sundown the Goose Riot had the bridge, four hundred people in their fair colors were pelting each other with roast birds and then with the spits, the wine was on fire, and Pimm stood bound in three languages to a thing he had said in none of them.
 
 These grammars are on the shelf because of afternoons like that one, and the interpreters of the Reach have charged double ever since. Start here, before any of them.
 
@@ -29,7 +29,7 @@ By that test there are five, and one script system. Common is the fifth and is a
 |---|---|---|
 | **Old Vaross** | Built | Already on the page untranslated. Canon roots exist. Its morphology carries the goblinoid worldview: no adjectives, weight-and-cost verb pairs, emphasis by vowel length. |
 | **Eressean and Varrisak** | Built | The Korvaeth arc turns on what constitutes valid transfer of a name. The schism is a *linguistic* dispute before it is a legal one. |
-| **Runic Dawi**, the tongue of the holds | Built | Oath-names are a real morphological slot. Consonant gradation means a Dawi name changes shape by grammatical case, which is a naming problem and a prose problem at once. |
+| **The Tally-Tongue**, the tongue of the holds | Built | Oath-names are a real morphological slot. Consonant gradation means a Marrowkin name changes shape by grammatical case, which is a naming problem and a prose problem at once. |
 | **Accord Latin** | Built | Real Latin, assembled rather than descended. Needs a fixed formula set rather than a grammar, plus the two spoken registers. |
 | **Common** | Built | The exception. The reader never sees it untranslated because the reader sees everything in it. Its Latinate and vernacular doublet is a live prose instrument in every line of dialogue in the project. |
 | **The Fourteen Hands** | Built, as **The Descent of Parun** under The Magic System | Each Archon reads the lattice from a different station and produces a different daughter script, and a document written in the wrong hand is void rather than incorrect. |
@@ -46,7 +46,7 @@ These bind every grammar in the set. Anything a language document says that cont
 
 **Four. Grammar carries worldview, and it does it by what it makes impossible.** Old Vaross has no adjectives, so a quality must be attached to somebody and an insult becomes an accusation. Eressean has no unwitnessed possessive, so *my name* is a construction that requires naming the witness. Build the hole first and the philosophy comes out of it.
 
-**Five. Sound follows material conditions.** Dawi consonant gradation exists because the tongue is shouted across a working forge floor and evolved to keep root identity legible through noise. Old Vaross holds vowels because the goblinoid peoples emphasize by duration, and they emphasize by duration because volume is for signaling across water. Phonology is never chosen for flavor alone.
+**Five. Sound follows material conditions.** Marrowkin consonant gradation exists because the tongue is shouted across a working forge floor and evolved to keep root identity legible through noise. Old Vaross holds vowels because the goblinoid peoples emphasize by duration, and they emphasize by duration because volume is for signaling across water. Phonology is never chosen for flavor alone.
 
 **Six. Orthography on the page.** Hyphens join compound elements. Doubled vowels mark length and length marks weight. **Diacritics are forbidden across every tongue without exception.** Long vowels are written doubled and nothing else.
 
@@ -56,7 +56,7 @@ These bind every grammar in the set. Anything a language document says that cont
 
 Two unrelated stocks, and one bridge. The Old World and the New are regions of the one great land, and the names are older than anybody's reason for them.
 
-**The Old World stock.** Old Vaross and Runic Dawi descend from a common ancestor spoken before the Scattering, and both peoples would rather be dead than say so. The evidence is in the numerals and in the body-part roots, which is where relatedness always survives. The Accord's philologists read it into the record at Stannvaard four decades ago and were expelled from both the Keth-Gorrum and the Ore Council in the same season.
+**The Old World stock.** Old Vaross and the Tally-Tongue descend from a common ancestor spoken before the Scattering, and both peoples would rather be dead than say so. The evidence is in the numerals and in the body-part roots, which is where relatedness always survives. The Accord's philologists read it into the record at Altherion four decades ago and were expelled from both the Keth-Gorrum and the Ore Council in the same season.
 
 **The New World stock.** Eressean, and behind it whatever the archaic bloodlines spoke before they came into the New World. Unrelated to the Old World stock at every level.
 
@@ -79,12 +79,12 @@ Every grammar follows the same eleven sections so they can be compared and so ga
 
 ## The Build Order
 
-Complete. Old Vaross, Eressean and Varrisak, Runic Dawi, Accord Latin and the Fourteen Hands are all built.
+Complete. Old Vaross, Eressean and Varrisak, the Tally-Tongue, Accord Latin and the Fourteen Hands are all built.
 
 What remains is maintenance rather than construction: the Drow Shadow-Veil notation is described from outside in three places and has no entry of its own, and Mirror-Sign is named as a full manual language with its own grammar and has never been given one. Neither is urgent. Both are real gaps.
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Old Vaross — The Goblinoid Tongue]]
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
-- [[Races & Peoples/The Tongues of the Realms/The Grammars/Runic Dawi — The Tongue of the Holds]]
+- [[Races & Peoples/The Tongues of the Realms/The Grammars/The Tally-Tongue of the Marrowkin]]
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Accord Latin — The Formulary and the Two Spoken Registers]]
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions]]
 - [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]

@@ -32,7 +32,7 @@ Essence Circulation between realms, performed through the act of aspiration. To 
 
 ### The Record
 
-He taught the earliest dragons Breathcraft in the Age of Souls, the shaping of Essence through exhalation, which the Eresse named Aelrauthan Flame and the Dawi named Skyforge Fire. It made dragons immortal for a time. When mortals began enslaving Wellsprings he withdrew into the upper Draconis belt and folded himself around the firmament, and true dragonkind entered its sleeping age in the silence he left. The auroras of the Pyrrhean Era (a name from the old registers, which the Guild's Errata folds into the Antediluvian collapse, about −550 to −450) are recorded as his wings beating once to keep the world aloft. The Church of Hollow Stars names him the devourer of heaven and means it as praise.
+He taught the earliest dragons Breathcraft in the Age of Souls, the shaping of Essence through exhalation, which the Eresse named Aelrauthan Flame and the Marrowkin named Skyforge Fire. It made dragons immortal for a time. When mortals began enslaving Wellsprings he withdrew into the upper Draconis belt and folded himself around the firmament, and true dragonkind entered its sleeping age in the silence he left. The auroras of the Pyrrhean Era (a name from the old registers, which the Guild's Errata folds into the Antediluvian collapse, about −550 to −450) are recorded as his wings beating once to keep the world aloft. The Church of Hollow Stars names him the devourer of heaven and means it as praise.
 
 ### Bonds
 

@@ -197,7 +197,7 @@ At **A-Grade and above** it becomes a genuine combat factor. An A-Grade characte
 
 Governed primarily by **Harmonics**, particularly Attunement and Projection, with secondary contribution from **Dominion's Pressure**. Body Path Aura is physically heavier but spatially compact. Attraction Path Aura is lighter per square meter but extends across far larger volumes. Spirit Path Aura is perceptually intense, targeting cognition and emotional stability rather than physical structure, and exerts less raw gravitational-analogue force.
 
-Everyone knows this art and nobody agrees on its manners. A Guild examiner writes Pressure. A southern tavern says a man is leaning on the room, and a Kharven soldier calls it the low sky and thinks hiding it is a kind of lie. The Moto say *atsu* and consider leaking it indoors an insult to the host. Mahuo halls say *nureum*, the pressing-down, and the lineage halls *wēiyā*, which they will tell you is a matter of virtue and which feels the same on the knees. The Dawi enter it in the Tally as a load, and argue about who should pay for it.
+Everyone knows this art and nobody agrees on its manners. A Guild examiner writes Pressure. A southern tavern says a man is leaning on the room, and a Kharven soldier calls it the low sky and thinks hiding it is a kind of lie. The Moto say *atsu* and consider leaking it indoors an insult to the host. Mahuo halls say *nureum*, the pressing-down, and the lineage halls *wēiyā*, which they will tell you is a matter of virtue and which feels the same on the knees. The Marrowkin enter it in the Tally as a load, and argue about who should pay for it.
 
 ## Path Modifiers to Physical Force
 

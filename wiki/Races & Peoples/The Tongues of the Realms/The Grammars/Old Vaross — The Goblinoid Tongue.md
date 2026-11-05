@@ -17,11 +17,11 @@ What the kaan did with that vowel is the load-bearing fact of this tongue. The r
 
 Three bodies of record and none of them disinterested.
 
-**The Keth-Gorrum registers.** Parliamentary record of the Hobgoblin Expanse, continuous since the settlement, held in the Vaross the parliament uses for its own proceedings. Voluminous, procedurally obsessive, and useless for anything colloquial, because nothing colloquial was ever entered.
+**The Keth-Gorrum registers.** Moot record of the Hobgoblin Expanse, continuous since the settlement, held in the Vaross the moot uses for its own proceedings. Voluminous, procedurally obsessive, and useless for anything colloquial, because nothing colloquial was ever entered.
 
 **The Mandate's decree archive.** Every active decree read daily at every district garrison for the entire history of Undaar-Keth, and every one of them written down. This is where the modern spoken language is best preserved, because a decree is written to be *read aloud to people who must understand it*, which is the only formal register in the four quarters under continuous pressure to stay comprehensible.
 
-**The Accord's grammars.** Compiled by philologists at Stannvaard across four decades. Excellent phonology. Confident and repeatedly wrong on semantics, because the compilers translated *nakh* and *brakh* as *take* and *carry* and never worked out that the pair is one concept split in half. Half the errors downstream in Concord scholarship come out of that single decision.
+**The Accord's grammars.** Compiled by philologists at Altherion across four decades. Excellent phonology. Confident and repeatedly wrong on semantics, because the compilers translated *nakh* and *brakh* as *take* and *carry* and never worked out that the pair is one concept split in half. Half the errors downstream in Concord scholarship come out of that single decision.
 
 **What is lost.** Everything before the Scattering. The goblinoid peoples crossed the water carrying what could be carried, and a language's older layer is not a thing you can carry. What survives of pre-Scattering Vaross is a closed set of roots preserved inside compounds nobody can decompose any more, and the Expanse's philologists treat those the way other cultures treat relics.
 
@@ -105,7 +105,7 @@ A bare root is an **imperative**. This is why Crimson Order speech under stress 
 
 ### Compounding
 
-Elements join with a hyphen and **the second element governs**. *Gorr-Keth* is a seal of the mantle-weight kind. *Keth-Gorr* is a weight of the sealed kind. Reversing a compound is a real and common insult in parliamentary debate.
+Elements join with a hyphen and **the second element governs**. *Gorr-Keth* is a seal of the mantle-weight kind. *Keth-Gorr* is a weight of the sealed kind. Reversing a compound is a real and common insult in moot debate.
 
 ### There are no adjectives
 
@@ -138,7 +138,7 @@ Three distinctions the language forces on every speaker.
 
 **Thruum Vaross, the decree register.** Clauses ordered by operational priority. Subjects present at the opening and dropped progressively. Full lexical length observed on every word. It exists to be read aloud to people who must act on it, and it is the reason the language has not drifted in six centuries.
 
-**Kethaal Vaross, the sealed register.** The parliamentary and legal layer, full of pre-Scattering roots nobody can decompose, and deliberately so. A Keth-Gorrum ruling is written in a register that requires an interpreter, and the interpreters are a profession, and the profession is hereditary.
+**Kethaal Vaross, the sealed register.** The moot and legal layer, full of pre-Scattering roots nobody can decompose, and deliberately so. A Keth-Gorrum ruling is written in a register that requires an interpreter, and the interpreters are a profession, and the profession is hereditary.
 
 ## VIII. Dialects
 
@@ -186,12 +186,12 @@ Every character is a vertical stem with cuts to one or both sides. Consonants ar
 > Borne-and-finished, a seal. Taken-and-finished, a thing that opens where it should not.
 >
 > **What you paid for holds. What you took will open under you.**
-**A parliamentary formula, Kethaal register.**
+**A moot formula, Kethaal register.**
 > *Keth-Gorrum gorrumakh. Vaross keth. Qeth-thruum rukhaan.*
 >
 > The gathered weight of the sealed assembly is gathered. The word is sealed. The old-decree stands toward.
 >
-> **Parliament is seated. The word is sealed. The standing law is in force.**
+> **The moot is seated. The word is sealed. The standing law is in force.**
 **From the Third Ashfold Decree.**
 > *Ghrim shkarr okkim vashkaan. Ghrim drakh okkim nakhaan.*
 >
@@ -213,7 +213,7 @@ Every character is a vertical stem with cuts to one or both sides. Consonants ar
 
 **Concord speakers** insert a vowel into syllabic *r*, producing *gurr* for *grr*, which is the single most reliable marker and is audible in the first word. They also emphasize by volume, which reads to a goblinoid audience as a man announcing that he has lost the argument.
 
-**Dawi speakers** do well on the clusters and fail on vowel length, because Runic Dawi gradation trains the ear to hear consonants as the carriers of meaning. A Dawi speaking Vaross produces grammatically flawless sentences with every emphasis in the wrong place.
+**Marrowkin speakers** do well on the clusters and fail on vowel length, because Tally-Tongue gradation trains the ear to hear consonants as the carriers of meaning. A Marrowkin speaking Vaross produces grammatically flawless sentences with every emphasis in the wrong place.
 
 **Eressean speakers** overuse the genitive, because Eressean cannot express possession without naming a witness, and a court Eressean reaching for that structure in Vaross generates *of-of-of* chains that Vaross speakers find both incomprehensible and hilarious.
 

@@ -16,7 +16,7 @@ tags:
 >
 > Attributed to a Measurewright (a certified assessor of practitioners and workings) of the Vaulted Ring, name struck from the record.
 
-Ambrose Pinchbeck, a Concord wine factor of good family, learned Barkstone Tally in one afternoon at the Cooper's Fair, read four hundred cask ledgers by the evening, and bought what he took for forty-year pitch-oak at a price that made the Barrel Dawi of the Long Rack go very quiet and very polite. The letters had said forty. The slant of the barbs had said four. He tapped the first cask in front of a paying crowd, and got a spray of young green beer that went up like a whale's breath and hit the banner of his own house, and then the whole rack began to go, bung after bung blowing out across the yard, four hundred casks working in the summer heat, with the coopers singing the tally aloud in harmony and the foam running gold and stinking down Rack Street as far as the river. Pinchbeck was still paying for it nine years later. Every clerk in the Four Quarters knows the song, and hardly one of them can tell you which barb he misread, so here is the whole business from the root.
+Ambrose Pinchbeck, a Concord wine factor of good family, learned Barkstone Tally in one afternoon at the Cooper's Fair, read four hundred cask ledgers by the evening, and bought what he took for forty-year pitch-oak at a price that made the Cask Line of the Long Rack go very quiet and very polite. The letters had said forty. The slant of the barbs had said four. He tapped the first cask in front of a paying crowd, and got a spray of young green beer that went up like a whale's breath and hit the banner of his own house, and then the whole rack began to go, bung after bung blowing out across the yard, four hundred casks working in the summer heat, with the coopers singing the tally aloud in harmony and the foam running gold and stinking down Rack Street as far as the river. Pinchbeck was still paying for it nine years later. Every clerk in the Four Quarters knows the song, and hardly one of them can tell you which barb he misread, so here is the whole business from the root.
 
 ---
 
@@ -41,7 +41,7 @@ Ambrose Pinchbeck, a Concord wine factor of good family, learned Barkstone Tally
 
 A glyph creates nothing. **The law of the Wellspring (one of the sixty types of Aether, each carrying a fixed law) was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
 
-**So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Barrel Dawi cooper are arguing about the same instrument even when neither can read the other's page.
+**So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Cask Line cooper are arguing about the same instrument even when neither can read the other's page.
 
 **What a hand changes is everything around the working.**
 
@@ -77,17 +77,17 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 
 ### Old High Runic
 
-*High Dawi · the sacred hand*
+*The High Line · the sacred hand*
 
 **A chisel driven into granite will not make a curve.** It makes a straight segment and then another one, **and the mason's wrist has eight bearings available to it and no more.** Old High Runic is Lattice Tongue put through that constraint for four thousand years: **every arc squared off, every terminal blocked, every glyph resolved onto the compass.**
 > The Temple of Inscription runs seventy years on a single theorem cut in this hand, **and the discipline is not the theorem. It is the cutting.**
 >
-> *High Dawi will tell you the hand is slow because truth is slow. What they will not tell you is that they have never found a way to make it faster and have stopped considering that a failure.*
+> *The High Line will tell you the hand is slow because truth is slow. What they will not tell you is that they have never found a way to make it faster and have stopped considering that a failure.*
 **Legibility** · Read by any trained Parunist. **Cut correctly by almost no one.**
 
 ### Barkstone Tally
 
-*Barrel Dawi · the working hand* · **plate 03 available**
+*The Cask Line · the working hand* · **plate 03 available**
 
 **A knife on a cask stave cuts with the grain or it splits the stave**, so the Barkstone hand gave up on the second dimension entirely. The whole path collapses onto one stem **and every turn in it becomes a barb cut off that stem**: above it, below it, or straight across. *It reads downward, the way a stave stands.*
 > **The trap is that the barb angles are not decoration. They carry duration**, which in a brewing hand is the load-bearing quantity, and a Grand Brewmaster reading a forty-year cask ledger **is reading time off the slant of the cuts.**
@@ -102,7 +102,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 **Everything else in this record is a stroke laid on a surface. Mirror-Sign is the surface laid around a stroke that was never made.** The field is worked and the path is left bare, so what a reader follows is **the absence**, and the absence produces no Aetheric signature **because nothing was ever inscribed to produce one.**
 > This is why no ward in the world detects Deepkin correspondence **and why no Concord auditor has ever successfully audited a Deepkin holding.**
 >
-> *The High Dawi call it a broken geometry. The Deepkin have not sent a reply, and the Mirror-Sign record of their position has never been translated for anyone outside the lineage.*
+> *The High Line calls it a broken geometry. The Deepkin have not sent a reply, and the Mirror-Sign record of their position has never been translated for anyone outside the lineage.*
 **Legibility** · Read by fingertip and by reflection. **Undetectable to Harmonics (the trained sense that reads Aether in the field).**
 
 ### Old Vaross
@@ -203,7 +203,7 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 > **It is characterless on purpose.** No lineage, no region, no hand, no mood, **and every scribe trained in it produces output indistinguishable from every other.**
 >
 > *Practitioners of the older hands describe it as a script with nothing behind it. Accord notaries consider this the highest compliment their office has ever received.*
-**Legibility** · Read by everyone **from Stannvaard to Kharven.** *That is the product.*
+**Legibility** · Read by everyone **from Marrowhold to Kharven.** *That is the product.*
 
 ---
 
@@ -215,7 +215,7 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 |---|---|---|
 | **Parun** | Trained practitioners of every people | The unlettered, entirely |
 | **Old High Runic** | Any Parunist, slowly | No one, **but almost no one can cut it** |
-| **Barkstone Tally** | Dawi of all three lineages | Outsiders misread **the barb angles, not the letters** |
+| **Barkstone Tally** | Marrowkin of all three lineages | Outsiders misread **the barb angles, not the letters** |
 | **Mirror-Sign** | Deepkin only | Everyone, **including Harmonics detection** |
 | **Old Vaross** | All goblinoid peoples | Outsiders, **who cannot supply the missing stroke** |
 | **Low Goblintongue** | Goblinoids, Accord traders, most Concord clerks | Few |

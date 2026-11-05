@@ -83,7 +83,7 @@ They stand between 6'6" and 7'4". Coarse black hair kept in topknots or ritual b
 **Language** · Old Vaross. Ritual war-language: Gravetongue.
 > **Key limitation · The Logic-Void.** Cannot use `Ko` (Order) or `Ie` (Insight) glyph-forms. 2× Essence cost for complex Aetheric geometry. **Their souls are fundamentally antithetical to soft, structured law.**
 
-**Relations** · Deep ancestral hatred of Hobgoblins, complicated by shared origin theology. Honor-bound respect toward Dawi. Tense rivalry with Frontierfolk. *They describe Elves as "unreal vapors."*
+**Relations** · Deep ancestral hatred of Hobgoblins, complicated by shared origin theology. Honor-bound respect toward Marrowkin. Tense rivalry with Frontierfolk. *They describe Elves as "unreal vapors."*
 
 **Settlements** · The Crimson Flats · Dorrak's Maw, the Siege-Forge City · The Trial Steppes
 
@@ -113,7 +113,7 @@ Where the Ironblood carry the violence of the impact, the Verdant Orcs carry its
 *Major Race · Cursed Remnants / Inverted Shards · Third Eon, caught in the Void rupture during the Fall of the Obsidian Gate*
 
 Less a separate people than **an Orc lineage whose Stone-Blood has been turned against itself.** When the Obsidian Gate collapsed, the Void's fallout left the warbands inside its radius alive. **It converted them.** Their asteroidal origin became an entropic curse. Where Ironblood kinetic energy builds and stores, Blackened energy decays. Where Verdant Orcs cycle and renew, **Blackened Orcs erode.**
-> They are exiled by every other Orc lineage. Elves and Dawi hunt them as **Metaphysical Viruses.** Their presence warps ambient Aether over extended periods, causing Wellspring sites to destabilize.
+> They are exiled by every other Orc lineage. Elves and Marrowkin hunt them as **Metaphysical Viruses.** Their presence warps ambient Aether over extended periods, causing Wellspring sites to destabilize.
 >
 > They cannot be healed by Holy magic or resurrected. **If they die, they are simply gone, their record in the world permanently erased.**
 >

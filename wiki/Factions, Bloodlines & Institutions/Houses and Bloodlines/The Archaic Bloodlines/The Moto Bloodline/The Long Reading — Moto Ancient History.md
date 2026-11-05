@@ -205,4 +205,4 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 
 > *All content originated in this document is proposed canon pending ratification.*
 >
-> Anchored to: The Moto Bloodline · The Archonic Codex · The Bearing and the Holding · Kingdom of Nalūn · the Vaeloris Sequence · Sancta Lux · Muken and Yukazuri character records.
+> Anchored to: The Moto Bloodline · The Archonic Codex · The Bearing and the Holding · The Amber Cities of Nalūn · the Vaeloris Sequence · Sancta Lux · Muken and Yukazuri character records.

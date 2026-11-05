@@ -80,7 +80,7 @@ The equilibrium between the spiritual and physical strata. She invented mortalit
 
 ### The Record
 
-She descended with Atla'zon in the First Eon to shape the first crust around the Wellspring Core, and gave Florwyn's Realmsong weight, turning harmony into ecology. Mortals call it the First Sedimentation, the age when music became mountains. Her grief tore rifts across the land during the Great Spirit War, and the Essence Fossils date from her absorbing what the divine bled. Hobgoblin geomancers worshipped her as Karai the Forgeblooded and opened her ley veins badly enough to cause the Year of Shattered Hammers. When the Crevice opened her pulse slowed to one beat per thousand years, which the Dawi call the Long Heart Sleep. Seers now report tremors aligned to Wellspring awakenings. The Concord reads this as her testing whether mortals can steward matter unsupervised.
+She descended with Atla'zon in the First Eon to shape the first crust around the Wellspring Core, and gave Florwyn's Realmsong weight, turning harmony into ecology. Mortals call it the First Sedimentation, the age when music became mountains. Her grief tore rifts across the land during the Great Spirit War, and the Essence Fossils date from her absorbing what the divine bled. Hobgoblin geomancers worshipped her as Karai the Forgeblooded and opened her ley veins badly enough to cause the Year of Shattered Hammers. When the Crevice opened her pulse slowed to one beat per thousand years, which the Marrowkin call the Long Heart Sleep. Seers now report tremors aligned to Wellspring awakenings. The Concord reads this as her testing whether mortals can steward matter unsupervised.
 
 ### Bonds
 

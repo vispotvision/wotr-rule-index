@@ -135,7 +135,7 @@ The problem is tin. New bronze is a luxury. *This is why bronze reads archaic: i
 In a world of bad roads, worse law, and kingdoms that repudiate their debts on succession, the sensible merchant accepts metal and nothing else. And yet the great trade of the age is conducted in written instruments carried by unarmed men, and has been for four centuries, and the loss rate is low enough that it is insured cheaply.
 > The answer is **Nalūn**, and culture has nothing to do with it.
 >
-> The Kingdom of Nalūn sits on sites of **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract (Parun being the tongue magical law is written in) executed under Nalūn authority is **a working** where elsewhere it would be a promise backed by a court, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
+> The Amber Cities of Nalūn sit on sites of **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract (Parun being the tongue magical law is written in) executed under Nalūn authority is **a working** where elsewhere it would be a promise backed by a court, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
 
 The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honor is a binding duel challenge because in Nalūn a merchant's honor is **a load-bearing financial instrument.**
 
@@ -304,7 +304,7 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 | **Eastern quarter** | Gold to silver as low as nine to one | Placer gold, no mint control, no consecration sink. **Source of the standing arbitrage** |
 | **Eresse** | Sacred Gold circulates at a premium over bullion | Consecrated gold cannot lawfully be melted, making it simultaneously more valuable and less liquid than the metal it is made of |
 | **Iampu** | Gold supplemented by Glacium and Essence-bound arms | A mercenary economy pays in what mercenaries want |
-| **Anguz** | Aethersteel and Bloodsilver priced on the coil, gold secondary | Guild-controlled, and the guilds set the coil |
+| **Anguz** | Dead mines now, where Aethersteel and Bloodsilver were once priced on the coil and gold ran second | The guilds set the coil until the mines collapsed |
 | **Braqth and the southern interior** | Barter primary, gold secondary | No mint, no assay house, and an entire quarter's produce priced by whoever shows up with a ship |
 | **Zarn** | Dark Essence goods and artifacts | The shadow-markets set their own rates and enforce them by other means |
 

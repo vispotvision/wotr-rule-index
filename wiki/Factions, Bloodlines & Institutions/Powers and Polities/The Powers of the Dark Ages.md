@@ -13,7 +13,7 @@ title: The Powers of the Dark Ages
 
 In the ninth year of the Dark Ages a river drake forty feet long, the green of old copper from the jaw to the root of the tail, came up out of a new Well under Sallowford and ate the ferry, with the ferry's mule. A party of the Well-Hunters' Company killed it on the shingle at noon on a fair day, one licensed captain and a dozen men with no license between them, and before its blood had reached the far bank the carcass had three owners. The crown's Reeve of the Game rode down with forty men in madder red and a writ calling the beast royal venison. The Company's factor came along the towpath with a contract, a clerk and the crew in wasp yellow, who were paid by the carcass and wanted it counted. And down the hill from Sedgeby Hall, at the head of sixty licensed hunters in hall green, came Dame Ysmay Thole, called the Fishwife of Sedgeby by people standing a long way off, her coat the hot pink of boiled ham, bawling the license fee so that it carried to the fairground.
 
-Nobody would give way, so each side yoked oxen to the part it had reached. The Reeve took the head, the factor took the tail, and Sedgeby Hall took both hind legs, and the whole fair came down to watch with its mouths full, while the outer disciples of two rival sects sold places on the bridge. It lasted until the fourth bell. When the Company's captain tried to clear the hall's yoke with an art he called GREAT BIG ARM, Dame Ysmay met him in the shallows with a boathook, called LAST ORDERS in a voice that dropped every gull on the sandbar, and put him through the side of his own wagon. Then the drake came apart. The head went up the hill behind eighteen frightened oxen and took the corner off a tithe barn, the tail went through the Company's baggage, and nine people were dead by sundown, four of them from a bench on the bridge. The ford stank for nine years. All that afternoon nobody on either bank looked at the Well itself, and in the week that followed a quiet factor from Stannvaard bought the water-meadow above it for less than the oxen had cost.
+Nobody would give way, so each side yoked oxen to the part it had reached. The Reeve took the head, the factor took the tail, and Sedgeby Hall took both hind legs, and the whole fair came down to watch with its mouths full, while the outer disciples of two rival sects sold places on the bridge. It lasted until the fourth bell. When the Company's captain tried to clear the hall's yoke with an art he called GREAT BIG ARM, Dame Ysmay met him in the shallows with a boathook, called LAST ORDERS in a voice that dropped every gull on the sandbar, and put him through the side of his own wagon. Then the drake came apart. The head went up the hill behind eighteen frightened oxen and took the corner off a tithe barn, the tail went through the Company's baggage, and nine people were dead by sundown, four of them from a bench on the bridge. The ford stank for nine years. All that afternoon nobody on either bank looked at the Well itself, and in the week that followed a quiet factor from Altherion bought the water-meadow above it for less than the oxen had cost.
 
 All three parties entered the day in their books as trade. I have copied those three entries out for every clerk I ever trained, because they teach the order of things: who came first, who claimed afterward, who licensed whom, who was paid by the piece, who was sitting on the bench, and who was buying the meadow.
 
@@ -100,11 +100,11 @@ Day-to-day rule in most of the four quarters comes from three authorities stacke
 
 **Wants.** A crown worth following again. Each Banner House wants the crown restored on terms that keep its own function: the border, the wall, the grain, the timber, the tundra, the roads.
 
-**Holds.** Ground and custom and little else. House Ashmore's grain in the Greenhollow, House Thornwall's ironwood and the Stannvaard corridor, House Hallenfeld's river junction and signal posts, House Greymane's western wall against Undaar-Keth, House Stark's eastern March, House Keld's tundra.
+**Holds.** Ground and custom and little else. House Ashmore's grain in the Greenhollow, House Thornwall's ironwood and the Marrowhold corridor, House Hallenfeld's river junction and signal posts, House Greymane's western wall against Undaar-Keth, House Stark's eastern March, House Keld's tundra.
 
 **Fights by.** Open war on the frontier, oaths that bind only while they are worth keeping, and food. The north lives poorer and older than the Accord cities; its wars are fought with the tools of an earlier span, and it prices loyalty by the bushel.
 
-**Set against.** Undaar-Keth probing the western ridge. Stannvaard, which cuts grain and keeps sending inscription substrate, because it wants a buffer state and not an independent one. Any company that comes up the road while the center is empty.
+**Set against.** Undaar-Keth probing the western ridge. Marrowhold, which cuts grain and keeps sending inscription substrate, because it wants a buffer state and not an independent one. Any company that comes up the road while the center is empty.
 
 **Fears.** Being a buffer. Being bought one house at a time. A winter in which House Ashmore's allocation decides who survives.
 
@@ -196,13 +196,13 @@ Day-to-day rule in most of the four quarters comes from three authorities stacke
 
 **Holds.** Whatever ground its column stands on, a palace dragged through the breach, and the Prayers of the Hollow, which answer to the same Chancellor.
 
-**Fights by.** Open war when it must and slow campaign by preference. It would rather use a people than kill them, and it has looked at the Dawi of Stannvaard, whose metal arms half the Inner World, in exactly that way.
+**Fights by.** Open war when it must and slow campaign by preference. It would rather use a people than kill them, and it has looked at the Marrowkin of Marrowhold, whose metal arms half the Inner World, in exactly that way.
 
 **Set against.** Everything native to the plane, in principle. In practice, whoever stands between it and the peoples it means to use.
 
 **Fears.** Nothing the four quarters have found.
 
-**The seam.** A power that means to use Stannvaard needs Stannvaard intact. Whoever understands that knows which of the Void's threats are real and which are leverage.
+**The seam.** A power that means to use Marrowhold needs Marrowhold intact. Whoever understands that knows which of the Void's threats are real and which are leverage.
 
 ---
 
@@ -243,7 +243,7 @@ Day-to-day rule in most of the four quarters comes from three authorities stacke
 | **The Scalded Cats** | River towns of the Concord heartland, commons to a man | Orange and soot; *Who's Got the Lid*, sung flat on purpose | Open hands, close work, a coat run so hot the sleeves scorch | The Pewter Yard, over a girl, a bridge and a disputed result in Year 671 |
 | **The Thrawn Yard** | The Kharven Marches | Undyed wool and one red thumb; a song with a single line, repeated until someone stops them | Stand still, take it, hit back once | Everyone south of the Marches, on principle |
 | **Kagerō-ryū** (陽炎流, the Heat-Shimmer School) | Moto country | White sash dyed to waver at the edge; a poem no outsider can sit through | Almost no footfall, a blade already somewhere else | The Thrawn Yard, whom they consider a weather event |
-| **Baengnyeon-gwan** (백련관, White Lotus Hall) | Ketsuen, around the Sum-gol road | Rice-white with a pink hem; a drinking song in nine verses that gets ruder | Long pole and a low, wide stance, always in threes | Qīngshí Mén, over who taught whom the pole |
+| **Baengnyeon-gwan** (백련관, White Lotus Hall) | The Silver Cedars, around the Sum-gol road | Rice-white with a pink hem; a drinking song in nine verses that gets ruder | Long pole and a low, wide stance, always in threes | Qīngshí Mén, over who taught whom the pole |
 | **Qīngshí Mén** (青石門, Blue Stone Gate) | The lineage-hall country of the East | Ink-blue sleeves; a recited list of everyone they have beaten, with dates | Scholar's sword, and they tell you the page number while they do it | Baengnyeon-gwan, in writing, in three volumes |
 
 Each people's fighters have their own word for the coat, the weight and the nose (see Part Six of [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]]), and a sect's first lesson is usually why everybody else's word is wrong.
@@ -296,15 +296,15 @@ Each people's fighters have their own word for the coat, the weight and the nose
 
 ## The Trading Powers Already Standing
 
-### The Ore Council of Stannvaard and its merchant houses
+### The Ore Council of Marrowhold and its merchant houses
 
-*The Guild Seat · twelve guild masters, the extraction schedule, and the Accord's armory*
+*The Ember Holds · twelve guild masters, the extraction schedule, and the Accord's armory*
 
 **Wants.** The extraction schedule kept as the realm's real law. The northern corridors quiet. Kharven armed and dependent.
 
 **Holds.** The Ring's metal, which every Inner World economy runs on. Weapons procurement for the Accord's Strategic Division. The Merchant guild's great houses, which regulate a trade and make nothing.
 
-**Fights by.** Supply. Stannvaard sets how fast the armory restocks and to whom, and it cuts grain while sending substrate when it wants to tell a neighbor where its autonomy ends.
+**Fights by.** Supply. Marrowhold sets how fast the armory restocks and to whom, and it cuts grain while sending substrate when it wants to tell a neighbor where its autonomy ends.
 
 **Set against.** Any power that would make Kharven independent. Any company that would buy the ore at the pithead before it reaches the Council.
 
@@ -314,17 +314,17 @@ Each people's fighters have their own word for the coat, the weight and the nose
 
 **At the door.** A farrier in a Ring town pays for his iron by a schedule he has never read, and a bad quarter reaches him as a horseshoe that costs a copper more and nobody to complain to.
 
-**The seam.** Stannvaard's governance is three legs: the Ore Council, the River Crown Council and the Grand Church. Set one leg against another and the whole Seat slows.
+**The seam.** Marrowhold's governance is three legs: the Ore Council, the River Crown Council and the Grand Church. Set one leg against another and the whole Ring slows.
 
 ### The factor houses of Nalūn
 
-*Fourteen recognized houses and the Council of Links · the Chain-Cities*
+*Fourteen recognized houses and the Council of Links · the Amber Cities*
 
 **Wants.** Their supply books kept valuable, which means corridors open and contracts honored.
 
 **Holds.** The instruments. Supply contracts are the most traded documents in the four quarters and the factor houses intermediate most of them, because their Parun-sealed contracts are the only ones counterparties trust to hold. The Greis Trading House runs eleven way-stations along the Iron-to-Salt Corridor under Nalūn-sealed contracts.
 
-**Fights by.** Credit. Nalūn's credit finances Stannvaard's extraction and Stannvaard's metal backs Nalūn's credit. A factor house that withdraws credit starts a war without a single soldier.
+**Fights by.** Credit. Nalūn's credit finances Marrowhold's extraction and Marrowhold's metal backs Nalūn's credit. A factor house that withdraws credit starts a war without a single soldier.
 
 **Set against.** Anyone closing the eastern corridors. Anyone promising delivery he cannot make, since the market in claims on a falling quantity rewards exactly that man until the day it ruins him.
 
@@ -412,13 +412,13 @@ Each people's fighters have their own word for the coat, the weight and the nose
 
 *A chartered road and timber company under a Concord crown*
 
-**Wants.** Ironwood, the northern routes toward Ketsuen and the Polar Reach, and the right to set the tolls on them.
+**Wants.** Ironwood, the northern routes toward Marrowhold and the Polar Reach, and the right to set the tolls on them.
 
 **Holds.** A charter from a crown with no writ in Kharven, company way-stations, hauling contracts, and grain bought forward from whoever will sell it.
 
 **Fights by.** Being the center. Where Kharven has no working crown, the Company offers roads, pay and order, and a house that takes its money finds the Company's men guarding its bridges.
 
-**Set against.** House Hallenfeld, which holds the junction and wants a crown, and no company, to connect. House Thornwall, whose ironwood trade it means to take. Stannvaard, which wants Kharven dependent on it and not on a company from the south.
+**Set against.** House Hallenfeld, which holds the junction and wants a crown, and no company, to connect. House Thornwall, whose ironwood trade it means to take. Marrowhold, which wants Kharven dependent on it and not on a company from the south.
 
 **Fears.** A restored Ashen Crown. A northern winter that kills its hauliers faster than its charter can replace them.
 
@@ -449,7 +449,7 @@ Each people's fighters have their own word for the coat, the weight and the nose
 |---|---|---|
 | The Dragon Throne | Foreign buyers of Wells, and its own Houses | Depletion; interdependence strained |
 | The Kusharan Throne | Foreign companies, the Accord's reach | Law older than the Accord, minerals it will not sell cheap |
-| The Kharven Banner Houses | Undaar-Keth, Stannvaard, the Northern Road Company | An empty center and something to take |
+| The Kharven Banner Houses | Undaar-Keth, Marrowhold, the Northern Road Company | An empty center and something to take |
 | Eresse | The Eastern Arc Company | Old-ground titles against new charters |
 | Korvaeth and the Regency | Each other | Whether a name can be property |
 | Sancta Lux | The Holy Inquisition, Sōhai | Apostasy; the Singling charge |

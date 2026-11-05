@@ -32,7 +32,7 @@ Towering, **often exceeding three and a half meters**, with stone-gray or earthe
 
 > During the Mountain Wars **goliath clans sided variably**, some joining Concord forces to defend Wellspring sites, others rebelling in defense of ancestral land. At the **Siege of Vellsorea Peak** a goliath chieftain held a mountain pass against overwhelming numbers for weeks.
 >
-> *Among mountainfolk and Dawi clans they are respected as primal guardians and ancestral kin.*
+> *Among mountainfolk and Marrowkin clans they are respected as primal guardians and ancestral kin.*
 
 ---
 

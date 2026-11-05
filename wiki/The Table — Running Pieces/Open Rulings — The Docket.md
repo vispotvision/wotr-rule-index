@@ -21,7 +21,7 @@ tags:
 
 ## From Pack Thirteen
 
-- R13-A physical-unit ceiling (joules in a Measurewright's mouth only; recommended yes). R13-B percussion table Dawi-authored (recommended yes). R13-C shot against worked plate: the steel stops it (recommended yes). R13-D gap-fill may not change an outcome Isaac wrote (recommended yes). R13-E ratify the eight Phenomenon Bank seeds. R13-F Category naming in diagnostic voice beyond the single read (recommended yes).
+- R13-A physical-unit ceiling (joules in a Measurewright's mouth only; recommended yes). R13-B percussion table Marrowkin-authored (recommended yes). R13-C shot against worked plate: the steel stops it (recommended yes). R13-D gap-fill may not change an outcome Isaac wrote (recommended yes). R13-E ratify the eight Phenomenon Bank seeds. R13-F Category naming in diagnostic voice beyond the single read (recommended yes).
 
 ## From Pack Fourteen
 

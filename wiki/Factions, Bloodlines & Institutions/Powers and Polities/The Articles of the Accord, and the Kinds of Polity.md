@@ -113,11 +113,11 @@ The Accord has to reach across states that do not resemble each other at all, an
 
 **Composite monarchy.** Several countries under one crown, each keeping its own law. The Concord. Chancery theorists hold that similarity of language and custom decides whether such a state holds together, which is precisely the argument the Accord makes for its own standards and its own tongue.
 
-**Oligarchic republic.** Rule by a closed body of chartered houses, self-perpetuating, with formal offices and real elections among a tiny electorate. **Stannvaard.** It is rigidly oligarchical, and nobody in it pretends otherwise. (*Out of the world, for the table: the historical models are Venice and Genoa.*)
+**Oligarchic republic.** Rule by a closed body of chartered houses, self-perpetuating, with formal offices and real elections among a tiny electorate. **Marrowhold.** It is rigidly oligarchical, and nobody in it pretends otherwise. (*Out of the world, for the table: the historical models are Venice and Genoa.*)
 
 **Mandate.** Rule by standing decree, read aloud daily at every garrison, with no assembly and no appeal outside the decree archive. **Undaar-Keth.** Its strength is that everybody knows the law because everybody hears it every day. Its weakness is that the law is whatever was read this morning.
 
-**Sealed parliament.** An assembly whose rulings are issued in a register requiring interpreters, and whose interpreters are a hereditary profession. **The Keth-Gorrum.** Formally the most representative body in the four quarters and functionally readable by about two hundred people.
+**Sealed moot.** An assembly whose rulings are issued in a register requiring interpreters, and whose interpreters are a hereditary profession. **The Keth-Gorrum.** Formally the most representative body in the four quarters and functionally readable by about two hundred people.
 
 **Rotating crown.** An elective or rotating headship on a fixed cycle, designed so that no single will outlasts a season. **Iampu**, where the Crown passes at each solstice and equinox under the Treaty of Four Courts. (*Out of the world, for the table: real elective monarchies paired lifetime or fixed terms with senatorial oversight to prevent concentration.*) Such crowns characteristically drift toward capture by the electing body, which is a live risk in Iampu and is what the Frost Council actually is.
 
@@ -129,6 +129,6 @@ The Accord has to reach across states that do not resemble each other at all, an
 
 ### What this means at the table
 
-**A character crossing a border changes legal systems, not just flags.** The same act is an amercement in Stannvaard, a decree violation in Undaar-Keth, an unentered act in a hold, an untimely act in Eresse, and, until the first circle was signed, nothing at all in Kharven. A ferryman who works the line between two of them keeps two tally-sticks and two faces, and his children learn which to show on which bank before they learn to row.
+**A character crossing a border changes legal systems, not just flags.** The same act is an amercement in Altherion, a decree violation in Undaar-Keth, an unentered act in a hold, an untimely act in Eresse, and, until the first circle was signed, nothing at all in Kharven. A ferryman who works the line between two of them keeps two tally-sticks and two faces, and his children learn which to show on which bank before they learn to row.
 
 **The Accord's courts are the only thing that is the same everywhere**, which is the entire source of its power and the entire source of the resentment toward it. It did not conquer anybody. It made itself the only layer that works in all seven places, charged for it, and is now asking each of them to sign.

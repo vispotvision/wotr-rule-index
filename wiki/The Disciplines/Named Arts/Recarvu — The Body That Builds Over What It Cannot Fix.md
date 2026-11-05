@@ -122,7 +122,7 @@ A practitioner deep into the discipline has trained Verdantia to answer every st
 
 ## Archival Note
 
-Cataloged as a specialist Biokinesis sub-discipline within Vitalia, with a Materia cross-reference for mineralization and carbon-grafting. Uncapped: it scales with Vitality and Temperance without a fixed Grade ceiling. **The C-Grade prerequisite is a structural minimum, not a performance floor.** Technique names use Ketsuen-register Japanese to match the ability's naming convention. Character-specific expressions live in the relevant character's codex entry.
+Cataloged as a specialist Biokinesis sub-discipline within Vitalia, with a Materia cross-reference for mineralization and carbon-grafting. Uncapped: it scales with Vitality and Temperance without a fixed Grade ceiling. **The C-Grade prerequisite is a structural minimum, not a performance floor.** Technique names use Yukari-register Japanese to match the ability's naming convention. Character-specific expressions live in the relevant character's codex entry.
 
 ---
 

@@ -13,9 +13,9 @@ tags:
 >
 > No one is measured in his own tongue.
 >
-> Cut above the door of the Accord's chancery at Stannvaard
+> Cut above the door of the Accord's chancery at Sealhall
 
-Anyone on Marrow Lane in Stannvaard will show you the doorstep for a copper. Noll Quillet, a hedge-speaker (one who speaks workings for hire, with no guild and no schooling), was paid to stop a chandler's fire at the threshold, and he had the words from his aunt and the endings from nobody. *Ignis. Intra limine. Consiste.* came out of him with the wrong case and a clipped vowel, and the fire stopped and sat down. It stayed nine days in the doorway, knee high, the color of a kingfisher's back, burning nothing and warming everybody, with children toasting bread on it and the chandler unable to reach his own front door. On the tenth morning it left by way of the roof, and took the roof. The chandler went to law. The chancery sat in full black silk and found for nobody, on the settled ground that an ungrammatical invocation was never an invocation, that nothing had therefore occurred, and that the roof had been lost to no cause. His heirs bring the suit again every seven years. I have read all the filings, and I have also held my hands over that doorstep, which is still warm.
+Anyone on Marrow Lane in Sealhall will show you the doorstep for a copper. Noll Quillet, a hedge-speaker (one who speaks workings for hire, with no guild and no schooling), was paid to stop a chandler's fire at the threshold, and he had the words from his aunt and the endings from nobody. *Ignis. Intra limine. Consiste.* came out of him with the wrong case and a clipped vowel, and the fire stopped and sat down. It stayed nine days in the doorway, knee high, the color of a kingfisher's back, burning nothing and warming everybody, with children toasting bread on it and the chandler unable to reach his own front door. On the tenth morning it left by way of the roof, and took the roof. The chandler went to law. The chancery sat in full black silk and found for nobody, on the settled ground that an ungrammatical invocation was never an invocation, that nothing had therefore occurred, and that the roof had been lost to no cause. His heirs bring the suit again every seven years. I have read all the filings, and I have also held my hands over that doorstep, which is still warm.
 
 The language that ruling was written in is the strangest instrument on these shelves, and I say so fondly.
 
@@ -23,13 +23,13 @@ The language that ruling was written in is the strangest instrument on these she
 
 It descends from nothing. It was **assembled**, deliberately, by committee, as a neutral instrument for contracts between parties who could not read each other and would not agree to be measured in a rival's language. It is nobody's mother tongue, nobody dreams in it, and no child has ever been raised speaking it.
 
-That is the point, and it is the Accord's actual foundation. Every polity in the four quarters has agreed to be bound in a language that gives none of them an advantage, and that agreement is more load-bearing than any treaty it has ever recorded. A gate-toll in Kharven, a proof-mark on a Dawi barrel, a marriage settlement in Eresse and a Mandate decree's external copy are all written in the same fixed formulae, and none of the four peoples involved likes it.
+That is the point, and it is the Accord's actual foundation. Every polity in the four quarters has agreed to be bound in a language that gives none of them an advantage, and that agreement is more load-bearing than any treaty it has ever recorded. A gate-toll in Kharven, a proof-mark on a Marrowkin barrel, a marriage settlement in Eresse and a Mandate decree's external copy are all written in the same fixed formulae, and none of the four peoples involved likes it.
 
 Because it was assembled rather than grown, **it does not need a grammar in this archive.** Its grammar is fixed, copied out under seal, and taught the same way in every chancery school in the four quarters. What it needs, and what follows, is the formula set: the fixed wordings that do legal and Aetheric work, the registers those wordings sit in, and what happens when one of them is spoken wrong.
 
 ## II. Attestation
 
-**The chancery at Stannvaard** holds the master formulary, revised four times in six hundred years, each revision itself recorded in the formulary it revised. What is in the formulary is valid. What is not in the formulary can be argued and usually loses.
+**The chancery at Sealhall** holds the master formulary, revised four times in six hundred years, each revision itself recorded in the formulary it revised. What is in the formulary is valid. What is not in the formulary can be argued and usually loses.
 
 **The gate registers** across every chartered crossing carry the same six wordings, hundreds of thousands of times, in every hand from a master clerk's to a bored corporal's. This is the best attestation of how the language is actually pronounced, because gate-clerks say the formula aloud and the misspellings record what they heard.
 
@@ -43,7 +43,7 @@ One pronunciation, fixed by the chancery and taught identically everywhere, beca
 
 *c* and *g* are hard in every position. *v* is a consonantal *w* in the liturgical register and a labiodental *v* in the chancery, and the two schools have been sniping at each other about it for four hundred years without either side ever losing a case over it.
 
-**Regional accent is tolerated and regional** ***quantity*** **is not.** A Dawi clerk reading a formula with Barkstone consonants is reading it correctly. A Concord clerk who shortens a long vowel has, in the sung register, said a different word, and in the chancery register has simply revealed where he trained.
+**Regional accent is tolerated and regional** ***quantity*** **is not.** A Marrowkin clerk reading a formula with Barkstone consonants is reading it correctly. A Concord clerk who shortens a long vowel has, in the sung register, said a different word, and in the chancery register has simply revealed where he trained.
 
 ## IV. The Registers, and the Doublet
 
@@ -135,7 +135,7 @@ Chantcraft is not an Accord examination category and never has been, which is wh
 
 ## IX. Script
 
-**The chancery hand.** Upright, separated letters, no ligatures, no abbreviation except a closed list of eleven, and every one of the eleven is in the formulary. Legibility is the whole design brief, since a document must be readable by a Dawi clerk, an Eressean jurist and a Mandate garrison officer with equal ease.
+**The chancery hand.** Upright, separated letters, no ligatures, no abbreviation except a closed list of eleven, and every one of the eleven is in the formulary. Legibility is the whole design brief, since a document must be readable by a Marrowkin clerk, an Eressean jurist and a Mandate garrison officer with equal ease.
 
 **Accord Latin is not written in any of the Fourteen Hands and this is deliberate.** The Hands write boundaries onto laws. Latin writes agreements between people. The chancery has resisted every proposal to render the formulary in a Parunic hand, on the stated ground that an instrument which does Aetheric work of its own has stopped being a contract and become a working, and the parties would then be signing something none of them can read.
 
@@ -183,7 +183,7 @@ The third clause is the one novices are made to sit with. The orders do not glos
 
 **Goblinoid speakers** cannot produce a vowel-initial word without effort and cannot hear quantity at all, since Vaross marks weight by holding rather than by phonemic length. Mandate clerks are trained on the chancery register exclusively and are excellent at it. Mandate choristers effectively do not exist.
 
-**Dawi speakers** are the best in the four quarters at *Cantus* and the reason is mechanical: quantity is phonemic in Runic Dawi and Mathematical Cadence trains the ear on meter from childhood. A Dawi chorister hears a false quantity before the syllable has finished. Dawi clerks in the chancery register voice nothing and are read as blunt.
+**Marrowkin speakers** are the best in the four quarters at *Cantus* and the reason is mechanical: quantity is phonemic in the Tally-Tongue and Mathematical Cadence trains the ear on meter from childhood. A Marrowkin chorister hears a false quantity before the syllable has finished. Marrowkin clerks in the chancery register voice nothing and are read as blunt.
 
 **Eressean speakers** handle the meter easily and the invocation register with visible distaste, because *Vox* has no first person and no witness slot, and an Eressean is being asked to speak a sentence that names nobody and stands for nothing. Most simply decline to use it, which the Accord records as a preference and which is, in Eressean terms, closer to a refusal.
 

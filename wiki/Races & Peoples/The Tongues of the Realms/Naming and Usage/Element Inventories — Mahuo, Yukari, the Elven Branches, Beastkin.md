@@ -6,7 +6,7 @@ title: Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin
 
 Ask anyone at Sum-gol about the Seven Debts. A cadet grandfather of the Mahuo, who kept the family's accounts in green ink and the family in fear of them, chose *Chae* (debt) as the generation-syllable for every child born to his line that decade, and so seven cousins went through life as Chaewon, Chaejin, Chaeyeon and the rest, in bright Breath Hollow silks, announced at every feast as what they owed. At twenty they sued him jointly, in a suit that ran nine years and outlived him, and the whole hollow turned out for the verdict with food. A name is a small inheritance with a fixed grammar, and these are the parts.
 
-Four element inventories: Mahuo, Yukari, the Elven branches, Beastkin. Read alongside the Dawi and Moto inventories and the Naming Guide's per-culture registers. Each inventory keeps the format of those two except where the culture's own anchor does not fit it.
+Four element inventories: Mahuo, Yukari, the Elven branches, Beastkin. Read alongside the Marrowkin and Moto inventories and the Naming Guide's per-culture registers. Each inventory keeps the format of those two except where the culture's own anchor does not fit it.
 
 **A glossary note.** An "element" is a short syllable or root with a fixed meaning, like Latin "-ius" or the "Wolf-" in Wolfgang. A "compound" name is two elements stuck together (Wolf + gang). "Morpheme" means the same thing as "element." A "coda" is whatever sound closes out a syllable (the "-t" in "cat"). None of this needs to be understood to use the inventories themselves.
 
@@ -109,12 +109,12 @@ Three linked layers rather than a flat category list, because the amendment's ow
 
 ## Provenance
 
-**Mahuo.** Grounded in the Mahuo character cards (Kwon Mu-jin, Ara Min Mahuo, Cozbi Mahuo; all three carry a recurring Ledger motif: "the Ledger-Keeper," "The Ledger Nobody Kept," "the Ledger-Prince") and the Ketsuen page (clan seat Sum-gol, "Breath Hollow"; Anima Spirare soul-breath theology). The structural facts are settled: lineage name, two-syllable given name with a shared generational syllable, a "hollow-seat."
+**Mahuo.** Grounded in the Mahuo character cards (Kwon Mu-jin, Ara Min Mahuo, Cozbi Mahuo; all three carry a recurring Ledger motif: "the Ledger-Keeper," "The Ledger Nobody Kept," "the Ledger-Prince") and the Vermilion Dynasty page (clan seat Sum-gol, "Breath Hollow"; Anima Spirare soul-breath theology). The structural facts are settled: lineage name, two-syllable given name with a shared generational syllable, a "hollow-seat."
 
-**Yukari.** Grounded in The Yukari Bloodline (Senri, the Ketsumyōgan, "The Telling": the name is chosen at a coming-of-age rite; signature imagery of silver-threading-through-dark, still water before a stone hits it, the crow motif) and the Ketsuen page's attested etymology: Ketsuen = Ketsu (thread-bound) + En (connection, bond). The amendment's own text glosses Jinmu = divine + dream. Full life-stage slots are attested: name-taboo on the living, renaming at promotion, vow or allegiance.
+**Yukari.** Grounded in The Yukari Bloodline (Senri, the Ketsumyōgan, "The Telling": the name is chosen at a coming-of-age rite; signature imagery of silver-threading-through-dark, still water before a stone hits it, the crow motif) and the Silver Cedars page's attested etymology: Ketsuen = Ketsu (thread-bound) + En (connection, bond). The amendment's own text glosses Jinmu = divine + dream. Full life-stage slots are attested: name-taboo on the living, renaming at promotion, vow or allegiance.
 
 **The Elven branches.** The best-documented of the four: the Vey-Elarin grammar is already a full set of real roots, particles and affixes, functionally most of an element inventory that had not been formatted as one. The Elven Peoples page confirms five branches, each theologically distinct, and calls for names "recognizably related but structurally different," exactly what shared roots plus branch-specific affixes deliver.
 
 **Beastkin.** The Five Beastkin Lineages documents Name-Keeping concretely, but specifically for the Fox-Spirit/Mishiro lineage ("the last thing that cannot be physically removed... speaking one's name aloud in the presence of a witness"), not the other four (Catkin, Lupine, Bearkin, Serpentkin); the amendment generalizes it to "Beastkin" broadly, and this inventory follows that lead.
 
-**Format.** Mahuo and Yukari match the amendment's Dawi (30 elements, two-element compounds) and Satulagi/Moto (25 elements, open-syllable) inventories. The elven and Beastkin inventories are restructured where the culture's own anchor does not fit that shape.
+**Format.** Mahuo and Yukari match the amendment's Marrowkin (30 elements, two-element compounds) and Satulagi/Moto (25 elements, open-syllable) inventories. The elven and Beastkin inventories are restructured where the culture's own anchor does not fit that shape.

@@ -169,7 +169,7 @@ The terminal practitioner does not lose the ability to feel the way Nirvana's te
 ## Archival Note
 
 The three expressions are Temperance-gated progressions of one Nihiloth-mediated mechanism, **not three separate abilities.** A practitioner who manifests Passive is always a candidate for Active; whether they survive to True is a question of Crystal resilience rather than aptitude.
-> **Cross-reference, for comparison and not equivalence.** The Deepkin Dawi's Aura Dead-Zone Domain operates on a related but distinct principle: **absorption rather than cancellation.** Talos produces anti-phase Essence that destructively interferes. Deepkin architecture absorbs external Essence into a Void-fold. The observable effects overlap. The mechanisms do not.
+> **Cross-reference, for comparison and not equivalence.** The Deepkin Marrowkin's Aura Dead-Zone Domain operates on a related but distinct principle: **absorption rather than cancellation.** Talos produces anti-phase Essence that destructively interferes. Deepkin architecture absorbs external Essence into a Void-fold. The observable effects overlap. The mechanisms do not.
 
 ---
 

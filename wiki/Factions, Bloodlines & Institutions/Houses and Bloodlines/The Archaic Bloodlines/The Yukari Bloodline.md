@@ -24,7 +24,7 @@ The Yukari are the family of Ashura, the Breath Between Worlds, third and last o
 
 ## The Name
 
-In the old Japonic of the house, yukari is the word for a tie between lives: kinship, affinity, the bond that makes two people related. The same root runs through Ketsuen, the thread-bound country the house holds. Her true name in the Celestial Proto-Tongue is Ashuraya, and the Empyreal Veil keeps it. Yukari was the name she chose for the world of tables and doorways, because it said what she had come to do. The Breath is what lets one life be related to another, and she named her family after the relation itself.
+In the old Japonic of the house, yukari is the word for a tie between lives: kinship, affinity, the bond that makes two people related. The same root runs through Ketsuen, the old books' name for the thread-bound country the house holds. Her true name in the Celestial Proto-Tongue is Ashuraya, and the Empyreal Veil keeps it. Yukari was the name she chose for the world of tables and doorways, because it said what she had come to do. The Breath is what lets one life be related to another, and she named her family after the relation itself.
 
 That is why the name is chosen and never simply inherited. A family named for the bond lets the bond decide who belongs. Ashura took foundlings into her house and gave them the name on the same evening she gave it to her own children, and the house has done the same ever since. *The tie makes kin. The blood only follows it.* It is the oldest thing the Yukari say about themselves, and they say it at every Telling, before the stone.
 
@@ -157,4 +157,4 @@ The Moto were chosen by Bairos and carry the Scribe's mandate; their sight reads
 
 ---
 
-**See also** · [[Artifacts/The Immortal Cross|The Immortal Cross]] · [[Cosmology & Metaphysics/Null-Light|Null-Light]] · [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|The Ketsumyōgan]] · [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sovereign Enclave of Ketsuen — The Crow's Reach|Ketsuen]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords|The Southern Warlords]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]]
+**See also** · [[Artifacts/The Immortal Cross|The Immortal Cross]] · [[Cosmology & Metaphysics/Null-Light|Null-Light]] · [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|The Ketsumyōgan]] · [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Silver Cedars of Yukari|The Silver Cedars of Yukari]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords|The Southern Warlords]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]]

@@ -39,7 +39,7 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 ## The Twenty-Five
 
 **Five vowels and twenty consonants, one to each cell, keyed to the cell's value and not to its position.**
-> Every sound in the inventory is one **a Dawi throat, an Eressean throat and a goblinoid throat can all produce**, *which was a design constraint before it was an observation.*
+> Every sound in the inventory is one **a Marrowkin throat, an Eressean throat and a goblinoid throat can all produce**, *which was a design constraint before it was an observation.*
 
 | Value | Sound | Written | Articulation |
 |---|---|---|---|
@@ -299,7 +299,7 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **Drow** | Inverted, fluently, **and never below the Doubled Seal** |
 | **Verdant Orcs** | Swamp Parun, limited by breath |
 | **Ironblood** | Gravetongue, **which is not this** |
-| **High Dawi** | Almost none. **They cut instead, and consider speech a hurried medium** |
+| **The High Line** | Almost none. **They cut instead, and consider speech a hurried medium** |
 | **Eresseans** | Read universally, spoken under license only, *and a private letter in Songscript is still the greater threat* |
 | **Concord humans** | The Cant, by rote, badly, **and the death rate reflects it** |
 | **The Moto** | **Neither Root nor Cant.** The Kōkan Line administered the Loom under delegated sight, and a delegated warrant is not *by my own standing* and is not *by an office* either. **The lexicon has no Warrant word for what they hold**, and Moto speakers open on a sound the Vaulted Ring records and does not assign a value to. *The Ring's working position is that the word exists and the value is unknown. The Moto have never been asked, and would not be answered if they were* |

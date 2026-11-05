@@ -6,7 +6,7 @@ title: The Soul and the Climb
 
 *What a soul carries, what advancement does to it, and how it reads from outside.*
 
-Every bookie's slate from Stannvaard to the southern pans carries the same three chalk marks beside a fighter's name: Stage, Path and color. At the Ox Fair brackets a Stage IV peat-cutter called Tansy Mudge, her aura charcoal with a rumor of ochre in it, went nine minutes with a peat spade against a Stage V sect champion in red silk, and paid out at forty to one, at a cost of three fingers and her good opinion of red silk. The Archives can tell you why she should have lasted four. These pages are how.
+Every bookie's slate from Marrowhold to the southern pans carries the same three chalk marks beside a fighter's name: Stage, Path and color. At the Ox Fair brackets a Stage IV peat-cutter called Tansy Mudge, her aura charcoal with a rumor of ochre in it, went nine minutes with a peat spade against a Stage V sect champion in red silk, and paid out at forty to one, at a cost of three fingers and her good opinion of red silk. The Archives can tell you why she should have lasted four. These pages are how.
 
 - [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System: Law, Function and the Forge]]: What a soul carries before any of the above touches it.
 - [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths: Routing, Recognition and the Gate]]: The route a working takes out of a soul, how the Crystal recognizes it, and what it gates.

@@ -270,7 +270,7 @@ timeline
 
 **Arc** is the minstrels' word, a cycle of songs long enough to fill one winter, and I use it because the singers cut the age into three of them before any scholar got round to it. The joints between the second and the third are theirs, and the singers do not agree, so I have left that boundary without a year.
 
-**The split has no sealed date.** I give about 740 because that is the middle of the argument. One Division clerk has 738 from a run of tax receipts, a Dawi hold has an entry number that converts to 741 if you accept the conversion, and every water clock that might have settled it stopped that day. Before it a person could walk the length of the world in one pair of boots, and after it that person wanted a boat. The count survived because a count is a very light thing to carry.
+**The split has no sealed date.** I give about 740 because that is the middle of the argument. One Division clerk has 738 from a run of tax receipts, a Marrowkin hold has an entry number that converts to 741 if you accept the conversion, and every water clock that might have settled it stopped that day. Before it a person could walk the length of the world in one pair of boots, and after it that person wanted a boat. The count survived because a count is a very light thing to carry.
 
 **Muken Moto** belongs to the generation born before the split, and he lives through it. The ballads have the rest of him wrong in at least four keys, and most of the people those ballads are about are still alive at this end of the century to complain.
 

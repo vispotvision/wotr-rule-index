@@ -432,7 +432,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 
 **The fault.** What a workshop wrote down and what it put on the glass were two different things.
 
-**In WOTR.** Alchemetrica's Dawi fourth lute, which they do not sell and will not discuss, has its nearest real case in the Oberstockstall stibnite lute that departs from every printed recipe.
+**In WOTR.** Alchemetrica's Marrowkin fourth lute, which they do not sell and will not discuss, has its nearest real case in the Oberstockstall stibnite lute that departs from every printed recipe.
 
 ### How lutes failed
 

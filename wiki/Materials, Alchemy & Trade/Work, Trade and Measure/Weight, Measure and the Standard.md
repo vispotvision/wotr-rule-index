@@ -24,7 +24,7 @@ What follows is everything Saltby could not say on oath, set out by an archivist
 
 Three institutions already built cannot function without standard weights: **the assay**, which determines fineness by comparing masses; **the proof-mark**, which certifies that a thing was tested; and **the Bench of Attribution**, whose four powers are entry, striking, attribution and reservation, and two of those are exercised on weights.
 
-Somebody had to make the four quarters agree what a pound is. The Dawi did not want to. **Nobody wanted to**, because a local measure is a local advantage, and the man who knows the district bushel is a heaping bushel is the man who buys in that district.
+Somebody had to make the four quarters agree what a pound is. The Marrowkin did not want to. **Nobody wanted to**, because a local measure is a local advantage, and the man who knows the district bushel is a heaping bushel is the man who buys in that district.
 
 The pattern is unambiguous, here as in every history that has ever tried it: **central authorities issue uniformity statutes over and over across centuries, and the fact that they keep issuing them is the evidence they are not working.** The Accord's formulary has been revised four times. Every revision says one weight and one measure through all the land. Every revision was needed.
 
@@ -129,7 +129,7 @@ A Core on falling density bills the same for less, because the book counts time 
 |---|---|
 | **The Accord and the Guild** | Their own standard, everywhere, in all things, and the formulary revised four times to say so |
 | **Concord towns** | The Accord standard in the market and the old local measure in the back of the shop, for regulars |
-| **The holds** | Both, in parallel, the same as the two-column hour ledgers. Hold weight for the Tally, Accord weight for the beacon line. A Dawi will not enter an Accord figure without converting it, and the conversion is itself an entry |
+| **The holds** | Both, in parallel, the same as the two-column hour ledgers. Hold weight for the Tally, Accord weight for the beacon line. A Marrowkin will not enter an Accord figure without converting it, and the conversion is itself an entry |
 | **Eresse** | Accepts the Accord's weight and rejects its authority to set it, on the grounds that a standard nobody witnessed is a standard held contingently |
 | **The Mandate** | Adopted instantly, as with the hour. A decree specifying a quantity is a better decree when everyone means the same quantity |
 | **Kharven** | The ration, the bowl, the stack, the fire's length. The scale is inspected publicly at Ice-out and that inspection is a rite, not an audit |

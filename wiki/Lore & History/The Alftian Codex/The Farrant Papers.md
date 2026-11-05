@@ -72,9 +72,9 @@ I took the file up the stair under my arm.
 
 The kept road runs up the valley, and the carriers run it by day. The hum of the tuned waystones came up through the cart bench into my back teeth, stone after stone, until the foot of the valley, where the carrier's cart came off the kept road into the waystation yard. Castlefall's loading platform is cedar. It is ten winters old and still weeps sap onto the carters' boots.
 
-The waystation carver met the cart and asked me who keeps my posts. I told him I had none, which in Ketsuen counts as an answer, and he put me on the waystation's record on my own word: name, Society, chapter, business on the crown's warrant, lodging. Anyone may read it. Ketsuen has no crown and governs by the Proving, so here the warrant is paper, and I can ask and cannot compel.
+The waystation carver met the cart and asked me who keeps my posts. I told him I had none, which in the Crow's Reach counts as an answer, and he put me on the waystation's record on my own word: name, Society, chapter, business on the crown's warrant, lodging. Anyone may read it. The Reach has no crown and governs by the Proving, so here the warrant is paper, and I can ask and cannot compel.
 > Margin, H.: You are on their record now.
-The pressure came on behind my temples inside the first division off the cart, a low weight laid there and left. Ketsuen gives it to everyone.
+The pressure came on behind my temples inside the first division off the cart, a low weight laid there and left. The Reach gives it to everyone.
 
 Castlefall smells of lime first. In the morning the leat below the tannery ran gray with it. Next door a carver's mallet was going on a practice stone, every stroke on its beat, and the tanner says the boy who used to land every third stroke late keeps half the street's posts now.
 

@@ -21,7 +21,7 @@ The sky holds one sun, one moon, five wanderers, and a fixed field with one star
 
 ### Shiro, the moon
 
-Moto **Shiro**, the White. Concord **the Lamp**. Dawi call it the Bright and do not discuss it further.
+Moto **Shiro**, the White. Concord **the Lamp**. Marrowkin call it the Bright and do not discuss it further.
 
 Its full cycle from dark to dark runs **twenty-eight days**, and this is the single most convenient fact in the sky, because it means the month and the moon agree exactly and always have. Nowhere in the four quarters has anyone ever needed to argue about when a month begins. A month begins at the dark.
 
@@ -65,7 +65,7 @@ Because daylight and dark are not the same length except twice a year, **the sta
 
 ### The Guild hour, which is equal
 
-A relay net cannot run on notches that change length with the season, so the Guild keeps a single hour on the great water clock at Stannvaard, sends it outward by relay rider and sealed sand-glass and a line of beacons lit at the hinge, and every guild hall sets its own water clock to it: **fourteen equal hours, of sixty counts each, identical in every quarter and every month of the year.**
+A relay net cannot run on notches that change length with the season, so the Guild keeps a single hour on the great water clock at Sealhall, sends it outward by relay rider and sealed sand-glass and a line of beacons lit at the hinge, and every guild hall sets its own water clock to it: **fourteen equal hours, of sixty counts each, identical in every quarter and every month of the year.**
 
 This is the same collision that happened on Earth when the mechanical clock displaced the temporal hour, and it lands the same way. The equal hour is correct, portable, and useless for telling a man when to start work. The unequal station is imprecise, unportable, and describes the actual day.
 
@@ -73,7 +73,7 @@ This is the same collision that happened on Earth when the mechanical clock disp
 
 |  | Station | Guild hour |
 |---|---|---|
-| Anchored to | sunrise and sunset | the great water clock at Stannvaard |
+| Anchored to | sunrise and sunset | the great water clock at Sealhall |
 | Length | varies with season and latitude | fixed |
 | Kept by | the sun, a shadow-line, a bell | a guild hall's water clock |
 | Used for | labor, rite, the Bow, the working day | schedules, contracts, the relays, the caravans |
@@ -114,16 +114,16 @@ The true year is a little over that, by rather more than half a day, and the cor
 
 ### Munahi, the nameless day
 
-**Eight times in every thirteen years**, a single day is inserted at the year's end that belongs to no Archon. Moto ***Munahi***, the empty day. Concord **the Nameless**. Dawi call it the unentered day and do not like it.
+**Eight times in every thirteen years**, a single day is inserted at the year's end that belongs to no Archon. Moto ***Munahi***, the empty day. Concord **the Nameless**. Marrowkin call it the unentered day and do not like it.
 
 Because it has no Archon it has no Labor, and because it has no Labor it has no character, and the consequences run right through every institution already built.
 
 - **No Work falls due.** The Sohai holds that the Bow is not performed on Munahi, because there is no station to perform it at. The house's own position is that this is the one day a year the religion is silent, and it is defended vigorously against the obvious objection.
-- **Nothing can be entered.** The Tally takes no entry dated to a day that is not in the count. Dawi clerks stop work entirely, and a hold on Munahi is a hold where nothing legally happened.
+- **Nothing can be entered.** The Tally takes no entry dated to a day that is not in the count. Marrowkin clerks stop work entirely, and a hold on Munahi is a hold where nothing legally happened.
 - **No window opens.** Every Eressean rite is timely or untimely by its appointed window, and no window is appointed on a day outside the calendar, so an Eressean can perform nothing correctly and cannot be found to have performed anything incorrectly either.
 - **No instrument binds.** The chancery formulary has no date-form for Munahi. An Accord contract dated to it is void, and this has been tested, twice, and upheld both times.
 
-**So one day in roughly two, the law is asleep.** Debts do not fall due. Oaths sworn are not oaths. Nobody can be summoned, entered, sealed or held to anything. Every quarter has developed its own tradition around this and none of them are pious ones. In Stannvaard it is a holiday with an unusually high number of injuries. In the holds it is spent indoors and sober, because a Dawi cannot swear on it and a Dawi who cannot swear does not much see the point of the day. In Kharven it is the day scores are settled, and the death-house takes what it takes, and the Waiting begins on the first named morning after.
+**So one day in roughly two, the law is asleep.** Debts do not fall due. Oaths sworn are not oaths. Nobody can be summoned, entered, sealed or held to anything. Every quarter has developed its own tradition around this and none of them are pious ones. In Altherion it is a holiday with an unusually high number of injuries. In the holds it is spent indoors and sober, because a Marrowkin cannot swear on it and a Marrowkin who cannot swear does not much see the point of the day. In Kharven it is the day scores are settled, and the death-house takes what it takes, and the Waiting begins on the first named morning after.
 
 Whoever wants a scene in which a character does the thing they could never otherwise do has been handed the date.
 
@@ -149,7 +149,7 @@ Four systems, all current, all in use, none reconcilable without a table.
 
 **The Moto nengo.** An era name declared on accession, and declared again on an omen, a disaster, a great work, or a reading. Years are counted within the era. This means **the Moto date carries an interpretation of the period it names**, and a change of nengo mid-reign is a public statement that something has ended. Concord clerks find this maddening and Moto clerks find the Accord count spiritually illiterate, and both are correct.
 
-**The hold Tally.** The holds keep no year-count, and date by entry number, continuously, since the Tally began. A Dawi asked what year it is will tell you the last entry made, which is not an evasion.
+**The hold Tally.** The holds keep no year-count, and date by entry number, continuously, since the Tally began. A Marrowkin asked what year it is will tell you the last entry made, which is not an evasion.
 
 **The Eressean calendar.** A cycle of appointed windows rather than a count of years, kept by the rite calendars and recopied without variation. The Eressean position is that a year is a shape, not a number, and asking which one it is reveals that you do not understand what a year is for.
 
@@ -166,7 +166,7 @@ The Sohai, being a religion of the Reading, holds that this is not a scheduling 
 | People | Day | Year | Notes |
 |---|---|---|---|
 | **Moto and Sohai households** | stations, the hinge, the Bow | nengo, corrected to the Sower | The only tradition that still checks the sky |
-| **The Accord and the Guild** | equal hours from the Stannvaard clock | continuous Accord count | Will not correct the drift |
+| **The Accord and the Guild** | equal hours from the Sealhall clock | continuous Accord count | Will not correct the drift |
 | **The holds** | hold hour for entries, Guild hour for the relays, in parallel columns | the Tally | Two-column ledgers; a term can fall either side |
 | **Eresse** | windows, appointed by calendar | the rite cycle | Has never formally accepted Guild hour and keeps both |
 | **The Mandate** | Guild hour, adopted instantly and completely | Accord count | A decree read at the same moment everywhere is a better decree |

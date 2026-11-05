@@ -14,7 +14,7 @@ tags:
 >
 > What the Mandate calls it, and it is no compliment
 
-In a good spring on the Long Quay, Sibby Tamm, a rope-seller of the southern ports in a yellow headscarf, sold one boatload of saffron to three separate buyers in a single afternoon, in Common, to their faces, with a crowd around her eating whelks. All three believed they owned it. All three went to law at Stannvaard with advocates and their best furs, and the chancery sat a full week over her exact words. It found that she had said she would see them right, that she meant to have it there by the tenth, that a man could do worse, and that nobody would regret it, and that nowhere in any of this had she told anybody anything. The court said so with visible regret and let her go, and nobody has yet explained whose saffron it was.
+In a good spring on the Long Quay, Sibby Tamm, a rope-seller of the southern ports in a yellow headscarf, sold one boatload of saffron to three separate buyers in a single afternoon, in Common, to their faces, with a crowd around her eating whelks. All three believed they owned it. All three went to law at Sealhall with advocates and their best furs, and the chancery sat a full week over her exact words. It found that she had said she would see them right, that she meant to have it there by the tenth, that a man could do worse, and that nobody would regret it, and that nowhere in any of this had she told anybody anything. The court said so with visible regret and let her go, and nobody has yet explained whose saffron it was.
 
 That is the tongue this whole archive is written in. Keep one hand on your purse while you read it.
 
@@ -46,7 +46,7 @@ Neither column is more correct. **Which one a character reaches for is character
 
 ## II. The Hole
 
-Every tongue in this archive is built around something it makes impossible. Old Vaross cannot let a quality float free of the thing it describes. Eressean cannot state a possession without naming who stood for it. Runic Dawi has no future tense. Accord Latin's invocation register has no first person.
+Every tongue in this archive is built around something it makes impossible. Old Vaross cannot let a quality float free of the thing it describes. Eressean cannot state a possession without naming who stood for it. The Tally-Tongue has no future tense. Accord Latin's invocation register has no first person.
 
 **Common forces nothing.**
 
@@ -54,7 +54,7 @@ A speaker of Common is never obliged to say whether a claim was witnessed, wheth
 
 **This is why it spread and why every other people distrusts it.**
 
-It is the only tongue in the four quarters in which it is comfortable to say something without committing to anything. Merchants negotiate in Common because a negotiation in Eressean concedes standing with every possessive, and a negotiation in Dawi forces a man to swear or admit he has not begun. Common lets both parties talk for three hours and leave with nothing conceded, which is what a negotiation is for.
+It is the only tongue in the four quarters in which it is comfortable to say something without committing to anything. Merchants negotiate in Common because a negotiation in Eressean concedes standing with every possessive, and a negotiation in Marrowkin forces a man to swear or admit he has not begun. Common lets both parties talk for three hours and leave with nothing conceded, which is what a negotiation is for.
 
 And it is why **Accord instruments are not written in Common.** Common cannot bind. The chancery has said so in as many words, four times, across four revisions of the formulary.
 
@@ -62,7 +62,7 @@ And it is why **Accord instruments are not written in Common.** Common cannot bi
 
 The feature every other people finds scandalous and every Concord speaker finds unremarkable.
 > *I will pay you on the tenth.*
-A Dawi hearing that translated has heard a man produce an entire verb form for a thing he has not undertaken. There is no equivalent in Runic Dawi, and the constructions a Dawi reaches for to render it come out as either an oath or an admission that nothing has begun. The Dawi name for Common is **Kielnur**, the unentered tongue, and the Kegshard position is that a language with a future tense is a language built for people who intend to be believed without being bound.
+A Marrowkin hearing that translated has heard a man produce an entire verb form for a thing he has not undertaken. There is no equivalent in the Tally-Tongue, and the constructions a Marrowkin reaches for to render it come out as either an oath or an admission that nothing has begun. The Marrowkin name for Common is **Kielnur**, the unentered tongue, and the Kegshard position is that a language with a future tense is a language built for people who intend to be believed without being bound.
 
 The Eressean name is **Aureth**, the unwitnessing, and it is the same complaint from the other direction.
 
@@ -76,7 +76,7 @@ Large, tolerant and inconsistent, because it absorbed four sound systems and dis
 |---|---|---|---|
 | Vernacular core | initial | short, closed, one or two syllables | *hold*, *bar*, *stack* |
 | Vaross loans | initial | heavy onsets, clustered | *cadre*, *drack*, *thrum* |
-| Dawi loans | initial | doubled consonants, long vowels | *tally*, *cask*, *ollet* |
+| Marrowkin loans | initial | doubled consonants, long vowels | *tally*, *cask*, *ollet* |
 | Eressean loans | never final | open, liquid, ending in a vowel or nasal | *seth*, *thair*, *lith* |
 | Latin loans | penultimate | three and four syllables, *-ion*, *-ate*, *-ory* | *register*, *attestation*, *formulary* |
 
@@ -90,7 +90,7 @@ A clerk who says *reGISter* trained in the chancery. One who says *REGister* lea
 
 **Vaross loans** came through garrison and war. *Cadre*, from *kaadre*, a garrison settlement, now a body of men held together by their officers. *Drack*, from *drakh*, the ground moving under a standing thing, now the first moment of a rout and the specific noise a line makes as it goes. *Thrum*, from *thruum*, a decree read aloud, now the sound of a crowd receiving news. Soldiers' words that civilians adopted, all three keeping their clusters.
 
-**Dawi loans** came through trade and the vaults. *Tally*, from *tallu*, the record. *Cask*, from *kaas*. *Nick*, from *nikka*, an angle, now a cut made at one. *Ollet*, from *ollut*, a brew come to age, now any strong ale and specifically one you did not brew yourself.
+**Marrowkin loans** came through trade and the vaults. *Tally*, from *tallu*, the record. *Cask*, from *kaas*. *Nick*, from *nikka*, an angle, now a cut made at one. *Ollet*, from *ollut*, a brew come to age, now any strong ale and specifically one you did not brew yourself.
 
 **Eressean loans** came through court and calendar, the smallest stratum and the highest status. *Seth*, from *saeth*, an appointed window: *at seth* is on time, *off seth* is late in a way that is somebody's fault. *Thair*, from *thaer*, a records room. *Lith*, from *lyth*, silence, borrowed together with the Eladrin practice, meaning a deliberate pause held in negotiation, which Concord negotiators attempt and almost always break first.
 
@@ -112,7 +112,7 @@ By quarter, and the differences are lexical and prosodic rather than grammatical
 
 **Western.** The Concord standard, because the chancery schools are there. Latin stratum heaviest, vowels short. Heard elsewhere as clipped and pleased with itself.
 
-**Northern.** Heaviest Dawi loading, first-syllable stress generalized even onto Latin words. Slow. Reads as blunt to a westerner and honest to a northerner.
+**Northern.** Heaviest Marrowkin loading, first-syllable stress generalized even onto Latin words. Slow. Reads as blunt to a westerner and honest to a northerner.
 
 **Eastern.** Heaviest Eressean loading, calendar vocabulary in ordinary use, the *lith* actually practiced rather than attempted. An easterner who goes quiet in an argument has said something. A westerner reads it as having run out of words.
 
@@ -122,7 +122,7 @@ By quarter, and the differences are lexical and prosodic rather than grammatical
 
 **An alphabet of twenty-four letters, and this is the reason Common won.**
 
-Songscript is a score and needs a musician. Dawi runes need an angle-set and a hand trained to it. Vaross tally-notation needs a blade and a board, and a document is an object that can be split with an axe. Common is written with ink on anything, in a hand a clerk's son learns in a season, by somebody with no craft, no guild, no seven years and no master.
+Songscript is a score and needs a musician. Marrowkin runes need an angle-set and a hand trained to it. Vaross tally-notation needs a blade and a board, and a document is an object that can be split with an axe. Common is written with ink on anything, in a hand a clerk's son learns in a season, by somebody with no craft, no guild, no seven years and no master.
 
 Literacy in Common is cheap. Literacy in every other written tongue in the four quarters is an apprenticeship. That single fact has done more to spread Common than the Accord, the Concord, and every army either has fielded.
 
@@ -130,15 +130,15 @@ Literacy in Common is cheap. Literacy in every other written tongue in the four 
 
 ## VIII. Speaking It Badly
 
-**Everyone speaks Common badly and nobody is corrected**, which is unique among these tongues and has nothing to do with generosity. There is no prestige standard a foreigner is expected to reach, because Common's speakers have never organized around one, because there is no guild, no chancery and no order with jurisdiction over it. A Dawi with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone else.
+**Everyone speaks Common badly and nobody is corrected**, which is unique among these tongues and has nothing to do with generosity. There is no prestige standard a foreigner is expected to reach, because Common's speakers have never organized around one, because there is no guild, no chancery and no order with jurisdiction over it. A Marrowkin with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone else.
 
 **Goblinoid speakers** drop articles, since Vaross has none, and stack compounds where Common wants an adjective, producing the flat noun-heavy speech Concord readers mistake for stupidity and which is a speaker refusing to let a quality float free of the thing it describes.
 
-**Dawi speakers** state the copula every time, mark acts as recorded or not, and will not express an intention without swearing to it, so their Common reads as pedantic and evasive by turns. He is using the only distinctions he has.
+**Marrowkin speakers** state the copula every time, mark acts as recorded or not, and will not express an intention without swearing to it, so their Common reads as pedantic and evasive by turns. He is using the only distinctions he has.
 
 **Eressean speakers** name their witnesses unprompted, over-specify provenance, and issue schedules instead of orders, which reads as aristocratic or paranoid depending on the listener.
 
-**Concord speakers of everything else** carry the reverse habit and it is the worst of the four. Having a tongue that forces no distinctions, they assume none of the others do either. They translate *my name* into Eressean with the validated possessive and claim ownership of things they have merely been shown. They address Dawi by oath-names in the weak grade. They reach for a future tense in Runic Dawi and land in the oath form. **Four Concord trade delegations have sworn by accident.** None of them found out for a season.
+**Concord speakers of everything else** carry the reverse habit and it is the worst of the four. Having a tongue that forces no distinctions, they assume none of the others do either. They translate *my name* into Eressean with the validated possessive and claim ownership of things they have merely been shown. They address Marrowkin by oath-names in the weak grade. They reach for a future tense in the Tally-Tongue and land in the oath form. **Four Concord trade delegations have sworn by accident.** None of them found out for a season.
 
 ## IX. Sample Texts
 
@@ -154,7 +154,7 @@ Literacy in Common is cheap. Literacy in every other written tongue in the four 
 > "Paid at the last one."
 >
 > "Tally, or you're stood here till one comes."
-The Latin behind that is *Solutum et transitum, in registro relatum*. The corporal has never seen it written and says *tally* because a Dawi trader taught the word to a garrison two hundred years ago.
+The Latin behind that is *Solutum et transitum, in registro relatum*. The corporal has never seen it written and says *tally* because a Marrowkin trader taught the word to a garrison two hundred years ago.
 
 **A refusal, Eastern.**
 > "So we're agreed."
@@ -170,5 +170,5 @@ Attested in canon: the Latinate and vernacular doublet as the register lever, wi
 
 **The framework exception.** The Tongues of the Realms says a language earns a grammar only when the reader will see it untranslated. Common is exempted on the opposite ground: it is the medium the reader sees everything in, and its doublet is live in every line of dialogue in the project. The exemption is recorded here rather than smuggled.
 
-**The names other peoples use.** *Kha-Vaross*, the weightless tongue, from *kha*, that which has no load-bearing capacity, and *vaross*, the tongue that carries law. Both roots are canon and the compound is the Mandate's own joke: a tongue that carries nothing. *Kielnur*, the unentered tongue, Runic Dawi, from *-nur*, the completed but unrecorded act. *Aureth*, the unwitnessing, Eressean, from *ureth*, the office of standing witness, with the privative. Three peoples arrived independently at the same complaint, which Concord scholars note with some pride and no reflection.
+**The names other peoples use.** *Kha-Vaross*, the weightless tongue, from *kha*, that which has no load-bearing capacity, and *vaross*, the tongue that carries law. Both roots are canon and the compound is the Mandate's own joke: a tongue that carries nothing. *Kielnur*, the unentered tongue, Tally-Tongue, from *-nur*, the completed but unrecorded act. *Aureth*, the unwitnessing, Eressean, from *ureth*, the office of standing witness, with the privative. Three peoples arrived independently at the same complaint, which Concord scholars note with some pride and no reflection.
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth]]

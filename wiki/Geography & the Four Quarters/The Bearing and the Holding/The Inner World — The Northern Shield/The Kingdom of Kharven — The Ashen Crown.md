@@ -2,230 +2,203 @@
 title: The Kingdom of Kharven — The Ashen Crown
 ---
 
+![[Assets/Paintings/realm-kingdom-of-kharven.webp]]
+
+*Art: GLIULIAN.*
+
 # The Kingdom of Kharven — The Ashen Crown
 
 **Say it** · KAR-ven
 
-*The Ashen Crown · The First Kingdom of the North · The Moto Seat*
-> ⚠️ **Amendment status.** This entry is **post-amendment**: Ayame Yuno, Kōkan Line, Tenrai Line, western-shield origin all corrected. **One residue remains** — Section IX of the source still describes the Moto tradition as *Japanese in its naming and spiritual architecture*. **That is dead register.** Rendered below as Mongolian-Inuit per the Moto Cultural Amendment; the source file needs the line struck.
+*The Ashen Crown · The One True Kingdom of the North · The Moto Seat*
+
+At the Midwinter Brackets of Year 703 the whole lower town of Kharven-Seat came down onto the frozen Marrow in its scarves, four thousand people between the bonfires, with the rock standing up behind them strung with amber lamps and the green aurora hanging over the spires. The final was Scarlet Scarves against Wolf Grays, the two fighting schools of the Seat, whose grudge is older than either school's account of it. The Scarlet champion was Big Sigga Tolleifsdottir, a cooper's daughter with a coat of aura the color of a split beet and forearms the width of a good ham. The hedge-workers who charm the bracket ice had asked for an extra copper the yard that year and been laughed at, and at noon they had put down their tools and gone to watch from the bank with their arms folded. Nobody on the ice had been told. Sigga took a Wolf Gray's staff across the ear in the third exchange, roared, jumped as high as a cart, bawled the one art she ever named, THE WHOLE WINTER, and came down on both heels.
+
+The Marrow opened from bank to bank. Bonfires, bookies, sausage-sellers, a bishop's nephew and the entire front third of the crowd went into black water in their best red and gray, and the river steamed where the fires hit it. Thirty-one people drowned, and the lower town sat with every one of them through the Waiting, all night, Scarlet beside Gray, on the cold floor of the death-house. In the morning the bookies paid out, because the wager had been on who was left standing, and the only person standing on anything was Sigga, on a slab of ice the size of a door, a quarter-mile downriver, still holding her opponent by his scarf. The Hall of Verdicts, up on the crown of the rock, sent down a clerk to determine who was at fault. He looked at the river for some time, and nobody has ever told him it was the hedge-workers.
+
+One dark rock, one empty red chair, the oldest blood in the world arguing under one roof, and a winter that audits all of them: that is Kharven in a breath.
+
+> **Two hands on this page.** The ground, the trades, the law and the people below stand as this shelf stands them, in Year 715, the twenty-fifth of the Dark Ages. The crown's own story runs past that seal. Passages in the later hand that also annotates the [[Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages|Concordance of Ages]], carried back from the last winter before the turn, are marked *Later hand* where they begin. A reader standing in 715 should take them the way a farmer takes weather coming over the ridge. *Later hand:* this is the one true kingdom of the north, and it becomes the capital of the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield#The Northern Empire of Whitemere|Northern Empire of Whitemere]], which Muken Moto builds out of it.
 
 ---
 
 ## Overview
 
-The northernmost sovereign territory in the Inner World. A feudal monarchy **built on frozen ground by a foreign conqueror who understood that the cold was the only honest judge of whether a man deserved to hold land.**
+The northernmost sovereign ground in the Inner World, and the only true kingdom in the North. "Kharven" is the old name of the high country itself, and the Seat and the Foot stood on it before anyone now alive had an opinion about them. The six Banner Houses hold their lands around it, each on its own page, and they are houses and lands, never kingdoms, however they carry themselves at table.
 
-Kharven is defined by two inheritances in permanent tension: **the divine authority of the Moto bloodline**, whose Hataraki-bearing eyes make them the most spiritually dangerous ruling house in the Inner World, and **the practical, unsentimental toughness of the northern clans** who were there before the Moto arrived and who accepted Moto rule because the alternative was the fragmented clan warfare that had been killing them for generations.
+Kharven is defined by two inheritances in permanent tension: **the divine authority of the Moto bloodline**, whose Hataraki-bearing eyes make them the most spiritually dangerous ruling house in the Inner World, and **the practical, unsentimental toughness of the northern clans** who were there first and who have accepted Moto rule, on and off, because the alternative was the fragmented clan warfare that had been killing them for generations.
+
 > **The climate is the kingdom's primary institution.** It kills the weak, preserves the strong, punishes pretension, and rewards only the virtues that survival in sustained cold requires: endurance, preparation, cooperation under duress, **and the willingness to do ugly necessary work without complaint.**
 >
-> **The cold is not the setting. The cold is the constitution.**
+> **The cold is the constitution.**
 >
-> This arrangement makes Kharven **the most internally coherent kingdom in the Inner World when the Crown is competent, and the most rapidly fragmentary when it is not.** The kingdom did not survive Muken's assassination. It will not survive Sodoku's return unless Sodoku proves that the competence is inherited alongside the blood — **and the Banner Houses are watching with the patient, unsentimental assessment of people whose primary relationship is with the climate, not the throne.**
+> This arrangement makes Kharven **the most internally coherent kingdom in the Inner World when the Crown is competent, and the most rapidly fragmentary when it is not.**
 
 ---
 
-## Geography
+## The Land and What It Looks Like
 
-Bounded east by Ketsuen's ward-perimeter, west by the ridgeline separating the northern shield from Undaar-Keth, south by the contested frontier, and north by the polar shelf — **which is not a border but a geological fact. Past the treeline, there is nothing to govern.**
+You come to it up a long frozen valley with a castle at every bend, each one a little higher and a little more sure of itself, and on the last mile of the approach the road runs between **the Hooded Men**: stone figures twice the height of a rider, cowled, faces worn off, each holding up a torch that a lamp-warden is paid to keep lit and which goes out when the lamp-wardens are not paid. Nobody knows who carved them, and the Measurewrights have stopped asking because the answers came back in the wrong hand. Then the valley opens and the sky is enormous, storm stacked on storm with an orange sunset breaking at the far edge of it, and Kharven-Seat is standing on its rock in the snow.
 
-| Band | Character |
-|---|---|
-| **The Greenhollow** *southern lowlands* | Forested river valleys, deep soil, enough season for grain, livestock and timber. **The breadbasket, and the only territory where agriculture is the primary occupation rather than a supplement to hunting and trade** |
-| **The highland plateau** *the core* | Granite uplift scarred by glacial activity, boreal forest, **ironwood stands dense enough that the Dawi import the timber for tool handles.** Defensible, central, **and cold enough to discourage anyone who does not genuinely want to be there** |
-| **The Ironwood March** *east* | Transitional ground toward the Ketsuen border, boreal forest giving way to shield upland |
-| **The Stormfold** *west* | Exposed, wind-hammered, garrisoned by mountain companies whose function is to watch the western approaches **and to survive conditions that would kill most soldiers before the fighting started.** Past that ridgeline lies **the ground the bloodline came from** — nobody holds it, *and the Crown has never once filed a claim on it* |
-| **The Polar Reach** *north of the treeline* | Tundra and permafrost. Inhabited by the hardest people in the kingdom, **and by the specific category of Moto practitioner who seeks the emptiness because the emptiness is the only space large enough to practice Domain-scale techniques without killing bystanders** |
+**Kharven-Seat** is a towering dark castle of many spires with verdigris-green roofs, and every traveler who has ever seen it has stopped his horse, so that a lone rider sitting still on the last mile with his head tipped back is the commonest sight on that road, and the lamp-warden's boy will charge him a copper for the view. The rock under it rises sheer out of the Marrow on the river's west side, four hundred feet of cliff veined with frost that glitters rose and pale gold in the first light, and the whole face of it is strung with lamps in brass cages, up the cliff stair and along the terraces and the long curtain walls. Halfway up, the silver house of the Shirogane sits on its terrace with its tall windows glowing blue-white. On the crown, the long black roof of the **Hall of Verdicts** steams faintly where the snow melts off the warmed stone. The Tenrai keep stands to the east with gold leaf on it, and gold and crimson banners hang from every wall that will take a nail. Beside the Hall, older and lower than anything else up there, is a long gray house of the old Kōkan building, deep-eaved and dark-beamed, with floors of black stone worn smooth by a thousand years of feet, and for three centuries the people who live on the rock have used it to store chests. A lift-cage of black iron and brass hangs on cables from the cliff-top to the river ford, lit inside like a lantern, the masterwork of a Guild craftsman long dead and a source of steady terror; it has dropped twice in living memory, both times with nobody important in it, which the lower town regards as the true miracle.
 
-**Kharven-Seat** stands on the site of Muken's original stronghold. Destroyed during the Tenrai's seizure of power and **rebuilt by Sodoku using the surviving foundation stones.** The rebuilt city carries two architectural languages: squared heavy-walled Moto construction in gray granite and ironwork, **built to channel wind rather than resist it**, and the longhouse tradition of the northern clans, timber-framed and steep-roofed to shed snow load and hold heat through a six-month winter.
+At the foot of the rock is the **lower town**, a thousand orange oil-lights crowded along the river with their chimneys smoking straight up. Here the Seat speaks its second architectural language, the longhouse tradition of the northern clans, timber-framed and steep-roofed to shed snow load and hold heat through a six-month winter, doors painted ox-blood and ocher so a man can find his own in a whiteout. The squared, heavy-walled Moto stonework above it is built to channel wind rather than resist it.
+
 > *Visiting architects describe it as beautiful and threatening in roughly equal measure. The population describes it as home.*
 
----
+North of the Seat, under the shoulder of the ridge, lies a mere the Kharven have called **the white** for longer than anyone has written anything down. It ices at the first hard frost and goes opaque by the second week and stays that way until the grass comes, and underneath it never freezes through, because something keeps the water moving down there. Three Measurewrights have explained what. *Later hand:* the Moto took the name of their empire from it.
 
-## Origin · The Migration and the First Crown
+**The highland plateau** is the kingdom's core: granite uplift scarred by glacial activity, boreal forest, defensible, central, **and cold enough to discourage anyone who does not genuinely want to be there.** Its great frozen lake, the **Skeldmere**, hums in the deep cold over the water beneath it, and the shore road runs south from it to the Seat. Past the ridgeline to the west lie [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist|the Mandate's black basalt and boreal forest]] and **the ground the bloodline came from**, which nobody holds and on which *the Crown has never once filed a claim.* The Holy Sea's copies of the map keep that ground on its own high marches instead, and the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — A Gazetteer#Where the Maps Quarrel|Gazetteer]] enters both. Aurora goes over all of it most clear nights, a slow green river with violet at its hem, and in the hour after sunset the snow turns blue.
 
-> The Kingdom of Kharven exists because **Muken Moto went north because it was the one direction that had not already decided what he was.**
-Malakar's splitting made the ancestral seat untenable and **the seven lines scattered toward temperate ground** — arable, defensible country compatible with the settled governance a divine bloodline expected to practice. **Muken went the other way.** North and east into the boreal forest, with the warriors who followed him because they trusted his judgment more than they trusted the obvious conclusion.
-> He did not arrive as a claimant with a household behind him. **He arrived with a sister, a reputation earned in other people's wars, and no standing at all in a country that had never heard of the place he came from.**
-**The reasoning was strategic before it was spiritual.** The north was empty because the north was hard, and hard because the cold killed anything not prepared, not disciplined, not willing to do the work of survival every day without the luxury of a season where the land did the work for you. *These were the qualities Muken wanted in the people who served him.* **He did not need to test his subjects. The climate tested them. He only needed to govern the ones who passed.**
+### The major places
 
-What he found was not emptiness. **It was fragmentation.** Concord-stock clans locked in the cyclical warfare that afflicts every population too tough to be conquered by its environment and too fragmented to stop fighting itself — *because the man in the next valley had something and the man in this valley wanted it, and winter was coming, and want became need became violence with the specific inevitability of water running downhill.*
-> Muken ended it **the same way he ended everything: by being better at violence than the people he was replacing**, and by making the violence so decisive that continuing to resist cost more than submitting — **and submitting cost less than anyone expected, because the man on the other side of it was not interested in humiliation. He was interested in governance.**
+- **Kharven-Seat.** The capital, the rock, the Hall, the river, the lower town. About the only place in the north where a person can buy a thing they do not strictly need.
+- **Kharven's Foot, called the Foot.** The door of the north. It stands at the top of the long ridge where the Kessen road comes up out of the low country and goes on through the mountains. The old clans built the first of it, a ring of dry stone round a well, back when the land was still grass and the riders still rode; somebody built over that, and somebody over them, and eleven years ago, with the long war going badly, the Tenrai rebuilt the lot in square gray stone with a gatehouse, two towers, a curtain wall eight men high and a toll-post, and hung a gold-on-black banner you can see in clear weather from three days down the road. Whoever holds the Foot holds the road, and the ordinary people of the north have a number of remarks about the toll.
+- **Harlsey Landing.** A river town whose whole north bank turns out at Ice-out, the morning the river breaks, in its best reds and blues, to see the ration scale inspected in public, as it has been since anybody's grandmother.
+- **The Castle Stair.** The long valley of the approach, with cadet castles of the landless Moto lines at every bend, each with loud opinions about the one above it.
 
----
-
-## The First King · Muken Moto
-
-*The Ashen Blade · He Who Writes Ruin Into Law*
-
-**Stage X Realization. Kōkan Line. Hataraki-bearing.** The most dangerous practitioner-king the Inner World has produced.
-
-He was born in Nalūn, not Kharven, and not into the house whose crown he would come to wear. **His mother was Kōkan** — the line the family had already spent holding the Stay and then spent again disowning — **taken by a lesser noble house of the city, and he was what that taking produced.** His sister Saruul shared the mother and none of what the house would call the blood. What he had instead of a bloodline was Nalūn itself: a kingdom whose entire civic instrument is the accounting of debt, worn on the body as a seal-token that goes inert the moment a contract breaks. **He learned that grammar before anyone told him he was descended from the people who had written it.** He was raised on what he could earn with his hands, taken into mercenary work young because young was when the work was offered, **and it was in that work that Revari Zettari's True Everlasting Eyes looked at a sellsword nobody had reason to look at twice and read him back to his source.** No record in Nalūn or in his own file names him Moto by descent. **He was never acknowledged. He was only, eventually, unignorable.**
-> He was also a husband, a father, **a man who put his hand on his son's head at a dinner table and said nothing and the nothing was enough.** The two facts are not in tension. *They are the same fact viewed from different distances.*
-**He conquered the north in fourteen months.** The campaign is studied at every military academy in the Inner World and misunderstood at most of them, **because the academics focus on the battles and the battles were not the point. The point was the doctrine.**
-
-### How the houses came in
-
-| House | How |
-|---|---|
-| **Stark** | **Learned fastest, because the Starks had been governing competently enough that Muken recognised a peer and approached with an alliance rather than an army.** The terms: serve the Crown, keep your lands, keep your laws, keep your identity — and in exchange receive **the guarantee that the man in the next valley will not raid you this winter, because he answers to the same authority you do.** *The first Banner House. The template* |
-| **Greymane** | Held the western ridgeline. **Muken needed it held, they were already holding it, and replacing them would have cost lives too expensive to spend on a problem already solved.** Same terms, same reasons |
-| **Keld** | Never conquered. Muken rode to the Polar Reach and understood that **taking the Keld would cost more than their territory was worth and that their loyalty, if earned, would be worth more.** He sat with the elders three days, ate their food, slept in their shelters, hunted with their hunters. **On the fourth day he killed a polar predator that had been taking their livestock, alone, with a blade, in the dark** — *and the killing was not a performance. It was a service* |
-| **Thornwall · Ashmore · Hallenfeld** | Conquered in the traditional sense. **Not gentle. Muken did not do gentle. But precise** — and the precision mattered, because the difference between a conquest that produces a vassal and one that produces an insurgency **is the difference between a conqueror who stops when the objective is achieved and one who continues because the violence has become its own objective** |
-
-> **Muken always stopped. The stopping was the thing the Banner Houses remembered, more than the fighting.** The fighting was expected. **The stopping required a kind of discipline that the northern clans recognised as the same discipline the cold required** — and the recognition was the foundation of the kingdom.
-**Sixteen years.** In them he built Kharven-Seat, established the Crown's legal authority across all six provinces, reformed a feudal levy into a standing force, married **Ayame Yuno of the Kagura Branch** and fathered the children who would inherit the winter, negotiated the kingdom's external relationships, and **transformed the northern quarter from a collection of feuding clans into a functional state whose population was better fed, better defended and better governed than under any previous arrangement.**
-> He did it through violence that was necessary and ugly and correct, that left scars the kingdom's historians would spend generations trying to justify or condemn, **and that Muken himself would have described, if asked, as the cost.**
+**Roads.** You come up the Kessen road from the Greenhollow to the Foot, then through the valley of the Castle Stair. The Marrow road runs north from Ashbury to the Seat through the last of the spruce, the shore road runs south to the Seat from the Skeldmere, and the ridge road goes west to the Slate Ridge, on foot in winter. West, past the Ridge, are the Mandate's country and the empty ground. East lie the Ironwood March and the Thornwood, running out to the rib mountains of Marrowhold. South are the Painted Rivers and the Hollow, and past them the two roads that go around the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Scourge of Hell|Scourge of Hell]], the Kessen down its west flank and the salt road up its east. North is the Aurora Reach.
 
 ---
 
-## Governance
+## Who Rules
 
-A feudal monarchy, **simple by design** — because complexity in governance is a luxury cold climates cannot afford, and because the northern clans would not have accepted a system they could not understand.
+The Moto. Seven Great Lines sit in the Hall of Verdicts, each in its own chair and each in its own metal: **Kōkan** in red, **Shirogane** in silver, **Tenrai** in gold, **Akagane** in copper, **Byakuya** in near-white, **Kurenai** in black and ash, **Amagiri** in indigo. In law, only Kōkan holds the seat, and the other six are landless. In fact the Tenrai took the rock from the Kōkan three hundred years ago and have held it since, which the law has found no way to mention. The red chair has stood empty for forty years, since the long war began and the last king rode out to rule from the saddle. In Year 715 the war has only just stopped, the chair is still empty, and the man who does most of the talking from the gold one is **Kagenori Tenrai Moto**, who has wanted the red one for twenty years and whom nobody can accuse of having said so.
 
-The Crown's authority rests on two sources that reinforce each other. **Competence**: the King holds the throne because the King can do the job. **Blood**: the Shingan, the Hataraki inheritance, the Kōkan Line's native relationship with the Plane of Fate produce a sovereign **whose authority is felt before it is argued.**
-> *A competent king without the bloodline would be respected but not feared. A bloodline heir without competence would be feared but not followed.* **Muken had both. The question that followed his death was whether the combination could be inherited or whether it has to be earned fresh by every holder.**
+**The Hall of Verdicts** is the kingdom's high court and its only real council: a dome, seven chairs, a black stone dais and a Kurenai executioner's office attached. Under the old law it can summon every Warlord of the north to answer for the conduct of his house, and it does, and they sometimes come. The north has said "the Seven Warlords" for longer than the Guild can trace, names six houses when asked, and gets vague and looks at the fire when pressed on the seventh. This shelf has noted it and moved on.
+
+The kingdom was built simple by design, because complexity in governance is a luxury cold climates cannot afford and because the clans would not have accepted a system they could not understand. The Crown's authority is meant to rest on two sources that reinforce each other. **Competence**, the King holds the throne because the King can do the job. **Blood**, the Shingan (the Moto's sight, which reads a thing's stress lines the way a smith reads a bar), the Hataraki inheritance and the Kōkan Line's native relationship with the Plane of Fate produce a sovereign **whose authority is felt before it is argued.**
+
+> *A competent king without the bloodline would be respected but not feared. A bloodline heir without competence would be feared but not followed.*
 
 ### The Ashen Crown
 
-Ironwork set with garnet, forged by a Dawi smith whose name the Moto archives record and **whose descendants still hold the commission.**
-> **The crown is not ceremonial. It is inscribed.** The inscriptions carry the sovereign's recognition into the metal, the metal carries it into the land, and the land's response is what the Crown's authority actually rests on.
+Ironwork set with garnet, forged by a smith of the deep holds whose name the Moto archives record and **whose descendants still hold the commission.** *Older copies call the smith Dawi; the people of those holds are the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Ember Holds of Marrowhold|Marrowkin]] now, and the page has followed them.*
+
+> **The crown is inscribed, and the inscriptions do real work.** They carry the sovereign's recognition into the metal, the metal carries it into the land, and the land's response is what the Crown's authority actually rests on.
 >
-> **A pretender who placed the Ashen Crown on their head would feel the rejection the way a smith feels a bad weld** — as wrongness at the structural level, visible to anyone with sufficient Attunement to read it.
+> **A pretender who placed the Ashen Crown on their head would feel the rejection the way a smith feels a bad weld**: as wrongness at the structural level, visible to anyone with sufficient Attunement to read it.
 >
 > *The Crown selects for the bloodline. The bloodline selects for competence. The system is recursive.*
+
+The crown is kept in the Hall. The Tenrai have not tried it on, and they have been careful to be seen not trying.
 
 ### The Banner Oaths
 
 Personal, sworn by each house's lord to the reigning sovereign. Military service at call, tax in kind and coin, maintenance of roads and signal posts, submission to the Crown's justice in disputes between houses. In exchange: territorial integrity, military support, external trade, **and no interference in internal governance.**
-> **The oaths do not survive the sovereign's death.** When a king dies each house chooses whether to re-swear.
+
+> **The oaths do not outlast the reign.** When a king dies or leaves the chair, each house chooses whether to re-swear.
 >
 > **This is the mechanism by which the kingdom expresses the conditional nature of its loyalty: the Crown earns the oaths, the oaths are not inherited, and a successor who cannot earn them does not hold the kingdom.**
->
-> *When Muken was assassinated the oaths died with him, and the Banner Houses scattered because the thing they had sworn to no longer existed.*
+
+With no one in the chair there is no one to swear to, so in Year 715 the houses are held by the old summons law, Tenrai silver and the Tenrai toll-post on the road, and all three of those are resented in a different voice. See [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven|The Banner Houses of Kharven]].
 
 ---
 
-## The Six Banner Houses
-
-| House · Seat | Identity | What they did when it fell |
-|---|---|---|
-| **Stark** *Hollenmark, eastern highlands* Zaehaerys Stark, Warden of the Eastern March | **Borders.** The Starks define where things end and begin. They carry **an ice-aspected inheritance that predates the Moto arrival and operates outside the standard Wellspring framework** — cold radiating from body and blood, intensifying under emotional pressure, silvering timber and stiffening snow. *Not Moto. Northern. Older than their own records, and they do not discuss its origins with outsiders.* Mount tradition: **the Dire Icebear.** Not domesticated — **partnered.** *The permission is withdrawn the moment the rider stops being worth carrying, and the withdrawal is not gentle* | Held their borders. **They serve because the Crown serves, and will continue for exactly as long as that holds.** *The distinction between this and disloyalty is the distinction between a partner and a subject, and the Starks have never been subjects* |
-| **Greymane** *The Ridgewall, western highlands* The Shieldwarden | **The shield.** A fortress built into the ridgeline against Undaar-Keth. Military to the point of institutional: **children raised to see themselves as components of a defensive structure rather than individuals with ambitions.** The Shieldwarden is always addressed by title, never name, **because the function matters more than the person** — *the current holder's given name is known within the family and almost nowhere else.* House words: **The Ridge Does Not Move.** *Not aspirational. Descriptive* | **Did not scatter, did not negotiate, joined no faction.** Held the western ridgeline for three years on stored supplies and hunted game; **when the supplies ran out they held another six months on discipline alone.** Withdrew only when discipline could no longer prevent starvation. *The waiting is still ongoing* |
-| **Ashmore** *Ashbury, southern lowlands* | **The breadbasket.** The least martial house in a martial kingdom **and the most quietly dangerous.** Their leverage is controlling what everyone else needs to survive the winter, **and they have never lost a negotiation with anyone who was hungry, which in the north means they have never lost a negotiation.** *The Ashmores do not threaten. Threats are for houses whose leverage requires explanation* | Traded grain for protection, protection for political access, access for positioning — **ensuring that whoever re-established the Crown would need the Ashmores more than the Ashmores needed the Crown.** *It has not failed in three centuries because it cannot fail. People always need to eat* |
-| **Thornwall** *Thornhaven, northern Ironwood March* | **Timber and trade.** Merchant-warriors, comfortable with commerce in a way most northern houses find slightly undignified. **They read trade manifests the way other houses read battle reports**, and consider predicting a supply shortage six months out **a more valuable military skill than holding a shield wall, because the shield wall is useless if the men behind it are starving** | Negotiated with Stannvaard. **Their standing read: the grain cut is political rather than logistical** — the Dawi are comfortable with an armed frontier buffer and uncomfortable with an independent one. *That analysis is correct. The Thornwalls are almost always correct about trade, which is why the other houses find them slightly irritating* |
-| **Keld** *No fixed seat. Seasonal camps on the Polar Reach* | **Survival.** The smallest house, the hardest people, **the most conditionally loyal.** Their oath: *we follow because you are worth following, and we stop when you stop being worth it.* **Muken accepted because the condition was honest.** *A Keld fighter has already survived conditions that would kill the enemy before the fighting started, and the fighting itself is an afterthought compared to the survival* | **Withdrew to the tundra without ceremony or explanation.** No factional fighting, no negotiation with any claimant. **Winning them back requires someone to ride north, sit with the elders, and demonstrate through action rather than argument.** *The demonstration cannot be faked. The Keld have survived too long to be fooled by performance* |
-| **Hallenfeld** *Hallenfeld, the river junction* | **Movement — the kingdom's nervous system.** They hold the junction of the three principal roads, **and whoever holds it controls the speed at which the kingdom can respond to anything.** They produce quartermasters, road engineers and courier captains, **and the category of administrator who understands that a message delivered six hours faster can save a thousand lives** | **Lost their function, because the thing they connected stopped existing. A nervous system without a body is wire.** They have maintained the roads, crossings and signal posts ever since **with the dogged persistence of people who believe the body will return.** *Osric of Hallenfeld now advises Hild Stark in the Ironwood March* |
-
----
-
-## Military
-
-**Kharven's doctrine is Muken's doctrine, and Muken's doctrine changed everything.**
-
-| Principle | Application |
-|---|---|
-| **Mobility** | **He eliminated the supply train as a concept.** Warriors carried seven days on their bodies and mounts, cached along pre-scouted routes, supplemented by hunting and controlled requisition. **Sixty miles a day through boreal forest in winter** — a speed the clans considered physically impossible |
-| **Dispersion** | Multiple axes of advance forcing the defender to split their response and accept inferiority on one axis, or concentrate and accept encirclement from the other two. **The clans had no doctrinal answer, because the problem had never existed before Muken created it** |
-| **Winter warfare** | The clans fought in summer and sheltered in winter. **Muken fought through the winter because the winter was the advantage.** Six months of unchallenged initiative was enough to dismantle any position relying on seasonal respite. *The clans who sheltered woke in spring to discover the spring campaign was not a beginning but a conclusion* |
-
-**The Ashen Guard** — the Crown's standing professional force, roughly three thousand at peak, supplemented by Banner levies tripling total strength for major campaigns. **The strength was never in numbers.** It was in the doctrine, the training that made it functional, **and the Moto officers whose Shingan gave them a battlefield awareness no non-Moto commander could replicate.**
-
----
-
-## Economy
+## Wealth and What It Trades
 
 **A cold-climate economy is an economy of scarcity managed through discipline.**
 
-**Exports:** ironwood timber, furs and hides, preserved game, military service. **Imports:** grain beyond the Greenhollow's yield, Stannvaard metalwork, and the inscription substrates ward-craft requires.
+**Exports:** ironwood timber and furs and hides through the banner lands, preserved game, military service, and the one thing only the Seat has, a judgment from the Hall of Verdicts, which foreigners pay for and then complain about. **Imports:** grain beyond the Greenhollow's yield, the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Ember Holds of Marrowhold|Marrowkin]]'s metalwork, the inscription stock ward-craft requires, and sealed casks of Wellspring water from the Wellheads, carried round the Scourge of Hell by road and north from Ashbury by river barge for the Seat's ward-cutters.
+
 > The balance is perpetually tight. *A kingdom with a four-month growing season and an eight-month heating season does not generate surplus. It generates sufficiency, maintained through household discipline, communal storage, and the absolute unwillingness to waste anything.*
 >
-> **The Stannvaard corridor is the kingdom's most critical external dependency.** When it functions, the economy functions. When Stannvaard restricts it, the kingdom feels it within weeks — **because a northern economy has no reserves deep enough to absorb a sustained interruption, and because the Dawi understand this and calibrate their restrictions accordingly.**
+> **The corridor to Marrowhold is the kingdom's most critical external dependency.** When it functions, the economy functions. When the holds restrict it, the kingdom feels it within weeks, **because a northern economy has no reserves deep enough to absorb a sustained interruption, and because the Marrowkin understand this and calibrate their restrictions accordingly.**
+
+Past the last warden's round almost nothing here is paid in coin. It is grain, salt, cloth, fuel, a day's labor owed and settled at year's end. A Nalūn salt bar passes as money from the river to the treeline. Where coin does change hands it is copper, and the Seat has had three copper famines in living memory, during which a dead man's boots bought a month's firewood.
+
+---
+
+## Rent, Food and the Street
+
+Kharven-Seat in the deep of winter is the brightest thing for a hundred leagues: bonfires in every yard, seal-fat lamps the color of butter in the longhouse windows, and on the frozen river the ice brackets, with the Scarlet Scarves and the Wolf Grays turning out to settle a year's grudges in front of anyone with a coin for the bookies. Rent in the lower town is paid in split wood as often as in silver, and a landlord who takes your coin and lets you run out of wood has broken something no court needs to look at.
+
+The greeting is a forearm grip, which is diagnostic, since a man can feel how thin you have got through a sleeve. Then "How's your stack?", which means your woodpile and means everything else as well. **Stack-Count** comes with the first frost that will not lift, when every house squares its pile against the wall and the headman walks the lanes with witnesses. The hunger at the end of winter is the **Thin Weeks**, and it is a date on the calendar, in the sense that a hanging is.
+
+Supper is bone broth and windmeat (meat dried hard in the cold air) and stonecurd (a dried cheese like a pebble). After it comes the skin, fermented milk in a sealskin, which you drink, because refusing the skin is an insult and a man has been killed over it at a family funeral. The first bowl goes to the one who cannot fill it themselves. The heated stone beside your bed is a night-stone, and it is handed down.
+
+Practitioners are thick on the ground, since a cold country pays well for anyone who can keep a roof warm: hedge-workers who talk the frost off a rye field, lamp-wardens who charge double in the dark months and know you will pay it, ward-cutters on the Seat's walls who are the best paid and most frequently sued people in the north. Kharven fighters call the aura coat *the hide*, Pressure (the weight a stronger soul puts on a room) *the low sky* and sensing *smelling a man's stack*, and they will argue with a Guild roll over which words are more accurate, at length, over the skin. The heralds cry the bracket results on the river stair, the minstrels have them wrong by the following week, and a bounty posted in the Hall square is copied by hand and is on doors in Ashbury inside a fortnight.
+
+**The dead.** The Seat buries in the ground and the clans beyond it give their dead to the sky. Either way the dead lie first in the death-house, which is never heated, and the family and the street sit with them through the Waiting. The Sōhai (the Moto's own faith) lives in the household labors of the kingdom, mostly among people who would be astonished to hear they were religious: the ration weighed in public, the woodpile squared, fourteen scratches on the doorpost. See [[Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sōhai — The Whole Bow|Sōhai, the Whole Bow]].
 
 ---
 
 ## Culture
 
-Two traditions that have learned to coexist without fully merging. **The Moto tradition** — Mongolian-Inuit in its naming, its spiritual architecture, its relationship to authority and inherited duty. **The northern tradition** — Nordic in its pragmatism, its honor codes, its relationship to land and earned respect. *Neither fully, but something specific to Kharven: a hybrid carrying the severity of both and the softness of neither.*
-> **Honor in Kharven is not a code. It is a climate.**
+Two traditions that have learned to coexist without fully merging. **The Moto tradition**, Japonic in its naming, and its own thing in its spiritual architecture and its relationship to authority and inherited duty. **The northern tradition**, Nordic in its pragmatism, its honor codes, its relationship to land and earned respect. *Neither fully, but something specific to Kharven: a hybrid carrying the severity of both and the softness of neither.*
+
+> **Honor in Kharven is a climate.**
 >
 > The cold does not care about your intentions. It cares about your actions. **Did you store enough firewood? Did you repair the roof before the snow? Did you share food with the family whose harvest failed? Did you show up when the Crown called?**
 >
 > *A man who speaks beautifully and lets his neighbor starve is not honorable. A man who says nothing and splits his woodpile with the household down the road is.*
 >
 > The system produces a population that finds southern courtesy slightly absurd, **because courtesy is what you practice when survival is not the primary concern, and survival is always the primary concern in Kharven.**
-**The northern clans respect the Crown's competence. They fear the Crown's blood.** The fear is not irrational — *a sovereign who can see the stress lines in your soul, and whose judgment carries the weight of the Plane of Fate's administrative function, is not a lord you displease casually.* **The fear produces compliance. The competence produces loyalty. The combination produces a kingdom.**
 
-### The Fusi Vā
+**The northern clans respect competence and fear the Moto's blood.** Children are taught never to meet a Moto's eye before they are taught the forearm grip, and a clansman speaking to the Hall looks at the chest, the hands or the floor. The fear is not irrational, *a lord who can see the stress lines in your soul, and whose judgment carries the weight of the Plane of Fate's administrative function, is not a lord you displease casually.*
 
-Ayame Yuno's ritual architecture, **carried north out of Yasoshima by a daughter of the Kagura Branch** — trained from childhood in the grand seasonal rites and the deepest reaches of Tofā Mamao.
-
-The northern clans had their own oath traditions before the Moto came: simple, unadorned, a man's word given before witnesses with no ritual embellishment. **The Fusi Vā elevated these into binding structures that carried spiritual weight and could not be broken without consequence.**
-> **Her death removed the architecture and left the ceremony**, and the kingdom has been performing the ceremony ever since without any of the load-bearing underneath it.
->
-> **Without the Fusi Vā, Kharven's oaths are once again merely words — and words in the north are only as strong as the person who speaks them.**
+**What they joke about.** Southern courtesy, southern coats, anyone who owns a third pair of boots. The Tenrai ("the only family that can lose a war for forty years and bill you for it"). The lift-cage. Wet wood, which is what you call a liar, and an empty saddle, which is what you call a man who was not there when the ride went out. Moto jokes are made with the door shut, by people looking at the floor. *A full stack speaks louder than a full mouth* is the proverb, and every man who has ever said it was talking.
 
 ---
 
-## Defense
+## Law and How It Fights
 
-**The primary defense is the territory itself.** An army marching from the south must cross three hundred miles of forest and highland in conditions that degrade equipment, consume supplies **and kill soldiers through exposure before the fighting begins.** From the west, the Greymane ridgeline. From the east, Ketsuen's ward-perimeter as passive buffer. **From the north there is nothing to approach from.**
+**The law** is short. A man's word given before witnesses binds him, disputes between neighbors go to the headman and then to the fist, disputes between houses go to the Hall, and what the Hall decides goes on the rock in a clerk's hand nobody in the lower town can read. Almost no one among the clans can read at all: a man signs with his mark, the woodpile is counted and never written, and the readers are the Moto and the Hallenfeld quartermasters. On the **nameless day**, which falls in the dead of winter and belongs to no one, scores are settled, because a killing on a day when no oath holds carries no blood-debt. The old clans hold that the death-house takes what it takes, and the Waiting begins the first named morning after.
 
-At full mobilisation: **roughly twelve thousand** — three thousand Guard, nine thousand levy. *Not large by Inner World standards. It does not need to be.*
-> **Twelve thousand trained to campaign through a northern winter on cached supplies and hunted game, led by officers whose Shingan reads the battlefield in real time, operating on interior lines across terrain they know and the enemy does not, is a force the Inner World's larger armies have learned to leave alone.**
+**The fighting.** The Seat's own troops are Tenrai house-guard, about twelve hundred in gold and crimson, with banner levies behind them when anyone can make them come, and practitioners of seven lines in the Hall who would very much rather not be asked. The north fights in knots and wedges. In the Seat's yards you will see great swords and axes in the cold, boar-spears on the road, and a bracket fighter for every lane, each of them screaming the name of a technique their mother disapproves of. Sects come with colors and songs: the **Thrawn Yard** of the Kharven Marches, in undyed wool and one red thumb, whose whole style is to stand still, take it and hit back once; and the **Kagerō-ryū** (the Heat-Shimmer School) of Moto country, who regard the Thrawn Yard as a weather event.
+
+**The primary defense is the territory itself.** An army marching from the south must cross three hundred miles of forest and highland in conditions that degrade equipment, consume supplies **and kill soldiers through exposure before the fighting begins.** From the west, the Greymane ridgeline. **From the north there is nothing to approach from.**
 
 ---
 
-## Relations
+## Monsters on the Roads
+
+Monsters move, following prey, Aether and the marching of armies, and they live across the whole of the Inner World, so the hunting hall in the lower town keeps its board three bills deep like any hall on the rim.
+
+**The beasts** do most of the killing and collect none of the songs. Elk, lynx and brown bear keep the boreal woods, and a bear woken early in the Thin Weeks has taken the door off a longhouse to get at the windmeat. The wolverine is the one the clans respect, because it will carry off a drying rack with a man sitting under it and come back later for the man. Char and pike run thick in the rivers, and the shaggy little horses will bite anything that is not currently feeding them.
+
+**The monsters.** Greater Wolves (T3 on the Bestiary's Danger Tier, which runs from T1 to T9 and prices every bounty in the world) work the Castle Stair in packs and will flank a column in a whiteout. In a bad Thin Weeks a Wendigo (T6) may come down off the shelf road, and the clans say it was somebody once, and they will tell you whom. Droval, the Frost-Howlers, stray south of the treeline in the hardest winters.
+
+### The Hum
+
+The [[The Bestiary/Dungeons|dungeon]] (what a Wellspring Core makes around itself, or what grows up around one) everyone talks about is **the Hum**, a drowned stair going down from the Skeldmere's north shore under an ice-cutter's hut, a Well of Abyntheus (a Wellspring of deep naval blue, whose slow throb is felt in the teeth before it is heard). Its spawn wear masks of deep naval blue. It has never been cleared. The Scarlet Scarves and the Wolf Grays each claim to have reached the Lower Workings, and each has the funerals to prove it. The hut is still let, to a family of ice-cutters who charge a copper to stand in it and put your teeth against the doorpost. The assay fork rings true on the top step, the air smells of cold iron, and every crew reports the same two things from the first gallery: a slow pressure that comes and goes like a tide with no water in it, and a sudden sharp knowledge of what someone a long way off is doing. At the Midwinter Brackets the bookies run a depth book on the Hum alongside the ice, and the old boys of both schools will fight you in the street over the last gallery either has mapped, which on the evidence of the two maps is the same gallery from opposite ends. More on the [[The Bestiary/Dungeons|Dungeons]] shelf and in the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — A Gazetteer|Gazetteer]].
+
+### The Scourge and the Turn
+
+The [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Scourge of Hell|Scourge of Hell]] lies far to the south, past the Hollow and the salt basin, and nobody has ever seen the sword from the Seat's roofs. It arrives anyway. The Turn is the old rotation by which North, South and Center each spend nine years keeping the Scourge's monsters off everybody else, and on the North's Turn the North means Kharven and its Banner Houses. The Hall of Verdicts calls the houses under the old summons law, Tenrai silver pays the bounties on the rim doors, and the columns go out through the Foot and down the Kessen road in good order, past Ashmore's grain, to keep the Line, the chain of forts and beacon towers round the Scourge's outer belt. The last Northern Turn ran from 694 to 703, with the long war going on at the same time, and the South will tell you the two were hard to tell apart, since a Northern Turn has a way of losing the road and arriving at someone's castle. At the handover the commander is supposed to give his successor a broken spear at the Turnstone, a black pillar on the western rim off the Kessen road. The Seat sent its spear by courier and asked for a receipt.
+
+In Year 715 the Center holds the Turn, until 721, so Kharven's whole part is to watch the southern road, send a clerk to write everything down and add it to the Count, the running bill the three parties present to one another. The wheel comes back to the North in 721, and the lower town already speaks of it the way it speaks of the Thin Weeks, as a date. As for the sword, the Moto have a word for it that they do not use in front of guests, and I have been a guest.
+
+---
+
+## The Neighbors
 
 | Power | Standing |
 |---|---|
-| **The Guild Seat of Stannvaard** | The most critical economic relationship and the most complicated political one. **The Dawi treat Kharven as a useful buffer state** — an armed frontier absorbing threats from the polar regions and Undaar-Keth without requiring Dawi troops. *The Ore Council's current posture, substrate on schedule while grain is cut, is the Dawi saying: we want you armed and we want you hungry, because an armed and hungry frontier serves our interests better than an armed and independent one* |
-| **The Sovereign Enclave of Ketsuen** | Managed through House Stark. **Kharven believes governance requires sovereign judgment — a crown that decides. Ketsuen believes governance requires distributed competence — a council that measures.** *They respect each other's competence and distrust each other's philosophy, and the border is quiet because both sides know what testing it would cost* |
-| **The Iron Mandate of Undaar-Keth** | The western war, nine years old. Fought on the southern approach, where the Greymanes made the walk not worth taking and the Mandate's ground breathed green smoke every spring. **It reached the wall once — forty feet of the southern reach taken down in a night, and a twenty-two-foot gap held four hours by three hundred against two thousand two hundred coming through eight at a time.** *What answers the Mandate is not Kharven's courage but Kharven's cold: Stone-Blood runs slow at thirty below, and the lateness is the only currency the Shield has ever had* |
-| **The Holy Sea of Alabaster** | Distant, poor in grain, **and doctrinally entangled with Kharven in a way no trade ledger records.** Its territory stands on the white shelf that was the seat of the Long Reading, **which makes the Crown's relationship with it an inheritance question wearing a diplomatic coat.** Its Wellspring is testimonial and its whole apparatus is built to weigh a sworn account — **the one commodity a starving kingdom can still produce in quantity.** *A Sancta Lux chapter hold operates inside its territory. The practical consequence: a petition sent south is read twice, once by a kingdom that has reason to listen and once by an order that has reason not to* |
-| **The Guild Accord** | Treats Kharven as a peripheral power **whose military capability exceeds its political influence.** Enforcement holds jurisdiction in theory and limited access in practice — *the Crown's cooperation has always been calibrated to produce exactly enough compliance to avoid a formal dispute and not one measure more* |
+| **The Banner lands** | Six houses around the Seat, each with its own grievance and its own page: [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Cobalt March of Hollenmark\|the Cobalt March]], [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Slate Ridge of Stormfold\|the Slate Ridge]], [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Golden Hollow of Ashbury\|the Golden Hollow]], [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Scarlet Wood of Thornhaven\|the Scarlet Wood]], [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Aurora Reach of the Keld\|the Aurora Reach]], [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Painted Rivers of Hallenfeld\|the Painted Rivers]]. *Tenrai factors sit in most of their towns, and Tenrai taxes come out of most of their barns* |
+| **The Ember Holds of Marrowhold** | The most critical economic relationship and the most complicated political one. **The Marrowkin treat Kharven as a useful buffer**, an armed frontier absorbing threats from the polar regions and Undaar-Keth without requiring their own troops. *The Ore Council's standing posture, inscription stock on schedule while grain is cut, is the holds saying: we want you armed and we want you hungry, because an armed and hungry frontier serves our interests better than an armed and independent one* |
+| **The Silver Cedars of Yukari** | Far down the salt road, with the whole Center in between. **Kharven believes governance requires sovereign judgment, a crown that decides. The Yukari believe it requires distributed competence, a council that measures.** *The Moto and the Yukari have been watching each other across this disagreement for longer than the Guild's count runs, and the peace is quiet because both sides know what testing it would cost* |
+| **The Iron Mandate of Undaar-Keth** | The cold peace across the Greymane ridgeline. *What answers the Mandate is Kharven's cold, well ahead of Kharven's courage: Stone-Blood runs slow at thirty below, and the lateness is the only currency the Shield has ever had* |
+| **The Holy Sea of Alabaster** | Distant, poor in grain, **and doctrinally entangled with Kharven in a way no trade ledger records.** Its territory stands on the white shelf that was the seat of the Long Reading, **which makes the Moto's relationship with it an inheritance question wearing a diplomatic coat.** Its Wellspring is testimonial and its whole apparatus is built to weigh a sworn account, **the one commodity a starving kingdom can still produce in quantity.** *A Sancta Lux chapter hold operates inside its territory. The practical consequence: a petition sent south is read twice, once by a realm that has reason to listen and once by an order that has reason not to* |
+| **The Guild Accord** | Treats Kharven as a peripheral power **whose military capability exceeds its political influence.** The first circle of the Accord signed in Kharven-Seat's lower hall, which the Seat brings up at dinner. Enforcement holds jurisdiction in theory and limited access in practice, *cooperation being calibrated to produce exactly enough compliance to avoid a formal dispute and not one measure more.* The Accord has no instrument that binds here, so anything done in Kharven is lawful until someone strong enough says otherwise |
+| **The Center and the South** | The long war of forty years went through the Center as wars do, down the two roads round the Scourge of Hell, and the Southern Warlords sold to it and bled in it. None of the seven was ever bound by the Kōkan crown. See [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords\|the Southern Warlords]] |
 
 ---
 
-## The Fall
+## The King the Songs Are About
 
-> **The kingdom did not fall because Muken was assassinated.** It fell because the assassination was the final step in a process that had been running for years.
-**The Tenrai's grievance was structural.** Unification required the subordination of lines that had governed themselves for millennia. They accepted subordination to Muken **because Muken's personal authority was undeniable.** They did not accept subordination to the institution he built, **because the institution would outlive him and placed the Kōkan Line permanently above the Tenrai — and permanently was the word the Tenrai could not swallow.**
+*Later hand, to the end of this section.*
 
-**Azure Tenrai Moto did not plan a coup. He planned a correction.** The distinction mattered to him, because his self-image required that the things he did were architecturally necessary rather than personally motivated. **His argument: a branch immune to correction becomes tyrannical, and removing it before the tyranny arrives is preventive governance rather than treason.**
-> The argument was sophisticated. **It was also sincere, in the specific way that arguments made by intelligent people who want something are sincere:** Azure believed it because believing it was necessary for doing what he wanted.
+I will set this down short, because everyone who reads it will have heard the song, and the ballads have him wrong in at least four keys.
 
-### Cozbi
+In Year 715, the morning that shelf is sealed, Muken Moto is about sixteen and nobody at the Seat could pick him out of a line. Within a few winters he has taken Kharven-Seat and the crown it was already keeping for someone, and he has done the thing the old kings of a hall and a day's ride could not, which is to make that crown mean the whole north. Then he goes on past it and builds an empire, and the Moto name it **Whitemere**, and the Kharven have never once called it that among themselves. They call it **the Stack**, after the woodpile, because everything that arrives from the Seat arrives as an addition to a count that somebody has to keep. Kharven stays what it was, the one true kingdom and the capital. The banner lands stay lands.
 
-**The Ledger-Keeper did not instruct the Tenrai to kill Muken. He did not need to.**
-
-He had spent decades cultivating conditions where the Tenrai's influence was strongest — feeding grievances already present, amplifying dissatisfactions already real, **ensuring the political temperature in their sphere was always one degree warmer than it would have been naturally.**
-> By the time Azure laid out the architectural case in the Convergence Spire, **the emotional infrastructure that made the case persuasive had been under construction for longer than Azure had been alive.**
->
-> ***He did not build the fire. He arranged the kindling decades before the Tenrai struck the match.***
-
-### The night
-
-Not open combat — **Muken would have survived open combat against any combination of practitioners the Tenrai could field.** Convergence-friendly channels: a carefully engineered sequence designed to produce his death **as an apparent consequence of circumstances rather than the result of a plot, so that the survivors would argue about causes rather than conspirators.**
-
-It took Muken, Tomuka and Ezo in a single night. The corridor was the instrument, prepared for months — every patrol reassignment, every witness post delay, every false escort authority documented and filed in the bureaucratic architecture built specifically to make the documentation impossible to find.
-> Sodoku and Sonzai answered the killing. What happened at the Tenrai settlement afterward was not justice and was not revenge and was not any of the clean categories historians would later attempt to apply.
->
-> The High Council's charge — massacre including innocents and children — **is not entirely wrong. It is not entirely complete.** What propagated into the whisper-network was the version that the survivors and the people who wanted the Kōkan Line destroyed **needed to be true. Both groups had reasons to emphasise certain details. Both were served by the version that circulated.**
-The exile followed. **The oaths expired with Muken's death, and without the Crown's authority to hold it together and without the Fusi Vā to bind the oaths into something stronger than words, the kingdom fragmented along exactly the lines fragmentation always follows: geography, self-interest, and the specific mathematics of survival that the cold imposes on every decision.**
-> What remained was not a kingdom. **It was the memory of a kingdom** — carried in the foundation stones of a burned capital, in oaths that had expired, and in the bloodline of two exiled princes whose inheritance included the Ashen Crown's authority, the settlement's blood, **and the patient structural weight of men whose father had taught them what governance felt like before he died. Their education was the only thing the assassination could not redistribute.**
+The minstrels have the rest, and they may keep it. This hand has no death of his to record.
 
 ---
 
-## Flagged, Not Resolved
+## Shelf Notes
 
-| Item | Conflict |
+| Item | Note |
 |---|---|
-| **Muken's children** | **Ruled 2026-09-12.** The wiki's Muken card stands: **Sodoku, Sonzai, Emira, Tomuka and Ezo** — five, matching the card's own Relationships table. The received text's three-heir roster (Temür/Chuluun as heirs) and Enkhtuya-as-child are not adopted; the earlier originated names *Nergüi, Sükh and Nomin do not survive the ruling*. |
-| **Muken's descent** | **Ruled 2026-09-12.** The Long Reading's account stands: born in Nalūn to a Kōkan mother taken by a lesser noble house of the city. **Written into the First King section** as a paragraph, and the Origin's opening line rewritten to match — *no longer a clean 'looked north,' but a man who went where nobody had a verdict on him yet.* |
-| **The western ruin** | **Ruled 2026-09-12.** A massacre — mass death by someone's hand, consistent with Saruul's reading (glaciation does not leave that kind of residual saturation, a massacre does). *Who did it stays open for the story.* |
-| **Saishiki, resolved** | **Ruled 2026-09-12.** There was no Agamalu attribution to begin with — the whole Filemu Agamalu identity is superseded (C-004). The rite is **Ayame Yuno's own Saishiki**, exactly as her Volume I card already has it. 'Fusi Vā' does not survive. |
-| **Cozbi** | A report circulating in the north holds that he is dead. **Unratified. This entry has not been altered to accommodate it** |
-| **The Sōhai** | The Culture section predates the doctrinal entry on the True High Religion. **If that entry is ratified, Culture gains a paragraph and the Holy Sea relation gains its real weight** — since the tenancy claim is what makes a petition south more than a beggar's letter |
-
-> **Closed against this entry.** The Sātūlagi flag — no references present in the received text, none removed. Ratified 2026-09-12 against Stannvaard and Ketsuen (both redirected to Kharven/Moto); Undaar-Keth already carried the redirect cleanly.
+| **The western ruin** | A massacre: mass death by someone's hand (glaciation does not leave that kind of residual saturation, a massacre does). *Who did it stays open* |

@@ -172,9 +172,9 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 *Field vocabulary. What practitioners use on each other before anyone has cast anything. Aura coat, Pressure and sensing are the three most famous arts in the world: children play at them, every culture has its own name for each, and every culture is sure the others do them badly.*
 
-**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own color, burning brighter as they push. The trade says **the weight** everywhere, and each people has its own word besides: the Moto *atsu*, the press, which they use of a lord's dignity as well, so that his weight and his worth are one argument; the Mahuo *nureum*, a pressing down; the lineage halls *wēiyā*, majesty that presses; a Dawi calls it **the load** and a Kharven **the low sky**.
+**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own color, burning brighter as they push. The trade says **the weight** everywhere, and each people has its own word besides: the Moto *atsu*, the press, which they use of a lord's dignity as well, so that his weight and his worth are one argument; the Mahuo *nureum*, a pressing down; the lineage halls *wēiyā*, majesty that presses; a Marrowkin calls it **the load** and a Kharven **the low sky**.
 
-**Sensing** · The trained art of feeling another's Essence, Stage and intent before they move. Moto *kehai*, the sign of someone there. Mahuo *nunchi*, the same word they use for reading a room, and they will tell you that is the point. The halls' *shénshí*, the spirit's knowing. A Dawi **sounds** you, as he sounds a rock face for a bad seam. In the street, **having the nose**. Measurewrights hold it is one art and have been unable to get any two peoples to agree on how to teach it.
+**Sensing** · The trained art of feeling another's Essence, Stage and intent before they move. Moto *kehai*, the sign of someone there. Mahuo *nunchi*, the same word they use for reading a room, and they will tell you that is the point. The halls' *shénshí*, the spirit's knowing. A Marrowkin **sounds** you, as he sounds a rock face for a bad seam. In the street, **having the nose**. Measurewrights hold it is one art and have been unable to get any two peoples to agree on how to teach it.
 
 **Aura coat** · The visible skin of a practitioner's own color over reinforcement. Moto *matoi*, Mahuo *gabot*, the halls' *hùtǐ*, and the rest; see [[The Magic System/Power in Use/Reinforcement|Reinforcement]].
 
@@ -209,7 +209,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 | Practitioner | **a worker** · **one of the gifted** · **a burner** (contemptuous) | Everyone · the devout · soldiers |
 | Essence Starvation | **run dry** · **gone to the bottom** | Anyone who has watched it happen |
 | Pressure | **the weight** · **standing in it** | Universal. The one piece of field vocabulary every culture has independently, under its own name besides (Section XII). |
-| Reinforcement, the aura coat | **the shine** · **the hide** · **on shift** | Bracket crowds · Kharven soldiers · Dawi |
+| Reinforcement, the aura coat | **the shine** · **the hide** · **on shift** | Bracket crowds · Kharven soldiers · Marrowkin |
 | Sensing | **the nose** | Street fighters, thieves and anyone's mother |
 | Aetheric Density | **rich** and **thin** · **fat ground** and **lean ground** | Everyone who has had to fight on it |
 | Pulling Aether | **the pull** · **hauling** | Everyone. Refining it in the Crystal is Guild talk, and nobody else troubles to say it |

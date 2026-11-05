@@ -123,7 +123,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 
 **Inheritance is not a choice.** A summon carries its creator's Essence Typology and Wellspring harmonization whether or not the creator wants it read. Materia produces anchored, slow-dissolving forms. Limina produces absence and negation. *A summoner who does not want to be legible should not be summoning.*
 
-**Signature is the standing counterplay.** Every construct broadcasts its authorizing glyph and its summoner's resonance to anyone with comparable Perception (the nose, at the brackets; *kehai* to a Moto; being sounded, to a Dawi, as a rock face is sounded for a bad seam). **This is true of every entry in the register and should not be re-argued per summon.**
+**Signature is the standing counterplay.** Every construct broadcasts its authorizing glyph and its summoner's resonance to anyone with comparable Perception (the nose, at the brackets; *kehai* to a Moto; being sounded, to a Marrowkin, as a rock face is sounded for a bad seam). **This is true of every entry in the register and should not be re-argued per summon.**
 
 **Cost outlasts the fight or it is not a cost.** Essence spent is a limitation. Memory lost, breath ruined, a name that no longer answers: those are costs. **Record the second kind.**
 

@@ -163,7 +163,7 @@ rules:
   pack_number: null
   section: C-025
   title: There are four Paths, Fate included
-  status: live
+  status: superseded
   kind: definition
   summary: There are four Paths, Fate included.
   verbatim: 'There are four Paths: Body, Spirit, Attraction and Fate.'

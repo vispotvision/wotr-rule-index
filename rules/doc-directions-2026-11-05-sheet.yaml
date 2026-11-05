@@ -262,7 +262,7 @@ rules:
   applies_to:
   - codex
   - magic-mechanism
-  notes: Clause (11) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+  notes: Clause (11) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json. Amended 2026-11-05 by R85-14 and R85-17, Essence Typology being retired; the ways of getting a Wellspring stand, and the slow road to double now applies to the lens at its home Path.
 - pack: Directions 2026-11-05 (the sheet and the climb)
   pack_number: null
   status: live

@@ -1,0 +1,541 @@
+# Isaac's direction on Paths, Wellsprings and the Crystal's layers, 2026-11-05, in chat, with the agent rulings that build it out. All are recorded in RULINGS.md; each verbatim is from that entry.
+pack: Directions 2026-11-05 (Paths and layers)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-14-PATHS_AND_WELLSPRINGS
+  section: paths-and-layers
+  title: Paths and Wellsprings replace Essence Typology
+  kind: mandate
+  summary: Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.
+  verbatim: 'I think were gonna get rid of Essence Typologies and have Path''s + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it''ll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren''t your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they''ve been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn''t have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what "Essence" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it''s attraction-layer more lets do it like that'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: replaces
+  supersedes:
+  - R42-7-FOUR_PATHS
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - stats
+  - character-sheet
+  - codex
+  verification: []
+  notes: C-176. Overrides Fracture of Worlds Part Eighteen by the canon hierarchy; the source file is not edited.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-15-THREE_PATHS_THREE_LAYERS
+  section: paths-and-layers
+  title: Three Paths, three layers, and what Essence is
+  kind: definition
+  summary: Body Path works the Physical World through the Aether Shell, Spirit Path the Soul Plane through the Essence Core, Fate Path the Plane of Fate through the Attraction Layer. Attraction folds into Fate. Essence is the soul's own substance. Typology's jobs pass to Wellspring and Path.
+  verbatim: "Agent ruling. There are three Paths, one to each plane and layer of the Soul Crystal. Body Path is the Physical World, worked through the Aether Shell. Spirit Path is the Soul Plane, worked through the Essence Core. Fate Path is the Plane of Fate, worked through the Attraction Layer, which is a soul's own share of fate. Attraction folds into Fate: Attraction Force and Obsession Force are what the Plane of Fate runs on, so Fate Path takes Attraction's Range, Aura Pressure and Domain authority, an Attraction gate reads as a Fate gate, and true Fate Arts stay the rare far end of the Path. Every soul has all three layers, and a Path is the layer the Crystal leans on. Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance and spending it is spending yourself. Essence Typology is retired: a blow's character comes from Wellspring and Path, Wellspring compatibility from how its qualifier sits with the Path, a Primary Trait from origin, first imprint and the lived Path, and class trajectory from how the person has lived."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - stats
+  - character-sheet
+  verification: []
+  notes: R84-12 stands (real Fate Arts rare and mostly by bloodline). R57-27 and R57-29 and the gate tables read Attraction as Fate.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-16-PATH_BALANCE
+  section: paths-and-layers
+  title: One, two or three Paths
+  kind: mandate
+  summary: A Path is Mastered, Walked (30 percent of practice or more) or Studied. One Path is on time at full modifier with a clean seat; two take about 2.5 times as long at three-quarter modifiers with a rough seat; three take about six times as long at half modifiers with the high Grades shut.
+  verbatim: "Agent ruling. One soul has one life's time to spend. A Path on a card is Mastered, Walked or Studied. Walked takes at least 30 percent of a person's practice. Anyone may study any Path, which gives knowledge and small uses and opens no gates. One Path: gates open at the Stage written, the full force modifier, a clean seat, mastery in the base time. Two Paths: mastery takes about two and a half times as long for the pair, the Path behind opens its gates a Stage late until it is mastered, the modifier is three-quarters on each for life, and the seat is rough, so the fighter has real holes at times and breaks an opponent's read of them. Time closes the gap in the gates and never in the modifier. Three Paths: about six times as long, which is beyond a mortal span, gates two Stages late, half modifiers, and the high Grades stay shut. It is rare and looked down on. Card percentages stay as the record of time spent, with Attraction added to Fate."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  - adjudication
+  verification: []
+  notes: The multipliers are invented. A long-lived being is not a mortal span; whether that opens a third Path is left to the card.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-17-QUALIFIERS_AND_THE_LENS
+  section: paths-and-layers
+  title: Qualifiers, the lens and the new sort of the Sixty
+  kind: mandate
+  summary: A Wellspring's kind names its home plane and never locks it. Any Path can use any Wellspring through its lens, reaching double at home and half again away. The sort is 33 Wild, 15 Spirit, 6 Fate and 6 Medium.
+  verbatim: "Agent ruling. A Wellspring's kind is a qualifier naming its home plane, never a lock. Any Path can use any Wellspring. A Wellspring is the lens a soul bases its tempering on, and it shapes Essence differently on each Path. On its home Path it harmonizes cleanly and can reach double the effect with years of mastery. Off its home Path it works in that layer's terms, at lower-quality resonance and higher Essence cost, and reaches half again at most. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear. Medium runs at home on all three. Wild (33): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Transmutatio, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine. Spirit (15): Catharsis, Penanceflare, Thaloré, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial, Eclipseron, Absolution, Penance, Redemption, Contrition. Fate (6): Somnalis, Oblation, Benediction, Oblivara, Transference, Tarturon. Medium (6): Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes:
+  - R85-13-THE_SORT_OF_THE_SIXTY
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - codex
+  verification: []
+  notes: Amends R84-11 on what the double applies to. The Sixty's names and Families do not change.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-18-WHAT_EACH_PATH_MANIPULATES
+  section: paths-and-layers
+  title: Fate is the outer parts of reality, and people wage war with it
+  kind: mandate
+  summary: Fate is much more than vows and blessings. People fight and wage wars with it, and the Moto are the prime example. Fate manipulates the outer parts of reality, what reality presupposes. Body is the literal understanding and manipulation of physical reality. Spirit is everything to do with spiritual reality.
+  verbatim: 'l feel like FATRE should be MUCH more than just vows and blessings and whatnot people should be able to fight and actually wage wars with FATE since the MOTO are prime EXAMPLE of how deadly a lineage with fate manipulation and those type of abilities should be. I need you to UNDERSTAND FATE is the MANIPULATION of the outer-parts of reality something that prequisite reality. WHILST BODY is the LITERAL understanding and MANIPULATION of the PHYSICAL "Reality" Mean hile SPIRIT is the opposite its the "SPIRITUAL" reality everything to do with spirit reality.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  - mass-combat
+  verification: []
+  notes: Corrects how R85-15 described Fate; the layer and plane mapping in R85-15 stands.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: superseded
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-19-FATE_FIGHTS
+  section: paths-and-layers
+  title: How Fate fights, and what stops it
+  kind: mandate
+  summary: A Fate fighter moves what a blow, wall, march or battle depends on. Low down it leans on the odds, higher up it removes or assigns a prerequisite, and in war it works the whole field. It moves only what already has a way of happening, costs reserve, has a charge and a tell, and is contested by Dominion Fate against Resilience Persistence and Continuity.
+  verbatim: "Agent ruling. Fate fights. The Plane of Fate is the outer part of reality, what has to be so before anything can happen, and a Fate Path fighter works there: they move what a blow, a wall, a march or a battle depends on, so the result arrives without having to be forced. Every Fate fighter can do this at their own Stage. Low down it is leaning on the odds: a guard that slips, a strap that gives, the one arrow that finds the gap. Higher up it removes or assigns a prerequisite: this cut was always going to land, this wall was always going to fall, this man was never going to reach the ford. In war a Fate commander works the whole field: weather, supply, panic, who arrives when and which line breaks first. The Moto are the model, and true Fate Arts such as Hataraki remain the deadliest and mostly by bloodline. Limits: Fate can only move what already has a way of happening, so a sound thing with nothing to exploit stands; it costs reserve like any working, scaled to how far it pushes against likelihood; it has a visible charge and a tell; and the contest is Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits."
+  amends:
+  - guide: NATALIE.md
+    locus: THE FIGHT
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - mass-combat
+  - adjudication
+  verification: []
+  notes: R84-12 stands. Limits, contest and counters are invented so Fate stays fair at the table.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-20-THE_REALITIES
+  section: paths-and-layers
+  title: The Epochs as the Realities, and Fate as no reality
+  kind: definition
+  summary: Body pulls from Matla. The Epochs stand as the three Realities, but Fate cannot be considered a reality, since it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities.
+  verbatim: pull from malta for body you just need to understand the epochs as the 3 "Realities" however fate cannot even be considered a reality if you know what I mean cause its everything that flows every possibility every idea every concept anything and everything that can happen in the lower realities.
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - worldbuilding
+  verification: []
+  notes: '"Malta" is read as Matla, the Named Art.'
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-21-MATLA_AND_THE_BODY_LADDER
+  section: paths-and-layers
+  title: The Epochs over the Paths, and Matla as the model of Body
+  kind: mandate
+  summary: Aegor is Physical Reality and Body, Ashura Spiritual Reality and Spirit, Bara over Fate, which is no reality. Body climbs Matla's ladder from object through contact, recognition and law to complete system, so its reach grows with Stage while it still needs existing substance and pays in recoil.
+  verbatim: "Agent ruling. The three Epochs stand over the three Paths. Aegor is Physical Reality and the Body Path. Ashura is Spiritual Reality and the Spirit Path. Those two are the lower realities. Bara stands over Fate, which is not a reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities, and the name Plane of Fate is a courtesy. Matla is the model of the Body Path as Hataraki is of Fate. Body climbs by its ladder: the novice commands matter as an object, the adept through contact, the master through recognition, the sovereign through law, and the rare Totality Architect as a complete system. So a Body fighter closes and hits low down, and high up their reach grows as far as there is matter to read, while still needing existing substance and paying in recoil through the body and Crystal. Matla stays a learned art with its own branches and limits; a Body fighter need not study it to climb the ladder."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  verification: []
+  notes: Fracture's force modifiers and Body's Range trade stand as numbers; R85-21 says what a high-Stage Body fighter can reach with, not what their bonus is.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-22-FATE_IS_HARD
+  section: paths-and-layers
+  title: Fate is above, sovereign and extremely hard
+  kind: mandate
+  summary: Fate is above the two realities and is the law and construction of the world. Archons and principles are Sovereign there. Pulling and warping threads takes extreme effort, which is why Hataraki has different workings, and it cannot be rationalized.
+  verbatim: fate is above the other two realities when you pull ideas concepts down from fate you also have to understand the archons and principles are "Soveriegn" on the plain of fate they are the most powerful there, yet there reach is made even more so by the idea that they are the laws but what is fate itself but the very law and construction of the WORLD itself. Though this is ALL to say that just because you can pull-down and manipulate threads of FATE doesn't mean it is EASY you shouldn't be capable manipulating warping the physical and spiritual realities without EXTREME effort thats why there is different workings of Hataraki. Fate is hard because the notions you undersstand and concieve cannot be rationalized to be used against it.
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  verification: []
+  notes: ''
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-23-FATE_FIGHTS_AT_A_PRICE
+  section: paths-and-layers
+  title: How Fate fights, what it costs and what stops it
+  kind: mandate
+  summary: Fate fights and wages war by moving what things depend on, and is the hardest Path. Everyday Fate fighters use Range, Pressure, presence and bonds. A real pull is rare, ruinously costly and often fails. A field is a life's masterwork or a bloodline art. Each Work of Hataraki is a distinct way of gripping one function.
+  verbatim: "Agent ruling. This replaces R85-19. Fate sits above the two lower realities and is the law and construction of the world itself. People fight and wage wars with it, and they move what a blow, a wall, a march or a battle depends on. It is the hardest of the Paths. Understanding gets no purchase on it, because a mind's notions are made of the thing they would be used against, so it cannot be reasoned out or drilled in. A thread of Fate is pulled down from above, and warping physical or spiritual reality through one takes extreme effort at every Stage. Archons and the great principles are Sovereign on the Plane of Fate and the most powerful there, because they are those laws, so a thread may belong to something that notices. An ordinary Fate fighter's everyday weapons are Range, Aura Pressure, presence and bonds. A real pull in a fight is rare: low down it is one lean on the odds that can take a large share of the reserve, leaves the body bleeding, and often fails. Higher up it can remove or assign a prerequisite at a ruinous price. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. The Works of Hataraki exist because nobody grips Fate bare: each Work is a distinct inherited way of taking hold of one function, which is what makes the Moto so deadly. Fate can only move what already has a way of happening, has a visible charge and a tell, and is contested by Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits."
+  amends:
+  - guide: NATALIE.md
+    locus: THE FIGHT
+    operation: extends
+  supersedes:
+  - R85-19-FATE_FIGHTS
+  applies_to:
+  - magic-mechanism
+  - combat
+  - mass-combat
+  - adjudication
+  verification: []
+  notes: R84-12 stands. The price wording and limits are invented so Fate stays fair at the table.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-24-ARCHONS_ACROSS_THE_PLANES
+  section: paths-and-layers
+  title: Archons are sovereign on all three planes, and Uurgath and Urion are unparalleled in Fate
+  kind: definition
+  summary: Most if not all Archons are sovereign across all three planes, and some are deemed more powerful than others. Uurgath and Urion are unparalleled in Fate because their ideas are inconceivable.
+  verbatim: tbh most if not all archons are soveriegn across all 3 planes. However some are deemed more powerful that others. Like Uurgath and Urion are unparalleled in fate compared to the other archons since there ideas are inconcievable if you get the idea and the point.
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  verification: []
+  notes: Corrects R85-22 and R85-23 where they read as Archons being Sovereign only on the Plane of Fate.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-25-CLASSES_BY_LAYER
+  section: paths-and-layers
+  title: Aether Class is influence on the physical world, and Fate and Spirit get classes
+  kind: mandate
+  summary: Aether Class is rewritten to fit the new system as a classifier of how strong a person's influence on the physical world is, and Fate and Spirit get classes of their own.
+  verbatim: I think we should also re-write the aether class to fit inside of this new system instead of forcing it to become apart of it I think the class of aether should be more a classifier of how strong your influence and your classifier is when it comes to influence on the physical world. However if we are gonna do it that wasy we might need to give Fate and Spirit classes of there own as well?
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - stats
+  - character-sheet
+  verification: []
+  notes: He approved the three-ladder proposal with "Yes, build them".
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-26-THREE_CLASS_LADDERS
+  section: paths-and-layers
+  title: Aether, Essence and Thread Class
+  kind: mandate
+  summary: Three ladders, Ø to Ω, one per Crystal layer, read from Glory, each setting η for its own layer. Thread is the steep one. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind, a Studied one stops at II, or I for Thread. The named calling is just a Class.
+  verbatim: "Agent ruling. There are three class ladders, one per layer of the Crystal, each running Ø to Ω and read from Glory. Aether Class is the Aether Shell and measures influence on the physical world: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute. Essence Class is the Essence Core and measures influence on spiritual reality: Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute. Thread Class is the Attraction Layer and measures how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. VI on each ladder is lateral, an inverted way of holding that power. Each ladder sets η for workings through its own layer. Thread Class is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral on the other ladders, and it opens no earlier than Glory unless a bloodline or blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A card's η and numeral move to the ladder of its lead Path unchanged. The named calling the soul offers at thresholds is now just a Class and has no ladder of its own; it evolves when the lead ladder rises. The Soul Crystal Tier stays as the reading of the whole soul."
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - stats
+  - character-sheet
+  verification: []
+  notes: Replaces the ladder-as-tier clause of R84-10 and extends R85-3. Rung names for Essence and Thread are invented.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-27-NO_BETTER_PATH
+  section: paths-and-layers
+  title: No better Path, and each beats each
+  kind: mandate
+  summary: The wiki explains how each Path can beat each other. Each has clear limitations against the others, no Path is better, and that is why some Paths are combined.
+  verbatim: we should ALSO explain how EACH path can beat each other. feel like fate and body and spirit all have limitations all pretty-clear all against each other there are no "Better" paths each path is good, and thats why some paths are combined
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - adjudication
+  verification: []
+  notes: ''
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-28-HOW_EACH_PATH_BEATS_EACH
+  section: paths-and-layers
+  title: How each Path beats each
+  kind: mandate
+  summary: Each Path's limits and how it beats each of the other two, with Stage, ground and preparation deciding on the day, and why Paths are combined. Being above the lower realities makes Fate harder, never better.
+  verbatim: "Agent ruling. No Path is better, and each beats each. Body's limits: it needs existing substance, must close until very high, pays in recoil, and has no purchase on a soul. Spirit's limits: it needs a soul or a meaning to work on, has a fragile body, and dies out of position. Fate's limits: it is ruinously hard, slow to set, moves only what already has a way of happening, and loses a straight exchange. Body beats Spirit by getting there: a spear does not care what you mean, a working takes time, and a dense Shell outlasts a thrown one. Spirit beats Body by going past the Shell: armor and Durability do not cover the soul, and the Spirit fighter reads the charge from range. Body beats Fate with force and soundness: nothing moves the odds on an avalanche, a well-kept fighter offers no strap to give, and a straight exchange ends before the pull can set. Fate beats Body through what closing depends on: the ground, the gear, the hour, so the blow never arrives. Spirit beats Fate by reaching the hand on the thread: every pull is made by a soul, it shows on the Core before it lands, and a wounded soul loses its grip. Fate beats Spirit because Spirit survives by being right: one wrong read or one spoiled stroke is enough, and the meanings Spirit works with come down from Fate in the first place. The Stage, the ground and the preparation decide which of these holds on the day. People combine Paths to cover their own weakness: Body and Spirit is a hitter who cannot be gone around, Body and Fate is a blow that always arrives, Spirit and Fate reads the thread and moves it. Being above the lower realities makes Fate harder, never better."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - adjudication
+  verification: []
+  notes: The pairings are invented.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction with two documents, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-29-ZETTARI_AND_VALORIN
+  section: paths-and-layers
+  title: The Zettari updated and the Valorin added
+  kind: mandate
+  summary: The Zettari page takes his new document, the Valorin Family are added from his, and both are fitted to the three Paths and the rest of this pack.
+  verbatim: update the zettari and add the valorin on thsi stuff.
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-design
+  verification: []
+  notes: Source documents are in imports/drafts/lineages-2026-11-05/.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-30-MATLA_LATTICE_AND_THE_PATHS
+  section: paths-and-layers
+  title: Matla, the Valorin lattice and the Paths
+  kind: mandate
+  summary: Matla is the Zettari's nine-Practice instrument; Material Force is its learned incomplete reading; the Body ladder is open to all. The Paths are a place, not the roads. A Valorin lattice has the same three faces as a Crystal, Valorin lean Spirit then Fate, and they cannot read Fate.
+  verbatim: "Agent ruling. This corrects R85-21 on Matla. Matla is the Instrument of the Paths, written by Aegor, with nine Practices, and only the Zettari can carry it. What the schools teach as Material Force, with its six branches, is the learned and incomplete reading of it. The Body Path's ladder of object, contact, recognition, law and whole system stays open to everyone, and Matla is its highest form. The Paths with a capital, the Zettari's plane of sands, are a place and not the three roads. A Valorin's Scripted Soul Lattice is a soul that never crystallized, so it has the same three faces as a Crystal, and the Paths and class ladders read on it the same way; ηₗ, like the Zettari's Matla conversion, is a lineage measure beside η. Valorin lean Spirit first and Fate second. Writing on Fate stays Fate: their understanding gets no purchase on it, so they cannot read it and can only write a sentence and wait to see whether it is recognized, which takes generations and is the lineage's great humility. A royal Zettari who truly walks Body and Fate pays the two-Path price."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  verification: []
+  notes: The wording on Material Force, the three faces and how Valorin write on Fate is invented to make the documents fit.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat and questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-31-NO_MORE_FAMILIES
+  section: paths-and-layers
+  title: The Eight Families are removed, and the Sixty sort by kind
+  kind: mandate
+  summary: No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium, each Wellspring keeps its own hue, scholars' physics stays on each entry, and the Codex column stays untouched as a source.
+  verbatim: "also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source."
+  amends:
+  - guide: NATALIE.md
+    locus: THE SESSION
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - codex
+  verification: []
+  notes: Takes the Families out of R79-11's fixed list.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-32-FAMILIAR_WORDS
+  section: paths-and-layers
+  title: Familiar power words in documents, and the rebuild to follow
+  kind: mandate
+  summary: Documents may use terms from the Superpower Wiki and VS Battles, since familiar words are easier. Aether is mana and Essence is spiritual energy. The world keeps its own style, inspired and never copied. Ability creation, character and other tools and skills are rebuilt after this as one bundle.
+  verbatim: we can also utilize terms from the superpower wiki api and the vs wiki thing for documents just you know, but we can use that for the next bit and fixing the flow just think its easier to utilize words people are familiar with aether is just mana we've established that essence = spiritual energy. fate we established that as well but you get my point we want the system and the world to have its own style but to be inspo'd and the abilities techinques etc and after this you'll need to rebuild ability creation character etc many other thing as well skills will need to rebuilt but I'll have u bundle into one thing
+  amends:
+  - guide: NATALIE.md
+    locus: THE WIKI
+    operation: extends
+  supersedes: []
+  applies_to:
+  - documents
+  - magic-design
+  verification: []
+  notes: WOTR canon still governs every fact and number; no name, move or character is taken from a touchstone.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, flow-fix questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-33-ORIGINS_LADDERS_SPIRIT_ARTS
+  section: paths-and-layers
+  title: Origins, how a ladder rises, Null-Light, and one scheme for arts
+  kind: mandate
+  summary: Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.
+  verbatim: "Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - stats
+  - character-sheet
+  - worldbuilding
+  verification: []
+  notes: Replaces the ladder climb clause of R85-26. Reviews and plan in imports/drafts/connections-audit/.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-34-THE_FLOW_LAW
+  section: paths-and-layers
+  title: The flow law
+  kind: mandate
+  summary: The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.
+  verbatim: "Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - worldbuilding
+  - stats
+  - character-sheet
+  verification: []
+  notes: Replaces how R85-26 says a ladder climbs, with R85-33.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction with a document, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-35-ZETTARI_SPRING_ARTS
+  section: paths-and-layers
+  title: The Zettari update and the Spring Arts
+  kind: mandate
+  summary: His updated Zettari document adds the Wellspring Sovereignty trait and the Spring Arts, which shut off, seize and turn a Wellspring; a Family in it reads as a kind.
+  verbatim: this is the update for zettari
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-design
+  - combat
+  verification: []
+  notes: Source in imports/drafts/lineages-2026-11-05/.

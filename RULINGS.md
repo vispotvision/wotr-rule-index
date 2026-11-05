@@ -3641,3 +3641,9 @@ Context: Redo of the Inner World around the Northern Banner Houses and Southern 
 Isaac, 2026-11-05, choosing from Natalie's pitches: the people replacing the Dawi live inside the ribcage of something that died in the Great Spirit War, forge with what they cut out of it, sell pieces of it, and keep a tally of what was taken because someday the body will want it back ("They live inside a dead god and sell pieces of it"). The wedged center of the continent is free salt cities that pay both sides, owe neither and get marched through every generation; Halcrest stays, and Nalūn survives as the name of the salt country, not a kingdom. Art comes first for the Inner World. AGENT RULING (Natalie, overturnable): the people are named the Marrowkin, not the working name Hollow-Kin, because Hollow already names a Grade and a creature type. What exactly died stays disputed among scholars (R83-11), so no Archon or Titan is invented or killed.
 
 Context: Follows the same night's ruling on the Inner World.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "Sumgol being the name of Cozbi's Nation and the Mahuo Dynasty Kingdom." Also: "lets try to keep the names all structually the same or fit the culture of the house they were meant to repersent". Sum-gol names the kingdom as well as its seat. Natalie's draft names for the other Inner World kingdoms, for him to keep or cut, are in imports/drafts/inner-world-redo/KINGDOMS.md.
+
+Context: Inner World redo. The wiki's spelling Sum-gol is kept. Cozbi's card has him refuse the restored crown and hold Sum-gol as Head of House Mahuo.

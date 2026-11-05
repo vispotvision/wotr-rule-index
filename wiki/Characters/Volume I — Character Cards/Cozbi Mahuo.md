@@ -1,10 +1,4 @@
 ---
-title: "Cozbi Mahuo"
-private: true
----
-# Cozbi Mahuo
-
----
 title: Cozbi Mahuo
 tags:
   - mahuo

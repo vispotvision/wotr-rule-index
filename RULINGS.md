@@ -4073,3 +4073,9 @@ Context: Isaac, 2026-11-05, by questionnaire on the flow fix. Indexed as R85-33.
 Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.
 
 Context: Grounds: R85-31, R85-32, R85-33 and the five reviews in that folder. Everything in the file not marked as Isaac's is invented or adopted from the reviews. Indexed as R85-34. Isaac may overturn any of it.
+
+## 2026-11-05 — new
+
+this is the update for zettari
+
+Context: Isaac, 2026-11-05, in chat, with an updated Zettari document adding the Wellspring Sovereignty trait and the Spring Arts (Kuzima, Kutwaa and Kubadili Chemchemi), saved to imports/drafts/lineages-2026-11-05/. Indexed as R85-35. Under R85-31 its two mentions of a Family read as a Wellspring's kind.

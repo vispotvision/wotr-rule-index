@@ -3785,3 +3785,9 @@ Context: Refines R83-9. Bears on The Eight Families and the Sixty Wellsprings, t
 Isaac, 2026-11-05: "A blessing can grant someone a power that would normally be unrealistic for them obtain otherwise whether it be level. A blessing doesn't have to be constricted to fate, however most blessings are given through fate as the Plane of Fate again repersents the possibility of all things meaning it effects both the Spiritual and Physical World since both have fates all spirits and all physical things". A blessing can grant a power that would normally be unrealistic for the person to obtain, including in level. It need not work through Fate, but most do, because the Plane of Fate represents the possibility of all things and so affects both the Spiritual and the Physical World: all spirits and all physical things have fates.
 
 Context: Answers the first of Natalie's questions on blessings. Whether a blessing can be withdrawn and what it costs the giver are still open.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "but blessings can easily be curses to add more onto that. The cost from the giver is usually nothing if they of great power an Epoch has unlimited amounts of power and almost waste nothing doing such a thing. I don't like the idea that Drafts or Even Blessings don't supply catalyst we may have to make a major change to that". A blessing can easily be a curse. It usually costs the giver nothing if the giver is of great power; an Epoch has unlimited power and wastes almost nothing doing it. He dislikes the rule that Drafts and blessings cannot supply a Catalyst, and a major change to it is on the table, not yet decided.
+
+Context: The rule in question: "A Draft can supply the quantitative floor and it can supply a seed. No Draft has ever supplied a Catalyst." in The Trait System and The Ladder and the Draft. Options put to him.

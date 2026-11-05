@@ -3599,3 +3599,9 @@ Context: Counterplay, Reinforcement, Runes and Tags, the Lexicon, the Working Vo
 AGENT RULING (Natalie, wiki rewrite, overturnable). Shared-art names under R82-19, fixed in The Color of Essence Part Six as coat, weight, nose. Guild: Reinforcement, Pressure, Sensing. Common bracket crowds: the shine, the weight, the nose. Kharven: the hide, the low sky, smelling a man's stack. Moto: matoi, atsu, kehai. Dawi: on shift, the load, sounding. Mahuo: gabot, nureum, nunchi. Lineage halls: hùtǐ, wēiyā, shénshí. Also, on the Wellspring entries, new Alchemy and Spirit fields carry R83-9: readings on file are used as they stand, and lines derived from a Wellspring's own law are marked in-world as "the trade's reading" or "the confessors' reading". No Wellspring was added, renamed or removed.
 
 Context: The derived lines are listed in imports/drafts/wiki-rewrite/magic_reports.json, the foundations group. They have not been checked one by one by a second reader.
+
+## 2026-11-05 — new
+
+AGENT RULING (Natalie, wiki rewrite, overturnable). The Imperial Age: Aether Infrastructure is replaced by "Who Pays for the Lamp: The Living Crafts". Medieval successors keep the old page's arguments: assay posts for gauge-housings, parish stones for standpipes, searchers for inspectors, snuffers for cutters, Core-tenders for main-men, fee-walkers for meter-readers, a beacon line for the wire, kept roads and tuned waystones for rail. Household, trade and searcher prices carry over from What Things Cost. Proof-marks survive as proof against bolts, and that section says harness, since full plate belongs to the Imperial Age (R83-4). The Gate keeps one in ten woken and now says a market town of four thousand keeps four hundred; the first lesson escaped long ago, and the schedules guard the upper manuals, glyph tables and work for pay. Grounds: R83-4, R83-5, R83-8, R83-10.
+
+Context: wiki/The Magic System/Practice and Institution/.

@@ -19,8 +19,9 @@
 ## Kharven
 
 **Hiromi** · wants: — · refuses: — · last seen: —
-  - doing now: on the road to the Cedar Enclave to train with Naiser
+  - doing now: on the road to the Cedar Enclave to train with Naiser; carries his dead mother Saeju Mahuo's claim to the Vermilion Dynasty by blood
   - stands with him: Cozbi Mahuo
+  - role: Cozbi Mahuo's nephew and ward, eleven
 **Aldo Brennick** · wants: — · refuses: — · last seen: —
   - doing now: dead in the cedar wood on the Kessen road
   - stands with him: House Stark
@@ -30,3 +31,7 @@
 **Senna Yukari** · wants: — · refuses: — · last seen: —
   - doing now: at the Cedar Enclave, Hiromi's new training partner under her father
   - stands with him: Naiser Yukari
+**Saeju Mahuo** · wants: — · refuses: — · last seen: —
+  - doing now: dead: a roof came down on her in the war, one night before Cozbi reached her, about three years ago; she was the rightful heir of the Vermilion Dynasty of Sum-gol
+  - stands with him: Cozbi Mahuo, Hiromi
+  - role: Cozbi Mahuo's sister; Hiromi's mother (새주, SAY-joo)

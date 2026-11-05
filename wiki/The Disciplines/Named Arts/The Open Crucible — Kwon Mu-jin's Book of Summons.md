@@ -4,18 +4,40 @@ title: The Open Crucible — Kwon Mu-jin's Book of Summons
 
 # The Open Crucible — Kwon Mu-jin's Book of Summons
 
+**THE OPEN CRUCIBLE** (Kwon Mu-jin's personal art, a Vocatia-Alchemetrica hybrid of Legion-capable summoning)
+
 **A Ledger of Called Things** · *Kwon Mu-jin, Book of Summons and Techniques*
-> Every called thing that answers him arrives already annotated: readable, gradeable, correctable — the same way he has been since he was fourteen.
+> Every called thing that answers him arrives already annotated: readable, gradeable, correctable, the same way he has been since he was fourteen.
+
+**The hook.** He writes a request in ink, and the world sends him a soldier who has already taken notes on you.
+
+- **THE MARGINAL NOTE!** An ink crow flies ahead and he sees through it, until it tilts its head at an angle no living bird holds.
+- **THE PROCTOR!** A man-high guard of bound parchment plants itself in front of him, and blows that land on it lose conviction.
+- **THE CORRECTIVE!** A faceless thing lives for one stroke of a burning stylus, and the fire goes first for whatever you are lying to yourself about.
+- **THE UNDERSTUDY!** Something with no face performs your signature move back at you, once.
+- **THE FOOTNOTE!** Twenty or thirty ink moths, a joke until your hands and eyes stop working.
+- **THE CITATION!** The ghost of every teacher who ever corrected him stands at an ally's shoulder and fixes their stance.
+- **THE REDACTION!** One blank hand on your ward, and the ward stops having been written.
+- **THE INDEX!** A walking archive-shelf several stories tall, and soldiers who shelter in it call that being filed.
+- **SIGHT THROUGH THE GLASS!** He takes off his spectacles and sees where everything will fail.
+- **FULL ACCOUNTING!** The whole roster at once inside his Domain, for ninety seconds, with a clerk's terrible thoroughness.
+
+**Cost.** A slice of his reserve per form, and from each form a small true price of its own: blisters, migraines, a blank patch in memory.  
+**Counter.** Every called thing carries his signature for anyone who can read it, and past three forms his own clarity starts to go.
+
+---
+
+**How it really works.** A Vocatia caller normally bargains with a higher presence or hosts a population of souls, and his branch of the Mahuo line lost the second knack generations back. What he uses is a Draft-circle read through Anamnesis and given a body by Alchemetrica's four operations, with Parun glyphs as the boundary condition: Authorization, Boundary, Direction and Sealing, each form's glyphs written out below. The Continuum returns the nearest lawful shape for the verb he asks for, and it arrives graded. His own account of the method follows, and so does his resentment of having to give it.
 
 ---
 
 ## The Method
 
-Mu-jin does not summon the way court Vocatia is taught, and he does not summon the way the Aperture branch of his own family does either. There is no negotiation with an unwilling higher presence here, and no soul population to draw from. His branch of the Mahuo line kept the ancestral Vocatia aptitude but lost, generations back, whatever let the Aperture branch host a soul population directly. What is left is smaller and stranger: **a trained correspondence with the Continuum's own archived intention**, read through Anamnesis, given a working body through Alchemetrica's four Draft operations, and held together by an Attraction Layer clean enough that the Continuum answers rather than resists.
+Mu-jin does not summon the way court Vocatia is taught, and he does not summon the way the Aperture branch of his own family does either. There is no negotiation with an unwilling higher presence here, and no soul population to call on. His branch of the Mahuo line kept the ancestral Vocatia aptitude but lost, generations back, whatever let the Aperture branch host a soul population directly. What is left is smaller and stranger: **a trained correspondence with the Continuum's own archived intention**, read through Anamnesis, given a working body through Alchemetrica's four Draft operations, and held together by an Attraction Layer clean enough that the Continuum answers rather than resists.
 > He explains it to first-years like this, and resents that he still explains it like a first-year.
 >
-> **A Draft-circle is not a door. It is a request form.** What answers is not a spirit plucked from elsewhere, and it is not a scrap of his own soul wearing a costume. It is the nearest lawful shape the Wellsprings can produce for the specific verb he has invoked — Guard, Strike, Scout, Correct — filtered through glyphs that are, structurally, **grading marks.**
-The Guild Accord classifies him as a Legion-capable Vocatia-Alchemetrica hybrid, strategic asset designation, on the strength of the roster that follows. He has never once been comfortable with the classification, and he has never once refused a deployment order it justified.
+> **A Draft-circle is not a door. It is a request form.** What answers is not a spirit plucked from elsewhere, and it is not a scrap of his own soul wearing a costume. It is the nearest lawful shape the Wellsprings can produce for the specific verb he has invoked, Guard, Strike, Scout, Correct, filtered through glyphs that are, structurally, **grading marks.**
+The Guild Accord classifies him as a Legion-capable Vocatia-Alchemetrica hybrid, entered on its rolls as a strategic holding, on the strength of the roster that follows. He has never once been comfortable with the classification, and he has never once refused a marching order it justified.
 
 ### General mechanics
 
@@ -25,7 +47,7 @@ The Guild Accord classifies him as a Legion-capable Vocatia-Alchemetrica hybrid,
 | **Simultaneous sustain** | Up to three called forms in coordinated Concordia network before synchronization strain degrades coherence. A fourth is possible, but costs the diagnostic clarity Sight Through the Glass depends on for the rest of the engagement |
 | **Signature** | Every construct carries his Fulguria resonance and Fixatio glyph-authorization, readable and trackable by any Perception-comparable practitioner. **This is the standing counterplay against the entire roster** |
 | **Invocation register** | Guild Accord liturgical Latin layered atop the Parunic glyph-authorization every Draft technically requires. Parunic supplies the technical grammar, and its Authorization carries the warrant; the spoken Latin gives the order over that Authorization, in a phrase a human throat can actually manage under battlefield stress |
-| **Attraction Force** | Clean, recognition-sustained. The corrupted mirror of the entire roster — **The Unopen Crucible** — is a Mu-jin who no longer asks the Continuum for a lawful shape and simply takes one. Exactly the failure Vocatia calls Usurpation |
+| **Attraction Force** | Clean, recognition-sustained. The corrupted mirror of the entire roster, **The Unopen Crucible**, is a Mu-jin who no longer asks the Continuum for a lawful shape and simply takes one. Exactly the failure Vocatia calls Usurpation |
 
 ---
 
@@ -35,8 +57,8 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Marginal Note · *Scout, Greater Summon*
 
-**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ma]` Recall — Anamnesis-linked, Fulguria-carried
-> *"Oculus in margine maneat."* — Let the eye remain in the margin.
+**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ma]` Recall: Anamnesis-linked, Fulguria-carried
+> *"Oculus in margine maneat."*: Let the eye remain in the margin.
 **Trigger** · A single drop of ink touched to the back of his left hand, spoken over an open Draft.
 
 **Function** · A small corvid-shaped construct, wingspan roughly the length of his forearm, dispatched ahead of a party to observe and relay.
@@ -47,16 +69,16 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Target response** · To a casual glance it reads as an ordinary carrion-crow, **until it tilts its head at an angle no living bird holds.**
 
-**Cost** · Roughly 5% of reserve to call, negligible to sustain. A cleanly killed Marginale returns its last half-second of sight to Mu-jin as a genuine sensory jolt — he feels the killing blow land, briefly, in whatever part of his own body corresponds.
+**Cost** · Roughly 5% of reserve to call, negligible to sustain. A cleanly killed Marginale returns its last half-second of sight to Mu-jin as a genuine sensory jolt: he feels the killing blow land, briefly, in whatever part of his own body corresponds.
 
-**Corruption vector** · An Obsession-Force Marginale does not observe. It surveils without consent, persistent and uninvited, incapable of being told to look away.
+**Corruption vector** · An Obsession-Force Marginale surveils without consent, persistent and uninvited, incapable of being told to look away.
 
-**Counterplay** · The tether is a genuine Anamnesis current, not merely visual — Silence-adjacent fields sever it outright, and anything that kills the bird cleanly rather than merely damaging it denies him the final image entirely.
+**Counterplay** · The tether is a genuine Anamnesis current, not merely visual: Silence-adjacent fields sever it outright, and anything that kills the bird cleanly rather than merely damaging it denies him the final image entirely.
 
 ### The Proctor · *Guardian, Legion Summon*
 
-**Glyphs** · `[Th]` Foundation · `[Ur]` Balance · `[Ho]` Order — Coagulatio/Fixatio dual-anchored
-> *"Quod cadit, iudicetur."* — Let what falls, be judged.
+**Glyphs** · `[Th]` Foundation · `[Ur]` Balance · `[Ho]` Order: Coagulatio/Fixatio dual-anchored
+> *"Quod cadit, iudicetur."*: Let what falls, be judged.
 **Trigger** · Full Draft-circle, both hands pressed flat to the working surface.
 
 **Function** · A man-height construct of overlapping bound-parchment plates over an iron-clasp frame. It plants itself between Mu-jin and a threat and does not move again until released.
@@ -69,7 +91,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Cost** · Roughly 12% of reserve, plus a slow continuous drain of about 1% per minute of active standing duty that Mu-jin genuinely forgets to track until the headache arrives.
 
-**Interactions** · Built from the same base chassis as The Corrective, run through the opposite Draft operation — Coagulatio-bound rather than Cinerion-loosed. Summoning both at once strains the same glyph-vocabulary and measurably worsens the fourth-construct coherence penalty.
+**Interactions** · Built from the same base chassis as The Corrective, run through the opposite Draft operation: Coagulatio-bound rather than Cinerion-loosed. Summoning both at once strains the same glyph-vocabulary and measurably worsens the fourth-construct coherence penalty.
 
 **Corruption vector** · An Obsession-Force Proctor stops grading and starts sentencing. It will step forward to intercept blows that were never aimed at Mu-jin at all, on the construct's own authority.
 
@@ -77,12 +99,12 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Corrective · *Executioner, Greater Summon*
 
-**Glyphs** · `[Uur]` Disruption · `[Ser]` Renewal — Cinerion-authorized
-> *"Error corrigatur igne."* — Let the error be corrected by fire.
+**Glyphs** · `[Uur]` Disruption · `[Ser]` Renewal: Cinerion-authorized
+> *"Error corrigatur igne."*: Let the error be corrected by fire.
 **Trigger** · The summoning glyph traced onto the target's last-known position rather than onto his own working surface.
 
 **Function** · A lean, faceless humanoid that exists for the length of a single committed strike, carrying a stylus-shaped blade of compressed Calcination flame.
-> **Mechanism** · The blade is Calcination's ego-death function given a cutting edge. What it burns away first is **whatever the target's Essence architecture is currently lying to itself about** — an unstable stance, a Trait held past its honest limit, a wound the body has not admitted yet.
+> **Mechanism** · The blade is Calcination's ego-death function given a cutting edge. What it burns away first is **whatever the target's Essence architecture is currently lying to itself about**: an unstable stance, a Trait held past its honest limit, a wound the body has not admitted yet.
 **Numerical effect** · Edge temperature approximately 1400°C. Contact radius 0.3–0.6 meters. The construct dissolves 4–6 seconds after manifestation regardless of whether the strike connects.
 
 **Target response** · A clean hit forces an honest structural failure. Compromised armor gives entirely; a Trait held past what the target's Temperance actually supports collapses along with it.
@@ -91,15 +113,15 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Corruption vector** · An Obsession-Force Corrective stops correcting flaws and starts manufacturing them, burning away something true and load-bearing just to produce a wound.
 
-**Counterplay** · A target with no active structural lie to expose — a stable stance, an honestly held Trait, a wound already acknowledged — gives the blade nothing to catch on beyond ordinary thermal damage. It cannot be redirected once traced.
+**Counterplay** · A target with no active structural lie to expose, a stable stance, an honestly held Trait, a wound already acknowledged, gives the blade nothing to catch on beyond ordinary thermal damage. It cannot be redirected once traced.
 
 ### The Understudy · *Mimic, Signature Summon*
 
 **Glyphs** · `[Sar]` Reflection · `[Ma]` Recall · `[Ie]` Perception
-> *"Quod vidi, iterum vivat."* — What I have seen, let it live again.
+> *"Quod vidi, iterum vivat."*: What I have seen, let it live again.
 **Trigger** · Requires him to have witnessed the technique with his diagnostic Sight active. No Draft-circle needed, only the removed spectacles.
 
-**Function** · An indistinct construct, shape shifting slightly moment to moment, that reproduces one specific technique it watched performed within the last several minutes. Not a caster's full kit. **One motion, once.**
+**Function** · An indistinct construct, shape shifting slightly moment to moment, that reproduces one specific technique it watched performed within the last several minutes, never a caster's full kit. **One motion, once.**
 
 **Mechanism** · Routed through Anamnesis Motion Recall rather than true skill transfer. The construct's body briefly remembers a movement it never learned, borrowed and externalized onto a vessel that is not Mu-jin's own nervous system.
 
@@ -107,23 +129,23 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Target response** · Opponents who never meant to be studied this closely describe a specific, quiet horror at watching their own signature move performed back at them by something wearing no face.
 
-**Cost** · 8% of reserve, plus a genuine cognitive tax — he cannot use Sight Through the Glass again for several minutes afterward, the same diagnostic channel doing double duty.
+**Cost** · 8% of reserve, plus a genuine cognitive tax: he cannot use Sight Through the Glass again for several minutes afterward, the same diagnostic channel doing double duty.
 > **Interactions** · Traceable to two things a Signature Technique requires: his Fixation Anchor Sense, which lets him feel a technique's structure as it happens, and his own history of being made a symbol rather than a person. **The Understudy does to an opponent's technique exactly what the court once did to him, and he uses it anyway.**
-**Corruption vector** · An Obsession-Force Understudy does not reproduce a technique once. It keeps trying, indefinitely, chasing a perfect copy it was never built to hold.
+**Corruption vector** · An Obsession-Force Understudy keeps trying to reproduce a technique, indefinitely, chasing a perfect copy it was never built to hold.
 
 **Counterplay** · Techniques bound to a specific Crystal signature, a bloodline-locked Trait, or a living harmonization the construct does not possess fail to reproduce at all. **It can only copy the physically transferable half of a technique, never the half that depends on who the original caster is.**
 
 ### The Footnote · *Swarm, Legion Summon*
 
-**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ur]` Balance — network-coordination glyphs
-> *"Multae notulae nascantur."* — Let many little notes be born.
+**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ur]` Balance: network-coordination glyphs
+> *"Multae notulae nascantur."*: Let many little notes be born.
 **Trigger** · Full Draft-circle, wider radius than his standard working area.
 
 **Function** · A coordinated swarm of twenty to thirty ink-moth constructs, each individually harmless, deployed as a single tactical network rather than as individual actors.
 
-**Mechanism** · Synchronized through a shared Concordia field rather than thirty separate Anamnesis tethers, which is the only reason it is affordable at all. **He is not sustaining thirty constructs. He is sustaining one network with thirty expression-points.**
+**Mechanism** · Synchronized through a shared Concordia field rather than thirty separate Anamnesis tethers, which is the only reason it is affordable at all. **He sustains one network with thirty expression-points, a long way short of thirty constructs.**
 
-**Numerical effect** · Each moth carries no more than a paper cut's worth of contact force, but the swarm collectively degrades visibility and fouls fine motor tasks — bowstrings, glyph-tracing hands, delicate footwork — across roughly a 15-meter radius.
+**Numerical effect** · Each moth carries no more than a paper cut's worth of contact force, but the swarm collectively degrades visibility and fouls fine motor tasks, bowstrings, glyph-tracing hands, delicate footwork, across roughly a 15-meter radius.
 
 **Target response** · Individually dismissible, collectively suffocating. Most opponents do not take it seriously until they have been inside it for thirty seconds.
 
@@ -136,18 +158,18 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 ### The Citation · *Advisor, Greater Summon*
 
 **Glyphs** · `[Ma]` Recall · `[Ie]` Perception · `[Ur]` Balance
-> *"Doctor absens adsit."* — Let the absent teacher be present.
+> *"Doctor absens adsit."*: Let the absent teacher be present.
 **Trigger** · Spoken alone, no Draft-circle, only near an ally already diagnosed with Sight Through the Glass.
 
 **Function** · A translucent, old-fashioned scholarly figure that stands just behind an ally's shoulder for the duration of an engagement, visible only to the ally and to Mu-jin. **His only support-only summon.**
 
-**Mechanism** · An Anamnesis-shaped echo built from the accumulated correction-patterns of every teacher Mu-jin has studied under or been made an example by, filtered through whatever Sight has already identified as that ally's structural flaw. **It does not speak. It corrects posture and timing the way a hand on the shoulder corrects a stance.**
+**Mechanism** · An Anamnesis-shaped echo built from the accumulated correction-patterns of every teacher Mu-jin has studied under or been made an example by, filtered through whatever Sight has already identified as that ally's structural flaw. **It never speaks, and corrects posture and timing the way a hand on the shoulder corrects a stance.**
 
 **Numerical effect** · Measurably reduces the ally's rate of the specific diagnosed flaw by roughly a third for the duration.
 
 **Target response** · Allies who have fought beside it long enough describe the specific discomfort of being corrected by something that clearly used to be a person and now is not fully one.
 > **Cost** · 6% of reserve. The real cost lands on Mu-jin, not the ally. **Sustaining The Citation means holding the memory of every humiliating correction he ever received actively present in his own mind for the duration.**
-**Interactions** · The clearest expression of his Foil dynamic with Doryun. The Citation is built, in part, from Doryun's own corrective voice — patience without honesty, borrowed and pointed at someone Mu-jin actually wants to help.
+**Interactions** · The clearest expression of his Foil dynamic with Doryun. The Citation is built, in part, from Doryun's own corrective voice: patience without honesty, borrowed and pointed at someone Mu-jin actually wants to help.
 
 **Corruption vector** · An Obsession-Force Citation stops correcting and starts controlling, overriding the ally's own reflexes rather than nudging them, until the ally is not fighting their own fight anymore.
 
@@ -155,8 +177,8 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Redaction · *Eraser, Greater Summon*
 
-**Glyphs** · `[Nl]` Null · `[Ie]` Perception — anti-glyph specialist
-> *"Quod scriptum est, deleatur."* — Let what is written be deleted.
+**Glyphs** · `[Nl]` Null · `[Ie]` Perception: anti-glyph specialist
+> *"Quod scriptum est, deleatur."*: Let what is written be deleted.
 **Trigger** · Physical contact between the construct's single unmarked hand and the inscription being targeted.
 
 **Function** · A blank, unfinished-looking humanoid shape without visible detail on face or hands, built specifically to unmake rather than to act.
@@ -165,27 +187,27 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Numerical effect** · Can unmake a single glyph-array or ward up to roughly Legion-tier complexity in under ten seconds of sustained contact. Anything more sophisticated resists, and the construct's hand blackens and eventually fails.
 
-**Target response** · Wards and glyph-work do not shatter under The Redaction. **They simply stop having been written**, which reads to any witness as considerably worse.
+**Target response** · Under The Redaction wards and glyph-work stay unshattered and **simply stop having been written**, which reads to any witness as considerably worse.
 
-**Cost** · 10% of reserve. Every successful unmaking leaves a small blank patch in his own memory of the encounter — he genuinely cannot recall, afterward, exactly what the erased glyph-work looked like.
+**Cost** · 10% of reserve. Every successful unmaking leaves a small blank patch in his own memory of the encounter: he genuinely cannot recall, afterward, exactly what the erased glyph-work looked like.
 
 **Interactions** · The single most requested loan-out summon among his Guild Accord colleagues, and the one he is most reluctant to deploy casually, given what it costs him personally.
 
-**Corruption vector** · An Obsession-Force Redaction does not stop at the targeted inscription. It keeps unmaking outward, glyph by glyph, ledger entry by ledger entry, until something never meant to be erased goes with it.
+**Corruption vector** · An Obsession-Force Redaction keeps unmaking outward past the targeted inscription, glyph by glyph, ledger entry by ledger entry, until something never meant to be erased goes with it.
 
 **Counterplay** · Inscriptions anchored through a living harmonization, rather than pure Glyphica, resist far longer than dead ritual-work. A caster who can re-seal faster than it unmakes wins outright, and it has no offensive capacity whatsoever if simply avoided.
 
 ### The Index · *Archive, World-Tethered-Adjacent Legion Summon*
 
 **Glyphs** · `[Th]` Foundation · `[Ma]` Recall · `[Ho]` Order
-> *"Omnia inveniantur, nihil pereat."* — Let all things be found, let nothing be lost.
+> *"Omnia inveniantur, nihil pereat."*: Let all things be found, let nothing be lost.
 **Trigger** · A full night's preparation and a permanent-feeling location. Never a battlefield improvisation.
 
-**Function** · A towering, several-story construct resembling a leaning archive-shelf given a walking frame. Used as a mobile forward operating point, not a combatant. **Called perhaps a dozen times in his career.**
+**Function** · A towering, several-story construct resembling a leaning archive-shelf given a walking frame. Used as a walking forward camp, not a combatant. **Called perhaps a dozen times in his career.**
 
 **Mechanism** · Does not run on the 3-second readiness of the rest of the roster. It borrows stability the way a World-Tethered summon does, anchoring lightly to whatever location it is raised in rather than to his own sustained Shell, which is the only reason it can persist for days rather than minutes.
 
-**Numerical effect** · Interior space equivalent to a modest field hospital and archive combined. Persists up to a week before the borrowed anchor thins past usefulness.
+**Numerical effect** · Interior space equivalent to a modest field infirmary and archive combined. Persists up to a week before the borrowed anchor thins past usefulness.
 
 **Target response** · Soldiers who have sheltered inside it describe it, without much affection, as **being filed.**
 
@@ -193,7 +215,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Interactions** · The only summon that can safely house a wounded Proctor for re-sealing, or hold The Citation's memory-burden overnight so he can actually sleep.
 
-**Corruption vector** · An Obsession-Force Index does not just file what is brought to it. It starts filing what walks past uninvited, cataloguing anyone who lingers whether or not they consented to being recorded.
+**Corruption vector** · An Obsession-Force Index does not just file what is brought to it. It starts filing what walks past uninvited, cataloging anyone who lingers whether or not they consented to being recorded.
 
 **Counterplay** · Its anchor to the location rather than to Mu-jin is also its vulnerability. Sustained Domain-scale hostile pressure on the anchoring ground severs it entirely, and unlike the rest of the roster it cannot be re-summoned elsewhere on short notice.
 
@@ -203,7 +225,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### Sight Through the Glass · *Signature*
 
-**Gates** · Stage XII, Grade SS Gnosis, Fulguria typology. Anchored to the single Diagnostic Lens — **if the lens is lost or destroyed, the technique is unusable until he consecrates a replacement.**
+**Gates** · Stage XII, Grade SS Gnosis, Fulguria typology. Anchored to the single Diagnostic Lens, **if the lens is lost or destroyed, the technique is unusable until he consecrates a replacement.**
 
 **Trigger** · Removes and holds his spectacles.
 
@@ -215,13 +237,13 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Cost** · Migraine-grade backlash for hours; roughly 2% of reserve per use.
 
-**Sensory** · The world does not glow. It goes quiet and specific, narrowed to one held-breath window. His remaining eye does not shine. It simply stops blinking.
+**Sensory** · With no glow at all, the world goes quiet and specific, narrowed to one held-breath window. His remaining eye gives off no shine and simply stops blinking.
 
-**Corruption vector** · An Obsession-Force version does not diagnose. It convicts on sight, reading flaw into anything it looks at whether the flaw is real or not.
+**Corruption vector** · An Obsession-Force version convicts on sight, reading flaw into anything it looks at whether the flaw is real or not.
 
 **Counterplay** · Active flux still outpaces a 40-second window.
 
-### Calcination Draft — Honest Fire · *Trained*
+### Calcination Draft: Honest Fire · *Trained*
 
 **Trigger** · *"Falsum ardeat, verum maneat"* over a prepared vessel.
 
@@ -233,15 +255,15 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Sensory** · Scorched paper and old copper on the air before the burn even lands.
 
-**Corruption vector** · An Obsession-Force version does not strip false structure. **It strips true structure it merely finds inconvenient.**
+**Corruption vector** · An Obsession-Force version **strips true structure it merely finds inconvenient.**
 
 **Counterplay** · Requires contact; a resisting target scatters the glyphs.
 
-### Vocatia — The Ledger's Summons · *Trained, Umbrella Casting Method*
+### Vocatia: The Ledger's Summons · *Trained, Umbrella Casting Method*
 
 **Gates** · Formal Vocatia training, undertaken once his Stage advancement made ignoring the family aptitude untenable.
 
-**Function** · The general invocation technique underlying the entire roster. Any newly negotiated form must pass through the same four-layer Glyphica process — Authorization, Boundary, Direction, Sealing — before it is added to the ledger.
+**Function** · The general invocation technique underlying the entire roster. Any newly negotiated form must pass through the same four-layer Glyphica process, Authorization, Boundary, Direction, Sealing, before it is added to the ledger.
 
 **Mechanism** · Calls a bound spirit-construct shaped by whatever the working needs, drawing on Vocatia's recognition-layer and Alchemetrica's material Draft process together rather than either alone.
 
@@ -249,7 +271,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Corruption vector** · An Obsession-Force practitioner stops asking the Continuum for a lawful shape and starts demanding one. Usurpation, in Vocatia's own terms, regardless of how correct the syntax looks.
 
-### Distillation Seal — Clear Ledger · *Trained*
+### Distillation Seal: Clear Ledger · *Trained*
 
 **Trigger** · **Any request to verify, not to fix.**
 
@@ -261,7 +283,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Interactions** · The verification layer underlying every other technique's honest self-assessment. He runs it on himself before he runs it on anyone else.
 
-**Corruption vector** · An Obsession-Force version does not isolate the true signal. It decides in advance what the true signal will turn out to be.
+**Corruption vector** · An Obsession-Force version decides in advance what the true signal will turn out to be.
 
 **Counterplay** · Only as good as what is fed into it.
 
@@ -269,7 +291,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ## Later Additions
 
-*Three techniques drawn from wellsprings his ledger has always carried but never fully written down.*
+*Three techniques taken from Wellsprings his ledger has always carried but never fully written down.*
 
 ### Prior Draft · *Derived, Anamnesis-primary*
 
@@ -277,13 +299,13 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Function** · Reads not the current structural state, which is Sight Through the Glass's job, but **the training lineage behind a technique**: whose teaching it descends from, what school or bloodline shaped the hand that used it.
 
-**Mechanism** · Anamnesis Chronic Flow Mapping, scaled down from a whole soul's Wellspring cycle to a single technique's inherited pattern. **He is not reading the person. He is reading the inheritance.**
+**Mechanism** · Anamnesis Chronic Flow Mapping, scaled down from a whole soul's Wellspring cycle to a single technique's inherited pattern. **He reads the inheritance, and the person hardly comes into it.**
 
 **Numerical effect** · Identifies training lineage with meaningful confidence roughly 70% of the time against techniques with a documented teaching tradition. Genuinely self-taught or Signature-tier techniques return nothing usable.
 
 **Target response** · Opponents read this way sometimes report the specific unease of being told, accurately, who taught them, by someone who was never there.
 
-**Cost** · Negligible EU; real cognitive cost. Borrowed grief — a flash of someone else's training-yard memory that is not his and does not fully leave.
+**Cost** · Negligible EU; real cognitive cost. Borrowed grief: a flash of someone else's training-yard memory that is not his and does not fully leave.
 
 **Sensory** · No light, no sound. The only external sign is that his one lens fogs briefly, the way glass fogs from a breath that was not his.
 
@@ -305,24 +327,45 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 **Interactions** · Buys exactly enough time for The Proctor to finish stepping into position, if it has already been summoned.
 
-**Corruption vector** · An Obsession-Force version does not delay an attack's authorization. It denies it outright and indefinitely — Fixatio's own documented failure state, permanent lattice ossification, turned into a weapon.
+**Corruption vector** · An Obsession-Force version denies an attack's authorization outright and indefinitely: Fixatio's own documented failure state, permanent lattice ossification, turned into a weapon.
 
 ### Full Accounting · *Signature, Domain-scale capstone*
 
 **Gates** · Requires full Open Crucible Domain activation. Only usable within its 40-meter radius.
 
-**Trigger** · Both hands spread inside an active Domain. **No chant** — the Domain itself is already speaking for him at that scale.
+**Trigger** · Both hands spread inside an active Domain. **No chant**: the Domain itself is already speaking for him at that scale.
 
 **Function** · Calls the entire standing roster into synchronized Concordia coordination at once, sacrificing The Proctor's endurance and The Footnote's subtlety for a single overwhelming coordinated push: reconnaissance, suppression, extraction, and one decisive strike inside a continuous engagement.
 
-**Mechanism** · Legion Summoning at the edge of what Stage XII actually supports — four to five called forms in one Concordia network simultaneously rather than his usual limit of three. **This is exactly why it earns Signature status rather than Derived: it exists because of the specific ledger he has built over ten years, not because any Vocatia-Alchemetrica hybrid could reproduce it.**
+**Mechanism** · Legion Summoning at the edge of what Stage XII actually supports: four to five called forms in one Concordia network simultaneously rather than his usual limit of three. **This is exactly why it earns Signature status rather than Derived: it exists because of the specific ledger he has built over ten years, not because any Vocatia-Alchemetrica hybrid could reproduce it.**
 
 **Numerical effect** · Sustains full coordinated deployment for roughly 90 seconds before Concordia synchronization begins failing outright.
 
-**Target response** · Opponents facing it for the first time describe, afterward, the sense of having been fought by **a filing system rather than a person.**
+**Target response** · Opponents facing it for the first time describe, afterward, the sense of having been fought by **a scrivener's whole archive rather than a person.**
 > **Cost** · Roughly 45% of reserve in one working, the migraine-grade backlash of Sight Through the Glass running continuously for the full duration, and a hard multi-hour recovery window during which **nothing on the roster answers a second call.**
-**Sensory** · The Open Crucible's passive radius sharpens, briefly, into something with edges. Ink and hot copper and old parchment all at once — the smell of every Draft he has ever run, happening at the same time.
+**Sensory** · The Open Crucible's passive radius sharpens, briefly, into something with edges. Ink and hot copper and old parchment all at once: the smell of every Draft he has ever run, happening at the same time.
 
-**Corruption vector** · An Obsession-Force Full Accounting does not coordinate a network. **It conscripts one.**
+**Corruption vector** · An Obsession-Force Full Accounting **conscripts a network.**
 
 **Counterplay** · The technique's cost is also its counter. A fight that outlasts 90 seconds of coordinated pressure, or one that forces him to burn reserve on Sight Through the Glass beforehand, denies him the reserve to use it at all. Disrupting any single construct's Concordia link under pressure risks cascading the whole network's failure early.
+
+---
+
+## Numbers
+
+- **Reserve:** 850,000,000 EU. Standard construct 5–15%, roughly 42.5 to 127.5 million EU. Readiness under 3 seconds.
+- **Sustain:** three forms in Concordia network, a fourth at the price of Sight Through the Glass's clarity. Full Accounting runs four to five.
+- **The Marginal Note:** about 5%. About four minutes of flight, about 800 meters.
+- **The Proctor:** about 12%, about 1% a minute standing. Single impacts to about 8 gigajoules, one plate-failure per three such hits.
+- **The Corrective:** about 15%. Edge about 1400°C, contact radius 0.3–0.6 meters, dissolves after 4–6 seconds.
+- **The Understudy:** 8%. 60–70% of original output, once.
+- **The Footnote:** about 10%. Twenty to thirty moths, about a 15-meter radius, collapse past half lost.
+- **The Citation:** 6%. Diagnosed flaw reduced by about a third.
+- **The Redaction:** 10%. One array or ward to about Legion-tier complexity in under ten seconds of contact.
+- **The Index:** about 20% up front. Up to a week. Called perhaps a dozen times in his career.
+- **Sight Through the Glass:** Stage XII, Grade SS Gnosis. About 2% per use, a 40-second predictive window.
+- **Calcination Draft: Honest Fire:** burn radius 0.5–1.2 meters, about 1400°C at the face.
+- **Distillation Seal: Clear Ledger:** full resolution under 3 seconds.
+- **Prior Draft:** identifies training lineage about 70% of the time against a documented tradition.
+- **Sealed Ledger:** 0.4–0.6 seconds of delay against one Essence-based attack.
+- **Full Accounting:** about 45% in one working, about 90 seconds, 40-meter Domain radius.

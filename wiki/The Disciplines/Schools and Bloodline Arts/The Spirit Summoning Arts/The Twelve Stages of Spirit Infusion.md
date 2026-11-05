@@ -4,6 +4,26 @@ title: The Twelve Stages of Spirit Infusion
 
 # The Twelve Stages of Spirit Infusion
 
+Every academy yard in the Quarters skips rope to it, and the children have the curriculum down years before the instructors get to them:
+
+> *One takes two and two are dead,*  
+> *Two takes swift and leaves you lead,*  
+> *Three grows crooked, four forgets,*  
+> *Five's a child you can't beget*
+> *Twice; six moves in, and seven stays,*  
+> *Eight bleeds both and nine delays,*  
+> *Ten's for life, eleven's thin,*  
+> *Twelve says no and won't go in.*
+
+Mnirah Valein wrote four hundred pages on it and the rhyme has never been caught in an error.
+
+### THE TWELVE STAGES OF SPIRIT INFUSION (school art; the Valein curriculum)
+You can make your summon into anything if you climb the ladder in order, and every rung takes something from you and keeps it.
+
+The moves are the rungs, below, each with its own price: BASIC FUSION! TRAIT TRANSFER! LAYERED AMPLIFICATION! ELEMENTAL IMBUEMENT! HYBRID FUSION! CONCEPTUAL INFUSION! REACTIVE EVOLUTION! SYMBIOTIC LINK! MULTI-ENTITY FUSION! SPIRIT BINDING! OMNIPRESENT FORM! SPIRIT SOVEREIGN!
+
+## How It Really Works
+
 > The curriculum codified by **Mnirah Valein** during the Age of Deliberation, mapping summoning capability to the Coherence Ladder. It remains the standard progression across the Accord, and the Temperance Gates in current regulation are hers.
 Infusion governs what a summoner may do *to* a form once it has answered: merge, transfer, layer, redefine. Every rung takes something, which was Valein's actual argument and the part most academies now teach quickly and move past.
 
@@ -15,7 +35,7 @@ Infusion governs what a summoner may do *to* a form once it has answered: merge,
 
 Two forms merged into one stronger single. The first thing any student is shown and the last thing most of them ever need.
 
-**Cost** · Both originals end. Fusion is not a formation, it is a death and a birth.
+**Cost** · Both originals end. Fusion is a death and a birth, and no kind of formation.
 
 ### II · Trait Transfer
 
@@ -81,7 +101,7 @@ A form bound permanently as a familiar. It stops being a call and becomes a fact
 
 ### XI · Omnipresent Form
 
-A single presence tied to many locations simultaneously.
+A single presence tied to many locations simultaneously. The full account lives under [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Infinite Summoning Arts|Infinite Summoning]].
 
 **Cost** · Attention divides with the presence. The practitioner is not fully anywhere, including inside their own body.
 
@@ -96,5 +116,13 @@ The form becomes an independent avatar of overwhelming capability, holding its o
 ## What Nobody Knows
 
 > No one has explained why the rungs must be climbed in order. Practitioners who attempt VI before III fail reliably and cannot say what they failed at. Valein recorded the ordering as observed fact and declined, across four hundred pages, to offer a reason for it.
+
+---
+
+**Cost.** Whatever the rung names, and most of it does not come back.
+
+**Counter.** Fight the rung's own price: strike the visible asymmetry of an over-layered form, the beat of a role-switch, or the summoner through a Symbiotic Link.
+
+**Numbers.** Twelve rungs in three groups of four, gated by the Temperance Gates in current Accord regulation. Valein's surviving treatment runs four hundred pages.
 
 ---

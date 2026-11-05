@@ -1,22 +1,40 @@
 ---
-title: Hunter's Breath
+title: The Unfound Winter
 ---
 
-# Hunter's Breath
+# The Unfound Winter
 
-## Hunter's Breath
+*The rolls and the scholars keep Hunter's Breath. The doctrine is one line long: "Breathe like the winter, and nothing finds you."*
 
-### Summary card
+## THE UNFOUND WINTER (Hunter's Breath) (Silentia, Stage VI)
 
-**Effect · The practitioner inhales the cold and breathes out a mist that erases what he is to anything hunting by scent, heat, or Essence.** *In genuinely freezing ground, that is most of what hunts him.*
+Asta Skoll bred the finest man-tracking hounds north of the Scaur, big brindled brutes with red collars and pedigrees longer than a duke's, and she took her best twenty up the Ironfell after a certain hunter with half the valley's silver riding on the hunt. At the snowline he breathed out. A low white fog rolled across the slope, and all twenty hounds sat down in it, looked at her and looked embarrassed. Her Measurewright reported that the fellow's Essence had gone. Her trackers reported no heat and no scent. Then a goat-boy of about eight, who had come up to watch, pointed at the big obvious cloud in the middle of the bright clear morning and asked why nobody was looking at that.
 
-**Cost** · **Lung strain.** *The cold he draws in does not leave gently.*
+He breathes out cold, and everything that hunts by smell, heat or magic loses him.
 
-**Limit** · **Requires cold air to draw on.** *Vohrin's cold-law needs an existing gradient. It does not manufacture one from nothing.*
+THE UNFOUND WINTER! Inhale the cold, hold, and let out a mist that rolls fifteen meters along the ground.
 
-**Counter** · **A thermal-inversion field lifts the mist off the ground before it can spread, and a practitioner reading by chorus-sensed presence rather than heat, scent or Essence-trace is not fooled by any of it.**
+THE SCRUBBED AIR! Anything hunting by scent, heat or Essence finds the signal about halved, and the air smells of nothing.
 
-**What nobody knows** · Whether the mist masks him from Vohrin's own attention, or only from everything smaller than a Titan.
+LOW AND SLOW! Cold air is dense, so he works the hollows and lets the mist pour downhill ahead of him.
+
+### How it really works
+
+He makes the room louder, in the bands that were listening. A cold scattering fog raises the background noise, so his heat, scent and Essence trace fall below what a hunter can pick out. The laws are Beer–Lambert for the fog, I/I₀ = e^(−βL), with β ≈ 3·LWC / (2·ρ_w·r), and for the cold a heat pump's minimum work, W = Q·ΔT / T_c. The pump needs an existing gradient: in cold air the heat is cheap to move, in warm air it costs seven and a half times as much and the mist cannot spread. Eyesight is never touched, and the goat-boy has made his point. Physics does the rest. Cold air is dense, so the mist hugs the ground; a saturated aerosol scrubs smells; 376 W of body heat stops standing out; and a thermal inversion lifts the mist.
+
+The glyphs are Silence across Boundary: Silence is the whole content, Boundary fixes the fifteen-meter edge. The boundary is the noise floor in the heat, scent and Essence-trace bands inside a fifteen-meter hemisphere, and his own emissions stay exactly what they were. Below Refraction, breath is the anchor, the inhale and the held exhale. The mist itself is plainly visible, an arrow to anyone with a lantern.
+
+Aether is pulled thin and low across 7,069 m³. Limina wants dark, empty ground, while Caloria fails in thermal equilibrium and saturated cold, so it works only in cold air still warmer than the mist. Residue is slight, rime and a scrubbed smell. Tenebra, the Hidden Shadow (Limina), says a thing is undetectable when its return falls below the watcher's noise floor, by absorbing energy and shaping surfaces to send reflections elsewhere; it gives Dexterity Feint, Harmonics Suppression and Dominion Sense. Vohrin (Caloria), one power at two levels, Titan and Wellspring, is taken here as Titan-derived: its cold-law runs a pump on an existing gradient and never makes one, and the Titan level likely raises the working's standing and cost. Tenebra's aspect dependence is the inherited failure: an observer from an unplanned direction, or with an unplanned sense, sees a bright return.
+
+The Aether Shell pays: its faceting is projected into the mist's surface, so heat and Essence signature drop into the noise together. The lungs are the heat sink, and Vitality Tolerance answers for it; the check stiffens with every use in a night and clears only with rest. Developmental Tier Harmonic at Glory. Boundary fault: a chorus-sensed or spirit-registering read was never inside the three bands and passes untouched. Field fault: in warm air the working is correct and makes almost nothing. Forty-five percent leaves the Shell as heat and sound inside the very cloud meant to bury it, so the mist holds only while cold and dense enough to swallow its maker's waste.
+
+The atomists hold that bodies shed thin films of themselves, so concealment means ceasing to shed. They rightly read this art as drowning what is shed, but wrongly expect it to hide from eyes, and their hunters walk through it believing themselves unseen.
+
+> **What nobody knows.** Whether the mist masks him from Vohrin's own attention, or only from everything smaller than a Titan.
+
+**Cost.** Four percent of full reserve to raise in cold air, one a turn to hold, and lungs that get worse with every use in a night.
+
+**Counter.** Warm the air, lift the mist with a thermal inversion, read him by chorus or spirit sense, or use your eyes and shoot into the cloud.
 
 ### Codex line
 
@@ -54,17 +72,21 @@ title: Hunter's Breath
 
 Self-derived by its author during the Vorynn Trials. The problem it answers is the one that author's philosophy states: a solitary hunter working open, cold ground is found by scent, heat, or Essence trace before he ever closes the range he needs. "Breathe like the winter, and nothing finds you."
 
----
+### Counterplay
+
+**Tell** · A cold cloud fifteen meters across, hugging the ground where the air was clear; the practitioner is inside it. Afterward, rime and air that smells of nothing.
+
+**Limits** · Needs cold air, fifteen meters, sight unaffected, held through the exhale, overwhelmed by a warm or radiant Domain, Essence-trace suppression capped at B on the Body Path; it conceals and stops nothing.
+
+**Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
+
+**Look up** · Tenebra's aspect dependence in the Limina entries; Vohrin among the Caloria entries and the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
+
+## Numbers
+
+**Bleed** · 45 percent leaves the Shell as heat and sound inside the very cloud meant to bury it, so the mist holds only while cold and dense enough to swallow its maker's waste.
 
 ### Physics
-
-**Phenomenon** · A cold scattering fog that raises the background noise, so the practitioner's heat, scent and Essence trace fall below what a hunter can pick out; it makes the room louder in the bands that were listening, not the practitioner quieter.
-
-**Law** · Beer–Lambert, I/I₀ = e^(−βL), for the fog, with β ≈ 3·LWC / (2·ρ*w·r); and for the cold, a heat pump's minimum work W = Q·ΔT / T*c.
-
-**Limit** · The pump needs an existing gradient: in cold air the heat is cheap to move, in warm air it costs seven and a half times as much and the mist cannot spread. Eyesight is never touched.
-
-**Physics does the rest** · Cold air is dense, so the mist hugs the ground; a saturated aerosol scrubs smells; 376 W of body heat stops standing out; a thermal inversion lifts the mist.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -75,38 +97,6 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 | Heat moved | 2.5 kg of water to ice plus 10 K of air | about 94 MJ |
 | Minimum work, cold air at 263 K | coefficient 26.3 | 3.6 MJ |
 | Minimum work, warm air at 293 K | coefficient 9.8, load tripled | 27 MJ, 7.5 times more |
-
-### Metaphysics
-
-**Aether** · Drawn thin and low across 7,069 m³; Limina wants dark, empty ground, while Caloria fails in thermal equilibrium and saturated cold, so it works only in cold air still warmer than the mist. Residue is slight: rime and a scrubbed smell.
-
-**Wellspring** · Tenebra, the Hidden Shadow (Limina): a thing is undetectable when its return falls below the watcher's noise floor, by absorbing energy and shaping surfaces to send reflections elsewhere.
-
-**Wellspring** · Vohrin (Caloria), one power at two levels, Titan and Wellspring, drawn here as Titan-derived: its cold-law runs a pump on an existing gradient and never makes one; the Titan level likely raises the working's standing and cost.
-
-**Inherited failures** · Tenebra's aspect dependence: an observer from an unplanned direction, or with an unplanned sense, sees a bright return.
-
-**Sub-Stats** · Dexterity Feint, Harmonics Suppression, Dominion Sense.
-
-**Essence** · The Aether Shell pays: its faceting is projected into the mist's surface, so heat and Essence signature drop into the noise together. The lungs are the heat sink, and Vitality Tolerance answers for it. Developmental Tier Harmonic at Glory.
-
-**School** · The atomists hold that bodies shed thin films of themselves, so concealment means ceasing to shed; they rightly read this as drowning what is shed, but wrongly expect it to hide from eyes, and their hunters walk through it believing themselves unseen.
-
-### Mechanism
-
-**Glyph** · Silence laid across Boundary: Silence is the whole content, Boundary fixes the fifteen-meter edge.
-
-**Boundary** · The noise floor in the heat, scent and Essence-trace bands inside a fifteen-meter hemisphere; not the practitioner's emissions.
-
-**Effect** · A fifteen-meter cold front on the ground and the sudden loss of a read: anything hunting by scent, heat or Essence finds the signal about halved. The mist itself is plainly visible, an arrow to anyone with a lantern.
-
-**Hold** · Below Refraction, breath is the anchor: the inhale and the held exhale.
-
-**Failure** · Boundary fault: a chorus-sensed or spirit-registering read was never inside the three bands and passes untouched. Field fault: in warm air the working is correct and makes almost nothing.
-
-**Strain** · Each casting strains the lungs; the Vitality Tolerance check stiffens with every use in a night and clears only with rest.
-
-**Bleed** · 45 percent leaves the Shell as heat and sound inside the very cloud meant to bury it, so the mist holds only while cold and dense enough to swallow its maker's waste.
 
 ### Essence
 
@@ -122,16 +112,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 | Cost, ten turns in cold air | 4% + 10 × 1% | 14% of reserve |
 | Reserve covers | 90% ÷ (4% + 3 × 1%) | about twelve mists held three turns |
 
-**Cost** · 4 percent of full reserve to raise in cold air, then 1 percent each six-second turn held; plus lung strain.
+**Cost in full** · 4 percent of full reserve to raise in cold air, then 1 percent each six-second turn held; plus lung strain.
 
 **Duration** · While the exhale is held and the air stays cold; ten turns is 60 seconds.
 
-### Counterplay
-
-**Tell** · A cold cloud fifteen meters across, hugging the ground where the air was clear; the practitioner is inside it. Afterwards, rime and air that smells of nothing.
-
-**Limits** · Needs cold air, fifteen meters, sight unaffected, held through the exhale, overwhelmed by a warm or radiant Domain, Essence-trace suppression capped at B on the Body Path; it conceals and stops nothing.
-
-**Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
-
-**Look up** · Tenebra's aspect dependence in the Limina entries; Vohrin among the Caloria entries and the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.

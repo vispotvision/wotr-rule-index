@@ -4,6 +4,23 @@ title: The Spirit Rune Arts
 
 # The Spirit Rune Arts
 
+The Long Loaf of Mothwick began as a favor. Ibbot Rushlight, baker, paid an apprentice cutter a week's bread to carve a small Verdantia rune into the bed of her oven so that her dough would rise in the cold months. It was a pretty rune, with clean Authorization and a good Direction, and it had no Boundary, because the apprentice left before the last strokes to go to a fair. The Tuesday batch rose and kept rising. By Thursday the loaf had the oven door off. By the following Sunday it had the bakery, a golden dome the size of a tithe barn with a crust you could walk on, smelling better than anything anyone in Mothwick had ever smelled, and the whole town came with knives and baskets, and then the next three towns did, and a minstrel got four verses out of it before the week was done. By midsummer it had reached the church and was lifting the east wall, and nobody was singing anymore. It took seven cutters and a Guild master nineteen days to tunnel down through the warm bread to the oven and cut what the boy had left uncut. There is still a lump of it in a brick-lined pit under the square, trimmed every Michaelmas by a hereditary officer of the town, and the apprentice, who went on to a long career, has never been allowed to buy his own drink there or anywhere else in the district.
+
+### THE SPIRIT RUNE ARTS (school discipline; Glyphica)
+Whatever they carve keeps happening, long after they have gone home or died.
+
+WARD-MARK! One cut on your lintel, and what you hired it against stops at your door for three hundred years.  
+THE FIFTH SIGIL! Five sounds cut into a dying patient that read what the patient is first, and then hold the Crystal together.  
+LIVING RUNE! Strength written on the bone, which wakes by itself when the bearer's body smells a fight, asleep or not.  
+RECURSIVE ARRAY! A ring of carvings that feeds itself, gets stronger with every turn, and sooner or later takes the hill with it.  
+ETCHED PORTAL! A doorway cut in stone, through which things already promised walk out with no summoner in the room.  
+THE SILENCE SEAL! They cut your name out of the world, and nothing can call you, find you or be sure you were here.  
+THE TENFOLD CIRCUIT! Ten carvings in a loop that compress years of climbing into weeks, and it worked, and it killed the man who built it.  
+
+On a Guild roll this person is an Engraver or a Runesmith. In the street she is a cutter, and the ward-cutter tapping at your lintel is the same art at its humble end, paid by the glyph, who may leave the last stroke uncut until your balance is settled.
+
+## How It Really Works
+
 > A spell is a sentence **spoken**. A rune is a sentence **written**. The medium changes. The grammar does not.
 
 | **Primary Category** | Glyphica (Spirit-Aligned) |
@@ -19,7 +36,7 @@ Every act of structured magic passes through Glyphica. In most casting this synt
 
 The Spirit Rune Arts make Glyphica permanent.
 
-An Engraver takes the same Parunic sentence a caster would speak and carves it into matter: stone, metal, bone, crystal, alchemically prepared wood, or in the most advanced cases directly into the Aether Shell or Soul Crystal lattice of a living being. The inscription becomes a **standing instruction** to the Continuum. As long as the substrate retains enough Essence coherence to maintain the carving, the authorized Wellspring process remains active. It does not need to be re-cast. It does not need the Engraver's attention. It persists because the Continuum reads it the way a reader reads a sentence left on a page: **the author can leave, but the meaning remains legible.**
+An Engraver takes the same Parunic sentence a caster would speak and carves it into matter: stone, metal, bone, crystal, alchemically prepared wood, or in the most advanced cases directly into the Aether Shell or Soul Crystal lattice of a living being. The inscription becomes a **standing instruction** to the Continuum. As long as the substrate retains enough Essence coherence to maintain the carving, the authorized Wellspring process remains active. It needs no re-casting and none of the Engraver's attention, and it persists because the Continuum reads it the way a reader reads a sentence left on a page: **the author can leave, but the meaning remains legible.**
 
 A ward-glyph carved into a fortress wall by a Runesmith who died three centuries ago still suppresses hostile Essence if the stone has not degraded below its retention threshold. A binding sigil inscribed into a relic's core still holds its prisoner if the Sealing glyphs remain unbroken. A living rune etched into a warrior's bone still redirects Aether flow through their body even when they are unconscious, because the instruction is written into the substrate, not sustained by the will.
 > This permanence is the art's greatest power and its most dangerous liability. A spoken spell misfires and dissipates. **A written rune misfires and keeps misfiring**, potentially for generations, until someone finds and breaks the inscription. The Continuum does not distinguish between a rune written with careful intent and a rune written with a structural error. It reads what is written. **It executes what it reads.**
@@ -44,11 +61,11 @@ Most runic accidents begin here. **A transformation without limits continues unt
 
 Specifies vector and focus. Without it, a Cinerion rune burns indiscriminately and a Sublimare rune strips every Essence type including what was meant to remain.
 
-In arrays, Direction also governs flow: which rune activates first, which feeds into which, how the circuit resolves when multiple processes operate simultaneously. A poorly directed array does not just fail. It creates interference patterns between its own elements, producing **Draft Corruption**: law-fragments, Wellspring processes started but not completed, which keep trying to finish themselves in whatever they contact.
+In arrays, Direction also governs flow: which rune activates first, which feeds into which, how the circuit resolves when multiple processes operate simultaneously. A poorly directed array fails and also creates interference patterns between its own elements, producing **Draft Corruption**: law-fragments, Wellspring processes started but not completed, which keep trying to finish themselves in whatever they contact.
 
 ### Sealing
 
-Closes the inscription to contamination and drift. Draws heavily on Fixatio chains, which is why Fixatio harmonization is the foundational Wellspring for all serious runic work.
+Closes the inscription to contamination and drift. Leans heavily on Fixatio chains, which is why Fixatio harmonization is the foundational Wellspring for all serious runic work.
 
 An unsealed rune is an open wound in the local Aether field. Environmental Essence bleeds into it. Nearby workings contaminate it. The Continuum attempts to resolve the open syntax, sometimes by completing it in ways the Engraver never intended. **Unsealed runes are the leading cause of runic hauntings**: locations where a rune's unfinished sentence has been completed by ambient Wellspring pressure into something the original inscriber would not recognize.
 
@@ -62,11 +79,11 @@ Parunic syntax written into matter inherits the material's Essence retention pro
 |---|---|---|---|
 | **Mineral** stone, crystal, metal, refined ore | High | Law frozen in place: reliable, enduring, and inflexible. A rune carved into granite holds for millennia if the stone is not fractured. | Cannot modify its own behavior in response to changing conditions |
 | **Organic** wood, bone, hide, sinew, preserved tissue | Moderate | Responds to the body's Essence circulation, flexing output in rhythm with the bearer's Shell. Ideal for personal enhancement, medical stabilization, combat augmentation. | Organic matter decays. When the substrate loses coherence, the Continuum stops reading it |
-| **Alchemical** Draft-prepared materials, Heartstones | Very high | The intersection of Alchemy and Glyphica. A **Heartstone** — crystallized Wellspring Essence sealed during containment — inscribed with compatible syntax becomes a **self-powering rune**, drawing on the crystallized process to sustain itself indefinitely. | Reserved in practice to Accord ward-networks, enforcement seals, and city foundations |
-| **Aetheric** the Shell, lattice, or Attraction Layer of a living being | Permanent while the bearer lives | No material anchor. Functionally indistinguishable from a Trait at the level the Continuum reads it. The difference is origin: a Trait emerges organically; an Aetheric rune is imposed from outside. | **Resonance Shear** — two patterns competing for the same lattice space, producing instability, Trait flickering, and in severe cases Crystal cracking |
+| **Alchemical** Draft-prepared materials, Heartstones | Very high | The intersection of Alchemy and Glyphica. A **Heartstone** (crystallized Wellspring Essence sealed during containment) inscribed with compatible syntax becomes a **self-powering rune**, feeding on the crystallized process to sustain itself indefinitely. | Reserved in practice to Accord ward-networks, enforcement seals, and city foundations |
+| **Aetheric** the Shell, lattice, or Attraction Layer of a living being | Permanent while the bearer lives | No material anchor. Functionally indistinguishable from a Trait at the level the Continuum reads it. The difference is origin: a Trait emerges organically; an Aetheric rune is imposed from outside. | **Resonance Shear**: two patterns competing for the same lattice space, producing instability, Trait flickering, and in severe cases Crystal cracking |
 
 > **Substrate resonance.** Basalt resonates with Coagula and Fixatio. Quartz amplifies Fractura and Luminalis. Iron conducts Manganthra and Aurevane. Gold carries Benediction and Sublimatio. Obsidian holds Tenebra and Oblivara. An Engraver who inscribes a Verdantia healing rune into obsidian is fighting the substrate's natural resonance, and the rune degrades faster than the same inscription in living wood or warm stone.
-**Bone** is the preferred medium for living runes. Its proximity to the Essence Core gives the inscription access to the bearer's own harmonization, allowing the rune to draw power from their circulation rather than an external source. The cost: a living rune carved into bone **becomes part of the bearer's Soul Crystal architecture**. Removing it requires Crystalia intervention, not simply chiselling it out.
+**Bone** is the preferred medium for living runes. Its proximity to the Essence Core gives the inscription access to the bearer's own harmonization, allowing the rune to take power from their circulation rather than an external source. The cost: a living rune carved into bone **becomes part of the bearer's Soul Crystal architecture**. Removing it requires Crystalia intervention, not simply chiseling it out.
 
 ---
 
@@ -83,16 +100,16 @@ flowchart TD
     S -.-> L
     R -.->|"insufficient Boundary"| X["EXPONENTIAL RUNAWAY<br>detonation, substrate failure,<br>or forced Wellspring severance"]
 ```
-**Simple Runes** · A single Parunic sentence in a single substrate. Ward-marks on doors, strengthening glyphs on weapons, stability sigils on load-bearing walls, identification marks on Accord credentials. One function, minimal Essence demand, predictable degradation.
+**Simple Runes** · A single Parunic sentence in a single substrate. Ward-marks on doors, strengthening glyphs on weapons, stability sigils on load-bearing walls, identification marks on Accord warrants. One function, minimal Essence demand, predictable degradation.
 
 **Compound Runes** · Multiple sentences in one substrate, each addressing a different aspect of the same function. A compound healing rune might combine a Benediction Authorization, an Anima Spirare Direction, and a Fixatio Seal. More powerful, but incompatible Wellsprings forced into the same substrate without mediation glyphs create **Rupture Events**.
 
-**Runic Arrays** · Multiple runes across multiple substrates, connected by Directional flow chains into a single circuit. The **Measurewrights**, the Thalen-aligned guild of architect-engravers, maintain hexagonal Grid-arrays beneath major cities: subterranean sigil-frameworks that distribute Essence stress and prevent Realm-quakes. Ward-networks protecting fortress complexes operate as arrays. Hospital recovery fields use array architecture to synchronize Benediction, Anima Spirare, and Verdantia runes into a single restorative environment. Array work requires Harmonia expertise; poorly calibrated arrays produce interference patterns that degrade every rune in the circuit.
+**Runic Arrays** · Multiple runes across multiple substrates, connected by Directional flow chains into a single circuit. The **Measurewrights**, the Thalen-aligned guild of architect-engravers, cut hexagonal Grid-arrays by hand into the footings of the great cities, one city and one master at a time, sigil-frameworks that distribute Essence stress and prevent Realm-quakes, and they are paid by the job and will tell you what the last job cost. Ward-networks protecting fortress complexes operate as arrays. Infirmary recovery fields use array architecture to synchronize Benediction, Anima Spirare, and Verdantia runes into a single restorative environment. Array work requires Harmonia expertise; poorly calibrated arrays produce interference patterns that degrade every rune in the circuit.
 > **Recursive Arrays** feed their own output back into their input, creating a self-sustaining loop that amplifies or refines its function with each cycle. They do not generate infinite power, but they reduce external Essence demand to near-zero by recycling their own output as fuel.
 >
 > The danger is escalation. Each cycle adds power. Each addition increases the next cycle's output. The result is exponential runaway: the array reaches catastrophic Essence density and detonates, or the substrate fails under mounting pressure, or the Continuum intervenes by forcing a Wellspring severance **that leaves the location Withered.**
 >
-> Regulated under Accord law. Construction requires certification, Boundary verification by independent Engravers, and periodic inspection of Sealing integrity.
+> Regulated under Accord law. Construction requires a Guild license, Boundary verification by independent Engravers, and a sworn searcher's periodic reading of Sealing integrity.
 **Living Runes** · The closest the art comes to Trait engineering. A living strengthening rune increases output when the bearer's Shell registers combat stress. A living healing rune activates on detecting injury-pattern fluctuation. Forced removal, by cutting, burning, or overwriting without Crystalia precision, causes Crystal cracking, Trait corruption, and in severe cases **partial identity collapse** as the Crystal loses coherence in the damaged region.
 
 ---
@@ -108,20 +125,33 @@ Each phoneme carries a meaning the Continuum reads as an operational instruction
 | **Force** | `Se` Fire · `Ir` Endurance · `Ka` Cycle · `Zo` Echo · `Fi` Passion · `Ae` Sound |
 | **Negation and Limit** | `No` Negation · `Tar` Weight/Consequence · `Sa` Silence · `Si` Binding/Sentence |
 | **Temporal** | `Va` Moment · `Len` Line/Sequence · `Cro` Cycle with Variation · `Ae` Era |
-| **Dangerous** · restricted under Accord regulation | `El` Illusion — creates perceptual distortion the Continuum sustains indefinitely · `Zu` Decay — accelerates entropy in its target · `No` Negation — negates existence within its Boundary, and with insufficient Boundary glyphs can erase substrate, surroundings, and Engraver alike |
+| **Dangerous** · restricted under Accord regulation | `El` Illusion: creates perceptual distortion the Continuum sustains indefinitely · `Zu` Decay: accelerates entropy in its target · `No` Negation: negates existence within its Boundary, and with insufficient Boundary glyphs can erase substrate, surroundings, and Engraver alike |
 
 Sentences are constructed by chaining phonemes in role-order. A Benediction healing rune might read **Ma-Ur-Ie** (Authorization: memory-balanced, insight-guided permission) + **Ky-Al** (Boundary: structured edge) + **Ra-Ka** (Direction: transcendent cycling, repeating until the target stabilizes) + **Ci-Ir** (Sealing: ordered endurance, locking against drift).
 > The elegance of a rune is measured by its **economy**. A masterwork inscription achieves its full function with the fewest phonemes possible. Excess phonemes create noise: additional invocations the Continuum must resolve, each one a potential point of failure.
 
 ---
 
+## The Clubs
+
+Every cutter in the Quarters will tell you the other shops cut crooked. Bills go up on doors when a rival's ward fails, hand-copied in very good letters, and the songs are mostly about measurements.
+
+| School | Colors | The song | What you see at fifty paces | The grudge |
+|---|---|---|---|---|
+| **The Measurewrights** | Blue coats with brass buttons, a six-sided oath-pin | *Six Sides*, a slow counting song under the Hexagonal Oath | A plumb line out before the greeting is finished, and an argument with the wall | The ward-cutters of every city, who undercut them by the glyph, and each other, always |
+| **Yorul's Lads** | Bare forearms, white chalk over the scars | *Cut It Deeper*, a drinking song with a very long list of the dead in it | Living runes showing through the skin in the fight's first minute, and more swagger than the casualty roll supports | The physicians, and the Fifth Sigil, who have to mend them |
+| **The Fifth Sigil** | Infirmary green, five knots at the belt | A hymn of five phrases, sung at bedsides with the chalk already out | They look at you for a long moment before they touch anything | Yorul's Lads, for the work they bring in, and any shop that activates before it reads |
+| **The Veydrun Covenant** | Black, with a blank patch where the name would go | Nobody has been let to hear it twice | You do not, and later somebody asks you who you were talking about | Everyone who has ever asked what happened to the name on the old lintel |
+
+---
+
 ## Key Figures
 
-**Kessian Yorul** · A Runesmith of the Age of Deliberation who pioneered living rune inscription into bone. Before Yorul, runic practice was exclusively substrate-external. His breakthrough was recognizing that bone, as the structural core nearest the Essence Core's radiation field, could serve as a medium drawing Authorization directly from the bearer's own harmonization. This eliminated the need for external Essence sources and allowed the rune to adapt to the bearer's state. His early experiments produced as many casualties as successes. **The modern Living Rune certification process exists because Yorul's failures demonstrated, through tragedy, exactly what happens when an inscription conflicts with the host Crystal's Trait architecture.**
+**Kessian Yorul** · A Runesmith of the Age of Deliberation who pioneered living rune inscription into bone. Before Yorul, runic practice was exclusively substrate-external. His breakthrough was recognizing that bone, as the structural core nearest the Essence Core's radiation field, could serve as a medium taking Authorization directly from the bearer's own harmonization. This eliminated the need for external Essence sources and allowed the rune to adapt to the bearer's state. His early experiments produced as many casualties as successes. **The present Living Rune license exists because Yorul's failures demonstrated, through tragedy, exactly what happens when an inscription conflicts with the host Crystal's Trait architecture.**
 
-**Eira of the Fifth Sigil** · A Harmonizing Engraver whose reputation was forged during the Pyrrhean Epidemic, when corrupted Wellspring discharge destabilized Soul Crystals across an entire province. She designed restorative arrays combining Benediction, Anima Spirare, and Fixatio into compound inscriptions applied directly to the afflicted, stabilizing fractured lattices long enough for natural Temperance to reassert and preventing thousands of Crystal collapses. **The Fifth Sigil** — a five-phoneme compound rune, `Ur-Ma-Ra-Ir-Ci` — remains the standard emergency stabilization inscription taught in Accord medical training. Her real contribution was not raw power but diagnostic precision: she demonstrated that a rune designed to **read the patient's Essence Typology before activating** could avoid the compatibility failures that had plagued earlier healing inscriptions.
+**Eira of the Fifth Sigil** · A Harmonizing Engraver whose reputation was forged during the Pyrrhean Epidemic, when corrupted Wellspring discharge destabilized Soul Crystals across an entire province. She designed restorative arrays combining Benediction, Anima Spirare, and Fixatio into compound inscriptions applied directly to the afflicted, stabilizing fractured lattices long enough for natural Temperance to reassert and preventing thousands of Crystal collapses. **The Fifth Sigil** (a five-phoneme compound rune, `Ur-Ma-Ra-Ir-Ci`) remains the standard emergency stabilization inscription taught in Accord medical training. Her real contribution was diagnostic precision more than raw power: she demonstrated that a rune designed to **read the patient's Essence Typology before activating** could avoid the compatibility failures that had plagued earlier healing inscriptions.
 
-**High-Runist Aro Valdred** · Grandmaster of the **Tenfold Circuit**, a ten-node recursive array in which each node's output fed into the next node's Authorization layer, creating a self-amplifying resonance loop. Valdred theorized it could compress years of Temperance development into weeks of sustained runic amplification. **The technique worked. It also killed him.** The Circuit's recursive amplification exceeded the Boundary glyphs he had inscribed, and the escalating pressure fractured his Soul Crystal from within. The Tenfold Circuit is now a lost art, not because the design was destroyed but because the Accord declared it a Mechanica-adjacent hazard and sealed all surviving documentation.
+**High-Runist Aro Valdred** · Grandmaster of the **Tenfold Circuit**, a ten-node recursive array in which each node's output fed into the next node's Authorization layer, creating a self-amplifying resonance loop. Valdred theorized it could compress years of Temperance development into weeks of sustained runic amplification. **The technique worked. It also killed him.** The Circuit's recursive amplification exceeded the Boundary glyphs he had inscribed, and the escalating pressure fractured his Soul Crystal from within. The Tenfold Circuit is now a lost art: the design survives, but the Accord declared it a Mechanica-adjacent hazard and sealed all surviving documentation.
 
 **The Veydrun Covenant** · A secretive Innerworld order specializing in suppression and containment. They use Destruction inscriptions built on Hametsu-aligned Wellsprings (Fractura, Cataclysm, Nihiloth) and Binding inscriptions built on Coagula, Fixatio, and Coagulatio to suppress rogue spiritual entities, contain corrupted discharge, and neutralize Mechanica artifacts. Sanctioned by the Concord under emergency containment law, though their operational secrecy and willingness to use Wellsprings from the House of the Hollow and the House of the Black Gate place them at the ethical boundary of lawful practice.
 
@@ -135,10 +165,22 @@ Inscription predates formal Glyphica codification. The earliest known runes, car
 
 Formalization followed the recognition that the Continuum's behavior was **grammatical**. It read inscriptions the way a mind reads sentences: Authorization told it who was speaking, Boundary told it where the sentence applied, Direction told it what was being said, and Sealing told it when the sentence was finished. Once this grammar was understood, runic inscription transformed from folk art into engineering.
 
-During the **Era of Grace**, Runesmiths became essential to civilization. Ward-networks in city walls, stabilization arrays in hospital floors, strengthening runes in bridge foundations, identification sigils in legal documents. **Runic practice was infrastructure. It was medicine. It was law made permanent in stone.**
+During the **Era of Grace**, Runesmiths became essential to civilization. Ward-networks in city walls, stabilization arrays in infirmary floors, strengthening runes in bridge foundations, identification sigils in legal documents. **Runic practice held up the bridges, kept the sick alive, and made law permanent in stone.**
 
-The **Age of Calamity** militarized the art. Destruction runes built on Fractura, Exuroth, and Cataclysm were inscribed into fortification walls as automated defensive systems. Binding runes became the primary containment method for captured aberrations. Summoning runes, hybrid inscriptions combining Glyphica with Vocatia-compatible Authorization chains, enabled **etched portals**: permanent inscription sites from which pre-authorized spiritual presences could be invoked without a summoner's active participation.
-> The post-Calamity regulation era introduced the certification and inspection frameworks that now govern runic practice across Accord territories. **The irony persists: the art that writes law into matter is now the art most bound by law written on paper.**
+The **Age of Calamity** militarized the art. Destruction runes built on Fractura, Exuroth, and Cataclysm were inscribed into fortification walls as standing defenses that fired with no hand on them. Binding runes became the primary containment method for captured aberrations. Summoning runes, hybrid inscriptions combining Glyphica with Vocatia-compatible Authorization chains, enabled **etched portals**: permanent inscription sites from which pre-authorized spiritual presences could be invoked without a summoner's active participation.
+> The post-Calamity regulation era introduced the licenses and sworn searches that now govern runic practice across Accord territories. **The irony persists: the art that writes law into matter is now the art most bound by law written on paper.**
+
+---
+
+**Cost.** Years of real harmonization before you may lawfully write a word, Fixatio above all, and a mistake that keeps happening with your name on it; a living rune also moves into your Crystal for good.
+
+**Counter.** Break the stone, let organic substrate rot, read the Boundary and walk around it, or crack the Sealing and let the Continuum finish the sentence in its own way, at a distance you have paced out first.
+
+**Numbers.**
+- Ward-glyph holding three centuries after its maker's death; a rune in unfractured granite holds for millennia.
+- Retention: Mineral high, Organic moderate, Alchemical very high, Aetheric permanent while the bearer lives.
+- The Fifth Sigil: five phonemes, `Ur-Ma-Ra-Ir-Ci`. The Tenfold Circuit: ten nodes, years of Temperance compressed into weeks.
+- Sample chain: Ma-Ur-Ie (Authorization), Ky-Al (Boundary), Ra-Ka (Direction), Ci-Ir (Sealing).
 
 ---
 

@@ -6,7 +6,11 @@ title: The Disciplines
 
 # The Disciplines
 
-> The Families say what a working draws on. The Wellsprings say what law it obeys. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul** — and they differ from one another less in power than in the direction the force travels.
+The four great schools have marched in a fixed order at the Founders' Fair in Quillon Cross for a hundred and six years, and for a hundred and six years the order has been a fight waiting on a drum. In the year the Cantic precentor claimed the head of the column by seniority, the Sages arrived behind a walking hedge in full pink bloom and declined to go around anybody. The rune-cutters, in their brass-buttoned blue, chalked a Boundary across the high road and dared the hedge to read it. The summoners, in twelve-striped scarves, sent a nine-foot eidolon of a very angry heron to settle the matter, and four hundred Cantics in kingfisher blue sang at its knees in eight parts until the knees came apart. It took four hours and two wagons of trodden marigolds to stop. A Moto toll clerk in undyed hemp, who had come to the fair about a bridge fee, walked the length of the brawl without hurrying and told the nearest marshal that all four parties were performing a labor somebody else had assigned them, and that the order of march was therefore of no interest. Somebody hit him with a drum. He was also correct, and this shelf is the long form of what he said.
+
+**Everyone's magic is one power, and the quarrel is over which way it runs: out of you, in through you, or through you because something older said so.**
+
+> The Families say what a working pulls on. The Wellsprings say what law it obeys. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul**, and they differ from one another less in power than in the direction the force travels.
 >
 > *"The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline."*
 
@@ -19,21 +23,21 @@ Most magic in the Continuum is **projective**. A caster pushes Essence outward t
 The disciplines below do not all agree on that arrangement.
 ```mermaid
 flowchart LR
-    subgraph P["PROJECTIVE — the practitioner is the origin"]
+    subgraph P["PROJECTIVE: the practitioner is the origin"]
         direction TB
         R["SPIRIT RUNE ARTS<br>practitioner → substrate → permanence<br>a sentence written rather than spoken"]
-        S["SPIRIT SUMMONING ARTS<br>practitioner → externalised presence<br>a fragment of the soul given autonomy"]
+        S["SPIRIT SUMMONING ARTS<br>practitioner → externalized presence<br>a fragment of the soul given autonomy"]
     end
-    subgraph RC["RECEPTIVE — the world is the origin"]
+    subgraph RC["RECEPTIVE: the world is the origin"]
         direction TB
         SG["SAGE ARTS<br>terrain → practitioner → direction<br>the land is the caster"]
         H["HARMONIC ARTS<br>world → practitioner → corrected tone<br>listening and acting share one channel"]
     end
     subgraph F["PRIOR TO BOTH"]
-        HK["Hataraki<br>the labour by which existence<br>is maintained, classified and corrected"]
+        HK["Hataraki<br>the labor by which existence<br>is maintained, classified and corrected"]
     end
-    HK -.->|"authorises"| P
-    HK -.->|"authorises"| RC
+    HK -.->|"authorizes"| P
+    HK -.->|"authorizes"| RC
 ```
 
 ---
@@ -41,9 +45,9 @@ flowchart LR
 ## The Taxonomic Categories
 
 Every named discipline in the Continuum decomposes into these categories. A discipline is rarely one of them. It is usually a braid of three or four, with an apex integration at the top that only the highest Temperance can hold together.
-> **The table below is the working summary. The full taxonomy — twenty-six categories with alignment reasoning, failure modes and worked examples — lives here:**
+> **The table below is the working summary. The full taxonomy (twenty-six categories with alignment reasoning, failure modes and worked examples) lives here:**
 >
-> The Magical Categories — Unified Taxonom
+> [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom]]
 >
 > Eleven categories appeared on this page and twenty in the source taxonomy; the two have been merged there, and six further categories are proposed and flagged pending ruling. **Edit the taxonomy page. This table is a pointer.**
 
@@ -51,14 +55,14 @@ Every named discipline in the Continuum decomposes into these categories. A disc
 |---|---|---|
 | **Glyphica** | Spirit | The Parun-based language of law by which the Continuum recognizes and authorizes transformation. Spoken, gestured, inscribed, or internalized. |
 | **Harmonia** | Spirit ↔ Attraction | Tone, vibration, and resonant frequency. A thought that stays internal is not Harmonia; a thought that becomes vibration and crosses the gap between two souls is. |
-| **Vocatia** | Attraction | Invocation by recognition and correspondence. Not domination. The entity must answer because it recognizes the caller as lawfully compatible. |
+| **Vocatia** | Attraction | Invocation by recognition and correspondence, with no domination in it. The entity must answer because it recognizes the caller as lawfully compatible. |
 | **Animatria** | Spirit | Eidolons, echo-forms, and psionic constructs fabricated from the practitioner's own Essence Core. |
 | **Synergia** | Triadic | Emergent resonance from multiple souls, Wellsprings, or Domains interacting. Shared occupancy of the same Soul Plane region. |
 | **Mnemata** | Spirit ↔ Attraction | Dream records, ancestral fields, temporal imprints, and historical echo-law. Memory stored as residual frequency rather than as narrative. |
 | **Crystalia** | Body ↔ Spirit | The engineering, forging, and refinement of Soul Crystals themselves. |
-| **Ritus** | Spirit | Ritual activation. Ceremonial, communal, and slow, and the ancestor of every field-capable discipline that later internalised what the circle used to externalise. |
+| **Ritus** | Spirit | Ritual activation. Ceremonial, communal, and slow, and the ancestor of every field-capable discipline that later internalized what the circle used to externalize. |
 | **Domain Weaving** | Attraction | Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space. |
-| **Arts** | Body | Spirit Forge techniques, Binding Arts, and Resonant Forms. The physical and material infrastructure through which the other categories are given a body. |
+| **Arts** | Body | Spirit Forge techniques, Binding Arts, and Resonant Forms. The physical and material groundwork through which the other categories are given a body. |
 | **Aetherica** | Triadic Convergence | The measurement substrate. Frequency values, interaction patterns, standardized tonal profiles. |
 | **Concordia** | Spirit ↔ Attraction **Apex** | Alignment of multiple Aether bodies, Wellsprings, and Domains into a single coherent field. Synergia and Harmonia scaled up and made durable rather than momentary. |
 
@@ -73,7 +77,7 @@ Every structured working, whether spoken once or carved into granite for a thous
 | **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. Requires genuine harmonization; the Continuum reads the Attraction Layer at the moment of casting. | Mechanica by definition. Coerced transformation without lawful Wellspring participation. The Continuum treats it as debt. |
 | **Boundary** | Where and how long the effect is permitted to operate. | A transformation without limits continues until it runs out of things to consume. |
 | **Direction** | Vector and focus. The editorial layer of the Parunic sentence. | Draft Corruption. Law-fragments, Wellspring processes started but not completed, which keep trying to finish themselves in whatever they contact. |
-| **Sealing** | That the sentence is finished, and closed against contamination and drift. Draws heavily on Fixatio chains. | An open wound in the local Aether field. The Continuum attempts to resolve the open syntax, sometimes by completing it in ways nobody intended. |
+| **Sealing** | That the sentence is finished, and closed against contamination and drift. Leans heavily on Fixatio chains. | An open wound in the local Aether field. The Continuum attempts to resolve the open syntax, sometimes by completing it in ways nobody intended. |
 
 ---
 
@@ -105,9 +109,9 @@ The documents in this section do not share a voice, and reading them correctly m
 
 ## Entries
 
-Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorised.
+Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized.
 
-The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates. The four that follow are **bloodline and personal arts** — the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
+The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
 
 ### The general disciplines and the bloodline arts
 
@@ -125,9 +129,9 @@ The first five entries are the general disciplines, open in principle to any pra
 
 ## The Practitioner Disciplines
 
-These are the named arts a practitioner *trains*, as opposed to the labors the Continuum authorises. They are catalogd by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
+These are the named arts a practitioner *trains*, as opposed to the labors the Continuum authorizes. They are cataloged by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
 
-Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Asami** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
+**Moetana**, **Solution**, and **Asami** are *states* rather than disciplines in the strict sense: what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**
 - [[The Disciplines/Named Arts/Ainigma — The Riddle Wearing a Face]]
 - [[The Disciplines/Named Arts/Ken — The Fist That Fights the Architecture]]
@@ -139,7 +143,7 @@ Three of them are not disciplines at all in the strict sense. **Moetana**, **Sol
 
 ### The states
 
-*Not disciplines in the strict sense. What a Crystal does when its internal partitions come down — and the three of them answer the same question three different ways.*
+*States rather than disciplines in the strict sense: what a Crystal does when its internal partitions come down, and the three of them answer the same question three different ways.*
 - [[The Disciplines/Named Arts/Moetana — The Vessel of Life's Essence]]
 - [[The Disciplines/Named Arts/Solution — The Mind That Solves Itself]]
 - [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto]]

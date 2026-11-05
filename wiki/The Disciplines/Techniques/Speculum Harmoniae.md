@@ -1,22 +1,81 @@
 ---
-title: Speculum Harmoniae
+title: "The False-Twin Choir"
 ---
 
-# Speculum Harmoniae
+# THE FALSE-TWIN CHOIR
 
-## Speculum Harmoniae
+*Spellcraft, Animatria (the double) and Concordia (the field), Stage V and Stage VIII. The scholars' terms are Speculum Harmoniae and its companion, Nexus Harmoniae.*
 
-### Summary card
+The Speculists of Tanner's Reach hold that a likeness needs no agent once it is emitted, so they cast and let go, and they are insufferable about it. One of them, Joss Sallow, was hired to lead a band of bounty riders on a merry chase through the Reach's bright-painted market, and he did so splendidly, with two of him running down two alleys in two orange cloaks and the riders screaming at each other about which was real. Then a Silence fell over the square. He could not tell release from a cut line, so he walked home delighted, boasting of his mastery. There was a small piece of his Core still in that square. Nobody could find it, and he is a great deal quieter now, and he has forgotten why.
 
-**Effect** · Speculum Harmoniae casts a second body that carries the target's signature and moves like him, so a pursuit must split. Its companion working, Nexus Harmoniae, raises a field up to a kilometre wide that routes every working through the caster, adding gain to those in tune with her.
+**The hook.** She traces a ring and now there are two of her to chase, and when she sings the whole field falls into her key.
 
-**Cost** · Speculum: 2 percent of full reserve a cast and a slice of the caster's read of that target, thin until she observes them again. Nexus: 1 percent a turn for six turns, with rising overload and cross-sense confusion, the caster fixed standing.
+**TWO OF ME!** (Speculum) A circle traced in the air around the target, within 3 to 8 m, and a second body stands there, correct on every instrument, for 18 seconds.
 
-**Limit** · The double cannot land a real blow and stops existing when struck once. The Nexus bias is small, cannot win an exchange alone, and misses anything faster than the caster's reaction.
+**GO ON, CATCH IT!** The double is misidentified and never hidden; the pursuit must split, and the one caught simply stops being present.
 
-**Counter** · The double fails against tracking by fear, hatred or grief rather than Essence contour, a watch on its feet, or Silence. The Nexus fails against fog, shielding, a strong personal Domain, or a working that runs quiet under the field's reading.
+**ALL OF YOU!** (Nexus) A chant, a sweeping gesture through the Aether Chord Staff, and up to a kilometer of field routes every working through her, with gain for those in tune.
 
-**What nobody knows** · Whether the double, in the instant before it is struck, feels anything, or whether the hollow beat the caster reports afterwards is hers alone.
+### How it really works
+
+These are two workings of one practice, and the Nexus is the field-scale extension of the same resonance-reading habit behind Lumen Dissecans. The double is a decoy. The field is a choir.
+
+**The double.** The physics is decoy discrimination: a second body that matches what a tracker measures, so the pursuit splits. A tracker rejects a decoy only if it measures some quantity in which decoy and target differ. At fifty meters the eye separates points 6.7 mm apart, so the double is plainly a second body, misidentified and never hidden, as a lure beats a hawk hunting by one cue and fails against a hawk hunting by two. It has no mass, stops existing when struck once, and cannot land a real blow. It works like a relay beacon, receiving a signature and re-radiating it from elsewhere, and a returning mirror has nothing to do with it. Specifying it is thermodynamically free, but each read spends the caster's record of the target, the way a wax seal is spent by the opening of the letter, and skips the write-back; the eyes must restore it, so each cast against the same foe thins her ability to counter that foe.
+
+It pulls Limina, suppressed by crowds, saturated Aether and active Domains, the Nexus included. Mirithane, the Wellspring of Reflection (Limina): a true mirror adds nothing, so what leaves the caster is what was in them. Oneirion, the Wellspring of Dream (Limina): the double walks a trajectory in a space with no location, so it moves like a body making choices. The glyphs are Equivalence for the copy, Mirage for what it is taken for, Reverie for its path, and the boundary condition is how many bearers one signature may have. The Speculum is Animatria, a fragment of the Essence Core on a live line home. Mirithane's mirror does not discriminate, so a self-mirror broadcasts the caster's fear from both bodies; Oneirion's projection error, a Boundary fault, puts the double in walls. In Silence the Speculum is correct and produces nothing, a Field fault.
+
+**The field.** The physics is coherent summation: N workings sharing a phase add as N, and strangers add as √N. The field's edge grows only as √N, falls off as 1/r², and cannot route anything faster than the caster's reaction. Two workings whose patterns do not separate are read as one, so a working spread wide, thin and long inside another's pattern passes the field unread. It pulls Fulguria, suppressed by fog, smoke and shielded interiors, and no ground suits both halves. Judicium, the Wellspring of Truth (Fulguria): no substance can show another's spectrum, so the caster reads every working in the field. Aurevane, the Wellspring of Light (Fulguria): coherent light holds one phase across its front, so the field can pin a shared tone. The glyphs are Order for the shared tone, Measure for the reading, Vastness for the field, and the boundary condition is what counts as one working, so allies in resonance become one aperture with gain none has alone.
+
+To the people inside, it feels like a battle going slightly wrong with no moment to point at, and the sense of being read. The Nexus favors resonance with the caster's tone and takes no interest in loyalty; it weakens no enemy, it only withholds the gain. The bias is small, cannot win an exchange alone, and misses anything faster than her reaction. It is Concordia, Spirit and Attraction held as a lasting field. Judicium's spectral overload is the Nexus's migraine, a Structure fault, and Aurevane's glare makes the caster a beacon. If the Nexus drops abruptly, from the caster downed or leaving, a Domain-style Resonance Shockwave crosses the whole former radius, caster included, so downing the caster hurts both armies. The kilometer it leaves deafens Harmonists.
+
+Both are Correspondence: a faithful likeness is treated as presence. The Speculum spends a fragment of the Essence Core and a destructive read of memory; the Nexus works the Attraction Layer, where every thread in the field is legible, and pays in total attention. Developmental Tier Harmonic, then Radiant. Waste leaves as heat and light at her Shell: about 78 MW for three turns for the Speculum, 4.5 GW from one standing figure for six turns for the Nexus. The Speculists hold a likeness needs no agent once emitted, so they cast and let go; in a Silence they cannot tell release from a cut line, and leave Core fragments in quiet rooms believing it mastery.
+
+**Cost.** The double takes two percent of reserve and a slice of her read of that target; the field takes one percent a turn, her full attention, rising overload, and leaves her fixed standing.  
+**Counter.** Track the double by fear, hatred or grief, watch its feet, or drop a Silence; beat the field with fog, shielding, a strong personal Domain, or a working that runs quiet under its reading.
+
+**What nobody knows.** Whether the double, in the instant before it is struck, feels anything, or whether the hollow beat the caster reports afterward is hers alone.
+
+### Counterplay
+
+**Tell** · Speculum: no seam; only a channel the caster did not read, a footfall the room does not permit, a pursuer left holding nothing. Nexus: a still figure with a chant and a staff, glowing at the field's center.
+
+**Limits** · The double cannot land a real blow and dies when its line is cut; the Nexus bias is small, cannot win an exchange alone, and misses anything under fifty microseconds.
+
+**Fails against** · Tracking by affect or by the reversion's shape, or a Judicium reading (the double has no spectrum); the feet; Silence; crowds or a Domain against the Speculum, fog or shielding against the Nexus; Knot on the read, Lock on the tone; speed, closeness or the rim.
+
+**Thinning** · Each cast against the same foe thins the caster's ability to counter that foe.
+
+**Glare** · Glare makes the Nexus caster the easiest to locate; his fall releases the shockwave over both armies.
+
+**Look up** · The Limina and Fulguria entries for Mirithane, Oneirion, Judicium and Aurevane and their Failures; Animatria and Concordia; Silence; the Counterplay register for Lock and Knot; the Splintering and Transcendence Stage tables.
+
+### Numbers
+
+| Quantity | Working | Result |
+|---|---|---|
+| Double's optical budget | 160 W × 18 s | about 2.9 kJ |
+| A real 70 kg body instead | m·c² | 6.3 × 10¹⁸ J |
+| Surface at 1 mm | 8 × 10⁵ patches | 1.9 × 10⁷ bits, 5.6 × 10⁻¹⁴ J to erase |
+| Light across 1 km and back | 2,000 m ÷ 3 × 10⁸ m/s | 6.7 µs |
+| S-Grade reaction, the real bottleneck | measured | 50 to 200 µs |
+| S strike across Contact Range | 5 to 15 m ÷ 170 km/s | 30 to 90 µs, outside the field |
+
+**Practitioner** · Speculum: Splintering, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade B (unstable above 320). Nexus: Transcendence, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S.
+
+**Paths** · Attunement above D, allied gain above A and Radius above A need the Attraction Path, so without it the Nexus holds at A's 200 m; Concordia needs Spirit and Attraction; Nexus Sovereignty above A needs the Fate Path.
+
+**Anchors** · The Speculum is a circle traced in the air around the target, required below Refraction; the Nexus is spoken, gestured and carried through a staff, three anchors it does not need, each takeable.
+
+| Quantity | Working | Result |
+|---|---|---|
+| Speculum cost | 2% of full reserve per cast | 4,000 EU at reserve 200,000 |
+| Speculum reserve covers | 90% ÷ 2% | 45 |
+| Nexus cost | 1% of full reserve a turn × 6 | 6%, 540,000 EU at 9.0 × 10⁶ |
+| Nexus reserve covers | 90% ÷ 6% | 15 |
+
+**Cost** · Speculum: 2 percent of full reserve and a slice of the caster's read of the target, thin until observed again. Nexus: 1 percent a turn, rising overload and cross-sense confusion, and the caster fixed standing.
+
+**Duration** · Speculum: 18 seconds, three turns, within 3 to 8 meters. Nexus: 36 seconds, six turns, up to one kilometer.
 
 ### Codex line
 
@@ -53,99 +112,3 @@ title: Speculum Harmoniae
 **Origin · Its author devised the Speculum** as a decoy and diversion tool, and the Nexus as the field-scale extension of the same resonance-reading practice behind Lumen Dissecans.
 
 **Practitioners · Its author, the only one credited** with either working.
-
----
-
-### Physics
-
-**Phenomenon** · Two workings of one practice. Speculum Harmoniae is decoy discrimination: a second body that matches what a tracker measures, so the pursuit splits. Nexus Harmoniae is coherent summation: a field that makes workings in tune with the caster add in step.
-
-**Law** · A tracker rejects a decoy only if it measures some quantity in which decoy and target differ; N workings sharing a phase add as N, strangers add as √N.
-
-**Limit** · The double has no mass and stops existing when struck once; the field's edge grows only as √N, falls off as 1/r², and cannot route anything faster than the caster's reaction.
-
-**Not hiding** · At fifty meters the eye separates points 6.7 mm apart, so the double is plainly a second body; it is misidentified, not hidden, as a flare beats a one-color seeker and fails against a two-color one.
-
-**Repeater** · The Speculum works like a transponder, receiving a signature and re-radiating it from elsewhere, not like a returning mirror.
-
-**Destructive read** · Specifying the double is thermodynamically free, but, like old core memory, each read spends the caster's record of the target and skips the write-back; the eyes must restore it.
-
-**Separation** · Two workings whose patterns do not separate are read as one, so a working spread wide, thin and long inside another's pattern passes the field unread.
-
-| Quantity | Working | Result |
-|---|---|---|
-| Double's optical budget | 160 W × 18 s | about 2.9 kJ |
-| A real 70 kg body instead | m·c² | 6.3 × 10¹⁸ J |
-| Surface at 1 mm | 8 × 10⁵ patches | 1.9 × 10⁷ bits, 5.6 × 10⁻¹⁴ J to erase |
-| Light across 1 km and back | 2,000 m ÷ 3 × 10⁸ m/s | 6.7 µs |
-| S-Grade reaction, the real bottleneck | measured | 50 to 200 µs |
-| S strike across Contact Range | 5 to 15 m ÷ 170 km/s | 30 to 90 µs, outside the field |
-
-### Metaphysics
-
-**Aether** · The Speculum draws Limina, suppressed by crowds, saturated Aether and active Domains, the Nexus included; the Nexus draws Fulguria, suppressed by fog, smoke and shielded interiors. No ground suits both. The Nexus leaves a kilometre that deafens Harmonists.
-
-**Wellspring** · Mirithane, the Wellspring of Reflection (Limina): a true mirror adds nothing, so what leaves the caster is what was in them.
-
-**Wellspring** · Oneirion, the Wellspring of Dream (Limina): the double walks a trajectory in a space with no location, so it moves like a body making choices.
-
-**Wellspring** · Judicium, the Wellspring of Truth (Fulguria): no substance can show another's spectrum, so the caster reads every working in the field.
-
-**Wellspring** · Aurevane, the Wellspring of Light (Fulguria): coherent light holds one phase across its front, so the field can pin a shared tone.
-
-**Inherited failures** · Mirithane's mirror does not discriminate, so a self-mirror broadcasts the caster's fear from both bodies; Oneirion's projection error puts the double in walls; Judicium's spectral overload is the Nexus's migraine; Aurevane's glare makes the caster a beacon.
-
-**Category** · The Speculum is Animatria, a fragment of the Essence Core on a live line home; the Nexus is Concordia, Spirit and Attraction held as a lasting field. Both are Correspondence: a faithful likeness is treated as presence.
-
-**Essence** · The Speculum spends a fragment of the Essence Core and a destructive read of memory; the Nexus works the Attraction Layer, where every thread in the field is legible, and pays in total attention. Developmental Tier Harmonic, then Radiant.
-
-**School** · The Speculists hold a likeness needs no agent once emitted, so they cast and let go; in a Silence they cannot tell release from a cut line, and leave Core fragments in quiet rooms believing it mastery.
-
-### Mechanism
-
-**Glyph** · Speculum: Equivalence for the copy, Mirage for what it is taken for, Reverie for its path. Nexus: Order for the shared tone, Measure for the reading, Vastness for the field.
-
-**Boundary** · Speculum: how many bearers one signature may have. Nexus: what counts as one working, so allies in resonance become one aperture with gain none has alone.
-
-**Effect** · Speculum: two of the caster, both correct on every instrument, and a pursuit that must be split; the one caught simply stops being present. Nexus: a battle going slightly wrong with no moment to point at, and the sense of being read.
-
-**Classifier** · The Nexus favors resonance with the caster's tone, not loyalty; it weakens no enemy, it only withholds the gain.
-
-**Failure** · Projection error, a Boundary fault; the mirror's honesty; spectral overload, a Structure fault; glare; and Silence, where the Speculum is correct and produces nothing, a Field fault.
-
-**Collapse** · If the Nexus drops abruptly, from the caster downed or leaving, a Domain-style Resonance Shockwave crosses the whole former radius, caster included, so downing the caster hurts both armies.
-
-**Bleed** · Waste leaves as heat and light at the caster's Shell: about 78 MW for three turns for the Speculum; 4.5 GW from one standing figure for six turns for the Nexus.
-
-### Essence
-
-**Practitioner** · Speculum: Splintering, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade B (unstable above 320). Nexus: Transcendence, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S.
-
-**Paths** · Attunement above D, allied gain above A and Radius above A need the Attraction Path, so without it the Nexus holds at A's 200 m; Concordia needs Spirit and Attraction; Nexus Sovereignty above A needs the Fate Path.
-
-**Anchors** · The Speculum is a circle traced in the air around the target, required below Refraction; the Nexus is spoken, gestured and carried through a staff, three anchors it does not need, each takeable.
-
-| Quantity | Working | Result |
-|---|---|---|
-| Speculum cost | 2% of full reserve per cast | 4,000 EU at reserve 200,000 |
-| Speculum reserve covers | 90% ÷ 2% | 45 |
-| Nexus cost | 1% of full reserve a turn × 6 | 6%, 540,000 EU at 9.0 × 10⁶ |
-| Nexus reserve covers | 90% ÷ 6% | 15 |
-
-**Cost** · Speculum: 2 percent of full reserve and a slice of the caster's read of the target, thin until observed again. Nexus: 1 percent a turn, rising overload and cross-sense confusion, and the caster fixed standing.
-
-**Duration** · Speculum: 18 seconds, three turns, within 3 to 8 meters. Nexus: 36 seconds, six turns, up to one kilometre.
-
-### Counterplay
-
-**Tell** · Speculum: no seam; only a channel the caster did not read, a footfall the room does not permit, a pursuer left holding nothing. Nexus: a still figure with a chant and a staff, glowing at the field's center.
-
-**Limits** · The double cannot land a real blow and dies when its line is cut; the Nexus bias is small, cannot win an exchange alone, and misses anything under fifty microseconds.
-
-**Fails against** · Tracking by affect or by the reversion's shape, or a Judicium reading (the double has no spectrum); the feet; Silence; crowds or a Domain against the Speculum, fog or shielding against the Nexus; Knot on the read, Lock on the tone; speed, closeness or the rim.
-
-**Thinning** · Each cast against the same foe thins the caster's ability to counter that foe.
-
-**Glare** · Glare makes the Nexus caster the easiest to locate; his fall releases the shockwave over both armies.
-
-**Look up** · The Limina and Fulguria entries for Mirithane, Oneirion, Judicium and Aurevane and their Failures; Animatria and Concordia; Silence; the Counterplay register for Lock and Knot; the Splintering and Transcendence Stage tables.

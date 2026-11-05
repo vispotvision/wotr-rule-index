@@ -4,7 +4,28 @@ title: The Infinite Summoning Arts
 
 # The Infinite Summoning Arts
 
-> **Infinite Summoning is not a tier. It is the abandonment of the register.**
+The *Merry Wager*, a wine galley sixty souls strong, broke her back on the Thole skerries in a black gale, with Yselle Ambrel asleep in the bilge sleeping off a bad oyster. Everything after that is testimony, and the testimony is the problem. The bosun swore on his mother that a green-gold eel as long as the ship came up out of the surf and held the hull on the rocks in one coil. The cook said it was a bridge of white hands, passing people along. The purser said gulls, a hundred of them the size of ponies, flying lines ashore. A deckhand told the Commission's clerk, under oath, that he had been carried up the beach by a fat man telling jokes. All four were telling the truth, in order, because Ambrel had drafted four different answers to four different problems inside an hour, and sixty people walked off that rock at dawn past a woman who had lost a stone in weight in a night and could not have told you what any of those things were. The Commission spent three years trying to enter them in the register. It fined her for failure to file.
+
+### THE INFINITE SUMMONING ARTS (school art; Vocatia and Animatria past the register)
+They never call the same thing twice, because they never write anything down.
+
+ESSENCE DRAFT! One soul split into threads, each thread holding up something you have never seen before.  
+THE AETHER FEED! The thing changes shape in the middle of the fight, and it has only got started.  
+FATE-CHAIN SUMMONING! Kill this one and the next arrives faster, and it knows what you did.  
+AETHERIC CONSTELLATIONS! They come in a pattern, and each one standing makes the others worse.  
+RECURSIVE DRAFTING! Her summons start summoning, and somebody is still paying.  
+SUMMON COLLAPSE! Everything on the field goes out at once and comes down in one place, on you.  
+PLANE TETHERS! A presence nailed to a hill forever, at a price nobody will say aloud.  
+IMPRINT SUMMONING! A copy of a thing that once existed, grudges included.  
+SPIRIT SINGULARITY! A crowd folded into one body, and it is worse than the crowd was.  
+AXIS BINDING! The summon grows and falters with her moods, so her wounds are its wounds.  
+ECHO MANIFESTATION! The ghosts of what you just killed get built into what comes next.  
+DIMENSIONAL RESONANCE! Part of it is somewhere your armor is not.  
+OMNIPRESENT FORM! One presence standing in forty doorways, and it notices you in all of them.  
+
+## How It Really Works
+
+> **Infinite Summoning is the abandonment of the register, and no tier at all.**
 >
 > Every other summoner works from a roster: forms sealed, named, and callable again. An Infinite practitioner keeps no roster. Each call is drafted fresh against the shape of the moment, which is why the Accord cannot audit the art and why no two accounts of the same practitioner's kit have ever matched.
 
@@ -14,7 +35,7 @@ title: The Infinite Summoning Arts
 
 The name misleads almost everyone who hears it, including several people who have died to it. It does not mean unlimited output. Essence remains finite, the Aether Shell still strains, and an Infinite practitioner exhausts on the same curve as anyone else at their Coherence.
 
-What is infinite is the **catalog**. The Accord's register lists what has been sealed and reported. It has been out of date for four hundred years, everyone in the Commission knows it, and Infinite Summoning is the art built on top of that gap. The practitioner does not select from a list. They draft to the problem.
+What is infinite is the **catalog**. The Accord's register lists what has been sealed and reported. It has been out of date for four hundred years, everyone in the Commission knows it, and Infinite Summoning is the art built on top of that gap. The practitioner drafts to the problem and selects from no list.
 > **The trade is repetition.** A sealed compact gets cheaper each time it answers, because recognition accumulates. A drafted call never does. The Infinite practitioner pays first-call price forever, and nothing that answers them is guaranteed to be the same thing twice.
 **Temperance Gate** · Stage XI (Dissonance) for unsealed drafting under battlefield conditions · Stage XIII for sustained networks · The art is not taught below Stage XI and the Accord's position is that it should not be taught at all.
 
@@ -70,7 +91,7 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 **Effect** · A drafted form authorized to draft in turn, producing further entities without further attention from the practitioner. The family classifies this as the point at which the summoner stops being the only author on the field.
 
-**Cost** · Every generation is drawn from the practitioner regardless of who authorized it. A recursion left running has emptied practitioners who believed they had stopped participating.
+**Cost** · Every generation is paid out of the practitioner regardless of who authorized it. A recursion left running has emptied practitioners who believed they had stopped participating.
 
 **Limit** · Authorization chains lose a link each generation. Third-generation forms carry almost no Binding and behave accordingly.
 
@@ -88,7 +109,7 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 ### Plane Tethers
 
-**Effect** · A durable connection maintained between the Plane of Fate and a fixed point on the Physical, through which forms persist without continuous drafting. The nearest thing the art has to infrastructure.
+**Effect** · A durable connection maintained between the Plane of Fate and a fixed point on the Physical, through which forms persist without continuous drafting. The nearest thing the art has to a standing work.
 
 **Cost** · Paid once at anchoring, in something the practitioner does not get back. The Mahuo elder structure declines to specify what in writing and the Anemoir refuse to discuss it at all.
 
@@ -124,7 +145,7 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 **Limit** · One Axis, one form. A second binding on the same Axis destabilizes both.
 
-**Counter** · The form is a live readout of the practitioner's condition. Anyone who can read it knows exactly how the summoner is doing, which is information most practitioners would pay a great deal to withhold.
+**Counter** · The form is a living tally of the practitioner's condition. Anyone who can read it knows exactly how the summoner is doing, which is information most practitioners would pay a great deal to withhold.
 
 ### Echo Manifestation
 
@@ -173,5 +194,17 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 **Karo Venrik** · Nexus-networked Animatria at constellation scale, each form tuned to a perceptual function rather than a combat one. The cleanest lawful demonstration of Aetheric Constellations on record.
 
 **The Anemoir Cult** · Plane Tethers across generational timescale. The only body that has answered the question of what anchoring costs, and they answered it by declining to say.
+
+---
+
+**Cost.** First-call price every time, forever, and each open thread taxes your own body until it closes, which is why drafters are reliably the thinnest people in a war camp.
+
+**Counter.** Count the threads, then cut the practitioner's line of attention or break the first link; do not kill a chain link when you can hold it.
+
+**Numbers.**
+- Gates: Stage XI (Dissonance) for unsealed drafting under battlefield conditions, Stage XIII for sustained networks. Not taught below Stage XI.
+- The Accord's register has been out of date for four hundred years.
+- Third-generation recursive forms carry almost no Binding. One Fate-Chain at a time; one Axis Binding per Axis.
+- Three competing models of why a draft answers, none predicting a first-time draft.
 
 ---

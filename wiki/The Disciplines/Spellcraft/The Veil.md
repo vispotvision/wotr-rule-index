@@ -6,7 +6,7 @@ title: The Veil
 
 > **This page has been retired.** Its unique content was merged into the governing entry on 2026-09-15.
 > 
-> **→** [[Cosmology & Metaphysics/The Making of the World/The Veil|**The Veil (Cosmology & Metaphysics)**]] — the canonical page for all Veil content.
+> **→** [[Cosmology & Metaphysics/The Making of the World/The Veil|**The Veil (Cosmology & Metaphysics)**]]: the canonical page for all Veil content.
 
 ---
 

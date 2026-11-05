@@ -427,87 +427,87 @@
 
 ### Spellcraft
 
-- [[The Disciplines/Spellcraft/Anima Harmonics|Anima Harmonics]] · private
-- [[The Disciplines/Spellcraft/Anointing|Anointing]] · private
-- [[The Disciplines/Spellcraft/Antinomy|Antinomy]] · private
-- [[The Disciplines/Spellcraft/Edictum|Edictum]] · private
-- [[The Disciplines/Spellcraft/Fallacy|Fallacy]] · private
-- [[The Disciplines/Spellcraft/Imprinta|Imprinta]] · private
-- [[The Disciplines/Spellcraft/Invert Eidolon|Invert Eidolon]] · private
-- [[The Disciplines/Spellcraft/Kami no Kobushi|Kami no Kobushi]] · private
-- [[The Disciplines/Spellcraft/Kurotana|Kurotana]] · private
-- [[The Disciplines/Spellcraft/Mugen no Hatsurugi|Mugen no Hatsurugi]] · private
-- [[The Disciplines/Spellcraft/Oathrend|Oathrend]] · private
-- [[The Disciplines/Spellcraft/Precept|Precept]] · private
-- [[The Disciplines/Spellcraft/Resonant Divination|Resonant Divination]] · private
+- [[The Disciplines/Spellcraft/Anima Harmonics|Every Soul a Bell]] · private
+- [[The Disciplines/Spellcraft/Anointing|The Thumb of Heaven]] · private
+- [[The Disciplines/Spellcraft/Antinomy|The Treason of Every Gift]] · private
+- [[The Disciplines/Spellcraft/Edictum|Because I Said So]] · private
+- [[The Disciplines/Spellcraft/Fallacy|The Lie Creation Swallowed]] · private
+- [[The Disciplines/Spellcraft/Imprinta|The Unburied Ember]] · private
+- [[The Disciplines/Spellcraft/Invert Eidolon|The Self That Never Forgave]] · private
+- [[The Disciplines/Spellcraft/Kami no Kobushi|The God Fist: Seven Ways to Refuse]] · private
+- [[The Disciplines/Spellcraft/Kurotana|The Black Vessel]] · private
+- [[The Disciplines/Spellcraft/Mugen no Hatsurugi|The Infinite First Blade]] · private
+- [[The Disciplines/Spellcraft/Oathrend|Nobody Swore Anything]] · private
+- [[The Disciplines/Spellcraft/Precept|The Graven Absence]] · private
+- [[The Disciplines/Spellcraft/Resonant Divination|The Ear of Fate]] · private
 - [[The Disciplines/Spellcraft/Saba no Rosa|Saba no Rosa]] · private
-- [[The Disciplines/Spellcraft/Scission|Scission]] · private
+- [[The Disciplines/Spellcraft/Scission|The Gentle Divorce]] · private
 - [[The Disciplines/Spellcraft/Spellcraft|Spellcraft]] · private
-- [[The Disciplines/Spellcraft/Thaumic Harmonics|Thaumic Harmonics]] · private
+- [[The Disciplines/Spellcraft/Thaumic Harmonics|The Breaking of All Songs]] · private
 - [[The Disciplines/Spellcraft/The Iron Tree|The Iron Tree]] · private
 - [[The Disciplines/Spellcraft/The Veil|The Veil]] · private
-- [[The Disciplines/Spellcraft/Transposition|Transposition]] · private
-- [[The Disciplines/Spellcraft/Vainglory|Vainglory]] · private
+- [[The Disciplines/Spellcraft/Transposition|The Exchange of Destinies]] · private
+- [[The Disciplines/Spellcraft/Vainglory|The Usurper in My Image]] · private
 
 ### Techniques
 
-- [[The Disciplines/Techniques/Archivii Locus|Archivii Locus]] · private
-- [[The Disciplines/Techniques/Ashfang Mark Invocation|Ashfang Mark Invocation]] · private
-- [[The Disciplines/Techniques/Auric Parallax Veil|Auric Parallax Veil]] · private
-- [[The Disciplines/Techniques/Bastion Imperium|Bastion Imperium]] · private
-- [[The Disciplines/Techniques/Bloodbind Surge|Bloodbind Surge]] · private
-- [[The Disciplines/Techniques/Celestial Decree Aeon-Shard Mandate|Celestial Decree: Aeon-Shard Mandate]] · private
-- [[The Disciplines/Techniques/Celestial Harmonic Shear|Celestial Harmonic Shear]] · private
-- [[The Disciplines/Techniques/Chorda Somnii|Chorda Somnii]] · private
-- [[The Disciplines/Techniques/Coagula Dominium|Coagula Dominium]] · private
-- [[The Disciplines/Techniques/Corona Lunaris|Corona Lunaris]] · private
-- [[The Disciplines/Techniques/Crimson Dirge|Crimson Dirge]] · private
-- [[The Disciplines/Techniques/Cryost Ascendant|Cryost Ascendant]] · private
-- [[The Disciplines/Techniques/Dirge Ascension|Dirge Ascension]] · private
-- [[The Disciplines/Techniques/Dreambreaker Field · The Shattered Midnight|Dreambreaker Field · The Shattered Midnight]] · private
-- [[The Disciplines/Techniques/Edict Strike|Edict Strike]] · private
-- [[The Disciplines/Techniques/Edictum Resonantiae|Edictum Resonantiae]] · private
-- [[The Disciplines/Techniques/Eidolyn Falseface Lattice|Eidolyn Falseface Lattice]] · private
-- [[The Disciplines/Techniques/Final Mercy|Final Mercy]] · private
-- [[The Disciplines/Techniques/Florwyn's Canticle|Florwyn's Canticle]] · private
-- [[The Disciplines/Techniques/Fluxus Intervallum|Fluxus Intervallum]] · private
-- [[The Disciplines/Techniques/Harmonic Null-Ascension|Harmonic Null-Ascension]] · private
-- [[The Disciplines/Techniques/Hunter's Breath|Hunter's Breath]] · private
-- [[The Disciplines/Techniques/Hypnather Descent Rite|Hypnather Descent Rite]] · private
-- [[The Disciplines/Techniques/Judgment Manifest|Judgment Manifest]] · private
-- [[The Disciplines/Techniques/Letheveil Memory-Quake|Letheveil Memory-Quake]] · private
-- [[The Disciplines/Techniques/Liminal Palace of False Dawn|Liminal Palace of False Dawn]] · private
-- [[The Disciplines/Techniques/Lumen Dissecans|Lumen Dissecans]] · private
-- [[The Disciplines/Techniques/Maw of Crystalline Stasis|Maw of Crystalline Stasis]] · private
-- [[The Disciplines/Techniques/Mireglass Suffusion|Mireglass Suffusion]] · private
-- [[The Disciplines/Techniques/Nightglass Seal|Nightglass Seal]] · private
-- [[The Disciplines/Techniques/Obelisk of the Eclipsed Dawn|Obelisk of the Eclipsed Dawn]] · private
-- [[The Disciplines/Techniques/Oblivion-Step|Oblivion-Step]] · private
-- [[The Disciplines/Techniques/Oneiron Parasite · Nightmare Warden|Oneiron Parasite · Nightmare Warden]] · private
-- [[The Disciplines/Techniques/Oneiron Phantasm Court|Oneiron Phantasm Court]] · private
-- [[The Disciplines/Techniques/Principle Overwrite|Principle Overwrite]] · private
-- [[The Disciplines/Techniques/Puppet-Dream Marionette|Puppet-Dream Marionette]] · private
-- [[The Disciplines/Techniques/Pyrewind Breaker|Pyrewind Breaker]] · private
-- [[The Disciplines/Techniques/Radiant Ribbon Shell|Radiant Ribbon Shell]] · private
-- [[The Disciplines/Techniques/Seraphic Thread Blessing|Seraphic Thread Blessing]] · private
-- [[The Disciplines/Techniques/Sigillum Fixationis|Sigillum Fixationis]] · private
-- [[The Disciplines/Techniques/Solarbound Aegoric Knight|Solarbound Aegoric Knight]] · private
-- [[The Disciplines/Techniques/Somnii Scriptorium|Somnii Scriptorium]] · private
-- [[The Disciplines/Techniques/Sovereign Parallax Lance|Sovereign Parallax Lance]] · private
-- [[The Disciplines/Techniques/Sovereign's Reprisal|Sovereign's Reprisal]] · private
-- [[The Disciplines/Techniques/Speculum Harmoniae|Speculum Harmoniae]] · private
-- [[The Disciplines/Techniques/Speculum Recordationis|Speculum Recordationis]] · private
-- [[The Disciplines/Techniques/Spinal Forge Ascent|Spinal Forge Ascent]] · private
-- [[The Disciplines/Techniques/Symphonia Ascendens|Symphonia Ascendens]] · private
+- [[The Disciplines/Techniques/Archivii Locus|The Sky-Turning Chalk]] · private
+- [[The Disciplines/Techniques/Ashfang Mark Invocation|The Bone Inheritance]] · private
+- [[The Disciplines/Techniques/Auric Parallax Veil|Ten Thousand Fates Refused]] · private
+- [[The Disciplines/Techniques/Bastion Imperium|The Unmoved Throne]] · private
+- [[The Disciplines/Techniques/Bloodbind Surge|Give the Beast Your Bones]] · private
+- [[The Disciplines/Techniques/Celestial Decree Aeon-Shard Mandate|The Ten-Law World Jewel]] · private
+- [[The Disciplines/Techniques/Celestial Harmonic Shear|Heaven's Hairline]] · private
+- [[The Disciplines/Techniques/Chorda Somnii|The Stolen Second]] · private
+- [[The Disciplines/Techniques/Coagula Dominium|The Amber Sovereignty]] · private
+- [[The Disciplines/Techniques/Corona Lunaris|Moon of a Hundred Noons]] · private
+- [[The Disciplines/Techniques/Crimson Dirge|The Six Red Verses]] · private
+- [[The Disciplines/Techniques/Cryost Ascendant|The Winter Ledger]] · private
+- [[The Disciplines/Techniques/Dirge Ascension|Forty-Five Seconds of God]] · private
+- [[The Disciplines/Techniques/Dreambreaker Field · The Shattered Midnight|The Crooked Midnight]] · private
+- [[The Disciplines/Techniques/Edict Strike|The Heart-Weighing Blade]] · private
+- [[The Disciplines/Techniques/Edictum Resonantiae|Court of the Forbidden Deed]] · private
+- [[The Disciplines/Techniques/Eidolyn Falseface Lattice|Here's What You Were Afraid Of]] · private
+- [[The Disciplines/Techniques/Final Mercy|The Last Kind Word]] · private
+- [[The Disciplines/Techniques/Florwyn's Canticle|The Blossom Armistice]] · private
+- [[The Disciplines/Techniques/Fluxus Intervallum|Thunderclap Stride]] · private
+- [[The Disciplines/Techniques/Harmonic Null-Ascension|The Soul-Unstringing Chord]] · private
+- [[The Disciplines/Techniques/Hunter's Breath|The Unfound Winter]] · private
+- [[The Disciplines/Techniques/Hypnather Descent Rite|Bedtime]] · private
+- [[The Disciplines/Techniques/Judgment Manifest|The Three Walking Laws]] · private
+- [[The Disciplines/Techniques/Letheveil Memory-Quake|The Great Unremembering]] · private
+- [[The Disciplines/Techniques/Liminal Palace of False Dawn|The Dawn That Never Broke]] · private
+- [[The Disciplines/Techniques/Lumen Dissecans|World-Dissecting Light]] · private
+- [[The Disciplines/Techniques/Maw of Crystalline Stasis|Slow Down or Shatter]] · private
+- [[The Disciplines/Techniques/Mireglass Suffusion|Remember This?]] · private
+- [[The Disciplines/Techniques/Nightglass Seal|Oblivion Window]] · private
+- [[The Disciplines/Techniques/Obelisk of the Eclipsed Dawn|The Star-Felled Spire]] · private
+- [[The Disciplines/Techniques/Oblivion-Step|The Sleepers' Road]] · private
+- [[The Disciplines/Techniques/Oneiron Parasite · Nightmare Warden|The Lodger Behind Your Ribs]] · private
+- [[The Disciplines/Techniques/Oneiron Phantasm Court|Inquisition of the Unconfessed]] · private
+- [[The Disciplines/Techniques/Principle Overwrite|The Creation Clause]] · private
+- [[The Disciplines/Techniques/Puppet-Dream Marionette|Your Legs Had a Better Idea]] · private
+- [[The Disciplines/Techniques/Pyrewind Breaker|Everybody Out]] · private
+- [[The Disciplines/Techniques/Radiant Ribbon Shell|The Truthbound Gale]] · private
+- [[The Disciplines/Techniques/Seraphic Thread Blessing|Hold Still, You Idiot]] · private
+- [[The Disciplines/Techniques/Sigillum Fixationis|The Nine-Second Eternity]] · private
+- [[The Disciplines/Techniques/Solarbound Aegoric Knight|The Kneeling Sun]] · private
+- [[The Disciplines/Techniques/Somnii Scriptorium|Oubliette of the Spoken Name]] · private
+- [[The Disciplines/Techniques/Sovereign Parallax Lance|Lance of the Oldest Wound]] · private
+- [[The Disciplines/Techniques/Sovereign's Reprisal|The Thousand-Hammer Tithe]] · private
+- [[The Disciplines/Techniques/Speculum Harmoniae|The False-Twin Choir]] · private
+- [[The Disciplines/Techniques/Speculum Recordationis|The Ruinous Errata]] · private
+- [[The Disciplines/Techniques/Spinal Forge Ascent|The Molten Eighteen]] · private
+- [[The Disciplines/Techniques/Symphonia Ascendens|The Mutiny Aria]] · private
 - [[The Disciplines/Techniques/Techniques|Techniques]] · private
-- [[The Disciplines/Techniques/Tenebra Ambush Art|Tenebra Ambush Art]] · private
-- [[The Disciplines/Techniques/The Aether Bastion|The Aether Bastion]] · private
-- [[The Disciplines/Techniques/The Last Monolith|The Last Monolith]] · private
-- [[The Disciplines/Techniques/The Principle Engine|The Principle Engine]] · private
-- [[The Disciplines/Techniques/Veil of Verdant Pact|Veil of Verdant Pact]] · private
-- [[The Disciplines/Techniques/Vorynn Execution Strike|Vorynn Execution Strike]] · private
-- [[The Disciplines/Techniques/Winter Rend|Winter Rend]] · private
-- [[The Disciplines/Techniques/World Echelon|World Echelon]] · private
+- [[The Disciplines/Techniques/Tenebra Ambush Art|Eight Paces of Nothing]] · private
+- [[The Disciplines/Techniques/The Aether Bastion|The Incorruptible Rampart]] · private
+- [[The Disciplines/Techniques/The Last Monolith|Let the World Strike]] · private
+- [[The Disciplines/Techniques/The Principle Engine|The Paradox-Devouring Heart]] · private
+- [[The Disciplines/Techniques/Veil of Verdant Pact|The Deathless Timber Keep]] · private
+- [[The Disciplines/Techniques/Vorynn Execution Strike|The Cold Handshake]] · private
+- [[The Disciplines/Techniques/Winter Rend|Steel-Splitting Frost]] · private
+- [[The Disciplines/Techniques/World Echelon|The One-Pulse Tribunal]] · private
 - [[The Disciplines/The Disciplines|The Disciplines]] · private
 
 ## The Magic System

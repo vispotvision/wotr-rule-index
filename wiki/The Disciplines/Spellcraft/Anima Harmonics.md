@@ -1,26 +1,77 @@
 ---
-title: Anima Harmonics
+title: Every Soul a Bell
 ---
 
-# Anima Harmonics
+# EVERY SOUL A BELL (Harmonia, the first Applied Branch of the Harmonic Arts)
 
-## Anima Harmonics
+*Scholars' term: Anima Harmonics.*
 
-### Summary card
+> At the funeral of the bracket champion Odo Vetch, in a chapel hung with four hundred yellow banners, Dame Hesper of the Auricle Choir raised one hand, stopped the whole choir in the middle of a verse, and knelt by the open bier to listen to a man everyone had agreed was dead. His Crystal was still ringing, she announced, with a wobble in it like a cracked bell and one line in the chord that had never been his. He sat up nine days later. His heirs sued her, on the grounds that they had already spent it.
 
-**Effect** · The Harmonist listens to a soul's own tone and reads the Crystal's Stage, its Traits, its damage and any foreign note in it; at higher Stages a clean projected tone lets a damaged Crystal find its own frequency again.
+She listens to your soul like a bell and knows where you are cracked, and if you let her, she can sing you back in tune.
 
-**Cost** · Every turn of held quiet costs 0.5% of full reserve, so long surveillance or negotiation runs the Harmonist dry; therapy costs 2% a turn and Fell Chord surgery 5% a turn.
+**FINGER ON THE BELL!** She goes quieter than the room and reads your Stage, your powers and your damage off the sound you already make.  
+**THAT NOTE ISN'T YOURS!** She picks out the one line in your chord that came from somebody else.  
+**SING IT HOME!** A clean tone beside a damaged soul, and the soul finds its own pitch again.  
+**CUT THE STRANGER OUT!** She holds a counter-tone against the foreign note until the bond carrying it lets go.
 
-**Limit** · It produces no force and no ward, it cannot lawfully tune a soul that has not consented, and nothing quieter than the room can be heard.
+## How it really works
 
-**Counter** · Loud surroundings, a Crystal hardened with Basilithe or Resilience Hardening, concealment below the noise floor by Tenebra, or harm to the Harmonist while they stand still and quiet.
+The charge is an absence. The Harmonist (a trained listener to Aether) gets quieter than the room and stays so, which also looks exactly like a Tenebra user, and that has caused embarrassments at court. She pulls almost no Aether to do it and leaves no Residue (what a working leaves in the ground). Only projection leaves a trace, that of a sustained tone a second Harmonist can hear, and a worked Crystal carries it afterward. Her enemy is ambient Resonance, so worked ground and old Residue deafen her.
 
-**What nobody knows** · Whether a Fell Chord that has sat in a Crystal long enough becomes part of its owner's own chord, and so stops being foreign at all.
+A running structure can be listened to from outside, untouched, and its inner condition read from the sound it already makes, as a bell's crack is read off its ring. The law is modal decomposition: any vibration of an elastic structure is a sum of its natural modes, whose frequencies are set by its stiffness and mass alone. In a Crystal the Stage shows as a harmonic band, each Trait as its own line, a compound Trait as a wavering between lines, fracture as a beat and a Fell Chord as a line that does not belong. The beat is the first thing to learn. A crack breaks a Crystal's symmetry and splits a paired mode into two lines a few hertz apart that beat against each other; the beat grows with the fracture, and it sounds before any symptom does. A Fell Chord is a line the subject's own structure cannot produce, so it came from elsewhere, a coupled neighbor or an outside drive, and spotting it is a matter of comparing heard lines against possible ones.
+
+The limit is the noise floor: nothing quieter than the listener's own emission can be heard, and the signal cannot be raised, only the background lowered. So the whole art is the glyph, Frequency laid under Silence, where Silence conditions the background and Frequency opens the band. The boundary it moves is the Harmonist's own emission floor: the Shell's outward radiation (the Shell is the Crystal's outer skin) is pinned near zero and its gates held open inward, so nothing is imposed on the subject while listening. Listening runs the Aether Shell backwards. Projection adds the Essence Core as the honest reference tone, and Fell Chord surgery reaches the Attraction Layer. Developmental Tier is Resonant at Refraction, Sovereign at Invocation and Dissonance.
+
+It has no Wellspring of its own and reads whichever dialect a Crystal is harmonized to, taking its counters from the Categories. Three Wellsprings explain its world. Mirithane, the Wellspring of Reflection (Limina): a true mirror adds nothing, so a soul has an honest tone to read, and the discipline lives on that honesty. Tenebra, the Hidden Shadow: a thing is unseen when its return falls below the looker's noise floor, and its Harmonics Suppression defeats a read. Basilithe, the Stone Will: a stiffened Crystal's resonance will not be driven off, which makes it the standing counter to projection.
+
+Projection is injection locking, a weak clean tone pulling a nearby oscillator onto its frequency. The power delivered is negligible and the precision is the whole expense. That covers Microharmonic Recalibration, Wellspring Stabilization and Emotional Resonance Therapy, in all of which a clean tone beside a damaged Crystal lets it find its own frequency. Surgery holds a counter-tone until the bond carrying the foreign line lets go. None of this is possible below Refraction, because voice, hand, ink or blood are all outward expression and raise the floor the working exists to lower. A read lasts while attention and the Shell's quiet hold, lapses the moment either breaks, and does not replace a full Coherence Ladder reading. It produces no force and no ward.
+
+The failure is Echo Fracture. A tone at the wrong frequency is an undamped forcing at the patient's resonance, and the Crystal shatters instead of healing. A Harmonist whose Shell will not go quiet hears only themselves, which some of them never notice. Waste leaves the Shell as heat and as sound at the working's own frequencies, into the quiet room: 30 to 40 percent at Refraction, 20 to 30 at Invocation, 10 to 15 at Dissonance. The Auricle Choir reads the soul as a note in a Divine Choral, so forced harmonization is assault; it misleads at the Fell Chord, trying an infected subject as guilty when the foreign line is simply foreign. Basilithe has its own bite: a hardened frequency cannot be retuned, but it cannot be detuned away from a forcing that matches it either, and a lucky guess ruins the subject.
+
+**Cost.** Half a percent of full reserve for every turn of held quiet, 2 percent a turn for therapy, 5 percent a turn for Fell Chord surgery.  
+**Counter.** Make noise, stiffen the Crystal with Basilithe or Resilience Hardening, hide below the noise floor, or hit the still woman standing in the middle of the room.
+
+**What nobody knows.** Whether a Fell Chord that has sat in a Crystal long enough becomes part of its owner's own chord, and so stops being foreign at all.
+
+## Numbers
+
+**Practitioner** · Listening: Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Therapy: Invocation, Master, η 0.70 to 0.80. Fell Chord surgery: Dissonance, Grandmaster, η 0.85 to 0.90.
+
+**Paths** · Analysis of the living needs the Spirit Path at Flourishing to pass B; Attunement needs the Attraction Path at Welling to pass D; Suppression needs the Spirit Path at Splintering to pass A. Off it, Suppression caps at A and reads are shorter.
+
+| Quantity | Working | Result |
+|---|---|---|
+| Beat of a cracked Crystal's split pair | asymmetry sets the gap | 1 to 10 Hz, heard as a wobble |
+| Listener's own emission cut tenfold | 10 dB gained, inverse-square | range about × 3.2 |
+| Power to capture a Crystal | coupling, not force | negligible |
+
+| Application | Grade | Reserve Band (EU) | Per Turn (EU) |
+|---|---|---|---|
+| Listening, 0.5% a turn | A (400, 475 under strain) | 51,800 to 961,000 | 259 to 4,810 |
+| Therapy, 2% a turn | S (550, 625 under strain) | 9.90 × 10⁵ to 1.84 × 10⁷ | 19,800 to 368,000 |
+| Fell Chord surgery, 5% a turn | SS (750, unstable) | 1.89 × 10⁷ to 3.51 × 10⁸ | 9.45 × 10⁵ to 1.76 × 10⁷ |
+
+| Quantity | Working | Result |
+|---|---|---|
+| Listening to Starvation | 90% ÷ 0.5% per turn | 180 turns, 18 minutes |
+| Cost, therapy session of five turns | 5 × 2% | 10% of reserve |
+| Reserve covers, therapy | 90% ÷ 10% | nine |
+| Cost, surgery of six turns | 6 × 5% | 30% of reserve |
+| Reserve covers, surgery | 90% ÷ 30% | three, the third ending on the floor |
+
+**Cost** · Every turn of held quiet costs 0.5 percent of full reserve, so long surveillance or negotiation runs the Harmonist dry; projection pays for keeping the reference coherent, and the energy that arrives is the cheap part.
+
+**Duration** · Listening lasts as long as the reserve pays, up to 180 turns; a therapy session runs about five turns (30 s), a surgery about six (36 s).
+
+**Contest** · A projection against an unwilling Crystal sets Harmonics Attunement against Harmonics Stability; losing by a full Grade puts Echo Fracture on the table.
+
+
+## Reference
 
 ### Codex line
 
-**Wellspring** · None of its own; it reads whichever Wellspring a Crystal is harmonised to, and leans on Mirithane, the Wellspring of Reflection, for an honest tone to read.
+**Wellspring** · None of its own; it reads whichever Wellspring a Crystal is harmonized to, and leans on Mirithane, the Wellspring of Reflection, for an honest tone to read.
 
 **Family** · No single Family; Limina through Mirithane.
 
@@ -50,95 +101,13 @@ title: Anima Harmonics
 
 ### Origin
 
-**Origin** · The first Applied Branch of the Harmonic Arts, rooted in Chord Theory; a later master remade it by beginning each reading in silence during lunar Aether tides. The Auricle Choir holds consensual harmonisation sacred and unconsented harmonisation an assault, and unauthorised Anima work is punishable under sacred law.
+**Origin** · The first Applied Branch of the Harmonic Arts, rooted in Chord Theory; a later master remade it by beginning each reading in silence during lunar Aether tides. The Auricle Choir holds consensual harmonization sacred and unconsented harmonization an assault, and unauthorized Anima work is punishable under sacred law.
 
-**Practitioners · The Auricle Choir; one Spirit Construct designer is said to have carried its emotional frequencies into that craft, though no record ties the designer to the branch itself.**
-
----
-
-### Physics
-
-**Phenomenon** · A running structure is listened to from outside, untouched, and its inner condition is read from the sound it already makes, as a bell's crack is read off its ring.
-
-**Law** · Modal decomposition: any vibration of an elastic structure is a sum of its natural modes, whose frequencies are set by its stiffness and mass alone.
-
-**Limit** · The noise floor: nothing quieter than the listener's own emission can be heard, and the signal cannot be raised, only the background lowered.
-
-**Buzz** · A crack breaks a Crystal's symmetry and splits a paired mode into two lines a few hertz apart that beat; the beat grows with the fracture, and it sounds before any symptom.
-
-**Fell Chord** · A line the subject's own structure cannot produce came from elsewhere, a coupled neighbor or an outside drive; spotting it is comparing heard lines against possible ones.
-
-**Projection** · Injection locking, a weak clean tone pulling a nearby oscillator onto its frequency: the power delivered is negligible, the precision is the whole expense.
-
-| Quantity | Working | Result |
-|---|---|---|
-| Beat of a cracked Crystal's split pair | asymmetry sets the gap | 1 to 10 Hz, heard as a wobble |
-| Listener's own emission cut tenfold | 10 dB gained, inverse-square | range about × 3.2 |
-| Power to capture a Crystal | coupling, not force | negligible |
-
-### Metaphysics
-
-**Aether** · Listening draws almost nothing and leaves no Residue; projection leaves the trace of a sustained tone a second Harmonist can hear. The limit is ambient Resonance, so worked ground and old Residue deafen it.
-
-**Wellspring** · None of its own: it reads whichever dialect a Crystal is harmonised to, and takes its counters from the Categories.
-
-**Wellspring** · Mirithane, the Wellspring of Reflection (Limina): a true mirror adds nothing, so a soul has an honest tone to read; the discipline lives on that honesty.
-
-**Wellspring** · Tenebra, the Hidden Shadow: a thing is unseen when its return falls below the looker's noise floor; its Harmonics Suppression defeats a read.
-
-**Wellspring** · Basilithe, the Stone Will: a stiffened Crystal's resonance will not be driven off; it is the standing counter to projection.
-
-**Essence** · Listening runs the Aether Shell backwards, its gates opening inward; projection adds the Essence Core as the honest reference tone; Fell Chord surgery reaches the Attraction Layer. Developmental Tier is Resonant at Refraction, Sovereign at Invocation and Dissonance.
-
-**School** · The Auricle Choir reads the soul as a note in a Divine Choral, so forced harmonisation is assault; it misleads at the Fell Chord, trying an infected subject as guilty when the foreign line is simply foreign.
-
-### Mechanism
-
-**Glyph** · Frequency laid under Silence: Silence conditions the background, Frequency opens the band.
-
-**Boundary** · The Harmonist's own emission floor: the Shell's outward radiation is pinned near zero and its gates held open inward, so nothing is imposed on the subject while listening.
-
-**Effect** · The Stage shows as a harmonic band, each Trait as its own line, a compound Trait as wavering between lines, fracture as a beat, a Fell Chord as a line that does not belong.
-
-**Therapy** · A clean tone beside a damaged Crystal lets it find its own frequency: Microharmonic Recalibration, Wellspring Stabilization, Emotional Resonance Therapy. Fell Chord surgery holds a counter-tone until the bond carrying the foreign line lets go.
-
-**Floor** · Impossible below Refraction: voice, hand, ink or blood are all outward expression and raise the floor the working exists to lower.
-
-**Hold** · A read lasts while attention and the Shell's quiet hold, and lapses the moment either breaks; it does not replace a full Coherence Ladder reading.
-
-**Failure** · Echo Fracture: a tone at the wrong frequency is an undamped forcing at the patient's resonance, and the Crystal shatters instead of healing. A Harmonist whose Shell will not go quiet hears only themselves.
-
-**Bleed** · Waste leaves the Shell as heat and as sound at the working's own frequencies, into the quiet room: 30 to 40 percent at Refraction, 20 to 30 at Invocation, 10 to 15 at Dissonance.
-
-### Essence
-
-**Practitioner** · Listening: Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Therapy: Invocation, Master, η 0.70 to 0.80. Fell Chord surgery: Dissonance, Grandmaster, η 0.85 to 0.90.
-
-**Paths** · Analysis of the living needs the Spirit Path at Flourishing to pass B; Attunement needs the Attraction Path at Welling to pass D; Suppression needs the Spirit Path at Splintering to pass A. Off it, Suppression caps at A and reads are shorter.
-
-| Application | Grade | Reserve Band (EU) | Per Turn (EU) |
-|---|---|---|---|
-| Listening, 0.5% a turn | A (400, 475 under strain) | 51,800 to 961,000 | 259 to 4,810 |
-| Therapy, 2% a turn | S (550, 625 under strain) | 9.90 × 10⁵ to 1.84 × 10⁷ | 19,800 to 368,000 |
-| Fell Chord surgery, 5% a turn | SS (750, unstable) | 1.89 × 10⁷ to 3.51 × 10⁸ | 9.45 × 10⁵ to 1.76 × 10⁷ |
-
-| Quantity | Working | Result |
-|---|---|---|
-| Listening to Starvation | 90% ÷ 0.5% per turn | 180 turns, 18 minutes |
-| Cost, therapy session of five turns | 5 × 2% | 10% of reserve |
-| Reserve covers, therapy | 90% ÷ 10% | nine |
-| Cost, surgery of six turns | 6 × 5% | 30% of reserve |
-| Reserve covers, surgery | 90% ÷ 30% | three, the third ending on the floor |
-
-**Cost** · Every turn of held quiet costs 0.5 percent of full reserve, so long surveillance or negotiation runs the Harmonist dry; projection pays for keeping the reference coherent, not for the energy that arrives.
-
-**Duration** · Listening lasts as long as the reserve pays, up to 180 turns; a therapy session runs about five turns (30 s), a surgery about six (36 s).
-
-**Contest** · A projection against an unwilling Crystal sets Harmonics Attunement against Harmonics Stability; losing by a full Grade puts Echo Fracture on the table.
+**Practitioners** · The Auricle Choir; one Spirit Construct designer is said to have carried its emotional frequencies into that craft, though no record ties the designer to the branch itself.
 
 ### Counterplay
 
-**Tell** · Listening: someone gone quieter than the room and staying so, which also looks like a Tenebra user. Therapy: a foreign tone beside the subject's own and the subject's Crystal drifting to it. Afterwards, a worked Crystal carries the trace.
+**Tell** · Listening: someone gone quieter than the room and staying so, which also looks like a Tenebra user. Therapy: a foreign tone beside the subject's own and the subject's Crystal drifting to it. Afterward, a worked Crystal carries the trace.
 
 **Limits** · It produces no force and no ward; therapy needs a cooperative or out-contested patient; nothing hidden below the noise floor can be read.
 

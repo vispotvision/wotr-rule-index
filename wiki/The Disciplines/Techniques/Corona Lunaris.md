@@ -1,21 +1,40 @@
 ---
-title: Corona Lunaris
+title: Moon of a Hundred Noons
 ---
 
-# Corona Lunaris
+# Moon of a Hundred Noons
 
-## Corona Lunaris
+*Corona Lunaris, the scholars' term, on every roll. The Wexcombe physicians filed it under burns.*
 
-### Summary card
+## MOON OF A HUNDRED NOONS (Corona Lunaris) (Aetherica, Stage V)
 
-**Effect** · A touch to the Lunarch Crown and a spoken command raises a half-sphere corona of Aurevane current around the bearer or one nearby ally; a hostile working that reaches the corona is stripped of its lethal vector and shed as harmless light.
+The night market at Wexcombe went on until dawn that year because nobody needed a lamp. Forty hired casters had come over the wall for one woman with a silver circlet, and every working they threw reached a half-dome of pale light around her and left sideways as a flash, each brighter than the last, so that the fishmongers kept selling by it and the bookies chalked odds by it and a dyer two streets off claimed he matched a blue. By morning six hundred people had come down with sunburn at midnight. The apothecaries of Wexcombe still sell a Lunar Salve, in a blue pot, at a price that would make you weep, though the art has never once come back to the town.
 
-**Cost** · Overuse burns her own Essence pathways badly enough to bring on headaches, light sensitivity, and a distorted aura for a time afterward, and the Crown itself needs time to cool between peak activations inside the same scene.
+Throw magic at her and the moon throws it away as light.
 
-**Limit** · The corona answers Aetheric attacks. A fist or a blade still arrives as blunt or edged force, unconverted.
+THE LUNARCH'S WORD! A hand to the Crown, a spoken command, and a half-sphere of pale current stands around her.
 
-**Counter** · Strikes from more directions at once than the corona's refraction can resolve, or a current that pierces rather than reflects, since a Void-aligned strike passes through the reflective law rather than obeying it.
+SHED IT SIDEWAYS! A hostile working spreads across the dome, loses its lethal vector and leaves as a flash scaled to what was thrown.
+
+UNDER MY MOON! The dome goes around one nearby ally in place of the bearer.
+
+### How it really works
+
+The dome is a high-reflectivity boundary with a small loss, like a worked mirror or a surface struck past its critical angle: a half-dome around one body returns incoming energy, and the fraction it cannot return leaves as light. The law is the Fresnel equations and total internal reflection past θ_c = arcsin(n₂/n₁). Reflectance depends on angle and index mismatch, and energy not returned must be re-emitted. Reflectance being angle-dependent, a strike off the designed angle returns less well, and one surface cannot face many angles at once. The joules are the attacker's. Near threshold the dome radiates hotter than the sun's surface and peaks in ultraviolet, so the harder it is hit, the brighter it burns, eyes and pathways close by included. Now you know about the salve.
+
+The glyphs are Boundary (Zhaeren), for a working whose whole content is where the interface sits, across Light (Maelor). The boundary is the reflectance of a surface about one and a half meters around a body, where air has none. Physical force is not converted: a fist, blade or hammer passes through as ordinary impact, blunt or edged. Splintering stands below Refraction, so it needs two anchors, a hand touched to the Lunarch Crown and a spoken command, and the Crown must cool between peak activations inside one scene.
+
+She pulls a local, modest amount of Aether, for a personal half-sphere and no field. The residue is short-lived light and a phase signature where she stood, which a Harmonist (one who reads a place by ear) hears as glare, and the shatter threshold is a saturation limit in miniature. Aurevane, the Wellspring of Light (Fulguria), says coherent light holds one phase across its front and fine points resolve when their patterns separate, so perception sharpens and output leaves the Shell undistorted. Fulguria is favored by dry air, conductive ground and clear sight, and suppressed by Faraday-caged interiors (rooms walled in iron mesh), heavy ferrous shielding and dense fog; fog scatters the coherence Aurevane needs. The inherited failure is Aurevane's Glare: coherent output is a beacon, and the 8,300 K surface is Glare stated in kelvin.
+
+The Aether Shell carries it and suffers both failures. Lunar Burn is Clouding (the Shell's slow failure), burned pathways with headaches, light sensitivity and a distorted aura for a time afterward. The dome shattering at threshold is Rupture. Developmental Tier Harmonic, Radiant from Transcendence. Boundary fault: a strike from many directions outruns the refraction and the unresolved vectors arrive in full. Field fault: a Void-aligned strike ignores the reflective law and passes through. A light-eating current drains the loss term and can leave the dome stronger. The bleed, 30 to 40 percent, 0.78 to 19.2 GJ of her own spend, leaves as heat at the Shell on top of the attacker's energy shed as light.
+
+Under the Consent Doctrine the art is unstrained: a boundary is set and a law behaves. The color-philosophers read brightness as harm departing, so a brighter corona seems safer. It is the reverse, since the light is material, something can eat it, and some attacks give the corona nothing to turn.
+
 > **What nobody knows.** Why a Darkness-aligned current that feeds on the shed light sometimes leaves the corona stronger afterward rather than weaker.
+
+**Cost.** Five percent of full reserve a raising, headaches and burned pathways with each hard save, and a Crown that must cool.
+
+**Counter.** Hit her with steel, from many directions at once, or with something Void-aligned that goes through the mirror.
 
 ### Codex line
 
@@ -44,17 +63,19 @@ title: Corona Lunaris
 
 Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, rather than a documented one available to study in advance.
 
----
+### Counterplay
+
+**Tell** · A hand to the Crown, a spoken word, a half-sphere of light whose brightness reports how much of its 46 GJ is spent; afterward the practitioner flinches from light and the air smells scorched.
+
+**Limits** · Twelve seconds or 46 GJ, the practitioner or one nearby ally, Aetheric attacks only, a cooling window after every peak.
+
+**Fails against** · Bolts, volleys and steel; a lost Crown or a gagged command; blows from several directions at once; fog, leather and fired clay; a Void-aligned strike; a cheap early peak and anything inside the cooling window after it.
+
+**Look up** · The Fulguria terrain and counter-kit; Aurevane's Glare; Shell Clouding and Rupture; the Splintering Stage table, the B-Grade row and the Path gates for Attunement.
+
+## Numbers
 
 ### Physics
-
-**Phenomenon** · A high-reflectivity boundary with a small loss, like a worked mirror or a surface struck past its critical angle: a half-dome around one body returns incoming energy, and the fraction it cannot return leaves as light.
-
-**Law** · The Fresnel equations and total internal reflection past θ_c = arcsin(n₂/n₁): reflectance depends on angle and index mismatch, and energy not returned must be re-emitted.
-
-**Limit** · Reflectance is angle-dependent, so a strike off the designed angle returns less well, and one surface cannot face many angles at once.
-
-**Glare** · The joules are the attacker's; near threshold the dome radiates hotter than the sun's surface and peaks in ultraviolet, so the harder it is hit, the brighter it burns, eyes and pathways close by included.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -63,36 +84,6 @@ Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, r
 | Radiant exitance at threshold | 3.26 × 10⁹ J/m² ÷ 12 s | 2.72 × 10⁸ W/m², about 2 × 10⁵ × sunlight |
 | Surface temperature | (2.72 × 10⁸ ÷ 5.670 × 10⁻⁸)^¼ | about 8,300 K |
 | Peak wavelength | 2.898 × 10⁻³ m·K ÷ 8,300 K | 348 nm, ultraviolet A |
-
-### Metaphysics
-
-**Aether** · A local, modest draw, a personal half-sphere and not a field. The residue is short-lived light and a phase signature where the practitioner stood, which a Harmonist hears as glare; the shatter threshold is a saturation limit in miniature.
-
-**Wellspring** · Aurevane, the Wellspring of Light (Fulguria): coherent light holds one phase across its front and fine points resolve when their patterns separate, so perception sharpens and output leaves the Shell undistorted.
-
-**Terrain** · Fulguria is favored by dry air, conductive ground and clear sight, and suppressed by Faraday-caged interiors, heavy ferrous shielding and dense fog; fog scatters the coherence Aurevane needs.
-
-**Inherited failures** · Aurevane's Glare: coherent output is a beacon, and the 8,300 K surface is Glare stated in kelvin.
-
-**Theory** · Consent Doctrine, unstrained: a boundary is set and a law behaves.
-
-**Essence** · The Aether Shell carries it and suffers both failures: Lunar Burn is Clouding, burned pathways with headaches and light sensitivity; the dome shattering at threshold is Rupture. Developmental Tier Harmonic, Radiant from Transcendence.
-
-**School** · The color-philosophers read brightness as harm departing, so a brighter corona seems safer; it is not, since the light is material, something can eat it, and some attacks give the corona nothing to turn.
-
-### Mechanism
-
-**Glyph** · Boundary (Zhaeren), for a working whose whole content is where the interface sits, laid across Light (Maelor).
-
-**Boundary** · The reflectance of a surface about one and a half meters around a body, where air has none.
-
-**Effect** · An Aetheric attack reaches the dome, spreads across it, loses its lethal vector and leaves sideways as a flash scaled to what was thrown. Physical force is not converted: a fist, blade or hammer passes through as ordinary impact.
-
-**Hold** · Splintering is below Refraction, so it needs two anchors: a hand touched to the Lunarch Crown and a spoken command. The Crown must cool between peak activations.
-
-**Failure** · Boundary fault: a strike from many directions outruns the refraction and the unresolved vectors arrive in full. Field fault: a Void-aligned strike ignores the reflective law. A light-eating current drains the loss term and can leave the dome stronger.
-
-**Bleed** · 30 to 40 percent, 0.78 to 19.2 GJ of the practitioner's own spend, leaves as heat at the Shell on top of the attacker's energy shed as light.
 
 ### Essence
 
@@ -103,20 +94,11 @@ Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, r
 | Quantity | Working | Result |
 |---|---|---|
 | Cost | set share | 5% of reserve, 2,590 to 48,050 EU |
-| Mean draw | cost ÷ 12 s | 216 to 4,000 AU/s |
+| Mean drain | cost ÷ 12 s | 216 to 4,000 AU/s |
 | Attack energy turned | B-Grade ceiling | up to 46 GJ per raising |
 | Reserve covers | 90% ÷ 5% | eighteen from full |
 
-**Cost** · Five percent of full reserve a raising; the 46 GJ belongs to the attacker. The Crown's cooling, not the reserve, is the brake, and Lunar Burn accrues with each hard save.
+**Cost in full** · Five percent of full reserve a raising; the 46 GJ belongs to the attacker. The Crown's cooling, not the reserve, is the brake, and Lunar Burn accrues with each hard save.
 
 **Duration** · Two turns, twelve seconds, or until 46 GJ is turned and it shatters, whichever comes first.
 
-### Counterplay
-
-**Tell** · A hand to the Crown, a spoken word, a half-sphere of light whose brightness reports how much of its 46 GJ is spent; afterwards the practitioner flinches from light and the air smells scorched.
-
-**Limits** · Twelve seconds or 46 GJ, the practitioner or one nearby ally, Aetheric attacks only, a cooling window after every peak.
-
-**Fails against** · Shot, volleys and steel; a lost Crown or a gagged command; blows from several directions at once; fog, leather and fired clay; a Void-aligned strike; a cheap early peak and anything inside the cooling window after it.
-
-**Look up** · The Fulguria terrain and counter-kit; Aurevane's Glare; Shell Clouding and Rupture; the Splintering Stage table, the B-Grade row and the Path gates for Attunement.

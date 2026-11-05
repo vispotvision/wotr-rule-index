@@ -6,20 +6,37 @@ title: Hataraki — The Works of the Plane of Fate
 
 # Hataraki — The Works of the Plane of Fate
 
+At the midsummer brackets at Tobishima, in front of nine thousand people and with his family banners going up behind him on three poles, Moto Naoki, aged twenty-two and very pleased about it, faced the great new gate of the Guild lists and pronounced collapse upon it in a voice you could hear over the rice sellers. *Hōkai Senkoku!* The gate stood. It was a good gate. He said it again, with his aura up around him like a white bonfire, and the gate went on standing, and nine thousand people began slowly and happily to explain to him what they thought of it. His aunt, Moto Kiyo, who had come only to fetch him home for a funeral, looked up from a stick of rice cake at the visitors' stand behind him, which had been put up in a hurry by a carpenter who owed money, and said the same two words with her mouth full. The stand folded along every joint it had been lying about, one neat bay at a time, and set four hundred shouting people down on the grass with hardly a broken ankle among them. She finished the rice cake and took him home. There are fighters who pay good coin to learn what she knew by then: the name is nothing, and the Plane of Fate takes no orders from anybody's lungs: it keeps a set of jobs, and some people can read them.
+
+### HATARAKI (働き · Hataraki) (Work of the Plane of Fate; the inheritance of the Moto)
+The world runs on jobs, and these people can tell a thing its job, or fire it.
+
+HAMETSU NO GŌ! The Work of Ruins. What was already going to fall, falls now, in front of everyone.  
+JUNKETSU NO GŌ! The Work of Purity. A thing is made to stand as it ought, and the stain has nowhere to stay.  
+SEIREI NO GŌ! The Work of Spirit. The dead go where they are supposed to, and whoever stands in the road is moved.  
+JIKAN NO SHIGOTO! The Work of Temporality. Something you did earlier arrives on time.  
+CHISHIKI NO SHIGOTO! The Work of Knowledge. Your true name is read out, and you stop being able to pretend.  
+BARANSU NO SHIGOTO! The Work of Balance. Whatever you overdid starts punishing you.  
+ZENTAI-SEI NO HATARAKI! The Work of Totality. All of the above in one hand, and nobody should trust the hand.  
+
+The named arts of the house that carry these Works onto a battlefield live once, in the founder's own record, the [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works|Hataraki no Sho]].
+
+## How It Really Works
+
 *Hataraki, literally translated as Work, is the governing function of the Plane of Fate.*
-> It is not merely a form of magic, nor simply a source of power. It is the labor by which existence is maintained, classified, corrected, and moved toward its appointed outcome. Where other systems channel force, **Hataraki administers purpose.**
+> It is the labor by which existence is maintained, classified, corrected, and moved toward its appointed outcome, well beyond any form of magic or source of power. Where other systems channel force, **Hataraki administers purpose.**
 
 ---
 
 ## Overview
 
-In this framework, the Plane of Fate is not a passive realm where destinies drift. It is an active plane of order, motion, judgment, and unfolding design. Hataraki is the operative current running through that plane. Through it, ruin destroys when destruction is required, purity establishes what must endure, spirit governs the traffic between life and death, temporality arranges sequence and history, knowledge reveals meaning, balance reconciles opposition, and totality gathers all functions into one complete law.
+In this framework, the Plane of Fate is an active plane of order, motion, judgment, and unfolding design, and no passive realm where destinies drift. Hataraki is the operative current running through that plane. Through it, ruin destroys when destruction is required, purity establishes what must endure, spirit governs the traffic between life and death, temporality arranges sequence and history, knowledge reveals meaning, balance reconciles opposition, and totality gathers all functions into one complete law.
 
-Each expression of Hataraki is called a **Work** because each one performs a necessary labor inside reality. A Work does not simply symbolize an idea. It enacts that idea as a law-bearing process within the world.
+Each expression of Hataraki is called a **Work** because each one performs a necessary labor inside reality. A Work enacts its idea as a law-bearing process within the world, where a symbol would only stand for it.
 
 ### Origin
 
-Before measured time, before chronology, and before the later unfolding of the epochs, **Bara** created the Works of the World within the Plane of Fate. These Works were not made as techniques or schools of sorcery, but as primal functions: the first operative laws by which existence could act, divide, endure, unravel, and complete itself.
+Before measured time, before chronology, and before the later unfolding of the epochs, **Bara** created the Works of the World within the Plane of Fate. These Works were made as primal functions and never as techniques or schools of sorcery: the first operative laws by which existence could act, divide, endure, unravel, and complete itself.
 
 For this reason the Works are older than history and older than sequence. Even time itself is not prior to them, because temporality is only one Work within the larger order of Hataraki. The Plane of Fate therefore stands as **the chamber of function before event**, the unseen order beneath becoming, where reality is not yet merely happening, but being assigned its labor.
 
@@ -32,7 +49,7 @@ Hataraki operates on three levels at once.
 | **Operational** | It determines what that thing does and how it affects reality. |
 | **Judicial** | It determines when that function is permitted, necessary, excessive, or forbidden. |
 
-Under this model, fate is not blind prediction. **Fate is labor.** It is the continuous work of assigning, preserving, undoing, measuring, and completing the roles of all things.
+Under this model, **fate is labor**, and blind prediction has no part in it. It is the continuous work of assigning, preserving, undoing, measuring, and completing the roles of all things.
 
 ---
 
@@ -60,7 +77,7 @@ flowchart TD
 No Work can endure as more than a passing occurrence unless existence recognizes it.
 
 **Attraction Force** is the law of recognition, the binding principle that allows one presence to acknowledge another and for that acknowledgment to persist as continuity. Through it, vows remain binding, relics remember their bearers, lineages preserve their echo, Domains remain stable, and spiritual relations survive time, death, distance, and change. Within Hataraki, Attraction Force is what allows a Work to stay lawful, sustained, and recognized inside reality. A Work functioning through it binds through recognition rather than captivity, preserves continuity without erasing distinction, and remembers without devouring freedom.
-> **Obsession Force** is the corrupted inversion. It arises when recognition loses mercy and release. Then connection no longer preserves. It imprisons. What was once lawful continuity becomes fixation, recursion, possession, and spiritual suffocation. Under Obsession Force a Work does not merely act. **It clutches, repeats, saturates, and narrows until its function becomes a cage.**
+> **Obsession Force** is the corrupted inversion. It arises when recognition loses mercy and release. Then connection imprisons where it once preserved. What was once lawful continuity becomes fixation, recursion, possession, and spiritual suffocation. Under Obsession Force a Work **clutches, repeats, saturates, and narrows until its function becomes a cage.**
 Every Work therefore possesses both a lawful expression and a corruption vector.
 
 ---
@@ -71,7 +88,7 @@ Every Work therefore possesses both a lawful expression and a corruption vector.
 
 ### Hametsu no Gō · the Work of Ruins
 
-The function of collapse, devastation, despair, madness, entropy, and the residue of chaos. It governs the necessary unmaking of corrupted, exhausted, or unsustainable structures. **Ruin is not evil by default; it is the divine labor of ending what can no longer remain whole.**
+The function of collapse, devastation, despair, madness, entropy, and the residue of chaos. It governs the necessary unmaking of corrupted, exhausted, or unsustainable structures. **Ruin carries no evil by default: it is the divine labor of ending what can no longer remain whole.**
 
 Its function within the Plane of Fate is to break false continuities. When a kingdom, soul, law, pact, age, or structure has become diseased beyond repair, Hametsu no Gō performs the work of severance through destruction. It strips away delusion, tears down decayed order, and returns excess creation to ash, silence, or fragmentation. It is one of the oldest conditions by which reality is permitted to stop.
 
@@ -85,7 +102,7 @@ Its function within the Plane of Fate is to break false continuities. When a kin
 
 The function of foundation, creation, order, clarity, sanctity, and sacred sanity. The stabilizing labor that establishes what ought to stand, what ought to be protected, and what ought to remain uncontaminated by corruption.
 
-Its role is not merely to heal, but to **define proper structure**. Purity creates sound foundations, restores rightful form, and enforces integrity upon matter, law, spirit, and intention. Where Ruin strips away what has failed, Purity builds and preserves what is worthy of endurance. It is the primitive act by which existence becomes fit to remain.
+Its role goes past healing: it exists to **define proper structure**. Purity creates sound foundations, restores rightful form, and enforces integrity upon matter, law, spirit, and intention. Where Ruin strips away what has failed, Purity builds and preserves what is worthy of endurance. It is the primitive act by which existence becomes fit to remain.
 
 **Common functions** · Construction of stable forms, laws, and sanctified structures · cleansing of corruption, distortion, or metaphysical stain · reinforcement of sanity, order, and inner coherence · illumination of truth through refinement · protection of sacred systems from defilement or breach.
 
@@ -109,9 +126,9 @@ Spirit does not only animate life; it regulates endings, hauntings, remembrance,
 
 The function of time, sequence, duration, causality, space, history, and timeline management. It governs not only the passage of moments, but the lawful arrangement of events into coherent chains of before, during, and after.
 
-Temporality ensures that existence unfolds in ordered progression. It maintains historical continuity, guards the relationship between cause and consequence, and stabilizes the architecture through which timelines branch, converge, repeat, or terminate. **Without this Work, reality would not merely become chaotic; it would become unreadable.**
+Temporality ensures that existence unfolds in ordered progression. It maintains historical continuity, guards the relationship between cause and consequence, and stabilizes the architecture through which timelines branch, converge, repeat, or terminate. **Without this Work, reality would become chaotic and then unreadable.**
 
-This Work is especially important because it proves that Hataraki precedes chronology. Time is not the source of the Works. Time itself is one Work beneath the larger order of function established by Bara.
+This Work is especially important because it proves that Hataraki precedes chronology. Time itself is one Work beneath the larger order of function established by Bara, and the Works owe it nothing.
 
 **Common functions** · Regulation of time-flow, duration, and sequence · oversight of historical continuity and memory of events · structuring of timelines, branches, loops, and convergences · enforcement of causal consequence · alignment of spatial position with temporal order.
 
@@ -135,7 +152,7 @@ Knowledge gives shape to comprehension. It governs learning, memory, discernment
 
 The function of reconciliation, measure, proportion, unity, and reason between opposites. **The labor that prevents dualities from destroying the world through unchecked excess.**
 
-Balance governs the tension between Ruin and Purity, death and life, law and freedom, creation and destruction, motion and stillness. It does not erase opposition. It assigns proper weight to each force so that existence can endure strain without tearing itself apart. It is the first mediation.
+Balance governs the tension between Ruin and Purity, death and life, law and freedom, creation and destruction, motion and stillness. It leaves opposition standing and assigns proper weight to each force so that existence can endure strain without tearing itself apart. It is the first mediation.
 
 **Common functions** · Mediation between opposing principles · restoration of measure when one force becomes excessive · harmonization of conflicting laws, systems, or essences · preservation of unity without requiring sameness · establishment of reasoned equilibrium in unstable conditions.
 
@@ -146,7 +163,7 @@ Balance governs the tension between Ruin and Purity, death and life, law and fre
 ### Zentai-sei no Hataraki · the Work of Totality
 
 The highest and widest expression of Hataraki. The function of wholeness, integration, reality-completion, and the convergence of all subordinate Works into one governing total system.
-> Totality is not merely another branch beside the others. It is the **crown-function** that contains, coordinates, and gives context to every Work beneath it. If Ruin ends, Purity builds, Spirit transfers, Temporality orders, Knowledge reveals, and Balance reconciles, then Totality is what makes all of those functions belong to the same universe without contradiction.
+> Totality stands above the other branches as the **crown-function** that contains, coordinates, and gives context to every Work beneath it. If Ruin ends, Purity builds, Spirit transfers, Temporality orders, Knowledge reveals, and Balance reconciles, then Totality is what makes all of those functions belong to the same universe without contradiction.
 >
 > It is the first permission for reality to be **one** reality rather than a shattered multitude of unconnected processes.
 **Common functions** · Integration of all Works into a single coherent order · oversight of reality as a complete functional system · governance of existential wholeness and cosmic relation · resolution of conflicts that exceed the authority of any single Work · manifestation of Hataraki in its most complete and universal state.
@@ -159,7 +176,7 @@ The highest and widest expression of Hataraki. The function of wholeness, integr
 
 ## The Functional Relationship Between the Works
 
-The Works are not isolated domains. They are interdependent functions inside a single greater order.
+The Works are interdependent functions inside a single greater order.
 
 | Work | Its labor in one line |
 |---|---|
@@ -171,17 +188,17 @@ The Works are not isolated domains. They are interdependent functions inside a s
 | **Balance** | prevents opposition from becoming annihilating excess |
 | **Totality** | gathers every Work into one complete architecture |
 
-Together these Works transform the Plane of Fate from a realm of simple prophecy into a realm of **active divine administration**. Fate does not merely predict outcomes through Hataraki. It performs the work necessary to produce, preserve, alter, terminate, and complete those outcomes.
+Together these Works transform the Plane of Fate from a realm of simple prophecy into a realm of **active divine administration**. Through Hataraki, Fate performs the work necessary to produce, preserve, alter, terminate, and complete those outcomes.
 
 ---
 
 ## Epochal Manifestation
 
-Because the Works were created before time, they stand beneath the later sequence of epochs rather than arising from them. The Second Epoch and Third Epoch do not invent these functions. **They inherit and express them.**
+Because the Works were created before time, they stand beneath the later sequence of epochs rather than arising from them. The Second Epoch and Third Epoch invent none of these functions. **They inherit and express them.**
 
-This is part of the reason Aegor appears in the Second Epoch. His emergence is not the birth of those meanings, but a later historical manifestation of functions already authored in the Plane of Fate. In the same way, Ashura in the Third Epoch exists because the deeper functional lattice had already been laid before that age arrived. Each epoch comes after the one before it, but each unfolds on a foundation established long before chronology.
+This is part of the reason Aegor appears in the Second Epoch. His emergence is not the birth of those meanings, but a later historical manifestation of functions already authored in the Plane of Fate. In the same way, Ashura in the Third Epoch exists because the deeper functional lattice had already been laid before that age arrived. Each epoch comes after the one before it, but each unfolds on a foundation established long before chronology. In the days of the Physical Epochs Bara, Ashura and Aegor walked in human form, and the dead battlefields and relics of the Great Spirit War still answer to these Works.
 
-The epochs are not replacements for Hataraki. They are **successive unveilings of what the Works had already made possible**.
+The epochs are **successive unveilings of what the Works had already made possible**, and they replace nothing.
 
 ---
 
@@ -207,5 +224,12 @@ The epochs are not replacements for Hataraki. They are **successive unveilings o
 Hataraki is the active labor of the Plane of Fate. It is the system by which existence functions according to divine purpose. Every Work within it is a sacred operation: a law-bearing duty that sustains one necessary part of reality.
 
 Bara created the Works before time. The Archons stand as higher sovereign expressions of meanings already present within them. World Spirits and Titans can exist because the Works first made such realities functionally possible. Attraction Force allows the Works to endure as lawful recognition and continuity, while Obsession Force corrupts those same labors into captivity and recursive need.
-> To wield Hataraki is therefore not just to use power. **It is to invoke function.** It is to call upon the labor of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
+> To wield Hataraki is therefore **to invoke function**, and using power is the least of it. It is to call upon the labor of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
+
+**Cost.** The Work presses the soul into a useful shape, and every Work carries a corruption vector: under Obsession Force, Ruin becomes compulsive devastation and Purity becomes sterilization, and the bearer does not notice.
+
+**Counter.** A designation has to be earned, so be sound: a pronouncement laid on a thing with no hidden failure in it does nothing, and a false continuity is the only kind Ruin can break.
+
+**Numbers.** Seven Works, gathered over the Sixty Wellsprings with eight representative Wellsprings listed to each. Three levels of operation (Conceptual, Operational, Judicial). Fourteen Archons. The second roster: seven names, two in common with the first. No EU figures live here; the Works are priced at the art, and the arts are in the Sho.
+
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]

@@ -4,6 +4,37 @@ title: Hataraki no Sho — The Martial Application of the Works
 
 # Hataraki no Sho — The Martial Application of the Works
 
+*Archivist's note. What follows is sealed, in the founder's own hand, and the Guild has left his manners exactly where he put them. The whole of it fits in a line a child could repeat:* **See the crack first, name it, and then hit it with the correct thing.** *For the reader who wants the arts by name, these are the ones he sets down, and this record is the one place they are kept.*
+
+KAKUSHI WARI! A cut laid in the place where your own stance has already told on you.  
+BYAKKO NO KIREME! Past the harness and through the loosened strap, as neat as a clerk's correction.  
+SHINZUI KAIBUN! Two fingers on the flat of her blade, and a shallow strike puts the revenant's soul back in order.  
+SAKI NO MON! He steps through the instant you have not reached yet.  
+MIKETTEI NO AME! Banners and footwork alone, and a frightened army runs exactly where he wanted it.  
+HŌKAI SENKOKU! Collapse pronounced aloud, on something that has earned it.  
+KAIMETSU NO HASUJI! A humble line along the leverage, and the joint or wall that was going to go, goes.  
+TETSU SHŪEN! A hammer driven through harness, gambeson, rib and nerve, in that order.  
+SEIJŌ KEKKAI! A field where only what is right may stay, so curses stop making sense in it.  
+HAKUGIN KOSEI! Mid-bind, your frightened bones remember how to stand.  
+JŌKA FUDAN! Curse, rot and oath-poison scoured off blade, wound or shrine.  
+TAMASHII TOBARI! A curtain that keeps the dead out of your head and your fear from opening the door.  
+YUKUE NO SEN! The ghost goes on, and you let it.  
+REIKON SHIHAI! Spirit as magistrate: the revenant is told to stop, and stops.  
+KANSOKU HOKŌ! A step placed so rightly that sequence comes down on your side.  
+INNEN KUSARI! Something earlier arrives on time: the feint, the oath, the wound you ignored.  
+NAIMEI KETSUGI! A thing's inner name is spoken, and it can no longer pretend.  
+MONJO NO KAGAMI! He sees how you think your technique works, and then how it fails.  
+FUTATSU NO TENBIN! A small tilt of the field, and your own excess turns on you.  
+SŌGŌ TŌKAN! Every Work on the field gathered under one hand.  
+TEIHO NO OZA! A throne of judgment over colliding laws, which get ranked.  
+NA NO ITO! A thread on your name, and no disguise or mirror body shakes it.  
+CHOKUREI AYUMI! He moves to where the exchange properly ends.  
+SHIKI ORI! Aether patterned through posture, nerve, weapon and breath, and none of it leaks.  
+SHŪEN KUGI! The spike through the armpit gap.  
+DANZAI NO KU! The sentence of severance, spoken last, after you have already admitted it.  
+
+---
+
 **HATARAKI NO SHO**
 > *Being a private doctrinal record set down in the hand of Bara Moto, Founder of the Moto Bloodline, concerning the observed nature of Hataraki, the errors of lesser readers, and the martial applications by which Fate itself is made operative.*
 > 
@@ -40,7 +71,7 @@ Meigan users become quiet in the wrong way. Not contemplative, but predatory. Th
 
 **Kakushi Wari** · *Hidden-Seam Rend.* A revelation cut placed not where the enemy is strongest, but where his form has already told on itself.
 
-**Byakko no Kireme** · *White Fox Parting.* A competent swordsman strikes plate and complains. A Moto with Meigan notes the loosened strap beneath the arm, the weight-shift toward the weak knee, the overtrust in the left-side guard, and then performs this, which is less a slash than a legal correction made at speed.
+**Byakko no Kireme** · *White Fox Parting.* A competent swordsman strikes harness and complains. A Moto with Meigan notes the loosened strap beneath the arm, the weight-shift toward the weak knee, the overtrust in the left-side guard, and then performs this, which is less a slash than a legal correction made at speed.
 
 ### Reigan · the soul eye
 
@@ -82,7 +113,7 @@ Hametsu no Gei was created because diseased continuity is one of existence's old
 
 **Kaimetsu no Hasuji** · *Edge-Line of Annihilation.* Used through sword, spear, and decree alike. The least intelligent version is the one preferred by braggarts, a broad committed stroke meant to impress witnesses. The correct version is almost humble. It follows leverage. It understands angle. It uses the enemy's own tension against him. In armored combat it seeks articulation, weight-bearing joints, visor channels, or previously rattled structure. In fortification warfare it waits for masonry to confess where the stress has settled.
 
-**Tetsu Shūen** · *Iron Terminal.* A hammer-form, neglected by aesthetes and beloved by real soldiers. One does not pretend to become subtler than steel. One simply drives ruin through plate, gambeson, rib, and nerve in proper sequence until the body loses its argument with the blow. *I have always liked the honesty of hammers. They are incapable of ornamental thought.*
+**Tetsu Shūen** · *Iron Terminal.* A hammer-form, neglected by aesthetes and beloved by real soldiers. One does not pretend to become subtler than steel. One simply drives ruin through harness, gambeson, rib, and nerve in proper sequence until the body loses its argument with the blow. *I have always liked the honesty of hammers. They are incapable of ornamental thought.*
 > **The corruption of Ruin** is easy to identify. The practitioner ceases to ask whether a thing ought to end, and begins to enjoy ending as a general principle. Bloodlines have vanished into that error and called themselves pure for it.
 
 ---
@@ -111,7 +142,7 @@ There are old houses in which the dead are never allowed to leave cleanly. They 
 
 **Tamashii Tobari** · *Soul Curtain.* The first technique taught in any serious spirit discipline. Not because it is glamorous. Because it prevents stupidity. It keeps external dead-pressure from entering the practitioner's inner chamber and keeps the practitioner's own fear from becoming a doorway.
 
-**Yukue no Sen** · *Line of Passing.* Among the gentlest techniques in appearance and the cruellest in demand. **One must love release more than possession to perform it correctly.** Used to sever parasitic hauntings, to guide the newly dead beyond recurrence, and to cut mourning free from the point where mourning has become an altar to self-pity.
+**Yukue no Sen** · *Line of Passing.* Among the gentlest techniques in appearance and the cruelest in demand. **One must love release more than possession to perform it correctly.** Used to sever parasitic hauntings, to guide the newly dead beyond recurrence, and to cut mourning free from the point where mourning has become an altar to self-pity.
 - ***A Moto mother, and the ghost of her own firstborn***
   She did not tremble. She did not posture. She simply placed her palm against the child's spectral brow, whispered the true relation between them, and let him go where she could not follow.
 
@@ -175,7 +206,7 @@ A bloodline may possess excellent doctrine and still die like idiots if it forge
 ### On weapons
 
 The **tachi and longsword** to those who study revelation and temporality. **Spears and estocs** to those who favor causality and spirit-penetration. **Polearms** to commanders. And **hammers** to anyone who has finally accepted that armor is a conversation best ended honestly.
-> Against plate, do not behave like a poet. **Behave like architecture with intent.**
+> Against harness, do not behave like a poet. **Behave like architecture with intent.**
 >
 > Hook behind the knee. Strike the pauldron to numb the arm. Half-sword into the visor. Use **Shūen Kugi** through the armpit gap. Follow with **Danzai no Ku**, *Sentence of Severance*, only after the target has already been forced to admit his own instability.
 >
@@ -225,3 +256,13 @@ And if ever you reach the higher thrones of Totality, and feel the old sovereign
 > I wrote the Works before time.
 >
 > My descendants need not improve upon them. They need only become worthy of using them.
+
+---
+
+*Archivist's note, for the shelf:*
+
+**Cost.** Each Work has its named corruption, and the founder is candid that bloodlines have vanished into them while calling themselves pure.
+
+**Counter.** By his own account, a finishing form needs a target that has already failed: hold your line, keep your straps sound, and give him nothing to read.
+
+**Numbers.** Four branches of the Shingan. Seven Lines. Seven Works, seven corruptions. Three house forms. The founder gives no figures, and this office has not asked.

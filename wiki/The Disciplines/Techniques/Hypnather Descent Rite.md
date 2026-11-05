@@ -1,22 +1,42 @@
 ---
-title: Hypnather Descent Rite
+title: Bedtime
 ---
 
-# Hypnather Descent Rite
+# Bedtime
 
-## Hypnather Descent Rite
+*Hypnather Descent Rite on the roll, and to the scholars. Grown fighters who have met it do not find the short name funny, which is how you can tell.*
 
-### Summary card
+## BEDTIME (Hypnather Descent Rite) (Harmonia, Stage VII)
 
-**Effect · The practitioner forces** a target's Crystal toward a rest-state relaxation it never consented to enter, then interrupts it mid-collapse. The body slows, the memory fogs, and for a moment the target is seeing something that is not in the room.
+Thorkel Stoutmantle held the ring at Thornby for nine straight midsummers, a slab of a man in a bull's-hide coat and a color of aura the crowd called butcher's red, and nothing short of a falling church had ever put him down. In the second minute of the tenth final, with his hammer up, in front of eight thousand people, he yawned. He looked surprised. His arm came down very slowly. He said, clear as a herald, "Who let the horse in?" and turned to stare at an empty corner of the ring, and then he stood there frowning, unable to remember what the hammer was for, while a thin person sixty paces away in the cheap seats went on looking at him without blinking. The bookies paid out. The Thornby Guild tried to have the word banned from the ring, and now every child in town shouts it at closing time.
 
-**Cost** · **Sleep Debt.** Running three interrupted processes through his own Shell at once destabilises his own waking mind. **Memory Backlash** risks pulling some of the target's own fear or trauma back through him in the process.
+He looks at you, and your body starts falling asleep and gets interrupted halfway.
 
-**Limit** · Needs a target with an actual biological consciousness capable of genuine rest in the first place; nothing without that architecture has a relaxation process to interrupt. Needs line-of-sight, to keep the forced trajectory pinned to one body rather than letting it dissipate the way an honest Oneirion working would.
+BEDTIME! Eyes fixed on one person inside sixty meters, and limbs go heavy and reflexes slow with no clean edge to it.
 
-**Counter** · **It needs its target quiescent: Hypnather's own law states the reorganisation happens during genuine rest and cannot be forced, and** *a hard enough shock breaks the rest-state precondition before the lock sets.*
+WHERE WAS I? The last 3 to 10 seconds go missing in patches, and they never come back.
 
-**What nobody knows** · Why the held forget their own purpose before they forget the pain, the same open question Vohrin's Stillwater Rite carries, and whether the two are drawing on the same underlying law.
+WHO LET THE HORSE IN? Something stands in the room that is not there, for as long as his eyes stay on you.
+
+### How it really works
+
+The scholars' physics is structural relaxation in a glass and the Kovacs memory effect. A glass keeps slowly settling toward an order it never reached, and if that settling is interrupted partway it overshoots into a state worse ordered than either end and holds there. The law is stretched-exponential relaxation, exp[−(t/τ)^β] with β 0.3 to 0.6 and τ growing with age, plus the non-monotonic Kovacs response to an interruption. The process runs only while the system is quiescent, so disturb it hard enough and there is no relaxation to interrupt. Relaxation is spontaneous, driven downhill by the system's own free energy; the working supplies only the quiescence and then the interruption, so the physics is nearly free and the Essence is expensive. Three forced failures run at once through one conduit: the relaxation lock at about 100 s, the memory pass in a 3 to 10 s window, and the false percept at once.
+
+The glyphs are Lock (Counter) across Reverie (Extension): Lock occupies a limit so no other can be set there, and an interrupted relaxation is a system barred from the order it was heading for. Two boundaries run in sequence: the quiescence condition is forced true, then partway through forced false, and all the damage is in the transition. It feels like being suddenly and wrongly tired. The sightline is a targeting anchor required at every Stage, because without it the Oneirion landing has no coordinate and simply misses. It lasts while he keeps attention and line of sight on one body within 60 m, and forcing Hypnather against its grain is what makes it both costly and fragile. Afterward the heaviness settles over about 100 s with a long tail, and the false percept ends when the anchor breaks.
+
+The order of loss is the famous part. The held forget their purpose before their pain, because weakly coupled modes relax first, and purpose has few couplings while pain has many.
+
+A held line to one body is all the Aether it needs. Limina is favored by darkness, silence, thin Aether and ruins, and starved by saturation, crowds and active Domains. The Residue sits in the target: a worse-ordered Crystal a competent reader finds afterward. Hypnather, the Sleep Crown (Limina), says a glass left undisturbed keeps relaxing toward the order it never reached, slowly and only while quiescent, and it cannot be forced by ordinary means. Letheveil, the Waters of Forgetting (Limina), says each pass discards a little more, and a memory compressed repeatedly degrades toward an artifact still experienced as memory. Oneirion, the Wellspring of Dream (Limina), says a trajectory correct in the dream manifold lands nowhere in particular when mapped back into a room. The rite is built from the three failures on purpose: Hypnather's interrupted lock gives heavy limbs and slow reflexes, Letheveil's generation loss gives patchy amnesia, Oneirion's projection error gives a false percept.
+
+The Aether Shell carries all three forced processes, the textbook route to Clouding (the Shell's slow failure), and the Essence Core takes the Memory Backlash. Developmental Tier Resonant at Refraction, and routine users carry a residue-heavy Crystal. The structural fault is three failure states through one Shell, with the Core taking what bleeds back, split into Sleep Debt (the caster loses restful recovery and his own waking mind destabilizes) and Memory Backlash (carrying a stranger's fear or worst memory). Below A in Tempering the three currents cannot be held apart, and the rite clouds his own Shell before it locks the target's. The bleed is 30 to 40 percent of every expenditure, leaving as heat at the Shell along three paths; the Memory Backlash is a structural bleed with a destination, rarer and worse than heat.
+
+The Magnetists teach it as medicine, a curative crisis held by the operator's attention. Their fluid does not exist, and their houses record cures while leaving a trail of Crystals that settled wrong. It has a philosophy too, from its one known practitioner, and I give it without comment: descent reveals what a target fears the instant they blink.
+
+> **What nobody knows.** Why the held forget their own purpose before they forget the pain, the same open question Vohrin's Stillwater Rite carries, and whether the two are working from the same underlying law.
+
+**Cost.** Five percent of full reserve to establish, one and a half a turn to hold, Sleep Debt, and the risk of bringing home a stranger's worst memory.
+
+**Counter.** A hard shock breaks the rest-state before the lock sets; break the sightline, or be something with no biological sleep to interrupt.
 
 ### Codex line
 
@@ -26,7 +46,7 @@ title: Hypnather Descent Rite
 
 **Physics Domain** · Abstract-Entropic Systems
 
-**Category** · Harmonia (Spirit ↔ Attraction: tuning and destabilising another Crystal's own Wellspring processes, rather than casting a new effect onto them)
+**Category** · Harmonia (Spirit ↔ Attraction: tuning and destabilizing another Crystal's own Wellspring processes, rather than casting a new effect onto them)
 
 **Craft** · Spellcraft
 
@@ -54,19 +74,21 @@ title: Hypnather Descent Rite
 
 The rite has a single known practitioner, and its philosophy states its purpose: descent reveals what a target fears the instant they blink.
 
----
+### Counterplay
+
+**Tell** · The practitioner fixes on one person inside 60 m and does nothing else while the rite runs; afterward the target's Crystal reads worse ordered, and the practitioner is tired in a way sleep does not fix.
+
+**Limits** · Sixty meters, line of sight held throughout, sustained attention, and a target with a biological consciousness capable of genuine rest: no constructs, no undead.
+
+**Fails against** · A hard shock, from pain or an ally's blow, which breaks quiescence before the lock takes; smoke, cover or a body in the sightline, which makes it miss; constructs; loud, crowded, saturated ground, which starves Limina.
+
+**Preparation** · A strong Spirit Path Crystal resists the hijacked trajectory, and Verdantia's regenerative pressure can outpace the lock before it sets; both work only if in place before contact.
+
+**Look up** · Hypnather's Core Law; the Limina entries for Hypnather, Letheveil and Oneirion Failures; the Shell's Clouding and Rupture; the Refraction Stage table; Verdantia's entry.
+
+## Numbers
 
 ### Physics
-
-**Phenomenon** · Structural relaxation in a glass, and the Kovacs memory effect: a glass keeps slowly settling toward an order it never reached, and if that settling is interrupted partway it overshoots into a state worse ordered than either end, and holds there.
-
-**Law** · Stretched-exponential relaxation, exp[−(t/τ)^β] with β 0.3 to 0.6 and τ growing with age, plus the non-monotonic Kovacs response to an interruption.
-
-**Limit** · The process runs only while the system is quiescent; disturb it hard enough and there is no relaxation to interrupt.
-
-**Joules** · Relaxation is spontaneous, driven downhill by the system's own free energy; the working supplies only the quiescence and then the interruption, so the physics is nearly free and the Essence is expensive.
-
-**Clocks** · Three forced failures run at once through one conduit: the relaxation lock at about 100 s, the memory pass in a 3 to 10 s window, and the false percept at once.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -75,44 +97,6 @@ The rite has a single known practitioner, and its philosophy states its purpose:
 | Ordinary sleep onset; slow-wave onset | human baseline | 600 to 1,200 s; 1,200 to 1,800 s |
 | Forced onset | one combat exchange | about 10 s |
 | Compression | 1,000 s ÷ 10 s | about 100 times |
-
-### Metaphysics
-
-**Aether** · A held line to one body, not a field; Limina is favored by darkness, silence, thin Aether and ruins, and starved by saturation, crowds and active Domains. The Residue sits in the target: a worse-ordered Crystal a competent reader finds afterwards.
-
-**Wellspring** · Hypnather, the Sleep Crown (Limina): a glass left undisturbed keeps relaxing toward the order it never reached, slowly and only while quiescent, and it cannot be forced by ordinary means.
-
-**Wellspring** · Letheveil, the Waters of Forgetting (Limina): each pass discards a little more, and a memory compressed repeatedly degrades toward an artifact still experienced as memory.
-
-**Wellspring** · Oneirion, the Wellspring of Dream (Limina): a trajectory correct in the dream manifold lands nowhere in particular when mapped back into a room.
-
-**Inherited failures** · The rite is built from the three failures on purpose: Hypnather's interrupted lock gives heavy limbs and slow reflexes, Letheveil's generation loss gives patchy amnesia, Oneirion's projection error gives a false percept.
-
-**Essence** · The Aether Shell carries all three forced processes, the textbook route to Clouding; the Essence Core takes the Memory Backlash. Developmental Tier Resonant at Refraction; routine users carry a residue-heavy Crystal.
-
-**School** · The Magnetists teach it as medicine, a curative crisis held by the operator's attention; their fluid does not exist, and their houses record cures while leaving a trail of Crystals that settled wrong.
-
-### Mechanism
-
-**Glyph** · Lock (Counter) laid across Reverie (Extension): Lock occupies a limit so no other can be set there, and an interrupted relaxation is a system barred from the order it was heading for.
-
-**Boundary** · Two in sequence: the quiescence condition is forced true, then partway through forced false; all the damage is in the transition.
-
-**Effect** · A forced half-sleep with no clean edge: limbs heavy, reflexes slow, the last few seconds missing in patches, and something in the room that is not there. It feels like being suddenly and wrongly tired.
-
-**Order of loss** · The held forget their purpose before their pain: weakly coupled modes relax first, and purpose has few couplings while pain has many.
-
-**Anchor** · The sightline is a targeting anchor required at every Stage: without it the Oneirion landing has no coordinate and simply misses.
-
-**Hold** · It lasts while the practitioner keeps attention and line of sight on one body within 60 m, and forcing Hypnather against its grain is what makes it both costly and fragile.
-
-**Aftermath** · The heaviness settles over about 100 s with a long tail; the false percept ends when the anchor breaks; the lost 3 to 10 seconds never return.
-
-**Failure** · Structural fault: three failure states through one Shell, and the Core takes what bleeds back, split into Sleep Debt (the caster loses restful recovery) and Memory Backlash (carrying a stranger's fear or worst memory).
-
-**Tempering** · Below A in Tempering the three currents cannot be held apart, and the rite clouds the practitioner's own Shell before it locks the target's.
-
-**Bleed** · 30 to 40 percent of every expenditure leaves as heat at the Shell along three paths; the Memory Backlash is a structural bleed with a destination, rarer and worse than heat.
 
 ### Essence
 
@@ -125,18 +109,7 @@ The rite has a single known practitioner, and its philosophy states its purpose:
 | Cost, four turns held | 5% + 4 × 1.5% | 11% of reserve, 24 s |
 | Reserve covers | 90% ÷ 11% | about eight |
 
-**Cost** · Five percent of full reserve to establish, then 1.5 percent each six-second turn held, plus Sleep Debt and the risk of Memory Backlash.
+**Cost in full** · Five percent of full reserve to establish, then 1.5 percent each six-second turn held, plus Sleep Debt and the risk of Memory Backlash.
 
 **Duration** · Held while sight and attention hold, typically four turns (24 s); the heaviness lingers about 100 s, seventeen turns, after release.
 
-### Counterplay
-
-**Tell** · The practitioner fixes on one person inside 60 m and does nothing else while the rite runs; afterwards the target's Crystal reads worse ordered, and the practitioner is tired in a way sleep does not fix.
-
-**Limits** · Sixty meters, line of sight held throughout, sustained attention, and a target with a biological consciousness capable of genuine rest: no constructs, no undead.
-
-**Fails against** · A hard shock, from pain or an ally's blow, which breaks quiescence before the lock takes; smoke, cover or a body in the sightline, which makes it miss; constructs; loud, crowded, saturated ground, which starves Limina.
-
-**Preparation** · A strong Spirit Path Crystal resists the hijacked trajectory, and Verdantia's regenerative pressure can outpace the lock before it sets; both work only if in place before contact.
-
-**Look up** · Hypnather's Core Law; the Limina entries for Hypnather, Letheveil and Oneirion Failures; the Shell's Clouding and Rupture; the Refraction Stage table; Verdantia's entry.

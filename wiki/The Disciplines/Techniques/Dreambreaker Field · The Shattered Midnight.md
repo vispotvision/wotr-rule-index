@@ -1,21 +1,42 @@
 ---
-title: Dreambreaker Field · The Shattered Midnight
+title: The Crooked Midnight
 ---
 
-# Dreambreaker Field · The Shattered Midnight
+# The Crooked Midnight
 
-## Dreambreaker Field · The Shattered Midnight
+*Dreambreaker Field in the old rolls, The Shattered Midnight on the old door-bills. Both survive as the scholars' terms.*
 
-### Summary card
+## THE CROOKED MIDNIGHT (Dreambreaker Field · The Shattered Midnight) (Domain Weaving, Stage VII)
 
-**Effect · The practitioner claims** a stretch of ground and makes dream-logic and waking law disagree inside it, so nobody's aim, timing, or reading of their own cost can be trusted there.
+Sergeant Noll Oakes of the Reeve's Foot could neither read nor be told anything, and that is how he came to be the only man out of forty who walked out of it. Inside the circle the company's bolts bent off like thrown eels, the second-best swordsman in the county stabbed a tree he had been nowhere near, and a battle-caster dropped to his knees believing he had spent everything he owned when he had spent a thimbleful. Oakes announced in a voice they heard in the next valley that a straight line was a straight line, nailed his boots to a fence post, and put a bolt through the thigh of the man in the center by aiming exactly where he was. The Earl of the Vale offered him a banner to carry. He asked what that meant and declined.
 
-**Cost** · He carries a flicker of his own field's contradiction while he holds it, and the ground remembers the distortion for a while after he lets go.
+Inside his circle, straight lines bend and nobody can trust a second or a price.
 
-**Limit** · Cannot be laid over a Domain already claimed, and a Titan's presence unmakes the claim outright.
+THE CROOKED MIDNIGHT! A declared claim on forty meters, where the first thing anyone does goes wrong in an obvious way.
 
-**Counter** · A grounding rune, a reality-lock invocation, or any unclaimed pulse strong enough to contest the Layer's recognition.
+BENT ARROW! Attacks curve, and aiming off does not correct them, because the shortest path changes each time.
+
+THE WRONG SECOND! One second runs longer or shorter than the last.
+
+WHO PAID FOR THAT? Everyone inside misreads what their own workings cost.
+
+### How it really works
+
+The medium is gradient-index, where the bending power of the air changes smoothly from place to place, so rays and attacks travel on curved lines as in a desert mirage or a graded lens. The law is Fermat's principle: a ray takes the path of least optical time, and where the index varies that path curves with radius R = n / |∇n|. Bending is smooth, reciprocal and blind to allegiance, so the practitioner's own attacks curve too. The optical time shift is only 23 ns, so the field's warped timing cannot come from light, which is why a second boundary exists at all. Bending a ray is free, as a lens is passive; holding the gradient against its own tendency to diffuse flat is a continuous power cost.
+
+The glyphs are Mirage across Boundary: Mirage sets the gradient-index medium, Boundary fixes the forty-meter claim. The first boundary is the index gradient inside a forty-meter sphere. The second, set through Oneirion on the field's attention density, warps timing and answers to different counters. It is declared, since Refraction is the first Stage able to compress the glyph chain without a material anchor, and held three turns. The claim is binary while the gradient is not; when the claim goes, the gradient diffuses flat in one relaxation time with no warning.
+
+Aether is pulled continuously across the whole volume. Limina favors darkness, silence and ruins, Fluxia favors water and humidity, and an active Domain suppresses it outright. It leaves Dream Residue in the ground, which deafens Harmonists (those who read a place by ear) while it lies there. Eidolyn, the Shaping Mind (Limina), says a supersaturated medium deposits along a given template, so intent becomes the template and the curved line is a true local fact and no illusion at all. Oneirion, the Wellspring of Dream, routes distance and timing through configuration space, away from the room's geometry. Somnalis, the Dream Veil (Fluxia), lets the practitioner perceive the spread of adjacent possibilities with their weights, so only he can see which one the field is enforcing. Eidolyn's template defect reproduces any flaw in the intent at full scale, and Somnalis's ensemble collapse mistakes the spread for one reading, with Double Vision its onset: after each turn he sees the field's contradictions over his own sight, and after a full hold his own aim stays curved through the next turn.
+
+The Attraction Layer (the Crystal's outer claim on the world) pays: Domain Weaving claims the radius and keeps recognizing the claim, so the field holds evenly and fails all at once. The risk is Obsession Force; Developmental Tier Resonant at Refraction. Field fault: ground already claimed by a Domain, or a Titan present, leaves the claim unmade, with nothing even weakened. Boundary fault: the gradient has no allegiance, so allies inside suffer every distortion. Thirty-five percent of each turn's spend leaves his Shell as heat, sound and light.
+
+The Equal-Frames school of the Limina houses reads the field as proof that the wise stop insisting on one side. Inside it that counsel kills, and the fighter who stubbornly insists on ordinary law keeps aim, timing and cost-reading, a result the Equal-Frames have never forgiven Sergeant Oakes. A Body Path anchor fixes aim but leaves the clock wrong; the Sergeant had the sense to shoot quickly.
+
 > **What nobody knows.** Whether the field is dreaming him as much as he is dreaming it.
+
+**Cost.** Four percent of full reserve each turn held, his own sight doubled after, and ground that remembers the distortion for a while.
+
+**Counter.** Claim the ground first, use a grounding rune or a reality-lock invocation, or insist very loudly and physically on ordinary law.
 
 ### Codex line
 
@@ -53,17 +74,21 @@ title: Dreambreaker Field · The Shattered Midnight
 
 Self-derived by its author, from the concept of a zone where dream and waking physics collide, producing contradictions in distance, timing and motion.
 
----
+### Counterplay
+
+**Tell** · Declared and visible: forty meters where the first thing anyone does goes wrong in an obvious way and things curve. Afterward, Dream Residue in the ground and deafened Harmonics.
+
+**Limits** · Forty-meter radius, three turns a hold, no overlay on a claimed Domain, unmade by a Titan's presence, capped by Refraction's A-Grade ceiling. A Body Path anchor fixes aim but not the clock.
+
+**Fails against** · Ground claimed first or contested (Lock, a reality-lock invocation, an unclaimed Aether pulse); rigid adherence to ordinary law through a Body Path anchor or a grounding rune; distance beyond forty meters; a known pattern in the practitioner.
+
+**Look up** · The Counterplay register for Lock; the Limina and Fluxia entries for Eidolyn, Oneirion and Somnalis Failures; the Attraction Layer and Obsession Force; the Refraction Stage table; Runecraft's counters for the grounding rune.
+
+## Numbers
+
+**Bleed** · 35 percent of each turn's pull leaves the practitioner's Shell as heat, sound and light.
 
 ### Physics
-
-**Phenomenon** · A gradient-index medium, where the bending power of the air changes smoothly from place to place, so rays and attacks travel on curved lines, as in a desert mirage or a graded lens.
-
-**Law** · Fermat's principle: a ray takes the path of least optical time, and where the index varies that path curves with radius R = n / |∇n|.
-
-**Limit** · Bending is smooth, reciprocal and blind to allegiance, so the practitioner's own attacks curve too; the optical time shift is only 23 ns, so the field's warped timing cannot come from light.
-
-**Upkeep** · Bending a ray is free, as a lens is passive; holding the gradient against its own tendency to diffuse flat is a continuous power cost.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -74,38 +99,6 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 | Index change across 40 m | 4.4 × 10⁻³ × 40 | Δn ≈ 0.175 (1.000 to 1.175; glass is 1.5) |
 | Against a desert mirage | 4.4 × 10⁻³ ÷ 10⁻⁸ | about 10⁵ times steeper |
 | Optical time difference | 40 × 0.175 ÷ 3 × 10⁸ | 23 ns, a millionth of the fastest S-Grade reaction |
-
-### Metaphysics
-
-**Aether** · Drawn continuously across the whole volume; Limina favors darkness, silence and ruins, Fluxia favors water and humidity, and an active Domain suppresses it outright. It leaves Dream Residue in the ground, which deafens Harmonists while it lies there.
-
-**Wellspring** · Eidolyn, the Shaping Mind (Limina): a supersaturated medium deposits along a given template, so intent becomes the template and the curved line is a true local fact, not an illusion.
-
-**Wellspring** · Oneirion, the Wellspring of Dream: distance and timing are routed through configuration space rather than the room's geometry, the field's second boundary.
-
-**Wellspring** · Somnalis, the Dream Veil (Fluxia): the practitioner perceives the spread of adjacent possibilities with their weights, so only they can see which one the field is enforcing.
-
-**Inherited failures** · Eidolyn's template defect reproduces any flaw in the intent at full scale; Somnalis's ensemble collapse mistakes the spread for one reading, and Double Vision is its onset.
-
-**Essence** · The Attraction Layer pays: Domain Weaving claims the radius and keeps recognising the claim, so the field holds evenly and fails all at once. The risk is Obsession Force; Developmental Tier Resonant at Refraction.
-
-**School** · The Equal-Frames school of the Limina houses reads the field as proof that the wise stop insisting on one side; inside it that counsel kills, and the fighter who stubbornly insists on ordinary law keeps aim, timing and cost-reading.
-
-### Mechanism
-
-**Glyph** · Mirage laid across Boundary: Mirage sets a gradient-index medium, Boundary fixes the forty-meter claim.
-
-**Boundary** · The index gradient inside a forty-meter sphere moves; a second boundary, set through Oneirion on the field's attention density, warps timing and answers to different counters.
-
-**Effect** · Attacks curve and aiming off does not correct them; one second runs longer or shorter than the last; the shortest path changes each time; worst, every practitioner inside misreads what their own workings cost.
-
-**Hold** · Declared, since Refraction is the first Stage able to compress the glyph chain without a material anchor; held three turns.
-
-**Failure** · Field fault: ground already claimed by a Domain, or a Titan present, leaves the claim unmade, not weakened. Boundary fault: the gradient has no allegiance, so allies inside suffer every distortion.
-
-**Ending** · The claim is binary while the gradient is not; when the claim goes, the gradient diffuses flat in one relaxation time with no warning.
-
-**Bleed** · 35 percent of each turn's draw leaves the practitioner's Shell as heat, sound and light.
 
 ### Essence
 
@@ -120,18 +113,9 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 | Power delivered | cost per turn ÷ 6 s × 0.65 | 224 MW to 4.16 GW |
 | Reserve covers | 90% ÷ 12% | seven full holds, the eighth into the floor |
 
-**Cost** · 4 percent of full reserve for each six-second turn held, nothing up front.
+**Cost in full** · 4 percent of full reserve for each six-second turn held, nothing up front.
 
 **Duration** · Up to three turns, 18 seconds, per hold.
 
 **Double Vision** · After each turn held the practitioner sees the field's contradictions over their own sight; after a full hold their own aim stays curved through the next turn.
 
-### Counterplay
-
-**Tell** · Declared and visible: forty meters where the first thing anyone does goes wrong in an obvious way and things curve. Afterwards, Dream Residue in the ground and deafened Harmonics.
-
-**Limits** · Forty-meter radius, three turns a hold, no overlay on a claimed Domain, unmade by a Titan's presence, capped by Refraction's A-Grade ceiling. A Body Path anchor fixes aim but not the clock.
-
-**Fails against** · Ground claimed first or contested (Lock, a reality-lock invocation, an unclaimed Aether pulse); rigid adherence to ordinary law through a Body Path anchor or a grounding rune; distance beyond forty meters; a known pattern in the practitioner.
-
-**Look up** · The Counterplay register for Lock; the Limina and Fluxia entries for Eidolyn, Oneirion and Somnalis Failures; the Attraction Layer and Obsession Force; the Refraction Stage table; Runecraft's counters for the grounding rune.

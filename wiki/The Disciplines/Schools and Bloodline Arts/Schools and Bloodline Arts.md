@@ -6,6 +6,8 @@ title: Schools and Bloodline Arts
 
 *Arts taught by the schools and carried in the blood.*
 
+A school is a club: it has colors, a song nobody can sing sober, a grudge older than anyone holding it, and a style you can spot at fifty paces, and two parishes have gone to war over less at a fair. The bloodline arts are worse, because you cannot change sides.
+
 - [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto|Asami and Gisei — The Two States of the Moto]]
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki — The Works of the Plane of Fate]]: Hataraki, literally translated as Work, is the governing function of the Plane of Fate.
 - [[The Disciplines/Schools and Bloodline Arts/The Harmonic Arts|The Harmonic Arts]]

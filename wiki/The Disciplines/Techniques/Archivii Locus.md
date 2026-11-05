@@ -1,21 +1,40 @@
 ---
-title: Archivii Locus
+title: The Sky-Turning Chalk
 ---
 
-# Archivii Locus
+# The Sky-Turning Chalk
 
-## Archivii Locus
+*On the rolls and in the Collegium it stays Archivii Locus, the scholars' term, and that is what people once called it everywhere.*
 
-### Summary card
+## THE SKY-TURNING CHALK (Archivii Locus) (Claustra, Stage VII)
 
-**Effect** · Given one uninterrupted turn to write it, she lays a Transference lattice across up to a 60 m sphere; anything hostile that crosses the boundary gets read and redirected down a channel she chose while writing it.
+The suit of Thomasin Haybittle, brewer, against the Company of the Yellow Bolt ran eleven years and is still the funniest thing in the Assize rolls of Hallowmere. Two hundred crossbowmen loosed on a woman kneeling in a barley field with her back to them, every bolt curved in the air like a fish turning, and the whole flight came down through the roof of Haybittle's brewhouse a long way to the left, into nine vats of the strong red ale. Haybittle sued the Company for the ale. The Company said the bolts had gone where they were aimed. The court sat for a decade trying to establish who had aimed them.
 
-**Cost** · Geometric Fatigue locks her thinking into the lattice's own rigid patterns for a time afterward, and Anchoring Debt ties her own Essence to the site in proportion to how much mass she redirected, making retreat afterward genuinely dangerous.
+Whatever comes at her across the line she wrote turns and goes where she told it to.
 
-**Limit** · The lattice cannot move with her once written, and a second Locus overwrites whatever lattice she already had running.
+KNEEL AND WRITE! One uninterrupted turn on her knees, in the open, and sixty meters of ground and air belong to her pattern.
 
-**Counter** · An attack that never breaks the surface, burrowing, ground-breaking, or purely mental, passes under the lattice's reading entirely, and a Veil rupture tears holes straight through the geometry.
+THE SKY TURNS! A bolt, a blade or a launched working crossing the line curves over meters, as if the air had grain, and leaves down a channel she picked in advance.
+
+SHORT OF THE MARK! A strike dropped from straight above grounds out into the pattern before it arrives.
+
+### How it really works
+
+There is no chalk in it, as any Runecraft examiner will tell you with some heat, and the name has stuck regardless. The practitioner stops, kneels and inscribes on the ground and air she stands on (Runecraft being a working inscribed in material), pulling ambient Aether across the whole sphere for one full six-second turn. The Locus then holds five turns at sixty meters and cannot move. A second Locus overwrites the first. The pattern is the Passage glyph (Auren), the channel the momentum is sent down, laid across the Order glyph (Valen), the periodic geometry that does the reading, and what those two move is the set of exits open to an incoming vector: alternative paths are pinned and made cheaper than the straight line. At the line itself there is no wall and no flash. A runner's footing stays honest while everything launched bends.
+
+The real phenomenon is a Bragg reflector, a regular grid that steers a wave and absorbs none of it, coupled by resonance to the ground. Conservation of momentum and the Bragg condition set the bill: turning a vector through angle θ costs the structure an impulse Δp = 2p·sin(θ/2), and the structure pays that into whatever it is anchored to. The energy of a redirect is small and stays in the incoming attack, because the lattice works as a switch and makes one exit cheaper than the one chosen, so she never matches the attack's joules. The momentum bill is large and the ground pays it. The resonant coupling works only when strongly coupled, κ ≫ √(Γ₁Γ₂), and κ falls roughly as 1/d³.
+
+The law on the Aether side is Transference, the Living Exchange (Spatium): two tuned oscillators near each other exchange energy with no conductor, the coupling falling sharply with distance. Here the practitioner tunes her Attraction Layer (the outer claim a Soul Crystal lays on the world) to the ground. Spatium favors Veil-thin zones, Realmgates and surveyed ground; Warp scarring, contested Domains and unmapped terrain suppress it. The Layer serves as the oscillator, expressed through the Shell (the Crystal's conducting skin). Developmental Tier is Resonant at the floor and Radiant at Transcendence, where territorial durability makes a sixty-meter claim hold well. The Residue is the lattice itself, the most legible residue there is, and it deafens Harmonists (those who read a place by ear) long after. A Locus written on ground near saturation risks a Crystal Fracture Event, a breaking of Crystals, for everyone inside.
+
+Friend from foe is sorted by her judgment and attention, and when that slips, allies' bolts and workings bend too. The lattice reads trajectory only, whatever a rival school expected about intent. The Collegium faculty of Causes reads the Locus as pure form on worthless matter and the Debt as the mover unable to walk out of its own form. Under the Consent Doctrine the lattice asks nothing of the current beyond lawful recognition of a boundary, as a river recognizes a channel, which makes the working licensable.
+
+It fails in named ways. Boundary fault: only a finite set of vectors can be pre-written, so an angle that aliases onto a written channel is redirected wrongly, and subterranean or purely mental attacks never cross the sampled surface. Field fault: a Veil rupture tears holes in the lattice that do not self-repair. Then comes Transference's inherited failure, reverse coupling, which runs both ways: the Anchoring Debt is that failure with the site as the depleted ally, it can be induced from outside, and it binds her Essence to the site in proportion to the mass redirected, growing with every success and falling due when she leaves. Retreat afterward is genuinely dangerous. The bleed runs 30 to 40 percent at the floor, spread across the sphere, too diffuse to feel as heat, and its structural share is what locks Tempering Clarity into Geometric Fatigue, her thinking stuck for a time in the lattice's own rigid patterns. One full Tier Grade of Gnosis and Tempering above an attacker reads that attacker's vectors without contest; above the A-Grade band the lattice is overwhelmed.
+
 > **What nobody knows.** Why the lattice occasionally reads a hostile vector wrong even when the geometry itself is unbroken.
+
+**Cost.** Eight percent of full reserve, Geometric Fatigue after, and an Anchoring Debt that gets bigger the better it works.
+
+**Counter.** Come under it or through the mind, deny her the turn to write, or tear it with a Veil rupture.
 
 ### Codex line
 
@@ -44,17 +63,19 @@ title: Archivii Locus
 
 Archivii Locus is Serenyra's own self-derived working rather than a documented one studied and countered in advance; a first opponent meets its mechanism live, in the exchange, rather than from a manual.
 
----
+### Counterplay
+
+**Tell** · The practitioner must stop, kneel and write in the open on the ground to be held, before the first hostile line crosses it, so everyone sees where the center will be; afterward written ground, long legible, and a practitioner still tied to it.
+
+**Limits** · Sixty meters, five turns, immovable, overwritten by a second Locus, a finite set of vectors, overwhelmed above the A-Grade band.
+
+**Fails against** · A writer denied the turn, or a damaged written substrate; attacks along strange lines (underground, mental, straight down a chimney); unmapped or Warp-scarred ground; force above A; the Anchoring Debt, due on the way out.
+
+**Look up** · The Spatium entry for Transference's Failure; Spatium's favored and suppressive ground; the Runecraft counters for written workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.
+
+## Numbers
 
 ### Physics
-
-**Phenomenon** · A written lattice sixty meters in radius takes the momentum out of anything crossing into it and sends it down a path decided in advance, like a Bragg reflector (a regular grid that steers a wave instead of absorbing it) coupled by resonance to the ground.
-
-**Law** · Conservation of momentum plus the Bragg condition: turning a vector through angle θ costs the structure an impulse Δp = 2p·sin(θ/2), paid into whatever it is anchored to.
-
-**Limit** · The energy bill of a redirect is small; the momentum bill is not, and the ground pays it. Resonant coupling works only strongly coupled, κ ≫ √(Γ₁Γ₂), and κ falls roughly as 1/d³.
-
-**Energy** · In the incoming attack: the lattice is a switch, not a wall, making one exit cheaper than the one chosen. The practitioner never has to match the attack's joules.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -62,42 +83,6 @@ Archivii Locus is Serenyra's own self-derived working rather than a documented o
 | Mach 5 vector, perimeter to center | 60 m ÷ 1,715 m/s | 35 ms |
 | 1 kg projectile at Mach 5 | 1 kg × 1,715 m/s | 1,715 kg·m/s, carrying 1.47 MJ |
 | Impulse into the anchor, 90° turn | √2 × 1,715 | 2,425 N·s; a full reversal costs 2p |
-
-### Metaphysics
-
-**Aether** · Draw on ambient Aether across the whole sphere, a field working. The Residue is the lattice itself, the most legible residue there is, deafening Harmonists long after; a Locus written on ground near saturation risks a Crystal Fracture Event for everyone inside.
-
-**Ground** · Spatium favors Veil-thin zones, Realmgates and surveyed ground; Warp scarring, contested Domains and unmapped terrain suppress it.
-
-**Wellspring** · Transference, the Living Exchange (Spatium): two tuned oscillators near each other exchange energy with no conductor, the coupling falling sharply with distance; here the practitioner tunes the Attraction Layer to the ground.
-
-**Inherited failures** · Transference's reverse coupling runs both ways: the Anchoring Debt is that failure with the site as the depleted ally, and it can be induced from outside.
-
-**Theory** · The Consent Doctrine: the lattice asks nothing of the current beyond lawful recognition of a boundary, as a river recognises a channel, which makes the working licensable.
-
-**Essence** · The Attraction Layer is the oscillator, expressed through the Shell. Developmental Tier is Resonant at the floor, Radiant at Transcendence, where territorial durability makes a sixty-meter claim hold well. The invoice is Geometric Fatigue (Tempering Clarity) and Anchoring Debt (Attraction Layer).
-
-**School** · The Collegium faculty of Causes reads the Locus as pure form on worthless matter, and the Debt as the mover unable to walk out of its own form; a rival school expects the lattice to read intent, but it reads trajectory only.
-
-### Mechanism
-
-**Glyph** · Passage (Auren), the channel the momentum is sent down, laid across Order (Valen), the periodic geometry that does the reading.
-
-**Boundary** · The exit directions open to an incoming vector inside the sphere move: the lattice pins alternative paths and makes them cheaper than the straight line.
-
-**Effect** · No wall and no flash at the line: a runner's footing stays honest, but bolts, blades and launched workings curve over meters as if the air had grain, and a vertical strike grounds short into the pattern.
-
-**Write** · One full, uninterrupted turn of inscription on the ground and air the practitioner stands on; the Locus then holds five turns at sixty meters and cannot move. A second Locus overwrites the first.
-
-**Sorting** · Friend from foe is sorted by the practitioner's judgment and attention; if that slips, allies' shots and workings are bent too.
-
-**Anchoring Debt** · Essence bound to the site in proportion to the mass redirected, growing with every success and falling due when the practitioner leaves; retreat afterwards is genuinely dangerous.
-
-**Failure** · Boundary fault: only a finite set of vectors can be pre-written, so an angle that aliases onto a written channel is redirected wrongly, and subterranean or purely mental attacks never cross the sampled surface.
-
-**Field fault** · A Veil rupture tears holes in the lattice that do not self-repair.
-
-**Bleed** · 30 to 40 percent at the floor, spread across the sphere: the heat is too diffuse to feel, but the structural share is what locks Tempering Clarity into Geometric Fatigue.
 
 ### Essence
 
@@ -114,16 +99,7 @@ Archivii Locus is Serenyra's own self-derived working rather than a documented o
 | Waste at η 0.65 | 0.35 × 8% | 2.8% of reserve, shed into the sphere |
 | Absorption ceiling | top of the A-Grade band | 4.184 × 10¹² J; above it the lattice is overwhelmed |
 
-**Cost** · Eight percent of full reserve to write and hold, plus an Anchoring Debt that grows with success and Geometric Fatigue after.
+**Cost in full** · Eight percent of full reserve to write and hold, plus an Anchoring Debt that grows with success and Geometric Fatigue after.
 
 **Duration** · One six-second turn to write, five turns (30 s) held.
 
-### Counterplay
-
-**Tell** · The practitioner must stop, kneel and write in the open on the ground to be held, before the first hostile line crosses it, so everyone sees where the center will be; afterwards written ground, long legible, and a practitioner still tied to it.
-
-**Limits** · Sixty meters, five turns, immovable, overwritten by a second Locus, a finite set of vectors, overwhelmed above the A-Grade band.
-
-**Fails against** · A writer denied the turn, or a damaged written substrate; attacks along strange lines (underground, mental, straight down a chimney); unmapped or Warp-scarred ground; force above A; the Anchoring Debt, due on the way out.
-
-**Look up** · The Spatium entry for Transference's Failure; Spatium's favored and suppressive ground; the Runecraft counters for written workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.

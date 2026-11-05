@@ -1,81 +1,53 @@
 ---
-title: The Principle Engine
+title: "The Paradox-Devouring Heart"
 ---
 
-# The Principle Engine
+# THE PARADOX-DEVOURING HEART
 
-## The Principle Engine
+*Spellcraft, internalized, Traitus, Stage XIV. The scholars' term is the Principle Engine. There is nothing to shout, because it never stops.*
 
----
+The Dialectical faculty at the Collegium teaches that contradiction held long enough rises into synthesis, and its masters collect refined binds the way other old men collect wine. Doctor Theobald Rooke nursed one for thirty-one years, a beautiful little thing about promises made to the dead, and he was the calmest person anyone had ever met, serene in his plum-colored gown, beloved of students, immune to in-laws. During a very ordinary lecture on the second day of the Candle Fair, it nucleated. All thirty-one years of it let go at once. They rebuilt the east wing in a warmer stone. The surviving students will tell you it was the best lecture he ever gave.
 
-### Summary card
+**The hook.** Give him a choice that can't be made and he eats it for breakfast.
 
-**Effect** · Every contradiction that reaches the practitioner's Crystal is metabolised rather than merely survived. Reality tries to be two incompatible things around him, and what should have been damage becomes reserve.
+**BOTH.** Caught in a true bind, he neither hesitates nor takes the cheaper horn, and proceeds as if both halves stood.
 
-**Cost** · The routing leaves a mark it cannot avoid leaving. *Micro-fissures spread through the Soul Crystal at a rate his own diagnostic count tracks closely, because the alternative to tracking it is finding out by fracturing.*
+**SECONDS.** On a gradient the contradiction comes back as reserve, sometimes more than the reading cost.
 
-**Limit** · A paradox too large to route through the phase-change valve does not fail safely. *It returns to the Essence Core directly, aimed at the part of him that decides he is still one person.*
+**NOT THE LEFTOVER.** Offer him two options, remove one, and he will not take the remainder, because he has lost the power to reason by elimination.
 
-**Counter** · **A field that removes the possibility of contradiction removes the Engine's fuel with it.** *A Silentia working, null-space that will not hold two incompatible states long enough for Judicium to read either, starves it outright.*
-> **What nobody knows.** Whether the Engine converts contradictions because its author built it to, or because his Crystal decided, independently, that this was the only way it was going to survive being what it is.
+### How it really works
 
----
+Nothing shows and nothing is called. It runs continuously whenever a genuine contradiction registers in his own field, whenever reality tries to be two incompatible things around him, the chain held silently in the Crystal with no anchor, range self. He pulls Fulguria and Caloria, and the room is the heat sink, so geothermal ground or a burning hall returns much and a cold, still, sealed room returns nothing. Above η 1.0 the surplus comes from the stratum (the deep Aether of the ground), which shows it.
 
-### Codex line
+The real phenomenon is a first-order phase change used as a buffer. Like ice melting at 0 °C, a contradiction's load is swallowed as the energy of a change of state, and he comes out calmer and structurally different. Latent heat holds a variable flat while absorbing energy, and what comes back is capped by Carnot, 1 − Tc / Th, with the surrounding room as the cold side. A buffer stores and creates nothing: in a room at thermal equilibrium nothing returns, and a load past the throughput supercools and then lets go all at once. The nucleation barrier grows without bound as the driving force falls, so the gentlest contradictions are the likeliest to sit unresolved, then release together.
 
-**Wellspring** · Judicium (primary) · Catharsis (secondary)
+The logic is the strange part. The Crystal is paraconsistent, a structure where a contradiction does not make everything follow, and the price is disjunctive syllogism, so it can no longer rule a thing in by ruling the rest out. It eats gluts, claims both true and false, and starves on gaps, claims neither true nor false.
 
-**Family** · Fulguria (Judicium) · Caloria (Catharsis)
+The glyphs are Balance, equalizing the opposing forces, and Equivalence, routing the load. The boundary condition is where a contradiction may discharge: the explosive exit into everything is forbidden, and every law downstream runs untouched. Judicium, the Wellspring of Truth (Fulguria): no substance can present another's spectrum, so it tells a genuine contradiction from a misreading before anything is burned. Catharsis, the Wellspring of Release (Caloria): latent heat, load routed into a change of state in place of output. Judicium's spectral overload follows, since a working with no activation never stops reading, and Catharsis's supercooling, load building past release then going at once.
 
-**Physics Domain** · Electromagnetism (Judicium) · Thermodynamics (Catharsis)
+In doctrine it is Debt in its purest form, a running total only he can read, with Residue beneath as what makes the total exist. It acts at the Essence Core and leaves the Shell alone. Its overflow runs back into the Core, aimed at the part that decides he is still one person. Tempering governs: Harmonics Empathy (sensing load early), Tempering Maturity (the conversion) and Resilience Fortification (redirection and blowback resistance). On the Spirit Path Maturity is open, Fortification's redirection capped at B with blowback resistance open, and Empathy capped at C, so a paradox registers only once it is inside the Crystal.
 
-**Category** · Traitus
+The failure is Structural: the Crystal cannot hold what the boundary allowed and fractures from the sum of uses. Micro-fissures spread with every use at a rate his own count tracks closely, because the alternative to tracking it is finding out by fracturing. No second term, no truth value, a Nihiloth seal, equilibrium or overload each stall it. Below η 1.0 up to 5 percent of each routed load leaves as heat, sound and light, and the rejected load warms the room and leaves the stratum thin where he pulled above 1.0.
 
-**Craft** · Spellcraft (Internalised: the chain held silently in the Crystal, never spoken)
+The Dialectical faculty teaches that contradiction held long enough rises into synthesis, so its masters seek refined binds. Those are the least likely to nucleate, and the finest carry the largest unreleased loads, calling the calm progress.
 
-**Stage floor** · Stage XIV, Zenith
+**Cost.** One percent of reserve a turn while reading, fissures that never heal, and he can never again reason by elimination.  
+**Counter.** Silence starves it: a Silentia null-space will not hold two incompatible states long enough for Judicium to read either; a cold, still, sealed room makes it pure expense.
 
-**Grade required** · EX-Grade
+**What nobody knows.** Whether the Engine converts contradictions because its author built it to, or because his Crystal decided, independently, that this was the only way it was going to survive being what it is.
 
-**Path gate** · Spirit
+### Counterplay
 
----
+**Tell** · Silent in use; after it, a warmer room, a thin stratum where recovery runs slow, a practitioner calmer than the bind should leave him, who never takes the cheaper horn or the remainder.
 
-### FOW line
+**Limits** · Returns nothing without a gradient, nothing from a gap, nothing when the second term is gone; the fissures will not come due within a scene. A paradox too large to route through the phase-change valve does not fail safely: it returns to the Essence Core directly, aimed at the part of him that decides he is still one person.
 
-**Governing Primary** · Tempering.
+**Fails against** · Silence, which starves it; dream logic or Knot, which presents a gap; a Nihiloth seal, which pre-empts the read; a cold, still, sealed room, where it is pure cost; gentle binds; two options with one then removed; Coherence drift.
 
-**Governing Sub-Stats** · Tempering Processing (the conversion itself), Harmonics Empathy (sensing the paradox as load before it becomes damage), Resilience Insulation. All three are Catharsis's own documented Stat Effect.
+**Look up** · The Caloria and Fulguria favor lists; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.
 
-**Stage floor** · Stage XIV, Zenith.
-
-**Grade required** · EX-Grade.
-
-**Path gate** · Spirit.
-
-**Resonant Pair · None.**
-
----
-
-### Origin
-
-Its author built The Principle Engine alone around one core concept: it collapses contradictions into fuel. As a self-derived working it is uncountered by anyone who has not watched it used.
-
----
-
-### Physics
-
-**Phenomenon** · A first-order phase change used as a buffer: like ice melting at 0 °C, a contradiction's load is swallowed as the energy of a change of state, and the practitioner comes out calmer and structurally different.
-
-**Law** · Latent heat holds a variable flat while absorbing energy; what comes back is capped by Carnot, 1 − Tc / Th, with the surrounding room as the cold side.
-
-**Limit** · A buffer stores, it does not create: in a room at thermal equilibrium nothing returns, and a load past the throughput supercools and then lets go all at once.
-
-**Logic** · The Crystal is paraconsistent, a structure where a contradiction does not make everything follow; the price is disjunctive syllogism, so it can no longer rule a thing in by ruling the rest out.
-
-**Gluts and gaps** · It eats gluts, claims both true and false, and starves on gaps, claims neither true nor false.
-
-**Supercooling** · The nucleation barrier grows without bound as the driving force falls, so the gentlest contradictions are the likeliest to sit unresolved, then release together.
+### Numbers
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -84,44 +56,6 @@ Its author built The Principle Engine alone around one core concept: it collapse
 | Supercooled water freezing at once | 38 × 4.18 ÷ 334 | about 47%, in milliseconds |
 | Nucleation barrier | ΔG‡ = 16πγ³ / 3ΔGv² | grows without limit as ΔGv falls |
 | Grade ceiling on the load | EX | 1.24 × 10²⁹ to 6.906 × 10³⁷ J |
-
-### Metaphysics
-
-**Aether** · Draws Fulguria and Caloria; the room is the heat sink, so geothermal ground or a burning hall returns much and a cold, still, sealed room returns nothing; above η 1.0 the surplus comes from the stratum, which shows it.
-
-**Wellspring** · Judicium, the Wellspring of Truth (Fulguria): no substance can present another's spectrum, so it tells a genuine contradiction from a misreading before anything is burned.
-
-**Wellspring** · Catharsis, the Wellspring of Release (Caloria): latent heat, load routed into a change of state instead of output.
-
-**Inherited failures** · Judicium's spectral overload, since a working with no activation never stops reading; Catharsis's supercooling, load building past release then going at once.
-
-**Category** · Debt in its purest form, a running total only the practitioner can read, with Residue beneath as what makes the total exist.
-
-**Essence** · Acts at the Essence Core, not the Shell; its overflow runs back into the Core, aimed at the part that decides he is still one person.
-
-**Sub-Stats** · Governed by Tempering: Harmonics Empathy (sensing load early), Tempering Maturity (the conversion) and Resilience Fortification (redirection and blowback resistance).
-
-**Path gates** · On the Spirit Path Maturity is open, Fortification's redirection capped at B with blowback resistance open, and Empathy capped at C, so a paradox registers only once it is inside the Crystal.
-
-**School** · The Dialectical faculty teaches that contradiction held long enough rises into synthesis, so its masters seek refined binds; those are the least likely to nucleate, and the finest carry the largest unreleased loads, calling the calm progress.
-
-### Mechanism
-
-**Glyph** · Balance equalises the opposing forces; Equivalence routes the load.
-
-**Boundary** · Where a contradiction may discharge: the explosive exit into everything is forbidden, and every law downstream runs untouched.
-
-**Trigger** · Continuous with no activation: it runs whenever a genuine contradiction registers in the practitioner's own field, the chain held silently in the Crystal with no anchor.
-
-**Effect** · Nothing visible; caught in a true bind he neither hesitates nor takes the cheaper horn but proceeds as if both halves stood, and offered two options with one removed he will not take the remainder.
-
-**Range** · Self.
-
-**Failure** · Structural fault: the Crystal cannot hold what the boundary allowed and fractures from the sum of uses; no second term, no truth value, a Nihiloth seal, equilibrium or overload each stall it.
-
-**Bleed** · Below η 1.0 up to 5 percent of each routed load leaves as heat, sound and light; the rejected load warms the room and leaves the stratum thin where he drew above 1.0.
-
-### Essence
 
 **Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.2.
 
@@ -140,12 +74,38 @@ Its author built The Principle Engine alone around one core concept: it collapse
 
 **Damage** · Micro-fissures spread with every use, never heal, and must be counted; and he cannot reason by elimination.
 
-### Counterplay
+### Codex line
 
-**Tell** · Silent in use; after it, a warmer room, a thin stratum where recovery runs slow, a practitioner calmer than the bind should leave him, who never takes the cheaper horn or the remainder.
+**Wellspring** · Judicium (primary) · Catharsis (secondary)
 
-**Limits** · Returns nothing without a gradient, nothing from a gap, nothing when the second term is gone; the fissures will not come due within a scene.
+**Family** · Fulguria (Judicium) · Caloria (Catharsis)
 
-**Fails against** · Silence, which starves it; dream logic or Knot, which presents a gap; a Nihiloth seal, which pre-empts the read; a cold, still, sealed room, where it is pure cost; gentle binds; two options with one then removed; Coherence drift.
+**Physics Domain** · Electromagnetism (Judicium) · Thermodynamics (Catharsis)
 
-**Look up** · The Caloria and Fulguria favor lists; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.
+**Category** · Traitus
+
+**Craft** · Spellcraft (Internalized: the chain held silently in the Crystal, never spoken)
+
+**Stage floor** · Stage XIV, Zenith
+
+**Grade required** · EX-Grade
+
+**Path gate** · Spirit
+
+### FOW line
+
+**Governing Primary** · Tempering.
+
+**Governing Sub-Stats** · Tempering Processing (the conversion itself), Harmonics Empathy (sensing the paradox as load before it becomes damage), Resilience Insulation. All three are Catharsis's own documented Stat Effect.
+
+**Stage floor** · Stage XIV, Zenith.
+
+**Grade required** · EX-Grade.
+
+**Path gate** · Spirit.
+
+**Resonant Pair · None.**
+
+### Origin
+
+Its author built The Principle Engine alone around one core concept: it collapses contradictions into fuel. As a self-derived working it is uncountered by anyone who has not watched it used.

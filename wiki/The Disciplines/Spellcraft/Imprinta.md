@@ -1,67 +1,42 @@
 ---
-title: Imprinta
+title: The Unburied Ember
 ---
 
-# Imprinta
+# THE UNBURIED EMBER (Mnemata, cast live, leaving a fragment behind for good)
 
-## Imprinta
+*Scholars' term: Imprinta.*
 
-### Summary card
+> On the morning they walked Hanako Tsuge to the execution ground, she asked to touch the temple's bronze bell, and the monks saw the whole hill light up orange and thought it was the sun. For a hundred and ninety years the bell rang by itself whenever anyone of one particular family passed the gate, and pilgrims paid to watch it. Then a carpenter's daughter with a splinter in her thumb leaned on it to rest, and every monk in the valley heard a woman's voice say, with enormous satisfaction, that she was late.
 
-**Effect** · Projects a fragment of soul, memory, Trait, or Wellspring resonance into an object, place, or person, leaving a permanent, semi-independent echo that can awaken, interact, or influence its surroundings long after the caster has gone.
+She leaves a piece of her soul in the thing, and it is still in there, and it still wants what she wanted.
 
-**Cost** · A piece of the caster's own Essence Core, paid and detached at the moment of casting — not drawn from reserve on an ongoing basis, but spent outright and permanently, the way a limb is not "on loan."
+**THE UNBURIED EMBER!** A piece of her goes into a blade, a stone or a door, in one flash of heat and light, and stays.  
+**WAIT FOR HER!** The piece is told who it is for, and it sleeps until that one person comes; a narrow waking is a lock whose key is a person.  
+**THE ROOM REMEMBERS!** A whole chamber keeps the shape of one charged moment and acts on anyone who walks into it.  
+**ECHO-GUARDIAN!** A large deposit in a place, a soul-laced sanctuary, with limited will and an old grudge.
 
-**Limit** · The deposit responds most strongly to memory, desire, and unresolved fate; an imprint left with no emotional charge behind it tends to sit inert rather than awaken.
+## How it really works
 
-**Counter** · It dies when the fragment's live line back to what it was made from is cut: a broken focus, its original's death, or an active Silence field starves an Imprinta the same way it starves an Animatria construct, since both are detached pieces of a caster's own Core running on a tether rather than a fresh soul.
-> **What nobody knows.** Why some Imprinta echoes wake on the first person who touches them and others wait generations for a specific one — the Anamnesis orders that study this call it "the deposit's own patience" and have never isolated what the deposit is actually waiting for.
+A material held in a strong field keeps a set after the field is gone, as a magnet stays magnetized, basalt keeps the field it cooled in, and fired clay stores its radiation dose. That is remanence. The law is hysteresis: the medium's state depends on the path it took and ignores present conditions, and coercivity, the reverse field needed to wipe it, is exactly what erasing it would take. Erasure is a threshold with no gradient, so below coercivity nothing changes and past it the record goes. Heat erases what fields do not, so the instrument that reads a record can destroy it. The energy is paid once, in the write, and the kept state is a local energy minimum that costs nothing per second.
 
-### Codex line
+The charge is one moment of high emotional charge, one turn of six seconds, and then no pull at all. In that turn the caster pulls Aether, refines it in the Soul Crystal and drives a piece of her own Essence Core out through the Shell (the Crystal's outer skin). A piece, spent outright: it is paid and detached at the moment of casting, the way a limb is not on loan. Thirty to 40 percent of the cost leaves the Shell as heat, sound and light in that turn, and a large write scorches its surroundings and can be seen from far off. Then silence. The working is Residue (what a working leaves behind) made deliberately: structured, load-bearing, readable by anyone patient enough.
 
-Wellspring · **Anamnesis**, the Wellspring of Remembrance (primary).
+Anamnesis, the Wellspring of Remembrance (Limina), is its Aether: objects store their history in readable form, and it strengthens Gnosis Retention, Gnosis Analysis of past trauma and Resilience Coherence. This art runs that reading register backwards to write. The glyph is Continuum laid under Form, for the shape the deposit keeps, a Root because the medium's law is unknown until it is chosen. The boundary is the reachability of the medium's other states: the barrier out of the imposed configuration is pinned too high to cross. A soul fragment, memory, Trait or Wellspring resonance can go into an object, place or person, and the anchor is the medium itself, whichever of those is written into, since Glory is below Refraction.
 
-Family · **Limina** — Entropy, Void and Mind.
+What is left is the relic, room or person keeping the pressed shape and a Core fragment with limited will of its own, neither a copy nor a servant, acting on an intention that may be a century stale. It responds most strongly to memory, desire and unresolved fate, and uncharged writes sit as dormant traces. Waking is a coupling threshold set narrow or wide at the write: proximity, a feeling, specific words or one person. A deposit is a detached fragment of the maker's Core still running on a line back to its maker and focus, as an Animatria construct does, and when the line is cut it starves. So a broken focus, its original's death or an active Silence field ends it. It cannot update itself. The Essence Core is divided and never merely spent: a fragment is detached at the write, the Core's own failure state done on purpose in miniature. Developmental Tier is Harmonic at Glory.
 
-Physics Domain · Remanence (a substrate retaining an imposed state after the imposing field is withdrawn).
+The failure is structural and permanent: each write subtracts from the layer that holds identity and Traits, and twenty of them take 40 percent of the Core, after which the next write Fractures it into Shards. Anamnesis's inherited failure is thermal resetting: reading is not always passive, and a hand reaching in to read a deposit the way a writer would erases it, and a fragment cannot be recast from the same material. The maker's Coherence fails with the count of echoes, and her history of charged moments in specific places is a document anyone can follow. The talisman-makers hold that a made thing goes on feeding from its source through correspondence, so a hostile echo is ended by cutting the source; for a tethered deposit that reading is right, and it is pleasant to report a school being right about something. The Residue Position holds that all Wellsprings are such deposits at Epoch scale.
 
-Category · **Mnemata** (Spirit ↔ Attraction).
+**Cost.** Fifteen to 30 percent of full reserve per write, recovered with rest, and a Core fragment that takes 2 percent of maximum reserve for good.  
+**Counter.** Cut the line back: kill the maker, break the focus, stand in a Silence, heat or smash the thing it lives in, or read it carelessly on purpose.
 
-Craft · **Spellcraft** (cast live, detaching a permanent fragment at completion).
+**What nobody knows.** Why some Imprinta echoes wake on the first person who touches them and others wait generations for a specific one: the Anamnesis orders that study this call it "the deposit's own patience" and have never isolated what the deposit is actually waiting for.
 
-Stage floor · **Stage IV — Flourishing**.
+## Numbers
 
-Grade required · **B-Grade**.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, B-Grade (176 to 275).
 
-Path gate · None.
-
-### FOW line
-
-Governing Primary · **Gnosis** (Retention, Analysis), secondary **Harmonics** (Attunement).
-
-Stage floor · Stage IV — Flourishing.
-
-Grade required · B-Grade.
-
-Path gate · None.
-
-Resonant Pair · None.
-
-### Origin
-
-Maelor originates the rite at the cosmological scale, seeding echoes across Gaia. Three mortal derivations are known, two carried by single practitioners and one by the Choir of Vellsorea. As a documented, widely-practiced working rather than a self-derived technique, any given Imprinta is counterable by anyone who has studied its specific tether.
-
----
-
-### Physics
-
-**Phenomenon** · Remanence: a material held in a strong field keeps a set after the field is gone, as a magnet stays magnetised, basalt keeps the field it cooled in, and fired clay stores its radiation dose.
-
-**Law** · Hysteresis: the medium's state depends on the path it took, not on present conditions; coercivity, the reverse field needed to wipe it, is exactly what erasing it would take.
-
-**Limit** · Erasure is a threshold, not a gradient: below coercivity nothing changes, past it the record goes; heat erases what fields do not, so the instrument that reads a record can destroy it.
-
-**Energy** · Paid once, in the write; the kept state is a local energy minimum and costs nothing per second.
+**Paths** · Retention needs the Spirit Path at Welling to pass D, Attunement the Attraction Path at Welling to pass D; off them the medium keeps a shape and a charge with no intention in it, and the waking is a feeling with no named person behind it.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -69,42 +44,6 @@ Maelor originates the rite at the cosmological scale, seeding echoes across Gaia
 | Remanence, sintered neodymium | B_r; energy product | about 1.3 T; about 400 kJ/m³ |
 | Coercivity, sintered neodymium | H_c | about 10⁶ A/m |
 | Upkeep of a remanent record | none | 0 |
-
-### Metaphysics
-
-**Aether** · One write at a moment of high emotional charge, then no draw. The working is Residue made deliberately: structured, load-bearing, readable by anyone patient enough.
-
-**Wellspring** · Anamnesis, the Wellspring of Remembrance (Limina): objects store their history in readable form; it strengthens Gnosis Retention, Gnosis Analysis of past trauma and Resilience Coherence. Imprinta runs this reading register backwards to write.
-
-**Inherited failures** · Thermal resetting: reading is not always passive, and a hand reaching in to read a deposit the way a writer would erases it.
-
-**Tether** · A deposit is a detached fragment of the maker's Core still running on a line back to its maker and focus, as an Animatria construct does; cut the line and it starves.
-
-**Essence** · The Essence Core is divided, not spent: a fragment is detached at the write, the Core's own failure state done on purpose in miniature. Developmental Tier is Harmonic at Glory.
-
-**School** · The talisman-makers hold that a made thing goes on drawing on its source through correspondence, so a hostile echo is ended by cutting the source; for a tethered deposit that reading is right. The Residue Position holds all Wellsprings are such deposits at Epoch scale.
-
-### Mechanism
-
-**Glyph** · Continuum laid under Form, for the shape the deposit keeps; a Root because the medium's law is unknown until it is chosen.
-
-**Boundary** · The reachability of the medium's other states: the barrier out of the imposed configuration is pinned too high to cross.
-
-**Effect** · The relic, room or person keeps the pressed shape and a Core fragment with limited will of its own, not a copy and not a servant, acting on an intention that may be a century stale. Uncharged writes sit as dormant traces.
-
-**Waking** · A coupling threshold set narrow or wide at the write: proximity, a feeling, specific words or one person. A narrowly set Imprinta is a lock whose key is a person.
-
-**Anchor** · Glory is below Refraction, so the anchor is the medium itself: the object, place or person written into.
-
-**Failure** · Structural fault, permanent: each write subtracts from the layer that holds identity and Traits. A careless reading resets a deposit, and a fragment cannot be recast from the same material.
-
-**Bleed** · 30 to 40 percent of the cost leaves the Shell as heat, sound and light in the turn of the write; a large write scorches its surroundings and can be seen from far off.
-
-### Essence
-
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, B-Grade (176 to 275).
-
-**Paths** · Retention needs the Spirit Path at Welling to pass D, Attunement the Attraction Path at Welling to pass D; off them the medium keeps a shape and a charge, not an intention, and the waking is a feeling, not a named person.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -120,6 +59,43 @@ Maelor originates the rite at the cosmological scale, seeding echoes across Gaia
 **Duration** · The write is one charged moment, one turn (6 s); the deposit lasts, with no upkeep, while its tether holds.
 
 **Contest** · A write into an unwilling person sets Harmonics Attunement against Harmonics Stability; a subject who wins takes no set, and the caster has paid the EU and the fragment for nothing.
+
+
+## Reference
+
+### Codex line
+
+Wellspring · **Anamnesis**, the Wellspring of Remembrance (primary).
+
+Family · **Limina**: Entropy, Void and Mind.
+
+Physics Domain · Remanence (a substrate retaining an imposed state after the imposing field is withdrawn).
+
+Category · **Mnemata** (Spirit ↔ Attraction).
+
+Craft · **Spellcraft** (cast live, detaching a permanent fragment at completion).
+
+Stage floor · **Stage IV, Flourishing**.
+
+Grade required · **B-Grade**.
+
+Path gate · None.
+
+### FOW line
+
+Governing Primary · **Gnosis** (Retention, Analysis), secondary **Harmonics** (Attunement).
+
+Stage floor · Stage IV, Flourishing.
+
+Grade required · B-Grade.
+
+Path gate · None.
+
+Resonant Pair · None.
+
+### Origin
+
+Maelor originates the rite at the cosmological scale, seeding echoes across Gaia. Three mortal derivations are known, two carried by single practitioners and one by the Choir of Vellsorea. As a documented, widely-practiced working rather than a self-derived technique, any given Imprinta is counterable by anyone who has studied its specific tether.
 
 ### Counterplay
 

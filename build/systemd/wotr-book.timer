@@ -4,7 +4,7 @@
 #
 #   systemctl --user list-timers wotr-book.timer
 #   systemctl --user start wotr-book.service        # a run now (one chapter, gated)
-#   systemctl --user disable --now wotr-book.timer  # when n8n owns the book
+#   systemctl --user disable --now wotr-book.timer
 
 [Unit]
 Description=WOTR book, daily at 02:00

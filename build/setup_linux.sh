@@ -83,27 +83,21 @@ Done here. What is left needs you (sudo, logins, secrets):
         systemctl --user restart wotr-bot      # picks the token up
         systemctl --user start wotr-sync       # a first sync now
 
-  2. Docker, for n8n (n8n/docker-compose.yml in this repo; network_mode: host, so the
-     container reaches the job runner at http://127.0.0.1:8799 like any local process):
-        sudo usermod -aG docker "\$USER"       # then log out and in, or: newgrp docker
-        sudo systemctl enable --now docker
-        cd ~/wotr-rule-index/n8n && docker compose up -d
-
-  3. Tailscale, for the shared MCP:
+  2. Tailscale, for the shared MCP:
         sudo pacman -S tailscale
         sudo systemctl enable --now tailscaled
         sudo tailscale up
         bash build/mcp_public_setup.sh        # the secret, the unit, the funnel, the URL
 
-  4. Ollama on the GPU (ROCm), for the cheap passes n8n runs:
+  3. Ollama on the GPU (ROCm), for local models:
         sudo pacman -S ollama-rocm
         sudo systemctl enable --now ollama
 
-  5. Google Drive, if you want the Drive exports and the backup on Drive:
+  4. Google Drive, if you want the Drive exports and the backup on Drive:
         rclone config                          # a remote named gdrive
         rclone mount gdrive: ~/GoogleDrive     # then WOTR_DRIVE=/home/$USER/GoogleDrive in $cfg
      Left empty, the exports are skipped and the weekly zip goes to WOTR_BACKUP_DIR.
 
-  6. Claude Desktop: bash build/install_mcp.sh registers the MCP with it.
-  7. The nightly's Claude step and the book need the CLI signed in: claude /login.
+  5. Claude Desktop: bash build/install_mcp.sh registers the MCP with it.
+  6. The nightly's Claude step and the book need the CLI signed in: claude /login.
 TXT

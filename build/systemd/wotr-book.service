@@ -22,8 +22,6 @@
 # regardless and logs what it could not do.
 #
 # Logs: journalctl --user -u wotr-book, and the script's own build/book_dispatch.log.
-# If an n8n workflow takes over the book, disable wotr-book.timer so it does not run
-# twice (build/systemd_setup.sh prints the command).
 
 [Unit]
 Description=WOTR book: one chapter a night, gated

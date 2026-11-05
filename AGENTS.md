@@ -87,12 +87,12 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   `nightly`, `book-next`, `hook`, and `tool NAME args`, the positional command line for the book
   pipeline's agents) run here too.
 - **Not ported yet, still Python: run it, don't extend it.** `build/sync.sh` with `embed_index.py`;
-  `jobs_server.py` and `writers_room.py`; the site builders (`site_*.py`); the Discord bot (`bot/`)
+  the site builders (`site_*.py`); the Discord bot (`bot/`)
   and the Workshop (`app/`), which import `build/mcp_server.py`, so that file stays in place for
   them; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
   Research also calls external CLIs (Agent Reach, agent-browser).
 - **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
-  dispatcher, Sunday backup, the Discord bot, a job runner n8n calls, a public
+  dispatcher, Sunday backup, the Discord bot, a public
   read-only MCP behind a shared secret. All systemd user units (below).
 
 ## The wiki and the public site (since 2026-10-15)
@@ -144,7 +144,6 @@ bot/          the Discord bot — deterministic, no LLM, no dice in canon channe
               role-gated to the Judger (bot/PLAN.md); the rule/docket/conflict commands were
               dropped on Isaac's call (ROADMAP.md, Phase F0). bot/queue/ = Judger proposals
 book/         the book pipeline: book/design/BOOK_PIPELINE.md; one folder per book (kharven-year/)
-n8n/          docker-compose.yml (host networking), WOTR_nightly.json, README.md
 proposals/    proposed rules awaiting a pack   reports/  audits, digests   imports/  conversions
 desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md — what Claude
               Cowork (Desktop's folder mode) reads (~/Claude/CLAUDE.md links to it)
@@ -159,7 +158,7 @@ CLAUDE.md CONTINUE.md ROADMAP.md CONFLICTS.md RULINGS.md PROGRESS.md BRIEF.md RE
 ```
 
 Gitignored but real: `build/index/` (semantic search), `build/models/`,
-`vault/` (the Obsidian view), `build/.jobs_token`, `build/.mcp_token`, the logs.
+`vault/` (the Obsidian view), `build/.mcp_token`, the logs.
 
 ## This machine (Linux since 2026-09-14)
 
@@ -199,7 +198,6 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   | `wotr-nightly.timer` | 03:30 | `build/nightly.sh` — checks, headless Claude note, commit |
   | `wotr-book.timer` | 02:00 | `build/book_dispatch.sh` — one chapter if no gate waits |
   | `wotr-backup.timer` | Sun 03:00 | `build/backup.sh` — zip to Drive or `~/wotr-backups` |
-  | `wotr-jobs.service` | always | `build/jobs_server.py` on 127.0.0.1:8799 (n8n's door) |
   | `wotr-mcp-public.service` | always | `rust/target/release/wotr-mcp http` on 8765 and 8767 (the Funnel's `/` and `/ro`), every request gated by a dashboard key; the dashboard on 127.0.0.1:8790 (enabled by `build/mcp_public_setup.sh`, not the installer; replaced wotr-mcp-readonly 2026-11-04) |
   | `wotr-bot.service` | always | `bot/run.sh` → `bot/main.py` |
   | `wotr-comfy.service` | always | ComfyUI (`~/comfy/ComfyUI`, venv `wotr-comfy`) on 127.0.0.1:8188, the 9070 XT only (`--cuda-device 0`); enabled by `build/comfy_setup.sh`, not the installer |
@@ -207,12 +205,8 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   Did something run? `systemctl --user list-timers 'wotr-*'` and
   `journalctl --user -u wotr-<name>.service -u wotr-<name>.timer --since -3h`,
   plus the scripts' own files: `build/sync.log`, `nightly.log`,
-  `book_dispatch.log`, `backup.log`, `.jobs_server.log`, `mcp_public.log`,
+  `book_dispatch.log`, `backup.log`, `mcp_public.log`,
   `bot/.bot.log`. A quiet hour leaves no sync commit; the journal is the proof.
-- **n8n** runs from `n8n/docker-compose.yml` (`cd n8n && docker compose up -d`;
-  UI `localhost:5678`; host networking so it reaches the job runner directly).
-  If `WOTR_nightly.json` is ever activated there, `systemctl --user disable
-  --now wotr-nightly.timer` so the nightly does not run twice.
 - Anything needing `sudo` (pacman, docker, tailscale, groups) is Isaac's to
   run: give him the command in a `bash` block.
 
@@ -348,9 +342,7 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
   requested; the Desktop project (`desktop/PROJECT_INSTRUCTIONS.md`) still
   only asks.
 - **Frozen:** the narration engines (nothing new until one engine holds Gimbzo
-  across three renders — `ROADMAP.md`) and any design where n8n calls Claude
-  itself (needs an API key that doesn't exist; n8n triggers the host's jobs
-  instead). Don't build toward either. The engines themselves are installed
+  across three renders — `ROADMAP.md`). Don't build toward it. The engines themselves are installed
   and proven on this machine since 2026-09-14 (`~/.venvs/wotr-{cb-gpu,qwen,
   qwen-fast,supertonic,cosy}`, Kokoro's files in `build/models/`, the
   reference clips in `build/voices/refs/`); the freeze is on new voice work,

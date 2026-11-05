@@ -38,18 +38,17 @@ Everything scheduled is a systemd **user** unit (never cron). The twelve
 files are in `build/systemd/`; `bash build/systemd_setup.sh` installs them
 under `~/.config/systemd/user/` (`--status` lists them, `--remove` takes them
 out). Four timers — `wotr-sync.timer` (hourly), `wotr-nightly.timer` (03:30),
-`wotr-book.timer` (02:00), `wotr-backup.timer` (Sunday 03:00) — and three
-long-running services: `wotr-jobs.service` (the job runner for n8n,
-127.0.0.1:8799), `wotr-mcp-public.service` (the shared read-only MCP on 8765;
+`wotr-book.timer` (02:00), `wotr-backup.timer` (Sunday 03:00) — and two
+long-running services: `wotr-mcp-public.service` (the shared read-only MCP on 8765;
 enabled by `build/mcp_public_setup.sh`, not by the installer, so it never
 starts without its secret) and `wotr-bot.service` (the Discord bot). Each
 unit runs `bash build/<script>.sh` (or `bot/run.sh`) with the env file loaded.
-A fourth service, `wotr-comfy.service`, is ComfyUI on the 9070 XT
+A third service, `wotr-comfy.service`, is ComfyUI on the 9070 XT
 (127.0.0.1:8188; installed and enabled by `build/comfy_setup.sh`, see below).
 Logs: `journalctl --user -u wotr-<name>` for the unit's view (start, exit
 code, stderr) plus each script's own file — `build/sync.log`,
 `build/nightly.log`, `build/book_dispatch.log`, `build/backup.log`,
-`build/.jobs_server.log`, `build/mcp_public.log`, `bot/.bot.log`, all
+`build/mcp_public.log`, `bot/.bot.log`, all
 gitignored. The installer turns on `loginctl enable-linger`, so the units run
 whenever the machine is up, desktop session or not.
 
@@ -279,8 +278,7 @@ secret. Tools:
 | `sync_now()` | runs `build/sync.sh` |
 
 `--http` serves the same tools over streamable HTTP on :8765 (kept for any local
-MCP client on this machine, loopback only — the n8n container shares the host
-network, so it would reach it at `127.0.0.1`; nothing uses it today).
+MCP client on this machine, loopback only; nothing uses it today).
 `build/verify.py` also runs standalone: `python build/verify.py draft.md --combat --culture Kharven --band set-piece`.
 
 ### Sharing it with friends
@@ -329,7 +327,7 @@ prints the link); without Tailscale the script still brings the unit up on
 loopback and exits 0, to be re-run later. The `WOTR MCP` connector in Claude
 Desktop on this machine still runs over stdio with every tool, unaffected.
 
-## The book pipeline, without n8n
+## The book pipeline
 
 `book/design/BOOK_PIPELINE.md` is the full design (ten check passes, book memory, the round cap; its n8n transport needs an API key that does not exist).
 Until an API key exists it runs inside Claude Code instead, on the

@@ -2077,7 +2077,7 @@ def research(question: str, read: int = 2, urls: list[str] | None = None, power:
 SKILLS = ROOT / ".claude" / "skills"
 # The skills, served so nobody uploads them to their account. judger is retired; the friends'
 # read-only route also drops the ones that run Isaac's machine (main() adds OPS_SKILLS there).
-OPS_SKILLS = {"wotr-ops", "wotr-book", "wotr-room", "wotr-ledger", "wotr-chatgpt"}
+OPS_SKILLS = {"wotr-ops", "wotr-book", "wotr-ledger", "wotr-chatgpt"}
 SKILL_HIDE = {"judger"}
 SKILL_NOTE = ("(Served by the WOTR MCP. Where this names a repo path, a shell command or Claude Code, use the "
               "matching WOTR MCP tool; a file under references/ loads with skill(name, file).)\n\n")

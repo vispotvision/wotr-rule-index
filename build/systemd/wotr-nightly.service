@@ -21,8 +21,6 @@
 # needs it. Waits, never fails: the run goes ahead regardless and logs what it could not do.
 #
 # Logs: journalctl --user -u wotr-nightly, and the script's own build/nightly.log.
-# If an n8n workflow takes over the nightly, disable wotr-nightly.timer so it does
-# not run twice (build/systemd_setup.sh prints the command).
 
 [Unit]
 Description=WOTR nightly: the checks, the digest and the overnight note

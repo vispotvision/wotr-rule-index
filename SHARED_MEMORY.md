@@ -27,6 +27,16 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-11-04 — Everything moves to Rust; n8n and the writers' room are gone (Isaac's decisions; recorded by Claude Code)
+
+Isaac: "almost everything needs to be pushed over" to Rust; no new Python and no
+Python copy of a fix. `CLAUDE.md` and `AGENTS.md` carry the rule and list what is
+not ported yet. Removed on his word: n8n and the job runner (`n8n/`,
+`build/jobs_server.py`, `wotr-jobs.service`) and the writers' room
+(`build/writers_room.py`, `WRITERS_ROOM.md`, the `wotr-room` skill). This
+supersedes the 2026-10-08 writers' room note below. Evidence: the commits on
+`claude/laughing-cohen-133f7f`.
+
 ### 2026-10-29 — Volume I culled to the new lore (Isaac's decision; recorded by Claude Code)
 
 Isaac's scope for the New Lore: the Great Conflict of the North (The

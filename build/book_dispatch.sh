@@ -12,7 +12,7 @@
 # at breakfast; the nightly digest (03:30) shows him where the book stands.
 #
 # One dispatcher at a time: a flock on build/.book.lock (gitignored), so a run started
-# by hand or by the jobs server (n8n's "book" job) never overlaps the 02:00 timer's.
+# by hand never overlaps the 02:00 timer's.
 #
 # Runs as the systemd user unit wotr-book.service, fired by wotr-book.timer (daily
 # 02:00). The unit files live in build/systemd/; build/systemd_setup.sh installs them

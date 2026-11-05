@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # Install the WOTR systemd user units: the four timers (wiki sync hourly, nightly 03:30,
-# book 02:00, weekly backup Sunday 03:00) and the long-running services (the job runner
-# for n8n, the Discord bot). Was seven Windows scheduled tasks — "WOTR wiki sync",
+# book 02:00, weekly backup Sunday 03:00) and the Discord bot. Was seven Windows scheduled tasks — "WOTR wiki sync",
 # "WOTR nightly", "WOTR book", "WOTR weekly backup", "WOTR jobs", "WOTR bot",
 # "WOTR MCP public" — each registered from its own script; on Linux they are the files
 # in build/systemd/, and this is the one script that puts them in place.
@@ -14,7 +13,7 @@
 #   1. copies build/systemd/*.service and *.timer to ~/.config/systemd/user/, noting
 #      which copies actually changed
 #   2. systemctl --user daemon-reload
-#   3. enable --now the four timers, wotr-jobs.service and wotr-bot.service.
+#   3. enable --now the four timers and wotr-bot.service.
 #      NOT wotr-mcp-public.service: build/mcp_public_setup.sh enables that one after it
 #      has written the shared secret (build/.mcp_token) and opened the funnel, so the
 #      public server never comes up without a token. The file is copied here with the
@@ -22,14 +21,12 @@
 #      NOT wotr-comfy.service either: build/comfy_setup.sh enables it once the clone,
 #      the venv and the ROCm torch it runs on exist; copied here, enabled there.
 #      Then restarts what changed and is running: `enable --now` on a running service
-#      is a no-op start, so without this an edited wotr-jobs/wotr-bot/wotr-mcp-public
+#      is a no-op start, so without this an edited wotr-bot/wotr-mcp-public
 #      would keep the old process on the old ExecStart until restarted by hand. A
 #      changed timer is restarted too (its schedule is re-read). The oneshot services
-#      are never restarted — that would run them. And wotr-jobs is left alone while a
-#      job it started is still running (the jobs are children in its cgroup; a restart
-#      kills them, a chapter mid-write): the script says so and leaves the restart to you.
-#   4. loginctl enable-linger, so the user manager — and with it the timers, the job
-#      runner and the bot — starts at boot and outlives a logout, not only a desktop
+#      are never restarted: that would run them.
+#   4. loginctl enable-linger, so the user manager — and with it the timers and
+#      the bot — starts at boot and outlives a logout, not only a desktop
 #      session (the old tasks ran "at logon"; these run whenever the machine is up)
 #   5. prints the timers and one line per wotr-* unit, inactive ones included
 #
@@ -40,7 +37,7 @@
 #
 # Logs: journalctl --user -u wotr-<name> (the unit's view: start, exit code, anything
 # on stdout/stderr) plus each script's own file — build/sync.log, build/nightly.log,
-# build/book_dispatch.log, build/backup.log, build/.jobs_server.log, bot/.bot.log.
+# build/book_dispatch.log, build/backup.log, bot/.bot.log.
 
 set -uo pipefail
 . "$(dirname "$0")/env.sh"
@@ -49,10 +46,10 @@ src="$WOTR_REPO/build/systemd"
 dst="$HOME/.config/systemd/user"
 # what --now enables; wotr-mcp-public.service is deliberately not here (see above)
 enable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
-        wotr-jobs.service wotr-bot.service)
+        wotr-bot.service)
 # what a changed file restarts (see the header); never a oneshot service
 restartable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
-             wotr-jobs.service wotr-bot.service wotr-mcp-public.service wotr-comfy.service)
+             wotr-bot.service wotr-mcp-public.service wotr-comfy.service)
 
 # every unit build/systemd/ ships, by name
 units=()
@@ -80,28 +77,12 @@ listing() {
     [ "$n" -gt 0 ] || echo "  (no wotr-* unit files under $dst)"
 }
 
-# true while wotr-jobs.service has more than its own process in its cgroup — a job it
-# started (bash + python or claude) is still running there
-jobs_busy() {
-    local cg procs
-    cg="$(systemctl --user show -p ControlGroup --value wotr-jobs.service 2>/dev/null)"
-    procs="/sys/fs/cgroup$cg/cgroup.procs"
-    [ -n "$cg" ] && [ -r "$procs" ] || return 1
-    [ "$(wc -l < "$procs")" -gt 1 ]
-}
-
 reminder() {
     cat <<'TXT'
 
-Two things to remember:
-  - If an n8n workflow is activated for the nightly or the book, disable the matching
-    timer so nothing runs twice:
-        systemctl --user disable --now wotr-nightly.timer
-        systemctl --user disable --now wotr-book.timer
-    (re-enable with `enable --now` when the workflow is switched off again).
-  - Logs: journalctl --user -u wotr-<name> for the unit's view, plus the scripts' own
+Logs: journalctl --user -u wotr-<name> for the unit's view, plus the scripts' own
     files: build/sync.log, build/nightly.log, build/book_dispatch.log, build/backup.log,
-    build/.jobs_server.log, build/mcp_public.log, bot/.bot.log.
+    build/mcp_public.log, bot/.bot.log.
 TXT
 }
 
@@ -169,11 +150,6 @@ echo "not enabled: wotr-comfy.service (build/comfy_setup.sh does that once Comfy
 for u in "${changed[@]}"; do
     case " ${restartable[*]} " in *" $u "*) ;; *) continue ;; esac
     systemctl --user is-active --quiet "$u" || continue
-    if [ "$u" = wotr-jobs.service ] && jobs_busy; then
-        echo "$u changed, but a job it started is still running; restart it yourself when GET /jobs shows nothing running:"
-        echo "    systemctl --user restart wotr-jobs"
-        continue
-    fi
     if systemctl --user restart "$u"; then
         echo "restarted $u (its file changed)"
     else

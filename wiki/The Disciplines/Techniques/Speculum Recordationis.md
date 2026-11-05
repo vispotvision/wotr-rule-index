@@ -4,7 +4,7 @@ title: "The Ruinous Errata"
 
 # THE RUINOUS ERRATA
 
-*Runecraft, Mnemata, Stage VI. The scholars' term is Speculum Recordationis, or Speculum Recordatio. Serenyra's own.*
+*Cutting, Mnemata, Stage VI. The scholars' term is Speculum Recordationis, or Speculum Recordatio. Serenyra's own.*
 
 The Theatrists of the Blue Hall treat memory as shelves, and they had the most beautiful shelves in the world. Master Corvin Ashlar could recite nine hundred workings by page and Stage, and he went into the Hall's great bracket in a robe of peacock silk with a Codex the size of a paving stone, and the bookmakers had him at evens. A girl with a burn scar threw a plain quick lance of light at him. He raised the book, found the page, read the imprint perfectly, and made it sharper, brighter and twice as loud with a flawless inverse thrown a fraction too late. They found the Codex open at the correct page. Timing is the one thing shelves do not hold.
 
@@ -16,7 +16,7 @@ The Theatrists of the Blue Hall treat memory as shelves, and they had the most b
 
 ### How it really works
 
-A book goes up and held open before the incoming working arrives, and the imprint visibly takes time. Glory is below Refraction, so an anchor is required, and the Codex is it; the Craft is Runecraft and the substrate the Thesauriel, the Mirror Codex, a book that writes lattices without incantation. It pulls Limina for both Wellsprings, suppressed by crowds, saturated Aether and active Domains, which is the ground it most often works on, so it pays its terrain penalty in use.
+A book goes up and held open before the incoming working arrives, and the imprint visibly takes time. Glory is below Refraction, so an anchor is required, and the Codex is it; the skill is Cutting and the substrate the Thesauriel, the Mirror Codex, a book that writes lattices without incantation. It pulls Limina for both Wellsprings, suppressed by crowds, saturated Aether and active Domains, which is the ground it most often works on, so it pays its terrain penalty in use.
 
 The real phenomenon is feedforward active noise control: she records a working in flight, builds its inverse and throws it into the original, so the two meet and a broken residual goes back the way it came. The law is superposition: a wave plus its inverse with phase error θ leaves 2A·|sin(θ/2)|, so a near-perfect inverse cancels and a poor one adds. The limit is causality. The record and the answer must arrive before the working completes, so range buys the time and contact range loses it, and above 60° of phase error the answer changes sign and helps the attacker. Phase error grows with frequency as θ = 2π·f·δt, so the low end cancels, the middle partly, and the high end comes back doubled and off-key: the record is exact and the clock is not. That is why the echo comes back fractured. Cancellation holds only where the two paths match, a zone of quiet a few meters wide at the point where the incoming working would have finished. Only Essence and Aetheric workings leave a signature to record, so a crossbow bolt, a mundane projectile, or a signature-free void effect (A-Temporal Void, in the register) is off the channel.
 
@@ -39,7 +39,7 @@ The inherited failures are Oneirion's projection error, which is the phase error
 
 **Fails against** · A Codex knocked away or damaged; bolts; quick, sharp workings (they come back reinforced); contact range; crowds and Domains; workings the caster can survive receiving back; repeated triggering, which spends slots.
 
-**Look up** · The Limina entries for Oneirion and Mirithane and their Failures; Runecraft and its substrates; Gnosis Retention; the Glory Stage table and the Grade reaction speeds.
+**Look up** · The Limina entries for Oneirion and Mirithane and their Failures; Cutting and its substrates; Gnosis Retention; the Glory Stage table and the Grade reaction speeds.
 
 ### Numbers
 
@@ -71,11 +71,11 @@ The inherited failures are Oneirion's projection error, which is the phase error
 
 ### Codex line
 
-Wellspring Oneirion (primary, Limina, Entropy/Void/Mind), Mirithane (secondary, Limina, Entropy/Void/Mind). Category Mnemata. Craft Runecraft. Stage floor VI, Glory. Grade required A-Grade. Path gate Spirit Path.
+Wellspring Oneirion (primary, Limina; Entropy, Void and Mind), Mirithane (secondary, Limina; Entropy, Void and Mind). Category Mnemata. Skill Cutting, held in the Codex. Stage floor VI, Glory. Grade required A-Grade. Path gate Spirit Path.
 
 ### FOW line
 
-Governing Primary Gnosis (Diagnosis, Perception) and Harmonics (Fidelity). Stage floor VI, Glory. Grade required A-Grade. Path gate Spirit Path. Resonant Pair none on the roll.
+Governing Primary Gnosis (Analysis, Perception) and Harmonics (Attunement). Stage floor VI, Glory. Grade required A-Grade. Path gate Spirit Path. Resonant Pair none on the roll.
 
 ### Origin
 

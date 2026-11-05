@@ -33,18 +33,19 @@ The suit of *Penhallow against the Widow Ilvane* is still read aloud to Measurew
 | Field | Value |
 |---|---|
 | **Ability** | Ainigma: diagnostic-saturation concealment |
-| **Family** | Limina (Abstract / Entropic) |
+| **Family** | Limina (Entropy, Void and Mind) |
 | **Affinity** | Mind / Void composite |
 | **Method** | Harmonia (resonance-based, Soul + Fate), Manteia secondary. **The discipline operates through the observer's perception system, not through the practitioner's body** |
-| **Physics Domain** | Quantum superposition, the measurement problem, decoherence resistance |
-| **Output Cap** | Uncapped. Scales with Harmonics Fidelity and Gnosis Warding |
+| **Physics Domain** | Entropy, Void and Mind |
+| **Phenomenon** | Quantum superposition, the measurement problem, decoherence resistance |
+| **Output Cap** | Uncapped. Scales with Harmonics Attunement and Gnosis Cognition |
 | **Prerequisites** | Limina-dominant Typology with secondary Fulguria harmonization. **Stage VI (Glory) minimum.** The practitioner must hold enough architectural self-awareness to project multiple valid Crystal states without losing track of which one they are |
 
 ---
 
 ## The Additive Principle
 
-Stealth disciplines work by **subtraction.** Tenebra absorbs incident energy and shapes surfaces so reflected signal misses the sensor. Dexterity Silence suppresses kinetic noise and Aura spill. Both give the observer *less* data, and against a sufficiently sensitive observer, subtractive concealment always fails, because any signal above absolute zero is detectable given enough integration time.
+Stealth disciplines work by **subtraction.** Tenebra absorbs incident energy and shapes surfaces so reflected signal misses the sensor. Dexterity Feint suppresses kinetic noise and Aura spill. Both give the observer *less* data, and against a sufficiently sensitive observer, subtractive concealment always fails, because any signal above absolute zero is detectable given enough integration time.
 > **Ainigma is additive.** It gives the observer more data. Contradictory data. **Valid** data. Data that resolves into nothing because every piece of it is true and the truths exclude each other.
 A Gnosis-user who reads an Ainigma practitioner receives a complete, high-fidelity return. The Essence signature reports as two Families at once. The Crystal state reads as both Fractured and Refined. The Temperance Stage flickers between Stage III and Stage XII on successive reads taken milliseconds apart. The Wellspring harmonization pattern returns one set of resonances on the left-hand side of the Shell and a different set on the right.
 > **Every data point is genuine. None are illusions, projections, or decoys.**
@@ -68,8 +69,8 @@ In normal operation a Soul Crystal occupies a single definite state: one Stage, 
 
 | Wellspring | Function inside Ainigma | Failure mode |
 |---|---|---|
-| **Eidolyn** *Limina · Primary* | Template projection. The constructs are not objects or phantasms: **they are alternate Crystal state signatures**, valid configurations of the practitioner's own Crystal that the Shell outputs alongside the real one. Each is built from genuine self-knowledge and output at Essence density indistinguishable from the actual state. *Strengthens Ardency Density, Ardency Inscription, Gnosis Memorium* | **Template defect.** Any flaw in the practitioner's understanding of the state they project is faithfully reproduced at scale. Project Fracture without understanding Fracture and a knowledgeable observer identifies the counterfeit |
-| **Oblivara** *The Dark Mirror, Limina · Secondary* | Error-correcting redundancy and retroreflection along the incident vector. Supplies the **decoherence resistance**: Oblivara's correction treats the superposition itself as a valid signal to be preserved, and actively corrects any decoherence event that would force a singular reading. *Strengthens Resilience Nullity, Gnosis Warding* | **Code exhaustion.** Redundancy has a correction limit, and past it the reconstruction is confident, complete and wrong. Too many states for too long and the Crystal locks into whichever was dominant when correction failed |
+| **Eidolyn** *Limina · Primary* | Template projection. The constructs are not objects or phantasms: **they are alternate Crystal state signatures**, valid configurations of the practitioner's own Crystal that the Shell outputs alongside the real one. Each is built from genuine self-knowledge and output at Essence density indistinguishable from the actual state. *Strengthens Ardency Density, Gnosis Retention* | **Template defect.** Any flaw in the practitioner's understanding of the state they project is faithfully reproduced at scale. Project Fracture without understanding Fracture and a knowledgeable observer identifies the counterfeit |
+| **Oblivara** *The Dark Mirror, Limina · Secondary* | Error-correcting redundancy and retroreflection along the incident vector. Supplies the **decoherence resistance**: Oblivara's correction treats the superposition itself as a valid signal to be preserved, and actively corrects any decoherence event that would force a singular reading. *Strengthens Resilience Persistence, Gnosis Cognition* | **Code exhaustion.** Redundancy has a correction limit, and past it the reconstruction is confident, complete and wrong. Too many states for too long and the Crystal locks into whichever was dominant when correction failed |
 | **Tychokinesis** *Limina · Support* | Governs **which** superposed state a given observation returns. Without it, repeated reads return the same state and the contradiction resolves. With it, the observer never receives the same answer twice. *Probability manipulation, outcome disruption* | — |
 
 ---

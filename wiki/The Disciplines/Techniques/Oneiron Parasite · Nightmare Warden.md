@@ -4,7 +4,7 @@ title: "The Lodger Behind Your Ribs"
 
 # THE LODGER BEHIND YOUR RIBS
 
-*Spellcraft, Animatria, Stage VII. The scholars' terms are Oneiron Parasite and Nightmare Warden, and the second is what physicians still write on the bill.*
+*Speaking, Animatria, Stage VII. The scholars' terms are Oneiron Parasite and Nightmare Warden, and the second is what physicians still write on the bill.*
 
 The wine factor Hobart Ainsley of Wickerby stopped sleeping in the spring, lost every bid he made at the Lammas sale by one coin, and dropped dead of nothing at his daughter's betrothal feast with a gold cup in his hand and a red ribbon on his sleeve. They laid him out in his best blue. The renderer who came to wash him stopped, put two fingers under the breastbone, and asked the family, loudly and in front of the whole wake, who had been in the house. Nobody ate the funeral meats. Half of Wickerby still swears the widow did it, and it would be a shame to spoil a good song.
 
@@ -84,7 +84,7 @@ The Residue has a location, and the location is a body. A host carrying a Warden
 
 **Category** · Animatria
 
-**Craft** · Spellcraft
+**Skill** · Speaking; the implant persists until purged, with its live line held in the Attraction Layer
 
 **Stage floor** · Stage VII, Refraction
 

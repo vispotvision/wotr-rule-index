@@ -55,7 +55,7 @@ Every faith below is written to the same six questions, and the last one matters
 
 **Wrong about.** Its own immunity to Singling. The Kōkan favor Totality, Totality is the Work most easily mistaken for a crown, and the house watches for this in itself precisely because it has already happened once and the record of when is not in Kharven.
 
-**On the calendar.** Auren's day in every month for the dead. Munahi is the one day the Bow is not performed, because there is no station to perform it at, and the house defends this vigorously against the obvious objection.
+**On the calendar.** Auren's day in every month for the dead. Munahi is the one day the Bow is not performed, because the day has no Archon to perform it for, and the house defends this vigorously against the obvious objection.
 
 ### Sancta Lux, the Scale
 

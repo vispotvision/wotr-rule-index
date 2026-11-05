@@ -38,9 +38,10 @@ Every bathhouse in Kawabe sings the verse: *One touch, the big man's arm is tire
 | **Family** | Fulguria (Electromagnetism) primary, Vectoria secondary, Vitalia tertiary (Psychiken mode) |
 | **Affinity** | Composite. Perception (Fulguria) for the read. Force (Vectoria) for the strike. Mind (Vitalia) for the Psychiken extension |
 | **Method** | Corporis. Hand-strike delivery. **The fist is the instrument** |
-| **Physics Domain** | Resonance disruption at characteristic frequencies. Pressure-point neurology. Interface degradation |
+| **Physics Domain** | Electromagnetism primary, Mechanics secondary, Biochemistry tertiary (Psychiken mode) |
+| **Phenomenon** | Resonance disruption at characteristic frequencies. Pressure-point neurology. Interface degradation |
 | **Output Cap** | Uncapped. Scales with Gnosis (diagnostic resolution) and Dexterity (strike precision) |
-| **Governing Stat** | Gnosis (Diagnosis, Analysis) for targeting. Dexterity (Finesse, Acuity) for delivery. **Ardency governs the strength-dependent fallback** when the diagnostic requirement is not met |
+| **Governing Stat** | Gnosis (Analysis) for targeting. Dexterity (Finesse) for delivery. **Ardency governs the strength-dependent fallback** when the diagnostic requirement is not met |
 
 ---
 
@@ -86,16 +87,16 @@ A chop to the side of the neck at the frequency that disrupts the Cognition inte
 | Effect | What happens |
 |---|---|
 | **Strength drain** | A strike to the shoulder girdle disrupts the Ardency Flux interface at the deltoid-trapezius junction. The muscles function at **40–70% of prior output.** The opponent cannot determine why: the muscles are not fatigued, torn or damaged. The instruction is not arriving at full fidelity |
-| **Exhaustion without exertion** | Sustained strikes to the torso disrupt Vitality Endurance across diaphragm, intercostals and core. **The opponent gasses.** Stamina depletes at a rate disproportionate to actual output. They feel exhausted having done very little |
+| **Exhaustion without exertion** | Sustained strikes to the torso disrupt Vitality Constitution across diaphragm, intercostals and core. **The opponent gasses.** Stamina depletes at a rate disproportionate to actual output. They feel exhausted having done very little |
 | **Knockout without concussion** | One placed strike to neck, jaw hinge or temple disrupts the consciousness interface. **5–30 seconds** depending on depth. No concussive injury, no neural damage. *The target wakes and their head does not hurt, because nothing in their head was hit* |
-| **Speed reduction** | Strikes to hips, knees or ankles disrupt Dexterity Celerity and Burst at the fast-twitch pools. Movement speed drops, reaction time widens, footwork goes heavy. **The joints are healthy. The instruction is arriving late** |
+| **Speed reduction** | Strikes to hips, knees or ankles disrupt Dexterity Celerity at the fast-twitch pools. Movement speed drops, reaction time widens, footwork goes heavy. **The joints are healthy. The instruction is arriving late** |
 
 ---
 
 ## Psychiken: Cognitive Mode
 
 *Targets Gnosis, Harmonics, Resilience interfaces.*
-> **Prerequisite: the practitioner's Gnosis Grade must exceed the target's Resilience Coherence Grade.** A target whose Resilience outgrades the practitioner's Gnosis presents an interface topology that cannot be resolved at sufficient precision. Without resolution the counter-frequency calibration fails and the strike degrades nothing.
+> **Prerequisite: the practitioner's Gnosis Grade must exceed the target's Resilience Anchoring Grade.** A target whose Resilience outgrades the practitioner's Gnosis presents an interface topology that cannot be resolved at sufficient precision. Without resolution the counter-frequency calibration fails and the strike degrades nothing.
 **Cognitive disruption** · A strike to temple or crown. Mild: confusion, processing delay, inability to concentrate. Full expression against low Resilience: **short-term cognitive incoherence for 10–60 seconds.** No brain damage. The output is scrambled at the interface.
 
 **Emotional destabilization** · A strike to sternum or solar plexus disrupts Harmonics Stability and Axis. Suppressed emotions surface. Composed targets lose composure. *No emotion is added: the effect unanchors the architecture that was holding existing ones in check.*
@@ -109,11 +110,11 @@ A chop to the side of the neck at the frequency that disrupts the Cognition inte
 
 | Wellspring | Function |
 |---|---|
-| **Judicium** *The Wellspring of Truth, Fulguria · Primary* | Emission and absorption spectroscopy. Every interface has a characteristic frequency the way every element has a characteristic spectrum. **Ken without Judicium is guesswork. Ken with Judicium is surgery.** *Strengthens Gnosis Acuity, Analysis, Diagnosis* |
-| **Fractura** *The Breaking Point, Vectoria · Secondary* | Stress concentration and crack propagation at pre-existing flaws. Supplies the targeting logic: **strike the coordinate where the interface was already under the most internal stress**, which is why a light tap can equal a heavy blow delivered to a lower-stress site. *Strengthens Gnosis Analysis, Ardency Penetration, Resilience Scarring* |
+| **Judicium** *The Wellspring of Truth, Fulguria · Primary* | Emission and absorption spectroscopy. Every interface has a characteristic frequency the way every element has a characteristic spectrum. **Ken without Judicium is guesswork. Ken with Judicium is surgery.** *Strengthens Gnosis Acuity, Analysis* |
+| **Fractura** *The Breaking Point, Vectoria · Secondary* | Stress concentration and crack propagation at pre-existing flaws. Supplies the targeting logic: **strike the coordinate where the interface was already under the most internal stress**, which is why a light tap can equal a heavy blow delivered to a lower-stress site. *Strengthens Gnosis Analysis, Ardency Penetration, Resilience Integrity* |
 | **Mortalis** *The Black Gate, Vitalia · Tertiary, Psychiken mode* | Surrender; ending becomes passage. Supplies the capacity to read and target the consciousness interface: **the junction where awareness lives.** Psychiken's knockout operates at the boundary Mortalis has learned to navigate. *Strengthens Resilience Persistence, Gnosis Cognition* |
 
-> ✅ **Resolved 2026-09-12.** The Classification block previously listed the Psychiken tertiary Family as *Limina*. The canonical Sixty Wellsprings list places Mortalis, *The Black Gate*, under *Vitalia: Biochemistry*, matching the Wellspring section's own attribution. Corrected throughout: Psychiken's tertiary Family is **Vitalia**.
+> **For readers of older copies.** Some shelf copies give Psychiken's tertiary Family as *Limina*. The Sixty place Mortalis, *The Black Gate*, under *Vitalia: Biochemistry*, and so Psychiken's tertiary Family is **Vitalia**.
 
 ---
 
@@ -121,7 +122,7 @@ A chop to the side of the neck at the frequency that disrupts the Cognition inte
 
 Ken's effects are recoverable. The disrupted interface is not destroyed: it is temporarily desynchronized, and the Crystal's natural restoration re-establishes the connection over time.
 
-**Single strike** · 30 seconds to 5 minutes, depending on disruption depth and the target's Tempering Processing.
+**Single strike** · 30 seconds to 5 minutes, depending on disruption depth and the target's Tempering Maturity.
 
 **Sustained Ken** · If contact pressure is maintained through repeated strikes, the re-establishment rate can be exceeded. **The combat architecture progressively collapses, stat by stat, without a single wound being inflicted.**
 
@@ -134,9 +135,9 @@ Ken's effects are recoverable. The disrupted interface is not destroyed: it is t
 
 **Armor and distance** · Ken requires contact at anatomically specific sites. Harness, Recarvu hardening, Materia-reinforced barriers: **the counter-frequency impulse disperses before reaching the interface.**
 
-**High Resilience Coherence** · Immune to Psychiken outright. Physical Ken still functions, but the discipline loses its most dangerous mode.
+**High Resilience Anchoring** · Immune to Psychiken outright. Physical Ken still functions, but the discipline loses its most dangerous mode.
 
-**High Tempering Processing** · The target repairs faster than the practitioner disrupts. Ken becomes attrition, and the EU cost of sustained diagnostic-and-strike cycling is significant.
+**High Tempering Maturity** · The target repairs faster than the practitioner disrupts. Ken becomes attrition, and the EU cost of sustained diagnostic-and-strike cycling is significant.
 
 **Grappling and clinch denial** · A wrestler who closes to zero range and controls the hands has shut down the instrument entirely.
 
@@ -168,5 +169,5 @@ Cataloged as a diagnostic-strike Corporis discipline spanning Fulguria (Judicium
 - **Read:** C-Grade Gnosis, broad regions. A-Grade, individual sub-stats. S-Grade and above, two sub-stats in one muscle group, one targeted alone.
 - **Strength drain:** muscles at 40–70% of prior output (a worked case: 60%, five seconds on).
 - **Knockout:** 5–30 seconds.
-- **Psychiken cognitive incoherence:** 10–60 seconds. Requires the practitioner's Gnosis Grade above the target's Resilience Coherence Grade.
+- **Psychiken cognitive incoherence:** 10–60 seconds. Requires the practitioner's Gnosis Grade above the target's Resilience Anchoring Grade.
 - **Recovery from a single strike:** 30 seconds to 5 minutes.

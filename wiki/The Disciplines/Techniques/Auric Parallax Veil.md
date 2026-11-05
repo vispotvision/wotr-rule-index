@@ -44,7 +44,7 @@ The argument is Correspondence against Consent as a question of evidence: whethe
 - **Family:** Materia
 - **Physics Domain:** Material Science
 - **Category:** Domain Weaving
-- **Craft:** Spellcraft
+- **Skill:** Speaking, gestured, with an internal chain and no anchor
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
 - **Path gate:** Attraction Path

@@ -6,7 +6,7 @@ title: Mnemonis Solution · The Recursive Draft
 
 ## Mnemonis Solution · The Recursive Draft
 
-Draftcraft apprentices (Draftcraft being the bottling of workings) tell this one over the drip-bench, and nobody can prove it. A cooper named Dunstan Tolley, who had once been haunted by his father and considered this a qualification, bought a dose off a man at the Harvest Fair and took it standing in the middle of the crowd, to impress a girl who sold ribbons. The stuff does what it says: it takes the memories already stored in you and runs them through your Essence Core over and over until the Core settles somewhere new. In a crowded field it also takes whatever is lying about. Tolley came out of it three days later in a hayloft knowing four hundred strangers' breakfasts, the private name an Altherion wool factor had for his wife, and the words to every song on the green, and he could never afterward be sure which of the dead fathers he remembered was his. The girl married a chandler. He made a fair living at the inns for a while, until people stopped wanting to hear what he knew about them.
+Draft-bench apprentices tell this one over the drip-bench, and nobody can prove it. A cooper named Dunstan Tolley, who had once been haunted by his father and considered this a qualification, bought a dose off a man at the Harvest Fair and took it standing in the middle of the crowd, to impress a girl who sold ribbons. The stuff does what it says: it takes the memories already stored in you and runs them through your Essence Core over and over until the Core settles somewhere new. In a crowded field it also takes whatever is lying about. Tolley came out of it three days later in a hayloft knowing four hundred strangers' breakfasts, the private name an Altherion wool factor had for his wife, and the words to every song on the green, and he could never afterward be sure which of the dead fathers he remembered was his. The girl married a chandler. He made a fair living at the inns for a while, until people stopped wanting to hear what he knew about them.
 
 ### What it is
 
@@ -22,7 +22,7 @@ Not a weapon; the armor-tier field the Item Guide requires for weapon entries do
 
 ### Codex line
 
-Wellspring: **Anamnesis**, primary. Family: **Limina**. Physics Domain: **Entropy, Void and Mind**. Category: **Drafts** (Craft: Draftcraft, bottled, cruder, buyer-triggerable, matching how the dose is prepared and administered). Glyphs: `Ma` (Memory) and `Ie` (Insight), both in documented use elsewhere in canon but not yet checked against the full 136-entry Master Glyph Index; `Ur` (Balance), independently confirmed, Root, Urion, primary Wellspring Judicium.
+Wellspring: **Anamnesis**, primary. Family: **Limina**. Physics Domain: **Entropy, Void and Mind**. Category: **Drafts** (Skill: bottling Drafts, bottled, cruder, buyer-triggerable, matching how the dose is prepared and administered). Glyphs: `Ma` (Memory) and `Ie` (Insight), both in documented use elsewhere in canon but not yet checked against the full 136-entry Master Glyph Index; `Ur` (Balance), independently confirmed, Root, Urion, primary Wellspring Judicium.
 
 ### Bond and cost
 

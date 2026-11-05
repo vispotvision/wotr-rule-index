@@ -49,8 +49,8 @@ The word people use for the whole of what it shows is **the sheet**.
 [Mun Seo-yeon · Level 170 · Stage VI, Glory · Path: Spirit]
 [Human, Sum-gol lineage]
 [Class: Auditor · Tier III, Resonant]
-[Ardency B · Vitality C · Gnosis A · Dexterity A]
-[Harmonics B · Resilience C · Tempering B · Dominion D]
+[Ardency B · Vitality D · Gnosis C · Dexterity C]
+[Harmonics D · Resilience E · Tempering E · Dominion F]
 [Trait: Every Column Balances · Level 44]
 [Skills: Bookkeeping A · Footwork B · Appraisal C · Knife D]
 [Blessings: none]
@@ -132,7 +132,7 @@ A sequence off a sharper afternoon, read in order by a mid-rank fighter with a b
 [Crew: The Wet Sevens · bond broken: Dov]
 ```
 
-**A vow shows its terms.** A vow is small Fate, a person binding their own probability, and anyone can make one. Spoken aloud, it arrives on the window with its bargain and its terms. Breaking it lands at once. Each vow counts against the two-Grade cap on boosts:
+**A vow shows its terms.** A vow is small Fate, a person binding their own probability, and anyone can make one. Spoken aloud, with or without a witness, it arrives on the window with its bargain and its terms. Breaking it lands at once, by those terms. Each vow counts against the two-Grade cap on boosts. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]:
 
 ```
 [Vow: "This hand stays down until he is dead."]
@@ -162,7 +162,7 @@ A window earns its keep at the big moments.
 [Skill: Knots, C to B]
 ```
 
-**Waking.** The commoner's little sheet opens out. A Waking Draft is very dear and often kills or warps a child, and most of the rich buy one for their children anyway, while commoners sell themselves into guild debt for it. Those who come through read something like this:
+**Waking.** The commoner's little sheet opens out. Most souls that wake are taught to, as [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate]] explains, and the rest get there by crisis or out of a bottle. A Waking Draft is very dear and often kills or warps a child, and most of the rich buy one for their children anyway, while commoners sell themselves into guild debt for it. Those who come through read something like this:
 
 ```
 [Crystal: open]
@@ -190,7 +190,7 @@ A window earns its keep at the big moments.
 
 Taverns tell the second block as a joke, and the last line is the joke.
 
-**A Release or a Domain.** Calling a [[The Magic System/The Soul and the Climb/Release Forms|Release]] fills the window with its name and what changed, and a timer bar starts to drain. The same goes for a Domain, the space where a soul's own law outranks physics. Both are big and loud on the window for the owner alone, whatever the room is doing, and the two-Grade cap stands inside them.
+**A Release or a Domain.** Calling a [[The Magic System/The Soul and the Climb/Release Forms|Release]] fills the window with its name and what changed, and a timer bar starts to drain. The same goes for a [[The Magic System/The Soul and the Climb/Domains|Domain]], the space where a soul's own law outranks physics. Both are big and loud on the window for the owner alone, whatever the room is doing, and the two-Grade cap stands inside them.
 
 ```
 [FIRST RELEASE: THE LONG YOKE]
@@ -210,7 +210,7 @@ Taverns tell the second block as a joke, and the last line is the joke.
 
 ## How a Blessing Lies
 
-A blessing grants a power out of a person's natural reach, even in Level. Higher spirits, Archons, Epochs and people of higher Temperance give them, and a great giver spends almost nothing doing it. **It shows on the sheet as its own line, and that line can lie, because the giver wrote it.** Every other line on a window is the soul reporting on itself. This is the one line on it with an outside author.
+A [[The Magic System/Practice and Institution/Blessings and Curses|blessing]] grants a power out of a person's natural reach, even in Level. **It shows on the sheet as its own line, and that line can lie, because the giver wrote it.** Every other line on a window is the soul reporting on itself. This is the one line on it with an outside author.
 
 King Godric Fenn of Pennycrown, on the night his cousin's army reached the walls, prayed at a spring he had been told to leave alone, and woke with this:
 
@@ -272,7 +272,7 @@ Since nobody can see your window, your window is whatever you say it is, until s
 
 **At a hiring, they ask for proof.** A crew or a lord wants more than your word. They will want an assay slip with a seal on it, which costs a silver mark at the house and can be forged, and forging a token is a great crime, which keeps the price of a good forgery high. A sensible employer also hires a reader, and has you lift something heavy.
 
-**At court, you swear.** A proper court makes you swear to what your sheet shows. Lying under a proper oath costs you, because an oath is small Fate, and the cost lands on your own window, where only you can see it. Only an assay can check what you said.
+**At court, you swear.** A proper court makes you swear to what your sheet shows. Lying under a proper [[The Magic System/Practice and Institution/Vows and Oaths|oath]] costs you, because an oath is small Fate, and the cost lands on your own window, where only you can see it. Only an assay can check what you said.
 
 ```
 [Oath: "Level 140, as my sheet shows." Sworn false.]

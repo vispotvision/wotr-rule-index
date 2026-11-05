@@ -44,7 +44,7 @@ Every clause of the law is in that story. This page takes them in order, and I w
 
 **How it is beaten.** Read the wording and fight what it leaves out. Failing that, a handful of bloodlines can take it off, and one of them is famous for it.
 
-**Example.** Jory Tull, Stage III, a Green Sigil hunter, spends a season hauling water up a mountain for an old spirit who likes being carried to. It thumbs her, and her window now holds `[Blessing: Cold Doesn't Mind You]`. She walks through a Vohrin gallery in her shirt, breaks masks her Stage has no business breaking, and sells them for a year's wages. In the second winter she notices that she no longer feels the stove either, and that she has burned both hands to the bone without waking.
+**Example.** Jory Tull, Stage III, a Green Sigil hunter, spends a season hauling water up a mountain for an old spirit who likes being carried to. It thumbs her, and her window now holds `[Blessing: Cold Doesn't Mind You]`. She walks through a cold gallery, a Titan-touched one, in her shirt, breaks masks her Stage has no business breaking, and sells them for a year's wages. In the second winter she notices that she no longer feels the stove either, and that she has burned both hands to the bone without waking.
 
 ---
 
@@ -56,13 +56,13 @@ The law says *out of a person's natural reach*, and the range is wider than most
 |---|---|---|
 | **A rule about you** | One flat sentence. `[You will not drown.]` | Everything the sentence left out. This is the commonest kind and the most dangerous |
 | **Level** | The number moves, and every reader will confirm it. A blessing is the one thing that can move Level without danger overcome | The fighting that goes with those Levels is absent, and the body arrives ahead of its owner |
-| **A Grade or several** | A Primary (one of the Eight stats on the sheet) or a Sub-Stat jumps | It is outside help, so it may lift a fighter past the two-Grade cap on self-boosts (see [[The Magic System/Power in Use/Stacking and Spending\|Stacking and Spending]]). Whoever is holding it up can also let go |
+| **A Grade or several** | A Primary (one of the Eight stats on the sheet) or a Sub-Stat jumps | It is outside help, so it may lift a fighter past the two-Grade cap on self-boosts (see [[The Magic System/Power in Use/Stacking and Spending\|Stacking and Spending]]), and it adds no risk unless it was forced on the one receiving it. Whoever is holding it up can also let go |
 | **A skill or a tongue** | A new Grade on a trade or weapon skill, overnight | Skills rise with use, and a skill that never rose has no habits under it. It works perfectly right up to the first surprise |
 | **A Wellspring** | A harmonization with one of the sixty alchemical and spiritual transformations that shape how a soul uses Aether. It lands small, as any new one does, and years of mastery bring it up | The giver chose which one |
 | **A Catalyst** | A Stage. The Catalyst is the change a Crystal demands before it will climb, and a thumb can supply it as a Draft can | A given Stage opens the door and no more. It has no Release (a fighter's staged power-up) until one is found and mastered by fighting |
-| **Waking** | The whole window opens, with Essence and a class | The Crystal woke to the giver's knock and may answer to that knock for life. Measurewrights argue about this one, and the wise ones do it quietly |
+| **Waking** | The whole window opens, with Essence and Stage I | The Crystal woke to the giver's knock and may answer to that knock for life. Measurewrights argue about this one, and the wise ones do it quietly |
 
-Two things stand outside the list. Nothing a thumb gives is a **vow**: a vow is a person binding their own probability, small Fate that anyone can make, and its window shows the bargain and its terms in full because you wrote them. And a blessing does not reliably undo a death. The dead stay dead. A very great giver could in theory reverse one, a world-shaking event with a terrible price, and it comes back as a curse more often than not (see Cold Harrow, below).
+Two things stand outside the list. Nothing a thumb gives is a **[[The Magic System/Practice and Institution/Vows and Oaths|vow]]**: a vow is a person binding their own probability, small Fate that anyone can make, and its window shows the bargain and its terms in full because you wrote them. And a blessing does not reliably undo a death. The dead stay dead. A very great giver could in theory reverse one, a world-shaking event with a terrible price, and it comes back as a curse more often than not (see Cold Harrow, below).
 
 ### Written and poured
 
@@ -142,7 +142,7 @@ This is separate from the other way a window can lie. A strong user of Limina (t
 
 **Ask what the giver eats.** This is the oldest advice and still the best: learn what the giver wants, what it has done before, and what became of the last one.
 
-**In court.** A court makes you swear to what your sheet shows, and lying under a proper oath costs you, because an oath is small Fate. A person who swears honestly to a line that lies is a question the lawyers have been fighting over for three hundred years, and the Waxgate assize has ruled both ways. The current reading is that you are bound to your own understanding of the words, which is why a wording-man will tell you never to read your line too closely before a hearing.
+**In court.** A court makes you swear to what your sheet shows, and lying under a proper [[The Magic System/Practice and Institution/Vows and Oaths|oath]] costs you, because an oath is small Fate. A person who swears honestly to a line that lies is a question the lawyers have been fighting over for three hundred years, and the Waxgate assize has ruled both ways. The current reading is that you are bound to your own understanding of the words, which is why a wording-man will tell you never to read your line too closely before a hearing.
 
 ---
 
@@ -246,7 +246,7 @@ A **Path** is the route a soul's Essence has settled into, and there are four: B
 
 ## How a Measurewright Explains It
 
-Magister Ysolde Corbet, of the Sealhall chair of Attraction, taught for thirty years that a blessing is a coupling. Attraction Force is a real term in the books, she said, as real as weight, and a stronger soul has a greater share of it in any place it has noticed. When such a soul takes note of you, your Attraction Layer (the outermost of the Crystal's three parts, where the soul meets the world) is pulled into step with its own, the way one clock on a wall will bring a second clock into its own swing through nothing more than the shared timber. A poured thumb is a true transfer, paid for in the giver's Essence, and the books balance. A written thumb moves no energy at all, and only biases which of the things already possible comes to pass. She proposed to demonstrate this with dice before a full bench, using a blessed subject and a counted ten thousand throws.
+Magister Ysolde Corbet, of the Sealhall chair of Attraction, taught for thirty years that a blessing is a coupling. Attraction Force is a real term in the books, she said, as real as weight, and a stronger soul has a greater share of it in any place it has noticed. When such a soul takes note of you, your Attraction Layer (the Fate-Plane layer of the Crystal's three, where the soul's bonds are held) is pulled into step with its own, the way one clock on a wall will bring a second clock into its own swing through nothing more than the shared timber. A poured thumb is a true transfer, paid for in the giver's Essence, and the books balance. A written thumb moves no energy at all, and only biases which of the things already possible comes to pass. She proposed to demonstrate this with dice before a full bench, using a blessed subject and a counted ten thousand throws.
 
 The figures were superb. The subject rolled exactly as often as he should have, for nine thousand nine hundred throws, while her assistant's ladder gave way, the tallow caught and the bench's roof came down on the east side of the hall. The subject was not hurt, and when pressed he admitted that his line read `[Nothing will prove it.]` The Sealhall chair remains funded and argues its case from a different building. The Moto, asked to comment, said that the Magister had described the shadow of a job very accurately, and sent an invoice for the comment.
 
@@ -264,3 +264,5 @@ The figures were superb. The subject rolled exactly as often as he should have, 
 | **Kharven markets** | A loan with no paper | Somebody is carrying that on a ledger, and you are going to meet him |
 | **The Marrowkin** | A tally mark you did not cut | It goes in the book as owing, and the Tally keeps it as a debt against the body |
 | **The faiths** | Grace, favor, election, temptation | Every faith has its own answer to what the window is, and so to who may write on it. Real wars have come of this and more are on order |
+
+*Read next: [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]], for the line you wrote yourself.*

@@ -132,17 +132,17 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Grade** · The letter-ranked output classification, F through EX+ (with Hollow below the letters), attached to a Temperance Stage, marking raw magnitude up to that Stage's Grade cap. Skills show on the same letters, and so does an item's power.
 
-**EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Scales with Temperance Stage, and the band and benchmark reserve for each of the sixteen Stages are set out in Fracture of Worlds Part Nineteen. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering.
+**EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Set by Level and capped by Stage, and the band and benchmark reserve for each of the sixteen Stages are set out in Fracture of Worlds Part Nineteen. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering.
 
 **Flux Density · EU/g** · The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output from the same reserve.
 
-**AU/s · Aether Units per second** · The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. **AU/s = Flux Density × η**
+**AU/s · Aether Units per second** · The output rate: how much Essence a practitioner spends per second at full output. **AU/s = Flux Density × η**. Power delivered is AU/s × η, so η counts twice on purpose, once for how much the Shell can move and once for what survives the trip.
 
-**Efficiency · Eta · η** · The ratio of Essence spent to Essence that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. The single most important variable in how long a reserve lasts under sustained output. **An η above 1.0 is real.** More arrives than the Crystal spent because the surplus is pulled from the Aether stratum: the practitioner supplies the boundary condition and the stratum supplies the joules, and above 1.0 the Continuum recognizes the expression as law and supplements it with ambient flow. No reserve is returning more than it held, and the figure on the sheet is correct.
+**Efficiency · Eta · η** · The share of Essence spent that arrives as intended effect: what arrives, divided by what was spent. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. From the first class at Glory the Aether Class tier sets it; the Tier of Standing table gives the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides that average, and a card's own figure governs its holder. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer. **An η above 1.0 is real.** More arrives than the Crystal spent because the surplus is pulled from the Aether stratum: the practitioner supplies the boundary condition and the stratum supplies the surplus joules, and above 1.0 the Continuum recognizes the expression as law and supplements it with ambient flow. No reserve is returning more than it held, and the figure on the sheet is correct.
 
 **Joule · J** · What one EU is worth outside the Crystal. **1 EU = 1 MJ**. The conversion, the chain from EU to joules to Grade to tons of TNT, and what a reserve buys at each rung are [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
 
-**Watt · W** · What an AU/s is worth as power. One AU is one EU, so **1 AU/s = 1 MW**: power spent is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as waste heat. Time to empty is reserve ÷ AU/s, and that figure does not depend on the conversion at all.
+**Watt · W** · What an AU/s is worth as power. One AU is one EU, so **1 AU/s = 1 MW**: power spent is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as waste heat. Time to empty at full output is reserve ÷ AU/s, and because AU/s carries η, a cleaner Shell at full output empties sooner while the same delivered effect costs it less.
 
 **Turn** · Six seconds. The unit every stated duration in turns is read through, in a duel and on a campaign clock alike: a working held three turns is held eighteen seconds. A reserve spent at *R* AU/s for one turn is 6*R* EU gone, delivering 6*R* × η megajoules.
 
@@ -153,7 +153,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 ## VI. Traits, Refinement and the Seat
 
 > *A soul is assembled out of what happened to it and what it could afford, in that order.*
-**Trait** · A standing law held in the Essence Core, formed when lived experience hardens into a statement the Continuum accepts as reliable. Survived into existence, never taught. A Trait belongs to the soul; the Soul Crystal only arms it. It can be leveled and refined like a skill: each Trait has its own level, which rises with use and grows with overall Level and skill.
+**Trait** · A standing law held in the Essence Core, formed when lived experience hardens into a statement the Continuum accepts as reliable. Survived into existence, never taught. A Trait belongs to the soul, sealed or open; an open Crystal only arms it. It can be leveled and refined like a skill: each Trait has its own level, which rises with use and grows with overall Level and skill.
 
 **The Four Reflections** · **Primary**, the innate law, present from birth and never removable. **Secondary**, forged by trauma or decision, conditional, expensive to fire. **Inherited**, written into the Core before the Core had a self to consent with, and governed by Tempering Maturity. **Passive**, stabilized by long habit, always running, cheapest and most identifying. **Compound** Traits fuse two or more into one law. **Higher-Imprint** Traits are marked by an Archon, a Titan or a World Spirit Realm and behave as miniaturized Principles.
 
@@ -195,27 +195,41 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 [Skill: Staff, D to C]
 ```
 
-**The Sheet** · What a normal look at the window shows: race and lineage, Level, Stage, class, the Eight Primaries with Grades, reserve, Traits with levels, skills with Grades, and any blessings. A Sub-Stat appears when it is used or when it moves, and the full set remains to study. Race and lineage shape base stats and what comes easily. A person's life spends most of their stat points by what they do, and a few are theirs to place at each Stage.
+**The Sheet** · What a normal look at the window shows: race and lineage, Level, Stage, Path, class, the Eight Primaries with Grades, reserve, Traits with levels, skills with Grades, and any blessings. A Sub-Stat appears when it is used or when it moves, and the full set remains to study. Race and lineage shape base stats and what comes easily. A person's life spends most of their stat points by what they do, and a few are theirs to place at each Stage.
 
-**Skill** · A thing a person does and gets better at by doing it. Rises with use and shows on the sheet as a Grade. Drafts, runes, tags and chants are skills and trades like any other, and anyone can level them.
+**Registered card** · The record a guild or assay house keeps on a practitioner: Grades, Traits, each named technique with its cost written as time from full, its tell and its counter, and the stack line. In the Archive's talk "his card" means this paper, and it is only as good as the last reading. The Character Cards in this wiki are the Archive's own copies of the same kind of record.
 
-**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves at each tier by how it is lived. The ladder Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute is its tier, and that tier sets η as the tables say. Stages I to V read no Class, so the first offer comes at Glory. The one wild concept stays the person's own.
+**Practitioner** · A person whose Soul Crystal is awake and working, about one in ten. Everyone else is Class Ø and touches magic through what they buy.
 
-**Catalyst** · The push that opens a Threshold. The Crystal has a shape it wants for each Stage (see *The Sixteen Stages*), and crisis, seclusion and tribulation are the old roads to it. Drafts and blessings can supply it too. The great houses hoard the top Drafts, and the poor rise by dungeon luck, guild patronage and blessings.
+**Path** · The direction advancement actually took: Body, Spirit, Attraction or Fate. It is assessed afterward and recorded whether the person agrees or not, nobody chooses one, and it gates how far a stat may rise. See [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]].
 
-**A bought Stage** · One opened with money. It opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+**Continuum** · The lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power. A window is that measurement reported to the owner.
+
+**Coil** · The assay house's measuring instrument, a great coil of brass a practitioner stands inside. It reads EU, η, Stage, Grades and the seat, none of which it will argue about. A coil reads a bought Stage the same as a fought one; what reads differently is the seat.
+
+**Draft** · A working poured into a substance and bottled. Advancement Drafts bring a soul up to a Stage's floor, Essence Drafts feed tempering, fight Drafts refill the reserve for a beat and a crash, and each is graded by the Stage it serves. See [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]].
+
+**Skill** · A thing a person does and gets better at by doing it. Rises with use and shows on the sheet as a Grade. Drafts, runes, tags and chants are skills and trades like any other. Anyone can level a skill hands alone can do, pouring Drafts included; cutting runes, firing tags, chanting and speaking a working want a woken Crystal.
+
+**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves at each tier by how it is lived. The ladder Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute is its tier, and from the first class that tier sets η. Stages I to V read no Class, so the first offer comes at Glory. The one wild concept stays the person's own.
+
+**Catalyst** · The push that opens a Threshold. The Crystal has a shape it wants for each Stage (see [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]]), and crisis, seclusion and tribulation are the old roads to it. Drafts and blessings can supply it too. The great houses hoard the top Drafts, and the poor rise by dungeon luck, guild patronage and blessings.
+
+**A bought Stage** · One opened with money. It opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy. A purse can buy the Catalyst for any Stage, though at Zenith a Hollow Throne must still recognize the buyer. See [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]].
 
 **Experience** · Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
 
-**Monster core** · In a way a monster's Soul Crystal, worth more the stronger the monster. It is the lawful Crystal Draw of *The Standing Index*. An alchemist renders it into Essence Drafts used for tempering, with Creature-Sourced potency and Identity Contamination. Swallowed raw it gives everything at once, and most who try die or come out wrong.
+**Monster core** · In a way a monster's Soul Crystal, worth more the stronger the monster, and read from the beast's own Grade and Level on the coil. It is the lawful Crystal Draw of [[Materials, Alchemy & Trade/Alchemy/The Standing Index|The Standing Index]]. An alchemist renders it into Essence Drafts used for tempering, with Creature-Sourced potency and Identity Contamination. Swallowed raw it gives everything at once, and most who try die or come out wrong. See [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]].
 
 **Monster** · A creature that gains Levels by killing and changes form at its own thresholds, on the same Level and Grade scale as a person, read by Gnosis, with question marks for a weak reader. Graded T1 to T9 like Commissions. A famous one earns a name, an epithet and a bounty, and its parts make gear.
 
-**Cut Crystal** · A Crystal taken from a dead practitioner. It renders into the strongest Draft of all, the worst crime in every realm and the most profitable, and the reason Class IV of the Standing Index has never balanced.
+**Cut Crystal** · A Crystal taken from a dead practitioner. It renders into the strongest Draft of all, the worst crime in every realm and the most profitable, and the reason Class IV of the Standing Index (its top class of stock, no relation to Aether Class IV) has never balanced.
 
-**Dungeon** · What grows down in floors around a Core, with something guarding the heart. Kill that and clear the place, or leave it and it grows. Alive and learning: it moves its galleries and breeds what kills crews best, and scholars argue whether it thinks.
+**Dungeon** · What grows down in floors around a Core, with something guarding the heart. Kill that and clear the place, or leave it and it grows. Alive and learning: it moves its galleries and breeds what kills crews best, and scholars argue whether it thinks. See [[The Bestiary/Dungeons|Dungeons]].
 
-**Blessing** · A power out of a person's natural reach, even in Level, granted by a higher spirit, an Archon, an Epoch or a person of higher Temperance. It need not go through Fate, but most do, and a great giver spends almost nothing. It is its own line on the sheet, and it can lie, because the giver wrote the line.
+**Vow** · Small Fate, a condition a person binds on themselves, spoken aloud, anyone's to make. It shows in the window with its terms. A broken vow lands at once by its own terms and needs no witness; repeated denial of the truth behind it makes a Shear Break. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]].
+
+**Blessing** · A power out of a person's natural reach, even in Level, granted by a higher spirit, an Archon, an Epoch or a person of higher Temperance. It need not go through Fate, but most do, and a great giver spends almost nothing. It is its own line on the sheet, and it can lie, because the giver wrote the line. See [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]].
 
 **Curse** · Often a blessing with terms you did not read, or from a giver who does not care what you want.
 
@@ -225,6 +239,8 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Item Grade and Rarity** · An item's two ratings: Grade for power, on the fighters' letters, and Rarity for scarcity (Common, Uncommon, Rare, Very Rare, Legendary, Mythic, Unique). A smith's title caps the Grade she may make and a merchant's caps the Rarity he may sell. The old words (Marked, Proofed, Tempered, Instrument, Hallowed, Storied, Found, Numinous, Proscribed) survive as the Accord's stamps. Bonded gear grows; other gear does not. An Appraisal skill and an assay instrument read an item, and a good forger beats a weak appraiser.
 
-**Master Work** · A piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own. A Fate Essence Draft is one: extremely hard and very coveted.
+**Master Work** · A piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own. A Fate Essence Draft is one: extremely hard and very coveted. See [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Works]].
 
 **Reading a person** · A stronger Gnosis Perception reads a weaker Resilience Ward. Anything else is an estimate said aloud, and people can hide or fake it.
+
+*End of First Steps. Next shelf: [[The Magic System/The Foundations/The Foundations|The Foundations]].*

@@ -92,7 +92,7 @@ The function of collapse, devastation, despair, madness, entropy, and the residu
 
 Its function within the Plane of Fate is to break false continuities. When a kingdom, soul, law, pact, age, or structure has become diseased beyond repair, Hametsu no Gō performs the work of severance through destruction. It strips away delusion, tears down decayed order, and returns excess creation to ash, silence, or fragmentation. It is one of the oldest conditions by which reality is permitted to stop.
 
-**Common functions** · Dissolution of corrupted structures · acceleration of collapse where rot has already begun · infliction of despair, insanity, or existential pressure · exposure of instability hidden beneath beauty, power, or sanctity · reduction of excess order into raw aftermath.
+**Common functions** · Dissolution of corrupted structures · acceleration of collapse where rot has already begun · infliction of despair, insanity, or existential pressure · exposure of instability hidden beneath beauty, power, or sanctity · reduction of excess order into raw aftermath · discharge of a blessing that has become a false continuity.
 
 **Through Attraction Force** · lawful ending, necessary severance, corrective destruction. **Through Obsession Force** · recursive annihilation, compulsive devastation, fixation upon collapse for its own sake.
 
@@ -104,7 +104,7 @@ The function of foundation, creation, order, clarity, sanctity, and sacred sanit
 
 Its role goes past healing: it exists to **define proper structure**. Purity creates sound foundations, restores rightful form, and enforces integrity upon matter, law, spirit, and intention. Where Ruin strips away what has failed, Purity builds and preserves what is worthy of endurance. It is the primitive act by which existence becomes fit to remain.
 
-**Common functions** · Construction of stable forms, laws, and sanctified structures · cleansing of corruption, distortion, or metaphysical stain · reinforcement of sanity, order, and inner coherence · illumination of truth through refinement · protection of sacred systems from defilement or breach.
+**Common functions** · Construction of stable forms, laws, and sanctified structures · cleansing of corruption, distortion, or metaphysical stain · reinforcement of sanity, order, and inner coherence · illumination of truth through refinement · protection of sacred systems from defilement or breach · lifting a blessing that sits in the soul as a stain.
 
 **Through Attraction Force** · consecration, restoration, rightful stability, sacred protection. **Through Obsession Force** · sterilization, fanatic correction, purgation without mercy, and the violent refusal of all stain or deviation.
 
@@ -142,7 +142,7 @@ The function of understanding, revelation, perception, liberty of thought, inter
 
 Knowledge gives shape to comprehension. It governs learning, memory, discernment, discovery, and the power to correctly interpret the laws of existence. It also has a liberating aspect, because knowledge breaks imprisonment by ignorance, false naming, and imposed blindness. It is the primitive permission for truth to become intelligible.
 
-**Common functions** · Revelation of hidden truths, names, patterns, and laws · expansion of intellect, memory, and interpretive power · liberation from deception, ignorance, and imposed limitation · clarification of symbols, histories, and divine mechanisms · recognition of the proper meaning or use of a thing.
+**Common functions** · Revelation of hidden truths, names, patterns, and laws · expansion of intellect, memory, and interpretive power · liberation from deception, ignorance, and imposed limitation · clarification of symbols, histories, and divine mechanisms · recognition of the proper meaning or use of a thing · reading a blessing's line for what it is, giver and terms.
 
 **Through Attraction Force** · revelation, teaching, inheritance of truth, lawful interpretation, lucid understanding. **Through Obsession Force** · fixation, devouring certainty, interpretive mania, enslavement to one consuming idea or forbidden truth.
 
@@ -158,7 +158,7 @@ Balance governs the tension between Ruin and Purity, death and life, law and fre
 
 **Through Attraction Force** · harmony, lawful arbitration, coexistence, measured equilibrium. **Through Obsession Force** · suffocating stasis, forced symmetry, paralysis in the name of fairness, and the refusal to permit necessary imbalance where reality requires it.
 
-**Representative Wellsprings** · Coagula · Coagulatio · Thalor · Transference · Manganthra · Chthonica · Basilithe · Petralon
+**Representative Wellsprings** · Coagula · Coagulatio · Thaloré · Transference · Manganthra · Chthonica · Basilithe · Petralon
 
 ### Zentai-sei no Hataraki · the Work of Totality
 
@@ -190,6 +190,10 @@ The Works are interdependent functions inside a single greater order.
 
 Together these Works transform the Plane of Fate from a realm of simple prophecy into a realm of **active divine administration**. Through Hataraki, Fate performs the work necessary to produce, preserve, alter, terminate, and complete those outcomes.
 
+### Taking a blessing off
+
+A real Fate Art can do to a blessing what almost nothing else can, whoever gave it, and it is the reason people run when a Moto starts reading their thumb. A blessing, to a Moto, is a job someone has assigned to the odds, and a job can be read, and a worker can be fired. Three Works do it, in three motions. **Knowledge** reads the line for what it is. The remover then names aloud what job the thing was given and by whom, because Hataraki administers purpose and has to say what the purpose was. **Ruin** then breaks a line that has become a false continuity, or **Purity** makes a thing stand as it ought until a line sitting in the soul as a stain has nowhere to stay; a true gift, well held for decades, offers neither handle and takes days. To *take back* returns a line to its author, who feels it arrive. To *remove* ends it where it stands. Either way, everything standing on the line comes down at once. What falls and what it costs the remover are set out in [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]].
+
 ---
 
 ## Epochal Manifestation
@@ -205,17 +209,17 @@ The epochs are **successive unveilings of what the Works had already made possib
 ## Discrepancies of Record
 
 *Attested, not reconciled.*
-> **The second roster.** The system source preserves a differently-named set of seven Works, given with Sub-Stat clusters rather than with functions. Only two names are common to both rosters. The Archives has never issued a ruling on whether these are alternate names for the same seven labors, a superseded enumeration, or a distinct register describing the Works as they present to a practitioner rather than as they operate in the Plane of Fate.
+> **The second roster.** [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|Fracture of Worlds]] preserves a differently-named set of seven Works, given with Sub-Stat clusters rather than with functions. Only two names are common to both rosters. The Archives has never issued a ruling on whether these are alternate names for the same seven labors, a superseded enumeration, or a distinct register describing the Works as they present to a practitioner rather than as they operate in the Plane of Fate.
 
-| Work, as the system source names it | Sub-Stat clusters | Character |
+| Work, as the Fracture names it | Sub-Stat clusters | Character |
 |---|---|---|
-| **Zentai-sei no Hataraki** · Totality | Dominion (Sovereignty, Reach, Throne) · Tempering (Ceiling, Maturity) · Resilience (Persistence, Continuity) | The Work of wholeness and cosmic maintenance. Practitioners whose doctrine encompasses rather than excludes. |
-| **Hametsu no Gō** · Ruins | Ardency (Flux, Detonation, Cascade) · Resilience (Severance, Nullity) · Dominion (Pressure, Command) | The Work of necessary collapse. Practitioners whose doctrine dismantles what can no longer sustain itself. |
-| **Zayaniin Tort** · Fate’s Cage | Dominion (Fate, Command, Sovereignty) · Harmonics (Attunement, Axis) · Resilience (Oath, Dimensional) | The Work of binding and consequence. Practitioners whose doctrine enforces the debts reality owes itself. |
-| **Ariun Gerel** · Sacred Light | Harmonics (Fidelity, Projection, Synergy) · Gnosis (Perception, Diagnosis) · Tempering (Clarity, Maturity) | The Work of illumination and purification. Practitioners whose doctrine reveals truth as a structural force. |
-| **Mönkhiin Kharankhui** · Eternal Dark | Resilience (Nullity, Persistence, Severance) · Harmonics (Voidance, Suppression) · Dominion (Sovereignty, Rift) | The Work of negation and sovereign silence. Practitioners whose doctrine erases rather than creates. |
-| **Düürleltiin Toirog** · Cycle of Rebirth | Vitality (Regeneration, Constitution, Hemostasis) · Tempering (Processing, Yield, Acceleration) · Harmonics (Confluence, Recovery) | The Work of renewal. Practitioners whose doctrine treats ending as the first motion of beginning. |
-| **Ev Nairaliin Duu** · Voice of Harmony | Harmonics (Chord, Synergy, Empathy, Fidelity) · Dominion (Command, Reach, Projection) · Gnosis (Resonance, Cognition) | The Work of concordance. Practitioners whose doctrine synchronizes rather than commands. |
+| **Zentai-sei no Hataraki** · Totality | Dominion (Sovereignty, Throne) · Tempering (Ceiling, Maturity) · Resilience (Persistence, Continuity) | The Work of wholeness and cosmic maintenance. Practitioners whose doctrine encompasses rather than excludes. |
+| **Hametsu no Gō** · Ruins | Ardency (Flux, Overchannel, Cascade) · Resilience (Ward, Persistence) · Dominion (Pressure, Command) | The Work of necessary collapse. Practitioners whose doctrine dismantles what can no longer sustain itself. |
+| **Unmei no Ori** · Fate’s Cage | Dominion (Fate, Command, Sovereignty) · Harmonics (Attunement, Axis) · Resilience (Oath, Continuity) | The Work of binding and consequence. Practitioners whose doctrine enforces the debts reality owes itself. |
+| **Shinsei Naru Hikari** · Sacred Light | Harmonics (Attunement, Projection, Synergy) · Gnosis (Perception, Analysis) · Tempering (Clarity, Maturity) | The Work of illumination and purification. Practitioners whose doctrine reveals truth as a structural force. |
+| **Eien no Yami** · Eternal Dark | Resilience (Persistence, Ward) · Harmonics (Stability, Suppression) · Dominion (Sovereignty, Sense) | The Work of negation and sovereign silence. Practitioners whose doctrine erases rather than creates. |
+| **Saisei no Wa** · Cycle of Rebirth | Vitality (Regeneration, Constitution, Hemostasis) · Tempering (Maturity, Yield) · Harmonics (Synergy, Stability) | The Work of renewal. Practitioners whose doctrine treats ending as the first motion of beginning. |
+| **Chowa no Koe** · Voice of Harmony | Harmonics (Breadth, Synergy, Empathy, Attunement) · Dominion (Command, Sovereignty, Radius) · Gnosis (Fluency, Cognition) | The Work of concordance. Practitioners whose doctrine synchronizes rather than commands. |
 
 ---
 

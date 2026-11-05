@@ -14,16 +14,18 @@ That yard held the whole of this page. Here is the machinery under it.
 
 **Nearly every person alive carries a Soul Crystal from birth**, the porter and the laundress as surely as the heir of a great house. The Crystal is the soul, so a few are born with one so slight that no coil has ever found it, and scholars argue about what that makes them. The rest carry a **Dormant Crystal**: sealed and silent, present in full, and doing nothing a coil (the assay instrument that reads a Crystal) can read.
 
-A dormant Crystal stays dormant for life unless somebody wakes it while it is young. Waking is taught, and taught early. It takes a teacher, a regimen and a place to practice before the soul sets, and a Crystal nobody attends to in childhood seals and goes on sleeping while the soul around it refines by the Weathering (the slow hardening hard living gives a soul, without magic) and hardens into whatever its work made it. **That is Class Ø, and it is nine people in every ten, which is most of the world.**
+A dormant Crystal stays dormant for life unless somebody wakes it while it is young. Waking is taught, and taught early. It takes a teacher, a regimen and a place to practice before the soul sets, and a Crystal nobody attends to in childhood seals and goes on sleeping, and refines sealed by the Weathering (the slow hardening hard living gives a soul, without magic) into whatever its work made it. **That is Class Ø, and it is nine people in every ten, which is most of the world.**
 
 The tenth wakes, nearly always as a child. One in ten is a great many people. A market town of four thousand keeps four hundred woken souls, nearly all of them low on the ladder, warming kettles and selling small tricks and drilling at dawn in somebody's yard, and that is why every quarter has a school with a song, why sects and their ranks are common knowledge, and why a child of six can rank the local fighters and fight you about it.
 
 A small number stir without being taught. A child raised on a badly worked street in a crowded quarter wakes at an odd age; a child with a strong Inherited mark (a bodily sign of a Trait carried in the blood) shows it before the first winter. These are the ones the screening seasons find, because screening reads a Crystal that has already stirred and returns nothing on one that has not.
-> **So what stands between a practitioner and a porter is almost always the lesson, given in time.** Once a Crystal has sealed it is woken rarely, by a crisis, a master's forcing or a tribulation, and always at great cost.
+
+Then there is the bottle. **A Waking Draft** opens a Crystal with no teacher and no seven years, and it is the rich family's road and the desperate one's. It is very dear, sixty to a hundred and twenty gold in a good year, and it often kills or warps the child who drinks it. Most of the rich buy one for their children anyway, generally with a physician standing by and a second child in reserve, while commoners sell themselves into guild debt for one. A blessing can wake a soul too, and the Crystal may go on answering to the knock that woke it.
+> **So what stands between a practitioner and a porter is almost always the lesson, given in time.** Once a Crystal has sealed it is woken rarely, by a crisis, a master's forcing, a tribulation, a Waking Draft or a blessing, and always at great cost.
 > 
 > *Every crown of the Dark Ages has understood this, and these are the generations in which they began trying to lock the lesson away.*
 
-The Path (the route a Crystal habitually works through) gates on a Sub-Stat (one of the finer stats) decide how far a woken Crystal may climb. This gate comes first, and decides whether it wakes at all.
+The Path (the route a Crystal habitually works through) gates on a Sub-Stat (one of the finer stats) decide how far a stat may rise. This gate comes first, and decides whether the Crystal wakes at all.
 
 ## II. The Lock
 
@@ -45,7 +47,7 @@ The low lesson got out long before anyone wrote a schedule, and there are far to
 | Gate | Who passes | Who holds it |
 |---|---|---|
 | **Ability** | A Crystal that stirs unbidden and is noticed. Recruited to an academy or sought out by a guild | Screening officers, academy recruiters, guild scouts |
-| **Birth** | The children of houses that can pay for a teacher, a fee and seven years | Great houses, academies, the companies' freedom |
+| **Birth** | The children of houses that can pay for a teacher, a fee and seven years, or for a Waking Draft | Great houses, academies, the companies' freedom |
 | **Nation** | The crown's own subjects, sworn before the first lesson | Crowns and their chanceries |
 | **License** | Whoever sits the examination and passes it | Academies, the Accord, the halls |
 | **Bloodline** | The blood, and nobody else | The archaic bloodlines and the lesser houses that copy them |
@@ -56,7 +58,7 @@ The low lesson got out long before anyone wrote a schedule, and there are far to
 
 **Nation.** A crown teaches its own. The oath comes before the first lesson, and a foreign student learns what the treaty between the two crowns allows and nothing more. **Vaeloris, the Carver's Seat of the Silver Cedars**, develops and standardizes techniques for the Reach's own use, and a technique standardized there belongs to the Reach before it belongs to anyone who learned it.
 
-**License.** The academy ranks run Scholar, Licentiate, Master, Doctor and Chair on the diploma, while on the training floor the older ladder of outer disciple, inner disciple and elder holds, settled by ranking contests, and **the Licentiate is the qualification that matters**: permission to practice for hire. Past it lie the Accord's credentials. A **Magister** holds an academy credential and a documented training record. A **Registered Natural** learned by other means and submits to monitoring instead: periodic reassessment, demonstration, disclosure of every new harmonization (a soul's tuning to a Wellspring). A school pays for its own license by the year, and in any large city about half the yards hold one and the other half hold something that looks very like one.
+**License.** The academy ranks run Scholar, Licentiate, Master, Doctor and Chair on the diploma, while on the training floor the older ladder of outer disciple, inner disciple, core disciple and elder holds, settled by ranking contests, and **the Licentiate is the qualification that matters**: permission to practice for hire. Past it lie the Accord's credentials. A **Magister** holds an academy credential and a documented training record. A **Registered Natural** learned by other means and submits to monitoring instead: periodic reassessment, demonstration, disclosure of every new harmonization (a soul's tuning to a Wellspring). A school pays for its own license by the year, and in any large city about half the yards hold one and the other half hold something that looks very like one.
 
 **Bloodline.** The archaic bloodlines teach their arts to the blood and to nobody else, and lesser houses imitate them. A bloodline art taught outside the line is theft in the eyes of the house and, in most schedules, of the crown as well.
 
@@ -64,11 +66,11 @@ The low lesson got out long before anyone wrote a schedule, and there are far to
 
 The lesson gets you onto the ladder. What carries you up it is very largely money, and the schedules hardly pretend otherwise.
 
-**A Stage can simply be bought.** Drafts and blessings can supply the Catalyst (the particular experience a Stage demands), and a soul that has the Draft crosses, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts, and here the lock and the purse are one object, since a formula the Bench has reserved may lawfully be drunk only by those it names. **A coil cannot tell a bought Stage from a fought one.** A schedule does not care, either, so long as the fee was paid and the formula was lawful.
+**A Stage can simply be bought**, as [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]] sets out: Drafts and blessings can supply the Catalyst (the particular experience a Stage demands), and a soul that has the Draft crosses. The great houses hoard the top Drafts, and here the lock and the purse are one object, since a formula the Bench has reserved may lawfully be drunk only by those it names. **A coil reads the Stage the same however it was crossed, though it reads the seat differently.** A schedule does not care, either, so long as the fee was paid and the formula was lawful.
 
 **The poor have three roads.** *Dungeon luck*: a crew goes down, and comes up with a monster's core worth a year's wages, or a Wellspring got at a Core no one had found, or does not come up. *Guild patronage*: a hall stakes a promising hand a Draft against a signed term of service, and the term is the real product. *Blessings*: a higher spirit or a person of higher Temperance gives what no purse could reach, for reasons of their own, on terms that may be written badly or not at all. Every mother who walks a child to a gate has heard of someone who rose by each of the three, and every bookie can tell her the odds.
 
-**What it does not buy.** A bought Stage opens the door and no more. Its Release must be found and mastered by fighting, and [[The Magic System/Practice and Institution/Training and Sects|sects teach what money cannot buy]]: Releases, Domains, techniques, skills and the rites for their Wellspring. So the richest heir on the river stands at the same gate as the laundress's son, a few rungs higher and with better boots, asking the same school for the same thing, and the school can refuse him. **That refusal is the most valuable thing the schools own**, and they know it.
+**What it does not buy.** Its Release must be found and mastered by fighting, and [[The Magic System/Practice and Institution/Training and Sects|sects teach what money cannot buy]]: Releases, Domains, techniques, skills and the rites for their Wellspring. So the richest heir on the river stands at the same gate as the laundress's son, a few rungs higher and with better boots, asking the same school for the same thing, and the school can refuse him. **That refusal is the most valuable thing the schools own**, and they know it.
 
 ## V. What Needs No Leave
 
@@ -108,17 +110,11 @@ When a crime is done with a working, it is proved by the trace examiners, and th
 
 **The speaking.** The shouting ticket licenses a speaker to take hire, and that is all it does. The speaking itself has never been licensed and nobody has found a way to license it, because a spoken working has no author in its own grammar. Liability falls on whoever paid. *A speaker needs no substrate, no workshop and no seven years, and when he is finished there is nothing to point at.*
 
-**The penalties.** A small offense costs an amercement to the offender's means. Unlicensed hire costs the tools and the fee. **Unlicensed high working is punished hard**: branding in the Accord cities, and **Crystal sealing**, in which a Sealwright closes a woken Crystal against the soul that carries it, the way a keeper closes a Core. A sealed practitioner is Class Ø again in everything except memory.
+**The penalties.** A small offense costs an amercement to the offender's means. Unlicensed hire costs the tools and the fee. **Unlicensed high working is punished hard**: branding in the Accord cities, and **Crystal sealing**, in which a Sealwright shuts a woken Crystal on itself, the way a keeper closes a Core. A sealed practitioner is Class Ø again in everything except memory.
 
 ## IX. How the Common Folk See It
 
 Ordinary people know there is a gate and roughly where it stands. They know the screening season comes, that a stirring child is either a fortune or a danger to the household, and that the ranked practitioner walking down their street got through something they were never offered, even when they went to school with his brother. They follow the yards the way they follow a cockfight, wear the colors, and sing the songs. **The awe they feel is partly for the power and partly for the door.**
 > *Some mothers hide a stirring child from the screening, because an entered child belongs to the roll. Others walk one three days to the nearest academy and wait at the gate until someone reads him.*
 
-## X. Writing It
-
-**Every practitioner on the page came through a gate, and it shows.** Which one, who paid, and what was sworn are part of the character, the same way a trade or a birthplace is. So is whether they fought for their Stage or bought it, and who in the room can tell.
-
-**The gate is paperwork and shouting.** Forms, stamps, a roll, a numbered primer, a clerk who can refuse, and outside the window two schools trying to sing each other down. The drama is at the desk more often than in the field.
-
-**Every porter in the room carries a sleeping Crystal.** Nothing in the scene needs to say so, and the reader should never be allowed to forget that the line between the porter and the practitioner was drawn by somebody.
+*Read next: [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice]], for what the people who got through turn out to be.*

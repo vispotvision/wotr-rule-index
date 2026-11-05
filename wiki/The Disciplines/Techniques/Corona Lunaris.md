@@ -42,7 +42,7 @@ Under the Consent Doctrine the art is unstrained: a boundary is set and a law be
 - **Family** · Fulguria
 - **Physics Domain** · Electromagnetism
 - **Category** · Aetherica
-- **Craft** · Spellcraft
+- **Skill** · Speaking, a hand to the Crown and a spoken command, standing for its two turns or until it shatters
 - **Stage floor** · Stage V, Splintering
 - **Grade required** · B-Grade (instability risk above 320)
 - **Path gate** · Spirit

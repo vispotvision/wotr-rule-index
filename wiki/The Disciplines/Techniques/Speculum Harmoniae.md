@@ -4,7 +4,7 @@ title: "The False-Twin Choir"
 
 # THE FALSE-TWIN CHOIR
 
-*Spellcraft, Animatria (the double) and Concordia (the field), Stage V and Stage VIII. The scholars' terms are Speculum Harmoniae and its companion, Nexus Harmoniae.*
+*Speaking, Animatria (the double) and Concordia (the field), Stage V and Stage VIII. The scholars' terms are Speculum Harmoniae and its companion, Nexus Harmoniae.*
 
 The Speculists of Tanner's Reach hold that a likeness needs no agent once it is emitted, so they cast and let go, and they are insufferable about it. One of them, Joss Sallow, was hired to lead a band of bounty riders on a merry chase through the Reach's bright-painted market, and he did so splendidly, with two of him running down two alleys in two orange cloaks and the riders screaming at each other about which was real. Then a Silence fell over the square. He could not tell release from a cut line, so he walked home delighted, boasting of his mastery. There was a small piece of his Core still in that square. Nobody could find it, and he is a great deal quieter now, and he has forgotten why.
 
@@ -87,7 +87,7 @@ Both are Correspondence: a faithful likeness is treated as presence. The Speculu
 
 **Category** · Speculum: Animatria, a fragment of the Essence Core on a live line home. Nexus: Concordia, a lasting field of Spirit and Attraction.
 
-**Craft** · Spellcraft: the Speculum is a circle traced in the air around the target; the Nexus is a chant and sweeping gesture carried through the Aether Chord Staff.
+**Skill** · Speaking: the Speculum is a circle traced in the air around the target; the Nexus is a chant and sweeping gesture carried through the Aether Chord Staff.
 
 **Stage floor** · Splintering
 

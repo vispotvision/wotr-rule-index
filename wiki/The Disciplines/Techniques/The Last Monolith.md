@@ -4,7 +4,7 @@ title: "Let the World Strike"
 
 # LET THE WORLD STRIKE
 
-*Spellcraft, Arts, Stage VIII. The scholars' term is the Last Monolith. Its author's philosophy for it is the rest of the sentence: "Let the world strike. I remain."*
+*Speaking, Arts, Stage VIII. The scholars' term is the Last Monolith. Its author's philosophy for it is the rest of the sentence: "Let the world strike. I remain."*
 
 The Petrifaction school keeps a garden on the hill above Dunmarrow, full of its masters, and visitors are asked not to climb on them. Each one took the state as a refuge, on the grounds that stone preserves, and held it a little longer every year in the sunshine among the lavender, while novices in ochre robes struck them with mallets and recorded the note. Every turn held lays down void, and every void marks where the next break begins, so that the school's oldest art is choosing at leisure where you will one day come apart. The tour ends at Master Oda Fell, who is in eleven pieces and was the longest holder they ever had. They are very proud of her.
 
@@ -82,7 +82,7 @@ The Petrifaction school treats the state as a refuge to hold ever longer, since 
 
 **Category** · Arts (Body-aligned: embodied Aether expression given technique, the Vitae layer)
 
-**Craft** · Spellcraft, declared, and holds only for as long as the practitioner sustains the pull
+**Skill** · Speaking, declared, and holds only for as long as the practitioner sustains the pull
 
 **Stage floor** · VIII, Transcendence
 

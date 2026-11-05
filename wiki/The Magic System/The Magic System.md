@@ -229,7 +229,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 - [[The Magic System/Power in Use/Reinforcement|Reinforcement]]: The coat of one's own aura over the body's base, what it costs, and when it fails.
 - [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]: How boosts stack to the cap, how the reserve runs down, and how the body tells on it.
 - [[The Magic System/Power in Use/Runes and Tags|Runes and Tags]]: Workings cut into objects ahead of time: who fuels them, who fires them, who cuts them.
-- [[The Magic System/Power in Use/The Four Crafts|The Working Trades]]: The ways a working can be set down, the skills and trades behind them, and the old guild feuds that follow.
+- [[The Magic System/Power in Use/The Working Trades|The Working Trades]]: The ways a working can be set down, the skills and trades behind them, and the old guild feuds that follow.
 - [[The Magic System/Power in Use/Counterplay What Beats a Practitioner|Counterplay: What Beats a Practitioner]]: What beats a practitioner, and in what order the decision is made.
 
 ### V · [[The Magic System/Practice and Institution/Practice and Institution|Practice and Institution]]
@@ -250,7 +250,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 
 *Consulted rather than read. The Field Manual is author-facing: how magic is written, not what magic is.*
 
-- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories: Unified Taxonomy]]: Reference. Consulted rather than read.
+- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories: Unified Taxonomy]]: Reference. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]: Every term, defined. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]: The trade words of lamp-wardens, assayers and glasshouses, carried over into the metaphysical case.
 - [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]: Author-facing. How magic is written rather than what it is.

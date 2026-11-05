@@ -38,11 +38,11 @@ A release is a practitioner's Primary Trait (the deepest standing law in their s
 
 **The form is free.** A release takes whatever shape the person's soul would take: wings, plate, a changed blade, a beast's outline, a crown of something that should not burn. A Vectoria (force) practitioner may release as a white crane. What the form does still comes from the Trait and its Family (the branch of physics it works), so the crane's wings strike with plain Newtonian force.
 
-**The aura.** A release drives the aura to the practitioner's full color at once: their Family's hue at their Stage's clarity. At Stage IV that is a dark gray flare with the hue only hinted; at Stage VIII it lights the room in its own color.
+**The aura.** A release drives the aura to the practitioner's full color at once: their Family's hue at their Stage's clarity. At Stage IV that is a smoky flare, charcoal with the hue clouded through it; at Stage VIII it lights the room in its own color.
 
-**The Domain.** The Second Release opens and powers the Domain (a space where the practitioner's inner law outranks the world's). At Stage VII the field is a seed: it lasts minutes and collapses if attention breaks. From Stage VIII it is a true Domain, held for hours and steady under small disruptions, and anyone at Stage VIII can have one, their own concept made real, with the fame, rivalries and bounties that follow. The Third Release turns it into a Realm that can hold other Domains inside it. From Stage XI the First Release no longer needs calling: it is simply how they are.
+**The Domain.** The Second Release opens and powers the [[The Magic System/The Soul and the Climb/Domains|Domain]] (a space where the practitioner's inner law outranks the world's). The flicker of a seed that carries a soul into Stage VII is a one-time burst of the Trait and needs no Release; the Second is what lets a seed be called and held. At Stage VII the field is a seed: it lasts minutes and collapses if attention breaks. From Stage VIII it is a true Domain, grown by living and called aloud, held for hours and steady under small disruptions, and anyone at Stage VIII can have one, their own concept made real, with the fame, rivalries and bounties that follow. The Stage grants it, and a Grade never does. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one, a field that can hold other Domains inside it. From Stage XI the First Release no longer needs calling: it is simply how they are.
 
-**When fields meet.** Two release fields, or a field and another's Pressure (the weight a strong soul puts on a room), contest the ground by Dominion (the stat of authority over ground and presence) before a blow lands. The border shows in the room as light changing color across the floor, bystanders feel both, and the weaker side starts the fight already paying. A read can flip it: find what the field rests on, the owner's focus, its edge, or the thing they are guarding, press there, and the border moves back.
+**When fields meet.** Stage comes first: a field two Stages up simply overwrites the lower one. Otherwise two release fields, or a field and another's Pressure (the weight a strong soul puts on a room), contest the ground by Dominion (the stat of authority over ground and presence) before a blow lands. The border shows in the room as light changing color across the floor, bystanders feel both, and the weaker side starts the fight already paying. A read can flip it: find what the field rests on, the owner's focus, its edge, or the thing they are guarding, press there, and the border moves back.
 
 **The window.** The Crystal is the soul, and it reports to its owner. When a release fires, the owner's window (the soul's report of its own numbers, seen by nobody else) fills with the release's name and what changed, and a timer bar starts to drain. Grades, percentages and bars only: the exact figures stay with the assayers.
 
@@ -82,7 +82,7 @@ Nobody else sees it, so the man across from you is left to read the skin, the sh
 - **The call** costs a beat every time.
 - **Its own price.** A big release also charges in the coin of its own idea, on top of reserve and body tells, and the card says how. A landlady ends up on the step. A heat release blisters the hands that carry it.
 - **Outside a fight** a release may be held at the same cost: a First Release worn through a court audience to make a point, a Second spread over a winter camp to keep the snow off. The clock runs the same.
-- **On the stack** a release counts toward the cap of two Grades over what the Crystal holds safely, and a Third already stands at it for its one effect, so nothing more stacks there. Only outside help goes past the cap, and a blessing may count as outside help, a point Measurewrights have settled several times.
+- **On the stack** a release counts toward the cap of two Grades over the sustainable Grade on the card, and a Third already stands at it for its one effect, so nothing more stacks there. Only outside help goes past the cap, and a blessing counts as outside help, a point Measurewrights have settled several times.
 
 ## How it is beaten
 
@@ -102,14 +102,16 @@ This is how a lower-Stage fighter beats a higher one across one Stage: survive t
 
 > **SMELTER'S YARD** *(Second Release)*. She says "Smelter's Yard" and the heat leaves her skin and fills the ground around her, about the size of a courtyard: the air goes forge-hot and dry, the light turns orange, and everyone inside feels the color change as a pressure behind the eyes. The bellows sound becomes a low, steady roar for as long as it holds. This is her Domain seed, and inside it her heat workings strike one full Grade higher. From a full reserve it holds about three minutes, and it collapses at once if her attention breaks; afterwards her Crystal runs Overgrown until she sleeps, and heat leaks off her with her temper. Released silently, the yard forms without its first roar and her workings strike at the top of their own Grade inside it, not one higher. The counter is to break her focus with a wound, a shout or a name that matters, to step out past the edge of the yard, to contest its ground with a stronger Dominion, and to strike while her spilling Crystal is easy to read.
 
-On a dockside job Corra meets a Stage VII Fulguria (lightning) duelist who opens his own field, a ring of arc-blue that makes every hair in the yard stand up. She answers with Smelter's Yard, and the two fields meet in a seam across the cobbles where orange light and blue light grind against each other. His Dominion is higher, and the seam starts walking toward her. Then she reads him: his field is centered on his left hand, which never moves from his belt. She throws the hammer at it. He flinches to guard the hand, his attention breaks, his field goes out like a doused lamp, and the orange floods the yard to the water's edge. Only she can see the rest of it:
+On a dockside job Corra meets a Stage VII Fulguria (lightning) duelist who opens his own field, a ring of arc-blue that makes every hair in the yard stand up. She answers with Smelter's Yard, and the two fields meet in a seam across the cobbles where orange light and blue light grind against each other. His Dominion is higher, and the seam starts walking toward her. Then she reads him: his field is centered on his left hand, which never moves from his belt. She throws the hammer at it. He flinches to guard the hand, his attention breaks, and his field goes out like a doused lamp, with the slap of hot air and flying cobbles that every collapse pays, a Resonance Shockwave of the small kind, which puts him on his back. The orange floods the yard to the water's edge. Only she can see the rest of it:
 
 ```
 [SECOND RELEASE: SMELTER'S YARD]
 [Heat workings: one Grade up]
 [Field: holding · his has collapsed]
-[Time: ██████░░░░ two minutes left]
+[Time: ████░░░░░░ about a minute left]
 [Reserve: 47%]
 ```
 
 She is going to need her hammer back.
+
+*Read next: [[The Magic System/The Soul and the Climb/Domains|Domains]], for what the Second Release opens, and [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], for what it adds to everything else.*

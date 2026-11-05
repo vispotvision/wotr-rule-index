@@ -36,7 +36,8 @@ They buried Hana Sekiguchi at forty-one with the hands of a grandmother, and fou
 | **Family** | Cross-Family. Vitalia primary, Fluxia secondary, **all eight Families accessed through triaxial resonance during activation** |
 | **Affinity** | Unitary. **Not a single Affinity: the alignment of every Affinity the practitioner has harmonized** |
 | **Method** | Harmonia, with Corporis integration (the body is restructured by the alignment) |
-| **Physics Domain** | Coherent phase-locking of coupled oscillators. Constructive interference across three resonant systems |
+| **Physics Domain** | Biochemistry primary, Fluid Dynamics secondary |
+| **Phenomenon** | Coherent phase-locking of coupled oscillators. Constructive interference across three resonant systems |
 | **Prerequisites** | Harmonization across a minimum of three Families. Crystal in **Refined** state. Emotional, physical and cognitive equilibrium sufficient to initiate phase-lock |
 
 > **Rarity: extreme.** The prerequisites are individually common but conjunctively demanding. Most who meet the harmonization requirement lack the equilibrium. Most who possess the equilibrium lack the breadth.
@@ -61,9 +62,9 @@ Identical frequency, identical phase, identical priority. The output is no longe
 | Wellspring | Function |
 |---|---|
 | **Coagula** *The Unifying Pulse, Materia · Primary* | Unity drawn from dissolution. **The alignment mechanism.** Treats the three layers as fragments that were always meant to be one thing, and pulls them toward phase-lock the way gravity pulls mass toward center. **With it, synchronization becomes a gravitational tendency rather than an act of will** *Strengthens Resilience Integrity, Tempering Coherence* |
-| **Anima Spirare** *The Soul's Breath, Vitalia · Secondary* | **The vitality engine that sustains the lock.** Triaxial alignment is metabolically expensive: body, spirit and relational architecture all running at maximum coherence at once. The cooperative curve steepens delivery to match demand, **keeping fuel ahead of burn for as long as reserves hold** *Strengthens Vitality Hemostasis, Regeneration, Harmonics Confluence* |
+| **Anima Spirare** *The Soul's Breath, Vitalia · Secondary* | **The vitality engine that sustains the lock.** Triaxial alignment is metabolically expensive: body, spirit and relational architecture all running at maximum coherence at once. The cooperative curve steepens delivery to match demand, **keeping fuel ahead of burn for as long as reserves hold** *Strengthens Vitality Hemostasis, Regeneration, Harmonics Synergy* |
 | **Oblation** *The Offering Flame, Fluxia · Tertiary* | **The cost mechanism.** Willingness to pay soul-cost, measured as actual vital expenditure, not EU, translates directly into duration and intensity. Bernoulli's principle: what is surrendered in one term appears in another, **and the sacrifice adds nothing to the total. Lifespan given up buys no new power: it is traded, at an exact rate** *Strengthens Harmonics Axis, Dominion Command, Tempering Yield* |
-| **Mirithane** *The Wellspring of Reflection, Limina · Support* | **The equilibrium diagnostic that permits activation.** Any self-deception, any gap between who the practitioner is and who their Shell is expressing, prevents synchronization. Mirithane closes the gap by making the mirror accurate, **which is why Moetana requires not calm, not serenity, but honesty** *Strengthens Harmonics Fidelity, Tempering Coherence* |
+| **Mirithane** *The Wellspring of Reflection, Limina · Support* | **The equilibrium diagnostic that permits activation.** Any self-deception, any gap between who the practitioner is and who their Shell is expressing, prevents synchronization. Mirithane closes the gap by making the mirror accurate, **which is why Moetana requires not calm, not serenity, but honesty** *Strengthens Harmonics Attunement, Tempering Coherence* |
 
 ---
 

@@ -2,7 +2,7 @@
 title: Reinforcement
 ---
 
-*How a practitioner's body holds its power, and how they push it further. For the whole system in brief, see How Magic Works.*
+*How a practitioner's body holds its power, and how they push it further. For the whole system in brief, see [[The Magic System/First Steps/How Magic Works|How Magic Works]].*
 
 > *"Gather it where the blow is. Then pray there was only the one."* Copybook line, set for novices in most lineage halls and ignored by all of them.
 
@@ -24,7 +24,7 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 ## How it looks
 
-**A coat of their own aura.** Reinforcement shows as a skin of the practitioner's own color: their Family's hue (the branch of physics their power works, each with its color) at the clarity of their Stage (their step on the soul's sixteen-step ladder): dark low down, brighter as they climb. A Caloria (heat) fighter's coat shimmers ember-orange; a Fulguria (lightning) fighter's crackles arc-blue along the forearms; a Vectoria (force) fighter's shows as nothing but a weight the dust leans toward. It is thickest where they push. The Family sets that base color, a Wellspring (the governing idea that transforms how a soul uses Aether) adds texture and sound, and an Aether Class (the named class the soul is offered at thresholds) or a big Trait adds a shape, so that two Caloria fighters may share a color and nothing else: one coat crawling like coals, the other standing off the shoulders like a mantle.
+**A coat of their own aura.** Reinforcement shows as a skin of the practitioner's own color: their Family's hue (the branch of physics their power works, each with its color) at the clarity of their Stage (their step on the soul's sixteen-step ladder): clouded and smoky low down, clearing as they climb. A Caloria (heat) fighter's coat shimmers ember-orange; a Fulguria (lightning) fighter's crackles arc-blue along the forearms; a Vectoria (force) fighter's shows as nothing but a weight the dust leans toward. It is thickest where they push. The Family sets that base color, a Wellspring (the governing idea that transforms how a soul uses Aether) adds texture and sound, and an Aether Class (the named class the soul is offered at thresholds) or a big Trait adds a shape, so that two Caloria fighters may share a color and nothing else: one coat crawling like coals, the other standing off the shoulders like a mantle.
 
 **The body under it.** Veins stand up, skin tightens and takes a sheen, the stance settles lower, and the breath deepens. Heat comes off a hard-pushed coat in waves.
 
@@ -39,7 +39,7 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 ## What it costs
 
 - **Reserve, by the second.** A card writes it as time from full: how long the coat holds, started on a full reserve, before the reserve reaches its tenth. A spread coat runs about ten minutes for an Adept, longer as their efficiency climbs; a focused coat runs about half that. The practitioner's own window (the soul reporting its numbers to its owner, unseen by anyone else) shows the running figure as a percentage and a bar, and nobody else in the fight gets to see it.
-- **A layer on the stack.** A focused coat's one-Grade lift is a power-up like any other and counts toward the cap (no more than two Grades over what the Crystal can hold safely) and toward the fracture risk that comes with stacking (see Stacking and Spending). A spread coat lifts only within its Grade and adds no risk.
+- **A layer on the stack.** A focused coat's one-Grade lift is a power-up like any other and counts toward the cap (no more than two Grades over the sustainable Grade on their registered card) and toward the fracture risk that comes with stacking (see [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]). A spread coat lifts only within its Grade and adds no risk.
 - **Starvation.** Below a tenth of reserve the active coat fails outright and the passive base itself sags: the body reads weaker than its sheet, worse the deeper the reserve goes, and Traits (the soul's standing laws) begin to flicker.
 - **Rebuilding.** A coat dropped by surprise comes back in one beat once the practitioner knows what is happening. One beat is a long time with a knife already in.
 
@@ -54,13 +54,15 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 ## Example
 
-**Mags Tolley**, a Stage V hired hunter with Fulguria Essence, sleeps at a waystation with her boots on. A thief with a knife comes through the shutter. She is asleep, so she has only her passive base, but her Durability is B-Grade and the blade skids off her collarbone and opens a shallow line instead of a deep one. She wakes, and in one beat the coat comes up arc-blue over her forearms, hissing like a wet wick.
+**Mags Tolley**, a Stage V hired hunter with Fulguria Essence, sleeps at a waystation with her boots on. A thief with a knife comes through the shutter. She is asleep, so she has only her passive base, but her Durability is B-Grade and the blade skids off her collarbone and opens a shallow line instead of a deep one. She wakes, and in one beat the coat comes up a smoky arc-blue over her forearms, hissing like a wet wick.
 
 The thief has a partner at the door, Stage V like her and swinging a coated maul. Mags gathers the coat into her left forearm and takes the maul there: the arm is lifted a full Grade and the iron rings off it. But the blue has drained from her right side to bare skin, the partner sees it, and his second swing goes for her right ribs. She turns her hip, eats half of it at base, and feels a rib go. Her window reports it the moment after, in the tongue she grew up with:
 
 ```
-[Damage: right ribs, one cracked]
+[Hit: right ribs, one cracked]
 [Reserve: 81% ▓▓▓▓▓▓▓▓░░]
 ```
 
-From here she has perhaps five minutes of focused coat from what is left in her, and she knows it.
+From here she has a little under four minutes of focused coat from what is left in her, and she knows it.
+
+*Read next: [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]].*

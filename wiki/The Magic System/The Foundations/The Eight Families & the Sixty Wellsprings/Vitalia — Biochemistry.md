@@ -12,9 +12,9 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Vitalia finds itself by accumulation, one good day on top of another. One of these eight brings that forward: a little at first, and after years of mastery up to double, so that the same Regeneration at the same Grade closes a wound with twice the body's own memory of being whole. Another Typology can take them too, at a higher Essence cost and with a rougher result, and every barber on Mill Gate has a scar to show you the difference. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
-**Stat Affinity** · *Vitality (Hemostasis, Regeneration) · Harmonics (Confluence, Synergy, Empathy, Axis, Memory) · Resilience (Oath, Persistence, Scarring, Coherence) · Tempering (Yield, Processing, Acceleration, Maturity)*
+**Stat Affinity** · *Vitality (Hemostasis, Regeneration) · Harmonics (Synergy, Empathy, Axis, Attunement) · Resilience (Oath, Persistence, Integrity, Anchoring) · Tempering (Yield, Maturity)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -22,7 +22,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · The breath of the whole. A body that remembers being whole and answers a small hurt with everything it has.
 
-**Spirit** · Temperance through remembering wholeness: wounds close because the body remembers being whole. *(the confessors' reading)*
+**Spirit** · Temperance through vitality. *The confessors' reading:* remembering wholeness, wounds closing because the body remembers being whole.
 
 **Alchemy** · The quickening: the steady blood-warmth of the Bed, in which a charge stays alive. *(the trade's reading)*
 
@@ -32,7 +32,9 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Mechanism** · Hemostasis is an amplifying cascade and never one event, in which each activated factor activates many of the next, so a small injury signal produces a large and precisely localized response. Layered under it, hemoglobin's cooperative binding means the fourth oxygen loads far more readily than the first. Anima Spirare imposes both patterns: amplification where it is needed, and a delivery curve that steepens with demand.
 
-**Stat Effect** · Strengthens Vitality Hemostasis, Regeneration, Harmonics Confluence. The body pulses with living rhythm. Wounds close because the body remembers being whole.
+**Stat Effect** · Strengthens Vitality Hemostasis, Regeneration, Harmonics Synergy. The body pulses with living rhythm. Wounds close because the body remembers being whole.
+
+**Glyph** · `[Leth]` Blood, `[Dr]` Vitality, `[Bst]` Beast; attested on two more.
 
 **Failure** · Disseminated activation. A cascade with no localizing signal runs everywhere at once, consuming its own factors until nothing is left to close the wound that started it.
 
@@ -40,7 +42,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · Growth without end. A self with no final size, which feeds on simply being out in the world.
 
-**Spirit** · Temperance through growth. *(the confessors' reading)*
+**Spirit** · Temperance through growth.
 
 **Alchemy** · The Feeding: growth given a little at a time and never all at once. *(the trade's reading)*
 
@@ -52,13 +54,15 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Stat Effect** · Strengthens Vitality Regeneration, Tempering Yield, Harmonics Synergy. Passive Essence recovery accelerates. The character heals by growing rather than repairing.
 
+**Glyph** · `[El]` Life, `[Eld]` Elderwood, `[WL]` Wildlaw, `[Blm]` Bloom, `[Flo]` Bloom-Root; attested on seventeen more.
+
 **Failure** · Etiolation. Deprived of ambient input the growth continues anyway, producing length without substance until the structure cannot hold itself up.
 
 ## Benediction · *The Wellspring of Grace*
 
 **The idea** · Grace. A bond freely given, and weighed by the world as a real thing.
 
-**Spirit** · Temperance through grace, in which a bond becomes a thing the world can weigh. *(the confessors' reading)*
+**Spirit** · Temperance through compassion. *The confessors' reading:* grace, in which a bond becomes a thing the world can weigh.
 
 **Alchemy** · Affinity: why this salt takes to that metal and will not let go. *(the trade's reading)* Gold carries it.
 
@@ -70,13 +74,15 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Stat Effect** · Strengthens Harmonics Empathy, Axis, Resilience Oath. Bonds formed under Benediction carry mechanical weight in the system.
 
+**Glyph** · None primary. Attested on `[Dn]` Dawn, `[Blm]` Bloom, `[Blt]` Blight and `[Stg]` Stagnate.
+
 > **Failure** · Competitive inhibition. A rival ligand with higher affinity displaces the existing bond, and the displacement is silent, complete, and not felt until the bond is called on.
 
 ## Rebirthine · *The Cycle Eternal*
 
 **The idea** · The cycle. Loss taken as the first step of the next building, what is broken down paying for what comes up.
 
-**Spirit** · Temperance through loss, destruction treated as the first step of reconstruction. *(the confessors' reading)*
+**Spirit** · Temperance through renewal. *The confessors' reading:* loss, destruction treated as the first step of reconstruction.
 
 **Alchemy** · The law Fermentation draws on, from the Rot to the Feeding: breakdown pays for growth.
 
@@ -86,7 +92,9 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Mechanism** · Controlled cell death is a service to the organism and no failure of it, and autophagy digests the cell's own damaged components to fund the construction of new ones. Catabolism pays for anabolism. Rebirthine makes destruction the first operation of a build sequence rather than the interruption of one, which is why its practitioners treat losses as inventory.
 
-**Stat Effect** · Strengthens Resilience Persistence, Tempering Processing, Vitality Regeneration. The Crystal treats destruction as the first step of reconstruction.
+**Stat Effect** · Strengthens Resilience Persistence, Tempering Maturity, Vitality Regeneration. The Crystal treats destruction as the first step of reconstruction.
+
+**Glyph** · `[Vael]` Renewal, `[Yn]` Bloom, `[Cy]` Cycle; attested on six more.
 
 **Failure** · Autophagic collapse. With no external substrate the cycle consumes structure faster than it rebuilds, and it does not recognize the point at which there is nothing left to spend.
 
@@ -94,7 +102,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · The black gate. Ending looked at squarely and understood as a passage with its own law, by a soul that has stopped fearing it and has started, a little, to cool.
 
-**Spirit** · Dissolution, threshold, completion and the lawful withdrawal of presence. It governs passage and keeps nobody in storage.
+**Spirit** · Temperance through surrender. *The confessors' reading:* dissolution, threshold, completion and the lawful withdrawal of presence. It governs passage and keeps nobody in storage.
 
 **Alchemy** · The Blacking: the charge gone black in the Rot, at the point where a matter stops holding itself together. *(the trade's reading)*
 
@@ -106,13 +114,15 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Stat Effect** · Strengthens Resilience Persistence, Gnosis Cognition. The soul engages ending as a structural event rather than a catastrophe.
 
+**Glyph** · None primary. Attested on nine, among them `[Au]` Death, `[Ob]` Obol and `[SoulDr]` Soul-Drift.
+
 **Failure** · Equilibration. Sustained proximity to the boundary reduces the gradient the practitioner is themselves maintaining, and they cool toward it without noticing.
 
 ## Redemption · *The Light Reclaimed*
 
 **The idea** · The light reclaimed. The wound becomes the strongest place, and the whole self rearranges itself around what it really lived through.
 
-**Spirit** · Temperance through being reclaimed, the wound becoming the strongest place. *(the confessors' reading)*
+**Spirit** · Temperance through return. *The confessors' reading:* being reclaimed, the wound becoming the strongest place.
 
 **Alchemy** · The sound weld: metal densest at the old break. *(the trade's reading)*
 
@@ -122,7 +132,9 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Mechanism** · Healed bone is denser at the break than the bone around it, and a limb loaded repeatedly remodels its internal architecture to align with the load it actually receives. Redemption applies both to the Crystal: prior damage sites become the highest-density regions, and the whole structure reorganizes toward the stresses the practitioner has genuinely lived rather than the ones they expected.
 
-**Stat Effect** · Strengthens Tempering Acceleration, Resilience Scarring, Dominion Fate. Past trauma sites become the strongest points in the Crystal's architecture.
+**Stat Effect** · Strengthens Tempering Maturity, Resilience Integrity, Dominion Fate. Past trauma sites become the strongest points in the Crystal's architecture.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Stress shielding. Load bypasses the reinforced region entirely, and everything adjacent to the old wound quietly demineralizes for want of use.
 
@@ -130,7 +142,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · A failure owned. Only what you truly got wrong and truly survived turns into armor.
 
-**Spirit** · Temperance through a failure owned and survived. *(the confessors' reading)*
+**Spirit** · Temperance through acceptance. *The confessors' reading:* a failure owned and survived.
 
 **Alchemy** · The dose: a poison survived at its measure, and the body keeps the receipt. *(the trade's reading)*
 
@@ -140,7 +152,9 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Mechanism** · A pathogen survived once is answered faster and harder the second time because the response was recorded, and a sub-lethal dose of a stressor frequently leaves an organism measurably more capable than it was. Contrition converts failure into that record. The mechanism requires the failure to have been survived, and it requires it to have been genuine, because a rehearsed one produces no antibody.
 
-**Stat Effect** · Strengthens Tempering Maturity, Resilience Scarring. Past failures become structural reinforcement.
+**Stat Effect** · Strengthens Tempering Maturity, Resilience Integrity. Past failures become structural reinforcement.
+
+**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
 
 **Failure** · Autoimmunity. The record generalizes past its target and the practitioner begins answering their own tissue as though it were the original insult.
 
@@ -150,7 +164,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · Memory as deep water. What is lived sinks in, is built into you, and comes back long after the weather has changed.
 
-**Spirit** · Temperance through memory, what is lived built into the structure. *(the confessors' reading)*
+**Spirit** · Temperance through reflection. *The confessors' reading:* memory, what is lived built into the structure.
 
 **Alchemy** · The remembering menstruum: a solvent that keeps the trace of everything ever dissolved in it. *(the trade's reading)*
 
@@ -160,6 +174,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Mechanism** · Synaptic potentiation records experience by physically strengthening a connection that fired, while groundwater carries an isotopic signature of the rain that fell decades before it reached the well. Phreatis holds both: memory as reinforced structure, and memory as a slow reservoir that returns what entered it long after the weather has changed.
 
-**Stat Effect** · Strengthens Gnosis Retention, Harmonics Memory, Resilience Coherence. Memory becomes architecturally reinforced. Identical effect in either Family context.
+**Stat Effect** · Strengthens Gnosis Retention, Harmonics Attunement, Resilience Anchoring. Memory becomes architecturally reinforced. Identical effect in either Family context.
+
+**Glyph** · `[Ap]` Aperture; attested on two more.
 
 **Failure** · Contamination of the aquifer. What enters the reservoir cannot be selectively removed later, and a falsified memory recharges as readily as a true one.

@@ -48,7 +48,7 @@ The base unit of both length and weight is **the grain**, a single counted seed 
 | **furrow** | 40 rods | what a team plows before it turns |
 | **walk** | 8 furrows | an hour's walking on level road, which is why distance and time are the same word in most of the four quarters |
 
-**The Accord wanted fourteen and did not get it.** Fourteen is the doctrinally correct number and the chancery proposed it in the second revision: fourteen thumbs to the span, on the reasoning that the day divides by fourteen and so should everything else. Every trade in the four quarters refused, in unison, for a reason that has nothing to do with theology. **You cannot halve fourteen twice.** A carpenter needs the half, the quarter and the eighth, and twelve gives him all three, and fourteen gives him one and then a fraction he has to think about.
+**The Accord wanted fourteen and did not get it.** Fourteen is the doctrinally correct number and the chancery proposed it in the second revision: fourteen thumbs to the span, on the reasoning that the Bow counts fourteen and so should everything else. Every trade in the four quarters refused, in unison, for a reason that has nothing to do with theology. **You cannot halve fourteen twice.** A carpenter needs the half, the quarter and the eighth, and twelve gives him all three, and fourteen gives him one and then a fraction he has to think about.
 
 The Sohai retains a fourteen-count for rite measurement only. It is the one place the Accord's number lost to a carpenter's, and the chancery has never referred to the episode again.
 
@@ -121,7 +121,7 @@ The **standard ferrule** is a bronze ring of fixed bore, glyph-cut and set into 
 
 **Consequences, all of them mundane and all of them useful.**
 
-A Core on falling density bills the same for less, because the book counts time and bore rather than delivery, and the lamp-wardens who top up there pass the loss on to every street they keep, and this is the single largest source of Withering-era grievance that no minstrel has made a song about. A sitter who widens a ferrule is stealing and can be caught by a searcher with a rule. The tundish, a small brass funnel of a fitting set on the ring so that the color of what passes can be seen from the door, exists so that the widening cannot be hidden. And **the Guild bills in Guild hours**, which is the second reason the equal hour won: a draught measured in unequal stations would be worth more in summer.
+A Core on falling density bills the same for less, because the book counts time and bore rather than delivery, and the lamp-wardens who top up there pass the loss on to every street they keep, and this is the single largest source of Withering-era grievance that no minstrel has made a song about. A sitter who widens a ferrule is stealing and can be caught by a searcher with a rule. The tundish, a small brass funnel of a fitting set on the ring so that the color of what passes can be seen from the door, exists so that the widening cannot be hidden. And **the Guild bills in Guild hours**, which is the second reason the equal hour won: a draught measured by the light would be worth more in summer.
 
 ## VIII. Who Uses What
 

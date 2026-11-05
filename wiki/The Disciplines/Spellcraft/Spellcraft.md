@@ -10,7 +10,7 @@ title: The Spoken Arts
 
 Every art on this shelf is a technique, the same as those on [[The Disciplines/Techniques/Techniques|the other shelf]]: a named thing done with a skill, showing no level, taking a bigger name when it jumps. Chanting and the holding of a sentence in the throat are skills anyone can level by doing them, and the only people who ever claimed otherwise were guilds with a feud to feed.
 
-Most of these arts are spoken or held. Four live here by old filing and are worked otherwise: the God Fist and the Infinite First Blade are carried in the body, the Graven Absence is cut in stone, and the Black Vessel is a state of being.
+Most of these arts are spoken or held. Three live here by old filing and are worked otherwise: the Infinite First Blade is carried in the body, the Graven Absence is cut in stone, and the Black Vessel is a state of being. The God Fist was a fourth, and it has gone to the Named Arts.
 
 - [[The Disciplines/Spellcraft/Resonant Divination|The Ear of Fate]] (Resonant Divination)
 - [[The Disciplines/Spellcraft/Anima Harmonics|Every Soul a Bell]] (Anima Harmonics)

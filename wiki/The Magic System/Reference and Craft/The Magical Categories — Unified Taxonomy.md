@@ -1,5 +1,5 @@
 ---
-title: The Magical Categories — Unified Taxonom
+title: The Magical Categories — Unified Taxonomy
 tags:
   - Magic System
   - Reference Table
@@ -25,7 +25,7 @@ Every category carries an alignment tag: **Body**, **Spirit**, **Attraction**, *
 - **Attraction-Aligned** leans on the **Plane of Fate** (the control of Attraction Force and Obsession Force and the workings of reality itself, where probabilities are moved and the fates of spirits and of things are held) and **Resonance**. Essence as reach, recognition, binding.
 - **Triadic** categories don't lean. They're what happens when all three Disciplines, anchored by **Equilibrium**, operate as one movement, the practice-form of **Formation**.
 - **Combination** tags mark categories operating at the seam between two Planes, neither fully arrived nor fully departed.
-A practitioner's primary Path (which of four Planes a soul's growth leans toward) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
+A practitioner's primary Path (which of the four Paths a soul's growth leans along) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
 
 ---
 
@@ -123,7 +123,7 @@ The Parun-based language of law, the syntax by which the Continuum (the whole la
 
 Spirit-aligned because it's the Essence Core's intention made *legible*. A practitioner with sloppy internalized chains still casts, and what comes out is slightly different from what was intended: a quiet, accumulating error.
 
-Every cut or prepared sentence files here. A rune goes on working in its material after the cutter has gone home, and a tag is prepared ahead, fueled per tag and fired only by a practitioner; both are worked through the Method Scriptia, and both are skills anyone can level.
+Every cut or prepared sentence files here. A rune goes on working in its material after the cutter has gone home, and a tag is prepared ahead, fueled per tag and fired only by a practitioner; both are worked through the Method Scriptia, and both are skills anyone with a woken Crystal can level.
 
 **Examples:** Wordform Chains · runes and cut wards · tags · Parunic Script Weaving
 
@@ -161,7 +161,7 @@ A Path is the road. The **Aether Class** a soul is offered at its thresholds is 
 
 Standing laws carried in the soul's own material and expressed through the Crystal once there is a Crystal to express them: Primary, Secondary, Inherited, Passive and Compound Reflections.
 
-**Traits are not encoded by Temperance.** They are woven into a soul's original Essence, they run in Class Ø bearers whose Crystal will never open, and awakening arms what was already there rather than granting anything new. What Temperance does is the reverse of encoding. **At a Threshold the Crystal melts, and Traits are the only structures that survive the heat, because a law the Continuum has accepted as reliable does not stop being reliable at temperature.** The new lattice cools around them. This is why Traitus governs advancement rather than merely decorating it.
+**Traits are not encoded by Temperance.** Primary and Inherited Traits are woven into a soul's original Essence, the rest are forged by what the soul lives through, they run in Class Ø bearers whose Crystal will never open, and awakening arms what was already there rather than granting anything new. What Temperance does is the reverse of encoding. **At a Threshold the Crystal melts, and Traits are the only structures that survive the heat, because a law the Continuum has accepted as reliable does not stop being reliable at temperature.** The new lattice cools around them. This is why Traitus governs advancement rather than merely decorating it.
 
 Classed Body-aligned because a Trait's most legible expression is almost always physical, and the expression is literal rather than figurative. A Trait biases the Aether Shell's conductivity permanently, and because the Shell is the Material-Plane layer the bias is laid down in tissue: mineral into bone, altered myelination, rebuilt vasculature, a resting core temperature off the population mean. **A body is a Trait record and a corpse is a better one.** So the Tempering that melts the Soul Crystal down and rebuilds each layer also leaves the body with its Traits written into it.
 
@@ -187,7 +187,7 @@ Tagged Attraction-**corrupted** deliberately. Every other category involves reco
 
 **Body ↔ Spirit**
 
-The engineering, forging, and refinement of Soul Crystals and related lattices, underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment, and the Coherence Ladder. The practiced discipline behind the **Crystalia Constraint**: harmonization with three relevant Wellsprings, certified understanding of the subject's Essence Typology (a Crystal's natural bias toward one phenomenon), sufficient Temperance to survive exposure to another soul's Essence Core.
+The engineering, forging, and refinement of Soul Crystals and related lattices, underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment, and the Coherence Ladder. The practiced discipline behind the **Crystalia Constraint**: harmonization with three relevant Wellsprings, certified understanding of the subject's Essence Typology (a Crystal's natural bias toward one of the eight Families), sufficient Temperance to survive exposure to another soul's Essence Core.
 
 Sits between Body and Spirit because its *object* is the Essence Core but its *method* is physical: forging and tempering done with hands and instruments on a lattice that happens to also be a soul.
 
@@ -365,9 +365,9 @@ Spirit-aligned because what is being altered is the Essence Core's posture rathe
 
 **The Vow Clause, stated mechanically.** A vow declares a permanent restriction and the Core adopts it as a standing law. **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior**, and it is the structural prerequisite for Threshold eligibility. A vow kept is therefore a direct purchase of Coherence by conduct rather than by expenditure, which is why vows are common in every hall and camp, and commonest in the populations that cannot buy Drafts: soldiers, hedge-workers, the orders, the poor.
 > *It is the cheapest advancement mechanism in the world and it is priced in the rest of your life.*
-**A vow broken is a Shear Break.** The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. This is why the orders treat a lapsed vow as a medical emergency rather than a disciplinary one, and why the disciplinary response follows only if the practitioner survives.
+**A broken vow lands at once by its own terms, and repeated denial of the truth behind it makes a Shear Break.** The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. This is why the orders treat a lapsed vow as a medical emergency rather than a disciplinary one, and why the disciplinary response follows only if the practitioner survives.
 
-A vow is small Fate, a person binding their own probability, and anyone can make one. Spoken, it shows in the bearer's window with the bargain and its terms.
+A vow is small Fate, a person binding their own probability, and anyone can make one. Spoken, it shows in the bearer's window with the bargain and its terms, and what it buys counts toward the two-Grade cap like any other boost of one's own. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]].
 
 **Examples:** Gisei · Sacrament and Oblation · Disclosure practices · the Vow Clause
 
@@ -379,9 +379,9 @@ A vow is small Fate, a person binding their own probability, and anyone can make
 
 | The thing | Where it files | Why |
 |---|---|---|
-| **A chant** | Harmonia, or Glyphica when the words carry it | A sentence in the air. A skill anyone can level |
-| **A rune, a cut ward** | Glyphica, by the Method Scriptia | A sentence in material, working on after the cutter leaves. A skill anyone can level |
-| **A tag** | Glyphica, by the Method Scriptia | A sentence prepared ahead, fueled per tag, fired only by a practitioner. A skill anyone can level |
+| **A chant** | Harmonia, or Glyphica when the words carry it | A sentence in the air. A skill anyone with a woken Crystal can level |
+| **A rune, a cut ward** | Glyphica, by the Method Scriptia | A sentence in material, working on after the cutter leaves. A skill anyone with a woken Crystal can level |
+| **A tag** | Glyphica, by the Method Scriptia | A sentence prepared ahead, fueled per tag, fired only by a practitioner. A skill anyone with a woken Crystal can level |
 | **A Draft** | Drafts | A working stabilized into a substance. A skill anyone can level |
 | **A petty working** (the noodle seller's knife, the lamp-warden's round) | By what it does, usually Arts or Glyphica | A trade done with the hands for pay, so it costs money and someone can refuse |
 | **A skill** | Under no heading | A thing a person can do, rising with use and shown as a Grade on the sheet. Skills belong to people and these headings sort workings |

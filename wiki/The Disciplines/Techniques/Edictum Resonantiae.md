@@ -46,7 +46,7 @@ The Accord's jurists read an Edict as a performative that simply voids when brok
 
 **Category** · Domain Weaving: the speaker's Attraction Layer imposed over bounded ground, rewriting how one named class of action resolves inside it.
 
-**Craft** · Spellcraft, spoken, reinforced by a strike of the Aether Chord Staff into the ground.
+**Skill** · Speaking, said aloud, reinforced by a strike of the Aether Chord Staff into the ground.
 
 **Stage floor** · Transcendence
 

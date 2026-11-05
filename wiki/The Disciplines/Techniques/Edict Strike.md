@@ -22,7 +22,7 @@ PRICE THE DOUBT! The three-second windup reads you in lines of your own spectrum
 
 This is impulse transfer with borrowed effective mass. The blade carries more weight than it has, and the extra is priced by a spectroscopic read of the target's hesitation, a ratio with no units that can multiply a mass. F = dp/dt governs the blow and Beer–Lambert, A = ε·c·l, governs the read, whose dimensionless absorbance runs from 1 against no doubt to 2 against full hesitation. A read needs integration time, so the windup is slow. No edge carries the force either, so it lands across the whole struck body as one dull shock with no cut in it. Through a sword edge, 0.5 TN would be 5 × 10¹⁸ Pa, far past diamond; the force travels through the gathered weight, and the narrow end of the path is his wrists and shoulders.
 
-The glyphs are Measure across Edge: the working is a measurement, and the strike is the measurement made heavy. The boundary is the effective mass coupled into a falling blade, set equal to a read of the target. About three seconds after commitment it comes straight down with a verdict-like impact, armor below B-Grade buckles, and the target cannot tell whether they took a single or a doubled blow. Doubling for the same cost is an effective η above 1.0, and the surplus is pulled from the room, so a doubled strike sheds less and leaves the ground around the target briefly thinner. It is declared Spellcraft, *Ars Vocis* (the voiced art), commanded aloud, with no material anchor at Transcendence.
+The glyphs are Measure across Edge: the working is a measurement, and the strike is the measurement made heavy. The boundary is the effective mass coupled into a falling blade, set equal to a read of the target. About three seconds after commitment it comes straight down with a verdict-like impact, armor below B-Grade buckles, and the target cannot tell whether they took a single or a doubled blow. Doubling for the same cost is an effective η above 1.0, and the surplus is pulled from the room, so a doubled strike sheds less and leaves the ground around the target briefly thinner. It is declared speaking, *Ars Vocis* (the voiced art), commanded aloud, with no material anchor at Transcendence.
 
 The pull is small, melee, one target. Fulguria wants dry air and clear sight; Materia wants worked stone and deep foundation. Ferrous plate partly cages the target against the read. Residue minimal. Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, so a target performing confidence still shows their own lines and the strike cannot be bluffed; it gives Gnosis Acuity and Analysis. Coagula, the Unifying Pulse (Materia), gathers the read into the blade as mass and gives Resilience Integrity and Tempering Coherence, while Ardency Flux carries the delivery. Judicium's spectral overload floods him with every composition in view, which is why the windup is slow. Coagula's residual porosity leaves voids in the weight, so a partly hesitant target gets less than a proportional share of the doubling.
 
@@ -40,7 +40,7 @@ The Essence Core does the read and the Aether Shell the delivery, and each full 
 - **Family** · Fulguria (Judicium); Materia (Coagula)
 - **Physics Domain** · Electromagnetism (Fulguria); Material Science (Materia)
 - **Category** · Vectra
-- **Craft** · Spellcraft (*Ars Vocis*; declared)
+- **Skill** · Speaking (*Ars Vocis*; declared)
 - **Stage floor** · Stage VIII, Transcendence
 - **Grade required** · S-Grade
 - **Path gate** · Body

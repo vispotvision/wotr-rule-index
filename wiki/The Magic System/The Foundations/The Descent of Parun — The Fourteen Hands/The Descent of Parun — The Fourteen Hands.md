@@ -57,7 +57,7 @@ A glyph creates nothing. **The law of the Wellspring (one of the sixty governing
 >
 > *A written Gravetongue phrase produces nothing because the writing was never where the boundary lived. The Crimson Order's pulse-code works for the same reason: they kept the resonance and discarded the part that was never load-bearing.*
 
-**Cutting a rune is a skill and a trade, and anyone can level it.** It rises with use and shows as a Grade on the sheet, one line for each hand the cutter has really worked, and a guild's title says how far she has gone in it and how large a job a stranger may trust her with. The Temple of Inscription and the Accord's scribes have been telling each other for centuries that the other side does not count, and that is the whole of the rank in it.
+**Cutting a rune is a skill and a trade, and anyone with a woken Crystal can level it.** It rises with use and shows as a Grade on the sheet, one line for each hand the cutter has really worked, and a guild's title says how far she has gone in it and how large a job a stranger may trust her with. The Temple of Inscription and the Accord's scribes have been telling each other for centuries that the other side does not count, and that is the whole of the rank in it.
 
 ---
 
@@ -244,6 +244,6 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 ---
 
 > **Load-bearing cross-reference.** The Long Reading holds that the Moto ancestral seat's own name is recorded **in a glyph the Continuum cannot classify, one of the thirty unclassified forms in the Master Glyph Index.** *It is the oldest proper noun in the record and it is deliberately blank.*
-- [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun]]
+**Read next:** [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun|The Counted Speech]], why almost nobody says it aloud. This page sits on the shelf called [[The Magic System/The Foundations/The Foundations|The Foundations]].
 
 ---

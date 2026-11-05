@@ -42,7 +42,7 @@ The theory is the Debt Position: borrowed authority settled in Crystal mass that
 - **Family** · Caloria (Exuroth, Catharsis); Fulguria (Judicium)
 - **Physics Domain** · Thermodynamics, primary; Electromagnetism, secondary
 - **Category** · Phenomena (Attraction-Dominant), a large-scale event where Aether law itself bends under overload, matching "local physics obey rewritten equations" and the self-sustaining 45-second duration once triggered
-- **Craft** · Spellcraft
+- **Skill** · Speaking, internalized, with no anchor and no outward component, and fixed at forty-five seconds
 - **Stage floor** · Stage XIV, Zenith
 - **Grade required** · EX-Grade
 - **Path gate** · Spirit Path

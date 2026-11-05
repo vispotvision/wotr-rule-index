@@ -16,9 +16,9 @@ Mark what the creature did. It listened, learned the tune and kept it. A Spirit 
 
 > *Elessae*, the Moon's First Hoof, in High Parunic. *Thal'wyn*, Horned Dawn, in Old Sylvaar.
 
-**Spirit Beast · T4, High Threat · Harmonic Wellsprings, with minor Dream-aspected affinity via Nysera · native to Edenis**
+**Spirit Beast · T4, High Threat · Vitalia, Benediction, with a minor Somnalis affinity via Nysera · native to Edenis**
 
-Spirit-born from Harmonic Wellspring resonance during the Harmonial Age. **Said to be the first beings Florwyn dreamed into being when she envisioned peace between mortal and spirit realms.** Rare herds persist in secluded Material World forests where Harmonic Wellspring sites surface.
+Spirit-born from Benediction's resonance during the Harmonial Age. **Said to be the first beings Florwyn dreamed into being when she envisioned peace between mortal and spirit realms.** Rare herds persist in secluded Material World forests where Benediction sites surface.
 
 Equine and slender. Coats shimmer under moonlight in pure white, silver, pale gold or rare midnight blue. **Horns long and spiraled, glowing when they channel.** Eyes luminescent gold or pale blue; elders bear star-flecked irises. *Their manes move as though in a breeze that is not there.*
 
@@ -38,9 +38,9 @@ They travel in loose herds of four to six under an elder mare called a **Moonkee
 
 > *Gryphael*, Sky-Claw, in High Parunic. *Talaruk*, Lion of the Wind, in Old Iampu.
 
-**Spirit Beast · T5, Extreme Threat · Air-elemental Wellsprings, secondary Harmonic resonance when bonded · native to Draconis and Caelum**
+**Spirit Beast · T5, Extreme Threat · Fulguria, Cymorath, secondary Transference resonance when bonded · native to Draconis and Caelum**
 
-Shaped in the early Harmonial Age where Harmonic and Air-aspected Aethers intertwined. **Many hold that Omnis himself molded the first griffons as aerial guardians of the floating citadels.**
+Shaped in the early Harmonial Age where Transference and Cymorath Aethers intertwined. **Many hold that Omnis himself molded the first griffons as aerial guardians of the floating citadels.**
 
 Forequarters of a great eagle fused seamlessly into the hindquarters of a lion. **Plumage reflects Wellspring alignment**: white and silver for skybound flocks, bronze and gold for sun-favored lineages, storm-gray for tempest dwellers. *Talons strong enough to pierce tempered steel.*
 
@@ -58,9 +58,9 @@ At the **Battle of Skychain Pass**, twelve storm griffons routed a Crevice-born 
 
 > *Voh'thir*, Storm's Howl, in Old Sylvaar. **The Thunder Beast** in Material World folklore.
 
-**Spirit Beast, Elemental Predator · T5, Extreme Threat · Air and Storm-aspected Harmonic Wellsprings with a minor Electric strain · Draconis and Caelum peaks**
+**Spirit Beast, Elemental Predator · T5, Extreme Threat · Fulguria, Cymorath, with a minor Orrenthal strain · Draconis and Caelum peaks**
 
-Born from the fusion of Harmonic and Air-elemental Aethers. **Legend says they were first formed by Nysera's breath during a cataclysmic lightning storm that tore through the ancient forests of Edenis.**
+Born from the fusion of Cymorath and Orrenthal Aethers. **Legend says they were first formed by Nysera's breath during a cataclysmic lightning storm that tore through the ancient forests of Edenis.**
 
 A lithe quadruped between wolf and great cat, cloaked in crackling blue-white fur that arcs with static. **Eyes glow bright violet.** Long whip-like tails and sharp talons ending in glowing tips.
 
@@ -78,9 +78,9 @@ During the **Storm of Wailing Peaks** a Raiju pack destroyed a Concord scouting 
 
 > *Skrial*, Storm Wing, in Old Parunic. *Tal'kira*, Screech of the Hunt, in Outer World dialect.
 
-**Spirit Beast, Aerial Predator · T4, High Threat · Air-elemental Wellsprings with Harmonic resonance sharpening sense and speed · Caelum and Draconis**
+**Spirit Beast, Aerial Predator · T4, High Threat · Fulguria, Cymorath, with Luminalis sharpening sense and speed · Caelum and Draconis**
 
-Spirit-born from the raw winds, shaped by the violent intersection of Air-elemental and Harmonic Aethers. **Long held as harbingers of storm and misfortune.**
+Spirit-born from the raw winds, shaped by the violent intersection of Cymorath and Luminalis Aethers. **Long held as harbingers of storm and misfortune.**
 
 Raptor and humanoid fused: feathered wings and arms, hooked beaks, **eyes glowing faintly with Wellspring energy.** Plumage from storm-gray to sunlit bronze, mottled with streaks of elemental energy crackling along the feathers.
 
@@ -100,9 +100,9 @@ The **Screeching of the Wind Pass** records a flock's ambush that cost several t
 
 > *M'thak*, Mindclaw, in Innerworld dialects. **The Thoughtshard Primates** among arcane scholars.
 
-**Spirit-Hybrid Beast, Psychic Primate · T4, High Threat · Harmonic and Dream-aspected Wellsprings · the Innerworld's central jungles**
+**Spirit-Hybrid Beast, Psychic Primate · T4, High Threat · Limina, Oneirion and Eidolyn · the Innerworld's central jungles**
 
-**Mortal-born primates whose Essence became deeply intertwined with Harmonic and Dream Aethers.** The fusion granted psychic capability, elevated intelligence, and subtle manipulation of nearby minds. They evolved where Wellspring Aether lies thick beneath the canopy.
+**Mortal-born primates whose Essence became deeply intertwined with Oneirion and Eidolyn Aethers.** The fusion granted psychic capability, elevated intelligence, and subtle manipulation of nearby minds. They evolved where Wellspring Aether lies thick beneath the canopy.
 
 Larger than typical apes, sleek dark fur with faint iridescent highlights. **Eyes glow soft violet or pale blue**, and subtle markings along their limbs **resemble glyphic tattoos.**
 
@@ -120,9 +120,9 @@ Vulnerable to Essence-dampening wards and counter-psychic magic. **Physically we
 
 > *Lioraen*, Forest Spirits, in the Sylvaar tongues. **Verdant Whisperers** among frontier woodfolk.
 
-**Spirit-Beast, Nature Guardian · T3, Moderate Threat · Harmonic and Ancestral Wellsprings infused with Verdant and Growth-aspected Essence · the deep forests of the Innerworld and Material World**
+**Spirit-Beast, Nature Guardian · T3, Moderate Threat · Vitalia, Verdantia, with Anamnesis in the oldest groves · the deep forests of the Innerworld and Material World**
 
-Spirits born from Harmonic Wellsprings intertwined with ancient forest Essence. **They embody the living soul of the oldest trees**, and their existence is tied to sacred groves: **their power ebbs and flows with the health of their forest.**
+Spirits born from Verdantia's Aether intertwined with ancient forest Essence. **They embody the living soul of the oldest trees**, and their existence is tied to sacred groves: **their power ebbs and flows with the health of their forest.**
 
 Slender humanoid figures with bark-like skin, leaf-green eyes, **hair resembling flowing vines.** Their limbs shift subtly between wood and flesh, and their movement echoes rustling leaves.
 
@@ -140,7 +140,7 @@ The **Siege of Elderbark Grove** records Dryads defending their sanctuary agains
 
 > *Zhal'rei*, the Enlightened One, in Old Parunic. **The Oracle Beast** among sages.
 
-**Spirit-Beast, Guardian of Knowledge · T4, High Threat · Harmonic and Dream Wellsprings, infused with Insight and Memory-aspected Essence · Innerworld sanctuaries**
+**Spirit-Beast, Guardian of Knowledge · T4, High Threat · Limina, Anamnesis and Oneirion, with Fulguria's Judicium for the clear reading · Innerworld sanctuaries**
 
 > Emerged during the Harmonial Age **as a guide for mortals**, gifted with profound wisdom and the perception of hidden truth. It roams sacred groves and ancient libraries, aiding seekers of knowledge **or guarding esoteric Wellspring sites.**
 >
@@ -160,9 +160,9 @@ Calm, enigmatic, benevolent. **A patient guardian, offering cryptic guidance and
 
 > *Liora*, Song Weaver, in Old Parunic. **The Sea's Temptress** among sailors.
 
-**Spirit-Beast, Enchanting Predator · T4, High Threat · Water and Dream Wellsprings with harmonic resonance amplifying the enchantment · coastal waters, mist-shrouded islands, underwater grottoes**
+**Spirit-Beast, Enchanting Predator · T4, High Threat · Fluxia, Somnalis and Thaloré, with Transference amplifying the enchantment · coastal waters, mist-shrouded islands, underwater grottoes**
 
-Ethereal beings born from the fusion of Water-elemental and Dream-aspected Aethers, embodying **the hypnotic power of the sea and the allure of dreams.** *Legend says they arise from the restless souls of lost sailors and oceanic spirits bound by ancient magic.*
+Ethereal beings born from the fusion of Thaloré and Somnalis Aethers, embodying **the hypnotic power of the sea and the allure of dreams.** *Legend says they arise from the restless souls of lost sailors and oceanic spirits bound by ancient magic.*
 
 Beautiful humanoid forms, hair shifting like seaweed, **skin shimmering with reflected moonlight.** Eyes glowing soft blue. Some display webbed fingers or scaled patches.
 
@@ -180,9 +180,9 @@ Vulnerable to sound-dampening wards and Essence disruptors, **markedly less effe
 
 > *Mokuri*, Trickster Spirit, in Old Parunic. **The Forest Jester** among frontier folk.
 
-**Spirit-Beast, Trickster Shapeshifter · T2, Minor Threat · Dream and Harmonic Wellsprings · dense forests, mystical groves, hidden Wellspring sites**
+**Spirit-Beast, Trickster Shapeshifter · T2, Minor Threat · Limina, Eidolyn and Oneirion · dense forests, mystical groves, hidden Wellspring sites**
 
-Born from the blend of Dream-aspected and Harmonic Aethers, embodying **playful cunning and shape-shifting magic.** Rooted in ancient forest lore, they delight in mischief, illusion, and testing the wits of travelers and sorcerers alike. **Their true forms are rare to witness, as they prefer ever-changing guises.**
+Born from the blend of Eidolyn and Oneirion Aethers, embodying **playful cunning and shape-shifting magic.** Rooted in ancient forest lore, they delight in mischief, illusion, and testing the wits of travelers and sorcerers alike. **Their true forms are rare to witness, as they prefer ever-changing guises.**
 
 Small, fox-like or raccoon-like, with large expressive eyes and bushy tails **often tipped in glowing essence light.** *Their forms shimmer and flicker, sometimes sporting additional tails or strange appendages that are not there.*
 
@@ -198,9 +198,9 @@ Vulnerable to Essence detection and truth-binding magic. **Their physical forms 
 
 > *Aeloria*, Sky Wanderer, in Old Parunic. **The Starhoof** among frontier riders.
 
-**Spirit-Beast, Celestial Mount · T4, High Threat · Harmonic and Celestial Wellsprings infused with Radiant Essence · high peaks, sacred groves, celestial realms**
+**Spirit-Beast, Celestial Mount · T4, High Threat · Fulguria, Aurevane, with Vitalia's Benediction · high peaks, sacred groves, celestial realms**
 
-Noble celestial horses born from the purest Harmonic and Celestial Aethers. **Legend places their emergence in the Harmonial Age as messengers and guardians of the divine realms**, embodying freedom, purity and swift flight.
+Noble celestial horses born from the purest Aurevane and Benediction Aethers. **Legend places their emergence in the Harmonial Age as messengers and guardians of the divine realms**, embodying freedom, purity and swift flight.
 
 Gleaming white coats, large feathered wings shimmering with radiant light, eyes glowing with serene wisdom. **Their hooves leave faint trails of stardust.**
 
@@ -218,9 +218,9 @@ Gleaming white coats, large feathered wings shimmering with radiant light, eyes 
 
 > *Ignara*, Flameborn, in Old Parunic. **The Eternal Ember** in the Innerworld.
 
-**Spirit-Beast, Elemental Flame · T7, Realm Hazard · Fire and Harmonic Wellsprings infused with Radiant and Renewal Essence · volcanic peaks, sacred flame groves, radiant Wellspring sites**
+**Spirit-Beast, Elemental Flame · T7, Realm Hazard · Caloria, Pyreveil, with Vitalia's Rebirthine · volcanic peaks, sacred flame groves, radiant Wellspring sites**
 
-Born from the purest Fire and Harmonic Aethers, **embodying cycles of destruction and renewal.** Said to arise from the ashes of its own death. **Revered as a divine omen and protector of sacred Wellspring sites.**
+Born from the purest Pyreveil and Rebirthine Aethers, **embodying cycles of destruction and renewal.** Said to arise from the ashes of its own death. **Revered as a divine omen and protector of sacred Wellspring sites.**
 
 A massive bird, plumage of blazing red, gold and orange, radiating light and warmth. **Eyes glowing with intense fire, feathers shimmering as if aflame.** Its flight leaves trails of embers.
 

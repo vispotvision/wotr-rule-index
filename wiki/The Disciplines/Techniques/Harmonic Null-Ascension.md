@@ -42,7 +42,7 @@ The Returning school reads silence as the soul's successful return to the One an
 - **Family** · Fulguria
 - **Physics Domain** · Electromagnetism
 - **Category** · Harmonia
-- **Craft** · Spellcraft
+- **Skill** · Speaking, gestured, with no anchor at Emanation and a held line to one target
 - **Stage floor** · XII, Emanation
 - **Grade required** · SSS-Grade
 - **Path gate** · Spirit Path

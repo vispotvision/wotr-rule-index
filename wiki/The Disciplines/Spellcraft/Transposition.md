@@ -84,7 +84,7 @@ The failure is false degeneracy: the ends were less alike than the tuning claime
 
 ### FOW line
 
-**Governing Primary** · Harmonics (Synergy, Projection), with Tempering (Conversion, Yield) secondary.
+**Governing Primary** · Harmonics (Synergy, Projection), with Tempering (Yield) secondary.
 
 **Stage floor** · Splintering for positional exchange; Refraction for identity trades.
 

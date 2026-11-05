@@ -100,7 +100,7 @@ Work delivered below the fee is the ordinary condition of poor districts, and it
 
 **Over a generation it goes like this.** For ten years, nothing anyone would swear to. Then an apprentice's ward cut over an old ward cut over an older one starts failing in two years instead of ten, so it is cut again, cheaper, on top. The lamps on the stair burn a shade off their keeper's color. Milk turns early, dogs will not settle, and the street's old people start saying the street has gone heavy. Thirty years on the grandchildren are waking at the wrong ages or not at all, one family on one staircase has something strange it passes down, and rent has fallen far enough that only the poorest come, who can only afford the cheapest work.
 
-**The documented effects** are unspectacular and cumulative: poor sleep, low-grade Gnosis (perception) noise in anyone sensitive, Crystal awakening (the soul's power-organ opening) at abnormal ages in children, and a Trait (a standing law carried in the soul) incidence in long-settled families that the companies have never commissioned a study of. **The Physicians' College has requested one four times.**
+**The documented effects** are unspectacular and cumulative: poor sleep, low-grade Gnosis (perception) noise in anyone sensitive, Crystal awakening (the soul itself opening) at abnormal ages in children, and a Trait (a standing law carried in the soul) incidence in long-settled families that the companies have never commissioned a study of. **The Physicians' College has requested one four times.**
 > **The Southbank finding, and what happened to it.** A company surveyor established in a single quarter that residue concentration tracked tenement density and inversely tracked fee band, and submitted it.
 >
 > *The report was accepted, the surveyor was promoted, and the recommendation was referred to a committee that has met twice.* **Nobody suppressed the finding. It is available. It has simply never been the business of anybody with the authority to act on it.**
@@ -133,12 +133,4 @@ The crossbow is ordinary and old, and it is the reason nobody sensible has ever 
 >
 > *The trade knows what it does to a man over twenty years. It has a word for the late stage, the word is in no company document, and a physician who has never worked a pool will diagnose it as something else with perfect confidence.*
 
-## X. Writing It
-
-**The trades are everywhere, and most of it is furniture.** The great works make a city's skyline and its pride; a parish stone is street furniture. A seal is on the lintel by the door. Nobody explains any of it, and characters interact with it the way people interact with a roof: only when it fails. Let it be bright, though. Every lamp on the page burns somebody's color.
-
-**Money before magic.** In any scene with a city in it the first question about a working is who is paying for it. **A practitioner in someone else's house is running up somebody's bill and both of them know it.**
-
-**The hum is the room tone.** Present in every interior scene on a kept street, mentioned rarely, and mentioned the moment it stops.
-
-**The lamp-warden outranks the archmage in the only way that matters on the day.** She can walk off the round, and everybody in the building knows it, and the archmage is polite to her.
+*Read next: [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current]], for what the same current does to someone with no warden's fee to protect them.*

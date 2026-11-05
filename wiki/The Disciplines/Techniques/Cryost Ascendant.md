@@ -38,7 +38,7 @@ Under the Consent Doctrine the field resolves by criterion and the judgment is J
 
 ### Codex line
 
-Wellspring Vohrin (primary; the Titan-derived frost-stasis current, outside the Sixty's enumerated list), Family Caloria, Physics Domain Thermodynamics. Secondary Fixatio (Materia, Material Science) and Judicium (Fulguria, Electromagnetism). Category Vectra. Craft Magicraft. Stage floor IX, Invocation. Grade required S-Grade (late push toward SS-Grade). Path gate Spirit Path.
+Wellspring Vohrin (primary; the Titan-derived frost-stasis current, outside the Sixty's enumerated list), Family Caloria, Physics Domain Thermodynamics. Secondary Fixatio (Materia, Material Science) and Judicium (Fulguria, Electromagnetism). Category Vectra. Skill Bodily speaking, held turn by turn. Stage floor IX, Invocation. Grade required S-Grade (late push toward SS-Grade). Path gate Spirit Path.
 
 ### FOW line
 
@@ -56,7 +56,7 @@ The technique has a single known bearer; no derivation, teacher, location, or or
 
 **Fails against** · Slow, low-energy movement that gives it nothing; a Knot or chaos-aligned disturbance; several exclusive threats at once; no target to discharge into (retreat, cover, a decoy); its own cold, which slows the holder.
 
-**Look up** · Lock and Knot in the Counterplay register; Caloria terrain; Vohrin, Fixatio and Judicium failures; Materia phase locking; the Invocation Stage table and the S Grade row.
+**Look up** · Lock and Knot in the Counterplay register; Caloria terrain; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; Fixatio and Judicium failures; Materia phase locking; the Invocation Stage table and the S Grade row.
 
 ## Numbers
 

@@ -42,7 +42,7 @@ The Sevenfold school lists seven Hermetic Principles as recovered ancient lore a
 - **Family** · Fulguria (Judicium); Caloria (Exuroth)
 - **Physics Domain** · Electromagnetism, primary; Thermodynamics, secondary
 - **Category** · Animatria (Spirit-Aligned), projection of a fragment of the caster's own Essence Core into an independently operating construct, matching "animates Principles as combat constructs" directly; Vocatia (Attraction-Aligned) as a secondary reading, since each construct also has to be recognized by the field whose law it enforces
-- **Craft** · Spellcraft
+- **Skill** · Speaking, named aloud with no material anchor at Zenith, each construct standing its five turns
 - **Stage floor** · Stage XIV, Zenith
 - **Grade required** · EX-Grade
 - **Path gate** · Fate Path

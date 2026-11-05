@@ -4,7 +4,7 @@ title: "The Incorruptible Rampart"
 
 # THE INCORRUPTIBLE RAMPART
 
-*Spellcraft, Claustra, Stage VI. The scholars' term is the Aether Bastion.*
+*Speaking, Claustra, Stage VI. The scholars' term is the Aether Bastion.*
 
 The Ordeal courts built wards like this into their gates, reasoning that a wall cannot be bribed, and for sixty years the Gate of Weights at Merrowbank stood gold and rose-pink over the river road with its reputation unbroken. Then a smuggler named Gib Rudkin walked forty casks of contraband brandy through it at noon on market day, inside a memory illusion, waving. The ward cannot judge what never registers as an incoming force, and what the ward cannot detect it certifies, so the casks went into the court's own immaculate record as nothing at all. They caught him eleven years later, by accident, drunk, bragging, in a song he wrote himself. The chorus is still sung at every customs post on the river.
 
@@ -78,7 +78,7 @@ The true failure is a Coherence fault: if the holder's stated and actual intent 
 - **Family** · Fulguria
 - **Physics Domain** · Electromagnetism
 - **Category** · Claustra
-- **Craft** · Spellcraft
+- **Skill** · Speaking, with the spoken declaration as anchor below Refraction, and held inwardly from Refraction up
 - **Stage floor** · VI, Glory
 - **Grade required** · A-Grade
 - **Path gate** · Attraction Path

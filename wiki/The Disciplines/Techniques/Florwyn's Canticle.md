@@ -42,7 +42,7 @@ A school of healers holds that song reaches the vital spirit directly and that m
 - **Family** · Vitalia
 - **Physics Domain** · Biochemistry
 - **Category** · Vocatia
-- **Craft** · Spellcraft
+- **Skill** · Chanting, with the voice as anchor below Refraction, held for as long as it is sung
 - **Stage floor** · Stage VI, Glory
 - **Grade required** · A-Grade
 - **Path gate** · Spirit

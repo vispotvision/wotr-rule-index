@@ -51,7 +51,7 @@ Five different things go up over a life, by five different roads, and the window
 
 ## Skills
 
-**A skill is one thing a person does and has got better at by doing it.** Swordwork, haggling, tracking, brewing Drafts, cutting runes, folding tags, chanting, laying out the dead, patience with rams. Every practitioner has them, and so does everybody else, since a baker has a Baking skill and a little sheet. Anyone can level any of them. There is no gate of birth or Stage on picking up a skill, and that has made a great many teachers unhappy.
+**A skill is one thing a person does and has got better at by doing it.** Swordwork, haggling, tracking, brewing Drafts, cutting runes, folding tags, chanting, laying out the dead, patience with rams. Every practitioner has them, and so does everybody else, since a baker has a Baking skill and a little sheet. Anyone can level most of them, and everyone can pour or bake; cutting a rune, folding a tag and chanting want a woken Crystal. There is no gate of birth or Stage on picking up a skill beyond that, which has made a great many teachers unhappy.
 
 **A skill rises with use and shows on the sheet as a Grade,** on the fighters' letters from F upward. Between letters the window gives a percentage when something moves it. Work done under real weight counts for more than work done idly, the way danger moves Level: a hundred sparring cuts shift a Swordwork line a little, and one cut that decides whether you see supper shifts it a good deal more, which is why sect elders have a reputation for pushing students off things.
 
@@ -126,7 +126,7 @@ Where skill earns its keep is everywhere the stats tie and everywhere they are n
 
 ### Skills and trades
 
-Drafts, runes, tags and chants are skills and trades like any other, open to anyone who will put in the years. Any soldier may learn to pour. Any pourer may learn to cut a seal. A trade is what happens when someone does a skill well enough for money, and a guild is what happens when enough of them would like to keep the money. The old quarrels between the pourers' halls and the cutters' halls are guild feuds now, and they are carried on with the same vigor as ever.
+Drafts, runes, tags and chants are skills and trades like any other, open to anyone who will put in the years, though all but the pouring want a woken Crystal. Any soldier may learn to pour. Any woken pourer may learn to cut a seal. A trade is what happens when someone does a skill well enough for money, and a guild is what happens when enough of them would like to keep the money. The old quarrels between the pourers' halls and the cutters' halls are guild feuds now, and they are carried on with the same vigor as ever.
 
 **A skill is what you can do, and a title is what you are trusted to do.** The nine guild titles, Initiate through Paragon, grade trust in a trade. A smith's title caps the Grade of work she may lawfully make, and a merchant's caps the Rarity he may sell. The two figures drift apart all the time, and the gap is the business of half the market. An EX-Grade smith with a Journeyman's token sells under the counter. A Grandmaster's son with C-Grade Smithing has apprentices who hide their work from him. See [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title]].
 
@@ -166,7 +166,7 @@ A Trait is a standing law a soul carries, formed by what it survived, and [[The 
 
 **What a level buys.** Each level presses harder on the Trait's four offices: a steeper Bias on the stats it touches, more that it Permits, a stronger seed in the melt and a higher Ceiling. It also buys a heavier Rigidity Effect, since the more absolute a law becomes, the less room its bearer has to contradict it. A Level 60 Trait is a magnificent thing to have and an awful thing to disagree with.
 
-**Before waking.** The great majority of the world's Traits sit in bodies that will never be screened, refining by the Weathering, the slow hardening along the way a soul is used. A commoner's window shows only Level, trade skills and health, so the law sits unlisted and goes on working. Ibbet Lowe's window read Washing and nothing else for half a century. Waking opens the rest, and a Trait turns up with a level on it already, sometimes a shockingly high one, to the alarm of everyone in the room.
+**Before waking.** The great majority of the world's Traits sit in bodies that will never be screened, refining by the Weathering, the slow hardening along the way a soul is used. A commoner's window shows only Level, trade skills and health, so the law sits unlisted and goes on working. Ibbet Lowe's window read Washing and nothing else for forty-one years. Waking opens the rest, and a Trait turns up with a level on it already, sometimes a shockingly high one, to the alarm of everyone in the room.
 
 **Monsters have them too.** A Moor Tyrant's Pack Hunter runs on a level like anybody else's, and it is usually higher than you would like. See [[The Bestiary/The Bestiary|The Bestiary]].
 
@@ -176,7 +176,7 @@ A Trait is a standing law a soul carries, formed by what it survived, and [[The 
 
 **Life spends most of your stat points. A few are yours.** Every Level brings an allotment, and every Stage's Threshold (the crisis that refines a soul to its next rung) brings a larger one. Most of it lands where the pressure went, by what you actually do, and a farrier's points do not wander into Feint because he would have liked them to. That is why a cobbler's son and a duke's son at the same Level read so differently, and why a sheet read properly is a biography.
 
-**The law, unchanged from [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Fracture of Worlds, Part Three]].** Points go on Sub-Stats only. A Primary is the total of its eight Sub-Stats, and its Grade is read off the mean.
+**The law, unchanged from [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Fracture of Worlds, Part Three]].** Points go on Sub-Stats only. A Primary is the total of its eight Sub-Stats, and its Grade is read off the mean (Dominion's over seven, since Throne stands outside its total).
 
 | Band | Points per Level | Concentration cap per Sub-Stat, per level-up |
 |---|---|---|

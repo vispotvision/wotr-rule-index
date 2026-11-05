@@ -8,7 +8,7 @@ title: Lich
 
 Three generations of the Erebus court kept the lich lord Vharzoth on the tax roll, on the clerk's argument that a man who will not die owes like one who has not, and in the sixth year of the war he paid it in full, in old gold, by a bone courier in a green cloak who waited politely for the receipt. The coin had come out of the graves of the collectors.
 
-**Undying, Archmage Undead · T9, Apocalyptic Threat · Corrupted, Abyssal, and Spirit Wellsprings intertwined through necromantic rites · native to ruined fortresses, ancient crypts, and shadowed sanctuaries throughout the Innerworld and Outer World**
+**Undying, Archmage Undead · T9, Apocalyptic Threat · Mortalis, Nihiloth and Anamnesis, intertwined through necromantic rites · native to ruined fortresses, ancient crypts, and shadowed sanctuaries throughout the Innerworld and Outer World**
 
 Liches are necromancers who bound their souls to phylacteries, transcending mortality through dark Wellspring rituals. The transformation grants them mastery over death and Essence manipulation, and binds them eternally to the arcane prison they made for themselves. Most were once mortal rulers or sorcerers, and a lich pursues forbidden knowledge and dominion over life and death long after the throne or the title has been forgotten.
 

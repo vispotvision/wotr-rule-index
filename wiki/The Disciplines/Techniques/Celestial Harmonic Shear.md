@@ -42,7 +42,7 @@ Nothing outside harmonic physics (true void, full dream-essence, anti-tone field
 - **Family** · Fulguria
 - **Physics Domain** · Electromagnetism
 - **Category** · Harmonia
-- **Craft** · Spellcraft
+- **Skill** · Speaking, by a raised hand and line of sight, gone once the cut is made
 - **Stage floor** · XII, Emanation
 - **Grade required** · SSS-Grade
 - **Path gate** · Spirit Path

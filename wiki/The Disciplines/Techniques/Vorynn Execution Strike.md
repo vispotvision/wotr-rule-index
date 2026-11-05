@@ -4,7 +4,7 @@ title: "The Cold Handshake"
 
 # THE COLD HANDSHAKE
 
-*Spellcraft, bodily, Vectra, Stage VI. The scholars' term is the Vorynn Execution Strike. A hunter's art, and hunters do not shout it.*
+*Bodily speaking, Vectra, Stage VI. The scholars' term is the Vorynn Execution Strike. A hunter's art, and hunters do not shout it.*
 
 The Frigorific college held cold a thing to emit, and it built a white tower on the Skell moors where its masters trained to cool at range, in robes of pale blue, with frost in their beards for show. In the bad winter they were called on to stop a Well-born beast the size of a tithe barn, and they lined up on the ridge and did their absolute best. It walked directly to them, in the dark, in a snowstorm, because every joule they had ever taken had to leave through their own Shells, and their coldest masters stood out in that storm as the warmest things for ten miles. A hunter finished it the next morning by walking up and shaking it by the foreleg.
 
@@ -43,7 +43,7 @@ The Frigorific college held cold a thing to emit and trained to cool at range. T
 
 **Fails against** · A padded jack, dry wool or an air gap; a Pyreveil or Exuroth ward; a cold or warming closed room; a Limina void-momentum working declining the collapse; distance or flight; a broken wrist or broken attention; chained spending.
 
-**Look up** · The Caloria and Limina favor lists; the Vohrin, Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.
+**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; the Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.
 
 ### Numbers
 
@@ -74,11 +74,11 @@ The Frigorific college held cold a thing to emit and trained to cool at range. T
 
 **Family** · Caloria (Vohrin, Cinerion) · Limina (Tenebra)
 
-**Physics Domain** · Thermodynamics (Vohrin, Cinerion) · Abstract/Entropic Systems (Tenebra)
+**Physics Domain** · Thermodynamics (Vohrin, Cinerion) · Entropy, Void and Mind (Tenebra)
 
 **Category** · Vectra
 
-**Craft** · Spellcraft (Bodily: the fist carries the working, and it stops the instant his attention lapses)
+**Skill** · Speaking (Bodily: the fist carries the working, and it stops the instant his attention lapses)
 
 **Stage floor** · Stage VI, Glory
 
@@ -90,7 +90,7 @@ The Frigorific college held cold a thing to emit and trained to cool at range. T
 
 **Governing Primary** · Ardency, with Dexterity governing the closing distance.
 
-**Governing Sub-Stats** · Ardency Penetration (358), Dexterity Silence (386) and Celerity (344) for the ambush and closing, Vitality Tolerance (400, at ceiling) for what his own body survives while running the ignition. All four are its author's Sub-Stat Peaks.
+**Governing Sub-Stats** · Ardency Penetration (358), Dexterity Feint (386) and Celerity (344) for the ambush and closing, Vitality Tolerance (400, at ceiling) for what his own body survives while running the ignition. All four are its author's Sub-Stat Peaks.
 
 **Stage floor** · Stage VI, Glory.
 

@@ -4,7 +4,7 @@ title: "Inquisition of the Unconfessed"
 
 # INQUISITION OF THE UNCONFESSED
 
-*Spellcraft, Animatria, Stage VII. The scholars' term is the Oneiron Phantasm Court, and defendants have other words for it.*
+*Speaking, Animatria, Stage VII. The scholars' term is the Oneiron Phantasm Court, and defendants have other words for it.*
 
 Provost Anselm Dray of Carrowmere gave the harvest feast in crimson, with a roast swan on every table and the whole grain-guild drunk on his wine. Between the swan and the pears, a second Anselm Dray stood up behind his chair, thinner, sober and very calm, and began telling the hall where the winter grain had gone, by the barrel and by the barge. It never touched him. It did not need to. By the pears he was answering it, shouting, weeping, correcting its figures, and the guild's clerks had started writing it down.
 
@@ -76,11 +76,11 @@ In the room the Residue is a deposition site that briefly deafens Harmonists; in
 
 **Family** · Limina (all three)
 
-**Physics Domain** · Abstract-Entropic Systems
+**Physics Domain** · Entropy, Void and Mind
 
 **Category** · Animatria (Spirit-Aligned: projection of consciousness into a structured avatar; the working is a Dream-Self Tribunal in exactly the sense Eidolon Crafting names)
 
-**Craft** · Spellcraft
+**Skill** · Speaking, internalized: an internal declaration, and it stands only while attention holds
 
 **Stage floor** · Stage VII, Refraction
 
@@ -92,7 +92,7 @@ In the room the Residue is a deposition site that briefly deafens Harmonists; in
 
 **Governing Primary Stat** · Gnosis (Band C ceiling for Stage VII)
 
-**Sub-Stats** · Gnosis Cognition and Dominion Reach (Oneirion's documented Stat Effect), Ardency Density and Gnosis Memorium (Eidolyn's), Gnosis Retention (Hypnather's)
+**Sub-Stats** · Gnosis Cognition and Dominion Sovereignty (Oneirion's documented Stat Effect), Ardency Density and Gnosis Retention (Eidolyn's), Gnosis Retention (Hypnather's)
 
 **Stage floor** · Stage VII, Refraction
 

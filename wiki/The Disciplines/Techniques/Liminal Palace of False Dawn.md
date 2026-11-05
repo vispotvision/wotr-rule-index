@@ -42,7 +42,7 @@ The Cave school rightly teaches that being turned toward the truth hurts, but pr
 - **Family:** Limina
 - **Physics Domain:** Entropy, Void and Mind
 - **Category:** Domain Weaving
-- **Craft:** Spellcraft
+- **Skill:** Speaking, gestured: a line in the air and a doorway stepped or gestured through
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
 - **Path gate:** Attraction Path

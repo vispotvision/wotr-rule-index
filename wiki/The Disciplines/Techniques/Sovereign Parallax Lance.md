@@ -4,7 +4,7 @@ title: "Lance of the Oldest Wound"
 
 # LANCE OF THE OLDEST WOUND
 
-*Spellcraft, Vectra, Stage XII. The scholars' term is the Sovereign Parallax Lance.*
+*Speaking, Vectra, Stage XII. The scholars' term is the Sovereign Parallax Lance.*
 
 The Sufficientists of Lanthorn trained for three generations to be equally strong everywhere, with no favored side and no old injury, and their last grand master, Ildegar the Even, was so perfectly symmetrical that painters came from four kingdoms to get him in gold leaf. His school pointed out, on a hundred hand-copied bills nailed to doors, that a man with no weakest point had nothing for such an art to select. He met it at nine hundred meters, across a valley full of poppies, on a morning his students still commemorate. A line of black-gold light crossed the valley and he came apart along every seam at once, because a body exactly equal everywhere offers the widest menu of ways to break that anyone has ever measured.
 
@@ -84,7 +84,7 @@ The Sufficientists train to be equally weak everywhere so no flaw is longest. Pe
 - **Family** · Vectoria
 - **Physics Domain** · Mechanics
 - **Category** · Vectra
-- **Craft** · Spellcraft
+- **Skill** · Speaking, gestured: two fingers drawn together over one target and a hand extended, gone once it lands
 - **Stage floor** · XII, Emanation
 - **Grade required** · SSS-Grade
 - **Path gate** · Spirit Path

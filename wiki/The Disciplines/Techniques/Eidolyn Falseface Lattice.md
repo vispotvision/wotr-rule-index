@@ -42,11 +42,11 @@ A contemplative school reads it as thoughtform work fed by the maker's concentra
 
 **Family** · Limina (Eidolyn, Oneirion) · Fluxia (Somnalis)
 
-**Physics Domain** · Abstract-Entropic Systems (Eidolyn, Oneirion) · Fluid Dynamics (Somnalis)
+**Physics Domain** · Entropy, Void and Mind (Eidolyn, Oneirion) · Fluid Dynamics (Somnalis)
 
 **Category** · Animatria (Spirit-Aligned: the construct is a projected avatar with real, material-behaving solidity, the same category Eidolyn-templated constructs sit in generally)
 
-**Craft** · Spellcraft
+**Skill** · Speaking, and the construct stands while attention holds
 
 **Stage floor** · Stage VII, Refraction
 
@@ -58,7 +58,7 @@ A contemplative school reads it as thoughtform work fed by the maker's concentra
 
 **Governing Primary Stat** · Gnosis (Band C ceiling for Stage VII)
 
-**Sub-Stats** · Ardency Density and Gnosis Memorium (Eidolyn's documented Stat Effect), Gnosis Cognition and Dominion Reach (Oneirion's), Gnosis Forecast and Dominion Sense (Somnalis's)
+**Sub-Stats** · Ardency Density and Gnosis Retention (Eidolyn's documented Stat Effect), Gnosis Cognition and Dominion Sovereignty (Oneirion's), Gnosis Forecast and Dominion Sense (Somnalis's)
 
 **Stage floor** · Stage VII, Refraction
 

@@ -18,7 +18,7 @@ Copies of that sheet have been sold at fair gates ever since, and every scrivene
 
 ![[Assets/Diagrams/four-quarters.svg]]
 
-Reality has three planes, and they are nested rather than stacked. The Plane of Fate lies deepest, the lattice everything else rests on: the control of Attraction Force and Obsession Force and the workings of reality itself, where probabilities can be manipulated to work outside what reality already knows. The Soul Plane lies between, where law becomes a felt truth. The Physical Plane sits on the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a threshold has to exist, and that threshold is called the Veil. Every act of magic in this world crosses all three planes at once, and every named power in it, human, bloodline, or god, answers to one of the three.
+Reality has three planes, and they are nested rather than stacked. The Plane of Fate lies deepest, the lattice everything else rests on: the control of Attraction Force and Obsession Force and the workings of reality itself, where probabilities can be manipulated to work outside what reality already knows. The Soul Plane lies between, where law becomes a felt truth. The Physical Plane, which half the books call the Material Plane, sits on the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a threshold has to exist, and that threshold is called the Veil. Every act of magic in this world crosses all three planes at once, and every named power in it, human, bloodline, or god, answers to one of the three.
 
 Geography follows the same rule of layers. The world is one great body of land with isles off its shores, cut into Four Quarters, and each one solved a different problem. The North, the Inner World, is an old glaciated shield with rich ground and hardly anyone working it, and it runs in three parts of its own: a North under the crown of Kharven and the Banner Houses, a South of old dynasties and the Holy Sea of Alabaster, and a Center wedged between them around the Scourge of Hell, a vast wasteland filled with monsters long ago. The West, the Old World, is worn-out country with the deepest workings and the most thoroughly worked ground anywhere, and it survives entirely on arrays, keepers and hired hands it can no longer do without. The East, the New World, is a live volcanic arc, young, wet, and still building itself, rich on the surface and barely worked. The South, the Outer World, is old dry ground with almost no magic left in it and materials nobody else can get. The quarter with the most raw power has the least industry, and the quarter with the most industry has the least power, and nobody has ever found a way around that trade.
 
@@ -84,7 +84,7 @@ Every Threshold between Stages needs two things at once: a measurable floor of a
 
 Splintering is the first real crisis: the architecture that has held since Murmuring reaches its limit and has to break to grow, and it breaks along whatever the soul was already carrying badly, whatever happened to cause the break. Glory is the first Stage whose Catalyst is a decision rather than an accident, a choice to accept real cost for something the practitioner values more than their own structural integrity. Refraction is the Stage at which the Crystal becomes an object a person can look at, which means the fracture record Splintering wrote becomes visible and impossible to unsee. From Transcendence onward the world itself starts changing around a practitioner: an unhealed wound becomes load-bearing structure and produces a true Domain; at Invocation the practitioner stops working alone and starts asking Wellsprings, Titans, or Archonic law to co-author the result; at Realization the world itself begins to accommodate what the practitioner has become, and that accommodation never reverses. Dissonance is chosen rather than survived, a deliberate walk toward something that could end the practitioner, met with enough coherence to choose how it is met; Emanation is what radiates outward afterward, when a practitioner's mood becomes an environmental condition for the district around them. Above Principality, advancement is no longer earned or bought in any ordinary sense; Zenith in particular is a recognition in place of a breakthrough, conferred rather than reached. Revelation and Apex lie past all of it, in territory where the Codex itself declines to number them at all.
 
-Every Threshold also leaves a residue called the seat. A clean seat means the melt cooled around agreeing evidence and the practitioner's output reads as one consistent signature. A rough seat means it cooled around contradictions, and rough-seated practitioners are unpredictable rather than weak, which is exactly why some of the most feared people in the world cannot be read in advance. A coil reads a seat in under a minute, and what it is actually reading, honestly and without prejudice, is what somebody's family could afford them.
+Every Threshold also leaves a residue called the seat. A clean seat means the melt cooled around agreeing evidence and the practitioner's output reads as one consistent signature. A rough seat means it cooled around contradictions, and rough-seated practitioners are unpredictable rather than weak, which is exactly why some of the most feared people in the world cannot be read in advance. A coil reads a bought Stage the same as a fought one. The seat is another matter: a coil reads it in under a minute, and what it is actually reading, honestly and without prejudice, is what somebody's family could afford them.
 
 ---
 
@@ -94,7 +94,7 @@ Every Threshold also leaves a residue called the seat. A clean seat means the me
 
 Nothing in this system is free, and the system does not pretend otherwise. Essence is spent, never summoned from nowhere. Domains bleed their holder. Traits fatigue with use. Pushing past a sustainable limit, called Overchannel, leaves a permanent scar rather than a temporary one. Any practitioner who tells you a technique costs nothing is either lying or has not yet been sent the bill.
 
-The market sells the climb itself. An Essence Draft, a working stabilized into a drinkable substance, can raise a practitioner to the quantitative floor a Threshold requires, the best of them supply the Catalyst as well, and licensed use of Drafts is the backbone of the apothecary guilds' entire trade, with the top of the stock locked in great houses' vaults. The most potent Drafts, rendered from monster cores, carry the clearest cost: Identity Contamination, in which the Essence taken carries the identity it was taken from, and enough of it leaves a practitioner unable to say cleanly which convictions are actually their own. A Crystal cut from a dead practitioner makes the strongest Draft of all, the worst crime in every realm and the most profitable, and it is why the trade's Class IV ledgers have never balanced.
+The market sells the climb itself. An Essence Draft, a working stabilized into a drinkable substance, can raise a practitioner to the quantitative floor a Threshold requires, the best of them supply the Catalyst as well, and licensed use of Drafts is the backbone of the apothecary guilds' entire trade, with the top of the stock locked in great houses' vaults. The most potent Drafts, rendered from monster cores, carry the clearest cost: Identity Contamination, in which the Essence taken carries the identity it was taken from, and enough of it leaves a practitioner unable to say cleanly which convictions are actually their own. A Crystal cut from a dead practitioner makes the strongest Draft of all, the worst crime in every realm and the most profitable, and it is why the [[Materials, Alchemy & Trade/Alchemy/The Standing Index|Standing Index]]'s Class IV ledgers (its top class of stock, no relation to Aether Class IV) have never balanced.
 
 Costs are not only personal. They are civic. Under the round-fees described above, a household or a workshop is billed for its lamps, wards and warm stones the way it would be billed for water, and the first question in any scene involving a working is who is paying for it. At the very top of the scale, the handful of rites keyed directly to a Titan rather than to a Wellspring bill in currencies no market sells: one takes small memories from everyone standing nearby, caster included; another ages every innocent caught inside its effect at a forced rate; only a single one of the fourteen costs the caster nothing at all, and every order that studies it treats that single clean entry as the most dangerous line in the whole register, on the theory that a cost which lands nowhere has simply not been found yet.
 
@@ -118,7 +118,7 @@ Items carry two ratings: Grade for power, on the fighters' letters, and Rarity f
 
 ### The Moto
 
-The Moto are the archaic bloodline behind more of this world's crowns than any other family, founded in myth by Bara Moto, the First Epoch given human form, and Mizuki Moto, who turned that authority into something a family could actually inherit. Every Moto carries the Shingan, a sacred ocular inheritance split into four branches: Meigan for revelation, Reigan for the soul and curse-work, Tengan for fate and probability, and Kamigan, the crown eye, which unifies all three into sovereign judgment. The house also carries Hataraki, the deeper governing power authored by Bara before time itself, which is why a Moto technique tends to feel administrative rather than simply violent: a Moto strike can reveal, rank, condemn, or complete a situation rather than merely hit it harder. People who hold Hataraki can also take back or remove a blessing, which is a large part of why they are feared. Of the house's seven great lines, six are landless, scattered across temperate ground after the ancestral seat in the Inner World's western shield was ruined by the first blow on the white shelf, about 310 IC, the breaking the Moto registers call the split. Only the Kōkan Line, the Kamigan-eyed line of crown authority, holds an actual seat, and that seat is Kharven.
+The Moto are the archaic bloodline behind more of this world's crowns than any other family, founded in myth by Bara Moto, the First Epoch Bairos given human form, and Mizuki Moto, who turned that authority into something a family could actually inherit. Every Moto carries the Shingan, a sacred ocular inheritance split into four branches: Meigan for revelation, Reigan for the soul and curse-work, Tengan for fate and probability, and Kamigan, the crown eye, which unifies all three into sovereign judgment. The house also carries Hataraki, the deeper governing power authored by Bara before time itself, which is why a Moto technique tends to feel administrative rather than simply violent: a Moto strike can reveal, rank, condemn, or complete a situation rather than merely hit it harder. People who hold Hataraki can also take back or remove a blessing, which is a large part of why they are feared. Of the house's seven great lines, six are landless, scattered across temperate ground after the ancestral seat in the Inner World's western shield was ruined by the first blow on the white shelf, about 310 IC, the breaking the Moto registers call the split. Only the Kōkan Line, the Kamigan-eyed line of crown authority, holds an actual seat, and that seat is Kharven.
 
 ### Kharven, the Ashen Crown
 
@@ -164,6 +164,10 @@ But the world's own institutions are honest, in their own dry way, about how muc
 
 **Essence**: Aether a practitioner has pulled in, refined in the Soul Crystal, circulated, and stamped with their own identity. Finite, and only ever as much as has been earned or bought.
 
+**Practitioner**: a person whose Soul Crystal is awake and working, about one in ten. Everyone else touches magic through what they buy.
+
+**Continuum**: the lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power.
+
 **Soul Crystal**: the soul, literally, which every practitioner casts through, with three layers, one per plane.
 
 **Essence Core**: the Soul Crystal's soul-plane layer. Holds identity, memory, and Traits.
@@ -171,6 +175,12 @@ But the world's own institutions are honest, in their own dry way, about how muc
 **Aether Shell**: the Soul Crystal's material-plane layer. Converts inner truth into outward force.
 
 **Attraction Layer**: the Soul Crystal's fate-plane layer. Governs bonds, harmonizations, and Domains.
+
+**Reserve**: the store of Essence a practitioner carries, shown on their window as a percentage and a bar. Every working spends it.
+
+**Reinforcement**: Essence driven through the body to push it past its passive base, showing as a coat of the practitioner's own aura. Lost asleep, drugged or surprised.
+
+**Pressure**: the weight a stronger soul lays on a room. One Stage up bends attention, two brings sweat and nausea, three drops people where they stand.
 
 **Wellspring**: one of sixty fixed alchemical and spiritual transformations and concepts. It can be seen as a source of power, and it is more the governing idea that transforms how a soul uses Aether: a lens that can highlight and, after years of mastery, double a person's natural Essence Typology. Scholars explain each as a type of Aether with a fixed physical law. Sorted into eight Families.
 
@@ -186,6 +196,10 @@ But the world's own institutions are honest, in their own dry way, about how muc
 
 **Level and Band**: Level counts how far a Crystal has densified, moving by danger overcome, from 1 to a ceiling of 500 that only Revelation and Apex pass, uncounted; the five Bands are its hundreds: Mortal Foundation, Awakened, Sovereign, Mythic, Absolute.
 
+**Path**: the direction a soul's advancement actually took, Body, Spirit, Attraction or Fate. Nobody chooses one; it is read afterward, and it gates how far a stat may rise.
+
+**Coil**: the assay house's measuring instrument, a great coil of brass a practitioner stands inside. It reads a bought Stage the same as a fought one, and the seat differently.
+
 **Tier Grade**: a practitioner's raw output magnitude, lettered from Hollow through F, E, D, C, B, A, S, SS, SSS, X, and EX, to EX+.
 
 **Aether Class**: a named class the soul is offered at thresholds, fitting how the person has lived, giving abilities and evolving at each tier. Its tier, Muridic through Absolute, also says how cleanly the Shell delivers output.
@@ -194,9 +208,15 @@ But the world's own institutions are honest, in their own dry way, about how muc
 
 **Threshold**: the moment a Stage transition actually occurs.
 
-**Domain**: a standing region of the world operating on a practitioner's own terms while they are present in it. Anyone at Stage VIII can have one, their own concept made real.
+**Release**: a practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold, on a clock. First from Stage IV, Second from VII, Third from IX, each found and mastered by fighting.
+
+**Domain**: a standing region of the world operating on a practitioner's own terms while they are present in it. Anyone at Stage VIII can have one, their own concept made real, once the Second Release that opens it has been found. See [[The Magic System/The Soul and the Climb/Domains|Domains]].
+
+**Vow**: small Fate, a condition a person binds on themselves, spoken aloud, anyone's to make. It lands at once if broken and needs no witness. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]].
 
 **The Seat**: the residue a Threshold leaves behind. Clean if it cooled around agreement, rough if it cooled around contradiction.
+
+**Draft**: a working poured into a substance and bottled, graded by the Stage it serves. Advancement Drafts, Essence Drafts and fight Drafts are the common kinds.
 
 **Essence Draft**: a working stabilized into a drinkable substance, so someone whose Crystal has never woken can still be affected by it. The tempering kind is mostly rendered from monster cores.
 
@@ -215,6 +235,8 @@ But the world's own institutions are honest, in their own dry way, about how muc
 **The Black Concord**: the Accord's sixth, unacknowledged Division.
 
 **Commission**: a sanctioned Accord job, classified by Threat Tier, T1 to T9, and by purpose. Monsters are graded on the same scale.
+
+**Threat Tier**: how dangerous a job or a monster is, T1 to T9, and the shorthand for its price. A monster's stone and parts are read from its own Grade and Level on the coil, and most beasts line up with their T.
 
 **Core**: in common speech, a Wellspring site where one type of Aether pools, mostly at the heart of a dungeon. A worked Core is a dungeon someone cleared and now holds: it recharges, and its keepers sell hours at it and can close it. The survey keeps "Wellspring Core" for its top density band, and the Essence Core is the Crystal's own layer.
 
@@ -246,7 +268,7 @@ But the world's own institutions are honest, in their own dry way, about how muc
 
 **The Sheet**: what a normal look at the window shows: race and lineage, Eight Primaries with Grades, Traits with levels, skills with Grades, and any blessings.
 
-**Skill**: a thing a person does and gets better at by doing it, shown as a Grade. Drafts, runes, tags and chants are skills and trades anyone can level.
+**Skill**: a thing a person does and gets better at by doing it, shown as a Grade. Drafts, runes, tags and chants are skills and trades. Anyone can level a skill hands alone can do, pouring included; the cutting, tags and chants want a woken Crystal.
 
 **Fate**: the control of Attraction Force and Obsession Force and the workings of reality itself, manipulating probabilities to control the fate of something. Fate Arts are rare, mostly by bloodline, and considered incredibly overpowered.
 
@@ -254,10 +276,12 @@ But the world's own institutions are honest, in their own dry way, about how muc
 
 **Curse**: often a blessing with terms you did not read.
 
-**Monster core**: in a way a monster's Soul Crystal, worth more the stronger the monster. Rendered into Drafts, or swallowed raw by people who mostly die of it.
+**Monster core**: in a way a monster's Soul Crystal, worth more the stronger the monster. Rendered into Drafts, or swallowed raw by people who mostly die of it. See [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]].
 
 **Dungeon**: what grows down in floors around a Core, with something guarding the heart. Alive and learning.
 
 **Grade and Rarity**: an item's two ratings, one for power and one for scarcity.
 
-**Master Work**: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named.
+**Master Work**: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. See [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Works]].
+
+*Next on the short route: [[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]]. Back to [[Start Here]].*

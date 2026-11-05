@@ -32,13 +32,13 @@ The register enters the Droval as an animal, and the Measurewrights who keep the
 
 ## Origin & Evolution
 
-Droval evolved as apex megafauna during the First Winter Age, when the Inner World's polar bands were locked in a supernatural deep freeze following the collapse of a nearby Wellspring of Heat. Over long ages, constant exposure to Winter-aligned Wellsprings altered their bodies and instincts, infusing the species with elemental resonance beyond ordinary natural evolution. They are still mortal-born creatures, with no artificer's hand in them and no summoner's, but their bloodline has been permanently shaped by ancient Winter essence in the same way that geological pressure permanently shapes the crystal structure of the stone it acts on. The cold found a very large bear-shaped predator and went on refining it until the refinement was all anyone could see.
+Droval evolved as apex megafauna during the First Winter Age, when the Inner World's polar bands were locked in a supernatural deep freeze following the collapse of a nearby Caloria site. Over long ages, constant exposure to Titan-touched cold ground, where the Titan Vohrin's power pools in the rock, altered their bodies and instincts, infusing the species with elemental resonance beyond ordinary natural evolution. They are still mortal-born creatures, with no artificer's hand in them and no summoner's, but their bloodline has been permanently shaped by ancient Winter essence in the same way that geological pressure permanently shapes the crystal structure of the stone it acts on. The cold found a very large bear-shaped predator and went on refining it until the refinement was all anyone could see.
 
 Droval are native to the Material World, specifically the polar shelf and polar regions of the Inner World where the deep ice holds Aetheric density high enough to sustain Winter-saturated biology. They inhabit frozen mountain ranges, glacier basins, white forests, arctic plains, and the specific liminal territories where the shelf's geography intersects with the ice's older Aetheric architecture. Wild Droval claim immense hunting ranges measured in hundreds of square kilometers. They do not migrate, and they sit out whatever comes.
 
 Winter Eladrin later began selective bonding, ritual imprinting, and war-line breeding, refining Droval into elite mounts without ever fully taming their wild nature. Treaty is the right word for the bond between a Winter Eladrin rider and a Droval, and an Eladrin will correct you if you say domestication. The rider earns the mount's recognition through a rite of winter kinship, and the mount extends its territorial instinct to include the rider as part of its own being. The distinction matters: a tamed animal obeys, and a bonded Droval cooperates, on its own terms, for as long as the terms are honored.
 
-The rarest among them, known as **Titan Droval**, are believed to be ancient individuals that survived for centuries in direct proximity to major Winter Wellspring sites until their bodies partially transformed into living elemental matter. Size has very little to do with it. A Titan is a Droval that has crossed a threshold, permanently, and every other terrifying thing about it follows from that.
+The rarest among them, known as **Titan Droval**, are believed to be ancient individuals that survived for centuries in direct proximity to major Vohrin-touched sites until their bodies partially transformed into living elemental matter. Size has very little to do with it. A Titan is a Droval that has crossed a threshold, permanently, and every other terrifying thing about it follows from that.
 
 ---
 
@@ -86,7 +86,7 @@ Wild Droval claim immense hunting ranges and tolerate almost no intrusion unless
 
 ## Essence Architecture
 
-Droval do not cast spells, invoke Wellsprings, or refine Essence through a Soul Crystal in the way practitioners do, because they have nothing of that kind inside them. What they possess is older, simpler and more concentrated: a **bloodline permanently saturated with Winter-aligned Wellspring resonance** that has been breeding true for millennia.
+Droval do not cast spells, invoke Wellsprings, or refine Essence through a Soul Crystal in the way practitioners do, because they have nothing of that kind inside them. What they possess is older, simpler and more concentrated: a **bloodline permanently saturated with the resonance of Vohrin's cold** that has been breeding true for millennia.
 
 Their Essence expression is entirely **passive and environmental**. Their presence lowers ambient temperature. Their proximity suppresses natural sound through Harmonic resonance. Their vocalizations carry a sub-audible component that produces instinctive dread in nearby creatures. No mind control and no working is involved, only a primal terror sharpened by Wellspring resonance until it operates below conscious thought and above the threshold of physiological response. The body reacts before the mind identifies the threat. Heart rate rises, sweat comes, fine motor control degrades. At its root the terror is thermoregulatory: the body recognizing, at the deepest level of its survival, that the thing nearby is the cold itself, which is what the body evolved to flee.
 
@@ -152,7 +152,7 @@ Droval are creatures of deep cold, and while dominant in their native environmen
 
 **Bond exploitation.** Bonded Droval can be manipulated by threatening their rider, cubs, or den range. They often abandon optimal tactics in favor of direct protection, and a commander who has read this far knows what to do with that. A bonded Droval whose rider is threatened behaves like a mother whose child is in danger, the most dangerous thing in the world and also the easiest to predict.
 
-**Titan margin.** Titan Droval possess the same basic weaknesses on a much narrower margin. Only high-tier fire Essence, major heat Wellspring sites, Stage VIII+ fire-aspected practitioners, or elite coordinated multi-practitioner opposition can reliably exploit Titan weaknesses. Below that threshold, the weaknesses are theoretical.
+**Titan margin.** Titan Droval possess the same basic weaknesses on a much narrower margin. Only high-tier fire Essence, major Caloria sites, Stage VIII+ fire-aspected practitioners, or elite coordinated multi-practitioner opposition can reliably exploit Titan weaknesses. Below that threshold, the weaknesses are theoretical.
 
 ---
 

@@ -43,9 +43,10 @@ The spice galley *Salt Heron* went onto the rocks off Ushio Point with forty pir
 | **Family** | Materia (Material Science) |
 | **Affinity** | Matter |
 | **Method** | Kinesia (Direct Control), with **Corporis integration at Form VI and above** |
-| **Physics Domain** | Powder metallurgy, sintering, particulate aggregation, phase-state control |
+| **Physics Domain** | Material Science |
+| **Phenomenon** | Powder metallurgy, sintering, particulate aggregation, phase-state control |
 | **Output Cap** | **B Grade (176–275) per individual particle.** Aggregate constructs exceed this through structural composition, not per-unit density |
-| **Prerequisites** | C-Grade Gnosis (Diagnosis). Dexterity Equilibrium sufficient to maintain hand-contact nucleation under combat conditions |
+| **Prerequisites** | C-Grade Gnosis (Analysis). Dexterity Economy sufficient to maintain hand-contact nucleation under combat conditions |
 
 > Where a generalist Hylekinetic reshapes existing matter in place, a Rusashin practitioner **creates new matter from Essence, holds it in temporary existence, and uses its brief lifespan as a weapon.**
 
@@ -80,7 +81,7 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 
 ### Calmness
 
-**Not a technique. A Trait.** Once Rusashin has been nucleated in combat often enough, Gnosis Diagnosis integrates with the Coagulatio nucleation reflex, and particles begin appearing at threat-sites **before the practitioner consciously decides to place them.** A fist arriving at the jaw finds a pebble-cluster already forming at the point of contact.
+**Not a technique. A Trait.** Once Rusashin has been nucleated in combat often enough, Gnosis Analysis integrates with the Coagulatio nucleation reflex, and particles begin appearing at threat-sites **before the practitioner consciously decides to place them.** A fist arriving at the jaw finds a pebble-cluster already forming at the point of contact.
 > **Calmness is faster brain-responsiveness at the cost of output force.** Autonomous particles are smaller, less dense, less structurally sound. **They jab rather than strike. They deflect rather than block.**
 >
 > The tradeoff is not optional. **Calmness is a Trait, not a mode. Once crystallized, it runs continuously.**
@@ -106,7 +107,7 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 | **IX · The Dragon** *Russa* | Stage IX–X | A semi-autonomous construct of thousands of interlocking grains. **It is not alive. It is a sculpture that moves because every grain carries a fragment of the practitioner's Coagulatio intent.** Reforms from ambient Rusashin when damaged. Its striking force is the cumulative output of every grain along a single vector. *On impact it does not strike and withdraw.* *It detonates on contact**, every grain in the impact zone triggering its fault simultaneously* | 60,000–120,000 EU. **Single use at Form IX.** Full-body tremor; risk of uncontrolled nucleation if concentration breaks during formation |
 | **X · The Dragon Fist** *Russa no Kobushi* | Stage X+ | Complete sustained control of all nine prior Forms at once. The Russa can be maintained indefinitely and **fused to the body as a second skin that strikes with autonomous intent while the practitioner fights with their own fists inside it.** The terminal technique channels the dragon's entire aggregate force through a single punch, faults pre-seeded through the target on contact. *Silence first, then a delayed detonation as every fault propagates simultaneously. The ground craters* | 80,000–150,000+ EU per sustained minute. **Prolonged use ends in unconsciousness. The body does not warn before shutdown. The practitioner simply drops** |
 
-> ✅ **Resolved 2026-09-12.** This document previously named Stage IX "*Dominion*" and Stage X "*Convergence*". Per Isaac's ruling that the FOW/Codex Stage names govern, the numerals stand and the invented words are struck: **Stage IX is Invocation, Stage X is Realization**: matching the Nadi and Talos codices.
+> **For readers of older copies.** Some shelf copies call Stage IX "*Dominion*" and Stage X "*Convergence*". Neither word was ever on the ladder. **Stage IX is Invocation, Stage X is Realization**, as in the Nadi and Talos codices.
 
 ---
 
@@ -134,7 +135,7 @@ The B-Grade per-particle cap places Rusashin mid-tier in individual technique po
 ## Numbers
 
 - **Cap:** B Grade (176–275) per particle. Aggregates exceed it by composition.
-- **Prerequisites:** C-Grade Gnosis (Diagnosis), Dexterity Equilibrium enough to hold hand-contact nucleation in a fight.
+- **Prerequisites:** C-Grade Gnosis (Analysis), Dexterity Economy enough to hold hand-contact nucleation in a fight.
 - **Copy lifespan:** 2–3 seconds. Constructs without Fixatio dissolve in 2–3 seconds.
 - **Form I:** Stage III, 800–1,200 EU per handful.
 - **Form II:** Stage IV, 2,000–4,000 EU, shape holds 1–2 seconds after launch.

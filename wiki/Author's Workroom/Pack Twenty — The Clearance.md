@@ -83,7 +83,7 @@ Hydrology not combustion. Cities on sites. Class geography by draw distance. App
 - **R20C-39.** **Section One superseded.** Its sheet-versus-page split was written under Pack Seven. Pack Seventeen's six-line card governs, mechanism first. Surviving: "overuse strains him" always fails, and drawback numbers are physical, never metaphysical.
 - **R20C-40.** The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed. Runs with Ability Guide 6e.
 
-## The Four Crafts
+## The Working Trades
 
 - **R20C-41.** Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R20C-42.** Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood. **The gate applies to the working, not the technique** — a Stage V practitioner with an internalised technique still needs a medium.

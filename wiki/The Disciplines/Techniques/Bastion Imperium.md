@@ -35,7 +35,7 @@ Two boundaries move and the glyphs say so. Coagula moves the diffusion rate in t
 
 He pulls on the substrate and the ambient across all 314 m². The Residue is permanent, because sintered ground does not un-sinter: the ceramic footprint can be found by a surveyor years later, and a Harmonist (one who reads a place by ear) on an old bastion floor hears less than on bare rock. Materia favors mineral-rich rock, worked stone and deep foundations; open water, altitude and moving platforms suppress it, and the stance weakens with every meter lost from solid ground and on unstable terrain. The Aether Shell carries the projection and the Attraction Layer the claim on the ground. Developmental Tier is Radiant, where territorial durability makes a first true Domain possible, and the stance is the shape it first takes. Resilience Ward defends an own Domain above SS only through the Fate Path at Transcendence, read at S, so the stance defends its ground at S and never at SS.
 
-Above Refraction no anchor is needed, but it is declared aloud on purpose, Spellcraft, *Ars Vocis* (the voiced art): a bastion nobody heard declared is one nobody has to respect. Field fault: an airborne opponent, unstable ground or a substrate destabilized by Sublimatio leave the stance intact and useless. Structural fault: the Crystal fails in the legs and spine, and the ground fails at its residual pores. The bleed, 20 to 30 percent, 0.50 to 13.8 GW, goes into the ground as the heat that holds it at sintering temperature and out as the iron groan, with no light in it to speak of.
+Above Refraction no anchor is needed, but it is declared aloud on purpose, the speaking, *Ars Vocis* (the voiced art): a bastion nobody heard declared is one nobody has to respect. Field fault: an airborne opponent, unstable ground or a substrate destabilized by Sublimatio leave the stance intact and useless. Structural fault: the Crystal fails in the legs and spine, and the ground fails at its residual pores. The bleed, 20 to 30 percent, 0.50 to 13.8 GW, goes into the ground as the heat that holds it at sintering temperature and out as the iron groan, with no light in it to speak of.
 
 Correspondence is the theory that fits. The stance answers one practitioner's doctrine and no copyist's, which Consent cannot hold; practitioner and Wellspring are one law at two scales, briefly agreeing. An old school of natural philosophers holds that cohesion is a breath held in tension through matter, so the stance is one holding with practitioner and ground both inside. They err in putting the tension in the body alone, when the ground is a member of the working. Against a higher Stage the sum is simple: force above the S band is not covered and walks straight in.
 
@@ -51,7 +51,7 @@ Correspondence is the theory that fits. The stance answers one practitioner's do
 - **Family** · Materia (Coagula); Fulguria (Judicium)
 - **Physics Domain** · Material Science (Materia); Electromagnetism (Fulguria)
 - **Category** · Claustra
-- **Craft** · Spellcraft (*Ars Vocis*; declared)
+- **Skill** · Speaking (*Ars Vocis*; declared)
 - **Stage floor** · Stage VIII, Transcendence
 - **Grade required** · S-Grade
 - **Path gate** · Body, Fate

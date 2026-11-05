@@ -76,7 +76,7 @@ A person says aloud what they will do or will not do, and what it costs them if 
 
 **A kept vow pays twice.** Tempering Coherence is the match between a person's stated law and how they live, and it is the Crystal's honest scale at every [[The Magic System/The Soul and the Climb/The Sixteen Stages|Threshold]]. A vow kept buys that with conduct and not with money, so it is the cheapest advancement in the world, priced in the rest of your life. It clusters where Drafts do not reach: soldiers, hedge-workers, the orders and the poor. It is also the most reliable way ever found to grow a [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|Fate Path]], since Hyeon Do-sun sitting at the fourth gate at Kell Harbor was a vow being kept, daily, for seven years, in front of a Crystal that was counting.
 
-The filing clerks keep two drawers for all this. On the Unified Taxonomy a vow's working is **Votia**, a working whose currency is a declared price, and the seal it sets on the soul is **Claustra**, the only seal whose anchor is the bearer's own behavior. See [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories]].
+The filing clerks keep two drawers for all this. On the Unified Taxonomy a vow's working is **Votia**, a working whose currency is a declared price, and the seal it sets on the soul is **Claustra**, the only seal whose anchor is the bearer's own behavior. See [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories]].
 
 ---
 

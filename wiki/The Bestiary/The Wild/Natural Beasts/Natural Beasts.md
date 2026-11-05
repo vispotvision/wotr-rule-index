@@ -18,7 +18,7 @@ A natural beast may be the size of a longhouse and glow like a saint, and it was
 
 > *Tharvak*, Mountain's Fury, in Old Parunic. *Brakkar*, Stonebreaker, in the Innerworld dialect.
 
-**Natural Beast, Giantkin · T5, Extreme Threat · Earth-elemental Wellsprings with strong harmonic resonance tied to ancestral lineage · the Innerworld's high ranges**
+**Natural Beast, Giantkin · T5, Extreme Threat · Materia, Chthonica, with a strong Anamnesis resonance tied to ancestral lineage · the Innerworld's high ranges**
 
 A rare race of colossal humanoids born from the primal forces of Gaia's mountains. **Their ancestors were sculpted by elemental titans to guard ancient mountain passes and Wellspring sites**, and over millennia they developed the size and endurance to live where nothing else could.
 
@@ -40,7 +40,7 @@ Towering, **often exceeding three and a half meters**, with stone-gray or earthe
 
 > *Gorath*, One-Eyed Terror, in Old Parunic. **Stonebreaker** among mountain tribes.
 
-**Natural Beast, Giantkin · T5, Extreme Threat · Earth and Ancestral Wellsprings · rugged ranges, deep caves, and Wellspring caverns**
+**Natural Beast, Giantkin · T5, Extreme Threat · Materia, Monolithion and Chthonica · rugged ranges, deep caves, and Wellspring caverns**
 
 Colossal humanoids born from primal Wellspring forces and ancient elemental titans. **Legend says they were crafted as the first guardians of mountain Wellspring sites, forged from stone and spirit** to withstand the ravages of the ages.
 
@@ -60,9 +60,9 @@ Solitary and territorial. **Often slow-witted, and their cunning in combat and m
 
 > *Tharnok*, Horned Fury, in Old Parunic. **The Mazebreaker** among frontier clans.
 
-**Natural Beast, Labyrinth Guardian · T5, Extreme Threat · Earth and Ancestral Wellsprings · underground labyrinthine domains and ancient ruins**
+**Natural Beast, Labyrinth Guardian · T5, Extreme Threat · Vectoria's Petralon, with Materia's Monolithion · underground labyrinthine domains and ancient ruins**
 
-**Descendants of mortal beastkin and ancient Wellspring-infused lineages, born to guard sacred labyrinths and Wellspring sanctuaries.** Their origin is tied to the convergence of Earth and Ancestral Wellsprings deep within the Material World's underground realms.
+**Descendants of mortal beastkin and ancient Wellspring-infused lineages, born to guard sacred labyrinths and Wellspring sanctuaries.** Their origin is tied to the convergence of Petralon and Monolithion deep within the Material World's underground realms.
 
 Massive humanoid beasts with bull-like heads and horns, muscular torsos, thick hides. **Skin often mottled with stone-like texture; eyes glowing deep amber or earthen.** Many bear tribal tattoos or Wellspring runes etched into hide or armor.
 
@@ -78,9 +78,9 @@ Vulnerable to magic disrupting Earth Essence flow. **Less agile in open or flat 
 
 > *Tethyrath*, Ocean's Coil, in Old Mariner's Cant. *Myr'galar*, Wave Devourer, in Abyssal Tongue.
 
-**Natural Beast, Aquatic Colossus · T6, Domain Threat · Water-elemental Wellsprings, some variants Harmonic or Corrupted · the deep seas and coastal waters of the Material World**
+**Natural Beast, Aquatic Colossus · T6, Domain Threat · Fluxia, Thaloré, some variants Fulguria's Abyntheus or Limina's Nihiloth · the deep seas and coastal waters of the Material World**
 
-Ancient leviathanic creatures born from the confluence of Water-elemental Wellsprings and the deep ocean's primal forces. **Many scholars hold them among the first true giants to emerge in the Material World's oceans**, apex predators and keepers of the deep's mysteries. **Their presence is linked to the health of Wellspring sites near oceanic ley lines.**
+Ancient leviathanic creatures born from the confluence of Thaloré's Aether and the deep ocean's primal forces. **Many scholars hold them among the first true giants to emerge in the Material World's oceans**, apex predators and keepers of the deep's mysteries. **Their presence is linked to the health of Wellspring sites near oceanic ley lines.**
 
 Enormous serpentine bodies in smooth overlapping scales from deep blue to sea green and slate gray. **Eyes glowing faintly with watery light.** Elongated heads with rows of sharp backward-curving teeth; long fins and frilled gills line their sides.
 
@@ -98,9 +98,9 @@ Predatory and territorial. They patrol vast stretches of ocean, **generally avoi
 
 > *Vael'kar*, Shadow Howl, in Old Sylvaar. **The Silver Fang** among frontier hunters.
 
-**Natural Beast, Apex Predator · T3, Moderate Threat · Harmonic Wellsprings with minor Ancestral resonance tied to pack lineage · the dense forests and mountain borderlands of the Innerworld**
+**Natural Beast, Apex Predator · T3, Moderate Threat · Spatium, Transference, with a minor Anamnesis resonance tied to pack lineage · the dense forests and mountain borderlands of the Innerworld**
 
-Evolved from mortal wolf stock **and heavily influenced by Harmonic Wellsprings, which granted heightened intelligence, endurance and pack coordination.**
+Evolved from mortal wolf stock **and heavily influenced by Transference's Aether, which granted heightened intelligence, endurance and pack coordination.**
 
 Larger and more muscular than typical wolves, dense fur from silver-gray to deep charcoal. **Eyes gleaming intelligent amber or icy blue.** *Some packs bear faint Essence markings that glow subtly during hunts.*
 
@@ -118,9 +118,9 @@ Highly social and cooperative. **Packs are tightly-knit under alpha pairs**, and
 
 > *Rael'thor*, King of the Savannah, in Old Parunic. **Sunmaw** among desert tribes.
 
-**Natural Beast, Apex Predator · T4, High Threat · Harmonic Wellsprings with minor Solar Essence influence · the desert savannahs and grasslands of the Old and Outer Worlds**
+**Natural Beast, Apex Predator · T4, High Threat · Caloria, Pyraeon, with a minor Aurevane influence · the desert savannahs and grasslands of the Old and Outer Worlds**
 
-Evolved from mortal lion stock, uniquely adapted to harsh desert and savannah, **and infused with Harmonic Wellspring Essence granting enhanced strength, endurance, and a mystical aura that commands respect and fear.**
+Evolved from mortal lion stock, uniquely adapted to harsh desert and savannah, **and infused with Pyraeon's Essence granting enhanced strength, endurance, and a mystical aura that commands respect and fear.**
 
 Golden tawny fur shimmering faintly under sunlight. **Manes glow subtly with Wellspring energy, sometimes appearing as haloes of light.** Eyes blaze amber or fiery gold. *Scars and battle marks are common among pride leaders.*
 
@@ -138,9 +138,9 @@ Regal and fiercely territorial: **noble hunters and protectors of their prides**
 
 > *Grav'thar*, the Hidden Giant, in Old Parunic. **Wildershadow** among frontier tribes.
 
-**Natural Beast, Forest Colossus · T3, Moderate Threat · Ancestral and Harmonic Wellsprings with deep ties to primal forest Essence · the dense woodlands of the Material World**
+**Natural Beast, Forest Colossus · T3, Moderate Threat · Vitalia, Verdantia, with Anamnesis and deep ties to primal forest Essence · the dense woodlands of the Material World**
 
-Enormous elusive humanoids, **mortal-born but heavily influenced by Ancestral and Harmonic Wellsprings.** They have roamed ancient forests since the First Eon, **serving as protectors of sacred groves and ancient Wellspring sites**, blending with nature through subtle Essence manipulation.
+Enormous elusive humanoids, **mortal-born but heavily influenced by Verdantia and Anamnesis.** They have roamed ancient forests since the First Eon, **serving as protectors of sacred groves and ancient Wellspring sites**, blending with nature through subtle Essence manipulation.
 
 Massive ape-like humanoids **covered in thick dark fur mottled with moss and lichen.** Standing over three meters with broad shoulders and powerful limbs. Eyes gleaming with a soft greenish Essence glow, **and their movement is surprisingly silent for their size.**
 
@@ -158,9 +158,9 @@ Reclusive and wary. Mostly solitary or in small family groups. **Herbivorous, an
 
 > *Aelthar*, Sky Charger, in Old Parunic. **The Stormwing** among frontier riders.
 
-**Hybrid Beast, Aerial Mount · T4, High Threat · Harmonic and Air-elemental Wellsprings with a trace of Ancestral Essence · high peaks, open skies and enchanted forests**
+**Hybrid Beast, Aerial Mount · T4, High Threat · Fulguria, Cymorath, with Transference and a trace of Anamnesis · high peaks, open skies and enchanted forests**
 
-Noble hybrids born of majestic equine stock and fierce avian predators, **forged through Harmonic Wellspring energies that bless their lineage.** They have served as mounts to knights, sorcerers and warriors **since the Harmonial Age.**
+Noble hybrids born of majestic equine stock and fierce avian predators, **forged through Cymorath's Aether, which blesses their lineage.** They have served as mounts to knights, sorcerers and warriors **since the Harmonial Age.**
 
 The body of a powerful horse with the wings, head and talons of a great eagle. **Plumage shining gold, bronze or silver.** Eyes gleaming with sharp intelligence and keen perception.
 

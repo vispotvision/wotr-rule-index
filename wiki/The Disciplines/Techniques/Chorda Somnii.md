@@ -42,7 +42,7 @@ The theory is two scales of one law briefly agreeing, the Correspondence Positio
 - **Family** · Limina
 - **Physics Domain** · Entropy, Void and Mind
 - **Category** · Mnemata
-- **Craft** · Spellcraft
+- **Skill** · Speaking, held by gaze or lock for its three turns
 - **Stage floor** · Stage VI, Glory
 - **Grade required** · A-Grade
 - **Path gate** · Spirit

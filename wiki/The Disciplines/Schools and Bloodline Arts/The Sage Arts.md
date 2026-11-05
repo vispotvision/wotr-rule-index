@@ -25,7 +25,7 @@ TERRAIN AWAKENING! A dead wood takes a breath, a cold vent relights, and the pro
 |---|---|
 | **Secondary Categories** | Vocatia (Attraction-Aligned Recognition) · Ritus (Spirit-Aligned Ritual) · Mnemata (Spirit ↔ Attraction Memory) |
 | **Apex Integration** | Concordia (Spirit ↔ Attraction Apex) |
-| **Wellspring Home** | House of the Green Pulse: Verdantia, Anima Spirare, Benediction, Transference, Rebirthine |
+| **Wellspring Home** | Vitalia above all: Verdantia, Anima Spirare, Benediction, Rebirthine, with Transference from Spatium |
 
 ---
 
@@ -37,7 +37,7 @@ Nobody should mistake this for passivity. Alignment is among the most demanding 
 > The Sage becomes **the forest's voice** and must never become the forest, and the distinction between those two things is the entire discipline.
 The result is magic that looks effortless and feels borrowed. A Sage's constructs owe nothing to personal Essence; they are condensations of the terrain's own spiritual memory. A Sage's healing is the local Verdantia current flowing through their Shell into the patient, with the Sage acting as a low-resistance conductor the vein can use more efficiently than the ambient field alone. A Sage's battlefield influence is the amplification of whatever Wellspring processes the terrain already favors, turned from background hum into directed force.
 
-This makes the art profoundly location-dependent. A Sage harmonized with Verdantia is devastating in a living forest and nearly useless on a salt flat. One attuned to Manganthra operates at full capacity near volcanic vents and produces almost nothing in a temperate meadow. One aligned with Phreatis commands astonishing force near deep water and withers in dry stone corridors.
+This makes the art profoundly location-dependent. A Sage harmonized with Verdantia is devastating in a living forest and nearly useless on a salt flat. One attuned to Solfatara operates at full capacity near volcanic vents and produces almost nothing in a temperate meadow. One aligned with Phreatis commands astonishing force near deep water and withers in dry stone corridors.
 > The discipline's greatest power is also its most honest limitation: **the Sage can only speak what the land already knows.**
 
 ---
@@ -55,7 +55,7 @@ flowchart LR
 
 ### Pillar One · Attunement (Harmonia)
 
-**Environmental Attunement** is the foundational discipline of all Sage practice, and it begins with perception. Every location carries a resonant signature: the sum of all Wellspring processes currently operating there, layered with the historical echoes of processes that operated there previously. A Verdantia-saturated grove hums with growth-renewal. A Manganthra vent pulses with compressed catalytic force. A Phreatis-fed riverbank murmurs with memory-depth. A Tenebra-shadowed ruin vibrates with quiet dissolution.
+**Environmental Attunement** is the foundational discipline of all Sage practice, and it begins with perception. Every location carries a resonant signature: the sum of all Wellspring processes currently operating there, layered with the historical echoes of processes that operated there previously. A Verdantia-saturated grove hums with growth-renewal. A Solfatara vent breathes out steady, unending pressure. A Phreatis-fed riverbank murmurs with memory-depth. A Tenebra-shadowed ruin vibrates with quiet dissolution.
 
 Matching requires adjusting the Shell's own resonant frequency, governed by **Gate Cycling** (how smoothly resonance gates open and close) and **Turbulent Flow** (how much noise contaminates the Essence stream). Clean Gate Cycling and low Turbulent Flow attune within seconds. Poor Shell discipline takes minutes, loses Essence to friction, and risks dissonant interference that alerts the local field to the Sage's presence **as a foreign body rather than a compatible conductor**.
 
@@ -134,12 +134,12 @@ Theoretically compatible with any Wellspring, practical mastery clusters around 
 
 | Affinity | Terrain and constructs | Character | Corruption risk |
 |---|---|---|---|
-| **Verdantia** *House of the Green Pulse* | Forests, groves, farmland. Root-guardians, bloom-barriers, vine-networks. | The most common affinity. Regenerative healing conducted through living wood and fertile soil. They smell of loam and rain-wet herbs, and flowers tend to open as they walk past. | **Endless Spring.** The inability to let anything end, growth consuming everything as fertilizer. |
-| **Anima Spirare** *House of the Green Pulse* | Volcanic vents, deep caverns with geothermal breath, ley junctions. Breath-forms: warm, pulsing, ember-edged. | Rarer and more volatile. Their healing is rhythmic stabilization rather than regeneration: they restore the patient's Essence pulse rather than rebuilding tissue. They carry the scent of warm stone and clean smoke. | **Radiant Fever.** Life-force overdriven until the soul burns hollow. |
-| **Phreatis** *House of the Veil* | Rivers, aquifers, rain-heavy terrain, tidal coastlines. Memory-forms: fluid, reflective, carrying historical echo. | Deeply Mnemata-inflected. A Phreatis Sage at a riverbank can feel every grief, prayer, and oath spoken over that water for centuries. | **Drowning Memory.** The inability to distinguish personal history from absorbed environmental memory, until identity dissolves into the water's record. |
-| **Manganthra** *House of the Forge* | Geothermal activity, fault lines, mountain cores. Stone-forms that move with seismic deliberation. | Domain amplification turns terrain into a pressure cooker, ambient force concentrated until the ground itself becomes a weapon. | **Eruption Dependence.** Compulsive suppression of all emotional experience until catastrophic release becomes inevitable. |
-| **Tenebra** *House of the Black Gate* | Ruins, old battlefields, abandoned structures, shadowed forests. Shadow-forms: quiet, erosive. | The most unsettling affinity. Their healing is **subtractive**: they remove what should not be present rather than adding restorative force. | **Self-Erasure.** Identity dissolving into the absence they conduct, until they become a walking silence that forgets its own name. |
-| **Cymorath** *House of Ascent* | Plains, mountain ridges, coastal cliffs, high deserts. Wind-forms: fast, perceptive, ephemeral. | The finest scouts in the tradition, their conducted Attunement turning an entire wind system into a sensory network. | **Voicelessness.** Their own convictions scattered by the winds they conduct, until they can amplify everyone else's truth but no longer remember their own. |
+| **Verdantia** *Vitalia* | Forests, groves, farmland. Root-guardians, bloom-barriers, vine-networks. | The most common affinity. Regenerative healing conducted through living wood and fertile soil. They smell of loam and rain-wet herbs, and flowers tend to open as they walk past. | **Endless Spring.** The inability to let anything end, growth consuming everything as fertilizer. |
+| **Anima Spirare** *Vitalia* | Volcanic vents, deep caverns with geothermal breath, ley junctions. Breath-forms: warm, pulsing, ember-edged. | Rarer and more volatile. Their healing is rhythmic stabilization rather than regeneration: they restore the patient's Essence pulse rather than rebuilding tissue. They carry the scent of warm stone and clean smoke. | **Radiant Fever.** Life-force overdriven until the soul burns hollow. |
+| **Phreatis** *Vitalia, cross-listed Fluxia* | Rivers, aquifers, rain-heavy terrain, tidal coastlines. Memory-forms: fluid, reflective, carrying historical echo. | Deeply Mnemata-inflected. A Phreatis Sage at a riverbank can feel every grief, prayer, and oath spoken over that water for centuries. | **Drowning Memory.** The inability to distinguish personal history from absorbed environmental memory, until identity dissolves into the water's record. |
+| **Manganthra** *Caloria* | Ore seams, mineral beds, mountain cores. Stone-forms that move with seismic deliberation. | Domain amplification turns terrain into a pressure cooker, ambient force concentrated until the ground itself becomes a weapon. | **Eruption Dependence.** Compulsive suppression of all emotional experience until catastrophic release becomes inevitable. |
+| **Tenebra** *Limina* | Ruins, old battlefields, abandoned structures, shadowed forests. Shadow-forms: quiet, erosive. | The most unsettling affinity. Their healing is **subtractive**: they remove what should not be present rather than adding restorative force. | **Self-Erasure.** Identity dissolving into the absence they conduct, until they become a walking silence that forgets its own name. |
+| **Cymorath** *Fulguria* | Plains, mountain ridges, coastal cliffs, high deserts. Wind-forms: fast, perceptive, ephemeral. | The finest scouts in the tradition, their conducted Attunement turning an entire wind system into a sensory network. | **Voicelessness.** Their own convictions scattered by the winds they conduct, until they can amplify everyone else's truth but no longer remember their own. |
 
 ---
 

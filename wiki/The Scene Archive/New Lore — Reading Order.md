@@ -32,7 +32,7 @@ The scenes archived after the 2026-10-18 lore reset, in reading order. Two threa
 | 19 | [[Scenes/The Uncounted, Chapter Eight The Inheritance]] | Muken |
 | 20 | [[Scenes/The Uncounted, Chapter Nine The Queen's Will]] | Muken, the Keld |
 | 21 | [[Scenes/The Uncounted, Chapter Ten The Red Line]] | Muken |
-| 22 | [[Scenes/The Uncounted, Chapter Eleven By My Honour]] | Muken |
+| 22 | [[Scenes/The Uncounted, Chapter Eleven By My Honor]] | Muken |
 | 23 | [[Scenes/The Uncounted, Chapter Twelve The Woodpile]] | Muken |
 | 24 | [[Scenes/The Uncounted, Chapter Thirteen The Skeldmere]] | Muken |
 | 25 | [[Scenes/The Uncounted, Chapter Fourteen The Seat Road]] | Muken |

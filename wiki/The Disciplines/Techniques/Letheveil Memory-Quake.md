@@ -46,7 +46,7 @@ The Wax-Tablet school reads memory as wax taking impressions and forgetting as a
 
 **Category** · Mnemata
 
-**Craft** · Spellcraft
+**Skill** · Speaking, internalized and reactive, so it cannot be cast below Refraction
 
 **Stage floor** · Stage VII, Refraction
 

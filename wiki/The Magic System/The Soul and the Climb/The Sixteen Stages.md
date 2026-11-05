@@ -45,12 +45,12 @@ What follows sits underneath them. Each Stage is given four ways: **the ledger l
 
 ### The Bought Stage
 
-Stages can simply be bought, and the wealthy are stronger because they are wealthy. A breakthrough Draft or a blessing delivers the Catalyst, the Crystal goes to the melt, and the soul comes out on the next rung with the stat ceiling, the Band gate and the color to prove it. The great houses hoard the top Drafts, and a house child may be four Stages up before the first real fight. The poor rise by dungeon luck, guild patronage and blessings, and every lord in the four quarters lies awake over the first of those.
+A breakthrough Draft or a blessing delivers the Catalyst, the Crystal goes to the melt, and the soul comes out on the next rung with the stat ceiling, the Band gate and the color to prove it. A house child may be four Stages up before the first real fight. The trade and its law are on [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], and every lord in the four quarters lies awake over the dungeon luck on the other side of it.
 
-A bought Stage opens the door and no more. What it lacks is exact, and the halls can list it from across a yard:
+What a bought Stage lacks is exact, and the halls can list it from across a yard:
 
-- **Every Release.** A First is possible from IV, a Second from VII, a Third from IX, and each must be found and mastered by fighting. A rich Stage IX may have none, while a poor fighter at the same Stage has all three.
-- **The Domain.** Anyone at Stage VIII can have one. Somebody still has to find theirs.
+- **Every [[The Magic System/The Soul and the Climb/Release Forms|Release]].** A First is possible from IV, a Second from VII, a Third from IX, and each must be found and mastered by fighting. A rich Stage IX may have none, while a poor fighter at the same Stage has all three.
+- **The [[The Magic System/The Soul and the Climb/Domains|Domain]].** Anyone at Stage VIII can have one. Somebody still has to find theirs.
 - **The Level.** The new ceiling sits empty until danger overcome fills it, and a thin Level at a high Stage is the commonest cause of death among heirs.
 - **The Path gates.** The Crystal goes on reading what the soul actually does.
 - **Techniques and skills.** Those rise by doing them.
@@ -68,7 +68,7 @@ A bought Stage opens the door and no more. What it lacks is exact, and the halls
 | II | **Welling** | 2 · Apprentice | D | 100 |
 | III | **Ascension** | 3 · Journeyman | C | 175 |
 | IV | **Flourishing** | 4 · Adept | B | 275 |
-| V | **Splintering** | 5 · Expert | B, instability above 320 | 350 |
+| V | **Splintering** | 5 · Expert | B, unstable from 276 to 350 | 350 |
 | VI | **Glory** | 5 · Expert | A | 400 |
 | VII | **Refraction** | 5 · Expert | A with late push to S | 475 |
 | VIII | **Transcendence** | 6 · Master | S | 550 |
@@ -107,7 +107,7 @@ What opening does not do is hand the child anything new. Traits (standing laws a
 
 **Tier 2 · Apprentice · Grade D · Ceiling 100 · Levels 26 to 50**
 
-**Catalyst** · first genuine contact with a Wellspring's raw Aether under personal pressure (a Wellspring being one of the sixty types of Aether and the governing idea it carries, an alchemical and spiritual transformation that changes how a soul uses its power, with its own physical law as the scholars explain it, and pooling at sites common speech calls Cores, most of them at the heart of a dungeon): touched and survived, where watching and instruction count for nothing
+**Catalyst** · first genuine contact with a Wellspring's raw Aether under personal pressure (a Wellspring being one of the Sixty, the governing idea that changes how a soul uses its power, pooling at sites common speech calls Cores, most of them at the heart of a dungeon): touched and survived, where watching and instruction count for nothing
 
 ***The one they tell*** · Annis Cobb of Thatcher's Row wanted the bread oven hotter. She was eleven, it was the coldest morning of that winter, and the week before, down at the old Core in Cobble Fen, she had touched something she had told nobody about. The oven went, then the bakehouse, then nineteen roofs in a long sheet of orange that brought the whole valley out to look. Four people died in it, among them the baker, the kindest man on the Row. By the next market a sect recruiter in a green coat had paid her parents forty silver marks and driven her off in a cart, and the town was selling views of the scorch at a copper a head before she was out of sight.
 
@@ -151,7 +151,7 @@ Some people weep. Most do not. The recorded pattern across four centuries of ins
 Identity settles. The resonance signature that will be recognizably yours for the rest of your life finishes arriving. Techniques that were separate tricks cohere into something with a style to it, and for most practitioners this is the most physically pleasant experience of their lives, a warmth low in the chest that does not go away for weeks and that nobody who has had it describes well.
 
 And on the lived road it cannot be reached alone.
-> The Catalyst is a Spirit Axis. Which means every Flourished practitioner in the four quarters who walked here, every hall-raised Adept, every guild officer, every Baron's champion and every hedge-mage who ever stabilized without a vial, arrived because somebody mattered to them enough to hold load. **The Stage that stabilizes the self is gated on attaching the self to another person**, permanently, in a way that registers on an instrument. A Stage IV who drank the Catalyst has the warmth in the chest and nobody on the other end of it, and the instrument shows that too.
+> The Catalyst is a Spirit Axis. Which means every Flourished practitioner in the four quarters who walked here, every hall-raised Adept, every guild officer, every Baron's champion and every hedge-mage who ever stabilized without a vial, arrived because somebody mattered to them enough to hold load. **The Stage that stabilizes the self is gated on attaching the self to another person**, permanently, in a way that registers on an instrument. A Stage IV who drank the Catalyst has the warmth in the chest and nobody on the other end of it. The coil reads the Stage the same however it was crossed, and it reads the seat differently (Appendix A), and the empty bond shows there.
 ***From outside*** · Consistency. Their power looks like them. You can hand them a problem they have never seen and predict roughly what they will do to it, and being predictable in that specific way is the difference between a talented person and a useful one.
 
 What is not visible from outside is that an Axis is a load-bearing member. The architecture built on it has to stand up whether or not the person is still alive to stand under it. Every Prime Instructor has seen what a Flourished practitioner does the year their Axis dies. The power holds. The power is entirely fine, and it is still shaped exactly like a bond to somebody who is not there.
@@ -170,9 +170,9 @@ What is not visible from outside is that an Axis is a load-bearing member. The a
 
 ### V · Splintering
 
-**Tier 5 · Expert · Grade B, instability above 320 · Ceiling 350 · Levels 101 to 150**
+**Tier 5 · Expert · Grade B, unstable from 276 to 350 · Ceiling 350 · Levels 101 to 150**
 
-**Catalyst** · surviving contact with an entity or force more than two full Tiers above the practitioner's ceiling. Survival is the whole requirement, and defeating the thing adds nothing.
+**Catalyst** · surviving contact with an entity or force more than two full Grades above the practitioner's ceiling. Survival is the whole requirement, and defeating the thing adds nothing.
 
 ***The one they tell*** · A Well-spawn drake at Cold Ferry took Yrsa Kolbeinsdottir across the chest with its tail when she was a Stage IV caravan guard with nine good years behind her, and she went through the side of a barge and lived. The Crystal broke where she was already broken, which happened to be a sister. For the twenty years of her loud and highly profitable career after that, every blow she threw went true until somebody said the name, whereupon hairline veins of blue ran through her aura and it stuttered like a struck lamp. Every rival in the north learned it. Whole companies would stand in line abreast bawling **"HELGA! HOW'S HELGA?"** across a field, at odds posted in advance, and Yrsa, who was nobody's fool, took to fighting with tallow in her ears and killing the loudest one first.
 
@@ -209,7 +209,7 @@ The Catalyst is a decision, and it is the first Catalyst in the ladder that is. 
 
 **Tier 5 · Expert · Grade A with late push toward S · Ceiling 475 · Levels 176 to 200**
 
-**Catalyst** · first Domain seed activation, however fragile or small. Projected fields become coherent.
+**Catalyst** · first Domain seed activation, however fragile or small. Projected fields become coherent. This seed is a one-time flicker of the person's own Trait at the Threshold, and it needs no Release. The Second Release is what later lets a seed be called and held.
 
 ***The one they tell*** · Gaffer Tom Underhay of the Salt Road Foot had sat at Level 199 for twenty-two years and told everyone about it. He was fifty-seven, with a wall eye and a pension dispute, and on the night of the Mule and Lantern brawl somebody told him the Refraction wall was for men with better fathers. He stood up, and for four seconds every pint in that taproom fell upward. There were sixty witnesses. They describe it wrongly, each in exactly the same way, and all of them will swear the beer turned green. The Foot carried him the whole length of the garrison road on a door, with a band in front. Next morning he looked inside his own Crystal, found out what his fracture record had to say about his father, and did not speak to anyone for a year.
 
@@ -219,10 +219,10 @@ The Crystal that has been the unconscious medium of everything you have ever don
 
 The trouble is that self-examination at this depth reveals the fracture record. Everything Splintering promoted to a load path is now visible, labeled, and impossible to un-see.
 
-***From outside*** · A Domain seed. Small, fragile, often lasting seconds at its first firing, and the first genuinely uncanny thing most people will ever witness, because a Domain seed is a piece of the world briefly agreeing to different terms. Bystanders describe it wrongly and consistently, and the consistency of the wrongness is the best evidence Archives has that they are describing something real.
+***From outside*** · A [[The Magic System/The Soul and the Climb/Domains|Domain]] seed. Small, fragile, lasting seconds at its first firing, and minutes for those who later earn a Second Release and can call it back, and the first genuinely uncanny thing most people will ever witness, because a Domain seed is a piece of the world briefly agreeing to different terms. Bystanders describe it wrongly and consistently, and the consistency of the wrongness is the best evidence Archives has that they are describing something real.
 > **The wall at two hundred.** Band II ends at Level 200 and the Threshold that opens Band III is Refraction. A practitioner who cannot produce a Domain seed or pay for one does not slow down. The counter halts and the pressure keeps arriving, accruing as **Residual Strain**, degrading gain and raising Overchannel (forcing more through the Crystal than it can carry) and Backlash (a working's force turning on its maker) risk continuously, and it does not stop building.
 >
-> This is where most working careers end, in a long loud stall in the high hundred-and-nineties: strong, competent, slowly becoming more dangerous to themselves than to anything they are pointed at, telling anyone who will buy the next round exactly who cheated them and which house brat drank past them, and dying of something else first. **Every veteran corps in the four quarters is largely composed of these people,** and their bitterness is a structural feature of the Accord's officer class rather than a matter of temperament.
+> This is where most careers that reach Band II end, in a long loud stall in the high hundred-and-nineties: strong, competent, slowly becoming more dangerous to themselves than to anything they are pointed at, telling anyone who will buy the next round exactly who cheated them and which house brat drank past them, and dying of something else first. **Every veteran corps in the four quarters is largely composed of these people,** and their bitterness is a structural feature of the Accord's officer class rather than a matter of temperament.
 ***What the folk call it*** · **The double sight.** Twice-eyed. In the eastern quarter, a Refracted practitioner is said to have **swallowed their own reflection**, which is a considerably better description than the Codex manages in the same number of words.
 
 ---
@@ -235,7 +235,7 @@ The trouble is that self-examination at this depth reveals the fracture record. 
 
 **Tier 6 · Master · Grade S · Ceiling 550 · Levels 201 to 250**
 
-**Catalyst** · resolving a core internal contradiction documented in the Crystal's fracture record. A wound carried as structural damage and consciously processed into architecture. The first true Domain forms.
+**Catalyst** · resolving a core internal contradiction documented in the Crystal's fracture record. A wound carried as structural damage and consciously processed into architecture. The first true Domain becomes possible.
 
 ***The one they tell*** · The Gate of Asahina Shigeko is the reason the Free Companies will still not march past a shut door at dusk. She had left a gate unbarred behind her when she was twenty-six, and a household died of it, and she carried that wound for forty years until she stopped on the Kaname road one autumn evening, with the maples going scarlet over her head and six hundred armored men coming up the hill, and put her whole weight on it. *Kaerazu no Mon*, she said, almost too low to hear: the Gate of No Returning, and the word went down the column from mouth to mouth. The road became a place where every door behind you was the one you should have shut. Six hundred men walked into it. They walked out three weeks later in their own home villages, with their armor rusted through and their swords still in their hands, and in sixty years not one of them could tell you what they had been so frightened of, or get through a doorway without looking back.
 
@@ -245,7 +245,7 @@ The Catalyst is the hardest on the lived road and the only one no hall can arran
 
 Practitioners fail at this for decades. There is no shortage of S-Grade-capable souls sitting at the Stage VII ceiling in comfortable positions who simply never did the work, and the halls are polite about it, and everybody knows.
 
-***From outside*** · A Domain, a true one, well past the seed: a standing region of the world operating on the practitioner's terms while they are present in it, and the first time most people encounter one they are frightened in a way they cannot afterwards justify. Anyone at this Stage can have one, their own concept made real, with the fame, the rivals and the bounty that follow. A bought Stage VIII has the right to one and no Domain until they have fought their way to it, and a person standing in a duke's colors at Stage VIII with nothing to open is a sight the songs enjoy.
+***From outside*** · A Domain, a true one, well past the seed, grown by living and called aloud: a standing region of the world operating on the practitioner's terms while they are present in it, and the first time most people encounter one they are frightened in a way they cannot afterwards justify. Anyone at this Stage can have one, their own concept made real, with the fame, the rivals and the bounty that follow. A bought Stage VIII has the right to one and no Domain until they have fought their way to it, and a person standing in a duke's colors at Stage VIII with nothing to open is a sight the songs enjoy.
 
 ***What the folk call it*** · Folklore thins here, because folklore is what a community builds around a thing it lives beside, and communities do not live beside Stage VIII. What exists instead is story. Named individuals, remembered feats, and the beginnings of the process by which a person becomes a figure. The Accord's Lattice Ledger and the ballad tradition begin describing the same people at roughly this Stage and stop agreeing almost immediately.
 
@@ -253,7 +253,7 @@ Practitioners fail at this for decades. There is no shortage of S-Grade-capable 
 
 **Tier 6 · Master · Grade S with late push toward SS · Ceiling 625 · Levels 251 to 275**
 
-**Catalyst** · calling on Wellsprings, Titans, or Archonic law as co-authors of expression. The Domain consolidates into a Realm capable of holding other Domains.
+**Catalyst** · calling on Wellsprings, Titans, or Archonic law as co-authors of expression, and with it a first flicker of a Realm, a field capable of holding other Domains. Like the seed before it, that flicker comes once and needs no Release. The Third Release is what makes a Realm.
 
 ***The one they tell*** · At the siege of Dornhold the Ember Deacon Clement Tull asked. That is how the song puts it, and for once the song is precise. The Duke's marshal had opened a Domain over the walls, an honest thing of iron-gray weight that had been breaking ladders for a month, and Tull knelt in the ditch in a scorched orange cope and called on the Wellspring by its name, and something that was not Tull answered.
 
@@ -263,7 +263,7 @@ His field went round the marshal's field and closed, and the marshal's Domain hu
 
 Every technique before this was the practitioner's Crystal doing something. From Invocation, the practitioner asks, and something larger answers, and the answering is literal, unreliable and expensive. The Wellspring is a co-author. Co-authors have their own preferences and they exercise them.
 > The recorded psychological pattern is the most consistent in the ladder. Practitioners entering Invocation describe an enormous relief followed within a year or two by something considerably worse, as they work out that the relief was the sensation of no longer being solely responsible for their own output, and that the thing they handed responsibility to did not sign anything.
-***From outside*** · A Realm. The Domain has become capable of holding other Domains inside it, which is the point at which Stage IX practitioners become a strategic rather than a tactical consideration, and the point at which the Strategic Division starts keeping a file.
+***From outside*** · For those with a Third Release, a Realm. The Domain has become capable of holding other Domains inside it, which is the point at which Stage IX practitioners become a strategic rather than a tactical consideration, and the point at which the Strategic Division starts keeping a file.
 
 ***What the folk call it*** · Nothing. Ordinary people do not have a word for Stage IX and have never needed one. The ecclesiastical traditions have several and they disagree with each other and with the Accord, and the disagreement is four hundred years old and is really an argument about whether the Wellspring answering constitutes divine favor or merely a lawful process, which is the same argument the Holy See and the Codex have been having about everything since Year Zero.
 
@@ -402,19 +402,21 @@ It is perpetual. It does not resolve into anything. It is a soul pressing foreve
 > *"Seated clean, and you can hear it. Seated rough, and so can everybody else."*
 Each Threshold is a structural reorganization, and whatever is in the Crystal at the moment of reorganization is built into what comes out. The residue of that is called **the seat**, from the joiner's word, because the trade took its vocabulary from people who fit things into other things for a living and had no patience for metaphysics.
 
+A soul's **carry** is whatever it has taken on from the stock it was tempered with, the origin that comes along with the Essence, graded by provenance Class on [[Materials, Alchemy & Trade/Alchemy/The Standing Index|The Standing Index]] (so "Index Class IV" below is a grade of stock, and has nothing to do with a Class on the Shell).
+
 A **clean seat** is carry that integrated evenly. The signature reads as one thing. Output is consistent, Traits hold, techniques behave the same way in the fourth hour as in the first.
 
-A **rough seat** is carry from four classes and nine sources, none of it fully integrated, the signature reading as a chord with a wrong note in the middle of it. Rough-seated practitioners are not weaker. Several of the most feared individuals in the four quarters are catastrophically rough-seated and that is precisely why nobody can predict them.
+A **rough seat** is carry from four Index Classes and nine sources, none of it fully integrated, the signature reading as a chord with a wrong note in the middle of it. Rough-seated practitioners are not weaker. Several of the most feared individuals in the four quarters are catastrophically rough-seated and that is precisely why nobody can predict them.
 > **What decides a seat.** A Threshold is a melt, and a melt does not cool into order unaided. Something must survive the heat for the new lattice to grow around, and the only structures in a Crystal that do are **Traits**, because a law the Continuum has already accepted as reliable does not stop being reliable at temperature.
 >
 > Seeds that agree cool clean. Seeds that contradict each other cool rough, and the lattice keeps the argument. **No adequate seed at all and the melt cools amorphous:** the Stage does not advance, Clarity and Compression fall, a Trait is commonly lost outright, and the halls record a **Dead Set**. The trade word for the result is **slag**.
 >
-> Carry, Drafts and rendered stock work by supplying seed the soul did not produce, and at the breakthrough grades the Catalyst along with it. That is the whole of what they do, it is real, and it is the reason a purchased seat reads differently on the coil from an earned one.
+> Carry, Drafts and rendered stock work by supplying seed the soul did not produce, and at the breakthrough grades the Catalyst along with it. That is the whole of what they do, it is real, and it is why the coil, which reads a bought Stage and a fought one the same, reads a purchased seat differently from an earned one.
 The coil reads a seat in under a minute, and everything below follows from that.
 
 ### What the reading is used for
 
-**Certification** · Examinations read the seat before they read output, and a rough seat caps certifiable rank at Tier Four regardless of demonstrated capability. The stated reason is structural safety and the stated reason is true. The Accord has never addressed the other thing that is also true.
+**Certification** · Examinations read the seat before they read output, and a rough seat bars its owner from any appointment or certificate above Tier Four, whatever title their token reads off the Stage table and whatever they can demonstrate. The stated reason is structural safety and the stated reason is true. The Accord has never addressed the other thing that is also true.
 
 **Marriage** · Negotiations between the great houses now involve a coil reading as routinely as a survey of the land, and for the same reason, since both are asking what the children will inherit.
 
@@ -426,16 +428,16 @@ The coil reads a seat in under a minute, and everything below follows from that.
 
 | Tell | What it reads |
 |---|---|
-| **Cold hands that never warm** | Class III carry off cold-blooded stock, poorly integrated. Holds in roughly two cases out of three. The exceptions are people with bad circulation. |
+| **Cold hands that never warm** | Index Class III carry off cold-blooded stock, poorly integrated. Holds in roughly two cases out of three. The exceptions are people with bad circulation. |
 | **The flicker** | Traits coming and going without pattern. This one has left folklore behind: it is documented Essence Starvation behavior in an architecture carrying more unintegrated carry than its Capacity supports, and the folk reading and the clinical reading agree exactly. |
 | **Draft-mark** | Faint discoloration in the sclera or under the nailbeds, keyed to the rendered source. Renderers name the beast from the color with a reliability that embarrasses the Archives, and nobody has taught it to anyone who did not grow up in a rendering house. |
-| **The appetite** | Class III carry off a predator seats an appetite that is not yours. It leaves a man no more of a killer than he was and makes him hungry in a way he cannot locate and did not ask for, and the eastern rendering districts have a word for it that the Accord's translators decline to render into the common tongue. |
+| **The appetite** | Index Class III carry off a predator seats an appetite that is not yours. It leaves a man no more of a killer than he was and makes him hungry in a way he cannot locate and did not ask for, and the eastern rendering districts have a word for it that the Accord's translators decline to render into the common tongue. |
 
 ### What the coil is actually reading
 
-A highborn heir tempered on entered, warranted, three-mark stock is seated clean, and the visible consequence is that their power is boring. Legible, consistent, well-behaved and boring, and the halls certify it to Tier Seven without a raised eyebrow because it will never surprise anybody.
+A highborn heir tempered on entered, warranted, three-mark stock (all three Index readings on file and good) is seated clean, and the visible consequence is that their power is boring. Legible, consistent, well-behaved and boring, and the halls certify it to Tier Seven without a raised eyebrow because it will never surprise anybody.
 
-A gutter-seated practitioner out of an eastern district is unpredictable, occasionally extraordinary, and structurally barred at Tier Four.
+A gutter-seated practitioner out of an eastern district is unpredictable, occasionally extraordinary, and barred from every certificate above Tier Four.
 > Both are measurements. Neither is a lie. **The instrument is honest and it is reading, with perfect accuracy, what somebody's parents could afford.**
 
 ---
@@ -449,8 +451,10 @@ A gutter-seated practitioner out of an eastern district is unpredictable, occasi
 | **I to II** | Sour Iron Filings and Hearth Ward Wax. T1, coppers, available in any market. Nobody's advancement is gated here. This is the last Stage of which that is true. |
 | **II to III** | Metering Tonic (T2) and Hillcarry Salts (T3). The guild ration begins. A village child reaches Ascension on the hill and the buckets; a bonded child reaches it in a third the time on Hillcarry, and both arrive, and only one of them arrives at fifteen. |
 | **III to IV** | Ascension Ration, Accord Standard (T4). Issued at cost against future commission, and it buys Flourishing's quantitative floor, while what the Accord buys is the term. The Catalyst is a Spirit Axis, and for those with real money a breakthrough Draft supplies it, with nobody on the other end of the bond. |
-| **IV to V** | Splinter Ration (T5, reserved). Decides where the fracture runs, and does nothing to stop it coming. This is the single most consequential product in the Standing Index for who a person becomes and it is not available to anybody outside the Accord. A breakthrough Draft can spare the buyer the meeting with something two Tiers up, and Corvin Hathersage's goose is the standing warning about what else may be in the room. |
+| **IV to V** | Splinter Ration (T5, reserved). Decides where the fracture runs, and does nothing to stop it coming. This is the single most consequential product in the Standing Index for who a person becomes and it is not available to anybody outside the Accord. A breakthrough Draft can spare the buyer the meeting with something two Grades up, and Corvin Hathersage's goose is the standing warning about what else may be in the room. |
 | **V to VI** | Breakthrough Draft, at the first truly ruinous price on the ladder. The Catalyst is a decision to accept soul-cost for something, and the halls swore for centuries that nobody could sell that. Four houses sold it before anyone would admit it worked, and the early attempts are in the Striking record. The cost still gets paid. |
-| **VI to VII** | Refraction Draught (T6) and Domain Seed Vitrifier (T6). Both reserved. Both Class IV. From here upward, advancement runs on Crystal Draw (Class IV stock, rendered from something that carried a Soul Crystal). The lawful article is a monster's core, worth more the stronger the monster, and everybody in the trade knows what the other article is. |
-| **VII to X** | Class IV throughout, reserved to Tier Six and above, procured through channels the Bench grades and does not attribute. The arithmetic between lawful supply and circulating volume has never balanced and no Division has been assigned to reconcile it, because a Crystal cut from a dead practitioner renders the strongest Draft of all, the worst crime in every realm and the most profitable. |
-| **X and beyond** | No shelf and no posted price. The law sets no upper limit, and the Drafts that carry a soul this high are rendered from Crystals of that height or made as Master Works, and they sit in great-house vaults, in graves, or in the bellies of ambitious second sons. A blessing from something large enough does the same work and spends the giver almost nothing. On the lived road Dissonance is walked into, Emanation is emerged from, and Zenith is conferred by a Hollow Throne. Whether a Throne can be brought to recognize what a purse has built is the oldest open fight among Measurewrights, and nobody on either side has produced the Throne's opinion. |
+| **VI to VII** | Refraction Draught (T6) and Domain Seed Vitrifier (T6). Both reserved. Both Index Class IV. From here upward, advancement runs on Crystal Draw (Index Class IV stock, rendered from something that carried a Soul Crystal). The lawful article is a monster's core, worth more the stronger the monster, and everybody in the trade knows what the other article is. |
+| **VII to X** | Index Class IV throughout, reserved to Tier Six and above, procured through channels the Bench grades and does not attribute. The arithmetic between lawful supply and circulating volume has never balanced and no Division has been assigned to reconcile it, for the reason [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]] gives under the great crime. |
+| **X and beyond** | No shelf and no posted price. The law sets no upper limit, and the Drafts that carry a soul this high are rendered from Crystals of that height or made as [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Works]], and they sit in great-house vaults, in graves, or in the bellies of ambitious second sons. A blessing from something large enough does the same work. On the lived road Dissonance is walked into, Emanation is emerged from, and Zenith is conferred by a Hollow Throne. A purse can buy the Catalyst for any Stage, and at Zenith a Throne must still recognize the buyer, so money buys the attempt and not the seat. A number of very rich people have sat a long time on a very cold mountain, in excellent furs, finding this out. |
+
+*Read next: [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], for how the climb joins the rest of the system.*

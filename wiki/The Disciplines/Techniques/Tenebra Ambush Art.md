@@ -4,7 +4,7 @@ title: "Eight Paces of Nothing"
 
 # EIGHT PACES OF NOTHING
 
-*Spellcraft, Vectra, Stage VI. The scholars' term is the Tenebra Ambush Art, and a hunter who lived asked for no other name but this one.*
+*Speaking, Vectra, Stage VI. The scholars' term is the Tenebra Ambush Art, and a hunter who lived asked for no other name but this one.*
 
 The Subtractive school trains alone in the dark to find the true, unwatched self, and the school's founder, Dame Averil Coe, was the most terrifying sight in three provinces if you were looking at her from the front. She came for the Earl of Sedge at his own midsummer revels, through the dimmest corner of a hall hung with a thousand paper lanterns, and for one perfect breath she was the absence everyone wanted her to be. A small girl under a table, on the side nobody plans for, shouted that the lady was very shiny. Dame Averil was, from that bearing, the brightest thing in the room. The earl's cook hit her with a ham.
 
@@ -77,11 +77,11 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 
 **Family** · Limina (Tenebra) · Vectoria (Petralon)
 
-**Physics Domain** · Abstract-Entropic Systems (Tenebra) · Mechanics (Petralon)
+**Physics Domain** · Entropy, Void and Mind (Tenebra) · Mechanics (Petralon)
 
 **Category** · Vectra (Body ↔ Attraction: motion, direction and short-range spatial closure; the same category that governs Aetherstep-class techniques)
 
-**Craft** · Spellcraft
+**Skill** · Speaking, declared, with a word or the striking hand as anchor below Refraction
 
 **Stage floor** · Stage VI, Glory
 
@@ -93,7 +93,7 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 
 **Governing Primary Stat** · Dexterity (358, A-Grade)
 
-**Sub-Stats** · Dexterity Silence (386, its author's documented peak) governing; Harmonics Suppression and Dominion Sense, the two Tenebra strengthens per current Wellspring law
+**Sub-Stats** · Dexterity Feint (386, its author's documented peak) governing; Harmonics Suppression and Dominion Sense, the two Tenebra strengthens per current Wellspring law
 
 **Stage floor** · Stage VI, Glory
 

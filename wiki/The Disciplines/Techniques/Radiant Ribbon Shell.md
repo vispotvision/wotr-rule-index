@@ -4,7 +4,7 @@ title: "The Truthbound Gale"
 
 # THE TRUTHBOUND GALE
 
-*Spellcraft, Harmonia, Stage VII rising to VIII. The scholars' term is the Radiant Ribbon Shell.*
+*Chanting, Harmonia, Stage VII rising to VIII. The scholars' term is the Radiant Ribbon Shell.*
 
 When the cog *Margery Tun* broke her back on the Skar in a gale, with rain coming in sideways and the sea the color of old copper, Choir-sister Bettany Ruck stood on the poop and laid one sentence across two hundred and fifty meters of screaming water to the men on the headland: the line is coming on your left. They heard it as if she stood at their shoulder. Forty-one came ashore along that rope. Then someone on the rocks called out asking if the master was alive, and she said yes, and he was not, and the next thing she tried to say fell into the sea twenty meters out with a hiss. She rode the last of the wreck in with her jaw clenched and has told the truth about everything since, at some cost to her friendships.
 
@@ -75,11 +75,11 @@ A Collegium figure school, from sand drawing mode shapes on a bowed plate, holds
 
 ### Codex line
 
-Wellspring Judicium (primary, Fulguria, Electromagnetism), Cymorath (secondary, Fulguria, Electromagnetism), Anamnesis (tertiary, Limina, Entropy/Void/Mind). Category Harmonia. Craft Spellcraft. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Attraction Path.
+Wellspring Judicium (primary, Fulguria, Electromagnetism), Cymorath (secondary, Fulguria, Electromagnetism), Anamnesis (tertiary, Limina; Entropy, Void and Mind). Category Harmonia. Skill Chanting, held as long as the pattern is breathed. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Attraction Path.
 
 ### FOW line
 
-Governing Primary Harmonics (Fidelity, Attunement) and Dexterity (Burst, Finesse). Stage floor VII, Refraction, ascending to VIII, Transcendence. Grade required A-Grade at floor, S-Grade at apex. Path gate Attraction Path. Resonant Pair none on the roll.
+Governing Primary Harmonics (Attunement) and Dexterity (Celerity, Finesse). Stage floor VII, Refraction, ascending to VIII, Transcendence. Grade required A-Grade at floor, S-Grade at apex. Path gate Attraction Path. Resonant Pair none on the roll.
 
 ### Origin
 

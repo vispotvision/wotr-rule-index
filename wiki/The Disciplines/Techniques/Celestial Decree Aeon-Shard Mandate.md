@@ -44,7 +44,7 @@ It has hard edges against the great. No peer overwrite without harmonic superior
 - **Family:** Limina
 - **Physics Domain:** Entropy, Void and Mind
 - **Category:** Domain Weaving
-- **Craft:** Spellcraft
+- **Skill:** Speaking, a raised hand and an internalized commitment, with no anchor
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
 - **Path gate:** Attraction Path

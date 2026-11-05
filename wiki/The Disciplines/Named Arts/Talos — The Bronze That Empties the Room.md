@@ -31,10 +31,11 @@ For two summers the lamp-wardens and the hedge-workers of Aldwick fought their f
 | Field | Value |
 |---|---|
 | **Ability** | Talos: Kenokinesis sub-discipline, Domain-class |
-| **Family** | Limina (Abstract / Entropic) |
+| **Family** | Limina (Entropy, Void and Mind) |
 | **Affinity** | Void |
 | **Method** | Kinesia primary (null-zone creation, Aether suppression). Turgia secondary at True expression (permanent null-anchors, sovereign-grade Domain law) |
-| **Physics Domain** | Destructive interference, Meissner-effect field exclusion, noise cancellation |
+| **Physics Domain** | Entropy, Void and Mind |
+| **Phenomenon** | Destructive interference, Meissner-effect field exclusion, noise cancellation |
 | **Output Cap** | Uncapped. Scales with Dominion and Resilience |
 | **Prerequisites** | Limina-dominant Typology. The Crystal must carry **Void as its primary affinity**, not as a secondary or trained harmonization. *Talos cannot be learned. It can only be expressed by a Crystal that was built for it* |
 | **Rarity** | Extreme. Void-primary Typology occurs in **under one percent** of Awakened practitioners; of those, **fewer than one in twenty** develop Talos rather than conventional Kenokinesis |
@@ -66,8 +67,8 @@ The myth defines him by two facts: he was invulnerable to everything except the 
 | Wellspring | Function | Failure mode |
 |---|---|---|
 | **Nihiloth** *The Hollow Law · Primary* | Destructive interference and the null field. **A region genuinely empty of energy.** Two waves in antiphase do not conceal one another: they sum to zero, and the space between them is not hidden but vacant. *Strengthens Dominion Sovereignty, Resilience Persistence, Gnosis Cognition* | **Symmetric cancellation.** Everything brought inside is subject to the same null, including the parts of the practitioner they were relying on |
-| **Dissolution** *The Unbinding Stream · Secondary* | Solvation driven by the entropy of mixing. Governs the **degradation vector**: each activation makes the Crystal marginally more comfortable in the unbound state, and returning to full function becomes progressively harder because the Crystal has learned the dissolved condition is thermodynamically preferred. *Strengthens Resilience Severance, Tempering Processing* | **Indiscriminate solvency.** Entropy does not consult the practitioner about which structures were load-bearing |
-| **Tenebra** *The Hidden Shadow · Support* | Signal-to-noise reduction. **The mechanism that separates Active from Passive**: at Passive it is absent and cancellation is indiscriminate; at Active it shapes the field's profile; at True it provides selective targeting. *Strengthens Dexterity Silence, Harmonics Suppression, Dominion Sense* | **Aspect dependence.** Selectivity works against expected signatures. An ability never encountered before passes through the filter unaffected |
+| **Dissolution** *The Unbinding Stream · Secondary* | Solvation driven by the entropy of mixing. Governs the **degradation vector**: each activation makes the Crystal marginally more comfortable in the unbound state, and returning to full function becomes progressively harder because the Crystal has learned the dissolved condition is thermodynamically preferred. *Strengthens Resilience Ward, Tempering Maturity* | **Indiscriminate solvency.** Entropy does not consult the practitioner about which structures were load-bearing |
+| **Tenebra** *The Hidden Shadow · Support* | Signal-to-noise reduction. **The mechanism that separates Active from Passive**: at Passive it is absent and cancellation is indiscriminate; at Active it shapes the field's profile; at True it provides selective targeting. *Strengthens Dexterity Feint, Harmonics Suppression, Dominion Sense* | **Aspect dependence.** Selectivity works against expected signatures. An ability never encountered before passes through the filter unaffected |
 
 ---
 

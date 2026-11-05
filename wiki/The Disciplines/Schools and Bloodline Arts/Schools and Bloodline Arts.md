@@ -10,8 +10,11 @@ A school is a club: it has colors, a song nobody can sing sober, a grudge older 
 
 - [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto|Asami and Gisei — The Two States of the Moto]]
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki — The Works of the Plane of Fate]]: Hataraki, literally translated as Work, is the governing function of the Plane of Fate.
+  - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works|Hataraki no Sho — The Martial Application of the Works]]
 - [[The Disciplines/Schools and Bloodline Arts/The Harmonic Arts|The Harmonic Arts]]
 - [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|The Ketsumyōgan — The Binding Fate Eye]]
 - [[The Disciplines/Schools and Bloodline Arts/The Sage Arts|The Sage Arts]]
 - [[The Disciplines/Schools and Bloodline Arts/The Spirit Rune Arts|The Spirit Rune Arts]]
 - [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Spirit Summoning Arts|The Spirit Summoning Arts]]
+  - [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Infinite Summoning Arts|The Infinite Summoning Arts]]
+  - [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion|The Twelve Stages of Spirit Infusion]]

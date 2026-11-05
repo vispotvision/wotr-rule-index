@@ -4,7 +4,7 @@ title: "The Sleepers' Road"
 
 # THE SLEEPERS' ROAD
 
-*Spellcraft, Transitus, Stage VII. The scholars' term is Oblivion-Step.*
+*Speaking, Transitus, Stage VII. The scholars' term is Oblivion-Step.*
 
 In the summer of the bad cider, the garrison at Pell Bridge posted a standing order fining any man a week's pay for nodding off on the wall. The soldiers thought it was about discipline until the third paymaster looked up from a table of coin in a locked tower room and found a woman in a green cloak standing at his elbow, looking mildly embarrassed. The nearest drowsy person was his clerk. The clerk felt nothing, has never felt anything, and now drinks his weight in bitter tea, and every tavern in the valley sells a mug with a yawning sentry on it.
 
@@ -41,11 +41,11 @@ The Residue is light but readable by a patient reader at both ends, plus the anc
 
 **Limits** · 50 m; a drifting mind at the far end; no stepping to empty ground; an obstruction on the line stops it; the lag cannot be trained away.
 
-**Fails against** · A spread volley at the arrival during the lag; open, bright ground held by wakeful people; Aurevane or Luminalis light; a Runecraft ward or Lock on the dream-shadow; lucid anchors; a blocked line.
+**Fails against** · A spread volley at the arrival during the lag; open, bright ground held by wakeful people; Aurevane or Luminalis light; a cut ward or Lock on the dream-shadow; lucid anchors; a blocked line.
 
 **Anchors** · A stepper with a drowsing Presence cannot stop making anchors, so arrivals fall where anchors already stand; the Attraction Layer drifts toward identity bleed over time.
 
-**Look up** · The Counterplay register for Lock and Runecraft wards; the Limina entries for Oneirion, Hypnather and Letheveil Failures; the Refraction Stage table; the A-Grade reaction and strike bands.
+**Look up** · The Counterplay register for Lock and cut wards; the Limina entries for Oneirion, Hypnather and Letheveil Failures; the Refraction Stage table; the A-Grade reaction and strike bands.
 
 ### Numbers
 
@@ -79,7 +79,7 @@ The Residue is light but readable by a patient reader at both ends, plus the anc
 
 **Category** · Transitus (Triadic)
 
-**Craft** · Spellcraft
+**Skill** · Speaking; the crossing holds on an anchor, a drifting mind at the far end
 
 **Stage floor** · Stage VII, Refraction
 
@@ -89,9 +89,9 @@ The Residue is light but readable by a patient reader at both ends, plus the anc
 
 ### FOW line
 
-**Governing Primary** · Dominion, for Reach; Gnosis, for Cognition.
+**Governing Primary** · Dominion, for Sovereignty; Gnosis, for Cognition.
 
-**Sub-Stats** · Dominion Reach (the range the crossing can open across); Gnosis Cognition (reading the configuration-space trajectory); Vitality Regeneration and Tempering Latency, both sleep-gated, carried over from Hypnather's own stat effect.
+**Sub-Stats** · Dominion Sovereignty (the range the crossing can open across); Gnosis Cognition (reading the configuration-space trajectory); Vitality Regeneration and Tempering Yield, both sleep-gated, carried over from Hypnather's own stat effect.
 
 **Stage floor** · Stage VII, Refraction.
 

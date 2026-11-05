@@ -102,7 +102,7 @@ Costs are paid out of the maker's reserve (1 EU = 1 MJ):
 | Proofed armor | 25% of the maker's reserve, once | until struck by a strike two Tiers above its proof |
 | Relic | the maker's whole reserve, once, and a spell of Essence Starvation after | permanent while its material holds |
 
-**A practitioner can equip themselves but cannot equip an army.** A Stage II maker (reserve about 0.56 EU) can prepare about ninety enhanced bolts from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armor, or one relic.
+**A practitioner can equip themselves but cannot equip an army.** A Stage II maker (reserve a few thousand EU) can prepare about ninety enhanced bolts from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armor, or one relic.
 
 ## Hide, Bone and Scale
 

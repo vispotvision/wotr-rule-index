@@ -44,7 +44,7 @@ There is no skeleton to describe and I have stopped looking for one. The body is
 
 > **The Drowned Crown** in Old Mariner's Cant. *Vor'thalass*, the Maw Beneath All Waves, in Abyssal Tongue.
 
-**Divine / Archonic Beast, Abyssal Apex · T9, Apocalyptic Beast · Abyssal Wellsprings, secondary Corrupted and Storm aspects · primarily Abythron, surfacing only in Crevice-linked oceans**
+**Divine / Archonic Beast, Abyssal Apex · T9, Apocalyptic Beast · Vectoria's Abython, the Abyssal Pulse, secondary Nihiloth and Cymorath aspects · primarily Abythron, surfacing only in Crevice-linked oceans**
 
 > Singular oceanic behemoths **birthed directly by Titans of the deep.** Most descend from a time **before Gaia's shaping of the Material World, when the oceans were unbroken voidwater.**
 >
@@ -72,9 +72,9 @@ Solitary and immensely territorial, it is **drawn to disturbances in deep Wellsp
 
 > *Tsal'gar*, Terror of the Depths, in Old Parunic. **The Abyssal Maw** among sailors.
 
-**Divine Beast, Abyssal Colossus · T9, Apocalyptic Threat · Abyssal and Water Wellsprings with powerful chaotic Essence surges · the deepest ocean trenches and the Abyssal Depths**
+**Divine Beast, Abyssal Colossus · T9, Apocalyptic Threat · Vectoria's Abython and Fluxia's Thaloré, with powerful chaotic Essence surges · the deepest ocean trenches and the Abyssal Depths**
 
-A primordial sea monster born from **the violent convergence of Abyssal and Water-elemental Wellsprings in the deepest trenches.** Legend places their creation during cataclysmic oceanic upheavals.
+A primordial sea monster born from **the violent convergence of Abython and Thaloré in the deepest trenches.** Legend places their creation during cataclysmic oceanic upheavals.
 
 The body is a cephalopod's on a scale that makes the comparison feel like an insult: dozens of powerful barbed tentacles around **a massive beaked maw**, eyes glowing with abyssal light, and skin shimmering with bioluminescent pattern that crawls and changes the way a cuttlefish's does when it is deciding about you. The beak is the only hard part of the animal, and a shed one will not fit through a barn door. **Its sheer size dwarfs most sea vessels.**
 
@@ -92,9 +92,9 @@ Territorial and overwhelmingly destructive, they are **solitary hunters, believe
 
 > *Gar'thak*, the Threefold Maw, in Abyssal tongues. **The Hellhound Guardian** in frontier legend.
 
-**Divine Beast, Infernal Guardian · T8, Cataclysmic Threat · Abyssal and Corrupted Wellsprings infused with potent Fire and Shadow Essence · Abyssal Depths, corrupted crevices, forbidden Outer World gates**
+**Divine Beast, Infernal Guardian · T8, Cataclysmic Threat · Materia's Tarturon and Limina's Nihiloth, infused with potent Pyreveil and Vantabriel Essence · Abyssal Depths, corrupted crevices, forbidden Outer World gates**
 
-**A colossal three-headed hellhound born from Abyssal Wellspring corruption and ancient infernal bindings**, crafted as the eternal guardian of Abyssal gates and cursed Wellspring breaches. **It embodies raw destructive power and unwavering loyalty to its dark masters.**
+**A colossal three-headed hellhound born from corruption on Tarturon ground and ancient infernal bindings**, crafted as the eternal guardian of Abyssal gates and cursed Wellspring breaches. **It embodies raw destructive power and unwavering loyalty to its dark masters.**
 
 The build is a massive canine's, with three snarling heads, **each with fiery eyes and razor fangs.** Thick shadowy fur is laced with flickering embers, which come off when it shakes and burn through a boot sole faster than you would believe. The claws burn with infernal heat, and **flames flicker along a spiked tail.** Each head keeps its own watch, and I have never met a hunter who caught all three asleep.
 

@@ -20,7 +20,7 @@ HOLD THE VERDICT! The chain is held inside, fast and ritual, and nothing shows u
 
 The real phenomenon is projective measurement and its back-action: a strong enough measurement does more than report a state and imposes one, as repeated measurement freezes or hastens a decay in the Zeno and anti-Zeno effects. The projection postulate says a strong measurement of an observable leaves the system in one of its definite states, and the Landauer bound says erasing information costs at least kT·ln2 per bit. Past the point where the measurement's pull exceeds the system's own dynamics, the read becomes the verdict, and a system with no definite persistence state of its own has nothing to be projected into. Erasing a whole mind costs 14 microjoules, less than a housefly in flight. The EX Grade pays for a boundary an entire identity must conform to and hardly at all for the erasure. The compression is quench and temper: steel hardens from about 200 to 700 HV, 3.5 times, at the price of brittleness, and the working runs that cycle on his own output.
 
-The glyphs are Measure across Ruin: a measurement on an edge makes a blow heavier, and on ruin it makes a verdict. The boundary is the strength of one persistence measurement, pushed past where its back-action exceeds the target's own dynamics. A strike, then no wound: Soul goes first since it is most strongly coupled, then memory and Principle alignment, with no interval in which anything can be arrested. It is instant with no sustain. It is internalized Spellcraft, a ritual-fast chain held and released, and needs no material anchor at Zenith. It cannot run while Dirge Ascension (now shouted as Forty-Five Seconds of God) is active, since both compress the same architecture and a reserve cannot be hardened into two shapes at once. There is one firing condition: he must already hold a verdict correct by Judicium's own measure, and a strike thrown without it does not carry the working.
+The glyphs are Measure across Ruin: a measurement on an edge makes a blow heavier, and on ruin it makes a verdict. The boundary is the strength of one persistence measurement, pushed past where its back-action exceeds the target's own dynamics. A strike, then no wound: Soul goes first since it is most strongly coupled, then memory and Principle alignment, with no interval in which anything can be arrested. It is instant with no sustain. It is internalized speaking, a ritual-fast chain held and released, and needs no material anchor at Zenith. It cannot run while Dirge Ascension (now shouted as Forty-Five Seconds of God) is active, since both compress the same architecture and a reserve cannot be hardened into two shapes at once. There is one firing condition: he must already hold a verdict correct by Judicium's own measure, and a strike thrown without it does not carry the working.
 
 The Aether goes to a single point at 150 m, the narrowest Zenith footprint. Fulguria wants dry air and clear sight. The impact site goes emotionally silent, the absence of a killing's residue, which only an Eclipseron reader can work. Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, and turned outward at full compression the read stops reporting on the target's continuance and adjudicates it. Exuroth, the Trial Flame (Caloria), supplies the compression. Judicium's spectral overload means the read cannot be aimed at one line, so his own memory goes with each use, near four percent by his own count with no way yet found to choose which four percent. Exuroth's quench cracking arrives as paradox recoil.
 
@@ -44,7 +44,7 @@ The Percipient school holds that to be is to be perceived and that nothing truly
 
 **Category** · Mnemata
 
-**Craft** · Spellcraft (Internalized: a ritual-fast chain held and released, not spoken over its duration)
+**Skill** · Speaking (Internalized: a ritual-fast chain held and released, not spoken over its duration)
 
 **Stage floor** · Stage XIV, Zenith
 
@@ -56,7 +56,7 @@ The Percipient school holds that to be is to be perceived and that nothing truly
 
 **Governing Primary** · Gnosis, with Ardency as the secondary axis carrying the discharge.
 
-**Governing Sub-Stats** · Gnosis Diagnosis (the verdict-read itself), Dominion Sovereignty (the authority the verdict is enforced under), Ardency Overchannel and Tempering Overflow (both Exuroth's own documented Stat Effect).
+**Governing Sub-Stats** · Gnosis Analysis (the verdict-read itself), Dominion Sovereignty (the authority the verdict is enforced under), Ardency Overchannel and Tempering Overflow (both Exuroth's own documented Stat Effect).
 
 **Stage floor** · Stage XIV, Zenith.
 

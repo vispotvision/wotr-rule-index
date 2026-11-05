@@ -161,7 +161,7 @@ Rank inside Sancta Lux describes **what a member is permitted to do to a reading
 
 A Celestial carries **Vow-Light** as a substrate of its Aether: a heavy, warm-pressure radiance under which spoken falsehood becomes physically effortful, a laboring breath, a tightening throat, a headache that scales with the size of the untruth. **Vow-Light detects nothing. It makes lying cost something**, reliably, in every mortal and every tongue, **without examination, without a Ladder, and without the possibility of an Arbiter having a bad morning.**
 
-Then Malakar cracked the Lawbell, Grand Angel Faisal went to kneel under its weight at the edge of creation, the Host went from thousands to credible sightings in the low dozens across seven centuries, and no Celestial has been confirmed Sung since.
+Then Malakar cracked the Lawbell, Grand Angel Faisal went to kneel under its weight at the edge of creation, the Host went from thousands to credible sightings in the low dozens across seven centuries by the Host's own reckoning, and no Celestial has been confirmed Sung since.
 > What is left of the apparatus that used to hold the world's oaths is **a mortal order with a procedure book.**
 >
 > **Sancta Lux is a prosthetic.** The **Glyph of Veridiction** is a deliberate mortal imitation of Vow-Light, and it is worse in every measurable respect. It makes lying costly instead of impossible. **It has a false-positive rate.**

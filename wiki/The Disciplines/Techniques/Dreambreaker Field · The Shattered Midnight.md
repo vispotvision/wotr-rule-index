@@ -48,7 +48,7 @@ The Equal-Frames school of the Limina houses reads the field as proof that the w
 
 **Category** · Domain Weaving
 
-**Craft** · Spellcraft
+**Skill** · Speaking, declared, then held three turns by the claim on its radius
 
 **Stage floor** · Stage VII, Refraction
 
@@ -82,7 +82,7 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 
 **Fails against** · Ground claimed first or contested (Lock, a reality-lock invocation, an unclaimed Aether pulse); rigid adherence to ordinary law through a Body Path anchor or a grounding rune; distance beyond forty meters; a known pattern in the practitioner.
 
-**Look up** · The Counterplay register for Lock; the Limina and Fluxia entries for Eidolyn, Oneirion and Somnalis Failures; the Attraction Layer and Obsession Force; the Refraction Stage table; Runecraft's counters for the grounding rune.
+**Look up** · The Counterplay register for Lock; the Limina and Fluxia entries for Eidolyn, Oneirion and Somnalis Failures; the Attraction Layer and Obsession Force; the Refraction Stage table; the rune-cutter's counters for the grounding rune.
 
 ## Numbers
 

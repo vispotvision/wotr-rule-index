@@ -73,7 +73,7 @@ Listed in order of emergence, with governing Archon, common name, thematic desig
 
 ## The Hollow Thrones
 
-The Age of Gods ended when the conscious forms once seated at the origin of certain Principles withdrew, dissolved or were unmade in the Great Spirit War. The Principles did not stop. A **Hollow Throne** is one of them: a Principle that still governs, lawfully and mechanically, with no one home, the way a heart goes on beating in a body with no mind left in it.
+The old accounts say the days of the gods ended when the conscious forms once seated at the origin of certain Principles withdrew, dissolved or were unmade in the Great Spirit War. The Principles did not stop. A **Hollow Throne** is one of them: a Principle that still governs, lawfully and mechanically, with no one home, the way a heart goes on beating in a body with no mind left in it.
 
 Every Zenith answers to one. A person at the top of the climb, whose whole life has grown into a doctrine, becomes recognizable to a vacant Throne, the Throne resonates, and that recognition is the crossing into Stage XIV ([[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]] has the rest). A purse can buy the attempt and never the seat, since a Throne does not read a receipt. The old accounts go one step further and speak of someone actually filling a Throne, a person who has also become a place setting down the self altogether. The Principle's work does not change when that happens, but its texture takes the new occupant's accent, which is why theologians will tell you a Throne used to feel different. It did. It had someone else in it.
 

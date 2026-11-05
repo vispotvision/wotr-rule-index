@@ -37,8 +37,9 @@ Anyone in the river towns will tell you about the year Mokichi Hamano, a ferry-p
 | **Family** | Vectoria (Mechanics) |
 | **Affinity** | Inertia / Force |
 | **Method** | Corporis. No projection, no construct. **Nadi operates entirely within the practitioner's own biomechanical architecture** |
-| **Physics Domain** | Frequency multiplication, harmonic series, superposition of discrete impulses |
-| **Governing Stat** | Dexterity (Sequence, Independence, Celerity, Burst). **Sequence is load-bearing**: it sets how many distinct actions fit inside one engagement window without mechanical degradation |
+| **Physics Domain** | Mechanics |
+| **Phenomenon** | Frequency multiplication, harmonic series, superposition of discrete impulses |
+| **Governing Stat** | Dexterity (Sequence, Celerity). **Sequence is load-bearing**: it sets how many distinct actions fit inside one engagement window without mechanical degradation |
 | **Governing Weakness** | Ardency. Every action compressed into the same window shares that window's total force. **Dexterity controls how many actions fit. Ardency controls how little each one hurts** |
 
 > **Nadi is not speed.** A fast practitioner crosses distance quickly. A Nadi practitioner stands still and performs a hundred actions in the time another performs one.
@@ -67,8 +68,8 @@ Nadi treats the combat body as the string. A baseline strike is the fundamental.
 | Wellspring | Function | Failure mode |
 |---|---|---|
 | **Sublimatio** *The Ascending Breath · Primary* | The phase transition that skips the intermediate state. The wind-up, the transition, the recovery are the intermediate states of a strike: **Nadi skips them.** The fist goes from chambered to landed without occupying the positions between, because Sublimatio has declared those positions unnecessary. *Strengthens Ardency Compression, Tempering Clarity* | **Over-refinement.** So much intermediate motion is stripped that the body loses the feedback it needs to correct mid-strike. **The fist arrives where calculation said the target would be, not where the target is** |
-| **Ascensio** *The Ladder of Ascent · Secondary* | Compresses the gap **between** one completed action and the initiation of the next. Under augmentation the gap approaches zero and the sequence blends from discrete events into a continuous stream. *Strengthens Tempering Acceleration, Harmonics Attunement* | **Sequence collapse.** Acceleration outpaces the body's capacity to complete each action. The second strike initiates before the first has landed **and both cancel each other's force vector** |
-| **Cymorath** *The Air of Ascent, Fulguria · Support, cross-Family* | Vector fields and the Lorentz force. At x100 the limbs execute faster than proprioceptive feedback can update, so **Cymorath replaces proprioception with vector-field awareness**: the body reads its own position as a function of velocity and ambient geometry, correcting at frequencies biological perception cannot match. *Strengthens Dexterity Celerity, Dexterity Burst, Gnosis Cartography* | **Assumes a stable ambient field.** Against Gravikinesis, Domain pressure or environmental disruption, the corrections diverge from reality |
+| **Ascensio** *The Ladder of Ascent · Secondary* | Compresses the gap **between** one completed action and the initiation of the next. Under augmentation the gap approaches zero and the sequence blends from discrete events into a continuous stream. *Strengthens Tempering Maturity, Harmonics Attunement* | **Sequence collapse.** Acceleration outpaces the body's capacity to complete each action. The second strike initiates before the first has landed **and both cancel each other's force vector** |
+| **Cymorath** *The Air of Ascent, Fulguria · Support, cross-Family* | Vector fields and the Lorentz force. At x100 the limbs execute faster than proprioceptive feedback can update, so **Cymorath replaces proprioception with vector-field awareness**: the body reads its own position as a function of velocity and ambient geometry, correcting at frequencies biological perception cannot match. *Strengthens Dexterity Celerity, Gnosis Perception* | **Assumes a stable ambient field.** Against Gravikinesis, Domain pressure or environmental disruption, the corrections diverge from reality |
 
 ---
 

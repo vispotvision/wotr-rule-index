@@ -20,7 +20,7 @@ SHORT OF THE MARK! A strike dropped from straight above grounds out into the pat
 
 ### How it really works
 
-There is no chalk in it, as any Runecraft examiner will tell you with some heat, and the name has stuck regardless. The practitioner stops, kneels and inscribes on the ground and air she stands on (Runecraft being a working inscribed in material), pulling ambient Aether across the whole sphere for one full six-second turn. The Locus then holds five turns at sixty meters and cannot move. A second Locus overwrites the first. The pattern is the Passage glyph (Auren), the channel the momentum is sent down, laid across the Order glyph (Valen), the periodic geometry that does the reading, and what those two move is the set of exits open to an incoming vector: alternative paths are pinned and made cheaper than the straight line. At the line itself there is no wall and no flash. A runner's footing stays honest while everything launched bends.
+There is no chalk in it, as any cutting examiner will tell you with some heat, and the name has stuck regardless. The practitioner stops, kneels and inscribes on the ground and air she stands on (cutting being a working inscribed in material), pulling ambient Aether across the whole sphere for one full six-second turn. The Locus then holds five turns at sixty meters and cannot move. A second Locus overwrites the first. The pattern is the Passage glyph (Auren), the channel the momentum is sent down, laid across the Order glyph (Valen), the periodic geometry that does the reading, and what those two move is the set of exits open to an incoming vector: alternative paths are pinned and made cheaper than the straight line. At the line itself there is no wall and no flash. A runner's footing stays honest while everything launched bends.
 
 The real phenomenon is a Bragg reflector, a regular grid that steers a wave and absorbs none of it, coupled by resonance to the ground. Conservation of momentum and the Bragg condition set the bill: turning a vector through angle θ costs the structure an impulse Δp = 2p·sin(θ/2), and the structure pays that into whatever it is anchored to. The energy of a redirect is small and stays in the incoming attack, because the lattice works as a switch and makes one exit cheaper than the one chosen, so she never matches the attack's joules. The momentum bill is large and the ground pays it. The resonant coupling works only when strongly coupled, κ ≫ √(Γ₁Γ₂), and κ falls roughly as 1/d³.
 
@@ -42,7 +42,7 @@ It fails in named ways. Boundary fault: only a finite set of vectors can be pre-
 - **Family** · Spatium
 - **Physics Domain** · Spatial Geometry
 - **Category** · Claustra
-- **Craft** · Runecraft
+- **Skill** · Cutting, written in place on the ground and air and held by the inscription
 - **Stage floor** · Stage VII, Refraction
 - **Grade required** · A-Grade (late push toward S-Grade)
 - **Path gate** · Fate
@@ -71,7 +71,7 @@ Archivii Locus is Serenyra's own self-derived working rather than a documented o
 
 **Fails against** · A writer denied the turn, or a damaged written substrate; attacks along strange lines (underground, mental, straight down a chimney); unmapped or Warp-scarred ground; force above A; the Anchoring Debt, due on the way out.
 
-**Look up** · The Spatium entry for Transference's Failure; Spatium's favored and suppressive ground; the Runecraft counters for written workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.
+**Look up** · The Spatium entry for Transference's Failure; Spatium's favored and suppressive ground; the counters for cut workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.
 
 ## Numbers
 

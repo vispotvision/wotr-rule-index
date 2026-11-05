@@ -46,7 +46,7 @@ The theory is the Debt Position: the Wellspring answers on credit and the debt i
 
 **Category** · Mechanica
 
-**Craft** · Magicraft
+**Skill** · Bodily speaking, driven through a Trait in the Essence Core and fixed at ten seconds once begun
 
 **Stage floor** · VI, Glory
 
@@ -82,7 +82,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Fails against** · Loose or soft ground; a fire Caloria discharge burning out the cold half (a partial; the strength lasts a moment longer); a Fixatio cage on the limb; a blow to the blood anchor; ten seconds with no ground to take; Harmonics suppression dulling the sharpening.
 
-**Look up** · The Vectoria and Caloria failure terrain; Petralon and Vohrin in the Wellspring register; Trait hazards (Overgrowth, Shear Break); Fixatio in the Counterplay register; the Glory Stage table and the Grade rows.
+**Look up** · The Vectoria and Caloria failure terrain; Petralon in the Wellspring register and the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; Trait hazards (Overgrowth, Shear Break); Fixatio in the Counterplay register; the Glory Stage table and the Grade rows.
 
 ## Numbers
 

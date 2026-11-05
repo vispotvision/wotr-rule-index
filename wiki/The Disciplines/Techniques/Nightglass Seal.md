@@ -4,7 +4,7 @@ title: "Oblivion Window"
 
 # OBLIVION WINDOW
 
-*Spellcraft, reactive, Stage VIII. The scholars' term is the Nightglass Seal, and the Iridescent Archive still files it so.*
+*Speaking, reactive, Stage VIII. The scholars' term is the Nightglass Seal, and the Iridescent Archive still files it so.*
 
 At the Alder Street dye-yards, with nine hundred people on the walls and the vats running madder red and woad blue, Mother Quill of the Bracken Lane Geese called FORTY BURNING GEESE at a small man in a yellow hat. A black window jumped into the air in front of him. Forty geese of fire went in, honking and gorgeous, and what came out the far side was a warm breeze that lifted the hat off his head. Quill sued him for the return of one working, wrongfully detained. The case is still open, because the respondent has twice failed to remember the hearing.
 
@@ -81,7 +81,7 @@ The Essence pays in layers. The Aether Shell holds the pane, the Attraction Laye
 
 **Category** · Silentia (Attraction-Negative).
 
-**Craft** · Spellcraft (reactive, internalized chain).
+**Skill** · Speaking (reactive, internalized chain).
 
 **Stage floor** · Stage VIII, Transcendence.
 
@@ -91,7 +91,7 @@ The Essence pays in layers. The Aether Shell holds the pane, the Attraction Laye
 
 ### FOW line
 
-**Governing Primary** · Gnosis (Cognition, the Sub-Stat governing resistance to conceptual erasure and perceptual misdirection), secondary Resilience (Insulation).
+**Governing Primary** · Gnosis (Cognition, the Sub-Stat governing resistance to conceptual erasure and perceptual misdirection), secondary Resilience (Fortification).
 
 **Stage floor** · VIII, Transcendence.
 

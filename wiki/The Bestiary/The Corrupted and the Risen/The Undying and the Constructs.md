@@ -20,7 +20,7 @@ The hedge-worker had nothing to do with the rising, as it turned out, and was ha
 
 > *Khalrak*, the Lost Flesh, in Old Parunic. **Rotwalkers** among frontier survivors.
 
-**Undying, Animated Corpse · T2, Moderate Threat · Corrupted and Abyssal Wellsprings, fueled by lingering necromantic energies · battlefield graveyards and plague-ridden wastelands**
+**Undying, Animated Corpse · T2, Moderate Threat · Vitalia's Mortalis and Limina's Nihiloth, fueled by lingering necromantic energies · battlefield graveyards and plague-ridden wastelands**
 
 Corpses reanimated by corrupted Wellspring energies, necromantic ritual, or abyssal taint. **Unlike Skeletal Folk they retain decayed flesh and sluggish motor function**, driven by primal hunger or necromantic command. **Their numbers swell rapidly in plague zones and on battlefields scarred by Abyssal or Corrupted Essence.**
 
@@ -38,9 +38,9 @@ Decaying corpses with rotting flesh, exposed bone and festering wounds. Jerky un
 
 ## Ghouls
 
-**Undying, Ferocious Corpse-Eaters · T4, High Threat · Abyssal and Corrupted Wellsprings with residual necromantic influence · cursed graveyards, abyssal borderlands, plague-ravaged zones**
+**Undying, Ferocious Corpse-Eaters · T4, High Threat · Vitalia's Mortalis and Limina's Nihiloth, with residual necromantic influence · cursed graveyards, abyssal borderlands, plague-ravaged zones**
 
-Corpses cursed or corrupted by Abyssal Wellsprings, **spawned where necromantic energies blend with savage hunger. Unlike zombies, ghouls retain agility and ferocity**, hunting living flesh with brutal efficiency.
+Corpses cursed or corrupted on Mortalis ground, **spawned where necromantic energies blend with savage hunger. Unlike zombies, ghouls retain agility and ferocity**, hunting living flesh with brutal efficiency.
 
 Gaunt rotting humanoid figures with sharp claws and elongated teeth. **Skin mottled and stretched tight over bone, torn and bloodied.** Eyes glowing with a fierce hungry light; **movements jerky but swift and calculated.**
 
@@ -58,9 +58,9 @@ Savage relentless predators **hunting both living and undead prey.** They move w
 
 > *Khal'thar*, Boneshade, in Old Parunic. **The Bonebound** among necromancers.
 
-**Undying, Animated Remnants · T4, High Threat · Corrupted and Abyssal Wellsprings with traces of ancestral torment Essence · Abyssal Depths, Material World graveyards, cursed Innerworld tombs**
+**Undying, Animated Remnants · T4, High Threat · Vitalia's Mortalis and Limina's Anamnesis, with traces of ancestral torment Essence · Abyssal Depths, Material World graveyards, cursed Innerworld tombs**
 
-Corpses reanimated through dark Essence rituals or cursed Wellspring taint, often arising from battlefields or tombs corrupted by Abyssal Wellsprings. Bound to necromantic masters **or wandering as restless spirits seeking vengeance or purpose.**
+Corpses reanimated through dark Essence rituals or cursed Wellspring taint, often arising from battlefields or tombs gone bad on Mortalis ground. Bound to necromantic masters **or wandering as restless spirits seeking vengeance or purpose.**
 
 > **Unlike mindless undead, many retain fragmented memories and rudimentary intelligence.**
 
@@ -80,7 +80,7 @@ Relentless and unyielding, operating in packs or under command, **driven by bind
 
 > *Zar'khan*, Death's Sovereign, in Old Parunic. **The Eternal Wraith** among necromantic circles.
 
-**Undying, Archmage Undead · T9, Apocalyptic Threat · Corrupted, Abyssal and Spirit Wellsprings intertwined through powerful necromantic rites · ruined fortresses, ancient crypts, shadowed sanctums**
+**Undying, Archmage Undead · T9, Apocalyptic Threat · Mortalis, Nihiloth and Anamnesis, intertwined through powerful necromantic rites · ruined fortresses, ancient crypts, shadowed sanctums**
 
 > **Powerful necromancers who have bound their souls to phylacteries**, transcending mortality through dark Wellspring rituals.
 >
@@ -104,7 +104,7 @@ Skeletal figures draped in tattered robes embroidered with necromantic glyphs. *
 
 > *Arkh'zan*, Sentinel Shell, in Old Parunic. **The Bound Sentinel** among magical artificers.
 
-**Construct, Animated Armor · T5, Extreme Threat · Harmonic and Spirit Wellsprings infused with Spirit Rune binding · ancient fortresses, Innerworld sanctums**
+**Construct, Animated Armor · T5, Extreme Threat · Limina's Eidolyn and Materia's Fixatio, infused with Spirit Rune binding · ancient fortresses, Innerworld sanctums**
 
 Suits of enchanted plate and chain forged in ancient workshops **and animated through potent Wellspring Essence and Spirit Rune Arts.** Created to guard Wellsprings, tombs and arcane repositories. **They possess no flesh but exhibit independent will and relentless dedication to their wards.**
 

@@ -4,7 +4,7 @@ title: "Hold Still, You Idiot"
 
 # HOLD STILL, YOU IDIOT
 
-*Spellcraft (Ars Vocis, the declared voice), Harmonia, Stage V. The scholars' term is the Seraphic Thread Blessing. The other name comes from what every battlefield practitioner of it is actually heard to say.*
+*Speaking (Ars Vocis, the declared voice), Harmonia, Stage V. The scholars' term is the Seraphic Thread Blessing. The other name comes from what every battlefield practitioner of it is actually heard to say.*
 
 Goody Trevick of the Penny Ford levies worked the whole of that hot red afternoon on her knees in the trampled barley, with a gold thread running from her palm into man after man, calling each of them something unrepeatable. Sixty-one patients. By sundown she was limping on a leg nobody had touched, cradling an arm nobody had broken, and weeping for a boy from Hexley she had never met. The Sympathetic Chirurgeons pitched their tent across the ford and spent the same afternoon salving the swords, and their feud with the Trevick family has outlasted three kings and one bridge.
 
@@ -77,7 +77,7 @@ The Sympathetic Chirurgeons treat the weapon to heal the wound at a distance. Th
 - **Family** · Vitalia (Benediction); Fulguria (Luminalis)
 - **Physics Domain** · Biochemistry (Vitalia); Electromagnetism (Fulguria)
 - **Category** · Harmonia
-- **Craft** · Spellcraft (*Ars Vocis*; the working is declared aloud)
+- **Skill** · Speaking (*Ars Vocis*; the working is declared aloud)
 - **Stage floor** · Stage V, Splintering
 - **Grade required** · B-Grade
 - **Path gate** · Spirit, Fate

@@ -4,7 +4,7 @@ title: "The One-Pulse Tribunal"
 
 # THE ONE-PULSE TRIBUNAL
 
-*Spellcraft, Concordia, Stage XIV. The scholars' term is World Echelon.*
+*Speaking, Concordia, Stage XIV. The scholars' term is World Echelon.*
 
 They tell it in the taverns of Marrowgate, with the good cups out. It was the market-morning of the Saffron Fair, every awning yellow and every fishwife in full voice, and a man said one sentence on the steps of a counting-hall in an ordinary tone. Five thousand people breathed in together. They went on buying and selling and quarreling, and it did not look like anything for a moment; then a fishwife and her enemy of thirty years turned to look at the steps at exactly the same angle. What they felt stayed theirs. When they felt it had been taken away. The town's Harmonists have heard one beat under everything since, and the fair is still not quite certain who was on trial.
 
@@ -76,7 +76,7 @@ The Boundary fault is one coupling constant laid without discrimination on a sph
 - **Family** · Fulguria (Judicium); the injured secondary spans an unspecified majority of the eight Families
 - **Physics Domain** · Electromagnetism, primary
 - **Category** · Concordia (Spirit-Attraction Apex), the working that aligns an existing field, the local Spirit World, with the caster's own standing Domain into one lasting field
-- **Craft** · Spellcraft
+- **Skill** · Speaking, declared aloud, with no anchor at Zenith, and fixed at eight turns
 - **Stage floor** · Stage XIV, Zenith
 - **Grade required** · EX-Grade
 - **Path gate** · Spirit Path and Fate Path, rough seat

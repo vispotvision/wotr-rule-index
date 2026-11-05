@@ -38,7 +38,7 @@ The Memorialists rightly find that memory brings the wrong neighbors and contain
 
 ### Codex line
 
-**Wellspring** · Oblivara, The Dark Mirror (primary, substituted for the source's "Nyxial"). Anamnesis, The Wellspring of Remembrance (secondary).
+**Wellspring** · Oblivara, The Dark Mirror (primary). Anamnesis, The Wellspring of Remembrance (secondary).
 
 **Family** · Limina (both).
 
@@ -46,7 +46,7 @@ The Memorialists rightly find that memory brings the wrong neighbors and contain
 
 **Category** · Mnemata (Spirit ↔ Attraction).
 
-**Craft** · Spellcraft (declared).
+**Skill** · Speaking (declared).
 
 **Stage floor** · Stage VI, Glory.
 
@@ -56,7 +56,7 @@ The Memorialists rightly find that memory brings the wrong neighbors and contain
 
 ### FOW line
 
-**Governing Primary** · Harmonics (Memory, the Sub-Stat governing how cleanly a stored resonance is retrieved), secondary Ardency (Cascade, the field's reach).
+**Governing Primary** · Harmonics (Attunement, the Sub-Stat governing how cleanly a stored resonance is retrieved), secondary Ardency (Cascade, the field's reach).
 
 **Stage floor** · VI, Glory.
 

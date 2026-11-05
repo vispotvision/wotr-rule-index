@@ -2,11 +2,11 @@
 title: Stacking and Spending
 ---
 
-*How power-ups add together, and how a practitioner's reserve shows as it runs down. For the whole system in brief, see How Magic Works.*
+*How power-ups add together, and how a practitioner's reserve shows as it runs down. For the whole system in brief, see [[The Magic System/First Steps/How Magic Works|How Magic Works]].*
 
 > *"Two layers is a gamble veterans take. Four is a story told about the dead."* The Guild's own rule of thumb, and Cullen Fair's favorite thing to shout at it.
 
-Sigrun Ox-Hand told the whole of Cullen Fair that she would lift the miller's ox with the cart still hitched to it and the miller still in the cart, and the fair gave forty to one against. She was Stage V (fifth on the soul's sixteen-step ladder), a drover's daughter with Caloria (heat) Essence, and half the county had come to see her lose. She gathered her coat (her own aura, laid over the body) into her shoulders until they glowed ember-orange through her shirt. She swore aloud, with the priest as witness, that she would not set that ox down until the sun went behind the church, and she had picked her moment, since the sun was already sitting on the roof ridge and a sun takes about four minutes to get behind a roof. She drank a lifting Draft (a bottled working that pushes a stat) with her teeth and spat the cork at the bookie. Then she got under the axle and bawled **HEARTH-BACK** at the sky, a surge within the band for one beat's cost, and up it all came, ox, cart, miller and the miller's opinions, with half the county howling and the bookie sitting down in a puddle.
+Sigrun Ox-Hand told the whole of Cullen Fair that she would lift the miller's ox with the cart still hitched to it and the miller still in the cart, and the fair gave forty to one against. She was Stage V (fifth on the soul's sixteen-step ladder), a drover's daughter with Caloria (heat) Essence, and half the county had come to see her lose. She gathered her coat (her own aura, laid over the body) into her shoulders until they glowed a smoky ember-orange through her shirt. She swore aloud, with the priest as witness, that she would not set that ox down until the sun went behind the church, and she had picked her moment, since the sun was already sitting on the roof ridge and a sun takes about four minutes to get behind a roof. She drank a lifting Draft (a bottled working that pushes a stat) with her teeth and spat the cork at the bookie. Then she got under the axle and bawled **HEARTH-BACK** at the sky, a surge within the band for one beat's cost, and up it all came, ox, cart, miller and the miller's opinions, with half the county howling and the bookie sitting down in a puddle.
 
 That was four layers. For the first minute the crowd cheered the steam coming off her. In the second the blood started, from the nose, from the corners of the eyes, and with the last red sliver of the sun still showing the orange began to go, bright lines running through it like the crazing on an old glaze, and everyone in the crowd with a day's training had stopped cheering and started shouting at the sun. She held it to the minute, because a vow is a vow.
 
@@ -18,19 +18,20 @@ Everything she did is on this page, in order.
 
 ![[Assets/Diagrams/stacking.svg]]
 
-Power-ups from every source stack on one another, up to a hard cap of **two Grades** (letter bands of force, F through EX+) above what the practitioner's Soul Crystal (the soul itself, which stores and sends out their power) can hold safely. Every layer the Crystal runs at once adds risk of a fracture, and every second of it spends reserve (the store of Essence, the practitioner's own power), which the body shows on a fixed ladder of tells.
+A practitioner's own power-ups stack on one another, up to a hard cap of **two Grades** (letter bands of force, F through EX+) above the sustainable Grade on their registered card, the level their Soul Crystal (the soul itself, which stores and sends out their power) can hold safely. A boost held for the moment may pass the Stage's own ceiling lawfully inside that cap; only a lasting forced stat takes the fracture rate the tables give for it. Every layer the Crystal runs at once adds risk of a fracture, and every second of it spends reserve (the store of Essence, the practitioner's own power), which the body shows on a fixed ladder of tells.
 
 | Layer | What it adds | Counts on the cap |
 |---|---|---|
 | **Focused reinforcement** (Essence gathered into one part of the body) | One Grade, in that place only | Yes |
-| **A vow** (a condition sworn aloud before a witness) | Up to the top of the technique's Grade band; a great vow, staking life, a limb or Crystal mass, one full Grade | Yes |
-| **A release call** (a technique's name shouted as it fires) | A surge within the band, for one beat's cost | Yes |
+| **A [[The Magic System/Practice and Institution/Vows and Oaths\|vow]]** (a condition spoken aloud, which needs no witness) | Up to the top of the technique's Grade band; a great vow, staking life, a limb or Crystal mass, one full Grade | Yes |
+| **The Call** (a technique's name shouted as it fires) | A surge within the band, for one beat's cost | Yes |
 | **A release** (the soul's standing law, its Trait, let off its limit in a learned shape) | First: top of the band. Second: one Grade, inside its field. Third: two Grades, for one effect | Yes |
+| **Your own [[The Magic System/The Soul and the Climb/Domains\|Domain]]** (from Stage VIII; the Second Release opens and powers it) | The Second Release's one Grade on your workings, inside the field; a Third's two on its one stated effect | Yes |
 | **A lifting Draft** (a bottled working that pushes a stat) | As its grade says | Yes |
 | **An overchannel** (forcing the Crystal past its safe ceiling, unshaped) | Two to five times sustainable force for a moment | Yes, and always damages |
-| **Help from outside**: an ally's working, a standing array, a Domain (a space where one soul's law outranks the world's) someone else holds, a Grade held up by a [[The Magic System/Practice and Institution/Blessings and Curses\|blessing]] | Whatever the helper can give | **No.** It stacks freely and adds no risk to the one receiving it |
+| **Help from outside**: an ally's working, a standing array, a Domain (a space where one soul's law outranks the world's) someone else holds, a Grade held up by a [[The Magic System/Practice and Institution/Blessings and Curses\|blessing]] | Whatever the helper can give | **No.** It stacks freely and adds no risk to the one receiving it, unless it is forced on them |
 
-**The stack line.** Every registered card carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way an engine-master reads the marks on a trebuchet's arm. A Stage bought with Drafts or given by a blessing comes with a gap in that line, because a bought Stage opens the door and no more: its Release must still be found and mastered by fighting, so a rich heir at Stage VII may have a whole rung of the table above he cannot yet run. Assessors look for that gap first and say so loudly at dinner.
+**The stack line.** Every registered card (the record a guild or assay house keeps on a practitioner) carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way an engine-master reads the marks on a trebuchet's arm. A Stage bought with Drafts or given by a blessing comes with a gap in that line, because [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|a bought Stage]] brings no Release, so a rich heir at Stage VII may have a whole rung of the table above he cannot yet run. Assessors look for that gap first and say so loudly at dinner.
 
 ## How it looks
 
@@ -63,7 +64,7 @@ The body tells first and the window confirms after. Plenty of fighters have died
 
 - **Fracture risk, per layer.** One layer run inside its limit is safe. Each further layer stacked at the same time raises the chance of a Crystal Fracture Event (a crack in the Crystal, healed slowly or never). Two layers is a gamble veterans take. Four is a story told about the dead.
 - **The cap is absolute.** Nothing of the practitioner's own lifts them past two Grades over sustainable. A Third Release already stands at the cap for its effect, so nothing else can be stacked on that effect while it holds.
-- **Drain, written as time from full.** A card states how long a working holds if started on a full reserve, before the reserve falls to a tenth: "holds six minutes from full". Two workings at once burn both clocks together. A working started at half reserve has half its time left. The exact EU, AU/s and η behind that line stay on the card and out of the window.
+- **Drain, written as time from full.** A card states how long a working holds if started on a full reserve, before the reserve falls to a tenth: "holds six minutes from full". Two workings at once burn both clocks together. A working started at half reserve has a little under half its time left, because the clock runs to the tenth. The exact EU, AU/s and η behind that line stay on the card and out of the window.
 - **Fight Drafts refill.** A fight Draft (a bottle made to be drunk mid-fight) puts Essence back into the reserve. Each costs a beat to drink and leaves a crash when it wears off: the shakes, a heavy head, and a sleep that will not be refused. There is no rule against drinking several; there is only the price, which climbs about threefold for each Stage (step on the soul's sixteen-step ladder) the Draft serves, and the counterfeits.
 
 ## How it is beaten
@@ -73,10 +74,12 @@ The body tells first and the window confirms after. Plenty of fighters have died
 - **Make them stack.** A fighter at the cap who is losing has one move left, another layer, and it is the one most likely to crack him.
 - **Strike the drink.** A fight Draft costs a beat with the neck of a bottle at the lips. Break the belt of bottles before the fight and the reserve is all they have.
 - **Wait for the crash.** A fighter who drank to finish the fight and did not finish it is about to be worse than when they started.
-- **Listen.** A loud working means a wasteful one, and a wasteful fighter runs dry first.
+- **Listen.** A loud working means a wasteful one, and for the same blow delivered, a wasteful fighter runs dry first.
 
 ## Example
 
 **Hob Garrow**, a Stage VI caravan guard with Materia (stone and substance) Essence, has a stack line that reads: *coat, focused (+1); vow, no step back (to the top of the band); IRON GRIP, called (surge); cap at +2.* Against a Stage VI raider on a pass road he focuses his coat into his right fist and swears his vow aloud: he will not take a step back. That is two layers, a Grade up and the top of the band above it, and the risk is real.
 
 Two minutes in, his breath is short and his ochre aura has dimmed: half. The raider sees it and starts circling. Hob drinks a fight Draft with his free hand, a beat with his guard down, and takes a cut along the jaw for it. His reserve comes back up. At a quarter again his hands shake and the ochre washes gray, and the bar in his window says what his hands already told him. He calls IRON GRIP as he swings, the surge cracks the raider's shoulder, and the fight is done. An hour later the crash lands, and Hob sleeps across two sacks of meal while the wagons roll on without him.
+
+*Read next: [[The Magic System/Power in Use/Runes and Tags|Runes and Tags]].*

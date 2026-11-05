@@ -21,7 +21,7 @@ A junior copyist named Pell Harrower once shelved a Yuno memoir among the Divisi
 | **The Zettari–Mahou Accord** | Five articles binding two houses. **Article II governs a marriage and makes refusal non-dissolving.** Article V binds both houses to honesty above comfort | Kwon Mu-jin, under the seal of Dawn Guard, Sovereign of the Zettari, **in a single night, in a camp still cold from the day's teaching** |
 | **To Ara Min Mahuo** | The letter sent the same night, to the woman whose name he had just given a Sovereign. **The private half of Article II** | Kwon Mu-jin, to his sister |
 | **Anima Veri Credentis** | Sixteen chapters. **The memoir of a Yuno clergywoman who watched the clergy of magic come into existence and does not believe it was inevitable** | A third daughter of Kureha-in-Mist, name withheld in her own text |
-| **The Scene Archive** | The narrative record. Four long-form works and twenty-five scenes, indexed by what canon each establishes | — |
+| **The Scene Archive** | The narrative record. Every live scene, indexed by what canon each establishes | — |
 
 ---
 

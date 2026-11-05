@@ -4,7 +4,7 @@ title: "The Kneeling Sun"
 
 # THE KNEELING SUN
 
-*Spellcraft, Domain Weaving over a standing Traitus, Stage VII and up. The scholars' term is the Solarbound Aegoric Knight, which is a discipline with a knight's name on it.*
+*Speaking, Domain Weaving over a standing Traitus, Stage VII and up. The scholars' term is the Solarbound Aegoric Knight, which is a discipline with a knight's name on it.*
 
 A knight once held a Gate open with his own body, sunlit and bleeding and shouting at people to hurry, long enough for a million souls to flee through it past his back. That is the story every recruit is told and every minstrel owns a version of, and it is why a knight of this discipline in a scarlet surcoat can stand in the middle of a bracket field taking a smith's maul to the helm, again and again, with the whole crowd bellowing the count, and not take one step. He is filling. Nobody can see how full. Then he kneels.
 
@@ -84,11 +84,13 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 
 **Family** · Materia, with Vitalia and Fulguria.
 
-**Physics Domain** · Metastable storage behind a barrier, released by ignition.
+**Physics Domain** · Material Science, with Biochemistry and Electromagnetism.
+
+**Phenomenon** · Metastable storage behind a barrier, released by ignition.
 
 **Category** · Domain Weaving at its apex, over a standing Traitus layer: the Shell's oath-reactive bias is passive and permanent, not cast.
 
-**Craft** · Spellcraft, delivered bodily through gesture-keys (kneeling, raising a shield, touching the oath-brand), re-committed each time.
+**Skill** · Speaking, delivered bodily through gesture-keys (kneeling, raising a shield, touching the oath-brand), re-committed each time.
 
 **Stage floor** · Refraction
 

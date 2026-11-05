@@ -4,7 +4,7 @@ title: "The Deathless Timber Keep"
 
 # THE DEATHLESS TIMBER KEEP
 
-*Spellcraft, Domain Weaving, Stage V. The scholars' term is the Veil of Verdant Pact. It passes from hand to hand among hedge-workers and grandmothers, and nobody ever invented it.*
+*Speaking, Domain Weaving, Stage V. The scholars' term is the Veil of Verdant Pact. It passes from hand to hand among hedge-workers and grandmothers, and nobody ever invented it.*
 
 When the raiders fired the great tithe barn at Burrow Mill, with forty villagers, a priest and a very angry goat inside, old Mab Sorrel walked into the yard in a flowered apron, stamped her foot and shouted at the ground. Wood came up out of the dirt at a running pace in a green roar, closing over the lot of them in one second, with the light going emerald and then dim. Fire arrived and the char turned to new bark. Somebody threw a torch and it got a window box. Mab stood in the middle swearing, flinching half a beat late at each blow, burned on arms nobody had touched, and when the raiders got bored there was a very large, very ugly new building in Burrow Mill. It is still there. It has been a tavern for ninety years, and it still grows.
 
@@ -83,7 +83,7 @@ The Greening healers read the flow of life as a stock, raising the Veil early an
 
 **Category** · Domain Weaving (Attraction).
 
-**Craft** · Spellcraft (declared).
+**Skill** · Speaking (declared).
 
 **Stage floor** · Stage V, Splintering.
 

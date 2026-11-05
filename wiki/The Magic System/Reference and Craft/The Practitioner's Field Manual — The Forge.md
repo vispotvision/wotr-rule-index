@@ -14,7 +14,7 @@ tags:
 >
 > *"Ask what he is permitted to do with the power he has, and what it takes out of him when he does. The size of it comes last."*
 
-Oswin Crumb, baker of Karrowgate, Stage III (third on the soul's sixteen-step ladder), had a Caloria (heat) trade worth two copper an oven. He lit ovens. He had lit every oven on Dyers' Lane for twenty-three years with the same small ember-orange push from the same two fingers, and on the morning the bailiff's men came about the arrears, three of them, in good boots, with his daughter's name on their paper, he put those two fingers against the first man's breastbone and did the same thing, with the same spoonful of Essence, all at once.
+Oswin Crumb, baker of Karrowgate, Stage III (third on the soul's sixteen-step ladder), had a Caloria (heat) trade worth two copper an oven. He lit ovens. He had lit every oven on Dyers' Lane for twenty-three years with the same small, smoky orange push from the same two fingers, and on the morning the bailiff's men came about the arrears, three of them, in good boots, with his daughter's name on their paper, he put those two fingers against the first man's breastbone and did the same thing, with the same spoonful of Essence, all at once.
 
 The shutters of Dyers' Lane left their hinges in order, flour hung in the street like a snowfall going sideways, and a tray of rolls was found on the church roof. The bailiff's men lay in the road with their eyebrows on and their boots shining and not one burn among them, and every one of them had drowned in his own lungs. Crumb himself never heard another word from anybody. A Measurewright (a sworn measurer of the Guild) walked in from the Assize before the dust had settled, ate one of the surviving rolls, and wrote on a slate, in a hand that got larger as she went: *Same fuel. Same Essence. Entirely different corpse.*
 
@@ -57,8 +57,8 @@ A called Release or Domain fills the window with its name and what changed, and 
 | **Sub-Stats** | Appear when used or when they move | The full set remains to study. Show one the moment it matters |
 | **Level** | Danger overcome. Killing something stronger moves it more than a hundred weak kills | *Crews argue over who got the kill. Write the argument* |
 | **Race and lineage** | Fixed, and on the line | They shape base stats, what comes easily, and which classes and Wellsprings suit |
-| **Aether Class** | Offered at thresholds, fitting how the person has lived. Evolves at each tier by how it is lived | Gives abilities and shapes growth. The old ladder, Ø Dormant through Ω Absolute, is its tier, and every η law stands. **The one wild concept stays the person's own; no class hands it out** |
-| **Skills**, as Grades | Rise with use | Drafts, runes, tags and chants are skills anyone can level. *A guild's title says how far the hall trusts the skill* |
+| **Aether Class** | Offered at thresholds, fitting how the person has lived. Evolves at each tier by how it is lived | Gives abilities and shapes growth. The old ladder, Ø Dormant through Ω Absolute, is its tier. The first offer comes at Glory, and from then on the tier sets η, a read Class overriding the field average and a card's own figure governing its holder. **The one wild concept stays the person's own; no class hands it out** |
+| **Skills**, as Grades | Rise with use | Drafts, runes, tags and chants are skills. Anyone can pour; the cutting, tags, chants and spoken workings want a woken Crystal. *A guild's title says how far the hall trusts the skill* |
 | **Traits**, with levels | Rise with use, grow with overall Level and skill | The Four Reflections and their laws are untouched; a Trait can be leveled and refined like a skill |
 | **Techniques** | Show no level. Take a bigger name when they jump | **A technique is a named thing done with a skill.** The old name stays in use |
 | **Blessings** | Their own line, written by the giver | **The line can lie.** A curse is often a blessing with terms nobody read |
@@ -157,9 +157,9 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 **A practitioner may bind a technique under a stated condition, sworn into the Lattice or into their own Crystal. The narrower the condition and the heavier the forfeiture, the greater the output.**
 > *"Against those who deserve it" buys nothing. "Only against the Zettari, and if I break it my Crystal shatters" is a vow.*
-**Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts. A vow is small Fate, a person binding their own probability, and anyone can make one: spoken, it shows in the window with the bargain and its terms, and breaking it lands at once.
+**Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts. A vow is small Fate, a person binding their own probability, and anyone can make one: spoken, it shows in the window with the bargain and its terms, and what it buys counts toward the two-Grade cap. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]].
 
-**Why it kills.** A vow broken is a **Shear Break**. The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. The orders treat a lapsed vow as a medical emergency and get to the disciplinary question later, if there is one.
+**Why it kills.** A broken vow lands at once by its own terms and needs no witness. Repeated denial of the truth behind it makes a **Shear Break**. The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. The orders treat a lapsed vow as a medical emergency and get to the disciplinary question later, if there is one.
 > **The disclosure variant is the useful one.** Stating a technique's true mechanism aloud, in the target's hearing, before use, **surrenders every advantage of surprise and increases output accordingly.**
 >
 > ***This is the best structural justification for a villain's monologue ever devised and the Continuum should take it.***
@@ -194,6 +194,101 @@ A called Release or Domain fills the window with its name and what changed, and 
 > **Standing prohibition.** *Chronokinesis is Forbidden beyond Stage X. Chronoturgy is Forbidden outright.*
 >
 > **The Accord's enforcement of both is a plot instrument that has barely been used.**
+
+---
+
+## The Working Trades, for Whoever Writes Them
+
+*The workbench behind [[The Magic System/Power in Use/The Working Trades|The Working Trades]], which keeps the story and the trades themselves in the hall's voice.*
+
+### The Design Problem
+
+*A note from the compilers, standing outside the hall's own voice, on where the tradition was taken from. It stays here because every lever below hangs off it.*
+
+**The casting model as it stands is correct and complete. It is also, in its center of gravity, Eastern.**
+
+The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Attraction Anchoring; see [[The Disciplines/The Disciplines|The Disciplines]]) runs inside one practitioner, in real time, in a single continuous act of will. The most legible unit is **the Technique**: a named, repeatable thing a person does with their body and their reserve, at a stated cost. *Every load-bearing question the system asks is a question about one soul's interior.*
+> **That is the cultivation shape. It is the core of the system and it stays the core, and it is not what Tolkien, Martin, Clarke or Le Guin are doing; the trades below build their made things around it.**
+
+### What the Western tradition does instead
+
+**Tolkien has made things where other books have spells.** The power lives in objects **made well by people who were what they were**: the Rings, the Phial, mithril, lembas, the rope that unties itself. *Galadriel's correction to Sam is the whole thesis: mortals use one word for the Enemy's deceits and for the craft of the Eldar, and the Elves do not have a word that separates art from enchantment at all.* Nobody in Middle-earth casts. They make, and the making holds.
+
+**Martin has an economy of denial where other books have a system.** Rare, foreign, unreliable, morally contaminating. **Its price is paid in blood and in life, directly, with no reserve to spend first.** *The maesters have an institutional interest in insisting the subject is superstition, which is itself a plot engine, because they are wrong and they are also not entirely wrong.*
+
+**Clarke gives the sharpest structural gift, and WOTR is already most of the way to it.** A scholarly tradition with a bibliography, a lost golden age, live controversies, and **a hard social distinction between the theoretical magician who reads and would never dream of performing, and the practical magician who performs and is therefore vulgar.**
+> ***The academies and research halls under the Guild Accord are four-fifths of the way to being that institution and do not yet know it.***
+>
+> **And the deepest one: WOTR's own glyph system is already Western Renaissance occultism.**
+>
+> The Parun (the language of law every working is written in) lattice is **Agrippa's kamea method out of the Three Books, II.22, unaltered.** *That is the operative tradition of European ceremonial magic, lifted whole.*
+>
+> **Which means the Four Glyph Roles are already the Solomonic operation, in order, and nobody has noticed.**
+
+| Glyph Role | Solomonic operation | What it does |
+|---|---|---|
+| **Authorization** | The conjuration and the citation of authority | Names by what right the operator acts |
+| **Boundary** | The circle and the triangle of art | Fixes where the working may reach |
+| **Direction** | The constraint | Compels a specific outcome |
+| **Sealing** | The license to depart | Closes the operation and releases the power |
+
+> **The four roles are the boundary operation, in order, and the order is not decorative.**
+>
+> A glyph creates nothing. A Wellspring (the governing idea, alchemical and spiritual at once, that transforms how a soul uses Aether, and in the scholars' account one of sixty types of Aether with its own physical law) was already at work. **Authorization** says by what right a limit is set, **Boundary** sets it, **Direction** states which way the law is to run across it, and **Sealing** takes the limit back down.
+>
+> *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burned workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
+>
+> ***Nobody needs to import the Western frame into WOTR. It only needs digging out.***
+
+### The Five Levers
+
+**I · Let the guilds feud over rank.** Real-time casting sits at the center by default, and the crowd adores it. **In the halls, the made object and the prepared substance sit above the live caster, and the man the crowd came to see is told so at the door.** *Nothing in the system backs either side. That is a feud, and feuds are free, and they change everything about how the world reads.*
+
+**II · Contest the word.** **Nobody calls it magic.** Each trade carries an Accord name in liturgical Latin and a plain name in the common tongue, **and which one a character reaches for places them by class before they have finished the sentence.** *This is the Norman and Anglo-Saxon doublet English actually runs on, and it is Tolkien's method exactly.*
+
+**III · Make the golden age real, lost, and officially denied.** **The best inscriptions in the world are all old. Some of them cannot be read. The Accord's published position is that this is not the case.**
+
+**IV · Make the taxonomy political.** The categories and the Families (the eight houses of magic, each sorted by the physics it works) are **an Accord publication before they are a law of physics.** *Documents serve the people who publish them. Somebody's trade was reclassified as Mechanica on grounds that were political before they were metaphysical.*
+
+**V · Move cost from the ledger to the page.** EU (Essence Units, the measure of a reserve), Flux Density (how densely Essence packs into the Crystal) and η (efficiency, the share of spent power that does its work) remain author-facing and unchanged, and even a person's own window (the soul reporting its numbers to its owner, unseen by anyone else) shows only Grades, percentages, bars and levels. **What a reader sees is the Cost Wheel: the years, the memory, the sanction, the debt, the man who knows what you bought.**
+
+### Prose cues, trade by trade
+
+> **The speaking.** The speaker pays inside the same scene, visibly. Nosebleed, tremor, the hand that will not close, the four days of sleeping badly afterward. *Somebody in the room reacts to the fact that a working was spoken aloud in company, because in some rooms that is an obscenity.* **Nobody polite says casting.**
+>
+> **The cutting.** Chisels, drift, tooling marks, the grain of the stone and where it fought the cut. Somebody's hands. The apprentice who holds the light. **A wall with three hands on it, two of them dead.** Weather on an inscription. *Somebody scraping a rune off a doorframe with a knife, badly, because the man who cut it is now an enemy.* This is where the awe and the old grief get their material, and where the Tolkien register lives without a word of it needing to be stated.
+>
+> **Standing rule for prose: the wall is older than the war.** Any standing inscription on the page should carry **a date, an author, or a visible repair**, *and the repair should be worse than the original.*
+>
+> **The pouring.** Price, always. Weight and volume. What the vessel is made of and why that matters. Sediment. A seal, intact or broken. **Somebody checking a seal.** An excise stamp. *The difference between what the label says and what is in the bottle, and the person who knows the difference and says nothing.*
+>
+> **The singing, reference points.** Finrod and Sauron singing at each other until one of them falls. Lúthien before the throne. *The monastic office sung eight times a day for six hundred years by men who were replaced one at a time.*
+>
+> **Which column a character speaks from is characterization before it is information.** Bodily speaking is not a separate art and should never be written as one.
+
+### What This Changes on the Page
+
+**The default working in a quiet scene should be a cut or a bottle, or some petty art done by hand for a fee.** A wall that holds. A bottle that was bought. A lamp-warden arguing about what you owe her. **The speaking owns the fight: it is what a fighter shouts when the blades are out, and what anyone reaches for when out of time or out of options.**
+
+**Every named practitioner has skills, and usually one trade they are known for, and that is characterization.** *Sodoku speaks because Sodoku fights. Somebody in Marrowhold cuts. Somebody in the Amber Cities pours and keeps two sets of books.*
+
+**Cost is visible outside the working.** The Engraver's hands. The Drafter's ledger. **The speaker who is still shaking at supper.**
+
+**The ranking is contested in dialogue.** *A character who calls the pouring mere cookery is expressing a live guild position and is entitled to be wrong loudly.*
+
+**Elegy attaches to one named thing that is gone.** An array under a particular gate that four generations have failed to reproduce, **and the last man who could read its third layer, who died in the winter.**
+
+### Settled Positions
+
+| Question | Settled position |
+|---|---|
+| **I · Law V** *settled as a gate* | **Law V, the Law of Material Anchor, is a Stage gate rather than a universal.** Below **Stage VII, Refraction**, a working requires voice, hand, ink or blood: an external anchor for the boundary. At Refraction the practitioner can hold the Crystal as an object of study, and the Glyph Roles compress into an internal chain that needs no material anchor at all. *This is why internalized speaking reads as a mark of rank rather than a technique, and why a man who casts silently in a room has told everyone present his Stage without saying a number* |
+| **II · Law III** *struck* | **Law III is struck from the register.** It states that progression follows the fourteen Wellsprings. There are sixteen Stages and sixty Wellsprings and the two were never the same axis. *It survives in-world as an error with a history: the fourteen it counted were the Archons, and a copyist's conflation four hundred years old propagated into three generations of teaching texts before anyone checked. Older practitioners still teach it. They are wrong and they are extremely difficult to correct* |
+| **III · The singing** | **It stands on its own terms**, the medium-home of Harmonia, and answers to no guild |
+| **IV · Whose trade is best** | **A feud, and the feud varies by culture, downstream of material conditions rather than taste.** The Concord baseline ranks cutting first. **The Marrowkin rank it first and hardest**, since a hold is a permanent substrate and everything they own is inscribed. **Kharven ranks pouring first**: nothing in a camp that moves is permanent, a Draft travels in a belt, and the standing runework in the death-houses is imported work that no living Kharven hand can read, *a fact the seat does not raise and the Accord does not stop mentioning.* The speaking ranks highest in Kharven of anywhere in the Concord's reach, because a soldier is not embarrassed by an art that works now |
+| **V · The lost golden age** | **The Accord is mistaken, and has become invested in the mistake**, which produces a worse institution than lying would. The recovery program is real, funded, sincere and structurally incapable of succeeding, because what was lost was a substrate condition that no longer obtains, and no quantity of technique gets it back. Four generations of honest men have failed at it and each has been promoted for the attempt. *Somebody in the research halls has worked this out. They have not published* |
+| **VI · Scope of the doublet** | **The wider scope.** Every trade term in WOTR carries an Accord register name and a common-tongue name, and which one a character reaches for places them before they finish the sentence |
+| **VII · Standing Inventory** | **Entered for Kharven.** Household object: **the doorframe**, and whether it has been cut. Oath: *by the hand that cut it.* Proverb, fixed wording: **"A cut wall keeps a promise longer than the man who made it."** Contempt terms carry over intact, a mouth, a cutter, a potboy, and *potboy* is the one that starts fights, because Kharven pours |
 
 ---
 

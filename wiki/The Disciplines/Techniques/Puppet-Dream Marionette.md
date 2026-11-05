@@ -4,7 +4,7 @@ title: "Your Legs Had a Better Idea"
 
 # YOUR LEGS HAD A BETTER IDEA
 
-*Spellcraft, Harmonia, Stage VII. The scholars' term is the Puppet-Dream Marionette.*
+*Speaking, Harmonia, Stage VII. The scholars' term is the Puppet-Dream Marionette.*
 
 Sergeant Ebbo Ollery held the Kettlewell gate for twenty-two years and never once took a step back, and the town painted him on the gatehouse in red and gold to say so. On the day of the raid he turned around on top of his own wall, in full view of both armies, with a look of deep surprise on his face, and ran off the edge of it. They say he was still trying to explain as he went by the second-floor windows. Eighty paces off, a thin person in a sea-green coat flinched through exactly the same stride and scratched an elbow.
 
@@ -76,7 +76,7 @@ A Collegium ideomotor school reads it as imagined movement discharging with its 
 
 **Category** · Harmonia
 
-**Craft** · Spellcraft
+**Skill** · Speaking; a one-turn release with nothing left to hold after it
 
 **Stage floor** · Stage VII, Refraction
 

@@ -4,7 +4,7 @@ title: "The Star-Felled Spire"
 
 # THE STAR-FELLED SPIRE
 
-*Spellcraft, Animatria, Stage XII. The scholars' term is the Obelisk of the Eclipsed Dawn.*
+*Speaking, Animatria, Stage XII. The scholars' term is the Obelisk of the Eclipsed Dawn.*
 
 > *Six stars fall, one tower tall,*
 > *what you built is none at all.*
@@ -95,7 +95,7 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 - **Family:** Materia
 - **Physics Domain:** Material Science
 - **Category:** Animatria
-- **Craft:** Spellcraft
+- **Skill:** Speaking, internalized: she stills her Essence and commits, with no outside chain to interrupt
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
 - **Path gate:** Attraction Path

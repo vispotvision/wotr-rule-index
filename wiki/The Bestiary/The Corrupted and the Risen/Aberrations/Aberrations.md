@@ -24,9 +24,9 @@ A note for crews before you take the bill. An Aberration carries no mask for a h
 
 > *Zarvak*, Twin Horn, in Old Parunic. **The Shadow Charger** among occult circles.
 
-**Aberrant Beast, Infernal Charger · T5, Extreme Threat · Abyssal and Corrupted Wellsprings infused with infernal Essence · Abyssal Depths and cursed Outer World wastelands**
+**Aberrant Beast, Infernal Charger · T5, Extreme Threat · Materia's Tarturon and Limina's Nihiloth, infused with infernal Essence · Abyssal Depths and cursed Outer World wastelands**
 
-Fiendish mounts and warriors born from Abyssal Wellspring corruption mingled with ancient infernal bloodlines. **Legend places their creation as steeds for dark warlords and demon princes.**
+Fiendish mounts and warriors born from corruption on Tarturon ground, mingled with ancient infernal bloodlines. **Legend places their creation as steeds for dark warlords and demon princes.**
 
 Large muscular equines with glossy black coats and **two curved sharp horns rising from the forehead.** Eyes glowing crimson, hooves burning with faint embers. *Shadows cling to their forms, flickering like living smoke.*
 
@@ -34,7 +34,7 @@ Aggressive and territorial, forming small herds under dominant stallions. **Thei
 
 **Infernal Charge** shatters armor and barriers. **Shadow Aura** saps morale and disrupts Essence flow. **Hellfire Hooves** leave burning wounds **that resist healing.** **Dark Whisper** causes fear and confusion.
 
-*Vulnerable to radiant Essence and holy magic. Sensitive to coordinated ranged attacks disrupting the charge. Require proximity to Abyssal Wellsprings to maintain peak power.*
+*Vulnerable to radiant Essence and holy magic. Sensitive to coordinated ranged attacks disrupting the charge. Require proximity to Tarturon ground to maintain peak power.*
 
 The **Blood Sundering of Vellsorea** details a bicorn herd charging through Concord ranks and scattering them. **Their horns and hides are prized in dark rituals**, and some forbidden tomes name them harbingers of apocalyptic wars.
 
@@ -44,7 +44,7 @@ The **Blood Sundering of Vellsorea** details a bicorn herd charging through Conc
 
 > *Khal'zor*, Infernal Fang, in Abyssal tongues. **The Flamehound** among frontier warriors.
 
-**Aberration Beast, Infernal Tracker · T5, Extreme Threat · Abyssal and Corrupted Wellsprings with intense Fire Essence overlay · Abyssal Depths and corrupted warzones**
+**Aberration Beast, Infernal Tracker · T5, Extreme Threat · Tarturon and Nihiloth, with an intense Pyreveil overlay · Abyssal Depths and corrupted warzones**
 
 Summoned or spawned from cursed battlegrounds and Abyssal rifts, serving dark warlords, demons and necromancers **as relentless hunters and guardians.**
 
@@ -54,7 +54,7 @@ Aggressive, loyal, relentless. They hunt in packs or alone **and are capable of 
 
 **Flame Breath** ignites foes and terrain. **Infernal Paws** leave burning tracks that trap pursuers. **Essence Tracking** detects signatures across vast distance. **Shadowmeld** makes them nearly invisible at night.
 
-**Vulnerable to water and cold-based Essence. Their fire can be extinguished or redirected with elemental skill. And they depend on Abyssal Wellsprings to maintain peak infernal power.**
+**Vulnerable to water and cold-based Essence. Their fire can be extinguished or redirected with elemental skill. And they depend on Tarturon ground to maintain peak infernal power.**
 
 *The Burning Hunt of Durnath describes a pack slaughtering a Concord supply convoy. Infernal cults raise them as war beasts or gatekeepers to Abyssal realms.*
 
@@ -64,9 +64,9 @@ Aggressive, loyal, relentless. They hunt in packs or alone **and are capable of 
 
 > *Skathul*, Silent Shadow, in Outer World tongues. **The Black Whisper** among occult circles.
 
-**Aberration, Void-Touched Hunter · T7, Realm Hazard · Corrupted, Void and Abyssal Wellsprings · the Outer World's shadow domains and Abythron borderlands**
+**Aberration, Void-Touched Hunter · T7, Realm Hazard · Limina, Vantabriel and Nihiloth · the Outer World's shadow domains and Abythron borderlands**
 
-> Spawned at the intersection of Abyssal and Void Wellsprings, **their existence predating mortal memory.** Believed to be **shadowy servants of ancient Archons tasked with harvesting souls and spreading fear.**
+> Spawned at the intersection of Vantabriel and Nihiloth, **their existence predating mortal memory.** Believed to be **shadowy servants of ancient Archons tasked with harvesting souls and spreading fear.**
 >
 > **Their bodies phase between dimensions**, allowing them to appear and vanish at will.
 
@@ -86,7 +86,7 @@ Cold, predatory, relentless. **They stalk in darkness before striking with letha
 
 > *Serpentara*, Mistress of Scales, in Old Parunic. **Veilbinder** among southern frontier tribes.
 
-**Aberration, Enigmatic Spirit-Hybrid · T5, Extreme Threat · Corrupted and Ancestral Wellsprings with minor Dream-aspected influence · Material World borderlands and shadowed enclaves**
+**Aberration, Enigmatic Spirit-Hybrid · T5, Extreme Threat · Limina, Anamnesis and Nihiloth, with a minor Oneirion influence · Material World borderlands and shadowed enclaves**
 
 **Ancient spirit-touched beings born from the fusion of serpent Essence and corrupted human souls.** Legend places their origin in **forbidden rituals attempting to bind primal Wellspring serpents with mortal will**, producing creatures that blur the line between flesh and otherworldly Essence.
 
@@ -106,7 +106,7 @@ The upper body a hauntingly beautiful human female, pale or iridescent, **with f
 
 > *Silkraeth*, Weaver of Fates, in Old Parunic. **The Spider Queen's Hand** among shadow cults.
 
-**Aberration, Spirit-Hybrid Predator · T6, Domain Threat · Corrupted and Dream-aspected Wellsprings · Outer World shadow forests and crevice-webbed zones**
+**Aberration, Spirit-Hybrid Predator · T6, Domain Threat · Limina, Oneirion and Nihiloth · Outer World shadow forests and crevice-webbed zones**
 
 Descended from **cursed unions between mortal weavers and shadow spirits of the Outer World.** They embody the dual nature of artistry and predation, **using supernatural webs to trap Essence, memories and flesh alike.**
 
@@ -126,7 +126,7 @@ Calculating patient hunters. They spin vast webs of magical and physical thread,
 
 > *Sthenara*, Stone Veil, in Old Parunic. **Petrashade** in Outer World dialect.
 
-**Aberration, Stoneborn Predator · T7, Realm Hazard · Corrupted Wellsprings with heavy earth-elemental and petrification overlay · shadowed caves and ruined temples of the Outer World**
+**Aberration, Stoneborn Predator · T7, Realm Hazard · Materia's Coagulatio and Limina's Nihiloth, with a heavy petrification overlay · shadowed caves and ruined temples of the Outer World**
 
 Born from the twisted fusion of corrupted Wellspring Essence and ancient petrifying magic. **Said to descend from the cursed bloodlines of fallen spirits who sought dominion over life and death**, they embody **the raw power to unmake living flesh into stone.**
 
@@ -146,7 +146,7 @@ Lurking predators preferring ambush over brute force. Solitary and territorial, 
 
 > *Sserak*, Stone Stare, in Old Parunic. **The Death Coil** among frontier hunters.
 
-**Aberration, Reptilian Predator · T5, Extreme Threat · Corrupted and Abyssal Wellsprings heavily overlaid with petrification Essence · shadowed forests, deep caves, crevice-riddled wastelands**
+**Aberration, Reptilian Predator · T5, Extreme Threat · Materia's Coagulatio and Limina's Nihiloth, heavily overlaid with petrification Essence · shadowed forests, deep caves, crevice-riddled wastelands**
 
 Ancient reptilian creatures emerging **where the Aether of a Wellspring site has been twisted by Abyssal and Corrupted forces.**
 
@@ -166,7 +166,7 @@ Solitary and territorial. **They ambush by stealth and patience**, relying on th
 
 > *Strathal*, Venom Eye, in Old Parunic. **The Deathclaw** among frontier hunters.
 
-**Aberration, Reptilian Avian Predator · T5, Extreme Threat · Corrupted and Abyssal Wellsprings overlaid with toxic and petrification Essence · dense swamps, ruined temples, corrupted Wellspring zones**
+**Aberration, Reptilian Avian Predator · T5, Extreme Threat · Coagulatio and Nihiloth, overlaid with toxic and petrification Essence · dense swamps, ruined temples, corrupted Wellspring zones**
 
 Fearsome hybrids **born from the unholy fusion of corrupted reptilian and avian Essence**, emerging from the darkest swamps and crevice-shadowed ruins where Wellspring Aether churns and goes bad.
 
@@ -186,7 +186,7 @@ Aggressive and territorial, **nesting in hidden lairs and defending them fiercel
 
 > *Zha'keth*, Spine Sting, in Old Parunic. **The Sand Scourge** among desert tribes.
 
-**Aberration, Venomous Beast · T5, Extreme Threat · Corrupted and Harmonic Wellsprings with venomous Essence overlays · arid deserts, rocky canyons, crevice-touched wastelands**
+**Aberration, Venomous Beast · T5, Extreme Threat · Caloria's Manganthra and Limina's Nihiloth, with venomous Essence overlays · arid deserts, rocky canyons, crevice-touched wastelands**
 
 Predators born from corrupted Wellspring Essence **blending primal feline and scorpion traits.**
 
@@ -206,9 +206,9 @@ Territorial and aggressive, hunting alone or in small family groups. **Highly in
 
 > *Ghrosk*, the Hunger Eternal, in Old Sylvaar. **Frostbane** among northern frontier tribes.
 
-**Aberration, Spirit-Cursed Predator · T6, Domain Threat · Corrupted Frost Wellsprings with an overlay of ancestral torment and despair Essence · frozen tundra and the Innerworld's icy wilds**
+**Aberration, Spirit-Cursed Predator · T6, Domain Threat · Titan-touched cold, the Titan Vohrin's, with Nihiloth and an overlay of ancestral torment and despair Essence · frozen tundra and the Innerworld's icy wilds**
 
-> **Cursed spirits born from mortals who succumbed to overwhelming hunger and despair**, their souls twisted by corrupted Frost Wellsprings and ancient famine curses.
+> **Cursed spirits born from mortals who succumbed to overwhelming hunger and despair**, their souls twisted by corrupted cold sites and ancient famine curses.
 >
 > Legend says the first Wendigo rose from **a tragic winter where entire villages starved and the land itself seemed to wail in anguish.**
 >

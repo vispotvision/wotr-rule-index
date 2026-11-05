@@ -4,7 +4,7 @@ title: "The Thousand-Hammer Tithe"
 
 # THE THOUSAND-HAMMER TITHE
 
-*Runecraft, Vectra, Stage VIII. The scholars' term is Sovereign's Reprisal. Its author says one thing over it: "Impact is tribute."*
+*Cutting, Vectra, Stage VIII. The scholars' term is Sovereign's Reprisal. Its author says one thing over it: "Impact is tribute."*
 
 The Tributaries of Coldharbor built a whole theology on this idea, painted their cuirasses the color of fresh egg and refused for forty years to give anything back. Blows were a form of homage, and the more you held, the more of a sovereign you were. Their old master Ancel Thorne stood in the gate of his own hall through a day-long siege in a rain of hammers, grinning, while his monks sang his tally from the wall. At dusk the last gate fell and he finally opened both hands to answer them. Nothing came out. The conduit had silted up years earlier, with no mark to warn him, and for most of a decade the great man had been a very calm person being beaten with hammers.
 
@@ -18,7 +18,7 @@ The Tributaries of Coldharbor built a whole theology on this idea, painted their
 
 ### How it really works
 
-There is no glow and no gather, only blows landing clean and returning nothing, and then the brightening of the sigil. The harness is Runecraft (a working inscribed in material), a fixed inscription that discharges on trigger and needs no continuous attention, and its substrate is its anchor at every Stage. Fulguria likes dry air and clear sight and fails behind iron and in fog; Caloria likes steep heat gradients and fails in cold equilibrium. A cold, iron-shielded stone fortress in winter sits in both suppression lists.
+There is no glow and no gather, only blows landing clean and returning nothing, and then the brightening of the sigil. The harness is cut (a working inscribed in material), a fixed inscription that discharges on trigger and needs no continuous attention, and its substrate is its anchor at every Stage. Fulguria likes dry air and clear sight and fails behind iron and in fog; Caloria likes steep heat gradients and fails in cold equilibrium. A cold, iron-shielded stone fortress in winter sits in both suppression lists.
 
 The physics is impulse-gated storage and all-round discharge: a runed harness banks blunt blows instead of letting them finish, then returns the whole bank at once as a single pressure step through everyone within eight meters. The law is impulse. What is banked is momentum and what goes out is momentum, and the first law says the joules are the attackers', plus whatever the wearer adds to spike them. The threshold reads total impulse, so a hammer (20 kg·m/s at 200 J) trips it, and a heavy arbalest bolt (9.4 kg·m/s at 440 J) or any piercing strike does not trip it cleanly. Taking a man off his feet costs about 80 kg·m/s and 40 J through his body, which is cheap; doing it by air blast at 8 m would take 17 to 50 MJ, which is why the Reprisal couples through bodies. The bank is not in the metal, as the steel figure in the table shows.
 
@@ -49,7 +49,7 @@ The failures are Structure faults: fouling; a misread threshold; overfill forcin
 
 **Recovery** · The seconds after a release pass with eyes shut and careful breathing; they are the wearer's only unguarded time.
 
-**Look up** · The Fulguria and Caloria entries for Judicium and Cinerion and their Failures; Runecraft wards and their substrates; the Counterplay register for Lock and Knot; Overchannel; the Transcendence Stage table.
+**Look up** · The Fulguria and Caloria entries for Judicium and Cinerion and their Failures; cut wards and their substrates; the Counterplay register for Lock and Knot; Overchannel; the Transcendence Stage table.
 
 ### Numbers
 
@@ -65,7 +65,7 @@ The failures are Structure faults: fouling; a misread threshold; overfill forcin
 
 **Paths** · Declares the Body Path: Yield and Fortification run full; Acuity caps at C and the threshold reading at B, coarse in a crowd; on Aether-thin ground the bank holds at S without the Fate Path.
 
-**Anchor** · The harness is Runecraft, a fixed inscription that fires on trigger, and its substrate is its anchor at every Stage.
+**Anchor** · The harness is cut, a fixed inscription that fires on trigger, and its substrate is its anchor at every Stage.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -87,7 +87,7 @@ The failures are Structure faults: fouling; a misread threshold; overfill forcin
 
 **Category** · Vectra (Body ↔ Attraction: force banked, then sent somewhere)
 
-**Craft** · Runecraft: the harness is a fixed inscription that discharges on trigger, not a spell held by continuous attention
+**Skill** · Cutting: the harness is a fixed inscription that discharges on trigger, not a spell held by continuous attention
 
 **Stage floor** · VIII, Transcendence
 

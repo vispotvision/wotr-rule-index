@@ -4,7 +4,7 @@ title: "Steel-Splitting Frost"
 
 # STEEL-SPLITTING FROST
 
-*Magicraft, Vectra, Stage VI. The scholars' term is Winter Rend. Its author's whole argument for it fits on a shield: "Cold kills slower, but truer."*
+*Bodily speaking, Vectra, Stage VI. The scholars' term is Winter Rend. Its author's whole argument for it fits on a shield: "Cold kills slower, but truer."*
 
 The Antiperistatic school holds that air closing in behind a stroke drives the cold, so its masters broadened their blade backs to catch it, and the smiths of Hallam Cross got very rich making great ugly wedge-backed swords with blue enamel on them. The armorers of Wick, who were watching their best breastplates split along lines no armorer knows, got very angry. The guild feud ran for two generations, with brawls at every fair, hammers through windows, a stolen bell and a marriage that ended badly. Both sides were wrong, as it happens. A broad back raises drag and slows the very sweep the cold depends on, and the school's masters die closest to the enemy, which the Hallam Cross smiths are happy to engrave on the blade.
 
@@ -43,7 +43,7 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 
 **Fails against** · Padded jack, wool, leather or felt; insulated or flame-forged armor; heat into the arc, such as Pyreveil; anything beyond two meters; a warm closed room and repeated sweeps; a broken or bound drawing arm; the arc itself, readable after the first.
 
-**Look up** · The Caloria and Limina favor lists; the Vohrin and Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
+**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; the Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
 
 ### Numbers
 
@@ -78,7 +78,7 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 
 **Category** · Vectra
 
-**Craft** · Magicraft
+**Skill** · Bodily speaking, with the arm that draws the arc as anchor below Refraction; it lasts the one sweep
 
 **Stage floor** · VI, Glory
 

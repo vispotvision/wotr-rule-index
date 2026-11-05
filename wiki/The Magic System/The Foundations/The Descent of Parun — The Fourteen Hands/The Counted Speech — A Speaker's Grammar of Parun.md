@@ -34,7 +34,7 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 >
 > *It can be shouted across a breach by a woman who has done it ten thousand times, and there are perhaps four hundred such people alive.*
 
-The count is a skill like any other: anyone can level it, it rises with use, and it shows as a Grade on the sheet. Sergeant Thorn never held a title in anything, and her soul has been telling her for years what her Parun stands at, which is more than the Vaulted Ring has ever done for her.
+The count is a skill like any other: anyone with a woken Crystal can level it, it rises with use, and it shows as a Grade on the sheet. Sergeant Thorn never held a title in anything, and her soul has been telling her for years what her Parun stands at, which is more than the Vaulted Ring has ever done for her.
 
 ---
 
@@ -317,3 +317,5 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **Gravetongue** | **Not Parun.** It does not walk the square, its meaning is carried in a physical resonance rather than in sounds, and the inert transcriptions follow directly. Structurally it is **a chant with no notation.** *The Vaulted Ring and the Ironblood are both correct and have been arguing past each other for six hundred years* |
 | **The Total Seal, 325** | **Not barred. Simply fatal, for a reason internal to the arithmetic.** The whole square includes **cell thirteen, the still cell, the one that does not move under any of the fourteen Archonic stations.** A sentence using every cell therefore warrants under all fourteen at once, **and no living person holds that standing.** *The difference between standing claimed and standing held is deducted at the Seal. At the Total the difference is everything the speaker is.* **The Accord's position that no attested lexicon reaches 325 is fortunate is a polite way of saying the thing has killed everyone who got close, and the Ring's register of over-sum deductions ends its list at the fourth level for that reason** |
 | **Moto standing** | **Entered in the table above.** Their Warrant class is delegated sight, which the lexicon has no word for and no value for. *The Long Reading holds that the Moto seat's own name is written in one of the thirty unclassifiable glyphs. The missing Warrant and the missing classification are the same absence, recorded twice by two divisions that have never compared notes* |
+
+**Read next:** the next shelf, [[The Magic System/The Soul and the Climb/The Soul and the Climb|The Soul and the Climb]]: what a soul carries, what advancement does to it, and how it reads from outside.

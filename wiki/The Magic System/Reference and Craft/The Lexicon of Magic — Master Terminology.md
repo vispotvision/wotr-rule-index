@@ -70,7 +70,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Inscription** · Glyphica rendered as a durable cut rather than a performance. Scriptia is the Method that lives by it, and people who want to charge more for it have a dozen grander words.
 
-**Rune · tag · chant** · Three ways of holding a Parunic sentence, and three skills anyone can level by doing them, with a guild title to say how far the hall trusts you at it. A **rune** is the sentence cut into material, where it goes on working after the cutter has gone home; a standing runed working is an **array**. A **tag** is a sentence prepared on something small, fueled per tag and fired only by a practitioner. A **chant** is the sentence spoken or sung, or held in the attention like a held note, and it stops when the speaker does. No school owns any of the three. Several have broken each other's windows on the question.
+**Rune · tag · chant** · Three ways of holding a Parunic sentence, and three skills anyone with a woken Crystal can level by doing them, with a guild title to say how far the hall trusts you at it. A **rune** is the sentence cut into material, where it goes on working after the cutter has gone home; a standing runed working is an **array**. A **tag** is a sentence prepared on something small, fueled per tag and fired only by a practitioner. A **chant** is the sentence spoken or sung, or held in the attention like a held note, and it stops when the speaker does. No school owns any of the three. Several have broken each other's windows on the question.
 
 **Draft Corruption** · Law-fragments left when the Continuum partially executes a sentence with a structural error before the error propagates. It is the Direction role's own failure mode, and an error in any role can produce it: Wellspring processes started and never completed, which keep trying to finish themselves in whatever they contact. Unlike a Boundary failure, which spreads, or a Sealing failure, which never ends, the working itself stops; the fragment it left does not.
 
@@ -95,7 +95,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 ## IX · Domains, fields and realms
 
-**Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying. **Anyone at Stage VIII can have one**, their own concept made real.
+**Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying. A **seed** may flicker once from a person's own Trait at the Threshold into Stage VII, with no Release behind it; the Second Release later lets a seed be called and held, for minutes, and it collapses if attention breaks. From Stage VIII it is a **true Domain**, grown by living and called aloud. **Anyone at Stage VIII can have one**, their own concept made real; the Stage grants it and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it. Full account in [[The Magic System/The Soul and the Climb/Domains|Domains]].
 
 **Aspect Sovereignty** · A Domain built on a single governing principle held by one soul.
 
@@ -142,9 +142,9 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Dead Set** · A Threshold melt that cools with no adequate Trait seed to nucleate around. The Stage does not advance, Clarity and Compression fall, and a Trait is commonly lost outright. In the halls, a seat that never took. **Slag** in every other register. Three names, one failure, and Dead Set is the name on the record; said of a district rather than a man, slag means Residue.
 
-**Rough seat** · A melt cooled around Trait seeds that contradicted one another. The lattice keeps the argument permanently. Rough-seated practitioners are unpredictable rather than weak, and are capped at Tier Four on certification regardless of demonstrated capability.
+**Rough seat** · A melt cooled around Trait seeds that contradicted one another. The lattice keeps the argument permanently. Rough-seated practitioners are unpredictable rather than weak, and a rough seat bars an appointment or certificate above the token their Stage already gives them, regardless of demonstrated capability.
 
-**Shear Break** · A Trait collapsing, inverting, or turning on its bearer after the bearer has repeatedly denied the truth that formed it. The standing failure mode of a broken vow.
+**Shear Break** · A Trait collapsing, inverting, or turning on its bearer after the bearer has repeatedly denied the truth that formed it. What a broken vow comes to when the denial goes on; the breach itself lands at once by the vow's own terms.
 
 **The Rigidity Effect** · The soul's reduced capacity to contradict a law it carries, scaling with how absolute that law is. Power and inflexibility are the same purchase.
 
@@ -188,7 +188,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Reading a person** · A stronger **Gnosis Perception** (the faculty that takes in another soul) reads a weaker **Resilience Ward** (the faculty that keeps it out), Grade against Grade. Everything else is an estimate said aloud, and people can hide or fake what you are estimating. Your own window never shows you anyone else's numbers.
 
-**Stage gap** · The distance between two practitioners on the sixteen-Stage ladder. The single most consequential fact in any encounter and the first thing anyone competent establishes.
+**Stage gap** · The distance between two practitioners on the sixteen-Stage ladder. The single most consequential fact in any encounter and the first thing anyone competent establishes. One Stage can be crossed with a read; two only with a vow or a breakthrough; three or more shows in the room first and ends the fight the way a rope ends, unless something breaks.
 
 ---
 
@@ -276,21 +276,29 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Level** · Moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
 
-**Skill** · A thing a person can do, risen by doing it and shown as a Grade on the sheet. Drafts, runes, tags and chants are skills, like knife work or haggling, and anyone can level them.
+**Reserve** · The store of Essence a practitioner carries, counted in EU and shown on the window as a percentage and a bar. Set by Level, capped by Stage, refilled by the pull.
+
+**Release** · A practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold, on a clock. First from Stage IV, Second from VII, Third from IX, each found and mastered by fighting. See [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]].
+
+**Path** · The direction advancement actually took: Body, Spirit, Attraction or Fate. Assessed afterward and recorded whether the person agrees or not. It gates how far a stat may rise. See [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]].
+
+**Continuum** · The lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power.
+
+**Skill** · A thing a person can do, risen by doing it and shown as a Grade on the sheet. Drafts, runes, tags and chants are skills, like knife work or haggling. Anyone can level a skill hands alone can do, pouring Drafts included; runes, tags and chants want a woken Crystal.
 
 **Technique** · A named thing done with a skill. A technique shows no level. It takes a bigger name when it jumps, and the old name stays in use.
 
 **Trait level** · Traits stay what they have always been, the Four Reflections and their laws, and they can be leveled and refined like skills: a Trait's level rises with use and grows with overall Level and skill.
 
-**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves at each tier by how it is lived, into forms some share with many and some hold alone. The ladder on file stays as its **tier**: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute, with all of its η law and figures standing. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
+**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves at each tier by how it is lived, into forms some share with many and some hold alone. The ladder on file stays as its **tier**: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute, with all of its figures standing. Stages I to V read no Class, so the first offer comes at Glory, and from there the tier sets η, a read Class overriding the Tier of Standing table's field average and a card's own figure governing its holder. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
 
 **Tempering** · The Soul Crystal is literally the soul. Tempering melts it down and rebuilds each layer, refines the Essence and makes it stronger, and the body gains Traits.
 
-**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural **Essence Typology** (a Crystal's own bias toward one phenomenon), starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The physics and every number on the Wellspring pages stand, as how scholars explain it.
+**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural **Essence Typology** (a Crystal's own bias toward one of the eight Families), starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The physics and every number on the Wellspring pages stand, as how scholars explain it.
 
 **Catalyst** · The event or change a Crystal needs before it will pass a Threshold: a crisis, a long seclusion, a tribulation. **Drafts and blessings can supply one.**
 
-**Bought Stage** · A Stage reached with a purse. Stages can simply be bought, the wealthy are stronger because they are wealthy, and the great houses hoard the top Drafts, while the poor rise by dungeon luck, guild patronage and blessings. A bought Stage opens the door and no more: it has no Release until one is found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+**Bought Stage** · A Stage reached with a purse. Stages can simply be bought, the wealthy are stronger because they are wealthy, and the great houses hoard the top Drafts, while the poor rise by dungeon luck, guild patronage and blessings. A bought Stage opens the door and no more: it has no Release until one is found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring. A purse can buy the Catalyst for any Stage; at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
 
 **Timer bar** · What a called Release or Domain puts in the window, which fills with its name and what changed while the bar drains. The two-Grade boost cap stands, and only outside help goes past it.
 
@@ -300,7 +308,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Monster** · A beast that gains Levels by killing, each other included, and changes form at its own thresholds. Monsters share the Level and Grade scale with people, read by Gnosis, with question marks for a weak reader. They are graded **T1 to T9** like commissions, and a famous one earns a name, an epithet and a bounty. They move and live across the whole Inner World, and beasts more widely still; the Scourge of Hell is the one area known for extremely dangerous ones. Monster parts make gear.
 
-**Monster core** · In a way the monster's Soul Crystal, worth more the stronger the monster. It is the lawful **Crystal Draw** of The Standing Index, Provenance Class IV, "draw" being the bench's old word for a lot taken off its source.
+**Monster core** · In a way the monster's Soul Crystal, worth more the stronger the monster, and read from the beast's own Grade and Level on the coil, with T as the shorthand for danger and price. It is the lawful **Crystal Draw** of The Standing Index, Provenance Class IV, "draw" being the bench's old word for a lot taken off its source.
 
 **Rendering** · What an alchemist does to a core to make Essence Drafts used for tempering. They carry **Creature-Sourced** potency, the strongest grade of source, and with it **Identity Contamination**: what the core was cut from bleeds into the drinker's convictions.
 
@@ -344,7 +352,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Curse** · Often a blessing with terms you did not read, or a giver who does not care what you want. Nobody can tell at first, and some are both.
 
-**Vow** · Small Fate, a person binding their own probability, open to anyone. Spoken, it shows in the window with the bargain and its terms, and breaking it lands at once. See **Shear Break**, Section XI.
+**Vow** · Small Fate, a person binding their own probability, open to anyone. Spoken, it shows in the window with the bargain and its terms. Breaking it lands at once by its own terms and needs no witness, and repeated denial of the truth behind it makes a **Shear Break**, Section XI. On Munahi, the twenty-ninth of February, the law sleeps and Fate does not: no instrument binds, and a vow spoken on it still holds. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]].
 
 **Fate Essence Draft** · A Master Work of the alchemists: extremely hard to make, and very coveted.
 

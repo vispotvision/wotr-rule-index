@@ -46,13 +46,13 @@ The Dichotomists hold that crossing any interval is impossible, so they read the
 
 **Category** · Vectra
 
-**Craft** · Spellcraft
+**Skill** · Speaking; a thin line held between two masses for the crossing and no longer
 
 **Stage floor** · V, Splintering
 
 **Grade required** · B-Grade
 
-**Path gate** · None (the source's "Mind Path" is not a Path; it reads as Gnosis weighting)
+**Path gate** · None (the old books' "Mind Path" is not a Path; it reads as Gnosis weighting)
 
 ### FOW line
 

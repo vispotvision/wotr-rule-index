@@ -72,7 +72,7 @@ There are four roads, and most people who have more than one Wellspring have wal
 
 Every one of the sixty can be read three ways, and each reading is a whole profession that thinks the other two are amateurs.
 
-**As a spiritual transformation.** The confessor's reading, and the oldest: what taking this Aether into the soul does to the person who survives it. Temperance is the climb of a soul from Stage to Stage, and every Wellspring is a road on that climb, so the Fracture register names Pyreveil *Temperance through burning* and Absolution *Temperance through forgiveness*, and where the Fracture register gives no such name the entry gives the confessors' reading, marked as such and argued over at every deathbed. To pass through a Wellspring is to be unmade just enough to keep going. Every Wellspring touches all three layers of the Crystal, rarely evenly. The **Essence Core** decides how the soul burns, heals or empties under that law, the **Aether Shell** how the law moves through and around the body, and the **Attraction Layer** how reality, memory and people bind to the soul once the law has taken hold.
+**As a spiritual transformation.** The confessor's reading, and the oldest: what taking this Aether into the soul does to the person who survives it. Temperance is the climb of a soul from Stage to Stage, and every Wellspring is a road on that climb, so the Fracture register names Pyreveil *Temperance through burning* and Absolution *Temperance through forgiveness*, and it gives all sixty such a name. Where the confessors read a road otherwise, the entry sets their reading beside the name, marked as such and argued over at every deathbed. To pass through a Wellspring is to be unmade just enough to keep going. Every Wellspring touches all three layers of the Crystal, rarely evenly. The **Essence Core** decides how the soul burns, heals or empties under that law, the **Aether Shell** how the law moves through and around the body, and the **Attraction Layer** how reality, memory and people bind to the soul once the law has taken hold.
 
 **As an alchemical principle.** The bench's reading: what that same idea does to matter in a vessel. Each of the sixty is a living process, a law of transformation, and the discipline of Alchemetrica (the working of Wellspring law upon matter) is built on that fact. The reagents are the nouns and the Wellspring is the verb. Six of the sixty are at once Wellspring, cosmic principle and named bench operation, and four more lend their law to a stage of the Great Work (the seven-stage discipline an alchemist lays on the matter and on himself at once). The rest have no operation filed under their name at the Bench, though every working alchemist has an opinion about what each of them is the principle of, and those opinions appear in the entries, marked as the trade's reading and open to a fight.
 
@@ -111,7 +111,7 @@ Everything below this line is the account the Measurewrights (the guild's certif
 
 The older registers arranged the Wellsprings by feeling. Grief stood with grief. Fire stood with fire because both were warm. It produced a beautiful taxonomy and a useless one, because a practitioner who knew that Cinerion and Pyreveil were both House of the Ember still had no idea why one of them refilled a reserve and the other emptied it faster.
 
-The physics-first sorting corrects that at the cost of intuition. Wellsprings that shared a House for reasons of sorrow are now scattered across five Families. An ember and a stone stand together. Both facts are correct, and both offend the eye of anyone trained on the old registers. Materia Primordia and Tarturon belong in one Family because both are, mechanically, the assessment the Continuum (the whole lawful order of reality) makes of what a soul is made of and how much of it survives contact, and how reckoning feels has nothing to do with it.
+The physics-first sorting corrects that at the cost of intuition. Wellsprings that shared a House for reasons of sorrow are now scattered across five Families. An ember and a stone stand together. Both facts are correct, and both offend the eye of anyone trained on the old registers. Materia Primordia and Tarturon belong in one Family because both are, mechanically, the assessment the Continuum (the whole lawful order of reality) makes of what a soul is made of and how much of it survives contact, and how reckoning feels has nothing to do with it. The sorting also leaks, and the register says so: Sublimatio and Sublimare are phase changes filed under Mechanics, Absolution and Penance are heat treatment and hammer work, Transference and Eclipseron are coupled oscillators and starlight filed under Spatium, and Tenebra, Mirithane and Oblivara are optics filed under Limina. The analogue explains how a Wellspring behaves, and where the two part, the Fracture's Family assignment stands.
 > *A warning to the devotional reader. Naming the physics does not demote the Wellspring. The Aether was always obeying a law. The Measurewrights have simply written the law down.*
 >
 > *A warning to the Measurewright. Writing the law down does not explain why a soul that takes in Absolution stops hating its father. The Families are still sorted by physics, because it works. The entries have stopped pretending the physics came first.*
@@ -127,7 +127,7 @@ The old registers call each type a **current**, and the trade still does, becaus
 
 This is why harmonization changes what a number means without changing the number. A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude. It becomes a Fortitude that behaves like a load-bearing mass rather than like tissue, with the failure curve of stone rather than the failure curve of flesh. **The magnitude stays where it was and the constitutive law changes.**
 
-Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harmonize with twelve or more. Those who embody all sixty are called **Principals of Temperance**, and there are not many of them, and you will not meet one.
+Most practitioners awaken three to five Wellsprings in a lifetime. Serious adepts harmonize with twelve or more. Those who embody all sixty are called **Principals of Temperance**, and there are not many of them, and you will not meet one.
 
 ### Harmonization, Traits, and the glyph
 
@@ -153,7 +153,7 @@ The way groundwater is not stored in a specific container but absolutely collect
 
 | Condition | Why it matters |
 |---|---|
-| **Conductive substrate** | The era-one emplacement described in *The Four Ceilings* laid the mineral foundation during the Creation Age |
+| **Conductive substrate** | The era-one emplacement described in *The Four Ceilings* laid the mineral foundation during the First Eon |
 | **Absence of competing types** | **This is why the New World's arc holds so many pristine sites at densities the Old World has not seen since the Antediluvian Calendar.** *Nobody has been pulling from them. The veins are full. The elven old-ground beside the arc is the opposite case: its Wellsprings have been pulled on since the first Eon* |
 | **Time** | Enough for the Aether to saturate the field **until the environment starts expressing the law as a passive condition of the geography** |
 
@@ -187,14 +187,14 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 
 | Type | Mechanism | Dominant Families |
 |---|---|---|
-| **Wild** *Physical Plane dominant* | The Aether acts on **existing physical material.** The stone was there. The water was there. The metal was there. **The Aether reshapes it, moves it, compresses it, grows it.** *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | Materia, Spatium |
-| **Spirit** *Soul Plane dominant* | The Aether **generates effects from inside the Crystal and projects them outward. The fire was not there until the Aether made it.** The Essence Core is the active layer. *The landscape looks entirely normal. The surveyor's environment is a reliable instrument. The surveyor is not* | Caloria (Fire, Heat, Cold), Fulguria, portions of Vectoria |
-| **Medium** *Veil-crossing* | The Aether operates **in both directions simultaneously**, in the liminal threshold between planes. **Water and Light are the primary Medium elements.** *A Phreatis practitioner at a riverbank is simultaneously reshaping the physical water and being reshaped by what the water remembers. The observer is altered by the observation. Neither body nor Crystal provides a stable reference point* | Vitalia (Water, Growth), Caloria (Light) |
+| **Wild** *Physical Plane dominant* | The Aether acts on **existing physical material.** The stone was there. The water was there. The metal was there. **The Aether reshapes it, moves it, compresses it, grows it.** *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | Materia, Spatium, Vectoria (Gravity, Seismic), Vitalia (Growth, Healing) |
+| **Spirit** *Soul Plane dominant* | The Aether **generates effects from inside the Crystal and projects them outward. The fire was not there until the Aether made it.** The Essence Core is the active layer. *The landscape looks entirely normal. The surveyor's environment is a reliable instrument. The surveyor is not* | Caloria (Fire, Heat, Cold), Fulguria, Limina, Vectoria (Sound, Force projection), Vitalia (Decay, Poison), Fluxia at high concentration |
+| **Medium** *Veil-crossing* | The Aether operates **in both directions simultaneously**, in the liminal threshold between planes. **Water and Light are the primary Medium elements.** *A Phreatis practitioner at a riverbank is simultaneously reshaping the physical water and being reshaped by what the water remembers. The observer is altered by the observation. Neither body nor Crystal provides a stable reference point* | Fluxia, Vitalia (Water), Fulguria (Light), Limina at Veil-Thin density and above |
 
 ### The nested depth model
 
 **The three planes are nested, not stacked.**
-> **The Plane of Fate lies deepest**, the lattice upon which all possibility rests. **The Soul Plane lies between**, the stratum through which abstract law becomes a soul's felt truth. **The Physical Plane sits at the surface**, where truth becomes event, body, ruin, and mountain range.
+> **The Plane of Fate lies deepest**, the lattice upon which all possibility rests. **The Soul Plane lies between**, the stratum through which abstract law becomes a soul's felt truth. **The Physical Plane sits at the surface** (the Material Plane is the same place under its other name), where truth becomes event, body, ruin, and mountain range.
 >
 > *Fate is a precursor. A tide that falls. What is decided at Fate-depth cascades through the Soul Plane and manifests on the Physical Plane as event.*
 >
@@ -225,7 +225,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 
 One EU is one megajoule, so a density in EU per cubic meter is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** That one identity is why the scale is a ceiling and not a mood. A boundary cannot be pushed into ground at a pressure the ground does not carry, and what is standing in the ground has a strength measured in the same unit.
 
-**What a site will actually give.** Aether crosses a site the size of a hall in about a thousand seconds. That is the interval in which the ground replaces what has been taken from it. So a site yields at most **a thousandth of its density, per second**. The supply rate in AU/s (Aether Units per second, a rate of output) per cubic meter is the density in EU/m³ divided by a thousand, and the ceiling on a practitioner's output is that rate across the volume his field reaches.
+**What a site will actually give.** Aether crosses a site the size of a hall in about a thousand seconds. That is the interval in which the ground replaces what has been taken from it. So a site yields at most **a thousandth of its density, per second**. The supply rate in AU/s (Aether Units per second, a rate of output) per cubic meter is the density in EU/m³ divided by a thousand, and the ceiling on a practitioner's sustained output and refill is that rate across the volume his field reaches. A burst is spent out of the reserve he walked in with and owes the ground nothing until he wants it back.
 
 | Density | EU/m³ | As pressure | Supply, AU/s per m³ | Where that sits |
 |---|---|---|---|---|
@@ -237,10 +237,10 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 **In a Silence (ground where no lawful working can be authorized) the figure is zero.** That is the whole of why a Silence is something other than shielding. There is nothing to pull and nothing to push into, which is also why a soul held in one reports the sensation as loneliness rather than as weakness.
 
-**Ambient Saturation is the reference.** Its midpoint, one EU per cubic meter, is the ground every laddered reach is quoted against. Denser ground fills a practitioner faster and lifts his ceiling on output, as the supply column shows, which is why fighters will pay a keeper for it. It does nothing for his arm's length. It raises the floor his own field has to stand above, and addressing range, authority radius and anchor reach all fall as the **square root** of the local density. Concentrated ground cuts all three to an **eighteenth**. A Nexus cuts them to a **thousandth**. A Core cuts them to a **five-millionth**. That last figure is the arithmetic behind the sentence in the table above: inside a Core the law the Wellspring carries is the only law operating, and an S-Grade's kilometer of authority is a fifth of a millimeter wide.
+**Ambient Saturation is the reference.** Its midpoint, one EU per cubic meter, is the ground every laddered reach is quoted against. Denser ground fills a practitioner faster and lifts his ceiling on sustained output, as the supply column shows, which is why fighters will pay a keeper for it. It does nothing for his arm's length. It raises the floor his own field has to stand above, and addressing range, authority radius and anchor reach all fall as the **square root** of the local density. Concentrated ground cuts all three to an **eighteenth**. A Nexus cuts them to a **thousandth**. A Core cuts them to a **five-millionth**. That last figure is the arithmetic behind the sentence in the table above: inside a Core the law the Wellspring carries is the only law operating, and an S-Grade's kilometer of authority is a fifth of a millimeter wide.
 
 **Why residence changes a body.** A person at rest dissipates about a hundred watts through about a fifteenth of a cubic meter, which is one and a half kilowatts per cubic meter. Active Concentration supplies ten to ten thousand kilowatts per cubic meter. The field is putting seven to seven thousand times the subject's own metabolic power density through them, continuously, and a body has no mechanism for declining a power density. That is why Baptism at that condition is involuntary, and why it reaches the shepherd as readily as the adept.
-> **Saturation, stated once.** Saturation begins at **ten thousand EU per cubic meter**, the stress at which a crystal lattice fails. It is reached by leaving that much in each cubic meter of a region, or by sustaining more than **a hundred AU/s through each square meter of the region's boundary**. The two are one statement. The second is the first carried out at the Aether's own speed. The threshold grows with the surface while output does not, so **a kilometer of open ground swallows what a hall would not.** A Zenith field a kilometer across puts about a fifth of one AU/s through each square meter of its edge, a five-hundredth of threshold. The same output inside a twenty-meter hall puts five hundred and fifty through each square meter, five times over, and everyone in the hall is a casualty of it. A drawn circle is the other half of the same arithmetic. A rite bleeding sixty EU a second into two meters of floor reaches Active Concentration within the hour and stays there, which is what the Circle step is for and what an improvised one costs.
+> **Saturation, stated once.** Saturation begins at **ten thousand EU per cubic meter**, the stress at which a crystal lattice fails. It is reached by leaving that much above the ground's own density in each cubic meter of a region (a Nexus or a Core runs past the figure natively, and what those do to a visitor is the Density Scale's business), or by sustaining more than **a hundred AU/s through each square meter of the region's boundary**. The two are one statement. The second is the first carried out at the Aether's own speed. The threshold grows with the surface while output does not, so **a kilometer of open ground swallows what a hall would not.** A Master's field (Stages VIII to X, at the benchmark rate) a kilometer across puts about a fifth of one AU/s through each square meter of its edge, a five-hundredth of threshold. The same output inside a twenty-meter hall puts five hundred and fifty through each square meter, five times over, and everyone in the hall is a casualty of it. Open ground stops being the answer near the top of the ladder: an Archmaster's benchmark through that same kilometer is eighty-odd per square meter, and the top of the Archmaster band runs past threshold. A drawn circle is the other half of the same arithmetic. A rite bleeding sixty EU a second into two meters of floor reaches Active Concentration within the hour and stays there, which is what the Circle step is for and what an improvised one costs.
 
 ---
 
@@ -255,11 +255,12 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 | **The idea** | The concept the Wellspring lays over a soul's Aether, in plain words. Start here. |
 |---|---|
-| **Spirit** | The transformation it works on the soul, the road on the Temperance climb. |
+| **Spirit** | The transformation it works on the soul, the road on the Temperance climb: the Fracture's "Temperance through" name, with the confessors' reading beside it where they read it otherwise. |
 | **Alchemy** | The principle it stands for at the bench: its operation or stage of the Work where it has one, otherwise the trade's reading of what its law does to matter in a vessel. |
 | **Analogue** | How scholars explain it, part one. The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
 | **Mechanism** | What this type of Aether does to Essence and to the Crystal, stated in the analogue's own terms. If the physics says a process is entropically driven, the Wellspring's cost structure says so too. |
-| **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, unchanged from the system source. Behavior, never bonus. |
+| **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, in the current sixty-four names: where the system source names a retired Sub-Stat, the effect sits on the entry that absorbed it. Behavior, never bonus. |
+| **Glyph** | The forms the [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms\|Master Glyph Index]] seats on this Wellspring as primary, with a count of the others it is attested on. |
 | **Failure** | The characteristic malfunction, derived from the physics. Every analogue has a way of going wrong that is specific to it, and a Wellspring inherits its analogue's pathology. |
 
 ---
@@ -273,11 +274,11 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 | **Caloria** | Conviction, rupture, transformation | Heat and its absence | Thermodynamics | 10 |
 | **Fulguria** | Perception, revelation, precision | Electricity, light, magnetism | Electromagnetism | 6 |
 | **Vectoria** | Momentum, the breaking point, the long climb | Force, motion, gravity | Mechanics | 8 |
-| **Spatium** | Distance, absence, the space between | Distance and position | Spatial geometry | 3 |
-| **Materia** | Endurance, structure, grounding | Matter and substance | Material science | 9 |
+| **Spatium** | Distance, absence, the space between | Distance and position | Spatial Geometry | 3 |
+| **Materia** | Endurance, structure, grounding | Matter and substance | Material Science | 9 |
 | **Vitalia** | Growth, generosity, rhythm | Biology and anatomy | Biochemistry | 8 |
-| **Fluxia** | Empathy, reflection, adaptation | Fluids and pressure | Fluid dynamics | 4 |
-| **Limina** | Endings, dissolution, the truth in what is missing | Entropy, void, mind | Abstract / entropic | 13 |
+| **Fluxia** | Empathy, reflection, adaptation | Fluids and pressure | Fluid Dynamics | 4 |
+| **Limina** | Endings, dissolution, the truth in what is missing | Entropy, void, mind | Abstract/Entropic Systems | 13 |
 
 *Sixty-one listings against sixty unique types. Phreatis answers to Vitalia and Fluxia both and is deliberately counted twice.*
 
@@ -285,12 +286,12 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 ## Environmental Coupling
 
-Because each Family answers to a real physical domain, each Family answers to real physical conditions. Aetheric Density sets the ceiling on output rate everywhere, but a Family's Physics Domain sets a **second, narrower gate** on top of it, and veterans choose ground accordingly.
+Because each Family answers to a real physical domain, each Family answers to real physical conditions. Aetheric Density sets the ceiling on sustained output everywhere, but a Family's Physics Domain sets a **second, narrower gate** on top of it, and veterans choose ground accordingly.
 
 | Family | Encounter type | Favored conditions | Suppressive conditions |
 |---|---|---|---|
-| **Caloria** | **Spirit** (Fire/Heat/Cold) · **Medium** (Light) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
-| **Fulguria** | **Spirit** | Dry air, conductive substrate, clear line of sight | Faraday-caged interiors, heavy ferrous shielding, dense fog |
+| **Caloria** | **Spirit** (Fire/Heat/Cold) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
+| **Fulguria** | **Spirit** · **Medium** (Light) | Dry air, conductive substrate, clear line of sight | Iron-caged interiors, heavy ferrous shielding, dense fog |
 | **Vectoria** | Split: **Wild** (Gravity, Seismic) · **Spirit** (Sound, Force projection) | Structural mass, elevation, brittle or pre-stressed material | Loose sediment, free fall, uniform soft ground |
 | **Spatium** | **Wild** | Veil-thin zones, established Realmgates (standing doorways between Realms), surveyed ground | Warp scarring, contested Domains (spaces where one practitioner's law outranks local physics), unmapped terrain |
 | **Materia** | **Wild** | Mineral-rich rock, worked stone, deep foundation | Open water, high altitude, moving platforms |
@@ -323,13 +324,19 @@ Because each Family answers to a real physical domain, each Family answers to re
 
 **Sublimatio and Sublimare** · The two have been treated as near-duplicates in prior registers on the strength of their names. The physical reading separates them cleanly: sublimation skips a phase, fractional distillation separates a mixture. They are different operations with different residues and different failure modes, and the duplication was linguistic rather than mechanical.
 
+**Sublimare's Family in the Codex** · Three Codex rows, the glyph `[Prc]` Pressure, the spell Pressure Veil and one alchemical row, still give Sublimare as "Cross-Family" and read it as tracking phase-transition behavior. The Fracture register files it in Vectoria and its bench law is distillation, and this register follows both. The Codex's wording is recorded here and left as it stands.
+
+**Vohrin** · Frost arts and cold galleries are entered all over the registers as "Vohrin (Caloria)", and Vohrin is a Titan's power and not one of the Sixty. The count stays at sixty. The power can be worked at Wellspring level, a cold site is filed as a Titan-touched site, and the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]] carries a marked note with its analogue, failure and signature as the register's one exception. Several Codex rows still give frost to Cymorath, which is the Air of Ascent and no frost Wellspring.
+
+**The eleven with no form** · Pyreveil, Cinerion, Manganthra, Aurevane, Nyxial, Tarturon, Ascensio, Abython, Penance, Redemption and Contrition appear in no row of the [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|Glyph Index]], primary or attested. The Index is fixed at 136 and nobody has shown whether the gap is in the record or in the world. A working under one of the eleven is written in a form seated elsewhere or in one of the unclassified Roots, which name a kind of limit and will condition any law.
+
 **Family names in older sources** · House of the Green Pulse, House of the Veil, House of the Black Gate and similar appear throughout the Wellspring codices and the Veil literature. These are the pre-correction feeling-first Houses and do not map cleanly onto the eight Families. Conversion tables have been requested twice.
 
 ---
 
 ## The Register
 
-Each Family carries its own entry, with every Wellspring given its idea, Spirit and Alchemy first, and then its Analogue, Mechanism, Stat Effect and Failure as the scholars explain them.
+Each Family carries its own entry, with every Wellspring given its idea, Spirit and Alchemy first, and then its Analogue, Mechanism, Stat Effect, Glyph and Failure as the scholars explain them.
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics]]
@@ -338,3 +345,5 @@ Each Family carries its own entry, with every Wellspring given its idea, Spirit 
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind]]
+
+**Read next:** [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|The Master Glyph Index]], the boundaries imposed on these laws. This page sits on the shelf called [[The Magic System/The Foundations/The Foundations|The Foundations]].

@@ -46,7 +46,7 @@ The theory is the Residue Position, which says every Wellspring is the residue o
 
 **Category** · Synergia
 
-**Craft** · Magicraft
+**Skill** · Bodily speaking, anchored in the hand and the blood on a bone he killed for, and held as long as it is paid and the heart holds
 
 **Stage floor** · VI, Glory
 
@@ -58,7 +58,7 @@ The theory is the Residue Position, which says every Wellspring is the residue o
 
 **Governing Primary** · Tempering (248, B-Grade), read alongside Gnosis (212, B) for identifying which trait a given kill will yield.
 
-**Sub-Stats** · Tempering-Inheritance, Gnosis-Cartography.
+**Sub-Stats** · Tempering-Maturity, Gnosis-Perception.
 
 **Stage floor** · VI, Glory.
 

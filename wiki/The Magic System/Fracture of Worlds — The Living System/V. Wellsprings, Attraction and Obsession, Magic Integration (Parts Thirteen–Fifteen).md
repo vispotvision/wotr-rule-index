@@ -34,7 +34,7 @@ A character with Fortitude at B-Grade who harmonizes with Monolithion does not g
 
 Every Wellspring touches all three layers of the Crystal, rarely evenly. The **Essence Core** determines how the soul burns, heals or empties under that law. The **Aether Shell** determines how the law moves through and around the body. The **Attraction Layer** determines how reality, memory and people bind to the soul once the law has taken hold.
 
-Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts may harmonize with twelve or more. Those rare beings who embody all Sixty are called **Principals of Temperance**.
+Most practitioners awaken three to five Wellsprings in a lifetime. Serious adepts may harmonize with twelve or more. Those rare beings who embody all Sixty are called **Principals of Temperance**.
 
 ### The Eight Families
 
@@ -45,6 +45,8 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 *Heat and its absence. Fire, cold, and the transfer between them. Thermodynamics, where creation and destruction run the same current.*
 
 **Stat Affinity:** Ardency (Flux, Overchannel, Depth, Cascade, Compression), Vitality (Tolerance, Threshold, Constitution), Tempering (Overflow, Yield, Clarity, Longevity)
+
+*Frost is not one of the ten below. Vohrin, the cold the frost arts keep reaching for, is a Titan's power outside the Sixty, and the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]] carries the note on it.*
 
 **Pyreveil**, the Fire of Renewal. Temperance through burning; destruction reborn as creation. Strengthens Ardency Flux, Ardency Depth, Vitality Tolerance. Output burns hotter. The body stops minding heat.
 
@@ -60,7 +62,7 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Cataclysm**, the Shattered Law. Temperance through upheaval. Strengthens Ardency Cascade, Ardency Overchannel, Dominion Radius. Area expressions become wider and more coherent.
 
-**Pyraeon**, the Ember Crown. Temperance through endurance. Strengthens Vitality Constitution, Tempering Longevity, Ardency Flux. Output does not fade over time.
+**Pyraeon**, the Ember Crown. Temperance through endurance. Strengthens Vitality Constitution, Tempering Longevity, and Ardency Flux held over time rather than Flux at peak. Output does not fade over time.
 
 **Catharsis**, the Wellspring of Release. Temperance through letting go. Strengthens Harmonics Empathy, Tempering Maturity, Resilience Fortification. Emotional weight converts to structural clarity.
 
@@ -124,23 +126,23 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Stat Affinity:** Vitality (Fortitude, Tolerance, Regeneration, Absorption), Resilience (Integrity, Anchoring, Hardening, Persistence, Fortification), Dominion (Gravity), Tempering (Coherence, Clarity)
 
-**Coagula**, the Unifying Pulse. The personal, Soul Plane unifying force; a soul gathering itself back together. Strengthens Resilience Integrity, Tempering Coherence. The Crystal becomes harder to split.
+**Coagula**, the Unifying Pulse. Temperance through merging. The personal, Soul Plane unifying force; a soul gathering itself back together. Strengthens Resilience Integrity, Tempering Coherence. The Crystal becomes harder to split.
 
-**Fixatio**, the Binding Flame. The anchoring law. Strengthens Vitality Fortitude, Resilience Anchoring. What is held by Fixatio stays held.
+**Fixatio**, the Binding Flame. Temperance through permanence. The anchoring law. Strengthens Vitality Fortitude, Resilience Anchoring. What is held by Fixatio stays held.
 
-**Coagulatio**, the Returning Stone. The material twin of Coagula, the alchemical operation that gathers substrate. Strengthens Ardency Compression, Tempering Clarity. Essence becomes denser, harder to waste.
+**Coagulatio**, the Returning Stone. Temperance through re-forming. The material twin of Coagula, the alchemical operation that gathers substrate. Strengthens Ardency Compression, Tempering Clarity. Essence becomes denser, harder to waste.
 
-**Materia Primordia**, the First Substance. Strengthens Vitality Fortitude, Dominion Gravity. Body and Domain gain mineral-weight authority.
+**Materia Primordia**, the First Substance. Temperance through origin. Strengthens Vitality Fortitude, Dominion Gravity. Body and Domain gain mineral-weight authority.
 
-**Basilithe**, the Stone Will. Strengthens Resilience Hardening, Harmonics Stability. The soul's frequency locks and refuses retuning.
+**Basilithe**, the Stone Will. Temperance through permanence. Strengthens Resilience Hardening, Harmonics Stability. The soul's frequency locks and refuses retuning.
 
-**Monolithion**, the Enduring Monument. Strengthens Vitality Tolerance, Resilience Persistence, Dominion Gravity. Presence becomes geological.
+**Monolithion**, the Enduring Monument. Temperance through memory. Strengthens Vitality Tolerance, Resilience Persistence, Dominion Gravity. Presence becomes geological.
 
-**Terranova**, the Living Earth. Strengthens Vitality Regeneration, Harmonics Synergy. The body heals by growing rather than repairing.
+**Terranova**, the Living Earth. Temperance through birth. Strengthens Vitality Regeneration, Harmonics Synergy. The body heals by growing rather than repairing.
 
-**Chthonica**, the Root Deep. Strengthens Vitality Absorption, Dexterity Economy, Dominion Gravity. Roots to whatever surface it stands on.
+**Chthonica**, the Root Deep. Temperance through grounding. Strengthens Vitality Absorption, Dexterity Economy, Dominion Gravity. Roots to whatever surface it stands on.
 
-**Tarturon**, the Fire of Reckoning. Correction through consequence. Strengthens Ardency Flux under moral weight, Tempering Overflow, Resilience Fortification. Output spikes when the practitioner believes they deserve to pay.
+**Tarturon**, the Fire of Reckoning. Temperance through ordeal; correction through consequence. Strengthens Ardency Flux under moral weight, Tempering Overflow, Resilience Fortification. Output spikes when the practitioner believes they deserve to pay.
 
 ### Vitalia
 
@@ -148,21 +150,21 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Stat Affinity:** Vitality (Hemostasis, Regeneration), Harmonics (Synergy, Empathy, Axis, Attunement), Resilience (Oath, Persistence, Integrity, Anchoring), Tempering (Yield, Maturity)
 
-**Anima Spirare**, the Soul's Breath. Strengthens Vitality Hemostasis, Vitality Regeneration, Harmonics Synergy. Wounds close because the body remembers being whole.
+**Anima Spirare**, the Soul's Breath. Temperance through vitality. Strengthens Vitality Hemostasis, Vitality Regeneration, Harmonics Synergy. Wounds close because the body remembers being whole.
 
-**Verdantia**, the Green Pulse. Strengthens Vitality Regeneration, Tempering Yield, Harmonics Synergy. Passive Essence recovery accelerates.
+**Verdantia**, the Green Pulse. Temperance through growth. Strengthens Vitality Regeneration, Tempering Yield, Harmonics Synergy. Passive Essence recovery accelerates.
 
-**Benediction**, the Wellspring of Grace. Strengthens Harmonics Empathy, Harmonics Axis, Resilience Oath. Bonds formed under Benediction carry mechanical weight.
+**Benediction**, the Wellspring of Grace. Temperance through compassion. Strengthens Harmonics Empathy, Harmonics Axis, Resilience Oath. Bonds formed under Benediction carry mechanical weight.
 
-**Rebirthine**, the Cycle Eternal. Strengthens Resilience Persistence, Tempering Maturity, Vitality Regeneration. The Crystal treats destruction as the first step of reconstruction.
+**Rebirthine**, the Cycle Eternal. Temperance through renewal. Strengthens Resilience Persistence, Tempering Maturity, Vitality Regeneration. The Crystal treats destruction as the first step of reconstruction.
 
-**Mortalis**, the Black Gate. Strengthens Resilience Persistence, Gnosis Cognition. The soul engages ending as a structural event rather than a catastrophe.
+**Mortalis**, the Black Gate. Temperance through surrender. Strengthens Resilience Persistence, Gnosis Cognition. The soul engages ending as a structural event rather than a catastrophe.
 
-**Redemption**, the Light Reclaimed. Strengthens Tempering Maturity, Resilience Integrity, Dominion Fate. Past trauma sites become the strongest points in the Crystal.
+**Redemption**, the Light Reclaimed. Temperance through return. Strengthens Tempering Maturity, Resilience Integrity, Dominion Fate. Past trauma sites become the strongest points in the Crystal.
 
-**Contrition**, the Broken Flame. Strengthens Tempering Maturity, Resilience Integrity. Past failures become structural reinforcement.
+**Contrition**, the Broken Flame. Temperance through acceptance. Strengthens Tempering Maturity, Resilience Integrity. Past failures become structural reinforcement.
 
-**Phreatis**, the Waters of Memory. Strengthens Gnosis Retention, Harmonics Attunement, Resilience Anchoring. **Cross-listed with Fluxia**; sits on the boundary between the body's memory and water's memory and answers to both Families.
+**Phreatis**, the Waters of Memory. Temperance through reflection. Strengthens Gnosis Retention, Harmonics Attunement, Resilience Anchoring. **Cross-listed with Fluxia**; sits on the boundary between the body's memory and water's memory and answers to both Families.
 
 ### Fluxia
 
@@ -172,11 +174,11 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Phreatis**, the Waters of Memory. Cross-listed from Vitalia; same effect in either context.
 
-**Somnalis**, the Dream Veil. Strengthens Gnosis Forecast, Dominion Sense. Adjacent possibilities perceived as clearly as present facts.
+**Somnalis**, the Dream Veil. Temperance through vision. Strengthens Gnosis Forecast, Dominion Sense. Adjacent possibilities perceived as clearly as present facts.
 
-**Thaloré**, the Wellspring of Depth. Strengthens Harmonics Projection, Dominion Pressure. Emotional truth acquires metaphysical weight.
+**Thaloré**, the Wellspring of Depth. Temperance through immersion. Strengthens Harmonics Projection, Dominion Pressure. Emotional truth acquires metaphysical weight.
 
-**Oblation**, the Offering Flame. Strengthens Harmonics Axis, Dominion Command, Tempering Yield. Willingness to pay soul-cost translates directly into Essence generation.
+**Oblation**, the Offering Flame. Temperance through sacrifice. Strengthens Harmonics Axis, Dominion Command, Tempering Yield. Willingness to pay soul-cost translates directly into Essence generation.
 
 ### Limina
 
@@ -184,31 +186,31 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Stat Affinity:** Gnosis (Cognition, Retention, Analysis), Resilience (Anchoring, Ward, Persistence, Continuity), Harmonics (Attunement, Suppression, Stability), Dominion (Sovereignty, Sense, Gravity)
 
-**Letheveil**, the Waters of Forgetting. Tests Resilience Anchoring rather than strengthening it, and strengthens Gnosis Cognition. Teaches which memories are load-bearing and which are chains.
+**Letheveil**, the Waters of Forgetting. Temperance through release of memory. Tests Resilience Anchoring rather than strengthening it, and strengthens Gnosis Cognition. Teaches which memories are load-bearing and which are chains.
 
-**Lethegraal**, the Cup of Forgetting. Strengthens Tempering Maturity, Harmonics Stability. The Crystal digests old pain into neutral architecture.
+**Lethegraal**, the Cup of Forgetting. Temperance through quiet. Strengthens Tempering Maturity, Harmonics Stability. The Crystal digests old pain into neutral architecture.
 
-**Hypnather**, the Sleep Crown. Strengthens Vitality Regeneration during rest cycles, Tempering Yield, Gnosis Retention. Recovery during sleep becomes dramatically more efficient.
+**Hypnather**, the Sleep Crown. Temperance through rest. Strengthens Vitality Regeneration during rest cycles, Tempering Yield, Gnosis Retention. Recovery during sleep becomes dramatically more efficient.
 
-**Mirithane**, the Wellspring of Reflection. Strengthens Harmonics Attunement, Tempering Coherence. Output becomes a more honest reflection of internal state.
+**Mirithane**, the Wellspring of Reflection. Temperance through stillness. Strengthens Harmonics Attunement, Tempering Coherence. Output becomes a more honest reflection of internal state.
 
-**Oneirion**, the Wellspring of Dream. Strengthens Gnosis Cognition, Dominion Sovereignty, Ardency Cascade. Workings operate through conceptual space, not just physical space.
+**Oneirion**, the Wellspring of Dream. Temperance through imagination. Strengthens Gnosis Cognition, Dominion Sovereignty, Ardency Cascade. Workings operate through conceptual space, not just physical space.
 
-**Eidolyn**, the Shaping Mind. Strengthens Ardency Density, Gnosis Retention. Mental constructs gain material solidity and more of them can be held loaded.
+**Eidolyn**, the Shaping Mind. Temperance through creation. Strengthens Ardency Density, Gnosis Retention. Mental constructs gain material solidity and more of them can be held loaded.
 
-**Anamnesis**, the Wellspring of Remembrance. Strengthens Gnosis Retention, Gnosis Analysis for reading past trauma, Resilience Anchoring. Reads history through contact with objects, places and beings.
+**Anamnesis**, the Wellspring of Remembrance. Temperance through awareness. Strengthens Gnosis Retention, Gnosis Analysis for reading past trauma, Resilience Anchoring. Reads history through contact with objects, places and beings.
 
-**Dissolution**, the Unbinding Stream. Strengthens Resilience Ward, Tempering Maturity. Dissolves what no longer serves the Crystal's architecture.
+**Dissolution**, the Unbinding Stream. Temperance through release. Strengthens Resilience Ward, Tempering Maturity. Dissolves what no longer serves the Crystal's architecture.
 
-**Tenebra**, the Hidden Shadow. Strengthens Dexterity Feint, Harmonics Suppression, Dominion Sense. Difficult to detect, read or track by conventional or Aetheric means.
+**Tenebra**, the Hidden Shadow. Temperance through secrecy. Strengthens Dexterity Feint, Harmonics Suppression, Dominion Sense. Difficult to detect, read or track by conventional or Aetheric means.
 
-**Oblivara**, the Dark Mirror. Strengthens Resilience Persistence, Gnosis Cognition. Resistance to conceptual erasure and perceptual manipulation.
+**Oblivara**, the Dark Mirror. Temperance through erasure. Strengthens Resilience Persistence, Gnosis Cognition. Resistance to conceptual erasure and perceptual manipulation.
 
-**Nyxial**, the Nocturne Flame. Strengthens Harmonics Stability, Dominion Gravity, Vitality Constitution. Baseline output does not fluctuate with environmental pressure.
+**Nyxial**, the Nocturne Flame. Temperance through night. Strengthens Harmonics Stability, Dominion Gravity, Vitality Constitution. Baseline output does not fluctuate with environmental pressure.
 
-**Nihiloth**, the Hollow Law. Strengthens Dominion Sovereignty, Resilience Persistence, Gnosis Cognition. Imposes law through negation. The Domain does not add rules. It removes them.
+**Nihiloth**, the Hollow Law. Temperance through void. Strengthens Dominion Sovereignty, Resilience Persistence, Gnosis Cognition. Imposes law through negation. The Domain does not add rules. It removes them.
 
-**Vantabriel**, the Wellspring of Night. Strengthens Resilience Continuity, Harmonics Attunement, Tempering Longevity. Endures by carrying the memory of what was lost rather than replacing it.
+**Vantabriel**, the Wellspring of Night. Temperance through absence. Strengthens Resilience Continuity, Harmonics Attunement, Tempering Longevity. Endures by carrying the memory of what was lost rather than replacing it.
 
 ### Wellspring Stacking and Interference
 
@@ -275,7 +277,7 @@ The parasitic inversion. Where Attraction recognizes, Obsession imprisons. Where
 
 ## Part Fifteen — Magic System Integration
 
-*"Twenty categories, one underlying grammar."*
+*"Twenty-six categories, one underlying grammar."*
 
 The stat system is the structural skeleton beneath every magic system in WOTR. When a character casts a Sage Art, activates a Spirit Summon, inscribes a Parunic Draft or expresses a Hataraki Work, the mechanical interaction passes through the stat framework. The stats are the physical, spiritual and metaphysical architecture that determines whether a technique succeeds, fails, or destroys the caster.
 
@@ -307,7 +309,7 @@ Aetheric effects encoded into Parunic inscription structures that persist indepe
 
 **Secondary:** Dexterity Finesse for physical precision of execution. Tempering Clarity for the cleanliness of Essence routed into the glyph. Dominion Gravity for persistence against environmental erosion.
 
-Runes and tags, like Drafts and chants, are skills and trades anyone can level, and they show as Grades on the sheet.
+Runes and tags, like chants, are skills and trades anyone with a woken Crystal can level, and they show as Grades on the sheet. Drafts are the one such trade a Crystal that never woke can pour.
 
 ### Hataraki, the Works of the Plane of Fate
 

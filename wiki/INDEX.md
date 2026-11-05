@@ -565,7 +565,7 @@
 - [[The Magic System/Power in Use/Reinforcement|Reinforcement]]
 - [[The Magic System/Power in Use/Runes and Tags|Runes and Tags]]
 - [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]
-- [[The Magic System/Power in Use/The Four Crafts|The Working Trades]]
+- [[The Magic System/Power in Use/The Working Trades|The Working Trades]]
 
 ### Practice and Institution
 
@@ -584,7 +584,7 @@
 
 - [[The Magic System/Reference and Craft/Reference and Craft|Reference and Craft]]
 - [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]
-- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories — Unified Taxonom]]
+- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories — Unified Taxonomy]]
 - [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]
 - [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]
 

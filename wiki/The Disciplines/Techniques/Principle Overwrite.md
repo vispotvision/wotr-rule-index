@@ -4,7 +4,7 @@ title: "The Creation Clause"
 
 # THE CREATION CLAUSE
 
-*Spellcraft, Domain Weaving, Stage XIV. The scholars' term is Principle Overwrite. Very few living have stood inside one, and fewer can tell you what happened in what order.*
+*Speaking, Domain Weaving, Stage XIV. The scholars' term is Principle Overwrite. Very few living have stood inside one, and fewer can tell you what happened in what order.*
 
 The minstrels will tell you about the Silent Drums of Carrow Field: nine thousand men in painted harness on a blazing summer morning, and one voice, unhurried, naming a law and its replacement. Every drum on the field stopped between one beat and the next, and the drummers went on swinging. A war-bow's arrow stood in a captain's throat a full breath before his archer loosed it, and the archer loosed it anyway, weeping. Three different songs give three different amendments, and all three are wrong in the details, because the singers learned it from men who could not agree on which came first, and that was rather the point.
 
@@ -76,7 +76,7 @@ The Shell holds the wall (Class Radiant), the Attraction Layer authorizes a five
 - **Family** · Fulguria (Judicium, Electromagnetism); Caloria (Exuroth and Catharsis, Thermodynamics)
 - **Physics Domain** · Electromagnetism, primary; Thermodynamics, secondary
 - **Category** · Domain Weaving (Attraction-Aligned), a single soul's law-claim over a bounded field, forcing local reality to obey the new vector, rather than an alignment of existing fields
-- **Craft** · Spellcraft (Declared activation, holds only while sustained)
+- **Skill** · Speaking (Declared activation, holds only while sustained)
 - **Stage floor** · Stage XIV, Zenith
 - **Grade required** · EX-Grade
 - **Path gate** · Spirit Path

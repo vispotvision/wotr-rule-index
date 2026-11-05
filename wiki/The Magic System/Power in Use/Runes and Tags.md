@@ -2,7 +2,7 @@
 title: Runes and Tags
 ---
 
-*Runes in the hand and on the field: runed gear, prepared tags, bonded weapons, and runes cut into living bodies. For the whole system in brief, see How Magic Works; for the cutting beside the other working trades, see [[The Magic System/Power in Use/The Four Crafts|The Working Trades]].*
+*Runes in the hand and on the field: runed gear, prepared tags, bonded weapons, and runes cut into living bodies. For the whole system in brief, see [[The Magic System/First Steps/How Magic Works|How Magic Works]]; for the cutting beside the other working trades, see [[The Magic System/Power in Use/The Working Trades|The Working Trades]].*
 
 > *"Check the seal, check the date, check who sold it to you, and then stand well back."* Painted over the door of the tag-sellers' row at Skelby, since the events described below.
 
@@ -35,7 +35,7 @@ The cutting (a working written in Parun, the glyph grammar of all magic, into a 
 |---|---|---|
 | **Ambient** | Drinks the Aether (the world's medium of power) of the place it is set. Cheap and quiet to carry | Dies on thin, salted or bled ground (Aether-poor by nature, worked against pooling, or pulled empty), beside a Core (a Wellspring site, in common speech) whose keepers have closed it, or in Silence (a region where magic cannot be worked) |
 | **The user's reserve** | Takes its force from the one who sets it off. The stronger the user, the stronger the tag | Costs the user, mid-fight |
-| **The maker's charge** | Carries Essence the maker stored in it. Works anywhere, at the maker's strength | Dear, and goes stale, as an enhanced bolt does |
+| **The maker's charge** | Carries Essence the maker stored in it. Works anywhere short of a Silence, at the maker's strength | Dear, and goes stale, as an enhanced bolt does |
 
 Only practitioners can use a tag. The working waits for a woken Crystal (the Soul Crystal, the soul itself, opened and taught) to close it, and a sealed Crystal cannot. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under a hall's mark, make them, and a black market sells unstamped ones beside every hall.
 
@@ -75,4 +75,6 @@ Only practitioners can use a tag. The working waits for a woken Crystal (the Sou
 
 **Elsie Marrow**, a Stage II hired hunter, goes into a flooded mill after a Well-spawn (a creature born out of a Well) with a belt-book of six tags. Two are ambient flash tags at 2 silver each; two are reserve binding tags at 5 silver; two are charged ward tags, 1 gold apiece, cut by a Journeyman she trusts.
 
-The mill's ground was bled a decade ago, when a sect ran its novices there for a season, and the Aether in the wet stone is thin: her first flash tag sputters and dies on the wall. She knew it might. She slaps a reserve binding on the spawn's foreleg, it takes a long breath of her own Essence and flares a dull char-dark with warmth under it, and the leg locks. The second binding she cannot afford; her reserve is near half and she still needs her coat. She sets the two charged wards on the doorway behind her instead, and they run at her Journeyman's strength, not hers, which is the whole reason she paid a gold mark for each. The spawn hits the ward and stops.
+The mill's ground was bled a decade ago, when a sect ran its novices there for a season, and the Aether in the wet stone is thin: her first flash tag sputters and dies on the wall. She knew it might. She slaps a reserve binding on the spawn's foreleg, it takes a long breath of her own Essence and flares a dull, smoky orange, and the leg locks. The second binding she cannot afford; her reserve is near half and she still needs her coat. She sets the two charged wards on the doorway behind her instead, and they run at her Journeyman's strength, not hers, which is the whole reason she paid a gold mark for each. The spawn hits the ward and stops.
+
+*Read next: [[The Magic System/Power in Use/The Working Trades|The Working Trades]].*

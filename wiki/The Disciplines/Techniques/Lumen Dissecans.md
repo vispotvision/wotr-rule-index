@@ -46,7 +46,7 @@ The Signaturists read an inner virtue from an outward mark and blame a failed re
 
 **Category** · Harmonia, the Thaumic Harmonics branch: taking a hostile working apart by reading its structure.
 
-**Craft** · Spellcraft, gestured and declared: a sigil drawn over one eye projects the beam.
+**Skill** · Speaking, gestured and declared: a sigil drawn over one eye projects the beam.
 
 **Stage floor** · Glory
 

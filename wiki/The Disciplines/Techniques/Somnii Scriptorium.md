@@ -4,7 +4,7 @@ title: "Oubliette of the Spoken Name"
 
 # OUBLIETTE OF THE SPOKEN NAME
 
-*Spellcraft, Claustra, Stage VII with a late push toward S-Grade. The scholars' term is Somnii Scriptorium, or Somnium Scriptorium. Serenyra's own.*
+*Speaking, Claustra, Stage VII with a late push toward S-Grade. The scholars' term is Somnii Scriptorium, or Somnium Scriptorium. Serenyra's own.*
 
 The bell-founder Wilmot Garside of Hartsop stood in the middle of the Lady Fair for eighteen seconds with his mouth a little open, a pie in one hand and a gold-and-green banner flapping over his head, while a child stole his purse. A woman nearby glowed faintly like a good lamp and said nothing further. When he came back he dropped the pie and told the bailiff he had been questioned for an hour in his own mother's kitchen and had told her everything. He signed a confession that afternoon, and an Oneirocritic of good standing swore to it. Nobody has ever found out what the man actually did, and his bells are excellent.
 
@@ -45,7 +45,7 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 
 **Half-beat** · While the chamber stands the practitioner is late to everything in the room; and the first use shows the working to any survivor.
 
-**Wards** · A ward is Runecraft on a substrate and fails when its substrate is chiseled, never by argument.
+**Wards** · A ward is a working cut on a substrate and fails when its substrate is chiseled, never by argument.
 
 **Look up** · The Limina entries for Oneirion and Eidolyn and their Failures; the Claustra seals; the Counterplay register for Lock, Knot and wards; the Refraction and Transcendence Stage tables.
 
@@ -85,7 +85,7 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 
 **Category** · Claustra: the chamber holds the target's consciousness against its own nature, and a seal that loses its anchor opens rather than fades.
 
-**Craft** · Spellcraft, spoken: a glyph inscribed in the air toward the target, anchored by naming him.
+**Skill** · Speaking, said aloud: a glyph inscribed in the air toward the target, anchored by naming him.
 
 **Stage floor** · Refraction
 

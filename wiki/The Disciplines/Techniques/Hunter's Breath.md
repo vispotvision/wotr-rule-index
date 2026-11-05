@@ -46,7 +46,7 @@ The atomists hold that bodies shed thin films of themselves, so concealment mean
 
 **Category** · Silentia
 
-**Craft** · Magicraft
+**Skill** · Bodily speaking, with the breath as anchor below Refraction; it holds through the exhale
 
 **Stage floor** · VI, Glory
 
@@ -56,9 +56,9 @@ The atomists hold that bodies shed thin films of themselves, so concealment mean
 
 ### FOW line
 
-**Governing Primary** · Dexterity (358, A-Grade), Sub-Stat Dexterity-Silence (386, near its author's own ceiling).
+**Governing Primary** · Dexterity (358, A-Grade), Sub-Stat Dexterity-Feint (386, near its author's own ceiling).
 
-**Sub-Stats** · Dexterity-Silence, Vitality-Tolerance (cold endurance while the mist is held).
+**Sub-Stats** · Dexterity-Feint, Vitality-Tolerance (cold endurance while the mist is held).
 
 **Stage floor** · VI, Glory.
 
@@ -80,7 +80,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
 
-**Look up** · Tenebra's aspect dependence in the Limina entries; Vohrin among the Caloria entries and the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
+**Look up** · Tenebra's aspect dependence in the Limina entries; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]], and Vohrin among the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
 
 ## Numbers
 

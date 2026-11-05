@@ -4,7 +4,7 @@ title: "The Paradox-Devouring Heart"
 
 # THE PARADOX-DEVOURING HEART
 
-*Spellcraft, internalized, Traitus, Stage XIV. The scholars' term is the Principle Engine. There is nothing to shout, because it never stops.*
+*Speaking, internalized, Traitus, Stage XIV. The scholars' term is the Principle Engine. There is nothing to shout, because it never stops.*
 
 The Dialectical faculty at the Collegium teaches that contradiction held long enough rises into synthesis, and its masters collect refined binds the way other old men collect wine. Doctor Theobald Rooke nursed one for thirty-one years, a beautiful little thing about promises made to the dead, and he was the calmest person anyone had ever met, serene in his plum-colored gown, beloved of students, immune to in-laws. During a very ordinary lecture on the second day of the Candle Fair, it nucleated. All thirty-one years of it let go at once. They rebuilt the east wing in a warmer stone. The surviving students will tell you it was the best lecture he ever gave.
 
@@ -84,7 +84,7 @@ The Dialectical faculty teaches that contradiction held long enough rises into s
 
 **Category** · Traitus
 
-**Craft** · Spellcraft (Internalized: the chain held silently in the Crystal, never spoken)
+**Skill** · Speaking (Internalized: the chain held silently in the Crystal, never spoken)
 
 **Stage floor** · Stage XIV, Zenith
 
@@ -96,7 +96,7 @@ The Dialectical faculty teaches that contradiction held long enough rises into s
 
 **Governing Primary** · Tempering.
 
-**Governing Sub-Stats** · Tempering Processing (the conversion itself), Harmonics Empathy (sensing the paradox as load before it becomes damage), Resilience Insulation. All three are Catharsis's own documented Stat Effect.
+**Governing Sub-Stats** · Tempering Maturity (the conversion itself), Harmonics Empathy (sensing the paradox as load before it becomes damage), Resilience Fortification. All three are Catharsis's own documented Stat Effect.
 
 **Stage floor** · Stage XIV, Zenith.
 

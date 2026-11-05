@@ -4,7 +4,7 @@ title: "The Nine-Second Eternity"
 
 # THE NINE-SECOND ETERNITY
 
-*Spellcraft, Claustra, Stage IV. The scholars' term is Sigillum Fixationis, or Sigillum Fixatio, and the working word is still Esto, "let it be so."*
+*Speaking, Claustra, Stage IV. The scholars' term is Sigillum Fixationis, or Sigillum Fixatio, and the working word is still Esto, "let it be so."*
 
 The Fixatists held the Sawle Ridge against a hill-clan raid, seven brothers in undyed wool under a sky so blue it hurt, and Brother Aumery took the first spear and closed his own fist on himself and said the word. He stood there. The spear stuck out of him and did nothing further. The bleeding stopped, a mace bounced off his shoulder, and his brothers roared the old hymn that says change was never real. At the ninth second everything he was owed arrived, in the order it had been ordered, and the raiders stepped over him laughing. The Fixatists call this a martyrdom. Measurewrights call it a counting error.
 
@@ -90,7 +90,7 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 
 **Category** · Claustra
 
-**Craft** · Spellcraft
+**Skill** · Speaking, with the spoken word and the closing hand as anchors below Refraction
 
 **Stage floor** · IV, Flourishing
 

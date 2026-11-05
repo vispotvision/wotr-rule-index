@@ -44,11 +44,11 @@ The Magnetists teach it as medicine, a curative crisis held by the operator's at
 
 **Family** · Limina (all three)
 
-**Physics Domain** · Abstract-Entropic Systems
+**Physics Domain** · Entropy, Void and Mind
 
 **Category** · Harmonia (Spirit ↔ Attraction: tuning and destabilizing another Crystal's own Wellspring processes, rather than casting a new effect onto them)
 
-**Craft** · Spellcraft
+**Skill** · Speaking, a held line to one body, kept by the operator's attention
 
 **Stage floor** · Stage VII, Refraction
 
@@ -60,7 +60,7 @@ The Magnetists teach it as medicine, a curative crisis held by the operator's at
 
 **Governing Primary Stat** · Gnosis
 
-**Sub-Stats** · Vitality Regeneration, Tempering Latency and Gnosis Retention (Hypnather's documented Stat Effect, forced rather than volunteered), Gnosis Warding and Resilience Coherence (Letheveil's), Gnosis Cognition and Dominion Reach (Oneirion's)
+**Sub-Stats** · Vitality Regeneration, Tempering Yield and Gnosis Retention (Hypnather's documented Stat Effect, forced rather than volunteered), Gnosis Cognition and Resilience Anchoring (Letheveil's), Gnosis Cognition and Dominion Sovereignty (Oneirion's)
 
 **Stage floor** · Stage VII, Refraction
 

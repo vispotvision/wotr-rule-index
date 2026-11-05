@@ -4,288 +4,93 @@ title: The Scene Archive
 
 # The Scene Archive
 
-Nothing goes on this shelf until somebody in it has bled, married, lied, won a bet or lost a kingdom. The under-archivist who proposed filing it in story order was handed the ballads as a place to start and has not been the same since, so the scenes stand here as they came in, and the reading order keeps a page of its own.
+Nothing goes on this shelf until somebody in it has bled, married, lied, won a bet or lost a kingdom. The under-archivist who proposed filing it strictly in story order was handed the ballads as a place to start and has not been the same since, so the scenes stand here by thread, each thread in the order to read it, and the threads cross wherever the people do. The first thread's fuller notes keep a page of their own, the [[The Scene Archive/New Lore — Reading Order|New Lore reading order]]. Older accounts have been withdrawn from the shelf, and where a ballad quotes them it is quoting nothing.
 
-- [[The Scene Archive/The Table — Running Pieces]]
-- [[The Scene Archive/The Left of the Door — Renard Greymane at the Altar-Room Door]]
-- [[The Scene Archive/Scenes/Cozbi Sealed Retreat|Cozbi Sealed Retreat]]
-- [[The Scene Archive/Scenes/The Vacancy|The Vacancy]]
-- [[The Scene Archive/Scenes/The Fire of the Undeserving|The Fire of the Undeserving]]
-- [[The Scene Archive/Scenes/The Muster, the Breach, and the Road North|The Muster, the Breach, and the Road North]]
-- [[The Scene Archive/Scenes/The Testament of the Sixty-Fifth|The Testament of the Sixty-Fifth]]
-- [[The Scene Archive/Scenes/Bulwark|Bulwark]]
-- [[The Scene Archive/Scenes/The Wall Between the Safeguarded|The Wall Between the Safeguarded]]
-- [[The Scene Archive/Scenes/Three Deliveries|Three Deliveries]]
-- [[The Scene Archive/Scenes/What the Sky Does Not Ask|What the Sky Does Not Ask]]
-- [[The Scene Archive/Scenes/The Hand and the Print|The Hand and the Print]]
-- [[The Scene Archive/Scenes/The Primate Under the Wrong Stars|The Primate Under the Wrong Stars]]
-- [[The Scene Archive/Scenes/The Fixed End|The Fixed End]]
-- [[The Scene Archive/Scenes/What the Lamberts Are For|What the Lamberts Are For]]
-- [[The Scene Archive/Scenes/The Shallow-Seen Unburied|The Shallow-Seen Unburied]]
-- [[The Scene Archive/Scenes/The Imperceptible District|The Imperceptible District]]
-- [[The Scene Archive/Scenes/The Howling Hawk|The Howling Hawk]]
-- [[The Scene Archive/Scenes/What a Hand Is For|What a Hand Is For]]
-- [[The Scene Archive/Scenes/Recalescence|Recalescence]]
-- [[The Scene Archive/Scenes/The Undamped Thing|The Undamped Thing]]
-- [[The Scene Archive/Scenes/The True Nature|The True Nature]]
-- [[The Scene Archive/Scenes/The Name of Your Killer|The Name of Your Killer]]
-- [[The Scene Archive/Scenes/What the Ground Was Owed|What the Ground Was Owed]]
-- [[The Scene Archive/Scenes/The Second Law, Held Open|The Second Law, Held Open]]
-- [[The Scene Archive/Scenes/The Holiest of Holy|The Holiest of Holy]]
-- [[The Scene Archive/Scenes/Two Men Who Would Not Take the Seat|Two Men Who Would Not Take the Seat]]
-- [[The Scene Archive/Scenes/Kill Me First|Kill Me First]]
-- [[The Scene Archive/Scenes/Let Nothing Be Sealed|Let Nothing Be Sealed]]
-- [[The Scene Archive/Scenes/Ignis|Ignis]]
-- [[The Scene Archive/Scenes/The Hand of the Judger|The Hand of the Judger]]
-- [[The Scene Archive/Scenes/Five Numbers|Five Numbers]]
-- [[The Scene Archive/Scenes/No Signature|No Signature]]
-- [[The Scene Archive/Scenes/The Fist of God|The Fist of God]]
-- [[The Scene Archive/Scenes/Punta|Punta]]
-- [[The Scene Archive/Scenes/The Fist of Totality|The Fist of Totality]]
-- [[The Scene Archive/Scenes/The Word Under the Hammer|The Word Under the Hammer]]
-- [[The Scene Archive/Scenes/Two Collapses Leaning On Each Other|Two Collapses Leaning On Each Other]]
-- [[The Scene Archive/Scenes/Cozbi Antithesis Split Fight|Cozbi Antithesis Split Fight]]
-- [[The Scene Archive/Scenes/Cozbi Ashwell Mysticism Demo|Cozbi Ashwell Mysticism Demo]]
-- [[The Scene Archive/Scenes/Cozbi Construct Combat Scene|Cozbi Construct Combat Scene]]
-- [[The Scene Archive/Scenes/Cozbi Defensive Response to Dova|Cozbi Defensive Response to Dova]]
-- [[The Scene Archive/Scenes/Cozbi Dragon Binding and Ashuras Call|Cozbi Dragon Binding and Ashuras Call]]
-- [[The Scene Archive/Scenes/Cozbi Merged Form Rescind Explanation|Cozbi Merged Form Rescind Explanation]]
-- [[The Scene Archive/Scenes/Cozbi Pneuma Unravel Strike|Cozbi Pneuma Unravel Strike]]
-- [[The Scene Archive/Scenes/Cozbi Rengai Dhaerin Confrontation|Cozbi Rengai Dhaerin Confrontation]]
-- [[The Scene Archive/Scenes/Cozbi Root Severance and Rashani Threshold|Cozbi Root Severance and Rashani Threshold]]
-- [[The Scene Archive/Scenes/Cozbi True Power Antithesis|Cozbi True Power Antithesis]]
-- [[The Scene Archive/Scenes/Cozbi vs Rengai Dhaerin Combat|Cozbi vs Rengai Dhaerin Combat]]
-- [[The Scene Archive/Scenes/Dhaerin Final Rite Sacrament Oblation Rescind|Dhaerin Final Rite Sacrament Oblation Rescind]]
-- [[The Scene Archive/Scenes/Dhaerin Magnum Opus Recursive Array|Dhaerin Magnum Opus Recursive Array]]
-- [[The Scene Archive/Scenes/Star Crusher|Star Crusher]]
-- [[The Scene Archive/Scenes/The Petition|The Petition]]
-- [[The Scene Archive/Scenes/THE GOD FIST — SEVEN DOCTRINES|THE GOD FIST — SEVEN DOCTRINES]]
-- [[The Scene Archive/Scenes/Naiser Death Cozbi Genocide Niran Fall|Naiser Death Cozbi Genocide Niran Fall]]
-- [[The Scene Archive/Scenes/Niran Awakening Haruki Reunion|Niran Awakening Haruki Reunion]]
-- [[The Scene Archive/Scenes/Malformation|Malformation]]
-- [[The Scene Archive/Scenes/Niran Mira Awakening|Niran Mira Awakening]]
-- [[The Scene Archive/Scenes/Niran and Mira — Return to the Enclave|Niran and Mira — Return to the Enclave]]
-- [[The Scene Archive/Scenes/Niran Reply to Haruki|Niran Reply to Haruki]]
-- [[The Scene Archive/Scenes/Nisuke Titan Dominion Strike|Nisuke Titan Dominion Strike]]
-- [[The Scene Archive/Scenes/Rengai Confrontation and Nirans Dream|Rengai Confrontation and Nirans Dream]]
-- [[The Scene Archive/Scenes/Rengai Farewell and Dhaerin|Rengai Farewell and Dhaerin]]
-- [[The Scene Archive/Scenes/Rui Trap Deaths Ray|Rui Trap Deaths Ray]]
-- [[The Scene Archive/Scenes/The Report|The Report]]
-- [[The Scene Archive/Scenes/The Seven, and the Price of Each|The Seven, and the Price of Each]]
-- [[The Scene Archive/Scenes/Shichi Karasu Mission Awakening|Shichi Karasu Mission Awakening]]
-- [[The Scene Archive/Scenes/Six Crows Dragon Fight Extended|Six Crows Dragon Fight Extended]]
-- [[The Scene Archive/Scenes/Six Crows vs Black Dragon|Six Crows vs Black Dragon]]
-- [[The Scene Archive/Scenes/The Fourteenth Bow|The Fourteenth Bow]]
-- [[The Scene Archive/Scenes/The Gate Opens|The Gate Opens]]
-- [[The Scene Archive/Scenes/The Count|The Count]]
-- [[The Scene Archive/Scenes/The True Religion|The True Religion]]
-- [[The Scene Archive/Scenes/The True Religion|The True Religion]]
-- [[The Scene Archive/Scenes/The Path of Sorrow|The Path of Sorrow]]
-- [[The Scene Archive/Scenes/The Sword and the Scale|The Sword and the Scale]]
-- [[The Scene Archive/Scenes/The Weight of an Infant|The Weight of an Infant]]
-- [[The Scene Archive/Scenes/What a Thing Weighs|What a Thing Weighs]]
-- [[The Scene Archive/Scenes/The Warrior Nurse|The Warrior Nurse]]
-- [[The Scene Archive/Scenes/The Weight of a Courier|The Weight of a Courier]]
-- [[The Scene Archive/Scenes/WAR OF THE REALMS|WAR OF THE REALMS]]
-- [[The Scene Archive/Scenes/Reading order|Reading order]]
-- [[Cast index]]
-- [[The Scene Archive/Scenes/Star Crusher|Star Crusher]]
-- [[The Scene Archive/Scenes/The Petition|The Petition]]
-- [[Timeline]]
-- [[The Scene Archive/The Freight Book]]
-- [[The Scene Archive/Scenes/The Southern Passing|The Southern Passing]]
-- [[The Scene Archive/Scenes/What the Plate Would Not Take|What the Plate Would Not Take]]
-- [[The Scene Archive/Scenes/The Inhale Register|The Inhale Register]]
-- [[The Scene Archive/Scenes/The Blackmatch|The Blackmatch]]
-- [[The Scene Archive/Scenes/The Overpressure|The Overpressure]]
-- [[The Scene Archive/Scenes/The Holy Inquisition — Part 1 The Kindling|The Holy Inquisition — Part 1: The Kindling]]
-- [[The Scene Archive/Scenes/Direction Is Not Intention|Direction Is Not Intention]]
-- [[The Scene Archive/Scenes/Spent, Not Dead|Spent, Not Dead]]
-- [[The Scene Archive/Scenes/No Entry For That|No Entry For That]]
-- [[The Scene Archive/Scenes/The Hand of the Empress|The Hand of the Empress]]
-- [[The Scene Archive/Scenes/The Hatch|The Hatch]]
-- [[The Scene Archive/Scenes/In Form|In Form]]
-- [[The Scene Archive/Scenes/Nine Hours of Daylight|Nine Hours of Daylight]]
-- [[The Scene Archive/The Holy Inquisition — Part 1B The Empty Chair|The Holy Inquisition — Part 1B: The Empty Chair]]
-- [[The Scene Archive/Scenes/The Terms|The Terms]]
-- [[The Scene Archive/Scenes/On Foot|On Foot]]
-- [[The Scene Archive/Scenes/The Slow Match|The Slow Match]]
-- [[The Scene Archive/Scenes/The Draught|The Draught]]
-- [[The Scene Archive/Scenes/What He Spent|What He Spent]]
-- [[The Scene Archive/Scenes/The Full Match|The Full Match]]
-- [[The Scene Archive/Scenes/What Motion Cannot Reach|What Motion Cannot Reach]]
-- [[The Scene Archive/Scenes/The Circus|The Circus]]
-- [[The Scene Archive/Scenes/A Name Held In Common|A Name Held In Common]]
-- [[The Scene Archive/Scenes/What We Did Not Do|What We Did Not Do]]
-- [[The Scene Archive/Scenes/The Vey-Elarin|The Vey-Elarin]]
-- [[The Scene Archive/Scenes/The Empty Place|The Empty Place]]
-- [[The Scene Archive/The Reference]]
-- [[The Scene Archive/The Damping]]
-- [[The Scene Archive/The Years That Were Not War]]
-- [[The Scene Archive/Scenes/The Brink|The Brink]]
-- [[The Scene Archive/The Turtle's Boy]]
-- [[The Scene Archive/Scenes/The Field Where They Picked Them|The Field Where They Picked Them]]
-- [[The Scene Archive/The Years That Were Not War|The Years That Were Not War]]
-- [[The Scene Archive/The Holy Inquisition, Part 1B The Empty Chair|The Holy Inquisition, Part 1B: The Empty Chair]]
-- [[The Scene Archive/The Holy Inquisition, Part 1B The Empty Chair|The Holy Inquisition, Part 1B: The Empty Chair]]
-- [[The Scene Archive/The Turtle's Boy|The Turtle's Boy]]
-- [[The Scene Archive/Scenes/The Great Summoner's Morning|The Great Summoner's Morning]]
-- [[The Scene Archive/Scenes/Xanelor — The Morning of the First Bell|Xanelor — The Morning of the First Bell]]
-- [[The Scene Archive/Scenes/Xanelor — After the Crash|Xanelor — After the Crash]]
-- [[The Scene Archive/Scenes/Xanelor — Rikudoku and the Address|Xanelor — Rikudoku and the Address]]
-- [[The Scene Archive/Scenes/Xanelor — The Introductions|Xanelor — The Introductions]]
-- [[The Scene Archive/Scenes/The War in the North I — The Kharven-Seat|The War in the North I — The Kharven-Seat]]
-- [[The Scene Archive/Scenes/The War in the North II — The Road, Two Days South|The War in the North II — The Road, Two Days South]]
-- [[The Scene Archive/Scenes/The War in the North III — Utopia|The War in the North III — Utopia]]
-- [[The Scene Archive/Scenes/The War in the North IV — The Blank Seal|The War in the North IV — The Blank Seal]]
-- [[The Scene Archive/Scenes/The War in the North V — The Shieldwarden|The War in the North V — The Shieldwarden]]
-- [[The Scene Archive/Scenes/The Night's Watch|The Night's Watch]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 1|The True King of the North, Part 1]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 2|The True King of the North, Part 2]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 3|The True King of the North, Part 3]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 4|The True King of the North, Part 4]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 5|The True King of the North, Part 5]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 6|The True King of the North, Part 6]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 7|The True King of the North, Part 7]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 8|The True King of the North, Part 8]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 9|The True King of the North, Part 9]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 10|The True King of the North, Part 10]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 11|The True King of the North, Part 11]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 12|The True King of the North, Part 12]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 13|The True King of the North, Part 13]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 14|The True King of the North, Part 14]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 15|The True King of the North, Part 15]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 16|The True King of the North, Part 16]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 17|The True King of the North, Part 17]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 18|The True King of the North, Part 18]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 19|The True King of the North, Part 19]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 20|The True King of the North, Part 20]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 21|The True King of the North, Part 21]]
-- [[The Scene Archive/Scenes/The True King of the North, Part 22|The True King of the North, Part 22]]
-- [[The Scene Archive/Scenes/Commencement of The Curia. [ Kujo Arc ]|Commencement of The Curia. [ Kujo Arc]]]
-- [[The Scene Archive/Scenes/The Revolution Of The Inner World|The Revolution Of The Inner World]]
-- [[The Scene Archive/Scenes/Xanelor — The Dorms|Xanelor — The Dorms]]
-- [[The Scene Archive/Scenes/Xanelor — Seven Days|Xanelor — Seven Days]]
-- [[The Scene Archive/Scenes/Xanelor — The Challenge|Xanelor — The Challenge]]
-- [[The Scene Archive/Scenes/Xanelor — The Bullet Train|Xanelor — The Bullet Train]]
-- [[The Scene Archive/Scenes/Xanelor — The Constellations|Xanelor — The Constellations]]
-- [[The Scene Archive/Scenes/Xanelor — Juggernaut's Fist|Xanelor — Juggernaut's Fist]]
-- [[The Scene Archive/Scenes/Xanelor — The Arrow|Xanelor — The Arrow]]
-- [[The Scene Archive/Continuity map]]
-- [Continuity map](The Scene Archive/Continuity map (3e458200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e458200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e458200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e458200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e558200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [Continuity map](The Scene Archive/Continuity map (3e658200).md)
-- [[The Scene Archive/Continuity map|Continuity map]]
-- [[The Scene Archive/Scenes/The House of Abscene ( Kujo Arc )|The House of Abscene ( Kujo Arc )]]
-- [[The Scene Archive/Scenes/Rovhen — The Sort|Rovhen — The Sort]]
-- [[The Scene Archive/Scenes/Rovhen — The Dispensary|Rovhen — The Dispensary]]
-- [[The Scene Archive/Scenes/Rovhen — The First Lecture|Rovhen — The First Lecture]]
-- [[The Scene Archive/Scenes/Rovhen — After the Lecture|Rovhen — After the Lecture]]
-- [[The Scene Archive/Scenes/Rovhen — The Letter|Rovhen — The Letter]]
-- [[The Scene Archive/Scenes/Geturo — Ignite, Tide|Geturo — Ignite, Tide]]
-- [[The Scene Archive/Scenes/Xanelor Dallae|Xanelor: Dallae]]
-- [[The Scene Archive/Scenes/Geturo Who's Next|Geturo: Who's Next]]
-- [[The Scene Archive/Scenes/Geturo The Other Side|Geturo: The Other Side]]
-- [[The Scene Archive/Scenes/Geturo The Squeeze|Geturo: The Squeeze]]
-- [[The Scene Archive/Scenes/Geturo Fire-Air|Geturo: Fire-Air]]
-- [[The Scene Archive/Scenes/Geturo The Elbow|Geturo: The Elbow]]
-- [[The Scene Archive/Scenes/Geturo The Slip|Geturo: The Slip]]
-- [[The Scene Archive/Scenes/Geturo Constrictor|Geturo: Constrictor]]
-- [[The Scene Archive/Scenes/Geturo The Host Line|Geturo: The Host Line]]
-- [[The Scene Archive/Scenes/Geturo Gypsum|Geturo: Gypsum]]
-- [[The Scene Archive/Scenes/Aftermath Hold the Wall|Aftermath: Hold the Wall]]
-- [[The Scene Archive/Scenes/Hiromi The Bench|Hiromi: The Bench]]
-- [[The Scene Archive/Scenes/Hiromi The Picnic|Hiromi: The Picnic]]
-- [[The Scene Archive/Scenes/Hiromi Something Special|Hiromi: Something Special]]
-- [[The Scene Archive/Scenes/Mujin's Interjection — Aetherion Arena|Mujin's Interjection — Aetherion Arena]]
-- [[The Scene Archive/Scenes/Wystan's Briefing — Aetherion Arena|Wystan's Briefing — Aetherion Arena]]
-- [[The Scene Archive/Scenes/Shiori's Findings — Aetherion Arena|Shiori's Findings — Aetherion Arena]]
-- [[The Scene Archive/Scenes/Malphas on the Line — The Train East|Malphas on the Line — The Train East]]
-- [[The Scene Archive/Scenes/The Leveller|The Leveller]]
-- [[The Scene Archive/Scenes/Mu-jin The Reader's Oath|Mu-jin: The Reader's Oath]]
-- [[The Scene Archive/Scenes/Mu-jin The Old Colleague|Mu-jin: The Old Colleague]]
-- [[The Scene Archive/Scenes/Mu-jin The Card|Mu-jin: The Card]]
-- [[The Scene Archive/Scenes/The Drawing-Off|The Drawing-Off]]
-- [[The Scene Archive/Scenes/Mu-jin The Walk Back|Mu-jin: The Walk Back]]
-- [[The Scene Archive/Scenes/Mu-jin The Tenth Bell|Mu-jin: The Tenth Bell]]
-- [[The Scene Archive/Scenes/Niran's Arrival — Aetherion Academy|Niran's Arrival — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Knots — Aetherion Academy|The Knots — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Undercroft — Aetherion Academy|The Undercroft — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Fight Below — Aetherion Academy|The Fight Below — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Count — Aetherion Academy|The Count — Aetherion Academy]]
-- [[The Scene Archive/Scenes/Aqua Fortis — Aetherion Academy|Aqua Fortis — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Cooking — Aetherion Academy|The Cooking — Aetherion Academy]]
-- [[The Scene Archive/Scenes/Open Crucible — Aetherion Academy|Open Crucible — Aetherion Academy]]
-- [[The Scene Archive/Scenes/Shared Wounds — Aetherion Academy|Shared Wounds — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Regent — Aetherion Academy|The Regent — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Seam — Aetherion Academy|The Seam — Aetherion Academy]]
-- [[The Scene Archive/Scenes/Brenna's Table — Aetherion Academy|Brenna's Table — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The File — Aetherion Academy|The File — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Medlar Tree — Aetherion Academy|The Medlar Tree — Aetherion Academy]]
-- [[The Scene Archive/Scenes/The Stands Before the Bell — Aetherion Arena|The Stands Before the Bell — Aetherion Arena]]
-- [[The Scene Archive/Scenes/The Fourth Day|The Fourth Day]]
-- [[The Scene Archive/Scenes/Ice Weight|Ice Weight]]
-- [[The Scene Archive/Scenes/The Weak Grade|The Weak Grade]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 1 Aequitas|Class X Open, Dabney 1: Aequitas]]
-- [[The Scene Archive/Scenes/Brakh|Brakh]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 2 The Eastern Gate|Class X Open, Dabney 2: The Eastern Gate]]
-- [[The Scene Archive/Scenes/The Rinse|The Rinse]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 3 Where They Meet|Class X Open, Dabney 3: Where They Meet]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 4 Chains of Heaven|Class X Open, Dabney 4: Chains of Heaven]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 5 The Greater Hand|Class X Open, Dabney 5: The Greater Hand]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 6 The Flame of Judica|Class X Open, Dabney 6: The Flame of Judica]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 7 Axis Lock|Class X Open, Dabney 7: Axis Lock]]
-- [[The Scene Archive/Scenes/Class X Open, Dabney 8 The Unbending Scale|Class X Open, Dabney 8: The Unbending Scale]]
-- [[The Scene Archive/Scenes/The Fourth Letter|The Fourth Letter]]
-- [[The Scene Archive/Scenes/The Middle of the Thread — Senri's Gate and the Aetherion Arena|The Middle of the Thread — Senri's Gate and the Aetherion Arena]]
-- [[The Scene Archive/Scenes/Rewinding the Spool — Aetherion Arena|Rewinding the Spool — Aetherion Arena]]
-- [[The Scene Archive/Scenes/Covenant of the Instant — Aetherion Arena|Covenant of the Instant — Aetherion Arena]]
-- [[The Scene Archive/Scenes/Returning Water — Aetherion Arena|Returning Water — Aetherion Arena]]
-- [[The Scene Archive/Scenes/The Last Quiet Room|The Last Quiet Room]]
-- [[The Scene Archive/Scenes/Lion's Bane|Lion's Bane]]
-- [[The Scene Archive/Scenes/The Judging Paw|The Judging Paw]]
-- [[The Scene Archive/Scenes/The House It Guards|The House It Guards]]
-- [[The Scene Archive/Scenes/The Black Tortoise|The Black Tortoise]]
-- [[The Scene Archive/Scenes/The Shape of the Room|The Shape of the Room]]
-- [[The Scene Archive/Scenes/The Furniture and the House|The Furniture and the House]]
-- [[The Scene Archive/Scenes/Hiromi at the Brink|Hiromi at the Brink]]
-- [[The Scene Archive/Scenes/The Relics|The Relics]]
+## I · The Uncounted and the cedar enclave
+
+Two threads side by side: **Muken** and Yukazuri in the north, and **the enclave**, with Naiser and Naevra Yukari, the Zettari talks and the Moto breakaway. They run from the map at Halcrest through the fall of Kharven-Seat and the ratification of the seven lines.
+
+| # | Scene | Thread |
+|---|---|---|
+| 1 | [[The Scene Archive/Scenes/The Uncounted, Chapter One The Map at Halcrest\|Chapter One: The Map at Halcrest]] | Muken |
+| 2 | [[The Scene Archive/Scenes/The Bearer of Weight\|The Bearer of Weight]] | Enclave |
+| 3 | [[The Scene Archive/Scenes/The Uncounted, Chapter Two Big Bertha\|Chapter Two: Big Bertha]] | Muken |
+| 4 | [[The Scene Archive/Scenes/Naiser and Seradris The Courtyard\|Naiser and Seradris: The Courtyard]] | Enclave |
+| 5 | [[The Scene Archive/Scenes/The Meeting at the Cedar Enclave\|The Meeting at the Cedar Enclave]] | Enclave |
+| 6 | [[The Scene Archive/Scenes/Naiser's Terms\|Naiser's Terms]] | Enclave |
+| 7 | [[The Scene Archive/Scenes/Naiser's Answer\|Naiser's Answer]] | Enclave |
+| 8 | [[The Scene Archive/Scenes/The Verdict of Six\|The Verdict of Six]] | Moto council |
+| 9 | [[The Scene Archive/Scenes/The Uncounted, Chapter Three The Tokenless\|Chapter Three: The Tokenless]] | Muken |
+| 10 | [[The Scene Archive/Scenes/The Uncounted, Chapter Four Three Days\|Chapter Four: Three Days]] | Muken |
+| 11 | [[The Scene Archive/Scenes/The Uncounted, Chapter Five Kharven's Foot\|Chapter Five: Kharven's Foot]] | Muken |
+| 12 | [[The Scene Archive/Scenes/The Uncounted, Chapter Six The Captain of the Foot\|Chapter Six: The Captain of the Foot]] | Muken |
+| 13 | [[The Scene Archive/Scenes/The Uncounted, Chapter Seven Crows\|Chapter Seven: Crows]] | Moto council, Byakuya (its first movement is superseded by the next scene) |
+| 14 | [[The Scene Archive/Scenes/The White Wolf\|The White Wolf]] | Enclave |
+| 15 | [[The Scene Archive/Scenes/The Honest Door\|The Honest Door]] | Enclave |
+| 16 | [[The Scene Archive/Scenes/The White Knot\|The White Knot]] | Enclave |
+| 17 | [[The Scene Archive/Scenes/The Truth of Muken\|The Truth of Muken]] | Enclave |
+| 18 | [[The Scene Archive/Scenes/The Iron Fist of the Keld\|The Iron Fist of the Keld]] | Enclave |
+| 19 | [[The Scene Archive/Scenes/The Uncounted, Chapter Eight The Inheritance\|Chapter Eight: The Inheritance]] | Muken |
+| 20 | [[The Scene Archive/Scenes/The Uncounted, Chapter Nine The Queen's Will\|Chapter Nine: The Queen's Will]] | Muken, the Keld |
+| 21 | [[The Scene Archive/Scenes/The Uncounted, Chapter Ten The Red Line\|Chapter Ten: The Red Line]] | Muken |
+| 22 | [[The Scene Archive/Scenes/The Uncounted, Chapter Eleven By My Honor\|Chapter Eleven: By My Honor]] | Muken |
+| 23 | [[The Scene Archive/Scenes/The Uncounted, Chapter Twelve The Woodpile\|Chapter Twelve: The Woodpile]] | Muken |
+| 24 | [[The Scene Archive/Scenes/The Uncounted, Chapter Thirteen The Skeldmere\|Chapter Thirteen: The Skeldmere]] | Muken |
+| 25 | [[The Scene Archive/Scenes/The Uncounted, Chapter Fourteen The Seat Road\|Chapter Fourteen: The Seat Road]] | Muken |
+| 26 | [[The Scene Archive/Scenes/The Uncounted, Chapter Fifteen The Work of Ruins\|Chapter Fifteen: The Work of Ruins]] | Muken |
+| 27 | [[The Scene Archive/Scenes/The Uncounted, Chapter Sixteen Tsugigane\|Chapter Sixteen: Tsugigane]] | Muken |
+| 28 | [[The Scene Archive/Scenes/The Uncounted, Chapter Seventeen The Seven Works\|Chapter Seventeen: The Seven Works]] | Muken |
+| 29 | [[The Scene Archive/Scenes/The Uncounted, Chapter Eighteen The Samurai of Fate\|Chapter Eighteen: The Samurai of Fate]] | Muken |
+| 30 | [[The Scene Archive/Scenes/The Uncounted, Chapter Nineteen Seven Lines and One Blood\|Chapter Nineteen: Seven Lines and One Blood]] | Muken |
+
+## II · After the Seat
+
+Spring, six months after the Great War of the North, with Muken on the red chair and the valley gone mad with flowers.
+
+- [[The Scene Archive/Scenes/The Grey Wall|The Grey Wall]]
+
+## III · The Sins
+
+Shōki, the Sin of Wrath, comes up out of the Pit after three centuries, and the road north calls him.
+
+- [[The Scene Archive/Scenes/The Wrath Wakes|The Wrath Wakes]]
+- [[The Scene Archive/Scenes/The Cold|The Cold]]
+- [[The Scene Archive/Scenes/The Summons|The Summons]]
+- [[The Scene Archive/Scenes/The Debt|The Debt]]
+
+## IV · The Fourteenth Day
+
+Faisal the Grand Angel comes down from Midreach to meet his brother on the blackened plain, on one long day told in six scenes.
+
+- [[The Scene Archive/Scenes/The Last Combustion|The Last Combustion]]
+- [[The Scene Archive/Scenes/God's Bane|God's Bane]]
+- [[The Scene Archive/Scenes/Paru 86|Paru 86]]
+- [[The Scene Archive/Scenes/The Axiom of the Kept|The Axiom of the Kept]]
+- [[The Scene Archive/Scenes/The Order of Precedence|The Order of Precedence]]
+- [[The Scene Archive/Scenes/The Floor|The Floor]]
+
+## V · The Kessen Road
+
+Shōki reaches the ford at Kessen, the fight moves into the cedar wood and then into hell, and at the far end of the road Cozbi Mahuo pours tea at the Sum-gol Post and sends a boy north.
+
+- [[The Scene Archive/Scenes/The Ford|The Ford]]
+- [[The Scene Archive/Scenes/The Hollow|The Hollow]]
+- [[The Scene Archive/Scenes/Ten Yards of Summer|Ten Yards of Summer]]
+- [[The Scene Archive/Scenes/The Owl and the Fox|The Owl and the Fox]]
+- [[The Scene Archive/Scenes/Without Interval|Without Interval]]
+- [[The Scene Archive/Scenes/The Dead Note|The Dead Note]]
+- [[The Scene Archive/Scenes/The Bridge and the Spear|The Bridge and the Spear]]
+- [[The Scene Archive/Scenes/Enma's Register|Enma's Register]]
+- [[The Scene Archive/Scenes/Glass and Irons (glass_and_irons_20261103_2043)|Glass and Irons]]
+- [[The Scene Archive/Scenes/The Second Page|The Second Page]]
+- [[The Scene Archive/Scenes/The White Knot (the_white_knot_20261104_1813)|The White Knot: The Corridor]] (a later scene than the White Knot of section I, which shares its name)
+
+## Other cuts on file
+
+Shorter or earlier cuts of scenes listed above, kept for the record. The ones above are the ones to read.
+
+- [[The Scene Archive/Scenes/Glass and Irons|Glass and Irons, the first cut]]
+- [[The Scene Archive/Scenes/Glass and Irons (glass_and_irons_20261103_1620)|Glass and Irons, the second cut]]
+- [[The Scene Archive/Scenes/The Truth of Muken (the_truth_of_muken_20261020_2033)|The Truth of Muken, the other cut]]
+
+*Back to [[Start Here]].*

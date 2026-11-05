@@ -3,7 +3,6 @@ title: Cosmology & Metaphysics
 tags:
   - Cosmology
   - Lore & History
-  - Open Rulings
 ---
 
 ![[Assets/Paintings/cosmology.webp]]
@@ -97,7 +96,7 @@ Three institutional voices produce the material in this section, and they do not
 > **9 · The Four Ceilings:** why the world's making sits where it sits, and what removed the limits.
 >
 > **The two conversations.** The **Epochs** are cosmological: their durations run to the hundreds of thousands and not one of them derives from a count. The **Ages** are historical, attested by physical evidence, and run from Year −1,400 to the present. *A document giving both is giving a myth and a measurement, and expects the reader to know which is which.*
-*The groupings below are the filing. The order above is the path.*
+*The groupings below are the filing. The order above is the path. The pages also sit on three shelves of their own: [[Cosmology & Metaphysics/The Making of the World/The Making of the World|The Making of the World]], [[Cosmology & Metaphysics/Faith and the Powers Above/Faith and the Powers Above|Faith and the Powers Above]] and [[Cosmology & Metaphysics/Ages and Reckoning/Ages and Reckoning|Ages and Reckoning]]. [[Cosmology & Metaphysics/Null-Light|Null-Light]], the Yukari way of knowing a thing by a light that never touches it, stands alone beside them. Back to [[Start Here]].*
 
 ### I · The Architecture
 
@@ -119,6 +118,6 @@ The cosmological spine, in the order it was made: the totality before partition,
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Faiths of the Four Quarters]]
 > **Time, and what people do about the owners.** Two additions sit under this section.
 >
-> **The Sky, the Hour and the Year** builds the setting's own sky and its own calendar. One sun, one moon whose cycle is exactly twenty-eight days so the month is never in dispute, five wanderers and a pole star, and a year of thirteen months and three hundred and sixty-four days. The day divides by **fourteen**, for the doctrinal reason the Sohai already gives. Seven unequal stations of light against seven of dark, with the Bow at the hinge, set against fourteen equal Guild hours, kept on the great water clock at Sealhall and carried outward by relay rider, sealed sand-glass and the beacon line. Eight times in thirteen years a nameless day is inserted that belongs to no Archon, and on it no Work falls due, nothing can be entered, no window opens and no instrument binds.
+> **The Sky, the Hour and the Year** builds the setting's own sky on the plain calendar everyone already keeps. One sun, one moon whose twenty-eight-day cycle keeps no step with the months, five wanderers and a pole star, and a year of twelve months and seven-day weeks with a day of **twenty-four hours**, kept on the great water clock at Sealhall and carried outward by relay rider, sealed sand-glass and the beacon line. Only the year counts are the world's own. Every fourth year February takes a twenty-ninth day that belongs to no Archon, **Munahi**, and on it no Work falls due, nothing can be entered and no instrument binds: the day the law sleeps and Fate does not, so a vow spoken on it still holds.
 >
 > **The Faiths of the Four Quarters** places Sohai and Sancta Lux against three others, two of which were already written without being called religions: the Marrowkin **Tally**, the Kharven **Sky**, and the originated **Current**, the folk Wellspring practice that is the largest faith by headcount and has no name for itself. Every entry answers the same six questions, and the last of them is what the faith is wrong about. Cults are handled separately, by how they recruit and how they eat.

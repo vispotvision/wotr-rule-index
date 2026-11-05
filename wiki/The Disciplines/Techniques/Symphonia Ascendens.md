@@ -4,7 +4,7 @@ title: "The Mutiny Aria"
 
 # THE MUTINY ARIA
 
-*Runecraft, Vectra, Stage VII with a late push toward S-Grade. The scholars' term is Symphonia Ascendens, or Symphonia Ascendant.*
+*Cutting, Vectra, Stage VII with a late push toward S-Grade. The scholars' term is Symphonia Ascendens, or Symphonia Ascendant.*
 
 The Tuners hold that a soul is a harmony, and for a generation they were the fashionable physicians of Lanthorn, in sky-blue gowns with little silver forks at the belt. Doctor Ludo Marchbanks was called to sound the true ratio at a duke's melancholy, and since only the target's own chord couples, he began, as every Tuner must, by broadcasting the sickness. The duke's whole household wept for three days. The kitchen wept into the soup. The town's dogs lay down in the road. His trial drew bigger crowds than the spring tournament, and he defended himself by humming, until the judge joined in.
 
@@ -18,7 +18,7 @@ The Tuners hold that a soul is a harmony, and for a generation they were the fas
 
 ### How it really works
 
-First a hum under the room that dampens ordinary sound. Then a sigil traced with the free hand while a chord staff carries a rising chord onto a target heard casting before, from a direction the distance does not explain, always sung, whatever the Stage. She is Runecraft in the instrument, the Aether Chord Staff. She pulls Fulguria (dry air, conductive ground, clear sight lines) and Limina (darkness, silence, thin Aether, ruins), so the best ground is dark, dry, open and empty, and an active Domain, her own included, starves the reflecting half.
+First a hum under the room that dampens ordinary sound. Then a sigil traced with the free hand while a chord staff carries a rising chord onto a target heard casting before, from a direction the distance does not explain, always sung, whatever the Stage. The working is cut into the instrument, the Aether Chord Staff. She pulls Fulguria (dry air, conductive ground, clear sight lines) and Limina (darkness, silence, thin Aether, ruins), so the best ground is dark, dry, open and empty, and an active Domain, her own included, starves the reflecting half.
 
 The chord drives the target's own Essence at its measured natural line (driven resonance), and on that lock writes a change of index across the path his next working must leave by, so the working bends like light at glass (refraction). Resonance bandwidth Δf = f₀ / Q decides what couples, then Snell's law, n₁ sin θ₁ = n₂ sin θ₂, decides where the output goes, and refraction turns a force without doing work on it. A line never measured cannot be driven, and nothing is created or destroyed: the working only chooses where the target's own joules go. The arrival angle chooses the outcome, and she does not. Below the critical angle it crosses and lands off its mark; above θc = arcsin(n₂/n₁) it reflects totally and returns; at a rough interface it scatters. Snell's law always answers and coupled resonators never merge but trade character (an avoided crossing), so a near-miss chord has no off switch and the energy slides sideways. The 5 km read has to be Aetheric, because a shout does not survive the distance.
 
@@ -72,7 +72,7 @@ Its Boundary fault is the interface set imprecisely, which sends the law somewhe
 
 ### Codex line
 
-Wellspring Aurevane (primary, Fulguria, Electromagnetism), Mirithane (secondary, Limina, Entropy/Void/Mind). Category Vectra. Craft Runecraft. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Spirit Path.
+Wellspring Aurevane (primary, Fulguria, Electromagnetism), Mirithane (secondary, Limina; Entropy, Void and Mind). Category Vectra. Skill Cutting, held in the Aether Chord Staff. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Spirit Path.
 
 ### FOW line
 

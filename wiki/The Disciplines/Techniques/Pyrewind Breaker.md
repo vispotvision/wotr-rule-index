@@ -4,7 +4,7 @@ title: "Everybody Out"
 
 # EVERYBODY OUT
 
-*Spellcraft, Phenomena, Stage VI. The scholars' term is the Pyrewind Breaker. The name people use is what you shout first, if you are any kind of friend.*
+*Speaking, Phenomena, Stage VI. The scholars' term is the Pyrewind Breaker. The name people use is what you shout first, if you are any kind of friend.*
 
 The fire school at the Collegium once bet the Abbot of Sawley a year's candles that fire could prove itself primary by boiling his carp pond with no help from anyone. Their champion, a cheerful woman named Gilly Brand in a coat the color of mustard, called it three times from the bank. The serpent of white and orange went in, the pond went up, and the Abbot's entire stock of carp came down over the village in a warm rain that fed four hundred people for a week and is still celebrated with a parade. Twenty-five tonnes of boiling water took the whole of the first burst and looked ready for more. Gilly took the third one without the proper rest, split something inside herself, and had to be carried in the parade.
 
@@ -76,7 +76,7 @@ The inherited failures are the two ways this art kills its owner. Exuroth's quen
 - **Family** · Caloria (both)
 - **Physics Domain** · Thermodynamics
 - **Category** · Phenomena
-- **Craft** · Spellcraft (*Ars Vocis*; declared, with a chant carrying the working when the caster wants the extra output a release call buys)
+- **Skill** · Speaking (*Ars Vocis*; declared, with a chant carrying the working when the caster wants the extra output a release call buys)
 - **Stage floor** · Stage VI, Glory
 - **Grade required** · A-Grade
 - **Path gate** · Spirit, Body

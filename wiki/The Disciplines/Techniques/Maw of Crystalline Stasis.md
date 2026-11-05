@@ -26,7 +26,7 @@ The glyphs are Boundary (Root) for the six-meter edge across Form (Extension) fo
 
 Aether is pulled across 905 m³ from his frame. Caloria wants steep thermal gradients, and the field erodes its own by chilling the air toward equilibrium. The Residue is heavy and physical, a lattice that can be picked up, ask Granny Wickett, and that deafens Harmonists (those who read a place by ear) until it melts. Cinerion, the Ash Veil (Caloria), says what survives a fire is no waste and the Shell metabolizes its own products, and here it densifies the lattice, raising Tempering Yield and Harmonics Stability. Vohrin (Caloria), one power at two levels, Titan and Wellspring, taken here as Titan-derived, is heat's absence held as discipline, the heat sink run outward; the Titan level likely raises the working's standing and cost. Cinerion's fouling is the inherited failure: it coats the conduit with its own product, so recovery collapses exactly when he has spent most, at the joints first.
 
-The Aether Shell is projected outward, Spellcraft on the Bodily vector, the ignited frame as the pen. Developmental Tier Harmonic at Glory. Boundary fault: the field does not know its maker, and the cold lands on his knuckles and knees. Structural fault: a Dominion below A holding six meters pays the difference in frostbite, through raw Ardency and Vitality. Forty-five percent leaves as heat at the Shell, inside the volume being held cold, adding load to the sink, which is why the cost runs by the turn.
+The Aether Shell is projected outward, speaking on the Bodily vector, the ignited frame as the pen. Developmental Tier Harmonic at Glory. Boundary fault: the field does not know its maker, and the cold lands on his knuckles and knees. Structural fault: a Dominion below A holding six meters pays the difference in frostbite, through raw Ardency and Vitality. Forty-five percent leaves as heat at the Shell, inside the volume being held cold, adding load to the sink, which is why the cost runs by the turn.
 
 The Four Qualities school calls cold an active power that condenses and congeals, which this working performs to the letter, then teaches that a practitioner's own cold cannot harm them. It can, because the cold is in the room and so are they.
 
@@ -46,7 +46,7 @@ The Four Qualities school calls cold an active power that condenses and congeals
 
 **Category** · Vectra
 
-**Craft** · Spellcraft (Bodily: projected from the practitioner's own ignited frame, holding only while his attention holds)
+**Skill** · Speaking (Bodily: projected from the practitioner's own ignited frame, holding only while his attention holds)
 
 **Stage floor** · Stage VI, Glory
 
@@ -58,7 +58,7 @@ The Four Qualities school calls cold an active power that condenses and congeals
 
 **Governing Primary** · Ardency, compensating for a Dominion the field would otherwise want.
 
-**Governing Sub-Stats** · Ardency Density (274) for sustaining the field's output, Vitality Tolerance (400, at ceiling) and Vitality Absorption (330) for what his own body takes standing inside it, Resilience Insulation (302) for what little protection he has from his own cold. All four are its author's Sub-Stat Peaks.
+**Governing Sub-Stats** · Ardency Density (274) for sustaining the field's output, Vitality Tolerance (400, at ceiling) and Vitality Absorption (330) for what his own body takes standing inside it, Resilience Fortification (302) for what little protection he has from his own cold. All four are its author's Sub-Stat Peaks.
 
 **Stage floor** · Stage VI, Glory.
 
@@ -80,7 +80,7 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 **Fails against** · Distance beyond six meters, and bolts from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
 
-**Look up** · The Counterplay register for anchors; the Caloria entries for Cinerion and Vohrin, and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.
+**Look up** · The Counterplay register for anchors; the Caloria entry for Cinerion and the Vohrin note on the same [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|page]], and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.
 
 ## Numbers
 

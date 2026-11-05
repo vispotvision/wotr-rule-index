@@ -47,7 +47,7 @@ flowchart LR
 Every named discipline in the Continuum decomposes into these categories. A discipline is rarely one of them. It is usually a braid of three or four, with an apex integration at the top that only the highest Temperance can hold together.
 > **The table below is the working summary. The full taxonomy (twenty-six categories with alignment reasoning, failure modes and worked examples) lives here:**
 >
-> [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom]]
+> [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy]]
 >
 > **The taxonomy page is the authority. This table is a pointer.**
 
@@ -109,7 +109,7 @@ The documents in this section do not share a voice, and reading them correctly m
 
 ## What a Discipline Is on the Sheet
 
-No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades, and anyone can level them: Drafts, runes, tags and chants among them, alongside the sword and the ledger. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Aether Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own.
+No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Aether Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own.
 
 A discipline is what all of that looks like from across the road, and a school is where you go to get it. Money will buy a Stage, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. That is why a school can still charge what it charges, and why the four at the Founders' Fair are still hitting each other.
 
@@ -120,6 +120,8 @@ A discipline is what all of that looks like from across the road, and a school i
 Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized. It stands apart from the entries after it because it is a real **Fate Art**: control of Attraction Force and Obsession Force and of the probabilities things turn on. Fate Arts are rare, mostly by bloodline and considered incredibly overpowered, and Hataraki can take back or remove a blessing.
 
 The next four entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
+
+*This page walks the arts in the order they are best met. The same pages are filed on two shelves, [[The Disciplines/Named Arts/Named Arts|Named Arts]] (what one person or one line derived and named) and [[The Disciplines/Schools and Bloodline Arts/Schools and Bloodline Arts|Schools and Bloodline Arts]] (what is taught and what runs in the blood).*
 
 ### The general disciplines and the bloodline arts
 
@@ -161,5 +163,7 @@ These are the named arts a practitioner *trains*, as opposed to the labors the C
 *The named moves themselves, each with its street name first and its scholars' term after.*
 - [[The Disciplines/Techniques/Techniques]]
 - [[The Disciplines/Spellcraft/Spellcraft|The Spoken Arts]]
+
+*Back to [[Start Here]], or to the system underneath all of this at [[The Magic System/The Magic System|The Magic System]].*
 
 ---

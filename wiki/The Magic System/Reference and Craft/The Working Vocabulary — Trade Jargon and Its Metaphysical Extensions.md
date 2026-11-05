@@ -128,7 +128,7 @@ This is the same engine as the doublet on the Common page. The Latin column is w
 
 Domains that would yield as well and have not been mined yet, in the order I would take them.
 
-**Bell-founding and acoustics**, for *Ars Cantus* and every chanter who has leveled the skill. Bells are tuned on their partials, and a bell that will not come into tune is called false. A choir vocabulary built on strike note, hum, and falseness would give the chant the technical layer it currently lacks.
+**Bell-founding and acoustics**, for the singing and every chanter who has leveled the skill. Bells are tuned on their partials, and a bell that will not come into tune is called false. A choir vocabulary built on strike note, hum, and falseness would give the chant the technical layer it currently lacks.
 
 **Quarrying and banker masonry**, for rune-cutters. The bed, the grain, quarry sap, spalling, dressing, the reveal. A stone has a direction and a rune cut across it fails, which makes inscription a trade with real failure modes that anyone who has split a paving slab can follow.
 

@@ -3719,3 +3719,9 @@ Context: Answers the question Natalie put to him. The Old World, New World and O
 Isaac, 2026-11-05: "explain the guild accord updated since it's not like how it was written previously but the premise is the same it's coalition of multiple guilds across multiple different nation adventure guilds merchant guilds different types of guilds can be more than that but you get the idea and the ranks are like the ones from your titl. Grandmaster or Archmaster or Paragon etc". The Guild Accord is a coalition of many kinds of guild across many nations: adventure guilds, merchant guilds and others. Its ranks are the Tier of Standing titles: Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon. The written pages are out of date and are to be rewritten to this premise.
 
 Context: Guild Accord pages under wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord. Natalie's working draft follows in chat.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05, choosing option 2: each guild ranks by its own trade. The nine titles, Initiate through Paragon, are the same across the Accord, and a Grandmaster merchant may not be able to throw a punch. This changes the Tier of Standing from a name laid over the Stages. AGENT RULING (Natalie, overturnable): fighting guilds, adventurers' guilds included, keep the old Stage table as their yardstick, so a fighter's title still reads as it did and cards do not change. Item Tiers keep working, because a maker's Tier of Standing is now plainly a craft rank (R46-1). A title on a token says how good you are at your trade, and only in a fighting guild does it also say how dangerous you are.
+
+Context: Guild Accord rewrite. Pages that state the old law: The Standing and the Title, The Measures at a Glance, The Core Vocabulary, Tier Grade Bands and the Aether Shell, the Tiered Path.

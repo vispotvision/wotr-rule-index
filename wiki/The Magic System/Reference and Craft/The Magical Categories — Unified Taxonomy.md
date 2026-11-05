@@ -147,11 +147,11 @@ Sits between Body and Spirit because the trigger is always Spirit (emotional/Ess
 
 The lived evolution along the three Paths: Body, Spirit and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance, the practice-name for the Three Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
 
-Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognized by what a soul refuses to let end, it stays very hard, and the few high-Stage masters who reach real Fate Arts without the blood for them reach them late, along this road.
+Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis** and **Via Fati** are the three long arcs every other category eventually serves, and older filing keeps **Via Anima** as a fourth drawer for the shallow end of Via Fati. **Via Fati** spends little on force and works on what a result depends on; deep along it a soul is recognized by what it refuses to let end, it stays very hard, and the few high-Stage masters who reach real Fate Arts without the blood for them reach them late, along this road.
 
 A Path is the road. The **Aether Class** a soul is offered at its thresholds is what the road has made of the walker: a named class fitting how the person has lived, giving abilities, shaping growth and evolving at each tier by how it is lived, while the old ladder from Ø Dormant to Ω Absolute stays as its tier. Class and Path both file under Viaforma, since nobody casts either.
 
-**Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Anima (Attraction) · Via Fati (Fate)
+**Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Fati (Fate), with Via Anima (Attraction) at its shallow end
 
 ---
 

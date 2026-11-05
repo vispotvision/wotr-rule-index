@@ -23,13 +23,13 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 ## I. The Three Planes
 
-*Every act of magic crosses all three simultaneously. Remove one, and the working fails.*
+*Every act of magic crosses all three simultaneously. Remove one, and the working fails. The first two are the lower realities, and the third is a plane by courtesy.*
 
 | Plane | Governs | Crystal layer |
 |---|---|---|
-| **Material Plane** (also called the Physical Plane; the two names mean one plane) | Physics, matter, force, and biology. Observable reality; magic uses its laws and overrides none of them. | Aether Shell |
-| **Plane of Fate** | The control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths and is more tied to blessings. | Attraction Layer |
-| **Soul Plane** | Identity, memory, conviction, and Essence. Preserves who a practitioner is and is the plane where Essence originates. | Essence Core |
+| **Material Plane** (also called the Physical Plane; the two names mean one plane) | Physical Reality, under the Epoch Aegor: physics, matter, force, and biology. Observable reality; magic uses its laws and overrides none of them. | Aether Shell |
+| **Plane of Fate** | No reality at all, and a plane by courtesy, under the Epoch Bara: everything that flows, every possibility, idea and concept, anything that can happen in the two lower realities. It sits above them as the law and construction of the world, what has to be so before anything can happen, and most if not all of the Archons are Sovereign here as they are on the two below. The control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths and is more tied to blessings. | Attraction Layer |
+| **Soul Plane** | Spiritual Reality, under the Epoch Ashura: identity, memory, conviction, and Essence. Preserves who a practitioner is and is the plane where Essence originates. | Essence Core |
 | **The Veil** | The liminal interface between the three: the threshold condition where one plane's law softens into another's. Scholars who count it as a fourth plane get corrected, loudly, at dinner. | — |
 
 ---
@@ -202,7 +202,7 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Practitioner** · A person whose Soul Crystal is awake and working, about one in ten. Everyone else is Class Ø and touches magic through what they buy.
 
-**Path** · The layer of the Crystal a soul has learned to lean on, and so the direction advancement actually took: Body (the Aether Shell, in the Physical World), Spirit (the Essence Core, on the Soul Plane) or Fate (the Attraction Layer, on the Plane of Fate). It is assessed afterward and recorded whether the person agrees or not, nobody chooses one, and it gates how far a stat may rise. A Path stands as **Mastered** (its gates are no obstacle at the person's Stage), **Walked** (three parts in ten of their practice or more) or **Studied** (knowledge and small uses, open to anyone, opening no gates). See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
+**Path** · The layer of the Crystal a soul has learned to lean on, and so the direction advancement actually took: Body (the Aether Shell, in the Physical World), Spirit (the Essence Core, on the Soul Plane) or Fate (the Attraction Layer, on the Plane of Fate). Body is the literal understanding and manipulation of physical reality, climbing from matter as an object to matter as a complete system. Spirit is everything to do with spiritual reality. Fate, the hardest of them, fights with Range, Aura Pressure, presence and bonds, and on rare days moves what a result depends on. It is assessed afterward and recorded whether the person agrees or not, nobody chooses one, and it gates how far a stat may rise. A Path stands as **Mastered** (its gates are no obstacle at the person's Stage), **Walked** (three parts in ten of their practice or more) or **Studied** (knowledge and small uses, open to anyone, opening no gates). See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
 
 **Continuum** · The lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power. A window is that measurement reported to the owner.
 
@@ -234,7 +234,9 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Curse** · Often a blessing with terms you did not read, or from a giver who does not care what you want.
 
-**Fate Art** · A real working of the Plane of Fate. Rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Everyone else touches Fate through a blessing or a Master Work Draft. Hataraki can take back or remove a blessing.
+**Fate Art** · A real working of the Plane of Fate. Rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Most people touch Fate only from the outside, through a blessing or a Master Work Draft. Hataraki can take back or remove a blessing.
+
+**Fate fighter** · Someone on the Fate Path. Their everyday weapons are Range, Aura Pressure, presence and bonds. A real pull of a thread moves what a blow depends on, so the result arrives without having been forced, and it is rare, ruinously expensive and often fails. It moves only what already has a way of happening, shows a charge and a tell, and is contested: Dominion Fate against Resilience Persistence and Continuity.
 
 **Title** · One of the nine ranks of the Guild Accord, the coalition of many kinds of guild across many nations: Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon. The same nine in every guild, grading trust in that trade: a merchant may deal up to it, a craftsman make up to it, an adventurer take Commissions up to the same Threat Tier. Fighting guilds keep the Stage table as their yardstick. A forged token is a great crime.
 

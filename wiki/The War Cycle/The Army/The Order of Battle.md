@@ -76,7 +76,7 @@ Under Article IV, every signatory contributes combatants, specialists or logisti
 
 **Domain Engineers** · Construct battlefield Domains. Doctrine now directs them to **seat toward their own formations rather than toward the enemy**, on the finding that *a patch of ground where the sound is right is worth more than a patch where the enemy's is wrong.*
 
-**War-Priests of Urion** · Read the Lattice hum for enemy movement and remaining capacity. **A staff function rather than a combat one**, and the Division's principal instrument for the costing-out doctrine (make a practitioner spend their reserve on things that do not matter, then hand them to the infantry).
+**War-Priests of Urion** · Read the Lattice hum for enemy movement and remaining capacity. **A staff function rather than a combat one**, and the Division's principal instrument for the costing-out doctrine (make a practitioner spend their reserve on things that do not matter, then hand them to the infantry). They also keep the running log of small things going wrong, which is how an enemy's Fate user is found, and those are [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem|pinned first]], ahead of even the champions.
 
 **Lattice Pilots** · Guide Concord fleets and Gate crossings through dimensional instability. **The Legion's strategic mobility rests entirely on perhaps two hundred people across four quarters and the Division is aware of the exposure.**
 

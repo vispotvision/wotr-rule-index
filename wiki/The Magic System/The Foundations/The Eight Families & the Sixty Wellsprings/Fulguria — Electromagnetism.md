@@ -30,7 +30,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **On the Spirit** · Thrown as a line of reading across a room, it parts a thing from what it claims to be, and a lie under that line comes away from its maker in front of everyone.
 
-**On Fate** · Sworn words feel weighed around this person. A false oath sits visibly wrong on the Attraction Layer, and a claim that cannot show its mark begins losing its hold on the people it was holding.
+**On Fate** · Whatever rests on a false oath already wants to give, and a holder who has read the lie can sometimes pull that thread: the mercenary company whose contract was forged, the general whose title was, the bodyguard who swore he was ready and was not. Knowing the lie is the easy half, because no amount of knowing lifts a thread, and the Family's cleverest have been carried home on doors trying the other half.
 
 **Spirit** · Temperance through discernment: order, measure and consequence.
 
@@ -58,7 +58,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **On the Spirit** · What leaves the Core goes out in phase and arrives exactly as it was meant, and whatever stands in that light shows what it is without flattery.
 
-**On Fate** · A word or an oath sent under this lens arrives with its whole meaning intact, and the speaker's presence carries across a square so clearly that nobody there can later claim to have misheard.
+**On Fate** · A word or an oath sent under this lens arrives with its whole meaning intact, and presence carries clear across a square or a field, which is most of what its fighters do with it. Drawn tighter it can close the space between an order given and an order received, so a signal reads true through the smoke at the far wing, or for one breath the single shaft loosed at a gap in the harness meets nothing to spoil it. That breath costs a fair part of the reserve and leaves the eyes bleeding, and since all of it shines, the enemy's first crossbow of the morning always knows where to look.
 
 **Spirit** · Temperance through illumination.
 
@@ -86,7 +86,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **On the Spirit** · A working thrown on this lens finds its own road around a ward the way spirit of wine finds the neck of a still, taking whatever way lies open, which is sometimes the way it was aimed.
 
-**On Fate** · Chances drift within reach, and the holder drifts toward them: the open door, the ship with one berth left. This is also why they so seldom end up where they promised to be.
+**On Fate** · The holder feels chances the way a lodestone feels north and drifts toward them: the open door in a melee, the ford nobody has posted. Pulling one wide enough for an army, the gap in a line that two captains each believe the other is covering, is a feat of decades that empties them for a season and lands everyone somewhere efficient and seldom where they promised their allies.
 
 **Spirit** · Temperance through freedom.
 
@@ -114,7 +114,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **On the Spirit** · Essence held in common across the Core carries a working through itself with hardly any loss, and with no part of the person arguing with the rest they are very hard to inscribe on or to talk round.
 
-**On Fate** · Everything is owned together: a sworn company on this lens shares a debt and shares a hurt, its oath bends a long way before it breaks, and when it fails it fails at the seams between people.
+**On Fate** · A sworn company on this lens shares a debt and a hurt every day, and its oath bends a long way before it breaks. Its rare great working spreads the odds against one of them through all of them, so the spear meant for the standard-bearer meets a shield that had no business being there and every man in the line feels that spear go in somewhere, and an enemy who has read this goes to work between two friends, which is where it fails.
 
 **Spirit** · Temperance through integrity.
 
@@ -142,7 +142,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **On the Spirit** · The soul sees what hides and hides what it shows, and one working run in either direction will turn up a concealed Trait or bury its maker's from anyone reading.
 
-**On Fate** · A bond or a claim can be kept out of every reckoning and produced at the right moment, and secret loyalties show to the holder like a second color on the people in a room.
+**On Fate** · A bond or a claim can be kept out of every reckoning and produced at the right moment, and secret loyalties show to the holder like a second color on the people in a room. At great cost the reason a blow is going to land can be kept off the other fighter's reading until it has landed, and perhaps once in a long career the enemy's count of its friends is simply wrong, because the captain bound at midnight twenty years ago shows no color until the morning he opens the gate. Holding a thread that far out of sight is a lifetime's labor, and it splits the holder so that their own later workings arrive out of step with themselves.
 
 **Spirit** · Temperance through perception.
 
@@ -170,7 +170,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **On the Spirit** · The Core's aperture widens past what a mortal head was built to hold, and a Principle or an Archon's working becomes something the practitioner can read and, at some cost to their sanity, engage.
 
-**On Fate** · The holder feels very long ties, the bond laid down before they were born or the debt that runs to the far side of the world, and can put the slightest of tugs on something far too large to notice it.
+**On Fate** · The holder feels very long ties, the bond laid down before they were born or the debt that runs to the far side of the world, and soldiers near them bear what others break under, having been made to feel how small one field is inside what is coming. A tug on one of those ties, which might lean a whole people's old hatred on somebody's border, is the labor of decades, and the longest threads are apt to belong to Archons and the great principles, who may look down to see who is pulling.
 
 **Spirit** · Temperance through vastness.
 

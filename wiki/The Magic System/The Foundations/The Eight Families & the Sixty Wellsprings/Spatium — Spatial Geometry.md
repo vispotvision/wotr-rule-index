@@ -30,7 +30,7 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **On the Spirit** · A working gone wrong can be restated from the Core in another basis, the same quantity said another way, and a thing described from far enough round starts to answer to the new description.
 
-**On Fate** · A broken oath or a bad debt can be carried over into other terms, and a lost claim turns up as a useful one under a different name, to the admiration of lawyers and the distress of creditors.
+**On Fate** · A broken oath or a bad debt can be carried over into other terms by a patient holder, and in a desperate hour so can a lost exchange, what was given up in the last pass turning up as the other fighter's wrong step in the next. Carrying a lost battle over into a won road, the routed wing turning out to be why the enemy's supply has gone astray, is a masterwork few attempt twice, because a holder who loses track of the terms they started in does not come back as anything recognizable.
 
 **Spirit** · Temperance through motion.
 
@@ -58,7 +58,7 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **On the Spirit** · Two Cores in tune can pass a working hand to hand with nothing carried between them, so what one has learned or written the other can use for as long as the tuning holds.
 
-**On Fate** · The bond itself is the road: Essence, fortune and place run along it toward whoever has less, by a gradient neither party agreed to in so many words, and the coupling falls off so sharply that partners on this lens learn not to travel apart.
+**On Fate** · The bond itself is the road: Essence, fortune and place run along it toward whoever has less, by a gradient neither party agreed to in so many words. Deliberately drawn, it puts the rested partner's luck under the tired one, and one of a pair gets the clean exchange the other has just bled for. A commander who spends decades laying such a road between two wings can, on one day, have the flank with the bad morning draw on the flank with the good one, though the coupling falls off so sharply with distance that partners on this lens learn not to travel apart, and the giver has been known to fold up in the road.
 
 **Spirit** · Temperance through empathy.
 
@@ -86,7 +86,7 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **On the Spirit** · The practitioner reads a soul by what it withholds, and derives from the shape of a silence, or of a memory cut out with a clean edge, the thing that used to be there.
 
-**On Fate** · The bond that is not there has a shape too, and the holder reads who is absent from the table, which oath was left out of the contract, and what the odds have stopped mentioning.
+**On Fate** · The holder reads the shape of what is missing, the oath left out of the contract or the column that ought to be on the ridge by now, and that reading takes nothing but a long sad habit. To act on it is the hard thing: after years of grief spent learning how, a company under this person can be made to close on the shape of its dead, so the gap torn in the line at noon never opens in the men beside it, and the holder carries the whole absence afterward.
 
 **Spirit** · Temperance through eclipse.
 

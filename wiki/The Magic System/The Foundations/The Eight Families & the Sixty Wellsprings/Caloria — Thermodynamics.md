@@ -32,7 +32,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · Thrown from the Core, it burns what is false in a thing before what is solid, so a forged seal will char on a letter whose paper stays cool.
 
-**On Fate** · It makes a claim that burns its way through: oaths and rivalries consume what stands in them, and the ground catches around the person who holds them.
+**On Fate** · On its best day a claim under this lens can set light to what stands in its way, provided it was already dry: the rival's hired second with one foot out the door, the enemy's grain store under a season-old thatch, and, only at the end of a life spent learning how, a whole army's reasons for staying in the field. The heat has to leave somehow, and it leaves through whatever tissue of the holder's is nearest, which is why the people who have done this twice have so little skin to show for it.
 
 **Spirit** · Temperance through burning; destruction reborn as creation.
 
@@ -60,7 +60,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · A working must fail and be thrown again before it takes an edge, and an inscription that has cracked twice and been recut holds where a clean first draft would split.
 
-**On Fate** · An oath under this lens hardens each time it is nearly broken, which is why its holders' troubles arrive in evenly spaced helpings, with just enough of an interval to recover for the next.
+**On Fate** · Its holders take the worst of a fight on purpose, because an oath nearly broken hardens, and one nearly broken three times can sometimes be pulled on to turn the fourth exchange, or to hold a company on the day an untried enemy line is first asked. It is paid for in near-deaths that were real, and cut the interval too fine and the oath splits like steel quenched too soon, with the company still inside it.
 
 **Spirit** · Temperance through ordeal.
 
@@ -88,7 +88,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · A speck of Essence is enough to start a projection that then pays for itself out of whatever it lands on, so a one-stroke mark can go on working long after its writer would have liked it to stop.
 
-**On Fate** · First impressions catch. A handshake becomes an alliance by supper, a stranger's idle promise turns out binding, and the rumor of the person reaches the next town ahead of their horse.
+**On Fate** · Everyday the person simply catches: a handshake is an alliance by supper, and the rumor of them takes the next town ahead of their horse. The rare real pull wants only the smallest beginning, one stumble in a front rank that runs the whole line or a single shout of *they've turned* that becomes the turn, and it fires on whatever charge is lying about, so it has as often routed the holder's own side and left them coughing blood.
 
 **Spirit** · Temperance through ignition.
 
@@ -116,7 +116,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · What a working leaves behind feeds the next one, and the practitioner can read a thing by its residue, getting from a burned letter some of what it said.
 
-**On Fate** · Lost causes and dead men's debts settle on the holder like ash in a low place, and a claim other people wrote off as ruined turns out to have some pull left in it.
+**On Fate** · Lost causes settle on the holder like ash in a low place, and after a long enough defeat a fighter can pull on what has been spent, so the failed feint of an hour ago becomes the place the opponent steps wrong. A beaten commander who lives on this may make the burned bridge and the dead men's debts delay a pursuit by a week, at the cost of whatever ruin they had left to draw on, and the gift fouls and stops on the day they have spent the most.
 
 **Spirit** · Temperance through aftermath.
 
@@ -144,7 +144,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · A working seeps where others would throw, and a line inscribed on a doorstep goes on breathing its meaning into the house for years at a cost nobody notices paying.
 
-**On Fate** · Presence with no peak to it: the weight in the room arrives when they do and leaves some while after, and a grudge held this way neither flares nor goes out.
+**On Fate** · Its usual weapon is plain presence with no peak to it, which wears on a besieging camp's sleep and nerve without anyone lifting a hand, and which the holder can keep up for a year. Pulling a thread through it is another matter: the sentry who has been about to drop his guard for a month can be made to do it tonight, and the pressure spent on him comes back out through the weakest thing the holder ever swore.
 
 **Spirit** · Temperance through pressure.
 
@@ -172,7 +172,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · Two workings that would wreck each other can be held side by side in the Core until they do what neither could alone, and the strange part is that the practitioner comes out of it unchanged.
 
-**On Fate** · Enemies end up at this person's table. Bargains get struck across them that could not have been struck without them, and the go-between takes nothing from the deal and is seldom thanked.
+**On Fate** · With a great deal of blood the go-between can bring about a meeting that already had a way of happening: two allied captains who hate each other on the same mountain road in the same hour, a duelist's old enemy at the ropes in the one exchange where he can do harm. It takes nothing from the deal and cannot do this often, because one bad meeting poisons the holder's whole gift for years, and both sides go on trying to hire them regardless.
 
 **Spirit** · Temperance through transformation.
 
@@ -200,7 +200,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · A projected working can change in kind partway across the distance, leaving as one thing and arriving as a rupture, and the people it arrives on rarely get to learn what it was meant to be.
 
-**On Fate** · Slow quarrels near this person pass a point and go off all at once, so that a ten-year feud ends in a night and a Domain widens by whole streets as everyone picks a side.
+**On Fate** · Slow quarrels near this person can be brought past their point all at once, so a garrison's ten-year feud and a month of short rations turn into a mutiny in one night, and a Domain (a region where the world runs on a practitioner's terms) widens by whole streets as everyone picks a side. It wants confinement, it comes off perhaps once in a war, and what comes back along the same path finds the holder standing at the origin with their ears and fingers at stake.
 
 **Spirit** · Temperance through upheaval.
 
@@ -228,7 +228,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · Workings burn low and very long, and a mark left on a thing stays faintly live in it, still quietly arguing about what that thing is a year after the fight is forgotten.
 
-**On Fate** · A claim kept banked: a house's right, a vow or an old love held at low heat for a lifetime, still warm when the grandchildren come to collect.
+**On Fate** · A claim kept banked for a lifetime can be blown on once at the end of it, and the war that turns is won by people who will not live to see it: a marriage refused here, a crossing left unbridged there, until the enemy's great-grandson marches to a river nobody ever got around to spanning. That one breath takes all the heat the holder kept for seventy years, and a fighter who spends it in a single duel has nothing left for dusk.
 
 **Spirit** · Temperance through endurance.
 
@@ -256,7 +256,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · Grief and rage held in the Core are spent by the letting go of them and take the old order of the soul along, so the person who stands up afterward is calmer and honestly somewhat different from the one who sat down.
 
-**On Fate** · A grudge or a bond can be put down so completely that the line goes slack, and the people who came to collect on an old hatred find themselves looked at with mild interest.
+**On Fate** · With everything the holder has, a bond or a load can be put down so completely that the line goes slack, and once in a long while a beaten company under such a captain sets down its terror all at once and stands up again with nothing left to rout from. Turned across a field it is rarer and stranger, the men opposite losing their hatred in the hour they needed it, and the holder comes out of it unable to say for a season what they themselves were fighting for.
 
 **Spirit** · Temperance through letting go: release, purgation, true clearing. The Heresiology's warning stands beside it, that nothing is purified by being merely emptied.
 
@@ -284,7 +284,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · The Core shows what it is and what it means, so every working wears its maker's intent on its face, and the remorse that lights it is very hard to argue with.
 
-**On Fate** · Everything the holder owes stands in plain view on the Attraction Layer, which carries an odd safety, since a debt openly owned cannot be called in by surprise or used for blackmail.
+**On Fate** · Everything the holder owes stands in plain view, so a company sworn to them has no rumor left to break on and will sit out a siege on what it can see it is owed. Pushing that light into the enemy's lines, so that their men start asking to see their own captain's accounts, burns the holder's every shame in front of both armies and has been managed only a handful of times.
 
 **Spirit** · Temperance through remorse.
 
@@ -316,7 +316,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **On the Spirit** · Projected from the Core, the cold stills what it reaches and holds a thing at what it already is, and a hurrying thought or a half-finished working simply stops where it stood.
 
-**On Fate** · What is held stays held: a claim under this lens neither grows nor lapses, a bond stops moving in either direction, and a quarrel going on around the holder loses the will to continue.
+**On Fate** · What is held stays held: a bond stops moving in either direction, and with the whole of a life's discipline a charge can lose its reasons halfway across the field, or a war about to happen can sit in camp through the last of the good weather. The result has only been put off, and whoever is holding it off grows steadily colder in the fingers and then in the purpose.
 
 **Two levels** · One power, worked two ways. The frost arts of the hunters and the northern schools work it at Wellspring level or as a Titan-derived current, each at the Stage floor its own entry states. The Titan-Keyed Stillwater Rite works it at the Titan's level and is gated at Revelation.
 

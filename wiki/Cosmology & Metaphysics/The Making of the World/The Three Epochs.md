@@ -86,3 +86,5 @@ Her domain, the **Empyreal Veil**, lies between dream and Aether, a sea of soft-
 > The Triune Synthesis binds all three Epochs into one equation of being.
 >
 > **Bairos writes meaning. Aegor builds form. Ashura remembers why.**
+
+The registers call the three Epochs the three Realities, and every careful Measurewright winces at that and then does it anyway. Aegor's is Physical Reality and Ashura's is Spiritual Reality, and these are the lower realities, where things are. What Bairos stands over cannot honestly be called a reality at all. It is everything that flows: every possibility, every idea, every concept, anything and everything that can happen in the two below. That is what a soul is reaching for on each of the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|three Paths]].

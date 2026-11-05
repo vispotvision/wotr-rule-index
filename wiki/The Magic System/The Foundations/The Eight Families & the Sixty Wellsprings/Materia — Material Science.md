@@ -30,7 +30,7 @@ Ingrid Stenhammar fought the Stage brackets at Tollgate for six summers as the C
 
 **On the Spirit** · In the Core it is the old inward work: a soul split by a bad Threshold or a bad decade gathers up its own pieces, and what it throws holds together over distance because no part of it will consent to leave. Cast on anything else it is dear and brief, and the legs pay.
 
-**On Fate** · Scattered things come to the same table: feuding cousins, broken companies and lost partners find themselves in one town, with this person somehow always in the doorway. A cracked bond welds without ever being talked through, so the seam stays exactly where it was.
+**On Fate** · Scattered things come to the same table, and feuding cousins and lost partners find themselves in one town with this person somehow always in the doorway. The great working of it, a broken army's stragglers finding the same crossroads on the same night, takes the holder years to pay back, and the reassembled line keeps every seam where it was, which is the first place a sharp enemy hits.
 
 **Spirit** · Temperance through merging: the Soul Plane's unifying force, a soul gathering itself back together.
 
@@ -60,7 +60,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · Written from the Core, an inscription is cured into what a thing is, so a seal stays sealed and a line of characters on a door is a fact about that door until the door is gone. Every sealing school in the four quarters trains on it, and each of them has one room it cannot open.
 
-**On Fate** · An oath under this lens has no way back in it, and the Attraction Layer treats the sworn thing as already done: claims hold across generations, bonds hold past deaths, and a Domain's terms set as hard as law. There is a reason the old marriage contracts take a week to read.
+**On Fate** · An oath under this lens has no way back in it, and the sworn thing is treated as already done: claims hold across generations, bonds hold past deaths, and the terms of a Domain (a region where the world runs on a practitioner's terms) set as hard as law. A captain who binds her company to a breach can take every road off it out of the day's reckoning, and a duelist who binds one cut to one man can reduce the fight to a question of when, and either may stake the rest of a life on it. Few try it more than once, because a binding placed in error stays placed, which is why the old marriage contracts take a week to read and why some garrisons are still holding ground nobody wants.
 
 **Spirit** · Temperance through permanence. *The confessors' reading:* commitment, in which what is held stays held.
 
@@ -88,7 +88,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · From the Core a working sets around a chosen seed, one word or one grain of the target, and goes on growing after the hand has gone, so a seal thrown at noon may still be adding to itself by evening. It is slow work and it does not stop on request.
 
-**On Fate** · Out here the seed is one person, and everything scattered around them starts to crystallize: hangers-on turn into a household, gossip into a reputation, three bad debts into one very large creditor. They rarely asked for any of it and generally cannot say when it stopped being optional.
+**On Fate** · Whatever is scattered around the holder starts to crystallize of its own accord: hangers-on into a household, three bad debts into one very large creditor. Forcing it on a routing crowd, so that it sets into a square of spears around the one man who stopped running, comes off about as often as such a man survives, and two of them on one field curdle an army into small loyal knots that will not take orders from each other.
 
 **Spirit** · Temperance through re-forming. *The confessors' reading:* settling, the scattered self finding its seed.
 
@@ -119,7 +119,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · Inscribed on a thing, it can persuade that thing into another of its own lawful forms, so iron may be told it is rust. It goes no further than the thing already was, and nobody has yet talked a stone into being a bird.
 
-**On Fate** · Here the many forms are a person's standing, and the lens lets someone be the widow in one town and the creditor in another, each claim true and each with its own bonds. The day the two meet under pressure, the world keeps whichever was on at the time.
+**On Fate** · Here the many forms are a person's standing, each claim true and each with its own bonds, and after years of keeping both alive a rout arranged against the general may find only a wool merchant in the way, while the garrison that swore to the merchant opens its gates to the general. The day the two meet under pressure, the world keeps whichever was on at the time, and the holder has no say in it for the rest of their life.
 
 **Spirit** · Temperance through origin. *The confessors' reading:* re-forming, the self discovered in another of its own shapes.
 
@@ -147,7 +147,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · The soul holds one note against any working that would retune it, so compulsion, false memory and imposed law slide off, and so does any new idea. Thrown, it is a dead pitch that stops an enemy's chant from resolving, and that is about all.
 
-**On Fate** · A soul that cannot be retuned turns out to be a standard for other people: merchants trust their weights, quarrels get carried to their table, and a room drifts toward their pitch without noticing. Their oaths do not bend to new circumstances, which is admirable from a distance.
+**On Fate** · A soul that cannot be retuned is a standard for other people: merchants trust their weights, and a wavering line drifts toward their pitch without noticing, which is the whole of the lens on most days. Holding that note against an enemy's arranged panic is a contest that can crack the holder's Crystal if lost, and an enemy who finds the one pressure that matches it brings down the man and the line together.
 
 **Spirit** · Temperance through permanence. *The confessors' reading:* constancy, the soul's frequency refusing retuning.
 
@@ -175,7 +175,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · Thrown force comes out heavy and slow, more a hillside leaning on you than a bolt, and an inscription cut on this lens is still there when the wall it was cut on is not.
 
-**On Fate** · Stay long enough and the land has to route around you: people give directions by you, Aura Pressure sits in the valley like weather, and your claim on that ground goes uncontested because nobody living remembers it otherwise. The holder may not have spoken in years.
+**On Fate** · Stay long enough and the land has to route around you: roads bend away from your valley and Aura Pressure sits in it like weather. Over decades an army that planned to cross may find its guides, its maps and its nerve all favoring the long way, and the price is the person, who has not spoken in years and has not noticed the three invasions that went around.
 
 **Spirit** · Temperance through memory. *The confessors' reading:* permanence, until presence becomes geological.
 
@@ -203,7 +203,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · In the Core, breakage seeds new structure, and a soul cracked by loss grows a wing it did not have. Thrown into someone else's wound it will grow what it is told, which only healers and torturers attempt, and the line between them is a long-running argument.
 
-**On Fate** · What gets hurt around this person comes back thicker: a broken friendship regrows in a new shape, a burned village plants itself again at their feet, and a lost claim sprouts three small ones nearby. They cannot always tell you which of those they wanted.
+**On Fate** · What gets hurt around this person tends to come back thicker, a broken friendship regrown in a new shape and a burned village replanted at their feet. A holder can draw on that in war only by taking the damage first and paying it in their own flesh, so the breach in the wall draws every mason in the district by morning while new growth crowds the holder's own joints, and they cannot always tell you which of it they wanted.
 
 **Spirit** · Temperance through birth. *The confessors' reading:* regrowth.
 
@@ -231,7 +231,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · From the Core it roots a working to the place, and a ward done this way sits in the stone the way a tooth sits in a jaw. Dull to throw and a fine thing to leave behind, and Spirit Path scholars on this lens tend to stop traveling.
 
-**On Fate** · The person and the ground become each other's claim: a family on its own land under this lens gets a hold that bailiffs, armies and good sense have failed to break, and a Domain raised there comes up out of the floor with its roots already in. Move them to a new country and they are slow to know what to do with their hands.
+**On Fate** · The person and the ground become each other's claim, so a family on its own land has a hold that bailiffs have failed to break, and a Domain raised there comes up out of the floor with its roots already in. A lifetime on one valley can turn it against an invader, the wagons miring in the one soft lane and the wells going sour in the week they are needed, while each pull draws the holder down with the water, and moved to a new country they are slow to know what to do with their hands.
 
 **Spirit** · Temperance through grounding. *The confessors' reading:* rootedness.
 
@@ -259,7 +259,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **On the Spirit** · The Core turns the sum owed into authorship, so a thrown working lands as a verdict its own caster has already passed on themselves and hits as hard as that verdict was. Talk yourself out of the guilt and the working will not catch, which makes this a poor road for the comfortable.
 
-**On Fate** · At home it reads the whole account on the Attraction Layer, every oath broken and every death unpaid, and pulls power up those lines in proportion to what the holder believes is owed, so a Domain on this lens is a courtroom with one defendant. No creditor has to agree and none can call it off, and the sum that pays for the fire grows with the burning.
+**On Fate** · At home it reads the whole account on the Attraction Layer, every oath broken and every death unpaid, and pulls power up those lines in proportion to what the holder believes is owed, so a Domain on this lens is a courtroom with one defendant. A fighter who believes they owe a death can draw every odd in an exchange up that line toward the one man it is owed to, and a general who believes he owes a burned city its justice may march like a sentence being carried out, the labor of a ruined lifetime. No creditor has to agree and none can call it off, the sum that pays for the fire grows with the burning, and nobody has been known to finish paying it.
 
 **Spirit** · Temperance through ordeal; correction through consequence, a soul's output rising when it believes it deserves to pay.
 

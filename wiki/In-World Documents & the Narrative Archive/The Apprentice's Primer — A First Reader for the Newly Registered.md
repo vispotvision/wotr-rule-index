@@ -16,7 +16,7 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 ## Before Anything Else
 
 *Read this page even if you read nothing else. Six things carry the entire system. Everything after them is detail.*
-> **One.** Reality has three planes. Matter, soul, and fate. **Every act of magic crosses all three at once. Remove one and the working fails, without exception and without appeal.**
+> **One.** Reality is spoken of as three planes. Matter, soul, and fate, the last by courtesy, since it is everything that can happen in the other two. **Every act of magic crosses all three at once. Remove one and the working fails, without exception and without appeal.**
 >
 > **Two.** Aether is the ocean. Essence is your water. *Aether is infinite and belongs to no one. Essence is Aether you have pulled in from the world around you, refined in your Crystal, circulated, and stamped with your identity, and there is only ever as much of it as you have earned.*
 >

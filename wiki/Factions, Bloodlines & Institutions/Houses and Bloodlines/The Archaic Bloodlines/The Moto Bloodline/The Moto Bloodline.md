@@ -114,6 +114,20 @@ The lines run very much like rival clubs, and no Moto will thank you for saying 
 
 ---
 
+## How the House Wages War
+
+The levies who marched on Akagawa, twenty thousand spears against a Moto host of three thousand, lost to a rotten bridge pile, a thrown shoe, a turn of the wind and a rumor that was very nearly true, and by noon they were running where somebody under a plain banner had arranged for them to run. No other lineage on record fights like this, and the reason is a matter of inheritance rather than talent. Fate is the hardest thing in the system. Nobody grips it bare, and each Work of [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] is a distinct, inherited way of taking hold of one function, so a Moto child starts with generations of somebody else's grip. Even so, a field moved is a life's masterwork, and it may be done once in a war.
+
+**They read first.** The Tengan, the Eye of Fate, reads probability pressure and convergence, and the founder's whole instruction on it in the [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works|Hataraki no Sho]] is that the adept asks which outcome has begun demanding itself of the field. Every officer of the house is drilled from childhood in the Fate Ledger, which is why their children can rank a field the way others do sums: threat, cost, weakness and probable turn, entered as an inventory. The Meigan does the same for masonry and harness, and notes where a thing has been pretending not to break.
+
+**Then they arrange.** Most of a Moto campaign is ordinary war done by people who see more of it, and needs no thread at all. *Mikettei no Ame*, the Rain of the Unchosen, belongs to formations, command corridors, cavalry timing and the engineering of panic, and it has been done with nothing but banners, disciplined footwork and the knowledge that frightened men flee into the route that feels least chosen by them. The Tenrai are the war-command line and the Banner of the Next Turn and the Warroom Edict are theirs. The Amagiri work the roads, and Delay Harvest and Pursuer's Ruin are why a column chasing one arrives late and short of bread.
+
+**Sometimes they pull.** Hōkai Senkoku pronounces collapse on what is already hiding its exhaustion, and in fortification warfare Kaimetsu no Hasuji waits for masonry to confess where the stress has settled. Innen Kusari makes one earlier truth arrive on time. Futatsu no Tenbin tilts a field just enough that its excess begins punishing itself, and for the rare battlefield where several laws are already colliding the Kōkan hold Teiho no Oza, which ranks them. The founder sums up the method as arranging the enemy into obedience, so that one need not always strike, and when he does strike the finishing form comes last, as the legal consequence of everything the target has already failed to survive. At Akagawa that part was done on the riverbank with ordinary spears.
+
+**It is paid for and it can be stopped.** The art moves only what already has a way of happening, so a sound gate stands whoever pronounces collapse on it, and a careful enemy with inspected bridges, shod horses and paid companies gives the house very little to read. The one who does the moving pays in their own body, sometimes all of it. Each Work carries its corruption, and a commander who begins to enjoy ending things is the house's oldest way of losing. So every serious enemy's first job on a field with Moto on it is to find whoever is doing the reading and reach them, ahead of even the house's champions, which is one reason that person so often stands under a plain banner.
+
+---
+
 ## Training and Cost
 
 **Conceptual discipline** · The Moto must understand what a Work *means* inside existence.

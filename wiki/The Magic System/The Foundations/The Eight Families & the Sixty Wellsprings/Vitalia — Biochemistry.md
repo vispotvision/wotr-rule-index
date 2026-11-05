@@ -28,7 +28,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · A thrown working carries a memory of wholeness and forces it on what it touches, so a split ward or a dying man's ribs are told what they used to be, loudly, and answer as well as they can. It costs dearly and works best on what was once alive.
 
-**On Fate** · Pull one bond and all of them wake: hurt one of a crew and the others feel it under the breastbone and come running without knowing why. The holder cannot easily call that off, and a small quarrel has a way of turning out the whole family.
+**On Fate** · Pull one bond and all of them wake: hurt one of a crew and the others feel it under the breastbone, and in the rare great working a flank struck at dawn finds the reserve already on the road with nobody able to say who sent it. It costs blood from every vein at once and cannot easily be called off, so a feint against one picket has been known to turn out the whole army and leave nothing to close the real wound.
 
 **Spirit** · Temperance through vitality. *The confessors' reading:* remembering wholeness, wounds closing because the body remembers being whole.
 
@@ -56,7 +56,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · An inscription keeps growing after its author has walked away, and a line written on a wall in spring has put out new clauses by autumn. Nobody has found a way to make it grow in the direction they wrote.
 
-**On Fate** · A name spreads the way a root system does, quietly and in every direction, until the holder has cousins, tenants and allies in towns they never visited. A Domain (a region where the world runs on a practitioner's terms) raised on this lens keeps creeping outward for as long as it is held, which neighbors come to resent.
+**On Fate** · A name spreads the way a root system does, quietly and in every direction, until the holder has cousins and tenants in towns they never visited, and after decades an invading army may find itself buying its bread and hiring its guides from all of them. A Domain (a region where the world runs on a practitioner's terms) raised on this lens keeps creeping outward for as long as it is held, at a growing cost that neighbors resent and the holder, thinning out at the center, eventually cannot feed.
 
 **Spirit** · Temperance through growth.
 
@@ -84,7 +84,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · A working carries the weight of the bond behind it, so a ward raised for a sworn friend holds where the same ward raised for a stranger would crack. The Core cannot manufacture this, and a bond that was never really given adds nothing at all.
 
-**On Fate** · At home it is a bond the world weighs as a real thing, and an oath under it bears load. A promise made in this grace can be stood on, leaned on and, when it counts, pulled on across a continent.
+**On Fate** · At home it is a bond the world weighs as a real thing, and an oath under it bears load, so a promise made in this grace can be stood on, leaned on and, when it counts, pulled on across a continent. The one it is given to fights with the odds spoken for in one place that matters, the spear going a hand wide or the bridge promised to a column holding for that column, and the giver pays in their own blood and years. It has to be freely given, which no house has yet managed to buy, and when the grace is taken back the column is still standing wherever the promise had put it.
 
 **Spirit** · Temperance through compassion. *The confessors' reading:* grace, in which a bond becomes a thing the world can weigh.
 
@@ -112,7 +112,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · A working takes a thing apart so that something can be authored from the wreck, which makes this a fine lens for rebuilding a ruined ward or a broken technique. It is a poor one for leaving anything as it was.
 
-**On Fate** · Lost ties come back as new ones: a dead friend's daughter turns up on the doorstep, and the ruined house finds it is owed something by the house that ruined it. Holders keep very good accounts of their losses, which their mourners find hard to forgive.
+**On Fate** · Lost ties come back as new ones: a dead friend's daughter turns up on the doorstep, and the levy thrown away in the marsh may, at the far end of a long accounting, turn out to have bought the alliance that wins the following spring. Only real losses pay for it, so holders keep very good accounts and spend what they love to the man, and they do not always notice when there is nothing left to spend.
 
 **Spirit** · Temperance through renewal. *The confessors' reading:* loss, destruction treated as the first step of reconstruction.
 
@@ -140,7 +140,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · The Core looks at ending squarely and can author it, withdrawing a thing's hold on what it is, lawfully and in order: a ward lapses, a ghost goes on its way, a curse finds it has reached its term. It keeps nothing and nobody afterward.
 
-**On Fate** · It works the last term of every tie. The holder feels a bond, a line or a life come near its end, can see a dying oath out with honor and can close a claim that had no other way to close, and so they are sent for by people who want to die well and by people who want something finished.
+**On Fate** · It works the last term of every tie, so the holder feels a bond, a line or a life come near its end and can see a dying oath out with honor, which is most of why they are sent for. Hurrying an end is done by few: a wound that would have killed by morning called in before the exchange is over, or in a lifetime's one great working a broken wing that might have lasted till dusk learning at noon that it has already ended. Endings belong to Archons and the great principles before they belong to anyone, and the holder who has reached for one comes back a little cooler and does not warm again.
 
 **Spirit** · Temperance through surrender. *The confessors' reading:* dissolution, threshold, completion and the lawful withdrawal of presence. It governs passage and keeps nobody in storage.
 
@@ -168,7 +168,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · What wrecked the soul becomes the densest part of it, so a Core that survived a betrayal or a long captivity is hardest to move on exactly that ground. The rest of the self slowly aligns to what was truly lived, whatever had been hoped for.
 
-**On Fate** · A name can be bought back: an old disgrace held on the Attraction Layer turns, by long living, into the very thing people trust the holder for. It happens slowly and looks from outside like nothing at all, until the day a town that spat at them sends for them.
+**On Fate** · An old disgrace turns, by long living, into the very thing people trust the holder for, until the day a town that spat at them sends for them to hold its walls. Once or twice in a life that can be pulled on in the field, when an enemy plans the whole attack around the place this person broke twenty years ago and the soul that has rearranged itself there bears what the rest of them could not, while everything next to the old wound quietly gives way.
 
 **Spirit** · Temperance through return. *The confessors' reading:* being reclaimed, the wound becoming the strongest place.
 
@@ -196,7 +196,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · A real failure, owned without excuse, is written into the Core as a standing answer, so the deceit or the despair that broke a soul once finds it already armed. An excuse voids the record, and the Core knows an excuse when it has made one.
 
-**On Fate** · An admitted fault loses its hold: a broken oath said out loud and survived stops pulling on the Attraction Layer the way a hidden one does, and the next oath sworn over it tends to keep. Such a person is famously hard to blackmail, having already told everyone.
+**On Fate** · An admitted fault loses its hold, so a captain who has stood in front of her company and named her own rout has taken away a crack that a Fate fighter would have pried at, and the next oath sworn over it tends to keep. It has to be paid for by failing in earnest and surviving it, and such a person is famously hard to blackmail and seldom beaten the same way twice.
 
 **Spirit** · Temperance through acceptance. *The confessors' reading:* a failure owned and survived.
 
@@ -226,7 +226,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · The practitioner reads and draws what has sunk into water and into a soul, and a working can call up what a place or person has long since stopped remembering.
 
-**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming.
+**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming. At the price of a heavy draw on the reserve and a nosebleed that can last a day, one can be drawn up early, the lesson the other fighter's first master beat into them wrong surfacing in the exact exchange where it will cost them. Doing the same to a war, the poisoned treaty coming due or the well sunk a hundred years ago going bad the summer an army camps on it, is the work of a whole life, and whatever else is down there comes up with it.
 
 **Spirit** · Temperance through reflection. *The confessors' reading:* memory, what is lived built into the structure.
 

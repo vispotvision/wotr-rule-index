@@ -12,6 +12,8 @@ Bessamy looked up at that, grinned with the two teeth she had, and went on picki
 >
 > Mortals call them enemies and mean something much smaller. The two are the cosmic heartbeat: the systole and diastole of reality itself, the eternal inhalation and exhalation without which the Realms would either freeze into unchangeable perfection or dissolve into formless noise.
 
+Every Archon is a great power on every plane, and among them these two stand alone in one place. On the Plane of Fate, Urion and Uurgath are unparalleled, because what they are cannot be conceived. A mortal mind holds an idea of balance and an idea of ending, and each of those is a small thing made from the real one, which is no help at all to anyone reaching for it.
+
 ---
 
 ## I. Urion, the Balancer of Scales

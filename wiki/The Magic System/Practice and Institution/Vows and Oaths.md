@@ -42,7 +42,7 @@ Every clause of the subject is in that story, and this page takes them in order.
 
 ## At a Glance
 
-**What it is.** A **vow** is small Fate: a person binding their own probability, spoken aloud, with a price on it. It is the shallow end of the Fate Path, and it is anyone's to make, because every soul has the layer it is made on. An **oath** is the same small Fate attached to a promise before someone with the standing to hold you to it.
+**What it is.** A **vow** is small Fate: a person binding their own probability, spoken aloud, with a price on it. It is the shallow end of the Fate Path, and it is anyone's to make, because every soul has the layer it is made on. Fate at large is a good deal more than this, and people fight and wage wars with it; a vow is the smallest thing done on that plane and the only easy one. An **oath** is the same small Fate attached to a promise before someone with the standing to hold you to it.
 
 **How it looks.** A line on the window with the bargain and its terms, and a price that shows on the body at once.
 
@@ -58,7 +58,7 @@ Every clause of the subject is in that story, and this page takes them in order.
 
 A person says aloud what they will do or will not do, and what it costs them if they fail. Fate attaches. The [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|Essence Core]] takes the restriction up as a standing law, and from then on the odds around that person lean, by a small and exact amount, toward its being kept. A vow is the only part of the Plane of Fate that needs no bloodline, no Stage and no permission. Real Fate Arts are rare and mostly run in the blood. Everybody has a mouth.
 
-**It is made on the Attraction Layer.** That is the part of the Soul Crystal that holds a soul's own share of fate, its bonds, oaths, claims and odds, and every soul has one whatever Path it walks, the unwoken included. A hitter who swears is working the same plane as a nun who swears, with less practice. The Fate Path is what you call it when a soul has learned to lean on that layer: there the binding bites harder and a kept vow pays more, and everybody else makes do with what a mouth and a price can buy.
+**It is made on the Attraction Layer.** That is the part of the Soul Crystal that holds a soul's own share of fate, its bonds, oaths, claims and odds, and every soul has one whatever Path it walks, the unwoken included. A hitter who swears is working the same plane as a nun who swears, with less practice. The Fate Path is what you call it when a soul has learned to lean on that layer: there the binding bites harder and a kept vow pays more, and everybody else makes do with what a mouth and a price can buy. The Path goes far past promises, into the odds of a blow and the hour an army arrives, at a price no vow has ever charged, and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] has that side of it.
 
 **It needs no witness.** The stair at Cask Row was empty. The Continuum (the whole lawful order of reality) is the audience, and it does not need to be told twice. A witness is for the person who wants to be held to it, or wants the crowd to know, and the priest Sigrun Ox-Hand swore in front of at Cullen Fair was there to make it a better show.
 

@@ -91,6 +91,26 @@ Everything in this register reduces to one of four. **Deny the field. Break the 
 
 ---
 
+## Beating a Fate Fighter
+
+*His blade had not moved. Your strap gave, your foot found the one wet stone, and the blade was already there. Now look at his nose.*
+
+The four routes were written against people who push, and a Fate Path fighter (one whose Crystal leans on the Attraction Layer, the soul's own share of the Plane of Fate) is mostly fought the way anyone is. On most days and in most fights his weapons are long Range, heavy Aura Pressure, presence and the people sworn to him, and every route above applies to all of those. What earns him a section of his own is the rare day he pulls: he reaches for what has to be so before anything can happen and moves what the blow depends on, so that the result arrives without having been forced. The strap wears through, the back foot lands wrong, and the cut is an ordinary cut.
+
+Do not be frightened of it in the wrong way. This is the hardest thing in the register. Nobody reasons their way into it, since reasoning is made of the thing it would be used against, and I have corresponded for twenty years with a colleague who can describe a thread to the last decimal and has never lifted one. One lean on the odds can take a large share of a man's reserve and leave him bleeding from the nose and eyes, and it often fails. He knows that, and it decides when he tries. If he tries, you have a charge to read: the eyes gone still, the breath held on a count that is not the count of the exchange, the air around him gone slightly too tidy. Between that and the wet stone is all the warning you get.
+
+There are three answers, and they are routes I, II and III wearing his name.
+
+**Bring another Fate user.** This is the boundary route. A second reader of the weights can see what he is leaning on and lean the other way, and the contest then runs soul against soul, Fate Sub-Stat against Fate Sub-Stat. It is the one case in this register where answering a practitioner with a practitioner counts as a decision, and the two of them will pay for it about equally. Mind that you can find one, since the road is hard enough that most armies have none to spare.
+
+**Be too sound, or too well bound, to move.** This is the field route, and it is by far the cheapest. It moves only what already has a way of happening. A strap that is wearing can give and a strap that is not wearing will not, so the answer is a good strap, good footing and no bad habits, inspected that morning by somebody who is not you. Young Moto Naoki pronounced collapse on a sound gate at Tobishima in front of nine thousand people and the gate stood, and a Fate Art is no exception to this: his aunt's stand folded because a carpenter owed money. The soul has its own version. Dominion's Fate Sub-Stat pushes and the target's Resilience Persistence and Continuity (the soul's hold on going on being true) push back, and a soul bound well enough simply refuses the result. Nobody has ever written a song about a well-kept strap, and that is a pity, as it has outlasted several people who have one.
+
+**Reach him before the result arrives.** This is the body route, and it is the one every Fate fighter fears. In plain force he takes the smallest bonus in the table, and outside his Domain, at the end of a straight exchange with a Body Path veteran, he is an ordinary body, one that may have spent half of itself on the last pull. So close. Keeping your distance is a present to him, because his force degrades least across it and his presence fills the volume you are standing in, and a long wary circling is the time he needs to set. Everything under Break the Body applies, the tub included.
+
+**A true Fate Art is the same three answers at a worse price.** Real Fate Arts are rare and mostly by bloodline, and their reputation as incredibly overpowered is the opinion of the survivors. Nobody grips Fate bare, and a [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Work of Hataraki]] is an inherited way of taking hold of one function, which is why that house can do on purpose what others do by accident. It still needs something to exploit, and it still costs its holder. You will not meet this in a tavern. On a field, turn to [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem|The Practitioner Problem]], which says to find him first.
+
+---
+
 ## What Does Not Work
 
 **Matching him.** Two practitioners at the same Grade resolve by technique, positioning and Sub-Stat (the finer stats beneath each main stat) architecture, and the exchange is a coin toss dressed as a plan. *A commander who answers a practitioner with a practitioner has declined to make a decision.*

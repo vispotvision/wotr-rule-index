@@ -131,6 +131,24 @@ So the line breaks. And the killing occurs in the rout, as it always has, **beca
 
 ---
 
+## The Fate Commander
+
+*Every finding above treats the enemy's practitioner as a siege engine with a store of stones. Most of them are. The Division has one standing exception, and it is rare enough that many officers finish a career without meeting it.*
+> **Each side's first job on any field is to pin or kill the other's high-Stage champions. Fate users are pinned first, ahead of even those.**
+
+The ordinary Fate Path officer is simply a practitioner with long Range, heavy Aura Pressure and a sworn company that fights better for him, and he is costed out like anyone. **The commander this section concerns is another matter, and is a life's masterwork at high Stage or a bloodline's art.** Such a person does not spend Essence on the field so much as on what the field depends on: weather, supply, panic, the hour a column arrives, the company that breaks first and which way it runs. Every one of those already has a way of happening, and **an army is thousands of straps wearing at once.** It may be done once in a war and it may cost the person doing it. Nothing about it looks like a working until the after-action review, when the survivors sit down and count how many small things went wrong.
+
+| Finding | What follows |
+|---|---|
+| **The champion is the loud one** | A Stage XII on a ridge can be seen from two valleys away, and a Fate commander may be an old woman under a plain banner. **Look for them by effect**: keep a written log of what goes wrong, day by day, and read it for a pattern luck would not produce. By the time anyone can see what was decided, it has already happened and it looks like luck |
+| **Soundness is a countermeasure** | It moves only what already has a way of happening. A bridge somebody has inspected, a horse freshly shod, a company paid on time and two roads to the same ford give it very little to hold. **The Division's inspection regime is defended in the budget as good housekeeping and is in fact the cheapest metaphysical defense in the arsenal** |
+| **It is contested** | Another Fate user can read the weights and lean the other way, at about equal cost to both. Dominion's Fate Sub-Stat pushes, and a high enough Resilience Persistence and Continuity in the soul it is aimed at pushes back. *Nothing in this finding helps a levy, which has no such soul to spare* |
+| **Reach them before the result arrives** | Outside their Domain, in a straight exchange, they are an ordinary body, and one that has been paying heavily. Light horse, a night raid or a bolt will do. **A commander who has spent six days hunting one and failed has still made them spend those six days hiding** |
+
+True Fate Arts are rare, mostly by bloodline, and considered incredibly overpowered, and the Division's advice on meeting a Moto host in the field runs to one line, which is to confirm first that you have to.
+
+---
+
 ## Voidic
 
 > *Withheld from Legion-rank copies. The Division's position is that the fewer commanders who understand what a Voidic practitioner is for, the fewer will request one.*

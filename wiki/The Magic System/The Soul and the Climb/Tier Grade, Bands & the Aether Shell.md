@@ -238,7 +238,7 @@ The Crystal is the soul. It evolves through Developmental Tiers representing the
 |---|---|---|---|
 | **Aether Shell** | The Physical World | Meets matter: the blow, the block, the weight, the heat | **Body** |
 | **Essence Core** | The Soul Plane | Holds identity, memory and Traits, and authors what a working is | **Spirit** |
-| **Attraction Layer** | The Plane of Fate | A soul's own share of fate: its bonds, its oaths, its claims and its odds | **Fate** |
+| **Attraction Layer** | The Plane of Fate | A soul's own share of fate: its bonds, its oaths, its claims and its odds, and its reach toward what has to be so before anything can happen | **Fate** |
 
 Every soul has all three layers, the unwoken included, and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] is the one its Crystal has learned to lean on. **Essence** is Aether refined in the Crystal and stamped with identity. The Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
 

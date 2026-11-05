@@ -32,7 +32,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · A thrown working hunts the crack in what a thing claims to be, and a ward or a technique comes apart at the one assumption it never checked. Finding that assumption across a room takes longer and costs far more than finding the weak grain in a bridge.
 
-**On Fate** · The holder feels where a bond, an oath or the terms of a Domain (a region where the world runs on a practitioner's terms) are going to give, and can lean there: the friend with one betrayal left in him, the alliance one insult from the end. It is a miserable gift at a wedding.
+**On Fate** · Every line has a place where it will go, and this lens finds it before the battle does: the company that will break first, the bridge pile that will not take a second column, and the fighter whose guard has been about to fail for three exchanges. Finding it is only looking, and leaning there costs dearly in reserve and a new crack somewhere in the holder's own frame, and it is a miserable gift at a wedding.
 
 **Spirit** · Temperance through failure.
 
@@ -60,7 +60,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · A projected working sets where it lands and stays set, so an inscription on a threshold goes on bearing weight for a generation and grows steadily harder to lift. It throws poorly, and what it says a thing is it goes on saying long after anyone wants it said.
 
-**On Fate** · The holder becomes what others build on: debts, households and whole companies come quietly to rest on one name, and the room reads firmer underfoot when they walk in. They bear whatever is put on them, and they find out late that they cannot walk out from under it.
+**On Fate** · Whole companies come to rest on one name, and the panic and bad news that should have brought the line down can, for a day or two and at ruinous strain, go down through the holder and into the ground instead. They sink a little under each such day and find out late that they cannot walk out from under it, and a clever enemy pulls them sideways, at which point an army that had stopped holding itself up discovers the fact all at once.
 
 **Spirit** · Temperance through endurance.
 
@@ -88,7 +88,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · A working is authored in stages, each inscription standing on the last, until a long prepared piece reaches a height no single casting could survive. Anyone who interrupts it on the fourth step has saved themselves a great deal of trouble.
 
-**On Fate** · A standing is raised by small favors and small keepings of one's word, each too slight for any rival to object to, until the porter's nephew is somehow dining with the harbor court. It hardly moves the odds on any given day, and thirty years of days is another matter.
+**On Fate** · It hardly moves the odds on any given day, and thirty years of days is another matter: one more captain owing the right man, one more village out of forage, until the porter's nephew is dining with the harbor court and the enemy's army is a day short of everything. A whole war climbed this way is a life's masterwork and the debt of it is deferred, so the holder arrives at the top owing every step at once, and in a single fight it buys no more than a slight edge by the fourteenth exchange.
 
 **Spirit** · Temperance through rising.
 
@@ -116,7 +116,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · A working leaves the hand already finished, never passing a stage where it could be read, countered or corrected. The part of its author that would not make the leap stays behind and goes on complaining.
 
-**On Fate** · A person changes station in one step, and the oath-bound squire is a free lord by morning with no interval in which anyone could object. What did not rise with them stays behind with their name on it, and it tends to send a bill.
+**On Fate** · A person's standing can change in one step, the oath-bound squire a free lord by morning, and very rarely a fight's does the same: the line that was going to give goes from held to lost with no wavering first for a captain to catch. There is no halfway at which to stop it, so the holder pays in full whichever way it lands, and what did not rise with them stays behind with their name on it and tends to send a bill.
 
 **Spirit** · Temperance through refinement.
 
@@ -144,7 +144,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · A working run through the soul's column parts a thing into its fractions for a moment, and what rises shows what the thing was mostly made of. It is a better assay than it is a weapon.
 
-**On Fate** · Ties part by how lightly they were held, so hangers-on and fair-weather oaths drift off the person and what stays is a short list of people who would die for them. Nobody gets to choose the names on it.
+**On Fate** · Ties part by how lightly they were held, so a host under this lens boils down on the march, the levies and fair-weather oaths drifting off by the hundred, and what reaches the field is a short list of people who will die there. Doing the same to an enemy's host means staying close for a season and boiling off some of yourself, and nobody gets to choose the names on either list.
 
 **Spirit** · Temperance through ascent.
 
@@ -172,7 +172,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · The soul matches whatever is pressed on it, and a rival's Aura Pressure (the felt weight of another's power) meets nothing pushing back and little to grip. The trouble comes when it is time to throw something, since a Core with no difference in it has very little to push with.
 
-**On Fate** · Presence drops to exactly what the room already has, so the holder can stand unremarked in a hall full of people hunting them. Matching everyone means pulling on no one, and old friends somehow stop writing.
+**On Fate** · Presence drops to exactly what the room already has, so the holder can stand unremarked in a hall full of people hunting them. Stretching that over a column, so that it passes through a hostile province with no sentry or rumor finding a difference to catch on, is the work of every waking hour of the march, and the return to ordinary company takes the holder the way a fast ascent takes a diver.
 
 **Spirit** · Temperance through void.
 
@@ -200,7 +200,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · At home it lets the old poison out of a soul, one's own or a willing other's. The memory and the shape it left stay exactly where they were, and what they had been leaking into everything else stops.
 
-**On Fate** · A debt or grudge held on the Attraction Layer can be let go, and the thing it was pulling on stops pulling. Whether the creditor feels the line go slack or merely forgets to call is an old quarrel among confessors.
+**On Fate** · A debt or grudge can be let go and the thing it was pulling on stops pulling, and at the end of long confession a levied host held in the line by an old wrong may wake one morning with no very clear reason to charge. It takes all the holder's strength to absolve what was never theirs to forgive, it fails more often than not, and whether the men feel the line go slack or merely forget to form up is an old quarrel among confessors.
 
 **Spirit** · Temperance through forgiveness.
 
@@ -228,7 +228,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **On the Spirit** · Each deliberate return to a fault leaves the Core harder at that point, so the place where a soul once lied or broke becomes the place it cannot be made to do so again. The Crystal is not fooled about which faults are real.
 
-**On Fate** · A self-imposed vow bites sooner and holds longer, and an old wrong can be worked off on the Attraction Layer one hard year at a time. Only the penitent's end of the line is theirs to pay, so a wronged man may stay wronged as long as he likes.
+**On Fate** · A self-imposed vow bites sooner and holds longer, so a company that ran from a field can swear itself back onto that same field every year until it stands, each return paid in real wounds and leaving it harder to break in exactly the place it broke. Only the penitent's end of the line is theirs to pay, so a wronged man may stay wronged as long as he likes, usually on the other side of the field.
 
 **Spirit** · Temperance through discipline.
 

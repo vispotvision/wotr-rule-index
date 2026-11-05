@@ -50,7 +50,7 @@ Day-to-day rule in most of the four quarters comes from three authorities stacke
 | Means | What it looks like on the ground |
 |---|---|
 | **Proxy and company war** | Company guards, hired hunters and "survey parties" do what a crown cannot be seen to do. A company's private army burns a rival's way-station and the crowns behind both exchange letters of regret |
-| **Open war** | Levies, fleets, Wyvern wings and practitioners in the field. Rare between the great crowns, because it is ruinously expensive, and common at the edges where one of them meets a smaller one |
+| **Open war** | Levies, fleets, Wyvern wings and practitioners in the field, each side's first job being to pin or kill the other's Fate users and champions. Rare between the great crowns, because it is ruinously expensive, and common at the edges where one of them meets a smaller one |
 | **Economic war** | Cutting supply, buying up a commodity, crying down a rival's shares at the fair, closing a port, raising a toll, withholding grain. The cheapest war there is, and the one that kills the most people who never see a soldier |
 | **Intrigue** | Bought clerks, forged assays, concealed coil readings on an heir, a charter revoked because the right person heard about a problem three times in one season |
 

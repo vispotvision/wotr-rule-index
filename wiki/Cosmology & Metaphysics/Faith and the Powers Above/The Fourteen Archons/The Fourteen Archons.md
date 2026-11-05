@@ -160,6 +160,8 @@ flowchart TD
 While Titanic Law governs the geologic and cosmic architecture of the Realms, and Wellspring Law governs the behavior of Aether and of the Essence a Soul Crystal refines from it, Archonic Law governs the conceptual forces that give those physical and energetic phenomena their meaning. Memory, desire, balance, dream, motion, stillness, insight, harmony, form, time, space, will, life, and death are abstract ideas and **operational principles** at once, each one administered by a sovereign intelligence, each one expressing itself through the metaphysical grammar that practitioners access via Temperance growth, Wellspring attunement, and Soul Crystal alignment.
 > All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must take their permission from one of these three cosmological strata. No magic exists outside the lattice that Omnara's Division created and that the Three Epochs and Fourteen Archons sustain.
 
+Most if not all of the Fourteen are Sovereign across all three planes: the Physical, the Soul and the Plane of Fate. They are not equals for it, and the banners at Saltash are arranged with some care. On the Plane of Fate above all, where they are the laws as well as the powers, [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos|Urion and Uurgath]] have no peers among the rest.
+
 ### Two triads, and why they are not the same triad
 
 *A recurring confusion in the teaching literature, worth settling once.*

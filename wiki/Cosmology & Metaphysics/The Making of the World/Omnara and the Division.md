@@ -46,7 +46,7 @@ From Omnara's singularity, three primal currents unfurled, each carrying a disti
 
 ### Nested, Not Stacked
 
-The three planes nest inside one another, and no stair runs between them. The **Plane of Fate** lies deepest, the lattice upon which all possibility rests. The **Soul Plane** lies between, the stratum through which abstract law becomes a soul's felt truth. The **Physical Plane** sits at the surface, where truth becomes event, body, ruin, and mountain range.
+The three planes nest inside one another, and no stair runs between them. The **Plane of Fate** lies deepest, the lattice upon which all possibility rests. The **Soul Plane** lies between, the stratum through which abstract law becomes a soul's felt truth. The **Physical Plane** sits at the surface, where truth becomes event, body, ruin, and mountain range. Only the last two are realities in any careful sense. What lies deepest is everything that flows, every possibility, idea and concept, and "plane" is a courtesy.
 ```mermaid
 flowchart LR
     subgraph PP["PHYSICAL PLANE: the surface"]

@@ -30,7 +30,7 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **On the Spirit** · The practitioner reads and draws what has sunk into water and into a soul, and a working can call up what a place or person has long since stopped remembering.
 
-**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming.
+**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming. At the price of a heavy draw on the reserve and a nosebleed that can last a day, one can be drawn up early, the lesson the other fighter's first master beat into them wrong surfacing in the exact exchange where it will cost them. Doing the same to a war, the poisoned treaty coming due or the well sunk a hundred years ago going bad the summer an army camps on it, is the work of a whole life, and whatever else is down there comes up with it.
 
 ## Somnalis · *The Dream Veil*
 
@@ -42,7 +42,7 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **On the Spirit** · The Core can hold a person or a working as the spread of what it might yet be, so a thing can be read, and very rarely written on, in terms of what it has not become.
 
-**On Fate** · Near possibilities stand in view with their weights on them, the pull behind each felt on the Attraction Layer like current on a line, and the holder lives among them and once in a long while leans.
+**On Fate** · Near possibilities stand in view with their weights on them, the pull behind each felt on the Attraction Layer like current on a line, and seeing them is the whole of what most holders ever do. A lean takes much of the reserve and often fails, and when it takes, of three blows the opponent might throw it is the one the guard is waiting for, or once in a campaign the rain comes an hour before the cavalry crosses instead of an hour after. Nobody can reason out which way to lean, as a certain Reed Cup bookmaker's house, boat and dog can attest.
 
 **Spirit** · Temperance through vision. *The confessors' reading:* uncertainty, living easy among adjacent possibilities.
 
@@ -70,7 +70,7 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **On the Spirit** · Feeling takes its true weight, and a grief held deep in the Core presses outward on every other soul in the room, who go home tired and cannot say why.
 
-**On Fate** · A bond takes on the full depth of what is felt in it, so a widow's claim on a house leans harder than any deed, and the people it pulls on start arranging their days around it.
+**On Fate** · A bond takes on the full depth of what is felt in it, so a widow's claim on a house leans harder than any deed, and a company's grief for its dead captain will hold a wall that every sum says is lost. Letting that weight down on the enemy's camp, where it settles on whoever already half believes they did wrong, takes the holder's whole self, and a holder whose support gives way under it is crushed by the same grief.
 
 **Spirit** · Temperance through immersion. *The confessors' reading:* depth of feeling, emotional truth given its full weight.
 
@@ -98,7 +98,7 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **On the Spirit** · A working carries whatever was given up to make it, and one paid for with a memory or a name is unmistakably heavier, by exactly that memory or name.
 
-**On Fate** · The offering is a bargain the Plane will honor: what is surrendered on the Attraction Layer reappears elsewhere as pull at exact measure, and the books are kept by something that does not round up.
+**On Fate** · The offering is a bargain that will be honored: what is surrendered on the Attraction Layer reappears elsewhere as pull at exact measure, and the books are kept by something that does not round up. A duelist lays down the use of a hand for good and the other fighter's guard comes open by a hand's worth, and a commander who burns his own baggage and his road home sees the enemy's relief lose a day on the march for each one he gave up. No lens on the Path is more honest about what this costs, and the price has to be really yours, so a general spending a company he never loved has bought considerably less than he thinks.
 
 **Spirit** · Temperance through sacrifice.
 

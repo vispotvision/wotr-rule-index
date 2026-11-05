@@ -51,7 +51,7 @@ A Wellspring's kind names its home plane. **A kind is a qualifier and never a lo
 
 ### The Lens
 
-A Wellspring is the lens a soul bases its tempering on, and it works in the terms of whichever layer the soul leans on. On the Body Path, by way of the Aether Shell, it changes what the body does and bears. On the Spirit Path, by way of the Essence Core, it changes what the working is and what it carries across a distance. On the Fate Path, by way of the Attraction Layer, it changes what the soul's bonds, oaths and claims will hold. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear.
+A Wellspring is the lens a soul bases its tempering on, and it works in the terms of whichever layer the soul leans on. On the Body Path, by way of the Aether Shell, it changes what the body does and bears. On the Spirit Path, by way of the Essence Core, it changes what the working is and what it carries across a distance. On the Fate Path, by way of the Attraction Layer, it changes what the soul's bonds, oaths and claims will hold, and the color of whatever thread the soul manages to pull. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear.
 
 **At home** a Wellspring harmonizes cleanly and can reach double its effect with years of mastery. **Away from home** it works at lower-quality resonance and higher Essence cost, and reaches half again at most. Part Eighteen sets out the Paths.
 
@@ -245,11 +245,13 @@ The maximum number of simultaneous harmonizations is governed by **Tempering Cap
 
 ### The Plane of Fate
 
-The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. Fate covers both forces below. It represents the possibility of all things, so it reaches the Spiritual and the Physical World alike, because all spirits and all physical things have fates. It can attach to oaths, and it is more tied to blessings.
+The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. Fate covers both forces below. It represents the possibility of all things, so it reaches the Spiritual and the Physical World alike, because all spirits and all physical things have fates. It can attach to oaths, and it is more tied to blessings. "Plane" is a courtesy. Physical and Spiritual Reality are the two lower realities, and Fate is no reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in those two, and it sits above them as the law and construction of the world. Most if not all of the Archons are Sovereign across all three planes, this one included, some more powerful than others, and Uurgath and Urion are unparalleled here because their ideas are inconceivable.
 
 A soul's own share of this plane is its Attraction Layer, and a soul that leans on that layer is on the Fate Path. The two forces below are what the plane runs on, and they stay forces whoever is spending them. Most of the Path spends them the way they already run, in bonds, oaths, Range, Aura Pressure and Domain authority, and at its far end it changes how they are going to run.
 
-Real Fate Arts are rare and mostly by bloodline. Some high-Stage masters reach them late along the Fate Path, and everyone else touches Fate through a blessing or a Master Work Draft, if at all. They are considered incredibly overpowered, and the people who consider them so are mostly the ones who have met one.
+People fight and wage wars with this, and it is the hardest thing they do. Understanding gets no purchase on it, because understanding is made of the thing it would be used against. A real pull of a thread moves what a blow, a wall or a march depends on, so that the result arrives without having been forced. It is rare, ruinously expensive and often fails, it moves only what already has a way of happening, and it is contested, Dominion's Fate Sub-Stat against the target's Resilience Persistence and Continuity. Moving a whole field is a life's masterwork at high Stage or a bloodline's art.
+
+Real Fate Arts are rare and mostly by bloodline. Some high-Stage masters reach them late along the Fate Path, and most people touch Fate only from the outside, through a blessing or a Master Work Draft, if at all. They are considered incredibly overpowered, and the people who consider them so are mostly the ones who have met one.
 
 ### Blessings
 

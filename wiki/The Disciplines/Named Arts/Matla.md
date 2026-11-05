@@ -28,7 +28,7 @@ At lesser attainments it resembles advanced matter shaping. At greater attainmen
 
 ---
 
-## The Practices of Malta
+## The Practices of Matla
 
 ### 1 · Form — , mass, density, substance
 
@@ -116,6 +116,9 @@ Not truly a sixth branch. **It is the convergence of all others.** Matter, Time,
 > The sovereign commands matter through law.
 >
 > The Totality Architect commands matter as a complete system.
+
+That ladder is the whole of the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Body Path]], whatever a fighter calls it: plenty climb it with a sword and have never heard the word Matla. What the art adds is its six branches, named and taught, and the means of surviving them.
+
 Temperance determines whether the Soul Crystal can survive the contradiction of commanding matter while being composed of matter. The central question of the discipline remains: **can one command physical law without becoming subject to the command?**
 
 ---

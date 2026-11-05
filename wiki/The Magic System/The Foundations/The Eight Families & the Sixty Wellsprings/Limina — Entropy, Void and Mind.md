@@ -34,7 +34,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · At home it goes into the Core with a skimmer and takes off the memories that are chains, one's own or a willing other's, and what is left runs lighter and truer. Done to the unwilling it is the crime the seal-courts were built for, and whether it can be done at a distance is argued mostly by people who cannot remember.
 
-**On Fate** · Forgetting a debt does not strike it off, which has surprised a great many people. What the lens can do is cut the holder's own end of the line, so the old obligation stops pulling on them, while the creditor goes on holding the other end and the first anyone hears of it is the collector at the door.
+**On Fate** · Forgetting a debt does not strike it off, as a great many people have been surprised to learn, but with a great effort the holder's own end of the line can be cut, and a company that has cut its end of a rout marches back onto the same field with no memory in its knees of how that morning went. The holder pays in their own childhood, piece by piece, and what the rout cost is still owed when the collector reaches the door.
 
 **Spirit** · Temperance through release of memory. *The confessors' reading:* forgetting, the lesson of which memories are load-bearing and which are chains.
 
@@ -62,7 +62,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Under this cup the soul digests what it has been choking on, by its own clock and nobody's choice, and old grief goes down into the Core as plain structure that holds weight. Physicians prescribe it for that reason, and nothing about it reaches anyone but the one holding the cup, unless you count the family who wonder why she has stopped crying.
 
-**On Fate** · Time wears bonds as well, and this lens hurries it along: feuds lose their heat, vows go slack, and a widow's claim on the dead man loosens years early. It can do nothing about which of those you wanted kept.
+**On Fate** · Time wears bonds as well, and by pouring themselves out a holder can hurry it along, so the rage an enemy army carried out of its burned capital may have gone to mere complaint by the second week of the march. It is slow, draining work that nothing can aim, and its holders have lost sieges to their own side's forgiveness when a vow to die on the wall went slack on the morning it fell due.
 
 **Spirit** · Temperance through quiet. *The confessors' reading:* time, old pain digested into neutral architecture.
 
@@ -90,7 +90,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · At home the Core sets itself in order in the dark while nothing is asked of it, and the person who lay down is not quite the one who wakes. The rare art that lays that quiet on someone else in sight is really laying it on their soul, the sect masters say, with the body merely following, and nobody has settled the matter since the only witness is asleep.
 
-**On Fate** · What it offers the Attraction Layer is an odd, patient thing: a sleeper's oaths hold, their enemies lose the thread of them, and the world seems to have agreed to leave them be until they wake. The old rule against waking anyone under this lens is older than the Guild and has so far turned out to be right.
+**On Fate** · A sleeper's oaths hold and their enemies lose the thread of them, and a commander who will give up waking for it, sometimes for weeks, may see a camp rest when it ought to lie awake and a night attack come down the wrong valley. The old rule against waking anyone under it is older than the Guild, because what stops partway sets worse than it began.
 
 **Spirit** · Temperance through rest.
 
@@ -118,7 +118,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · At home the Core and what leaves it become one surface, so a working carries what the person actually is, and a soul at peace with itself throws truer than its Grade suggests. Turned on someone else, the art hands them their own soul with the flattery taken off, and whether that counts as a technique or merely as tactlessness is a dispute the Measurewrights have yet to close.
 
-**On Fate** · Presence turns into plain speech: a room knows what this person wants, and an oath sworn under this lens cannot carry a hidden clause, because everyone can read the clause, the swearer included. Terrible for courtiers, and a sworn company will follow one off a cliff.
+**On Fate** · Presence turns into plain speech: a room knows what this person wants, an oath sworn under this lens cannot carry a hidden clause, and a sworn company will follow one off a cliff with nobody left to wonder about the orders. Turning that on a parley, so an enemy goes home knowing how much of his own army means to stand, strips the holder bare before every soul present and leaves them nothing private for the rest of their life, which is why it is rarely done.
 
 **Spirit** · Temperance through stillness. *The confessors' reading:* self-sight, the inside and the outside made one honest surface.
 
@@ -146,7 +146,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · At home a working goes through the space of what can be thought and arrives at a soul, since a soul was never in the room to begin with, and it steers by whatever the sender holds of the target: a name, a face, a shared roof. The dreamer wakes shaken and changed and the furniture has not moved, and the stories in which it did are told by people selling something.
 
-**On Fate** · A dream shared often enough becomes a bond, so strangers under this lens keep dreaming of the same door and the same road and then keep meeting. The odds it moves are small and very strange, and a Domain built on it has terms nobody can quite recite afterward.
+**On Fate** · A dream shared often enough becomes a bond, and strangers keep dreaming of the same door and then keep meeting, which is the small and very strange end of it. A holder who gives a season of nights to it can send a levy onto a field it has dreamed for a week, already knowing how to run, at the price of no longer being certain which field they woke on, and a Domain (a region where the world runs on a practitioner's terms) built on it has terms nobody can quite recite afterward.
 
 **Spirit** · Temperance through imagination. *The confessors' reading:* dreaming.
 
@@ -174,7 +174,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Authored in the Core and thrown, the construct stands at a distance and does exactly as much as its maker has fully imagined. Scribes have raised a bridge across a gorge this way, and rivals have brought it down by asking loudly what was holding up the middle.
 
-**On Fate** · What gets made solid out here is a reputation: the ballad's version of a person walks into the room a half step ahead of the person, frightening what the original cannot. Sooner or later its owner has to decide whether to live up to it or fight it.
+**On Fate** · What gets made solid this way is a reputation, and on most days that is the whole weapon: the ballad's version of a person reaches the field a half step ahead of them, frightening what the original cannot. Forcing it, so that a line breaks for a charge that is forty men and a great deal of dust, takes the whole of the holder's reserve and faithfully copies every flaw in the ballad, and sooner or later someone who knows the words fights them by it.
 
 **Spirit** · Temperance through creation. *The confessors' reading:* imagining, the thing thought made solid enough to answer for.
 
@@ -202,7 +202,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · In the Core it reads a soul as a fired pot reads its kiln: what this person has committed to, what was done to them, how long ago and at what dose. Inscribed on a thing, it makes that thing's history part of what the thing is, which is how an old sword comes to know its trade.
 
-**On Fate** · Every oath, debt and death leaves a record on the Attraction Layer and this lens reads it on contact, so a handshake can say who else this hand has sworn to, and the oldest claim on a piece of ground can be called in by anyone able to name it. Courts pay very well for that, and then try to have the witness quietly sealed.
+**On Fate** · Every oath, debt and death leaves a record on the Attraction Layer and this lens reads it on contact, so a handshake can say who else this hand has sworn to, and a sword taken from a dead man can say which guard he always dropped. With a palm on a fortress's footing it finds the winter the mortar was skimped and the oldest claim on that ground, and calling either one in, so that the wall remembers what it is owed, takes a lifetime's skill and a body's worth of blood. Courts pay very well for the reading and then try to have the witness quietly sealed, and a careless pull erases the very record it was pulling on.
 
 **Spirit** · Temperance through awareness. *The confessors' reading:* remembrance, which preserves charged records of lived commitment, and more than mere memory.
 
@@ -230,7 +230,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Thrown, it is a solvent for definitions: a seal loses track of which part of it was the seal, and a ward sags out of its own inscription into a puddle of good intentions. It runs slower than a blow and has never once been selective.
 
-**On Fate** · Bonds slacken around such a person, sworn companies drift apart and old friends stop writing, with nobody able to name the day it happened. Turned deliberately on an oath it can bring the terms undone while nobody is looking, and the Accord's notaries keep a short list of who has tried.
+**On Fate** · Bonds slacken around such a person with nobody able to name the day, and a coalition camped near one for a season may shed allies as harvests come due and old terms turn out to have lapsed. Brought to bear on one oath in the middle of a fight, so that a bodyguard's sworn step forward arrives a moment late, it costs the holder a bond of their own each time, and the Accord's notaries keep a short list of who has tried.
 
 **Spirit** · Temperance through release. *The confessors' reading:* unbinding, the soul dissolving what no longer serves its architecture.
 
@@ -258,7 +258,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Cast out from the Core, the same hush is laid over what a thing is, so a hidden door simply goes unconsidered and a ward looks straight past a man who has hidden his purpose from it. It is weaker than it sounds, and anyone who has been told where to look is untroubled.
 
-**On Fate** · What hides out here is a person's share of the world's attention: creditors mislay the address, the holder of an oath loses track of who swore it, and bounty boards go stale. This is exactly the use the Heresiology has in mind, and it is a lonely one, since the friends mislay the address too.
+**On Fate** · What hides this way is a person's share of the world's attention: creditors mislay the address, and bounty boards go stale. Stretching it over a raiding column, so that a sentry's eye slides to the wrong ridge and men who watched it pass report nothing, is a rare and ruinous feat that leaves the holder for some while the brightest thing on the hill, and friends and relief columns mislay the address too.
 
 **Spirit** · Temperance through secrecy. *The confessors' reading:* concealment. The Heresiology's doctrine stands beside it: the presence of shadow is no proof of heresy, and the use of shadow to erase cost, witness or responsibility often is.
 
@@ -286,7 +286,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Inscribed in the Core, the name is a second copy of the self held against loss, so a working that tells the soul what it is gets told the same thing in return, weakly and a little late. A soul written this way can lose a great deal and still be read back from what survives.
 
-**On Fate** · At home the name is held on the Plane of Fate in many hands, every oath it swore and every mouth that ever cursed it counting as a copy, and what is done to it, erasure or false witness or an eye turned aside, goes back along the line it came in by. A practitioner can lose a whole city's memory of them and still walk in on the strength of one old debt.
+**On Fate** · At home the name is held in many hands, every oath it swore and every mouth that ever cursed it counting as a copy, and what is done to it, erasure or false witness or an eye turned aside, goes back along the line it came in by. A Fate working aimed at such a person can travel home, so the slipped guard turns up on the arranger, though each return spends copies the holder does not get back, and past a limit the name that comes back is confident, complete and wrong. A practitioner can lose a whole city's memory of them and still walk in on the strength of one old debt, and one general thought dead for a decade spent the last of his copies raising an army out of unpaid promises.
 
 **Spirit** · Temperance through erasure. *The confessors' reading:* keeping one's name against erasure.
 
@@ -314,7 +314,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · At home the soul keeps a setpoint, and elation, terror and other people's Pressure all arrive and fail to move the needle. Some hold that the room around such a person slowly evens out too, lamps steadying and tempers dropping, and those who have tried to measure it got different answers on different nights.
 
-**On Fate** · The odds around this person run unusually flat, with no streaks, no miracles and no disasters out of nowhere, and the world's great dramas tend to go round them. Bonds stay at the temperature they were sworn at, never cooling and never warming, and spouses have been known to mention this.
+**On Fate** · The odds around this person run unusually flat, with no streaks and no disasters out of nowhere, and a Fate commander's best morning, bought at ruinous expense, goes to waste against a company held level by it. Bonds stay at the temperature they were sworn at, as spouses have been known to mention, and holding a line at that level through a long siege is a slow exhaustion, all of it coming out at once on the day the load lifts.
 
 **Spirit** · Temperance through night. *The confessors' reading:* evenness.
 
@@ -342,7 +342,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Thrown from the Core, it strikes one clause out of what a thing is and leaves the rest standing around without it: a blade that has stopped being sharp, a ward that no longer recalls what it was warding. Fine work and ruinously dear, and no two Measurewrights agree on what is in the gap.
 
-**On Fate** · Its great terror is the Domain, where a rule removed reaches exactly as far as the practitioner's claim on the ground, and out here that claim can be very large. Away from a Domain it is a small bleak habit, in which other people's oaths fail to bite on this person and theirs fail to bite on anybody.
+**On Fate** · Its great terror is the Domain, where a rule removed reaches exactly as far as the practitioner's claim on the ground, and at the far end of a life that claim can take in a field on which a chain of command or a company's oath has nothing left holding it up. Elsewhere it is a small bleak habit in which other people's oaths fail to bite on this person, and every rule it removes is somebody's, since Archons and the great principles are the laws, and they have been known to notice.
 
 **Spirit** · Temperance through void. *The confessors' reading:* negation.
 
@@ -370,7 +370,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Thrown from the Core, a working on this lens reflects nothing and reports nothing. Whatever it takes joins the pile, and a ward it swallows becomes one more thing the caster must carry for life.
 
-**On Fate** · The lost stay bound to them: every dead friend, broken oath and failed cause keeps its pull on the Attraction Layer and none is ever released, so such a person trails a slow heavy draw that the sensitive feel as an empty chair. Strangers confide in them, and the creditors of the dead find their way to that door.
+**On Fate** · The lost stay bound to them, every dead friend, broken oath and failed cause keeping its pull on the Attraction Layer, so such a person trails a slow heavy draw that the sensitive feel as an empty chair, and survivors of ruined companies find their way to that door. Calling the whole weight down at once, so that a general who has beaten them five times looks up on the sixth field and finds all five defeats drawn up against him under one banner, is done once if at all, and the holder has to carry everything it brings.
 
 **Spirit** · Temperance through absence. *The confessors' reading:* carrying what was lost.
 

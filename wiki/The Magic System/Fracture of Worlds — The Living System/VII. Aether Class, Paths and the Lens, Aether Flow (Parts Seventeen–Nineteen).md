@@ -101,11 +101,13 @@ Older books sort souls by an inborn bias toward one of the eight Families. The t
 
 A soul meets the world through three layers, and every soul has all three, the unwoken included. **A Path is the layer a Crystal has learned to lean on.** The full account is [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
 
-| Path | Plane | Layer | Who | Buys | Costs |
+| Path | Plane | Layer | What it works on | Buys | Costs |
 |---|---|---|---|---|---|
-| **Body** | The Physical World | Aether Shell | Hitters | Strike, Durability, Lifting, in full at contact | Range and Aura Pressure. Must close |
-| **Spirit** | The Soul Plane | Essence Core | Throwers | Force at range through projection and inscription, and a say on what a thing is | Durability. Survives by being right |
-| **Fate** | The Plane of Fate | Attraction Layer | Talkers and stayers | Bonds, oaths, Range, Aura Pressure and Domain authority, with true Fate Arts at the rare far end | Raw output. Strongest at home |
+| **Body** | The Physical World | Aether Shell | Physical reality, known and worked literally: matter, force, heat | Strike, Durability, Lifting, in full at contact; high up, authority over matter itself | Range and Aura Pressure. Must close until very high, and needs existing substance always |
+| **Spirit** | The Soul Plane | Essence Core | Spiritual reality: souls, spirits, the dead, what a thing means | Force at range through projection and inscription, and a say on what a thing is | Durability. Survives by being right |
+| **Fate** | The Plane of Fate | Attraction Layer | What has to be so before anything can happen, the law and construction of the world | Range, Aura Pressure, presence, bonds, oaths and Domain authority; rarely, the odds and prerequisites of a blow or a war; at the deadly far end, true Fate Arts | Raw output. A real pull is ruinously expensive, moves only what already has a way of happening, and often fails. Loses a straight exchange |
+
+The bracket crowds say hitter, thrower, talker and stayer, and anyone who has met the far ends of these roads says something else. Physical and Spiritual Reality are the two lower realities, under Aegor and Ashura. Fate, under Bara, is no reality at all, and "plane" is a courtesy: it is everything that flows, every possibility, idea and concept, anything that can happen in the other two.
 
 Attraction Force and Obsession Force are what the Plane of Fate runs on, and the Attraction Layer is a soul's own share of fate, so older registers that list Attraction as a road of its own were looking at the shallow end of Fate. An Attraction gate in an old table is a Fate gate at the same Stage and Grade.
 

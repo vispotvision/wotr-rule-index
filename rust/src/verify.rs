@@ -315,9 +315,9 @@ pub fn card_age(field: &str) -> Option<i64> {
     })
 }
 
-type Cards = (Option<Regex>, HashMap<String, Vec<(String, Option<i64>)>>);
+type Cards = (Option<Regex>, HashMap<String, Vec<(String, Option<i64>)>>, usize);
 
-/// verify.cards: every card and table roster name with its age, and a regex over the names
+/// verify.cards: every card and table roster name with its age, a regex over the names, and the cards read
 /// (plus first names no one else shares). Read on each call; the Python cached it per process.
 fn cards() -> Cards {
     let wiki = root("wiki");
@@ -334,8 +334,8 @@ fn cards() -> Cards {
         for p in ps {
             let stem = crate::util::stem(&p);
             let name = split(rx!(r" · | \u{2014} | \(|, "), &stem)[0].trim().to_string();
-            if name.split_whitespace().next() == Some("Volume") {
-                continue;
+            if matches!(name.split_whitespace().next(), Some("Volume" | "Characters")) {
+                continue; // the folders' hub pages, not people
             }
             let age = caps(age_field(), &read_lossy(&p)).and_then(|c| match c.get(1) {
                 Some(g) => card_age(g.as_str()),
@@ -344,6 +344,7 @@ fn cards() -> Cards {
             found.push((name, age));
         }
     }
+    let n_cards = found.len();
     let roster = root("table/npcs.yaml");
     if roster.exists() {
         for e in split(rx!(r"(?m)^- "), &read_lossy(&roster)) {
@@ -372,12 +373,12 @@ fn cards() -> Cards {
         }
     }
     if by_key.is_empty() {
-        return (None, by_key);
+        return (None, by_key, n_cards);
     }
     let mut keys: Vec<&String> = by_key.keys().collect();
     keys.sort_by_key(|k| std::cmp::Reverse(k.chars().count()));
     let alt: Vec<String> = keys.iter().map(|k| fancy_regex::escape(k).into_owned()).collect();
-    (Some(build(&format!(r"\b(?:{})\b", alt.join("|")))), by_key)
+    (Some(build(&format!(r"\b(?:{})\b", alt.join("|")))), by_key, n_cards)
 }
 
 fn readouts(body: &str) -> usize {
@@ -651,7 +652,11 @@ pub fn run(text: &str, o: &Opts) -> Result<Res, String> {
                 fails.push(format!("bed euphemism in narration: \"{}\" in \"...{}...\" (R49-51-EXPLICIT, R73-41-INTIMACY_CHECKS_VERIFY; free in a mouth)", m.as_str(), win(&narr_plain, m.start(), m.end(), 50, 30)));
             }
         }
-        let (rx_names, by_key) = cards();
+        let (rx_names, by_key, n_cards) = cards();
+        if n_cards == 0 {
+            // an empty read looks exactly like a clean pass; the roster alone holds no ages yet
+            fails.push(format!("floor guard: read no character cards under {}, so no age can be checked; fix the path before posting (R73-41-INTIMACY_CHECKS_VERIFY, NATALIE.md floor)", CARD_DIRS[0]));
+        }
         let mut keys: Vec<String> = rx_names.as_ref().map(|r| finds(r, raw).into_iter().map(|m| m.as_str().to_string()).collect()).unwrap_or_default();
         keys.sort();
         keys.dedup();

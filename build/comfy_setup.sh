@@ -3,8 +3,7 @@
 # C:\Users\isaac\Documents\comfy\ComfyUI (two installs, both lost with Windows — only their
 # metadata came over in ~/wotr-vault/comfy). On Linux it is one clone at ~/comfy/ComfyUI with its
 # own venv, <WOTR_VENVS>/wotr-comfy, on AMD's ROCm 10 PyTorch (the same wheels the TTS venvs use),
-# and it runs as the systemd user unit wotr-comfy on 127.0.0.1:8188 — loopback only; n8n reaches it
-# there (network_mode: host) and nothing else does.
+# and it runs as the systemd user unit wotr-comfy on 127.0.0.1:8188 — loopback only, so nothing off this machine reaches it.
 #
 #   bash build/comfy_setup.sh            # clone or update, venv, torch, requirements, the workflows, the unit
 #   bash build/comfy_setup.sh --models   # the same, then the model files the workflows in agent_workflows/ name

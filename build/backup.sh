@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Weekly backup of the canon (see build/backup.py): one zip to Google Drive when it is
+# Weekly backup of the canon (see wotr-mcp backup): one zip to Google Drive when it is
 # mounted (WOTR_DRIVE), to WOTR_BACKUP_DIR (~/wotr-backups) otherwise; the last twelve
 # kept. Runs as the systemd user timer wotr-backup.timer (Sunday 03:00; the unit files
 # are in build/systemd/, build/systemd_setup.sh installs them).
@@ -13,5 +13,5 @@
 set -uo pipefail
 . "$(dirname "$0")/env.sh"
 
-# exec: the interpreter takes over the process, so its exit code is the script's
-exec "$WOTR_PYTHON" build/backup.py
+# exec: the binary takes over the process, so its exit code is the script's
+exec rust/target/release/wotr-mcp backup

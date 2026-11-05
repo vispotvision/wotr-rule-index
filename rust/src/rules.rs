@@ -57,7 +57,7 @@ pub fn load() -> Result<Vec<Rule>, String> {
     Ok(rows)
 }
 
-fn vocab() -> BTreeSet<String> {
+pub(crate) fn vocab() -> BTreeSet<String> {
     static RX: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"(?m)^\|\s*`([a-z-]+)`").unwrap());
     let body = read_lossy(&root("schema/applies_to.md"));
     RX.captures_iter(body.as_str()).flatten().map(|c| c[1].to_string()).collect()

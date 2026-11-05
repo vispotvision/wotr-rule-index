@@ -1,0 +1,12 @@
+# The public site's content builder. Its own crate so CI, which runs on every wiki push, does not
+# compile the MCP's dependencies.
+[package]
+name = "wotr-site"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fancy-regex = "0.20"
+serde_json = { version = "1", features = ["preserve_order"] }
+sha1 = "0.10"
+sha2 = "0.10"

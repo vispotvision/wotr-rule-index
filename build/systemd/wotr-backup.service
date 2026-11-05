@@ -1,7 +1,7 @@
 # wotr-backup.service — was the scheduled task "WOTR weekly backup" (Sunday 03:00,
 # ExecutionTimeLimit one hour).
 #
-# Weekly backup of the canon (build/backup.py): one zip of wiki/, scenes/, table/,
+# Weekly backup of the canon (wotr-mcp backup): one zip of wiki/, scenes/, table/,
 # rules/, sources/, proposals/, reports/, the top-level ledgers and the WOTR True Canon
 # folder — the one store that is in no git repository — keeping the last twelve. To
 # Google Drive when WOTR_DRIVE is mounted, else to WOTR_BACKUP_DIR. build/backup.sh does

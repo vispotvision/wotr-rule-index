@@ -1,7 +1,7 @@
 # wotr-book.service — was the scheduled task "WOTR book" (daily 02:00,
 # ExecutionTimeLimit five hours).
 #
-# The book dispatcher: one chapter a night, while Isaac sleeps. build/book_next.py says
+# The book dispatcher: one chapter a night, while Isaac sleeps. wotr-mcp book-next says
 # what the book needs; if a chapter is due, Claude Code runs headless on the
 # subscription and the book-chapter workflow does the real work under book/<slug>/;
 # then what landed is committed. build/book_dispatch.sh does the work;
@@ -11,7 +11,7 @@
 # mirrors the Windows task's ExecutionTimeLimit): when it fires mid-chapter, claude is
 # killed, the script logs it, refreshes GATES.md and commits whatever landed.
 # TimeoutStartSec below is only the backstop, and it is longer on purpose — the unit's
-# clock starts before the pull and book_next.py, so an equal limit would have systemd
+# clock starts before the pull and wotr-mcp book-next, so an equal limit would have systemd
 # kill the whole cgroup (script included) just before the script's timeout, and the
 # chapter on disk would sit uncommitted with nothing in the log. WOTR_BOOK_OFF=1 in
 # ~/.config/wotr/env is the off switch: the dispatcher writes nothing.
@@ -22,8 +22,6 @@
 # regardless and logs what it could not do.
 #
 # Logs: journalctl --user -u wotr-book, and the script's own build/book_dispatch.log.
-# If an n8n workflow takes over the book, disable wotr-book.timer so it does not run
-# twice (build/systemd_setup.sh prints the command).
 
 [Unit]
 Description=WOTR book: one chapter a night, gated

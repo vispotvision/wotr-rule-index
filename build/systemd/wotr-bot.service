@@ -2,7 +2,7 @@
 # restarted the bot itself every 30 s).
 #
 # WOTR Bot: the players' front-end onto the rule index, the wiki mirror, the scene
-# archive and the table state (bot/main.py; plan in bot/PLAN.md). bot/run.sh starts it
+# archive and the table state (wotr-mcp bot; plan in bot/PLAN.md). bot/run.sh starts it
 # once; the restart loop is this unit's now — Restart=on-failure, 30 s later, the same
 # cadence as before. With DISCORD_TOKEN empty in ~/.config/wotr/env, run.sh logs one
 # line and exits 0, which on-failure does not restart, so the unit ends quietly instead
@@ -18,7 +18,6 @@ Description=WOTR bot: the players' front-end onto the rule index and the table
 Type=simple
 WorkingDirectory=%h/wotr-rule-index
 EnvironmentFile=-%h/.config/wotr/env
-Environment=PYTHONIOENCODING=utf-8
 ExecStart=/bin/bash %h/wotr-rule-index/bot/run.sh
 Restart=on-failure
 RestartSec=30

@@ -1,4 +1,4 @@
-# wotr-workshop.service — the WOTR Workshop (app/server.py): each player's own library of
+# wotr-workshop.service: the WOTR Workshop (wotr-mcp workshop): each player's own library of
 # characters, techniques, items, lore, places and factions, with images, and Natalie on the
 # player's own AI wired to the MCP's read-only tools in process.
 #
@@ -6,7 +6,7 @@
 # (an invite, which becomes the holder's key on first use), or Discord OAuth once configured:
 # DISCORD_CLIENT_ID and DISCORD_CLIENT_SECRET in ~/.config/wotr/env. WOTR_APP_URL (the public https
 # address, which also switches /auth/dev off) is set below.
-# New accounts need an invite: build/py.sh app/server.py invite <note>.
+# New accounts need an invite: rust/target/release/wotr-mcp workshop invite <note>.
 # Data: ~/.local/share/wotr-app (app.db, images/). Never set WOTR_APP_DEV here.
 # Published with `tailscale funnel --bg --https=10000 8780`; the MCP routes on 443 are untouched.
 
@@ -18,9 +18,8 @@ TimeoutStopSec=5
 Type=simple
 WorkingDirectory=%h/wotr-rule-index
 EnvironmentFile=-%h/.config/wotr/env
-Environment=PYTHONIOENCODING=utf-8
 Environment=WOTR_APP_URL=https://ultron.tailf1bfa3.ts.net:10000
-ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh app/server.py --port 8780
+ExecStart=%h/wotr-rule-index/rust/target/release/wotr-mcp workshop --port 8780
 Restart=on-failure
 RestartSec=30
 

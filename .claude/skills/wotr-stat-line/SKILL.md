@@ -19,7 +19,7 @@ on; nothing is flagged and left waiting.
   Sixteen Stages, Tier Grade, Bands & the Aether Shell); the PDF, if handed
   one, via `pdftotext`.
 - **A character's figures:** the Stat Sheet. `fow_line(name)`
-  (mcp__wotr__fow_line, or `build/book_tools.py fow_line`) reads what is on
+  (mcp__wotr__fow_line, or `wotr-mcp call fow_line`) reads what is on
   file. Where a character has two cards in play, the thread's latest archived
   scene says which.
 - **Person facts, and wherever the sheet is silent:** the card

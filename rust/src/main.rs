@@ -13,11 +13,23 @@
 //!                                         the public route (default ports 8765 and 8767, the Funnel's
 //!                                         / and /ro) gated by the named keys, and the key dashboard on
 //!                                         127.0.0.1 (default 8790); see http.rs
+//!   wotr-mcp validate | resolve          the rule index gate and out/ (gate.rs)
+//!   wotr-mcp backup | nightly | book-next | hook | tool NAME ...
+//!                                         the machine's own jobs (ops.rs)
+//!   wotr-mcp workshop [--port N] | workshop invite [note]
+//!                                         the players' library and Natalie on their own AI
 //!   wotr-mcp index [-q]                   build/embed_index.py's build(): build/index/ (index.rs)
 //!   wotr-mcp sync                         build/sync.sh: the 15-minute wiki autosave (sync.rs)
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
 mod analysis;
 mod audio;
+mod bot;
+#[path = "../site/src/rng.rs"]
+mod rng;
+#[path = "../site/src/text.rs"]
+mod text;
+mod gate;
+mod ops;
 mod codex;
 mod embed;
 mod http;
@@ -36,6 +48,7 @@ mod table;
 mod util;
 mod writers;
 mod verify;
+mod workshop;
 
 use rmcp::model::*;
 use rmcp::service::RequestContext;
@@ -411,6 +424,54 @@ async fn main() {
         Some("index") => std::process::exit(index::main(&args[1..])),
         Some("sync") => std::process::exit(sync::main()),
         Some("audio-probe") => std::process::exit(audio::probe()),
+        Some("bot") if args.get(1).map(String::as_str) == Some("preview") => std::process::exit(bot::preview()),
+        Some("bot") => std::process::exit(bot::run::main(&args[1..]).await),
+        Some("workshop") => std::process::exit(workshop::main(&args[1..]).await),
+        Some("validate") => {
+            let (code, out) = gate::validate();
+            println!("{out}");
+            std::process::exit(code);
+        }
+        Some("resolve") => match gate::resolve() {
+            Ok(out) => {
+                println!("{out}");
+                return;
+            }
+            Err(e) => {
+                eprintln!("{e}");
+                std::process::exit(1)
+            }
+        },
+        Some("backup") => std::process::exit(ops::backup()),
+        Some("book-next") => std::process::exit(ops::book_next(&args[1..])),
+        Some("nightly") => std::process::exit(ops::nightly(&args[1..])),
+        Some("hook") => std::process::exit(ops::hook()),
+        Some("tool") => {
+            let (tool, a) = match ops::tool_args(&args[1..]) {
+                Ok(Some(call)) => call,
+                Ok(None) => {
+                    println!("{}", ops::loadout(&args[1..]));
+                    return;
+                }
+                Err(e) => {
+                    eprintln!("{e}");
+                    std::process::exit(1)
+                }
+            };
+            let r = Wotr::fixed(true, false).call(&tool, a).await;
+            jobs::join_background();
+            match r {
+                Ok(b) => match b.as_slice() {
+                    [ContentBlock::Text(t)] => println!("{}", t.text),
+                    _ => println!("{}", serde_json::to_string(&b).unwrap()),
+                },
+                Err(e) => {
+                    eprintln!("{e}");
+                    std::process::exit(1)
+                }
+            }
+            return;
+        }
         Some("dump") => {
             let s = std::process::Command::new("bash").args(["build/py.sh", "build/mcp_worker.py", "--dump"]).current_dir(&*util::ROOT).status();
             std::process::exit(s.map(|s| s.code().unwrap_or(1)).unwrap_or(1));

@@ -44,9 +44,16 @@ the end of each phase of the job at hand (`BRIEF.md` for a pack extraction,
 `ROADMAP.md` otherwise) and report.
 
 ## Validation gate
-`python build/validate.py` must exit 0 before you claim a pack is done. If a
+`rust/target/release/wotr-mcp validate` must exit 0 before you claim a pack is done. If a
 check fails, fix the data, not the checker. If you believe the checker is wrong,
 say so and stop.
+
+## Rust (Isaac's direction, 2026-11-04)
+The WOTR MCP, verify, the validation gate, the table writers, the nightly and the
+Kokoro and Supertonic narration run in Rust (`rust/`). All new code, fixes and tests go there: no new Python, and
+no Python copy of a fix to keep `build/*.py` in step. Python that has not been
+ported still runs (`AGENTS.md` lists it); run it, don't extend it. If a job truly
+can't be done without changing Python, ask Isaac first.
 
 ## The map
 `AGENTS.md` is the working map of the repo (layout, commands, the Linux setup,

@@ -69,7 +69,7 @@ if [ -z "${WOTR_PYTHON:-}" ]; then
 fi
 export WOTR_PYTHON
 # the venv's bin/ goes first on PATH, so a bare `python` in anything a script starts
-# (the headless Claude's "python build/book_tools.py", a worker, a hook) is the same
+# (a worker, a Python tool) is the same
 # interpreter — the Windows sync once ran a package-less 3.10 that way and failed silently.
 # Sourced twice (a script that sources another), it is prepended once.
 case "$WOTR_PYTHON" in */bin/python|*/bin/python3)

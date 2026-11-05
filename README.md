@@ -21,9 +21,9 @@ bash build/setup_linux.sh        # once: ~/.venvs/wotr + requirements.txt, ~/.co
                                  # build/wotr.env.example (mode 600), then the systemd user units
 bash build/secrets.sh            # paste NOTION_TOKEN, DISCORD_TOKEN, ELEVENLABS_API_KEY at a hidden prompt
                                  # (never into a chat or a commit); the paths in the file are Ultron's already
-python build/validate.py         # PASS on the example as shipped
-python build/resolve.py
-python build/query.py --applies-to combat adjudication --format full
+rust/target/release/wotr-mcp validate         # PASS on the example as shipped
+rust/target/release/wotr-mcp resolve
+rust/target/release/wotr-mcp call load_rules '{"tags":["combat","adjudication"]}'
 ```
 
 `python` is `~/.venvs/wotr/bin/python` (never the system one). Every shell
@@ -38,18 +38,17 @@ Everything scheduled is a systemd **user** unit (never cron). The twelve
 files are in `build/systemd/`; `bash build/systemd_setup.sh` installs them
 under `~/.config/systemd/user/` (`--status` lists them, `--remove` takes them
 out). Four timers — `wotr-sync.timer` (hourly), `wotr-nightly.timer` (03:30),
-`wotr-book.timer` (02:00), `wotr-backup.timer` (Sunday 03:00) — and three
-long-running services: `wotr-jobs.service` (the job runner for n8n,
-127.0.0.1:8799), `wotr-mcp-public.service` (the shared read-only MCP on 8765;
+`wotr-book.timer` (02:00), `wotr-backup.timer` (Sunday 03:00) — and two
+long-running services: `wotr-mcp-public.service` (the shared read-only MCP on 8765;
 enabled by `build/mcp_public_setup.sh`, not by the installer, so it never
 starts without its secret) and `wotr-bot.service` (the Discord bot). Each
 unit runs `bash build/<script>.sh` (or `bot/run.sh`) with the env file loaded.
-A fourth service, `wotr-comfy.service`, is ComfyUI on the 9070 XT
+A third service, `wotr-comfy.service`, is ComfyUI on the 9070 XT
 (127.0.0.1:8188; installed and enabled by `build/comfy_setup.sh`, see below).
 Logs: `journalctl --user -u wotr-<name>` for the unit's view (start, exit
 code, stderr) plus each script's own file — `build/sync.log`,
 `build/nightly.log`, `build/book_dispatch.log`, `build/backup.log`,
-`build/.jobs_server.log`, `build/mcp_public.log`, `bot/.bot.log`, all
+`build/mcp_public.log`, `bot/.bot.log`, all
 gitignored. The installer turns on `loginctl enable-linger`, so the units run
 whenever the machine is up, desktop session or not.
 
@@ -77,7 +76,7 @@ PROGRESS.md   phase tracker. this job spans sessions.
 
 ## The two properties that matter
 
-**Every rule carries its source quote.** `validate.py` checks that the
+**Every rule carries its source quote.** `wotr-mcp validate` checks that the
 `verbatim` field appears in the source file after stripping markdown and
 collapsing whitespace. A paraphrase that drifts fails the build. This is what
 stops the index quietly becoming a different rulebook than the packs.
@@ -279,8 +278,7 @@ secret. Tools:
 | `sync_now()` | runs `build/sync.sh` |
 
 `--http` serves the same tools over streamable HTTP on :8765 (kept for any local
-MCP client on this machine, loopback only — the n8n container shares the host
-network, so it would reach it at `127.0.0.1`; nothing uses it today).
+MCP client on this machine, loopback only; nothing uses it today).
 `build/verify.py` also runs standalone: `python build/verify.py draft.md --combat --culture Kharven --band set-piece`.
 
 ### Sharing it with friends
@@ -329,7 +327,7 @@ prints the link); without Tailscale the script still brings the unit up on
 loopback and exits 0, to be re-run later. The `WOTR MCP` connector in Claude
 Desktop on this machine still runs over stdio with every tool, unaffected.
 
-## The book pipeline, without n8n
+## The book pipeline
 
 `book/design/BOOK_PIPELINE.md` is the full design (ten check passes, book memory, the round cap; its n8n transport needs an API key that does not exist).
 Until an API key exists it runs inside Claude Code instead, on the
@@ -340,12 +338,12 @@ up to three revise rounds with monotone acceptance → a gate digest for Isaac.
 Nothing is archived by the workflow; on approval, `archive_scene` files the
 chapter as a scene. Book state lives in `book/<slug>/` (`outline.json`,
 `bible.md`, `state.json`, one folder per chapter with every round's draft and
-findings). `build/book_tools.py` is the MCP's read-only tool set as a command
+findings). `wotr-mcp tool` is the MCP's read-only tool set as a command
 line for the workflow's agents. Unattended, `build/book_dispatch.sh` (the
 `wotr-book.timer`, 02:00; log `build/book_dispatch.log`) writes one chapter a
-night through the same workflow: `build/book_next.py` decides, headless Claude
+night through the same workflow: `wotr-mcp book-next` decides, headless Claude
 Code runs it under a 5 h `timeout`, the chapter is committed under `book/`.
-A written, undecided gate chapter blocks it (`python build/book_next.py
+A written, undecided gate chapter blocks it (`rust/target/release/wotr-mcp book-next
 --approve N` / `--reject N --note "..."`); `WOTR_BOOK_OFF=1` in the env file
 turns it off; `--dry-run` says what it would do. Its sibling
 `build/nightly.sh` (`wotr-nightly.timer`, 03:30; log `build/nightly.log`) runs

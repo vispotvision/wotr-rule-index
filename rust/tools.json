@@ -1768,8 +1768,7 @@
   "wotr-book",
   "wotr-chatgpt",
   "wotr-ledger",
-  "wotr-ops",
-  "wotr-room"
+  "wotr-ops"
  ],
  "skill_note": "(Served by the WOTR MCP. Where this names a repo path, a shell command or Claude Code, use the matching WOTR MCP tool; a file under references/ loads with skill(name, file).)\n\n"
 }

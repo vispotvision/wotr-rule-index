@@ -105,7 +105,7 @@ fn py_json_indent(v: &Value) -> String {
     serde_json::to_string_pretty(v).unwrap()
 }
 
-fn save(kind: &str, rows: &[Value]) {
+pub(crate) fn save(kind: &str, rows: &[Value]) {
     let dir = root("table");
     let _ = std::fs::create_dir_all(&dir);
     let _ = std::fs::write(dir.join(format!("{kind}.yaml")), crate::pyyaml::dump(&Value::Array(rows.to_vec())));
@@ -438,7 +438,7 @@ fn npc_set_row(name: &str, thread: &str, fields: Vec<(String, Value)>) -> R<Valu
 }
 
 /// table._terms
-fn terms(r: &Value) -> R<Vec<String>> {
+pub(crate) fn terms(r: &Value) -> R<Vec<String>> {
     let mut out = Vec::new();
     if t(r.get("thread")) {
         out.push(s(r.get("thread")));
@@ -553,7 +553,7 @@ fn render() -> R<()> {
     Ok(())
 }
 
-fn table_commit(msg: &str) -> R<String> {
+pub(crate) fn table_commit(msg: &str) -> R<String> {
     render()?;
     git(&["add", "--", "table"]);
     git(&["commit", "-q", "-m", &format!("{msg}\n\nRecorded from the table via WOTR MCP."), "--", "table"]); // only table/, never what another session staged
@@ -958,7 +958,7 @@ pub fn propose_rule(title: &str, rule_text: &str, applies_to: &[String], rationa
 }
 
 // ---------------------------------------------------------------- character cards
-fn manifest() -> Map<String, Value> {
+pub(crate) fn manifest() -> Map<String, Value> {
     serde_json::from_str(&read_lossy(&root("wiki/.manifest.json"))).unwrap_or_default()
 }
 

@@ -62,3 +62,4 @@ build/mcp_readonly.log
 
 # the Rust MCP's build output (cargo build --release in rust/)
 rust/target/
+rust/site/target/

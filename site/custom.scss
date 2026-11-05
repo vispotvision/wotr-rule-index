@@ -133,7 +133,7 @@ article img {
 }
 
 // ---------------------------------------------------------------- page art
-// Every page opens on a plate (site_art.plate); section front pages on a painted banner.
+// Every page opens on a plate (rust/site/src/art.rs); section front pages on a painted banner.
 
 .center:has(.wotr-plate, .wotr-banner) .article-title {
   display: none;
@@ -369,7 +369,7 @@ article > .wotr-plate + blockquote + p::first-letter {
 
 a.wotr-diagram-link { border-bottom: none !important; }
 
-// ---------------------------------------------------------------- charts (build/site_charts.py)
+// ---------------------------------------------------------------- charts (rust/site/src/charts.rs)
 .wotr-chart-wrap {
   margin: 1.8rem 0 2.2rem;
   overflow-x: auto;

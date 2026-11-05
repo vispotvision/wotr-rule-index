@@ -58,7 +58,7 @@ pub fn rank(root_dir: &Path, query: &str, limit: usize) -> Vec<(i64, PathBuf, St
 }
 
 /// _snippets: up to n windows of `width` chars around the query's terms.
-fn snippets(text: &str, query: &str, n: usize, width: usize) -> Vec<String> {
+pub(crate) fn snippets(text: &str, query: &str, n: usize, width: usize) -> Vec<String> {
     let mut out = Vec::new();
     for t in terms(query) {
         let Ok(r) = Regex::new(&format!("(?i){}", fancy_regex::escape(&t))) else { continue };

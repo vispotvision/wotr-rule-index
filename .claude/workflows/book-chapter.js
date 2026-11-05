@@ -1,7 +1,7 @@
 export const meta = {
   name: 'book-chapter',
   description: 'One chapter of a War of the Realms book, Claude Code as the orchestrator: foundation (once), brief, draft, checks, bounded revise, then the digest for Isaac (nothing is archived here)',
-  whenToUse: 'Writing a book chapter through the checked loop from book/design/BOOK_PIPELINE.md without n8n; args {slug, thread, front_thread, culture, chapter, do_foundation, premise, target_chapters, target_words, repo?}',
+  whenToUse: 'Writing a book chapter through the checked loop from book/design/BOOK_PIPELINE.md; args {slug, thread, front_thread, culture, chapter, do_foundation, premise, target_chapters, target_words, repo?}',
   phases: [{ title: 'Foundation' }, { title: 'Brief' }, { title: 'Draft' }, { title: 'Check' }, { title: 'Revise' }, { title: 'Digest' }],
 }
 // ------------------------------------------------------------------ setup
@@ -11,7 +11,7 @@ const REPO = A.repo || '/home/oridon/wotr-rule-index'
 const BOOK = `${REPO}/book/${A.slug}`
 const CH = String(A.chapter).padStart(2, '0')
 const DIR = `${BOOK}/ch${CH}`
-const T = `python build/book_tools.py`   // run from ${REPO}
+const T = `rust/target/release/wotr-mcp tool`   // run from ${REPO}
 const FINDINGS = { type: 'object', properties: { findings: { type: 'array', items: { type: 'object', properties: {
   severity: { type: 'string', enum: ['FAIL', 'WARN'] }, pass: { type: 'string' }, quote: { type: 'string' },
   problem: { type: 'string' }, evidence: { type: 'string' }, fix: { type: 'string' } }, required: ['severity', 'pass', 'quote', 'problem'] } } }, required: ['findings'] }
@@ -63,7 +63,7 @@ const critics = [
 ]
 const check = async (r, which) => {
   const det = await agent(`Deterministic checks on ${DIR}/draft_r${r}.md. ${STANDING}
-Run: python build/verify.py ${DIR}/draft_r${r}.md --band set-piece --culture ${A.culture} --echoes${COMBAT ? ' --combat' : ''} (its word-echo lines are WARN, pass echoes); ${COMBAT ? `${T} gap_fill ${DIR}/draft_r${r}.md (WARN only — its regexes count ordinary words); ` : ''}word count against the target ${A.target_words} (information only, never a FAIL or WARN: report it in your reply, not as a finding); each hook the beat must pay must contain its keywords (FAIL if not). Write the findings as JSON to ${DIR}/det_r${r}.json in the schema {findings:[{severity,pass,quote,problem,evidence,fix}]} where quote is a verbatim substring of the draft (for a count-based finding quote the first line of the draft) and pass is tell_scan | shape | combat_floor | echoes | hooks. Return the counts and the FAILs.`, { phase: 'Check', label: `det:ch${CH}:r${r}`, effort: 'low' })
+Run: rust/target/release/wotr-mcp verify ${DIR}/draft_r${r}.md --band set-piece --culture ${A.culture} --echoes${COMBAT ? ' --combat' : ''} (its word-echo lines are WARN, pass echoes); ${COMBAT ? `${T} gap_fill ${DIR}/draft_r${r}.md (WARN only — its regexes count ordinary words); ` : ''}word count against the target ${A.target_words} (information only, never a FAIL or WARN: report it in your reply, not as a finding); each hook the beat must pay must contain its keywords (FAIL if not). Write the findings as JSON to ${DIR}/det_r${r}.json in the schema {findings:[{severity,pass,quote,problem,evidence,fix}]} where quote is a verbatim substring of the draft (for a count-based finding quote the first line of the draft) and pass is tell_scan | shape | combat_floor | echoes | hooks. Return the counts and the FAILs.`, { phase: 'Check', label: `det:ch${CH}:r${r}`, effort: 'low' })
   const model = await parallel(critics.filter(c => which.includes(c.key)).map(c => () => agent(`Critic, one job, edit nothing. ${STANDING}
 Read ${DIR}/brief.md and ${DIR}/draft_r${r}.md and ${DIR}/notes_r${r}.md. ${c.prompt}
 Rules of evidence: every finding quotes the draft verbatim (a substring, 5–40 words) and, where a source exists, quotes the source; a finding you cannot quote is not a finding. FAIL = a contradiction, a broken rule, a missing beat event, a knowledge leak; WARN = a doubt, an unattested thing, a weakness. Report nothing about prose quality unless the pass is rules. Return {findings:[]} — empty is a valid answer.`, { phase: 'Check', label: `critic:${c.key}:r${r}`, model: 'sonnet', schema: FINDINGS })))

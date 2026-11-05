@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "\"$HOME/.venvs/wotr/bin/python\" \"$CLAUDE_PROJECT_DIR/build/natalie_hook.py\"",
+            "command": "WOTR_ROOT=\"$CLAUDE_PROJECT_DIR\" \"$HOME/wotr-rule-index/rust/target/release/wotr-mcp\" hook",
             "timeout": 60
           }
         ]
@@ -16,7 +16,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "\"$HOME/.venvs/wotr/bin/python\" \"$CLAUDE_PROJECT_DIR/build/natalie_hook.py\"",
+            "command": "WOTR_ROOT=\"$CLAUDE_PROJECT_DIR\" \"$HOME/wotr-rule-index/rust/target/release/wotr-mcp\" hook",
             "timeout": 30
           }
         ]

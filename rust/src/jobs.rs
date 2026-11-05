@@ -199,6 +199,30 @@ fn job_state(j: &Value) -> Result<&'static str, String> {
     })
 }
 
+/// A job's state by id, as the bot polls it.
+pub(crate) fn job_state_by_id(id: &str) -> String {
+    jobs().iter().find(|j| s(j.get("id")) == id).map_or("unknown".to_string(), |j| job_state(j).unwrap_or("unknown").to_string())
+}
+
+/// The file a job wrote, read from its log's summary line.
+pub(crate) fn job_output(id: &str) -> Option<PathBuf> {
+    let jobs = jobs();
+    let j = jobs.iter().find(|j| s(j.get("id")) == id)?;
+    let text = read_lossy(Path::new(&s(j.get("log"))));
+    let name = rx!(r"(?m)^\s+(\S+\.(?:mp3|wav)): [\d,]+ words").captures(tail(&text, 6000)).ok()??.get(1)?.as_str().to_string();
+    fn find(dir: &Path, name: &str) -> Option<PathBuf> {
+        for e in std::fs::read_dir(dir).ok()?.flatten() {
+            let p = e.path();
+            let hit = if p.is_dir() { find(&p, name) } else { (e.file_name().to_string_lossy() == name).then(|| p.clone()) };
+            if hit.is_some() {
+                return hit;
+            }
+        }
+        None
+    }
+    find(&audio_dir(), &name)
+}
+
 fn audio_url(path: &Path, public: Public) -> String {
     let rel = util::rel_posix(path, &audio_dir());
     match public.filter(|(b, t)| !b.is_empty() && !t.is_empty()) {

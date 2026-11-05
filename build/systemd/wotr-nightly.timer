@@ -4,7 +4,7 @@
 #
 #   systemctl --user list-timers wotr-nightly.timer
 #   systemctl --user start wotr-nightly.service        # a run now
-#   systemctl --user disable --now wotr-nightly.timer  # when n8n owns the nightly
+#   systemctl --user disable --now wotr-nightly.timer
 
 [Unit]
 Description=WOTR nightly, daily at 03:30

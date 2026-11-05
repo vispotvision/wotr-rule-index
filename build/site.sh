@@ -6,7 +6,8 @@ Q="${QUARTZ_DIR:-$HOME/.cache/wotr-quartz}"
 [ -d "$Q" ] || { git clone https://github.com/jackyzha0/quartz.git "$Q" && git -C "$Q" checkout 97a2d05; }
 cp "$ROOT/site/quartz.config.yaml" "$Q/quartz.config.yaml"
 cp "$ROOT/site/custom.scss" "$Q/quartz/styles/custom.scss"
-python3 "$ROOT/build/site_content.py" "$Q/content"
+cargo build --release --manifest-path "$ROOT/rust/site/Cargo.toml"
+"$ROOT/rust/site/target/release/wotr-site" "$Q/content"
 cd "$Q"
 [ -d node_modules ] || npm ci
 npx quartz plugin install

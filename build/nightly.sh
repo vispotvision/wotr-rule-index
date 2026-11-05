@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# The nightly checks: build/nightly.py (validate, resolve, the reconcile audit, new
+# The nightly checks: wotr-mcp nightly (validate, resolve, the reconcile audit, new
 # archives, sync push health and the weekly backup, the diff against last night ->
 # reports/nightly.md; R79-12 dropped the recurrence report, the prose pass, the Büri
 # sweep and the ChatGPT review), then Claude Code on the
@@ -32,7 +32,7 @@ if [ "$code" -ne 0 ]; then wotr_log "pull --rebase failed (exit $code); running 
 unmerged="$(git diff --name-only --diff-filter=U 2>/dev/null | paste -sd ' ' -)"
 if [ -n "$unmerged" ]; then wotr_log "unmerged after the pull (the commit will be refused): $unmerged"; fi
 
-out="$("$WOTR_PYTHON" build/nightly.py 2>&1)"
+out="$(rust/target/release/wotr-mcp nightly 2>&1)"
 code=$?
 if [ -n "$out" ]; then
     while IFS= read -r ln; do wotr_log "  $ln"; done < <(printf '%s\n' "$out" | tail -n 2)
@@ -52,13 +52,11 @@ if [ -z "$no_claude" ] && [ -x "$WOTR_CLAUDE" ]; then
     # started are killed, the note stays unwritten, and the numbers below still commit.
     # The prompt goes in on stdin, never as an argument (the old shell stripped the
     # quotes out of a native exe's arguments, and the contract stayed).
-    # The "python" inside the Bash tool string is the venv's: env.sh put its bin/ first
-    # on PATH, so the headless claude's `python build/book_tools.py` is $WOTR_PYTHON.
     # No MCP servers: the note needs only the three tools above, and the repo's .mcp.json
-    # would otherwise start the wotr server (45 tools, unapproved) on every run.
+    # would otherwise start the wotr server (every tool, unapproved) on every run.
     res="$(timeout 2h "$WOTR_CLAUDE" -p --max-turns 40 \
         --strict-mcp-config --mcp-config '{"mcpServers":{}}' \
-        --allowedTools "Read" "Edit(reports/nightly.md)" "Bash(python build/book_tools.py:*)" \
+        --allowedTools "Read" "Edit(reports/nightly.md)" "Bash(rust/target/release/wotr-mcp tool:*)" \
         < build/nightly_prompt.md 2>&1)"
     code=$?
     if [ "$code" -eq 124 ]; then wotr_log "  claude: killed at the 2 h limit"; fi

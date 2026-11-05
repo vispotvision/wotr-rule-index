@@ -1,6 +1,6 @@
 ---
 name: wotr-write
-description: "Writing War of the Realms (WOTR) in Claude Code: a table turn played back and forth, a set piece, an explicit scene, a working or fight on the page, a technique or Trait, a character sheet or card, a conversion of old material, or a name. Use whenever Isaac gives a beat, a spark, a rough ability, a fight or a character, asks 'what does X cost' or 'how does X work', or wants to play ('let's RP', 'play X', 'be Y', 'I walk in', an action in first person or asterisks), even without the word scene or sheet. Loads the live rules through the wotr MCP (mcp__wotr__*) or build/book_tools.py, drafts to a file, runs verify_scene, and keeps the table current quietly when a scene ends. Sits on desktop/NATALIE.md; does not replace it."
+description: "Writing War of the Realms (WOTR) in Claude Code: a table turn played back and forth, a set piece, an explicit scene, a working or fight on the page, a technique or Trait, a character sheet or card, a conversion of old material, or a name. Use whenever Isaac gives a beat, a spark, a rough ability, a fight or a character, asks 'what does X cost' or 'how does X work', or wants to play ('let's RP', 'play X', 'be Y', 'I walk in', an action in first person or asterisks), even without the word scene or sheet. Loads the live rules through the wotr MCP (mcp__wotr__*) or rust/target/release/wotr-mcp call, drafts to a file, runs verify_scene, and keeps the table current quietly when a scene ends. Sits on desktop/NATALIE.md; does not replace it."
 ---
 
 # wotr-write
@@ -132,7 +132,7 @@ pipeline in `references/scene-pipeline.md`.
 3. **Draft** to `/tmp/wotr-drafts/<slug>.md` (`scenes/` is the archive and
    only `archive_scene` or `session_end` writes there).
 4. **Verify.** `verify_scene(markdown, combat)`, or
-   `~/.venvs/wotr/bin/python build/verify.py /tmp/wotr-drafts/<slug>.md
+   `rust/target/release/wotr-mcp verify /tmp/wotr-drafts/<slug>.md
    --combat --culture <Culture>`. Fix every FAIL; a set piece may take a
    second pass. Then the reading pass in `references/prose-law-quickcheck.md`.
    The gap-fill pass runs for set pieces and fights he submitted, unlogged

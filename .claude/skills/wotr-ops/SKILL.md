@@ -32,7 +32,9 @@ degrades output — that is not a hypothetical, it is what happened to
 `desktop/PROJECT_INSTRUCTIONS.md`, which grew a condensed duplicate of NATALIE.md's
 prose law until the standing prompt was a quarter of what the model was handed.
 
-**The interpreter is not the one on PATH.** Use `bash build/py.sh build/<tool>.py …`
+**The tools run from the Rust binary:** `rust/target/release/wotr-mcp verify <draft>.md`, and any tool with `rust/target/release/wotr-mcp call TOOL '{json args}'`.
+
+**For the Python not yet ported, the interpreter is not the one on PATH.** Use `bash build/py.sh build/<tool>.py …`
 — it sources `build/env.sh` and execs `$WOTR_PYTHON`. Bare `python build/query.py`
 prints a missing-pyyaml error; never act on that message.
 
@@ -44,7 +46,7 @@ return. The split is not guessable from the names, and there is no dry run.
 **Derive the list, never carry one:**
 
 ```bash
-grep -n -A 30 'READ_ONLY_TOOLS = {' build/mcp_server.py
+sed -n '/"read_only": \[/,/\]/p' rust/tools.json
 ```
 
 A tool not named in that set commits and pushes; several also write the wiki vault
@@ -61,7 +63,7 @@ Three named traps:
 
 - **`archive_scene` does not verify.** It slugs, writes, mirrors into the wiki's
   Scene Archive, commits and pushes, and calls no checker. Get zero FAIL *before* the call:
-  `bash build/py.sh build/verify.py <draft>.md --combat --culture <culture>`.
+  `rust/target/release/wotr-mcp verify <draft>.md --combat --culture <culture>`.
   A WARN is a read; a FAIL is a stop. If a FAIL is wrong, that is a `CONFLICTS.md`
   row or a ruling for Isaac — fix the data, not the checker.
 - **`archive_scene` on an existing slug does not refuse.** It writes

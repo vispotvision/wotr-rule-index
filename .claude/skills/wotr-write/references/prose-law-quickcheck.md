@@ -1,6 +1,6 @@
 # Prose law quick check
 
-`verify_scene` or `build/verify.py` is the authority; every finding carries a
+`verify_scene` or `wotr-mcp verify` is the authority; every finding carries a
 rule id or a Table Rule number. One verify_scene a turn: fix every FAIL, read
 the WARNs, do not loop (R79-2). The grep list below is a spot check when both
 are down or a finding needs locating. The reading pass is for set pieces; a

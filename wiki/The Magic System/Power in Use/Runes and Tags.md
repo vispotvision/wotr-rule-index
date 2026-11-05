@@ -14,7 +14,7 @@ The door is in the Guild's strongroom at Altherion and is still warm, and for a 
 
 ## What it is
 
-The cutting (a working written in Parun, the glyph grammar of all magic, into a substance so that it holds without its maker) is a skill anyone with a woken Crystal can level and a trade its guilds rank above every other, loudly, and it is what a fighter carries most. It reaches the field in four forms, from the common to the very rare.
+The cutting (a working written in Parun, the root script of law, into a substance so that it holds without its maker) is a skill anyone with a woken Crystal can level and a trade its guilds rank above every other, loudly, and it is what a fighter carries most. A cut sentence sets a limit on what a Wellspring is doing, at the layer of the soul the cutter's Essence leaves through: a Body cutter's ward stops the bottle, a Spirit cutter's is taken for a wall, and a Fate cutter's sets a term on the cutter's own share of fate. [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|The Glyph Index]] works one sentence through all three. Whichever it is, a cut reads its maker's Essence Class, and even a hand on the bottom rung can do small stamped work. It reaches the field in four forms, from the common to the very rare.
 
 | Form | What it is | How common |
 |---|---|---|
@@ -29,15 +29,15 @@ The cutting (a working written in Parun, the glyph grammar of all magic, into a 
 
 **How a piece is rated.** Everything cut carries two ratings: a Grade for power, on the fighters' letters, and a Rarity for scarcity, Common up through Mythic and Unique. A cutter's guild title caps the Grade she may lawfully cut, and a merchant's caps the Rarity he may sell. The Accord's old stamps (Marked, Proofed, Tempered and so on up) still go on the steel beside the maker's mark. Gear stays what it was made; only a bonded weapon grows. An Appraisal skill and an assay instrument read a piece, and a good forger beats a weak appraiser every market day of the year.
 
-**Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a torch. The user presses it to a surface or slaps it onto a body and pushes Essence (their own power) into it with the thumb; it flares in the user's color, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
+**Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a torch. The user presses it to a surface or slaps it onto a body and pushes Essence (spiritual energy, their own power) into it with the thumb; it flares in the user's color, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
 
 | Fuel | How it works | Its weakness |
 |---|---|---|
-| **Ambient** | Drinks the Aether (the world's medium of power) of the place it is set. Cheap and quiet to carry | Dies on thin, salted or bled ground (Aether-poor by nature, worked against pooling, or pulled empty), beside a Core (a Wellspring site, in common speech) whose keepers have closed it, or in Silence (a region where magic cannot be worked) |
+| **Ambient** | Drinks the Aether (mana, the world's medium of power) of the place it is set. Cheap and quiet to carry | Dies on thin, salted or bled ground (Aether-poor by nature, worked against pooling, or pulled empty), beside a Core (a Wellspring site, in common speech) whose keepers have closed it, or in Silence (a region where magic cannot be worked) |
 | **The user's reserve** | Takes its force from the one who sets it off. The stronger the user, the stronger the tag | Costs the user, mid-fight |
 | **The maker's charge** | Carries Essence the maker stored in it. Works anywhere short of a Silence, at the maker's strength | Dear, and goes stale, as an enhanced bolt does |
 
-Only practitioners can use a tag. The working waits for a woken Crystal (the Soul Crystal, the soul itself, opened and taught) to close it, and a sealed Crystal cannot. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under a hall's mark, make them, and a black market sells unstamped ones beside every hall.
+Only practitioners can use a tag. The working waits for a woken Crystal (the Soul Crystal, the soul itself, opened and taught) to close it, and a sealed Crystal cannot: the Authorization is read at the firing, off the soul behind the thumb, and a sealed one has no harmonization to show. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under a hall's mark, make them, and a black market sells unstamped ones beside every hall.
 
 **Bonded weapons.** A practitioner who carries one weapon through years of hard fighting leaves their Essence in it the way a hand leaves a shine on a hilt. In time the weapon answers them: it takes their color when they reinforce, and when they release (let their Trait loose in its learned form), it carries part of the release. A blade may burn with its owner's heat, a staff hold the edge of their field. The weapon grows as its owner grows, the one kind of gear that does, and its part of the release is written on the owner's card.
 
@@ -55,7 +55,7 @@ Only practitioners can use a tag. The working waits for a woken Crystal (the Sou
 | **Black-market tags** | About half the stamped price | No mark, no guarantee, and sometimes a bad seal |
 | **A great piece** | Not sold | Inherited, won, looted or given by a crown |
 
-**Time and the cut.** A tag takes a cutter an hour or a day; a ward on a wall, a season. A bad cut misfires every time it is used, and a bad seal makes a working that does not stop: the most dangerous thing on any black-market tag.
+**Time and the cut.** A tag takes a cutter an hour or a day; a ward on a wall, a season. A bad cut misfires every time it is used, and a bad seal makes a working that does not stop: the most dangerous thing on any black-market tag. A strip missing its seal altogether does nothing at all, and it is the seal cut wrong that lights Tanner's Row for thirteen days. Duration comes from three places: the seal sets the term, the paper or the stone caps it, and the anchoring laid down as the sentence closes holds it. A working left unsealed has nothing holding it and nothing stopping it, so it drinks the Aether of the place until the place runs out or someone cuts across the line.
 
 **Bonding.** Years of the same weapon in the hand, and the loss of part of a release if it is broken or taken.
 

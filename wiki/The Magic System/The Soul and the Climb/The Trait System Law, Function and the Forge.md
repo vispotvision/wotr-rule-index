@@ -15,7 +15,7 @@ On the Marrowhold rim the neighbors paid Ibbet Lowe double for her washing, year
 
 The blood came out of Ser Gervase Breck. It came through his skin and through his mail, all of it, in one fine red sheet, and it ran away down Tub Lane to the gutter while the surcoat stayed perfectly white. The man inside had time to look surprised. The street's odds-man, who had been giving eight to one against the rent being late again, paid out on the spot and retired.
 
-She lived twenty-two more years and it charged her in its own coin. Nothing stayed on her. A bruise went in an hour and ink in a day, and in her last winters the faces of the people she loved went the same way, until she was calling her daughter "miss" and thanking her for the custom. The Measurewrights have spent eighty years arguing which Family owns that law, Fluxia's solvents or Materia's surfaces, and the laundresses of the rim, who consider the matter closed, light a candle to her every wash day.
+She lived twenty-two more years and it charged her in its own coin. Nothing stayed on her. A bruise went in an hour and ink in a day, and in her last winters the faces of the people she loved went the same way, until she was calling her daughter "miss" and thanking her for the custom. The Measurewrights have spent eighty years arguing which Wellspring owns that law, Dissolution's solvents or Basilithe's surfaces, and the laundresses of the rim, who consider the matter closed, light a candle to her every wash day.
 
 Forty-one years of clean linen and one afternoon on Tub Lane were the same law at two amplitudes, which is the whole subject of this page.
 
@@ -41,7 +41,7 @@ A Trait is survived into existence, never taught, and a course of Essence Drafts
 
 **A Trait belongs to the soul. An open Soul Crystal only arms it.**
 
-The Soul Crystal is the soul, sealed or open, and opening it makes a Trait legible, dangerous and expensive. The material of the soul makes it at all. A Trait is woven into the fiber of a person's original Essence, present in the material of the soul before the Crystal ever opens, and it persists in Class Ø bearers whose Crystal is sealed and almost always stays sealed their whole lives; a rare few are woken by crisis, a master's forcing or a tribulation, at great cost, and a Waking Draft or a blessing can do it for those who can get one. See [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate]].
+The Soul Crystal is the soul, sealed or open, and opening it makes a Trait legible, dangerous and expensive. The material of the soul makes it at all. A Trait is woven into the fiber of a person's original Essence, present in the material of the soul before the Crystal ever opens, and it persists in unwoken bearers whose Crystal is sealed and almost always stays sealed their whole lives; a rare few are woken by crisis, a master's forcing or a tribulation, at great cost, and a Waking Draft or a blessing can do it for those who can get one. See [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate]].
 
 This has three consequences worth stating plainly.
 
@@ -55,7 +55,7 @@ Third, awakening itself grants a person no new Traits: it reveals and arms the o
 
 ## IV. The Weathering
 
-Class Ø souls also refine under strain. The process is real, it is lifelong, and it is not Temperance.
+Unwoken souls also refine under strain. The process is real, it is lifelong, and it is not Temperance.
 
 Temperance is a melt and a recasting. The Crystal loses its shape entirely and reforms around whatever held true through the heat. **The Weathering** is the same pressure applied without the melt. The soul stays solid and hardens in place, along the direction it was already being used, the way a beam takes a permanent set under load or a hand takes a callus exactly where the tool sits. The trade word is borrowed from the joiners, the same word the halls use for a Crystal's seat, and the borrowing is deliberate.
 
@@ -125,7 +125,7 @@ When a Threshold triggers and the Crystal melts, something must survive the heat
 A melt with strong, coherent, well-aligned Trait seeds cools into a dense, deliberate, high-Clarity (refinement of the Essence held) lattice. A melt with few seeds, or with seeds that contradict one another, cools without organization. This is why two practitioners with identical training, identical Wellspring access and identical strain histories come out of the same Threshold at wildly different quality. The strain got them to the melt. The Traits decided what the melt produced.
 > **Nucleation is a Wellspring law, no analogy about it, and it has been in the register the whole time.**
 >
-> **Coagulatio**, the Returning Stone, is Materia's crystallization from supersaturated solution: ordered solid deposited out of apparent nothing the instant a site appears, with **uncontrolled nucleation** as its stated failure, producing a fine disordered mass rather than a sound crystal. That is a Threshold described in the vocabulary of a different discipline by people who were not thinking about souls.
+> **Coagulatio**, the Returning Stone, is crystallization from supersaturated solution: ordered solid deposited out of apparent nothing the instant a site appears, with **uncontrolled nucleation** as its stated failure, producing a fine disordered mass rather than a sound crystal. That is a Threshold described in the vocabulary of a different discipline by people who were not thinking about souls.
 >
 > *Which gives Coagulatio harmonization a mechanical relationship to its bearer's own advancement that no other Wellspring has, and gives the Crystalia trade its oldest unresolved argument: whether a practitioner who works the law of nucleation can work it on themselves.* **Nobody has published a result. Several have stopped answering letters.**
 **Four. Ceiling.** Tempering Ceiling is largely an expression of Trait architecture. How far a soul can go is a question about how much structure it has that can survive being unmade repeatedly.
@@ -180,7 +180,7 @@ Old families are strange for structural reasons. Six generations of purchased se
 
 ## XII. What the Institutions Do With This
 
-The Accord screens for Crystals that have stirred and reports the result as a screening for Traits, because the two produce nearly the same list at the top and wildly different lists at the bottom. Every screening season produces a quantity of false negatives: Class Ø souls carrying strong Traits, filed as commons, hired as labor, occasionally lethal.
+The Accord screens for Crystals that have stirred and reports the result as a screening for Traits, because the two produce nearly the same list at the top and wildly different lists at the bottom. Every screening season produces a quantity of false negatives: unwoken souls carrying strong Traits, filed as commons, hired as labor, occasionally lethal.
 
 Great houses screen differently and earlier. A house physician reads infants for Inherited marks inside the first month, and the family knows by the child's first winter roughly what it has bought. The reading is taken off the body, because the body is where the law shows.
 
@@ -190,4 +190,4 @@ Draft brokers sell nucleation and describe it as strength, and for a practitione
 
 The Weathering has no institution at all, which is the most telling fact about it. Nothing screens for grain, nothing certifies it, and nothing trades in it. A weathered soul produces no fee.
 
-*Read next: [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for the direction a soul's Traits turn out to point.*
+*Read next: [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for the direction a soul's Traits turn out to point; [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]] and [[The Magic System/The Soul and the Climb/Domains|Domains]], for the same idea at its second and third sizes.*

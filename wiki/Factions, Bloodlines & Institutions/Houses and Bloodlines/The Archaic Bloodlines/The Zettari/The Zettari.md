@@ -249,6 +249,17 @@ Ground a Zettari has claimed, sworn on or bled for recognizes them.
 * Matla Dominion workings cost less Load there, and reach a Register higher with less strain.
 * Recognition must be earned. Ground taken by tyranny can be held, but it never truly answers.
 
+### **[Trait] Wellspring Sovereignty — Authority over the Lens**
+
+A Wellspring is the lens a soul looks through, and its Aether has to pass through the Shell to become anything at all. The Zettari Shell is the densest in the Continuum, and Matla gives the lineage standing over whatever passes through physical channels. Together they let a trained Zettari reach the lens itself.
+
+* Through the Everlasting Eye, a Zettari sees which Wellspring a person is drawing on, where its Aether enters their Shell, and roughly how old the lens is.
+* From Stage VIII, a Zettari who holds the Essence or Dominion Practice can learn the Spring Arts (Section VII): shut off a person's Wellspring use, for a time or for good, seize the Aether they were drawing, and in time turn their own native Wellspring.
+* Foreign Aether passes through a Zettari Shell more cleanly than through almost any other, so a seized Wellspring often lands harder in Zettari hands than in its owner's.
+* Every Spring Art pays under the Law of Weight. A lens is a law, and laws are heavy.
+
+*Other lineages fight the fire. A Zettari reaches for the hand that lit it, and closes it.*
+
 ## **III. The Everlasting Ocular Inheritance**
 
 The Zettari eye ascends through three canonical states: **Everlasting Eye → True Everlasting Eye → Origin Eye.** None of the steps is guaranteed. Many bearers live their whole lives at the first. A very small share reach the second. The third is not the next rung of training at all; it is the rarest expression of the inheritance and follows no reliable hereditary pattern.
@@ -409,6 +420,9 @@ Strongest affinity: Wellsprings of Matter, stabilization, force, structure, tran
 
 Compatibility does not decide the Practice. It decides how easily the mechanism can carry it.
 
+A Zettari's native Wellspring is not fixed for life. From Stage IX, **Kubadili Chemchemi** (Section VII) lets a Zettari turn their soul's lens to another Wellspring, at a heavy price.
+
+
 ## **V. Cultural & Spiritual Lattice**
 
 **Language.** Zettari ceremonial speech grew from Kusharan cadence, sovereign syntax, Path-born legal language, oath structure and martial brevity. It gives special weight to ground, body, witness, blood, Name, burden, consequence, continuity, and what remains after destruction. A serious oath names not only its intent but its witness, its object, its cost and the consequence of failing it.
@@ -530,6 +544,40 @@ A defensive system in which the trained body answers before conscious delay can 
 | **Kumi-na-Mbili Seal** | Twelvefold Stillness | Twelve sequences, one hundred and forty-four strikes on joints, Aether routes, movement initiators, Essence junctions and pressure points. Its aim is enforced stillness, not death |
 | **Dawam Soul-Still Art** | — | Heavily restricted. Interferes with recovery, Soul recognition, Fate continuity, regeneration and adaptive circulation. Because it can sever recovery from identity, ethical use is limited to beings whose regeneration makes ordinary containment impossible |
 | **Uzito wa Mwisho** | The Final Weight | A royal finishing art. The Zettari strikes while still carrying the Load of their last Matla working, and the Law of Weight passes that Load into the target instead of the ground. Only the Load actually borne can be given; a bearer who tries to give more than they carried breaks first |
+
+### **Sanaa za Chemchemi — The Spring Arts**
+
+Taught only to royal and high-blood Zettari from Stage VIII who hold the Essence Practice (Material Energetics) or the Dominion Practice (Material Jurisdiction), and who have at least the Everlasting Eye. The three arts build on one another: a spring must be shut off before it can be seized, and seized many times before it can become your own.
+
+#### **Kuzima Chemchemi — Shutting Off the Spring**
+
+A contact art, usually landed through Kiganja cha Kuvunja or the Nuruq Point-Seal. The Zettari strikes the junction where the target's Wellspring Aether enters their Shell and switches it off. Their Shell stops answering that Wellspring at all. The lens goes dark: the target's Wellspring techniques fail, and anything mid-cast collapses back into ordinary Essence. The bearer chooses, at the moment of the strike, whether the shut-off is **temporary** or **permanent**.
+
+* **One Wellspring per strike.** A target with several harmonizations needs several strikes.
+* **Temporary.** Lasts as long as the bearer chooses, up to a limit set by the Stage gap and their Dominion: a few breaths against an equal, a whole fight against someone two Stages lower, days or weeks against the far weaker. The bearer carries the shut-off lens's weight the whole time, and can switch it back on at will.
+* **Permanent.** The junction is not held closed; it is broken for good, and the target never draws on that Wellspring again. It needs the True Everlasting Eye to see the full harmonization route, a target at or below the bearer's Stage, and a clean strike. The Load is paid all at once instead of over time: days of Essence starvation, and a new Zettari pattern recording what was taken. Only the Zettari who did it can restore it, or an Origin-Eye bearer's Baqaa.
+* **Counters.** A higher-Stage target throws off a temporary shut-off quickly and cannot be permanently shut off at all. Spirit Path souls, whose lens works through the Essence Core rather than the Shell, cannot be fully shut off through the Shell. Blessings, Domain law and Archon-scale authority sit above the art. A Wellspring the target was born harmonized to can be shut off temporarily, but only a Path-Acknowledged Sovereign can shut it off for good.
+
+#### **Kutwaa Chemchemi — Seizing the Spring**
+
+A shut-off spring's Aether is still in the air, still drawn toward the soul that called it. The Zettari reaches into that current and routes it through their own Shell instead.
+
+* The bearer can work the seized Wellspring for as long as the shut-off holds and its Aether is present; a permanently shut-off spring can be seized only once, for that fight.
+* **Better than its owner.** With the lineage's exceptional Lattice Conductivity and Continuum Retention, a seized Wellspring usually expresses more cleanly and more forcefully in Zettari hands than in the hands that called it. Against a bearer of a lower Aether Class, the difference is brutal.
+* **The lens without the years.** Raw output can exceed the original. The owner's lived depth (their quirks, their decades of mastery, their school's named techniques) does not come with it.
+* **The bill comes too.** A Wellspring charges in its own coin, and a seized one charges whoever is using it. Seize Pyreveil, and the heat still has to leave by your own hands.
+* **Limits.** One seized Wellspring at a time below Stage XI; two from Dissonance on. Springs of another kind cost more Essence. Dream-dominant, nameless and structureless springs are dangerous to seize: they give the Zettari Shell nothing to hold, and can leak into the bearer's own lens.
+
+#### **Kubadili Chemchemi — Turning the Spring**
+
+A rite, not a combat art. The Zettari changes the Wellspring their soul is tempered on: their native lens.
+
+* **Where and how.** At a Wellspring Core, on a Path pilgrimage, or at a Stone Witness site, across days of fasting, Essence Communion and the Breath of Kushara. It cannot be done in battle.
+* **When.** From Stage IX (Invocation), when Wellsprings begin to recognize the bearer instead of merely being drawn on.
+* **Which spring.** One the Zettari is already harmonized with, or one they have seized through Kutwaa Chemchemi often enough that their Shell knows its law.
+* **What carries over.** Hereditary bodily memory softens the turn. A Zettari keeps up to half the old lens's earned maturity if the new Wellspring shares its kind, and about a quarter if it does not. The rest must be lived again.
+* **The cost.** The old law is pulled out of Shell, Core and Attraction Layer at once, and the Load lands on the body: weeks of weakness, a new Zettari pattern marking the turning, and an Ink Rite to recognize it.
+* **Once per Stage.** A Zettari who turns their spring too often becomes no one's lens, and every Wellspring treats them as a stranger.
 
 ## **VIII. How the Inheritance Fits Together**
 

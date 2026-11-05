@@ -8,7 +8,7 @@ Mother Hester Bluett, who had made the largest fortune in Ambry out of a blue so
 
 She died on the fifth day with the bidding at nine hundred in silver, holding up one blue-stained finger for the next offer. All six parties sued. The Bench could find no delivery and no title in any of them, so the money went to her dyers, who got drunk in a color you could see from the hills. As for the goods, every ferryman on the Ambry crossing will tell you she went over wet and arguing the fare, and if you want to know what that means you will find, near the foot of this page, that nobody does.
 
-> Six named realms, six laws, and every one of them concerned with what happens to a soul rather than to a stone. Draconis, Edenis, Purganeth, Virelion, Etherea, Helströva.
+> Six named realms, six laws, and every one of them concerned with what happens to a soul rather than to a stone. Draconis, Edenis, Purganeth, Virelion, Etherea, Helströva. All six lie on the Soul Plane, inside [[Cosmology & Metaphysics/The Making of the World/The Veil|the Veil]] like everywhere else.
 
 ---
 
@@ -40,7 +40,7 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 
 ### The Titan-Keyed Art: *The Skyfire Pulse*
 
-*Offensive · Caloria · Ignivale · Thermodynamics · Zenith+ · [Wy] Motion + [Noq] Wind*
+*Offensive · Ignivale · Zenith+ · [Wy] Motion + [Noq] Wind*
 
 **Trigger**  A genuine exhale. The working cannot be cast while holding breath, and it refuses an external air source of any kind.
 
@@ -56,7 +56,7 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 
 **What nobody knows**  Why the working refuses a borrowed breath. A bellows matched to the caster's exact lung volume and driven by the caster's own hand produces nothing at all.
 
-*Codex: [Wy] Motion + [Noq] Wind / Ignivale / Caloria / Thermodynamics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Wy] Motion + [Noq] Wind / Ignivale / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -68,7 +68,7 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 
 **Domain**  Renewal, Growth, Resurrection, Organic Memory, Wellspring Harmony
 
-**Ground**  The Wellspring of Renewal, called Verdance and Memory Reclamation. Regenerates spent Essence into coherent harmonic states. It underlies reincarnation and bloodline Trait inheritance both.
+**Ground**  The Wellspring of Renewal, called Verdance and Memory Reclamation. Regenerates spent Essence into coherent harmonic states. It underlies what the faiths call reincarnation, which is pattern carried forward and never a person, and bloodline Trait inheritance both.
 
 ### Manifestation
 
@@ -76,7 +76,7 @@ An ever-shifting humanoid woven from vine, light and liquid crystal, her body a 
 
 ### The Load
 
-Restorative entropy, the rule that all destruction must yield renewal. Without her the death of a soul is permanent dispersal. She is the root stabilizer of Aether-to-Essence transference and the reason life is sustainable across eons rather than merely possible once. Her paradox is stated in the Edenis registers without embarrassment. What dies lives again, and what lives owes its death to her mercy.
+Restorative entropy, the rule that all destruction must yield renewal. Without her what a dead soul leaves disperses and feeds nothing. She is the root stabilizer of Aether-to-Essence transference and the reason life is sustainable across eons rather than merely possible once. Her paradox is stated in the Edenis registers without embarrassment. What dies lives again, and what lives owes its death to her mercy. The registers mean the forest and never the tree, as her own art's limit below makes plain: every death stays a death, and what comes back is the shape.
 
 ### The Record
 
@@ -88,7 +88,7 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 ### The Titan-Keyed Art: *The Green Chord*
 
-*Supplementary · Vitalia · Rebirthine · Biochemistry · Zenith+ · [Vael] Renewal + [Yn] Bloom*
+*Supplementary · Rebirthine · Zenith+ · [Vael] Renewal + [Yn] Bloom*
 
 **Trigger**  The dying practitioner's active, willing consent. The transfer cannot be forced, and a coerced consent registers as refusal.
 
@@ -104,7 +104,7 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 **What nobody knows**  Why some successors inherit the whole path and some inherit only the reflexes. The variable is not Stage, not kinship, not consent, and nobody has found a fourth candidate.
 
-*Codex: [Vael] Renewal + [Yn] Bloom / Rebirthine / Vitalia / Biochemistry / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Vael] Renewal + [Yn] Bloom / Rebirthine / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -136,7 +136,7 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 
 ### The Titan-Keyed Art: *The Mirrored Scale*
 
-*Defensive · Fulguria · Judicium · Electromagnetism · Zenith+ · [Ur] Balance + [Sel] Measure*
+*Defensive · Judicium · Zenith+ · [Ur] Balance + [Sel] Measure*
 
 **Trigger**  An actual signed, sworn or spoken commitment already in effect. The glyph mirrors real reciprocity and cannot invent an obligation where none was made.
 
@@ -152,7 +152,7 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 
 **What nobody knows**  Why an oath sworn in a language neither party speaks still mirrors, and one sworn insincerely in a shared tongue does not.
 
-*Codex: [Ur] Balance + [Sel] Measure / Judicium / Fulguria / Electromagnetism / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Ur] Balance + [Sel] Measure / Judicium / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -184,7 +184,7 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 ### The Titan-Keyed Art: *The Somnum Flow*
 
-*Supplementary · Limina · Oneirion · Abstract/Entropic Systems · Zenith+ · [Ka] Dream + [Vl] Veil*
+*Supplementary · Oneirion · Zenith+ · [Ka] Dream + [Vl] Veil*
 
 **Trigger**  The caster must first have witnessed the target's genuine unguarded self-image. A performed one will not serve, and the working can tell the difference even when the caster cannot.
 
@@ -200,7 +200,7 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 **What nobody knows**  Why the channel closes on its own when the caster falls asleep and stays open when the caster is knocked unconscious.
 
-*Codex: [Ka] Dream + [Vl] Veil / Oneirion / Limina / Abstract-Entropic Systems / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Ka] Dream + [Vl] Veil / Oneirion / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -210,7 +210,7 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 **Seat**  Prime Psychospiritual Titan of the Spiritual World, Etherea. Forged in the moment of first mortality as the cosmic countermeasure against spiritual decay.
 
-**Domain**  Soulstream, Passage, Memory Transition, Death and Rebirth
+**Domain**  Soulstream, Passage, Memory Transition, Death and what the temples call Rebirth
 
 **Ground**  The Wellspring of Etherea, called Continuance and Passage. A translucent river of light running through all planes, visible at the instant of death and in deep meditation and at no other time.
 
@@ -220,7 +220,7 @@ A tall spectral mariner wrapped in flowing gray bands resembling smoke and silk.
 
 ### The Load
 
-Continuity of consciousness across incarnations. He prevents Essence fragmenting past repair and ensures every echo eventually finds its home. He governs the passage of souls from corporeal death to reformation, Echo Containment against uncontrolled haunting and spiritual bleed, and Soul Reforging, the distillation of trauma into harmonic potential before rebirth. Without him, death becomes permanent entropy, the Wellsprings clog with unused Essence, and life stops recycling.
+Continuity of pattern across lives, which the temples call incarnation and the ferrymen let them. He prevents Essence fragmenting past repair and ensures every echo eventually finds its home. He governs the passage of what a death leaves into whatever takes it up next, Echo Containment against uncontrolled haunting and spiritual bleed, and Soul Reforging, the distillation of trauma into harmonic potential before the pattern goes on. It moves a pattern and it has never moved a person. Without him, what a death leaves turns to plain entropy, the Wellsprings clog with unused Essence, and life stops recycling.
 
 ### The Record
 
@@ -232,23 +232,23 @@ Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch.
 
 ### The Titan-Keyed Art: *The Ferryman's Current*
 
-*Supplementary · Fluxia · Somnalis · Fluid Dynamics · Zenith+ · [Au] Death + [Vor] Return*
+*Supplementary · Somnalis · Zenith+ · [Au] Death + [Vor] Return*
 
 **Trigger**  The exact moment of death. Not before and not after, and the window does not widen for skill.
 
-**Effect**  Rides the Ethereal Flow itself, carrying a soul between death and re-embodiment along Sylorin's own current instead of waiting for natural passage. The soul arrives at its next state with full continuity of self and none of the disorientation that unassisted drift produces.
+**Effect**  Rides the Ethereal Flow itself, carrying a departing Echo to whatever will take it up along Sylorin's own current instead of waiting for natural passage. The Echo arrives whole, with none of the fraying that unassisted drift produces, whether it comes to rest in a successor, a relic or the Pale Realms.
 
 **Measure**  Passage time drops from the natural hours-to-days window to under a minute.
 
-**Cost**  A soul moved that fast arrives with the full undiminished emotional charge of its own death still attached. The receiving body has to be ready to hold genuine trauma at the instant of arrival, and most are not.
+**Cost**  An Echo moved that fast arrives with the full undiminished emotional charge of its own death still attached. Whatever receives it has to be ready to hold genuine trauma at the instant of arrival, and most are not.
 
-**Limit**  It carries. It does not resurrect, and it cannot move a soul that has already begun to drift.
+**Limit**  It carries. It does not resurrect, the person is as dead as they were, and it cannot move an Echo that has already begun to drift.
 
-**Counter**  [Wy] Motion introduces turbulence into the current, which can strand or scatter the soul mid-passage. The Order of Still Waters classifies this as the worst outcome available in the entire register.
+**Counter**  [Wy] Motion introduces turbulence into the current, which can strand or scatter the Echo mid-passage. The Order of Still Waters classifies this as the worst outcome available in the entire register.
 
 **What nobody knows**  Why a soul carried on the current arrives dry and a soul that drifts arrives wet. Every ferryman in four quarters uses those two words and none of them can say what the words describe.
 
-*Codex: [Au] Death + [Vor] Return / Somnalis / Fluxia / Fluid Dynamics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Au] Death + [Vor] Return / Somnalis / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -280,7 +280,7 @@ Thalen, Form. Grants structure to shadow and body to fear. Iesara, Insight. Ensu
 
 ### The Titan-Keyed Art: *The Hollow That Watches*
 
-*Offensive · Limina · Tenebra · Abstract/Entropic Systems · Zenith+ · [Thal] Silence + [Ie] Perception*
+*Offensive · Tenebra · Zenith+ · [Thal] Silence + [Ie] Perception*
 
 **Trigger**  Total ambient silence, either already present or actively enforced before the glyph takes hold.
 
@@ -296,4 +296,4 @@ Thalen, Form. Grants structure to shadow and body to fear. Iesara, Insight. Ensu
 
 **What nobody knows**  Why the fear surfaced is never the fear the subject would have named. Not once, in the whole recorded history of the working.
 
-*Codex: [Thal] Silence + [Ie] Perception / Tenebra / Limina / Abstract-Entropic Systems / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Thal] Silence + [Ie] Perception / Tenebra / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

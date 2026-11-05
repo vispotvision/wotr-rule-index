@@ -47,9 +47,25 @@ A soul has three layers, and the [[The Magic System/The Soul and the Climb/Tier 
 
 Domains are grown, and then they are called. No technique stands in for one and no manual contains one. The soul comes to it by living, and what nobody has ever done is call a Domain the soul has not grown. Once it is there, the owner opens it on purpose, by name, as deliberately as throwing a punch and a good deal more expensively.
 
-**The Stage grants a Domain, and a Grade never does.** A ten-year veteran with a magnificent Dominion at Stage VI has a very heavy presence and no Domain. A Stage VIII with a modest one can have a small, bad, real Domain. Dominion and the Shell's clarity decide how wide it runs and how steady it stands. The Stage decides whether it can stand at all, and anyone at Stage VIII can have one, their own concept made real, with the fame, the rivals and the bounties that follow it around.
+**The Stage grants a Domain, and a Grade never does.** A ten-year veteran with a magnificent Dominion at Stage VI has a very heavy presence and no Domain. A Stage VIII with a modest one can have a small, bad, real Domain. Dominion and the clarity of the leading ladder decide how wide it runs and how steady it stands. The Stage decides whether it can stand at all, and anyone at Stage VIII can have one, their own concept made real, with the fame, the rivals and the bounties that follow it around.
 
 **A Domain is Fate's business, whoever holds it.** The claim is made by the Attraction Layer, a soul's own share of fate, so every Domain stands under the authority of the Plane of Fate, whichever [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] its owner came up by. A hitter at Stage VIII can have one as surely as anyone. What the Fate Path buys is more say inside it, and that is the whole of its advantage here.
+
+**Every Domain runs at Thread Ø and pulls no thread.** The claim comes out of the soul's own share, which every soul has, so a hitter who has never felt a thread can stake one. Holding it is another matter, and the upkeep reads the holder's leading ladder.
+
+### On Each Road
+
+The claim is the same everywhere, and what the field rules follows the road.
+
+| | Body | Spirit | Fate |
+|---|---|---|---|
+| **The field rules** | **Matter.** Weight, heat, the state of stone. Everyone can see it: the air goes forge-hot and the light turns orange | **Meanings.** What a thing is taken to be. The room looks unchanged, nobody's hair moves, and the blade in your hand has stopped being a blade | **Conditions.** What has to be so before anything can happen. The Long Sitting is one: no blow lands until its case is called |
+| **The upkeep reads** | Aether Class | Essence Class | Thread Class, or at Thread Ø the highest ladder the holder has |
+| **What holds it small** | **The Fate gates.** Radius, Sovereignty and Gravity stop at A-Grade without the Fate Path (Stages V and VI open them), so a Body holder's Domain is real, tight and easily out-held | The same gates, and a body that dies out of position while it holds | Reserve, since the gates stand open |
+| **What it adds to force** | The Body bonus as usual, and no more | The Spirit bonus at range, and no more | [[The Magic System/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven)|The Fate amplification]], which can pass a Body fighter's bonus outright inside the line |
+| **A fighter on two roads** | Field on the lead road, gates of the road behind a Stage late, all bonuses at three-quarters | The same | The same |
+
+So a hitter's Domain is a small hard yard, a line-writer's is a room where the words have changed, and a Fate holder's is a very large place where the conditions are somebody else's, and the last of those is the one the bookies refuse to price.
 
 Any concept will serve. The Archives hold a Domain of closing time, one of a toll bridge, one of a shut door, one in which the bell decides who may rest, and one that has never been described by anybody who agreed to go back.
 
@@ -114,7 +130,7 @@ A field meeting a field is the great spectator sport of the upper ladder. The bo
 1. **Stage first.** A field two or more Stages above the other simply overwrites it. Nobody fights for that ground, and the lower field goes out with its owner standing in it.
 2. **Otherwise Dominion holds the ground.** Between fields closer than that, the owner with the higher Sovereignty and Gravity holds the territory, and the weaker field erodes from its edge, costing its owner more with every yard.
 3. **A read can flip it.** Find what the field rests on, the owner's focus, its edge, or the thing they are guarding, press there, and the border moves back. Dame Hild Aske had the better Dominion. She also had a father.
-4. **The Wellsprings have a say.** Fields built from Wellsprings at odds grind each other down, and neighbors may lie easy together.
+4. **The Wellsprings have a say.** Fields built from contrary Wellsprings, which each entry in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] names, grind each other down, and neighbors may lie easy together.
 5. **At dead level, the truer one.** A Domain built from an honestly lived truth is denser than one built from adopted belief. Tempering Coherence and Maturity are the tiebreak, and this is the part that makes rich people angry.
 
 A Realm can do what no Domain can: go round another field and close, and hold it inside, still running, with its owner in it. Ask anyone from Dornhold, which burned for nineteen years afterward.
@@ -157,4 +173,4 @@ Every Domain can be answered by someone at its own Stage.
 | **The Mahuo** | *Gyeongnae* (경내), within the bounds | Entered in the rolls and taxed, if the assessor survives |
 | **The lineage halls** | *Fǎyù* (法域), the law-ground | Four centuries of commentary on whose law it is when the owner's ancestors disagree |
 
-*Read next: [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]], for the shape that opens it, and [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], for the people who got this far.*
+*Read next: [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]], for the shape that opens it; [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], for the people who got this far; and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what each road does with a claim.*

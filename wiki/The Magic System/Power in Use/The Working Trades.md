@@ -21,9 +21,11 @@ A bottle poured over a season and bought with money. A doorframe cut in spring, 
 
 ## The Governing Definition
 
-> **A working is a sentence in Parun given a medium.**
+> **A working is a sentence given a medium.**
 >
-> The grammar is fixed and identical in every trade. **What differs is the substance the sentence is written into, and everything else follows from that one choice.**
+> The grammar is fixed and identical in every trade that writes. **What differs is the substance the sentence is written into, and everything else follows from that one choice.**
+>
+> The singing is the one that does not write. A chant does the same four jobs in tone, and it is no Parun (see below). The account all five share, of how long a working lasts and what a fault does, is in [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|the Glyph Index]].
 >
 > *Duration follows from it. Cost follows from it. Who can perform it follows from it. Whether it can be sold, stolen, taxed, inherited or burned follows from it.*
 >
@@ -31,9 +33,11 @@ A bottle poured over a season and bought with money. A doorframe cut in spring, 
 
 ### The four roles of a sentence
 
-Every sentence in Parun (the language of law every working is written in) does the same four jobs in the same order, and the order is the point. **Authorization** says by what right a limit is set. **Boundary** sets it. **Direction** states which way the law is to run across it. **Sealing** takes the limit back down. A glyph creates nothing. A Wellspring (the governing idea that transforms how a soul uses Aether) was already at work, and the sentence only tells it where to stop.
+Every sentence in Parun (the language of law every working is written in) does the same four jobs in the same order, and the order is the point. **Authorization** says by what right a limit is set. **Boundary** sets it. **Direction** states which way the law is to run across it. **Sealing** takes the limit back down. A glyph creates nothing. A Wellspring (the governing idea that transforms how a soul uses Aether, which is mana) was already at work, and the sentence only tells it where to stop, and it does so at whichever layer of the soul the maker's Essence (spiritual energy) leaves through. In a spoken sentence these four roles are the Warrant, the Ground, the Vector and the Seal of [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun|the Counted Speech]].
 
-Which is why Sealing is the role that kills people. Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burned workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
+A role left wholly empty does nothing. No seal, no working, no cost, and a very embarrassed apprentice. A role filled badly is another matter, because that sentence fires, and a sentence that fires with a bad limit runs. A bad Authorization or Direction goes wrong while the operator is still in the room. A bad Boundary goes as far as the broken limit lets it, which is how the Long Loaf of Mothwick came to take the bakery.
+
+Which is why Sealing is the role that kills people. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burned workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
 
 ### Skills first, trades after
 
@@ -49,11 +53,11 @@ Techniques are named things done with a skill, and they show no level.
 
 | Trade | Medium | How long it holds | Does it outlive its maker? | Who can use it | What it bills | How it fails |
 |---|---|---|---|---|---|---|
-| **The speaking** | Breath, hand, body or a chain held in the Crystal | As long as the saying | **No.** It ends when attention lapses | The woken | The body, in the same scene | It dissipates, and the Essence committed is gone |
-| **The cutting** | Stone, iron, bone, crystal, wood, a living Shell | As long as the substrate holds its retention threshold | **Yes, by centuries** | Made by the woken; works on anyone who passes | A season, a stone, and no second chance | It misfires continuously until someone finds it and breaks it |
+| **The speaking** | Breath, hand, body or a chain held in the Crystal | As long as the saying, or to the term of a spoken Seal while the speaker can carry it | **No.** It ends when attention lapses, or with the speaker | The woken | The body, in the same scene | It dissipates, and the Essence committed is gone |
+| **The cutting** | Stone, iron, bone, crystal, wood, a living Shell | To the term of its Seal, and never past the substrate's retention threshold | **Yes, by centuries** | Made by the woken; works on anyone who passes | A season, a stone, and no second chance | It misfires continuously until someone finds it and breaks it |
 | **Tags** | Paper, hide, bark, thin foil | Until fired; a charged tag goes stale | **Yes, until it goes stale** | Practitioners only: the working waits for a woken Crystal to close it | Its fuel, and a hand and a moment | It dies on thin ground, or a bad seal makes one that does not stop |
 | **The pouring** | A substance in a vessel | Until drunk or spoiled | **Yes.** The bottle is the point | **Anyone with a mouth** | Provenance: the ledger behind the ingredients | It does nothing, works on the wrong person, or works exactly as a lying buyer wanted |
-| **The singing** | Sustained tone | As long as it is sung, then decays predictably | **Only by replacing the singers** | Above trivial, only a group | Other people's time, indefinitely | A choir that loses three singers to fever in a week |
+| **The singing** | Sustained tone, in resonance rather than Parun | As long as it is sung, then decays predictably | **Only by replacing the singers** | Above trivial, only a group | Other people's time, indefinitely | A choir that loses three singers to fever in a week |
 
 ### The register table
 
@@ -74,8 +78,8 @@ Each trade carries an Accord name in the old tongue and a plain name in the comm
 
 ## The Examiners and the Workers
 
-The discipline of building a lawful Parun sentence and committing it to a medium is what the guilds of the Accord test, license and tax, and what their courts prohibit. **Nobody practices it in the abstract**, because practice always means one of the trades below.
-> **The theoretical worker** studies it and performs nothing. They know the Codex (the Accord's master register of glyphs, Wellsprings and laws), the Families, the Wellspring assignments, the Derivation Index, the case law. **They can tell a Runesmith that his Boundary layer is malformed and be right. They have never in their lives put a working into anything.**
+The discipline of building a lawful sentence and committing it to a medium is what the guilds of the Accord test, license and tax, and what their courts prohibit. **Nobody practices it in the abstract**, because practice always means one of the trades below.
+> **The theoretical worker** studies it and performs nothing. They know the Codex (the Accord's master register of glyphs, Wellsprings and laws), the Sixty and their kinds, the Wellspring assignments, the case law. **They can tell a Runesmith that his Boundary layer is malformed and be right. They have never in their lives put a working into anything.**
 >
 > *The research halls are full of them, the examination boards are made of them, and the most senior chairs require no demonstrated capacity to cast whatsoever.*
 >
@@ -89,7 +93,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 ***Ars Vocis.*** **The vulgar one, according to everyone who can afford a workshop.**
 
-**Medium** · the ephemeral sentence, carried by breath, hand, or trained interior chain.
+**Medium** · the ephemeral sentence, carried by breath, hand, or trained interior chain. Most of it is sealed on attention, the cheapest term there is. A full spoken Seal can run longer, as far as the speaker's own Attraction Layer can carry it, and it bills them the whole way. Only spoken Parun has to add up to the sum, and [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun|the Counted Speech]] is the reason most speakers buy their sentences whole.
 
 **What nothing else can do** · **It happens now.** A rune takes a week and a Draft takes a season. **A spoken working takes as long as it takes to say it, and that is the entire case for it.**
 
@@ -120,9 +124,9 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 ***Ars Scripti.*** **The writing. The runes. The one the oldest guilds are built on.**
 
-**Medium** · the permanent sentence, cut into substrate. Stone, iron, bone, crystal, prepared wood, **and at the far end of the skill the Aether Shell (the soul's outer layer, turning inner power into outward force) or Soul Crystal lattice of a living body.**
+**Medium** · the permanent sentence, cut into substrate. Stone, iron, bone, crystal, prepared wood, **and at the far end of the skill the Aether Shell (the soul's outer layer, turning inner power into outward force) or the Soul Crystal itself in a living body.**
 
-**What nothing else can do** · **It outlives the person who made it.** *A ward cut into a fortress wall by an Engraver dead three centuries still suppresses hostile Essence, provided the stone has not fallen below its retention threshold.* **The Continuum reads what is written. The author may leave. The sentence remains legible.**
+**What nothing else can do** · **It outlives the person who made it.** *A ward cut into a fortress wall by an Engraver dead three centuries still suppresses hostile Essence, provided the stone has not fallen below its retention threshold.* **The Continuum reads what is written. The author may leave. The sentence remains legible.** It was anchored once, as it closed, and the surface carries that claim from then on. Unlike the spoken sentence it need not add up to any sum.
 
 **What it costs** · Time, substrate, and **irrevocability.** A season of work, a stone that will never be cut again, **and the knowledge that an error does not misfire once.**
 > **It misfires continuously, for as long as the carving holds, on everyone who passes it, until somebody finds it and breaks it.**
@@ -153,7 +157,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 **What it costs** · By the fuel. An ambient tag dies on thin ground, a reserve tag bills the user mid-fight, and a charged tag goes stale on its maker's schedule.
 
-**Failure mode** · **A bad cut misfires every time, and a bad seal makes a working that does not stop.** See the glyph roles above, and then see the privy door at Altherion.
+**Failure mode** · **A bad cut misfires every time, and a bad seal makes a working that does not stop.** A strip with its seal left off altogether does nothing and is merely a waste of a silver. See the glyph roles above, and then see the privy door at Altherion.
 
 ---
 
@@ -172,7 +176,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 >
 > **The bottle is how the other ninety-odd percent of the population holds magic in their own hand.** Everything else they touch, they hire: the warden's lamp, the cutter's doorframe, the hedge-worker's charm against the cough. *Everything a market in magic needs falls straight out of that: smuggling, counterfeiting, guild monopoly, excise, adulteration, shortage, addiction, and a black market with names in it.*
 >
-> **What a Draft does to a soul whose Crystal never woke.** A Draft acts on the Essence Core (the soul's inner layer, holding identity, memory and Traits), and a Class Ø soul has a Core like anyone else. Its Shell is sealed and cannot phase-lock, and no harmonization follows, so the farmer gets the working and none of the architecture.
+> **What a Draft does to a soul whose Crystal never woke.** A Draft acts on the Essence Core (the soul's inner layer, holding identity, memory and Traits), and an unwoken soul has a Core like anyone else. Its Shell is sealed and cannot phase-lock, and no harmonization follows, so the farmer gets the working and none of the architecture.
 > 
 > He also gets no melt. **Nucleation (the seeding that decides how a melted Crystal sets again) is a Crystal event**, so an ordinary Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. (The one exception is the Waking Draft, made to open a sealed Crystal, very dear, and often the death or the warping of the child who drinks it.) It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years advances nothing and **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognizable at a distance and the fourth is a problem.
 > 
@@ -195,7 +199,9 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 ***Ars Cantus.*** **Pitched, where the other trades assert.**
 
-**Medium** · the sustained sentence, carried by tone. **Neither ephemeral nor permanent.** It holds for as long as it is sung and decays predictably afterward.
+**Medium** · the sustained condition, carried by tone. **Neither ephemeral nor permanent.** It holds for as long as it is sung and decays predictably afterward.
+
+**A chant is not Parun.** A sound may not repeat inside a Parun word, and a chant is mostly repetition. It sets its condition in resonance, the way Gravetongue does, and it does the four jobs in tone: who sings and by what right, how far the sound carries, which way it runs, and the decay when it stops. Its words carry a sentence only when Glyphica (the writing of law) is present, as when a chorister who has the count sings over a cut ward, and then that sentence answers to the same rules as any other.
 
 **What nothing else can do** · **It scales with throats.** Everything above trivial requires more than one voice, **which makes it the only trade that cannot be practiced alone.** A chant needs its voices in tune, its hours kept and somebody to replace the singer who dies, and it follows the register of whoever sings it, a soldier's chant sounding like a soldier and a nun's like a nun.
 > *That single constraint makes it institutional by necessity: orders, choirs, liturgies, schedules, a roster, and the particular catastrophe of a choir that loses three singers to fever in a week.*

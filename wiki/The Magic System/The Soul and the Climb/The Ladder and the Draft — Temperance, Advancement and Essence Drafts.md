@@ -46,6 +46,8 @@ A bought Stage opens the door and no more. The Stage is real: the stat ceiling l
 | Clearance of the Band gate | **Level.** The architecture sits thin until danger overcome fills it |
 | A real change in what the Crystal can hold | **Techniques and skills.** Those rise by doing them |
 | | **The Path gates.** The Crystal goes on reading what the soul actually does |
+| The ceiling of every [[The Magic System/The Soul and the Climb/Classes and the Three Ladders\|class ladder]] | **The rung.** A bought Stage opens the ceiling and leaves the rung where it was |
+| | **The Crystal's Tier.** It lags the Stage until Level fills it |
 
 A rich Stage IX may have no Release at all, while a poor fighter at the same Stage has all three, and the second one tends to win. **Sects teach what money cannot buy:** Releases, Domains, techniques, skills and the rites for their Wellspring, along with real fights, a crew and a name, which is why a duke's son in a gold sash will still go on his knees at a mountain gate and scrub floors for an elder who is rude to him.
 
@@ -73,6 +75,8 @@ A rich Stage IX may have no Release at all, while a poor fighter at the same Sta
 
 *The ladder is usually read as one number going up. It is three architectures changing at different rates, and they do not change together.*
 
+Harmonization runs across all three, and it is said once on [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]: the lock happens at the Shell, where Aether enters, the tie is held on the Layer, and the lens shapes Essence in the lead layer.
+
 | Tier of Standing | Essence Core (inner layer: identity, memory, Traits) | Aether Shell (outer layer: the skin that turns power into force) | Attraction Layer (the Fate-Plane layer: bonds, Domains, Wellspring ties) |
 |---|---|---|---|
 | **1–4 · I–IV** | Identity assembling. Traits present but volatile, with real risk of misfire and self-harm. | Forming and porous. Output arrives before control does. | First harmonization. First Spirit Axis at Flourishing. |
@@ -96,9 +100,11 @@ A rich Stage IX may have no Release at all, while a poor fighter at the same Sta
 | **Environmental** | Affinity-saturated immersion | Low per unit time | Near zero |
 | **Synthetic** | Alchemically blended | Variable and unique | **Highest. Internal reaction.** |
 
-**Where the material comes from.** Every substance in the ledger carries a Resonance, a Family (one of the eight houses of magic, sorted by physics) and a Physics Domain (the branch of real physics its Wellspring governs) alongside its Bearing and Holding grades. A dragon's scale is no generic reagent: it carries a specific Wellspring resonance, it renders at a specific grade, and **that grade begins falling from the moment the animal stops.** The whole beast trade is an argument with decomposition, which is why the northern runners are the profitable ones and why some rendering houses are sited beside a glacier for no other reason.
+**Where the material comes from.** Every substance in the ledger carries a Resonance and a Wellspring, with the kind that names its home, alongside its Bearing and Holding grades. A dragon's scale is no generic reagent: it carries a specific Wellspring resonance, it renders at a specific grade, and **that grade begins falling from the moment the animal stops.** The whole beast trade is an argument with decomposition, which is why the northern runners are the profitable ones and why some rendering houses are sited beside a glacier for no other reason.
 
 **[[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster cores]].** A monster's core is in a way its Soul Crystal, and it is worth more the stronger the monster was. This is the lawful Crystal Draw of The Standing Index, the Creature-Sourced stock the whole trade turns on. Monsters gain Levels by killing, each other included, so an old one has done a great deal of tempering of its own, and a crew that brings up the core of a famous beast with a bounty on it has often made more in an afternoon than its home village will see in a generation. An alchemist renders the core down, taking the Essence off it into **Essence Drafts**, and those go overwhelmingly to one use, which is tempering: a practitioner takes the course, goes to the melt, and comes out with Essence refined further and a body that has gained by it. The Traits fed this way are the ordinary ones in the ordinary Reflections, see [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System]], and they rise on the owner's window like anything else that has been worked.
+
+**What stock does to whom.** A course is matched three ways, and a good apothecary asks all three before she takes your money. **The lens:** stock from the Wellspring you temper on goes in clean, and foreign stock tempers just as well and adds carry (what a soul keeps of where its stock came from), so a Pyreveil fighter drinking wolf for a season is going to notice wolf. **The layer:** a monster's stone is Core stock and feeds the Core. Tempering rebuilds each layer, so a course for the Shell is made from the Salt fraction of the render, the part the bench reads as body, and a Body fighter drinks more of it and a Spirit fighter less. **The third layer:** shaved Layer is the black-market Fate reagent. The dresser takes it off a Crystal, the richest of it comes off a dead person's, and it is what goes into a Fate Essence Draft, which is why nobody who owns one discusses its provenance.
 
 **The raw core.** A core can be swallowed or broken raw, which skips the alchemist's fee and delivers everything it holds at once. Most who try it die, and a good share of the rest come out wrong: a cooper who growls at his wife and cannot say why, a girl who has stopped sleeping and started hunting. The few who come out whole are the reason it goes on happening, and every one of them is a story told in a cheap tavern to somebody with nothing left to lose.
 
@@ -108,7 +114,7 @@ A rich Stage IX may have no Release at all, while a poor fighter at the same Sta
 
 **Master Work Drafts.** A [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Work]] is a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. The trade's own Master Works are Drafts, and the most coveted of them is a **Fate Essence Draft**, which bottles the manipulation of possibility itself: the very flow and idea of a thing, set in a vial. It is extremely hard to make, there are perhaps a handful in the world at any time, and people who could afford a county have instead spent their lives trying to get near one.
 
-**Fight Drafts.** Everything above works on the ladder. The Drafts a fighter carries on the belt work on the reserve: a fight Draft takes a beat to get down, refills reserve, and leaves a crash that pays for it. Drafts are graded by the Stage they serve and priced about threefold a Stage, and counterfeits are common enough that bracket crowds keep a chant for the man who has just swallowed a mouthful of chalk at the worst moment of his life.
+**Fight Drafts.** Everything above works on the ladder. The Drafts a fighter carries on the belt work on the reserve: a fight Draft takes a beat to get down, refills reserve, and leaves a crash that pays for it. What pours in is Essence with nobody's stamp on it, and the crash is the Crystal stamping it afterward, all at once. Drafts are graded by the Stage they serve and priced about threefold a Stage, and counterfeits are common enough that bracket crowds keep a chant for the man who has just swallowed a mouthful of chalk at the worst moment of his life.
 
 ---
 
@@ -166,4 +172,4 @@ The Sub-Stats no Draft has ever reached: **Coherence**, the alignment between a 
 
 > **Coherence is the Crystal's internal honest scale, and it cannot be drunk.** A breakthrough Draft carries a soul over the Threshold without consulting that scale, and the soul arrives on the far side reading exactly what it read before. That is the mechanical reason a bought Stage opens the door and no more, stated in the vocabulary of the stat framework rather than in the vocabulary of doctrine.
 
-*Read next: [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], for the numbers all of this moves.*
+*Read next: [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], for the numbers all of this moves; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] and [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]], for what a purse cannot move; and [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for what the stock is stock of.*

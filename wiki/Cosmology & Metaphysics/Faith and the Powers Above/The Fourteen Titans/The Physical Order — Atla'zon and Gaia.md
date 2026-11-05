@@ -24,7 +24,7 @@ He told that story against himself for thirty years, in good inns, and it is the
 
 ### Manifestation
 
-A kneeling colossus of marble, obsidian and voidlight at the equatorial core of creation. His spine traces the gravitational lines of every world. His heart is the ticking of the Loom, faintly audible as the Pulse of Time. Once in a thousand years he exhales, and new Wellsprings do not so much form as get compressed into being by the pressure of it.
+A kneeling colossus of marble, obsidian and voidlight at the equatorial core of creation. His spine traces the gravitational lines of every world. His heart is the ticking of the Loom, faintly audible as the Pulse of Time. Once in a thousand years he exhales, and new Wellspring sites do not so much form as get compressed into being by the pressure of it.
 
 ### The Load
 
@@ -40,7 +40,7 @@ Aegor, Body, Epoch. Grants structure and purpose. Bairos, Fate, Epoch. Imbues in
 
 ### The Titan-Keyed Art: *The Bent Knee's Burden*
 
-*Defensive · Vectoria · Petralon · Mechanics · Zenith+ · [Th] Foundation + [Len] Line*
+*Defensive · Petralon · Zenith+ · [Th] Foundation + [Len] Line*
 
 **Trigger**  Cast only within a Domain whose gravitational or causal load is already under visible strain. A sagging structure. A buckling timeline.
 
@@ -56,7 +56,7 @@ Aegor, Body, Epoch. Grants structure and purpose. Bairos, Fate, Epoch. Imbues in
 
 **What nobody knows**  Why the dilation caps at the same ratio no matter who casts it. A Zenith practitioner and an Apex one produce the identical figure, and nothing else in the Codex behaves that way.
 
-*Codex: [Th] Foundation + [Len] Line / Petralon / Vectoria / Mechanics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Th] Foundation + [Len] Line / Petralon / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -88,7 +88,7 @@ Thalen, Form. Foremost ally, the architect whose glyphs she embodies. Maelor, Me
 
 ### The Titan-Keyed Art: *Flesh Remembers Stone*
 
-*Supplementary · Materia · Materia Primordia · Material Science · Zenith+ · [Th] Foundation + [Ma] Recall*
+*Supplementary · Materia Primordia · Zenith+ · [Th] Foundation + [Ma] Recall*
 
 **Trigger**  Direct skin contact with the target tissue, bone or soil. No reach, no medium, no proxy.
 
@@ -104,4 +104,4 @@ Thalen, Form. Foremost ally, the architect whose glyphs she embodies. Maelor, Me
 
 **What nobody knows**  Why the crystallization front stops at scar tissue and routes around it. The Verdant Core has documented the behavior for three hundred years and has no account of it.
 
-*Codex: [Th] Foundation + [Ma] Recall / Materia Primordia / Materia / Material Science / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Th] Foundation + [Ma] Recall / Materia Primordia / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

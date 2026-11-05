@@ -68,7 +68,7 @@ Everything the four quarters have ever dug out of the ground was put there in th
 
 | First Eon material | Standing |
 |---|---|
-| **Titanstone** | The shattered remains of slumbering World Spirits. Near-immortal in density, carrying a metaphysical weight sufficient that a cracked block takes a city down with it. It is found rather than quarried. |
+| **Titanstone** | The shattered remains of slumbering [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans#World Spirits|World Spirits]]. Near-immortal in density, carrying a metaphysical weight sufficient that a cracked block takes a city down with it. It is found rather than quarried. |
 | **Crevice Shale** | Fractures nearby Realm law. Forbidden to move, hold, or trade under **Article III of the Concord Codex**, a law about a rock, and the only such law the Accord has ever written. |
 
 The Guild takes no position on the theology of the age and observes only that both materials behave as though something decided their properties. That is a statement about behavior and carries no claim about intent.
@@ -159,7 +159,7 @@ Five hundred and seventy-five years, the body of the count, and the era in which
 
 | Ceiling | Held at | Fell |
 |---|---|---|
-| **Water** | Sixty fathoms below the adit line, held everywhere, under every flag, in every age preceding | Year 90 to 130, to Phreatis-fed lift arrays, Fluxia family, Fluid Dynamics |
+| **Water** | Sixty fathoms below the adit line, held everywhere, under every flag, in every age preceding | Year 90 to 130, to Phreatis-fed lift arrays |
 | **Air** | Depth kills by atmosphere before it kills by roof | Year 150 to 175, to Vectoria draught arrays, funded by the bodies the pumps had already produced |
 | **Heat** | Charcoal will not liquefy iron, and had not, in any age | Year 260 to 310, to Ignivale and Pyraeon forge-arrays, Caloria family, Thermodynamics. Everything above the fourth tier of making comes out of that window, Aethersteel first among it |
 | **Haulage** | Rock is heavy and ropes have a limit | **Never fell.** Was merely lied to, by Weight Ablation glyphwork that misreports the load to the rope rather than lightening it. The industry is built around that lie rather than through it |

@@ -42,13 +42,13 @@ Taverns run two things together that the assayers keep apart: the Class, and the
 
 **The ladders** are what the instruments read. There are three, one to each layer of the Crystal, and they measure how strong a person's reach is through that layer. **Aether Class** is the Aether Shell (the Crystal's outer layer, which turns inner power into outward force) and their influence on the physical world. **Essence Class** is the Essence Core and their influence on spiritual reality. **Thread Class** is the Attraction Layer and how much of Fate they can pull down and hold. From Glory each ladder sets η (eta, the share of each spend that arrives as intended effect) for workings through its own layer. A practitioner stands in the coil, the brass assay instrument, and the clerk writes *Aether III Resonant* on the slip, and for a second fee will write the other two, which on most slips is a waste of a second fee.
 
-The Archives file the full law of the Shell under [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], with its three constants and its anomalies, and in [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)|Fracture of Worlds, Part Seventeen]]. Every soul has all three layers, whichever [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] it leans on, and each ladder can be read on anyone: the Aether rung of a Fate Path auditor, the Thread rung of a Body Path brawler. What follows is first about the name and what people do once they have one, and then about the ladders.
+The Archives file the full law of the Shell under [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], with its anomalies, and in [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)|Fracture of Worlds, Part Seventeen]]. Every soul has all three layers, whichever [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] it leans on, and each ladder can be read on anyone: the Aether rung of a Fate Path auditor, the Thread rung of a Body Path brawler. What follows is first about the name and what people do once they have one, and then about the ladders.
 
 ---
 
 ## The Offer
 
-**When.** The first offer comes at Glory, Stage VI, where the ladders first read on the coil. Stages I through V are unclassed, and the unwoken have no class at all: a baker's window shows her Level, her trade skills and her health, and waking opens the rest of it without yet naming her. After Glory, the offer comes again each time the person's leading ladder climbs a rung, whichever ladder that is.
+**When.** The first offer comes at Glory, Stage VI, where the ladders first read on the coil. Stages I through V are unclassed, and the unwoken have no class at all: a baker's window shows her Level, her trade skills and her health, and waking opens the rest of it without yet naming her. After Glory, the offer comes again each time the person's leading ladder climbs a rung, whichever ladder that is. Anyone standing at Thread Ø evolves on whichever of their ladders reads highest, which is how a Fate Path fighter with no grip on anything still gets a new name to complain about.
 
 **What arrives.** A short block, in the owner's tongue, with one name or several:
 
@@ -65,7 +65,7 @@ That one belonged to a ferryman's son at Chainbridge who chose wrong, and knew i
 
 **What it cannot be.** A class is never picked off a list of what you would like. A duke's son who dreams of being a Stormblade and has spent his life being fitted for coats will be offered something about coats. An offer left unanswered keeps the old name at the new rung and goes on waiting, and a few stubborn people have carried a first-rung name up three rungs out of spite. Once taken, the name stays until the next rung. Nobody has ever handed one back, sold one or had one cut out, though the fair-stall trade in promises to do so is brisk.
 
-**The bought Stage.** A Stage can be bought, as [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]] explains at length, and a Shell can climb on a purse along with the rest, by a paid-for Infusion or down the back stairs of the Forge Rites, two of the four roads on the [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Shell's page]]. The offer cannot be bought with it, because the offer reads the life. House heirs who take Glory in a quiet room with a physician standing by have opened their windows to Well-Attended, Second Son and Patient of Many Doctors. Great families pay good silver to keep those names quiet. Commoners with Gnosis to spare pay good silver to find them out.
+**The bought Stage.** A Stage can be bought, as [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]] explains at length, and a Shell can climb on a purse along with the rest, by a paid-for Infusion or down the back stairs of the Forge Rites, two of the four roads on the [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Shell's page]]. A bought Stage opens a ladder's ceiling and leaves the rung where it was (the table is under The Three Ladders, below), so what that purse pays for is one dangerous step at a time. The offer cannot be bought with it, because the offer reads the life. House heirs who take Glory in a quiet room with a physician standing by have opened their windows to Well-Attended, Second Son and Patient of Many Doctors. Great families pay good silver to keep those names quiet. Commoners with Gnosis to spare pay good silver to find them out.
 
 ---
 
@@ -77,9 +77,9 @@ The name carries real goods. In rough order of how often they turn up:
 - **An ability of the class's own.** A small lawful trick that fits the name, listed on the window when gained, the kind of thing a person might have spent years failing to learn. It runs on the owner's reserve at the owner's η and costs what it costs.
 - **An easier road.** Certain kinds of move come quicker, and the teachers notice. A Wallbreaker's elbows learn in a month what a Bookkeeper's elbows will never learn.
 - **A lean in growth.** Life spends most of a person's stat points by what they do, and a class leans on that: what the name is about grows a little faster, and what it ignores a little slower. Every Wallbreaker in the four quarters has roughly the same shoulders.
-- **A shape in the aura.** The Family of the Wellspring a person has tempered on sets their base color, the Wellspring adds texture and sound, and a class or a big Trait adds a shape, which a good eye can spot at fifty paces. People read strangers off it in every market on the continent, or think they can:
+- **A shape in the aura.** The Wellspring a person has tempered on longest sets their base color, any others add texture and sound, and a class or a big Trait adds a shape, which a good eye can spot at fifty paces. People read strangers off it in every market on the continent, or think they can:
 
-> *Caloria, ember-orange. An Exuroth lens, temper-blue at the edges, smelling of quench oil. A Riverblade's shape, running in a flowing band around the shoulders.*
+> *Cherry-red, temper-blue at the edges, smelling of quench oil: an Exuroth lens. A Riverblade's shape, running in a flowing band around the shoulders.*
 >
 > *"Fire school, river town, and he's hiding a limp."*
 
@@ -207,16 +207,36 @@ Every name above sits beside a ladder, and the ladder is what decides how much o
 
 That line belongs to a hitter with a very clean Shell and some schooling in souls, and like nearly everyone alive she has never held a thread.
 
-**Each ladder sets η for workings through its own layer.** A blow by hand, or a burn that lives in the tissue, goes out through the Shell and reads the Aether rung. A working authored in the Core reads the Essence rung. A pull reads the Thread rung. One person can be clean in one layer and roaring in another, so an η on a slip is only ever an η for something. **The name changes; the share that arrives follows the layer.** A Riverblade at Aether II leaks what a Bookkeeper at Aether II leaks, whatever the songs say.
+**Each ladder sets η for workings through its own layer.** The Core authors everything, and the layer it lands through sets the rung. A blow by hand, or a burn that lives in the tissue, goes out through the Shell and reads the Aether rung. A working authored in the Core reads the Essence rung. A pull reads the Thread rung. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] has the whole list of which layer reads what, trade by trade. One person can be clean in one layer and roaring in another, so an η on a slip is only ever an η for something. **The name changes; the share that arrives follows the layer.** A Riverblade at Aether II leaks what a Bookkeeper at Aether II leaks, whatever the songs say.
+
+### The one table: Stage against rung
+
+**The Stage sets a ladder's ceiling, and practice moves you up to it.** A Stage says how high a road may go. It has never carried anyone there. A bought Stage opens the ceiling and not the rung, which is how a rich Stage VIII can stand under a roof marked Radiant and read Aether I, and why the fighting halls' field average at that Stage sits so far below what the Stage allows. This is the one table on the subject, and every other page in these Archives points here.
+
+| Stage | Highest rung the lead ladder may reach (Aether or Essence) | What that rung commands on the Body road | Thread Class |
+|---|---|---|---|
+| **I to V** | Unread. No class, no rung, and η comes from the Stage's own figure | Blows and the coat, and no more | Ø, unless blood or a blessing has given a grip |
+| **VI · Glory** | **I**, first read here | I: matter as an **object** | Stage moves nothing on this ladder at any height |
+| **VII · Refraction** | **III**, with II the usual step early in the Stage | II: matter through **contact**. III: matter by **recognition** | Stage moves nothing |
+| **VIII · Transcendence to XIV · Zenith** | **V**, with IV as the step before it | IV and V: matter by **law** | Stage moves nothing |
+| **XV · Revelation and XVI · Apex** | **Ω** | Ω: matter as a **whole system** | Stage moves nothing |
+
+**VI on each ladder is lateral**, an inverted way of holding that power, and it can stand beside the rungs around it rather than above them, from Refraction up. Most souls never see it.
+
+| Ladder | What moves a rung, up to the ceiling | What has never moved one |
+|---|---|---|
+| **Aether** | Use through the Shell, by the four roads filed on [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|the Shell's page]]: Temperance Refinement, Wellspring Baptism, the Forge Rites, a Higher Resonance Infusion | Conquest, Level, a bought Stage |
+| **Essence** | Use on souls, spirits, the dead and what things mean, for years, at the same price the Shell pays in clarity | The same, and any amount of hitting things |
+| **Thread** | **A grip, by blood or by blessing, plus decades.** Keeping vows will take a sworn soul to I or II and stops there, and study takes anyone to I | Stage, a Walked percentage, and wanting to |
 
 **Which rung you stand on follows your road.**
 
-- The ladder of your leading [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] climbs with your Stage, and your Class evolves when it does.
+- The ladder of your leading [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] climbs toward its ceiling as you practice, and your Class evolves when it does.
 - The ladder of a Walked second Path runs a rung behind until that Path is mastered.
-- A Studied ladder stops at II, or at I for Thread.
+- A Studied ladder runs two rungs behind the lead and stops at II, or at I for Thread.
 - A ladder on a road you have never touched stays at the bottom. The Shell takes its first rung at Glory in any woken soul, because everything a person does in the world has to leave by it. The Core stays Silent until someone has used it for something, and the Layer stays Unthreaded unless something extraordinary happens.
 
-**VI on each ladder is lateral**, an inverted way of holding that power, and it can stand beside the rungs around it rather than above them. The Stages named below are the typical road and never a lock, and a rung that sits above the ladder for its Stage stands as recorded. The **Soul Crystal Tier** is a separate reading again, of the whole soul at once, and a ladder can run ahead of it or behind.
+The Stages in the table are a ceiling and the rungs below are what people have done under it, so a Stage XI on Aether II is common and nobody thinks less of her until she leaks on them. A rung on a sealed card that sits above the ladder for its Stage stands as recorded: a Baptism or an Infusion from above can reach past a ceiling, the coil does not argue, and the Measurewrights write the word *anomaly* beside it and charge extra. The **Soul Crystal Tier** is a separate reading again: what the Crystal as a whole has grown into, read by Stage, and it lags a bought Stage until Level fills it, as [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|the Shell's page]] sets out.
 
 ### Aether Class: the Shell
 
@@ -225,13 +245,13 @@ That line belongs to a hitter with a very clean Shell and some schooling in soul
 | Rung | The Shell, and what it can do | Efficiency loss | Where it usually sits | How the names tend to read |
 |---|---|---|---|---|
 | **Ø · Dormant** | Sealed, unresponsive, nearly silent. Moves through the world without leaving a mark on it. No class is offered here | No stat output above Hollow Grade | Before waking | There is no name |
-| **I · Muridic** | Flickering with first resonance. Essence leaks unevenly, and a bad temper can spoil the weather in the yard. The blows land, and everyone for a street around knows about it | Roughly 30 to 40% | Glory, Stage VI | A job, or an insult: Pole-Hand, Wallbreaker, Misfire |
-| **II · Harmonic** | Holds a rhythm. Simple workings stop coming apart in the hand, and bonds form without tearing the self | Roughly 15 to 25% | Early Refraction | A job done with violence: Riverblade, Stormblade |
-| **III · Resonant** | Conducts freely. Power moves even in silence, two workings can run at once, and output arrives at near-full fidelity for the first time | Roughly 5 to 10% | Late Refraction | A reputation: Floodbreaker, Reckoner, Fine Print |
-| **IV · Luminous** | Thin and lucid. Matter and Wellspring answer at almost no prompting, with a precision that embarrasses the raw numbers. **Lateral**, a Shell-specific peak | Negligible. Precision exceeds baseline stat values | No single Crystal Tier; most often Intent-aligned souls whose Shell has clarified ahead of their Core and Layer | Often a single person: The Unforded |
-| **V · Radiant** | World-bending. Aether curves around the bearer. Can steady a Realmgate, hold a Domain against collapse and speak Parun motifs into matter | Output begins exceeding what the raw numbers suggest | Early Master, Radiant Crystal | A place, or a law |
-| **VI · Voidic** | Inverted. The Shell devours and reflects where it ought to emit. **Lateral**, can appear alongside Resonant, Luminous or Radiant | Qualitatively different. Their Ardency does not deal damage. It removes things | Most direct with Limina Wellsprings and Titanic depths | An absence |
-| **Ω · Absolute** | The Shell dissolves as a boundary | Stat output is no longer meaningful as a separate measurement | Paragon, Absolute Crystal | Nobody who holds one has filed it |
+| **I · Muridic** | Flickering with first resonance. Essence leaks unevenly, and a bad temper can spoil the weather in the yard. The blows land, and everyone for a street around knows about it. A Body fighter commands matter as an object: what the hand is on does as it is told | Roughly 30 to 40% | Glory, Stage VI | A job, or an insult: Pole-Hand, Wallbreaker, Misfire |
+| **II · Harmonic** | Holds a rhythm. Simple workings stop coming apart in the hand, and bonds form without tearing the self. A Body fighter commands matter through contact: what the hand touches carries it onward, the post through the wall | Roughly 15 to 25% | Early Refraction | A job done with violence: Riverblade, Stormblade |
+| **III · Resonant** | Conducts freely. Power moves even in silence, two workings can run at once, and output arrives at near-full fidelity for the first time. A Body fighter commands matter by recognition: she knows what the stone will do under load, and it does that at her word | Roughly 5 to 10% | Late Refraction | A reputation: Floodbreaker, Reckoner, Fine Print |
+| **IV · Luminous** | Thin and lucid. Matter and Wellspring answer at almost no prompting, with a precision that embarrasses the raw numbers. A Body fighter has reached matter by law: a river can be told how deep it is. **Lateral**, a Shell-specific peak | Negligible. Precision exceeds baseline stat values | No single Crystal Tier; the Body road's first rung of law, and it also turns up in Spirit Path souls whose Shell has clarified ahead of their Core and Layer | Often a single person: The Unforded |
+| **V · Radiant** | World-bending. Aether curves around the bearer. Can steady a Realmgate, hold a Domain against collapse and speak Parun motifs into matter. Matter by law, and as far as there is matter to read | Output begins exceeding what the raw numbers suggest | Early Master, Radiant Crystal | A place, or a law |
+| **VI · Voidic** | Inverted. The Shell devours and reflects where it ought to emit. **Lateral**, can appear alongside Resonant, Luminous or Radiant | Qualitatively different. Their Ardency does not deal damage. It removes things | Most direct with Nihiloth, Vantabriel and the other Wellsprings of absence, and with Titanic depths | An absence |
+| **Ω · Absolute** | The Shell dissolves as a boundary. Matter as a whole system, the Totality Architect's rung | Stat output is no longer meaningful as a separate measurement | Paragon, Absolute Crystal | Nobody who holds one has filed it |
 
 > **The right-hand column is a habit, and the Archives have stopped calling it a rule.** Plenty of Radiant souls carry names a fishwife would blush at, and a Muridic class can be as famous as any.
 
@@ -263,9 +283,9 @@ An Essence Ferryman has nothing to do with the Ferryman on a crew's bill, who is
 
 ### Thread Class: the Layer
 
-**How much of Fate you can pull down and hold.** This is the steep one. **Most souls stay Ø for life**, a great many Grandmasters among them, and it costs them nothing they would notice. A Fate Path fighter's everyday weapons, Range, Aura Pressure, presence and bonds, work at any rung, and anyone can keep a vow, because a vow binds a person to themselves and pulls nothing down. The ladder measures one thing only, which is what happens when you reach up.
+**How much of Fate you can pull down and hold.** This is the steep one. **Most souls stay Ø for life**, a great many Grandmasters among them, and it costs them nothing they would notice. A Fate Path fighter's everyday weapons, Range, Aura Pressure, presence and bonds, work at any rung, and anyone can keep a vow, because a vow binds a person to themselves and pulls nothing down: **a vow spends the soul's own share, and a pull reaches above it.** The ladder measures one thing only, which is what happens when you reach up.
 
-It opens no earlier than Glory unless a bloodline or a blessing gives a grip, which is why a Moto child can read Thread I at an age when other children are reading their sums, and why the rest of the world dislikes hearing about it. Study takes anyone as far as I and no further. And **its numeral gives η as two rungs below the same numeral on the other ladders**: a Thread III Spinner loses what an Aether I brawler loses, and I and II sit under the bottom of the table altogether, with nearly all of what is spent on a pull gone before anything has moved. That is the whole reason a pull low down costs what it costs. No drill helps. Everything you understand is made of the thing you are trying to move, as [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] explains at more length than anyone enjoys.
+It opens no earlier than Glory unless a bloodline or a blessing gives a grip, which is why a Moto child can read Thread I at an age when other children are reading their sums, and why the rest of the world dislikes hearing about it. Study takes anyone as far as I and no further. **Thread has no Stage climb.** It moves by grip, from blood or a blessing, plus decades of use, and a sworn hitter who has kept every vow she ever made reads I or II at the very most. Blood opens the ladder early and never lifts its cap: a Work of [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] is an inherited grip on one function, which lowers the chance of failure and has never lowered the price. A personal grip, found by nobody's teaching, can be won once. And **its numeral gives η as two rungs below the same numeral on the other ladders**: a Thread III Spinner loses what an Aether I brawler loses, and I and II sit under the bottom of the table altogether, with nearly all of what is spent on a pull gone before anything has moved. That is the whole reason a pull low down costs what it costs. No drill helps. Everything you understand is made of the thing you are trying to move, as [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] explains at more length than anyone enjoys.
 
 Pell Oakshot, called the Long Odds, gave twenty-three years to the Fate Path and was known from Sealhall to the Wend as the dullest duelist on the circuit, a thin woman in a plum-colored coat who stood still, talked too much and lost on points. In the final at the Saltgate Cod Fair she drew Anders Holm, a Stage above her and a head taller, in a gilt harness his cousin had mended cheap, and for four exchanges he broke things on her while the crowd threw herring. Then she went still in a different way. Her breath held on a count that was not the count of the exchange, and the ring went slightly too tidy, and people along the rope stopped chewing without knowing why. Holm's left greave strap, which had been going for a month, let go as his weight came onto it, his foot slid a hand's width on the wet boards, and her cut, an ordinary cut, was already there, and it went in under his arm. She fell over a moment after he did. This is what she was reading, face down:
 
@@ -275,7 +295,7 @@ Pell Oakshot, called the Long Odds, gave twenty-three years to the Fate Path and
 [Hit: both eyes bleeding. Sight down a Grade.]
 ```
 
-The bookies paid at forty to one and watched her for a repeat for the rest of her career, which ran eleven more years. It never came. Asked at the Fair how she had done it, she said that if she knew, it would not have worked.
+The bookies paid at forty to one and watched her for a repeat for the rest of her career, which ran eleven more years. It never came, a personal grip being a thing a soul wins once. Asked at the Fair how she had done it, she said that if she knew, it would not have worked.
 
 | Rung | What it can do |
 |---|---|
@@ -285,7 +305,7 @@ The bookies paid at forty to one and watched her for a repeat for the rest of he
 | **III · Spinner** | Can hold a thread long enough to twist it: one prerequisite of one blow taken away or handed to somebody else, at a ruinous price. The first rung with any figure on the table, and the figure is a Muridic's |
 | **IV · Knotwright** | Can tie threads to one another and set them beforehand, so that one thing's happening hangs on another's: the wall stands until the bell, the company breaks when the flag does. A few at once, and the holder is then in bed for a week |
 | **V · Weaver** | Can move a whole field: weather, supply, panic, the hour a column arrives. The old woman under the plain banner at Akagawa did this, once, with eleven years behind it, and four of her people carried her home. Each side's first job in a war is to find these people |
-| **VI · Severer** | Inverted. Cuts where the others pull. A bond, a debt, an inheritance, what ties a blow to its landing: parted, and nothing in the world is quick to tie it again. Taking a blessing back, which Hataraki can do, looks very like it from outside. **Lateral** |
+| **VI · Severer** | Inverted. Cuts where the others pull. A bond, a debt, an inheritance, what ties a blow to its landing: parted, and nothing in the world is quick to tie it again. Taking a blessing back, which Hataraki can do with two Works or two Moto, looks very like it from outside. **Lateral** |
 | **Ω · Absolute** | The Layer dissolves as a boundary, and the holder is part of what is being pulled on. The Archons, Sovereign across all three planes, stand here, and Uurgath and Urion stand somewhere the table cannot describe |
 
 ### Reading the numeral
@@ -302,6 +322,20 @@ The bookies paid at forty to one and watched her for a repeat for the rest of he
 
 The jump from II to III is the largest single gain in fidelity on a ladder, which is why an Essence III Auditor walked the Barn to death around the Harl Cross market. The full account of that night is on the [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Shell's page]], where the efficiency table by Stage also lives, with the rule for which to read: a read rung overrides the Stage's figure. And a good figure on the Thread column buys clean delivery and never an easy pull. A Thread V Weaver still pays in years, in blood and sometimes in everything, because what she is spending against is the distance of the result from likely, and no ladder has ever shortened that.
 
+### What a pull costs
+
+**A pull is priced by rung against distance from likely, as a share of the reserve.** The Measurewrights keep this table in pencil, and the people on it do not fill out forms. Read it for one result in one fight. A whole field is a great many of these, set beforehand, and it is paid for in years on top.
+
+| Rung | Already on its way (the strap is going) | Could go either way | Against the odds | Long odds | Next to impossible |
+|---|---|---|---|---|---|
+| **I · Touched** | Most of the reserve, and it often fails | All of it, and it usually fails | Out of reach | Out of reach | Out of reach |
+| **II · Drawn** | About half | Most of it | All of it, and it often fails | Out of reach | Out of reach |
+| **III · Spinner** | About a third | About half | Most of it | All of it, and it often fails | Out of reach |
+| **IV · Knotwright** | About a fifth | About a third | About half | Most of it | All of it, and it usually fails |
+| **V · Weaver** | About a tenth | About a fifth | About a third | About half | All of it, and it may still fail |
+
+A Work moves the failure on that table and leaves the share alone. A vow appears nowhere on it, because a vow spends the soul's own share and reaches for nothing above it. And what lies past the right-hand column is the Stage XII soul emptied to the floor with nothing to show for it, which the Archives hold on file several times over.
+
 ---
 
 ## What People Do About It
@@ -316,4 +350,4 @@ The jump from II to III is the largest single gain in fidelity on a ladder, whic
 
 **They argue about what it proves.** Measurewrights will tell you for free that the offer proves the Continuum (the whole lawful order of reality) reads biography, and for a fee that it proves no such thing. The priests of half a dozen faiths claim the name as a calling and the other half as an accusation. The Measurewrights' hall has produced four monographs on whether a class names a person's life or nudges it, and the only settled finding is that Wallbreakers have stopped reading them.
 
-*Read next: [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]], for where the name and the ladders show up, and [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]], for what it hands you.*
+*Read next: [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]], for where the name and the ladders show up; [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]], for what it hands you; [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System]], [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]] and [[The Magic System/The Soul and the Climb/Domains|Domains]], for the one concept getting louder; and [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the lens it all comes through.*

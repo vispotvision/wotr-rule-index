@@ -46,7 +46,7 @@ The word people use for the whole of what it shows is **the sheet**.
 **A window shows Grades, percentages, bars and levels.** A normal look gives the full sheet:
 
 ```
-[Mun Seo-yeon · Level 170 · Stage VI, Glory · Path: Spirit]
+[Mun Seo-yeon · Level 170 · Stage VII, Refraction · Path: Spirit]
 [Human, Sum-gol lineage]
 [Class: Auditor]
 [Aether I · Essence III · Thread Ø]
@@ -58,7 +58,7 @@ The word people use for the whole of what it shows is **the sheet**.
 [Reserve: 58%]
 ```
 
-From the top: name, [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Level]], [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]], which says which of the soul's three layers the Crystal leans on: the Aether Shell in the Physical World for Body, the Essence Core on the Soul Plane for Spirit, the Attraction Layer on the Plane of Fate for Fate. A soul on two Paths shows both, the one behind second (`Path: Body, Spirit`), and a Path only studied shows nowhere. Then race and lineage, which shape base stats and what comes easily. Then the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Class]], the name the soul has offered for how the person has lived, and under it the three ladders on one line, from Glory on: Aether Class for the Shell, Essence Class for the Core, Thread Class for the Layer, nearly always ending in Ø. Then the Eight Primaries with their Grades, each [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Trait with its level and each skill with its Grade]], the blessings, each on its own line, and the reserve. A Sub-Stat (one of the eight finer measures inside each Primary) appears when it is used or when it moves, and the full sixty-four remain there to study for anyone with the patience. Vows, crew bonds and contracts get their own lines when the owner has them.
+From the top: name, [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Level]], [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]], which says which of the soul's three layers the Crystal leans on: the Aether Shell in the Physical World for Body, the Essence Core on the Soul Plane for Spirit, the Attraction Layer on the Plane of Fate for Fate. A soul on two Paths shows both, the one behind second (`Path: Body, Spirit`), and a Path only studied shows nowhere. A registered card spells it out by Path Stage, the highest Stage whose gates that road has opened: `Body VII Mastered · Fate VI Walked 35%`. Then race and lineage, which shape base stats and what comes easily. Then the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Class]], the name the soul has offered for how the person has lived, and under it the three ladders on one line, from Glory on: Aether Class for the Shell, Essence Class for the Core, Thread Class for the Layer, nearly always ending in Ø. Then the Eight Primaries with their Grades, each [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Trait with its level and each skill with its Grade]], the blessings, each on its own line, and the reserve. A Sub-Stat (one of the eight finer measures inside each Primary) appears when it is used or when it moves, and the full sixty-four remain there to study for anyone with the patience. Vows, crew bonds and contracts get their own lines when the owner has them.
 
 **A commoner's window is small and useful.** It holds a Level, a few trade skills and her health, with no Essence and no class:
 
@@ -133,7 +133,7 @@ A sequence off a sharper afternoon, read in order by a mid-rank fighter with a b
 [Crew: The Wet Sevens · bond broken: Dov]
 ```
 
-**A vow shows its terms.** A vow is small Fate, a person binding their own probability, and anyone can make one. Spoken aloud, with or without a witness, it arrives on the window with its bargain and its terms. Breaking it lands at once, by those terms. Each vow counts against the two-Grade cap on boosts. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]:
+**A vow shows its terms.** A vow is small Fate, a person binding their own probability, and anyone can make one. It spends the soul's own share, where a pull reaches above it, which is why a Thread Ø fishwife can swear one that holds. Spoken aloud, with or without a witness, it arrives on the window with its bargain and its terms. Breaking it lands at once, by those terms. Each vow counts against the two-Grade cap on boosts. See [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]:
 
 ```
 [Vow: "This hand stays down until he is dead."]
@@ -232,7 +232,7 @@ He wept for joy and rode out, and he was not unseated. Lances broke on him, and 
 
 A curse is often a blessing with terms you did not read, or from a giver who does not care what you want. Nobody can tell at first, and some are both. The [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|sailor's Favor of the Tide-Mother]] says *You will not drown*, and every sailor who has had that line will tell you it is true. Read it again.
 
-Those who hold Hataraki, the Moto's governing power, can take a blessing back or remove it, which is one reason people are so afraid of them, and the line simply goes:
+Those who hold Hataraki, the Moto's governing power, can take a blessing back or remove it, which is one reason people are so afraid of them. It takes two Works or two Moto, and the line simply goes:
 
 ```
 [Blessing: removed]
@@ -242,9 +242,9 @@ Those who hold Hataraki, the Moto's governing power, can take a blessing back or
 
 ## When Your Own Window Lies
 
-**The soul does not lie to its owner of its own accord,** with the one exception above. **A strong Limina user can.** Limina is the Family of entropy, void and mind, and a strong enough hand there can reach the report itself: show false numbers, hide a line, tell a man at nine percent that he has plenty.
+**The soul does not lie to its owner of its own accord,** with the one exception above. **A strong mind-worker can.** The arts that do it run on the Wellsprings of memory, sleep and reflection (Letheveil, Hypnather, Mirithane and their neighbors), and a strong enough hand there can reach the report itself: show false numbers, hide a line, tell a man at nine percent that he has plenty.
 
-It stays a violation with a cost, on the victim and on the user both, and every realm's law around it is an argument. Gnosis gives a fair counter. A stronger Perception notices that the report has stopped matching the soul, and everyone has the plain counter of their own body, since a window can say eighty percent and your lungs will still tell you the truth. Veterans who have fought Limina users count their breath against their reserve line, and anyone who has lost a friend that way does it for life.
+It stays a violation with a cost, on the victim and on the user both, and every realm's law around it is an argument. Gnosis gives a fair counter. A stronger Perception notices that the report has stopped matching the soul, and everyone has the plain counter of their own body, since a window can say eighty percent and your lungs will still tell you the truth. Veterans who have fought mind-workers count their breath against their reserve line, and anyone who has lost a friend that way does it for life.
 
 ---
 
@@ -288,7 +288,7 @@ Since nobody can see your window, your window is whatever you say it is, until s
 [Terms: every chance goes against you until it is unsaid.]
 ```
 
-Lawyers fight over the exact wording, and they eat well on it. *As my sheet shows* and *as I am* are different oaths. A man with a lying blessing can swear to it in perfect safety, and so can a man whose window has been tampered with. A Bench in the Concord spent four years on whether a false Level sworn on a Limina-touched sheet was perjury, and gave up when both advocates were found to have been touched.
+Lawyers fight over the exact wording, and they eat well on it. *As my sheet shows* and *as I am* are different oaths. A man with a lying blessing can swear to it in perfect safety, and so can a man whose window has been tampered with. A Bench in the Concord spent four years on whether a false Level sworn on a mind-touched sheet was perjury, and gave up when both advocates were found to have been touched.
 
 **At home, you push.** Everybody reads their own sheet, and that shapes a society to its roots. Parents push their children from the first Grade. A six-year-old in a Hammerford market will tell you her Sums before her name, because her mother made her practice saying it. Whole villages know whose son has which skill, and matches are made on it, on the parents' word.
 
@@ -310,4 +310,4 @@ The oldest quarrel in the Measurewrights' hall, carried on at weddings, in long 
 
 The Archives take no position. They note that the window has been asked, by a great many people, in a great many tongues, and it reports only that their reserve is down.
 
-*Read next: [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]], and [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].*
+*Read next: [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]], [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]], and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] for what the top line of the sheet is saying.*

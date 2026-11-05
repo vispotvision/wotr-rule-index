@@ -73,7 +73,7 @@ The northern shield's basement rock dates here. So does the flood-basalt provinc
 
 Two materials in current use are era-one products and cannot be made by any process now known.
 
-> **Titanstone** · T7. The shattered remains of slumbering World Spirits. Near-immortal density, pulses with tectonic will, and each block carries a metaphysical weight sufficient that a cracked one takes a city down with it. Found, never quarried.
+> **Titanstone** · T7. The shattered remains of slumbering [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans#World Spirits|World Spirits]]. Near-immortal density, pulses with tectonic will, and each block carries a metaphysical weight sufficient that a cracked one takes a city down with it. Found, never quarried.
 >
 > **Crevice Shale** · T9. The Crevice itself. Fractures nearby Realm law. Forbidden to move, hold, or trade under Article III of the Concord Codex, which is a law about a rock and is the only such law the Accord has ever written.
 
@@ -224,7 +224,7 @@ flowchart TD
 
 #### Circa 90 to 130 · The water ceiling falls
 
-Phreatis-fed lift arrays, Fluxia family, Fluid Dynamics. A continuous inscribed circuit that raises water without a moving part and without a beast, and which does not tire and does not stop as long as it is fed. Fed means a crew: array-keepers on shifts who pull Aether from the ground at the pit head, refine it in the Soul Crystal, and drive the Essence into the contacts by hand, for an hourly wage they are entitled to renegotiate. Within forty years, shafts across the western quarter passed the sixty-fathom line for the first time in the reckoned history of the world, and kept going. The deep ore, which had been understood since the Antediluvian period to belong to nobody, abruptly belonged to whoever could pay for an array.
+Phreatis-fed lift arrays. A continuous inscribed circuit that raises water without a moving part and without a beast, and which does not tire and does not stop as long as it is fed. Fed means a crew: array-keepers on shifts who pull Aether from the ground at the pit head, refine it in the Soul Crystal, and drive the Essence into the contacts by hand, for an hourly wage they are entitled to renegotiate. Within forty years, shafts across the western quarter passed the sixty-fathom line for the first time in the reckoned history of the world, and kept going. The deep ore, which had been understood since the Antediluvian period to belong to nobody, abruptly belonged to whoever could pay for an array.
 
 > This is the hinge of the entire document. Everything after it is consequence.
 

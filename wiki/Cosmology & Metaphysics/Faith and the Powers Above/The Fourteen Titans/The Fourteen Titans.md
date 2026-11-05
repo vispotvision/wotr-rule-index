@@ -27,6 +27,14 @@ The distinction is administrative before it is theological. An Archon can be con
 
 This is why the Titans have no theology worth the name and an enormous quantity of engineering. The Stone Choir listens to rock harmonics before cutting. The Undercrypt Keepers whisper equations at buried buttresses. The Ledger Monks refuse to let a ruler erase a predecessor's failure from a Dynasty Hall. Every one of those orders is doing maintenance, and would be insulted to hear it called prayer.
 
+The catechism at the head of this page is a catechism, and catechisms like to be tidy. "Neither wants anything" is true of a Titan and true of a Hollow Throne, which is the law with nobody home. An occupied Throne can notice you, as anyone who has pulled the wrong thread will tell you if they still have the use of their mouth.
+
+**Where a Titan comes from.** Titans descend from Archons. An Archon is a principle enthroned, and a Titan is the same principle bearing weight, come down out of the throne room and into the load. The Epochs were the forging parties, because a law can descend all it likes and still needs somebody to give it a back. Dazkar's law comes down from Urion, and it was Bairos and Aegor who forged a body to hold it.
+
+**What a Titan is to the Wellsprings.** Titans are the Wellsprings themselves, and [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] are their manifestations. Each of the Sixty is one way a Titan's law shows up, carried by [[Cosmology & Metaphysics/The Making of the World/Omnara and the Division|Aether]] (mana), much as a burn, a lamp and a hot wind are all ways one fire shows up. A soul that tempers on a Wellspring has based itself on some part of a Titan's law, which is a great deal less than an introduction. The Titans bear all three planes, so the Sixty make up all three, and a Wellspring's kind names its home: Wild to Aegor, Spirit to Ashura, Fate to Bara, Medium to the Veil. Every entry in the register names its Titan. The Sixty stay sixty, however many ways the old books count them.
+
+**A Titan walks no Path.** A [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] is a soul leaning on one layer of itself, and a Titan is no such thing. It has no lean, no ladder and no Stage, and nothing a window could report. Practitioners who call a Titan "a Body power" are reading the Order column below, which tells you where the weight sits and nothing about the Titan.
+
 > Fourteen Titans are seated against fourteen Archons, and the symmetry is close enough that most mortal registers assume a one-to-one correspondence. **It does not hold.** Dazkar grounds Urion cleanly and Chronaeus grounds Valen cleanly, and after that the pairs go ragged. Kaldrion answers to nothing in the Archonic roster at all. The Measurewrights hold, without enthusiasm, that this is what an honest count looks like and that the neat version is the one that would need explaining.
 
 Above the Titans stand the **Epochs**. Aegor, Bairos and Ashura appear throughout the entries as the forging and binding parties, and they are not Titans and are never to be filed as such. Where a Titan's Bonds field names them, the field is recording provenance rather than alliance. In the days of the Physical Epochs, Bara (whom the Archonic registers record as Bairos), Ashura and Aegor walked in human form. What those days left lying about, and what the Great Spirit War left after them, are the dead and dangerous battlefields, the relics people kill for and the old beings who remember, and every entry below keeps running into them.
@@ -37,9 +45,9 @@ A warning on figures, from the Guild's own [[Cosmology & Metaphysics/Ages and Re
 
 ## The Seating
 
-The orders describe what layer of the world the Titan is holding rather than any rank between them. Nothing in the register establishes a hierarchy and the Guild has repeatedly declined to invent one.
+The orders describe what layer of the world the Titan is holding rather than any rank between them, and each one's law reaches past its order: the Bonds that tie a Titan to Bairos are how it reaches Fate. Nothing in the register establishes a hierarchy and the Guild has repeatedly declined to invent one.
 
-A word on the **Ground** field in each entry. It names what the old registers call that Titan's Wellspring. The sixty Wellsprings proper are kinds of Aether, each acting on a Soul Crystal in its own way and each standing for a principle and a transformation, and each has sites where its Aether pools (a Core, in common speech). The Titans' Grounds are written in the same words at a much larger scale, as a law and a place at once, and the Measurewrights argue over whether they should be counted among the Sixty at all. The Codex line closing each entry seats the working on one of the Sixty by name, which is the part a practitioner can use. Vohrin is the register's one exception: its line names the Titan's own power, worked at Wellspring level and filed beside Caloria under [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|a marked note on that Family's page]], and the Sixty stay sixty.
+A word on the **Ground** field in each entry. It names what the old registers call that Titan's Wellspring, and the old registers are right: a Ground is the Titan's law at full scale, a law and a place at once. The [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|sixty Wellsprings]] proper are that law in portions a soul can use. Each is a kind of Aether, acting on a Soul Crystal in its own way and standing for a principle and a transformation, and each has sites where its Aether pools (a Core, in common speech). So the Measurewrights no longer argue over whether Grounds should be counted among the Sixty. You can temper on Ignivale, and you can no more temper on Omnis's Breath than you can drink a sea. The Codex line closing each entry seats the working on one of the Sixty by name, which is the part a practitioner can use. Vohrin is the register's one exception: its line names the Titan's own power, worked at Wellspring level, with the northern frost arts drawing on it directly and outside the Sixty, and the Sixty stay sixty.
 
 The old registers are also loose with the word **Essence**, and I have kept their wording here because they are the only witnesses we have. Essence proper is a soul's own substance, Aether refined in the Crystal and stamped with identity. Where one of these entries has Essence pooling in the ground, storming across the Veil or overcharging a region, read it as Aether, or as what the dead and the very large have left behind them, and a Measurewright will think better of you.
 
@@ -48,10 +56,10 @@ The old registers are also loose with the word **Essence**, and I have kept thei
 | **ATLA'ZON** | *The World-Binder* | Physical | Orientation, duration, adhesion |
 | **GAIA** | *The Living Mantle of Form* | Physical | Matter, mortality, material harmony |
 | **OMNIS** | *The Skyfather of Draconis* | Spiritual Seat | Aspiration, breath, Essence circulation |
-| **FLORWYN** | *The Verdant Weaver* | Spiritual Seat | Restorative entropy, reincarnation |
+| **FLORWYN** | *The Verdant Weaver* | Spiritual Seat | Restorative entropy, what the faiths call reincarnation |
 | **DAZKAR** | *The Arbiter of Purganeth* | Spiritual Seat | Proportion, restitution, penance |
 | **NYSERA** | *The Dreaming Veil* | Spiritual Seat | The boundary between imagined and real |
-| **SYLORIN** | *The Ferryman of Etherea* | Spiritual Seat | Continuity of consciousness across lives |
+| **SYLORIN** | *The Ferryman of Etherea* | Spiritual Seat | Continuity of pattern across lives |
 | **ILGRIMM** | *The Whisper of Helströva* | Spiritual Seat | Fear as function, knowledge held under wisdom |
 | **VALMIR** | *The Titan of the Crevice* | Strata | Collapse, threshold, permission to end |
 | **KALDRION** | *The Hexthrone* | Strata | Load, bearing, honest measure |
@@ -61,6 +69,14 @@ The old registers are also loose with the word **Essence**, and I have kept thei
 | **VOHRIN** | *The Titan of Niflheim* | Abyssal Depths | Entropy's peace, the settling of endings |
 
 > Call the Abyssal Depths the back of the house, whatever the shrine schools say about an enemy quarter of the pantheon. The order in which the three operate is fixed. **Prometheus burns what is false. Zar'thuun unmakes what is excess. Vohrin stills what is left so it can be built upon.**
+
+---
+
+## World Spirits
+
+The word gets used as a Stage and as a kind of being, and in the Guild's register it is one thing. A **World Spirit** is a soul whose Domain claim has grown into a place. It began as a person, or a beast, or a dragon. At [[The Magic System/The Soul and the Climb/The Sixteen Stages|Principality, Stage XIII]], the Continuum registers the law it embodies and the local biome starts carrying its doctrine, which the trade calls the first World Spirit threshold. At Zenith, Stage XIV, a vacant Throne recognizes it, and that is full World Spirit, a place with an opinion. Because a Domain is a claim made on the Attraction Layer, every World Spirit stands under Fate, whichever road it walked to get there.
+
+That makes them the near opposite of a Titan. A Titan is a law that was given a load and never had a self to lose. A World Spirit is a self that has become a law and is slowly losing the rest of it. The old ones sleep. Slept long enough, they set like a cooling mountain and become **Titanstone**, found and never quarried, which is why a cracked block can take a city down with it and why the [[Cosmology & Metaphysics/Ages and Reckoning/The Four Ceilings|Four Ceilings]] argue about it in such careful language. The name is a stonecutters' mistake and every Titan-order monk will correct you on it at length.
 
 ---
 

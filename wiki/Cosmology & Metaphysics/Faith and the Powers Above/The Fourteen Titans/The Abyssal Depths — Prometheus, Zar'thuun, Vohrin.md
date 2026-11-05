@@ -40,7 +40,7 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 
 ### The Titan-Keyed Art: *The Pyric Refinement*
 
-*Supplementary · Caloria · Exuroth · Thermodynamics · Zenith+ · [Ra] Flame + [Asa] Creation*
+*Supplementary · Exuroth · Zenith+ · [Ra] Flame + [Asa] Creation*
 
 **Trigger**  The caster must name, honestly, one thing about the target fragment or artifact that is false or unworthy. A guess does not open the working.
 
@@ -56,7 +56,7 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 
 **What nobody knows**  Why the flame reads a deliberate forgery as false and a sincere error as true. The Pyric Scribes have branded four centuries of argument about this onto their own skin and settled nothing.
 
-*Codex: [Ra] Flame + [Asa] Creation / Exuroth / Caloria / Thermodynamics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Ra] Flame + [Asa] Creation / Exuroth / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -88,7 +88,7 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 
 ### The Titan-Keyed Art: *The Closing Eye*
 
-*Defensive · Limina · Nihiloth · Abstract/Entropic Systems · Revelation+ · [Thru] Hollow + [Au] Death*
+*Defensive · Nihiloth · Revelation+ · [Thru] Hollow + [Au] Death*
 > One of only two Titan-Keyed workings gated above Zenith. **Stage XV, Revelation.**
 
 **Trigger**  A region already showing measurable Essence overcharge. Visible saturation, unstable ambient resonance. The working has no purchase on a stable field.
@@ -105,7 +105,7 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 
 **What nobody knows**  Why no one has ever noticed which memory they lost. Four thousand years of casting, by the Order's own reckoning, which the Guild's Errata would cut down hard, and not one recorded instance of a survivor identifying the gap.
 
-*Codex: [Thru] Hollow + [Au] Death / Nihiloth / Limina / Abstract-Entropic Systems / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Thru] Hollow + [Au] Death / Nihiloth / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -125,7 +125,7 @@ A colossal frost giant half-buried in glacial crystal, face serene and blind, hi
 
 ### The Load
 
-Entropy's peace, the end state of energy and thought. He stills motion after Valmir's collapse and Prometheus's fire have finished their work, and calcifies what remains so it can be rebuilt upon. He keeps the Aetheric Dead Zone, a metaphysical cold sleep where unredeemed souls rest until the next rebirth cycle. Without him, decay never settles and every ending unravels into endless noise.
+Entropy's peace, the end state of energy and thought. He stills motion after Valmir's collapse and Prometheus's fire have finished their work, and calcifies what remains so it can be rebuilt upon. He keeps the Aetheric Dead Zone, a metaphysical cold sleep where the Echoes of the unredeemed rest until their pattern is wanted again, which for most of them is never. Without him, decay never settles and every ending unravels into endless noise.
 
 ### The Record
 
@@ -137,7 +137,7 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 
 ### The Titan-Keyed Art: *The Stillwater Rite*
 
-*Defensive · Vohrin, outside the Sixty, filed beside Caloria · Thermodynamics · Revelation+ · [Vor] Return + [Cro] Cycle*
+*Defensive · Vohrin, outside the Sixty · Revelation+ · [Vor] Return + [Cro] Cycle*
 > The second of the two workings gated above Zenith. **Stage XV, Revelation.** Nobody in the Accord's living register holds both this and *The Closing Eye*.
 
 **Trigger**  The target must already be in genuine crisis. Dying, catastrophically wounded, or cursed past normal stabilization. It will not take on a target who could still be saved by ordinary means.
@@ -154,4 +154,4 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 
 **What nobody knows**  Why the held forget purpose before they forget pain. Every other kind of erasure in the register runs the other way round.
 
-*Codex: [Vor] Return + [Cro] Cycle / Vohrin, outside the Sixty, filed beside Caloria / Thermodynamics / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Vor] Return + [Cro] Cycle / Vohrin, outside the Sixty / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*

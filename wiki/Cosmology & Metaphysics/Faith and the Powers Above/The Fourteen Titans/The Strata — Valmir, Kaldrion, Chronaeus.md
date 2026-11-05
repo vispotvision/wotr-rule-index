@@ -40,7 +40,7 @@ Aegor, Body, Epoch. Stabilizes the form before it shatters. Bairos, Fate, Epoch.
 
 ### The Titan-Keyed Art: *The Canyon's Patience*
 
-*Offensive · Vectoria · Fractura · Mechanics · Zenith+ · [Uur] Disruption + [Vorn] End*
+*Offensive · Fractura · Zenith+ · [Uur] Disruption + [Vorn] End*
 
 **Trigger**  The target must already be structurally or morally compromised. The glyph guides an existing fault line and has never yet created one.
 
@@ -56,7 +56,7 @@ Aegor, Body, Epoch. Stabilizes the form before it shatters. Bairos, Fate, Epoch.
 
 **What nobody knows**  Why the limit is thirty degrees. Every recorded attempt to push past it fails at the same figure regardless of Stage, structure or Wellspring saturation.
 
-*Codex: [Uur] Disruption + [Vorn] End / Fractura / Vectoria / Mechanics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Uur] Disruption + [Vorn] End / Fractura / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -88,7 +88,7 @@ Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion,
 
 ### The Titan-Keyed Art: *The Deep Grid's Verdict*
 
-*Supplementary · Vectoria · Petralon · Mechanics · Zenith+ · [Th] Foundation + [Ur] Balance*
+*Supplementary · Petralon · Zenith+ · [Th] Foundation + [Ur] Balance*
 
 **Trigger**  Cast directly against a structure, an army or a soul whose bearing capacity is genuinely in question. A rhetorical doubt will not open it.
 
@@ -104,7 +104,7 @@ Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion,
 
 **What nobody knows**  Why this working alone costs the caster nothing. Every other entry in the register takes something, and the Stone Choir has spent nine hundred years arguing about what this one takes instead.
 
-*Codex: [Th] Foundation + [Ur] Balance / Petralon / Vectoria / Mechanics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Th] Foundation + [Ur] Balance / Petralon / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
 
@@ -136,7 +136,7 @@ Valen, Time. Defines the covenant of sequence, which Chronaeus enforces the pace
 
 ### The Titan-Keyed Art: *The Era-Forge's Toll*
 
-*Offensive · Limina · Lethegraal · Abstract/Entropic Systems · Zenith+ · [Cro] Cycle + [Len] Line*
+*Offensive · Lethegraal · Zenith+ · [Cro] Cycle + [Len] Line*
 
 **Trigger**  A conflict or an era that has genuinely stalled. A merely slow one will not serve; it must be structurally unable to resolve on its own.
 
@@ -152,4 +152,4 @@ Valen, Time. Defines the covenant of sequence, which Chronaeus enforces the pace
 
 **What nobody knows**  Why the compression ratio varies by a factor of five and nothing predicts it. Not the tension, not the Stage, not the size of the Domain. The Ledger Monks record the figure after the fact and have never once called it in advance.
 
-*Codex: [Cro] Cycle + [Len] Line / Lethegraal / Limina / Abstract-Entropic Systems / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Cro] Cycle + [Len] Line / Lethegraal / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

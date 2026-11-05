@@ -49,8 +49,8 @@ At its **lowest expression**, Kineris grants enhanced kinetic awareness, the abi
 
 > ***Divine Edict*** · *"All paths lead to the Still Gate. Only peace walks through it."*
 
-Auren governs the **Law of Transition**, the truth that nothing truly ends, but all must pass through stillness. He maintains the veil between life and the echoing plane known as the **Pale Realms**.
-> To die within his silence is to be remembered truthfully; to resist it is to become an Echo, wandering, half-alive, half-forgotten. His intervention ended the **War of Seven Dawns**, when countless dead refused the passage and formed a sentient necrotic Domain, sealing it in eternal dormancy.
+Auren governs the **Law of Transition**, the truth that nothing truly ends, but all must pass through stillness. He keeps the threshold between life and the echoing shallows of the Soul Plane known as the **Pale Realms**.
+> To die within his silence is to be remembered truthfully; to resist it is to leave an Echo that will not settle, wandering, half-alive, half-forgotten. His intervention ended the **War of Seven Dawns**, when countless dead refused the passage and formed a sentient necrotic Domain, sealing it in eternal dormancy.
 
 #### Mortaris: The Magic of Passage and Silence
 

@@ -8,7 +8,7 @@ tags:
 
 > The Veil is a condition with no address: the state of being between planes, the moment of transition where the ordinary separation between matter, soul, and fate becomes navigable.
 
-When the grain factor Bardolph Mowle of Salt Cross buried his wife, he hired a Veil-thread singer named Merrin Two-Bodies to fetch him her last word, and he held the wake on the green above the Salt Cross plague pits, where three thousand had gone into the lime in a single summer and the ground ran Thin (a place where the wall between planes wears close). He paid for a striped pavilion, forty musicians and a table of roast swans with their feathers put back on, and he invited the county, because he wanted it witnessed. Merrin sat down in a gilded chair with a cup in her hand, sang her thread until her coat ran black-violet at the edges, and crossed. Her body stayed behind in the chair, upright and smiling slightly, while the band played and the swans went round. A crossing runs under a minute at the threshold's edge, and she was gone for four. At the fifth, Mowle's nephew, who was young and well into the wine, took her by the shoulder and shook her to see if she was shamming.
+When the grain factor Bardolph Mowle of Salt Cross buried his wife, he hired a Veil-thread singer named Merrin Two-Bodies to fetch him her last word, and he held the wake on the green above the Salt Cross plague pits, where three thousand had gone into the lime in a single summer and the ground ran Thin (a place where the fold between the Physical and the Soul Plane wears close). He paid for a striped pavilion, forty musicians and a table of roast swans with their feathers put back on, and he invited the county, because he wanted it witnessed. Merrin sat down in a gilded chair with a cup in her hand, sang her thread until her coat ran black-violet at the edges, and crossed. Her body stayed behind in the chair, upright and smiling slightly, while the band played and the swans went round. A crossing runs under a minute at the threshold's edge, and she was gone for four. At the fifth, Mowle's nephew, who was young and well into the wine, took her by the shoulder and shook her to see if she was shamming.
 
 A crossing cannot be aborted fast. She came back too hard and too shallow, and something came with her: a split in the air above the swan table, tall as a barn door, deep violet along its lips, with a color at its center on which no two witnesses have ever agreed. That was a rupture, a channel struck clean through the Veil, and it stayed struck. Out of it, down onto the good linen, condensed the unresolved content of three thousand plague dead, in the shape of Echo Beasts (what crosses a rupture and sets on this side like a precipitate), each with the character of what formed it and none of its mind, big as carts and bent double, wet in the lungs, and very frightened. The nephew died first, and a third of the band. Four Concordia practitioners rode in from the Guild hall at Ambrel through the night in their sea-blue cloaks, and they sang in relays for three days to re-insulate the channel, and two of them went home to bed for a month. Merrin lived, with more Soul Drift counted against her in one afternoon than most of her trade collect in a career. She went back in the next spring, on the advice of a school I will come to below, and Mowle never did get the word. Measurewrights have argued for sixty years over whether the shake struck the channel or the pits were going regardless, and the argument has the great merit of being unwinnable.
 
@@ -16,11 +16,42 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 ---
 
+## What the Veil Is
+
+Everyone calls it a wall, and everyone is thinking of the part they have bumped into. The Veil is the skin of the lower realities. The [[Cosmology & Metaphysics/The Making of the World/Omnara and the Division|Physical Plane and the Soul Plane]] both lie inside it, and every realm anyone has ever named is a region inside it. It has no address because there is nowhere it is not: it is everywhere, and thinner in some places.
+
+Picture a wineskin with a pleat stitched down the middle, so that one skin makes two chambers. Wine in either chamber is still inside the skin, and a person can press a finger against the pleat from one side and feel a good deal of what is on the other. That gives the two surfaces that matter.
+
+- **The inner fold** is the pleat, running between the Physical and the Soul Plane. It is what a crossing crosses, it is thick or thin by the place, and everything below about Thin zones, ruptures and Drift (the loosening a soul takes from each crossing) is an account of this one surface.
+- **The outer face** is the skin itself, where the lower realities meet Fate. Nothing is on the far side of it but what both sides depend on, which is why nobody has mapped it and why "beyond the Veil" means something quite different in the mouth of a thread singer and a Moto. A thread pulled down from Fate comes in through the outer face, and the old books call that surface the Astral Fold.
+
+The Plane of Fate is therefore outside the skin, if it is anywhere, and the Measurewrights who say "perhaps" at this point have earned it. The [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans|Titans]] bear what is inside and carry a law out to the edge of it, and a Wellspring whose kind is Medium is one at home on the skin itself, which is why it is at home on all three.
+
+### Where the realms sit
+
+A realm is a region inside the Veil, on one plane or across the fold. People write as though these were separate worlds because the way to them is long, and they are about as separate as the cellar and the attic.
+
+| Region | Where it lies | Whose |
+|---|---|---|
+| **The waking world** (the Grand World and its Four Quarters) | Physical | Aegor's, held up by Atla'zon and Gaia |
+| **The Adamant Vault** | Physical, under all of it | Aegor's own |
+| **Draconis, Edenis, Purganeth, Virelion, Etherea, Helströva** | Soul Plane: the [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm|six realms of the Spiritual Seat]]. Etherea's river runs on through the fold and down | One Titan each |
+| **The Empyreal** | Soul Plane, where the Soul-Echoes drift | Ashura's |
+| **The Pale Realms** | Soul Plane, the shallows just past the fold, where Echoes settle | Auren keeps the threshold |
+| **The Crevice** | Across the inner fold, a permanent scar joining the two sides | Valmir |
+| **Theros, Abythron, Niflheim** | The deep end of both sides, under the Crevice, felt in rock and in soul alike | The Abyssal Depths |
+| **Utopia** (Highspire, Midreach, Lowmere) | Soul Plane, hard against the outer face, which is why its law reads so much like a contract | The [[Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host|Celestial Host]] |
+| **The Sands** | The Zettari's plane, which their own texts call [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Paths|the Paths]]. They place it themselves, and the Guild has no survey | The Zettari |
+
+The Loom of Stars is on no such list, being what the whole lattice looks like from the outer face. Nor is Fate, which has no regions, and "plane" is a courtesy.
+
+---
+
 ## Cosmological Classification
 
 ### Summary card
 
-**Effect** · A practitioner perceives the Physical and Soul Planes at once, crosses briefly into the threshold between planes, works there at length, or at the top carries others across.
+**Effect** · A practitioner perceives the Physical and Soul Planes at once, crosses briefly into the threshold of the inner fold, works there at length, or at the top carries others across.
 
 **Cost** · Essence priced by the ground: a Baseline crossing is 2 percent of full reserve, a Thin zone half to 1 percent, a Thick zone 5 to 20 percent. Every crossing also adds Soul Drift, which never comes back.
 
@@ -32,13 +63,11 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 ### Codex line
 
-**Wellspring** · Transference, the Living Exchange (primary); Anamnesis and Oneirion (secondary); Somnalis, Eidolyn, Tenebra and Mortalis for particular operations.
+**Path** · Spirit, with the Fate and Body gates below.
 
-**Family** · Spatium, with Limina for Anamnesis and Oneirion.
+**Lens** · Transference, the Living Exchange (primary); Anamnesis and Oneirion (secondary); Somnalis, Eidolyn, Tenebra and Mortalis for particular operations.
 
-**Physics Domain** · Evanescent coupling: a wave leaks through a barrier it cannot travel in and resumes on the far side if the barrier is thin enough.
-
-**Category** · Harmonia for Bifold Perception and crossings; rupture containment is Concordia work.
+**Form** · Sing, the Harmonia trade, for Bifold Perception and crossings; rupture containment is Concordia work.
 
 **Skill** · Thread-singing, with the chain held internally from Refraction.
 
@@ -70,7 +99,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 ### Physics
 
-**Phenomenon** · The Veil is a condition with no address: the membrane where one plane's law softens into another's. Crossing it is evanescent coupling, a wave leaking through a barrier it cannot travel in and resuming on the far side if the barrier is thin enough. Nearly all of it lies between the two lower realities, the Physical and the Soul. Where it touches the Plane of Fate, which stands above both and is no reality, what lies past it is less a far side than the thing both sides depend on.
+**Phenomenon** · The Veil is a condition with no address: the membrane where one plane's law softens into another's. Crossing its inner fold is evanescent coupling, a wave leaking through a barrier it cannot travel in and resuming on the far side if the barrier is thin enough. Where its outer face touches the Plane of Fate, which stands above both lower realities and is no reality, what lies past it is less a far side than the thing both sides depend on.
 
 **Law** · Transmission falls exponentially with thickness, T ≈ e^(−2κd); ruptures follow dielectric breakdown (an insulator failing into a self-sustaining channel); Drift follows per-cycle fatigue, damage summed per crossing until it reaches one.
 
@@ -95,13 +124,13 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Aether** · The Veil is the Aether stratum's own geography. A Thin zone is Residue, carries ambient Resonance, and deafens Harmonists; ambient noise inverts saturation, so Thick zones protect mortals, while a rupture risks a Crystal Fracture Event for anyone standing in it.
 
-**Wellspring** · Transference, the Living Exchange (Spatium), primary: two Crystals in tune and near exchange Essence along a gradient, with coupling falling off sharply with distance; it strengthens Harmonics Synergy, Projection and Tempering Conversion.
+**Wellspring** · Transference, the Living Exchange, primary: two Crystals in tune and near exchange Essence along a gradient, with coupling falling off sharply with distance; it strengthens Harmonics Synergy, Projection and Tempering Conversion.
 
-**Wellspring** · Anamnesis, the Wellspring of Remembrance (Limina): objects store their history readably; it reads a location's Mnemata, sharper and more erasive in Thin zones.
+**Wellspring** · Anamnesis, the Wellspring of Remembrance: objects store their history readably; it reads a location's Mnemata, sharper and more erasive in Thin zones.
 
-**Wellspring** · Oneirion, the Wellspring of Dream (Limina): a working acts on the manifold, not the room; it is Bifold Perception's second grammar.
+**Wellspring** · Oneirion, the Wellspring of Dream: a working acts on the manifold, not the room; it is Bifold Perception's second grammar.
 
-**Secondary** · Somnalis (Fluxia), Eidolyn and Tenebra (Limina) and Mortalis (Vitalia) attach to particular operations.
+**Secondary** · Somnalis, Eidolyn, Tenebra and Mortalis attach to particular operations.
 
 **Inherited failures** · Transference's reverse coupling empties the practitioner into a depleted ally and couples every stabilized spirit back to them; Anamnesis's thermal resetting erases what it reads; Oneirion's projection error lands a correct working nowhere. Any of them can be induced from outside.
 
@@ -168,7 +197,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Carried** · Anyone ever carried through a crossing is already counting Drift, told or not; a soulguard cannot decline a soul.
 
-**Look up** · The Veil entry's Access and Perception gates and Thin, Thick and Rupture structure; the Drift scale; Transference's Failure in the Spatium entries; the Silence Realm register; records of how often a practitioner has gone in.
+**Look up** · The Veil entry's Access and Perception gates and Thin, Thick and Rupture structure; the Drift scale; Transference's Failure on its own entry in the Sixty; the Silence Realm register; records of how often a practitioner has gone in.
 
 ---
 
@@ -184,13 +213,13 @@ Ysolde Carrow is the entry every clerk knows. She was a thread singer of Realiza
 - **The bottom of a deep dungeon.** The Deeps of an old [[The Bestiary/Dungeons|dungeon]] thin the Veil and the Heart thins it further, so whoever has killed their way that far stands nearer another plane than any singer in a gilded chair. The Well's law holds the door, and what guards the Heart generally stands in it.
 - **A high-Stage art.** A handful of arts, taught in no hall, carry the body where the crossing art carries only the awareness. The roll credits them to people at Emanation and above, the floor for carrying others, and it lists each one by owner and by what became of the owner.
 
-**Why it costs what it costs.** It is the same coupling on a far worse account. Transmission falls exponentially with what has to pass, and a whole body, with all its weight and the Crystal seated in it, is a great deal more to pass than an awareness and a shift of Essence. Nobody has ever found this to be a harder crossing. It is a different order of expense, and no reserve makes it cheap.
+**Why it costs what it costs.** It is the same coupling on a far worse account. Transmission falls exponentially with what has to pass, and a whole body, with all its weight and the Crystal seated in it, is a great deal more to pass than an awareness and a shift of Essence. Nobody has ever found this to be a harder crossing. It is a different order of expense, and no reserve makes it cheap. All three roads run through the inner fold. The outer face has a shorter heading on the roll and very few names under it, since a body past that surface has nothing to stand on.
 
 **The price.**
 
 | What it takes | How it lands |
 |---|---|
-| **Reserve** | The way in spends as a Thick crossing at its worst, and there is no Aether to pull on the far side, since Aether is the Physical Plane's medium. You have what you walked in with |
+| **Reserve** | The way in spends as a Thick crossing at its worst, and there is no Aether a body can pull on the far side, since the medium may be everywhere but a body draws it in through its standing in the Physical World, and there it has none. You have what you walked in with |
 | **Drift** | A body on the far side counts as sustained liminal entry from the first step: 3 points, then 1 a minute, and it never comes back. Ninety-seven minutes makes a Veil Pilgrim, with no chair to come back to |
 | **The clock** | The far side keeps its own hours. A traveler may come home to a dead spouse, a sold house and an arrears notice |
 | **The body** | Flesh has no standing on the Soul Plane, where what a thing is counts as where it stands, or on the Plane of Fate, which stands above both realities and is not one itself, and where the odds are the ground. Something is always left there, and the window does not always say what |

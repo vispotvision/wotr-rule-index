@@ -125,7 +125,7 @@ Output is the creature's hardest recorded working, by order of magnitude. **R** 
 | **Goliath** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Stoneform and endurance, and Wellspring Channeling on the passes it guards |
 | **Lamia** | T5 | Field-bane (~10⁴ J) | R | **Road-bane** | Dreamweave reaches sleepers beyond the veil. The Commission rates it T5 for the coven; the body is weaker than most predators |
 | **Living Armor** | T5 | Field-bane (~10⁶ J) | P, W | **Hamlet-bane** | Immune to pain and fatigue, and run on bound Wellspring Essence. The Commission rates it T5 for contingents that learn |
-| **Minotaur** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Resilient Hide, and power running on Materia flow in its labyrinth |
+| **Minotaur** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Resilient Hide, and power running on the flow of stone in its labyrinth |
 | **Cyclops** | T5 | Road-bane (~10⁸ J) | P, W | **Town-bane** | Regenerative Resilience fed by the mountain Wellspring it guards |
 | **Basilisk** | T5 | Hamlet-bane (~10⁹ J) | P | **Town-bane** | The gaze remakes a body; Stone Hide resists both steel and working |
 | **Cockatrice** | T5 | Hamlet-bane (~10⁹ J) | W | **Town-bane** | The gaze, and the corrupted Wellspring zones it nests in |
@@ -424,7 +424,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 | **Faisal's Choir**, one eidolon | a Stage VIII Master | 265,300 EU | 0.92, the summoner's | 2.44 × 10¹¹ J, A | **Ravager** | not rated | sustain 53,050 EU/s against a 2,850,000 EU reserve: empty in 54 s, Starvation in 48 |
 | **Faisal's Choir**, all seven | a Stage VIII Master | 1,857,100 EU | 0.92 | 1.71 × 10¹² J, A | **Ravager** | not rated | seven calls at one rung; the number is the party's problem, not the ladder's |
 | **The Ledger's Summons**, cheap construct | a Stage XII Grandmaster | 42,500,000 EU, 5% of reserve | 0.87, the summoner's | 3.70 × 10¹³ J, SS | **Townfall** | not rated | SS by joules; eighteen before Starvation |
-| **The Ledger's Summons**, dear construct | a Stage XII Grandmaster | 127,500,000 EU, 15% of reserve | 0.87 | 1.11 × 10¹⁴ J, SS | **Townfall** | not rated | six before Starvation; constructs carry the summoner's Fulguria signature |
+| **The Ledger's Summons**, dear construct | a Stage XII Grandmaster | 127,500,000 EU, 15% of reserve | 0.87 | 1.11 × 10¹⁴ J, SS | **Townfall** | not rated | six before Starvation; constructs carry the summoner's own signature |
 | **Obrenkael**, the Mule | a Stage X Master | 8,100,000 EU, 9% of reserve | 0.90–0.95, Class III | 7.3 – 7.7 × 10¹² J, S | **Townfall** | T7; T4 loose and unnamed | Native, Consenting; sustain triples in a carriage and climbs with distance to the Still Gate |
 | **Haelvorn**, Housecat | a Level 372 summoner | 6% of reserve; about 9,200,000 EU with the reserve set by the law of reserves at Level 372 | 0.90–0.95, Class III | 8.3 – 8.8 × 10¹² J, S | **Townfall** | T8 | Native, Sovereign; sustain nearly nil; the cost is the Intake, carried as heat in the summoner's body |
 | **Vaelmorn**, the Standing Grave | unassigned | 40,000,000 EU | 0.75–0.85, Class II | 3.0 – 3.4 × 10¹³ J, SS | **Townfall** | T6 | Native, Consenting, World-Tethered; sustain nil; the Toll is one name per summoning |
@@ -493,7 +493,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 | **Registered** | XIII | the Continuum registers the law; biomes carry the doctrine |
 | **Indistinct** | XIV | Domain and holder are one figure; read the holder |
 
-**Ground.** Maintaining a Domain inside someone else's costs significantly more, and terrain works on η through the Family's physics. **Hostile ground does not lower the rung. It raises the drain the same rung costs**, and shortens the clock on the holder's reserve.
+**Ground.** Maintaining a Domain inside someone else's costs significantly more, and terrain works on η through the physics of the Wellspring in use. **Hostile ground does not lower the rung. It raises the drain the same rung costs**, and shortens the clock on the holder's reserve.
 
 **Persistence.** Some Domains stand after the holder leaves them. A Domain that persists after exit holds its rung for that long without a holder to strike.
 
@@ -574,7 +574,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Pull: what working the site does.** A site pulled on steadily falls as it is pulled: the old districts of a worked quarter read a rung or more below the ground beside them. Left to rest it recharges, and its keepers can close it to anyone for exactly that reason. **A site worked past what it can give does not fall a rung. It gives out**, and the ground that is left reads as ordinary depleted earth.
 
-**The unawakened.** A Class Ø soul's Shell is sealed and cannot phase-lock, and no harmonization occurs, and the rung reads the same for a porter as for a practitioner. What differs is the exit. **A practitioner in a Spirit-type onset vents the load through the Shell; an unawakened soul keeps it**, and no recovery protocol has been written for one returned from a Fountainhead.
+**The unawakened.** An unwoken soul's Shell is sealed and cannot phase-lock, and no harmonization occurs, and the rung reads the same for a porter as for a practitioner. What differs is the exit. **A practitioner in a Spirit-type onset vents the load through the Shell; an unawakened soul keeps it**, and no recovery protocol has been written for one returned from a Fountainhead.
 
 **Objects.** A Wellspring's Aether bound inside a vessel is an Object Wellspring, and it is read on this ladder by the material that holds it: **material tier n stands on rung n.** An object has no perimeter and no gradient to give warning. It is held or it is not, and its internal law meets the Shell at zero distance.
 

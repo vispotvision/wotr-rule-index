@@ -33,19 +33,11 @@ Temperance (the soul's inner refinement, climbed in sixteen Stages) measures ref
 
 Two characters at identical stat values and Temperance Stage can have wildly different combat output if one is Class III Resonant and the other Class I Muridic. The stats are the same. The delivery is not.
 
-Every Shell radiates an Aetheric Signature described by three constants.
-
-**Lattice Conductivity** (Equilibrium and Vitae aligned): how easily Essence moves through the Shell without resistance. Low means blockage and backlash; high means smooth passage. Governed by Vitality (Constitution, Fortitude) and Tempering Clarity.
-
-**Resonant Purity** (Intent aligned): how closely the Shell's output matches the Core's intention. Low means static and misfires; high means near-instant Formation (the moment a working takes shape). Governed by Gnosis Fluency and Ardency (Compression, Density).
-
-**Continuum Retention** (Resonance aligned): how long coherence endures after strain. Low means brief flares; high means sustained resonance. Governed by Harmonics (Stability, Attunement) and Resilience (Integrity, Continuity).
-
-**The Aether Index:** Conductivity multiplied by Purity, plus a Retention bonus. A clarity score, not a power level. The Continuum Coherence Ladder measures how much force moves through the Shell. The Aether Index measures how little gets lost on the way through.
+Scholars of a certain age still score a Shell by a sum they call the Aether Index, and it is a fine way to pass a winter, since nothing on any sheet has ever read it.
 
 ### The Tiers of Aether Class
 
-**Class Ø, The Dormant.** The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely. Corresponds to the Dormant Crystal. No stat output above Hollow Grade (the lowest output rank, below F) is possible.
+**Aether Ø, The Dormant.** The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely. Corresponds to the Dormant Crystal. No stat output above Hollow Grade (the lowest output rank, below F) is possible.
 
 **Class I, The Muridic.** The awakening Shell, flickering with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably. The bearer may appear unstable when their lattice is simply learning to speak. Glory, Stage VI, Harmonic Crystal, where Aether Class first emerges; **Stages I through V are unclassed, and the coil (the instrument that assays a soul) reads no Class.** **Roughly thirty to forty percent efficiency loss** to Shell interference.
 
@@ -53,15 +45,15 @@ Every Shell radiates an Aetheric Signature described by three constants.
 
 **Class III, The Resonant.** The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia (power born when several souls or forces resonate together) and complex techniques awaken naturally. Presence becomes as important as any incantation. Late Refraction, Resonant Crystal. **Five to ten percent loss.** The first Class at which stat values translate into combat output at near-full fidelity.
 
-**Class IV, The Luminous.** The lucid Shell thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behavior mirrors the bearer's emotional and moral alignment with unnerving precision. **No single corresponding Crystal Tier**; a Shell-specific peak, most often in Spirit Path souls whose Shell clarified faster than their Core or Layer. A Luminous soul may test as Resonant or even Radiant Crystal overall while their Shell has simply gotten there first. Efficiency loss negligible; output precision exceeds baseline stat values by a factor depending on Sub-Stat architecture.
+**Class IV, The Luminous.** The lucid Shell thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behavior mirrors the bearer's emotional and moral alignment with unnerving precision. **No single corresponding Crystal Tier**; a Shell-specific peak: the Body Path's first rung of law, and it also turns up in Spirit Path souls whose Shell clarified faster than their Core or Layer. A Luminous soul may test as Resonant or even Radiant Crystal overall while their Shell has simply gotten there first. Efficiency loss negligible; output precision exceeds baseline stat values by a factor depending on Sub-Stat architecture.
 
 **Class V, The Radiant.** The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains (a space where a soul's inner law becomes local reality) against collapse and speak Parun (the tongue law is written in) motifs into matter. The line between intention and environment blurs; the Shell's clarity exerts topological pressure on its surroundings. Early Master, Radiant Crystal, where the first true Domain forms. Stat output begins **exceeding** what the raw numbers suggest, because the Shell is amplifying rather than merely conducting.
 
-**Class VI, The Voidic.** The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers and reflects. Voidic conductors channel absence, silence and negation without erasing themselves, and interface most directly with Limina Wellsprings and Titanic depths. **Lateral rather than sequential**; it can appear alongside Resonant, Luminous or Radiant Shells rather than strictly after them. Most often in Split-Shell Entities and souls with deep Limina harmonization. Their Ardency does not deal damage in the conventional sense. It removes things.
+**Class VI, The Voidic.** The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers and reflects. Voidic conductors channel absence, silence and negation without erasing themselves, and interface most directly with Nihiloth, Vantabriel and the other Wellsprings of absence, and with Titanic depths. **Lateral rather than sequential**; it can appear alongside Resonant, Luminous or Radiant Shells rather than strictly after them. Most often in Split-Shell Entities and souls deep in those harmonizations. Their Ardency does not deal damage in the conventional sense. It removes things.
 
 **Class Ω, The Absolute.** The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons (the world's fourteen great powers), Titans and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. Stat output is no longer meaningful as a separate measurement, because the practitioner and their output are the same event.
 
-**The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
+**The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral. Read the Stages above as ceilings opening. The Body Path's command of matter rides the same rungs: I as an object, II through contact, III by recognition, IV and V by law, Ω as a whole system.
 
 ### Essence Class and Thread Class
 
@@ -78,13 +70,23 @@ The Shell is one layer of three, and the other two have ladders of their own, re
 | VI | Voidic | Hollow | Severer | qualitatively different | qualitatively different |
 | Ω | Absolute | Absolute | Absolute | no separate measurement | no separate measurement |
 
-**Each ladder sets η for workings through its own layer.** A blow through the Shell reads the Aether rung, a working authored in the Core reads the Essence rung, and a pull reads the Thread rung. Thread is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral elsewhere, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip.
+**Each ladder sets η for workings through its own layer.** The Core authors everything, and the layer it lands through sets the rung: a blow through the Shell reads the Aether rung, a working authored in the Core reads the Essence rung, and a pull reads the Thread rung. Matter reads Aether, a soul or a meaning reads Essence, and a condition reads Thread. An art's Path line picks the ladder, and a true pull always takes Thread on top. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] has the list by working and by trade. Thread is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral elsewhere, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip.
 
-**The ladder of a person's leading Path climbs with their Stage.** A Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A window reads all three on one line, `[Aether IV · Essence II · Thread Ø]`. The Soul Crystal Tier of Part Twenty-One stays as the reading of the whole soul. What each rung of the two new ladders can do is set out in [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
+**The Stage sets a ladder's ceiling, and practice moves a person up to it.** A bought Stage opens the ceiling and not the rung.
+
+| Stage | Highest rung, Aether or Essence, on the leading ladder |
+|---|---|
+| I–V | Unread |
+| VI Glory | I |
+| VII Refraction | III |
+| VIII Transcendence to XIV Zenith | V |
+| XV Revelation, XVI Apex | Ω |
+
+A Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder runs two behind and stops at II, or at I for Thread. **Thread has no Stage climb:** it moves by a grip from blood or a blessing, plus decades, and a sworn fighter who keeps vows reads I or II at most. Anyone at Thread Ø evolves their class on whichever ladder reads highest. A window reads all three on one line, `[Aether IV · Essence II · Thread Ø]`. The Soul Crystal Tier of Part Twenty-One stays as the reading of what the Crystal has grown into. The full table, what moves each rung, what each rung of the two new ladders can do and what a pull costs at each are set out in [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
 
 ### Aether Class Progression
 
-The Shell's rung ascends through refinement, not conquest. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives. Each time the leading ladder climbs, the named class evolves by how it has been lived, and the window shows the new name beside the new rung.
+The Shell's rung ascends through refinement, not conquest, up to the ceiling its Stage allows. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives. Each time the leading ladder climbs, the named class evolves by how it has been lived, and the window shows the new name beside the new rung.
 
 **Temperance Refinement:** gradual clarity through discipline and self-confrontation. The most common and safest path. The Core refines and the Shell learns to match.
 
@@ -110,11 +112,11 @@ A character at B-Grade Ardency Flux with a Class II Harmonic Shell produces roug
 
 The interaction is not linear. **II to III** produces the largest single improvement in stat-to-output fidelity. **V to VI** produces the most dramatic qualitative shift, from conventional force expression to inverted and negation-based expression. The jump to **Ω** produces output the stat system can no longer meaningfully track.
 
-## Part Eighteen — Paths, the Lens and the Eight Families
+## Part Eighteen — Paths, the Lens and the Kinds
 
 *"The element does not choose you. You temper yourself on it, and it remembers you."*
 
-Older books sort souls by an inborn bias toward one of the eight Families. The trade has given that up. Nobody is a Caloria soul: there are only people who have tempered themselves on a Caloria Wellspring. What gives a blow its character is the Wellspring a soul has tempered on and the Path it comes out by, and both of those can be read off a life. Which Wellsprings sit easily with a soul follows from how each one's kind sits with the Path. How a Primary Trait (a belief hardened into a personal law of the soul, the first and quietest of them) forms is a matter of origin, first imprint and the lived Path, by Part Twenty. Where a class is going is a matter of how the person has lived, by Part Seventeen.
+Older books sort souls by an inborn bias toward one element or another. The trade has given that up. Nobody is a fire soul: there are only people who have tempered themselves on a Wellspring of fire. What gives a blow its character is the Wellspring a soul has tempered on and the Path it comes out by, and both of those can be read off a life. Which Wellsprings sit easily with a soul follows from how each one's kind sits with the Path. How a Primary Trait (a belief hardened into a personal law of the soul, the first and quietest of them) forms is a matter of origin, first imprint and the lived Path, by Part Twenty. Where a class is going is a matter of how the person has lived, by Part Seventeen.
 
 ### The Three Paths
 
@@ -130,20 +132,20 @@ The bracket crowds say hitter, thrower, talker and stayer, and anyone who has me
 
 Attraction Force and Obsession Force are what the Plane of Fate runs on, and the Attraction Layer is a soul's own share of fate, so older registers that list Attraction as a road of its own were looking at the shallow end of Fate. An Attraction gate in an old table is a Fate gate at the same Stage and Grade.
 
-**What is being routed.** Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
+**What is being routed.** Essence (spiritual energy) is Aether (mana) refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
 
 ### One Path, Two or Three
 
-A soul has one life's time to spend. A Path on a card is **Mastered**, **Walked** (at least thirty percent of a person's practice) or **Studied**. Anyone may study any Path, which gives knowledge and small uses and opens no gates. The percentages on a card are the record of time spent.
+A soul has one life's time to spend. A Path on a card is **Mastered**, **Walked** (at least thirty percent of a person's practice) or **Studied**. Anyone may study any Path, which gives knowledge and small uses and opens no gates. The percentages on a card are the record of time spent. Each road on a card also carries a **Path Stage**, the highest Stage whose gates that Path has opened. Mastered means Path Stage equals soul Stage, read again at each Threshold. The card reads `Body VII Mastered · Fate VI Walked 35%`. On Fate, practice is counted in vows kept and bonds held.
 
 | | One Path | Two Paths | Three Paths |
 |---|---|---|---|
 | **Time to master** | The base time | About two and a half times that, for the pair | About six times that, beyond a mortal span |
-| **Gates** | Open at the Stage written | The Path behind opens a Stage late until it is mastered | Open two Stages late, and the high Grades stay shut |
+| **Gates** | Open at the Stage written | The Path behind opens a Stage late until it is mastered | Open two Stages late, and the high Grades (SSS and up) stay shut |
 | **Force modifier** | In full | Three-quarters on each, for life | Half on each |
 | **Seat** (how the lattice sets at a Threshold) | Clean | Rough | Rough, with a high risk of a Dead Set |
 
-Time closes the gap in the gates and never the gap in the modifier. A two-Path fighter has real holes at times and breaks an opponent's read of them. Three Paths is rare and looked down on by nearly everyone.
+Time closes the gap in the gates and never the gap in the modifier. A two-Path fighter has real holes at times and breaks an opponent's read of them. Three Paths is rare and looked down on by nearly everyone. Force modifiers and the lens apply after the Tier is read, so they never move a Grade's letter and never count on the two-Grade boost cap.
 
 ### The Kinds of Wellspring
 
@@ -155,33 +157,17 @@ Every one of the Sixty has a kind, and the kind names its home plane. **A kind i
 
 **A Wellspring is the lens a soul bases its tempering on**, a lens on magic already potent, and it shapes Essence differently on each Path. Take Pyreveil, a Wild Wellspring. On the Body Path the heat lives in the tissue and the blow burns on contact. On the Spirit Path it is thrown, and it burns what is false in a thing before what is solid. On the Fate Path it is a claim that burns its way through, and rivalries and oaths catch around the person who holds it. Absolution, a Spirit Wellspring, gives no fire on any of them: on the Body Path old injuries stop costing what they cost, at home it lets the old poison out of a soul, and on the Fate Path a held grudge can be let go, and the thing it was pulling on stops pulling.
 
-**At its home Path** a Wellspring harmonizes cleanly and can even double its effect, starting small and reaching double only with years of mastery. **Away from home** it works in that layer's terms, at lower-quality resonance and higher Essence cost, and half again is the most anyone has got out of it. No stat points change hands either way. The number stays where it was, and the Body Path fighter on Pyreveil simply burns twice as much like herself, once the years have been put in. Young fighters who claim the doubling are generally claiming it to a bookie.
+**At its home Path** a Wellspring harmonizes cleanly and can even double its effect, starting small and reaching double only with years of mastery. **Away from home** it works in that layer's terms, at lower-quality resonance and higher Essence cost, and half again is the most anyone has got out of it. On two Paths the lens is read per working, by the layer the working goes out through. No stat points change hands either way. The number stays where it was, and the Body Path fighter on Pyreveil simply burns twice as much like herself, once the years have been put in. Young fighters who claim the doubling are generally claiming it to a bookie.
 
 ### Wellspring, Path and the Stat System
 
-Neither a Wellspring nor a Path adds stat points. They change the qualitative character of stat expression. Two characters with identical Ardency Flux at S-Grade produce radically different combat output if one has tempered on a Caloria Wellspring and the other on a Limina one. The Caloria practitioner's Flux burns, ruptures and catalyzes. The Limina practitioner's Flux ends, quiets and unmakes. The Joule rating may be identical. The experience of being hit by either is not. The Path changes it again, since the same Flux may arrive by the fist, by a line thrown across a yard, or by way of a claim on the thing struck.
+Neither a Wellspring nor a Path adds stat points. They change the qualitative character of stat expression. Two characters with identical Ardency Flux at S-Grade produce radically different combat output if one has tempered on Pyreveil and the other on Nihiloth. The Pyreveil practitioner's Flux burns, ruptures and catalyzes. The Nihiloth practitioner's Flux ends, quiets and unmakes. The Joule rating may be identical. The experience of being hit by either is not. The Path changes it again, since the same Flux may arrive by the fist, by a line thrown across a yard, or by way of a claim on the thing struck.
 
 How a Wellspring's kind sits with the Path determines compatibility, which determines which Sub-Stats receive qualitative enhancement through harmonization. A Body Path fighter harmonizing with Pyreveil receives stronger Ardency and Vitality enhancement than a Spirit Path fighter attempting the same. The Spirit Path fighter's Crystal does not reject Pyreveil, but the lattice works harder to integrate it, producing lower-quality resonance at higher Essence cost.
 
-### The Eight Families
+### Harmonization
 
-A Family is a house of Wellsprings sorted by physics, and each one carries an idea its Wellsprings have in common. The idea belongs to the Family and says nothing about who may temper on it. Each also has a turn, the moment its idea comes clear to someone working inside it.
-
-**Caloria:** Conviction, rupture, transformation. The burn that clears ground for something new. *Its turn:* the moment anger becomes purpose rather than destruction.
-
-**Fulguria:** Perception, revelation, precision. Reading a room, a wound or a lie before it finishes forming. *Its turn:* seeing a truth no one else could see, and being right.
-
-**Vectoria:** Momentum, the breaking point, the long climb. Pressure that either shatters or refines. *Its turn:* the moment catastrophe becomes clarity.
-
-**Spatium:** Distance, absence, the space between. Always already somewhere else. *Its turn:* discovering that where you are is a choice, not a fact.
-
-**Materia:** Endurance, structure, grounding. The slowest Family to take hold in a soul and the most resistant to Catalytic Collapse once it does. *Its turn:* choosing to remain when every instinct demands flight.
-
-**Vitalia:** Growth, generosity, rhythm. It comes through accumulation rather than rupture. *Its turn:* giving without counting, and finding the count was always in your favor.
-
-**Fluxia:** Empathy, reflection, adaptation. The Family most prone to Synergia and Echo Bonds. *Its turn:* discovering that surrender and strength are the same posture.
-
-**Limina:** Endings, dissolution, the truth found in what is missing. It surfaces when denial costs more than acceptance. *Its turn:* accepting that something is over, and meaning it.
+The lock happens at the Shell, where Aether enters. The tie is held on the Layer. The lens shapes Essence in the lead layer. A person's base hue comes from the lens tempered on longest, and the rest add texture. What each Wellspring favors, hates and stands contrary to is on its entry in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]].
 
 ## Part Nineteen — Aether Flow and Essence Economy
 
@@ -189,13 +175,13 @@ A Family is a house of Wellsprings sorted by physics, and each one carries an id
 
 ### The Resource System
 
-**EU (Essence Units):** the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Set by Level and capped by Stage (below), governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.
+**EU (Essence Units):** the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Set by Level and capped by Stage (below), governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering. The Core frays there too, names first and then memory, since Essence is the soul's own stamped substance.
 
 **Flux Density (EU/g):** the compression ratio, how much Essence is packed per unit of Crystal mass. Higher means greater output from the same reserve. Governed by **Tempering Clarity** and **Ardency Compression**. This separates a practitioner who burns through their reserve in three techniques from one who fights for an hour on the same pool.
 
 **AU/s (Aether Units per second):** the output rate, how much Essence is spent into active expression per second at full output. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**.
 
-**Eta (η), Efficiency:** the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. Governed by **the class ladder of the layer in use**, **Tempering Clarity** and **Ardency Compression**: from Glory that ladder's rung sets it, Aether Class through the Shell, Essence Class through the Core and Thread Class for a pull, and the unclassed read their Stage's typical figure below.
+**Eta (η), Efficiency:** the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. Governed by **the class ladder of the layer in use**, **Tempering Clarity** and **Ardency Compression**: the ladder sets the band and the other two the place inside it. From Glory that ladder's rung sets it, Aether Class through the Shell, Essence Class through the Core and Thread Class for a pull, and the unclassed read their Stage's typical figure below.
 
 **What the owner sees.** None of these figures appears in a window. The window shows the reserve as a percentage and a bar, `[Reserve: 41%]`, and leaves EU, AU/s and η to the assay sheet and the slate. Body tells come first anyway: at half the breath shortens, at a quarter the color thins, at a tenth the Traits begin to stutter.
 
@@ -275,8 +261,10 @@ The nine Tiers of Standing replace the former lettered Coherence Bands, and they
 
 ### Essence Recovery
 
-**Passive Recovery:** the baseline pull of ambient Aether, refined in the Crystal into Essence, without active effort. Governed by **Tempering Yield** and **Harmonics Synergy**. Faster near active Wellspring veins, slower in depleted or hostile environments, negligible in Silence Realms (places where the Aether is dead). Rich ground fills a Crystal faster and thin ground starves it, which is why the scholar's Aetheric Density (how thickly a place is charged with Aether) is the first thing a veteran asks about a new town, usually in rougher words.
+**Passive Recovery:** the baseline drawing-in of ambient Aether, refined in the Crystal into Essence, without active effort. Governed by **Tempering Yield** and **Harmonics Synergy**. Faster near active Wellspring veins, slower in depleted or hostile environments, negligible in Silence Realms (places where the Aether is dead). Rich ground fills a Crystal faster and thin ground starves it, which is why the scholar's Aetheric Density (how thickly a place is charged with Aether) is the first thing a veteran asks about a new town, usually in rougher words.
 
-**Active Recovery:** deliberate absorption through meditation, Wellspring communion or alchemical treatment. Significantly faster, but requires the character to stop fighting and concentrate. An alchemical treatment quickens the pull from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows. Governed by **Harmonics Attunement** and **Tempering Yield**.
+**Active Recovery:** deliberate absorption through meditation, Wellspring communion or alchemical treatment. Significantly faster, but requires the character to stop fighting and concentrate. An alchemical treatment quickens the draw from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows. That Essence arrives unstamped, and the crash is the stamping. Governed by **Harmonics Attunement** and **Tempering Yield**.
 
 **Crisis Recovery:** surges triggered by soul-cost events, Threshold completions or genuine emotional breakthroughs during combat. Not reliable and cannot be manufactured. The Crystal's reward for genuine contact with consequence, the same principle underlying the XP system.
+
+*Read next: [[The Magic System/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|Parts Twenty to Twenty-Two]]. The account in words is [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]] and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].*

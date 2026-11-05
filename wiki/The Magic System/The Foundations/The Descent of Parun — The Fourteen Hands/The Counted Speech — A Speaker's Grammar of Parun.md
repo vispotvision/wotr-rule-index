@@ -99,14 +99,16 @@ The count is a skill like any other: anyone with a woken Crystal can level it, i
 **I · A sound may not repeat inside a word.**
 
 A traced path cannot revisit a cell it has already occupied. **This caps a word at twenty-five sounds and makes reduplication structurally impossible.**
-> *It is the reason Parun has no lullabies, no chants, no drinking songs and no baby-talk. You cannot say a sound twice for comfort. The language has no mechanism for it.*
+> *It is the reason Parun has no lullabies, no chants, no drinking songs and no baby-talk. You cannot say a sound twice for comfort. The language has no mechanism for it. What the choirs do is another thing, held in resonance, and [[The Magic System/Power in Use/The Working Trades|the singing]] has its own account.*
 **II · The first sound declares the slot.**
 
 Values **1–5** open a Warrant. **6–11** a Ground. **12–17** a Vector. **18–25** a Seal.
-> *A listener therefore knows a slot has been skipped before the speaker has finished the word, which in a discipline where a skipped slot is an injury is the single most useful thing the language does.*
+> *A listener therefore knows a slot has been skipped before the speaker has finished the word, which in a discipline where a skipped slot means no working at the moment you needed one is the single most useful thing the language does.*
 **III · The sentence must total sixty-five.**
 
 Add the values of every sound in all four words. **A lawful sentence comes to sixty-five, or to a whole multiple of it. Nothing else seals.**
+> **This law binds the mouth and only the mouth.** A spoken sentence has nothing else to close on. A cut one is closed by its sealing stroke and held by what it is cut into, and it answers to the Seal and the stone and not to the sum.
+>
 > **This is the entire difficulty and the entire reason the world writes Parun rather than speaking it**, because a speaker composing live is **performing mental arithmetic while making a legal claim under pressure, and the arithmetic is not forgiving.**
 >
 > *The practical consequence: Parun is grotesquely rich in near-synonyms of differing value. A speaker does not choose a word because it is the right word. He chooses it because it is the right word that makes the sum close.*
@@ -115,17 +117,21 @@ Add the values of every sound in all four words. **A lawful sentence comes to si
 
 ## The Four Slots
 
-| Slot | Opens on | Names |
-|---|---|---|
-| **Warrant** | vowels, 1–5 | who is speaking and by what standing |
-| **Ground** | stops, 6–11 | what territory, body or interval the speech covers |
-| **Vector** | nasals and sibilants, 12–17 | which way the working runs |
-| **Seal** | 18–25 | the condition on which it ends |
+| Slot | The role it fills | Opens on | Names |
+|---|---|---|---|
+| **Warrant** | Authorization | vowels, 1–5 | who is speaking and by what standing |
+| **Ground** | Boundary | stops, 6–11 | what territory, body or interval the speech covers |
+| **Vector** | Direction | nasals and sibilants, 12–17 | which way the working runs |
+| **Seal** | Sealing | 18–25 | the condition on which it ends |
+
+The slots are the four roles of [[The Magic System/Power in Use/The Working Trades|the working trades]], in the mouth. Notice what is missing from all of them, including every sentence on this page: the Wellspring. Nobody says it. It is named by harmonization under the Warrant, read off the Attraction Layer of the soul behind the sentence, so `at pen ma ra` in Sergeant Thorn's mouth and in a Pyreveil speaker's are the same words doing different things. A written form from the [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|Glyph Index]] can fill a slot where a plain word would, and the Index shows one in a sentence on each of the three Paths.
 
 > **A Warrant that overstates standing does not fail loudly. It seals**, and **the difference between the standing claimed and the standing held is deducted from the speaker at the moment the Seal closes.**
 >
 > *Practitioners who habitually over-warrant are identifiable across a room by their hands.*
 That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition and keeps its own law: a summoner who claims a standing he lacks gets nothing.
+
+A Warrant answers the question Irath's station reads, *by what right*, and when two souls contest a working it is weighed as Dominion Fate (the soul's weight in Fate). Those are three names for one idea on three shelves.
 
 ---
 
@@ -151,6 +157,14 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 
 > *The third is the field version. It exists because the first is unsayable by a man who is being hit.*
 
+### What a Seal can reach
+
+A Seal spends the speaker's own share of fate. It sets a term, and it moves only what already has a way of happening. It never pulls a thread of Fate, so anyone may speak a Seal at Thread Ø (the lowest rung of the ladder that measures a soul's reach into Fate), and `wolyeth` may wait a hundred years on the last of a line without killing anybody.
+
+A spoken term is carried by the speaker. The Seal sets it, the speaker's own Layer anchors it for as long as it runs, and the speaker is the substrate that caps it, which is why first light is a long way off for a tired sergeant. See [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|how long a working lasts]].
+
+**A Fourth Seal needs a grip.** A sentence that ends a bloodline or a building is past what any soul's own share will buy, so it takes a grip on Fate, by blood or blessing, or a Warrant that carries one. A Warrant word grants nothing: it names a grip somebody holds. Said without one, the sum closes and the difference between standing claimed and standing held comes out of the speaker at the Seal, and most of the Ring's register ends there.
+
 ---
 
 ## Failure
@@ -159,10 +173,12 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 |---|---|
 | **Under the sum** | **Nothing sealed it. The working runs and does not stop.** *This is the fault that kills bystanders* |
 | **Over the sum** | It seals early. **The difference is taken out of the speaker, in the body, at the moment of closing** |
-| **Slot skipped** | No seal, no working, no cost. **The commonest fault and the only harmless one** |
+| **Slot skipped** | No seal, no working, no cost. **The commonest fault and the only harmless one.** *The Valorin bank whole formulae this way, one word short, against the day they need them* |
 | **Slot misordered** | Seals inverted. **The Vector runs from the Ground into the Warrant, which means into the speaker** |
 | **Sound repeated** | The path crosses itself. The word is simply not a word |
 
+> The rule across every trade is the same. A slot left wholly empty does nothing, and a sentence that fires with a bad limit runs.
+>
 > **A practitioner who has been over the sum is legible afterward.** Depending on where the count went wrong the deduction comes out of **the hands, the hearing, the teeth or the years**, *and the Vaulted Ring keeps a register of which faults take which, compiled from people who survived them.*
 
 ---
@@ -288,6 +304,8 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 > **The Fourth Seal above is the clause the Accord cites when it argues that licensing is not bureaucracy.**
 >
 > ***It warrants itself, which means no person is answerable for it, and it ends a line.***
+>
+> *`elwar` names no grip, so whoever says it brings their own and declines to say whose. That is the Accord's real objection.*
 
 ---
 
@@ -304,7 +322,7 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **The High Line** | Almost none. **They cut instead, and consider speech a hurried medium** |
 | **Eresseans** | Read universally, spoken under license only, *and a private letter in Songscript is still the greater threat* |
 | **Concord humans** | The Cant, by rote, badly, **and the death rate reflects it** |
-| **The Moto** | **Neither Root nor Cant.** The Kōkan Line administered the Loom under delegated sight, and a delegated warrant is not *by my own standing* and is not *by an office* either. **The lexicon has no Warrant word for what they hold**, and Moto speakers open on a sound the Vaulted Ring records and does not assign a value to. *The Ring's working position is that the word exists and the value is unknown. The Moto have never been asked, and would not be answered if they were* |
+| **The Moto** | **Neither Root nor Cant.** The Kōkan Line administered the Loom (the Parun lattice seen from above) under delegated sight, and a delegated warrant is not *by my own standing* and is not *by an office* either. **The lexicon has no Warrant word for what they hold**, because a word's value is a sum of cells and cells are what the Archons' stations read, and Moto speakers open on a sound the Vaulted Ring records and does not assign a value to. *The Ring's working position is that the word exists and the value is unknown. The Moto have never been asked, and would not be answered if they were* |
 
 ---
 
@@ -316,6 +334,6 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **The three Single Seals** | **Fixed at three, permanently.** The lexicon may grow; the Single Seal count does not. *This is the Vaulted Ring's oldest standing finding and the one piece of Parun scholarship nobody has ever attempted to overturn, because every practitioner alive learned all three as a child and none of them wants a fourth* |
 | **Gravetongue** | **Not Parun.** It does not walk the square, its meaning is carried in a physical resonance rather than in sounds, and the inert transcriptions follow directly. Structurally it is **a chant with no notation.** *The Vaulted Ring and the Ironblood are both correct and have been arguing past each other for six hundred years* |
 | **The Total Seal, 325** | **Not barred. Simply fatal, for a reason internal to the arithmetic.** The whole square includes **cell thirteen, the still cell, the one that does not move under any of the fourteen Archonic stations.** A sentence using every cell therefore warrants under all fourteen at once, **and no living person holds that standing.** *The difference between standing claimed and standing held is deducted at the Seal. At the Total the difference is everything the speaker is.* **The Accord's position that no attested lexicon reaches 325 is fortunate is a polite way of saying the thing has killed everyone who got close, and the Ring's register of over-sum deductions ends its list at the fourth level for that reason** |
-| **Moto standing** | **Entered in the table above.** Their Warrant class is delegated sight, which the lexicon has no word for and no value for. *The Long Reading holds that the Moto seat's own name is written in one of the thirty unclassifiable glyphs. The missing Warrant and the missing classification are the same absence, recorded twice by two divisions that have never compared notes* |
+| **Moto standing** | **Entered in the table above.** Their Warrant class is delegated sight, which the lexicon has no word for and no value for. A Work of [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] is a grip and never a glyph, so nothing they inherit will fill a slot, and the Index has [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|the Loom and the stations]] in full. *The Long Reading holds that the Moto seat's own name is written in one of the thirty unclassifiable glyphs. The missing Warrant and the missing classification are the same absence, recorded twice by two divisions that have never compared notes* |
 
 **Read next:** the next shelf, [[The Magic System/The Soul and the Climb/The Soul and the Climb|The Soul and the Climb]]: what a soul carries, what advancement does to it, and how it reads from outside.

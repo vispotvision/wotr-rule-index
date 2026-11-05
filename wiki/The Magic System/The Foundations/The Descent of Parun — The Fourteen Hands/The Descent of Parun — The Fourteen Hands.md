@@ -22,7 +22,7 @@ Ambrose Pinchbeck, a Concord wine factor of good family, learned Barkstone Tally
 
 ## The Root and the Six Drivers
 
-**Nothing in this record is a separate invention.** Every hand traces the same Parun (the root script of law that reality reads) path across the same lattice (the fixed grid every glyph is traced on), **and every difference between them is the residue of a decision that was never about writing at all.**
+**Nothing in this record is a separate invention.** Every hand traces the same Parun (the root script of law that reality reads) path across the same lattice (the fixed grid every glyph is traced on, which from above is Bara's Loom; the [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|Glyph Index]] joins the two), **and every difference between them is the residue of a decision that was never about writing at all.**
 
 | Driver | What it does to the hand |
 |---|---|
@@ -39,7 +39,7 @@ Ambrose Pinchbeck, a Concord wine factor of good family, learned Barkstone Tally
 
 *The question every apprentice asks in the second week, answered badly by most instructors.*
 
-A glyph creates nothing. **The law of the Wellspring (one of the sixty governing ideas that change how a soul uses Aether, each written down by scholars as a fixed law) was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
+A glyph creates nothing. **The law of the Wellspring (one of the sixty governing ideas that change how a soul uses Aether, which is mana, each written down by scholars as a fixed law) was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice. Where the limit lands is a separate question, settled by the layer of the soul the maker's Essence (spiritual energy) leaves through and [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|answered in the Index]]. The hand has no say in that.
 
 **So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Cask Line cooper are arguing about the same instrument even when neither can read the other's page.
 
@@ -47,13 +47,13 @@ A glyph creates nothing. **The law of the Wellspring (one of the sixty governing
 
 | What the hand decides | Why |
 |---|---|
-| **How long the boundary holds** | A boundary persists as long as its substrate does. Granite outlives the mason. Wet bark outlives the afternoon. **The hand and the surface are one decision and the duration follows from it** |
+| **How long the boundary can hold** | The Seal sets the term and the substrate caps it. A boundary cannot persist longer than its substrate does. Granite outlives the mason. Wet bark outlives the afternoon. **The hand and the surface are one decision and the ceiling on duration follows from it** |
 | **Who can find it** | Mirror-Sign leaves no signature because nothing was inscribed to leave one. **The boundary is real and the evidence of it is not**, which is a legal problem rather than a metaphysical one and the Accord has never solved it |
 | **Who can check it** | Inverted Parunic is an attack on the reader rather than on the working. The outsider reads fluently, arrives at a boundary that was not set, **and acts on a condition that does not exist** |
 | **Whether it can be validated at all** | Cold Parunic engineers ambiguity out so that two readers cannot set two boundaries from one page. Sylvaaric refuses the question. **Both positions are coherent and they cannot share a treaty** |
 | **Whether it survives its own author** | Skin-Records grow. The nested scales exist because a boundary written on something that changes size stops describing the same limit within a decade |
 
-> **Gravetongue is the exception that proves the rule, and it is not a hand at all.** Every other entry here is rune-cutting: a boundary committed to substrate. Gravetongue carries its condition in a physical resonance produced by a body that knows what it is made from, **which makes it a chant (a working carried by the voice) with no notation** and explains the inert transcriptions completely.
+> **Gravetongue is the exception that proves the rule, and it is not a hand at all.** Every other entry here is rune-cutting: a boundary committed to substrate. Gravetongue carries its condition in a physical resonance produced by a body that knows what it is made from, **which makes it a chant (a working carried by the voice) with no notation** and explains the inert transcriptions completely. No chant is Parun, for that matter: a chant holds its condition in resonance, and its words carry a sentence only when someone trained in the writing of law has put one there.
 >
 > *A written Gravetongue phrase produces nothing because the writing was never where the boundary lived. The Crimson Order's pulse-code works for the same reason: they kept the resonance and discarded the part that was never load-bearing.*
 
@@ -76,6 +76,8 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 ---
 
 ## The Fourteen Hands
+
+*The count is a librarian's. It takes Parun itself as the first of fourteen and the thirteen below it as the rest, Gravetongue included by courtesy, since it has no hand to count. The hands are not one per Archon, whatever the lecture halls of the Vaulted Ring would like: the two fourteens share a number and no history.*
 
 ### Old High Runic
 
@@ -209,6 +211,14 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 
 ---
 
+## A Hand Outside the Count
+
+The Valorin write **Vaeloric Script**, and it is a further hand in every sense the six drivers can measure. Its surface is the soul itself, a [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Valorin Family|Scripted Soul Lattice]] that never crystallized, and it traces the same lattice as everything on this page, so nothing in this record is a separate invention even here. A soul with no Crystal still has the three faces of one, and when the Continuum reads a Valorin's Authorization it reads the Attraction Layer of that written soul exactly as it reads anyone's.
+
+The odd things the house does are ordinary grammar on an odd surface. The lines in its Cistern are formulae left one word short, which is a skipped slot, and a skipped slot fires nothing and bills nothing, which is why a master can carry a lifetime of them and sleep soundly. Errata is an amendment to a sentence somebody else is already saying, so it adds no third form to the two that obstruct. Their writing on Fate stays Fate: they cannot read it, and can only write a sentence and wait to see whether it is recognized, which takes generations.
+
+---
+
 ## Who Reads What
 
 > **Cross-legibility is not symmetrical and is not a function of how closely two hands are related.** A Parunist can read Inverted Parunic fluently and will be wrong about all of it. A Concord clerk can read the Chancery Hand and nothing else. ***The practical map is narrower than the family tree suggests.***
@@ -237,9 +247,11 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 *Workbook. How the Division rules its plates, so that no form has to be drawn from nothing.*
 > The lattice is the **5×5 kamea of Mars, constant 65.** Each of the fourteen Archons reads that lattice **from a different station**: one of the eight dihedral symmetries plus a cyclic value-shift.
 >
-> **A glyph name reduces letter by letter to lattice cells, and the path traced between those cells is the glyph.** Class, Family and Wellspring are **inflections laid on that path rather than redrawings of it.**
+> **A glyph name reduces letter by letter to lattice cells, and the path traced between those cells is the glyph.** Class and Wellspring are **inflections laid on that path rather than redrawings of it.**
 >
 > **No glyph is drawn by eye.** *Which means the method never runs out: name a new spell and its written form already exists in every one of the fourteen hands.*
+>
+> Any path can be traced, then, and what stays fixed is attestation: a hundred and thirty-six forms have a station's reading on record, and a fresh trace has none. The Seven Works of Hataraki trace nothing at all, being grips on Fate and not paths on the lattice, and so they appear in no hand.
 
 ---
 

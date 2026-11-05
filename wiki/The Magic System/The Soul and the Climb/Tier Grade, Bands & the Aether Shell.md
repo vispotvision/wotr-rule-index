@@ -37,6 +37,8 @@ The ceiling is **500** for every practitioner below Stage (one of the sixteen ru
 > A soul accumulates Level by danger overcome and Stage by Catalyst (an event hard enough to force the next Stage, or the same key handed over in a Draft or a blessing), and the two arrive on unrelated schedules. Nothing stops a practitioner from grinding to the top of Band II at Stage IV if no Catalyst has ever reached them and they cannot pay for one. They will be strong, wrong-shaped, and stopped dead at the gate, and their sheet will read as an error to anyone who cannot tell the two columns apart.
 >
 > The reverse case is the house heir. Stages can be bought, and a soul that takes Catalysts faster than it takes pressure arrives at a high Stage on a thin Level, holding architecture it has not earned the density to fill and with no Release to show for any of it. It clears every gate on this table and is the most common way for a great family's second son to die in his first real fight.
+>
+> A blessing can hand someone Levels out of their natural reach, and the counter stops at the Band gate like anyone's. The gate asks for the Threshold, so a blessed Level clears it only when the same blessing also supplies the Catalyst, and the rich have learned to read that clause.
 
 **Band I** is the age of first contact, when the Crystal is porous and half made, and no later years will ever go as fast, because it is still learning the shape of Essence (a soul's own share of Aether, pulled in from the world around it and refined in the Crystal). Everybody on a market street who can warm a kettle is in this Band. They are a real danger to a tavern and a matter of no interest to an Archon (one of the fourteen great powers that embody cosmic law).
 
@@ -79,7 +81,7 @@ A Tier Grade is the letter that says what size of thing a stat can meaningfully 
 
 > **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU (Essence Units, a soul's stored power). **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. It is worked end to end, EU to joules to Grade to tons of TNT, in [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
 >
-> **Inside one Grade.** Two fighters on the same letter settle it by technique, wits, position and how their Sub-Stats are built. A fighter at the top of B-Grade, stat value 275, hits roughly **five times** as hard as one at the bottom, stat value 176, and both are B-Grade. That is a real gap and not always a decisive one, because technique, a Wellspring's lens (one of the Sixty, the governing idea that changes how a soul uses its power) and Path bonuses can close it or turn it round. At its home Path a Wellspring can even double its effect, starting small and reaching double only with years of mastery, and half again is the most it reaches away from home, and that shows up here as a fighter whose row on the table undersells them.
+> **Inside one Grade.** Two fighters on the same letter settle it by technique, wits, position and how their Sub-Stats are built. A fighter at the top of B-Grade, stat value 275, hits roughly **five times** as hard as one at the bottom, stat value 176, and both are B-Grade. That is a real gap and not always a decisive one, because technique, a Wellspring's lens (one of the Sixty, the governing idea that changes how a soul uses its power) and Path bonuses can close it or turn it round. At its home Path a Wellspring can even double its effect, starting small and reaching double only with years of mastery, and half again is the most it reaches away from home, and that shows up here as a fighter whose row on the table undersells them. A Path's force bonus and a lens both apply after the Tier is read, so neither has ever moved the letter, and neither counts on the [[The Magic System/Power in Use/Stacking and Spending|two-Grade cap]].
 
 ### The Sharp-Blunt Asymmetry
 
@@ -132,7 +134,7 @@ Speed comes in three kinds: **Attack Speed** (how fast a technique goes out), **
 A normal look shows the Eight Primaries with their Grades, and a Sub-Stat appears when it is used or when it moves. The full sixty-four remain there to study for anyone with the patience. This one is the Clerk's, on the evening of the Harl Cross market:
 
 ```
-[Mun Seo-yeon · Level 170 · Stage VI, Glory · Path: Spirit]
+[Mun Seo-yeon · Level 170 · Stage VII, Refraction · Path: Spirit]
 [Human, Sum-gol lineage]
 [Class: Auditor]
 [Aether I · Essence III · Thread Ø]
@@ -176,17 +178,7 @@ At thresholds, starting at Glory, **the soul offers its owner a named class that
 
 **The one wild concept stays the person's own.** A class is what the soul says about a life. A concept is what the person decided to do about it, and the class gets no vote on that: a Stage VII Auditor may well fight with soup. Cooks and Measurewrights will both tell you the two sometimes lean together, and the songs mix them up constantly.
 
-### The Three Constants
-
-Every Aether Shell radiates an Aetheric Signature described by three constants.
-
-| Constant | What it measures | Governed by |
-|---|---|---|
-| **Lattice Conductivity** *Equilibrium and Vitae aligned* | How easily Essence moves through the Shell without resistance. Low means blockage and backlash. High means smooth passage. | Vitality (Constitution, Fortitude) · Tempering Clarity |
-| **Resonant Purity** *Intent aligned* | How closely the Shell's output matches the Core's intention. Low means static and misfires. High means near-instant Formation. | Gnosis (the stat of perception and understanding) Fluency · Ardency (Compression, Density) |
-| **Continuum Retention** *Resonance aligned* | How long coherence endures after strain. Low means brief flares. High means sustained resonance. | Harmonics (Stability, Attunement) · Resilience (Integrity, Continuity) |
-
-> **The Aether Index** · Conductivity multiplied by Purity, plus a Retention bonus. This is a **clarity score, and it says nothing about power level.** The Continuum Coherence Ladder measures how much force moves through the Shell. The Aether Index measures how little gets lost on the way through.
+Scholars of a certain age still score a Shell by a sum they call the Aether Index, conductivity against purity with something added for how long it holds, and it is a fine way to pass a winter, since nothing on any sheet has ever read it.
 
 ### The Tiers of Aether Class
 
@@ -194,16 +186,16 @@ Every Aether Shell radiates an Aetheric Signature described by three constants.
 
 | Class | The Shell | Efficiency loss |
 |---|---|---|
-| **Ø · The Dormant** | The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely; corresponds to the Dormant Crystal. **Traits (standing laws a soul carries, formed by what it survived) are unaffected by any of this.** A Class Ø soul carries its laws in the ordinary material of itself, refines by the Weathering (slow hardening along the way a soul is used) rather than by Temperance, and lacks only the open Crystal that would arm what it already holds. No class is offered here. | No stat output above Hollow Grade is possible |
+| **Ø · The Dormant** | The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely; corresponds to the Dormant Crystal. **Traits (standing laws a soul carries, formed by what it survived) are unaffected by any of this.** An unwoken soul carries its laws in the ordinary material of itself, refines by the Weathering (slow hardening along the way a soul is used) rather than by Temperance, and lacks only the open Crystal that would arm what it already holds. No class is offered here. | No stat output above Hollow Grade is possible |
 | **I · The Muridic** | The awakening Shell. It flickers with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably through Aether. The bearer may appear unstable when their lattice (the Crystal's inner structure) is simply learning to speak. Glory, Stage VI, where Aether Class first emerges and the first named class is offered. **Stages I through V are unclassed: the coil (the assay instrument a practitioner stands inside) reads no Class.** | Roughly 30 – 40% |
 | **II · The Harmonic** | The attuned Shell. It begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Refraction. | Roughly 15 – 25% |
 | **III · The Resonant** | The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia (several practitioners working as one), and complex techniques awaken naturally. Late Refraction. **The first Class at which stat values translate into output at near-full fidelity.** | Roughly 5 – 10% |
-| **IV · The Luminous** | The lucid Shell. It thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behavior mirrors the bearer's emotional and moral alignment with unnerving precision. **Lateral.** No single corresponding Crystal Tier; a Shell-specific peak, most often in Intent-aligned souls whose Shell has clarified faster than their Core or Layer. | Negligible. Precision exceeds baseline stat values |
+| **IV · The Luminous** | The lucid Shell. It thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behavior mirrors the bearer's emotional and moral alignment with unnerving precision. **Lateral.** No single corresponding Crystal Tier; a Shell-specific peak: the Body road's first rung of law, and it also turns up in Spirit Path souls whose Shell has clarified faster than their Core or Layer. | Negligible. Precision exceeds baseline stat values |
 | **V · The Radiant** | The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates (standing doorways between Realms), hold Domains against collapse, and speak Parun (the root script of law that reality reads) motifs into matter. The line between intention and environment begins to blur. Early Master, Radiant Crystal, where the first true Domain forms. | Output begins **exceeding** what the raw numbers suggest |
-| **VI · The Voidic** | The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers, and reflects. Voidic conductors channel absence, silence, and negation without erasing themselves. They interface most directly with Limina Wellsprings and Titanic depths. **Lateral**: can appear alongside Resonant, Luminous, or Radiant. | Qualitatively different. Their Ardency does not deal damage. **It removes things** |
+| **VI · The Voidic** | The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers, and reflects. Voidic conductors channel absence, silence, and negation without erasing themselves. They interface most directly with Nihiloth, Vantabriel and the other Wellsprings of absence, and with Titanic depths. **Lateral**: can appear alongside Resonant, Luminous, or Radiant. | Qualitatively different. Their Ardency does not deal damage. **It removes things** |
 | **Ω · The Absolute** | The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons, Titans, and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. | Stat output is no longer meaningful as a separate measurement |
 
-**The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
+**The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral. Read the Stages above as ceilings opening: the Stage says how high the Shell may go, practice moves it up, and a bought Stage opens the ceiling and not the rung. [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|The one table]] sets all three ladders against the Stages.
 > The interaction is **not linear**. The jump from Class II to Class III produces the largest single improvement in stat-to-output fidelity. The jump from Class V to Class VI produces the most dramatic qualitative shift, from conventional force expression to inverted, negation-based expression. The jump to Class Ω produces output the stat system can no longer meaningfully track.
 
 ### The Other Two Ladders
@@ -212,7 +204,7 @@ The Shell is one layer of three, and the other two are graded the same way, Ø t
 
 | Numeral | Aether Class | Essence Class | Thread Class | Aether and Essence lose | Thread loses |
 |---|---|---|---|---|---|
-| **Ø** | Dormant | Silent | Unthreaded | Nothing gets out of that layer | No pull at all, though the Layer's Range, Pressure and bonds run regardless |
+| **Ø** | Dormant | Silent | Unthreaded | Nothing gets out of that layer, apart from a maker's small stamped work at Essence Ø | No pull at all, though the Layer's Range, Pressure, bonds and Domain run regardless |
 | **I** | Muridic | Listener | Touched | Roughly 30 – 40% | Under the bottom of the table. No figure |
 | **II** | Harmonic | Answerer | Drawn | Roughly 15 – 25% | Under the bottom of the table. No figure |
 | **III** | Resonant | Confessor | Spinner | Roughly 5 – 10% | Roughly 30 – 40% |
@@ -221,7 +213,7 @@ The Shell is one layer of three, and the other two are graded the same way, Ø t
 | **VI** | Voidic | Hollow | Severer | Qualitatively different | Qualitatively different |
 | **Ω** | Absolute | Absolute | Absolute | No longer a separate measurement | No longer a separate measurement |
 
-**Each ladder sets η for workings through its own layer**, and the Thread column is the steep one: its numeral gives η as two rungs below the same numeral elsewhere, most souls stay Ø for life, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. What each rung can actually do is on [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
+**Each ladder sets η for workings through its own layer**, and the Thread column is the steep one: its numeral gives η as two rungs below the same numeral elsewhere, most souls stay Ø for life, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip. A person's Stage sets the ceiling of the leading ladder and practice moves them up to it. A Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder runs two behind and stops at II, or at I for Thread. Thread has no Stage climb at all, only a grip plus decades. [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]] has the one table, and what each rung can actually do.
 
 ### How a Shell Ascends
 
@@ -250,7 +242,7 @@ The Shell's rung ascends through refinement, and conquest has never moved it, th
 ![[Assets/Diagrams/soul-crystal.svg]]
 
 > *"To refine the soul is to remove everything that was never truly part of the design, and polish has nothing to do with it."*
-The Crystal is the soul. It evolves through Developmental Tiers representing the synthesis of all three layers at once, each Threshold melting a layer down and rebuilding it. These Tiers are **correlated with but not identical to** Temperance Stages or any of the three class ladders. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
+The Crystal is the soul. It evolves through Developmental Tiers representing the synthesis of all three layers at once, each Threshold melting a layer down and rebuilding it. These Tiers are **correlated with but not identical to** Temperance Stages or any of the three class ladders. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. **The Tier is what the Crystal as a whole has grown into, read against the Stage, and it lags a bought Stage until Level fills it.** A house heir who drank his way to Transcendence has a Stage VIII door on a Resonant Crystal, and it is a good part of what the coil means when it reads his seat.
 
 | Layer | Plane | What it does | The Path that leans on it |
 |---|---|---|---|
@@ -260,18 +252,16 @@ The Crystal is the soul. It evolves through Developmental Tiers representing the
 
 Every soul has all three layers, the unwoken included, and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] is the one its Crystal has learned to lean on. **Essence** is Aether refined in the Crystal and stamped with identity. The Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
 
-The numerals in the table below are the leading ladder's: read them on the Shell for a Body Path soul, on the Core for a Spirit Path soul, and on the Layer for a Fate Path soul, remembering how steep the last one is.
-
 | Tier | Condition | Corresponds to |
 |---|---|---|
-| **Dormant Crystal** | Sealed and silent. Precedes all awakening. The Crystal exists but has not yet opened. The soul is fully furnished all the same and continues to refine by the Weathering, which is why the great majority of the world's Traits sit in bodies that will never be screened. | Class Ø · pre-Initiate |
-| **Awakened Crystal** | The Crystal has opened and begun to circulate Essence. Traits that were already present in the soul become armed, expressible, and expensive. The first layer to activate is always the Essence Core, which is where they were sitting all along. | Unclassed · Initiate to Adept · Stages I–IV |
-| **Harmonic Crystal** | The three layers have found a recurring rhythm. Essence, Aether, and Attraction circulate in a pattern the Continuum can read consistently. Wellspring harmonization becomes structurally possible without tearing the lattice. | Unclassed until Glory, then Class I · Expert · Stages V–VI |
-| **Resonant Crystal** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class II early, Class III late · Expert · Stage VII |
-| **Radiant Crystal** | The Attraction Layer (the Crystal's layer that holds bonds, vows and Domains) gains territorial durability. The first true Domain becomes possible. The Crystal's existence exerts topological pressure on its surroundings. | Class V · Master · Stage VIII |
+| **Dormant Crystal** | Sealed and silent. Precedes all awakening. The Crystal exists but has not yet opened. The soul is fully furnished all the same and continues to refine by the Weathering, which is why the great majority of the world's Traits sit in bodies that will never be screened. | The unwoken · pre-Initiate |
+| **Awakened Crystal** | The Crystal has opened and begun to circulate Essence. Traits that were already present in the soul become armed, expressible, and expensive. The first layer to activate is always the Essence Core, which is where they were sitting all along. | Initiate to Adept · Stages I–IV |
+| **Harmonic Crystal** | The three layers have found a recurring rhythm. Essence, Aether, and Attraction circulate in a pattern the Continuum can read consistently. Wellspring harmonization becomes structurally possible without tearing the lattice. | Expert · Stages V–VI |
+| **Resonant Crystal** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Expert · Stage VII |
+| **Radiant Crystal** | The Attraction Layer (the Crystal's layer that holds bonds, vows and Domains) gains territorial durability. The first true Domain becomes possible. The Crystal's existence exerts topological pressure on its surroundings. | Master · Stage VIII |
 | **Sovereign Crystal** | Trait law and Domain law begin to be the same law. The Crystal has gone past being a container for power and become a generator of local metaphysical conditions. | Master to Grandmaster · Stages IX–XII |
 | **Crystallized Soul** | Self and law correspond with near-perfect precision. The Crystal becomes an exact instrument of identity. Thought carries causal weight. | Archmaster · Stages XIII–XIV |
-| **Absolute Crystal** | The Crystal dissolves as a distinct boundary between self and Continuum. Being and law interpenetrate. | Class Ω · the Apotheosis approach |
+| **Absolute Crystal** | The Crystal dissolves as a distinct boundary between self and Continuum. Being and law interpenetrate. | Paragon · the Apotheosis approach |
 
 ### Crystal States
 
@@ -291,17 +281,17 @@ Crystallized is not a State. Self-as-law belongs to the Crystallized Soul tier a
 
 Nobody's reserve refills out of thin air, thin air being precisely the trouble. A practitioner pulls Aether from the environment around them, refines it in the Soul Crystal into Essence, and drives it out through the Shell, so where you stand matters: rich ground fills you faster and thin ground starves you. The scholar's term for the richness is Aetheric Density, and a sect that holds a rich valley will fight for it like a fair crowd holding the good bench. A Wellspring site, a Core in common speech (no relation to the Essence Core inside the Crystal), mostly lies at the heart of a dungeon. A worked Core is a dungeon someone cleared and now holds: it recharges and has keepers, and its keepers can close it. The old counter to anybody with a large reserve and a long fight ahead of them is therefore to take the fight off rich ground and onto salted, bled or thin ground, and let the figures below do the work.
 
-| **EU · Essence Units** | The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Set by Level and capped by Stage. A practitioner operating below ten percent EU suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering. |
+| **EU · Essence Units** | The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Set by Level and capped by Stage. A practitioner operating below ten percent EU suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering. The Core frays as well, names first and then memory, since what is running out is the self. |
 |---|---|
 | **Flux Density · EU/g** | The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output taken from the same reserve. |
 | **AU/s · Aether Units per second** | The rate a practitioner spends at full output. Governed by Ardency Flux, Ardency Alacrity, and Tempering Yield. **AU/s = Flux Density × η**, and the power that actually lands is **AU/s × η**. So η counts twice, on purpose: once for how much the Shell can move, and once for what survives the trip. |
-| **Eta · η · Efficiency** | The share of Essence spent that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat.** At full output a higher η empties the reserve faster, and for the same delivered effect it makes the reserve last longer, which is the whole of what happened to the Barn. Governed by the class ladder of the layer in use (Aether, Essence or Thread Class), Tempering Clarity, and Ardency Compression. |
+| **Eta · η · Efficiency** | The share of Essence spent that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat.** At full output a higher η empties the reserve faster, and for the same delivered effect it makes the reserve last longer, which is the whole of what happened to the Barn. Governed by the class ladder of the layer in use (Aether, Essence or Thread Class), Tempering Clarity, and Ardency Compression: the ladder sets the band, and Clarity and Compression set the place inside it. |
 
 None of these four figures appears on a window. They are how assayers and scholars do the sums, and the owner sees only the bar, the percentage and the shake in their own hands.
 
 ### Efficiency by Tier of Standing
 
-**Which ladder to read.** From Glory each class ladder sets η for workings through its own layer: Aether Class for what leaves by the Shell, Essence Class for what is authored in the Core, Thread Class for a pull. The table below is two other things: the figure for the unclassed at Stages I to V, and a field average above them, what the fighting halls expect of a stranger at that Stage before anyone has read him. A read rung overrides it, and a registered card's own figure governs its holder. So a Stage VI Clerk on Essence III runs 0.90 to 0.95 through the Core, whatever the Expert row says, and a Radiant Shell at Stage VIII runs above 1.0 while the Master row reads 0.70 to 0.80.
+**Which ladder to read.** From Glory each class ladder sets η for workings through its own layer: Aether Class for what leaves by the Shell, Essence Class for what is authored in the Core, Thread Class for a pull. The table below is two other things: the figure for the unclassed at Stages I to V, and a field average above them, what the fighting halls expect of a stranger at that Stage before anyone has read him. A read rung overrides it, and a registered card's own figure governs its holder. So a Stage VII Clerk on Essence III runs 0.90 to 0.95 through the Core, whatever the Expert row says, and a Radiant Shell at Stage VIII runs above 1.0 while the Master row reads 0.70 to 0.80, because most Masters are still some way under the ceiling their Stage opened.
 
 | Tier | η | What changed |
 |---|---|---|
@@ -319,7 +309,7 @@ None of these four figures appears on a window. They are how assayers and schola
 
 ## Domains
 
-A Domain is a space where a soul's own law outranks the world's, and it has [[The Magic System/The Soul and the Climb/Domains|a page of its own]]. The short of it, since people will ask: a soul grows one by living, and the [[The Magic System/The Soul and the Climb/Release Forms|Second Release]] opens and powers it, by name, called aloud. The Stage grants it and a Grade never does. Dominion (the stat of presence and authority over space) and the Shell's clarity decide how wide it runs and how steady it stands. Anyone at Stage VIII can have one, a bought Stage VIII has the right and none of the finding, and the two-Grade boost cap stands inside it.
+A Domain is a space where a soul's own law outranks the world's, and it has [[The Magic System/The Soul and the Climb/Domains|a page of its own]]. The short of it, since people will ask: a soul grows one by living, and the [[The Magic System/The Soul and the Climb/Release Forms|Second Release]] opens and powers it, by name, called aloud. The Stage grants it and a Grade never does. Dominion (the stat of presence and authority over space) and the clarity of the leading ladder decide how wide it runs and how steady it stands, with the Fate gates on Radius, Sovereignty and Gravity capping it at A-Grade for anyone who has not walked that road. What it rules follows the road, as its page sets out. Anyone at Stage VIII can have one, a bought Stage VIII has the right and none of the finding, and the two-Grade boost cap stands inside it.
 
 | Stage | What the Domain is |
 |---|---|

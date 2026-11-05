@@ -85,18 +85,18 @@ The Stage sets what a Trait is permitted to be, and its level says how far the b
 
 *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
 
-The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or the three class ladders (Aether, Essence and Thread Class, each ranking how cleanly one layer passes power through it; the numerals in the table below are the leading ladder's). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. The three layers are the **Aether Shell**, which meets the Physical World; the **Essence Core**, which holds identity, memory and Traits on the Soul Plane; and the **Attraction Layer**, a soul's own share of fate on the Plane of Fate. Every soul has all three, and a Path is the one its Crystal leans on. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds is certified at the bench and never read off the Crystal.
+The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or the three class ladders (Aether, Essence and Thread Class, each ranking how cleanly one layer passes power through it). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. The Tier is what the Crystal has grown into, read by Stage, and it lags a bought Stage until Level fills it. The three layers are the **Aether Shell**, which meets the Physical World; the **Essence Core**, which holds identity, memory and Traits on the Soul Plane; and the **Attraction Layer**, a soul's own share of fate on the Plane of Fate. Every soul has all three, and a Path is the one its Crystal leans on. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds is certified at the bench and never read off the Crystal.
 
 | Tier | Description | Corresponds to |
 |---|---|---|
-| **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | Class Ø, pre-Initiate |
-| **Awakened** | Opened and circulating Essence. Traits can begin forming. The first layer to activate is always the Essence Core. | Unclassed, Tiers 1–4 · Initiate to Adept (Temperance I–IV) |
-| **Harmonic** | The three layers have found a recurring rhythm the Continuum can read consistently. Techniques stabilize; Wellspring harmonization becomes possible without tearing the lattice. | Unclassed until Glory, then Class I, Tier 5 · Expert (Temperance V–VI) |
-| **Resonant** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class II early, Class III late, Tier 5 · Expert (Temperance VII) |
-| **Radiant** | The Attraction Layer gains territorial durability. The first true Domain becomes possible. Existence begins exerting topological pressure on its surroundings. | Class V, Tier 6 · Master (Temperance VIII) |
+| **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | The unwoken, pre-Initiate |
+| **Awakened** | Opened and circulating Essence. Traits can begin forming. The first layer to activate is always the Essence Core. | Tiers 1–4 · Initiate to Adept (Temperance I–IV) |
+| **Harmonic** | The three layers have found a recurring rhythm the Continuum can read consistently. Techniques stabilize; Wellspring harmonization becomes possible without tearing the lattice. | Tier 5 · Expert (Temperance V–VI) |
+| **Resonant** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Tier 5 · Expert (Temperance VII) |
+| **Radiant** | The Attraction Layer gains territorial durability. The first true Domain becomes possible. Existence begins exerting topological pressure on its surroundings. | Tier 6 · Master (Temperance VIII) |
 | **Sovereign** | Trait law and Domain law begin to be the same law. No longer a container for power but a generator of local metaphysical conditions. | Tiers 6–7 · Master to Grandmaster (Temperance IX–XII) |
 | **Crystallized Soul** | Self and law correspond with near-perfect precision. An exact instrument of identity. Thought carries causal weight. | Tier 8 · Archmaster (Temperance XIII–XIV) |
-| **Absolute** | The Crystal dissolves as a distinct boundary between self and Continuum. Being and law interpenetrate. | Class Ω, the Apotheosis approach |
+| **Absolute** | The Crystal dissolves as a distinct boundary between self and Continuum. Being and law interpenetrate. | Tier 9 · Paragon, the Apotheosis approach |
 
 ### Crystal States
 
@@ -112,7 +112,7 @@ The Soul Crystal is literally the soul, and tempering melts it down and rebuilds
 
 ### What a Domain Is
 
-A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (which stands above the two lower realities, where all possibility rests and where Attraction and Obsession are controlled) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained. Because the claim is the Attraction Layer's, a Domain belongs to Fate's authority whichever Path its holder walks: the Fate Path has the most say inside one, and the Body Path fighter's Domain is a Domain all the same.
+A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (which stands above the two lower realities, where all possibility rests and where Attraction and Obsession are controlled) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained. Because the claim is the Attraction Layer's, a Domain belongs to Fate's authority whichever Path its holder walks: the Fate Path has the most say inside one, and the Body Path fighter's Domain is a Domain all the same. Every Domain runs at Thread Ø and pulls no thread, and its upkeep reads the leading ladder (at Thread Ø, the highest ladder the holder has). A Body Path field rules matter, a Spirit Path field rules meanings and the room looks unchanged, and a Fate Path field rules conditions; the Fate gates on Radius, Sovereignty and Gravity are what cap a Body Path Domain at A-Grade.
 
 A Domain is grown before it is called, and it is no technique to be learned off a wall. The Stage grants it and a Grade never does, and the growing is done by living: Temperance, Dominion (the stat for presence and pressure on others) and the clarity of the leading class ladder climb until the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent. Once a soul has grown one, the Second Release opens it and powers it, it is called aloud at the fighter's choosing, and it forms as it is named; what nobody has ever done is call a Domain the soul has not grown.
 
@@ -160,7 +160,7 @@ When two Domains overlap, the Continuum resolves the conflict through a hierarch
 
 **Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty and Gravity holds their territory while the weaker Domain erodes, and a sharp read can flip it: find where the holder's law is thin and the ground changes hands.
 
-**Third, Wellspring compatibility.** Domains built from opposed Families produce interference patterns that degrade both. Domains from adjacent Families may coexist or reinforce each other.
+**Third, Wellspring compatibility.** Domains built from contrary Wellsprings produce interference patterns that degrade both. Domains from neighboring Wellsprings may coexist or reinforce each other.
 
 **Fourth, doctrine coherence.** A Domain built from a deeply held, honestly lived truth is structurally denser than one built from adopted belief or forced cultivation. The Continuum measures **Tempering Coherence** and **Tempering Maturity** as the tiebreaker between otherwise equivalent Domains.
 
@@ -169,3 +169,5 @@ When two Domains overlap, the Continuum resolves the conflict through a hierarch
 Maintenance costs Essence continuously. The rate is governed by **Dominion Radius** (larger Domains cost more), **Dominion Gravity** (unstable Domains bleed faster), and environmental hostility (maintaining a Domain inside someone else's costs significantly more).
 
 A Domain collapses when EU drops below the minimum maintenance threshold, when concentration is shattered by sufficient force, or when a stronger Domain overwrites it. Collapse produces a **Resonance Shockwave** proportional to the Domain's size and density, often dealing significant damage to everything within the former territory, including the character who lost it.
+
+*Read next: [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]]. The account in words is [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System]], [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]] and [[The Magic System/The Soul and the Climb/Domains|Domains]].*

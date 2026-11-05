@@ -131,7 +131,7 @@ The Yukari teachings are short, and every one of them is something Ashura or Sen
 5. **Stand where the outcome needs you.** Move a thread before you draw a blade.
 6. **Knowledge goes out to mend.** What the house knows may leave the valley to heal and never to take.
 
-The root of all six is [[Cosmology & Metaphysics/Null-Light|Null-Light]], Ashura's own way of seeing.
+The root of all six is [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]], Ashura's own way of seeing.
 
 ---
 
@@ -157,4 +157,4 @@ The Moto were chosen by Bairos and carry the Scribe's mandate; their sight reads
 
 ---
 
-**See also** · [[Artifacts/The Immortal Cross|The Immortal Cross]] · [[Cosmology & Metaphysics/Null-Light|Null-Light]] · [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|The Ketsumyōgan]] · [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Silver Cedars of Yukari|The Silver Cedars of Yukari]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords|The Southern Warlords]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]]
+**See also** · [[Artifacts/The Immortal Cross|The Immortal Cross]] · [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]] · [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|The Ketsumyōgan]] · [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Silver Cedars of Yukari|The Silver Cedars of Yukari]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords|The Southern Warlords]] · [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]]

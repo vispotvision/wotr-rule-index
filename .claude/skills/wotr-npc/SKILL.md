@@ -42,8 +42,9 @@ and carried name for Far-Northern people).
    every other speaker in the scene.
 6. **Body.** Full first-sight inventory: hair by comparison (color, texture,
    length), face shape and one feature, body with shoulders, chest, waist,
-   thighs, belly, hands named, clothing with fit and wear, one distinguishing
-   mark, one scent.
+   thighs, belly, hands named, one distinguishing mark, one scent. Then the
+   gear piece by piece (R85-1): armor, clothes and weapons with material,
+   color, cut, fit and wear, and the Rarity of anything worth showing off.
 7. **Line.** If a practitioner: Stage by source name, Path, and the one or
    two stats the scene will stress, via `fow_line`; a missing figure derived
    from the Fracture of Worlds tables, written plainly, canon on use (R79-10).

@@ -126,7 +126,7 @@ ever.
 ## Art-first path (Isaac, 2026-10-31)
 
 A character built from Isaac's art follows `desktop/CHARACTER_PIPELINE.md`: read the image
-for the physical inventory, age and culture, mood and voice, and power hints; invent nothing
+for the physical inventory, every piece of gear (R85-1), age and culture, mood and voice, and power hints; invent nothing
 the image does not show; derive the numbers from the concept and state them; a voice is one
 description and one sample line; the lore carries sealed secrets; hand back a full draft card.
 Abilities on the card go through `desktop/ABILITY_PIPELINE.md`.

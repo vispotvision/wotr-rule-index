@@ -1,0 +1,37 @@
+# Isaac's direction on gear, 2026-11-05, recorded in RULINGS.md and indexed the same day.
+pack: Directions 2026-11-05 (gear is a flex)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-05 (gear is a flex)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: direction recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-1-GEAR_IS_A_FLEX
+  section: gear-direction
+  title: Gear is a flex
+  kind: mandate
+  summary: Characters' armor, outfits, gear and swords are described on the page and on their cards, piece by piece for a
+    major person at first sight, and the Rarity of weapons and items is said aloud or shown on a window, because gear is
+    how people show off. A flex brings trouble of its own. In a fight the full item window still waits for the aftermath.
+  verbatim: I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito
+    f wapon and items that is a flex
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  - guide: CHARACTER_CARD_TEMPLATE.md
+    locus: The head and XV. Equipment
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - items
+  - character-sheet
+  verification: []
+  notes: Lifts the clause of R70-48-MONEY_PRICE_PROVENANCE that keeps Tier and price off the page unless asked; the rest of
+    that row stands. R71-89-ITEM_CARD_FIGHT stands. How far the direction runs (the whole kit at first sight, the card fields,
+    a flex bringing trouble) is Natalie's reading, logged with it in RULINGS.md and overturnable.

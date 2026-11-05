@@ -37,6 +37,7 @@ owner: <creator, if not an NPC>
 **Traits** · <NAME> (Primary), level <n> · tell: <…> · counter: <…> / <NAME> (Secondary), level <n> · tell: <…> · counter: <…> / …
 **Techniques** · <NAME> · tell: <…> · counter: <…> / <NAME> · tell: <…> · counter: <…> / …
 **Skills** · <the few that matter in a fight, by name and Grade> (R84-8)
+**Kit** · <what they wear and carry at a glance, and the piece people talk about first, with its Rarity; full detail in Equipment> (R85-1)
 **Voice** · "<one sample line>" · speaker type: <the real-world model>
 **Next gate** · Stage <next> by name · Catalyst: <Fracture of Worlds Catalyst, or the Draft or blessing that can supply it> · Band gate: <if one is ahead> · <NPCs only: the crisis the Fronts are building> (only when near a gate, R79-9; delete otherwise)
 
@@ -245,6 +246,9 @@ owner: <creator, if not an NPC>
 ## XV. Equipment
 
 **<Item>** · Grade <letter> · Rarity <Common → Unique> · Accord stamp <Plain → Proscribed> · rung <by name> · bonded: <yes, it grows with him; or no, it stays what it is> · mass / balance <…> · proof-mark <…> · true name(s) <…>
+**Look** · material <…> · color and finish <…> · cut and fit <…> · maker's mark <…> · wear and repairs <…> · how they show it off <…> · what people say about it, past owners <…> · price <…> (R85-1, R82-35)
+
+<!-- One entry per piece worth a look: armor, outfit, weapons, rings, cloak, mount's harness. Everyday and court kit may each get their own. -->
 
 ## XVI. Temperance Record
 

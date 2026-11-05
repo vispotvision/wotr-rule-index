@@ -7,11 +7,13 @@ tags:
 
 # The Magical Categories: Unified Taxonomy
 
-Big Maud Skerritt sold herring on the Skerry quay, and she threw them, flat and hard, at sixty paces, at customers who were slow with the coin. A herring from Maud would crack a tankard in a man's hand and leave a silver bruise that smelled for a week. When a Guild assessor came to ask what license she held, she knocked his hat into the harbor, and the Accord convened a public hearing to establish what, in law, she was doing. Eight Measurewrights (the Guild's sworn measurers) sat on it. The bookies of Skerry opened the book before the benches were full: Vectra at two to one, Arts at three, Manifestus at twelve for the romantics, and forty to one on Mechanica, the forbidden one, which the fish-merchants' guild was paying somebody to argue for. Four days, three fistfights among the bench, one Measurewright in tears, and a demonstration that took the presiding examiner's coif off on the fifth herring.
+Big Maud Skerritt sold herring on the Skerry quay, and she threw them, flat and hard, at sixty paces, at customers who were slow with the coin. A herring from Maud would crack a tankard in a man's hand and leave a silver bruise that smelled for a week. When a Guild assessor came to ask which hall's token she carried, she knocked his hat into the harbor, and the Accord convened a public hearing to establish what, in law, she was doing. Eight Measurewrights (the Guild's sworn measurers) sat on it. The bookies of Skerry opened the book before the benches were full: Vectra at two to one, Arts at three, Manifestus at twelve for the romantics, and forty to one on Mechanica, the forbidden one, which the fish-merchants' guild was paying somebody to argue for. Four days, three fistfights among the bench, one Measurewright in tears, and a demonstration that took the presiding examiner's coif off on the fifth herring.
 
 They entered her under Arts, with a dissent. Vectra's backers rioted in a small way. Maud paid forty silver in fees, in herring, and raised her prices.
 
-I have told that story to every apprentice I have ever had, because this table looks like a law of nature and it was written by people like those eight. There are twenty-six headings below. Most of them are sound. All of them have been fought over by someone with money riding on the answer.
+I have told that story to every apprentice I have ever had, because this table looks like a law of nature and it was written by people like those eight. There are twenty-six headings below, and after them a filing table for what the headings never planned on: windows, skills, classes, monster cores, dungeons and blessings. Most of it is sound. All of it has been fought over by someone with money riding on the answer.
+
+The headings sort **workings**, the things a person does with power. They do not sort people or their trades. A chant, a rune, a tag and a Draft are all done by whoever has leveled the skill, under whatever guild will have them, and each one files here by what it does in the world.
 
 ---
 
@@ -20,7 +22,7 @@ I have told that story to every apprentice I have ever had, because this table l
 Every category carries an alignment tag: **Body**, **Spirit**, **Attraction**, **Triadic**, or a combination. These map onto the three Planes and three expressive Disciplines, restated as *practice* rather than *structure*:
 - **Body-Aligned** leans on the **Physical Plane** and **Vitae**. Essence as impact, motion, form.
 - **Spirit-Aligned** leans on the **Soul Plane** and **Intent**. Essence as precision, memory, shaped will.
-- **Attraction-Aligned** leans on the **Plane of Fate** (the plane that records bonds, oaths and consequence) and **Resonance**. Essence as reach, recognition, binding.
+- **Attraction-Aligned** leans on the **Plane of Fate** (the control of Attraction Force and Obsession Force and the workings of reality itself, where probabilities are moved and the fates of spirits and of things are held) and **Resonance**. Essence as reach, recognition, binding.
 - **Triadic** categories don't lean. They're what happens when all three Disciplines, anchored by **Equilibrium**, operate as one movement, the practice-form of **Formation**.
 - **Combination** tags mark categories operating at the seam between two Planes, neither fully arrived nor fully departed.
 A practitioner's primary Path (which of four Planes a soul's growth leans toward) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
@@ -41,11 +43,13 @@ Structured, discipline-based styles blending movement, form, and Essence flow: c
 
 **Spirit-Aligned**
 
-Alchemical procedures channeling Wellspring (one of the sixty types of Aether, each working on the Soul Crystal its own way and each carrying its own law) processes through Parun Glyphs (signs in the root script of law). Drafts are formulaic: **Aether + Essence + Vessel + Glyphica = Reaction**, the Alchemy codex's central equation as its own category.
+Alchemical procedures channeling Wellspring (the governing idea that transforms how a soul uses Aether, one of sixty, each carrying its own law) processes through Parun Glyphs (signs in the root script of law). Drafts are formulaic: **Aether + Essence + Vessel + Glyphica = Reaction**, the Alchemy codex's central equation as its own category.
 
-Though Drafts touch all three Soul Crystal (the soul's organ that stores Essence and channels it outward) layers, they're classed Spirit-aligned because the decisive variable is how cleanly the Essence Core's intention survives the journey into the crucible.
+Though Drafts touch all three Soul Crystal (the soul itself, which stores Essence and channels it outward) layers, they're classed Spirit-aligned because the decisive variable is how cleanly the Essence Core's intention survives the journey into the crucible.
 
-**Examples:** Coagulation · Conjunction Drafts · Distillation · Sublimation
+The heading is also where the money lives. **A Draft or a blessing can supply a Catalyst**, the change a Crystal needs before it passes a Threshold, so Stages can simply be bought; the great houses hoard the top Drafts for that reason. A monster's core renders into Essence Drafts used for tempering, with Creature-Sourced potency and the risk of Identity Contamination, and a Crystal cut from a dead practitioner makes the strongest Draft of all and the worst crime in every realm. A Fate Essence Draft is a Master Work, a piece no ordinary bench can make: extremely hard, and very coveted.
+
+**Examples:** Coagulation · Conjunction Drafts · Distillation · Sublimation · monster-core tempering Drafts
 
 ---
 
@@ -79,7 +83,7 @@ Triadic because no single Discipline governs it. A Synergia field is several Sou
 
 Magic of tone, vibration, and resonant frequency. Psions, choirs, and empathic casters use Harmonia to tune or destabilize Wellsprings, Traits, and Domains: the practice-form of **Resonance Integrity**.
 
-Sits between Spirit and Attraction because tone originates in the Essence Core (Spirit, what the soul *means*) but only becomes Harmonia once it travels outward to affect other Crystals (Attraction, what the soul *reaches*). Mismatched Resonant Tone produces Echo Fracture (the failure state of tone-work).
+Sits between Spirit and Attraction because tone originates in the Essence Core (Spirit, what the soul *means*) but only becomes Harmonia once it travels outward to affect other Crystals (Attraction, what the soul *reaches*). Mismatched Resonant Tone produces Echo Fracture (the failure state of tone-work). Most chants file here, or under Glyphica when the sentence matters more than the note, and a chant stops when the speaker does.
 
 **Examples:** Veilsong · Lunar Chorus · Frequency Collapse
 
@@ -119,7 +123,9 @@ The Parun-based language of law, the syntax by which the Continuum (the whole la
 
 Spirit-aligned because it's the Essence Core's intention made *legible*. A practitioner with sloppy internalized chains still casts, and what comes out is slightly different from what was intended: a quiet, accumulating error.
 
-**Examples:** Wordform Chains · Sigilcraft (Runecraft, the cut sentence) · Parunic Script Weaving
+Every cut or prepared sentence files here. A rune goes on working in its material after the cutter has gone home, and a tag is prepared ahead, fueled per tag and fired only by a practitioner; both are worked through the Method Scriptia, and both are skills anyone can level.
+
+**Examples:** Wordform Chains · runes and cut wards · tags · Parunic Script Weaving
 
 ---
 
@@ -141,7 +147,9 @@ Sits between Body and Spirit because the trigger is always Spirit (emotional/Ess
 
 The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance, the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
 
-Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognized by what a soul refuses to let end.
+Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognized by what a soul refuses to let end, it stays very hard, and the few high-Stage masters who reach real Fate Arts without the blood for them reach them late, along this road.
+
+A Path is the road. The **Aether Class** a soul is offered at its thresholds is what the road has made of the walker: a named class fitting how the person has lived, giving abilities, shaping growth and evolving at each tier by how it is lived, while the old ladder from Ø Dormant to Ω Absolute stays as its tier. Class and Path both file under Viaforma, since nobody casts either.
 
 **Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Anima (Attraction) · Via Fati (Fate)
 
@@ -155,7 +163,9 @@ Standing laws carried in the soul's own material and expressed through the Cryst
 
 **Traits are not encoded by Temperance.** They are woven into a soul's original Essence, they run in Class Ø bearers whose Crystal will never open, and awakening arms what was already there rather than granting anything new. What Temperance does is the reverse of encoding. **At a Threshold the Crystal melts, and Traits are the only structures that survive the heat, because a law the Continuum has accepted as reliable does not stop being reliable at temperature.** The new lattice cools around them. This is why Traitus governs advancement rather than merely decorating it.
 
-Classed Body-aligned because a Trait's most legible expression is almost always physical, and the expression is literal rather than figurative. A Trait biases the Aether Shell's conductivity permanently, and because the Shell is the Material-Plane layer the bias is laid down in tissue: mineral into bone, altered myelination, rebuilt vasculature, a resting core temperature off the population mean. **A body is a Trait record and a corpse is a better one.**
+Classed Body-aligned because a Trait's most legible expression is almost always physical, and the expression is literal rather than figurative. A Trait biases the Aether Shell's conductivity permanently, and because the Shell is the Material-Plane layer the bias is laid down in tissue: mineral into bone, altered myelination, rebuilt vasculature, a resting core temperature off the population mean. **A body is a Trait record and a corpse is a better one.** So the Tempering that melts the Soul Crystal down and rebuilds each layer also leaves the body with its Traits written into it.
+
+A Trait can be leveled and refined like a skill. Its level rises with use, grows with overall Level and skill, and shows on its bearer's sheet; the law itself stays the law it was.
 
 **Examples:** Mirror Pulse · Iron Veil · Fractured Sight · Silent Step
 
@@ -181,7 +191,7 @@ The engineering, forging, and refinement of Soul Crystals and related lattices, 
 
 Sits between Body and Spirit because its *object* is the Essence Core but its *method* is physical: forging and tempering done with hands and instruments on a lattice that happens to also be a soul.
 
-The discipline's hard limit is that **nucleation cannot be manufactured.** A Crystalia practitioner can widen conductivity, repair a fracture, and prepare a lattice to receive a melt cleanly. They cannot supply a seed, because a seed is a law the subject survived into existence and no instrument makes one. Everything the trade sells past that point is a **Draft under another name**, and the Accord's certification distinguishes the two on paper and nowhere else.
+The discipline's hard limit is that **nucleation cannot be manufactured at the bench.** A Crystalia practitioner can widen conductivity, repair a fracture, and prepare a lattice to receive a melt cleanly. With hands and instruments they cannot supply a seed, because a true seed is a law the subject survived into existence and no instrument makes one. Everything the trade sells past that point is a **Draft under another name**, a seed out of a bottle, and the Accord's halls distinguish the two on paper and nowhere else.
 
 **Examples:** Fractal Alignment · Core Rebinding · Tempered Latticework
 
@@ -191,7 +201,9 @@ The discipline's hard limit is that **nucleation cannot be manufactured.** A Cry
 
 **Triadic System**
 
-The Sixty Wellsprings: the types of Aether a practitioner pulls from the world, each affecting the Soul Crystal differently, each a source of power that also stands for an alchemical principle and a spiritual transformation. Cosmic dialects of transformation, sorted into the **eight Families** by Physics Domain: Caloria, Fulguria, Vectoria, Spatium, Materia, Vitalia, Fluxia, Limina. Temperance governs how much of each process a soul can bear; Wellsprings define what law and emotional grammar are available. A Wellspring also has sites where its Aether pools, and common speech calls such a site a Core.
+The Sixty Wellsprings. A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, a type of Aether affecting the Soul Crystal in its own way, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural Essence Typology (a Crystal's own bias toward one phenomenon), starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
+
+The physics and the numbers are how scholars explain it. Cosmic dialects of transformation, sorted into the **eight Families** by Physics Domain: Caloria, Fulguria, Vectoria, Spatium, Materia, Vitalia, Fluxia, Limina. Temperance governs how much of each process a soul can bear; Wellsprings define what law and emotional grammar are available. A Wellspring also has sites where its Aether pools, and common speech calls such a site a Core; most lie in dungeons, and the rest are said to lie in vast territories.
 
 *The seven Houses of the older registers, Coagulation, Ascent, the Forge, the Green Pulse, the Black Gate, the Veil and the Hollow, sorted by feeling rather than by law and do not map onto the Families. They remain in the Wellspring codices and the Veil literature and are read as historical.*
 
@@ -255,7 +267,7 @@ Sits between Spirit and Attraction because memory itself is Soul Plane, but its 
 
 The quantitative study of Aether behavior: Flux, Aether Units, Efficiency, Density, Coherence. Aetherica links Crystalia, the Coherence Ladder, and the Scale System into one analytic frame, the *measurement* discipline underlying nearly every numeric value in this Continuum.
 
-Triadic Convergence because it's least concerned with *doing* magic and most with *describing* it. A practitioner of Aetherica might never cast in their life, instead ensuring everyone else's workings are measured against the same Ladder.
+Triadic Convergence because it's least concerned with *doing* magic and most with *describing* it. A practitioner of Aetherica might never cast in their life, instead ensuring everyone else's workings are measured against the same Ladder. It is also the heading for the **window**, the soul reporting its numbers to its owner, unseen by anyone else: the window gives its bearer Grades, percentages, bars and levels, Aetherica holds the EU, AU/s and η behind them, and its scholars argue about who built the thing.
 
 **Examples:** Flux Stabilization · Aether Mapping · Continuum Gaugework
 
@@ -279,7 +291,7 @@ The Spirit-Attraction Apex because it requires both: Spirit-side precision to al
 
 Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space. The practitioner does not enforce the law directly; they alter what the region is willing to do cheaply.
 
-Attraction-aligned because a Domain is a standing negotiation with the Plane of Fate rather than an application of force. It persists exactly as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying.
+Attraction-aligned because a Domain is a standing negotiation with the Plane of Fate rather than an application of force. It persists exactly as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying. Anyone at Stage VIII can have one, their own concept made real, and money cannot buy it: a sect teaches it, or the fighter finds it.
 
 Distinct from **Concordia**, which aligns many existing fields into one; Domain Weaving builds a single field from a single soul's claim.
 
@@ -323,6 +335,8 @@ The reading of outcome weight, causal load, and probability distribution: what i
 
 Attraction-forward because outcome weight is a Fate-side property and the practitioner is asking the Plane of Fate a question rather than the Soul Plane. Spirit-side only insofar as the answer must be received by a Core capable of holding it without resolving it into narrative, which is the failure mode: an Auguria reading that arrives already interpreted has been interpreted by the reader.
 
+Auguria is the licit, open end of the Plane of Fate, because it only looks. Moving the weights it reads, to work outside what reality already knows and to control the fate of a thing, is a **Fate Art**, and that is rare, mostly by bloodline and considered incredibly overpowered. Fate Arts file wherever their working lands, here for the reading, Claustra for the binding, Votia for the oath, and every one of them carries the Attraction tag.
+
 **Examples:** Outcome Reading · Tide-Sense · the crow's sight (Yukari) · water-scrying practices with no register entry
 
 ---
@@ -353,6 +367,34 @@ Spirit-aligned because what is being altered is the Essence Core's posture rathe
 > *It is the cheapest advancement mechanism in the world and it is priced in the rest of your life.*
 **A vow broken is a Shear Break.** The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. This is why the orders treat a lapsed vow as a medical emergency rather than a disciplinary one, and why the disciplinary response follows only if the practitioner survives.
 
+A vow is small Fate, a person binding their own probability, and anyone can make one. Spoken, it shows in the bearer's window with the bargain and its terms.
+
 **Examples:** Gisei · Sacrament and Oblation · Disclosure practices · the Vow Clause
+
+---
+
+## The Filing Table: What Has No Heading of Its Own
+
+*Added after the headings were fixed, and over the objections of three of the people who fixed them. The twenty-six sort what is done. Everything below is either a way of doing it or something that was never done by anyone in particular.*
+
+| The thing | Where it files | Why |
+|---|---|---|
+| **A chant** | Harmonia, or Glyphica when the words carry it | A sentence in the air. A skill anyone can level |
+| **A rune, a cut ward** | Glyphica, by the Method Scriptia | A sentence in material, working on after the cutter leaves. A skill anyone can level |
+| **A tag** | Glyphica, by the Method Scriptia | A sentence prepared ahead, fueled per tag, fired only by a practitioner. A skill anyone can level |
+| **A Draft** | Drafts | A working stabilized into a substance. A skill anyone can level |
+| **A petty working** (the noodle seller's knife, the lamp-warden's round) | By what it does, usually Arts or Glyphica | A trade done with the hands for pay, so it costs money and someone can refuse |
+| **A skill** | Under no heading | A thing a person can do, rising with use and shown as a Grade on the sheet. Skills belong to people and these headings sort workings |
+| **A technique** | By what it does | A named thing done with a skill, showing no level and taking a bigger name when it jumps. Two techniques of one fighter routinely sit under two headings |
+| **A Trait level** | Traitus | The law's own growth, rising with use and with overall Level and skill |
+| **A window** | Aetherica | The soul's report of its own measure, seen by its owner alone |
+| **An Aether Class** | Viaforma | The shape a lived life has given the soul, offered at thresholds |
+| **A blessing** | Attraction-aligned where it goes through Fate, which most do; otherwise by what it grants | Power out of a person's natural reach, even in Level, from a giver spiritually stronger than they are: a higher spirit, an Archon, an Epoch, a person of higher Temperance. Vocatia asks upward and a blessing comes down, and it shows on the sheet as a line that can lie, because the giver wrote it |
+| **A curse** | As the blessing it often is | Same power, terms you did not read, or a giver who does not care what you want |
+| **A monster's core** | Drafts once rendered, Crystalia on the slab | In a way the monster's Soul Crystal, and the lawful Crystal Draw of The Standing Index. Swallowed raw it gives everything at once, and most die or come out wrong |
+| **A monster's climb** | Viaforma | Monsters gain Levels by killing and change form at their own thresholds, on the same Level and Grade scale as people, and are graded T1 to T9 |
+| **A dungeon** | Phenomena, with a standing dissent for Domain Weaving | Grown down in floors around a Core, self-sustaining, and with no author anyone can name. It is alive and learning, and scholars argue whether it thinks, which is what the dissent is about |
+| **A worked Core** | Concordia, where its keepers hold it | A dungeon someone cleared and now holds |
+| **A Master Work** | By what it does | A piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named |
 
 ---

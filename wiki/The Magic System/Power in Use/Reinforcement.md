@@ -14,17 +14,17 @@ Every fighting school I have visited tells this story on the first day, and they
 
 ## What it is
 
-A practitioner's stats (the measured strengths of body and soul, read off the Soul Crystal, the organ that stores and sends out their power) live in the body all the time as a **passive base**: always on, costing nothing. **Reinforcement** is the active layer on top, Essence (a practitioner's own power, pulled from the Aether around them and refined in the Crystal) driven through flesh, bone and whatever they hold, to push the body further for a price in reserve (the Essence they carry).
+A practitioner's stats (the measured strengths of body and soul, read off the Soul Crystal, which is the soul itself, the thing that stores and sends out their power) live in the body all the time as a **passive base**: always on, costing nothing. **Reinforcement** is the active layer on top, Essence (a practitioner's own power, pulled from the Aether around them and refined in the Crystal) driven through flesh, bone and whatever they hold, to push the body further for a price in reserve (the Essence they carry).
 
 | Layer | What it does | What it costs | When it is lost |
 |---|---|---|---|
 | **Passive base** | The body at its sheet values: a B-Grade Durability (B, a letter band of force) takes a blow as B, waking or sleeping | Nothing | Sags under Essence Starvation (the state below a tenth of reserve) |
-| **Spread coat** | The whole body lifted within its Grade, toward the top of the band | About ten minutes of holding from a full reserve, at Adept standing (the Accord's fourth rank) | Asleep, drugged, surprised, or starving |
+| **Spread coat** | The whole body lifted within its Grade, toward the top of the band | About ten minutes of holding from a full reserve, at Adept standing (the fourth title, which in a fighting guild is read off Stage) | Asleep, drugged, surprised, or starving |
 | **Focused coat** | One place (a fist, a forearm, the ribs) lifted one full Grade; everywhere else drops to the passive base | About five minutes from full | As above, and wherever the focus is not |
 
 ## How it looks
 
-**A coat of their own aura.** Reinforcement shows as a skin of the practitioner's own color: their Family's hue (the branch of physics their power works, each with its color) at the clarity of their Stage (their step on the soul's sixteen-step ladder): dark low down, brighter as they climb. A Caloria (heat) fighter's coat shimmers ember-orange; a Fulguria (lightning) fighter's crackles arc-blue along the forearms; a Vectoria (force) fighter's shows as nothing but a weight the dust leans toward. It is thickest where they push.
+**A coat of their own aura.** Reinforcement shows as a skin of the practitioner's own color: their Family's hue (the branch of physics their power works, each with its color) at the clarity of their Stage (their step on the soul's sixteen-step ladder): dark low down, brighter as they climb. A Caloria (heat) fighter's coat shimmers ember-orange; a Fulguria (lightning) fighter's crackles arc-blue along the forearms; a Vectoria (force) fighter's shows as nothing but a weight the dust leans toward. It is thickest where they push. The Family sets that base color, a Wellspring (the governing idea that transforms how a soul uses Aether) adds texture and sound, and an Aether Class (the named class the soul is offered at thresholds) or a big Trait adds a shape, so that two Caloria fighters may share a color and nothing else: one coat crawling like coals, the other standing off the shoulders like a mantle.
 
 **The body under it.** Veins stand up, skin tightens and takes a sheen, the stance settles lower, and the breath deepens. Heat comes off a hard-pushed coat in waves.
 
@@ -34,11 +34,11 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 **Held gear, never other people.** The coat runs into what the hand is holding: a blade, a shield, a staff, the hilt of a hammer. Let go and it leaves the steel within a breath. It cannot be laid over another person, however close or however loved.
 
-**Masters can hide it.** Most practitioners must choose: hold their Pressure (the weight their presence puts on a room) in, which is tiring work, or coat up and show their color. A master can reinforce with no color showing at all, and that calm is a warning in itself. Few manage it below Master standing, and the bookies shorten their odds the moment one walks in unlit.
+**Masters can hide it.** Most practitioners must choose: hold their Pressure (the weight their presence puts on a room) in, which is tiring work, or coat up and show their color. A master can reinforce with no color showing at all, and that calm is a warning in itself. Few manage it below Master standing, and the bookies shorten their odds the moment one walks in unlit. The other direction is just as old: a fighter short on reserve can flare a coat bigger than the body behind it, which is why anything but a true read (a stronger Gnosis Perception against a weaker Resilience Ward) is an estimate said aloud.
 
 ## What it costs
 
-- **Reserve, by the second.** A card writes it as time from full: how long the coat holds, started on a full reserve, before the reserve reaches its tenth. A spread coat runs about ten minutes for an Adept, longer as their efficiency climbs; a focused coat runs about half that.
+- **Reserve, by the second.** A card writes it as time from full: how long the coat holds, started on a full reserve, before the reserve reaches its tenth. A spread coat runs about ten minutes for an Adept, longer as their efficiency climbs; a focused coat runs about half that. The practitioner's own window (the soul reporting its numbers to its owner, unseen by anyone else) shows the running figure as a percentage and a bar, and nobody else in the fight gets to see it.
 - **A layer on the stack.** A focused coat's one-Grade lift is a power-up like any other and counts toward the cap (no more than two Grades over what the Crystal can hold safely) and toward the fracture risk that comes with stacking (see Stacking and Spending). A spread coat lifts only within its Grade and adds no risk.
 - **Starvation.** Below a tenth of reserve the active coat fails outright and the passive base itself sags: the body reads weaker than its sheet, worse the deeper the reserve goes, and Traits (the soul's standing laws) begin to flicker.
 - **Rebuilding.** A coat dropped by surprise comes back in one beat once the practitioner knows what is happening. One beat is a long time with a knife already in.
@@ -56,4 +56,11 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 **Mags Tolley**, a Stage V hired hunter with Fulguria Essence, sleeps at a waystation with her boots on. A thief with a knife comes through the shutter. She is asleep, so she has only her passive base, but her Durability is B-Grade and the blade skids off her collarbone and opens a shallow line instead of a deep one. She wakes, and in one beat the coat comes up arc-blue over her forearms, hissing like a wet wick.
 
-The thief has a partner at the door, Stage V like her and swinging a coated maul. Mags gathers the coat into her left forearm and takes the maul there: the arm is lifted a full Grade and the iron rings off it. But the blue has drained from her right side to bare skin, the partner sees it, and his second swing goes for her right ribs. She turns her hip, eats half of it at base, and feels a rib go. From here she has perhaps five minutes of focused coat from what is left in her, and she knows it.
+The thief has a partner at the door, Stage V like her and swinging a coated maul. Mags gathers the coat into her left forearm and takes the maul there: the arm is lifted a full Grade and the iron rings off it. But the blue has drained from her right side to bare skin, the partner sees it, and his second swing goes for her right ribs. She turns her hip, eats half of it at base, and feels a rib go. Her window reports it the moment after, in the tongue she grew up with:
+
+```
+[Damage: right ribs, one cracked]
+[Reserve: 81% ▓▓▓▓▓▓▓▓░░]
+```
+
+From here she has perhaps five minutes of focused coat from what is left in her, and she knows it.

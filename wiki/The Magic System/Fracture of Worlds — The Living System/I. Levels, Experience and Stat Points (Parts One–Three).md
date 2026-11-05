@@ -15,7 +15,7 @@ The Guild has a word for what forty thousand eels were worth, Familiar, and you 
 
 ### The Hard Cap
 
-The system operates on a maximum of Level 500 for every practitioner below Stage XV. This number is not arbitrary. It represents the structural limit of what a mortal Soul Crystal (the soul's inner crystal, where a practitioner's power is held and shaped) can contain before the distinction between practitioner and Principle collapses entirely. Characters below Stage XV who reach Level 500 and continue to accumulate sufficient Soul Crystal pressure do not advance in level. They begin the Apotheosis approach, a qualitative event outside the scope of numbered progression. **Paragons exceed Level 500.** At Stages XV–XVI, Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
+The system operates on a maximum of Level 500 for every practitioner below Stage XV. This number is not arbitrary. It represents the structural limit of what a mortal Soul Crystal (literally the soul itself, where a practitioner's power is held and shaped) can contain before the distinction between practitioner and Principle collapses entirely. Characters below Stage XV who reach Level 500 and continue to accumulate sufficient Soul Crystal pressure do not advance in level. They begin the Apotheosis approach, a qualitative event outside the scope of numbered progression. **Paragons exceed Level 500.** At Stages XV–XVI, Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
 
 Levels divide into five Bands of one hundred levels each. Every Band corresponds to a Temperance Stage (one of the sixteen rungs of a soul's refinement) cluster. No character can breach a Band ceiling without first passing the Temperance Threshold (the breakthrough that lifts a soul to its next Stage) that cluster demands. The System will simply halt the level counter and build pressure, called Residual Strain, until the Threshold is passed or the character fractures under the weight.
 
@@ -37,7 +37,7 @@ Zenith, Stage XIV, is not a stage that ends. It is the state of a soul that has 
 
 ### What Experience Actually Is
 
-Experience is not a numerical token distributed by slain enemies. It is Resonant Accumulation, the compression residue left inside the Soul Crystal when a living being makes genuine contact with forces, choices, and consequences that exceed their current metaphysical comfort.
+Experience is Resonant Accumulation, the compression residue left inside the Soul Crystal when a living being makes genuine contact with forces, choices, and consequences that exceed their current metaphysical comfort. Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill, loudly and for years. The window settles nothing, since it reports only to its owner: `[Level 12, up 9]`.
 
 The Soul Crystal is not impressed by repetition. It measures growth pressure. The question it asks of every event is: did this stretch the soul's architecture toward something it has not yet become? If yes, the Crystal records it. If no, the event passes through without deposit.
 
@@ -85,7 +85,7 @@ Every level grants a fixed allotment of Stat Points. **Points are spent on Sub-S
 
 This is the model every sheet is built on. A sheet that records a Primary as a figure bought in its own right, a second layer of spend laid over the Sub-Stats, is wrong by this page and is re-costed to this shape: points on the Sub-Stats only, the Primary as the total of its eight, the Grade read off the mean.
 
-Points are spent freely across any Sub-Stats the character chooses, subject to the concentration cap below, which applies per Sub-Stat per level-up.
+Life spends most of these points. A level's allotment lands where the pressure went, by what the person actually does, and a farrier's points do not wander into Feint because he would have liked them to. A few are the owner's to place, at each Stage, on whatever Sub-Stats they choose. Both obey the concentration cap below, which applies per Sub-Stat per level-up.
 
 | Band | Points per level | Concentration cap per Sub-Stat, per level-up |
 |---|---|---|
@@ -95,7 +95,7 @@ Points are spent freely across any Sub-Stats the character chooses, subject to t
 | IV | 21 | 10 |
 | V | 24 | 12 |
 
-Temperance Threshold events grant bonus Stat Points equal to **the Stage number multiplied by 100**, distributed freely into Sub-Stats on the same terms. A Stage VI Threshold awards 600 points. A Stage XIII Threshold awards 1,300.
+Temperance Threshold events grant bonus Stat Points equal to **the Stage number multiplied by 100**, landing in Sub-Stats on the same terms: most where the life that reached the Threshold has been spending itself, and a few wherever the owner sets them. A Stage VI Threshold awards 600 points. A Stage XIII Threshold awards 1,300.
 
 Stage I counts as a Threshold worth 100 points. Every practitioner starts with those 100 Threshold points, and the totals below count them: 1,000 from Thresholds I through IV, 9,100 through Stage XIII.
 
@@ -124,3 +124,17 @@ A character finishing Band II at Level 200 and Stage VII holds roughly 5,500 cum
 Because the ceiling sits on the Sub-Stat rather than the mean, the original rule holds and is **restored**: a character's Sub-Stats and their Primary Grade sit in the same bracket. If they are B-Grade, their stats are broadly B-Grade. Spread shows what they are good at. It does not move them between brackets.
 
 **What the mean does to specialists.** A Primary is dragged down by its neglected entries as hard as it is lifted by its favorites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak. That gap is not a defect in the accounting; it is the reason a register is worth lying to.
+
+### The Sheet in the Window
+
+The owner sees all of this in letters. A normal look at the window shows the Eight Primaries with their Grades. A Sub-Stat appears when it is used or when it moves, and the full set remains there to study. Race and lineage show on the sheet and shape base stats and what comes easily, and skills sit beside them, rising with use and shown as Grades. Jory's window, on the evening they carried him to the taverns, ran something like this:
+
+```
+[Level 12, up 9]
+[Fortitude: F, rising]
+[Threshold: F, rising]
+[Skill: Gaff, D]
+[Points to place: none until your next Stage]
+```
+
+The raw values above are what a sheet costs out and what a Measurewright reads. Nobody's own window has ever shown them, and Jory could not have told you what a Sub-Stat was on the best day of his life, which this one was.

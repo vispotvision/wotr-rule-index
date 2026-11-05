@@ -16,6 +16,8 @@ Mad Dunna Quillon ran Bloodsilver past the harbor searchers of three kingdoms fo
 > Three registers, one economy. **The Ledger** says what the world is made of. **The Standing Index** says what may lawfully be made from it. **Hide, Horn and Bone** says what was alive first.
 >
 > *A material that scores high on both earns a harder word than good: strategic, and the Accord keeps a register of who owns the seams.*
+>
+> **The money runs on cores.** A monster's core is in a way its Soul Crystal, worth more the stronger the monster, and it renders into the Essence Drafts every practitioner with a purse takes to temper. Hunting halls live on it, the great houses hoard the top of it, and the worst crime in every realm is passing off a dead practitioner's Crystal as one. **The Common Drafts** has the bottles, and **Hide, Horn and Bone** has the price at the door.
 
 ---
 
@@ -28,9 +30,9 @@ Mad Dunna Quillon ran Bloodsilver past the harbor searchers of three kingdoms fo
 > **HOLDING** is what a material does under Essence. How much it retains, how long, how cleanly it releases, and whether an inscription stays legible to the Continuum (the order of the world that reads a working and answers it) over years rather than weeks.
 >
 > Measured on the coil (the great brass assay instrument; a practitioner stands inside it to be read, and a sample sits where the practitioner would).
-**The two do not track each other.** Forge-Iron bears magnificently and holds nothing. Gloomhide is spiritually inert and physically superb. Mireclay holds a totem for one night and cannot hold a roof for one hour.
+**The two do not track each other.** Forge-Iron bears magnificently and holds nothing. Gloomhide is spiritually inert and physically superb. Mireclay holds a totem for one night and cannot hold a roof for one hour. A material's tier says what it can hold; a finished piece also carries a Grade for its power and a Rarity for its scarcity, and those belong to [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]].
 
-**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty fixed types of Aether, each affecting the Soul Crystal differently). **Family** names the behavioral family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
+**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty alchemical and spiritual transformations, each the governing idea that shapes how a soul uses Aether and each a type of Aether as well). **Family** names the behavioral family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
 > Blank cells in those three columns mean **canon is silent, not that the material is inert.** An Engraver (the craftsman who cuts a working into a substrate) who fights his substrate pays for it in the lifespan of the inscription.
 
 ---
@@ -63,7 +65,7 @@ The registers are dry by construction and the pattern only shows at scale.
 **The most important materials are the dull ones.** Chainsalt refuses Essence so completely that every gasket and isolation collar in every serious array (a working laid out in glyph and substrate to run in place) is cut from it. Drawcord Sinew is the best cordage below silk and nobody has ever written a song about it. **Gray Standing Chalk is deliberately characterless**, and an apprentice who cannot make a circle work with it has made a bad circle.
 
 **And the register's most consequential column is the one about where things came from.** The Three Marks run from **Class I Vein Draw**, taken straight off a Wellspring site by array and carrying nothing, to **Class VI Archonic Residue**, which is not rendered but found, and has **no origin the instrument can locate.**
-> Between them sits **Class IV, Crystal Draw**, rendered from something that carried a Soul Crystal. Three lawful sources, **and the arithmetic has never balanced.**
+> Between them sits **Class IV, Crystal Draw**, rendered from something that carried a Soul Crystal. The lawful article is a monster's core, **and the arithmetic has never balanced**, because the surplus was cut from the dead.
 
 ---
 
@@ -79,15 +81,15 @@ The registers are dry by construction and the pattern only shows at scale.
 >
 > **4 · The Material Index, T5–T9**: what requires a forge-array, a rite, or a corpse, and what lies past that.
 >
-> **5 · Hide, Horn and Bone**: what was alive first, and the twentieth entry.
+> **5 · Hide, Horn and Bone**: what was alive first, the twentieth entry, what a kill makes and what a core is worth.
 >
-> **6 · Alchemetrica**: the practitioner's codex. What the work is, and what the bench costs the body.
+> **6 · Alchemetrica**: the practitioner's codex. What the work is, what the bench costs the body, the core on the bench and the Master Works.
 >
 > **7 · The Alchemical Index**: the sixty-one attested formulas, each with its analogue, its mechanism and its failure.
 >
 > **8 · The Heresiology of Alchemy**: the doctrinal counterpart. Seven lawful stages, seven inversions, and the grammar a civilization needs so it does not mistake catastrophe for genius.
 >
-> **9 · The Standing Index**: the Bench's own register. Forty-five entries, the three marks, and the three lawful sources of Class IV.
+> **9 · The Standing Index**: the Bench's own register. Forty-five entries, the three marks, and the lawful sources of Class IV, with the monster core first among them. Its shelf-mates **The Common Drafts** and **Prepared Tags** are what the counter actually sells.
 >
 > **10 · The Bench of Attribution**: entry, striking, attribution and reservation, and the one instrument the procedure has never required.
 >
@@ -112,6 +114,8 @@ The registers are dry by construction and the pattern only shows at scale.
 *How the work is done, what it costs the body, and how a civilization names the ways it goes wrong.*
 - [[Materials, Alchemy & Trade/Alchemy/Alchemetrica]]
 - [[Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy]]
+- [[Materials, Alchemy & Trade/Alchemy/The Common Drafts]]
+- [[Materials, Alchemy & Trade/Alchemy/Prepared Tags]]
 
 ### III · The body that rules on it, and the money
 

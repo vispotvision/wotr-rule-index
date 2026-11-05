@@ -12,6 +12,7 @@ title: Techniques
 
 Every art on this shelf has two names, and the Guild has lost a window, two clerks' teeth and the argument trying to rule between them. The first is the one shouted across a bracket field with the blood already up, the one heralds cry and bookies chalk and children get wrong in the street. The second is the scholars' term, the old careful name on the rolls, kept because Measurewrights like to be understood by other Measurewrights. Each page gives you the hook and the named moves first, then how it really works, its Cost and its Counter, and the exact figures at the bottom for anyone who still wants them.
 
+A technique is a named thing done with a skill. The skill rises with use and shows as a Grade on its owner's sheet; the technique shows no level at all, and when it jumps it takes a bigger name, the old one staying in use among everyone who knew it when. The arts that are spoken or held have a shelf of their own, [[The Disciplines/Spellcraft/Spellcraft|The Spoken Arts]], and they are techniques too.
 
 - [[The Disciplines/Techniques/Sigillum Fixationis|The Nine-Second Eternity]] (scholars' term: Sigillum Fixationis)
 - [[The Disciplines/Techniques/Fluxus Intervallum|Thunderclap Stride]] (scholars' term: Fluxus Intervallum)

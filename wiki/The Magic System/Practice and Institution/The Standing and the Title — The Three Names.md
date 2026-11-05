@@ -1,13 +1,13 @@
 ---
-title: The Standing and the Title — The Three Names
+title: "The Standing and the Title: Guild Titles as Trust"
 tags:
   - Magic System
   - Factions
 ---
 
-# The Standing and the Title — The Three Names
+# The Standing and the Title: Guild Titles as Trust
 
-*On the Three Names Every Practitioner Carries, and How the Last One Is the Only One That Matters*
+*On the Three Names Every Practitioner Carries, What the Second One Promises, and Why the Last One Follows You Anyway*
 
 *Compiled for the Research and Archives Division · companion to The Derivation of Practice, The Guild Accord, and The Works and Days*
 > *"The Accord knows what I am. My guild knows what I rank. The man across the room knows what I feel like. He is the one I worry about."*
@@ -16,7 +16,7 @@ tags:
 
 Aldith and Edony Moor of Kelderbridge were cousins who had trained in one yard under one master, and at the Hallowmark Fair the coil gave them one reading to the last decimal, the same Family and Stage, the same hot orange coat, which made theirs, the herald said, the fairest bout on the river. The herald, who was paid by the word, cried both profiles in full from the rail. Nobody cheered. The stands cracked walnuts and waited for it to be over. Then Aldith walked into the ring, and the front rows breathed out, and a baby that had been screaming since noon went quiet, and a boy on somebody's shoulders yelled "THE STILL WATER!" and the whole west stand took it up. Edony came through the east gate, and the east stand got to its feet without anyone deciding to, a fishwife began to cry and could not say why, the dogs under the benches left in a body, and the same boy, who had a future in the trade, yelled "THE STORM!" An old pie seller named Goody Rudd, who had spent the morning sitting on a bench beside each of them in turn, had put her stall and her house on Aldith, and an hour later, with half the ring on fire and the east stand down on forty broken legs, she collected them and a third of the bookie's boat. The instruments had told everyone the truth. It was the wrong truth to bet on.
 
-The Moors had three names each, like every practitioner alive, and the crowd had only ever cared about the third. So will this page, after it has dealt with the other two.
+The Moors had three names each, like every practitioner alive, and the crowd had only ever cared about the third. The third follows you into a tavern. The second is the one that lets a stranger hand you the goods, and since half the world has it wrong, it gets the middle of this page.
 
 ---
 
@@ -27,15 +27,43 @@ The Moors had three names each, like every practitioner alive, and the crowd had
 **The First Name · what the instrument says.** A string of measurements reading as a sentence in a language designed for ledgers. *Caloria, Kinesia, Stage VIII Transcendence, Grade S, Class III Resonant, Master, η .91.* **This is what the coil (the Accord's assay instrument) says when you stand inside it.**
 > *Impersonal, diagnostic and correct. It tells you what the soul does the way a scale tells you what a thing weighs.* **It cannot tell you what the weight means to the person carrying it,** and it is therefore the name that matters least in every room that does not contain a coil.
 >
-> **Nobody introduces themselves by their instrument profile.** The Accord publishes it. The factor houses price it. *The person it describes has already stopped listening.*
+> **Nobody introduces themselves by their instrument profile.** The halls publish it. The factor houses price it. *The person it describes has already stopped listening.*
+>
+> The bearer has a private copy. A window (the soul reporting its numbers to its owner, in their own tongue, unseen by anyone else) shows them their Grades, percentages, bars and levels, and it leaves out the η. Everyone else needs a coil, or a Gnosis Perception that outranks the bearer's Resilience Ward by Grade, and short of that, what the room has is an estimate said aloud, which people hide and fake.
+>
+> **It is also the one name a purse can change overnight.** A Draft-bought Stage moves every figure on this line and does nothing whatever to the third name below.
 
-**The Second Name · what the Accord calls you.** Initiate through Paragon. **It travels with the silver token.** It opens doors, closes borders, **and prices your future output at every factor's table.**
+**The Second Name · what your guild will trust you with.** Initiate through Paragon. **It travels with the silver token.** It opens doors, closes borders, **and tells a stranger what he may safely hand you.**
 
-| Tier | Grade | Stages covered | Title conferred |
+The Guild Accord (a coalition of many kinds of guild across many nations: adventurers, merchants, craftsmen, alchemists, healers, couriers and more) has one thing every hall in it signs on for, and this is it: the same nine titles in every guild, each one grading trust in that trade.
+
+Dame Ottilie Marsh, Grandmaster of the Mercers' hall at Waxgate, stands about as high as a flour barrel and was once knocked down a flight of stairs by a goose. In the spring two kings of the Hundred Crowns, at war over a bridge, handed her the crown jewels of both kingdoms on one afternoon to hold against the ransoms, in scarlet silk bags, in the middle of the battlefield, because of a bit of silver at her belt, and neither of them counted. A Stage VI captain in a coat the color of a bonfire stood over her and thought about it where his whole company could watch him think. She looked up and asked who he imagined would ever buy them from him. He went away. Her token says she may be trusted with anything short of a Mythic piece, and nowhere does it say she can throw a punch.
+
+| Tier | Title | A merchant may sell up to | A craftsman may make up to | An adventurer may take commissions up to |
+|---|---|---|---|---|
+| **1** | **Initiate** | Common | E (stamped Marked) | T1 |
+| **2** | **Apprentice** | Common | D (Proofed) | T2 |
+| **3** | **Journeyman** | Uncommon | C (Tempered) | T3 |
+| **4** | **Adept** | Rare | B (Instrument) | T4 |
+| **5** | **Expert** | Rare | A (Hallowed) | T5 |
+| **6** | **Master** | Very Rare | S to SS (Storied) | T6 |
+| **7** | **Grandmaster** | Legendary | SS to SSS (Found) | T7 |
+| **8** | **Archmaster** | Mythic | X to EX (Numinous) | T8 |
+| **9** | **Paragon** | Unique | EX+ (Proscribed) | T9 |
+
+> **Rarity is scarcity and Grade is power**, and an item carries both. A merchant's title caps the first, a smith's title caps the second, and an adventurer's title and a monster's bounty read off the same T1 to T9. A courier's title says what he may be handed sealed, a healer's what she may be paid to treat, and every other hall has written its own line under the same nine words.
+>
+> **A hall confers a title by its own lights:** a term and a masterpiece among the makers, a ledger that balanced for twenty years among the merchants. A title needs no woken Crystal, and most of the merchants' Grandmasters have never so much as warmed a kettle.
+>
+> **A forged token is a great crime in every realm that has signed, and the forger is often hanged.** The title is the whole reason a stranger hands you the goods, and one forged token that gets found out makes every honest token on that road worth a little less. A title lost is a scandal of the same family: the hall strikes it, the news goes down the road faster than the owner can, and by the next market nobody will hold his coat.
+
+**The fighting guilds keep one more table.** Adventurers' guilds, company soldiers and the rest who are paid to be dangerous read the title straight off the Stage table, because in that trade the thing they are trusting you with is the fight.
+
+| Tier | Grade | Stages covered | Office it can carry |
 |---|---|---|---|
-| **1 · Initiate** | E | Murmuring | — |
-| **2 · Apprentice** | D | Welling | — |
-| **3 · Journeyman** | C | Ascension | — |
+| **1 · Initiate** | E | Murmuring | none |
+| **2 · Apprentice** | D | Welling | none |
+| **3 · Journeyman** | C | Ascension | none |
 | **4 · Adept** | B | Flourishing | **Concord Agent** |
 | **5 · Expert** | B* → A → S | Splintering, Glory, Refraction | **Sealwright**, enforcement specialists |
 | **6 · Master** | S → SS | Transcendence, Invocation, Realization | **Warden of Duty** |
@@ -43,15 +71,19 @@ The Moors had three names each, like every practitioner alive, and the crowd had
 | **8 · Archmaster** | X → EX | Principality, Zenith | **Bearer of the Concord Flame** |
 | **9 · Paragon** | EX+ → Unbound | Revelation, Apex | **Chosen of the Codex** |
 
-> **Hollow and F confer no rank.** The ladder begins at E because the Accord does not register what it cannot examine. A Crystal (the soul's organ that stores Essence and channels it outward) that has opened and not yet been taught is a person the register has no row for, **which is the condition most practitioners in the four quarters will die in.** They drill in the yards, sell their small tricks and argue about rank in taverns all the same, and every one of them can recite this table.
+> So a title on a token says how good you are at your trade, and only in a fighting guild does it also say how dangerous you are. A sellsword who bows to a Grandmaster at Waxgate has made a mistake about which table he is reading, and she will sell him something for it.
 >
-> *A Paragon is the reference standard, the thing other measurements are checked against.* **It is the name an institution gives a practitioner it can no longer measure**, and the Codex files it as a rank because filing it as a rank is the only alternative to admitting the apparatus has run out of scale.
+> **A bought Stage reads on a fighter's token like any other.** The Stage table does not ask how you crossed. Crews ask, in the hall, before they go down a stair with you, because a Stage bought with a Draft opens the door and no more, and a commission does not care what you paid.
 >
-> *A Grandmaster who has been a Grandmaster for thirty years does not think of herself as a Grandmaster. She thinks of herself as whoever she was before the rank, plus whatever the rank cost her, and the Accord's title for that composite is a word that fits on a credential and misses everything that doesn't.*
+> **Hollow and F confer no rank on this table.** It begins at E because the halls do not register what they cannot examine. A Crystal (the soul itself, which stores Essence and channels it outward) that has opened and not yet been taught is a person the fighters' register has no row for, **which is the condition most practitioners in the four quarters will die in.** They drill in the yards, sell their small tricks and argue about rank in taverns all the same, and every one of them can recite this table.
+>
+> *A Paragon is the reference standard, the thing other measurements are checked against.* Among fighters **it is the name an institution gives a practitioner it can no longer measure**, and the Codex files it as a rank because filing it as a rank is the only alternative to admitting the apparatus has run out of scale. Among merchants it is the person whose word other markets check their own weights against.
+>
+> *A Grandmaster who has been a Grandmaster for thirty years does not think of herself as a Grandmaster. She thinks of herself as whoever she was before the rank, plus whatever the rank cost her, and the title for that composite is a word that fits on a credential and misses everything that doesn't.*
 
 **The Third Name · what the world calls you. This is the one that matters.**
 
-No instrument assigns it and no institution confers it. **It is generated by the experience of being near you**, shaped above all by the behavioral signature of your Aether Class Archetype, **which is the thing your soul does to the room when you walk into it.**
+No instrument assigns it and no institution confers it. **It is generated by the experience of being near you**, shaped above all by the behavioral signature of the Archetype under your Aether Class, **which is the thing your soul does to the room when you walk into it.** The class itself, the named one your soul was offered at a threshold for how you have lived, is on your window and nobody else's. The Archetype is on everybody's skin.
 >
 > *Two practitioners at identical Stage, Grade, Family and Method. The coil gives them the same numbers.* **One walks into a tavern and the fire steadies, the barman relaxes, the dog under the table puts its head down. The other walks into the same tavern and the fire spits, the barman reaches under the counter, and the dog leaves.**
 >
@@ -94,7 +126,7 @@ Stage, Grade, Family and Method have no hand in the Archetype, which is why iden
 
 A Passive Reflection is a law stabilized by long habit and continuous exposure, always running, costing almost nothing to hold and impossible to switch off. It shows in posture, in gait, in thermoregulation, in scent, and in the ambient behavior of a room somebody has been sitting in for an hour. **The trained sense a soul's power and argue over it openly enough. The Third Name is read off something else: a soul's standing bias, at the only amplitude that never stops broadcasting.**
 
-This is why the Third Name is stickier than the other two and why it cannot be renounced. A rank can be surrendered and an instrument profile changes at every Threshold (the crisis that lifts a soul to its next Stage). **A Passive Trait is the shape of a life already lived**, and it goes on expressing at the same amplitude whether the bearer is fighting, sleeping, or sitting quietly in a room full of people who have not been told who he is.
+This is why the Third Name is stickier than the other two and why it cannot be renounced. A title can be surrendered and an instrument profile changes at every Threshold (the melting and rebuilding that lifts a soul to its next Stage, whether by crisis or out of a bottle). **A Passive Trait is the shape of a life already lived**, and it goes on expressing at the same amplitude whether the bearer is fighting, sleeping, or sitting quietly in a room full of people who have not been told who he is.
 > *The crowns' spy-clerks worked this out two centuries before the Archives did. Every agent's file records Passive Traits first and stat profile second, because the profile is what an enemy can only learn by fighting him and the Passive is what a stranger learns by sharing a bench.*
 >
 > **Which means the unawakened have Third Names and nothing else.**
@@ -143,8 +175,8 @@ This is why the Third Name is stickier than the other two and why it cannot be r
 
 ## What the Archives Has Not Filed
 
-**The titles the dead keep** are the one gap the Division treats as urgent, and the reason is Runecraft (inscribing a working into stone or metal). A name cut into stone by an Engraver three centuries dead is still legible, still doing work, and still attached to a Third Name nobody alive can verify. **The wall says who he was. There is no living instrument that can check.**
+**The titles the dead keep** are the one gap the Division treats as urgent, and the reason is the cutting (inscribing a working into stone or metal). A name cut into stone by an Engraver three centuries dead is still legible, still doing work, and still attached to a Third Name nobody alive can verify. **The wall says who he was. There is no living instrument that can check.**
 > *The Kharven death-houses carry the hardest version. The inscriptions name their Engravers. Several of the names belong to no lineage the seat can trace, and the Accord's position is that the records were lost. The Kharven position is that the records were taken.*
 
-**Stripped-title ceremonies** exist, are rare, and fail to do what the ceremony implies. The Accord can revoke a rank and strike a profile from the register. **It cannot stop a room from settling when a Harmonic walks into it**, and every stripped practitioner discovers within a season that the only name that survived the ceremony was the one nobody had the authority to grant.
+**Stripped-title ceremonies** exist, are rare, and fail to do what the ceremony implies. A guild can revoke a title and strike a profile from its register. **It cannot stop a room from settling when a Harmonic walks into it**, and every stripped practitioner discovers within a season that the only name that survived the ceremony was the one nobody had the authority to grant.
 > Still unfiled: per-kingdom title conventions, historical title lineages, inheritance and succession, and the civilian conventions by which a village names a practitioner it has decided to keep.

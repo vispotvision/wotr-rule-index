@@ -15,7 +15,7 @@ tags:
 
 The most expensive cat in the western quarter was a ginger tom called Lord Bartholomew, who kept the Purslane granary at Winnowgate for nine years at a saucer of cream a day. Then Maudlin Purslane had her lintels painted with Rat-Flight Ward Resin, bought from Jos Tolliver at a silver mark and eight-tenths the measure, and not one rat crossed her threshold from that day. Neither did Lord Bartholomew. He walked up to the door, stopped, and sat down, and he sat there for nineteen days while the mice, who had not been mentioned, moved in. She sued Tolliver at the Winnowgate assize for the loss of a cat. The town had nothing better on that year. By the second morning there were sausage-sellers on the courthouse steps, the granary women in orange ribbon on one side of the hall and the Ratcatchers' Company in black on the other, singing at each other across the bar, and on the third day Tolliver's advocate, a large and confident man called Ser Bevis Hatchard in a primrose-yellow gown, announced that the animal was merely sulking, and carried it across a painted sill in a wicker basket, in open court, to prove it. Lord Bartholomew left the basket at the sill. Ser Bevis left the hall with most of his left ear gone and a lid hanging off one eye, bleeding gloriously down the primrose, and the orange ribbons carried the cat round the square on a cushion.
 
-They lost. A thin clerk of the Bench (the Bench of Attribution, the Guild Accord's office that enters, grades and strikes formulas) stood up with one ledger and read one row aloud: *Class III, Fidelity B, Carry 55*, and under Risk, *Cats will not enter either*. The resin was entered, the row was public, and it had done what the row said. Purslane paid costs. Had Tolliver been selling an unentered resin the whole matter would have been a private quarrel about a cat, with nothing to read aloud, and there you have the reason this register is worth more than most of what it lists.
+They lost. A thin clerk of the Bench (the Bench of Attribution, the court the alchemists' halls of the Guild Accord keep to enter, grade and strike formulas, the Accord being a coalition of many kinds of guild across many nations) stood up with one ledger and read one row aloud: *Class III, Fidelity B, Carry 55*, and under Risk, *Cats will not enter either*. The resin was entered, the row was public, and it had done what the row said. Purslane paid costs. Had Tolliver been selling an unentered resin the whole matter would have been a private quarrel about a cat, with nothing to read aloud, and there you have the reason this register is worth more than most of what it lists.
 
 This is the register. Learn to read a row of it and you can hold up your end of an argument in any counting-house in the four quarters, and should probably keep clear of cats.
 
@@ -27,14 +27,14 @@ Every row carries three readings: **Provenance Class**, **Fidelity**, and **Carr
 
 ### Provenance Class: where the Essence came from
 
-*A word for the newcomer. "Draw" in these names is the bench's old word for a lot taken off its source, and it has outlived every other use of the term. A practitioner pulls Aether from the ground around them; a renderer ships Crystal Draw. A Wellspring is one of the sixty types of Aether, a vein is the channel that feeds a place where one type pools, and an array is a standing runed working.*
+*A word for the newcomer. "Draw" in these names is the bench's old word for a lot taken off its source, and it has outlived every other use of the term. A practitioner pulls Aether from the ground around them; a renderer ships Crystal Draw. A Wellspring is one of the sixty alchemical and spiritual transformations, the governing idea that shapes how a soul uses Aether and a source of power to pull from, and each is a type of Aether as well. A vein is the channel that feeds a place where one type pools, and an array is a standing runed working.*
 
 | Class | Name | What it means |
 |---|---|---|
 | **I** | Vein Draw | Taken straight off a Wellspring vein by array. **Carry effectively nil.** The bulk commodity |
 | **II** | Field Substrate | Matter that sat in a live Wellspring field long enough to take a set. **Carries a place, not a person** |
 | **III** | Vital Draw | Rendered from things that lived and carried no Soul Crystal. **Carry is appetite-shaped.** The workhorse of the trade |
-| **IV** | Crystal Draw | Rendered from something that **carried a Soul Crystal. Carry is identity-shaped.** Three lawful sources, **and the arithmetic has never balanced** |
+| **IV** | Crystal Draw | Rendered from something that **carried a Soul Crystal, or the thing a monster has in its place. Carry is identity-shaped.** The lawful article is a monster's core, **and the arithmetic has never balanced** |
 | **V** | Sovereign Draw | Off a dragon, World Spirit, Sovereign-class entity, or a relic that held one. **Carry is law-shaped. It enforces, and it wants nothing** |
 | **VI** | Archonic Residue | **Found, and never rendered.** No origin the instrument can locate. **Graded because it is sold** |
 
@@ -66,23 +66,29 @@ Every row carries three readings: **Provenance Class**, **Fidelity**, and **Carr
 >
 > **91+** Sovereign-carry · attested four times. **The working is the source, wearing a formula**
 
-### The three lawful sources of Class IV
+### The lawful sources of Class IV
 
-*Named here because the Index has cited the number twice and the sources nowhere, and clerks have been pricing against a phrase.*
+*Named here because the Index has cited the phrase for centuries and the sources nowhere, and clerks have been pricing against it.*
 
-**I · Consented render.** A practitioner who willed the body to a house, executed after death under witness, with the instrument signed while the signer was competent. **The only clean source and by volume the smallest.** *Houses solicit these openly and the solicitation is considered distasteful by everyone including the houses.*
+**The core.** A monster's core is in a way its Soul Crystal: the Essence Core (the seat of a creature's nature) hardened over its life into a fist of glassy stuff in its own color, worth more the stronger the monster. **This is the lawful Crystal Draw, and by volume it is the honest trade.** Monsters gain Levels by killing, each other included, so an old one has done a great deal of tempering of its own, and an alchemist renders its core into Essence Drafts (Drafts taken to feed tempering, the melt that rebuilds a soul layer by layer). The carry comes with it, as Creature-Sourced potency and the risk of Identity Contamination, and the lot is graded by what the beast was. A lawful core has a hunting hall's chit, a date and a beast's name on the Commission's register, and the row for it is [[Materials, Alchemy & Trade/Materials/Hide, Horn and Bone|Hide, Horn and Bone]]'s. *Every hall in the world lives on this paragraph, and most of them have read no further.*
 
-**II · Judicial render.** The bodies of the executed, where the sentence carried forfeiture of the Crystal. Lawful in every quarter, and the largest of the three.
+**The three old warrants.** The human dead may still be rendered, on one of three instruments, and the instruments stop at the body. A practitioner's body holds Trait tissue (passive Class IV carry with nothing in it still active; see [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]]), and that is what these warrants reach. The Crystal inside it they have never reached, and the houses that have read them otherwise are in the next section.
+
+**I · Consented render.** A practitioner who willed the body to a house, executed after death under witness, with the instrument signed while the signer was competent. **The only clean source among the three and by volume the smallest.** *Houses solicit these openly and the solicitation is considered distasteful by everyone including the houses.*
+
+**II · Judicial render.** The bodies of the executed, where the sentence carried forfeiture of the remains. Lawful in every quarter, and the largest of the three.
 > **The forfeiture clause exists in the criminal law of every quarter and predates the trade that uses it. The law has stayed where it was, and the sentencing has moved.**
 >
 > *Two quarters have widened the schedule of capital offenses within living memory. Both widenings were argued on public order and both followed a shortage. The correlation is available in the assize rolls and the Bench has never been asked to look at it.*
-**III · Warranted salvage.** The dead of a declared war, rendered by a licensed house under a quartermaster's warrant, with the warrant naming the engagement. **Legal, enormous in a bad year, and entirely dependent on the war having been declared.** *Undeclared actions produce bodies that cannot lawfully be rendered and are rendered anyway, and this is the largest single feeder into the shortfall below.*
+**III · Warranted salvage.** The dead of a declared war, rendered by a licensed house under a quartermaster's warrant, with the warrant naming the engagement. **Legal, enormous in a bad year, and entirely dependent on the war having been declared.** *Undeclared actions produce bodies that cannot lawfully be rendered and are rendered anyway, Crystals and all, and this is the largest single feeder into the shortfall below.*
 
 ### The shortfall
 
-**Class IV in circulation has never matched what the three lawful sources can produce**, and the Index has carried the discrepancy without explaining it since the Bench began keeping returns.
+**Class IV in circulation has never matched what the lawful sources can produce**, and the Index has carried the discrepancy without explaining it since the Bench began keeping returns.
 
-The explanation is not complicated. **Extraction (output taken from a Crystal that is not the operator's) produces Class IV as a by-product and engine work (built apparatus that extracts with nobody present) produces it at volume.** An operator taking output off a donor is not rendering deliberately, but the residue accumulates and it is indistinguishable on the coil from lawful stock, **because the process that produced it was the same process performed without a warrant.**
+The surplus was cut from the dead. **A Crystal cut from a dead practitioner and rendered makes the strongest Draft of all, because no monster ever tempered as deliberately as a person who spent a lifetime at it. It is the worst crime in every realm and the most profitable**, and every realm hangs for it, and every realm has a great family whose fortunes improved abruptly after a war. Most of the missing tonnage is this, sold to a house that bought it as monster core.
+
+Two lesser feeders run into the same pool. **Extraction (output taken from a Crystal that is not the operator's) produces Class IV as a by-product and engine work (built apparatus that extracts with nobody present) produces it at volume.** An operator taking output off a donor is not rendering deliberately, but the residue accumulates and it is indistinguishable on the coil from lawful stock, **because the process that produced it was the same process performed without a warrant.**
 > *So there is no fourth Provenance Class for it. Unlawful Crystal Draw is graded Class IV, sold as Class IV, and priced as Class IV, and the only thing separating it from the lawful article is a chain of paper that terminates in a factor three towns away.*
 **The assay that would catch it exists.** Coilwright's Reading Oil and Nine-Nail Attestation Salt between them make the two-instrument comparison possible: the coil reads a Holding figure, the assay fork reads a density, and on unlawful stock the two will not reconcile. **The discrepancy is the size of what was taken.**
 > *The comparison requires two instruments and somebody prepared to run both. Most benches own one. The Bench of Attribution has never made the second mandatory, and the argument against has always been cost.*
@@ -103,6 +109,8 @@ The explanation is not complicated. **Extraction (output taken from a Crystal th
 | **T8** | Archmaster | Obsidian Seal. Black Concord territory. **Several entries carry no description at all** | The Council. The Black Concord. Nobody else lawfully |
 | **T9** | Paragon | Zenith Decree authorization. Four entries exist. **One of them is a placeholder admitting the tier may not be real** | The High Concordant, and the Archives Eternal |
 
+> A gate names a title, the same nine every guild in the Accord uses to grade trust in its trade. A maker may pour up to her title and a merchant may sell up to his, and neither title says whether its holder can throw a punch.
+>
 > The Codex's own controlled vocabulary **stops at T8.** The ninth tier exists because **the Accord required a ceiling above Archmaster and the Codex declined to supply one.**
 >
 > Whether T9 is a real grade or a bureaucratic fiction **is the oldest open question in this document.**
@@ -111,7 +119,7 @@ The explanation is not complicated. **Extraction (output taken from a Crystal th
 
 > **What a Threshold product is actually doing.** Hillcarry Salts, the Ascension Ration, the Splinter Ration, the Refraction Draught and the Domain Seed Vitrifier are one family of thing wearing five names.
 >
-> A Threshold is a melt, and a melt cools into order only around structures that survived the heat, which in a Soul Crystal means **Traits** (standing laws carried in the soul). A Threshold product supplies the melt with a **seed the soul did not produce**, or supports the seeds already there through the heat. That is the whole of the mechanism, and it is why the ration reaches the floor and never the Catalyst.
+> A Threshold is a melt, and a melt cools into order only around structures that survived the heat, which in a Soul Crystal means **Traits** (standing laws carried in the soul). A Threshold product supplies the melt with a **seed the soul did not produce**, or supports the seeds already there through the heat. That is the whole of the mechanism, and it is why a plain ration reaches the floor and stops there. A breakthrough Draft (see [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]]) carries a seed strong enough to stand in for the Catalyst, the lived change a Crystal otherwise demands, so Stages can be bought. The great houses hoard those lots, and the Bench enters their makers' names under seal.
 >
 > **Carry is the seed's origin, still attached.** A high-carry Threshold product does more than work better: it grows a region of lattice around a law the recipient never survived into being true, **and the recipient acquires a rigidity they did not earn and cannot argue with.** *Which is why the Refraction Draught leaves a stranger's habit of mind behind, and why the Bench grades carry at all.*
 
@@ -141,7 +149,7 @@ The explanation is not complicated. **Extraction (output taken from a Crystal th
 
 | Entry | Class / Fid. / Carry | What it does | Risk | Price |
 |---|---|---|---|---|
-| **Ascension Ration, Accord Standard** · T4 | III / A / 25 | Carries a bonded practitioner to the Flourishing quantitative floor reliably. **Does not supply the Catalyst and says so on the seal.** Issued at cost against future commission: ***this is how the Accord acquires people, and the ledger entry is the term, not the tonic*** | None at issue dose. **The risk is not chemical** | 8.0 |
+| **Ascension Ration, Accord Standard** · T4 | III / A / 25 | Carries a bonded practitioner to the Flourishing quantitative floor reliably. **Does not supply the Catalyst and says so on the seal, the Catalyst being a dearer bottle.** Issued at cost against future commission: ***this is how the Accord acquires people, and the ledger entry is the term, not the tonic*** | None at issue dose. **The risk is not chemical** | 8.0 |
 | **Wyrmcold Quench** · T4 | III / B / 70 | A blade quenched in it holds an edge in wet cold and **runs perceptibly cold near deep water.** *The blade remembers the beast. The peasants are causally wrong and predictively perfect, and armorers in three quarters price for it without believing a word of it* | **The cold is not controllable and does not stop.** Quenched blades are unpleasant to carry against the body | 14.0 |
 | **Witness Wax** · T4 | II / A / 15 | Records the attestation of a Spirit Axis **in a form that reads on a coil a century later.** Parish standard: *parish witness rolls in Witness Wax are the oldest continuous documents in most of the western quarter* | **Cannot be re-poured.** A spoiled impression means the witnessing is repeated or is lost | 6.5 |
 | **Slagwright's Draught** · T4 | III / C / 40 · *reserved T4* | Strips a portion of unintegrated carry out of a rough seat: **perhaps a fifth, at best, over a year of courses.** Bought by people trying to certify past Tier Four | **Takes integrated carry as readily as unintegrated.** *Roughly one course in three achieves it. The other two lose something* | 22.0 |
@@ -159,7 +167,7 @@ The explanation is not complicated. **Extraction (output taken from a Crystal th
 
 | Entry | Class / Fid. / Carry | What it does | Risk and note |
 |---|---|---|---|
-| **Refraction Draught** · T6 | IV / A / 50 · 160.0 | Stabilizes the dual-sight transition at Stage VII. **The Crystal sees itself sooner and with less damage** | **The donor's own way of seeing comes with it.** Recipients report a perspective that is not theirs **and does not leave.** *Every practitioner who has taken this shares a habit of mind with a stranger. The Archives has studied it. The study is not public* |
+| **Refraction Draught** · T6 | IV / A / 50 · 160.0 | Stabilizes the dual-sight transition at Stage VII. **The Crystal sees itself sooner and with less damage** | **The donor's own way of seeing comes with it.** Recipients report a perspective that is not theirs **and does not leave.** *Every practitioner who has taken this shares a habit of mind with a stranger, and in an honest lot the stranger went on four legs. The Archives has studied it. The study is not public* |
 | **Namekeeper's Thread** · T6 | IV / A / 58 · 240.0 | **Stitches a broken Name back into a soul. The only working in the index that repairs a Nullity** | The thread is Name-Eater set. **It repairs by consuming what is left of the wrong name, and the practitioner remembers the consuming.** *Perhaps forty stitchings in the record. Eleven of them are in the record because they failed* |
 | **Titan-Marrow Salts** · T6 | **V** / B / 78 · 310.0 | **Anchors a Domain against displacement.** A Domain seated on Titan-Marrow does not move when the ground does | **The carry is law-shaped and enforces.** Structures raised on it become difficult to alter afterward, **including by their builders.** *Every lot has a provenance chain and roughly half the chains have a gap in them nobody will discuss* |
 | **Black Concord Solvent** · T6 | IV / A / 66 · *Obsidian Seal* | **Severs a Lattice binding without the Lattice registering the severance** | Not described in the public Index. *The public Index carries the name and the seal and nothing else. Its presence here is itself the disclosure, and the Bench voted on whether to make it* |

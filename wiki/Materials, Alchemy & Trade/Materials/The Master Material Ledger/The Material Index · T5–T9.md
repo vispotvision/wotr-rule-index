@@ -47,7 +47,7 @@ The row for Whiteshard, in the table below, says all of this in one clause, and 
 | **Frostwool** *Holding · Fabric · East* | Sheared from the frostborn fauna of Iampu | Vohrin (inferred) | Nullifies fire-based drafts and wards against fear glyphs. **Holds temperature balance even near Crevice rifts, which is the property that matters and the one nobody can explain** |
 | **Grimbarite** *Holding · Stone · South* | Buried beneath the Crevice fault system | — | Repels Fate and Name manipulation. Heavy, silent in all forms, **absorbs prayer.** Anti-scrying construction and sealed vaults. **Extraction requires working inside the Crevice margin, and the mortality figures for Grimbarite crews are not published** |
 | **Whiteshard** *Holding · Mineral* | Forged in radiant Wellspring eruptions | Luminalis (inferred) | Reflects spiritlight and resists holy corruption. **Glows when a lie is spoken nearby, which has ended more negotiations than it has assisted** |
-| **Glyphed Myrrhstone** *Holding · Alchemical Compound · West* | Compounded in sacred vaults beneath Lurien | Fixatio (inferred) | Semi-liquid under moonlight, **hardens under oath.** Glyphs written on it are immune to time or weather. **The physical basis of permanent law in the western quarter.** *Requires an oath to set at all* |
+| **Glyphed Myrrhstone** *Holding · Alchemical Compound · West* | Compounded in sacred vaults beneath Alabaster | Fixatio (inferred) | Semi-liquid under moonlight, **hardens under oath.** Glyphs written on it are immune to time or weather. **The physical basis of permanent law in the western quarter.** *Requires an oath to set at all* |
 | **Echo-Chain Alloy** *Holding · Metal* | Crafted in silence, attuned to harmonic fluctuations | — | Echoes enemy spells and deflects Aether pulses. **Each chain length carries a spirit resonance from its creator, which makes second-hand purchase a genuine risk** |
 
 ---
@@ -69,7 +69,7 @@ The row for Whiteshard, in the table below, says all of this in one clause, and 
 
 ## T8 · Mythic / Celestial
 
-*Formed by cosmological event. Operates on Name, Fate, and time.*
+*Formed by cosmological event. Operates on Name, Fate (the Plane that controls Attraction Force and Obsession Force, and with them what the odds are allowed to do), and time.*
 
 | Material | Source | What it is |
 |---|---|---|

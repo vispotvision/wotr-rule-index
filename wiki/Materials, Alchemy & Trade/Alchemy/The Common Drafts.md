@@ -4,7 +4,7 @@ title: The Common Drafts
 
 *The standard catalog of the Draft trade, as kept by quartermasters, licensed apothecaries and the excise office · prices in Accord marks*
 
-> Twenty-two Drafts account for most of what is poured, sold, smuggled and drunk across the four quarters. This is the list every counter-clerk learns first, every smuggler forges first, and every practitioner should be able to name by the color of the seal.
+> Twenty-two Drafts account for most of what is poured, sold, smuggled and drunk across the four quarters, and the Essence Drafts rendered from monster cores, set out after them, account for most of the money. This is the list every counter-clerk learns first, every smuggler forges first, and every practitioner should be able to name by the color of the seal.
 
 ---
 
@@ -47,14 +47,14 @@ Glass or stoneware, a wax seal, an excise stamp, and sediment at the bottom that
 
 **The crash.** Every fight Draft leaves a crash once its window closes, and the crash is the real price. Two or three in one fight is ordinary. Five is how veterans describe the worst week of their lives.
 
-**The stack.** A strength or speed Draft is one layer of boost, and boosts from every source stack: Drafts, Trait (inborn power) surges, release forms (a practitioner's named, staged power-up), allies' help. **The stack tops out at two Grades above what the body can sustain**, and every layer a fighter adds raises the chance of a Crystal fracture (a crack in the Soul Crystal, the seat of a practitioner's power).
+**The stack.** A strength or speed Draft is one layer of boost, and boosts from every source stack: Drafts, Trait (a standing law carried in the soul) surges, release forms (a practitioner's named, staged power-up), allies' help. **The stack tops out at two Grades above what the body can sustain**, and every layer a fighter adds raises the chance of a Crystal fracture (a crack in the Soul Crystal, which is literally the soul).
 
 **Provenance.** Every Draft came from somewhere, and its source type says where the risk lives:
 
 | Source type | Where it comes from | What it risks |
 |---|---|---|
-| **Creature-Sourced** | Rendered from magical creatures, and at the top of the trade from people | The strongest, and it carries the **identity of what it was made from** (Identity Contamination) |
-| **Material-Sourced** | High-density minerals and salts taken off a Wellspring vein (a Wellspring is one of the sixty types of Aether, the raw magic of the world, and a vein is the channel that feeds a place where one type pools) | Clean but weaker |
+| **Creature-Sourced** | Rendered from magical creatures, monster cores above all, and at the top of the trade, against every law there is, from people | The strongest, and it carries the **identity of what it was made from** (Identity Contamination) |
+| **Material-Sourced** | High-density minerals and salts taken off a Wellspring vein (a Wellspring is one of the sixty alchemical and spiritual transformations, the governing idea that shapes how a soul uses Aether, and each is a type of Aether too; a vein is the channel that feeds a place where one type pools) | Clean but weaker |
 | **Environmental** | Matter steeped in a Wellspring field until it took the set | Gentle and slow; close to no risk |
 | **Synthetic** | Blended at the bench from several sources | The least predictable; the parts can react inside the drinker |
 
@@ -100,14 +100,14 @@ Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Half
 
 ### Advancement Drafts
 
-*An advancement Draft can supply the **quantitative floor** (the amount of pressure a Crystal needs before it can climb) and a **seed** (a borrowed law the Crystal can rebuild itself around). **It has never supplied a Catalyst** (the lived change the Crystal demands before it will climb). A practitioner who has not met their Catalyst can drink the whole case and stay where they are. These sell at the licensed counter at the Index price below; on the street they are fought over like treasure and change hands at three to ten times it.*
+*An advancement Draft can supply the **quantitative floor** (the amount of pressure a Crystal needs before it can climb) and a **seed** (a borrowed law the Crystal can rebuild itself around). The four rows below stop there, and a practitioner who has not met their **Catalyst** (the change the Crystal demands before it will climb) can drink the whole case of them and stay where they are. The bottle that supplies the Catalyst is the breakthrough Draft, further down. These four sell at the licensed counter at the Index price below; on the street they are fought over like treasure and change hands at three to ten times it.*
 
 | Name | What it does | Stage grade | The crash / side effect | Price | Source type |
 |---|---|---|---|---|---|
 | **Hillcarry Salts** | Raises the Crystal's clarity and yield across a season. Brings a Welling practitioner to the Ascension floor in a third of the time | II | None at the ration dose. **The Guild is careful to state the ration dose** | 1.2 silver a ration dose | Material-Sourced |
 | **Ascension Ration** | Carries a practitioner to the Flourishing floor (Stage IV) reliably. Says on the seal that it does not supply the Catalyst | III | **The risk is not chemical.** It is issued against future service, and the term is the real product | 8 silver, or a signed term | Creature-Sourced |
 | **Splinter Ration** | Supports the Crystal through Splintering (Stage V, when it cracks along the lines of what the practitioner feels). It does not stop the fracture. **It decides where the fracture runs** | V | Where the fracture runs is the product and the risk at once. Sworn practitioners get it; village talent does not | 48 silver (4 gold) | Creature-Sourced |
-| **Refraction Draught** | Steadies the double sight of Refraction (Stage VII, when the practitioner first sees their own Crystal from outside), sooner and with less damage | VII | **A stranger's habit of mind.** It is rendered from people, and the donor's way of seeing comes with it and never leaves | 160 silver (about 13⅓ gold) | Creature-Sourced |
+| **Refraction Draught** | Steadies the double sight of Refraction (Stage VII, when the practitioner first sees their own Crystal from outside), sooner and with less damage | VII | **A stranger's habit of mind.** It is rendered from Crystal Draw, a monster's core in an honest lot and a person in the rest, and the donor's way of seeing comes with it and never leaves | 160 silver (about 13⅓ gold) | Creature-Sourced |
 
 ### Gray-trade Drafts
 
@@ -120,6 +120,47 @@ Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Half
 
 ---
 
+## Essence Drafts and the bought Stage
+
+Everything above works on the belt. This part works on the ladder, and it is why a rich man's son is stronger than you at nineteen.
+
+**Tempering** melts the Soul Crystal down and rebuilds each layer. Every pass refines the Essence it holds and makes that Essence stronger, and the body comes out of it gaining Traits. A practitioner can do this on rich ground for years, or by hard fighting, or at speed on a course of **Essence Drafts**, and most of those are rendered from **monster cores**. A monster's core is in a way its Soul Crystal, worth more the stronger the monster, and a hall's whole year turns on what its crews bring up (the prices are in [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]]). A course runs a dose every few days up to the melt. Skills and Trait levels climb on the window (the soul reporting its numbers to its owner, unseen by anyone else) afterward, and a poor neighbor who did it on the hill gets the same lines in four times the years.
+
+| Name | What it does | Stage grade | The crash / side effect | Price | Source type |
+|---|---|---|---|---|---|
+| **Essence Draft** (core lot) | Rendered from a monster's core and taken as a course. **Feeds tempering directly**: Essence refines, the body gains, a Trait climbs. The bottle carries the Tier of the beast on the seal | Poured I to X, by the strength of the core | **Identity Contamination.** The beast's appetites and habits come with it, a little per dose, and an Essence Core that takes in enough can no longer say which convictions are its own. Serious houses keep a tally of doses, and every other house keeps a story about someone who growls | Five times the band a dose: 20 copper at I, 22½ silver at IV, 50 gold at VII, 450 gold at IX, 1,350 gold at X | Creature-Sourced |
+| **Vein Essence** | The same feeding off high-density minerals. About half the effect per dose, with no stranger in it | Poured I to VII | **None worth the name**, which is why cautious families and the Lamp-Wardens' daughters take it, and why they are overtaken | Twice the band a dose: 8 copper at I, 9 silver at IV, 20 gold at VII | Material-Sourced |
+| **Harmonizing Draught** | Retunes the Shell to one named Wellspring, the same result as a sitting at its Core or a school's rite. It lands small, as any new harmonization does, and only years of mastery bring it up to where the Wellspring can double the drinker's natural Essence Typology | Poured III to VIII | **The ground's stamp.** The drinker takes the Well's habits with its law: dreams of it, a color at the edge of the aura, a taste for going back | Fifty times the band: 75 silver at III, 175 gold at VI, 1,500 gold at VIII | Environmental |
+
+**The raw core.** A core can be swallowed or broken raw, with no alchemist's fee, and it gives everything at once. Most who try it die, and a good share of the rest come out wrong. The few who come out whole are why it keeps happening, and a commoner standing in a lord's county with a big core in his fist and nothing left to lose is the most frightening sight that lord will ever see.
+
+### Buying a Stage
+
+A **breakthrough Draft** supplies the Catalyst in liquid form. The Crystal goes to the melt on schedule and the Stage is real, on every instrument, for good. **A bought Stage opens the door and no more.** It has no Release (the named, staged power-up a fighter calls aloud) until one is found and mastered by fighting, and no Level comes with it, since Level moves by danger overcome. Sects teach what money cannot buy, which is why dukes' sons still scrub floors at mountain gates. On the sheet it reads as high ceilings and a thin skill column, and anyone who has worked a bracket can see it from the rope.
+
+| Carries you to | Stage | The Stage bought outright, course and bottle | Who is buying |
+|---|---|---|---|
+| **II** | Welling | 20 gold | A prosperous shopkeeper, once, with a loan |
+| **III** | Ascension | 60 gold | Merchants and country gentry, for the eldest |
+| **IV** | Flourishing | 180 gold | Merchant families, one child at a time |
+| **V** | Splintering | 540 gold | Rich guild halls, for a hand they have staked |
+| **VI** | Glory | 1,600 gold | Great houses. A clerk's working life, the first truly ruinous price on the ladder |
+| **VII** | Refraction | 5,000 gold | Great houses, for an heir |
+| **VIII** | Transcendence | 15,000 gold | Crowns and great sects |
+| **IX** | Invocation | 45,000 gold | Crowns, and rarely |
+| **X** | Realization | 135,000 gold, on the rare occasion one is priced | Nobody buys these. They are given as dowries and held as hostages |
+| **XI and up** | | No shelf and no price | A vault, a grave, or the belly of an ambitious second son |
+
+The price is about five hundred times the band for the Stage it carries you to, threefold a Stage like everything else on this page ([[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]] has the same rows). The twelve-dose course is about an eighth of it and the bottle is the rest, and on the street it all runs three to ten times that. From VI up the stock is Crystal Draw and the seed is a stranger's law, with everything that means. **The wealthy are stronger because they are wealthy**, the great houses hoard the top Drafts, and the poor rise by dungeon luck, guild patronage and blessings. A blessing can turn the same key, and a great giver spends almost nothing to do it.
+
+### The two at the top
+
+**The Dead Man's Cordial.** A Crystal cut from a dead practitioner and rendered makes the strongest Draft of all. It sells as a monster-core lot at several times the price, its buyers do not ask, and it is the worst crime in every realm and the most profitable. A clerk who says the name at a counter is either a fool or an Enforcement man.
+
+**The Fate Essence Draft.** A Master Work, which is to say a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. It bends the Plane of Fate (the control of Attraction Force and Obsession Force, and of what the odds are allowed to do) for whoever drinks it, it is extremely hard to make, and there is no price. Its account is in [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]] and [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Works]].
+
+---
+
 ## Counterfeits
 
 **Counterfeits are common and sometimes deadly.** Chalkwater is the cheapest. Worse are the real Drafts sold a grade high (a grade-II Cordial with a grade-IV seal, which does too little) and the real Drafts sold a grade low (which does too much and puts the buyer in the street with a scalded Shell). Spoiled stock relabeled with a fresh date is the most common killer of all.
@@ -129,5 +170,6 @@ Hesk Tarrow, a Stage III caravan guard, holds a bridge against two raiders. Half
 ## Where they are sold
 
 - **The kept cities** (those whose lamps, wards and warm stones are kept by hired crafts) buy anything: corner apothecaries for the everyday Drafts, licensed houses for the fight and advancement stock, and smugglers in every port for the rest. The trade is licensed, taxed at the gate and smuggled around the tax.
+- **The hunting towns** render where the crews come up. Any town with a dungeon on it has a rendering house by the hall, and an Essence Draft bought there costs a third less and has been nearer the beast.
 - **The north** trades in kind. A belt of Drafts travels where a wall cannot, so the north ranks the pouring above the cutting, and a vial is paid for in salt, meat, fuel or a season's labor owed.
 - **The East** buys through its sects (the schools and great houses). A disciple draws Drafts against rank and duty; an outsider buys through a sect's factor, at a sect's price, or not at all.

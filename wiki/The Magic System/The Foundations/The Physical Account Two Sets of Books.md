@@ -8,33 +8,35 @@ tags:
 
 > The Continuum (the whole lawful order of reality) keeps two sets of books on every working ever performed, and they balance. Anyone who tells you only one of them is real is selling something.
 
-Hamo Thackeray, whom the song calls the Bishop of Cinders, burned the blue barge at the Kharven regatta in front of nine thousand people, and he did it in a white robe with gold on the shoulders, standing on the prow of his own boat with his arms out and his aura pouring off him the color of iron at cherry heat. He told the whole river that the Wellspring (one of the sixty types of Aether, the raw stuff of magic in the world around you, each type carrying a fixed law) had chosen him and that the fire was its blessing. The barge replied with a sheet of flame that blew the hats off half the quay. The Scarlet Oars went mad on the east bank. On the quay, up on a fish crate with a brass assay fork in one hand and a small brass water clock in the other, stood Ysolde Garth, a Measurewright (a certified assessor of workings) with no Crystal at all and forty silver riding on the afternoon, and she began shouting the fire's schedule at him across the water. The tar would catch in a count of ninety. The mast would go at three hundred, to the left, because of the wind. It went to the left. The sail would throw sparks on the Bishop's own boat at about four hundred and ten, and those sparks would burn exactly as sparks burn, whatever he had chosen to believe about them, and at four hundred and six the white robe went up with the Bishop in it. He had stopped working the fire some time earlier. The fire had not been told. He went into the river screaming and came out with no eyebrows and a new name, and Garth collected from three bookies and bought a round for the Scarlet Oars.
+Hamo Thackeray, whom the song calls the Bishop of Cinders, burned the blue barge at the Kharven regatta in front of nine thousand people, and he did it in a white robe with gold on the shoulders, standing on the prow of his own boat with his arms out and his aura pouring off him the color of iron at cherry heat. He told the whole river that the Wellspring (one of the sixty great ideas that govern how a soul uses Aether, the raw stuff of magic in the world around you) had chosen him and that the fire was its blessing. The barge replied with a sheet of flame that blew the hats off half the quay. The Scarlet Oars went mad on the east bank. On the quay, up on a fish crate with a brass assay fork in one hand and a small brass water clock in the other, stood Ysolde Garth, a Measurewright (a certified assessor of workings) whose own Crystal had never woken, with forty silver riding on the afternoon, and she began shouting the fire's schedule at him across the water. The tar would catch in a count of ninety. The mast would go at three hundred, to the left, because of the wind. It went to the left. The sail would throw sparks on the Bishop's own boat at about four hundred and ten, and those sparks would burn exactly as sparks burn, whatever he had chosen to believe about them, and at four hundred and six the white robe went up with the Bishop in it. He had stopped working the fire some time earlier. The fire had not been told. He went into the river screaming and came out with no eyebrows and a new name, and Garth collected from three bookies and bought a round for the Scarlet Oars.
 
-Thackeray's account of that afternoon and Garth's account were both complete, and that is the awkward part. He really had established a boundary, at a real cost to his soul, and she really had read every step of what followed with a fork, a clock and a wet finger. This page is about why a working can be told both ways and has to be.
+Thackeray's account of that afternoon and Garth's account were both complete, and that is the awkward part. He really had let an idea of fire take hold of his soul and established a boundary with it, at a real cost, and she really had read every step of what followed with a fork, a clock and a wet finger. This page is about why a working can be told both ways and has to be, and about which way to tell it first.
 
 ## I. The Two Accounts
 
-Every working admits two complete descriptions.
+Every working admits two complete descriptions. The soul's comes first, because it is what the person did. The physics follows, because it is how scholars explain what the person did, and how they tell you what it will charge.
 
-**The physical account** describes what happened to matter and energy in the room. Heat moved. Pressure changed. A structure failed along a plane of weakness. Air of a given humidity carried a given charge until it did not. This account uses ordinary measurement, it is reproducible, and a competent Measurewright with no Crystal (the soul's organ that stores and channels power) at all can take it from the outside with instruments and arithmetic.
+**The stratal account** describes the event across the three strata: which Wellspring's idea governed the soul that did it and what lens that laid on the person's own nature, what the Aether in that room was doing, under what boundary condition the law was invoked, and what it cost the Soul Crystal that spent it. This account requires a coil (the brass assay instrument a practitioner stands inside), a trained reader, and a practitioner willing to be read.
 
-**The stratal account** describes the same event across the three strata: what the Aether in that room was doing, which Wellspring had its law invoked and under what boundary condition, and what it cost the Soul Crystal that spent it. This account requires a coil (the brass assay instrument a practitioner stands inside), a trained reader, and a practitioner willing to be read.
+**The physical account** describes what happened to matter and energy in the room. Heat moved. Pressure changed. A structure failed along a plane of weakness. Air of a given humidity carried a given charge until it did not. This account uses ordinary measurement, it is reproducible, and a competent Measurewright can take it from the outside with instruments and arithmetic, even one whose Soul Crystal (the soul itself, which stores and channels power) has never woken.
 
 Both accounts are complete, and neither is a translation of the other. A working that has a good physical account and no stratal account was no working at all, and a working with a stratal account whose physics does not close was recorded by someone who did not check.
 
-The Accord's documentation standard requires both, and has since the second Register. Entries that carry only the mystic half are conventionally marked as devotional literature and shelved accordingly, which is the politest insult the Archives has ever institutionalized.
+The Accord's Register asks for both from any hall that wants a working entered in it, and has since its second edition. Entries that carry only the mystic half are conventionally marked as devotional literature and shelved accordingly, which is the politest insult the Accord's archivists have ever agreed on. The confessors return the courtesy and file the physics-only entries under plumbing.
 
 ## II. What the Strata Actually Measure
+
+**The Wellspring stratum.** Aether comes in sixty types, and each is first an idea: an alchemical principle and a spiritual transformation, a governing concept that changes how a soul uses what it pulls. A Wellspring is a lens on magic already potent, and it can highlight and in time even double the effect of the soul's natural Essence Typology (its lean toward one of the eight Families); [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|the Sixty]] have the full account. The stratal reading names which lens was in use and how long it has been lived with.
+
+Scholars write each of those ideas down as a Core Law, and each Core Law states a real regularity of the world. The glyph does not create the law. The glyph is a boundary condition imposed on a law that was already running, and the working is what the law does once the boundary has moved.
+
+This is the single most misunderstood sentence in practical instruction. Nobody makes fire. A practitioner establishes a condition under which the ordinary behavior of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones the practitioner has not thought about. Practitioners are burned by their own workings constantly, and the reason is always the same: the law kept running after the intent stopped. Ask the Bishop of Cinders.
 
 **The Aether stratum.** Practitioners pull Aether from the environment around them, so where you stand matters: rich ground fills you faster and thin ground starves you. Aetheric Density is the scholar's term for it, the local concentration available to be pulled. Residue is what a prior working left behind and has not yet dispersed. Saturation is the ceiling past which a room or a stretch of ground stops accepting further expression and begins returning it. These are field quantities. They vary with terrain, weather, season, the proximity of a site where a Wellspring's Aether pools, and, in any settled town, with what the last forty people to fight there have done to the ground, whether anyone has salted or bled it, and whether the keepers of the nearest worked site have closed their gate. Fighters on the street call the two ends fat ground and lean ground, and they will walk an opponent half a league to get onto the one they like.
 
 A practitioner who pulls in a saturated room is working against a gradient and pays for it in Harmonics (the stat that governs pulling Aether from the ground). A practitioner who pulls in a depleted one is drinking from a dry cup. Neither has anything to do with how strong they are.
 
-**The Wellspring stratum.** Aether comes in sixty types, and each of the sixty carries a Core Law, and each Core Law states a real regularity of the world. The glyph does not create the law. The glyph is a boundary condition imposed on a law that was already running, and the working is what the law does once the boundary has moved.
-
-This is the single most misunderstood sentence in practical instruction. Nobody makes fire. A practitioner establishes a condition under which the ordinary behavior of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones the practitioner has not thought about. Practitioners are burned by their own workings constantly, and the reason is always the same: the law kept running after the intent stopped. Ask the Bishop of Cinders.
-
-**The Essence stratum.** The Soul Crystal's three layers, its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally.
+**The Essence stratum.** The Soul Crystal is the soul, read here as a structure: its three layers, its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally.
 
 ## III. Where the Energy Comes From
 
@@ -48,9 +50,9 @@ Efficiency is the ratio of Essence spent to effect that arrives. The remainder l
 
 ## IV. The Four Theories
 
-The Accord enforces one account of why a Wellspring answers and does not pretend the other three have been refuted. Measurewrights will fight about this at weddings, and at least one of the four is wrong, and possibly all of them.
+The Accord's halls hold to one account of why a Wellspring answers and do not pretend the other three have been refuted. None of the four disputes what a lens does to a soul, since every confessor and every bench has watched it happen. They dispute why the idea answers at all. Measurewrights will fight about this at weddings, and at least one of the four is wrong, and possibly all of them.
 
-**The Consent Doctrine**, enforced. The Wellspring recognizes a lawful boundary condition and behaves accordingly, in the same sense that a river recognizes a channel. No intention is attributed to the Wellspring. This is the position that permits licensing, because a process can be licensed and a relationship cannot.
+**The Consent Doctrine**, the one the halls keep. The Wellspring recognizes a lawful boundary condition and behaves accordingly, in the same sense that a river recognizes a channel. No intention is attributed to the Wellspring. This is the position that permits licensing, because a process can be licensed and a relationship cannot.
 
 **The Correspondence Position.** The practitioner and the Wellspring are the same law expressed at two scales, and the working is the two scales briefly agreeing. Ecclesiastically respectable, administratively useless.
 
@@ -58,21 +60,33 @@ The Accord enforces one account of why a Wellspring answers and does not pretend
 
 **The Residue Position.** There is no answering at all. Every Wellspring is the standing residue of something that already happened at Epoch scale, and practitioners are moving through the wreckage of a working performed before there were people. The Archives has never formally engaged with it. Two Prime Instructors hold it privately.
 
-The Accord's enforcement of the Consent Doctrine is a licensing decision rather than a finding, and the Registers say so in a footnote that has been recopied without comment for four hundred years.
+The Accord's preference for the Consent Doctrine is a licensing decision rather than a finding, and the Registers say so in a footnote that has been recopied without comment for four hundred years.
 
 ## V. The Body Is the Readout
 
 Nothing in a soul improves without strain, and strain is a physical event before it is anything else.
 
-A Crystal densifies when it is driven to the edge of its structural tolerance and held there. In practice that means long breathing and pulling in dense Aether or at a site where a Wellspring pools, a seclusion held past comfort, a real fight, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold (the crisis that lifts a soul to its next Stage) approached deliberately in a seclusion chamber or a training yard and one arrived at by accident in a ditch, except that the ditch has a better record.
+Tempering melts the Crystal down and rebuilds it, one layer at a time. It refines the Essence the soul holds and makes that Essence stronger, and the body gains Traits from it. A Crystal densifies when it is driven to the edge of its structural tolerance and held there. In practice that means long breathing and pulling in dense Aether or at a site where a Wellspring pools, a seclusion held past comfort, an Essence Draft rendered from a monster's core, a real fight, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold (the crisis that lifts a soul to its next Stage) approached deliberately in a seclusion chamber or a training yard and one arrived at by accident in a ditch, except that the ditch has a better record. Neither does it ask where the Threshold's Catalyst (the event a Stage demands before it will open) came from. Drafts and blessings can supply one, so a Stage can simply be bought, and the melt is every bit as real in a house with good carpets. The purchase opens the door and no more. A bought Stage has no Release until its owner has found one and mastered it by fighting, and the ditch still has the better record.
 
-Because the Aether Shell is the Material-Plane layer, everything a Crystal does eventually shows in tissue. Traits (standing laws a soul carries, formed by what it survived) deposit mineral, rebuild vasculature, alter myelination, shift resting core temperature. Overchannel (forcing output past the Crystal's safe ceiling) scars. Essence Starvation (running below a tenth of reserve) flickers a Trait the way a bad wick flickers a lamp. A practitioner's history can be taken off their living body by a competent physician and off their dead one by a competent renderer, and the second reading is better.
+Because the Aether Shell is the Material-Plane layer, everything a Crystal does eventually shows in tissue. Traits (standing laws a soul carries, formed by what it survived, each with a level that rises with use) deposit mineral, rebuild vasculature, alter myelination, shift resting core temperature. Overchannel (forcing output past the Crystal's safe ceiling) scars. Essence Starvation (running below a tenth of reserve) flickers a Trait the way a bad wick flickers a lamp. A practitioner's history can be taken off their living body by a competent physician and off their dead one by a competent renderer, and the second reading is better.
 
 This is why the physical account matters at all. A system that only described itself in its own vocabulary could not be checked. The body is where the two sets of books are reconciled, and the reconciliation is involuntary.
 
+**The private report.** A soul also keeps a third account, for its owner alone. Since the Soul Crystal is the soul and the Continuum measures it, the soul reports its numbers to its bearer in the bearer's own tongue, and nobody else can see it. People call it a window. Who built it is one more thing Measurewrights will fight about at weddings. A window shows Grades, percentages, bars and levels, and it keeps none of the Measurewright's own quantities, so EU (the unit of stored energy), AU/s (the rate of output) and η (efficiency) stay on her side of the ledger:
+
+```
+[Reserve: 41% ▓▓▓▓░░░░░░]
+[Trait: Banked Coal, level 6 to 7]
+[Skill: Long Breathing, D to C]
+```
+
+A window balances neither book and proves nothing in a hearing, since its only witness is the person it flatters. It reports what the body has already said, and a line a giver wrote into the sheet with a blessing can lie.
+
 ## VI. The Form of a Proper Entry
 
-The Registry's standard, unchanged since the second Register and honored about half the time.
+The Registry's standard, reordered in this edition to run in the order the thing actually happens, and honored about half the time.
+
+**The concept**, in one breath and ordinary words, with the Wellspring whose idea it wears and the transformation that Wellspring works.
 
 **The phenomenon**, named in ordinary terms and in the vocabulary a Measurewright would use.
 

@@ -13,6 +13,8 @@ title: The Black Concord
 
 ## Purpose
 
+*An archivist's note, pinned in. Every hiring hall has a joke about the Black Concord, usually involving the obsidian wax, and nobody in Waxgate will tell you who makes it. The merchants' Guildlords hold that a coalition which pays for this deserves to see the accounts. They have asked. The reply was a blank sheet, properly sealed. The document below comes to us from the old machinery that predates the coalition, and it does not mention the coalition at all.*
+
 The Black Concord exists to safeguard the Concord Codex from internal collapse and metaphysical exposure. When truths too great to exist threaten the order (**divine uprisings, Titan awakenings, collapsed Wellspring sites, or human ascensions gone wrong**), the Black Concord acts before the world can learn.
 
 Unlike other Divisions, it answers only to the High Concordant. **Its operations are invisible to the Concord Council**, and its members' names are expunged from both mortal and divine record.
@@ -54,7 +56,7 @@ Every mission, name, and record is burned after execution. Only the Overseer ret
 
 ## Recruitment
 
-**No one joins the Black Concord by choice. They are taken**, chosen from the ranks of the condemned, the Forsworn, or the dead. Through the **Rite of Absence**, their Soul Crystal is hollowed and re-tuned to the Null Frequency. Their memories are rewritten to serve the Accord's unseen necessities.
+**No one joins the Black Concord by choice. They are taken**, chosen from the ranks of the condemned, the Forsworn, or the dead, and only from among the sworn, since the Lattice can do nothing to a soul that never gave it a fragment. Through the **Rite of Absence**, their Soul Crystal is hollowed and re-tuned to the Null Frequency. Their memories are rewritten to serve the Accord's unseen necessities.
 
 To outsiders, these agents appear as ordinary operatives, scholars, or travelers. But the Black Concord can recognize one another by their **Resonance Silence**, *the faint emptiness that follows in their wake, a lack of Essence hum in the world around them.*
 
@@ -93,6 +95,8 @@ Though answerable to no one but the High Concordant, the Black Concord is monito
 
 **Operation White Silence** · **Deletion of an entire city from the Mortal Plane** after its citizens achieved collective Ascension without sanction.
 > These fragments remain partially remembered **only because the Black Concord allowed them to be remembered**, a warning to those who believe the law cannot bleed.
+
+The Obsidian Seal on a board means T8 or T9 and a posting nobody will read aloud. A crew that takes one is paid extremely well and tends to change its name afterward. Hall gossip holds that the same hand is behind the Crystal Draw that has never balanced on the Bench's returns, on either side of the crime, depending on who is drinking. Nobody has evidence, and the people who went looking for it are not on the Wall any more.
 
 ---
 

@@ -2,7 +2,7 @@
 title: Runes and Tags
 ---
 
-*Runecraft in the hand and on the field: runed gear, prepared tags, bonded weapons, and runes cut into living bodies. For the whole system in brief, see How Magic Works.*
+*Runes in the hand and on the field: runed gear, prepared tags, bonded weapons, and runes cut into living bodies. For the whole system in brief, see How Magic Works; for the cutting beside the other working trades, see [[The Magic System/Power in Use/The Four Crafts|The Working Trades]].*
 
 > *"Check the seal, check the date, check who sold it to you, and then stand well back."* Painted over the door of the tag-sellers' row at Skelby, since the events described below.
 
@@ -14,7 +14,7 @@ The door is in the Guild's strongroom at Altherion and is still warm, and for a 
 
 ## What it is
 
-Runecraft (the cutting: a working written in Parun, the glyph grammar of all magic, into a substance so that it holds without its maker) is the craft the guilds rank highest and the one a fighter carries most. It reaches the field in four forms, from the common to the very rare.
+The cutting (a working written in Parun, the glyph grammar of all magic, into a substance so that it holds without its maker) is a skill anyone with a woken Crystal can level and a trade its guilds rank above every other, loudly, and it is what a fighter carries most. It reaches the field in four forms, from the common to the very rare.
 
 | Form | What it is | How common |
 |---|---|---|
@@ -27,6 +27,8 @@ Runecraft (the cutting: a working written in Parun, the glyph grammar of all mag
 
 **Runed gear.** Lamps that burn without oil, stove plates, door wards in a clerk's house, a knife that holds its edge, a coat that sheds rain, a lock that knows its key. The cuts are fine and shallow, stamped with a cutter's mark and an excise seal, and often repaired, worse each time. All of it was cut by a living hand and is kept up by one: lamp-wardens walk their paid rounds re-cutting worn lamps, ward-cutters charge by the doorframe, and when either of them goes on strike or decides your street owes them money, your street finds out what the dark looks like. The great pieces are another matter: a gate-array, a sword that has killed in nine wars, a ward under a fortress. They are all old, relics of the Great Spirit War and the days of the Physical Epochs that people still kill for, several can no longer be fully read, and nobody living can make another, because what was lost was the condition the old cutters worked in, and no amount of skill brings that back.
 
+**How a piece is rated.** Everything cut carries two ratings: a Grade for power, on the fighters' letters, and a Rarity for scarcity, Common up through Mythic and Unique. A cutter's guild title caps the Grade she may lawfully cut, and a merchant's caps the Rarity he may sell. The Accord's old stamps (Marked, Proofed, Tempered and so on up) still go on the steel beside the maker's mark. Gear stays what it was made; only a bonded weapon grows. An Appraisal skill and an assay instrument read a piece, and a good forger beats a weak appraiser every market day of the year.
+
 **Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a torch. The user presses it to a surface or slaps it onto a body and pushes Essence (their own power) into it with the thumb; it flares in the user's color, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
 
 | Fuel | How it works | Its weakness |
@@ -35,11 +37,11 @@ Runecraft (the cutting: a working written in Parun, the glyph grammar of all mag
 | **The user's reserve** | Takes its force from the one who sets it off. The stronger the user, the stronger the tag | Costs the user, mid-fight |
 | **The maker's charge** | Carries Essence the maker stored in it. Works anywhere, at the maker's strength | Dear, and goes stale, as an enhanced bolt does |
 
-Only practitioners can use a tag. The working waits for a woken Crystal (the soul's organ of power) to close it, and a sealed Crystal cannot. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under the Accord's mark, make them, and a black market sells unstamped ones beside every hall.
+Only practitioners can use a tag. The working waits for a woken Crystal (the Soul Crystal, the soul itself, opened and taught) to close it, and a sealed Crystal cannot. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under a hall's mark, make them, and a black market sells unstamped ones beside every hall.
 
-**Bonded weapons.** A practitioner who carries one weapon through years of hard fighting leaves their Essence in it the way a hand leaves a shine on a hilt. In time the weapon answers them: it takes their color when they reinforce, and when they release (let their Trait loose in its learned form), it carries part of the release. A blade may burn with its owner's heat, a staff hold the edge of their field. The weapon grows as its owner grows, and its part of the release is written on the owner's card.
+**Bonded weapons.** A practitioner who carries one weapon through years of hard fighting leaves their Essence in it the way a hand leaves a shine on a hilt. In time the weapon answers them: it takes their color when they reinforce, and when they release (let their Trait loose in its learned form), it carries part of the release. A blade may burn with its owner's heat, a staff hold the edge of their field. The weapon grows as its owner grows, the one kind of gear that does, and its part of the release is written on the owner's card.
 
-**Body runes.** At the far end of the craft, a cutter writes into a living Aether Shell rather than stone. The lines show as pale scar-tracks, or as nothing at all until the working runs, when they light in the bearer's color under the skin. A body rune can do what nothing else can: a ward that is part of the person, a working that never needs carrying.
+**Body runes.** At the far end of the skill, a cutter writes into a living Aether Shell rather than stone. The lines show as pale scar-tracks, or as nothing at all until the working runs, when they light in the bearer's color under the skin. A body rune can do what nothing else can: a ward that is part of the person, a working that never needs carrying.
 
 ## What it costs
 
@@ -47,9 +49,9 @@ Only practitioners can use a tag. The working waits for a woken Crystal (the sou
 |---|---|---|
 | **Runed household gear** | An Essence lantern 3 to 8 silver, and the inscription fee on top | The fee is the dear part |
 | **A runed knife or tool** | 1 to 2 gold | Holds its edge or its grip; re-cut every few years |
-| **An ambient tag** | 1 to 3 silver | Apprentice-cut (by a cutter of the Accord's second rank); the commonest on any belt |
+| **An ambient tag** | 1 to 3 silver | Apprentice-cut (by a cutter holding the second of the nine guild titles); the commonest on any belt |
 | **A reserve tag** | 3 to 6 silver | Journeyman-cut and stronger, because the user pays |
-| **A charged tag** | 1 to 2 gold from a Journeyman, climbing steeply with the maker's Stage (step on the soul's sixteen-step ladder) | Goes stale on the maker's schedule; a stale book is a loss nobody refunds |
+| **A charged tag** | 1 to 2 gold from a Journeyman, climbing steeply with the maker's title and Stage (step on the soul's sixteen-step ladder) | Goes stale on the maker's schedule; a stale book is a loss nobody refunds |
 | **Black-market tags** | About half the stamped price | No mark, no guarantee, and sometimes a bad seal |
 | **A great piece** | Not sold | Inherited, won, looted or given by a crown |
 

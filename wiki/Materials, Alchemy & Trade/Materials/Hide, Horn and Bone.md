@@ -8,7 +8,7 @@ tags:
 
 # Hide, Horn and Bone
 
-*The creature-material register · hide, horn, claw, bone, sinew, gut, blood, organ, scale, quill and shell.*
+*The creature-material register · hide, horn, claw, bone, sinew, gut, blood, organ, scale, quill and shell, and the core that pays for all of it.*
 
 > Everything in this register was alive once. Some of it has not been told.
 >
@@ -27,6 +27,48 @@ The trade's word for what was in that loft is **carry** (what a creature's life 
 > So a high-carry creature material used in Threshold work does more than work harder. **It grows a region of the recipient's new lattice around a law that was never theirs.** The appetite in Ripper Talon is a hunting law a predator lived long enough to make true. The pull in Tidedrawn Cable is a law about deep water. *Neither of them is a metaphor and neither of them stops.*
 >
 > **Class III carry is appetite-shaped and can be lived with.** Class IV is identity-shaped, and identity-shaped carry is what **Identity Contamination** is a description of: a Core (here the Essence Core inside the Crystal) that has absorbed enough borrowed law to stop being able to say cleanly which convictions are its own. *This register is that supply chain. It has never been written down as one.*
+
+---
+
+## The Core
+
+**A monster's core is in a way its Soul Crystal.** Inside a creature's chest the Essence Core (the seat of its nature) hardens over its life into a fist of glassy stuff in its own color, and it is worth more the stronger the monster. Monsters gain Levels by killing, each other included, evolve at their own thresholds, and are graded T1 to T9 on the same Commission scale as everything else on this page (see [[The Bestiary/The Bestiary|The Bestiary]]). A core is the lawful Crystal Draw of [[Materials, Alchemy & Trade/Alchemy/The Standing Index|The Standing Index]], and an alchemist renders it into Essence Drafts used for tempering. A Well-spawn carries one under the mask, so a hunter may be paid twice on one kill: the hall on the mask, the rendering house on the core. Anything banished down its Well takes the core along.
+
+A core keeps far longer than anything else on the carcass, which is why crews run for the hall with the mask and walk home with the core inside their shirts. What follows is the price at a rendering house's door, for a clean core with a hall's chit. *A house pays between a third and a half of what the core will fetch poured.*
+
+| Beast | Stage it serves | Price at the door | What that buys |
+|---|---|---|---|
+| **T1** | I | 3 to 5 silver | A laborer's week, from something that had been at the henhouse |
+| **T2** | II | 12 to 18 silver | About a laborer's month, for a boy with a spade |
+| **T3** | III | 3 to 6 gold | A soldier's half-year, and a crew's first good night |
+| **T4** | IV | 8 to 15 gold | Most of a laborer's year. A village remembers who brought it home |
+| **T5** | V to VII, and the coil tells you which | 30 to 300 gold | The bottom buys two horses and the top a clerk's four years |
+| **T6** | VIII to X | 800 to 8,000 gold | More than the crew's home village will see in a generation |
+| **T7, a wyrm** | XI and XII | **20,000 gold and up** | A fortune anywhere there is a crucible, a song, and every lord in the region asking who you are |
+| **T8** | XIII and XIV | By private treaty, and a war afterward | A crown's ransom |
+| **T9** | XV and XVI | Not entered | |
+
+Any core renders about a dozen doses at its own grade ([[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]] carries the same rows, and [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]] the whole trade).
+
+A **wyrm core** is the one the crews mean when they say a fortune. A good earth wyrm's fetches 20,000 gold at the door of any rendering house with a crucible big enough, a good deal more for an old one with a name and a bounty, and the bill on the rim-town doors of the Scourge of Hell pays on top of that. Do not confuse any of this with a Core in the street's sense, a place where a Wellspring pools, and be careful which one you promise a factor.
+
+> **Swallowed raw, a core gives everything at once.** Most die and a good share come out wrong. **A Crystal cut from a dead practitioner reads the same on the coil, makes the strongest Draft of all, and is the worst crime in every realm and the most profitable.** A rendering house can spot a human Crystal on the bench if it cares to look, and the houses that care are the ones still solvent after a hanging. *Ask for the chit. Ask for the beast's name. Then ask yourself why the price is good.*
+
+## What a Kill Makes
+
+**Monster parts make gear**, and most of what a fighter wears that is worth stealing was walking around once. A piece carries a **Grade** for power, on the same letters as a fighter, and a **Rarity** for scarcity: Common, Uncommon, Rare, Very Rare, Legendary, Mythic, Unique. Its material sets the most Grade it can hold, by the rows below and [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]; the smith's title caps the Grade she may make, and the merchant's title caps the Rarity he may sell. The Accord's old stamps (Marked, Proofed, Tempered, Instrument, Hallowed, Storied, Found, Numinous, Proscribed) still go on the mark. An Appraisal skill and an assay instrument read a piece, and a good forger beats a weak appraiser. Only bonded gear grows.
+
+| Part | Becomes | What the buyer is paying for |
+|---|---|---|
+| **Hide, scale, plate** | Armor backing, coats, brigandine facing, a cloak with a reputation | Whatever the beast shrugged off, and whatever it never learned to fear |
+| **Horn, claw, fang** | Spearheads, blade facing, arrow and bolt heads, knife hilts | Edge, and at T4 and above a little of the appetite |
+| **Bone** | Hafts, grips, ward-tokens, marrow for the render | Stiffness, and something to cut a rune into |
+| **Sinew, gut** | Bowstrings, crossbow cord, harness, suture | Pull. The best cordage in the world is on the inside of something |
+| **Glands, bladders, blood** | Charges, Drafts, quenches | A short clock and a high price |
+| **The mask of a Well-spawn** | Hall pay, while it holds its color; a gray shard over the door afterward | A clerk's signature |
+| **The core** | Essence Drafts | Everything above, several times over |
+
+A piece from a famous beast takes its name and goes on being talked about. A hunter in a coat of Aunt Teeth's plum-colored hide is buying a drink, a fight or both in every town on the moor.
 
 ---
 
@@ -73,5 +115,4 @@ The trade's word for what was in that loft is **carry** (what a creature's life 
 | **Sovereign Ichor** *T7 · Holding · unconfirmed* | Dragon or Sovereign-class entity. **Recovery, salvage or inheritance only** | Vantabriel · Limina · Abstract/Entropic | Class V. **Law-shaped. Carry 88–94.** Sovereign Quench and Gold Sigil work. **Nothing known fails it. It does not degrade and it does not stop.** *Every lot has a provenance chain and most of the chains are killings* |
 | **Ember Bladder** *T3 · Holding · East* | Fire-gland of caldera-belt fauna | Ignivale · Caloria · Thermodynamics | Modest and volatile: **discharges rather than holds.** Militia charges, field ignition, Wick-Salt upgrade stock. **A stored bladder discharges on its own inside a year.** *Cheap, effective, and responsible for more workshop fires than any other single input* |
 | **Reading Gland** *T5 · Holding · West* | Scent and resonance organs of pack predators | Luminalis · Fulguria · Electromagnetism | **Carries a perception set rather than an appetite.** Assay aids, tracking compounds, Null Warden issue. **Decomposition clock is under an hour and no field technique extends it.** ***The reason cold teams exist for products that are not cold products. Nothing else buys an hour*** |
-| Material | Source | Resonance · Family · Domain | What it is |
-| **Render Stock, Attested** *T5 · Holding · all quarters* | **Human, lawfully rendered.** Consented render, judicial render, warranted salvage | By donor · by donor · by donor | **Class IV. Identity-shaped carry, seated to whatever the donor survived.** The reference stock for Gravemark Ink, the Refraction Draught, Namekeeper's Thread and every Threshold product above T5 that works at all. Grades by what the donor was rather than by what they were made of, **which is why no Resonance can be printed and why the column above says by donor three times.** *A Fulguria adept renders to a perception set. A soldier renders to something the buyers do not put in writing.* **Nothing in the ledger is more thoroughly regulated or more casually handled.** The rendering houses are chartered, inspected, bonded and entirely ordinary, and the men who work in them go home to supper |
+| **Render Stock, Attested** *T5 · Holding · all quarters* | **Human, lawfully rendered: the body's Trait tissue, never the Crystal.** Consented render, judicial render, warranted salvage | By donor · by donor · by donor | **Class IV. Identity-shaped carry, seated to whatever the donor survived.** The reference stock for Gravemark Ink and Namekeeper's Thread, and the old stock of the Refraction Draught and every Threshold product above T5, which an honest house now pours from monster core. Grades by what the donor was rather than by what they were made of, **which is why no Resonance can be entered and why the column above says by donor three times.** *A Fulguria adept renders to a perception set. A soldier renders to something the buyers do not put in writing.* **Nothing in the ledger is more thoroughly regulated or more casually handled.** The rendering houses are chartered, inspected, bonded and entirely ordinary, and the men who work in them go home to supper |

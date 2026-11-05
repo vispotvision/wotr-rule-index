@@ -20,11 +20,11 @@ In the ninth year of the Dark Ages an apothecary of Candle Wharf named Corbin Oa
 
 The Salt marries Sublimatio to Fixatio, one law that says rise and one that says stay, and two laws forced into one vessel neither blend nor cancel. They contest. The vessel went first and the bench after it, then the whole front of the shop came out over the water in a sheet of scarlet fume, and everything within forty paces of the bench rose to the height of a tall man's chin and stopped. Four hundred bottles, a cheese, the scarlet sign, a handcart, nine startled pigeons and Corbin Oakapple's right arm from the elbow down, with his ring on it, hung over Candle Wharf in a slow red haze while the regatta rowed underneath and the crowd on both banks cheered itself hoarse, taking it for the best thing the Rivermen had ever laid on. The chandler who shared Oakapple's wall hung there as well, at the height he had been standing. It stayed up for nine days. His widow came every morning with a ladder and sat with him, and the cheering stopped at about the time people noticed her.
 
-On the tenth morning it all came down at once. The steward of the House of Merrowby called at the infirmary that afternoon with a basket of pears and a card in a fair clerk's hand: *Page twenty-six. The lion is a different lion, and the quicksilver is there for you.* The Merrowbys have never denied the pears. Candle Wharf still holds a Hanging Fair on the day, with sugar arms for the children, and every apprentice in the western quarter gets the story in the first week along with the sentence at the head of this codex, because every part of that morning has a name and a chapter below: the cover-name, the false step, the missing glyphs, the Wedding, and the wall that should have been built to go first. In the wharf taverns a Rupture Event (two laws contesting in one vessel) is a bad marriage, a Draft (a working poured into a substance, so that it can be carried and drunk) is a bottle, and an alchemist with no woken Crystal is a dry hand. The terms of the Bench (the Bench of Attribution, the office of the Guild Accord that enters, grades and strikes formulas; the Accord being the chartered body that licenses the trades) follow, and they are no kinder.
+On the tenth morning it all came down at once. The steward of the House of Merrowby called at the infirmary that afternoon with a basket of pears and a card in a fair clerk's hand: *Page twenty-six. The lion is a different lion, and the quicksilver is there for you.* The Merrowbys have never denied the pears. Candle Wharf still holds a Hanging Fair on the day, with sugar arms for the children, and every apprentice in the western quarter gets the story in the first week along with the sentence at the head of this codex, because every part of that morning has a name and a chapter below: the cover-name, the false step, the missing glyphs, the Wedding, and the wall that should have been built to go first. In the wharf taverns a Rupture Event (two laws contesting in one vessel) is a bad marriage, a Draft (a working poured into a substance, so that it can be carried and drunk) is a bottle, and an alchemist with no woken Crystal is a dry hand. The terms of the Bench (the Bench of Attribution, the court the alchemists' halls keep to enter, grade and strike formulas, inside the Guild Accord, a coalition of many kinds of guild across many nations whose halls sign on for shared rank, enforceable contracts and passage) follow, and they are no kinder.
 
 ## What Alchemy Is
 
-A Wellspring is one of the sixty types of Aether (the raw stuff of magic, which practitioners pull from the world around them). Each type affects the Soul Crystal (the soul's organ of power, which refines Aether into Essence) differently, and each is a source of power that also represents an alchemical principle and a spiritual transformation. The bench works the second of those readings. Each of the sixty is a living process, a law of transformation encoded into the Continuum (the whole lawful order of reality) since the Division, with nothing stored in it the way a reservoir stores water, and **six of them are at once Wellspring, cosmic principle and alchemical operation.** This page agrees with the register in [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]], which is the place to go for the law as a Measurewright reads it.
+**A Wellspring is an alchemical and a spiritual transformation, and a concept.** It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether (the raw stuff of magic, which practitioners pull from the world around them): a lens on magic already potent. There are sixty, fixed and counted, and each is also a type of Aether, affecting the Soul Crystal (literally the soul, which refines Aether into Essence) in its own way. A Wellspring can highlight and even double a person's natural Essence Typology, starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or a blessing, or by birth, and the physics that a Measurewright hangs on each one is how scholars explain it. The bench works the alchemical reading. Each of the sixty is a living process, a law of transformation encoded into the Continuum (the whole lawful order of reality) since the Division, with nothing stored in it the way a reservoir stores water, and **six of them are at once Wellspring, cosmic principle and alchemical operation.** This page agrees with the register in [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]], which is the place to go for the law as a Measurewright reads it.
 
 **That correspondence is the architecture of the discipline, and it was there before the trade had a word for it.** An alchemist working a Coagulation Draft **is channeling Coagulatio itself**, and the medium that carries it is the material on the bench, where a caster's medium is his own resonance.
 
@@ -91,7 +91,7 @@ What the alchemist does is arrange conditions and issue an authorization so that
 >
 > They are also, by a considerable margin, **the most technically precise practitioners in the discipline.** A harmonized Crystal-bearer can be sloppy and still succeed. **A pure alchemist who is sloppy dies**, and the survivors are consequently the ones the great houses hire to run the dangerous benches.
 >
-> The Accord certifies both and ranks them on the same Tiered Path, **which looks equitable and is not.** A pure alchemist's Tier is certified at the bench, on the work alone, up to Expert and no higher, because every gate above Expert consults Temperance (the climb of a soul from Stage to Stage) **and a pure alchemist has none to consult.** The Tier is certified and never read off the Crystal, and it caps what its holder makes exactly as a tempered Tier does. *The certificate hangs framed by the workshop door, and it says bench-certified, pure alchemy.*
+> The alchemists' halls certify both and grade them on the same nine titles every guild uses, Initiate through Paragon, **which looks equitable and is not.** A title grades trust in the trade and caps what its holder may make, and a Grandmaster merchant need not be able to throw a punch. The alchemists' halls keep one old gate all the same. A pure alchemist's title is certified at the bench, on the work alone, up to Expert and no higher, because every gate above Expert consults Temperance (the climb of a soul from Stage to Stage) **and a pure alchemist has none to consult.** The title is certified and never read off the Crystal, and it caps what its holder makes exactly as any maker's title does. *The certificate hangs framed by the workshop door, and it says bench-certified, pure alchemy.*
 >
 > So the discipline that most rewards precision is administered by an institution that measures communion, and the four quarters are full of **pure alchemists at Adept running the benches that Grandmaster Crystal-bearers put their seals on.** *The seal is the price of the arrangement: whatever a pure alchemist makes to stand goes out under a Crystal-bearer's seal.*
 >
@@ -103,7 +103,7 @@ What the alchemist does is arrange conditions and issue an authorization so that
 > 
 > *The catalyst network is the bench's name for grain.* Conditioned tissue, conduction channels laid down by habituation, and in rare cases induced apertures. **It is real, it shows in the work, it strengthens only in the direction the work pushed it, and it can never be redirected into anything else.** A forty-year Distillation specialist is extraordinary at Distillation and will be extraordinary at nothing else for the rest of his life.
 > 
-> **No instrument in the Accord reads grain.** The gates above Expert consult Temperance because Temperance is what the coil can see, and the discipline's most precise practitioners are invisible to the apparatus that ranks them. *The Derivation Index carries the same blind spot, and so do the screening seasons: one blind spot, seen from three desks.*
+> **No instrument in the Accord reads grain.** The examiners above Expert consult Temperance because Temperance is what the coil can see, and the discipline's most precise practitioners are invisible to the apparatus that ranks them. *The Derivation Index carries the same blind spot, and so do the screening seasons: one blind spot, seen from three desks.*
 
 ---
 
@@ -370,6 +370,30 @@ It looks dark, **because the working is read by color through glass and bright l
 
 ---
 
+## The Core at the Bench
+
+*Every operation above has been taught for six centuries. What paid for the teaching, in most houses, is one lump of glassy stuff out of a dead animal's chest.*
+
+**A monster's core is in a way its Soul Crystal**, worth more the stronger the monster, and it is the lawful Crystal Draw (Class IV stock) of [[Materials, Alchemy & Trade/Alchemy/The Standing Index|The Standing Index]]. Monsters gain Levels by killing and evolve at their own thresholds, so an old beast has done a great deal of tempering of its own, and that is what comes up the stair in a crew's shirt.
+
+**Rendering.** The core is read like any stock, for its beast, its grade and its carry. It is burned and taken and parted through the first Turnings, and what comes off the Parting is Essence with the beast's nature still in it. The house's whole art is deciding how much of that nature to shed, since every washing that lowers the carry also loses Essence. A heavy lot tempers fast and leaves a good deal of wolf in the drinker. A light one is expensive and slow, and the rich buy it for their children. The product is the **Essence Draft**, poured to the Stage it serves and taken as a course to feed tempering, which melts the Soul Crystal down and rebuilds each layer. Its risk is **Identity Contamination**, which keeps a good many honest apothecaries awake counting doses. See [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]] for the prices, and [[Materials, Alchemy & Trade/Materials/Hide, Horn and Bone|Hide, Horn and Bone]] for what a core fetches at the door.
+
+**Raw.** A core swallowed or broken raw gives everything at once, with no fee and no Parting. Most die or come out wrong. *Every Luteboy in the trade has been told this, and every year one of them tries it with something he found in a bag.*
+
+**The other stock.** A Crystal cut from a dead practitioner renders on the same bench by the same Turnings, into the strongest Draft of all, and it is the worst crime in every realm and the most profitable. At the bench it is extraction from a dead donor, the Open Shell described below, so it leaves the same residue that never thins. The house that takes such a lot is buying a hanging, a fortune, or commonly both. The reason Class IV has never balanced is on that bench tonight, somewhere, under a chit that says wyvern.
+
+**Who gets the top of the shelf.** Drafts and blessings can supply a Catalyst (the change a Crystal demands before it will climb), so Stages can be bought, and the breakthrough Draft is the bench's most profitable single product. The wealthy are stronger because they are wealthy. The great houses hoard the top lots, and the poor rise by dungeon luck, guild patronage and blessings. *The bench's part in this is to pour what it is paid to pour. The Heresiology has views.*
+
+## Master Works of the Bench
+
+A **Master Work** is a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own, and at the bench a Master Work is a Draft.
+
+The one every alchemist dreams of pouring is a **Fate Essence Draft**. The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates, and real Fate Arts are rare and mostly by bloodline, so most people only ever touch Fate through a blessing or one of these. The stock is said to be the last thing a great Alchemarch learns to see in a vessel, a charge taken to the Wedding with nothing to wed: Conjunction has no Wellspring of its own and runs on Attraction, and a master who has walked that stage twice can, once, bottle the pull itself. Pour it wrong and the same vessel holds Obsession Force, and the workshop spends the rest of its days unable to stop coming back to that bench. *Three Measurewrights have told me that this account is nonsense, and each of them asked me which house was attempting it.*
+
+It is extremely hard to make and very coveted, it attaches readily to an oath, and families have spent a county to stand near one. **The Turned Coin**, poured by Alchemarch Hesper Ludd of Candle Wharf in the last year of her life, went down the throat of a Thresh horse-coper named Oswin Gant in 661, and for forty-one years thereafter no wager, ford or lawsuit went against him. He died at ninety in a scarlet bed with a whole county in his debt, and no one has yet been able to collect from his grandchildren.
+
+---
+
 ## The Dead at the Bench
 
 *The summons that fills an impression-body belongs to Animatria and Vocatia, and what the dead leave is the Crossing's business. What follows is the bench's share: the vessel, the inks, the seal and the ash.*
@@ -380,7 +404,7 @@ It looks dark, **because the working is read by color through glass and bright l
 
 **The seal is written or cut, and it closes on a condition.** A grave-seal closes on a glyph that states when it ends, such as [Vor] Return, and never on Mortalis itself. A seal left unfinished is an **unsealed rune**: an open wound in the working that ambient pressure completes on its own terms, into a haunting that misfires until someone finds the rune and breaks it.
 
-**Harmonized work is lawful work.** Mortalis is Auren's Still Gate, the passage by which a living body stops holding itself together. Death-work is lawful in the hands of an operator who holds a Mortalis harmonization of his own, and only as far as that harmonization carries. Run past it at scale, the working takes what it was never given, and that is Mechanica. The worst of it is the **Open Shell**: output taken out of a dead donor's Crystal, filed at Grade V, Mechanica Trespass. The practitioner can be treated over months. The worked ground never heals, and the Open Shell is the one failure of death-work that crosses into civilizational breach.
+**Harmonized work is lawful work.** Mortalis is Auren's Still Gate, the passage by which a living body stops holding itself together. Death-work is lawful in the hands of an operator who holds a Mortalis harmonization of his own, and only as far as that harmonization carries. Run past it at scale, the working takes what it was never given, and that is Mechanica. The worst of it is the **Open Shell**: output taken out of a dead donor's Crystal, filed at Grade V, Mechanica Trespass, and a Crystal cut out to be rendered falls under the same grade. The practitioner can be treated over months. The worked ground never heals, and the Open Shell is the one failure of death-work that crosses into civilizational breach.
 
 **Reserved by rank.** The Bench reserves the lawful Mortalis workings in three steps by named rank: the forensic reading at the Adept gate, the heavier workings at the Expert gate, and completion at the Expert gate with individual review. A Crystal-bearer must also stand at the Stage each asks: Flourishing, Glory, and Refraction with review. The Categories bind wherever a circle has signed. The treatise that states them is sealed at Tier VI clearance, where a higher numeral is the tighter seal. *Full resurrection is forbidden in it, and no Bench reserves it at any rank.*
 
@@ -435,11 +459,11 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 
 ---
 
-## Draftcraft and Provenance
+## The Pour and Provenance
 
 *A caster's work is gone when the working ends. A Draft sits on a shelf with a price on it, and everything that happened to it on the way there is written down somewhere.*
 
-**Alchemy is practiced as Draftcraft**, the craft of the pour and the vessel. It writes in price, vessel, seal and ledger, and its cost is provenance: every lot can be traced, and the trade lives by the tracing.
+**Alchemy is a skill and a trade**, the pour and the vessel, and anyone can level it: it rises with use and shows on the window (the soul reporting its numbers to its owner, unseen by anyone else) as a Grade, in a pure alchemist's as in anybody's. It writes in price, vessel, seal and ledger, and its cost is provenance: every lot can be traced, and the trade lives by the tracing.
 
 **What a Draft carries.** A graded Draft carries its Class, its Fidelity and its Carry, struck at the Mark, and the grade is the stamp's. A clerk enters it as it reads: *Class II, Field Substrate; fidelity Sound; Carry Marked.*
 
@@ -451,7 +475,7 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 
 **The Parunic Echo** is the trade's word for a practitioner's Essence Signature, carried in the residue of every working he made and legible to any reader from Flourishing up.
 
-**The dead as stock.** By the ninth day after death the Temperance residue has gone home to its Wellspring, and a practitioner's body holds only Trait tissue: passive Class IV carry, with nothing in it still active. A higher Stage stretches the nine days by days. Old graves are Class IV stock for the rendering room, and nothing in them is still diffusing.
+**The dead as stock.** By the ninth day after death the Temperance residue has gone home to its Wellspring, and a practitioner's body holds only Trait tissue: passive Class IV carry, with nothing in it still active. A higher Stage stretches the nine days by days. Old graves are Class IV stock for the rendering room, on one of the three old warrants, and nothing in them is still diffusing. The Crystal in the same grave is the hanging matter above.
 
 **What no instrument gives.** The coil reads a field and a floor, and the stamp gives a grade. Neither can say whether the hand that sealed a circle stood at the gate its ink is reserved to. And no instrument in the Accord reads grain.
 
@@ -461,7 +485,7 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 
 *Nine years to Drafter is standard. Fourteen to Master of the Circle is fast. The trade is slow the way the work is slow, and for the same reason, and a house that promotes early is a house whose stock the assay records will eventually describe.*
 
-*The rungs are the house's own ladder. The Accord's Tier of Standing is a separate thing: read off the Crystal for a Crystal-bearer, and certified at the bench, up to Expert, for a pure alchemist.*
+*The rungs are the house's own ladder. The title is a separate thing: Initiate through Paragon, the same nine in every guild, certified at the bench on the work, and capping what its holder may make.*
 
 | Rung | What it is |
 |---|---|

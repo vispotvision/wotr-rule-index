@@ -18,7 +18,7 @@ Everything she did is on this page, in order.
 
 ![[Assets/Diagrams/stacking.svg]]
 
-Power-ups from every source stack on one another, up to a hard cap of **two Grades** (letter bands of force, F through EX+) above what the practitioner's Soul Crystal (the organ that stores and sends out their power) can hold safely. Every layer the Crystal runs at once adds risk of a fracture, and every second of it spends reserve (the store of Essence, the practitioner's own power), which the body shows on a fixed ladder of tells.
+Power-ups from every source stack on one another, up to a hard cap of **two Grades** (letter bands of force, F through EX+) above what the practitioner's Soul Crystal (the soul itself, which stores and sends out their power) can hold safely. Every layer the Crystal runs at once adds risk of a fracture, and every second of it spends reserve (the store of Essence, the practitioner's own power), which the body shows on a fixed ladder of tells.
 
 | Layer | What it adds | Counts on the cap |
 |---|---|---|
@@ -28,9 +28,9 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 | **A release** (the soul's standing law, its Trait, let off its limit in a learned shape) | First: top of the band. Second: one Grade, inside its field. Third: two Grades, for one effect | Yes |
 | **A lifting Draft** (a bottled working that pushes a stat) | As its grade says | Yes |
 | **An overchannel** (forcing the Crystal past its safe ceiling, unshaped) | Two to five times sustainable force for a moment | Yes, and always damages |
-| **Help from outside**: an ally's working, a standing array, a Domain (a space where one soul's law outranks the world's) someone else holds | Whatever the helper can give | **No.** It stacks freely and adds no risk to the one receiving it |
+| **Help from outside**: an ally's working, a standing array, a Domain (a space where one soul's law outranks the world's) someone else holds, a Grade held up by a [[The Magic System/Practice and Institution/Blessings and Curses\|blessing]] | Whatever the helper can give | **No.** It stacks freely and adds no risk to the one receiving it |
 
-**The stack line.** Every registered card carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way an engine-master reads the marks on a trebuchet's arm.
+**The stack line.** Every registered card carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way an engine-master reads the marks on a trebuchet's arm. A Stage bought with Drafts or given by a blessing comes with a gap in that line, because a bought Stage opens the door and no more: its Release must still be found and mastered by fighting, so a rich heir at Stage VII may have a whole rung of the table above he cannot yet run. Assessors look for that gap first and say so loudly at dinner.
 
 ## How it looks
 
@@ -46,13 +46,24 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 
 **Maxing out.** A Crystal pushed to its ceiling and past it shows heat first, a fever-flush and steam off wet clothes, then blood: from the nose, the corners of the eyes, the gums. Last, the aura cracks. Bright fault-lines run through the color like crazed glass, and every trained eye in the room knows what they are.
 
+**The window.** Everything on this ladder the room reads off the body, the fighter also reads off their own window, the soul reporting its numbers to its owner in their own tongue and to nobody else. It shows Grades, percentages, bars and levels. A Release or a Domain fills it with the name and what changed, and a timer bar drains:
+
+```
+[FIRST RELEASE: THE LONG YOKE]
+[Ardency: top of band]
+[Reserve: 47% ▓▓▓▓▓░░░░░]
+[Holds: ▓▓▓▓▓▓▓░░░]
+```
+
+The body tells first and the window confirms after. Plenty of fighters have died reading the bar instead of the man in front of them.
+
 **Waste.** Every working loses some of its Essence as heat, noise and light, and how much is set by the practitioner's efficiency (η, the share of spending that arrives as effect). A novice's working is loud and hot: a roar, a blast of warm air, light spilling everywhere. A master's is quiet. The same force arrives with almost nothing around it, and the quiet is often the first thing that tells an opponent what they are facing.
 
 ## What it costs
 
 - **Fracture risk, per layer.** One layer run inside its limit is safe. Each further layer stacked at the same time raises the chance of a Crystal Fracture Event (a crack in the Crystal, healed slowly or never). Two layers is a gamble veterans take. Four is a story told about the dead.
 - **The cap is absolute.** Nothing of the practitioner's own lifts them past two Grades over sustainable. A Third Release already stands at the cap for its effect, so nothing else can be stacked on that effect while it holds.
-- **Drain, written as time from full.** A card states how long a working holds if started on a full reserve, before the reserve falls to a tenth: "holds six minutes from full". Two workings at once burn both clocks together. A working started at half reserve has half its time left.
+- **Drain, written as time from full.** A card states how long a working holds if started on a full reserve, before the reserve falls to a tenth: "holds six minutes from full". Two workings at once burn both clocks together. A working started at half reserve has half its time left. The exact EU, AU/s and η behind that line stay on the card and out of the window.
 - **Fight Drafts refill.** A fight Draft (a bottle made to be drunk mid-fight) puts Essence back into the reserve. Each costs a beat to drink and leaves a crash when it wears off: the shakes, a heavy head, and a sleep that will not be refused. There is no rule against drinking several; there is only the price, which climbs about threefold for each Stage (step on the soul's sixteen-step ladder) the Draft serves, and the counterfeits.
 
 ## How it is beaten
@@ -68,4 +79,4 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 
 **Hob Garrow**, a Stage VI caravan guard with Materia (stone and substance) Essence, has a stack line that reads: *coat, focused (+1); vow, no step back (to the top of the band); IRON GRIP, called (surge); cap at +2.* Against a Stage VI raider on a pass road he focuses his coat into his right fist and swears his vow aloud: he will not take a step back. That is two layers, a Grade up and the top of the band above it, and the risk is real.
 
-Two minutes in, his breath is short and his ochre aura has dimmed: half. The raider sees it and starts circling. Hob drinks a fight Draft with his free hand, a beat with his guard down, and takes a cut along the jaw for it. His reserve comes back up. At a quarter again his hands shake and the ochre washes gray. He calls IRON GRIP as he swings, the surge cracks the raider's shoulder, and the fight is done. An hour later the crash lands, and Hob sleeps across two sacks of meal while the wagons roll on without him.
+Two minutes in, his breath is short and his ochre aura has dimmed: half. The raider sees it and starts circling. Hob drinks a fight Draft with his free hand, a beat with his guard down, and takes a cut along the jaw for it. His reserve comes back up. At a quarter again his hands shake and the ochre washes gray, and the bar in his window says what his hands already told him. He calls IRON GRIP as he swings, the surge cracks the raider's shoulder, and the fight is done. An hour later the crash lands, and Hob sleeps across two sacks of meal while the wagons roll on without him.

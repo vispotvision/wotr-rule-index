@@ -15,7 +15,9 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 >
 > Sections I–V, the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output, live on [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]] and are not repeated here. **This page continues from Section VI.**
 >
-> **Section XV is the one to read before writing prose.** It sorts every term above into what may appear on the page and what is workbook only.
+> **Section XV is the one to read before writing prose.** It sorts every term on this page into what may appear on the page and what is workbook only.
+>
+> **Sections XVI to XIX are the newest ink on the shelf:** the sheet and the climb, monsters and dungeons, guilds and items, Fate and blessings. Where an older entry reads otherwise, those govern.
 
 ---
 
@@ -29,9 +31,9 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 | **Kinesia** | -kinesis | Direct control in real time. Material Plane. The technique is the act. |
 | **Turgia** | -turgy | Ritual and creation. Lasting change. Plane of Fate. No kin to the theurgic axis, which measures how a capacity was gained. |
 | **Corporis** | — | Martial integration. The body is the conduit and cannot be separated from the technique. |
-| **Scriptia** | -graphy | Inscription. Carved permanently into material. The Method, worked chiefly through Runecraft; Glyphica is the language it cuts. |
+| **Scriptia** | -graphy | Inscription. Carved permanently into material. The Method of everyone who cuts a rune, a ward or a tag; Glyphica is the language it cuts. |
 | **Alchemia** | -genesis / -synthesis | Substance transformation. Essence Drafts. |
-| **Harmonia** | -phonia / -chord | Frequency-based working. Tone, attunement, sympathetic vibration. |
+| **Harmonia** | -phonia / -chord | Frequency-based working. Tone, attunement, sympathetic vibration. The chant is its commonest tool. |
 | **Conjunctia** | compound roots | Fusion of two or more Families simultaneously, inside one practitioner's working. Gated high. Not the alchemical Conjunction, which weds two prepared laws in a vessel. |
 | **Synergia** | named by working | Multiple practitioners combining. Attraction Layer compatibility required. |
 
@@ -47,7 +49,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 ## VII · Glyphica and the Parunic syntax
 
-**Parun** · The language of law. Older than any surviving kingdom and not fully cataloged by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.
+**Parun** · The language of law. Older than any surviving kingdom and not fully cataloged by anyone. **Glyphica** is its syntax put to work, the Category every Method writes in: spoken in a chant or a called working, cut in a rune or a tag.
 
 **What a glyph does** · A glyph creates nothing and carries no power. The Wellspring's law was already running and continues after the working ends. **A glyph is a boundary condition imposed on that law**, and the working is what the law does once the boundary has moved. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench considered.
 
@@ -66,7 +68,9 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Fixatio chain** · The glyph sequence that fixes and closes a working. The workhorse of every seal, ward and permanent inscription in the Continuum.
 
-**Sigilcraft** · Glyphica rendered as durable inscription rather than performance: an older name for Runecraft, the craft of the cut sentence. Scriptia is the Method that lives by it.
+**Inscription** · Glyphica rendered as a durable cut rather than a performance. Scriptia is the Method that lives by it, and people who want to charge more for it have a dozen grander words.
+
+**Rune · tag · chant** · Three ways of holding a Parunic sentence, and three skills anyone can level by doing them, with a guild title to say how far the hall trusts you at it. A **rune** is the sentence cut into material, where it goes on working after the cutter has gone home; a standing runed working is an **array**. A **tag** is a sentence prepared on something small, fueled per tag and fired only by a practitioner. A **chant** is the sentence spoken or sung, or held in the attention like a held note, and it stops when the speaker does. No school owns any of the three. Several have broken each other's windows on the question.
 
 **Draft Corruption** · Law-fragments left when the Continuum partially executes a sentence with a structural error before the error propagates. It is the Direction role's own failure mode, and an error in any role can produce it: Wellspring processes started and never completed, which keep trying to finish themselves in whatever they contact. Unlike a Boundary failure, which spreads, or a Sealing failure, which never ends, the working itself stops; the fragment it left does not.
 
@@ -77,13 +81,13 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 ## VIII · Alchemia, Drafts and the Work
 
 > **Aether + Essence + Vessel + Glyphica = Reaction**
-**Essence Draft** · A working stabilized into a substance. The product of Alchemia.
+**Essence Draft** · A working stabilized into a substance. The product of Alchemia, and a skill anyone can level. A Draft can supply a Catalyst, which is why Stages are for sale and why the great houses hoard the top of the shelf (see **Catalyst** and **Bought Stage**, Section XVI).
 
 **Vessel** · The container in which a Draft is bound. Its material sets what the Draft can survive and how long it keeps.
 
 **Crucible** · The working vessel of active transformation, as distinct from the vessel a finished Draft is stored in.
 
-**The Great Work** · The seven-stage curriculum of Alchemia. A practitioner's progress through it is a matter of public record within the Accord and a matter of pride outside it.
+**The Great Work** · The seven-stage curriculum of Alchemia. A practitioner's progress through it is a matter of record in the alchemists' halls of the Accord and a matter of pride outside them.
 
 **Coagulation · Distillation · Sublimation · Conjunction** · Named operations within the Work. Conjunction doubles as its own Category, since fusion behaves differently enough from the rest to need separate treatment. Conjunction is the operation and the Category; Conjunctia is the Method, a practitioner holding two Families at once.
 
@@ -91,7 +95,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 ## IX · Domains, fields and realms
 
-**Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying.
+**Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying. **Anyone at Stage VIII can have one**, their own concept made real.
 
 **Aspect Sovereignty** · A Domain built on a single governing principle held by one soul.
 
@@ -109,7 +113,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Aetheric Density** · The concentration of Aether in a given volume, the scholar's term for what a fighter calls rich ground and thin ground. It sets the local output ceiling, and because a practitioner pulls Aether from the environment around them, rich ground fills them faster and thin ground starves them. **This is why ground is fought over and not only people.**
 
-**Core** (common speech) · A worked site where a Wellspring's Aether pools. A Core recharges, it has keepers, and its keepers can close it. Scholars write *Wellspring site* to keep it apart from the Essence Core, the inner layer of the Soul Crystal, and the rest of the world says Core and trusts you to work out which from what the speaker is pointing at.
+**Core** (common speech) · A site where a Wellspring's Aether pools. Most Cores lie in dungeons, and the rest are said to lie in vast open territories. A **worked Core** is a dungeon someone cleared and now holds: it recharges, it has keepers, and its keepers can close it. Scholars write *Wellspring site* to keep it apart from the Essence Core, the inner layer of the Soul Crystal, and from a monster's core (Section XVII), and the rest of the world says core and trusts you to work out which from what the speaker is pointing at.
 
 **Salted ground · bled ground** · Two ways of making ground thin on purpose. Salted ground has been worked, usually by hired hedge-workers (the paid hands of the petty arts), so that Aether will not pool on it. Bled ground has been pulled empty by a long fight or a greedy crew and fills back slowly.
 
@@ -160,7 +164,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Rupture Event** · A Conjunction's failure: two incompatible laws contesting one substrate without adequate mediation. No relation to Shell Rupture, nor to a rupture in the Veil, which is a channel struck between planes.
 
-**Obsession Force** · Attraction Force curdled into fixation. Sustains corrupted technique through refusal rather than harmony, at escalating soul-cost.
+**Obsession Force** · Attraction Force curdled into fixation. Sustains corrupted technique through refusal rather than harmony, at escalating soul-cost. With Attraction Force it is one of the two forces the Plane of Fate controls (Section XIX), so a fixation is a thing a Fate Art can get its hands on.
 
 **Mechanica debt** · What the Continuum records against a working performed without lawful Authorization. Statute XXVI, **Mechanica Irreversibility**, exists because this is the one damage the Continuum does not forget.
 
@@ -172,15 +176,17 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 *Field vocabulary. What practitioners use on each other before anyone has cast anything. Aura coat, Pressure and sensing are the three most famous arts in the world: children play at them, every culture has its own name for each, and every culture is sure the others do them badly.*
 
-**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own color, burning brighter as they push. The trade says **the weight** everywhere, and each people has its own word besides: the Moto *atsu*, the press, which they use of a lord's dignity as well, so that his weight and his worth are one argument; the Mahuo *nureum*, a pressing down; the lineage halls *wēiyā*, majesty that presses; a Marrowkin calls it **the load** and a Kharven **the low sky**.
+**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the room first, in the lamp flames and the animals, then in the body, and only then does the window report it. It is seen in the practitioner's own aura, in their own color, burning brighter as they push. It comes from a fighting Stage and nothing else, so a Grandmaster merchant with no Stage to speak of has no Pressure at all, whatever his title does to the prices. The trade says **the weight** everywhere, and each people has its own word besides: the Moto *atsu*, the press, which they use of a lord's dignity as well, so that his weight and his worth are one argument; the Mahuo *nureum*, a pressing down; the lineage halls *wēiyā*, majesty that presses; a Marrowkin calls it **the load** and a Kharven **the low sky**.
 
 **Sensing** · The trained art of feeling another's Essence, Stage and intent before they move. Moto *kehai*, the sign of someone there. Mahuo *nunchi*, the same word they use for reading a room, and they will tell you that is the point. The halls' *shénshí*, the spirit's knowing. A Marrowkin **sounds** you, as he sounds a rock face for a bad seam. In the street, **having the nose**. Measurewrights hold it is one art and have been unable to get any two peoples to agree on how to teach it.
 
-**Aura coat** · The visible skin of a practitioner's own color over reinforcement. Moto *matoi*, Mahuo *gabot*, the halls' *hùtǐ*, and the rest; see [[The Magic System/Power in Use/Reinforcement|Reinforcement]].
+**Aura coat** · The visible skin of a practitioner's own color over reinforcement. **Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape.** Moto *matoi*, Mahuo *gabot*, the halls' *hùtǐ*, and the rest; see [[The Magic System/Power in Use/Reinforcement|Reinforcement]].
 
 **Suppression** · The skill of holding Pressure in. Tiring to maintain. **Dropping it deliberately is a threat and is understood as one.**
 
 **The read** · Identifying what the other practitioner is doing, in the two or three exchanges before it kills you. Taught techniques are documented and counterable by anyone who studied. Self-derived techniques must be read live.
+
+**Reading a person** · A stronger **Gnosis Perception** (the faculty that takes in another soul) reads a weaker **Resilience Ward** (the faculty that keeps it out), Grade against Grade. Everything else is an estimate said aloud, and people can hide or fake what you are estimating. Your own window never shows you anyone else's numbers.
 
 **Stage gap** · The distance between two practitioners on the sixteen-Stage ladder. The single most consequential fact in any encounter and the first thing anyone competent establishes.
 
@@ -188,7 +194,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 ## XIII · Institutional vocabulary
 
-**The Guild Accord** · The licensing and regulatory body. Its register of techniques is out of date and everyone knows it.
+**The Guild Accord** · A coalition of many kinds of guild across many nations: adventurers' guilds, merchant guilds, craft guilds, alchemists, healers, couriers and more. Halls sign on for shared rank, enforceable contracts and passage, and crowns tolerate it and fear it. Its heartland is the Sealed Charter of the Concord. Its register of techniques is out of date and everyone knows it.
 
 **The register** · The Accord's official catalog of known techniques and disciplines. **Absence from the register is not evidence that a thing does not exist.**
 
@@ -196,7 +202,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Unnamed** · A practice with no register entry at all. Worse than Forbidden, because there is no procedure, and the absence of one has to be improvised by whoever finds you.
 
-**Standing** · A practitioner's recognized position within the Accord's hierarchy, which is not the same as their Stage and is frequently mistaken for it by people who should know better.
+**Standing** · A person's recognized position in their guild, spoken as one of the nine titles (Section XVIII), which is not the same as their Stage and is frequently mistaken for it by people who should know better.
 
 **Statute** · A numbered article of the Codex of Absolute Magical Law. Cited by number in argument and by name only when someone is being theatrical.
 
@@ -222,25 +228,124 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 | Domain | **his ground** · **inside it** | Anyone who has had to fight in one |
 | Vocatia | **calling** · **asking something up** | Universal |
 | Draft Corruption | **a working that won't finish** | Alchemists and turgists. **Limina has no equivalent term and the omission is real rather than an oversight**: a Limina working that fails leaves nothing behind to name, which is the whole of what Limina is. The common tongue calls the site **thin** and does not elaborate; the surveyor's Veil-thin and the farmer's thinning are other ground |
+| Window | **the numbers** · **your own slate** | Anyone who has one, usually while looking at nothing |
+| Bought Stage | **a purse Stage** · **a bought seat** | Sect fighters, and whoever just lost to one anyway |
+| Monster core | **the stone** | Dungeon crews and renderers |
+| Swallowing a core raw | **going raw** | Crews, mostly of the dead |
+| Blessing | **a thumb** · **thumbed** | Everyone, enviously |
+| What a blessing did not say | **the terms** | Everyone, afterward |
 
 ---
 
 ## XV · What goes on the page
 
-*The section to read before writing anything. It sorts everything above into its channels.*
+*The section to read before writing anything. It sorts everything on this page into its channels.*
 
 **Mechanism belongs on the page.** How a working works, why it costs what it costs, what law it conditions and what fault falls out of that law, spectacle first and the full account right after, so that nobody is ever left guessing. A fully explained technique that costs nothing is worse than an unexplained one, and an unexplained one that costs everything is worse than both.
 
-**Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.
+**Numbers belong in a mouth or a window.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, when somebody is privately counting, or when the bearer's own window reports them, in a text block of its own right after the blow it describes. **They do not appear in narration on its own authority**, and the prose stays body first. The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.
 
 **Effects always appear as behavior and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap goes unstated, and shows as the man who cannot lift his arm.
 
 | Channel | What it carries |
 |---|---|
 | **Page** | Phenomenon, mechanism and the system and science words that name it, what the body and the blade did, the tell, the fault, injury by named structure, what the character cannot do next, what a room smells like afterward |
+| **A window** | The bearer's own Grades, percentages, bars and levels: damage, reserve, skill gains, Trait levels, a class's name, a blessing's line, a Release or Domain with what it changed. EU, AU/s and η stay out of it and live in the notes |
 | **A mouth, an instrument, a document, a private count** | Stage, Band, Grade, Class, η, EU, AU/s, Sub-Stat names, Category and alignment tags, Derivation Index, Wellspring assignments |
 | **Workbook only** | The Design Chain as a form, the Codex assignment line, stat ledgers, the author's own arithmetic |
 
 > **The explaining voices.** The point-of-view character's own read, capped at their competence and frequently wrong, with a confident wrong answer set right on the page before the scene moves on. The knowledgeable second. The opponent, using contempt as instruction. The wielder, bragging. The document at a scene's threshold. **Any of them may explain in any engagement, and narration explains the rest** in the POV's own words, a trained POV in the terms of the art and an untrained one in plainer, more wondering ones.
+
+---
+
+## XVI · The sheet and the climb
+
+*What a person can read off their own soul, and what moves it. Tench and Crane would have fought over every line of this, and their pupils have.*
+
+**Window** · The soul reporting its numbers to its owner, in their own tongue, unseen by anyone else. The Soul Crystal is the soul and the Continuum measures it, so the report was always there to be read, and scholars argue about who built it. A window sits on the page as a text block, often and in detail, fights included, for damage, skill gains and reserve. It shows Grades, percentages, bars and levels, and it follows the blow it reports:
+
+```
+[Reserve: 41%  ████░░░░░░]
+[Left forearm: cracked. Grip down.]
+[Skill risen: Knife Work, Grade C]
+```
+
+**The sheet** · What a normal look at your own window shows: the **Eight Primaries** with their Grades. A Sub-Stat appears when it is used or when it moves, and the full set remains there to study. Race and lineage show on the sheet and shape base stats and what comes easily. A blessing has a line of its own (Section XIX), and a real bond with a crew earns one too, with the crew's bars beside your own.
+
+**Stat points** · Life spends most of them by what a person does, and a few are theirs to place at each Stage.
+
+**Level** · Moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
+
+**Skill** · A thing a person can do, risen by doing it and shown as a Grade on the sheet. Drafts, runes, tags and chants are skills, like knife work or haggling, and anyone can level them.
+
+**Technique** · A named thing done with a skill. A technique shows no level. It takes a bigger name when it jumps, and the old name stays in use.
+
+**Trait level** · Traits stay what they have always been, the Four Reflections and their laws, and they can be leveled and refined like skills: a Trait's level rises with use and grows with overall Level and skill.
+
+**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves at each tier by how it is lived, into forms some share with many and some hold alone. The ladder on file stays as its **tier**: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute, with all of its η law and figures standing. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
+
+**Tempering** · The Soul Crystal is literally the soul. Tempering melts it down and rebuilds each layer, refines the Essence and makes it stronger, and the body gains Traits.
+
+**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural **Essence Typology** (a Crystal's own bias toward one phenomenon), starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The physics and every number on the Wellspring pages stand, as how scholars explain it.
+
+**Catalyst** · The event or change a Crystal needs before it will pass a Threshold: a crisis, a long seclusion, a tribulation. **Drafts and blessings can supply one.**
+
+**Bought Stage** · A Stage reached with a purse. Stages can simply be bought, the wealthy are stronger because they are wealthy, and the great houses hoard the top Drafts, while the poor rise by dungeon luck, guild patronage and blessings. A bought Stage opens the door and no more: it has no Release until one is found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+
+**Timer bar** · What a called Release or Domain puts in the window, which fills with its name and what changed while the bar drains. The two-Grade boost cap stands, and only outside help goes past it.
+
+---
+
+## XVII · Monsters, cores and dungeons
+
+**Monster** · A beast that gains Levels by killing, each other included, and changes form at its own thresholds. Monsters share the Level and Grade scale with people, read by Gnosis, with question marks for a weak reader. They are graded **T1 to T9** like commissions, and a famous one earns a name, an epithet and a bounty. They move and live across the whole Inner World, and beasts more widely still; the Scourge of Hell is the one area known for extremely dangerous ones. Monster parts make gear.
+
+**Monster core** · In a way the monster's Soul Crystal, worth more the stronger the monster. It is the lawful **Crystal Draw** of The Standing Index, Provenance Class IV, "draw" being the bench's old word for a lot taken off its source.
+
+**Rendering** · What an alchemist does to a core to make Essence Drafts used for tempering. They carry **Creature-Sourced** potency, the strongest grade of source, and with it **Identity Contamination**: what the core was cut from bleeds into the drinker's convictions.
+
+**Going raw** · Swallowing a core unrendered. It gives everything at once, and most die or come out wrong. Lucky commoners holding monster cores are the great threat to every house in the realm, which is a sentence the houses have read.
+
+**Cut Crystal** · A Crystal cut from a dead practitioner, which makes the strongest Draft of all. It is the worst crime in every realm and the most profitable, and it is why Class IV has never balanced.
+
+**Dungeon** · What grows down in floors around a Core, with something guarding the heart. Kill the guardian and clear the place, or leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars argue whether it thinks. See [[The Bestiary/Dungeons|Dungeons]].
+
+**Well** · The delver's word for the ground itself, thick enough to rewrite what lives in it. A **delver** is anyone who goes down for pay, and a **crew** is the delvers who went down with you and want a share of the kill.
+
+---
+
+## XVIII · Guilds, titles and items
+
+**The nine titles** · **Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon.** The same nine in every guild, grading trust in that trade: a merchant may deal up to it, a craftsman make up to it, an adventurer take commissions up to the same **Threat Tier** (the T1 to T9 of a job's danger). Fighting guilds keep the Stage table as their yardstick, so a Grandmaster merchant may not be able to throw a punch.
+
+**Token** · The proof of a title. A forged one is a great crime, and an old and popular one.
+
+**Grade** (of an item) · Power, on the fighters' letters. A smith's title caps the Grade she may make.
+
+**Rarity** · Scarcity: **Common, Uncommon, Rare, Very Rare, Legendary, Mythic, Unique.** A merchant's title caps the Rarity he may sell.
+
+**The stamps** · Marked, Proofed, Tempered, Instrument, Hallowed, Storied, Found, Numinous and Proscribed: the old ratings, surviving as the Accord's stamps.
+
+**Bonded gear** · Gear that grows with its owner. All other gear stays what it is.
+
+**Appraisal** · The skill of reading an item, done by eye or with an assay instrument. A good forger beats a weak appraiser, and everyone at the market has a story about it.
+
+**Master Work** · A piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own.
+
+---
+
+## XIX · Fate and blessings
+
+**Plane of Fate** · The control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths and is more tied to blessings.
+
+**Fate Arts** · Rare, mostly by bloodline, and considered incredibly overpowered. Hataraki and a few other bloodlines hold them, some high-Stage masters reach them late along the Fate Path, and everyone else touches Fate through a blessing or a Master Work Draft. Hataraki can take back or remove a blessing, which makes its people unusually polite company.
+
+**Blessing** · A grant of power out of a person's natural reach, even in Level. It need not go through Fate, but most do. Higher spirits, Archons, Epochs and people of higher Temperance give them, because they are spiritually stronger, and a great giver spends almost nothing. Lesser spirits and high-Stage people give most of the world's blessings; Epochs and Archons act rarely, and it shakes the world. A blessing shows on the sheet as its own line and **can lie, because the giver wrote the line.**
+
+**Curse** · Often a blessing with terms you did not read, or a giver who does not care what you want. Nobody can tell at first, and some are both.
+
+**Vow** · Small Fate, a person binding their own probability, open to anyone. Spoken, it shows in the window with the bargain and its terms, and breaking it lands at once. See **Shear Break**, Section XI.
+
+**Fate Essence Draft** · A Master Work of the alchemists: extremely hard to make, and very coveted.
 
 ---

@@ -22,7 +22,7 @@ That tablecloth is why this register exists.
 
 ## Why a Second Axis
 
-The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. Tier of Standing measures rank. Efficiency (η) measures how much of each expenditure arrives as effect. Aether Class measures conductivity. Temperance Stage measures architectural maturity.
+The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. A guild title measures trust in a trade, and in a fighting guild it is read off Stage. Efficiency (η) measures how much of each expenditure arrives as effect. Aether Class, by its tier, measures conductivity. Temperance Stage measures architectural maturity.
 > **None of these tell the Bureau where the capacity came from.**
 >
 > Two practitioners present **identical Tier Grades, identical Tiers of Standing, identical η, identical stat profiles.**
@@ -31,7 +31,7 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 >
 > **The other** walked out of a Caloria (the heat family of Wellsprings) concentration in the New World at fourteen **with a harmonization nobody taught her** and a Tier Grade that should have taken a decade of supervised refinement. **Undocumented, unreproducible, unpredictable:** *the Bureau knows what she can do only by watching her do it, and what she does changes every time someone watches.*
 >
-> **The first is an asset the institution manufactured. The second is a phenomenon the institution discovered.**
+> **The first is an asset the institution manufactured. The second is a phenomenon the institution discovered.** A third kind stands in the same queue with a very good coat and a receipt, and a section below has more to say about him.
 >
 > *The correction was never requested by the academic community. It was requested by the Bureau of Strategic Assessment, after the third incident in which a field commander deployed a practitioner on the basis of a classification that accurately described the output and completely failed to predict the behavior under conditions the classification had not been tested against.*
 >
@@ -44,9 +44,9 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 |  | **Thaumaturgic** · *wonder-working* | **Theurgic** · *divine-work* |
 |---|---|---|
 | **Origin** | What they **are**. Innate architecture, native attunement, self-derived technique | What they were **taught**. Systematic comprehension of the grammar, cross-axis literacy, transmitted technique |
-| **Relationship to system** | **Direct, personal, unmediated.** *They channel with the force their Crystal (the soul's organ that stores Essence and channels it outward) was born to carry. Training refines the delivery but did not create the capacity* | **Indirect, mediated by theory, reproducible by anyone with equivalent training.** *They channel with the precision their education installed. The Crystal carries the force but the education chose the direction* |
-| **Shape** | **Single-axis fluency.** Higher ceiling on the native axis than a theurgist of equal Stage, **because the attunement is structural rather than learned.** Off-axis: resonance stress, efficiency loss, **and in severe cases Crystal Fracture (the soul's organ splitting under strain)** | **Cross-axis literacy.** Lower ceiling on any single axis, **because the literacy is distributed rather than concentrated.** Off a familiar axis: **adaptation, with no fracture** |
-| **Harmonization arrives by** | **Native resonance:** *the Wellspring (one of the sixty kinds of Aether, each carrying its own law) recognized the Crystal and the Crystal recognized the Wellspring and the harmonization completed itself the way a seed germinates when it reaches wet soil*, **or crisis-forging**, phase-lock under extreme stress as a survival response. *Nobody chooses it. Circumstance imposes it, and the Crystal carries it regardless* | **Guided training.** The instructor assesses architecture, identifies compatible currents, and supervises a controlled process. **Deliberate, documented, reproducible**, *which is why the Bureau's classification of theurgists is reliable and its classification of thaumaturges is not* |
+| **Relationship to system** | **Direct, personal, unmediated.** *They channel with the force their Crystal (the soul itself, which stores Essence and channels it outward) was born to carry. Training refines the delivery but did not create the capacity* | **Indirect, mediated by theory, reproducible by anyone with equivalent training.** *They channel with the precision their education installed. The Crystal carries the force but the education chose the direction* |
+| **Shape** | **Single-axis fluency.** Higher ceiling on the native axis than a theurgist of equal Stage, **because the attunement is structural rather than learned.** Off-axis: resonance stress, efficiency loss, **and in severe cases Crystal Fracture (the soul itself splitting under strain)** | **Cross-axis literacy.** Lower ceiling on any single axis, **because the literacy is distributed rather than concentrated.** Off a familiar axis: **adaptation, with no fracture** |
+| **Harmonization arrives by** | **Native resonance:** *the Wellspring (a governing idea that transforms how a soul uses Aether, in the scholars' account one of sixty kinds of Aether with its own law) recognized the Crystal and the Crystal recognized the Wellspring and the harmonization completed itself the way a seed germinates when it reaches wet soil*, **or crisis-forging**, phase-lock under extreme stress as a survival response. *Nobody chooses it. Circumstance imposes it, and the Crystal carries it regardless* | **Guided training.** The instructor assesses architecture, identifies compatible currents, and supervises a controlled process. **Deliberate, documented, reproducible**, *which is why the Bureau's classification of theurgists is reliable and its classification of thaumaturges is not* |
 | **Can they teach it?** | **Frequently not.** They can demonstrate. They can refine through repetition. **They cannot teach a student whose Crystal is not natively attuned to the same axis, because the technique is not separable from the attunement** | **Yes, to any student meeting the compatibility threshold.** *The technique is separable from the practitioner because it was built from principles rather than personal attunement* |
 | **Failure mode** | **Resonance tunnel.** Every success reinforces the attunement, narrowing responsive range while deepening peak. *At advanced Stages a deeply tunneled thaumaturge may be unable to perceive Wellspring activity outside their native axis at all, though it is there all around them, because the Crystal has optimized itself into a receiver that can only hear one frequency* | **Analysis paralysis compounded by translation loss.** Every problem has multiple approaches and selecting the optimal one exceeds the time the engagement provides. *Additionally, translating an effect between axes incurs an efficiency cost that pure single-axis channeling does not: a portion of the Essence budget is always spent on the translation layer rather than on the effect* |
 
@@ -60,7 +60,7 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 
 *The Bureau measures the shape and argues about the cause. The cause is the seat.*
 
-A Threshold (the crisis that lifts a soul to its next Stage) is a melt, and a melt cools into order only around what survived the heat. **Traits (standing laws a soul carries, formed by what it survived) are the seeds.** Everything the Index reports follows from how many a practitioner brought to the fire and how well they agreed.
+A Threshold (the melting down and rebuilding that lifts a soul to its next Stage) is a melt, and a melt cools into order only around what survived the heat. **Traits (standing laws a soul carries, formed by what it survived) are the seeds.** Everything the Index reports follows from how many a practitioner brought to the fire and how well they agreed.
 
 **A melt seeded by one dominant Trait cools narrow and deep.** The lattice organizes along a single law and every subsequent working runs cleanest along it. That is thaumaturgic architecture, and the resonance tunnel is no pathology developing over a career. It is the shape the Crystal set into, becoming more itself with every reinforcement.
 
@@ -74,6 +74,16 @@ A Threshold (the crisis that lifts a soul to its next Stage) is a melt, and a me
 > **The thin population between the modes is thin because a melt is never a blend.** It cools around what is there, and there is rarely a middling amount of anything in a soul at a Threshold.
 
 The Conjunctia (working two Families at once) anomaly resolves the same way. A natively dual-conducting practitioner was seeded by **two strong Traits that did not contradict**, producing a lattice with two deep axes and no translation layer between them. The formula reads the cross-axis performance as literacy. It is structure. This is why the correction factor was proposed by people who could see the effect and could not name the cause.
+
+---
+
+## The Bought and the Blessed
+
+*The poles were drawn up for people who earned what they carry. A great many do not, and the Index has never been told.*
+
+A Stage can be bought, since Drafts and blessings can supply a Catalyst, and a Wellspring can come out of a bottle or a blessing as readily as from a Core in a dungeon, a school or a birth. **A bought Threshold is still a melt, and a melt still cools around what is there.** An advancement Draft brings a seed of its own, a single borrowed law, so a soul raised on the bottle tends to read narrow, along a law it did not live. A blessing grants a power out of a person's natural reach, sits on the sheet as its own line, and can misreport itself, because the giver wrote the line.
+
+The battery reports these people faithfully and describes nothing. **The coil cannot tell a bought Stage from a fought one**, and the Index reads a peak and a mean without asking whose they were. A bought Stage has no Release until it is found and mastered by fighting, and that gap shows only under the conditions the Bureau was founded to stop being surprised by. One colleague holds that the bottle-raised form a third mode on the distribution, and another that they are ordinary thaumaturges with an expensive excuse. Both have been paid by the same family.
 
 ---
 
@@ -154,7 +164,7 @@ Measured across a standardized battery spanning **all three encounter axes (Wild
 
 ## The Institutional Architecture
 
-**The Guild Accord** controls theurgic training, publishes the Lattice classification, issues the Magister credential. *It funds the academies, approves the curricula, and controls the chokepoints through which credentialed theurgic knowledge passes. Every school and sect still teaches its own basics and guards its own forms, and the Guild sees only what they choose to file.* **The Guild made the system. The Guild owns the gate.**
+**The Guild Accord**, the coalition of guilds across many nations, controls theurgic training, publishes the Lattice classification, issues the Magister credential. *It funds the academies, approves the curricula, and controls the chokepoints through which credentialed theurgic knowledge passes. Every school and sect still teaches its own basics and guards its own forms, and the Guild sees only what they choose to file.* **The Guild made the system. The Guild owns the gate.**
 
 **Sancta Lux** claims authority on etymological and doctrinal grounds. **Theurgy means divine work. If the work is divine, the Church has standing.** It credentials nobody, *and it has no need to control the gate if it can declare the field on the other side of the gate consecrated or profane.*
 

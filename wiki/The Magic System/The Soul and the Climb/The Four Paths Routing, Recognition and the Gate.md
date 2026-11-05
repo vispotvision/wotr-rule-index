@@ -6,7 +6,7 @@ tags:
 
 # The Four Paths: Routing, Recognition and the Gate
 
-> Nobody chooses a Path. A Path is the name for what somebody has already been doing, said back to them by their own Crystal (the Soul Crystal, the organ that works magic), some years after it stopped being reversible.
+> Nobody chooses a Path. A Path is the name for what somebody has already been doing, said back to them by their own Crystal (the Soul Crystal, which is the soul itself), some years after it stopped being reversible.
 
 The Door Wager of Kell Harbor has been lost and won again in every bracket tavern in the four quarters. Lord Ormund Rusk, drunk on his own birthday, staked four thousand silver marks that no Stage VI fighter alive could get through his four new sea-gates, nine inches of banded bronze apiece with his arms on them in blue and gold, and the harbor turned out in its thousands to watch four people try.
 
@@ -18,9 +18,11 @@ One door, four routes. The bracket crowds call them hitters, throwers, talkers a
 
 A working has to get from a soul to the world, and there are four routes. **A Path is the route a Crystal has habitually taken**, hardened by repetition into the route it takes best and, eventually, into the only one it takes well.
 
-Body Path routes through the Physical Plane (the material world, one of the three planes a soul spans) first, where gravitational interaction is native rather than translated. Spirit Path routes through projection and inscription. Attraction Path routes through bond and recognition. **Fate Path does not route force at all**, which is why the force tables name only three Paths and why the fourth is the one nobody teaches.
+Body Path routes through the Physical Plane (the material world, one of the three planes a soul spans) first, where gravitational interaction is native rather than translated. Spirit Path routes through projection and inscription. Attraction Path routes through bond and recognition. **Fate Path does not route force at all**: it works on what is likely to happen, which is why the force tables name only three Paths and why the fourth is the one almost nobody can teach.
 
-Temperament has nothing to do with it and neither does a school. Two practitioners with identical Wellsprings (the types of Aether each has tuned to), identical training and identical Stage will produce different results on the same problem, and the difference is which plane's logic their Essence (the soul's own stuff of power) passed through on the way out.
+**A Path is a route and never a class.** The bracket slang says hitter and thrower the way it says tall or left-handed, and crews get built around the mix, but what the soul offers its owner as a named class is a separate thing altogether, the Aether Class, set out in [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]]. A Path says how the power leaves. A class says what the owner has made of their life. Plenty of drunks will argue the matter with you regardless.
+
+Temperament has nothing to do with it and neither does a school. Two practitioners with identical Wellsprings (the types of Aether each has tuned to, each a governing idea that changes how a soul uses its power), identical training and identical Stage will produce different results on the same problem, and the difference is which plane's logic their Essence (the soul's own stuff of power) passed through on the way out.
 
 ## II. Recognition, Not Declaration
 
@@ -41,14 +43,14 @@ And the reverse holds, which is where careers stall. A practitioner who has occa
 
 **Attraction Path.** The smallest direct bonus to Strike Force and Durability and the largest to Range, Aura Pressure, and the interaction between force and Domain (a region where the world runs on the practitioner's terms) authority. Their projected force degrades least over distance and their presence extends across the largest volume. **Inside a formed Domain, Attraction Path amplification can exceed the Body Path's raw advantage outright.** Outside it, Body Path remains king, and every Attraction Path practitioner alive has organized their entire life around that sentence.
 
-**Fate Path.** No force modifier. What Fate gates is permission, and output never enters into it: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Gravity, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
+**Fate Path.** No force modifier. The Plane of Fate (the third plane a soul spans) is the control of Attraction Force and Obsession Force and the workings of reality itself, and the Path that reaches it works on probability: the very flow, and the idea, of a thing. What Fate gates is permission, and output never enters into it: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Gravity, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
 
 | Path | Routes through | Buys | Costs |
 |---|---|---|---|
 | **Body** | The Physical Plane, natively | Strike, Durability, Lifting | Range and Aura Pressure. Must close |
 | **Spirit** | Projection and inscription | Ranged force, coherence over distance, perception, precision | Durability. Survives by being right |
 | **Attraction** | Bond and recognition | Range, Aura Pressure, Domain authority | Raw output. Strongest only at home |
-| **Fate** | Nothing. It does not carry force | Continuity, severance, inheritance, sovereignty, Throne | Cannot be demonstrated by fighting at all |
+| **Fate** | Nothing. It does not carry force. It moves the odds | Continuity, severance, inheritance, sovereignty, Throne, and the reach of a rare Fate Art | Cannot be demonstrated by fighting at all |
 
 ## IV. The Gates
 
@@ -68,7 +70,7 @@ This is the part the teaching literature has never joined up, and everything bel
 >
 > Traits form one at a time, each out of its own survived experience. **The Path is the direction they turn out to be pointing when there are enough of them to have a direction.** Nobody notices it happening. It is noticed afterward, in the shape of a gate that opens easily or a gate that will not open at all.
 >
-> *Which is why Path commitment cannot be faked and cannot be bought. A Draft can seed a lattice. It cannot supply ten years of having been the sort of person who does that.*
+> *Which is why Path commitment cannot be faked and cannot be bought. A Draft can seed a lattice and carry a soul over a Threshold. It cannot supply ten years of having been the sort of person who does that, and a bought Stage comes with its gated Sub-Stats exactly as shut as they were.*
 The consequences are immediate and they explain several things the registers record without explaining.
 
 **A practitioner's Path is legible from their Traits before it is legible from their record.** A physician reading Trait tissue is reading Path alignment a decade before the Crystal has finished recognizing it, which is why house physicians are paid what they are paid and why their assessments are not shown to the subject.
@@ -93,11 +95,20 @@ The other three Paths are demonstrated by routing Essence. Body Path is proved b
 
 **Nothing a practitioner does in a fight demonstrates Fate.**
 
-Read what Fate actually gates and force drops out of the pattern altogether: **Persistence. Continuity. Maturity. Anchoring. Ward. Sovereignty. Throne.** Every one of them concerns what goes on being true after the moment that made it true has passed.
-> **Fate commitment is recognized by what a soul refuses to let end.** A vow kept past the point where keeping it costs everything. A bond maintained across a death. A claim held for a century by somebody who could have put it down. **The Crystal reads continuity under pressure, and there is no drill that produces it and no instructor who can assign it.**
+The Plane of Fate is the control of Attraction Force and Obsession Force, the pull between things and the grip that will not let go, and through those two the workings of reality itself: the manipulation of probabilities to work outside what reality already knows, so as to control the fate or predestiny of a thing. All spirits and all physical things have fates, which is why the plane reaches both worlds. An Attraction Path practitioner spends those forces the way they already run. A Fate Path practitioner changes how they are going to run, and the difference is the difference between swimming a river and moving it. Scholars keep a long and furious literature on whether this counts as a force at all.
+
+Read what Fate actually gates and force drops out of the pattern altogether: **Persistence. Continuity. Maturity. Anchoring. Ward. Sovereignty. Throne.** Every one of them concerns what goes on being true when the odds say it should have stopped.
+> **Fate commitment is recognized by what a soul refuses to let end.** A vow kept past the point where keeping it costs everything. A bond maintained across a death. A claim held for a century by somebody who could have put it down. Each of those is a small daily argument with what is likely, and Hyeon Do-sun, sitting in front of the fourth gate at Kell Harbor, had been winning that argument for most of his life. **The Crystal reads continuity under pressure, and there is no drill that produces it and no instructor who can assign it.**
 >
-> *This is why Fate Path practitioners are rare in armies and common in orders, why the great houses cannot manufacture one however much they spend, and why the Vow Clause is the only instrument in the world that reliably produces Fate alignment: a vow kept is continuity, performed daily, for years, in front of a Crystal that is counting.*
+> *This is why Fate Path practitioners are rare in armies and common in orders, why the great houses cannot manufacture one however much they spend, and why the Vow Clause is the most reliable instrument in the world for producing Fate alignment: Fate can attach to an oath, and a vow kept is continuity, performed daily, for years, in front of a Crystal that is counting.*
+
 It is also why **no Choir of the Celestial Host carries Fate Path at any weight.** A Celestial's Crystal is externally anchored, pulling its power from another's Throne rather than growing its own, and a being wired that way has never once had to hold anything by itself. The Grand Angel threshold and the Fate gate are the same gate, and Faisal spent eleven thousand years walking through it.
+
+### Fate Arts and blessings
+
+**Real Fate Arts are rare and run mostly by bloodline.** Hataraki and a few other bloodlines hold them, some high-Stage masters reach them late along this Path, and the Path stays very hard all the way up. They are considered incredibly overpowered by everyone who has ever been on the wrong side of one, and the charge is fair. Most people only ever touch Fate from the outside, through a blessing or a Master Work Draft: a **Fate Essence Draft** lends the touch for a price few can name, and it no more makes a Fate Path practitioner than a borrowed horse makes a cavalryman.
+
+Fate is more tied to **[[The Magic System/Practice and Institution/Blessings and Curses|blessings]]** than to anything else. A blessing grants a power out of a person's natural reach, Level included. It need not go through Fate, but most do, because the Plane of Fate represents the possibility of all things. Higher spirits, Archons, Epochs and people of higher Temperance can give one because they are spiritually stronger, and a great giver spends almost nothing. It sits on the sheet as its own line, and since the giver wrote that line, it can lie. **Hataraki can take a blessing back or remove it**, which is a large part of why that name is said quietly. The Ladder and the Draft has the rest.
 
 ## VIII. The Unawakened Have Paths Too
 
@@ -107,12 +118,12 @@ The screening apparatus reads Crystals. **The Derivation Index, the coil (the as
 
 ## IX. Drift
 
-**Tempering Coherence is the alignment between a practitioner's Path and their lived behavior**, and it is the structural prerequisite for Threshold eligibility. A soul whose routing has drifted from its recognized Path receives no punishment and no authorization.
+**Tempering Coherence is the alignment between a practitioner's Path and their lived behavior**, and on the lived road it is the structural prerequisite for Threshold eligibility. A soul whose routing has drifted from its recognized Path receives no punishment and no authorization.
 
 The presentation is slow and unmistakable to anyone who has seen it before. Output falls with no injury behind it. Gated Sub-Stats stop moving. A Threshold that should have come does not come, and the practitioner is quantitatively ready for years. **Traits begin to argue with their bearer**, because a Trait is a standing law and the bearer has started living against it.
-> **Nothing corrects this except changing what the person actually does.** Instruction does not touch it. Expenditure does not touch it. A Draft seeds a lattice and cannot seed a decade of conduct.
+> **Nothing corrects this except changing what the person actually does.** Instruction does not touch it. A breakthrough Draft will carry a drifted soul over the Threshold regardless, and the drift goes over with it. A Draft seeds a lattice and cannot seed a decade of conduct.
 >
-> *The orders understand this and the great houses find it insulting, which is most of the difference between the two institutions and all of the difference in their Threshold rates.*
+> *The orders understand this and the great houses find it insulting, which is most of the difference between the two institutions and all of the difference in what comes out of their Thresholds.*
 
 ## X. How It Reads
 

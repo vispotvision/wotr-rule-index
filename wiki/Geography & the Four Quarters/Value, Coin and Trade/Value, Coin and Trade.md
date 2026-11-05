@@ -22,7 +22,7 @@ The house that owned her went under that winter, and the Arbitration Division di
 
 ## The Two Ledgers
 
-> **The Essence ledger** records the primary economic good. It is a ledger of **flows rather than stocks.** Nobody holds Essence but the person whose Soul Crystal refined it, out of Aether pulled from the ground they stand on; everybody else holds *somebody's hours*, for a term, at a rate: a keeper's hours at a Core, a crew's hours on the lip of it, and once in a long while a sealed flask on a mule.
+> **The Essence ledger** records the primary economic good. It is a ledger of **flows rather than stocks.** Nobody holds Essence but the person whose Soul Crystal refined it, out of Aether pulled from the ground they stand on; everybody else holds *somebody's hours*, for a term, at a rate: a keeper's hours at a Core, a crew's hours on the lip of it, once in a long while a sealed flask on a mule, and, at the far end of the trade, whatever an alchemist has managed to render out of something dead and stopper before it goes off.
 >
 > A pumping array (a standing runed working, here one that lifts water out of a mine) does not care what is in your vault. **It cares what arrives this week.**
 >
@@ -42,7 +42,7 @@ The two ledgers meet at exactly one place, which is **the price of Essence in me
 
 Three things are for sale, and a working house buys them in this order.
 
-**A keeper's hours.** A worked Core (a Wellspring site, a place where one kind of Aether pools) has keepers, who may be an order, a temple, a sect or one stubborn family, and what they sell is time on the lip of the pool, where a person fills far faster than on any ordinary ground. A warden topping up on her way to the round buys the **walk-up hour**, coin in hand at the gate, at whatever the keeper says this morning, and a stranger pays double. A serious buyer takes a **standing hour**: one named hour, at one named Core, for one body on the lip, every day for a year, sealed before witnesses with earnest money down and the balance due in silver marks and salt bars on the four quarter-days. That is the unit the Accord publishes, and it stands at forty silver marks the year. A house's whole parcel of them is its **book of hours**, which the older ledgers and every factor in the chain-cities still call a supply book, and the Holy See of Lurien has twice complained about the joke.
+**A keeper's hours.** A worked Core (a Wellspring site, a place where one kind of Aether pools, and in nearly every case a dungeon somebody cleared and now holds) has keepers, who may be an order, a temple, a sect or one stubborn family, and what they sell is time on the lip of the pool, where a person fills far faster than on any ordinary ground. A warden topping up on her way to the round buys the **walk-up hour**, coin in hand at the gate, at whatever the keeper says this morning, and a stranger pays double. A serious buyer takes a **standing hour**: one named hour, at one named Core, for one body on the lip, every day for a year, sealed before witnesses with earnest money down and the balance due in silver marks and salt bars on the four quarter-days. That is the unit the Accord publishes, and it stands at forty silver marks the year. A house's whole parcel of them is its **book of hours**, which the older ledgers and every factor in the chain-cities still call a supply book, and the Holy Sea of Alabaster has twice complained about the joke.
 
 A keeper can close the gate, and a keeper can also sell the same hour twice. In Year 706 the Widow Pennifold, who kept the little Core at Ambry Spring, sold the dawn hour to three mining houses in three towns, and on the first morning of the term three crews in three colors of company sash arrived at her pool within the same quarter of an hour. They fought on the lip until the pool had been bled pale by everyone's coats at once, and the site gave nothing for a season. The Arbitration Division found that she had delivered exactly what she promised, which was an hour at the pool, and that nobody had thought to write down "alone". Every contract since has that word in it, and she is said to have retired to a very nice house.
 
@@ -54,6 +54,28 @@ A keeper can close the gate, and a keeper can also sell the same hour twice. In 
 
 ---
 
+## What a Monster's Core Is Worth, and What a Stage Costs
+
+*The three above run a shaft. This one runs a person, and it is the only entry in this treatise that a duchess and a ditch-digger have both been known to kill for.*
+
+In Year 709 Lord Aubrey Tancred, heir to a toll-king of the Midmarch, was given Stage VIII for his twentieth birthday. It came in a rosewood case, a course of Essence Drafts and the bottle that supplies the Catalyst, drunk in a quiet room with a physician standing by, and when it was over the coil gave him the same reading as any Transcendence fighter in the quarter, and his own window said the same. He had it cried from the bridge. Six weeks later he called out Jennet Fallow, Stage VIII, a hunting captain in a coat of cracked amber plates, who had got there across nineteen years and four dungeons and had come to Kingsbridge to complain about an invoice. On paper they were twins, and the bookies, who do not read paper, gave eleven to one. She called her Second Release in a voice they heard on the wharves. He stood in the ring looking for his, with his whole sheet lit up and nothing on it to reach for. They carried him home, the toll-king paid the invoice, and the rosewood case is still the most popular birthday gift in the Hundred Crowns, because the coil reads what it reads and a Stage is a Stage at every door short of a fight.
+
+**The core.** A monster's core (lower case, and not to be confused with a Core, the worked site, though every clerk has) is in a way its Soul Crystal, and it is worth more the stronger the monster. Monsters gain Levels by killing and share the fighters' scale, so a big one has done a lifetime's tempering of its own and carries it in one lump. This is the lawful Crystal Draw of The Standing Index: Provenance Class IV, Creature-Sourced, potent, and carrying Identity Contamination in every lot. Prices run by Threat Tier, from a few silver for the thing that was at the henhouse to the price of a county ([[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]] has the rows). **A core is the only thing on this list that a penniless person can walk out of a hole holding**, and everything below follows from that.
+
+**The Essence Draft.** An alchemist renders the core and stoppers what comes off it, about a dozen doses at its own grade, and the doses go to tempering, the melting-down and rebuilding of the soul layer by layer that refines Essence and leaves the body stronger and carrying Traits. Graded by the Stage it serves and priced about threefold a Stage, it is the backbone of every apothecary's year. A person who can pay tempers faster than a person who cannot, and has been doing so since before their rival woke up.
+
+**The bought Stage.** Drafts and blessings can supply a Catalyst (the push that opens the way to a new Stage), so a Stage can simply be bought. **The wealthy are stronger because they are wealthy**, and the great houses hoard the top of the stock in their vaults, partly to use and mostly to keep it from the neighbors. Above Stage X a Draft is no longer for sale at all in any sense a counter would recognize. Waking itself can be bought, with a Waking Draft that is very dear and often kills or warps the child, and most of the rich buy one anyway.
+
+**What the money does not reach.** A bought Stage opens the door and no more. It has no Release until one is found and mastered by fighting, and the sects teach what money cannot buy, which is Releases, Domains, techniques, skills and the rites for their Wellspring, and a sect's fees are mostly paid in bruises. The market has responded by quoting two prices for any fighter at any Stage, one for the reading and one for what has been seen in a ring.
+
+**How the poor rise.** By dungeon luck, by guild patronage and by blessing, and the first of the three frightens the great houses more than any army in the field. A hall stakes a promising hand a Draft against a signed term. A spirit or a stronger soul gives what no purse could reach, on terms of its own, which should be read twice. And a crew of six comes up a stair with a T5 core and no idea what it can buy, and every factor in the valley is standing at the top with a very good dinner. Some sell. Some render and drink it, and rise a Stage in a season on one lucky afternoon. Some, too poor or too impatient for an alchemist's fee, swallow it raw, which delivers everything at once, and most of them die or come out wrong, and the ones who do not are the people songs get written about.
+
+**The worst trade there is.** A Crystal cut from a dead practitioner renders into the strongest Draft of all. It is the worst crime in every realm, and the most profitable. It is also why Class IV in circulation has never balanced against what the lawful sources can produce, in any year since the Bench began keeping returns, because some of what sells as monster core came out of people, and nothing on the coil tells a buyer which. This archive notes that several very old fortunes improved abruptly after wars, and declines to note anything further while it is hoping to keep its funding.
+
+**The top shelf.** A Fate Essence Draft is a Master Work, the alchemists' great one: the working of probability itself in a vial, extremely hard to make, a handful in the world at any time. It has no entry on the Division's price schedule because nobody has ever sold one in front of a witness who lived to file the return.
+
+---
+
 ## What Is Actually Valuable
 
 Stated highest first, **in the sequence the Arbitration Division pays creditors when a bankrupt estate is divided.** This ordering was arrived at by people with no interest in sentiment, and it is the most honest statement of value the Accord has ever produced.
@@ -61,13 +83,13 @@ Stated highest first, **in the sequence the Arbitration Division pays creditors 
 | Rank | Asset |
 |---|---|
 | **First** | **Contracted Essence.** A secured right to a named keeper's hours at a named Core, with the crew bonded to stand on it, for a stated term. Nothing else is senior to it. A western house with a lapsed book of hours is a house whose great shafts will be underwater within four days |
-| **Second** | **Attributable capability.** A certified person. Rank, Temperance Stage, coil-assayed output, clean contract record. *A guild-ranked practitioner is an income stream that walks*, and the Division treats a bonded practitioner's remaining term as an asset of the estate in the same column as a ship |
-| **Third** | **Holding-grade material.** Aethersteel, Chainsalt, Clearbeam beryl, Stormfulgur, Blacktooth wolfram, Ashfast chromite. Priced on the coil (the brass assay instrument), not on the scale |
+| **Second** | **Attributable capability.** A certified person. Title, Temperance Stage, coil-assayed output, clean contract record. *A titled practitioner is an income stream that walks*, and the Division treats a bonded practitioner's remaining term as an asset of the estate in the same column as a ship |
+| **Third** | **Holding-grade material.** Aethersteel, Chainsalt, Clearbeam beryl, Stormfulgur, Blacktooth wolfram, Ashfast chromite, and monster cores before they go off. Priced on the coil (the brass assay instrument), not on the scale, and a finished piece goes by its [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers\|Grade and Rarity]] |
 | **Fourth** | **Bullion and coin.** The only asset on this list that a peasant and a Trade-Prince both recognize on sight |
 | **Fifth** | **Bearing-grade material and finished goods.** The visible economy, and the one that employs almost everybody |
 | **Sixth** | **Land** |
 
-> Land sits last, and the reason is the most misunderstood fact in the Accord's economy. **Land is priced on the Wellspring site beneath it, not on the soil above it.** (The Wellsprings are the sixty types of Aether, each affecting the Soul Crystal differently; a site is a place where one of them pools, and common speech calls a worked site a Core.) A barren upland estate sitting on a strong steady source will outprice a river valley of the finest wheat ground by a factor the Arbitration Division has stopped finding remarkable, because the wheat ground can be bought and **the source cannot be moved.**
+> Land sits last, and the reason is the most misunderstood fact in the Accord's economy. **Land is priced on the Wellspring site beneath it, not on the soil above it.** (A Wellspring is one of the sixty governing ideas of magic, an alchemical and spiritual transformation that changes how a soul uses Aether, and scholars count it as sixty types of Aether besides. A site is a place where one of them pools. Common speech calls a worked site a Core, and it is nearly always a dungeon somebody cleared.) A barren upland estate sitting on a strong steady source will outprice a river valley of the finest wheat ground by a factor the Arbitration Division has stopped finding remarkable, because the wheat ground can be bought and **the source cannot be moved.**
 >
 > Half the border disputes in the four quarters that are conducted in the language of ancestral right are, on the deeds, arguments about saturation. This is also why the old nobility is poorer than it looks: a great house's wealth is in acres, and acres were valued on a schedule set before the arrays.
 
@@ -93,9 +115,9 @@ In daily practice, most people will never touch gold. It settles accounts betwee
 **Resonance:** binding addressed to a person. Silver takes an inscription naming its bearer more cleanly than any other common metal, which is why Bloodsilver binds to bloodline and rejects a thief, and why Dawnsilver thread seals glyphs into a garment and can, in ceremonial stitching, bind a broken Name back into the soul.
 
 Silver is the working currency of the four quarters and the accounting unit of almost every serious ledger.
-> Its thaumic role produces the single most elegant institution in the economy. Because silver holds a personal inscription, **rank tokens are struck in silver.** A guild credential is a silver piece bearing the holder's certified rank, inscribed to that holder, verifiable on a coil, and worthless to anyone else. It is simultaneously a badge, a passport, a line of credit, and its own weight in bullion.
+> Its thaumic role produces the single most elegant institution in the economy. Because silver holds a personal inscription, **title tokens are struck in silver.** A guild credential is a silver piece bearing the holder's guild and title, one of the same nine in every guild, inscribed to that holder, verifiable on a coil, and worthless to anyone else. It is simultaneously a badge, a passport, a line of credit, and its own weight in bullion. Forging one is a hanging in every realm, since the coalition has nothing else holding it together.
 >
-> An adventurer who has lost everything else still has a silver token that is, at the floor, money. And **an adventurer stripped of rank has watched an object turn from a credential into a lump of metal in front of witnesses**, which is why demotion ceremonies are conducted in public and why the Accord does them slowly.
+> An adventurer who has lost everything else still has a silver token that is, at the floor, money. And **an adventurer stripped of title has watched an object turn from a credential into a lump of metal in front of witnesses**, which is why demotion ceremonies are conducted in public and why the Accord does them slowly.
 
 ### Copper
 
@@ -135,7 +157,7 @@ The problem is tin. New bronze is a luxury. *This is why bronze reads archaic: i
 In a world of bad roads, worse law, and kingdoms that repudiate their debts on succession, the sensible merchant accepts metal and nothing else. And yet the great trade of the age is conducted in written instruments carried by unarmed men, and has been for four centuries, and the loss rate is low enough that it is insured cheaply.
 > The answer is **Nalūn**, and culture has nothing to do with it.
 >
-> The Amber Cities of Nalūn sit on sites of **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract (Parun being the tongue magical law is written in) executed under Nalūn authority is **a working** where elsewhere it would be a promise backed by a court, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
+> The Amber Cities of Nalūn, free salt cities with no crown over them, which pay every side and owe none, sit on sites of **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract (Parun being the tongue magical law is written in) executed under Nalūn authority is **a working** where elsewhere it would be a promise backed by a court, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed. Any vow is small Fate, a person binding their own probability, and anybody may make one; the window shows the terms, and breaking it lands at once. The chain-cities found out how to make that hold between two strangers and a shipment of tin, and have charged for it ever since.
 
 The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honor is a binding duel challenge because in Nalūn a merchant's honor is **a load-bearing financial instrument.**
 
@@ -144,7 +166,7 @@ What this produces is the one thing commerce anywhere else could not produce: **
 | Consequence | Effect |
 |---|---|
 | **Specie stays put** | Metal does not need to travel if claims on metal can. This is why the great bullion movements of the era are so much smaller than the trade volumes, why most of the world's coin sits in guild strongboxes and money-changers' cellars, and why a robbery on the Nalūn road is a poor business proposition |
-| **Interest is respectable** | Where enforcement is physical rather than moral, lending stops being a sin and becomes a schedule. The Holy See of Lurien maintains this is a distinction without a difference, and has maintained it for four hundred years **while keeping its strongboxes at Ironlink** |
+| **Interest is respectable** | Where enforcement is physical rather than moral, lending stops being a sin and becomes a schedule. The Holy Sea of Alabaster maintains this is a distinction without a difference, and has maintained it for four hundred years **while keeping its strongboxes at Ironlink** |
 | **The Accord's writ has a rival** | A Concord Writ requires the Enforcement Division to arrive. **A Parun-bound contract does not require anybody to arrive.** Arbitration and the Council of Links have a relationship both describe as cordial |
 | **Nalūn cannot be conquered profitably** | Take the tunnels and you hold rock. The value is in the seals, the seals answer to the Wellsprings, and **the Wellsprings do not recognize occupation.** Every serious military assessment of the chain-cities in the last two centuries has ended in the same paragraph |
 
@@ -211,28 +233,30 @@ What this produces is the one thing commerce anywhere else could not produce: **
 
 ---
 
-## Rank as Property
+## Title as Property
 
-The Accord's certification is a meritocracy in the strict sense: it measures, it grades, and it does not ask who your father was. **It is also a market**, and understanding that explains most of what people find strange about it.
+The Guild Accord is a coalition of many kinds of guild across many nations, adventurers' guilds and merchant guilds and craft guilds, alchemists and healers and couriers, and what a hall signs on for is shared rank, enforceable contracts and passage. The rank is the same nine titles in every guild, **Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon**, and each grades trust in that trade: a merchant may deal up to it, a craftsman make up to it, an adventurer take commissions up to the same Threat Tier. Fighting guilds keep the Stage table as their yardstick. So a Grandmaster merchant can be handed a duke's regalia on a nod and may not be able to throw a punch, and a sect rank is a separate thing again, which says where you stand in that school and nothing about what a stranger should hand you.
 
-**Rank is collateral.** An Accord rank is a documented, verifiable claim on future contract income, and money-changers and factor houses maintain schedules of what each rank will support. This is the mechanism by which a landless person can raise capital, and it is the only such mechanism that exists. *A commoner with a rank can finance an expedition. A commoner without one cannot finance a cart.*
+That certification is a meritocracy in the strict sense: it measures, it grades, and it does not ask who your father was. It has also never asked who paid for the Stage it just read. **It is also a market**, and understanding that explains most of what people find strange about it.
+
+**Title is collateral.** An Accord title is a documented, verifiable claim on future contract income, and money-changers and factor houses maintain schedules of what each title will support. This is the mechanism by which a landless person can raise capital, and it is the only such mechanism that exists short of a lucky afternoon in a dungeon. *A commoner with a title can finance an expedition. A commoner without one cannot finance a cart.*
 
 **Temperance is a wage schedule.** Because Essence output is measurable, labor that uses Essence is priced directly on the coil. An array-tender's pay is a function of certified output and nothing else. **No other labor market in history has possessed an objective productivity measure**, and the effect is exactly as brutal as it sounds, because it removes every argument a worker could make about their own worth that does not appear on the instrument.
 
-**A person is an assayable asset.** If capability is measurable and future earnings predictable, then a person is a security, and bond contracts written against future output are ordinary instruments traded in ordinary markets. A young practitioner may sell a term of their future output to fund their training, which is how most practitioners who were not born wealthy became practitioners at all.
+**A person is an assayable asset.** If capability is measurable and future earnings predictable, then a person is a security, and bond contracts written against future output are ordinary instruments traded in ordinary markets. A young practitioner may sell a term of their future output to fund their training, which is how most practitioners who were not born wealthy became practitioners at all, and a family without a woken child may sell the child's term to a guild against a Waking Draft, on the understanding that the Draft very often kills or warps and the debt survives either way.
 > The Measurewrights record, because somebody should, that the late Reconstruction kingdoms' enslaved Wellspring labor and a modern training bond **are the same instrument at different levels of refinement.** The differences are real and worth having: the modern bond has a term, a price, a court, and a theoretical buyout.
 >
 > The similarity is that in both cases **a person's output belongs to somebody else and the paperwork says so.**
 
-**Rank travels; title does not.** A Baron's writ stops at his river. An Accord rank is honored in every member polity. For a great many people the Accord credential is the only portable legal identity they will ever possess, and it is issued on capability rather than on birth, **which is a genuinely revolutionary fact that the Accord has never once described in those terms.**
+**A guild title travels; a noble one does not.** A Baron's writ stops at his river. An Accord title is honored in every hall that has signed, across every border they sit on. For a great many people the Accord credential is the only portable legal identity they will ever possess, and it is issued on capability rather than on birth, **which is a genuinely revolutionary fact that the Accord has never once described in those terms.**
 
-**Fame moves the schedule.** The instrument prices what a practitioner can do, and the crowd prices who they are. A fighter whose name the minstrels are singing draws a higher retainer than the coil would justify, a free dinner in one town and a doubled bill in the next, and a bounty hunter's interest everywhere. Houses pay for the epithet as well as the output, and they have been known to pay a minstrel to supply one. Bookies quote it. The Division declines to enter it in any schedule, and its valuers price it anyway, in their heads, with their eyes on the crowd.
+**Fame moves the schedule.** The instrument prices what a practitioner can do, and the crowd prices who they are, which since the rosewood cases went on sale has been the only way to tell a fighter from a birthday. A fighter whose name the minstrels are singing draws a higher retainer than the coil would justify, a free dinner in one town and a doubled bill in the next, and a bounty hunter's interest everywhere. Houses pay for the epithet as well as the output, and they have been known to pay a minstrel to supply one. Bookies quote it, and the rival lists (the Accord's roll, the heralds', each realm's and each sect's, no two of which agree) carry it from town to town, and getting on one makes you a target. The Division declines to enter it in any schedule, and its valuers price it anyway, in their heads, with their eyes on the crowd.
 
-> **And then there is the floor.** Someone with no rank, no Temperance, and no craft has only their body to sell, and the body is worth what a body is worth in a world where one ranked hand can lift what forty men lift, for a fee, and where in the great shafts the array does the pumping, the ventilating, and the lifting.
+> **And then there is the floor.** Someone with no title, no Temperance, and no craft has only their body to sell, and the body is worth what a body is worth in a world where one ranked hand can lift what forty men lift, for a fee, and where in the great shafts the array does the pumping, the ventilating, and the lifting.
 > 
 > The arrays raised some and revalued everybody, and they revalued ordinary muscle downward, permanently, against a working that does not tire and does not eat. Every cloth town has a statute besides, fixing his day's wage at about what it was in his grandfather's time. The un-Tempered laborer of the Dark Ages is worse off in real terms than his Voyager-era ancestor, who at least was needed to turn the screw.
 > 
-> *A meritocracy is an excellent arrangement for people with merit that the instrument can see.*
+> *A meritocracy is an excellent arrangement for people with merit that the instrument can see.* Her own window sees it, since everyone has a window, the unwoken included, and a washerwoman has a Laundry skill at a Grade she could recite. No one else can see it, and no hall will lend against it.
 
 ---
 
@@ -243,16 +267,16 @@ Almost every polity in the four quarters is a monarchy. The republics are the ex
 >
 > Legitimate by descent. Requires nobody's certification. **The only authority that can compel a person to fight.**
 >
-> **The Accord holds** the assay, the rank, the credit, the writ, and the arrays.
+> **The Accord holds** the assay, the title, the credit, the writ, and the arrays.
 >
 > Legitimate by measurement. Recognizes no bloodline. It does not need to depose a king. **It needs only to stop pumping.**
 
 *Neither side says this out loud. Both sides have costed it.*
 
-The compromise everyone lives inside has three parts. **Crowns ennoble high rank**, because a Rank V commoner who is refused a place at court is a Rank V commoner available to a neighbor. **Guilds accept charters**, because a guild hall stands on somebody's land. And **marriage does the reconciling**, the standard instrument by which a lineage acquires certified capability and a certified line acquires standing. Every significant political marriage in the last century can be read in both directions at once, and both readings are correct, *and the parties involved know it while the vows are being spoken.*
-> Where the arrangement breaks is **succession.** A crown passes to a body. Rank does not.
+The compromise everyone lives inside has three parts. **Crowns ennoble high title**, because a commoner of Expert standing who is refused a place at court is a commoner of Expert standing available to a neighbor. **Guilds accept charters**, because a guild hall stands on somebody's land. And **marriage does the reconciling**, the standard instrument by which a lineage acquires certified capability and a certified line acquires standing. Every significant political marriage in the last century can be read in both directions at once, and both readings are correct, *and the parties involved know it while the vows are being spoken.*
+> Where the arrangement breaks is **succession.** A crown passes to a body. A title does not.
 >
-> A kingdom whose heir assays weak, in a century whose neighbors field certified Rank V commoners on contract, has a strategic problem that no amount of ancestry solves and that cannot be fixed at the speed a bloodline breeds. The responses available are all bad: regency, which invites a coup; marriage into capability, which imports a rival house into the succession; reliance on contracted guild talent, which mortgages the crown to the Accord; or **concealment of the assay, which works until it does not.**
+> A kingdom whose heir assays weak, in a century whose neighbors field Expert commoners on contract, has a strategic problem that no amount of ancestry solves and that cannot be fixed at the speed a bloodline breeds. The first response of any crown with a vault is to buy the heir a Stage, which mends the coil reading by the end of the week and leaves the first real duel exactly where it was. The others are all bad: regency, which invites a coup; marriage into capability, which imports a rival house into the succession; reliance on contracted guild talent, which mortgages the crown to the Accord; or **concealment of the assay, which works until it does not.**
 >
 > Four of the eleven succession crises recorded since Year 200 began with **a disputed coil reading on an heir**, and the Archives files all four under dynastic history.
 
@@ -290,12 +314,13 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 | Unit | Rate | Note |
 |---|---|---|
 | **1 gold mark** | 12 silver marks | The great settlement metal. Drains permanently into consecration |
-| **1 silver mark** | 24 copper | Accounting unit of the Accord. Rank tokens struck in it |
+| **1 silver mark** | 24 copper | Accounting unit of the Accord. Title tokens struck in it |
 | **1 salt bar, Nalūn standard** | 1 silver mark | More in a hard winter. **Edible, which no other money is** |
 | **Imperial bronze** | By weight only | Faces illegible. Assay houses still calibrate against early issues |
 | **A standing hour at a Core** | **40 silver marks the year** | The unit is a **rate**, and the rate is a person's time: one named hour, one body on the lip, every day for a term of one year, at a named Core. **The rate stood at twelve marks at Year 640 and has not fallen in a single year since.** Published by Logistics, contested by three assay houses, and historical the moment it is a season old. The Accord's own books still call this a **standing myriad**, from a day when somebody tried to count Essence by the ten thousand, and no clerk now living can say ten thousand of what |
 | **A crew's retainer** | 6 to 12 gold a head, monthly, at Apprentice standing | The mine's rate from [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost\|What Things Cost]]. On top of the hours, and bonded for a term |
 | **A sealed flask (carry-stone)** | 30 to 60 gold before the filling | Filled by the hour at the keeper's rate, on the mule within the day if the owner has any sense. Leaks a twentieth a day |
+| **A monster's core** | 3 silver to 20,000 gold and up, by Threat Tier | Raw, on the coil, at a renderer's door. The rows are in [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost\|What Things Cost]], with Essence Drafts by Stage and the fees for a title |
 
 ### Regional Divergences Worth Knowing
 
@@ -317,7 +342,7 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 
 **Silver's resonance.** The attribution of person-addressed binding to silver is drawn from the behavior of Bloodsilver and Dawnsilver thread rather than from any direct statement in the substrate tables, which name basalt, quartz, iron, gold, and obsidian and are **silent on silver.** This is inference and is marked as such.
 
-**Consecrated gold.** Whether gold taken into a rite is permanently removed or merely encumbered is doctrinally disputed between Lurien and Eresse, and the two positions have different monetary consequences **at a scale neither institution appears to have calculated.**
+**Consecrated gold.** Whether gold taken into a rite is permanently removed or merely encumbered is doctrinally disputed between Alabaster and Eresse, and the two positions have different monetary consequences **at a scale neither institution appears to have calculated.**
 
 **The Empire's mint standard.** Assay houses calibrate against early Imperial bronze on the assumption that the early issues were honest. Nobody has independently verified this. **Every mass measurement in the four quarters rests on the good faith of a polity that later debased its silver by four fifths.**
 > **Whether Nalūn's seals can fail.** No Parun-bound contract executed under Council authority has been recorded as failing. The Council of Links regards this as proof. The Measurewrights regard it as **an absence of evidence maintained by a body that would not publish the exception.**

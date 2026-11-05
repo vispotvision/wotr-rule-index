@@ -4,7 +4,7 @@ title: "The Gate: Who May Learn Magic"
 
 # The Gate: Who May Learn Magic
 
-> Nearly everyone is born with the organ. About one in ten is taught to use it, and the other nine can tell you exactly whose fault that is.
+> Nearly everyone is born with the Crystal. About one in ten is taught to use it, and the other nine can tell you exactly whose fault that is.
 
 Every market town tells a version of the Carter's Cross auction, and I have checked enough of them to say most are lies, so here is the one with a Guild record behind it. In a hot August a laundress named Joan Pellow had a daughter of eight, Tib, who put both hands in a full washtub and froze it solid with the shirts inside, and by the third day Joan Pellow's drying yard held a hunting-guild scout in a wolfskin, a recruiter with an Aetherion letter, a crown screening officer with a roll under his arm, and two rival schools in full color: the Green Herons on the left with their elder and their song, the Red Ladles on the right with their elder and a louder song. A bookie chalked odds on the church wall. The bidding passed fourteen gold and a mule. When the Ladles offered a new roof the Heron elder called their grandmaster a soup thief, the Ladle elder's coat went up the color of boiled beets, and a jaw broke in the first exchange, and then the whole yard came down, poles and wet linen and sixty people, with sheets burning green overhead like flags. Joan Pellow got up on the frozen tub with a washing bat and bawled that the girl went to whoever would let her come home at harvest. Nobody could promise it, as each of them knew, and while they were still hitting each other about it the screening officer walked around the wreck, found the child behind the rinsing trough, read her, and wrote her name down. An entered child belongs to the roll. Tib Pellow went to the crown. Her mother got three silver and the bill for the church wall, and when her younger boy stirred the following winter she walked him thirty miles by night to the Herons and never told a soul.
 
@@ -12,7 +12,7 @@ That yard held the whole of this page. Here is the machinery under it.
 
 ## I. A Crystal in Nearly Everyone
 
-**Nearly every person alive carries a Soul Crystal from birth**, the porter and the laundress as surely as the heir of a great house. A few are born without one. The rest carry a **Dormant Crystal**: sealed and silent, present in full, and doing nothing a coil (the assay instrument that reads a Crystal) can read.
+**Nearly every person alive carries a Soul Crystal from birth**, the porter and the laundress as surely as the heir of a great house. The Crystal is the soul, so a few are born with one so slight that no coil has ever found it, and scholars argue about what that makes them. The rest carry a **Dormant Crystal**: sealed and silent, present in full, and doing nothing a coil (the assay instrument that reads a Crystal) can read.
 
 A dormant Crystal stays dormant for life unless somebody wakes it while it is young. Waking is taught, and taught early. It takes a teacher, a regimen and a place to practice before the soul sets, and a Crystal nobody attends to in childhood seals and goes on sleeping while the soul around it refines by the Weathering (the slow hardening hard living gives a soul, without magic) and hardens into whatever its work made it. **That is Class Ø, and it is nine people in every ten, which is most of the world.**
 
@@ -33,7 +33,7 @@ So every nation now keeps a **schedule**: which kinds of people may learn which 
 
 The low lesson got out long before anyone wrote a schedule, and there are far too many yards and sects to shut. A schedule licenses them, fines them and counts them. What it actually guards, where it guards anything, is the next rung: the upper manuals, the glyph tables, the high working and the people who take pay for it.
 
-**The Accord** controls theurgic (method-and-procedure, as against instinctive) training, issues the Magister credential and funds the academies. *The Guild made the system. The Guild owns the gate.* Inside a signed circle the Accord's examination is the license; outside one each crown and each hall keeps its own.
+**The Accord**, the coalition of guilds whose halls sit in every nation, controls theurgic (method-and-procedure, as against instinctive) training, issues the Magister credential and funds the academies. *The Guild made the system. The Guild owns the gate.* Inside a signed circle the Accord's examination is the license; outside one each crown and each hall keeps its own.
 
 **The crowns** decide who among their subjects may enter an academy at all, appoint the Mage Royal and the crown chairs, and write the schedule.
 
@@ -60,13 +60,23 @@ The low lesson got out long before anyone wrote a schedule, and there are far to
 
 **Bloodline.** The archaic bloodlines teach their arts to the blood and to nobody else, and lesser houses imitate them. A bloodline art taught outside the line is theft in the eyes of the house and, in most schedules, of the crown as well.
 
-## IV. What Needs No Leave
+## IV. The Second Gate: A Purse
+
+The lesson gets you onto the ladder. What carries you up it is very largely money, and the schedules hardly pretend otherwise.
+
+**A Stage can simply be bought.** Drafts and blessings can supply the Catalyst (the particular experience a Stage demands), and a soul that has the Draft crosses, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts, and here the lock and the purse are one object, since a formula the Bench has reserved may lawfully be drunk only by those it names. **A coil cannot tell a bought Stage from a fought one.** A schedule does not care, either, so long as the fee was paid and the formula was lawful.
+
+**The poor have three roads.** *Dungeon luck*: a crew goes down, and comes up with a monster's core worth a year's wages, or a Wellspring got at a Core no one had found, or does not come up. *Guild patronage*: a hall stakes a promising hand a Draft against a signed term of service, and the term is the real product. *Blessings*: a higher spirit or a person of higher Temperance gives what no purse could reach, for reasons of their own, on terms that may be written badly or not at all. Every mother who walks a child to a gate has heard of someone who rose by each of the three, and every bookie can tell her the odds.
+
+**What it does not buy.** A bought Stage opens the door and no more. Its Release must be found and mastered by fighting, and [[The Magic System/Practice and Institution/Training and Sects|sects teach what money cannot buy]]: Releases, Domains, techniques, skills and the rites for their Wellspring. So the richest heir on the river stands at the same gate as the laundress's son, a few rungs higher and with better boots, asking the same school for the same thing, and the school can refuse him. **That refusal is the most valuable thing the schools own**, and they know it.
+
+## V. What Needs No Leave
 
 The schedules watch three things: **who teaches, who takes pay, and high working.** They do not watch what a woken soul does at home with what it already knows.
 
-A woman who woke as a girl and warms her own kettle breaks no law. **Teaching the neighbor's son does. Charging for it does.** Taking pay for a working or a hunt without a guild license does, and is common anyway, because unlicensed hunters are cheap and there are always more postings than licensed parties. High working without a license is the gravest offense the schedules name, and each schedule defines it by Tier and by Craft. **The Divine Language sits inside every definition.**
+A woman who woke as a girl and warms her own kettle breaks no law. **Teaching the neighbor's son does. Charging for it does.** Taking pay for a working or a hunt without a guild license does, and is common anyway, because unlicensed hunters are cheap and there are always more postings than licensed parties. High working without a license is the gravest offense the schedules name, and each schedule defines it by Tier and by trade. **The Divine Language sits inside every definition.**
 
-## V. How the Lock Is Kept
+## VI. How the Lock Is Kept
 
 **Controlled texts.** Primers, grammars and glyph tables are copied by sworn scriveners under license, numbered, and issued against a registration. The **Apprentice's Primer** reaches a new practitioner the day they are entered and not before. **Teaching the Divine Language without sanction** is a Law of Severance for anyone sworn to the Codex (the Accord's master register of laws), and a crown offense under most schedules.
 
@@ -80,34 +90,34 @@ A woman who woke as a girl and warms her own kettle breaks no law. **Teaching th
 
 **The guilds.** Locally, the halls police their own ground. A hall that finds an unlicensed practitioner working its district posts him on its board, and an **Extermination** Commission against a corrupted practitioner is a lawful posting under the five classes. Inside a signed circle, Enforcement's **Sealwrights** take the cases no hall will.
 
-## VI. Hire and Jurisdiction
+## VII. Hire and Jurisdiction
 
 A licensed practitioner works for pay as a **hired hunter**, a **workshop inscriber**, a **company soldier**, or in **private practice**, and the license is what separates each of those trades from a crime.
 
 When a crime is done with a working, it is proved by the trace examiners, and then **the guild courts and the crown courts fight over who hears it.** The guild court claims the case because the accused holds a guild license, or because the act was a working. The crown court claims it because the body lies on crown land. Which of them wins differs by place, and in most places it is decided by whoever has the accused first.
 
-## VII. Those Who Learn Anyway
+## VIII. Those Who Learn Anyway
 
 **Black-market teaching.** A back room, a fee, a stolen or copied primer, and a teacher who was licensed once. The **kind readers** already sell a reading of what a person is with nothing forwarded to the Accord, and some of them sell the next lesson too.
 
 **The Mother.** A cult, named for the mother of vinegar, the living culture that sours whatever it is added to. It recruits across the Gate: its cells are called cultures, its recruits are inoculated, and what it teaches them no schedule would allow.
 
-**Self-derived workings.** A thaumaturge (a practitioner whose Crystal acts before conscious thought) who finds a native axis alone can work on it without ever having been taught, and some do. The Bureau watches for them with particular care. Self-derivation in the textual Crafts is nearly impossible, which is why the schedules guard the texts hardest.
+**Self-derived workings.** A thaumaturge (a practitioner whose Crystal acts before conscious thought) who finds a native axis alone can work on it without ever having been taught, and some do. The Bureau watches for them with particular care. Self-derivation in the written arts is nearly impossible, which is why the schedules guard the texts hardest.
 
-**The guild loophole.** Hunting guilds train their own. A hall indentures a boy under its own charter, wakes him on its own floor and teaches him what a hunter needs, and the state's gate never sees him until he is registered as a finished hunter. **Crowns hate this and every crown relies on it**, because the halls are what stand between a district and the things that come out of the Wells.
+**The guild loophole.** Hunting guilds train their own. A hall indentures a boy under its own charter, wakes him on its own floor and teaches him what a hunter needs, and the state's gate never sees him until he is registered as a finished hunter. **Crowns hate this and every crown relies on it**, because the halls are what stand between a district and the things that come up out of the dungeons and down off the roads.
 
-**The speaking.** The speaking has never been licensed and the Accord has never found a way to license it, because a spoken working has no author in its own grammar. Liability falls on whoever paid. *A speaker needs no substrate, no workshop and no seven years, and when he is finished there is nothing to point at.*
+**The speaking.** The shouting ticket licenses a speaker to take hire, and that is all it does. The speaking itself has never been licensed and nobody has found a way to license it, because a spoken working has no author in its own grammar. Liability falls on whoever paid. *A speaker needs no substrate, no workshop and no seven years, and when he is finished there is nothing to point at.*
 
 **The penalties.** A small offense costs an amercement to the offender's means. Unlicensed hire costs the tools and the fee. **Unlicensed high working is punished hard**: branding in the Accord cities, and **Crystal sealing**, in which a Sealwright closes a woken Crystal against the soul that carries it, the way a keeper closes a Core. A sealed practitioner is Class Ø again in everything except memory.
 
-## VIII. How the Common Folk See It
+## IX. How the Common Folk See It
 
 Ordinary people know there is a gate and roughly where it stands. They know the screening season comes, that a stirring child is either a fortune or a danger to the household, and that the ranked practitioner walking down their street got through something they were never offered, even when they went to school with his brother. They follow the yards the way they follow a cockfight, wear the colors, and sing the songs. **The awe they feel is partly for the power and partly for the door.**
 > *Some mothers hide a stirring child from the screening, because an entered child belongs to the roll. Others walk one three days to the nearest academy and wait at the gate until someone reads him.*
 
-## IX. Writing It
+## X. Writing It
 
-**Every practitioner on the page came through a gate, and it shows.** Which one, who paid, and what was sworn are part of the character, the same way a trade or a birthplace is.
+**Every practitioner on the page came through a gate, and it shows.** Which one, who paid, and what was sworn are part of the character, the same way a trade or a birthplace is. So is whether they fought for their Stage or bought it, and who in the room can tell.
 
 **The gate is paperwork and shouting.** Forms, stamps, a roll, a numbered primer, a clerk who can refuse, and outside the window two schools trying to sing each other down. The drama is at the desk more often than in the field.
 

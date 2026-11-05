@@ -24,7 +24,7 @@ What follows is everything Saltby could not say on oath, set out by an archivist
 
 Three institutions already built cannot function without standard weights: **the assay**, which determines fineness by comparing masses; **the proof-mark**, which certifies that a thing was tested; and **the Bench of Attribution**, whose four powers are entry, striking, attribution and reservation, and two of those are exercised on weights.
 
-Somebody had to make the four quarters agree what a pound is. The Marrowkin did not want to. **Nobody wanted to**, because a local measure is a local advantage, and the man who knows the district bushel is a heaping bushel is the man who buys in that district.
+Somebody had to make the four quarters agree what a pound is. The Marrowkin did not want to. **Nobody wanted to**, because a local measure is a local advantage, and the man who knows the district bushel is a heaping bushel is the man who buys in that district. The Accord is a coalition of guilds across many nations, so it could not simply decree the thing. It made the standard a term of signing on: a hall that wants the shared titles, the enforceable contracts and the passage takes the pound along with them, then goes home and keeps the old bushel in the back.
 
 The pattern is unambiguous, here as in every history that has ever tried it: **central authorities issue uniformity statutes over and over across centuries, and the fact that they keep issuing them is the evidence they are not working.** The Accord's formulary has been revised four times. Every revision says one weight and one measure through all the land. Every revision was needed.
 
@@ -67,7 +67,7 @@ Two parallel systems, exactly as the real world ran troy against avoirdupois, an
 | hundredweight | 8 stone |
 | ton | 20 hundredweight |
 
-**Assay weight.** Twelve ounces to the pound, with finer subdivisions, and it is the only system the Bench recognizes. Precious metal, gemstone, Draft ingredients, physic, and anything a proof-mark will be struck on. **Nothing is ever priced in both.** A merchant quoting assay weight for a commodity has said something either technical or dishonest and the room will decide which.
+**Assay weight.** Twelve ounces to the pound, with finer subdivisions, and it is the only system the Bench recognizes. Precious metal, gemstone, Draft ingredients, monster cores, physic, and anything a proof-mark will be struck on. **Nothing is ever priced in both.** A merchant quoting assay weight for a commodity has said something either technical or dishonest and the room will decide which.
 
 The **assay pound** is deliberately scaled so that a bead's mass reads directly as fineness against the sample taken, and the assayer does no arithmetic at all. This is the single cleverest thing in the Accord's metrology and was borrowed wholesale from a trade that had worked it out centuries earlier.
 
@@ -89,7 +89,7 @@ A level measure is struck flat with a strike-board across the rim. A heaped meas
 
 The standards are physically fixed to the outside of that building. The bronze reach is set into the wall at hand height, worn smooth, and anybody may check a rule against it at any hour without asking, and people do.
 
-The building hires out its own small powers, too. A **true-hand** is a market's petty folk art (one small working and one small living): somebody with a woken Crystal who can heft a weight and call it to the grain, at a copper the call. Nobody has ever beaten a good one fairly. Everybody knows what a true-hand costs to be wrong, and on a busy morning she may decide she is tired and go home, which has closed markets.
+The building hires out its own small powers, too. A **true-hand** is a market's petty folk art (one small working and one small living): somebody with a woken Crystal who can heft a weight and call it to the grain, at a copper the call, with a Heft skill on her own window that she will tell you about at length. Nobody has ever beaten a good one fairly. Everybody knows what a true-hand costs to be wrong, and on a busy morning she may decide she is tired and go home, which has closed markets.
 
 **This one arrangement tells a stranger more about a town than any amount of description.** A man taken up in the street is taken into the building where his grain is weighed and his rule is checked, by people he has seen weigh grain and check rules.
 
@@ -115,7 +115,7 @@ A **solid** weight is bronze all through. A **cased** weight is a bronze shell f
 
 ## VII. The Draught
 
-The keepers of a worked Core (a Wellspring site, a place where one kind of Aether pools, in the common word) sell time at the pool, and a practitioner pulls Aether from the ground around them, fast on rich ground and slowly on thin, which means what the keeper sells had to be measured. The Guild solved the problem the way trades always do: **it measured the aperture and the time, and left the substance alone.**
+The keepers of a worked Core (in the common word a Wellspring site, a place where one kind of Aether pools, and in most cases a dungeon somebody cleared and now holds) sell time at the pool, and a practitioner pulls Aether from the ground around them, fast on rich ground and slowly on thin, which means what the keeper sells had to be measured. The Guild solved the problem the way trades always do: **it measured the aperture and the time, and left the substance alone.**
 
 The **standard ferrule** is a bronze ring of fixed bore, glyph-cut and set into the stone at the lip of the pool, and a practitioner sitting at it can pull no wider than the ring allows. A **draught** is that bore, held open on ground of the site's stated grade, for one Guild hour by the water clock. (The keepers hold to the old spelling on purpose, so that nobody will mistake it for a Draft, the bottled working, and everybody does anyway.) Nothing about the metaphysics enters into it. The keeper's book counts apertures and hours, the bill is written in draughts, and neither the fitter nor the clerk nor the sitter has any opinion about what is actually passing through the ring.
 
@@ -127,7 +127,7 @@ A Core on falling density bills the same for less, because the book counts time 
 
 | People | Position |
 |---|---|
-| **The Accord and the Guild** | Their own standard, everywhere, in all things, and the formulary revised four times to say so |
+| **The Accord and the Guild** | Their own standard, in every hall that has signed, in all things, and the formulary revised four times to say so |
 | **Concord towns** | The Accord standard in the market and the old local measure in the back of the shop, for regulars |
 | **The holds** | Both, in parallel, the same as the two-column hour ledgers. Hold weight for the Tally, Accord weight for the beacon line. A Marrowkin will not enter an Accord figure without converting it, and the conversion is itself an entry |
 | **Eresse** | Accepts the Accord's weight and rejects its authority to set it, on the grounds that a standard nobody witnessed is a standard held contingently |

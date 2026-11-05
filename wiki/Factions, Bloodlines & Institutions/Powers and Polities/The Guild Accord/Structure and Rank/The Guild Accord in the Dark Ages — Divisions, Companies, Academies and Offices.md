@@ -13,21 +13,21 @@ At the Midsummer Riding of Aldersey in Year 688 the Worshipful Company of Chandl
 
 It took the whole of the afternoon to stop. Apprentices came over the barricades of both companies' feast-wagons, the Scalded Cats' outer disciples joined in on the Chandlers' side for the sake of an old grudge with somebody else entirely, and when a torch went into the Chandlers' second wagon nine hundredweight of good wax went running down the Fish Street gutter on fire, in a long gold stream with burning hats in it, and the fishwives hauled their stock up the steps cursing both liveries. Two people died, one of them a Warden who had only come out to complain. The mayor fined both companies, the market court fined them both again for the fish, and the Bench of Attribution, asked to rule on the ruling, regretted that a precedence was not a formula. Every year since, both companies have ridden eighth. They ride on alternate sides of the street, at the same pace, not looking at each other, and the town turns out in numbers to watch it not happen.
 
-Everything the Guild Accord is shows in that street: a charter, a Clerk who outlasted forty Masters, a Beadle who carries the mace at the feast and throws you out of the hall, a wax seal, an old ruling, and a crowd that knows every rank in the procession by its color. What follows is the institution as it stands in the Dark Ages, in wax and ink, down to who eats by what.
+Everything the Guild Accord is shows in that street: a charter, a Clerk who outlasted forty Masters, a Beadle who carries the mace at the feast and throws you out of the hall, a wax seal, an old ruling, two guilds who would die before sharing a place in the line and who both carry the same silver, and a crowd that knows every rank in the procession by its color. What follows is the coalition as it stands in the Dark Ages, in wax and ink, down to who eats by what.
 
-## I. Two Faces, One Charter
+## I. A Coalition with an Old Engine
 
-The Accord looks like two different institutions depending on which document you read, and both are correct.
+The Accord looks like two different institutions depending on which door you came in by, and both are correct.
 
-**The Concordat** is the covenant. The Codex, the Lattice, the fragment of Soul Crystal offered on joining, the Trials of Resonance, the Tiered Path from Initiate to Chosen. This binds **practitioners**, and it binds them spiritually rather than legally, which is why a practitioner cannot resign.
+**The coalition** is the guilds. Adventurers' guilds, merchant guilds, craft guilds, alchemists, healers, couriers, free companies and every other trade with a hall, across many nations, each with its own colors and grudges. They have signed on for three things: shared rank, enforceable contracts and passage. This binds by consent and by interest. Most of it is new, and most of the people in it think of the Accord as the thing their hall pays a fee to.
 
-**The Chancery** is the jurisdiction. The formulary, the articles, the market courts, the standards, the proof-marks, the Bench. This binds **trade**, and it binds by consent, because its courts are faster than anyone else's and its sanction is exclusion.
+**The engine** is what they signed on to. It has two parts, both seven centuries old. **The Chancery** is the jurisdiction: the formulary, the articles, the market courts, the standards, the proof-marks, the Bench. **The Concordat** is the covenant: the Codex, the Lattice, the fragment of Soul Crystal offered on swearing, the Trials of Resonance. This binds **the sworn** spiritually rather than legally, which is why a sworn practitioner cannot resign.
 
-They are one body because they flow from one power: **the charter.** The Accord's actual instrument is the ability to grant a standing and to take it away. A guild holds its charter from the Accord. An academy holds its charter from the Accord. A practitioner holds their tier from the Accord. Remove the charter and the hall is a building full of people with no legal ability to sell what they know.
+They are one body because they flow from one power: **the charter.** The Accord's actual instrument is the ability to grant a standing and to take it away. A guild holds its charter on the roll. An academy holds its charter on the roll. A member holds a title because a hall on the roll conferred it. Remove the charter and the hall is a building full of people with no legal ability to sell what they know. The halls know this, and they know as well that without their fees the engine stops by the next quarter day, and that mutual understanding is the whole of the constitution.
 
 ### What it is on the ground
 
-Nobody should picture an office. The Accord in any given town is a stone hall with a bounty board on one wall and a beam (the public scales) in the yard, a sworn clerk who may also be the only literate person for a day's ride, a seal press in a locked chest, a Measurewright with an assay fork who comes through on circuit and is argued with, and a Hall-Warden who can fight. Every instrument it issues is written by hand, witnessed by people who are paid to remember, and closed with colored wax. If the clerk dies the town waits until somebody sends another. A Division, seen from the Citadel, is a great lord's household: a Head with a seal, a sworn following of scriveners, riders and assessors who eat at its table, and chests of rolls that travel when it travels. Its reach is exactly as long as a rider can go.
+Nobody should picture an office. The Accord in any given town is a stone hall with a bounty board on one wall and a beam (the public scales) in the yard, a sworn clerk who may also be the only literate person for a day's ride, a seal press in a locked chest, a Measurewright with an assay fork who comes through on circuit and is argued with, and a Hall-Warden who can fight. In a bigger town it is six or seven halls in six or seven colors, all of them hating the one with the best site on the square, sharing one beam and one court. Every instrument any of them issues is written by hand, witnessed by people who are paid to remember, and closed with colored wax. If the clerk dies the town waits until somebody sends another. A Division, seen from the Citadel, is a great lord's household: a Head with a seal, a sworn following of scriveners, riders and assessors who eat at its table, and chests of rolls that travel when it travels. Its reach is exactly as long as a rider can go.
 
 ### A register note, applied
 
@@ -41,11 +41,11 @@ The original document renders the machinery in an older and grander manner: Latt
 | Scry-glyph verification | **The beacon line, the field report, and a countersigning witness** |
 | Echo marks | **Entries.** The Bench's power of entry, on the roll, in ink |
 
-Nothing metaphysical is lost. The Lattice still records, and nobody in the four quarters has ever seen a number floating in the air.
+Nothing metaphysical is lost. The Lattice still holds every sworn oath, and nobody in the four quarters has ever seen a guild's number floating in the air. The only figures that float are on your own window (the soul reporting its numbers to its owner, unseen by anyone else), and the window has no opinion about your title.
 
 ## II. Where the Accord Actually Reaches
 
-**Where the Accord stands.** The communion is being signed now, circle by circle, and the Articles and the Commission framework bind as law only inside a signed circle. The first was signed at Kharven-Seat. Everywhere else what reaches is older: the Codex, its courts and its standards, carried by charter and taken by consent, and the reach below is the reach of that older machinery.
+**Where the Accord stands.** Halls sign on one at a time, and whole countries sign in circles, and the Articles and the Commission framework bind as law only inside a signed circle. The first was signed at Kharven-Seat. Everywhere else what reaches is the coalition's halls and the older machinery behind them: the Codex, its courts and its standards, carried by charter and taken by consent.
 
 The Accord is unequally strong, and the pattern follows hard facts of trade and ground far more than it follows politics.
 
@@ -53,7 +53,7 @@ The Accord is unequally strong, and the pattern follows hard facts of trade and 
 
 **Strongest: the island nations.** Trade-dependent, small, and unable to survive exclusion for a season. An island that will not take Accord weights cannot sell its cargo in any port that does, and the arithmetic makes the argument without anyone having to make it. Island seats are famously punctilious about standards and famously resentful about it.
 
-**Strong: the Inner World.** The Concord heartland, the composite monarchy, the chancery schools, the kept roads and rounds at their densest. The Accord runs alongside crown law here rather than replacing it, and the two have grown into each other so completely that most people cannot tell you which of them issued the rule they are obeying.
+**Strong: the Inner World.** The heartland is the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sealed Charter of the Concord|Sealed Charter of the Concord]], in the Center, where the wax comes from, with Sealhall's white hall and the chancery schools and the kept roads at their densest. The Accord runs alongside crown law here rather than replacing it, and the two have grown into each other so completely that most people cannot tell you which of them issued the rule they are obeying.
 
 **Weak: the Old World.** Ancient polities with law older than the Accord and no interest in being harmonized. The holds keep two columns. The Keth-Gorrum's rulings are unreadable to Accord clerks by design. Undaar-Keth adopted the standards instantly and the jurisdiction never.
 
@@ -61,18 +61,20 @@ The Accord is unequally strong, and the pattern follows hard facts of trade and 
 
 ## III. The Divisions, Politically
 
-Five Divisions, one unacknowledged sixth, and every one of them regards the rest as competitors. Each holds a different instrument and each is trying to make its instrument the one that decides.
+A coalition needs somebody to keep the shared things running, and the shared things are older than the coalition and came with their own staff. Five Divisions, one unacknowledged sixth, and every one of them regards the rest as competitors. Most hall members could not name them all. Each holds a different instrument and each is trying to make its instrument the one that decides.
 
 | Division | Instrument | Eats by | Standing rival |
 |---|---|---|---|
-| **Strategic** | The Legion, and the Gates as a military asset | Levy on chartered realms | Logistics, over who controls Gate priority |
-| **Enforcement** | The Sealwrights, and the High Warden's presence, which is martial law wherever it stands | Forfeitures and amercements, which is a scandal nobody will name | Arbitration, permanently |
-| **Arbitration** | Treaty, mediation, and the Trials of Resonance | Fees from the parties, which is the same scandal from the other direction | Enforcement, permanently |
+| **Strategic** | The Legion, and the Gates as a military asset | Levy on chartered realms | Logistics, over who controls Gate priority; the free companies, over who gets paid |
+| **Enforcement** | The Sealwrights, token fraud, and the High Warden's presence, which is martial law wherever it stands | Forfeitures and amercements, which is a scandal nobody will name | Arbitration, permanently |
+| **Arbitration** | Treaty, mediation, feuds between halls, and the Trials of Resonance | Fees from the parties, which is the same scandal from the other direction | Enforcement, permanently |
 | **Research and Archives** | The Archives Eternal, the Codex, and the power to say what a thing is | Endowment, chairs, and the academies | Nobody openly. Everybody quietly |
-| **Logistics and Supply** | Gate coordination, Essence transport, the letters of credit | Tolls and carriage | Everyone, because it holds the purse |
+| **Logistics and Supply** | Gate coordination, Essence transport, the letters of credit | Tolls and carriage | Everyone, because it holds the purse; the Long Relay, which carries its letters and will not take its orders |
 | **The Black Concord** | Whatever the High Concordant requires | Not accounted for anywhere | Not applicable |
 
 **The two blocs.** Strategic and Enforcement vote together on nearly everything and are called the hard hand by people who are not being careful. Arbitration and Research vote together and are called the long table. **Logistics is the swing, holds the purse and the Gates, and has been the swing for two hundred years**, which is why the Logistics head is the most courted person in the Citadel and the least likely ever to be nominated for anything.
+
+**The Sitting of Halls.** The guilds' answer to all this is younger and a good deal louder. Each territory's halls send up a **Guildlord**, and the Guildlords meet at Sealhall after the Veyra's Day fair, in every color at once, under the great bones of the Ribs. The Sitting has no vote the Council is obliged to count. It can decline to collect the hall-fee, and it did so once, for a single quarter, in the matter of the Chancery's seal charges, and the charges came down before midsummer. Merchants' Guildlords lead it by wealth, the adventurers' by volume, and the White Aprons' by being the only people present whom everyone will need eventually.
 
 **Enforcement's funding is the structural problem nobody will touch.** It eats by forfeiture. A Division that takes its revenue from the property of people it convicts has an interest in convictions, and every clerk in the Citadel knows this, and Arbitration raises it once a decade and is voted down by the hard hand.
 
@@ -80,7 +82,7 @@ Five Divisions, one unacknowledged sixth, and every one of them regards the rest
 
 ## IV. The High Concordant
 
-**Chosen, without any election.** The Council nominates. The Heart Vault accepts or does not, and there is no procedure for determining whether it has accepted other than whether the nominee survives the weaving. **This is unfalsifiable and is therefore the perfect political instrument**, because a failed nomination proves the candidate was unworthy and can never prove the Council chose badly.
+**Chosen, without any election.** The Council nominates. The Heart Vault accepts or does not, and there is no procedure for determining whether it has accepted other than whether the nominee survives the weaving. **This is unfalsifiable and is therefore the perfect political instrument**, because a failed nomination proves the candidate was unworthy and can never prove the Council chose badly. The Sitting of Halls has asked for a say in this and has been told, with great courtesy, to take it up with the Vault.
 
 **Held for life**, because the office is a condition rather than a post. The Concordant's soul is woven into the Vault at the Citadel's core and their breath sustains the Lattice. There is no retirement and no removal, and this is the whole shape of the office.
 
@@ -90,7 +92,7 @@ Five Divisions, one unacknowledged sixth, and every one of them regards the rest
 
 So the real politics of the office lies in **curation.** A Head who wants a thing done does not argue for it. They arrange for the Concordant to hear about the problem it solves, three times, from three directions, over a season. Every senior person in the Citadel understands this, and none of them would call it corruption.
 
-**The succession is the whole game and it is played before the death.** If the Concordant dies unsucceeded the Vault stills and the Accord collapses, and everyone knows this, which means the Council will accept almost any nominee rather than risk a gap. Therefore the contest is entirely over who is standing closest when the moment comes, and therefore the Concordant's health is the most closely held and most intensively rumored fact in the Inner World, and therefore **the beacon line out of the Citadel is read by more people than any other line in the world.**
+**The succession is the whole game and it is played before the death.** If the Concordant dies unsucceeded the Vault stills and the Lattice with it, and the signed halls would wake to find their tokens still good and every sworn officer on the continent in convulsions. Everyone knows this, which means the Council will accept almost any nominee rather than risk a gap. Therefore the contest is entirely over who is standing closest when the moment comes, and therefore the Concordant's health is the most closely held and most intensively rumored fact in the Inner World, and therefore **the beacon line out of the Citadel is read by more people than any other line in the world.**
 
 ## V. The Guilds
 
@@ -112,31 +114,53 @@ Every chartered company in the four quarters runs the same skeleton, whatever it
 
 The freedom brings the right to work for whom you choose or to set up on your own, and in chartered seats it brings a vote. **Redemption is the class question.** A freeman by purchase is a freeman, is treated as one, and is never quite forgotten to have bought it, and every company has a word for such a man that it does not use in front of him.
 
+**Freedom and title are different things, and both show.** Freedom and livery are your standing inside your own company. The nine titles, Initiate to Paragon, are your standing with every stranger on the road, and they travel as silver. An established Liveryman of the Chandlers may carry an Adept's token, and a brilliant journey-hand who cannot afford the livery may carry a Master's and still eat at the bottom of the table. See [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path|The Tiered Path]].
+
 **Precedence.** The order of the companies was settled once, by a body that has long since stopped existing, and has been argued about ever since. The **Twelve Great** take precedence at every civic occasion. The Chandlers and the Saddlers have been in dispute over the eighth and ninth places for four hundred years, and the dispute is genuinely unresolvable because the original ruling is ambiguous and both readings are defensible.
 
 **The apprentice's morning.** An apprentice of nine or ten goes to his indenture with his name on a sheet his mother cannot read, sleeps under the bench, and may by Article XII be freed if the master holds more boys than the formulary allows. Most never hear of Article XII. The ones who do tend to be the ones who become Clerks.
 
-### The kinds of company
+### The kinds of guild
 
-**Craft companies.** Regulate a craft: standards of work, terms of apprenticeship, who may take hire. The Engravers, the Drafters, the Assayers, the Fitters and Gaugers.
+**Craft guilds.** Regulate a craft: standards of work, terms of apprenticeship, who may take hire. Smiths, Engravers, Drafters, Assayers, Fitters and Gaugers. Drafts, runes, tags and chants are skills anyone can level with use, and a guild's title is how far the guild will vouch that you have gone. A smith's title caps the Grade she may make. Scale, bone and hide off a monster make the top gear, and the smiths have never forgiven the hunters for knowing it.
 
-**Merchant companies.** Regulate a **trade** rather than a craft, and their members make nothing. The great houses of Altherion. These outrank craft companies in wealth and are outranked by them in precedence, and neither side has ever stopped minding.
+**Merchant guilds.** Regulate a **trade** rather than a craft, and their members make nothing. The Mercers, the Salters, the great houses of Altherion, the factor houses of the Amber Cities. These outrank craft guilds in wealth and are outranked by them in precedence, and neither side has ever stopped minding. A merchant's title caps the Rarity he may sell, and the second signature on a piece above his silver is a fee a great many people live on.
 
-**Societies.** Restrict senior membership to actual practitioners, unlike the companies, most of which long ago stopped requiring that the Master of the company practice the trade the company is named for. **The Alchemists' Society** is the strictest: a man may be a freeman of it by purchase and may not sit on its Court unless he can work.
+**Alchemists.** The Drafters' Company is a craft guild and **the Alchemists' Society** is something stranger. It restricts senior membership to actual practitioners, unlike the companies, most of which long ago stopped requiring that the Master of the company practice the trade the company is named for: a man may be a freeman of it by purchase and may not sit on its Court unless he can work. Between them they render the monster cores the hunters bring in, into the Essence Drafts used for tempering. **Drafts can supply a Catalyst, Stages can be bought, and the great houses hoard the top Drafts**, so an alchemist's guild is the nearest thing the world has to a mint for power, and everybody treats it accordingly.
 
-**Ventures.** And this is the one worth understanding properly.
+**Healers.** The Company of Leeches and Bonesetters, the White Aprons, run a price board by the door. Pre-modern medicine first and in plain words, then a slow recovery that leaves scars and limits, and a Vitalia hand (Vitalia being the Family of life and tissue) only for those who can pay. A wound is a status line on your window that stays until treated, and healing is priced, so the rich walk off what cripples the poor. The guild's title says what she may be paid to treat. It also keeps a **free bench** in every hall of any size, one morning a week, by a clause its founders wrote in and its Court has been trying to read differently for two centuries. Every hiring hall keeps a White Aprons' account, and running one up is the fastest way to find out who your friends are.
+
+**Couriers.** The Long Relay: yellow coats, a stable every day's ride, and the only guild whose Grandmasters are mainly famous for being late once. A high-Grade rider travels faster than any commander in the old histories could think, and spends reserve doing it, and is the first thing an enemy kills. Their title says what they may be handed sealed. The beacon wardens, who keep the lamp line, regard the Relay as a nostalgic hobby, and the Relay regards a lamp as something that cannot carry a parcel.
+
+**Free companies.** Mercenaries who sign under seal and fight on the strength of the instrument. Each has its colors, its painted rank list and its share of the plunder written down in advance. The Accord's articles of war bind them only as contracts, a point of enormous interest to crowns. See [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Military|The Concord Military]].
 
 ### The Adventurers
 
 **An adventurer is somebody who ventures capital.** That is the original and correct meaning, and it is what the Company of Adventurers was chartered to do: subscribe money to a risky undertaking, in shares, against a return.
 
-The Commission trade grew out of it. **A Commission is a venture, and a party that takes one holds shares in it.**
+The Commission trade grew out of it, and the word walked down the street and moved into the hiring halls. **A Commission is a venture, and a crew that takes one holds shares in it.**
 - A **subscriber** puts up the outfitting: stores, carriage, Drafts, the Guild fees, and the bond posted against damage.
-- The venture is **divided into shares**, and the party takes shares rather than wages. A leader takes more. A first venture takes less. A specialist bargained for in advance takes a fixed share off the top before division, which everyone else resents.
-- **Losses fall on the subscribers**, and deaths fall on the party, and this asymmetry is the whole moral character of the trade.
-- A **bottomry** exists: a loan against the venture that is repaid only if the venture returns. It costs a great deal and it is what a party without a patron uses.
+- The venture is **divided into shares**, and the crew takes shares rather than wages. A captain takes more. A first venture takes less. A specialist bargained for in advance takes a fixed share off the top before division, which everyone else resents.
+- **Losses fall on the subscribers**, and deaths fall on the crew, and this asymmetry is the whole moral character of the trade.
+- A **bottomry** exists: a loan against the venture that is repaid only if the venture returns. It costs a great deal and it is what a crew without a patron uses.
 - Underwriting exists, at a price, and the Company keeps the tables, and **the tables are the most honest document about mortality in the four quarters** because they are written by people with money on the answer.
-The five Commission Classes are unchanged. Reconnaissance, Containment, Retrieval, Arbitration, Extermination. What changes is that a party discussing a posting is discussing **terms**, and the argument in the hall is about shares and the bond, with glory saved for the tavern.
+
+The five Commission Classes are unchanged. Reconnaissance, Containment, Retrieval, Arbitration, Extermination. What changes is that a crew discussing a posting is discussing **terms**, and the argument in the hall is about shares and the bond and who got the kill, with glory saved for the tavern, where it is plentiful.
+
+**The hiring hall.** Today most people who say *adventurer* mean a hunter with a green sash and a loud name, and the hall is where they live: the board on one wall, the Wall of crews on another, the long table, the song, the Beadle, the White Aprons' account book. Halls run like clubs and are followed like them. Sedgeby's river-green and the Long Rope's yellow have fans in towns neither has ever worked. A hall sponsors the promising poor, buys a patron's Draft for a girl who cleared a floor at fifteen, and takes its share for seven years, and this guild patronage is one of the three ways the poor ever rise, beside dungeon luck and blessings.
+
+### The feuds
+
+Signing ended no quarrel. It moved them indoors and put a fee on them.
+
+- **The eighth place.** The Chandlers and the Saddlers, above.
+- **Cutters, pourers and singers.** The three old trades of runes, Drafts and chants once kept separate ranks and separate examinations, each holding itself the true art and the others its servants. The ranks are long gone and anyone may level all three. The grudge has outlived them by centuries, with its own songs, its own jokes about the others' hands, and a brawl at the Engravers' feast that has reliably broken out in every year anyone has checked.
+- **Halls and the Well-Hunters.** Every signed hall despises the Well-Hunters' Company for hunting under the halls' price with one license among a dozen men, and hires its men when short.
+- **The wound Draft.** White Aprons against Drafters: who may be paid for a Draft that closes a wound.
+- **The Tail.** The Long Rope has the old right to the first bell at Sealhall's dungeon, the Red Caps say they were promised it in Year 640, and Enforcement holds the gate and is enjoying itself.
+- **Merchants and makers.** Wealth against precedence, at every feast there has ever been.
+
+Arbitration will hear any of these for a fee. Most go to the Stage brackets at the next fair instead, where yielding is allowed and killing is forbidden and still happens, and the bookies in green hats can give you a price.
 
 ## VI. The Academies
 
@@ -148,7 +172,7 @@ The five Commission Classes are unchanged. Reconnaissance, Containment, Retrieva
 |---|---|
 | **Scholar** | Under instruction. Not yet permitted to work unsupervised |
 | **Licentiate** | Holds the **license**: permission to practice for hire. This is the qualification that matters commercially and the one most holders stop at |
-| **Master** | Permitted to take apprentices. A teaching qualification, with no claim to superior practice, and the distinction is constantly misunderstood outside academia |
+| **Master** | Permitted to take apprentices. A teaching qualification, with no claim to superior practice, and the distinction is constantly misunderstood outside academia, all the more since it shares a word with the sixth title on a token |
 | **Doctor** | Permitted to teach the masters, examine, and dispute. Confers the right to be wrong in public at length |
 | **Chair** | An endowed and appointed post, named for whoever endowed it. Held for life or until a better one is offered |
 
@@ -164,7 +188,7 @@ The Society's whole power is that it is the only body in the four quarters that 
 
 ### The sects
 
-Academies have charters and examinations. Most of the people who can actually fight learned it at a sect, a school with a wall, a ground, a color and a grudge, under a discipleship ladder any child can recite: outer disciple, inner disciple, core disciple, elder. Sects run on those ranks inside the Accord's institutions, while the guilds keep their own titles, and a good many practitioners carry both, a core disciple of one thing and a Journeyman on the Guild's roll. The Accord would like them all to register. Some do, for the right to post fighters at Guild-sanctioned brackets, and the Stage brackets at every fair are the nearest thing the four quarters have to a shared religion. Yielding is allowed and killing is forbidden and still happens. The rivalries, songs and laundries are set out on [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages|The Powers of the Dark Ages]].
+Academies have charters and examinations. Most of the people who can actually fight learned it at a sect, a school with a wall, a ground, a color and a grudge, under a discipleship ladder any child can recite: outer disciple, inner disciple, core disciple, elder. Sects run on those ranks while the guilds keep their titles, and a good many practitioners carry both, a core disciple of one thing and a Journeyman on the Guild's roll. Sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring, and they know exactly what that is worth. The Accord would like them all to register. Some do, for the right to post fighters at Guild-sanctioned brackets, and the Stage brackets at every fair are the nearest thing the four quarters have to a shared religion. Yielding is allowed and killing is forbidden and still happens. The rivalries, songs and laundries are set out on [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages|The Powers of the Dark Ages]].
 
 ## VII. The Great Offices
 
@@ -182,7 +206,7 @@ The pattern is exact and worth knowing: an office is created to *do* something, 
 
 **The Grand Gauger.** Pre-eminent in the measure of the pool. Created within the last century, still does its job, still sets the standard ferrule (the fixed bronze ring at a Core's lip that limits how wide a sitter can pull), still hears appeals on the keepers' books. The other three regard it as a jumped-up search office with a grand name. It regards them as three honorifics attached to nobody's actual work, and it is right, and saying so has cost two holders their seat at the Citadel table.
 
-**There is no Accord office for the singing.** Chantcraft has never been an Accord examination category, and the orders appoint their own **Precentor of the Choirs**, whom the Accord does not recognize and cannot appoint, and who outranks every one of the four inside any hall where a chant is holding something up.
+**There is no Accord office for the singing.** Chants have never been an Accord examination, and the orders appoint their own **Precentor of the Choirs**, whom the Accord does not recognize and cannot appoint, and who outranks every one of the four inside any hall where a chant is holding something up.
 
 ### In the crowns' gift
 
@@ -200,6 +224,10 @@ Every crown appoints its own: **Mage Royal**, **Alchemist Royal**, **Engraver Ro
 
 **Redemption.** A man bought his freedom of the company and has been elected to the Court, and the Court is deciding whether to let it stand, and the vote will be close, and everyone will pretend afterward it was about something else.
 
-**The tables.** The Adventurers' underwriting tables say what a Containment on a live Wellspring site actually costs in lives. A party has just been shown them by a clerk who should not have.
+**The tables.** The Adventurers' underwriting tables say what a Containment on a live Wellspring site actually costs in lives. A crew has just been shown them by a clerk who should not have.
 
 **The still line.** The beacons out of the Citadel go dark for two days.
+
+**The fee strike.** The Sitting of Halls has declined the hall-fee for a second quarter, and this time the Legion's pay is in it.
+
+**A silver problem.** Every token out of one small hall on the salt road has been reading a little light on the beam. Either the hall has been cutting its silver, or somebody very good has been striking copies and using its mark, and there is a crew at T5 right now who believe they are led by a Master.

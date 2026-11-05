@@ -10,7 +10,16 @@ The crowd howled. A fisherman fell off the rail laughing. Sir Ansgar laughed too
 
 It did not break. It went on not breaking, while a man who could put his shoulder through a temple door leaned on it with everything he had, and the rope sang a note that loosened teeth on both banks, and then the middle span of the Bridge at Aske came away with a groan like a ship going down and followed him up the road, oak, bookies and all. Sir Ansgar was dug out alive by evening. Dunny's palms had burned to the tendon where the line ran through them, and he could not close a hand until the harvest. The song says he tied up the moon. The lord billed him for the bridge.
 
-Every part of that afternoon has a name: where Dunny got the power, what law held the knot, what the shout bought him, why his hands paid for it, and why a man one rung up the ladder could lose to a man with a good read and a better rope. This page gives you those names, in order, and I have tried to keep it shorter than the Accord's assessment of that rope, which runs to nine leaves and leaves out the fisherman.
+That night Dunny's soul reported to him, in river talk and for his eyes alone, that he had climbed further in one afternoon than in eleven years of ferrying. He told the whole of the Aske Arms what it said, which nobody there could check, and they bought him drinks anyway.
+
+```
+[Level: 61 to 68]
+[Trait: Stays Tied, Level 12 to 15]
+[Skill: Knots, C to B]
+[Hit: both palms burned to the tendon. Vitality 81%]
+```
+
+Every part of that afternoon has a name: where Dunny got the power, what law held the knot, what the shout bought him, what that block of lines was, why his hands paid for it, and why a man one rung up the ladder could lose to a man with a good read and a better rope. This page gives you those names, in order, and I have tried to keep it shorter than the Accord's assessment of that rope, which runs to nine leaves and leaves out the fisherman.
 
 *A first page on magic. Each section ends with the page that goes deeper.*
 
@@ -18,35 +27,71 @@ Every part of that afternoon has a name: where Dunny got the power, what law hel
 
 ![[Assets/Diagrams/soul-crystal.svg]]
 
-Nearly everyone is born with a Soul Crystal (the organ in the soul that stores power and sends it out). In most people it sleeps for life. About one in ten wake it, nearly always as children, taught by a school, a house or a guild, or stirring early on their own. They are practitioners (people whose Crystal is awake and working), and one in ten is a great many people: you will pass them at every market, and any child can recite the sect ranks and tell you which school's colors to avoid on a feast day. The rest are Class Ø (sealed and unwoken) and touch magic only through what they buy. A sealed Crystal can be woken, but rarely, and at great cost. *Read next: [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]].*
+The Soul Crystal is the soul, and the scholars mean that literally: what your grandmother called your soul has three layers, holds power and sends it out, and can be measured. Nearly everyone is born with one. In most people it sleeps for life. About one in ten wake it, nearly always as children, taught by a school, a house or a guild, or stirring early on their own. They are practitioners (people whose Crystal is awake and working), and one in ten is a great many people: you will pass them at every market, and any child can recite the sect ranks and tell you which school's colors to avoid on a feast day. The rest are Class Ø (sealed and unwoken) and touch magic only through what they buy. A sealed Crystal can be woken, but rarely, and at great cost. *Read next: [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]].*
+
+## Windows
+
+Since the soul can be measured, it reports. A window is the soul reporting its numbers to its owner, in the owner's own tongue, and nobody else can see it. A Moto reads hers in Moto and a Kharven drover reads his in the language he swears in. It comes when called and it comes unasked, in the middle of a fight, the moment there is something to report. Who built it is the oldest quarrel in the Measurewrights' hall (the Measurewrights being the guild that keeps the world's tables and argues about them), and I have seen a Grandmaster throw soup over it.
+
+Here is what Wen Talley, a tavern brawler you will meet again below, sees when he takes a normal look at himself:
+
+```
+[Wen Talley · Human · Level 47 · Stage III, Ascension]
+[Vitality D · Ardency C · Gnosis E · Dexterity D]
+[Harmonics E · Resilience D · Tempering E · Dominion F]
+[Reserve: 100% ▓▓▓▓▓▓▓▓▓▓]
+[Trait: Hold the Rafter, Level 9]
+[Skills: Brawling D · Smithing C · Drinking B]
+[Blessing: none]
+```
+
+The top line carries his race, which shows because race and lineage shape what a person starts with and what comes easily. Below it are the Eight Primaries (his eight main stats) with their Grades. The reserve is a percentage and a bar. Traits carry levels and skills carry Grades, all of which this page explains. A Sub-Stat (one of the sixty-four single abilities beneath the Primaries) appears when it is used or when it moves, and the full set is there to study for anyone with a free evening.
+
+A window shows Grades, percentages, bars and levels. It has never once shown the raw figures the Accord's instruments read, which is why assay houses still have customers, and it reports nothing about anyone else unless the owner's perception is strong enough to read them. In a fight it comes in short blocks after the blow, for damage, skill gains and reserve, and every window in this Archive is a copy dictated afterward by its owner, so allow for vanity. *Read next: [[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]].*
 
 ## Aether and Essence
 
 Aether is everywhere, thick in some places and thin in others, the way air is. A practitioner pulls it in from the environment around them, refines it in the Soul Crystal into their own usable power, called Essence, and drives that Essence out through the Shell (the Crystal's outer skin) to do the work. What they hold is their reserve (the store of Essence they carry), and every working spends reserve.
 
-So where you stand matters. Rich ground fills you faster and lets you put out more; thin ground starves you, and ground that has been salted or bled starves you worse. Scholars call the richness Aetheric Density. Street fighters say fat ground and lean ground, and a clever one will walk a quarrel three fields over before she lets it start.
+So where you stand matters. Rich ground fills you faster and lets you put out more; thin ground starves you, and ground that has been salted or bled starves you worse. Scholars call the richness Aetheric Density. Street fighters say fat ground and lean ground, and a clever one will walk a quarrel three fields over before she lets it start. *Read next: [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]].*
 
-Aether also comes in different types, and they affect the Soul Crystal differently. Those types are the Wellsprings: sixty of them, fixed, each a source of power that also represents an alchemical principle and a spiritual transformation, and each running on one law of physics, heat or motion or growth, which a practitioner can harmonize with and work. A Wellspring also has sites in the world where its Aether pools, the greatest concentrations there are. Common speech calls such a site a Core (no relation to the Essence Core inside the Crystal, a distinction the street has never once respected). A worked Core recharges, and it has keepers, and its keepers can close it to you.
+## Wellsprings
 
-A practitioner's Aether Class (how cleanly their power passes out of them) decides how much of what they spend arrives as effect. *Read next: [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]].*
+A Wellspring represents an alchemical and a spiritual transformation and concept: Exuroth is the trial by fire that proves what a thing is made of, Judicium the truth that will not be talked round. You can see one as a source of power to pull from, and the old books count them as sixty types of Aether, each acting on the Crystal in its own way. More truly, a Wellspring is the governing idea that transforms how a soul uses Aether, a lens set over magic that was already potent. Everyone's Crystal has a natural bias toward some phenomenon, called its Essence Typology. The right lens highlights that bias, a little at first, and after years of mastery it can double the effect. There are sixty, fixed, and nobody has ever made a sixty-first, sorted into eight Families (the branches of physics they answer to: Caloria for heat, Fulguria for lightning, and six more).
+
+A soul gets one at a Core in a dungeon, from a school, from a Draft or a blessing, or by birth. A Core is a site where a Wellspring's Aether pools, the greatest concentration there is (no relation to the Essence Core inside the Crystal, a distinction the street has never once respected). Most Cores lie in dungeons, and the rest are said to lie out in vast territories. A worked Core is a dungeon somebody cleared and now holds: it recharges, it has keepers, and its keepers can close it to you.
+
+The scholars' account of all this is physics, and every number in it stands. Each Wellspring runs on one law, heat or motion or growth, which a practitioner harmonizes with (tunes the Shell to) and works, and the tables tell you exactly what that buys. That is how the learned explain a lens. A Measurewright will defend the account to the death and tell you what is wrong with yours. *Read next: [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]].*
 
 ## Traits
 
-A Trait (a standing law in the soul) forms through lived experience: something a person survives hardens into a rule the world accepts as true. Nobody can teach you one. Sleeping souls carry Traits too, as a knack: the fisherman the cold cannot touch. Waking arms them. The Primary Trait (the first and deepest, carried from birth) sets the direction for everything that follows. *Read next: [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System: Law, Function and the Forge]].*
+A Trait (a standing law in the soul) forms through lived experience: something a person survives hardens into a rule the world accepts as true. Nobody can teach you one. Sleeping souls carry Traits too, as a knack: the fisherman the cold cannot touch. Waking arms them. The Primary Trait (the first and deepest, carried from birth) sets the direction for everything that follows.
 
-## Techniques and the four crafts
+A Trait can also be leveled and refined, the way a skill can. Each one carries its own level, which rises with use and grows along with the practitioner's overall Level and skill, and the window reports the day it moves. *Read next: [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System: Law, Function and the Forge]].*
 
-A technique (a named, repeatable working with a stated cost) is what a practitioner actually does with a Trait. Taught techniques come from a school; derived techniques are found alone; a signature is one person's own art. Fighters shout a technique's name as it fires: the shout costs a beat (the moment it takes, in which an opponent can act) and buys a surge of power.
+## Skills, techniques and the kit
+
+Every practitioner has skills: swordwork, tracking, haggling, brewing Drafts, cutting runes, chanting, and anything else a person does until they get better at it. A skill rises with use and shows on the sheet as a Grade. Anyone can level any of them.
+
+A technique (a named, repeatable working with a stated cost) is a named thing done with a skill and a Trait. Taught techniques come from a school; derived techniques are found alone; a signature is one person's own art. A technique shows no level on the sheet. When it jumps, it takes a bigger name, and the old name stays in use for the smaller move. Fighters shout a technique's name as it fires: the shout costs a beat (the moment it takes, in which an opponent can act) and buys a surge of power.
 
 A fighter's whole kit is one wild concept you can explain in a breath, knots or thunder or debt, with a growing list of loud named moves under it. They call those names in their own tongue, and anyone may reach for a word like World, God or Infinite. The room laughs until it works, and living up to the name becomes the rest of that person's life. Heralds cry the winners, minstrels get the details wrong, lords post the bounties and bookies take the odds, and all of it changes what you pay at an inn and who comes looking for you.
 
-Every working (a deliberate act of magic) is written in Parun (the glyph grammar all magic uses) and set into a medium, and the medium names the craft. Spellcraft speaks it: it happens now, and the body pays. Runecraft cuts it into stone, steel or paper: it outlives its maker. Draftcraft pours it into a bottle: anyone can drink it, woken or not. Chantcraft sings it: it takes many voices and holds while they sing. Magicraft is the word for all of it together, the thing the Accord examines, licenses and taxes, and it is counted with them, which is why the shelf says four crafts on the door and has five headings inside. The guilds rank cutting highest and call speakers mouths; the crowds cheer the fighters anyway. *Read next: [[The Magic System/Power in Use/The Four Crafts|The Four Crafts]].*
+Every working (a deliberate act of magic) is written in Parun (the glyph grammar all magic uses) and set into something. Spoken, it happens now and the body pays. Cut into stone, steel or paper, it outlives its maker. Poured into a bottle, anyone can drink it, woken or not. Sung, it takes many voices and holds while they sing. These are ways of doing the work and the trades that grew up around them, open to anyone who will put in the years. The cutters' guilds still rank themselves highest and call speakers mouths, the pourers have words for the cutters, and the crowds cheer the fighters anyway. *Read next: [[The Magic System/Power in Use/The Four Crafts|The Working Trades]].*
 
 Most of the magic you will meet this week is small, and somebody is doing it with their hands for money. The hedge-worker at the fair will charm your ladder straight for two coppers. A ward-cutter will cut your doorstep against rats, and charge double if she dislikes your dog. Guild craftsmen shout their marks across the workshop and swear the contraption has never once gone off by itself. The lamp-wardens keep a street lit at a penny a lamp a night, and when they struck over the penny last winter all of Fish Row went to bed at sundown, with results the midwives are still remarking on. All of them can overcharge, and all of them can say no.
 
 ## One working, start to finish
 
-Wen Talley's Primary Trait is heat, carried from birth and first shown when he was a forge-boy who held a burning rafter off his brother and lived. From it he learned a technique, Hot Iron, which drives that law into whatever his hand strikes. In a tavern brawl he shouts it, **"HOT IRON!"**, and that is Spellcraft, spoken and paid for in the body. His fist glows the ember-orange of his aura; the man's jaw blisters where it lands, and the taproom smells of singed beard. The punch costs a sliver of his reserve, a few seconds of everything he has, and the heat runs back up his own arm, so after four or five he cannot close the hand. That is magic: a law from the soul, a learned shape, a craft that carries it, a price in reserve, and a limit the body feels.
+Wen Talley's Primary Trait is heat, carried from birth and first shown when he was a forge-boy who held a burning rafter off his brother and lived. From it he learned a technique, Hot Iron, which drives that law into whatever his hand strikes. In a tavern brawl he shouts it, **"HOT IRON!"**, spoken and paid for in the body. His fist glows the ember-orange of his aura; the man's jaw blisters where it lands, and the taproom smells of singed beard. The punch costs a sliver of his reserve, a few seconds of everything he has, and the heat runs back up his own arm, so after four or five he cannot close the hand. His soul has the report ready before the man hits the floor:
+
+```
+[Reserve: 96% ▓▓▓▓▓▓▓▓▓░]
+[Hit: right hand scorched by its own heat. Vitality 96%]
+[Skill: Brawling, D to C]
+```
+
+That is magic: a law from the soul, a learned shape, a skill that carries it, a price in reserve, and a limit the body feels.
 
 ## What it all costs
 
@@ -56,13 +101,37 @@ Reserve spent is gone until it is pulled back, by rest, from the ground, at a Co
 
 ![[Assets/Diagrams/stage-ladder.svg]]
 
-Each practitioner has eight main stats (Vitality for the body's endurance, Ardency for raw output, Gnosis for perception, Dexterity for speed, Harmonics for pulling power in, Resilience for withstanding it, Tempering for growth, Dominion for presence and authority). A Grade (a letter band on a stat's number: F, E, D, C, B, A, S and on to EX+) says how much force that stat delivers. When two people contest a thing, the Grade of the stat in use decides it. A one-Grade advantage wins that exchange; at two Grades the weaker side is overwhelmed; at three, their only aim is to survive. Inside the same Grade, skill, ground and the read decide.
+Each practitioner has eight main stats (Vitality for the body's endurance, Ardency for raw output, Gnosis for perception, Dexterity for speed, Harmonics for pulling power in, Resilience for withstanding it, Tempering for growth, Dominion for presence and authority). A Grade (a letter band on a stat's number: F, E, D, C, B, A, S and on to EX+) says how much force that stat delivers. When two people contest a thing, the Grade of the stat in use decides it. A one-Grade advantage wins that exchange; at two Grades the weaker side is overwhelmed; at three, their only aim is to survive. Inside the same Grade, skill, ground and the read decide. Your life spends most of your stat points by what you do with it, and a few are yours to place at each Stage.
 
-Level counts how often the Crystal has grown denser, and rises with real danger and effort. A Stage (one of sixteen steps of the soul's refinement, from Murmuring to Apex) is a full remaking of the Crystal, and it caps how high every stat can climb. Levels climb inside a Stage; a Stage is crossed only when two things are true: the practitioner has met its minimum power, and has gone through its Catalyst (the particular experience that Stage demands). *Read next: [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], then [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]].*
+Level counts how often the Crystal has grown denser, and it moves by danger overcome: killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill the way other people argue over a will. A Stage (one of sixteen steps of the soul's refinement, from Murmuring to Apex) is a full remaking of the Crystal. Tempering melts it down and rebuilds each layer, refines the Essence and makes it stronger, and the body gains Traits, and every stat's ceiling rises with it. Levels climb inside a Stage; a Stage is crossed when two things are true: the practitioner has met its minimum power, and something has supplied its Catalyst (the push that opens that particular remaking). *Read next: [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], then [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]].*
+
+## Aether Class
+
+From the Threshold into Stage VI, the remaking that brings a practitioner to Glory, the soul is offered a named class at its thresholds, one that fits how the person has lived. Ten years of holding a gate may bring Doorward; a life of running a crew's books under fire may bring Quartermaster. A class gives abilities, shapes growth and evolves at each tier by how it is lived, into forms some share with thousands and some hold alone. The one wild concept stays the person's own: the class is what the soul made of your life, and the concept is what you made of the class.
+
+The tier of a class is the old ladder: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute. That tier also reads how cleanly power passes out of a person through the Shell, which decides how much of what they spend arrives as effect and how much roars off as heat and noise. A Muridic fighter loses about a third of every spend, and you will hear her coming. *Read next: [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]].*
 
 ## How power grows
 
-Practitioners train by pulling at Wellspring sites or on rich ground, by sparring and real fights, and by seclusion before a Threshold (the moment of remaking). Three roads lead to a Catalyst: crisis in a fight, seclusion, and tribulation, when a Wellspring's Aether tests the practitioner directly. A breakthrough is a visible transformation; a failed one leaves slag (a remaking that set wrong). Most of this happens in schools, which run like football clubs, with colors, songs, grudges going back four generations and a fighting style you can spot at fifty paces, and you should think carefully before wearing the wrong sash into the wrong tavern. *Read next: [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]].*
+Practitioners train by pulling at Wellspring sites or on rich ground, by sparring and real fights, and by seclusion before a Threshold (the moment of remaking). The old roads to a Catalyst are crisis in a fight, seclusion, and tribulation, when a Wellspring's Aether tests the practitioner directly. A breakthrough is a visible transformation; a failed one leaves slag (a remaking that set wrong).
+
+There is also a road with a price list. Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy, and the great houses hoard the top Drafts to keep it that way. The poor rise by dungeon luck, guild patronage and blessings, and a commoner who has come up holding a monster core is the thing a great house fears most.
+
+A bought Stage opens the door and no more. A release (below) must still be found and mastered by fighting, and sects teach what money cannot buy: releases, Domains, techniques, skills and the rites for their Wellspring. A rich heir at Stage IX may have no release at all while a poor fighter at the same Stage has all three, and the brackets sell a great many tickets on that difference. Most of this happens in schools, which run like football clubs, with colors, songs, grudges going back four generations and a fighting style you can spot at fifty paces, and you should think carefully before wearing the wrong sash into the wrong tavern. *Read next: [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]], then [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]].*
+
+## Monsters, cores and dungeons
+
+Monsters live and move across the whole of the Inner World, and plain beasts range more widely still. The Scourge of Hell, a wasteland in the middle of the continent, is the one area known for extremely dangerous ones, and a bad spring anywhere will put something on your road. A monster gains Levels by killing, its own kind included, and changes form at its own thresholds. It sits on the same Level and Grade scale as you do, and a strong enough perception can read it, while a weak one gets question marks:
+
+```
+[Read: Marsh Drake · Level ??? · Flux ?? · Threat T4]
+```
+
+Monsters are graded T1 to T9 on the same Threat Tier as the Accord's Commissions (its hunting contracts), and a famous one earns a name, an epithet and a bounty. Its hide, bone and scale make gear. Its core is what the crew came for.
+
+A monster's core is in a way its Soul Crystal, worth more the stronger the monster. An alchemist renders it into Essence Drafts used for tempering, at the risk of Identity Contamination (the beast's appetites coming along with its power). Swallowed raw, it gives everything at once, and most who try it die or come out wrong, and people keep trying it because the alternative is being poor. A Crystal cut from a dead practitioner makes the strongest Draft of all, which is the worst crime in every realm and the most profitable, and the reason the alchemists' top class of stock has never balanced its books.
+
+Most cores of the other kind, the Wellspring Cores, lie at the bottom of dungeons. A dungeon grows down in floors around its Core, more dangerous as you go, with something at the heart guarding it. Kill that and the place is cleared; leave it and it grows. It is alive and learning: it moves its galleries, breeds what kills crews best and pays attention to who keeps coming back, and scholars argue whether it thinks. *Read next: [[The Bestiary/Dungeons|Dungeons]], then [[The Bestiary/The Bestiary|The Bestiary]].*
 
 ## Reinforcement
 
@@ -72,20 +141,50 @@ The coat is the most famous art in the world, and nobody can agree what to call 
 
 ## Drafts, runes and tags
 
-A Draft (a working poured into a substance and bottled) is how most of the world touches magic. Advancement Drafts can bring a soul up to a Stage's minimum and help it set cleanly, but no Draft has ever supplied a Catalyst. Fight Drafts are drunk mid-fight: each costs a beat, refills reserve, and leaves a crash. Each Draft is graded by the Stage it serves, and the price climbs about threefold a Stage. *Read next: [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]].*
+A Draft (a working poured into a substance and bottled) is how most of the world touches magic. Advancement Drafts bring a soul up to a Stage's minimum and help it set cleanly, and the best of them supply the Catalyst as well. Essence Drafts, most of them rendered from monster cores, feed the tempering itself. Fight Drafts are drunk mid-fight: each costs a beat, refills reserve, and leaves a crash. Each Draft is graded by the Stage it serves, the price climbs about threefold a Stage, and counterfeits are common. *Read next: [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]].*
 
 Cheap runed gear is everywhere; the great pieces are old and cannot be made again, and people kill for the ones that came off the battlefields of the Great Spirit War. Fighters carry prepared tags (short workings cut on paper, hide or foil, set off with a touch), and a few bond a weapon over years until it takes part in their release. Runes cut into a living body are a rare and dangerous art. *Read next: [[The Magic System/Power in Use/Runes and Tags|Runes and Tags]].*
 
+## Gear: Grade and Rarity
+
+An item carries two ratings. Grade says how much power it has, on the same letters as a fighter's stats. Rarity says how scarce it is: Common, Uncommon, Rare, Very Rare, Legendary, Mythic, Unique. The old words you will still see punched into metal (Marked, Proofed, Tempered, Instrument, Hallowed, Storied, Found, Numinous, Proscribed) survive as the Accord's stamps. An Appraisal skill and an assay instrument read an item, and a good forger beats a weak appraiser, which has paid for several very fine houses. Monster parts make the best gear going. A bonded piece grows with its owner, and everyone else's stays what it is.
+
+A Master Work does what its Grade and material should not be able to. It is made once, at the end of a lifetime, always Unique or Mythic, and named, and each area of the world and each trade has its own. A Draft can be one: a Fate Essence Draft is extremely hard to make, and there are people who would burn a city for a single dose. *Read next: [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]].*
+
+## The Guild Accord and its nine titles
+
+The Guild Accord is a coalition of many kinds of guild across many nations: adventurers, merchants, craftsmen, alchemists, healers, couriers and more. Halls sign on for shared rank, enforceable contracts and passage, and the crowns tolerate it and fear it. Its nine titles are the same in every guild: Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon. A title grades trust in that trade. A merchant may deal up to it, and it caps the Rarity he may sell. A craftsman may make up to it, and it caps the Grade she may forge. An adventurer may take Commissions up to the same Threat Tier. Fighting guilds keep the Stage table as their yardstick, and a Grandmaster merchant may not be able to throw a punch. The title travels on a silver token, and forging one is a great crime, which tells you how many forgers there are. *Read next: [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title]], then [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord|The Guild Accord]].*
+
 ## Auras and Pressure
 
-Every practitioner's aura shows in their own color: the hue of their Family (the branch of physics their power works: Caloria ember-orange for heat, Fulguria arc-blue for lightning, and six more) at the clarity of their Stage, brightening as they push. Pressure (the weight a stronger soul puts on a room) is felt first in the room, then in bodies: one Stage up bends attention, two brings sweat and nausea, three drops people where they stand.
+Every practitioner's aura shows in their own color. Their Family (the branch of physics their power works: Caloria ember-orange for heat, Fulguria arc-blue for lightning, and six more) sets the base hue at the clarity of their Stage, brightening as they push. A Wellspring adds texture and sound, and a class or a big Trait adds a shape. Pressure (the weight a stronger soul puts on a room) is felt first in the room, then in bodies: one Stage up bends attention, two brings sweat and nausea, three drops people where they stand. Only then does the window report it, as a line telling you what it has taken from you. A Grandmaster merchant with no fighting Stage has no Pressure at all, whatever his token says.
 
-Pressure and sensing (reading another soul's strength without using your eyes) are shared arts as famous as the coat, and the arguments about them have ended friendships and at least one marriage. A tavern in the south says a man is leaning on the room; Kharven call it the low sky; the Moto call it *atsu*, the press; the lineage halls say *wēiyā*, awe pressing down, and teach it as manners. For sensing, Kharven ask if you can smell a man's stack, the Moto speak of *kehai*, the sign of someone there, and the Mahuo say *nunchi*, which their grandmothers also use for knowing when to leave the table. *Read next: [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]].*
+Pressure and sensing (reading another soul's strength without using your eyes) are shared arts as famous as the coat, and the arguments about them have ended friendships and at least one marriage. A tavern in the south says a man is leaning on the room; Kharven call it the low sky; the Moto call it *atsu*, the press; the lineage halls say *wēiyā*, awe pressing down, and teach it as manners. For sensing, Kharven ask if you can smell a man's stack, the Moto speak of *kehai*, the sign of someone there, and the Mahuo say *nunchi*, which their grandmothers also use for knowing when to leave the table. The law under the argument is short. A stronger Gnosis Perception reads a weaker Resilience Ward, and your window prints what it found. Everything else is an estimate said aloud, and people can hide it or fake it. *Read next: [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]].*
 
 ## Releases and Domains
 
 ![[Assets/Diagrams/release-forms.svg]]
 
-A release (a practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold) is a full transformation: the body changes, the aura flares, a sound comes, and power rises. The First Release opens no earlier than Stage IV, the Second at VII, and the Third at IX. A fighter may call one aloud for the full rise or go silent for a weaker one. Every release runs on a clock and ends on its own when the reserve runs low. *Read next: [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]].*
+A release (a practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold) is a full transformation: the body changes, the aura flares, a sound comes, and power rises. The First Release opens no earlier than Stage IV, the Second at VII, and the Third at IX, and each must be found and mastered by fighting, whatever the Stage cost. A fighter may call one aloud for the full rise or go silent for a weaker one. Every release runs on a clock and ends on its own when the reserve runs low. When it is called the window fills, and a timer bar starts to drain:
 
-A Domain (a space where a practitioner's inner law outranks the world's) first appears as a fragile seed at Stage VII and stands as a true Domain from Stage VIII. The Second Release opens it and powers it, and it forms as it is named. Trait, release and Domain are one idea escalating: the idea, then the body transformed by it, then the world obeying it. When two Domains or two Pressures meet, Dominion decides who holds the room, and a sharp read can flip it. *Read next: [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], Domains.*
+```
+[FIRST RELEASE: KILN SKIN]
+[Blows carry forge heat. Heat workings strike at the top of their Grade.]
+[Timer ▓▓▓▓▓▓▓▓▓▓]
+```
+
+All boosts together stack to two Grades over what a fighter can sustain, and only outside help goes past that. *Read next: [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]].*
+
+A Domain (a space where a practitioner's inner law outranks the world's) first appears as a fragile seed at Stage VII and stands as a true Domain from Stage VIII. Anyone at Stage VIII can have one, their own concept made real, and fame, rivalries and bounties follow it. The Second Release opens it and powers it, so a person who bought the Stage must go and find that release first, and it forms as it is named. Trait, release and Domain are one idea escalating: the idea, then the body transformed by it, then the world obeying it. When two Domains or two Pressures meet, Dominion decides who holds the room, and a sharp read can flip it. *Read next: [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], Domains.*
+
+## Fate and blessings
+
+The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself. Attraction Force is what makes a name, a vow or a bond take hold in the world; Obsession Force is the same current when it refuses to let go. To work Fate is to manipulate probabilities: to reach outside what reality already knows and control the fate, the predestiny, of something, and all spirits and all physical things have fates to control. It can attach to oaths and is more closely tied to blessings. Real Fate Arts are rare and mostly run in bloodlines, some high-Stage masters reach them late along the Fate Path, and everyone else touches Fate through a blessing or a Master Work Draft. They are considered incredibly overpowered, and people who hold them tend to be invited to things.
+
+A blessing grants a power out of a person's natural reach, even in Level. It need not go through Fate, though most do. Higher spirits, Archons, Epochs and people of higher Temperance give them, because they are spiritually stronger, and a great giver spends almost nothing doing it. Lesser spirits and high-Stage people give most of the world's blessings; Epochs and Archons act rarely, and when they do it shakes the world. A blessing shows on the sheet as its own line, and that line can lie, because the giver wrote it:
+
+```
+[Blessing: The Road Remembers You]
+```
+
+A curse is often a blessing with terms you did not read, or from a giver who does not care what you want, and nobody can tell at first, and some are both. Those who hold Hataraki, the Moto's governing power, can take a blessing back or remove it, which is one of the reasons people are so afraid of them. *Read next: [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]], then [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]].*

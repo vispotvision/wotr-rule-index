@@ -29,11 +29,44 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 | Layer | What it is |
 |---|---|
 | **The Generative Layer** | Family → Affinity → Method → Ability → Technique. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
-| **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Aether Class (how much power survives the trip out through the Shell), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work). **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document or a private count; its names may stand in any sentence*** |
+| **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Aether Class (the named class a soul is offered at its thresholds, whose tier on the old ladder sets how much power survives the trip out through the Shell), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work). **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document, a private count or the bearer's own window; its names may stand in any sentence*** |
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
 >
-> *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behavior and physics. What the numbers do is make sure the behavior was earned.*
+> *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behavior and physics, and the window right after it. What the numbers do is make sure the behavior was earned.*
+
+---
+
+## The Sheet, the Class and the Climb
+
+*The accounting layer as it looks from inside the person carrying it.*
+
+**The window.** The Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner, in their own tongue, unseen by anyone else. Write them often and in detail, fights included, for damage, skill gains and reserve. Each sits on the page as its own text block, following the blow it reports, and the prose around it stays body first. It shows Grades, percentages, bars and levels. EU, AU/s and η stay in the notes.
+
+```
+[Reserve: 41%  ████░░░░░░]
+[Cracked rib, left side. Breath short.]
+[Skill risen: Haggling, Grade D]
+```
+
+A called Release or Domain fills the window with its name and what changed, and a timer bar drains. Pressure is felt in the room first, and then the window reports it. At a table or on Discord, windows are plain text blocks, and a player's gains are offered as window lines they keep or change.
+
+| On the sheet | How it moves | What to do with it |
+|---|---|---|
+| **Eight Primaries**, with Grades | Life spends most stat points by what the person does; a few are theirs to place at each Stage | This is what a normal look shows. **Ask what the life has been, and the spread follows** |
+| **Sub-Stats** | Appear when used or when they move | The full set remains to study. Show one the moment it matters |
+| **Level** | Danger overcome. Killing something stronger moves it more than a hundred weak kills | *Crews argue over who got the kill. Write the argument* |
+| **Race and lineage** | Fixed, and on the line | They shape base stats, what comes easily, and which classes and Wellsprings suit |
+| **Aether Class** | Offered at thresholds, fitting how the person has lived. Evolves at each tier by how it is lived | Gives abilities and shapes growth. The old ladder, Ø Dormant through Ω Absolute, is its tier, and every η law stands. **The one wild concept stays the person's own; no class hands it out** |
+| **Skills**, as Grades | Rise with use | Drafts, runes, tags and chants are skills anyone can level. *A guild's title says how far the hall trusts the skill* |
+| **Traits**, with levels | Rise with use, grow with overall Level and skill | The Four Reflections and their laws are untouched; a Trait can be leveled and refined like a skill |
+| **Techniques** | Show no level. Take a bigger name when they jump | **A technique is a named thing done with a skill.** The old name stays in use |
+| **Blessings** | Their own line, written by the giver | **The line can lie.** A curse is often a blessing with terms nobody read |
+| **Vows and crew bonds** | A vow shows its bargain and terms; a real bond shows as a line, with the crew's bars | Earned in play, and a broken one shows at once |
+
+**The climb and the purse.** Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings. A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring. *When a character's Stage is higher than their fighting, that gap is a scene, and usually a funny one until it is not.*
+
+**Reading anyone else.** A stronger Gnosis Perception reads a weaker Resilience Ward. Everything else is an estimate said aloud, and people can hide or fake it, which gives every fighter on the page a reason to lie about their numbers and every opponent a reason to test them.
 
 ---
 
@@ -43,7 +76,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 >
 > **These are never invented inside a scene.** *If a fight appears to require a new Ability, the fight is wrong, or the scene stops and the Ability is pitched properly.*
 >
-> **Techniques** are moves: a specific repeatable application within an Ability already established. **These may be invented at speed, mid-scene, without stopping**, provided they are built through the Forge and logged afterward.
+> **Techniques** are moves: a specific repeatable application within an Ability already established, a named thing done with a skill. **These may be invented at speed, mid-scene, without stopping**, provided they are built through the Forge and logged afterward.
 >
 > ***Invent freely downward, never upward. A new Technique under a known Ability is craft. A new Ability under a known character is a canon decision wearing a technique's coat.***
 
@@ -112,7 +145,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 | **Sanity** | A large lever. **Sparingly** |
 | **Memory** | Trading recall for capability. **Underused across the whole cast, and it fits the Anima Spirare register exactly** |
 | **Time** | Cast duration, cooldown, or lifespan spent |
-| **Social and legal** | Accord sanction, Concord Seal, exile. ***There is an entire enforcement apparatus built and it is doing almost no work*** |
+| **Social and legal** | A hall that will not sign with you, Concord Seal, exile. ***Every guild on the Accord can refuse your coin and your contract, and that is doing almost no work*** |
 | **Escalating dependency** | The addiction structure. **The best long-arc dread engine available**, *because the reader can see the bill coming and cannot stop it* |
 | **Rigidity** | **The newest category and the one nobody else is using.** A technique repeated enough deepens the Trait it comes out of, and **the Rigidity Effect scales with how absolute a law is.** The practitioner keeps all his strength and becomes less able to contradict the thing he built his power on, in his life as well as in a fight. *The cost is paid in what he can no longer be talked out of, and it is visible at a table long before it is visible in a duel* |
 
@@ -124,14 +157,14 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 
 **A practitioner may bind a technique under a stated condition, sworn into the Lattice or into their own Crystal. The narrower the condition and the heavier the forfeiture, the greater the output.**
 > *"Against those who deserve it" buys nothing. "Only against the Zettari, and if I break it my Crystal shatters" is a vow.*
-**Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts.
+**Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behavior.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts. A vow is small Fate, a person binding their own probability, and anyone can make one: spoken, it shows in the window with the bargain and its terms, and breaking it lands at once.
 
 **Why it kills.** A vow broken is a **Shear Break**. The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. The orders treat a lapsed vow as a medical emergency and get to the disciplinary question later, if there is one.
 > **The disclosure variant is the useful one.** Stating a technique's true mechanism aloud, in the target's hearing, before use, **surrenders every advantage of surprise and increases output accordingly.**
 >
 > ***This is the best structural justification for a villain's monologue ever devised and the Continuum should take it.***
 **What the clause buys is an answer to power creep. A character becomes dramatically stronger by narrowing rather than escalating.**
-> *Cozbi at Stage XIV has no use for a larger number. What would change him is a vow the reader can watch him keep, and his refusal to take one is presently the most interesting unexploited thing about him.*
+> *A Stage XIV fighter has no use for a larger number. What would change him is a vow the reader can watch him keep.*
 
 ---
 
@@ -167,7 +200,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 ## The Blank Card
 
 *Copy, fill, log. Fields marked † are mandatory for anything that will later resolve a conflict.*
-> **Name** · **Ability / Root Phenomenon** · **Trigger †** · **Function †** · **Verb** · **Rate** · **Mechanism †** · **Numerical Effect** · **Target Response** · **Limitation †** · **Weakness** · **Cost †** · **Vow** · **Counterplay †** · **Codex Stamp †** · **First Display †** · **Sensory Description**
+> **Name** · **Ability / Root Phenomenon** · **Skill It Rides** · **Trigger †** · **Function †** · **Verb** · **Rate** · **Mechanism †** · **Numerical Effect** · **Target Response** · **Limitation †** · **Weakness** · **Cost †** · **Vow** · **Counterplay †** · **Codex Stamp †** · **First Display †** · **Window Line** · **Sensory Description**
 >
 > **Cross-reference.** This card is the workbook form and carries more than any single scene will use. **Mechanism is prose-legal and belongs on the page**: the phenomenon, the law being conditioned, the fault that falls out of it. What stays in the workbook is the form itself, the Codex stamp, and the arithmetic.
 >

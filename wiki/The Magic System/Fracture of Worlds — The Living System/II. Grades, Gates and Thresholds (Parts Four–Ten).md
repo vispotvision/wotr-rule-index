@@ -25,7 +25,7 @@ The table below measures a **Sub-Stat's** raw value, and the Temperance ceiling 
 
 A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totaling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads, and a contested exchange is decided by the Grade of the Sub-Stat actually in use. See I. Levels, Experience and Stat Points for the point economy.
 
-Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets.
+Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets. The owner's window reads in these letters, and the raw value stays for study.
 
 A Primary is dragged down by its neglected entries as hard as it is lifted by its favorites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak.
 
@@ -81,7 +81,7 @@ Temperance Stage functions as a hard ceiling on every Sub-Stat in the system, an
 
 The Max Grade column binds allocation: a Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket. At Stages V, VII, IX and XI the Sub-Stat ceiling sits above that bracket, and the band between them, 276 to 350, 401 to 475, 551 to 625, 726 to 750, is the instability zone, reachable only under strain, never by allocation.
 
-Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed.
+Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed. This is a stat dragged past a Threshold nobody has crossed. A Draft or a blessing that supplies the Catalyst crosses the Threshold itself, and Part Eight sets out the terms.
 
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ Forced advancement past Temperance gates is not impossible, but it is catastroph
 | XVI | Apex | uncapped | none beneath Apotheosis | 9 · Paragon |
 
 Stage XIII is the First World Spirit threshold. Stage XIV is Full World Spirit, the furthest reach of canonical mortal coherence. Stage XV is Archon-participant territory.
-> **The Tier of Standing column is the Accord's public ladder**, not a second measurement. It replaces the former lettered Coherence Bands, which shared their letters with the Grade table and stopped at Zenith. The nine Tiers reach Revelation and Apex. Efficiency (η) still runs underneath them as the diagnostic axis, and two practitioners at the same Tier with different η are the same rank and not the same problem. Full treatment in **The Standing and the Title — The Three Names**.
+> **The Tier of Standing column is the fighting guilds' yardstick.** The Guild Accord is a coalition of many kinds of guild across many nations, and its nine titles, Initiate through Paragon, are the same in all of them, grading trust in that trade: a merchant may deal up to his title, a craftsman make up to hers, an adventurer take commissions up to the same Threat Tier. Fighting guilds, adventurers' guilds included, read the title off this table, so a fighter's title also says how dangerous they are, and a Grandmaster merchant may not be able to throw a punch. The column replaces the former lettered Coherence Bands, which shared their letters with the Grade table and stopped at Zenith. The nine Tiers reach Revelation and Apex. Efficiency (η) still runs underneath them as the diagnostic axis, and two practitioners at the same Tier with different η are the same rank and not the same problem. Full treatment in **The Standing and the Title — The Three Names**.
 >
-> **Hollow and F confer no rank.** The ladder starts at Initiate because the Accord does not register what it cannot examine.
+> **Hollow and F confer no rank.** On a fighting roll the ladder starts at Initiate because the Accord does not register what it cannot examine.
 **Dissonance, Stage XI, carries unique behavior.** Characters who pass through Dissonance rather than becoming trapped within it reach Stage XII with stats that are fractured but denser than the clean advancement path would produce. Certain Sub-Stats, particularly **Overflow, Overchannel and Persistence**, can only reach their true ceiling in a character who has passed through Dissonance. The fractures are not damage. They are architectural features. Emanation, Stage XII, is where those fractures become features that radiate outward.
 
 ## Part Six — Speed by Grade and Level
@@ -176,11 +176,13 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 ## Part Eight — Temperance Threshold Events
 
-Thresholds are not achieved by accumulating enough experience. They are triggered by two factors: the Soul Crystal must have reached sufficient pressure within the current stage, a quantitative floor; and a **Catalyst Condition** must have been met, a specific quality of experience the Crystal requires before it will authorize the transition.
+Thresholds are not achieved by accumulating enough experience. They are triggered by two factors: the Soul Crystal must have reached sufficient pressure within the current stage, a quantitative floor; and a **Catalyst Condition** must have been met, a specific quality of experience the Crystal requires before it will authorize the transition, or else the Catalyst must be supplied from outside.
 
-A character can be quantitatively eligible for months of in-world time and never pass a Threshold because the Catalyst has not occurred. The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy. The road to the Catalyst differs: some meet it in crisis, some work toward it in seclusion, some are driven to it by tribulation, and most by a mixture of the three.
+A character can be quantitatively eligible for months of in-world time and never pass a Threshold because the Catalyst has not occurred. The road to the Catalyst differs: some meet it in crisis, some work toward it in seclusion, some are driven to it by tribulation, and most by a mixture of the three.
 
-Stage I counts as a Threshold worth 100 points. Every practitioner starts with it. The events below are the transitions, and each grants the Stage number multiplied by 100 on the terms of Part Three.
+**The fourth road is money.** A Draft or a blessing can supply a Catalyst, and it simply works, so Stages can be bought, and the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts. The poor rise by dungeon luck, guild patronage and blessings, and a blessing may carry a person further than any of those, since it grants a power out of their natural reach, even in Level. **A bought Stage opens the door and no more.** The ceiling lifts, and nothing the events below would have taught comes with it. A Release must still be found and mastered by fighting, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. Veterans will tell you they can feel a bought Stage inside two exchanges, and they say so at the top of their lungs, usually to the person who bought it.
+
+Stage I counts as a Threshold worth 100 points. Every practitioner starts with it. The events below are the transitions as a soul lives them, and each grants the Stage number multiplied by 100 on the terms of Part Three, whichever way the Catalyst arrived.
 
 **I to II, Welling.** First genuine contact with a Wellspring's Aether under personal pressure, not observed, not instructed, but touched and survived.
 
@@ -237,4 +239,4 @@ The System has two structural enemies: grinding and stagnation. Both are penaliz
 
 **Stagnation** is countered by **Residual Strain** accumulation. Every fifty levels spent above a Band ceiling without passing the required Temperance Threshold imposes a five percent penalty to all XP gains and a two percent increase to all Overchannel and Backlash risk values. This pressure builds continuously.
 
-It dissolves entirely the moment the Threshold is passed. On dissolution the character receives a **Strain Release Bonus** equal to thirty percent of all XP accumulated during the stagnation period, delivered as a single Resonant Surge. The System is not punishing patience. It is representing the physical truth of a soul carrying the weight of what it has already earned but not yet integrated. That weight has texture. That texture eventually becomes pain. And then, if the character meets the Catalyst Condition, it becomes power.
+It dissolves entirely the moment the Threshold is passed. On dissolution the character receives a **Strain Release Bonus** equal to thirty percent of all XP accumulated during the stagnation period, delivered as a single Resonant Surge. The System is not punishing patience. It is representing the physical truth of a soul carrying the weight of what it has already earned but not yet integrated. That weight has texture. That texture eventually becomes pain. And then, when the character meets the Catalyst Condition or can afford someone who bottled it, it becomes power.

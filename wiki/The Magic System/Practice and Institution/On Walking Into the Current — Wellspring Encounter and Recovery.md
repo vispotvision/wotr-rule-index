@@ -24,7 +24,9 @@ Surveyor-Major Osric Tallant of the Chainward service was explaining the correct
 >
 > *A warning to the confident reader. Confidence is a Spirit-type early symptom. If you are reading this document and feel certain you would recognize the onset, you are describing exactly the state in which surveyors fail to recognize it.*
 
-*A note on words, for the new reader.* Aether comes in sixty different types that affect the Soul Crystal differently, and those types are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations. A concentration is a place where one of them pools, thick enough to act on whoever is standing in it, and surveyors call the way it moves through such a place the current. Rich ground fills a practitioner faster, and this page is what happens when the ground is richer than you are.
+*A note on words, for the new reader.* A Wellspring represents an alchemical and a spiritual transformation: it is the governing idea that changes how a soul uses Aether, a lens set on magic already potent, and the scholars' account of it is sixty different types of Aether that affect the Soul Crystal (the soul itself) differently. A concentration is a place where one of them pools, thick enough to act on whoever is standing in it, and surveyors call the way it moves through such a place the current. Rich ground fills a practitioner faster, and this page is what happens when the ground is richer than you are. Most concentrations of any size have a [[The Bestiary/Dungeons|dungeon]] around them or will shortly, and monsters move across the whole Inner World, so an encounter in the field rarely stays the only thing happening to you.
+
+*A harmonization caught by accident is as real as one got at a school's rites, out of a Draft, from a blessing or by birth.* It starts small, like any of them, and reaches its full effect on a person's natural Essence Typology only with years of mastery. Surveyors who come out convinced they have doubled overnight are running a Spirit-type symptom.
 
 ---
 
@@ -91,7 +93,7 @@ The stream is flowing the wrong direction **and** childhood memories are surfaci
 - **Echo Beast manifestation:** **the concentration's consequence, rather than its product.** *Unprocessed grief, rage and trauma given temporary autonomous form by the inter-planar conditions the concentration has created.*
 
 **Wellspring Core · law replacement.**
-> *A warning about the word. In common speech any worked site is a Core, and porters will tell you cheerfully that they have sat beside a dozen. On this register a Wellspring Core means the innermost and densest class of concentration, and the two usages have killed people who heard the wrong one.*
+> *A warning about the word. In common speech any worked site is a Core, meaning a dungeon somebody cleared and now holds, and porters will tell you cheerfully that they have sat beside a dozen. On this register a Wellspring Core means the innermost and densest class of concentration, and the two usages have killed people who heard the wrong one.*
 >
 > Everything inside the Core obeys the Wellspring's law, **including the surveyor**, and their previous architecture persists only as a structural memory **that the Core's law is not interested in consulting.**
 >

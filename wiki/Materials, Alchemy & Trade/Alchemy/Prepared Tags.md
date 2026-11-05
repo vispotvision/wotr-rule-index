@@ -18,9 +18,9 @@ That funeral is a working knowledge of tags, delivered at volume. What a tag is,
 
 ## What it is
 
-A **tag** (a *slap* or a *strip* in any tavern with fighters in it) is Runecraft (the cutting: a working written into a material so that it holds without its maker) cut fast onto **paper, leather or slate**, carried in a sleeve, a belt or a boot, and fired in a single beat. A wall needs a season because it has to stand for centuries. A tag needs an hour because it only has to stand until it is used, and its last line is its own burning: when the tag is spent the material is ash, and the working ends with it.
+A **tag** (a *slap* or a *strip* in any tavern with fighters in it) is a rune (a working written into a material so that it holds without its maker) cut fast onto **paper, leather or slate**, carried in a sleeve, a belt or a boot, and fired in a single beat. A wall needs a season because it has to stand for centuries. A tag needs an hour because it only has to stand until it is used, and its last line is its own burning: when the tag is spent the material is ash, and the working ends with it. Cutting is a skill and a trade like any other. Anyone with a steady hand and a teacher can level it, it shows on the cutter's window (the soul reporting its numbers to its owner, unseen by anyone else) as a Grade, and a cutter's guild title caps what they may lawfully sell under their mark.
 
-**Only practitioners can fire a tag.** The trigger is a touch of the user's own Essence (the stuff a working is made of) through a woken Soul Crystal (the seat of a practitioner's power), with a word or a hand sign. An unwoken hand holding a tag is holding paper.
+**Only practitioners can fire a tag.** The trigger is a touch of the user's own Essence (the stuff a working is made of) through a woken Soul Crystal (the soul itself, opened for use), with a word or a hand sign. An unwoken hand holding a tag is holding paper.
 
 A tag is also why low-Stage fighters love them. Below Refraction (Stage VII, the seventh rung of the sixteen-step ladder of power) every working needs something outside the body to hold its shape: a voice, a hand, ink or blood. **A tag is that ink, already written.** The user supplies the trigger and the tag supplies the rest.
 

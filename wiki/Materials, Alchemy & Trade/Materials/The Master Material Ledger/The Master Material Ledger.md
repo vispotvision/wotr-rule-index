@@ -37,6 +37,8 @@ This is the dullest book the Guild of Measurewrights (the assayers and scholars 
 | **T9** | Transcendent / Forbidden | **Acts on the law rather than within it.** Proscribed. Nullifies or rewrites | Obsidian Seal, Paragon | Crevice Shale; Nullglass; Ash of Names |
 
 > **Every T8 and T9 entry in the register is Holding-grade.** There is no transcendent building material, and the absence is structural rather than accidental: **at T8 and above the material stops being something you build with and becomes something that acts.**
+>
+> **A material's tier is what it can hold, and a finished piece carries two more marks of its own:** a Grade for power, on the fighters' letters, and a Rarity for scarcity, Common through Unique. The smith's title caps the Grade she may make and the merchant's title caps the Rarity he may sell. See [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]].
 
 ---
 
@@ -92,15 +94,15 @@ One inference is recorded and marked as such. **Silver's Resonance** is given as
 
 *The register's oldest arithmetic problem, stated plainly for once.*
 
-**Class IV, Crystal Draw**, is material rendered from something that carried a Soul Crystal. The Bench recognizes three lawful sources. **The volume in circulation has never matched what those three can account for**, and the discrepancy has been carried in the Bench's own returns for as long as the returns have existed.
+**Class IV, Crystal Draw**, is material rendered from something that carried a Soul Crystal. The lawful article is a monster's core, which is in a way its Soul Crystal and is worth more the stronger the monster, and the Bench keeps three old warrants for the Trait tissue of the human dead. **The volume in circulation has never matched what those sources can account for**, and the discrepancy has been carried in the Bench's own returns for as long as the returns have existed.
 
 The Measurewrights' position is that the gap is a recording failure. It is a supply.
-> **Extraction produces Class IV material as a by-product and engine work produces it at volume.** An operator pulling Essence off a donor renders nothing on purpose; the residue simply accumulates, and it is indistinguishable on the coil from lawfully rendered stock **because the process that made it was the same process, performed without a warrant.**
+> **A Crystal cut from a dead practitioner renders into the strongest Draft of all. It is the worst crime in every realm and the most profitable, and most of the gap is this, sold on as monster core.** Below it, extraction produces Class IV material as a by-product and engine work produces it at volume. An operator pulling Essence off a donor renders nothing on purpose; the residue simply accumulates, and it is indistinguishable on the coil from lawfully rendered stock **because the process that made it was the same process, performed without a warrant.**
 >
 > *This is why the arithmetic will not balance and cannot be made to. The missing tonnage has no lawful source because it had no lawful origin, and every factor between the operator and the bench is buying in good faith from somebody who is also buying in good faith.*
 **The three tells**, which the better houses check and the rest do not.
 
-**Residue that does not disperse** on the finished stock. Lawful rendering leaves a trace that thins on schedule. Class IV taken out of an unsealed operation carries a residue that holds, because the operation it came from never closed.
+**Residue that does not disperse** on the finished stock. Lawful rendering leaves a trace that thins on schedule. Class IV taken out of a cut Crystal or an unsealed operation carries a residue that holds, because the operation it came from never closed.
 
 **Instrument disagreement.** The coil reads a Holding figure, the assay fork reads a density, and on unlawful stock the two do not reconcile. **The discrepancy is the size of what was taken.** Two instruments and somebody willing to compare them is the whole of the test and most benches own one instrument.
 

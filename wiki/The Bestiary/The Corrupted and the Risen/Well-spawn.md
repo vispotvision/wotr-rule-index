@@ -10,7 +10,7 @@ So they ran. Yellow hoods and red aprons went out through the Mask Night crowd w
 
 The hall paid nothing, as halls do. The Margrave's bill had said "the plate" and said nothing of color, so the two crews took him before a sworn notary and then took each other, and the suit outlived the Margrave, Bracken and the notary. The shards were split at last, and one hangs over the door of each hall, gray as dishwater. Pennyhythe runs the race every Mask Night now, with a sack of painted tiles, and the winning child is called Tib. Everything that happened that night is on this page: why the plate carries color, why it fades, why a clerk will not pay on gray, and how anyone gets near enough to break one.
 
-> A Wellspring is one of the sixty kinds of Aether, each working on the Soul Crystal in its own way, each a source of power and also an alchemical principle and a spiritual transformation. A Wellspring has sites where its Aether pools, which common speech calls Cores, and a Well (the delvers' word for a Core Concentration, the survey's name for such a site run deep) is ground where one of the sixty lies thick enough to rewrite whatever lives in it. A Well breeds, and **what it breeds wears its Well on its face.** Delvers call them the Well's get. Hunters call them masks, because the mask is what they are paid on and the mask is where they aim.
+> A Wellspring is an alchemical and a spiritual transformation, one of sixty, the governing idea that shapes how a soul uses Aether, and each is also a kind of Aether working on the Soul Crystal in its own way. A Wellspring has sites where its Aether pools, which common speech calls Cores, and a Well (the delvers' word for a Core Concentration, the survey's name for such a site run deep) is ground where one of the sixty lies thick enough to rewrite whatever lives in it. A Well breeds, and **what it breeds wears its Well on its face.** Delvers call them the Well's get. Hunters call them masks, because the mask is what they are paid on and the mask is where they aim. Most Wells lie inside dungeons, and the galleries, the crews and the bills are on [[The Bestiary/Dungeons|Dungeons]].
 
 ---
 
@@ -42,7 +42,7 @@ Edda Marsh, a licensed captain with a party of five crossbowmen and a porter, ta
 
 **The mask is the law made solid.** A practitioner's working is bounded by its glyph, the shape that tells the Essence where to stop. A Well-spawn's body is bounded by its mask. The plate grows over the face in the first season of life, and everything the creature can do is held inside the boundary it draws. **Kill the body and the mask still reads as its Family for a day or two. Break the mask and the body has no law left to keep it in shape**, and goes back to being ordinary meat.
 
-**Only the Well-born are spawn.** An animal that wandered onto dense ground and stayed too long comes out strange, short-lived and unable to breed true. The register enters it with the Natural Beasts, or with the Aberrations if corruption made it, and it wears no mask. **Aether-warped beasts, Spirit Beasts, the corrupted lineages and summoned things all keep their own pages.** A mask means a Well, every time.
+**Only the Well-born are spawn.** An animal that wandered onto dense ground and stayed too long comes out strange, short-lived and unable to breed true. The register enters it with the Natural Beasts, or with the Aberrations if corruption made it, and it wears no mask. The Scourge-born herds of the Scourge of Hell are the one exception on file: warped so long ago that they breed true, still with no mask, and they sit with the Natural Beasts under protest. **Aether-warped beasts, Spirit Beasts, the corrupted lineages and summoned things all keep their own pages.** A mask means a Well, every time.
 
 **A Well worked hard breeds more, not fewer.** Hard pulling thins the ground at the face and brings the spawn up the workings after it, and a Well corrupted into Obsession Force (a site that takes from whatever enters it, compatible or not) breeds lines that hunt rather than follow.
 
@@ -79,7 +79,7 @@ Edda Marsh, a licensed captain with a party of five crossbowmen and a porter, ta
 
 ## Ranked by Depth
 
-A Well has depth. Its ground thickens from the mouth down to the heart, and each band of it is a rung on the sites ladder (the register's scale of how strong a person must be to stand on dense ground and stay themselves). **A spawn's power is set by the ground that bred it, and it is read on the same Grade ladder as a person's.** A **Grade** is a band of peak output in joules, from Hollow and F at the bottom to EX+ at the top; a person's **Tier of Standing** (the nine ranks of practitioner, Initiate to Paragon) is a set of Grades.
+A Well has depth. Its ground thickens from the mouth down to the heart, and each band of it is a rung on the sites ladder (the register's scale of how strong a person must be to stand on dense ground and stay themselves). **A spawn's power starts from the ground that bred it, and it is read on the same Level and Grade ladder as a person's.** A **Grade** is a band of peak output in joules, from Hollow and F at the bottom to EX+ at the top; a person's **Tier of Standing** (the nine ranks of practitioner, Initiate to Paragon) is a set of Grades. Like any monster a spawn gains Levels by killing, each other included, and an old one climbs off its depth and may change form at its own thresholds. The table below reads what a depth breeds, and a mask brighter than its depth is the warning that this one has been eating.
 
 On the Bestiary's own ladder a creature stands on a **rung** (nine steps of what it can break, from Hearth-pest through Field-bane, Road-bane, Hamlet-bane and Town-bane up to Sky-eater), and each rung matches a Grade. The Accord prices the same creature as a **Commission Tier** (its danger rating, T1 to T9, naming the rank of practitioner it sends) under a **Sigil** (the license color a hunter must carry to engage lawfully).
 
@@ -103,7 +103,7 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 ## How They Behave
 
-**The shallow lines are animals.** From the mouth through the lower workings, a spawn has the cunning of its shape and no more. It does not hate and it holds no territory. **It goes toward the pull and stays until nothing is left to take**: a lantern, a warded door, a practitioner's reserve. Anyone with a good nose (trained sensing, the read of Aether and Essence) can predict it, and nobody can scare it off with noise alone. It does not migrate and it does not age by seasons, and nothing native to the ground above a Well eats it.
+**The shallow lines are animals.** From the mouth through the lower workings, a spawn has the cunning of its shape and no more. It does not hate and it holds no territory. **It goes toward the pull and stays until nothing is left to take**: a lantern, a warded door, a practitioner's reserve. Anyone with a good nose (trained sensing, the read of Aether and Essence) can predict it, and nobody can scare it off with noise alone. Its line does not migrate as a herd does, though strays follow a pull a long way, and monsters of every other kind move across the whole Inner World. It does not age by seasons, and nothing native to the ground above a Well eats it. The Scourge of Hell is the exception, where wyrms and worse have learned to, and masks have been cut out of stomachs there and nowhere else on file.
 
 **The deep lines think.** Below the lower workings the Veil (the boundary between the planes) wears thin, and the Deeps are where the planes turn together: spirits show, time runs wrong, and the dead leave more behind them than bones. **A spawn bred there gathers a mind out of what the Well remembers.** It plans, lies in wait, lets a party pass to take the porters at the back, and brings the lesser spawn of its Well along behind it, because they follow its pull the way they follow a lamp.
 
@@ -111,7 +111,7 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 **Some serve Malphas.** A few speaking spawn have been found working for Malphas and his circle. What he offers them, the register does not know.
 
-**Deep spawn are banished.** Break the mask of anything bred in the Deeps or the Heart and the body comes apart into raw Aether and sinks back down the Well. It leaves its mask behind, split and already gray. **Whether what the Well breeds next is the same creature, nobody has ever been able to prove.**
+**Deep spawn are banished.** Break the mask of anything bred in the Deeps or the Heart and the body comes apart into raw Aether and sinks back down the Well, and its core goes with it. It leaves its mask behind, split and already gray. **Whether what the Well breeds next is the same creature, nobody has ever been able to prove.**
 
 ---
 
@@ -152,6 +152,8 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 | The Lower Workings | 10 to 25 gold a mask |
 | The Deeps | 60 to 150 gold a mask, half for a banished one's gray mask |
 | The Heart, or any speaker | By contract, from a crown or a chartered town |
+
+**The core is the second purse.** Under the mask a spawn carries a core, which is in a way its Soul Crystal, and a shallow one left in a carcass is what the porter goes back for. The hall pays on the mask and the rendering house pays on the core, which goes into the Essence Drafts every practitioner with a purse takes to temper. Prices are on [[Materials, Alchemy & Trade/Materials/Hide, Horn and Bone|Hide, Horn and Bone]]. The plate and hide make gear, and a spawn with a name makes gear with a name.
 
 The guilds still call hunters mouths with crossbows. **The Well towns call them by name**, buy them drinks, and paint their mask tallies over the tavern door. A young practitioner's first descent with a hunting party is the most common way a name is made in the Dark Ages, and the first mask a hunter breaks is kept, gray or not, for life.
 
@@ -198,7 +200,7 @@ The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, wh
 
 Bred at Ignivale Well mouths from whatever small hunter first denned there. **No Archon (one of the Fourteen, the great powers tradition credits with making beasts) is credited.**
 
-Fox-sized, coat singed short and black at the tips, warm to the hand through a glove, breath shimmering in cold air. It crackles when it runs. **It is dangerous by what it lowers.** Ignivale drops the barrier between intent and working, and near a Tinder-fox that barrier drops in anyone with a Soul Crystal (the organ in a practitioner's chest that makes Essence): a startled practitioner fires, a frightened one fires twice, and a gallery full of both burns.
+Fox-sized, coat singed short and black at the tips, warm to the hand through a glove, breath shimmering in cold air. It crackles when it runs. **It is dangerous by what it lowers.** Ignivale drops the barrier between intent and working, and near a Tinder-fox that barrier drops in anyone with a woken Soul Crystal (the soul itself, which refines Aether into Essence): a startled practitioner fires, a frightened one fires twice, and a gallery full of both burns.
 
 | Abilities | Weaknesses |
 |---|---|

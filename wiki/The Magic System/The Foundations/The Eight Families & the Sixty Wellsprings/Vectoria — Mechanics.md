@@ -4,7 +4,7 @@ title: Vectoria — Mechanics
 
 # Vectoria — Mechanics
 
-*Mechanics · force, motion, gravity*
+*Pressure that either shatters or refines · filed by the scholars under mechanics: force, motion, gravity*
 
 Asa Birkett, a mason's daughter out of the Ketterby yards, bet a barrel of brown ale that she could drop the Old Toll Bridge with one knuckle, and all of Ketterby came down to the bank in its feast-day reds to watch her lose. She walked out to the third pier with iron-gray light running in hairline cracks up her forearm, rapped the stone like a woman knocking at a neighbor's door, and strolled back. For about the length of a grace nothing happened at all.
 
@@ -12,13 +12,25 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 > Breaking, holding, and rising are the same law observed from three positions. Vectoria is the Family that treats a soul as a **loaded structure** and asks the only question a structural engineer ever asks, which is where the load goes and what happens at the place it concentrates.
 
+**The idea** · Momentum, the breaking point and the long climb. Its eight Wellsprings are eight ways a soul can be changed by load, by breaking, bearing it, climbing out from under it, or forgiving what it did.
+
+**The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Vectoria is a thing under pressure and knows it. One of these eight brings that forward: a little at first, and after years of mastery up to double, so that the same shoulder at the same Grade drives twice the momentum's character into what it meets, and the same stance sends twice as much of a blow into the ground. Another Typology can take them too, at a higher Essence cost and with a rougher result, which is how a bridge gets knocked down badly. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
+
 **Stat Affinity** · *Tempering (Acceleration, Clarity, Coherence) · Resilience (Scarring, Insulation, Nullity, Integrity) · Vitality (Endurance, Threshold, Nullity) · Dominion (Gravity)*
 
-*Each Wellspring below is one type of Aether. Analogue and Mechanism give what that type does to a Soul Crystal. **Alchemy** gives the principle it stands for at the bench, and **Spirit** the transformation it works on the soul, each a road of Temperance (the climb of a soul from Stage to Stage).*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, and Failure how it goes wrong.*
 
 ---
 
 ## Fractura · *The Breaking Point*
+
+**The idea** · The breaking point. Everything has a place where it will go, and this lens shows it to you, in bridges, in friends and in your own left wrist.
+
+**Spirit** · Temperance through failure.
+
+**Alchemy** · The assayer's blow: the ingot struck to make its flaw show. *(the trade's reading)* Quartz amplifies it.
+
+*How scholars explain it.*
 
 **Analogue** · Linear elastic fracture mechanics. The Griffith criterion and the stress intensity factor.
 
@@ -26,13 +38,17 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Gnosis Analysis in fault-reading, Ardency Penetration, Resilience Scarring. The practitioner sees where things break and learns to break them precisely.
 
-**Alchemy** · The assayer's blow: the ingot struck to make its flaw show. *(the trade's reading)* Quartz amplifies it.
-
-**Spirit** · Temperance through failure.
-
 > **Failure** · Self-inspection. The Wellspring does not exempt its bearer, and a Fractura practitioner under strain reads their own flaw population with perfect clarity at the worst possible moment.
 
 ## Petralon · *The Foundation Stone*
+
+**The idea** · The foundation. To become what other things stand on: load taken, carried and sent down, at the price of slowly settling.
+
+**Spirit** · Temperance through endurance.
+
+**Alchemy** · Salt in its fixed office: the foundation that bears the whole vessel and never rises. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Compressive load path and creep. Stone in compression; the arch.
 
@@ -40,13 +56,17 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Vitality Endurance, Dominion Gravity. The character becomes the ground beneath the ground.
 
-**Alchemy** · Salt in its fixed office: the foundation that bears the whole vessel and never rises. *(the trade's reading)*
-
-**Spirit** · Temperance through endurance.
-
 **Failure** · Tensile exposure. Load the structure in the one direction it does not answer and it does not deform gracefully. It parts.
 
 ## Ascensio · *The Ladder of Ascent*
+
+**The idea** · The ladder. The whole height climbed by steps, with no single step large enough to break you.
+
+**Spirit** · Temperance through rising.
+
+**Alchemy** · The degrees of fire: one heat reached by steps, where a fool reaches it at a stroke and loses the glass. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Mechanical advantage. Path-independence of gravitational potential energy.
 
@@ -54,13 +74,17 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Tempering Acceleration, Harmonics Attunement. Stage transitions become smoother and less violent.
 
-**Alchemy** · The degrees of fire: one heat reached by steps, where a fool reaches it at a stroke and loses the glass. *(the trade's reading)*
-
-**Spirit** · Temperance through rising.
-
 **Failure** · The work is redistributed and none of it is reduced. Practitioners mistake the absence of crisis for the absence of cost and arrive at the next Stage owing the difference.
 
 ## Sublimatio · *The Ascending Breath*
+
+**The idea** · Rising straight through. A soul that leaves its lower state behind in one clean step, with nothing spilled in between.
+
+**Spirit** · Temperance through refinement.
+
+**Alchemy** · One of the six named operations, mirrored in the bench's Sublimation: it elevates without passing through the states between, with no stage at which the working can be inspected or corrected. Gold carries it.
+
+*How scholars explain it.*
 
 **Analogue** · Sublimation. Solid to vapor with no liquid phase, below the triple point.
 
@@ -68,13 +92,17 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Ardency Compression, Tempering Clarity. Output becomes cleaner and sharper, with less waste per expression.
 
-**Alchemy** · One of the six named operations, mirrored in the bench's Sublimation: it elevates without passing through the states between, with no stage at which the working can be inspected or corrected. Gold carries it.
-
-**Spirit** · Temperance through refinement.
-
 **Failure** · Residue accumulation. Everything that could not sublime is still there, and it is the fraction of the practitioner least willing to move.
 
 ## Sublimare · *The Rising Breath*
+
+**The idea** · Purification by rising. What is light goes up, what remains is purer, and the soul goes on refining itself toward one clear thing.
+
+**Spirit** · Temperance through ascent.
+
+**Alchemy** · The law Distillation draws on: parting by boiling point, the spirit risen and returned.
+
+*How scholars explain it.*
 
 **Analogue** · Fractional distillation. Separation by differential volatility.
 
@@ -82,13 +110,17 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Tempering Clarity, Resilience Insulation. The Crystal purifies itself, burning off impurities as silver vapor.
 
-**Alchemy** · The law Distillation draws on: parting by boiling point, the spirit risen and returned.
-
-**Spirit** · Temperance through ascent.
-
 **Failure** · Azeotrope. Some mixtures cannot be separated by distillation at all, and the practitioner runs the column indefinitely against a contaminant that boils at exactly their own temperature.
 
 ## Abython · *The Abyssal Pulse*
+
+**The idea** · Peace with the abyss. Matching the pressure in place of fighting it, so that the soul can walk where everyone else suffocates.
+
+**Spirit** · Temperance through void.
+
+**Alchemy** · The balanced vessel: pressure inside matched to pressure outside, so the glass has nothing to resist. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Pressure equalization. Neutral buoyancy and the vanishing of net stress.
 
@@ -96,13 +128,17 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Resilience Nullity, Harmonics Voidance, Vitality Nullity. The character operates where other practitioners suffocate.
 
-**Alchemy** · The balanced vessel: pressure inside matched to pressure outside, so the glass has nothing to resist. *(the trade's reading)*
-
-**Spirit** · Temperance through void.
-
 **Failure** · Rapid ascent. Return to ordinary Aetheric density too fast and the equalized interior comes out of solution, which is as unpleasant metaphysically as it is in a diver.
 
 ## Absolution · *The Cleansing Current*
+
+**The idea** · Forgiveness. The history stays and the shape stays, and the old poison stored in them is let out.
+
+**Spirit** · Temperance through forgiveness.
+
+**Alchemy** · The gentle reheat: the strain let out of worked metal and its shape left alone. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Stress-relief annealing. Removal of residual stress without change of form.
 
@@ -110,22 +146,22 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Stat Effect** · Strengthens Tempering Clarity, Harmonics Fidelity, Resilience Insulation. Old fractures lose their toxicity.
 
-**Alchemy** · The gentle reheat: the strain let out of worked metal and its shape left alone. *(the trade's reading)*
-
-**Spirit** · Temperance through forgiveness.
-
 **Failure** · Over-relaxation. Take too much out and the structure loses the compressive prestress it had been quietly relying on to stay closed.
 
 ## Penance · *The Atoning Path*
+
+**The idea** · Discipline. Strength earned on purpose, blow by blow, in exactly the places where you did wrong or were hurt.
+
+**Spirit** · Temperance through discipline.
+
+**Alchemy** · The hammer's law: metal hardest where it was beaten most. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Work hardening. Dislocation multiplication under plastic strain.
 
 **Mechanism** · Bend a metal past yield and it becomes harder to bend again, because plastic deformation multiplies dislocations until they obstruct one another. The material is strongest exactly where it was most abused. Penance imposes that constitutive behavior on the Crystal, so deliberate strain accumulates strength, and the strength is honest because it is located precisely at the sites of prior failure.
 
 **Stat Effect** · Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behavior.
-
-**Alchemy** · The hammer's law: metal hardest where it was beaten most. *(the trade's reading)*
-
-**Spirit** · Temperance through discipline.
 
 **Failure** · Strain embrittlement. Past a certain dislocation density the material has no ductility left, and the next load does not deform it. It ends it.

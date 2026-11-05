@@ -201,7 +201,7 @@ This morning, in the Hall of Verdicts, he stands among the Banner Houses for the
 
 ### The Long Watch
 
-The record keeps the rest of him. He married, and buried his wife on the ridge, and rode to Kharven for the assembly the next morning. He raised two grandsons, Bram and Wren, and planted six acres of rye and turnips behind the estate's western wall so that two boys would learn their hands were for something besides weapons. When Muken's kingdom fell, the Shieldwarden held the western ridgeline for three years with no crown left to reward him, his grandsons beside him on the wall-walk, and when the stores ran out he held it another six months on discipline. He gave Bram the Greymane shield. *A true knight defends his people.* The Tenrai killed him. The ridge did not move.
+The record keeps the rest of him. He married, and buried his wife on the ridge, and rode to Kharven for the assembly the next morning. He raised two grandsons, Bram and Wren, and planted six acres of rye and turnips behind the estate's western wall so that two boys would learn their hands were for something besides weapons. He held the western ridgeline with his grandsons beside him on the wall-walk. He gave Bram the Greymane shield. *A true knight defends his people.* The ridge did not move.
 
 ### Ties
 

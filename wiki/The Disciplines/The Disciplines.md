@@ -10,7 +10,7 @@ The four great schools have marched in a fixed order at the Founders' Fair in Qu
 
 **Everyone's magic is one power, and the quarrel is over which way it runs: out of you, in through you, or through you because something older said so.**
 
-> The Families say what a working pulls on. The Wellsprings say what law it obeys. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul**, and they differ from one another less in power than in the direction the force travels.
+> The Families say what a working pulls on. The Wellsprings are the governing ideas that transform how a soul uses that Aether, each one an alchemical and a spiritual transformation with a law of its own. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul**, and they differ from one another less in power than in the direction the force travels.
 >
 > *"The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline."*
 
@@ -49,7 +49,7 @@ Every named discipline in the Continuum decomposes into these categories. A disc
 >
 > [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom]]
 >
-> Eleven categories appeared on this page and twenty in the source taxonomy; the two have been merged there, and six further categories are proposed and flagged pending ruling. **Edit the taxonomy page. This table is a pointer.**
+> **The taxonomy page is the authority. This table is a pointer.**
 
 | Category | Alignment | What it governs |
 |---|---|---|
@@ -107,11 +107,19 @@ The documents in this section do not share a voice, and reading them correctly m
 
 ---
 
+## What a Discipline Is on the Sheet
+
+No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades, and anyone can level them: Drafts, runes, tags and chants among them, alongside the sword and the ledger. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Aether Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own.
+
+A discipline is what all of that looks like from across the road, and a school is where you go to get it. Money will buy a Stage, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. That is why a school can still charge what it charges, and why the four at the Founders' Fair are still hitting each other.
+
+---
+
 ## Entries
 
-Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized.
+Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized. It stands apart from the entries after it because it is a real **Fate Art**: control of Attraction Force and Obsession Force and of the probabilities things turn on. Fate Arts are rare, mostly by bloodline and considered incredibly overpowered, and Hataraki can take back or remove a blessing.
 
-The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
+The next four entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
 
 ### The general disciplines and the bloodline arts
 
@@ -147,7 +155,11 @@ These are the named arts a practitioner *trains*, as opposed to the labors the C
 - [[The Disciplines/Named Arts/Moetana — The Vessel of Life's Essence]]
 - [[The Disciplines/Named Arts/Solution — The Mind That Solves Itself]]
 - [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto]]
+
+### The technique shelves
+
+*The named moves themselves, each with its street name first and its scholars' term after.*
 - [[The Disciplines/Techniques/Techniques]]
-- [[The Disciplines/Spellcraft/Spellcraft]]
+- [[The Disciplines/Spellcraft/Spellcraft|The Spoken Arts]]
 
 ---

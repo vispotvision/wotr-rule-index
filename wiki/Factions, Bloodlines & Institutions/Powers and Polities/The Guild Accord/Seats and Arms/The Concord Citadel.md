@@ -7,15 +7,17 @@ title: The Concord Citadel
 **Say it** · the KON-kord SIT-ah-del
 
 *Filed under the Codex of Absolute Magical Law, Article XVI: "On the Heart of Law and the Architecture of Order."*
-> The Concord Citadel, called the **City of Latticeglass**, does not exist in one realm alone. **It is a nexus suspended between planes**, visible only to those bound to the Lattice. To mortals, a towering crystal spire encircled by radiant bridges of light. To spirits, **a song made structure.**
+> The Concord Citadel, called the **City of Latticeglass**, does not exist in one realm alone. **It is a nexus suspended between planes**, visible only to those bound to the Lattice. To the sworn, standing in the forecourt of the Hall of the Seal at Sealhall and looking up, a towering crystal spire encircled by radiant bridges of light. To spirits, **a song made structure.** To everyone else, weather, and a fee to have it explained.
 >
-> The city does not simply house the Accord. **It is the Accord.**
+> The Codex says the city does not simply house the Accord. **It says the city is the Accord.**
+
+Ask in any hiring hall from Kingsbridge to the arc, and they will tell you the Accord is the green door behind them and the woman who runs the board. They pay their fee to a place most of them will never see, and they have heard the same stories about it that you are about to, and they sing rude songs about those too. A Guildlord climbs to it perhaps once in a life, through the old Gate in the forecourt, if she has sworn, and comes home quiet for a week. **The coalition's business is done on the ground at Sealhall, under the bones of the Ribs. The Citadel is where the machinery of the Codex lives**, and where the five Heads go to be told what the Vault will bear. This page is the Codex's account of it, in the Codex's voice, and nobody at Research and Archives has ever offered to correct it.
 
 ---
 
 ## The Citadel's Nature
 
-**The Citadel was not built by human hands.** It grew around the **Heart Vault**, a massive Wellspring Core that crystallized into self-awareness after the Harmonial Age. The High Concordant's soul is woven into this Vault; **their breath sustains the Citadel's glow.**
+**The Citadel was not built by human hands.** It grew around the **Heart Vault**, a massive Wellspring Core (Fountainhead on the survey, the top of the ladder) that crystallized into self-awareness after the Harmonial Age. A Core held and worked is a dungeon somebody cleared, so by the delvers' reckoning the City of Latticeglass is the greatest dungeon anyone has ever kept, and who cleared it is not a question the Accord has a form for. Scholars still argue whether a dungeon thinks. Scholars posted here stop arguing, and ask for a transfer. The High Concordant's soul is woven into this Vault; **their breath sustains the Citadel's glow.**
 
 Within its translucent walls, **time flows by resonance, not sequence.** Couriers cross days in minutes. Archives update themselves before events occur. *Those who dwell too long forget what direction means.*
 ```mermaid
@@ -67,8 +69,8 @@ Every Accord member can feel their hum in moments of silence, *a comforting vibr
 
 Beneath the Sanctum, deeper than even the Archives, **the High Concordant communes directly with the Lattice.** This chamber holds the **Wellspring of Law**, the first metaphysical convergence ever stabilized by mortal and divine cooperation. *It glows with a blinding white that casts no shadow.*
 
-Every Concord Seal, Commission, and Merit flows first through this light before reaching the rest of creation.
-> The Vault hums in rhythms that mirror the High Concordant's pulse. **If they die, the Vault stills, and the Guild Accord collapses.**
+Every Concord Seal, sworn oath, and Merit flows first through this light before reaching the rest of creation.
+> The Vault hums in rhythms that mirror the High Concordant's pulse. **If they die unsucceeded, the Vault stills, and the Guild Accord collapses.** The signed halls would keep their silver and their grudges. Everything sworn would not survive the night.
 >
 > **Only three beings have ever entered the Vault and returned alive. None spoke of what they saw.**
 
@@ -76,9 +78,9 @@ Every Concord Seal, Commission, and Merit flows first through this light before 
 
 ## The City Below
 
-A sprawling complex of halls, guild quarters, training sanctums, and Gate plazas. Here agents from every realm converge: soldiers, mages, Sealwrights, and scholars walking side by side. **The air is perpetually filled with light rain, the condensation of Aether in its purest form.**
+A sprawling complex of halls, guild quarters, training sanctums, and Gate plazas. Here the sworn of every realm converge: soldiers, mages, Sealwrights, and scholars walking side by side, each guild quarter hung in its own colors and every one of them insisting it has the worst rooms. **The air is perpetually filled with light rain, the condensation of Aether in its purest form, and on a clear morning the whole city glitters like a jeweler's tray.**
 
-At its center stands the **Forum of Balance**, where citizens bring disputes before minor Arbiters. Every verdict echoes upward to the Council Spire, imprinting itself in the Codex as precedent.
+At its center stands the **Forum of Balance**, where the sworn bring disputes before minor Arbiters. Every verdict echoes upward to the Council Spire, imprinting itself in the Codex as precedent.
 > **Justice in the Accord is circular, born below, judged above, recorded forever.**
 
 ---

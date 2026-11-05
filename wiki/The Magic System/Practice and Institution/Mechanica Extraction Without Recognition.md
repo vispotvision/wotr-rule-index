@@ -17,17 +17,19 @@ The street never paid a copper for its roses. This page is about who did.
 
 A lawful working imposes a boundary on a law that is already running, and the law does the work. The practitioner supplies the condition and pays for the privilege of setting it. **Mechanica skips the condition.**
 
-An operator does not invoke a Wellspring (one of the sixty kinds of Aether, each carrying its own law), because invoking one requires Authorization (the glyph role naming a lawful channel) and Authorization is precisely what they do not have. They take **finished output from a system that already did the conditioning**, and route it. The law was conditioned by somebody else, or by a site, or by a thing that was alive at the time.
+An operator does not invoke a Wellspring (a governing idea that transforms how a soul uses Aether, in the scholars' account one of sixty kinds of Aether with its own law), because invoking one requires Authorization (the glyph role naming a lawful channel) and Authorization is precisely what they do not have. They take **finished output from a system that already did the conditioning**, and route it. The law was conditioned by somebody else, or by a site, or by a thing that was alive at the time.
 
 Which means Mechanica always has a donor. There is no such thing as an operator working alone, and every apparatus in the record has something on the other end of it.
 
 ## II. The Three Practices
 
-**Extraction.** Output taken from a Soul Crystal (the soul's organ that stores Essence and channels it outward) that is not the operator's. The donor may be captive, purchased, dead, or unaware. This is the oldest form and the one the Statutes were written against, and its products are the most efficient in the register because a Crystal has already done the expensive part.
+**Extraction.** Output taken from a Soul Crystal (the soul itself, which stores Essence and channels it outward) that is not the operator's. The donor may be captive, purchased, dead, or unaware. This is the oldest form and the one the Statutes were written against, and its products are the most efficient in the register because a Crystal has already done the expensive part.
 > *Soul Splicing, Trait Collapse Engines, and the whole vocabulary the Accord uses in its prohibition schedules describe extraction and nothing else, which is why the schedules read as hysterical to anyone who has only encountered the second and third practices.*
 
+**The butcher's line.** A monster's core is in a way its Soul Crystal, and an alchemist who renders one into Essence Drafts is doing lawful work under the Standing Index, the Crystal Draw every hunter's hall lives on. **A Crystal cut from a dead practitioner is the same procedure on a different table.** It makes the strongest Draft of all, it is the worst crime in every realm and the most profitable, and it is why Class IV on the Index has never balanced: every year more of it is sold than the lawful sources can yield, and the coil reads both the same. The operator will tell you the donor was already dead. The law has never found that interesting.
+
 **Tapping.** Output taken from a Wellspring site without the site's participation. A lawful practitioner at a concentration harmonizes, which is a negotiation the current can decline. A tap does not ask. It opens a path from the vein into an apparatus and holds it open, and the site is pulled from without reciprocity until it stops giving.
-> *This is what produces a site running under Obsession Force (recognition curdled into taking). Priests call the corruption spiritual, and I will let them; a Measurewright calls it the physical consequence of sustained withdrawal against a current that was never consulted, and the site's subsequent behavior toward visitors is the behavior of a system that has learned what people are for.*
+> *This is what produces a site running under Obsession Force (recognition curdled into taking). Priests call the corruption spiritual, and I will let them; a Measurewright calls it the physical consequence of sustained withdrawal against a current that was never consulted, and the site's subsequent behavior toward visitors is the behavior of a system that has learned what people are for. Dungeons are alive and learning, whether or not they think, and scholars have stopped arguing about whether this one was taught.*
 
 **Engine work.** Built apparatus that performs extraction or tapping without a practitioner present. The operator's skill is entirely in the construction, the device runs unattended, and this is the form that scales.
 > **Engine work is why Mechanica is an economic problem as much as a criminal one.** Extraction requires a monster. Tapping requires a monster with a workshop. **An engine requires a competent millwright, a license he does not have, and a district that cannot afford a warden's fee.**
@@ -47,7 +49,7 @@ So a Mechanica working never ends. It is interrupted, abandoned, or exhausted, a
 
 **Nothing, directly, and that is the entire problem.**
 
-Every lawful practice bills the practitioner. Spellcraft (working cast live from the body) bills the body in the same scene. Runecraft (working inscribed in material) bills a season and a stone. Draftcraft (working bottled as a Draft) bills provenance. Votia (working bought with a vow) bills the rest of a life. Mechanica bills the donor, the site, or the district, and the operator walks away with output they did not pay for.
+Every lawful practice bills the practitioner. The speaking (a working cast live from the body) bills the body in the same scene. The cutting (a working inscribed in material) bills a season and a stone. The pouring (a working bottled as a Draft) bills provenance. Votia (working bought with a vow) bills the rest of a life. Mechanica bills the donor, the site, or the district, and the operator walks away with output they did not pay for.
 
 This is the honest reason the Accord's condemnation carries so little weight with the people who do it. **A doctrine that says power must cost is being preached by the institution that sets the prices**, and an operator heating a tenement off a tapped vein has a reply to that which nobody in the Division has ever answered in public.
 > **The delayed bill.** Operators are merely billed late. Sustained work in an unsealed field produces a documented syndrome: **Shell clouding (the soul's outer layer losing clarity) without corresponding output, Coherence (how closely a person's chosen path matches how they live) falling with no change in conduct, and Traits that begin flickering in the absence of Essence Starvation (running below a tenth of reserve).**
@@ -73,7 +75,7 @@ An engine is a device in a cellar. Finding it requires the two-instrument compar
 
 ## VII. The Part the Accord Does Not Discuss
 
-The Concord's chartered Cores are licensed, sealed and lawful, and their Authorization is held institutionally rather than personally. A householder warming her stair off a warden who fills at a chartered Core has never warranted anything in her life.
+The Concord's chartered Cores, each of them a [[The Bestiary/Dungeons|dungeon]] somebody cleared and now holds, are licensed, sealed and lawful, and their Authorization is held institutionally rather than personally. A householder warming her stair off a warden who fills at a chartered Core has never warranted anything in her life.
 
 The Accord's position is that the company holds the warrant and the work runs under it, which is coherent, and which is also **the same structure as engine work with a license on top.**
 > *The distinction the Accord draws is that the chartered sites were harmonized with rather than tapped, at the founding, by practitioners named in the founding instruments. Several of those instruments are four hundred years old. Two are known to be forgeries. The Division that would investigate the third has been reorganized twice since the question was last asked in writing.*

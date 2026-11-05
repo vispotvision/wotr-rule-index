@@ -1,12 +1,14 @@
 ---
-title: Spellcraft
+title: The Spoken Arts
 ---
 
 ![[Assets/Paintings/hero.webp]]
 
-# Spellcraft
+# The Spoken Arts
 
-> Spellcraft is the spoken craft: a working that lives in what is said, or in attention held like a held note, and that stops when the speaker does. At the Midsummer Moot at Oxmouth a hedge-judge and a Cantic chorister settled a boundary dispute by shouting at each other for six seconds, and the market cross has leaned ever since. Everything on this shelf has a street name, and I give it first; the scholars' term follows it in brackets, because the Concord files by that and will not be moved.
+> A spoken art lives in what is said, or in attention held like a held note, and it stops when the speaker does. At the Midsummer Moot at Oxmouth a hedge-judge and a Cantic chorister settled a boundary dispute by shouting at each other for six seconds, and the market cross has leaned ever since. Everything on this shelf has a street name, and I give it first; the scholars' term follows it in brackets, because the Concord files by that and will not be moved.
+
+Every art on this shelf is a technique, the same as those on [[The Disciplines/Techniques/Techniques|the other shelf]]: a named thing done with a skill, showing no level, taking a bigger name when it jumps. Chanting and the holding of a sentence in the throat are skills anyone can level by doing them, and the only people who ever claimed otherwise were guilds with a feud to feed.
 
 Most of these arts are spoken or held. Four live here by old filing and are worked otherwise: the God Fist and the Infinite First Blade are carried in the body, the Graven Absence is cut in stone, and the Black Vessel is a state of being.
 

@@ -30,17 +30,17 @@ Ground is graded by the density it carries (Aetheric Density, in the scholar's t
 | **Lamp-wardens** | Keep street and door lamps, by the round, dusk to dawn | Round-fee from a company or parish; a household by the month | Walk off the round, or simply pass your door |
 | **Ward-cutters** | Cut and re-cut wards into lintels, thresholds and strongrooms | By the job, and by the glyph | Leave the last stroke uncut until the balance is settled |
 | **Hedge-workers** | Everything in the country: frost off the orchard, a charm on the well, a fever talked down | In kind, usually | It is a long walk to the next one |
-| **Core keepers** | Hold a worked Wellspring site and sell hours at it | By the hour, the season, or an old obligation | Close it |
-| **Guild craftsmen** | Smiths, dyers, renderers and engineers of contraptions, under guild mark | By the piece | Decline the commission, loudly, in front of your rivals |
+| **Core keepers** | Hold a worked Core, which is a dungeon somebody cleared, and sell hours at it | By the hour, the season, or an old obligation | Close it, or stop bleeding the pool |
+| **Guild craftsmen** | Smiths, dyers, renderers and engineers of contraptions, under guild mark, up to what their title lets them make | By the piece | Decline the commission, loudly, in front of your rivals |
 | **Petty folk arts** | One small power and one small living | A copper here and there | Shut the stall |
 
 **Lamp-wardens.** A street lamp is a glass and a glyph-cut stem, and without a warden it is an ornament. An Essence lantern costs three to eight silver, and the inscription fee on top is the expensive part. Wardens walk at dusk with a boy and a pole, and each lamp burns the color of whoever keeps it, so that an old resident can tell you whose round she is on with her eyes half shut.
 
-**Ward-cutters.** Chisel, chalk and a good eye. A ward is Runecraft (a working inscribed in material), it wears like any other cut, and the tap of a cutter's chisel on a lintel is the most reassuring sound in a poor street and the most alarming one in a rich street, where it means somebody has been robbed. The cutter's mark goes under the ward, and every trace examiner can read it.
+**Ward-cutters.** Chisel, chalk and a good eye. A ward is a working inscribed in material, it wears like any other cut, and the tap of a cutter's chisel on a lintel is the most reassuring sound in a poor street and the most alarming one in a rich street, where it means somebody has been robbed. The cutter's mark goes under the ward, and every trace examiner can read it.
 
 **Hedge-workers.** They work by voice and hand in the country beyond any company's bounds, one for every few villages, and most of them have never seen a primer. The schedules forbid taking pay for a working without a license. They have never defined an egg.
 
-**Core keepers.** A place where one kind of Aether pools is a Wellspring site, and a worked one is called a Core in common speech. (The Aethers come in sixty types that affect the Soul Crystal differently, and those types are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.) A worked site recharges by the season if it is not bled, and it has keepers, who may be an order, a sect, a temple or one stubborn family, and they sell hours at the pool. Half the wardens in a city top up at a Core they do not own. **The keeper can close it**, and when one does, every working in the district that depends on those hours goes thin within the week. The old soldier's version of the same thought: to beat a Core-fed enemy, take the fight off rich ground and onto salted, bled or thin ground, and let him find out what he had been standing on.
+**Core keepers.** A Wellspring is a governing idea, an alchemical and spiritual transformation that changes how a soul uses Aether, and in the scholars' account it is one of sixty types of Aether that affect the Soul Crystal differently. A place where one of them pools is a Core in common speech, and left to itself it does not stay a place. **Most Cores lie in [[The Bestiary/Dungeons|dungeons]]**, which grow down in floors around the Core with something guarding the heart, and the rest are said to lie out in vast territories nobody has finished walking. **A worked Core is a dungeon somebody cleared and now holds.** Under every respectable pool in the city is a stair, a seat of old stone, and somebody's great-grandmother's account of what it cost. A worked Core recharges by the season if it is not bled, and it has keepers, who may be an order, a sect, a temple or one stubborn family, and they sell hours at the pool, to anyone who can pay to pull there or to take a Wellspring from it. Half the wardens in a city top up at a Core they do not own. **The keeper can close it**, and when one does, every working in the district that depends on those hours goes thin within the week. A keeper can also simply stop bleeding it, and the place remembers what it was, as the Ferrants of Hollowhay learned at a wedding. The old soldier's version of the same thought: to beat a Core-fed enemy, take the fight off rich ground and onto salted, bled or thin ground, and let him find out what he had been standing on.
 
 **Parish stones** rise at street level: iron-bound, waist-high, warm, and unlovely. A cutter sets one and a warden keeps it charged, and it is the public working point of the street, where you bring a pot to boil and a child to thaw. In a good district it stands in a railed enclosure and is opened by a company man. In a bad one it stands in the road and has been opened by everybody.
 
@@ -72,7 +72,7 @@ It is a lump of stamped lead on the lamp stem or a mark pressed into the lintel'
 
 ## IV. The Companies
 
-The Accord runs none of this directly. The trades are run by chartered **companies**, one to a trade in each city or quarter, licensed by the Accord and owned by whoever bought the charter.
+The Accord, a coalition of guilds across many nations, runs none of this directly. The trades are run by chartered **companies**, one to a trade in each city or quarter, signed on with the Accord for shared rank, enforceable contracts and passage, licensed under its seal, and owned by whoever bought the charter.
 
 They are monopolies. They set fees, they hold the Core rights, they employ the searchers, and they answer to a licensing body that depends on their fees. **The Accord regulates the companies and is funded by them, and this has been raised in council eleven times.**
 
@@ -126,7 +126,7 @@ The crossbow is ordinary and old, and it is the reason nobody sensible has ever 
 
 ## IX. The People Who Tend It
 
-**Core-tenders** work the lip of a site, in pairs, with an assay fork and a lamp, clearing and bleeding the pool. The work is wet, cramped, and pays badly, and the residue exposure is continuous and undocumented.
+**Core-tenders** work the lip of a site, in pairs, with an assay fork and a lamp, clearing and bleeding the pool, in what used to be a dungeon and would like to be one again. The work is wet, cramped, and pays badly, and the residue exposure is continuous and undocumented. The ones who live longest learn to mention to someone when a gallery they know has moved.
 
 **Seal-clerks** press and record. **Fee-walkers** walk. **Snuffers** attend when a household stops paying, strip its lamps and scratch through its wards, and are the most despised trade in any city and the best paid of the four.
 > **None of these people are screened.** Core-tenders spend careers at the edge of a worked pool, at densities that would be recorded as an Active Concentration (a density that alters bodies over time) if a surveyor found the same reading in open country, and no baseline is taken because no baseline exists for the unawakened.
@@ -135,7 +135,7 @@ The crossbow is ordinary and old, and it is the reason nobody sensible has ever 
 
 ## X. Writing It
 
-**The crafts are everywhere, and most of it is furniture.** The great works make a city's skyline and its pride; a parish stone is street furniture. A seal is on the lintel by the door. Nobody explains any of it, and characters interact with it the way people interact with a roof: only when it fails. Let it be bright, though. Every lamp on the page burns somebody's color.
+**The trades are everywhere, and most of it is furniture.** The great works make a city's skyline and its pride; a parish stone is street furniture. A seal is on the lintel by the door. Nobody explains any of it, and characters interact with it the way people interact with a roof: only when it fails. Let it be bright, though. Every lamp on the page burns somebody's color.
 
 **Money before magic.** In any scene with a city in it the first question about a working is who is paying for it. **A practitioner in someone else's house is running up somebody's bill and both of them know it.**
 

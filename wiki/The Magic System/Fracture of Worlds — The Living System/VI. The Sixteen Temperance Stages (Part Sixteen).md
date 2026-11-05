@@ -13,7 +13,7 @@ The Ruan Hall keeps its festival gongs for Lantern Night, and they have rung out
 
 She stood up laughing and sobbing, called the thing the son of a dead turnip in full archaic grammar, and broke its mask with the pole. The arm stayed gone, and for most of a year she wept at the sight of soup and could not be trusted with a needle, and the hall entered the night in its book under a title nine words long. A Guild roll writes all of that as Stage V, Splintering. Below are all sixteen under the tidy headings the Guild gives them, and a physician of the Ruan Hall has some notes on the word tidy.
 
-Each Stage is a qualitative transformation in the architecture of the Crystal (the Soul Crystal, the soul's organ of power). The Stages are not sequential achievements to be collected. They are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity. That pressure is brought to the break by three roads, crisis, seclusion before the Threshold, or tribulation, and most practitioners walk some of each; the Catalyst named under each Stage is the moment the break is met, whichever road led there. Each Stage alters how every stat behaves, not by adding numerical bonuses but by changing what the numbers are structurally permitted to mean.
+Each Stage is a qualitative transformation in the architecture of the Crystal (the Soul Crystal, which is the soul itself). The Stages are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity: tempering melts it down and rebuilds each layer, refines Essence and makes it stronger, and the body gains Traits. That pressure is brought to the break by three roads, crisis, seclusion before the Threshold, or tribulation, and most practitioners walk some of each; the Catalyst named under each Stage is the moment the break is met, whichever road led there. A Draft or a blessing can supply that Catalyst instead, and then the Stage has simply been bought. A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy (Part Eight has the terms). Each Stage alters how every stat behaves, not by adding numerical bonuses but by changing what the numbers are structurally permitted to mean.
 
 The first fourteen constitute canonical mortal progression, Murmuring through Zenith. Stages XV and XVI, Revelation and Apex, extend beyond the canonical ceiling into the Apotheosis approach (the climb from mortal soul toward becoming an Archon).
 
@@ -25,7 +25,7 @@ The Crystal has opened. Essence (the soul's own power) stirs but cannot be direc
 
 ### Stage II — Welling (Tier 2 · Apprentice)
 
-Essence rises and spills before it can be contained. The practitioner feels the direction of their power but cannot control its volume. Techniques misfire regularly. The Aether Shell (the soul's outer layer, which passes power out into the world) is forming but porous. **Max Grade D. Ceiling 100.** *Catalyst* (the event that sets off the breakthrough)*:* first genuine contact with the Aether of a Wellspring (one of the sixty types of Aether, each a source of power that also represents an alchemical principle and a spiritual transformation) under personal pressure.
+Essence rises and spills before it can be contained. The practitioner feels the direction of their power but cannot control its volume. Techniques misfire regularly. The Aether Shell (the soul's outer layer, which passes power out into the world) is forming but porous. **Max Grade D. Ceiling 100.** *Catalyst* (the event that sets off the breakthrough)*:* first genuine contact with the Aether of a Wellspring (one of the sixty governing ideas that transform how a soul uses Aether, each an alchemical and a spiritual transformation with its own type of Aether) under personal pressure.
 
 ### Stage III — Ascension (Tier 3 · Journeyman)
 
@@ -41,7 +41,7 @@ The soul cracks open to become something larger. The first crisis Stage. The arc
 
 ### Stage VI — Glory (Tier 5 · Expert)
 
-Peak of the inner phase. The self burns bright and is noticed. The Aura begins generating genuine environmental effects. Techniques carry the weight of identity rather than improvisation. The Crystal has processed Splintering's fractures into features. **Aether Class (how cleanly the soul passes power outward) emerges and the Echo field forms.** **Max Grade A. Ceiling 400.** *Catalyst:* willingly accepting genuine soul-cost to preserve something valued above the character's own structural integrity.
+Peak of the inner phase. The self burns bright and is noticed. The Aura begins generating genuine environmental effects. Techniques carry the weight of identity rather than improvisation. The Crystal has processed Splintering's fractures into features. **Aether Class (the named class a soul is offered, ranked by how cleanly it passes power outward) emerges and the Echo field forms.** **Max Grade A. Ceiling 400.** *Catalyst:* willingly accepting genuine soul-cost to preserve something valued above the character's own structural integrity.
 
 ### Stage VII — Refraction (Tier 5 · Expert)
 

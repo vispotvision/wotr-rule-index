@@ -17,7 +17,7 @@ It held four minutes. In the fifth a fish-seller on the far bank shouted her nam
 
 ### What Traits Are
 
-A Trait is the crystallized law of a soul, the moment emotion, conviction and Temperance (the soul's refinement, climbed in sixteen Stages) align so completely that the Continuum (the whole fabric of reality) begins responding to that belief as a rule. A Trait is not learned. It awakens when lived experience hardens into metaphysical truth, when the three layers of the Crystal (the Soul Crystal, the soul's organ of power) stop merely holding a belief and begin running on it.
+A Trait is the crystallized law of a soul, the moment emotion, conviction and Temperance (the soul's refinement, climbed in sixteen Stages) align so completely that the Continuum (the whole fabric of reality) begins responding to that belief as a rule. A Trait is not learned. It awakens when lived experience hardens into metaphysical truth, when the three layers of the Crystal (the Soul Crystal, which is the soul itself) stop merely holding a belief and begin running on it.
 
 Every Trait forms when four harmonics fall into coherence: the **Essence Core** (the emotional truth), the **Attraction Layer** (the pattern of recognition bending toward that truth), the **Aether Shell** (the behavior of force born from that belief), and the **Temperance Field** (the refinement keeping the belief from collapsing under strain).
 
@@ -25,7 +25,7 @@ Every Trait forms when four harmonics fall into coherence: the **Essence Core** 
 
 **Primary Trait, the Innate Reflection.** Formed from soul Typology (the soul's natural bias toward one of eight elemental Families), origin and first Temperance imprint. Instinct, disposition, natural affinity. A modest but constant boost in the aligned facet. Primary Traits answer what your soul does even before it tries.
 
-**Secondary Trait, the Tempered Reflection.** Forged through trauma, revelation, sustained Wellspring (one of the sixty types of Aether, each working on the Soul Crystal in its own way and carrying its own law) exposure, or a decisive moral or existential choice. Often conditional, activating under emotional or situational pressure. Strong boost while active, balanced by fatigue or emotional cost. Scar-tissue turned into weapon or shield.
+**Secondary Trait, the Tempered Reflection.** Forged through trauma, revelation, sustained Wellspring (one of the sixty governing ideas that transform how a soul uses Aether, each with its own type of Aether and its own law) exposure, or a decisive moral or existential choice. Often conditional, activating under emotional or situational pressure. Strong boost while active, balanced by fatigue or emotional cost. Scar-tissue turned into weapon or shield.
 
 **Inherited Trait, the Lineage Reflection.** Carried through bloodline, ancestral resonance, reincarnational echo, or pacts maintained across generations. Manifests as blessing, mutation, curse, or latent technique. Widely variable depending on lineage purity, Domain (a space where a soul's inner law becomes local reality) alignment and Wellspring compatibility. History refusing to stay in the past.
 
@@ -57,6 +57,10 @@ Traits awaken during Resonance Events.
 | 6–7 · Master to Grandmaster | IX–XII | Field-state behavior. Major, consistently world-facing output. Reality bends locally wherever the bearer exerts will. |
 | 8 · Archmaster | XIII–XIV | Fuse with Domain Law. Output exceeds ordinary metrics. The Trait stops being an ability and becomes part of how reality must behave in that presence. |
 
+### Trait Levels
+
+The Stage sets what a Trait is permitted to be, and its level says how far the bearer has taken it inside that. Traits have their own levels, shown in the window as `[Thyra's Rule: Level 6]`. They rise with use and grow with overall Level and skill, and a Trait can be refined the way a skill is. Tempering and Essence Drafts feed the growth. The Four Reflections stay what they are, and a level changes none of their laws or costs; the Rigidity Effect at Level 6 is the same bill at a higher price. A technique, by contrast, shows no level and takes a bigger name when it jumps, so a fighter can be heard bragging about one and quietly reading the other.
+
 ### Trait Evolution
 
 **Fusion (Compound Formation):** two or more Traits merge into a single coherent law. Fewer, stronger principles. If the fused law contradicts the self, the collapse can be catastrophic.
@@ -81,7 +85,7 @@ Traits awaken during Resonance Events.
 
 *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
 
-The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (grades of how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of nine broad ranks grouping the sixteen Stages) such an alchemist holds, up to Five, is certified at the bench and never read off the Crystal.
+The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (named classes, tiered by how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds, up to Five, is certified at the bench and never read off the Crystal.
 
 | Tier | Description | Corresponds to |
 |---|---|---|
@@ -108,9 +112,17 @@ The Crystal evolves through Developmental Tiers representing the synthesis of al
 
 ### What a Domain Is
 
-A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained.
+A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests and where Attraction and Obsession are controlled) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained.
 
 Domains are not techniques. They are consequences of sufficient Temperance, Dominion (the stat for presence and pressure on others) development and Aether Class clarity. A character does not choose to deploy a Domain the way they choose to throw a punch. A Domain forms because the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent. Once a soul has grown one, the Second Release opens it and powers it, it is called aloud, and it forms as it is named; what nobody has ever done is call a Domain the soul has not grown.
+
+Anyone at Stage VIII can have one, their own concept made real. A bought Stage VIII opens that door and no more, and sects teach how to go through it, which money cannot buy. A Release or a Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stands, the holder's own Domain counting against it; only outside help goes past it.
+
+```
+[DOMAIN SEED: NOBODY CROSSES WITHOUT PAYING]
+[Changed: the unpaid stop at the first plank. Force sent across pays what it carries.]
+[Held: ██████░░░░]
+```
 
 ### Domain Formation Timeline
 

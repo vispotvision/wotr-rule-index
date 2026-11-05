@@ -75,7 +75,7 @@ Prices are given as city prices inside a warden's round. Past the last round, an
 
 | Item | Price | Note |
 |---|---|---|
-| **A sword** | 6 to 10 silver for a trooper's saber; 4 to 7 gold for an officer's blade | A sword that carries a working is priced on the coil (the brass assay instrument), not here |
+| **A sword** | 6 to 10 silver for a trooper's saber; 4 to 7 gold for an officer's blade | A sword that carries a working is priced on the coil (the brass assay instrument) by its Grade and Rarity, not here |
 | **A crossbow** | 5 to 10 silver | Old hand-spanned bows, sold off from armories |
 | **A war crossbow** | 3 to 4 gold, steel-bowed and lever-spanned; 6 to 10 gold for a heavy windlass arbalest, where one can be had at all | Arbalests are mostly crown issue and rarely on a counter |
 | **A belt-bow** | 8 to 15 gold, where one will sell at all | A rare hand crossbow spanned from the belt, from perhaps a dozen bowyers alive. The vain captain's weapon, and the paid killer's |
@@ -103,6 +103,61 @@ Prices are given as city prices inside a warden's round. Past the last round, an
 | **A physician's visit** | 1 to 3 silver; 6 copper at a spital door | In the north and the poor quarters, the barber, for a few copper and what he knows |
 | **A surgeon** | 5 to 40 gold for an operation | Anesthesia (a draft or a working that puts the patient under) included in a Guild city. The fee is quoted before the knife, and paid before the stitches |
 
+## Monster Cores
+
+*A monster's core is in a way its Soul Crystal, worth more the stronger the monster. Priced by Threat Tier (the T1 to T9 danger grade a commission carries), raw, on the coil, at a renderer's door. It renders to about a dozen doses of Essence Draft at its own grade.*
+
+| Threat Tier | The core | Note |
+|---|---|---|
+| **T1** | 3 to 5 silver | A week of a laborer's wages, from something that had been at the henhouse |
+| **T2** | 12 to 18 silver | About a laborer's month |
+| **T3** | 3 to 6 gold | A soldier's half-year, and a crew's first good night |
+| **T4** | 8 to 15 gold | Most of a laborer's year. A village will remember who brought it home |
+| **T5** | 30 to 300 gold | The bottom buys two horses and the top buys a clerk's four years. A T5 runs across three Stages and the coil tells you which |
+| **T6** | 800 to 8,000 gold | More than the crew's home village will see in a generation |
+| **T7** | 20,000 gold and up | By private treaty. It comes with an armed escort and several new friends |
+| **T8 and T9** | Not quoted | Under the Obsidian Seal, and never on a counter |
+
+> A famous monster's core carries a premium for the name, on top of any bounty, and the bounty is usually the smaller part. Hide, bone and scale sell separately, for about as much again while fresh, falling every day from the kill. **Some of what is sold as monster core came out of people.** A Crystal cut from a dead practitioner is the strongest stock of all and appears on no list, because the price includes the rope.
+
+## Essence Drafts and the Climb
+
+*An Essence Draft is rendered from a core and fed into tempering. Graded by the Stage it serves, about threefold a Stage, at a licensed house, where a house will sell it to you at all. On the street, three to ten times this.*
+
+| Stage served | A dose | A course, twelve doses | The Stage bought outright |
+|---|---|---|---|
+| **I, Murmuring** | 20 copper | 10 silver | A Waking Draft: 60 to 120 gold, and it often kills or warps the child |
+| **II, Welling** | 2½ silver | 30 silver | 20 gold |
+| **III, Ascension** | 7½ silver | 7½ gold | 60 gold |
+| **IV, Flourishing** | 22½ silver | 22½ gold | 180 gold |
+| **V, Splintering** | about 5½ gold | about 68 gold | 540 gold |
+| **VI, Glory** | about 17 gold | about 200 gold | 1,600 gold |
+| **VII, Refraction** | 50 gold | 600 gold | 5,000 gold |
+| **VIII, Transcendence** | 150 gold | 1,800 gold | 15,000 gold |
+| **IX, Invocation** | 450 gold | 5,400 gold | 45,000 gold |
+| **X, Realization** | 1,350 gold | 16,200 gold | 135,000 gold |
+| **XI and up** | Not quoted | Not quoted | Not for sale to you. The great houses hoard them |
+
+> **The Stage bought outright** is a course plus the Draft that supplies the Catalyst, drunk in a quiet room with a physician standing by. It opens the door and no more: the sheet shows the same Stage, and the Release still has to be found and mastered by fighting. Commoners without the coin for a Waking Draft sell themselves into guild debt for it, and the term is generally the larger bill. A Fate Essence Draft is a Master Work and has never been quoted anywhere.
+
+## Titles
+
+*The same nine in every guild, grading trust in that trade. The fee is what a hall charges to sit the examination and strike the silver token, and a hall that likes you may advance it against your term.*
+
+| Title | The fee | What a stranger may hand you |
+|---|---|---|
+| **Initiate** | 2 silver | Common goods, Marked work, a T1 commission |
+| **Apprentice** | 6 silver | Common goods, Proofed work, a T2 commission |
+| **Journeyman** | 1½ gold | Uncommon goods, Tempered work, a T3 commission |
+| **Adept** | 5 gold | Rare goods, Instrument work, a T4 commission |
+| **Expert** | 15 gold | Rare goods, Hallowed work, a T5 commission |
+| **Master** | 50 gold | Very Rare goods, Storied work, a T6 commission |
+| **Grandmaster** | 150 gold | Legendary goods, Found work, a T7 commission |
+| **Archmaster** | 500 gold | Mythic goods, Numinous work, a T8 commission |
+| **Paragon** | No fee. The halls come to you | Unique goods, Proscribed work, a T9 commission |
+
+> Goods for a merchant, work for a craftsman, commissions for an adventurer ([[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]] has how the caps run). Fighting guilds read the same nine off the Stage table, and only their tokens say how dangerous you are. **A forged token runs about ten times the fee in any port that sells them, and it is hanged in every realm.**
+
 ---
 
 ## Wages
@@ -114,9 +169,9 @@ Prices are given as city prices inside a warden's round. Past the last round, an
 | **A clerk, by the month** | 4 to 8 gold | Paid quarterly, in arrears |
 | **A Guild searcher, by the month** | 10 to 18 gold | And the gifts nobody records |
 
-### A practitioner's retainer, by Tier of Standing
+### A practitioner's retainer, by title in a fighting guild
 
-| Standing | Retainer, monthly | Who pays it |
+| Title | Retainer, monthly | Who pays it |
 |---|---|---|
 | **Initiate** | 3 to 6 gold | A workshop, a chartered company, a caravan master |
 | **Apprentice** | 6 to 12 gold | A guard company, a mine, a factor house |
@@ -126,4 +181,4 @@ Prices are given as city prices inside a warden's round. Past the last round, an
 | **Master** | 400 gold and up | Crowns, by treaty as much as by purse |
 | **Grandmaster and above** | Not quoted | Not retained. Negotiated with |
 
-> A retainer is the smallest part of what a practitioner is paid. Commissions, bonds and fees for attestation run on top, and **a ranked practitioner's term of service is carried in an estate's accounts in the same column as a ship.**
+> A retainer is the smallest part of what a practitioner is paid. Commissions, bonds and fees for attestation run on top, and **a titled practitioner's term of service is carried in an estate's accounts in the same column as a ship.**

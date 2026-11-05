@@ -5,9 +5,11 @@ title: The Practitioner Problem
 # The Practitioner Problem
 
 *Standing Doctrine on Individuals Who Outweigh Regiments*
-> Issued by the Strategic Division for the instruction of field commanders at Legion rank and above. **Sections on Voidic and the Law of Reversal are withheld from copies issued outside the Concord Citadel** and appear here by direction of the High Marshal.
+> Issued by the Strategic Division for the instruction of field commanders at Legion rank and above, and sold, at a price that keeps the Division's bindery in vellum, to any free company captain whose token covers the contract. **Sections on Voidic and the Law of Reversal are withheld from copies issued outside the Concord Citadel** and appear here by direction of the High Marshal.
 > 
 > *First of the War Cycle.*
+>
+> *An archivist's note: the Legion is small and the free companies are not, so most of the officers who have read this page draw their pay from a contract and paint their rank on a wagon. It is the most copied military text in the four quarters and almost none of the copies are legal.*
 
 ---
 
@@ -35,10 +37,11 @@ A Stage XII practitioner can unmake a regiment in an afternoon. **They cannot oc
 | Finding | Consequence |
 |---|---|
 | **They are siege engines, not infantry** | A weapon with a rate of loosing, a store of stones, a crew requirement, and a time to shift. **Every doctrinal error in the Division's history has come from officers who treated them as very good soldiers rather than as very expensive trebuchets** |
-| **They have a store and it empties** | Essence is finite per practitioner per day, replenishment is slower than expenditure under load, **and the practitioner knows exactly how much they have left at every moment.** That knowledge governs their behavior more completely than any order does |
+| **They have a store and it empties** | Essence is finite per practitioner per day, replenishment is slower than expenditure under load, **and the practitioner knows exactly how much they have left at every moment**, because their window reports it to them, to the percent, and to nobody else. That knowledge governs their behavior more completely than any order does |
 | **They cannot be two places** | The constraint the entire doctrine is built on, **and the one commanders forget first**, because a practitioner arriving somewhere is spectacular and a practitioner failing to arrive somewhere else is invisible |
-| **They degrade** | Sustained output past the second hour produces measurable coarsening in the Aether Shell. *Techniques surgical at dawn are approximate by midday and blunt by dusk.* **A tired practitioner is not a weaker practitioner. They are a less precise one**, a different and often worse problem for everybody nearby |
+| **They degrade** | Sustained output past the second hour produces measurable coarsening in the Aether Shell. *Techniques surgical at dawn are approximate by midday and blunt by dusk.* **A tired practitioner loses precision long before strength**, a different and often worse problem for everybody nearby |
 | **They are irreplaceable** | A Legion can absorb the loss of a company and continue. **It cannot absorb the loss of its Aether Knights.** This asymmetry is the enemy's principal opportunity, and every experienced commander conducts their campaign around protecting an asset **more valuable than the objective** |
+| **The token is not the fighter** | Stages can be bought. A coil and a Master's silver will tell you a young lord stands at Stage IX, and neither will tell you that he has never once found a Release, which must be mastered by fighting. **Find out before you plan around him, on either side.** The bought Stage has the reserve and the Grade, and a veteran two Stages under him has been known to cost him out by mid-morning for the pleasure of it. A wealthy house will pay well to keep this question open |
 
 ---
 
@@ -150,11 +153,11 @@ Aether Class VI is **lateral rather than sequential.** It does not sit above Rad
 
 *A courier at B-Grade travels faster than any commander in the old histories was able to think. This ought to have ended the fog of war. It did not, and understanding why is the whole of Concord command doctrine.*
 
-An army possessing high-Grade couriers enjoys something no force in the old histories ever had: **command within the hour across a front too wide to see.** What that buys is tempo, concentration against fractions, and arrival before the enemy has finished deciding. **The Accord's strategic dominance for two centuries rests on this and on nothing else.**
+An army possessing high-Grade couriers enjoys something no force in the old histories ever had: **command within the hour across a front too wide to see.** What that buys is tempo, concentration against fractions, and arrival before the enemy has finished deciding. The Long Relay's best riders are guild members and hire out to whoever has signed, under terms that exclude being shot at and are honored about as well as you would expect. **For two centuries the strategic weight of any force that could hire them has rested on this and on nothing else.**
 
 ### Why it does not settle the matter
 
-**Speed is Essence.** A courier who has run at Grade arrives depleted and requires hours before they can run again. **Same-hour command is not a property of the army. It is a consumable, and it is consumed fastest on the days it matters most.**
+**Speed is Essence.** A courier who has run at Grade arrives depleted and requires hours before they can run again. **Same-hour command is a consumable, and it is consumed fastest on the days it matters most.**
 
 **Couriers are the first thing killed.** Courier interdiction is the cheapest strategic operation available, and **the Legion's own courier losses in a hard campaign routinely exceed its losses in any other specialization.**
 
@@ -179,6 +182,8 @@ The Division's standing instruction is that capture is preferred, that the instr
 
 **Materially** · *This entry has been redacted from all copies issued below the Citadel.*
 
+*An archivist's note, in the margin: every free company sergeant in the four quarters can fill in the redaction, and so can you. A Crystal cut from a dead practitioner makes the strongest Draft of all, and it is the worst crime in every realm and the most profitable. A field commander holding a captured Stage XII has been handed the price of a small kingdom, in a form that spoils if the prisoner is exchanged. The Division has not seen fit to say what its instruction is on this. It has repeated the instruction on capture four times.*
+
 ---
 
 ## The Law of Reversal
@@ -187,7 +192,9 @@ The Division's standing instruction is that capture is preferred, that the instr
 >
 > If the Concord becomes the aggressor, the Lattice strips the resonance of its forces and the army ceases to function. **Not degrades. Ceases.** Weapons go inert, harmonics fail, and the finest military instrument ever assembled becomes **forty thousand people standing in a field holding objects.**
 >
-> This is not a policy and cannot be repealed. It is a structural property of the covenant that gives the Legion its power, **and it means the Guild Accord is constitutionally incapable of a war of conquest.**
+> No vote can repeal this, because it belongs to the structure of the covenant that gives the Legion its power, **and it means the sworn force of the Guild Accord is constitutionally incapable of a war of conquest.**
+
+Note the word sworn. A free company has given the Lattice nothing and the Lattice can take nothing from it, so a signed company fights on under Accord wax however the question falls. Every crown knows this. So does every Guildlord who has wondered whether a coalition of merchants could have a war of conquest after all, by contract, one company at a time, and the Division would like it known that it has not raised the subject.
 
 ### What every enemy does about it
 
@@ -220,7 +227,7 @@ The Division's counter is procedural and slow and consists almost entirely of th
 
 ## Unresolved Entries
 
-**The costed-out threshold** · No instrument reliably distinguishes a depleted practitioner from a full one at distance. The War-Priests' estimates carry an acknowledged error margin **and men die inside it.** Four proposals for a field instrument have been funded and none has left the Archives.
+**The costed-out threshold** · No instrument reliably distinguishes a depleted practitioner from a full one at distance. The target's own window knows and tells no one. A reader whose Gnosis Perception outranks the target's Resilience Ward by Grade can read it directly, which is why such readers are bought at any price and why the target's first act on a field is to find out who they are. Everyone else has an estimate said aloud, and an old hand can hide or fake what is being estimated. The War-Priests' estimates carry an acknowledged error margin **and men die inside it.** Four proposals for a field instrument have been funded and none has left the Archives.
 
 **Whether the Bind can be conducted by a lesser practitioner** · Present doctrine requires an asset of comparable Stage. Whether two or three lower-Stage practitioners can jointly Bind one greater has been modeled favorably **and never tested, because the test consumes the practitioners either way.**
 

@@ -7,7 +7,7 @@ tags:
 
 # The Color of Essence
 
-> *A Visual Taxonomy of Essence Hue, Temperance Clarity, and Wellspring Color Across the Continuum.* Compiled for the Research and Archives Division. Companion to **The Sixteen Stages**, the Provenance Doctrine, and **The Standing Index**.
+> *A Visual Taxonomy of Essence Hue, Temperance Clarity, and Wellspring Color Across the Continuum.* Compiled for the Archives. Companion to **The Sixteen Stages**, the Provenance Doctrine, and **The Standing Index**.
 
 On the last night of the Boat Fair at Tarn Quay, the lamps along Fishmonger's Row went ochre one after another from the harbor end, a full ten minutes before there was anybody to see. The paper lanterns went first, then the oil in the glass, then the pale evening over the net lofts, and a fine dust of harbor silt began to settle on the eels. Nobody on that quay had ever read a line of the Refinement Spectrum, and every one of them knew exactly what it meant. The Red Crane school and the Tanners' Boys, who had been brawling up and down the Row all week in scarlet and blue, stopped in mid-punch and straightened each other's collars. Every stall on the quay began taking in its awning. Then Grandmother Seok Bo-ok came up the Row in wooden clogs, Stage XII, Materia to the bone, carrying the color of a quarry at sunset on everything she passed, and it was already bleaching toward white at its edges. She had come for a pair of boots a tanner had owed her since they were both twelve. He paid, in both hands, in front of everybody, and handed over his front teeth along with them without being asked. It cost the Row three weeks of sweeping, and he told the story for the rest of his life.
 
@@ -18,7 +18,9 @@ Ochre for the Family, the white edge for the Stage, and nobody on the quay neede
 ## Preface
 
 > *On the question of whether Essence (the soul's own stuff of power) has color, the Archives' position has always been that it does, that the color is not decorative, and that anyone who dismisses it as merely aesthetic has never been in a room with a Zenith practitioner.*
-Essence color is determined by two independent variables. **The Family** (one of eight houses of magic, sorted by physics) of the practitioner's dominant Wellspring (one of the sixty types of Aether, each working on the Crystal in its own way and carrying its own physical law) harmonization assigns the **hue.** **The Temperance Stage** (how far the soul has climbed) of the Soul Crystal (the organ in the soul that works magic) assigns the **clarity.** *Hue without clarity is noise. Clarity without hue is an empty vessel.* Together they produce the practitioner's Essence Color: the visible expression of who they are and what they have survived.
+Essence color is determined by two independent variables. **The Family** (one of eight houses of magic, sorted by physics) of the practitioner's dominant Wellspring (one of the sixty types of Aether and the governing idea it carries, a lens that changes how a soul uses its power, with its own alchemical character and physical law) harmonization assigns the **hue.** **The Temperance Stage** (how far the soul has climbed) of the Soul Crystal (the soul itself, in its working form) assigns the **clarity.** *Hue without clarity is noise. Clarity without hue is an empty vessel.* Together they produce the practitioner's Essence Color: the visible expression of who they are and what they have survived.
+
+**An aura is built in three coats, and a good eye reads all of them.** The Family sets the base color. A Wellspring adds texture and sound, the grain and the voice of the thing: the shade inside the Family's range, the way it moves, the note it holds. A class or a big Trait adds a shape, a set of antlers in the glare, a door-frame standing around a landlady, a coil of smoke that will not leave a man's left shoulder. Three people of one Family in one Stage will never be mistaken for one another, and no two people have ever agreed on who looked best.
 
 **Hue follows physics.** A Caloria practitioner reads ember-orange because thermodynamics is the physics of energy transfer and the visible spectrum's encoding of thermal energy is orange-to-red. A Fulguria practitioner reads arc-blue because electromagnetism's visible expression is the ionization color of current in air. *The Families did not choose their colors. The colors chose the Families, because color is physics and the Families are physics.*
 
@@ -74,7 +76,7 @@ The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pre
 
 ## Part Three · Soul Crystal Developmental Tiers
 
-The Crystal is a convergence structure, as literal as a liver, where the Material, Soul and Fate planes overlap, and it has observable physical properties. One of those is color.
+The Crystal is the soul itself, as literal as a liver, standing where the Material, Soul and Fate planes overlap, and it has observable physical properties. One of those is color.
 
 **The Crystal's color tracks the Refinement Spectrum but is not identical to the Essence's color.** *Essence is what the Crystal produces. The Crystal is what produces it*, and the distinction matters at the extremes.
 - **Dormant (Pre-Stage I)** · No Essence output, but the Crystal exists and can be perceived: dark, inert, dimensionally flat. **A black stone in the chest with no luminance and no depth**
@@ -84,13 +86,13 @@ Between those extremes the Crystal transitions through **eight named tiers**, an
 >
 > **Resonant to Radiant** is the first moment the Crystal produces enough light to be seen without mantic assistance.
 >
-> **Sovereign to Crystallized** is where the Crystal stops being an object inside a person and becomes, for all functional purposes, **the person. The color is the soul, expressed.**
+> **Sovereign to Crystallized** is where the Crystal stops reading as an object inside a person and shows what it has been all along: **the person. The color is the soul, expressed.**
 
 ---
 
 ## Part Four · The Essence Matrix
 
-The full Essence Color of any practitioner is the intersection of Family hue and Temperance clarity: eight Families across sixteen Stages. Left edge of each row: the Family color at its darkest and least refined. Right edge: brightest and most refined, approaching white. **Every practitioner in the Continuum sits somewhere on this grid, and their position is readable by anyone with the Gnosis to look.**
+The full Essence Color of any practitioner is the intersection of Family hue and Temperance clarity: eight Families across sixteen Stages. Left edge of each row: the Family color at its darkest and least refined. Right edge: brightest and most refined, approaching white. **Every practitioner in the Continuum sits somewhere on this grid, and their position can be estimated by anyone who looks and read outright by anyone whose Gnosis Perception outranks their Resilience Ward.**
 > **The applications are diagnostic.** A field Mancer assessing an unknown practitioner reads two things at once: **the hue tells them what the practitioner works, the clarity tells them how long they have been working it.**
 >
 > A bright saturated Caloria reading is a high-Stage fire practitioner. A dark murky Vitalia reading is an early-Stage healer or necromancer who has not refined past the noise. *Taken together, the single most reliable field-assessment tool available to a Mancer who does not have time for a full Gnosis workup and needs to know, in the next three seconds, whether the person in front of them is dangerous.*
@@ -137,6 +139,14 @@ The Moto hold that a coat anyone can see is badly worn and that showing color at
 
 **How the coat works.** Stats sit in the body as a passive base, and the coat is the active layer over it, surging at the point of contact and glowing brighter as its owner pushes. It can be focused to one place at the cost of a thin rest and extended into held gear, and it is lost asleep, drugged or surprised, which is why so many famous people have died at dinner.
 
-**How the weight shows.** It shows in the room first, in smoke, frost, lamp flames and animals, and then in bodies. One Stage up bends attention. Two brings sweat and nausea. Three or more drops people where they stand, and a Band gap changes the weather. The unwoken take it by Grade: dread from F to D, a weight in the room from C, knees bending from A.
+**How the weight shows.** It shows in the room first, in smoke, frost, lamp flames and animals, and then in bodies. One Stage up bends attention. Two brings sweat and nausea. Three or more drops people where they stand, and a Band gap changes the weather. The unwoken take it by Grade: dread from F to D, a weight in the room from C, knees bending from A. Only after all that does the window (the soul's report of its own numbers to its owner, seen by nobody else) catch up and report it as a line, by which time the knees have usually formed their own opinion:
 
-**How the spending shows.** The color tells on its owner at fixed marks, whatever the words used for them. At half the reserve the breath shortens and the aura dims. At a quarter come a tremor and a thinning of the color. At a tenth the aura flickers and the Trait stutters. Past that lie heat, blood and a cracking aura. Waste is loud and hot, mastery is quiet, and a good nose reads all of it from across a market.
+```
+[Pressure: far above you · Focus down a Grade]
+```
+
+A title lends no weight. A Grandmaster merchant with no fighting Stage has no Pressure at all, whatever his manners suggest, and many a fighter has been embarrassed in a counting house by assuming otherwise.
+
+**How the nose reads.** A stronger Gnosis Perception reads a weaker Resilience Ward: Level, Stage and Grades, on the reader's own window, as plain as a price. A stronger Ward leaves the reader with question marks. Everything else in the trade is an estimate said aloud, and that is why fighters talk about each other so much and so loudly. People can hide it or fake it. A Moto lord banks his coat down until a Stage XI looks like a tired Stage VI, and a Free Company sergeant with a bad hand and a loud mouth will run his aura hot enough to pass for two Stages over what he is. Trained noses know both tricks, and both tricks still work on someone.
+
+**How the spending shows.** The color tells on its owner at fixed marks, whatever the words used for them. At half the reserve the breath shortens and the aura dims. At a quarter come a tremor and a thinning of the color. At a tenth the aura flickers and the Trait stutters. Past that lie heat, blood and a cracking aura. Waste is loud and hot, mastery is quiet, and a good nose reads all of it from across a market. The owner has the same news sooner and more exactly, as `[Reserve: 41%]` on a window nobody else can see, which is the whole reason a practiced fighter can fake a tremor at half.

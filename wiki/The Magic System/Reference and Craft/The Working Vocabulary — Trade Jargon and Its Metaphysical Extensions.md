@@ -61,7 +61,7 @@ Nobody who does it for a living talks about refining Aether. A practitioner haul
 | **sweating** | warming sealing wax over a lamp until the seal lifts whole | a Guild seal opened and closed without trace | *sweating a seal* is forging one |
 | **tundish** | a funnel for filling a cask, set so the pour can be *seen* | the small brass funnel on every Drafter's bench; the fitting whose entire purpose is that a short measure cannot be hidden | *the tundish* is any arrangement designed to make a thing undeniable |
 
-**The one to steal first is the tundish.** It is a funnel whose only function is that somebody can see what is going into the cask. A fitting that exists to prevent concealment. In a world where the Accord taxes the bottle and a great many Drafters would prefer it did not know how much they are pouring, the tundish is the object every argument in a Dark Ages street happens over.
+**The one to steal first is the tundish.** It is a funnel whose only function is that somebody can see what is going into the cask. A fitting that exists to prevent concealment. In a world where every hall and crown wants its cut by the bottle, and a great many Drafters would prefer they did not know how much is being poured, the tundish is the object every argument in a Dark Ages street happens over.
 
 ## II. The Assay
 
@@ -75,7 +75,7 @@ The real process: a sliver of the sample is wrapped in lead, sometimes pre-treat
 | **cupel** | the porous bone-ash dish that drinks the lead | the diagnostic bench, and by extension the examiner's room | *in the cupel* is under investigation |
 | **litharge** | the lead oxide that carries the base metal away | what an assay takes off a Crystal and what the practitioner is left short by afterward | — |
 | **scorification** | pre-treatment before the assay proper | the preliminary questioning before an examination | *scorified* is softened up |
-| **the button** | the residue after cupellation | what remains of a man's capacity when everything unearned has been burned off | *a small button* is a man with less to him than his reputation |
+| **the button** | the residue after cupellation | what remains of a man's capacity when everything unearned has been burned off; a bought Stage assays small, and its owner knows it | *a small button* is a man with less to him than his reputation |
 | **fineness** | proportion of precious metal in the alloy | the ratio of a practitioner's real Coherence to their claimed standing | — |
 | **parting** | separating two metals that alloyed together | separating a bloodline trait from a trained one; contested and rarely clean | — |
 | **proof** | the mark struck on tested metal, armor, glass | the Guild proof-mark; a proofed working, a proofed breastplate, dented by a crossbow at the armorer's door | *proofed* is vouched for |
@@ -110,7 +110,7 @@ Glasshouse vocabulary supplies the language of Draft vessels, lens work, and the
 | **lehr** | the long oven a piece travels through as it anneals | the enforced rest after an ascension, weeks long, deeply resented | *in the lehr* is laid up, out of action |
 | **seed** | fine bubbles left in the metal | small permanent inclusions in a Crystal; common, mostly harmless, always noted | — |
 | **cord** | striations from an unevenly mixed melt | structural striation across a Crystal, and the thing an examiner looks for before anything else | *corded* is inconsistent, unreliable |
-| **frit** | ground glass applied to add color | fragments of a broken Crystal, and the trade in them | *frit* is powder, and buying frit is buying something that came off a corpse |
+| **frit** | ground glass applied to add color | fragments of a broken Crystal, and the trade in them, the cheap end of the worst crime in every realm | *frit* is powder, and buying frit is buying something that came off a corpse |
 | **encasing** | a clear layer laid over a decorated core, which magnifies it | a working laid over another to amplify it | — |
 | **fuming** | metal vaporized over hot glass, depositing color | residue laid down on a vessel by proximity to a working | — |
 | **flaring** | opening out the end of a tube | widening a channel past its intended bore | — |
@@ -128,9 +128,11 @@ This is the same engine as the doublet on the Common page. The Latin column is w
 
 Domains that would yield as well and have not been mined yet, in the order I would take them.
 
-**Bell-founding and acoustics**, for *Ars Cantus*. Bells are tuned on their partials, and a bell that will not come into tune is called false. A choir vocabulary built on strike note, hum, and falseness would give Chantcraft the technical layer it currently lacks.
+**Bell-founding and acoustics**, for *Ars Cantus* and every chanter who has leveled the skill. Bells are tuned on their partials, and a bell that will not come into tune is called false. A choir vocabulary built on strike note, hum, and falseness would give the chant the technical layer it currently lacks.
 
-**Quarrying and banker masonry**, for Runecraft. The bed, the grain, quarry sap, spalling, dressing, the reveal. A stone has a direction and a rune cut across it fails, which makes inscription a craft with real failure modes that anyone who has split a paving slab can follow.
+**Quarrying and banker masonry**, for rune-cutters. The bed, the grain, quarry sap, spalling, dressing, the reveal. A stone has a direction and a rune cut across it fails, which makes inscription a trade with real failure modes that anyone who has split a paving slab can follow.
+
+**Knacking and the rendering floor**, for monster cores and the crews who bring them up. Everyone who has ever boiled a carcass down for tallow has words for what comes off the top and what stays in the pot, and the people rendering a core into a Draft have been borrowing them.
 
 **Surveying and the chain**, for Domain radius, boundary disputes and the Bench.
 

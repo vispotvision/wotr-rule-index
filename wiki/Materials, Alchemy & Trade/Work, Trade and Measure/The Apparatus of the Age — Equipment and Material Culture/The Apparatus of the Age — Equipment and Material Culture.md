@@ -101,9 +101,9 @@ The Division mentions the affair because it explains the order of this register.
 
 **The Practitioner's Coat** · **No standard pattern.** *A Corporis fighter wears what moves with the body and survives being hit. An Engraver wears something with pockets. An Alchemist wears something that has already survived several chemical accidents and shows it.* Sect people add the colors of their school, as loud as the school can afford, and will fight you about them.
 
-> **The single universal element is the rank token**, a silver disc at throat, belt or wrist, inscribed to the bearer and verifiable on a coil.
+> **The single universal element is the title token**, a silver disc at throat, belt or wrist, inscribed to the bearer with guild and title (one of the nine, Initiate through Paragon) and verifiable on a coil. Sect people wear theirs beside the colors, since a sect rank says where you stand in that school and a title says what you are trusted with, and both matter.
 >
-> **Simultaneously a badge, a passport, a line of credit, and its own weight in bullion**, *and losing it is a bureaucratic catastrophe the practitioner will spend the next three months resolving.*
+> **Simultaneously a badge, a passport, a line of credit, and its own weight in bullion**, *and losing it is a catastrophe the bearer will spend the next three months resolving, in person, at a series of halls.*
 
 ### Station in cloth
 
@@ -127,7 +127,7 @@ The Division mentions the affair because it explains the order of this register.
 
 > **The work bell is what made the Guild hour matter.** A cloth town's masters hang a bell to start and stop the day for everyone on time wages, and a bell rung late on a long summer evening is wages stolen in front of the whole town. In Year 694 Jonet Teasel, a journeyman fuller of Cardmere (a fuller being someone who pounds woven wool thick), climbed the hall tower on the eve of the wool fair with her arms blue to the elbow and cut the rope. The masters hung a new rope and passed a new law: sixty silver to anyone who rang that bell to call the town out. Three nights later the fullers, weavers and carders of Cardmere pushed a wheelbarrow to the hall steps, tipped sixty silver in coppers onto the masters' table, and rang it until dawn. *Relay riders need the hour too, because two stations cannot agree on a change of horses by the sun, but it was the wheelbarrow that made it law.*
 
-**The Stannvaard Bar** · One object, and the Guild would like you to stop asking to see it. A bar of cut stone inscribed with Basilithe (the Materia Wellspring that fixes a body's resonance) and struck, which rings at one pitch and holds that pitch against anything that tries to drive it off. Measurewright Aldith Quernby spent thirty-one years cutting it, and the Guild's assay forks and reference coils are tuned against it once a year, in a room with no windows, by people in felt slippers.
+**The Quernby Bar** · One object, and the Guild would like you to stop asking to see it. A bar of cut stone inscribed with Basilithe (the Materia Wellspring that fixes a body's resonance) and struck, which rings at one pitch and holds that pitch against anything that tries to drive it off. Measurewright Aldith Quernby spent thirty-one years cutting it, and the Guild's assay forks and reference coils are tuned against it once a year, in a room with no windows, by people in felt slippers.
 
 > **Its limit is the one its Wellspring carries.** A frequency that cannot be shifted cannot be detuned away from a forcing that matches it, so the Bar was cut off the pitch of the local hum (the faint note every kept street gives off from its wards and lamps), and **a sound held at its own pitch will shatter it.** *The pitch is written in a sealed book. The Guild has hanged two choirmasters on suspicion of having looked.*
 
@@ -165,9 +165,9 @@ The Division mentions the affair because it explains the order of this register.
 
 **The pavise company** · **The painted pavise (a tall shield with a prop) on a back-strap, the soft arming cap, a spade, a windlass arbalest and a quiver of steel-headed bolts.** *Every pavise is painted as loud as the town that pays for it, lions and saints and a cheerful hanged man, because for the whole of a long afternoon it is the only part of you the enemy will get to see.* A bolt beats a charge only if the charge can be slowed, so the sharpened stake and the horse-pit follow the pavise, and the spade becomes the second weapon of the company. Every veteran sews his first company's color inside his collar, and no sergeant has ever managed to stop it.
 
-> **Practitioners change everything anyway.** A ranked practitioner on a line is worth a siege train and is paid like one. An Onceglass volley answers a stake-line; a Vectoria working answers a charge; a Fulguria hand (Fulguria being the lightning Family) blinds a beacon tower. **Every army of the age is two armies**: the line that fights the other line, and the handful of ranked people who decide where a line can stand at all.
+> **Practitioners change everything anyway.** A titled practitioner on a line is worth a siege train and is paid like one. An Onceglass volley answers a stake-line; a Vectoria working answers a charge; a Fulguria hand (Fulguria being the lightning Family) blinds a beacon tower. **Every army of the age is two armies**: the line that fights the other line, and the handful of titled people who decide where a line can stand at all.
 >
-> *Custom and the captain's lungs govern the first. Nothing governs the second except the Accord's schedules and the depth of the Crown's purse.*
+> *Custom and the captain's lungs govern the first. Nothing governs the second except the Accord's schedules and the depth of the Crown's purse, and a deep enough purse can buy its own, a Stage at a time, out of a bottle.*
 
 ### Bolt and proof
 
@@ -213,7 +213,17 @@ The Division mentions the affair because it explains the order of this register.
 
 ### Names on the rack
 
-**Gear has a reputation before it has an owner.** Plain weapons get nicknames in a barracks and lose them by the next war; a good piece keeps its name, adds past owners, and travels ahead of whoever carries it, on the ladder at [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]]. A cheap crossbow that once killed someone famous sells for more than a fine one that has killed nobody, and pawnshops near a bracket ground keep a whole wall of swords that belonged, on the owner's oath, to Sigvard Wenlock, the Hill That Walks, who owned one sword in his life and was buried with it.
+**Gear has a reputation before it has an owner.** Plain weapons get nicknames in a barracks and lose them by the next war; a good piece keeps its name, adds past owners, and travels ahead of whoever carries it, under the two ratings set out at [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]. A cheap crossbow that once killed someone famous sells for more than a fine one that has killed nobody, and pawnshops near a bracket ground keep a whole wall of swords that belonged, on the owner's oath, to Sigvard Wenlock, the Hill That Walks, who owned one sword in his life and was buried with it.
+
+**Hide, bone and scale** · **The best gear going comes off something that tried to eat the last owner.** A crew brings up a beast's plates with its core, a tanner or an armorer with the title for it cuts them into a brigandine or a shield-face, and the piece fights on the same Grade law as steel with its old owner's temper faintly attached. Plain folk see it as the mark of a crew that has been somewhere: a deep crew's captain in a coat of Tolling Crab, the color of old amber, gets served first in any tavern on the Kessen road. Very few of them can afford to wear what they kill, because the same plates sell for a year's rent.
+
+### The crew's kit
+
+*The soldier above is paid by the season. The crew below is paid by what it brings up, and packs accordingly.*
+
+**On the rope** · Knotted line, hammers, wedges, a bait lantern, smoked glass, a sack of salt, a one-hour glass for the caller, the assay fork for the band, and ward-chalk for the night. **Bolts by the pouch, because a crossbow does not care what Stage the thing in the gallery reached either.** *The rest of a crew's gear is whatever came off whichever crew went down last. Every delver's coat has somebody else's darning on it.*
+
+**The Core Box** · A hand-sized Chainsalt-lined box with a lead hasp, on the same principle as the Sealed Coffer, so that a monster's core carried up a stair reads like a lump of salt to anybody with Gnosis and a grudge. **A crew that cannot afford one walks home through every bandit and hedge-renderer in the district, shining.** *It also keeps the core's owner from opening the lid at the camp, looking at it, and having a very bad idea about swallowing it.*
 
 ### The practitioner-combatant
 
@@ -235,9 +245,11 @@ The Division mentions the affair because it explains the order of this register.
 >
 > *A Measurewright calibrates the reference coils annually, and the calibration is the closest thing to a religious ceremony the guild system has.*
 
-**The Rank Token** · *The Accord's most brilliant institutional invention: a credential that is simultaneously a badge, a passport, a line of credit, and money.*
+> **The Appraiser's Bag** · A loupe, a tuning fork, a small field coil and a very low opinion of everyone. The coil gives Grade, the fork gives density, and the Appraisal skill on the bearer's own sheet does the rest, or does not: **a good forger beats a weak appraiser**, and the whole of [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]] is about what follows from that sentence.
 
-> A practitioner stripped of rank **watches the inscription go inert in front of witnesses**, and the object that was a credential becomes a lump of metal, *and the ceremony is conducted slowly, because the Accord understands that humiliation has a pedagogical function.*
+**The Title Token** · *The Accord's most brilliant invention: a credential that is simultaneously a badge, a passport, a line of credit, and money, and the reason a stranger from another kingdom will hand you the goods.* It says Grandmaster on a merchant who may not be able to throw a punch, and it says the same word on a fighter who can level a street, and nobody in either trade is confused about which they are dealing with. **A forged one is a hanging in every realm.**
+
+> Somebody stripped of a title **watches the inscription go inert in front of witnesses**, and the object that was a credential becomes a lump of metal, *and the ceremony is conducted slowly, because every guild in the coalition understands that humiliation has a pedagogical function.*
 
 **The Seal-Token** · Nalūn's contribution. **A merchant without one is a merchant without a history, and a merchant without a history is a merchant without credit.**
 
@@ -257,7 +269,7 @@ The Division mentions the affair because it explains the order of this register.
 >
 > Each one is cut by hand and costs roughly **four months' wages** for an independent carrier. *Every carrier who can afford one owns one, and the divide between carriers who have it and carriers who do not is the single most visible divide on any trade road in the four quarters.*
 
-**The Sealed Coffer** · Chainsalt-lined, **so a coffer full of Aethersteel blanks looks, to anyone reading the ambient field, like a box full of salt.** *The lock answers to the owner's Essence Signature and nothing else. It can only be forced by destroying the liner, which contaminates the contents, which defeats the purpose.*
+**The Sealed Coffer** · Chainsalt-lined, **so a coffer full of Aethersteel blanks looks, to anyone reading the ambient field, like a box full of salt.** Great houses move their Draft stock this way, and the wagons carrying the top shelf travel with more guards than the crown does. *The lock answers to the owner's Essence Signature and nothing else. It can only be forced by destroying the liner, which contaminates the contents, which defeats the purpose.*
 
 **The Factor's Kit** · Seal-token, a ledger bound in **Sunkwood boards (Essence-quiet, so entries are not contaminated by proximity to Holding-grade cargo)**, portable coil, loupe, sealed reference weights, and enough silver for three days.
 
@@ -387,7 +399,7 @@ The Division mentions the affair because it explains the order of this register.
 
 **Ember Flint** · **The cheapest Essence-active object in the four quarters by unit cost.** *Carried by anyone who has been cold and wet and alone and has discovered that the ability to start a fire without dry tinder is worth the copper piece the flint cost.*
 
-**Healing Salve** · A Vitalia Draft in rendered fat, beeswax and herbs. Accelerates clotting and granulation **for four to six hours, after which the Essence is exhausted and the salve reverts to an ordinary unguent.** *Sold occasionally by herbalists who have learned enough to know that they are selling above their certification and who price accordingly.*
+**Healing Salve** · A Vitalia Draft in rendered fat, beeswax and herbs. Accelerates clotting and granulation **for four to six hours, after which the Essence is exhausted and the salve reverts to an ordinary unguent.** *Sold occasionally by herbalists who have learned enough to know that they are selling above their title and who price accordingly.*
 
 **Ward-Chalk** · Chainsalt ground and bound, holding four to eight hours before the powder has absorbed enough ambient Essence to lose its dielectric properties. **The field practitioner's tar and twine: temporary, imperfect, and the difference between sleeping safely and not sleeping at all.**
 
@@ -399,5 +411,5 @@ The Division mentions the affair because it explains the order of this register.
 >
 > **The last of the three is the notable absence.** The death trades own specialized tools, maintain them across generations, and will not describe them to a Division clerk. *The Research Division has asked the executioners three times and been refused three times, and the equipment schedule is refused along with everything else.*
 
-- [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers]]
+- [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Bolt and the Enhanced Weapon]]

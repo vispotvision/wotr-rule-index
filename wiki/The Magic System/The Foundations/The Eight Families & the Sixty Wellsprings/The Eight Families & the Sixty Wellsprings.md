@@ -9,11 +9,11 @@ tags:
 
 # The Eight Families & the Sixty Wellsprings
 
-> *"The Wellspring is neither gift nor spirit. It is a law that was already running before you noticed it, and harmonization is the act of agreeing to be measured by it."*
+> *"What burns in the crucible burns in the one who tends it."*
 >
-> *From the preface to the First Physical Register.*
+> *The oldest saying of the bench, older than any register.*
 >
-> **Second edition.** The first edition gave every one of the sixty **a physical analogue, a mechanism in that analogue's own terms, and a failure mode following from the mechanism rather than from the mood.** The entries are unchanged. **The physics has not moved.** This edition adds what the trade has always known and the Register was too proud to set down on the same page: **what each of the sixty means at the bench and what it does to the soul.**
+> **Third edition.** The first edition gave every one of the sixty **a physical analogue, a mechanism in that analogue's own terms, and a failure mode following from the mechanism rather than from the mood.** The second added what the trade has always known and the Register was too proud to set down on the same page: **what each of the sixty means at the bench and what it does to the soul.** This edition turns the page right way up. Every entry now opens on the idea, the transformation and the principle, and the physics follows as the scholars' explanation of them. **The physics has not moved and no figure has changed.** Only the order has, and the Measurewrights have lodged their objection in the usual place.
 
 Nobody on the Cold Tun bridge needs the Sixty explained, because their grandmothers saw Sanne Ruddock and Ond Gravell. Same Stage (a rung of the soul's sixteen-step climb), same Grade (the letter an assay gives a stat) on the sheet, and both banks packed to the reeds with the green sashes of the Hot Tun Ladies and the slate caps of the Quarrymen, with a man selling fried dough off a pole between them. The bridge stands where a hot spring comes up through old bedrock, so two kinds of Aether (the raw stuff of magic in the world around you) pool under that one span, and each fighter stood in the same air and pulled a different one. Sanne breathed in Pyreveil and came up deep ember-orange from the ribs outward, skin flushed and bone-dry, heat-shimmer climbing both arms until the spit boiled off her lip. Ond breathed in Petralon and went the gray of a wet anvil, and the dust on the deck sagged down around his boots with a long settling groan, and everyone on the bridge felt him get heavier without being able to say how. Her fire broke over him, and he stood in it. His fist went into her guard like a dropped lintel, and she laughed with blood on her teeth, because her body had stopped minding. For the length of a long sermon neither of them could do one thing about the other, and the crowd sang all through it.
 
@@ -21,41 +21,62 @@ Then both bills came due inside a single breath. Sanne got both hands round his 
 
 He did not bend first. Stone does not. And the heat she had kept banked in her own tissue to do it had to leave by whatever was nearest, which was her palms, and she stood there on the bridge with her hands cooking and her mouth wide open while Ond Gravell, one-armed and roaring, fell on her and took them both over the rail into the Tun. Draws keep the stakes at Cold Tun. The bookies bought new roofs.
 
-Two fighters, one bridge, one breath of the same air. The whole of the difference was which Aether each of them took in, what it did to the Crystal that took it, and what it would eventually charge. Every child in the Four Quarters already half knows this, being a *Fixatio child* or a *Tarturon child* by the day of the sixty they were born on, which is stated before their age is. The rest of this page is the long version, and it is worth the lamp oil.
+Two fighters, one bridge, one breath of the same air. The whole of the difference was which idea each of them had let govern their Aether, what it did to the soul that took it, and what it would eventually charge. Every child in the Four Quarters already half knows this, being a *Fixatio child* or a *Tarturon child* by the day of the sixty they were born on, which is stated before their age is. The rest of this page is the long version, and it is worth the lamp oil.
 
 ---
 
-## Why the Sixty Were Re-Sorted
+## What a Wellspring Is
 
-The older registers arranged the Wellsprings by feeling. Grief stood with grief. Fire stood with fire because both were warm. It produced a beautiful taxonomy and a useless one, because a practitioner who knew that Cinerion and Pyreveil were both House of the Ember still had no idea why one of them refilled a reserve and the other emptied it faster.
+**A Wellspring is an idea that changes a soul.** Each of the sixty stands for one transformation, alchemical and spiritual at once: fire that renews, the breaking point, forgiveness, the honest mirror, the cup of forgetting, the first substance. Aether comes in sixty types because there are sixty of these ideas for it to carry.
 
-The physics-first sorting corrects that at the cost of intuition. Wellsprings that shared a House for reasons of sorrow are now scattered across five Families. An ember and a stone stand together. Both facts are correct, and both offend the eye of anyone trained on the old registers. Materia Primordia and Tarturon belong in one Family because both are, mechanically, the assessment the Continuum (the whole lawful order of reality) makes of what a soul is made of and how much of it survives contact, and how reckoning feels has nothing to do with it.
-> *A warning to the devotional reader. Naming the physics does not demote the Wellspring. The Aether was always obeying a law. The Measurewrights (the guild's certified assessors of practitioners and workings) have simply written the law down.*
+You can see a Wellspring as a source of power you pull from, and on the street everybody does. They have reason to, since the ember really is in the ground at Cold Tun and you really can fill up on it. The better description, the one the benches and the confessors held long before there were registers, is **the governing idea that transforms how a soul uses Aether.** Your soul was already potent before any Wellspring touched it. A Wellspring puts **a lens** on that magic: it takes what is already there, brings it to a point, and turns the way the power moves in you.
 
----
+That is why the Sixty matter more than almost anything else on a sheet. A Stage says how far up a soul has climbed. A Wellspring says what the climb is doing to it, and two fighters of one Stage and one Grade can stand on one bridge and be two entirely different weather systems. The Wellspring also sets the bill, because a law taken up as your way of living goes on charging you in its own coin.
 
-## What a Wellspring Physically Is
+### The lens on your Essence Typology
 
-A Wellspring is **a type of Aether that carries a fixed law.** Aether is what practitioners pull from the environment around them, and it comes in sixty types, fixed and counted, and each type affects the Soul Crystal (the soul's organ that stores and channels power) differently. Take in Pyreveil and your reserve burns hotter while your body stops minding the heat. Take in Hypnather and you sleep like the dead and wake structurally different. Take in Fractura and you will never again look at a bridge, a friend or your own left wrist without seeing where it is going to go. A type of Aether is not stored anywhere and it does not belong to anyone. It runs whether observed or not, in the way that a pressure gradient runs whether or not something is standing in it.
+Every soul leans before anyone has trained it. **Essence Typology** is a Soul Crystal's natural bias toward one of the eight Families, usually with a second undertone behind it, and it is a disposition rather than an element controlled: it colors everything the person does with power. Give a Caloria soul and a Limina soul the same Flux at the same Grade and the Caloria blow burns and ruptures, while the Limina blow ends and quiets things. [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|Part Eighteen of the Fracture]] gives all eight.
 
-The old registers call each type a **current**, and the trade still does, because Aether moves over ground the way wind moves over a field. Keep the word and lose any picture of a pipe. Nobody has ever laid a Wellspring on or shut one off at a valve, and the Measurewright who tells you otherwise is about to send you a bill.
+**The lens brings that lean forward.** It can highlight a person's natural Typology and it can even double the effect of it, so that more of what the soul already is arrives in every blow and every working. The Grade on the sheet does not move and no stat points appear, because a Typology never added any. What grows is how much of the burn, or the ending, or the stubborn weight is in the thing that hits you.
 
-**The road through the soul** is the same for all sixty. Aether is pulled in from the world, refined in the Soul Crystal into Essence (a soul's own share of Aether, the thing a fighter holds and spends), and driven out through the Aether Shell (the Crystal's outer layer, which turns inner power into outward force). What differs is the type. Where you stand therefore matters twice: rich ground fills you faster and thin ground starves you, and the ground decides which of the sixty is on offer. On the street this is plain sense. A brawler will say she has the ember in her, or the stone, or that she took the water at Saint Orrin's pond, and she will say he only fights like that on hot ground. On a Guild roll all of that is harmonization, which comes next.
-> **Harmonization is phase-locking.** The Aether Shell adopts the characteristic behavior of one type of Aether so that Essence passing outward through the Shell is shaped by that law before it reaches the world. Nothing is added to the practitioner. The conduit is retuned, and everything that passes through it afterward carries the retuning.
+**It starts small, and only years reach double.** Wenna Corry of Tallow Row, a lamp-lighter's girl with a Caloria soul, paid a year's wages for a bottle of Ignivale at sixteen, and for her first year the lens gave her about what a good pair of bellows gives a smith: her wicks caught a shade sooner and a shade hotter than her arm alone could have managed. She lived with it for twenty-four years. By forty she could break a man's jaw on the Tallow Row steps and his beard would be alight before his teeth landed, and the bookies stopped asking whether she had been drinking and started asking what she charged. Her soul has said the same thing throughout, in the window nobody else can see (the soul's report of its own numbers to its owner, in square brackets on the page), and this is how the two ends of it read:
 
-This is why harmonization changes what a number means without changing the number. A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude. It becomes a Fortitude that behaves like a load-bearing mass rather than like tissue, with the failure curve of stone rather than the failure curve of flesh. **The magnitude stays where it was and the constitutive law changes.**
+```
+[Ignivale: harmonized. Lens on Caloria: +8%]
+[Ignivale: harmonized, 24 years. Lens on Caloria: +100%]
+```
 
-Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harmonize with twelve or more. Those who embody all sixty are called **Principals of Temperance**, and there are not many of them, and you will not meet one.
+Those figures are a sample from one woman's sheet and no law, and every soul's road runs at its own speed. The rule under them is plain: **a lens grows the way a Trait grows, by being lived with.** A Draft can hand you the lens. The years are yours to live.
+
+**A lens from your own Family works straightest.** A Caloria soul under a Caloria Wellspring takes stronger enhancement than a Materia soul attempting the same. The Materia soul's Crystal does not reject the Wellspring, but its lattice works harder to integrate it, for lower-quality resonance at higher Essence cost. Such a lens still changes how that soul uses Aether, and plenty of famous fighters are famous for exactly that clash. Whether an off-Family lens can ever reach the double is an open fight, and the benches keep the bets.
+
+**Each lens grows on its own.** A soul with three Wellsprings has three lenses at three stages of mastery, all under the Capacity rules further down this page, and compounding within a Family is described there.
+
+**You can see it.** A Family sets the base color of a person's aura, a Wellspring adds its texture and its own sound and smell, and an Aether Class or a big Trait adds a shape. A trained eye at fifty paces can tell you the Family, make a good guess at the Wellspring, and tell you from how steadily the color sits whether the lens is two years old or twenty.
+
+*Measurewrights at Sealhall have spent a long time arguing about what exactly gets doubled, since the Grade holds still and no fork rings a disposition. Their working answer is to ask the person who got hit.*
+
+### How you come by one
+
+There are four roads, and most people who have more than one Wellspring have walked more than one of them.
+
+**At a Core, in a dungeon.** Most Wellspring Cores lie in dungeons, the living underground places that grow down in floors around a Core with something guarding the heart. On a held site a person can sit at the edge of a known Wellspring, with a keeper and a baseline taken first, and come away harmonized, at a price by the hour. In a place nobody holds, a crew that goes too deep takes Wellspring Baptism whether it wanted one or not. This is the road dungeon luck runs on, and the reason a nobody with a good rope can come home changed. See [[The Bestiary/Dungeons|Dungeons]].
+
+**From a school.** A sect teaches the rites for its Wellspring, along with the Releases, Domains, techniques and skills that money cannot buy, and in return you wear its colors, sing its songs and inherit its grudges. A school's style is that lens worn by a hundred people at once, which is why you can spot it across a square.
+
+**From a Draft or a blessing.** A Draft puts the lens in a bottle, and the great houses hoard the best ones. A blessing is given by a higher spirit, an Archon, an Epoch or a person of higher Temperance, for whom it costs next to nothing. Either way it can land in a soul that could never have reached it alone. A blessing shows as its own line on the sheet, and because the giver wrote that line it can lie, so what reads as a gift for years may be a curse with terms you did not read.
+
+**By birth.** Some souls arrive already harmonized, by bloodline or by generations of living downwind of a concentration. The birth-day name is another matter entirely: a *Fixatio child* is any child born on Fixatio's day, and being called one has never once sealed anything.
 
 ### One Aether, three readings
 
 Every one of the sixty can be read three ways, and each reading is a whole profession that thinks the other two are amateurs.
 
-**As a law of the world.** The Measurewright's reading, and the one this register is built on: the physical analogue, the mechanism, the failure.
-
-**As an alchemical principle.** The bench's reading: what that law does to matter in a vessel. Each of the sixty is a living process, a law of transformation, and the discipline of Alchemetrica (the working of Wellspring law upon matter) is built on that fact. The reagents are the nouns and the Wellspring is the verb. Six of the sixty are at once Wellspring, cosmic principle and named bench operation, and four more lend their law to a stage of the Great Work (the seven-stage discipline an alchemist lays on the matter and on himself at once). The rest have no operation filed under their name at the Bench, though every working alchemist has an opinion about what each of them is the principle of, and those opinions appear in the entries, marked as the trade's reading and open to a fight.
-
 **As a spiritual transformation.** The confessor's reading, and the oldest: what taking this Aether into the soul does to the person who survives it. Temperance is the climb of a soul from Stage to Stage, and every Wellspring is a road on that climb, so the Fracture register names Pyreveil *Temperance through burning* and Absolution *Temperance through forgiveness*, and where the Fracture register gives no such name the entry gives the confessors' reading, marked as such and argued over at every deathbed. To pass through a Wellspring is to be unmade just enough to keep going. Every Wellspring touches all three layers of the Crystal, rarely evenly. The **Essence Core** decides how the soul burns, heals or empties under that law, the **Aether Shell** how the law moves through and around the body, and the **Attraction Layer** how reality, memory and people bind to the soul once the law has taken hold.
+
+**As an alchemical principle.** The bench's reading: what that same idea does to matter in a vessel. Each of the sixty is a living process, a law of transformation, and the discipline of Alchemetrica (the working of Wellspring law upon matter) is built on that fact. The reagents are the nouns and the Wellspring is the verb. Six of the sixty are at once Wellspring, cosmic principle and named bench operation, and four more lend their law to a stage of the Great Work (the seven-stage discipline an alchemist lays on the matter and on himself at once). The rest have no operation filed under their name at the Bench, though every working alchemist has an opinion about what each of them is the principle of, and those opinions appear in the entries, marked as the trade's reading and open to a fight.
+
+**As a law of the world.** The Measurewright's reading, and the youngest: the physical analogue, the mechanism, the failure. Scholars have an account of everything, this is theirs, and it has the great merit of predicting the bill. The rest of this page gives it in full.
 
 The correspondence is architecture rather than poetry, which is what Alchemetrica means when it says that what burns in the crucible burns in the one who tends it.
 
@@ -76,13 +97,45 @@ Dissolution and Coagulation are stages of the Work too, on the Wellsprings that 
 
 The old masons knew a shorter list and knew it empirically, with no account of why: basalt takes Coagula and Fixatio, quartz amplifies Fractura and Luminalis, iron conducts Manganthra and Aurevane, gold carries Benediction and Sublimatio, and obsidian holds Tenebra and Oblivara.
 
+---
+
+## How the Scholars Explain It
+
+> *"The Wellspring is neither gift nor spirit. It is a law that was already running before you noticed it, and harmonization is the act of agreeing to be measured by it."*
+>
+> *From the preface to the First Physical Register.*
+
+Everything below this line is the account the Measurewrights (the guild's certified assessors of practitioners and workings) give, and every figure on this page lives in it. It may be wrong about what a Wellspring ultimately is, as the confessors will tell you, and it has never yet been wrong about what one will charge.
+
+### Why the Sixty Were Re-Sorted
+
+The older registers arranged the Wellsprings by feeling. Grief stood with grief. Fire stood with fire because both were warm. It produced a beautiful taxonomy and a useless one, because a practitioner who knew that Cinerion and Pyreveil were both House of the Ember still had no idea why one of them refilled a reserve and the other emptied it faster.
+
+The physics-first sorting corrects that at the cost of intuition. Wellsprings that shared a House for reasons of sorrow are now scattered across five Families. An ember and a stone stand together. Both facts are correct, and both offend the eye of anyone trained on the old registers. Materia Primordia and Tarturon belong in one Family because both are, mechanically, the assessment the Continuum (the whole lawful order of reality) makes of what a soul is made of and how much of it survives contact, and how reckoning feels has nothing to do with it.
+> *A warning to the devotional reader. Naming the physics does not demote the Wellspring. The Aether was always obeying a law. The Measurewrights have simply written the law down.*
+>
+> *A warning to the Measurewright. Writing the law down does not explain why a soul that takes in Absolution stops hating its father. The Families are still sorted by physics, because it works. The entries have stopped pretending the physics came first.*
+
+### What a Wellspring Physically Is
+
+In the scholars' terms a Wellspring is **a type of Aether that carries a fixed law.** Aether is what practitioners pull from the environment around them, and it comes in sixty types, fixed and counted, and each type affects the Soul Crystal differently. Take in Pyreveil and your reserve burns hotter while your body stops minding the heat. Take in Hypnather and you sleep like the dead and wake structurally different. Take in Fractura and you will never again look at a bridge, a friend or your own left wrist without seeing where it is going to go. A type of Aether is not stored anywhere and it does not belong to anyone. It runs whether observed or not, in the way that a pressure gradient runs whether or not something is standing in it.
+
+The old registers call each type a **current**, and the trade still does, because Aether moves over ground the way wind moves over a field. Keep the word and lose any picture of a pipe. Nobody has ever laid a Wellspring on or shut one off at a valve, and the Measurewright who tells you otherwise is about to send you a bill.
+
+**The road through the soul** is the same for all sixty. Aether is pulled in from the world, refined in the Soul Crystal into Essence (a soul's own share of Aether, the thing a fighter holds and spends), and driven out through the Aether Shell (the Crystal's outer layer, which turns inner power into outward force). What differs is the type. Where you stand therefore matters twice: rich ground fills you faster and thin ground starves you, and the ground decides which of the sixty is on offer. On the street this is plain sense. A brawler will say she has the ember in her, or the stone, or that she took the water at Saint Orrin's pond, and she will say he only fights like that on hot ground. On a Guild roll all of that is harmonization, which comes next.
+> **Harmonization is phase-locking.** The Aether Shell adopts the characteristic behavior of one type of Aether so that Essence passing outward through the Shell is shaped by that law before it reaches the world. Nothing is added to the practitioner. The conduit is retuned, and everything that passes through it afterward carries the retuning. This is the lens, in the scholars' words.
+
+This is why harmonization changes what a number means without changing the number. A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude. It becomes a Fortitude that behaves like a load-bearing mass rather than like tissue, with the failure curve of stone rather than the failure curve of flesh. **The magnitude stays where it was and the constitutive law changes.**
+
+Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harmonize with twelve or more. Those who embody all sixty are called **Principals of Temperance**, and there are not many of them, and you will not meet one.
+
 ### Harmonization, Traits, and the glyph
 
 *Three things bias a Shell and they are constantly mistaken for one another.*
 
 **A harmonization retunes the conduit.** It is reversible in principle, it degrades if Capacity (the limit on how many Wellsprings a soul can hold at once) is exceeded, and it shapes everything passing outward for as long as it holds. The law belongs to the Aether and the practitioner has it on loan.
 
-**A Trait biases the conduit permanently.** It is a law the soul itself carries, held in the Essence Core (the Crystal's inner layer, holding identity, memory and Traits), and it writes into the Shell's conductivity map rather than borrowing a law from outside. It cannot be dropped to make room. This is why two practitioners harmonized to the same Wellspring produce recognizably different output: the Aether supplies one law and the Core supplies another, and the working is what comes out of both.
+**A Trait biases the conduit permanently.** It is a law the soul itself carries, held in the Essence Core (the Crystal's inner layer, holding identity, memory and Traits), and it writes into the Shell's conductivity map rather than borrowing a law from outside. It cannot be dropped to make room, and it has a level of its own that rises with use and with the bearer's overall Level and skill. This is why two practitioners harmonized to the same Wellspring produce recognizably different output: the Aether supplies one law and the Core supplies another, and the working is what comes out of both.
 
 **A glyph is a boundary condition.** It creates nothing. The Wellspring's law was already running; the glyph moves a boundary and the law does what it has always done on the far side of the new boundary. Every entry below should be read with that in mind. Nobody in this register makes fire. They establish conditions under which the ordinary behavior of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones nobody thought about.
 > **Sites do not check for a Crystal.** Aether pooling in a valley acts on everything standing in the valley, and a Class Ø (never-woken) soul's Shell is sealed and cannot phase-lock, but it has an Essence Core like anyone else. Sustained residence at Active Concentration or above therefore does to a shepherd what it does to an adept, minus the harmonization and minus the vocabulary.
@@ -106,9 +159,9 @@ The way groundwater is not stored in a specific container but absolutely collect
 
 ### Cores, keepers and closed ground
 
-Common speech calls any site where a Wellspring's Aether pools a **Core**. Surveyors keep *Wellspring Core* for the top line of the Density Scale below, an Essence Core is a layer of your own Crystal, and a Measurewright who hears a ferryman call the warm pond behind the tannery the Pyreveil Core will explain all of this at length until the ferryman charges him double. This register uses the surveyor's word, and you should use the ferryman's if you want to get across the river.
+Common speech calls any site where a Wellspring's Aether pools a **Core**, and most Cores lie in **dungeons**: places a Core has made around itself, or that have grown up around one, going down in floors with something guarding the heart. A dungeon is alive and learning, and scholars argue whether it thinks. The rest of the Cores are said to lie in vast territories, with the weight on "said", and [[The Bestiary/Dungeons|Dungeons]] has the whole account. Surveyors keep *Wellspring Core* for the top line of the Density Scale below, an Essence Core is a layer of your own Crystal, and a Measurewright who hears a ferryman call the warm pond behind the tannery the Pyreveil Core will explain all of this at length until the ferryman charges him double. This register uses the surveyor's word, and you should use the ferryman's if you want to get across the river.
 
-**A worked site recharges and has keepers.** A site people have pulled from and tended for generations refills at the rate its ground replaces what has been taken, which the numbers below will give you, and somebody always stands at the gate of it: a sect, a village, a Guild house, three brothers and a fence. Keepers charge by the hour or by the bottle. They strike, they overcharge, they play favorites, and they can **close** the site, turning everyone off it and working the ground shut, which no amount of Stage talks them out of unless the Stage is prepared to do it by force in front of witnesses.
+**A worked Core is a dungeon someone cleared and now holds. It recharges and it has keepers.** A site people have pulled from and tended for generations refills at the rate its ground replaces what has been taken, which the numbers below will give you, and somebody always stands at the gate of it: a sect, a village, a Guild house, three brothers and a fence. Keepers charge by the hour or by the bottle. They strike, they overcharge, they play favorites, and they can **close** the site, turning everyone off it and working the ground shut, which no amount of Stage talks them out of unless the Stage is prepared to do it by force in front of witnesses.
 
 **The counter this hands you is the oldest in the book.** Take the fight off rich ground. A fighter fat on a Core loses the fat a league down the road, on **salted** ground (worked by ward-cutters and hedge-workers so that Aether will not pool on it, and it gives back little for a season), on **bled** ground (pulled empty by a long fight or a greedy crew, just before you arrive if somebody has planned it), or on ground that was simply thin to begin with. Half the famous upsets in the brackets were won in the week before the fight, by someone quietly paying off the people who choose the field.
 
@@ -121,7 +174,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 >
 > **A site has a perimeter.** The density gradient gives warning. The surveyor feels the Aether thickening as they approach the core.
 >
-> **An object is binary. You are holding it or you are not**, and its internal domain contacts the Shell at zero distance. If the Shell is incompatible, **the resulting conversation was not authorized and cannot be escaped without severing the causal relationship at the Plane of Fate (the deepest plane, where bonds and consequence are recorded) level.**
+> **An object is binary. You are holding it or you are not**, and its internal domain contacts the Shell at zero distance. If the Shell is incompatible, **the resulting conversation was not authorized and cannot be escaped without severing the causal relationship at the Plane of Fate (the deepest plane, the control of Attraction and Obsession and the workings of reality itself) level.**
 >
 > *The colloquial term for an Object Wellspring whose Attraction Layer (the layer that holds bonds and claims) will not accept a termination event is cursed.*
 
@@ -164,7 +217,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 | **Ambient Saturation** | The most common condition across the mapped world, and no kin to Aetheric Saturation, the lethal flood. **A Sage can tune to it. An ordinary person feels vaguely uneasy or peaceful.** The landscape carries subtle signs |
 | **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary physiological or psychological change; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most concentrations on the New World's arc were found during the Voyager Era; the elven old-ground's have been pulled on since the first Eon* |
 | **Veil-Thin Nexus** | **The Veil between planes thins.** Spiritual entities become visible. Causal threads are perceptible. **Time feels wrong.** Bifold Perception onset without training, involuntary Soul Drift, Echo Beast manifestation |
-| **Wellspring Core** | **The Aether's origin point. The aquifer's source.** Extraordinarily rare, mostly New World, mostly unmapped. **The physical and metaphysical environments are indistinguishable, and the law the Wellspring carries is the only law operating.** *Walking into a Core unprepared is Wellspring Baptism at maximum intensity with no exit plan* |
+| **Wellspring Core** | **The Aether's origin point. The aquifer's source.** Extraordinarily rare, and mostly unmapped. Nearly all of them lie at the heart of a dungeon, and the richest untouched ones are on the New World's arc. **The physical and metaphysical environments are indistinguishable, and the law the Wellspring carries is the only law operating.** *Walking into a Core unprepared is Wellspring Baptism at maximum intensity with no exit plan* |
 
 ### The Density Scale in Numbers
 
@@ -200,12 +253,13 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 ### How to Read an Entry
 
-| **Analogue** | The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
+| **The idea** | The concept the Wellspring lays over a soul's Aether, in plain words. Start here. |
 |---|---|
+| **Spirit** | The transformation it works on the soul, the road on the Temperance climb. |
+| **Alchemy** | The principle it stands for at the bench: its operation or stage of the Work where it has one, otherwise the trade's reading of what its law does to matter in a vessel. |
+| **Analogue** | How scholars explain it, part one. The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
 | **Mechanism** | What this type of Aether does to Essence and to the Crystal, stated in the analogue's own terms. If the physics says a process is entropically driven, the Wellspring's cost structure says so too. |
 | **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, unchanged from the system source. Behavior, never bonus. |
-| **Alchemy** | The principle it stands for at the bench: its operation or stage of the Work where it has one, otherwise the trade's reading of what its law does to matter in a vessel. |
-| **Spirit** | The transformation it works on the soul, the road on the Temperance climb. |
 | **Failure** | The characteristic malfunction, derived from the physics. Every analogue has a way of going wrong that is specific to it, and a Wellspring inherits its analogue's pathology. |
 
 ---
@@ -214,16 +268,16 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 ![[Assets/Diagrams/eight-families.svg]]
 
-| Family | Governs | Physics Domain | Count |
-|---|---|---|---|
-| **Caloria** | Heat and its absence | Thermodynamics | 10 |
-| **Fulguria** | Electricity, light, magnetism | Electromagnetism | 6 |
-| **Vectoria** | Force, motion, gravity | Mechanics | 8 |
-| **Spatium** | Distance and position | Spatial geometry | 3 |
-| **Materia** | Matter and substance | Material science | 9 |
-| **Vitalia** | Biology and anatomy | Biochemistry | 8 |
-| **Fluxia** | Fluids and pressure | Fluid dynamics | 4 |
-| **Limina** | Entropy, void, mind | Abstract / entropic | 13 |
+| Family | The idea | Governs | Physics Domain | Count |
+|---|---|---|---|---|
+| **Caloria** | Conviction, rupture, transformation | Heat and its absence | Thermodynamics | 10 |
+| **Fulguria** | Perception, revelation, precision | Electricity, light, magnetism | Electromagnetism | 6 |
+| **Vectoria** | Momentum, the breaking point, the long climb | Force, motion, gravity | Mechanics | 8 |
+| **Spatium** | Distance, absence, the space between | Distance and position | Spatial geometry | 3 |
+| **Materia** | Endurance, structure, grounding | Matter and substance | Material science | 9 |
+| **Vitalia** | Growth, generosity, rhythm | Biology and anatomy | Biochemistry | 8 |
+| **Fluxia** | Empathy, reflection, adaptation | Fluids and pressure | Fluid dynamics | 4 |
+| **Limina** | Endings, dissolution, the truth in what is missing | Entropy, void, mind | Abstract / entropic | 13 |
 
 *Sixty-one listings against sixty unique types. Phreatis answers to Vitalia and Fluxia both and is deliberately counted twice.*
 
@@ -275,7 +329,7 @@ Because each Family answers to a real physical domain, each Family answers to re
 
 ## The Register
 
-Each Family carries its own entry, with every Wellspring given its Analogue, Mechanism, Stat Effect, Alchemy, Spirit, and Failure.
+Each Family carries its own entry, with every Wellspring given its idea, Spirit and Alchemy first, and then its Analogue, Mechanism, Stat Effect and Failure as the scholars explain them.
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics]]

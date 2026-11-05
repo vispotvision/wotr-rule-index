@@ -17,7 +17,7 @@ Every midwinter the Third Counter Society sits down to eel pie and too much bran
 
 *The index is a filing system. This section is what the filed thing is.*
 
-A glyph creates nothing and carries no power. The law of the Wellspring (one of the sixty types of Aether, each carrying a fixed law) was already running before anyone wrote anything, and it continues running afterward. **A glyph is a boundary condition imposed on that law.** It moves a limit, and the law does what it has always done on the far side of the new limit.
+A glyph creates nothing and carries no power. A Wellspring (one of the sixty governing ideas that change how a soul uses Aether, each of which scholars write down as a fixed law) is the lens, and the glyph is where you tell it to stop. The Wellspring's law was already running before anyone wrote anything, and it continues running afterward. **A glyph is a boundary condition imposed on that law.** It moves a limit, and the law does what it has always done on the far side of the new limit.
 
 This is why practitioners are burned, crushed and drowned by their own workings with such regularity. The glyph ends. The law does not. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench thought about, and the correct instinct at any threshold is to ask what the law will keep doing after the intent stops.
 > **The two-part reading of any entry.** The **Family and Physics Domain** say which law is being conditioned. The **Meaning and Use** say what kind of boundary is being imposed on it. A technique is those two decisions and nothing else, and everything downstream is the law's own behavior.
@@ -133,7 +133,7 @@ Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings a
 
 > **Every technique entry in the wiki closes on a Codex assignment line.** That line points here.
 >
-> **Assignment is decided after the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and pitch a new Codex entry in the same pass, not to bend the phenomenon until it files.*
+> **Assignment is decided after the concept and the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and pitch a new Codex entry in the same pass, not to bend the phenomenon until it files.*
 
 ---
 

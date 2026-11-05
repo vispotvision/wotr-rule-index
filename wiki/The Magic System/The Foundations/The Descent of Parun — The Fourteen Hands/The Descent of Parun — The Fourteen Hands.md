@@ -39,7 +39,7 @@ Ambrose Pinchbeck, a Concord wine factor of good family, learned Barkstone Tally
 
 *The question every apprentice asks in the second week, answered badly by most instructors.*
 
-A glyph creates nothing. **The law of the Wellspring (one of the sixty types of Aether, each carrying a fixed law) was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
+A glyph creates nothing. **The law of the Wellspring (one of the sixty governing ideas that change how a soul uses Aether, each written down by scholars as a fixed law) was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
 
 **So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Cask Line cooper are arguing about the same instrument even when neither can read the other's page.
 
@@ -53,9 +53,11 @@ A glyph creates nothing. **The law of the Wellspring (one of the sixty types of 
 | **Whether it can be validated at all** | Cold Parunic engineers ambiguity out so that two readers cannot set two boundaries from one page. Sylvaaric refuses the question. **Both positions are coherent and they cannot share a treaty** |
 | **Whether it survives its own author** | Skin-Records grow. The nested scales exist because a boundary written on something that changes size stops describing the same limit within a decade |
 
-> **Gravetongue is the exception that proves the rule, and it is not a hand at all.** Every other entry here is Runecraft: a boundary committed to substrate. Gravetongue carries its condition in a physical resonance produced by a body that knows what it is made from, **which makes it Chantcraft (working carried by the voice) with no notation** and explains the inert transcriptions completely.
+> **Gravetongue is the exception that proves the rule, and it is not a hand at all.** Every other entry here is rune-cutting: a boundary committed to substrate. Gravetongue carries its condition in a physical resonance produced by a body that knows what it is made from, **which makes it a chant (a working carried by the voice) with no notation** and explains the inert transcriptions completely.
 >
 > *A written Gravetongue phrase produces nothing because the writing was never where the boundary lived. The Crimson Order's pulse-code works for the same reason: they kept the resonance and discarded the part that was never load-bearing.*
+
+**Cutting a rune is a skill and a trade, and anyone can level it.** It rises with use and shows as a Grade on the sheet, one line for each hand the cutter has really worked, and a guild's title says how far she has gone in it and how large a job a stranger may trust her with. The Temple of Inscription and the Accord's scribes have been telling each other for centuries that the other side does not count, and that is the whole of the rank in it.
 
 ---
 

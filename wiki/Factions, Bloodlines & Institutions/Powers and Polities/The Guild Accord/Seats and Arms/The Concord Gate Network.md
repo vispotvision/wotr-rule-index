@@ -7,7 +7,9 @@ title: The Concord Gate Network
 *Filed under the Codex of Absolute Magical Law, Article XIII: "On Movement, Distance, and the Passage Between Realms."*
 > The circulatory system of the Guild Accord, a web of metaphysical corridors linking the Mortal Kingdoms, Wellspring sanctums, and the Outer Realms through the living fabric of the Lattice. **Each Gate is a stabilized wound in space**, held open by Parun Glyph geometry and Aether compression.
 >
-> Every Gate breathes, hums, and remembers. **To step through one is not to travel, but to be rewritten elsewhere.**
+> Every Gate breathes, hums, and remembers. **To step through one is to be rewritten elsewhere, and the walking has very little to do with it.**
+
+Almost nobody in the coalition has ever used one. **Passage**, the third thing a hall signs for, means the road: a road-writ at a fixed toll, a Long Relay stable every day's ride, a bed and a meal at any signed hall at the hall's price, and a market court that hears you before the market closes. That passage belongs to every token on the road, down to the Initiate carrying poles. A **Gate** is for the sworn, because the Gate recognizes oath and nothing else, and only a soul bound to the Lattice survives the fold. Merchants have offered astonishing sums to send a cargo through a Major Arch with a sworn carter walking beside it, and some of those sums have been accepted. Every year some drunk Journeyman with an unsworn soul tries the old Gate in the forecourt at Sealhall on a dare, and every year the Sealwright Prime on duty has the form ready.
 
 ---
 
@@ -38,16 +40,16 @@ flowchart TD
 | Type | Function |
 |---|---|
 | **Major Arches** | Realm-to-Realm passages for armies, cargo and Wellspring material, each one a wonder of the world that cities have fought over and a crossing that costs a fortune to buy. Attended by a Logist and Sealwright team |
-| **Minor Arches** | Local teleportation routes within quarters or nations, managed by regional guilds |
+| **Minor Arches** | Local crossings within quarters or nations, kept by whichever signed guild can afford a sworn crew, and fought over accordingly |
 | **Hidden Gates** | Restricted or classified pathways maintained by Research & Archives **or the Black Concord** |
 | **Mobile Gates** | Experimental Gate fragments that move with fleets or armies. **Highly unstable and forbidden for civilian use** |
 | **Dead Gates** | Collapsed portals from prior epochs, **dormant until restored by Sealwrights or accidental resonance events** |
 
 ### Command
 
-Maintained by Logistics & Supply, directed by the **Chief Logist**, formally titled the **Gate-Warden of the Lattice.** Every Gate has three overseers: a **Sealwright Prime** who maintains Parun glyph synchronization, a **Transit Keeper** who monitors Essence drift and arrival stability, and a **Concord Clerk** who records every crossing in the Lattice Ledger.
+Maintained by Logistics & Supply, directed by the **Chief Logist**, formally titled the **Gate-Warden of the Lattice.** Every Gate has three overseers: a **Sealwright Prime** who maintains Parun glyph synchronization, a **Transit Keeper** who monitors Essence drift and arrival stability, and a **Concord Clerk** who records every crossing in the Lattice Ledger, in ink as well, because the fee has to go somewhere.
 
-Only authorized guild members bearing valid **Transit Sigils** may pass freely. Unauthorized use violates the Law of Passage and is punishable by Essence seizure or full Severance.
+Only the sworn bearing a valid **Transit Sigil**, struck in wax on a writ and paid for, may pass. Unauthorized use violates the Law of Passage and is punishable by Essence seizure or full Severance. The price of a crossing is the Logistics Division's main income and the Sitting of Halls' main complaint.
 
 ---
 
@@ -91,7 +93,7 @@ The entire network is built upon **Lattice Lines**, metaphysical arteries channe
 
 ## Gate Warfare
 
-In times of large-scale conflict, Gates become **both weapon and vulnerability.** The Strategic Division can seal or weaponize a Gate by converting its Veil Core into a **Resonance Burst**, releasing compressed transit energy into the enemy's realm. Such acts are **forbidden under Concord Law**, but precedent exists from the Eclipse Wars and the Outer Incursions.
+In times of large-scale conflict, Gates become **both weapon and vulnerability**, and the rivalry between Strategic and Logistics over who holds priority on them is the longest-running quarrel at the Citadel table. The Strategic Division can seal or weaponize a Gate by converting its Veil Core into a **Resonance Burst**, releasing compressed transit energy into the enemy's realm. Such acts are **forbidden under Concord Law**, but precedent exists from the Eclipse Wars and the Outer Incursions.
 
 Defensive techniques include **Aether Sink Fields**, which absorb Gate resonance, and **Temporal Locks**, which slow entry and create false exit points.
 

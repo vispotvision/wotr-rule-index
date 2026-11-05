@@ -27,11 +27,11 @@ This register exists because of that bowl of peas, in the sense that it concerns
 
 ## The Governing Question
 
-**The Accord classifies people by what their Soul Crystal can do. The economy classifies them by what their hands can do.**
+**The coil classifies people by what their Soul Crystal can do. The economy classifies them by what their hands can do.**
 
 > ***These two systems overlap in approximately one person in twelve. This register concerns the other eleven.***
 
-(The Soul Crystal is the organ in the soul that stores power and sends it out. The Accord reads it with the brass coil, the instrument that gives every practitioner a Stage, one step on a ladder of sixteen, and the word "instrument" in this register always means that coil and the people who stand behind it. A Wellspring, which this register mentions constantly, is one of the sixty types of Aether, the world's medium of power, and a practitioner pulls Aether from the ground around them and refines it in the Crystal into Essence, the power they hold and spend.)
+(The Soul Crystal is the soul itself, which holds power and sends it out. The Accord reads what it puts out with the brass coil, the instrument that gives every practitioner a Stage, one step on a ladder of sixteen, and the word "instrument" in this register always means that coil and the people who stand behind it. A Wellspring, which this register mentions constantly, is one of the sixty governing ideas of magic, an alchemical and spiritual transformation that changes how a soul uses Aether, the world's medium of power. A practitioner pulls Aether from the ground around them and refines it in the Crystal into Essence, the power they hold and spend, and a place where one Wellspring's kind of Aether pools is a Core.)
 
 Every occupation below exists because something needs doing **that has not yet been done by an array (a standing working cut into stone and metal), a glyph, or a practitioner.** The day any of those three replace it, the occupation vanishes, and the person who held it discovers what *Value, Coin and Trade* describes with perfect accuracy and no sympathy at all: **that a meritocracy is an excellent arrangement for people with merit that the instrument can see.**
 
@@ -43,19 +43,27 @@ Every occupation below exists because something needs doing **that has not yet b
 
 | Floor | Standing |
 |---|---|
-| **First** *people the instrument sees* | Ranked practitioners carrying silver tokens that are **simultaneously badges, passports, lines of credit, and bullion.** In the Arbitration Division's language, **attributable capability**, sitting second on the creditor schedule behind only contracted Essence (bonded work and Core hours already sold). *Roughly one in twelve in the west, fewer in the east, and falling in the Withering era because Welling-stage children are fewer and the instrument's floor has not moved* |
-| **Second** *people the instrument needs* | **The people who work with Essence without touching it.** Someone builds the array, maintains it, supplies its substrate, calibrates its inscriptions, mines the ore, smelts the metal, weaves the cloth the Engraver wears, bakes the bread the Engraver eats, **and buries the Engraver when the occupation kills him.** *A practitioner can do extraordinary things. A practitioner cannot do extraordinary things without a conduit somebody forged, a substrate somebody mined, a lens somebody ground, and a meal somebody cooked.* The floor the economy pretends does not exist, and the one that stops existing for a single day and the economy notices by the second hour |
-| **Third** *people the instrument does not see* | **Everyone else.** Farmers, herders, fishermen, porters, washerwomen, ditch-diggers, rag-pickers, nightsoil collectors, **and the vast category of people who do whatever needs doing that day and are paid in whatever is available.** *Invisible to the Accord because they hold no rank, invisible to the factor houses because they hold no contract, and invisible to the archives because nobody is paying a scribe to write down what a field hand did this morning* |
+| **First** *people the instrument sees* | Titled practitioners carrying silver tokens that are **simultaneously badges, passports, lines of credit, and bullion.** In the Arbitration Division's language, **attributable capability**, sitting second on the creditor schedule behind only contracted Essence (bonded work and Core hours already sold). *Roughly one in twelve in the west, fewer in the east, and falling in the Withering era because Welling-stage children are fewer and the instrument's floor has not moved* |
+| **Second** *people the instrument needs* | **The people who work with Essence without touching it.** Someone builds the array, maintains it, supplies its substrate, calibrates its inscriptions, mines the ore, smelts the metal, weaves the cloth the Engraver wears, bakes the bread the Engraver eats, **and buries the Engraver when the occupation kills him.** *A practitioner can do extraordinary things. A practitioner cannot do extraordinary things without a conduit somebody forged, a substrate somebody mined, a lens somebody ground, and a meal somebody cooked.* Plenty of them carry a token too, a Master cooper or a Grandmaster merchant, on the strength of their work and their guild's word, and the coil has no opinion of either. The floor the economy pretends does not exist, and the one that stops existing for a single day and the economy notices by the second hour |
+| **Third** *people the instrument does not see* | **Everyone else.** Farmers, herders, fishermen, porters, washerwomen, ditch-diggers, rag-pickers, nightsoil collectors, **and the vast category of people who do whatever needs doing that day and are paid in whatever is available.** *Invisible to the Accord because they hold no title, invisible to the factor houses because they hold no contract, and invisible to the archives because nobody is paying a scribe to write down what a field hand did this morning* |
 
 > *This register begins with the Third Floor, because they are the majority, and any account of the world's work that begins with the practitioners is describing the exception and calling it the rule.*
 
-A careful reader will have seen one in ten elsewhere in these shelves, that being the share of people who wake a Crystal at all, and will want the difference accounted for. The market stall has it. Somebody who wakes a Crystal, learns one trick and never pays for a silver token is on nobody's roll, and the section on the Small Powers below is about her.
+A careful reader will have seen one in ten elsewhere in these shelves, that being the share of people who wake a Crystal at all, and will want the difference accounted for. The market stall has it. Somebody who wakes a Crystal, learns one trick and never pays for a silver token is on nobody's roll, and the section on the Small Powers below is about her. The other way onto the First Floor has a price: a Waking Draft, very dear, which often kills or warps a child. Most of the rich buy one for their children, and commoners sell themselves into guild debt for the chance.
 
 ### What the instrument is actually missing
 
 *The floors are usually explained as a difference in capability. They are a difference in what one machine can read.*
 
-A coil reads a Soul Crystal. **A Trait (a standing law carried in the soul) is not held in the Crystal.** It sits in the material of a soul, it runs in people whose Crystal is Dormant and always will be, and awakening arms what was already there rather than granting anything new. **So the eleven in twelve have laws of their own, and nothing in the Accord is built to detect them.**
+A coil reads the output of a woken Crystal. **A Trait (a standing law carried in the soul) is not output.** It runs in people whose Crystal is Dormant and always will be, and awakening arms what was already there rather than granting anything new. **So the eleven in twelve have laws of their own, and nothing in the Accord is built to detect them.**
+
+And they have sheets. The Soul Crystal is the soul and the Continuum measures it, so a window, the soul reporting its numbers to its owner in their own tongue, comes to everyone, the unwoken included, and nobody else can read it. Skills rise with use and show as Grades. A baker has a Baking skill and a little sheet. Gammer Thirza Lubbock, asked by this compiler what hers said and having decided she disliked him, reported the following and shut the door:
+
+```
+[Laying-Out: A]
+[Shelling: C]
+[Patience with Rams: F]
+```
 
 What a Third Floor soul undergoes instead of Temperance (the remaking a practitioner's Crystal goes through to climb) is **the Weathering**: refinement under sustained strain with no melt and no recasting, the soul hardening in place along the direction it was already being used. The trade word is **grain**, borrowed from the joiners, and a man is said to have taken his set clean or to have set crooked.
 
@@ -63,7 +71,7 @@ What a Third Floor soul undergoes instead of Temperance (the remaking a practiti
 >
 > *The mason who reads stone by hammer-tap after a lifetime touching one material. The fisher family's taxonomy of catch-by-Wellspring-exposure that outperforms the Bestiary. The midwife who knows the local births the way a farmer knows the local weather. The tender who can hear that a Phreatis pump sounds different on Tuesday than it did on Monday.*
 >
-> **Call any of that a skill and you have undersold it by a whole category. It is a law, hardened along the axis the work pushed it**, real, measurable if anyone measured it, and **useless in any other direction for the rest of that person's life.** The tender who walks into a city carries a genuine and specific capability that the urban economy cannot recognize, and the reason it cannot is that the instrument was never pointed at him.
+> **The window calls some of that a skill and gives it a Grade, and it is one. Under the skill lies something the window has no line for: a law, hardened along the axis the work pushed it**, real, measurable if anyone measured it, and **useless in any other direction for the rest of that person's life.** The tender who walks into a city carries a genuine and specific capability that the urban economy cannot recognize. His own soul reports it to him every morning, and the reason nobody else knows is that the instrument was never pointed at him.
 >
 > *A meritocracy is an excellent arrangement for people with merit that the instrument can see. People tend to read that sentence as bitter, and it also happens to be a technical description.*
 
@@ -120,7 +128,7 @@ The western staple is **spelt wheat**, ground on stone querns at home or at the 
 
 ### The pool trades
 
-*Every worked Core (a Wellspring site, a place where one kind of Aether pools, in the common word) has its keepers, and under the keepers it has the people who do the wet part. The pool and the city's night-pits share a good many of those people, since a man who will do one will generally do the other.*
+*Every worked Core (a Wellspring site, a place where one kind of Aether pools, in the common word, and as a rule a dungeon somebody cleared and now holds) has its keepers, and under the keepers it has the people who do the wet part. The pool and the city's night-pits share a good many of those people, since a man who will do one will generally do the other.*
 
 **The Core-Tender** · Works the lip of the site in pairs, with an assay fork and a lamp. Checks seals, clears residue from the channels, bleeds the pool when it runs too thick, and reports density drift before the site goes dry. **Wet, cramped, poorly paid, and performed at the edge of a pool at densities that would be logged as an Active Concentration if a surveyor found the same reading in open country.**
 
@@ -146,11 +154,11 @@ The lamp-wardens, ward-cutters, hedge-workers and keepers who stand above these 
 
 **The Aethersmith** · Forges Holding-grade material: metal designed to accept, retain and discharge inscriptions. *The relationship to the Engraver is that of papermaker to scribe: the Aethersmith makes the surface, the Engraver makes the meaning.*
 
-> **Stage III minimum**, because the Aethersmith must sense the Essence properties of the metal during the pour and the quench.
+> **Stage III minimum**, because the Aethersmith must sense the Essence properties of the metal during the pour and the quench, and her title in the smiths' guild caps the Grade she may make ([[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]). A Journeyman stamps Tempered and no higher, whatever came out of the quench.
 >
 > **This is done by hand and by ear. An Aethersmith listens to the metal cool, and the pitch of the cooling tells them what the coil will confirm after the fact.**
 
-*Products: Aethersteel, whose crystalline structure accepts inscription at a depth cold-forged iron cannot match; Bloodsilver, alloyed under Vitalia conditions to bind the metal to a single bloodline; and the substrate bars and blanks the inscription trades begin with.* A good Aethersmith shouts the name of a finished blade across the yard and stamps a guild mark on it the size of a thumbnail, and will fight you about that mark in any tavern you care to name.
+*Products: Aethersteel, whose crystalline structure accepts inscription at a depth cold-forged iron cannot match; Bloodsilver, alloyed under Vitalia conditions to bind the metal to a single bloodline; the substrate bars and blanks the inscription trades begin with; and, when a crew comes in with something on a cart, scale and bone worked up as gear.* A good Aethersmith shouts the name of a finished blade across the yard and stamps a guild mark on it the size of a thumbnail, and will fight you about that mark in any tavern you care to name.
 
 ### Cloth, hide, and stone
 
@@ -192,7 +200,7 @@ The lamp-wardens, ward-cutters, hedge-workers and keepers who stand above these 
 
 > **First Floor by classification, and resented for it by every other artisan trade**, because the Engraver **does not mine the metal, does not smelt it, does not forge it into shape, and earns more than all three combined for the final step of cutting a pattern into what other hands made.**
 
-**The Glyph-Scribe** · Drafts the pattern the Engraver cuts. *The Scribe is the draftsman, the Engraver is the builder.* **Seven years minimum, and the licensing exam is the most failed certification in the Accord's system,** because an error produces a template an Engraver will follow into a substrate **that will hold the error permanently and discharge it at the worst possible moment.**
+**The Glyph-Scribe** · Drafts the pattern the Engraver cuts. *The Scribe is the draftsman, the Engraver is the builder.* **Seven years minimum, and the Journeyman's examination is the most failed in any guild of the Accord,** because an error produces a template an Engraver will follow into a substrate **that will hold the error permanently and discharge it at the worst possible moment.**
 
 **The Calibrator** · Puts the finished product on a coil, measures output against specification, **and signs the certificate that says it works. Or does not sign it, in which case the Engraver starts over.** *The calibration log is the legal record standing between the Engraver and liability if the product fails in the field.*
 
@@ -204,7 +212,7 @@ The lamp-wardens, ward-cutters, hedge-workers and keepers who stand above these 
 
 Walk any market in the Old World on a working morning and count the people doing something impossible for money. About one person in ten wakes a Crystal, very few of those climb far, and a Crystal that will never see Stage III can still do one small thing thirty times a day for forty years. These people pull a thread of Aether from the ground under their stall, refine it, and spend it on the only trick they own. On fat ground (rich ground, in a scholar's mouth) they work till dark. On lean ground they are done by noon and charge double. They wear whatever their aura happens to be, so a fish market in full cry is a smear of little colors at wrist height, and nobody looks up.
 
-Each of them is a tradesman first. Each of them costs money, has bad days, and can tell you to come back tomorrow, and the street treats that as it treats a baker's temper. The Accord's schedules forbid taking pay for a working without a license, and the fee-walkers have long since learned which stalls to walk past.
+Each of them is a tradesman first. Each of them costs money, has bad days, and can tell you to come back tomorrow, and the street treats that as it treats a baker's temper. Each has the trick on their own window as a skill, at a Grade they will tell you about over a second drink. The hall in any signed town has a rule against taking pay for a working without a token, and the fee-walkers have long since learned which stalls to walk past.
 
 | Trade | The small power | What it pays | The bad day, and the refusal |
 |---|---|---|---|
@@ -225,23 +233,41 @@ A Measurewright (one of the Guild's scholars of the art) once wrote out in three
 
 ## The Yard and the Token
 
-*A rank is a job. Nobody on the street has ever been confused about this, and only the holders of rank have ever needed it explained.*
+*A title is a job. Nobody on the street has ever been confused about this, and only the holders of titles have ever needed it explained.*
 
 Practitioners are common, and their ranks are as well known as the grades of a butcher's cut. A carter can tell you what an inner disciple is good for and what one costs. A boy's family has been Heron for four generations, he wears the blue rag on his arm to haul sacks, and he will explain to you which Heron core disciple ought to be dropped from the bracket and why. Any city of size has a dozen fighting schools with their colors out, and a school is an employer of the ordinary sort, with a kitchen, a landlord, a roof that leaks and wages that are usually late.
 
 | Rank | What the morning looks like | What it pays |
 |---|---|---|
 | **Outer disciple** | Hauls water, scrubs the yard, cooks, runs errands, drills at dawn, and hires out as the fifth guard on somebody's caravan with the school taking its share | A bed, board, the first forms. Entry itself costs fees, a seven-year indenture, or an oath sworn before the first lesson |
-| **Inner disciple** | Teaches the outer ranks, runs missions, minds the school's gate and its stall at the fair | The next forms, a better room, Drafts (bottled workings that feed growth), hours at the school's Core |
-| **Core disciple** | Fights when the school is challenged, wins in public, marries where the house says, and is sung about in taverns by people who have never met them | The inner manuals, the first call on everything above, and a price on the head in somebody's ledger |
+| **Inner disciple** | Teaches the outer ranks, runs missions, minds the school's gate and its stall at the fair | The next forms, a better room, Drafts (bottled workings that feed growth), hours at the school's Core, and the rites for its Wellspring |
+| **Core disciple** | Fights when the school is challenged, wins in public, marries where the house says, and is sung about in taverns by people who have never met them | The inner manuals, the road to a Release, the first call on everything above, and a price on the head in somebody's ledger |
 | **Elder** | Keeps the books, argues with the landlord, gives the word that lifts a disciple who lost or holds back one who won | Whatever the school can spare, and it always says it can spare very little |
 | **Grandmaster** | Over all of them. Bites the anvil, if that is the custom | Commissions, bonds, gifts, and the bill for the funeral |
 
-The guild halls have their own ladder of apprentice, journeyman and master, by the seven-year term and the masterpiece. Guild people sneer at fighters, and fighters return the favor at volume. The Accord's public ladder is the nine Tiers of Standing, Initiate to Paragon, read off Stage, and that one is on the token, and the token is what gets you hired. In a Guild roll the coat a fighter wears is **reinforcement**, the weight of a strong soul is **Pressure** and the trained read is **sensing**. A hiring steward in Common asks whether you have the shine and the nose, a Marrowkin foreman asks how long you can stay on shift under the load, and a Moto household asks nothing and watches how you hold your *matoi* at the door.
+That is the school's ladder, and what it teaches is the part money cannot buy: Releases, Domains, techniques, skills and the rites for its Wellspring. A rich boy with a bought Stage still has to come and be hit by somebody's elder for these, and he pays the fees like anyone else, and it does him good.
 
-**A practitioner's retainer, by Tier of Standing, monthly:**
+**The token is the other ladder**, and the two are separate and both matter. A sect rank says where you stand in that school, and a title says what you are trusted with. The Guild Accord is a coalition of many kinds of guild across many nations, and every hall that signs on uses the same nine titles, grown out of the old guild words for the seven-year term and the masterpiece, each grading trust in that hall's trade. Guild people sneer at fighters, and fighters return the favor at volume.
 
-| Standing | Retainer | Who pays it |
+| Title | A craftsman may make | A merchant may deal in | An adventurer may take | A fighting guild reads it off |
+|---|---|---|---|---|
+| **Initiate** | Marked work, Grade E | Common goods | T1 commissions | Murmuring |
+| **Apprentice** | Proofed, D | Common | T2 | Welling |
+| **Journeyman** | Tempered, C | Uncommon | T3 | Ascension |
+| **Adept** | Instrument, B | Rare | T4 | Flourishing |
+| **Expert** | Hallowed, A | Rare | T5 | Splintering, Glory, Refraction |
+| **Master** | Storied, S to SS | Very Rare | T6 | Transcendence, Invocation, Realization |
+| **Grandmaster** | Found, SS to SSS | Legendary | T7 | Dissonance, Emanation |
+| **Archmaster** | Numinous, X to EX | Mythic | T8 | Principality, Zenith |
+| **Paragon** | Proscribed, EX+ | Unique | T9 | Revelation, Apex |
+
+Read the right-hand column last, because it applies to one kind of hall. A fighter's token says how dangerous they are. Everyone else's says how much of your property they may be left alone with, so **a Grandmaster merchant may be handed a duke's regalia on a nod and may not be able to throw a punch**, and one of the commoner ways to die in a port town is to take the second fact as permission. The whole arrangement rests on a stranger being able to read the silver, which is why a forged token is the great crime of every trade and is hanged in every realm that has a rope.
+
+The soul keeps a ladder of its own. At thresholds it offers a woken person a named Aether Class fitting how they have lived, and a fair number of those names turn out to be trade names, offered to people who were not expecting to be told what they are. A steward does not get to see it unless the holder chooses to say. In a Guild roll the coat a fighter wears is **reinforcement**, the weight of a strong soul is **Pressure** and the trained read is **sensing**. A hiring steward in Common asks whether you have the shine and the nose, a Marrowkin foreman asks how long you can stay on shift under the load, and a Moto household asks nothing and watches how you hold your *matoi* at the door.
+
+**A practitioner's retainer, by title in a fighting guild, monthly:**
+
+| Title | Retainer | Who pays it |
 |---|---|---|
 | **Initiate** | 3 to 6 gold | A workshop, a chartered company, a caravan master |
 | **Apprentice** | 6 to 12 gold | A guard company, a mine, a factor house |
@@ -251,7 +277,32 @@ The guild halls have their own ladder of apprentice, journeyman and master, by t
 | **Master** | 400 gold and up | Crowns, by treaty as much as by purse |
 | **Grandmaster and above** | Not quoted | Not retained. Negotiated with |
 
-> A retainer is the smallest part of what a practitioner is paid. Commissions, bonds and fees for attestation run on top, and **a ranked practitioner's term of service is carried in an estate's accounts in the same column as a ship.**
+> A retainer is the smallest part of what a practitioner is paid. Commissions, bonds and fees for attestation run on top, and **a titled practitioner's term of service is carried in an estate's accounts in the same column as a ship.**
+
+---
+
+## The Crew and the Commission
+
+*Nobody's mother wants this for them, and half the children in any Mouth town want nothing else.*
+
+The Merry Thimbles of Pennycrown came up from the Upper Workings one wet spring evening with a Tolling Crab on a sledge, all six of them alive, and fell to fighting in the tavern yard before the mask-runner had her boots off. Level moves by danger overcome, so a kill on something far above you moves it more than a hundred on something beneath you, and the soul reports the gain to whoever it judges overcame the thing. Five of the Thimbles had spent an hour taking that crab apart with hammers and a tuning bar. The sixth was Nan Hobday, their cook, who had come down to bring them soup and had hit it with the pot as it fell over, and it was Nan's window that lit up. Their captain demanded to see it, which cannot be done. Nan described it, with feeling, for the whole yard. They were still arguing at closing, they broke two benches and a nose, and the Thimbles have gone down ever since with a written rule about the soup, and with Nan, who is a better fighter now than the captain and goes first.
+
+**Adventuring is a trade**, conducted through some of the loudest halls in the Accord, and a hall is a guild like any other, with a green door, a board, a grudge against the hall across the square, and the same nine titles. Hunting halls post commissions rated by Threat Tier, T1 to T9, the same tiers monsters themselves are graded by, and a title lets you take them up to its own tier and no further. Monsters live everywhere, on the roads and in the barley and under the mill, so the work is not all stairs. Most of it is smaller and meaner than the songs, a T1 at a henhouse for a few silver and a Green Sigil's worth of hedge-pests along a toll road. The depth, the crew's posts and how a clearing goes are at [[The Bestiary/Dungeons|Dungeons]], and this register will confine itself to the money.
+
+**An adventurer is somebody who ventures capital.** A big job is raised with subscribers and shares, so a crew holds a piece of its own luck and draws no wage, which is why it will go one more gallery than is wise. Six to twelve is usual. A real crew bond, the earned kind, shows as a line on each member's window, shares out a little of the Level gain, and shows the others' bars in a fight, and betrayal breaks it in front of everyone concerned. Every captain will tell you the bond is worth more than the shares, and has generally just finished arguing about the shares.
+
+**What comes up the stair** is the whole economy of the thing. The hall pays on the mask or the bounty. **The core is what the crew came for**: in a way the monster's Soul Crystal, worth more the stronger the beast, a few silver at T1, most of a laborer's year at T4, and a sum that changes a family's history at T6 ([[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]] has the rows). **Hide, bone and scale** go to the armorers. Anything left behind by the last crew goes to whoever can carry it past the next crew. A commoner who comes up holding a core has walked out of a hole with the one thing the great houses cannot simply refuse to sell her, and every factor in the valley is at the top of the stair with a very good dinner. A lucky crew is the nearest thing to a revolution most of the four quarters will ever see, and the houses have noticed, and they buy early, in several senses.
+
+| Trade | The work | What it costs |
+|---|---|---|
+| **The Delver** | Signs on with a captain, goes down, breaks what the caller says to break, and comes up with a share. Takes a title if the hall will sit them, and works without one if it will not. **Mostly young, because of the arithmetic** | A leg, a hand, a coat that has changed color. *Crews go down six and come up four, and the two are entered in the book before the share is struck* |
+| **The Porter** | Carries everything. Usually unwoken, with a little window that says *Carrying: C* and nothing to set off on bad ground. **First to say this is wrong, and generally right.** Paid a flat fee where the delvers hold shares | Being last in line. *In the Center a licensed labor-stock porter holds no share and no name on the instrument, and the roll writes him down with the rope* |
+| **The Renderer** | Takes a core or a carcass at the door and turns it into something an alchemist can pour. Weighs on the assay pound, reads on the coil, pays on the day, and keeps the sharpest knives in town. **The honest ones keep a book of who sold what** | Contamination in the hands, a smell the neighbors petition about, and being offered, about once a year, a "monster core" with a shred of somebody's linen stuck to it. *Saying yes pays for a house. It is the worst crime in every realm, and it is why the honest ones keep the book* |
+| **The Core-Runner** | Carries a core from the stair to the buyer, fast, in a Chainsalt box, before it loses grade and before the news gets ahead of it | Bandits, hedge-renderers, and her own crew's second thoughts |
+| **The Bounty-Hunter** | Works the board for one name, man or beast. A famous monster has an epithet, a bounty and a following by the time it has eaten enough, and there is usually a queue. **Works alone because the shares come out better** | Finding out that the epithet was accurate. *Getting on a ranking list makes you a target too, and several of the people working the board are also on it* |
+| **The Stair-Sutler** | Sells rope, bolts, salt, hot pies and fresh advice at the head of any dungeon that has a street on it. Buys the gear of the dead at a fair price from people too tired to argue. **The only trade at the stair that has never once lost money** | Being asked, by someone whose sister did not come up, why that coat is on the rail |
+
+**Old delvers** are a sight in every Mouth town: a table of them under the painted name of a deep crew, missing the expected parts, drinking on a tally that gets longer every year. A few of them hold more of the town than the lord does. The rest are the reason that the sons of good families still get told about what happened to their uncle, usually to no effect.
 
 ---
 
@@ -384,9 +435,9 @@ What follows is how such a town comes to be possible, and it is how most of the 
 
 ## The Paper Trades
 
-> **The Guild is a paper empire.** It holds no territory, fields no levy and hangs nobody, and it governs four quarters through forms. *A thing that has not been entered has not happened, and a thing that has been entered in three copies has happened three times.*
+> **The Accord is a coalition that runs on paper.** Outside its own Sealed Charter it holds little ground and raises no levy, and what binds a mining hall in one kingdom to a merchants' hall in another is a contract each of them can enforce. *A thing that has not been entered has not happened, and a thing that has been entered in three copies has happened three times.*
 
-Everything of consequence needs a paper, and most things of no consequence need one too. **A working permit, a trade license, a residence entry within one turn of arrival, a practitioner's registration, a travel pass for the Concord Gate, a stamp on every contract and a stamp on the stamp.** Each is made out in triplicate by hand, one copy for the applicant, one for the office and one for the Archive, *and the Archive's copy is the one that survives.*
+A hall sells three things, shared title, enforceable contracts and passage, and every one of them comes out of an inkwell. **A commission on the board, a venture's share-list, a hall's charter, a token's entry, a pass for the Concord Gate, a letter of passage over a border, a stamp on every contract and a stamp on the stamp.** Each is made out in triplicate by hand, one copy for the party, one for the hall and one for the Archive, *and the Archive's copy is the one that survives.* Crowns tolerate all this and are afraid of it, for good reason, since a kingdom can hang a hall's clerk and still find that nobody in it can get a shipment of tin across the river.
 
 | Trade | The work | What it costs |
 |---|---|---|
@@ -395,7 +446,7 @@ Everything of consequence needs a paper, and most things of no consequence need 
 | **The Scrivener and the Stationer** | The scrivener keeps a bench by the church door and will write your letter, your will or your lie for a couple of coppers, and his boy can make forty dozen-word bills in an hour. The stationer, in a university town, rents out a book's exemplar a quire at a time to whoever means to copy it. **The only literate person most people will ever hire** | Ink-galled fingers, the contents of every will in the parish, and the people who would like to know them |
 | **The Beacon Clerk** | Reads and sends on the Guild's beacon line (hilltop fire-towers in sight of one another beside the few great roads the Guild runs, lit by wardens in shuttered colors and shut by any fog), counts the words, charges by the count, a silver for twenty with the addresses counted and a copper for each word after, and reads every message that passes. **Sworn to the Guild's secrecy, and the best-informed person in any town that has a tower** | Night duty, smoke, and a reputation for knowing what the neighbors paid to say |
 | **The Hall Caller** | Stands on the great stair of a Guild hall in the big cities and bawls the name of whoever has a message waiting, as it comes up from the towers and the relay riders, until somebody claims it. **Chosen for a clear voice, and paid a little extra by certain people to mispronounce certain names** | A ruined throat by thirty, and a steward on the stair behind, counting |
-| **The Permit Office** | Stamps, countersigns, returns forms for the wrong color of ink, and is the face of the Accord to anyone who wants anything from it. **The seal-clerk's cousin, and as resented** | *Nobody has ever thanked a permit office, and the permit office has long stopped expecting it* |
+| **The Hall Desk** | Stamps, countersigns, returns forms for the wrong color of ink, and is the face of the Accord to anyone who wants anything from a hall. **The seal-clerk's cousin, and as resented** | *Nobody has ever thanked a hall desk, and the hall desk has long stopped expecting it* |
 
 ---
 
@@ -405,9 +456,9 @@ Everything of consequence needs a paper, and most things of no consequence need 
 
 **The Pageant and the Tavern Hall** · **The pageant plays to the whole town and the tavern hall plays to whoever is still standing.** On a great feast every craft rolls out its own play on its own painted wagon and does it at each corner in turn, shipwrights a flood, bakers a famine broken, butchers a martyrdom with real props. The tavern hall has a host, a bar, a comic singer, a strong man and a turn that closes the night. Wagon-wrights, scene-painters, dressers, the hired warden who throws colored light from a rooftop. *A comic song from a tavern hall reaches every street in the city within days and every province within the year, and nobody can say who wrote it.*
 
-**Sport and Spectacle** · **Racing through the streets and down the meadow on feast days, ward against ward in their colors, with the bookmaker at the rope and the whole city betting by runner. Prize-fighting, half-legal, under a bridge arch or in a tavern yard. Football on a feast afternoon, parish against parish, which is the same war as the schools' with fewer rules.** And the spectacle nobody else has: **the Stage bracket**, with colors, songs and a bookie on every bench, and beside it **the licensed practitioner exhibition**, where a ranked hand shows before a paying crowd what a Stage can do, under Accord license and on Core hours somebody has paid for.
+**Sport and Spectacle** · **Racing through the streets and down the meadow on feast days, ward against ward in their colors, with the bookmaker at the rope and the whole city betting by runner. Prize-fighting, half-legal, under a bridge arch or in a tavern yard. Football on a feast afternoon, parish against parish, which is the same war as the schools' with fewer rules.** And the spectacle nobody else has: **the Stage bracket**, with colors, songs and a bookie on every bench. The great tournaments are the world's sport: realms send champions, schools play for colors and Cores, and a win can be worth a bought Stage. Beside the bracket stands **the licensed practitioner exhibition**, where a titled hand shows before a paying crowd what a Stage can do, under Accord license and on Core hours somebody has paid for.
 
-> *Ordinary people regard a ranked practitioner as half a saint and half a racehorse, and the exhibition sells benches on it.* **The license caps the working at exhibition grade and requires a warden on the floor**, and every promoter knows that the crowd came for the moment the warden might be needed.
+> *Ordinary people regard a titled practitioner as half a saint and half a racehorse, and the exhibition sells benches on it.* **The license caps the working at exhibition grade and requires a warden on the floor**, and every promoter knows that the crowd came for the moment the warden might be needed.
 
 | Trade | The work | What it costs |
 |---|---|---|
@@ -415,6 +466,8 @@ Everything of consequence needs a paper, and most things of no consequence need 
 | **The Minstrel** | Sells songs about people who did things, and gets the details wrong in the direction that sells. **A fighter's name travels at the speed of a minstrel who needs supper** | Being found by the person the song was about. *Several have been asked to correct a verse, and at least one did it with a broken jaw* |
 | **The Bookie** | Takes odds on brackets, duels, sieges, how long a stoppage will last, and whether the grandmaster will really eat the anvil. **Keeps the only figures anyone trusts** | Broken fingers, on a regular basis, and the debts of people who outrank him |
 | **The Bounty-Clerk** | Keeps the board where lords, sects and houses post what they will pay and for whom, chalks up the changes, and takes a fee for posting and a fee for striking off. **Knows what everyone is worth, to the copper, and to whom** | Having his own name go up, which happens |
+| **The List-Keeper** | Maintains one of the rankings: the Accord's roll, a herald's list, a realm's, a sect's, a bookie's. **They all disagree**, and each sells copies to the people on the others | Being visited by whoever came in ninth. *Getting on a list makes you a target, and so does keeping one* |
+| **The Fixer** | Arranges for a bracket to go the way somebody has already paid for. A word to a second, a swapped vial, a sick mother. **Fixing fights is a major crime and a major business**, and every tournament town has one who dines with the magistrate | The rope, the river, or an honest fighter who was not told |
 
 **The Tea-Stall, the Drinking-Hall and the Confraternity** · **The stall for talk, the guild's drinking-hall for men of one craft with nowhere else to sit, and the confraternity for everybody else.** A confraternity is a burial club with a saint, a banner, a feast and a box of dues, and any carder may join one, which is why the statutes against meeting have never once stopped a meeting. Guild halls keep a reading room with the rate sheets and the registers chained open to any member, and the confraternities keep the crier's bills and a preacher every turn. *More plans are made on confraternity benches than in council, and the Guild has noticed.*
 
@@ -438,7 +491,8 @@ Everything of consequence needs a paper, and most things of no consequence need 
 | **The snuffer** | Best paid of the pool trades | The executioner's reasoning |
 | **Lamp-wardens, ward-cutters, hedge-workers** | Round-fee; by the job and the glyph; in kind, usually | They can walk off the round, leave the last stroke uncut, or live a long way from you |
 | **Petty folk arts** | A copper here and there | See The Small Powers, above |
-| **A ranked practitioner** | By Tier of Standing, 3 gold a month and up | See The Yard and the Token, above |
+| **A titled practitioner** | By title, 3 gold a month and up | See The Yard and the Token, above |
+| **A crew** | By share, and by what comes up the stair | See The Crew and the Commission, above. The porter gets a flat fee |
 
 ---
 
@@ -462,7 +516,7 @@ Everything of consequence needs a paper, and most things of no consequence need 
 
 > **A journey from an Accord capital to Kharven-Seat runs the whole age backwards.** A carrier's wain over the old stones to the edge of the fat ground, the same wain off the stones behind a tired team to the county town, an ox wagon to where the road is paved, a hired hack to where it stops being paved, the mule to the pass, and the last of it on the road the first cart made.
 >
-> *The traveler who makes it folds away his pocket dial at the last Guild bell, changes his coat at the last waystone and his manners at the pass, and arrives in a country where his dial is a curiosity and his rank token is the only thing about him anyone understands.*
+> *The traveler who makes it folds away his pocket dial at the last Guild bell, changes his coat at the last waystone and his manners at the pass, and arrives in a country where his dial is a curiosity and his title token is the only thing about him anyone understands.*
 
 ---
 

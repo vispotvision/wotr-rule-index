@@ -18,7 +18,13 @@ Every scarf on the road lifted. Her aura, a respectable brick red for sixteen ye
 
 ### What a Wellspring Is
 
-Aether is the raw power in the world around us, and it comes in different types that affect the Soul Crystal differently. Those types are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations. There are sixty, fixed. Every few years some Measurewright announces a sixty-first, and he has generally retracted it by the next fair. A practitioner pulls Aether from the environment, refines it in the Soul Crystal into Essence and drives it out through the Shell, so where you stand matters: rich ground fills you faster and thin ground starves you, and the scholar's term for that richness is Aetheric Density. A Wellspring also has sites where its Aether pools, which common speech calls Cores (nothing to do with the Essence Core named below, a layer of the Crystal, as the Guild has been told). A worked site recharges and has keepers, and its keepers can close it, as Captain Marl could tell you.
+A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. Captain Marl came down the Ember Stair with every number the same and a boulder running like tallow, and that is what a lens does. It can highlight a person's natural Essence Typology (the soul's own bias toward one Family, in Part Eighteen) and can even double its effect, starting small and reaching double only with years of mastery. There are sixty, fixed. Every few years some Measurewright announces a sixty-first, and he has generally retracted it by the next fair.
+
+A person gets one at a Core in a dungeon, from a school, from a Draft or a blessing, or by birth.
+
+Aether is the raw power in the world around us, and it comes in different types that affect the Soul Crystal differently, one to a Wellspring. A practitioner pulls Aether from the environment, refines it in the Soul Crystal into Essence and drives it out through the Shell, so where you stand matters: rich ground fills you faster and thin ground starves you, and the scholar's term for that richness is Aetheric Density. A Wellspring also has sites where its Aether pools, which common speech calls Cores (nothing to do with the Essence Core named below, a layer of the Crystal, as the Guild has been told). Cores are mostly found in dungeons, which grow down in floors around them, and they are said to lie in vast territories too. A worked Core is a dungeon someone cleared and now holds: it recharges and has keepers, and its keepers can close it, as Captain Marl could tell you. The Ember Stair was cleared so long ago that its floors have turned into landings.
+
+The physics in these pages and every number below stay, as how the scholars explain it. Scholars have an account of everything and it may be wrong, and any Measurewright at the fair will be glad to tell you which of the others got it wrong.
 
 ### What Wellsprings Do to Stats
 
@@ -216,6 +222,25 @@ The maximum number of simultaneous harmonizations is governed by **Tempering Cap
 
 *"To be seen is sacred. To be held against the law of your own soul is profanation."*
 
+### The Plane of Fate
+
+The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. Fate covers both forces below. It represents the possibility of all things, so it reaches the Spiritual and the Physical World alike, because all spirits and all physical things have fates. It can attach to oaths, and it is more tied to blessings.
+
+Real Fate Arts are rare and mostly by bloodline. Some high-Stage masters reach them late along the Fate Path, and everyone else touches Fate through a blessing or a Master Work Draft, if at all. They are considered incredibly overpowered, and the people who consider them so are mostly the ones who have met one.
+
+### Blessings
+
+A blessing grants a power out of a person's natural reach, even in Level. It need not go through Fate, though most do. Higher spirits, Archons, Epochs and people of higher Temperance give them, because they are spiritually stronger, and a great giver spends almost nothing doing it. Epochs and Archons act rarely, and when they do it shakes the world; lesser spirits and high-Stage people give most blessings.
+
+A blessing shows on the sheet as its own line. Since the giver wrote that line, it can lie. A curse is often a blessing with terms you did not read, or a giver who does not care what you want. Those who hold Hataraki can take a blessing back or remove it, which is one of the reasons Hataraki is so dangerous.
+
+```
+[Blessing: Favor of the Tide-Mother]
+[You will not drown.]
+```
+
+Every sailor who has had that line will tell you it is true. Read it again.
+
 ### Attraction Force, the Law of Recognition
 
 Attraction Force is the third fundamental force in the framework, equal in structural importance to Aether and Essence. Where Aether gives a working physical form and Essence gives it identity, **Attraction Force gives it endurance**. It is the binding principle that allows one presence to acknowledge another and for that acknowledgment to persist as continuity. Through it, vows remain binding, relics remember their bearers, lineages preserve their echo, Domains remain stable, and spiritual relations survive time, death, distance and change.
@@ -282,9 +307,11 @@ Aetheric effects encoded into Parunic inscription structures that persist indepe
 
 **Secondary:** Dexterity Finesse for physical precision of execution. Tempering Clarity for the cleanliness of Essence routed into the glyph. Dominion Gravity for persistence against environmental erosion.
 
+Runes and tags, like Drafts and chants, are skills and trades anyone can level, and they show as Grades on the sheet.
+
 ### Hataraki, the Works of the Plane of Fate
 
-Not spells. The labor reality performs through practitioners who have become structurally aligned with specific principles of cosmic maintenance.
+Not spells. The labor reality performs through practitioners who have become structurally aligned with specific principles of cosmic maintenance. Hataraki are Fate Arts, rare and held by bloodline, and their holders can take back or remove a blessing, whoever gave it.
 
 **Zentai-sei (Totality)**: Dominion (Sovereignty, Throne), Tempering (Ceiling, Maturity), Resilience (Persistence, Continuity). Wholeness and cosmic maintenance. Doctrine that encompasses rather than excludes.
 

@@ -4,7 +4,7 @@ title: Caloria — Thermodynamics
 
 # Caloria — Thermodynamics
 
-*Thermodynamics · heat, and its absence, and the transfer between them*
+*The burn that clears ground for something new · filed by the scholars under thermodynamics: heat, and its absence, and the transfer between them*
 
 The people of Pennyhithe will tell you about the Aldgate sisters whether you ask or not. Prudence Aldgate heated the public baths on Fish Lane with her bare hands for thirty years, a copper a tub, two if you wanted it hot enough to lift the grease, and she turned away anyone who owed her, the reeve's wife included, and once, gloriously, the reeve. Her sister Bess kept the family's grudges. On the night of the Herring Fair she walked down into the customs cellar under the tollhouse with a list of names and her whole body lit the white-orange of a smith's best heat, and the crowd up on the quay heard a flame-front turn into something else.
 
@@ -12,13 +12,25 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 > The Caloria Wellsprings all describe one thing seen from ten positions: **energy crossing a boundary.** Creation and destruction run on one law here, which is why the Family produces both the most restorative and the most annihilating Wellsprings in the register and cannot cleanly be called either.
 
+**The idea** · Conviction, rupture and transformation. Its ten Wellsprings are ten ways a soul can be changed by burning, from the ember that never goes out to the blast that ended the tollhouse.
+
+**The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Caloria has this burn in everything it does. One of these ten brings the burn forward: a little at first, and after years of mastery up to double, so that the same fist at the same Grade lands with twice the rupture in it. Another Typology can take them too, at a higher Essence cost and with a rougher result, and the bath-house trade will tell you it shows in the water. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
+
 **Stat Affinity** · *Ardency (Flux, Detonation, Overchannel, Saturation, Cascade, Duality, Radiance) · Vitality (Tolerance, Threshold, Endurance) · Tempering (Overflow, Conversion, Compression, Longevity)*
 
-*Each Wellspring below is one type of Aether. Analogue and Mechanism give what that type does to a Soul Crystal. **Alchemy** gives the principle it stands for at the bench, and **Spirit** the transformation it works on the soul, each a road of Temperance (the climb of a soul from Stage to Stage).*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, and Failure how it goes wrong.*
 
 ---
 
 ## Pyreveil · *The Fire of Renewal*
+
+**The idea** · Fire that renews. Whatever this lens touches it burns down so that something can stand up in its place, and the burning stays in the soul as strength where it would otherwise have left as smoke.
+
+**Spirit** · Temperance through burning; destruction reborn as creation.
+
+**Alchemy** · The Sulfur principle at full heat: a fire that stays resident in the body it burns. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Enthalpy of combustion, and the conservation of energy across a reaction.
 
@@ -26,13 +38,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Ardency Flux, Ardency Saturation, Vitality Tolerance. Output burns hotter. The body stops minding heat.
 
-**Alchemy** · The Sulfur principle at full heat: a fire that stays resident in the body it burns. *(the trade's reading)*
-
-**Spirit** · Temperance through burning; destruction reborn as creation.
-
 **Failure** · Thermal debt. The energy that stayed resident has to leave eventually, and it leaves through whatever tissue is nearest when the working ends.
 
 ## Exuroth · *The Trial Flame*
+
+**The idea** · The trial by fire. Power comes only through ordeal, plunged and reheated and plunged again, until the soul holds a hardness no gentle road could have given it.
+
+**Spirit** · Temperance through ordeal.
+
+**Alchemy** · The assayer's trial: quench and temper, the bench's proof by ordeal. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Quench and temper. Martensitic hardening followed by controlled reheat.
 
@@ -40,13 +56,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Ardency Overchannel, Tempering Overflow, Vitality Threshold. Pain thresholds rise. The Crystal tolerates what would shatter lesser vessels.
 
-**Alchemy** · The assayer's trial: quench and temper, the bench's proof by ordeal. *(the trade's reading)*
-
-**Spirit** · Temperance through ordeal.
-
 **Failure** · Quench cracking. Cycle too fast without the tempering interval and the lattice arrives hard, brittle, and split along its own thermal gradients.
 
 ## Ignivale · *The Wellspring of the Spark*
+
+**The idea** · The spark. The smallest beginning that goes on to pay for itself, so that the gap between wanting a thing and doing it closes to almost nothing.
+
+**Spirit** · Temperance through ignition.
+
+**Alchemy** · The first degree of fire: the smallest heat that goes on to pay for itself, which every Burning starts from. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Minimum ignition energy and the activation barrier.
 
@@ -54,13 +74,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Ardency Detonation, Dexterity Burst. First strikes arrive faster. Burst frequency increases.
 
-**Alchemy** · The first degree of fire: the smallest heat that goes on to pay for itself, which every Burning starts from. *(the trade's reading)*
-
-**Spirit** · Temperance through ignition.
-
 **Failure** · Preignition. The barrier drops low enough that ambient emotional charge crosses it unbidden, and the working fires without the practitioner having decided to fire it.
 
 ## Cinerion · *The Ash Veil*
+
+**The idea** · What the fire leaves. Ash taken as treasure: every spent thing feeds the next thing, and the soul learns to live on its own aftermath.
+
+**Spirit** · Temperance through aftermath.
+
+**Alchemy** · The law Calcination draws on, the Burning of the bench: strong dry heat drives off what is volatile and leaves what is fixed.
+
+*How scholars explain it.*
 
 **Analogue** · Pyrolytic char and its catalytic residue. Particulate optical depth.
 
@@ -68,13 +92,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Tempering Conversion, Harmonics Recovery. The residue of destruction becomes recovery material.
 
-**Alchemy** · The law Calcination draws on, the Burning of the bench: strong dry heat drives off what is volatile and leaves what is fixed.
-
-**Spirit** · Temperance through aftermath.
-
 **Failure** · Fouling. Accumulated residue eventually coats the conduit rather than feeding it, and recovery rate collapses precisely when the practitioner has spent the most.
 
 ## Solfatara · *The Fuming Earth*
+
+**The idea** · The fuming earth. Pressure let out forever and never saved up, so the soul stops building toward a blow and becomes a steady force in the room.
+
+**Spirit** · Temperance through pressure.
+
+**Alchemy** · The vessel that breathes: fume let off without end, so the charge never bursts. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Fumarolic degassing. Volatile exsolution as confining pressure falls.
 
@@ -82,13 +110,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Tempering Compression, Vitality Endurance, Dominion Pressure. Sustained pressure output becomes the character's natural state.
 
-**Alchemy** · The vessel that breathes: fume let off without end, so the charge never bursts. *(the trade's reading)*
-
-**Spirit** · Temperance through pressure.
-
 **Failure** · Vent blockage and phreatic failure. Interrupt the release and the pressure does not politely wait. It finds a new path through whatever is structurally weakest.
 
 ## Manganthra · *The Catalyst of Change*
+
+**The idea** · The go-between. Change that happens because something stands between two enemies and lets them meet, and a soul under this lens can hold what ought to tear it apart.
+
+**Spirit** · Temperance through transformation.
+
+**Alchemy** · The go-between that stays out of the product: two reagents held side by side until they will do what neither would alone. *(the trade's reading)* Iron conducts it.
+
+*How scholars explain it.*
 
 **Analogue** · Heterogeneous catalysis. Adsorption of incompatible reactants onto a shared surface.
 
@@ -96,13 +128,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Ardency Duality, Gnosis Adaptation. The practitioner integrates contradictory Wellspring energies without resonance conflict.
 
-**Alchemy** · The go-between that stays out of the product: two reagents held side by side until they will do what neither would alone. *(the trade's reading)* Iron conducts it.
-
-**Spirit** · Temperance through transformation.
-
 **Failure** · Catalyst poisoning. One strongly-binding contaminant occupies the active sites permanently, and the practitioner loses not one harmonization but the capacity to hold any pair at all.
 
 ## Cataclysm · *The Shattered Law*
+
+**The idea** · Upheaval. The moment a fire stops being a fire and becomes a blast, a change in kind as well as size, and the soul that has learned to call that moment.
+
+**Spirit** · Temperance through upheaval.
+
+**Alchemy** · The vessel's violent end taken as a law: the moment a burning charge stops burning and becomes a blast. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Deflagration-to-detonation transition. Blast scaling under the cube-root law.
 
@@ -110,13 +146,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Ardency Cascade, Ardency Detonation, Dominion Expansion. Area expressions become wider and more structurally coherent.
 
-**Alchemy** · The vessel's violent end taken as a law: the moment a burning charge stops burning and becomes a blast. *(the trade's reading)*
-
-**Spirit** · Temperance through upheaval.
-
 **Failure** · Reflected overpressure. In confinement the shock returns along its own path, and the practitioner standing at the origin receives the sum of the wave and its reflection.
 
 ## Pyraeon · *The Ember Crown*
+
+**The idea** · The ember that stays lit. Power that gives up its flare and keeps its heat for a lifetime.
+
+**Spirit** · Temperance through endurance.
+
+**Alchemy** · The Long Furnace's fire: slow heat kept for months, with the charge never once flaring. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Smoldering combustion. Flameless, diffusion-limited, self-sustaining.
 
@@ -124,13 +164,17 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Vitality Endurance, Tempering Longevity, Ardency Flux. Output does not fade over time. The ember persists.
 
-**Alchemy** · The Long Furnace's fire: slow heat kept for months, with the charge never once flaring. *(the trade's reading)*
-
-**Spirit** · Temperance through endurance.
-
 **Failure** · Underground propagation. The reaction continues where the practitioner cannot see it, consuming reserve and tissue for hours after they believed the working ended.
 
 ## Catharsis · *The Wellspring of Release*
+
+**The idea** · Letting go. A load set down so completely that the setting down spends it, and the soul comes out on the other side lighter and changed.
+
+**Spirit** · Temperance through letting go: release, purgation, true clearing. The Heresiology's warning stands beside it, that nothing is purified by being merely emptied.
+
+**Alchemy** · Purgation: the matter gives up its burden in the change of state itself. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Latent heat of phase change. Enthalpy absorbed at constant temperature.
 
@@ -138,22 +182,22 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Harmonics Empathy, Tempering Processing, Resilience Insulation. Emotional weight converts into structural clarity.
 
-**Alchemy** · Purgation: the matter gives up its burden in the change of state itself. *(the trade's reading)*
-
-**Spirit** · Temperance through letting go: release, purgation, true clearing. The Heresiology's warning stands beside it, that nothing is purified by being merely emptied.
-
 **Failure** · Supercooling. The transition fails to nucleate, the load accumulates past the point where it should have released, and when it finally goes it goes all at once.
 
 ## Penanceflare · *The Light of Contrition*
+
+**The idea** · Burning in the open. Remorse that shines, so that what the soul is and what it means can be read by anyone looking, and honesty costs nothing because nothing is hidden anymore.
+
+**Spirit** · Temperance through remorse.
+
+**Alchemy** · The fire that reports itself: heat read by its color, as every alchemist reads a flame. *(the trade's reading)*
+
+*How scholars explain it.*
 
 **Analogue** · Blackbody radiation. Planck's law and the emissivity of a body that cannot hide its temperature.
 
 **Mechanism** · Every body above absolute zero radiates, and the spectrum of that radiation reports its temperature to anyone with an instrument. Penanceflare raises the Shell's emissivity toward unity. The practitioner's workings become brilliantly legible, their intent readable in the emission, and concealment becomes impossible in exactly the measure that honesty becomes free.
 
 **Stat Effect** · Strengthens Ardency Radiance, Gnosis Vigilance. Workings become more visible and more honest in expression.
-
-**Alchemy** · The fire that reports itself: heat read by its color, as every alchemist reads a flame. *(the trade's reading)*
-
-**Spirit** · Temperance through remorse.
 
 > **Failure** · There is no concealment mode. The Wellspring does not permit one, and a Penanceflare practitioner who needs to hide has harmonized with the wrong Wellspring.

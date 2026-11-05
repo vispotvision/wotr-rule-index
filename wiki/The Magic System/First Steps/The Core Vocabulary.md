@@ -11,7 +11,7 @@ Bartle the Sponge, a wharf-fighter of the Oxmarket Stairs, stood on a herring ba
 
 Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and has not been able to hold a bank since. The Accord's inquest ran three days, because no two people in the room would use the words "bank," "overfill" and "rating" for the same thing, and the fishwives of Oxmarket, having heard that the man had been overfilled, entered evidence about the pies. A clerk of the Archive was sent away to write down what the words mean so that this could never happen again. Here is what she wrote. It has happened every year since.
 
-> **This page covers Sections I to VI**: the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output, and Traits, Refinement and the Seat.
+> **This page covers Sections I to VII**: the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output, Traits, Refinement and the Seat, and the Sheet and the Climb.
 >
 > Method and discipline, Glyphica, Alchemia, Domains, Summoning, Failure states, Pressure, institutional vocabulary, the common tongue, and the page-safe register continue here:
 >
@@ -28,7 +28,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 | Plane | Governs | Crystal layer |
 |---|---|---|
 | **Material Plane** | Physics, matter, force, and biology. Observable reality; magic uses its laws and overrides none of them. | Aether Shell |
-| **Plane of Fate** | Connection, recognition, and consequence. Records what has actually happened between things: bonds, oaths, grudges, every act of recognition runs as a current here. | Attraction Layer |
+| **Plane of Fate** | The control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths and is more tied to blessings. | Attraction Layer |
 | **Soul Plane** | Identity, memory, conviction, and Essence. Preserves who a practitioner is and is the plane where Essence originates. | Essence Core |
 | **The Veil** | The liminal interface between the three: the threshold condition where one plane's law softens into another's. Scholars who count it as a fourth plane get corrected, loudly, at dinner. | — |
 
@@ -37,7 +37,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 ## II. Aether, Essence & Attraction
 
 > *Aether is the ocean. Essence is your water. The ocean is infinite. Your water is yours.*
-**Aether** · The universal medium through which everything exists, following the same laws as observable physics. Infinite and impersonal. Most of what a practitioner uses is pulled from the environment around them (the pull), refined in the Soul Crystal into Essence, given identity, and driven out through the Shell. It comes in sixty types, which are the Wellsprings (see Section III).
+**Aether** · The universal medium through which everything exists, following the same laws as observable physics. Infinite and impersonal. Most of what a practitioner uses is pulled from the environment around them (the pull), refined in the Soul Crystal into Essence, given identity, and driven out through the Shell. The old books say it comes in sixty types, which are the Wellsprings (see Section III).
 
 **Aetheric Density** · The concentration of Aether present in a given volume, read in **EU per cubic meter**. Sets the ceiling on the AU/s output a practitioner can achieve in that location, which is why battles are fought over ground as well as over people. Rich ground fills a practitioner faster and thin ground starves them; the street says fat ground and lean ground. One EU is one megajoule, so a density in EU/m³ is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** So the ceiling is literal. No boundary can be pushed into ground at a pressure the ground does not carry. Ground wins that argument. A site yields at most a thousandth of its density per second, so the ceiling on output is that rate across the volume a practitioner's field reaches. The four conditions are laddered in numbers in *The Eight Families & the Sixty Wellsprings*.
 
@@ -47,7 +47,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Ambient Resonance** · Residue while it is still ringing, and therefore one quantity with two names. It is read in the same EU per cubic meter as any density, because it is the excess a working left behind on its way out of the ground. It falls by a hundredfold in about seventy-five minutes and by a millionfold in about four hours. That is how long ground remembers a working, and how long it remembers a battle. Resonance leaves every ceiling where it was and raises a floor. Every reach that depends on being heard above the ground, which is addressing, authority and anchoring, falls as the square root of the total local density. Twenty practitioners working hard over a two-hundred-meter front leave ground on which a Harmonist hears to about two fifths of his ordinary range until it quiets.
 
-**Attraction Force** · The law of recognition governing the Plane of Fate. Allows names, vows, lineages, Domains, and outcomes to be lawfully acknowledged inside reality. Clean techniques are sustained by the Continuum's recognition of the practitioner's intent.
+**Attraction Force** · The law of recognition governing the Plane of Fate. Allows names, vows, lineages, Domains, and outcomes to be lawfully acknowledged inside reality. Clean techniques are sustained by the Continuum's recognition of the practitioner's intent. With its inversion, Obsession Force, it is what the Plane of Fate controls, and a true Fate Art works both.
 
 **Essence** · Personal Aether: pulled into the soul, refined and circulated through the Soul Crystal, and imprinted with the practitioner's identity.
 
@@ -55,7 +55,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Essence Signature** · The unique trace a practitioner's Essence leaves, readable through Gnosis-based perception. You cannot forge one and you cannot fully hide one, only muddy it.
 
-**Essence Typology** · A Soul Crystal's natural bias toward a given phenomenon. Determines which Family's Abilities develop instinctively rather than through deliberate effort.
+**Essence Typology** · A Soul Crystal's natural bias toward a given phenomenon. Determines which Family's Abilities develop instinctively rather than through deliberate effort. A Wellspring set over it as a lens can highlight it and even double its effect, starting small and reaching double only with years of mastery.
 > **Obsession Force** · The corrupted inversion of Attraction Force. When a practitioner cannot release judgment, lineage, memory, or revelation, recognition curdles into fixation, sustaining corrupted techniques through refusal rather than harmony, at escalating soul-cost.
 
 ---
@@ -64,7 +64,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 *The convergence point where all three planes meet inside a single being.*
 
-**Soul Crystal** · Composed of three layers whose combined state determines everything a practitioner can perceive, become, or do.
+**Soul Crystal** · The soul, literally. Composed of three layers whose combined state determines everything a practitioner can perceive, become, or do. Tempering melts it down and rebuilds each layer, refines the Essence it holds and makes it stronger, and the body gains Traits. The Continuum measures it, and it reports to its owner in windows (Section VII).
 
 | Layer | Function | Failure state |
 |---|---|---|
@@ -84,9 +84,9 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Overfill** · Carrying a bank above the rated Flux Density. To **one and a half times** rating the Crystal holds and leaks and takes no lasting harm, and that margin is the whole of an absorber's working room. From one and a half to **two and a quarter times** the lattice takes a permanent set and the rating itself falls: the Crystal has gone **Overgrown**. At or past two and a quarter times it bursts. That is a **Crystal Fracture Event**, in the absorber, from energy that was aimed at him and that he chose to take. Feeding an absorber past his margin is the counter to absorption, and it is cheaper than out-hitting him.
 
-**Wellspring** · Aether comes in different types that affect the Soul Crystal differently, and those types are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations. There are sixty, fixed, and a Soul Crystal harmonizes with them and invents none. Each carries its own Core Law, Family alignment, and Temperance-range compatibility. Harmonization with the correct Wellspring is one of the four conditions, alongside Essence Typology, Temperance Stage, and training, that an Ability needs to develop.
+**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural Essence Typology, starting small and reaching double only with years of mastery. A soul gets one at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. There are sixty, fixed, and a Soul Crystal harmonizes with them and invents none. Scholars explain the lens as physics: Aether comes in sixty types that affect the Soul Crystal differently, and each carries its own Core Law, Family alignment, and Temperance-range compatibility, and every figure in the tables is that account. Harmonization with the correct Wellspring is one of the four conditions, alongside Essence Typology, Temperance Stage, and training, that an Ability needs to develop.
 
-**Core, in common speech** · A site in the world where a Wellspring's Aether pools. A worked site recharges and has keepers, who can close it. Scholars keep the word for the Essence Core and say Wellspring site; the street says Core, and context has to do the rest.
+**Core, in common speech** · A site in the world where a Wellspring's Aether pools. Most lie in dungeons, and some are said to lie in vast territories. A worked Core is a dungeon someone cleared and now holds: it recharges and has keepers, who can close it. Scholars keep the word for the Essence Core and say Wellspring site; the street says Core, and context has to do the rest. A monster's core is a third thing (Section VII), and people have died of that confusion too.
 
 ---
 
@@ -100,7 +100,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Ability** · The internalized governing system a Soul Crystal has developed. Pyrokinesis, for example. The infrastructure. It does nothing visible by itself; it is the platform Techniques are built on.
 
-**Technique** · A specific, repeatable application within an Ability's framework. Quench, for example. What a practitioner actually does, with defined inputs, outputs, and limitations.
+**Technique** · A specific, repeatable application within an Ability's framework. Quench, for example. What a practitioner actually does, with defined inputs, outputs, and limitations: a named thing done with a skill. It shows no level on the sheet and takes a bigger name when it jumps.
 
 **Taught Technique** · Learned from an instructor or codex in standardized form. Reliable, but carries the teacher's design assumptions rather than the student's own.
 
@@ -116,11 +116,11 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 ## V. Progression & Output
 
 > *You call Temperance a buff. It is a confession of how much you've survived.*
-**Temperance** · The refinement of the Soul Crystal under pressure, expressed across sixteen Stages, Murmuring through Apex. Temperance is subtraction and never accumulation: each Stage is a structural reorganization triggered by a Threshold Event, never a reward for banked experience.
+**Temperance** · The refinement of the Soul Crystal under pressure, expressed across sixteen Stages, Murmuring through Apex. Temperance is subtraction and never accumulation: each Stage is a structural reorganization triggered by a Threshold Event, which needs a Catalyst, and banked experience alone has never opened one. A crisis, a seclusion, a tribulation, a Draft or a blessing can supply it, so a Stage can simply be bought.
 
 **Band** · One of five brackets of one hundred Levels each: I Mortal Foundation, II Awakened, III Sovereign, IV Mythic, V Absolute, capped at Level 500 for everyone below Stage XV. Paragons, at Stages XV–XVI, exceed it: Level keeps rising with no ceiling and no sixth Band, and the Codex does not number it. No Band ceiling can be breached without the Temperance Threshold that Band demands. The old lettered bands attached to Stages are retired; a Stage's standing is now read by Tier of Standing.
 
-**Grade** · The letter-ranked output classification, F through EX+ (with Hollow below the letters), attached to a Temperance Stage, marking raw magnitude up to that Stage's Grade cap.
+**Grade** · The letter-ranked output classification, F through EX+ (with Hollow below the letters), attached to a Temperance Stage, marking raw magnitude up to that Stage's Grade cap. Skills show on the same letters, and so does an item's power.
 
 **EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Scales with Temperance Stage, and the band and benchmark reserve for each of the sixteen Stages are set out in Fracture of Worlds Part Nineteen. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering.
 
@@ -143,7 +143,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 ## VI. Traits, Refinement and the Seat
 
 > *A soul is assembled out of what happened to it and what it could afford, in that order.*
-**Trait** · A standing law held in the Essence Core, formed when lived experience hardens into a statement the Continuum accepts as reliable. Survived into existence, never taught. A Trait belongs to the soul; the Soul Crystal only arms it.
+**Trait** · A standing law held in the Essence Core, formed when lived experience hardens into a statement the Continuum accepts as reliable. Survived into existence, never taught. A Trait belongs to the soul; the Soul Crystal only arms it. It can be leveled and refined like a skill: each Trait has its own level, which rises with use and grows with overall Level and skill.
 
 **The Four Reflections** · **Primary**, the innate law, present from birth and never removable. **Secondary**, forged by trauma or decision, conditional, expensive to fire. **Inherited**, written into the Core before the Core had a self to consent with, and governed by Tempering Maturity. **Passive**, stabilized by long habit, always running, cheapest and most identifying. **Compound** Traits fuse two or more into one law. **Higher-Imprint** Traits are marked by an Archon, a Titan or a World Spirit Realm and behave as miniaturized Principles.
 
@@ -170,3 +170,51 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 **Shear Break** · A Trait collapsing, inverting, or turning on its bearer after the bearer has repeatedly denied the truth that formed it.
 
 **Overgrowth** · A Trait expanding past the soul's capacity to guide it. Bodily mutation, Essence warping, unintended Domain formation. The warning sign is a Trait acting when the bearer did not will it.
+
+---
+
+## VII. The Sheet and the Climb
+
+> *Nobody has ever seen your window but you, which has not stopped anyone asking.*
+
+**Window** · The soul reporting its numbers to its owner, in the owner's own tongue, unseen by anyone else. It shows Grades, percentages, bars and levels, in short blocks, fights included, for damage, skill gains and reserve. EU, AU/s and η never appear in one. Scholars argue about who built it.
+
+```
+[Reserve: 41% ▓▓▓▓░░░░░░]
+[Hit: left ribs, two cracked. Vitality 72%]
+[Skill: Staff, D to C]
+```
+
+**The Sheet** · What a normal look at the window shows: race and lineage, Level, Stage, class, the Eight Primaries with Grades, reserve, Traits with levels, skills with Grades, and any blessings. A Sub-Stat appears when it is used or when it moves, and the full set remains to study. Race and lineage shape base stats and what comes easily. A person's life spends most of their stat points by what they do, and a few are theirs to place at each Stage.
+
+**Skill** · A thing a person does and gets better at by doing it. Rises with use and shows on the sheet as a Grade. Drafts, runes, tags and chants are skills and trades like any other, and anyone can level them.
+
+**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves at each tier by how it is lived. The ladder Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute is its tier, and that tier sets η as the tables say. Stages I to V read no Class, so the first offer comes at Glory. The one wild concept stays the person's own.
+
+**Catalyst** · The push that opens a Threshold. The Crystal has a shape it wants for each Stage (see *The Sixteen Stages*), and crisis, seclusion and tribulation are the old roads to it. Drafts and blessings can supply it too. The great houses hoard the top Drafts, and the poor rise by dungeon luck, guild patronage and blessings.
+
+**A bought Stage** · One opened with money. It opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+
+**Experience** · Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
+
+**Monster core** · In a way a monster's Soul Crystal, worth more the stronger the monster. It is the lawful Crystal Draw of *The Standing Index*. An alchemist renders it into Essence Drafts used for tempering, with Creature-Sourced potency and Identity Contamination. Swallowed raw it gives everything at once, and most who try die or come out wrong.
+
+**Monster** · A creature that gains Levels by killing and changes form at its own thresholds, on the same Level and Grade scale as a person, read by Gnosis, with question marks for a weak reader. Graded T1 to T9 like Commissions. A famous one earns a name, an epithet and a bounty, and its parts make gear.
+
+**Cut Crystal** · A Crystal taken from a dead practitioner. It renders into the strongest Draft of all, the worst crime in every realm and the most profitable, and the reason Class IV of the Standing Index has never balanced.
+
+**Dungeon** · What grows down in floors around a Core, with something guarding the heart. Kill that and clear the place, or leave it and it grows. Alive and learning: it moves its galleries and breeds what kills crews best, and scholars argue whether it thinks.
+
+**Blessing** · A power out of a person's natural reach, even in Level, granted by a higher spirit, an Archon, an Epoch or a person of higher Temperance. It need not go through Fate, but most do, and a great giver spends almost nothing. It is its own line on the sheet, and it can lie, because the giver wrote the line.
+
+**Curse** · Often a blessing with terms you did not read, or from a giver who does not care what you want.
+
+**Fate Art** · A real working of the Plane of Fate. Rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Everyone else touches Fate through a blessing or a Master Work Draft. Hataraki can take back or remove a blessing.
+
+**Title** · One of the nine ranks of the Guild Accord, the coalition of many kinds of guild across many nations: Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon. The same nine in every guild, grading trust in that trade: a merchant may deal up to it, a craftsman make up to it, an adventurer take Commissions up to the same Threat Tier. Fighting guilds keep the Stage table as their yardstick. A forged token is a great crime.
+
+**Item Grade and Rarity** · An item's two ratings: Grade for power, on the fighters' letters, and Rarity for scarcity (Common, Uncommon, Rare, Very Rare, Legendary, Mythic, Unique). A smith's title caps the Grade she may make and a merchant's caps the Rarity he may sell. The old words (Marked, Proofed, Tempered, Instrument, Hallowed, Storied, Found, Numinous, Proscribed) survive as the Accord's stamps. Bonded gear grows; other gear does not. An Appraisal skill and an assay instrument read an item, and a good forger beats a weak appraiser.
+
+**Master Work** · A piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own. A Fate Essence Draft is one: extremely hard and very coveted.
+
+**Reading a person** · A stronger Gnosis Perception reads a weaker Resilience Ward. Anything else is an estimate said aloud, and people can hide or fake it.

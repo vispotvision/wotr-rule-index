@@ -55,30 +55,24 @@ then filing.
 The swap test: if two characters exchanged abilities and neither read as
 wrong, neither ability is working.
 
-## Entry format (R76, R81-16, Isaac's layout of 2026-11-01)
+## Entry format (R82-20 to R82-23, Isaac 2026-11-04)
 
-**Describe what the ability is and how it fights.** Every technique, skill or
-magic is assumed to be used in battle unless the card says otherwise, so each
-bullet states its combat use in the same breath as its mechanism (R81-16;
-R47-1, "never how it is used in a fight", is superseded). Counters and tells
-are facts ("fails in a warm room", "the air shimmers"), never instructions to
-an opponent. For his PC the new uses in play are still Natalie's to write and
-his to keep.
-
-The layout: a heading per Trait, Domain, Technique, Release or Vow, the name in
-caps with its native-language name (script and romanization; English first
-where the character has a naming register, `THE ROT · kusari`, R78-5) and its
-kind (a release form's kind is *First*, *Second* or *Third Release*); a short
-intro saying what it is, with its signature sound and, for a Trait, the aura's
-color (R78-6); then bullets of the form **Name (native name): description**,
-each a developed explanation in which the metaphysics and the physics are one
-account (the world's terms and the real phenomenon underneath, the glyph's
-boundary condition, the figures inline) and the combat use is stated in the
-same bullet; a **Nature** bullet (passive or active, what it scales with, what
-it is bound to); and **Cost and Tell**, **Counter** and **Failure** bullets.
-Signatures and releases also say how they play against a higher Stage. The
-field format (R47-2) and the one-paragraph-only form are retired; an old entry
-is rewritten into this layout the next time it is edited or used.
+One wild concept, then named moves (R82-11). Every art, assumed to be used in
+battle unless the card says otherwise, is written: its name in caps with its
+native-language name (script and romanization) and its kind (a release form's
+kind is *First*, *Second* or *Third Release*); the **hook**, one sentence a kid
+could repeat, no system words; the **named moves**, a line each saying what it
+does and looks like in a fight; **How it really works**, the full account with
+the metaphysics and the physics as one story, the glyph's boundary condition,
+its signature sound and, for a Trait, the aura's color, and for a signature or
+release how it plays against a higher Stage; one short **Cost** line and one
+short **Counter** line (individual moves may skip them); and a **Numbers** block
+with the exact figures. Counters and tells are facts ("fails in a warm room",
+"the air shimmers"), never instructions to an opponent. Names follow
+ABILITIES AND THE WORLD in `desktop/NATALIE.md`. An old entry is rewritten into
+this shape the next time it is edited or used, keeping what scenes have shown
+(R82-46) and listing its old name (R82-47). For his PC, new names are offered
+and he keeps or cuts them (R82-28).
 
 - Any words that make it clearest, chosen fresh; technical terms welcome when
   explained on first use. Explaining fully beats concision (DEPTH AND
@@ -135,9 +129,10 @@ Correspondence, sympathy and contagion, essence and accident, form and
 actualisation, recognition and refusal: the Attraction-side read and the
 document voice. Real physics and Mechanism Vocabulary: any voice, and narration in any POV
 when explained, an untrained POV in plainer, more wondering words (R81-4). On
-the page a working takes the full Working Card (DEPTH AND EXPLANATION in
-desktop/NATALIE.md), the real phenomenon and its law named and explained, the
-math in the notes (R81-7).
+the page the name, hit and awe come first, then the account, scaled by the
+move's size (R82-24): at a signature's first use the full Working Card (DEPTH AND
+EXPLANATION in desktop/NATALIE.md), the real phenomenon and its law named and
+explained, the math in the notes (R81-7).
 
 ## The gap-fill pass (when Isaac submits a fight or working to improve)
 

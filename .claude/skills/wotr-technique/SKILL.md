@@ -28,11 +28,11 @@ description: "Design a War of the Realms technique, Trait, art or ability from a
    that none can and offer the nearest.
 5. **The Codex.** `codex(query)` for precedent, Wellspring, Family and
    Physics Domain. Never invent a Wellspring or glyph.
-6. **The entry.** One name in caps, a short gloss where the character has a
-   naming register (`wotr-name`), its kind in brackets, then a developed
-   explanation at full depth (charge, draw, look and room, mechanism in physics
-   and metaphysics, counter and failure), technical terms welcome and explained,
-   figures inline (Isaac, 2026-11-03).
+6. **The entry (R82-20).** Name in caps with its native name (`wotr-name`) and
+   kind, the hook a kid could repeat, the named moves a line each, How it really
+   works (the full account, technical terms welcome and explained), one Cost
+   line, one Counter line, and a Numbers block at the bottom. Concept first, and
+   the names follow ABILITIES AND THE WORLD in `desktop/NATALIE.md`.
 
 The whole card comes back at once. Every choice sticks only when the player
 keeps it; a PC's new techniques are his call.

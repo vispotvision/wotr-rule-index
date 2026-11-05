@@ -26,6 +26,8 @@ owner: <creator, if not an NPC>
      ============================================================ -->
 
 **<NAME>** · <title> · <culture> · as of <moment>
+**Epithet** · <the title that travels ahead of them; the world uses it, and it may be wrong> (R82-8)
+**Concept** · <one sentence a kid could repeat, no system words> (R82-11, R82-13)
 **Stat line** · Level <n> · Band <I–V, name> · Stage <numeral, Fracture of Worlds name> · Path <Path> · <Tier of Standing by name> · η <value> · Aether Class <class> · Crystal <Tier>, <State>
 **Combat grammar** · <Verdict | Blade | Percussion | Expenditure> (R71-69)
 **Aura and sound** · color: <Family hue at Stage clarity, e.g. ember-orange, dual-toned> · signature sound: <…> · feel: <smell, temperature, pressure, and what the room does when it rises> (R78-6, R78-10)
@@ -116,18 +118,15 @@ owner: <creator, if not an NPC>
 
 <!-- ============================================================
      THE ABILITIES.
-     Every one, Trait, technique, signature, school art, bloodline faculty alike, is written the same way (R76-1):
-       NAME IN CAPS · gloss (where the naming register has one) (Kind)
-       A developed explanation, any length, technical terms welcome and explained, full figures inline, no (est.) mark (R76-6).
-       At full depth (DEPTH AND EXPLANATION, NATALIE.md, Isaac 2026-11-03): the charge, the draw
-       (Soul Crystal, Shell, η, waste heat), the look and what it does to the room, the mechanism
-       in physics and metaphysics as one account, how it plays in a fight, the counter and the failure explained.
-       It always states MECHANISM, COST and one fair COUNTER within reach at its own Stage;
-       LIMIT and TELL where they exist (R79-9). The belief stays implied. Offices and the Lattice
-       property only where they read naturally (R76-3). What it is, and how it plays in a fight.
-     The counter rests on known law; the before, during and after triad only for signatures (R79-9).
-     Every ability has a counter.
-     Model: FERMENT (Primary Trait), Malphas.
+     Every art is the one concept going bigger (R82-11, R82-18) and is written the same way (R82-20):
+       NAME IN CAPS · native name (script, romanization) (Kind)
+       The hook: one sentence a kid could repeat, no system words (R82-13).
+       Named moves, a line each: what it does and looks like in a fight (three to five, growing in play).
+       How it really works: the full account, physics and metaphysics as one story, how it fights.
+       Cost: one line, with a big art's strange personal price (R82-22, R82-23).
+       Counter: one line, a fair counter within reach at its own Stage on known law.
+       Numbers: exact figures in a block at the bottom (R82-21).
+     Old names stay listed as what people once called it (R82-47).
      ============================================================ -->
 
 ## VIII. Traits

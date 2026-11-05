@@ -1,61 +1,55 @@
-# Ability pipeline (draft, 2026-10-31)
+# Ability pipeline (R82, Isaac 2026-11-04)
 
-Isaac's direction: abilities are written the way the Superpower Wiki writes them, drawing on its concepts and ideas and on real physics. This file is the working draft of the pipeline from a rough sketch to a card entry. It becomes law when Isaac approves it; the details are still being settled in `imports/drafts/ability-pipeline-questionnaire/`.
+From a rough sketch to a card entry. The law is ABILITIES AND THE WORLD and Technique entries in `desktop/NATALIE.md`; where this file and those disagree, they win.
 
-## The Superpower Wiki shape (read from its live pages)
-
-A Superpower Wiki power page runs: a one-line definition ("The power to ...", with the broader powers it varies); Also Called; Capabilities (prose on what the power can do at its root and the physical basis); Applications (a list of discrete, concrete uses, each a sentence or two); Techniques (named methods); Variations (the power specialized or twisted); Associations (neighboring powers it combines with); Limitations (what stops it); Known Users and Known Techniques. The page reads like a field guide: general principle first, then a long tail of specific uses, then limits.
-
-WOTR keeps its own technique-entry rules (name in caps, a gloss, kind in brackets, a developed explanation with technical terms welcome and explained and full figures inline, mechanism, cost, one fair counter within reach, limit and tell where they exist). The Superpower Wiki supplies ideas and the long tail of uses: a technique's entry is written in the layout of Isaac's Reitori and Hiromi examples (2026-11-01): a heading with the native name, an intro, then Name (native name): description bullets in which metaphysics and physics are one account and the combat use is in the same bullet, a Nature bullet, and Cost, Tell, Counter and Failure bullets. There is no separate Applications, Variations, Associations or Limits list (R81-16).
+The aim: one wild concept and a growing list of moves people would shout, remember and argue about, with the full mechanism kept underneath it. One Piece for most fighters, mythic at the very top.
 
 ## The steps
 
-1. **Intake.** Read the sketch, the character's card and their refusal. Open the Superpower Wiki page for the nearest power (and the pages it varies or associates with) and read its Capabilities, Applications, Techniques, Variations, Associations and Limitations. Take concepts from it; take no WOTR fact from it. `lookup(source, query)` on the WOTR MCP reads it (source `superpower`) and the other references, all on the same terms: `vsbattles` for a whole kit's abilities, named techniques and weaknesses; `hxh` and `jjk` for conditions, vows and Domains; `bleach` for releases; `lotm` and `reverend-insanity` for ladders and costed cultivation; `worm` for strange limits; `fma` for alchemy and `arcane` for magitech; `wiktenauer` for blows; `wikipedia` for the real science; `datamuse`, `wiktionary` and `jisho` for words and names. The tool's description lists every source.
-2. **Physics.** Name the real phenomenon, the governing law, the boundary condition the glyph supplies, and the failure mode (the `wotr-phenomenon` skill). Find the nearest Wellspring analogue and Physics Domain in the Codex.
-3. **Design.** Mechanism, cost, a stated condition, one fair counter within reach at the technique's own Stage (and a counter at each phase of a signature), the limit and the tell. A visible charge always comes before the effect.
-3b. **Write the entry** in the Hiromi layout. Heading with the native name (script, romanization, gloss). Intro: what it is. Bullets, Name (native name): description, each telling the metaphysics and the physics as one account (the Wellspring, plane, law or debt together with the real phenomenon, the law, the boundary condition the glyph supplies) and how it plays in a fight. A Nature bullet (passive or active, scaling, bound to what, figures). Cost, Tell, Counter and Failure bullets. Signatures and releases add how it plays against a higher Stage.
-4. **Uses, inside the bullets.** No Applications, Variations, Associations or Limits list (R81-16; R47-1 is superseded). Read the Superpower Wiki's lists for the nearest power for ideas, then fold every lawful use into the bullet whose mechanism allows it, stated as how it plays in a fight. Isaac's direction (2026-10-31) makes the Superpower Wiki a primary source for design, application, variation, association and limitation; WOTR canon governs every fact and number. The long tail is the veteran's kit, found on the page in play.
-5. **Combinations and other users.** Where the art chains with a partner (Resonant Pairs, Synergia) or twists in a different school, say so inside the relevant bullet or the intro, never as a list.
-6. **Sensory signature.** Take the Wellspring's signature from `desktop/style-bank/wellspring-signatures.md`: hue, sound, smell or taste, touch, the user's body, and the tell. Add the technique's own signature sound word.
-7. **Sample display.** A signature technique or a release gets a short sample first display (all four channels, a visible charge, scaled to the technique) for Isaac to approve before it is saved. A small trick goes straight to the card.
-8. **Name.** One name, the best, with the reason; English, one beat; Isaac changes it if he wants.
-9. **Notes.** The full research (Superpower Wiki findings, the physics, the Wellspring and Codex lookups, the sources) goes in the notes page, and the entry itself carries the full physics and metaphysics in its bullets, every technical term explained on first use (DEPTH AND EXPLANATION in `desktop/NATALIE.md`, Isaac 2026-11-03). Chat gets a one-line summary.
-10. **Overlap.** Compare against the existing kits. If the new art overlaps or outclasses another, surface it to Isaac with a recommendation (keep both and mark the difference, merge, or cut); he decides.
-11. **File.** The entry goes to the character's card or the technique page through the wiki tools; canon on use once Isaac keeps it.
-
-## Depth standard (DEPTH AND EXPLANATION in `desktop/NATALIE.md`, Isaac 2026-11-03)
-
-An entry leaves nothing to guess. Every bullet that describes the art answers, at length:
-
-- **The charge and the draw.** What the user's body does to start it, and what anyone watching can see coming; Essence off the Soul Crystal through the Shell, the Wellspring and its Family, the η and where the lost share shows as waste heat.
-- **The look and the room.** The aura's color, shape and motion and how they change as it builds; what it does to the air, light, temperature, pressure, ground and water around it; its sound word, smell, taste and touch from the Wellspring's signature. Written vividly, the air cracking and rippling, the light bending, the stone groaning, in whatever words make it clearest, chosen fresh for this art.
-- **The mechanism, step by step.** The real phenomenon named with its law and explained so a reader with no physics can follow it (an analogy is welcome), told as one account with the metaphysics (the Wellspring's law, the glyph's boundary condition).
-- **In a fight.** How it rides a blow, both damages written; how it plays against a higher Stage.
-- **The counter and the failure.** What the counter physically does to the mechanism, and the Wellspring's named failure mode explained, not just named.
-
-Jargon of every kind is welcome (physics, engineering, anatomy, martial, system terms) as long as it is explained where it first appears. The sample display in step 7 is written to the Working Card.
+1. **Intake.** Read the sketch, the character's card and their refusal. What does this person do all day, what did they survive, where are they from? The power should grow out of that (R82-16).
+2. **Research for ideas.** `lookup(source, query)` on the WOTR MCP, all of it ideas and never canon: `superpower` for what a power can do and its limits, `vsbattles` for how a comparable kit fights and loses, `hxh` and `jjk` for conditions and Domains, `bleach` for releases, `worm` for strange limits, `lotm` and `reverend-insanity` for ladders and cost, `fma` and `arcane` for alchemy and magitech, `wikipedia` for the real science, `datamuse`, `wiktionary` and `jisho` for words and names. No name, move or character is taken from another work.
+3. **The concept.** One idea you can explain in a breath, and any idea goes if it can be pushed somewhere terrifying (R82-14). Write the **hook**: one sentence a kid could repeat, with no system words (R82-13). If it cannot be said simply, the idea is not ready.
+4. **The moves.** Three to five named moves for a major character, each a different thing done with the one concept (R82-11, R82-12). Ordinary fighters get big single phrases; a signature art gets a title with moves under it, Art: Move, and may count its tiers in its own word (R82-3, R82-7). Comic names are fine where the card fits, lethal included (R82-10). Offer the best name with its reason; he changes it if he wants.
+5. **The ladder.** Trait, Release and Domain are the same concept going bigger: the idea, the transformed body, the world obeying it (R82-18).
+6. **The mechanism.** Now find what explains it: the real phenomenon, the governing law, the boundary condition the glyph supplies and the failure mode (the `wotr-phenomenon` skill), then the Wellspring and Physics Domain in the Codex. The concept comes first and the Sixty stay fixed (R82-15).
+7. **Price and counter.** Reserve and body tells, plus for a big art a strange personal price that comes from its own idea (R82-23). One fair counter within reach at the art's own Stage on known law, the limit and the tell. A visible charge comes before the effect.
+8. **Sensory signature.** The Wellspring's signature from `desktop/style-bank/wellspring-signatures.md`, and the art's own signature sound word.
+9. **Sample display.** A signature or a release gets a short sample for Isaac to approve before it is saved: the charge, the call at the volume this character would use, the hit, the awe, then the account (R82-24, R82-25). A small move goes straight to the card.
+10. **Overlap.** Compare against existing kits. If it overlaps or outclasses another, surface it to Isaac with a recommendation (keep both and mark the difference, merge, or cut); he decides.
+11. **File.** The entry goes to the character's card or the art's page through the wiki tools, research to `research_notes/`, and one line in chat. Canon on use once Isaac keeps it; an NPC's new move mid-fight is canon on use (R82-28). A move first shown in a scene is written back to the card at scene end (R82-1).
 
 ## Entry template
 
 ```
-### Technique: Name (native script · Romanization)
-Intro. What it is, in one developed paragraph.
-* **Part (native name):** what it does; the metaphysics and physics as one account; how it plays in a fight.
-* **Nature:** passive or active, scaling, bound to what, figures.
-* **Cost and Tell:** ...
-* **Counter and Failure:** ...
+### THE ART NAME (native script · Romanization) (Kind)
+One sentence a kid could repeat, with no system words.
+
+MOVE NAME! What it does and looks like in a fight, in a line.
+MOVE NAME! ...
+MOVE NAME! ...
+
+**How it really works.** The full account: the charge and what anyone watching sees coming; the draw; the look and what it does to the room; the real phenomenon named with its law and explained so a reader with no physics can follow, told as one story with the Wellspring's law and the glyph's boundary condition; how it rides a blow; for a signature or release, how it plays against a higher Stage; the named failure mode. Technical terms welcome and explained.
+
+**Cost.** One line.
+**Counter.** One line.
+
+**Numbers.** Exact figures only: EU per move, how long it lasts from full, AU/s, η.
 ```
 
+Individual moves may skip Cost and Counter. An old entry being rewritten keeps what archived scenes have shown and lists its old name as what people once called it (R82-46, R82-47). Other creators' cards stay untouched.
 
 ## Worked example (illustrative, not canon)
 
-### ROOTCUT (Verdantia) · Trait-art, Stage V, edge-borne
+### ROOTCUT (根切り · Nekiri) (Trait-art, Stage V)
+Whatever her shears cut grows roots.
 
-A pair of iron shears whose every cut seeds the wound with living roots. Its sound is a soft wet *shrrp* as the roots uncoil; it smells of cut stems and turned soil.
+ROOTCUT! The wound sprouts, and the sprouts keep going.
+STONE-SPLITTER SEED! One seed in a crack and the wall comes apart like frost got into it.
+VINE BRIDGE! One cut on a living tree, and a crossing by the time you've finished swearing.
 
-* **Rootcut: the seeding cut.** Where the blades open skin, hemp or bark, fine pale roots uncoil from the edge, hook into the cut tissue and grow, and within a few breaths a glass-fern shoot pushes out through the surface. The metaphysics and the physics are one account: Verdantia's law is growth that takes what it is given, and the glyph sets the boundary at the cut's lips, so the roots can only grow into what the edge has opened. Underneath, the roots draw water out of the wound by osmosis and push with turgor pressure, the same push that lets a sapling split a paving stone. In a fight it keeps a wound open so it cannot close, binds a cut tendon into a root-braid that tugs when the target moves, and roots cloth, rope or leather to a post by growing through it.
-* **Rootcut on stone and wood.** Seeded into a crack, the shoot splits a stone seam the way frost does, by pressure in a confined space; seeded into a living tree, one cut grows a vine-bridge across a gap in under a minute. In a fight it sprouts through cobbles to tangle an enemy's footing, and with Terranova beside it a root drives through stone.
-* **Nature.** Active, edge-borne, bound to the shears; scales with Vitality for how fast the roots grow and with Harmonics for how much wet matter the user can feed from.
-* **Cost and Tell.** Reserve by the length of the cut, about a tenth from full for a forearm-length slash; the shears must be worked clean of salt and brine, or the art sulks. The tell is the frond behind the user's ear curling toward the blade a breath before the cut.
-* **Counter.** Salt: brine or dry salt draws the water out of the roots by osmosis and kills them where they lie. Fire and a thorough cut-away also break it.
-* **Failure.** Left unchecked it overgrows its host, the Wellspring's named failure, etiolation: pale, starved, runaway growth that strangles what it roots in, the user included.
+**How it really works.** A soft wet *shrrp* and a smell of cut stems. Where the blades open skin, hemp or bark, fine pale roots uncoil from the edge, hook into the tissue and grow. Verdantia's law is growth that takes what it is given, and the glyph sets the boundary at the cut's lips, so the roots can only grow into what the edge has opened. In stone the shoot splits a seam by pressure in a confined space, the way ice does. It rides a blow: the cut hurts, and then the cut grows. Left unchecked it runs to etiolation, Verdantia's named failure: pale, starved, runaway growth that strangles what it roots in, the user included.
+
+**Cost.** Her own hair has started coming in green, and it wants watering.
+**Counter.** Salt draws the water out of the roots and kills them where they lie; fire and a thorough cut-away also break it.
+
+**Numbers.** Rootcut, about a tenth of reserve from full per forearm-length slash.

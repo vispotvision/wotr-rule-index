@@ -924,7 +924,7 @@ const SHEET_SECTIONS: [(&str, &str); 14] = [
 const CONVERSION_RULES: [&str; 5] = [
     "- Old stats map to the Tier Grade table by range; a Stage sets the stat ceiling; a Level sets the Band. If the source gives none of these, write 'Level/Stage/Band: null' and do not pick; say once near the top of the card that fields the sources do not establish are null.",
     "- Names: Moto register for the Moto bloodline and its lines (Kōkan, Byakuya, Kurenai, Tenrai, Shirogane, Akagane, Amagiri); five strata per the Inner World Naming Amendment; naming register is not ethnicity.",
-    "- Every technique: summary card + Design Chain + Codex line (glyphs, Wellspring, Family, Physics Domain, Category, Stage) + FOW line; Counter mandatory; name the real phenomenon (R13-3-PHENOMENON_MANDATE).",
+    "- One wild concept and an epithet; every art in the R82 shape: hook, named moves, How it really works, a Cost line, a Counter line, a Numbers block; old names listed. With it: Design Chain + Codex line (glyphs, Wellspring, Family, Physics Domain, Category, Stage) + FOW line; Counter mandatory; name the real phenomenon (R13-3-PHENOMENON_MANDATE).",
     "- Character first: what they refuse, what they survived, what they believe that costs them; then the phenomenon; then the Codex.",
     "- Anything you originate (a Wellspring assignment, a Trait, a fracture the source never mentioned) is marked 'originated, pending ratification' in the card and filed with propose_rule if it is a rule.",
 ];

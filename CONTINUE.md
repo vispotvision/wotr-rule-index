@@ -6,6 +6,12 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-04, late (abilities and the world; R82-1 to R82-47)
+
+Isaac said abilities and techniques no longer reflect the writing and asked for them to feel like One Piece, mythic at the top. A 52-answer questionnaire (`imports/drafts/ability-feel-questionnaire/`) became R82-1 to R82-47 (`rules/doc-directions-2026-11-04.yaml`; RULINGS.md, 2026-11-04). It is law now: `desktop/NATALIE.md` has ABILITIES AND THE WORLD, and the ability pipeline, card template, technique reference, `/ability`, `/fight` and the fight review carry it. Superseded: R81-16, R81-2, R76-4.
+
+**Next:** the pilot, drafted and not filed, at `~/wotr-drafts/r82-pilot/` (Muken, Raizan, Mark Stark and a test fight). Isaac reads it with a red pen; his changes go in as R82 amendments. Then the rest of Volume I, the 57 library pages and the wiki magic pages, in that order. Archived scenes are not edited and other creators' cards stay untouched. The cost and counter of Unlimited Works of Fate are Natalie's proposal until he keeps them.
+
 ## State on 2026-11-03, later (combat and magic fix; R81-1 to R81-19)
 
 Isaac asked to fix every confusion in the combat and magic law; an audit found 25

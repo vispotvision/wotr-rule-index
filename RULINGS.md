@@ -3701,3 +3701,9 @@ Context: Inner World redo. Overrides Natalie's recommendation of generated origi
 Isaac, 2026-11-05: "The South North and Central Continents all Get a turn in dealing with the wide spread monster population". The monsters of the Scourge of Hell are a shared, rotating burden: North, South and Center each take their turn dealing with them. AGENT RULING (Natalie, overturnable): each power's standing obligation against the Scourge is written as an old, resented arrangement that all three argue over, without inventing a treaty's terms beyond that.
 
 Context: Inner World redo. He called them continents here; whether North, Center and South are what Malakar's split makes into separate continents is put to him.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "Monsters move beast and animals liker beast are more wide spread well springs cores are mostly found in dungeons but are also said to be in vast territories but monsters are across all the continent its just that one area is extremely dangerous and is known for dangerous monsters". Monsters move and are found across the whole continent, and beasts and beast-like animals are more widespread still. Wellspring Cores are mostly found in dungeons and are also said to lie in vast territories. The Scourge of Hell is the one area known for extremely dangerous monsters, not the only place they live. AGENT RULING (Natalie, overturnable): a dungeon is what a Core makes around itself or what grows up around one, and a worked Core with keepers is a dungeon someone cleared and now holds.
+
+Context: Refines the same night's Scourge rulings and reads R83's "A Wellspring site is a Core in common speech; worked sites recharge". The magic pages' Core keepers stand under the agent reading.

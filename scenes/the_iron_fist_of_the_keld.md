@@ -227,4 +227,4 @@ He looked across the table, past the Moto, to the two Zettari, and waited.
   - **Naevra goes north with Kiyome.** *I wasn't there for you the last time it mattered.* Whether she also walks the villages with Dougou depends on what Kushara decides.
 - **Tense.** Past, to match the thread.
 
-**Revision 2026-10-24.** Gave the cedar hall its beauty (red-brown cedar, the clear stream, the white gravel and the cedars in pearl light, Kiyome's near-white against the wood) with only a charcoal brazier for warmth and no draw; trimmed the long-moment, nobody-spoke, still-water and need-not tics and one countdown in Naevra's speech. All beats and Isaac's lines are kept, and Dougou's and Shaka-Al's passages are untouched.
+**Revision 2026-10-24.** Gave the cedar hall its beauty (red-brown cedar, the clear stream, the white gravel and the cedars in pearl light, Kiyome's near-white against the wood) with only a charcoal brazier for warmth and no worked lamps; trimmed the long-moment, nobody-spoke, still-water and need-not tics and one countdown in Naevra's speech. All beats and Isaac's lines are kept, and Dougou's and Shaka-Al's passages are untouched.

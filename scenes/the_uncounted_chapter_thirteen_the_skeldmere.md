@@ -725,6 +725,6 @@ The scrap-iron sword, in his hand, began to ring.
 
 The prose check passes with no fails, and the "eleven" warning is cleared.
 
-**Revision 2026-10-24.** Added color before and after the lifting, which stays white (the fat-lamp yellow, rose and gold dawn behind the Grey Teeth with the iron fist black against it, frost on the Foot's gate, sun-gilded wind-ridges and jay-blue hollows on the Skeldmere, Thornhaven's red thorn-sprig banners, Kiyome's beads, Ashmore russet, aurora colors among Faisal's threads), one touch of draw at Ashbury's hall only, and trimmed the tics (did not need to, long moments, quite still) and four small antitheses; every beat and Isaac's lines are kept.
+**Revision 2026-10-24.** Added color before and after the lifting, which stays white (the fat-lamp yellow, rose and gold dawn behind the Grey Teeth with the iron fist black against it, frost on the Foot's gate, sun-gilded wind-ridges and jay-blue hollows on the Skeldmere, Thornhaven's red thorn-sprig banners, Kiyome's beads, Ashmore russet, aurora colors among Faisal's threads), one touch of worked lamps at Ashbury's hall only, and trimmed the tics (did not need to, long moments, quite still) and four small antitheses; every beat and Isaac's lines are kept.
 
 **Revision 2026-10-25.** Faisal is whole throughout: Malakar never divided him (ruling 2026-10-25). His broken wings, the seam and every "sixth" line now read as the whole Grand Angel kneeling under the cracked Lawbell's weight; every beat and line otherwise kept.

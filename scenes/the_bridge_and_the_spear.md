@@ -293,7 +293,7 @@ The Sin of Wrath came on with the spear.
 
 It stops on Muken's decision as the spear comes. He is alone now, so HIBIWARE would hurt no one but himself, and it is still forbidden.
 
-**Revised 2026-11-03 under R81** (Isaac's combat and magic fix): the Founding's draw, η as a share, Eidolyn's mechanism (templated growth, explained by frost on glass) and its cost written on the page; ABI's fold explained (a closed wall moving, the bellows, energy conserved); the spear's light explained by incandescence past violet, its inward light and screaming air by Ruins ending what enters the point, and its cost shown on Shōki's arm.
+**Revised 2026-11-03 under R81** (Isaac's combat and magic fix): the Founding's pull, η as a share, Eidolyn's mechanism (templated growth, explained by frost on glass) and its cost written on the page; ABI's fold explained (a closed wall moving, the bellows, energy conserved); the spear's light explained by incandescence past violet, its inward light and screaming air by Ruins ending what enters the point, and its cost shown on Shōki's arm.
 
 **Left out, and why.** Isaac's post has Dari pull Hiromi's face into her chest. Hiromi is eleven, so that beat is not written. She smothers him in all nine tails instead, and Cozbi's suffocation line stays.
 

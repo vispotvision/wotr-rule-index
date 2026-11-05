@@ -84,7 +84,7 @@ He did not know where it was. He knew it was coming.
 
 ---
 
-The Tenrai house at Kessen stood at the top of the ford town where the old road climbed out of the river valley, a long two-storey hall of red pine lacquered black, its eaves turned up at the corners and hung with brass draw-lamps on the Guild main, its gate painted the Tenrai gold. Since the spring the gold had been chipped off the gate's lower half by boys from the town who had heard about the Seat, and nobody in the house had dared to send anyone to paint it back. In the garden behind it the plum trees were in flower, a froth of white and deep pink against the black wood, and a stream ran down through raked gravel into a stone basin where three fat red carp moved slowly in the cold.
+The Tenrai house at Kessen stood at the top of the ford town where the old road climbed out of the river valley, a long two-storey hall of red pine lacquered black, its eaves turned up at the corners and hung with brass lamps on the Guild round, its gate painted the Tenrai gold. Since the spring the gold had been chipped off the gate's lower half by boys from the town who had heard about the Seat, and nobody in the house had dared to send anyone to paint it back. In the garden behind it the plum trees were in flower, a froth of white and deep pink against the black wood, and a stream ran down through raked gravel into a stone basin where three fat red carp moved slowly in the cold.
 
 The gate came off its hinges at the hour of the cock.
 

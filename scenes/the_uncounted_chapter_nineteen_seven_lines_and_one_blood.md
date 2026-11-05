@@ -22,7 +22,7 @@ He did it himself, on the first night, in the small room at the back of the hous
 
 He was still in the red harness. He had not taken it off since the gatehouse. Nobody had dared suggest it.
 
-The fire took. The small room filled slowly with warmth and the smell of pine and old dust burning. Somewhere outside, in the Hall square, Stark riders were singing round a brazier, low and rough and a little drunk, an old Kharven song about a woodpile. Somewhere further off, on the river, a horse was neighing. The draw-hum had come back at dusk, when Ilse Hallenfeld sent word to her draw-masters that the main could be mended, and it lay under everything again now, low and steady, under the rock and the ice and the walls, the way it had for three hundred years. Through the narrow window he could see the Seat come back to light: the worked lamps along the cliff stair and the terraces kindling again one by one in their brass cages, amber climbing the dark rock from the river to the crown like a slow tide coming in, until the whole fist of the Seat hung lit over the frozen Marrow again, and the aurora came out above it, green and violet, rippling. It was the most beautiful thing he had ever seen. He looked at it for a while and found he could not feel anything about it at all.
+The fire took. The small room filled slowly with warmth and the smell of pine and old dust burning. Somewhere outside, in the Hall square, Stark riders were singing round a brazier, low and rough and a little drunk, an old Kharven song about a woodpile. Somewhere further off, on the river, a horse was neighing. The hum had come back at dusk, when Ilse Hallenfeld sent word to her wardmasters that the keepers could go back to their work, and it lay under everything again now, low and steady, under the rock and the ice and the walls, the way it had for three hundred years. Through the narrow window he could see the Seat come back to light: the worked lamps along the cliff stair and the terraces kindling again one by one in their brass cages, amber climbing the dark rock from the river to the crown like a slow tide coming in, until the whole fist of the Seat hung lit over the frozen Marrow again, and the aurora came out above it, green and violet, rippling. It was the most beautiful thing he had ever seen. He looked at it for a while and found he could not feel anything about it at all.
 
 He sat in front of the fire and listened to all of it.
 
@@ -72,7 +72,7 @@ But some time before dawn, he fell asleep, sitting up, with his back against the
 
 The Hall of Verdicts was a long black room under a long black roof on the crown of the rock, and it had been built for one purpose, and it had served that purpose for a thousand years.
 
-The floor was black stone, polished, and it fell away from the doors toward the far end in three wide shallow steps, so that whoever stood at the back of the hall looked down on whoever stood at the front. The walls were black stone. The beams were black oak, so old they had gone hard as iron. There were no windows. The only light came from the lamps, a hundred of them, worked lamps on draw in cages of black iron hung from the beams on long chains, each one burning a clear steady gold that laid the polish of the floor with a hundred small suns, and from a single round opening in the roof directly over the place at the bottom of the hall where those who came to be judged were made to stand, so that they stood in a shaft of gray daylight and everyone else stood in the dark.
+The floor was black stone, polished, and it fell away from the doors toward the far end in three wide shallow steps, so that whoever stood at the back of the hall looked down on whoever stood at the front. The walls were black stone. The beams were black oak, so old they had gone hard as iron. There were no windows. The only light came from the lamps, a hundred of them, worked lamps in cages of black iron hung from the beams on long chains, each one burning a clear steady gold that laid the polish of the floor with a hundred small suns, and from a single round opening in the roof directly over the place at the bottom of the hall where those who came to be judged were made to stand, so that they stood in a shaft of gray daylight and everyone else stood in the dark.
 
 At the far end, on a low dais of black stone, there were seven chairs.
 
@@ -384,7 +384,7 @@ When it was done, he wiped the blade on a cloth Kiyome handed him, and looked at
 
 There was peace in the north.
 
-It came the way the thaw came, slowly, and then all at once. The draw-hum came back under the Seat and stayed there, and the Hallenfeld clerks went through the Tenrai treasury chest by chest and sent the grain-tallies back to the long houses they had been taken from, and the grain after them, up the Marrow on sledges and down Hayato's indigo roads on mules, with a Yukari witness at each end counting the sacks. The levies did not go south. Not that spring, nor the next. The Stark riders went home to Hollenmark, carrying Rob Stark with them on a sledge under a cairn of his own shields, and the Greymanes to Ridgewall and the Thornwall pikes to Thornhaven, and the Ashmore horse to Ashbury, and the Keld to their fires on the tundra with their warlord on a litter, and in every long house in the north that winter, when the wood went on the fire, someone told the story of the boy who came home from the ice.
+It came the way the thaw came, slowly, and then all at once. The hum came back under the Seat and stayed there, and the Hallenfeld clerks went through the Tenrai treasury chest by chest and sent the grain-tallies back to the long houses they had been taken from, and the grain after them, up the Marrow on sledges and down Hayato's indigo roads on mules, with a Yukari witness at each end counting the sacks. The levies did not go south. Not that spring, nor the next. The Stark riders went home to Hollenmark, carrying Rob Stark with them on a sledge under a cairn of his own shields, and the Greymanes to Ridgewall and the Thornwall pikes to Thornhaven, and the Ashmore horse to Ashbury, and the Keld to their fires on the tundra with their warlord on a litter, and in every long house in the north that winter, when the wood went on the fire, someone told the story of the boy who came home from the ice.
 
 The thaw, when it came, was green. Nobody alive had seen the north green. The moss came up first along the river in the lee of the rock, a soft brilliant green like spilled paint against the last gray ice, and then, on the south face of the Seat's cliff where the sun lay longest, small white flowers nobody could name, thousands of them, in the cracks of the stone. The old woman with no teeth, who had come down the Marrow behind the army on a sledge and refused to go home, sat on a bench in the Hall square in the sun and looked at them for a whole afternoon. *When the grass comes,* she said, to nobody, and laughed, a cracked old sound like a hinge, and wiped her eyes.
 
@@ -460,7 +460,7 @@ He did not know how long it would last.
 - **The seven Works** from *Hataraki: The Works of the Plane of Fate*: Hametsu no Gō (Ruins), Junketsu no Gō (Purity), Seirei no Gō (Spirit), Jikan no Shigoto (Temporality), Chishiki no Shigoto (Knowledge), Baransu no Shigoto (Balance), and Zentai-sei no Hataraki (Totality). Each has an Attraction face and an Obsession face. Totality's Obsession face is "total dominion, subsumation, enforced oneness." That's why Faisal withholds it, and why it mirrors Muken's own "seven lines into one blood."
 - **Shigoto no Kabe, the Work of Bearing Load** (Muken's card), here learned under the threads beside Faisal.
 - **Kamigan and the Kōkan's Totality** (Sodoku's card and the line emblems).
-- **The Draw Age** (Pack Eleven): Guild mains, brass and slate and seals, the draw-hum, "the silence when a district is cut off." Hallenfeld's gold buys that silence.
+- **The kept city** (Pack Eleven, under R83-9): Guild keepers, brass and slate and seals, the hum, "the silence when a district is cut off." Hallenfeld's gold buys that silence.
 - **The Keld's condition**, "stay worth following," is from Muken's card, where the Keld swore on exactly that.
 
 **Calls I made (agent rulings, open to overturn):**
@@ -485,7 +485,7 @@ He did not know how long it would last.
 - **The armor.** The **Samurai of Fate** (*Unmei no Samurai*) are the old Kōkan guard, Byakuya-sworn. Kasane was the last, and her own harness is still in the Shiraki hills. Muken's set is rebuilt overnight from captured Tenrai lamellar, lacquered near-black red and laced in white. The helmet has **no crest**, to match the blank banner. A tiny white Kōkan mark is painted over the heart. Tetsugen notes that Gimbzo wore only black.
 - **The council of the road:**
   - **Lady Hisae Thornwall** is the Lady from Chapter Thirteen, now named. Her house's hidden forest corridors and an ice-hidden stair lead to the Seat's eastern face, kept open two hundred years "because one day the Kōkan would come home and need a back door."
-  - **Ilse Hallenfeld**, mistress of the counting-house, has held the Seat's debt for eleven years. She buys the Guild draw-masters, who cut the Seat's main at the first bell, so every Tenrai ward dies at once.
+  - **Ilse Hallenfeld**, mistress of the counting-house, has held the Seat's debt for eleven years. She buys the Guild wardmasters, whose keepers walk off at the first bell, so every Tenrai ward dies at once.
   - **Edric Ashmore** holds the river postern.
 - **The Seat falls.** Hibi cracks only the lying ward-stone and the gatehouse's rotten mortar, and the sound wall stands. The Thornwall pikes come over the east wall and the Tenrai lords run onto the ice to Ashmore. The Haldorsson Keld fight to the last, and about forty survive. "Obliterated."
 - **Karogane** fights Muken on the cliff stair. His plain blade has "a dead flat note," used for one thing only, and Tsugigane's needle-note closes on it and it falls apart into the river. He kneels.
@@ -509,7 +509,7 @@ He did not know how long it would last.
 - **Borin is now owed.** His card has him later rebuilding Muken's soul after the corridor, so this is the first thread to that.
 
 **Rules that most shaped this:**
-- R74-26: long build, one hard shock (the silence of the draw).
+- R74-26: long build, one hard shock (the silence of the wards).
 - R71-30: planted signs paid off (the Thornwood corridors, the ward-stone, the needles, the dead blade).
 - R70-76: the world's magic told as law through a knowing voice.
 - R72-25: tells (Kagenori's grief-thread, Shiro's son counting).

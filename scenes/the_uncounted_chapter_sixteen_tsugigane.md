@@ -196,7 +196,7 @@ The fire ticked in the hearth.
 
 "I must find myself," said Muken. "First. Before anything. I've been cutting at nothing in the snow for two days and the world's been cracking under my feet, and I don't yet know how to stop it. I have to learn. And I have to heal." He touched his strapped side, once, very lightly. "I can't take the Seat with two ribs stove in and an arm that won't close. Before the battle, I have to be whole." He was quiet a moment. "Or as whole as I'm going to be."
 
-"Sire," said Godfrey quietly. "The Seat's three days' march. The Tenrai have the Hall and the cliff and the conduits, and whatever's left of the Keld. They'll have had a week to wall themselves in by the time we reach them. And they'll know we're coming. They sent her down the river to make sure of it." He did not look away. "Forgive me. But how can you know we'll win?"
+"Sire," said Godfrey quietly. "The Seat's three days' march. The Tenrai have the Hall and the cliff and the wards, and whatever's left of the Keld. They'll have had a week to wall themselves in by the time we reach them. And they'll know we're coming. They sent her down the river to make sure of it." He did not look away. "Forgive me. But how can you know we'll win?"
 
 Muken held his eyes.
 

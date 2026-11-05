@@ -3683,3 +3683,9 @@ Context: Inner World redo.
 Isaac, 2026-11-05: "I want a lot of central places to be non-human cause I think that'd be good to build them". AGENT RULING (Natalie, overturnable): the four Central Warlords are the Verdant Orcs, the Serpentkin, the Avian Kin and the Beastkin runaways, all peoples already on file, with their realms in imports/drafts/inner-world-redo/KINGDOMS.md. Elves stay out of the center by his word, as he uses them heavily in the New World. The Fox-Spirit lineage is left off the Russet Crown because Yoko Mishiro's people need her card's reading first.
 
 Context: Inner World redo. Replaces Natalie's first draft of the Central Warlords, which had two human houses.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "Scourge of Hell Inner World's Monster Terrtiroy". The Scourge of Hell, already on file from older scenes as Hell's Scourge, is the Inner World's monster territory and joins the map, with no ruler. His chosen art shows a colossal sword driven into the mountains, its blade a window onto a starfield. AGENT RULING (Natalie, overturnable): the sword is an old work of the Great Spirit War, and who drove it in is an open argument among scholars.
+
+Context: Inner World redo. Imports/drafts/inner-world-redo/KINGDOMS.md carries the entry. Scenes that use the Scourge include lore/v1/scenes/The_Path_of_Sorrow.md.

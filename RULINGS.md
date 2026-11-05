@@ -3623,3 +3623,9 @@ Context: Said about the rewritten magic pages. Whether it also retires sound wor
 AGENT RULING (Natalie, wiki rewrite, overturnable). R45-4 and R45-5 are read for bolts and arrows under R83-5, as R45-1, R45-2 and R46-4 already are. The wiki drops the word "round", and these are the rows' original sentences, kept here so the rows still trace: "An enhanced round is dodged at its actual velocity, not at its shooter's Grade." and "An enhanced round or arrow is paid for per shot and consumed when fired,". On the wiki they now say bolt. The law is unchanged: an enhanced bolt is dodged at its actual velocity, and it is paid for per shot and consumed when loosed.
 
 Context: Second section of the R83-13 rewrite: Shot and the Enhanced Weapon. Without this, rewording that page would break the validation gate, which requires a row's quote to stand in RULINGS.md or the wiki.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "documents only, keep sound words in scenes". The no-onomatopoeia rule covers wiki and reference documents. In scenes, fights and roleplay turns the Onomatopoeia law in NATALIE.md and R81-10 stand unchanged, and so do the sound lexicon, the Wellspring signatures and the prose samples. AGENT RULING (Natalie, overturnable): a card or technique entry may still record an art's signature sound word as a plain data line, because scenes need it, and its prose otherwise carries none.
+
+Context: Settles the question left open in the earlier ruling the same night.

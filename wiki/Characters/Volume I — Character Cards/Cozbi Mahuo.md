@@ -1,4 +1,10 @@
 ---
+title: "Cozbi Mahuo"
+private: true
+---
+# Cozbi Mahuo
+
+---
 title: Cozbi Mahuo
 tags:
   - mahuo
@@ -200,6 +206,8 @@ He is patient as something that decided time is not a resource it needs to conse
 
 ## Ties
 
+- **Saeju Mahuo** (새주) · his sister and the rightful heir of the Vermilion Dynasty. A roof came down on her in the war, one night before he reached her. He speaks of her in the present tense.
+- **Hiromi** · her son, eleven, in Cozbi's keeping for three years. By blood the boy carries her claim.
 - **Naiser Yukari** · offered the crown; refused.
 - **Ryu Ha-eun** · stopped forwarding the Mahuo revenue. Cozbi "has never asked." He is about to.
 - **Malphas** · wrote the book on the persistent dead. Cozbi reads him as a thief working Cozbi's estate.

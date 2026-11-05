@@ -3797,3 +3797,9 @@ Context: The rule in question: "A Draft can supply the quantitative floor and it
 Isaac, 2026-11-05: "yes Blessings can be taken-back or removed by people who have Hataraki it's one of the reasons its so dangerous and Fate Arts in general considered incredibly overpowered." Blessings can be taken back or removed by people who have Hataraki. That is one reason Hataraki is so dangerous, and Fate Arts in general are considered incredibly overpowered.
 
 Context: Answers Natalie's question on withdrawing a blessing. Bears on the Hataraki pages and the blessings material.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: chose option 3, drop the rule entirely. Drafts and blessings can supply a Catalyst and simply work, with the price paid in money and rarity. "A Draft can supply the quantitative floor... No Draft has ever supplied a Catalyst" is retired as law on The Ladder and the Draft, The Trait System, The Sixteen Stages, The Common Drafts, How Magic Works, X. The Tier Ladders and A Reader's Codex, and the row in rules/doc-directions-2026-10-14.yaml is superseded. He has opened a wider questionnaire on the magic system.
+
+Context: Reverses a sentence the Ladder page calls load-bearing. What keeps Stages earned now is the first thing the questionnaire asks.

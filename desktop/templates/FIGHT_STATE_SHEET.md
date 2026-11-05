@@ -30,7 +30,7 @@ Rules: no more than one movement at peak volume; the slowed zoom is spent on the
 
 ## 4b. Workings (one row each, Isaac 2026-11-03)
 
-| Working | Charge (body, what can be seen coming) | Draw (Wellspring, Family, η, waste heat) | Aura and the room (air, light, ground) | Senses (sound word, smell, touch) | Mechanism (the physics and the metaphysics, step by step) | Counter in play, and what it does physically |
+| Working | Charge (body, what can be seen coming) | Pull (Wellspring, kind, η, waste heat) | Aura and the room (air, light, ground) | Senses (sound word, smell, touch) | Mechanism (the physics and the metaphysics, step by step) | Counter in play, and what it does physically |
 |---|---|---|---|---|---|---|
 
 Every working used in the fight gets a row before drafting; two workings of one fighter must differ in name, mechanism and signature, and the climax may use only a rule planted earlier in the scene.

@@ -129,7 +129,7 @@ pipeline in `references/scene-pipeline.md`.
 1. **Load** as for a turn: brief rulebook once a session, the domain tags in
    full on first use, `scene_context`, kits and FOW lines, the Codex for
    anything worked (`wiki/The Magic System/`: The Master Glyph Index, The
-   Eight Families & the Sixty Wellsprings, The Magical Categories, The Lexicon
+   The Sixty Wellsprings, Forms, The Lexicon
    of Magic; `wiki/The Disciplines/Techniques/` for precedent), the culture's
    Standing Inventory as reference, research of what is new (`lookup` and `research`, `desktop/NATALIE.md`, Outside resources).
 2. **Pre-write.** `scene_brief(beat)`, filled: POV and what he knows and

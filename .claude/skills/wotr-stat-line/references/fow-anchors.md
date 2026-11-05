@@ -28,9 +28,13 @@ Expert 0.50 to 0.60, Master 0.70 to 0.80, Grandmaster 0.85 to 0.90, Archmaster
 Open ruling: Class I Muridic's loss figure contradicts the Initiate to Adept
 eta; both stand.
 
-Aether Class: a named class the soul is offered at thresholds, fitting how the
-person has lived; it gives abilities, shapes growth and evolves at each tier
-(R84-10). The ladder is its tier: Ø Dormant; I Muridic (~30 to 40% loss); II
+Class: a named class the soul is offered at thresholds, fitting how the person
+has lived; it gives abilities, shapes growth and evolves when the lead ladder
+rises (R84-10). Three ladders set η by layer (R85-26). Essence Class: Ø Silent,
+I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω
+Absolute. Thread Class: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV
+Knotwright, V Weaver, VI Severer, Ω Absolute, with η two rungs below the same
+numeral. Aether Class, the physical influence: Ø Dormant; I Muridic (~30 to 40% loss); II
 Harmonic (~15 to 25%); III Resonant (~5 to 10%); IV Luminous (lateral); V Radiant
 (can exceed 100%); VI Voidic (lateral, Limina); Ω Absolute. Anyone at Stage VIII
 can have a Domain, whatever the tier (R84-17).

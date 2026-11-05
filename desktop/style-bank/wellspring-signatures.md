@@ -1,16 +1,16 @@
 # Wellspring sensory signatures
 
-Isaac's direction, 2026-10-30 (technique-description questionnaire): every working carries its Wellspring's signature, so a reader learns to know the source on sight, sound and smell. The Family hue and the way each Family reads on the page are canon in `wiki/The Magic System/The Soul and the Climb/The Color of Essence.md` (Parts Two and Five); the analogue, mechanism and failure of each Wellspring are canon in the Family pages under `wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/`. This file adds the five-sense layer by deriving it from each Wellspring's physical analogue. The layer is Claude's draft and becomes canon on use (R79-11); Isaac may strike any entry.
+Isaac's direction, 2026-10-30 (technique-description questionnaire): every working carries its Wellspring's signature, so a reader learns to know the source on sight, sound and smell. Each Wellspring's hue and the way it reads on the page are canon in `wiki/The Magic System/The Soul and the Climb/The Color of Essence.md` (Parts Two and Five); the analogue, mechanism and failure of each Wellspring are canon on the kind pages under `wiki/The Magic System/The Foundations/The Sixty Wellsprings/`. This file adds the five-sense layer by deriving it from each Wellspring's physical analogue. The layer is Claude's draft and becomes canon on use (R79-11); Isaac may strike any entry.
 
 ## How to use it
 
 - A working from a Wellspring shows its **hue, sound, smell or taste, touch** and its **tell** (the visible charge). The user's body feels the **user's line**. Small workings may show two channels; a signature move or a high-Stage working shows all five (Isaac's call: scale to the technique).
-- Hue sits inside the Family hue. **Stage sets the clarity** (the hue shows from the first Stage, clouded and smoky at Murmuring, clearing as the Stage rises toward near-white at Zenith, R85-10); **the person sets the timing and the manner** (a showman loud, a veteran quiet), never the signature.
+- Each Wellspring has its own hue, on its entry. **Stage sets the clarity** (the hue shows from the first Stage, clouded and smoky at Murmuring, clearing as the Stage rises toward near-white at Zenith, R85-10); **the person sets the timing and the manner** (a showman loud, a veteran quiet), never the signature.
 - The tell comes before the effect and is always visible (Isaac's direction): the opponent and the reader can read the charge.
 - Describe the physics first and the color with it. A reader who knows the Wellspring should be able to name it from the sound and smell alone.
-- Cross-Family workings carry both signatures, the dominant one first.
+- A working on two Wellsprings carries both signatures, the dominant one first.
 
-## Caloria (thermodynamics): ember-orange. Thermal first, luminous second; the hue should not make the observer feel warmer
+## Fire and heat: ember-orange. Thermal first, luminous second; the hue should not make the observer feel warmer
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 |---|---|---|---|---|---|---|
 | Vohrin | ember-orange banked down nearly to brown, under a skin of rime | a long creak of settling ice, then the room's sound falling away | scrubbed air, then nothing | heat leaving the skin toward the working | lungs ache, fingers go first, small purposes slip | frost running out from the feet; breath stopping in the air |
 
-## Fluxia (fluid dynamics): deep teal. Perceived as wet even when dry; ears pop
+## Water and feeling: deep teal. Perceived as wet even when dry; ears pop
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Thaloré | the deepest teal, nearly black | a timber groan, the thud of depth | cold brine | crushing pressure, ears popping | weight in the chest | air thickening, light dimming toward blue |
 | Oblation | the warmest teal, amber at the edge | rush and whistle through a narrowing | hot steam and lamp-oil | a suction at the sleeves | pulled forward | water or air hanging in a drawn thread |
 
-## Fulguria (electromagnetism): arc-blue, metallic, flickering
+## Light and lightning: arc-blue, metallic, flickering
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -51,7 +51,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Luminalis | near-white with ultraviolet edges | a whine at the edge of hearing | clean laundry, ozone | light warmth | sees through surfaces | shadows split in two |
 | Abyntheus | deep naval blue, slow-pulsing | an infrasonic throb felt in the chest | cold iron | slow tidal pressure | senses what is distant | a slow rhythmic pulse in the air |
 
-## Limina (entropy, void, mind): black-violet. Reads as the absence of the color that should be there; the observer perceives the theft before the thief
+## Ending and the dark: black-violet. Reads as the absence of the color that should be there; the observer perceives the theft before the thief
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -69,7 +69,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Nihiloth | absolute dark | a zone where sound fails | nothing | no pressure, an emptiness | hollow | a sphere where everything stops |
 | Vantabriel | near-black with a retained faint glow | a subdued low drone | night air, wet leaves | a soaking-in | heavy | nearby lights dimming |
 
-## Materia (material science): ochre to amber. Grit, mineral dust, wet stone; leaves residue
+## Stone and substance: ochre to amber. Grit, mineral dust, wet stone; leaves residue
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -83,7 +83,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Chthonica | dark iron-oxide | a dry rasp, a grip squeak | dry earth, rust | tacky, clinging | roots in the feet | grit drawn to the palms |
 | Tarturon | hot amber-red | a hiss, then a pop | iron scale and scorched salts | heat that needs no air | strain | sparks inside metal |
 
-## Spatium (spatial geometry): deep violet toward ultraviolet. The visual refuses to resolve; use the eye's confusion as the description
+## Distance and absence: deep violet toward ultraviolet. The visual refuses to resolve; use the eye's confusion as the description
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -91,7 +91,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Transference | median violet | two bells ringing in sympathy | warm | a pull along a gradient | drained or filled | glow passing between two bodies |
 | Eclipseron | red-violet with a dark disc | the hush of a held breath | cold | a cooling shadow | dim | a dark disc crossing the light |
 
-## Vectoria (mechanics): iron-gray to dark blued steel. Weight; light falls toward the practitioner; describe what it does to other things first
+## Load and motion: iron-gray to dark blued steel. Weight; light falls toward the practitioner; describe what it does to other things first
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
@@ -104,7 +104,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Absolution | polished steel | the clean note of a release | fresh metal | tension unwinding | relief | stress lines fading |
 | Penance | dull iron, darkening | a hammer's ring | forge, hot iron | bruising and hardening | tougher with each pain | dark scoring across the skin |
 
-## Vitalia (biochemistry): arterial red; copper and warmth. Write the observer's involuntary response as part of the visual
+## Growth and blood: arterial red; copper and warmth. Write the observer's involuntary response as part of the visual
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|

@@ -28,9 +28,9 @@ owner: <creator, if not an NPC>
 **<NAME>** · <title> · <race and lineage> · <culture> · as of <moment>
 **Epithet** · <the title that travels ahead of them; the world uses it, and it may be wrong> (R82-8)
 **Concept** · <one sentence a kid could repeat, no system words> (R82-11, R82-13)
-**Stat line** · Level <n> · Band <I–V, name> · Stage <numeral, Fracture of Worlds name> · Path <Path> · η <value> · Aether Class <named class>, tier <ladder tier> · Crystal <Tier>, <State>
+**Stat line** · Level <n> · Band <I–V, name> · Stage <numeral, Fracture of Worlds name> · Path <each Path with its Path Stage, e.g. Body VII Mastered · Fate VI Walked 35% · Spirit Studied 10%> · η <value, on the lead ladder> · Class <named class> · Aether <rung> · Essence <rung> · Thread <rung> · Crystal <Tier>, <State>
 **Combat grammar** · <Verdict | Blade | Percussion | Expenditure> (R71-69)
-**Aura and sound** · color: <Family hue at Stage clarity, e.g. ember-orange, dual-toned> · texture: <from the Wellspring> · shape: <from a class or big Trait, if any> · signature sound: <…> · feel: <smell, temperature, pressure, and what the room does when it rises> (R78-6, R78-10, R84-21)
+**Aura and sound** · color: <the hue of the Wellspring tempered on longest, at Stage clarity, e.g. ember-orange, dual-toned> · texture: <from the Wellspring> · shape: <from a class or big Trait, if any> · signature sound: <…> · feel: <smell, temperature, pressure, and what the room does when it rises> (R78-6, R78-10, R84-21)
 **How he moves** · <stance and guard, footwork, favored strikes and their path, how the body carries weight, what it does hurt; plain and technical terms both> (Isaac, 2026-11-03)
 **Stack** · sustainable <Grade> · cap +2 Grades · layers: <releases, vows, Drafts, tags in play> (R78-10)
 **Releases** · <NAME> (First Release) / <NAME> (Second Release) / … · bonded weapon: <…, or none> (R78-10)
@@ -50,7 +50,7 @@ owner: <creator, if not an NPC>
 **Alias / Title** · <…>
 **Also Known As** · <every name other cultures use>
 **Comic Name** · <byname> · coined by <who>, <when> · bank / sound rule <…> · given name under it <…> (R75-36; delete the line if none)
-**Race / Lineage** · <…> · shapes: <base stats and what comes easily> (R84-9)
+**Race / Lineage** · <…> · shapes: <base stats and what comes easily> (R84-9) · a bloodline gives: <eye, grip, stat lean, lens affinities, and never a Path; an Epoch line adds its instrument> (R85-33, R85-34)
 **Age** · <…>
 **Realm / Faction** · <…>
 **School and sect rank** · <school or house> · <outer disciple · inner disciple · core disciple · elder, or a guild title, Initiate through Paragon, with its trade> (R78-10)
@@ -64,14 +64,24 @@ owner: <creator, if not an NPC>
 **Level** · <n>
 **Band** · <I–V by name>
 **Temperance Stage** · <numeral, name>
-**Path** · <Path>
+**Path** · <form: Body VII Mastered · Fate VI Walked 35% · Spirit Studied 10%; then which one is behind and where it shows> (R85-16, R85-34)
+<!-- Path Stage is the highest Stage whose gates that Path has opened, re-read at each Threshold. Mastered: Path Stage equals the soul's Stage, written with no share.
+     Walked: a Stage behind, with the share of practice, 30 percent or more. Studied: under 30 percent, opens no gates, carries no Path Stage. -->
+<!-- A bloodline never sets these. A Moto does not get the Fate Path's Range and Aura Pressure unless they walk it (R85-34). -->
 **Guild title** · <Initiate through Paragon, with guild and trade; it grades trust in that trade, and only a fighting guild reads it off the Stage table; delete if none>
 **η** · <value>
 **Soul Crystal Tier** · <Dormant · Awakened · Harmonic · Resonant · Radiant · Sovereign · Crystallized Soul · Absolute Crystal>
 **Crystal State** · <state; Crystallized is a Tier, never a State>
 **Class** · <the named class the soul was offered at a threshold> · gives: <its abilities> · shapes: <growth> · evolved from: <earlier class, by how it was lived> (R84-10; the one wild concept stays the person's own)
-**Aether Class** · <Ø · I Muridic · II Harmonic · III Resonant · IV Luminous · V Radiant · VI Voidic · Ω Absolute> (the Class's tier; sets η, R78-10)
-**Essence Typology** · <Caloria · Fulguria · Vectoria · Spatium · Materia · Vitalia · Fluxia · Limina>
+**Aether Class** · <Ø · I Muridic · II Harmonic · III Resonant · IV Luminous · V Radiant · VI Voidic · Ω Absolute> (influence on the physical world; sets η through the Shell, R85-26)
+**Essence Class** · <Ø · I Listener · II Answerer · III Confessor · IV Shepherd · V Ferryman · VI Hollow · Ω Absolute> (influence on spiritual reality; sets η through the Core; Ø is Silent, R85-26)
+**Thread Class** · <Ø · I Touched · II Drawn · III Spinner · IV Knotwright · V Weaver · VI Severer · Ω Absolute> (how much of Fate they can pull down; η two rungs lower; Ø is Unthreaded, R85-26)
+**Fate Art** · <Work or other inherited Fate Art> · grip: <blood or blessing, and the decades behind it> · Thread <rung> (a Moto holding a Work, R85-34; delete if none)
+<!-- Reading the rungs (R85-33). Stage sets each ladder's ceiling and practice moves the rung, so a bought Stage opens the ceiling and not the rung.
+     A Walked second Path's ladder runs a rung behind until mastered. A Studied ladder runs two rungs behind the lead, capped at II, and at I for Thread.
+     Thread has no Stage climb: it moves only by a grip (blood, blessing) plus decades. A sworn hitter who keeps vows is Thread I or II at most,
+     and a Walked percentage moves nothing. Yukari: Ketsumyōgan perceive types run on the Core at Essence Class, edit types are pulls at Thread Class;
+     Null-Light climbs on Essence Class, one Regard normal and two rare. -->
 **XP** · <held> / <to next Level> (R75-41; tallied for Isaac's characters and full cards, R75-39; delete if not tallied)
 **Blessings and curses** · <giver> · <the line as the giver wrote it> · <what it really does, where the line lies> (R84-13; one line each; delete if none)
 
@@ -177,15 +187,16 @@ owner: <creator, if not an NPC>
      forms, Readiness, evolutions and What nobody knows are filled from what play showed (R75-2, R79-9).
      Mastery marks: Held → Drilled → Mastered, set when play reaches them, each crossing with a shown cause
      (R75-11, R79-9). A mark is the card's own note and never reaches a window: techniques show no level
-     and take a bigger name when they jump (R84-7), the old name staying in use (R82-29). -->
+     and take a bigger name when they jump (R84-7), the old name staying in use (R82-29).
+     Source is where this person got the art: Lived, Taught, Inherited, Bought or Blessed (R85-33). -->
 
-**<NAME> · <gloss> (Signature Technique)** · mark: <Held | Drilled | Mastered> · page: <link>
+**<NAME> · <gloss> (Signature Technique)** · mark: <Held | Drilled | Mastered> · Source: <Lived | Taught | Inherited | Bought | Blessed> · page: <link>
 <One paragraph: mechanism, figures, drain as time from a full reserve (R78-10), limit, tell, counter.>
 
-**<NAME> · <gloss> (School Art, <school>)** · mark: <…> · page: <school page>
+**<NAME> · <gloss> (School Art, <school>)** · mark: <…> · Source: <…> · page: <school page>
 <One paragraph.>
 
-**<NAME> · <gloss> (Bloodline Faculty)** · mark: <…>
+**<NAME> · <gloss> (Bloodline Faculty)** · mark: <…> · Source: <…>
 <One paragraph.>
 
 **<NAME> · <gloss> (Synergia, with <partner>)** · page: <shared page> <!-- R75-20: both partners, the drill, the cost split, the counter; no vow binds it -->

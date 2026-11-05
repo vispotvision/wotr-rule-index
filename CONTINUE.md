@@ -6,6 +6,22 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-05 (the flow fix, R85-31 to R85-35)
+
+Isaac asked for the whole magic system to flow from the new ideas. Five read-only reviews and the plan are in `imports/drafts/connections-audit/` (PLAN.md, FLOW_LAW.md, which governs, and answers.json); his answers are R85-31 and R85-33, and the agent rulings are R85-34. Done across the wiki: the metaphysics chain and `From Omnara to a Blow`; Families removed and the Sixty sorted by kind under `The Sixty Wellsprings/`; ladders, Path Stage and Release by Path; glyphs by layer; Forms replacing Categories and Methods; Derivation of Practice retired (old pages kept in `retired/`); bloodlines as eye, grip, stat lean and lens affinities; Null-Light as Ashura's instrument; creatures, Drafts, peoples and gear. Zettari and Valorin are in from his documents (`imports/drafts/lineages-2026-11-05/`). Links, plates and the card pass were running when this was written; check their reports. Owed after this, as one bundle he will call for: rebuild ability creation, character creation and the skills.
+
+## State on 2026-11-05 (three Paths, three layers, no Typology; R85-14 to R85-17)
+
+This overrides the open item in the block below. Isaac retired Essence Typology and made Paths and Wellsprings the main thing (R85-14). Agent rulings: three Paths tied to Shell, Core and Attraction Layer, Attraction folded into Fate, what Essence is (R85-15); the balance of one, two and three Paths (R85-16); qualifiers, the lens and a new sort of 33 Wild, 15 Spirit, 6 Fate, 6 Medium (R85-17, superseding R85-13). Rules, NATALIE.md, the card template and C-176 are done. On his word the wiki rewrite ran the same day (`imports/drafts/paths-rewrite/`, DESIGN.md and BRIEF.md): about 130 pages, all sixty entries with a Kind line and On the Body, On the Spirit and On Fate lines, The Three Paths page, Fracture VII renamed, 25 cards converted, and the Workshop app down to three Paths with no Typology field (restarted).
+
+Open: seven cards pass gates on a Path now only Studied (C-177); Magical Categories keeps "Attraction-Aligned" tags, explained there as Fate's home ground; `imports/drafts/wiki-rewrite/` staged copies were not touched; Fracture of Worlds Part Eighteen is unedited at its source; archived scenes stay as written, so older scenes show Attraction as a Path and Typology-era wording.
+
+## State on 2026-11-05 (wild and spiritual Wellsprings, R85-12; Typologies open)
+
+R85-12 is Isaac's direction: Wild Wellsprings are physical phenomena and alchemical transformations a practitioner shapes their Essence around; spiritual Wellsprings are purely spiritual. R85-13 is the agent ruling that sorts the Sixty: 37 Wild, 19 spiritual, 4 Medium (`rules/doc-directions-2026-11-05-wellspring-kinds.yaml`, C-175). Law is in NATALIE.md; the hub, the Family pages (a Kind line per entry), A Reader's Codex and On Walking Into the Current are changed. Not checked: archived scenes and cards where a spiritual Wellspring does something physical.
+
+Open: Isaac asked whether to rewrite Essence Typologies with a nature on each Path or remove them. Natalie recommended the rewrite and has not started it; the wording of "all 3 paths" is read as Body, Spirit and Attraction. Fracture of Worlds Part Eighteen is the source and lives outside the repo.
+
 ## State on 2026-11-05 (real calendar, R85-2; magic system audit)
 
 R85-2: the world uses the real calendar, and only the year counts stay its own. `rules/doc-directions-2026-11-05-calendar.yaml` supersedes R51-08; the Rust date code, `verify_scene`, the bot's `/date`, NATALIE.md and The Sky, the Hour and the Year are changed, and the bot and public MCP are restarted on the new build. The Rust edits and rule files are uncommitted. One survivor to fix: "red-leaf month".

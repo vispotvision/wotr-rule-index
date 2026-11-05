@@ -1927,3 +1927,57 @@ the author notes."
 **Consequence if unresolved:** A low-Stage aura has no settled color.
 **Recommendation:** none.
 **Status:** agent ruling 2026-11-05 (R85-10).
+
+## C-175: The encounter axis against wild and spiritual Wellsprings
+
+**Rules:** R11-4-DIRECTION_AXIS vs R85-12-WILD_AND_SPIRITUAL
+**The clash:** The old axis files fire as Spirit because the Crystal authors it, while Isaac's direction makes fire and every other physical phenomenon Wild and Spirit purely spiritual. Medium is not mentioned in his direction, and the two Family-level tables gave no per-Wellspring sort.
+**Quotes:** Hub, before the change: "The fire was not there until the Aether made it." Isaac: "SPIRITUAL wellsprings are PURELY spiritual".
+**Consequence if unresolved:** Sixty entries carry no settled kind, and a spiritual Wellspring could throw fire.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-13). Medium stands for four Wellsprings until he says otherwise.
+
+## C-176: Essence Typology and the fourth Path against Isaac's direction
+
+**Rules:** Fracture of Worlds Part Eighteen, R42-7-FOUR_PATHS and R84-11 vs R85-14-PATHS_AND_WELLSPRINGS
+**The clash:** Fracture makes Typology the source of compatibility, Trait formation and class trajectory, and the rule index has four Paths with Attraction apart from Fate. Isaac retires Typology and names three Paths.
+**Quotes:** Fracture: "Essence Typology is a Soul Crystal's natural bias toward one of the eight Families". R42-7: "There are four Paths: Body, Spirit, Attraction and Fate." Isaac: "get rid of Essence Typologies"; "attraction layer = fate itself".
+**Consequence if unresolved:** Canon source, law and wiki disagree on what a soul is built from.
+**Recommendation:** none.
+**Status:** ruled by Isaac's direction 2026-11-05 (R85-14), built out by agent rulings R85-15 to R85-17. Fracture's text is not edited; the wiki rewrite is owed.
+
+## C-177: Card stats past a gate on a Path now only Studied
+
+**Rules:** R85-16-PATH_BALANCE vs the character cards
+**The clash:** Under the 30 percent Walked line, these cards hold Sub-Stats past a gate on a Path that now counts as Studied, and study opens no gates. Hayato, Body: Constitution, Penetration, Celerity, Economy, Yield. Kiyome, Body: Constitution, Penetration, Celerity, Economy. Raizan, Body: Penetration, Celerity, Economy. Naiser, Fate: Attunement, Oath, Pressure, Sovereignty. Tetsugen, Fate: Attunement, Empathy. Kasane, Spirit: Alacrity, Acuity, Retention, Ward. Gimbzo, Spirit at 0: Alacrity 180, which predates this. Cozbi's card also says he works all three planes at the highest tier with Body Studied.
+**Quotes:** R85-16: "Anyone may study any Path, which gives knowledge and small uses and opens no gates."
+**Consequence if unresolved:** A card's figures and its Path line disagree.
+**Recommendation:** none.
+**Status:** open. Figures untouched; R79-10 lets a card's outlier stand until this is settled.
+
+## C-178: The Valorin document against what was on file
+
+**Rules:** R85-29 vs the wiki and archived scenes
+**The clash:** His document calls Vaeloris a hidden village, and the wiki and the Alftian Codex call it the Carver's Seat, a kingdom's standards office that has fallen. It dates the Valorin to the earliest generations after Malakar's division of the worlds, while R83-3 has Malakar split the continents at the end of Arc One. And the Valorin doctrine of teaching sits beside Kujo Valorin, named on Scission for forbidden mass severance, whom the new page does not mention.
+**Quotes:** Document: "a hidden village of libraries". The Gate: "Vaeloris, the Carver's Seat of the Silver Cedars".
+**Consequence if unresolved:** The Valorin's date and home read two ways.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 on the first point (the Seat is the front of the house, the village behind it). The Malakar date and Kujo are open and left as written.
+
+## C-179: Rendering practitioners on a battlefield
+
+**Rules:** The Crossing vs R84-15 and Monster Cores
+**The clash:** One page calls battlefield rendering of the dead legal and the largest source of Class IV material, and the other calls a Crystal cut from a dead practitioner the worst crime in every realm, sourced from battlefields after dark.
+**Quotes:** The Crossing: "This is the largest single source of Class IV material in the four quarters and it is legal". Monster Cores: "It is the worst crime in every realm, and the most profitable".
+**Consequence if unresolved:** Whether a battlefield renderer is a licensed trade or a criminal has two answers.
+**Recommendation:** none.
+**Status:** open for Isaac.
+
+## C-180: Whether Luminous is lateral
+
+**Rules:** R85-26 and NATALIE vs Fracture of Worlds Part Seventeen
+**The clash:** Law says VI on each ladder is the lateral rung, and the ladder table treats IV as the step before V. Fracture and older pages call Luminous (IV) lateral as well. The redrawn plate puts IV in line.
+**Quotes:** Fracture: "Luminous (IV) and Voidic (VI) stay lateral". R85-26: "VI on each ladder is lateral".
+**Consequence if unresolved:** Whether a Shell must pass through Luminous to reach Radiant.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 under the canon hierarchy, the newer rule governing: IV is in line. Isaac may overturn.

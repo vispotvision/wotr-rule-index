@@ -10,7 +10,7 @@ Run `desktop/CHARACTER_PIPELINE.md`. The law is `desktop/NATALIE.md` (Pipelines,
 1. Receive the art or the sketch; ask only where the image lives, per image.
 2. Read the art: the full physical inventory, every piece of armor, clothing and weaponry (material, color, cut, fit, wear; R85-1), apparent age, culture and place, mood and voice, power and aura hints. Invent nothing the image does not show; leave the rest null and log it.
 3. Character first: what they refuse, survived and believe; the want, the refusal line, a lie, a verbal fingerprint under the culture's grammar.
-4. Derive the numbers from the concept (race and lineage, Level, Band, Stage, Path, Grades, the named class and its Aether Class tier, Trait levels, skills by Grade, any blessing, harmonizations) from the Fracture of Worlds tables, and say plainly what was derived.
+4. Derive the numbers from the concept (race and lineage, Level, Band, Stage, Path, Grades, the named class and the Aether, Essence and Thread Class rungs, Trait levels, skills by Grade, any blessing, harmonizations) from the Fracture of Worlds tables, and say plainly what was derived.
 5. The kit through `/ability`, each art with its Wellspring signature.
 6. A voice: one description and one sample line. Rich lore with sealed secrets kept in the notes.
 7. Hand back a full draft card (`desktop/templates/CHARACTER_CARD_TEMPLATE.md`); on his word, `create_character`, a roster entry, and the art stored where he said. Private until he promotes it.

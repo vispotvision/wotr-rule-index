@@ -59,10 +59,13 @@ can find them.
   trust in a trade; a fighting guild reads them off the Stage table, and a
   Grandmaster merchant may not be able to throw a punch. Eta is set by Aether
   Class (R78-10). Hollow and F confer no rank.
-- Aether Class: at thresholds the soul is offered a named class that fits how
-  the person has lived; it gives abilities, shapes growth and evolves at each
-  tier. The old ladder is its tier, and the one wild concept stays the person's
-  own (R84-10).
+- Class: at thresholds the soul is offered a named class that fits how the
+  person has lived; it gives abilities, shapes growth and evolves when the lead
+  ladder rises, and the one wild concept stays the person's own (R84-10).
+- Three ladders (R85-26): Aether Class (physical influence), Essence Class
+  (spiritual influence), Thread Class (Fate, steep, most souls Ø). Each sets η
+  for its layer. Lead Path's ladder climbs with Stage, a Walked second runs a
+  rung behind, a Studied one stops at II, or I for Thread.
 - Traits carry their own levels, rising with use and with overall Level and
   skill; skills show as Grades; techniques show no level and take a bigger name
   when they jump (R84-7, R84-8). Race and lineage show on the sheet and shape

@@ -45,7 +45,7 @@ strong. Every ability passes all five:
 1. **It costs something that hurts.** EU at a rate that reaches Starvation
    in a real fight, Harmonics, Coherence, the body, or a vow.
 2. **It has stated limits.** Range, duration, conditions, and the terrain
-   modifiers for its Family.
+   ground it favors and hates, on its Wellspring entry.
 3. **Something beats it.** At least one of the four Counterplay routes
    (`wiki/The Magic System/Power in Use/Counterplay What Beats a Practitioner.md`: deny the
    field, break the boundary, break the body, break the man) works, and the
@@ -62,7 +62,7 @@ options). Never wave it through.
 The fun is thinking and looking things up.
 
 - **Every counter can be found.** A player who reads the right pages can work
-  it out: the Codex entry, the Family's failure terrain, the Counterplay
+  it out: the Codex entry, the Wellspring's failure and ground, the Counterplay
   register, the card's vow, the Ledger. Never make an answer unfindable.
 - **Documents give pieces, not solutions.** An in-world document states the
   law, the cost and the tell. It does not say "and here is how you beat

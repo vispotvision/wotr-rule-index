@@ -38,7 +38,7 @@ then filing.
    The Category's alignment tag says where cost and counter live. The fault
    falls out of the mechanism; if it does not, the mechanism is wrong.
 4. Only then the Codex lookup, for precedent and assignment: Glyphs,
-   Wellspring, Family, Physics Domain, Category, Stage. Name what was checked
+   Wellspring, kind, Titan, Form, Stage. Name what was checked
    only when proposing a new Codex entry; if no combination fits, pitch the
    entry in the same pass.
 5. The FOW line beneath it: governing Primary Stat and Sub-Stats, Stage floor,

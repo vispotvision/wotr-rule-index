@@ -33,7 +33,7 @@ Phenomenon line and the physics the three-stratum stack is built on.
    remember from school.
 4. **State the governing law.** The equation or relation, in words a
    Measurewright could say aloud. This is what the Wellspring's Physics
-   Domain from the Codex will be; check `wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings.md`
+   Domain from the Codex will be; check `wiki/The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings.md`
    and `The Master Glyph Index — 136 Attested Forms.md` for the nearest
    Domain and say if none fits.
 5. **Find the boundary condition.** What the glyph pins: the variable the

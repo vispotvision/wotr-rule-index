@@ -1,6 +1,6 @@
 ---
 name: wotr-stat-line
-description: "Pull the Fracture of Worlds loadout for a War of the Realms character: Level, Band, Stage by source name, Path, race and lineage, Tier Grades, the named Aether Class with its tier and the eta it sets, Soul Crystal tier and state, Essence Family, Wellspring harmonisations, EU and AU/s, Traits and their levels, skills by Grade, blessings, Domain, Resonant Pairs. Also holds the window format. Use before ANY scene with a named practitioner, before designing a technique, when Isaac asks 'what Stage is X', 'can X do Y', 'who wins', or any question with a number in it. Sources by field (R79-10): Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent. Resolve by that order and move on; a missing figure is derived from the Fracture of Worlds tables, written plainly, canon on use."
+description: "Pull the Fracture of Worlds loadout for a War of the Realms character: Level, Band, Stage by source name, Path, race and lineage, Tier Grades, the named Class and the Aether, Essence and Thread Class ladders with the eta each sets, Soul Crystal tier and state, Wellspring harmonizations with kind and Titan, EU and AU/s, Traits and their levels, skills by Grade, blessings, Domain, Resonant Pairs. Also holds the window format. Use before ANY scene with a named practitioner, before designing a technique, when Isaac asks 'what Stage is X', 'can X do Y', 'who wins', or any question with a number in it. Sources by field (R79-10): Fracture of Worlds for system law, tables and names; the Stat Sheet for a character's figures; the card for person facts and wherever the sheet is silent. Resolve by that order and move on; a missing figure is derived from the Fracture of Worlds tables, written plainly, canon on use."
 ---
 
 # wotr-stat-line
@@ -41,8 +41,8 @@ pending fields.
   ceiling (see `references/fow-anchors.md`)
 - Guild title and its trade, if any, Initiate through Paragon: it grades trust
   in that trade, and only a fighting guild reads it off the Stage table
-- Aether Class: the named class and what it gives, and its tier on the old
-  ladder, which sets eta (R78-10, R84-10)
+- Class: the named class and what it gives (R84-10); and the three ladders,
+  Aether, Essence and Thread Class, each setting eta for its own layer (R85-26)
 - Stack line: the Grade on the card, the two-Grade cap, and every self-boost
   in use counted against it (vows, releases, Drafts, strain lifts); only
   outside help (allies, arrays, Domains) sits outside it; items work at their
@@ -50,7 +50,7 @@ pending fields.
 - Releases and bonded weapon, aura color and signature sound
 - Soul Crystal tier and Crystal State going in (Refined, Fractured,
   Overgrown, Crystallized)
-- Essence Family
+- Wellsprings with kind and Titan
 - Wellspring harmonisations and the Sub-Stats they alter
 - EU reserve (the card's source of truth) and how long each working lasts
   from full, Flux Density, AU/s against the local Aetheric Density (R79-10)

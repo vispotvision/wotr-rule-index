@@ -72,7 +72,7 @@ Pressure shows in the room first (smoke, frost, lamp flames, the draw-hum,
 animals), then in bodies (R70-69), and then the window reports it (R84-21): one
 Stage up bends attention; two, sweat and nausea; three or more drops people; a
 Band gap changes the weather. Each practitioner's aura also shows, brighter as
-they push (R78-6): the Family sets its base color, a Wellspring adds texture and
+they push (R78-6): the Wellspring tempered on longest sets its base color, the others add texture and
 sound, and a class or big Trait adds a shape (R84-21). Suppression tires. Killing intent is Pressure aimed through Dominion and needs
 a ruled mechanism before first use (R70-70).
 

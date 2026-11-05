@@ -32,16 +32,16 @@ This is a palette, not a rulebook. Invent freely, and coin a new word when nothi
 - **Falls and weight:** *thump*, *dwomp*, *whomp*, *thud*.
 - **Rope, wood, door:** *thrum*, *creak*, *clack*, *thunk*.
 
-## Workings, by Family (match the Wellspring's own sound)
+## Workings, by group (match the Wellspring's own sound)
 
-- **Caloria:** a furnace draw (*whooooom*), the hiss and tick of tempering (*tssss-tink*), a flint (*tsk*), falling ash (*fsh-fsh*), a vent (*ssshhh-bwub*), a blast (*DOOOOM*), a held rising note (*meeeeee*).
-- **Fluxia:** a bubble (*bloop*), a rush through a narrowing (*shhhhoom*), a deep groan (*glooom*), many voices through water.
-- **Fulguria:** a spark gap (*zzzt*), a glass rim (*tcheeee*), a bell-note of metal (*tonnnng*), a scan-tick (*tik-tik-tik*), a slow throb (*hum... hum...*).
-- **Limina:** a hush (*fffff*), a drain, a reversed echo, the absence of sound itself. Often the right Limina sound word is silence: *shiin*.
-- **Materia:** grinding (*grrrind*), a single tone (*tonnng*), a crystal ticking as it grows (*tik-tik*), a settle (*kssh*).
-- **Spatium:** a soft rotating hum (*vvvmm*), two bells in sympathy (*tonn... tonn*), a held breath.
-- **Vectoria:** a ratchet (*kri-kri-kri*), a groan under load (*groaaan*), a hammer ring (*tonk*), the tick of cracking (*tik... tik*).
-- **Vitalia:** a wet pulse (*thub-thub*), growing wood (*kreeee*), a soft crackle of cells (*pshh*).
+- **Fire and heat:** a furnace breath (*whooooom*), the hiss and tick of tempering (*tssss-tink*), a flint (*tsk*), falling ash (*fsh-fsh*), a vent (*ssshhh-bwub*), a blast (*DOOOOM*), a held rising note (*meeeeee*).
+- **Water and feeling:** a bubble (*bloop*), a rush through a narrowing (*shhhhoom*), a deep groan (*glooom*), many voices through water.
+- **Light and lightning:** a spark gap (*zzzt*), a glass rim (*tcheeee*), a bell-note of metal (*tonnnng*), a scan-tick (*tik-tik-tik*), a slow throb (*hum... hum...*).
+- **Ending and the dark:** a hush (*fffff*), a drain, a reversed echo, the absence of sound itself. Often the right Limina sound word is silence: *shiin*.
+- **Stone and substance:** grinding (*grrrind*), a single tone (*tonnng*), a crystal ticking as it grows (*tik-tik*), a settle (*kssh*).
+- **Distance and absence:** a soft rotating hum (*vvvmm*), two bells in sympathy (*tonn... tonn*), a held breath.
+- **Load and motion:** a ratchet (*kri-kri-kri*), a groan under load (*groaaan*), a hammer ring (*tonk*), the tick of cracking (*tik... tik*).
+- **Growth and blood:** a wet pulse (*thub-thub*), growing wood (*kreeee*), a soft crackle of cells (*pshh*).
 
 ## State and atmosphere (Japanese, for a Moto or Japonic POV)
 

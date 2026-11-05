@@ -13,7 +13,7 @@ fill a lookup.
 |---|---|
 | A person | `character(name)`, then `fow_line(name)` for their numbers |
 | A place, faction, people, creature, item, term | `wiki(query)` (`limit=` higher to survey what exists) |
-| A glyph, Wellspring, Family, Physics Domain | `codex(query)` |
+| A glyph or Wellspring | `codex(query)`; the Codex's Family and Physics Domain columns are old source fields |
 | Every name in a passage at once | `scene_context(text)` |
 | What happened, a past scene | `scene_recall(query)` |
 | When, in what order | `timeline()` |

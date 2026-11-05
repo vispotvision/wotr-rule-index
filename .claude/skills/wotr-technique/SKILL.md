@@ -26,8 +26,8 @@ description: "Design a War of the Realms technique, Trait, art or ability from a
    counter answers before, during and after contact. A price the player names
    stands; rework the mechanism until it yields that price, or say in one line
    that none can and offer the nearest.
-5. **The Codex.** `codex(query)` for precedent, Wellspring, Family and
-   Physics Domain. Never invent a Wellspring or glyph.
+5. **The Codex.** `codex(query)` for precedent, Wellspring and glyph, with kind and Titan from the
+   Wellspring's entry. Never invent a Wellspring or glyph.
 6. **The entry (R82-20).** Name in caps with its native name (`wotr-name`) and
    kind, the hook a kid could repeat, the named moves a line each, How it really
    works (the full account, technical terms welcome and explained), one Cost

@@ -210,7 +210,7 @@ rules:
   pack_number: null
   section: Vocabulary and diction
   title: Calendar
-  status: live
+  status: superseded
   kind: mandate
   summary: Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon);
     all go on the list.

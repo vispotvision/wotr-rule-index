@@ -66,7 +66,7 @@
 - **21, '-ing' and 'As he …,' openers** (R49-17-OPENERS).
 - **22, Filter verbs** (R49-42-FILTER_VERBS).
 - **23, Modern words in narration and documents** (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS, R51-03-LIST_SLANG, R51-04-LIST_PSYCH, R51-05-LIST_TECH, R51-34-DOC_MODERN).
-- **24, Earth calendar words** (R51-08-CALENDAR).
+- **24, retired 2026-11-05** (R85-2 brought in the real calendar).
 - **25, Earth holy swears** (R51-30-HOLY_OATHS).
 - **26, The hard-ban list** (R51-10-SLOP_WORDS), a FAIL at first use.
 - **27, Collision words** (R51-11-COLLISIONS), not automated.
@@ -467,15 +467,9 @@ Sentence CV: ≥ 80% good; 50–80% moderate; < 50% uniform, the strongest struc
 
 ---
 
-## 24. Earth Calendar Words
+## 24. Earth Calendar Words (retired)
 
-**Catches:** Earth day and month names, and "week"/"weekend".
-
-**Enforces:** R51-08-CALENDAR ("Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon)").
-
-**verify.py:** **WARN** on each day name, each month name, `weekend(s)`, in narration and speech. `May` and `March` only when capitalised mid-sentence, so "May he…" and the verb "march" pass. `week` itself is not flagged.
-
-**By hand:** search `week`.
+Retired 2026-11-05: R85-2 supersedes R51-08-CALENDAR, so real day and month names are the law and `verify_scene` no longer warns on them.
 
 **Fix:** the culture's own span.
 

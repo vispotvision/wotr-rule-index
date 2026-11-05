@@ -184,9 +184,6 @@ fn apparatus() -> &'static Regex {
 }
 fn tidy_close() -> &'static Regex { rx!(r"(?i)^(?:Ultimately|In the end|And so|Finally|At last|Perhaps that|Maybe that)\b") }
 fn hypophora_q() -> &'static Regex { rx!(r"\?\s*\z") }
-fn calendar() -> &'static Regex {
-    rx!(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|January|February|April|June|July|August|September|October|November|December|[Ww]eekends?)\b|(?<=[a-z,;] )(?:May|March)\b")
-}
 fn holy_oath() -> &'static Regex { rx!(r"\b(?:(?i:god\s*damn\w*|go to hell|for god['’]s sake)|Christ|Jesus)\b") }
 fn slop() -> &'static Regex {
     rx!(r"(?i)\b(?:testaments? to|symphony of|a dance of|orbs|electric\w*\W+(?:\w+\W+){0,3}?touch\w*|touch\w*\W+(?:\w+\W+){0,3}?electric\w*|velvety? voice|shiver\w* down (?:his|her|their|my|your) spine|breath (?:he|she|they|I) didn['’]t know (?:he|she|they|I) (?:was|were) holding|coppery tang)\b")
@@ -539,9 +536,6 @@ pub fn run(text: &str, o: &Opts) -> Result<Res, String> {
     if !digits.is_empty() {
         let shown: Vec<String> = digits.iter().take(4).map(|d| format!("\"...{d}...\"")).collect();
         info.push(format!("digits for numbers up to one hundred in narration: {} (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): {}", digits.len(), shown.join("; ")));
-    }
-    for m in finds(calendar(), &body) {
-        warns.push(format!("Earth calendar word: \"{}\" in \"...{}...\" (R51-08-CALENDAR; use the culture's own span)", m.as_str(), win(&body, m.start(), m.end(), 50, 30)));
     }
     for m in finds(holy_oath(), &body) {
         warns.push(format!("Earth holy swear: \"{}\" in \"...{}...\" (R51-30-HOLY_OATHS; swear by the world's own powers)", m.as_str(), win(&body, m.start(), m.end(), 50, 30)));

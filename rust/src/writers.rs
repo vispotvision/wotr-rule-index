@@ -6,6 +6,7 @@
 //! rust/writer_parity.py replays the same calls through Python and Rust in two scratch clones.
 use crate::table::{clock, get_s, int, load, opt_str, s, same_thread, story_days, t};
 use crate::util::{chars, head, read_lossy, read_page, root, tail, ROOT};
+use chrono::Datelike;
 use fancy_regex::Regex;
 use serde_json::{json, Map, Value};
 use std::path::{Component, Path, PathBuf};
@@ -127,8 +128,7 @@ fn stamp_for(thread: Option<&Value>) -> R<String> {
 }
 
 fn story_date_from(n: i64) -> String {
-    let (y, doy) = (n.div_euclid(364), n.rem_euclid(364));
-    format!("{y}-{}-{}", doy / 28 + 1, doy % 28 + 1)
+    chrono::NaiveDate::from_num_days_from_ce_opt(n as i32).map_or_else(String::new, |d| format!("{}-{}-{}", d.year(), d.month(), d.day()))
 }
 
 fn obj(r: &mut Value) -> &mut Map<String, Value> {
@@ -206,7 +206,7 @@ fn add_front_row(name: &str, thread: &str, want: &str, ticks: &[String], next_mo
 
 fn pass(thread: &str, mut days: i64, when: &str) -> R<(Value, Vec<Value>)> {
     if !when.is_empty() && story_days(when).is_none() {
-        return Err(E::Value(format!("story date '{when}' is not Y-M-D in the Accord count (month 1 to 13, day 1 to 28)")));
+        return Err(E::Value(format!("story date '{when}' is not a real Y-M-D date (R85-2)")));
     }
     let mut rows = load("threads")?;
     let idx = match rows.iter().position(|r| same_thread(r.get("thread"), thread)) {
@@ -270,7 +270,7 @@ fn ledger_add_row(category: &str, who: &str, text: &str, due_after: Value, threa
         _ => c,
     };
     if !due_date.is_empty() && story_days(due_date).is_none() {
-        return Err(E::Value(format!("due_date '{due_date}' is not Y-M-D in the Accord count (month 1 to 13, day 1 to 28)")));
+        return Err(E::Value(format!("due_date '{due_date}' is not a real Y-M-D date (R85-2)")));
     }
     let mut rows = load("ledger")?;
     let clocks = match cat.as_str() {

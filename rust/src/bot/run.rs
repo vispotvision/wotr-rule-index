@@ -459,15 +459,17 @@ impl Bot {
             "date set" => self.date_set(itx, &o).await,
             "date advance" => self.date_advance(itx, opt_int(&o, "days").unwrap_or(1)).await,
             "date name" => {
-                let (month, day, plus) = (opt_int(&o, "month").unwrap_or(1), opt_int(&o, "day").unwrap_or(1), opt_int(&o, "plus").unwrap_or(0));
-                let (m2, d2, _) = desk::add_days(month, day, 0, plus);
-                let mut text = desk::describe(month, day, None, "");
+                let (month, day, plus, year) = (opt_int(&o, "month").unwrap_or(1), opt_int(&o, "day").unwrap_or(1), opt_int(&o, "plus").unwrap_or(0), opt_int(&o, "year"));
+                if desk::date(month, day, year.unwrap_or(0)).is_none() {
+                    return itx.send(self, Msg::private("That date does not exist.")).await;
+                }
+                let mut text = desk::describe(month, day, year, "");
                 if plus != 0 {
-                    text += &format!("\n+{plus} days \u{2192} {}", desk::describe(m2, d2, None, ""));
+                    let (m2, d2, y2) = desk::add_days(month, day, year.unwrap_or(0), plus);
+                    text += &format!("\n+{plus} days \u{2192} {}", desk::describe(m2, d2, year.map(|_| y2), ""));
                 }
                 let mut e = Embed::new("The Sky, the Hour and the Year", C_NAME);
                 e.description = Some(text);
-                e.field("The turn", &desk::ARCHONS.iter().enumerate().map(|(i, (a, p))| format!("{} {a}'s ({p})", i + 1)).collect::<Vec<_>>().join(" \u{b7} "), false);
                 itx.send(self, Msg::embed(e)).await
             }
             "ledger" => self.lines(itx, false).await,
@@ -714,7 +716,10 @@ impl Bot {
             return itx.send(self, Msg::private("The Judger or a Scribe sets the date.")).await;
         }
         let (month, year) = (opt_int(o, "month").unwrap_or(1), opt_int(o, "year"));
-        let day = if month == 14 { 1 } else { opt_int(o, "day").unwrap_or(1) };
+        let day = opt_int(o, "day").unwrap_or(1);
+        if desk::date(month, day, year.unwrap_or(0)).is_none() {
+            return itx.send(self, Msg::private("That date does not exist.")).await;
+        }
         let era = opt_str(o, "era").unwrap_or_default();
         let mut d = Map::new();
         for (k, v) in [("month", json!(month)), ("day", json!(day)), ("year", json!(year)), ("era", json!(era)), ("by", json!(itx.display_name())), ("set_on", json!(today()))] {
@@ -733,7 +738,7 @@ impl Bot {
         }
         let mut d = off(desk::calendar).await?;
         let num = |d: &Map<String, Value>, k: &str| d.get(k).and_then(Value::as_i64);
-        if d.is_empty() || num(&d, "month") == Some(14) {
+        if d.is_empty() {
             return itx.send(self, Msg::private("Set a calendar date first (`/date set`).")).await;
         }
         let (m, dd, y) = desk::add_days(num(&d, "month").unwrap_or(1), num(&d, "day").unwrap_or(1), num(&d, "year").unwrap_or(0), days);

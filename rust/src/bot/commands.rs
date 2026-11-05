@@ -78,16 +78,17 @@ pub fn definitions() -> Vec<CreateCommand> {
         cmd("date", "The in-world calendar.", vec![
             sub("today", "The table's current in-world date.", vec![]),
             sub("set", "Judger: set the table's in-world date.", vec![
-                opt(T::Integer, "month", "1\u{2013}13 (14 = Munahi)", true).min_int_value(1).max_int_value(14),
-                opt(T::Integer, "day", "1\u{2013}28", false).min_int_value(1).max_int_value(28),
+                opt(T::Integer, "month", "1\u{2013}12", true).min_int_value(1).max_int_value(12),
+                opt(T::Integer, "day", "1\u{2013}31", false).min_int_value(1).max_int_value(31),
                 opt(T::Integer, "year", "Accord year", false),
                 opt(T::String, "era", "The Moto era name, if any", false),
             ]),
             sub("advance", "Judger: move the table's date forward.", vec![opt(T::Integer, "days", "How many days", true).min_int_value(1).max_int_value(3640)]),
-            sub("name", "Which Archon's day a given day is, and what a span of days lands on.", vec![
-                opt(T::Integer, "month", "1\u{2013}13", true).min_int_value(1).max_int_value(13),
-                opt(T::Integer, "day", "1\u{2013}28", true).min_int_value(1).max_int_value(28),
+            sub("name", "What weekday a date is, and what a span of days lands on.", vec![
+                opt(T::Integer, "month", "1\u{2013}12", true).min_int_value(1).max_int_value(12),
+                opt(T::Integer, "day", "1\u{2013}31", true).min_int_value(1).max_int_value(31),
                 opt(T::Integer, "plus", "Days later (optional)", false),
+                opt(T::Integer, "year", "Accord year, for the weekday (optional)", false),
             ]),
         ]),
         cmd("ledger", "The open Ledger lines about your own characters.", vec![]),

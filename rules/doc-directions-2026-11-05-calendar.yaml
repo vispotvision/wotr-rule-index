@@ -1,0 +1,39 @@
+# Isaac's direction on the calendar, 2026-11-05, recorded in RULINGS.md and indexed the same day.
+pack: Directions 2026-11-05 (the real calendar)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-05 (the real calendar)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: direction recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-2-THE_REAL_CALENDAR
+  section: calendar-direction
+  title: The real calendar
+  kind: mandate
+  summary: The world uses the real calendar, January to December and Monday to Sunday, with real month lengths, leap years
+    and a 24-hour day, in every culture's mouth and in narration. The year counts stay as they are. It is not tied to today's
+    date. Archived scenes stay as written.
+  verbatim: prob just gonna haveyou switch to irl days and use real life calender to make shit more simple
+  amends:
+  - guide: NATALIE.md
+    locus: THE DARK AGES
+    operation: extends
+  - guide: The Sky, the Hour and the Year
+    locus: the day, the week, the month and the year
+    operation: replaces
+  supersedes:
+  - R51-08-CALENDAR
+  applies_to:
+  - prose-law
+  - worldbuilding
+  - standing-inventory
+  - verification
+  verification: []
+  notes: '"only think that won''t change is the years" (same direction): IC, the Moto nengo and the Ages keep their counts.
+    Natalie''s reading, in RULINGS.md and overturnable: the fourteen-day turn, the thirteen months and the fourteen-part day
+    retire. Their lore folds into the real calendar: Munahi is February 29, Auren''s day is the twelfth of each month, and
+    the sixty-count runs on as an almanac count. Shiro keeps its 28-day cycle.'

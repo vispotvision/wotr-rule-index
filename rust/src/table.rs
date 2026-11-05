@@ -4,6 +4,7 @@
 //! helpers below copy Python's str(), int() and truthiness exactly.
 use crate::search;
 use crate::util::{read_lossy, read_page, root, stem, ROOT};
+use chrono::Datelike;
 use fancy_regex::Regex;
 use serde_json::Value;
 use std::collections::{BTreeSet, HashMap};
@@ -91,8 +92,8 @@ pub(crate) fn same_thread(a: Option<&Value>, b: &str) -> bool {
 
 pub(crate) fn story_days(v: &str) -> Option<i64> {
     let c = rx!(r"^\s*(\d+)-(\d+)-(\d+)\s*$").captures(v).ok().flatten()?;
-    let (y, m, d): (i64, i64, i64) = (c[1].parse().ok()?, c[2].parse().ok()?, c[3].parse().ok()?);
-    ((1..=13).contains(&m) && (1..=28).contains(&d)).then(|| y * 364 + (m - 1) * 28 + d - 1)
+    let (y, m, d): (i32, u32, u32) = (c[1].parse().ok()?, c[2].parse().ok()?, c[3].parse().ok()?);
+    chrono::NaiveDate::from_ymd_opt(y, m, d).map(|x| i64::from(x.num_days_from_ce()))
 }
 
 /// str(s or "") for story_days

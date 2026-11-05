@@ -30,7 +30,7 @@ A forge, a republic and a court in one crater, held together because the cost of
 **Gone:**
 - **The tender's hands.** The steady hands an array-tender had before his eighth year at the forge-array, which the Tender's Obligation pays for and cannot give back.
 - **The small coin.** The copper penny of the smelter towns, melted into worked conductor wherever array-building ran hot. The company token stands where it was, and there is still not enough copper to pay in.
-- **The notch.** The sun's hour, which the Seat gave up first, because it was the Seat that sent the equal hour out by beacon. The old men of the rim still say a summer notch when they mean a long afternoon.
+- **Working by the light.** The day told by the sun, which the Seat gave up first, because it was the Seat that sent the equal hour out by beacon. The old men of the rim still say a summer hour when they mean a long afternoon.
 - **The unrecorded names.** The Archive Guild keeps a collection of statements too honest to file. The words are kept. The names of the tunnel-masters and tenders who said them were not recorded, and nobody can now say who said the best of them.
 
 **Folk beliefs:**

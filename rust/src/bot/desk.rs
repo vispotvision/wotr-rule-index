@@ -7,28 +7,35 @@ use crate::re;
 use crate::table;
 use crate::text::{has, rx, split, sub};
 use crate::util::{read_lossy, root};
+use chrono::{Datelike, NaiveDate, TimeDelta};
 use serde_json::{json, Map, Value};
 
-pub const ARCHONS: [(&str, &str); 14] = [("Urion", "Balance"), ("Uurgath", "Disruption"), ("Thalen", "Form"), ("Valen", "Time"), ("Maelor", "Memory"), ("Zhaeren", "Space"), ("Irath", "Dominion"), ("Veyra", "Desire"), ("Iesara", "Insight"), ("Kaetra", "Dream"), ("Wyther", "Motion"), ("Auren", "Death"), ("Selhar", "Harmony"), ("Elyndra", "Life")];
-const DAYS_IN_MONTH: i64 = 28;
-const YEAR: i64 = 364; // Munahi sits after it, eight years in thirteen
-
-/// Month 1-13, day 1-28 (month 14 = Munahi).
-pub fn describe(month: i64, day: i64, year: Option<i64>, era: &str) -> String {
-    if month == 14 {
-        return "**Munahi**, the nameless day \u{2014} no Archon, no Labour, no Work falls due, nothing can be entered, no window opens, no instrument binds.".into();
-    }
-    let (a, principle) = ARCHONS[((day - 1).rem_euclid(14)) as usize];
-    let y = year.filter(|y| *y != 0).map_or(String::new(), |y| format!(" \u{b7} Accord year {y}"));
-    let e = if era.is_empty() { String::new() } else { format!(" \u{b7} {era}") };
-    format!("**{a}'s day** ({principle}) \u{b7} month {month}, {} turn, day {day}{y}{e}", if day <= 14 { "first" } else { "second" })
+/// The real calendar (R85-2). Year 0 stands in when the table has no year; it is a leap year, so February 29 passes.
+pub fn date(month: i64, day: i64, year: i64) -> Option<NaiveDate> {
+    NaiveDate::from_ymd_opt(i32::try_from(year).ok()?, u32::try_from(month).ok()?, u32::try_from(day).ok()?)
 }
 
-/// Advance through the calendar; Munahi is not modelled as a step (it is nobody's day).
+/// The weekday needs a year, so a date with no year gives only month and day.
+pub fn describe(month: i64, day: i64, year: Option<i64>, era: &str) -> String {
+    let year = year.filter(|y| *y != 0);
+    let Some(d) = date(month, day, year.unwrap_or(0)) else { return format!("month {month}, day {day}") };
+    let name = d.format(if year.is_some() { "%A, %B %-d" } else { "%B %-d" });
+    let lore = match (month, day) {
+        (2, 29) => " \u{b7} Munahi, the nameless day: no instrument binds",
+        (_, 12) => " \u{b7} Auren's day, for the dead",
+        _ => "",
+    };
+    let y = year.map_or(String::new(), |y| format!(" \u{b7} Accord year {y}"));
+    let e = if era.is_empty() { String::new() } else { format!(" \u{b7} {era}") };
+    format!("**{name}**{lore}{y}{e}")
+}
+
+/// Forward through the calendar; an impossible date stays as it is, and /date set refuses those first.
 pub fn add_days(month: i64, day: i64, year: i64, n: i64) -> (i64, i64, i64) {
-    let doy = (month - 1) * DAYS_IN_MONTH + day - 1 + n;
-    let (year, doy) = (year + doy.div_euclid(YEAR), doy.rem_euclid(YEAR));
-    (doy / DAYS_IN_MONTH + 1, doy % DAYS_IN_MONTH + 1, year)
+    match date(month, day, year).and_then(|d| d.checked_add_signed(TimeDelta::days(n))) {
+        Some(d) => (i64::from(d.month()), i64::from(d.day()), i64::from(d.year())),
+        None => (month, day, year),
+    }
 }
 
 fn calendar_path() -> std::path::PathBuf {
@@ -103,13 +110,19 @@ mod tests {
     use super::*;
 
     #[test]
-    fn the_calendar_turns() {
-        assert!(describe(3, 1, Some(715), "Era").starts_with("**Urion's day** (Balance) \u{b7} month 3, first turn, day 1 \u{b7} Accord year 715 \u{b7} Era"));
-        assert!(describe(3, 15, None, "").starts_with("**Urion's day** (Balance) \u{b7} month 3, second turn"));
-        assert!(describe(14, 1, None, "").starts_with("**Munahi**"));
-        assert_eq!(add_days(1, 1, 700, 27), (1, 28, 700));
-        assert_eq!(add_days(1, 1, 700, 28), (2, 1, 700));
-        assert_eq!(add_days(13, 28, 700, 1), (1, 1, 701));
+    fn the_calendar_is_the_real_one() {
+        assert_eq!(describe(3, 1, None, ""), "**March 1**");
+        assert!(describe(3, 1, Some(715), "Era").ends_with("\u{b7} Accord year 715 \u{b7} Era"));
+        assert!(describe(3, 1, Some(715), "").contains("day, March 1**"));
+        assert!(describe(2, 29, None, "").contains("Munahi"));
+        assert!(describe(5, 12, None, "").contains("Auren's day"));
+        assert_eq!(add_days(1, 31, 700, 1), (2, 1, 700));
+        assert_eq!(add_days(12, 31, 700, 1), (1, 1, 701));
+        assert_eq!(add_days(2, 28, 716, 1), (2, 29, 716));
+        assert_eq!(add_days(2, 28, 715, 1), (3, 1, 715));
+        assert!(date(2, 30, 716).is_none() && date(13, 1, 716).is_none());
+        assert_eq!(table::story_days("715-3-1").unwrap() - table::story_days("715-2-28").unwrap(), 1);
+        assert!(table::story_days("715-13-1").is_none());
     }
 
     #[test]

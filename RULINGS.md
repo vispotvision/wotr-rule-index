@@ -3713,3 +3713,9 @@ Context: Refines the same night's Scourge rulings and reads R83's "A Wellspring 
 Isaac, 2026-11-05: "This is only the Inner World btw we only covering one continent". The North, Center and South are regions of one continent, the Inner World, and tonight's map and monster rulings cover it alone. "The South North and Central Continents" in his earlier message reads as those three regions. AGENT RULING (Natalie, overturnable): Malakar's split is what parts the Inner World from the other quarters, and it does not divide North, Center and South into continents of their own.
 
 Context: Answers the question Natalie put to him. The Old World, New World and Outer World are not part of this redo.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "explain the guild accord updated since it's not like how it was written previously but the premise is the same it's coalition of multiple guilds across multiple different nation adventure guilds merchant guilds different types of guilds can be more than that but you get the idea and the ranks are like the ones from your titl. Grandmaster or Archmaster or Paragon etc". The Guild Accord is a coalition of many kinds of guild across many nations: adventure guilds, merchant guilds and others. Its ranks are the Tier of Standing titles: Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon. The written pages are out of date and are to be rewritten to this premise.
+
+Context: Guild Accord pages under wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord. Natalie's working draft follows in chat.

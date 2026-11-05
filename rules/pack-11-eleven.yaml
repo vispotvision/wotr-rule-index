@@ -50,7 +50,7 @@ rules:
     pack_number: 11
     section: "§1"
     title: The Draw-Age visual register
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The new visual register is an imperial age built on a resource
@@ -266,7 +266,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: The Draw-Age silhouette, sensory texture
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       No smokestacks or soot; standpipes, gauge-housings, sealed conduit,
@@ -438,7 +438,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: Gunpowder, magic and armour all coexist
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Gunpowder exists, magical weapons exist, and armour is not dead.
@@ -491,7 +491,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: Why plate stops shrinking in WOTR
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Shot is chemically cheap and does not care about a soul; a working is
@@ -524,7 +524,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: Every armed man carries sword and firearm
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The silhouette is coat, breast, helm, sword and firearm; every armed
@@ -559,7 +559,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: Powder weapons open an engagement, they do not decide one
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Powder weapons are slow, loud and honest; a practitioner above

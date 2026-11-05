@@ -13,7 +13,7 @@ rules:
   pack_number: null
   section: K1
   title: The five alchemy texts and the story's present sit in the early Imperial Age
-  status: live
+  status: superseded
   kind: definition
   summary: Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial
     Age, which is also the era of the story's present.
@@ -3574,7 +3574,7 @@ rules:
   pack_number: null
   section: Calendar (C-084 follow-up)
   title: The present is Year 715 of the count and the early Imperial Age
-  status: live
+  status: superseded
   kind: definition
   summary: The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age
     of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the

@@ -37,7 +37,7 @@ rules:
   pack_number: null
   section: calendar 2
   title: The Imperial Age began in 690 IC; the present is its twenty-fifth year
-  status: live
+  status: superseded
   kind: definition
   summary: The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth
     year.
@@ -63,7 +63,7 @@ rules:
   pack_number: null
   section: calendar 3
   title: The count keeps its three eras; the Imperial Age overlaps the Withering Era
-  status: live
+  status: superseded
   kind: definition
   summary: The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras;
     the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.

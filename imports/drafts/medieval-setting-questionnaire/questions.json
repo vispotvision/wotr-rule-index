@@ -1,0 +1,35 @@
+{
+  "context": "Isaac, 2026-11-05: the writing reads medieval, and Muken lives before the great split of the continents, which Malakar causes. He is considering medieval all the way through instead of the 1800s and 1900s Imperial Age, says the world is like Final Fantasy and the style reads as Martin-level politics, Tolkien-like magic and an anime twist, and wants the writing positioned toward that and toward what he already writes. Most of the wiki is out of date on this. Samples are invented and not canon.",
+  "batches": {
+    "batch1": [
+      "headline",
+      "eras",
+      "guns",
+      "magic_infrastructure"
+    ],
+    "batch2": [
+      "imperial_place",
+      "renaissance_brings",
+      "guns_in_renaissance",
+      "old_works"
+    ],
+    "batch3": [
+      "fame_without_print",
+      "daily_magic_source",
+      "draw_vocabulary",
+      "three_villains"
+    ],
+    "batch4": [
+      "cultivation_model",
+      "power_rarity",
+      "mystery_vs_explained",
+      "split_placement"
+    ],
+    "batch5": [
+      "wiki_priority",
+      "old_scenes",
+      "martin_deaths",
+      "law_timing"
+    ]
+  }
+}

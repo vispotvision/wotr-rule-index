@@ -11,7 +11,7 @@ rules:
   pack_number: null
   section: World texture
   title: Imperial Age Span
-  status: live
+  status: superseded
   kind: mandate
   summary: 'The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology
     of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded.
@@ -68,7 +68,7 @@ rules:
   pack_number: null
   section: World texture
   title: Firearm Ceiling
-  status: live
+  status: superseded
   kind: mandate
   summary: 'The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder,
     even early machine guns exist, rare and state-owned.'
@@ -93,7 +93,7 @@ rules:
   pack_number: null
   section: World texture
   title: Enhanced Shot
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Enhanced shot is standard for elites: guard companies and bounty hunters carry full
     pouches; ordinary infantry do not.'
@@ -118,7 +118,7 @@ rules:
   pack_number: null
   section: World texture
   title: Proof Plate
-  status: live
+  status: superseded
   kind: mandate
   summary: Narration may state the cause of any penetration outright, in gunfights as anywhere;
     the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
@@ -871,7 +871,7 @@ rules:
   pack_number: null
   section: World texture
   title: Tech By Ear
-  status: live
+  status: superseded
   kind: mandate
   summary: 'No decade-by-decade technology page: the partner judges what is era-appropriate
     in the Imperial Age scene by scene.'

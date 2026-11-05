@@ -54,7 +54,7 @@ rules:
   pack_number: null
   section: Era and apparatus
   title: Wire And Telephone
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices
     and rich houses in the big cities.'
@@ -75,7 +75,7 @@ rules:
   pack_number: null
   section: Era and apparatus
   title: Vehicles
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars
     for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel;
@@ -210,7 +210,7 @@ rules:
   pack_number: null
   section: Era and apparatus
   title: Household
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food,
     and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.'

@@ -112,7 +112,7 @@ rules:
   pack_number: null
   section: C-103
   title: 'No coal boilers: R59-01 governs'
-  status: live
+  status: superseded
   kind: ban
   summary: Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs
     are cut.

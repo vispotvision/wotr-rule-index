@@ -1828,3 +1828,12 @@ the author notes."
 **Consequence if unresolved:** none in play; names are by sound rules now (R79-7), and the list is reference.
 **Recommendation:** none.
 **Status:** recorded 2026-10-17; the index summary reads "40 given names", the source is untouched (sources/ is read-only).
+
+## C-164: The Long Reading puts Malakar's split generations before Muken; the book and Isaac put Muken before it
+
+**Rules:** wiki The Long Reading — Moto Ancient History vs The Uncounted, Book One and Isaac's word (RULINGS.md, 2026-11-05)
+**The clash:** The Long Reading runs the split (II), the Refusal and the Stay (III, IV), the Long Diminishment (VI) and the Recension "two to four generations before Muken", then Muken (VIII). The book opens before the split, and Isaac says Muken lives before it and survives through it. The Moto Bloodline page and The Moto Origin also have him build Kharven after the split, while the book already has Kharven-Seat before it.
+**Quotes:** The Long Reading: "An ancient history of the house, from Bara to the birth of Muken." The book: "It was still the age of the Grand World then, before the great split of the continents". Moto Bloodline: "Muken went the other way, north and east into the boreal forest".
+**Consequence if unresolved:** A scene or card cannot place the Refusal, the Kōkan's fall or Kharven's founding against Muken's life, and the Concordance of Ages does not date the split at all.
+**Recommendation:** none.
+**Status:** ruled 2026-11-05 by Isaac on the order of Muken and the split; the wiki pages are not yet revised, and where the Refusal and Kharven's founding fall is still open.

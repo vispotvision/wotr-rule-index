@@ -11869,7 +11869,7 @@
     "pack_number": null,
     "section": "World texture",
     "title": "Imperial Age Span",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: \"The imperial age goes from the 1800 into th...",
     "verbatim": "The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: \"The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is\".)",
@@ -11894,7 +11894,9 @@
       "lines": null
     },
     "notes": "Agent ruling C-137 (2026-10-13): heat instruments exist; they read the bath and the furnace, never the sealed charge. Ideas past the span are R78-2's (Isaac, 2026-10-13); hardware stays here.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R53-02-POOR_FIRES",
@@ -11933,7 +11935,7 @@
     "pack_number": null,
     "section": "World texture",
     "title": "Firearm Ceiling",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.",
     "verbatim": "The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.",
@@ -11956,7 +11958,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R53-04-ENHANCED_SHOT",
@@ -11964,7 +11968,7 @@
     "pack_number": null,
     "section": "World texture",
     "title": "Enhanced Shot",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.",
     "verbatim": "Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.",
@@ -11987,7 +11991,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R53-05-PROOF_PLATE",
@@ -11995,7 +12001,7 @@
     "pack_number": null,
     "section": "World texture",
     "title": "Proof Plate",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.",
     "verbatim": "Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.",
@@ -12020,7 +12026,9 @@
       "lines": null
     },
     "notes": "Partly amended by R71-95-WARD_BREAKING (combat law 2026-10-04): when a fight breaks a ward, narration names the failing layer only from a POV inside the craft; any other POV gets only what stops and hears the layer named in a mouth. Penetrations of armour and shot are not reached.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R53-06-WELL_SPAWN",
@@ -12851,7 +12859,7 @@
     "pack_number": null,
     "section": "World texture",
     "title": "Tech By Ear",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.",
     "verbatim": "No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.",
@@ -12874,7 +12882,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R54-1-STAGE_NUMERAL_WINS",
@@ -16258,7 +16268,7 @@
     "pack_number": null,
     "section": "Era and apparatus",
     "title": "Wire And Telephone",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.",
     "verbatim": "Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.",
@@ -16274,7 +16284,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R59-04-VEHICLES",
@@ -16282,7 +16294,7 @@
     "pack_number": null,
     "section": "Era and apparatus",
     "title": "Vehicles",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the lates...",
     "verbatim": "Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the latest part of the span, military and rare; and other WOTR-created objects and things of its own invention.",
@@ -16298,7 +16310,9 @@
       "lines": null
     },
     "notes": "Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R59-05-STEEP_REGIONAL_GRADIENT",
@@ -16427,7 +16441,7 @@
     "pack_number": null,
     "section": "Era and apparatus",
     "title": "Household",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.",
     "verbatim": "Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.",
@@ -16444,7 +16458,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R59-11-MATERIALS",
@@ -17237,7 +17253,7 @@
     "pack_number": null,
     "section": "K1",
     "title": "The five alchemy texts and the story's present sit in the early Imperial Age",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.",
     "verbatim": "The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).",
@@ -17261,7 +17277,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R61-10-CONVERSION_IS_FULL_REBUILD",
@@ -18391,7 +18409,7 @@
     "pack_number": null,
     "section": "Calendar (C-084 follow-up)",
     "title": "The present is Year 715 of the count and the early Imperial Age",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.",
     "verbatim": "The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.",
@@ -18415,7 +18433,9 @@
       "lines": null
     },
     "notes": "amends R53-01-IMPERIAL_AGE_SPAN (the span starts recently) and the Concordance of Ages' era names; builds on R57-36-YEAR_ZERO_IS_THE_CODEX",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R61-14-TWO_GILLUS_LETTERS",
@@ -21497,7 +21517,7 @@
     "pack_number": null,
     "section": "C-103",
     "title": "No coal boilers: R59-01 governs",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.",
     "verbatim": "The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.",
@@ -21520,7 +21540,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R62-6-RESIDUE_THINS_TO_A_FLOOR",
@@ -21683,7 +21705,7 @@
     "pack_number": null,
     "section": "calendar 2",
     "title": "The Imperial Age began in 690 IC; the present is its twenty-fifth year",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.",
     "verbatim": "The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.",
@@ -21707,7 +21729,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS",
@@ -21715,7 +21739,7 @@
     "pack_number": null,
     "section": "calendar 3",
     "title": "The count keeps its three eras; the Imperial Age overlaps the Withering Era",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.",
     "verbatim": "The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.",
@@ -21738,7 +21762,9 @@
       "lines": null
     },
     "notes": "",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-4-IMPERIAL_RENAISSANCE"
+    ]
   },
   {
     "id": "R64-1-VOL1_IS_MUJIN_MEMOIR_696",
@@ -30016,7 +30042,7 @@
     "pack_number": null,
     "section": "MC24",
     "title": "Each inscription stops shot its own way and leaves its own mark",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.",
     "verbatim": "By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.",
@@ -30046,7 +30072,9 @@
       "lines": null
     },
     "notes": "MC24. Puts R13-C on the page (ruled 2026-09-12: the working, not the steel, stops shot against a worked cuirass); the marks are the four §4.6 inscriptions' own (Mending Arrays, Weight Ablation Glyphs, Impact Damping Seals, Aether Plate), so nothing new is canon. The mark is a counter written as fact (R47-3-COUNTERS_AS_FACTS) and findable, as R45-5-PAID_PER_SHOT_AND_FINDABLE has enhanced shot. Narration may state the cause outright (R53-05-PROOF_PLATE). Which round passes is the ladder's call: R46-3-ARMOUR_TIER_IS_ITS_PROOF, read with R71-93-PROOFED_SHOT_AGAINST_PROOFED (WT4). No older rule is reached.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-51-SKIRMISH_THREE_TEN",
@@ -30092,7 +30120,7 @@
     "pack_number": null,
     "section": "FT2",
     "title": "Ambush split at a marked break: the wait, then the shot",
-    "status": "live",
+    "status": "superseded",
     "kind": "procedure",
     "summary": "Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.",
     "verbatim": "Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.",
@@ -30121,7 +30149,9 @@
       "lines": null
     },
     "notes": "FT2. Partly amends R5-C1-WRITE_FROM_LEAST_KNOWING, a default its own words make breakable with reason: an ambush or assassination is no longer given whole to whoever knows least but split at a marked break, each half POV-locked. Uses R49-09-CUTAWAYS for the shooter's half in roleplay; that row stands. R48-30-SURPRISES (foreshadowing a player could have caught) is not named and stands. R11-3-BALLISTICS_RULING, R11-3-AMMO_TIERS and R45-5-PAID_PER_SHOT_AND_FINDABLE are not changed. Options A (the target alone, tell planted) and B (the shooter alone) were not taken. Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): when the ambush belongs to a case his PC works, the shooter's half played as a turn's closing cutaway shows the hand and the deed, never his face or name, and never the answer. The split at a marked break stands, and outside a case the rule stands as written.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-53-BRAWLS_FOLK_SCHOOLS",
@@ -30299,7 +30329,7 @@
     "pack_number": null,
     "section": "FT8",
     "title": "A gunshot at a practitioner is traced like an exchange",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.",
     "verbatim": "Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.",
@@ -30324,7 +30354,9 @@
       "lines": null
     },
     "notes": "FT8. The reference figure is the one R45-1-SPEED_DECIDES_THE_DODGE's row records (a plain .44 at about 235 m/s); R45-1 stands. R53-05-PROOF_PLATE frees the cause; CW17 is R71-26-COUNTING_ROUNDS_VIALS_CHARGES. The Speed Grade is the POV's read, an estimate under R70-88-NUMBERS_INSIDE_FIGHT. R11-3-BALLISTICS_RULING and R11-5-COMBAT_GUIDE_RANGE_OPENING are not named and stand. Option A, which would have restored the texture clause of R11-3-FIREARM_PROSE_LAW ('The gun is furniture, not spectacle'), was not taken; that row stays superseded by R53-05-PROOF_PLATE. Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: R70-88 is superseded; the Speed Grade read is an estimate in thought or speech, and figures stay in mouths.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-59-PRACTITIONERS_AS_ARTILLERY",
@@ -30405,7 +30437,7 @@
     "pack_number": null,
     "section": "FT10",
     "title": "The Mass Combat Guide gains drill, the spread and enhanced-shot companies",
-    "status": "live",
+    "status": "superseded",
     "kind": "consequential_edit",
     "summary": "The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.",
     "verbatim": "Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.",
@@ -30430,7 +30462,9 @@
       "lines": null
     },
     "notes": "FT10. Three sections taken; option C (field guns, rockets and the rare state-owned machine gun) was not taken. The enhanced-shot section gives R53-04-ENHANCED_SHOT its place in battle, and its 'priced, made and findable' reads with R45-5-PAID_PER_SHOT_AND_FINDABLE; both stand. The spread is Counterplay's doctrine, as the answer says. R53-03-FIREARM_CEILING, R59-12-TRANSITIONAL_MILITARY, R11-3-BALLISTICS_RULING, R1-4-PRECEDENCE_NOTE and R70-106-BATTLE_TOLD are not named and stand. Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: clean-up: a guide-edit order; its sections are tools, not per-battle musts.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-61-SIEGE_WITH_PRACTITIONERS_IT",
@@ -30541,7 +30575,7 @@
     "pack_number": null,
     "section": "FT14",
     "title": "The main in a fight: the cut, the burst main, short ground",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.",
     "verbatim": "Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.",
@@ -30566,7 +30600,9 @@
       "lines": null
     },
     "notes": "FT14. Three beats taken; option D (rail and the tram slot) was not taken. FOW's law decides the burst main and short ground; the question cites FOW Part Eleven for the density and reach law. R70-99-NUMBER_NOT_YET_CANON governs the burst main's marked estimate and R12-5-NEVER_INVENT_NUMBER the short ground's sources; both stand. R53-17-THE_BILL, R70-69-PRESSURE_AURA, R13-8-RECONSTRUCTIBLE_ADJUDICATION and R53-01-IMPERIAL_AGE_SPAN are not named and stand. Works with CW10 (R71-19-GROUND_WEATHER_FIGHT), whose environment row has Aetheric Density bend named stats. Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: any derived figure is written plainly with no mark, canon on use, and in a fight it lives in a mouth.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-65-RIVER_SEA_FIGHTS",
@@ -31636,7 +31672,7 @@
     "pack_number": null,
     "section": "WT4",
     "title": "Proofed shot strikes one Tier higher against worked armour",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.",
     "verbatim": "Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.",
@@ -31666,7 +31702,9 @@
       "lines": null
     },
     "notes": "WT4. Rules CONFLICTS C-001 (the RULINGS entry's preamble: 'WT4 rules CONFLICTS C-001'). Supersedes no row: the verbatim carries no words of replacement, and it keeps what R11-3-AMMO_TIERS says (Pack Eleven: proofed shot 'Defeats proofed plate'), now worked as one Tier higher on R46-3-ARMOUR_TIER_IS_ITS_PROOF's ladder; the question's 'This reopens R11-3-AMMO_TIERS' was answered for that row's claim, not against it. Notes go on R11-3-AMMO_TIERS (the named round is simply two over), R46-3-ARMOUR_TIER_IS_ITS_PROOF (a proofed round counts one Tier higher against worked armour) and R13-C ('R13-C kept': the out-coupling its ruling note names is that one Tier). R20C-22-AMMUNITION_TIERS_RATIFIED's ratification is unchanged, and R20C-26-STEEL_STOPS_THE_SHOT was already superseded by R13-C. R53-07-PRICE_TABLE is not amended (option A, which amended the price table's note, was not taken). The explanation ban C-001 first concerned, R11-3-FIREARM_PROSE_LAW, was superseded by R53-05-PROOF_PLATE; R71-102-WHERE_COMBAT_LAW_LANDS has NATALIE.md's stale combat lines rewritten, the C-001 line among them. Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: one item ladder decides out of sight: a named round strikes two Tiers over, makers graded by Tier of Standing.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-94-STALE_POUCH",
@@ -31674,7 +31712,7 @@
     "pack_number": null,
     "section": "WT5",
     "title": "A stale round fails mid-fight only on a planted tell",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.",
     "verbatim": "Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.",
@@ -31703,7 +31741,9 @@
       "lines": null
     },
     "notes": "WT5. Applies R48-30-SURPRISES (foreshadowing a player could have caught) to stale shot: the Ledger's date alone is not the warning (option A not taken), and staleness is not confined to the counter (option C not taken). Read with R45-5-PAID_PER_SHOT_AND_FINDABLE (paid per shot, every enhancement readable), R53-04-ENHANCED_SHOT and R53-07-PRICE_TABLE, whose approved table says a stale pouch is a loss nobody refunds. No older rule is changed.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R71-95-WARD_BREAKING",
@@ -41214,7 +41254,7 @@
   {
     "pack": "Directions 2026-11-04 (abilities and the world)",
     "pack_number": null,
-    "status": "live",
+    "status": "superseded",
     "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
     "source": {
       "file": "",
@@ -41237,7 +41277,9 @@
       "worldbuilding"
     ],
     "notes": "Clause (32) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-7-FAME_CRIERS"
+    ]
   },
   {
     "pack": "Directions 2026-11-04 (abilities and the world)",
@@ -41841,6 +41883,472 @@
       "codex"
     ],
     "notes": "Clause (9) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-1-HEADLINE",
+    "section": "medieval-setting-questionnaire",
+    "title": "WOTR described in its own words",
+    "kind": "definition",
+    "summary": "Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.",
+    "verbatim": "(1) Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "register",
+      "worldbuilding"
+    ],
+    "notes": "Clause (1) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-10-COMMON_PRACTITIONERS",
+    "section": "medieval-setting-questionnaire",
+    "title": "Practitioners are common, with sects and ranks",
+    "kind": "definition",
+    "summary": "Practitioners: common, closer to shonen. Fighters and cultivators are all over, with sects and ranks everyone knows.",
+    "verbatim": "(10) Practitioners: common, closer to shonen. Fighters and cultivators are all over, with sects and ranks everyone knows.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (10) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-11-ALL_EXPLAINED",
+    "section": "medieval-setting-questionnaire",
+    "title": "Everything is explained eventually",
+    "kind": "mandate",
+    "summary": "Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and it may be wrong, and a Measurewright will argue about it.",
+    "verbatim": "(11) Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and it may be wrong, and a Measurewright will argue about it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "notes": "Clause (11) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-12-POLITICAL_DEATHS",
+    "section": "medieval-setting-questionnaire",
+    "title": "Sudden deaths in politics, fair ones in fights",
+    "kind": "mandate",
+    "summary": "Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.",
+    "verbatim": "(12) Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "scene-structure",
+      "adjudication"
+    ],
+    "notes": "Clause (12) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-13-WIKI_REWRITE",
+    "section": "medieval-setting-questionnaire",
+    "title": "Rewrite the whole wiki now",
+    "kind": "procedure",
+    "summary": "The wiki: most of it is out of date on this, and it is rewritten whole, now.",
+    "verbatim": "(13) The wiki: most of it is out of date on this, and it is rewritten whole, now.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "documents",
+      "worldbuilding"
+    ],
+    "notes": "Clause (13) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-14-SCENES_REVISED",
+    "section": "medieval-setting-questionnaire",
+    "title": "Archived scenes lose the draw language",
+    "kind": "procedure",
+    "summary": "Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected scene file. This is the one exception to scenes staying unedited.",
+    "verbatim": "(14) Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected scene file. This is the one exception to scenes staying unedited.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "documents",
+      "session-protocol"
+    ],
+    "notes": "Clause (14) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-15-LAW_NOW",
+    "section": "medieval-setting-questionnaire",
+    "title": "This law stands now; the pilot is redone under it",
+    "kind": "procedure",
+    "summary": "Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.",
+    "verbatim": "(15) Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "session-protocol",
+      "character-sheet"
+    ],
+    "notes": "Clause (15) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-2-THREE_ARCS",
+    "section": "medieval-setting-questionnaire",
+    "title": "The storyline is the Dark Ages, in three arcs",
+    "kind": "definition",
+    "summary": "The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents. Arc Two is Cozbi, in the ruins. Arc Three is Kujo.",
+    "verbatim": "(2) The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents. Arc Two is Cozbi, in the ruins. Arc Three is Kujo.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "scene-structure"
+    ],
+    "notes": "Clause (2) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-3-MUKEN_AND_THE_SPLIT",
+    "section": "medieval-setting-questionnaire",
+    "title": "Muken predates the split and survives it",
+    "kind": "definition",
+    "summary": "The split: Muken lives before the great split of the continents and survives through it, and Malakar is the one who splits them.",
+    "verbatim": "(3) The split: Muken lives before the great split of the continents and survives through it, and Malakar is the one who splits them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (3) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-4-IMPERIAL_RENAISSANCE",
+    "section": "medieval-setting-questionnaire",
+    "title": "The Imperial Age is the Renaissance turn of the century",
+    "kind": "definition",
+    "summary": "The Imperial Age: not the 1800s or 1900s. It is the turn of the century in a Renaissance era, right after the Dark Ages, bringing banks and merchant houses, universities and anatomists, and full plate, pike and condottieri. No printing is established.",
+    "verbatim": "(4) The Imperial Age: not the 1800s or 1900s. It is the turn of the century in a Renaissance era, right after the Dark Ages, bringing banks and merchant houses, universities and anatomists, and full plate, pike and condottieri. No printing is established.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (4) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "supersedes": [
+      "R53-01-IMPERIAL_AGE_SPAN",
+      "R53-03-FIREARM_CEILING",
+      "R53-04-ENHANCED_SHOT",
+      "R53-05-PROOF_PLATE",
+      "R53-32-TECH_BY_EAR",
+      "R59-03-WIRE_AND_TELEPHONE",
+      "R59-04-VEHICLES",
+      "R59-10-HOUSEHOLD",
+      "R62-5-NO_COAL_BOILERS",
+      "R63-2-IMPERIAL_AGE_BEGAN_690",
+      "R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS",
+      "R61-131-IMPERIAL_AGE_BEGINS_NOW",
+      "R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE"
+    ],
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-5-NO_GUNS",
+    "section": "medieval-setting-questionnaire",
+    "title": "No guns, ever; crossbows take the role",
+    "kind": "ban",
+    "summary": "Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.",
+    "verbatim": "(5) Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "items",
+      "combat",
+      "worldbuilding"
+    ],
+    "notes": "Clause (5) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "supersedes": [
+      "R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED",
+      "R11-3-ARMOUR_STOPS_SHRINKING",
+      "R11-3-DUAL_ANSWER_SILHOUETTE",
+      "R11-3-BALLISTICS_RULING",
+      "R71-50-SHOT_MEETS_WORKED_CUIRASS",
+      "R71-52-AMBUSH_NAMED_ROUND",
+      "R71-58-ONE_SHOT_PRACTITIONER",
+      "R71-60-VOLLEY_SMOKE_DRILLED_LINE",
+      "R71-64-FIGHTING_MAIN",
+      "R71-93-PROOFED_SHOT_AGAINST_PROOFED",
+      "R71-94-STALE_POUCH"
+    ],
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-6-MAGIC_EVERYWHERE",
+    "section": "medieval-setting-questionnaire",
+    "title": "Magic everywhere; old works are ruins, relics and survivors",
+    "kind": "definition",
+    "summary": "Magic and old works: magic is everywhere, a mixture of Final Fantasy and Tolkien. Old works exist from the Great Spirit War and the days of the Physical Epochs, when Bara, Ashura and Aegor walked in human form: dead, dangerous battlefields, relics people kill for, and old beings who remember.",
+    "verbatim": "(6) Magic and old works: magic is everywhere, a mixture of Final Fantasy and Tolkien. Old works exist from the Great Spirit War and the days of the Physical Epochs, when Bara, Ashura and Aegor walked in human form: dead, dangerous battlefields, relics people kill for, and old beings who remember.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (6) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-7-FAME_CRIERS",
+    "section": "medieval-setting-questionnaire",
+    "title": "Fame travels by criers, ballads and bounty boards",
+    "kind": "definition",
+    "summary": "Fame: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, and bookies still take odds.",
+    "verbatim": "(7) Fame: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, and bookies still take odds.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (7) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "supersedes": [
+      "R82-32-PUBLIC_FAME"
+    ],
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-8-DAILY_MAGIC_CRAFT",
+    "section": "medieval-setting-questionnaire",
+    "title": "Daily magic is a trade people do with their hands",
+    "kind": "definition",
+    "summary": "Daily magic: living people and their crafts. Guild craftsmen, hedge-workers and petty folk arts do it with their hands, so it costs money and someone can refuse.",
+    "verbatim": "(8) Daily magic: living people and their crafts. Guild craftsmen, hedge-workers and petty folk arts do it with their hands, so it costs money and someone can refuse.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (8) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the Dark Ages)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R83-9-CULTIVATION",
+    "section": "medieval-setting-questionnaire",
+    "title": "No draw; Aether is pulled from the environment",
+    "kind": "definition",
+    "summary": "Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.",
+    "verbatim": "(9) Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME, THE TONE",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "worldbuilding"
+    ],
+    "notes": "Clause (9) of the RULINGS.md paragraph \"The Dark Ages\" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.",
+    "supersedes": [
+      "R11-1-REPLACEMENT_REGISTER",
+      "R11-2-SILHOUETTE"
+    ],
     "superseded_by": []
   },
   {
@@ -49828,7 +50336,7 @@
     "pack_number": 11,
     "section": "§1",
     "title": "The Draw-Age visual register",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The new visual register is an imperial age built on a resource nobody can see, administered by a measuring guild, defended by men in proofed plate carrying both sword and firearm.",
     "verbatim": "An imperial age built on a resource nobody can see, administered by a guild that measures it, defended by men in proofed plate who carry both a sword and a firearm because each answers a different threat.",
@@ -49850,7 +50358,9 @@
       "lines": "18"
     },
     "notes": "Stands: the style law rewrites R11-1 as to how the page sounds (R70-1, R70-7; R11-1-TONAL_SPINE_UNCHANGED, superseded), not the Draw Age look; R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians because they fit \"the Draw Age's Victorian look\".",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-9-CULTIVATION"
+    ]
   },
   {
     "id": "R11-1-TONAL_SPINE_UNCHANGED",
@@ -50016,7 +50526,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "The Draw-Age silhouette, sensory texture",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.",
     "verbatim": "Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.",
@@ -50033,7 +50543,9 @@
       "lines": "42"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R83-9-CULTIVATION"
+    ]
   },
   {
     "id": "R11-2-VOCABULARY_TIERS",
@@ -50108,7 +50620,7 @@
     "pack_number": 11,
     "section": "§3",
     "title": "Why plate stops shrinking in WOTR",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Shot is chemically cheap and does not care about a soul; a working is not shot, so mass and material still buy a fraction of a second against a Wellspring-carried strike, which is why armour retreats to the cuirass-and-helm silhouette and stops there.",
     "verbatim": "Shot is chemically cheap and does not care what a man's soul is doing. A working is not shot. Against a Wellspring-carried strike, mass and material still buy the fraction of a second in which a man can be somewhere else. So armour retreats to the historical cuirass-and-helm silhouette and then stops there, because the last article you would take off is the one standing between your chest and something that was not there a moment ago.",
@@ -50132,7 +50644,9 @@
       "lines": "65"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R11-3-BALLISTICS_RULING",
@@ -50140,7 +50654,7 @@
     "pack_number": 11,
     "section": "§3",
     "title": "Powder weapons open an engagement, they do not decide one",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.",
     "verbatim": "Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.",
@@ -50164,7 +50678,9 @@
       "lines": "69"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R11-3-DUAL_ANSWER_SILHOUETTE",
@@ -50172,7 +50688,7 @@
     "pack_number": 11,
     "section": "§3",
     "title": "Every armed man carries sword and firearm",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The silhouette is coat, breast, helm, sword and firearm; every armed man carries at least two answers because there are at least two questions, which is why the Combat Craft Guide survives intact — Liechtenauer and Fiore still govern inside twenty feet.",
     "verbatim": "Result: the silhouette is coat, breast, helm, sword, and firearm. Every armed man carries at least two answers because there are at least two questions. This is why the Combat Craft Guide survives intact. Liechtenauer and Fiore still govern. Inside twenty feet a discharged firearm is a club and the sword is the thing that finishes it.",
@@ -50196,7 +50712,9 @@
       "lines": "67"
     },
     "notes": "Amended 2026-10-17 by R79-6-FIGHTS_ON_THE_PAGE: clean-up: Liechtenauer and Fiore name the Blade grammar's sources only; on the page the moves are plain body actions (R77-1).",
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R11-3-FIREARM_PROSE_LAW",
@@ -50239,7 +50757,7 @@
     "pack_number": 11,
     "section": "§3",
     "title": "Gunpowder, magic and armour all coexist",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Gunpowder exists, magical weapons exist, and armour is not dead.",
     "verbatim": "Confirmed by Isaac's direction: gunpowder exists. Magical weapons exist. Armour is not dead.",
@@ -50257,7 +50775,9 @@
       "lines": "57"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R83-5-NO_GUNS"
+    ]
   },
   {
     "id": "R11-3-PROOF_MARKS_CANON",

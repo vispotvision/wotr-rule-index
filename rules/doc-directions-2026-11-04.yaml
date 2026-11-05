@@ -719,7 +719,7 @@ rules:
   notes: Clause (31) of the RULINGS.md paragraph "Abilities and the world" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.
 - pack: Directions 2026-11-04 (abilities and the world)
   pack_number: null
-  status: live
+  status: superseded
   ratified: 'Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md'
   source:
     file: ''

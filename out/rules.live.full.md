@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1472 live of 1857 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1460 live of 1872 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (150)
+## adjudication (145)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -57,12 +57,6 @@ Every technique was derived by somebody for a specific problem; a documented tec
 Pack Six's Apparatus Rule one-read-per-scene cap is struck; a faculty may now read as often as the scene needs, replaced by a cost — a read occupies attention, and the scene shows what the reading cost the reader in tempo.
 
 > Struck: the Apparatus Rule's one-read-per-scene cap. A faculty may now read as often as the scene needs. Replaced by a cost: a read occupies attention, and a character reading is a character who is doing nothing else. Show what the reading cost him in tempo.
-
-### R11-3-BALLISTICS_RULING [Pack Eleven §3]
-
-Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.
-
-> Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
 
 ### R11-4-DIRECTION_AXIS [Pack Eleven §4]
 
@@ -334,12 +328,6 @@ When two Domains meet in a duel, show the seam between the two laws in the room 
 
 > The moving border. The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.
 
-### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
-
-When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
-
-> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
-
 ### R71-54-BOUTS_AETHERION [Combat Law 2026-10-04 FT4]
 
 Chalk each sanctioned bout's terms before it starts (yield, ring-out, a wound by class); fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
@@ -358,29 +346,11 @@ A fight with a Well-spawn or other beast may be written as a hunt won at the sha
 
 > Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene); Phases at the tie (A beast's fight turns (a boss phase: the monster changing form mid-fight) only at a lever canon gives it: its tie cut, its Wellspring's failure induced. The rung drops on the page; an untraceable phase fails R13-8). Not taken: A duel with a beast.
 
-### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
-
-Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
-
-> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
-
-### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
-
-The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
-
-> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
-
 ### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
 
 Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever runs dry first losing, the running total kept in the notes) and by the quarry's route read against the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map deciding while the reserve still runs; the crowd-and-law shape was not taken.
 
 > Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88)); The quarry's route (The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not taken: The crowd and the law.
-
-### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
-
-Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
-
-> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
 
 ### R71-67-CLEAR_WARNING_BEFORE_LOSS [Combat Law 2026-10-04 FT17]
 
@@ -441,12 +411,6 @@ Fight a revenant as a body on habit: anatomy stops the motion (a cut hamstring d
 Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
 
 > Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
-
-### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
-
-Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
-
-> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
 
 ### R71-96-WELL_AS_GROUND [Combat Law 2026-10-04 WT7]
 
@@ -513,6 +477,12 @@ Calling a release aloud gives the full rise; a silent release is possible and we
 The user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it; a Third Release fills the cap alone.
 
 > (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
+
+### R83-12-POLITICAL_DEATHS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.
+
+> (12) Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -904,7 +874,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (261)
+## character-sheet (262)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1734,6 +1704,12 @@ Old names: archived scenes are not edited. A renamed move's old name becomes wha
 
 > (47) Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.
 
+### R83-15-LAW_NOW [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.
+
+> (15) Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -2475,7 +2451,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (115)
+## codex (114)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2644,12 +2620,6 @@ A What nobody knows question is never answered as fact; any proposed answer is p
 The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 
 > [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
-
-### R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE [Alchemy Conversion Questionnaire 2026-09-28 K1]
-
-Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.
-
-> The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).
 
 ### R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 K2]
 
@@ -3167,7 +3137,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (227)
+## combat (218)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3288,30 +3258,6 @@ A practitioner explains exactly what he is doing to his target while doing it, b
 In the Combat Craft Guide, the read is now shown at length rather than summarised, and the three-layer hit model is rendered as explanation, not only as phenomena.
 
 > WOTR_Combat_Craft_Guide.md. The read is now shown at length, no longer summarised. The three-layer hit model is rendered as explanation and no longer only as phenomena.
-
-### R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED [Pack Eleven §3]
-
-Gunpowder exists, magical weapons exist, and armour is not dead.
-
-> Confirmed by Isaac's direction: gunpowder exists. Magical weapons exist. Armour is not dead.
-
-### R11-3-ARMOUR_STOPS_SHRINKING [Pack Eleven §3]
-
-Shot is chemically cheap and does not care about a soul; a working is not shot, so mass and material still buy a fraction of a second against a Wellspring-carried strike, which is why armour retreats to the cuirass-and-helm silhouette and stops there.
-
-> Shot is chemically cheap and does not care what a man's soul is doing. A working is not shot. Against a Wellspring-carried strike, mass and material still buy the fraction of a second in which a man can be somewhere else. So armour retreats to the historical cuirass-and-helm silhouette and then stops there, because the last article you would take off is the one standing between your chest and something that was not there a moment ago.
-
-### R11-3-DUAL_ANSWER_SILHOUETTE [Pack Eleven §3]
-
-The silhouette is coat, breast, helm, sword and firearm; every armed man carries at least two answers because there are at least two questions, which is why the Combat Craft Guide survives intact — Liechtenauer and Fiore still govern inside twenty feet.
-
-> Result: the silhouette is coat, breast, helm, sword, and firearm. Every armed man carries at least two answers because there are at least two questions. This is why the Combat Craft Guide survives intact. Liechtenauer and Fiore still govern. Inside twenty feet a discharged firearm is a club and the sword is the thing that finishes it.
-
-### R11-3-BALLISTICS_RULING [Pack Eleven §3]
-
-Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.
-
-> Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
 
 ### R11-5-COMBAT_GUIDE_RANGE_OPENING [Pack Eleven §5]
 
@@ -3769,23 +3715,11 @@ A Native summon, having its own Crystal, takes a display beat of its own, while 
 
 > Native summons earn one. A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.
 
-### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
-
-When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
-
-> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
-
 ### R71-51-SKIRMISH_THREE_TEN [Combat Law 2026-10-04 FT1]
 
 In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count of who still stands stays in her head, never printed as figures.
 
 > Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
-
-### R71-52-AMBUSH_NAMED_ROUND [Combat Law 2026-10-04 FT2]
-
-Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.
-
-> Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.
 
 ### R71-53-BRAWLS_FOLK_SCHOOLS [Combat Law 2026-10-04 FT3]
 
@@ -3817,12 +3751,6 @@ When a coil or a trained eye appraises a beast, the tape prints its rung and its
 
 > Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).
 
-### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
-
-Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
-
-> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
-
 ### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
 
 Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever runs dry first losing, the running total kept in the notes) and by the quarry's route read against the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map deciding while the reserve still runs; the crowd-and-law shape was not taken.
@@ -3834,12 +3762,6 @@ Decide a chase by the reserve race (every burst of speed spent, both bodies payi
 For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled, where, what it means) with tempo words following the nose; ears and tail move before the fighter decides, and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying on Essence discharge only; lineage on the appraisal was not taken.
 
 > Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.
-
-### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
-
-Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
-
-> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
 
 ### R71-65-RIVER_SEA_FIGHTS [Combat Law 2026-10-04 FT15]
 
@@ -3936,18 +3858,6 @@ In a fight the narration calls a weapon whatever the POV calls it (a Kharven rid
 Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
 
 > Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
-
-### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
-
-Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
-
-> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
-
-### R71-94-STALE_POUCH [Combat Law 2026-10-04 WT5]
-
-A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.
-
-> Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
 
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
@@ -4260,6 +4170,12 @@ Regions: each place has signature moves, naming habits, costumes and jokes about
 Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
 
 > (43) Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
+
+### R83-5-NO_GUNS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
+
+> (5) Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
 
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -5685,7 +5601,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (112)
+## documents (110)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -5734,12 +5650,6 @@ Rewrite an ability entry still in the field format into the paragraph shape the 
 Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
-
-### R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE [Alchemy Conversion Questionnaire 2026-09-28 K1]
-
-Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.
-
-> The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).
 
 ### R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 K2]
 
@@ -5993,12 +5903,6 @@ The investigator names the circle's ink as Gravetide Ink only when the Genesio a
 
 > Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.
 
-### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
-
-The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
-
-> The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
-
 ### R64-1-VOL1_IS_MUJIN_MEMOIR_696 [Alftian Codex Volume I Ratification 2026-09-28 vol1 1]
 
 Volume I is Mu-jin's memoir, deposited 696 IC; his reads are canon, his errors stay errors.
@@ -6065,18 +5969,6 @@ Date by IC, read as years In Concordance from the sealing of the Concord Codex; 
 
 > The count keeps its label: IC means 'In Concordance', years counted from the sealing of the Concord Codex. Pages keep their IC dates; only the Concordance and the lines that call the count 'the Imperial Age' change.
 
-### R63-2-IMPERIAL_AGE_BEGAN_690 [Calendar Follow-up 2026-09-28 calendar 2]
-
-The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
-
-> The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
-
-### R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS [Calendar Follow-up 2026-09-28 calendar 3]
-
-The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
-
-> The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
-
 ### R71-57-APPRAISING_BEAST [Combat Law 2026-10-04 FT7]
 
 When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of the scene's three readouts.
@@ -6136,6 +6028,18 @@ Entry shape: the hook, then the named moves, then how it really works. The fun r
 Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.
 
 > (42) Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.
+
+### R83-13-WIKI_REWRITE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+The wiki: most of it is out of date on this, and it is rewritten whole, now.
+
+> (13) The wiki: most of it is out of date on this, and it is rewritten whole, now.
+
+### R83-14-SCENES_REVISED [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected scene file. This is the one exception to scenes staying unedited.
+
+> (14) Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected scene file. This is the one exception to scenes staying unedited.
 
 ### R67-1-FARRANT_PAPERS_AUTHOR [The Farrant Papers Ratification 2026-09-28 papers 1]
 
@@ -6359,7 +6263,7 @@ When a scene with other players is archived, the Judger marks each canon break s
 
 > The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
 
-## items (95)
+## items (85)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6397,35 +6301,11 @@ A machine is a conduit retuned to a current (phase-locking, not restricted to so
 
 > Apparatus harmonizes the way a practitioner does. Phase-locking is the canon mechanism and it is not restricted to souls. A machine is a conduit retuned to a current. Therefore every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology straight off the Environmental Coupling table.
 
-### R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED [Pack Eleven §3]
-
-Gunpowder exists, magical weapons exist, and armour is not dead.
-
-> Confirmed by Isaac's direction: gunpowder exists. Magical weapons exist. Armour is not dead.
-
 ### R11-3-PROOF_MARKS_CANON [Pack Eleven §3]
 
 A dented cuirass is certified rather than damaged; soldiers read a proof-dent the way Kharven reads a forearm grip, and a shallow proof-dent signals a light charge and what that means about the man wearing it.
 
 > Proof-marks are canon texture from this pack forward. A dented cuirass is certified rather than damaged, and a soldier reads another soldier's dent the way Kharven reads a forearm grip. Armour whose proof-dent is shallow was proofed with a light charge, and everyone knows what that means about the man wearing it.
-
-### R11-3-ARMOUR_STOPS_SHRINKING [Pack Eleven §3]
-
-Shot is chemically cheap and does not care about a soul; a working is not shot, so mass and material still buy a fraction of a second against a Wellspring-carried strike, which is why armour retreats to the cuirass-and-helm silhouette and stops there.
-
-> Shot is chemically cheap and does not care what a man's soul is doing. A working is not shot. Against a Wellspring-carried strike, mass and material still buy the fraction of a second in which a man can be somewhere else. So armour retreats to the historical cuirass-and-helm silhouette and then stops there, because the last article you would take off is the one standing between your chest and something that was not there a moment ago.
-
-### R11-3-DUAL_ANSWER_SILHOUETTE [Pack Eleven §3]
-
-The silhouette is coat, breast, helm, sword and firearm; every armed man carries at least two answers because there are at least two questions, which is why the Combat Craft Guide survives intact — Liechtenauer and Fiore still govern inside twenty feet.
-
-> Result: the silhouette is coat, breast, helm, sword, and firearm. Every armed man carries at least two answers because there are at least two questions. This is why the Combat Craft Guide survives intact. Liechtenauer and Fiore still govern. Inside twenty feet a discharged firearm is a club and the sword is the thing that finishes it.
-
-### R11-3-BALLISTICS_RULING [Pack Eleven §3]
-
-Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.
-
-> Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
 
 ### R10-3-PROJECTED_FORM_LICENSE [Pack Ten PART THREE]
 
@@ -6571,35 +6451,11 @@ Cards, ability entries, items, lore, in-world documents and exports print stats,
 
 > Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.
 
-### R63-2-IMPERIAL_AGE_BEGAN_690 [Calendar Follow-up 2026-09-28 calendar 2]
-
-The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
-
-> The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
-
 ### R71-26-COUNTING_ROUNDS_VIALS_CHARGES [Combat Law 2026-10-04 CW17]
 
 Let the page keep count of rounds, vials and charges exactly as the POV does, a trained hand's count kept and a panicked or untrained man's lost, while stats and the reserve stay under R70-88.
 
 > Counted as the POV counts. A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.
-
-### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
-
-When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
-
-> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
-
-### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
-
-Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
-
-> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
-
-### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
-
-The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
-
-> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
 
 ### R71-73-PREPARED_LIVE_FIGHT [Combat Law 2026-10-04 AL4]
 
@@ -6685,18 +6541,6 @@ Unworked armour meets a strike by its physics (mail turns the cut, not the thrus
 
 > Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
 
-### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
-
-Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
-
-> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
-
-### R71-94-STALE_POUCH [Combat Law 2026-10-04 WT5]
-
-A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.
-
-> Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
-
 ### R78-9-SYSTEM_TOUCHUPS [Directions 2026-10-14 system-touchups-questionnaire]
 
 Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
@@ -6732,6 +6576,12 @@ Gear: top pieces have names, reputations and past owners the public knows, on th
 Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
 
 > (37) Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
+
+### R83-5-NO_GUNS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
+
+> (5) Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
 
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -6804,12 +6654,6 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 Appendix I is Furveus's protocol as modified; Appendix II answers Volume III.
 
 > Appendix I is Furveus's stabilisation protocol as Malphas modified it for Mortalis work, with its doses of white arsenic and calomel; Appendix II answers the third volume of Kwon Mu-jin's Codex.
-
-### R62-5-NO_COAL_BOILERS [Open Conflicts 2026-09-28 C-103]
-
-Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.
-
-> The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.
 
 ### R54-38-BLEND_FAMILY_MAY_DIFFER [Queue Questionnaire 2026-09-26 WAR-146]
 
@@ -6931,7 +6775,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (158)
+## magic-design (159)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7635,6 +7479,12 @@ Rewrite freedom: anything shown in an archived scene stays true. Each kit gets o
 
 > (46) Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.
 
+### R83-9-CULTIVATION [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
+
+> (9) Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
+
 ### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
 
 Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
@@ -7881,7 +7731,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (278)
+## magic-mechanism (277)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8843,12 +8693,6 @@ A Native summon, having its own Crystal, takes a display beat of its own, while 
 
 > Native summons earn one. A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.
 
-### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
-
-When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
-
-> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
-
 ### R71-56-SHAPE_MONSTER_FIGHT [Combat Law 2026-10-04 FT6]
 
 A fight with a Well-spawn or other beast may be written as a hunt won at the shaft head (reading the draw, choosing the entry's counter, laying out the kit, then a short kill), and it may turn in phases only at a lever canon gives the beast (its tie cut, its Wellspring's failure induced), the rung dropping on the page and an untraceable phase failing R13-8; the duel-with-a-beast shape was not taken.
@@ -8866,12 +8710,6 @@ Show a high-Stage practitioner in battle as a battery: an ordinary commander dir
 For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled, where, what it means) with tempo words following the nose; ears and tail move before the fighter decides, and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying on Essence discharge only; lineage on the appraisal was not taken.
 
 > Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.
-
-### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
-
-Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
-
-> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
 
 ### R71-70-BENCH_WORK_PAGE [Combat Law 2026-10-04 AL1]
 
@@ -8932,12 +8770,6 @@ Write an impression-body exactly as the living man through the mourner's eyes, w
 Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
 
 > Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
-
-### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
-
-Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
-
-> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
 
 ### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
 
@@ -9106,6 +8938,18 @@ Price: reserve and body tells stay, and a big art also carries a strange persona
 Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
 
 > (24) Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
+
+### R83-9-CULTIVATION [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
+
+> (9) Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
+
+### R83-11-ALL_EXPLAINED [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and it may be wrong, and a Measurewright will argue about it.
+
+> (11) Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and it may be wrong, and a Measurewright will argue about it.
 
 ### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
 
@@ -9554,7 +9398,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (43)
+## mass-combat (42)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -9742,12 +9586,6 @@ Show a high-Stage practitioner in battle as a battery: an ordinary commander dir
 
 > Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.
 
-### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
-
-The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
-
-> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
-
 ### R71-61-SIEGE_WITH_PRACTITIONERS_IT [Combat Law 2026-10-04 FT11]
 
 In a siege, a ward failing joins the sortie, the mine and the storm as a Close Register break: sudden, seen from a POV on the wall, and over fast, with the Line Register resuming after.
@@ -9814,7 +9652,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (206)
+## naming (205)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -10109,12 +9947,6 @@ God-Essence means Wellspring Essence treated as divine and adds no metaphysics: 
 Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
 
 > Write back and register. Both cards gain the events, checked by the lore-writing pass; the registry gains Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames; casting entries follow.
-
-### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
-
-The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
-
-> The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
 
 ### R64-2-VOL1_TITLE_GAMEUNG_NOK [Alftian Codex Volume I Ratification 2026-09-28 vol1 2]
 
@@ -11052,7 +10884,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (170)
+## pov (169)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -11281,12 +11113,6 @@ When top-ladder practitioners fight in a city, carry the scale by one marked dip
 In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count of who still stands stays in her head, never printed as figures.
 
 > Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
-
-### R71-52-AMBUSH_NAMED_ROUND [Combat Law 2026-10-04 FT2]
-
-Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.
-
-> Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.
 
 ### R71-59-PRACTITIONERS_AS_ARTILLERY [Combat Law 2026-10-04 FT9]
 
@@ -14128,7 +13954,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (186)
+## register (187)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -14615,6 +14441,12 @@ System words: ordinary fighters use vivid local slang, and Measurewrights, Guild
 Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
 
 > (43) Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
+
+### R83-1-HEADLINE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.
+
+> (1) Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -15386,12 +15218,6 @@ In a skirmish (three to ten fighters, no formation) the POV's own exchanges carr
 
 > Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
 
-### R71-52-AMBUSH_NAMED_ROUND [Combat Law 2026-10-04 FT2]
-
-Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.
-
-> Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.
-
 ### R71-54-BOUTS_AETHERION [Combat Law 2026-10-04 FT4]
 
 Chalk each sanctioned bout's terms before it starts (yield, ring-out, a wound by class); fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
@@ -15451,12 +15277,6 @@ Play a residue reading's protocol as action (the pair, the stands and the withdr
 Show a corrupt alchemist's signs as standing tells in his body (planted before any reveal), in his bench work and in his technique, at most one sign a scene across the three, and write the Shear Break as its own event, the fall shown whole in body and work.
 
 > Yes to: Signs in the body (The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does); Signs in technique (A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights); The break as an event (When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page).
-
-### R71-94-STALE_POUCH [Combat Law 2026-10-04 WT5]
-
-A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.
-
-> Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
 
 ### R71-99-BILL_AFTER_FIGHT [Combat Law 2026-10-04 WT10]
 
@@ -15565,6 +15385,18 @@ When a continue reaches a real PC decision, Natalie carries him through it by ca
 Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.
 
 > (27) Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.
+
+### R83-2-THREE_ARCS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents. Arc Two is Cozbi, in the ruins. Arc Three is Kujo.
+
+> (2) The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents. Arc Two is Cozbi, in the ruins. Arc Three is Kujo.
+
+### R83-12-POLITICAL_DEATHS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.
+
+> (12) Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.
 
 ### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
 
@@ -16064,7 +15896,7 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 
 > Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
 
-## session-protocol (108)
+## session-protocol (110)
 
 ### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
 
@@ -16269,6 +16101,18 @@ New moves: Natalie may create and name an NPC's new move mid-fight, canon on use
 Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
 
 > (45) Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
+
+### R83-14-SCENES_REVISED [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected scene file. This is the one exception to scenes staying unedited.
+
+> (14) Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected scene file. This is the one exception to scenes staying unedited.
+
+### R83-15-LAW_NOW [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.
+
+> (15) Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -16714,7 +16558,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (85)
+## standing-inventory (78)
 
 ### R20C-48-ZETTARI_THIN_GROUND [Pack Twenty R20C-48]
 
@@ -16733,12 +16577,6 @@ A character's metaphors and idiom must come from their own life and trade, not f
 The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
 
 > The Standing Inventory as a texture source. Kharven's woodpile and night-stone are interesting; that is why they stay. Nothing about them is a register rule.
-
-### R11-2-SILHOUETTE [Pack Eleven §2]
-
-No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
-
-> Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.
 
 ### R11-3-PROOF_MARKS_CANON [Pack Eleven §3]
 
@@ -16859,12 +16697,6 @@ Every rhythm, sentence-length and count rule retires; a revelation may take a sh
 Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
 
 > Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
-
-### R59-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
-
-> Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -17064,35 +16896,11 @@ Amend only the naming rows the comic-name answers bend, each in one line naming 
 
 > Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)
 
-### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
-
-The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into th...
-
-> The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is".)
-
 ### R53-02-POOR_FIRES [World Texture Law 2026-09-26 World texture]
 
 A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
 
 > A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
-
-### R53-03-FIREARM_CEILING [World Texture Law 2026-09-26 World texture]
-
-The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
-
-> The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
-
-### R53-04-ENHANCED_SHOT [World Texture Law 2026-09-26 World texture]
-
-Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
-
-> Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
-
-### R53-05-PROOF_PLATE [World Texture Law 2026-09-26 World texture]
-
-Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
-
-> Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
 
 ### R53-06-WELL_SPAWN [World Texture Law 2026-09-26 World texture]
 
@@ -17220,13 +17028,7 @@ Each culture's Standing Inventory gets a 'Gone' list of three to five named lost
 
 > Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
 
-### R53-32-TECH_BY_EAR [World Texture Law 2026-09-26 World texture]
-
-No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
-
-> No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
-
-## stats (200)
+## stats (199)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -17671,12 +17473,6 @@ A practitioner's faculty prints an opponent's exact figures when his Gnosis Perc
 When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of the scene's three readouts.
 
 > Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).
-
-### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
-
-Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
-
-> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
 
 ### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
 
@@ -19015,7 +18811,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (374)
+## worldbuilding (365)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -19137,12 +18933,6 @@ The grounded Berserk/Vinland Saga visual North Star in the Visual Aesthetic Guid
 
 > Confirmed by Isaac's direction. The grounded Berserk / Vinland Saga visual North Star in the Visual Aesthetic Guide is retired. It was a mud-and-mail costume on a world that files paperwork about magic.
 
-### R11-1-REPLACEMENT_REGISTER [Pack Eleven §1]
-
-The new visual register is an imperial age built on a resource nobody can see, administered by a measuring guild, defended by men in proofed plate carrying both sword and firearm.
-
-> An imperial age built on a resource nobody can see, administered by a guild that measures it, defended by men in proofed plate who carry both a sword and a firearm because each answers a different threat.
-
 ### R11-2-HYDROLOGY_MODEL [Pack Eleven §2]
 
 The technological age runs on Wellsprings as standing currents that pool where substrate/competing-currents/time allow, per The Mechanism of the Sixty; nobody built an engine, they sank a well.
@@ -19167,41 +18957,17 @@ Old World veins are worked; New World veins are pristine; colonial expansion has
 
 > Drawdown is the imperial motive. Old World veins are worked. The New World's are pristine at densities the Old World has not seen since the Antediluvian Calendar, because nobody has been drawing. Colonial expansion with a hydrological cause.
 
-### R11-2-SILHOUETTE [Pack Eleven §2]
-
-No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
-
-> Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.
-
 ### R11-2-MEASUREWRIGHTS [Pack Eleven §2]
 
 The Guild of Measurewrights (Hexagonal Oath, in concurrence with Research & Archives) wrote the address down but does not explain the mechanism.
 
 > The Measurewrights are the order that maintains it. Guild of Measurewrights, under the Hexagonal Oath, already canon, already in concurrence with Research & Archives. They wrote the address down. They do not explain it, and Pack Seven means they never will.
 
-### R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED [Pack Eleven §3]
-
-Gunpowder exists, magical weapons exist, and armour is not dead.
-
-> Confirmed by Isaac's direction: gunpowder exists. Magical weapons exist. Armour is not dead.
-
 ### R11-3-PROOF_MARKS_CANON [Pack Eleven §3]
 
 A dented cuirass is certified rather than damaged; soldiers read a proof-dent the way Kharven reads a forearm grip, and a shallow proof-dent signals a light charge and what that means about the man wearing it.
 
 > Proof-marks are canon texture from this pack forward. A dented cuirass is certified rather than damaged, and a soldier reads another soldier's dent the way Kharven reads a forearm grip. Armour whose proof-dent is shallow was proofed with a light charge, and everyone knows what that means about the man wearing it.
-
-### R11-3-ARMOUR_STOPS_SHRINKING [Pack Eleven §3]
-
-Shot is chemically cheap and does not care about a soul; a working is not shot, so mass and material still buy a fraction of a second against a Wellspring-carried strike, which is why armour retreats to the cuirass-and-helm silhouette and stops there.
-
-> Shot is chemically cheap and does not care what a man's soul is doing. A working is not shot. Against a Wellspring-carried strike, mass and material still buy the fraction of a second in which a man can be somewhere else. So armour retreats to the historical cuirass-and-helm silhouette and then stops there, because the last article you would take off is the one standing between your chest and something that was not there a moment ago.
-
-### R11-3-DUAL_ANSWER_SILHOUETTE [Pack Eleven §3]
-
-The silhouette is coat, breast, helm, sword and firearm; every armed man carries at least two answers because there are at least two questions, which is why the Combat Craft Guide survives intact — Liechtenauer and Fiore still govern inside twenty feet.
-
-> Result: the silhouette is coat, breast, helm, sword, and firearm. Every armed man carries at least two answers because there are at least two questions. This is why the Combat Craft Guide survives intact. Liechtenauer and Fiore still govern. Inside twenty feet a discharged firearm is a club and the sword is the thing that finishes it.
 
 ### R11-4-WELLS_ORIGIN [Pack Eleven §4]
 
@@ -19389,12 +19155,6 @@ With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every l
 
 > With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
 
-### R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE [Alchemy Conversion Questionnaire 2026-09-28 K1]
-
-Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.
-
-> The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).
-
 ### R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 K2]
 
 Treat the Heresiology as a recent Accord manual drawn from these events: its five cases stand word for word, the texts' events end some years before it in Mu-jin's past, and Case II's compelled author is Malphas.
@@ -19544,12 +19304,6 @@ God-Essence means Wellspring Essence treated as divine and adds no metaphysics: 
 'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.
 
 > An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.
-
-### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
-
-The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
-
-> The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
 
 ### R64-1-VOL1_IS_MUJIN_MEMOIR_696 [Alftian Codex Volume I Ratification 2026-09-28 vol1 1]
 
@@ -19755,18 +19509,6 @@ Date by IC, read as years In Concordance from the sealing of the Concord Codex; 
 
 > The count keeps its label: IC means 'In Concordance', years counted from the sealing of the Concord Codex. Pages keep their IC dates; only the Concordance and the lines that call the count 'the Imperial Age' change.
 
-### R63-2-IMPERIAL_AGE_BEGAN_690 [Calendar Follow-up 2026-09-28 calendar 2]
-
-The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
-
-> The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
-
-### R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS [Calendar Follow-up 2026-09-28 calendar 3]
-
-The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
-
-> The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
-
 ### R71-19-GROUND_WEATHER_FIGHT [Combat Law 2026-10-04 CW10]
 
 Give the adjudication table an environment row in which footing, light, cold, wet and Aetheric Density bend named stats, named in the author notes, and open every planned duel with the fighters reading or choosing ground that then decides at least one exchange.
@@ -19796,18 +19538,6 @@ Pressure between practitioners keeps the Stage-gap ladder, while a person with n
 A practitioner holding his Pressure in pays in named places of his body (jaw, collar, temper) at a cost that grows with the approach, leaks faintly into the room for a sharp eye or good Gnosis to catch, and leaves a sag on a gauge or coil.
 
 > Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).
-
-### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
-
-The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
-
-> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
-
-### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
-
-Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
-
-> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
 
 ### R71-65-RIVER_SEA_FIGHTS [Combat Law 2026-10-04 FT15]
 
@@ -20139,12 +19869,6 @@ Scale: walls, then streets, then rivers and mountains. Top-tier fights leave sca
 
 > (31) Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.
 
-### R82-32-PUBLIC_FAME [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
-
-Fame: broadsheets print rankings and wanted bills and bookies take odds. Fame changes prices, doors and who comes for you.
-
-> (32) Fame: broadsheets print rankings and wanted bills and bookies take odds. Fame changes prices, doors and who comes for you.
-
 ### R82-33-LEGENDARY_ARTS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
 
 Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.
@@ -20193,6 +19917,78 @@ Villains: each group has a shared motif, and each member's concept shows what th
 
 > (41) Villains: each group has a shared motif, and each member's concept shows what they believe and did.
 
+### R83-1-HEADLINE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.
+
+> (1) Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.
+
+### R83-2-THREE_ARCS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents. Arc Two is Cozbi, in the ruins. Arc Three is Kujo.
+
+> (2) The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents. Arc Two is Cozbi, in the ruins. Arc Three is Kujo.
+
+### R83-3-MUKEN_AND_THE_SPLIT [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+The split: Muken lives before the great split of the continents and survives through it, and Malakar is the one who splits them.
+
+> (3) The split: Muken lives before the great split of the continents and survives through it, and Malakar is the one who splits them.
+
+### R83-4-IMPERIAL_RENAISSANCE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+The Imperial Age: not the 1800s or 1900s. It is the turn of the century in a Renaissance era, right after the Dark Ages, bringing banks and merchant houses, universities and anatomists, and full plate, pike and condottieri. No printing is established.
+
+> (4) The Imperial Age: not the 1800s or 1900s. It is the turn of the century in a Renaissance era, right after the Dark Ages, bringing banks and merchant houses, universities and anatomists, and full plate, pike and condottieri. No printing is established.
+
+### R83-5-NO_GUNS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
+
+> (5) Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
+
+### R83-6-MAGIC_EVERYWHERE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Magic and old works: magic is everywhere, a mixture of Final Fantasy and Tolkien. Old works exist from the Great Spirit War and the days of the Physical Epochs, when Bara, Ashura and Aegor walked in human form: dead, dangerous battlefields, relics people kill for, and old beings who remember.
+
+> (6) Magic and old works: magic is everywhere, a mixture of Final Fantasy and Tolkien. Old works exist from the Great Spirit War and the days of the Physical Epochs, when Bara, Ashura and Aegor walked in human form: dead, dangerous battlefields, relics people kill for, and old beings who remember.
+
+### R83-7-FAME_CRIERS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Fame: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, and bookies still take odds.
+
+> (7) Fame: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, and bookies still take odds.
+
+### R83-8-DAILY_MAGIC_CRAFT [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Daily magic: living people and their crafts. Guild craftsmen, hedge-workers and petty folk arts do it with their hands, so it costs money and someone can refuse.
+
+> (8) Daily magic: living people and their crafts. Guild craftsmen, hedge-workers and petty folk arts do it with their hands, so it costs money and someone can refuse.
+
+### R83-9-CULTIVATION [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
+
+> (9) Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
+
+### R83-10-COMMON_PRACTITIONERS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Practitioners: common, closer to shonen. Fighters and cultivators are all over, with sects and ranks everyone knows.
+
+> (10) Practitioners: common, closer to shonen. Fighters and cultivators are all over, with sects and ranks everyone knows.
+
+### R83-11-ALL_EXPLAINED [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and it may be wrong, and a Measurewright will argue about it.
+
+> (11) Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and it may be wrong, and a Measurewright will argue about it.
+
+### R83-13-WIKI_REWRITE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
+
+The wiki: most of it is out of date on this, and it is rewritten whole, now.
+
+> (13) The wiki: most of it is out of date on this, and it is rewritten whole, now.
+
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
 A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
@@ -20229,18 +20025,6 @@ Electricity: Essence replaces it. Electricity was never discovered as a separate
 
 > Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place. Fulguria practitioners are the closest thing.
 
-### R59-03-WIRE_AND_TELEPHONE [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
-
-> Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
-
-### R59-04-VEHICLES [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the lates...
-
-> Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the latest part of the span, military and rare; and other WOTR-created objects and things of its own invention.
-
 ### R59-05-STEEP_REGIONAL_GRADIENT [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.
@@ -20270,12 +20054,6 @@ Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middl
 Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
 
 > Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
-
-### R59-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
-
-> Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
 
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -20775,12 +20553,6 @@ Write The Mother as a cult of Malphas's rot-method while he lives, turning into 
 
 > The Mother begins as a cult of Malphas's rot-method under the living Malphas and becomes a religion of the Becoming after it; R60-24 describes the later cult, and The Mother page gains the turn.
 
-### R62-5-NO_COAL_BOILERS [Open Conflicts 2026-09-28 C-103]
-
-Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.
-
-> The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.
-
 ### R62-9-MUJIN_OF_SUMGOL_KETSUEN [Open Conflicts 2026-09-28 C-095]
 
 Place Mu-jin's house at Sum-gol in Ketsuen; there is no Eastern Concord.
@@ -21081,35 +20853,11 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
-
-The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into th...
-
-> The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is".)
-
 ### R53-02-POOR_FIRES [World Texture Law 2026-09-26 World texture]
 
 A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
 
 > A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
-
-### R53-03-FIREARM_CEILING [World Texture Law 2026-09-26 World texture]
-
-The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
-
-> The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
-
-### R53-04-ENHANCED_SHOT [World Texture Law 2026-09-26 World texture]
-
-Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
-
-> Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
-
-### R53-05-PROOF_PLATE [World Texture Law 2026-09-26 World texture]
-
-Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
-
-> Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
 
 ### R53-06-WELL_SPAWN [World Texture Law 2026-09-26 World texture]
 
@@ -21236,12 +20984,6 @@ The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy
 Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
 
 > Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
-
-### R53-32-TECH_BY_EAR [World Texture Law 2026-09-26 World texture]
-
-No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
-
-> No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
 ### R36-1-YASOSHIMA_SINK_YUNO_SECRET [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told]
 

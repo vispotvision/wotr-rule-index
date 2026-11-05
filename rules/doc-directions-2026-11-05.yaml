@@ -1,0 +1,384 @@
+# Isaac's Dark Ages questionnaire, 2026-11-05, recorded in RULINGS.md and indexed the same day. Each verbatim is one numbered clause of that entry.
+pack: Directions 2026-11-05 (the Dark Ages)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-1-HEADLINE
+  section: medieval-setting-questionnaire
+  title: WOTR described in its own words
+  kind: definition
+  summary: 'Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters
+    who shout their techniques across the battlefield. For feel: Final Fantasy''s world, Martin''s politics, Tolkien''s
+    sense of age, anime''s heat.'
+  verbatim: '(1) Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters
+    who shout their techniques across the battlefield. For feel: Final Fantasy''s world, Martin''s politics, Tolkien''s
+    sense of age, anime''s heat.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - register
+  - worldbuilding
+  notes: Clause (1) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-2-THREE_ARCS
+  section: medieval-setting-questionnaire
+  title: The storyline is the Dark Ages, in three arcs
+  kind: definition
+  summary: 'The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see the
+    turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents.
+    Arc Two is Cozbi, in the ruins. Arc Three is Kujo.'
+  verbatim: '(2) The storyline: the current storyline is the Dark Ages, three arcs long, and most characters get to see
+    the turn of the century. Arc One is Malphas and the Sins, in the Grand World, ending as Malakar splits the continents.
+    Arc Two is Cozbi, in the ruins. Arc Three is Kujo.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  - scene-structure
+  notes: Clause (2) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-3-MUKEN_AND_THE_SPLIT
+  section: medieval-setting-questionnaire
+  title: Muken predates the split and survives it
+  kind: definition
+  summary: 'The split: Muken lives before the great split of the continents and survives through it, and Malakar is the
+    one who splits them.'
+  verbatim: '(3) The split: Muken lives before the great split of the continents and survives through it, and Malakar
+    is the one who splits them.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (3) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-4-IMPERIAL_RENAISSANCE
+  section: medieval-setting-questionnaire
+  title: The Imperial Age is the Renaissance turn of the century
+  kind: definition
+  summary: 'The Imperial Age: not the 1800s or 1900s. It is the turn of the century in a Renaissance era, right after
+    the Dark Ages, bringing banks and merchant houses, universities and anatomists, and full plate, pike and condottieri.
+    No printing is established.'
+  verbatim: '(4) The Imperial Age: not the 1800s or 1900s. It is the turn of the century in a Renaissance era, right
+    after the Dark Ages, bringing banks and merchant houses, universities and anatomists, and full plate, pike and condottieri.
+    No printing is established.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (4) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+  supersedes:
+  - R53-01-IMPERIAL_AGE_SPAN
+  - R53-03-FIREARM_CEILING
+  - R53-04-ENHANCED_SHOT
+  - R53-05-PROOF_PLATE
+  - R53-32-TECH_BY_EAR
+  - R59-03-WIRE_AND_TELEPHONE
+  - R59-04-VEHICLES
+  - R59-10-HOUSEHOLD
+  - R62-5-NO_COAL_BOILERS
+  - R63-2-IMPERIAL_AGE_BEGAN_690
+  - R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS
+  - R61-131-IMPERIAL_AGE_BEGINS_NOW
+  - R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-5-NO_GUNS
+  section: medieval-setting-questionnaire
+  title: No guns, ever; crossbows take the role
+  kind: ban
+  summary: 'Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.'
+  verbatim: '(5) Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a
+    room.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - items
+  - combat
+  - worldbuilding
+  notes: Clause (5) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+  supersedes:
+  - R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED
+  - R11-3-ARMOUR_STOPS_SHRINKING
+  - R11-3-DUAL_ANSWER_SILHOUETTE
+  - R11-3-BALLISTICS_RULING
+  - R71-50-SHOT_MEETS_WORKED_CUIRASS
+  - R71-52-AMBUSH_NAMED_ROUND
+  - R71-58-ONE_SHOT_PRACTITIONER
+  - R71-60-VOLLEY_SMOKE_DRILLED_LINE
+  - R71-64-FIGHTING_MAIN
+  - R71-93-PROOFED_SHOT_AGAINST_PROOFED
+  - R71-94-STALE_POUCH
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-6-MAGIC_EVERYWHERE
+  section: medieval-setting-questionnaire
+  title: Magic everywhere; old works are ruins, relics and survivors
+  kind: definition
+  summary: 'Magic and old works: magic is everywhere, a mixture of Final Fantasy and Tolkien. Old works exist from the
+    Great Spirit War and the days of the Physical Epochs, when Bara, Ashura and Aegor walked in human form: dead, dangerous
+    battlefields, relics people kill for, and old beings who remember.'
+  verbatim: '(6) Magic and old works: magic is everywhere, a mixture of Final Fantasy and Tolkien. Old works exist from
+    the Great Spirit War and the days of the Physical Epochs, when Bara, Ashura and Aegor walked in human form: dead,
+    dangerous battlefields, relics people kill for, and old beings who remember.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (6) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-7-FAME_CRIERS
+  section: medieval-setting-questionnaire
+  title: Fame travels by criers, ballads and bounty boards
+  kind: definition
+  summary: 'Fame: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, and bookies
+    still take odds.'
+  verbatim: '(7) Fame: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, and
+    bookies still take odds.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (7) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+  supersedes:
+  - R82-32-PUBLIC_FAME
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-8-DAILY_MAGIC_CRAFT
+  section: medieval-setting-questionnaire
+  title: Daily magic is a trade people do with their hands
+  kind: definition
+  summary: 'Daily magic: living people and their crafts. Guild craftsmen, hedge-workers and petty folk arts do it with
+    their hands, so it costs money and someone can refuse.'
+  verbatim: '(8) Daily magic: living people and their crafts. Guild craftsmen, hedge-workers and petty folk arts do it
+    with their hands, so it costs money and someone can refuse.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (8) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-9-CULTIVATION
+  section: medieval-setting-questionnaire
+  title: No draw; Aether is pulled from the environment
+  kind: definition
+  summary: 'Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most
+    Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently,
+    and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.'
+  verbatim: '(9) Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment.
+    Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently,
+    and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - worldbuilding
+  notes: Clause (9) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+  supersedes:
+  - R11-1-REPLACEMENT_REGISTER
+  - R11-2-SILHOUETTE
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-10-COMMON_PRACTITIONERS
+  section: medieval-setting-questionnaire
+  title: Practitioners are common, with sects and ranks
+  kind: definition
+  summary: 'Practitioners: common, closer to shonen. Fighters and cultivators are all over, with sects and ranks everyone
+    knows.'
+  verbatim: '(10) Practitioners: common, closer to shonen. Fighters and cultivators are all over, with sects and ranks
+    everyone knows.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (10) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-11-ALL_EXPLAINED
+  section: medieval-setting-questionnaire
+  title: Everything is explained eventually
+  kind: mandate
+  summary: 'Explanation: everything is explained eventually. Scholars have an account of everything, even the gods, and
+    it may be wrong, and a Measurewright will argue about it.'
+  verbatim: '(11) Explanation: everything is explained eventually. Scholars have an account of everything, even the gods,
+    and it may be wrong, and a Measurewright will argue about it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  notes: Clause (11) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-12-POLITICAL_DEATHS
+  section: medieval-setting-questionnaire
+  title: Sudden deaths in politics, fair ones in fights
+  kind: mandate
+  summary: 'Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were
+    on the page. Fights keep their findable way out.'
+  verbatim: '(12) Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues
+    were on the page. Fights keep their findable way out.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - scene-structure
+  - adjudication
+  notes: Clause (12) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-13-WIKI_REWRITE
+  section: medieval-setting-questionnaire
+  title: Rewrite the whole wiki now
+  kind: procedure
+  summary: 'The wiki: most of it is out of date on this, and it is rewritten whole, now.'
+  verbatim: '(13) The wiki: most of it is out of date on this, and it is rewritten whole, now.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - documents
+  - worldbuilding
+  notes: Clause (13) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-14-SCENES_REVISED
+  section: medieval-setting-questionnaire
+  title: Archived scenes lose the draw language
+  kind: procedure
+  summary: 'Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every affected
+    scene file. This is the one exception to scenes staying unedited.'
+  verbatim: '(14) Archived scenes: the draw language is revised now, so that lines about the draw read as Aether in every
+    affected scene file. This is the one exception to scenes staying unedited.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - documents
+  - session-protocol
+  notes: Clause (14) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the Dark Ages)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: Dark Ages questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R83-15-LAW_NOW
+  section: medieval-setting-questionnaire
+  title: This law stands now; the pilot is redone under it
+  kind: procedure
+  summary: 'Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and
+    then the R82 rollout continues.'
+  verbatim: '(15) Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under
+    it, and then the R82 rollout continues.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME, THE TONE
+    operation: extends
+  applies_to:
+  - session-protocol
+  - character-sheet
+  notes: Clause (15) of the RULINGS.md paragraph "The Dark Ages" under 2026-11-05; answers in imports/drafts/medieval-setting-questionnaire/answers.json.

@@ -1846,7 +1846,7 @@ rules:
   pack_number: null
   section: MC24
   title: Each inscription stops shot its own way and leaves its own mark
-  status: live
+  status: superseded
   kind: mandate
   summary: When a worked cuirass stops a ball, show the stop the way its inscription works and leave that
     inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces
@@ -1920,7 +1920,7 @@ rules:
   pack_number: null
   section: FT2
   title: 'Ambush split at a marked break: the wait, then the shot'
-  status: live
+  status: superseded
   kind: procedure
   summary: Write an ambush or assassination as two POV-locked halves split by a marked break, the wait
     and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands
@@ -2132,7 +2132,7 @@ rules:
   pack_number: null
   section: FT8
   title: A gunshot at a practitioner is traced like an exchange
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Trace each shot at a practitioner like an exchange: the range, the ball''s speed (R45-1''s
     reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05,
@@ -2203,7 +2203,7 @@ rules:
   pack_number: null
   section: FT10
   title: The Mass Combat Guide gains drill, the spread and enhanced-shot companies
-  status: live
+  status: superseded
   kind: consequential_edit
   summary: 'The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered
     motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread
@@ -2355,7 +2355,7 @@ rules:
   pack_number: null
   section: FT14
   title: 'The main in a fight: the cut, the burst main, short ground'
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Three Draw Age terrain beats become standing fight texture: a district may be cut from outside
     mid-fight (the hum dies, the room''s density falls, every draw costs more, and the page names who
@@ -3395,7 +3395,7 @@ rules:
   pack_number: null
   section: WT4
   title: Proofed shot strikes one Tier higher against worked armour
-  status: live
+  status: superseded
   kind: definition
   summary: Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so
     proofed shot breaks proofed plate, a round two over passes and the named round is simply two over,
@@ -3439,7 +3439,7 @@ rules:
   pack_number: null
   section: WT5
   title: A stale round fails mid-fight only on a planted tell
-  status: live
+  status: superseded
   kind: mandate
   summary: A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp
     on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.

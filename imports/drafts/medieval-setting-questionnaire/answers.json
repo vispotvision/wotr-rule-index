@@ -1,0 +1,47 @@
+{
+  "context": "Isaac, 2026-11-05: position WOTR as a medieval world, toward what he already writes.",
+  "batch1": {
+    "headline": "Its own words, touchstones after: 'A medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield.' For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.",
+    "eras": "His words: Medieval for the most part, however we could have the Imperial Age be like the turn of the century in the Renaissance era, which was right after the Dark Ages.",
+    "guns": "No guns; crossbows take over: firearms leave the setting; a crossbow bolt becomes the cheap weapon that can kill a high-Stage fighter in a room.",
+    "magic_infrastructure": "His words: Magic is everywhere, but a mixture of Final Fantasy and Tolkien; old works and old stuff exist from the Great Spirit War and the days when the Physical Epochs existed, like Bara, Ashura and Aegor in their human form."
+  },
+  "batch2": {
+    "imperial_place": "His words: this storyline right now is about the Dark Ages, around three arcs long with three main villains, and most of the characters get to see the turn of the century.",
+    "renaissance_brings": [
+      "Banks and merchant houses",
+      "Universities and anatomists",
+      "Full plate, pike and condottieri"
+    ],
+    "renaissance_not_chosen": [
+      "Printing and pamphlets"
+    ],
+    "guns_in_renaissance": "No guns, ever.",
+    "old_works": [
+      "Dead, dangerous battlefields",
+      "Relics people kill for",
+      "Old beings who remember"
+    ],
+    "old_works_not_chosen": [
+      "Cities built on them"
+    ]
+  },
+  "batch3": {
+    "fame_without_print": "Criers, ballads, bounty boards: heralds cry the news, minstrels spread songs that get details wrong, lords post bounties, bookies still take odds.",
+    "daily_magic_source": "Living people and their crafts: guild craftsmen, hedge-workers and petty folk arts; magic is a trade people do with their hands, so it costs money and someone can refuse.",
+    "draw_vocabulary": "His words: get rid of the idea of the draw, since most practitioners don't even use it; they pull from the magic that literally exists in the environment. Go back to a more cultivation approach.",
+    "three_villains": "His words: Malphas and the Sins, then Cozbi, then Kujo."
+  },
+  "batch4": {
+    "cultivation_model": "His words: most Aether is pulled from the environment, and Aethers can have different types and affect your Soul Crystal differently, aka Wellsprings; these Wellsprings are sources of power; they also represent alchemical principles but also spiritual transformations; this is how it worked before in older lore.",
+    "power_rarity": "Practitioners are common too: closer to shonen; fighters and cultivators are all over, with sects and ranks everyone knows.",
+    "mystery_vs_explained": "Everything explained eventually: scholars have an account of everything, even the gods; it may be wrong, and a Measurewright will argue about it.",
+    "split_placement": "Near the end of Arc 1: Arc 1 Malphas and the Sins, in the Grand World, ending as Malakar breaks it; Arc 2 Cozbi, in the ruins; Arc 3 Kujo, and the turn of the century."
+  },
+  "batch5": {
+    "wiki_priority": "Rewrite the whole wiki now.",
+    "old_scenes": "Revise scenes now: 'the draw' lines become Aether in every affected scene file.",
+    "martin_deaths": "Sudden in politics, fair in fights: betrayals, poison and assassinations can kill major NPCs with no warning as long as the clues were on the page; fights keep their findable way out.",
+    "law_timing": "Now, adjust as we go: write R83 and update Natalie now, then redo the pilot under both before any more cards change."
+  }
+}

@@ -3635,3 +3635,9 @@ Context: Settles the question left open in the earlier ruling the same night.
 Isaac, 2026-11-05, on the Inner World: "The North which includes the Moto and the South, the center of the continent is wedged between the north and the south often." On the old states: "will get rid of most of them aside for the hobgoblin states and we will replace Dawi with something new." On art: "Every kingdom in the old world should get its own art work once we are done will workout major cdities and towns but lets work on the art work of kingdoms first". So Nalūn, Ketsuen, Stannvaard and Anguz go as states, Undaar-Keth and the hobgoblin states stay, and the Dawi are replaced by a people still to be chosen.
 
 Context: Redo of the Inner World around the Northern Banner Houses and Southern Warlords. Halcrest is load-bearing in The Uncounted and needs a place in the wedged center.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05, choosing from Natalie's pitches: the people replacing the Dawi live inside the ribcage of something that died in the Great Spirit War, forge with what they cut out of it, sell pieces of it, and keep a tally of what was taken because someday the body will want it back ("They live inside a dead god and sell pieces of it"). The wedged center of the continent is free salt cities that pay both sides, owe neither and get marched through every generation; Halcrest stays, and Nalūn survives as the name of the salt country, not a kingdom. Art comes first for the Inner World. AGENT RULING (Natalie, overturnable): the people are named the Marrowkin, not the working name Hollow-Kin, because Hollow already names a Grade and a creature type. What exactly died stays disputed among scholars (R83-11), so no Archon or Titan is invented or killed.
+
+Context: Follows the same night's ruling on the Inner World.

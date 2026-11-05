@@ -14,9 +14,7 @@ tags:
 >
 > *"Ask what he is permitted to do with the power he has, and what it takes out of him when he does. The size of it comes last."*
 
-Oswin Crumb, baker of Karrowgate, Stage III (third on the soul's sixteen-step ladder), had a Caloria (heat) trade worth two copper an oven. He lit ovens. He had lit every oven on Dyers' Lane for twenty-three years with the same small ember-orange push from the same two fingers, *fuff*, and on the morning the bailiff's men came about the arrears, three of them, in good boots, with his daughter's name on their paper, he put those two fingers against the first man's breastbone and did the same thing, with the same spoonful of Essence, all at once.
-
-***KRAKOOM.***
+Oswin Crumb, baker of Karrowgate, Stage III (third on the soul's sixteen-step ladder), had a Caloria (heat) trade worth two copper an oven. He lit ovens. He had lit every oven on Dyers' Lane for twenty-three years with the same small ember-orange push from the same two fingers, and on the morning the bailiff's men came about the arrears, three of them, in good boots, with his daughter's name on their paper, he put those two fingers against the first man's breastbone and did the same thing, with the same spoonful of Essence, all at once.
 
 The shutters of Dyers' Lane left their hinges in order, flour hung in the street like a snowfall going sideways, and a tray of rolls was found on the church roof. The bailiff's men lay in the road with their eyebrows on and their boots shining and not one burn among them, and every one of them had drowned in his own lungs. Crumb himself never heard another word from anybody. A Measurewright (a sworn measurer of the Guild) walked in from the Assize before the dust had settled, ate one of the surviving rolls, and wrote on a slate, in a hand that got larger as she went: *Same fuel. Same Essence. Entirely different corpse.*
 

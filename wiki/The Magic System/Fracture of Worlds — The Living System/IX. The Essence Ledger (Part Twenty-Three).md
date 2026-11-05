@@ -8,8 +8,6 @@ The fire at Gull Strand took nine seconds, and a clerk had it on her slate befor
 
 He opened on the noon bell.
 
-*FWOOOOOM*
-
 His aura went up scarlet and gold, a column of it, the prettiest thing anyone on that strand had ever seen, and three parts in five of what he spent came off him as raw heat. Every stick of timber within a hundred and twenty-seven meters took light together: booths, bunting, the judges' box, the bookies' board with the odds still chalked on it. People on the sea wall three hundred meters off were slapping at their own faces. Seventeen died of it, and for the rest of their lives some hundreds carried marks across the nose and cheeks that the Strand still calls Wu's freckles. At nine seconds by the water clock the column stuttered and his color went thin as weak tea, and a net-mender called Big Ned, who had been standing in the shallows with an oar, waded up the burning beach and knocked him off the boat. The Hall paid for the fair, and Wu paid the Hall for thirty years. Marget Pinch bought four boats, and when anyone asked how she had known she told them she could divide.
 
 Her sum is the first line of this Part. A reserve divided by a rate is the time to empty, nine tenths of that is the time to Starvation (the floor at a tenth of the reserve, where the Traits begin to flicker), and the heat is everything η (the share of spent Essence that arrives as effect) lets go of. Every one of those figures can be had from a sheet, and any one of them can be used by whoever is standing across from the person it describes.

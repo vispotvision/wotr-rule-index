@@ -9,8 +9,6 @@ tags:
 
 The Cooper's Row Reds of Altherion (a fighting school with a song, a color and a grudge, like all of them) had been refused the Ember Stair three years running. The Ember Stair is a Pyreveil site high on the inner wall of the Ring, a Core in common speech, where Aether of that one type pools so thick that the rock sweats orange and snowmelt leaves it as steam. Its Dawi keepers close it to anyone in arrears, and the Reds were in arrears. In the spring of a bracket year their captain, Jennet Marl, walked up anyway, singing, with four hundred supporters in red scarves on the road behind her and a keeper on every landing reading her the sum. On the top step she planted her feet, opened her Soul Crystal to the ground and pulled.
 
-*FWOOOOOM.*
-
 Every scarf on the road lifted. Her aura, a respectable brick red for sixteen years, went to the gold-white of a crucible pour, and for the length of one long breath she stood with her hair gone and her face shining and the whole cliff behind her the color of a peach. She came down with Pyreveil harmonized in her Crystal for good and the keepers' invoice in her belt. A Measurewright who had climbed the hill for exactly this set his fork to her at the bottom and read every number the same, to the point, then told the crowd nothing had happened. She put a fist into a boulder beside him and it ran like tallow. The Reds still lost the bracket. She never felt cold again, and she could no longer hold a hand near a fire and know when to take it out, which cost her two fingers by the following winter and made her a great many songs, most of them wrong about the fingers.
 
 ## Part Thirteen — The Sixty Wellsprings and Stat Interaction

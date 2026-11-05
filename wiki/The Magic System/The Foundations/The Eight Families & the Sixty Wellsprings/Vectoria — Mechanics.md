@@ -6,9 +6,7 @@ title: Vectoria — Mechanics
 
 *Mechanics · force, motion, gravity*
 
-Asa Birkett, a mason's daughter out of the Ketterby yards, bet a barrel of brown ale that she could drop the Old Toll Bridge with one knuckle, and all of Ketterby came down to the bank in its feast-day reds to watch her lose. She walked out to the third pier with iron-gray light running in hairline cracks up her forearm, *tik, tik, tik*, rapped the stone like a woman knocking at a neighbor's door, and strolled back. For about the length of a grace nothing happened at all.
-
-*KRRRRAAAAK.*
+Asa Birkett, a mason's daughter out of the Ketterby yards, bet a barrel of brown ale that she could drop the Old Toll Bridge with one knuckle, and all of Ketterby came down to the bank in its feast-day reds to watch her lose. She walked out to the third pier with iron-gray light running in hairline cracks up her forearm, rapped the stone like a woman knocking at a neighbor's door, and strolled back. For about the length of a grace nothing happened at all.
 
 Two hundred years of bridge sat down in the river, threw a brown wave over the front row and took the toll-keeper's cash box along with it, and she drank the barrel with the men who had bet against her. That night, wrung out and glowing, she read her own flaws for the first time, plain as a ledger: the crack in the left wrist, the one in the third vertebra, and how many more bridges each of them would stand. She has told that count to nobody, and she has not taken a bet above a pint since.
 

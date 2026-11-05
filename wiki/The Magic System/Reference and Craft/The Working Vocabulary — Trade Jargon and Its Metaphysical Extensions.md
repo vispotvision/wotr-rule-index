@@ -12,9 +12,9 @@ tags:
 
 The man calling himself Journeyman Tobit Lamb lasted four months at the Wick Cross assay house. He had the Latin perfect. He had the licenses, the stained apron and a very good forged seal, and he had the Guild's cupel ledgers halfway copied for whoever was paying him, and then one payday at the Gilded Ladle, with eighteen assayers around him and the third round on the table, somebody told the old story of the Abbot's button and he laughed in the right place and said, "Aye, and then the flash."
 
-Shiin.
+Every cup at the table stopped where it was.
 
-No assayer on earth has ever called it the flash. Eighteen brass forks came up off the table. Lamb was a good deal stronger than anyone had been told, a Stage IV (fourth on the soul's sixteen-step ladder) with arc-blue Fulguria (lightning) crackling down both arms, and he put five of them through the front wall of the Gilded Ladle, *bzzzt-KRASH*, in a shower of painted plaster and spilled small beer, while the whole of Assay Street came out to bet on it. He left by the roof, and he left his left ear and a season's copying on the taproom floor, and Goody Sharrock (who had taken the ear, with a pair of cupel tongs) had it pickled and set on the shelf by the scales, where it has been shown to every apprentice since. Nobody there had been fooled by anything but his paper. The word caught him.
+No assayer on earth has ever called it the flash. Eighteen brass forks came up off the table. Lamb was a good deal stronger than anyone had been told, a Stage IV (fourth on the soul's sixteen-step ladder) with arc-blue Fulguria (lightning) crackling down both arms, and he put five of them through the front wall of the Gilded Ladle, in a shower of painted plaster and spilled small beer, while the whole of Assay Street came out to bet on it. He left by the roof, and he left his left ear and a season's copying on the taproom floor, and Goody Sharrock (who had taken the ear, with a pair of cupel tongs) had it pickled and set on the shelf by the scales, where it has been shown to every apprentice since. Nobody there had been fooled by anything but his paper. The word caught him.
 
 I collect these words the way other Measurewrights (the Guild's sworn measurers) collect grudges, and this page is the collection.
 

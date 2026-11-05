@@ -8,8 +8,6 @@ title: Caloria — Thermodynamics
 
 The people of Pennyhithe will tell you about the Aldgate sisters whether you ask or not. Prudence Aldgate heated the public baths on Fish Lane with her bare hands for thirty years, a copper a tub, two if you wanted it hot enough to lift the grease, and she turned away anyone who owed her, the reeve's wife included, and once, gloriously, the reeve. Her sister Bess kept the family's grudges. On the night of the Herring Fair she walked down into the customs cellar under the tollhouse with a list of names and her whole body lit the white-orange of a smith's best heat, and the crowd up on the quay heard a flame-front turn into something else.
 
-*BADOOOOM.*
-
 The tollhouse roof came down in the harbor with the tollkeeper's best hat still on its peg. The quay cheered, and the minstrels had a song by morning. The song leaves out that the shock came back up the cellar along its own path, with Bess standing at the origin of it, and that she has been deaf in both ears and short three fingers ever since. One Family of Aether heats Prudence's tubs and took Bess's fingers, and a Measurewright (a certified assessor of workings) who says so in a Pennyhithe tavern should expect to be asked which sister he is calling gentle.
 
 > The Caloria Wellsprings all describe one thing seen from ten positions: **energy crossing a boundary.** Creation and destruction run on one law here, which is why the Family produces both the most restorative and the most annihilating Wellsprings in the register and cannot cleanly be called either.

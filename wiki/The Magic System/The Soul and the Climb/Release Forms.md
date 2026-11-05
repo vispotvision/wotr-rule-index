@@ -10,8 +10,6 @@ The Widow Ansa Brack kept the Three Keys at Sallow Ferry for thirty-one years, a
 
 Her hands went first, black as old door iron to the wrist. The ring of keys at her belt rose and stood straight out on the air, jangling, and her aura slammed to its full color, a silver shot through with deep violet that lit every face in the yard from underneath. The crowd has always called that one Last Orders. Then one of the keys turned, by itself, in nothing.
 
-*KLONK.*
-
 The light went violet from wall to wall, and every man in that yard felt the ground decide he had no business standing on it. They left. They left through the gate and through the hedge and, in nine cases, through the side of the stable, in one long bright spill of armor and horses that came down across the river meadow and broke four dozen collarbones. The Company's sergeant landed with his boots still crossed and the handle of a tankard in his fist. Bald Harry Stott, who had a good grip, went with the rest and left his hand on the doorpost, where it stayed, and it hung over the bar for the next sixty years. That was the Second, Closing Time, and the odds-men at Sallow Ferry paid on how far the sergeant flew for a generation.
 
 The bill came with the law, as the big ones do. A landlady is the last one out of a house she closes, and Ansa Brack closed that one with herself on the step. She never set foot inside the Three Keys again. She stood on that step for nineteen years and served through the window, and the minstrels gave her a Third Release she never had, an error that has cost several people money.

@@ -12,9 +12,7 @@ tags:
 
 At the midsummer fair of Hallingsgate, in front of four thousand people and the entire fish guild, Gudrun Halfdane stepped into the Accord's brass coil to prove what the minstrels had been singing about her for three years. They called her Gudrun Infinite. She stood six and a half feet in a coat of red and gold, she had a move called INFINITE FIST and a purse with every coin she owned on it riding at the bookies' tables, and she had told the whole of the Fishgate that the coil would read Grade S. The clerk, a small man with a clear voice, read out Stage III and a Flux of D.
 
-*WAAAAAAAAGH*, said the fair. Bookies ran for the boats. Gudrun looked at the coil for a while, and said something the clerk declined to enter, and hit it.
-
-*DOOOOOOOONG.*
+The fair howled, the fish guild loudest of all. Bookies ran for the boats. Gudrun looked at the coil for a while, and said something the clerk declined to enter, and hit it.
 
 It rang for two days. Dogs left town. Her hand broke in three places, and the clerk, when he had climbed out from under his table, read her again, because procedure requires it, and the reading was the same.
 

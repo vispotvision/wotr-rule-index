@@ -11,8 +11,6 @@ tags:
 
 Over the gate of Hollingarth, in the northern quarter, the Thorsby family had cut THIRTY THOUSAND YEARS AND NEVER ONCE ASKED in letters of gilded oak as tall as a boy, and in the summer the Concordance was sealed Lord Piers Thorsby rode to the Guild's survey camp with sixty lances in blue and butter-yellow to have the sum corrected in his favor. He let his Pressure (the weight a higher Stage lays on a room just by standing in it) roll across the camp table until the inkwells crawled. Measurewright Ingrith Sallow, who came up to about his sword belt, moved her inkwell back, handed him a shovel and walked him to the ash section, where she showed him one summer's worth of the wall, four gray-and-rust bands where the old method had counted four years. Lord Piers hit the section with a two-handed maul to show what he thought of it.
 
-*WHUMP.*
-
 Several of his ancestors' centuries came down on his boots. He stood in them for a while, and then, to the great credit of the house, he began to laugh, and he was still laughing when the stonecutter's bill arrived. Dividing by forty gave seven hundred and fifty years; the Guild's audit of the charters gave six hundred; the stonecutter, who charged by the letter, gave a refund. Within the year the minstrels had him as Lord Six Hundred and the tenants of the north pasture had stopped paying rent on grounds of antiquity, and the instrument below is the Guild's answer to everyone else who was about to ride out with a maul.
 
 > Issued by the Guild of Measurewrights under the Hexagonal Oath, as a companion instrument to the Concordance of Ages. Year 715 In Concordance, Withering Era, the twenty-fifth year of the Dark Ages.

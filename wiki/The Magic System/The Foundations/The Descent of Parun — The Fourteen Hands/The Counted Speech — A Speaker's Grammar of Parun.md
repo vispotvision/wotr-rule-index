@@ -19,8 +19,6 @@ tags:
 
 When the east wall came down at Dunmere Gate, Sergeant Ebba Thorn was in the gatehouse with a spear butt coming at her mouth and the whole room full of burning thatch. She took the butt, spat two teeth across the floor and bellowed the field sentence, **AT PEN MA RA**, in the voice she used for mules: eight and twenty-one and thirteen and twenty-three, sixty-five, sealed.
 
-*DOOOOONG.*
-
 The air of that room ran inward toward her, every lick of flame and rag of smoke hauled back off the door like a dog on a chain, and it stayed that way till first light while the garrison in their yellow coats came up the stair past her, cheering. Beside her stood a licensed Cant speaker in a very clean tabard, who needed something nobody had composed for him in advance, composed it, and came out three short of the sum. Nothing sealed it. It ran down the gatehouse stair and it is, the locals will tell you, still a bad stair. The sum is why Thorn's name got a song and his got a footnote, and this volume is the sum.
 
 ---

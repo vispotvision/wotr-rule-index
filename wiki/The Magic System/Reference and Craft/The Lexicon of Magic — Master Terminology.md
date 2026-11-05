@@ -7,9 +7,7 @@ tags:
 
 # The Lexicon of Magic — Master Terminology
 
-People have died of this page. In the spring of a bad year at Altherion, a surgeon's bill for a dead wool merchant named a Rupture, and two Measurewrights (the Guild's sworn measurers) fell out over which one: Dame Ysolde Crane held that the bill meant a Rupture of the Shell, Magister Lowell Tench that it meant a Rupture Event, and the widow, who only wanted to know whether she owed the surgeon nine gold or nothing, made the error of asking them in the Guild's reading room. It began with citations. It went on to brass assay forks, *ting, ting-TANG*, then to lecterns, with Crane's aura up in arterial red and Tench's in ochre and the whole gallery paying two copper a head to lean over the rail, and it ended when a hurled lectern met the oak table and brought the Statutes shelf down on both of them.
-
-***WHUMP.***
+People have died of this page. In the spring of a bad year at Altherion, a surgeon's bill for a dead wool merchant named a Rupture, and two Measurewrights (the Guild's sworn measurers) fell out over which one: Dame Ysolde Crane held that the bill meant a Rupture of the Shell, Magister Lowell Tench that it meant a Rupture Event, and the widow, who only wanted to know whether she owed the surgeon nine gold or nothing, made the error of asking them in the Guild's reading room. It began with citations. It went on to brass assay forks, then to lecterns, with Crane's aura up in arterial red and Tench's in ochre and the whole gallery paying two copper a head to lean over the rail, and it ended when a hurled lectern met the oak table and brought the Statutes shelf down on both of them.
 
 They are still called the Duel of the Two Ruptures, and the dent is still in the table. Both of them lived, each with one collarbone fewer than they had started with, and the treaty they signed from adjoining beds is the entry you will find below under **Clouding · Rupture**. I would ask you to read the rest of this page with that in mind. Nobody here is being fussy.
 

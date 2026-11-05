@@ -8,8 +8,6 @@ In the river towns, how magic works means Dunny Thrupp and the Bridge at Aske. D
 
 The crowd howled. A fisherman fell off the rail laughing. Sir Ansgar laughed too, and charged, with the whole of his strength behind him, and the line came up tight.
 
-*THRRRRRUMMMM.*
-
 It did not break. It went on not breaking, while a man who could put his shoulder through a temple door leaned on it with everything he had, and the rope sang a note that loosened teeth on both banks, and then the middle span of the Bridge at Aske came away with a groan like a ship going down and followed him up the road, oak, bookies and all. Sir Ansgar was dug out alive by evening. Dunny's palms had burned to the tendon where the line ran through them, and he could not close a hand until the harvest. The song says he tied up the moon. The lord billed him for the bridge.
 
 Every part of that afternoon has a name: where Dunny got the power, what law held the knot, what the shout bought him, why his hands paid for it, and why a man one rung up the ladder could lose to a man with a good read and a better rope. This page gives you those names, in order, and I have tried to keep it shorter than the Accord's assessment of that rope, which runs to nine leaves and leaves out the fisherman.
@@ -48,7 +46,7 @@ Most of the magic you will meet this week is small, and somebody is doing it wit
 
 ## One working, start to finish
 
-Wen Talley's Primary Trait is heat, carried from birth and first shown when he was a forge-boy who held a burning rafter off his brother and lived. From it he learned a technique, Hot Iron, which drives that law into whatever his hand strikes. In a tavern brawl he shouts it, **"HOT IRON!"**, and that is Spellcraft, spoken and paid for in the body. His fist glows the ember-orange of his aura; the man's jaw blisters where it lands, *ssst-whap*, and the taproom smells of singed beard. The punch costs a sliver of his reserve, a few seconds of everything he has, and the heat runs back up his own arm, so after four or five he cannot close the hand. That is magic: a law from the soul, a learned shape, a craft that carries it, a price in reserve, and a limit the body feels.
+Wen Talley's Primary Trait is heat, carried from birth and first shown when he was a forge-boy who held a burning rafter off his brother and lived. From it he learned a technique, Hot Iron, which drives that law into whatever his hand strikes. In a tavern brawl he shouts it, **"HOT IRON!"**, and that is Spellcraft, spoken and paid for in the body. His fist glows the ember-orange of his aura; the man's jaw blisters where it lands, and the taproom smells of singed beard. The punch costs a sliver of his reserve, a few seconds of everything he has, and the heat runs back up his own arm, so after four or five he cannot close the hand. That is magic: a law from the soul, a learned shape, a craft that carries it, a price in reserve, and a limit the body feels.
 
 ## What it all costs
 

@@ -9,7 +9,7 @@ tags:
 
 *All one hundred and thirty-six attested Parun (root script of law) forms, ordered by Archon (one of the fourteen great powers of cosmic law)*
 
-Every midwinter the Third Counter Society sits down to eel pie and too much brandy, and every midwinter someone climbs on the bench, roars that they have found a third form written to obstruct another form, and traces it on the table in spilled wine with the whole room howling. Then a sober apprentice runs the path across the lattice, *klik*, and it comes out as Knot or Lock in a borrowed hat, and the claimant buys the brandy. Master Simeon Blackwell bought the brandy nine years running and stayed solvent only by marrying a vintner. The index below is what they are all failing to get round.
+Every midwinter the Third Counter Society sits down to eel pie and too much brandy, and every midwinter someone climbs on the bench, roars that they have found a third form written to obstruct another form, and traces it on the table in spilled wine with the whole room howling. Then a sober apprentice runs the path across the lattice, and it comes out as Knot or Lock in a borrowed hat, and the claimant buys the brandy. Master Simeon Blackwell bought the brandy nine years running and stayed solvent only by marrying a vintner. The index below is what they are all failing to get round.
 
 ---
 

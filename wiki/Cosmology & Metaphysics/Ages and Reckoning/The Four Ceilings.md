@@ -14,8 +14,6 @@ In the spring of Year 641, in the Greaves districts, a pit-mistress named Annot 
 
 Nineteen pump-hands went down at hour eighty-three to save the tinned contacts on the lower ring, because they had worked those levels all their lives and nobody could tell them otherwise, and they stayed down. At hour eighty-seven Annot Thrale climbed onto the clock cart in front of the whole spoil heap and shouted for her keepers, and her keepers, who had been sitting along her fence for two days eating her pies, named a price. She paid triple at hour eighty-nine. Forty coats came up copper-green around the shaft head, every rope and beam on the headframe beading over with dew out of a dry spring morning, and the whole ring of them pulled from the ground under their boots and drove it into the contacts together.
 
-*GLOOOOOOM.*
-
 The water stopped, and in time it went back down, and it left her the top two hundred fathoms. The Measurewright took the season's ore and spent it burying nineteen men, the Guild went on saying ninety and began writing *about* in the smaller documents, and the bench tickets from Blackwater Deep are still sold in Ironlink as curiosities, about four times as many as were ever issued. If you want to understand the book that follows, understand that an argument with the water table has no end date, and that the people who conduct it for you are sitting on your fence.
 
 > Second edition, revised. Companion volume to **The Bearing and the Holding**. Compiled for the Research and Archives Division of the Guild Accord with the assistance of the Guild of Measurewrights. All dates conform to the Concordance of Ages, sealed Year 715 In Concordance. The first edition's chronology is withdrawn in full and its Unresolved Chronology section is superseded.
@@ -297,8 +295,6 @@ Five ceilings and the reasons they fell are given above. **There is a sixth and 
 > **It was attacked once in earnest, in Year 683, and the Guild would like that recorded as a success.** Master Konrad Brandt of the Stannvaard wrights laid three leagues of tuned stone in the bed of the Harrow Road and hung an ore-sledge a hand's breadth above it, coupled to the stone by Transference, the Spatium law of two tuned oscillators exchanging energy across a gap with no conductor between them. He shouted the thing's name at the opening, the Harrow Drag, with his guild mark a yard high on its nose.
 >
 > It ran for eleven days. It sang the whole time, a rising glassy whine that set every dog in three leagues howling, and on the twelfth morning a keeper's shift ran long and the stone took a double feed, and forty tons of galena left the Harrow Road at the pace of a galloping horse and went through the chapel at Ansby.
->
-> *KRRRAAAANG.*
 >
 > They were picking lead out of the font for a year. The keepers along the line had been asking double already, and now every one of them wanted a burial clause.
 > 

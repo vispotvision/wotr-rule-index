@@ -13,8 +13,6 @@ On the Stannvaard rim the neighbors paid Ibbet Lowe double for her washing, year
 
 **"IT COMES OUT IN THE WASH!"**
 
-*FSSSHLP.*
-
 The blood came out of Ser Gervase Breck. It came through his skin and through his mail, all of it, in one fine red sheet, and it ran away down Tub Lane to the gutter while the surcoat stayed perfectly white. The man inside had time to look surprised. The street's odds-man, who had been giving eight to one against the rent being late again, paid out on the spot and retired.
 
 She lived twenty-two more years and it charged her in its own coin. Nothing stayed on her. A bruise went in an hour and ink in a day, and in her last winters the faces of the people she loved went the same way, until she was calling her daughter "miss" and thanking her for the custom. The Measurewrights have spent eighty years arguing which Family owns that law, Fluxia's solvents or Materia's surfaces, and the laundresses of the rim, who consider the matter closed, light a candle to her every wash day.

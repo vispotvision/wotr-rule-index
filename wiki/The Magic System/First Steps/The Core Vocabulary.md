@@ -7,9 +7,7 @@ tags:
 
 # The Core Vocabulary
 
-Bartle the Sponge, a wharf-fighter of the Oxmarket Stairs, stood on a herring barrel for eleven nights one autumn and took all comers at a copper a swing. He banked every blow, held it in his Crystal with his whole body lit up like a feast-day and a hum coming off him you could feel in the planks, *hmmmmmm*, and then he bled it off into the river with a great wink at the crowd, *pshhhh*, and the river steamed. Eleven nights and four hundred swings. On the twelfth night the Dagnall brothers, two tall quiet men from the rope-walk, paid their coppers and hit him in turn, left and right, faster than he could bleed, while the whole wharf counted aloud and got to learn what a Soul Crystal sounds like past two and a quarter times its rating.
-
-*TCHANNNNNG.*
+Bartle the Sponge, a wharf-fighter of the Oxmarket Stairs, stood on a herring barrel for eleven nights one autumn and took all comers at a copper a swing. He banked every blow, held it in his Crystal with his whole body lit up like a feast-day and a hum coming off him you could feel in the planks, and then he bled it off into the river with a great wink at the crowd, and the river steamed. Eleven nights and four hundred swings. On the twelfth night the Dagnall brothers, two tall quiet men from the rope-walk, paid their coppers and hit him in turn, left and right, faster than he could bleed, while the whole wharf counted aloud and got to learn what a Soul Crystal sounds like past two and a quarter times its rating.
 
 Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and has not been able to hold a bank since. The Accord's inquest ran three days, because no two people in the room would use the words "bank," "overfill" and "rating" for the same thing, and the fishwives of Oxmarket, having heard that the man had been overfilled, entered evidence about the pies. A clerk of the Archive was sent away to write down what the words mean so that this could never happen again. Here is what she wrote. It has happened every year since.
 

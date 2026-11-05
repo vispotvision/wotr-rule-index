@@ -3677,3 +3677,9 @@ Context: Inner World redo. Muken is about 16 at 715 IC on the Concordance's date
 Isaac, 2026-11-05: "lets add a few more not ashkaru just 4 more kingdoms for the center of the continent along with there house's The Centeral Inner World Warlords they aren't as well known as the South or the North". Also: "Holy Sea of Alabaster obviously being Alabaster itself", so the city of Alabaster is its capital. Natalie's four Central Warlord realms and every realm's major cities are in imports/drafts/inner-world-redo/KINGDOMS.md, for him to keep or cut. AGENT RULING (Natalie, overturnable): the Beastkin kingdom he had left open is one of the four.
 
 Context: Inner World redo.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "I want a lot of central places to be non-human cause I think that'd be good to build them". AGENT RULING (Natalie, overturnable): the four Central Warlords are the Verdant Orcs, the Serpentkin, the Avian Kin and the Beastkin runaways, all peoples already on file, with their realms in imports/drafts/inner-world-redo/KINGDOMS.md. Elves stay out of the center by his word, as he uses them heavily in the New World. The Fox-Spirit lineage is left off the Russet Crown because Yoko Mishiro's people need her card's reading first.
+
+Context: Inner World redo. Replaces Natalie's first draft of the Central Warlords, which had two human houses.

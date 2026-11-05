@@ -3881,3 +3881,9 @@ Context: Grounds: R79-10 gives person facts to the card; the canon hierarchy ran
 Isaac, 2026-11-05: "prob just gonna haveyou switch to irl days and use real life calender to make shit more simple" and "only think that won't change is the years". The world uses the real calendar, and the year counts stay as they are.
 
 Context: Indexed as R85-2; supersedes R51-08 (no Earth day and month names). How far it runs is Natalie's reading and overturnable: January to December with their real lengths, Monday to Sunday, leap years, 365 days and a 24-hour day, in every culture's mouth and in narration; not tied to today's date, since the table keeps its own date. The fourteen-day turn, the thirteen months, the nameless day Munahi and the sixty-count retire as calendars. Archived scenes stay as written (R84-3). Year numbers, IC, the Ages and Shiro's own cycle do not change.
+
+## 2026-11-05 — C-167
+
+Agent ruling (Natalie): From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.
+
+Context: Indexed as R85-3. Grounds: NATALIE's "Aether Class sets eta" and R84-10 are the newest word; R42-2 and R44-4 are both live and neither withdrawn, and R44-5 already lets a card govern. Isaac told Natalie on 2026-11-05 to rule the magic audit's law-level items and said he would overturn what he dislikes.

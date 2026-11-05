@@ -172,7 +172,7 @@ He looked past the Sin's shoulder instead, with the last of the eye, because the
 
 The child.
 
-The little girl who had climbed up on the bridge rail to see. Her mother had noticed now. The mother was screaming, running along the bridge planks with her hands out, and the girl had turned at the scream, the way children turn, and her foot had gone off the wet rail. Raizan saw her go over, very slowly, the way things go when the Tengan shows them: the small body tipping back over the rail, the arms coming up, the mouth open, the brass draw-lamp on its chain swinging away from her hand where she had grabbed and missed. She went into the Kessen twenty yards upstream of them with hardly a splash. The flood took her at once. It was carrying her down toward the ford. Toward the boiling water round the Sin of Wrath, which was boiling harder every heartbeat as he drank.
+The little girl who had climbed up on the bridge rail to see. Her mother had noticed now. The mother was screaming, running along the bridge planks with her hands out, and the girl had turned at the scream, the way children turn, and her foot had gone off the wet rail. Raizan saw her go over, very slowly, the way things go when the Tengan shows them: the small body tipping back over the rail, the arms coming up, the mouth open, the brass lamp on its chain swinging away from her hand where she had grabbed and missed. She went into the Kessen twenty yards upstream of them with hardly a splash. The flood took her at once. It was carrying her down toward the ford. Toward the boiling water round the Sin of Wrath, which was boiling harder every heartbeat as he drank.
 
 Ten heartbeats, and she would be in it.
 
@@ -198,7 +198,7 @@ And behind him, upstream, a woman was screaming.
 
 And the old man had said *look*.
 
-The river boiled round him. The draw-lamps on the bridge swung. Something small and dark was coming down the green water toward the white boil round his waist, very fast, and the black hand on his soul pulled north, and the law pulled at his hands, and the heat of four hundred and twelve men's deaths was pouring into him through his left palm like the first warmth he had felt since the black floor.
+The river boiled round him. The lamps on the bridge swung. Something small and dark was coming down the green water toward the white boil round his waist, very fast, and the black hand on his soul pulled north, and the law pulled at his hands, and the heat of four hundred and twelve men's deaths was pouring into him through his left palm like the first warmth he had felt since the black floor.
 
 He had a heartbeat. Perhaps two.
 

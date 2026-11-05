@@ -88,7 +88,7 @@ He did not count how many times he began from the beginning.
 
 And then, at some point he could not have named, the row was not things any more.
 
-It was a wall. A wall of gray stone, rough-coursed, the kind of wall a Tenrai mason would build round a fortress, with a gatehouse and a gate. He knew it was the Seat. He did not know how he knew. And it was full of cracks, all humming: the fine steady ones of stone carrying its own weight, the way a sound wall carries it, and here and there, deep, branching, sour, the ones that had stopped carrying and were only pretending. A course where the mortar had rotted. A lintel over a postern that had been cracked by frost forty winters ago and patched and never mended. A ward-stone set into the gatehouse foundation, a worked thing tied into the Seat's draw, humming with Tenrai gold and glowing in the threads like a coal, whose binding had been laid by a man who had not meant the oath he laid it with.
+It was a wall. A wall of gray stone, rough-coursed, the kind of wall a Tenrai mason would build round a fortress, with a gatehouse and a gate. He knew it was the Seat. He did not know how he knew. And it was full of cracks, all humming: the fine steady ones of stone carrying its own weight, the way a sound wall carries it, and here and there, deep, branching, sour, the ones that had stopped carrying and were only pretending. A course where the mortar had rotted. A lintel over a postern that had been cracked by frost forty winters ago and patched and never mended. A ward-stone set into the gatehouse foundation, a worked thing tied into the Seat's wards, humming with Tenrai gold and glowing in the threads like a coal, whose binding had been laid by a man who had not meant the oath he laid it with.
 
 "Again," said Faisal.
 
@@ -442,6 +442,6 @@ He got up off the shelf, and went to the door, and lifted the bar.
 
 *Author notes for Chapters Sixteen to Nineteen are at the end of Chapter Nineteen.*
 
-**Revision 2026-10-24.** The Plane of Fate made more luminous and wondrous (raven-sheen black threads, flaring crossings, aurora on a loom, the Spirit turn into violet-blue, Temporality lit like a lamplit street, Totality shining white-gold, gold seams in the healing), with the Seat seen as a lamplit city of gold and silver threads and its ward-stone tied into the draw; antitheses in narration and the epigraph rephrased and tics trimmed. All beats and Isaac's lines kept word for word.
+**Revision 2026-10-24.** The Plane of Fate made more luminous and wondrous (raven-sheen black threads, flaring crossings, aurora on a loom, the Spirit turn into violet-blue, Temporality lit like a lamplit street, Totality shining white-gold, gold seams in the healing), with the Seat seen as a lamplit city of gold and silver threads and its ward-stone tied into the Seat's wards; antitheses in narration and the epigraph rephrased and tics trimmed. All beats and Isaac's lines kept word for word.
 
 **Revision 2026-10-25.** Faisal is whole throughout: Malakar never divided him (ruling 2026-10-25). His broken wings, the seam and every "sixth" line now read as the whole Grand Angel kneeling under the cracked Lawbell's weight; every beat and line otherwise kept.

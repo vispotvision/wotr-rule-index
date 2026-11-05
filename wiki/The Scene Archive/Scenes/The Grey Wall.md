@@ -16,7 +16,7 @@ He sat in the window seat in a kimono of black silk worked with gold dragons, th
 
 Below the window lay Kharven Fields, and Kharven Fields had forgotten the war.
 
-That was the part he could not forgive it for. In autumn the fields had been churned black, cut with wheel-ruts and grave-trenches, the burned standpipes of the old district main sticking up out of the mud like the ribs of something dead. Now the whole valley had gone mad with color. Fireweed ran pink along every trench line, so that he could trace where the Keld had dug in by where the flowers grew thickest. Cornflowers came up blue between the rows, buttercups in yellow drifts where the horse lines had been, and on the far slope somebody's apple orchard had survived the burning and stood in full white blossom, so bright under the afternoon sun it hurt to look at. Guild crews in orange coats were relaying the main along the north road, and he could see the new brass of the gauge-housings flashing where they caught the light, could hear, very faintly under the tavern song, the hum of the draw coming back into the Seat's pipes, district by district, like blood coming back into a frozen hand.
+That was the part he could not forgive it for. In autumn the fields had been churned black, cut with wheel-ruts and grave-trenches, the burned lamp-stems of the old Guild round sticking up out of the mud like the ribs of something dead. Now the whole valley had gone mad with color. Fireweed ran pink along every trench line, so that he could trace where the Keld had dug in by where the flowers grew thickest. Cornflowers came up blue between the rows, buttercups in yellow drifts where the horse lines had been, and on the far slope somebody's apple orchard had survived the burning and stood in full white blossom, so bright under the afternoon sun it hurt to look at. Guild crews in orange coats were re-cutting the wards along the north road, and he could see the new brass of the lamp-stems flashing where they caught the light, could hear, very faintly under the tavern song, the hum of the wards coming back into the Seat, district by district, like blood coming back into a frozen hand.
 
 Everything was healing. Everything except whatever it was in him that had gone still.
 
@@ -106,7 +106,7 @@ She went still, and then she looked at him with something new. "How'd you know t
 
 "I always know." He turned his right hand over on his knee and looked at the palm. The sleeve fell back from it and the gold dragon slid with the silk. "That's the thing nobody sings about. Fractura, Judicium, the Eye of the Splintered Work, all of it. I look at a cup and I see where it's going to break. I look at a wall and I see the seam. I look at a man and I see the knee that'll go, the rib that's healed wrong, which blow ends him." He closed the hand. "I look at a woman across a supper table and I see all the places she'd crack if I held her too hard. My bed's oak and I've split nine of them in my sleep. What do you think I'd do to a wife?"
 
-He had not meant to say any of that. It was out of him before he could stop it, and the room was very quiet after, only Lorn's voice small in the yard below and the draw-hum in the walls.
+He had not meant to say any of that. It was out of him before he could stop it, and the room was very quiet after, only Lorn's voice small in the yard below and the hum in the walls.
 
 Amelia did not look away. "Go on," she said.
 
@@ -176,7 +176,7 @@ He looked up at her.
 
 "You've been sat in this tower six months. You've gone ashy under all that brown, and your hands shake. I saw them." She nodded at the window, at the yard, at Lorn and the recruits. "Come down. Spar with me. You and me, the Seat's yard, now. You won't have to look at me and wonder where I'll crack, because I'll be trying to take your head off with this, and you'll be too busy." Something moved at the corner of her mouth, the second crack in the ice. "You want to know if I'm after the crown? Nobody courts a crown by hitting it with an axe."
 
-Muken stared at her. Then he stood, and pulled the sash loose and retied it properly this time, a hard double knot, and swept his white hair back out of his face with both hands. Below the window the fireweed burned pink across the whole of Kharven Fields, and the draw-hum rose in the walls as the Guild crews opened another valve, and he felt, faint and cautious as the first warmth of spring in frozen ground, the Judgment Field stir around him for the first time in months, waking with no enemy in it.
+Muken stared at her. Then he stood, and pulled the sash loose and retied it properly this time, a hard double knot, and swept his white hair back out of his face with both hands. Below the window the fireweed burned pink across the whole of Kharven Fields, and the hum rose in the walls as the Guild crews woke another ward, and he felt, faint and cautious as the first warmth of spring in frozen ground, the Judgment Field stir around him for the first time in months, waking with no enemy in it.
 
 "Fair warning," he said. "I hit hard."
 

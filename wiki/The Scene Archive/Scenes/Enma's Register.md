@@ -216,7 +216,7 @@ And Muken Moto, on his back on the black floor with his teeth beside his head on
 
 **Source.** Isaac's direction (2026-11-02): continue the Muken and Shōki fight. Shōki pulls Muken into hell, tortures him and brutalizes his body. The scene is held in Muken's head throughout, in past-tense third person. It stops on Muken's decision with one breath drawn.
 
-**Revised 2026-11-03 under R81** (Isaac's combat and magic fix): ENMA-CHŌ's draw and cost written on the page (the spear's heat paying the opening, η as a share, under a minute from full), the floor's law explained through the normal force, YAKI-IRE's thermal shock named and explained, and the third entry's chop and the knee given their set.
+**Revised 2026-11-03 under R81** (Isaac's combat and magic fix): ENMA-CHŌ's pull and cost written on the page (the spear's heat paying the opening, η as a share, under a minute from full), the floor's law explained through the normal force, YAKI-IRE's thermal shock named and explained, and the third entry's chop and the knee given their set.
 
 **Muken's choice from the last scene.** Resolved by his card and his oath under R81-13: he holds HIBI clean on the dead crack and does not wake HIBIWARE. Isaac overturns by rewrite.
 

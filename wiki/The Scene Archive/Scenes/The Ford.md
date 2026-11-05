@@ -104,9 +104,9 @@ And went down the stair, into the town, at a walk, without looking back.
 
 ---
 
-The stair of Kessen ford runs down from the Tenrai house to the river in two hundred and eleven steps of gray granite, between houses of red pine with their eaves turned up and their shutters painted green and indigo and saffron, brass draw-lamps hung on chains over every landing, and at the bottom, where the stair meets the water, the long timber bridge of the ford with the Guild main running under its planking in a sleeve of brass and slate. Shōki went down all two hundred and eleven of them behind the old man in less than a minute, and he did not choose a single step.
+The stair of Kessen ford runs down from the Tenrai house to the river in two hundred and eleven steps of gray granite, between houses of red pine with their eaves turned up and their shutters painted green and indigo and saffron, brass lamps hung on chains over every landing, and at the bottom, where the stair meets the water, the long timber bridge of the ford with the Guild ward running under its planking in a sleeve of brass and slate. Shōki went down all two hundred and eleven of them behind the old man in less than a minute, and he did not choose a single step.
 
-*Pk.* A white stone, off his shoulder. *VWOOSH.* A shuttered window went up in flames. *Pk.* A black, off the back of his hand. *VWOOSH.* A draw-lamp on its chain burst like a seed-pod, raining burning oil. The old man was always a step ahead and a step aside, on the landing where the Tengan had seen Shōki's answer would not land, never close enough to strike and never far enough to lose, and every stone he flicked pulled the Sin of Wrath one more landing down the stair like a dog on a lead.
+*Pk.* A white stone, off his shoulder. *VWOOSH.* A shuttered window went up in flames. *Pk.* A black, off the back of his hand. *VWOOSH.* A lamp on its chain burst like a seed-pod, raining burning oil. The old man was always a step ahead and a step aside, on the landing where the Tengan had seen Shōki's answer would not land, never close enough to strike and never far enough to lose, and every stone he flicked pulled the Sin of Wrath one more landing down the stair like a dog on a lead.
 
 And the crowd parted for them. The old man walked through it. He walked through the gaps in the people the way he walked through the gaps in a man's sight, the Blink applied to bodies instead of eyes, so that the running townsfolk were always between him and Shōki and never once in his own way. Shōki walked through it behind him with his heat going out ahead of him like a bow-wave, and the people broke away from him on both sides screaming, a woman dragging two children by the wrists, a carter abandoning his barrow, an old man in a fishwife's apron simply sitting down on a step and covering his head, and the heat of Shōki going by blistered the paint on the shutters and set the hems of their coats smoking.
 
@@ -118,7 +118,7 @@ At the bottom of the stair the old man walked out onto the stepping stones of th
 
 ---
 
-The Kessen was in flood. The spring melt was coming down off the high ground to the east, and the river ran broad and loud and the color of green glass over the ford, chest-deep on a tall man and fast enough to knock a horse off its feet, and so cold that the stones the old man stepped across were furred with a rime of white where the spray froze on them. The draw-lamps along the bridge rail swung in the wind off the water. Under the bridge's planking the Guild main hummed in its brass sleeve, *mmmmmmm*. On the far bank, people who had run across the bridge from the town were packed along the shore, a hundred faces in the gray light, watching.
+The Kessen was in flood. The spring melt was coming down off the high ground to the east, and the river ran broad and loud and the color of green glass over the ford, chest-deep on a tall man and fast enough to knock a horse off its feet, and so cold that the stones the old man stepped across were furred with a rime of white where the spray froze on them. The lamps along the bridge rail swung in the wind off the water. Under the bridge's planking the Guild ward hummed in its brass sleeve, *mmmmmmm*. On the far bank, people who had run across the bridge from the town were packed along the shore, a hundred faces in the gray light, watching.
 
 Raizan stopped on a flat stone in the middle of the ford, with the green water roaring past on both sides of him, and turned.
 
@@ -170,7 +170,7 @@ The skin of his forearms crazed white and then broke, the ember-lit cracks split
 
 It was the sound of a man who has not felt cold since the black floor being told, all at once, what it is.
 
-He went down to one knee in the river. The water closed over his shoulders, over his chin, and the steam went up off him in a thick white column into the dawn, and the people packed along the far shore went silent, and the brass draw-lamps on the bridge swung, and under the bridge the Guild main hummed on as if nothing had happened, *mmmmmmm*.
+He went down to one knee in the river. The water closed over his shoulders, over his chin, and the steam went up off him in a thick white column into the dawn, and the people packed along the far shore went silent, and the brass lamps on the bridge swung, and under the bridge the Guild ward hummed on as if nothing had happened, *mmmmmmm*.
 
 ---
 
@@ -194,7 +194,7 @@ Shōki stood in the river with the steam going up off him and the blood running 
 
 Downstream, the steam drifted over the town and the bridge and the people on the far shore. Upstream, the Kessen came down green and cold and fast off the high ground, carrying meltwater from mountains that had not heard of either of them.
 
-And under Shōki's feet, at the bottom of the ford, a hundred and fifty meters of river ran in every direction: the whole crossing, the bridge, the near shore and the far, the Guild main in its brass sleeve, and every one of the faces packed along the bank. A Second Release away. *ABI. Without Interval.* One turn, and the edge of it would close round all of that like the lid on a pot, and no heat would cross it, not into the river and not out; the Kessen inside the boundary could take nothing from him any more, and everything he spent would stay, and the water would climb, second by second, from two degrees above ice to boiling, and so would everything standing in it, and on it, and beside it.
+And under Shōki's feet, at the bottom of the ford, a hundred and fifty meters of river ran in every direction: the whole crossing, the bridge, the near shore and the far, the Guild ward in its brass sleeve, and every one of the faces packed along the bank. A Second Release away. *ABI. Without Interval.* One turn, and the edge of it would close round all of that like the lid on a pot, and no heat would cross it, not into the river and not out; the Kessen inside the boundary could take nothing from him any more, and everything he spent would stay, and the water would climb, second by second, from two degrees above ice to boiling, and so would everything standing in it, and on it, and beside it.
 
 He would be warm again in a minute and a half.
 
@@ -224,9 +224,9 @@ The fight, for the record:
 Costs on the page:
 - **Shōki:** skin shattered across forearms, chest, back, neck and face; the Covenant Scar cracked through and weeping; blood running unhissed for the first time since the Hall; most of his tissue heat and the fever gone downstream; the aura rim thinned to a line; SHAKUNETSU broken for now; the bank intact.
 - **Raizan:** the blisters burst and weeping; soaked, shaking, coat scorched; two stones left in his palm; heat strain on a man of seventy-seven.
-- **Kessen:** the Tenrai house burning through; the plum garden gone; shutters and a draw-lamp fired down the stair; no townsperson burned.
+- **Kessen:** the Tenrai house burning through; the plum garden gone; shutters and a lamp fired down the stair; no townsperson burned.
 
-Invented (his to strike): the go-stone drag; the two hundred and eleven steps; the ford bridge with the Guild main in its brass sleeve; the Kessen in spring flood at two degrees; Raizan's account of who sent him (a Tenrai chair, in a room with a go board, whose present holder wears no collar) and his offer of the name as a fact, not a bargain; the child on the bridge rail.
+Invented (his to strike): the go-stone drag; the two hundred and eleven steps; the ford bridge with the Guild ward in its brass sleeve; the Kessen in spring flood at two degrees; Raizan's account of who sent him (a Tenrai chair, in a room with a go board, whose present holder wears no collar) and his offer of the name as a fact, not a bargain; the child on the bridge rail.
 
 Canon calls, flagged:
 - **Raizan's age against the Hall's date** is still open (the Ledger holds it); this turn gives no year count.

@@ -925,7 +925,7 @@ He stood over the Sin of Wrath with the blade above the dead crack and the livin
 
 **Calls, flagged (his to strike).**
 - **"12 Hands of Paru" read as "Twelve Hands of Parun"** (Parun is the root script of law; its scripts are called Hands). If Paru is its own name, it reverts.
-- **Hiromi's Dominion.** Read as Sovereignty contest over the space: the threads re-point like magnetic domains realigning; a lower Stage pushing back against Stage-gap pressure is the anomaly Naiser notices. Cost shown as a child's sieve-coarse Shell wasting most of the draw as heat, black fingernails, collapse. No numbers; he needs a card.
+- **Hiromi's Dominion.** Read as Sovereignty contest over the space: the threads re-point like magnetic domains realigning; a lower Stage pushing back against Stage-gap pressure is the anomaly Naiser notices. Cost shown as a child's sieve-coarse Shell wasting most of the pull as heat, black fingernails, collapse. No numbers; he needs a card.
 - **Glyphs:** [Uur] Disruption (Uurgath), [Th] Foundation (Archon not assigned), [Dom] Dominion (root, Irath). Irath placed seventh of the Fourteen per the Archon table.
 - **Malvin Yukari** and the hall that answered him: invented anecdote for the record. Naiser's mother's line carrying the null-light gift: invented.
 - **Senna's null-light (new).** Destructive interference against a Limina working: it cancels the Sin's glass along its thread. Cost: frost-white fingers, pupils blown (it takes light near her). Condition: it answers a working it matches; on plain matter it is a kunai. Counter: a working it cannot match, or a target with no working on it. The boomerang curve is the spin-lift effect.

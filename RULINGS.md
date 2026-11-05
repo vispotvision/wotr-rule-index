@@ -4079,3 +4079,9 @@ Context: Grounds: R85-31, R85-32, R85-33 and the five reviews in that folder. Ev
 this is the update for zettari
 
 Context: Isaac, 2026-11-05, in chat, with an updated Zettari document adding the Wellspring Sovereignty trait and the Spring Arts (Kuzima, Kutwaa and Kubadili Chemchemi), saved to imports/drafts/lineages-2026-11-05/. Indexed as R85-35. Under R85-31 its two mentions of a Family read as a Wellspring's kind.
+
+## 2026-11-05 — new
+
+let's make information like they did for the Zettari Valorin for all the House's of the Inner World detailed etc with info + moto and Yukari and there new stuff. each house should get its own little thing
+
+Context: Isaac, 2026-11-05, in chat. Indexed as R85-36. Read as: each Inner World House gets its own page in the shape of the Zettari and Valorin documents, with its own signature. Brief in imports/drafts/house-codexes/.

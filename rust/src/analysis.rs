@@ -121,6 +121,62 @@ const LOADOUTS: &[(&str, &[&str])] = &[
     ("standard", &["prose-law", "pov", "scene-structure", "dialogue", "register"]),
 ];
 
+/// lookup prompts by kind of scene, so the outside resources reach the draft through the tools
+const RESEARCH: &[(&str, &[&str])] = &[
+    ("duel", &[
+        "`lookup(\"wiktenauer\", \"<the weapon or master>\")`: real plays, guards and measure for the blows",
+        "`lookup(\"vsbattles\", \"<a comparable fighter>\")`: how that kit fights and what beats it",
+        "`lookup(\"hxh\", \"jjk\" or \"bleach\", \"<the condition, Domain or release>\")`: how it plays in a fight",
+        "`lookup(\"wikipedia\", \"<the bone or organ at risk>\")`: the wound, beside wotr-wound",
+    ]),
+    ("battle", &[
+        "`lookup(\"wikipedia\", \"<the closest real battle or tactic>\")`: how the ground and the numbers really played",
+        "`lookup(\"wikisource\", \"<a period account or manual>\")`: what it looked like to someone there",
+    ]),
+    ("talky", &[
+        "`lookup(\"wikipedia\", \"<the legal or court custom>\")`: how the procedure really ran",
+        "`lookup(\"wikisource\", \"<a period speech, charter or letter>\")`: the cadence of the form",
+    ]),
+    ("quiet", &[
+        "`lookup(\"wikipedia\", \"<the trade, food or craft in use>\")`: how the hands really do it",
+        "`lookup(\"tolkien\", \"<a comparable land>\")`: how a land is built",
+    ]),
+    ("explicit", &["`lookup(\"wikipedia\", \"<period medicine, contraception or the pox>\")`: if conception or disease comes up"]),
+    ("working", &[
+        "`lookup(\"superpower\", \"<the nearest power>\")`: capabilities, applications, limitations",
+        "`lookup(\"wikipedia\", \"<the real phenomenon>\")`: the governing law, beside wotr-phenomenon",
+        "`lookup(\"worm\", \"lotm\" or \"reverend-insanity\", \"<the power or Path>\")`: strange limits, ladders and cost",
+    ]),
+    ("standard", &["`lookup(\"wikipedia\", \"<whatever in the beat is new to you>\")`: the real thing before the draft"]),
+];
+
+/// The kinds of scene a beat or draft reads as; empty when nothing marks it.
+pub(crate) fn research_kinds(text: &str) -> Vec<&'static str> {
+    let marks: [(&'static str, &Regex); 4] = [
+        ("duel", rx!(r"(?i)\b(?:duel|fight\w*|spar\w*|blades?|swords?|fists?|punch\w*|parr\w+|stances?)\b")),
+        ("battle", rx!(r"(?i)\b(?:battles?|siege\w*|armies|army|regiments?|cavalry|ramparts?|massacre)\b")),
+        ("talky", rx!(r"(?i)\b(?:council|court|hearing|trial|negotiat\w+|bargain\w*|tribunal)\b")),
+        ("working", rx!(r"\b(?:Wellsprings?|Traits?|Domains?|Releases?|Essence|Soul Crystal)\b|(?i:\b(?:techniques?|workings?)\b)")),
+    ];
+    marks.iter().filter(|(_, r)| is(r, text)).map(|(k, _)| *k).collect()
+}
+
+/// The prompts block for these kinds, each line once; an unknown or empty list reads as standard.
+pub(crate) fn research_prompts(kinds: &[&str]) -> Vec<String> {
+    let mut lines = vec!["## Research prompts (only what is new this scene; ideas and fact-checking, canon governs; findings go in the author notes)".to_string()];
+    let known: Vec<&[&str]> = kinds.iter().filter_map(|k| RESEARCH.iter().find(|(n, _)| n == k).map(|(_, l)| *l)).collect();
+    let picked = if known.is_empty() { vec![RESEARCH[6].1] } else { known };
+    for l in picked.into_iter().flatten() {
+        let line = format!("- {l}");
+        if !lines.contains(&line) {
+            lines.push(line);
+        }
+    }
+    lines.push("- `lookup(\"datamuse\", \"rel_jjb=<noun>\")` or `\"sl=<sound>\"`: when a word reads generic or was already used".into());
+    lines.push("- `lookup(\"jisho\", \"<meaning>\")` or `lookup(\"wiktionary\", \"<word>\")`: names, sound words, old forms".into());
+    lines
+}
+
 pub(crate) fn loadout_tags(scene_type: &str) -> &'static [&'static str] {
     LOADOUTS.iter().find(|(k, _)| *k == scene_type).unwrap_or(&LOADOUTS[6]).1
 }
@@ -153,6 +209,10 @@ pub fn scene_brief(beat: &str, thread: &str, scene_type: &str, characters: &[Str
     if scene_type == "battle" {
         lines.push("7. The lead keeps POV through the battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools (R79-6): which, if any ____".into());
     }
+    let mut kinds = vec![scene_type];
+    kinds.extend(research_kinds(beat));
+    lines.push(String::new());
+    lines.extend(research_prompts(&kinds));
     if !fow.is_empty() {
         lines.extend([String::new(), "## FOW lines (never invent a number)".into()]);
         for block in fow {
@@ -639,6 +699,18 @@ pub fn pack_impact(markdown: &str, name: &str) -> Result<String, String> {
 
 #[cfg(test)]
 mod tests {
+    #[test]
+    fn research_prompts_follow_the_scene() {
+        assert_eq!(research_kinds("Two blades on the ice, then a Domain opens."), ["duel", "working"]);
+        assert_eq!(research_kinds("She peels an orange by the window."), Vec::<&str>::new());
+        assert_eq!(research_kinds("My domain of expertise"), Vec::<&str>::new());
+        let duel = research_prompts(&["duel", "duel"]).join("\n");
+        assert!(duel.contains("wiktenauer") && duel.contains("datamuse") && duel.matches("vsbattles").count() == 1, "{duel}");
+        let none = research_prompts(&[]).join("\n");
+        assert!(none.contains("new to you") && !none.contains("wiktenauer"), "{none}");
+        assert!(research_prompts(&["nonsense"]).join("\n").contains("new to you"));
+    }
+
     use super::*;
     #[test]
     fn python_shapes() {

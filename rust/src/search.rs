@@ -503,5 +503,6 @@ pub fn scene_context(draft: &str, budget: i64) -> String {
     if !unknown.is_empty() {
         out.push(format!("\n## Names with no page (check before writing anything numeric or canonical about them; never invent)\n- {}", unknown.join("\n- ")));
     }
+    out.push(format!("\n{}", crate::analysis::research_prompts(&crate::analysis::research_kinds(draft)).join("\n")));
     out.join("\n")
 }

@@ -621,7 +621,7 @@
   },
   {
    "name": "scene_brief",
-   "description": "The short pre-write for a set piece (R79-2: scene_brief and the full pipeline are\nfor set pieces only; a turn goes straight to the draft). Give the beat Isaac handed\nyou; get back the brief to fill before drafting: POV choice (write from whoever knows\nleast, R5-C1), what the POV knows / wrongly believes / the reader knows, the cost,\nthe close, each named practitioner's kit; plus FOW lines for the named characters\nand the rule loadout for the scene type. The brief lives in the author notes at\narchive; nothing of it is printed under the scene. culture is kept for callers and\nno longer used.",
+   "description": "The short pre-write for a set piece (R79-2: scene_brief and the full pipeline are\nfor set pieces only; a turn goes straight to the draft). Give the beat Isaac handed\nyou; get back the brief to fill before drafting: POV choice (write from whoever knows\nleast, R5-C1), what the POV knows / wrongly believes / the reader knows, the cost,\nthe close, each named practitioner's kit; plus FOW lines for the named characters\nthe research prompts for the kind of scene, and the rule loadout for the scene type. The brief lives in the author notes at\narchive; nothing of it is printed under the scene. culture is kept for callers and\nno longer used.",
    "inputSchema": {
     "properties": {
      "beat": {
@@ -668,7 +668,7 @@
   },
   {
    "name": "scene_context",
-   "description": "The lorebook: paste a draft, a beat, or Isaac's prompt and get back what the wiki\nknows about every name in it — character cards (full, capped), pages for places,\nartifacts, disciplines and factions (their head), the prior scenes on the same\nground (semantic), struck Büri-register terms, and any name the wiki has no page\nfor. Call it before drafting and again before posting; nothing is written.\nbudget caps the reply in characters.",
+   "description": "The lorebook: paste a draft, a beat, or Isaac's prompt and get back what the wiki\nknows about every name in it — character cards (full, capped), pages for places,\nartifacts, disciplines and factions (their head), the prior scenes on the same\nground (semantic), struck Büri-register terms, any name the wiki has no page\nfor, and research prompts for the kind of scene it reads as. Call it before drafting and again before posting; nothing is written.\nbudget caps the reply in characters.",
    "inputSchema": {
     "properties": {
      "draft": {

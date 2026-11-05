@@ -3929,3 +3929,9 @@ Context: Indexed as R85-9. Grounds: R84-14 puts monsters on the Level and Grade 
 Agent ruling (Natalie): Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.
 
 Context: Indexed as R85-10. Grounds: THE TONE and R78-6 (every practitioner a constant coat in their own color) are newer than The Color of Essence's bottom rows, and the wiki's own showcase stories already write it this way.
+
+## 2026-11-05 — new
+
+Agent ruling (Natalie): Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
+
+Context: Indexed as R85-11. Grounds: R84-26 (vows are small Fate, anyone's to make, breaking one lands at once), R84-5 (Stages can be bought) and the Sixteen Stages page, whose argument over a purse at the Throne stays an open quarrel in the world. Smaller page-level fixes from the audit are in imports/drafts/magic-audit/.

@@ -3917,3 +3917,9 @@ Context: Indexed as R85-7. Grounds: R27-1 (one power at two levels, Titan and We
 Agent ruling (Natalie): Every Wellspring's Spirit line carries Fracture of Worlds' "Temperance through" name, with the confessors' reading kept beside it.
 
 Context: Indexed as R85-8. Grounds: Fracture of Worlds outranks wiki pages in the canon hierarchy and names all sixty, against the Hub's claim that it does not; the thirty replaced readings had no ruling. Nothing written is lost.
+
+## 2026-11-05 — C-173
+
+Agent ruling (Natalie): A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
+Context: Indexed as R85-9. Grounds: R84-14 puts monsters on the Level and Grade scale and says a core is worth more the stronger the monster; Tier Ladders X says a T is not a Grade. Reading T straight across gave a Stage VIII stone from a D-depth beast.

@@ -1,0 +1,740 @@
+{
+ "north": {
+  "pages_written": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Amber Cities of Nalūn.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sealed Charter of the Concord.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Hundred Crowns of the Midmarch.md"
+  ],
+  "inventions": [
+   "NALŪN: Hall of Links (the dome in his art); call-towers (the minaret-like towers, used by criers); the unfinished triumphal arch in his art explained as Marshal Han Do-yun's, raised when Sum-gol was still the whole South, paid in bills that went dead after his quartermaster stopped a drain, and now entered as a forfeit with interest running.",
+   "NALŪN: the march contract (road, term, bread schedule, token for the marshal; looting kills his war-chest paper) and the quiet fee paid to each side, which is how the cities pay both sides and owe neither.",
+   "NALŪN: 'surety', 'the call' and 'reading a man's seal' as the local words for coat, Pressure and sensing; amber Chain Guard surcoats; Bridgemarch's council platform slung over the drop; odds posted on the Trial of Ten Deals; jokes such as 'paid in full', the cheese-board face and 'conquered eleven times and billed for it twelve'.",
+   "CHARTER: the opening case of 677 IC: Whitlow Sixtoes (Catkin wax-carrier), clerk Corbin Ashlar, Examiner Dame Isolde Averell, the refund of six copper, the riot with forty-one dead, and the phrase 'a Sealhall refund'.",
+   "CHARTER: the window instruction that writes an unpapered petitioner as 'nemo', nobody. This is offered as the origin of the Russet Crown's 'nobody' on the rolls. Brokencollar is only said to claim Whitlow reached it.",
+   "CHARTER: the Crown in Charter (the Concord's composite crown, pledged to the chancery after the Great Concord Splintering, and the Sealed Charter as the instrument that did it); the bill of sale 'one carcass, condition as seen', bought from a bankrupt town council; the First Beam; Long Spine Street; the Witnesses, called Cory and Tess; the Hall of the Seal; the Founders' Yard.",
+   "CHARTER: Waxgate's trade (hives, verdigris green, smalt blue, gold leaf, the Worshipful Company of Waxmakers, the hand-dab gate toll, the unnamed obsidian shed); the Marrowkin assessor who visits every ten years; the Legion drilling below the walls in blue and white.",
+   "MIDMARCH: nearly everything, since nothing was on file: the river Aldwater; the Tuppence kings (Gerent III) and the 662 IC fight on the bridge with Marrick captain Sella Drax; the Standing Army of about two hundred that marches the kingdom each morning; the Scale Minster (the green-roofed cathedral in his art, made a Sancta Lux house).",
+   "MIDMARCH: Queen Tizz Copperwick IV of Tollgarth and the Self-Minding Portcullis; the Harl Hills; King Ambrose Fivefold and the Stitch Hills; Crown Row; the coronation law of three neighboring crowns, or two and a Measurewright; the Coat-Turning fair every tenth summer.",
+   "MIDMARCH: the Guild counts of 83 and 117 crowns; the sects Sixth Arch Boys and Harl Hill Scorchers; 'colors', 'the crown' and 'the herald' as local words for coat, Pressure and sensing; 'Who's king today?'; the Rootgate alder joke, which touches another writer's Moss Court realm."
+  ],
+  "calls": [
+   {
+    "call": "The style 'Kingdom of Nalūn' survives only in the salutation of its diplomatic instruments. The cities are free and no one has been crowned.",
+    "grounds": "KINGDOMS.md and the 11-05 ruling say Nalūn is not a kingdom, but the Guild Accord page names 'the Kingdom of Nalūn' on the first circle. The old page already said the title exists because the Codex needs a sovereign signatory, so both hold without editing the Accord page."
+   },
+   {
+    "call": "The High Chainlord and the Council of Links stay, as a signer with a chair and no crown and as a league council over seven city councils.",
+    "grounds": "KINGDOMS.md says 'city councils, no crown'; the brief says to keep every old fact that still fits. The Powers page also relies on the Council of Links."
+   },
+   {
+    "call": "Halcrest follows the book. The gauge-housings become assay posts, the brine and lift works are named without any draw, and the worked lamps stay costly.",
+    "grounds": "His order to stay true to the book, with BRIEF_REST retiring gauge-housings and the draw. The book's line about draw being too dear for the tea-house was rendered as worked lamps costing more than a sergeant's pay. The archived text still says draw and gauge-housing, so this is reported."
+   },
+   {
+    "call": "The Cuttings run from the galleries under Halcrest out to Cutwall's moving face, and Orrel is a factor house holding galleries under Halcrest.",
+    "grounds": "The book places the Cuttings under Halcrest, and the old page makes Cutwall the district's chief city. Both are kept."
+   },
+   {
+    "call": "The Ring is written as Marrowhold ('which older maps call the Ring'), and the Corridor now runs to its furnaces. Stannvaard is dropped from Nalūn's trade.",
+    "grounds": "KINGDOMS.md: Stannvaard is gone, the Ring becomes Marrowhold, and Thornwall's corridor runs there. The Powers page and Inventory still name Stannvaard as Nalūn's credit partner and will need the same fix."
+   },
+   {
+    "call": "The corridors were closed by the war that ended at Shimane, stated in the present. Cozbi Mahuo's name is dropped from this. The Alkia and Torven Greis passage and his quote stay.",
+    "grounds": "The book ends that war around 715, and Arc Two (Cozbi) is off public pages by the brief. The old page attributed the closure to a war with Cozbi."
+   },
+   {
+    "call": "The Open Rulings block is removed from the public page, including the line naming Muken's mother as the bonded-labor test case and the Kōkan remnant. The tokenless underclass stays, with no named case.",
+    "grounds": "The task keeps the main cast's secrets off public pages. The book supports the drainage-book entries and the 'taken in' practice. The pending-ratification notes were process text."
+   },
+   {
+    "call": "The Accord 'holds no territory' as a lawyer's truth. A pledged composite crown holds the land under the Sealed Charter, and the Accord holds the pledge and rules in fact.",
+    "grounds": "KINGDOMS.md names the Guild Accord as who rules. The Articles page says it is not a sovereign and calls the Concord a composite monarchy. The Bench page gives land, law, levy, tax and hanging to the Crown. This reading keeps all of those."
+   },
+   {
+    "call": "The Citadel stays a nexus between planes, and Sealhall is its foot on the ground: agents bound to the Lattice see the spire from there and the beacon line comes down there. The Neutral Chambers and the Bench's door are placed under the Ribs, and a Concord Gate in the forecourt.",
+    "grounds": "The Citadel page says it exists in no one realm, and KINGDOMS.md puts the court of judgment inside the bones. Sealhall therefore cannot be the Citadel. The Neutral Chambers had no fixed location on file."
+   },
+   {
+    "call": "The Guild-hour water clock moves from Stannvaard to Sealhall, with the page noting that older rolls place it at Stannvaard.",
+    "grounds": "Stannvaard is gone as a state, and the brief says to move a fact that still fits. The Accord Inventory still says Stannvaard."
+   },
+   {
+    "call": "The Articles' 'no standing army' and the Concord Legion are both kept, with the page openly noting the gap as a joke at the Accord's expense.",
+    "grounds": "This contradiction already exists between the Articles and the Military page. It is reported here and was not settled."
+   },
+   {
+    "call": "Armies cross the Charter on a Writ by a named road, and most go around through the Midmarch.",
+    "grounds": "KINGDOMS.md says the Center is marched through every generation, and Sealhall's law would not simply allow free passage. Both are kept."
+   },
+   {
+    "call": "Verath is the Charter's pen town, with the Labor Authority's crossed hammer and chain seal and Darvo's line. The seal detail and the corridor crossing are taken from a scene in the pre-reset archive, while the quote and price are on the current Peoples page. Nothing else from that scene is used.",
+    "grounds": "KINGDOMS.md lists Verath as a major place and says Beastkin law belongs here. The old scene is not canon for events, so only setting detail was taken and the exile plot was left out."
+   },
+   {
+    "call": "The 'Brine crossing east to the marches of Sum-gol' stretch of the first circle is placed in the Midmarch, with several signing kings since deposed.",
+    "grounds": "The Accord page names that stretch and gives no realm for it. The Midmarch lies on that line and has no other Accord reach on file."
+   },
+   {
+    "call": "Marrick arms on the Midmarch page are spears, and Han Do-yun's march is left undated so no date for Sum-gol's break-up is fixed.",
+    "grounds": "The task's rule on spears (R83-4), and the 11-05 ruling gives no year for the break-up."
+   },
+   {
+    "call": "The empire appears only as one later-hand line on each page and Muken is not named. The Midmarch line ends on the clerk not recording what the empire did about being sold half a bridge.",
+    "grounds": "The task allows the device and keeps arc plot off these pages."
+   },
+   {
+    "call": "Fox-Spirit people are mentioned only as on file, not at all on these pages, and the Bearkin hills beside the Charter are unnamed.",
+    "grounds": "The 11-05 ruling leaves the Fox-Spirit lineage pending Yoko Mishiro's card. Unnamed hills fix no new geography."
+   }
+  ],
+  "questions_for_isaac": [
+   "Is the pledged 'Crown in Charter' the reading you want for the Concord, or should the Accord simply rule the Charter with no crown left there at all?",
+   "Should the Midmarch's river stay Aldwater, or does it already have a name in your head? The Painted Rivers and Kingsbridge pages will both lean on it.",
+   "The Whitlow Sixtoes story gives the Russet Crown its name by way of the 'nemo' window instruction. Keep it, or does the realm's writer need a different origin?",
+   "Sealhall's arena and Marrowhold are both built in giant bones. His art shows both, so the pages keep them unlinked and leave the beast disputed. Do you want them kept separate, or tied together later?"
+  ],
+  "old_pages_superseded": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Nalūn — The Chain-Cities.md (left in place, not deleted). Pages that still say 'Kingdom of Nalūn', 'Chain-Cities' or 'Stannvaard' as Nalūn's partner: The Powers of the Dark Ages, Factions at a Glance, The Guild Accord, The Inner World overview, desktop/inventories/nalun.md, desktop/inventories/accord.md"
+  ]
+ },
+ "center": {
+  "pages_written": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/The Hobgoblin Expanse.md (filename kept; title now The Crimson Isles of Vorruk-Khal; no king kept)"
+  ],
+  "inventions": [
+   "MANDATE: the she-wolf's name and rank, Kaan Shaarn, and the soldiers' saying 'Report to the wolf'.",
+   "MANDATE: Drekka Vreshen, 'Drekka Never-Late', Mandate-Holder in 715 IC.",
+   "MANDATE: the Grain Roll, the register of who counts as a member of the state. It replaces 'citizen' and 'citizenship'.",
+   "MANDATE: split ration-tallies, replacing military scrip.",
+   "MANDATE: a commander takes the district's name with the post. This explains how Vreth-Kaan is both a district and the commander in the 702 IC epigraph.",
+   "MANDATE: the Wall Games, and a joke that betting is unlawful by no decree because the Ironfold could not enforce one under the Assessment ratio.",
+   "MANDATE: the Door and the Knock, a named Lattice and Ironblood combo; a monthly list of officers commended.",
+   "MANDATE: a decree forbidding officers to own god-bone; a joint border moot at the foot of Marrowhold's ribs (the old Stannvaard commission moved).",
+   "MANDATE: the green smoke in the Kharven page's war row is attributed, by the wall's own guess, to Gorge copper burned with Isles brimstone.",
+   "ISLES: Khal-Serrat's gloss, with 'serrat' as an invented old root meaning the place where a weapon is set down.",
+   "ISLES: Voices (the delegates), the weapon racks at the foot of the Rock with an open-palm seating rite, the refused awning, the two-Voice hearth count every twelve years, the Speaker's spring recital of the law, sign-callers for Vow-keeping Voices, and the one-season War-Kaan.",
+   "ISLES: The Unpaid Toll, the Toll Entry read every spring, with the Scattering-era passes (the Ridgewall's ground) entered as surety; Greymane's yearly piece of slate sent in answer; no Isles brimstone or glass sold north of the wall.",
+   "ISLES: the Loans of Spears, including the Second Loan of four hundred in 688 IC.",
+   "ISLES: Mokk-Vesh the shipyard town; about four thousand Order spears in rotation; 'Deferred' as the Rock's heading on the slag-yards, raised eleven times.",
+   "ISLES: the c. -50 Last Lapse timeline row, and a row dating the Old Vaross page's axe-destroyed year 411 as 411 IC.",
+   "ISLES: the later-hand line that the moot found, by nine, that the debt passed to Whitemere.",
+   "ISLES: the jokes section."
+  ],
+  "calls": [
+   {
+    "call": "The Decree Stone is now as tall as a keep. The founding sentence runs high on it, and the old 12 ft by 8 ft surface is kept as the working face where decrees are cut.",
+    "grounds": "KINGDOMS.md says 'a sentence carved in stone as tall as a keep' and wins over the old size. Splitting the Stone this way loses neither fact."
+   },
+   {
+    "call": "The Ironfold is written as a sworn military order bound by the Crimson Order's Engraving, with no house or crown. 'Continental empire' is gone. The goblins' names 'Empire in the North', 'Imperium' and 'Imperator' stay only as bench slang.",
+    "grounds": "The task asks for a decree-state run by a military order. The Cold and The Debt use those slang names, and archived scenes stand."
+   },
+   {
+    "call": "Tinker's Gorge keeps the old ~3,000 as the Roll figure, and adds 4,000 goblins a shift (8,000 in all) as uncounted contract hands. Those hands are paid in bunk space and soup and called 'the lesser' in decrees.",
+    "grounds": "The Debt (an archived scene) contradicts the page's 3,000, and scenes outrank wiki pages. The one explanation that keeps both numbers is that the Roll does not count contract hands."
+   },
+   {
+    "call": "THE TEST: the Gorge as The Debt shows it is close to a factory, with shifts, quotas and a bell. I kept it, written as an Arsenal-style hand yard with no mains, gauges or draw-lamps. Lamp-wardens tend the lamps and the goods are valve-seats and bellows-fittings.",
+    "grounds": "Anything shown in an archived scene stays true (R82-46), and The Test names the Venetian Arsenal as a medieval model. This is the one item on these pages most exposed to The Test."
+   },
+   {
+    "call": "Moved old district facts to the new map. Gorr-Shal now runs from the foot of the Greymane wall to Marrowhold's ribs, and Marrowkin factors replace Stannvaard's. Keth-Vorruk's settlers now come out of the Hundred Crowns of the Midmarch.",
+    "grounds": "Stannvaard is gone and the Ring became Marrowhold. KINGDOMS.md places neither border, and the old page has no district facing Kharven, so one had to be assigned."
+   },
+   {
+    "call": "Ketsuen's relation moved to the Silver Cedars of Yukari, and the Thread Standard with it. The shared border is gone, so the two now deal only through observers.",
+    "grounds": "KINGDOMS.md folds Ketsuen into the Silver Cedars, which lie in the South."
+   },
+   {
+    "call": "Dawi replaced by Marrowkin throughout both pages, including the three oath-houses (now tally-houses) in the Scattering chart and the c. 500 IC contact. The Kuntur Reach Dwarves are dropped from the Isles page, so vent-forging is now taught by the Marrowkin.",
+    "grounds": "KINGDOMS.md: 'The Dawi: replaced by the Marrowkin.' The Kuntur Reach still exists on the Dawi pages and the Reader's Codex. The volcanic-island kinship line was lost with the swap."
+   },
+   {
+    "call": "Vesh-Undaal is the old tally name of the moot-isle, and Khal-Serrat is the name in use for both island and town.",
+    "grounds": "KINGDOMS.md names Khal-Serrat the moot-isle. The Old Vaross page attests Vesh-Undaal, so the name is kept rather than erased."
+   },
+   {
+    "call": "The parliament is now the Keth-Gorrum, a war-moot under open sky at the foot of the Rock. The opening story loses its slate roof, and the Tinkers' devices move to the cliff-top.",
+    "grounds": "KINGDOMS.md: 'a war-moot under open sky'. The task also bans parliament wording. Its form draws on real open-air law assemblies: a law rock, a recited law, weapons brought to the moot."
+   },
+   {
+    "call": "The Rock (High Concord script, Engraved) and the timber archive (Vaross tally-cuts) are both kept, as two records with different jobs. Sir Hamon's crest goes on the timber.",
+    "grounds": "The Expanse page and the Old Vaross page disagree about what the record is made of. Each stays true this way."
+   },
+   {
+    "call": "Fixed internal date arithmetic. The '765th year' is now unbroken sitting since the c. -50 Last Lapse, 'fourteen hundred years' in The Orc Question became two thousand, 'early First Eon' became the long age before the Scattering, and the Ashenmoor Period is two centuries by the chroniclers and nearer twelve by the calendar.",
+    "grounds": "The charter at c. -1,050 and the Scattering at c. -1,340 cannot give 765 or 1,400 years by 715 IC. The Reader's Codex and the Geography hub quote the seven-hundred figures, so I kept 765 and explained it rather than changing it."
+   },
+   {
+    "call": "Kept both etymologies of Undaar-Keth on the page: the heralds' reading (platform, open palm) and the grammarians' (standing thing, seal).",
+    "grounds": "The old page and the Old Vaross page disagree. The argument is left in the open and not settled."
+   },
+   {
+    "call": "Placed the Fortress-Monastery of Haldrek and Echohold of Stoneblood Vale in the Mandate's Vreth-Kaan district.",
+    "grounds": "The Goblinoid Peoples page lists them as Crimson Order settlements with no location. The Isles page refers to 'mainland fortress-monasteries'."
+   },
+   {
+    "call": "The Isles are the North's enemy through the old toll debt, the ridge passes claimed as goblinoid ground, a brimstone embargo, and loans of spears. The Mandate is the one fighting on the wall. The two stay cold to each other and agree only on this.",
+    "grounds": "Isaac's word that the hobgoblin states stay the North's enemy over the Greymane wall, built on the valley-lord and passes facts already in the Scattering. The present (715 IC) is a cold peace, and the nine-year war stays under the later hand."
+   },
+   {
+    "call": "Kept the slag-yards under Gorr-Keth as a generic section on the Isles page, with no named person and no plot.",
+    "grounds": "They are in Vaashuuk's card and The Debt. The old page's clean picture of the Isles would have contradicted them."
+   },
+   {
+    "call": "The old 'Flagged Gaps' heading stays. The out-of-world rows are removed or turned in-world, and the visual pass row is dropped because KINGDOMS.md now supplies the look.",
+    "grounds": "The brief says to keep headings, and these are public pages."
+   },
+   {
+    "call": "The present-day Stone-Carver is left unnamed, with the page saying she has asked not to be named. The Fall and the Greymane gambit from The Uncounted stay off the page.",
+    "grounds": "Arc plot stays off public pages."
+   },
+   {
+    "call": "Other pages still carry stale wording; I did not touch them: 'Old Vaross — The Goblinoid Tongue' (parliamentary wording, Stannvaard philologists, Dawi speakers), The Goblinoid Peoples (Dawi), A Reader's Codex and the Geography hub (parliament, Kuntur), The Powers of the Dark Ages (Stannvaard), Articles of the Accord (Stannvaard), and the Kharven page's relation row.",
+    "grounds": "Reported for the launching session to reconcile."
+   }
+  ],
+  "questions_for_isaac": [
+   "Old Vaross and the Geography hub call the Isles' assembly a parliament. Should those pages move to 'war-moot' too? My pages assume yes.",
+   "Keep or cut the Toll Entry and the embargo as the Isles' reason for being the North's enemy? They are my invention, built on the valley-lords in the Scattering chart.",
+   "Is 8,000 uncounted goblins in Tinker's Gorge acceptable against a realm of about 55,000 on the Roll, or should The Debt's figure be read as loose?"
+  ],
+  "old_pages_superseded": [
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist.md, by the staged rewrite at the same relative path",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/The Hobgoblin Expanse.md, by the staged rewrite at the same relative path"
+  ]
+ },
+ "central-warlords": {
+  "pages_written": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Moonlight Forest of Mosk-Vaal.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Rose Coils of Coilspire.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Violet Peaks of Caelspire.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Russet Crown of the Unpapered.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Central Warlords.md"
+  ],
+  "inventions": [
+   "Mosk-Vaal, people: Captain-General Piers Vantry, Dame Emmot Vantry, Mire-Mother Ssaaleth the Long Breath.",
+   "Mosk-Vaal, stories and places: the Third Column of the Aldwater League (683) and the Orchard, with Vantry pears planted on the dead in company order. Also the Second Battle of Rootgate. KINGDOMS only names Rootgate and Glowwater; their detail is mine.",
+   "Mosk-Vaal, offices and law: the Mire-Mother as an office, filled by a lung contest in Swamp Parun at Glowwater (the title is taken from the on-file move Mire-Mother's Yes). The Moss Court's words (We Will Keep It For You) and colors. The Salt Sentence and the salt licensing. The causeway and reclaiming fees. Debts passing to the tree. Nine-year grown rooms.",
+   "Mosk-Vaal, words and trade: the meaning of the name Mosk-Vaal. Trade in moss-dye, moth silk, wound molds and lamp-stalks. Aura coat 'ssuul, the rind'; Pressure 'the damp'; sensing 'asking the moss'. Moths and Selunite as the source of the forest's light.",
+   "Rose Coils, people: Marshal Corbel Aumery, Captain Ysolde Penhale, Remembrancer Zsovrath Oda-riss, Gorvaine the Unanswered (the conqueror on the statue, supplying a name for Natalie's reading in KINGDOMS.md).",
+   "Rose Coils, stories and places: the War of the Rose Teeth (697) and the poison Widow's Rose. Bothhands, the hospital town at the ford. Lamp Stair. The fused-glass account of Stoneglass Hollow, with past events showing in the glass. The Reading of Gorvaine.",
+   "Rose Coils, institutions and words: the Standing Record and the Remembrancer. Words (It Has Been Tried) and colors. The posted-price trade in physic, poison and memory. A bed paid for with a true story. Aura coat 'the entry'; Pressure 'the objection'; sensing 'looking him up'. The land as curved rose ridges.",
+   "Violet Peaks, people: King Odo Gambrel of Upper Marl, Warden Vessaly Caelward, called Nobody's Landing.",
+   "Violet Peaks, schools and contests: the King's Hat and the Long Step match. The Gray Kites, Highroost Shrikes, Stair Wardens, Longdrop Swifts, Old Mews and Lilac Stair. The moves Highroost Stoop and Long Afternoon. Words (Step Off) and colors.",
+   "Violet Peaks, law and trade: the hoisters' company, the Drop court, fowlers and the bridge penalty, the feather-fletching and almanac trades. Aura coat 'the lift'; Pressure 'the downdraft'.",
+   "Avian Kin anatomy: crests, forearm vanes, and flight as an earned art. The Guild's rolls carried only one table row on the Avian Kin. The summit pool as a Cymorath Core (the Wellspring itself is on file; the site is new).",
+   "Russet Crown, people: Assessor Pell Wickham, Queen Sefa Tuen-zhiv.",
+   "Russet Crown, story and places: the Roll of 668, in which every resident gave the name 'nobody', and its legal effect. The Heap's history and the rite of arrival. The Underhill Forge, as descendants of Orsa Underhill. Lower Sedge. The Long Way, the runaway road. Collar-bits as local money.",
+   "Russet Crown, law and words: the ban on keeping lists. Rent as one day in seven. 'Licensed returners'. Pressure 'the old man'; sensing 'smelling the iron'.",
+   "Central Warlords page: Quartermaster-General Wat Hasketh and the four bills of 709, the Table Nobody Called (Bothhands, 612), the central rule, and the wants table. Also the 'new king has sent inquiries' line and the later-hand margin notes on Whitemere across all five pages."
+  ],
+  "calls": [
+   {
+    "call": "Placed old beastkin settlements inside the Russet Crown beyond KINGDOMS.md's list: Greyfang Crossing, the Shrine of Nine Howls, the Glade of the Slumbering Root. Lumis Village, Korr Orvun and Ulg-Vorakar stay unplaced. The Dusk Quarter of Altherion stays in Altherion.",
+    "grounds": "Keep every old fact and move it to where it now belongs. Those three had no fixed location on file, and the Crown needs Wolfkin and Bearkin seats. Only Catkin towns are listed in KINGDOMS.md."
+   },
+   {
+    "call": "Placed the three Verdant settlements on file (Ghurash Hollow, the Blooming Mire, Totemdeep) in the Moonlight Forest, alongside KINGDOMS.md's three.",
+    "grounds": "They are the Verdant settlements the Goblinoid page names, and the old Expanse page says the bands went into interior wetlands."
+   },
+   {
+    "call": "Moved the Dawi relations on the beastkin pages to the Marrowkin: Bearkin 'honor-bound kinship' with the Ember Holds, and Serpentkin 'mutual respect grounded in preservation', now applied to the Marrowkin tally.",
+    "grounds": "The Marrowkin replace the Dawi. The source pages still say Dawi and need their own pass."
+   },
+   {
+    "call": "Assigned Cymorath as the Wellspring of the Caelspire summit pool. The Avian Kin essence stays on the page as 'Aer and Caelum', as the table gives it.",
+    "grounds": "Cymorath is the canon Air of Ascent (freedom and motion). Only the site is invented. The Sixty are untouched."
+   },
+   {
+    "call": "Left the great tree of Mosk-Vaal and the permanent autumn of the Russet Forest as disputed among scholars, with no Archon or Titan named. The Caelspire bridge is only attributed by Measurewrights to the Great Spirit War.",
+    "grounds": "The instruction not to invent or kill any Archon or Titan, and R83-11."
+   },
+   {
+    "call": "Kept the Marrick company's spears as spears. They appear in the Vantry story as a walk-out at contract's end, reusing the habit on the Southern Warlords page.",
+    "grounds": "R83-4 keeps pike for the Imperial Age, and the Southern page already has spears."
+   },
+   {
+    "call": "Aligned with sibling staged pages. Tollgarth and Pennycrown are used as the Hundred Crowns page defines them, so the two armies became an invented Aldwater League and Odo became king of Upper Marl, crowned at Pennycrown. The Vantry suit went to the Harrowgate Fair Court. Sealhall took the lawyers because Waxgate is the wax town. Enforcement's collectors still go into the Russet Forest, matching the Charter page.",
+    "grounds": "Those pages landed while I wrote. Their facts win where they are specific."
+   },
+   {
+    "call": "Left Elves and Fox-Spirits off these pages entirely, including Elven relations listed for Wolfkin and Serpentkin (the First Betrayal, scholarly cooperation). Saiya of the Catkin record is also left out.",
+    "grounds": "Task instruction on Elves and Fox-Spirits. Saiya is a working mercenary and needs no place on a public realm page."
+   },
+   {
+    "call": "Used the later-hand margin device on all five pages for Whitemere, with comic and procedural content only: no battles, no Muken by name, nothing on the split. The Central page carries a short in-world 'On the record' block in the archivist's voice, in place of the Southern page's process notes.",
+    "grounds": "The 715 present, the task's allowance, and arc plot staying off public pages. The memory rule keeps him and the process off pages."
+   }
+  ],
+  "questions_for_isaac": [
+   "The Five Beastkin Lineages page and others still say Dawi for the relations I moved to the Marrowkin. Those source pages need the swap at merge, or the two will read differently.",
+   "KINGDOMS.md has a stray empty table header at line 31-32, above the Central Warlords note. It is harmless; I read the second table as the law.",
+   "Nothing is struck or blocked. Every name above is yours to keep or cut, the Avian Kin anatomy and the 668 'nobody' roll most of all, since they carry the most weight."
+  ]
+ },
+ "south": {
+  "pages_written": [
+   "/home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Ember Holds of Marrowhold.md",
+   "/home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/inner/wiki/Races & Peoples/The Peoples/The Marrowkin/The Marrowkin.md",
+   "/home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/inner/wiki/Races & Peoples/The Tongues of the Realms/The Grammars/The Tally-Tongue of the Marrowkin.md",
+   "/home/oridon/wotr-rule-index/desktop/inventories/marrowkin.md"
+  ],
+  "old_pages_superseded": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Guild Seat of Stannvaard — The Metal-Wardens of the Ring.md (staged copy left in place, not deleted; its source in rest/ is also superseded)",
+   "wiki/Races & Peoples/The Peoples/The Dawi Peoples/The Dawi Peoples.md (live; superseded on merge)",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/Runic Dawi — The Tongue of the Holds.md (live; superseded on merge)",
+   "desktop/inventories/dawi.md and desktop/inventories/stannvaard.md (left in place as ordered; superseded once marrowkin.md is approved)"
+  ],
+  "inventions": [
+   "PEOPLE, pitched for his red pen: chest high to a human, door wide, twice the weight they look, cannot swim. Large wide-set eyes, amber to coal red, with a reflective back layer; carved horn or ivory slit visors in daylight, by clan.",
+   "Hot rust-dark blood that glows dull in a dark cut, snow melting on them, steam in the cold, and cold-sickness after a long winter away from the Ring.",
+   "The rise: ivory bone ridges through the skin from about age thirty, both sexes, with Soul-Runes cut into them. Skin grained like old tusk. Beards on both sexes, ash-white yellowing to rib color.",
+   "Deepkin as the people's cold version: slag-gray eyes, chalk rise, no heat.",
+   "Sound: a low flat voice with an under-note felt in the breastbone; bone-hearing with the jaw to a wall; rib-knock, a tapped code that carries the strong grade as a doubled knock.",
+   "NAMING: given name (Body element plus work element), oath-name in second place, line in the genitive, and the cut-name, the largest thing you ever took from the Body (Sixty Tuns, Half a Rib, Thimble). Childhood shift-names such as Second-Shift Four. The First Entry around age seven, with a smear of marrow on bread entered as the opening debt.",
+   "TONGUE: Tallukieli (Tally-Tongue), Ytinkreis (their own name), Luuthruk (Marrowhold), rintaluu, solisluu, kylki, Ykt-kaht Kylki (Twelfth Rib), luu, ytin, veri, hehkuveri (glow-blood), hiillos, Lainur (the Lender), velka, palaute. The Return Clause line 'Lainuran palaute on'. Out-Tally and Low Tally as register and dialect names. 'High Line' and 'Cask Line' for the old High Dwarves and Barrel Dwarves.",
+   "DEBT: the Return Clause on every sale, the Cutting Right (an unentered cut is tried like murder), bone-runners, the dead 'returned' as payment against the account, rolls read with their balance on the Drawing-Off.",
+   "The Lean: sold pieces are reputed to lean toward the Ring, left disputed between Guild assayers and Measurewrights.",
+   "GOODS: old ivory, sinew, marrow-tallow, bloodslag, ember dye and relics. Emberwort (the red growth, moss to forty-foot fern) and redcaps (its fungus).",
+   "PLACES: the Cutting Fair at Collarbone; Breastbone citadel above with Thane-Gorr's seven levels below; Collarbone as the market bone; the Twelfth Rib housing Kegshard Hold; Kolmthruk on the Third Rib and Barkstone on the northern wall as the rest of the Upper Ring; the Seat as the high ground at Altherion.",
+   "PEOPLE AND STORIES: King Hobart of Pennycrown and the leaning throne (651 to 662 IC); hold-clerk Vappu Tarrekk Ollan, called Thimble; Council Chair Mirja Hiilekk Solisan, called Sixty Tuns; Ilmo Torvekk Kreisan as the grammar's sample name.",
+   "STREET AND WAR: rent by warmth, rib-sounders, the First Shift Reds and Third Shift Coals, Worked Ground as the Forge Guard's named move, red-enameled rib-ivory shields, the jokes on the realm page, and the new swears Bone-thief and The Lender's looking.",
+   "A dispute planted on the realm page: the Accord has never produced a receipt for the bones at Sealhall, and the Tally says they are not in it."
+  ],
+  "calls": [
+   {
+    "call": "'Dawi' and 'Guild Seat of Stannvaard' survive only as older names on old rolls and in songs, and no state of that name stands.",
+    "grounds": "43 archived scene files say Dawi and are not rewritten here. R82-46 keeps what scenes show as true. This lets the replacement stand without breaking them. Overturnable."
+   },
+   {
+    "call": "Scene-facing facts were kept: short stature, beards, soul-runes, forge-flush, Thane-Gorr, Kolmthruk, Kegshard, Barkstone, the Seat, oath-name second, doer at the front, Tally slot at the back.",
+    "grounds": "The Weak Grade, The Revolution of the Inner World and the Kujo-arc scene depend on them. The alterations were added on top of these facts rather than replacing them."
+   },
+   {
+    "call": "Breastbone is the capital and Thane-Gorr is the name of the seven forge levels under it.",
+    "grounds": "KINGDOMS.md and the task set Breastbone as capital; scenes and the petition story need Thane-Gorr. The citadel follows the art: pale spires, thin bridges, a domed hall, round terraced halls, a low town, everything else ember red."
+   },
+   {
+    "call": "Altherion, the River Crown, the Grand Church and the Ember Magistrates stay inside Marrowhold on the northern rim.",
+    "grounds": "KINGDOMS.md is silent on them and the Sancta Lux pages seat the Church at Altherion, so the old fact still fits. The water clock and the Guild hour move to the Seat at Altherion, which keeps the Weak Grade's rainy Seat."
+   },
+   {
+    "call": "What died is left undecided on every page, and Varūn the Deepwright is kept as the maker and teacher they swear by, with the holds refusing to say what he and the Body have to do with each other.",
+    "grounds": "The rule is to invent or kill no Archon or Titan. Varūn is called a Titan on the Dawi pages but is not among the Fourteen, so I made no claim either way. See questions."
+   },
+   {
+    "call": "The deep halls are read as the oldest galleries under the basin floor; the people's Tally puts them inside the Body from the first entry; the Fractures and the eight branches carry over unchanged.",
+    "grounds": "The fall sits in the Great Spirit War, which the Guild keeps off the count, and the Fractures are Second and Third Eon. This keeps every date, figure and Wellspring row while leaving the entry date disputed through the Errata."
+   },
+   {
+    "call": "All numbers, Soul Paths, Wellspring rows and risk figures for the High Line, Cask Line and Deepkin were carried word for word; only the lineage names changed.",
+    "grounds": "BRIEF_REST rule that nothing is lost."
+   },
+   {
+    "call": "Fixed the name-order slip in the grammar samples: Torvekk Kurren Kreisan becomes Ilmo Torvekk Kreisan, and the broken form becomes Ilmo Torve Kreisan.",
+    "grounds": "The old page put the graded name in first place in those samples, against its own rule and against the Weak Grade ('the oath-name sits in the second place')."
+   },
+   {
+    "call": "Anguz is written as collapsed mines past the northern roads, with the coil pricing kept as past tense and Dustquartz kept by the sack.",
+    "grounds": "KINGDOMS.md: dead mines, a place and no longer a power."
+   },
+   {
+    "call": "THE TEST changes: Transport Guild becomes Carriers' Guild; 'Production facilities' becomes workings; 'company' scrip becomes the trade page's lead tokens stamped by the shaft's owner; 'balance sheet' becomes account-books.",
+    "grounds": "Those wordings read as machine-age. Nothing else was retired."
+   },
+   {
+    "call": "Old ivory, sinew, tallow and the other goods carry no Tier and no price figure on the page, apart from 'a few coppers' for a bolt and rent at about twice the same room.",
+    "grounds": "What Things Cost is another agent's page, and R83-3 says Tier and price appear when the POV would see them."
+   },
+   {
+    "call": "The existing Assets/Paintings/dawi.webp embed stays on the Marrowkin page, and no new art was embedded.",
+    "grounds": "The task says only existing Paintings embeds stay. That painting shows the old Dawi look."
+   },
+   {
+    "call": "Wikilinks to the sibling realm pages use the KINGDOMS.md filenames (The Kingdom of Kharven, The Amber Cities of Nalūn, The Scarlet Wood of Thornhaven, The Sealed Charter of the Concord, The Holy Sea of Alabaster, The Silver Cedars of Yukari, The Iron Mandate of Undaar-Keth, The Hundred Crowns of the Midmarch). The Reach page link still points at its old Dawi Peoples path.",
+    "grounds": "Those pages are being written by other agents, and The Reach Dwarves page was not in this job. I did not confirm that the sibling pages exist. Both link sets need a pass on merge."
+   },
+   {
+    "call": "The Later hand note on Whitemere is two sentences of trade posture with no arc events; Muken's card facts are untouched.",
+    "grounds": "Task allows the later-hand device; main-cast plot stays off public pages."
+   },
+   {
+    "call": "marrowkin.md was written to desktop/inventories/ as ordered, uncommitted, and it is the only file outside staging. Nothing was committed and wiki/, rules/, RULINGS.md and CONFLICTS.md were not touched.",
+    "grounds": "Task scope. session_start's culture loader was not checked, so the new file may or may not be picked up automatically."
+   },
+   {
+    "call": "Pages that still say Dawi, Stannvaard or Anguz and were left for the merge pass: Swears, Oaths and Insults; the Color of Essence shared-arts table; Faiths of the Four Quarters; Descent of Parun; Talos; Reader's Codex; Races & Peoples; The Reach Dwarves; Factions at a Glance; Powers of the Dark Ages; Banner Houses; Kharven; Value, Coin and Trade; the Material Index; the Old Vaross cognate cross-references.",
+    "grounds": "These are outside this job and are listed so the launching session can sweep them."
+   }
+  ],
+  "questions_for_isaac": [
+   "Do you keep the Marrowkin look (hot eyes and slit visors, rust-glow blood, the rise, both-sex beards, sinks like an anvil, under-note and bone-hearing) and the cut-name naming culture? This is the pitch you asked for, and the default if you say nothing.",
+   "Do you accept 'Dawi' as the old name of the same people, so archived scenes still read true? The other option is a clean break, where those scenes become old lore.",
+   "Varūn the Deepwright is called a Titan on the Dawi pages but is not among the Fourteen, and the Old World still has a kingdom of Varūn with its own dwarves. I left all of it open. Should Varūn stay, and should those Old World dwarves remain dwarves?",
+   "The five Reach branches (Kuntur Reach, Tallow Clans, Windward Herds, Tower-Kin, Passwardens) are written as Marrowkin severed from the Body and cooling off, and their page still reads The Reach Dwarves. Do they stay on those terms, and should that page be rewritten next?",
+   "Borin Ironheart appears in 12 scenes and has no card, and Nella Forgeman's scenes were not checked. Should Borin read as Marrowkin from here on, and does he get a cut-name?"
+  ]
+ },
+ "marrowkin": {
+  "pages_written": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Holy Sea of Alabaster.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Vermilion Dynasty of Sum-gol.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Jade Plains of Qingyuan.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Copper Coast of Haeseong.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Silver Cedars of Yukari.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sapphire Wells of Brightwater.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Ochre Fields of Hammerford.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords.md"
+  ],
+  "inventions": [
+   "Sum-gol's fall: the last Calling on the first day of autumn 602 IC; Emperor Rokju Mahuo; the doubled salt tax; the Balcony of Answers and Palace of Answers; the Baengnok (the White Stag, reading the art's pale antlered device as a bound power of the line, explicitly no Archon or Titan) walking out by the East Gate; the empire's three-hundred-year span; tribute by house (records, spearmen, water, horses, fleet, one crow a year); the Mahou as kings of Sum-gol only for about three generations after 602, which fits the existing '661, when the Mahou kings still sat at Sum-gol'.",
+   "Sum-gol present: the yearly Calling still read to a crowd with an elder of the Yan reciting and a letter from the Ryu; a city of about 15,000 (the old Ketsuen province figure) in streets built for 150,000; domes stripped on the north faces; Post-House in the imperial mews; cinnabar and dye works at Cheolsan; stilt town and linen-wrapped rakers at Yeomjeon; Post law (the sacred bag); street foods; scavenger crews.",
+   "Holy Sea: the Sounding Walk's mechanism (barefoot oath, dark wet footprints till sundown, assay fork reads depth, dry stone for a false oath, what it cannot do), and the slang 'dry-footed'; the opening story of Tobit Gurnard, Gaspard Vauquelin, his brother the Archdeacon of Rimward and the galley Good Intent (683); Palatine Aurélien Cassard, nearly blind; the Stair of Testimony (1,100 steps); Bridge of Notaries (the art's arched bridge); the Lone Clerk (the art's watchtower); Laundry Steps; Whites and Inks bracket schools; foot-washers; population 60,000; benches pairing a cleric with a Lambert; crossbow companies on the Stair.",
+   "Jade Plains: Lucky Bao and Rain-on-Slate (694); Yan horses that come home when their name is read; Elder Yan Shouyi's age (ninety) and morning ride; Elders of Stables, Ledgers, Remounts and Tablets; the Emperor's stall entered as 'held'; Lantern Fair; Qingyuan population 40,000; Yuquan river jade; Mashi as a nine-week tent market; bracket schools Silver Bridles, Black Girths, Yuquan Waders; why northerners say Grey and the Yan say Jade.",
+   "Copper Coast: Lantern Night 671 with warden captain Gim Dol-soe, old Deok-sun the net-widow and Admiral-Lord Ryu Seok-ju, as the origin of the lanterns; the reef called the Sawbacks; the books headed 'held for the Throne'; Ryu Ha-eun's age (53) and looks; Haeseong population 70,000; Long Mole, Salt Quay; Geumpo's character and Guild of Pilots; the Tide Court and harbor-mothers; wreck-right and ship's cats; toll-forts every thirty miles; Green Tide, Geumpo Gilders, Bad Weather; hill copper workings behind the coast.",
+   "Silver Cedars: Karasuyama's rookery and crow-wards; Sugidani's sawpits, bark paper and tea; Senri's Gate as the town at the standing stones; Long Water, Reedgate, Maren Ottertail and the other moved Ketsuen material stays as filed; the Marrowkin community in the Lake Districts, replacing the Dawi one; the Marrowkin-Yukari grudge line; the carvers joke.",
+   "Sapphire Wells: the Blue Morning of 647 with Annis Blewitt and Warden Odo Corwen, as the origin of kingfisher blue and the Dyers' exception; 'blue to the elbow'; Maud's brass crown in a box; blue-coated keepers with brass keys; Brightwater population 25,000; Cask Yards, Lease Court; Hotwell's raft ring and Kingfisher Steps' 31 tiers; Blue Bracket with Dyers, Coopers and Dregs; closing Cores on an enemy as the house's way of war; 'After you, Maud.'",
+   "Ochre Fields: the Broken Cart at the ford (the art's broken cart) with Dob Harkness, Big Marget Marrick, the hiring fair of 631 and the battle of Sorley Bridge; the clause 'as long as the cart stands'; Guild of Wrights resetting the break; Hammerford population 50,000; Hiring Hall, Moot and Moot Law at Pikemoot; Musterfield's sixteen-deep drill; rent paid in children to the muster; the Widows' Chest; companies the Late Arrivals, Stubble Boys, Mother Hallam's Own, Sixth Blacks; the drill for a high-Stage fighter; blister-wives; Gerrit losing his ear to a Tenrai on his own side.",
+   "Geography: the Jade Plains with the Wellheads west and the iron hills east; Karasuyama above the Enclave; Sallowgate on a western branch of the salt road.",
+   "Later-hand lines on the Whitemere empire (Holy Sea, Sapphire Wells, Ochre Fields, Southern Warlords), in general terms only."
+  ],
+  "calls": [
+   {
+    "call": "'Attestis', the Holy Sea's Wellspring on the old Ketsuen page, is treated as the Court's Latin name for the Aether under the shelf, on no Guild list of the Sixty, with the Thaloré reading as the most respected account. The Sōhai claim that it is a Moto scar is reported as their claim.",
+    "grounds": "The word appears only on the Ketsuen page and is absent from the Sixty; the Long Reading gives the Thaloré reading; the Sixty are fixed (R79-11). Nothing was added to the Sixty."
+   },
+   {
+    "call": "Marrick arms are spears throughout. KINGDOMS' 'pikes in the thousands' became long ash spears. The place name Pikemoot and the title Captain of the Long Pike stay, explained as Fields usage for any long ash spear. The Warlords page's 'far end of a pike' became spear.",
+    "grounds": "The task's reading of R83-4, against KINGDOMS' names, which I kept as written."
+   },
+   {
+    "call": "Ketsuen's Cedar Enclave versus Senri's Gate: the Enclave stays the house seat on its hill, and Senri's Gate becomes the town at the standing stones and capital of the Reach, holding the Council, Academy and Archive of Provings. The Yukari Inventory's 'old Enclave is Senri's Gate now' reads as a mistake of older books.",
+    "grounds": "KINGDOMS names the Cedar Enclave as the major place; the Bloodline page and Naiser's card make it the living seat; Ketsuen's facts still needed a home."
+   },
+   {
+    "call": "The Reach keeps its Council of Threads, Crow's Seat, Proving, Thread Standard, Thread Guard and provinces as a land under House Yukari at arm's length. With Sum-gol removed there are seven Thread-Wardens, and population falls from 95,000 to 80,000 (the sum of the remaining rows). Race percentages became rough fractions because Mahuo and Dawi moved.",
+    "grounds": "Task: fold in what fits; KINGDOMS: Ketsuen is gone as a state; Sum-gol is sovereign southern ground by the 11-05 rulings."
+   },
+   {
+    "call": "Niran Yukari stays on the public page as the boy carver of the Reach's founding and designer of the Crow's Seat, with no age or later arc. Left off: the Septarch transition, the Seven Crows, Dhaerin's death, the old Kharven and Sodoku relation lines and Sum-gol's negotiated incorporation.",
+    "grounds": "Main-cast secrets and arc plot stay off public pages. The Inventory ties Dhaerin's death to a sealed rite. Naiser's card notes the Naiser and Niran kinship is unrecorded, so the page does not state it."
+   },
+   {
+    "call": "Cozbi on the page is limited to his title, age, renown lines, public refusal of crown and vermilion, olive coat, the stated want (the Order, the Keepers), priced passage work, his voice line and 'fights the way he gives a dinner'. Left off: stats and kit, what he does with letters, who pays the couriers, the seam, his dead, soul harvest, Hiromi and the past-tense tell.",
+    "grounds": "Task: only what his card makes public; the card's 'Notes (sealed)' section and 'desire underneath' stay off. The 'by his own hand' line about the vermilion is on the card outside the sealed notes, so it is framed as a dinner-table boast."
+   },
+   {
+    "call": "The Ryu 'still answer to the name' and also stopped forwarding the money; both are kept as one joke, the separate books headed 'held for the Throne'. The Yan answer by reciting titles and keep a held stall.",
+    "grounds": "Rulings say they belong to the Dynasty; the existing page has the Ryu keeping the revenue. Both facts had to stand."
+   },
+   {
+    "call": "The Warlords line 'The seven have never had a king' became 'no emperor since 602', and 'beyond any crown' became 'beyond any living crown'. The Mahuo section's 'as kings' now reads emperors until 602, then kings. The public 'seated by Isaac's ruling' phrase was reworded, and the page's existing 'On the record' block was kept with one added 11-05 line.",
+    "grounds": "Isaac's 2026-11-05 word that Sum-gol was the empire of the South. All other facts on that page stand."
+   },
+   {
+    "call": "Rimward stays two towns: the Sea's harbor at the bay's western arm and a free city of Nalūn.",
+    "grounds": "The old Nalūn page already says 'Not the Holy Sea of Alabaster's harbor of the same name'; KINGDOMS lists both."
+   },
+   {
+    "call": "Grey Plain, Wellheads, Long Fields, Thousand Moorings and Yukari valleys stay as regional and map names inside the new realm names.",
+    "grounds": "They carry scenes and cards (Léonard's father died on the Grey Plain); KINGDOMS only names the realms. The Jade Plains page gives a reason for both names."
+   },
+   {
+    "call": "The words 'bank' and 'banking' are avoided: deposit-and-lending and money-keepers instead. Lamp-wardens at Haeseong are Wellhead men; wikilinks go only to my seven pages and existing wiki pages, and other realms are named in plain text.",
+    "grounds": "R83-4 puts banks in the Imperial Age. Other agents' filenames were not known when I wrote."
+   }
+  ],
+  "questions_for_isaac": [
+   "The art for Sum-gol reads as old glory, so I wrote the present city as still gold and bright but stripped and nine-tenths empty, at about 15,000 people. Is that the Sum-gol you want in 715, or should it be fuller?",
+   "The Baengnok, a great bound White Stag that walked out at the fall, is my reading of the art's pale antlered device. Keep it, or should the device be only heraldry?",
+   "The Walk's dark footprints are my invented mechanism for how the Sea weighs an oath. It decides many future court scenes, so strike it now if it is wrong.",
+   "Pikemoot and Captain of the Long Pike keep the word 'pike' as a Fields word for a long spear. Would you rather rename both, say to Spearmoot and Captain of the Long Ash?"
+  ],
+  "old_pages_superseded": [
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sovereign Enclave of Ketsuen — The Crow's Reach.md (its material now lives in The Silver Cedars of Yukari, and I did not touch the old file)",
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Southern Warlords.md (replaced by the staged copy once staging is merged)"
+  ]
+ },
+ "hobgoblins": {
+  "pages_written": [
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Cobalt March of Hollenmark.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Slate Ridge of Stormfold.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Golden Hollow of Ashbury.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Scarlet Wood of Thornhaven.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Aurora Reach of the Keld.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Painted Rivers of Hallenfeld.md",
+   "imports/drafts/wiki-rewrite/inner/wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven.md"
+  ],
+  "old_pages_superseded": [
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield.md: geology, Ring and ground ledgers kept; 'The Kingdoms of the Shield' and 'Beneath the crowns' replaced by 'The Map of the Inner World'.",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md: rewritten in place. The Greenhollow, Ironwood March, Stormfold and Polar Reach bands and the six-house table moved to the realm pages and the Banner Houses page.",
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven.md: staged replacement."
+  ],
+  "inventions": [
+   "Kharven: Big Sigga Tolleifsdottir and her art THE WHOLE WINTER; the Midwinter Brackets disaster of 703; the school names Scarlet Scarves and Wolf Grays (the scarves were on the old page, the names are new); the Hooded Men as the name for the stone torch figures; the Castle Stair as the name for the long valley of cadet castles; two drops of the lift-cage.",
+   "Cobalt March: Sweyn Stark, the sow Mistress Knife and the 668 incident; the art name FROST HOLDS THE LINE; the Stone Roll and the Roll-house at Stonewatch; the Asking at Bearhold; the Thrawn Yard's training ground placed at Stonewatch.",
+   "Slate Ridge: Ragna Ottarsdottir, called the Cook, and the Galecross lightning of 671 with her call COME AND GET IT; the family offices Gatewarden, Masonwarden and Muster Aunt; the tavern the Dry Sock; lightning-masts on the towers. Greymane sword terms (the Roof, taking the Before, the Wrath-Cut, the Crooked Cut) come from desktop/style-bank/kharven.md, which is not canon until archived, so they are new canon here.",
+   "Golden Hollow: Perkin Oatley, the barn blast at Sheafton in 678 and the skipping rhyme; the Corn Hall and the public reading of the allocation; Sack Day; the 684 hedge-workers' walkout.",
+   "Scarlet Wood: the Raftmen's Hall with Aud Rannsdottir's boot; the Black Hands charcoal burners; the Thornwall hedge as the formal name for the card's Thornwall pike; the Hale workshop at Thornhaven, expanded from Sigrun Hale on the Material Culture page.",
+   "Aurora Reach: Cuthbert Ansell and the 694 wager; the name Kiilut House for the palace, built on the canon word kiilut; the race week at the Whalebone Gather; the palace firs the Keld will not cut; the palace placed toward the western end of the Reach.",
+   "Painted Rivers: the Limners of Threeways and the Daubers of Chainbridge, the pigment barge of 699, the clerk Wat Pennyquill; the rivers Ruddle and Sleeve beside the Hallen; the Toll Law and its chain; the Toll Bun; house colors blue and ocher stripes; the raising span at Chainbridge.",
+   "Hub: the line that the Guild keeps three accounts of what the Ring's body was, with the Marrowkin holding that the thing was already dead when it landed. No Archon or Titan is named."
+  ],
+  "calls": [
+   {
+    "call": "The state of Kharven in 715 is taken from The Uncounted: the Tenrai have held the rock for 300 years, the red chair has been empty for 40, the forty-year war has just ended, and the Hall of Verdicts and the old summons law hold the houses. With no sovereign there is no Banner Oath running. The older 'kings of a hall and a day's ride' line survives only as a passing phrase in the later hand.",
+    "grounds": "Archived scenes (rung 4) outrank wiki pages (rung 6). The 'no oath running, so summons law' reading is my own bridge between the old page's oath law and The Iron Fist of the Keld."
+   },
+   {
+    "call": "Ulf Stark is Lord of Hollenmark in 715 and Zaehaerys Stark moves to the later hand. The 'ancestor at the boundary stones' became 'the Lord of Hollenmark'.",
+    "grounds": "Ulf's card and Chapter Three outrank the old page, and a note on Chapter Eight places Zaehaerys in Hild Ice's era. Factions at a Glance still names Zaehaerys and needs the same fix."
+   },
+   {
+    "call": "Old page timeline fixes: Greymane and Hallenfeld already hold their posts before Muken, who confirms them; Stark, Greymane, Ashmore, Thornwall, Keld and Hallenfeld bindings are all later hand; the page gains a 'How the years run' section. I gave no year for his crown beyond 'within a few winters', and kept the old sixteen years as 'by the usual count'.",
+    "grounds": "Task direction, plus Muken being about 16 in 715. His card (18, six months after the Great War of the North) implies a crown near 717, and adding sixteen years puts the end of the reign before the split at about 740, so it fits. No date is printed."
+   },
+   {
+    "call": "The old Kharven table had Thornwall, Ashmore and Hallenfeld 'conquered in the traditional sense'. Dropped in favor of stone (Ashmore), a price (Thornwall, free of the Ore Council) and appointment and paper (Hallenfeld). 'Muken always stopped' is kept. The Keld page and Banner page record both accounts of how the Keld were won: three days at the fires and the predator, and a battle on the ice first.",
+    "grounds": "Edric's and Hisae's cards and Chapters Eighteen and Nineteen outrank the old table. Both Keld accounts are kept openly, without narrating the Skeldmere. Later scene plot and the name Aksel Keld are left off."
+   },
+   {
+    "call": "Removed from the public Kharven page as arc plot and secrets: Muken's descent paragraph, Cozbi's kindling, Azure Tenrai's 'correction', the Tenrai's night in detail, Tomuka and Ezo, the Tenrai settlement massacre and the exile. A short later-hand note remains: the chair went empty again, the oaths lapsed, he did not die. The text survives in imports/drafts/wiki-rewrite/rest/ and in wiki/ until this staging is applied.",
+    "grounds": "Task direction. The descent paragraph was also stale: the 2026-09-12 'taken by a lesser noble house' reading contradicts the current Muken card and the 10-20 retcons. Gimbzo is left unnamed for the same reason."
+   },
+   {
+    "call": "Thornwall's arms are written as long ash-and-iron spears set in a hedge, 'which the north calls the Thornwall pike'. The card's word survives only as a nickname, and a Marrick captain laughs at the length.",
+    "grounds": "R83-4 keeps pike for the Imperial Age and the task applies that to Marrick, but Hisae's card and Chapter Eighteen say pike. Raftsmen's pike-poles are a tool and stay."
+   },
+   {
+    "call": "Kharven-Seat combines the KINGDOMS look (many spires, verdigris roofs, hooded torch figures, castles down a frozen valley) with scene furniture from Chapter Eighteen (the cliff, brass lamps, silver house, Tenrai keep, lift-cage, lower town). The Hall of Verdicts keeps its black roof, and the old Kōkan house stays as a chest store. The lamps are worked by lamp-wardens.",
+    "grounds": "KINGDOMS wins on look. The scenes supply the rest where they do not contradict it, with the draw retired."
+   },
+   {
+    "call": "'In law only Kōkan holds the seat, and the Tenrai have held the rock three hundred years, which the law has found no way to mention.' I used 300 years for the Tenrai and left the Thornwall cuts undated.",
+    "grounds": "The Material Culture validator sentence must stand, and Chapter Eighteen says 300 in one place and implies 200 in Hisae's line. Written so neither has to move."
+   },
+   {
+    "call": "The east of the Cobalt March borders the old Crow's Reach, now the Silver Cedars of Yukari, with the 'crown decides, council measures' rivalry moved there. Stannvaard references became Marrowhold and the Ore Council, Dawi became Marrowkin. The crown's maker is 'a smith of the deep holds'.",
+    "grounds": "KINGDOMS says Ketsuen folds into Yukari, and the staged Ember Holds page keeps the Ore Council and the Thornhaven corridor at Collarbone, so Hisae's card still holds. This makes a southern realm the March's eastern neighbor, the one odd seam on the map."
+   },
+   {
+    "call": "Whitemere's origin keeps the mere and the Stack and drops Emira, Lambert and Sodoku from the naming. The hub draws the empire in the later hand, and the banner realms' X-of-Y names are treated as heralds' styles usable in 715.",
+    "grounds": "RULINGS 2026-11-05: Muken builds it and the Revolution account is old lore. Emira's naming belongs to that account."
+   },
+   {
+    "call": "Aud Rannsdottir's log-jam moved from Kharven to the Scarlet Wood opener, nearly word for word. Kharven got a new opener. The hub keeps Long Inga Rawe. The map is written as lists to avoid pipe trouble in tables; Kharven's one table uses escaped pipes.",
+    "grounds": "Each realm needs its own story and the jam is a Thornwall story. Kept openings varied: bracket, boast, cook, recipe gone wrong, wager, guild feud."
+   },
+   {
+    "call": "The Hallenfeld tariff-master and the 'brother and some salt' are mentioned without names, and Hisae is given only 'from the Shiraki hills'. Her oath, the corridors' use, the stair behind the fall and Yusif are left off.",
+    "grounds": "Public pages keep carded facts and leave secrets out. The long cuts stay as a quiet plant."
+   }
+  ],
+  "questions_for_isaac": [
+   "Does the Fall still stand? The old pages have Muken taken off the chair after sixteen years by a Tenrai plot, the oaths lapsing, the Greymanes holding three years and Sodoku's exile. But The Uncounted destroys the Tenrai at the Seat near 717, and you have Muken building Whitemere. I kept only 'the chair went empty again' and each house's behavior in the later hand; strike it if it is old lore too.",
+   "desktop/inventories/kharven.md still says Fusi Vā, 'oaths died with him' and 'Muken's stronghold', and Factions at a Glance and The Powers of the Dark Ages still say Zaehaerys, Stannvaard and a 'kingdom without a working center'. Those are outside my remit. Should they follow this staging?",
+   "The river Marrow (scenes, Edric's card) now sits beside the Marrowkin and Marrowhold. It reads like a link that isn't there. Keep both, or rename one?",
+   "The hub links to The Crimson Isles of Vorruk-Khal in the Northern Shield folder as the task's pattern says, but that page does not exist in staging yet. It needs writing, or the link needs moving if it is filed under Isles and Archipelagos."
+  ]
+ },
+ "sweep": {
+  "pages_staged": [
+   "Root for every path below: imports/drafts/wiki-rewrite/inner/. 80 new copies; line counts match their bases; nothing in wiki/, rules/ or RULINGS.md changed and nothing committed.",
+   "wiki/Artifacts/Artifacts.md",
+   "wiki/Artifacts/Mnemonis Solution · The Recursive Draft.md",
+   "wiki/A Reader's Codex.md",
+   "wiki/Artifacts/Staff of the Verdant Pulse · Domain Anchor.md",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Physical Order — Atla'zon and Gaia.md",
+   "wiki/Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages.md",
+   "wiki/Factions, Bloodlines & Institutions/Factions at a Glance.md",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm.md",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin.md",
+   "wiki/Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sōhai — The Whole Bow.md",
+   "wiki/Cosmology & Metaphysics/Ages and Reckoning/The Sky, the Hour and the Year.md",
+   "wiki/Cosmology & Metaphysics/Cosmology & Metaphysics.md",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord.md",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Faiths of the Four Quarters.md",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus.md",
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History.md",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair II — Memory Against Horizon.md",
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Yukari Bloodline.md",
+   "wiki/Lore & History/The Alftian Codex/Volume the Third.md",
+   "wiki/Factions, Bloodlines & Institutions/Factions, Bloodlines & Institutions.md",
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Standing Index.md",
+   "wiki/Cosmology & Metaphysics/Ages and Reckoning/The Four Ceilings.md",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity.md",
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy.md",
+   "wiki/Races & Peoples/Races & Peoples.md",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth.md",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices.md",
+   "wiki/Races & Peoples/The Peoples/The Goblinoid Peoples.md",
+   "wiki/Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Void Vanguard.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/Old Vaross — The Goblinoid Tongue.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults.md",
+   "wiki/Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages.md",
+   "wiki/Geography & the Four Quarters/News, Rumour and the Speed of Information.md",
+   "wiki/Materials, Alchemy & Trade/Alchemy/Alchemetrica.md",
+   "wiki/Lore & History/The Alftian Codex/Volume the First.md",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/The Grammars.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/Naming and Usage/Naming and Usage.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/Eressean and Varrisak — The Tongue of the Vey-Elarin.md",
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md",
+   "wiki/Lore & History/The Alftian Codex/The Farrant Papers.md",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology.md",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Tongues of the Realms.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/Accord Latin — The Formulary and the Two Spoken Registers.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions.md",
+   "wiki/Races & Peoples/The Tongues of the Realms/Naming and Usage/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md",
+   "wiki/The Disciplines/Named Arts/Talos — The Bronze That Empties the Room.md (built on the unmerged library/ version)",
+   "wiki/Races & Peoples/The Peoples/The Peoples.md",
+   "wiki/The Bestiary/The Called and the Divine/Summoned and Bound/Haelvorn · Housecat.md",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture.md",
+   "wiki/The Disciplines/Named Arts/Recarvu — The Body That Builds Over What It Cannot Fix.md (built on the unmerged library/ version)",
+   "wiki/The Bestiary/The Wild/Natural Beasts/Natural Beasts.md",
+   "wiki/The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md",
+   "wiki/The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/The Called · Summon Register.md",
+   "wiki/Races & Peoples/The Peoples/The Dawi Peoples/The Reach Dwarves.md (built on the unmerged rest/ version; kept at this path because the staged Marrowkin page links it there)",
+   "wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md",
+   "wiki/The Magic System/The Soul and the Climb/The Color of Essence.md",
+   "wiki/The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology.md",
+   "wiki/The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge.md",
+   "wiki/The Magic System/The Soul and the Climb/The Sixteen Stages.md",
+   "wiki/The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands.md",
+   "wiki/The Magic System/Power in Use/Reinforcement.md",
+   "wiki/The Magic System/The Soul and the Climb/The Soul and the Climb.md",
+   "wiki/The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun.md",
+   "wiki/The Magic System/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+   "wiki/The Magic System/Power in Use/The Four Crafts.md",
+   "wiki/The Magic System/Practice and Institution/The Gate Who May Learn Magic.md",
+   "wiki/The War Cycle/The Wounded and the Dead/The Rites.md",
+   "wiki/The Table — Running Pieces/Open Rulings — The Docket.md",
+   "wiki/The Disciplines/Schools and Bloodline Arts/The Harmonic Arts.md (not in the live wiki/ grep; the unmerged library/ version adds a Dawi mention, so corrected from that version)",
+   "wiki/The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Spirit Summoning Arts.md (same: the unmerged library/ version adds a Dawi mention)",
+   "desktop/inventories/accord.md",
+   "desktop/inventories/yukari.md",
+   "desktop/inventories/ketsuen.md (retitled as the Crow's Reach inventory; filename kept)",
+   "desktop/style-bank/mahuo.md",
+   "desktop/style-bank/README.md",
+   "desktop/style-bank/exemplars/DIALOGUE.md"
+  ],
+  "questions_for_isaac": [
+   "STANNVAARD SPLIT, overturn if wrong. The new pages do not say where every Stannvaard mention goes, so I sorted them three ways. Polity, Ring, Ore Council and corridor go to Marrowhold. Water clock, Guild hour, chancery, master formulary, weights and news go to Sealhall, because the staged Sealed Charter page puts the clock and formulary there. Rim-city trade and street life (saddlers' market, wool factor, Exchange Stair, merchant houses, philologists) go to Altherion, following the staged Ember Holds and Tally-Tongue pages. Bare 'Ore Council' stays, since it is still canon at Marrowhold.",
+   "CHANCERY CONFLICT, not recorded in CONFLICTS.md because this job only reports it: the staged Ember Holds page seats 'the Accord's chancery and its Arbitration Division' on the Seat at Altherion, while the staged Sealed Charter page puts the chancery windows and formulary rolls in Sealhall's Hall of the Seal. My copies say Sealhall. Which is it, or is Altherion a branch chancery?",
+   "KEPT ON PURPOSE: 'The Stannvaard Bar' in The Apparatus of the Age. It is a Guild instrument, and the staged Ember Holds page says Guild clerks still use the old name. Rename it if you want the word gone entirely.",
+   "NORTHERN ROAD COMPANY: its routes ran 'toward Ketsuen and the Polar Reach'. With the Silver Cedars now in the South that no longer works, so Factions at a Glance and The Powers of the Dark Ages now say 'toward Marrowhold and the Polar Reach'. This is my call, not the map's.",
+   "SUM-GOL NEEDS A RULING. It is no longer inside Ketsuen, and I changed only the location. Alftian Codex Volume the First now reads 'a rice valley in the South'; mahuo.md still rests on 'sixty roofs and a teaching house', with the province under the Mahuo elders; ketsuen.md still carries the Sum-gol and Mahuo blocks. The staged Vermilion Dynasty page has gold domes, iron hills, salt pans and a destroyed house. mahuo.md now cites that page for the sixty roofs, which it may not support, so please check that citation. A Mahuo Standing Inventory is now owed. Which picture stands for the present day?",
+   "ANGUZ: the staged Inner World page's 'old shelves' bullet says the mines are still 'working under Guild control, with Aethersteel and Bloodsilver priced on the coil', while the staged Ember Holds page says the power collapsed and nobody holds Anguz. KINGDOMS.md says 'dead mines'. The Value, Coin and Trade row now follows Ember Holds. That Inner World bullet needs the same fix; I did not overwrite an existing staged page.",
+   "OLD-NAME COPIES STILL IN THE STAGED TREE: The Guild Seat of Stannvaard, The Sovereign Enclave of Ketsuen and The Kingdom of Nalūn sit in inner/ with their old text. They should not merge; their live pages and The Dawi Peoples/Runic Dawi need retiring instead.",
+   "OTHER STAGED-PAGE FIXES, left alone: The Ember Holds links to 'The Kingdom of Kharven' and 'The Iron Mandate of Undaar-Keth', but the staged files are named '… — The Ashen Crown' and '… — The Closed Fist', so those links break unless the files are renamed. Factions at a Glance still calls Niran the Enclave's acting authority, while the staged Silver Cedars page has Lord Naiser heading the house; I changed only the place in that row.",
+   "MERGE ORDER: the library/ and Inner World parts of rest/ are still unmerged. Merge inner/ after library/, or library/ overwrites the fixes in Talos and Recarvu, and The Harmonic Arts and The Spirit Summoning Arts bring Dawi back.",
+   "DAWI FOLDER AND REACH NAME: 'The Dawi Peoples' folder survives only as the path to The Reach Dwarves, and 'Reach Dwarf' is unchanged because the map does not rename the five branches. On that page I changed Dawi to Marrowkin and High Dwarves/Barrel Dwarves to the High Line/the Cask Line. Do you want the page moved under The Marrowkin and retitled? 'The dwarves of Varūn' on the Titan pages stay, since the Marrowkin page keeps them as an unreconciled separate people.",
+   "OTHER CREATORS: The Zettari — Agano Sand and the Witnessed Temper is untouched (7 lines with Dawi or Barrel Dwarf, including its comparison table). Its owner needs to take the Marrowkin change. doc-zettari-forge-culture.yaml carries the same comparison.",
+   "HITS NOT STAGED: desktop/style-bank/references/the-weak-grade-isaac-reference.md (14 hits) because NATALIE.md says it stays unchanged. The Dawi Peoples, Runic Dawi and the dawi.md and stannvaard.md inventories because the Marrowkin page, the Tally-Tongue page and the marrowkin.md draft replace them. marrowkin.md itself is also unstaged; its line 64 note that Swears 'still says Dawi' goes stale on merge. wiki/INDEX.md is regenerated by the Rust sync and wiki/.manifest.json is a build flag file. The Moto Origin, The Moto Bloodline and The Material Index need no change: they already say Sātūlagi is struck and Anguz collapsed.",
+   "STILL NAMING THE OLD STATES, OUTSIDE THIS GREP'S SCOPE: desktop/NATALIE.md lines 245, 251, 283, 327, 341 (341 is the inventory list); Combat Craft Guide 2026-10-03 lines 98, 340, 679 (the Dawi-authored percussion table). Code: rust/src/workshop.rs:37 (culture list), rust/site/src/tables.rs:41 (Dawi folder mapping), rust/src/bot/names.rs:13,128 ('Dawi (Barrel Dwarves)'), rust/src/verify.rs:248 (ketsuen school). A rename of ketsuen.md or the Dawi folder has to touch these too. Do you want them changed?",
+   "RULES: the rows quote sources and cannot be edited. Should one log_ruling entry state that Dawi and Stannvaard in old rows now read Marrowkin and Marrowhold, and Ketsuen reads the Silver Cedars or the Crow's Reach? That would let every listed rule file stand without further edits."
+  ],
+  "cards_mentioning": [
+   "Names the Dawi (the only card that does): wiki/Characters/Volume I — Character Cards/Kiyome Byakuya.md:107, 'the Dawi who made her sword'.",
+   "Other retired names on cards: Lorn Stark — The Sword.md:183, Hollenmark 'in the eastern highlands near the Ketsuen border'. With the Cedars now in the South, this card's geography needs fixing, not just the name.",
+   "Vaashuuk Snorr-Khal · The Sin of Sloth.md:115 ('the philosophers' funnel at Stannvaard') and :172 ('a Stannvaard glassblower').",
+   "Hisae Thornwall.md:53 names the Ore Council, which is still canon, so no change is needed.",
+   "No card was edited."
+  ],
+  "rule_files_mentioning": [
+   "28 rule files; none edited. Mention counts by name:",
+   "doc-agamalu-buri-origin.yaml: Sātūlagi 8",
+   "doc-alchemy-conversion-2026-09-28.yaml: Ketsuen 6",
+   "doc-cymorath-portfolio-ruling.yaml: Ketsuen 1",
+   "doc-directions-2026-11-03.yaml: Dawi 1",
+   "doc-element-inventories.yaml: Dawi 1",
+   "doc-farrant-papers-2026-09-28.yaml: Ketsuen 3",
+   "doc-followup-rulings-2026-09-26.yaml: Dawi 1",
+   "doc-inner-world-naming-amendment.yaml: Dawi 2, Sātūlagi 6",
+   "doc-intimacy-law-2026-10-04.yaml: Dawi 11",
+   "doc-moto-reversion-ledger.yaml: Sātūlagi 1",
+   "doc-mystery-law-2026-10-04.yaml: Ketsuen 2",
+   "doc-naming-guide-amendment.yaml: Dawi 18, Ketsuen 2, Sātūlagi 13",
+   "doc-naming-law-2026-09-26.yaml: Dawi 3",
+   "doc-open-conflicts-2026-09-28.yaml: Ketsuen 4",
+   "doc-prose-law-2026-09-26.yaml: Dawi 1",
+   "doc-psychic-distance-registers.yaml: Dawi 1",
+   "doc-style-law-2026-10-03.yaml: Dawi 6, Ketsuen 3",
+   "doc-vocabulary-law-2026-09-26.yaml: Dawi 11",
+   "doc-writing-law-2026-09-26.yaml: Dawi 1",
+   "doc-zettari-forge-culture.yaml: Dawi 6",
+   "pack-02-two.yaml: Dawi 2",
+   "pack-05-five.yaml: Dawi 2",
+   "pack-06-six.yaml: Dawi 2, Stannvaard 2, Ketsuen 2",
+   "pack-08-eight.yaml: Dawi 1, Stannvaard 1, Ketsuen 2",
+   "pack-11-eleven.yaml: Stannvaard 1",
+   "pack-13-thirteen.yaml: Dawi 4",
+   "pack-15-fifteen.yaml: Dawi 1",
+   "pack-20-twenty.yaml: Dawi 7, Stannvaard 3, Ketsuen 2, Sātūlagi 3",
+   "No rule file names Anguz, the Ore Council or Kingdom of Nalūn."
+  ],
+  "scene_counts": [
+   "None edited. Counts are files containing the name and total mentions, excluding index files such as ARCS and CONTINUITY.",
+   "scenes/ (55 files; wiki/The Scene Archive matched these totals on the broader count): Dawi 5 scenes, 29 mentions; Stannvaard 7, 16; Ore Council 2, 4; Ketsuen, Anguz, Sātūlagi and Kingdom of Nalūn 0.",
+   "scenes/ heaviest: the_uncounted_chapter_sixteen_tsugigane (Dawi 19); glass_and_irons_20261103_2043 (Stannvaard 5).",
+   "lore/v1/scenes/ (240 files, some of them old pages rather than scenes): Dawi 42 scenes, 276 mentions; Stannvaard 37, 157; Ketsuen 6, 25; Ore Council 16, 45; Sātūlagi 4, 8; Kingdom of Nalūn 2, 3; Anguz 0.",
+   "lore/v1/scenes/ heaviest: the_house_of_abscene_kujo_arc (Dawi 53, Stannvaard 24, Ore Council 12); the_true_king_of_the_north_part_12 (Dawi 35); the_weak_grade (Dawi 15); THE_KINGDOM_OF_KHARVEN_corrected and _buri (Stannvaard 16, Ketsuen 9 each); the_revolution_of_the_inner_world (Kingdom of Nalūn 2).",
+   "book/ (all 21 hit files, not filtered to chapters): Dawi 17 files, 145 mentions; Stannvaard 16, 49; Ketsuen 12, 24; Ore Council 10, 29; Sātūlagi 7, 12; Kingdom of Nalūn 6, 9; Anguz 3, 3."
+  ]
+ },
+ "cross": {
+  "fixed": [
+   "All edits are in staged files under imports/drafts/wiki-rewrite/inner/. Nothing in wiki/, rules/, sources/ or RULINGS.md was touched, and nothing was committed.",
+   "TIMING: KINGDOMS.md was last saved at 04:44, after most realm agents had finished, so the pages predated Spearmoot, the lie of the land, the Scourge of Hell and the monsters law. I brought them into line. The Gazetteer's 'Where the Maps Quarrel' table had listed the map errors as in-world disputes. I corrected the pages and deleted 8 of its 9 rows, leaving only the Moto origin question.",
+   "NAMES (1): Pikemoot became Spearmoot on the Ochre Fields page and the hub. Captain of the Long Pike became Captain of the Long Spear on the Ochre Fields and Southern Warlords pages. A scripted check confirms every major place and house in KINGDOMS appears on its own page.",
+   "ART NOTES (2), pages that failed and were rewritten to the art: Brokencollar was a stilt town and is now the walled headland city and old Accord holding fortress on the inland sea (opening story changed to match). Painted Rivers had no castle, triple falls, portage or robed figure. Scarlet Wood had no ruined arch or tally flags. Slate Ridge now has the cliff-face fortress, single door, pillars, tower and gold windows. Golden Hollow now has half-timbered halls and teal tiered roofs, with barns matching. Copper Coast now has copper-red and gold roofs and two citadels. Sapphire Wells now has the white town on rock stacks over the drowned gorge. Jade Plains now has the valley floor, waterfalls and pale towered hall. Silver Cedars gained the drowned shrines. Iron Mandate gained the Ashenmoor stilt towns, tusk bridge, wading Bugbear and dragon. Khal-Serrat is now the spiked fortress-city. Hub one-liners updated to match.",
+   "MAP (3): the corridor to Marrowhold runs east, not west (Scarlet Wood, Painted Rivers, Banner Houses, Gazetteer). The Cobalt March's eastern neighbor is now Marrowhold, not the Crow's Reach, and the 668 opening's ward-party became a Marrowkin survey party. The Mandate no longer touches the ribs (Gorr-Shal and the trade moot moved). Iron hills are west and the Wellheads east of the Plain (Jade Plains, Sapphire Wells). The Ochre Fields, Southern Warlords and Silver Cedars no longer border the Moto; the Center lies between. Moonlight Forest is on the west flank with the Kessen road at its edge. Rose Coils is on the southeast edge. Violet Peaks is northwest. Russet Crown is east around the inland sea. The Charter is at the salt road crossing. Midmarch is along both roads, with Kingsbridge on the Kessen road. Isles lie south past the sea. Nalūn's bounds now include the Thresh rim. Scourge page: Halcrest moved to the northern rim.",
+   "Scourge of Hell linked from the hub and all seven Center pages. Broken links repaired: the Crimson Isles link and two Ember Holds links. A link check over the realm pages, house pages and Dungeons now finds nothing broken.",
+   "MONSTERS: every realm page lacked monsters and a dungeon, which KINGDOMS requires. I added a 'Monsters on the Roads' section to 24 pages, copied from the Gazetteer's entries with no new invention, linking Dungeons and the Gazetteer.",
+   "THE TEST (4): the Thornwall pike nickname is gone and pike-poles became hook-poles. Parliament became moot or war-moot in Old Vaross, the Reader's Codex, the Geography hub, the Factions hub and the Articles (Sealed parliament is now Sealed moot). The Hub's Anguz bullet no longer says the mines still work under Guild control. The Ember Holds' Accord seat is now a 'northern chancery', and Sealhall keeps the main one.",
+   "NEW KING IN 715: three pages had a sitting king in 715 while the red chair is empty (Central Warlords, Holy Sea, Southern Warlords 'tokenless king'). All rewritten.",
+   "DUPLICATE NAMES (5): Odo Corwen became Ferris Corwen. Ysolde Penhale became Merrin Penhale (Isolde Averell stays). Wat Hasketh became Tancred Hasketh. Big Marget became Old Marget. Each replacement name was grepped against wiki/ and the staging tree first, except Old Marget, where only the old form was searched.",
+   "PLOT AND SECRETS WENT BACK (6): Kharven lost the fourteen-month campaign, doctrine table, Ashen Guard figures, sixteen-year reign, Ayame Yuno and the Saishiki, and the 'chair went empty again' section. A short later-hand note stays: he takes the crown, builds the empire, and no death is recorded. Banner Houses lost each house's later-hand paragraph, the Hild Stark and Osric material and the glance-table column. The closing later-hand paragraphs on Slate Ridge, Golden Hollow, Scarlet Wood, Aurora Reach and Painted Rivers are gone. Mandate and Kharven lost the nine-year war and gap detail. Karogane and the Skeldmere came off Jade Plains and Southern Warlords. The old text survives in imports/drafts/wiki-rewrite/rest/ and live wiki/.",
+   "PROCESS TEXT OFF PUBLIC PAGES: dated 'Ruled' lines, the 'Isaac's word' and 'his to strike' block (which also leaked the Seikai remnant in the springs), 'until a scene tests', and scene-pipeline notes in Flagged Gaps. These are now in-world or gone. Factions at a Glance now names Ulf Stark and Lord Naiser instead of Zaehaerys and Niran. Muken's name came off the Isles and Ember Holds later-hand lines.",
+   "STYLE (7): the 'X in a breath' label is gone from 13 realm openings and 'The premise, in one breath' from three Center pages (Moonlight keeps it). Three 'In the spring/autumn of' openers were recast. One closing 'bill' beat was cut from Rose Coils. A scan for em dashes outside file and page names found none. Burnt became burned. 'Hushed' removed from Scarlet Wood.",
+   "Moved three superseded old-name copies out of the merge tree to imports/drafts/wiki-rewrite/inner/_superseded/ (Guild Seat of Stannvaard, Sovereign Enclave of Ketsuen, Kingdom of Nalūn). Nothing was deleted, and nothing in the tree links to them."
+  ],
+  "unfixed_problems": [
+   "The cuts in item 6 are my call on the 'plot goes back' order, and Isaac may want some back. They also leave his open question unanswered: does the Fall (Muken off the chair after sixteen years, the oaths lapsing) still stand? The Cobalt page still says Zaehaerys Stark holds the Warden title a generation on.",
+   "Carded and scene facts now disagree with the pages. Lorn Stark's card has Hollenmark 'near the Ketsuen border'. Hisae Thornwall's card and Chapter Eighteen say the Thornwall pike. No character card was found for Gerrit Marrick's old Long Pike title, but live wiki/ Southern Warlords still has it until merge. Cards were not edited; they need a pass.",
+   "The Moto origin stays open, and I left that one Gazetteer row standing rather than settle it: Kharven and the Ridge look west at the old ground, while the Holy Sea keeps a Kōkan seat on its high marches.",
+   "Decisions Isaac still has open from the reports: Marrowkin look and Dawi-as-old-name; Varūn; the Reach Dwarves folder and title; the river Marrow beside Marrowkin; Crown in Charter; the Walk's wet footprints; the Baengnok; 'nemo' as the Russet Crown's origin; the Sealhall and Marrowhold bones; Sum-gol's 15,000 versus the 'sixty roofs' in mahuo.md.",
+   "Filenames are unchanged: 'The Hobgoblin Expanse' holds the Crimson Isles page, and Kharven and Mandate keep their em-dash subtitles. The Reader's Codex and Geography hub still list the Expanse by its old name in places. Renaming means sweeping links.",
+   "desktop/inventories/marrowkin.md sits outside staging (live desktop/), and its line 64 note about Swears goes stale on merge. NATALIE.md, the Combat Craft Guide and rust/ still name the old states, per the sweep. Merge order still matters: inner/ after library/, or Talos and Recarvu lose their fixes.",
+   "The Old World page keeps a process line ('Ruled 2026-09-12' about Kushara). I left it because Kushara is another creator's material. The Zettari page's Dawi references are likewise untouched.",
+   "A repeated shape remains in the openings: a clerk or court looks at a disaster and enters it or bills for it (Golden Hollow, Painted Rivers, Moonlight, Midmarch, Kharven, Jade Plains, Gazetteer). The Center also leans on an army walking into a trap (Moonlight, Violet Peaks, Central Warlords). These are good individually, but a reader will feel the pattern. 'Ochre' stays in Marrick's colors to match KINGDOMS, while other pages use 'ocher'.",
+   "The Monsters sections repeat Gazetteer text word for word, so a later edit to one must be made in both."
+  ],
+  "not_read_closely": [
+   "The Inner World — A Gazetteer: I read only the map sections and all the Monsters entries. Its per-realm Climate, Habitat, People and Getting There text was grepped and spot-read, not read.",
+   "The Scourge of Hell: only the geography table, Edge Towns and opening were read; the rest was grepped.",
+   "The Bestiary/Dungeons.md: grepped only.",
+   "The Marrowkin and The Tally-Tongue of the Marrowkin: link-checked and grepped, not read through, so the Marrowkin look and grammar have not had a hard read.",
+   "The Iron Mandate: Origin, Wellsprings, Governance, Law, Culture and Defense sections were grepped only.",
+   "The Hobgoblin Expanse: Scattering, Bugbear, Keth-Gorrum, Timeline, Historical Figures and Orc Question sections were grepped only.",
+   "The Southern Warlords: the seven house sections were grepped and patched, not read in full.",
+   "The 80 sweep copies (Alchemy, Alftian Codex, Stages, Lexicon and the rest) and the desktop/ copies: grepped for names only, and their diffs against base were not reviewed.",
+   "The art itself: I worked from the KINGDOMS notes and did not open the image files.",
+   "Outer World, New World, Yasoshima and Kushara pages: not read."
+  ],
+  "weakest_pages": [
+   "The Inner World — A Gazetteer: 22,000 words carrying most of the map, and I did not read it all.",
+   "The Hundred Crowns of the Midmarch: the geography is patched on, and the page still thinks of itself as one river country more than two road strips.",
+   "The Silver Cedars of Yukari: old Ketsuen province tables sit awkwardly in the South; the Corridor and Frontier Marches need a real place on the map.",
+   "The Banner Houses of Kharven: much thinner now that the later-hand material is gone, and it needs present-tense 715 texture.",
+   "The Kingdom of Kharven: same cut, and a Shelf Notes table now down to one row."
+  ]
+ }
+}

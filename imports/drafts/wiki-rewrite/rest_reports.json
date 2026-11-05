@@ -1,0 +1,1549 @@
+{
+ "houses": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/rest/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Bearing and the Holding.md",
+   "imports/drafts/wiki-rewrite/rest/wiki/Geography & the Four Quarters/The Bearing and the Holding/The New World — The Eastern Rise.md",
+   "imports/drafts/wiki-rewrite/rest/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/The Old World — The Western Wearing.md",
+   "imports/drafts/wiki-rewrite/rest/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Outer World — The Southern Pan.md"
+  ],
+  "inventions": [
+   "Hub: the Vat Row collapse in Aldermarsh; surveyors Wat Kettleby and Osbern Thole; the Dyers against the Fullers; the Feast of Vats; 61 dead; the spring at Thornholt running blue and red. It expands the ledger's existing 'one city block' into a story.",
+   "Hub: a Terms section for new clerks, a Keepers' stoppage row in the Hazard Register, an 'In one breath' column in the Comparative Summary, and one paragraph on what the towns look like.",
+   "Hub: a kept wagon rolls through the frost and mud that stop a plain one. This is what the tuned waystone twin under the cart-bed is said to do, so the road beats weather and leaves the horses in place.",
+   "New World: the Scarlet Bellows and Blue Sluice schools; Mother Sibley Marrable; Pennock's Bar and Walking Pennock, a town that moves on skids; the Pyraeon pool that walks (Year 588, 31 dead); a hearing now on its fifth Arbiter.",
+   "New World: bar-moots (open meetings that govern a gold bar), seasonal rent paid in dust by the pinch, ash-plain food, and one-breath premises with rent, food and politics for Caedor, Foraye, the Tsohanto Reach and the bar-towns.",
+   "Old World: the annual Burying of the Aerne; the Mourners' Guild; Ysmay Hextall; the wharf riot of Year 652 (14 dead, a clerk blinded by vitriol); the Mourners' tenth.",
+   "Old World: a Who Lives On It section covering rent as a map of the ground, imported food, keepers' halls against kings, and a short premise for Varūn. Ironlink and the Greenmantle and Saltmarket colors come from the Concordance.",
+   "Outer World: the Yarrowby harvest of Year 667; factor Piers Attwater; Marjory Lusk; the dead reaping 300 acres; 11 living reaped; Alabaster's suit as the first of its two failed attempts; the two lumps of chalk on the Arbiter's table.",
+   "Outer World: Ysolde Penhallow's six permit petitions and the Wyvern refusal; one-breath premises with rent, food and politics for Dorrosfenn (temple rent on your grandfather), the Braqthian confederations and Epprenea (bread riots); a Kra'Vorrak premise; a Tribute Is the Rent paragraph for the mortal kingdoms."
+  ],
+  "calls": [
+   {
+    "call": "Kept all four pages in the 715 IC present and never used the name 'the Grand World'. The ledger states that the quarters are one continent with isles, and the page names are explained as chart-clerks' names recording the order the charts arrived.",
+    "grounds": "Concordance Section VI says nobody living in it needed the name, and that it was given afterward. The split is not narrated, per the brief."
+   },
+   {
+    "call": "New World heading 'Two Landmasses' became 'Two Grounds', and 'Eresse's ancient continent' became 'Eresse's ancient country'. The page says no sea has ever lain between this quarter and the rest of the land.",
+    "grounds": "Grand World rule in the brief. A search of wiki/ found no heading links into these pages."
+   },
+   {
+    "call": "The arc's 'chartered from nothing within living memory' now reads as beginning when the Voyager Era's routes first brought its gold home and still adding charters within living memory.",
+    "grounds": "Concordance: eastern placer gold reached the west in the Voyager Era (000 to 070 IC). Other pages give Foraye griffon bonds seven centuries old. Both facts survive this way."
+   },
+   {
+    "call": "The railway in 'The fifth obstacle' goes, and the kept road with tuned waystones replaces it, using the Living Crafts wording. The Division's uncosted-district warning survives as 'goes on the fee'. The steam-engine law stays.",
+    "grounds": "Brief's rail retirement and its settled list (kept roads and tuned waystones for old rail)."
+   },
+   {
+    "call": "Arrays stay in mining and at Caedor, but each is fed by array-keepers who pull, refine and drive Essence, are paid by the hour and may refuse. 'Fed from a vein or a main' is gone. A mine now dies when the ground under the pit head thins.",
+    "grounds": "Concordance's Long Reckoning text and the retirement of mains."
+   },
+   {
+    "call": "'Coil reading set against a gauge' became 'against an assay fork'.",
+    "grounds": "Gauge housings are retired and assay forks are the medieval instrument. The trade group's staged pages contain no 'gauge' and gloss the coil as the brass assay instrument."
+   },
+   {
+    "call": "Kirkyard Lead's 'shot' became 'sling bullets'.",
+    "grounds": "Matches the trade group's staged Material Index entry. Bolts do not fit lead."
+   },
+   {
+    "call": "Other setting swaps: insurance became burial clubs and sea-loans; western lending houses became moneylenders and factors; water infrastructure became well-diggers and cistern-masons; the technomagical enclave became Caedor; 'capital-heavy' and 'undercapitalised' became money-heavy and run on borrowed coin; supply chains became farmers and drovers; military industry became armorers' rows; automated warning became contraption; annual report became annual return.",
+    "grounds": "THE TEST in the brief. No renamed successor institutions were created. The heading 'What Magic Actually Did to Industry' stays, since medieval mining industry passes and headings are kept where possible."
+   },
+   {
+    "call": "Outer World's 'supercontinent' became a quarter, and section headings changed: 'The Continent Above the Ledger' to 'The Quarter Above the Ledger', 'Continental orientation' to 'Orientation', 'Continental drain' to 'The great drain'. The ancient Wellspring works there are now relics of the Great Spirit War and the Physical Epochs. Rainsea's 'largest rainforest on the continent' stands, since the continent is the Grand World.",
+    "grounds": "Grand World rule and R83-6. Every region, table row and mineral list otherwise survives."
+   },
+   {
+    "call": "In the Old World and Outer World reconciliation notes, 'different landmass' and 'supercontinent' became 'different country' and 'different ground', and Kushara is not placed on the map. 'Cheaper to move the continent than the ledger' stays as a joke.",
+    "grounds": "Kushara is another player's material, so I fit the framing notes and add nothing about it. Its placement stays open."
+   },
+   {
+    "call": "The Outer World note's 'the test Isaac asked for' became 'the test the Archives asked for'.",
+    "grounds": "Standing direction in memory: never mention him or the process on published pages. The 'Ruled 2026-09-12' lines stay, as they appear across the wiki."
+   },
+   {
+    "call": "Wellspring language now follows R83-9. 'Wellspring sites' is used for places; 'ambient Essence' became ambient Aether or Aetheric Density; 'drawn on' and 'draw' became pull; 'Essence currents' are gone. The Marrowchalk ruling on Alabaster stands. Palebed Nitre's 'alchemical charge work' stays, matching the trade stage.",
+    "grounds": "Brief's retirement table. Onceglass 'charges' stay because a charge there is a single-use inscription, and nothing gunpowder-like is implied."
+   },
+   {
+    "call": "The Bearing and the Holding is tagged In-World Document, so its header and first sentence stay in the ledger's voice. The spectacle sits inside the Prefatory Note, expanding the 'one city block' the note already cites.",
+    "grounds": "The brief says in-world documents keep their existing opening. The Geography note asks for premises and spectacle. This satisfies both."
+   },
+   {
+    "call": "Removed 'not X, it is Y' constructions such as 'This is not backwardness', 'The ground is not dead' and 'do not hold land. They hold', keeping the point and the joke in each.",
+    "grounds": "Brief's prose ban. 'The Outer World possesses plenty. It is poor because too many ancient things have already eaten' keeps the existing joke."
+   }
+  ],
+  "canon_conflicts": [
+   "Foraye griffon bonds of seven centuries (Bestiary) and the Voyager Era's eastern gold against the page's 'chartered from nothing within living memory'. Made to fit by the charter wording above; the session should log it.",
+   "The Accord's doctrine that the arc had no older law to displace against the Tsohanto Reach barrow-grounds and their own people, attested in older lore/v1 table files. The page carries this only as a dry aside and does not settle it.",
+   "Kushara page ('continental orientation', its own landmass) against Concordance Section VI (four quarters and isles, one continent). Left unplaced because the material is another player's; Isaac needs to place it.",
+   "Concordance Long Reckoning says Haulage 'never fell' and was merely lied to, while the ledger's table lists it among obstacles removed. Both survive as written.",
+   "The Holy See of Lurien is still named in the Material Index (Tithing Parchment), while the Outer World note rules Lurien dead and replaced by the Holy Sea of Alabaster. Not mine to change."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Ten Great Houses of Drakyssia.md: treats the Outer World as a continent, with 'continental administration', and carries industry and infrastructure language.",
+   "Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/Kushara — The Land That Remembers Weight.md: continental framing conflicts with the Grand World. Other creator's material, not touched.",
+   "The Material Index (trade stage): 'Holy See of Lurien' still attached to Tithing Parchment.",
+   "Inner World page: the hub's Comparative Summary gives the North a one-breath line ('Cold iron country with fire to spare and nothing else cheap'), which the agent holding that page may want to match.",
+   "Materials pages that describe Cloudmetal and Onceglass should keep Caedor and the arc as the attribution now used here."
+  ],
+  "rename": [
+   {
+    "from": "Heading 'Two Landmasses' (New World)",
+    "to": "Two Grounds"
+   },
+   {
+    "from": "Heading 'The Continent Above the Ledger' (Outer World)",
+    "to": "The Quarter Above the Ledger"
+   },
+   {
+    "from": "Heading 'Continental orientation' (Outer World)",
+    "to": "Orientation"
+   }
+  ],
+  "retired": [
+   "The railway, conduit in the bed, signal box, Board charter and metered sections from the hub's fifth obstacle (replaced by the kept road).",
+   "'Fed from a vein or a main' and the array-as-plumbing framing.",
+   "Imperial Age as the present ('twenty-fifth year' now reads the Dark Ages). The dragon empire's 'Imperial Sky-Capital' stays, since it refers to Drakyssia.",
+   "Technomagical enclave, insurance, lending houses, water infrastructure, automated warning, military industry and supply chains, as listed under calls.",
+   "Shot from Kirkyard Lead's uses, and 'one-shot' as a description of glass.",
+   "The bare 'Wellspring currents', 'Essence currents' and 'draw' wording throughout."
+  ],
+  "pages_left_alone": [
+   "The Inner World pages and Isles and Archipelagos (including Yasoshima and the Hobgoblin Expanse): other agents hold them.",
+   "Kushara — The Land That Remembers Weight and The Eight Great Houses of Kushara: another player's material. Links are kept and nothing added.",
+   "Drakyssia, Kain Drakhalis, Dova's Furnace, Avo Caldera and the rest of the draconic facts on the Outer World page stay. I fixed setting words and spelling, added nothing about Dova'Kan or Avo'Kan, and added only the survey-refusal anecdote and a rent line for Kra'Vorrak.",
+   "wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md: untouched. No commits were made and no wiki_write or log_ruling was called.",
+   "All frontmatter, the embeds, every wikilink target, and every numeric figure and threshold on the pages. A plain-text mention of the Ten Great Houses became a working wikilink."
+  ]
+ },
+ "powers": {
+  "pages_changed": [
+   "Houses and Bloodlines/Houses and Bloodlines.md",
+   "Houses and Bloodlines/The Banner Houses of Kharven.md",
+   "Houses and Bloodlines/The Southern Warlords.md",
+   "Houses and Bloodlines/The Ten Great Houses of Drakyssia.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Mahuo Family.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Yuno Bloodline.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Yukari Bloodline.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History.md",
+   "Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Origin — The Western Reach.md"
+  ],
+  "inventions": [
+   "Hub: the three heralds and the plank bridge at the Kessen horse fair.",
+   "Archaic Bloodlines: Tessaly Gorse, junior Measurewright, and the wool-hall coil test at Kessen ford, spring 533.",
+   "Mahuo Family: two Haeseong notaries suing over the spelling.",
+   "Long Reading: the Battle of Sorrel Water, read on a table by Hisame Tenrai Moto, and the heir scarred at three weeks.",
+   "Moto Bloodline: Odo Mabry, the Ox of Thrum; Ikuko Akagane Moto and the HEART-WARRANT at Thrum Market, with a cost of bleeding ears and three days without her mother's name. Also the line supporters, the silver-ribbon Shirogane boys and the mourning-black Kurenai boys.",
+   "Material Culture: Renji Tenrai Moto's enamel coat at a Kharven-Seat wedding; Joan Corbel of Thornhaven and her suit against his estate.",
+   "Moto Origin: Hrolf Oddway, the surveyor who bet he could lean on the old gatepost for a night.",
+   "Banner Houses: the Ashmore wedding pie at Hollenmark, winter 592, the Icebear that ate it, and the empty pie dish sent to Ashbury each midwinter.",
+   "Southern Warlords: the funeral of the salt smuggler Tam Pennyroyal, 661 IC, and his widow Goody Mordaunt.",
+   "Southern Warlords: sealed casks of Wellhead water sent north by river barge, in which Kharven-Seat's ward-cutters quench their chisels (replaces the Guild main, on R82-17).",
+   "Southern Warlords: a hired lamp-warden company keeping the Haeseong lighthouse (replaces its main).",
+   "Yuno: Black Hob Turnstile, the pirate, and Tamaki of the Kagura branch, 478, who served the cup and paid with her voice.",
+   "Yukari: Dorrit Vance, the silk factor, and the nine days of untasted tea at the Cedar Enclave, 548.",
+   "Drakyssia: Bess Marrable's eleven cattle against the Dovaryn wing-lord Sethrax the Long, 604.",
+   "Drakyssia: the aside that its chanceries say 'continental' for their own quarter.",
+   "An unnamed Somnalis-primary woman of the house in the cabin at the old seat, replacing the old named occupant."
+  ],
+  "calls": [
+   {
+    "call": "The cabin at the ruined seat now holds an unnamed Somnalis-primary woman of the house. Saruul and Yukazuri are both gone from that line, and 'since Muken died' is removed.",
+    "grounds": "C-164 gives Muken no death. Yukazuri's card has her dead, buried under a cairn. R22-2 makes 'Saruul' a stale name. Keeping the woman preserves the residual-memory fact and the uncounted irony without touching a carded person's facts."
+   },
+   {
+    "call": "Long Reading VIII keeps its old account of Muken (mother taken in Nalūn, the Revari reading, never acknowledged, Yukazuri as an unbloodlined sister), now framed as the salt-town account, with a note that his own file governs where they disagree.",
+    "grounds": "'Nothing is lost' pulls against the hierarchy, where the card outranks a wiki page: Muken's card has him Kōkan through his father, Byakuya through his mother. The frame keeps the facts and avoids publishing his sealed parentage. It fits Concordance VI's 'ballads in four keys'."
+   },
+   {
+    "call": "Muken's end in Long Reading VIII now reads that the Tenrai 'came for' him by dirty channels and that the loop has not closed. A later-hand margin says he lived through the great split about 740 IC.",
+    "grounds": "C-164 and the brief: no death, and he survives the split. The margin follows the Concordance VI device so the 715 narrator does not narrate the split."
+   },
+   {
+    "call": "Sarnai became Mizuki and Saruul became Yukazuri in The Long Reading.",
+    "grounds": "Moto reversion ledger, R22-2 (Sarnai to Mizuki, Saruul to Yukazuri), and the Moto Bloodline page already uses Mizuki."
+   },
+   {
+    "call": "The Long Reading's split is the first blow on the white shelf, about 310 IC. The 'rest of the world came apart' line now has the low country on either flank going under the sea, which keeps 'crossed water' and 'sail'.",
+    "grounds": "C-164 and Concordance VI: the rest of the body held. A Grand World with a flooded coast still lets the evacuation go by boat."
+   },
+   {
+    "call": "Kharven-Seat stands before Muken on The Long Reading, The Moto Bloodline, The Moto Origin and The Banner Houses. He takes its crown.",
+    "grounds": "C-164. 'Six lines scattered' replaces 'seven lines scattered' on the Moto Bloodline and Origin pages, because the Kōkan stayed in The Long Reading."
+   },
+   {
+    "call": "Moto Bloodline open ruling: the first blow replaces Malakar's splitting as the obvious and 'probably incomplete' answer to what ruined the seat. It stays open.",
+    "grounds": "C-164 moved the date. No page settles who massacred whom at the seat, so the open ruling stays open."
+   },
+   {
+    "call": "Banner Houses: Greymane 'three years after his death' became 'the three years after the Fall'. 'Muken gave them the post' became 'confirmed them in the post'.",
+    "grounds": "No death for Muken, and the Greymanes were already holding the ridgeline by the Kharven page's account."
+   },
+   {
+    "call": "Corwen is rebuilt as lessee-keepers of worked sites who sell hours and can close them, with assay forks in place of meters. 'Guild main' in the On the record block is noted as retired.",
+    "grounds": "The brief retires mains, meters, gauge-housings and tariffs on supply. Tariffs on goods at Sallowgate and Avarax stay, as ordinary medieval dues."
+   },
+   {
+    "call": "'A government fears a free press' became 'a chancery fears a witness it cannot swear in'.",
+    "grounds": "Newspapers and the press fail THE TEST."
+   },
+   {
+    "call": "Lambert's gilded plate became gilded harness. Yukari's 'autopsy' became 'inquest'.",
+    "grounds": "Full plate and anatomists belong to the Imperial Age, per the brief's Arms section."
+   },
+   {
+    "call": "Drakyssia: machine-age wording removed: air force, mineral rail systems, Aether Stations, wind tunnels, manufacturing, infrastructure, budgets, foreign magical technology, rider academies. No successor institutions were added, and all the House facts stay. 'Essence reservoirs' stays, glossed as dragon-kept Cores.",
+    "grounds": "THE TEST. Mass-service words go. The Imperial Charges and the Grades are law."
+   },
+   {
+    "call": "Drakyssia's 'continental' wording is kept and explained in a narrator aside as the chanceries' name for their own quarter. Yasoshima sits in 'the great bight off the Grand World's shore'.",
+    "grounds": "Grand World: there is one continent. Rewriting every proper title, such as the Continental Embassy-Fortress, would break names."
+   },
+   {
+    "call": "'Argent Rail' (Shirogane) stays as a technique name.",
+    "grounds": "The rail meant here is a bar, not a railway, and renames belong to the R82 card pass."
+   },
+   {
+    "call": "'coil' stays as the Accord's assay instrument.",
+    "grounds": "Other staged pages (A Reader's Codex, the Bench of Attribution) still use coil readings."
+   }
+  ],
+  "canon_conflicts": [
+   "The Long Reading has the Kōkan as a broken hinterland remnant up to Muken. The New Lore (RULINGS 2026-10-20; Muken's card) has Gimbzo as a Kōkan king, a red chair, and the Hall of Verdicts seating seven chairs under Muken for the first time in three hundred years. No page says who held Kharven-Seat before Muken, so I left it unsaid. It needs a ruling.",
+   "Muken's parentage: the Long Reading's Nalūn account conflicts with his card (Gimbzo Kōkan and Kasane Byakuya). It is framed as hearsay, not resolved.",
+   "The seat's location: the Moto Origin and Moto Bloodline pages put it in the western northern shield, past the Undaar-Keth ridgeline. The Long Reading puts it in the hinterland above the white shelf, and the Southern Warlords page places the Holy Sea on the Inner World's southern sea. Both versions are kept. This predates the rewrite.",
+   "Banner Houses still runs the old timeline: Muken as the old unifier, the kingdom fallen, the Crown still awaited, Zaehaerys Stark as head, Osric advising Hild Stark. The Southern Warlords page and the cards have a new tokenless king, with Ulf and Torvald Stark. I only removed the death. The cause of the Fall is now unstated.",
+   "Southern Warlords: the Guild main is scene-sourced, and CONTINUE.md says Chapter Eighteen's plot turns on cutting the draw to Kharven-Seat. The casks are a wiki stopgap. The scene question remains Isaac's open item (1).",
+   "Long Reading Open Rulings still mention Sodoku as 'the Kōkan Butcher' and Azure Tenrai, both old-lore. Kept as written."
+  ],
+  "other_pages_needing_change": [
+   "Geography/.../The Kingdom of Kharven — The Ashen Crown.md (held by another agent): it still has Muken's assassination and his founding of Kharven-Seat, which conflict with C-164 and with these pages.",
+   "Geography/.../Isles and Archipelagos/Yasoshima — The Eighty Isles.md: its location wording should match the 'great bight' wording used here.",
+   "Factions at a Glance, A Reader's Codex, The Inner World, Nalūn and the Moto Element Inventory also name Muken; check them for his death and for the split's order.",
+   "Kushara page and Zettari pages need their owner's word on setting (see pages_left_alone)."
+  ],
+  "pages_left_alone": [
+   "The Eight Great Houses of Kushara.md: byte-identical to wiki/. Kushara is other-creator material under the brief. It still has Rift Lifts, imported technology, 'manufactured goods' and 'Wellspring currents'.",
+   "The Archaic Bloodlines/The Zettari/ (The Zettari.md, The Paths.md, Agano Sand and the Witnessed Temper): byte-identical to wiki/, hands-off as instructed. My spot grep for retired terms in that folder found nothing.",
+   "Zettari sentences and table cells inside The Archaic Bloodlines, Yukari and Long Reading (the Revari row among them): kept. Only spelling and em-dash punctuation changed, and nothing about them was added.",
+   "Dova'Kan and Avo'Kan mentions on the Drakyssia page: unchanged. I grepped the rulings and shared memory and found no entry naming the Houses themselves as another creator's, so I gave that page setting fixes and an opening about invented mortals and an invented Dovaryn lord. Isaac can strike it if Drakyssia counts as Dova'Kan's.",
+   "The two locked passages on Material Culture: unchanged, including the bold markup splitting the first one."
+  ],
+  "retired": [
+   "Guild main, Wellspring draw, the hum of the draw, gauge-housings, brass conduit and Corwen meters (Southern Warlords), with no named successor beyond keepers, assay posts and hired wardens",
+   "free press simile (Archaic Bloodlines)",
+   "wire simile (Hallenfeld)",
+   "ward-station, 'station' for the Accord's Research Division (Yuno), and Aether Station (Drakyssia)",
+   "mineral rail systems, air force, manufacturing and technology wording (Drakyssia)",
+   "Saruul and Sarnai names; Muken's death; Muken building Kharven; 'Imperial Age' as the present (Long Reading)"
+  ],
+  "rename": []
+ },
+ "orders": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Factions at a Glance.md: new opening line, setting fixes, new sects row, core disciples added to ranks",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Factions, Bloodlines & Institutions.md: new opening, links updated, duplicated block removed",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/Powers and Polities.md: subtitle and link",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages.md: rewritten and renamed from The Powers of the Imperial Age",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity.md: new opening, Title IV rewritten",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Bench of Attribution.md: in-world document, targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord.md: in-world document, targeted fixes, new archivist's note",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices.md: rewritten and renamed from The Guild Accord in the Modern Era",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem.md: targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path.md: targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Merit and Severance.md: targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Black Concord.md: targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Structure and Rank.md: link and subtitle fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Citadel.md: em dash pass only, plus one semicolon",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Gate Network.md: targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Military.md: targeted fixes",
+   "imports/drafts/wiki-rewrite/rest/wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/Seats and Arms.md: checked, no text changed"
+  ],
+  "inventions": [
+   "Powers opening: the Drake at Sallowford, ninth year of the Dark Ages (699 IC). A river drake is torn apart by three teams of oxen. Reeve of the Game (madder red), the Well-Hunters' factor and crew (wasp yellow), and Dame Ysmay Thole, the Fishwife of Corbie, Hall-Warden of Corbie Hall (hall green, hot-pink coat), with her boathook art LAST ORDERS. The Company captain's art is GREAT BIG ARM. Nine dead. A Stannvaard factor buys the water-meadow.",
+   "New Sects entry on the Powers page, with five invented sects: the Scalded Cats (river towns, orange and soot, grudge with the Pewter Yard over Year 671), the Thrawn Yard (Kharven Marches), Kagerō-ryū 陽炎流 (Moto country), Baengnyeon-gwan 백련관 (Ketsuen), Qīngshí Mén 青石門 (the East). It also cites the existing Copper Kites and Iron Aunts of Hollin Ford.",
+   "Aylwin Ansty, trace examiner at Corbie Hall.",
+   "'Under one flag' and 'At the door' lines on most faction entries, showing what policy does to a baker, ferryman or child, plus the Take one baker / ferryman / child passages in What It Costs Below. None were added to Kushara.",
+   "Articles opening: the funeral of Jankin Pennyloaf, baker of Stowmarch, Year 694, 412 amercements across 41 years, with the last loaf struck at the graveside.",
+   "Dark Ages Accord page opening: the Midsummer Riding of Aldersey, Year 688, the Chandlers against the Saddlers on Fish Street. The Chandlers and Saddlers are now named as the two companies in the eighth and ninth place dispute. The fight is one of the two occasions the dispute has cost lives.",
+   "Warden Cato Pelham (Enforcement) and Examiner Odile Brask (Arbitration), with their dispute over a miller's stones.",
+   "Hub opening: the Reeve of Wick Cross hangs a Guild Adept, Year 706. Wick Cross already appears in The Working Vocabulary as a town with an assay house, so this is the same town.",
+   "Glance opening line, and the archivist's note What You Will Actually See on The Guild Accord page.",
+   "Same-hour command as the doctrinal term replacing real-time command in The Practitioner Problem."
+  ],
+  "calls": [
+   {
+    "call": "The Draw Boards section became The Lamp and Ward Companies, with its wants, seam and exemption carried over, in place of a renamed successor.",
+    "grounds": "Who Pays for the Lamp already settles that chartered companies, one to a trade in each city or quarter, are licensed by the Accord and fund it, and employ the searchers. So this is the existing institution, and the brief's group note bars Boards."
+   },
+   {
+    "call": "Chartered companies stay, as sworn merchant partnerships whose backers hold venture shares sold hand to hand before notaries at the fairs. Exchanges, share lists and shorting are gone.",
+    "grounds": "THE TEST. Societas partnerships, the Merchant Adventurers and the Genoese Maona are medieval. Section one's pages and the price table keep chartered companies, and the trade pages keep scrip and company stores, so I kept scrip with a gloss."
+   },
+   {
+    "call": "Articles Title IV became Of the Pool and the Round. Ferrule and tundish now sit at a Core's lip, the seal is on ring, lamp stem or lintel, the dead leg is an abandoned stretch of a round, and arrears mean striking from the round. Penalties changed from Cut off to Barred from the pool or Struck from the round. Article numbers and exemptions are unchanged.",
+    "grounds": "Staged Weight, Measure and the Standard §VII keeps the ferrule, tundish and draught this way, and an earlier report asked for these Articles to match it."
+   },
+   {
+    "call": "The Grand Gauger stays. It now sets the standard ferrule and hears appeals on the keepers' books.",
+    "grounds": "It follows from the ferrule call. The office and its quarrel with the other three offices survive."
+   },
+   {
+    "call": "The Guild Accord in the Modern Era was renamed The Guild Accord in the Dark Ages. References to the Modern Era page, the Draw Age and terminals or screens were reworded.",
+    "grounds": "The title names a retired frame, and the brief forbids a modern civil service. A new subsection, What it is on the ground, shows halls, seals and clerks. The Division names stay because they are used across the wiki."
+   },
+   {
+    "call": "The Accord's seam moved from the conduit and wire to the relay: riders and the beacon line. A district the Withering thins loses its wardens, its fees and then its rider.",
+    "grounds": "Mains and wire are retired, and the point that the Accord stops governing there, with the Lease-holders moving in, had to survive."
+   },
+   {
+    "call": "The hunting table and scramble now rest on Wells and rich ground, and the Withering replaces the draw engines as the reason the five things are worth more.",
+    "grounds": "Draw engines are retired, and the Concordance keeps the Withering as the era these years sit inside."
+   },
+   {
+    "call": "Grand World fixes: Drakyssia claims eight parts in ten of its quarter, Korvaeth is a far quarter of the one land, overseas crowns became far crowns, and continent became quarter on Korvaeth and Gate lines. On Kushara only 'continental rule' changed. The Zettari row's 'on the continent' stays, as the Grand World is one continent.",
+    "grounds": "Concordance Section VI and the brief. Kushara is hands-off, so that entry got setting fixes and nothing new."
+   },
+   {
+    "call": "The Concord Gates stay as rare, costly wonders of the Voyager Era, with no timetable language. Major Arches now read as crossings that cost a fortune.",
+    "grounds": "The brief passes wondrous one-offs and does not retire the Gates, and Merit, Tiered Path and Powers depend on them. Isaac may want them smaller, since a realm-to-realm cargo arch is the item here closest to failing THE TEST."
+   },
+   {
+    "call": "Practitioner Problem: added that a costed-out practitioner, or any practitioner asleep, drugged or surprised, can be killed by a three-copper bolt. The Emanation claim now reads 'while they have reserve and warning'.",
+    "grounds": "R83-5 makes the bolt the cheap thing that can kill a high-Stage fighter in a room, and the doctrine's 'no volume of ordinary steel' read against it. Coat loss when asleep, drugged or surprised is existing law (R78-9)."
+   },
+   {
+    "call": "Gun metaphors in Practitioner Problem became siege engine metaphors: artillery to siege engines, guns to trebuchets, magazine to store, powder store to pitch store. Resonance Bomb became Resonance Burst and Resonant Plate became Resonant Harness.",
+    "grounds": "No guns in any era, and full plate belongs to the Imperial Age. No other wiki page or rule uses either old name."
+   },
+   {
+    "call": "Wellspring became Wellspring site wherever a page plainly meant a place. Heart Vault's Wellspring Core and the Wellspring of Law stay.",
+    "grounds": "R83-9, and the survey keeps Wellspring Core as a term."
+   },
+   {
+    "call": "Filed Codex pages (Tiered Path, Merit, Black Concord, Citadel, Gate Network, Military, Practitioner Problem, Bench) were treated as in-world documents: no spectacle opening, voice kept, targeted fixes only. Their 'not X but Y' constructions stay as period voice. Em dashes were replaced throughout.",
+    "grounds": "The brief's rule on in-world documents. These pages carry filing headers and issuing bodies."
+   },
+   {
+    "call": "Real-history asides in the Articles were reworded in-world, or set off as out-of-world table notes (Venice and Genoa, senatorial oversight). The 'gets it wrong in fiction' line now blames minstrels.",
+    "grounds": "Nothing may be lost, and the narrator has to stay in the world."
+   },
+   {
+    "call": "Removed duplicated older paragraphs in the hub blockquote and on The Guild Accord page, keeping the newer version in each.",
+    "grounds": "They were merge leftovers, and the older copies contradicted the first-circle wording (Kharven 'has never asked', no charter-ahead-of-circle clause)."
+   },
+   {
+    "call": "Crystal Draw stays. 'By extraction and by engine work' became 'taken by unlawful extraction'.",
+    "grounds": "The staged Standing Index keeps Crystal Draw as the bench's old word, and engine work fails THE TEST. Both cases in the old sentence were unwarranted taking."
+   },
+   {
+    "call": "The Lattice Classification Bureau and the Logistics returns keep their names.",
+    "grounds": "The Bureau name belongs to the Night Watch page in another group. Flagged in case Isaac wants 'Bureau' gone."
+   },
+   {
+    "call": "Sect ranks follow Training and Sects (outer, inner, core, elder, a grandmaster over all). The Stage bracket law is carried from NATALIE.",
+    "grounds": "R82-34, R83-10 and section one's page."
+   }
+  ],
+  "canon_conflicts": [
+   "The Accord 'holds no territory, keeps no standing army' (Articles, hub, Glance) while The Concord Military and Practitioner Problem give it the Concord Legion, forty thousand strong by one line. I left both sides. The Dark Ages page's two-faces split (Chancery versus Concordat) is the nearest reading, but no page says so outright. Needs a CONFLICTS.md row.",
+   "The Citadel and Merit pages describe Lattice-recorded powers, while the Dark Ages page says it all renders in wax and ink, with the Lattice still recording. This is an existing tension in register, kept by the old note, and I did not change it.",
+   "The Black Concord closing excerpt is dated Year 027 IC but its fragments mention the Withering, which opens in 645. This is existing and left as is, since the excerpt date may not cover the fragments."
+  ],
+  "rename": [
+   {
+    "from": "Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age.md",
+    "to": "Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages.md"
+   },
+   {
+    "from": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md",
+    "to": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices.md"
+   },
+   {
+    "from": "the Draw Boards (section)",
+    "to": "the Lamp and Ward Companies"
+   },
+   {
+    "from": "Resonance Bomb",
+    "to": "Resonance Burst"
+   },
+   {
+    "from": "Resonant Plate",
+    "to": "Resonant Harness"
+   }
+  ],
+  "retired": [
+   "Draw Boards, mains, standpipes, meters, tariff on supply, spur, cut plate, conduit seals and wire on these pages",
+   "Rubber, gutta-percha and cheap steel as a scramble item (now good steel)",
+   "Branded goods, department stores and consumer Essence goods, with no successor",
+   "Share exchanges, share lists and shorting",
+   "Works and factories as the setting's labor (now workshops, spinning houses and cloth towns)",
+   "Rail and the 'carrier to the rail, spinner to the mill, lamplighter to the main' line",
+   "Unions as a word (now combinations and weavers' revolts)",
+   "Airships for the Lattice Pilots (now fleets and Gate crossings)",
+   "'Visible from orbit' (now from any high peak)",
+   "Printing of Night Watch inserts on these pages (now copied by hand)",
+   "Engine-work Crystal Draw",
+   "A coil-and-gauge pair in the Bench's reading gap (the gauge is now an assay fork)",
+   "Gun, artillery, magazine and powder metaphors",
+   "Lattice terminals, projected sigils and screens as the old rendering (now Lattice-stones and sigils hung in the air)"
+  ],
+  "other_pages_needing_change": [
+   "Inbound links to fix at landing: rest/wiki/Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Void Vanguard.md line 29 links to The Powers of the Imperial Age, and wiki/INDEX.md and wiki/.manifest.json list both old names. No other staged page links either renamed file.",
+   "rest/wiki/The War Cycle/The Army/The Order of Battle.md lines 71 and 122 still say airships and Lattice Pilots. It should read fleets and Gate crossings to match The Concord Military.",
+   "Orders, Faiths and Cults/The Night Watch.md lines 7, 32 and 90 still say the bulletin office prints, when last checked mid-run. Printing is retired, and the Powers page now says copied by hand.",
+   "Orders, Faiths and Cults/The Mother.md lines 60 and 96 still say capped mains and cut districts, when last checked mid-run. The Powers page now says a bled Core and a street struck from the round.",
+   "Any page holding the Lease-holders still says 'dead legs a Guild has cut' (Heresiology around line 143 in the live wiki). The Articles now define a dead leg as an abandoned stretch of a round.",
+   "Any Cooper's Row or brackets detail on Training and Sects could cross-link the new sects table if wanted. This is optional."
+  ],
+  "pages_left_alone": [
+   "Houses and Bloodlines and Orders, Faiths and Cults pages: held by other groups.",
+   "Kushara entry on the Powers page and the Zettari and Seven Pillars rows on Glance: another creator's material, so only retired-setting words changed and nothing new was added.",
+   "wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md: not edited. No commits and no wiki_write."
+  ]
+ },
+ "faith": {
+  "pages_changed": [
+   "Cosmology & Metaphysics/Cosmology & Metaphysics.md",
+   "Cosmology & Metaphysics/Null-Light.md",
+   "Cosmology & Metaphysics/The Making of the World/The Making of the World.md",
+   "Cosmology & Metaphysics/The Making of the World/Omnara and the Division.md",
+   "Cosmology & Metaphysics/The Making of the World/The Three Epochs.md",
+   "Cosmology & Metaphysics/The Making of the World/The Veil.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Orders, Faiths and Cults.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sancta Lux.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Holy Inquisition.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sōhai — The Whole Bow.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Mother.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Night Watch.md",
+   "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Void Vanguard.md"
+  ],
+  "inventions": [
+   "Cosmology landing: the Dyers' Pageant of Wenlock Cross; Lambin Pennifold, the Guild surveyor who shouted that the ash was miscounted, in the year before the sealing.",
+   "Making of the World landing: fair puppet booths doing the Making with three painted socks and a stick.",
+   "Omnara: Abbess Iseult Harrow and the Sect of the One Note on the hill above Ossery, 41 singers deafened.",
+   "Omnara: 'the Pail', a Measurewright supercooled-water account of the Division. The page marks it as disputed and unproven (R83-11).",
+   "Three Epochs: Aegor's Thumb on Kessel Tor; the Masons of Kessel against the Quarrymen of Stane; Wat Greathand, turned to basalt. The page also gets a new framing paragraph stating R83-6 (the Physical Epochs, when they walked in human form).",
+   "Veil: the wake of grain factor Bardolph Mowle at the Salt Cross plague pits; Merrin Two-Bodies; a rupture at the wake; street slang 'stepping out', 'a wall' and 'gone thin'.",
+   "Null-Light: showman Tobiah Quillon and his forty mirrored lamps at the Cedar Enclave. House Yukari's only action is letting him in and serving tea.",
+   "Orders landing: a market-day line at Quarrel Cross.",
+   "Sancta Lux: the mirror trial at Aldermere; widow Maud Corbel, Ember Magistrate Ysane Ambrel, Guildmaster Wymond Wick and the Chandlers' Guild.",
+   "Holy Inquisition: the town of Velmouth as the fourth of the six confirmed incidents; smuggler Anselm Reedfoot and his barge the Second Wife; a masked clerk's ledger taken from a dead Justiciar; the bounty on the leader doubled twice; a mask-materials line.",
+   "Sōhai: the Ice-out riot at Harlsey Landing, Year 688; Ember Magistrate Perrin Dunstable; salt-wife Oddny Stackwell; a standing unserved writ.",
+   "The Mother: Tamsin Lees and the souring of Lorrimer Vale. It is not stated to be the same as any archived culture.",
+   "Night Watch: the snow apples of Marl Abbey; Abbot Hugh Sedgewick; walker Annora Marrable on the Marl walk.",
+   "Void Vanguard: one line about drovers on the Ambrel road selling mutton to the column.",
+   "Night Watch: 'the copy-house', a body of scriveners paid by the line, as the new name for the bulletin office.",
+   "Ambrel, used as a place name across several openings (Ambrel road, Ambrel Bridge, the Guild hall at Ambrel). It was unused before this."
+  ],
+  "calls": [
+   {
+    "call": "Sōhai: the Okuchi is now the body of the world before Malakar's FIRST blow broke the white shelf. The page says the Moto registers call that blow the split and the Concordance sets it near Year 310. 'Crossed the water' now means the water that blow let in behind the shelf. All headings are kept.",
+    "grounds": "C-164 and Concordance Section VI: the Grand World is unbroken in 715 and the first blow falls about 310 IC, so the page cannot treat the great split as past."
+   },
+   {
+    "call": "Sōhai: 'It has not pressed it in eleven hundred years' becomes 'four hundred years'. The fourteen houses' 'eleven-hundred-year continuity' stays, because it runs up to the first blow.",
+    "grounds": "From about 310 IC to 715 IC is about 405 years (C-164). The tenancy cannot be older than the loss."
+   },
+   {
+    "call": "Sōhai's 'four thousand years of reading' is kept as the house's own figure, with an aside that the Guild's count is shorter and the registers cite no Age. The charge that Sancta Lux has singled Urion for 'four millennia' is kept as rhetoric, with an aside that the order's rolls run eleven centuries and the Guild signs neither figure.",
+    "grounds": "Nothing is to be lost, and contradictions are not to be settled silently. The Errata says bloodline registers cite no Age, and the Concordance caps reckoned history at 2,115 years. The two pages disagree (eleven centuries against four millennia), so the disagreement now stands on the page as a dispute."
+   },
+   {
+    "call": "Night Watch: the bulletin office, which printed its inserts, is now a copy-house of scriveners paid by the line, with 'bulletin office' noted as the older-rolls name. Inserts stay, on cheap rag, carried by carrier and relay rider. The 'cuts for length' fact is kept and given a reason.",
+    "grounds": "Printing and newspapers are retired and this failed THE TEST as printed. Hand copying by paid scriveners is real medieval practice. The old name survives because archived scenes keep it (R82-47)."
+   },
+   {
+    "call": "Night Watch: the Night Register no longer works 'while the district main is off'. It works at night because an unlicensed pull is lost at noon among warm stones, wards and noodle knives, and stands out at three with only the lamp-wardens' threads running. Hours and the 'half the reason' line are kept.",
+    "grounds": "District mains are retired. The living crafts law supplies the replacement cause, and lamp-wardens do work dusk to dawn."
+   },
+   {
+    "call": "The Mother: Greyshaft Nine's coldhouse is now on 'ground bled empty four years back' with ice-cutters next door, replacing the capped main and turning ice press. 'Follow the cold' now names bled ground, salted parishes, coldhouses and snuffed quarters. The buyer 'buys' rather than 'draws' off a contract.",
+    "grounds": "Retired table: mains, cuts and draw. An ice press is a machine in costume. All figures are unchanged."
+   },
+   {
+    "call": "Lattice Classification Bureau, coils, regulation bracelets, 'Rogue Body 7-C' and Altherion's 'Essence Resource Sharing Act' and 'Trade Equality Act' are kept.",
+    "grounds": "Section one already keeps the Bureau and coils on live pages. These are canon names and facts this group does not own. The two Acts sound modern, and that is flagged for whoever holds Altherion."
+   },
+   {
+    "call": "Inquisition: Cruor's 'dark plate' becomes a harness of segmented dark steel, and his 'golden plate' gauntlets become golden steel. Sancta Lux's 'somebody in plate' becomes 'in harness'. All other card detail is untouched.",
+    "grounds": "The brief: the word is harness, because full plate belongs to the Imperial Age."
+   },
+   {
+    "call": "Bans applied to narrator prose only. In-world quotes keep their 'not X, Y' shape: the Catechism, the Five Tenets, Sancta Lux's recorded answer, Divine Edicts and Darius's stated ground. Em dashes are removed from all of them, including one Ashura quote and all attribution lines.",
+    "grounds": "These are in-character documents, and the same lines are quoted across pages. Changing the doctrine's wording would break the cross-page echo."
+   },
+   {
+    "call": "Cosmology landing: 'Ten documents' becomes 'Nine documents', 'technology' becomes 'making', and the wire from Stannvaard becomes the water clock, relay rider, sand-glass and beacon line. I added the 715 IC present and the R83-9 definition of a Wellspring to the law box.",
+    "grounds": "The list has nine entries. The other changes follow the retired table and the live Sky page."
+   },
+   {
+    "call": "Veil: 'Wellspring veins' becomes 'Wellspring sites (Cores, in common speech)', and 'ward-networks' becomes 'close-set wards'. All tables and figures are unchanged, and a diff from the Operation table through the Cost line matches the live page.",
+    "grounds": "R83-9 and the retired table. No numeric table was retyped."
+   },
+   {
+    "call": "Epoch glosses are added on top of the old text, with heading text kept except for em dashes in headings. Those became colons or commas (Omnara: The Apeiron; Cassian Tiberius Cruor, Pontifex Veritatis; Phase One: The Reading). 'How It Is Organised' is respelled 'Organized'.",
+    "grounds": "No anchor links to these headings exist in wiki/ or the staged tree (grepped)."
+   }
+  ],
+  "canon_conflicts": [
+   "Sancta Lux's eleven-century history against the Sōhai's charge of four millennia of singling, and both against the Concordance's 2,115-year reckoned history. Kept on the page as a dispute; it needs logging.",
+   "Sōhai's 'not pressed in eleven hundred years' against about 310 IC for the first blow (C-164). Changed to four hundred years; it needs logging.",
+   "Sancta Lux's Holdings says 'the Kingdom of Altherion, a multiracial republic'. A kingdom and a republic in one line was already on the page and is left alone.",
+   "Sancta Lux's Practice section and the Night Watch both reach the page with main-cast figures and the Greyshaft plot on what appear to be public pages (no private: line). They were kept under 'nothing is lost', and my new openings use none of them. Isaac may want to check whether those belong on a public page."
+  ],
+  "other_pages_needing_change": [
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age.md: the Void Vanguard page still links to this filename. When that file is renamed, the wikilink on the Void Vanguard page must be updated. It works as of this report.",
+   "Lore & History/The Alftian Codex/The Farrant Papers.md and The Powers of the Imperial Age.md both mention the bulletin office. They should read as the copy-house, or as the old name.",
+   "Faith and the Powers Above/The Faiths of the Four Quarters.md: the Sōhai and Sancta Lux summaries should stay consistent with the first-blow wording and the 'four hundred years' figure.",
+   "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History.md: its holder should keep 'crossed water' consistent with the Sōhai's 'water the first blow let in behind the white shelf'.",
+   "The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic.md and Altherion's page: the Essence Resource Sharing Act and Trade Equality Act names may fail THE TEST."
+  ],
+  "pages_left_alone": [
+   "Zettari: the single 'First World' sentence on the Sōhai page is kept word for word and nothing is added, because they are another creator's material.",
+   "Everything under Cosmology & Metaphysics/Faith and the Powers Above and Ages and Reckoning, because they are outside this group.",
+   "wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md were not edited, and nothing was committed."
+  ],
+  "rename": [],
+  "retired": [
+   "Bulletin office printing (replaced by scriveners, with the old name noted).",
+   "District main, capped main, unlicensed draw, 'a street whose main is off', 'cut districts'.",
+   "Turning ice press at Greyshaft Nine.",
+   "Wire from Stannvaard, on the Cosmology landing.",
+   "Printing on the reverse of writs; annual 'publication' became annual posting in fair copy; Logistics 'publishes' became posted on the hall door.",
+   "Inspectors became searchers in the Gate row on The Mother.",
+   "'Draw Age' on Null-Light became the Dark Ages."
+  ]
+ },
+ "geo-a": {
+  "pages_changed": [
+   "Cosmology & Metaphysics/Faith and the Powers Above/Faith and the Powers Above.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Faiths of the Four Quarters.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Physical Order — Atla'zon and Gaia.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair I — Form Against Time.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair II — Memory Against Horizon.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair III — Will Against Desire.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair IV — Insight Against Dream.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair V — Motion Against Stillness.md",
+   "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair VI — Harmony and Renewal.md"
+  ],
+  "inventions": [
+   "Hub: the Ottermere skipping yard, Year 602, a Scale lector chased into a horse pond by forty girls.",
+   "Celestial Host: the Assize at Bel Hollow, Year 409, an unnamed Midreach Celestial witnessing one old oath while the town confesses. Includes the Harwell boundary.",
+   "Faiths: the fire on the Bridge of Four Stakes, wool fair, Year 668, and the Guild's fire-rolls.",
+   "Fourteen Titans: Wat Harrowgill's suit against Atla'zon at the Bench at Carrowmark, Year 588, over the Sallow Reach weir; the six Stone Choir chanters who rebuilt it.",
+   "Fourteen Archons: the Fourteen Banners procession at Saltash and the fire at the Corn Cross, Year 671; the gardeners' empty fifteenth pole, tied to the erased Archon Sirael of Bloom (a custom, with no change to Sirael's canon).",
+   "Primordial Dyad: the Tolland and Nettlebed causeway toll, Year 433; Aubin Sibley called Even-Handed (Judicaris) and Old Bessamy the Unpicker (Nihilaris).",
+   "Pair I: Ludd Prudhoe, Sister Tamsin Yarrow and the Hall of Six Angles at Crowmarsh, Year 519, plus the masons' and clock-keepers' Midsummer stave fights.",
+   "Pair II: the smuggler Long Hobb Pennick and his corridor at Ness Harbor, Year 627; Dame Oriel Corvane, a Mnemoris reader.",
+   "Pair III: the Siege of Brannock, Year 380; Lord Marshal Halloran Steel-Lip (Imperaris) and Mistress Joan Fenwick of Sugar Lane (Ardoris), and the saffron buns.",
+   "Pair IV: the wake of the fiddler Old Gil Mossgill, Year 592; his widow Merrin, the Oneiris worker Lisabet Kettering, the Luminaris novice Anwen of the prism temple at Anselm.",
+   "Pair V: the wreck of the pilgrim cog Fat Margery on the Maiden Reef, Year 547; pilot Rafe Cottle (Kineris), chaplain Brother Still (Mortaris), Saltby Roads, Cold Harbor.",
+   "Pair VI: the blight orchard of Aubrey Vale, Year 633; Choirmaster Osgood Lark, Goody Thornapple, the Three Tuns.",
+   "Physical Order: Pellam Hobbs, the Swallow of the Rising Court, and the Varūn war-maul, Year 590.",
+   "Spiritual Seat: Mother Hester Quill's deathbed auction of her soul at Ambry, Year 604.",
+   "Strata: Margrave Rollo Tollen of Kesterby, the Golden Stair (488 to 519), the chanter Wren Maddock, the Ledger Monks of Hallow Reach.",
+   "Abyssal Depths: the eruption at Cinderhowe, Year 662; the volcanologist Thessaly Orne.",
+   "Glosses and small texture: Scale clergy retire on a corrody; neumes for writing out Sylorin's hum; the Throne-network glossed as the web of binding running up to each Titan's and Archon's seat."
+  ],
+  "calls": [
+   {
+    "call": "Epoch-scale figures stay as written (a Titan's heartbeat per thousand years, Faisal's eleven thousand years of Oath-service). The Titan hub now warns that they are not years on the count.",
+    "grounds": "Errata Section II: Epoch figures are accurate about magnitude and meaningless as years, and are never placed on the count."
+   },
+   {
+    "call": "The Dawi Tally's six thousand years and the Closing Eye's four thousand years of casting are kept, marked as the holders' own reckoning that the Errata would cut down.",
+    "grounds": "They exceed the 2,115-year reckoned count, and the Errata withdraws old figures above about two thousand. The brief says no fact is lost, so I flagged them and did not rewrite the numbers."
+   },
+   {
+    "call": "Old-register age names are kept with an in-place note: Pyrrhean Epidemic, Era and Calamity (Antediluvian collapse, about -550 to -450), and the Fractured Era (no sealed chronology, read as Divisional opinion).",
+    "grounds": "Errata Section III substitutions, plus the brief's direction to agree with the Concordance and keep every fact."
+   },
+   {
+    "call": "Thalen's Withering and Maelor's Withering Age are presented as the old Archonic registers' usage, explicitly kept apart from the Withering Era that opens at 645 IC.",
+    "grounds": "Errata: a register placing the Withering before the Voyager Era is inverted. These events (Echo Vaults later uncovered by the Accord, early Paragons) cannot move to 645 without changing them."
+   },
+   {
+    "call": "Grand World fixes: Gaia's grief now tears rifts across the land where it split continents, and Kaldrion's first continents become first lands, ending in the one body of land the count is written on.",
+    "grounds": "Brief, Grand World section and Concordance Section VI: one landmass until about 740 IC."
+   },
+   {
+    "call": "The Titans' Ground fields keep their Wellspring names. The hub adds a note that they are written in the same words at larger scale, that Measurewrights argue whether they count among the Sixty, and that each entry's Codex line seats the art on a named one of the Sixty.",
+    "grounds": "Names like the Wellspring of Strain are not among the fixed Sixty, but the Titan entries and the Sixty are both fixed, so I recorded the tension and altered neither. R83-11 lets Measurewrights argue."
+   },
+   {
+    "call": "The Current keeps its name as the Guild clerks' name, taken from what people say. The page has a Measurewright correct them: what pools is a kind of Aether and nothing runs anywhere.",
+    "grounds": "R83-9 retires Wellsprings as a current in a pipe, but the faith's name and its folk belief, which it is allowed to be wrong about, should survive."
+   },
+   {
+    "call": "Lease-holders: dead legs and districts the Guild has cut became dead ground with thin ground, walked-off wardens and shut Core keepers. The signal net became fires going dark along the beacon line.",
+    "grounds": "Brief's retired table and settled terms (beacon line for old wire). The Lease-holders' function and growth measure survive."
+   },
+   {
+    "call": "Throne-network is kept, with a gloss, and the wording around it went from wired and current to tied and handed down.",
+    "grounds": "The word appears in archived scenes (The Order of Precedence, Paru 86), which are not edited for names."
+   },
+   {
+    "call": "Celestials at tribunal: Vow-Light as the most reliable interrogation method now reads 'where a Celestial can be had at all'. Guild law-enforcement became Guild tribunals and their searchers.",
+    "grounds": "The same page says only low dozens of sightings exist, so standing tribunal duty needed qualifying. The conscription fact stays."
+   },
+   {
+    "call": "Concord Gates are left named on Pair IV and the Strata page.",
+    "grounds": "Errata and Concordance date the Gate network to the Voyager Era, The Concord Gate Network is another group's page, and I do not hold the test on it. Whoever holds that page decides."
+   },
+   {
+    "call": "Three quoted in-world epigraphs keep the banned not-X-it-is-Y shape: Faisal's 'not power; it is posture', the Codex of Three Planes, and Chronaeus's 'Time does not pass. It is spent.'",
+    "grounds": "They are attributed in-world quotations. Only the em dashes changed, and the attributions moved to their own lines."
+   },
+   {
+    "call": "Part Four and the Author Notes on the Faiths page stay out-of-world, as table advice and a real-world research note, with setting fixes only. Part One is turned in-world.",
+    "grounds": "The brief says nothing is lost, and the research caveat says it belongs on the page."
+   },
+   {
+    "call": "Section headings changed em dashes to colons. H1 titles and page names keep theirs.",
+    "grounds": "A grep of wiki/ found no heading anchors pointing into these pages, so nothing breaks."
+   },
+   {
+    "call": "Mechanics: a machine check against wiki/ found no wikilink, number or glyph lost, and frontmatter unchanged. Only four rewritten bold phrases differ, all edited deliberately. Greps for retired terms and em dashes are clean apart from ordinary English 'draw' and page names. I had no sound-effect grep hit list, so that check rests on my reading of the openings and originals.",
+    "grounds": "Verification, reported so the launching session knows what it covers. I did not re-read each finished page top to bottom after the scripted edits, because the task said not to reread what was already read; I read every original whole and wrote every change."
+   },
+   {
+    "call": "Scratchpad slip: the session scratchpad is shared across agents, and my first Write to scratchpad/apply1.py overwrote an existing file of that name that another agent may have made. It cannot be recovered. I moved to scratchpad/faith/ and removed my root copies of apply1.py and applylib.py.",
+    "grounds": "Disclosed in case another agent's edit script is missing. Staged pages were not touched by this."
+   }
+  ],
+  "canon_conflicts": [
+   "The Celestial Host, Section I says Malakar took eleven minutes to prove Faisal's personhood could be broken, while Section V says every source agrees Faisal is still kneeling, whole. Both are kept.",
+   "Titan Grounds named as Wellsprings (Strain, Form, Breath and others) against the fixed Sixty. Recorded on the Titan hub as a Measurewright argument, not resolved.",
+   "Both Valen and Chronaeus carry the epithet 'the Clock of Ages'. Left as they are, since both are fixed.",
+   "Great Spirit War and Great Spirit Wars both appeared on the Strata page; normalized to the singular per R83-6.",
+   "Maelor and Thalen's Withering against the sealed Withering Era of 645 IC. Flagged on the page per the Errata, not resolved."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age.md and The Guild Accord in the Modern Era: they still say the Lease-holders buy dead legs the Boards abandon. They should match 'dead ground'.",
+   "Any page describing the Stone Choir, Ledger Monks, Order of Still Waters or Church of Hollow Stars may want to pick up the invented stories above, or stay silent on them.",
+   "The Fourteen Archons pages now call a Scale temple a 'Scale house'; the faith's own pages should agree if they use another word."
+  ],
+  "pages_left_alone": [
+   "Live wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md are untouched, and nothing was committed. Only staged copies under imports/drafts/wiki-rewrite/rest/ were edited.",
+   "Other creators' material: none appears in this group, and none was added.",
+   "All Titan-Keyed art blocks (Trigger, Effect, Measure, Cost, Limit, Counter, Codex lines) keep their mechanics and figures, with spelling and small wording fixes only.",
+   "The Choirs' Path percentages, the Archon registry table, the Seating and Ledger of Costs tables and all glyph lists are unchanged."
+  ],
+  "retired": [
+   "Faiths: 'what the Guild sells through a stopcock', 'the draw is metered', 'taking as little from the draw', 'dead legs', 'a district the Guild has cut', 'signal net', 'Guild inspector', 'printed sheets' and 'taxed as printing', 'mass-produced', 'salaried', 'career structure'.",
+   "Celestial Host: 'wired', 'Wellspring current', 'law-enforcement', 'declassified', 'internal memos', 'resourcing'.",
+   "Titans: 'Concord megastructure', 'the modern age', 'drew gravity harmonics'; 'split continents' is gone from the Gaia entry.",
+   "Archons: 'Essence currents' in the Wellspring Law definition, 'must draw from', and every 'Practitioners of X do not merely Y; they Z' construction (all fourteen)."
+  ]
+ },
+ "geo-b": {
+  "pages_changed": [
+   "wiki/Geography & the Four Quarters/Geography & the Four Quarters.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/Isles and Archipelagos.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/Yasoshima — The Eighty Isles.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/The Hobgoblin Expanse.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Nalūn — The Chain-Cities.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sovereign Enclave of Ketsuen — The Crow's Reach.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Guild Seat of Stannvaard — The Metal-Wardens of the Ring.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist.md"
+  ],
+  "inventions": [
+   "Hub opening: surveyor Sanna Thirlwell eats a seam entry at the Midwinter Fair in Altherion, the street cause of the ledger's fourth revision.",
+   "Inner World opening: smuggler Long Inga Rawe loses 31 sledges, 900 salt bars and 11 men through the ice of Long Scratch, a chain-lake, in 661 IC; the pickled perch and the lawsuit.",
+   "Kharven opening: raft-boss Aud Rannsdottir of Thornhaven, her move FIRST OF THE MELT, the river Hallen and the 688 IC log jam at Hallenfeld (17 dead). Also Seat color: painted doors, ice brackets, rent in split wood, the Ashbury horseshoe-licker.",
+   "Nalūn opening: factor Bartlemy Quince and the wheel of Bridgemarch blue. Also the 'streets' paragraph: Halcrest bar-licker, striking drain-walker, Vaultmere copyist, and the drain-share on top of rent.",
+   "Ketsuen opening: Maren Ottertail's wedding barge at the Reedgate station on the Long Water, about 712 IC, and the Thread Standard ruling on the debt of nets. Also the market-town color and Proving crowds with bookies' odds.",
+   "Stannvaard opening: Mag Cotterpin and the bronze petition, THE SELF-ANSWERING PETITION, 669 IC. Also Altherion market week, River Stairs brackets, the rat-carving ratcatcher.",
+   "Undaar-Keth opening: Stone-Carver Hesh-Kaal's apprentice and the Wolf Decree of 634 IC, including the she-wolf on the Third Company's roll. Also colored doors, Decree Street messes, the farrier.",
+   "Expanse opening: the Ash Session of 612 IC and Speaker Sahl-Venn, with a new timeline row. Also the Shelf towns, Krev-Mol's market, Breakwater brackets, rent paid by weight.",
+   "Yasoshima opening: Magister Odile Penhallow's fourth application, the 41-day welcome, the fork that held one note, and the wreck on the reef. Also a one-breath premise covering land held under title and water rights in the lens.",
+   "One-breath premises on every major place, and a new 'In one breath' column in the hub's Four Quarters table.",
+   "Glosses added: array (hand-cut bank of glyphs), aiga, fono, feagaiga, fire-setting."
+  ],
+  "calls": [
+   {
+    "call": "Kharven, Nalūn and Undaar-Keth now carry two hands. The 715 ledger holds ground, trades, houses and law. Muken's reign, the Tenrai night, the war with Undaar-Keth and the war with Cozbi are marked 'Later hand', the Concordance Section VI hand writing from the last winter before the turn.",
+    "grounds": "Muken is about sixteen at about 715 (RULINGS agent ruling) and Arc Two is Cozbi after the split, so these pages' 'present' cannot be 715. The brief bars both losing facts and narrating arc events, and Concordance VI is the existing device for this. If the launching session wants these passages off public pages, it can lift them out by that marker."
+   },
+   {
+    "call": "Muken has no death. The Tenrai night takes Tomuka and Ezo and takes Muken off the chair, and the later hand records no death of his. The oath law now reads 'do not outlast the reign... when a king dies or leaves the chair'. A flagged row states the ruling.",
+    "grounds": "C-164, R83-3 and the brief's 'give Muken no death'. Where he stood afterward is left unsaid, because nothing on file gives it."
+   },
+   {
+    "call": "Kharven-Seat is older than Muken. He takes its crown and does not build it. 'Original stronghold' and 'he built Kharven-Seat' are gone. 'First King' now means the first to make the old crown mean the whole north. The kings before him have a writ shrunk to their own walls.",
+    "grounds": "C-164 agent ruling. The earlier kings' shrunken writ is invented, to reconcile this with the page's clan wars."
+   },
+   {
+    "call": "'Malakar's splitting made the ancestral seat untenable' becomes the first blow on the white shelf about 310 IC, which the Moto registers call the split. Muken walks north generations later.",
+    "grounds": "C-164."
+   },
+   {
+    "call": "Niran's ocean crossing from the Old World becomes passage up the long coast to Chainward Landing.",
+    "grounds": "The Grand World rule: one landmass, no ocean between quarters. His working passage and Nazil survive."
+   },
+   {
+    "call": "Isles now read as lying off the shores of the one great land. Sea voyages from the Expanse and Yasoshima stay.",
+    "grounds": "Concordance VI: a single continent 'with isles off its shores'."
+   },
+   {
+    "call": "Kharven culture line: 'Mongolian-Inuit' becomes Japonic naming, and the amendment note is rewritten.",
+    "grounds": "NATALIE naming canon: Moto are Japonic stratum and the Büri register is dead. The old note treated Japonic as the dead register."
+   },
+   {
+    "call": "'The Fusi Vā' section is retitled 'The Saishiki', with a note on the old name, and 'Tofā Mamao' becomes Tōbō no Michi. The heading changed, but no link targets it.",
+    "grounds": "The page's own ruled row says 'Fusi Vā' does not survive. Yasoshima and the Yuno Bloodline use Tōbō no Michi."
+   },
+   {
+    "call": "Inner World: 'Malō of Sātūlagi still has no quarter; Isaac's ruling needed' now says it has no quarter because it is struck from canon.",
+    "grounds": "Ratified 2026-09-12, as the Stannvaard and Ketsuen pages already state."
+   },
+   {
+    "call": "Blasting becomes fire-setting. Gun-carriages and rail become siege frames and bridges. Wire becomes a bag of string (Hallenfeld), and signal-relay stations become beacon towers and mirror posts. The 40-minute alert stays, and so do the Tinkers' roof contraptions as misfires. Buying Essence in the west becomes paying a Core keeper for hours.",
+    "grounds": "Retired table and THE TEST. The forty minutes is plausible for a beacon chain."
+   },
+   {
+    "call": "Banking, university, publication, inspector and balance sheet become money-changing, carvers' school, public reading, searcher and account-books.",
+    "grounds": "R83-4 reserves banks and universities for the Imperial Age, and 'searcher' is settled in section one. Merchant and factor houses, bills of exchange and arrays stay as hand-made and scarce."
+   },
+   {
+    "call": "The Hub's News blurb now follows the trade agent's staged News page: beacon line, post, mouth. The standing rule reads 'on the line'.",
+    "grounds": "Consistency with imports/drafts/wiki-rewrite/trade. The wikilink target is unchanged."
+   },
+   {
+    "call": "Sulphide becomes Sulfide, including Blackcap Sulfide.",
+    "grounds": "The trade pass already renamed it, and the American spelling rule requires it."
+   },
+   {
+    "call": "'Two hundred thousand years' outside R36-1 gets an aside in Yasoshima: an Epoch figure the Guild's count keeps off its books. Ketsuen's use stands unchanged.",
+    "grounds": "It is inside R36-1, so it cannot go. Concordance Section VI and the Errata keep Epoch figures off the count."
+   },
+   {
+    "call": "Kharven fighters use the settled the hide, the low sky and smelling a man's stack. Dawi use on shift, the load and sounding. No new names were coined.",
+    "grounds": "The Color of Essence Part Six and the RULINGS agent ruling."
+   },
+   {
+    "call": "The 'not X, it is Y' constructions were cut across the pages, keeping the facts. Character quotes and a few jokes stay (Elder Tae, Niran's journal, 'Not flashy. Not fast.').",
+    "grounds": "Brief, 'The page itself'. Quoted speech is left in the speaker's voice."
+   }
+  ],
+  "canon_conflicts": [
+   "Muken's descent: the Kharven page keeps the ruled 2026-09-12 Long Reading account (born in Nalūn, Kōkan mother taken by a lesser house). His card has father Gimbzo Kōkan Moto and mother Kasane of the Byakuya, and a King at eighteen after the Great War of the North. The page's fourteen-month conquest and migration do not match the card. Both left standing; needs a ruling.",
+   "Sodoku as Muken's son, reigning or returning, and Niran at nineteen in about 715, cannot share a present with Muken at about sixteen in 715. The later-hand marker contains this but does not settle it.",
+   "Expanse: 'seven hundred and sixty-five years' of parliament (also on the Hub) and 'seven hundred years of records' against the page's own charter at c. −1,050, which gives about 1,765. 'Fourteen hundred years' of the Orc Question against the Scattering at c. −1,340 gives about 2,050. All kept as written.",
+   "Salt-throat 'not dangerous' on the Nalūn page against Muken's card, where his mother dies of it. Kept as written.",
+   "R36-1 (Yasoshima, 'What the Research Division Was Not Told') is byte-identical, verified against the original. So it keeps the British 'metabolising' and 'stabilisation', its em dashes, and two 'not X' constructions.",
+   "'Two hundred thousand years' (R36-1, Ketsuen, Yasoshima) sits uneasily with the Concordance's 2,115-year count, though Epoch figures are off that count.",
+   "Master Material Ledger's 'no compensation scheme' against the Tender's Obligation kept on the Stannvaard page. The trade agent already reported this.",
+   "Ketsuen: I called it one of the youngest sovereign powers, since Niran came at thirteen and is nineteen now. The page's Proving cycles and old settlers imply some age. Soft claim, easy to cut."
+  ],
+  "other_pages_needing_change": [
+   "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven.md: 'three years after his death' and the fall narrative still give Muken a death.",
+   "The Long Reading — Moto Ancient History.md line 178: 'he died to a dirty one'.",
+   "The Moto Bloodline.md lines 133-135: 'since Muken died', Malakar's splitting making the seat untenable, Muken 'built Kharven'.",
+   "Assets/Maps/world-atlas.webp: not viewed. If it shows sea between the quarters, it contradicts the Grand World.",
+   "Sōhai — The Whole Bow.md and A Reader's Codex.md also mention Saishiki, Fusi Vā or Tofā Mamao; align them with the rename.",
+   "Muken Moto card against the Kharven page on descent (see canon_conflicts)."
+  ],
+  "pages_left_alone": [
+   "Yasoshima 'What the Research Division Was Not Told' (R36-1): byte-identical, ratified as written.",
+   "Revari Zettari in the Kharven page, and the Zettari relation on the Nalūn page: another creator's material, left as is with nothing added.",
+   "Sonzai in the Kharven page ('Sodoku and Sonzai answered the killing') and the Chuluun line in the flagged table: hands off, unchanged beyond punctuation.",
+   "Kushara in the Hub's atlas caption: unchanged.",
+   "Filenames, frontmatter, embeds and wikilinks: script-checked on all ten pages against a pre-edit backup."
+  ],
+  "retired": [
+   "Muken's assassination and death.",
+   "Muken building Kharven-Seat, and 'Muken's original stronghold'.",
+   "Mongolian-Inuit as the Moto register.",
+   "Rail, wire, gun-carriages and blasting.",
+   "Bank and banking, university.",
+   "'Infrastructure' as a thing in the world, replaced by named works, wards and roads.",
+   "'Grimdark material' as a label on the Tender's Shake.",
+   "Fire-lanes (now shooting-lanes).",
+   "The Old World to Inner World sea crossing."
+  ],
+  "rename": [
+   {
+    "from": "Blackcap Sulphide",
+    "to": "Blackcap Sulfide"
+   },
+   {
+    "from": "The Fusi Vā (section heading on the Kharven page)",
+    "to": "The Saishiki"
+   }
+  ]
+ },
+ "peoples": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/Lore & History.md (new short spectacle opening; Aphorism untouched here; em dash removed)",
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/The Alftian Codex/The Alftian Codex.md (railway platform in the mermaid node now waystation platform; Aphorism 'draws' to 'pulls'; em dashes removed)",
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/The Alftian Codex/The Farrant Papers.md (43 lines: rail, tram, main, meter, gauge, Board, bulletin office, postal, cafe; Year stamps converted)",
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/The Alftian Codex/Volume the First.md (22 lines, same fixes; tram-rails and cement gone; Year stamp converted)",
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/The Alftian Codex/Volume the Second.md (27 lines, same fixes; journals, broadsheets and trams gone; Year stamp converted)",
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/The Alftian Codex/Volume the Third.md (28 lines, same fixes; draw-town, meter house and pump-house rewritten; Year stamp converted)",
+   "imports/drafts/wiki-rewrite/rest/wiki/Lore & History/The Alftian Codex/The Necrocursica.md (27 lines: gauge to fork, draw to pull, printed to copied; two Year stamps converted)",
+   "All seven pages: British spellings moved to American by stem (apologize, harmonize, recognize, authorize, characterize, criticize, crystallize, stabilize, standardize, quarreling)"
+  ],
+  "inventions": [
+   "Hob Tallow, a hedge-worker in a coat of nine patched colors, who paid a copyist two silver for an hour with a sealed journal and roared its best page from a reading desk at the Urbis Archivum, starting a brawl with a Division clerk, a Herald novice and forty scholars. The Heralds put an iron grille on the shelf the same week. Only on Lore & History.md. Name grepped clear of wiki/ and the staged copies; 'Tallow' alone appears only as the material.",
+   "Fee-token: a warden's token under Guild seal hung by a door, replacing the Board-sealed meter (Farrant Papers, three places; one paid a year ahead at the Ault house).",
+   "Fee hall: the back room Kwon teaches in at his first posting, replacing the meter house (Volume the Third).",
+   "Cart-ruts and hitching rail as small replacements for fog on the rails and frost on the rail.",
+   "The carter's tailboard as the copper ride across Urbis, replacing the tram (Volume the Second, Volume the Third, Farrant Papers)."
+  ],
+  "calls": [
+   {
+    "call": "Gauge, as Farrant's and Malphas's handheld density instrument, becomes the assay fork, with Farrant's log entries reading 'Fork, the reading floor: nine and five marks'. All readings and figures stay.",
+    "grounds": "The Mechanica page in section one already pairs the coil (field) with the assay fork (density) in the same two-instrument rule these papers quote. The brief names assay forks as the medieval instrument."
+   },
+   {
+    "call": "The line becomes the kept road, the carriage or train becomes the carrier's cart, and station becomes waystation. The platform stays as a cedar loading platform, so chapter titles, the sap gag and the second-bell meetings survive. The Weight 'out of its station' is astronomy and stays.",
+    "grounds": "Settled vocabulary in Who Pays for the Lamp, section VIII (kept roads, tuned waystones, cart-bed stones that burn nothing). A raised loading platform at a waystation passes THE TEST, and the Carters were already on it."
+   },
+   {
+    "call": "The tram is removed with no successor. Riders pay a copper to a carter's boy to ride a tailboard, and the new work on Urbis's high street is paving.",
+    "grounds": "THE TEST: a timetabled city transit service goes with no renamed successor. A carter taking a copper is hand-scale and personal."
+   },
+   {
+    "call": "The bulletin office becomes the copy-house.",
+    "grounds": "The agent holding the staged Night Watch page has already renamed it the copy-house (hired scriveners, cheapest rag). I matched that so the two pages agree."
+   },
+   {
+    "call": "'The journals want verses' and journals printing Malphas become stationers copying and selling his verses.",
+    "grounds": "No printing and no periodicals in the brief. Medieval stationers' copy-shops are the real replacement."
+   },
+   {
+    "call": "Kwon's gloss now reads 'whoever pulls from Mortalis to rebuild', and the Codex page's Aphorism reads 'The practitioner who pulls from that Wellspring'. Both changed everywhere in this group. Ordinary English draw stays: chains and circles drawn, 'draw a conclusion', and 'draws on these four' (residues), an account 'drawn on', and heat 'drawn out of the skin'.",
+    "grounds": "The brief retires drawing Aether. A grep of wiki/ found the gloss quoted nowhere outside this group, so the change stays consistent."
+   },
+   {
+    "call": "Kwon's first posting becomes a lamp-wardens' town on a Core, the meter-reader's girl becomes a fee-walker's girl, and a license to draw becomes a warden's license. The pump-house brother becomes a Core-tender who ran dry at the town's site.",
+    "grounds": "Settled words: fee-walkers, Core-tenders, wardens paid by the job. The scene's stakes and every line of the blister and no-Draft-refills lessons are unchanged."
+   },
+   {
+    "call": "Café becomes coffee-house. Coffee, the terrible coffee stall and the great coffee-house at Urbis all stay.",
+    "grounds": "A stall and a pot are hand-made, local and personal, so they pass THE TEST, and the running joke is load-bearing across four documents. Only the modern word changed."
+   },
+   {
+    "call": "Left alone: the Heralds' Medical University, its Licentiate, Venur's brass telescope, Neros's heliometer, the Bureau, the Enforcement Division and the clearance tiers.",
+    "grounds": "A single Herald school of medicine reads as Salerno or Bologna and sits only loosely against R83-4, which gives universities to the Imperial Age. The instruments are hand-made one-offs in brass and glass. The Bureau is carried by the Night Watch page. Targeted fixes only, under the voice-preserving instruction."
+   },
+   {
+    "call": "Year stamps converted by the Errata's rule with numbers unchanged: 696 sixth, 700 tenth, 701 eleventh, 702 twelfth, 704 fourteenth year of the Dark Ages.",
+    "grounds": "Errata, Section III, the unsigned seventh substitution, and the brief's Dates rule."
+   },
+   {
+    "call": "Hub page Lore & History.md got a spectacle opening. The Alftian Codex.md and the volumes did not.",
+    "grounds": "The brief gives a hub a line or two and exempts in-world documents, which keep their existing openings."
+   },
+   {
+    "call": "Headings 'Residue Stabilization and Containment' and 'The Stabilization Protocol' now use American spelling.",
+    "grounds": "American spelling is required. A grep of wiki/ and the staged tree found no anchor links to these headings."
+   }
+  ],
+  "canon_conflicts": [
+   "Stale names, left as found and not settled: Lore & History.md and The Alftian Codex.md still give the old company (Vis Trismegistus as author, Gillus De Raits, Vaughaus Thom, Noxinus Ren as the poet, Jabir, Tat, 'Elfin' author, 'Silent Archivists of Naln, Era of Voyagers', 'The Corrant Papers'). The volumes give Kwon Mu-jin, Gisli Draycott, Ivor Strom, Malphas, Venur, Doyun, Vaultmere in Nalūn, and The Farrant Papers. The Codex page's Madeleine Ault line survives both. These two pages need a separate pass, which goes beyond a setting fix. The Codex page's table also says Noxinus Ren wrote the Necrocursica and Vis is the elfin astronomer, while the volumes make Vis the name on the first coffin.",
+   "Volume the Third and Lore pages show main cast and archived events (Kaalabad, the orchard, the Sovereign's death at Kharven, Malphas) on pages with no private: line, and the brief prefers no cast or plot on public pages. They are existing in-world text, so I kept them. The session that launched this should decide whether these pages stay public.",
+   "R83-4 gives universities and anatomists to the Imperial Age, while the Heralds' Medical University exists in the 690s to 700s. Kept; see calls.",
+   "Retired-word search over all seven pages found no rail, wire-as-telegraph, gun, powder, newspaper, printing, main or meter left; 'rail' survives only as handrail and hitching rail, and wire only as material. No onomatopoeia on any page, and no em dashes remain. No C-164 material, split, ocean or Muken in this group, so nothing needed fitting to the Grand World."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md cites the Alftian Codex. It should use 'kept road' and 'fork' if it describes Castlefall or Genesio travel and readings, and 'pull' for the Aphorism if its holder quotes it.",
+   "wiki/Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Night Watch.md (staged copy already says copy-house). Any 'regulation bracelet' or instrument wording should keep coil and fork paired, as the Farrant Papers now do.",
+   "Any page quoting the Volume the First line about the Heralds' bridge, Castlefall's platform or the Medical University should note the waystation and loading-platform reading."
+  ],
+  "pages_left_alone": [
+   "Zettari material in Volume the Third (the Dawn Guard camp, the Stone Witness vow, 'Jiwe limesikia', the Zettari archive copy in the Necrocursica colophon): other creator's, left exactly as on the page, nothing added.",
+   "All facts, figures, η values, joule bands, Stage and rung names, Mortalis Categories, formulas, doses, redaction blocks, chronology and letters in the five documents: unchanged apart from the words listed in calls.",
+   "wiki/ live pages, sources/, rules/, RULINGS.md and CONFLICTS.md: not touched, and no commits made."
+  ]
+ },
+ "tongues": {
+  "pages_changed": [
+   "Races & Peoples/The Tongues of the Realms/The Tongues of the Realms.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/The Grammars.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/Accord Latin — The Formulary and the Two Spoken Registers.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/Eressean and Varrisak — The Tongue of the Vey-Elarin.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/Old Vaross — The Goblinoid Tongue.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/Runic Dawi — The Tongue of the Holds.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions.md",
+   "Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth.md",
+   "Races & Peoples/The Tongues of the Realms/Naming and Usage/Naming and Usage.md",
+   "Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults.md",
+   "Races & Peoples/The Tongues of the Realms/Naming and Usage/Moto Element Inventory — Japonic Stratum.md",
+   "Races & Peoples/The Tongues of the Realms/Naming and Usage/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md",
+   "Races & Peoples/The Tongues of the Realms/Naming and Usage/The Celestial Host — Naming.md"
+  ],
+  "inventions": [
+   "Hub opening: the Goose Riot at the Ford Fair on Withy Reach; Fulbert Pimm, a Concord wine factor",
+   "The Grammars hub: an unnamed Stannvaard salt merchant accidentally sworn to a Dawi brewery",
+   "Naming hub: the fishwives of Cold Quay and a duke's son",
+   "Accord Latin opening: Noll Quillet, a hedge-speaker of Marrow Lane in Stannvaard, and the fire that sat nine days in a chandler's doorway (ungrammatical 'Intra limine')",
+   "Eressean opening: Ruvaen of the Sylvaaren, a poacher questioned at Velthaeir every morning for thirty-one years",
+   "Old Vaross opening: Sir Hamon Manningtree and the kaan Grakk Thurnen at the Salt Ford parley; the peacock crest nailed to a board in the Keth-Gorrum timber archive",
+   "Runic Dawi opening: the funeral of brewmaster Ulvi Rautekk Sarnan at Kegshard; Tappo, who choked on funeral pork and said the name in the weak grade; the Tally line with pork in it",
+   "Common opening: Sibby Tamm, a rope-seller on the Long Quay, and the saffron case at Stannvaard",
+   "Accent opening: Alard Sefton of the Cold Ford garrison and the hot chestnut at the Midwinter Fair",
+   "Swears opening: the wreck of the wine cog Saffron Margery on the Sowmarsh bar; the clerk Anselm Fulke and the glossary on red sailcloth",
+   "Moto inventory opening: an unnamed Akagane retainer's son named Tendoku (a coined example already on the page) and his eleven duels over which name would be read at Ice-out",
+   "Element Inventories opening: the Seven Debts of Sum-gol, Mahuo cousins sharing the generation-syllable Chae, with the coined names Chaewon, Chaejin and Chaeyeon built from the page's own inventory",
+   "Celestial Host opening: Bess Hobday, bell-founder of Tollerby, and an unnamed figure who chiseled one suffix off the mold, recorded as a tale",
+   "Swears table replacements in the setting's terms: 'Pass his door', 'Bad-ground', and new glosses for Oil-burner, Leaker, Hum-deaf and Capped"
+  ],
+  "calls": [
+   {
+    "call": "Replaced the swear 'Cut his plate' with 'Pass his door', keeping strength and sense (a threat over arrears, may he freeze in the dark).",
+    "grounds": "The brief retires supply cut-offs. Who Pays for the Lamp gives a warden's refusal as simply passing your door."
+   },
+   {
+    "call": "Renamed the swear section 'The Draw' to 'The Round'. Bad-main became Bad-ground. Oil-burner, Leaker, Hum-deaf and Capped keep their names with new glosses drawn from wardens, Core keepers, snuffers and the hum of a kept street. 'Board men' became wardens, Core keepers or snuffers. The fact 'draw is guild license only' is retired.",
+    "grounds": "The brief retires the draw, mains and Boards. The swears' strengths and users are preserved. The hum survives in Who Pays for the Lamp, section II."
+   },
+   {
+    "call": "Changed 'almost nobody is taught to wake it' to 'about one in ten wakes it, and very few of those climb far'.",
+    "grounds": "R83-10 makes practitioners common. The one-in-ten figure is already settled in Who Pays for the Lamp."
+   },
+   {
+    "call": "Changed the remaining 'Khazalid' mentions to 'Runic Dawi' in the hub, the Eressean page and the Old Vaross page, and kept the provenance note that records the retirement.",
+    "grounds": "The Runic Dawi page already says Khazalid is retired and that the framework was corrected to match. The correction had not been applied everywhere."
+   },
+   {
+    "call": "'Crossed the water' for the archaic bloodlines became 'came into the New World', with a sentence saying the Old and New Worlds are regions of one land. Goblinoid 'crossed the water' stays on the Vaross page.",
+    "grounds": "Section VI of the Concordance has a single continent with isles off its shores, so no ocean can separate the quarters. The Hobgoblin Expanse is an archipelago off that shore, so its water is real."
+   },
+   {
+    "call": "Kept 'Nothing here is spelled' and added a one-sentence note that R79-5 now writes accents in full phonetic spelling with the card setting weight. The six levers stay as the rest of the kit.",
+    "grounds": "The rule index outranks wiki pages, and nothing on the page is lost. See canon_conflicts."
+   },
+   {
+    "call": "Kept the real-world scholarship on the Accent page (Labov, Trudgill, Giles, the 1282, 1302 and 1312 shibboleths, the runaway advertisements) in the page's own voice and added that in the Realms such descriptions go out hand-copied and nailed to doors.",
+    "grounds": "Nothing is lost, and the note asks for a light touch. The page is a craft menu with named substrate. Isaac may want this page marked private or moved to the desk side."
+   },
+   {
+    "call": "Plate became harness in the Moto swear quote. 'Powder' in the Probatum est row became 'harness'. Chapbooks became minstrels. Market inspectors became market searchers. 'Metered' became 'tolled'. 'Published' became read into the record, copied out under seal, stated or posted. 'Colonel' became marshal, 'staff' became captains, and 'interview' became asking a lord for a place.",
+    "grounds": "The brief's arms words, its ban on printing and THE TEST. Period ranks and words swapped where nothing depended on them."
+   },
+   {
+    "call": "Left the Vaross root grr- and syllabic Grr, the Common loans thrum and drack, and the example gurr as they stand.",
+    "grounds": "They are attested lexicon and phonology under discussion and are not written sound effects, so the onomatopoeia ban does not reach them."
+   },
+   {
+    "call": "Left the protected Moto and Celestial Host paragraphs byte for byte, including their hard line wraps and broken emphasis marks. Whitespace-normalized checks found all six protected sentences for this group intact.",
+    "grounds": "The brief requires these sentences word for word. Their em dashes stay as protected text."
+   },
+   {
+    "call": "Replaced em dashes in prose and inventory glosses with colons, parentheses or commas, kept them in headings and page names, and swept British spellings to American, including enquire to inquire in the Common doublet table and the clerk's line.",
+    "grounds": "The brief's rules for the page itself. Existing headings stay because other pages may link to them."
+   },
+   {
+    "call": "Added the street terms for the shared arts (the shine, the weight, the nose) to the Common page and linked Part Six of The Color of Essence.",
+    "grounds": "R82-19 and R82-39, using the wording already settled in section one, with no new names."
+   }
+  ],
+  "canon_conflicts": [
+   "The Accent page bars eye-dialect outright ('Nothing here is spelled'), while R79-5 and NATALIE (Voice and dialogue) write accents in full phonetic spelling with the card setting weight. I noted the override on the page and kept the old text. Isaac or a ruling should decide whether the bar is cut for good.",
+   "Convention Six on the hub forbids diacritics across every tongue without exception, and Runic Dawi uses ä and ö throughout ('elää', '-än'), while Eressean cites contours as ú and ù. The hub says the grammar is then in error. I changed neither side, because the forms are the inventory, so this needs a ruling.",
+   "The hub's Document Format lists eleven sections, while the grammars number twelve by giving Speaking It Badly its own section. Left as is.",
+   "desktop/inventories/accord.md still carries 'cut his plate' and desktop/inventories/moto.md still carries 'against plate, do not behave like a poet'. Both now differ from the staged Swears page. Those files are outside my group and were not touched."
+  ],
+  "other_pages_needing_change": [
+   "desktop/inventories/accord.md: 'cut his plate' should become 'pass his door'.",
+   "desktop/inventories/moto.md: 'against plate' should become 'against harness'.",
+   "Any page quoting Bad-main should use Bad-ground. A wiki grep found Bad-main, Hum-deaf, Leaker and cut his plate only on the Swears page.",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md still says 'on the main' and 'draw not included' in the live copy. Another agent holds it."
+  ],
+  "pages_left_alone": [
+   "The Zettari section of Swears, Oaths and Insults: other creator's material, left unchanged, and the sandbar opening does not mention them.",
+   "All element inventories and word tables: every entry kept. The only table edits are the em dashes, plus the single swear cells named under calls. Naming strata unchanged.",
+   "Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem and Sonzai do not appear in this group.",
+   "Live wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md were not touched, and nothing was committed."
+  ]
+ },
+ "called": {
+  "pages_changed": [
+   "The Bestiary/The Bestiary.md",
+   "The Bestiary/The Called and the Divine/The Called and the Divine.md",
+   "The Bestiary/The Called and the Divine/Divine, Archonic and Elemental.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/Summoned and Bound.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/Raga · The Divine Thunder Bear.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/Vaelmorn · The Standing Grave.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/Obrenkael · The Mule.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/Haelvorn · Housecat.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/The Called · Summon Register.md",
+   "The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template.md"
+  ],
+  "inventions": [
+   "The Bestiary: Piers Pennyfold, the Guild copyist who founded the register; the griffon at the Hide Fair at Cold Ansty, late in the Long Reckoning, which cost him his left arm.",
+   "Divine, Archonic and Elemental: Morrowhythe harbor on the first morning of the Year of the Seven Tides, and its plea against Zar'thuun. The Year itself is existing canon; the town and the suit are new.",
+   "Divine, Archonic and Elemental: small biology asides. Leviathan coral is living and its teeth shed in rows like a shark's; the Kraken's skin shifts like a cuttlefish's and it has a shed beak; Cerberus embers burn through boots and its heads keep separate watch; an Elemental's body is whatever its Aether is doing. Also the Iron Leviathan glossed as named for her iron-sheathed ram, and the paper-tentacle festivals.",
+   "Summoned and Bound: Hamo Pockle's wedding wine-steward at Ostlergate (a Stage VIII Tier II Directed form), the Reeve's sentence 'the thing did as it was told, so find me who told it.'",
+   "Summon Register: Dame Isaude Tarn's funeral at Heronsey, her Anchored heron called up by nobody, the forty-one crossings owing, and the parasitism suit against a corpse.",
+   "Blank Template: the Concord clerk's framed entry from the Siege of the Black Maw with every field reading 'large'.",
+   "Raga: the Halvedge counting rhyme, Long Perrin Ashby and the Madder Company as the folk account behind Nine Seconds. The Archives' silence on the engagement is kept.",
+   "Vaelmorn: the Long Fair at Halloway Mire, Annis Reedy as the Halloway summoner who called him nine times (identified with the attested woman at Halloway), the two hundred and six graves after his field decayed, and the abbey's peat cutters.",
+   "Obrenkael: the Haldren Ford toll-keeper's telling, including the red and white shield wall and the soup. The gatehouse, the Silence Realm and the eleven dead are existing canon.",
+   "Haelvorn: Serjeant Bette Quill naming it Housecat on the fourth morning at Thinbreath. The origin of the field name is new.",
+   "Narrator first-person scars: a griffon-era 'smaller scar', a singed boot, a cut thumb inside Hic Nemo, a split lip at thirty paces from Haelvorn.",
+   "Mnemata glossed as memorycraft from the Artifacts pages; the Register's one-line glosses for Animatria, Arts and Concordia are built from the page's own canon note and the Mule's entry; 'Glyphica' glossed as licensed glyph-work is my own wording."
+  ],
+  "calls": [
+   {
+    "call": "Obrenkael · The Mule is treated as open to rewrite, with the same fixes as the other entries.",
+    "grounds": "The conditional note says to leave it only if the page says it belongs to someone. It does not. RULINGS.md and its Section XIII rule the Aperture branch and Kwon Hae-ryu as an origination that stands. Its existing Zettari mentions are left exactly as found and nothing about them is added."
+   },
+   {
+    "call": "Section XIII Open Rulings on Haelvorn, Vaelmorn and Obrenkael stay as workroom notes, still naming Isaac and pending questions. Only spelling and one 'units' word changed.",
+    "grounds": "Nothing is lost, and these are open questions I may not settle. The session that launched this may want to rule them, or strip the out-of-world voice from pages that may publish."
+   },
+   {
+    "call": "The whole R27-1 block on Haelvorn is kept byte-identical, including its em dashes and the rest of the RULED paragraph, not only the validated sentence.",
+    "grounds": "Task note says keep R27-1 word for word. Diff against wiki/ confirmed the block is identical and the validated sentence is present."
+   },
+   {
+    "call": "Haelvorn's Rings energy comparison changed from 'a little under a kilogram of blasting powder' to 'a good ladle of lamp oil, a little over a hundred grams, burned in a single instant'. The four megajoule figure is unchanged.",
+    "grounds": "Gunpowder is retired in every era. Lamp oil at about 37 MJ/kg gives about 108 g for 4 MJ, so the physics holds."
+   },
+   {
+    "call": "'Plate' as armor became 'harness' on Raga, Obrenkael and Haelvorn; 'cuirass' became 'breastplate' on Raga. Obrenkael's lamellar plate and Haelvorn's iron plate stay as objects.",
+    "grounds": "Brief: the word is harness, because full plate belongs to the Imperial Age."
+   },
+   {
+    "call": "Raga's 'pike hedge' became 'spear hedge'.",
+    "grounds": "R83-4 lists pike with the Imperial Age."
+   },
+   {
+    "call": "Aether-sense 'draw' became 'pull', and summoner upkeep became 'sustain drain'. Haelvorn's heat 'draw' also became 'pull' throughout. Ordinary uses stay (drawn to, drawn off the braid, drawn from canon).",
+    "grounds": "Brief's word list. Heat draw was close enough to the retired term that keeping it would read as the old system."
+   },
+   {
+    "call": "'Wellspring vein' and 'Oblation vein' became worked site or pooled ground. 'Wellspring current' became the kind of Aether. 'Radiant current' stays as a named vulnerability, and the literal 'molten veins of Theros' stays.",
+    "grounds": "R83-9. Radiant current is the register's fixed term for one of its three recurring vulnerabilities and does not describe a pipe."
+   },
+   {
+    "call": "Raga's audible 'tick' became 'beat', and his shed points 'steam' on wet ground instead of hissing.",
+    "grounds": "No onomatopoeia. Both were arguably ordinary words, but the change loses no fact and clears them from any sound-word check."
+   },
+   {
+    "call": "Summoned and Bound's cross-reference no longer says the Register sits 'under the Magic System section'.",
+    "grounds": "The link and the file are both in the Bestiary; the old wording was stale."
+   },
+   {
+    "call": "The Reed-free Heronsey heron is written as Anchored, not Native.",
+    "grounds": "The Register says only Anchored outlives its summoner, and the story depends on the thing outliving her."
+   },
+   {
+    "call": "Mythic register is carried in the openings and asides of Raga, Vaelmorn and the Divine page. The technical sections stay field-naturalist and registry voice, with a short newcomer gloss added to each of the four entries.",
+    "grounds": "Task note on mythic at the top and biology first, plus the brief's rule to explain system words on first use."
+   }
+  ],
+  "canon_conflicts": [
+   "Obrenkael Section X says 'The lawful form carries eleven skulls as a debt', against the ruling in its own Section XIII that no real number of skulls is ever fixed. Left as found.",
+   "Raga's Identity table says 'Summoner: Unassigned. See Open Rulings', but the page has no Section XIII, in the original or now. Left as found.",
+   "Raga's 2026-09-12 ruling block names Kaalabad and Kwon Mu-jin on a page with no private line, so a plot point sits on what may be a public page. Kept because nothing is lost; flagged for a decision.",
+   "The Summon Register says only one of four provenances can outlive the speaker (Anchored is the one marked), but its Native row says the Crystal persists after, and Raga's Severed Tether says killing the summoner does not banish him. Left as found.",
+   "Haelvorn's Rings: 4 MJ over a five-meter forward hemisphere (about 1.57 million square centimeters) gives about 2.5 J per square centimeter, while the page says near 10 and that the calculation 'has been checked'. Left as found.",
+   "The Bestiary says 'eleven questions' but its skeleton table shows nine rows, and 'Four of the register's most feared entries would rather leave' names only three. Both left as found.",
+   "The Register's 'Originated, flagged' note still says a ruling is needed on the four-way Provenance axis. Not resolved here; the note stays visible."
+  ],
+  "other_pages_needing_change": [
+   "wiki/The Bestiary/The Corrupted and the Risen/Well-spawn.md still says draw and proofed or enhanced shot, and line 94 has a rifleman. It belongs to another group and is linked from The Bestiary.",
+   "wiki/The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md and The Master Glyph Index cite these entries. Neither needs a text change from me, but both should be checked if the Open Rulings sections are later cleaned."
+  ],
+  "pages_left_alone": [
+   "All of wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md: untouched, per the brief. Git status for wiki/The Bestiary shows no changes.",
+   "Existing Zettari mentions on Obrenkael (the name Grandfather, the Zettari line-soldiers and officers): left word for word, and nothing added about them.",
+   "Numeric tables, Summon Tier rows, the Danger Tier list and all glyph, Wellspring and Family assignments: unchanged apart from em-dash removal and site wording in non-numeric cells.",
+   "Section XIII on Haelvorn, Vaelmorn and Obrenkael: left as found apart from spelling and one 'units' to 'companies' on Haelvorn."
+  ],
+  "retired": [
+   "Haelvorn: blasting powder comparison replaced with lamp oil; powder charges in the Floor replaced with fire-pots.",
+   "Haelvorn: photographs replaced with likenesses by sworn limners; 'infrastructure' replaced with road wording; waystation stove replaced with hearth; 'ammunition' replaced with 'charge'; 'shot at' replaced with 'loosed at'.",
+   "Raga: artillery piece replaced with siege engine. Pike hedge replaced with spear hedge.",
+   "Vaelmorn: field hospital replaced with a row of surgeons' tents.",
+   "Divine page: steel-hulled ships replaced with iron-bound hulls; explosive devices replaced with fire-ships and Guild fire-casks.",
+   "Obrenkael: 'It is the pipe' replaced with a millrace image; Oblation vein and Oblation draw removed.",
+   "Summon Register: 'live wire' replaced with 'live tether'.",
+   "British spellings removed across all pages, except that the R27-1 block is unchanged. Em dashes in that block and in existing page names stay."
+  ]
+ },
+ "wild": {
+  "pages_changed": [
+   "The Bestiary/The Corrupted and the Risen/The Corrupted and the Risen.md",
+   "The Bestiary/The Corrupted and the Risen/Well-spawn.md",
+   "The Bestiary/The Corrupted and the Risen/The Undying and the Constructs.md",
+   "The Bestiary/The Corrupted and the Risen/Aberrations/Aberrations.md",
+   "The Bestiary/The Corrupted and the Risen/Aberrations/Lich.md",
+   "The Bestiary/The Wild/The Wild.md",
+   "The Bestiary/The Wild/Spirit Beasts.md",
+   "The Bestiary/The Wild/The Draconic Lineage.md",
+   "The Bestiary/The Wild/Natural Beasts/Natural Beasts.md",
+   "The Bestiary/The Wild/Natural Beasts/Greater Wolf.md",
+   "The Bestiary/The Wild/Natural Beasts/Neiman Lion.md",
+   "The Bestiary/The Wild/Natural Beasts/Droval — The Frost-Howler.md"
+  ],
+  "inventions": [
+   "Well-spawn opening: the Shard Race of Pennyhythe on Mask Night, ninth year of the Dark Ages (698 IC). Jennet Ludd of the Saffron Hoods, Odo Bracken of the Scarlet Aprons, the porter Tib Fennel (dies), the Margrave of Sallowmere's bounty of 300 gold and a winter's ale, the hunting hall at Cold Ashby. The Mourning Pike is the existing register line.",
+   "Well-spawn: new paragraph 'Bills, crews and songs' (lords' bounties on top of hall pay, crew colors and feuds, heralds, minstrels, bookies on a season's tally) and crew slang: a smoke (mouth-bred mask), a vein (lower workings), a bright (Heart).",
+   "Corrupted and the Risen hub: the three bills on the Cold Ashby door, including a 40-gold bicorn bounty on the Durnath road.",
+   "Undying opening: Dob Tanner's wake at Grey Marsh as the start of the Blight, his widow, the hanged hedge-worker, the bounty of a silver per right hand, and the corpse-clearing crew called the Second Burial.",
+   "Aberrations opening: Long Sim Tupper's smuggled cockatrice egg at the Goose Fair in Harl's Cross, the auctioneer Ilse Thackray, 31 petrified, the Looking-Glass Company out of Durnath. Also a note that Aberrations are paid by bounty, with a named proof, because they carry no mask.",
+   "Lich opening: the Erebus court keeping Vharzoth on the tax roll and his payment in collectors' grave gold (Vharzoth is existing; the anecdote is new).",
+   "Spirit Beasts opening: Brother Cuthwin Tace's choir aboard the cog Merry Alys at the Wailing Reefs, the saffron-gold bay and the coastal festival tied to it.",
+   "Draconic Lineage opening: Tobin Sark, the stolen glyph-stone, a 31-year wyrm pursuit along the salt road, the bakery roof.",
+   "Natural Beasts opening: the Farriers, Falconers and Saddlers feud at Highmere, Master Farrier Joss Anvilhand (loses an arm), Mistress Falconer Ede Rushlight, the hippogrif Bright Margery and her wild line.",
+   "Greater Wolf opening: the reeve of Harl's Fold and his pelt bounty of two silver. Neiman Lion opening: the dune chief's wedding robe and the pride that came forty leagues for it.",
+   "Droval opening: Jarl Eyvind Tvilling's hunt on the polar shelf, 60 hunters, a bounty of 100 cattle, the cook's boy Ulf Ketilsson. Also a new note on Droval bills and Rimegaunt guides stopping at the last cairn.",
+   "The Wild hub: the autumn-fair line about fake griffon feathers.",
+   "Replacement details, all new: a Guild craftsman's white flare (for the magnesium flare), a horse-hoist run at the gallop and hoist baskets (for the steam-era cage and hoist), Guild fire-pots on the Sea Serpent, massed trebuchets and griffon riders at Lornhaven."
+  ],
+  "calls": [
+   {
+    "call": "Well-spawn's definition now reads: a Wellspring is one of sixty kinds of Aether; its sites are Cores in common speech; a Well is the delvers' word for a Core Concentration run deep.",
+    "grounds": "R83-9 and the brief retire Wellsprings as currents. The page's 'Well' and 'Core Concentration' stay because NATALIE keeps Wells spawning creatures. I kept 'Core Concentration' as the survey's name although section one reserves 'Wellspring Core' for the top density band; the two terms are different and both remain."
+   },
+   {
+    "call": "Throughout the group, 'current', 'flow' and 'draw' applied to Wellsprings became Aether, the Aether of a site, or the pull. 'Essence flow' inside a body stays, and 'ley lines' and 'geomantic lines' stay as folk geography of old magic.",
+    "grounds": "The brief retires Wellsprings as a current in a pipe. Essence is on the keep list, and ley lines are not a built network."
+   },
+   {
+    "call": "Spawn eat Aether and Essence. Items that used to feed them on 'draw' are now a lantern, a warded door, a fed lamp and a practitioner's reserve. The Roll-caller's bargain is now 'a fed lamp left lit' instead of 'a charged cell'.",
+    "grounds": "Charged cells are retired. Section one's lamps are fed by a warden's thread, so a lamp still holds what a spawn wants."
+   },
+   {
+    "call": "Mine gear stays medieval: a hoist basket replaces the hoist cage, and a horse-hoist at the gallop replaces the full-speed hoist that kills Sump-toads. The rule and the rapid-ascent mechanism both survive.",
+    "grounds": "THE TEST. Horse-whim hoists are real medieval mining; a powered cage is not."
+   },
+   {
+    "call": "Well-spawn: 'Mines, Boards and crowns' became 'Mine-holders, towns and crowns', and 'a crown or a charter Board' became 'a crown or a chartered town'. Chartered hunting companies stay.",
+    "grounds": "Draw Boards are retired. Chartered companies pass as medieval contract companies, and section one already uses companies for lamp rounds."
+   },
+   {
+    "call": "The Vectoria mask hue became 'Iron gray to dark blued steel', and the Sump-toad's gunmetal was replaced the same way.",
+    "grounds": "The Color of Essence already reads 'Iron gray to dark blued steel', and guns are retired in any era."
+   },
+   {
+    "call": "The 'Imperial' scouts on Raiju and Greater Wolf became Concord scouts.",
+    "grounds": "The present is the Dark Ages and the Imperial Age comes after 800 IC, so an Imperial expedition cannot have happened yet."
+   },
+   {
+    "call": "The Hydra at Lornhaven now falls to massed trebuchets and griffon riders. The Sea Serpent's 'explosives' weakness became a Guild craftsman's bursting fire-pots.",
+    "grounds": "Airships and explosives are retired. The facts that the Hydra was brought down and that the Serpent is vulnerable to a burst of fire both survive."
+   },
+   {
+    "call": "Living Armor keeps 'full-plate' and is noted as old work nobody forges today. Present-day spellbinders' suits are described as costly one-offs by a single master.",
+    "grounds": "Full plate belongs to the Imperial Age as a trade, but old works and relics pass THE TEST. Removing the armor would lose the entry."
+   },
+   {
+    "call": "The Arctic Lion Encounter on the Droval page stays word for word, apart from em dashes, even though it names Sodoku and Sonzai Moto and an event of the current thread. 'Kokan' is left unmacroned.",
+    "grounds": "The brief says to leave other creators' material on the page and add nothing, and it also says nothing is lost. I am flagging it because the brief otherwise keeps main-cast plot off public pages. The session that launched me should decide whether it stays public."
+   },
+   {
+    "call": "Droval prose was rewritten to remove the 'it is not X, it is Y' runs and the chained 'the waiting is the fight, and the fight is patience' lines. Every number, Tier and ability survives. The closing Frontier Bestiary quote lost its 'you do not' run and was rewritten, even though it is an in-world quotation.",
+    "grounds": "Those patterns are banned by the brief. The quote is not a sealed document, so I treated it as page prose."
+   },
+   {
+    "call": "A Measurewright's storm-glass and wind-vane replace 'meteorological instruments', and a hunter's bare hand replaces 'thermal detection'. 'Tiny shifts in the warmth of their body' replaces 'thermal signature'. 'Trained personnel' became 'trained hunters', and 'battalions' became 'companies'.",
+    "grounds": "The brief calls for medieval instruments and fixed the setting, and the laws those lines state are unchanged."
+   },
+   {
+    "call": "Spirit Beasts' claim that a bill posted on one beast is 'a bill posted on its whole herd, flock or reef' is narrator color, stated as what the hunting halls say.",
+    "grounds": "R83-11 allows opinionated narrators who may be wrong, and it changes no creature fact."
+   }
+  ],
+  "canon_conflicts": [
+   "These pages label creatures with loose Wellspring types (Harmonic, Air-elemental, Earth, Water, Fire, Corrupted, Abyssal, Dream, Frost, Winter, Ancestral, Spirit, Celestial) that do not map to the Sixty or the Eight Families. Only the Well-spawn page uses real names like Ignivale and Abython. I left the labels alone, because assigning real Wellsprings would be invention. They need Isaac's or a table call if the Bestiary is ever squared with the Codex.",
+   "The Droval and Wendigo pages rest on 'Winter-aligned' and 'Frost' Wellsprings and a 'Wellspring of Heat', while the Haelvorn ruling in the Bestiary says there is no dedicated frost Wellspring and cold is heat run backward under Vohrin. Left as is and recorded here. The Arctic Lion block already names Vohrin.",
+   "The Lich entry calls it 'the only T9 entry in the register that used to be a person', while Droval runs to T9 as a non-person. This is not a contradiction, and I kept it.",
+   "Well-spawn uses 'Core Concentration' and hall prices in gold, and What Things Cost is being rewritten by another agent at the same time. The hall table is unchanged here and should be checked against it. New bounties in the openings are stated in plain coin (300 gold, 40 gold, a silver a hand, two silver a pelt, six coppers) and are not price-table entries."
+  ],
+  "other_pages_needing_change": [
+   "Any page that links to or quotes Well-spawn's old 'draw' definition, for example The Farrant Papers, which also uses the Freshet ladder term.",
+   "wiki/The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md is the source of the sites ladder that Well-spawn reads from. Its rungs are unchanged here.",
+   "The Bestiary's other sections should use the same 'bolts' and 'proofed bolts' wording if they mention hunters. Echo Beasts in particular are described by contrast on Well-spawn."
+  ],
+  "pages_left_alone": [
+   "The Arctic Lion Encounter block on the Droval page, which names Sonzai Moto, another creator's character. Only an em dash was replaced and nothing was added about him.",
+   "All other Bestiary folders, wiki/, rules/, RULINGS.md and CONFLICTS.md were not touched, and nothing was committed or logged."
+  ],
+  "rename": [],
+  "retired": [
+   "Removed with no renamed successor: charged cells, the magnesium flare, airship bombardment, explosives, rifles and riflemen, guns, gunmetal as a word, plain and proofed shot and rounds (now bolts and proofed bolts), the hoist cage, draw and draw-reading, cutting a Well's draw (now salted or bled ground, or paying a site's keepers to close it), Boards, the Imperial Age as the present ('most common way a name is made in the Dark Ages'), 'programmed purpose' (now 'bound purpose'), and meteorological instruments."
+  ]
+ },
+ "lore": {
+  "pages_changed": [
+   "Races & Peoples/Races & Peoples.md",
+   "Races & Peoples/The Peoples/The Peoples.md",
+   "Races & Peoples/The Peoples/The Ashkaru.md",
+   "Races & Peoples/The Peoples/The Goblinoid Peoples.md",
+   "Races & Peoples/The Peoples/The Elven Peoples/The Elven Peoples.md",
+   "Races & Peoples/The Peoples/The Elven Peoples/The High Empire of Eresse.md",
+   "Races & Peoples/The Peoples/The Dawi Peoples/The Dawi Peoples.md",
+   "Races & Peoples/The Peoples/The Dawi Peoples/The Reach Dwarves.md",
+   "Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples.md",
+   "Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages.md"
+  ],
+  "inventions": [
+   "Races & Peoples: the Goose Fair brawl at Tarnbridge, 612 IC (Barrel Dwarf cooper, Varrisak piper, Ironblood drover). The Peoples: the Copper Goose inn, Tarnbridge.",
+   "Ashkaru: the Saltmere Stone, 588 IC: peddler Dob Pennywhistle, Abbot Anselm Mereth, Sir Aldous Wrenfield, goldsmith Hanne Brask, Measurewright Ysolde Carrow, the Marrow Fells. It is framed as disputed (dead reading-head, fraud or hysteria), so it adds no Ashkaru canon.",
+   "Goblinoid: the Paying-In festival at Dorrak's Maw, 640 IC: champion Harrog Slatejaw, Tinker Goblin Bizzy Scorchpenny and her Self-Walking Ram, the pie-seller Old Gann. Also the Low Goblintongue word ak-gresh for the aura coat.",
+   "Elven: the nineteen-day funeral of Ilarenth Sweetwater at Sorrel Landing, 544 IC. Coat words Vael-aurë, the leaf and unpaid.",
+   "High Empire: Ilvane's Bridge at Heron's Stoop, a First Eon children's story of a Long River prince, offered as the reason his house holds the boundary law.",
+   "Dawi: the Kegshard wedding, 431 IC: Grand Brewmaster Ulla Sevenhoop, rune-forger Kalervo Straightedge, the bride Aino, an unnamed Deepkin guest.",
+   "Reach Dwarves: the skipping rhyme and story of Ganbold Sixbells on the Thinbreath Saddle, 590s IC, with Passwarden Dolma Thinair.",
+   "Beastkin: the gate at Harrowgate Fair, 603 IC: Bearkin smith Orsa Underhill, pen-master Cob Rennick, the Red Bar school, Scalebond advocate Zsalla Underscale, Catkin pickpocket Tansy Nightfinger.",
+   "Five Lineages: the wreck of the Merry Alderman on the Gannet Rocks, 619 IC: Ginger, Nessa Quickstep, the Tovey brothers, Brannoch, the notary Zsevrin, and the earlier wreck of the Bishop's Daughter. Coat words the lie, the pelt and the weather.",
+   "New 'Moves, Costume and What Everyone Says' tables (R82-38) on the Goblinoid, Elven, Dawi, Reach and Five Lineages pages. These are invented regional signature moves, looks and jokes, including Vorruk-Da, The Red Wall Takes One Step, Vael Sereth, Suora Viiva, Kinsay Pacha and The Verse Comes Due.",
+   "Short glossary paragraphs for the stats and system terms on the Elven, Dawi, Beastkin and Five Lineages pages, built from NATALIE's stat law, with inline glosses on the other pages."
+  ],
+  "calls": [
+   {
+    "call": "Rewrote the Goblinoid First Impact line from 'Oceans displaced. Whole continents shifted' to 'Seas displaced. The whole body of the land shifted'.",
+    "grounds": "The Grand World is one landmass up to the split, about 740 IC (Concordance Section VI)."
+   },
+   {
+    "call": "Changed 'the older of its two landmasses' to 'the older of its two grounds' for the New World in the Elven page, and kept the ruling that Eresse stands on the New World's elven old-ground and nowhere in the Old World.",
+    "grounds": "The brief reads Old World and New World as regions of the Grand World. The dated ruling of 2026-09-12 stays in place."
+   },
+   {
+    "call": "Left the Kuntur Reach as a volcanic archipelago rising from the sea.",
+    "grounds": "Concordance VI allows isles off the continent's shores. The page never puts an ocean between quarters. Geography's 'Central Expanse' placement belongs to that group's agent."
+   },
+   {
+    "call": "Removed machine-age words: circuit-breaker became a pawl-like stop, retrofitted became fitted afterward, Aetheric battery became reservoir, baling wire became twine, chemical burn became burnt vitriol, identity-theft became stealing a person's name, early warning network became a watch of riders and hill-fires, trade office became a factor's house, safety record became a record of parties brought through alive, 'for external publication' became 'for outside eyes', 'publishing nothing' became 'giving out nothing'.",
+    "grounds": "THE TEST in the brief. No figure or law was tied to any of these words."
+   },
+   {
+    "call": "Reworded the Labor Provision: 'formal employment' became 'a sealed indenture of service', 'active documentation' became 'current sealed papers', and 'market events' became 'fairs and markets'. The legal terms licensed, documented and labor-stock stay, and so does the Darvo quote.",
+    "grounds": "THE TEST. The law and its effect are unchanged."
+   },
+   {
+    "call": "Corrected Wellsprings used as places to 'Wellspring sites' where the text meant a place: Blackened Orc destabilizing, Moonwake Accord, Deepkin corrupted sites, Serpentkin damaged sites, the Covenant of Green Flame passages. Named places such as the Scorchline Wellsprings and the Wellspring of Ancestral Echoes are unchanged.",
+    "grounds": "R83-9 and the brief's retired table."
+   },
+   {
+    "call": "Changed 'the seed of every Wellspring' and 'did not invent Wellsprings' on the High Empire page so the elves were first to be given the keeping of some sites, keeping the politeness joke.",
+    "grounds": "R83-9: there are sixty fixed Aethers, and they predate anyone."
+   },
+   {
+    "call": "Repaired the garbled word in the Ashkaru Hide entry ('closer toite under compression') as 'closer to quartzite under compression'.",
+    "grounds": "The source word is corrupted. A metamorphic rock fits the veining line that follows it."
+   },
+   {
+    "call": "Replaced em dashes in section headings with colons (for example 'Eressean: The Grand Principality of Eresse', 'Za'tarch: The Living Proof') and removed em-dash attributions.",
+    "grounds": "The em-dash rule. A grep of wiki/ found no wikilink anchors into these headings. Page titles and filenames are untouched."
+   },
+   {
+    "call": "Fixed the broken markup: the '****X****' toggle remnants and the raw HTML in the Fox-Spirit glyph row became plain bold.",
+    "grounds": "These were import artifacts, and the content is unchanged."
+   },
+   {
+    "call": "Kept a few canon short lines that sit near the banned pattern, such as 'They do not dodge. They endure.', 'They do not calculate. They know' and 'proof, not refuge'. The last is now given as what residents will correct you to say. Most other 'not X, it is Y' prose was recast.",
+    "grounds": "'Keep the existing good jokes' and 'nothing is lost', weighed against the pattern ban. The lines Isaac may want to strike are few and easy to find."
+   },
+   {
+    "call": "Kept 'Metaphysical Viruses', 'Bunker-Realms', 'sub-bass', 'asteroidal', settlement names such as Bangkrag Wastes and Copper Clatterhold, and the language name Purrspeech.",
+    "grounds": "They are established terms and names, not machine-age things or sound effects. Modern science may explain anything through the Aether (R83-11)."
+   },
+   {
+    "call": "Left existing mentions of Yoko Mishiro, Sodoku, Emira, Kinjiki, Saiya, the Za'tarch residents and Darvo as they were, and used none of them in new material.",
+    "grounds": "Nothing is lost. The brief bars main cast from invented openings."
+   }
+  ],
+  "canon_conflicts": [
+   "The Half-Elf entry gives `Ae` as Order, while the Goblinoid and Beastkin entries give `Ko` as Order. Both are left as written. The Glyph Index outranks the page and was not consulted, so someone should check it.",
+   "The Reach Dwarves page says 'three centuries removed from the tunnel-network', while the Dawi page dates the Sundering to the later Third Eon. Both are left as written.",
+   "The High Empire page calls the sovereign the Empress's and also names the reigning First Listener Tahvo Rootspeaker. The office allows either title, and both are left as written.",
+   "The Temple Rift Crisis parties and the fracture and branch counts remain in the page's own Discrepancies of Record, unresolved."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Geography & the Four Quarters/Geography & the Four Quarters.md still has an 'array dependency' ledger and a Central Expanse that may read as a sea between quarters. This falls to that group's agent.",
+   "Races & Peoples/The Tongues of the Realms and its children are still staged unchanged in my tree and belong to another group. They carry words my group now avoids, such as 'publication'."
+  ],
+  "pages_left_alone": [
+   "Everything under Races & Peoples/The Tongues of the Realms: outside my group.",
+   "Zettari, Shaka-Al, Dougou and Kushara pages: another creator's and outside this folder. A grep confirms no hands-off name appears in my files.",
+   "Live wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md: not touched. Nothing was committed."
+  ]
+ },
+ "war-artifacts": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/rest/wiki/Start Here.md: new spectacle opening and R83-1 headline; Dark Ages, 715 IC and the Grand World; Aether and Wellspring glosses fixed; New World row fixed; all links unchanged, and the Who Pays for the Lamp link was already correct",
+   "imports/drafts/wiki-rewrite/rest/wiki/A Reader's Codex.md: new opening; The Draw Age section is now The Dark Ages; pull, Wellspring types and Core; crossbow and proofed harness; shared-arts paragraph added (R82-19); Kharven per C-164; every definition kept, four replaced",
+   "imports/drafts/wiki-rewrite/rest/wiki/In-World Documents & the Narrative Archive/In-World Documents & the Narrative Archive.md: two-line opening added, em dashes removed from prose",
+   "imports/drafts/wiki-rewrite/rest/wiki/In-World Documents & the Narrative Archive/The Scene Archive.md: short lead line added above the link list, every link untouched",
+   "imports/drafts/wiki-rewrite/rest/wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md: targeted fixes only: printing became fair copy, drawn in became pulled, Wellspring current became type of Aether, recruitment posters became recruiting sergeants, invoice became bill, British spellings Americanized, rich and thin ground added"
+  ],
+  "pages_left_alone": [
+   "The Zettari–Mahou Accord: byte-identical to wiki/. Sealed document on Zettari material, no retired terms, hands off",
+   "To Ara Min Mahuo: byte-identical to wiki/. Sealed letter on Zettari material, no retired terms, hands off",
+   "Anima Veri Credentis: byte-identical to wiki/. Sealed memoir, no retired terms and no setting fix needed",
+   "Primer prose I did not touch keeps its em dashes and its not-X-but-Y lines, as a sealed voice, including the line 'Temperance is not a buff'",
+   "The Scene Archive: scene titles naming retired things stay as links (Xanelor — The Bullet Train, Malphas on the Line — The Train East, The Blackmatch, The Slow Match, The Full Match, The Drawing-Off), because archived scenes are not edited for names (R82-47). The duplicate and stale Continuity map links are pre-existing and also left",
+   "The hub table's stale count 'Four long-form works and twenty-five scenes' is kept as written; the archive now lists far more scenes, and someone may want to correct it"
+  ],
+  "inventions": [
+   "Start Here opening: the Salt Succession; the field and ford of Orrendale; Perrine Dorrow, a cook's daughter, and her art THE HUNGER OF ALL KINGS; an unnamed queen who poisons her at a feast; a Great Spirit War barrow above the ford. Aura is Vitalia arterial red per The Color of Essence",
+   "Reader's Codex opening: the autumn cloth fair at Tessbury; Tibalt Wenlow, a saffron factor; Dame Ysolt Ludd, Master and elder of the Vermilion Bell school (ember-orange Caloria coat); Sabeline Oade, a scrivener whose forty-term sheet is the codex's ancestor",
+   "Hub opening: Pell Harrower, a junior copyist who corrected a Yuno memoir in red ink; an unnamed priestess ringing a bell for three days; the vermilion press in the Archives",
+   "Scene Archive lead: an unnamed under-archivist joke about filing by story order",
+   "Reader's Codex glosses: the coil described as an assay instrument you stand inside while a clerk writes; 'muster roll' replaces 'filing system' in the Paragon joke",
+   "Names grepped against wiki/ and the staged section; none collide. All other world detail comes from Who Pays for the Lamp, The Color of Essence Part Six and Concordance Section VI"
+  ],
+  "calls": [
+   {
+    "call": "Reader's Codex Kharven entry: Kharven-Seat predates Muken; he took its crown and did not build it. His reign, the Tenrai coup and Ayame's death sit behind a 'Later hand' marker. 'Murdered' became 'the night the Tenrai came for him', with no death stated.",
+    "grounds": "C-164 and the brief say give Muken no death. His card has him at eighteen in 715 IC, so the reign runs past the present year. The staged Kharven page uses the same Later hand device. Fourteen months and sixteen years are kept."
+   },
+   {
+    "call": "The Moto seat's ruin is dated to the first blow on the white shelf, about 310 IC, the breaking the Moto registers call the split.",
+    "grounds": "C-164 and Concordance Section VI."
+   },
+   {
+    "call": "The world reads as one body of land with isles. The New World is 'the far eastern arc of the continent', and its politics have 'not yet crossed the eastern rise'. 'Across the ocean' is removed from Start Here and the Codex.",
+    "grounds": "Brief, The Grand World: the present is before the split. 'Eastern rise' follows the staged Geography hub."
+   },
+   {
+    "call": "Four retired glossary entries are replaced one for one: Draw Main by Core, Standpipe by Parish stone, Draw Board by Company, Spur by Botch. The section keeps its title 'Forty Terms', although it held forty-two entries before and after.",
+    "grounds": "The brief retires the old terms and settles the new ones in Who Pays for the Lamp; the note says the Codex keeps every definition. The count is a pre-existing mismatch left alone."
+   },
+   {
+    "call": "The railway paragraph became the kept road with tuned waystones. 'There is no steam and no coal-fired engine' is kept. The 1800s-1900s technology ceiling and 'its industrial revolution' are removed. The four obstacles and arrays stay.",
+    "grounds": "Settled in section one and THE TEST. Arrays stay as the Concordance keeps them, tended by hired crews."
+   },
+   {
+    "call": "Start Here's look list drops Arcane, Fullmetal Alchemist and Lord of the Mysteries, and now names Final Fantasy, Bleach, Naruto and Tolkien.",
+    "grounds": "R83 gives the look; those three were the magitech touchstones. NATALIE still lists Lord of the Mysteries as a touchstone for feel, so this is a page call only."
+   },
+   {
+    "call": "Primer's Grade, Stage and η tables are left untouched, and the coil is kept throughout.",
+    "grounds": "Brief: tables stand. Section one keeps the coil as the Accord's assay instrument."
+   },
+   {
+    "call": "'Pharmaceutical trade' became 'apothecary trade', and 'industry' stays as an ordinary word in the Quarter trade-off line.",
+    "grounds": "THE TEST. Cloth and mining industry are medieval; the trade-off law survives."
+   }
+  ],
+  "canon_conflicts": [
+   "Primer quotes and the hub keep 'Mahou' beside 'Mahuo' in the Accord and letter. This is a pre-existing spelling variance in sealed documents, left alone and not resolved.",
+   "The Codex says 'seven Classes' for Aether Class while The Measures at a Glance lists Ø, I to VI and Ω. Pre-existing, left as written.",
+   "Staged Kharven and Banner Houses pages still speak of the Fall and of the Tenrai seizure in ways that imply an outcome for Muken. The Codex states no outcome; the Muken card has him at eighteen in the present year."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Bearing and the Holding.md (live copy) still has 'What Magic Actually Did to Industry' and 'fed from a vein or a main'. It belongs to another group, which should confirm it is covered."
+  ],
+  "retired": [
+   "Draw Age, draw main, Draw Boards, standpipes, spurs, tariffs, gauge-housings and culverts in the Codex; all replaced by the settled living-crafts terms with no invented successors",
+   "Railway, the Essence engine on the main, wire and 'proofed plate' in the Codex. The railway and wire are replaced by the kept road and beacon line; proofed plate by proofed harness",
+   "Gunpowder, musket ball and 'armies field powder' in the Codex, replaced by crossbow and bolt",
+   "The 'magitech world' description and the piped-city line in Start Here",
+   "'Every printing' and 'recruitment posters' in the Primer"
+  ]
+ },
+ "start": {
+  "pages_changed": [
+   "The War Cycle/The War Cycle.md",
+   "The War Cycle/The Army/The Army.md",
+   "The War Cycle/The Army/The Order of Battle.md",
+   "The War Cycle/The Army/The Fisc — Paying for a Siege.md",
+   "The War Cycle/The Army/The Long March.md",
+   "The War Cycle/The Fighting/The Fighting.md",
+   "The War Cycle/The Fighting/Walls and What Beats Them.md",
+   "The War Cycle/The Fighting/Sack and Contribution.md",
+   "The War Cycle/The Wounded and the Dead/The Wounded and the Dead.md",
+   "The War Cycle/The Wounded and the Dead/The Crossing.md",
+   "The War Cycle/The Wounded and the Dead/The Rites.md",
+   "The War Cycle/The Wounded and the Dead/The Physician's Eye.md",
+   "The War Cycle/The Wounded and the Dead/The Long Illness.md",
+   "The War Cycle/The Wounded and the Dead/The Runners.md",
+   "Artifacts/Artifacts.md",
+   "Artifacts/Amaranth Severance · The Blooming Thorn.md",
+   "Artifacts/Band of Frozen Brambles · Winter-Briar.md",
+   "Artifacts/Banisher · Writ-Spear of Exile.md",
+   "Artifacts/Horizon's Reach · Limen-Hand.md",
+   "Artifacts/Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light.md",
+   "Artifacts/Kogane Kei · The Soul-Reed Blade.md",
+   "Artifacts/Lurien's Hearthvine · The Green Cantor's Bow.md",
+   "Artifacts/Mbunda wa Moyo · Drum of the Living Heart.md",
+   "Artifacts/Mirrorwell Prism · Soulbound Echo Anchor.md",
+   "Artifacts/Mkanda wa Mizimu · Band of the Ancestral Spirits.md",
+   "Artifacts/Mkono wa Miti · Arm of the Trees.md",
+   "Artifacts/Mnemonis Solution · The Recursive Draft.md",
+   "Artifacts/Staff of the Verdant Pulse · Domain Anchor.md",
+   "Artifacts/The Black Aperture · Void Key.md",
+   "Artifacts/The Immortal Cross.md",
+   "Artifacts/The Lantern of Echoed Veils · Spirit-Binding Relic.md",
+   "Artifacts/The Latch of Twinned Souls · Soulbound Echo Focus.md",
+   "Artifacts/The Ledger of Forgotten Faces · Glyph Tool Cursed Object.md",
+   "Artifacts/The Marshgrave's Phial · The Bottle That Weeps.md",
+   "Artifacts/The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back.md",
+   "Artifacts/Upanga wa Misimu Minne · Blade of the Four Seasons.md",
+   "Artifacts/Verdiction Gauntlet · The Hand of Judgment.md"
+  ],
+  "inventions": [
+   "War Cycle hub: the song Ser Aldric and the Cart; Ser Aldric Noon, Harrow Field, the Marrowmere war, the Lady of Sallowby, quartermaster Bet Oxley, the mills at Cobb's Reach, the Tollen valleys.",
+   "The Army hub: the Red Ferry Company's muster song.",
+   "Order of Battle: the lawsuit Mother Gorse's Own against the Yellow Jacks; Captain Lorimer Dogwood, Ansley Bridge, Sedge Ford. New sections on what the fighting part carries and on company colors, songs and bounties.",
+   "Long March: Marshal Odo Hartshorn of Wend (Old Moonshine), Dame Ysolt Crane, the glowing cask column. New paragraph setting out the pull, Core, vein, fat and lean ground, and the fight Draft as a loan.",
+   "Fisc: Captain Ulla Hjerting, Brennholt, the winter of the Short Mark, Fat Tormod the sutler, the Third Wall.",
+   "Walls: the siege of Carrick Ness, Mistress Wenna Holt, the trebuchet the Bishop's Apology, mason Fergus Ruck. New Engines section under Reduction.",
+   "Sack: Little Ambry and its framed receipt, Tam Sorrel, Alys Fenn, Over Ambry.",
+   "Crossing: Mabry and Hob Kettlewell, Tarrowby, the dead baker.",
+   "Rites: Joss Merrin the Lamb, the Thistle Row Bruisers, Thornaby, the Stannhold brawler.",
+   "Physician's Eye: surgeon Ragna Steen, Ostermere, the duke's son.",
+   "Long Illness: the cloth town of Cressing, the barge Fair Margery, the River Cress, Tenter Row.",
+   "Runners: Hake and Dag Scarth, Skalla Pass, the Long Stair, the buying post at Quillet's Head.",
+   "Artifacts hub: the Stannvaard armorers' hall list, and a short glossary of recurring terms.",
+   "Amaranth Severance: Sister Vesper Ould, executioner. Band of Frozen Brambles: Warden Sigrid Aske. Horizon's Reach: Marra Tesk's vineyard lawsuit and the Horizon wine.",
+   "Mirrorwell Prism: the Reddaway party. Latch of Twinned Souls: the Lady Caelith Arvane and the proxy duels, marked in the text as a rumor that does not hold up. Ledger: Sub-Reader Anselm Quire. Mnemonis Solution: Dunstan Tolley, marked as an unprovable apprentices' tale.",
+   "Lantern of Echoed Veils: Goodwife Ansa Thrupp and the plague-pit testimony. Marshgrave's Phial: Reeve Godric Pask of Sallow End and his mushroom beard. Immortal Cross: Sugawa Ren, a two-arm entry in the Enclave's register.",
+   "Color added to events already on the pages: the Jade Bridge goats, the Verdant War Council boundary stone, the Thorned Crossing petals, the Rotwood charcoal burners' petition, the Fog of Black Roots porters' rhyme, the Caedor hearing's counting gallery, the Black Concord captain's wife, the Velthaeir historians, the Blight of Fennir reed boats.",
+   "Wilhelm's song epithet, the Slow Assize, and the Exilic March ford fight against a ridge-lord's champion."
+  ],
+  "calls": [
+   {
+    "call": "How this group was checked at the end.",
+    "grounds": "I read all 37 originals whole, then edited them with throwaway scripts in the scratchpad (nothing added to the repo). I did not do a fresh whole read of the finished pages. Instead I reviewed every former em dash site in the War Cycle and ran scripted checks on all 37 against wiki/: wikilinks, embeds, frontmatter and every number are unchanged, and no stray em dashes remain. Greps for retired terms, British spellings and sound words turned up the items fixed or listed here. Artifact em dash sites were not reviewed one by one: the ones I expected to read badly got explicit fixes, the rest took a mechanical comma, so a stray comma splice is possible there."
+   },
+   {
+    "call": "War Cycle pages stay Division documents, with a Guild archivist's opening and notes added on top. They get spectacle openings and are not treated as sealed in-world papers.",
+    "grounds": "The brief names sealed texts as the Alftian Codex, papers and letters, and says every page with real content opens on spectacle. The Division voice and the existing jokes are kept, and the issue blocks stay after the new opening."
+   },
+   {
+    "call": "'A practitioner is refilled by a Wellspring, or not at all' now reads 'by the ground they stand on, or not at all', on the Long March and the hub.",
+    "grounds": "R83-9 and the brief: practitioners pull Aether from the environment, and rich ground fills faster. Veins stay as the channels feeding a site, as the rewritten Magic System pages already have it. 'Bread moves. Essence does not' and the vein-map argument survive."
+   },
+   {
+    "call": "Vein denial now includes salted ground and a keeper closing the Core, alongside the existing Sealwright fouling.",
+    "grounds": "The brief replaces 'cut the main' with taking the fight off rich ground and notes that keepers can close a site. The fortnight figure and the eleven Writs stay."
+   },
+   {
+    "call": "Copper famine kept in the Fisc, with 'drawn conductor' and 'array boom' changed to array windings and great arrays.",
+    "grounds": "The trade agent's staged Value, Coin and Trade and What Things Cost keep arrays and the famine, so I matched them. 'A siege is an array boom' became 'A siege raises arrays, on both sides of the wall'. Its staged page still says copper is 'the wire of the array trade', which brushes the brief's retired 'wire', so someone should rule on it once."
+   },
+   {
+    "call": "Lattice Pilots now 'guide Concord fleets and Gate crossings'; airships removed.",
+    "grounds": "Airships are retired, and this is the wording already in the staged Concord Military page."
+   },
+   {
+    "call": "Walls: 'covered by fire' became crossbows and workings, 'parallels' became covered trenches, and the low work stays.",
+    "grounds": "No guns in any era. The low, angled work is justified on the page as built against practitioners who unmake masonry, so it passes as a magical answer rather than gunpowder-age fortification in costume."
+   },
+   {
+    "call": "'Workhouse' became 'almshouse', 'gaoler' became 'jailer', 'trade association' became 'runners' guild', 'worse insured' became 'worse provided for', 'budget cycles' became 'assessments', 'training pipeline' became 'school'.",
+    "grounds": "THE TEST and American spelling. The runners' joke survives in the new wording."
+   },
+   {
+    "call": "'Proofed plate' became 'proofed harness' across Artifacts, and 'charge and range' became 'a named bow at a stated range'. Single plates, cuirasses and the Grade table's 'plate-piercing' term stay. 'Common shot' and 'proofed shot' on Mkono wa Miti became common bolts and a heavy arbalest bolt.",
+    "grounds": "Settled arms wording: harness is the word because full plate belongs to the Imperial Age, and bolts replace shot. A heavy arbalest bolt is my closest match for 'proofed shot'; the armor band figures are untouched."
+   },
+   {
+    "call": "'Draw' as a working's cost became spend or drain, and 'Wellspring current' became Aether, across Artifacts. Kept as ordinary English: bow draw, drawing a blade, the phial's pours, the move name Horizon Draw, bills drawn on a factor. 'Crystal Draw' stays as the Class IV term.",
+    "grounds": "The brief's word rules. Horizon Draw pulls a target and no Aether, and renaming an art is not asked for here. Crystal Draw is still used on the Materials pages."
+   },
+   {
+    "call": "'It's not X, it's Y' constructions in the War Cycle were rewritten, including the two best quotable lines ('The wound is not a hole', and the note on a legal standard).",
+    "grounds": "Style ban. The meaning is kept but the wording changed, so any other page quoting the old sentences no longer matches. Short technical contrasts in Artifact mechanics ('a stored trace, not the fragment's continuity') were left because they define limits."
+   },
+   {
+    "call": "First-use glosses on Artifact pages for Domain Anchor, Parun glyph and EU, plus a glossary on the hub. Other system words on those pages are not glossed individually. War Cycle pages gained glosses for the terms that matter most.",
+    "grounds": "Glossing every term in the dense Operation and Codex lines would bury them. This falls short of the brief's 'every invented or system word' and can be extended on request."
+   },
+   {
+    "call": "Chimwala, Hozume and Wilhelm pages were rewritten, with openings built from events already on those pages.",
+    "grounds": "None has a live card (the character tool returned none) and none is on the hands-off list, so I could not confirm an owner and treated them as not hands-off. If any belongs to another creator, its opening should be reverted. Karo Venrik is named only in passing on his three pages; those openings use invented earlier figures."
+   }
+  ],
+  "canon_conflicts": [
+   "Long March's 'cannot be topped up from a barrel' and 'refilled ... or not at all' against NATALIE's fight Drafts, which refill reserve. Written as an exception: a Draft is a one-fighter loan with a crash, and no march can be supplied on them.",
+   "The Fisc keeps table and plot language on a public page ('the clock under the Kharven arc', 'the Kharven Front', 'Running It At The Table') against the brief's limit on arc material. Left in place because nothing may be lost; needs a decision on whether it should be private.",
+   "The Divisions' bureaucratic voice (Logistics, Arbitration, reviews, returns) and 'no polity operates a compensation scheme' sit close to THE TEST's modern institution warning. Kept because the Accord's Divisions are canon across staged pages; every machine-age object inside them was removed.",
+   "The Latch of Twinned Souls' existing history contradicts itself: the ring is rumored to be lost on the expedition that produced the anchor it was forged from. Recorded openly as a rumor that fails arithmetic.",
+   "Artifact pages keep existing flags: unattested glyphs and places, 'carried over unverified' first-appearance citations, inline rule ids (R1-1, R2-6, R3-7), and the note in Kibanda about a name struck on 2026-09-12. Kept because nothing may be lost, but they read as editor's notes. The hub explains 'the card' and 'unattested' in the archivist's voice."
+  ],
+  "other_pages_needing_change": [
+   "Trade group: staged Value, Coin and Trade says copper is 'the wire of the array trade'. It needs one ruling alongside the Fisc wording.",
+   "Materials group: 'Bone-Grey Compress' and 'Grey Standing Chalk' still appear in Grey spelling somewhere in wiki/ or staging. The Long March now says Gray.",
+   "Any page quoting 'The wound is not a hole', 'Class IV is not stolen from the dead', or 'a practitioner is refilled by a Wellspring' should be matched to the new wording.",
+   "The Practitioner Problem (staged, Guild Accord group) is cited as the first of the cycle and still sits outside this group; its hub link is unchanged."
+  ],
+  "pages_left_alone": [
+   "The Immortal Cross, Zettari arm and the Kushara name line: left word for word because the Zettari and Kushara belong to another creator. Elsewhere on that page I added one opening about an invented visitor and changed 'Draws' to 'Pulls'.",
+   "No validator-locked passages fall in this group.",
+   "wiki/, sources/, rules/, RULINGS.md and CONFLICTS.md: untouched, and nothing was committed."
+  ],
+  "rename": [],
+  "retired": [
+   "Powder in army supply (now bolts), guns as a siege target (now engines), 'shot' on Mkono wa Miti, 'shrapnel' on Band of Frozen Brambles.",
+   "Airships from the Lattice Pilots' duties.",
+   "'Drawn conductor' and 'array boom' in the Fisc.",
+   "'Draw' as the verb for taking Aether, and for a working's cost, on these pages.",
+   "'Workhouse', 'insured', 'trade association', 'budget cycles', 'training pipeline', 'merchant banking houses' (now factor houses and money-changers), 'publishing' mint figures (now posting them on a door).",
+   "'Hardcodes' on the Upanga, 'prototypes' on Horizon's Reach, 'academic wing' on the Ledger."
+  ]
+ },
+ "cross": {
+  "fixed": [
+   "Everything below was changed only in /home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/rest/wiki. Nothing was changed in wiki/, sources/, rules/, RULINGS.md or CONFLICTS.md, and nothing was committed.",
+   "Lost facts: script checks against wiki/ found no lost number, embed or frontmatter item. The exceptions are the retired 1800/1900 ceiling on A Reader's Codex and the deliberate title changes on the two renamed pages. The only wikilink differences left are the old targets of those two renamed pages. I traced the suspicious removed phrases on the Five Beastkin Lineages, Hobgoblin Expanse and Elven Peoples pages, and all were reworded, not lost. Nothing needed restoring.",
+   "Protected sentences: all 13 are intact. 8 match byte for byte and 5 match after normalizing whitespace and markup. Those same 5 differ from the brief's quote in the same way on the live page, so the rewrite did not change them.",
+   "C-164: the Kharven page's 'The seven lines scattered' now reads 'Six of the seven lines scattered... and the Kōkan stayed and were broken', matching The Moto Bloodline, The Moto Origin and The Long Reading.",
+   "C-164: The Banner Houses still narrated the Fall as past. It now carries the same 'two hands' frame as the Kharven page, a *Later hand:* marker on all four 'When the kingdom fell' passages, and a marked table column.",
+   "Grand World: on The Outer World, five narrator lines treated the quarter as its own continent and now say quarter ('wounded quarter', 'Most of the quarter', and so on). 'Grand World' as a name inside 715 was removed from Staff of the Verdant Pulse, Yuno, Drakyssia and Long Reading, because the Geography hub says nobody standing on it needs the name yet.",
+   "Arms: R83-4 gives pike to the Imperial Age, so pike became spear on Order of Battle, War Cycle, Goblinoid Peoples and Southern Warlords. Southern Warlords' 'eighteen-foot ash pikes' became 'long ash spears', which drops that one figure; this call should be logged.",
+   "Retired leftovers: bare 'cutter' became ward-cutter on Reader's Codex, Factions at a Glance, Guild Accord in the Dark Ages and Ketsuen. Vaelmorn's 'abbey's cutters' became peat diggers. The Long March's 'no artillery' became 'no siege engines'. The Guild Accord's 'guild infrastructure' became 'guild halls'. 'Insured' became 'bonded' on the Bench of Attribution, matching the war pages. The Void Vanguard link now points to The Powers of the Dark Ages.",
+   "Other creators: the Kharven sentence 'Sodoku and Sonzai answered the killing...' was restored to its original wording. The agent's report said it was unchanged, but it had been reworded.",
+   "Onomatopoeia: none found in a scripted scan or in the added text I read, so nothing needed repair. 'Hiss a correction' on The Ocular Codex stays as an ordinary verb.",
+   "Main cast and sealed secrets: I grepped all added text for the main cast and other creators' names. No new material on them was added, so nothing had to go back. Pre-existing items are listed under unfixed_problems.",
+   "Duplicate invented names: about 45 people, places and ships were renamed, each checked against wiki/ and the trade and library stages. Examples: five Anselms reduced to none, Ludd, Ysolt, Ysmay, Thole, Merrin, Wat, Odo, Mabry, Marrable (it collides with the Heresiology's Odger Marrable), Penhallow (collides with Odo Penhallow), Corbel, Brask, Tamsin, Hob, four ships or beasts named Margery, Pennifold/Pennyfold, Tessaly/Thessaly, Goose Fair, Harl's Cross/Fold, Sorrel, Ambry, Quill and Tollen. Corbie Hall became Sedgeby Hall, because 'Corbie' is already a character on The Heresiology of Alchemy.",
+   "Repeated shapes: the 'that is X in a breath' closer was varied on Expanse, Yasoshima, Stannvaard, Undaar-Keth, Nalūn and Ketsuen. Date-first opening sentences were recast on Expanse, Inner World, Stannvaard, Ashkaru, Fourteen Titans and Archaic Bloodlines. Two of the 'most expensive X in the history of' openers were recast, and three 'Here is...' closers were changed.",
+   "Repeated scenes: wedding openings on Reader's Codex, Material Culture, Summoned and Bound and Neiman Lion became feasts or gatherings. Skip-rope rhymes went from five to two. Lawsuit endings were cut on Lurien's Hearthvine, Upanga, Bearing and the Holding and Natural Beasts.",
+   "Number and image tics in invented passages: about 60 repeats of eleven, thirty-one, forty-one and nine hundred were varied, along with saffron, pies and boiled-ham colors. Page canon figures were left alone."
+  ],
+  "unfixed_problems": [
+   "Needs a ruling, recorded not resolved: who holds Kharven-Seat before Muken. The Long Reading has the Kōkan as a broken hinterland remnant, Factions at a Glance has the Moto seated there since the first Accord circle, and Muken's card has Gimbzo as a Kōkan king. Material Culture's Renji story now sits at a Kōkan court at the Seat, undated.",
+   "Needs a ruling: Muken's parentage and rise. The page and salt-town account has a Nalūn mother and a fourteen-month conquest; the card has Gimbzo and Kasane Byakuya, and King at eighteen after the Great War of the North. Factions at a Glance still calls Ayame 'Muken's queen' in the 715 voice, although he is about sixteen to eighteen in 715.",
+   "Banner Houses is only framed. It still has Zaehaerys Stark as head and Osric advising Hild Stark, while Southern Warlords and the cards have a tokenless king and Ulf and Torvald Stark. Sodoku's age against 715 is contained by the Later hand device, not settled.",
+   "These need CONFLICTS.md rows and agent rulings from the launching session: the seat's location (western shield against hinterland); the Accord's 'no standing army' against the Concord Legion; Sancta Lux's eleven centuries against the Sōhai's four millennia and the 2,115-year count; the Sōhai's change from eleven hundred to four hundred years; Titan Grounds named as Wellsprings against the Sixty; Maelor's and Thalen's Withering against 645 IC; the Celestial Host's Faisal broken against kneeling whole; both the convention against diacritics and Runic Dawi's ä and ö; R79-5 against 'Nothing here is spelled'; salt-throat against Muken's card; the Expanse's parliament year arithmetic; the Black Concord excerpt's date; Haelvorn's Rings at about 2.5 J/cm² against the page's 10; and Bestiary creature 'Wellspring types' that do not map to the Sixty. Every agent 'calls' entry in the reports still needs log_ruling, plus my pike call.",
+   "Pre-existing main-cast or plot text on what appear to be public pages, kept under 'nothing is lost'. You need to decide private or cut for each: Droval's Arctic Lion block (Sodoku and Sonzai), Five Beastkin Lineages' 'Yoko Mishiro, active, traveling with Sodoku and Emira', Sancta Lux's Practice section, Night Watch's Greyshaft plot, Volume the Third (Kaalabad), The Fisc ('the Kharven arc', 'Running It At The Table'), Raga's ruling block, Long Reading's Open Rulings (Kōkan Butcher, Azure Tenrai) and the Kharven and Ketsuen Sodoku lines.",
+   "Out-of-world voice on published pages: Section XIII on Haelvorn, Vaelmorn and Obrenkael still names Isaac and pending questions. Artifact pages carry rule ids and 'unattested' notes, and Kharven carries 'Ruled 2026-09-12' rows. Standing memory says never to mention him or the process on published pages. They were left because nothing may be lost and the Zettari ruling line is protected.",
+   "Ownership unconfirmed: Chimwala N'Doro's six pages (Mkono, Upanga, Mbunda, Mkanda, Kibanda, Staff) got invented openings, and their Swahili register resembles the Zettari. He has no card and appears nowhere else on file. If he is another creator's, those openings must be reverted. The same question applies to Hozume and Wilhelm, and to Drakyssia's opening if the Houses count as Dova'Kan's.",
+   "Kushara and Zettari pages stand byte-identical and still hold Rift Lifts, imported technology and 'continental' framing. These need their owners' word. On the Powers page, the Kushara sentence had 'Imperial Age' changed to 'the age'. That is the one change left on other-creator text, kept because the brief retires the Imperial Age as present.",
+   "Still closest to failing THE TEST, kept by agent calls: Lattice Classification Bureau, the Essence Resource Sharing and Trade Equality Acts, Concord Gate cargo arches, Division 'returns' voice, contract companies near condottieri (R83-4), and scrip.",
+   "Landing work outside these pages: update wiki/INDEX.md and wiki/.manifest.json for the two renames and remove the old files. Fix desktop/inventories/accord.md ('cut his plate') and desktop/inventories/moto.md ('against plate'). The Trade stage's 'wire of the array trade' needs one ruling, and 'Holy See of Lurien' remains on the Material Index. The World Atlas image was not viewed against the Grand World.",
+   "Move name 'Briar Gaol' keeps its British spelling until the R82 card pass. R36-1's British spellings are protected.",
+   "Openings are varied but not fully. Bloodlines and Ages still lean on feast, funeral and suit shapes, and about four wedding openings remain (Dawi, Banner Houses, Nalūn, Ketsuen). I stopped at the repeats that were cheap to fix and did not rewrite those stories."
+  ],
+  "not_read_closely": [
+   "Method: I read the added text (segments of 7 or more words) on all changed pages. I did not read the pre-existing technical prose carried over from wiki/. Gray or weary passages in those sections are unreviewed, and so are comma splices from the mechanical em-dash swap on Artifact pages.",
+   "Changes under 7 words were checked only by script: number and term loss, retired-word greps and British-spelling greps. That covers most of the five Alftian documents, the Primer, the filed Guild Codex pages (Tiered Path, Merit, Black Concord, Citadel, Gate Network, Military, Practitioner Problem, Bench), and the tables on the Titan, Archon, Goblinoid and Summon pages.",
+   "Lost facts on Droval, Celestial Host and Drakyssia were checked by word-loss and removed-phrase lists, not line by line. Drakyssia's removed institutions were accepted on the agent's report.",
+   "Inbound links and name collisions were checked across wiki/ and the trade and library stages. Links into pages beyond the renamed files were not exhaustively tested.",
+   "After my edits I re-ran the link, number, frontmatter and protected-sentence scripts and spot-checked names. I did not re-read the finished pages top to bottom."
+  ],
+  "weakest_pages": [
+   "Lore & History/The Alftian Codex/The Alftian Codex.md and Lore & History/Lore & History.md: the old company of stale names (Vis Trismegistus, Noxinus Ren and others) conflicts with the volumes, and they need their own pass.",
+   "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven.md: the old timeline is contained by a frame, not rewritten.",
+   "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Ten Great Houses of Drakyssia.md: institutions were removed with no successors, it says 'continental' everywhere by narrator's aside, and ownership is uncertain.",
+   "The filed Guild Accord pages (The Concord Military, The Tiered Path, Merit and Severance, The Concord Citadel): no spectacle by design, flat Codex voice, and the most likely place for gray passages.",
+   "Artifacts: the opening paragraphs are good, but the body sections are the least reworked and keep editor flags and rule ids.",
+   "The Bestiary/The Wild/Natural Beasts/Natural Beasts.md, The Bestiary/The Wild/Spirit Beasts.md and The Bestiary/The Corrupted and the Risen/Aberrations/Aberrations.md: loose Wellspring labels against the Sixty, and catalog-style prose after the openings."
+  ]
+ }
+}

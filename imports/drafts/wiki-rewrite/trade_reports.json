@@ -1,0 +1,990 @@
+{
+ "apparatus": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/trade/wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Geography & the Four Quarters/News, Rumour and the Speed of Information.md"
+  ],
+  "inventions": [
+   "What Things Cost opening: the Broth Suit of Year 702. Hob Ladleworth, a Stannvaard saddlers'-market cookshop keeper, against Scarlet Oriel Thrane, a Journeyman fighter, over a bowl of broth. The magistrate's list, cried by a herald over three days, is made the origin of the price list.",
+   "Value, Coin and Trade opening: the wreck of the carrack Fat Marguerite on the Gannet Bar in Year 697. Tamsin Reedmace is her bonded Journeyman weather-worker. Each item that came ashore illustrates one line of the Arbitration Division's order of payment.",
+   "News, Rumor opening: Long Cuddy Ouzel of the Bluecap Yard (a fighting school), who 'died three times' in Year 706 after killing the bounty target called the Tin Deacon at Marrowford. Includes the nine-word beacon message and the funeral on Cooper's Hill.",
+   "News, Rumor: the Ridge towers' strike of Year 698, over the winter ration.",
+   "Item names in the price table: 'war crossbow' (lever-spanned, or heavy windlass arbalest), 'belt-bow' (short crossbow spanned from the belt, successor to the revolver), 'sheaf of bolts', 'news bill', 'a seat on a kept road' (open bench or under the hood, successors to third and first class).",
+   "News, Rumor terms: beacon-house (old gauge-house), beacon boy (old wire-boy), the heralds' rate and the heralds' night watch (old press rate and night press wires), post riders' yellow sashes, hiring a relay rider for one bag.",
+   "News, Rumor new material under R83-7: sections on heralds and criers, minstrels, bounties, bookies and what fame does; a second reference table on how each voice moves and goes wrong; three new hooks (the bill still on the door, the price that moved, the song that will not die).",
+   "Value, Coin and Trade: a new 'Fame moves the schedule' paragraph under Rank as Property (R83-7). Array-tenders on a keeper's Core are named as what 'delivery' of an Essence supply contract means. The Essence price is now cried from guild hall steps on quarter-day.",
+   "Author Notes in News, Rumor: real-world precedents added (Leo the Mathematician's beacon chain with matched clocks, Chappe's semaphore, the Mongol yam, the Persian royal road)."
+  ],
+  "calls": [
+   {
+    "call": "A sheaf of bolts is priced at 1 to 2 silver the dozen. The old cartridge row read 1 to 2 silver the fifty. The silver figure stays and the count changes.",
+    "grounds": "The brief's settled figure is about three coppers a bolt, and it is also in Who Pays for the Lamp and the staged Bolt page. At fifty for 1 to 2 silver a bolt would cost under a copper. A dozen at 1 to 2 silver gives 2 to 4 copper each. The brief's 'keep prices' rule and its three-copper figure collide here, so the specific settled figure governs."
+   },
+   {
+    "call": "The beacon message price and the old nine-word form are both kept: a silver buys twenty words with addresses counted, addresses take eleven on an ordinary day, and that leaves the nine-word standard form.",
+    "grounds": "What Things Cost and Who Pays for the Lamp say a silver for twenty words with addresses counted. The old News page and the Accord and Stannvaard inventories say nine words. Reading nine as what remains after addresses keeps every figure without changing either source."
+   },
+   {
+    "call": "The price of Essence, the supply contract and the standing myriad stay, with all figures (40 silver marks, 12 at Year 640). Delivery is restated as a keeper's Core plus a bonded crew of array-tenders who pull, refine and feed the works.",
+    "grounds": "Arrays survive section one as standing runed workings (NATALIE, The Magic System pages), and the contract is the page's central economic fact. The brief retires mains and tariffs on supply, not contracts for work by living hands. Keeping the ledger and changing only what delivery means loses nothing."
+   },
+   {
+    "call": "The array boom and copper famine stay, and copper remains 'the wire of the array trade' in the sense of metal wire laid by hand. Only the signal wire is retired.",
+    "grounds": "Copper famines are cited in What Things Cost and elsewhere. Metal wire and windings are medieval craft, and the brief retires the telegraph."
+   },
+   {
+    "call": "The duplicated 'industrialisation of Essence' passage in Rank as Property is merged into one. It now reads 'The un-Tempered laborer of the Dark Ages is worse off than his Voyager-era ancestor'. The garbled second copy ('late Imperial Age ... Imperial-era ancestor') is dropped.",
+    "grounds": "The second copy was a leftover from an earlier mechanical rename and carried no separate fact. The first copy's Voyager comparison makes sense; the second's does not."
+   },
+   {
+    "call": "Land is now priced on 'the Wellspring site beneath it', and Nalūn sits on 'sites of Contract-aspected Wellsprings'. A parenthesis gives R83-9's definition.",
+    "grounds": "R83-9: Wellsprings are types of Aether with sites where they pool. The argument that land is priced on what lies beneath is unchanged."
+   },
+   {
+    "call": "Banking at Ironlink becomes 'keeping its strongboxes at Ironlink'. Lending houses become money-changers and factor houses. In the retainer table, 'merchant house' becomes 'factor house', 'a bank' becomes 'a money-changers' house', 'a Board' or 'charter Board' becomes 'a chartered company', and 'shipping line' becomes 'a shipowner'.",
+    "grounds": "The group note and R83-4 place banks and merchant houses in the Imperial Age. Factor houses already appear in section one's pages."
+   },
+   {
+    "call": "The Bill table uses Who Pays for the Lamp's terms: sealed household and trade work at the same figures, with snuffers and the searcher replacing the cutter and the inspector. The 'cut plate, four seconds to lift' line becomes 'a stroke through a ward costs nothing to make and takes four seconds'.",
+    "grounds": "The group note requires agreement with Who Pays for the Lamp, which has snuffers scratching through wards. The four seconds and the zero cost survive."
+   },
+   {
+    "call": "The heading 'Arms and Shot' became 'Arms and Bolts'. Headings in News, Rumor changed ('I. The Wire' to 'I. The Beacon Line', 'The press rate' to 'The heralds' rate').",
+    "grounds": "The brief retires shot and wire. A grep found no anchor links to these headings anywhere in wiki/, imports/drafts/wiki-rewrite/ or NATALIE."
+   },
+   {
+    "call": "The Guild-hour mechanism follows the Sky, the Hour and the Year wording: great water clock at Stannvaard, relay rider, sealed sand-glass, beacons. Northern clerks keep Guild hour 'for the relays'.",
+    "grounds": "That page already carries the converted wording, and the two must agree."
+   },
+   {
+    "call": "'Across the water: same day where cable exists' becomes 'same day where island towers carry the line'. The timings stay.",
+    "grounds": "Cable is retired with the wire. A beacon chain over water needs islands, and the figure is kept where one exists."
+   },
+   {
+    "call": "The Struck 2026-09-12 note about Nevara stays verbatim, and the era headings (Antediluvian through the Withering) stay.",
+    "grounds": "It records a past canon strike, and those eras survive in the Concordance of Ages. The brief does not retire them."
+   }
+  ],
+  "canon_conflicts": [
+   "Bolt price: the old table's cartridges at 1 to 2 silver the fifty against the brief's three coppers a bolt. Handled by changing the count to the dozen; see calls.",
+   "Beacon word count: twenty words in What Things Cost and Who Pays for the Lamp against nine words in News and the inventories. Reconciled in text; see calls.",
+   "desktop/inventories/accord.md still treats the wire, the main, the meter and the Board as live, against R83. It may rank below the wiki in practice, and this rewrite follows the brief."
+  ],
+  "other_pages_needing_change": [
+   "desktop/inventories/accord.md, desktop/inventories/stannvaard.md, desktop/inventories/dawi.md: still use the wire, the main, the nine-word wire, the meter and wire-boys. These need beacon line, sealed-household and beacon-boy wording. All are outside the staged wiki.",
+   "Staged 'The Apparatus of the Age' page (another agent's group): when grepped mid-run it still carried the bolt-action repeater and the press section, including 'Guild gazettes three copper, penny papers one'. It should match the news-bill row here: a news bill at 1 copper, the Guild's copied sheets at 3.",
+   "Staged 'The Bolt and the Enhanced Weapon' page (another agent's group, apparently renamed from Shot and the Enhanced Weapon): should use the same purchase units as the price table, the quiver of twenty and the sheaf of a dozen. The launching session should check that the rename does not break the brief's validator path.",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days and Weight, Measure and the Standard: both contain Guild hour or nine-word references and should say relays or the beacon line (another group).",
+   "desktop/style-bank/lineage-halls.md line 243 (a measure-wire) is ordinary metal wire and needs no change. Noted only so it is not flagged."
+  ],
+  "retired_items": []
+ },
+ "works": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Alchemy/Alchemy.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Alchemy/Alchemetrica.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Alchemy/The Standing Index.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Alchemy/The Common Drafts.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Alchemy/Prepared Tags.md"
+  ],
+  "inventions": [
+   "Alchemy.md: the Riser that let go at Gannet Row in the second year of the Dark Ages, and the sky-blue salt sold back at forty coppers the sack.",
+   "Alchemetrica: Corbin Oakapple, apothecary of Candle Wharf; the House of Merrowby and its Rising Salt (Sublimatio married to Fixatio); the Rivermen's Regatta; the nine-day hanging wreck and the chandler's widow with her ladder; the Hanging Fair; Merrowby's pears and card.",
+   "Alchemetrica, street slang (R82-39): a bad marriage (Rupture Event), a bottle (a Draft), a dry hand (an alchemist with no woken Crystal).",
+   "Alchemetrica: bead-glasses and clay trial-cones as the medieval heat instruments; a house's beer and song at the Mark; the long shelf of Returners.",
+   "The Standing Index: Lord Bartholomew the granary cat; Maudlin Purslane; Jos Tolliver; Ser Bevis Hatchard; the Marrowgate assize; the case Purslane against Tolliver; the Ratcatchers' Company.",
+   "The Common Drafts: the wreck of the Dorcas Merry on the Skerrow Teeth; the village of Skerrow; Goody Nettlebed; Wat Cobbold.",
+   "The Common Drafts, street slang: a swallow (fight Draft), a scald (an above-grade Draft).",
+   "Prepared Tags: Tamsin Cordwain of Quenby, Fulk Pyke, the Company of the Slate, the Cutters' Stair, the funeral with its thirty-one forged tags, and the children's skipping rhyme.",
+   "Prepared Tags, street slang: a slap, a strip (a tag).",
+   "All invented figures are minor and of past or unspecified generations. Full names were grepped against wiki/ with no hit. No main cast, sealed secrets or arc events are used."
+  ],
+  "calls": [
+   {
+    "call": "Alchemetrica's 'No Draft refills a reserve' now reads 'Only a fight Draft refills a reserve'. The sickroom half of the old law stays: the Bench refuses restorative sickroom formulas, and nothing brewed for the sickroom puts Essence back.",
+    "grounds": "RULINGS.md answer 101 (EC2, 2026-09-28) and R2-6 said no Draft refills. Isaac's later direction R78-10 retracted that for fight Drafts, and R79-10 says 'A fight Draft refills reserve and the crash pays for it'. NATALIE's Magic Frame says the same, and section one's Tier Ladders already reads 'Only a fight Draft refills a reserve.' Newest word wins. Worded to match the Tier Ladders. The session that launched me should log it."
+   },
+   {
+    "call": "Alchemetrica no longer uses 'current' for a Wellspring anywhere. The Wellspring is defined per R83-9 as a type of Aether affecting the Crystal, a source of power that also represents an alchemical principle and a spiritual transformation. Stages 'take their law from' a Wellspring, and the table column 'Current' is now 'Wellspring'. 'Living process, law of transformation' stays, as the Family register keeps it.",
+    "grounds": "Group note and R83-9. The Eight Families page gives the same reading ('a type of Aether that carries a fixed law', 'each of the sixty is a living process, a law of transformation'). A link to that page was added."
+   },
+   {
+    "call": "Vein Draw, Vital Draw and Sovereign Draw stay as Provenance Class names alongside Crystal Draw. A short note under the heading explains 'Draw' as the bench's old word for a lot taken off its source, with no connection to how a practitioner pulls Aether. The lowercase 'Class V draw' and 'drawing off a donor' were reworded.",
+    "grounds": "The group note keeps Crystal Draw as a materials grade. The four names are one series, and renaming three would break the Class table and the materials pages."
+   },
+   {
+    "call": "'Vein' and 'array' stay. A vein is the channel feeding a place where one type of Aether pools, and an array is a standing runed working. Only 'arrays pump' went, and 'arrays draw from the veins' became 'pull off the veins'. 'Engine work' stays too.",
+    "grounds": "Section one's Tier Ladders keeps 'a vein is the channel that feeds it'. Arrays survive in NATALIE's boost law and The Four Crafts. The Mechanica page keeps engine work, and only 'draw-engines' is retired."
+   },
+   {
+    "call": "Retired instruments and arms were replaced in place. The gauge became the assay fork. Glass thermometers, thermocouples and pyrometers became bead-glasses and clay trial-cones; the point that every instrument reads the bed and never the charge survives. Enhanced shot and the enhanced round became enhanced bolts at the same price. Ordnance became proofed harness and siege stores. 'Printed on nothing' became 'written on nothing'. 'Industrialised' became 'bagged by the gross in a Guild workshop'.",
+    "grounds": "Brief's retired table and the 'instruments are medieval' line. Keep-prices rule."
+   },
+   {
+    "call": "'Dead ground' stays as a tag-trade term, redefined as salted ground, bled ground, a place beside a closed Core, or a place no Wellspring's Aether reaches. 'The main' became kept streets and kept cities.",
+    "grounds": "Brief's replacement for 'cut the main', and section one's Runes and Tags fuel table."
+   },
+   {
+    "call": "The coil stays, glossed as the brass assay instrument. Coilwright's Reading Oil, Metering Tonic and the Tiers and prices are unchanged. 'A militia charge' became 'a charge a militia throws'.",
+    "grounds": "Section one keeps the coil, and the group note keeps item names and prices. Other pages treat Onceglass charges as thrown or loosed militia stock, so the entry survives without implying a cell."
+   },
+   {
+    "call": "The item names Grey Standing Chalk and Bone-Grey Compress keep their spelling. The cover-name 'The Grey Bride' became 'The Gray Bride'.",
+    "grounds": "The group note keeps item names, and both items appear on other groups' pages (Materials, Alchemy & Trade.md, The Long March). The cover-name appears on no item row, so American spelling applies. Isaac can order a global rename if he wants one."
+   },
+   {
+    "call": "Several 'not X, Y' fragments in table rows were rephrased with their facts kept (Found and never rendered; Reveals forgery; It enforces and it wants nothing; the forfeiture clause and sentencing line; the two-phial rule). Em dashes in prose were removed. The one remaining em dash in The Standing Index is the empty table cell on The Unnamed Ninth.",
+    "grounds": "Brief, 'The page itself'."
+   }
+  ],
+  "canon_conflicts": [
+   "Prepared Tags vs section one's Runes and Tags: Prepared Tags says ambient and stored tags light in the maker's color and are cut on paper, leather or slate. Runes and Tags says a tag flares in the user's color and is cut on paper, hide, bark or thin foil. Left as it stands on my page, and the Prepared Tags opening story depends on the maker's-color rule. Not logged.",
+   "The Standing Index header says forty-five entries, but the tables hold forty-six rows. The Tier Ladder and the Unnamed Ninth row say four T9 entries, but five T9 rows exist (Worldspirit Quench, Concordant's Oblation, Apex Residue, Null-Absolute Solvent, The Unnamed Ninth). Pre-existing; left unchanged and not logged.",
+   "Cutwater Tincture is Class III in The Standing Index and 'Environmental' in The Common Drafts. Hillcarry Salts is Class II Field Substrate in the Index and 'Material-Sourced' in the Drafts. Pre-existing; left unchanged and not logged.",
+   "RULINGS.md answer 101 (EC2) and CONFLICTS C-096 record 'no Draft refills a reserve' as ruled, while R78-10 and R79-10 reverse it for fight Drafts. See calls; the C-096 entry should be read as superseded."
+  ],
+  "other_pages_needing_change": [
+   "wiki/The War Cycle/The Army/The Long March.md: per CONFLICTS C-096 it repeats 'A practitioner is refilled by a Wellspring, or not at all', which needs the fight Draft exception.",
+   "Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy.md (another group): one line still contains 'current'. It should match Alchemetrica's 'cut from the Wellspring whose law it works'.",
+   "Work, Trade and Measure pages (The Works and Days; The Apparatus of the Age) and Hide, Horn and Bone: their Onceglass charges, 'consumable munitions', 'volley' and 'battery' language should agree with 'a charge a militia throws'.",
+   "The Magic System/Power in Use/Runes and Tags.md: the tag color and material lines should be squared with Prepared Tags."
+  ],
+  "retired_items": []
+ },
+ "value-news": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Work, Trade and Measure/Work, Trade and Measure.md"
+  ],
+  "inventions": [
+   "Works and Days opening: the funeral of Ranulf Scarrow, the Anvil-Eater, grandmaster of the Scarlet Rams of Harrowgate; the rival Blue Herons of Lower Harrowgate and their song 'Who'll Wash the Ram?'; Elder Maud Bretton; Gammer Thirza Lubbock and the thirty-one layer-outs; a herring-bone death; Harrowgate's Long Market and Tanners' Row. All names grepped clear of wiki/.",
+   "New section 'The Small Powers': Cold-Wife, Link-Child, Knot-Wife, Bone-Thumb, Sour-Stopper, Mule-Talker, Whetter, Hush-Nurse, with invented copper prices (1 to 4 copper; 1 silver a ship's lashing; 2 silver a sword) set against the 3-copper loaf and the 12 to 24 copper day wage; the Measurewright's folios on the Cold-Wife's palm; Dame Mabel Madder's Self-Minding Cradle.",
+   "New section 'The Yard and the Token': sect ranks as a working morning, built on Training and Sects, with the retainer figures copied from What Things Cost.",
+   "New section 'What the Trades Are Paid': wages copied from What Things Cost and Who Pays for the Lamp, plus the pay statements already on the page. No new figures.",
+   "New trades in the Evening Trades table: the Herald and the Crier, the Minstrel, the Bookie, the Bounty-Clerk (R83-7).",
+   "Weight, Measure opening: the grain cog Fat Margery bursting at the Barley Fair of Saltby, the thirty-one-year suit, Rolling Ned Tolland the strike-board man, Margery's Acre. Arithmetic follows the page: 500 loads level is 625 heaped, 5,000 measures at eight to the load.",
+   "Weight, Measure: the true-hand, a petty art that hefts a weight to the grain at a copper the call.",
+   "Hub opening: the Vintners and the Coopers of Rushford and their feud over the tun, on the Long Quay.",
+   "Weight §VII: the ferrule redefined as a bronze ring set at a Core's lip, the draught as that bore on ground of a stated grade for one Guild hour by the water clock, and the tundish as a brass fitting on the ring that shows the color of what passes.",
+   "The sleeping sponge (poppy, mandrake, henbane) and vinegar with spirits of wine as the medieval successors of anesthesia and carbolic."
+  ],
+  "calls": [
+   {
+    "call": "Reconciled 'one in twelve' on this page with 'about one in ten wake a Crystal' in How Magic Works, The Gate and Who Pays for the Lamp. One in twelve is ranked with a token; the difference is woken people with one petty art and no token.",
+    "grounds": "Both figures are on the wiki. R83-8 and R83-10 need common practitioners and an unranked petty class. Both figures are kept, and the gap is explained rather than either being changed."
+   },
+   {
+    "call": "The creditor schedule line 'behind only contracted Essence supply' now reads 'contracted Essence (bonded work and Core hours already sold)'.",
+    "grounds": "Supply is retired by the brief. The ordering of the schedule is kept. No other page carries this line."
+   },
+   {
+    "call": "Kept the unit name 'draught' with its British spelling as a keepers' term of art, with an in-world aside that the spelling keeps it apart from a Draft. Heading VII became 'The Draught'. Ferrule and tundish survive with new physical meanings.",
+    "grounds": "Nothing lost, and the unit does not depend on the retired idea of the draw. The Working Vocabulary (section one) already keeps the tundish, and the Articles of the Accord still name the ferrule. 'Draft' would collide with the bottled working. Ordinary uses went American ('draftsman', 'draft beast'), and the Farmer's 'halves the draught' became 'halves the labor of the team'."
+   },
+   {
+    "call": "Weights-and-measures inspectors became searchers in the Weight page (searcher's stamp, market searcher).",
+    "grounds": "The brief maps old inspectors to searchers, and 'searcher' was a real medieval market office. This extends the word from fee inspection to market inspection."
+   },
+   {
+    "call": "Banks were avoided: the Engravers' lock joke now reads 'counting-houses', the Holy Sea's 'banking operations' read 'deposit-and-lending operations', and the retainer table's 'a bank' reads 'a counting-house'.",
+    "grounds": "R83-4 gives banks to the Imperial Age. The Holy Sea and Nalūn dispute is kept. 'Merchant house' stays in the retainer table because What Things Cost has it and factor houses are medieval, though R83-4 also gives merchant houses to the Imperial Age, so the launching session may want a line on it."
+   },
+   {
+    "call": "The Theater and Music Hall became the Playhouse and the (tavern) Hall, with the same chairman, comic singer, strong man and closing turn. The Café became the Tea-Stall. Fireworks became a hired hand throwing colored fire, since gunpowder is retired. The balloon ascent became a rope-walker on a Vectoria line. The cinematograph booth became a shadow-play booth, keeping the 'only moving pictures' joke.",
+    "grounds": "Brief: no gunpowder, nothing built beyond medieval. What Things Cost already sells tea at a stall."
+   },
+   {
+    "call": "The Reconstruction, arrays, the Withering, the brass coil, Core-keeper fees and the Guild hour stay as they were.",
+    "grounds": "None is on the retired list. Section one keeps the coil and arrays, and The Sky, the Hour and the Year keeps the Guild hour on water clocks. Mine arrays are kept as hand-tended glyph works, and tenders keep their gaskets, conduit junctions and wrench, because Brida Voss's epigraph is a kept joke."
+   },
+   {
+    "call": "Removed the verbatim duplicate of the closing two blockquote paragraphs of Works and Days. Heavy negation cousins ('None of that is metaphor... It is a law', 'Not a hotel. A social institution', 'Not extraction. Trust.', 'is not superstition. It is observation') were rewritten with the same facts.",
+    "grounds": "Brief's page rules. The duplicate was a copy error with no facts of its own."
+   },
+   {
+    "call": "Replaced 'WOTR should copy it exactly' and 'carries more worldbuilding' in the Weight page with in-world wording. Kept 'exactly as the real world ran troy against avoirdupois' and the Hooks section.",
+    "grounds": "Narrator stays in-world where touched, while Who Pays for the Lamp still keeps a craft section (Writing It), so reader-facing hooks are allowed."
+   }
+  ],
+  "canon_conflicts": [
+   "Articles of the Accord, Title IV 'Of the Draw' (Articles XVI to XVIII: 'on any service', 'every housing fitted', 'seal on a conduit', 'Cut off') still uses the retired metered-supply language. Weight §VII now reads ferrule, tundish and draught as Core-side terms. Those articles need the matching conversion, and I did not touch them.",
+   "What Things Cost (live copy and the staged copy when read) still says draw, wire, rail, muskets, Boards and 'Guild inspector'. My pay table and retainer table copy its figures, using searcher, company and counting-house for the payers. Its sibling rewrite should end up with the same figures and payer words.",
+   "R83-4 says the Imperial Age brings banks and merchant houses, while the wiki's Dark Ages pages have factor houses, Nalūn bills and Holy Sea lending. Treated as medieval precursors, not resolved."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity.md: Title IV 'Of the Draw', Articles XVI to XVIII (ferrule, housing, conduit, 'Cut off'), to match Weight §VII.",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md: rail, wire, arms and bill sections; its wage table must keep the figures now quoted in Works and Days.",
+   "wiki/The Magic System/Practice and Institution/The Standing and the Title — The Three Names.md: names The Works and Days as a companion, no change needed unless it cites a retired trade."
+  ],
+  "rename": [
+   {
+    "from": "The Main-Man",
+    "to": "The Core-Tender"
+   },
+   {
+    "from": "The Meter-Reader",
+    "to": "The Fee-Walker"
+   },
+   {
+    "from": "The Cutter",
+    "to": "The Snuffer"
+   },
+   {
+    "from": "### The culvert trades",
+    "to": "### The pool trades"
+   },
+   {
+    "from": "The Essence Works",
+    "to": "The Long Shop"
+   },
+   {
+    "from": "The Machine Hand",
+    "to": "The Bench Hand"
+   },
+   {
+    "from": "The Engine Man",
+    "to": "The Mill-Warden"
+   },
+   {
+    "from": "The Shop Assistant",
+    "to": "The Counter Hand"
+   },
+   {
+    "from": "The Typist",
+    "to": "The Copyist"
+   },
+   {
+    "from": "The Wire Clerk",
+    "to": "The Beacon Clerk"
+   },
+   {
+    "from": "The Exchange Operator",
+    "to": "The Hall Caller"
+   },
+   {
+    "from": "The metered poor",
+    "to": "The fee-bound poor"
+   },
+   {
+    "from": "The Theater and the Music Hall",
+    "to": "The Playhouse and the Hall"
+   },
+   {
+    "from": "The Café, the Club and the Reading Room",
+    "to": "The Tea-Stall, the Club and the Reading Room"
+   },
+   {
+    "from": "## VII. The Draw",
+    "to": "## VII. The Draught"
+   },
+   {
+    "from": "Falling pressure, same bill",
+    "to": "Falling density, same bill"
+   }
+  ],
+  "retired_items": [
+   "Telephones, trams, motorcars, airships, railways and the express, wire offices, khaki, typewriters and carbon copies: converted to successors where a trade depended on them, otherwise dropped.",
+   "Rifles to a pattern: replaced by crossbow bolts to a pattern at about three coppers.",
+   "Tins: replaced by pewter. Match-seller, shoeblack, cabman and police: replaced by tinder-seller, shoe-greaser, hackney man and the watch.",
+   "Draw permit: replaced by working permit. Carbon triplicate: replaced by triplicate by hand. Penny papers: replaced by penny bills. Excursion train: replaced by fair-wagon.",
+   "Carbolic and anesthesia in their modern form: replaced by the sleeping sponge, vinegar and spirits of wine.",
+   "Glass-and-iron arcade roof and iron bridges: replaced by a vaulted arcade with a colored clerestory and stone bridges banded in Stillband iron. Stillband iron is kept."
+  ]
+ },
+ "real-alchemy": {
+  "pages_changed": [
+   "Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md",
+   "Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy.md"
+  ],
+  "inventions": [
+   "Heresiology opening: Odger Marrable, master dyer of Hartle Ferry, and his Marrable Red (a recipe lost for good); the spagyrist Tamsin Corbie; the double funeral of 661 IC, with sixty gold paid by his three daughters. Dyers' Row and the story of the abbot's horse belong to the same story. A grep of wiki/ found no use of Odger, Marrable, Tamsin, Corbie or Hartle.",
+   "Heresiology: the dock slang 'gone to the mirror' for a corrupted alchemist.",
+   "Heresiology: the archivist-narrator who has carried the book for twenty-two years.",
+   "Heresiology: the Grade I and Grade IV aside. Petty cases: a hedge-worker's overcharged well charm, a stall-holder's tincture that was mostly plum, a lamp-warden's boy cutting a stolen glyph. Grade IV is cried by heralds, with bounties on hand-copied bills and minstrels who get it wrong.",
+   "Heresiology: the Measurewrights' and confessors' dispute over the word 'injury', with the Accord choosing the word so that both parties could sign.",
+   "Real Alchemy: the bench children's skipping rhyme for the seven stages ('Burn it, drown it, part it, wed it, / rot it, raise it, set it, dread it'), including the eighth verb as the apprentices' addition.",
+   "Real Alchemy: a Judicium reader as the nearest thing a WOTR court has to a poison test. This is inferred from the Fulguria page's mechanism for Judicium."
+  ],
+  "calls": [
+   {
+    "call": "The Real Alchemy stays an out-of-world reference page with no Guild narrator, and it opens on real history: HMS Triumph at Cadiz in 1810, then Newton, Boerhaave, Vallot and Louis XIV, Stewart and Principe.",
+    "grounds": "The page is real-world history with sources, and the hub page Alchemy.md quotes its 'out-of-world' subtitle. An invented opening would blur the line between sourced fact and fiction. Every opening fact except the Cadiz location comes from the page's own entries, and Cadiz comes from its Earles 1964 citation. The brief's narrator rule says the narrator 'stays', and this page never had one, so it gets a warm, opinionated authorial voice instead."
+   },
+   {
+    "call": "Pyrometers, thermocouples, Seger's cones, thermometers, borosilicate glass and the Marsh and Reinsch tests stay in the real-history practice text. Their In WOTR lines now say none of them exists in any era of WOTR. The old claims that they exist from 690 IC, or fall inside the Imperial Age's technology span, and the citations to R53-01 and R63-2, are gone.",
+    "grounds": "R83 and NATALIE: what is built and carried stays medieval. The brief lists instruments as assay forks, water clocks, brass and glass. Removing borosilicate also removes the conflict the old page said it would not settle against Alchemetrica's account of glass, so that sentence went too. The 820 °C softening figure moved into the practice text and survives."
+   },
+   {
+    "call": "The real-history accident row 'trial batch of chlorate gunpowder' (Essonnes, 1788) stays word for word. The In WOTR line beneath it now says WOTR has no guns and no gunpowder in any era. These are the only uses of 'gunpowder' or 'guns' in the two files.",
+    "grounds": "Brief: nothing is lost unless retired, and the retirement concerns the WOTR setting. This is a real historical record on an out-of-world page. Printing, 'the imperial pint' and similar real-world facts stay on the same grounds."
+   },
+   {
+    "call": "'From 690 IC' appears once on The Real Alchemy, as the opening of the Dark Ages. The In WOTR lines are framed as the Dark Ages bench.",
+    "grounds": "The group's notes and the brief's dates."
+   },
+   {
+    "call": "The Stage-to-Wellspring mapping uses only what the Family index gives: Calcination/Cinerion, Dissolution/Dissolution, Separation/Judicium, Conjunction/none (runs on Attraction), Fermentation/Rebirthine, Distillation/Sublimare, Coagulation/Coagulatio. Trade's-reading lines are quoted from the Alchemy lines on the Family pages and marked as the trade's reading.",
+    "grounds": "The group's notes: agree with the Family pages' Alchemy and Spirit lines. R83-9 now appears in both pages, as a new section on The Real Alchemy and as a paragraph and table on the Heresiology."
+   },
+   {
+    "call": "The Heresiology now says that a 'Wellspring injury' is a damaged site plus damaged Crystals, or a wounded principle, and leaves that open as a live dispute. Uses of 'Wellspring' meaning a place now read 'Wellspring site', with the Core gloss.",
+    "grounds": "R83-9 and the Family index: no hand lays on or shuts off a Wellspring, and the Sixty are fixed. The page's title and doctrine use 'injury', and the Family index says a corrupted Conjunction injures Attraction. R83-11 allows Measurewrights to argue."
+   },
+   {
+    "call": "'Imperial purification systems made permanent' became 'A throne's purification decrees made permanent'.",
+    "grounds": "The brief says the Imperial Age may be named only as what comes after the turn. 'Imperial' here read as that age, and the sentence's sense does not need an empire."
+   },
+   {
+    "call": "The Real Alchemy's 'WOTR has no ... philosophers' tree' now reads: no philosophers' tree as a cover-name, and the metal tree in the still flask appears only as the trade's reading of Terranova.",
+    "grounds": "Terranova's Alchemy line on the Family page names a metal tree in the still flask, and the old sentence contradicted it. The Family pages were the later rewrite, and the group's notes say to agree with them."
+   },
+   {
+    "call": "The Heresiology's 'it's not X, it's Y' sentences were recast so that the jokes survive, for example 'Destruction of evidence is laziness wearing moral perfume'. Plain negative doctrine that is not that construction stays word for word, such as 'The trace is not the soul' and 'resemblance is not identity'.",
+    "grounds": "Brief's prose bans, plus nothing lost and keep the good jokes. The Family pages quote the Heresiology's shadow and purification doctrine, and those lines still agree. The Tenebra line now reads 'no proof of heresy', which is the Family page's wording."
+   },
+   {
+    "call": "British spellings were Americanized in The Real Alchemy's body, and 'draught' became lowercase 'draft'. The Sources section, including published titles such as The Sceptical Chymist, is untouched. 'Grey Bride' stays as spelled.",
+    "grounds": "American spelling rule. Source titles are citations. Grey Bride is a proper name, and the staged Alchemetrica is another group's file, so I did not rename it."
+   }
+  ],
+  "canon_conflicts": [
+   "The rules R53-01 and R63-2, cited by the old Real Alchemy for a technology span from the 1800s to the mid-1900s starting at 690 IC, contradict R83 (what is built and carried stays medieval). I followed R83 and dropped the citation. The rule rows themselves are not mine to touch.",
+   "The Real Alchemy said WOTR has no philosophers' tree, while the Family page's Terranova line reads the trade's metal tree in the still flask. I reconciled this on The Real Alchemy, as logged under calls.",
+   "'Grey Bride' keeps British spelling as a proper name in the old Real Alchemy text and in Alchemetrica, against the American-only rule. I left it for the Alchemetrica holder to settle."
+  ],
+  "other_pages_needing_change": [
+   "Materials, Alchemy & Trade/Alchemy/Alchemetrica.md, line 260 of the staged copy, still says instrument-makers sell glass thermometers, thermocouples and pyrometers. The Real Alchemy now says none exist in any era, so that holder needs to match. Its 'the Accord's ... ordnance' line and its uses of 'harmonises' and 'current' may also need the same pass.",
+   "Materials, Alchemy & Trade/Alchemy/The Standing Index.md still says 'a factor three towns away' and 'Unlawful Crystal Draw', and 'operator drawing off a donor' needs a look against the draw retirement. The Heresiology cites this page for Class IV and Attribution.",
+   "wiki/Lore & History/The Alftian Codex/ (The Alftian Codex.md, The Necrocursica.md, The Farrant Papers.md) is cited throughout The Real Alchemy's In WOTR lines. I checked it only by grep and made no setting pass on it. Any instrument, Imperial Age or Heresiology references there should be checked against these pages."
+  ],
+  "rename": [],
+  "retired_items": [
+   "The Real Alchemy: the In WOTR claim that Daniell's and Siemens's pyrometers, Seger's cones, Le Chatelier's thermocouple and the mercury thermometer exist from 690 IC. They survive only as real history.",
+   "The Real Alchemy: the In WOTR claim that borosilicate glass and the Marsh and Reinsch tests fall inside the Imperial Age's technology span. They survive only as real history. No medieval successor was invented, and no price was attached to any of them."
+  ]
+ },
+ "alchemy-rest": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials, Alchemy & Trade.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials/Materials.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials/Hide, Horn and Bone.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Master Material Ledger.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T0–T4.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T5–T9.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Alchemical Index.md"
+  ],
+  "inventions": [
+   "Hub opening: smuggler Mad Dunna Quillon, the ship Merry Widow, and the cook who found Bloodsilver hidden in hollowed Chainsalt bars.",
+   "Materials landing page: the children's skipping song called the Stuff Rhyme.",
+   "Hide, Horn and Bone opening: Bettany Marrable's wedding at Sarrow Cross, where a loft of Tidedrawn Cable hauled the hall toward the river Sarrow. Also an epigraph chalked over a Dorrosfenn rendering house door.",
+   "Master Material Ledger opening: the funeral of bell-ringer Nessa Hegg at Ormsby Deep on the Aerne, after a Weight Ablation failure; 612 miners escaped.",
+   "T0-T4 opening: the Marrowchalk barge suit, with the Upper Fenn wheat-growers against the sect of the Chalk Hall and Mother Yevane, her 37 dead witnesses and the two-sided barge ruling.",
+   "T5-T9 opening: Margrave Corvane's Whiteshard chandelier at the Feast of the Long Truce, Lord Ostrey, the orchards at Harl, 63 dead.",
+   "Alchemical Index opening: Corrin Sloe, called Featherback, who took Grace Fall Draught for nine jumps at the Lantern Fair in Marl Harbor; his falls arrived together at supper.",
+   "Thundercrack mechanism: a Cataclysm worker charges the flask by hand, palm on the glass and bare heel on wet flagstones. This replaces the grounded rod; the 4m figure, the hour, the End seal and the glyph inversion are unchanged.",
+   "New glosses: coil, Continuum, Engraver, array, carry, Threshold and Provenance Class, plus Core, Shell and Parun as used on these pages. Wording follows section one where it already had a gloss.",
+   "All invented person names were checked against wiki/. The surnames and places were clear; one earlier candidate, Aldous, already appears on a page, so it was not used and the Margrave has no first name. A name with one prior hit, Crake, was also dropped. The grep did not separately cover Harl, Lantern Fair, Guildhall or Stuff Rhyme."
+  ],
+  "calls": [
+   {
+    "call": "Provenance class names Class I Vein Draw and Class IV Crystal Draw stay, as does the material name Field Draw.",
+    "grounds": "Section one already kept 'Crystal Draw (Class IV stock...)' in The Sixteen Stages, and the Standing Index and Bench use these marks. They mean drawing stock off or blood out, not the retired drawing of Aether. If Isaac wants them renamed, it has to be a wiki-wide rename."
+   },
+   {
+    "call": "'Engine', 'engine work' and 'engine man' stay on the Ledger's Unsealed field and Class IV Shortfall entries, with a gloss added.",
+    "grounds": "Section one kept them in Mechanica: Extraction Without Recognition as Mechanica's own term for built apparatus. They are not the retired draw-engines."
+   },
+   {
+    "call": "Hazard 'Culvert residue, every networked city' becomes 'Core-lip residue, every city with a worked Core'. Main-men become Core-tenders and 'no Board document' becomes 'no company document'. Twenty years, the effects and the Active Concentration wording are kept.",
+    "grounds": "The brief retires culverts and mains, and 'Who Pays for the Lamp' already says Core-tenders and 'no company document'."
+   },
+   {
+    "call": "Mine pumping mitigation 'redundant supply contracts' becomes contracts with more than one array house and more than one Core keeper, since either can close.",
+    "grounds": "Supply on a network is retired; keepers can close a Core under the brief. The sense of the entry, redundancy and nothing else works, survives."
+   },
+   {
+    "call": "Kirkyard Lead 'shot' becomes 'sling bullets'.",
+    "grounds": "Shot is retired for guns. Lead sling bullets are a period use, so the row keeps a lead-projectile use."
+   },
+   {
+    "call": "Hub count of attested formulas changed from forty-one to sixty-one, in both places.",
+    "grounds": "The Alchemical Index title says sixty-one and its table has 61 rows. The hub's 'two counts' note still works against the Standing Index's forty-five."
+   },
+   {
+    "call": "The Alchemical Index's duplicated intro paragraphs were merged. I kept 'Twelve entries... eight... Four more reach Class IV' and dropped the stale 'Four entries below are Class IV or above'.",
+    "grounds": "My count of the rows gives 12 at Class IV or above plus 4 conditional, which matches the kept version. The other two duplicated sentences were identical."
+   },
+   {
+    "call": "Modern devices in the Alchemical Index analogues mostly stay (dialysis, thermoset, gallium and others), covered by a new narrator aside: scholars reason from the law through the Aether and compare a salve to a device no living smith could build. A few were swapped: polygraph to truth-test, vessel-sealer to surgeon's hot iron, ship propellers to bronze, timer to sandglass.",
+    "grounds": "R83-11 and the brief allow modern science in technical sections, while what is built and carried stays medieval. The batch's note asked for a light touch beyond the top of each page, and for machine-age wording to go only around Thundercrack."
+   },
+   {
+    "call": "Spelling: Blackcap Sulphide became Blackcap Sulfide, Sulphide roast fume became Sulfide roast fume, and Grey Standing Chalk became Gray Standing Chalk. Greystone and Palebed Nitre were left as proper names.",
+    "grounds": "American spelling only. Greystone is one compound name used widely. Nitre is an accepted name spelling, and changing it would touch many pages."
+   },
+   {
+    "call": "Prose 'it's not X, it's Y' constructions in the table rows were reworded in place, in about 20 places, keeping the fact and the joke. 'Glacium... no vein is registered' became 'no Core is registered', and 'sustained draw' became 'sustained pull'.",
+    "grounds": "The brief bans the shape on the page and retires the draw. The required Voidfall passage was left untouched ('An analogue of Crevice Shale, not Crevice Shale')."
+   },
+   {
+    "call": "T-tier headings in the Alchemical Index changed from 'T2 — Apprentice Work' to 'T2 · Apprentice Work'.",
+    "grounds": "No em dashes in headings that are not page names, and the Material Index already uses that form. A grep found no links to 'Alchemical Index#' headings."
+   },
+   {
+    "call": "Process note, not canon: scratchpad files were shared with another agent, and my spec2 run hit someone else's apply.pl (it reported 'applied 0'). I then made those two edits directly.",
+    "grounds": "Only my group's staged files were changed. My apply.pl and spec files in the shared scratchpad may have collided with another agent's, so that agent should check its own run if it reused those filenames."
+   }
+  ],
+  "canon_conflicts": [
+   "Alchemical Index, Fossil Ring Dust row says 'the only Class VI in the index', but Gravewell Shackle Coating and Null-Essence Draught are also Class VI. Left as written; not resolved.",
+   "The Standing Index carries the same 'gauge' and 'An operator drawing off a donor' wording I changed in the Ledger. The two will read differently until that group's page is checked.",
+   "Hub lists 'The Three Marks' but describes classes up to VI; left as written.",
+   "Hub mermaid figure '87 attested materials' was not recounted against the two Material Index tables and was left as written."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Standing Index.md: rename Grey Standing Chalk to Gray Standing Chalk; 'the gauge' to assay fork; 'drawing off a donor' to pulling Essence off a donor; 'Class V draw' wording.",
+   "wiki/The War Cycle/The Army/The Long March.md: rename Grey Standing Chalk to Gray Standing Chalk.",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers.md: rename Blackcap Sulphide to Blackcap Sulfide.",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield.md: rename Blackcap Sulphide to Blackcap Sulfide.",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Bench of Attribution.md: check Vein Draw and Crystal Draw wording against the call above.",
+   "wiki/The War Cycle/The Wounded and the Dead/The Crossing.md: also uses the Vein Draw or Crystal Draw marks; check against the same call."
+  ],
+  "rename": [
+   {
+    "from": "Culvert residue",
+    "to": "Core-lip residue"
+   },
+   {
+    "from": "Blackcap Sulphide",
+    "to": "Blackcap Sulfide"
+   },
+   {
+    "from": "Sulphide roast fume",
+    "to": "Sulfide roast fume"
+   },
+   {
+    "from": "Grey Standing Chalk",
+    "to": "Gray Standing Chalk"
+   }
+  ],
+  "retired_items": []
+ },
+ "materials": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers.md",
+   "imports/drafts/wiki-rewrite/trade/wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Bolt and the Enhanced Weapon.md (renamed from Shot and the Enhanced Weapon.md; the old staged file is gone)"
+  ],
+  "rename": [
+   {
+    "from": "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon.md (title: Shot and the Enhanced Weapon)",
+    "to": "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Bolt and the Enhanced Weapon.md (title: The Bolt and the Enhanced Weapon)"
+   }
+  ],
+  "inventions": [
+   "Apparatus opening: the Tallow and Wax Chandlers of Marchbank, the Lamp Feast, Master Ivo Pettibone and his Processional Candelabrum, Fish Row, the Bishop of Marchbank, the award that fixed tallow at a copper bit for the dozen. Seven dead and an ox.",
+   "Item Tiers opening: Dame Ragnild Thurstan, Master Ordway Hesketh, the Greystone sword Grandmother's Patience, Ambleford and its fair.",
+   "Bolt page opening: Sigvard Wenlock the Hill That Walks (Stage VIII), the Bronze Hill sect, Wexcombe, the crossing of the Marle, pot-boy Tam Muckle, and the skipping rhyme.",
+   "Successor objects in the kept house: the Seal (old meter), the House Stone (old house main), the Snuffer's Cap (old cut plate, still four seconds to lift), a botch from a copied glyph (old spur).",
+   "Successor objects for the hour: the Beacon-House Regulator (old station regulator) and the Pocket Reed (old pocket watch, with silver, gold and pewter grades).",
+   "Successor arms and war gear: the Belt-Bow (old pistol, name taken from the staged What Things Cost), the Chain Engine (old machine gun, crew of six and water trough kept) with its crew name Aunt Maud of the Sixth Marchers, the rampart arbalest (old musket-ball speed class), the trebuchet Mother Gravel at Ostrey, and the new line with pavise and arbalest (old late line).",
+   "Successor transport and works: the Essence Wheel and wheel-men (old Essence Engine), Master Haddock's Self-Spanning Bow, the Kept Road wain with twin stone (old Drawn Line), the Common Wain at a copper a ride (old tram; the price is new), the Carry-Stone (old charged cell), the Stone Coach (old motorcar), the Ablation Hulk (old Ablation Freighter), the Grip Wain (old Grip Engine).",
+   "Successor news and likeness: the Copy-House (old press, same 3 and 1 copper prices), the Limner's Card (old photograph), Lantern Shows and Singing Shells (old moving pictures and recorded sound), Bench horn and resin (old early plastics).",
+   "New sections with no old counterpart, all written from the law: Bow, pole, blade and stone; Names on the rack; Heralds and Criers; Marks, Names and Past Owners (Item Tiers). The war bow's ten years to build, the fortnight's crossbow training and the archer's skeleton are real-history detail I added.",
+   "New glosses: Withering as the slow epoch-scale failing of a place's Aether, Vectoria, Caloria, Fulguria, Luminalis, overchannel."
+  ],
+  "calls": [
+   {
+    "call": "Reference bolt keeps the revolver's figures: 16 g, about 235 m/s, about 440 J, 43 ms over ten meters, assigned to the steel-bowed windlass arbalest. The enhancer table is unchanged. An ordinary hand-spanned bolt is about 100 J and flies slower, with no speed figure given.",
+    "grounds": "The group note and brief say each item keeps its figure, and 440 J for the heavy arbalest and 100 J for the ordinary bolt were settled in section one. A real steel bow throws far heavier bolts far slower, so the page carries the quarrel openly as a bowyer against Measurewright argument (R83-11). Isaac may want the velocities re-derived."
+   },
+   {
+    "call": "The D row of the speed table changed. Old: registers it and may begin to turn, it hits. New: the brief's exact Grade D wording plus 'A bolt they do not see hits them.' The E, C and B results stand, and the brief's exact Grade B wording is added to the B row.",
+    "grounds": "The brief's exact wording for Grade D says a D-Grade can slip the bolt if they see the loose, which contradicts the old cell. D's 15 to 40 ms reaction against a 43 ms flight supports the new wording."
+   },
+   {
+    "call": "The old Apparatus line 'A C-Grade practitioner can react to gunfire and cannot outrun it' became the Grade D and Grade B wordings, and the C-Grade sentence is gone.",
+    "grounds": "The old line contradicted its own child page, where C dodges. The brief's two exact rows replace it."
+   },
+   {
+    "call": "Musket ball becomes a rampart arbalest's dart, a wall-mounted bow at 400 m/s and up, keeping the law that C reacts without outrunning and B dodges reliably, and that catching takes upper B or reliable A.",
+    "grounds": "The brief has no hand-carried missile that fast, and keeping the law needed a successor. It is a siege engine's cousin, so no infantry weapon reaches that speed."
+   },
+   {
+    "call": "R45-4 and R45-5 now read: 'An enhanced bolt is dodged at its actual velocity, not at its shooter's Grade.' and 'An enhanced bolt or arrow is paid for per shot and consumed when fired,'. The launching session must update those two verbatim fields in rules/doc-shot-and-enhanced-weapons.yaml or validation will miss the quotes. The three protected sentences on the page are word for word, confirmed by script.",
+    "grounds": "The group note allows bolt in these rows. Only 'round' changed, and 'per shot' and 'when fired' were kept so the edit is the smallest possible. The Item Tiers table says 'consumed when loosed', matching the X Tier Ladders line."
+   },
+   {
+    "call": "Weapon names and prices follow the staged What Things Cost as it stood when I checked: crossbow 5 to 10 silver, war crossbow 3 to 4 gold, heavy windlass arbalest 6 to 10 gold, belt-bow 3 to 4 gold, a quiver of twenty enhanced bolts. I had first drafted my own pistol name and changed it.",
+    "grounds": "Another agent holds that page at the same time, and two names for one weapon would be a contradiction. The figures are the old musket, rifle, repeater and revolver prices. The launching session should confirm that page did not move afterward."
+   },
+   {
+    "call": "Kept the Carry-Stone (old charged cell) with its 2.5 EU per liter and a twentieth a day leak, and the Stone Coach as a horse-drawn coach eased by it, though the brief lists charged cells and motorcars as retired.",
+    "grounds": "The brief also says items with a medieval successor keep their figures, and a filled stone already exists in section one's waystones. It is magical craft, still horse-drawn, and hand-filled at a Core. Isaac may strike both, and the only loss would be those figures."
+   },
+   {
+    "call": "Kept the Essence Wheel with 0.004 and 1 AU/s, and its residue hazard, as a wage-fed shop contraption. 'Mill' and 'works' became shop, bench and spinning house.",
+    "grounds": "Draw-engines and factories are retired, but the figures and the residue law had a craft successor under R82-37 and R83-8. A wheel-man is a living person who can walk out."
+   },
+   {
+    "call": "Kept the Common Wain as a plain painted wagon with a bell on a fixed route, so the line about the city growing wider than a walk survives. Retired its coupling to the road.",
+    "grounds": "Trams are retired, but a public wagon is medieval and carries the old page's urban point."
+   },
+   {
+    "call": "Kept tins as hand-soldered canisters, and adapted the plumbing to a flushed garderobe and the dress to doublet, houppelande-era sleeves and wimple. The hemline joke became headdresses. The old C-Grade Musket line, 'late span' and 'modern' wording are gone.",
+    "grounds": "R83: what is built and carried stays medieval. Each sentence's class law is unchanged."
+   },
+   {
+    "call": "Replaced ward-carver with ward-cutter throughout the page.",
+    "grounds": "Section one settled ward-cutter as the living-craft name. Other pages may still say ward-carver."
+   },
+   {
+    "call": "Reworded the old 'it does not X, it Y' jokes (Phreatis Filter, Ablation, staff, ritual blade, drainage), the 'gun is not dangerous' line and 'One casting. Then gravel.' into constructions the prose bans allow, keeping each joke.",
+    "grounds": "Brief, The page itself: no 'it's not X, it's Y' and no fake-emphasis fragments."
+   },
+   {
+    "call": "The kept road's waystones sit in the road bed with a twin slung under the wain, feeding a Vectoria wheel on the axle. Who Pays for the Lamp says the twin takes heat from a station stone across a hand's breadth.",
+    "grounds": "The old rail text requires a line of coupling along the route, and the limits (dead stretch, coupling both ways) depend on it. This extends section one rather than contradicting it, but the wording differs, so I am reporting it."
+   }
+  ],
+  "canon_conflicts": [
+   "rules/doc-shot-and-enhanced-weapons.yaml still reads as firearms law: R45-1 summary (plain .44, musket ball), R45-2 summary (period revolver, musket ball), R45-3, R45-4 and R45-5 amends loci (The Musket; The Pistol; Shot is chemically cheap), and the R45-4 and R45-5 verbatims. The pages now say bolt, arbalest and rampart arbalest.",
+   "rules/doc-item-tiers.yaml line 83 summary says 'Enhanced round or arrow ... consumed when fired'; the page now says bolt and loosed.",
+   "Grade D law: the old R45 table said a D-Grade is hit by the reference projectile, while the brief's fixed wording says it can slip the bolt if it sees the loose. I followed the brief.",
+   "Physics: 16 g at 235 m/s is beyond what a steel bow can really throw (real heavy bolts run far heavier and far slower), and the figure stands only because the brief keeps figures. The page admits the argument in character."
+  ],
+  "other_pages_needing_change": [
+   "wiki/INDEX.md line 286 and wiki/.manifest.json: link and entry for Shot and the Enhanced Weapon must point to The Bolt and the Enhanced Weapon. No other live wiki page links to it; the Apparatus footer link is already updated in staging.",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology.md still names items replaced here (draw-engine, airship and others). It should use Essence Wheel, Kept Road, Beacon Line, Copy-House, Limner's Card if another group has not.",
+   "wiki/The Bestiary/The Wild/The Draconic Lineage.md line 72: the Siege of Lornhaven hydra brought down by 'coordinated airship bombardment' (the Apparatus page's airship note is retired).",
+   "wiki/The Bestiary/The Corrupted and the Risen/Well-spawn.md quotes or names an item changed here (matched my grep for the old equipment names).",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Military.md, wiki/The War Cycle/The Army/The Order of Battle.md and wiki/The Disciplines/Techniques/Obelisk of the Eclipsed Dawn.md still mention airships.",
+   "wiki/A Reader's Codex.md and wiki/Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md still mention muskets, pistols or gunpowder.",
+   "wiki/The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md: 'Mkono wa Miti' and the proof lines were handled in section one; no change needed unless Isaac rejects the 16 g reference bolt.",
+   "rules/doc-shot-and-enhanced-weapons.yaml and rules/doc-item-tiers.yaml: verbatim and summary updates as listed under calls and canon_conflicts, for the launching session."
+  ],
+  "retired_items": [
+   "The Airship: frame, gas lift, Accord watchtower berths, the only way over the passes regardless of snow. No successor. Cloudmetal's use moved to siege-tower frames and great bow stocks.",
+   "The Aeroplane. No successor.",
+   "The Telephone, its exchanges and brass number plates. No successor.",
+   "Rubber tires, the motorcar's rubber and its cell-house network, replaced by iron tires and a Core on the Stone Coach. Rubber itself stays for hose, belt, gasket and ball; the 'tire' use is gone.",
+   "Celluloid film stock and bench-resin telephone housings and switch plates, as uses. Bench horn and resin stay for collars, combs, dice and seal-cases; billiard balls became gaming pieces.",
+   "Gutta-percha as insulation on the Guild wire. It now sheathes Stormfulgur trunking.",
+   "The smokeless cartridge's effect on the line, and the shako, lounge suit and motoring coat as named dress. Their class and period law is carried by the successors.",
+   "Photograph of Essence workings as a plate artifact. It became limners who cannot paint an aura right.",
+   "The first film of a train arriving: now a lantern show of a wain arriving at the city's gate."
+  ]
+ },
+ "inventories": {
+  "pages_changed": [
+   "desktop/style-bank/accord.md: the heaviest edit, about 80 replacements across the header, passages 1 to 5 and the texture table. Meters, mains, spurs, cutters, wire, tram wires, papers, the Board and a watch-chain are gone. All five passages kept their beats.",
+   "desktop/style-bank/kharven.md: the coil tape is in Concord letters instead of Concord type, CURRENT AT CONTACT became AETHER AT CONTACT, and the texture note no longer mentions wire.",
+   "desktop/style-bank/mahuo.md: musket, ball, pan, muzzle and pistol became crossbow and bolt, the fuse became dry thatch, and Jeong-bo and the Measurewright now argue about pull instead of draw.",
+   "desktop/style-bank/lineage-halls.md: draw contracts became Core contracts, conduit became ward, trade supply became trade work, and standpipes became assay posts. Gu Yongmo's train became a carrier's wagon on the kept road.",
+   "desktop/style-bank/moto.md: draw-hum became hum, and type-hammers became stamp-hammers.",
+   "desktop/style-bank/archive-study.md: exact scene quotes are untouched. One sentence in Source order and one clause on E6 say the retired setting in those scenes is read for craft only.",
+   "desktop/style-bank/exemplars/CITY_AND_MAGITECH.md: heading and intro changed, filename kept. Both examples now run on wardens' lamps, wards, parish stones and wardens walking, and their name and teaches attributes changed.",
+   "desktop/style-bank/exemplars/EMOTION_AND_BONDS.md: standpipe steps became parish stone steps, and the barrel-organ became a hurdy-gurdy.",
+   "desktop/style-bank/exemplars/TECHNIQUE_DISPLAY.md: the cannon in a cellar became a cask bursting in a cellar.",
+   "desktop/style-bank/exemplars/VILLAINS.md: the Draw and draw language became pull, Cores and somebody else's ground. The Margin argument is intact.",
+   "desktop/style-bank/fight-exemplars/EXEMPLARS.md: the Working Card now pulls Aether off the ground, refines it in the Crystal and drives Essence out through the Shell. The pistol shot and the standpipe line are gone. In the-turn-and-the-kill, drain-plates became ward-plates, the main became a licensed Core and cells became stones.",
+   "No change needed: exemplars/COURT.md, exemplars/DIALOGUE.md, exemplars/QUIET_AND_TRAVEL.md. None carries a retired item from the brief's list.",
+   "No passage was left unsaved, so there are no replacement suggestions. Accord passages 1 and 3 and the-turn-and-the-kill looked built around retired things, but noun swaps saved all three. wotr-mcp verify gave 0 fail, 0 warn on each. The other edited passages were not run through verify. Nothing committed."
+  ],
+  "inventions": [
+   "Accord passage 1: the crime is now a botch, a stolen glyph cut low on a parish stone and wrapped in tarred cord, sending the stone's heat through the wall to the tenements. The arrest words are 'you are taken for a botch on the company's stone. Sine sigillo.' Josiah Pell is listed as a botch-cutter in the texture table.",
+   "Accord: beacon-boy, beacon office and beacon slip replace wire-boy, wire office and the wire itself. Nine-word slips fit the beacon line's twenty-word price.",
+   "Accord: snuffing week, the snuffer's long iron hook, a struck district, door lamps at knee height under the company's seal, and the rhyme line 'Snuffer, snuffer, at the gate'.",
+   "Accord: the Pellow Street stone burst, and Clemency held its ward shut. An assay post with a warden-lit glass stands in for the meter, in the place where the old fight had it.",
+   "Stamp-arm (Accord) and stamp-hammers (Moto): the coil's tape is now a stamping Guild contraption, not type.",
+   "Lineage halls: Core contracts bought forward, meaning the district's hours at a Lower Ferry Core.",
+   "Fight exemplar: Valdric walks between ward-plates set over a licensed Core under the Market, carrying a bag of stones good for fifteen to twenty minutes. 'Parish water' replaces the district water line.",
+   "All of the above are style-bank illustrations with pending status, never canon by themselves."
+  ],
+  "calls": [
+   {
+    "call": "Kept the coil tape and the readout blocks, changing only type, ticker and prints to stamp words.",
+    "grounds": "The brief retires printing, and movable type reads as printing. A die stamp is medieval, and R82-37 allows contraptions. The re-assay beats and 'the tape read aloud' depend on the tape, and rebuilding them would be restructuring. Isaac may prefer a clerk's hand."
+   },
+   {
+    "call": "Left the coil's 'wire' in the lineage-halls file, and 'closes the circuit' in Accord.",
+    "grounds": "The Night Watch and The Apparatus of the Age still give the coil a wire and a wound conductor. These are an instrument's parts, not the retired telegraph."
+   },
+   {
+    "call": "Left archive-study quotes exact, including the eastbound engine at E6 and the cutter's notice at E27, along with its descriptions of conduits, valves and the wire.",
+    "grounds": "They are byte-checked citations of archived scenes, and R83-14 only allows draw language to change in those scenes. I added a short note on the retired setting instead."
+   },
+   {
+    "call": "Kept the name Overdraught, kept 'taking its evening draught' as a plain drink image, and dropped draughts from the Accord units list.",
+    "grounds": "A draught was defined as a bore at main pressure, so the unit goes. The surname still works as an overdraft pun and the texture row now says that."
+   },
+   {
+    "call": "Replaced 'The look is the Victorian imperial of R53-28-VISUAL_REFERENCE' with 'the bright medieval city of R83'.",
+    "grounds": "R83's look governs the setting. I did not touch or rule on R53-28 itself."
+   },
+   {
+    "call": "Changed barrel-organ to hurdy-gurdy and watch-chain to purse-chain, though neither is on the brief's list.",
+    "grounds": "R83: what is built and carried stays medieval. Both were one-word fixes, and the pocket watch sits on the old railway page."
+   },
+   {
+    "call": "Left other off-list anachronisms alone: the smallsword in a cane and mail under a good coat (lineage), Corporal and Colonel (DIALOGUE), the hired carriage (COURT), pencils, shillings and pence, and the tall hat.",
+    "grounds": "They are not on the retired list, and the instruction was to make the smallest change. Isaac can name any he wants gone."
+   },
+   {
+    "call": "Changed 'I told them we were drawing too much' to 'paying too little', and 'Has someone cut the line?' to 'Have the wardens walked?'",
+    "grounds": "A plain swap to 'pulling' would not explain a street going dark at once. The wardens' stoppage in Who Pays for the Lamp does."
+   },
+   {
+    "call": "Left existing sound words as they were and added none. 'The pan flashed' became 'The string let go', not a sound word.",
+    "grounds": "Direction for this task, pending Isaac's decision on onomatopoeia."
+   }
+  ],
+  "canon_conflicts": [
+   "The live wiki still carries the old setting these samples no longer use. Weight, Measure and the Standard defines the draught at main pressure, and The Apparatus of the Age still has railway, station and pocket-watch text. This is expected until those sections are rewritten (R83-13).",
+   "The Accord Deafs row still quotes the Inventory's 'a cut district is deaf', because desktop/inventories/accord.md still says it. The quote should change when the Inventory does.",
+   "R53-28-VISUAL_REFERENCE (Victorian imperial look) was cited by the Accord header. If it is still live in the rule index, it contradicts R83. Not ruled here, so this needs a row or a ruling from the session that can log one."
+  ],
+  "other_pages_needing_change": [
+   "desktop/style-bank/README.md: the Accord row still says 'The grand magitech city'. It was not in my file list, so I left it.",
+   "desktop/inventories/: lines naming the old setting's terms (mains, wire, guns, rail and so on) by grep count: accord.md 17, eresse.md 4, dawi.md 3, stannvaard.md 2, nalun.md 1. Accord line 17 is the whole cut-district entry, and the samples tell Natalie to consult these files.",
+   "desktop/style-bank/wellspring-signatures.md: 2 grep hits for the same terms, not inspected or changed (off limits). It also shows as modified in git, and that edit is not mine, so another session is probably working on it.",
+   "desktop/style-bank/archive-study.md links point at ../../scenes/, but the files I checked (mu_jin_the_card.md, the_leveller.md) were found under lore/v1/scenes/. Some links are probably stale.",
+   "British spellings remain in sentences I did not touch, such as 'realised' and 'initialled' in accord.md and 'recognised' in mahuo.md. Left alone under the do-not-improve instruction."
+  ],
+  "rename": [
+   {
+    "from": "standpipe (lit street lamp, Tallow Row)",
+    "to": "warden's lamp"
+   },
+   {
+    "from": "standpipe (street fixture or fixture in a cellar)",
+    "to": "parish stone"
+   },
+   {
+    "from": "standpipes along a district slope; meter on a wall",
+    "to": "assay posts; assay post"
+   },
+   {
+    "from": "the Board",
+    "to": "the company"
+   },
+   {
+    "from": "cutters; cutting week; cut district",
+    "to": "snuffers; snuffing week; struck district"
+   },
+   {
+    "from": "wire-boy; wire office; a wire",
+    "to": "beacon-boy; beacon office; a slip"
+   },
+   {
+    "from": "unlicensed spur on the main",
+    "to": "a botch on the company's stone"
+   },
+   {
+    "from": "district main (Tessaly's kill)",
+    "to": "licensed Core under the plate"
+   },
+   {
+    "from": "drain-plate",
+    "to": "ward-plate"
+   },
+   {
+    "from": "cells",
+    "to": "stones"
+   },
+   {
+    "from": "musket; ball; gun",
+    "to": "crossbow; bolt"
+   },
+   {
+    "from": "rail; third-class carriage; train; platform",
+    "to": "kept road; cheap bench of a carrier's wagon; wagon; station yard"
+   },
+   {
+    "from": "draw contracts",
+    "to": "Core contracts"
+   },
+   {
+    "from": "draw (taking Aether)",
+    "to": "pull"
+   },
+   {
+    "from": "ticker; type-hammers; Concord type",
+    "to": "stamp-arm; stamp-hammers; Concord letters"
+   },
+   {
+    "from": "heading: City and magitech exemplars",
+    "to": "City and living crafts exemplars (filename unchanged)"
+   }
+  ],
+  "retired_items": [
+   "Draughts as an Accord unit of measure: removed from the header's units list, no successor.",
+   "Tram wires, watch-chain and barrel-organ: swapped for rigging, purse-chain and hurdy-gurdy."
+  ]
+ },
+ "style-bank": {
+  "pages_changed": [
+   "desktop/inventories/accord.md: rebuilt. New head phrase, greeting diagnostic, time, objects, exchange, body, all five senses, Gone list (six entries, two new), the cradle belief, swear table, recurrence line and Release table with its sample line.",
+   "desktop/inventories/stannvaard.md: Guild hour, crier's bill and heralds' houses, the notch, literacy, worked conductor, and the 'On the lode' gloss.",
+   "desktop/inventories/dawi.md: two 'wire' mentions now read relays and beacon line.",
+   "desktop/inventories/expanse.md: the Tinker signal relay is now a shuttered beacon, marked (d), with a (d) note added. 'chiselled' spelled the American way twice.",
+   "desktop/inventories/ketsuen.md: 'node' to knot, 'grid' to ward-line, 'Nalūn's network' to Nalūn's seals.",
+   "desktop/inventories/moto.md: the Morote gloss 'the current's' now reads 'the Wellspring's'.",
+   "desktop/inventories/nalun.md: 'rail' in the worked-out faces is now 'sledge-ways (d)', with a one-line (d) note added.",
+   "desktop/inventories/kharven.md: spelling only, per the brief (hemorrhage, capitalized). No retired things were in it.",
+   "desktop/style-bank/wellspring-signatures.md: six cell or header edits. Vectoria header and Fractura hue now say dark blued steel; smells changed for Cataclysm, Tarturon, Sublimare and Contrition. All 76 table rows keep 7 columns. Wellspring names and the sound column are unchanged by diff.",
+   "Not edited, no retired things found: eresse.md, korvaeth.md, yukari.md. 'Songscript rail' is a musical line, and 'boards' is timber.",
+   "Not edited, per instruction: zettari.md.",
+   "Checks: rust/target/release/wotr-mcp validate exits 0 (PASS), though it does not read these files. Heading lines the MCP loader matches on, section labels and table row counts match the originals in all 12 inventories. No em dashes in any edited file. Nothing committed. Originals are saved at /tmp/claude-1000/-home-oridon-wotr-rule-index/eb3ad420-7ea3-4224-8056-a828beee7547/scratchpad/inventories.orig and /tmp/claude-1000/-home-oridon-wotr-rule-index/eb3ad420-7ea3-4224-8056-a828beee7547/scratchpad/wellspring-signatures.orig.md."
+  ],
+  "inventions": [
+   "Accord Gone, 'The fat ground (d)': derived from the Withering Era entry in The Concordance of Ages (seventy years, 'the thin', falling density).",
+   "Accord Gone, 'The eaten rolls (d)': derived from the Concordance line that the wars ate the records and the Archives' reading of 'dark'.",
+   "Accord greeting 'Still on the round?' (d), insult 'snuffed' (d), and Release words 'Off the seal', 'A round of his own', 'Unsealed' (all d).",
+   "Accord swear 'Cut his plate' keeps its name, with a new (d) literal meaning: the snuffers scratch through his stove plate for arrears.",
+   "Accord belief 'A cradle by the house stone (d)'.",
+   "Accord sense details marked (d): ozone near a Fulguria ward; chisel dust in the repair hours; a beacon clerk counting aloud; the warden's boy calling the round; a soft lead seal; a pot boiled at the parish stone.",
+   "Accord Gone, 'The round in a struck quarter' and the 'seeps' entry's last sentence: rebuilt on attested apparatus, not marked (d).",
+   "Expanse: the Tinker Signal Guild's shuttered beacon on the parliament roof (d). The Guild is attested; the beacon is derived.",
+   "Nalūn: 'sledge-ways' (d) in the worked-out faces.",
+   "Signature smells: lightning-split oak smoke (Cataclysm), iron scale and scorched salts (Tarturon), raw spirit off the still (Sublimare), vinegar wound-wash (Contrition)."
+  ],
+  "calls": [
+   {
+    "call": "Kept 'the hum', now the hum of a kept street (every ward and lamp carrying its Wellspring's note), and retired 'the hum under a district'.",
+    "grounds": "The task says to replace the hum of a district with a Dark Ages successor. The settled page Who Pays for the Lamp, section II 'The Hum', is that successor, and it calls the hum the room tone. Ketsuen's 'a warded house hums' stays for the same reason."
+   },
+   {
+    "call": "Took successor words from the staged rewrite in imports/drafts/wiki-rewrite/trade/wiki, not the unconverted live wiki: nine-word beacon message, beacon boy, Guild hour on the great water clock, heralds' houses, house stone, snuffer's cap and scribing iron, tundish on a Core's bronze ferrule, draughts, worked conductor.",
+    "grounds": "That staging is the current reading of the brief and these inventories should agree with it when it lands. If it changes before landing, these words need rechecking."
+   },
+   {
+    "call": "Kept arrays, forge-arrays, the tender's shake, array-ground bread, the copper famine and mine scrip.",
+    "grounds": "The staged trade pages keep all of them as standing runed workings, and none is on the brief's retired list. Only 'drawn conductor' changed, to 'worked conductor', matching the staged Value, Coin and Trade page."
+   },
+   {
+    "call": "Kept 'draughts' in that spelling for a Core keeper's billing, and changed the Accord cradle's 'draught' (a cold breeze) to 'draft'.",
+    "grounds": "The staged Weight, Measure and the Standard page says the keepers keep the old spelling on purpose. The breeze sense falls under the American spelling rule."
+   },
+   {
+    "call": "Kept the 'Cut his plate' row name instead of replacing the swear.",
+    "grounds": "'Keep insults unless they name retired things': the staged Forge-Array Stove is a plate cut by a ward-cutter, so the word survives with a Dark Ages meaning, and the row stays in step with the wiki's Swears page."
+   },
+   {
+    "call": "Changed 'market inspector' to 'market searcher' throughout.",
+    "grounds": "The brief retires inspectors, and the staged Materials page already has 'every market searcher taps'."
+   },
+   {
+    "call": "Dated the Accord present as 'Year 715 In Concordance, the twenty-fifth of the Dark Ages', and tied 'nobody dreams in it' to the chancery's Latin on the entry.",
+    "grounds": "The brief's date rule and The Concordance of Ages. The old clause depended on 'Imperial Age'."
+   },
+   {
+    "call": "Kept 'network' and 'before the network' in Ketsuen; changed only 'node', 'grid' and 'Nalūn's network'.",
+    "grounds": "The ward-network is carvers keeping posts by hand and is attested throughout the Ketsuen wiki page, so it fits the living-crafts rule. 'Grid' and 'node' read as utility words."
+   },
+   {
+    "call": "Kept 'plate' in Moto (lacquer on plate, the mail under the plate, 'against plate, do not behave like a poet').",
+    "grounds": "The staged Apparatus page lists mail under a coat of plates or a breastplate as field harness. Only full plate is Imperial Age. The poet line is a fixed quote."
+   },
+   {
+    "call": "Kept 'ozone' in Nalūn and in the signatures, and 'oxygen-sweet' in the signatures.",
+    "grounds": "Ozone is the smell after lightning and oxygen is a scientific term; neither names a retired object. R83-11 lets modern science explain."
+   },
+   {
+    "call": "Fixed two signature words not on the task's list: 'volatile solvent' (Sublimare) and 'antiseptic' (Contrition).",
+    "grounds": "Both name modern products, and R83 keeps what is built and carried medieval. The task said 'and the like'. This is the broadest reading of 'fix only', so strike them if it is too broad."
+   },
+   {
+    "call": "Left in the signature sound column, per the task: Manganthra 'a soft fizz like a dissolving tablet', Anamnesis 'tape-hiss, a faint hum', Pyreveil 'furnace draw', Rebirthine 'a soft crackle of cells'.",
+    "grounds": "Isaac has not decided on onomatopoeia and this pass leaves sound descriptions alone. 'Tablet' and 'tape-hiss' do name retired things and need fixing whenever that decision lands. 'Furnace draw' and 'cells' are ordinary senses."
+   },
+   {
+    "call": "Left 'spiralling' (Cymorath) in the signature file.",
+    "grounds": "'Fix only' outranks the brief's spelling rule there. It is a one-word fix for a later pass."
+   },
+   {
+    "call": "Added short (d) notes to the Expanse and Nalūn inventories.",
+    "grounds": "Those files had no derived marker, and the task asks for markers on what is derived. The notes sit after the title, as in Accord, Dawi and Korvaeth, and do not touch the heading line the loader matches."
+   }
+  ],
+  "canon_conflicts": [
+   "The task names 'charged cell' as a signature-file example, but no such phrase is in wellspring-signatures.md. Nothing was changed for it.",
+   "The Stannvaard inventory and the live Guild Seat page carry the Tender's Obligation (lifetime support for the shake), while the staged Master Material Ledger says 'No compensation scheme exists in any quarter'. This predates the pass. I left the inventory following the Guild Seat page. Not ruled here, so it needs a CONFLICTS.md row if it should stand.",
+   "lore/v1/scenes/the_leveller.md line 27 has an NPC say 'Still on the main, Lister?'. The inventory now gives 'Still on the round?'. Under R82-47 and R83-14 the launching session decides whether the scene takes the draw-language edit or the old phrase stands as an older usage."
+  ],
+  "other_pages_needing_change": [
+   "desktop/inventories/zettari.md (another player's, left untouched), line 3 'working a poor draw well'; line 41 'the one the gauges call asleep'; line 76 'the current itself' (Agano Release gloss). Line 7 'whose hearth you draw on' is ordinary English and fine.",
+   "wiki/Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults.md: line 93 'Chartered, metered and entered'; line 108 'Cut his plate' row; line 266 'The Draw' section with 'Oil-burner' and main-district speech. The inventories call this page canon, so it should follow the Accord row.",
+   "wiki/A Reader's Codex.md lines 31 and 191 (charged district, hum on a main, spur).",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age.md lines 285 to 289 (mains, standpipes, cut plate, Boards, unmetered tap).",
+   "wiki/Cosmology & Metaphysics/Faith and the Powers Above/The Faiths of the Four Quarters.md lines 82 and 139 ('a current runs close', the almanac as printed sheets taxed as printing).",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/The Hobgoblin Expanse.md line 117 'signal relays': check it against the inventory's shuttered beacon.",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard.md, and the other live trade pages, until the staged rewrite lands.",
+   "Companion docs still matching retired-word searches, outside my files: desktop/style-bank/lineage-halls.md, desktop/style-bank/archive-study.md, 'desktop/WOTR_Manual_Verification_Guide (2026-09-26 edition).md', and both WOTR_Combat_Craft_Guide editions.",
+   "Rule row R50-23 is cited by the Accord Release block. I did not check whether the rule text quotes 'off the meter'; a grep of rules/ for 'off the meter' and 'main of his own' found nothing."
+  ],
+  "rename": [
+   {
+    "from": "Chartered, metered and entered",
+    "to": "Chartered, sealed and entered"
+   },
+   {
+    "from": "Still on the main?",
+    "to": "Still on the round?"
+   },
+   {
+    "from": "cocked (insult)",
+    "to": "snuffed"
+   },
+   {
+    "from": "the meter by the door and the Board's seal",
+    "to": "the lamp stem by the door and the company's lead seal"
+   },
+   {
+    "from": "standpipe",
+    "to": "parish stone"
+   },
+   {
+    "from": "gauge-housing / gauge-house",
+    "to": "assay post (and beacon-house, for the Guild hour)"
+   },
+   {
+    "from": "stopcock and the cut plate",
+    "to": "the snuffer's scribing iron and his cap"
+   },
+   {
+    "from": "inspector / market inspector",
+    "to": "searcher / market searcher"
+   },
+   {
+    "from": "gauge (the inspector's)",
+    "to": "assay fork"
+   },
+   {
+    "from": "chartered Board",
+    "to": "chartered company"
+   },
+   {
+    "from": "the wire, nine-word wire",
+    "to": "the beacon line, nine-word beacon message"
+   },
+   {
+    "from": "wire-boy",
+    "to": "beacon boy"
+   },
+   {
+    "from": "broadsheet",
+    "to": "the crier's bill, hand-copied and posted on doors"
+   },
+   {
+    "from": "news houses",
+    "to": "heralds' houses"
+   },
+   {
+    "from": "printed sheet (almanac)",
+    "to": "hand-copied sheet"
+   },
+   {
+    "from": "The main in a cut district",
+    "to": "The round in a struck quarter"
+   },
+   {
+    "from": "A cradle by the meter wall",
+    "to": "A cradle by the house stone"
+   },
+   {
+    "from": "Off the meter",
+    "to": "Off the seal"
+   },
+   {
+    "from": "A main of his own",
+    "to": "A round of his own"
+   },
+   {
+    "from": "Unmetered",
+    "to": "Unsealed"
+   },
+   {
+    "from": "Year 715 of the Imperial Age",
+    "to": "Year 715 In Concordance, the twenty-fifth of the Dark Ages"
+   },
+   {
+    "from": "gunmetal",
+    "to": "dark blued steel"
+   }
+  ],
+  "retired_items": [
+   "The signal net (Accord Gone): no successor object; the entry now says the news stops at a struck quarter's edge.",
+   "'Pressure' as what the Accord neighbors' greeting reports: gone with the main, replaced by whose round, what grade of ground and whether the wardens are walking.",
+   "No prices were retired. No inventory entry was removed; every Gone entry and belief was rewritten, not cut."
+  ]
+ },
+ "cross": {
+  "fixed": [
+   "Lost facts: none found. Number-by-number, table-row, heading and sentence-overlap comparisons of every page against wiki/ showed only retired items, and links, embeds and frontmatter are intact except the deliberate Shot-to-Bolt rename. The only numbers still flagged are the 1800/1900/R53-01 citations in The Real Alchemy, retired with the instrument claims, and a punctuation change (1850).",
+   "Protected sentences: all eight are present. The Voidfall sentence is split by bold markers exactly as in the live page, so it fails a plain string match but its line is unchanged.",
+   "Date contradiction, News: Ouzel 'lived another thirty years' after Year 706 ran past the present of 715. He is now alive nine years on.",
+   "Physics contradiction, Master Material Ledger: Nessa Hegg's cage went from a child's weight to forty tons, but Weight Ablation halves a load. It now goes from twenty tons to forty.",
+   "Calendar contradictions: the WOTR calendar has thirteen 28-day months and no such weekdays. 'July' and 'January' (Works and Days) and 'every Thursday' and 'the weekend' (Heresiology) are replaced.",
+   "Item names: 'pocket dial' in Works and Days now reads Pocket Reed, as on Apparatus. Blackcap Sulfide (Item Tiers) and Gray Standing Chalk, Bone-Gray Compress and Gray Bride (Standing Index, Real Alchemy) now agree with the Materials pages and with Alchemetrica.",
+   "Trade names: the old engine man had three names. Mill-Warden in Works is now also called a wheel-man, and the Ledger's unsealed-field row says wheel-man and matches Apparatus. Apparatus goes back to ward-carver on the Well and Ward-Perimeter, as Works defines the trade, with a gloss.",
+   "Snuffer tools: Value's 'stroke through a ward, four seconds' contradicted Apparatus's cap. Value now restores the cap at four seconds and adds the scribing iron. Works' snuffer now also caps the house stone.",
+   "Retainer table: the payers in Works now match What Things Cost word for word, which also removes 'merchant house'.",
+   "Instruments: The Real Alchemy said no WOTR bench instrument reads a furnace while Alchemetrica sells bead-glasses and trial-cones. Real Alchemy now names them as crude cousins and restores the law that nothing reads the charge in a sealed vessel.",
+   "Deaf district: Apparatus's 'blind' is back to deaf, agreeing with News and the Accord Inventory. The Withering gloss no longer says 'epoch-scale' against the seventy years on Value.",
+   "Duplicate invented names changed: Tamsin was used three times (now Avis Reedmace, Damaris Corbie, with Tamsin Cordwain kept). Marrable was used twice (now Bettany Quarrie). Maud collided with live pages (now Elder Hawise Bretton, Aunt Griselda). Fat Marguerite and Fat Margery (now Golden Purse), Merry Widow and Dorcas Merry (now Bold Annis), Marrowgate and Marrowford (now Winnowgate), Gannet Row and Gannet Bar (now Pomfret Row), Ostrey as both lord and town (now Lord Aumbrey), Harl Cross (now Tern Hollow), Fish Row (now Eel Row).",
+   "Repeated devices varied: five skipping rhymes cut to two. The number thirty-one, used in five stories, stays only for the Works layer-outs, and a run of elevens was thinned. 'Self-' contraptions, the mallard-green image, the gold fan and pie-sellers are each varied.",
+   "The brief's sample image: the bookie's broken foot is gone. Works' bookie now has broken fingers.",
+   "Opening shapes: Bolt and the Master Material Ledger no longer both open 'They buried X at Y'; each now starts at the death and ends on the funeral. Common Drafts now starts in the riot on the strand, so it no longer opens like Value's shipwreck. Apparatus's suit line is shortened so it does not repeat Weight's.",
+   "'It's not X, it's Y' cousins recast, facts kept: Standing Index (two), Value (one), Works (one), Apparatus (one). Heresiology typo 'village.s' fixed.",
+   "'Nothing goes through the open air' contradicted its own paragraph, where the coupling crosses a hand's breadth of air. It now says nothing travels farther than that hand's breadth.",
+   "Works and Days: 'late span', 'early span' and 'plantation' are gone, and the modern phrase 'Mass production' is reworded.",
+   "Style bank: inspectors in accord.md now read searchers. The Deafs row quotes the Inventory's current 'a struck quarter is deaf'. Draughts are restored to the Accord units list, because Weight §VII and the Stannvaard Inventory keep them. README's 'magitech city' is gone. British spellings fixed in the passages named: accord, mahuo, moto, lineage-halls, EMOTION_AND_BONDS, and 'spiraling' in the signatures. No sound words were touched.",
+   "Onomatopoeia on wiki pages: none found by pattern scan or in the changed text I read, so nothing needed repair. Full plate as a Dark Ages thing: none. Main cast, secrets, other creators: nothing added; the Agano rows changed punctuation only. Zettari inventory untouched. wotr-mcp validate exits 0, but it does not read the staged wiki files or desktop/. Nothing committed."
+  ],
+  "unfixed_problems": [
+   "Launching session, rule rows: rules/doc-shot-and-enhanced-weapons.yaml (R45-1 to R45-5 summaries, loci and the R45-4 and R45-5 verbatims) and the rules/doc-item-tiers.yaml summary still read as firearms law. They must change when the page lands.",
+   "Launching session, the rename: wiki/INDEX.md line 286 and .manifest.json must follow Shot to The Bolt and the Enhanced Weapon. The brief's validator list names the old path. Brief says keep filenames, so confirm Isaac accepts the rename.",
+   "Isaac's call, the reference bolt: 16 g at 235 m/s and 440 J is not what a steel bow can throw. The page admits it as an in-world quarrel. He may want it re-derived.",
+   "Isaac's call, retired items carried over: Carry-Stone (charged cell), Stone Coach (motorcar), Common Wain (tram), Essence Wheel (draw-engine) and Tins are arguably retired items under new names, kept under the keep-figures rule.",
+   "Isaac's call, the Works and the Mill chapter: Long Shop, boots by the thousand pair, the trades 'the works are killing', Apparatus's cheap steel. It is still the industrial-age argument in medieval dress, with no factory named. A real fix means restructuring, and nothing-is-lost forbids cutting it.",
+   "Isaac's call, names kept: item names with 'Draught' (Grace Fall Draught, Anamnesis Draught and others), keepers' 'draught', Vein Draw, Crystal Draw and Sovereign Draw, Palebed Nitre, Greystone and Greyshaft. A scene using 'Draught' may trip verify_scene.",
+   "Bone-Gray Compress: the rename differs from rules/doc-world-texture-law and rules/doc-combat-law, which say Bone-Grey. Those rows were left alone. Live pages must follow Gray and Sulfide: The Bearing and the Holding, The Inner World — The Northern Shield, The Long March.",
+   "Conflicts only a logged ruling can settle: Prepared Tags (maker's color; paper, leather, slate) against Runes and Tags (user's color; paper, hide, bark, foil). Master Material Ledger and Works 'no compensation scheme' against the Stannvaard Inventory and Guild Seat 'Tender's Obligation'. Cutwater and Hillcarry classes differ between Standing Index and Common Drafts.",
+   "More conflicts for a ruling: Standing Index 'forty-five entries' and 'four T9' against its 46 rows and 5 T9 rows; 'only Class VI' in the Alchemical Index against two more Class VI rows; hub 'The Three Marks' with classes up to VI; R83-4 merchant houses against the factor houses kept here. RULINGS answer 101 and C-096 should be read as superseded by the fight Draft law.",
+   "lore/v1/scenes/the_leveller.md line 27 says 'Still on the main'; the Inventory now says 'Still on the round?'. It needs an R83-14 decision.",
+   "wellspring-signatures.md sound column still has 'dissolving tablet' and 'tape-hiss'. Left because the onomatopoeia decision is pending.",
+   "Who Pays for the Lamp says the waystone twin 'takes the heat'; Apparatus says it feeds a Vectoria wheel. These are compatible, but the wording differs on a page outside staging. The Common Wain's copper-a-ride fare is new and has no source.",
+   "Opening shapes that remain, because each story depends on its form: four funerals (News, Works, Heresiology, Tags), four lawsuits (Cost, Weight, T0-T4, Standing Index), three ships (Value, Weight, Common Drafts).",
+   "Live pages outside staging that still carry the old setting, by report and grep: Articles of the Accord Title IV, Swears, Oaths and Insults, A Reader's Codex, Powers of the Imperial Age, Faiths of the Four Quarters, Draconic Lineage, Concord Military, Order of Battle, Obelisk of the Eclipsed Dawn, Well-spawn, Long March ('refilled by a Wellspring').",
+   "To check against these pages at landing: Bench of Attribution, The Crossing, Hobgoblin Expanse, the Alftian Codex shelf, and the Combat Craft and Verification guides in desktop/."
+  ],
+  "not_read_closely": [
+   "The Real Alchemy: only changed hunks and new sections; unchanged real-history entries were scanned by grep and numeric diff, not read.",
+   "Alchemical Index, Material Index T0-T9, Standing Index, Common Drafts and Hide: changed rows only, and most long changed rows only to about 1,000 characters, plus a scripted scan of later changes. Unchanged row prose was not re-read, and row physics was not checked.",
+   "Heresiology and Alchemetrica: changed lines only, not the unchanged doctrine between them.",
+   "Value, Coin and Trade: word diff only, not a full read of unchanged text.",
+   "Style-bank passages: changed sentences in kharven, mahuo, lineage-halls, moto and the exemplars, and most of accord only through changed lines clipped to about 600 characters. archive-study only at its two added notes.",
+   "verify_scene was not re-run on the style-bank passages after my small word edits.",
+   "Inventories: diffs clipped to about 700 characters and a retired-word grep; the long Food/Greeting/Objects lines beyond that, and eresse, korvaeth and yukari, were not read in full.",
+   "Onomatopoeia and retired words on wiki pages were checked by pattern scan plus the text read, not by reading every unchanged table cell.",
+   "Canon sources (sources/, Master Codex) were not opened; facts were checked only against wiki pages."
+  ],
+  "strongest_openings": [
+   "The Heresiology of Alchemy: Odger Marrable buried twice.",
+   "The Works and Days: the Anvil-Eater, Gammer Lubbock and the bowl of peas.",
+   "News, Rumor: Long Cuddy Ouzel, who attended his own funeral.",
+   "The Standing Index: Lord Bartholomew the cat.",
+   "Alchemetrica: Candle Wharf and the widow with the ladder.",
+   "Prepared Tags: Tamsin Cordwain signing her name up the Stair."
+  ],
+  "weakest_pages": [
+   "The Apparatus of the Age, 'The Wheel and the Road' and 'The Stone Coach': the old machine age renamed, and the page that most needs Isaac's call.",
+   "The Works and Days, 'The Works and the Mill' and 'The City the Works Built': bright prose on an industrial skeleton.",
+   "Value, Coin and Trade: the opening is good, but below it the Essence supply contract and array economy still read as an industrial utility.",
+   "The Real Alchemy: sound, but its long wellspring mapping tables are the driest new material here."
+  ]
+ }
+}

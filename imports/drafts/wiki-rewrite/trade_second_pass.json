@@ -1,0 +1,206 @@
+{
+ "arms": {
+  "retired": [
+   "Apparatus: Chain Engine (rare, state-owned, crew of six, windlass and chain, hopper, water trough). No price was listed. Only the name joke Aunt Griselda survives, moved to a single-shot springald.",
+   "Apparatus: Stone Coach (carry-stone chest, wheel, iron tires, two horses doing the work of eight). No price was listed.",
+   "Apparatus: Common Wain (fixed city route, bell, head-counting boy, 1 copper a ride), and with it 'the city wider than a walk' and the terraces at the end of each route.",
+   "Apparatus: Grip Wain (Chthonica-inscribed wheels in cut stone ruts, including 'the pass roads exist because of it' and the fouled-rut failure). Pass roads now belong to the mule.",
+   "Apparatus: Ablation Hulk (twice-rated cargo ship, breakaway shackles, drop-master). The Weight Ablation harness and the winding-house bell stay.",
+   "Apparatus: Copy-House (thirty hands to a bench through the night, ballad sheet, painted almanac and romance in parts as cheap products). The 1 and 3 copper prices stay only as short bills, see calls.",
+   "Apparatus: Limner's Card (studio, painted backdrop, head-clamp, a card in every middle-class parlor, watch registers keeping a face beside a name). No price was listed.",
+   "Apparatus: Pocket Reed (pewter, silver and gold grades, the clerk's first possession). No price was listed.",
+   "Apparatus: Beacon-House Regulator as a clock in every beacon-house and assay post, plus regulator-cutters and the pitch book for each house.",
+   "Apparatus: the carriers' table (hand-copied timetable nailed to every waystation door), and 'the time is the Guild's time' agreeing to the count.",
+   "Apparatus: Tins (hand-soldered canisters, tinsmith's boy, sold by the shelf, Greaves tin as 'the ration can').",
+   "Apparatus: flushing plumbing (piped water in the rich districts, a flushed garderobe on each floor, drained cellar, a tap in the yard, the parish pump).",
+   "Apparatus: Forge-Array Stove (fuel-free household stove on the warden's round).",
+   "Apparatus: House Stone (household feed under the stair for stove, lanterns and door inscriptions).",
+   "Apparatus: Cold-Box as a household appliance (sealed-house fee, clerk's grade and up).",
+   "Apparatus: Icebox (zinc-lined, iceman three mornings a week) and the Ice Trade as an ice-house at every road-head and harbor.",
+   "Apparatus: the early line and the new line as uniformed regiments (facings, drill on the square, drab coats, a bright coat marked at five hundred paces, the trench).",
+   "Apparatus: bench-made mauve and magenta at the price of woad.",
+   "Apparatus: steel 'cheap for the first time in history', poured by the ton, and steel as a fence post.",
+   "Apparatus: rubber hose, belt, gasket and the fire company's hose; gutta-percha sheathing Stormfulgur trunking under rivers; bench horn and resin as cheap everyday goods.",
+   "Apparatus: 'every wheel in a district', the spinning house, the shop on rich ground, one wheel-man and thirty hands at the bench, the kept road being built mile by mile, the snuffer's cap stopping a wheel, and every wain-route wall carrying a bill.",
+   "What Things Cost: 'A seat on a kept road', open bench and under the hood, as a fare service. The note that a hundred miles is four silver 'and a long day' is gone. The per-mile figures survive as a haggled place on a wagon, see calls.",
+   "What Things Cost: Belt-bow at 3 to 4 gold, 'the officer's weapon, and the city's'. Now 8 to 15 gold, see calls.",
+   "What Things Cost: sealed household's 'heat' and 'stove' are removed from the row. Figures stand, see calls.",
+   "What Things Cost: 'A letter ... sealed at the counter', 'A doctor's visit ... at a dispensary', 'working jacket' and 'greatcoat' as wording. Figures stand."
+  ],
+  "replaced": [
+   "Apparatus, The Common Table: rushlight, Tile Stove, Warm Stone, Common Oven.",
+   "Apparatus, The larder and the well (was 'and the tap'): Salt, smoke and fat; the Ration Barrel; Snow and the Ice-House as a lord's luxury; Master Lambkin Frake's Everlasting Winter Cupboard, a chained one-off at Marchbank that keeps the law of carrying heat out; carried water, abbey conduits, the parish well, gong-farmers and water-carriers.",
+   "Apparatus, Station in cloth: alchemist-dyers' one-off vats, fripperers and sumptuary rolls. The joke about the fishwife in the duchess's shade and the move from color to cut are kept.",
+   "Apparatus, The hour: Guild hour on water clocks, carried by rider, sand-glass and beacon, with no two halls agreeing; the work bell and Jonet Teasel's sixty silver in a wheelbarrow at Cardmere, Year 694; the Stannvaard Bar (one object, by Measurewright Aldith Quernby, a pitch standard for tuning forks and coils); the Sand-Glass; the Pocket Dial in boxwood, brass, and ivory and silver.",
+   "Apparatus, The Soldier's Kit: 'The sworn company and the guild-muster' replaces 'The line regiment'. The pavise company has loud painted shields, stakes, horse-pits and the spade. The sewn collar color and the red tabard line are kept.",
+   "Apparatus, Bolt and proof: Belt-Bow as a rare hand crossbow from about a dozen bowyers.",
+   "Apparatus, Great Engines: springald added; rampart arbalest as a runed siege piece with Guild-cut limbs, still 400 m/s and up.",
+   "Apparatus, The wheel: the Mill (water, tide and post mills, trip-hammers, the lord's mill right, Abbot Odo of Sallowford's quern floor); the Essence Wheel as nine one-offs; Master Bevis Oakapple's Old Contrary, which ran backward through that parlor; the great wheel at Harle Weir keeping the 1 AU/s figure.",
+   "Apparatus, The road: the Carrier's Wagon and ox teams; Getting Across a City; the Kept Road as old work with toll-bars and no hours; the Carry-Stone as a flask-sized hand-filled object, keeping 2.5 EU per liter and a twentieth a day leak.",
+   "Apparatus, River and sea (replaces 'Of the age's own making'): the River Barge and the miller's war; the Great Yard at Saltash on the Venetian Arsenal model, hand-built, a galley a season.",
+   "Apparatus, The Beacon, the Scrivener and the Limner (renamed): beacon shut by fog and with Guild traffic first; Relay Riders on the Mongol model; the Scrivener and the Stationer, with exemplars rented by the quire; the door and the shopfront; the Limner's Miniature; the lead hero's badge; Lantern Shows and Singing Shells as fairground wonders.",
+   "Apparatus, The Stuff of the Age: dear steel, nailer villages, a new 'Wool and cloth' entry on the putting-out system and the carders' three-and-a-half-year government at Cardmere; Gum and gutta-percha as curiosities; Horn and resin under the Horners' Company; the Ledger's materials re-pointed.",
+   "Apparatus, 'The Works Beneath' (was 'The Infrastructure Beneath'): Pumping Array only in the few great shafts, with adit, horse gin and rag-and-chain elsewhere; Hexagonal Grid hand-cut under a few cities; Concord Gate wording.",
+   "What Things Cost, new rows: common oven, parish stone, water-carrier, warm stone, relay rider for one bag, place on a carrier's wagon, barge or ferry, hired hack, book, ox, toll on a kept road.",
+   "What Things Cost, new table 'The Hour and the Wonders': sand-glass, pocket dial, limner's miniature, hero's badge, lantern show or Singing Shell, carry-stone.",
+   "The Bolt and the Enhanced Weapon: one gloss added, the rampart arbalest as a runed siege piece. The law and the reference bolt (16 g, about 235 m/s, about 440 J, 43 ms) are untouched and the protected sentences were confirmed word for word by script.",
+   "The Item Tiers: read in full and passes the test. No edit, and its protected sentences were confirmed by script."
+  ],
+  "calls": [
+   {
+    "call": "Sealed household keeps its name and its 3 to 5 and 8 to 12 silver figures, and trade work keeps 2 to 5 gold. Each now buys only a warden's lamp and a cutter's ward by named hands under a lead seal. Heat and stove are removed, and hearth, warm stone and parish stone do that work.",
+    "grounds": "A monthly fee for heat and light fails the test as a utility. But lamp-wardens, seals, snuffers and fee strikes are settled in Who Pays for the Lamp and R83-8, and the task keeps facts that pass. A paid warden who can walk past your door is a person hired by hand. This is the closest call on the page, and striking the whole Bill table is a clean option if it still reads as a utility."
+   },
+   {
+    "call": "Belt-Bow price raised from 3 to 4 gold to 8 to 15 gold, on both pages.",
+    "grounds": "The task makes it a rare hand crossbow, and a rare master's piece cannot cost the same as an ordinary war crossbow. The claim 'most practitioners killed above Stage V' moved to the hand-spanned crossbow, which fits R83-5 and the Wenlock story."
+   },
+   {
+    "call": "The Stannvaard Bar keeps Basilithe's struck-bar mechanism and its shatter limit as one wondrous object that tunes forks and coils, and tells no time.",
+    "grounds": "The clock is retired, but the failure law is a real fact and a one-off passes the test. It could be read as close to a successor, and cutting it loses nothing the Materia page does not also carry except the shatter tell."
+   },
+   {
+    "call": "Guild hour stays as a term, kept on water clocks and hall bells, unsynchronized.",
+    "grounds": "Archived scenes (the_rinse, the_drawing_off, nirans_arrival, rovhen_the_sort) and the Stannvaard inventory use it. R82-46 keeps what scenes show. The timetable and the agreement to the count are what failed."
+   },
+   {
+    "call": "The beacon line keeps its price (1 silver for twenty words, a copper for each word after) and the beacon-boy, reduced to a few great roads, shut by weather, with Guild traffic first.",
+    "grounds": "Beacon chains are named as a good replacement and the price is on settled pages, but the old wording read like a telegram office. It is not on the retired list, so I shrank it and did not cut it."
+   },
+   {
+    "call": "The carrier's 1 copper and 2 to 3 copper a mile survive as a haggled place on a wagon, with a hundred miles taking eight or nine days. The letter's 1 and 2 to 4 copper survive as handing it to a carrier or merchants' rider.",
+    "grounds": "Routes and fares fail, but paying a carrier does not. Speed was the modern part of both."
+   },
+   {
+    "call": "The news bill stays 1 copper and the Guild's rate slip stays 3 copper, explained by shortness. A book is new at 2 to 10 gold plain, and 40 gold and up with gold in it.",
+    "grounds": "The task says bills are cheap only because a few words are posted, while a book costs what a book costs. The book figures are mine, scaled against horse prices."
+   },
+   {
+    "call": "New figures invented for the new rows: oven, parish stone, water-carrier, warm stone, relay rider, barge, hack, ox, kept-road toll, sand-glass, dial, miniature, badge, shell, carry-stone at 30 to 60 gold, and the lantern inscription fee at a gold and up.",
+    "grounds": "R79-11 allows invention where nothing covers it, and the page must not be left with gaps. All are consistent between the two pages."
+   },
+   {
+    "call": "Essence Wheel set at nine one-offs in the four quarters, rather than a single wheel. The 0.004 and 1 AU/s figures stay.",
+    "grounds": "The task allows one master's contraption or a single eased mill. Several separate one-offs keep both figures and the Ledger's unsealed field hazard, whose text names ground 'worked by engine or wheel'."
+   },
+   {
+    "call": "Kept road stated as old work no one living can extend, dated loosely to the Great Spirit War or the Physical Epochs, with Measurewrights disagreeing.",
+    "grounds": "The task says old work and R83-6 gives those eras. It contradicts other pages, listed under left_for_isaac."
+   },
+   {
+    "call": "Logistics and Supply Division keeps its name, and 'long-service' and 'munitions' stay.",
+    "grounds": "The Division's name appears on eight or more live pages, including The War Cycle, so renaming it here alone would break consistency. It names an office, not a utility."
+   },
+   {
+    "call": "The Essence Lantern stays at 3 to 8 silver, but now sits on streets, halls and the doors of those showing off, and ordinary interiors burn tallow.",
+    "grounds": "R83-8 and Who Pays for the Lamp need the lamp. The test fails it only as a household convenience."
+   }
+  ],
+  "left_for_isaac": [
+   "Pages outside this job still lean on retired items and need the same pass or a merge check. Works and Days in the staged tree: snuffer's cap over the house stone (line 133), Bench Hand and Mill-Warden shop-floor rows and 'mill that never tires' (273 onward), carter beaten by the kept road, one warden doing forty's work, fee-bound poor with heat by the month (288), waystones moving north yearly and the waystone cart (434 onward), cold-house, and the pocket reed (444).",
+   "News, Rumor: 'kept roads ... keep the carts moving through the night', 'a schedule', and 'The four quarters are no longer governed by the sun'. Master Material Ledger's hazard row keeps 'engine or wheel'. The Value page's bill paragraph still fits, but only if the sealed-household call stands.",
+   "Live wiki Who Pays for the Lamp, section III, still says 'Heat, light, warded doorframes, a working stove' for sealed household, and VIII calls the kept road 'a street that does not stop' with cut pairs at each waystation. It is outside the staged tree and I did not touch it, so it now disagrees with the price table.",
+   "desktop/inventories/accord.md has a cradle by the house stone and 'scratch through his stove plate'. stannvaard.md says Guild hour goes out to every assay post. The Accord style bank's snuffer material still works. These were not edited.",
+   "Archived scenes still show older gear, such as the gauge-house and Guild hour by click in the_drawing_off, and standpipes in rovhen_the_sort. Under R82-46 and R83-14 they stand unedited, and you may want a ruling on how far that reaches.",
+   "Calls above need logging by the launching session. The sharpest ones to strike or keep: the sealed household figures, the Belt-Bow's new price and the Stannvaard Bar.",
+   "Inventions are all new and unused elsewhere by grep: Cardmere, Jonet Teasel, Aldith Quernby, Lambkin Frake, Abbot Odo of Sallowford, Bevis Oakapple, Old Contrary, Harle Weir, the Great Yard at Saltash. Aunt Griselda was reused from the earlier draft. Nothing committed. Edits are only in the staged files: Apparatus, What Things Cost, The Bolt and the Enhanced Weapon."
+  ]
+ },
+ "work": {
+  "retired": [
+   "Works and Days: the Long Shop (timber hall with a shaft, row on row of looms, lathes, presses and stitching frames under one roof). Its dye-hall detail, 'raising no chimney' and the ceiling of crimson and saffron moved to the Fulling Mill and the Dye-Hall.",
+   "Works and Days: 'cloth by the mile, boots by the thousand pair, nails by the ton, press-screws' as long-shop output, and 'a thing made ten thousand times'. No price was listed. Bolts keep about three coppers.",
+   "Works and Days: 'A single works makes more in a day than a county's forges did in a season', and 'a mill that never tires'.",
+   "Works and Days: 'One warden does what forty did' and the forty lamplighters on the road. The forty also contradicted Who Pays for the Lamp, which has three hundred wardens to eleven hundred lamps.",
+   "Works and Days: the Arcade (a shopping arcade with beadles) and the shopwalker. Replaced by the Cloth Hall, and the cathedral joke stays.",
+   "Works and Days: the switchboard Hall Caller (in a row, young, unmarried by rule, supervisor behind every chair, dismissal on marriage). The name survives as one man bawling names on a Guild stair.",
+   "Works and Days: 'first office trade open to women in numbers' as the typing-pool framing of the Copyist. The bench, the pay and the 'ink' joke stay.",
+   "Works and Days: the playhouse and music-hall format (chairman, bill), the half-holiday, the fair-wagon and the paid seat; exhibition 'tickets' and 'moving pictures'.",
+   "Works and Days: the club, the working men's institutes, the penny bills and 'hand-copied gazettes'; the Pleasure Garden as a paid resort.",
+   "Works and Days: the house stone under the snuffer's cap, the snuffer's 'schedule', the sealed household's 'heat', the cold-house, the pocket reed, the waystone cart, waystones moving north each year, the beacon office as post office, the dispensary, and 'a clerk has never seen a tallow candle in a house'.",
+   "Works and Days: 'array-ground' flour, plumbing and gaskets, the 'compensation scheme', 'payroll' and 'salary' as wording.",
+   "Value: the Essence supply contract as a utility: 'right to be supplied', 'spot supply', and the unit defined as a myriad delivered daily. Forty and twelve silver stand, re-pointed (see calls).",
+   "Value: the array 'boom' as a repeating industrial cycle, and 'trunk run ... bus and tap'. The famine, nine statutes and three years stay.",
+   "Value: 'largest monopoly in the world' with its 'one iron disc', and the company store. Scrip survives as lead tokens at a pit-head stall.",
+   "News: the Post as a uniform prepaid national service with 'enormous' volume and a schedule. All timings stay.",
+   "News: kept roads keeping 'the carts moving through the night', and 'The four quarters are no longer governed by the sun'.",
+   "News: the correspondent, renamed pursuivant. The rate of about a third, the cap, the deposit and the night watch stay.",
+   "News: the whole Author Note on the Victorian telegraph (1837, 1850), railways, newspaper wires and the Penny Post (1840), including the wire journalism source for the distortion mechanic."
+  ],
+  "replaced": [
+   "Works and Days, The Works and the Mill: new opening on the carders' rising at Cardmere in Year 699, on the Ciompi model (fee quadrupled, burial club, three new guilds, three and a half years, ended by clothiers ceasing to put out wool).",
+   "Works and Days, same section: the Thirty Hands; the Clothier (putting-out system); the Fulling Mill and the Dye-Hall; What it makes; the Crown's bolts (a castle quarrel forge, about three coppers kept); Who owns it, now with alum and reds under charter.",
+   "Works and Days, trade table: the Bench Hand as unguilded cloth workers, keeping seven hours, half the Guild day, twelve days in every turn, stocks, deafness by forty, fines and Residue. New: Journeyman with brotherhood and foul shop, Cloth-Searcher, Miller, Yard Hand at Saltash. Mill-Warden now keeps one of the nine wheels. Overlooker kept.",
+   "Works and Days, 'The trades the works are killing' became 'The guilds at war': the Loom War of Year 671 at Nether Wadding; Cordwainer and Cobbler; nail-mongers paying in pins, girdles and ale; carters against barges and tolls; lamplighters against wardens; fee-bound poor on one lamp split among six doors.",
+   "Works and Days, 'The City the Works Built' became 'The City the Cloth Built': rows and rents, jettied stories, the Cloth Hall, a medieval Counter Hand on a seven-year indenture, Bill-Sticker with nails, raker.",
+   "Works and Days, Paper Trades: new Scrivener and Stationer row. Evening Trades: craft pageants on wagons, street racing and parish football, the confraternity as the real meeting room, the Feast Garden with the Merrow Hythe contraptions, and the lantern show at the fair.",
+   "Works and Days, The Age by Place: rewritten around rich ground and Guild halls, with the journey now wain, ox wagon, hack and mule, and a pocket dial.",
+   "Value, new section 'How Essence Is Actually Bought': a keeper's hours (walk-up hour, standing hour, book of hours, the Widow Pennifold's triple sale of Year 706); a crew's retainer with a worked great-shaft bill; a sealed flask on mule-back, four days to drown against five days and a quarter spent; what actually changes hands.",
+   "Value, The Long Reckoning: the forward market now grows out of abbeys selling wool off unborn sheep. The Withering and the peg are reworded onto hours. The rate table gains crew retainer and carry-stone rows, in What Things Cost figures.",
+   "Value: the bill is now a named warden's thread and a named cutter's ward. Copper famines follow each great array. The floor gains wage statutes. Scrip is lead tokens, with truck in pins and girdles beside it.",
+   "News: three channels are now the line, the bag and the mouth. The line is limited to the few kept roads, shut by fog, with Guild then Crown traffic first. 'II. The Bag' is letters handed to whoever is going, at What Things Cost prices, with relay riders at one to three gold the hundred miles.",
+   "News, The hour: carried by rider and sand-glass, no two halls agreeing, 'the sun has a rival'. Bills carry the Apparatus prices: one copper for a dozen words, three for the rate slip, and a book costs what a book costs.",
+   "News, Author Notes: rebuilt on the Byzantine beacon line, the Mamluk post, the Mongol yam and Persian road, and medieval merchants' couriers and newsletters. The timing table is unchanged except for two column labels and 'otherwise as the bag'."
+  ],
+  "calls": [
+   {
+    "call": "Kept the headings 'The Works and the Mill' and 'The Hall Caller', and renamed 'The City the Works Built', 'The trades the works are killing' and 'II. The Post'.",
+    "grounds": "Grep found no heading-anchor links into these pages, so renaming is safe. The brief asks to keep headings where possible, so I renamed only headings that stated the retired argument."
+   },
+   {
+    "call": "Kept 40 and 12 silver marks but re-pointed the unit to a standing hour: one named hour, one body on the lip, daily for a year. 'Standing myriad' stays only as the Accord's fossil name for it.",
+    "grounds": "Your instruction says to rebuild this as a keeper's hours, and a fact that passes survives. 'Myriad' as a term appears only on this page; The Mother's 'a myriad or two' is a loose count. This is the sharpest invention on the page, and Isaac can strike it."
+   },
+   {
+    "call": "'Book of hours' is the new term for a house's contracts. 'Supply book' and 'supply contract' stay once each as the older ledger word.",
+    "grounds": "Your retired list names anything phrased as supply, but Factions at a Glance, The Powers of the Dark Ages, the Nalūn page and desktop/inventories/nalun.md use the old words. Naming them as old usage keeps those pages readable until they are swept."
+   },
+   {
+    "call": "Invented the worked great-shaft bill: 8 tenders at the lip for 14 Guild hours, 16 men, 112 standing hours, about 370 gold a year to the keeper against 112 in Year 640, and about 1,730 a year to the crew at 9 gold a head.",
+    "grounds": "R79-11 allows invention, and you asked for the money people actually handle. The sums are 112 x 40 / 12, 112 x 12 / 12 and 16 x 9 x 12. It also explains why books outprice crews: men can be hired next week and sold hours cannot."
+   },
+   {
+    "call": "A rich mining house owns 'perhaps six' carry-stones and sends them on mule-back, which sits close to the Apparatus line 'few people have ever seen one'.",
+    "grounds": "You asked for sealed flasks on mule-back. I kept them rare by stating that nobody runs a shaft on them, that they only hold it until the crew comes, and that they keep the 30 to 60 gold price and the twentieth-a-day leak."
+   },
+   {
+    "call": "Cardmere's carders' government is dated Year 699, five years after Jonet Teasel. The three-and-a-half-year term follows the Apparatus.",
+    "grounds": "The Apparatus gives the term but no date, and it dates Teasel to Year 694. The date is mine, and nothing else on file fixes it."
+   },
+   {
+    "call": "Mine scrip stays as lead tokens, rather than being cut.",
+    "grounds": "desktop/inventories/stannvaard.md, accord.md and the Value page use it, and token money has medieval precedent. I removed the company store only."
+   },
+   {
+    "call": "Kept heralds' houses with the third rate, the cap, the deposit and the night watch, with correspondents renamed pursuivants.",
+    "grounds": "These are wire-press facts in origin, but as herald offices they pass the test, and desktop/inventories/stannvaard.md names three heralds' houses. Brief section 4 says facts that pass survive. It is the closest call on the News page, and striking it would not touch the timings."
+   },
+   {
+    "call": "Beacon timings in the table are untouched, but the column header now reads 'fog and Guild traffic allowing'.",
+    "grounds": "You said to keep the timings, and the Apparatus shrinks and weather-limits the line. A header qualifier does both without retyping a cell."
+   },
+   {
+    "call": "The 'relay net' opening of the hour and the Guild hour itself stay as the Apparatus has them, with its work bell mentioned.",
+    "grounds": "The Apparatus call kept Guild hour for archived scenes. I cut only the claim that the sun no longer governs."
+   },
+   {
+    "call": "Mallet replaces wrench in the Brida Voss epigraph, and 'Logistics and Supply Division' stays.",
+    "grounds": "A wrench reads modern, and that name occurs nowhere else. The Division name was already kept by the Apparatus call as an office name used on many pages."
+   },
+   {
+    "call": "Invented names: Dickon Burr, Tenter Hill, Nether Wadding, Loom War of Year 671, Widow Pennifold, Ambry Spring, Merrow Hythe, the Oil-Men's Company.",
+    "grounds": "The brief allows invented past figures. Grep of wiki/ and desktop/ found none in use; Harle Weir, Saltash and Cardmere come from the Apparatus. Real-history claims were checked with lookup, except the Mamluk post and the Florentine couriers, which rest on my own knowledge because the Mamluk lookup returned nothing and I ran none for the couriers, and the wool-abbey forward sales and the Crown quarrel forge, which rest on memory only; the St Briavels lookup returned nothing useful."
+   }
+  ],
+  "left_for_isaac": [
+   "The Nalūn page, Factions at a Glance, The Powers of the Dark Ages and desktop/inventories/nalun.md still say supply book or supply contract, and nalun.md still calls it 'the most traded document'. They need a sweep to 'book of hours' or a ruling that the older word stands.",
+   "Live Who Pays for the Lamp still lists heat and a working stove under sealed household, and section VIII still calls the kept road 'a street that does not stop' and the workshop 'magic from end to end'. Value and Works and Days now follow the Apparatus, so that page disagrees until it is rebuilt.",
+   "The live Powers of the Imperial Age row 'The main and the meter ... A supply contract written at old rates is an inheritance' should be checked if that page is still live beside the staged rename.",
+   "Calls above need logging by the launching session. The sharpest to strike or keep: standing myriad becoming a standing hour, the great-shaft bill, heralds' houses staying, and a rich house owning six carry-stones.",
+   "The carders' rising, the Loom War and the work bell now make Cardmere a recurring invented town across Apparatus and Works and Days, so a place page may be owed if it recurs in play. The live wiki has none.",
+   "The Works and Days table 'What the Trades Are Paid' gives no journeyman or bench hand day rate, because What Things Cost has none and is finished. Add a row there if you want one.",
+   "Value and Works and Days still treat 'array-tender' crews as the normal Essence buyers for great shafts. Only the few great shafts have arrays now, so other pages describing arrays in every mine still need the same shrink.",
+   "Nothing committed, and no wiki/, sources/, rules/, RULINGS.md, CONFLICTS.md or Apparatus or Cost pages were edited. Scratch backups of the originals are at /tmp/claude-1000/-home-oridon-wotr-rule-index/eb3ad420-7ea3-4224-8056-a828beee7547/scratchpad/works.orig.md, /tmp/claude-1000/-home-oridon-wotr-rule-index/eb3ad420-7ea3-4224-8056-a828beee7547/scratchpad/value.orig.md and /tmp/claude-1000/-home-oridon-wotr-rule-index/eb3ad420-7ea3-4224-8056-a828beee7547/scratchpad/news.orig.md. The page checks were greps for retired terms, em dashes and British spelling, plus a number-loss comparison against those backups. I did not re-read the assembled pages end to end or run trade_check.py."
+  ]
+ }
+}

@@ -8,7 +8,7 @@ Worked examples of the Style Law (R70, `rules/doc-style-law-2026-10-03.yaml`), t
 |---|---|---|
 | [kharven.md](kharven.md) | Kharven | Short declaratives stacked like a woodpile; the count does the work; a kingdom that cannot read hears the tape read aloud. |
 | [moto.md](moto.md) | the Moto and the Japonic houses | Shadow, lacquer and the unsaid; honorifics in close narration; the war-tale declaration with its price. |
-| [accord.md](accord.md) | the Accord | The grand magitech city, money on every page, the Measurewright's clinical tape with the wit in the margin. |
+| [accord.md](accord.md) | the Accord | The grand kept city, money on every page, the Measurewright's clinical tape with the wit in the margin. |
 | [mahuo.md](mahuo.md) | the Mahuo (Korean register) | Pansori tempo and the sijo's turn in the last clause; speech levels as events; a remnant house in Sum-gol. |
 | [lineage-halls.md](lineage-halls.md) | the lineage halls (Chinese register) | Paired clauses, sayings owned by elders, title ladders, the hall's face and the bill that follows it. |
 

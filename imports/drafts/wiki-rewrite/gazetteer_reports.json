@@ -1,0 +1,395 @@
+{
+ "gaz": {
+  "files": [
+   "/home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Scourge of Hell.md",
+   "/home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/inner/wiki/The Bestiary/Dungeons.md"
+  ],
+  "summary_by_realm": [
+   {
+    "realm": "The Scourge of Hell (Hell's Scourge), center of the Inner World, about 180 by 140 leagues, no ruler",
+    "climate": "A hot dry wind blows outward from the middle in every season. Hem: long hot summers, clear hard winters, a short green after spring rain. Black Roots: dry above, warm and wet an arm's length down. Haze: never clears, copper sun, dry lightning, rain that does not land. Shambles: weather in unrelated patches, the sky turning purple. Socket: violet sky, stars at noon.",
+    "habitat": "Five belts going in. Hem: black-barked thornwood, dry grass, iron-colored stone. Black Roots: a root mat over hollow ground, with lime and violet fungus. Haze: dead river courses, pink salt flats, red grass, herd country. Shambles: mountains and Great Spirit War battlefields, ghoststeel, fused glass. Socket: broken mountains around the star-bladed sword.",
+    "culture": "No people of its own. Bounty crews, relic hunters, sects, sword-pullers, surveyors and hobgoblin ridge-men go in. Outside, North, South and Center take the Turn (nine years each), and each keeps a resentful Count that Arbitration audits and nobody accepts. The Center holds it 712 to 721.",
+    "towns": "None inside. Edge towns: Lastpenny (Kessen road), Goodmorrow (salt road), Halcrest (Nalūn's gate), Rootgate (Mosk-Vaal). Marrick companies sign contracts at Spearmoot. Verath's marker posts open the Verath Expanse. Bordered clockwise by the Amber Cities, Violet Peaks, Moonlight Forest, Hundred Crowns on both roads, Sealed Charter, Russet Crown, Rose Coils, Ochre Fields, Sum-gol."
+   }
+  ],
+  "inventions": [
+   "Scourge: the five belts (the Hem, the Black Roots, the Haze, the Shambles, the Socket) with widths and scholars' rungs. The rungs past the Hem are stated as estimates.",
+   "Scourge: the size (about 180 by 140 leagues) and the sword's height (three or four leagues, from two disagreeing surveys), visible from the Hem on about nine clear days a year. The bronze never goes green, and the stars in the blade show parallax like a real window.",
+   "Scourge: the Turn, also the Rota (North, then South, then Center, nine years each, a 27-year wheel), the Line, right of passage, the Count, the Salt Line of Chainsalt. Isaac gave only the rotation and the resentment; the mechanics are mine.",
+   "Scourge opening: the Lastpenny handover of Midsummer 676, the water clock, Gytha Rowe, the wyrm Old Pincushion, the saying 'it isn't noon'.",
+   "Scourge creatures: lid-crawlers (T3), haze-kites (T4), 'the crowned'. I also gave descriptions and tiers to stilts (T4) and greywalkers (T5), which existed only as cutters' names in The Uncounted. The things in the dry beds stay a blank register row.",
+   "Scourge dungeons: the Lamplit Stair, Nine Wells Gulch, the Upside Abbey, the Dry Harbor, the Long Muster, the Wound.",
+   "Scourge edge towns and texture: Lastpenny, Goodmorrow, lid-listeners, ground-bells, wake-houses with marked jars, the Widows' Bench, black-root tea, taverns called the Ordinary Sword, which uses the art note as a tavern sign. Sword-puller Nixie Sprocket.",
+   "Dungeons opening: the wedding at the Orchard Under Goosegrass, Kingdom of Hollowhay, 708, with King Bertran Ferrant, Isemay Ferrant and keeper Mother Odalie Ambrey. Example captain Ama Brockway.",
+   "Dungeons: the etymology from chancery 'domnio', a lord's tower (the real word history of dungeon), the crew word 'lying-down' for a roofless territory dungeon, the crew posts (Caller, Fork, Mask-runner and their street names), lamp-line used as the mark for crew work, Lamp Fairs, the depth, long and race books, smoke, vein and deep crews, the clearers' third.",
+   "Dungeons: Magister Odalric Penhallow, the Gradient Lectures of 688, the Reedmarch disaster, and the tavern theory that a dungeon is 'a Domain with nobody home'.",
+   "Dungeons, famous sites new here: the Cold Larder, the Fall Cellar (with the art note's robed figure as its keeper), the Ninth Adit, the Gold Mouth, the Cold Marrow, the Moot Vent, the Hotwell Stair, the Autumn Country as a site name. Wellspring assignments on the new sites are mine.",
+   "Dungeons: culture words: meikyū (Moto), migung (Mahuo), mìjìng and dòngfǔ (lineage halls), plus Keld, Marrowkin, Verdant Orc and Serpentkin framings."
+  ],
+  "calls": [
+   {
+    "call": "The Center holds the Turn at present, 712 to 721. The last handover from North to South falls in 676.",
+    "grounds": "Counted back on the nine-year wheel. It fits free companies on Thresh contracts in The Uncounted and the Hundred Crowns page. Isaac may want a different holder if Arc One's northern events need it, and the page narrates no arc events."
+   },
+   {
+    "call": "The Thresh is the cutters' name for the dry country on the Scourge's north side, south of the salt.",
+    "grounds": "The Uncounted and the Hundred Crowns page say 'the great herds south of the salt', and KINGDOMS puts the Amber Cities on the Scourge's north side."
+   },
+   {
+    "call": "Stilts and greywalkers breed true with no mask and are entered as 'Scourge-born' under Natural Beasts, under protest.",
+    "grounds": "They herd and breed, but Well-spawn says warped beasts cannot breed true and masked lines do not migrate. KINGDOMS needs monsters that move, and The_Path_of_Sorrow calls them beasts plus time plus Essence with held ranges."
+   },
+   {
+    "call": "On the Scourge, wyrms and worse eat Well-spawn, and masks turn up in stomachs. The page states this as the one exception to 'nothing native eats it'.",
+    "grounds": "It explains why the Scourge alone is known for extreme monsters, and it follows the scene's centuries of competition."
+   },
+   {
+    "call": "Wyrm core means a creature's hardened Essence Core, joked as the fourth sense of Core.",
+    "grounds": "The_Path_of_Sorrow says wyrm cores sell for a small fortune. Well-spawn gives animals an Essence Core."
+   },
+   {
+    "call": "Wyrms are T7, not the scene's 'A-class'.",
+    "grounds": "The Bestiary hub lists Wyrm at T7 Realm Hazard, and the scene's rating language is old."
+   },
+   {
+    "call": "Dungeon depth is the same five bands as a Well, and the page keeps both Grade tables. Spawn are killable one rank below what the ground asks.",
+    "grounds": "Well-spawn gives Apprentices at the Mouth. The Tier Ladders' spine column gives Journeyman at Freshet, and so on down. I read the gap as the crew's clock rather than a contradiction."
+   },
+   {
+    "call": "A cleared dungeon has its ring seated at a standable depth and its Heart sealed and bled from a distance. Almost nobody clears a Heart.",
+    "grounds": "Core-tenders work the lip at densities like an Active Concentration, while a Fountainhead rewrites anyone below Grandmaster. The Heart Vault is the named exception."
+   },
+   {
+    "call": "Bleeding is a small routine done each shift. Too little and the pool rises and breeds; too much and it goes lean and will not recharge.",
+    "grounds": "Who Pays says tenders are 'clearing and bleeding the pool', and also that a site recharges by the season 'if it is not bled'. This reading keeps both sentences."
+   },
+   {
+    "call": "Closing is the keepers' ordinary strike and they keep tending at night. Stopping the tending is the catastrophe, and it is what the page's table tracks.",
+    "grounds": "Who Pays and Well-spawn both treat closing as useful, since it removes the tie. Isaac asked what happens if wardens stop being paid, so the two needed separating."
+   },
+   {
+    "call": "Accord law on dungeons is applied through existing Articles: VI, VII, IX, X, XVI to XIX, with XIX (the dead leg) read onto abandoned galleries. New-Mouth reporting and the mask rule are stated as practice without Article numbers.",
+    "grounds": "The Articles are on file with six Titles. I added no numbered Article, so nothing there needs renumbering."
+   },
+   {
+    "call": "A licensed labor-stock porter is equipment on the instrument, written as nemo, with no share.",
+    "grounds": "This is a direct reading of the Beastkin Classification Provision and the nemo instruction on the staged Sealed Charter page, and it is the page's one earned dark passage. Isaac may strike it."
+   },
+   {
+    "call": "North means Kharven and its Banner Houses in the present. Whitemere is not mentioned.",
+    "grounds": "KINGDOMS has Muken building the empire during Arc One, the present is 715, and these pages are public."
+   },
+   {
+    "call": "I kept the sword's maker and purpose open, listing the arguments without a verdict. The wound is given only as the archivist's unprovable favorite.",
+    "grounds": "KINGDOMS marks this as Natalie's reading and an open argument."
+   },
+   {
+    "call": "I rewrote the scene's gray ridgelines and dull haze as iron red, copper and plum, and took no characters or plot from The_Path_of_Sorrow.",
+    "grounds": "THE TONE bans the gray palette, the art note gives a purple sky, and KINGDOMS keeps Sodoku's and Yoko's travels off public pages."
+   },
+   {
+    "call": "No art embed on the Scourge page.",
+    "grounds": "art/scourge-of-hell.png is in imports/drafts/inner-world-redo/art and has no Assets path yet, and the staged realm pages I checked carry no embed either. It needs copying when the art goes in."
+   }
+  ],
+  "page_conflicts": [
+   "CHECKED: both pages grep clean for em dashes in prose, British spellings, a sample of sound words, and main-cast names. The sound-word list was short, so that check is partial. wotr-mcp validate and verify_scene were not run, and the pages were not rendered, so wikilinks beyond the two I tested are unverified. No names were reused after renaming five collisions.",
+   "BEARS ON ALL REALM PAGES: no staged realm page mentions the Scourge at all, and none mentions a dungeon. KINGDOMS wants monsters and a dungeon on every realm page. The bordering pages (Amber Cities, Violet Peaks, Moonlight Forest, Hundred Crowns, Sealed Charter, Russet Crown, Rose Coils, Ochre Fields, Sum-gol) each need a Scourge line, and their 'Neighbors' sections need the Turn.",
+   "Dungeons table covers these realms: Aurora Reach, Cobalt March, Scarlet Wood, Painted Rivers, Amber Cities, Moonlight Forest, Violet Peaks, Rose Coils, Russet Crown, Hundred Crowns, Wellheads, Sum-gol, Silver Cedars, Copper Coast, Marrowhold, Crimson Isles. Lamplit Stair sits in the Charter's Expanse. Still no dungeon: Kharven, Slate Ridge, Golden Hollow, Jade Plains, Holy Sea, Ochre Fields, Undaar-Keth.",
+   "Road geometry: the staged Moonlight Forest page says the salt road runs along the forest's edge. KINGDOMS puts the forest on the west flank (Kessen road) and the salt road on the east.",
+   "Russet Crown: the staged page puts it in hill country on the Concord's flank, folding up toward the Violet Peaks. KINGDOMS puts it east around an inland sea with the Violet Peaks northwest. Sealed Charter says it has the Russet forest on one side and lies 'between the salt basin and the Midmarch', which also does not locate it on the east road's crossing. Followed KINGDOMS.",
+   "Hundred Crowns: the staged page's land section has the Aldwater plain between salt basin and Ochre Fields with no Scourge in the middle. KINGDOMS has it crowding along both roads around the Scourge.",
+   "Salt road: Copper Coast says it ends at Ashmore's junction and Golden Hollow says Nalūn is at its far end. KINGDOMS says it starts at the Copper Coast and runs the east flank. I used only 'grain at the junction where the two roads meet'.",
+   "Verath: The_Path_of_Sorrow has the Verath Expanse and the Scourge past Verath's EASTERN marker, walking east. KINGDOMS has the Charter on the east road, which puts the Scourge to the west of Verath. The page avoids a compass direction from Verath. This is scene against draft map, for Isaac's call.",
+   "The_Path_of_Sorrow also calls Kharven's surroundings 'desert forest', which does not match the staged Kharven plateau. I did not use this.",
+   "Anguz: the staged hub says it works 'under Guild control', and the staged Marrowhold page says 'Nobody holds Anguz now'. The Dungeons table follows Marrowhold.",
+   "Silver Cedars: the staged page I grepped has no drowned or flooded shrines, though the KINGDOMS art note does. The Dungeons row 'The Drowned Shrines' relies on the art note, so the page needs the shrines added.",
+   "Long Cuts: the staged Scarlet Wood page plays them as a hinted secret. The Dungeons row only says crews suspect a lying-down and foresters refuse, so check that no plot depends on it.",
+   "Well-spawn.md needs: a link to Dungeons; a note in 'Only the Well-born are spawn' that Scourge-born herds breed true unmasked; a note on 'nothing native eats it' that the Scourge is the exception. It also calls crews 'hunters' and a site 'a Well', which agrees with Dungeons' word table. Its Register would need rows if the Goosegrass briars stay on-file Reaching Briars (they do, so no new row).",
+   "The Bestiary hub: the Type list has no Scourge-born; add stilts, greywalkers, lid-crawlers, haze-kites and a blank dry-bed row; link Dungeons. The fifty-creature count would change.",
+   "Who Pays for the Lamp: add a link to Dungeons at Core keepers, and the line that a worked Core is a cleared dungeon. Its 'recharges by the season if it is not bled' reads against 'clearing and bleeding the pool' in Part IX; see the call on bleeding.",
+   "On Walking Into the Current: no contradiction. It could link Dungeons, and its Protocols III and VIII are now the crew's Caller and Porter rules.",
+   "The Articles of the Accord and The Guild Accord: neither page mentions dungeons. Consider adding a note that XIX is read onto abandoned galleries, and that new Mouths are reportable within one turn.",
+   "Materials (Hide, Horn and Bone, or the Standing Index): wyrm core has no entry, and the scene and the Scourge page now trade in it. Set a price there. I stated no number.",
+   "wiki/INDEX.md and the Inner World hub need both new pages listed. The live Bestiary folder needs Dungeons.md moved in at merge."
+  ]
+ },
+ "extra": {
+  "files": [
+   "/home/oridon/wotr-rule-index/imports/drafts/wiki-rewrite/inner/wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — A Gazetteer.md"
+  ],
+  "inventions": [
+   "Opening story: Ikka Sennet carrying a block of polar ice from the Whalebone Gather to the Palatine's table in 691, including 'King Block the First' crowned at Pennycrown.",
+   "Climate for every realm where the page was silent, built from three belts: cold shield and permafrost, continental interior around the Scourge, warm temperate to subtropical south. Includes Scourge winds and rain shadow, Copper Coast typhoons, and the sea breeze at Alabaster.",
+   "Soils, plants and most animals in the Habitat parts, such as elk, lynx, bustards, marmots, wild asses, acorn-hogs, Haeseong cormorants and blind salt fish.",
+   "River logic: the Marrow, Hallen, Ruddle and Sleeve gather near Ashbury and leave as the Aldwater, which feeds the Moonlight mire and then reaches the western sea.",
+   "Road logic: the Kessen road and salt road routes named stage by stage, including where the salt road passes Bothhands and the Charter.",
+   "Travel-time table. Only these come from pages: Ashbury to Qingyuan (11 days, gray in 6), the causeway (9 days, road round 11 longer), Senri's Gate to Sum-gol, and the Windstair (8 days). The rest are my estimates.",
+   "The Turn as the name of the Scourge rotation, and the Turnstone on the western rim where the broken spear is handed over.",
+   "The Last Look, a ridge with a sight of the sword. Cutters as the Scourge trade's culture. Descriptions of stilts ('tall as a keep's wall'). Hydra sightings in the Scourge.",
+   "The Thresh read as the first belt of the Scourge rim south of the salt.",
+   "North dungeons: the Hum (Skeldmere, Abyntheus), the Roll-Cellar (Stonewatch, Fixatio, cleared and worked), the Ninth Gallery (Ridgewall, Aurevane, walled and guarded), the Malt Deeps (Barleyford, Verdantia, cleared and worked), the Red Stair (under Thornwood's arch), the Drowned Toll (behind Hallenfeld's falls), Vorrak's Standing Grove (Undaar-Keth, Chthonica).",
+   "Center dungeons: the Lower Beds with the lost house of Merrow's (Nalūn), the Tail (Sealhall's spine), Nether Marl and King Hamo the Undefeated (Midmarch), the Tarnish Pools (Mosk-Vaal), the Lower Reading (Stoneglass, Anamnesis), the Chimney (Highroost, Ascensio), the Seventh Fold as a place (Russet Crown).",
+   "South and offshore dungeons: the Long Barrow at Sorley Bridge (Mortalis), the Answering Vaults (Sum-gol), the Long Copper (Brightwater, Phreatis), the Ninth Paddock (Jade Plains), the Unlit Shrine (Yukari), the Drowned Parishes (Alabaster), the Green Galleries (Geumpo, Basilithe), Skaal-Mol (one of the three forbidden isles, name invented).",
+   "Placing existing Bestiary creatures on realms, with their Tiers as on file: Greater Wolf, Wendigo, Droval, Goliath, Raiju, Wyvern, Harpy, Reaching Briar, Sasquatch, Dryad, Living Armor, Sump-toad, Mourning Pike, Basilisk, Lamp-drinker, Cockatrice, Manticore, Minotaur, Ghoul, Skeletal Folk, Lamia, Roll-caller, Griffon, Hippogrif, Tanuki, Neiman Lion, Zombie, Siren, Sea Serpent, Kraken, Psy-Ape, Tolling Crab, Hellhound, Bicorn, Hydra, Wyrm.",
+   "New small creatures: rib-lice (Marrowhold), drift-eels (Russet Crown), brine-walkers (Sum-gol), ash-crabs (Isles), and a small serpent in Hotwell.",
+   "Small cultural fills: Scalebond reading their dead before burial, Avian Kin giving their dead to the wind from the bridge, Corwen dead in hot ground, Reedgate listed as a town, and the dead of the Yan going to the tablets.",
+   "Listed on the page as towns though on no KINGDOMS row: Lamp Stair, Upper Marl, the Stitch Hills, Aldersey, Stowmarch and Harrowgate, all taken from the realm pages. Harrowgate placed in the Charter by my reading."
+  ],
+  "calls": [
+   {
+    "call": "Named the Long Fields moot town Spearmoot, noting that every Marrick and most maps say Pikemoot.",
+    "grounds": "KINGDOMS.md is law for names and says Spearmoot. The Hammerford page and the shield index say Pikemoot, so both are recorded on the page."
+   },
+   {
+    "call": "Brokencollar is written as both things: the walled russet city on the inland sea headland, and a stilt-town of nine thousand around the Heap at its landward foot.",
+    "grounds": "KINGDOMS gives the walled headland fortress. The realm page gives a stilt-town. Keeping both loses nothing and lets a scene go on."
+   },
+   {
+    "call": "The lie of the land follows KINGDOMS wherever a page disagrees, and the pages' versions go in a closing 'Where the Maps Quarrel' table written in the archivist's voice.",
+    "grounds": "The task names KINGDOMS as law for the land, and project rules forbid settling a contradiction silently. Direction words the pages use (such as 'western road') are left out of the entries."
+   },
+   {
+    "call": "The Crow's Reach is drawn as a long arm running north up the continent's east from the Yukari valleys to Stark's boundary stones.",
+    "grounds": "This is the only way KINGDOMS (Yukari in the South) and the Hollenmark and Kharven pages (the Reach on the March's eastern frontier) both stand, and the Yukari page's own 'north and east toward the shield' supports it."
+   },
+   {
+    "call": "The Wellheads are placed between Sum-gol's hills and the Jade Plains, west of the grass, and the iron hills are put west rather than east of the Plains.",
+    "grounds": "KINGDOMS puts Sum-gol west and the Wellheads in the uplands between. The Brightwater and Qingyuan pages put the Wellheads on the Plain's west edge, which still holds. Only 'iron hills in the east' had to go."
+   },
+   {
+    "call": "Anguz is treated as Marrowhold's second dungeon, and the Kiilut House is treated as the Reach's dungeon.",
+    "grounds": "Both pages already describe uncleared, deadly, delved or forbidden places, so inventing another would have been waste. KINGDOMS asks for a dungeon per realm."
+   },
+   {
+    "call": "Worked Core is applied as 'a cleared dungeon now held': Deepvein, the Caelspire pool, Yuquan, the Ring's walls and every kept pool in the Wellheads.",
+    "grounds": "KINGDOMS gives this reading as overturnable. The page states it as a Measurewrights' argument."
+   },
+   {
+    "call": "The bad southern springs are left unexplained.",
+    "grounds": "The Southern Warlords shelf notes hold the cause, and it is plot. The gazetteer is public."
+   },
+   {
+    "call": "The Scourge got its own full entry under the Center, though it has no realm page.",
+    "grounds": "KINGDOMS has a section for it, and a scene could not be placed there without one. Public text keeps the sword as an open argument and omits Sodoku's and Yoko's travels."
+   },
+   {
+    "call": "Whitemere appears only as one 'Later hand' note at the head of the North, without naming Muken.",
+    "grounds": "KINGDOMS and the pages carry the empire, the present is 715, and the task bars arc plot on public pages."
+   },
+   {
+    "call": "The Painted Rivers entry adds the castle above the triple falls and the portage to the town of counting-houses.",
+    "grounds": "The realm page omits them, and KINGDOMS has them as the source of the house's power. The two sit together without strain."
+   },
+   {
+    "call": "Colors in three places are merged: Ashbury has thatch plus tiered verdigris halls, Haeseong has copper roofs new red-gold and old sea-green, and Qingyuan has tamped-earth walls around a pale many-towered hall.",
+    "grounds": "Art notes and page text differ slightly, and merging keeps both. Each is listed under page conflicts."
+   },
+   {
+    "call": "Other creators' material stays out: no Zettari, Kushara or carded guests are added, and no Saiya in the Scourge.",
+    "grounds": "Project hands-off rule."
+   }
+  ],
+  "page_conflicts": [
+   "Marrowhold's direction: KINGDOMS puts the Ring east of Kharven. The Thornhaven page says the corridor runs 'west', and the Hallenfeld page calls Threeways' road to it 'the western road'.",
+   "Mandate and Marrowhold border: the Undaar-Keth page runs Gorr-Shal from the Greymane wall down to the rib-mountains and holds a joint moot at the foot of the ribs. KINGDOMS has all of Kharven between them.",
+   "Moto border and the South: the Hammerford page and the Southern Warlords page have Moto provinces a few days from Musterfield, with the Kessen road running straight from them into the South. KINGDOMS wedges the whole Center between.",
+   "Iron hills: the Jade Plains page puts them on the Plain's east. KINGDOMS puts Sum-gol west.",
+   "Violet Peaks and Russet Crown: the Russet page says the land folds up toward the Peaks, and the Long Way crosses them. KINGDOMS has the Peaks northwest and the Crown east, with the Scourge between.",
+   "Salt road at Mosk-Vaal: the Moonlight page says the salt road runs along the forest's edge. KINGDOMS has the forest on the west flank and the salt road on the east.",
+   "Brokencollar: KINGDOMS has a great walled city on a headland, built as an Accord holding fortress. The Russet page has a stilt-town of nine thousand around the Heap.",
+   "Pikemoot on the Hammerford page and the shield index, Spearmoot in KINGDOMS. Pike also belongs to the Imperial Age under R83, though the page explains the word.",
+   "Crimson Isles: KINGDOMS has them south past the sea. The Expanse page has them off the Old World's southern coast, two hundred leagues from it, trailing toward the Outer World shelf.",
+   "The old Kōkan or Moto ground: Kharven and Stormfold pages put the ground the bloodline came from west of the Ridge. The Alabaster page puts the old Kōkan seat in the high marches above the white shelf.",
+   "Yukari distance: the Undaar-Keth page calls the Crow's Reach 'far to the south', while Kharven and Hollenmark pages make it the March's eastern frontier.",
+   "Cymorath: the Caelspire page and the Bestiary note give it as the Air of Ascent. The Yukari page gives it as Vibration and Resonance.",
+   "Monolithion: the Yukari page gives it as Thread and Causality. The signature bank lists it as a Materia Wellspring of deep amber and one mountain-low tone.",
+   "Guild water clock: the Charter page puts the fourteen-hour clock at Sealhall. The Marrowkin inventory puts the Guild hour's clock on the Seat at Altherion.",
+   "Hallenfeld: KINGDOMS has a castle above triple falls and a portage. The realm page never mentions either and has barges packed at the junction.",
+   "Ashbury: the page says honey stone and gold thatch. The art note shows half-timbered halls under tiered verdigris roofs.",
+   "Haeseong: the page says white walls, green copper roofs and one fort. The art note shows copper-red and gold roofs and two citadels.",
+   "Qingyuan: the page says no trees, tamped-earth walls and lacquered roofs. The art note shows a valley floor under curved mountains, waterfalls and a pale slate-roofed hall.",
+   "Hallenfeld's river names and the Aldwater: the Midmarch page says Hallenfeld disputes tolls on the 'upper Aldwater', but no page says how the rivers connect.",
+   "Crimson Order colors inside the Expanse page: Hobgoblin Voices wear scarlet, while the Shelf formations are in ochre and gold, which are also close to Marrick's ochre.",
+   "Yukari on Moto naming in the Southern Warlords page and elsewhere still shows 'the new king' and tokenless king passages running past 715. They were left out of the gazetteer."
+  ],
+  "summary_by_realm": [
+   {
+    "realm": "Kingdom of Kharven",
+    "climate": "Six-month winter, thirty below, short bright summer, aurora most nights.",
+    "habitat": "High granite plateau, boreal forest, frozen lakes, patchy permafrost.",
+    "culture": "Moto lines over Nordic clans; windmeat and the skin; competence over courtesy; the Waiting.",
+    "towns": "Kharven-Seat, the Foot, Harlsey Landing, the Castle Stair."
+   },
+   {
+    "realm": "Cobalt March of Hollenmark",
+    "climate": "Snowier than the Seat, long glittering winters, three-week autumn.",
+    "habitat": "Ironwood and black spruce, shield upland, boundary stones, wild icebears.",
+    "culture": "Starks and northern commons; stone law; the Asking; pie dish jokes.",
+    "towns": "Hollenmark, Stonewatch, Bearhold."
+   },
+   {
+    "realm": "Slate Ridge of Stormfold",
+    "climate": "Violet lightning most afternoons, sideways rain, blizzard winters.",
+    "habitat": "Slate and greystone ridge, heather, gray-faced sheep.",
+    "culture": "People named by function, garrison law, mess food, strike first.",
+    "towns": "The Ridgewall, Galecross."
+   },
+   {
+    "realm": "Golden Hollow of Ashbury",
+    "climate": "The one mild northern valley, four-month growing season, warm rain.",
+    "habitat": "Deep soil, barley and rye, water-meadows, tithe barns.",
+    "culture": "Well-fed commons, tally-sticks, Harvest Home, power through grain.",
+    "towns": "Ashbury, Sheafton, Barleyford."
+   },
+   {
+    "realm": "Scarlet Wood of Thornhaven",
+    "climate": "Cold, snowy, sheltered, misty; loud thaw.",
+    "habitat": "Giant red ironwoods, moss, clearings on rivers, log rafts.",
+    "culture": "Carvers and raftsmen, contracts in wood, spear hedge, 'six months'.",
+    "towns": "Thornhaven, Raftwick."
+   },
+   {
+    "realm": "Aurora Reach of the Keld",
+    "climate": "Polar dark, whiteouts, one bright week, brief boggy summer.",
+    "habitat": "Tundra and permafrost to the shelf, reindeer, whales, Droval.",
+    "culture": "Carried names, fat-lamps, oath only to a person present, no coin.",
+    "towns": "No city: the Whalebone Gather, the Teeth, the shelf."
+   },
+   {
+    "realm": "Painted Rivers of Hallenfeld",
+    "climate": "Damp lowland, frozen barges in winter, huge thaw floods.",
+    "habitat": "Three rivers, red-rock falls, willow, mills, causeways.",
+    "culture": "Clerks and bargefolk, painted toll houses, eat standing up, read Concord.",
+    "towns": "Hallenfeld, Threeways, Chainbridge."
+   },
+   {
+    "realm": "Ember Holds of Marrowhold",
+    "climate": "Snow on the rim, steaming rain and sulfur fog inside the Ring.",
+    "habitat": "Ninety-league crater, bone ribs, red emberwort, glow-blood under the floor.",
+    "culture": "Marrowkin smiths and clerks, cut-names, the Tally, three legal systems, Altherion's mixed republic.",
+    "towns": "Breastbone, Collarbone, the Twelfth Rib, Kolmthruk, Barkstone, Altherion."
+   },
+   {
+    "realm": "Iron Mandate of Undaar-Keth",
+    "climate": "Longest, harshest winters; short shadowed summers.",
+    "habitat": "Black basalt, dark boreal forest, thin ground, braided rivers.",
+    "culture": "Hobgoblin decree-state, Bugbear farmers, goblin benches, daily Decree Reading.",
+    "towns": "Undaar-Gorr, Vreth-Kaan, Gorr-Shal, Keth-Vorruk, Tinker's Gorge, the Ashenmoor, Vorrak's Reach."
+   },
+   {
+    "realm": "Scourge of Hell",
+    "climate": "Perpetual haze, dry wind, furnace days, bitter snowless winters.",
+    "habitat": "Cracked plains, dry beds, black roots, the sword in the mountains.",
+    "culture": "No people, only cutters on Thresh contracts, and the resented Turn.",
+    "towns": "None lasting: the Thresh, the Turnstone, cutters' camps."
+   },
+   {
+    "realm": "Amber Cities of Nalūn",
+    "climate": "Five months of snow above; dry, steady and warm below.",
+    "habitat": "Dead-sea salt basin, two hundred fathoms of halite, chain-lakes to the north.",
+    "culture": "Factors, cutters and the tokenless; seal-tokens as credit; a promise is a working.",
+    "towns": "Ironlink Hold, Halcrest, Cutwall, Vaultmere, Bridgemarch, Deepvein, Rimward."
+   },
+   {
+    "realm": "Sealed Charter of the Concord",
+    "climate": "Hot blue summers, afternoon thunder, short hard winters.",
+    "habitat": "Hay meadow, clover and lavender, bees, white towns on brown rivers.",
+    "culture": "Everyone reads; wax seals; market courts; Beastkin sold as stock.",
+    "towns": "Sealhall, Waxgate, Verath, Aldersey, Stowmarch, Harrowgate."
+   },
+   {
+    "realm": "Hundred Crowns of the Midmarch",
+    "climate": "Big storm skies, wet summers, muddy winters, spring floods.",
+    "habitat": "River plain, low hills, hedgerows, barley, the Aldwater.",
+    "culture": "Petty kings of every people, loud heraldry, tolls, the best songs, the Coat-Turning.",
+    "towns": "Kingsbridge, Tollgarth, Pennycrown, the Stitch Hills, Upper Marl."
+   },
+   {
+    "realm": "Moonlight Forest of Mosk-Vaal",
+    "climate": "Warm, wet and windless, with seasons that follow the moon.",
+    "habitat": "Glowing fen, black water, the great blue tree and teal lake.",
+    "culture": "Verdant Orcs, death as a phase, rot cuisine, Spoor-Meld, 'go round'.",
+    "towns": "Mosk-Vaal, Rootgate, Glowwater, Ghurash Hollow, the Blooming Mire, Totemdeep, the Orchard."
+   },
+   {
+    "realm": "Rose Coils of Coilspire",
+    "climate": "Warm, dry ridges, with hot springs and cold seeps side by side.",
+    "habitat": "Curved rose-stone ridges, green valleys, vines, old battlefields.",
+    "culture": "Serpentkin scholars, surgeons and poisoners at a posted price, living memory as law.",
+    "towns": "Coilspire Den, Stoneglass Hollow, Bothhands, Lamp Stair."
+   },
+   {
+    "realm": "Violet Peaks of Caelspire",
+    "climate": "Thin bright air, steady wind, lilac cloud below, feared dead-calm mornings.",
+    "habitat": "Twin crags, hanging meadows, summit pool and tree, goats, griffons.",
+    "culture": "Avian Kin in rival schools like football clubs, the Long Step, death to fowlers.",
+    "towns": "Caelspire, Windstair, Highroost, the little peaks."
+   },
+   {
+    "realm": "Russet Crown of the Unpapered",
+    "climate": "Permanent autumn, with no winter ever, sudden floods, a cool breeze off the inland sea.",
+    "habitat": "Oak, beech and chestnut knee-deep in leaves, on hills beside an inland sea.",
+    "culture": "Runaway Catkin, Wolfkin and Bearkin; nothing written; 'Ashe'; bright dyed fur.",
+    "towns": "Brokencollar, Shadowed Ridge, Nightveil Hollow, Greyfang Crossing, the Glade of the Slumbering Root."
+   },
+   {
+    "realm": "Ochre Fields of Hammerford",
+    "climate": "Hot barley summers, long fine autumns, hard frost and mud in winter.",
+    "habitat": "Flat deep soil, barley, ash poles, stubble drill squares.",
+    "culture": "Spearmen for hire, rent paid in children, the contract as law, jokes about the dead.",
+    "towns": "Hammerford, Spearmoot (locally Pikemoot), Musterfield."
+   },
+   {
+    "realm": "Vermilion Dynasty of Sum-gol",
+    "climate": "Warm, windy and dry, cooler in the hills, soft and wet in Breath Hollow.",
+    "habitat": "Iron hills, salt pans, rice terraces up a river.",
+    "culture": "Korean register, a ruined empire city, the Post in olive, keepers of the dead, the Calling.",
+    "towns": "Sum-gol, Cheolsan, Yeomjeon, Breath Hollow."
+   },
+   {
+    "realm": "Sapphire Wells of Brightwater",
+    "climate": "High, wet and misty, warm underfoot, steam every morning.",
+    "habitat": "Terraced hot and cold springs, a drowned sapphire gorge.",
+    "culture": "Corwen leaseholders, keepers with brass keys, dyers, baths, food cooked in the springs.",
+    "towns": "Brightwater, Hotwell, Kingfisher Steps."
+   },
+   {
+    "realm": "Jade Plains of Qingyuan",
+    "climate": "Big-sky grassland, long rain curtains, hot summers, cold dry winters.",
+    "habitat": "Silver-green grass, deep soil, larks, tall gray horses, lions.",
+    "culture": "Yan lineage hall, nine rows of tablets, rungs and titles, horse archers, the ledger.",
+    "towns": "Qingyuan, Yuquan, Mashi."
+   },
+   {
+    "realm": "Silver Cedars of Yukari",
+    "climate": "Cool cloud and rain in the valleys, boreal on the long Reach to the north.",
+    "habitat": "Huge cedars, gold limestone, drowned shrines, chain-lakes on the frontier.",
+    "culture": "Volunteer bloodline, the Telling, Provings, ward-carvers, Thread Standard courts.",
+    "towns": "Cedar Enclave, Karasuyama, Sugidani, Senri's Gate, Vaeloris, Reedgate, Thornback Ridge."
+   },
+   {
+    "realm": "Holy Sea of Alabaster",
+    "climate": "Warm-temperate coast, dry bright summers, wet winters, autumn gales.",
+    "habitat": "White cliffs, clear bay, drowned country, lemon terraces, chalky barley.",
+    "culture": "Most mixed crowd alive; oaths on the Walk; Lambert counters; Latin court; Veil-Saints.",
+    "towns": "Alabaster, Rimward, Sallowgate."
+   },
+   {
+    "realm": "Copper Coast of Haeseong",
+    "climate": "Subtropical, a ten-minute rain each afternoon, autumn typhoons, soft winters.",
+    "habitat": "The Thousand Moorings: inlets, islets, paddies, salt-ponds, copper-stained creeks.",
+    "culture": "Korean-register harbor folk, nightly lanterns, the Ryu's 'held for the Throne', sea fighting.",
+    "towns": "Haeseong, Geumpo, the Moorings."
+   },
+   {
+    "realm": "Crimson Isles of Vorruk-Khal",
+    "climate": "Warm maritime and volcanic, trade winds, ashfalls some years.",
+    "habitat": "Forty-three volcanic islands, black beaches, sulfur vents, taro terraces, kelp.",
+    "culture": "Hobgoblins and Bugbears under an open-sky moot, no king, procedure jokes, goblin slag-yards below.",
+    "towns": "Khal-Serrat, Krev-Mol, Mokk-Vesh, Gorr-Keth."
+   }
+  ]
+ }
+}

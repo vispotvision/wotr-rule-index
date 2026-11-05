@@ -1,5 +1,7 @@
 # THE STANDING INVENTORY: NALŪN, THE CHAIN-CITIES
 
+Note: (d) marks an item derived in one step from an attested fact.
+
 A merchant oligarchy cut into the floor of a dead sea, where a promise sealed inside the salt is a working and the punishment for breaking it is that Nalūn stops working for you. Everything below is downstream of three facts: the cities are made of salt, salt fails in standing water, and the Wellspring under them enforces what is agreed.
 
 **Food:** salt first, because it is on every table as seasoning, preservative and money at once, and a salt bar can be eaten, which no other money can. Salt tea in the private chambers of the factor houses, where the real positions are stated: black tea boiled with salt and butter. Salted meat and salted fish, since the city keeps what the surface sends down. Grain, iron stock and medicine come in from above and are weighed at Halcrest before anybody eats them. Bread and salt at a threshold: the host shaves a curl off a stamped bar onto a heel of bread and hands it over, and a guest who eats it has eaten the host's money.
@@ -30,7 +32,7 @@ A merchant oligarchy cut into the floor of a dead sea, where a promise sealed in
 **Gone:**
 - **The sea.** The ancient sea whose dried floor the cities are cut from, in an era nobody alive can date. Its seasonal chemistry is still there in the layers, a year in every band of halite, and nobody has counted them to the end.
 - **The four chairs.** The Council seats of the four members whose tokens went inert mid-session when the Wellspring found they had breached the terms of their office. The chairs were refilled; the four are named in the kingdom's record only by what they broke.
-- **The worked-out faces.** Cutwall moves through the basin as each face is exhausted, and leaves behind galleries where whole families once cut, stripped of scaffolding and rail, dry and dark.
+- **The worked-out faces.** Cutwall moves through the basin as each face is exhausted, and leaves behind galleries where whole families once cut, stripped of scaffolding and sledge-ways (d), dry and dark.
 - **The eastern convoys.** The salt, iron stock and medicine that used to run out along the corridors to the mountain settlements before the war closed the roads. The settlements have had nothing for months, and the Eastern Reach says so on record.
 
 **Folk beliefs:**

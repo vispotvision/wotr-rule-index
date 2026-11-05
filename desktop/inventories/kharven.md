@@ -45,7 +45,7 @@ The clans swear by the Sky and the fire, curse with the cold, and insult by scar
 | Skin-refuser. | One who refused the skin (the fermented milk offered at the door). | grave | An accusation of contempt for a host; said once and then there is a fight |
 | Frozen piss. | Exactly that. | mild | The body-swear in its winter version; riders, soldiers on the wall |
 
-**Signature items** (texture to reach for, no minimum, R79-3): the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III haemorrhage).
+**Signature items** (texture to reach for, no minimum, R79-3): the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III hemorrhage).
 
 **Release words** (R78-10):
 
@@ -63,4 +63,4 @@ Carried-name households (the Keld, the sealers) say **the name stands**: the dea
 
 In a clansman's mouth: "He's let the horse run, Sky take it. Don't stand in front of a running horse, boy."
 
-**Old forms (R23-8, ruled 2026-09-12):** airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalised and unnamed. The old forms are stale in new prose.
+**Old forms (R23-8, ruled 2026-09-12):** airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalized and unnamed. The old forms are stale in new prose.

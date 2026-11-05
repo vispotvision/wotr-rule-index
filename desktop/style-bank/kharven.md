@@ -112,14 +112,14 @@ The dogs under the benches got up as he passed and went to the far wall. The blu
 
 Three nights back he had led a culled mare out on the river ice to water her at the hole before the knife, because it seemed a mean thing to kill a horse thirsty, and the ice had gone under them both. The cold had shut his chest like a fist. Then something in the black water had taken hold of all of him at once, from the soles of his feet to the roots of his hair, and held him the way you hold a thing to look at it, and let go. He came up. The mare did not. He had heard her under the ice for a long breath, the hooves, and then not. On the bank, shaking so hard his teeth cut his tongue, he had found the words already standing behind his breastbone in no voice at all: Stage II, Welling. He had read it the way he read a woodpile, the whole count at once, with no letters in it, and then he had put his face in the snow and wept for the mare until he could not breathe.
 
-The coil sat on the Reckoner's table in its brass housing. The Hallenfeld clerk set Orri's bare palm on the plate and turned the crank. As the coil wound up its hum, a light came up out of Orri's skin, faint as breath on glass, the color of river-water under ice, green going to black at the edges; it ran over the backs of his hands and up his wrists and lay along the plate, and the frost on the brass housing went to beads and ran. Sixty people breathed out together, one long white cloud over the benches, and a tape came up out of the slot in Concord type.
+The coil sat on the Reckoner's table in its brass housing. The Hallenfeld clerk set Orri's bare palm on the plate and turned the crank. As the coil wound up its hum, a light came up out of Orri's skin, faint as breath on glass, the color of river-water under ice, green going to black at the edges; it ran over the backs of his hands and up his wrists and lay along the plate, and the frost on the brass housing went to beads and ran. Sixty people breathed out together, one long white cloud over the benches, and a tape came up out of the slot in Concord letters.
 
 > ASSAY · KHARVEN-SEAT · THE LOWER HALL · RE-ASSAY BEFORE WITNESSES
 > BEARER: ORRI, THE HORSE LINES. ROLL-NAME HALFSADDLE.
 > ON THE ROLL AT MUSTER: STAGE I, MURMURING.
 > READ THIS DAY: STAGE II, WELLING. TIER OF STANDING: APPRENTICE.
 > GRADE CEILING D. LEVEL CEILING 100.
-> CURRENT AT CONTACT: NOT IDENTIFIED AT THIS COIL.
+> AETHER AT CONTACT: NOT IDENTIFIED AT THIS COIL.
 
 Beside the last line the clerk pencilled his note: *Bearer asks whether the coil also counts his woodpile. Told no. Bearer disappointed.*
 
@@ -204,9 +204,9 @@ Everything below was invented for these samples and is marked pending: a style s
 - **The first split** (pending). A man the coil has read splits his first round for the poorest stack in the outer town.
 
 **Apparatus and places** (R70-77)
-- **The Seat's crank coil** (pending). A coil in a brass housing on the Reckoner's table, with a palm plate; a Hallenfeld clerk turns a crank and it prints a tape in Concord type, with the clerk's pencil in the margin. The tape's layout is the fourth passage's. The crank keeps it off any wire, since none has reached the Seat (The Sky, the Hour and the Year).
+- **The Seat's crank coil** (pending). A coil in a brass housing on the Reckoner's table, with a palm plate; a Hallenfeld clerk turns a crank and it stamps a tape in Concord letters, with the clerk's pencil in the margin. The tape's layout is the fourth passage's. The crank does the work a warden would, since no warden's round has reached the Seat.
 - **The lower hall** at the Seat, where re-assays are read (pending).
-- **The river under the horse lines** (pending). Its current is not identified, and no Wellspring is claimed for it. The aura it woke in Orri shows river-water green going to black (pending, illustration only).
+- **The river under the horse lines** (pending). Its Aether is not identified, and no Wellspring is claimed for it. The aura it woke in Orri shows river-water green going to black (pending, illustration only).
 
 **Images**
 - Two breath-plumes standing between men in the deep cold (pending).

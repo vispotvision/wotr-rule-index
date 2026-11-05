@@ -11,7 +11,7 @@ All people are invented for the example. Take the method, not the images or the 
 
 She had not told anyone she liked plums. She sat, because standing would have been rude and she was not ready to be rude to him yet, and she watched the way the tea went into the cup, steadily and without a drop spilled. He was perhaps sixty, pleasant, clean about the hands. He smiled at her like a physician.
 
-"You've come to ask me to stop," he said. "Everyone does, in the end, and I'm always glad of the company. May I show you a number? Eleven thousand. That's the draw the district takes in a winter, and it's two thousand more than the Cores give back, and for nineteen years the Guild has made up the difference by drawing it from a place that does not complain. Do you know what we call that place? The Margin. It's a village. It was a village." He turned the cup a quarter-turn. "I don't want to be cruel. I want the number to be true. You build your cities on the Draw and call it progress; I merely collect the debt. Tell me which of us is lying."
+"You've come to ask me to stop," he said. "Everyone does, in the end, and I'm always glad of the company. May I show you a number? Eleven thousand. That's what the district pulls in a winter, and it's two thousand more than the Cores give back, and for nineteen years the Guild has made up the difference by pulling it from a place that does not complain. Do you know what we call that place? The Margin. It's a village. It was a village." He turned the cup a quarter-turn. "I don't want to be cruel. I want the number to be true. You build your cities on somebody else's ground and call it progress; I merely collect the debt. Tell me which of us is lying."
 
 She opened her mouth and could not find the sentence. He let the silence stand, kindly, until she understood that he had known she would not find it.
 </example>
@@ -37,7 +37,7 @@ Ana did not remember deciding to run. She remembered the mud, and the weight of 
 <example name="evil-as-process" teaches="a villain who is simply efficient: forms, ledgers, signatures, the reader meeting the damage before the man">
 The first Hettrun heard of the Margin was a form.
 
-It lay in the bottom of a box of unfiled returns in the Guild registry, a half-sheet of brown paper with a blue seal and a number, 4117, and under the number a line of the thin careful hand of a clerk who had signed ten thousand of them: *District reclassified for supplementary draw. Population to be accommodated per Schedule C.* She turned it over. On the back, in a different ink, a second hand had written *accommodated* again and put a very small line through it, and under the line, smaller still, *where?*
+It lay in the bottom of a box of unfiled returns in the Guild registry, a half-sheet of brown paper with a blue seal and a number, 4117, and under the number a line of the thin careful hand of a clerk who had signed ten thousand of them: *District reclassified for supplementary pull. Population to be accommodated per Schedule C.* She turned it over. On the back, in a different ink, a second hand had written *accommodated* again and put a very small line through it, and under the line, smaller still, *where?*
 
 She read the next form, and the next. Ninety-one districts. Not one of them had a name on it, and not one of them had a villain. There was only the signature at the foot, the same on all of them, even and quick, the signature of a man who had never in his life been in a hurry. By the three-hundredth form she understood that she would never be able to hate him, because he had not once, anywhere in the box, done anything that had not been entered, approved, countersigned and filed.
 </example>
@@ -45,7 +45,7 @@ She read the next form, and the next. Ninety-one districts. Not one of them had 
 <example name="the-arguably-right-villains-end" teaches="a death that leaves the argument alive: the heroes win and cannot make the numbers come out as the old man said they would not">
 He died in the end, as they had hoped he would, in the tall draughty chamber over the Seedhall with the winter light coming through the high window and his hands folded on the ledger.
 
-They kept the Draw. The Guild held its monopoly, the villages on the Margin stayed where they were, and in the spring the first barges went down to the coast with grain. Everyone said it had been worth it, and many of them meant it.
+They kept the Cores. The Guild held its monopoly, the villages on the Margin stayed where they were, and in the spring the first barges went down to the coast with grain. Everyone said it had been worth it, and many of them meant it.
 
 In the quiet of every winter after, though, Ketsu found himself at the long table with the figures laid out in front of him, adding the columns the way the dead man had added them, and he came to the same total each time. Eleven thousand, two thousand over. It would not come out. He knew where the difference was coming from. He knew precisely where it was going to be taken from next, and by whom, and he sat with the pen in his hand until the lamp burned down, and the old man's voice said, in the dark behind his shoulder, kindly, *Tell me which of us is lying.*
 </example>

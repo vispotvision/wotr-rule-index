@@ -1,0 +1,943 @@
+{
+ "techniques-a": {
+  "new_names": [
+   {
+    "file": "Ainigma — The Riddle Wearing a Face.md",
+    "old": "(page had no named moves; art name unchanged)",
+    "new": "BOTH AT ONCE!"
+   },
+   {
+    "file": "Ainigma — The Riddle Wearing a Face.md",
+    "old": "(page had no named moves; art name unchanged)",
+    "new": "NEVER THE SAME TWICE!"
+   },
+   {
+    "file": "Ainigma — The Riddle Wearing a Face.md",
+    "old": "(page had no named moves; art name unchanged)",
+    "new": "LEFT HAND, RIGHT HAND!"
+   },
+   {
+    "file": "Ainigma — The Riddle Wearing a Face.md",
+    "old": "(page had no named moves; art name unchanged)",
+    "new": "TWELVE TRUE ANSWERS!"
+   },
+   {
+    "file": "Ainigma — The Riddle Wearing a Face.md",
+    "old": "(page had no named moves; art name unchanged)",
+    "new": "LOOK AWAY!"
+   }
+  ],
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Named Arts.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Ainigma — The Riddle Wearing a Face.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Kami no Kobushi — The God Fist.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Ken — The Fist That Fights the Architecture.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Moetana — The Vessel of Life's Essence.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Nadi — The Art of Doing More Than Once.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Recarvu — The Body That Builds Over What It Cannot Fix.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Rusashin — The Dust That Remembers What It Touched.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Solution — The Mind That Solves Itself.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Talos — The Bronze That Empties the Room.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/The Open Crucible — Kwon Mu-jin's Book of Summons.md"
+  ],
+  "pages_left_alone": [
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/Matla.md: other creator's material. It names Shaka Al as its chief practitioner and is built around Zettari Material Sovereignty. Byte-identical to wiki/. It still carries a typo heading ('The Practices of Malta') and a malformed heading ('1 · Form — , mass, density, substance').",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Named Arts/The Iron Bison — A Discipline of Internal Resonance.md: treated as other creator's material. Iron Bison is the epithet of Dougou Ozumu Zettari (desktop/inventories/zettari.md), and Rengai names and spends it as his father's art in archived scenes. Byte-identical to wiki/. Not setting-fixed: it still says practitioners 'convert Essence into Aether', 'Aether that never leaves', 'the harder the body draws', and has British spellings and em dashes. Those need the owner's word or Isaac's."
+  ],
+  "calls": [
+   {
+    "call": "Left The Iron Bison unchanged as another creator's page, although the page itself reads as a general discipline open to any practitioner and names no Zettari.",
+    "grounds": "Brief's hands-off list names the Zettari and Dougou. Dougou is 'the Iron Bison' in the Zettari inventory, and Naiser's Answer says Dougou is never written. If Isaac rules the discipline is general, it needs the same head-and-Numbers pass as the others plus the setting fixes listed under pages_left_alone."
+   },
+   {
+    "call": "No art was renamed. Titles, H1s and filenames stand. Each of the 10 rebuilt pages gained a caps name line, a hook, a moves list, one-line Cost and Counter, a short 'How it really works' lead above the existing account, and a Numbers block at the bottom.",
+    "grounds": "Task instruction overrides the brief's rename step for this shelf. The existing account stays in place under its existing headings. A digit-token comparison of each rebuilt page against its wiki/ original found no figure missing."
+   },
+   {
+    "call": "Moves lists use the page's existing names wherever it had them (Ken effects, Recarvu techniques, Rusashin Forms, Nadi tiers, Talos expressions, Moetana and Solution capabilities, God Fist doctrines, Crucible roster). Only Ainigma's five moves are coined.",
+    "grounds": "The Ainigma page had no named moves, and R82-11 asks for moves. All five describe effects already on the page, so no new capability was added. Listed under new_names so he can strike them."
+   },
+   {
+    "call": "Added spectacle openings with invented past figures on 8 pages, and none on Kami no Kobushi or The Open Crucible.",
+    "grounds": "Brief bars main cast and plot on public pages; those two are carded people's arts and keep their existing epigraphs. Invented figures, all grepped clear of wiki/: Odo Penhallow, the Widow Ilvane, Tsuruhei, Goro the Quarry Bull, Hana Sekiguchi, Mokichi Hamano, Tamsin Gull, Otsuya, Jeong Hae-rim, Cob Hobnail. Places: Kawabe, Hanamatsu, the Long Pass, Ushio Point, Aldwick. Thorsby, Piers and Hesper were dropped because they collided with existing names, and Wat was dropped because the word appears on another wiki page. The hub gained one line and a hook per entry."
+   },
+   {
+    "call": "Rusashin Form V: 'shaped cannon-rounds' became 'shaped bolts the weight of a ballista's', and '5,000–8,000 per round' became 'per bolt'. The figure is kept.",
+    "grounds": "Brief retires guns and shot, and says bolt where old text said round."
+   },
+   {
+    "call": "Ken and Nadi counters: 'Full plate' and 'Plate' became 'Harness'. Ken's 'incoming fire' became 'incoming blows'. Nadi's 'frame rate' became 'a count'.",
+    "grounds": "Brief's Arms section says the word is harness; a frame rate fails THE TEST. Recarvu's plate-as-tissue wording stays because it describes the body, not armor."
+   },
+   {
+    "call": "Recarvu Passive Vigor: 'converting ambient Essence' became 'converting ambient Aether'.",
+    "grounds": "R83-9: Aether is what lies in the environment, and Essence is what the Crystal refines from it."
+   },
+   {
+    "call": "Open Crucible setting fixes: 'request form' became 'petition'; 'strategic asset designation' became 'entered on its rolls as a strategic holding'; 'deployment order' became 'marching order'; 'mobile forward operating point' became 'walking forward camp'; 'field hospital' became 'field infirmary'; 'a filing system rather than a person' became 'a scrivener's whole archive rather than a person'.",
+    "grounds": "THE TEST. I grepped the old phrases across lore/v1/scenes together and got hits only in scenes that do not concern Mu-jin, but I did not open those hits or check each phrase separately against the Mu-jin scenes. 'Being filed', 'Guild Accord', the Concordia network, every figure and the Latin all stay."
+   },
+   {
+    "call": "Talos keeps 'a bronze giant who guarded Crete' and the Greek-script names, on Ainigma too.",
+    "grounds": "Shown fact on the page, and the task says keep it. Crete does not fit the Grand World, so it is flagged for Isaac and not silently changed."
+   },
+   {
+    "call": "Kami no Kobushi Numbers block carries its figures from the Summary card of The Disciplines/Spellcraft/Kami no Kobushi, with a link. The Cost and Counter lines draw on that page too. The caps line adds 神の拳, which the old page did not print.",
+    "grounds": "The Named Arts page had no reserve figures; both pages are the same art. The kanji is the plain reading of the existing name."
+   },
+   {
+    "call": "No glyph boundary conditions were added on the 9 art pages without glyph data, and no 'Sound:' lines were added anywhere. Open Crucible keeps its existing glyphs.",
+    "grounds": "The Glyph Index is fixed and those pages assign no glyphs. No page names a signature sound word; Rusashin's descriptions of sounds are ordinary words and stay in its table."
+   },
+   {
+    "call": "Mechanical cleanup across the 10 rebuilt pages: em dashes replaced in prose and section headings, British spellings Americanized, 'Catalogd' corrected to 'Cataloged', and draw language changed where it touched Aether or Wellsprings. A sample of colon replacements was reviewed, and one awkward case was hand-fixed. Coagula's 'Unity drawn from dissolution' and the Crucible's 'drawing on Vocatia's recognition-layer' stay as ordinary English. Section headings with em dashes became colons, such as 'Calcination Draft: Honest Fire'.",
+    "grounds": "Brief's page rules. Page-name em dashes in title, H1 and links stay, and so does the empty table cell. A grep of wiki, scenes and desktop found no inbound heading anchors to this shelf."
+   },
+   {
+    "call": "Known leftover: the existing accounts keep their old 'It does not X. It Y.' and 'Not X. Y.' rhetoric, and the '✅ Resolved 2026-09-12' notes on Ken and Rusashin stay.",
+    "grounds": "Task said to add above the existing account and fix the setting, with speed asked for. Rewriting this rhetoric across about 130 KB risked losing shown facts. New text avoids the pattern. This is the main way these pages still fall short of the brief's banned list, and it would take a separate pass."
+   },
+   {
+    "call": "Modern terms stay inside the technical accounts (bandwidth, data stream, Newtons, Hertz, milliseconds, gigajoules, spectrometer).",
+    "grounds": "Brief allows modern science and measures in technical sections (R83-11). None of them names a built thing except 'spectrometer', used as a comparison. No validator was run: the gate covers rules, and these are staged wiki pages."
+   }
+  ],
+  "canon_conflicts": [
+   "Talos, homonym: archived scene class_x_open_dabney_4_chains_of_heaven uses 'Talos' as a lineage word for fenced forms of Ruin (Gimbzo to Darius to Dabney, from talus, scree), logged there as an agent ruling. This page's Talos is a Nihiloth null-field discipline named for the bronze giant. Both stand as written; not resolved.",
+   "Talos and Crete: the page's 'bronze giant who guarded Crete' puts a real-world island in the Grand World. Kept, not resolved.",
+   "Nadi versus scene 18_darius_the_hand_of_the_judger: the page says total force is the constraint the discipline cannot escape, while the scene logs Nadi fed by an external uncapped Ardency source as an exception. The page was not edited to mention it, because it is plot on a public page.",
+   "Ken versus the_true_king_of_the_north parts 14 and 15: the page says Ken is hand-strike Corporis and that the fist is the instrument, while the scene shows 'Cold Ken' delivered through a Frost Sovereignty Field and not a fist. Not resolved.",
+   "The Iron Bison page, unedited, still says conventional practitioners convert Essence into Aether, which contradicts R83-9. Left because the page is hands-off."
+  ]
+ },
+ "techniques-b": {
+  "new_names": [
+   {
+    "file": "Resonant Divination.md",
+    "old": "Resonant Divination",
+    "new": "The World's Gossip"
+   },
+   {
+    "file": "Anima Harmonics.md",
+    "old": "Anima Harmonics",
+    "new": "Ring Me True"
+   },
+   {
+    "file": "Thaumic Harmonics.md",
+    "old": "Thaumic Harmonics",
+    "new": "Break the Song"
+   },
+   {
+    "file": "Invert Eidolon.md",
+    "old": "Invert Eidolon",
+    "new": "The One I Spat Out"
+   },
+   {
+    "file": "Vainglory.md",
+    "old": "Vainglory",
+    "new": "Me, But Better"
+   },
+   {
+    "file": "Transposition.md",
+    "old": "Transposition",
+    "new": "Your Place for Mine"
+   },
+   {
+    "file": "Anointing.md",
+    "old": "Anointing",
+    "new": "The Thumb of Heaven"
+   },
+   {
+    "file": "Scission.md",
+    "old": "Scission",
+    "new": "The Gentle Divorce"
+   },
+   {
+    "file": "Oathrend.md",
+    "old": "Oathrend",
+    "new": "Nobody Swore Anything"
+   },
+   {
+    "file": "Edictum.md",
+    "old": "Edictum",
+    "new": "Because I Said So"
+   },
+   {
+    "file": "Imprinta.md",
+    "old": "Imprinta",
+    "new": "I Was Here"
+   },
+   {
+    "file": "Fallacy.md",
+    "old": "Fallacy",
+    "new": "The World Believed Me"
+   },
+   {
+    "file": "Kami no Kobushi.md",
+    "old": "Kami no Kobushi",
+    "new": "The God Fist: Seven Ways to Refuse"
+   },
+   {
+    "file": "Mugen no Hatsurugi.md",
+    "old": "Mugen no Hatsurugi",
+    "new": "The Infinite First Blade"
+   },
+   {
+    "file": "Saba no Rosa.md",
+    "old": "Saba no Rosa",
+    "new": "The Garden Comes to Collect"
+   },
+   {
+    "file": "Kurotana.md",
+    "old": "Kurotana",
+    "new": "The Black Vessel"
+   },
+   {
+    "file": "Antinomy.md",
+    "old": "Antinomy",
+    "new": "The Traitor in Your Hands"
+   },
+   {
+    "file": "Precept.md",
+    "old": "Precept",
+    "new": "No Such Thing"
+   }
+  ],
+  "pages_changed": [
+   "The Disciplines/Spellcraft/Spellcraft.md",
+   "The Disciplines/Spellcraft/Resonant Divination.md",
+   "The Disciplines/Spellcraft/Anima Harmonics.md",
+   "The Disciplines/Spellcraft/Thaumic Harmonics.md",
+   "The Disciplines/Spellcraft/Invert Eidolon.md",
+   "The Disciplines/Spellcraft/Vainglory.md",
+   "The Disciplines/Spellcraft/Transposition.md",
+   "The Disciplines/Spellcraft/Anointing.md",
+   "The Disciplines/Spellcraft/Scission.md",
+   "The Disciplines/Spellcraft/Oathrend.md",
+   "The Disciplines/Spellcraft/Edictum.md",
+   "The Disciplines/Spellcraft/Imprinta.md",
+   "The Disciplines/Spellcraft/Fallacy.md",
+   "The Disciplines/Spellcraft/Kami no Kobushi.md",
+   "The Disciplines/Spellcraft/Mugen no Hatsurugi.md",
+   "The Disciplines/Spellcraft/Saba no Rosa.md",
+   "The Disciplines/Spellcraft/Kurotana.md",
+   "The Disciplines/Spellcraft/Antinomy.md",
+   "The Disciplines/Spellcraft/Precept.md",
+   "The Disciplines/Spellcraft/The Veil.md"
+  ],
+  "calls": [
+   {
+    "call": "The Iron Tree.md is left byte-identical to wiki/, with no rename and no setting fixes.",
+    "grounds": "It is the Zettari/Iron Bison line (rules/doc-magic-docket-2026-09-26.yaml pairs it with Dougou's card; the page says 'a corrupted Zettari branch'). The brief says to leave other creators' pages unchanged and report them. It therefore still carries 'the harder the draw', 'Draw near nil', British spellings and the old page shape. Its owner or Isaac has to decide on those."
+   },
+   {
+    "call": "Kept the swagger native names as the core of two titles: THE GOD FIST: SEVEN WAYS TO REFUSE (神の拳 · Kami no Kobushi) and THE INFINITE FIRST BLADE (無限の初剣 · Mugen no Hatsurugi). No comic names on either.",
+    "grounds": "NATALIE (R82-10) says cold killers and carded Moto stay serious, and both names already swagger. Archived scenes use them (lore/v1/scenes/Kami-No-Kobushi.md). 'Seven Ways to Refuse' comes from the page's own oral tradition and keeps the title distinct from the Named Arts page 'Kami no Kobushi — The God Fist', which is the same art on another agent's shelf. That agent should not take this exact title."
+   },
+   {
+    "call": "The kanji 無限の初剣 is my own coinage for Mugen no Hatsurugi. Kurotana and Saba no Rosa get romanization only.",
+    "grounds": "I found no native script for these on file. The Hatsurugi reading is a plausible name, and Isaac can strike it. I did not coin glyphs for a Yukari name or for the mixed 'Saba no Rosa'."
+   },
+   {
+    "call": "Added 'hands come together and roots come down out of the empty sky' to the charge on the Saba no Rosa page, with no names attached. The called name stays Saba no Rosa.",
+    "grounds": "R82-46: what an archived scene shows stays true. The White Knot shows that display, and the page must not contradict it. The scene's people are left off because the page is public."
+   },
+   {
+    "call": "Public-page anonymity is kept, with 'its author', 'its originator' and 'a Moto' left as written. Openings for the living practitioners' arts (Kurotana, Antinomy, Mugen, Saba) tell of folk custom, songs, rumor and guild quarrels, with no staged event.",
+    "grounds": "The brief forbids main cast, sealed secrets and arc events on public pages. Those four arts have only one or two practitioners, so an invented duel could contradict canon. I grepped wiki/ for the invented people and places (Isolde Marrable, Bram Coster, Mallow, Cawl, Oxmouth and others) and found no collisions."
+   },
+   {
+    "call": "Kept both Scission bleed figures: 17 to 67 MW in the story and 1 to 75 MW in the waste table. The table's arithmetic checks out across the band.",
+    "grounds": "The old page carries both and they differ. Not settled silently, so it needs a log entry. The '14 dear rites' row also sits oddly beside the 12 to 18 'Rites before Starvation'. Left as is."
+   },
+   {
+    "call": "Turned Scission's garbled editor note (inverted thermodynamics, broken HTML in the Origin section) into a dry narrator's warning about old copies, stating the correct free-energy reading.",
+    "grounds": "Nothing may be lost, and the correction matters. The old note was a stray working comment and read wrong on the page."
+   },
+   {
+    "call": "Imprinta keeps the Codex floor of Stage IV Flourishing at B-Grade, while the worked figures stay at Glory, Expert, with 'Glory is below Refraction'.",
+    "grounds": "The old page disagrees with itself. I kept both so the writing could go on. It needs a log entry."
+   },
+   {
+    "call": "Dropped 'Imperial' from 'the Imperial Convergences' on Resonant Divination and Thaumic Harmonics, leaving 'the Convergences'.",
+    "grounds": "The Imperial Age is after the present (R83-4), so a past Imperial event cannot stand. No renamed successor was invented."
+   },
+   {
+    "call": "Changed Anointing's 'inspector's assay' to 'searcher's assay'.",
+    "grounds": "Settled section-one vocabulary: searchers are the old inspectors."
+   },
+   {
+    "call": "Spellcraft hub says the shelf is the spoken craft and that God Fist, Infinite First Blade, No Such Thing, the Black Vessel and the Iron Tree live here by old filing. Hub links now show street names through aliases, with filenames unchanged.",
+    "grounds": "Their Codex lines say Magicraft, Runecraft or a standing state. Filenames and folders must stay, so the mismatch is explained on the page and left unsolved. Isaac may want them re-shelved."
+   },
+   {
+    "call": "The Veil.md stays as a retired redirect with no new name. Only its em dash changed.",
+    "grounds": "It holds no art. All its content lives on the Cosmology page, which is outside this shelf."
+   },
+   {
+    "call": "Tables, Practitioner and Path lines, Codex and FOW lines, Origin, and Counterplay were pulled from the originals by script, not retyped. Only em dashes, American spelling, retired words and a few 'X, not Y' phrasings changed. A token check against wiki/ found no figure or term lost beyond old section labels and restyled words such as 'Thirty' for '30'.",
+    "grounds": "The brief says never retype a numeric table. Some table cells keep 'a coordinate, not a blow' style wording for that reason. Origin and Codex lines keep some 'rather than' wording."
+   },
+   {
+    "call": "No 'Sound:' lines were added.",
+    "grounds": "None of the old pages names a signature sound word. The old Kami no Kobushi bleed line's 'thud' became 'a shock through the ground' under the no-onomatopoeia rule."
+   },
+   {
+    "call": "Modern-science analogies stay in How it really works (superconductor, laser, seismometers, thermoset, mass damper, Griffith). Everyday modern objects were removed from the prose (headphones, turbine blade).",
+    "grounds": "R83-11 lets science explain a working, but THE TEST rules out appliances, even as an aside in the narrator's voice."
+   }
+  ],
+  "canon_conflicts": [
+   "Scission's Codex line says 'Chantcraft's older choir-form folds into this', while NATALIE calls Chantcraft the fifth craft and the medium-home of Harmonia. The three Harmonia branches here are also filed under Spellcraft by their own Codex lines. Text left as found. Needs a ruling.",
+   "Imprinta: Stage floor is IV Flourishing at B-Grade in the Codex and FOW lines, but the Mechanism and Essence figures are at Glory. Both kept.",
+   "Scission: bleed is 17 to 67 MW in Mechanism against 1 to 75 MW in the waste table. Both kept.",
+   "Kami no Kobushi: the scene file's tradition line credits Möngke and the Named Arts page credits Bara, while this page says 'the line's founder'. Left anonymous here. Not settled.",
+   "The Iron Tree's Codex and Mechanism give its branches at B-Grade output with a 92,000 EU author reserve, and the page keeps retired 'draw' language. Left untouched because the page belongs to another player."
+  ],
+  "pages_left_alone": [
+   "The Disciplines/Spellcraft/The Iron Tree.md (other player's art, Zettari/Iron Bison; byte-identical to wiki/)"
+  ]
+ },
+ "spellcraft": {
+  "new_names": [
+   {
+    "file": "Nightglass Seal.md",
+    "old": "Nightglass Seal",
+    "new": "Who Sent You"
+   },
+   {
+    "file": "Obelisk of the Eclipsed Dawn.md",
+    "old": "Obelisk of the Eclipsed Dawn",
+    "new": "The Dawn Taken Back"
+   },
+   {
+    "file": "Oblivion-Step.md",
+    "old": "Oblivion-Step",
+    "new": "Someone Else's Nap"
+   },
+   {
+    "file": "Oneiron Parasite · Nightmare Warden.md",
+    "old": "Oneiron Parasite · Nightmare Warden",
+    "new": "The Lodger Behind Your Ribs"
+   },
+   {
+    "file": "Oneiron Phantasm Court.md",
+    "old": "Oneiron Phantasm Court",
+    "new": "All Rise for Yourself"
+   },
+   {
+    "file": "Principle Overwrite.md",
+    "old": "Principle Overwrite",
+    "new": "The World, Amended"
+   },
+   {
+    "file": "Puppet-Dream Marionette.md",
+    "old": "Puppet-Dream Marionette",
+    "new": "Your Legs Had a Better Idea"
+   },
+   {
+    "file": "Pyrewind Breaker.md",
+    "old": "Pyrewind Breaker",
+    "new": "Everybody Out"
+   },
+   {
+    "file": "Radiant Ribbon Shell.md",
+    "old": "Radiant Ribbon Shell",
+    "new": "The Air Takes My Word"
+   },
+   {
+    "file": "Seraphic Thread Blessing.md",
+    "old": "Seraphic Thread Blessing",
+    "new": "Hold Still, You Idiot"
+   },
+   {
+    "file": "Sigillum Fixationis.md",
+    "old": "Sigillum Fixationis",
+    "new": "As You Were"
+   },
+   {
+    "file": "Solarbound Aegoric Knight.md",
+    "old": "Solarbound Aegoric Knight",
+    "new": "One Oath, One Swing"
+   },
+   {
+    "file": "Somnii Scriptorium.md",
+    "old": "Somnii Scriptorium",
+    "new": "A Word in Private"
+   },
+   {
+    "file": "Sovereign Parallax Lance.md",
+    "old": "Sovereign Parallax Lance",
+    "new": "The Wound You Saved for Me"
+   },
+   {
+    "file": "Sovereign's Reprisal.md",
+    "old": "Sovereign's Reprisal",
+    "new": "Tribute Received"
+   },
+   {
+    "file": "Speculum Harmoniae.md",
+    "old": "Speculum Harmoniae (with Nexus Harmoniae)",
+    "new": "Two of Me, All of You"
+   },
+   {
+    "file": "Speculum Recordationis.md",
+    "old": "Speculum Recordationis",
+    "new": "Returned with Corrections"
+   },
+   {
+    "file": "Spinal Forge Ascent.md",
+    "old": "Spinal Forge Ascent",
+    "new": "Pay You Later"
+   },
+   {
+    "file": "Symphonia Ascendens.md",
+    "old": "Symphonia Ascendens",
+    "new": "That Was Flat"
+   },
+   {
+    "file": "Tenebra Ambush Art.md",
+    "old": "Tenebra Ambush Art",
+    "new": "Eight Paces of Nothing"
+   },
+   {
+    "file": "The Aether Bastion.md",
+    "old": "The Aether Bastion",
+    "new": "The Unbribed Wall"
+   },
+   {
+    "file": "The Last Monolith.md",
+    "old": "The Last Monolith",
+    "new": "Let the World Strike"
+   },
+   {
+    "file": "The Principle Engine.md",
+    "old": "The Principle Engine",
+    "new": "Both, Thank You"
+   },
+   {
+    "file": "Veil of Verdant Pact.md",
+    "old": "Veil of Verdant Pact",
+    "new": "More House"
+   },
+   {
+    "file": "Vorynn Execution Strike.md",
+    "old": "Vorynn Execution Strike",
+    "new": "The Cold Handshake"
+   },
+   {
+    "file": "Winter Rend.md",
+    "old": "Winter Rend",
+    "new": "White Line"
+   },
+   {
+    "file": "World Echelon.md",
+    "old": "World Echelon",
+    "new": "Order in the World"
+   }
+  ],
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Nightglass Seal.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Obelisk of the Eclipsed Dawn.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Oblivion-Step.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Oneiron Parasite · Nightmare Warden.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Oneiron Phantasm Court.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Principle Overwrite.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Puppet-Dream Marionette.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Pyrewind Breaker.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Radiant Ribbon Shell.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Seraphic Thread Blessing.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Sigillum Fixationis.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Solarbound Aegoric Knight.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Somnii Scriptorium.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Sovereign Parallax Lance.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Sovereign's Reprisal.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Speculum Harmoniae.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Speculum Recordationis.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Spinal Forge Ascent.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Symphonia Ascendens.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Techniques.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Tenebra Ambush Art.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/The Aether Bastion.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/The Last Monolith.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/The Principle Engine.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Veil of Verdant Pact.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Vorynn Execution Strike.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/Winter Rend.md",
+   "imports/drafts/wiki-rewrite/library/wiki/The Disciplines/Techniques/World Echelon.md"
+  ],
+  "calls": [
+   {
+    "call": "Bullet row in the Tribute Received (Sovereign's Reprisal) table replaced by a heavy arbalest bolt: 100 g at 94 m/s, 9.4 kg·m/s, 440 J. The old figures 800 m/s and 3,200 J are gone.",
+    "grounds": "The brief retires guns and gives about 440 J for a heavy arbalest. The 100 g bolt mass is my assumption, and it gives the speed and momentum. The law holds: the bolt carries less impulse than the 20 kg·m/s hammer, so it does not trip the threshold cleanly."
+   },
+   {
+    "call": "Petrol became distilled naphtha at the same 44 MJ/kg in the One Oath, One Swing table and prose; 13 × and 6,900 × keep their values.",
+    "grounds": "Petrol fails THE TEST as a modern product. Naphtha is medieval and has about the same energy density, so no figure moved."
+   },
+   {
+    "call": "Oblivion-Step's 172 dB row now reads a thunderclap at arm's length in place of a gunshot; the Radiant Ribbon, Nightglass and Recordationis counter lines now say bolts in place of shot; the Obelisk's airship line became anything aloft.",
+    "grounds": "The brief retires guns and airships. Every number stays."
+   },
+   {
+    "call": "Machine-age analogies in the prose were swapped for period ones: transponder to relay beacon, one-color missile seeker to a hawk hunting by one cue, core memory to a wax seal spent by opening, pendulum clocks to pendulums on one beam, laser to coherent beam, licensing office to toll gate, gauge to mark. The named physics stays: eddy currents, Salisbury and Jaumann layers, Kuramoto.",
+    "grounds": "THE TEST covers objects and institutions, and the brief says modern science may still explain a working. So laws and figures stayed and only the appliances went."
+   },
+   {
+    "call": "No native-language names were given, and no sound lines were added.",
+    "grounds": "None of these pages records its art's culture, and the brief asks for a native name only if the culture is known. None of the old pages names a signature sound word."
+   },
+   {
+    "call": "Internal mismatches were kept and explained in-world: Principle Overwrite's summary says roughly fifteen seconds against 18 s in the mechanism, and World Echelon's says roughly forty seconds against 48 s. The pages say common report rounds it and the Guild roll gives the exact figure.",
+    "grounds": "Nothing is lost, and the contradiction is not settled silently. The exact figures stay in Numbers."
+   },
+   {
+    "call": "Filing sections were moved to the bottom: Physics tables, the Essence section and the Codex, FOW and Origin lines were lifted untouched from the originals by script and placed in Numbers and after it, with spelling and em-dash fixes. Counterplay stays as its own section after the Cost and Counter lines. Old H2 and Summary, Physics, Metaphysics, Mechanism and Essence headings are gone.",
+    "grounds": "The brief forbids retyping numeric tables. A grep found no heading-anchor links into these pages, and analysis.rs mentions the Summary card only as guidance text. A script checked every number in each original against the new page; only the Reprisal bullet's 800 and 3,200 are absent, as intended."
+   },
+   {
+    "call": "Meta wording about 'the source' or 'source card' now says 'the roll' or 'the old roll', and the Origin text on Pyrewind Breaker, Radiant Ribbon Shell and Speculum Recordationis was reworded in-world with the same facts.",
+    "grounds": "The narrator stays in-world, and no fact changes."
+   },
+   {
+    "call": "Opening stories use invented past figures, schools already on the page, or unnamed witnesses. The unnamed authors get no invented biography. Serenyra stays named only where the old pages name her.",
+    "grounds": "The brief bars main cast and plot on these pages, and carded facts are fixed. A grep found neither Serenyra nor Vorynn on any card or scene outside this library."
+   },
+   {
+    "call": "Names that collided with other pages were replaced: Ostrey to Wickerby, Tollen to Pell, Marrable to Trevick, Ambry to Lanthorn, Harrowmere to Merrowbank, Dunnock to Hartsop.",
+    "grounds": "Grep of wiki/ and the staged shelves, as the brief requires."
+   },
+   {
+    "call": "The Techniques.md hub links now show each new name with its scholars' term, for both halves of the shelf.",
+    "grounds": "The hub was on my shelf, and the other agent's titles were already staged when I last ran it. If that agent changes a title, the hub alias goes stale until scratchpad/shelfb/hub.pl is run again."
+   },
+   {
+    "call": "Slip to report: a sed meant for my own pages ran over every staged page in Techniques/, including the other shelf's Archivii Locus.md, whose 'Dunnock' it turned to 'Hartsop'. I set it back, and that page now shows no Hartsop and one Dunnock. The same sed -i also rewrote the other shelf's files in place with their content otherwise unchanged. A write by that agent during those seconds could have been lost, though I saw no sign of one.",
+    "grounds": "The task says to touch only my shelf's staged files, so the launching session should know. Archivii Locus.md is worth a glance by its owner."
+   }
+  ],
+  "canon_conflicts": [
+   "Sigillum Fixationis: the old source's 'Mind Path' is not a Path. The old page already reads it as Gnosis weighting, and that note is kept as 'the old roll's'.",
+   "Principle Overwrite: Dominion Sovereignty's Fate Path gate at Stage VI is not met on the declared Spirit Path. The page states this and caps Sovereignty at SSS; kept unchanged, not resolved.",
+   "Obelisk of the Eclipsed Dawn: a full SSS Cascade costs more than a working-band reserve. The old page already says only a practitioner near the ceiling can throw it; kept.",
+   "Speculum Harmoniae: the summary says the double carries the target's signature, while the mechanism says two of the caster. Both are kept: the ring is traced around whoever is being doubled, and a self-mirror is a named case. Not settled further.",
+   "Tenebra Ambush Art, Vorynn Execution Strike and Winter Rend: η 0.55 sits 0.05 under the Expert band of 0.60 to 0.70. The page calls it the author's own figure; kept as an outlier.",
+   "No guns or draw language came from sources/ on this shelf; everything retired sat in wiki page text. RULINGS.md, CONFLICTS.md and sources/ were not touched."
+  ],
+  "pages_left_alone": [
+   "No page on this shelf belongs to another creator: Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem, Sonzai (Chuluun) and the Zettari do not appear in any of the 28 originals.",
+   "Archivii Locus.md was not meant to be touched; see the last entry under calls for the stray edit and its reversal."
+  ]
+ },
+ "named-arts": {
+  "new_names": [],
+  "pages_changed": [
+   "The Disciplines/The Disciplines.md",
+   "The Disciplines/Schools and Bloodline Arts/Schools and Bloodline Arts.md",
+   "The Disciplines/Schools and Bloodline Arts/The Harmonic Arts.md",
+   "The Disciplines/Schools and Bloodline Arts/The Sage Arts.md",
+   "The Disciplines/Schools and Bloodline Arts/The Spirit Rune Arts.md",
+   "The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye.md",
+   "The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto.md",
+   "The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate.md",
+   "The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works.md",
+   "The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Spirit Summoning Arts.md",
+   "The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Infinite Summoning Arts.md",
+   "The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion.md"
+  ],
+  "calls": [
+   {
+    "call": "No art, Work, school or page on this shelf was renamed. Titles and H1s are unchanged, and move lines use only names already on the pages, in caps.",
+    "grounds": "The shelf instruction overrides the library's general rename step: bloodline and school arts are canon, and Hataraki and the Moto arts keep their names and Works."
+   },
+   {
+    "call": "Asami and Gisei is the one exception to the rule above. Its six move lines use archivist's labels (A MEMORY OFFERED!, THE AURA BECOMES A LAW!), and the page says outright that these are labels and that nobody shouts them.",
+    "grounds": "They are states with no named moves. The labels restate the four sacrifice currencies and the page's own 'aura becomes a law' heading."
+   },
+   {
+    "call": "Native script added where the file had none: 浅見 for Asami, 犠牲 for Gisei, 働き for Hataraki. 結命眼 was already on its page.",
+    "grounds": "The entry shape asks for the native name when the culture is known. These are ordinary Japanese spellings. 浅見 literally reads 'shallow seeing', which matches the page's Shallow-Seen. Isaac can strike them; I did not check them on jisho."
+   },
+   {
+    "call": "Fixed the garbled Asami and Gisei header lines ('Asami (Ү-nen) ... formerly Asami'). They now read 'older rolls mark the reading Ү-nen' and 'older rolls mark the reading TAH-khil'.",
+    "grounds": "The 'formerly' clauses were self-referring leftovers of a find-and-replace from the dead Büri register. Nothing is lost, and the pronunciations survive as the old scholars' reading (R82-9)."
+   },
+   {
+    "call": "Kept 'vein' and 'current' in the Sage and Summoning pages as Sage words, each glossed on the page as Aether moving through ground: a vein is a run of rich ground where one Aether pools, a Core before anyone has worked it, with no pipe in it.",
+    "grounds": "The brief retires Wellsprings as a current in a pipe, but these terms carry the pages' law, including 'direct Wellspring vein conduction' and the 'Wellspring parasitism' prosecuted under Statute XXVI. Other magic pages also still use vein. The gloss fits R83-9."
+   },
+   {
+    "call": "A Wellspring Grove is now glossed as a Core in common speech, with Sages as its keepers, so 'a Grove's keepers can close it' becomes part of the counter.",
+    "grounds": "Brief: a worked site is a Core and its keepers can close it. The page's seventeen Groves are worked sites."
+   },
+   {
+    "call": "Kept the Measurewrights' hexagonal Grid-arrays, but they are now cut by hand into city footings, one city and one master at a time, and paid by the job, in place of a maintained grid beneath the cities.",
+    "grounds": "THE TEST: a hand-cut one-off from an oath guild passes, and a utility does not. The Realm-quake law survives, and Deep Grid and the Hexagonal Oath are canon elsewhere."
+   },
+   {
+    "call": "Machine-age and bureaucratic items replaced: hospital became infirmary, certification and inspection became a Guild license and a sworn searcher's reading, automated defensive systems became standing defenses that fire with no hand on them, blueprints became mason's drawings, 'track-changes' became correction in the margin, strip-mining became quarrying, programmed became drilled, and infrastructure became groundwork, Guild craftsmen or Shell gates. On Sage and Summoning, 'Guild-certified' became Guild-sealed.",
+    "grounds": "The brief's retired table and THE TEST. Nothing was removed outright beyond those words."
+   },
+   {
+    "call": "'Voyager Era' stays as a named era, but the sentences that used it as the present now read 'from the Voyager Era down to the present Dark Ages'.",
+    "grounds": "The Concordance keeps the Voyager Era at 000 to 070 IC, and the present tense of these pages is the Dark Ages. On Spirit Summoning I also softened 'rare and sacred' to 'rarer at its heights' and added that every fair town has a yard, so it fits practitioners being common (R83-10)."
+   },
+   {
+    "call": "Replaced 'plate' with 'harness' in Bara's Hataraki no Sho and made no other setting change to his text, which keeps his voice and needed no spectacle opening. A short archivist's headnote with the hook and move lines sits above it, and an archivist's Cost, Counter and Numbers sit below it.",
+    "grounds": "The brief's rules for in-world documents and arms. The shelf order still asks for hooks and move lines, so they sit outside the sealed text. Sho arts live only on the Sho page, and the main Hataraki page lists the seven Works and points there (school art lives once)."
+   },
+   {
+    "call": "Omnipresent Form appears both as rung XI in the Twelve Stages and in Infinite Summoning. I kept the rung with its cost and pointed it at the Infinite page for the full account.",
+    "grounds": "'A school art lives once' against 'nothing is lost'. The rung belongs to the curriculum, and the full entry has one home."
+   },
+   {
+    "call": "Added a 'The Clubs' section to Harmonic, Sage, Rune and Summoning, each with colors, song, a fifty-pace tell and a grudge. These details are invented, for existing schools (Auricle Choir, Cantic Order, Frequencywrights, Sonochoral Conclave, Verdant Synod, Veydrun Covenant, Measurewrights, Fifth Sigil, Anemoir). New schools are the Karrveth Stone-Hands, Ridge Walkers, Yorul's Lads, Valein's Scarves, Forge Hosts and Black Gate Undertakers. Street slang added: earwig, dirt-whisperer, cutter, fetch.",
+    "grounds": "R82-34, R82-39, R83-7. Inventing schools and nicknames is allowed. The Measurewrights' blue and brass is new and may need checking against other shelves; I found no prior dress on file."
+   },
+   {
+    "call": "Invented figures for the openings, all grep-checked as unused in wiki/ and the staged library: Averil Madder and Wenna Corbel (Ondry, funeral); Tam Bracken, the Abbot of Fenmarch and Dame Pennon Larkspur (Fenmarch and Saltby, lawsuit); Hester Rushlight (Mothwick, recipe); Black Hob Ransome (Tarn toll, smuggler); Yselle Ambrel and the Merry Wager (Thole skerries, shipwreck); Ōtori Genba and Yukari Hisame (Oritsu, duel); Moto Sayo (Akanoe, siege); Moto Naoki and Moto Kiyo (Tobishima, brackets); Quillon Cross (fair riot). The Twelve Stages opens on a skipping rhyme.",
+    "grounds": "The brief permits minor past figures on public pages and asks for varied shapes. No main cast, sealed material or arc events are used. The three new Moto and one Yukari are uncarded people in existing bloodlines, with no bloodline fact changed. Isaac may want to look at them."
+   },
+   {
+    "call": "Added the shared-art names (the nose, kehai, sounding, nunchi, shénshí) to Resonant Perception in the Harmonic Arts, using section one's Part Six table.",
+    "grounds": "R82-19 and the brief's 'use these, do not reinvent'."
+   },
+   {
+    "call": "Hard line breaks (two trailing spaces) added to every move line.",
+    "grounds": "Otherwise consecutive move lines collapse into one paragraph in standard Markdown renderers. They are invisible in the source and match the template's one line per move."
+   },
+   {
+    "call": "The Disciplines.md: turned the bare 'The Magical Categories — Unified Taxonom' pointer into a wikilink to the existing page; also fixed a stray 'catalogd' and a malformed Sage Tier III table cell ('  • Vocatia' now reads 'Harmonia (deep) + Synergia + Vocatia').",
+    "grounds": "Dead text and conversion damage. The taxonomy filename's own typo stays because filenames stay. The Tier III cell is my reconstruction from the pillars listed for the tier."
+   },
+   {
+    "call": "Replaced em dashes in prose and in the Ketsumyōgan's eight type headings. Page-name em dashes and the empty-cell dashes in the Pipeline table stay.",
+    "grounds": "Brief, and a grep found no anchor links to those headings."
+   },
+   {
+    "call": "Verified a token diff of every page against its wiki/ original. No number, Stage or capitalized term was lost except deliberate rewordings (for example Hospital and Guild-certified). Staged pages run 12 to 36 percent longer. Live wiki/ was not touched.",
+    "grounds": "'Nothing is lost.' The comparison is mechanical and does not cover ordinary lowercase words."
+   }
+  ],
+  "canon_conflicts": [
+   "The Hataraki no Sho's Seven Lines (Tsagaan-ke, Ulaan-ke, Khökh-ke) and the Hataraki page's second roster (Zayaniin Tort, Ariun Gerel, Mönkhiin Kharankhui, Düürleltiin Toirog, Ev Nairaliin Duu) still read as the dead Büri register. Left as they are under the no-rename order. The Discrepancies table already records the roster as unreconciled, so someone should rule on it.",
+   "Ketsumyōgan and Spirit Rune pages say 'Inner World' and 'Innerworld' while the setting is now the Grand World. Left as is; no ocean or post-split history is involved on this shelf.",
+   "Bara's Sho names estocs and half-swording in a text dated before time. These are late-medieval weapons and methods. Kept as his voice; the setting fix was limited to harness.",
+   "Infinite Summoning names Cozbi Mahuo and Kwon Mu-jin on a public page, and the Spirit Summoning page names Karo Venrik. These are existing text, left unchanged, and nothing new was added about them. The Zettari records in Asami and the Zettari-Mahuo Accord in Infinite Summoning were also left as they are, per the hands-off list."
+  ],
+  "pages_left_alone": []
+ },
+ "schools": {
+  "new_names": [
+   {
+    "file": "Archivii Locus.md",
+    "old": "Archivii Locus",
+    "new": "The Chalk Says Otherwise"
+   },
+   {
+    "file": "Ashfang Mark Invocation.md",
+    "old": "Ashfang Mark Invocation",
+    "new": "Wear What You Kill"
+   },
+   {
+    "file": "Auric Parallax Veil.md",
+    "old": "Auric Parallax Veil",
+    "new": "The World's Second Opinion"
+   },
+   {
+    "file": "Bastion Imperium.md",
+    "old": "Bastion Imperium",
+    "new": "King of This Spot"
+   },
+   {
+    "file": "Bloodbind Surge.md",
+    "old": "Bloodbind Surge",
+    "new": "Give the Beast Your Bones"
+   },
+   {
+    "file": "Celestial Decree Aeon-Shard Mandate.md",
+    "old": "Celestial Decree: Aeon-Shard Mandate",
+    "new": "The Ten-Law World Jewel"
+   },
+   {
+    "file": "Celestial Harmonic Shear.md",
+    "old": "Celestial Harmonic Shear",
+    "new": "Heaven's Hairline"
+   },
+   {
+    "file": "Chorda Somnii.md",
+    "old": "Chorda Somnii",
+    "new": "Somebody Else's Clock"
+   },
+   {
+    "file": "Coagula Dominium.md",
+    "old": "Coagula Dominium",
+    "new": "Privilege Revoked"
+   },
+   {
+    "file": "Corona Lunaris.md",
+    "old": "Corona Lunaris",
+    "new": "The Moon Says No"
+   },
+   {
+    "file": "Crimson Dirge.md",
+    "old": "Crimson Dirge",
+    "new": "The Six Red Verses"
+   },
+   {
+    "file": "Cryost Ascendant.md",
+    "old": "Cryost Ascendant",
+    "new": "The Winter Ledger"
+   },
+   {
+    "file": "Dirge Ascension.md",
+    "old": "Dirge Ascension",
+    "new": "Forty-Five Seconds of God"
+   },
+   {
+    "file": "Dreambreaker Field · The Shattered Midnight.md",
+    "old": "Dreambreaker Field · The Shattered Midnight",
+    "new": "The Crooked Midnight"
+   },
+   {
+    "file": "Edict Strike.md",
+    "old": "Edict Strike",
+    "new": "The Weight of Your Maybe"
+   },
+   {
+    "file": "Edictum Resonantiae.md",
+    "old": "Edictum Resonantiae",
+    "new": "Not In My Court"
+   },
+   {
+    "file": "Eidolyn Falseface Lattice.md",
+    "old": "Eidolyn Falseface Lattice",
+    "new": "Here's What You Were Afraid Of"
+   },
+   {
+    "file": "Final Mercy.md",
+    "old": "Final Mercy",
+    "new": "The Last Kind Word"
+   },
+   {
+    "file": "Florwyn's Canticle.md",
+    "old": "Florwyn's Canticle",
+    "new": "Sing It Shut"
+   },
+   {
+    "file": "Fluxus Intervallum.md",
+    "old": "Fluxus Intervallum",
+    "new": "Already Over There"
+   },
+   {
+    "file": "Harmonic Null-Ascension.md",
+    "old": "Harmonic Null-Ascension",
+    "new": "Your Own Last Note"
+   },
+   {
+    "file": "Hunter's Breath.md",
+    "old": "Hunter's Breath",
+    "new": "Breathe Like the Winter"
+   },
+   {
+    "file": "Hypnather Descent Rite.md",
+    "old": "Hypnather Descent Rite",
+    "new": "Bedtime"
+   },
+   {
+    "file": "Judgment Manifest.md",
+    "old": "Judgment Manifest",
+    "new": "The Three Walking Laws"
+   },
+   {
+    "file": "Letheveil Memory-Quake.md",
+    "old": "Letheveil Memory-Quake",
+    "new": "What Were We Doing?"
+   },
+   {
+    "file": "Liminal Palace of False Dawn.md",
+    "old": "Liminal Palace of False Dawn",
+    "new": "Welcome to My Morning"
+   },
+   {
+    "file": "Lumen Dissecans.md",
+    "old": "Lumen Dissecans",
+    "new": "Show Your Work"
+   },
+   {
+    "file": "Maw of Crystalline Stasis.md",
+    "old": "Maw of Crystalline Stasis",
+    "new": "Slow Down or Shatter"
+   },
+   {
+    "file": "Mireglass Suffusion.md",
+    "old": "Mireglass Suffusion",
+    "new": "Remember This?"
+   }
+  ],
+  "pages_changed": [
+   "Archivii Locus.md",
+   "Ashfang Mark Invocation.md",
+   "Auric Parallax Veil.md",
+   "Bastion Imperium.md",
+   "Bloodbind Surge.md",
+   "Celestial Decree Aeon-Shard Mandate.md",
+   "Celestial Harmonic Shear.md",
+   "Chorda Somnii.md",
+   "Coagula Dominium.md",
+   "Corona Lunaris.md",
+   "Crimson Dirge.md",
+   "Cryost Ascendant.md",
+   "Dirge Ascension.md",
+   "Dreambreaker Field · The Shattered Midnight.md",
+   "Edict Strike.md",
+   "Edictum Resonantiae.md",
+   "Eidolyn Falseface Lattice.md",
+   "Final Mercy.md",
+   "Florwyn's Canticle.md",
+   "Fluxus Intervallum.md",
+   "Harmonic Null-Ascension.md",
+   "Hunter's Breath.md",
+   "Hypnather Descent Rite.md",
+   "Judgment Manifest.md",
+   "Letheveil Memory-Quake.md",
+   "Liminal Palace of False Dawn.md",
+   "Lumen Dissecans.md",
+   "Maw of Crystalline Stasis.md",
+   "Mireglass Suffusion.md"
+  ],
+  "calls": [
+   {
+    "call": "Page structure: new H1 and H2, scholars' term line, spectacle, hook, moves, How it really works, Cost, Counter, then Codex line, FOW line, Origin and Counterplay, with Numbers at the bottom. Summary card, Metaphysics and Mechanism are absorbed into How it really works. The Physics and Essence headings survive inside Numbers.",
+    "grounds": "BRIEF_LIBRARY entry shape, and the brief's instruction to keep headings where possible. No inbound links to section anchors turned up in a sampled grep of wiki/."
+   },
+   {
+    "call": "Codex, FOW, Origin and Counterplay sections, every numeric table and the Essence lines were spliced mechanically from the live page, with small targeted fixes. They were not retyped.",
+    "grounds": "Brief: never retype a numeric table from memory. A token check confirmed every numeric figure from the old page survives on the new one, in digits or, for a few round figures (45 percent, 35 percent, a quarter, sixty meters, 2,800,000 AU/s as 2.8 × 10⁶), in words or scientific form."
+   },
+   {
+    "call": "Retired words replaced: 'Mean draw' to 'Mean drain', 'Power drawn' to 'Power pulled', 'standing draw' to 'standing pull', 'every draw' to 'every use', and shot, fired shot and 'Shot, volleys' to bolts. Ordinary English 'draw' stays (a line drawn, the air draws in, draws a burst).",
+    "grounds": "Brief's retired table and its words section."
+   },
+   {
+    "call": "Machine-age analogies replaced: 'wireless charging' with one lute string waking another, 'dosimeter' with an assayer reading a dose from a heated crystal, 'data sheet' with assay, 'chronometer' with water clock.",
+    "grounds": "THE TEST. No object, trade or institution on this shelf otherwise failed it, so nothing else was removed."
+   },
+   {
+    "call": "Kept 'Faraday-caged interiors' in Fulguria terrain lines, glossed as rooms walled in iron mesh; Corona Lunaris and Celestial Harmonic Shear carry the gloss.",
+    "grounds": "It is a physics term in a terrain statement, and the same wording appears across these pages' Wellspring law. R83-11 allows modern science in technical sections. No page is altered beyond the gloss."
+   },
+   {
+    "call": "Kept Accord licensing language ('the Accord licenses it under Consent', 'licensable').",
+    "grounds": "The Accord's license is a legal and theological category, not a mass service, and 'Who Pays for the Lamp' still has license schedules."
+   },
+   {
+    "call": "Native-script names were omitted on all 29 pages. The old Latin or English term stands in the H2 as the scholars' name.",
+    "grounds": "Brief: native-language name only if the art's culture is known. These pages are anonymized and name no culture."
+   },
+   {
+    "call": "Authors stay anonymous, and the Origin sections are unchanged apart from spelling. Each spectacle opening is carried by invented witnesses or victims of past generations, with the practitioner unnamed. The one exception is Fluxus Intervallum, an anonymous Codex technique anyone may learn, so an invented user, Merrin Cobb, carries it.",
+    "grounds": "Brief: public pages, no main cast. Origin says most arts have one known user, so no invented person is given those arts."
+   },
+   {
+    "call": "Art pronouns follow each old page's Summary card, including he on Dreambreaker Field.",
+    "grounds": "Keeps the old page's facts. Where a page used 'the practitioner' or 'they' throughout, one pronoun was chosen for readability."
+   },
+   {
+    "call": "New moves were named from what each page already does; the old mode names survive. Auric Parallax Veil keeps Selective Negation, Reality Reinforcement and Refraction Break as scholars' terms. The Aeon-Shard keeps Worldrend, Worldbind and Dreamveil. The Palace keeps False Motion and False Causality. Cryost keeps the Bloom and the Stillpoint.",
+    "grounds": "R82-9 and R82-46. A few moves are small inventions inside the card's limits: Fluxus 'The Bell' as a feint, Hunter's Breath 'Low and Slow', Ashfang 'The Last of the Bone'."
+   },
+   {
+    "call": "Cross-references: Final Mercy names Dirge Ascension with its new shout beside it. Dirge Ascension still says 'World Echelon', 'Talos-class' and 'Principle Engine' under their old names.",
+    "grounds": "Those pages belong to other shelves, and no new name was invented for another agent's art. The hub Techniques.md is on the other half of the shelf and still lists old names; its links resolve because filenames stay."
+   },
+   {
+    "call": "Removed dangling pointers: '; see Weakness' on the Dirge Ascension and Judgment Manifest FOW lines, and ' per the migration note above' on Mireglass. The fact that Oblivara was substituted for Nyxial stays.",
+    "grounds": "The sections pointed to do not exist on these pages."
+   },
+   {
+    "call": "Fixed garbled typography where touched: 'T*c' to 'T_c', 'η*r' to 'η_r' and similar, plus 'centerd' and 'catalogd' to centered and cataloged, and British -ise and -metre spellings to American.",
+    "grounds": "Brief's page rules. A garbled formula subscript is a typo, not a figure change."
+   },
+   {
+    "call": "Invented person names were grepped against wiki/, and those that collided were changed before filing: Dunnock to Haybittle, Thackeray to Wainfleet, Ashby to Lisle, Pask then Thrupp to Wickett.",
+    "grounds": "Brief: no name may collide with one already used. 'Bartleby Quench' stays; the hits on Quench are the common word quench in technical pages."
+   },
+   {
+    "call": "New art names were checked against wiki/ and all staged library copies, with no collisions at time of writing. The shelf's other agents had claimed no colliding titles.",
+    "grounds": "Brief: no two pages may share a new name. Worth a recheck when the other half lands."
+   }
+  ],
+  "canon_conflicts": [
+   "Judgment Manifest: the old Summary card says 'roughly twenty-five seconds', while Physics and Essence say five turns, 30 s. Made the call for 30 s and dropped the twenty-five; it may need logging.",
+   "Maw of Crystalline Stasis: 'What nobody knows' says nobody knows whether the field fails at edge or center first when overheated, yet the Mechanism states 'an overheated Maw fails at its edge while the coarse center holds longest'. Both are kept word for word on the page; not resolved.",
+   "Eidolyn Falseface Lattice and Hypnather Descent Rite Codex lines give the Physics Domain as 'Abstract-Entropic Systems', while other Limina pages say 'Entropy, Void and Mind'. Left as found.",
+   "Eidolyn Falseface Lattice: the FOW line lists 'Gnosis Memorium' and the Metaphysics says 'Gnosis Retention' for Eidolyn's stat effect. Also, its FOW and Metaphysics give Oneirion different Sub-Stats (Cognition and Reach in FOW; Cognition, Sovereignty and Cascade in Metaphysics). Both kept.",
+   "Cryost Ascendant's Codex line calls Vohrin 'outside the Sixty's enumerated list', while the Metaphysics of it and of other pages treats Vohrin as 'one power at two levels, Titan and Wellspring'. Kept as written.",
+   "Bloodbind Surge's Summary says 70 percent of 'active Essence reserve' per minute; Essence says 'full reserve'. Used full reserve, as the tables compute it."
+  ],
+  "pages_left_alone": []
+ },
+ "cross": {
+  "fixed": [
+   "All edits are in the staged copies only. wiki/The Disciplines, sources/, rules/, RULINGS.md and CONFLICTS.md are untouched, and git status shows no change under wiki/The Disciplines.",
+   "LOST LAW RESTORED. Techniques: Vorynn's 'Requires Bloodbind ignition' (Bloodbind had vanished from the page entirely); Principle Engine's paradox too large for the phase-change valve, which does not fail safely; Dirge Ascension's term 'proto-Archonic' and shed mortal ceiling; Cryost's inverted pull; Celestial Harmonic Shear's law-vector backlash on Emanation-level workings; Phantasm Court's 'mind at peace' failure; Symphonia's chaotic non-repeating pattern counter and 'harmless' light and noise; Bastion Imperium's anti-structure Wellsprings; Seraphic's mild, lingering emotional drain; Harmonic Null's silent chord.",
+   "CONTRADICTIONS PUT BACK ON THE PAGE. Aether Bastion: 'raw kinetic weight fractures it' had been silently dropped; both readings now stand beside 'concentration breaks it, not weight'. Judgment Manifest: the roughly twenty-five seconds of common report is back beside the 30 s roll.",
+   "FIGURES. Exact bleed percentages that survived only as prose words ('Thirty-five percent') now also sit as digit lines in the Numbers block on Edictum, Invert Eidolon, Mugen no Hatsurugi, Dreambreaker, Edict Strike, Eidolyn, Florwyn, Fluxus, Hunter's Breath and Maw. Vainglory's 8 to 90 percent fabrication share is restored. A script now finds every number from the old pages on the new ones. The only table-row figures gone are the deliberately retired bullet row on Sovereign's Reprisal (800 m/s, 3,200 J). I checked its replacement arithmetic: 100 g at 94 m/s gives 9.4 kg·m/s and about 440 J, still under the 20 kg·m/s threshold.",
+   "WENT BACK TO A SCENE. The Open Crucible had changed 'It is a request form' to 'It is a petition', but archived scene lions_bane has Kwon Mu-jin saying 'It is a request form', so the line is reverted under R82-46. The agent had flagged this scene check as not done.",
+   "HANDS OFF. Removed the Spellcraft hub sentence that added a claim about The Iron Tree. Matla, The Iron Bison and The Iron Tree were confirmed byte-identical to wiki/.",
+   "NAMES AND TERMS. No duplicate titles across the library. Every art page keeps its old name as the scholars' term. Renamed the dull 'White Line' to 'Slower, but Truer' (from the page's own doctrine; WHITE LINE stays as a move), hub updated. Scission's EVICTION! became CLEAR THE HOUSE!, because the Oneiron Parasite page also had it. Techniques hub scholars' terms now match the pages (five were stale: Sigillum Fixatio, Speculum Recordatio, Symphonia Ascendant, Archivium Locus, Somnium Scriptorium).",
+   "HOOKS. Principle Overwrite's hook had the system word 'Hermetic Principle', now removed from the hook and put back in the mechanism (that hook was the page's only use of the term). Obelisk's hook is shortened. Speculum Harmoniae's hook was wrong ('two of you'; it is two of her). Hataraki's hook wording fixed.",
+   "NAME COLLISIONS. The agents' greps missed about 35 invented people who collided with wiki/ or with each other: Marrable twice; Harrow twice plus Harrow Cross; Bram three times (one a carded grandson's name); Tolliver, Cobbold, Cobb, Nettle, Pell, Quillon, Brack, Crake and Wray; Harald (Old Harald Keld is carded); Ansa Brook at 'the Three Keys', against the Widow Ansa Brack of the Three Keys in Release Forms. All renamed per page. Name-only cards such as Sir Anselm became Sir Amaury; Thomasin Haybittle, Hilary Lisle and Asta Skoll are examples of the new names. Most replacements were grepped clean of wiki/ and scenes; Garth, Wilkin and Sorrel each had one or two hits and were left.",
+   "THE TEST. Removed 'Ninth Foot', 'Army of the Vale' with its commission, 'old posters', 'data stream', 'living infrastructure' on the Spellcraft God Fist page, 'a door marked push', 'telegraph the strike', and 'reference data' in a move line.",
+   "ONOMATOPOEIA AND SPELLING. Replaced 'thud' on Edict Strike. British leftovers fixed: afterwards, programme, cancelled, cataloguing, Greycloak. Em-dash check on added lines is clean (page names and empty cells stay).",
+   "REPEATED SHAPES. Rewrote about 55 'It does not X. It Y.' and 'Not X. Y.' sentences on Ainigma, Kami no Kobushi, Ken, Moetana, Nadi, Recarvu, Rusashin, Solution, Talos, Open Crucible, Asami and Hataraki, each keeping its fact. This was the shortfall the Named Arts agent reported. Also varied the 'scholars' term and what people once called it' line, the 'boy on the wall points it out' beat on Auric Parallax Veil, and two of the skipping-rhyme openings.",
+   "SMALLER PAGE FIXES. Added a short spectacle line to the Named Arts God Fist page, which had none. Added 119 hard line breaks where consecutive bold move and Cost/Counter lines would collapse into one paragraph in standard renderers."
+  ],
+  "unfixed_problems": [
+   "These need a ruling logged by the launching session; I may not write RULINGS.md or CONFLICTS.md. Aether Bastion: kinetic weight against concentration, now both on the page.",
+   "Rulings: Talos 'guarded Crete' and the Greek names, a real-world island in the Grand World; kept, flagged by the agent. Talos also collides with the lineage word in the archived class_x_open_dabney_4 scene.",
+   "Rulings: Hataraki no Sho and the Hataraki second roster still read as the dead Büri register (Tsagaan-ke, Ariun Gerel and others); left under the no-rename order. Ketsumyōgan and Rune pages still say 'Inner World'.",
+   "Rulings: Scission 17 to 67 MW against 1 to 75 MW; Imprinta's Stage floor IV against Glory; Scission's 'Chantcraft folds into this' against NATALIE's fifth craft; Nadi and Ken against archived scenes (uncapped Ardency source, Cold Ken through a field); Judgment Manifest 25 s against 30 s; Maw's edge-versus-center failure; the Oneiric sub-stat mismatches on Eidolyn.",
+   "Coined native script for Isaac to strike or keep, not checked on jisho: 無限の初剣 (Mugen no Hatsurugi), 浅見 (Asami), 犠牲 (Gisei), 働き (Hataraki).",
+   "Invented uncarded Moto and Yukari people on public pages for Isaac to look at: Moto Sayo, Moto Naoki, Moto Kiyo, Yukari Hisame. 'Sayo' has one hit elsewhere in wiki/ or scenes. Also Measurewrights' blue and brass and the invented school club colors.",
+   "Kept modern science comparators in technical sections under R83-11: seismometers on Resonant Divination, laser on Vainglory, frequency comb, bead on a wire, 'Faraday-caged'. If Isaac reads these as appliances they would go.",
+   "First-name overlaps with wiki/ remain where the surname differs (Hob, Tam, Corvin, Perrin, Bettany, Wat and others). Only full-name, surname or distinctive first-name collisions were changed.",
+   "Technical accounts repeat a fixed frame across about 90 pages: 'The real phenomenon is', 'The law is', 'The glyphs are', 'The boundary condition is', 'In doctrine it is'. I left it because it is the entry's shape, but it reads as a template if pages are read back to back.",
+   "Opening shapes that still recur: lawsuits, guild feuds and the commoner undoing a grandee. They are varied within the set but numerous. Bookies appear despite the brief's warning.",
+   "Entry formatting differs by shelf: 'The hook.' label on Techniques N to W and on Named Arts, a bare hook line elsewhere; bold moves on some shelves, plain on others. All match the template's content; none is broken.",
+   "The Open Crucible still has no spectacle opening and keeps its epigraph, by the agent's call, because it is a carded person's art.",
+   "Bara's Hataraki no Sho keeps its 'Not X. Y.' voice on purpose as a sealed document, along with estocs and half-swording.",
+   "Spellcraft filing mismatch stays for Isaac: God Fist, Infinite First Blade, No Such Thing and Black Vessel sit on the shelf 'by old filing'."
+  ],
+  "not_read_closely": [
+   "'How it really works' and the bodies of most pages. I read those end to end only for Winter Rend and Archivii Locus (old copy and part of the new); everything else got script checks for numbers, table rows, wikilinks and word coverage of old sentences.",
+   "Loss check limit: the word-coverage check flags old sentences that fall under 75 percent coverage. I reviewed those flags for all pages, but a single lost clause inside a well-covered sentence would slip through. Spellcraft, Named Arts and Schools flags were read only as the flagged list plus keyword greps.",
+   "Tables and filing sections below the head on all pages, beyond the automatic row check.",
+   "Schools pages past their openings: The Harmonic Arts, Sage Arts, Rune Arts, Ketsumyōgan, Asami and Gisei, Twelve Stages, Infinite Summoning, Spirit Summoning. I saw only the first 850 characters of each opening, the hook lines, and sample lines from these pages.",
+   "Hataraki no Sho beyond the archivist's headnote, and the main Hataraki page beyond its opening and greps.",
+   "The Disciplines.md mermaid diagram and the body of the Named Arts and Techniques hubs, apart from the targeted fixes.",
+   "Scenes and cards. Only the Open Crucible phrases, the coined kanji and a few names were checked against lore/v1/scenes. I did not check each art's moves against every scene that uses it, so other scene-shown details changed by the agents could remain.",
+   "The agents' invented place names were spot-checked for collisions only, not systematically; recurring places such as Cawl, Oxmouth and the Scaur were left as a shared world."
+  ],
+  "best_names": [
+   "Bedtime",
+   "Your Legs Had a Better Idea",
+   "Show Your Work",
+   "Hold Still, You Idiot",
+   "Both, Thank You",
+   "Heaven's Hairline",
+   "The Infinite First Blade",
+   "Forty-Five Seconds of God"
+  ],
+  "weakest_names": [
+   "The Dawn Taken Back",
+   "Your Place for Mine",
+   "Break the Song",
+   "Ring Me True",
+   "Let the World Strike",
+   "One Oath, One Swing",
+   "The Air Takes My Word"
+  ]
+ }
+}

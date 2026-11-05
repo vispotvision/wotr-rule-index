@@ -1,0 +1,867 @@
+{
+ "0": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/First Steps/First Steps.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/First Steps/How Magic Works.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/First Steps/One Exchange, Annotated.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/First Steps/The Core Vocabulary.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/First Steps/The Measures at a Glance.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Magic System.md"
+  ],
+  "pages_untouched": [],
+  "inventions": [
+   "First Steps: Tib Oakshott, goose-plucker, the barrel bet at the Lammas fair in Harrow Cross.",
+   "How Magic Works: Dunny Thrupp, Aske ferryman, his move ALL THE WORLD'S ROPE, and the fall of the Bridge at Aske; Sir Ansgar Rook, bounty knight; the River Aske and the Bridge at Aske as places; Fish Row and the lamp-wardens' strike over the penny.",
+   "How Magic Works, shared-art names (R82-19). Coat: wearing your color (common soldiers), the hide (Kharven), matoi (Moto), gabot (Mahuo). Pressure: leaning on the room (southern taverns), the low sky (Kharven), kiatsu (Moto), weiya, written with its tone marks on the page (lineage halls). Sensing: smelling a man's stack (Kharven), kehai (Moto), nunchi (Mahuo). Also the street words fat ground and lean ground, used on this page and in The Core Vocabulary.",
+   "One Exchange, Annotated: Sukey Threadgold, bookie, and her slate; Lantern Street; the epithets the Bellows (Garrick Vane) and the Hare (Nell Ashby); the Lantern song about the hare and the hot pan; the Lantern's yellow colors and right-hand house style; the crimson and green Judicium read-lines on his ribs; the red fern burn. These extend the page's existing invented fighters. No carded character is involved.",
+   "The Measures at a Glance: Ottilie Crake, bookie, and the Expert Bout at the Harvest Brackets in Thornby Cross; the Brazen Lantern and the Bellows named on Garrick's example.",
+   "The Core Vocabulary: Bartle the Sponge of the Oxmarket Stairs, the Dagnall sisters of the rope-walk, the overfill inquest and the pies. Two new glossary entries (Kit, The Call, drawn from R82 and the existing call rule) and one for Core in common speech (from the brief).",
+   "The Magic System: Gudrun Halfdane, called Gudrun Infinite, her move INFINITE FIST, the coil at the Hallingsgate midsummer fair, the Fishgate, and the sixty-foot gap in the Hallingsgate breakwater."
+  ],
+  "calls": [
+   {
+    "call": "The Measures at a Glance, Tier of Standing row: changed 'two Experts may stand three Stages apart' to 'two Stages apart'.",
+    "grounds": "The same row gives Expert as Stages V-VII, which is a gap of two, and its example says a Splintering novice and a Refraction veteran. The grep found the phrase on no other wiki page. This is the only figure changed in my group, and Isaac may want to check it."
+   },
+   {
+    "call": "The aphorism 'Temperance is not a buff. It is a confession...' now reads 'You call Temperance a buff. It is a confession...' on The Magic System and The Core Vocabulary.",
+    "grounds": "The brief bans 'it's not X, it's Y' and its cousins and also says to keep good lines. This keeps both 'buff' and 'confession'. The older wording still stands on the other pages listed under other_pages_needing_change, so the groups should agree one form."
+   },
+   {
+    "call": "The Core Vocabulary's header note now says it covers Sections I to VI, and the Lexicon reference is a real wikilink.",
+    "grounds": "The note said I-V, but the page has a Section VI (Traits, Refinement and the Seat). The link target is the one the hub already uses."
+   },
+   {
+    "call": "Core in common speech (a Wellspring site) sits beside Essence Core with an explicit aside and its own glossary entry; scholars say Wellspring site and the street says Core.",
+    "grounds": "The brief keeps both senses of Core and a newcomer would otherwise collide them. The rule that scholars prefer 'Wellspring site' is my wording."
+   },
+   {
+    "call": "One Exchange: corrected the slip. Nell now pushes off her lead foot to his left and goes inside the line of the arm, instead of 'to his left, outside the arm'. The fist passes her left ear.",
+    "grounds": "A fighter to his left is inside a right-handed straight, and she has to be there to reach his lower left ribs. NATALIE's clarity rule requires the geography to hold. The result of the exchange is unchanged."
+   },
+   {
+    "call": "One Exchange: Judicium's ticking, copper smell and colored lines show during her read at no reserve cost, priced only as the ache behind her eyes.",
+    "grounds": "The page's reserve accounting has no line for the read, and I did not retype its figures (about 7%, ending near 80%). I treated the read as the stat effect of a harmonization she already holds."
+   },
+   {
+    "call": "One Exchange: the glyph is described as a boundary that held the current to his flank, with no glyph named.",
+    "grounds": "The Working Card asks for the glyph's boundary condition, the original page named none, and the Glyph Index may not be invented from."
+   },
+   {
+    "call": "One Exchange: the old high-register vocabulary (candent, gledes, thews, diaphoresis, stertorous) is gone. FURNACE HAMMER and ARC NAIL keep their names. FURNACE HAMMER has the signature sound tsssss-tink and ARC NAIL has tik-tik-tik-PING.",
+    "grounds": "NATALIE 'no house vocabulary', plus R81-10 and R82. All annotation figures survive. An automated comparison against the live wiki pages found no lost numbers, links or embeds in any of the six files."
+   },
+   {
+    "call": "The coil stays as the assay instrument, glossed as a great coil of brass a practitioner stands inside.",
+    "grounds": "The brief says instruments are brass and glass, and other pages in the section use the coil as a fixed term."
+   },
+   {
+    "call": "The Magic System: the car joke (engine, chassis, first corner) became a trebuchet on a hay cart. 'Move the needle' became 'move the reading', and 'honesty meter' became 'plumb line'.",
+    "grounds": "Motorcars and meters are retired. The joke's point is kept."
+   },
+   {
+    "call": "The hub keeps the display name 'The Imperial Age: Aether Infrastructure', because the link target must keep working, and only its description is rewritten (lamp-wardens, ward-cutters, paid by the job).",
+    "grounds": "Filenames stay under the brief. If the group that owns that page changes its title, the display text here should follow."
+   }
+  ],
+  "canon_conflicts": [
+   "The Core Vocabulary says Grade runs 'E through EX+' while The Measures at a Glance and How Magic Works run Hollow and F upward. I left both as written and did not settle it.",
+   "How Magic Works and the page name say four crafts, while the hub's description of that page says 'five media' and NATALIE calls Chantcraft the fifth craft. How Magic Works lists only Spellcraft, Runecraft, Draftcraft and Chantcraft. I left this as it stands.",
+   "How Magic Works gives Wen Talley a Primary Trait formed when he held a burning rafter, while The Core Vocabulary says a Primary is innate and present from birth. This is existing text and I kept both.",
+   "The Core Vocabulary keeps 'the Continuum recognizes' and the Aether stratum's ambient flow above η 1.0, and The Measures at a Glance keeps Class V at 1.00 and up and η past 1.0 at Archmaster. These were not touched and do not conflict; I note them only because the Aether stratum wording is the one place the pull is described as coming from somewhere other than the ground and air."
+  ],
+  "other_pages_needing_change": [
+   "The old 'Temperance is not a buff' wording still stands in The Soul and the Climb/The Sixteen Stages.md, Fracture of Worlds/VI. The Sixteen Temperance Stages (Part Sixteen).md and In-World Documents/The Apprentice's Primer. Those groups should adopt the shared form or log a different one.",
+   "Practice and Institution/The Imperial Age Aether Infrastructure.md: if its title changes, update the display text in The Magic System.md.",
+   "Reference and Craft/The Working Vocabulary: the hub describes it as 'the trade words of fitters, assayers and glasshouses'. I left this unchanged. If that page drops pipe-fitters, the hub line needs one word changed.",
+   "Power in Use/Reinforcement.md and other pages treating the coat, Pressure and sensing should use the same culture names coined in How Magic Works, or the launching session should pick one set. Other agents were working at the same time and I could not coordinate with them."
+  ]
+ },
+ "1": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md"
+  ],
+  "pages_untouched": [
+   "VII, VIII, IX and X of Fracture of Worlds: outside this group"
+  ],
+  "inventions": [
+   "Landing: Aldous Thwaite, a councilman's son of Altherion, his unnamed groom and the Haymarket Fair; the 'Your groom reads higher' story.",
+   "Part I: Jory Eel-Hand, the Slackwater fens below Altherion, the Eel Steps bookies, and his Well-spawn eel.",
+   "Part II: Gudmund Never-Hit, a Kharven ice-fair act; the Sunmeet Fair; the chandler's widow and her crossbow.",
+   "Part III: the Seo twins (Dal-rae with a sword, Bo-ra with her fists), the Hwangsan Gate, and the hatless Measurewright's wagon board.",
+   "Part III: Mahuo *nureum* for Pressure, and the Dawi entering Pressure in the Tally as a load. These two shared-art names are new; the other names I used were matched to other staged pages (see canon_conflicts).",
+   "Part IV: Bran Anvilchops and Moll Thrice-Hanged, Loaf Day at Ostler's Cross, the East Road.",
+   "Part V: the Cooper's Row Reds of Altherion, a fighting school; captain Wenna Rook; the Ember Stair, a Pyreveil site (Core) on the inner wall of the Ring with Dawi keepers.",
+   "Part VI: Ruan Ziyan, a physician of the Ruan Hall, a lineage hall, and her Lantern Night Splintering with the loss of her left arm."
+  ],
+  "calls": [
+   {
+    "call": "Replaced modern comparison cells in Part III's tables. Strike table F, E, D became forge drop hammer, charging warhorse, great forge hammer to trebuchet volley. Lifting table F, E, B became treadwheel crane and ore wagons, a quarry's season of cut stone, harbor breakwater. Durability table F, E, D became arrows and sling stones, lance charge and stone splinters, direct trebuchet stone. All numeric columns are unchanged.",
+    "grounds": "The brief retires guns, rail, motorcars and factories, and these cells named small arms fire, freight cars, a compact car and an industrial press. Aircraft carrier and excavator went for the same reason, though they are not listed by name. The new comparisons are rough ones by ear."
+   },
+   {
+    "call": "F-Grade Durability says arrows, sling stones and blades, and deliberately leaves out crossbow bolts.",
+    "grounds": "R83-5 makes the bolt the cheap thing that can kill a high-Stage fighter, so no low Grade should be advertised as surviving one."
+   },
+   {
+    "call": "Kept TNT equivalence, kilotons and teratons, 'nuclear yield range', 'lower range of nuclear yields', 'large-scale military detonation', Mach, joules and the 'Real-World Comparison' column header.",
+    "grounds": "The brief lets modern measures stay in tables and technical sections (R83-11), and the group note says not to reword otherwise."
+   },
+   {
+    "call": "Changed 'Wellspring current' to 'a Wellspring's Aether' in the XP events (Part I), the I-to-II Threshold (Part II), the Stage II Catalyst (Part VI) and 'clutches the current' (Part V). 'Draw cost' and 'draw depth' became 'pull cost' and 'pull depth'. 'Overdraw' became 'overspend' and 'overspending' in Vigilance and Integrity.",
+    "grounds": "R83-9 and the brief's retired table. 'Overdraw' is not listed by name, but it comes from the retired draw."
+   },
+   {
+    "call": "Kept 'Absolution, the Cleansing Current', 'Current of Refusal', 'the lawful current beneath every Harmonics Sub-Stat', and the Caloria and Fulguria epigraphs ('run the same current').",
+    "grounds": "These are fixed names or metaphors about the Families and Attraction Force, and none of them describes Aether in a pipe. Finesse 'draw speed' also stays, because it means drawing a sword."
+   },
+   {
+    "call": "Added a new subsection, '### What a Wellspring Is', inside Part Thirteen of Part V, and glossed 'Wellspring Core' in Part III as a site where a Wellspring's Aether pools. Part V says outright that this Core has nothing to do with the Essence Core layer of the Crystal.",
+    "grounds": "The group note requires Part V to agree with R83-9, and the word Core now has two meanings the existing text leaves unexplained."
+   },
+   {
+    "call": "Added one sentence to Part II's speed paragraph: a bolt is read by Speed Grade like any projectile and stays the cheap thing that can kill a high-Stage fighter in a room.",
+    "grounds": "R83-5 and the brief's retired table; it adds to the rule and replaces nothing else."
+   },
+   {
+    "call": "Changed small modern figures of speech in Part III and IV: 'cannon' to 'trebuchet', 'delivery chassis' to 'delivery frame', 'volume knob' to 'muffle on the soul's bell', 'jams your signal' to 'drowns out your note', 'honesty meter' to 'honesty assay', 'active veins' to 'rich ground'.",
+    "grounds": "The brief retires guns, meters and machine-age technology. The jokes stay, in medieval terms."
+   },
+   {
+    "call": "Left 64 em dashes on the Part IV Sub-Stat lines, the em dashes in the '### Stage N —' headings of Part VI, and the '## Part N —' headings across the pages. Replaced em dashes on the Band lines, the landing list and the Hataraki list.",
+    "grounds": "rust/src/bot/fow.rs matches `**Name** —` for the Sub-Stat list, and rust/src/workshop.rs matches the Stage headings, so changing them would break the code. Other pages may link to the Part headings, and the brief says to keep headings where possible."
+   },
+   {
+    "call": "Left the existing 'It is not X. It is Y.' constructions in the canon text, such as 'Zenith is not a breakthrough. It is recognition.'",
+    "grounds": "The group note forbids rewording these pages. Everything I wrote avoids the pattern."
+   },
+   {
+    "call": "Fixed spelling only, on lines not otherwise touched: British forms in Part IV (recognise, harmonisation and others), 'totalling', 'millimetre', 'centimetres', and the typo 'centerd'.",
+    "grounds": "The brief requires American spelling."
+   }
+  ],
+  "canon_conflicts": [
+   "The other staged pages name the shared arts differently from each other. Coat: Moto *matoi* in How Magic Works and Training and Sects, but *hadagi* in Reinforcement. Kharven 'the hide' in How Magic Works, 'second hide' in Reinforcement. Pressure: Moto *kiatsu* in How Magic Works, *atsu* in Training and Sects. Sensing: *kehai* against *kehai-yomi*. Lineage halls *huti* against *hùtǐ*. My pages use matoi, the hide, gabot, hùtǐ, atsu, the low sky, wēiyā, kehai, nunchi and shénshí, taken from those pages (mostly the majority where they differ). The launching session should settle one set.",
+   "I did not find the canon source Fracture_of_Worlds.md or its PDF under that name in the working tree (searched the repo outside wiki/, imports/, _to_delete/ and rust/target), and `sources/` has no file with Fracture in its name. A search of `sources/` for 'react to gunfire' and 'relying on firearms' found nothing. So I checked numbers against the live wiki pages only, and any retired wording still in the PDF is unchecked. A checker that compares these pages with the canon document should expect the changed gunfire, firearm and comparison lines to differ.",
+   "Other pages near these still carry retired premises in the live wiki, for example What Things Cost ('early Imperial Age', 'prices on the main', 'draw not included'), which I read for the coin names only."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md: still says 'early Imperial Age', 'on the main' and 'draw not included'. It is outside this section of the rewrite and would need its own pass."
+  ]
+ },
+ "2": {
+  "pages_changed": [
+   "The Magic System/Power in Use/Counterplay What Beats a Practitioner.md",
+   "The Magic System/Power in Use/The Four Crafts.md",
+   "The Magic System/Power in Use/Reinforcement.md",
+   "The Magic System/Power in Use/Stacking and Spending.md",
+   "The Magic System/Power in Use/Runes and Tags.md",
+   "The Magic System/Power in Use/Power in Use.md",
+   "The Magic System/Reference and Craft/Reference and Craft.md",
+   "The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+   "The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology.md",
+   "The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom.md",
+   "The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge.md"
+  ],
+  "pages_untouched": [],
+  "inventions": [
+   "Counterplay: Thorvald Eikhagen of the Red Anvil school (Stage IX), the Blackwater levy, the Three Herons bathhouse at Skarrow, the laundress Wenna Sprat, her eight-silver crossbow, the two-thousand-gold bounty",
+   "Reinforcement: The Bell and the Fork (song), Wu Baoshan of the Nine-Ladle Hall, Sister Ran of the Copper Steamer, Ninefold Market, the Temple of Clear Water and its Evening Bell",
+   "Reinforcement (R82-19 names for the aura coat): Moto hadagi, Mahuo gabot, lineage halls huti, Dawi on shift, Kharven second hide, Accord bracket crowds the shine",
+   "Lexicon XII (R82-19 names): Pressure as Moto omomi, Mahuo nureum, halls weiya, Dawi the load, Kharven the cold off him; Sensing as Moto kehai, Mahuo nunchi, halls shenshi, Dawi sounding, street having the nose. Moto, Mahuo and hall words are real Japanese, Korean and Chinese, unchecked against other groups",
+   "Stacking and Spending: Sigrun Ox-Hand, Cullen Fair, her called move HEARTH-BACK, the miller's ox bet",
+   "Runes and Tags: the Long Noon of Skelby, Cheap Perrin, Dob Lumley, Tanner's Row, Mistress Alys Thorne (Engraver)",
+   "The Four Crafts: the Feast of the Five Hands at Ostermark Hall, Master Engraver Hallvard Stenn, the Widow's Ladle (Kharven pourer, epithet only), Loud Peg Arkwright, her shout CINDER WALK",
+   "Power in Use hub: Dunstan Pike at Sallow Bridge",
+   "Reference and Craft hub and Lexicon: the Duel of the Two Ruptures at Altherion, Dame Ysolde Crane, Magister Lowell Tench",
+   "Field Manual: Oswin Crumb, baker of Karrowgate, Dyers' Lane",
+   "Working Vocabulary: Journeyman Tobit Lamb, Goody Sharrock of the Hollin Cross assay house, the Gilded Ladle, Assay Street",
+   "Working Vocabulary, rebuilt section I: pull, haul, bellows, tuyere, fat and lean ground, seam, gleaning, bled, salting, banking, the round, trimming, dead wick, tally, pleaching, muffling, sweating, tundish (real trade words; their WOTR senses and cant are invented)",
+   "Magical Categories: Big Maud Skerritt, the Skerry quay and her hearing",
+   "Lexicon IX: new entries Core (common speech) and Salted ground, bled ground; Lexicon XII: new entries Sensing and Aura coat; Lexicon XIV: new rows for reinforcement, sensing, density and pulling"
+  ],
+  "calls": [
+   {
+    "call": "Counterplay's Shot entry became The bolt, still first under Break the Body. It now pairs the D-Grade and B-Grade wording and adds bows, thrown things and siege engines. The old line about armor surviving into the Imperial Age now says armor is still worth a lord's rents.",
+    "grounds": "R83-5 and the brief's exact wording; the Imperial Age may be named only as what comes after."
+   },
+   {
+    "call": "Cut the main became Take him off rich ground, using salted ground, bled ground, thin ground and keepers closing a Core. The old 'in under an hour' figure now applies to a keeper closing a Core, and the keeper can also be bribed or refuse. I supplied the working definitions: salted means worked by hedge-workers so Aether will not pool, and bled means pulled empty by a long fight or a crew.",
+    "grounds": "The brief names salted, bled and thin ground but does not define them, and R83-8 says someone can refuse. Isaac may want to overturn the definitions; they recur on Reinforcement, Runes and Tags, the Lexicon and the Working Vocabulary."
+   },
+   {
+    "call": "The Working Vocabulary's section I was rebuilt as I. The Pull, with 18 entries in the same four columns. Most plumbing terms were retired, but their cant jokes moved to new words: main to seam, stopcock/cocked to banking/banked, dead leg to dead wick, union job to short tally, lagged to muffled. Sweating keeps its forged-seal cant with a new trade sense.",
+    "grounds": "Task note and retired table. The heading I. The Draw had no incoming links."
+   },
+   {
+    "call": "Kept the tundish, redefined as a medieval funnel for filling a cask and a Drafter's bench fitting, along with its 'steal it first' passage. The argument now concerns Drafters' pours and Accord tax rather than a billed supply.",
+    "grounds": "A tun-dish is a real pre-modern cask funnel, so the joke survives without the retired supply. The brief says keep good jokes."
+   },
+   {
+    "call": "Lexicon XV: 'four explaining voices, no more than two per engagement, never the narrator' became any voice may explain, plus the wielder bragging, and narration explains the rest.",
+    "grounds": "NATALIE, THE MAGIC FRAME and DEPTH (R81-4, R82-26) outrank the page."
+   },
+   {
+    "call": "Working Vocabulary: 'the mechanism gloss ban' and 'why the Crystal does that is not stated' were changed so the trade word comes first and the full explanation follows.",
+    "grounds": "DEPTH AND EXPLANATION, R82-24, R83-11."
+   },
+   {
+    "call": "Field Manual: added a concept step before the Forge covering concept first, three to five moves, and NPC moves canon on use. Widened the Name Test to allow big phrases, Art: Move, World/God/Fate words and lethal goofy names. Added the art's own price to Cost. Replaced the Blank Card's reader-facing entry order with the R82-20 to R82-23 entry shape.",
+    "grounds": "R82-3, R82-5, R82-10 to R82-12, R82-15, R82-20 to R82-23, R82-28: the law wins over the page."
+   },
+   {
+    "call": "The Four Crafts: the great old inscriptions (Concord Gates arrays, deep wards under Stannvaard, Kharven death-house work) are now dated to the Great Spirit War and the Physical Epochs. Runes and Tags' great pieces got the same dating. I also dropped 'Accord' from 'imported Accord work' in the death-house line, so the import is no longer attributed to an Accord origin.",
+    "grounds": "R83-6. The sites stay named because the page's Settled Positions depend on them, but they read as relics rather than infrastructure. Isaac may prefer other dating. The dropped word was not separately ruled and may need restoring."
+   },
+   {
+    "call": "Kept 'ninety-odd percent' for Draftcraft, but it now says the bottle is how that share holds magic in their own hand, and everything else they hire.",
+    "grounds": "R83-8 and R83-10: daily magic is everywhere and practitioners are common, so 'touches magic at all' no longer held. The figure itself was not re-derived and may read low against R83-10."
+   },
+   {
+    "call": "The Four Crafts' Design Problem section (Tolkien, Martin, Clarke) stays, labeled as a compilers' note outside the hall's voice.",
+    "grounds": "Nothing is lost, but it breaks the in-world narrator."
+   },
+   {
+    "call": "Field Manual, Four Crafts and Categories keep existing mentions of Sodoku, Cozbi, Krothar and the Zettari.",
+    "grounds": "'Nothing is lost' and 'leave what is on the page'. I added no cast material, but these pages are public."
+   },
+   {
+    "call": "Removed a duplicated sentence in The Four Crafts (Spellcraft) and a stray empty heading at the end of the Working Vocabulary. Removed most 'it's not X, it's Y' constructions, including the page epigraphs that used them.",
+    "grounds": "Brief, The page itself. Facts are unchanged."
+   }
+  ],
+  "canon_conflicts": [
+   "Counterplay said a C-Grade practitioner reacts to gunfire. Fracture of Worlds II and Tier Grade, Bands & the Aether Shell put that row at D-Grade. I wrote D-Grade per the canon table.",
+   "wiki/The Magic System/The Magic System.md contains a term flagged by my grep (fitters, gunner or tundish). It belongs to another group and its copy here was not changed; that group should check it.",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity.md also matches that grep and sits outside this section.",
+   "Wiki colors put Vectoria at 'iron gray to gunmetal' on The Color of Essence. 'Gunmetal' is a stray gun word, not in my group."
+  ],
+  "other_pages_needing_change": [
+   "The Magic System/The Soul and the Climb/The Color of Essence.md: 'gunmetal' for Vectoria",
+   "The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md: 'stops shot' in the Mkono wa Miti row, and any enhanced shot wording. Runes and Tags now says 'an enhanced bolt'.",
+   "Any aura, Pressure or sensing pages in other groups should use the culture names in Reinforcement and Lexicon XII, or those names should be reconciled when the groups merge.",
+   "Start Here.md, INDEX.md, How Magic Works.md and The Magic System.md list these pages. Their descriptions were not read, and any mention of fitters should change to match the Reference and Craft hub, which now says lamp-wardens."
+  ]
+ },
+ "3": {
+  "pages_changed": [
+   "The Magic System/Practice and Institution/Practice and Institution.md",
+   "The Magic System/Practice and Institution/The Gate Who May Learn Magic.md",
+   "The Magic System/Practice and Institution/Training and Sects.md",
+   "The Magic System/Practice and Institution/The Standing and the Title — The Three Names.md",
+   "The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+   "The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery.md",
+   "The Magic System/Practice and Institution/Mechanica Extraction Without Recognition.md",
+   "The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts.md (new, replaces The Imperial Age Aether Infrastructure.md, whose staged copy is deleted)"
+  ],
+  "pages_untouched": [],
+  "rename": [
+   {
+    "from": "The Magic System/Practice and Institution/The Imperial Age Aether Infrastructure.md (title: The Imperial Age: Aether Infrastructure)",
+    "to": "The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts.md (title: Who Pays for the Lamp: The Living Crafts)"
+   }
+  ],
+  "inventions": [
+   "Who Pays for the Lamp: the Southbank lamp strike on the eve of the Midsummer Fair; lamp-warden Nan Tallowgate (31 years on Kettle Bridge, egg-yolk aura); Magister Ambrose Thorne (Master standing); Kettle Bridge, Cooper's Row, Tanner's Stair; the Wardens' Round (song); nine dead in the dark. Southbank was already on the page as an unlocated quarter and stays unlocated.",
+   "Who Pays for the Lamp, trades and objects: chartered companies; searchers; snuffers (replace cutters); fee-walkers (replace meter-readers); Core-tenders (replace main-men); seal-clerks kept; parish stones (replace standpipes); assay posts (replace gauge-housings); the hum, now the note of kept wards and lamps; sealed household, trade and bonded work; a botch or foreign work (replaces a spur); the stoppage, the passed door, the overcharge, the fee strike; the kept road with tuned Transference stones; the beacon line; proofed harness; Master Hobb's Self-Turning Spit, Perpetual In All Weathers; the rat-charmers of Pudding Lane. Lamp-wardens, ward-cutters, hedge-workers and Core keepers come from the brief, R83-8 and R82-36.",
+   "The Gate: the Carter's Cross auction; Joan Pellow and her daughter Tib; the Green Herons and Red Ladles (schools).",
+   "Training and Sects: the Copper Kites and Iron Aunts of Hollin Ford (schools); Perrin Dace; Sunniva Holm; the Aunts' grandmother (unnamed).",
+   "Training and Sects, shared-art names (R82-19): western bout-ring the shine, the weight, the nose ('the weight' is already in the Lexicon); Moto matoi, atsu, kehai-yomi; lineage halls hùtǐ, wēiyā, shénshí.",
+   "The Standing and the Title: Aldith and Edony Moor of Kelderbridge (twins); the Hallowmark Fair; Goody Rudd (pie seller).",
+   "The Derivation of Practice: the Day the Battery Burned at Tarn Cross; Hesper Lowe (DI 0.08, written on a tablecloth); Magister Corvin Aske.",
+   "On Walking Into the Current: Surveyor-Major Osric Tallant; porter Wat Nettle; Cold Kettle Hollow; an unnamed Magister lost at the source. The Chainward service is adapted from the page's existing 'third Chainward expedition'.",
+   "Mechanica: January Street and its winter roses; the Ockley bakery; millwright Tam Ockley; an unnamed Division serjeant who lost an ear; 'the warm' as neighbors' slang for an engine's heat."
+  ],
+  "calls": [
+   {
+    "call": "The one-in-ten wake figure is kept and now stated on The Gate. Class Ø becomes 'nine people in every ten, which is most of the world'. The epigraph's 'almost nobody is taught' is replaced. A derived illustration is added: a market town of four thousand keeps four hundred woken souls, nearly all low on the ladder.",
+    "grounds": "The Gate set no figure of its own, only 'almost nobody' and 'most of the world'. How Magic Works gives 'about one in ten'. One in ten of a population is already common enough for R83-10, so the figure did not need to change. The four hundred is simple arithmetic, not a new canon number."
+   },
+   {
+    "call": "The Lock no longer closes the first lesson. A new paragraph says the low lesson escaped long ago and there are too many yards to shut. Schedules license, fine and count them, and really guard the next rung: upper manuals, glyph tables, high working and work for pay. The law against teaching a neighbor's son stands and is widely broken. About half a city's yards hold a real license.",
+    "grounds": "R83-10 (sects and ranks everyone knows) has to coexist with a page about a locked gate. Every schedule, penalty and gate on the page survives. The Five Gates table is unchanged. 'The Imperial Age changed the arithmetic' becomes 'The wars of the Dark Ages changed the arithmetic'."
+   },
+   {
+    "call": "'Crystal' is sharpened to 'woken Crystal' where a page implied the unawakened have none: On Walking ('Most people standing inside a concentration do not' becomes 'Nine people in ten... do not' have a woken one), Protocol IV's baselines, and Derivation's 'assumes a woken Soul Crystal'.",
+    "grounds": "The Gate says nearly everyone carries a dormant Crystal, so the old wording contradicted it. The Gate's claim and the one-in-ten figure govern."
+   },
+   {
+    "call": "Proof-marks survive as marks against bolts: 'Bolt and Proof', proofed harness, a stamp naming the house, the bow tested and the range, forged constantly. Grade D's new wording is quoted once.",
+    "grounds": "The brief retires proof-marks against shot, and R83-5 makes the bolt the cheap killer. Proving armor against a crossbow keeps the section's law and joke without any gun. Isaac may prefer the whole section dropped."
+   },
+   {
+    "call": "The section says 'harness' and never 'plate'.",
+    "grounds": "R83-4 places full plate in the Imperial Age, and the present tense here is the Dark Ages."
+   },
+   {
+    "call": "Medieval successors are built for the old furniture so its jokes and arguments survive: assay posts for gauge-housings ('the lock is the point'), parish stones for standpipes, searchers for inspectors, snuffers for cutters, Core-tenders for main-men, fee-walkers for meter-readers, a botch for a spur. Assay posts matter because a street's fee hangs on its ground grade.",
+    "grounds": "The brief says to keep what the page's idea is for: a price, a keeper, an argument and a person to hate. All of these are people or brass and glass with no supply network behind them. Searcher and foreign work are real medieval guild terms."
+   },
+   {
+    "call": "'The hum' is kept, redefined as the note of kept wards and lamps. Only 'draw-hum' is gone. The stoppage joke is extended: companies repair at three to five in the morning, wardens walk at dusk. The eighty-year and four-minute figures stay.",
+    "grounds": "The brief retires the draw-hum, not a street's sound. Writing It asks for the hum as room tone."
+   },
+   {
+    "call": "The Bill's figures carry over from What Things Cost: household 3 to 5 and 8 to 12 silver monthly, trade work 2 to 5 gold monthly, searcher 10 to 18 gold monthly (the inspector's wage). The wire's price becomes the beacon line's, a silver for twenty words with addresses counted. New by ear: a bolt costs a copper.",
+    "grounds": "NATALIE says prices follow the price table and go by ear beyond it. Keeping the numbers lets the Value group convert rows rather than invent new ones."
+   },
+   {
+    "call": "The beacon line inherits the wire's claim to be the first apparatus faster than a horse and its Guild-commodity role. Rail's facts (Transference across a hand's breadth, a line putting towns on somebody's fee) move to the kept road and tuned waystones. The telephone, trams, motorcars, airships and cell-houses are dropped outright as retired. Dye works and 'raise no chimney' stay, as workshops.",
+    "grounds": "The brief lists rail, wire, telegraph and the rest as gone, and names relays and beacons as the replacement. The beacon line is my own build on that word. Isaac may strike it."
+   },
+   {
+    "call": "Mechanica Part VII is rebuilt around chartered Cores in place of the draw network. Institutional Authorization, the 'engine work with a license on top' charge, the four-hundred-year-old instruments, the two forgeries and the twice-reorganized Division all stay. The term 'engine work' stays, as a built contraption in a cellar. The two-instrument test becomes coil and assay fork.",
+    "grounds": "The page's argument does not depend on mains. 'Engine' is a medieval word and the page's named practice, and R82-37 allows contraptions."
+   },
+   {
+    "call": "On Walking keeps 'current' as surveyors' word for how a Wellspring's Aether moves through a concentration, with a short note giving R83-9. An aside warns that 'Wellspring Core' on the register means the innermost density class, while common speech calls any worked site a Core.",
+    "grounds": "The page's title and maxim use the word, and the brief retires only a current in a pipe. The two meanings of Core collide on this page, so I flagged it in voice, not silently."
+   },
+   {
+    "call": "Training and Sects: 'never chosen, and a fighter who names himself is laughed at' becomes 'mostly given by others... laughed at until it works, and then the name is his'.",
+    "grounds": "R82-5, R82-6 and R82-8: fighters name things, the room laughs until it works, and the most famous name wins."
+   },
+   {
+    "call": "Hedge-workers are written as working by voice, beyond company bounds, paid in kind, on the joke that the schedules have never defined an egg.",
+    "grounds": "The Four Crafts lists hedge-work among the spoken craft, and The Gate says taking pay without a license is an offense. This is a reading, not a stated rule."
+   },
+   {
+    "call": "Modern phrases swapped: 'bond market' to 'every factor's table', 'counter-intelligence services' to 'the crowns' spy-clerks', 'printed' to copied by sworn scriveners, 'A practitioner is artillery' to 'a siege engine that eats at your table', 'works inscriber' to 'workshop inscriber'.",
+    "grounds": "R83-4 puts banks in the Imperial Age, and no printing is established."
+   },
+   {
+    "call": "On Standing, Derivation, Walking and Mechanica, many 'it is not X, it is Y' sentences and every em dash were rewritten in place, and British spellings fixed. Every table figure, threshold and DI value is carried unchanged. A wording-level diff of those four pages against the live wiki is worth one read.",
+    "grounds": "The brief's page rules apply page-wide, and these pages used the banned patterns constantly."
+   },
+   {
+    "call": "Existing mentions of Mu-jin, Niran, Cozbi and Urion's Scale on The Standing and the Title are left as found. No new main-cast material was added anywhere.",
+    "grounds": "The brief bars new use of the main cast on public pages and also says nothing is lost. These are titles only, with no plot."
+   }
+  ],
+  "canon_conflicts": [
+   "What Things Cost (live wiki, outside my group) still prices supply off the main, the wire, rail, newspapers, muskets, rifles, revolvers, proofed shot and an inscribed 'Guild inspector', calls itself early Imperial Age, and lists retainers paid by 'a Board' and 'a bank'. My page uses its Bill figures under the new names.",
+   "On Walking and Derivation still speak of the Voyager Era, Voyager-era survey teams and the New World. R83-2 sets Arc One in the Grand World, with the continents split only at its end. The brief does not retire these terms, so I left them. Whoever owns the Ages pages should settle it.",
+   "On Walking says 'for a hundred and forty years' of the Voyager Era, while The Concordance of Ages gives that era as 000 to 070 IC. This predates the rewrite and I left it.",
+   "Core has two meanings: common speech and the brief call any worked site a Core, while the register's top density class is 'Wellspring Core'. The soul's Essence Core is a third. I flagged the first two in On Walking and did not resolve them.",
+   "The Standing and the Title still cites Greyshaft Twelve with a 'tender' and an array. The Mother page has a Greyshaft Nine culture written in the same industrial register. I kept the name and did not check how that page will convert.",
+   "The Altherion Collegium (Derivation) and the Aetherion Academy (The Gate) both stand as found. Neither page says whether they are one institution."
+  ],
+  "other_pages_needing_change": [
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Magic System.md line 185: link and blurb to the renamed page (another group's staged file)",
+   "wiki/Start Here.md line 33: link to the renamed page",
+   "wiki/INDEX.md line 554: link to the renamed page",
+   "wiki/.manifest.json line 139: entry for the old path and title",
+   "wiki/The Magic System/Practice and Institution/The Imperial Age Aether Infrastructure.md: delete the live copy when staging is merged",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md: The Bill, cutter, wire, rail, newspaper, Arms and Shot, inspector wage and retainer rows should move to fees, snuffers, beacon line, searcher and crossbows",
+   "wiki/Factions, Bloodlines & Institutions/Factions at a Glance.md: 'a capped main' (The Mother) and 'Wells and draw (licensed power from the ground)' (Drakyssia)",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology.md: could add the coat, sensing and trade slang used here, and 'the warm'"
+  ]
+ },
+ "4": {
+  "pages_changed": [
+   "The Magic System/The Foundations/The Foundations.md",
+   "The Magic System/The Foundations/The Physical Account Two Sets of Books.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics.md",
+   "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md",
+   "The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms.md (light touch; the protected [Abys] passage is byte-identical to live)",
+   "The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands.md (light touch)",
+   "The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun.md (light touch)"
+  ],
+  "inventions": [
+   "The Foundations: Dob Threlkeld, hedge-worker of Cobb's Wharf, and his wet hay bale bet",
+   "The Physical Account: Hamo Thackeray, the Bishop of Cinders; Ysolde Garth, Crystal-less Measurewright; the Scarlet Oars; the blue barge at the Kharven regatta",
+   "Hub: Sanne Ruddock (Pyreveil) and Ond Gravell (Petralon); the Hot Tun Ladies and the Quarrymen; the Cold Tun bridge match; Saint Orrin's pond; street phrases 'has the ember in her', 'took the water', 'fat ground', 'thin ground' (fat ground is on The Physical Account)",
+   "Hub: 'salted' ground glossed as worked by ward-cutters and hedge-workers to give back little for a season; 'bled' ground glossed as pulled down hard by many hands just before you arrive; keepers described as a sect, village, Guild house or 'three brothers and a fence', charging by the hour or the bottle",
+   "Caloria: Maud and Bess Aldgate of Pennyhithe, Fish Lane baths, the Herring Fair tollhouse blast",
+   "Fulguria: Lu Qinghe, the Scalpel of the Clear Lantern Hall; the Autumn Assize; the Lantern Fair fish market",
+   "Vectoria: Asa Birkett of the Ketterby yards; the Old Toll Bridge",
+   "Spatium: Wat and Wynn Sedgely; the Lantern Run; the Hollow Mile",
+   "Materia: Ingrid Stenhammar, the Changing Woman; Black Anders Holm; the Tollgate brackets",
+   "Vitalia: Bertil Ashgrove, barber of Mill Gate; the Millrace Boys; the Hammers of Saint Orrin",
+   "Fluxia: Sweet Agnes Dunnock, bookie; the Reed Cup; the Eel Street crew, the Ferrymen, the Upper Weir",
+   "Limina: Hanne Mott; the Count of Wexmoor; the song 'The Woman Who Is Not There'",
+   "Glyph Index: the Third Counter Society; Master Odo Blackwell",
+   "Descent of Parun: Ambrose Pinchbeck, Concord wine factor; the Cooper's Fair; the Long Rack, Rack Street",
+   "Counted Speech: Sergeant Ebba Thorn at Hollin Gate; an unnamed Cant speaker who came out three short of the sum"
+  ],
+  "calls": [
+   {
+    "call": "New fields on every Wellspring entry: Alchemy and Spirit, added before Failure and explained in the hub's How to Read an Entry table. Lines derived rather than on file are marked in-world as '(the trade's reading)' or '(the confessors' reading)'.",
+    "grounds": "R83-9 and the group note. The markers keep derived lines visibly separate from filed canon. Readings used from file: Alchemetrica (six operations, stage currents), Heresiology glosses, The Four Ceilings substrates, Fracture of Worlds Part Thirteen's 'Temperance through X' lines."
+   },
+   {
+    "call": "Derived alchemy, Caloria. Pyreveil: the Sulfur principle at full heat. Exuroth: the assayer's trial, quench and temper. Ignivale: the first degree of fire. Solfatara: the vessel that breathes. Manganthra: the go-between that stays out of the product. Cataclysm: the vessel's violent end as a law. Pyraeon: the Long Furnace's fire. Catharsis: purgation in the change of state. Penanceflare: the fire that reports itself. Cinerion is on file.",
+    "grounds": "Each comes from the entry's own Analogue and Failure. Manganthra is deliberately not named as Conjunction's current, because Alchemetrica says Conjunction has none."
+   },
+   {
+    "call": "Derived alchemy, Fulguria. Aurevane: the clear light of the watched vessel. Cymorath: volatile Mercury finding its road up the still. Orrenthal: the metal as a commonwealth. Luminalis: the hidden tincture. Abyntheus: the Emerald Principle at the bench. Judicium is on file (Separation).",
+    "grounds": "From each law. Abyntheus borrows 'as above, so below' from the Alftian Codex Volume the First."
+   },
+   {
+    "call": "Derived alchemy, Vectoria. Fractura: the assayer's blow. Petralon: Salt in its fixed office. Ascensio: the degrees of fire. Abython: the balanced vessel. Absolution: the gentle reheat. Penance: the hammer's law. Sublimatio and Sublimare are on file.",
+    "grounds": "From each Analogue. Petralon uses Alchemetrica's Tria Prima, Salt as the fixed principle."
+   },
+   {
+    "call": "Derived alchemy, Spatium. Transference: the tincture shared between two matched vessels. Eclipseron: the dead head read. Transmutatio is on file.",
+    "grounds": "From each law. Eclipseron uses the caput mortuum from The Real Alchemy."
+   },
+   {
+    "call": "Derived alchemy, Materia. Monolithion: the great casting with no seam. Chthonica: lute, the humble seal. Basilithe: the Standard. Tarturon: a charge carrying its own fire. Terranova: the metal tree in the still flask. Materia Primordia, Coagula, Fixatio and Coagulatio are on file.",
+    "grounds": "From each law and Alchemetrica's bench vocabulary."
+   },
+   {
+    "call": "Derived alchemy, Vitalia. Anima Spirare: the quickening in the Bed's blood-warmth. Verdantia: the Feeding. Benediction: affinity. Mortalis: the Blacking. Redemption: the sound weld. Contrition: the dose. Phreatis: the remembering menstruum. Rebirthine is on file.",
+    "grounds": "From each law and Alchemetrica's terms. Contrition uses 'each heals at a measure and poisons past it'."
+   },
+   {
+    "call": "Derived alchemy, Fluxia. Somnalis: the sealed egg before it turns. Thaloré: weight in the vessel. Oblation: the offering in the vessel, the total never rising.",
+    "grounds": "From each Analogue."
+   },
+   {
+    "call": "Derived alchemy, Limina. Letheveil: the skimming. Lethegraal: the settling. Hypnather: the Standing. Mirithane: the blick. Oneirion: the working in the mind. Eidolyn: the mold. Anamnesis: the fired pot's testimony. Tenebra: the cover-name. Oblivara: the second charge. Nyxial: the Still Bath. Nihiloth: neutralization. Vantabriel: the black that keeps. Dissolution is on file.",
+    "grounds": "From each law and Alchemetrica's Turnings and apparatus."
+   },
+   {
+    "call": "Derived spirit lines, Materia. Materia Primordia: Temperance through re-forming. Monolithion: permanence. Chthonica: rootedness. Basilithe: constancy. Fixatio: commitment. Coagulatio: settling. Terranova: regrowth. Tarturon and Coagula are on file.",
+    "grounds": "Fracture Part Thirteen gives 'Temperance through X' for Caloria, Fulguria, Vectoria and Spatium only. These extend the same form from its one-line effect for each Wellspring."
+   },
+   {
+    "call": "Derived spirit lines, Vitalia. Anima Spirare: remembering wholeness. Verdantia: growth. Benediction: grace. Rebirthine: loss. Redemption: being reclaimed. Contrition: a failure owned and survived. Phreatis: memory. Mortalis uses the Heresiology gloss and is unmarked.",
+    "grounds": "Same method, from Fracture Part Thirteen's one-line effects."
+   },
+   {
+    "call": "Derived spirit lines, Fluxia. Somnalis: uncertainty. Thaloré: depth of feeling. Oblation: sacrifice.",
+    "grounds": "Same method."
+   },
+   {
+    "call": "Derived spirit lines, Limina. Letheveil: forgetting. Lethegraal: time. Hypnather: rest. Mirithane: self-sight. Oneirion: dreaming. Eidolyn: imagining. Anamnesis: remembrance. Dissolution: unbinding. Tenebra: concealment. Oblivara: keeping one's name against erasure. Nyxial: evenness. Nihiloth: negation. Vantabriel: carrying what was lost.",
+    "grounds": "Same method. Anamnesis and Tenebra also carry their filed Heresiology wording."
+   },
+   {
+    "call": "Kept 'current' as the trade's old word for a type of Aether, stating that Aether moves over ground as wind moves over a field and that no pipe is involved. Elsewhere in the group a Wellspring is now a 'type', 'Aether' or 'Wellspring'. The glossary gloss 'standing current of natural law' became 'one of the sixty types of Aether, each carrying a fixed law'.",
+    "grounds": "R83-9 retires the current-in-a-pipe picture. Alchemetrica and other sections still say 'current', and the Density arithmetic rests on Aether crossing a site in about a thousand seconds. 'The Cleansing Current', Absolution's epithet, stays as a fixed name."
+   },
+   {
+    "call": "Replaced 'Denser ground does not help a practitioner' with: denser ground fills him faster and lifts his output ceiling but does nothing for his reach. Every square-root figure stands (an eighteenth, a thousandth, a five-millionth).",
+    "grounds": "R83-9 and the brief say rich ground fills you faster. The page's own supply column already agrees, and the fall in reach is the part the arithmetic actually proves."
+   },
+   {
+    "call": "Core has three senses, stated openly on the hub: common speech calls any pooling site a Core, surveyors keep 'Wellspring Core' for the top density band (still extraordinarily rare), and Essence Core stays the Crystal layer.",
+    "grounds": "The brief and NATALIE make a site a Core in common speech. The Density Scale table's top row must survive with its figures. Written as a Measurewright-versus-ferryman joke rather than a silent merge."
+   },
+   {
+    "call": "Density table, 'Where that sits' cell for Active Concentration: 'a charged cell 2,500; cast powder 6,900' became 'a bale of dry straw, burned through, 2,500; a seasoned pine log, burned through, 6,900'. Both numbers are unchanged.",
+    "grounds": "Cells and powder are retired. The new comparators are computed: straw about 150 kg/m³ at about 16.7 MJ/kg, pine about 450 kg/m³ at about 15.3 MJ/kg."
+   },
+   {
+    "call": "The hub says all sixty carry an alchemical principle, while the six named operations and four stage-lending Wellsprings keep their special standing. The rest are 'no operation filed at the Bench, trade opinion only'.",
+    "grounds": "R83-9 says the Wellsprings represent alchemical principles. Alchemetrica says six are at once Wellspring, principle and operation, and that Calcination and Distillation are no Wellsprings. This keeps both."
+   },
+   {
+    "call": "Modern-machine images removed from Mechanism fields: turbine blades, laser, 'civilizations set their clocks by quartz', 'a failing conductor flickers a lamp'. Physics terms stay (phase-conjugate mirror, eddy-current inspection, thermite with a gloss, a one-tesla field, Faraday-caged).",
+    "grounds": "R83: what is built and carried stays medieval, while modern science may explain. The physics was kept and the implied machines were cut."
+   },
+   {
+    "call": "Small non-table prose rewrites beyond retired terms: 'not X, it's Y' constructions and one countdown negation (Thaloré), reworded with facts unchanged, plus 'recopied' and 'sent a reply' for printed and published. Stat Effect text was left untouched apart from spelling.",
+    "grounds": "The brief's bans and its printing retirement."
+   },
+   {
+    "call": "The coil is kept as a term and re-glossed as a brass assay instrument. Glyph Index class labels changed from 'Derivative — X' to 'Derivative · X'.",
+    "grounds": "Instruments are medieval, and no em dashes in prose. Counts unchanged."
+   },
+   {
+    "call": "Worked Sentences 'drawing inward' changed to 'running inward'. 'rail' in Descent of Parun stays: it means the Songscript ruling stroke, not a railway. 'Drawn' stays where it means pen or chalk.",
+    "grounds": "Brief: ordinary 'draw' is fine and the Aether sense is retired. The Lexicon already glosses ma as inward."
+   }
+  ],
+  "canon_conflicts": [
+   "Family pages' Stat Effect lines differ from Fracture of Worlds Part Thirteen (for example Ignivale: Ardency Detonation and Dexterity Burst here, Ardency Overchannel and Dexterity Celerity there; Pyreveil: Ardency Saturation here, Ardency Depth there). The hub says Stat Effect is 'unchanged from the system source'. Left as filed and not resolved here.",
+   "The hub's Density table and Active Concentration row still place sites on 'the New World's arc', 'the Old World' and 'found during the Voyager Era', while R83's Arc One is a single Grand World until Malakar splits the continents. Kept under 'nothing is lost'; the geography section must settle it.",
+   "Alchemetrica, Core Vocabulary and other pages outside this group still define a Wellspring as a current and use 'draws on'. The hub's wording now leads with type of Aether, so those pages need the same fix when their groups land.",
+   "The Color of Essence calls Vectoria 'gunmetal', and wellspring-signatures uses gunmetal for Fractura and 'powder smoke' for Cataclysm. I wrote iron-gray in the Vectoria opening. Those files still carry gun words.",
+   "Alchemetrica says 'Each draws on a current' and 'Nobody has been drawing' style usage, and The Real Alchemy says instruments exist 'from 690 IC'. Neither page was touched; both sit outside this group."
+  ],
+  "other_pages_needing_change": [
+   "wiki/The Magic System/First Steps/The Core Vocabulary.md: its Wellspring entry reads 'A cosmic current of Aether-law'; this is in another group",
+   "wiki/Materials, Alchemy & Trade/Alchemy/Alchemetrica.md and The Real Alchemy.md: current and draw language, plus 690 IC and post-1800 instruments",
+   "wiki/The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md: should say that the Wellsprings are types of Aether, and could take the new 'Temperance through' lines if Isaac keeps them",
+   "desktop/style-bank/wellspring-signatures.md: 'powder smoke' under Cataclysm, 'gunmetal' under Fractura",
+   "wiki/The Magic System/The Soul and the Climb/The Color of Essence.md: 'gunmetal' for Vectoria"
+  ],
+  "pages_untouched": []
+ },
+ "5": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Soul and the Climb.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/Release Forms.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Color of Essence.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Sixteen Stages.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell.md"
+  ],
+  "pages_untouched": [
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Soul and the Climb/The Concordant Crystal.md (byte-identical to the live page, checked)"
+  ],
+  "inventions": [
+   "The Soul and the Climb (hub): Tansy Mudge, Stage IV eel-wife, and her Ox Fair bracket fight against a red-silk sect champion.",
+   "Release Forms: the Widow Ansa Brack of the Three Keys at Sallow Ferry (Stage VIII Spatium; Trait 'everybody out'; First Release Last Orders; Second Release Closing Time; her price: she can never re-enter a house she closes); Bald Harry Stott and his hand; the Tollgate Free Company; bracket slang 'going big, going loud, going home' for the three Releases.",
+   "The Trait System: Ibbet Lowe, Stannvaard rim laundress, Class Ø woken by crisis ('IT COMES OUT IN THE WASH!'); Ser Aldous Breck; Lord Hask; Tub Lane; 'a knack' as the Common folk word for a low-amplitude Trait.",
+   "The Four Paths: the Door Wager of Kell Harbor; Lord Ormund Rusk; Big Una Ostrick of the Red Anvils; Master Bai Lüxian of the Nine Inkstones; Sweet Tam Hollin; Hyeon Do-sun, a porter from the Mahuo country; One-Ear Pask, bookie; bracket slang 'hitters, throwers, talkers and stayers' for the four Paths.",
+   "The Ladder and the Draft: Corvin Hathersage, the Hathersage wool money, Marrow Fair, Nob Pye and the goose.",
+   "The Color of Essence: Lantern Fair at Tarn Quay, Fishmonger's Row, Grandmother Seok Bo-ok (Stage XII Materia), the Red Crane school, the Tanners' Boys. New Part Six, 'The Coat, the Weight and the Nose', with a table of culture names taken from the other groups' staged pages. It adds Common 'smelling a man's stack' only as already used for Kharven; none of the names are new except my phrasing of the arguments.",
+   "Tier Grade, Bands & the Aether Shell: the Barn and the Clerk at Harl Cross, Gerda Holt, Mun Seo-yeon, the Salt Dogs; 'the three-copper bolt' aside with Margrave Ulf Stavang.",
+   "The Sixteen Stages, opening: the Pie at Pollard's Cross, the Copper Heron school, the Tannery Hounds, Aldith Fenn (Stage X); a children's skipping rhyme of the Sixteen.",
+   "The Sixteen Stages, 'The one they tell' entries. I: Little Wat Sorrel, the dogs of Thorn Mill. II: Annis Cobb, Thatcher's Row, the Core at Cobble Fen. III: Kim Dal-rae, Jeolgu Gwihwan (Pestle Goes Home). IV: Hob Tarrant and Mags Plowright, Stoneybridge, the Ford of Ell. V: Yrsa Kolbeinsdottir, Cold Ferry, 'HOW'S HELGA?'. VI: Tsao Qinglan, the Red Abacus Hall, the Yellow Dike at Lanjiang. VII: Gaffer Tom Underhay, the Salt Road Foot, the Mule and Lantern. VIII: Asahina Shigeko, Kaerazu no Mon (Gate of No Returning), the Kaname road. IX: the Ember Deacon Ambrose Tull, the siege of Dornhold. X: Odo Pennyfather, the stone at Cray Hollow. XI: Grandmaster Reva Thorne, Sergeant Pim Ottery, the Harrow Road. XII: Grandmaster Cuthbert Ashe, the Vall valley renamed Sweetmiss. XIII: Archmaster Liu Zhenhe, the law 'the strong shall carry the weak', the Qian plain, the Ninefold Banner. XIV: the Mount Hollin assay and the still-ringing forks on the Upper Ring. XV: the unnamed songs of the two recorded practitioners. XVI: Tolly and Daughters on the Exchange Stair.",
+   "All invented names were grepped against wiki/ and the other staged pages: no collisions. None of them appears on more than one page."
+  ],
+  "calls": [
+   {
+    "call": "Changed Vectoria's hue word from 'gunmetal' to 'dark blued steel' in The Color of Essence.",
+    "grounds": "R83-5: no guns in any era, so a color named for them is an anachronism on the page. The hue itself is unchanged. The other uses are listed under other_pages_needing_change."
+   },
+   {
+    "call": "Kept 'Crystal Draw' as a term and glossed it in Sixteen Stages Appendix B.",
+    "grounds": "It is the Class IV provenance grade in The Standing Index, the Master Material Ledger and The Bench of Attribution (material rendered from something that carried a Soul Crystal). It is not the retired draw of Aether. Isaac may want it renamed across the materials pages."
+   },
+   {
+    "call": "Removed 'English' from 'the release's English name is shouted' in Release Forms. The name now goes out in the owner's own tongue, with the meaning landing in the same beat, at the volume the character would use.",
+    "grounds": "R82-4 and R82-25 outrank the older wording. Corra Vell's example stays in Common."
+   },
+   {
+    "call": "Reworded Catalyst and ledger lines that used banned negation forms or 'current': Welling ('a Wellspring's raw Aether'), Splintering, Zenith, the Trade notes. The page still says the ledger figures are 'reproduced here without alteration'.",
+    "grounds": "The brief bans 'not X, it's Y' and 'a current in a pipe'. Meaning, figures and conditions are preserved word for sense. Every number was checked against the live page by script, and none is missing."
+   },
+   {
+    "call": "Replaced em dashes in Sixteen Stages headings with a middot or colon (### I · Murmuring, ## Appendix A: The Seat). Heading spelling in other pages also moved to American (VII. Fate Is Recognized Differently; V-a ... reorganization).",
+    "grounds": "The brief bans em dashes except in file and page names. A grep of wiki/ found no [[...#anchor]] link into any page of this group, so nothing breaks. The H1 and title of The Ladder and the Draft keep their em dash as a page name."
+   },
+   {
+    "call": "Added a fifth entry per Stage, 'The one they tell', and kept the 'four ways' wording in the hub and in The Ladder and the Draft.",
+    "grounds": "Isaac's note asks that each Stage feel famous and frightening. The original four ways survive intact, the story sits ahead of them, and other pages that say 'four ways' stay true."
+   },
+   {
+    "call": "Added law-derived content not previously on these pages: 'One idea, three sizes' (Release Forms, Trait System), small powers as a trade (Trait System), Fight Drafts (Ladder), how the coat, weight and spending show (Color Part Six), the pull and rich or thin ground (Tier Grade, Reserve), and the bolt aside (Tier Grade).",
+    "grounds": "NATALIE ABILITIES AND THE WORLD, THE MAGIC FRAME; R82-18, R82-19, R83-5, R83-8, R83-9; the brief's retirement table. Nothing in it is invented beyond the anecdotes listed under inventions."
+   },
+   {
+    "call": "For Part Six of The Color of Essence I used the names most of the other staged pages already use rather than coining my own: shine, matoi, gabot, hùtǐ, hide, on shift; atsu, nureum, wēiyā, low sky, load; kehai, nunchi, shénshí, sounding, the nose.",
+    "grounds": "Other agents had coined names first, and they do not agree with each other (see canon_conflicts). I took the majority form so the launching session has fewer pages to reconcile."
+   },
+   {
+    "call": "Replaced 'honesty meter' with 'honest scale' and the verb 'to meter' with 'to measure out', but kept the item name Metering Tonic. Replaced 'filament' with pitch on a torch, 'stovetop' with griddle, 'pharmaceutical arm' with apothecary arm, 'recruitment posters' with recruiting bills, 'industrialised' with guild-milled, and 'circulating engine' with a bellows breathing on its own.",
+    "grounds": "Retired meters and modern objects under R83. Metering Tonic is a named product in the Standing Index and belongs to another group."
+   },
+   {
+    "call": "Left the existing mentions of Borin Ironheart (Trait System, Density Traits) and Faisal (Four Paths, Fate gate) as found, and added no main cast anywhere.",
+    "grounds": "'Nothing is lost' on existing facts. The public-page limit on main cast was applied only to what I added. Isaac may want these two reviewed for public pages."
+   },
+   {
+    "call": "Left Part Five of The Color of Essence with no Limina row, as found.",
+    "grounds": "The brief does not ask for one and the gap predates this pass. A row could be built from Part Two if wanted."
+   }
+  ],
+  "canon_conflicts": [
+   "Domain seed duration: The Sixteen Stages says 'often lasting seconds', while Release Forms and the Tier Grade Domains table say it 'lasts minutes rather than hours'. I wrote 'often lasting seconds at its first firing' so the writing can go on. The figures themselves are not settled.",
+   "Shared-art names disagree across staged pages from other groups. Moto coat: matoi (How Magic Works, Physical Force, Training and Sects) versus hadagi (Reinforcement, Lexicon). Moto weight: atsu (Physical Force, Training and Sects) versus omomi (Lexicon). Moto sensing: kehai versus kehai-yomi (Training and Sects). Kharven weight: the low sky (Physical Force) versus the cold off him (Lexicon). Common coat: the shine versus wearing your color versus the coat. Part Six of The Color of Essence follows the majority form and needs to match whichever single set is chosen.",
+   "desktop/style-bank/wellspring-signatures.md still says gunmetal for Vectoria and Fractura, which disagrees with the rewritten Color page.",
+   "desktop/inventories/accord.md and desktop/inventories/stannvaard.md still carry mains, standpipes, gauge-houses and the wire, and they disagree with R83 and the brief. I followed the brief."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Assets/Diagrams/eight-families.svg (label still says gunmetal; I cannot edit it from this group)",
+   "wiki/The Bestiary/The Corrupted and the Risen/Well-spawn.md (gunmetal, in a staged group or a later section)",
+   "desktop/style-bank/wellspring-signatures.md (gunmetal)",
+   "Reinforcement, The Lexicon of Magic, Physical Force, How Magic Works, Training and Sects (staged, other groups): unify the shared-art names",
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Standing Index.md and related pages, if 'Crystal Draw' is to be renamed",
+   "desktop/inventories/accord.md and desktop/inventories/stannvaard.md (retired infrastructure)"
+  ]
+ },
+ "6": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md"
+  ],
+  "pages_untouched": [
+   "All other pages in Fracture of Worlds — The Living System (I to VI and the hub) are other groups' work"
+  ],
+  "inventions": [
+   "VII: Maud and Gunnild Scarbrow, twin sisters, Stage VII, one Class I and one Class III; the Tar Street Bellows (fire school, yellow and black); the Saltgate Lantern Fair; the Lantern Guild's bunting; Saltgate slang 'clear throat' and 'wet throat' for Aether Class",
+   "VIII: Thyra Ketilsdottir, 'Penny Thyra', toll-keeper of the Ottermouth bridge on the river Ott, with her Trait 'nobody crosses without paying' and a Stage VII Domain seed; the Seven Bright Sabers of the Cinnabar Hall",
+   "IX: Wu Jinbao of the Vermilion Lamp Hall, Stage III; Marget Pinch, tally-keeper; Big Odo, net-mender; the fire at Kettle Strand; 'Wu's freckles'. Wu's figures are the existing table row: 42,000 EU, 4,200 AU/s, η 0.40, nine seconds to Starvation, 127 m ignition, 317 m pain radius",
+   "X: the Wyvern of Anner Moss; Bettris Two-Spoons, cook; the Merry Gallows hedge-hunters; Little Perkin; Hob's Tarn; the Reeve of Anner Moss; the ladle shrine. The Wyvern figures are its existing row: T6, Hamlet-bane output, R and W, March-bane standing"
+  ],
+  "calls": [
+   {
+    "call": "'The draw' as a rate on a bearer, item or Domain became 'the drain' as the noun throughout VII, IX and X (maintenance drain, its heaviest drain, at full drain, the rung waits on its drain). 'Spent' became the verb and participle ('Power spent', '258.1 MW spent', '180,000,000 EU spent at'). Taking Aether from the room or a site became 'pull' (pulled from the stratum, pulling on the room, quickens the pull, the World Spirit's pull, the Intake pulls).",
+    "grounds": "The group note says to pick drain or spend by sense and be consistent. IX already had a section called 'The drain', and R83-9 gives 'pull' for the environment."
+   },
+   {
+    "call": "Ordinary-English 'draw' stays: draw the creature off its ground, a fight drawn onto ground, the disc the radius draws, a lot never drawn from, draw close.",
+    "grounds": "The brief keeps ordinary English 'draw'."
+   },
+   {
+    "call": "Tier-ladder change, Weapons, Sidearm entry. Old: 'A common revolver's ball, about 440 J, sits low on this rung'. New: 'A steel-bowed windlass arbalest's bolt, about 440 J, sits low on this rung, read by Speed Grade like any projectile and still the cheap thing that can kill a high-Stage fighter in a room'.",
+    "grounds": "R83-5 and the group note: a medieval work of the same Tier with the same figure. 440 J is above the page's own 'a crossbow bolt carries a hundred joules', so I named a heavy steel bow to hold both figures."
+   },
+   {
+    "call": "Tier-ladder change, Weapons, Bearing note. Old: 'Plain steel stops plain shot by its Bearing'. New: 'Plain steel stops a plain bolt by its Bearing'.",
+    "grounds": "R83-5, no shot in any era."
+   },
+   {
+    "call": "Tier-ladder change, Weapons, Proof modifier. Old: 'The proof-mark names the house, the test and the charge, and a proof is a promise about a specific charge'. New: 'The proof-mark names the house, the test and the bow, and a proof is a promise about a specific bow and bolt'. The word 'proof', the Proofed stamp and the proof rules stay.",
+    "grounds": "The brief retires proof-marks against shot. Proof against a crossbow keeps the mechanic and every rung."
+   },
+   {
+    "call": "Tier-ladder change, Weapons, Two dials and Standing or spent. Old: 'An enhanced round is dodged' and 'an enhanced round or arrow a hundredth, and it is consumed when fired'. New: 'An enhanced bolt is dodged' and 'an enhanced bolt or arrow a hundredth, and it is consumed when loosed'. The price is unchanged.",
+    "grounds": "R83-5."
+   },
+   {
+    "call": "Tier-ladder change, Weapons placement, Mkono wa Miti row. Old: 'stops shot, blunt strikes and edges to the E-to-D band; fails against proofed shot'. New: 'stops bolts, blunt strikes and edges to the E-to-D band; fails against proofed bolts'. Rung and figures are unchanged.",
+    "grounds": "R83-5. Its bearer is Chimwala per wiki/Artifacts. I could not confirm whether that is another creator's material, so I changed only the retired noun and added nothing."
+   },
+   {
+    "call": "Tier-ladder change, Sites placement. Old: 'The residue streets of a slow main'. New: 'The residue streets of a slow vein'. Same record, type and rung (Freshet).",
+    "grounds": "Mains are retired. Vein is the page's own natural term for the channel that feeds a site."
+   },
+   {
+    "call": "Tier-ladder change, Sites placement. Old: 'The interior of a charged draw main ... worked for careers by unscreened main-men'. New: 'The deep galleries of a worked vein ... worked for careers by unscreened vein-men'. Same density reading and rung (Millrace). The row already said 'by the vein's Family'.",
+    "grounds": "Mains and the draw are retired. A mined vein keeps the occupational fact of unscreened career workers at Active Concentration density."
+   },
+   {
+    "call": "Tier-ladder change, Sites placement, Southern Pan row. Old: 'no array industry'. New: 'no array trade'.",
+    "grounds": "Factories and industry are retired. Arrays themselves stay canon (R81-12)."
+   },
+   {
+    "call": "Tier-ladder change, Summons, Gatebreaker. Old: 'overturns a battery'. New: 'overturns a line of trebuchets'.",
+    "grounds": "A battery reads as guns, and siege engines stay under R83-5."
+   },
+   {
+    "call": "Tier-ladder change, Sites modifier. Old: '**Draw: what working the site does.** A site drawn on steadily falls as it is drawn'. New: '**Pull: what working the site does.** A site pulled on steadily falls as it is pulled', with one added sentence: 'Left to rest it recharges, and its keepers can close it to anyone for exactly that reason.'",
+    "grounds": "R83-9 and the brief: worked sites recharge and have keepers who can close them."
+   },
+   {
+    "call": "Tier-ladder change, Drafts placement. Old: 'a confirmed World Spirit's draw'. New: 'a confirmed World Spirit's pull'. The figure is unchanged.",
+    "grounds": "The draw is retired."
+   },
+   {
+    "call": "Kept the name 'Thundercrack Grenade' (Drafts placement, T5, about 1 EU, Tonic) unchanged. It is the only item-ladder name that could read as modern.",
+    "grounds": "The Alchemical Index describes it as a bottle of packed rupture-quartz, with no powder. The name is canon on that page and links across pages. Note that the Index's own wording around it (charged rod, lattice-grid wire on the neighboring Thunderclap Bracer Charge) belongs to whoever rewrites that section."
+   },
+   {
+    "call": "Kept the weapon rung name 'Sidearm' and the rest of the rung names, stamps and sigils unchanged.",
+    "grounds": "The Tier ladders are fixed (R79-11). A sidearm is also a sword at the hip, and the entry now names a knife, a cudgel, a jack and a bolt."
+   },
+   {
+    "call": "'Mechanica (engineered magitech)' on Part Seventeen's Aether Forge Rites line became 'Mechanica (forbidden working that takes power without lawful consent)'. It keeps its place in the rite.",
+    "grounds": "The old gloss was wrong as well as retired. The rest of the stage and the Mechanica page define Mechanica as forbidden extraction, and magitech is retired."
+   },
+   {
+    "call": "Replaced the gloss 'a natural source of magical current' with 'one of the sixty types of Aether, each working on the Soul Crystal in its own way and carrying its own law' on VII, VIII, IX and X. In the X sites ladder, 'current' as a Wellspring's flow became 'Aether'. Sea currents, 'Currents curve around their presence', 'Earth flow', veins and the water-named rungs (Trickle to Chasm) stay.",
+    "grounds": "R83-9 retires Wellsprings as a current. The water metaphor for pooled Aether is natural, and the rung names are fixed."
+   },
+   {
+    "call": "'Passive Recovery: baseline absorption of ambient Essence' became 'the baseline pull of ambient Aether, refined in the Crystal into Essence' on VII and IX, and added that rich ground fills a Crystal faster and thin ground starves it.",
+    "grounds": "R83-9: Aether is pulled from the environment and becomes Essence only in the Crystal. Rates and the table are unchanged."
+   },
+   {
+    "call": "Physics analogies changed on IX. 'Not a battery in the chest' became 'not a furnace in the chest'. 'A discharging cell's internal resistance rises, a draining capacitor's drive falls' became a sinking millpond and a slackening bowstring. 'Reserve gauges' became 'assay forks'. The heat pump stays, with its 'three to five times' figure, now 'a device the Measurewrights can reckon on a slate and nobody has ever built'.",
+    "grounds": "The brief retires cells and gauges and says instruments are medieval. R83-11 lets scholars know modern science, and what is built stays medieval. Fourier, Stefan-Boltzmann, Gouy-Stodola, TNT and all figures stay."
+   },
+   {
+    "call": "Part headings keep their em dashes ('## Part Seventeen — The Aether Class System'). Em dashes in definition lines became colons, and 'Class Ø — The Dormant' became 'Class Ø, The Dormant'.",
+    "grounds": "The brief says keep headings where you can and replace em dashes in prose. These headings mirror the canon Part names."
+   },
+   {
+    "call": "Fixed the remaining British spellings in IX and X (kilometres, millimetres, millilitres, channelled, harmonisation, recognised, reorganisation, stabilised). 'Draught' stays as a rung name.",
+    "grounds": "The American-spelling rule. The protected sentence in X was checked and is intact. Comparing numbers against the live pages, no number was removed on any of the four pages."
+   }
+  ],
+  "canon_conflicts": [
+   "R83 versus Tier ladders: R83-9 and NATALIE say 'a Wellspring site is a Core in common speech', while the X density scale fixes 'Wellspring Core' as the seventh rung only (Fountainhead, SSS). I kept the survey's term and added a line on X saying common speech calls any site a Core and the survey has stopped correcting people. The Essence Core is a third meaning of the word.",
+   "VIII Part Twenty-Two says 'A character does not choose to deploy a Domain the way they choose to throw a punch', while R81-11 and NATALIE say a Domain is called aloud and forms as it is named. I left the canon text, as the group note orders. If Isaac wants this squared, it needs a ruling.",
+   "X says 'A crossbow bolt carries a hundred joules' and the replaced Sidearm line says about 440 J. Both now stand as an ordinary bolt and a heavy steel arbalest. Reported because 440 J was a revolver figure, kept only because the group note says same figures.",
+   "The page's 'Stage III at η 0.40' full-output row is lethal to its own crowd at 127 m, and the Ledger's opening on IX uses that row as written, so that story has deaths. No figure was altered to soften it.",
+   "The 'A Reader's Codex' page and 'The Imperial Age Aether Infrastructure' page in the live wiki still use 'draw main' or 'main-men' language, so the two X rows above will disagree with them until those pages are rewritten."
+  ],
+  "other_pages_needing_change": [
+   "wiki/The Magic System/Practice and Institution/The Imperial Age Aether Infrastructure.md and wiki/A Reader's Codex.md (draw main, slow main or main-men language matching the old X rows; check whether the stage already covers them)",
+   "wiki/Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon.md (revolver and shot; X's Two dials and proof modifier now say bolt)",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md (mentions a revolver)",
+   "wiki/Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Alchemical Index.md (Thundercrack Grenade and Thunderclap Bracer Charge entries use charged-rod and lattice-grid wire wording)",
+   "wiki/Artifacts/Mkono wa Miti · Arm of the Trees.md (check for shot wording, if it is not another creator's page to leave)"
+  ]
+ },
+ "7": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/magic/wiki/Cosmology & Metaphysics/Ages and Reckoning/Ages and Reckoning.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/Cosmology & Metaphysics/Ages and Reckoning/Errata to the Received Registers.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/Cosmology & Metaphysics/Ages and Reckoning/The Four Ceilings.md",
+   "imports/drafts/wiki-rewrite/magic/wiki/Cosmology & Metaphysics/Ages and Reckoning/The Sky, the Hour and the Year.md"
+  ],
+  "pages_untouched": [],
+  "inventions": [
+   "The Concordance of Ages and Ages and Reckoning: the Black Noon of Year 690, a solar eclipse over the midsummer brackets at Ironlink that names the Dark Ages. Eleven dead on the south stair.",
+   "The Concordance of Ages: Sister Perpetua Lunt of the Greenmantles and Ragnall Oxblood of the Saltmarket Reds (fighters and schools); Tam Lackpenny (hedge-minstrel and his song); Measurewright Ottoline Wray (the almanac an hour out).",
+   "The Concordance of Ages: the anonymous later hand, an open-shelf archivist writing below the seal in the last winter before the turn. Also 'the thin' as Ironlink bracket slang for the Withering, and 'arc' as the minstrels' word for a cycle of songs filling one winter.",
+   "The Concordance of Ages: 'the split' dated about 740 IC, with rival readings of 738 (Division tax receipts) and 741 (a Dawi hold entry).",
+   "The Concordance of Ages: the first blow on the white shelf dated about 310 IC, with the Refusal and the Stay placed there. It is a chronology call on existing Long Reading events.",
+   "Errata to the Received Registers: Lord Aldous Thorsby of Hollingarth ('Lord Six Hundred'), his gate motto THIRTY THOUSAND YEARS AND NEVER ONCE ASKED, and Measurewright Ingrith Sallow.",
+   "The Four Ceilings: pit-mistress Annot Thrale and the ninety-hour bet at Blackwater Deep, Greaves districts, Year 641, with nineteen pump-hands drowned. Array-keepers are named as the hired practitioners who feed lift arrays.",
+   "The Four Ceilings: Master Odo Brandt of the Stannvaard wrights and the Harrow Drag, Year 683: Transference between tuned road-stone and an ore-sledge, ending in the chapel at Ansby.",
+   "The Sky, the Hour and the Year: the fight on Stonecrop Fell, Year 671, between Hoshino Tadaie (Moto Sower-watcher) and Perkin Dunmow (Accord chancery), leaving Year 671 with no attested first morning.",
+   "The Sky, the Hour and the Year: the Guild hour's new mechanism: the great water clock at Stannvaard, relay riders with sealed sand-glasses, beacons lit at the hinge, and guild hall water clocks."
+  ],
+  "calls": [
+   {
+    "call": "The IC count does not move. Year Zero, First Eon (-1,400 to -900), Antediluvian Calendar (-900 to -450), Reconstruction (-450 to 000), Voyager Era (000 to 070), Long Reckoning (070 to 645), Withering Era (645 to open) and every ceiling date stay as they were.",
+    "grounds": "R83 changes the setting and names no change to the count. Over a dozen other pages stamp IC dates, so keeping the numbers costs the least and contradicts no archived scene: the only IC date in the scene archive is in lore/v1, old lore (702 IC), and TIMELINE.md marks scene dates as unverified."
+   },
+   {
+    "call": "DATE MOVED: the opening of the Imperial Age, 690 IC, is now 800 IC, the turn of the century. It is named only as the Renaissance after the Dark Ages.",
+    "grounds": "R83-4 supersedes R63-2 and R61-131. 800 is the only century turn most of the cast can reach from 715 (R83-2)."
+   },
+   {
+    "call": "DATE RELABELED: 690 IC now opens the Dark Ages, which run 690 to 800 IC. The label takes the old Imperial Age slot, inside the Withering Era. 715 IC stays the sealing year and is now 'the twenty-fifth year of the Dark Ages'. Stamps of 'the Nth year of the Imperial Age' convert by name only, so 700 IC is the tenth year of the Dark Ages.",
+    "grounds": "The brief sets the Dark Ages as the present tense of these pages. This keeps every stamped year and ordinal on the Alftian, Farrant and Necrocursica pages valid by one mechanical substitution, recorded on the Errata."
+   },
+   {
+    "call": "The present on the wiki stays 715 IC, and Arc One opens about then. For continuity, Chapter One of The Uncounted sits about 715 IC, so Muken is sixteen then. These implied dates are in this report only, not on any page: the forty-year war about 675 to 715, Muken's birth about 699, and the Lorn Stark and Hild Ice era (twenty-two years on) about 737, just before the split.",
+    "grounds": "NATALIE and the old rulings carry present = 715. TIMELINE.md gives no absolute dates for these scenes, so this contradicts nothing. Isaac may move Chapter One against the count without touching the pages."
+   },
+   {
+    "call": "NEW DATE: Malakar's split of the continents is placed at about 740 IC, near the end of Arc One, with Arc One running about 715 to about 740. Arcs Two and Three run from the split to 800 IC, and I deliberately gave no year for the boundary between them. The page says the minstrels disagree about that joint.",
+    "grounds": "R83-2, R83-3 and the questionnaire answer 'near the end of Arc 1'. C-164 lists the undated split as a defect. Twenty-five years leaves Muken about forty-one at the split and sixty years for two arcs with time skips. Fixing the Two/Three joint would bind plot R83 does not give."
+   },
+   {
+    "call": "DATE REMOVED: the Traction row's 'from 690 IC, rail on a main' is gone. The Sixth Ceiling now has not fallen. Its Transference law and the 'Year 88' joke survive through the Harrow Drag folly of 683 IC, and the steam-engine line is kept with the array as the reason.",
+    "grounds": "The brief retires rail, mains, tariffs and Boards, and R82-37 asks for contraptions that misfire. A failed attempt keeps the law and the argument."
+   },
+   {
+    "call": "C-164 NOW READS (proposed Status text, for the launching session to log): 'Ruled 2026-11-05 by Isaac on the order: Muken lives before the split and survives it; Malakar splits the continents near the end of Arc One. Agent ruling (Natalie, wiki rewrite): the Concordance dates the split about 740 IC and treats the whole IC count up to then as the Grand World. The Long Reading's split in II to IV is read as a first blow on the white shelf about 310 IC, which the Moto registers call the split: the Reading of it, the Refusal and the Stay fall there, the Long Diminishment follows, and the Recension stays two to four generations before Muken. The great split proper comes after Muken. Kharven-Seat already stands before Muken and he takes its crown rather than building it. The Long Reading, The Moto Bloodline, The Moto Origin and the Kharven page are to be revised to this. Status: ruled, pages pending.'",
+    "grounds": "The Long Reading itself says the eye gives pressure and no hour, and the Stay needs a blow to answer. 310 IC comes from its 'four centuries' of Holy Sea testimony counted back from 715. A two-stage break keeps every Moto event while obeying R83-3 and the book, where a person can still walk the Grand World. Reading Order says the Seat and the Foot already stand. Isaac overturns this by striking one paragraph in Concordance Section VI."
+   },
+   {
+    "call": "The 'first blow' on the shelf is left unattributed on the page: the later hand holds it was the same hand as the split, and two Measurewrights file it as a coastal collapse.",
+    "grounds": "R83-3 names Malakar for the split only. R83-11 lets scholars argue."
+   },
+   {
+    "call": "Vantage: everything above the seal keeps its 715 present. The arcs, the split and the Imperial Age appear only in Concordance Section VI and one marginal note in the Errata, in an unattested later hand writing in the last winter before the turn, which is still the Dark Ages. On this group's pages the arcs appear only in the Concordance.",
+    "grounds": "A document sealed in 715 cannot know 740, but the brief requires the Concordance to place them. A hand before the turn keeps the Dark Ages as present tense and names the Imperial Age only as what comes after."
+   },
+   {
+    "call": "The name 'Dark Ages' is treated as a street name from the Black Noon that the Guild entered under protest, and the page lists rival scholarly explanations.",
+    "grounds": "NATALIE's tone bans a gray reading of the setting. The name needed a loud origin and a witnessed first year, because the Guild 'dates an age from its first witnessed year'."
+   },
+   {
+    "call": "Mine arrays survive as medieval Runecraft fed by hired array-keepers rather than by a supply network. Essence supply becomes Core-keepers' contracts, crews on retainer and sealed Holding vessels on mule-back. Conduit survives only over the length of a pit or curtain wall. The ninety-hour drowning, the famine, the Withering and 'Essence traders that happen to own holes' are all kept.",
+    "grounds": "The brief retires mains and tariffs and says nothing is lost otherwise. R83-8 has living people who can refuse. The brief also says a worked Core recharges and its keepers can close it."
+   },
+   {
+    "call": "Attributable ordnance moves from powder to the crossbow: Crowns field massed crossbows, the Accord does not, and a practitioner carrying a crossbow is making a statement. I dropped proof-marks and gave the Crown the pavise instead.",
+    "grounds": "R83-5 and the brief's no-guns row. The jurisdiction argument (a bolt carries no coil-readable signature) transfers intact."
+   },
+   {
+    "call": "The 'Tuesday' joke is kept even though the calendar has no Tuesday. I removed the duplicate Imperial Age paragraph in the Concordance's Reconstruction section, keeping the 'years In Concordance' version.",
+    "grounds": "The brief says keep existing good jokes. The duplicate differed only by the retired label."
+   }
+  ],
+  "canon_conflicts": [
+   "The Long Reading II to VI and its Open Rulings ('two to four generations before Muken', 'twenty-fifth year of the Imperial Age', 'the rest of the body of the world came apart around it') still read as a completed split before Muken. They conflict with the Concordance Section VI and need the first-blow revision in the C-164 text.",
+   "The Moto Bloodline and The Moto Origin have Malakar's splitting scatter the seven lines and Muken build Kharven after it. Reading Order and the book have the Seat and the Foot already standing, and the split comes later.",
+   "The Moto Bloodline says Muken was removed and 'died to a dirty one', and Yukazuri's card has been read as outliving him. R83-3 requires him alive through the split, about 740 IC. I gave no death on these pages.",
+   "Sohai, The Whole Bow defines the Okuchi as 'the body of the world before Malakar broke it', which every other people named after the disaster. On the new order that world is still standing in 715. The Sky page now glosses the Okuchi as 'the deep old country of the Moto reading' and drops 'outlived the Okuchi' for 'outlived the stations'.",
+   "The book's 'Before' has the Archons and Titans fighting a forty-year war that ended a month before Chapter One, and Reading Order says 'one war, forty years long'. R83-6 and The Four Ceilings treat the Great Spirit War as ancient and off the count. Whether they are one war is not settled. These pages keep the Great Spirit War undated and do not mention the forty-year war.",
+   "Quarter names 'Old World' and 'New World' remain in use before the split. I treat them as names of quarters of one continent, but Geography pages may describe seas between the quarters and need checking against the Grand World.",
+   "Sources and old rule rows (R53, R59, R61, R63, Pack rows on rail and powder) still carry 690 IC, the Imperial Age as present, rail and firearms. R83-4 and R83-5 supersede them, and the brief was followed.",
+   "Errata's row 'The Renaissance Era, The Fractured Era: no corrected term' now brushes R83-4. The row is kept as sealed, with a later-hand note that the correspondence was early."
+  ],
+  "other_pages_needing_change": [
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History.md",
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline.md",
+   "wiki/Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Origin — The Western Reach.md",
+   "wiki/Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md",
+   "wiki/Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sōhai — The Whole Bow.md",
+   "wiki/A Reader's Codex.md (Draw Age section, 'the present moment' line)",
+   "wiki/Lore & History/The Alftian Codex/ (Volume the First, Second and Third, The Necrocursica, The Farrant Papers: 'Nth year of the Imperial Age' stamps become 'of the Dark Ages')",
+   "wiki/Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md (line 187, instruments dated from 690 IC running from the 1800s into the 1900s)",
+   "wiki/Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age.md (title and premise)",
+   "imports/drafts/wiki-rewrite/magic/wiki/The Magic System/The Magic System.md (line 197 links 'The Imperial Age: Aether Infrastructure'; another group's page, and the filename stays per the brief)",
+   "wiki/Geography & the Four Quarters/News, Rumour and the Speed of Information.md and Geography & the Four Quarters.md (the wire, the conduit)",
+   "wiki/Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade.md (Essence supply wording, 'Year Zero' and Withering sections; keep aligned with the Core-keeper contract reading)",
+   "scenes/TIMELINE.md (the 'placed' column could carry about 715 IC for Chapter One if the call stands)",
+   "CONFLICTS.md C-164 Status (the launching session applies the text in calls) and a log_ruling for the calls above"
+  ],
+  "rename": []
+ },
+ "8": {
+  "fixed": [
+   "Broken link: The Magic System.md still pointed at the deleted Imperial Age Aether Infrastructure page. It now links to Who Pays for the Lamp: The Living Crafts. Its Four Crafts blurb said 'five media', and its Working Vocabulary blurb still said 'fitters'; both are corrected.",
+   "Four against five crafts: How Magic Works now says Magicraft is the examined umbrella counted with the four crafts, so 'four crafts on the door, five headings inside' holds everywhere, including NATALIE's 'Chantcraft is the fifth'.",
+   "Shared-art names set to one table, the Part Six table in The Color of Essence. Coat: matoi, gabot, hùtǐ, on shift, the hide, the shine. Pressure: atsu, nureum, wēiyā, the load, the low sky, the weight. Sensing: kehai, nunchi, shénshí, sounding, smelling a man's stack, the nose. Removed kiatsu (How Magic Works), hadagi, huti and second hide (Reinforcement, Lexicon), omomi, weiya, shenshi and the cold off him (Lexicon), and kehai-yomi (Training and Sects). Isaac may overturn the set.",
+   "Grade range: 'E through EX+' and 'E to EX' now read F through EX+ on The Core Vocabulary, Sixteen Stages, Four Paths and Counterplay, matching Tier Grade, How Magic Works and Measures. Core Vocabulary also notes Hollow sits below the letters.",
+   "Salted and bled ground: the Eight Families hub now uses the same definition as Counterplay, Reinforcement, Lexicon and Working Vocabulary. Bolt price is three coppers on both Who Pays for the Lamp and Tier Grade. The street pair on Physical Account is now fat and lean ground, as elsewhere.",
+   "Primary Trait: How Magic Works now says it is carried from birth and first shown in Wen Talley's rafter, agreeing with Core Vocabulary, Trait System and Fracture VIII.",
+   "Domain law: Fracture VIII keeps the canon sentence and gains one line after it: the Second Release opens and powers a grown Domain, it is called aloud, and it forms as named (R81-11). This goes against the group note that told the agent not to reword those pages; it adds a sentence and rewords nothing.",
+   "The 'Temperance is a confession' aphorism now reads the same on Fracture VI as on The Magic System and Core Vocabulary. The Apprentice's Primer, outside this section, still has the old form.",
+   "Sample echoes removed. VII's bookies hauling the Measurewright who 'had been right' copied the sample's closing joke, and it is rewritten. 'Ask in any river town', 'Ask any stallholder', 'Ask anyone in Tarn Cross' and 'Ask any bookie' all copied the sample's first move, and all four openings are recast.",
+   "Eight Families opening contradicted itself: the bookies were 'still paying' at the start and 'bought new roofs' at the end. Fixed.",
+   "Name collisions across pages: Maud ×3, Wenna ×2, Aldous ×3, Odo ×4, Ambrose ×3, Thorne ×3, Wat ×3, Tam ×3, Rook ×2, Wu ×2, Dal-rae ×2 and Hollin ×5. All but one use of each are renamed: Sissel Scarbrow, Prudence Aldgate, Jennet Marl, Ser Gervase Breck, Lord Piers Thorsby, Simeon Blackwell, Big Ned, Konrad Brandt, Lucan Hale, Clement Tull, Reva Stroud, Wilkin Sedgely, Little Jem Sorrel, Sweet Robin Bellamy, Jonas Ockley, Gao Baoshan, Seo Hye-rin, Dunmere Gate, Wick Cross, Mount Skarn. Gull Strand replaces Kettle Strand. If reports or logs already cite the old invented names, they need the new ones.",
+   "Template repeats varied. Lantern festivals and halls cut from nine to the few that earn it. Twins and sisters cut from six to three. Equal-sheet fights no longer all open on even money. Crowd headcounts of four to six thousand mostly replaced. Opening lines beginning with a bookie or odds reduced, and bookies removed from about twelve openings. Eyebrow gags cut from seven to two. Herring barrel used once, midsummer openings thinned, and pie gags trimmed. The eleven tic and repeated 31, 41 and 19 year counts changed in about 25 stories. Year-count formula broken on Trait System, Stacking, Tier Grade, Four Crafts and Four Paths. No canon or table figure was touched, and a re-run comparison shows no new number lost on any page.",
+   "Modern objects removed: mangle, wig, pocket water clock, 'pipeline', and 'whole industry' on the proof-mark line.",
+   "British spellings fixed: recognisable, fifty-kilometre, totalling."
+  ],
+  "unfixed_problems": [
+   "Needed at merge, outside staging: wiki/Start Here.md line 33, wiki/INDEX.md line 554 and wiki/.manifest.json line 139 still point at the old Infrastructure page, and the live copy of that page must be deleted. The rename itself breaks the brief's 'keep filenames', and I left it because the old title carries the retired Imperial Age premise.",
+   "Domain seed duration is still unsettled. Sixteen Stages says 'often lasting seconds at its first firing' and Tier Grade and Release Forms say minutes rather than hours. It reads as compatible but needs a ruling.",
+   "Stat Effect lines on the Family pages differ from Fracture Part Thirteen (Ignivale, Pyreveil and others), though the hub says they are unchanged from source. Canon source needed, so I left it.",
+   "New World, Old World and Voyager Era language remains on the Eight Families hub, On Walking and Derivation, against R83's single Grand World. The Concordance reads them as quarter names, but Geography must confirm. On Walking's 'hundred and forty years' of the Voyager Era also clashes with the Concordance's 000 to 070 IC.",
+   "The launching session must log these as agent rulings: C-164 and the Concordance dates (Dark Ages from 690, split about 740, turn 800, first blow about 310), the Expert 'two Stages apart' change, the salted and bled definitions, the shared-art name set, beacon line, assay posts and parish stones, 800 IC for the Imperial Age, and the derived Alchemy and Spirit lines marked as trade or confessors' readings.",
+   "Long Reading, Moto Bloodline, Moto Origin, the Kharven page and Sohai still read the split as before Muken and need the C-164 revision. 'Nth year of the Imperial Age' stamps on the Alftian and Farrant pages also need converting.",
+   "Other pages still carry retired premises: What Things Cost, The Powers of the Imperial Age, Factions at a Glance, Shot and the Enhanced Weapon, Alchemetrica and The Real Alchemy, the Alchemical Index wording on the Thundercrack entries, News, Rumour and the Speed of Information, A Reader's Codex, desktop/style-bank/wellspring-signatures.md (gunmetal, powder smoke), desktop/inventories/accord.md and stannvaard.md, and wiki/Assets/Diagrams/eight-families.svg.",
+   "Kept on the agents' calls, for Isaac to strike if he wants: the item name Thundercrack Grenade, the rung name Sidearm, the materials grade Crystal Draw, 'current' as the surveyors' word, and Metering Tonic.",
+   "Canon 'It is not X. It is Y' lines remain on the Fracture pages by the group note. 64 Sub-Stat em dashes and the Stage headings stay because rust/src/bot/fow.rs and rust/src/workshop.rs parse them. Sixteen Stages headings changed from em dash to middot; no wiki link targets them, but I did not check whether code parses that page.",
+   "Existing public-page mentions of Sodoku, Cozbi, Krothar, Mu-jin, Niran, Faisal and Borin were left in place, and no new cast was added outside the Ages pages. Isaac may want to review them. Muken and the arc villains appear only in Concordance Section VI, as the brief allows.",
+   "'Tuesday' on the Concordance has no calendar basis and is kept as a joke. Limina still has no row in Color of Essence Part Five. Altherion Collegium and Aetherion Academy are still unreconciled."
+  ],
+  "not_read_closely": [
+   "Read only by script comparison and retired-term and style greps, plus the opening stories: Fracture of Worlds I to X bodies, the eight Family pages' Wellspring entries (Alchemy and Spirit lines not reviewed one by one), The Descent of Parun, The Counted Speech, the Glyph Index, The Lexicon, Magical Categories, Field Manual, The Standing and the Title, Derivation, On Walking, Mechanica, The Sky, Errata and the bodies of The Four Ceilings.",
+   "Skimmed: Sixteen Stages beyond the 'one they tell' entries, Tier Grade body, Trait System body, Color of Essence Parts One to Five, Release Forms body, Four Crafts body and One Exchange annotations.",
+   "Read in full or nearly: How Magic Works, Who Pays for the Lamp, The Gate, Physical Account, the first half of the Eight Families hub, Working Vocabulary section I, and Concordance sections II to VI.",
+   "Not done: mermaid diagrams were not rendered, the rust validator was not run because it covers the live tree rather than staging, and scene archive checks were not repeated.",
+   "Checked by script: the numbers survive on every page, except 690 on Four Ceilings, which is the retired Traction date. All wikilinks survive except the renamed page. Protected passages are intact and The Concordant Crystal is byte-identical. The live wiki/ tree shows no changes."
+  ],
+  "strongest_openings": [
+   "Counterplay: the laundress, the bathhouse and the bolt",
+   "Who Pays for the Lamp: the lamp strike and the man who lit eleven hundred at a stroke",
+   "The Practitioner's Field Manual: Oswin Crumb and 'Same fuel. Same Essence. Entirely different corpse.'",
+   "The Sixteen Stages: the pie, then the woman in hip boots who asks them to stop",
+   "The Concordance of Ages: the Black Noon",
+   "X. The Tier Ladders: Bettris Two-Spoons and the wagon of goats",
+   "The Trait System: Ibbet Lowe",
+   "VIII: Penny Thyra"
+  ],
+  "weakest_pages": [
+   "The Measures at a Glance and IV: both still hang on 'same reading, different result', which is the law's point, though the shape repeats",
+   "The Standing and the Title: its opening is the fourth equal-sheet bout even after the changes",
+   "Power in Use and Reference and Craft hubs: one-line gags, adequate for a hub",
+   "The Sixty's Family pages: the shared italic header repeats eight times by design, and the openers are good but all run a named commoner, a triumph, then a bill"
+  ]
+ }
+}

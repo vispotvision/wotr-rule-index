@@ -18,7 +18,7 @@ Varūn's people, made for endurance, who followed the ore into the crater walls 
 
 **Objects:** the Tally and the entry (*tallut*); the cask (*kaas*); the hammer, which Borin calls his walking stick; the burin and the cut rune (*thrus*); the angle-set (*nikkat*); the beard-ring, etched, and the rings are old but the beard is older (Borin's; *derived* for the forge-culture generally, his own rings adamant); the ironwood handle; Cask-Oath Pitch, which will not cure outside the hold it was sworn in; the two-column ledger.
 
-**Exchange:** the entry; nothing exists commercially until entered. Hold weight for the Tally, Accord weight for the wire, and the conversion is itself an entry. Toll-right, honored by every branch including the Tower-Kin. The Reckoning: a life is not settled by any other life, a theft by any unrelated payment. The recipe is not property and cannot be surrendered. Grain north to Kharven, ironwood south to the Ring, and the Thornwalls know the difference between a shortage and a message.
+**Exchange:** the entry; nothing exists commercially until entered. Hold weight for the Tally, Accord weight for the relays, and the conversion is itself an entry. Toll-right, honored by every branch including the Tower-Kin. The Reckoning: a life is not settled by any other life, a theft by any unrelated payment. The recipe is not property and cannot be surrendered. Grain north to Kharven, ironwood south to the Ring, and the Thornwalls know the difference between a shortage and a message.
 
 **Proverbs, fixed wording:** "You are still here." "Varūn did not make us strong. He made us the thing still standing after strength finished arguing with itself." "The brew lives, the oath lives. The brew dies, the oath does not die." "The angles are true. The entry holds." "Unbegun. Not undertaken." "Five ways up the same mountain, and not one of us agrees on what the top is for." "Eight ways to still be standing, and Varūn has never once told any of us which one he actually meant." "The measurement is the thing, and the thing without the measurement is just rock." "A mountain only teaches you one kind of up." "The ore is still here, and that is why we are still here." "All things break, lad. The work is in mending them stronger than before." (Borin's.)
 
@@ -43,7 +43,7 @@ Varūn's people, made for endurance, who followed the ore into the crater walls 
 - **The skin tells what comes next.** The Soul-Runes on an elder's arms can be read forward, and a fortune-teller at the Ring gates reads the next rune before it arrives.
 - **The cinder bead refills for a worthy heir.** An heir who lives by the Tally will find his bead full again one morning.
 
-**Literacy:** High in the rune. Every Dawi reads a name's grade in stone from across a chamber and an angle at a glance; entering the Tally in meter is clerks' work, and a clerk is a metrician before he is anything else. Concord script is read by those who deal outward, for the wire and the second column.
+**Literacy:** High in the rune. Every Dawi reads a name's grade in stone from across a chamber and an angle at a glance; entering the Tally in meter is clerks' work, and a clerk is a metrician before he is anything else. Concord script is read by those who deal outward, for the beacon line and the second column.
 
 **Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
 

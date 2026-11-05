@@ -1,11 +1,11 @@
 # Wellspring sensory signatures
 
-Isaac's direction, 2026-10-30 (technique-description questionnaire): every working carries its Wellspring's signature, so a reader learns to know the source on sight, sound and smell. The Family hue and the way each Family reads on the page are canon in `wiki/The Magic System/The Soul and the Climb/The Color of Essence.md` (Part Five); the analogue, mechanism and failure of each Wellspring are canon in the Family pages under `wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/`. This file adds the five-sense layer by deriving it from each Wellspring's physical analogue. The layer is Claude's draft and becomes canon on use (R79-11); Isaac may strike any entry.
+Isaac's direction, 2026-10-30 (technique-description questionnaire): every working carries its Wellspring's signature, so a reader learns to know the source on sight, sound and smell. The Family hue and the way each Family reads on the page are canon in `wiki/The Magic System/The Soul and the Climb/The Color of Essence.md` (Parts Two and Five); the analogue, mechanism and failure of each Wellspring are canon in the Family pages under `wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/`. This file adds the five-sense layer by deriving it from each Wellspring's physical analogue. The layer is Claude's draft and becomes canon on use (R79-11); Isaac may strike any entry.
 
 ## How to use it
 
 - A working from a Wellspring shows its **hue, sound, smell or taste, touch** and its **tell** (the visible charge). The user's body feels the **user's line**. Small workings may show two channels; a signature move or a high-Stage working shows all five (Isaac's call: scale to the technique).
-- Hue sits inside the Family hue. **Stage sets the clarity** (near-black at Murmuring, near-white at Zenith, per The Color of Essence); **the person sets the timing and the manner** (a showman loud, a veteran quiet), never the signature.
+- Hue sits inside the Family hue. **Stage sets the clarity** (the hue shows from the first Stage, clouded and smoky at Murmuring, clearing as the Stage rises toward near-white at Zenith, R85-10); **the person sets the timing and the manner** (a showman loud, a veteran quiet), never the signature.
 - The tell comes before the effect and is always visible (Isaac's direction): the opponent and the reader can read the charge.
 - Describe the physics first and the color with it. A reader who knows the Wellspring should be able to name it from the sound and smell alone.
 - Cross-Family workings carry both signatures, the dominant one first.
@@ -14,7 +14,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
-| Pyreveil | deep ember-orange, steady | furnace draw, a roar held under the breath | hot iron, banked coals, singed hair | dry heat radiating off the skin | skin flushed, never sweating; heat stops registering as damage | heat-shimmer climbing the arms before any light |
+| Pyreveil | deep ember-orange, steady | a furnace's breath, a roar held under it | hot iron, banked coals, singed hair | dry heat radiating off the skin | skin flushed, never sweating; heat stops registering as damage | heat-shimmer climbing the arms before any light |
 | Exuroth | cherry-red cooling through straw and plum to a temper blue at the edges | the hiss and tick of cooling metal | quench oil, steam | shocks of heat then cold | teeth ache; pain rises, then dulls and hardens | temper colors travel along the skin like a blade in the fire |
 | Ignivale | one white-orange point | a flint's dry *tsk* and a crackle | struck flint, sulfur | static prickle | restless fingers, tingle behind the eyes | almost none: a single spark at a fingertip |
 | Cinerion | gray-orange, embers showing through ash | a whisper of falling ash | wet ash, lye; char on the tongue | fine dry powder, a dry throat | coughing, dry eyes | a gray drift lifting off the shoulders |
@@ -24,6 +24,12 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Pyraeon | dull red glow under a crust, no flame | faint crackle and tick | peat smoke | slow radiant warmth from within | heavy, patient, tired | thin smoke from sleeves and seams, glowing cracks |
 | Catharsis | pale rose-gold | a soft sigh, ice settling | clean steam, warm stone | temperature fixed while the material changes | relief, a shiver then warmth | a frost or melt line spreading evenly |
 | Penanceflare | the full spectrum, red to white, tracking temperature | a steady hum climbing in pitch | hot dust | radiant heat on the face | cannot hide; sweats light | the body brightens as it heats; no concealment |
+
+**Outside the Sixty (R85-7).** Vohrin is a Titan's power worked at Wellspring level, not a Wellspring of the register; the note with its analogue and its failure (cold soak) is on the Caloria page. Its row is here so a frost art has a signature. The aura stays inside the Caloria hue; the blue belongs to the ice, never to the aura.
+
+| Power | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
+|---|---|---|---|---|---|---|
+| Vohrin | ember-orange banked down nearly to brown, under a skin of rime | a long creak of settling ice, then the room's sound falling away | scrubbed air, then nothing | heat leaving the skin toward the working | lungs ache, fingers go first, small purposes slip | frost running out from the feet; breath stopping in the air |
 
 ## Fluxia (fluid dynamics): deep teal. Perceived as wet even when dry; ears pop
 
@@ -67,15 +73,15 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 
 | Wellspring | Hue | Sound | Smell / taste | Touch | The user's body | Tell |
 |---|---|---|---|---|---|---|
-| Materia Primordia | ochre shifting between graphite-gray and diamond-clear | a clink as lattices rearrange | fresh-cut stone | weight changing | a sense of becoming | surfaces change character, soft to hard |
-| Monolithion | deep amber monolith | one mountain-low tone | cold rock | immovable, glass-smooth | stillness | dust stops moving around them |
-| Chthonica | dark iron-oxide | a dry rasp, a grip squeak | dry earth, rust | tacky, clinging | roots in the feet | grit drawn to the palms |
-| Basilithe | ochre-gold with quartz-clear lines | one pure pitch, a tuning fork | stone dust | a hum in the bones | calm | standing waves in the dust |
-| Tarturon | hot amber-red | a hiss, then a pop | iron scale and scorched salts | heat that needs no air | strain | sparks inside metal |
 | Coagula | amber-gray | a soft grinding settle | hot clay | grains fusing | tight, compacted | grains clumping |
 | Fixatio | amber resin | a quiet click as bonds set | sweet resin, acrid | sticky, then rigid | locked | a bead hardening |
 | Coagulatio | pale amber crystals | a tinkling growth | cool mineral water | cold facets | clear-headed | frost-like crystals from a seed |
+| Materia Primordia | ochre shifting between graphite-gray and diamond-clear | a clink as lattices rearrange | fresh-cut stone | weight changing | a sense of becoming | surfaces change character, soft to hard |
+| Basilithe | ochre-gold with quartz-clear lines | one pure pitch, a tuning fork | stone dust | a hum in the bones | calm | standing waves in the dust |
+| Monolithion | deep amber monolith | one mountain-low tone | cold rock | immovable, glass-smooth | stillness | dust stops moving around them |
 | Terranova | pale limestone | a damp trickle, a creak | wet earth after rain | cool and mending | restored | broken stone knitting, a pale deposit forming |
+| Chthonica | dark iron-oxide | a dry rasp, a grip squeak | dry earth, rust | tacky, clinging | roots in the feet | grit drawn to the palms |
+| Tarturon | hot amber-red | a hiss, then a pop | iron scale and scorched salts | heat that needs no air | strain | sparks inside metal |
 
 ## Spatium (spatial geometry): deep violet toward ultraviolet. The visual refuses to resolve; use the eye's confusion as the description
 
@@ -92,7 +98,7 @@ Isaac's direction, 2026-10-30 (technique-description questionnaire): every worki
 | Fractura | dark blued steel with hairline bright cracks | the tick of cracking ice | dust | strain in the air | sees where things will break | hairline lines spreading |
 | Petralon | heavy gray | a low settle and groan | stone | weight pressing down | planted | dust sagging toward the ground |
 | Ascensio | steel gray with pulley-lines | rope creak, a block-and-tackle ratchet | oil and hemp | an easy lift | lighter, then tired | faint lines of force |
-| Sublimatio | pale gray vapor | a dry hiss | cold and clean | frost-dry | short of breath | solids smoking away |
+| Sublimatio | iron-gray vapor | a dry hiss | cold and clean | frost-dry | short of breath | solids smoking away |
 | Sublimare | gray graded in bands | a rising drip | raw spirit off the still | a warm ladder | concentrating | layers separating in a column |
 | Abython | near-black | muffled and deep | deep cold | weightless | floating | objects drifting, losing weight |
 | Absolution | polished steel | the clean note of a release | fresh metal | tension unwinding | relief | stress lines fading |

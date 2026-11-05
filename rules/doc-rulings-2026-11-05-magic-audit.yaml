@@ -1,0 +1,214 @@
+# Agent rulings from the magic system audit, 2026-11-05, made at Isaac's word ("Rule them, I'll overturn") and recorded in RULINGS.md. Each verbatim is from that entry.
+pack: Agent rulings 2026-11-05 (magic audit)
+pack_number: null
+source_file: ''
+rules:
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-3-ETA_BY_CLASS
+  section: magic-audit
+  title: Eta by class
+  kind: mandate
+  summary: "From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder."
+  verbatim: "From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: []
+  notes: C-167. Reads R42-2 and R44-4 together; R44-5 stands.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-4-AU_SPENT_AND_DELIVERED
+  section: magic-audit
+  title: AU/s spent and delivered
+  kind: mandate
+  summary: "AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer."
+  verbatim: "AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer."
+  amends:
+  - guide: NATALIE.md
+    locus: THE TABLE
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: []
+  notes: C-168. R44-2 stands; published figures do not change.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-5-CAP_BASELINE
+  section: magic-audit
+  title: The cap's baseline
+  kind: mandate
+  summary: "The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help."
+  verbatim: "The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help."
+  amends:
+  - guide: NATALIE.md
+    locus: How the systems connect
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - combat
+  - magic-mechanism
+  verification: []
+  notes: C-169. R78-10 and R81-12 stand.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-6-DOMAIN_ROAD
+  section: magic-audit
+  title: The Domain road
+  kind: mandate
+  summary: "A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it."
+  verbatim: "A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it."
+  amends:
+  - guide: NATALIE.md
+    locus: Power on the page
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  - combat
+  verification: []
+  notes: C-170. R78-10, R81-11 and R84-17 stand.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-7-VOHRIN_OUTSIDE_THE_SIXTY
+  section: magic-audit
+  title: Vohrin outside the Sixty
+  kind: mandate
+  summary: "Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception."
+  verbatim: "Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception."
+  amends:
+  - guide: NATALIE.md
+    locus: ABILITIES AND THE WORLD
+    operation: extends
+  supersedes: []
+  applies_to:
+  - codex
+  - magic-mechanism
+  verification: []
+  notes: C-171. R27-1 and R82-15 stand.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-8-SPIRIT_LINES
+  section: magic-audit
+  title: Spirit lines
+  kind: mandate
+  summary: 'Every Wellspring''s Spirit line carries Fracture of Worlds'' "Temperance through" name, with the confessors'' reading kept beside it.'
+  verbatim: 'Every Wellspring''s Spirit line carries Fracture of Worlds'' "Temperance through" name, with the confessors'' reading kept beside it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - codex
+  verification: []
+  notes: C-172.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-9-STONE_BY_THE_BEAST
+  section: magic-audit
+  title: A stone reads the beast
+  kind: mandate
+  summary: "A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it."
+  verbatim: "A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it."
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  supersedes: []
+  applies_to:
+  - items
+  - stats
+  - worldbuilding
+  verification: []
+  notes: C-173. R84-14 stands.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-10-AURA_HUE_FROM_THE_FIRST
+  section: magic-audit
+  title: Aura hue from the first Stage
+  kind: mandate
+  summary: "Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises."
+  verbatim: "Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises."
+  amends:
+  - guide: NATALIE.md
+    locus: Power on the page
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - magic-mechanism
+  verification: []
+  notes: C-174.
+- pack: Agent rulings 2026-11-05 (magic audit)
+  pack_number: null
+  status: live
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-11-MUNAHI_VOWS_THE_PURSE
+  section: magic-audit
+  title: Munahi, vows and the purse
+  kind: mandate
+  summary: "Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat."
+  verbatim: "Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat."
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  verification: []
+  notes: R84-5 and R84-26 stand.

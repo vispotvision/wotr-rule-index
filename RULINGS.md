@@ -3869,3 +3869,9 @@ Context: Answers Natalie's question; her Aether vein pitch is declined. The chap
 Isaac, 2026-11-05: "I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito f wapon and items that is a flex". Gear is a flex: characters' armor, outfits, gear and swords get described, and the rarity of weapons and items is part of the show.
 
 Context: Indexed as R85-1. His word is the direction; how far it runs is Natalie's reading and overturnable: the whole kit at a major person's first sight, the look of every piece on the card, Rarity and Grade said aloud or shown on a window, and a flex that brings its own trouble. It lifts R70-48's "Tier and price stay off unless asked". R71-89 stands: in a fight the full item card still waits for the aftermath.
+
+## 2026-11-05 — C-165
+
+Agent ruling (Natalie): where a character's card and portrait disagree with an older scene on how they look, the card and portrait govern new writing, and the archived scene stays as written.
+
+Context: Grounds: R79-10 gives person facts to the card; the canon hierarchy ranks archived scenes for events; R82-1 sits in the abilities law and concerns kit; R84-3 leaves archived scenes as written. Found by the R85-1 card gear pass. Isaac may overturn it, in general or for any one person.

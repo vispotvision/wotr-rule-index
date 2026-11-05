@@ -3923,3 +3923,9 @@ Context: Indexed as R85-8. Grounds: Fracture of Worlds outranks wiki pages in th
 Agent ruling (Natalie): A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
 
 Context: Indexed as R85-9. Grounds: R84-14 puts monsters on the Level and Grade scale and says a core is worth more the stronger the monster; Tier Ladders X says a T is not a Grade. Reading T straight across gave a Stage VIII stone from a D-depth beast.
+
+## 2026-11-05 — C-174
+
+Agent ruling (Natalie): Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.
+
+Context: Indexed as R85-10. Grounds: THE TONE and R78-6 (every practitioner a constant coat in their own color) are newer than The Color of Essence's bottom rows, and the wiki's own showcase stories already write it this way.

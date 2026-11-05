@@ -6,7 +6,7 @@ title: Thunderclap Stride
 
 *Fluxus Intervallum is the scholars' term and the heading in the Codex. Customs men have other names for it, and for its users.*
 
-## THUNDERCLAP STRIDE (Fluxus Intervallum) (Vectra, Stage V)
+## THUNDERCLAP STRIDE (Fluxus Intervallum) (Shape, Stage V)
 
 For six summers Merrin Lathe ran Loomfield lace past the toll-wall at Sedgewick by staring hard at a wool bale on the far side, breathing out slowly, and being on the far side, with a crack and a flash at each end and a stagger he passed off as drink. He sold shares in the scheme. He had a song. The toll-wardens tried bigger walls, higher towers and a very expensive hedge-worker, and they lost every time, until Dorcas Yarrowby, a junior customs clerk with a head cold, noticed where he looked before he went, walked out into the yard, and hung a wet blanket on a line between Lathe and the bale. He hit it at about the speed of a thrown axe. She got his lace and his song, and she was promoted over everyone's objections.
 
@@ -24,7 +24,7 @@ The crossing is real, continuous travel, with no unmaking or remaking anywhere i
 
 The glyphs are Passage across Equivalence: Passage is the crossing, Equivalence the tuning that makes two masses exchangeable. The boundary is the resonant frequency of the caster's Attraction Layer, set equal to a chosen mass's. Below Refraction an external anchor is needed: one slow exhale, with the gaze as the targeting, and the exhale is the timing window. The gradient between the masses supplies the motion.
 
-The Aether takes the form of a thin line between two masses, pulled by the caster. Spatium wants Veil-thin, surveyed ground and fails on warp scarring, contested Domains and unmapped terrain. The strain-line forms before the crossing, can be attacked, and lingers to deafen Harmonists (those who read a place by ear). Transference, the Living Exchange (Spatium), says two tuned oscillators held near each other exchange energy without a conductor, falling off sharply with distance, and it makes the Attraction Layer such an oscillator. It gives Harmonics Synergy, Harmonics Projection and Tempering Yield. The inherited failure is Transference's reverse coupling: a gradient runs both ways, so a destination at higher potential pulls the caster in and they overshoot, and that can be arranged from outside.
+The Aether takes the form of a thin line between two masses, pulled by the caster. Transference wants Veil-thin ground and well-traveled roads and fails on warp scarring, contested Domains and unmapped terrain. The strain-line forms before the crossing, can be attacked, and lingers to deafen Harmonists (those who read a place by ear). Transference, the Living Exchange (Fate), says two tuned oscillators held near each other exchange energy without a conductor, falling off sharply with distance, and it makes the Attraction Layer such an oscillator. It gives Harmonics Synergy, Harmonics Projection and Tempering Yield. The inherited failure is Transference's reverse coupling: a gradient runs both ways, so a destination at higher potential pulls the caster in and they overshoot, and that can be arranged from outside.
 
 The Attraction Layer pays, tuned as an oscillator, and long use wears a groove toward Obsession Force, reading people as points of mass. Developmental Tier Harmonic at Splintering. Field fault: no gravity, chaotic gravity or a Fixatio anchor on either end and the coupling never forms. Boundary fault over years: tuned on mass, the caster's sense of people drifts toward mass, and I have sat across a table from one of them, and he counted me. On arrival comes about half a turn of vertigo while the inner ear catches up, with the Crystal ringing like a struck bell. Thirty-five percent leaves the Shell as heat, sound and light at both ends, a crack and flash where the caster left and another where they land.
 
@@ -38,21 +38,21 @@ The Dichotomists hold that crossing any interval is impossible, so they read the
 
 ### Codex line
 
-**Wellspring** · Transference, The Living Exchange (primary)
+**Path** · Fate. The Attraction Layer is tuned to a far mass. It is the shallow water of the Path, and no thread is pulled.
 
-**Family** · Spatium
+**Lens** · Transference (Fate).
 
-**Physics Domain** · Spatial Geometry
+**Form** · Shape. The caster's own mass told where to be, along a thin line held between two masses for the crossing and no longer.
 
-**Category** · Vectra
+**Gates** · None to cross at C-Grade weight, on any Path. Harmonics Projection past C needs the Fate Path at Ascension; without it the coupling carries only C-Grade weight against anything loading the line, with it B.
 
-**Skill** · Speaking; a thin line held between two masses for the crossing and no longer
+**Glyph** · Passage across Equivalence. A term: two masses count as exchangeable for the length of one breath, and the gradient between them supplies the motion.
 
-**Stage floor** · V, Splintering
+**Skill** · Speaking; a thin line held between two masses for the crossing and no longer.
 
-**Grade required** · B-Grade
+**Stage floor** · V, Splintering.
 
-**Path gate** · None to cross at C-Grade weight, on any Path; Fate for B-Grade weight on the line, Transference being a Wellspring of Fate (the old books' "Mind Path" is not a Path; it reads as Gnosis weighting)
+**Grade required** · B-Grade.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ The Dichotomists hold that crossing any interval is impossible, so they read the
 **Stage floor** · V, Splintering
 
 **Grade required** · B-Grade
-
-**Path gate** · None to cross at C-Grade weight; Fate for B-Grade weight on the line
 
 **Resonant Pair · None**
 
@@ -78,7 +76,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 **Fails against** · Anything on the line before the exhale ends; an endpoint Locked with Fixatio; a strain-line erased by Tenebra or Zar'thuun; a Judicium interdiction, which misfires it; a destination raised in potential; whatever waits at the arrival.
 
-**Look up** · The Counterplay register for Lock; Transference's reverse coupling in the Spatium entries; Spatium's suppressors; the reaction and travel bands by Grade; the Splintering Stage table.
+**Look up** · The Counterplay register for Lock; Transference's reverse coupling in the Wellspring entries; the Ground of Transference on the [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Fate page]]; the reaction and travel bands by Grade; the Splintering Stage table.
 
 ## Numbers
 
@@ -98,8 +96,6 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 ### Essence
 
 **Practitioner** · Splintering, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70 (0.65 used). Grade B, allocation stopping at 275, instability above 320, 350 under strain only.
-
-**Paths** · Harmonics Projection past C needs the Fate Path at Ascension; without it the coupling carries only C-Grade weight against anything loading the line, with it B.
 
 | Quantity | Working | Result |
 |---|---|---|

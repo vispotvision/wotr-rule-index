@@ -58,7 +58,7 @@ Mortal anatomists who use the word "body" here are being polite. What the Ashkar
 
 ## The Planar Separation and Its Consequence
 
-When the three Planes divided, the deep text ceased to be a single readable document. Its grammar fragmented across three layers: meaning on the Plane of Fate, structure on the Plane of Soul, substance on the Material Plane. The unified transcription the Ashkaru were built for became mechanically impossible.
+When the three Planes divided, the deep text ceased to be a single readable document. Its grammar fragmented across three layers: what can be so on the Plane of Fate, meaning on the Plane of Soul, substance on the Material Plane. The unified transcription the Ashkaru were built for became mechanically impossible.
 
 They did not die and they did not degrade. They simply had nothing left to do.
 
@@ -66,9 +66,9 @@ The Soul Crystal system (the organ in which a practitioner refines the Aether of
 
 ---
 
-## Limina Affinity
+## The Void Affinity
 
-Every Ashkaru who has been classified under the current system registers as **Limina-dominant**, the Family of entropy, void, and mind. This is a post-hoc label. A human practitioner harmonizes with Dissolution or Nihiloth by long work and at some risk. The Ashkaru *are* what those Wellsprings describe, in the same way that a river is what the word "current" describes. The word came after.
+Every Ashkaru who has been classified under the current system registers **on the void end of the Sixty**, the Wellsprings of entropy and undoing. This is a post-hoc label. A human practitioner harmonizes with Dissolution or Nihiloth by long work and at some risk. The Ashkaru *are* what those Wellsprings describe, in the same way that a river is what the word "current" describes. The word came after.
 
 The specific Wellsprings that map to Ashkaru native function:
 

@@ -2,7 +2,7 @@
 title: The Gentle Divorce
 ---
 
-# THE GENTLE DIVORCE (Ritus, a spoken and ceremonial rite)
+# THE GENTLE DIVORCE (Rite, a spoken and ceremonial rite)
 
 *Scholars' term: Scission, which is the word on every Concord case file, so you will need it to find anything.*
 
@@ -25,7 +25,7 @@ The physics is solvation, one thing dissolving into another. Two bound things ar
 
 There is a hard limit in that arithmetic. The entropy of mixing is about two hundred times too weak to break a covalent bond, so cross-linked bonds refuse, and the separation runs only where heat of bonding does the work, as in ionic and van der Waals bonds. A warning to readers of old copies: this page once said the rite raises the entropy of the bound configuration above that of the two parts held apart, and then concluded that separation was preferred, which does not follow, since if the bound state had the higher entropy nothing would separate. What the mechanism needs is the opposite, and what Dissolution's own register actually says: the rite must raise the free energy of the bound configuration relative to the separated pair, or equally lower the pair's, which is what supplying a solvent does. Dissolution's register is about why a solid dissolves into a solvent, and an old copyist carried the sentence across while reversing what counted as "mixed."
 
-Dissolution, the Unbinding Stream (Limina), is the Aether doing the work: the mixed state has more disorder than the separated one, so shedding what no longer serves is nearly effortless, and it strengthens Resilience Ward and Tempering Maturity. Three more Wellsprings are read against it as the law, permanence and memory triad. Judicium (Fulguria) reads composition from signature and locates the interface. Fixatio (Materia) sets the barrier height, both reference and weakness. Anamnesis (Limina) supplies what the bond used to be. The glyph is Edge (Thalen) for the interface, laid under Measure (Urion) for the diagnosis that locates it, and the same pair serves against four laws: Trait from soul, Essence from body, memory from identity, Wellspring from host. The boundary that moves is the free energy of the bound state against the separated one, at one interface, while a seed site makes the cheaper state reachable; the bond itself is left alone.
+Dissolution, the Unbinding Stream (Wild), is the Aether doing the work: the mixed state has more disorder than the separated one, so shedding what no longer serves is nearly effortless, and it strengthens Resilience Ward and Tempering Maturity. Three more Wellsprings are read against it as the law, permanence and memory triad. Judicium (Wild) reads composition from signature and locates the interface. Fixatio (Medium) sets the barrier height, both reference and weakness. Anamnesis (Medium) supplies what the bond used to be. The glyph is Edge (Thalen) for the interface, laid under Measure (Urion) for the diagnosis that locates it, and the same pair serves against four laws: Trait from soul, Essence from body, memory from identity, Wellspring from host. The boundary that moves is the free energy of the bound state against the separated one, at one interface, while a seed site makes the cheaper state reachable; the bond itself is left alone.
 
 The steps are fixed and a missing one fails the rite outright. Intention names the cut. Space holds the chamber below saturation. Circle is the vessel's wall. Offering is a reagent. Invocation states the condition. Catalyst is the seed site. Seal closes against the warrant that opened it. All three layers of the Essence are involved: the Essence Core is cut from, the Attraction Layer holds the bonds and harmonizations a Wellspring-from-host cut works on, and the Aether Shell takes the backlash through Resilience Ward. Developmental Tier at the floor is Harmonic.
 
@@ -41,8 +41,6 @@ Its failure is Dissolution's own, indiscriminate solvency. Whatever else crosses
 ## Numbers
 
 **Practitioner** · Glory, Expert, A-Grade (276 to 400), reserve 51,800 to 961,000 EU, η 0.60 to 0.70.
-
-**Paths** · Resilience governs, with Ward and Anchoring; Gnosis Analysis is secondary. Off the Spirit Path, Ward caps at C (Spirit at Ascension to pass it) and diagnostic Analysis at B (Spirit at Flourishing), so the backlash hits a thin Shell and complications rise.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -63,28 +61,27 @@ Its failure is Dissolution's own, indiscriminate solvency. Whatever else crosses
 
 **Duration** · Six to twelve minutes, 360 to 720 seconds, 60 to 120 turns; once nucleation passes, the separation completes on its own.
 
-
 ## Reference
 
 ### Codex line
 
-Wellspring · **Dissolution**, the Unbinding Stream (primary); Judicium, Fixatio and Anamnesis as the law/permanence/memory triad the rite reads against.
+**Path** · Spirit. The Essence Core is what is cut from, the Attraction Layer holds what a Wellspring-from-host cut works on, and the Shell takes the backlash.
 
-Family · **Limina**: Entropy, Void and Mind.
+**Lens** · Dissolution (Wild, primary) · Judicium (Wild), Fixatio, Anamnesis (Medium), read against.
 
-Physics Domain · Entropy, Void and Mind.
+**Form** · Rite. Six to twelve minutes in a circle, with officiants.
 
-Phenomenon · Entropy and phase behavior (solvation).
+**Gates** · Off the Spirit Path, Ward caps at C (Spirit at Ascension to pass it) and diagnostic Analysis at B (Spirit at Flourishing), so the backlash hits a thin Shell and complications rise. Resilience governs, with Ward and Anchoring; Gnosis Analysis is secondary.
 
-Category · **Ritus** (Spirit-Aligned).
+**Glyph** · Edge under Measure. What a thing is taken to be: whether two things at one interface count as cheaper apart than together.
+
+**Phenomenon** · Entropy and phase behavior (solvation).
 
 **Skill** · Speaking (a spoken and ceremonial working; the older choir-form, sung by a chanting choir, folds into this).
 
-Stage floor · **Stage VI, Glory**.
+**Stage floor** · Stage VI, Glory.
 
-Grade required · **A-Grade**.
-
-Path gate · None.
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -93,8 +90,6 @@ Governing Primary · **Resilience** (Ward, Anchoring), secondary **Gnosis** (Ana
 Stage floor · Stage VI, Glory.
 
 Grade required · A-Grade.
-
-Path gate · None.
 
 Resonant Pair · None.
 
@@ -114,4 +109,4 @@ Standing guild and Concord doctrine, refined over time, with no single inventor.
 
 **Silence** · A Silence Realm forbids lawful transformation, so no rite inside one; a patient who wants a corrupted Wellspring cut out cannot have it done there either.
 
-**Look up** · The Concord's Scission casework; Fixatio's irreversibility; the Seal's closing conditions; Dissolution's Failure in the Limina entries; the Silence Realm register; the Glory Stage table and the Spirit Path gates.
+**Look up** · The Concord's Scission casework; Fixatio's irreversibility; the Seal's closing conditions; Dissolution's Failure in the Wellspring entries; the Silence Realm register; the Glory Stage table and the Spirit Path gates.

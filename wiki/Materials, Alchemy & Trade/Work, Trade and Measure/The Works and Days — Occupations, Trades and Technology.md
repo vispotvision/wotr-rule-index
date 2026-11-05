@@ -158,7 +158,7 @@ The lamp-wardens, ward-cutters, hedge-workers and keepers who stand above these 
 >
 > **This is done by hand and by ear. An Aethersmith listens to the metal cool, and the pitch of the cooling tells them what the coil will confirm after the fact.**
 
-*Products: Aethersteel, whose crystalline structure accepts inscription at a depth cold-forged iron cannot match; Bloodsilver, alloyed under Vitalia conditions to bind the metal to a single bloodline; the substrate bars and blanks the inscription trades begin with; and, when a crew comes in with something on a cart, scale and bone worked up as gear.* A good Aethersmith shouts the name of a finished blade across the yard and stamps a guild mark on it the size of a thumbnail, and will fight you about that mark in any tavern you care to name.
+*Products: Aethersteel, whose crystalline structure accepts inscription at a depth cold-forged iron cannot match; Bloodsilver, alloyed under Anima Spirare conditions to bind the metal to a single bloodline; the substrate bars and blanks the inscription trades begin with; and, when a crew comes in with something on a cart, scale and bone worked up as gear.* A good Aethersmith shouts the name of a finished blade across the yard and stamps a guild mark on it the size of a thumbnail, and will fight you about that mark in any tavern you care to name.
 
 ### Cloth, hide, and stone
 
@@ -395,7 +395,7 @@ What follows is how such a town comes to be possible, and it is how most of the 
 
 ## The Healing Trades
 
-**The Physician** · **In a Guild city the physician examines, puts the patient under with the sleeping sponge (poppy, mandrake and henbane, or a hired hand from Vitalia's trades), and scrubs in vinegar and spirits of wine before anyone cuts.** Past the Guild cities the older school still does not touch the patient. **It reads**: urine, pulse, complexion, tongue, the character of the breath, and where Gnosis-trained, the Essence Signature. *A two-tier system results, and the two tiers disagree about everything except that the patient is their problem.*
+**The Physician** · **In a Guild city the physician examines, puts the patient under with the sleeping sponge (poppy, mandrake and henbane, or a hired hand from the healing trades), and scrubs in vinegar and spirits of wine before anyone cuts.** Past the Guild cities the older school still does not touch the patient. **It reads**: urine, pulse, complexion, tongue, the character of the breath, and where Gnosis-trained, the Essence Signature. *A two-tier system results, and the two tiers disagree about everything except that the patient is their problem.*
 
 **The Surgeon** · Cuts. **Below the physician, above the barber, and angry about both.** *The jurisdictional dispute is always the same: the physician claims diagnostic authority, the surgeon claims procedural authority, and the patient claims the right to see whoever will actually help.*
 
@@ -415,7 +415,7 @@ What follows is how such a town comes to be possible, and it is how most of the 
 
 **The Layer-Out** · Always a woman. **The person who stands between the family and the physical reality of what a body does when it stops being occupied.**
 
-> *A dead practitioner's Crystal does not cease producing Essence immediately. A body that is still radiating is a body the ambient Continuum has not yet acknowledged as gone.* **The layer-out in a practitioner community knows how long the Residue lasts** by Stage, by Family, and by whether the death was peaceful or violent, **and knows it** by having been in the room enough times to count. The Scarlet Rams can tell you what it costs to forget this.
+> *A dead practitioner's Crystal does not cease producing Essence immediately. A body that is still radiating is a body the ambient Continuum has not yet acknowledged as gone.* **The layer-out in a practitioner community knows how long the Residue lasts** by Stage, by the Wellspring the dead one tempered on longest, by Path (a Body fighter leaves the most of it in the flesh, which is what renderers race for; a Spirit hand haunts; a Fate hand leaves vows still binding), and by whether the death was peaceful or violent, **and knows it** by having been in the room enough times to count. The Scarlet Rams can tell you what it costs to forget this.
 
 **The Gravedigger** · **Burial depth matters metaphysically.** A body interred within Residue decay range of the surface bleeds Essence into the topsoil, and the accumulation over generations produces **Heavy Earth**: *soil that reads to Gnosis as remembering being alive.*
 
@@ -425,7 +425,7 @@ What follows is how such a town comes to be possible, and it is how most of the 
 
 **The Executioner** · Usually hereditary, always polluted, **and the only person in most communities who possesses genuine expertise in how bodies fail.**
 
-> **A practitioner's execution is a difficult piece of work.** The Crystal's death-response varies by Stage, by Family, and by the conditions of the death, *and an executioner who does not understand what happens to a Crystal at the moment of severance is an executioner who will be killed by the discharge.*
+> **A practitioner's execution is a difficult piece of work.** The Crystal's death-response varies by Stage, by Path and lens, and by the conditions of the death, *and an executioner who does not understand what happens to a Crystal at the moment of severance is an executioner who will be killed by the discharge.*
 >
 > **The lowest standing in the four quarters.** The family does not marry outside the trade. His money is spent at a specific window. His children attend no school.
 >
@@ -471,7 +471,7 @@ A hall sells three things, shared title, enforceable contracts and passage, and 
 
 **The Tea-Stall, the Drinking-Hall and the Confraternity** · **The stall for talk, the guild's drinking-hall for men of one craft with nowhere else to sit, and the confraternity for everybody else.** A confraternity is a burial club with a saint, a banner, a feast and a box of dues, and any carder may join one, which is why the statutes against meeting have never once stopped a meeting. Guild halls keep a reading room with the rate sheets and the registers chained open to any member, and the confraternities keep the crier's bills and a preacher every turn. *More plans are made on confraternity benches than in council, and the Guild has noticed.*
 
-**The Feast Garden and the Fair** · **Lit walks, hired trumpets, a hired hand throwing colored fire over the water and a rope-walker on a Vectoria line, when a great house opens its park on a feast day for the respectable; the fair for everyone**: the traveling show with its menagerie, its strong woman, its shadow-play booth worked by a girl with a light in her hands, and its fortune-teller who will read your Crystal for a copper, wrongly. The park at Merrow Hythe has a bridge that drops its guests in the lake and a stone ape that spits at ladies, both by a Guild master long dead, and neither can be turned off. *The fair arrives in the provinces with the only lantern show the town will see that year, and leaves with a year's pocket money.*
+**The Feast Garden and the Fair** · **Lit walks, hired trumpets, a hired hand throwing colored fire over the water and a rope-walker on an Ascensio line, when a great house opens its park on a feast day for the respectable; the fair for everyone**: the traveling show with its menagerie, its strong woman, its shadow-play booth worked by a girl with a light in her hands, and its fortune-teller who will read your Crystal for a copper, wrongly. The park at Merrow Hythe has a bridge that drops its guests in the lake and a stone ape that spits at ladies, both by a Guild master long dead, and neither can be turned off. *The fair arrives in the provinces with the only lantern show the town will see that year, and leaves with a year's pocket money.*
 
 ---
 
@@ -529,7 +529,7 @@ A hall sells three things, shared title, enforceable contracts and passage, and 
 | **The Silver Cedars** | **Perceptual.** Ward-perimeters, Boundary-layer monitoring, the Yukari contribution of perceptual governance. **Technologies of watching, reading and knowing, with very little of making in them.** *The Reach builds walls out of awareness rather than stone, and treats maintenance as a civic sacrament and novelty as a risk to be assessed before it is adopted* |
 | **Kharven** *(redirected from the struck Sātūlagi entry)* | **Martial.** The Moto Fractura attunement gives a structural advantage in fortification assessment, demolition, **and the military engineering that involves looking at a wall and knowing where it will fail.** *Kharven builds for war the way Marrowhold builds for extraction: with no elegance whatever and the specific brutal competence of people who have been doing one thing for a very long time and have stopped pretending it is anything other than what it is* |
 | **The Holy Sea of Alabaster** | **Testimonial.** The Wellspring, the most complete archive of births, deaths and contracts in the Inner World, **and the deposit-and-lending operations Nalūn considers a sin and the Holy Sea considers a service.** ***Its works are records, with no machinery anywhere, and the records outlast everything*** |
-| **The Eastern Arc** | **What happens when a polity commits array capacity to something other than pumping water.** Cloudmetal reduced by Fulguria arrays at a scale that exists in four places in the world. Onceglass charges sold as consumable munitions. Vectoria-augmented looms the west cannot match. *It demonstrates the thesis of* The Four Ceilings *in real time: technology owes more to geological accident and institutional willingness than to genius, and a people sitting on different rock with different priorities will build a different world* |
+| **The Eastern Arc** | **What happens when a polity commits array capacity to something other than pumping water.** Cloudmetal reduced by Judicium arrays at a scale that exists in four places in the world. Onceglass charges sold as consumable munitions. Ascensio-augmented looms the west cannot match. *It demonstrates the thesis of* The Four Ceilings *in real time: technology owes more to geological accident and institutional willingness than to genius, and a people sitting on different rock with different priorities will build a different world* |
 
 > The Logistics and Supply Division commissioned this register to establish **what work exists and who does it**, and it has done that. It has touched entertainment only where entertainment is a trade, and it has not touched **food and cuisine, ground-level justice, domestic life and courtship, or funerary custom**, and the omission is consistent rather than accidental.
 >

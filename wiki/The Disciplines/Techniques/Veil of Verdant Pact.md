@@ -4,7 +4,7 @@ title: "The Deathless Timber Keep"
 
 # THE DEATHLESS TIMBER KEEP
 
-*Speaking, Domain Weaving, Stage V. The scholars' term is the Veil of Verdant Pact. It passes from hand to hand among hedge-workers and grandmothers, and nobody ever invented it.*
+*Speaking, Claim, Stage V. The scholars' term is the Veil of Verdant Pact. It passes from hand to hand among hedge-workers and grandmothers, and nobody ever invented it.*
 
 When the raiders fired the great tithe barn at Burrow Mill, with forty villagers, a priest and a very angry goat inside, old Mab Sorrel walked into the yard in a flowered apron, stamped her foot and shouted at the ground. Wood came up out of the dirt at a running pace in a green roar, closing over the lot of them in one second, with the light going emerald and then dim. Fire arrived and the char turned to new bark. Somebody threw a torch and it got a window box. Mab stood in the middle swearing, flinching half a beat late at each blow, burned on arms nobody had touched, and when the raiders got bored there was a very large, very ugly new building in Burrow Mill. It is still there. It has been a tavern for ninety years, and it still grows.
 
@@ -18,13 +18,13 @@ When the raiders fired the great tithe barn at Burrow Mill, with forty villagers
 
 ### How it really works
 
-It is declared, and below Refraction its anchor is a word aloud or a fixed gesture chain, and the dome starts closing at once. Vitalia (living biomass, warmth, blood nearby) and Materia (rock, deep foundation) feed it, so living soil over rock suits it. The room pays for the wood, and it is raised best over the wounded. A creaking tear comes from everywhere, growth runs over at a running pace, and the light goes green then dim.
+It is declared, and below Refraction its anchor is a word aloud or a fixed gesture chain, and the dome starts closing at once. Verdantia (living biomass, warmth, blood nearby) and Materia Primordia (rock, deep foundation) feed it, so living soil over rock suits it. The room pays for the wood, and it is raised best over the wounded. A creaking tear comes from everywhere, growth runs over at a running pace, and the light goes green then dim.
 
 The physics is indeterminate growth used as an energy sink: a wooden dome with no finished size has no shape to damage, so the energy of a blow can only extend it. A structure with no terminal form turns energy above its elastic limit into more structure, at about 17.5 MJ per kilogram of wood, and its mineral frame is allotropy, one substance in another lattice. At B-Grade the build buys a shell under three centimeters thick, a screen and no bunker. A point load breaks it, and drying the wood beats it where fire cannot. The dome grows about 2,700 times faster than bamboo, because the speed comes from re-latticing Aether already present and owes nothing to cell division. Char insulates sound wood and the water in it buys delay, so fire takes most of an hour, and dried wood chars twice as fast.
 
-The glyphs are Renewal for the growth law and Form for the re-latticing. Two boundaries move: the size at which growth stops is removed, and which lattice the Aether may occupy is freed. Verdantia, the Green Pulse (Vitalia): carbon fixation and indeterminate growth, so the dome may be extended without limit. Materia Primordia, the First Substance (Materia): allotropy, the same Aether re-latticed as wood outside and mineral bracing inside, which also sets the rate. Old mineral seams turn up threaded through its roots on every occasion anyone has checked. Verdantia's etiolation is the first failure: on starved ground the dome grows long, thin and unable to stand. Materia Primordia's phase locking is the second: a heavy enough strike commits the practitioner's lattice for good.
+The glyphs are Renewal for the growth law and Form for the re-latticing. Two boundaries move: the size at which growth stops is removed, and which lattice the Aether may occupy is freed. Verdantia, the Green Pulse (Wild): carbon fixation and indeterminate growth, so the dome may be extended without limit. Materia Primordia, the First Substance (Wild): allotropy, the same Aether re-latticed as wood outside and mineral bracing inside, which also sets the rate. Old mineral seams turn up threaded through its roots on every occasion anyone has checked. Verdantia's etiolation is the first failure: on starved ground the dome grows long, thin and unable to stand. Materia Primordia's phase locking is the second: a heavy enough strike commits the practitioner's lattice for good.
 
-In doctrine it is Domain Weaving, read as Debt: every unit converted is logged against the practitioner's own capacity to heal, with Residue beneath since the growth is the record. The Attraction Layer pays, laying a claim on the ground that the growth answers, with a continuous bleed shed into a structure made of fuel. That is as deep as it goes into the Fate Path, the shallow water any grandmother may stand in, with no thread anywhere in it, and both Wellsprings are a long way from home there, which is why it costs what it costs. Ardency (Density) governs whether a ward outlasts what hits it, with Vitality (Regeneration, Hemostasis). On the Fate Path nothing binds at B-Grade; thickening past B meets the Body Path gates, Flourishing for Density and Splintering for Regeneration.
+In doctrine it is Debt: every unit converted is logged against the practitioner's own capacity to heal, with Residue beneath since the growth is the record. The Attraction Layer pays, laying a claim on the ground that the growth answers, with a continuous bleed shed into a structure made of fuel. That is as deep as it goes into the Fate Path, the shallow water any grandmother may stand in, with no thread anywhere in it, and both Wellsprings are a long way from home there, which is why it costs what it costs. Ardency (Density) governs whether a ward outlasts what hits it, with Vitality (Regeneration, Hemostasis). On the Fate Path nothing binds at B-Grade; thickening past B meets the Body Path gates, Flourishing for Density and Splintering for Regeneration.
 
 Every burn, break and poison it absorbs is felt in full by whoever raised it for the second before the wood catches up. While it stands, hairline Crystal fractures inside slowly close. The Field fault comes on depleted ground, where it rises taller and thinner and cannot hold; the other failures are closure lag, Exuroth's drying, Nihiloth's null (the absence of what growth needs, which the dome cannot convert), phase locking and heavy-metal poison. Between 30 and 40 percent of the spend leaves the Shell as heat, continuously.
 
@@ -43,7 +43,7 @@ The Greening healers read the flow of life as a stock, raising the Veil early an
 
 **Fails against** · A strike in the closing second; a lost anchor; drying by Exuroth; Nihiloth, Absolution letting go the dome's debt (it takes all the holder's strength and often fails) or Tenebra's decay; starved or poisoned ground; harm to the raiser through the dome. A second hit on one spot does nothing.
 
-**Look up** · The Vitalia and Materia favor lists; the Verdantia and Materia Primordia Failures; Exuroth, Nihiloth and Absolution entries; the B-Grade Strike Force row; the Splintering Stage table.
+**Look up** · The Ground of Verdantia and Materia Primordia on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Verdantia and Materia Primordia Failures; Exuroth, Nihiloth and Absolution entries; the B-Grade Strike Force row; the Splintering Stage table.
 
 ### Numbers
 
@@ -75,21 +75,21 @@ The Greening healers read the flow of life as a stock, raising the Veil early an
 
 ### Codex line
 
-**Wellspring** · Verdantia, The Green Pulse (primary). Materia Primordia, The First Substance (secondary).
+**Path** · Fate. A claim on the ground that the growth answers, the shallow water any grandmother may stand in, with no thread anywhere in it.
 
-**Family** · Vitalia, cross-listed Materia.
+**Lens** · Verdantia (Wild, primary) · Materia Primordia (Wild, secondary), both a long way from home here.
 
-**Physics Domain** · Biochemistry (primary), Material Science (secondary).
+**Form** · Claim. Declared, and the rim closes in a second.
 
-**Category** · Domain Weaving (Attraction).
+**Gates** · On the Fate Path nothing binds at B-Grade; thickening past B meets the Body Path gates, Flourishing for Density and Splintering for Regeneration.
+
+**Glyph** · Renewal and Form. A term on the claimed ground: the size at which growth stops is lifted, and the Aether may take either lattice.
 
 **Skill** · Speaking (declared).
 
 **Stage floor** · Stage V, Splintering.
 
 **Grade required** · B-Grade.
-
-**Path gate** · Fate.
 
 ### FOW line
 
@@ -99,10 +99,8 @@ The Greening healers read the flow of life as a stock, raising the Veil early an
 
 **Grade required** · B-Grade.
 
-**Path gate** · Fate.
-
 **Resonant Pair** · None attested.
 
 ### Origin
 
-Veil of Verdant Pact is a documented Vitalia/Materia ward of anonymous, folk-transmitted origin, known and taught rather than invented by one caster. Its established countermeasures are Absolution letting go the debt it stands on, Tenebra decaying the vines, and heavy-metal toxins weakening the roots.
+Veil of Verdant Pact is a documented Verdantia and Materia Primordia ward of anonymous, folk-transmitted origin, known and taught rather than invented by one caster. Its established countermeasures are Absolution letting go the debt it stands on, Tenebra decaying the vines, and heavy-metal toxins weakening the roots.

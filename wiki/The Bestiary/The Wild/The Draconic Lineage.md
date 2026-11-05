@@ -20,7 +20,9 @@ That is a wyrm being patient. The rest of this entry explains why you should pre
 
 > *Vyrrhos*, Ancient Serpent of Sky and Stone, in Draconic. *Serpenta Magna* in Old Parunic.
 
-**Draconic Lineage · T7, Realm Hazard · Materia's Chthonica or Fulguria's Cymorath by subspecies, rare Orrenthal lines out of Caelum · native to Draconis, in the highland roots of the floating isles**
+**Draconic Lineage · T7, Realm Hazard · Chthonica or Cymorath by subspecies, rare Orrenthal lines out of Caelum · native to Draconis, in the highland roots of the floating isles**
+
+**Leans on** · the Shell, by Chthonica or Cymorath, both Wild. *Body:* the scale gaps, a precise blow, and a very long day. *Spirit:* past the hide to a Core that is old, sure and hard to surprise, so bring a Confessor and not a student. *Fate:* a wyrm is about the soundest thing in the world, and the one thread on it is a blood-oath it has sworn.
 
 Among the oldest draconic forms and **direct descendants of Omnis' first sky-breath.** Wingless, moving with serpentine grace across earth and sky through Wellspring resonance alone.
 
@@ -46,13 +48,15 @@ During the First Concord War the Earth Wyrm **Kallessyr the Stone Maw** collapse
 
 > *Vyreth*, Storm Talon, in Draconic. *Vryssal*, Winged Fang, in Old Parunic.
 
-**Draconic Lineage, Winged Reptile · T6, Domain Threat · Fulguria, Cymorath and Orrenthal, some bloodlines Caloria's Pyraeon · Caelum and Draconis, with isolated Outer World populations**
+**Draconic Lineage, Winged Reptile · T6, Domain Threat · Cymorath and Orrenthal, some bloodlines Pyraeon · Caelum and Draconis, with isolated Outer World populations**
 
-Descendants of ancient draconic stock **forged in the tempestuous storms of Caelum's skies.** Lacking forelimbs, they rely entirely on wings and hind legs. **Their evolution is tied to the volatile Wellsprings of Fulguria**, and they inhabit storm-battered peaks and tempestuous archipelagos.
+**Leans on** · the Shell, by Cymorath and Orrenthal, both Wild, some lines Pyraeon. *Body:* it has no forelimbs, and a wing on the ground stays there. *Spirit:* a young one's cunning is a pack's, and it does not expect to be read. *Fate:* its ambush needs the storm it came in on.
+
+Descendants of ancient draconic stock **forged in the tempestuous storms of Caelum's skies.** Lacking forelimbs, they rely entirely on wings and hind legs. **Their evolution is tied to the volatile Cymorath and Orrenthal sites of the high peaks**, and they inhabit storm-battered peaks and tempestuous archipelagos.
 
 Large reptilian body with a barbed tail. **Scales from storm-gray to fiery red by lineage.** Sharp crests and serrated horns; **eyes glow with lightning intensity during a charge.** Razor claws on the hind legs and a venomous bite.
 
-**Pack hunters when young, solitary apex predators as adults.** Cunning, swift, ambush-reliant, and fiercely protective of nesting sites near Fulguria sites.
+**Pack hunters when young, solitary apex predators as adults.** Cunning, swift, ambush-reliant, and fiercely protective of nesting sites near Cymorath ground.
 
 **Storm Dive** creates sonic booms and shockwaves. **Venomous Bite** injects a paralyzing neurotoxin. **Electric Surge** channels storm energy into bolts and static fields. **Wing Gust** knocks enemies prone and breaks formations.
 
@@ -66,7 +70,9 @@ Large reptilian body with a barbed tail. **Scales from storm-gray to fiery red b
 
 > *Hyrathos*, the Many-Mawed Doom, in Draconic. *Serpentis Multicauda* in Old Parunic.
 
-**Draconic Lineage, Aberrant Offshoot · T8, Cataclysmic Entity · Limina's Nihiloth over Pyraeon, Manganthra or Cymorath, by pre-corruption lineage · Crevice-scarred border zones**
+**Draconic Lineage, Aberrant Offshoot · T8, Cataclysmic Entity · Nihiloth over Pyraeon, Manganthra or Cymorath, by pre-corruption lineage · Crevice-scarred border zones**
+
+**Leans on** · the Shell, by Nihiloth over its old lineage, all Wild. *Body:* all the heads, inside the window, with fire behind the blade. *Spirit:* many heads and one Core, in the trunk, and every song about a hydra is wrong on this point. *Fate:* the regrowth depends on nothing stopping it, and a cautery set up in advance is cheaper than a thread.
 
 > **A draconic bloodline corrupted by void-tainted Wellsprings during the First Crevice Incursion.**
 >
@@ -92,7 +98,9 @@ The **Siege of Lornhaven** saw a six-headed storm hydra destroy three Concord wa
 
 > *Xal'tharix*, the Rift Serpent, in Abyssal Tongue. *Nihilcoil* in Outer World dialects.
 
-**Draconic Lineage, Aberrant Voidspawn · T8, Cataclysmic Entity · Limina, Nihiloth and Vantabriel, with fractured Transference residues that flicker sporadically · Abythron, Niflheim, and Outer World crevice zones**
+**Draconic Lineage, Aberrant Voidspawn · T8, Cataclysmic Entity · Nihiloth and Vantabriel, with fractured Transference residues that flicker sporadically · Abythron, Niflheim, and Outer World crevice zones**
+
+**Leans on** · the Shell, by Nihiloth and Vantabriel, both Wild, with a flicker of Transference's Fate where the old Layer is failing. *Body:* it does not read as mass where you think it is, so wait for what it has to do to strike. *Spirit:* what is left of the Core is mostly hunger, which makes it readable and no easier to hold. *Fate:* those fractured Transference residues are the only handle on it, and they do not belong to anything sane.
 
 Born from the darkest rifts between realms, **twisted offspring of corrupted draconic blood and raw Crevice essence.** Bound to the fissures where void and reality blur. **Their presence causes unnatural distortion and unsettling whispers in the minds of those nearby.**
 

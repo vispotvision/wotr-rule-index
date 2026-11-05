@@ -33,6 +33,8 @@ SHIKI ORI! Aether patterned through posture, nerve, weapon and breath, and none 
 SHŪEN KUGI! The spike through the armpit gap.  
 DANZAI NO KU! The sentence of severance, spoken last, after you have already admitted it.  
 
+*For the register: every art below rides on the fighter's own [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]], and its blow reads that Path's ladder. Its lens is whatever the fighter tempered on. Its Form is Strike or Shape where it is a blow or a step, Read where it is the Eye and the Ledger, Claim where it is a field, and Pull at the moment a Work takes hold, which reads [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]] on top. The gates are the founder's: he names them as he goes.*
+
 ---
 
 **HATARAKI NO SHO**

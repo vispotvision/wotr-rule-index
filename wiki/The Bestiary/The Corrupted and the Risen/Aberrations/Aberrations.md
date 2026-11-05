@@ -24,7 +24,9 @@ A note for crews before you take the bill. An Aberration carries no mask for a h
 
 > *Zarvak*, Twin Horn, in Old Parunic. **The Shadow Charger** among occult circles.
 
-**Aberrant Beast, Infernal Charger · T5, Extreme Threat · Materia's Tarturon and Limina's Nihiloth, infused with infernal Essence · Abyssal Depths and cursed Outer World wastelands**
+**Aberrant Beast, Infernal Charger · T5, Extreme Threat · Tarturon and Nihiloth, infused with infernal Essence · Abyssal Depths and cursed Outer World wastelands**
+
+**Leans on** · the Layer first, by Tarturon, Fate, and the Shell by Nihiloth, Wild. *Body:* force and soundness, and nothing owing. *Spirit:* the hand on its reckoning shows on the Core before it lands, and that Core is corrupted and cannot go back. *Fate:* it collects on what you already owe, so owe nothing.
 
 Fiendish mounts and warriors born from corruption on Tarturon ground, mingled with ancient infernal bloodlines. **Legend places their creation as steeds for dark warlords and demon princes.**
 
@@ -46,6 +48,8 @@ The **Blood Sundering of Vellsorea** details a bicorn herd charging through Conc
 
 **Aberration Beast, Infernal Tracker · T5, Extreme Threat · Tarturon and Nihiloth, with an intense Pyreveil overlay · Abyssal Depths and corrupted warzones**
 
+**Leans on** · the Layer first, by Tarturon, Fate, and the Shell by Pyreveil and Nihiloth, both Wild. *Body:* it tracks a debt and arrives hot, so meet it on open water if you can. *Spirit:* reach the Core, and it has very little left in it but the trail. *Fate:* the trail is a thread, and it can be moved at the usual price.
+
 Summoned or spawned from cursed battlegrounds and Abyssal rifts, serving dark warlords, demons and necromancers **as relentless hunters and guardians.**
 
 Large canine forms **wreathed in flickering flames and shadow.** Eyes blazing molten red, fur smoldering with internal fire. **Jaws dripping acidic saliva.**
@@ -64,7 +68,9 @@ Aggressive, loyal, relentless. They hunt in packs or alone **and are capable of 
 
 > *Skathul*, Silent Shadow, in Outer World tongues. **The Black Whisper** among occult circles.
 
-**Aberration, Void-Touched Hunter · T7, Realm Hazard · Limina, Vantabriel and Nihiloth · the Outer World's shadow domains and Abythron borderlands**
+**Aberration, Void-Touched Hunter · T7, Realm Hazard · Vantabriel and Nihiloth · the Outer World's shadow domains and Abythron borderlands**
+
+**Leans on** · the Shell, by Vantabriel and Nihiloth, both Wild. *Body:* light and a crowd first, and then a spear. *Spirit:* it does not hide from what reads souls as it hides from eyes. *Fate:* a thing that hunts by the dark depends on the dark holding.
 
 > Spawned at the intersection of Vantabriel and Nihiloth, **their existence predating mortal memory.** Believed to be **shadowy servants of ancient Archons tasked with harvesting souls and spreading fear.**
 >
@@ -86,7 +92,9 @@ Cold, predatory, relentless. **They stalk in darkness before striking with letha
 
 > *Serpentara*, Mistress of Scales, in Old Parunic. **Veilbinder** among southern frontier tribes.
 
-**Aberration, Enigmatic Spirit-Hybrid · T5, Extreme Threat · Limina, Anamnesis and Nihiloth, with a minor Oneirion influence · Material World borderlands and shadowed enclaves**
+**Aberration, Enigmatic Spirit-Hybrid · T5, Extreme Threat · Anamnesis and Nihiloth, with a minor Oneirion influence · Material World borderlands and shadowed enclaves**
+
+**Leans on** · the Core, by Anamnesis, Medium, with Oneirion and Nihiloth. *Body:* she is close and she is flesh, once you can find which one. *Spirit:* a contest, and she has eaten better minds. *Fate:* her enchantments survive by reading you correctly, and they can be spoiled.
 
 **Ancient spirit-touched beings born from the fusion of serpent Essence and corrupted human souls.** Legend places their origin in **forbidden rituals attempting to bind primal Wellspring serpents with mortal will**, producing creatures that blur the line between flesh and otherworldly Essence.
 
@@ -106,7 +114,9 @@ The upper body a hauntingly beautiful human female, pale or iridescent, **with f
 
 > *Silkraeth*, Weaver of Fates, in Old Parunic. **The Spider Queen's Hand** among shadow cults.
 
-**Aberration, Spirit-Hybrid Predator · T6, Domain Threat · Limina, Oneirion and Nihiloth · Outer World shadow forests and crevice-webbed zones**
+**Aberration, Spirit-Hybrid Predator · T6, Domain Threat · Oneirion and Nihiloth · Outer World shadow forests and crevice-webbed zones**
+
+**Leans on** · the Core, by Oneirion, Spirit, with Nihiloth, Wild, in the web. *Body:* cut the anchor lines, and a body in a dropped web is a body. *Spirit:* her illusion is a sentence on your Core, and it can be read before it finishes. *Fate:* every web depends on what walks into it.
 
 Descended from **cursed unions between mortal weavers and shadow spirits of the Outer World.** They embody the dual nature of artistry and predation, **using supernatural webs to trap Essence, memories and flesh alike.**
 
@@ -126,7 +136,9 @@ Calculating patient hunters. They spin vast webs of magical and physical thread,
 
 > *Sthenara*, Stone Veil, in Old Parunic. **Petrashade** in Outer World dialect.
 
-**Aberration, Stoneborn Predator · T7, Realm Hazard · Materia's Coagulatio and Limina's Nihiloth, with a heavy petrification overlay · shadowed caves and ruined temples of the Outer World**
+**Aberration, Stoneborn Predator · T7, Realm Hazard · Coagulatio and Nihiloth, with a heavy petrification overlay · shadowed caves and ruined temples of the Outer World**
+
+**Leans on** · the Shell, by Coagulatio and Nihiloth, both Wild. *Body:* do not look, and hit by sound. *Spirit:* the gaze sets matter, and a soul is past it, so a Spirit hand can work with a blindfold on. *Fate:* a gaze needs a line of sight, and a line of sight has many ways of failing.
 
 Born from the twisted fusion of corrupted Wellspring Essence and ancient petrifying magic. **Said to descend from the cursed bloodlines of fallen spirits who sought dominion over life and death**, they embody **the raw power to unmake living flesh into stone.**
 
@@ -146,7 +158,9 @@ Lurking predators preferring ambush over brute force. Solitary and territorial, 
 
 > *Sserak*, Stone Stare, in Old Parunic. **The Death Coil** among frontier hunters.
 
-**Aberration, Reptilian Predator · T5, Extreme Threat · Materia's Coagulatio and Limina's Nihiloth, heavily overlaid with petrification Essence · shadowed forests, deep caves, crevice-riddled wastelands**
+**Aberration, Reptilian Predator · T5, Extreme Threat · Coagulatio and Nihiloth, heavily overlaid with petrification Essence · shadowed forests, deep caves, crevice-riddled wastelands**
+
+**Leans on** · the Shell, by Coagulatio and Nihiloth, both Wild. *Body:* a mirror, a blindfold and a long spear. *Spirit:* reach past the scale without meeting the eye. *Fate:* it hunts by being where you will look.
 
 Ancient reptilian creatures emerging **where the Aether of a Wellspring site has been twisted by Abyssal and Corrupted forces.**
 
@@ -168,6 +182,8 @@ Solitary and territorial. **They ambush by stealth and patience**, relying on th
 
 **Aberration, Reptilian Avian Predator · T5, Extreme Threat · Coagulatio and Nihiloth, overlaid with toxic and petrification Essence · dense swamps, ruined temples, corrupted Wellspring zones**
 
+**Leans on** · the Shell, by Coagulatio and Nihiloth, both Wild. *Body:* a gloved hand and a warden who has done this before. *Spirit:* very little in there to read. *Fate:* a henyard offers plenty of ways for a thing to get caught.
+
 Fearsome hybrids **born from the unholy fusion of corrupted reptilian and avian Essence**, emerging from the darkest swamps and crevice-shadowed ruins where Wellspring Aether churns and goes bad.
 
 A monstrous blend of rooster and serpent: feathered wings, scaled legs, sharp beak, **a long serpentine tail.** Eyes glowing with poisonous light; plumage from sickly green to dark mottled hues.
@@ -186,7 +202,9 @@ Aggressive and territorial, **nesting in hidden lairs and defending them fiercel
 
 > *Zha'keth*, Spine Sting, in Old Parunic. **The Sand Scourge** among desert tribes.
 
-**Aberration, Venomous Beast · T5, Extreme Threat · Caloria's Manganthra and Limina's Nihiloth, with venomous Essence overlays · arid deserts, rocky canyons, crevice-touched wastelands**
+**Aberration, Venomous Beast · T5, Extreme Threat · Manganthra and Nihiloth, with venomous Essence overlays · arid deserts, rocky canyons, crevice-touched wastelands**
+
+**Leans on** · the Shell, by Manganthra and Nihiloth, both Wild. *Body:* the tail first. *Spirit:* it enjoys itself, and that shows on the Core a long way off. *Fate:* its volley needs the height and the canyon it picked.
 
 Predators born from corrupted Wellspring Essence **blending primal feline and scorpion traits.**
 
@@ -207,6 +225,8 @@ Territorial and aggressive, hunting alone or in small family groups. **Highly in
 > *Ghrosk*, the Hunger Eternal, in Old Sylvaar. **Frostbane** among northern frontier tribes.
 
 **Aberration, Spirit-Cursed Predator · T6, Domain Threat · Titan-touched cold, the Titan Vohrin's, with Nihiloth and an overlay of ancestral torment and despair Essence · frozen tundra and the Innerworld's icy wilds**
+
+**Leans on** · the Shell, by a Titan's cold and Nihiloth, with a Core torn into something that used to be a person. *Body:* heat, and an open fire with people around it. *Spirit:* Recognition, in the old sense of saying who it was, is what the clans mean when they tell you to know its name. *Fate:* it comes to what you did in the hungry winter, and owing nothing helps.
 
 > **Cursed spirits born from mortals who succumbed to overwhelming hunger and despair**, their souls twisted by corrupted cold sites and ancient famine curses.
 >

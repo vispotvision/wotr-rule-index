@@ -4,7 +4,7 @@ title: "The Incorruptible Rampart"
 
 # THE INCORRUPTIBLE RAMPART
 
-*Speaking, Claustra, Stage VI. The scholars' term is the Aether Bastion.*
+*Speaking, Claim, Stage VI. The scholars' term is the Aether Bastion.*
 
 The Ordeal courts built wards like this into their gates, reasoning that a wall cannot be bribed, and for sixty years the Gate of Weights at Merrowbank stood gold and rose-pink over the river road with its reputation unbroken. Then a smuggler named Gib Rudkin walked forty casks of contraband brandy through it at noon on market day, inside a memory illusion, waving. The ward cannot judge what never registers as an incoming force, and what the ward cannot detect it certifies, so the casks went into the court's own immaculate record as nothing at all. They caught him eleven years later, by accident, drunk, bragging, in a song he wrote himself. The chorus is still sung at every customs post on the river.
 
@@ -20,11 +20,11 @@ The Ordeal courts built wards like this into their gates, reasoning that a wall 
 
 ### How it really works
 
-Below Refraction its anchor is the spoken declaration of intent; from Refraction up it is held inwardly and binds as hard. She pulls Fulguria and Vectoria: worked stone in dry air favors both, while fog, mud or a shielded room puts both against the gradient and costs more reserve to hold.
+Below Refraction its anchor is the spoken declaration of intent; from Refraction up it is held inwardly and binds as hard. She pulls Judicium and Sublimatio: worked stone in dry air favors both, while fog, mud or a shielded room puts both against the gradient and costs more reserve to hold.
 
 The physics is selective permeability, like a membrane or tuned filter: a crystalline shell passes what matches a stored standard and holds what does not, whatever its force. Sorting needs interaction, and interaction is what slows a thing. The law is that the shell is a matched filter against its holder's own Essence: what correlates crosses almost unslowed, what does not stays in the barrier, and selectivity is paid for in throughput. Stress is force over area, so concentration breaks it and weight does not. No signal crosses the lattice faster than its speed of sound, and what never crosses the detection threshold is never judged. There is no flare and no give. A thrown thing slows at one fixed rate, and the second throw slows the same.
 
-The glyphs are Balance, equalizing the opposing forces; Boundary, setting the surface; Truth, setting the standard. The boundary condition is a surface's single transmission number becoming a function of what is arriving, and every law downstream runs unchanged. Judicium, the Wellspring of Truth (Fulguria): every element shows only its own spectrum, so the shell reads what arrives truly, and the verdict is how much it resembles the holder. Sublimatio, the Ascending Breath (Vectoria): solid to vapor with no liquid phase, so what matches passes cleanly and what cannot sublime stays as residue in the holder. They hand down Judicium's spectral overload under a long siege of arrivals, and Sublimatio's residue, the arrested energy piling up in the holder's Crystal.
+The glyphs are Balance, equalizing the opposing forces; Boundary, setting the surface; Truth, setting the standard. The boundary condition is a surface's single transmission number becoming a function of what is arriving, and every law downstream runs unchanged. Judicium, the Wellspring of Truth (Wild): every element shows only its own spectrum, so the shell reads what arrives truly, and the verdict is how much it resembles the holder. Sublimatio, the Ascending Breath (Wild): solid to vapor with no liquid phase, so what matches passes cleanly and what cannot sublime stays as residue in the holder. They hand down Judicium's spectral overload under a long siege of arrivals, and Sublimatio's residue, the arrested energy piling up in the holder's Crystal.
 
 In doctrine it is the Consent Doctrine in its cleanest form: a toll gate built as a wall, authorizing crossings against a sworn standard, and it fails as a warrant fails when it stops matching the speaker. The Aether Shell is projected out and held as a standing Density working, with a continuous bleed and a declaration of intent the Continuum reads for drift the whole time. Ardency (Density) governs, with Resilience (Integrity, Anchoring). On the Fate Path Density is capped at B (1 to 5 GN) and inscription durability at C; A-Grade arrest needs the Body Path at Flourishing; memory defense is capped at C, the illusion blind spot as a gate.
 
@@ -43,7 +43,7 @@ The true failure is a Coherence fault: if the holder's stated and actual intent 
 
 **Fails against** · A false word from the holder; a lance or bolt on a coin-sized spot, twice in one place; S-Grade speed; Tenebra or memory illusion; leather, clay, fog, mud; a Seal forced early; Knot; large blows until it overfills.
 
-**Look up** · The Fulguria and Vectoria favor lists; the Judicium and Sublimatio Failures; the Strike Force row and Contact Range; the Counterplay register for Knot and the Seal; the Glory Stage table.
+**Look up** · The Ground of Judicium and Sublimatio on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Judicium and Sublimatio Failures; the Strike Force row and Contact Range; the Counterplay register for Knot and the Seal; the Glory Stage table.
 
 ### Numbers
 
@@ -74,21 +74,27 @@ The true failure is a Coherence fault: if the holder's stated and actual intent 
 
 ### Codex line
 
-- **Wellspring** · Judicium (primary); Sublimatio (secondary)
-- **Family** · Fulguria
-- **Physics Domain** · Electromagnetism
-- **Category** · Claustra
-- **Skill** · Speaking, with the spoken declaration as anchor below Refraction, and held inwardly from Refraction up
-- **Stage floor** · VI, Glory
-- **Grade required** · A-Grade
-- **Path gate** · Fate Path
+**Path** · Fate. A claim laid out by a sworn declaration, read for drift the whole time. The Aether Shell holds it up, and no thread is pulled.
+
+**Lens** · Judicium (Wild, primary) · Sublimatio (Wild, secondary).
+
+**Form** · Claim. Her declaration spoken aloud, and a crystalline shell 3 to 7 m round her is hers to rule on.
+
+**Gates** · On the Fate Path Density is capped at B (1 to 5 GN) and inscription durability at C; A-Grade arrest needs the Body Path at Flourishing; memory defense is capped at C.
+
+**Glyph** · Balance, Boundary and Truth. A term: what the surface lets through depends on what is arriving, matched against what she swore. Every law downstream runs unchanged.
+
+**Skill** · Speaking, with the spoken declaration as anchor below Refraction, and held inwardly from Refraction up.
+
+**Stage floor** · VI, Glory.
+
+**Grade required** · A-Grade.
 
 ### FOW line
 
 - **Governing Primary** · Ardency (Density), secondary Resilience (Integrity, Anchoring)
 - **Stage floor** · VI, Glory
 - **Grade required** · A-Grade
-- **Path gate** · Fate Path
 - **Resonant Pair · None**
 
 ### Origin

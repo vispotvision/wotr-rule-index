@@ -53,6 +53,8 @@ The company named the bear Nine Seconds, and it was never a compliment. The rest
 | **Attraction Layer** | Genuine, bonded to nothing. **He has no Domain of his own and has never seated one**, which the Meridian assessors found more alarming than the alternative |
 | **Crystal Developmental Tier** | **Sovereign Crystal.** Trait law and local law have been the same law for long enough that nobody can say when they diverged |
 | **Crystal State** | Refined. No fracture recorded, and no evidence he has ever been under enough pressure to produce one |
+| **Essence Class** | **II · Answerer.** One function, and it answers |
+| **Thread Class** | **Ø · Unthreaded.** Bonded to nothing, by choice, for longer than anyone has counted |
 | **Aether Class** | **V · Radiant.** Currents curve toward him at a measured 45 m from the outermost tine, which is the same figure the Sealwrights use for a 30 kA striking distance and is assumed to be coincidence by people who have not stood inside it |
 | **Summon Stability Facet** | **A-Tier.** Hours with an anchor. Storm-anchored persistence has run to four days, which sits above the Tier III ceiling and is the strongest argument for reclassifying him |
 | **Traits** | **One, unnamed in any document that survived the filing.** It expresses as the interval and cannot be separated from him. The Arbitration record refers to it only as *the delay* |
@@ -65,9 +67,10 @@ The company named the bear Nine Seconds, and it was never a compliment. The rest
 | **Primary Wellspring** | **Orrenthal.** Pure resonance, the harmonic core. Thunder is resonance arriving late and Raga is the arrival |
 |---|---|
 | **Secondary Wellspring** | **Judicium.** Measure, weight, the verdict. Supplies the half of him that decides what is worth striking |
-| **Tertiary, technique-local** | **Cataclysm**, pulled only by Report. See the cross-family note in that block |
-| **House Resonance** | Elevated and judgmental. **Constructs and correspondences under this current develop conviction that outlasts their authorization**, which is the polite Codex phrasing for a Divine Beast that has stopped taking suggestions |
-| **Essence Family** | **Fulguria** |
+| **Tertiary, technique-local** | **Cataclysm**, pulled only by Report. See the cross-domain note in that block |
+| **Kind Resonance** | Wild, the storm's own, and elevated and judgmental by his Judicium. **Constructs and correspondences under this current develop conviction that outlasts their authorization**, which is the polite Codex phrasing for a Divine Beast that has stopped taking suggestions |
+| **Kind** | **Wild** |
+| **Leans on** | The Aether Shell, as hard as anything on this register. *Body:* bring something that is not lightning. *Spirit:* past the rack to a single function, which can be read and cannot be argued with. *Fate:* a very sound thing, and what he depends on is the name he has refused to answer to |
 | **Physics Domain** | **Electromagnetism.** Every Mechanism field below traces here except Report, which traces to Thermodynamics and says so |
 | **The Donation** | Discharge. His donation neither burns nor flows. It accumulates until the potential is intolerable and then equalizes in one event, and there is no partial version of him |
 
@@ -155,7 +158,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Counterplay:** The charge is deposited on the body, and the body can be put somewhere the release cannot follow usefully. **Full immersion, deep water or river silt, bleeds the deposit to ground before the interval runs.** A Voidic practitioner devours it outright. Failing either, distance is a friend: the further the mark from Raga, the longer the interval, and eight seconds is enough time for allies to drag a man clear and enough time for him to walk out of the blast radius himself if somebody tells him which way.
 
-  **Codex Assignment:** [Sel] · [Len] · [Thn] · Primary Judicium · Secondary Orrenthal · Fulguria · Electromagnetism
+  **Codex Assignment:** [Sel] · [Len] · [Thn] · Primary Judicium · Secondary Orrenthal · Electromagnetism
 
   **First Display:** Low stakes. Raga marks a standing stone at fifty paces during a demonstration and the assembled Proctors watch nothing happen for a fifth of a second before the stone opens. **The rule is taught in one beat and never needs teaching again.**
 
@@ -175,7 +178,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Function:** Every discharge in the area terminates on Raga and on nothing else.
 
-  **Mechanism:** Electromagnetism, and specifically the geometry of the striking distance. The rack presents an overwhelming upward streamer at a potential no other object in the field can match, and every descending leader within the protective radius commits to it before it can commit to anything else. **Judicium supplies the part that is not weather.** Practitioner discharges, inscribed lightning, Fulguria-family techniques of any kind, all of them resolve their path against Raga's rack in preference to their intended target, because the Wellspring reads him as the correct terminus and the technique is obliged to agree.
+  **Mechanism:** Electromagnetism, and specifically the geometry of the striking distance. The rack presents an overwhelming upward streamer at a potential no other object in the field can match, and every descending leader within the protective radius commits to it before it can commit to anything else. **Judicium supplies the part that is not weather.** Practitioner discharges, inscribed lightning, lightning techniques of any kind, all of them resolve their path against Raga's rack in preference to their intended target, because the Wellspring reads him as the correct terminus and the technique is obliged to agree.
 
   **Numerical Effect:** Protective radius of 45 m from the outermost tine, consistent with a 30 kA striking distance, expanding toward 70 m as accumulated charge on the rack rises. **Sustained across the longest attested hold, thirty one minutes**, during which the rack shed nine tines and regrew four.
 
@@ -187,14 +190,14 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Cost:** Physical, carried by Raga rather than the summoner, and the only cost in the entry that works that way. **Every hold ages the rack.** The regrowth is never complete and the shed points do not come back in the same arrangement.
 
-  **Counterplay:** Bring something that is not lightning. **Failing that, overload him:** sustained Fulguria input past his Shell's venting rate forces the accumulated charge back down through the body, and two engagements have ended with Raga discharging into the ground beneath his own feet and standing in the resulting crater with his hide smoking.
+  **Counterplay:** Bring something that is not lightning. **Failing that, overload him:** sustained lightning input past his Shell's venting rate forces the accumulated charge back down through the body, and two engagements have ended with Raga discharging into the ground beneath his own feet and standing in the resulting crater with his hide smoking.
 
-  **Codex Assignment:** [Krn] · [RenB] · [Ur] · Primary Judicium · Secondary Fixatio · Fulguria · Electromagnetism
+  **Codex Assignment:** [Krn] · [RenB] · [Ur] · Primary Judicium · Secondary Fixatio · Electromagnetism
 
   **First Display:** He does it unasked, over a wounded man, during a storm that had nothing to do with the engagement. **Nobody orders it and nobody can make him do it on request afterward.**
 
   **Sensory Description:** The hair stands on every arm in the field. The rain begins falling upward within the radius, drawn to the tines in fine threads. **The beat speeds up.**
-- ****REPORT** · *Charge · Overpressure · Cross-Family***
+- ****REPORT** · *Charge · Overpressure · Cross-Domain***
   **Glyph Basis:** [Thn] Thunder · [Noq] Wind · [Uur] Disruption
 
   *"Sonus advenit."*
@@ -205,7 +208,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Function:** A bear's charge that delivers a blast wave instead of an impact.
 
-  **Mechanism:** **Thermodynamics.** This block departs from the Electromagnetism domain the rest of the entry runs on, and the departure is deliberate and Codex-supported: [Thn] Thunder is assigned to Cataclysm under Caloria, and Report is the one technique in Raga's kit that is genuinely a heat event. The charge accumulated across the hide superheats the air in the compression layer ahead of his mass, and the layer detonates on contact rather than deforming. **The strike is the expansion, and the body he hits is standing inside it.**
+  **Mechanism:** **Thermodynamics.** This block departs from the Electromagnetism domain the rest of the entry runs on, and the departure is deliberate and Codex-supported: [Thn] Thunder is assigned to Cataclysm, and Report is the one technique in Raga's kit that is genuinely a heat event. The charge accumulated across the hide superheats the air in the compression layer ahead of his mass, and the layer detonates on contact rather than deforming. **The strike is the expansion, and the body he hits is standing inside it.**
 
   **Numerical Effect:** Overpressure of 40 to 60 kPa within two meters of contact. **Tympanic rupture begins near 35 kPa and pulmonary injury near 70**, which places every target of a clean Report in the band where the ears go and the lungs are a coin toss. Closing speed measured at 14 m/s over the last twenty meters.
 
@@ -219,7 +222,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Counterplay:** Break the run-up. **Broken ground, caltrops, a spear hedge, anything that makes twenty meters of clean approach unavailable.** Failing that, get to ground: overpressure falls off sharply with distance and prone bodies inside four meters have survived where standing ones inside eight did not.
 
-  **Codex Assignment:** [Thn] · [Noq] · [Uur] · Primary Cataclysm · Secondary Orrenthal · Caloria primary with Fulguria trigger · Thermodynamics. **Flagged as a deliberate cross-family entry, consistent with the Codex's own assignment of [Thn]**
+  **Codex Assignment:** [Thn] · [Noq] · [Uur] · Primary Cataclysm · Secondary Orrenthal · Thermodynamics, with an electrical trigger. **A deliberate crossing of domains, consistent with the Codex's own assignment of [Thn]**
 
   **First Display:** Against a wall rather than a person. He puts a gate through its own gatehouse and the garrison surrenders to a summoner who had not yet decided to ask them.
 
@@ -253,7 +256,7 @@ He is patient in a way that reads as indifference and is closer to arithmetic. *
 
   **Ruled 2026-09-12:** the Raga delivery-method question (spoken or poured) is answered: spoken. Nothing in this entry ever supported a poured mechanism; the counter runs entirely on the voice the Invocation, the naming, and the stated Counterplay already require. Kaalabad destroys the construct by killing the voice: closing the distance on Kwon Mu-jin fast enough, and violently enough, that the naming itself is interrupted mid-word, by a struck throat, a broken jaw, anything that stops the sound before the target is named, rather than by attacking Raga directly, who by his own entry cannot be harmed by ordinary means and does not need to be. An unnamed target is not protected from Raga; it is simply not addressed, and a naming interrupted mid-word is functionally the same as no naming at all.
 
-  **Codex Assignment:** [Vo] · [Va] · Primary Judicium · Secondary Thaloré · Fulguria primary with Fluxia secondary · Electromagnetism. **Cross-family flagged: [Vo] is a Thaloré assignment under Fluxia and is doing the binding work here rather than the striking work**
+  **Codex Assignment:** [Vo] · [Va] · Primary Judicium · Secondary Thaloré · Electromagnetism. **A crossing worth marking: [Vo] is a Thaloré assignment and is doing the binding work here rather than the striking work**
 
   **First Display:** Before any combat at all. A summoner points and Raga does not move, and the summoner has to say the name, and the saying of it in front of his own men is the scene.
 
@@ -279,7 +282,7 @@ Attraction Force answers by recognition. Obsession Force takes the same shape an
 
 **The interval inverts.** A compelled Raga does not withhold the consequence and let it arrive. He withholds the *cause*. The thunder comes first, at full weight, on a target that has not been struck by anything and will not be for several seconds, and the target hears their own death arrive and then stands in the interval waiting for the flash that will justify it. **Nobody named survives the wait.** Two in the filing tried to run and the mark went with them, and the account of what the running looked like is the reason the filing is sealed.
 
-The second inversion is quieter and is the one the Arbitration Division actually fears. **A compelled Raga stops needing the name.** [Vo] is doing the binding under Thaloré, and Thaloré is a Fluxia current, and a Fluxia current that has been forced rather than asked does not hold a boundary. The vow goes first. Everything Raga is, is downstream of a refusal, and a Raga who cannot refuse is a weather system with a grudge and forty-five meters of reach.
+The second inversion is quieter and is the one the Arbitration Division actually fears. **A compelled Raga stops needing the name.** [Vo] is doing the binding under Thaloré, and Thaloré is the true weight of what is felt, and a weight that has been forced rather than asked does not hold a boundary. The vow goes first. Everything Raga is, is downstream of a refusal, and a Raga who cannot refuse is a weather system with a grudge and forty-five meters of reach.
 
 ---
 

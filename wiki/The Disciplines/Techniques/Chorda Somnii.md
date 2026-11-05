@@ -6,7 +6,7 @@ title: The Stolen Second
 
 *Chorda Somnii on the rolls, the scholars' term. The fencing halls of Ambry Row say "she's got your clock," and put their coin down.*
 
-## THE STOLEN SECOND (Chorda Somnii) (Mnemata, Stage VI)
+## THE STOLEN SECOND (Chorda Somnii) (Bind, Stage VI)
 
 Hilary Lisle taught the sword on Ambry Row for thirty-one years in a scarlet doublet, and his footwork was the thing rich fathers paid to have their sons stand near. He lost a public bout to a nobody on his own floor, in front of his whole school and a good many of their fathers, by arriving half a beat early to every single exchange, then correcting, then arriving a full beat late. Afterward he hired a Guild water clock and a notary, drilled for a month against the dripping, and proved in writing that his timing was perfect. It was, as far as the water clock could say. He has that page framed. It is the saddest and most accurate document on the subject in the Guild's possession.
 
@@ -24,7 +24,7 @@ The brain has no clock. It rebuilds felt time from how densely it encoded an int
 
 The glyphs are Hour (Valen), a limit on duration only, across Reverie (Maelor) for the dream-space it is set in. The boundary is the rate at which the target's own accounting of duration advances, shifted by a factor of one-half to two. Glory stands below Refraction, so the thread hangs on the practitioner's hand and holds only while eye contact or an active Essence-lock on the target lasts. Nothing without a coherent dream underneath can be threaded: a construct, a Wellspring husk or a Severed mind has no ratio to pin.
 
-She pulls almost no ambient Aether, and the residue is a thin line from one Crystal to one Crystal and nothing in the room. The limiting resource is her own sense of sequence. Oneirion, the Wellspring of Dream (Limina), says every arrangement of a system is a point in a space with no location, and the working acts on that space and leaves the room alone, which is why it reaches past line of sight. Limina is favored by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains. The inherited failure is Oneirion's projection error: the path is right in the dream-space and lands somewhere unintended when mapped back into the room. The named boundary fault follows from it: a sign error on the map back inverts the ratio, so the thread now and then slows a target meant to be sharpened.
+She pulls almost no ambient Aether, and the residue is a thin line from one Crystal to one Crystal and nothing in the room. The limiting resource is her own sense of sequence. Oneirion, the Wellspring of Dream (Spirit), says every arrangement of a system is a point in a space with no location, and the working acts on that space and leaves the room alone, which is why it reaches past line of sight. Oneirion's Ground favors darkness, silence, ruins and places where people have slept for generations, and hates saturated Aether and active Domains. The inherited failure is Oneirion's projection error: the path is right in the dream-space and lands somewhere unintended when mapped back into the room. The named boundary fault follows from it: a sign error on the map back inverts the ratio, so the thread now and then slows a target meant to be sharpened.
 
 The Essence Core pays and the thread runs through the Attraction Layer as an Essence-lock. Memory Shear degrades Gnosis Retention as misremembered order, and heavy use erodes her sense of sequence for good; Sleep Debt must be slept off, usually in Wellspring-guided sleep. Developmental Tier Harmonic, Radiant from Transcendence. The bleed of 30 to 40 percent, 0.78 to 19.2 GJ, leaves as heat at the Shell, and since the effect carries almost no joules, nearly everything spent goes to holding the thread, its structural share being the Memory Shear. In a fight this gets used like a stone in a boot: it costs nobody any flesh, armor or reach, and one fencer's whole trained rhythm stops being his. The Core brakes before the reserve does.
 
@@ -38,14 +38,21 @@ The theory is two scales of one law briefly agreeing, the Correspondence Positio
 
 ### Codex line
 
-- **Wellspring** · Oneirion, The Wellspring of Dream
-- **Family** · Limina
-- **Physics Domain** · Entropy, Void and Mind
-- **Category** · Mnemata
-- **Skill** · Speaking, held by gaze or lock for its three turns
-- **Stage floor** · Stage VI, Glory
-- **Grade required** · A-Grade
-- **Path gate** · Spirit
+**Path** · Spirit. It works on the target's own account of time; the Essence Core pays, and the thread runs through the Attraction Layer only as a lock.
+
+**Lens** · Oneirion (Spirit).
+
+**Form** · Bind. A thread laid on one mind, holding its second long or short against its nature.
+
+**Gates** · None past the Path's ordinary gates.
+
+**Glyph** · Hour across Reverie. What a thing is taken to be: how long a second is, to this one mind, by a factor of one-half to two.
+
+**Skill** · Speaking, held by gaze or lock for its three turns.
+
+**Stage floor** · Stage VI, Glory.
+
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -54,8 +61,6 @@ The theory is two scales of one law briefly agreeing, the Correspondence Positio
 **Stage floor** · VI
 
 **Grade required** · A-Grade
-
-**Path gate** · Spirit
 
 **Resonant Pair · None.**
 
@@ -71,7 +76,7 @@ Chorda Somnii is self-derived rather than a documented working countered from st
 
 **Fails against** · A broken line of sight; a Fate-keyed ward, which severs it by reading its shape; a Sleep Debt never paid under sustained pressure; minds trained to refuse the tempo; a construct or husk; crowds or Domains; numbers.
 
-**Look up** · The Limina terrain; Oneirion's failures; Memory Shear and Sleep Debt among Core costs; Fate-keyed wards in the Counterplay register; the Glory Stage table and the A and S Grade reaction rows.
+**Look up** · The Ground of Oneirion on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]]; Oneirion's failures; Memory Shear and Sleep Debt among Core costs; Fate-keyed wards in the Counterplay register; the Glory Stage table and the A and S Grade reaction rows.
 
 ## Numbers
 

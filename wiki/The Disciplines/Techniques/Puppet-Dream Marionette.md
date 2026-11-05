@@ -4,7 +4,7 @@ title: "Your Legs Had a Better Idea"
 
 # YOUR LEGS HAD A BETTER IDEA
 
-*Speaking, Harmonia, Stage VII. The scholars' term is the Puppet-Dream Marionette.*
+*Speaking, Sing, Stage VII. The scholars' term is the Puppet-Dream Marionette.*
 
 Sergeant Ebbo Ollery held the Kettlewell gate for twenty-two years and never once took a step back, and the town painted him on the gatehouse in red and gold to say so. On the day of the raid he turned around on top of his own wall, in full view of both armies, with a look of deep surprise on his face, and ran off the edge of it. They say he was still trying to explain as he went by the second-floor windows. Eighty paces off, a thin person in a sea-green coat flinched through exactly the same stride and scratched an elbow.
 
@@ -18,11 +18,11 @@ Sergeant Ebbo Ollery held the Kettlewell gate for twenty-two years and never onc
 
 ### How it really works
 
-There is almost nothing to see at casting. At Refraction the trigger is an internal declaration within 60 m, and the pull is tiny: one threshold, for one turn. Fluxia (the Family of fluids and flow) needs a medium and is favored by water, humidity and pressure difference, and a dry vault is a Fluxia prison. Limina wants darkness, silence and few people.
+There is almost nothing to see at casting. At Refraction the trigger is an internal declaration within 60 m, and the pull is tiny: one threshold, for one turn. Somnalis pools at crossroads, ferries and any ground where many plans cross, and empty country with nobody in it to choose is its prison. Oneirion and Eidolyn want darkness, silence and few people.
 
 What happens is a threshold released on a motor program already loaded. A frightened body carries out the escape it was rehearsing, at the wrong moment and in the wrong direction, while its owner watches. The law is the tipping point: near a saddle-node bifurcation the push needed to switch a system tends to zero, and fear holds the flight program primed just below firing, as the brain's readiness signal shows 1 to 2 s before movement. Driving a body from outside is expensive, slow and shallow, so the working only releases what fear already loaded, and a calm mind has nothing to release. This is the whole art: his working does about no work on the limb at all. The target's own ATP swings it.
 
-The forecast half comes from Somnalis, the Dream Veil (Fluxia), primary: a turbulent system is read as a weighted spread of adjacent futures, like a fifty-member weather ensemble, and the practitioner seeds one branch. The spread he reads is the target's own frightened nervous system, and no thread of Fate comes down for it. Seeding a branch the target was only 11 percent committed to produces a stumble and no hijack, and that is Somnalis's ensemble collapse. Oneirion, the Wellspring of Dream (Limina), means the working acts in configuration space, so line of sight is not required. Eidolyn, the Shaping Mind (Limina), templates the seeded image so it counts as the target's own program. Their failures come along: Oneirion's projection error and Eidolyn's template defect. Fluxia against Limina pull apart, a tension resolved by Temperance advancement or a Compound Trait, and Tempering Capacity caps all three.
+The forecast half comes from Somnalis, the Dream Veil (Fate), primary: a turbulent system is read as a weighted spread of adjacent futures, like a fifty-member weather ensemble, and the practitioner seeds one branch. The spread he reads is the target's own frightened nervous system, and no thread of Fate comes down for it. Seeding a branch the target was only 11 percent committed to produces a stumble and no hijack, and that is Somnalis's ensemble collapse. Oneirion, the Wellspring of Dream (Spirit), means the working acts in configuration space, so line of sight is not required. Eidolyn, the Shaping Mind (Wild), templates the seeded image so it counts as the target's own program. Their failures come along: Oneirion's projection error and Eidolyn's template defect. Somnalis against Oneirion and Eidolyn pull apart, a tension resolved by Temperance advancement or a Compound Trait, and Tempering Capacity caps all three.
 
 The glyph is Mind, governing which loaded arrangement may execute, laid across Passage for the crossing into the target's manifold. The boundary condition is one threshold, the inhibition between a prepared program and its execution, and the target's own physiology does the rest. It produces flight specifically, redirects an attack already in motion, and acts inconsistently on non-humanoid targets. The horror of it lies in recognition, and paralysis never enters into it: the motion is theirs, made now, toward the wrong place. It lasts one turn and the program is spent, since a released motion cannot be released twice.
 
@@ -43,7 +43,7 @@ A Collegium ideomotor school reads it as imagined movement discharging with its 
 
 **Fails against** · A mind without fear; a dry room; a drilled pain startle, a faster loop; Letheveil clarity; a lucid hold on one's own dream-logic; Knot on the path; the per-use cost, until the Shell clouds.
 
-**Look up** · The Counterplay register for Knot; the Fluxia terrain entries; Letheveil; the Fluxia and Limina entries for Somnalis, Oneirion and Eidolyn Failures; Shell Clouding; the Refraction Stage table.
+**Look up** · The Counterplay register for Knot; the Ground of Somnalis on the [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Fate page]] and Oneirion on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]] and Eidolyn on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Letheveil; the entries for Somnalis, Oneirion and Eidolyn Failures; Shell Clouding; the Refraction Stage table.
 
 ### Numbers
 
@@ -68,21 +68,21 @@ A Collegium ideomotor school reads it as imagined movement discharging with its 
 
 ### Codex line
 
-**Wellspring** · Somnalis (primary), Oneirion, Eidolyn
+**Path** · Spirit, with a drift toward Fate. It reads a frightened nervous system and no thread of Fate comes down for it.
 
-**Family** · Fluxia (Somnalis); Limina (Oneirion, Eidolyn)
+**Lens** · Somnalis (Fate, primary) · Oneirion (Spirit), Eidolyn (Wild).
 
-**Physics Domain** · Fluid Dynamics (Somnalis); Entropy, Void and Mind (Oneirion, Eidolyn)
+**Form** · Sing. One threshold in one body, for one turn, along the target's own fear.
 
-**Category** · Harmonia
+**Gates** · None past the Path's ordinary gates.
 
-**Skill** · Speaking; a one-turn release with nothing left to hold after it
+**Glyph** · Mind across Passage. What a thing is taken to be: what counts as the go signal between a prepared flight and its execution.
 
-**Stage floor** · Stage VII, Refraction
+**Skill** · Speaking; a one-turn release with nothing left to hold after it.
 
-**Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade)
+**Stage floor** · Stage VII, Refraction.
 
-**Path gate** · Spirit Path, with drift toward Fate Path
+**Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade).
 
 ### FOW line
 
@@ -93,8 +93,6 @@ A Collegium ideomotor school reads it as imagined movement discharging with its 
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 
 **Grade required** · A-Grade
-
-**Path gate** · Spirit Path, drift toward Fate Path
 
 **Resonant Pair · None.**
 

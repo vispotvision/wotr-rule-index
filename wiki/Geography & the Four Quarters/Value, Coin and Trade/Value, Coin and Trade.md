@@ -170,7 +170,7 @@ What this produces is the one thing commerce anywhere else could not produce: **
 | **The Accord's writ has a rival** | A Concord Writ requires the Enforcement Division to arrive. **A Parun-bound contract does not require anybody to arrive.** Arbitration and the Council of Links have a relationship both describe as cordial |
 | **Nalūn cannot be conquered profitably** | Take the tunnels and you hold rock. The value is in the seals, the seals answer to the Wellsprings, and **the Wellsprings do not recognize occupation.** Every serious military assessment of the chain-cities in the last two centuries has ended in the same paragraph |
 
-**Struck 2026-09-12.** *The entry that stood here credited a freeport republic, Nevara, with a Law Table performing the same function under Accord authority rather than Nalūn's. Nevara is struck from canon and archived; the New World's institutional answer to Nalūn's seals is not recorded.*
+*The New World's institutional answer to Nalūn's seals is not recorded.*
 
 ---
 
@@ -269,7 +269,7 @@ Almost every polity in the four quarters is a monarchy. The republics are the ex
 >
 > **The Accord holds** the assay, the title, the credit, the writ, and the arrays.
 >
-> Legitimate by measurement. Recognizes no bloodline. It does not need to depose a king. **It needs only to stop pumping.**
+> Legitimate by measurement. Recognizes no bloodline. It does not need to depose a king. **It needs only to stop proving his weights and taking his bills.**
 
 *Neither side says this out loud. Both sides have costed it.*
 

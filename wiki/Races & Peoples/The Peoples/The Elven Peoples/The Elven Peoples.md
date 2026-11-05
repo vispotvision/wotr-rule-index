@@ -139,9 +139,9 @@ Standing among Drow is built through what has been given away and accounted for,
 
 ### Soul architecture
 
-**Soul Habit** · **Debt first**, the obligation an ending creates, a long way from nihilism. Second, the authority of having stood in the dark and mapped it.
+**In the blood** · **Debt**, the obligation an ending creates, a long way from nihilism, and the authority of having stood in the dark and mapped it.
 
-**Soul Path Bias** · Spirit 60% / Fate 30% / Body 10%, **the highest Fate Path expression of any elven lineage**, and the structural source of their unusual spatial and Domain authority. (Soul Path is the share of a person's power that runs through body, spirit or fate.)
+**Untrained lean** · Spirit 60% / Fate 30% / Body 10%, **the strongest lean toward Fate of any elven lineage**, and the structural source of their unusual reach and Domain authority. (An untrained lean is the tilt of the three layers of a soul before anyone has trained them, and it never sets Mastered or Walked.)
 > **Advantages**
 >
 > **Shadow Parallax**: passive three-layer Aetheric perception, physical, Aetheric, and Veil-sheen simultaneously.

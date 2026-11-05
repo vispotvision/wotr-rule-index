@@ -259,7 +259,7 @@ I also asked, through the Archivum's post, for the treatise's author. The answer
 > Scribe to the Genesio Archivum, by order.
 Filed by its signature, as asked, and by the file's own rule.
 
-Dessa Mael set the Castlefall scrapings against the Archivum's reference sheets under her own coil. The chapter bench in Urbis had given me Family and Class on both and could not name either ink. She named both.
+Dessa Mael set the Castlefall scrapings against the Archivum's reference sheets under her own coil. The chapter bench in Urbis had given me Kind and Class on both and could not name either ink. She named both.
 
 "Gravetide," she said, of the circle. Of the drop by the bench: "Gravemark."
 

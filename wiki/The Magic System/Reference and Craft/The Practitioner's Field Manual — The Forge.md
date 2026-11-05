@@ -7,14 +7,14 @@ tags:
 
 # The Practitioner's Field Manual — The Forge
 
-*Being a working register of the Eight Families (the eight houses of magic, sorted by physics), and the Forge by which Abilities and Techniques are built at speed*
+*Being a working register of what each kind of phenomenon can and cannot do, and the Forge by which Abilities and Techniques are built at speed*
 > **Craft Companion, the Seventh Guide**
 >
 > ***Governs how magic is written. Does not govern what magic is.***
 >
 > *"Ask what he is permitted to do with the power he has, and what it takes out of him when he does. The size of it comes last."*
 
-Oswin Crumb, baker of Karrowgate, Stage III (third on the soul's sixteen-step ladder), had a Caloria (heat) trade worth two copper an oven. He lit ovens. He had lit every oven on Dyers' Lane for twenty-three years with the same small, smoky orange push from the same two fingers, and on the morning the bailiff's men came about the arrears, three of them, in good boots, with his daughter's name on their paper, he put those two fingers against the first man's breastbone and did the same thing, with the same spoonful of Essence, all at once.
+Oswin Crumb, baker of Karrowgate, Stage III (third on the soul's sixteen-step ladder), had a heat trade worth two copper an oven. He lit ovens. He had lit every oven on Dyers' Lane for twenty-three years with the same small, smoky orange push from the same two fingers, and on the morning the bailiff's men came about the arrears, three of them, in good boots, with his daughter's name on their paper, he put those two fingers against the first man's breastbone and did the same thing, with the same spoonful of Essence, all at once.
 
 The shutters of Dyers' Lane left their hinges in order, flour hung in the street like a snowfall going sideways, and a tray of rolls was found on the church roof. The bailiff's men lay in the road with their eyebrows on and their boots shining and not one burn among them, and every one of them had drowned in his own lungs. Crumb himself never heard another word from anybody. A Measurewright (a sworn measurer of the Guild) walked in from the Assize before the dust had settled, ate one of the surviving rolls, and wrote on a slate, in a hand that got larger as she went: *Same fuel. Same Essence. Entirely different corpse.*
 
@@ -28,7 +28,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 
 | Layer | What it is |
 |---|---|
-| **The Generative Layer** | Family → Affinity → Method → Ability → Technique, seen through a Wellspring (the lens the soul has tempered on) and going out by a Path (the layer the Crystal leans on), which between them give a working its character. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
+| **The Generative Layer** | Concept → Affinity → Ability → Technique, seen through a Wellspring (the lens the soul has tempered on) and going out by a Path (the layer the Crystal leans on) in a [[The Magic System/Reference and Craft/Forms|Form]] (what the hands do), which between them give a working its character. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
 | **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Class (the name a soul is offered at its thresholds), Aether, Essence and Thread Class (the three ladders, each setting how much power survives the trip through its own layer), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work). **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document, a private count or the bearer's own window; its names may stand in any sentence*** |
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
@@ -86,26 +86,26 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ## The Forge
 
-**Before the first step, the concept.** A kit starts as one wild idea you can explain in a breath, soup, debt, doors, boredom, anything, so long as the character can push it somewhere terrifying. Character first, then the concept, and only then the Family, the Wellspring and the glyph that explain it and the Path it goes out by; the Sixty and the Glyphs stay fixed and the idea finds its place among them. A major character starts with three to five named moves and adds one when a fight or scene earns it. An NPC may invent and name a new move in the middle of a fight, and it is canon on use. The Forge below takes that idea and makes it hold.
+**Before the first step, the concept.** A kit starts as one wild idea you can explain in a breath, soup, debt, doors, boredom, anything, so long as the character can push it somewhere terrifying. Character first, then the concept, and only then the phenomenon, the Wellspring and the glyph that explain it and the Path it goes out by; the Sixty and the Glyphs stay fixed and the idea finds its place among them. A major character starts with three to five named moves and adds one when a fight or scene earns it. An NPC may invent and name a new move in the middle of a fight, and it is canon on use. The Forge below takes that idea and makes it hold.
 
 *Seven steps at the desk. Steps one through four are structural and cannot be skipped. Five through seven are what separate a technique from a special effect.*
 
 | Step | What it demands |
 |---|---|
-| **1 · Family** | Name it **from what is physically happening, not from the feeling it evokes.** *A grief-working that rots a body is Vitalia. A grief-working that removes the memory of a face is Limina.* **The taxonomy is physics-first** and it will offend intuition roughly a third of the time. Follow it anyway |
-| **2 · Verb** | **One** operation from the Family's verb table. *A technique that uses three verbs is three techniques badly stapled together* |
+| **1 · Phenomenon** | Name it **from what is actually happening, not from the feeling it evokes.** *A grief-working that rots a body is biology. A grief-working that removes the memory of a face is mind.* **This step is physics-first** and it will offend intuition roughly a third of the time. Follow it anyway |
+| **2 · Verb** | **One** operation from that phenomenon's verb table. *A technique that uses three verbs is three techniques badly stapled together* |
 | **3 · Rate** | **Push or shatter.** *This single decision determines what the corpse looks like and is the most underused instrument available* |
 | **4 · Limitation** | State what it structurally **cannot** do **before** stating what it does. *A power invented before its constraint is a power looking for a constraint to justify it, and it reads bolted-on every time* |
 | **5 · Cost** | From the Wheel, deliberately, checked against the character's existing category; a big art's price comes out of its own idea, on top of reserve and body tells. **A cast where everything costs blood is a cast with one idea** |
 | **6 · Counterplay** | One sentence, **and it must be an answer a competent opponent could actually find.** *If none exists, the technique is not finished* |
-| **7 · Stamp** | Glyph pair, primary Wellspring (the lens it comes through, in the scholars' account the type of Aether it pulls on), Path, Family, Physics Domain (the branch of real physics it obeys). **Thirty seconds. Never left unlinked** |
+| **7 · Stamp** | Glyph pair, primary Wellspring (the lens it comes through, in the scholars' account the type of Aether it pulls on), Path, Form, Gates, and the real phenomenon it obeys. **Thirty seconds. Never left unlinked** |
 
 ### The three-line version
 
 *For use mid-scene, at speed, when a named character needs to do something in the next paragraph.*
 > **VERB. RATE. PRICE.**
 >
-> He does **one operation** from his Family, at a **stated speed**, and it takes **something the reader can see** out of him.
+> He does **one operation** from his phenomenon, at a **stated speed**, and it takes **something the reader can see** out of him.
 >
 > *The stamp and the counterplay can be filled in at the end of the pass without damaging the prose. The price cannot be added retroactively, because a cost the reader never watched get exacted did not happen.*
 >
@@ -135,20 +135,20 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ## The Delivery Rate Law
 
-*Ratified. It generalizes across all eight Families as one rule and resolves the recurring problem of every escalation reading as simply larger.*
+*Ratified. It generalizes across every phenomenon a working can touch as one rule and resolves the recurring problem of every escalation reading as simply larger.*
 > **Every working has a delivery rate. Rate decides whether the effect pushes or shatters. Magnitude does not.**
 **The same Essence (the soul's own stuff of power), the same Wellspring, the same practitioner, delivered slow or delivered instantaneously, produce two entirely different injuries.** *This is the correct way to escalate a character without inflating a number, and it is available at every Stage from Murmuring upward.*
 
-| Family | The law | What the difference is |
+| Phenomenon | The law | What the difference is |
 |---|---|---|
-| **Caloria** | Deflagration ↔ detonation | Subsonic **pushes, throws men, takes hair and eyebrows and leaves survivors.** Break the sound barrier and it stops being fire and becomes a pressure wave, *and a pressure wave leaves the skin alone and delaminates the man, lungs first. Same fuel. Same Essence. Entirely different corpse* |
-| **Fulguria** | Sustained arc ↔ single discharge | A held arc cuts and cauterizes and **can be walked away from.** One discharge dumps the differential in a millisecond, **and the body answers with interruption before it has time for injury**: *the heart is an electrical organ and it does not argue* |
-| **Vectoria** | Sustained load ↔ impulse | A slow load bends, buckles, collapses, **and everyone inside gets to watch it happen and possibly leave.** As impulse it **exceeds the material's ability to distribute stress and the material fails along its worst line, immediately, everywhere at once** |
-| **Spatium** | Gradual displacement ↔ instantaneous fold | Slowly through compressed distance: **nausea and a headache.** Folded instantaneously, **the shear at the boundary becomes the entire event**, *and shear does not care that the thing being sheared is a person* |
-| **Materia** | Creep ↔ brittle fracture | Slow loading yields, sags, redistributes, **visibly failing the whole time.** Faster than it can redistribute and **it goes from intact to particulate with nothing in between and no warning to anyone standing under it** |
-| **Vitalia** | Chronic ↔ acute | Slow is survivable, treatable, **often invisible for weeks, which makes it the assassin's Family.** Acute overwhelms every compensatory mechanism at once: **the body skips gradual failure and goes in a cascade that takes four organs in nine minutes** |
-| **Fluxia** | Flood ↔ water hammer | At its own pace, **a slow disaster people escape by climbing.** Stop that column instantaneously and its momentum **bursts pipe, stone, and vessel walls**, *and the vessel wall in question is frequently an artery* |
-| **Limina** | Erosion ↔ erasure | Erosion is experienced as ordinary decline: forgetfulness, bad luck, a joint that aches. *The difference: erosion leaves a man who knows something is wrong, and erasure leaves a man who does not* |
+| **Heat** | Deflagration ↔ detonation | Subsonic **pushes, throws men, takes hair and eyebrows and leaves survivors.** Break the sound barrier and it stops being fire and becomes a pressure wave, *and a pressure wave leaves the skin alone and delaminates the man, lungs first. Same fuel. Same Essence. Entirely different corpse* |
+| **Lightning** | Sustained arc ↔ single discharge | A held arc cuts and cauterizes and **can be walked away from.** One discharge dumps the differential in a millisecond, **and the body answers with interruption before it has time for injury**: *the heart is an electrical organ and it does not argue* |
+| **Force** | Sustained load ↔ impulse | A slow load bends, buckles, collapses, **and everyone inside gets to watch it happen and possibly leave.** As impulse it **exceeds the material's ability to distribute stress and the material fails along its worst line, immediately, everywhere at once** |
+| **Distance** | Gradual displacement ↔ instantaneous fold | Slowly through compressed distance: **nausea and a headache.** Folded instantaneously, **the shear at the boundary becomes the entire event**, *and shear does not care that the thing being sheared is a person* |
+| **Matter** | Creep ↔ brittle fracture | Slow loading yields, sags, redistributes, **visibly failing the whole time.** Faster than it can redistribute and **it goes from intact to particulate with nothing in between and no warning to anyone standing under it** |
+| **Biology** | Chronic ↔ acute | Slow is survivable, treatable, **often invisible for weeks, which makes it the assassin's road.** Acute overwhelms every compensatory mechanism at once: **the body skips gradual failure and goes in a cascade that takes four organs in nine minutes** |
+| **Fluid** | Flood ↔ water hammer | At its own pace, **a slow disaster people escape by climbing.** Stop that column instantaneously and its momentum **bursts pipe, stone, and vessel walls**, *and the vessel wall in question is frequently an artery* |
+| **Entropy, Void, Mind** | Erosion ↔ erasure | Erosion is experienced as ordinary decline: forgetfulness, bad luck, a joint that aches. *The difference: erosion leaves a man who knows something is wrong, and erasure leaves a man who does not* |
 
 ---
 
@@ -196,20 +196,20 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ---
 
-## The Eight Families
+## What Each Phenomenon Cannot Do
 
-*What each House governs, and, more usefully, what it categorically cannot do.*
+*What each kind of work governs, and, more usefully, what it categorically cannot do. The lens changes how it feels and what it charges, and it does not lift these.*
 
-| Family | What it cannot do | Signature cost |
+| Phenomenon | What it cannot do | Signature cost |
 |---|---|---|
-| **Caloria** *heat and its absence* | **Cannot create energy.** Every degree added is a degree taken from somewhere, **and the practitioner must name the source or become it.** Cannot sustain combustion without an oxidizer: *sealed rooms, deep water and the high thin air of the Reach are Caloria-hostile ground* | **Physical toll, sink-side.** *A thirty-year adept has hands that no longer sweat, corneas gone slightly opaque, and a resting body temperature nobody wants to shake hands with* |
-| **Fulguria** *the House of the differential* | **Cannot arc across a gap it has not prepared.** Useless against wood, ceramic, dry rope, ungirded stone, *which is why the counter-Fulguria kit is boiled leather and fired clay and always has been.* **Falls off with the square of distance,** so every Fulguria threat is a threat about closing range | **Sanity-adjacent, sensory.** The nervous system is the instrument, **and instruments detune.** *Early signs read as brilliance: he answers before you finish, he notices everything, he has not slept and does not think that is strange* |
-| **Vectoria** *force and motion* | **Cannot create momentum.** Every push has an equal push on the practitioner, **and the only question is which of his joints receives it.** *Resonance requires knowing the frequency, and knowing it requires time the fight may not give* | **Physical toll, reaction-side, and it is skeletal.** *Shoulders that come out of socket in cold weather. A spine that has been used as a bracing member for twenty years.* **Corruption is gravitational isolation:** the early symptom is that people stop being able to stand near him comfortably and cannot say why |
-| **Spatium** *distance and position* | **Cannot fold to a place it has not measured**, *and the failure state for blind translocation is arriving somewhere occupied.* **Cannot move what it cannot fully bound,** so a partial working takes a partial man | **Time and proprioception.** *Long before terminal dissociation, the practitioner reaches for a cup and misses by a hand's width, and stops trusting stairs* |
-| **Materia** *matter and substance* | **Cannot make matter. Conservation is absolute in this House and there are no exceptions**, *which is why a Materia practitioner on bare ice or open water is a man with opinions and no tools.* Loses every exchange decided in under two seconds and wins every one that lasts a week | **Escalating dependency, mineral.** Petrification compulsion, terminating in mineralized flesh. *It shows first in the nail beds and the whites of the eyes, the only corruption in the manual a physician can diagnose by looking* |
-| **Vitalia** *biology and anatomy* | **Healing eats mass, and the mass comes from the patient, the caster, or something the caster brought**, *and a healer who will not say which is a healer who is lying.* **Cannot restore what has lost its pattern;** the dead stay dead, and the attempt to argue with that is Limina's crime, not this House's | **Memory and metabolic debt.** *A Vitalia healer at the end of a long campaign is a man who can name every wound he closed and not the wife he closed them to get home to* |
-| **Fluxia** *fluids and pressure* | **Cannot act without a medium**: deep vaults, sealed reliquaries and the dry Undaar deeps are deliberately hostile ground. **Cannot hold a boundary indefinitely, because fluids want to mix and the working is always spending Essence to disagree** | **Dissolution of boundaries, and it is the eeriest corruption in the register.** *The tell is grammatical and should be written that way: an adept who has gone too far starts saying* we *about himself, without noticing, and gets irritated when corrected* |
-| **Limina** *entropy, void, mind* | **Cannot create. Every working in this House is subtractive and there are no exceptions**, *the single most useful clarifying sentence in the manual.* Cannot act on what has no pattern, **so raw undifferentiated matter is nearly immune and a rock is a better Limina shield than a ward** | **Existential erosion, and it is reflexive: the practitioner pays in the same currency he spends.** *A man who erases memory loses memory. A man who nulls loses the ability to feel Aether at all in a widening radius around his own skin* |
+| **Heat** *and its absence* | **Cannot create energy.** Every degree added is a degree taken from somewhere, **and the practitioner must name the source or become it.** Cannot sustain combustion without an oxidizer: *sealed rooms, deep water and the high thin air of the Reach are Caloria-hostile ground* | **Physical toll, sink-side.** *A thirty-year adept has hands that no longer sweat, corneas gone slightly opaque, and a resting body temperature nobody wants to shake hands with* |
+| **Lightning** *the work of the differential* | **Cannot arc across a gap it has not prepared.** Useless against wood, ceramic, dry rope, ungirded stone, *which is why the counter-lightning kit is boiled leather and fired clay and always has been.* **Falls off with the square of distance,** so every Fulguria threat is a threat about closing range | **Sanity-adjacent, sensory.** The nervous system is the instrument, **and instruments detune.** *Early signs read as brilliance: he answers before you finish, he notices everything, he has not slept and does not think that is strange* |
+| **Force** *and motion* | **Cannot create momentum.** Every push has an equal push on the practitioner, **and the only question is which of his joints receives it.** *Resonance requires knowing the frequency, and knowing it requires time the fight may not give* | **Physical toll, reaction-side, and it is skeletal.** *Shoulders that come out of socket in cold weather. A spine that has been used as a bracing member for twenty years.* **Corruption is gravitational isolation:** the early symptom is that people stop being able to stand near him comfortably and cannot say why |
+| **Distance** *and position* | **Cannot fold to a place it has not measured**, *and the failure state for blind translocation is arriving somewhere occupied.* **Cannot move what it cannot fully bound,** so a partial working takes a partial man | **Time and proprioception.** *Long before terminal dissociation, the practitioner reaches for a cup and misses by a hand's width, and stops trusting stairs* |
+| **Matter** *and substance* | **Cannot make matter. Conservation is absolute here and there are no exceptions**, *which is why a matter-worker on bare ice or open water is a man with opinions and no tools.* Loses every exchange decided in under two seconds and wins every one that lasts a week | **Escalating dependency, mineral.** Petrification compulsion, terminating in mineralized flesh. *It shows first in the nail beds and the whites of the eyes, the only corruption in the manual a physician can diagnose by looking* |
+| **Biology** *and anatomy* | **Healing eats mass, and the mass comes from the patient, the caster, or something the caster brought**, *and a healer who will not say which is a healer who is lying.* **Cannot restore what has lost its pattern;** the dead stay dead, and the attempt to argue with that is Limina's crime, not this House's | **Memory and metabolic debt.** *A Vitalia healer at the end of a long campaign is a man who can name every wound he closed and not the wife he closed them to get home to* |
+| **Fluid** *and pressure* | **Cannot act without a medium**: deep vaults, sealed reliquaries and the dry Undaar deeps are deliberately hostile ground. **Cannot hold a boundary indefinitely, because fluids want to mix and the working is always spending Essence to disagree** | **Dissolution of boundaries, and it is the eeriest corruption in the register.** *The tell is grammatical and should be written that way: an adept who has gone too far starts saying* we *about himself, without noticing, and gets irritated when corrected* |
+| **Entropy, Void, Mind** | **Cannot create. Every working of this kind is subtractive and there are no exceptions**, *the single most useful clarifying sentence in the manual.* Cannot act on what has no pattern, **so raw undifferentiated matter is nearly immune and a rock is a better Limina shield than a ward** | **Existential erosion, and it is reflexive: the practitioner pays in the same currency he spends.** *A man who erases memory loses memory. A man who nulls loses the ability to feel Aether at all in a widening radius around his own skin* |
 
 > **Standing prohibition.** *Chronokinesis is Forbidden beyond Stage X. Chronoturgy is Forbidden outright.*
 >
@@ -268,7 +268,7 @@ The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Att
 
 **III · Make the golden age real, lost, and officially denied.** **The best inscriptions in the world are all old. Some of them cannot be read. The Accord's published position is that this is not the case.**
 
-**IV · Make the taxonomy political.** The categories and the Families (the eight houses of magic, each sorted by the physics it works) are **an Accord publication before they are a law of physics.** *Documents serve the people who publish them. Somebody's trade was reclassified as Mechanica on grounds that were political before they were metaphysical.*
+**IV · Make the filing political.** The Forms, and every older sorting of magic before them, are **an Accord publication before they are a law of physics.** *Documents serve the people who publish them. Somebody's trade was reclassified as Mechanica on grounds that were political before they were metaphysical.*
 
 **V · Move cost from the ledger to the page.** EU (Essence Units, the measure of a reserve), Flux Density (how densely Essence packs into the Crystal) and η (efficiency, the share of spent power that does its work) remain author-facing and unchanged, and even a person's own window (the soul reporting its numbers to its owner, unseen by anyone else) shows only Grades, percentages, bars and levels. **What a reader sees is the Cost Wheel: the years, the memory, the sanction, the debt, the man who knows what you bought.**
 

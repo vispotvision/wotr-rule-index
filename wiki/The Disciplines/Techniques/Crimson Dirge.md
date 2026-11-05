@@ -6,7 +6,7 @@ title: The Six Red Verses
 
 *Crimson Dirge is the scholars' term, and what people once called it before anyone who heard it wished to discuss it.*
 
-## THE SIX RED VERSES (Crimson Dirge) (Harmonia, Stage XIV)
+## THE SIX RED VERSES (Crimson Dirge) (Sing, Stage XIV)
 
 The Confessors of Harl's Abbey kept the longest queue in the Vale, four hundred souls a day down the white steps with a coin and a sin, and the abbey had built its gilded roof on them. Then one harvest somebody on the far hill sang for thirty-six seconds in a voice every person for a kilometer around could hear. In the third verse the river froze all at once, in one long crack, with the carp hanging in it like a jeweler's display. In the fourth verse the abbey's bell tower came apart along every old flaw the masons had ever patched. In the fifth, the queue on the white steps looked up, cheerful and pink-faced, and could not recall why they had come. The Abbot sat in his empty booth for a year, and the roof went unpaid.
 
@@ -22,9 +22,9 @@ THE VERDICT LINE! Judicium names which process the next verse takes, and confirm
 
 Six verses in six turns, thirty-six seconds, and the art counts itself by them. Each verse removes one nameable step from a process, and the same law, left to itself, delivers the opposite result. Skip steel's tempering reheat and it cracks along its own thermal gradients, which is quench cracking. Seed a supercooled liquid and it crystallizes all at once. The laws at work: latent heat at a phase boundary is released on nucleation, the first seed of the new phase, and toughness in the quench-temper cycle is set by the reheat interval and has little to do with the quench. No law is edited and none runs backward; Core Laws stay inviolable, and only one interval can be removed from one process at a time. The joules are the field's own stored loads, thermal, emotional and structural. A seed costs nothing, and the kilometer is reach and no part of supply.
 
-The glyphs are Command (Irath) across Hour (Valen), since the interval is what the verse removes, carried on Frequency (Selhar); the Category is Harmonia. The boundary is one interval per verse: the tempering interval in Exuroth's cycle or the nucleation delay in Catharsis's supercooling. Singing comes first, from far off, then the named process stops behaving. The burn follows the target's own stress lines and the stripping is total. The verse picks the effect and never a target, so no defense helps and there is only leaving. Only one Wellspring's law may be overridden per verse, one process, never two inverted Wellsprings at once, which alone keeps the area from being unconditionally lethal. Zenith needs no anchor, but the hymn is sung, the loudest declaration there is, and a failed sung working dissipates with its committed Essence lost. Latin remains the chant's standing texture.
+The glyphs are Command (Irath) across Hour (Valen), since the interval is what the verse removes, carried on Frequency (Selhar). The boundary is one interval per verse: the tempering interval in Exuroth's cycle or the nucleation delay in Catharsis's supercooling. Singing comes first, from far off, then the named process stops behaving. The burn follows the target's own stress lines and the stripping is total. The verse picks the effect and never a target, so no defense helps and there is only leaving. Only one Wellspring's law may be overridden per verse, one process, never two inverted Wellsprings at once, which alone keeps the area from being unconditionally lethal. Zenith needs no anchor, but the hymn is sung, the loudest declaration there is, and a failed sung working dissipates with its committed Essence lost. Latin remains the chant's standing texture.
 
-The pull spans four billion cubic meters. The residue is the heaviest there is: stone cracked along old stress lines, flash-frozen water, people with gaps where their guilt was, and ground where Harmonists (those who read a place by ear) stay deaf a long time. Judicium, the Wellspring of Truth (Fulguria), is the verdict layer. Exuroth, the Trial Flame (Caloria), says repeated thermal shock then controlled recovery tempers the lattice harder than slow cooling could, and the verse turns its ordeal into a fire with nothing to survive into. Catharsis, the Wellspring of Release (Caloria), spends emotional load on a change of state in the soul, has no output to speak of and no fire to give, and left to itself would touch nothing but the people in the field; the verse seeds it, and the guilt comes off them all at once. The river freezes because Exuroth's quench is running under the same hymn, and the seed gives it something to act on. Fulguria wants dry air, conductive ground and clear sight. Caloria wants steep thermal gradients, combustible air and geothermal ground, and fails in thermal equilibrium, saturated cold and oxygen-poor air. The Dirge is built from two failures delivered on purpose, Exuroth's quench cracking and Catharsis's supercooling, with Judicium's riding along where they can be induced.
+The pull spans four billion cubic meters. The residue is the heaviest there is: stone cracked along old stress lines, flash-frozen water, people with gaps where their guilt was, and ground where Harmonists (those who read a place by ear) stay deaf a long time. Judicium, the Wellspring of Truth (Wild), is the verdict layer. Exuroth, the Trial Flame (Wild), says repeated thermal shock then controlled recovery tempers the lattice harder than slow cooling could, and the verse turns its ordeal into a fire with nothing to survive into. Catharsis, the Wellspring of Release (Spirit), spends emotional load on a change of state in the soul, has no output to speak of and no fire to give, and left to itself would touch nothing but the people in the field; the verse seeds it, and the guilt comes off them all at once. The river freezes because Exuroth's quench is running under the same hymn, and the seed gives it something to act on. Judicium wants dry air, conductive ground and clear sight. Exuroth wants steep thermal gradients, combustible air and geothermal ground, and fails in thermal equilibrium, saturated cold and oxygen-poor air; Catharsis pools in bathhouses, hot springs and confessionals, and thins in barracks and courts. The Dirge is built from two failures delivered on purpose, Exuroth's quench cracking and Catharsis's supercooling, with Judicium's riding along where they can be induced.
 
 A kilometer field at Zenith for six turns is a saturation candidate by scale alone, and past the threshold it ends in Crystal Fracture Events in everyone inside, the singer included. The Essence Core pays directly, emotional charge as fuel and memory as price, courting Fracture into Shards, while the Attraction Layer carries recognition across the field. Developmental Tier Crystallized Soul. The named failure is a coherence fault: guilt as fuel and memory as price destroy the record the singer's stated law rests on, so each verse makes the next less honest, until output degrades and Traits argue with their bearer. The hymn makes no distinction between the field's memory and the singer's. At η above one the singer sheds nothing and the room pays the surplus, up to 6.7 TW, and stays thin; below one, up to 5 percent leaves as heat at the Shell and sound across the field.
 
@@ -38,21 +38,21 @@ Short of the Fate Path's high gates the verse's Dominion Fate is capped at S and
 
 ### Codex line
 
-**Wellspring** · Judicium (primary, the hymn's verdict layer) · Exuroth, Catharsis (secondary, the hymn's purifying and releasing layers)
+**Path** · Spirit and Fate. The Essence Core pays and the hymn works on what a process means; the Attraction Layer carries recognition across the field.
 
-**Family** · Fulguria (Judicium) · Caloria (Exuroth, Catharsis)
+**Lens** · Judicium (Wild, primary) · Exuroth (Wild), Catharsis (Spirit), secondary.
 
-**Physics Domain** · Electromagnetism (Judicium) · Thermodynamics (Exuroth, Catharsis)
+**Form** · Sing. Held for as long as it is sung.
 
-**Category** · Harmonia (Spirit ↔ Attraction: tone and resonant frequency tuning or destabilizing Wellsprings, Traits, and Domains)
+**Gates** · Short of the Fate Path's high gates, the verse's Dominion Fate is capped at S and Command at SS: it takes processes a lesser authority holds, and has no standing against a Void-law seal or an Archonic decree.
 
-**Skill** · Chanting, held for as long as it is sung; Latin remains the standing texture for chant-based workings
+**Glyph** · Command across Hour, carried on Frequency. What a thing is taken to be: the interval a named process is owed, one per verse. A Fate term rides on it only as far as the capped Dominion Fate reaches.
 
-**Stage floor** · XIV, Zenith
+**Skill** · Chanting, held for as long as it is sung; Latin remains the standing texture for chant-based workings.
 
-**Grade required** · EX-Grade
+**Stage floor** · XIV, Zenith.
 
-**Path gate** · Spirit (primary), Fate (secondary)
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ Short of the Fate Path's high gates the verse's Dominion Fate is capped at S and
 **Stage floor** · XIV, Zenith
 
 **Grade required** · EX-Grade
-
-**Path gate** · Spirit (primary), Fate (secondary)
 
 **Resonant Pair · None.**
 
@@ -78,7 +76,7 @@ No inventor, teacher, or originating problem is known for the hymn, and its cast
 
 **Fails against** · Empathy-aligned resonance, which mismatches the tone and causes Echo Fracture before a verse resolves; a closed throat, a wounded singer or numbers; wasted verses, each spending memory; fog, cold or Aether-dead ground.
 
-**Look up** · Judicium, Exuroth and Catharsis failures; the Fulguria and Caloria terrain; Echo Fracture under Harmonia; Aetheric Saturation; Void-law seals and Archonic decrees; the Zenith Stage table and the EX Grade row.
+**Look up** · Judicium, Exuroth and Catharsis failures; the Ground of Judicium and Exuroth on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]] and Catharsis on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]]; Echo Fracture under Harmonia; Aetheric Saturation; Void-law seals and Archonic decrees; the Zenith Stage table and the EX Grade row.
 
 ## Numbers
 
@@ -94,8 +92,6 @@ No inventor, teacher, or originating problem is known for the hymn, and its cast
 ### Essence
 
 **Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.20; EX (1,201 to 1,500) on the Spirit Path.
-
-**Caps** · Short of the Fate Path's high gates, the verse's Dominion Fate is capped at S and Command at SS: it takes processes a lesser authority holds, and has no standing against a Void-law seal or an Archonic decree.
 
 | Quantity | Working | Result |
 |---|---|---|

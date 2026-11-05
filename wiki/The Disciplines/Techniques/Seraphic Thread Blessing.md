@@ -4,7 +4,7 @@ title: "Hold Still, You Idiot"
 
 # HOLD STILL, YOU IDIOT
 
-*Speaking (Ars Vocis, the declared voice), Harmonia, Stage V. The scholars' term is the Seraphic Thread Blessing. The other name comes from what every battlefield practitioner of it is actually heard to say.*
+*Speaking (Ars Vocis, the declared voice), Bind, Stage V. The scholars' term is the Seraphic Thread Blessing. The other name comes from what every battlefield practitioner of it is actually heard to say.*
 
 Goody Trevick of the Penny Ford levies worked the whole of that hot red afternoon on her knees in the trampled barley, with a gold thread running from her palm into man after man, calling each of them something unrepeatable. Sixty-one patients. By sundown she was limping on a leg nobody had touched, cradling an arm nobody had broken, and weeping for a boy from Hexley she had never met. The Sympathetic Chirurgeons pitched their tent across the ford and spent the same afternoon salving the swords, and their feud with the Trevick family has outlasted three kings and one bridge.
 
@@ -18,13 +18,13 @@ Goody Trevick of the Penny Ford levies worked the whole of that hot red afternoo
 
 ### How it really works
 
-A spoken word, a palm, one harp-string chime as the bond seats. Below Refraction the art has two anchors, the voice that declares it and the hand the filament leaves from. Whatever the roll calls it, the filament is no thread of Fate. Nobody at Splintering can hold one of those, and nobody who could would pull down sixty-one in an afternoon. It is a bond between two souls, spun on a small pull of Aether across 15 m and given its weight in the shallow water of the Plane of Fate, where a promise counts for something. Vitalia (the Family of living things) is favored by living biomass, temperate air and blood, and Fulguria by dry air and clear sight, so a battlefield is better ground than a cold, clean infirmary. Warmth spreads from the deepest point outward, and pain goes before the wound does.
+A spoken word, a palm, one harp-string chime as the bond seats. Below Refraction the art has two anchors, the voice that declares it and the hand the filament leaves from. Whatever the roll calls it, the filament is no thread of Fate. Nobody at Splintering can hold one of those, and nobody who could would pull down sixty-one in an afternoon. It is a bond between two souls, spun on a small pull of Aether across 15 m and given its weight in the shallow water of the Plane of Fate, where a promise counts for something. Benediction pools in wedding groves, oath trees and hospices and thins on sterile ground, and Luminalis wants dry air and clear sight, so a field full of sworn men is better ground than a cold, clean infirmary. Warmth spreads from the deepest point outward, and pain goes before the wound does.
 
 The physics is wound healing under extreme time compression: a filament crosses from caster to patient, and three days of tissue repair happen in six seconds on the patient's own chemistry. The law is energy balance with a heat ceiling on the waste. Repair is cheap (about 180 J per gram of new tissue), but waste heat lands in the wound bed, which has lost the blood flow that would carry it off. A 20 g wound bed takes about 430 J before protein damage starts at 43 °C (60 °C coagulates collagen), so each cast buys about 4 g of tissue: a closed cut, a sealed vessel, never a fatal wound or a severe Crystal fracture. Four grams lie true, and that is the whole of a cast. Spending more widens the bond and cooks the wound, because the reserve pays for the Axis and the tissue is the patient's.
 
-The look comes from Luminalis (Fulguria), which extends perception past the visible band and polarizes the Shell. In plain words it is seeing inside: near-infrared at 650 to 950 nm sees 1 to 3 cm into tissue, and polarized light tells new collagen from old, so the wound's true shape is found before closing. The bond comes from Benediction (Vitalia): a biological bond's strength is a measurable quantity, and Benediction gives bonds on the Plane of Fate the same weight, so an oath sworn under it has an affinity figure. Its analogue is binding strength, K*d = k*off/k_on. A bond is only statistically present, and a vow's durability is its off-rate, from minutes to days across bonds that look alike.
+The look comes from Luminalis (Medium), which extends perception past the visible band and polarizes the Shell. In plain words it is seeing inside: near-infrared at 650 to 950 nm sees 1 to 3 cm into tissue, and polarized light tells new collagen from old, so the wound's true shape is found before closing. The bond comes from Benediction (Fate): a biological bond's strength is a measurable quantity, and Benediction gives bonds on the Plane of Fate the same weight, so an oath sworn under it has an affinity figure. Its analogue is binding strength, K*d = k*off/k_on. A bond is only statistically present, and a vow's durability is its off-rate, from minutes to days across bonds that look alike.
 
-The glyph is Binding, the establishment of a conductive relation with a stated affinity, and the renewal itself is the patient's. The boundary condition is the rate ceiling: repair's chemical timers are authorized to run out of sequence, and the patient's cells, ATP and amino acids do the work.
+The glyph is Binding, the establishment of a conductive relation with a stated affinity, and the renewal itself is the patient's. By the scholars' account the boundary condition is the rate ceiling: repair's chemical timers are authorized to run out of sequence, and the patient's cells, ATP and amino acids do the work.
 
 The danger is being outbid. A competitor raises the apparent K*d to K*d(1 + [I]/K_i); nothing breaks and nothing signals, the thread is simply elsewhere when called. That is Benediction's competitive inhibition, a silent displacement, and the Coherence fault: the caster believes the blessing holds while it holds a vacancy. Luminalis hands down birefringence, splitting a layered working out of phase with itself, and the Boundary fault follows: layered with a second working, it lays collagen twice along two slightly different geometries. It never reaches the caster, because it runs on a Spirit Axis, a bond with another soul, and there is no Axis from a soul to itself.
 
@@ -33,7 +33,7 @@ The Aether Shell is worked and the ally's channels run cleaner afterward, with t
 The Sympathetic Chirurgeons treat the weapon to heal the wound at a distance. The bond is real but runs between souls, and a treated blade cannot be outbid, so they never see the failure that ends a thread.
 
 **Cost.** One percent of reserve a cast, and she wears the patient's injury as a mild, lingering emotional drain until his Crystal settles.  
-**Counter.** A Limina curse severs the thread, Oblivara's erasure glyphs unmake its anchor, and a stronger bond silently outbids it.
+**Counter.** A curse severs the thread, Oblivara's erasure glyphs unmake its anchor, and a stronger bond silently outbids it.
 
 **What nobody knows.** Why the Plane of Fate answers a plea made on someone else's behalf faster than it answers the same plea made for the caster's own wound.
 
@@ -43,11 +43,11 @@ The Sympathetic Chirurgeons treat the weapon to heal the wound at a distance. Th
 
 **Limits** · 15 m with clear sight; about 4 g a cast; no fatal wounds or severe Crystal fractures; never the caster; no higher than B.
 
-**Fails against** · A covered mouth or a broken wrist; a stronger ligand outbidding the bond; the vow's own terms; fog, smoke or shielding, which blinds the look; a cold, sterile, shielded room; a Limina curse or Oblivara's erasure glyphs, which sever it. A body standing between them does nothing.
+**Fails against** · A covered mouth or a broken wrist; a stronger ligand outbidding the bond; the vow's own terms; fog, smoke or shielding, which blinds the look; a cold, sterile, shielded room; a curse or Oblivara's erasure glyphs, which sever it. A body standing between them does nothing.
 
 **Drift** · A healer whose bonds outrun their conduct drifts in Coherence, measured by Resilience Oath. A broken vow is a Shear Break.
 
-**Look up** · The Counterplay register for anchors and Shear Break; the Vitalia and Fulguria terrain entries; Benediction and Luminalis Failures; Oblivara; Resilience Oath; the Splintering Stage table.
+**Look up** · The Counterplay register for anchors and Shear Break; the Ground of Benediction on the [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Fate page]] and Luminalis on the [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Medium page]]; Benediction and Luminalis Failures; Oblivara; Resilience Oath; the Splintering Stage table.
 
 ### Numbers
 
@@ -73,18 +73,25 @@ The Sympathetic Chirurgeons treat the weapon to heal the wound at a distance. Th
 
 ### Codex line
 
-- **Wellspring** · Benediction (primary), Luminalis (secondary)
-- **Family** · Vitalia (Benediction); Fulguria (Luminalis)
-- **Physics Domain** · Biochemistry (Vitalia); Electromagnetism (Fulguria)
-- **Category** · Harmonia
-- **Skill** · Speaking (*Ars Vocis*; the working is declared aloud)
-- **Stage floor** · Stage V, Splintering
-- **Grade required** · B-Grade
-- **Path gate** · Spirit, Fate
+**Path** · Spirit and Fate. Bond and reading work on the soul, in the shallow water of Fate where a promise counts for something, and the filament is no thread of Fate.
+
+**Lens** · Benediction (Fate, primary) · Luminalis (Medium, secondary).
+
+**Form** · Bind. A filament from palm to chest, within 15 m.
+
+**Gates** · None past the Path's ordinary gates.
+
+**Glyph** · Binding. A term on the bond: repair may run out of its usual sequence while the stated affinity stands. The cells, ATP and amino acids are the patient's, and the renewal itself is theirs.
+
+**Skill** · Speaking (*Ars Vocis*; the working is declared aloud).
+
+**Stage floor** · Stage V, Splintering.
+
+**Grade required** · B-Grade.
 
 ### FOW line
 
-Governing Primary: Harmonics, off Benediction's own strengthened line (Harmonics Empathy, Harmonics Axis), with Resilience Oath carried alongside for the bond's structural weight and Luminalis's Gnosis Perception lending the working its diagnostic accuracy. Stage floor Stage V, Splintering. Grade required B-Grade. Path gate Spirit and Fate. Resonant Pair: none.
+Governing Primary: Harmonics, off Benediction's own strengthened line (Harmonics Empathy, Harmonics Axis), with Resilience Oath carried alongside for the bond's structural weight and Luminalis's Gnosis Perception lending the working its diagnostic accuracy. Stage floor Stage V, Splintering. Grade required B-Grade. Resonant Pair: none.
 
 ### Origin
 

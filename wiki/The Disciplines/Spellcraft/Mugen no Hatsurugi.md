@@ -2,7 +2,7 @@
 title: The Infinite First Blade
 ---
 
-# THE INFINITE FIRST BLADE (無限の初剣 · Mugen no Hatsurugi) (Mnemata, with Vectra for the delivery)
+# THE INFINITE FIRST BLADE (無限の初剣 · Mugen no Hatsurugi) (Make, delivered as a blow)
 
 *Scholars' term: Mugen no Hatsurugi. The art is bodily speaking, and lives on this shelf by old filing.*
 
@@ -22,7 +22,7 @@ A seed dropped into a supersaturated solution makes the solute deposit as the se
 
 The weapon has no tell. The practitioner has an enormous one: a beacon of coherent light with a judgment field felt as pressure in bone and stance. There is one sharp pull per arrival and no sustain, Aether refined in the Soul Crystal into Essence and resolved at his own body with no chain to interrupt and no anchor. Twenty to 30 percent of each arrival leaves the Shell (the Crystal's outer skin) as heat, sound and light, 16 percent at a Refined η 0.84 (η is the share of a spend that arrives as work), and at tempo it is continuous and Aurevane makes it a beacon. Each arrival ratifies itself into the record, so the Residue (what a working leaves behind) is documentary as well as ambient, every arrival counted, and a field worked at tempo deafens Harmonists (listeners to Aether).
 
-Six Wellsprings make one armory. Materia Primordia, the First Substance (Materia): graphite and diamond are one element arranged differently, and the Crystal re-lattices its own Essence into an armory. Anamnesis, the Wellspring of Remembrance (Limina), reads the practitioner's combat history as a causal ledger and ratifies each claim. Fixatio, the Binding Flame (Materia), is the lawful coordinate on the practitioner's body that the template resolves into. Coagulatio, the Returning Stone (Materia), gathers dispersed Essence into the dense, supersaturated phase the seed crashes out of. Monolithion, the Enduring Monument (Materia), grows the blade as a single crystal with no grain boundaries. Aurevane, the Wellspring of Light (Fulguria): coherent light holds one phase across its front, and it names the arrival as a designated, weighted thing. The glyph is Form, for the template, laid under Return, for the ledger: a holding lawfully held once comes back. The boundary is the nucleation barrier for one lattice at one coordinate, which drops to nearly nothing for the one template Anamnesis has ratified. The Essence Core supplies the substance and holds the ledger, the Shell is the coordinate, and the Attraction Layer adjudicates lawfulness. Developmental Tier is Sovereign at Realization, settling Refined after years of lawful use.
+Six Wellsprings make one armory. Materia Primordia, the First Substance (Wild): graphite and diamond are one element arranged differently, and the Crystal re-lattices its own Essence into an armory. Anamnesis, the Wellspring of Remembrance (Medium), reads the practitioner's combat history as a causal ledger and ratifies each claim. Fixatio, the Binding Flame (Medium), is the lawful coordinate on the practitioner's body that the template resolves into. Coagulatio, the Returning Stone (Wild), gathers dispersed Essence into the dense, supersaturated phase the seed crashes out of. Monolithion, the Enduring Monument (Wild), grows the blade as a single crystal with no grain boundaries. Aurevane, the Wellspring of Light (Medium): coherent light holds one phase across its front, and it names the arrival as a designated, weighted thing. The glyph is Form, for the template, laid under Return, for the ledger: a holding lawfully held once comes back. The boundary is the nucleation barrier for one lattice at one coordinate, which drops to nearly nothing for the one template Anamnesis has ratified. The Essence Core supplies the substance and holds the ledger, the Shell is the coordinate, and the Attraction Layer adjudicates lawfulness. Developmental Tier is Sovereign at Realization, settling Refined after years of lawful use.
 
 The weapon is in hand with no transition, as though always held, and opponents must process it as already there. Against a line it is a new correct answer every few strides. A Domain enforcing a single discipline must answer each named blade with its own clause, and a narrow Domain runs out of clauses by the seventh while the bearer is still naming the eighth. Only lawfully held weapons may arrive, ones held, named, inherited or correctly defeated, built across a lifetime; stolen, cosmetic or dishonest holdings are refused at the doctrinal level and are never delivered badly. The floor is Realization, because the blade must be ratified at SS weight, and below it the forge makes shapes and no verdicts. The blade in hand is a weapon and no working, costing nothing further, and the blow itself is graded off the practitioner's own Sub-Stats. It is melee-dominant, with shock-lines to about 70 m.
 
@@ -36,8 +36,6 @@ The failure is no precedent: an exchange the ledger has never met gets an empty 
 ## Numbers
 
 **Practitioner** · Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, SS-Grade (551 to 725); Body Path primary, Fate secondary.
-
-**Paths** · Gravity needs the Fate Path at Splintering to pass A, or blades arrive at A weight.
 
 **Retention** · Needs the Spirit Path at Welling to pass D and at Glory to pass A; off it the loaded count caps at A and each further blade is a fresh, risky read.
 
@@ -69,13 +67,15 @@ The failure is no precedent: an exchange the ledger has never met gets an empty 
 
 ### Codex line
 
-**Wellspring** · Fixatio (primary), Materia Primordia, Coagulatio, Anamnesis, Aurevane, Monolithion.
+**Path** · Body. Carried in the body and delivered as a blow. The Essence Core supplies the substance and holds the ledger, and the Shell is the coordinate.
 
-**Family** · Materia (Fixatio, Materia Primordia, Coagulatio, Monolithion), with Limina (Anamnesis) and Fulguria (Aurevane) as secondary currents.
+**Lens** · Fixatio (Medium, primary) · Materia Primordia, Coagulatio, Monolithion (Wild), Anamnesis, Aurevane (Medium).
 
-**Physics Domain** · Material Science, primary.
+**Form** · Make. A weapon that has always been in the hand.
 
-**Category** · Mnemata primary (Anamnesis's natural partner category, memory and historical-imprint law given a working body), Vectra secondary for the delivery itself.
+**Gates** · Gravity needs the Fate Path at Splintering to pass A, or blades arrive at A weight.
+
+**Glyph** · Form under Return. A physical limit: the barrier to one lattice at one coordinate, dropped to nearly nothing for the one template the ledger ratifies.
 
 **Skill** · Bodily speaking. The projection is carried in the body rather than said aloud, written, or poured, and it holds while the body does.
 
@@ -83,19 +83,15 @@ The failure is no precedent: an exchange the ledger has never met gets an empty 
 
 **Grade required** · SS-Grade, the ceiling Stage X permits.
 
-**Path gate** · Body Path, primary, matching its bearer's 60% Body weighting.
-
 ### FOW line
 
-**Governing Primary** · Dominion (Gravity, from the Materia cluster) and Gnosis (Analysis and Retention, from Anamnesis and Aurevane's Perception).
+**Governing Primary** · Dominion (Gravity) and Gnosis (Analysis and Retention, from Anamnesis and Aurevane's Perception).
 
 **Sub-Stats** · Dominion Gravity, Gnosis Analysis, Gnosis Retention, Resilience Anchoring.
 
 **Stage floor** · Stage X, Realization.
 
 **Grade required** · SS-Grade.
-
-**Path gate** · Body Path, primary; Fate Path, secondary, consistent with its bearer's 25% Fate weighting.
 
 **Resonant Pair** · None.
 

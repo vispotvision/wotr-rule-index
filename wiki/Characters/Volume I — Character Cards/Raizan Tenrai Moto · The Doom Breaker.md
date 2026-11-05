@@ -5,7 +5,7 @@
 **Raizan Tenrai Moto** · The Doom Breaker · Moto, Tenrai line · as of the present reckoning, eleven years after the corridor
 **Stat line** · Level 276 · Band III, Sovereign · Stage IX, Invocation · Path Spirit 50% / Fate 30% / Body 20% · Master · η 0.96 · Class unnamed · Aether II · Essence V · Thread IV · Crystal Sovereign, Refined
 **Combat grammar** · Blade
-**Aura and sound** · Limina at Invocation's clarity, a bright black-violet so faint at rest that it reads as the shadow of something else, with Oneirion's dream-lavender at its edges when he reads; sound: none, which is the sound people remember
+**Aura and sound** · Tenebra at Invocation's clarity, a bright black-violet so faint at rest that it reads as the shadow of something else, with Oneirion's dream-lavender at its edges when he reads; sound: none, which is the sound people remember
 **Stack** · sustainable S in Finesse, Forecast, Feint and Perception · cap +2 Grades · layers: KAMIKAKUSHI or HITSUZEN when called
 **Releases** · KAMIKAKUSHI (First Release) / HITSUZEN (Second Release) · bonded weapon: the Last Thread, a needle-blade
 **Traits** · THE BLINK (Primary) · tell: a whole room blinking at once · counter: many eyes, or none / DOOM-BREAKING (Secondary) · tell: he watches a man for a full minute, without blinking himself · counter: be unpredictable, or stand under a stronger eye / TENGAN (Inherited) · tell: spokes in the iris · counter: a ward that returns the read / HUSH (Passive) · tell: dogs do not bark · counter: one angle he did not plan for
@@ -48,9 +48,9 @@
 
 ## III. Wellspring Harmonizations
 
-**Tenebra** · the Hidden Shadow · Limina · Depth: deep · his return falls below the noise floor of anything looking for him: absorbed where it would reflect, faceted away where it would return; he is quieter than the room he stands in, until he is seen from the one angle he did not plan for
-**Oneirion** · the Wellspring of Dream · Limina · Depth: held · a man's possible arrangements as a point in a space with no location; the Tenrai doom-sight works on that manifold, and so does the Doom Breaker's hand
-**Ignivale** · the Wellspring of the Spark · Caloria · Depth: held · the barrier between intent and act brought down to the limit of the nerves; his strike arrives before the target has finished seeing it begin
+**Tenebra** · the Hidden Shadow · Wild · Depth: deep · his return falls below the noise floor of anything looking for him: absorbed where it would reflect, faceted away where it would return; he is quieter than the room he stands in, until he is seen from the one angle he did not plan for
+**Oneirion** · the Wellspring of Dream · Spirit · Depth: held · a man's possible arrangements as a point in a space with no location; the Tenrai doom-sight works on that manifold, and so does the Doom Breaker's hand
+**Ignivale** · the Wellspring of the Spark · Wild · Depth: held · the barrier between intent and act brought down to the limit of the nerves; his strike arrives before the target has finished seeing it begin
 
 ## IV. Primary Stats
 

@@ -32,6 +32,7 @@ An entry describes a line, and the animal in front of you has been eating. The H
 | **Type** | Spirit Beast · Draconic Lineage · Natural Beast · Aberration · Undying · Construct · Divine or Archonic Beast · Elemental · Well-spawn · Hybrid · Scourge-born, filed with the Natural Beasts **under protest** |
 | **Origin** | Which Age, which Wellspring convergence, and **which Archon or Titan is credited**, credit being a matter of tradition rather than record in most cases |
 | **Essence Affinity** | The Wellspring the creature runs on (one of the sixty alchemical and spiritual transformations, the governing idea that shapes how a soul uses Aether, a source of power to pull from, and a type of Aether as well). **This is the operative field.** Everything the thing can do and every way it can be beaten follows from it |
+| **Leans on** | The layer of the soul its power runs through, read from its Affinity's kind: a Wild Affinity leans on the Aether Shell and the flesh, a Spirit Affinity on the Essence Core, a Fate Affinity on the Attraction Layer, and a Medium one on whichever the line has grown into. **This tells you who to bring**, and the entries say so road by road |
 | **Realm Affiliation** | Where it is native and where it has been recorded straying |
 | **Danger Tier** | T1 through T9, **on the same scale as the Commission threat tiers.** A T7 requires a Gold Sigil to lawfully engage |
 | **Weaknesses** | Recorded in the same detail as the abilities. **This is what separates a bestiary from a bestiary of rumors** |
@@ -80,11 +81,42 @@ An entry describes a line, and the animal in front of you has been eating. The H
 [Reserve: 41%]
 ```
 
+The last line is the one to read, because an ordinary wolf has no reserve to report. It has a sealed Shell and a stone. By her last autumn Aunt Teeth had cracked hers, and had something to spend.
+
 **They are worth money.** A monster's core is in a way its Soul Crystal, worth more the stronger the monster, and an alchemist renders it into Essence Drafts for tempering. Its parts make gear. The rows and prices are in [[Materials, Alchemy & Trade/Materials/Hide, Horn and Bone|Hide, Horn and Bone]], and the Drafts in [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]].
 
 **Many come from below.** A dungeon grows down in floors around a Core (a site where one Wellspring's Aether pools) with something guarding the heart, and it is alive and learning, and most of what this register lists either came out of one or is on its way back in. See [[The Bestiary/Dungeons|Dungeons]].
 
 **The Scourge-born are the register's standing embarrassment.** The great herds of the Scourge of Hell breed true and wear no masks, which the register's own rules say should not happen, since an animal warped by dense ground is supposed to come out short-lived and sterile. They have been at it so long that they stopped being warped and became a kind of animal. The **Lid-crawler**, the **Haze-kite**, the **Stilt** and the **Greywalker** are filed with the Natural Beasts, under protest, and above a certain size each holds a range and treats you as its own until you leave or die.
+
+---
+
+## What Has a Soul
+
+*The physicians' question, which hunters ask with a spear in their hands. Every soul has three layers: the **Aether Shell**, where Aether (mana) comes in and Essence (spiritual energy) goes out; the **Essence Core**, the seat of what a thing is; and the **Attraction Layer**, its share of fate. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] gives the long account. What differs across this register is how much of each is working.*
+
+| What it is | Aether Shell | Essence Core | Attraction Layer | What follows |
+|---|---|---|---|---|
+| **The unwoken** (a baker, a porter) | Sealed. Waking cracks it, and most never wake | Awake, holding a trickle of Essence it cannot spend | A small share, enough to swear on | A window with a Level and a few trade skills, and no workings. Pressure falls on them by the Aura table. A Draft reaches them through the Core |
+| **A beast** (born of a mother, not yet much of anything) | Sealed | Awake. What comes in from the ground and its kills has nowhere to go, so it bands up as the stone | Thin, holding a mate, a pack or a range and little else | No aura and no reserve. What a saturated line does is passive, and leaks through the seal: a cold, a dread, a glow in a mane |
+| **A monster** (a beast that has climbed) | **Cracked**, by an evolution or a Level threshold, and a small vent on a great store | Banded and old, with a stone worth cutting out | Thin, thickening where the line runs on a Fate Wellspring | An aura, a named howl, a Reserve line on the window. This is the difference between the wolf and Aunt Teeth |
+| **Well-spawn** | Sealed in the shallow lines, cracked in the deep ones | Flooded with the Well's Aether until the line lives by the Well's law, and it carries a stone | Thin, until the Deeps, where a line gathers a mind out of what the Well remembers | The mask stands where a glyph would and holds the law in place. Break it. See [[The Bestiary/The Corrupted and the Risen/Well-spawn|Well-spawn]] |
+| **A Spirit Beast** | Whatever it has grown to keep a body, often little, and sometimes no body at all | Whole. It was formed from a Wellspring's resonance and it began here, with a mind and a memory | Whole enough to bargain, bond and bless | A hitter can kill what it is wearing and has then told it to leave. Its stone, where there is one, is seldom worth the valley's opinion |
+| **A Divine or Archonic beast** | Genuine and very clean, carrying far more than any practitioner's | Genuine, and often a single function where a person has a biography | Genuine, and bonded to a place, a route or an office | Graded exactly as a person is. These are the ones that answer a summons on their own terms |
+| **A Celestial** | Whole, folded out of the Lawbell's resonance with no upbringing behind it | Whole, carrying what its function requires and, in the young ones, very little else | **Externally anchored**, tied to the Throne-network in place of a share of its own | Administration made flesh. See [[Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host|The Celestial Host]] |
+
+## Who to Bring
+
+A creature's Leans on line reads the same way a person's Path does, and the three roads beat one another the way [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] says they do. Each entry below gives the short form. Stage, ground and preparation decide which of it holds on the day.
+
+| It leans on | Bring | Why | What goes wrong |
+|---|---|---|---|
+| **The Shell** (a Wild Affinity: matter, force, heat) | A **Spirit** hand, or a **Fate** hand with time to set | Spirit goes past hide and plate, since Durability does not cover a soul. Fate moves what its charge depends on (the footing, the pack's timing, the wind), so the blow never arrives. A **Body** fighter meets it at its own strength and needs to be the stronger | Spirit dies out of position, and a Wild thing's whole idea is to close. Fate cannot move a sound avalanche, and some of these are sound |
+| **The Core** (a Spirit Affinity: meaning, memory, mind) | A **Body** fighter if it has a body, because a spear does not care what it means. A **Fate** hand, because a thing that survives by being right needs only one spoiled read | If it has no body, a blade has nothing to bite, and only a Spirit hand can reach it | Body fighters walk in without a ward on their own Core. **Spirit** against Core is a straight contest of souls, and it has been doing this longer |
+| **The Layer** (a Fate Affinity: bonds, debts, odds) | A **Body** fighter, for force and soundness: a well-kept harness offers no strap to give. A **Spirit** hand, since every pull is made by a soul and shows on the Core before it lands | Kill the thing the bond runs through and the bond has nothing to pull with | **Fate** against Fate is a contest of weights at about equal cost to both, which is why nobody with a choice does it |
+| **Medium** (at home on all three) | One of each, and read it first | It may answer on any layer, and it usually answers on the one you did not bring | Everything, which is why a Medium site goes to the top of the board |
+
+Set that beside the three old answers below and the register sorts itself. A Sealwright is a Spirit trade (a Writ on the thing's law), a priest is usually a Spirit hand with a congregation behind him, and the long march is a Body answer to ground, open to anybody with boots.
 
 ---
 
@@ -103,6 +135,8 @@ An entry describes a line, and the animal in front of you has been eating. The H
 ---
 
 ## Entries
+
+*Read beside the entries: [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] for what a creature's Affinity is and what ground it hates, [[The Magic System/The Foundations/The Physical Account Two Sets of Books|The Physical Account]] for what a blow is, and [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]] for what a monster's window can tell you.*
 
 Six pages, grouped by Type. **Spirit Beasts** · **The Draconic Lineage** · **Natural Beasts** · **Aberrations** · **The Undying and the Constructs** · **Divine, Archonic and Elemental**.
 - [[The Bestiary/The Wild/Spirit Beasts]]

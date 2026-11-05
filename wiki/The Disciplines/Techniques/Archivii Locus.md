@@ -6,7 +6,7 @@ title: The Sky-Turning Chalk
 
 *On the rolls and in the Collegium it stays Archivii Locus, the scholars' term, and that is what people once called it everywhere.*
 
-## THE SKY-TURNING CHALK (Archivii Locus) (Claustra, Stage VII)
+## THE SKY-TURNING CHALK (Archivii Locus) (Write, Stage VII)
 
 The suit of Thomasin Haybittle, brewer, against the Company of the Yellow Bolt ran eleven years and is still the funniest thing in the Assize rolls of Hallowmere. Two hundred crossbowmen loosed on a woman kneeling in a barley field with her back to them, every bolt curved in the air like a fish turning, and the whole flight came down through the roof of Haybittle's brewhouse a long way to the left, into nine vats of the strong red ale. Haybittle sued the Company for the ale. The Company said the bolts had gone where they were aimed. The court sat for a decade trying to establish who had aimed them.
 
@@ -24,7 +24,7 @@ There is no chalk in it, as any cutting examiner will tell you with some heat, a
 
 The real phenomenon is a Bragg reflector, a regular grid that steers a wave and absorbs none of it, coupled by resonance to the ground. Conservation of momentum and the Bragg condition set the bill: turning a vector through angle θ costs the structure an impulse Δp = 2p·sin(θ/2), and the structure pays that into whatever it is anchored to. The energy of a redirect is small and stays in the incoming attack, because the lattice works as a switch and makes one exit cheaper than the one chosen, so she never matches the attack's joules. The momentum bill is large and the ground pays it. The resonant coupling works only when strongly coupled, κ ≫ √(Γ₁Γ₂), and κ falls roughly as 1/d³.
 
-The law on the Aether side is Transference, the Living Exchange (Spatium): two tuned oscillators near each other exchange energy with no conductor, the coupling falling sharply with distance. Here the practitioner tunes her Attraction Layer (the outer claim a Soul Crystal lays on the world) to the ground. This is the shallow water of the Fate Path, reach and a claim on ground, and no thread of Fate comes down for it; one that did would cost her a great deal more than eight percent. Spatium favors Veil-thin zones, Realmgates and surveyed ground; Warp scarring, contested Domains and unmapped terrain suppress it. The Layer serves as the oscillator, expressed through the Shell (the Crystal's conducting skin). Developmental Tier is Resonant at the floor and Radiant at Transcendence, where territorial durability makes a sixty-meter claim hold well. The Residue is the lattice itself, the most legible residue there is, and it deafens Harmonists (those who read a place by ear) long after. A Locus written on ground near saturation risks a Crystal Fracture Event, a breaking of Crystals, for everyone inside.
+The law on the Aether side is Transference, the Living Exchange (Fate): two tuned oscillators near each other exchange energy with no conductor, the coupling falling sharply with distance. Here the practitioner tunes her Attraction Layer (the outer claim a Soul Crystal lays on the world) to the ground. This is the shallow water of the Fate Path, reach and a claim on ground, and no thread of Fate comes down for it; one that did would cost her a great deal more than eight percent. Transference's Ground favors Veil-thin zones, Realmgates and well-traveled roads; Warp scarring, contested Domains and unmapped terrain suppress it. The Layer serves as the oscillator, expressed through the Shell (the Crystal's conducting skin). Developmental Tier is Resonant at the floor and Radiant at Transcendence, where territorial durability makes a sixty-meter claim hold well. The Residue is the lattice itself, the most legible residue there is, and it deafens Harmonists (those who read a place by ear) long after. A Locus written on ground near saturation risks a Crystal Fracture Event, a breaking of Crystals, for everyone inside.
 
 Friend from foe is sorted by her judgment and attention, and when that slips, allies' bolts and workings bend too. The lattice reads trajectory only, whatever a rival school expected about intent. The Collegium faculty of Causes reads the Locus as pure form on worthless matter and the Debt as the mover unable to walk out of its own form. Under the Consent Doctrine the lattice asks nothing of the current beyond lawful recognition of a boundary, as a river recognizes a channel, which makes the working licensable.
 
@@ -38,14 +38,21 @@ It fails in named ways. Boundary fault: only a finite set of vectors can be pre-
 
 ### Codex line
 
-- **Wellspring** · Transference, The Living Exchange
-- **Family** · Spatium
-- **Physics Domain** · Spatial Geometry
-- **Category** · Claustra
-- **Skill** · Cutting, written in place on the ground and air and held by the inscription
-- **Stage floor** · Stage VII, Refraction
-- **Grade required** · A-Grade (late push toward S-Grade)
-- **Path gate** · Fate
+**Path** · Fate. The Attraction Layer is tuned to the ground and holds the pattern: the shallow water of the Path, reach and a claim, with no thread pulled.
+
+**Lens** · Transference (Fate).
+
+**Form** · Write. A pattern cut in place on ground and air and left to do the work.
+
+**Gates** · Dominion Fate needs Fate Path at Refraction to pass S; off it, the lattice holds against nothing above S-Grade whatever the Stage.
+
+**Glyph** · Passage across Order. A term on the ground: what crosses the line must leave by the channel she wrote, among exits it already had.
+
+**Skill** · Cutting, written in place on the ground and air and held by the inscription.
+
+**Stage floor** · Stage VII, Refraction.
+
+**Grade required** · A-Grade (late push toward S-Grade).
 
 ### FOW line
 
@@ -54,8 +61,6 @@ It fails in named ways. Boundary fault: only a finite set of vectors can be pre-
 **Stage floor** · VII
 
 **Grade required** · A-Grade
-
-**Path gate** · Fate
 
 **Resonant Pair · None.**
 
@@ -71,7 +76,7 @@ Archivii Locus is Serenyra's own self-derived working rather than a documented o
 
 **Fails against** · A writer denied the turn, or a damaged written substrate; attacks along strange lines (underground, mental, straight down a chimney); unmapped or Warp-scarred ground; force above A; the Anchoring Debt, due on the way out.
 
-**Look up** · The Spatium entry for Transference's Failure; Spatium's favored and suppressive ground; the counters for cut workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.
+**Look up** · The entries for Transference's Failure; the Ground of Transference on the [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Fate page]]; the counters for cut workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.
 
 ## Numbers
 
@@ -87,8 +92,6 @@ Archivii Locus is Serenyra's own self-derived working rather than a documented o
 ### Essence
 
 **Practitioner** · Refraction, Expert, A-Grade with a late push toward S (allocation stops at 400, 401 to 475 under strain), reserve 51,800 to 961,000 EU, η 0.60 to 0.70; 0.70 to 0.80 at Master.
-
-**Paths** · Fate: Dominion Fate needs Fate Path at Refraction to pass S; off it, the lattice holds against nothing above S-Grade whatever the Stage.
 
 **Grade** · One full Tier Grade of Gnosis and Tempering above an attacker reads that attacker's vectors without contest.
 

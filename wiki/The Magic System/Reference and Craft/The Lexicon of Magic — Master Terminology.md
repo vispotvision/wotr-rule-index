@@ -21,37 +21,42 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 ---
 
-## VI · Method and discipline
+## VI · Form, lens and discipline
 
-*The Family is the what. The Method is the how. Their intersection is the named discipline, its root taken from the Affinity, the one phenomenon inside the Family, and the suffix places a practitioner before they have finished introducing themselves.*
+*The Wellspring is the what. The Form is the how. Every art states a Path, a Lens, a Form and its Gates, and the card of the person holding it states where they got it. The long account, with Big Maud in it, is [[The Magic System/Reference and Craft/Forms|Forms]].*
 
-| Method | Suffix | What the practitioner is doing |
+| Form | Home | What the hands do |
 |---|---|---|
-| **Manteia** | -mancy | Reading, sensing, perceiving through the phenomenon. Soul Plane. |
-| **Kinesia** | -kinesis | Direct control in real time. Material Plane. The technique is the act. |
-| **Turgia** | -turgy | Ritual and creation. Lasting change. Plane of Fate. No kin to the theurgic axis, which measures how a capacity was gained. |
-| **Corporis** | — | Martial integration. The body is the conduit and cannot be separated from the technique. |
-| **Scriptia** | -graphy | Inscription. Carved permanently into material. The Method of everyone who cuts a rune, a ward or a tag; Glyphica is the language it cuts. |
-| **Alchemia** | -genesis / -synthesis | Substance transformation. Essence Drafts. |
-| **Harmonia** | -phonia / -chord | Frequency-based working. Tone, attunement, sympathetic vibration. The chant is its commonest tool. |
-| **Conjunctia** | compound roots | Fusion of two or more Families simultaneously, inside one practitioner's working. Gated high. Not the alchemical Conjunction, which weds two prepared laws in a vessel. |
-| **Synergia** | named by working | Multiple practitioners combining. Attraction Layer compatibility required. |
+| **Strike** | Body | Put power into a blow, a block or a body in motion. |
+| **Shape** | Body | Tell matter, force or heat what to do, by hand or at reach. |
+| **Read** | Spirit | Find out what is there, what it was and where it leans. |
+| **Write** | Spirit | Set a sentence of law into something that outlasts the saying. Fate only when the writing is on Fate itself. |
+| **Rite** | Spirit | Do it slowly and in order, with others and with an offering. |
+| **Make** | Spirit | Build a thing that acts apart from the maker. |
+| **Sing** | Spirit and Fate | Carry it in tone, from one soul across to another. |
+| **Brew** | Body and Spirit | Stabilize a working into a substance. |
+| **Call** | Fate | Ask something that already exists to come. |
+| **Bind** | Fate | Hold a thing against its own nature, or hold yourself. |
+| **Claim** | Fate | Say that this ground, or this absence, is yours. |
+| **Pull** | Fate | Take hold of a thread and move what a result depends on. |
 
-**Discipline** · The named intersection of one Affinity and one Method. Pyromancy, Ferrokinesis, Geoturgy. The Affinity is the single phenomenon inside a Family (fire within Caloria), so the Family names the field and the Affinity names the discipline.
+A home is a qualifier and never a lock, as a Wellspring's kind is.
 
-**Theurgic axis** · A practitioner whose capacity was taught, and who works by method, procedure and systematic understanding. Slower to react, harder to surprise. The word means divine-work and names where a capacity came from, not the Method Turgia, though Turgia leans theurgic.
+**Source** · How a person came by an art: Lived, Taught, Inherited, Bought or Blessed. It goes on the card, since the same art can be any of the five in different hands.
 
-**Thaumaturgic axis** · A practitioner whose capacity is innate, and whose Crystal acts before conscious analysis completes. Faster than thought, and correspondingly harder to correct once wrong.
+**Method** · A clerk's older sorting word, with a suffix that still names things. **Manteia** -mancy (Read). **Kinesia** -kinesis (Shape). **Turgia** -turgy (Rite, Make). **Corporis** -kinesis of the body (Strike). **Scriptia** -graphy (Write), the word on the door of everyone who cuts a rune, a ward or a tag. **Alchemia** -genesis, -synthesis (Brew). **Harmonia** -phonia, -chord (Sing), the chant being its commonest tool. **Conjunctia**, compound roots: one working on two or more lenses at once, and not the alchemical Conjunction, which weds two prepared laws in a vessel. **Synergia**, named by working: several practitioners combining, on bonds that have to be real. The table is on [[The Magic System/Reference and Craft/Forms|Forms]].
 
-**Middle-axis Methods** · Manteia and Harmonia can run either way. Whether a practitioner reads by protocol or by instinct decides which.
+**Discipline** · The clerk's name for one Affinity and one Method. Pyromancy, Ferrokinesis, Geoturgy. The Affinity is the single phenomenon a person works inside a lens (fire within Pyreveil), and it gives the root.
+
+**Magister · Registered Natural · Unregistered Natural** · The Bureau's three words for how a practitioner came by what they can do: an academy and its records, another road and a monitor, another road and a refusal. See [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate]].
 
 ---
 
 ## VII · Glyphica and the Parunic syntax
 
-**Parun** · The language of law. Older than any surviving kingdom and not fully cataloged by anyone. **Glyphica** is its syntax put to work, the Category every Method writes in: spoken in a chant or a called working, cut in a rune or a tag.
+**Parun** · The language of law. Older than any surviving kingdom and not fully cataloged by anyone. **Glyphica** is its syntax put to work, the writing every Form borrows when it needs a sentence: spoken in a called working, cut in a rune or a tag.
 
-**What a glyph does** · A glyph creates nothing and carries no power. The Wellspring's law was already running and continues after the working ends. **A glyph is a boundary condition imposed on that law**, and the working is what the law does once the boundary has moved. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench considered.
+**What a glyph does** · A glyph creates nothing and carries no power. The Wellspring's law was already running and continues after the working ends. **A glyph limits what a Wellspring's idea is doing, at the layer the Essence leaves through**: a physical limit on the Shell, what a thing is taken to be on the Core, a term or a prerequisite on the Attraction Layer. The working is what the law does once the limit has moved. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench considered.
 
 **Glyph** · A single unit of Parunic syntax. Explicit (carved, drawn, spoken) or implicit (internalized as a chain the practitioner no longer consciously assembles).
 
@@ -59,18 +64,20 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **The Four Glyph Roles** · Every structured working must satisfy all four, whether spoken once or carved into granite for a thousand years.
 
-| Role | What it establishes | What its absence produces |
+| Role | What it establishes | What a bad one does once the sentence has fired |
 |---|---|---|
-| **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. | Mechanica by definition. The Continuum treats it as debt. |
-| **Boundary** | Where and how long the effect is permitted to operate. | A Boundary failure: a transformation that spreads until it runs out of things to consume, while the operator is still there to see it. |
+| **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. | Forged or coerced, Mechanica by definition. The Continuum treats it as debt. |
+| **Boundary** | Where and how long the effect is permitted to operate. | A Boundary failure: a transformation that spreads as far as the broken limit lets it, while the operator is still there to see it. |
 | **Direction** | Vector and focus. The editorial layer of the sentence. | Draft Corruption. |
 | **Sealing** | That the sentence is finished and closed against contamination. Relies on Fixatio chains. | An open wound in the local Aether field, which the Continuum will try to close on its own terms. |
 
+A role left wholly empty does nothing: no seal, no working, no cost. Only a sentence that has fired can hurt anyone. These four are the Warrant, the Ground, the Vector and the Seal of the spoken grammar, and [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|the Master Glyph Index]] has the whole account of what a fault does and how long a working lasts.
+
 **Fixatio chain** · The glyph sequence that fixes and closes a working. The workhorse of every seal, ward and permanent inscription in the Continuum.
 
-**Inscription** · Glyphica rendered as a durable cut rather than a performance. Scriptia is the Method that lives by it, and people who want to charge more for it have a dozen grander words.
+**Inscription** · Glyphica rendered as a durable cut rather than a performance. Write is the Form that lives by it, and people who want to charge more for it have a dozen grander words.
 
-**Rune · tag · chant** · Three ways of holding a Parunic sentence, and three skills anyone with a woken Crystal can level by doing them, with a guild title to say how far the hall trusts you at it. A **rune** is the sentence cut into material, where it goes on working after the cutter has gone home; a standing runed working is an **array**. A **tag** is a sentence prepared on something small, fueled per tag and fired only by a practitioner. A **chant** is the sentence spoken or sung, or held in the attention like a held note, and it stops when the speaker does. No school owns any of the three. Several have broken each other's windows on the question.
+**Rune · tag · chant** · Three things people mean by holding a working, and three skills anyone with a woken Crystal can level by doing them, with a guild title to say how far the hall trusts you at it. A **rune** is the sentence cut into material, where it goes on working after the cutter has gone home; a standing runed working is an **array**. A **tag** is a sentence prepared on something small, fueled per tag and fired only by a practitioner. A **chant** is sung, or held in the attention like a held note, and it stops when the speaker does; it sets its condition in resonance and is no Parun, and its words carry a sentence only when Glyphica is present. No school owns any of the three. Several have broken each other's windows on the question.
 
 **Draft Corruption** · Law-fragments left when the Continuum partially executes a sentence with a structural error before the error propagates. It is the Direction role's own failure mode, and an error in any role can produce it: Wellspring processes started and never completed, which keep trying to finish themselves in whatever they contact. Unlike a Boundary failure, which spreads, or a Sealing failure, which never ends, the working itself stops; the fragment it left does not.
 
@@ -89,7 +96,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **The Great Work** · The seven-stage curriculum of Alchemia. A practitioner's progress through it is a matter of record in the alchemists' halls of the Accord and a matter of pride outside them.
 
-**Coagulation · Distillation · Sublimation · Conjunction** · Named operations within the Work. Conjunction doubles as its own Category, since fusion behaves differently enough from the rest to need separate treatment. Conjunction is the operation and the Category; Conjunctia is the Method, a practitioner holding two Families at once.
+**Coagulation · Distillation · Sublimation · Conjunction** · Named operations within the Work. Conjunction is the bench operation, where fusion behaves differently enough from the rest to need separate treatment; Conjunctia is a clerk's word for one practitioner's working on two lenses at once.
 
 ---
 
@@ -142,7 +149,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Dead Set** · A Threshold melt that cools with no adequate Trait seed to nucleate around. The Stage does not advance, Clarity and Compression fall, and a Trait is commonly lost outright. In the halls, a seat that never took. **Slag** in every other register. Three names, one failure, and Dead Set is the name on the record; said of a district rather than a man, slag means Residue.
 
-**Rough seat** · A melt cooled around Trait seeds that contradicted one another. The lattice keeps the argument permanently. Rough-seated practitioners are unpredictable rather than weak, and a rough seat bars an appointment or certificate above the token their Stage already gives them, regardless of demonstrated capability.
+**Rough seat** · A melt cooled around Trait seeds that contradicted one another. The lattice keeps the argument permanently. Rough-seated practitioners are unpredictable rather than weak. The halls cap a rough seat at Tier Four on certification, regardless of demonstrated capability, and that says nothing about the fighting token their Stage gives them, which is another table; see [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title]].
 
 **Shear Break** · A Trait collapsing, inverting, or turning on its bearer after the bearer has repeatedly denied the truth that formed it. What a broken vow comes to when the denial goes on; the breach itself lands at once by the vow's own terms.
 
@@ -180,7 +187,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Sensing** · The trained art of feeling another's Essence, Stage and intent before they move. Moto *kehai*, the sign of someone there. Mahuo *nunchi*, the same word they use for reading a room, and they will tell you that is the point. The halls' *shénshí*, the spirit's knowing. A Marrowkin **sounds** you, as he sounds a rock face for a bad seam. In the street, **having the nose**. Measurewrights hold it is one art and have been unable to get any two peoples to agree on how to teach it.
 
-**Aura coat** · The visible skin of a practitioner's own color over reinforcement. **Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape.** Moto *matoi*, Mahuo *gabot*, the halls' *hùtǐ*, and the rest; see [[The Magic System/Power in Use/Reinforcement|Reinforcement]].
+**Aura coat** · The visible skin of a practitioner's own color over reinforcement. **The lens tempered on longest sets the base color, the other Wellsprings add texture and sound, and a class or big Trait adds a shape.** Moto *matoi*, Mahuo *gabot*, the halls' *hùtǐ*, and the rest; see [[The Magic System/Power in Use/Reinforcement|Reinforcement]].
 
 **Suppression** · The skill of holding Pressure in. Tiring to maintain. **Dropping it deliberately is a threat and is understood as one.**
 
@@ -227,7 +234,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 | Hollowing | **thinning** · **the land going** | Farmers before scholars |
 | Domain | **his ground** · **inside it** | Anyone who has had to fight in one |
 | Vocatia | **calling** · **asking something up** | Universal |
-| Draft Corruption | **a working that won't finish** | Alchemists and turgists. **Limina has no equivalent term and the omission is real rather than an oversight**: a Limina working that fails leaves nothing behind to name, which is the whole of what Limina is. The common tongue calls the site **thin** and does not elaborate; the surveyor's Veil-thin and the farmer's thinning are other ground |
+| Draft Corruption | **a working that won't finish** | Alchemists and turgists. **The void Wellsprings have no equivalent term and the omission is real rather than an oversight**: a Nihiloth working that fails leaves nothing behind to name, which is the whole of what Nihiloth is. The common tongue calls the site **thin** and does not elaborate; the surveyor's Veil-thin and the farmer's thinning are other ground |
 | Window | **the numbers** · **your own slate** | Anyone who has one, usually while looking at nothing |
 | Bought Stage | **a purse Stage** · **a bought seat** | Sect fighters, and whoever just lost to one anyway |
 | Monster core | **the stone** | Dungeon crews and renderers |
@@ -251,7 +258,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 |---|---|
 | **Page** | Phenomenon, mechanism and the system and science words that name it, what the body and the blade did, the tell, the fault, injury by named structure, what the character cannot do next, what a room smells like afterward |
 | **A window** | The bearer's own Grades, percentages, bars and levels: damage, reserve, skill gains, Trait levels, a class's name, a blessing's line, a Release or Domain with what it changed. EU, AU/s and η stay out of it and live in the notes |
-| **A mouth, an instrument, a document, a private count** | Stage, Band, Grade, Class, η, EU, AU/s, Sub-Stat names, Category and alignment tags, Derivation Index, Wellspring assignments |
+| **A mouth, an instrument, a document, a private count** | Stage, Band, Grade, Class, η, EU, AU/s, Sub-Stat names, Path, Form, Wellspring assignments |
 | **Workbook only** | The Design Chain as a form, the Codex assignment line, stat ledgers, the author's own arithmetic |
 
 > **The explaining voices.** The point-of-view character's own read, capped at their competence and frequently wrong, with a confident wrong answer set right on the page before the scene moves on. The knowledgeable second. The opponent, using contempt as instruction. The wielder, bragging. The document at a scene's threshold. **Any of them may explain in any engagement, and narration explains the rest** in the POV's own words, a trained POV in the terms of the art and an untrained one in plainer, more wondering ones.
@@ -298,7 +305,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Thread Class** · The ladder of the Attraction Layer, how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. Most souls stay Ø for life. Its numeral gives η as two rungs below the same numeral elsewhere, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip.
 
-**The ladder line** · The lead Path's ladder climbs with Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. VI on each ladder is lateral, an inverted way of holding that power. A window reads `Aether IV · Essence II · Thread Ø`. The Soul Crystal Tier stays as the reading of the whole soul.
+**The ladder line** · Stage sets a ladder's ceiling and practice moves you up to it, so a bought Stage opens the ceiling and not the rung. A Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder runs two rungs behind the lead, capped at II. Thread has no Stage climb: it moves by a grip, from blood or a blessing, plus decades, and study takes anyone to I. VI on each ladder is lateral, an inverted way of holding that power. A window reads `Aether IV · Essence II · Thread Ø`. The Soul Crystal Tier is what the Crystal has grown into, read by Stage, and it lags a bought Stage until Level fills it.
 
 **Tempering** · The Soul Crystal is literally the soul. Tempering melts it down and rebuilds each layer, refines the Essence and makes it stronger, and the body gains Traits.
 

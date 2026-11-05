@@ -4,7 +4,7 @@ title: "The Nine-Second Eternity"
 
 # THE NINE-SECOND ETERNITY
 
-*Speaking, Claustra, Stage IV. The scholars' term is Sigillum Fixationis, or Sigillum Fixatio, and the working word is still Esto, "let it be so."*
+*Speaking, Bind, Stage IV. The scholars' term is Sigillum Fixationis, or Sigillum Fixatio, and the working word is still Esto, "let it be so."*
 
 The Fixatists held the Sawle Ridge against a hill-clan raid, seven brothers in undyed wool under a sky so blue it hurt, and Brother Aumery took the first spear and closed his own fist on himself and said the word. He stood there. The spear stuck out of him and did nothing further. The bleeding stopped, a mace bounced off his shoulder, and his brothers roared the old hymn that says change was never real. At the ninth second everything he was owed arrived, in the order it had been ordered, and the raiders stepped over him laughing. The Fixatists call this a martyrdom. Measurewrights call it a counting error.
 
@@ -18,13 +18,13 @@ The Fixatists held the Sawle Ridge against a hill-clan raid, seven brothers in u
 
 ### How it really works
 
-The word and the fist are the warning, visible at ten meters, so the one about to be held has a moment to do something clever. Below Refraction the working needs a material anchor and has two, the spoken word and the closing hand. He makes a small, sharply bounded pull of Materia Aether at ten meters, favored by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms.
+The word and the fist are the warning, visible at ten meters, so the one about to be held has a moment to do something clever. Below Refraction the working needs a material anchor and has two, the spoken word and the closing hand. He makes a small, sharply bounded pull of Fixatio's Aether at ten meters, favored by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms.
 
 Nothing grips the target and no pressure lands anywhere. The physics is kinetic trapping: one named thing is held in its present configuration by raising the energy barrier out of it, with no push applied at all. For nine seconds it stops changing. The law is Arrhenius: the rate of escape from a state is k = A·exp(−E_a/RT), with A about 10¹³ per second, so residence time grows exponentially with barrier height. A barrier stops what is thermally driven (healing, decay, drift, corrosion). It does not stop what is pushed, so a blow must break the held bonds themselves. The analogue is a thermoset cure, cross-links spanning a whole network: entry is a threshold crossed at once, and the result is stiff, brittle and chars before it flows.
 
 So a held body is truly hardened and resists damage up to the working's full C-Grade rating, 0.1 to 1 GN or 20.92 MJ to 1.046 GJ. A held ally is shielded, a held enemy shrugs off blows. Life runs on catalysis, so a held body's wounds stop worsening and stop healing, while heartbeat, breath and blood flow stop too, and nine seconds is the fainting interval: gray creeps in at the edges of sight. At second nine everything resumes where it was, bleed included, and the wound is exactly as old as it was.
 
-The Wellspring is Fixatio, the Binding Flame (Materia): a cured network chars before it flows, so what it holds stays held because the other configuration is no longer reachable. It strengthens Vitality Fortitude and Resilience Anchoring. The glyph is Lock, a Counter form, occupying the limit so no other can be set there, with Order filing the physical half. The boundary condition is the height of the barrier out of the target's present state, raised by about 83 kJ/mol; every law in the target keeps running beyond it.
+The Wellspring is Fixatio, the Binding Flame (Medium): a cured network chars before it flows, so what it holds stays held because the other configuration is no longer reachable. It strengthens Vitality Fortitude and Resilience Anchoring. The glyph is Lock, a Counter form, occupying the limit so no other can be set there, with Order filing the physical half. The boundary condition is the height of the barrier out of the target's present state, raised by about 83 kJ/mol; every law in the target keeps running beyond it.
 
 The warning every teacher of this art gives, at volume, is about permanence. Escape time is exponential in the barrier, so a permanent lock is the same binding a little higher. Overshoot by a few tens of kJ/mol and the hold never ends, and nothing at the casting feels different. This is Fixatio's irreversibility, the inherited failure: the cure is not undone by wanting it undone, and a push to overshoot makes the hold permanent. The other fault is brittle fracture at the anchor under shear or torsion, a cured network's own weakness. Both are faults of Structure. An error placed under Fixatio stays too.
 
@@ -45,13 +45,13 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 
 **Fails against** · A covered mouth or a broken wrist before the fist shuts; a target Locked or Knotted first; shear or torsion at the anchor; spread targets, since the caster cannot choose again; Fractura, which breaks it; Dissolution, which unmakes it.
 
-**Ground** · Open water, altitude and moving platforms leave Materia no tools.
+**Ground** · Open water, altitude and moving platforms leave Fixatio no tools.
 
 **Valmir** · The Titan's entropic domain unmakes the anchoring outright, but Titan-keyed arts are at the edge of what a mortal Crystal survives, so the route is real and rarely usable.
 
 **Matching** · A counter-Sigillum from an equal resolves on technique and position, a coin toss.
 
-**Look up** · The Counterplay register for Lock and Knot; the Materia entry for Fixatio and its terrain; the Flourishing Stage table; the Valmir entry among the Titans.
+**Look up** · The Counterplay register for Lock and Knot; the entries for Fixatio and its terrain; the Flourishing Stage table; the Valmir entry among the Titans.
 
 ### Numbers
 
@@ -65,8 +65,6 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 | Fainting without blood to the brain | observed | 6 to 10 s |
 
 **Practitioner** · Flourishing, Adept, reserve 2,710 to 50,300 EU, η about 0.45. Grade C.
-
-**Paths** · No Path declared: Gnosis Fluency above D needs the Spirit Path, so the reading of a held working runs capped at D; Vitality Fortitude above C needs the Body Path, so the lock cannot be pushed past C.
 
 **Anchor** · Below Refraction it needs a material anchor, and has two: the spoken word and the closing hand.
 
@@ -82,21 +80,21 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 
 ### Codex line
 
-**Wellspring** · Fixatio, The Binding Flame (primary)
+**Path** · Body. The Aether Shell pays at both ends, and the lock falls on a physical state. It runs at C on any Path.
 
-**Family** · Materia
+**Lens** · Fixatio (Medium).
 
-**Physics Domain** · Material Science
+**Form** · Bind. A spoken word and a closing fist.
 
-**Category** · Claustra
+**Gates** · None to run it at C, on any Path. Gnosis Fluency above D needs the Spirit Path, so the reading of a held working runs capped at D; Vitality Fortitude above C needs the Body Path, so the lock cannot be pushed past C.
 
-**Skill** · Speaking, with the spoken word and the closing hand as anchors below Refraction
+**Glyph** · Lock, with Order filing the physical half. A physical limit: the height of the barrier out of the target's present state. Every law in the target keeps running beyond it.
 
-**Stage floor** · IV, Flourishing
+**Skill** · Speaking, with the spoken word and the closing hand as anchors below Refraction.
 
-**Grade required** · C-Grade
+**Stage floor** · IV, Flourishing.
 
-**Path gate** · None to run it at C, on any Path; Spirit for Gnosis Fluency past D and Body for Vitality Fortitude past C (the old roll's "Mind Path" is not a Path; it reads as Gnosis weighting)
+**Grade required** · C-Grade.
 
 ### FOW line
 
@@ -105,8 +103,6 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 **Stage floor** · IV, Flourishing
 
 **Grade required** · C-Grade
-
-**Path gate** · None to run it at C; Spirit past D on Fluency, Body past C on Fortitude
 
 **Resonant Pair · None**
 

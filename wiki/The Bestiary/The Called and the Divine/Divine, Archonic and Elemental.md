@@ -21,6 +21,8 @@ Morrowhythe entered a plea against the Titan Zar'thuun in the Reeve's court for 
 
 **Elemental Behemoth, Pure Manifestation · T3 through T8 · found wherever their respective kind of Aether pools thickest**
 
+**Leans on** · the Shell, nearly always, since one is a Wild law with a body built around it, and the kind of Aether decides the rest. *Body:* a big enough hit at the one solid part. *Spirit:* the thing has a Core at the center and no idea you can reach it. *Fate:* it stops when the ground stops feeding it, and a site can be made to fail.
+
 **Living manifestations of raw Wellspring power**, formed when one kind of Aether concentrates with nothing to refine it, around rich Wellspring sites or wherever elemental energies surge unchecked. (The old books say Essence concentrating in an unmediated state, and a Measurewright will correct them at length.) **Their existence predates many mortal races**, and they act as guardians or destroyers depending on circumstance and alignment.
 
 There is no skeleton to describe and I have stopped looking for one. The body is whatever the Aether is doing at the moment: roaring flame, crashing wave, jagged stone, swirling gust and lightning. **They shimmer with Wellspring power and may manifest elemental runes glowing faintly along their bodies.** The nearest thing to a metabolism is the ground under them. A small one feeds at a site the way a flame feeds at a wick, and a colossus reshapes the landscape because the landscape is what it is eating.
@@ -44,7 +46,9 @@ There is no skeleton to describe and I have stopped looking for one. The body is
 
 > **The Drowned Crown** in Old Mariner's Cant. *Vor'thalass*, the Maw Beneath All Waves, in Abyssal Tongue.
 
-**Divine / Archonic Beast, Abyssal Apex · T9, Apocalyptic Beast · Vectoria's Abython, the Abyssal Pulse, secondary Nihiloth and Cymorath aspects · primarily Abythron, surfacing only in Crevice-linked oceans**
+**Divine / Archonic Beast, Abyssal Apex · T9, Apocalyptic Beast · Abython, the Abyssal Pulse, secondary Nihiloth and Cymorath aspects · primarily Abythron, surfacing only in Crevice-linked oceans**
+
+**Leans on** · the Shell, by Abython, Wild, with Nihiloth and Cymorath. *Body:* nobody on record. *Spirit:* a very great Core a very long way down. *Fate:* it surfaces only through what a Crevice allows, and that is the only lever anyone has ever suggested.
 
 > Singular oceanic behemoths **birthed directly by Titans of the deep.** Most descend from a time **before Gaia's shaping of the Material World, when the oceans were unbroken voidwater.**
 >
@@ -72,7 +76,9 @@ Solitary and immensely territorial, it is **drawn to disturbances in deep Wellsp
 
 > *Tsal'gar*, Terror of the Depths, in Old Parunic. **The Abyssal Maw** among sailors.
 
-**Divine Beast, Abyssal Colossus · T9, Apocalyptic Threat · Vectoria's Abython and Fluxia's Thaloré, with powerful chaotic Essence surges · the deepest ocean trenches and the Abyssal Depths**
+**Divine Beast, Abyssal Colossus · T9, Apocalyptic Threat · Abython and Thaloré, with powerful chaotic Essence surges · the deepest ocean trenches and the Abyssal Depths**
+
+**Leans on** · the Shell by Abython, Wild, and the Core by Thaloré, Spirit, which is why a town goes down grieving. *Body:* the arms, by a fleet, for as long as the fleet lasts. *Spirit:* the sorrow on the water is not yours, and knowing that is most of what a priest can do. *Fate:* do not be the boat it is going to meet.
 
 A primordial sea monster born from **the violent convergence of Abython and Thaloré in the deepest trenches.** Legend places their creation during cataclysmic oceanic upheavals.
 
@@ -92,7 +98,9 @@ Territorial and overwhelmingly destructive, they are **solitary hunters, believe
 
 > *Gar'thak*, the Threefold Maw, in Abyssal tongues. **The Hellhound Guardian** in frontier legend.
 
-**Divine Beast, Infernal Guardian · T8, Cataclysmic Threat · Materia's Tarturon and Limina's Nihiloth, infused with potent Pyreveil and Vantabriel Essence · Abyssal Depths, corrupted crevices, forbidden Outer World gates**
+**Divine Beast, Infernal Guardian · T8, Cataclysmic Threat · Tarturon and Nihiloth, infused with potent Pyreveil and Vantabriel Essence · Abyssal Depths, corrupted crevices, forbidden Outer World gates**
+
+**Leans on** · the Layer first, by Tarturon, Fate, and the Shell by Pyreveil, Vantabriel and Nihiloth. *Body:* soundness, a great many hands, and no debts. *Spirit:* three heads and one hand on the reckoning, showing on the Core before it lands. *Fate:* it holds a gate as a condition, so the contest is over the condition and never the dog.
 
 **A colossal three-headed hellhound born from corruption on Tarturon ground and ancient infernal bindings**, crafted as the eternal guardian of Abyssal gates and cursed Wellspring breaches. **It embodies raw destructive power and unwavering loyalty to its dark masters.**
 

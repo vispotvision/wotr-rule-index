@@ -6,7 +6,7 @@ title: The Blossom Armistice
 
 *Florwyn's Canticle stays the scholars' term and the name on the Titan's own shrines. At Gorse Bridge they call the singer's work Blossom Duty.*
 
-## THE BLOSSOM ARMISTICE (Florwyn's Canticle) (Vocatia, Stage VI)
+## THE BLOSSOM ARMISTICE (Florwyn's Canticle) (Sing, Stage VI)
 
 By the second afternoon at Gorse Bridge both armies were lying in the same trampled hay, and a girl in a green kirtle, whom neither side had hired, walked out between the lines and started to sing with no words. Everybody within thirty paces began to close. Pikemen sat up with small white flowers breaking through their stitches and withdrawing again. Vines came up through the dropped shields and bloomed yellow. It worked on the Reeve's men and the Earl's men exactly alike, and by evening the surgeons of both companies, fever-hot and covered in petals, were arguing over who owed her what, while four hundred men who had been trying to kill each other that morning lay warm as loaves and asked for soup. The Earl had her arrested. He had to send somebody to do it, and that man's arm had been mended too.
 
@@ -24,7 +24,7 @@ This is the body's own wound-healing cascade driven faster than it natively runs
 
 The glyphs are Renewal across Form: Renewal sets the healing rate, Form keeps the fast deposit from becoming etiolation. The boundary is the rate constant of the rebuilding phase inside the field, and nothing else. Days close over minutes. Below Refraction the voice is the anchor. One hymn holds up to four turns unbroken, and a wound needing minutes needs hymns in succession, the field down at each break. Without sound the hymn collapses before it completes.
 
-Aether is pulled from the ambient across 2,827 m², weighted to the inner ten meters. Vitalia wants living biomass and blood nearby and fails on sterile, frozen or depleted ground. It leaves a lasting bloom that deafens Harmonists (those who read a place by ear) while it stands. Verdantia, the Green Pulse (Vitalia), says a plant has no final size and converts ambient energy to structure continuously, so its practitioners recover while idle and are hard to exhaust; it gives Vitality Regeneration, Tempering Yield and Harmonics Synergy. That ambient conversion returns more than the passive rate between hymns on living ground and nothing on sterile ground. Verdantia's named failure is etiolation: without ambient input the growth goes on as length without substance, so a Canticle held too long leaves tissue that bears load in neither body nor ground.
+Aether is pulled from the ambient across 2,827 m², weighted to the inner ten meters. Verdantia wants living biomass and blood nearby and fails on sterile, frozen or depleted ground. It leaves a lasting bloom that deafens Harmonists (those who read a place by ear) while it stands. Verdantia, the Green Pulse (Wild), says a plant has no final size and converts ambient energy to structure continuously, so its practitioners recover while idle and are hard to exhaust; it gives Vitality Regeneration, Tempering Yield and Harmonics Synergy. That ambient conversion returns more than the passive rate between hymns on living ground and nothing on sterile ground. Verdantia's named failure is etiolation: without ambient input the growth goes on as length without substance, so a Canticle held too long leaves tissue that bears load in neither body nor ground.
 
 The Essence Core pays, for this is an Inherited Trait expression, governed by Tempering Maturity and voiced through the Aether Shell. Developmental Tier Harmonic at Glory. Field fault: sterile or dead ground gives correct chemistry and nothing to work on, and good and bad ground look alike. Structural fault behind it: Overgrowth, the Trait acting when the bearer did not will it. Lineage Strain pulls the inherited echo of its originating Ground, Florwyn's own, closer than is safe, and Emotional Vulnerability leaves the singer's feeling open to every empathic reader. Thirty-five percent leaves as heat at the singer's Shell and in the healed sites, indistinguishable from the effect, which gives you warm patients and an exposed healer.
 
@@ -38,14 +38,21 @@ A school of healers holds that song reaches the vital spirit directly and that m
 
 ### Codex line
 
-- **Wellspring** · Verdantia, The Green Pulse
-- **Family** · Vitalia
-- **Physics Domain** · Biochemistry
-- **Category** · Vocatia
-- **Skill** · Chanting, with the voice as anchor below Refraction, held for as long as it is sung
-- **Stage floor** · Stage VI, Glory
-- **Grade required** · A-Grade
-- **Path gate** · Spirit
+**Path** · Spirit. An Inherited Trait expression: the Essence Core pays, and the voice carries it through the Aether Shell.
+
+**Lens** · Verdantia (Wild, a long way from home on this Path).
+
+**Form** · Sing. An unbroken hymn with no words.
+
+**Gates** · Reinforcing healed tissue past B needs the Body Path at Splintering, so the wound closes but the new tissue is no stronger than B-Grade.
+
+**Glyph** · Renewal across Form. What a thing is taken to be: what a wound is owed, the rate of rebuilding inside the field and nothing else.
+
+**Skill** · Chanting, with the voice as anchor below Refraction, held for as long as it is sung.
+
+**Stage floor** · Stage VI, Glory.
+
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -54,8 +61,6 @@ A school of healers holds that song reaches the vital spirit directly and that m
 **Stage floor** · VI
 
 **Grade required** · A-Grade
-
-**Path gate** · Spirit
 
 **Resonant Pair · None.**
 
@@ -71,7 +76,7 @@ Its bearer carries the technique as an inheritance rather than an invention: an 
 
 **Fails against** · A voice stopped for one breath (noise, gag, grapple, throat); stone, ash or burned ground; a Mortalis current corrupting the healing; the singer's exposed feelings, open to reading; a volley on its known, stationary position.
 
-**Look up** · Verdantia's etiolation in the Vitalia entries; Mortalis's law of cessation; Inherited Traits, Lineage Strain and Overgrowth; the Glory Stage table; Vitalia's suppressors.
+**Look up** · Verdantia's etiolation in the Wellspring entries; Mortalis's law of cessation; Inherited Traits, Lineage Strain and Overgrowth; the Glory Stage table; the Ground of Verdantia on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]].
 
 ## Numbers
 
@@ -91,8 +96,6 @@ Its bearer carries the technique as an inheritance rather than an invention: an 
 ### Essence
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70 (0.65 used). Grade A (276 to 400); Tempering is the governing Primary.
-
-**Paths** · Spirit Path: reinforcing healed tissue past B needs the Body Path at Splintering, so the wound closes but the new tissue is no stronger than B-Grade.
 
 | Quantity | Working | Result |
 |---|---|---|

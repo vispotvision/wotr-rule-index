@@ -4,7 +4,7 @@ title: "Lance of the Oldest Wound"
 
 # LANCE OF THE OLDEST WOUND
 
-*Speaking, Vectra, Stage XII. The scholars' term is the Sovereign Parallax Lance.*
+*Speaking, Strike, Stage XII. The scholars' term is the Sovereign Parallax Lance.*
 
 The Sufficientists of Lanthorn trained for three generations to be equally strong everywhere, with no favored side and no old injury, and their last grand master, Ildegar the Even, was so perfectly symmetrical that painters came from four kingdoms to get him in gold leaf. His school pointed out, on a hundred hand-copied bills nailed to doors, that a man with no weakest point had nothing for such an art to select. He met it at nine hundred meters, across a valley full of poppies, on a morning his students still commemorate. A line of black-gold light crossed the valley and he came apart along every seam at once, because a body exactly equal everywhere offers the widest menu of ways to break that anyone has ever measured.
 
@@ -18,13 +18,13 @@ The Sufficientists of Lanthorn trained for three generations to be equally stron
 
 ### How it really works
 
-Two fingers are drawn together over one target and a hand extends, visible only to someone watching the caster. Everyone else has already been feeling her for a while, because at Emanation the passive Aura Pressure is law within 50 km, so she cannot approach unnoticed without paying continuously to hide it. Her pull is Vectoria at heart (the Family of force and structure), with five Families in all; Vectoria likes mass, height and brittle or pre-stressed material and fails on loose sediment, in free fall and on uniform soft ground.
+Two fingers are drawn together over one target and a hand extends, visible only to someone watching the caster. Everyone else has already been feeling her for a while, because at Emanation the passive Aura Pressure is law within 50 km, so she cannot approach unnoticed without paying continuously to hide it. Her pull is Fractura at heart, with ten currents in all; Fractura likes mass, height and brittle or pre-stressed material and fails on loose sediment, in free fall and on uniform soft ground.
 
 The target feels recognition where an impact should be: the old break, the joint never right, the seam in the Shell he stopped noticing, failing now. The real phenomenon is weakest-link fracture. Out of all the ways a target could fail, one flaw is chosen and loaded past its breaking point, so he fails in the worst way already written into him, and no wound is made that was not already true. The law is the Griffith criterion: stress gathers at a crack tip as K = σ√(πa), and the body fails when K reaches its toughness; the crack then runs near half the speed of sound in the material and does not stop. The spread of failure modes follows Weibull statistics: a worked, scarred body (modulus 5 to 10) offers many, and flaw population alone makes glass 100 times weaker in bulk than as pristine fiber. A body with no flaw population has nothing to select, and a flawless lattice (Weibull modulus 20 and above) offers one way to fail or none. The law must select the worst failure available, so a target with none worth choosing leaves it only a lesser wound. The yield is about 400 TJ, 95.6 kilotons, a real blast sized against an Emanation Shell and wasted on a body; loading a known Shell fault breaks it 30 to 50 percent below its rated ceiling.
 
 Nothing here moves a thread. The flaw was already in the body, and the Spirit Path's say is only which flaw carries the load, which is why it reaches no farther than the reading does. Resolution is instantaneous, so avoidance fails: an escape needing an outcome already spent simply does not produce it. Domain manipulation and reality-grade countermeasures still answer it. It cannot overrule anyone whose own Temperance meets or exceeds Stage XII, and it cannot select a harm-state the target's own structure could not physically sustain.
 
-The glyphs are Measure for the reading, Edge for the selection, Ruin for the over-resolution. The boundary condition is which flaw carries the stress: load that one, now, at this angle. The flaws, the rising stress and the failure were already there. Fractura, the Breaking Point (Vectoria), is primary: everything fails at a pre-existing flaw, and the bearer sees flaws and can load exactly one. Cataclysm, the Shattered Law (Caloria): a flame meeting confinement jumps to a detonation, a change of kind, blast radius growing with the cube root of yield. Dissolution, the Unbinding Stream (Limina): the mixed state has more disorder, so the Crystal leans toward unbinding, mixing being downhill. Basilithe (Materia) is read to find where stiffness holds and fails, and a stronger Basilithe anchor in the target leaves nothing to read. Also held are Petralon and Penance (Vectoria), Tenebra and Oneirion (Limina), Tarturon (Materia) and Orrenthal (Fulguria): ten against Tempering Capacity, Materia set against Limina three times over. Above A the ten currents cannot all ride one cast, so a full Lance carries Fractura and one branch.
+The glyphs are Measure for the reading, Edge for the selection, Ruin for the over-resolution. The boundary condition is which flaw carries the stress: load that one, now, at this angle. The flaws, the rising stress and the failure were already there. Fractura, the Breaking Point (Wild), is primary: everything fails at a pre-existing flaw, and the bearer sees flaws and can load exactly one. Cataclysm, the Shattered Law (Wild): a flame meeting confinement jumps to a detonation, a change of kind, blast radius growing with the cube root of yield. Dissolution, the Unbinding Stream (Wild): the mixed state has more disorder, so the Crystal leans toward unbinding, mixing being downhill. Basilithe (Wild) is read to find where stiffness holds and fails, and a stronger Basilithe anchor in the target leaves nothing to read. Also held are Petralon, Penance, Tenebra, Oneirion, Tarturon and Orrenthal: ten against Tempering Capacity, stone set against shadow three times over. Above A the ten currents cannot all ride one cast, so a full Lance carries Fractura and one branch.
 
 In doctrine it is Correspondence: a line in the room and a choice among failures are one act, as a prism picks which color exits without making any. Debt is live in the echoed pain and the rising second cast. The Aether Shell delivers, and the Essence Core pays to hold every unresolved failure open until one is forced, Developmental Tier Sovereign. Because the Lance outruns the top SSS attack speed, every cast carries Overchannel exposure.
 
@@ -49,7 +49,7 @@ The Sufficientists train to be equally weak everywhere so no flaw is longest. Pe
 
 **Pressure** · At Emanation the passive Aura Pressure is law within 50 km, so the caster cannot approach unnoticed without paying continuously to hide it.
 
-**Look up** · The Vectoria, Caloria and Limina entries for Fractura, Cataclysm and Dissolution and their Failures; Basilithe; the Counterplay register for Lock and Knot; Overchannel; Tempering Capacity; the Emanation Stage table.
+**Look up** · The entries for Fractura, Cataclysm and Dissolution and their Failures; Basilithe; the Counterplay register for Lock and Knot; Overchannel; Tempering Capacity; the Emanation Stage table.
 
 ### Numbers
 
@@ -63,8 +63,6 @@ The Sufficientists train to be equally weak everywhere so no flaw is longest. Pe
 | Transit over 900 m | light speed | 3 µs |
 
 **Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU (ceiling 6.70 × 10⁹), η 0.85 to 0.90. Grade SSS.
-
-**Paths** · Declares the Spirit Path, strongest at range; Penetration caps at C and the echo's spread at B; above A the ten currents cannot all ride one cast, so a full Lance carries Fractura and one branch, Cataclysm or Dissolution.
 
 **Speed** · SSS attack speed tops out at 1 to 5 percent of c; the Lance goes faster, so every cast carries Overchannel exposure.
 
@@ -80,21 +78,27 @@ The Sufficientists train to be equally weak everywhere so no flaw is longest. Pe
 
 ### Codex line
 
-- **Wellspring** · Fractura (primary); Cataclysm, Dissolution, Basilithe, Orrenthal, Petralon, Tenebra, Tarturon, Penance and Oneirion contribute secondary law
-- **Family** · Vectoria
-- **Physics Domain** · Mechanics
-- **Category** · Vectra
-- **Skill** · Speaking, gestured: two fingers drawn together over one target and a hand extended, gone once it lands
-- **Stage floor** · XII, Emanation
-- **Grade required** · SSS-Grade
-- **Path gate** · Spirit Path
+**Path** · Spirit. Force at range, and its say is only which flaw carries the load; it reaches no farther than the reading does.
+
+**Lens** · Fractura (Wild, primary) · Cataclysm, Dissolution, Basilithe, Orrenthal, Petralon, Tenebra (Wild), Penance, Oneirion (Spirit), Tarturon (Fate), secondary.
+
+**Form** · Strike. Two fingers drawn together and a hand extended, gone once it lands.
+
+**Gates** · Strongest at range on the Spirit Path; Penetration caps at C and the echo's spread at B; above A the ten currents cannot all ride one cast, so a full Lance carries Fractura and one branch, Cataclysm or Dissolution.
+
+**Glyph** · Measure for the reading, Edge for the selection, Ruin for the over-resolution. What a thing is taken to be: which flaw counts as bearing the stress. The flaws themselves were already there.
+
+**Skill** · Speaking, gestured: two fingers drawn together over one target and a hand extended, gone once it lands.
+
+**Stage floor** · XII, Emanation.
+
+**Grade required** · SSS-Grade.
 
 ### FOW line
 
 - **Governing Primary** · Ardency (Flux, Penetration, Cascade)
 - **Stage floor** · XII, Emanation
 - **Grade required** · SSS-Grade
-- **Path gate** · Spirit Path
 - **Resonant Pair · None**
 
 ### Origin

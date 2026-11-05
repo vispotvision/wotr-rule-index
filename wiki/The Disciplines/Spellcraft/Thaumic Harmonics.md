@@ -2,7 +2,7 @@
 title: The Breaking of All Songs
 ---
 
-# THE BREAKING OF ALL SONGS (Harmonia, an Applied Branch of the Harmonic Arts)
+# THE BREAKING OF ALL SONGS (Sing, an Applied Branch of the Harmonic Arts)
 
 *Scholars' term: Thaumic Harmonics. The street name is the Cantic Order's own teaching: break the song, do not block the spell.*
 
@@ -25,7 +25,7 @@ The tell is plain enough. A second practitioner goes still, listens about a seco
 
 The glyph is Frequency (Selhar), a Root, under Knot (Maelor), a Counter, and it never attacks the hostile Wellspring; it prevents the hostile working's boundary from closing. The boundary moved in the read is the Harmonist's own emission floor, and in the counter it is one phase angle at one frequency at one member of the target chain, pinned at π. The hostile working keeps casting, pulling and costing, and arrives nowhere: in the air it is pinned or unraveled, in the chain it never closes. Its caster feels a correct working producing nothing, and supplying more only spends reserve. A contested lock resolves on the Harmonist's Harmonics Attunement against the target caster's Harmonics Stability.
 
-The branch has no Wellspring of its own and listens to the working's dialect. Three Wellsprings describe what it does to others' workings. Nihiloth, the Hollow Law (Limina): two waves in antiphase sum to zero and the region between carries no energy; Interference Lock is its physics, without harmonizing with it. Basilithe, the Stone Will (Materia): it stiffens a Crystal until its resonance will not be driven off, the defense against every imposed rhythm. Aurevane, the Wellspring of Light (Fulguria): coherent light holds a fixed phase across its front, and coherence is exactly what the lock attacks. In theory this is the Consent Doctrine: a phase relation is imposed and superposition does the rest, asking nothing of any current, so the branch is licensed curriculum and has never been restricted practice. The Aether Shell works throughout, receptive for the read and projective for the counter within the same two seconds; the Essence Core supplies the stable reference tone; the Attraction Layer is untouched. Developmental Tier is Harmonic at Glory, Radiant at Transcendence, Sovereign at Realization.
+The branch has no Wellspring of its own and listens to the working's dialect. Three Wellsprings describe what it does to others' workings. Nihiloth, the Hollow Law (Wild): two waves in antiphase sum to zero and the region between carries no energy; Interference Lock is its physics, without harmonizing with it. Basilithe, the Stone Will (Wild): it stiffens a Crystal until its resonance will not be driven off, the defense against every imposed rhythm. Aurevane, the Wellspring of Light (Medium): coherent light holds a fixed phase across its front, and coherence is exactly what the lock attacks. In theory this is the Consent Doctrine: a phase relation is imposed and superposition does the rest, asking nothing of any current, so the branch is licensed curriculum and has never been restricted practice. The Aether Shell works throughout, receptive for the read and projective for the counter within the same two seconds; the Essence Core supplies the stable reference tone; the Attraction Layer is untouched. Developmental Tier is Harmonic at Glory, Radiant at Transcendence, Sovereign at Realization.
 
 The constructive half flips the sign. Supporters hold phase to a primary's tone and the intensity adds as N², bought by the supporters and not by the primary. The lead singer's Crystal Fracture risk rises with each supporting voice, and that is how a choir exceeds capacity. A choir drifting out of phase swings the primary's amplitude several times a second at the difference frequency, and the primary fails in her own way, in front of everybody.
 
@@ -41,8 +41,6 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 ## Numbers
 
 **Practitioner** · Perception: Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Lock and stabilization: Transcendence or Realization, Master, 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80.
-
-**Paths** · Attunement needs Fate Path at Welling to pass D and Spirit at Ascension to pass C, or it caps at C (175) and cannot hold a frequency; external Analysis needs Spirit at Flourishing to pass B; Suppression needs Spirit at Splintering to pass A, or locks run at A.
 
 | Target Working | Counter's Size | Cycles to Lock |
 |---|---|---|
@@ -62,28 +60,27 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Duration** · A master reads, analyzes and counters in under two seconds, a third of a six-second turn; choir support and stabilization last as long as the phase holds, turn by turn.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · None of its own; it listens to the target working's Wellspring. Nihiloth, Basilithe and Aurevane describe what it does to other workings.
+**Path** · Spirit. The Aether Shell works throughout, the Essence Core supplies the reference tone, and the Attraction Layer is untouched.
 
-**Family** · None of its own; it reads whatever Family the target working runs on.
+**Lens** · None of its own. It listens to the target working's lens; Nihiloth, Basilithe (Wild) and Aurevane (Medium) describe what it does.
 
-**Physics Domain** · None of its own; it reads the domain of the working it answers.
+**Form** · Sing. One wrong note at the right moment.
+
+**Gates** · Attunement needs Fate Path at Welling to pass D and Spirit at Ascension to pass C, or it caps at C (175) and cannot hold a frequency; external Analysis needs Spirit at Flourishing to pass B; Suppression needs Spirit at Splintering to pass A, or locks run at A.
+
+**Glyph** · Frequency under Knot. What a thing is taken to be: one member of a hostile chain counts as out of phase, so its limit never closes. The hostile working keeps casting and costing.
 
 **Phenomenon** · Forced oscillation and superposition: a small, correctly timed wave in antiphase cancels a large one.
 
-**Category** · Harmonia (Spirit and Attraction), with Aetherica supplying the clean baseline a reading is compared against.
-
 **Skill** · Speaking, most often used against another spoken or cut working already in progress.
 
-**Stage floor** · Glory
+**Stage floor** · Glory.
 
 **Grade required** · A-Grade for perception; S-Grade for Interference Lock; SS-Grade for ritual stabilization.
-
-**Path gate** · Fate and Spirit Paths for Attunement past C; without them it caps at C and cannot hold a frequency.
 
 ### FOW line
 
@@ -92,8 +89,6 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 **Stage floor** · Glory for perception, Transcendence for Interference Lock, Realization for ritual stabilization.
 
 **Grade required** · A for perception, S for Interference Lock, SS for ritual stabilization.
-
-**Path gate** · Fate at Welling and Spirit at Ascension for Attunement past C; Spirit at Flourishing for Analysis past B; Spirit at Splintering for Suppression past A.
 
 **Resonant Pair** · None
 

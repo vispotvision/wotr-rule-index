@@ -4,7 +4,7 @@ title: "The Molten Eighteen"
 
 # THE MOLTEN EIGHTEEN
 
-*Bodily speaking, Arts, Stage VII. The scholars' term is Spinal Forge Ascent. Taught and studied in half the sects on the continent, and no one remembers who first owed anything.*
+*Bodily speaking, Strike, Stage VII. The scholars' term is Spinal Forge Ascent. Taught and studied in half the sects on the continent, and no one remembers who first owed anything.*
 
 At the Ember Row brackets the crowd does the counting. A fighter's back lights up molten white from the tailbone to the neck, and four thousand people on the benches roar ONE, and the lad from the Bellows Club who was losing an hour ago is suddenly a Grade above everyone in the ring, grinning, breaking things, in a shower of sparks and thrown oranges. Eighteen is the number everybody came for. At SEVENTEEN the bookies go quiet, the rival club starts backing away and smiling, and on EIGHTEEN the lad stops as if someone took a string out of him and stands very still, breathing carefully, while his ribs start to send in their accounts.
 
@@ -18,13 +18,13 @@ At the Ember Row brackets the crowd does the counting. A fighter's back lights u
 
 ### How it really works
 
-Refraction is where the chain goes internal, which a working delivered through the spine requires, so it could not sit at Glory. Spatium (the Family of space and frame) likes surveyed ground and Realmgates and fails on unmapped, contested ground; Vectoria likes mass and brittle, pre-stressed material and fails on loose, soft ground. It is best in the training hall and worst on the battlefield. The spine's ignition leaves a brief Resonance that deafens a Harmonist nearby.
+Refraction is where the chain goes internal, which a working delivered through the spine requires, so it could not sit at Glory. Transmutatio likes surveyed ground and Realmgates and fails on unmapped, contested ground; Ascensio likes mass and brittle, pre-stressed material and fails on loose, soft ground. It is best in the training hall and worst on the battlefield. The spine's ignition leaves a brief Resonance that deafens a Harmonist nearby.
 
 The body is rearranged, with nothing added or removed: anaerobic energy debt and a fiber-type shift, with bone compacted at constant mass. The law is Hill's force-velocity relation, (P + a)·V = b·(P₀ − P), so a muscle tuned for speed is weaker at every speed but the lowest; and the second law, since dissipation rises with rate, so the debt always exceeds the peak it avoided. Re-expressing muscle toward the fastest fiber type raises shortening velocity five- to twelvefold from the same tissue, and at ½mv² that is 25 to 144 times the delivered energy, covering the one-Grade step. Bone densifies only by collapsing its spongy part, up to cortical density, 1.9 g/cm³, and how far it hardens is set by the spongy bone the fighter started with, and each use spends some for good. Denser bone at the same mass is thinner, but strength rises as density squared, so bending strength gains 41 percent, with break-even at an exponent of 1.5. Glucose without oxygen earns 2 ATP and costs 6 to unwind, repaid later by the liver, an organ that was not in the fight. Spreading the change lowers the peak and raises the total.
 
-The glyphs are Hour for the deferral, the one that matters; Form for the re-lattice; Equivalence for the change of basis under conservation. The boundary condition is the schedule on which a stress may arrive: the change runs now and its stress is pinned to arrive later, with nothing reduced or added. Transmutatio, the Law of Change (Spatium): one object in two frames gives two sets of numbers and no change in the object, so the body is re-described without loss. It strengthens Ardency Overchannel and Tempering Maturity. Ascensio, the Ladder of Ascent (Vectoria): the inclined plane spreads a climb so the structure never sees the peak. It strengthens Tempering Maturity and Harmonics Attunement. Whether the debt is ever smaller than the peak is the argument that keeps Measurewrights drinking; physics says the total goes up.
+The glyphs are Hour for the deferral, the one that matters; Form for the re-lattice; Equivalence for the change of basis under conservation. The boundary condition is the schedule on which a stress may arrive: the change runs now and its stress is pinned to arrive later, with nothing reduced or added. Transmutatio, the Law of Change (Wild): one object in two frames gives two sets of numbers and no change in the object, so the body is re-described without loss. It strengthens Ardency Overchannel and Tempering Maturity. Ascensio, the Ladder of Ascent (Wild): the inclined plane spreads a climb so the structure never sees the peak. It strengthens Tempering Maturity and Harmonics Attunement. Whether the debt is ever smaller than the peak is the argument that keeps Measurewrights drinking; physics says the total goes up.
 
-Muscle and bone are one loan: fast glycolytic fiber that repays at a loss, and compacted bone that fails afterward as cracks, never tears. In doctrine it is Debt, worn plainly, the cost a schedule and never a price, with Correspondence underneath, since two descriptions are claimed as one body. It is speaking delivered through the body, an Art, Body-Aligned. The Aether Shell carries the ignition up the spine, and the skeleton pays, on terms, through Ardency Overchannel, Developmental Tier Resonant at Refraction.
+Muscle and bone are one loan: fast glycolytic fiber that repays at a loss, and compacted bone that fails afterward as cracks, never tears. In doctrine it is Debt, worn plainly, the cost a schedule and never a price, with Correspondence underneath, since two descriptions are claimed as one body. It is speaking delivered through the body. The Aether Shell carries the ignition up the spine, and the skeleton pays, on terms, through Ardency Overchannel, Developmental Tier Resonant at Refraction.
 
 One higher configuration at a time: stacking a second body-morph art forces a collision Transmutatio has no clean rule for resolving. The inherited failures are Transmutatio's basis loss, which leaves a fighter who cannot change back, and Ascensio's work, which is not reduced, only redistributed, and physics says increased, so users mistake calm for no cost. All the failures are Structure faults: heavy blunt damage mid-spread collapsing the schedule; no second configuration over the first; halting the spread, which lands the stress; basis loss; the spent spongy bone. Waste leaves as heat and light at the Shell, 30 to 40 percent at Refraction, the molten-white spine itself.
 
@@ -45,7 +45,7 @@ The Inflationists think strength is supply pumped down the nerves, so they defer
 
 **Habit** · A habitual user mistakes the absence of crisis for the absence of cost while the damage settles in.
 
-**Look up** · The Spatium and Vectoria entries for Transmutatio and Ascensio and their Failures; Overchannel and its healing; the Refraction Stage table; the taught records of the art itself.
+**Look up** · The entries for Transmutatio and Ascensio and their Failures; Overchannel and its healing; the Refraction Stage table; the taught records of the art itself.
 
 ### Numbers
 
@@ -59,8 +59,6 @@ The Inflationists think strength is supply pumped down the nerves, so they defer
 | Anaerobic yield and repayment | glycolysis and the Cori cycle | 2 ATP earned, 6 to unwind |
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Grade A floor (Sub-Stats 276 to 400; 401 to 475 under strain); output one Grade above baseline while running.
-
-**Paths** · Declares the Body Path, opening Celerity above B, Reflex and Fortitude at the gate covering bone density; nothing is capped.
 
 **Anchor** · Refraction is where the chain goes internal, which a working delivered through the spine requires; it could not sit at Glory.
 
@@ -76,21 +74,21 @@ The Inflationists think strength is supply pumped down the nerves, so they defer
 
 ### Codex line
 
-**Wellspring** · Transmutatio, The Law of Change (primary). Ascensio, The Ladder of Ascent (secondary).
+**Path** · Body. The Aether Shell carries the ignition up the spine, and the skeleton pays, on terms.
 
-**Family** · Spatium (primary), cross-listed Vectoria (secondary).
+**Lens** · Transmutatio (Wild, primary) · Ascensio (Wild, secondary).
 
-**Physics Domain** · Spatial Geometry (primary), Mechanics (secondary).
+**Form** · Strike. A body in motion, one Grade above itself for eighteen seconds, the spine re-latticed from the base up.
 
-**Category** · Arts (Body-Aligned).
+**Gates** · The Body Path opens Celerity above B, Reflex and Fortitude at the gate covering bone density; nothing is capped.
+
+**Glyph** · Hour for the deferral, Form for the re-lattice, Equivalence for the change of basis. A physical limit: the schedule on which a stress may arrive. Nothing is reduced or added.
 
 **Skill** · Speaking (declared, bodily delivery).
 
 **Stage floor** · Stage VII, Refraction.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Body.
 
 ### FOW line
 
@@ -99,8 +97,6 @@ The Inflationists think strength is supply pumped down the nerves, so they defer
 **Stage floor** · VII, Refraction.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Body.
 
 **Resonant Pair** · None attested.
 

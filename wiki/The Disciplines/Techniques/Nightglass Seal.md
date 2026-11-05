@@ -18,17 +18,17 @@ At the Alder Street dye-yards, with nine hundred people on the walls and the vat
 
 ### How it really works
 
-No word and no gesture come first. Above Refraction (Stage VII, where a working's chain of steps goes inside the Crystal) there is no wrist or mouth to take, and that silence itself announces the Stage. The caster pulls very little Aether from the room, three square meters held twelve seconds, and a dark corridor is Limina's own weather (Limina is the Family of mind, void and shadow). Then a pane of black-glass mist two meters across, five centimeters thick, stands between him and the incoming working.
+No word and no gesture come first. Above Refraction (Stage VII, where a working's chain of steps goes inside the Crystal) there is no wrist or mouth to take, and that silence itself announces the Stage. The caster pulls very little Aether from the room, three square meters held twelve seconds, and a dark corridor is Tenebra's own weather. Then a pane of black-glass mist two meters across, five centimeters thick, stands between him and the incoming working.
 
 The physics is signal-to-noise reduction across a thin boundary. An absorptive pane returns almost nothing, and whatever crosses it is decoded against a codebook of one word that recognizes nothing, so every pattern decodes to nothing. A decoder maps each input to the nearest valid codeword, and a one-word code has rate zero, the only case in which correction reliably destroys a message instead of repairing it. It stops no mass or momentum. A blade still cuts, and force with no authorization behind it is no pattern the decoder recognizes, so a rock, or a fist swung in plain anger, crosses exactly as thrown; there was never a reason attached to unwrite.
 
 The dark is real work. Salisbury and Jaumann layers null reflection by antiphase, and absorbers reach 20 to 30 dB, but detection range goes as σ^(1/4), so 30 dB shortens it only 5.6 times. A 5 cm pane dark enough to matter needs about 800 times the extinction of dense fog, so the darkness comes from absorption and the mist merely wears it.
 
-Two Wellsprings run it, both of Limina, and the harmony compounds. Tenebra, the Hidden Shadow, says a thing is undetectable when its return falls below the watcher's noise floor, and it keeps the pane itself from being a target. Oblivara, the Dark Mirror, says redundancy rebuilds corrupted symbols and a corner reflector returns energy along its path; it runs the correction toward the blank reference and governs the working through Gnosis Cognition. Tenebra strengthens Dexterity Feint, Harmonics Suppression and Dominion Sense, and Oblivara strengthens Resilience Persistence and Gnosis Cognition. Each hands down its failure: Tenebra's aspect dependence, one unplanned angle that shows the pane bright, and Oblivara's code exhaustion, a passed working arriving with a warrant nobody wrote.
+Two Wellsprings run it, and the harmony compounds. Tenebra, the Hidden Shadow, says a thing is undetectable when its return falls below the watcher's noise floor, and it keeps the pane itself from being a target. Oblivara, the Dark Mirror, says redundancy rebuilds corrupted symbols and a corner reflector returns energy along its path; it runs the correction toward the blank reference and governs the working through Gnosis Cognition. Tenebra strengthens Dexterity Feint, Harmonics Suppression and Dominion Sense, and Oblivara strengthens Resilience Persistence and Gnosis Cognition. Each hands down its failure: Tenebra's aspect dependence, one unplanned angle that shows the pane bright, and Oblivara's code exhaustion, a passed working arriving with a warrant nobody wrote.
 
-The glyph is Knot (Counter) laid across Silence (Synonym), filed under Silentia. Knot makes the incoming path untraceable; Lock (Counter) is the alternative, pre-empting the authorization slot instead. The boundary condition is the decoder's reference, pinned to one word that recognizes nothing, and separately the pane's own return, pinned below the noise floor.
+The glyph is Knot (Counter) laid across Silence (Synonym). Knot makes the incoming path untraceable; Lock (Counter) is the alternative, pre-empting the authorization slot instead. The boundary condition is the decoder's reference, pinned to one word that recognizes nothing, and separately the pane's own return, pinned below the noise floor.
 
-Purpose, the Guild holds, is tracked. Attraction Force sustains a clean technique, Authorization is the first Glyph Role, and the pane attacks that role in the incoming working; its own Sealing is the role that bills, charged the moment it closes. The Consent Doctrine's licensing logic gives a Concord every reason to fear it. The Conjunctionists hold that cause is only a habit of mind, call the pane a costly placebo and walk their workings through it. The Seal bills warrants at closing, so the habit of mind is on file, with a fee band. The Residue (what a working leaves behind on the ground) is light and lies on the far side: erased warrants whose Authorization traces nowhere, Limina's mark of absence.
+Purpose, the Guild holds, is tracked. Attraction Force sustains a clean technique, Authorization is the first Glyph Role, and the pane attacks that role in the incoming working; its own Sealing is the role that bills, charged the moment it closes. The Consent Doctrine's licensing logic gives a Concord every reason to fear it. The Conjunctionists hold that cause is only a habit of mind, call the pane a costly placebo and walk their workings through it. The Seal bills warrants at closing, so the habit of mind is on file, with a fee band. The Residue (what a working leaves behind on the ground) is light and lies on the far side: erased warrants whose Authorization traces nowhere, Oblivara's mark of absence.
 
 The Essence pays in layers. The Aether Shell holds the pane, the Attraction Layer does the work on warrants, and the Essence Core pays in memory, Developmental Tier Radiant at Transcendence. The memory goes by interference with consolidation, retrograde amnesia with a gradient, so the least-set traces from the last one to six hours go first: unchosen minutes, taken at random from the last hour, gone for good at every closing. That is also the named failure, a Coherence fault. Destroying warrants while losing minutes of memory erodes the record of one's own conduct, until Thresholds refuse, Traits argue and the Flicker follows. The Boundary fault is code exhaustion. Between 20 and 30 percent of the spend leaves as heat at the Shell, working against a pane meant to sit below the noise floor; an Expert's pane would be too loud, hence the Stage floor.
 
@@ -45,7 +45,7 @@ The Essence pays in layers. The Aether Shell holds the pane, the Attraction Laye
 
 **Fails against** · Bolts, rocks and plain soldiers; feints that make it close on cheap workings; bright, loud, crowded ground; Judicium, which reads the warrant through; Absolution, which releases the shadow geometry; Knot against Knot; a Seal forced early; coherence drift.
 
-**Look up** · The Counterplay register for Knot, Lock and Seal; the Four Glyph Roles; the Limina entries for Tenebra and Oblivara Failures; Judicium and Absolution; the Transcendence Stage table and the Body gates.
+**Look up** · The Counterplay register for Knot, Lock and Seal; the Four Glyph Roles; the entries for Tenebra and Oblivara Failures; Judicium and Absolution; the Transcendence Stage table and the Body gates.
 
 ### Numbers
 
@@ -57,8 +57,6 @@ The Essence pays in layers. The Aether Shell holds the pane, the Attraction Laye
 | S-Grade reaction periods in that crossing | 0.05 to 0.2 ms each | 1 to 20 |
 
 **Practitioner** · Transcendence, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80; Grade A (276 to 400) in Gnosis Cognition; Spirit Path, Fate secondary.
-
-**Fortification** · Resilience Fortification needs the Body Path at Flourishing to pass B, so the pane's resistance to wear is capped at B and it thins after several closings in one raising.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -73,21 +71,21 @@ The Essence pays in layers. The Aether Shell holds the pane, the Attraction Laye
 
 ### Codex line
 
-**Wellspring** · Tenebra, The Hidden Shadow (primary). Oblivara, The Dark Mirror (secondary).
+**Path** · Spirit and Fate. It takes the meaning out of a working, and the Attraction Layer does the work on warrants, while the Essence Core pays in memory.
 
-**Family** · Limina (both).
+**Lens** · Tenebra (Wild, primary) · Oblivara (Fate, secondary).
 
-**Physics Domain** · Entropy, Void and Mind.
+**Form** · Claim. A reactive pane of absence, and whatever goes through it forgets what it came for.
 
-**Category** · Silentia (Attraction-Negative).
+**Gates** · Resilience Fortification needs the Body Path at Flourishing to pass B, so the pane's resistance to wear is capped at B and it thins after several closings in one raising.
+
+**Glyph** · Knot across Silence. What a thing is taken to be: the decoder's reference is pinned to one word that recognizes nothing, so a named working arrives as bare motion. Lock is the alternative.
 
 **Skill** · Speaking (reactive, internalized chain).
 
 **Stage floor** · Stage VIII, Transcendence.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Spirit, secondary Fate.
 
 ### FOW line
 
@@ -96,8 +94,6 @@ The Essence pays in layers. The Aether Shell holds the pane, the Attraction Laye
 **Stage floor** · VIII, Transcendence.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Spirit, secondary Fate.
 
 **Resonant Pair** · None attested.
 

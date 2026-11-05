@@ -142,7 +142,7 @@ Nobody can see your [[The Magic System/The Soul and the Climb/Windows and the Sh
 Only an assay can check what you said, and it reads numbers and says nothing of your intentions. So the lawyers eat well.
 
 - **The wording governs.** *As my sheet shows* and *as I am* are different oaths, and half the advocates on Wording Row have a favorite.
-- **A lying line protects you.** A person who swears honestly to a blessing that lies, or to a window a Limina user has tampered with, has told the truth as far as they knew it. The current reading at Waxgate is that you are bound to your own understanding of the words, which is why a wording-man will tell you never to read your line too closely before a hearing.
+- **A lying line protects you.** A person who swears honestly to a blessing that lies, or to a window a mind-worker has tampered with, has told the truth as far as they knew it. The current reading at Waxgate is that you are bound to your own understanding of the words, which is why a wording-man will tell you never to read your line too closely before a hearing.
 - **Unsaying it works.** The terms run until the lie is taken back, in front of the same bench. This is rare, and the fines are heavy, and there are people who have paid them with tears of relief.
 
 ---

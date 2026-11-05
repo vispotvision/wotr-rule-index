@@ -6,7 +6,7 @@ title: The Amber Sovereignty
 
 *Coagula Dominium, for the rolls and the scholars. Those who have stood in it use a word for syrup, and the art's one known owner has only ever used a sentence: "Motion is privilege. I revoke it."*
 
-## THE AMBER SOVEREIGNTY (Coagula Dominium) (Vectra, Stage VIII)
+## THE AMBER SOVEREIGNTY (Coagula Dominium) (Claim, Stage VIII)
 
 At the Festival of Lanterns in Vell, Bartleby Quench, Master of the Ruby Hall and the most expensive fire-caster on the river, stepped up onto the barge in crimson silk before ten thousand people to loose the Great Sun, as he had for twenty years. Somebody on the far rail said something quiet. The air on the barge went thick as cold honey. Quench's Great Sun left his hands a long breath late and about the size of a good plum, drifted out over the water, and went out with a small apology. The crowd howled. Then a tanner's boy who had been hired to carry the lanterns, and who had no Aether in him worth the name, ran across the deck on his own two legs at his ordinary speed and hit Quench with a stool.
 
@@ -20,11 +20,11 @@ THE AMBER ROAD! Anyone walking on Essence-borne lift fights the air for every st
 
 ### How it really works
 
-The real phenomenon is the jamming transition of a dense suspension: past a critical packing, particles lock and a fluid acts like a solid, as cornstarch lets you run across it and swallows you standing still. The law is Krieger–Dougherty, relative viscosity η_r = (1 − φ/φ_m)^(−[η]·φ_m), which diverges as packing φ nears its maximum, about 0.58 to 0.64, and drag on a limb is F = 6πμrv. A jammed medium resists shear and leaves translation alone: a body already carrying momentum crosses it losing some energy and is not held, and only what keeps working against the medium pays. That is why the tanner's boy got through. A runner on their own legs is not slowed, and a working already sealed in a Crystal, a body on pure muscular momentum, and Vectoria or Spatium workings such as flight or blink-step never use the medium and pass.
+The real phenomenon is the jamming transition of a dense suspension: past a critical packing, particles lock and a fluid acts like a solid, as cornstarch lets you run across it and swallows you standing still. The law is Krieger–Dougherty, relative viscosity η_r = (1 − φ/φ_m)^(−[η]·φ_m), which diverges as packing φ nears its maximum, about 0.58 to 0.64, and drag on a limb is F = 6πμrv. A jammed medium resists shear and leaves translation alone: a body already carrying momentum crosses it losing some energy and is not held, and only what keeps working against the medium pays. That is why the tanner's boy got through. A runner on their own legs is not slowed, and a working already sealed in a Crystal, a body on pure muscular momentum, and workings of force or of space, such as flight or blink-step, never use the medium and pass.
 
 No viscosity tells a spell mid-formation from background flux, so a Judicium discernment layer rides the same field to supply that criterion, and neither half alone makes the working. Coagula moves the packing fraction of ambient Aether inside fifteen meters; Judicium moves the criterion for load-bearing flux. The glyphs are Knot (Maelor), a counter that entangles paths so workings arrive late and undersized, across Boundary (Zhaeren) for the fifteen-meter edge. Transcendence needs no anchor, but the field is declared, and it holds only while his attention holds, stopping the moment attention lapses. It is Domain authority and nothing more exotic, the Fate Path's ordinary reach: he moves no thread and no odds, only how thick the room is.
 
-It acts on ambient Aether and leaves matter alone, and the joules are the medium's; he spends on holding the packing. The residue is a density anomaly that stays after the field drops, where a Harmonist (one who reads a place by ear) hears thickly. Coagula, the Unifying Pulse (Materia), says pressed powder held hot fuses across its contacts into one body without melting, an inward-gathering current here projected outward onto the room. Judicium, the Wellspring of Truth (Fulguria), reads each current's signature and supplies the criterion. Materia is favored by mineral-rich rock, worked stone and deep foundation, and suppressed by open water, high altitude and moving platforms; Fulguria wants dry air, conductive ground and clear sight. Under the Consent Doctrine, Judicium reads signatures, which carry no allegiance: friend is sorted from foe only by his attention, and if it slips, allies are caught.
+It acts on ambient Aether and leaves matter alone, and the joules are the medium's; he spends on holding the packing. The residue is a density anomaly that stays after the field drops, where a Harmonist (one who reads a place by ear) hears thickly. Coagula, the Unifying Pulse (Wild), says pressed powder held hot fuses across its contacts into one body without melting, an inward-gathering current here projected outward onto the room. Judicium, the Wellspring of Truth (Wild), reads each current's signature and supplies the criterion. Coagula is favored by mineral-rich rock, worked stone and deep foundation, and suppressed by open water, high altitude and moving platforms; Judicium wants dry air, conductive ground and clear sight. Under the Consent Doctrine, Judicium reads signatures, which carry no allegiance: friend is sorted from foe only by his attention, and if it slips, allies are caught.
 
 The Aether Shell works twice, outward to project and inward because the same law runs through him, and the rib-deep pressure is Clouding (the Shell's slow failure) with a timer on it. Developmental Tier Radiant. Structural fault: the coagulating law loads his own Shell for the whole hold with no release, and the rib pressure worsens. Boundary fault: anything that does not use the medium is outside a boundary never drawn around it. Coagula's residual porosity, in a field, is percolation: connected paths through the jam that a clean single burst can find, and Judicium's documented failures ride along. The field is engineered local saturation, and held dense or long enough it crosses into Aetheric Saturation and causes Crystal Fracture Events in everyone inside, the practitioner included. The bleed is 20 to 30 percent, leaving as heat at the Shell and spreading through the field as heat and sound, 0.66 to 18.4 GW in the first turn and 4.3 to 120 GW by the twelfth.
 
@@ -34,25 +34,25 @@ The alchemists read "dissolve and coagulate" as a cycle and bring dissolving wor
 
 **Cost.** Two percent of full reserve in the first turn and one more each turn after, with pressure building behind his ribs the whole time.
 
-**Counter.** Use your legs, a thrown spear, or anything routed through Vectoria or Spatium, or cast one clean burst through the gaps in the jam.
+**Counter.** Use your legs, a thrown spear, or anything routed through force or space alone, or cast one clean burst through the gaps in the jam.
 
 ### Codex line
 
-**Wellspring** · Coagula (primary) · Judicium (secondary)
+**Path** · Fate. Domain authority on declared ground, the Path's ordinary reach: no thread and no odds, only how thick the room is.
 
-**Family** · Materia (Coagula) · Fulguria (Judicium)
+**Lens** · Coagula (Wild, primary) · Judicium (Wild, secondary).
 
-**Physics Domain** · Material Science (Coagula) · Electromagnetism (Judicium)
+**Form** · Claim. Declared aloud, fifteen meters, and it holds while his attention holds.
 
-**Category** · Vectra (Body ↔ Attraction: a working about where force and motion are allowed to go)
+**Gates** · None past the Path's ordinary gates.
 
-**Skill** · Speaking, declared, and holds only while the practitioner's attention holds it
+**Glyph** · Knot across Boundary. A term on the claimed ground: load-bearing flux must arrive late and small, inside a fifteen-meter edge.
 
-**Stage floor** · VIII, Transcendence
+**Skill** · Speaking, declared, and holds only while the practitioner's attention holds it.
 
-**Grade required** · S-Grade
+**Stage floor** · VIII, Transcendence.
 
-**Path gate** · Fate
+**Grade required** · S-Grade.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ The alchemists read "dissolve and coagulate" as a cycle and bring dissolving wor
 **Stage floor** · VIII, Transcendence
 
 **Grade required** · S-Grade
-
-**Path gate** · Fate
 
 **Resonant Pair · None.**
 
@@ -76,9 +74,9 @@ Its author speaks one philosophy over the technique, "Motion is privilege. I rev
 
 **Limits** · Fifteen meters, attention-bound, loose ambient Aether only, three learnable exemptions; high-Tier Wellsprings overpower the coagulation outright.
 
-**Fails against** · Anything routed through Vectoria or Spatium; open water; thrown spears, loosed bolts, movement on one's own legs; a working cast in one clean burst, or a Seal forced early that finds percolation paths; the practitioner's attention split outside the radius; a hold carried into Saturation.
+**Fails against** · Anything routed through force or space alone; open water; thrown spears, loosed bolts, movement on one's own legs; a working cast in one clean burst, or a Seal forced early that finds percolation paths; the practitioner's attention split outside the radius; a hold carried into Saturation.
 
-**Look up** · The Materia and Fulguria terrain; Coagula and Judicium failures; Aetheric Saturation and Crystal Fracture Events; Knot in the Counterplay register; the Transcendence Stage table and the S and A Grade rows.
+**Look up** · The Ground of Coagula and Judicium on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Coagula and Judicium failures; Aetheric Saturation and Crystal Fracture Events; Knot in the Counterplay register; the Transcendence Stage table and the S and A Grade rows.
 
 ## Numbers
 

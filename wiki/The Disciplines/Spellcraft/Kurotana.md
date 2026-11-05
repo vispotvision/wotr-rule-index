@@ -2,7 +2,7 @@
 title: The Black Vessel
 ---
 
-# THE BLACK VESSEL (Kurotana) (Conjunction, a standing state)
+# THE BLACK VESSEL (Kurotana) (Rite, a standing state)
 
 *Scholars' term: Kurotana, the corrupted mirror of Moetana, and the name it answers to. It is a state of being with powers spent per use, durable as a cut rune, and it lives on this shelf by old filing.*
 
@@ -23,7 +23,7 @@ A metal part can be regrown from one seed so that it has no internal boundaries:
 
 The rite, the Black Recognition, pulls heavily once, 90 percent of full reserve, and the bearer wakes at the floor. It takes three Witnesses that never come back. The Witness of Flesh, the body, is the Shell (the Crystal's outer skin). The Witness of Love, a bond that still saw a human, is the Attraction Layer. The Witness of Name, its old meaning, is the Essence Core. All three layers are rebuilt, Developmental Tier Sovereign. After that the vessel pulls nothing, a standing state, and every power is billed per use. A fracture is turned into architecture: rebuilding three layers and leaving a Domain needs a bearer who generates local conditions, so the floor is Dissonance and no anchor is needed. Every soul it edits carries its Residue (what a working leaves behind), and ground it worked deafens Harmonists (listeners to Aether). The tell is a figure standing like a rock in a field, taking and not returning, running cold where others run warm, with crows at the edge of sight inside the Domain.
 
-Four Wellsprings price it. Monolithion, the Enduring Monument (Materia), drives the Crystal to the single-crystal condition, a presence more like terrain than a person, and at completion is the standing structure of the crow Domain. Vantabriel, the Wellspring of Night (Limina): what strikes the vessel is kept, never reflected. Nihiloth, the Hollow Law (Limina): its Domain cancels law instead of adding any, removing the futures a target's choices no longer earn. Oblation, the Offering Flame (Fluxia): soul-cost as a trade in which the total is never increased; it prices the Three Witnesses, and this is how the art mirrors Moetana. The glyph is Form, for the regrown vessel, laid under Return, for the three surrenders that cannot be given back again. The boundary is the number of internal interfaces the Crystal may have, pinned at one, so whatever did not grow from the surviving seed is simply not part of the new structure. The category is Debt and Residue: the Witnesses are surrendered up front and settled where the bearer cannot see, and edited souls are Residue at personal scale.
+Four Wellsprings price it. Monolithion, the Enduring Monument (Wild), drives the Crystal to the single-crystal condition, a presence more like terrain than a person, and at completion is the standing structure of the crow Domain. Vantabriel, the Wellspring of Night (Wild): what strikes the vessel is kept, never reflected. Nihiloth, the Hollow Law (Wild): its Domain cancels law instead of adding any, removing the futures a target's choices no longer earn. Oblation, the Offering Flame (Fate): soul-cost as a trade in which the total is never increased; it prices the Three Witnesses, and this is how the art mirrors Moetana. The glyph is Form, for the regrown vessel, laid under Return, for the three surrenders that cannot be given back again. The boundary is the number of internal interfaces the Crystal may have, pinned at one, so whatever did not grow from the surviving seed is simply not part of the new structure. The theory is Debt and Residue: the Witnesses are surrendered up front and settled where the bearer cannot see, and edited souls are Residue at personal scale.
 
 The result is a vessel that takes hits without returning them or seeming diminished, and repairs itself while its self-design stays coherent. Absorbed energy refills it below its maximum, so striking it feeds it. Soul Drafting revises a soul at a conserved cost; Consequence Architecture feeds events toward one outcome; Name Revision changes the office a soul holds; the Black Mandate issues short fate-commands, dearer as they grow abstract. Those figures are far below what any such pull costs anyone else, and that is what the rite bought: nobody grips Fate bare, and this grip was paid for once, in full, with a body, a love and a name. Nobody has offered to pay it again. In Murder of Crows, Cathedral of Unchosen Futures, the crow marks a removed future and predicts nothing. Bleed is 10 to 15 percent of every spend as heat at the Shell, but Vantabriel keeps it instead of radiating it, so the vessel runs cold and quiet, and the heat banks with what it absorbs. The bearer of it is the instrument of one forced outcome. It cannot restore what it spent, and the Witness of Love is gone for good. Its Seven Great Corruptions echo the Seven Works of Hataraki form for form, though nothing ties the Yukari to the Moto doctrine.
 
@@ -37,8 +37,6 @@ The failure is cleavage. A clean, unmixed reminder of the one it replaced splits
 ## Numbers
 
 **Practitioner** · Dissonance, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90, SS-Grade (551 to 725; fracture risk above 700; 726 to 750 only under strain).
-
-**Path** · No governing Path; Persistence needs the Fate Path at Refraction to pass S, so off it Persistence stays at 550 and the Dissonance ceiling is out of reach.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -66,28 +64,27 @@ The failure is cleavage. A clean, unmixed reminder of the one it replaced splits
 
 **Contest** · Drafting or Revision against an unwilling soul sets Harmonics Attunement against Harmonics Stability; a winner is untouched and the cost is spent regardless.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · Monolithion, the Enduring Monument; Vantabriel, the Wellspring of Night; Nihiloth, the Hollow Law; Oblation, the Offering Flame.
+**Path** · Spirit and Fate. Soul Drafting and Name Revision work on the Core; Consequence Architecture and the Black Mandate reach the Attraction Layer.
 
-**Family** · Materia (Monolithion); Limina (Vantabriel, Nihiloth); Fluxia (Oblation).
+**Lens** · Monolithion, Vantabriel, Nihiloth (Wild) · Oblation (Fate).
 
-**Physics Domain** · Material Science (Monolithion); Entropy, Void and Mind (Vantabriel, Nihiloth); Fluid Dynamics (Oblation).
+**Form** · Rite. Three surrenders, once, and after that a standing state with powers spent per use.
+
+**Gates** · Persistence needs the Fate Path at Refraction to pass S, so off it Persistence stays at 550 and the Dissonance ceiling is out of reach.
+
+**Glyph** · Form under Return. What a thing is taken to be: how many internal interfaces the Crystal counts as having, pinned at one. Whatever did not grow from the surviving seed is no part of it.
 
 **Phenomenon** · Directional solidification to a single crystal: no internal boundaries, great resistance to slow load, and nothing to stop a crack.
 
-**Category** · Conjunction
-
 **Skill** · Speaking, internalized: a standing state rather than a cast working, as durable as a cut rune; its powers are spent per use.
 
-**Stage floor** · Dissonance
+**Stage floor** · Dissonance.
 
-**Grade required** · SS-Grade
-
-**Path gate** · None; Persistence needs the Fate Path at Refraction to pass S.
+**Grade required** · SS-Grade.
 
 ### FOW line
 
@@ -96,8 +93,6 @@ The failure is cleavage. A clean, unmixed reminder of the one it replaced splits
 **Stage floor** · Dissonance
 
 **Grade required** · SS-Grade
-
-**Path gate** · None
 
 **Resonant Pair** · None
 

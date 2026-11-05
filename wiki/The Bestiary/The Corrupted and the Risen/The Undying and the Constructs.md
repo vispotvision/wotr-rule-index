@@ -20,7 +20,9 @@ The hedge-worker had nothing to do with the rising, as it turned out, and was ha
 
 > *Khalrak*, the Lost Flesh, in Old Parunic. **Rotwalkers** among frontier survivors.
 
-**Undying, Animated Corpse · T2, Moderate Threat · Vitalia's Mortalis and Limina's Nihiloth, fueled by lingering necromantic energies · battlefield graveyards and plague-ridden wastelands**
+**Undying, Animated Corpse · T2, Moderate Threat · Mortalis and Nihiloth, fueled by lingering necromantic energies · battlefield graveyards and plague-ridden wastelands**
+
+**Leans on** · the Shell, by a Medium Mortalis and a Wild Nihiloth working what is left of the flesh. *Body:* the head, the knees and a good pitchfork. *Spirit:* nothing is home, and a priest can tell the ground so. *Fate:* they follow the last thing they were told, so change it.
 
 Corpses reanimated by corrupted Wellspring energies, necromantic ritual, or abyssal taint. **Unlike Skeletal Folk they retain decayed flesh and sluggish motor function**, driven by primal hunger or necromantic command. **Their numbers swell rapidly in plague zones and on battlefields scarred by Abyssal or Corrupted Essence.**
 
@@ -38,7 +40,9 @@ Decaying corpses with rotting flesh, exposed bone and festering wounds. Jerky un
 
 ## Ghouls
 
-**Undying, Ferocious Corpse-Eaters · T4, High Threat · Vitalia's Mortalis and Limina's Nihiloth, with residual necromantic influence · cursed graveyards, abyssal borderlands, plague-ravaged zones**
+**Undying, Ferocious Corpse-Eaters · T4, High Threat · Mortalis and Nihiloth, with residual necromantic influence · cursed graveyards, abyssal borderlands, plague-ravaged zones**
+
+**Leans on** · the Shell, by a Medium Mortalis and a Wild Nihiloth. *Body:* fire, and do not let the wound go bad. *Spirit:* a little is home and it is hungry, and it can be read and baited. *Fate:* a pack depends on the next grave being there.
 
 Corpses cursed or corrupted on Mortalis ground, **spawned where necromantic energies blend with savage hunger. Unlike zombies, ghouls retain agility and ferocity**, hunting living flesh with brutal efficiency.
 
@@ -58,7 +62,9 @@ Savage relentless predators **hunting both living and undead prey.** They move w
 
 > *Khal'thar*, Boneshade, in Old Parunic. **The Bonebound** among necromancers.
 
-**Undying, Animated Remnants · T4, High Threat · Vitalia's Mortalis and Limina's Anamnesis, with traces of ancestral torment Essence · Abyssal Depths, Material World graveyards, cursed Innerworld tombs**
+**Undying, Animated Remnants · T4, High Threat · Mortalis and Anamnesis, with traces of ancestral torment Essence · Abyssal Depths, Material World graveyards, cursed Innerworld tombs**
+
+**Leans on** · the Core by Anamnesis and the Shell by Mortalis, both Medium. What holds the bones is what they remember. *Body:* a hammer, for the time it takes. *Spirit:* tell them what they were and that it is over. *Fate:* an old oath often keeps them standing, and it can be discharged by someone with the standing to do it.
 
 Corpses reanimated through dark Essence rituals or cursed Wellspring taint, often arising from battlefields or tombs gone bad on Mortalis ground. Bound to necromantic masters **or wandering as restless spirits seeking vengeance or purpose.**
 
@@ -82,6 +88,8 @@ Relentless and unyielding, operating in packs or under command, **driven by bind
 
 **Undying, Archmage Undead · T9, Apocalyptic Threat · Mortalis, Nihiloth and Anamnesis, intertwined through powerful necromantic rites · ruined fortresses, ancient crypts, shadowed sanctums**
 
+**Leans on** · all three, since it used to be a person, and a Spirit Path one by long habit, on Mortalis, Nihiloth and Anamnesis. *Body:* the bones are the least of it, and getting there is still how most of them die. *Spirit:* the phylactery holds the Crystal, and a soul can be reached in it. *Fate:* it has outlasted a great many reasons to die, and each of them is a thread somebody can look for.
+
 > **Powerful necromancers who have bound their souls to phylacteries**, transcending mortality through dark Wellspring rituals.
 >
 > The transformation grants immense mastery over death and Essence manipulation **and binds them eternally to their arcane prisons.**
@@ -104,7 +112,9 @@ Skeletal figures draped in tattered robes embroidered with necromantic glyphs. *
 
 > *Arkh'zan*, Sentinel Shell, in Old Parunic. **The Bound Sentinel** among magical artificers.
 
-**Construct, Animated Armor · T5, Extreme Threat · Limina's Eidolyn and Materia's Fixatio, infused with Spirit Rune binding · ancient fortresses, Innerworld sanctums**
+**Construct, Animated Armor · T5, Extreme Threat · Eidolyn and Fixatio, infused with Spirit Rune binding · ancient fortresses, Innerworld sanctums**
+
+**Leans on** · the Shell, by Eidolyn, Wild, and Fixatio, Medium, with no Core of its own unless one was seated in it. *Body:* Penetration above the proof, and then the joints. *Spirit:* find what was seated in it and speak to that, or read the binding rune and spoil it. *Fate:* every strap is a thing that can give, and the armor knows this no better than you do.
 
 Suits of enchanted plate and chain forged in ancient workshops **and animated through potent Wellspring Essence and Spirit Rune Arts.** Created to guard Wellsprings, tombs and arcane repositories. **They possess no flesh but exhibit independent will and relentless dedication to their wards.**
 

@@ -14,6 +14,8 @@ Every art on this shelf has two names, and the Guild has lost a window, two cler
 
 A technique is a named thing done with a skill. The skill rises with use and shows as a Grade on its owner's sheet; the technique shows no level at all, and when it jumps it takes a bigger name, the old one staying in use among everyone who knew it when. The arts that are spoken or held have a shelf of their own, [[The Disciplines/Spellcraft/Spellcraft|The Spoken Arts]], and they are techniques too.
 
+Each page carries the same block under its Codex line: **Path**, **Lens**, **Form** and **Gates**, laid out on the [[The Magic System/Reference and Craft/Forms|Forms]] page, with a **Glyph** line that states the limit in that Path's terms and a Ground for every lens on its [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|kind page]].
+
 - [[The Disciplines/Techniques/Sigillum Fixationis|The Nine-Second Eternity]] (scholars' term: Sigillum Fixationis)
 - [[The Disciplines/Techniques/Fluxus Intervallum|Thunderclap Stride]] (scholars' term: Fluxus Intervallum)
 - [[The Disciplines/Techniques/Solarbound Aegoric Knight|The Kneeling Sun]] (scholars' term: Solarbound Aegoric Knight)

@@ -21,6 +21,12 @@ SOVEREIGN WEAVE! She writes one sentence on the world, and pays for it out of th
 
 ## How It Really Works
 
+| **Path** | Spirit to perceive, Fate to edit. Blood gives neither, and most bearers lead on Spirit |
+|---|---|
+| **Lens** | None required. Sorting the input is easier with Judicium, as under Shisen below |
+| **Form** | Read for the perceive types, Pull for the edit types |
+| **Gates** | The blood and the type, then Dominion Sense for range and Dominion Fate against Persistence and Continuity for any edit |
+
 **結命眼 · The Binding Fate Eye · Yukari Ocular Codex**
 > **結** *ketsu*, to bind, to tie, to conclude · **命** *myō*, fate, life, command, destiny · **眼** *gan*, eye
 >
@@ -53,7 +59,9 @@ This is why the Yukari are called the Weavers, the Thread-Readers, the Crows of 
 
 ### Seeing is cheap, and the scissors are not
 
-Nobody takes hold of Fate bare, and this eye is how the Yukari do it. Like each Work of the Moto, each type is one distinct inherited way of taking hold of one function: this one reads, this one cuts, this one ties, and a bearer whose left eye cuts cannot, by wanting to, make it tie. The blood gives the grip, and a Yukari's [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]] can open early because of it. It does not make the work light.
+**The eye runs on two ladders, and that is the whole of its bill.** Seeing is a thing the Core does. The perceive types, Shisen, Teishi, Reishi and Sanshi, read on [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Essence Class]], the ladder of influence on spiritual reality, and nothing has been moved when they are done. The edit types, Danshi, Musuhi and Orihi, are pulls, and they read on Thread Class, and Zenshi takes both. So an editing Yukari is paying for two Paths: the years, the seat and the three-quarters of everything, on top of the eye, and a seeing Yukari has an entirely reasonable life on the Spirit road and never touches a thread.
+
+Nobody takes hold of Fate bare, and the edit types are how the Yukari do it. Like each Work of the Moto, each is one distinct inherited way of taking hold of one function: this one cuts, this one ties, and a bearer whose left eye cuts cannot, by wanting to, make it tie. The blood gives the grip, and a Yukari's Thread Class can open early because of it, and the cap never lifts. It does not make the work light. The eye is also only half of what the house inherits, and the other half is [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]], which stands to this eye as the Works stand to the Shingan.
 
 Reading is the easy half, and bearers do it all day. **Every edit in the sections below is a real pull on the Plane of Fate**, with a visible charge in the iris and a price: even a small one can take a large share of the reserve and leave the eye bleeding, and it often fails. It moves only what already has a way of happening, so a thread can be cut only where a thread is, and a thing sound and well bound gives the scissors nothing. The target's Persistence and Continuity push back against the bearer's Dominion, some threads are too heavy to lift, and some belong to something that may look up. The Yukari fight mostly by knowing, and by putting a fan or a blade where the knowing says. The scissors come out when it counts.
 
@@ -180,7 +188,7 @@ flowchart TD
 
 *All Threads.* The apex manifestation, equivalent to the Kamigan's Crown Judgment. It combines all seven preceding functions into a single unified ocular authority available through one eye. **The Zenshi governs where the other seven specialize.**
 > **Rarity.** Fewer than a dozen manifestations in the recorded history of the Yukari bloodline. It appears only in bearers whose Crystal has achieved sufficient depth across all Wellspring harmonizations to support the triplanar processing load, and whose causal stress at awakening was so comprehensive that the eye's response was not specialization but totality. **Most Zenshi manifestations occur during events that threaten the Yukari lineage itself.**
-**Loom Sight** 機視 · *Kishi.* The complete vision. Every thread, every Lock-point, every severed connection, every dormant bond, every plane, every transition, every weight. Only a Crystal with deep, balanced harmonization across multiple Families can sustain it without catastrophic Resonance Trauma. **A Crystal tempered on one lens alone will shatter under the triplanar load.**
+**Loom Sight** 機視 · *Kishi.* The complete vision. Every thread, every Lock-point, every severed connection, every dormant bond, every plane, every transition, every weight. Only a Crystal with deep, balanced harmonization across several unlike Wellsprings can sustain it without catastrophic Resonance Trauma. **A Crystal tempered on one lens alone will shatter under the triplanar load.**
 
 **Sovereign Weave** 機命 · *Kimyō.* The apex technique. The bearer imposes a deliberate pattern upon the causal web within a defined radius, simultaneously perceiving, severing, joining, redirecting, and locking threads to produce a specific outcome. **This has gone past probability manipulation into fate authorship.** The bearer writes a sentence in the language of causality and the Continuum executes it.
 > The cost is existential. Sovereign Weave **consumes the bearer's own fate-threads as fuel**, shortening their remaining destiny by an amount proportional to the complexity of the pattern imposed. Every use costs a piece of their own future.

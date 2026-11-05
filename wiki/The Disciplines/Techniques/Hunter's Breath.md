@@ -6,7 +6,7 @@ title: The Unfound Winter
 
 *The rolls and the scholars keep Hunter's Breath. The doctrine is one line long: "Breathe like the winter, and nothing finds you."*
 
-## THE UNFOUND WINTER (Hunter's Breath) (Silentia, Stage VI)
+## THE UNFOUND WINTER (Hunter's Breath) (Shape, Stage VI)
 
 Asta Skoll bred the finest man-tracking hounds north of the Scaur, big brindled brutes with red collars and pedigrees longer than a duke's, and she took her best twenty up the Ironfell after a certain hunter with half the valley's silver riding on the hunt. At the snowline he breathed out. A low white fog rolled across the slope, and all twenty hounds sat down in it, looked at her and looked embarrassed. Her Measurewright reported that the fellow's Essence had gone. Her trackers reported no heat and no scent. Then a goat-boy of about eight, who had come up to watch, pointed at the big obvious cloud in the middle of the bright clear morning and asked why nobody was looking at that.
 
@@ -24,7 +24,7 @@ He makes the room louder, in the bands that were listening. A cold scattering fo
 
 The glyphs are Silence across Boundary: Silence is the whole content, Boundary fixes the fifteen-meter edge. The boundary is the noise floor in the heat, scent and Essence-trace bands inside a fifteen-meter hemisphere, and his own emissions stay exactly what they were. Below Refraction, breath is the anchor, the inhale and the held exhale. The mist itself is plainly visible, an arrow to anyone with a lantern.
 
-Aether is pulled thin and low across 7,069 m³. Limina wants dark, empty ground, while Caloria fails in thermal equilibrium and saturated cold, so it works only in cold air still warmer than the mist. Residue is slight, rime and a scrubbed smell. Tenebra, the Hidden Shadow (Limina), says a thing is undetectable when its return falls below the watcher's noise floor, by absorbing energy and shaping surfaces to send reflections elsewhere; it gives Dexterity Feint, Harmonics Suppression and Dominion Sense. Vohrin (Caloria), one power at two levels, Titan and Wellspring, is taken here as Titan-derived: its cold-law runs a pump on an existing gradient and never makes one, and the Titan level likely raises the working's standing and cost. Tenebra's aspect dependence is the inherited failure: an observer from an unplanned direction, or with an unplanned sense, sees a bright return.
+Aether is pulled thin and low across 7,069 m³. Tenebra wants dark, empty ground, while Vohrin fails in thermal equilibrium, so it works only in cold air still warmer than the mist. Residue is slight, rime and a scrubbed smell. Tenebra, the Hidden Shadow (Wild), says a thing is undetectable when its return falls below the watcher's noise floor, by absorbing energy and shaping surfaces to send reflections elsewhere; it gives Dexterity Feint, Harmonics Suppression and Dominion Sense. Vohrin, one power at two levels, Titan and Wellspring, is taken here as Titan-derived: its cold-law runs a pump on an existing gradient and never makes one, and the Titan level likely raises the working's standing and cost. Tenebra's aspect dependence is the inherited failure: an observer from an unplanned direction, or with an unplanned sense, sees a bright return.
 
 The Aether Shell pays: its faceting is projected into the mist's surface, so heat and Essence signature drop into the noise together. The lungs are the heat sink, and Vitality Tolerance answers for it; the check stiffens with every use in a night and clears only with rest. Developmental Tier Harmonic at Glory. Boundary fault: a chorus-sensed or spirit-registering read was never inside the three bands and passes untouched. Field fault: in warm air the working is correct and makes almost nothing. Forty-five percent leaves the Shell as heat and sound inside the very cloud meant to bury it, so the mist holds only while cold and dense enough to swallow its maker's waste.
 
@@ -38,21 +38,21 @@ The atomists hold that bodies shed thin films of themselves, so concealment mean
 
 ### Codex line
 
-**Wellspring** · Vohrin (primary, Caloria) · Tenebra (secondary, Limina)
+**Path** · Body. Breath, cold air and the Aether Shell, all of it physical and most of it at his own expense.
 
-**Family** · Caloria / Limina
+**Lens** · Vohrin (a Titan's own power, outside the Sixty, primary) · Tenebra (Wild, secondary).
 
-**Physics Domain** · Thermodynamics (Vohrin) · Entropy, Void and Mind (Tenebra)
+**Form** · Shape. A mist breathed out and rolled along the ground.
 
-**Category** · Silentia
+**Gates** · Feint above B needs the Spirit Path at Flourishing, so Essence-trace suppression is capped at B; heat and scent hold at full, but a sense reading Essence at A or above sees through.
 
-**Skill** · Bodily speaking, with the breath as anchor below Refraction; it holds through the exhale
+**Glyph** · Silence across Boundary. A physical limit: the noise floor in the heat, scent and Essence-trace bands inside a fifteen-meter hemisphere.
 
-**Stage floor** · VI, Glory
+**Skill** · Bodily speaking, with the breath as anchor below Refraction; it holds through the exhale.
 
-**Grade required** · A-Grade
+**Stage floor** · VI, Glory.
 
-**Path gate** · Body
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -63,8 +63,6 @@ The atomists hold that bodies shed thin films of themselves, so concealment mean
 **Stage floor** · VI, Glory.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Body.
 
 **Resonant Pair · None.**
 
@@ -80,7 +78,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
 
-**Look up** · Tenebra's aspect dependence in the Limina entries; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]], and Vohrin among the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
+**Look up** · Tenebra's aspect dependence in the Wellspring entries; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]], and Vohrin among the Titans; the Ground of Vohrin and Tenebra on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
 
 ## Numbers
 
@@ -101,8 +99,6 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 ### Essence
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70. Grade A (276 to 400), read on Dexterity Feint, since the product is concealment, not joules.
-
-**Paths** · Body Path: Feint above B needs the Spirit Path at Flourishing, so Essence-trace suppression is capped at B; heat and scent hold at full, but a sense reading Essence at A or above sees through.
 
 | Quantity | Working | Result |
 |---|---|---|

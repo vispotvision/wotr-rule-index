@@ -10,6 +10,8 @@ Three generations of the Erebus court kept the lich lord Vharzoth on the tax rol
 
 **Undying, Archmage Undead · T9, Apocalyptic Threat · Mortalis, Nihiloth and Anamnesis, intertwined through necromantic rites · native to ruined fortresses, ancient crypts, and shadowed sanctuaries throughout the Innerworld and Outer World**
 
+**Leans on** · all three, since it used to be a person, and a Spirit Path one by long habit, on Mortalis, Nihiloth and Anamnesis. *Body:* the bones are the least of it, and getting there is still how most of them die. *Spirit:* the phylactery holds the Crystal, and a soul can be reached in it. *Fate:* it has outlasted a great many reasons to die, and each of them is a thread somebody can look for.
+
 Liches are necromancers who bound their souls to phylacteries, transcending mortality through dark Wellspring rituals. The transformation grants them mastery over death and Essence manipulation, and binds them eternally to the arcane prison they made for themselves. Most were once mortal rulers or sorcerers, and a lich pursues forbidden knowledge and dominion over life and death long after the throne or the title has been forgotten.
 
 Skeletal figures draped in tattered robes embroidered with necromantic glyphs, their eye sockets glowing with sickly Essence light and their hands clutching arcane staffs or relics of power. Some carry visible remnants of the person they were: patches of decayed flesh, a spectral overlay of the face they wore in life.

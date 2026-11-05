@@ -91,6 +91,18 @@ A merchant above his title is a merchant selling on somebody else's. Every port 
 
 **Armor's Tier is its proof.** A strike against worked armor is read on the striker's Ardency Penetration Grade against the proof, whatever force sits behind it: high Flux with low Penetration hits like a padded wall, and the harness holds while the man inside takes the bruise. Proofed harness stops a strike of D Penetration and below. The mark states the Tier, the house that tested it and the test. **A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.** Plain armor has no proof and fights by its kind.
 
+## Gear and the Three Roads
+
+A proof-mark is a statement about matter, and matter is one of the three things that can happen to you. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] gives the long account. A buyer who means to live should know what the mark on his harness does and does not say.
+
+**Against a Body fighter** everything above holds as written. At the top of that road the harness itself can be read: armor made too heavy to lift and a blade rusting in the hand. That is the Material Force working on existing substance, which is why a Plain coat of no great substance is sometimes the safer thing to be wearing on that day.
+
+**Against a Spirit hand,** armor does nothing, because it does not cover the soul. No Tier of plate stops a Read, a Write or a hand on the Core, and the man inside defends with Integrity and Anchoring of his own, and his Ward against a read. A ward can be cut into a piece, or a Hallowed coat consecrated, and then it reads as a working at its own Tier and against the maker's Essence Class. That is real protection at a very real price, and a smith who sells you a plain Hallowed mark as proof against the dead is selling you a Hallowed mark.
+
+**Against a Fate hand,** a good mark is the best defense money can buy, for a reason the assay never tested. A pull moves only what already has a way of happening. A strap inspected this morning, a buckle from an honest house and a blade with no hidden flaw offer it nothing to lean on, and a forged mark is a way of happening with a stamp on it. The rich man's untested Legendary and the poor fighter's mended Common are both more dangerous to their owners on this road than on any other. At high Stage a pull can assign the result outright, and then no strap saves anyone, but it costs the hand a ruinous share of reserve to do it, and most would sooner have an easier target.
+
+**A bonded piece** is seated on the Attraction Layer, because a bond is what the Layer holds, and takes the owner's Essence through the Shell. So it can be pulled at through the bond, and a hand who breaks it hurts the owner on both layers. **A Master Work** is the nearest a craftsman comes to Fate in an object: a term on the world, that this door will hold and this cut will finish, which is why it ignores its material and why nobody has made one by trying.
+
 ## What an Item Costs to Make
 
 Costs are paid out of the maker's reserve (1 EU = 1 MJ):

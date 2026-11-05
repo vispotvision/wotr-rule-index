@@ -103,6 +103,8 @@ At the bench a Master Work is a Draft, and every alchemist alive dreams of pouri
 [Does: ???]
 ```
 
+**The stock.** Nothing in a monster's stone will do it, because a stone is Core and nothing else. The Attraction Layer is the part of a soul that holds its share of fate, and the only Layer that has ever reached a bench was shaved off a dead practitioner's Crystal by a dresser and sold in a twist of waxed paper (see [[Materials, Alchemy & Trade/Alchemy/The Common Drafts#Stock, layer and lens|barber's curl]]). So the grandest bottle in the trade begins in the same back room as the Dead Man's Cordial. The masters who will talk about it say a great Spirit Beast's Layer would serve as well, and that they are still waiting for someone to bring one up the stair. No Alchemarch has entered the purchase in a day book.
+
 ### Why it is the hardest
 
 Every other Master Work is a person doing the thing they have always done, one more time, and something happening. This one has five separate problems, and each of them has killed somebody.

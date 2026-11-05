@@ -306,12 +306,21 @@ When he broke the Vow to speak during Gorrum's confrontation with Vreth, the wor
 
 ---
 
-## Mechanical Notes
+## What the Blood Leans On
 
-| Lineage | Bonuses | Penalties | Wellsprings | Path |
-|---|---|---|---|---|
+*An untrained lean is the tilt a lineage gives the three layers of a soul before anyone has trained it, and it never sets Mastered or Walked ([[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]). The old muster-rolls carried bonuses and penalties here in a notation nobody now reads, and the sense of them is in the last column.*
+
+| Lineage | Untrained lean | Wellsprings the blood finds easy | What the blood gives and takes |
+|---|---|---|---|
+| **Ironblood Orcs** | Body, nearly all of it | Pyraeon, Monolithion | Great Ardency and Vitality, and a long road to any Gnosis |
+| **Verdant Orcs** | Spirit, strongly | Manganthra, Verdantia, Luminalis | Vitality and a deep reach on the soul, at some cost in strength and schooling |
+| **Blackened Orcs** | Nothing to speak of. The Stone-Blood was turned against itself, and what lean they have points wherever they were hurt | Nihiloth, and Benediction and Absolution will not have them | Much in the way of ruin and little Vitality, with the Core worn thin |
+| **Crimson Order** | Spirit, with Body behind it | Fixatio, Anamnesis | Gnosis and Vitality, slow on the feet and slower to charm |
+| **Tinker Goblins** | Body, through the hands | Fractura, Transmutatio | Gnosis and Dexterity to spare, and little to die with |
+
+---|---|---|---|---|
 | **Ironblood Orcs** | +30 STR, +20 END | −25 INT, −15 DEX | Blood (Pyraeon), War-aspected, Ancestral/Resonant (Monolithion) | Body Path 95% |
-| **Verdant Orcs** | +20 END, +15 SPI | −15 INT, −10 STR | Rot (Manganthra), Primal (Verdantia), Lunar (Selunite) | Spirit Path 75% |
+| **Verdant Orcs** | +20 END, +15 SPI | −15 INT, −10 STR | Rot (Manganthra), Primal (Verdantia), Luminalis | Spirit Path 75% |
 | **Blackened Orcs** | +30 Chaos, +20 Entropy | −30 SPI, −20 END | **None**: all Divine inaccessible | Cursed Path, inverted |
 | **Crimson Order** | +25 INT, +20 END | −20 SPD, −20 CHA | Stillness (Fixatio), Memory-aspected | Spirit Path 60% |
 | **Tinker Goblins** | +30 INT, +25 DEX | −40 HP, −20 STR | Kinetic, Chaos-aspected | Chaos Path |

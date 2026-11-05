@@ -28,7 +28,7 @@ They settled the only way the formulary allows. The safe-conduct out of Verath, 
 
 **What it is.** A monster's **core**, which crews and renderers call **the stone**, is in a way its Soul Crystal: the seat of the beast's nature, hardened over its life into glassy stuff in its own color. It is the lawful Crystal Draw (Class IV stock, rendered from something that carried a soul) of [[Materials, Alchemy & Trade/Alchemy/The Standing Index|The Standing Index]], and worth more the stronger the monster.
 
-**How it looks.** A lump of colored glass with a slow movement of light inside it, warm to the hand, with fine bands in it like the rings of a tree. The color is the Family of the Wellspring the beast ran on: ember orange, teal, ochre, chlorophyll green. A dead stone is gray.
+**How it looks.** A lump of colored glass with a slow movement of light inside it, warm to the hand, with fine bands in it like the rings of a tree. The color is the hue of the Wellspring the beast ran on: ember orange off Pyreveil, the deepest teal off Thaloré, ochre-gold off Basilithe, chlorophyll green off Verdantia. A dead stone is gray.
 
 **What it costs.** A crew, usually. See below for what it pays them.
 
@@ -40,7 +40,7 @@ They settled the only way the formulary allows. The safe-conduct out of Verath, 
 
 ## Where It Sits
 
-An animal has an Essence Core (the seat of its own nature) and, unlike a practitioner, no Aether Shell, the vent through which a person's soul drives Essence back out into the world. What a beast takes in from the ground and from its kills has nowhere to go. So the Essence Core lays it down, kill by kill and year by year, as hard bands around the old center, and that is the stone. **Monsters gain Levels by killing, each other included**, and an old one has done a great deal of tempering of its own, all of it still in there.
+An animal has a soul with all three layers, as [[The Bestiary/The Bestiary#What Has a Soul|the register's table]] sets out, and it lives on the first of them. Its Essence Core (the seat of its own nature) is awake, and its Aether Shell, the vent through which a practitioner's soul drives Essence back out into the world, is sealed, the same as an unwoken farmer's. What a beast takes in from the ground and from its kills has nowhere to go. So the Essence Core lays it down, kill by kill and year by year, as hard bands around the old center, and that is the stone. Evolution or a Level threshold may crack the seal, which is when a beast starts to show an aura and put something behind its howl, and even then the crack is a small vent on a great store. **Monsters gain Levels by killing, each other included**, and an old one has done a great deal of tempering of its own, all of it still in there.
 
 | Kind of beast | Where the stone sits | What the cutter has to know |
 |---|---|---|
@@ -101,7 +101,7 @@ A stone begins to die when the beast does. With no heart behind it and no ground
 
 By that table Nem's stone has lost a shaving off its outermost band. The bookies have not revised their odds.
 
-**Keeping it.** Salt and cold about double the times above, which is why stones from the Cold Larder go to the hall in a sack of snow. Heat halves them. On ground of its own Family (rich with the same kind of Aether it ran on) a stone stops fading altogether and may even take a little back, so the richest vaults in the world are built on top of worked Cores (a Core, in the street's sense, being a site where one Wellspring's Aether pools, and worth more than the entire vault). On ground of an opposed Family it dies twice as fast. In a shirt, against a living person, it leaks into you.
+**Keeping it.** Salt and cold about double the times above, which is why stones from the Cold Larder go to the hall in a sack of snow. Heat halves them. On ground of its own Wellspring (rich with the same kind of Aether it ran on) a stone stops fading altogether and may even take a little back, so the richest vaults in the world are built on top of worked Cores (a Core, in the street's sense, being a site where one Wellspring's Aether pools, and worth more than the entire vault). On ground its Wellspring hates, or the ground of one of its Contraries (each entry in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] names both), it dies twice as fast. In a shirt, against a living person, it leaks into you.
 
 **A stale stone is the dangerous one.** What seeps away is Essence. The beast's nature stays behind in the bands, so a half-dead stone renders fewer doses and every dose has twice the wolf in it. Stale stock dressed with a fresh color is to the core trade what spoiled Cutwater is to the apothecary, and people who buy cheap courses from a stranger's cart are the ones who end up living in the barn.
 
@@ -137,7 +137,7 @@ A course is twelve doses, one every few days up to the melt. Essence refines in 
 [Trait: Long Breath, Level 3 → 4]
 ```
 
-Doses are priced in [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]]. Everything a course does shows on the window, with one exception.
+Doses are priced in [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]], which also says what a course of one beast does to a fighter who runs on another Wellspring, and which layer of the soul each stock reaches. Everything a course does shows on the window, with one exception.
 
 ### Identity Contamination
 
@@ -194,7 +194,7 @@ Everything arrives at once: every band the beast laid down in its life, all the 
 
 **The Dead Man's Cordial**, as the trade says when it is sure of the room, runs several times the price of a core lot of the same grade. It tempers faster than anything alive. It also carries a person, identity-shaped and complete, and a drinker may wake with a stranger's way of seeing, a grudge against someone they have never met, or a very good left-hand parry and a language nobody at home can place. *Buyers report that it is good company.*
 
-**How it passes.** A human Crystal has three parts, the Essence Core, the Aether Shell and the Attraction Layer, where a beast's stone has only the first. So the first job is done by a **dresser**, who shaves away what remains of the Shell and Layer, buffs the surface, and stains in some bands. After that it reads the same on the coil. A rendering house can still spot one on the bench if it cares to look, and the two-instrument comparison described in The Standing Index would catch it on the shelf: the coil's Holding and the fork's density will not reconcile. Most benches own one instrument. Then there is a chit that says wyvern, from a factor three towns away, and a house that has decided not to ask.
+**How it passes.** A practitioner's Crystal comes out with all three of its layers grown, the Essence Core, the Aether Shell and the Attraction Layer. A beast had all three as well, but its Shell never opened and its Layer never thickened, so neither one is in the stone, which is Core and nothing else. So the first job is done by a **dresser**, who shaves away what remains of the Shell and Layer, buffs the surface, and stains in some bands. The shavings have a market of their own, and [[Materials, Alchemy & Trade/Alchemy/The Common Drafts#Stock, layer and lens|The Common Drafts]] says what it buys. After that it reads the same on the coil. A rendering house can still spot one on the bench if it cares to look, and the two-instrument comparison described in The Standing Index would catch it on the shelf: the coil's Holding and the fork's density will not reconcile. Most benches own one instrument. Then there is a chit that says wyvern, from a factor three towns away, and a house that has decided not to ask.
 
 **Where they come from.** Undeclared wars, first of all, since a declared one has a quartermaster counting. Battlefields after dark. Hanged men whose families cannot pay a guard. Duelists' graves. Sect elders, sometimes, from their own students. Famous fighters above all, because a Crystal with a name on it sells for what a kingdom sells for, and every generation has its scandal in which a great family's fortunes improved abruptly after a war.
 

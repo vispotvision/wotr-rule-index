@@ -82,7 +82,7 @@ Monsters move, and you will meet them on every road in the Inner World, and beas
 
 **Age.** It was full before the rolls begin, and no one has ever thinned it. Everywhere else a thing that grows dangerous gets a bounty on the doors, and a crew comes, eventually. Here it has had thousands of years of being left alone.
 
-**Stacked Wells.** A Well (ground where one kind of Aether lies thick enough to rewrite what lives in it) elsewhere has its own country around it and its own stock. Here they lie on top of each other like dropped cards. A crew in the Haze may break masks in five Family colors before lunch.
+**Stacked Wells.** A Well (ground where one kind of Aether lies thick enough to rewrite what lives in it) elsewhere has its own country around it and its own stock. Here they lie on top of each other like dropped cards. A crew in the Haze may break masks in five colors before lunch.
 
 **They eat each other.** Nothing native to the ground above an ordinary Well will touch a Well-spawn. In the Scourge, wyrms and worse have learned to, and masks have been cut out of stomachs here, and nowhere else on file. What survives a hundred thousand generations of that is very good at what it does.
 
@@ -97,7 +97,7 @@ Monsters move, and you will meet them on every road in the Inner World, and beas
 | **Haze-kites** | The Haze and the Black Roots | Membrane and hunger, the color of an old copper pot, riding the outward wind to the rim in dry years, and they take mules | T4 |
 | **Stilts** | The Haze, along the Thresh | The cutters' name. A herd animal on legs as long as a ship's mast, a barrel body far overhead, thousands together walking the dry beds after rain that never lands. Nobody hunts them so much as gets out of their way | T4 |
 | **Greywalkers** | The Haze | The cutters' name. Upright, long-armed, in files at dusk, following the herds. Dust-colored until they rouse, and then wet brick red under the dust | T5 |
-| **Masked spawn of every Family** | Everywhere past the Hem | See [[The Bestiary/The Corrupted and the Risen/Well-spawn\|Well-spawn]]. Read the mask first, and expect a brighter one than the depth suggests | T2 to T8 |
+| **Masked spawn of every kind** | Everywhere past the Hem | See [[The Bestiary/The Corrupted and the Risen/Well-spawn\|Well-spawn]]. Read the mask first, and expect a brighter one than the depth suggests | T2 to T8 |
 | **The things in the dry beds** | The Haze | The register keeps a blank row, as nobody has come back to name them. Half-carts and very clean bones | Not entered |
 | **Earth wyrms** | The Black Roots down | Long, shield-scaled, coming up through the ground with no warning but the shudder. See [[The Bestiary/The Wild/The Draconic Lineage\|The Draconic Lineage]]. A wyrm steadies the Aether around it, so crews in the Haze are always a little glad to find one, for about as long as it takes to see it | T7 |
 | **The crowned** | The Shambles and whatever comes out of it | Surveyors mark the ones they call great with a little crown on the map. Individuals, each one its own kind of disaster, with names and bookies | T7 and up |
@@ -114,8 +114,8 @@ Dungeons, the Bestiary explains at length, are what a Wellspring site makes arou
 
 The ones crews talk about:
 
-- **The Lamplit Stair**, in the Verath Expanse. A Fulguria stair going down from a thornwood gully, its walls a hard blue-white. It has been cleared twice and lost twice, and it is where half the Green Sigils in the Charter get their first bad night.
-- **Nine Wells Gulch**, in the Black Roots. Nine separate Mouths inside a morning's walk, no two of the same Family, and a mask market on the lip in good years with its own cook-tents and bookies. Crews have won it nine times by count. Nobody has held it through a second winter.
+- **The Lamplit Stair**, in the Verath Expanse. An Aurevane stair going down from a thornwood gully, its walls a hard blue-white. It has been cleared twice and lost twice, and it is where half the Green Sigils in the Charter get their first bad night.
+- **Nine Wells Gulch**, in the Black Roots. Nine separate Mouths inside a morning's walk, no two of the same Wellspring, and a mask market on the lip in good years with its own cook-tents and bookies. Crews have won it nine times by count. Nobody has held it through a second winter.
 - **The Upside Abbey**, in the Haze. A whole abbey hanging from the underside of a rock arch, an Ascensio ground (a Wellspring of lift and weight), with its floors over your head and its bells hanging up. Relic hunters adore it. You go in by rope, and nobody agrees on which direction you fall when you stop.
 - **The Dry Harbor**, in the Haze. A Thaloré ground (the Wellspring of crushing depth) in a dead river mouth. No water has been there in the memory of anyone, and yet men are found on bone-dry stone crushed flat as if from a great depth, with their ears burst and, in a few cases, a Mourning Pike's mask nearby in deep teal.
 - **The Long Muster**, in the Shambles. A dead camp of the Great Spirit War on a slope, tents long since gone and the lines still straight, which takes the roll every dusk in a language no one has placed. It has more ghoststeel lying about than the rest of the shield together. Nobody who has answered to their name there has been of further use.

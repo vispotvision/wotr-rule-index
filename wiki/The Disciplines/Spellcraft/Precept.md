@@ -2,7 +2,7 @@
 title: The Graven Absence
 ---
 
-# THE GRAVEN ABSENCE (Glyphica, a cut art filed on the spoken shelf)
+# THE GRAVEN ABSENCE (Write, a cut art filed on the spoken shelf)
 
 *Scholars' term: Precept. The older registers called the practice enshrining.*
 
@@ -22,7 +22,7 @@ A bead on a wire has nowhere else to go, and no force had to tell it so. That is
 
 There is no charge anyone sees. There is one pull at sealing, Aether refined in the Soul Crystal and driven out through the Shell (the Crystal's outer skin), and then none, and 30 to 40 percent of the sealing spend at Glory, 20 to 30 at Master, leaves as heat and structural bleed into substrate and room, once. The standing bleed is zero. No cast, light or pressure follows, and nobody feels stopped. The inscription is the Residue (what a working leaves behind), located and touchable, and with no continuous deposit it can be filed where people must live, which is why guilds use it for codes. It is cut: fixed in a substrate, degrading as any inscription degrades, and beaten through the substrate with no chain to interrupt. The substrate is always the anchor.
 
-Fixatio, the Binding Flame (Materia), sets the gap: a cured thermoset chars before it flows, and what it holds stays held because the alternative is no longer reachable. It strengthens Vitality Fortitude and Resilience Anchoring. Judicium, the Wellspring of Truth (Fulguria), sets its edges, since no substance can present another's spectrum, and that is the whole craft of drafting. The glyph is Boundary, the limit that moves, laid under Order, the register the clause is filed in, and Lock is the same shape used as a reply. The boundary is the set of configurations reachable inside a named sphere: strength and willingness are left alone, and only what is available changes. Over a sphere no layer of the subject is touched, since the working is in the substrate; a soul-bound Precept sits in the Essence Core as a Trait. Developmental Tier is Harmonic at Glory. Where it binds parties as a compact, Votia comes into it, and the author cannot take it back.
+Fixatio, the Binding Flame (Medium), sets the gap: a cured thermoset chars before it flows, and what it holds stays held because the alternative is no longer reachable. It strengthens Vitality Fortitude and Resilience Anchoring. Judicium, the Wellspring of Truth (Wild), sets its edges, since no substance can present another's spectrum, and that is the whole craft of drafting. The glyph is Boundary, the limit that moves, laid under Order, the register the clause is filed in, and Lock is the same shape used as a reply. The boundary is the set of configurations reachable inside a named sphere: strength and willingness are left alone, and only what is available changes. Over a sphere no layer of the subject is touched, since the working is in the substrate; a soul-bound Precept sits in the Essence Core as a Trait. Developmental Tier is Harmonic at Glory. Where it binds parties as a compact, Votia comes into it, and the author cannot take it back.
 
 A working that would take the forbidden shape completes in the nearest available one: an oath sworn in the terms left open, a rank claimed in the permitted form. The mark is a shape in everything downstream, for generations, and the aftermath is documentary: an inscription somewhere, and a sphere where one kind of working has come out the same odd shape for too long. The floor rises with breadth: a named party or a room needs A-Grade authority at Glory, a guild's code S at Transcendence, a city's or a dynasty's law SS at Realization. It cannot compel outside its clause, catch a working that reads its shape before sealing, be argued away by force, or grant rule (that is Coronation). A Precept over a sphere needs no consent; one over a named person, a geas, is void without it, and Rescind exists as its remedy.
 
@@ -36,8 +36,6 @@ The failure is the clause edge misplaced: a century of correct rulings nobody wa
 ## Numbers
 
 **Practitioner** · Narrow clauses: Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Guild codes: Transcendence, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80. City or dynastic law: Realization, Master, same band.
-
-**Paths** · Fortitude needs the Body Path at Ascension to pass C and Flourishing to pass B, or the cure is shallower and weathers faster; Anchoring against erasure needs the Spirit Path at Ascension to pass C, or a B working can scrape a soul-bound clause out.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -63,28 +61,27 @@ The failure is the clause edge misplaced: a century of correct rulings nobody wa
 
 **Duration** · Indefinite with no upkeep; it outlives its author and degrades only as the inscription does. Where it binds parties as a compact, the author cannot take it back.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · Fixatio, the Binding Flame (primary); Judicium, the Wellspring of Truth (secondary).
+**Path** · Spirit. A clause that rules what is available in a place, cut into a substrate; a soul-bound clause sits in the Essence Core as a Trait.
 
-**Family** · Materia (Fixatio); Fulguria (Judicium).
+**Lens** · Fixatio (Medium, primary) · Judicium (Wild, secondary).
 
-**Physics Domain** · Material Science (Fixatio); Electromagnetism (Judicium).
+**Form** · Write. One line carved on a stone.
+
+**Gates** · Fortitude needs the Body Path at Ascension to pass C and Flourishing to pass B, or the cure is shallower and weathers faster; Anchoring against erasure needs the Spirit Path at Ascension to pass C, or a B working can scrape a soul-bound clause out.
+
+**Glyph** · Boundary under Order, with Lock as the same shape used in reply. What a thing is taken to be: what counts as reachable inside a named sphere. Strength and willingness are left alone.
 
 **Phenomenon** · Constraint without force: a forbidden band in a periodic medium, with one allowed state opened per defect.
 
-**Category** · Glyphica (Authorization and Sealing), with Votia where it binds parties as a compact.
-
 **Skill** · Cutting; fixed in a substrate and degrading only as an inscription does.
 
-**Stage floor** · Glory
+**Stage floor** · Glory.
 
 **Grade required** · A-Grade for a named party or a room; S-Grade at Transcendence for a guild's code; SS-Grade at Realization for a city's or a dynasty's law.
-
-**Path gate** · Body Path at Ascension to pass C and Flourishing to pass B in Fortitude; Spirit Path at Ascension to pass C in Anchoring.
 
 ### FOW line
 
@@ -93,8 +90,6 @@ The failure is the clause edge misplaced: a century of correct rulings nobody wa
 **Stage floor** · Glory, rising with breadth to Transcendence and Realization.
 
 **Grade required** · A-Grade, rising to S-Grade and SS-Grade.
-
-**Path gate** · Body Path and Spirit Path by Sub-Stat.
 
 **Resonant Pair** · None
 

@@ -4,7 +4,7 @@ title: "The Sleepers' Road"
 
 # THE SLEEPERS' ROAD
 
-*Speaking, Transitus, Stage VII. The scholars' term is Oblivion-Step.*
+*Speaking, Read, Stage VII. The scholars' term is Oblivion-Step.*
 
 In the summer of the bad cider, the garrison at Pell Bridge posted a standing order fining any man a week's pay for nodding off on the wall. The soldiers thought it was about discipline until the third paymaster looked up from a table of coin in a locked tower room and found a woman in a green cloak standing at his elbow, looking mildly embarrassed. The nearest drowsy person was his clerk. The clerk felt nothing, has never felt anything, and now drinks his weight in bitter tea, and every tavern in the valley sells a mug with a yawning sentry on it.
 
@@ -18,11 +18,11 @@ In the summer of the bad cider, the garrison at Pell Bridge posted a standing or
 
 ### How it really works
 
-She chooses to let her Crystal drop toward sleep. At Refraction the chain is internal, with nothing in hand or mouth to take away, and she does it at will. She pulls a very small amount of Aether, two body-volumes of air and a quarter-second's worth. Limina is favored by darkness, silence and ruins and suppressed by saturated Aether, crowds and active Domains, so the best ground she can ask for is one distracted sentry in an empty ruin.
+She chooses to let her Crystal drop toward sleep. At Refraction the chain is internal, with nothing in hand or mouth to take away, and she does it at will. She pulls a very small amount of Aether, two body-volumes of air and a quarter-second's worth. Oneirion is favored by darkness, silence and ruins and suppressed by saturated Aether and active Domains, and Hypnather by crowds, so the best ground she can ask for is one distracted sentry in an empty ruin.
 
 The crossing itself is a fast real one. The body travels up to 50 m along a line in a quarter-second, and the slowness is what keeps it quiet. A volume appearing or vanishing in air is a monopole sound source, pressure p = ρQ̇/4πr, and the slower the swap of air, the quieter it is. The air still has to move, so the quarter-second cannot be shortened without the step turning into a thunderclap at each end, and anything solid on the line stops it. The address takes dream to carry: Passage, the glyph, in two forms, sets where a trajectory may re-enter, and Reverie addresses the arrival by dream-shadow and ignores the place. Two limits move, as the boundary condition: when the Crystal may relax, pinned to now in place of genuine rest, and where the crossing ends, pinned to the nearest dream-shadow.
 
-Three Wellsprings of Limina serve, and none of them moves her an inch: they find the address and open the door, and the push that carries her body is her own Essence through the Shell. Oneirion, the Wellspring of Dream, is primary: a system's every arrangement is a coordinate in configuration space, and the step picks its arrival coordinate there. Hypnather, the Sleep Crown, says a glass relaxes toward order only while at rest and cannot be forced by ordinary means, and the step forces it open for a half-second on command. Its physical analogue is a glass aging toward order, φ(t) = exp[−(t/τ)^β] with β 0.3 to 0.7: the first half-second of a night's rest is quick, and interrupting it locks in a worse-ordered state. Letheveil, the Waters of Forgetting, is minor: it keeps what is load-bearing and discards the rest, compressing the practitioner's memory of each crossing the way lossy compression does, so each re-encode of the same half-second compounds the last one's artifacts.
+Three Wellsprings serve, and none of them moves her an inch: they find the address and open the door, and the push that carries her body is her own Essence through the Shell. Oneirion, the Wellspring of Dream, is primary: a system's every arrangement is a coordinate in configuration space, and the step picks its arrival coordinate there. Hypnather, the Sleep Crown, says a glass relaxes toward order only while at rest and cannot be forced by ordinary means, and the step forces it open for a half-second on command. Its physical analogue is a glass aging toward order, φ(t) = exp[−(t/τ)^β] with β 0.3 to 0.7: the first half-second of a night's rest is quick, and interrupting it locks in a worse-ordered state. Letheveil, the Waters of Forgetting, is minor: it keeps what is load-bearing and discards the rest, compressing the practitioner's memory of each crossing the way lossy compression does, so each re-encode of the same half-second compounds the last one's artifacts.
 
 She arrives and then stands still, unable to act, for the lag: a quarter-second of disorientation, which is 250 to 1,250 A-Grade reaction periods, and the lag cannot be trained away. Then comes the backwash, the anchor's own emotions surfacing in her uninvited. It needs a live drowsing or startled mind in range. She cannot step to empty ground, and Aurevane or Luminalis light hides the dream-shadow and kills the step.
 
@@ -45,7 +45,7 @@ The Residue is light but readable by a patient reader at both ends, plus the anc
 
 **Anchors** · A stepper with a drowsing Presence cannot stop making anchors, so arrivals fall where anchors already stand; the Attraction Layer drifts toward identity bleed over time.
 
-**Look up** · The Counterplay register for Lock and cut wards; the Limina entries for Oneirion, Hypnather and Letheveil Failures; the Refraction Stage table; the A-Grade reaction and strike bands.
+**Look up** · The Counterplay register for Lock and cut wards; the entries for Oneirion, Hypnather and Letheveil Failures; the Refraction Stage table; the A-Grade reaction and strike bands.
 
 ### Numbers
 
@@ -71,21 +71,21 @@ The Residue is light but readable by a patient reader at both ends, plus the anc
 
 ### Codex line
 
-**Wellspring** · Oneirion (primary) · Hypnather (secondary) · Letheveil (minor)
+**Path** · Spirit. It finds the address in a drifting mind; the push that carries her is only her own Essence through the Shell.
 
-**Family** · Limina
+**Lens** · Oneirion (Spirit, primary) · Hypnather (Spirit, secondary) · Letheveil (Spirit, minor).
 
-**Physics Domain** · Entropy, Void and Mind
+**Form** · Read. She finds a drowsy mind and arrives beside it.
 
-**Category** · Transitus (Triadic)
+**Gates** · Sovereignty is capped at A off the Fate Path.
 
-**Skill** · Speaking; the crossing holds on an anchor, a drifting mind at the far end
+**Glyph** · Passage across Reverie. What a thing is taken to be: where the crossing counts as ending, pinned to the nearest dream-shadow, and when the Crystal counts as rested, pinned to now.
 
-**Stage floor** · Stage VII, Refraction
+**Skill** · Speaking; the crossing holds on an anchor, a drifting mind at the far end.
 
-**Grade required** · A-Grade
+**Stage floor** · Stage VII, Refraction.
 
-**Path gate** · Spirit Path
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -96,8 +96,6 @@ The Residue is light but readable by a patient reader at both ends, plus the anc
 **Stage floor** · Stage VII, Refraction.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Spirit Path.
 
 **Resonant Pair · None.**
 

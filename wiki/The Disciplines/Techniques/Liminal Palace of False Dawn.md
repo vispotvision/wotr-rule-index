@@ -6,7 +6,7 @@ title: The Dawn That Never Broke
 
 *Liminal Palace of False Dawn, the scholars' term, and the Palace for short. Anyone who has walked through the gold door will tell you it was a lovely day.*
 
-## THE DAWN THAT NEVER BROKE (Liminal Palace of False Dawn) (Domain Weaving, Stage XII)
+## THE DAWN THAT NEVER BROKE (Liminal Palace of False Dawn) (Claim, Stage XII)
 
 Lord Ingram Vale took the city of Hesperin at dawn, in the best-attended victory of his career. He rode through the Dyers' Gate on a white horse under a rose and gold sky with the bells ringing, accepted the keys from a weeping mayor, knighted three sergeants, wrote a long and beautiful letter to his wife, and sat down to a feast of roast swan in the Guildhall. His army found him six days later in a drainage ditch a mile short of the walls, sitting bolt upright with a turnip in his hand, extremely pleased, addressing the mud on the subject of taxes. Nearly four thousand of his men had been standing around him the whole time holding a doorway. They held it beautifully, because they had wanted to. It was the wrong doorway.
 
@@ -24,7 +24,7 @@ The law is Bayesian cue combination. The brain reports a blend of what the sense
 
 The glyphs are Reverie (Extension), a reverie given a perimeter, across Mirage (Root). The boundary is the relative weight of expectation against input inside 120 m, and input and will both stay as they are. The true room runs on underneath, unmoved. The fairness of it is exact: it cannot compel against core will, so a fighter who wanted to hold a doorway still does, only wrong about which doorway. It is held turn by turn while she pays and ends when she stops, when its logical slots destabilize, or at the Clarity Break. Breaking the illusion brings vertigo, harmonic disarray or brief conceptual blindness, a moment of vulnerability. Only one full overlay is held ready; extra false readings flooding the space clutter the slots until it falls down on its own.
 
-The Aether pays for reach and the effect is nearly free. Limina is starved by crowds, saturation and Domains, so a packed hall costs more than a ruin. It leaves no physical Residue, so it is the hardest working to prove, even for its maker. Oneirion, the Wellspring of Dream (Limina), says every arrangement of a system is a point in a space with no location, and the working acts on that space, the percept, and leaves the room be. Tenebra, the Hidden Shadow (Limina), says a thing is unseen when its return falls below the watcher's noise floor, and here it mutes the true signal beneath the overlay. Fractura, the Breaking Point (Vectoria), says everything fails at a pre-existing flaw, and here it finds where a target's hold on the room is weakest and loads the false world there. Basilithe, the Stone Will (Materia), says a stiff body holds its frequency against forcing, so it locks the false state against correction, and a pure Basilithe-aligned being sees the seams sooner. Orrenthal, Dissolution, Tarturon, Cataclysm, Penance and Petralon are carried as secondaries.
+The Aether pays for reach and the effect is nearly free. Tenebra is starved by crowds, saturation and Domains, so a packed hall costs more than a ruin. It leaves no physical Residue, so it is the hardest working to prove, even for its maker. Oneirion, the Wellspring of Dream (Spirit), says every arrangement of a system is a point in a space with no location, and the working acts on that space, the percept, and leaves the room be. Tenebra, the Hidden Shadow (Wild), says a thing is unseen when its return falls below the watcher's noise floor, and here it mutes the true signal beneath the overlay. Fractura, the Breaking Point (Wild), says everything fails at a pre-existing flaw, and here it finds where a target's hold on the room is weakest and loads the false world there. Basilithe, the Stone Will (Wild), says a stiff body holds its frequency against forcing, so it locks the false state against correction, and a pure Basilithe-aligned being sees the seams sooner. Orrenthal, Dissolution, Tarturon, Cataclysm, Penance and Petralon are carried as secondaries.
 
 The inherited failures are Oneirion's projection error, Tenebra's aspect dependence (the one unplanned angle that shows the seams), and Basilithe's resonant catastrophe, which appears as the Clarity Break. The Attraction Layer makes the outward claim and the Essence Core pays; Developmental Tier Sovereign at Emanation. Boundary fault: her own expectation is inside the reweighting, so Cognitive Fracture bleeds her memories into the overlay, cumulative across uses, and leaves her unsure which version of events she occupied. Two contradictory full-strength overlays over one ground produce the Clarity Break. The bleed, 10 to 15 percent, leaves as heat at the Shell, essentially the whole energetic footprint, and Harmonic Echo Burn lands on the eyes as migraine, afterimage and brief shadow-blindness.
 
@@ -38,14 +38,21 @@ The Cave school rightly teaches that being turned toward the truth hurts, but pr
 
 ### Codex line
 
-- **Wellspring:** Oneirion, The Wellspring of Dream (primary). Also carried at primary weight per the source: Fractura, Tenebra. Secondary harmonizations carried: Basilithe, Orrenthal, Dissolution, Tarturon, Cataclysm, Penance, Petralon.
-- **Family:** Limina
-- **Physics Domain:** Entropy, Void and Mind
-- **Category:** Domain Weaving
-- **Skill:** Speaking, gestured: a line in the air and a doorway stepped or gestured through
-- **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
-- **Grade required:** SSS-Grade
-- **Path gate:** Fate Path
+**Path** · Spirit and Fate. The room runs on untouched and what it means is rewritten; the Attraction Layer makes the outward claim, and the Essence Core pays.
+
+**Lens** · Oneirion (Spirit, primary) · Fractura, Tenebra (Wild, carried at primary weight) · Penance (Spirit), Basilithe, Orrenthal, Dissolution, Cataclysm, Petralon (Wild), Tarturon (Fate), secondary.
+
+**Form** · Claim. A traced line, a gold door, and 120 m as she set them.
+
+**Gates** · Gnosis Retention needs the Spirit Path at Glory to pass A, so only one full overlay is held ready; Gnosis Cognition's resistance to glamour needs Spirit at Flourishing to pass B, so the caster's own defense stays at B.
+
+**Glyph** · Reverie across Mirage. What a thing is taken to be: how much expectation weighs against input inside 120 m. Input and will both stay as they are.
+
+**Skill** · Speaking, gestured: a line in the air and a doorway stepped or gestured through.
+
+**Stage floor** · Stage XII, Emanation (Band IV, Mythic; Level 301-400).
+
+**Grade required** · SSS-Grade.
 
 ### FOW line
 
@@ -54,7 +61,6 @@ The Cave school rightly teaches that being turned toward the truth hurts, but pr
 - **Secondary Primary:** Harmonics, Sub-Stat Projection (how far the overlay's field reaches before it can no longer be sustained)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Fate Path
 - **Resonant Pair:** None attested in the source card.
 
 ### Origin
@@ -69,7 +75,7 @@ The Palace is a self-derived technique and requires Stage XII; anyone unfamiliar
 
 **Fails against** · Sensory input that outweighs expectation; a blindfolded or waxed sense alongside such a flood; slots cluttered with extra false readings (Knot); constructs; blind fire into known positions; Cognitive Fracture, which spends the caster the longer it runs.
 
-**Look up** · The Counterplay register for Knot; the Limina, Vectoria and Materia entries for Oneirion, Tenebra, Fractura and Basilithe Failures; the Clarity Break; the Emanation Stage table and the Spirit gates.
+**Look up** · The Counterplay register for Knot; the entries for Oneirion, Tenebra, Fractura and Basilithe Failures; the Clarity Break; the Emanation Stage table and the Spirit gates.
 
 ## Numbers
 
@@ -85,8 +91,6 @@ The Palace is a self-derived technique and requires Stage XII; anyone unfamiliar
 ### Essence
 
 **Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; Grade SSS (726 to 950) in Harmonics Projection and Gnosis Cognition, on the Fate Path.
-
-**Paths** · Gnosis Retention needs the Spirit Path at Glory to pass A, so only one full overlay is held ready; Gnosis Cognition's resistance to glamour needs Spirit at Flourishing to pass B, so the caster's own defense stays at B.
 
 **Grade** · SSS is a scale, 100 kilotons to one teraton, not a discharge: nothing is ever delivered against a body.
 

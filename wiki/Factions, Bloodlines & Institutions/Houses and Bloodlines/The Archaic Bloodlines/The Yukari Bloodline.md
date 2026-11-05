@@ -46,6 +46,22 @@ That night at the hearth is the first Telling. Every Telling since is the same a
 
 ---
 
+## What the Blood Gives
+
+Like every [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|archaic line]], the Yukari get four things and never a Path, and with an Epoch behind them they get an instrument besides.
+
+| Slot | The Yukari |
+|---|---|
+| **The eye** | The [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|Ketsumyōgan]], one type to each eye. The perceive types run on the Core at Essence Class. The edit types are pulls at Thread Class, so an editing Yukari pays for two Paths |
+| **The instrument** | [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]], Ashura's own, with one Regard normal and two rare. It climbs on Essence Class, and its price is the Long Look |
+| **The grip** | Thread Class may open early, for the eye's edits. Blood opens it early and the cap never lifts |
+| **The stat lean** | Gnosis Perception, Retention and Forecast; Resilience Ward |
+| **Lens affinities** | Anima Spirare and Anamnesis, then Mirithane, Luminalis and Thaloré, which go easier in this blood and lock nobody out of the rest |
+
+Most of the house walk the Spirit road because the house teaches it, and a Yukari who would rather hit people may do that. The name is chosen, and the eye and the Regard both come by blood, so chosen kin may stand in the long hall with neither.
+
+---
+
 ## Senri Yukari
 
 **Son of Ashura · Father of the House · He Who Went Into the Seam**
@@ -153,7 +169,7 @@ What the Zettari know is endurance by witness. A Zettari-forged thing is declare
 
 ### The Moto, fear worn as policy
 
-The Moto were chosen by Bairos and carry the Scribe's mandate; their sight reads the threads as an administration to be kept. The fear between the two houses is as old as Ashura's first children and it is jurisdictional. The Yukari eye reads the same threads the Moto govern, with an intimacy the Shingan was never built for, and the Moto have the fear of a scribe who finds that someone else can read his hand and, worse, the words he chose not to write down. They tried to fold the family into their offices more than once. Senri refused them in a sentence. The Yukari hold that it was a Moto voice that talked the Seikai into the seam.
+The Moto were chosen by Bara and carry the Scribe's mandate; their sight reads the threads as an administration to be kept. The fear between the two houses is as old as Ashura's first children and it is jurisdictional. The Yukari eye reads the same threads the Moto govern, with an intimacy the Shingan was never built for, and the Moto have the fear of a scribe who finds that someone else can read his hand and, worse, the words he chose not to write down. They tried to fold the family into their offices more than once. Senri refused them in a sentence. The Yukari hold that it was a Moto voice that talked the Seikai into the seam.
 
 ---
 

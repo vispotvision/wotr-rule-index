@@ -2,7 +2,7 @@
 title: The Lie Creation Swallowed
 ---
 
-# THE LIE CREATION SWALLOWED (Mechanica, with Phenomena for the collapse)
+# THE LIE CREATION SWALLOWED (Write, with a self-running collapse)
 
 *Scholars' term: Fallacy. Most formal Ritus Orders ban it under either name.*
 
@@ -20,7 +20,7 @@ A region can be set in a state that holds and yet is not the lowest it could fal
 
 The offset is paid once at filing, the Aether pulled, refined in the Soul Crystal and driven out through the Shell (the Crystal's outer skin), scaled to the clause's load. The hold costs only insulation, so it looks effortless. Below Refraction it is spoken, then held by attention; from Refraction up, attention alone holds it. The tell is a region gone too quiet: laws that should report are silent, paths that should strain do not. The region stays calm while waste leaves the practitioner's Shell as heat, sound and light: 30 to 40 percent of the offset at Glory, 20 to 30 at Transcendence, 10 to 15 at Dissonance. Beside it a practitioner sheds heat and holds very still.
 
-Three Wellsprings of Limina run it. Nihiloth, the Hollow Law, adds no law and cancels the one already there, so a false clause meets no rival; it strengthens Sovereignty, Persistence and Cognition. Dissolution, the Unbinding Stream, says the mixed state has more disorder than the separated one, so the shattering sustains itself once begun. Mirithane, the Wellspring of Reflection, files the clause in true grammar, a faithful rendering of a false statement, which makes it unreadable from inside. The glyph is Truth laid under Mirage: Truth sets what counts as a correctly filed statement, and Mirage makes the false clause impossible to tell from a true one. The boundary is the set of statements a reader compares against, which moves so the false clause falls inside it and the true one outside, for a Wellspring, a Crystal's alignment or a running Draft alike. The Attraction Layer pays: every path near the clause bends to fit it, the practitioner's own included. Developmental Tier is Harmonic at Glory, Radiant at Transcendence, Sovereign at Dissonance. It is Mechanica, forced change with no Wellspring asked, no consent, no correspondence and no debt, which means Silence offers no safe harbor: Silence stops authorization, and this art never asks for it.
+Three Wellsprings run it. Nihiloth, the Hollow Law, adds no law and cancels the one already there, so a false clause meets no rival; it strengthens Sovereignty, Persistence and Cognition. Dissolution, the Unbinding Stream, says the mixed state has more disorder than the separated one, so the shattering sustains itself once begun. Mirithane, the Wellspring of Reflection, files the clause in true grammar, a faithful rendering of a false statement, which makes it unreadable from inside. The glyph is Truth laid under Mirage: Truth sets what counts as a correctly filed statement, and Mirage makes the false clause impossible to tell from a true one. The boundary is the set of statements a reader compares against, which moves so the false clause falls inside it and the true one outside, for a Wellspring, a Crystal's alignment or a running Draft alike. The Attraction Layer pays: every path near the clause bends to fit it, the practitioner's own included. Developmental Tier is Harmonic at Glory, Radiant at Transcendence, Sovereign at Dissonance. It is Mechanica, forced change with no Wellspring asked, no consent, no correspondence and no debt, which means Silence offers no safe harbor: Silence stops authorization, and this art never asks for it.
 
 So paths bend to fit the clause, Crystals re-read against it, Drafts run on it; nobody is fooled and nobody consents. Hard paths run easy, doubtful alignments read clean, refused Drafts authorize. It lasts until a true outside comparison, a load the insulation cannot shield, or a lapse of attention drops the region to the real floor. Once seeded, the edge of the true state spreads by itself, like superheated water flashing to steam, and the one who seeded it cannot stop it. Once collapse starts even the author cannot recall it and is caught. No Fallacy is permanent. An instrument calibrated elsewhere sees it, and once one arrives the working has seconds. The collapse takes nothing further from the practitioner but releases offset and strain into the region, more energy than the working paid.
 
@@ -38,8 +38,6 @@ The scaffold schools teach it as a useful fiction to be taken down after the wor
 **Practitioner** · Local clause: Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Path-scale: Transcendence, Master, η 0.70 to 0.80. Domain-scale: Dissonance, Grandmaster, η 0.85 to 0.90.
 
 **Scales** · Local covers one object's law, one Crystal's self-reading or one lock; path-scale a running Draft, a Wellspring path or layered Animatria; domain-scale a domain's statement about its own law or god.
-
-**Paths** · Sovereignty needs the Fate Path at Glory to pass A, so off it only local clauses; Persistence needs Fate at Refraction to pass S; Cognition needs the Spirit Path at Flourishing to pass B.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -67,28 +65,27 @@ The scaffold schools teach it as a useful fiction to be taken down after the wor
 
 **Duration** · No fixed span: it lasts while insulation and attention hold, from seconds against an outside standard to many turns, and better shielding lengthens it by orders of magnitude.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · Nihiloth, the Hollow Law (primary); Dissolution, the Unbinding Stream, and Mirithane, the Wellspring of Reflection (secondary).
+**Path** · Fate. The false clause is filed on the Attraction Layer, which pays. Off the Path it stops at local lies.
 
-**Family** · Limina
+**Lens** · Nihiloth (Wild, primary) · Dissolution (Wild), Mirithane (Spirit), secondary.
 
-**Physics Domain** · Entropy, Void and Mind.
+**Form** · Write. A false clause, said aloud and held.
+
+**Gates** · Sovereignty needs the Fate Path at Glory to pass A, so off it only local clauses; Persistence needs Fate at Refraction to pass S; Cognition needs the Spirit Path at Flourishing to pass B.
+
+**Glyph** · Truth under Mirage. A term: the set of statements a reader compares against, moved so the false clause falls inside it and the true one outside.
 
 **Phenomenon** · Metastability and nucleation: a state that holds until one seed of the true state forms.
 
-**Category** · Mechanica, with Phenomena for the self-running collapse.
-
 **Skill** · Speaking; said aloud and then held by attention below Refraction, held by attention alone above it.
 
-**Stage floor** · Glory
+**Stage floor** · Glory.
 
 **Grade required** · A-Grade local; S-Grade at Transcendence for a Wellspring-path lie; SS-Grade at Dissonance for a domain-god lie.
-
-**Path gate** · Fate Path to pass A in Sovereignty, so off it only local lies; Spirit Path at Flourishing to pass B in Cognition.
 
 ### FOW line
 
@@ -97,8 +94,6 @@ The scaffold schools teach it as a useful fiction to be taken down after the wor
 **Stage floor** · Glory
 
 **Grade required** · A-Grade, rising to S-Grade and SS-Grade with scale.
-
-**Path gate** · Fate Path beyond local lies.
 
 **Resonant Pair** · None
 
@@ -124,4 +119,4 @@ The scaffold schools teach it as a useful fiction to be taken down after the wor
 
 **Silence** · No safe harbor: Silence stops authorization, and Fallacy never asks for it.
 
-**Look up** · The Counterplay register for Lock and Knot; Statute XXVI for lasting scars; the Limina entries for Nihiloth, Dissolution and Mirithane Failures; Judicium's price and Oblivara's limit; the Glory, Transcendence and Dissonance Stage tables.
+**Look up** · The Counterplay register for Lock and Knot; Statute XXVI for lasting scars; the entries for Nihiloth, Dissolution and Mirithane Failures; Judicium's price and Oblivara's limit; the Glory, Transcendence and Dissonance Stage tables.

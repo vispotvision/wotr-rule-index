@@ -53,6 +53,10 @@ The Zettari carry the standard three-layer Soul Crystal, but thousands of genera
 | **Essence Core** | Soul | Carries hereditary bodily memory. Physical experience persists across generations without turning descendants into copies of their ancestors |
 | **Attraction Layer** | Fate | Deeply responsive to Name, bloodline, sovereign oath, ancestral recognition, Zettari patterns, territory and the Paths themselves |
 
+### **What the Blood Gives**
+
+In the shape every [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|archaic line]] takes, the blood gives four things and never a Path. **The eye** is the Everlasting inheritance (Section III). **The grip** is Aether Class, which opens early and clean in this Shell, and the cap never lifts (below). **The stat lean** and **the lens affinities** are in Section IV. With Aegor behind them they have **an instrument** besides, and it is Matla.
+
 ### **Path**
 
 A Path is the layer a Crystal has learned to lean on; the Crystal recognizes it from how a soul actually lives, and nobody declares it. The Zettari lean overwhelmingly on the **Body Path**: the Aether Shell, the Physical World, matter and force known and worked literally. It buys Strike, Durability and Lifting in full at contact, and, high up, authority over matter itself. It costs range and aura pressure; a Body soul must close the distance until very high up. Matla is the far end of this road: anyone may climb the Body Path, and only a Zettari can carry what stands at the top of it.

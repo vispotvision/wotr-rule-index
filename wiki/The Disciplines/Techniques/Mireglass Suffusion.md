@@ -6,7 +6,7 @@ title: Remember This?
 
 *Mireglass Suffusion is the scholars' term, filed in the Iridescent Archive. The Bakers' Company of Lantern Row calls it the Cake.*
 
-## REMEMBER THIS? (Mireglass Suffusion) (Mnemata, Stage VI)
+## REMEMBER THIS? (Mireglass Suffusion) (Make, Stage VI)
 
 The Bakers' Company of Lantern Row had been at war with the Pastry-Cooks for thirty years over who owned the word *tart*, and at the Guild Dinner the knives came out as they usually did, flour flying in the candlelight and both sides in their gold-laced aprons, when a black film slid across the floor of the hall. Master Baker Hamnet Tuck looked down and saw a seven-tier wedding cake rise up out of the glass, the one he had dropped in front of the Margrave's whole family thirty-one years earlier, lopsided, sagging, and exactly as he remembered it. It came at him from the side of the room the Margrave's table had stood on. It hit him with a real and solid blow that broke his collarbone. The man next to him was fighting his dead brother. The Pastry-Cook across the table, who had seen nothing but a black floor, because he had never once been sorry about anything, kept walking and took Tuck's purse.
 
@@ -24,7 +24,7 @@ A dense film spreads under its own weight across the floor, its surface a corner
 
 The glyphs are Return (Synonym), the record may leave along the vector it arrived on, across Vastness (Root) for the flooded extent; Mirage (Root) is the alternative, a limit on what may be taken for a body. The boundary is the acceptance angle of a surface: the floor is pinned to corner-cube geometry and its read-out to trapped-charge release. Reaction and casting clarity degrade on everyone standing in it. Below Refraction it needs the spoken declaration and the film laid by hand, so silence the voice or stop the hand before the film is down and it does not complete. A film does not evaporate when attention lapses, and it stays on the floor until drawn back or left to dry.
 
-Aether is pulled over the footprint from the caster's frame. Limina is starved by crowds, so the field written to catch every enemy is suppressed by having enemies on it. The Residue is a permanent faint glassiness on the floor that deafens Harmonists (those who read a place by ear). Oblivara, the Dark Mirror (Limina), says information survives a noisy channel through redundancy, and a corner reflector returns energy along its arrival path. Anamnesis, the Wellspring of Remembrance (Limina), says objects store their history in readable form, and it is the instrument that reads it. Oblivara's code exhaustion gives two witnesses two confident, complete and wrong versions, and Anamnesis's thermal resetting can empty the memory it reads, from target or caster. Both are Limina, so they compound: Oblivara strengthens Resilience Persistence and Gnosis Cognition, Anamnesis strengthens Gnosis Retention, Gnosis Analysis and Resilience Anchoring.
+Aether is pulled over the footprint from the caster's frame. Oblivara is starved by crowds, so the field written to catch every enemy is suppressed by having enemies on it. The Residue is a permanent faint glassiness on the floor that deafens Harmonists (those who read a place by ear). Oblivara, the Dark Mirror (Fate), says information survives a noisy channel through redundancy, and a corner reflector returns energy along its arrival path. Anamnesis, the Wellspring of Remembrance (Medium), says objects store their history in readable form, and it is the instrument that reads it. Oblivara's code exhaustion gives two witnesses two confident, complete and wrong versions, and Anamnesis's thermal resetting can empty the memory it reads, from target or caster. They compound: Oblivara strengthens Resilience Persistence and Gnosis Cognition, Anamnesis strengthens Gnosis Retention, Gnosis Analysis and Resilience Anchoring.
 
 The Aether Shell projects the film, and the Attraction Layer is loaded too, since the silhouette comes from the bearing of an old failure, a bond on the Plane of Fate. Developmental Tier Harmonic at Glory. Boundary fault: it cannot be run one-sided, so the caster stands in the flood with their own buried memories surfacing for the whole duration, and thermal resetting may take the record with the read. The bleed, 30 to 40 percent, leaves as heat at the Shell, and the film lit by its own losses glows, making a loud, warm, easy caster to find.
 
@@ -38,21 +38,21 @@ The Memorialists rightly find that memory brings the wrong neighbors and contain
 
 ### Codex line
 
-**Wellspring** · Oblivara, The Dark Mirror (primary). Anamnesis, The Wellspring of Remembrance (secondary).
+**Path** · Spirit. It works on a person's record of their own worst failure; the Attraction Layer is loaded only for the bearing of the old bond.
 
-**Family** · Limina (both).
+**Lens** · Oblivara (Fate, primary) · Anamnesis (Medium, secondary).
 
-**Physics Domain** · Entropy, Void and Mind.
+**Form** · Make. A black film, and a shape on it that hits you.
 
-**Category** · Mnemata (Spirit ↔ Attraction).
+**Gates** · Attunement needs the Fate Path at Welling to pass D, so the silhouette's likeness is coarse and holds only on a target who does not look closely; Cascade stays at B and the film still reaches full radius.
+
+**Glyph** · Return across Vastness. What a thing is taken to be: the floor counts as a record that may leave along the bearing it arrived on. Mirage is the alternative second form.
 
 **Skill** · Speaking (declared).
 
 **Stage floor** · Stage VI, Glory.
 
 **Grade required** · B-Grade.
-
-**Path gate** · Spirit.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ The Memorialists rightly find that memory brings the wrong neighbors and contain
 **Stage floor** · VI, Glory.
 
 **Grade required** · B-Grade.
-
-**Path gate** · Spirit.
 
 **Resonant Pair** · None attested.
 
@@ -78,7 +76,7 @@ Mireglass Suffusion is filed in the Iridescent Archive, a cataloged repository r
 
 **Fails against** · A read image: a memory has the wrong spectrum for a body (Judicium), and recognition un-splits attention; crowds; a soul Absolution has been at, whose old failure has stopped leaking and gives the traps nothing to hold; Luminalis, which leaves nothing to return; a silenced anchor; bolts from off the glass.
 
-**Look up** · The Iridescent Archive's entry for this working; the Limina entries for Oblivara and Anamnesis Failures; Judicium, Absolution and Luminalis; the Glory Stage table and the Fate gates.
+**Look up** · The Iridescent Archive's entry for this working; the entries for Oblivara and Anamnesis Failures; Judicium, Absolution and Luminalis; the Glory Stage table and the Fate gates.
 
 ## Numbers
 
@@ -94,8 +92,6 @@ Mireglass Suffusion is filed in the Iridescent Archive, a cataloged repository r
 ### Essence
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; Grade B (176 to 275) in Harmonics Attunement and Ardency Cascade; Spirit Path.
-
-**Paths** · Attunement needs the Fate Path at Welling to pass D, so the silhouette's likeness is coarse and holds only on a target who does not look closely; Cascade stays at B and the film still reaches full radius.
 
 **Grade** · Read on the Sub-Stats, not the blows: only against three or more standing targets does the room hold a B-Grade strike, and it is paid for by spending them.
 

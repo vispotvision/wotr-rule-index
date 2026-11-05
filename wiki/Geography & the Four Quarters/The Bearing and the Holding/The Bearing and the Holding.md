@@ -31,7 +31,7 @@ Every figure in this ledger was taken **at the face**, not from a chartered clai
 
 **The four quarters** are four quarters of one continent with isles off its shores, and a loaded mule could visit all of them without once getting its feet wet, though the Division does not recommend the mule. Inner, Old, New and Outer are chart-clerks' names from the Voyager Era, and they record the order in which the Guild's charts got there. They say nothing true about the ground, and the elves of the "New" World have been laughing at the word for seven centuries.
 
-**Bearing** is what a material does under load: compression, tension, shear, thermal cycling, abrasion. **Holding** is what working it will keep, and for how long. Every entry gives both, a Tier from T0 to T9 (the Accord's ladder of what a material can stand and who can work it), and where it applies a Resonance (the Wellsprings it answers to), a Family (one of the Eight into which the Wellsprings fall) and a Domain (the branch of natural law that Family works through).
+**Bearing** is what a material does under load: compression, tension, shear, thermal cycling, abrasion. **Holding** is what working it will keep, and for how long. Every entry gives both, a Tier from T0 to T9 (the Accord's ladder of what a material can stand and who can work it), and where it applies a Resonance (the Wellsprings it answers to) and a Domain (the branch of natural law that Resonance works through).
 
 **Aether** is what lies in the ground and air, and how much of it lies there is **Aetheric Density**: rich ground and thin in a scholar's mouth, fat and lean in the street. It comes in sixty types that affect the Soul Crystal differently, and those types are **the Wellsprings**: sources of power that also represent alchemical principles and spiritual transformations. A practitioner pulls Aether out of the world, refines it in the Crystal into **Essence**, and drives it out through the Shell (the soul's outer skin). A place where one type of Aether pools is a Wellspring site, and a worked site with keepers on it is called a **Core** in common speech.
 
@@ -45,21 +45,21 @@ The common account is that Essence made industry possible. That is wrong in an i
 
 | Obstacle | What it held | What removed it |
 |---|---|---|
-| **Water** | No working anywhere ran more than sixty fathoms below the adit line for longer than a dry summer. The deep ore was simply understood to belong to nobody | Phreatis-fed lift arrays · Fluxia, Fluid Dynamics |
-| **Air** | Depth kills by the atmosphere long before it kills by the roof. Firedamp burns, blackdamp smothers, and the old answer was a man in a wet hood with a candle on a pole | Vectoria draught arrays, turning every deep working into a lung |
+| **Water** | No working anywhere ran more than sixty fathoms below the adit line for longer than a dry summer. The deep ore was simply understood to belong to nobody | Phreatis-fed lift arrays · Fluid Dynamics |
+| **Air** | Depth kills by the atmosphere long before it kills by the roof. Firedamp burns, blackdamp smothers, and the old answer was a man in a wet hood with a candle on a pole | Cymorath draught arrays, turning every deep working into a lung |
 | **Haulage** | Rope has a limit and rock is heavy | **Weight Ablation glyphwork**, which lifts nothing and lies to the rope about the weight |
-| **Heat** | Charcoal and a good bellows will not take you past the point where iron becomes liquid, and everything interesting lives past that point | Ignivale and Pyraeon forge-arrays · Caloria, Thermodynamics |
+| **Heat** | Charcoal and a good bellows will not take you past the point where iron becomes liquid, and everything interesting lives past that point | Ignivale and Pyraeon forge-arrays · Thermodynamics |
 | **Assay** | The bearing press is old. The holding coil is not | The coil (the brass assay instrument), which is why the trade in Essence-active material stopped being a matter of a seller's word. A coil reading can be falsified, and **the Accord hangs people for it.** *What cannot be falsified is a coil reading set against an assay fork, because the two instruments answer different questions and a forged lot will not satisfy both.* **The comparison is trivial, both reagents are indexed, and no procedure anywhere requires it** |
 
 > **The single most important fact in the ledger.** A pumped shaft is as deep as its array can be fed, and no deeper. Which means a mine does not die when the ore runs out. **It dies when the ground under its pit head thins and the keepers can no longer pull enough to feed the array, and the ore is still down there when the water comes up.** The Old World is a graveyard of drowned workings that were still profitable on the day they were abandoned.
 
-Weight Ablation halves the effective load on a winding rope for as long as the glyph holds. **When the lie fails it fails all at once.** Every winding house in the Old World has a bell for that and every man underground knows what the bell means. Spatial translation of ore was tried, costed, and abandoned; moving rock through Spatium remains more expensive per ton than moving it up a rope, and will remain so.
+Weight Ablation halves the effective load on a winding rope for as long as the glyph holds. **When the lie fails it fails all at once.** Every winding house in the Old World has a bell for that and every man underground knows what the bell means. Spatial translation of ore was tried, costed, and abandoned; moving rock by Transference remains more expensive per ton than moving it up a rope, and will remain so.
 
 The heat ceiling's fall moved the constraint from the fire to **the vessel**, which is why refractory stock, wolfram and chromite and nothing else, is quietly one of the most strategic commodities in the four quarters and is priced accordingly.
 
 > What follows from all this is the shape of the world as it now stands. **There is no steam engine in any mine, forge or mill in the four quarters and there never will be**, because every problem a stationary engine was going to solve had already been solved by other means before anyone thought to build one.
 >
-> There is instead a continent-wide dependency on Essence supply for the most basic functions of a pit, pumping and ventilation, which means that a Wellspring site going thin or a Core's keepers closing their gate does more than inconvenience a mining district. **It drowns it, and then it suffocates whoever went down to see why the pumps had stopped.**
+> There is instead a continent-wide dependency on hired wardens and the hours they buy at a Core for the most basic functions of a pit, pumping and ventilation, which means that a Wellspring site going thin or a Core's keepers closing their gate does more than inconvenience a mining district. **It drowns it, and then it suffocates whoever went down to see why the pumps had stopped.**
 
 ### The fifth obstacle, which fell last
 

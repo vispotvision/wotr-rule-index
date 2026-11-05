@@ -2,7 +2,7 @@
 title: Because I Said So
 ---
 
-# BECAUSE I SAID SO (Claustra, a spoken working)
+# BECAUSE I SAID SO (Bind, a spoken working)
 
 *Scholars' term: Edictum. The Bench is still upset about the street name.*
 
@@ -21,7 +21,7 @@ A superconductor excludes a magnetic field without pushing on it, because zero f
 
 The charge is a name and a condition said aloud before witnesses, and the target hears it whole and can act during it. Kept by design at Refraction: an Edict is always spoken aloud so it can be heard, appealed, countersigned or lifted. There is one sharp expenditure as the sentence closes, Aether pulled, refined in the Soul Crystal and driven out through the Shell (the Crystal's outer skin), and then nothing; the hold is a state, so an Edict does not lapse with attention. Thirty to 40 percent of the casting spend leaves the Shell as heat, sound and structural bleed, all in the instant of speaking, which is why Edicts are pronounced in halls built for them. The Residue (what a working leaves behind) is heavy and legible: the bound target carries the condition, which is why it can be lifted.
 
-The Aether is Judicium, the Wellspring of Truth (Fulguria): no substance can present another's spectrum. It locates where the new limit sits, and the wall itself is the world's. Its spectral overload loses the priority an Edict needs to name one condition, and Fulguria's terrain (boiled leather, fired clay, dense fog, a shielded interior) spoils the reading and leaves the hold alone. The glyph is Boundary laid under Command: both name a kind of limit on any law, since the law the target runs on is unknown until named. What moves is the value the target's own behavior may take at a named limit. A sentenced target cannot do the forbidden act, a protected one cannot be touched by the named harm, a silenced one cannot use the named Craft. The target still wants the thing and finds the doing unavailable, which feels like an absence and offers nothing to shove against.
+The Aether is Judicium, the Wellspring of Truth (Wild): no substance can present another's spectrum. It locates where the new limit sits, and the wall itself is the world's. Its spectral overload loses the priority an Edict needs to name one condition, and the ground Judicium hates (boiled leather, fired clay, dense fog, a shielded interior) spoils the reading and leaves the hold alone. The glyph is Boundary laid under Command: both name a kind of limit on any law, since the law the target runs on is unknown until named. What moves is the value the target's own behavior may take at a named limit. A sentenced target cannot do the forbidden act, a protected one cannot be touched by the named harm, a silenced one cannot use the named Craft. The target still wants the thing and finds the doing unavailable, which feels like an absence and offers nothing to shove against.
 
 It holds durably and needs no upkeep, sustained by a fact about standing, and it ends when that fact does or when a same or greater authority lifts it. The Attraction Layer, where standing is held, is the active layer; the Essence Core supplies the conviction read as authorization; the Shell does almost nothing. Developmental Tier is Resonant at Refraction. It is a licensing working, the Consent Doctrine's own shape: a process can be licensed where a relationship cannot. There is no contest. Standing is weighed before the sentence, a target within the speaker's authority is bound, and one greater is simply not bound. An Edict cannot reshape reality in general the way a Decretum-class working would, cannot bind a target over whom the speaker has no lawful standing, and cannot originate an obligation, only enforce one.
 
@@ -35,8 +35,6 @@ The other half of the price is clarity of soul. The working reads the caster's c
 ## Numbers
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, A-Grade (276 to 400; 475 under strain).
-
-**Paths** · Sovereignty needs the Fate Path at Glory to pass A, so off it Sovereignty caps at 400; Command needs the Fate Path at Transcendence to pass SS and caps at 400 for any Refraction speaker.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -64,23 +62,23 @@ The other half of the price is clarity of soul. The working reads the caster's c
 
 ### Codex line
 
-Wellspring · **Judicium**, the Wellspring of Truth (primary).
+**Path** · Fate. The Attraction Layer, where standing is held, is the active layer, and the Essence Core supplies the conviction read as authorization.
 
-Family · **Fulguria**: Electromagnetism.
+**Lens** · Judicium (Wild).
 
-Physics Domain · Electromagnetism.
+**Form** · Bind. A sentence said aloud with the right to say it.
 
-Phenomenon · Control-boundary imposition (a fixed condition enforced at a defined limit).
+**Gates** · Sovereignty needs the Fate Path at Glory to pass A, so off it Sovereignty caps at 400; Command needs the Fate Path at Transcendence to pass SS and caps at 400 for any Refraction speaker.
 
-Category · **Claustra** (Spirit ↔ Attraction).
+**Glyph** · Boundary under Command. A term: the value the target's own behavior may take at a named limit, for a target whose law is unknown until named.
+
+**Phenomenon** · Control-boundary imposition (a fixed condition enforced at a defined limit).
 
 **Skill** · Speaking (explicitly a spoken working).
 
-Stage floor · **Stage VII, Refraction**.
+**Stage floor** · Stage VII, Refraction.
 
-Grade required · **A-Grade**.
-
-Path gate · None.
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -89,8 +87,6 @@ Governing Primary · **Dominion** (Sovereignty, Command), secondary **Gnosis** (
 Stage floor · Stage VII, Refraction.
 
 Grade required · A-Grade.
-
-Path gate · None.
 
 Resonant Pair · None.
 
@@ -106,4 +102,4 @@ Urion originates the form at the cosmological scale; mortal derivations of the s
 
 **Fails against** · A hand over the speaker's mouth; a Lock placed beforehand; a target who outranks the speaker; a seal forced early, which bills the speaker; shielding or fog that mis-locates the edge; a judge who has stopped believing their bench.
 
-**Look up** · The Judicium entry and Fulguria's terrain; the Lock glyph in the Counterplay register; the Fate Path gates for Sovereignty and Command; the Consent Doctrine; the Refraction Stage table.
+**Look up** · The Judicium entry and its Ground; the Lock glyph in the Counterplay register; the Fate Path gates for Sovereignty and Command; the Consent Doctrine; the Refraction Stage table.

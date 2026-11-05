@@ -32,8 +32,8 @@ Mad Dunna Quillon ran Bloodsilver past the harbor searchers of three kingdoms fo
 > Measured on the coil (the great brass assay instrument; a practitioner stands inside it to be read, and a sample sits where the practitioner would).
 **The two do not track each other.** Forge-Iron bears magnificently and holds nothing. Gloomhide is spiritually inert and physically superb. Mireclay holds a totem for one night and cannot hold a roof for one hour. A material's tier says what it can hold; a finished piece also carries a Grade for its power and a Rarity for its scarcity, and those belong to [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]].
 
-**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty alchemical and spiritual transformations, each the governing idea that shapes how a soul uses Aether and each a type of Aether as well). **Family** names the behavioral family it sits in when worked. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.*
-> Blank cells in those three columns mean **canon is silent, not that the material is inert.** An Engraver (the craftsman who cuts a working into a substrate) who fights his substrate pays for it in the lifespan of the inscription.
+**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty alchemical and spiritual transformations, each the governing idea that shapes how a soul uses Aether and each a type of Aether as well). **Kind** names the plane that Wellspring is at home on: Wild, Spirit, Fate or Medium. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a thermal refractory is not ordered for an electrical duty by a clerk who never went underground.*
+> Blank cells in those three columns mean **the Ledger is silent, not that the material is inert.** An Engraver (the craftsman who cuts a working into a substrate) who fights his substrate pays for it in the lifespan of the inscription.
 
 ---
 
@@ -138,7 +138,7 @@ Value, Coin and Trade
 **The Apparatus of the Age** is its equipment appendix: *the tallow candle before the Aethersteel plate, because the candle appears in more scenes than any weapon.*
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture]]
-> **Cross-section note.** *The Works and Days* names its own unbuilt gaps, **food and cuisine, music, ground-level justice, domestic life and courtship**, which are the same items standing on the docket as **the folk world.** *That register is the closest thing to a foundation for them that exists.*
+> *The Works and Days* says plainly what it leaves out, **food and cuisine, music, ground-level justice, domestic life and courtship**, which is most of what people call **the folk world.** *That register is the closest thing to a foundation for them that exists.*
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard]]
 > **What a pound is, and who never accepted it.** **Weight, Measure and the Standard** underpins the assay, the proof-mark and the Bench, none of which work without standard weights.
 >

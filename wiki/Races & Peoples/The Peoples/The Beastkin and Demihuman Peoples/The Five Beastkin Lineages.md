@@ -14,7 +14,7 @@ Then came the salvage court at Altherion, which divided the crew's share as the 
 
 Five people, one bad night, and five entirely different souls doing the only thing each of them was built to do. Here are the builds.
 
-*On terms.* The stat columns are the Guild's measure of what a lineage adds to or takes from a practitioner: **Vitality** for wounds, **Ardency** for output and the punch through worked armor, **Gnosis** for knowledge and the read, **Dexterity** for measure and reaction, **Harmonics** for attunement and the pull of Aether from the ground, **Resilience** for what a working does to the Crystal, **Tempering** for control and how long a working can be pushed, **Dominion** for spatial authority and Pressure. A **Soul Path** is the share of a person's power running through body, spirit or fate. **Aether Class** sets how much of what a practitioner pulls reaches the working through the Shell. A **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way. A **glyph** is a unit of Parunic, the script that writes boundaries onto laws. A **Trait** is a power bound into the soul, and a **Domain** is the territory in which a high-Stage practitioner's own law holds. **Dissonance** is what a soul does when a Stage breaks it instead of raising it.
+*On terms.* The stat columns are the Guild's measure of what a lineage adds to or takes from a practitioner: **Vitality** for wounds, **Ardency** for output and the punch through worked armor, **Gnosis** for knowledge and the read, **Dexterity** for measure and reaction, **Harmonics** for attunement and the pull of Aether from the ground, **Resilience** for what a working does to the Crystal, **Tempering** for control and how long a working can be pushed, **Dominion** for spatial authority and Pressure. An **Untrained lean** is the tilt a lineage gives the three layers of a soul before anyone has trained it, and it never sets Mastered or Walked ([[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]). **Aether Class** sets how much of what a practitioner pulls reaches a working that lands through the Shell. A **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way. A **glyph** is a unit of Parunic, the script that writes boundaries onto laws. A **Trait** is a power bound into the soul, and a **Domain** is the territory in which a high-Stage practitioner's own law holds. **Dissonance** is what a soul does when a Stage breaks it instead of raising it.
 
 ---
 
@@ -28,9 +28,9 @@ Descended from the ancient **Clawbound Accord** formed during the Watcher's Ecli
 
 ### Soul architecture
 
-**Soul Habit** · Emotion, reflex and shadow, with a kinetic edge on the release. Their souls function as **Kinetic Reservoirs**: raw emotion stored in muscle memory, released as Aetheric force through physical acceleration. **Where most practitioners channel Aether deliberately, they embody it, and then they move.**
+**In the blood** · Their souls function as **Kinetic Reservoirs**: raw emotion stored in muscle memory, released as Aetheric force through physical acceleration. **Where most practitioners channel Aether deliberately, they embody it, and then they move.**
 
-**Soul Path** · Body 62% / Spirit 38%. *Their Aura lays no claim to the space around it. It is the absence of spatial presence, the way a room changes when something very fast has just passed through it.*
+**Untrained lean** · Body 62% / Spirit 38%. *Their Aura lays no claim to the space around it. It is the absence of spatial presence, the way a room changes when something very fast has just passed through it.*
 
 **Aether Class** · I through IV standard; V Radiant for senior shadow-walkers with sustained Somnalis resonance. **Their Aether rung tends to read lower than their practical capability** because burst, precise, contained output does not saturate ambient Aether the way volume-heavy practitioners do. Assay forks have cost a lot of people a lot of money over this.
 > **Primary fracture point at Stage V Splintering.** The emotional reservoir architecture resists the soul cracking open that the Stage requires. Catkin who pass Stage V cleanly **tend to pass it violently**, and emerge with elevated Domain formation instincts they weren't expecting.
@@ -56,7 +56,7 @@ Descended from the ancient **Clawbound Accord** formed during the Watcher's Ecli
 
 ### Metaphysical identity
 
-**Wellsprings** · **Somnalis** primary: shadow-walking is a Somnalis expression made physical; the blink-space between moments is Somnalis territory. **Tenebra** strong secondary. **Ignivale** accessible, the moment of emotional ignition that converts reservoir to output. **Aurevane and all Solar/Celestial suppressed**, −30% all stats in Radiant Domains: *their architecture is built around the space between light sources, and light itself is no friend of it.*
+**Wellsprings** · **Somnalis** primary: shadow-walking is a Somnalis expression made physical; the blink-space between moments is Somnalis territory. **Tenebra** strong secondary. **Ignivale** accessible, the moment of emotional ignition that converts reservoir to output. **Aurevane and Luminalis suppressed**, −30% all stats in Radiant Domains: *their architecture is built around the space between light sources, and light itself is no friend of it.*
 
 **Glyphs** · Strong: `Wy` Motion, `Fi` Passion, `El` Illusion, `Sa` Silence. **Rejected:** `Ko` Order, `Ky` Structure. These require the linear Gnosis chains the architecture suppresses, and contact produces feedback rather than working.
 
@@ -93,9 +93,9 @@ Born from the **Great Hunt Pact** during the First Moonfall, when wild spirits a
 
 ### Soul architecture
 
-**Soul Habit** · Instinct, lunar and primal, with something green and living under it. Their souls **oscillate with the lunar cycle**; the internal lattice is Reactive, triggering Aetheric bursts through physical reflex rather than cognitive calculation. *They feel the technique happen before they decide to use it.*
+**In the blood** · Their souls **oscillate with the lunar cycle**, and the Core answers by reflex, triggering Aetheric bursts through physical reflex rather than cognitive calculation. *They feel the technique happen before they decide to use it.*
 
-**Soul Path** · Body 60% / Spirit 40%. At depth, **the Spirit Path component is distributed across the pack as a shared architecture, and no one Lupine holds all of it.**
+**Untrained lean** · Body 60% / Spirit 40%. Among those who walk the Spirit Path, **it is distributed across the pack as a shared architecture, and no one Lupine holds all of it.**
 > **Isolation Decay** produces Crystal **compression rather than fracture**, a slow fading that reads as emotional shutdown before it reads as spiritual damage. Lupine who have been isolated long enough describe feeling *"too quiet for too long."* **The recovery requires pack proximity, and no physician can substitute.**
 >
 > **Acute fracture risk at Stage V if isolated.** Splintering requires the soul to crack open to become larger, and the Lupine soul architecture is communal, resisting individual expansion. In isolation, Stage V tends to produce collapse rather than growth.
@@ -119,7 +119,7 @@ Born from the **Great Hunt Pact** during the First Moonfall, when wild spirits a
 
 ### Metaphysical identity
 
-**Wellsprings** · **Verdantia** primary: life as continuous communal process, pack as ecosystem. **Selunite** primary secondary: *their power expression genuinely varies with lunar phase.* **Anima Spirare** accessible through bond-formation overlap. **Somnalis** accessible at full-moon peak, for dream-pack communion during Howls of Mourning. **Order-aspected suppressed**: the reactive architecture reads structured stillness as threat rather than discipline.
+**Wellsprings** · **Verdantia** primary: life as continuous communal process, pack as ecosystem. **Luminalis**, moonlight being the light that hides, primary secondary: *their power expression genuinely varies with lunar phase.* **Anima Spirare** accessible through bond-formation overlap. **Somnalis** accessible at full-moon peak, for dream-pack communion during Howls of Mourning. **Judicium and Fixatio suppressed**: the reactive architecture reads structured stillness as threat rather than discipline.
 
 **Glyphs** · Strong: `Ye` Unity (the Pack-Soul's primary phoneme), `Ka` Cycle, `Va` Moment, `Ma` Memory. **Backlash:** `Ko` Order, `Al` Edge. Structure and boundary phonemes produce **the Aetheric equivalent of a wall appearing inside a field that was never designed to contain one.**
 
@@ -156,9 +156,9 @@ Formed during the **Age of Glacial Memory** when the Titan of Endurance drew mou
 
 ### Soul architecture
 
-**Soul Habit** · Geological permanence first, **the specific weight of things that refuse to end.** Green and living growth second. *Their souls are old-growth heavy.*
+**In the blood** · **The specific weight of things that refuse to end.** *Their souls are old-growth heavy.*
 
-**Soul Path** · Body 70% / Spirit 30%. The Spirit component expresses through environmental attunement and the Stillness Trial discipline: **the spiritual practice of holding while everything around you fails is both a combat technique and a soul architecture.**
+**Untrained lean** · Body 70% / Spirit 30%. The Spirit side shows through environmental attunement and the Stillness Trial discipline: **the spiritual practice of holding while everything around you fails is both a combat technique and a soul architecture.**
 > **Crystal fracture pattern · Subtle-Blindness amplification.** The Crystal resists abstract and illusory architecture so fundamentally that exposure to high-tier Illusion or Dream workings produces **confusion fractures**, a specific Crystal disorientation with no physical damage in it.
 >
 > They cannot be tricked into reaching for a wall that isn't there, **because their Crystal does not process "wall that isn't there" as a possible category.**
@@ -182,7 +182,7 @@ Formed during the **Age of Glacial Memory** when the Titan of Endurance drew mou
 
 ### Metaphysical identity
 
-**Wellsprings** · **Monolithion** primary, native. **Verdantia** strong secondary, the living system's version of the mountain's permanence. **Basilithe** accessible. **Dream, Illusion, and Subtle-tier rejected**: Subtle-Blindness; contact produces confusion fractures.
+**Wellsprings** · **Monolithion** primary, native. **Verdantia** strong secondary, the living system's version of the mountain's permanence. **Basilithe** accessible. **Oneirion, Eidolyn and Hypnather rejected**: Subtle-Blindness; contact produces confusion fractures.
 
 **Glyphs** · Strong: `Ir` Endurance, `Tar` Weight, `Ka` Cycle, `Ky` Structure. **Their glyph-chains are the most materially stable in any beastkin tradition**: `Ir`-`Tar`-`Ky` chains persist without maintenance for decades. **The Bearkin are the only beastkin lineage whose inscribed workings outlast the practitioner who made them without Aetheric renewal.** Backlash: `El` Illusion, `No` Negation. *Their soul is too grounded for negation.*
 
@@ -221,9 +221,9 @@ Every tavern from the Salt Road to the sea calls trained sensing *the nose* (the
 
 ### Soul architecture
 
-**Soul Habit** · Life as warmth first, **the specific quality of choosing openness as a position.** Second, the water in it: empathic, tidal, memory of felt things. **Their souls are permeable in a way that other beastkin souls are not: they receive environmental Aether rather than just projecting into it.**
+**In the blood** · Warmth, **the specific quality of choosing openness as a position**, and a tidal memory of felt things. **Their souls are permeable in a way that other beastkin souls are not: they receive environmental Aether rather than just projecting into it.**
 
-**Soul Path** · Spirit 78% / Fate 18% / Body 4%. *Do not look for a combat lineage here.*
+**Untrained lean** · Spirit 78% / Fate 18% / Body 4%. *Do not look for a combat lineage here.*
 > Fox-spirit Crystal fracture is rare and typically associated with **sustained olfactory overload**: exposure to extreme Aetheric event residue without adequate processing time. **The Crystal's porosity, which makes the nose function, also makes it vulnerable to saturation.** Practitioners in high-Aether environments need periodic Somnalis-integration sleep to process accumulated intake.
 >
 > **Stage III is the stage most affected by captivity and environmental suppression.** Fox-spirit Crystal requires conditions of reasonable safety, or the kind of danger that pushes outward. **Inward-pressing danger, meaning captivity, sustained threat, isolation from sensory richness, stalls Stage III at the threshold.**
@@ -286,9 +286,9 @@ Second Eon, Dissolution Period. Formed near the Scorchline Wellsprings when memo
 
 ### Soul architecture
 
-**Soul Habit** · Memory: reflection, adaptation and temperature sync, the mirror before anything. Their souls function as **Aetheric mirrors**, capable of reflecting and storing complex historical data within the spiritual lattice. *What they touch, they remember. What they remember, they can use.*
+**In the blood** · The mirror before anything. Their souls function as **Aetheric mirrors**, capable of reflecting and storing complex historical data within the Core. *What they touch, they remember. What they remember, they can use.*
 
-**Soul Path** · Spirit 65% / Fate 25% / Body 10%. The Fate component expresses through historical Domain formation: **territories where Serpentkin have practiced become living archives.**
+**Untrained lean** · Spirit 65% / Fate 25% / Body 10%. The Fate side shows through historical Domain formation: **territories where Serpentkin have practiced become living archives.**
 > Their Crystal is architecturally unusual: **memory imprints accumulate as structural layers rather than as stored data.** An old Serpentkin Crystal, viewed with sufficient Gnosis, **looks like sedimentary rock**, each layer a period of their life, compacted into the substrate.
 >
 > **Stall potential at Stage VIII.** Transcendence requires genuine change, and the Coiling Memory architecture is oriented toward preservation. **The Crystal resists restructuring because it contains too much it doesn't want to lose.**
@@ -310,7 +310,7 @@ Second Eon, Dissolution Period. Formed near the Scorchline Wellsprings when memo
 
 ### Metaphysical identity
 
-**Wellsprings** · **Anamnesis** primary: recovered memory, historical resonance, temporal depth. **Speculum** strong secondary. **Somnalis** accessible, used for Coiling Memory integration work. **Solfatara** accessible through temperature-sync architecture, **and cold-aspected Wellsprings accessible through opposite-temperature regulation**: both thermal extremes available, *moderate temperatures actually their weakest environmental range.*
+**Wellsprings** · **Anamnesis** primary: recovered memory, historical resonance, temporal depth. **Mirithane** strong secondary. **Somnalis** accessible, used for Coiling Memory integration work. **Solfatara** accessible through temperature-sync architecture, **and the Titan Vohrin's cold ground workable through opposite-temperature regulation**: both thermal extremes available, *moderate temperatures actually their weakest environmental range.*
 
 **Glyphs** · Strong: `Ma` Memory, `Zo` Echo, `Ka` Cycle, `En` Lattice, `Len` Line. **Their glyph chains are among the most temporally stable in the Continuum**: `Ma`-`Zo`-`En` chains persist without degradation because the Crystal substrate feeds them passive Essence from its accumulated memory layers.
 

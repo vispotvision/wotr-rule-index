@@ -6,7 +6,7 @@ title: Forty-Five Seconds of God
 
 *Dirge Ascension is the scholars' term. The old soldiers of Sarn Field call that afternoon the day the arrows got heavy, and they are correct in every particular but one.*
 
-## FORTY-FIVE SECONDS OF GOD (Dirge Ascension) (Phenomena, Stage XIV)
+## FORTY-FIVE SECONDS OF GOD (Dirge Ascension) (Claim, Stage XIV)
 
 Ulf Graycloak could put a shaft through a thrown ring at two hundred paces, and he had the ring collection to prove it, nailed in gold rows to the wall of the Archers' Hall. On Sarn Field he and six hundred of his Company loosed their opening flight at one man standing alone in a scarlet coat, and the flight fell like a dropped sack of nails about forty paces from their own feet, while half the bowstrings parted and the sky turned the color of a bruised peach. A cart rolled uphill. A sergeant who leaned on a fence went through it. For the next forty-five seconds, by the water clock in the baggage, nothing any man on that field knew about his own body or his own bow was true, and the Hall took the rings down that winter.
 
@@ -24,7 +24,7 @@ The rolls call the state proto-Archonic, his mortal ceiling shed for the length 
 
 The glyphs are Era (Valen), the one form naming a limit on scale, across Vastness (Zhaeren) for the kilometer. The boundary is the energy scale at which local couplings are read, inside 1,000 m for forty-five seconds, and no single law is altered. Zenith needs no anchor and the working has no outward component. It ends on the clock, into recoil. The Crystal cannot hold two incompatible renormalizations of one region at once, so it cannot overlap World Echelon. Dominion Sovereignty stays capped at A even while ascended, since the Spirit Path does not open it, and the rewrite of local law runs weaker for it.
 
-Four billion cubic meters of Aether are worked, with the couplings altered and the Essence spent besides. The residue is the most readable there is: every material inside records being sampled at the wrong scale, and Harmonists (those who read a place by ear) there hear everything slightly out of tune for a long time. Exuroth, the Trial Flame (Caloria), says repeated thermal shock then controlled recovery tempers the lattice past what slow cooling reaches, and it supplies the tolerance to survive holding the state open. Catharsis, the Wellspring of Release (Caloria), is a latent-heat law by the scholars' account and a release in the soul by anyone else's: it adds nothing to the field and gives no fire, and takes up a huge transition in him at constant temperature, giving the state a clean exit where a snap back would be. Judicium, the Wellspring of Truth (Fulguria), is held alongside. Caloria wants steep thermal gradients, combustible air and geothermal ground; Fulguria wants dry air, conductive ground and clear sight.
+Four billion cubic meters of Aether are worked, with the couplings altered and the Essence spent besides. The residue is the most readable there is: every material inside records being sampled at the wrong scale, and Harmonists (those who read a place by ear) there hear everything slightly out of tune for a long time. Exuroth, the Trial Flame (Wild), says repeated thermal shock then controlled recovery tempers the lattice past what slow cooling reaches, and it supplies the tolerance to survive holding the state open. Catharsis, the Wellspring of Release (Spirit), is a latent-heat law by the scholars' account and a release in the soul by anyone else's: it adds nothing to the field and gives no fire, and takes up a huge transition in him at constant temperature, giving the state a clean exit where a snap back would be. Judicium, the Wellspring of Truth (Wild), is held alongside. Exuroth wants steep thermal gradients, combustible air and geothermal ground; Judicium wants dry air, conductive ground and clear sight.
 
 The failures are old friends. Exuroth's quench cracking is the post-use collapse, which is why repeated use is worse than long use; Catharsis's supercooling is what a failed exit looks like; Judicium's failures ride along. A kilometer-wide Zenith working is a saturation candidate by scale, and past the threshold it causes Crystal Fracture Events in everyone exposed, him included. All three layers carry it: the Core holds the doctrine borrowed against, the Shell carries 2.8 × 10⁶ AU/s, the Attraction Layer holds a kilometer's claim. Developmental Tier Crystallized Soul. The structural fault: the working succeeds and the practitioner does not, burning one percent of the Soul Crystal each use and ending in paradox recoil as the frame returns to its own scale. Below η 1.0 up to 140 GW leaves as heat at the Shell; above it the room pays up to 560 GW and the kilometer is left thin.
 
@@ -38,14 +38,21 @@ The theory is the Debt Position: borrowed authority settled in Crystal mass that
 
 ### Codex line
 
-- **Wellspring** · Exuroth (primary), Judicium and Catharsis (secondary)
-- **Family** · Caloria (Exuroth, Catharsis); Fulguria (Judicium)
-- **Physics Domain** · Thermodynamics, primary; Electromagnetism, secondary
-- **Category** · Phenomena (Attraction-Dominant), a large-scale event where Aether law itself bends under overload, matching "local physics obey rewritten equations" and the self-sustaining 45-second duration once triggered
-- **Skill** · Speaking, internalized, with no anchor and no outward component, and fixed at forty-five seconds
-- **Stage floor** · Stage XIV, Zenith
-- **Grade required** · EX-Grade
-- **Path gate** · Spirit Path
+**Path** · Spirit. A meaning-law over a kilometer; the Core holds the doctrine borrowed against, and the Attraction Layer only holds the claim.
+
+**Lens** · Exuroth (Wild, primary) · Judicium (Wild), Catharsis (Spirit), secondary.
+
+**Form** · Claim. Total inner commitment, a kilometer, forty-five seconds.
+
+**Gates** · Dominion Sovereignty's gate calls for the Fate Path and is unmet here, so Sovereignty stays capped at A even while ascended and the rewrite of local law runs weaker for it.
+
+**Glyph** · Era across Vastness. What a thing is taken to be: what the local weights of the laws count for, inside 1,000 m. No single law is altered.
+
+**Skill** · Speaking, internalized, with no anchor and no outward component, and fixed at forty-five seconds.
+
+**Stage floor** · Stage XIV, Zenith.
+
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -54,8 +61,6 @@ Governing Primary: Ardency (Flux, Overchannel, Depth), primary, via Exuroth; Vit
 Stage floor: Stage XIV, Zenith.
 
 Grade required: EX-Grade.
-
-Path gate: Spirit Path (Dominion Sovereignty's Fate-Path gate unmet).
 
 Resonant Pair: None claimed; insufficient Sub-Stat data in the source.
 
@@ -71,7 +76,7 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Fails against** · The end of the counted window and the recoil after it; feints that waste ascensions; a divided crowd; Wellsprings detuned by fog, cold or shielding; Silence, Knot or Lock; Aether-dead ground; harm to the body in recoil; none of which needs the stronger side. An Archonic mandate or Talos-class Nihiloth null outranks it.
 
-**Look up** · Silence, Knot and Lock in the Counterplay register; Exuroth, Catharsis and Judicium failures; the Caloria and Fulguria terrain; Aetheric Saturation; the Path gates for Sovereignty; the Zenith Stage table and the EX Grade row.
+**Look up** · Silence, Knot and Lock in the Counterplay register; Exuroth, Catharsis and Judicium failures; the Ground of Exuroth and Judicium on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]] and Catharsis on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]]; Aetheric Saturation; the Path gates for Sovereignty; the Zenith Stage table and the EX Grade row.
 
 ## Numbers
 

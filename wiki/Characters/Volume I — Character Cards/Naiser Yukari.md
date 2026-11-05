@@ -11,7 +11,7 @@ private: true
 **Naiser Yukari** · The Bearer of Weight · Lord of House Yukari · son of Senri Yukari and a daughter of House Lambert, grandson of Ashura Yukari · as of the season after the war
 **Stat line** · Level 395 · Band IV, Mythic · Stage XII, Emanation · Tier 7, Grandmaster · Grade cap SSS, ceiling 950 · Path Spirit 40% / Body 35% / Fate 25% · η 0.89 · Class unnamed · Aether IV · Essence V · Thread I · Crystal Sovereign, Refined · reserve 3.03 × 10⁸ EU
 **Combat grammar** · Verdict
-**Aura and sound** · Limina at Emanation's clarity, a medium gray with black-violet living in it like black silk drawn over a blade edge, silver-violet flaring at the seams when the deeper lineage harmonics wake, and the air round him dimming like a corridor with the lamps turned low; sound: two low notes a hair apart that drift together until they are one, with a long hall's echo under them · smell: cedar smoke and cold stone
+**Aura and sound** · Anamnesis at Emanation's clarity, a medium gray with faded violet deepening to black-violet living in it like black silk drawn over a blade edge, silver-violet flaring at the seams when the deeper lineage harmonics wake, and the air round him dimming like a corridor with the lamps turned low; sound: two low notes a hair apart that drift together until they are one, with a long hall's echo under them · smell: cedar smoke and cold stone
 **Stack** · sustainable A in Finesse, Economy and Penetration · cap +2 Grades · layers: RYŌKE NO KATA, the Twin Mantle when called, the Corridor when opened
 **Releases** · THE TWIN MANTLE (First) · THE CORRIDOR BETWEEN HALLS (Second, opens the Domain) · THE RECORD OPENS (Third) · bonded weapon: the unnamed longblade
 **Traits** · TWIN-BLOOD HARMONY (Primary) · tell: his breath and his heartbeat fall into one count · counter: a rhythm that drives them apart / THE ENTERED WORD (Secondary) · tell: oaths spoken near him come out plainer than the speaker meant · counter: say nothing / THE BREATH'S CONTINUANCE (Inherited) · tell: he does not hurry, ever · counter: speed early, before he settles
@@ -55,9 +55,9 @@ private: true
 
 ## III. Wellspring Harmonizations
 
-**Anamnesis** · the Wellspring of Remembrance · Limina · Depth: deep · objects and souls store their history in readable form, the way fired clay keeps its dose; he reads lineage the way a smith reads temper colors
-**Fixatio** · the Binding Flame · Materia · Depth: deep · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes. Failure: over-cure, a rigidity that cannot bend even to save him
-**Ascensio** · the Ladder of Ascent · Vectoria · Depth: held · the inclined plane: the same climb made over a longer road so the structure never sees the peak strain; why his Stages came quietly, and why he still owes the difference
+**Anamnesis** · the Wellspring of Remembrance · Medium · Depth: deep · objects and souls store their history in readable form, the way fired clay keeps its dose; he reads lineage the way a smith reads temper colors
+**Fixatio** · the Binding Flame · Medium · Depth: deep · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes. Failure: over-cure, a rigidity that cannot bend even to save him
+**Ascensio** · the Ladder of Ascent · Wild · Depth: held · the inclined plane: the same climb made over a longer road so the structure never sees the peak strain; why his Stages came quietly, and why he still owes the difference
 
 ## IV. Primary Stats
 

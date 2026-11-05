@@ -4,7 +4,7 @@ title: "The Mutiny Aria"
 
 # THE MUTINY ARIA
 
-*Cutting, Vectra, Stage VII with a late push toward S-Grade. The scholars' term is Symphonia Ascendens, or Symphonia Ascendant.*
+*Cutting, Sing, Stage VII with a late push toward S-Grade. The scholars' term is Symphonia Ascendens, or Symphonia Ascendant.*
 
 The Tuners hold that a soul is a harmony, and for a generation they were the fashionable physicians of Lanthorn, in sky-blue gowns with little silver forks at the belt. Doctor Ludo Marchbanks was called to sound the true ratio at a duke's melancholy, and since only the target's own chord couples, he began, as every Tuner must, by broadcasting the sickness. The duke's whole household wept for three days. The kitchen wept into the soup. The town's dogs lay down in the road. His trial drew bigger crowds than the spring tournament, and he defended himself by humming, until the judge joined in.
 
@@ -18,13 +18,13 @@ The Tuners hold that a soul is a harmony, and for a generation they were the fas
 
 ### How it really works
 
-First a hum under the room that dampens ordinary sound. Then a sigil traced with the free hand while a chord staff carries a rising chord onto a target heard casting before, from a direction the distance does not explain, always sung, whatever the Stage. The working is cut into the instrument, the Aether Chord Staff. She pulls Fulguria (dry air, conductive ground, clear sight lines) and Limina (darkness, silence, thin Aether, ruins), so the best ground is dark, dry, open and empty, and an active Domain, her own included, starves the reflecting half.
+First a hum under the room that dampens ordinary sound. Then a sigil traced with the free hand while a chord staff carries a rising chord onto a target heard casting before, from a direction the distance does not explain, always sung, whatever the Stage. The working is cut into the instrument, the Aether Chord Staff. She pulls Aurevane (dry air, conductive ground, clear sight lines) and Mirithane (silence and polished black stone), so the best ground is dark, dry, open and empty, and an active Domain, her own included, starves the reflecting half.
 
 The chord drives the target's own Essence at its measured natural line (driven resonance), and on that lock writes a change of index across the path his next working must leave by, so the working bends like light at glass (refraction). Resonance bandwidth Δf = f₀ / Q decides what couples, then Snell's law, n₁ sin θ₁ = n₂ sin θ₂, decides where the output goes, and refraction turns a force without doing work on it. A line never measured cannot be driven, and nothing is created or destroyed: the working only chooses where the target's own joules go. The arrival angle chooses the outcome, and she does not. Below the critical angle it crosses and lands off its mark; above θc = arcsin(n₂/n₁) it reflects totally and returns; at a rough interface it scatters. Snell's law always answers and coupled resonators never merge but trade character (an avoided crossing), so a near-miss chord has no off switch and the energy slides sideways. The 5 km read has to be Aetheric, because a shout does not survive the distance.
 
 The glyphs are Frequency for the lock, Boundary to write the interface, and Balance to equalize the opposing forces across it. The boundary condition is the index of the target's own output path; nothing is added to or taken from him, and Snell's law does the rest. Each technique must be heard separately, because the lock holds only for a working already retained, so it fails against a varied repertoire. Its scope is one ability instance of one caster, on his next offensive action this encounter, never several casters in a shared ritual and never a purely mundane attack.
 
-Aurevane, the Wellspring of Light (Fulguria), gives optical resolution and phase-locked emission; the splinter outcome is its law run in reverse, a coherent beam turned lamp. Mirithane, the Wellspring of Reflection (Limina), gives specular and phase-conjugate reflection; the return outcome is its law exactly, the working coming home undistorted by the crooked road it took. Aurevane's Glare makes her the easiest person in the fight to locate, and Mirithane's mirror broadcasts her own state perfectly while the chord is held. In doctrine it is Correspondence, nothing crossing the distance but a relation to a line matched once before, with the Consent Doctrine underneath.
+Aurevane, the Wellspring of Light (Medium), gives optical resolution and phase-locked emission; the splinter outcome is its law run in reverse, a coherent beam turned lamp. Mirithane, the Wellspring of Reflection (Spirit), gives specular and phase-conjugate reflection; the return outcome is its law exactly, the working coming home undistorted by the crooked road it took. Aurevane's Glare makes her the easiest person in the fight to locate, and Mirithane's mirror broadcasts her own state perfectly while the chord is held. In doctrine it is Correspondence, nothing crossing the distance but a relation to a line matched once before, with the Consent Doctrine underneath.
 
 The Shell carries the index discontinuity and must itself hold a true reference frequency, so misalignment among her own Wellspring frequencies is the standing risk. Dominion (Sense, Radius) and Harmonics (Attunement) govern it and belong to her, so the 5 km reach needs no third harmonization. On the Spirit Path, Attunement retention and Dominion Sense are open past C; base Attunement is capped at D and Dominion Radius at A, so the lock runs on retained lines only and reach stays A-Grade.
 
@@ -43,7 +43,7 @@ Its Boundary fault is the interface set imprecisely, which sends the law somewhe
 
 **Fails against** · A crossbow; no casting in its reach, or a varied repertoire; noise (Void, Entropy, Knot); a path-fixing ward before the lock; a gagged or deafened chord; fog, shielding, crowds or a Domain; small or distant casting.
 
-**Look up** · The Fulguria and Limina favor lists; the Aurevane and Mirithane Failures; the Counterplay register for Knot; the Refraction Stage table; the A-Grade Projected Force Range.
+**Look up** · The Ground of Aurevane on the [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Medium page]] and Mirithane on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]]; the Aurevane and Mirithane Failures; the Counterplay register for Knot; the Refraction Stage table; the A-Grade Projected Force Range.
 
 ### Numbers
 
@@ -72,11 +72,25 @@ Its Boundary fault is the interface set imprecisely, which sends the law somewhe
 
 ### Codex line
 
-Wellspring Aurevane (primary, Fulguria, Electromagnetism), Mirithane (secondary, Limina; Entropy, Void and Mind). Category Vectra. Skill Cutting, held in the Aether Chord Staff. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Spirit Path.
+**Path** · Spirit. It answers the meaning of a working she has already heard; the reflection comes off the target's own output path.
+
+**Lens** · Aurevane (Medium, primary) · Mirithane (Spirit, secondary).
+
+**Form** · Sing. A chord held in the Aether Chord Staff.
+
+**Gates** · On the Spirit Path, Attunement retention and Dominion Sense are open past C.
+
+**Glyph** · Frequency for the lock, Boundary for the interface, Balance across it. What a thing is taken to be: the index the target's own output counts as meeting. Nothing is added to or taken from him.
+
+**Skill** · Cutting, held in the Aether Chord Staff.
+
+**Stage floor** · VII, Refraction.
+
+**Grade required** · A-Grade (late push toward S-Grade).
 
 ### FOW line
 
-Governing Primary Dominion (Sense, Radius) and Harmonics (Attunement). Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Spirit Path. Resonant Pair none on the roll.
+Governing Primary Dominion (Sense, Radius) and Harmonics (Attunement). Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Resonant Pair none on the roll.
 
 ### Origin
 

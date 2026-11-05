@@ -4,7 +4,7 @@ title: "Steel-Splitting Frost"
 
 # STEEL-SPLITTING FROST
 
-*Bodily speaking, Vectra, Stage VI. The scholars' term is Winter Rend. Its author's whole argument for it fits on a shield: "Cold kills slower, but truer."*
+*Bodily speaking, Strike, Stage VI. The scholars' term is Winter Rend. Its author's whole argument for it fits on a shield: "Cold kills slower, but truer."*
 
 The Antiperistatic school holds that air closing in behind a stroke drives the cold, so its masters broadened their blade backs to catch it, and the smiths of Hallam Cross got very rich making great ugly wedge-backed swords with blue enamel on them. The armorers of Wick, who were watching their best breastplates split along lines no armorer knows, got very angry. The guild feud ran for two generations, with brawls at every fair, hammers through windows, a stolen bell and a marriage that ended badly. Both sides were wrong, as it happens. A broad back raises drag and slows the very sweep the cold depends on, and the school's masters die closest to the enemy, which the Hallam Cross smiths are happy to engrave on the blade.
 
@@ -18,11 +18,11 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 
 ### How it really works
 
-A dry clean cold smell gets there first. It rides a sweeping melee strike, and below Refraction its anchor is the arm that draws the arc. He pulls Caloria, which feeds on steep thermal gradients, and Limina for the approach. Repeated in a closed room, it cools the arcs and warms the air until the gradient is gone.
+A dry clean cold smell gets there first. It rides a sweeping melee strike, and below Refraction its anchor is the arm that draws the arc. He pulls Vohrin, which feeds on a long thermal gradient, and Tenebra for the approach. Repeated in a closed room, it cools the arcs and warms the air until the gradient is gone.
 
 The real phenomenon is forced convection: a cold surface moved through air sheds heat ten times faster than a still one, so cold rides a sweeping strike. Where the edge touches armor comes thermal shock. The law is that transfer grows as h ∝ √v, and a surface drop past R = σ(1 − ν)/(Eα) cracks a material in tension from the outside in. Airflow alone cannot shock a steel plate, which just equalizes, so the edge must touch. The cold is small: a tenth of a second reaches 0.12 mm into flesh, about 20 kJ, skin-deep frostbite and a shallow nerve block, and the yield belongs to the blow it rides. Stiffened by the cold, the target cannot give, so that blow lands two to four times harder. A faint ringing follows, a thin ice layer cracking as fast as it forms, and the Guild calls that the Chime.
 
-The glyphs are Edge for the arc and Boundary for the thermal condition. The boundary condition is where the cold end of a gradient may sit, granted to a moving edge and to no fixed place. Vohrin (Caloria), one power at two levels, Titan and Wellspring, here at the Wellspring level: cold is a deficit held as a discipline, an acceptance of heat, and here the discipline rides a moving edge where it would normally ride the practitioner. Tenebra, the Hidden Shadow (Limina): his return drops below the watcher's noise floor, covering the close to two meters, and it does not make the arc. Vohrin's cold is unmade by a strong heat vector at the far end, and Tenebra's aspect dependence shows the approach to a watcher at the unplanned angle.
+The glyphs are Edge for the arc and Boundary for the thermal condition. The boundary condition is where the cold end of a gradient may sit, granted to a moving edge and to no fixed place. Vohrin, one power at two levels, Titan and Wellspring, here at the Wellspring level: cold is a deficit held as a discipline, an acceptance of heat, and here the discipline rides a moving edge where it would normally ride the practitioner. Tenebra, the Hidden Shadow (Wild): his return drops below the watcher's noise floor, covering the close to two meters, and it does not make the arc. Vohrin's cold is unmade by a strong heat vector at the far end, and Tenebra's aspect dependence shows the approach to a watcher at the unplanned angle.
 
 In doctrine it is Correspondence, thinly: a line drawn through space carries a property along it, with the Consent Doctrine underneath. The Aether Shell channels Aether into muscular force and throws frost along an arc, and the heat taken leaves through the Shell into the room. Ardency Penetration serves it, with Vitality Tolerance for his own cold endurance. On the Body Path every gate clears: Penetration opens past C at Ascension, and Tolerance's unused Aether-dead and gravitational parts are not needed.
 
@@ -43,7 +43,7 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 
 **Fails against** · Padded jack, wool, leather or felt; insulated or flame-forged armor; heat into the arc, such as Pyreveil; anything beyond two meters; a warm closed room and repeated sweeps; a broken or bound drawing arm; the arc itself, readable after the first.
 
-**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
+**Look up** · The Ground of Vohrin and Tenebra on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
 
 ### Numbers
 
@@ -70,21 +70,21 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 
 ### Codex line
 
-**Wellspring** · Vohrin (primary, Caloria) · Tenebra (secondary, Limina)
+**Path** · Body. The Aether Shell channels Aether into muscular force and throws frost along an arc.
 
-**Family** · Caloria / Limina
+**Lens** · Vohrin (a Titan's own power, outside the Sixty, primary) · Tenebra (Wild, secondary).
 
-**Physics Domain** · Thermodynamics (Vohrin) · Entropy, Void and Mind (Tenebra)
+**Form** · Strike. A sweep of arm or weapon.
 
-**Category** · Vectra
+**Gates** · On the Body Path every gate clears: Penetration opens past C at Ascension, and Tolerance's unused Aether-dead and gravitational parts are not needed.
 
-**Skill** · Bodily speaking, with the arm that draws the arc as anchor below Refraction; it lasts the one sweep
+**Glyph** · Edge for the arc, Boundary for the thermal condition. A physical limit: where the cold end of a gradient may sit, granted to a moving edge and to no fixed place.
 
-**Stage floor** · VI, Glory
+**Skill** · Bodily speaking, with the arm that draws the arc as anchor below Refraction; it lasts the one sweep.
 
-**Grade required** · A-Grade
+**Stage floor** · VI, Glory.
 
-**Path gate** · Body
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -95,8 +95,6 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 **Stage floor** · VI, Glory.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Body.
 
 **Resonant Pair · None.**
 

@@ -6,7 +6,7 @@ title: Slow Down or Shatter
 
 *Maw of Crystalline Stasis is the scholars' term, the grander name by some way. Sherbet sellers have their own name, and pay for the privilege.*
 
-## SLOW DOWN OR SHATTER (Maw of Crystalline Stasis) (Vectra, Stage VI)
+## SLOW DOWN OR SHATTER (Maw of Crystalline Stasis) (Shape, Stage VI)
 
 Three young bravos in peacock silks rushed a man in a frozen lane behind the Harrowgate fish-market, shouting their school's name, and each of them came apart at the wrist and the knee in the first second. A gauntlet rang as it hit the ground with the hand still in it. Then Granny Wickett came out of her door with a basket and a wooden spoon, as she had been doing for most of that winter, and tottered at the speed of a very old woman straight across six meters of branching frost toward him, entirely unharmed, scooping handfuls of the broken crystal as she went. She mixed it with quince syrup and sold it at the corner for two coppers a cup. He stood in the middle with his joints turning black and looked at her. She told him to mind his feet.
 
@@ -24,7 +24,7 @@ Under deep undercooling, vapor grows straight into branching ice, dendritic soli
 
 The glyphs are Boundary (Root) for the six-meter edge across Form (Extension) for the lattice habit; Edge (Root) is the alternative, reading it as a limit on the phase diagram over a limit on the room. The boundary is the temperature and supersaturation of the vapor in 905 m³: pin those two and the branching habit selects itself. Heat collapses it from inside, tips first, so an overheated Maw fails at its edge while the coarse center holds longest. Below Refraction the Bodily vector supplies the anchor, the frame itself, and the sentence ends when attention lapses. He cannot leave without ending it.
 
-Aether is pulled across 905 m³ from his frame. Caloria wants steep thermal gradients, and the field erodes its own by chilling the air toward equilibrium. The Residue is heavy and physical, a lattice that can be picked up, ask Granny Wickett, and that deafens Harmonists (those who read a place by ear) until it melts. Cinerion, the Ash Veil (Caloria), says what survives a fire is no waste and the Shell metabolizes its own products, and here it densifies the lattice, raising Tempering Yield and Harmonics Stability. Vohrin (Caloria), one power at two levels, Titan and Wellspring, taken here as Titan-derived, is heat's absence held as discipline, the heat sink run outward; the Titan level likely raises the working's standing and cost. Cinerion's fouling is the inherited failure: it coats the conduit with its own product, so recovery collapses exactly when he has spent most, at the joints first.
+Aether is pulled across 905 m³ from his frame. Vohrin wants a long gradient to pump along, and the field erodes its own by chilling the air toward equilibrium. The Residue is heavy and physical, a lattice that can be picked up, ask Granny Wickett, and that deafens Harmonists (those who read a place by ear) until it melts. Cinerion, the Ash Veil (Wild), says what survives a fire is no waste and the Shell metabolizes its own products, and here it densifies the lattice, raising Tempering Yield and Harmonics Stability. Vohrin, one power at two levels, Titan and Wellspring, taken here as Titan-derived, is heat's absence held as discipline, the heat sink run outward; the Titan level likely raises the working's standing and cost. Cinerion's fouling is the inherited failure: it coats the conduit with its own product, so recovery collapses exactly when he has spent most, at the joints first.
 
 The Aether Shell is projected outward, speaking on the Bodily vector, the ignited frame as the pen. Developmental Tier Harmonic at Glory. Boundary fault: the field does not know its maker, and the cold lands on his knuckles and knees. Structural fault: a Dominion below A holding six meters pays the difference in frostbite, through raw Ardency and Vitality. Forty-five percent leaves as heat at the Shell, inside the volume being held cold, adding load to the sink, which is why the cost runs by the turn.
 
@@ -38,21 +38,21 @@ The Four Qualities school calls cold an active power that condenses and congeals
 
 ### Codex line
 
-**Wellspring** · Vohrin (primary) · Cinerion (secondary)
+**Path** · Body. The Aether Shell is projected outward from his own ignited frame.
 
-**Family** · Caloria (both)
+**Lens** · Vohrin (a Titan's own power, outside the Sixty, primary) · Cinerion (Wild, secondary).
 
-**Physics Domain** · Thermodynamics
+**Form** · Shape. Six meters of branching frost grown out from where he stands.
 
-**Category** · Vectra
+**Gates** · Dominion Radius past A needs the Fate Path at Splintering, so the radius is capped at A.
 
-**Skill** · Speaking (Bodily: projected from the practitioner's own ignited frame, holding only while his attention holds)
+**Glyph** · Boundary across Form. A physical limit: the temperature and supersaturation of the vapor in 905 m³. The branching habit selects itself.
 
-**Stage floor** · Stage VI, Glory
+**Skill** · Speaking (Bodily: projected from the practitioner's own ignited frame, holding only while his attention holds).
 
-**Grade required** · A-Grade
+**Stage floor** · Stage VI, Glory.
 
-**Path gate** · Body
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -63,8 +63,6 @@ The Four Qualities school calls cold an active power that condenses and congeals
 **Stage floor** · Stage VI, Glory.
 
 **Grade required** · A-Grade.
-
-**Path gate** · Body.
 
 **Resonant Pair · None.**
 
@@ -78,9 +76,9 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 **Limits** · Six meters, three turns, no targeting, its maker included; it needs moisture and loose Aether, and dry air thins it.
 
-**Fails against** · Distance beyond six meters, and bolts from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
+**Fails against** · Distance beyond six meters, and bolts from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Vohrin; a pinned practitioner, whose own frost takes their joints; broken attention.
 
-**Look up** · The Counterplay register for anchors; the Caloria entry for Cinerion and the Vohrin note on the same [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|page]], and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.
+**Look up** · The Counterplay register for anchors; the entries for Cinerion and the Vohrin note on the same [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|page]], and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.
 
 ## Numbers
 
@@ -100,7 +98,7 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70; Grade A (276 to 400) in Ardency Density, with Vitality Tolerance, Vitality Absorption and Resilience Fortification at A; Body Path.
 
-**Dominion** · Dominion Radius past A needs the Fate Path at Splintering, so the radius is capped at A; each turn past the first at high output costs a Resilience Fortification check at knuckles and knees.
+**Strain** · Each turn past the first at high output costs a Resilience Fortification check at knuckles and knees.
 
 | Quantity | Working | Result |
 |---|---|---|

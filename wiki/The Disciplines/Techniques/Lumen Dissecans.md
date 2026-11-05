@@ -6,7 +6,7 @@ title: World-Dissecting Light
 
 *Lumen Dissecans is the scholars' term. Students of the Measurewrights' hall have another word for it, and a nervous habit of checking their margins.*
 
-## WORLD-DISSECTING LIGHT (Lumen Dissecans) (Harmonia, Stage VI)
+## WORLD-DISSECTING LIGHT (Lumen Dissecans) (Read, Stage VI)
 
 Magistra Hester Quill spent nine years building the Quill Curse, seven strands in a closed lattice, and she chose to unveil it at the Disputation of Ambry before the full Measurewrights' hall, in her best gray-blue silk, against a rival she had hated since they were both fifteen. She threw it down the length of the chamber in a blaze of sapphire. A narrow beam from a sigil over someone's eye met it halfway, and the whole curse stopped dead and hung in the air, every strand lit up, turning slowly, as legible as a shop sign and thirty feet wide. There was a long pause. An elderly Measurewright in the second row leaned forward, adjusted her spectacles, and observed aloud that strand five was carrying a sign error. Quill has since circulated four rebuttals in fair copy, and the hall still dates its calendar from that afternoon.
 
@@ -24,7 +24,7 @@ Every substance absorbs and emits at its own fixed wavelengths, and an induced c
 
 The glyphs are Truth (Extension), a limit on what may stay unstated, across Illumination (Extension), which carries it as light: one station read twice, at two depths. The boundary is the optical depth of a working in progress, and the glyph pins its absorbance low enough that its internal lines show. Everyone present can see the result, which is the humiliating part. Below Refraction it needs an external anchor, a sigil drawn over one eye and a declaration. While it runs, a fifth of her AU/s is tied up and unavailable for anything else. A practitioner whose Gnosis stands a full Tier above the working's Grade wins that exchange without contest, so this is an art for the better-read against the merely stronger.
 
-A thin directed beam takes very little Aether. Fulguria favors dry air and clear sight, and fog or shielding starves it. The Residue sits on the target working: a survivor carries a phase trace of having been read, and its maker knows. Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, so Gnosis Acuity and Analysis read a Crystal, a technique or a lie by signature alone. Aurevane, the Wellspring of Light (Fulguria), gives sharper resolution and in-phase output, and carries the reading as visible light, which is why bystanders can see the exposed structure. Judicium's spectral overload, everything reporting at once, returns as afterimages, and Aurevane's glare makes the practitioner the easiest person on the field to locate.
+A thin directed beam takes very little Aether. Judicium favors dry air and clear sight, and fog or shielding starves it. The Residue sits on the target working: a survivor carries a phase trace of having been read, and its maker knows. Judicium, the Wellspring of Truth (Wild), says every element shows only its own spectrum, so Gnosis Acuity and Analysis read a Crystal, a technique or a lie by signature alone. Aurevane, the Wellspring of Light (Medium), gives sharper resolution and in-phase output, and carries the reading as visible light, which is why bystanders can see the exposed structure. Judicium's spectral overload, everything reporting at once, returns as afterimages, and Aurevane's glare makes the practitioner the easiest person on the field to locate.
 
 The Essence Core does the reading and the Aether Shell carries it as a beam, and the Shell keeps reporting after the beam drops. Developmental Tier Harmonic at Glory, Radiant from Transcendence. Boundary fault: the edge is imprecise, so ordinary objects keep reporting afterward as lattice afterimages, and a reflective barrier makes her dissect her own working. Field fault: a Void-aligned construct returns noise the instrument takes for signal. The bleed, 30 to 40 percent, leaves as heat at the Shell, by far the dominant term against a few watts of analytic light.
 
@@ -38,21 +38,21 @@ The Signaturists read an inner virtue from an outward mark and blame a failed re
 
 ### Codex line
 
-**Wellspring** · Judicium, the Wellspring of Truth (governing); Aurevane, the Wellspring of Light (secondary).
+**Path** · Spirit. The Essence Core reads, and the Aether Shell only carries the reading as a beam.
 
-**Family** · Fulguria
+**Lens** · Judicium (Wild, governing) · Aurevane (Medium, secondary).
 
-**Physics Domain** · Electromagnetism; spectroscopy and eddy-current inspection.
+**Form** · Read. A narrow beam from a sigil over one eye.
 
-**Category** · Harmonia, the Thaumic Harmonics branch: taking a hostile working apart by reading its structure.
+**Gates** · Analysis of an outside field past B opens on the Spirit Path at Flourishing.
+
+**Glyph** · Truth across Illumination. What a thing is taken to be: how much of a working in progress may stay unstated, pinned low enough that its internal lines show.
 
 **Skill** · Speaking, gestured and declared: a sigil drawn over one eye projects the beam.
 
-**Stage floor** · Glory
+**Stage floor** · Glory.
 
-**Grade required** · A-Grade
-
-**Path gate** · Spirit Path
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ The Signaturists read an inner virtue from an outward mark and blame a failed re
 **Stage floor** · Glory
 
 **Grade required** · A-Grade in Gnosis Analysis
-
-**Path gate** · Spirit Path; Analysis of an outside field past B opens at Flourishing.
 
 **Resonant Pair** · None
 
@@ -80,7 +78,7 @@ The Signaturists read an inner virtue from an outward mark and blame a failed re
 
 **Fails against** · A lattice built to scramble itself (Knot); a mirror that turns the beam back; fog, shielding and Void-aligned constructs; workings resolved in closed bursts or phase-shifted; damage to the codex, a book that can be damaged.
 
-**Look up** · The Counterplay register for Knot; the Fulguria entries for Judicium and Aurevane Failures; Abyntheus's decoherence; the Glory Stage table and the Spirit gates for Gnosis.
+**Look up** · The Counterplay register for Knot; the entries for Judicium and Aurevane Failures; Abyntheus's decoherence; the Glory Stage table and the Spirit gates for Gnosis.
 
 ## Numbers
 

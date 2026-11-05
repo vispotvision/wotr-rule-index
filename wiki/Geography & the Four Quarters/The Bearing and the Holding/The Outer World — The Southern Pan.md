@@ -53,11 +53,11 @@ Below all three there are the pan-scrapers' camps and the quarry towns, where a 
 
 ## Bearing Stock
 
-*Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Resonance, Family and Domain name the Wellsprings a material answers to, their family, and the branch of natural law they work through.*
+*Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Resonance and Domain name the Wellsprings a material answers to, and the branch of natural law they work through.*
 
 **Trapstone** · *T2 · Stone · Flood-basalt terraces, western interior*
 
-Columnar basalt, split naturally into six-sided posts that require almost no dressing. The universal building stone of the quarter, **quarried by prying rather than cutting.** Resonates readily with Coagula and Fixatio, which the Braqthian tribal confederations exploit in their standing-stone work and which the west has never bothered to study. Bearing good, Holding moderate. Family Materia, Domain Material Science.
+Columnar basalt, split naturally into six-sided posts that require almost no dressing. The universal building stone of the quarter, **quarried by prying rather than cutting.** Resonates readily with Coagula and Fixatio, which the Braqthian tribal confederations exploit in their standing-stone work and which the west has never bothered to study. Bearing good, Holding moderate. Domain Material Science.
 
 **Greenskin Serpentine** · *T2 · Stone · Ophiolite belt, eastern coastal ranges*
 
@@ -87,11 +87,11 @@ A black-laced weave that dulls aura flicker and burns readily. *The Accord notes
 >
 > The Holy Sea of Alabaster has twice attempted to establish that the two uses can be legally distinguished at the point of sale and has twice failed, **because they cannot be distinguished at the point of extraction either.**
 >
-> Bearing negligible, Holding high and specific. Resonance: Mortalis, Rebirthine. Family Vitalia, Domain Biochemistry.
+> Bearing negligible, Holding high and specific. Resonance: Mortalis, Rebirthine. Domain Biochemistry.
 
 **Palebed Nitre** · *T1 · Mineral · Nitrate caliche, interior pans*
 
-Crusted nitrate salts left in basins that have not seen rain in living memory. Oxidizer for alchemical charge work, preservative for meat, **preservative for corpses**, and fertilizer where Marrowchalk cannot be got. Harvested by scraping. The pans have been worked for eight hundred years and are not measurably diminished. Resonance: Exuroth. Family Caloria, Domain Thermodynamics.
+Crusted nitrate salts left in basins that have not seen rain in living memory. Oxidizer for alchemical charge work, preservative for meat, **preservative for corpses**, and fertilizer where Marrowchalk cannot be got. Harvested by scraping. The pans have been worked for eight hundred years and are not measurably diminished. Resonance: Exuroth. Domain Thermodynamics.
 
 > **Ashfast Chrome** · *T3 · Metal ore · Chromite pods in the serpentine belt, eastern coast*
 >
@@ -99,11 +99,11 @@ Crusted nitrate salts left in basins that have not seen rain in living memory. O
 >
 > **Between Ashfast hearth sand and Blacktooth wolfram nozzles, the entire high-temperature capability of the four quarters rests on two ores that occur in two places.** The Logistics Division has said so in every annual return for nineteen years.
 >
-> Bearing extreme under heat, Holding nil. Resonance: Fixatio. Family Caloria, Domain Thermodynamics.
+> Bearing extreme under heat, Holding nil. Resonance: Fixatio. Domain Thermodynamics.
 
 **Stormfulgur** · *T4 · Natural glass · Fulgurite fields, nitre pans of the interior*
 
-Where lightning strikes the pans it fuses a branching tube of glass down through the crust, sometimes to the depth of a man's height. These tubes are naturally hollow, naturally continuous, and naturally aligned along the path a discharge took, which makes them **the cheapest ready-formed Essence conduit in the world.** The Braqthian confederations gather them after storms the way coastal people gather driftwood, and sell them by the armload to Accord factors who resell them at **forty times the price** for the long runs of an array. Fragile, irregular, and impossible to manufacture. Resonance: Mirithane, Aurevane. Family Fulguria, Domain Electromagnetism.
+Where lightning strikes the pans it fuses a branching tube of glass down through the crust, sometimes to the depth of a man's height. These tubes are naturally hollow, naturally continuous, and naturally aligned along the path a discharge took, which makes them **the cheapest ready-formed Essence conduit in the world.** The Braqthian confederations gather them after storms the way coastal people gather driftwood, and sell them by the armload to Accord factors who resell them at **forty times the price** for the long runs of an array. Fragile, irregular, and impossible to manufacture. Resonance: Mirithane, Aurevane. Domain Electromagnetism.
 
 **Driftbone** · *T1 · Organic · Veil-tide shores*
 

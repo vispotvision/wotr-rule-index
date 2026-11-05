@@ -4,7 +4,9 @@ title: The Paths
 
 # The Paths
 
-*Transcendent Ascension Plane · Sovereign Metaphysical Realm*
+*Transcendent Ascension Plane · Sovereign Metaphysical Realm · the Sands, in common speech*
+
+*A place, and none of the three roads of the soul. The Zettari's blood gives them an eye, a grip, a stat lean and lens affinities, as [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|any archaic line's]] does; what the Sands add is recognition, and the instrument, Matla, is tried here.*
 > The supreme ascension plane of the Zettari lineage — **a metaphysical reality existing above realms, dimensions, timelines, divine layers, and totality itself.**
 >
 > Not a kingdom, nor a conventional afterlife, but a sovereign plane where the perfected will, memory, and continuity of the bloodline converge.

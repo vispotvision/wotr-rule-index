@@ -5,7 +5,7 @@
 **Godfre[[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden]]y Greymane** · The Shieldwarden · Kharven, House Greymane · as of the morning of the seven lines in the Hall of Verdicts
 **Stat line** · Level 142 · Band II, Awakened · Stage IV, Flourishing · Path Body 65% / Fate 35% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Expenditure
-**Aura and sound** · Materia ochre at Flourishing's clarity, a warm dark gray with amber only hinted, a fine grit of ridge-stone dust settling round his boots when he sets them; sound: a low grinding settle, like a stone sinking into its bed
+**Aura and sound** · Petralon's heavy gray at Flourishing's clarity, warm and dark, with Basilithe's ochre only hinted, a fine grit of ridge-stone dust settling round his boots when he sets them; sound: a low grinding settle, like a stone sinking into its bed
 **Stack** · sustainable B in Anchoring and Fortitude · cap +2 Grades · layers: STONEFAST when called
 **Releases** · STONEFAST (First Release) · bonded weapon: the Greymane shield, the ridge device on its face
 **Traits** · THE RIDGE DOES NOT MOVE (Primary) · tell: his heels sink and dust settles round his feet · counter: pull him, lift him, or fight him on ice / THE SWORN WARD (Secondary) · tell: his eyes go to the one he guards before the blow lands · counter: two attacks at once, or strike the warden first / THE FLAT HAND (Passive) · tell: a long gray hand laid flat beside someone, not touching · counter: put distance between them
@@ -20,7 +20,7 @@
 
 **Full Name** · Godfrey Greymane
 **Pronunciation** · GOD-free GRAY-mane
-**Alias / Title** · The Shieldwarden, by title before name, as the house requires [[Characters/Volume I — Character Cards/Spoil · The Butcher]]· Muken's right hand
+**Alias / Title** · The Shieldwarden, by title before name, as the house requires · Spoil, The Butcher · Muken's right hand
 **Also Known As** · Wystan's lad, to the old men of the Stormfold · the King's Wall, in the Stark long houses
 **Race / Lineage** · Human, Kharven northern stock · House Greymane of the Ridgewall, Shieldwardens of the western border
 **Age** · Twenty-four
@@ -48,8 +48,8 @@
 
 ## III. Wellspring Harmonizations
 
-**Petralon** · the Foundation Stone · Materia · Depth: deep, drawn through the ridge itself · the arch's law: every load routed into compression, slow creep accepted as the price of never cracking; it is the Wellspring under the Ridgewall, and the house has stood on it for generations
-**Basilithe** · the Stone Will · Materia · Depth: held · stiffness locks his frequency so no outside rhythm can drive him; nothing rattles him, and the one forcing that happens to match him rattles him apart
+**Petralon** · the Foundation Stone · Wild · Depth: deep, drawn through the ridge itself · the arch's law: every load routed into compression, slow creep accepted as the price of never cracking; it is the Wellspring under the Ridgewall, and the house has stood on it for generations
+**Basilithe** · the Stone Will · Wild · Depth: held · stiffness locks his frequency so no outside rhythm can drive him; nothing rattles him, and the one forcing that happens to match him rattles him apart
 
 ## IV. Primary Stats
 

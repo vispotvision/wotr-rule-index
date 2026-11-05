@@ -4,7 +4,7 @@ title: "The Paradox-Devouring Heart"
 
 # THE PARADOX-DEVOURING HEART
 
-*Speaking, internalized, Traitus, Stage XIV. The scholars' term is the Principle Engine. There is nothing to shout, because it never stops.*
+*Speaking, internalized, Read, Stage XIV. The scholars' term is the Principle Engine. There is nothing to shout, because it never stops.*
 
 The Dialectical faculty at the Collegium teaches that contradiction held long enough rises into synthesis, and its masters collect refined binds the way other old men collect wine. Doctor Theobald Rooke nursed one for thirty-one years, a beautiful little thing about promises made to the dead, and he was the calmest person anyone had ever met, serene in his plum-colored gown, beloved of students, immune to in-laws. During a very ordinary lecture on the second day of the Candle Fair, it nucleated. All thirty-one years of it let go at once. They rebuilt the east wing in a warmer stone. The surviving students will tell you it was the best lecture he ever gave.
 
@@ -18,13 +18,13 @@ The Dialectical faculty at the Collegium teaches that contradiction held long en
 
 ### How it really works
 
-Nothing shows and nothing is called. It runs continuously whenever a genuine contradiction registers in his own field, whenever reality tries to be two incompatible things around him, the chain held silently in the Crystal with no anchor, range self. He pulls Fulguria and Caloria, and the room is the heat sink, so geothermal ground or a burning hall returns much and a cold, still, sealed room returns nothing. Above η 1.0 the surplus comes from the stratum (the deep Aether of the ground), which shows it.
+Nothing shows and nothing is called. It runs continuously whenever a genuine contradiction registers in his own field, whenever reality tries to be two incompatible things around him, the chain held silently in the Crystal with no anchor, range self. He pulls Judicium and Catharsis, and the room is the heat sink, so geothermal ground or a burning hall returns much and a cold, still, sealed room returns nothing. Above η 1.0 the surplus comes from the stratum (the deep Aether of the ground), which shows it.
 
 The real phenomenon is a first-order phase change used as a buffer. Like ice melting at 0 °C, a contradiction's load is swallowed as the energy of a change of state, and he comes out calmer and structurally different. Latent heat holds a variable flat while absorbing energy, and what comes back is capped by Carnot, 1 − Tc / Th, with the surrounding room as the cold side. A buffer stores and creates nothing: in a room at thermal equilibrium nothing returns, and a load past the throughput supercools and then lets go all at once. The nucleation barrier grows without bound as the driving force falls, so the gentlest contradictions are the likeliest to sit unresolved, then release together.
 
 The logic is the strange part. The Crystal is paraconsistent, a structure where a contradiction does not make everything follow, and the price is disjunctive syllogism, so it can no longer rule a thing in by ruling the rest out. It eats gluts, claims both true and false, and starves on gaps, claims neither true nor false.
 
-The glyphs are Balance, equalizing the opposing forces, and Equivalence, routing the load. The boundary condition is where a contradiction may discharge: the explosive exit into everything is forbidden, and every law downstream runs untouched. Judicium, the Wellspring of Truth (Fulguria): no substance can present another's spectrum, so it tells a genuine contradiction from a misreading before anything is burned. Catharsis, the Wellspring of Release (Caloria): latent heat, load routed into a change of state in the soul in place of output. It has no fire to give; the room enters the sum only because what comes back has to be rejected somewhere, and what warms it, and what took the east wing, is his own Essence leaving. Judicium's spectral overload follows, since a working with no activation never stops reading, and Catharsis's supercooling, load building past release then going at once.
+The glyphs are Balance, equalizing the opposing forces, and Equivalence, routing the load. The boundary condition is where a contradiction may discharge: the explosive exit into everything is forbidden, and every law downstream runs untouched. Judicium, the Wellspring of Truth (Wild): no substance can present another's spectrum, so it tells a genuine contradiction from a misreading before anything is burned. Catharsis, the Wellspring of Release (Spirit): latent heat, load routed into a change of state in the soul in place of output. It has no fire to give; the room enters the sum only because what comes back has to be rejected somewhere, and what warms it, and what took the east wing, is his own Essence leaving. Judicium's spectral overload follows, since a working with no activation never stops reading, and Catharsis's supercooling, load building past release then going at once.
 
 In doctrine it is Debt in its purest form, a running total only he can read, with Residue beneath as what makes the total exist. It acts at the Essence Core and leaves the Shell alone. Its overflow runs back into the Core, aimed at the part that decides he is still one person. Tempering governs: Harmonics Empathy (sensing load early), Tempering Maturity (the conversion) and Resilience Fortification (redirection and blowback resistance). On the Spirit Path Maturity is open, Fortification's redirection capped at B with blowback resistance open, and Empathy capped at C, so a paradox registers only once it is inside the Crystal.
 
@@ -45,7 +45,7 @@ The Dialectical faculty teaches that contradiction held long enough rises into s
 
 **Fails against** · Silence, which starves it; dream logic or Knot, which presents a gap; a Nihiloth seal, which pre-empts the read; a cold, still, sealed room, where it is pure cost; gentle binds; two options with one then removed; Coherence drift.
 
-**Look up** · The Caloria and Fulguria favor lists; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.
+**Look up** · The Ground of Judicium on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]] and Catharsis on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]]; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.
 
 ### Numbers
 
@@ -76,21 +76,21 @@ The Dialectical faculty teaches that contradiction held long enough rises into s
 
 ### Codex line
 
-**Wellspring** · Judicium (primary) · Catharsis (secondary)
+**Path** · Spirit. It acts at the Essence Core and leaves the Shell alone.
 
-**Family** · Fulguria (Judicium) · Caloria (Catharsis)
+**Lens** · Judicium (Wild, primary) · Catharsis (Spirit, secondary).
 
-**Physics Domain** · Electromagnetism (Judicium) · Thermodynamics (Catharsis)
+**Form** · Read. Nothing is called and nothing is thrown: it tells a true bind from a misreading, and then burns it.
 
-**Category** · Traitus
+**Gates** · On the Spirit Path Maturity is open, Fortification's redirection capped at B with blowback resistance open, and Empathy capped at C, so a paradox registers only once it is inside the Crystal.
 
-**Skill** · Speaking (Internalized: the chain held silently in the Crystal, never spoken)
+**Glyph** · Balance and Equivalence. What a thing is taken to be: where a contradiction counts as discharging. The explosive exit is forbidden, and every law downstream runs untouched.
 
-**Stage floor** · Stage XIV, Zenith
+**Skill** · Speaking (Internalized: the chain held silently in the Crystal, never spoken).
 
-**Grade required** · EX-Grade
+**Stage floor** · Stage XIV, Zenith.
 
-**Path gate** · Spirit
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -101,8 +101,6 @@ The Dialectical faculty teaches that contradiction held long enough rises into s
 **Stage floor** · Stage XIV, Zenith.
 
 **Grade required** · EX-Grade.
-
-**Path gate** · Spirit.
 
 **Resonant Pair · None.**
 

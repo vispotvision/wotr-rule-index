@@ -4,7 +4,7 @@ title: "The Ruinous Errata"
 
 # THE RUINOUS ERRATA
 
-*Cutting, Mnemata, Stage VI. The scholars' term is Speculum Recordationis, or Speculum Recordatio. Serenyra's own.*
+*Cutting, Read, Stage VI. The scholars' term is Speculum Recordationis, or Speculum Recordatio. Serenyra's own.*
 
 The Theatrists of the Blue Hall treat memory as shelves, and they had the most beautiful shelves in the world. Master Corvin Ashlar could recite nine hundred workings by page and Stage, and he went into the Hall's great bracket in a robe of peacock silk with a Codex the size of a paving stone, and the bookmakers had him at evens. A girl with a burn scar threw a plain quick lance of light at him. He raised the book, found the page, read the imprint perfectly, and made it sharper, brighter and twice as loud with a flawless inverse thrown a fraction too late. They found the Codex open at the correct page. Timing is the one thing shelves do not hold.
 
@@ -16,11 +16,11 @@ The Theatrists of the Blue Hall treat memory as shelves, and they had the most b
 
 ### How it really works
 
-A book goes up and held open before the incoming working arrives, and the imprint visibly takes time. Glory is below Refraction, so an anchor is required, and the Codex is it; the skill is Cutting and the substrate the Thesauriel, the Mirror Codex, a book that writes lattices without incantation. It pulls Limina for both Wellsprings, suppressed by crowds, saturated Aether and active Domains, which is the ground it most often works on, so it pays its terrain penalty in use.
+A book goes up and held open before the incoming working arrives, and the imprint visibly takes time. Glory is below Refraction, so an anchor is required, and the Codex is it; the skill is Cutting and the substrate the Thesauriel, the Mirror Codex, a book that writes lattices without incantation. It pulls Oneirion and Mirithane, suppressed by crowds, saturated Aether and active Domains, which is the ground it most often works on, so it pays its terrain penalty in use.
 
 The real phenomenon is feedforward active noise control: she records a working in flight, builds its inverse and throws it into the original, so the two meet and a broken residual goes back the way it came. The law is superposition: a wave plus its inverse with phase error θ leaves 2A·|sin(θ/2)|, so a near-perfect inverse cancels and a poor one adds. The limit is causality. The record and the answer must arrive before the working completes, so range buys the time and contact range loses it, and above 60° of phase error the answer changes sign and helps the attacker. Phase error grows with frequency as θ = 2π·f·δt, so the low end cancels, the middle partly, and the high end comes back doubled and off-key: the record is exact and the clock is not. That is why the echo comes back fractured. Cancellation holds only where the two paths match, a zone of quiet a few meters wide at the point where the incoming working would have finished. Only Essence and Aetheric workings leave a signature to record, so a crossbow bolt, a mundane projectile, or a signature-free void effect (A-Temporal Void, in the register) is off the channel.
 
-The glyphs are Lock, setting the collision where the incoming working would have completed; Measure, taking the imprint; and Return, sending the residual home. The boundary condition is the phase a copy may hold against its original, pinned at inversion; beyond that limit superposition subtracts. Oneirion, the Wellspring of Dream (Limina): acting on a working's trajectory holds its whole structure as one object, the right law for a record and the wrong one for a collision in a room. Mirithane, the Wellspring of Reflection (Limina): a phase-conjugate mirror sends a wave back along its own path, so the answer finds the caster the way the caster found the practitioner, and she need not know where he is, only have been targeted by him.
+The glyphs are Lock, setting the collision where the incoming working would have completed; Measure, taking the imprint; and Return, sending the residual home. The boundary condition is the phase a copy may hold against its original, pinned at inversion; beyond that limit superposition subtracts. Oneirion, the Wellspring of Dream (Spirit): acting on a working's trajectory holds its whole structure as one object, the right law for a record and the wrong one for a collision in a room. Mirithane, the Wellspring of Reflection (Spirit): a phase-conjugate mirror sends a wave back along its own path, so the answer finds the caster the way the caster found the practitioner, and she need not know where he is, only have been targeted by him.
 
 The caster sees his own working in front of him twice, answered by his own shape. Misjudged, it comes back louder. In doctrine it is Correspondence at its most literal: a working is answered by its own likeness, with power exactly as far as it matches, and Residue lies underneath, as the record and the gap it leaves. The residual leaves Resonance at the collision point that deafens Harmonists. She pays in Gnosis Retention, one slot of held working structure per use, Developmental Tier Harmonic at Glory.
 
@@ -39,7 +39,7 @@ The inherited failures are Oneirion's projection error, which is the phase error
 
 **Fails against** · A Codex knocked away or damaged; bolts; quick, sharp workings (they come back reinforced); contact range; crowds and Domains; workings the caster can survive receiving back; repeated triggering, which spends slots.
 
-**Look up** · The Limina entries for Oneirion and Mirithane and their Failures; Cutting and its substrates; Gnosis Retention; the Glory Stage table and the Grade reaction speeds.
+**Look up** · The entries for Oneirion and Mirithane and their Failures; Cutting and its substrates; Gnosis Retention; the Glory Stage table and the Grade reaction speeds.
 
 ### Numbers
 
@@ -53,8 +53,6 @@ The inherited failures are Oneirion's projection error, which is the phase error
 | Latency 1 ms, 200 µs, 50 µs | clean to 0.0159 ÷ δt; sign flip at 0.167 ÷ δt | 16 / 167 Hz, 80 / 833 Hz, 318 Hz / 3.3 kHz |
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Grade A.
-
-**Paths** · Declares the Spirit Path, opening Analysis and Perception; Attunement above D needs the Fate Path, so a working met before is answered more cleanly than a new one.
 
 **Anchor** · Glory is below Refraction, so an anchor is required, and the Codex is it.
 
@@ -71,11 +69,25 @@ The inherited failures are Oneirion's projection error, which is the phase error
 
 ### Codex line
 
-Wellspring Oneirion (primary, Limina; Entropy, Void and Mind), Mirithane (secondary, Limina; Entropy, Void and Mind). Category Mnemata. Skill Cutting, held in the Codex. Stage floor VI, Glory. Grade required A-Grade. Path gate Spirit Path.
+**Path** · Spirit. It reads a working as one object and answers its meaning; the Codex holds the lattice.
+
+**Lens** · Oneirion (Spirit, primary) · Mirithane (Spirit, secondary).
+
+**Form** · Read. An imprint taken off the working, with its inverse thrown back from an open book that holds the cut lattice.
+
+**Gates** · The Spirit Path opens Analysis and Perception; Attunement above D needs the Fate Path, so a working met before is answered more cleanly than a new one.
+
+**Glyph** · Lock, Measure and Return. What a thing is taken to be: what phase a copy may hold against its original, pinned at inversion.
+
+**Skill** · Cutting, held in the Codex.
+
+**Stage floor** · VI, Glory.
+
+**Grade required** · A-Grade.
 
 ### FOW line
 
-Governing Primary Gnosis (Analysis, Perception) and Harmonics (Attunement). Stage floor VI, Glory. Grade required A-Grade. Path gate Spirit Path. Resonant Pair none on the roll.
+Governing Primary Gnosis (Analysis, Perception) and Harmonics (Attunement). Stage floor VI, Glory. Grade required A-Grade. Resonant Pair none on the roll.
 
 ### Origin
 

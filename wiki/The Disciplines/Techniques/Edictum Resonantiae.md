@@ -6,7 +6,7 @@ title: Court of the Forbidden Deed
 
 *Edictum Resonantiae, the scholars' term, and the last of a set of four analytic workings. In the taverns of Tarn Reach it is the Bad Host.*
 
-## COURT OF THE FORBIDDEN DEED (Edictum Resonantiae) (Domain Weaving, Stage VIII)
+## COURT OF THE FORBIDDEN DEED (Edictum Resonantiae) (Claim, Stage VIII)
 
 The wedding of the Fairbairn heiress and the second Tarn boy had been a truce for one day, and by the fish course both families had their swords out over a remark about a mule. Sixty armed men in two sets of colors went for each other across the long tables under the green and gold banners. A guest at the end of the bench stood, struck the floor once with a staff, and said in an ordinary voice, *No one dies at this table.* Water seemed to come up around every arm in the hall. Sixty killing blows landed, one after another, as sixty neat disarms, and about forty swords went into the soup. The couple had nine children. The Fairbairns still claim their men disarmed more Tarns than the other way around, and they keep count.
 
@@ -24,7 +24,7 @@ The physics is a selection rule: some transitions never happen because the link 
 
 The glyphs are Command across Order, Irath's heaviest word, and an Edict is its clearest instance. The boundary is the set of outcomes reachable by one named class of action inside the dome, and strength, trajectory and energy all stay as they were. The refusal has no author in it; the Edict refuses and the speaker merely said so. Narrow wording leaves few routes and bites hard, broad wording leaves many and barely registers, and so the wording is the working. No anchor is needed at Transcendence, and the spoken word and staff strike are there to buy witnesses, since a law nobody heard cannot bind. One category of action per casting.
 
-Aether is pulled for even enforcement across all 1.68 × 10⁷ m³ and never for peak output. Fulguria wants dry air and clear sight. It leaves a weaker echo for one or two turns that deafens Harmonists (those who read a place by ear). Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, so the named action is recognized by its signature, the criterion a selection rule needs. Aurevane, the Wellspring of Light (Fulguria), carries the enforcement evenly to the dome's edge, with no soft margin and no strong point at the speaker's feet. Oneirion, the Wellspring of Dream (Limina), makes the rule cover a class of trajectories, so an action just outside the letter of the wording is still inside it. Judicium's spectral overload is why a broad Edict is weak, and Aurevane's glare makes the dome a beacon two hundred meters across.
+Aether is pulled for even enforcement across all 1.68 × 10⁷ m³ and never for peak output. Judicium and Aurevane want dry air and clear sight. It leaves a weaker echo for one or two turns that deafens Harmonists (those who read a place by ear). Judicium, the Wellspring of Truth (Wild), says every element shows only its own spectrum, so the named action is recognized by its signature, the criterion a selection rule needs. Aurevane, the Wellspring of Light (Medium), carries the enforcement evenly to the dome's edge, with no soft margin and no strong point at the speaker's feet. Oneirion, the Wellspring of Dream (Spirit), makes the rule cover a class of trajectories, so an action just outside the letter of the wording is still inside it. Judicium's spectral overload is why a broad Edict is weak, and Aurevane's glare makes the dome a beacon two hundred meters across.
 
 The Attraction Layer pays, and its failure, Obsession Force, is the real risk: a caster who cannot release an Edict. The speaker must embody it throughout, and breaking its spirit returns the backlash to their own Crystal. Developmental Tier Radiant at Transcendence. All of this is Domain authority, the everyday reach of the Fate Path, on ground the speaker has claimed out loud: no thread comes down, nothing the hall's fate depended on has been moved, and a man who steps outside the dome can kill whom he likes. Contests run as follows: strong personal Domains partly ignore it, an opposing Edict can collapse both, a Void-aligned disturbance opens dangerous tears where neither law holds, and a genuine Fate or Archonic mandate overrides it. The rule reads the criterion and ignores the speaker, so a cynical Edict still holds and the insincerity lands later as a Coherence fault: conduct and stated law drift apart, output degrades across castings, Thresholds refuse and Traits argue, with Tempering Coherence reading it. The bleed, 20 to 30 percent, leaves the Shell as heat, invisible per cubic meter and large in total, and its lasting share is the roughened voice.
 
@@ -38,21 +38,21 @@ The Accord's jurists read an Edict as a performative that simply voids when brok
 
 ### Codex line
 
-**Wellspring** · Judicium, the Wellspring of Truth (governing); Aurevane, the Wellspring of Light (secondary); Oneirion, the Wellspring of Dream (minor).
+**Path** · Fate. Domain authority on ground claimed aloud, the everyday reach of the Path, and no thread comes down.
 
-**Family** · Fulguria, with Limina for Oneirion.
+**Lens** · Judicium (Wild, governing) · Aurevane (Medium, secondary) · Oneirion (Spirit, minor).
 
-**Physics Domain** · Electromagnetism, with Entropy, Void and Mind minor; the physics is a selection rule, a transition whose link has been zeroed.
+**Form** · Claim. An Edict spoken aloud and a staff struck into the ground.
 
-**Category** · Domain Weaving: the speaker's Attraction Layer imposed over bounded ground, rewriting how one named class of action resolves inside it.
+**Gates** · Dominion Sovereignty and Dominion Fate open on the Fate Path at Glory and Refraction; the Throne stays shut until Principality.
+
+**Glyph** · Command across Order. A term: the outcomes one named class of action can reach inside the dome. Strength, trajectory and energy stay as they were.
 
 **Skill** · Speaking, said aloud, reinforced by a strike of the Aether Chord Staff into the ground.
 
-**Stage floor** · Transcendence
+**Stage floor** · Transcendence.
 
-**Grade required** · S-Grade
-
-**Path gate** · Fate Path
+**Grade required** · S-Grade.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ The Accord's jurists read an Edict as a performative that simply voids when brok
 **Stage floor** · Transcendence
 
 **Grade required** · S-Grade
-
-**Path gate** · Fate Path, with Dominion Sovereignty and Dominion Fate opened at Glory and Refraction; the Throne stays shut until Principality.
 
 **Resonant Pair** · None
 

@@ -46,7 +46,7 @@ The codices in this section are partisan, and I would distrust any that claimed 
 
 **The Elven Peoples** carries all five surviving branches and, beneath it, **The High Empire of Eresse**, the single people they all were, described as it stood before it knew it was about to end.
 
-**The Marrowkin** carries the origin, the fractures, and all eight branches in summary, with **The Reach Dwarves** beneath it for the five that were put somewhere else entirely and had to decide, from first principles, what enduring even meant once the mountain was no longer underfoot.
+**The Marrowkin** carries the origin, the fractures, and all eight branches in summary, among them the five that were put somewhere else entirely and had to decide, from first principles, what enduring even meant once the mountain was no longer underfoot.
 
 **The Goblinoid Peoples** carries the First Impact, all six lineages, the languages that branched from a metaphysical event rather than a spoken root, and Za'tarch, whose people will correct you, at length and around a fire, if you call it a refuge.
 
@@ -56,9 +56,9 @@ The codices in this section are partisan, and I would distrust any that claimed 
 - [[Races & Peoples/The Peoples/The Goblinoid Peoples]]
 - [[Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples]]
 - [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms]]
-> **Tongues.** The constructed languages live here rather than under The Magic System, because a tongue belongs to a people before it belongs to a working. **The Tongues of the Realms** is the framework: what counts as a language against what is only a naming register, the seven conventions binding every grammar, the family tree, and the build order. **The set is complete.** Old Vaross, Eressean and Varrisak, the Tally-Tongue, Accord Latin with its two spoken registers, and Common. **Accent** sits under Common as a menu for placing a speaker without spelling a single vowel.
+> **Tongues.** The constructed languages live here rather than under The Magic System, because a tongue belongs to a people before it belongs to a working. **The Tongues of the Realms** is the framework: what counts as a language against what is only a naming register, the seven conventions binding every grammar, and the family tree. Old Vaross, Eressean and Varrisak, the Tally-Tongue, Accord Latin with its two spoken registers, and Common. **Accent** sits under Common as a menu for placing a speaker without spelling a single vowel.
 >
 > *Parunic is the exception and stays where it is. It is a script for writing boundaries onto laws, and nobody was ever raised in it, so it lives under The Magic System with the Descent of Parun and the Counted Speech.*
 >
-> *Still open: Drow Shadow-Veil notation, described from outside in three places and never given an entry, and Mirror-Sign, named as a full manual language with its own grammar and never given one.*
+> *Two more are known from outside and have never been written down by anyone who would talk: Drow Shadow-Veil notation, and Mirror-Sign, a full manual language with its own grammar.*
 - [[Races & Peoples/The Peoples/The Ashkaru]]

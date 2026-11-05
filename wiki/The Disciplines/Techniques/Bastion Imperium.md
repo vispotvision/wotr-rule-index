@@ -6,7 +6,7 @@ title: The Unmoved Throne
 
 *Bastion Imperium, on any roll you care to consult, and that is the scholars' term. The children of Aldermere have never heard it.*
 
-## THE UNMOVED THRONE (Bastion Imperium) (Claustra, Stage VIII)
+## THE UNMOVED THRONE (Bastion Imperium) (Claim, Stage VIII)
 
 > *Push him, pull him, ring the bell,*
 > *Bring your horses, bring them well,*
@@ -31,15 +31,15 @@ Immovability is a footprint problem, and the physics is solid-state sintering: g
 
 The immobility is the mechanism and no rule set on top of it. A sintered load path is one body, and stepping out of it is leaving the structure. Nobody walks while being an arch. Stepping out ends it at once.
 
-Two boundaries move and the glyphs say so. Coagula moves the diffusion rate in the substrate underfoot; Judicium moves the threshold below which arriving force is admitted. Lock (Thalen), a Counter occupying the limit on his own position, lies across Boundary (Zhaeren), a Root drawing the ten-meter edge. Coagula, the Unifying Pulse (Materia), is primary: grains held hot below melting fuse into one body, and it gathers the ground and gives Resilience Integrity and Tempering Coherence. Judicium, the Wellspring of Truth (Fulguria), says every element shows its own spectrum, so force under the threshold is read and found wanting before it registers; it gives Gnosis Acuity and Analysis. Coagula's residual porosity leaves the voids where the next fracture begins, and Judicium's spectral overload blinds its reader for a minute. Either can be induced from outside.
+Two boundaries move and the glyphs say so. Coagula moves the diffusion rate in the substrate underfoot; Judicium moves the threshold below which arriving force is admitted. Lock (Thalen), a Counter occupying the limit on his own position, lies across Boundary (Zhaeren), a Root drawing the ten-meter edge. Coagula, the Unifying Pulse (Wild), is primary: grains held hot below melting fuse into one body, and it gathers the ground and gives Resilience Integrity and Tempering Coherence. Judicium, the Wellspring of Truth (Wild), says every element shows its own spectrum, so force under the threshold is read and found wanting before it registers; it gives Gnosis Acuity and Analysis. Coagula's residual porosity leaves the voids where the next fracture begins, and Judicium's spectral overload blinds its reader for a minute. Either can be induced from outside.
 
-He pulls on the substrate and the ambient across all 314 m². The Residue is permanent, because sintered ground does not un-sinter: the ceramic footprint can be found by a surveyor years later, and a Harmonist (one who reads a place by ear) on an old bastion floor hears less than on bare rock. Materia favors mineral-rich rock, worked stone and deep foundations; open water, altitude and moving platforms suppress it, and the stance weakens with every meter lost from solid ground and on unstable terrain. The Aether Shell carries the projection and the Attraction Layer the claim on the ground. Developmental Tier is Radiant, where territorial durability makes a first true Domain possible, and the stance is the shape it first takes. Resilience Ward defends an own Domain above SS only through the Fate Path at Transcendence, read at S, so the stance defends its ground at S and never at SS.
+He pulls on the substrate and the ambient across all 314 m². The Residue is permanent, because sintered ground does not un-sinter: the ceramic footprint can be found by a surveyor years later, and a Harmonist (one who reads a place by ear) on an old bastion floor hears less than on bare rock. Coagula's Ground favors mineral-rich rock, worked stone and deep foundations; open water, altitude and moving platforms suppress it, and the stance weakens with every meter lost from solid ground and on unstable terrain. The Aether Shell carries the projection and the Attraction Layer the claim on the ground. Developmental Tier is Radiant, where territorial durability makes a first true Domain possible, and the stance is the shape it first takes. Resilience Ward defends an own Domain above SS only through the Fate Path at Transcendence, read at S, so the stance defends its ground at S and never at SS.
 
 Above Refraction no anchor is needed, but it is declared aloud on purpose, the speaking, *Ars Vocis* (the voiced art): a bastion nobody heard declared is one nobody has to respect. Field fault: an airborne opponent, unstable ground or a substrate destabilized by Sublimatio leave the stance intact and useless. Structural fault: the Crystal fails in the legs and spine, and the ground fails at its residual pores. The bleed, 20 to 30 percent, 0.50 to 13.8 GW, goes into the ground as the heat that holds it at sintering temperature and out as the iron groan, with no light in it to speak of.
 
 Correspondence is the theory that fits. The stance answers one practitioner's doctrine and no copyist's, which Consent cannot hold; practitioner and Wellspring are one law at two scales, briefly agreeing. An old school of natural philosophers holds that cohesion is a breath held in tension through matter, so the stance is one holding with practitioner and ground both inside. They err in putting the tension in the body alone, when the ground is a member of the working. Against a higher Stage the sum is simple: force above the S band is not covered and walks straight in.
 
-> **What nobody knows.** Why the ground under his stance answers to doctrine at all, when no other Materia working known to the Guild does the same for anyone who has tried to copy it.
+> **What nobody knows.** Why the ground under his stance answers to doctrine at all, when no other Coagula working known to the Guild does the same for anyone who has tried to copy it.
 
 **Cost.** Six percent of full reserve a stance, severe Aether compression through legs and spine that compounds, and real fatigue on release.
 
@@ -47,18 +47,25 @@ Correspondence is the theory that fits. The stance answers one practitioner's do
 
 ### Codex line
 
-- **Wellspring** · Coagula (primary), Judicium (secondary)
-- **Family** · Materia (Coagula); Fulguria (Judicium)
-- **Physics Domain** · Material Science (Materia); Electromagnetism (Fulguria)
-- **Category** · Claustra
-- **Skill** · Speaking (*Ars Vocis*; declared)
-- **Stage floor** · Stage VIII, Transcendence
-- **Grade required** · S-Grade
-- **Path gate** · Body, Fate
+**Path** · Body and Fate. Body for the densified column under his feet, Fate for the threshold and the Ward on the ground he has claimed. No thread comes down.
+
+**Lens** · Coagula (Wild, primary) · Judicium (Wild, secondary).
+
+**Form** · Claim. Feet down, law declared aloud, and ten meters of ground are his.
+
+**Gates** · Two boundaries, two gates: Body for the densified column, Fate for the threshold and the Ward. Resilience Ward defends an own Domain above SS only through the Fate Path at Transcendence, read at S, so the stance defends its ground at S and never at SS.
+
+**Glyph** · Lock across Boundary. Two limits: a physical one, the diffusion rate in the substrate underfoot, and a term on the claim, the threshold below which arriving force is admitted.
+
+**Skill** · Speaking (*Ars Vocis*; declared).
+
+**Stage floor** · Stage VIII, Transcendence.
+
+**Grade required** · S-Grade.
 
 ### FOW line
 
-Governing Primary: Resilience, off Coagula's Resilience Integrity and Tempering Coherence, with Gnosis Acuity and Gnosis Analysis carried in from Judicium for the field's threshold-reading. Stage floor Stage VIII, Transcendence. Grade required S-Grade. Path gate Body and Fate. Resonant Pair: none.
+Governing Primary: Resilience, off Coagula's Resilience Integrity and Tempering Coherence, with Gnosis Acuity and Gnosis Analysis carried in from Judicium for the field's threshold-reading. Stage floor Stage VIII, Transcendence. Grade required S-Grade. Resonant Pair: none.
 
 ### Origin
 
@@ -74,7 +81,7 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 
 **Rigidity** · Their law is hold: anything that must be chased, a runner, a fire, a hostage carried off, costs them either the working or the thing.
 
-**Look up** · The Materia entries for Coagula's porosity and Sublimatio; Judicium's price; Materia's favored and suppressive ground; the S-Grade force table; the Transcendence Stage table and the Body and Fate Path gates.
+**Look up** · The entries for Coagula's porosity and Sublimatio; Judicium's price; the Ground of Coagula and Judicium on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the S-Grade force table; the Transcendence Stage table and the Body and Fate Path gates.
 
 ## Numbers
 
@@ -91,8 +98,6 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 ### Essence
 
 **Practitioner** · Transcendence, Master, S-Grade (401 to 550), reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, rising above 0.80 on ground already tuned by earlier stances.
-
-**Paths** · Two boundaries, two gates: Body for the densified column, Fate for the threshold and the Ward.
 
 | Quantity | Working | Result |
 |---|---|---|

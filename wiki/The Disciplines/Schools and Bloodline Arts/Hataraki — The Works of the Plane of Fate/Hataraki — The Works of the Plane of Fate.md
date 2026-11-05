@@ -25,6 +25,14 @@ The named arts of the house that carry these Works onto a battlefield live once,
 
 ## How It Really Works
 
+| **Path** | Fate, wherever a Work actually takes hold, and that hold reads Thread Class on top of whatever else is being paid. Blood gives no Path, so a Moto with a Work may lead on the Body or the Spirit road and read the blade on its own ladder |
+|---|---|
+| **Lens** | None required. A grip does not depend on a lens, and the lists under each Work below show only what a Moto of that Work tends to temper on |
+| **Form** | Pull |
+| **Gates** | The inherited grip itself, then Dominion Fate against the target's Persistence and Continuity |
+
+On a card it takes one line, and it is no Trait, technique, blessing or Class: `Fate Art: Ruin · grip · Thread I`.
+
 *Hataraki, literally translated as Work, is the governing function of the Plane of Fate.*
 > It is the labor by which existence is maintained, classified, corrected, and moved toward its appointed outcome, well beyond any form of magic or source of power. Where other systems channel force, **Hataraki administers purpose.**
 
@@ -67,7 +75,7 @@ flowchart TD
     B["BARA<br>authored the Works before time"]
     B --> W["THE SEVEN WORKS<br>the first grammar beneath divine identity"]
     W --> A["THE FOURTEEN ARCHONS<br>meanings risen into conceptual sovereignty"]
-    W --> T["TITANS<br>structure, force, collapse, embodied principle"]
+    A --> T["TITANS<br>the same principles bearing weight"]
     W --> WS["WORLD SPIRITS<br>spirit, continuity, metaphysical relation"]
     W --> E["THE EPOCHS<br>successive unveilings of what<br>the Works had already made possible"]
 ```
@@ -96,9 +104,9 @@ The grips do not trade. A hand trained to Ruin is no use on a Purity job, any mo
 
 ### What it costs to use one
 
-The blood gives the grip and nothing else. A Moto's [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]], the ladder that measures how much of Fate a soul can pull down and hold, may open before Glory where almost anyone else's would never open at all, and it is still the steepest of the three ladders, with worse returns on every rung than the other two. Nothing about being born to it makes the pull light.
+The blood gives the grip and nothing else. A Moto's [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]], the ladder that measures how much of Fate a soul can pull down and hold, may open before Glory where almost anyone else's would never open at all, and it is still the steepest of the three ladders, with worse returns on every rung than the other two. Blood opens that ladder early and the cap never lifts. Nothing about being born to it makes the pull light.
 
-- **Most of the time they do not pull.** What a Moto does in most fights is read, and then hit: the Shingan finds the seam, the sword goes in at the seam, and no thread has been touched. Add the Range, the Aura Pressure and the presence that come with the Fate Path, and that is a very frightening fighter who has not yet done anything difficult.
+- **Most of the time they do not pull.** What a Moto does in most fights is read, and then hit: the Shingan finds the seam, the sword goes in at the seam, and no thread has been touched. Blood gives no Path, and most of the house lead on some other road. A Moto who has also walked the Fate Path adds its Range, its Aura Pressure and its presence, and that is a very frightening fighter who has not yet done anything difficult. The rest get what any Body or Spirit fighter gets, with a better eye.
 - **A real pull low down** is one lean on the odds: a guard that slips, a strap that gives. It has a visible charge and a tell, it can take a large share of the reserve, it leaves the body bleeding, and it often fails.
 - **Higher up** a Work can remove or assign a prerequisite: this cut was always going to land, this wall was always going to fall. The price is ruinous at every Stage, and the distance from likely sets it.
 - **It moves only what already has a way of happening.** A sound thing stands, as nine thousand people at Tobishima can confirm.
@@ -121,7 +129,7 @@ Every Work therefore possesses both a lawful expression and a corruption vector.
 
 ## The Seven Works
 
-> The Works do not replace the canonical Sixty Wellsprings. Each Work gathers, administers, and gives higher functional direction to clusters of Wellspring law. The alignments below are **representative affinities rather than exclusive ownership**, because a single Wellspring may lean toward more than one Work depending on context, rite, and metaphysical use.
+> The Works do not replace the canonical Sixty Wellsprings. Each Work gathers, administers, and gives higher functional direction to clusters of Wellspring law. **A Work's grip does not depend on a lens.** The lists below are what a Moto of that Work tends to temper on, and a single Wellspring may lean toward more than one Work depending on context, rite, and metaphysical use. The Fate and Medium names come first because those are at home on the road the Works live on; a Moto of Ruin who leads on the Body road and tempers on Fractura closes the same grip on the same seam.
 
 ### Hametsu no Gō · the Work of Ruins
 
@@ -133,7 +141,7 @@ Its function within the Plane of Fate is to break false continuities. When a kin
 
 **Through Attraction Force** · lawful ending, necessary severance, corrective destruction. **Through Obsession Force** · recursive annihilation, compulsive devastation, fixation upon collapse for its own sake.
 
-**Representative Wellsprings** · Cataclysm · Fractura · Abython · Exuroth · Cinerion · Nihiloth · Oblivara · Tenebra
+**What a Moto of this Work tends to temper on** · Tarturon · Oblivara · Mortalis · Cataclysm · Fractura · Nihiloth · Cinerion · Exuroth
 
 ### Junketsu no Gō · the Work of Purity
 
@@ -145,7 +153,7 @@ Its role goes past healing: it exists to **define proper structure**. Purity cre
 
 **Through Attraction Force** · consecration, restoration, rightful stability, sacred protection. **Through Obsession Force** · sterilization, fanatic correction, purgation without mercy, and the violent refusal of all stain or deviation.
 
-**Representative Wellsprings** · Benediction · Fixatio · Judicium · Absolution · Redemption · Aurevane · Basilithe · Petralon
+**What a Moto of this Work tends to temper on** · Benediction · Fixatio · Aurevane · Luminalis · Judicium · Absolution · Redemption · Petralon
 
 ### Seirei no Gō · the Work of Spirit
 
@@ -157,7 +165,7 @@ Spirit does not only animate life; it regulates endings, hauntings, remembrance,
 
 **Through Attraction Force** · communion, ancestor echo, lawful death, soul continuity, sacred rebirth. **Through Obsession Force** · soul-hoarding, memory imprisonment, parasitic haunting, spiritual fixation that refuses release.
 
-**Representative Wellsprings** · Anima Spirare · Mortalis · Rebirthine · Anamnesis · Transference · Phreatis · Letheveil · Contrition
+**What a Moto of this Work tends to temper on** · Mortalis · Anamnesis · Phreatis · Transference · Oblation · Anima Spirare · Letheveil · Contrition
 
 ### Jikan no Shigoto · the Work of Temporality
 
@@ -171,7 +179,7 @@ This Work is especially important because it proves that Hataraki precedes chron
 
 **Through Attraction Force** · preserved sequence, history, causality, meaningful progression. **Through Obsession Force** · loop-prison, recursive inevitability, frozen causality, and the inability of events to move beyond one wound, one vow, or one decisive moment.
 
-**Representative Wellsprings** · Transmutatio · Ascensio · Cymorath · Anamnesis · Somnalis · Oneirion · Mirithane · Lethegraal
+**What a Moto of this Work tends to temper on** · Anamnesis · Somnalis · Phreatis · Tarturon · Transmutatio · Oneirion · Mirithane · Lethegraal
 
 ### Chishiki no Shigoto · the Work of Knowledge
 
@@ -183,7 +191,7 @@ Knowledge gives shape to comprehension. It governs learning, memory, discernment
 
 **Through Attraction Force** · revelation, teaching, inheritance of truth, lawful interpretation, lucid understanding. **Through Obsession Force** · fixation, devouring certainty, interpretive mania, enslavement to one consuming idea or forbidden truth.
 
-**Representative Wellsprings** · Judicium · Luminalis · Aurevane · Eidolyn · Anamnesis · Mirithane · Oneirion · Phreatis
+**What a Moto of this Work tends to temper on** · Luminalis · Aurevane · Anamnesis · Phreatis · Oblivara · Judicium · Mirithane · Eidolyn
 
 ### Baransu no Shigoto · the Work of Balance
 
@@ -195,7 +203,7 @@ Balance governs the tension between Ruin and Purity, death and life, law and fre
 
 **Through Attraction Force** · harmony, lawful arbitration, coexistence, measured equilibrium. **Through Obsession Force** · suffocating stasis, forced symmetry, paralysis in the name of fairness, and the refusal to permit necessary imbalance where reality requires it.
 
-**Representative Wellsprings** · Coagula · Coagulatio · Thaloré · Transference · Manganthra · Chthonica · Basilithe · Petralon
+**What a Moto of this Work tends to temper on** · Transference · Oblation · Tarturon · Fixatio · Coagula · Thaloré · Basilithe · Petralon
 
 ### Zentai-sei no Hataraki · the Work of Totality
 
@@ -207,7 +215,7 @@ The highest and widest expression of Hataraki. The function of wholeness, integr
 
 **Through Attraction Force** · coherence, relation, cosmic unity, lawful integration. **Through Obsession Force** · total dominion, subsumation, enforced oneness, and the hunger to gather all distinctions into one captive frame.
 
-**Representative Wellsprings** · Materia Primordia · Coagula · Transmutatio · Ascensio · Ignivale · Monolithion · Abyntheus · Sublimatio
+**What a Moto of this Work tends to temper on** · Fixatio · Benediction · Transference · Anamnesis · Materia Primordia · Transmutatio · Monolithion · Abyntheus
 
 ---
 
@@ -229,7 +237,7 @@ Together these Works transform the Plane of Fate from a realm of simple prophecy
 
 ### Taking a blessing off
 
-A real Fate Art can do to a blessing what almost nothing else can, whoever gave it, and it is the reason people run when a Moto starts reading their thumb. A blessing, to a Moto, is a job someone has assigned to the odds, and a job can be read, and a worker can be fired. Three Works do it, in three motions. **Knowledge** reads the line for what it is. The remover then names aloud what job the thing was given and by whom, because Hataraki administers purpose and has to say what the purpose was. **Ruin** then breaks a line that has become a false continuity, or **Purity** makes a thing stand as it ought until a line sitting in the soul as a stain has nowhere to stay; a true gift, well held for decades, offers neither handle and takes days. To *take back* returns a line to its author, who feels it arrive. To *remove* ends it where it stands. Either way, everything standing on the line comes down at once. What falls and what it costs the remover are set out in [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]].
+A real Fate Art can do to a blessing what almost nothing else can, whoever gave it, and it is the reason people run when a Moto starts reading their thumb. A blessing, to a Moto, is a job someone has assigned to the odds, and a job can be read, and a worker can be fired. Three Works do it, in three motions, and since the grips do not trade it takes two Works or two Moto to do it at all. **Knowledge** reads the line for what it is. The remover then names aloud what job the thing was given and by whom, because Hataraki administers purpose and has to say what the purpose was. **Ruin** then breaks a line that has become a false continuity, or **Purity** makes a thing stand as it ought until a line sitting in the soul as a stain has nowhere to stay; a true gift, well held for decades, offers neither handle and takes days. To *take back* returns a line to its author, who feels it arrive. To *remove* ends it where it stands. Either way, everything standing on the line comes down at once. What falls and what it costs the remover are set out in [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]].
 
 ---
 
@@ -253,6 +261,16 @@ People who have read the Works as doctrine and never stood near a Moto host expe
 
 ---
 
+## The Works, the Glyphs and the Loom
+
+A Work is a grip and never a glyph, and the two are confused about once a season by people who ought to know better. A glyph is a path across the Parun lattice (the fixed grid of the root script of law), a reading taken from one of the fourteen stations the Archons hold, and it limits what a Wellspring's idea is doing. A Work traces no path, fills no slot and adds up to nothing. It is one of the functions Bara wrote into the Plane of Fate, with a way of taking hold of it handed down.
+
+**The Loom of Stars is that same lattice seen from above.** The Archons read it from their stations. The Moto read by delegated sight, from the Loom, the Kōkan Line having administered it under leave from above the stations. So the Shingan and a cut glyph are looking at one object from two very different chairs. This is why the Counted Speech has no Warrant word for what the house holds: a word's value is a sum of cells, and cells are what the stations read, so the record writes down the sound a Moto speaker opens on and leaves the value blank.
+
+Nothing about this makes a Moto a better cutter. A Moto who speaks or cuts a sentence spends the soul's own share like anyone else, and glyphs and Seals never pull. The two meet at one place only. A Fourth Seal does not wait for a line to end but ends it, which is past what any soul's own share will buy, so it needs a grip on Fate or a Warrant that carries one. [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|The Master Glyph Index]] has the rest.
+
+---
+
 ## Epochal Manifestation
 
 Because the Works were created before time, they stand beneath the later sequence of epochs rather than arising from them. The Second Epoch and Third Epoch invent none of these functions. **They inherit and express them.**
@@ -263,12 +281,11 @@ The epochs are **successive unveilings of what the Works had already made possib
 
 ---
 
-## Discrepancies of Record
+## The Second Roster: a Register of Doctrines
 
-*Attested, not reconciled.*
-> **The second roster.** [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|Fracture of Worlds]] preserves a differently-named set of seven Works, given with Sub-Stat clusters rather than with functions. Only two names are common to both rosters. The Archives has never issued a ruling on whether these are alternate names for the same seven labors, a superseded enumeration, or a distinct register describing the Works as they present to a practitioner rather than as they operate in the Plane of Fate.
+> [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|Fracture of Worlds]] preserves a differently-named set of seven, given with Sub-Stat clusters rather than with functions, and only two names are common to both rosters. They are a register of practitioners' doctrines: seven ways of carrying a Work, each with the Sub-Stats it trains. There are seven Works and seven grips, and a list of how people have chosen to live with them is another kind of list.
 
-| Work, as the Fracture names it | Sub-Stat clusters | Character |
+| Doctrine, as the Fracture names it | Sub-Stat clusters | Character |
 |---|---|---|
 | **Zentai-sei no Hataraki** · Totality | Dominion (Sovereignty, Throne) · Tempering (Ceiling, Maturity) · Resilience (Persistence, Continuity) | The Work of wholeness and cosmic maintenance. Practitioners whose doctrine encompasses rather than excludes. |
 | **Hametsu no Gō** · Ruins | Ardency (Flux, Overchannel, Cascade) · Resilience (Ward, Persistence) · Dominion (Pressure, Command) | The Work of necessary collapse. Practitioners whose doctrine dismantles what can no longer sustain itself. |
@@ -293,6 +310,6 @@ Nobody who has done it has ever called it easy, and each Work is a separate hard
 
 **Counter.** A designation has to be earned, so be sound: a pronouncement laid on a thing with no hidden failure in it does nothing, and a false continuity is the only kind Ruin can break. Otherwise bring another Fate user to lean the other way, bind yourself too well to be moved, or reach the Moto before the result arrives.
 
-**Numbers.** Seven Works, one grip apiece, gathered over the Sixty Wellsprings with eight representative Wellsprings listed to each. Three levels of operation (Conceptual, Operational, Judicial). Fourteen Archons. The second roster: seven names, two in common with the first. No EU figures live here; the Works are priced at the art, and the arts are in the Sho.
+**Numbers.** Seven Works, one grip apiece, gathered over the Sixty Wellsprings with the eight most often tempered on listed to each. Three levels of operation (Conceptual, Operational, Judicial). Fourteen Archons. The register of doctrines: seven names, two in common with the Works. No EU figures live here; the Works are priced at the art, and the arts are in the Sho.
 
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]

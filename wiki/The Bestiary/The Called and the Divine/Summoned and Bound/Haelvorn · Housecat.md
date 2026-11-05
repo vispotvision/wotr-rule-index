@@ -5,7 +5,7 @@ title: Haelvorn · Housecat
 # Haelvorn · Housecat
 
 *Native-Sovereign route form. Marrowkin, Passwarden branch, Waymark Guild. Reclassified as ordnance over the objection of the practitioner who holds it.*
-> **Every glyph in this entry's chain is a fire glyph.** Cold is not a substance and there is no Wellspring that makes it. There is only heat and where it is moved to, and this construct is a Caloria form running the current backwards.
+> **Every glyph in this entry's chain is a fire glyph.** Cold is not a substance and there is no Wellspring that makes it. There is only heat and where it is moved to, and this construct is a heat form running the current backwards.
 >
 > **The heat has to go somewhere.** It goes up the tether. That sentence is the whole entry and the rest is arithmetic.
 
@@ -40,6 +40,8 @@ Bette Quill considered this for some time. "Housecat," she said. "Wants in, want
 | **Crystal Developmental Tier** | **Resonant** |
 | **Crystal State** | **Refined.** No accretion whatsoever, which is worth stating plainly beside the Mule's entry in the same register: whatever this construct takes, it does not keep, except in the rings, and the rings are not part of it |
 | **Aether Class** | **III · Resonant** |
+| **Essence Class** | **I · Listener.** It knows who is on the road, and that is all it has ever wanted to know |
+| **Thread Class** | **II · Drawn.** The route's bond shows here, and a crossing it has certified holds a little better than it should |
 | **Summon Stability Facet** | **B**, at the ceiling of Tier III's range. Native provenance again, and again nothing to do with the summoner's competence, which Rimsang states in her own filings with what the Division has recorded as insufficient deference |
 | **Traits** | *Dry Approach.* It removes water vapor before it removes warmth, so the humidity crash always precedes the temperature drop by two or three seconds and is the only warning anyone gets. *Load Certain.* It knows the bearing capacity of any surface it stands on, to a tolerance the Guild has tested and failed to catch out. *Scentless.* It has no smell, produces none, and cannot be tracked by any animal yet tried, and the absence is itself detectable to anything with a nose that expects a body to have one |
 | **Domain** | None registered. Three Concordia readers have filed a joint dissent arguing that the inversion layer described in Section VIII behaves as a Domain in every measurable respect and lacks only the registration, and the dissent has been received and shelved |
@@ -50,9 +52,10 @@ Bette Quill considered this for some time. "Housecat," she said. "Wants in, want
 
 | **Primary Wellspring** | **Exuroth**, the Trial Flame. Temperance through ordeal, hardship as the forge of will. Strengthens Ardency Overchannel, Tempering Overflow, and Vitality Threshold, which in plain terms means it raises what a body can be made to survive, and every single thing this construct costs its summoner runs through that clause |
 |---|---|
-| **Secondary Wellspring** | **Basilithe**, Passwarden branch primary, House of Materia. It contributes nothing to the cold. It contributes the load rating, and without it the Span would be a sheet of ice rather than a certified crossing |
-| **House Resonance** | Caloria is heat and its absence and the transfer between them, and the Family's own definition is what makes this entry legal rather than perverse. Everything here is a fire power running the current the other way, with no ice power anywhere in it, and the reason the construct is white is that white is what the far end of a fire looks like. Materia arrives underneath and makes the result bear weight |
-| **Essence Family** | **Caloria**, with a declared **Materia** secondary through Basilithe |
+| **Secondary Wellspring** | **Basilithe**, Passwarden branch primary, a Wild Wellspring of stone. It contributes nothing to the cold. It contributes the load rating, and without it the Span would be a sheet of ice rather than a certified crossing |
+| **Kind Resonance** | Exuroth is Wild, heat and its absence and the transfer between them, and that definition is what makes this entry legal rather than perverse. Everything here is a fire power running the current the other way, with no ice power anywhere in it (the Titan Vohrin's frost is another matter and stands outside the Sixty), and the reason the construct is white is that white is what the far end of a fire looks like. Basilithe arrives underneath and makes the result bear weight |
+| **Kind** | **Wild**, primary and secondary both |
+| **Leans on** | The Aether Shell. *Body:* it will not close on you unless you are on its road, and it takes heat, so bring no fire. *Spirit:* past the white to a Core that has never said where it came from. *Fate:* it holds to a route as an office, and the office can be contested by the person who holds it |
 | **Physics Domain** | **Thermodynamics**, with **Material Science** on the load-bearing side only. Every Mechanism field below is heat transport, phase change, or the mechanical consequences of both. Nothing in the kit is a projectile |
 | **The Donation** | The donation runs as thirst. Witnesses within the radius describe a sensation of being pulled from rather than pressed on, and several have reached for the word *drinking* independently and then apologized for it |
 
@@ -60,11 +63,11 @@ Bette Quill considered this for some time. "Housecat," she said. "Wants in, want
 
 ## IV · The Draft
 
-| **Authorization Glyph** | **[IrW] Will.** Amplifies Essence through conviction, resists domination. Judicium primary, attested at Ignivale, Families Caloria and Fulguria. Drafted on the Caloria attestation. The Guild's commentary on why an Authorization role for a route-instrument should be built out of a resistance-to-domination glyph runs to four pages and settles nothing |
+| **Authorization Glyph** | **[IrW] Will.** Amplifies Essence through conviction, resists domination. Judicium primary, attested at Ignivale. Drafted on the Ignivale attestation. The Guild's commentary on why an Authorization role for a route-instrument should be built out of a resistance-to-domination glyph runs to four pages and settles nothing |
 |---|---|
-| **Boundary Glyph** | **[Py] Pyre.** Pins a combusting mark to a fixed point. Pyraeon primary, Caloria, Thermodynamics. The spatial limit on this construct is a burn-mark, which is the single detail most Accord readers refuse to believe until they see the ground |
-| **Direction Glyph** | **[Vt] Vector.** Directs motion or force along a plotted line. Ignivale primary, Caloria, Thermodynamics. The behavioral vector is *route*, and Vector is the only glyph in the index that means a plotted line rather than mere movement |
-| **Sealing Glyph** | **[Sv] Sever.** Cuts a rot-thread from a living host for burning. Catharsis primary, Caloria, Thermodynamics. Sealing this form is drafted as excising something from a body, and the body in the grammar is hers |
+| **Boundary Glyph** | **[Py] Pyre.** Pins a combusting mark to a fixed point. Pyraeon primary, Thermodynamics. The spatial limit on this construct is a burn-mark, which is the single detail most Accord readers refuse to believe until they see the ground |
+| **Direction Glyph** | **[Vt] Vector.** Directs motion or force along a plotted line. Ignivale primary, Thermodynamics. The behavioral vector is *route*, and Vector is the only glyph in the index that means a plotted line rather than mere movement |
+| **Sealing Glyph** | **[Sv] Sever.** Cuts a rot-thread from a living host for burning. Catharsis primary, Thermodynamics. Sealing this form is drafted as excising something from a body, and the body in the grammar is hers |
 | **Invocation** | *"Veni, non ad pugnam sed ad viam."*   Come, not to the fight but to the road |
 | **Material Anchor** | Five iron rings, Guild-forged, four of them closed and one open. They ride in the construct's mane and they are the only physical component of the working. Taking a closed ring off the braid is possible and has been done once. It discharges (see The Rings) and it does not transfer the naming-right, because the rings are storage and the authorization lives in her throat |
 | **Circle Requirement** | Internalized shorthand. She has not laid a formal Draft-circle in nine years. The four roles are spoken and the ground answers, which the Division has entered as an irregularity and the Guild has entered as competence |
@@ -144,7 +147,7 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
   **Counterplay:** Do not stand in front of it, which is unusually achievable because the animal is slow to turn and the cone is visible from outside as a wall of hoarfrost. Beyond that: mass and moving air both defeat it, because a large enough thermal reservoir or a strong crosswind restores what the pull removes faster than the pull can take it. A burning building is functionally immune. So is a river in flood. So, awkwardly for the Accord, is a battle already on fire.
 
-  **Codex Assignment:** [Ra] · [Wy] · [Ve] · Exuroth primary, Basilithe secondary · Caloria · Thermodynamics. All three glyphs attested at Caloria.
+  **Codex Assignment:** [Ra] · [Wy] · [Ve] · Exuroth primary, Basilithe secondary · Thermodynamics.
 
   **First Display:** Not in a fight. A waystation hearth, a pot boiling over, the construct putting its head through the door and the pot going still and gray and solid between one word of an argument and the next. Everyone laughs. Rimsang leaves the room and does not come back for a while and nobody follows her.
 
@@ -180,7 +183,7 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
   **Counterplay:** Wait. It melts. Beyond that, the Span is the single most exploitable thing in the entry, because it is a road and a road is neutral: a competent opponent does not deny the crossing, they let it be built and then use it, and the construct will not unmake a Span while anything is still on it, including them.
 
-  **Codex Assignment:** [Grv] · [Py] · [Slg] · Exuroth primary, Basilithe secondary · Caloria with declared Materia crossover · Thermodynamics and Material Science. [Grv] Gravity carries a Basilithe-Materia-Material Science row and is drafted here on the declared secondary rather than on the primary, which is legal and is noted so no reader files it as an error.
+  **Codex Assignment:** [Grv] · [Py] · [Slg] · Exuroth primary, Basilithe secondary · Thermodynamics and Material Science, by declared crossover. [Grv] Gravity carries a Basilithe row in Material Science and is drafted here on the declared secondary rather than on the primary, which is legal and is noted so no reader files it as an error.
 
   **First Display:** A stream a child could jump. Rimsang certifies it anyway, aloud, in full Guild form, with a load rating, for a party of four who did not need it, because the form is the form. Somebody laughs at her. She finishes the recitation.
 
@@ -204,7 +207,7 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
   **Numerical Effect:** Radius forty to sixty paces from the animal, depth roughly to mid-thigh on a Concord human and to the chest on a Marrowkin, and the depth is the awkward part. Holds for as long as it stays down. Ambient inside the layer sits some twenty-five degrees under the air above it, which is not lethal and is not meant to be.
 
-  **Target Response:** No open fire will burn inside the layer, at all, from any source, because a flame needs the hot gas above it to rise and take its place. Torches gutter, lamps die, fire-pots go dead in the hand, and every Caloria practitioner in the radius finds their ignition working correctly and producing nothing. Smoke does not rise; it lies down and spreads and blinds people at knee height. Feet and lower legs go numb in about a minute and clumsy in about three, and the casualty reports read as an unusual number of broken ankles. Scent pools, so hounds are useless. The layer kills almost nobody. It makes a room in which several things that were about to happen simply do not.
+  **Target Response:** No open fire will burn inside the layer, at all, from any source, because a flame needs the hot gas above it to rise and take its place. Torches gutter, lamps die, fire-pots go dead in the hand, and every fire practitioner in the radius finds their ignition working correctly and producing nothing. Smoke does not rise; it lies down and spreads and blinds people at knee height. Feet and lower legs go numb in about a minute and clumsy in about three, and the casualty reports read as an unusual number of broken ankles. Scent pools, so hounds are useless. The layer kills almost nobody. It makes a room in which several things that were about to happen simply do not.
 
   **Limitation:** It is ankle-to-thigh deep. Anything above that height is entirely unaffected, which means archery is unaffected, cavalry above the layer is unaffected, and any working that does not require convection or a flame proceeds normally.
 
@@ -216,7 +219,7 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
   **Counterplay:** Get above it. Ladders, walls, saddles, a table. The layer has a top and the top is at thigh height, and a competent opponent stops fighting on the ground and starts fighting off it. Failing that, strong wind destroys the stratification outright in under a minute, and any sufficiently large heat source inside the radius punches a chimney through it that the layer cannot close.
 
-  **Codex Assignment:** [Eith] · [Py] · [Sv] · Exuroth primary, Basilithe secondary · Caloria · Thermodynamics. All three glyphs attested at Caloria.
+  **Codex Assignment:** [Eith] · [Py] · [Sv] · Exuroth primary, Basilithe secondary · Thermodynamics.
 
   **First Display:** A camp. A bad night, a wet fire, a dozen tired people, and the construct lying down without being asked so that the smoke stops going up the valley where it would be seen. The fire dies too. Nobody connects the two things for another year.
 
@@ -252,7 +255,7 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
   **Counterplay:** Cover, and almost anything counts. Beyond that: cutting a closed ring off the braid discharges it uncontrolled at the point of cutting, which has been done once, deliberately, by someone who knew exactly what it would do and did it anyway, and the Guild has that person's name and has never released it.
 
-  **Codex Assignment:** [Fge] · [Ig] · [Py] · Exuroth primary, Basilithe secondary · Caloria · Thermodynamics. All three glyphs attested at Caloria.
+  **Codex Assignment:** [Fge] · [Ig] · [Py] · Exuroth primary, Basilithe secondary · Thermodynamics.
 
   **First Display:** A frozen lock on a waystation door in a bad wind, four people outside it, one ring opened at a distance of half a meter onto an iron plate, the door open before anyone finishes complaining. Nobody present understands they have watched an incendiary.
 
@@ -266,7 +269,7 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
 ## IX · Dissolution and Failure
 
-| **Clean Sealing** | It does not wait to be sealed. When the last body is across the crossing it goes, in about eight seconds, and the going looks like an animal walking out of sight behind something there is nothing behind. What remains is the Pyre mark: a scorched disc on the ground roughly a pace across, black, dry, and warm to the hand for about an hour, which is the detail that convinces Caloria diagnosticians and baffles everyone else |
+| **Clean Sealing** | It does not wait to be sealed. When the last body is across the crossing it goes, in about eight seconds, and the going looks like an animal walking out of sight behind something there is nothing behind. What remains is the Pyre mark: a scorched disc on the ground roughly a pace across, black, dry, and warm to the hand for about an hour, which is the detail that convinces heat diagnosticians and baffles everyone else |
 |---|---|
 | **Severed Tether** | The construct is unaffected and completes the crossing. What comes back up the line into Rimsang is the whole of the somatic return with the Continuum discharge closed off, which is the failure mode the Guild physician's note is actually about. Modeled as fatal inside forty seconds of an active Intake. It has never happened during one. It has happened twice while the construct was merely walking, and both times she was fine, and both times she stopped walking |
 | **Behavior in Silence** | It holds and it keeps walking. Inside a Silence Realm the Intake, the Span, the Floor and the Rings are all unavailable and the construct continues along the route at the same pace, unhurried, taking nothing, asking nothing. Two Accord observations agree it does not appear to notice, and one dissenting note argues that a thing which stops asking questions has noticed a great deal |
@@ -306,24 +309,3 @@ Signature legibility applies and is unusual in shape. The construct itself is ne
 **The Kegshard Relief**, Accord Archive, Arbitration Division report, dated. The refusal to close on a column three days without fire, and the failed relief that followed. The Division's assessment is that the Refusal Conditions in Section V constitute an unacceptable operational limitation. The dissenting note appended by the Concordia reader present argues that the construct declined to take heat from people who had none, states that this is the same clause that has kept it from killing its own summoner, and asks the Division to consider whether it would like that clause removed.
 
 **The Cut Ring**, no record anywhere. Field accounts, five of them, from two companies and one waystation, agreeing that a closed ring was cut off the braid at contact range by someone who knew what would happen. They disagree on who. The Guild holds the name and has released nothing, and the only reason the register is confident the name exists is that the Guild has twice declined to say it does not.
-
----
-
-## XIII · Open Rulings
-
-> **RULED, Isaac, 2026-09-12: one Wellspring, not two, and the frost is not it.** `Fracture_of_Worlds.pdf` lists **Cymorath**, the Air of Ascent, under **Fulguria**: temperance through freedom, motion as devotion, strengthening Dexterity Celerity and Gnosis Cartography. `The_Master_Codex.xlsx`'s **Crymorath** entry, spelled with the r, was the duplicate — struck. Cymorath is the canonical spelling and portfolio going forward, and every wiki page carrying the misspelling has been swept to match (2026-09-12). **Resolved, same day:** the portfolio clash the spelling fix exposed is closed. The struck entry's own content — the two frost glyphs, **[FrTh] FrostThrone** (sovereign stasis over a Domain) and **[ObsG] Obsidian-Glacier** (frozen-dark plates surging through terrain) — and everything the downstream pages built on it as a working frost Wellspring, Draven Kael Vorrick's techniques, Sodoku Moto's Arctic Lion configuration, the Material Ledger's cold rows, is re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
-**No cold Wellspring exists, and the entry treats that as intentional.** FOW defines Caloria as heat and its absence and the transfer between them, thermodynamics, where creation and destruction run the same current. Read straight, that means WOTR has no ice magic and never did, only fire pointed the other way, and this entry is built on that reading all the way down: every glyph in the chain is a fire glyph and the summoner's harmonization is the Trial Flame. If the intended canon is that a dedicated frost Wellspring exists and is simply unwritten, say so and the entry needs re-drafting from the ground rather than patching. Ruled 2026-09-12, see above: the reading holds. The cold lives under Caloria on Vohrin's Titan key, and no dedicated frost Wellspring is coming.
-
-**Rimsang Halfyear is an origination and closes a flagged gap.** `THE_DAWI_PEOPLES_REVISED.docx` states that naming registers for the five new branches are first-pass constructions, provisional until tested against a second named character each. Norbu Waymark was the Passwardens' first. Rimsang Halfyear is the second, built through the Naming Guide's four passes on the branch's Sherpa route-keeping anchor: given name in the established two-syllable register, Guild byname earned at certification rather than at birth, and the byname mildly cutting in origin per the guide's byname permission, since a route that exists four months a year is half a route. If Isaac accepts her, the Passwarden register can be marked tested and that line comes out of the Flagged Gaps section.
-
-**Her Exuroth harmonization is deliberately atypical and needs confirming.** The branch profile is Basilithe primary, Fixatio strong secondary, Judicium accessible. Exuroth is not on that list. Unlike the High Line, who are written as *rejecting* certain Wellsprings outright, the Passwarden entry states a typical profile rather than a lock, so an individual harmonization outside it should be legal. The entry treats the anomaly as characterization rather than error, and the whole construct depends on it. If branch profiles are meant as locks, this falls over.
-
-**EU figures unverified, again.** Call cost given as 6% of reserve. No Band-by-Band reserve table exists in FOW and Mu-jin's 850,000,000 at Level 430 remains the only fixed anchor, so no absolute EU number appears anywhere in this entry. Needs a reserve figure set for Rimsang before it can carry one.
-
-**[Grv] Gravity is drafted on the secondary, not the primary.** Its Codex row is Basilithe, Materia, Material Science, and Basilithe is this construct's declared secondary Wellspring, so the assignment is legal as written and no amendment is pitched. Noted only so a future reader does not flag it the way Deadweight's [Abys] was flagged on the Mule's entry before the Codex amendment of 2026-09-12 took it.
-
-**The Accord's dampening guidance is a plot device with no ruling behind it.** Section XI records that the Division's standard field answer to this entry kills the summoner and that the guidance has gone out to companies who were not told. That is either a deliberate Arbitration Division position, an act of institutional carelessness, or something one named officer decided, and the three readings produce very different stories. Isaac's call on which.
-
-**Four abilities rather than three.** The blank template shows three toggles. This entry runs four because the Intake, the Span and the Floor are all non-offensive and the Rings are the only thing in the kit that hurts anybody, and cutting any of the four leaves the construct either toothless or purposeless. If the register wants a hard three-ability ceiling, the Floor folds into the Intake's Target Response with real losses.
-
-**Comparison to the Mule is invited and unwritten.** Two Native forms in the same register, one Consenting and one Sovereign, one accreting and one Refined, one that carries the dead and one that gets people across alive, and both of them costing their summoner a body part they will not get back. Whether Rimsang Halfyear and Kwon Hae-ryu have ever been in a room is an open question and the answer is a good scene.

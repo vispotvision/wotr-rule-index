@@ -6,7 +6,7 @@ title: Give the Beast Your Bones
 
 *Bloodbind Surge in the Guild's hand, the scholars' term. The bonesetters of the Scaur have a shorter word, which they charge extra for.*
 
-## GIVE THE BEAST YOUR BONES (Bloodbind Surge) (Mechanica, Stage VI)
+## GIVE THE BEAST YOUR BONES (Bloodbind Surge) (Strike, Stage VI)
 
 The casebook of Mother Gannet, bonesetter at Cold Ings, is the best account we have, and she wrote it in a fury in red walnut ink. *Came in carrying the gate he had thrown the bull over. Bull dead. Gate his own. Tendon sound, which it has no right to be, all three times. Shins longer by a thumb than in spring. Frost on the old scars in high summer and he growled at my girl. Told him to stop. He paid in advance for next time.* She kept the entries for twenty years, each a little longer than the last, and she measured him every visit with a knotted string, which is how we know what the art costs a body before anything else does.
 
@@ -24,7 +24,7 @@ The surge is driven through the Vorynn Bloodbind, a Trait written into the Essen
 
 What moves is the rate at which Petralon's kinetic thread may meter charge into the Shell. The art has no glyph, because the boundary is a Trait's own metering, torn by hand and never written. The Bloodbind floods faster than the thread can meter, so the limiter is outrun and stays in place, and an outrun limiter is no dial: the surge runs its full ten seconds or not at all. Glory stands below Refraction, so the anchor is blood, the dearest of the four and the pact's own substrate.
 
-Petralon, the Foundation Stone (Vectoria), says masonry is strong in compression and near worthless in tension, so it routes every load into compression and accepts creep as the price. Vohrin (Caloria), one power at two levels, Titan and Wellspring, is taken here as Titan-derived, and its cold expression rides the same spike as the frost and the white eyes. He pulls on his own frame and the air around it, the smallest footprint a working can have, and the residue lands on the body as frost on old scars. Vectoria is favored by structural mass, elevation and brittle or pre-stressed material; loose sediment, free fall and uniform soft ground give the arch no abutment. Caloria fails in thermal equilibrium, saturated cold and oxygen-poor air. Petralon's tensile exposure parts the structure rather than bending it when loaded the one way it does not answer, and Vohrin carries Caloria's failures into the cold half of the surge.
+Petralon, the Foundation Stone (Wild), says masonry is strong in compression and near worthless in tension, so it routes every load into compression and accepts creep as the price. Vohrin, one power at two levels, Titan and Wellspring, is taken here as Titan-derived, and its cold expression rides the same spike as the frost and the white eyes. He pulls on his own frame and the air around it, the smallest footprint a working can have, and the residue lands on the body as frost on old scars. Petralon is favored by structural mass, elevation and brittle or pre-stressed material; loose sediment, free fall and uniform soft ground give the arch no abutment. Vohrin fails in warm air, which costs many times as much, and in thermal equilibrium, which leaves nothing to pump. Petralon's tensile exposure parts the structure rather than bending it when loaded the one way it does not answer, and Vohrin carries its own failures into the cold half of the surge.
 
 The Essence Core holds the Trait and the Aether Shell floods, running up to Rupture (the Shell's sudden failure). Primal Regression, the uncontrolled metamorphosis into a Prime Beast form, is Overgrowth (a Trait acting without its bearer's will), and its risk rises with every extended or repeated use; Shear Break is the Trait turning on its bearer. Developmental Tier Harmonic. Glory's Max Grade is A and Glory has no instability zone, so a surge past A is past the ceiling itself, and each surge past A risks a Crystal Fracture Event at an exponentially rising rate on repetition. That is Primal Regression, derived, and it is why the art plays so badly against a higher Stage held in reserve. The structural fault is the Crystal failing to hold what the boundary allowed: overchannel, backlash and fracture, with Ardency Overchannel risking overflow above D and backlash above C and no Path protecting the frame. Waste of 45 percent, 0.27 to 5.0 GW, leaves as heat at the Shell, so he is loud, warm and easy to find, with a growl under the breath.
 
@@ -34,25 +34,25 @@ The theory is the Debt Position: the Wellspring answers on credit and the debt i
 
 **Cost.** Seventy percent of full reserve per minute, billed by the second, and each use raises the standing risk of turning into the beast for good.
 
-**Counter.** Soft ground, a Fixatio cage on the limb, a fire Caloria burning out the cold half, Harmonics suppression dulling the sharpening, or ten seconds of running away.
+**Counter.** Soft ground, a Fixatio cage on the limb, a fire Wellspring burning out the cold half, Harmonics suppression dulling the sharpening, or ten seconds of running away.
 
 ### Codex line
 
-**Wellspring** · Petralon (primary, Vectoria) · Vohrin (secondary, Caloria), driven through the **Vorynn Bloodbind** Trait, not a Wellspring itself
+**Path** · Body. The Aether Shell floods through a Trait held in the Essence Core, and the frame pays.
 
-**Family** · Vectoria / Caloria
+**Lens** · Petralon (Wild, primary) · Vohrin (a Titan's own power, outside the Sixty, secondary), driven through the Vorynn Bloodbind Trait, which is no Wellspring.
 
-**Physics Domain** · Mechanics (Petralon) · Thermodynamics (Vohrin)
+**Form** · Strike. Ten seconds of blows at triple weight, at contact only.
 
-**Category** · Mechanica
+**Gates** · None past the Path's ordinary gates.
 
-**Skill** · Bodily speaking, driven through a Trait in the Essence Core and fixed at ten seconds once begun
+**Glyph** · None. A physical limit moves, the rate at which the Trait may meter charge into the Shell, but it is torn by hand and never written.
 
-**Stage floor** · VI, Glory
+**Skill** · Bodily speaking, driven through a Trait in the Essence Core and fixed at ten seconds once begun.
 
-**Grade required** · A-Grade
+**Stage floor** · VI, Glory.
 
-**Path gate** · Body
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -66,8 +66,6 @@ The theory is the Debt Position: the Wellspring answers on credit and the debt i
 
 **Grade required** · A-Grade.
 
-**Path gate** · Body.
-
 **Resonant Pair · None.**
 
 ### Origin
@@ -80,9 +78,9 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Limits** · Ten seconds, self only, no reach, no projection, no throttle; nothing in it changes the practitioner's Stage, armor or reach, and triple strength does not outrun a volley.
 
-**Fails against** · Loose or soft ground; a fire Caloria discharge burning out the cold half (a partial; the strength lasts a moment longer); a Fixatio cage on the limb; a blow to the blood anchor; ten seconds with no ground to take; Harmonics suppression dulling the sharpening.
+**Fails against** · Loose or soft ground; a fire discharge burning out the cold half (a partial; the strength lasts a moment longer); a Fixatio cage on the limb; a blow to the blood anchor; ten seconds with no ground to take; Harmonics suppression dulling the sharpening.
 
-**Look up** · The Vectoria and Caloria failure terrain; Petralon in the Wellspring register and the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Trait hazards (Overgrowth, Shear Break); Fixatio in the Counterplay register; the Glory Stage table and the Grade rows.
+**Look up** · The Ground of Petralon and Vohrin on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Petralon in the Wellspring register and the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Trait hazards (Overgrowth, Shear Break); Fixatio in the Counterplay register; the Glory Stage table and the Grade rows.
 
 ## Numbers
 

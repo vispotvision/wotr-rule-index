@@ -6,7 +6,7 @@ title: The Great Unremembering
 
 *Letheveil Memory-Quake to the scholars and on the Guild roll, and that term stays. The Sable Cantors say it in a very small voice.*
 
-## THE GREAT UNREMEMBERING (Letheveil Memory-Quake) (Mnemata, Stage VII)
+## THE GREAT UNREMEMBERING (Letheveil Memory-Quake) (Write, Stage VII)
 
 Forty Sable Cantors in black and silver had the Grand Chapter's great chain up over the valley at Ansby, a forty-voice layered working eleven years in the rehearsing, each voice built on the last, with the whole town on the hillside and the air already going purple. One small burst went out from someone standing near the choir stalls. All forty stopped in the same breath and looked at one another with their mouths open. The Precentor looked at his raised hand. The purple drained out of the sky. Eventually, somebody in the second row said, in a clear and carrying voice, "What were we doing?", the sentence the Chapter has been trying to have struck from the record ever since, and then a child on the hillside repeated it, and that child's grandchildren still do.
 
@@ -24,7 +24,7 @@ The law is the memory-consolidation window. A fresh trace is fragile until prote
 
 The glyphs are Boundary (Root), for a threshold in time, across Mind (Extension). The boundary is where the consolidation threshold sits, inside a 25 m sphere, for one turn, and neither the content of a memory nor its owner enters into it. It is reactive, released against an incoming layered working or a rhythm in progress, so the internal chain is required and it cannot be cast below Refraction. That makes it the best answer yet devised to long chants, and a poor way to start anything.
 
-Aether is pulled across the sphere and released once. Limina is favored by darkness, silence and thin ground and starved by crowds, saturation and active Domains, so a full room costs more than an empty one. The Residue is a legible gap that Anamnesis reads. Letheveil, the Waters of Forgetting (Limina), says compression keeps what carries information and drops the redundant; it tests Resilience Anchoring, so whatever is not load-bearing lets go first. Hypnather, the Sleep Crown (Limina), says a glass keeps relaxing toward order only while quiescent and cannot be forced by ordinary means, and here it widens the window, making a waking mind briefly as porous as a resting one. Letheveil's generation loss leaves a worse copy still felt as memory, which is why the caster never notices what was taken. Hypnather's interrupted relaxation locks a mind worse ordered than before.
+Aether is pulled across the sphere and released once. Letheveil is favored by darkness, silence and ruins and starved by crowds and active Domains, so a full room costs more than an empty one. The Residue is a legible gap that Anamnesis reads. Letheveil, the Waters of Forgetting (Spirit), says compression keeps what carries information and drops the redundant; it tests Resilience Anchoring, so whatever is not load-bearing lets go first. Hypnather, the Sleep Crown (Spirit), says a glass keeps relaxing toward order only while quiescent and cannot be forced by ordinary means, and here it widens the window, making a waking mind briefly as porous as a resting one. Letheveil's generation loss leaves a worse copy still felt as memory, which is why the caster never notices what was taken. Hypnather's interrupted relaxation locks a mind worse ordered than before.
 
 The Essence Core pays in its own substance, worked on directly. Developmental Tier Resonant at Refraction, frequent users carry a residue-heavy Crystal, and repeated self-compression ends in Shear Break. Boundary fault: he stands in the sphere, pays one permanent minor memory each release (Recall Slip), and is confused for the rest of that turn (Temporal Fog), and allies inside are caught. Field fault: inside a Verdantia clarity field regenerative resonance sets traces faster than the boundary unsets them, and the working produces nothing. The bleed of 30 to 40 percent leaves as heat at the Shell, and against an effect worth under an attojoule, that heat is the working's whole energetic footprint.
 
@@ -38,21 +38,21 @@ The Wax-Tablet school reads memory as wax taking impressions and forgetting as a
 
 ### Codex line
 
-**Wellspring** · Letheveil (primary), Hypnather
+**Path** · Spirit. The Essence Core pays in its own substance, worked on directly.
 
-**Family** · Limina (both)
+**Lens** · Letheveil (Spirit, primary) · Hypnather (Spirit, secondary).
 
-**Physics Domain** · Entropy, Void and Mind
+**Form** · Write. A reactive burst that strikes the last seconds from every head in it.
 
-**Category** · Mnemata
+**Gates** · None past the Path's ordinary gates.
 
-**Skill** · Speaking, internalized and reactive, so it cannot be cast below Refraction
+**Glyph** · Boundary across Mind. What a thing is taken to be: what counts as consolidated, inside a 25 m sphere for one turn. Neither a memory's content nor its owner enters into it.
 
-**Stage floor** · Stage VII, Refraction
+**Skill** · Speaking, internalized and reactive, so it cannot be cast below Refraction.
 
-**Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade)
+**Stage floor** · Stage VII, Refraction.
 
-**Path gate** · Spirit Path
+**Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade).
 
 ### FOW line
 
@@ -63,8 +63,6 @@ The Wax-Tablet school reads memory as wax taking impressions and forgetting as a
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 
 **Grade required** · A-Grade
-
-**Path gate** · Spirit Path
 
 **Resonant Pair · None.**
 
@@ -80,7 +78,7 @@ Self-derived by its author, from the concept of a pulse that shakes loose recent
 
 **Fails against** · A physical anchor or agreed word fixed beforehand (Lock); a sharp pain; constructs and automata with no resting mind; a crowded, saturated room; a Verdantia clarity field; a cheap layered working, which draws it.
 
-**Look up** · The Counterplay register for Lock; the Limina entries for Letheveil and Hypnather Failures; Anamnesis; Shear Break; Verdantia's entry; the Refraction Stage table.
+**Look up** · The Counterplay register for Lock; the entries for Letheveil and Hypnather Failures; Anamnesis; Shear Break; Verdantia's entry; the Refraction Stage table.
 
 ## Numbers
 

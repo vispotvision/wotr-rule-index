@@ -8,7 +8,7 @@ Averil Madder, precentor of the Cantic Order, left instructions that she be buri
 
 What Wenna Corbel did is called Interference Lock on a Guild roll, and in the street it is called stopping a spell's mouth. What the tenor did is called Echo Fracture, and every Harmonist alive lives one wrong note away from it.
 
-### THE HARMONIC ARTS (school discipline; Harmonia)
+### THE HARMONIC ARTS (school discipline; Spirit and Fate; Sing, Read)
 They can hear what is wrong with you, and the same ear can make it worse.
 
 SOUL RESONANT LISTENING! Head tilted, eyes half shut, and from across the yard they tell you your Stage, your Traits and the crack you have not noticed yet.  
@@ -28,16 +28,17 @@ CONVERGENCE FORECASTING! Weeks out, they can tell you who is walking toward whom
 >
 > The Harmonic Arts are the discipline of learning to hear all of this, and then learning what to do with what you hear.
 
-| **Primary Category** | Harmonia (Spirit ↔ Attraction) |
+| **Path** | Spirit and Fate, the two homes of Sing: the listening and the first two branches mostly on the Core, the far reading of bonds on the Layer |
 |---|---|
+| **Lens** | Any, since every Wellspring sings in its own dialect, and a Harmonist tunes to whatever they mean to hear |
+| **Form** | Sing, with Read for everything that only listens. Older books file it under Harmonia, with Concordia at the apex |
+| **Gates** | Stage V for rudimentary perception, then the Stage gates under each branch below |
 | **Applied Branches** | Anima Harmonics (Soul Reading) · Thaumic Harmonics (Spell Reading) · Resonant Divination (Fate Reading) |
-| **Secondary Categories** | Aetherica (measurement substrate) · Crystalia (Soul Crystal interface) · Mnemata (memory-echo layer) |
-| **Apex Expression** | Concordia (large-scale harmonic alignment) |
 | **Divine Patron** | Selhar, the Voice of Harmony |
 
 ---
 
-## Why Harmonia Sits Between Spirit and Attraction
+## Why Harmonia Sits Between Spirit and Fate
 
 Tone originates in the Essence Core (Spirit, what the soul means) but only becomes Harmonia once it travels outward to affect other Crystals (Attraction, what the soul reaches). **A thought that stays internal is not Harmonia. A thought that becomes vibration and crosses the gap between two souls is Harmonia**, regardless of whether the transmission is deliberate. Attraction here means the Attraction Layer, which makes the art common ground between the Spirit and Fate Paths, with the listening mostly on the first and the far reading on the second.
 > What makes Harmonia dangerous is that **listening and acting use the same channel.** The same sensitivity that lets a practitioner perceive a Crystal's distress frequency also lets them amplify it, dampen it, redirect it, or weaponize it against the emitting soul. The same tonal analysis that reveals a spell's structural flaws also reveals how to exploit them to collapse the working mid-cast. The same causal perception that traces Attraction Force currents also permits interference with those currents, on the small scale and at the price the third branch below makes plain.
@@ -56,7 +57,7 @@ Everyone knows the common form of this as sensing, a famous shared art with a na
 
 This requires training the Shell's Gate Cycling into a receptive mode: resonance gates that normally open outward must learn to open inward. This is counterintuitive for most practitioners, whose training emphasizes projection. The Harmonic Arts demand the opposite: **a Shell so quiet, so carefully equilibrated, that it can register the tonal output of presences around it without contaminating the received signal with its own broadcast.**
 
-*A Harmonist with loud Shell output hears nothing but themselves. A Harmonist with disciplined Equilibrium hears everything.*
+*A Harmonist with loud Shell output hears nothing but themselves. A Harmonist with a disciplined, quiet Shell hears everything.*
 
 | Depth | What it registers |
 |---|---|
@@ -197,7 +198,7 @@ Nobody picks a school for its theory. You pick it because your aunt sang with th
 
 ## Historical Importance
 
-The roots reach to the **Second Epoch**, when Parunic monks decoding the tonal structures of glyph chants discovered that spoken phonemes produced measurable vibrational effects. `Se` (Fire) vibrated at a frequency that caused ambient Aether to warm. `Sa` (Silence) dampened local vibration into stillness. `Ae` (Sound/Era) amplified whatever it was chained with. They meant all of it literally. **The monks had discovered that Parunic syntax was, at its most fundamental level, a harmonic language: law spoken through tone.**
+The roots reach to the **Second Epoch**, when Parunic monks decoding the tonal structures of glyph chants discovered that spoken phonemes produced measurable vibrational effects. `Se` (Fire) vibrated at a frequency that caused ambient Aether to warm. `Sa` (Silence) dampened local vibration into stillness. `Ae` (Sound/Era) amplified whatever it was chained with. They meant all of it literally. **The monks believed they had discovered that Parunic syntax was, at its most fundamental level, a harmonic language: law spoken through tone.** They had found half of it. A spoken sentence of Parun has a sound, and a chant is another animal, setting its condition in resonance, with its words carrying a sentence only when Glyphica is present, as [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|the Master Glyph Index]] has it.
 
 Formalization came during the **Era of Grace**, when elven Resonants systematized the perceptual training required for consistent Resonant Perception. The three branches crystallized during this period: Anima Harmonics from healing traditions that recognized Crystal distortion as a tonal phenomenon, Thaumic Harmonics from alchemical practice needing reliable Draft verification, and Resonant Divination from diplomatic and intelligence traditions that discovered Attraction Force currents could be read through their signatures.
 

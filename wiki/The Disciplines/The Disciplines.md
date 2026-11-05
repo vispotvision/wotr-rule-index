@@ -10,65 +10,40 @@ The four great schools have marched in a fixed order at the Founders' Fair in Qu
 
 **Everyone's magic is one power, and the quarrel is over which way it runs: out of you, in through you, or through you because something older said so.**
 
-> The Families say what a working pulls on. The Wellsprings are the governing ideas that transform how a soul uses that Aether, each one an alchemical and a spiritual transformation with a law of its own. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul**, and they differ from one another less in power than in the direction the force travels.
+> The Wellspring says which governing idea a working runs on, the idea that transforms how a soul uses Aether (mana), each one an alchemical and a spiritual transformation with a law of its own. The Path says which layer of the Crystal it leaves by. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul**, and they differ from one another less in power than in the Form the work takes.
 >
-> *"The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline."*
+> *"The lens is the WHAT. The Form is the HOW. Where they meet, on somebody's Path, you get the named discipline."*
 
 ---
 
-## The Direction of Travel
+## The Quarrel Over Direction
 
-Most magic in the Continuum is **projective**. A caster pushes Essence outward through the Aether Shell. An alchemist channels Wellspring law into a crucible. A Runesmith inscribes Parunic syntax into stone. A summoner fabricates constructs from donated Essence Core fragments. In each case the practitioner is the origin, and the world receives what they produce.
-
-The disciplines below do not all agree on that arrangement.
-```mermaid
-flowchart LR
-    subgraph P["PROJECTIVE: the practitioner is the origin"]
-        direction TB
-        R["SPIRIT RUNE ARTS<br>practitioner → substrate → permanence<br>a sentence written rather than spoken"]
-        S["SPIRIT SUMMONING ARTS<br>practitioner → externalized presence<br>a fragment of the soul given autonomy"]
-    end
-    subgraph RC["RECEPTIVE: the world is the origin"]
-        direction TB
-        SG["SAGE ARTS<br>terrain → practitioner → direction<br>the land is the caster"]
-        H["HARMONIC ARTS<br>world → practitioner → corrected tone<br>listening and acting share one channel"]
-    end
-    subgraph F["PRIOR TO BOTH"]
-        HK["Hataraki<br>the labor by which existence<br>is maintained, classified and corrected"]
-    end
-    HK -.->|"authorizes"| P
-    HK -.->|"authorizes"| RC
-```
-
-Prior does not mean better. The Works were there first, and a Moto will tell you so at length, but no road through the world is simply superior to another, and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Body, Spirit or Fate Path]] fighter can each kill either of the others on the right day. A discipline is not a Path either. Any Path can take up any discipline, and it will lean on whichever layer of the Crystal that Path has made its home, more or less comfortably.
+Every school will tell you which way its force runs, and the fair at Quillon Cross was largely about that. The cutters and the summoners say the practitioner is the origin and the world receives what they produce. The Sages and the Harmonists say the world is the origin and they are only the channel. The Moto say their Works were there before either and that everyone else is performing a labor already assigned. It is a fine thing to shout across a road, and it settles nothing, since no road through the world is simply superior to another and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Body, Spirit or Fate Path]] fighter can each kill either of the others on the right day.
 
 ---
 
-## The Taxonomic Categories
+## The Five Lines
 
-Every named discipline in the Continuum decomposes into these categories. A discipline is rarely one of them. It is usually a braid of three or four, with an apex integration at the top that only the highest Temperance can hold together.
-> **The table below is the working summary. The full taxonomy (twenty-six categories with alignment reasoning, failure modes and worked examples) lives here:**
->
-> [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy]]
->
-> **The taxonomy page is the authority. This table is a pointer.**
->
-> *The tag Attraction names the Attraction Layer and the forces it runs on. Those categories are home ground to the Fate Path.*
+What does settle it is the same five lines for everyone. Every art states a **Path** (the layer it leans on, which picks the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|ladder]] it reads), a **Lens** (its Wellspring and that Wellspring's kind), a **Form** (what the hands do) and its **Gates**, and the card of the person holding it adds a **Source** (Lived, Taught, Inherited, Bought or Blessed). Any Path can take up any Form, and each Form has a home that is a qualifier and never a lock. A discipline is rarely one Form. It is usually a braid of three or four, with an apex at the top that only the highest Temperance can hold together.
 
-| Category | Alignment | What it governs |
+> **The table below is the working summary. The full account, with what each Form was called in older books and a Guild naming table, lives here:**
+>
+> [[The Magic System/Reference and Craft/Forms|Forms]]
+
+| Form | Home | What it governs |
 |---|---|---|
-| **Glyphica** | Spirit | The Parun-based language of law by which the Continuum recognizes and authorizes transformation. Spoken, gestured, inscribed, or internalized. |
-| **Harmonia** | Spirit ↔ Attraction | Tone, vibration, and resonant frequency. A thought that stays internal is not Harmonia; a thought that becomes vibration and crosses the gap between two souls is. |
-| **Vocatia** | Attraction | Invocation by recognition and correspondence, with no domination in it. The entity must answer because it recognizes the caller as lawfully compatible. |
-| **Animatria** | Spirit | Eidolons, echo-forms, and psionic constructs fabricated from the practitioner's own Essence Core. |
-| **Synergia** | Triadic | Emergent resonance from multiple souls, Wellsprings, or Domains interacting. Shared occupancy of the same Soul Plane region. |
-| **Mnemata** | Spirit ↔ Attraction | Dream records, ancestral fields, temporal imprints, and historical echo-law. Memory stored as residual frequency rather than as narrative. |
-| **Crystalia** | Body ↔ Spirit | The engineering, forging, and refinement of Soul Crystals themselves. |
-| **Ritus** | Spirit | Ritual activation. Ceremonial, communal, and slow, and the ancestor of every field-capable discipline that later internalized what the circle used to externalize. |
-| **Domain Weaving** | Attraction | Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space. |
-| **Arts** | Body | Spirit Forge techniques, Binding Arts, and Resonant Forms. The physical and material groundwork through which the other categories are given a body. |
-| **Aetherica** | Triadic Convergence | The measurement substrate. Frequency values, interaction patterns, standardized tonal profiles. |
-| **Concordia** | Spirit ↔ Attraction **Apex** | Alignment of multiple Aether bodies, Wellsprings, and Domains into a single coherent field. Synergia and Harmonia scaled up and made durable rather than momentary. |
+| **Strike** | Body | Power put into a blow, a block or a body in motion. The physical groundwork through which the others are given a body. |
+| **Shape** | Body | Matter, force and heat told what to do, by hand or at reach. |
+| **Read** | Spirit | Finding out what is there, what it was and where it leans. Dream records, ancestral fields, temporal imprints, outcome weight. |
+| **Write** | Spirit | The Parun-based language of law by which the Continuum recognizes and authorizes transformation, set into something that outlasts the saying. |
+| **Rite** | Spirit | Ritual activation. Ceremonial, communal, and slow, and the ancestor of every field-capable discipline that later internalized what the circle used to externalize. |
+| **Make** | Spirit | Eidolons, echo-forms, forged vessels and the refinement of Soul Crystals themselves. |
+| **Sing** | Spirit and Fate | Tone, vibration, and resonant frequency. A thought that stays internal is not Harmonia; a thought that becomes vibration and crosses the gap between two souls is. Many souls together, made durable, is Concordia. |
+| **Brew** | Body and Spirit | A working stabilized into a substance. |
+| **Call** | Fate | Invocation by recognition and correspondence, with no domination in it. The entity must answer because it recognizes the caller as lawfully compatible. |
+| **Bind** | Fate | A thing held against its own nature, or a person holding themselves. |
+| **Claim** | Fate | Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space, or that none can be. |
+| **Pull** | Fate | A thread taken hold of, and what a result depends on moved. |
 
 ---
 
@@ -76,12 +51,14 @@ Every named discipline in the Continuum decomposes into these categories. A disc
 
 Every structured working, whether spoken once or carved into granite for a thousand years, must satisfy the same four roles. They are the grammar the Continuum reads.
 
-| Role | What it tells the Continuum | What its absence produces |
+| Role | What it tells the Continuum | What a bad one does once the sentence has fired |
 |---|---|---|
-| **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. Requires genuine harmonization; the Continuum reads the Attraction Layer at the moment of casting. | Mechanica by definition. Coerced transformation without lawful Wellspring participation. The Continuum treats it as debt. |
-| **Boundary** | Where and how long the effect is permitted to operate. | A transformation without limits continues until it runs out of things to consume. |
+| **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. Requires genuine harmonization; the Continuum reads the Attraction Layer at the moment of casting. | Forged or coerced, Mechanica by definition. Coerced transformation without lawful Wellspring participation. The Continuum treats it as debt. |
+| **Boundary** | Where and how long the effect is permitted to operate. | A transformation with a broken limit continues as far as the break lets it, or until it runs out of things to consume. |
 | **Direction** | Vector and focus. The editorial layer of the Parunic sentence. | Draft Corruption. Law-fragments, Wellspring processes started but not completed, which keep trying to finish themselves in whatever they contact. |
 | **Sealing** | That the sentence is finished, and closed against contamination and drift. Leans heavily on Fixatio chains. | An open wound in the local Aether field. The Continuum attempts to resolve the open syntax, sometimes by completing it in ways nobody intended. |
+
+A role left wholly empty does nothing: no seal, no working, no cost. Only a sentence that has fired can hurt anyone, as [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|the Master Glyph Index]] sets out at length, with a worked example.
 
 ---
 
@@ -95,9 +72,9 @@ Every act of structured magic passes through five steps, whatever discipline is 
 | **2 · Pattern** (Glyphica) | — | The Crystal selects or improvises a Parunic Draft. All four Glyph Roles must be addressed, even if compressed into instinctive shorthand at high Temperance. |
 | **3 · Essence Donation** | Soul Plane | The Core releases a shaped fragment of itself into the Shell. The Wellspring that shaped it becomes visible here. |
 | **4 · Aether Formation** | Physical Plane | The Shell conducts the fragment outward and gives it form. Aether Class determines how clean this step is. |
-| **5 · Attraction Anchoring** | Plane of Fate | The Attraction Layer claims the working as a recognized presence. This is the step that grants **duration**. Without it, the form dissolves the instant concentration lapses. |
+| **5 · Attraction Anchoring** | Plane of Fate | The Attraction Layer claims the working as a recognized presence. This is the step that holds it in the world, the Seal setting the term and the substrate capping it. Without it, the form dissolves the instant concentration lapses. It spends the soul's own share and pulls no thread. |
 
-Every practitioner runs all five, and every soul has all three layers to run them through. A Path decides which step the Crystal leans on. Step three is why nobody who has been there calls the reserve a fuel: Essence is the soul's own substance, and what the Core donates is a piece of the person doing it.
+Every practitioner runs all five, and every soul has all three layers to run them through. A Path decides which step the Crystal leans on, and an art's Path line decides which ladder reads it. Step three is why nobody who has been there calls the reserve a fuel: Essence is the soul's own substance, and what the Core donates is a piece of the person doing it.
 
 ---
 
@@ -115,7 +92,7 @@ The documents in this section do not share a voice, and reading them correctly m
 
 ## What a Discipline Is on the Sheet
 
-No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own. Beside it run the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|three ladders]], Aether Class for influence on the physical world, Essence Class for influence on the spiritual and Thread Class for how much of Fate a soul can hold, each setting the efficiency of workings through its own layer.
+No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own. Beside it run the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|three ladders]], Aether Class for influence on the physical world, Essence Class for influence on the spiritual and Thread Class for how much of Fate a soul can hold, each setting the efficiency of workings through its own layer, which is why every art on this shelf states its Path.
 
 A discipline is what all of that looks like from across the road, and a school is where you go to get it. Money will buy a Stage, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. That is why a school can still charge what it charges, and why the four at the Founders' Fair are still hitting each other.
 
@@ -123,9 +100,9 @@ A discipline is what all of that looks like from across the road, and a school i
 
 ## Entries
 
-Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized. It stands apart from the entries after it because it is a real **Fate Art**: control of Attraction Force and Obsession Force and of the probabilities things turn on. Fate Arts are rare, mostly by bloodline and considered incredibly overpowered, and Hataraki can take back or remove a blessing. They are also the hardest thing anyone in this section does: each Work is a distinct inherited grip on one function, because nobody has ever taken hold of Fate bare.
+Read **Hataraki** first, because the Works are older than anything else on this shelf, and a Moto will tell you that everything else in the Continuum is a way of performing a labor they already authorized. It stands apart from the entries after it because it is a real **Fate Art**: control of Attraction Force and Obsession Force and of the probabilities things turn on. Fate Arts are rare, mostly by bloodline and considered incredibly overpowered, and Hataraki can take back or remove a blessing. They are also the hardest thing anyone in this section does: each Work is a distinct inherited grip on one function, because nobody has ever taken hold of Fate bare.
 
-The next four entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; Matla is the Instrument of the Paths, which Aegor wrote and only the Zettari can carry; and the Open Crucible belongs to one man and one ledger.
+The next four entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The five that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; Matla is the Instrument of the Paths, which Aegor wrote and only the Zettari can carry; Null-Light is Ashura's instrument, the law *to be known is to be held*, which only the Yukari carry; and the Open Crucible belongs to one man and one ledger. The three instruments stand level, one at the far end of each road, as [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|the Archaic Bloodlines]] sets out.
 
 *This page walks the arts in the order they are best met. The same pages are filed on two shelves, [[The Disciplines/Named Arts/Named Arts|Named Arts]] (what one person or one line derived and named) and [[The Disciplines/Schools and Bloodline Arts/Schools and Bloodline Arts|Schools and Bloodline Arts]] (what is taught and what runs in the blood).*
 
@@ -139,13 +116,14 @@ The next four entries are the general disciplines, open in principle to any prac
 - [[The Disciplines/Named Arts/Kami no Kobushi — The God Fist]]
 - [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye]]
 - [[The Disciplines/Named Arts/Matla]]
+- [[The Disciplines/Schools and Bloodline Arts/Null-Light]]
 - [[The Disciplines/Named Arts/The Open Crucible — Kwon Mu-jin's Book of Summons]]
 
 ---
 
 ## The Practitioner Disciplines
 
-These are the named arts a practitioner *trains*, as opposed to the labors the Continuum authorizes. They are cataloged by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of origin rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it by what first happened to it.**
+These are the named arts a practitioner *trains*, as opposed to the inherited grips above. They are cataloged by Path, Lens, Form and Gates rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of origin rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it by what first happened to it.**
 
 **Moetana**, **Solution**, and **Asami** are *states* rather than disciplines in the strict sense: what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**

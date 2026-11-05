@@ -316,7 +316,7 @@ The case I saw myself was a body poured in haste to beat the ninth day, and seal
 
 **Marker.** The ground. Mechanica residue does not thin. Carry a coil and a fork together and they disagree at every stand, and the Accord's text on Mechanica says the discrepancy is the size of what is being taken.
 
-**Resolution.** The practitioner can be treated, by communion with one of three currents from three Families: Ascensio of Vectoria, Fixatio of Materia, Benediction of Vitalia. This takes months. The ground never heals. Of the seven it is the one whose harm does not stay in the room: the ground it opens runs on across a region. The one case I have seen at scale is under review, and I leave it there.
+**Resolution.** The practitioner can be treated, by communion with one of three currents of three kinds: Ascensio, which is Wild; Fixatio, which is Medium; Benediction, which is Fate. This takes months. The ground never heals. Of the seven it is the one whose harm does not stay in the room: the ground it opens runs on across a region. The one case I have seen at scale is under review, and I leave it there.
 
 **Driver.** Conjunction Perverted, the Corruption of Instrumental Union. It joins a dead donor's law to a living working because the joining serves, and the donor, being dead, is not asked.
 

@@ -16,7 +16,9 @@ Mark what the creature did. It listened, learned the tune and kept it. A Spirit 
 
 > *Elessae*, the Moon's First Hoof, in High Parunic. *Thal'wyn*, Horned Dawn, in Old Sylvaar.
 
-**Spirit Beast · T4, High Threat · Vitalia, Benediction, with a minor Somnalis affinity via Nysera · native to Edenis**
+**Spirit Beast · T4, High Threat · Benediction, with a minor Somnalis affinity via Nysera · native to Edenis**
+
+**Leans on** · the Layer, by Benediction and Somnalis, both Fate. *Body:* a sound fighter gives its blessings nothing to work on, and whatever it wears can be killed if it can be caught, which is the sacrilege the valleys remember. *Spirit:* its calming and its Horn of Binding are pulled by a soul and show on the Core before they land. *Fate:* a contest over who owes whom, and it has been owed for longer.
 
 Spirit-born from Benediction's resonance during the Harmonial Age. **Said to be the first beings Florwyn dreamed into being when she envisioned peace between mortal and spirit realms.** Rare herds persist in secluded Material World forests where Benediction sites surface.
 
@@ -38,7 +40,9 @@ They travel in loose herds of four to six under an elder mare called a **Moonkee
 
 > *Gryphael*, Sky-Claw, in High Parunic. *Talaruk*, Lion of the Wind, in Old Iampu.
 
-**Spirit Beast · T5, Extreme Threat · Fulguria, Cymorath, secondary Transference resonance when bonded · native to Draconis and Caelum**
+**Spirit Beast · T5, Extreme Threat · Cymorath, secondary Transference resonance when bonded · native to Draconis and Caelum**
+
+**Leans on** · the Shell, by Cymorath, Wild. *Body:* drag it to the ground and keep it there. *Spirit:* past the feathers to a mind that holds one idea, the nest. *Fate:* a dive depends on the wind, the ledge and the nest staying put.
 
 Shaped in the early Harmonial Age where Transference and Cymorath Aethers intertwined. **Many hold that Omnis himself molded the first griffons as aerial guardians of the floating citadels.**
 
@@ -58,7 +62,9 @@ At the **Battle of Skychain Pass**, twelve storm griffons routed a Crevice-born 
 
 > *Voh'thir*, Storm's Howl, in Old Sylvaar. **The Thunder Beast** in Material World folklore.
 
-**Spirit Beast, Elemental Predator · T5, Extreme Threat · Fulguria, Cymorath, with a minor Orrenthal strain · Draconis and Caelum peaks**
+**Spirit Beast, Elemental Predator · T5, Extreme Threat · Cymorath, with a minor Orrenthal strain · Draconis and Caelum peaks**
+
+**Leans on** · the Shell, by Cymorath, Wild. *Body:* a low roof and wet footing. *Spirit:* the Static Cloak stops workings on the skin and has no say about the Core behind it. *Fate:* the Lightning Leap needs its trail, and a trail needs dry air.
 
 Born from the fusion of Cymorath and Orrenthal Aethers. **Legend says they were first formed by Nysera's breath during a cataclysmic lightning storm that tore through the ancient forests of Edenis.**
 
@@ -78,7 +84,9 @@ During the **Storm of Wailing Peaks** a Raiju pack destroyed a Concord scouting 
 
 > *Skrial*, Storm Wing, in Old Parunic. *Tal'kira*, Screech of the Hunt, in Outer World dialect.
 
-**Spirit Beast, Aerial Predator · T4, High Threat · Fulguria, Cymorath, with Luminalis sharpening sense and speed · Caelum and Draconis**
+**Spirit Beast, Aerial Predator · T4, High Threat · Cymorath, with Luminalis sharpening sense and speed · Caelum and Draconis**
+
+**Leans on** · the Shell, by Cymorath, Wild, with Luminalis in the eye. *Body:* nets and a tight formation. *Spirit:* a flock's cunning is shallow and easily read. *Fate:* an ambush depends on the caravan being where it was said to be.
 
 Spirit-born from the raw winds, shaped by the violent intersection of Cymorath and Luminalis Aethers. **Long held as harbingers of storm and misfortune.**
 
@@ -100,7 +108,9 @@ The **Screeching of the Wind Pass** records a flock's ambush that cost several t
 
 > *M'thak*, Mindclaw, in Innerworld dialects. **The Thoughtshard Primates** among arcane scholars.
 
-**Spirit-Hybrid Beast, Psychic Primate · T4, High Threat · Limina, Oneirion and Eidolyn · the Innerworld's central jungles**
+**Spirit-Hybrid Beast, Psychic Primate · T4, High Threat · Oneirion and Eidolyn · the Innerworld's central jungles**
+
+**Leans on** · the Core, by Oneirion, Spirit, with Eidolyn building the rest. *Body:* a spear does not care what you dream, and an ape that is reached goes down like an ape. *Spirit:* a straight contest of minds against a troop. *Fate:* the troop survives by being right about you, and one spoiled read will do.
 
 **Mortal-born primates whose Essence became deeply intertwined with Oneirion and Eidolyn Aethers.** The fusion granted psychic capability, elevated intelligence, and subtle manipulation of nearby minds. They evolved where Wellspring Aether lies thick beneath the canopy.
 
@@ -120,7 +130,9 @@ Vulnerable to Essence-dampening wards and counter-psychic magic. **Physically we
 
 > *Lioraen*, Forest Spirits, in the Sylvaar tongues. **Verdant Whisperers** among frontier woodfolk.
 
-**Spirit-Beast, Nature Guardian · T3, Moderate Threat · Vitalia, Verdantia, with Anamnesis in the oldest groves · the deep forests of the Innerworld and Material World**
+**Spirit-Beast, Nature Guardian · T3, Moderate Threat · Verdantia, with Anamnesis in the oldest groves · the deep forests of the Innerworld and Material World**
+
+**Leans on** · the Shell, by Verdantia, Wild, and the grove's memory by Anamnesis in the oldest stands. *Body:* an axe, and the war that follows. *Spirit:* past the bark to what the grove remembers, which is also where a bargain begins. *Fate:* a grove depends on its water and on what people have promised it.
 
 Spirits born from Verdantia's Aether intertwined with ancient forest Essence. **They embody the living soul of the oldest trees**, and their existence is tied to sacred groves: **their power ebbs and flows with the health of their forest.**
 
@@ -140,7 +152,9 @@ The **Siege of Elderbark Grove** records Dryads defending their sanctuary agains
 
 > *Zhal'rei*, the Enlightened One, in Old Parunic. **The Oracle Beast** among sages.
 
-**Spirit-Beast, Guardian of Knowledge · T4, High Threat · Limina, Anamnesis and Oneirion, with Fulguria's Judicium for the clear reading · Innerworld sanctuaries**
+**Spirit-Beast, Guardian of Knowledge · T4, High Threat · Anamnesis and Oneirion, with Judicium for the clear reading · Innerworld sanctuaries**
+
+**Leans on** · the Core, by Anamnesis, Medium, and Oneirion, Spirit, with Judicium for the clear reading. *Body:* it is physically fragile and will leave long before you arrive. *Spirit:* it reads you first and better. *Fate:* it knows what is, and what has a way of happening is a different question. Nobody who has met one recommends any of this.
 
 > Emerged during the Harmonial Age **as a guide for mortals**, gifted with profound wisdom and the perception of hidden truth. It roams sacred groves and ancient libraries, aiding seekers of knowledge **or guarding esoteric Wellspring sites.**
 >
@@ -160,7 +174,9 @@ Calm, enigmatic, benevolent. **A patient guardian, offering cryptic guidance and
 
 > *Liora*, Song Weaver, in Old Parunic. **The Sea's Temptress** among sailors.
 
-**Spirit-Beast, Enchanting Predator · T4, High Threat · Fluxia, Somnalis and Thaloré, with Transference amplifying the enchantment · coastal waters, mist-shrouded islands, underwater grottoes**
+**Spirit-Beast, Enchanting Predator · T4, High Threat · Somnalis and Thaloré, with Transference amplifying the enchantment · coastal waters, mist-shrouded islands, underwater grottoes**
+
+**Leans on** · the Layer, by Somnalis and Transference, both Fate, with Thaloré giving the song its weight. *Body:* wax, rope and a steady hand on the oar, and then it is an animal on a rock. *Spirit:* a Listener hears the hand on the tune before the crew goes over the side. *Fate:* cut what the song has tied, at about what it cost to tie.
 
 Ethereal beings born from the fusion of Thaloré and Somnalis Aethers, embodying **the hypnotic power of the sea and the allure of dreams.** *Legend says they arise from the restless souls of lost sailors and oceanic spirits bound by ancient magic.*
 
@@ -180,7 +196,9 @@ Vulnerable to sound-dampening wards and Essence disruptors, **markedly less effe
 
 > *Mokuri*, Trickster Spirit, in Old Parunic. **The Forest Jester** among frontier folk.
 
-**Spirit-Beast, Trickster Shapeshifter · T2, Minor Threat · Limina, Eidolyn and Oneirion · dense forests, mystical groves, hidden Wellspring sites**
+**Spirit-Beast, Trickster Shapeshifter · T2, Minor Threat · Eidolyn and Oneirion · dense forests, mystical groves, hidden Wellspring sites**
+
+**Leans on** · the Shell by Eidolyn, Wild, and the Core by Oneirion, Spirit. *Body:* pin the shape and it stops being clever. *Spirit:* a Read sees the leaf under the coin. *Fate:* a trick depends on being believed, and a sound purse does not believe it.
 
 Born from the blend of Eidolyn and Oneirion Aethers, embodying **playful cunning and shape-shifting magic.** Rooted in ancient forest lore, they delight in mischief, illusion, and testing the wits of travelers and sorcerers alike. **Their true forms are rare to witness, as they prefer ever-changing guises.**
 
@@ -198,7 +216,9 @@ Vulnerable to Essence detection and truth-binding magic. **Their physical forms 
 
 > *Aeloria*, Sky Wanderer, in Old Parunic. **The Starhoof** among frontier riders.
 
-**Spirit-Beast, Celestial Mount · T4, High Threat · Fulguria, Aurevane, with Vitalia's Benediction · high peaks, sacred groves, celestial realms**
+**Spirit-Beast, Celestial Mount · T4, High Threat · Aurevane, with Benediction · high peaks, sacred groves, celestial realms**
+
+**Leans on** · Medium, by Aurevane, leaning toward the Shell in flight and with Benediction's Fate on anyone it has chosen. *Body:* the wing and the tether. *Spirit:* it answers to being asked, and that is the road people mean when they tell the story. *Fate:* a chosen rider's bond is the thing that can be pulled, and whoever pulls it will be hunted.
 
 Noble celestial horses born from the purest Aurevane and Benediction Aethers. **Legend places their emergence in the Harmonial Age as messengers and guardians of the divine realms**, embodying freedom, purity and swift flight.
 
@@ -218,7 +238,9 @@ Gleaming white coats, large feathered wings shimmering with radiant light, eyes 
 
 > *Ignara*, Flameborn, in Old Parunic. **The Eternal Ember** in the Innerworld.
 
-**Spirit-Beast, Elemental Flame · T7, Realm Hazard · Caloria, Pyreveil, with Vitalia's Rebirthine · volcanic peaks, sacred flame groves, radiant Wellspring sites**
+**Spirit-Beast, Elemental Flame · T7, Realm Hazard · Pyreveil, with Rebirthine · volcanic peaks, sacred flame groves, radiant Wellspring sites**
+
+**Leans on** · the Shell, by Pyreveil and Rebirthine, both Wild. *Body:* a hitter can kill it, once, at great cost, and then there are the ashes. *Spirit:* in the ash there is nothing but the Core, the one hour a Spirit hand has it alone. *Fate:* the rebirth depends on the sanctuary it is bound to, and sanctuaries can be made to fail.
 
 Born from the purest Pyreveil and Rebirthine Aethers, **embodying cycles of destruction and renewal.** Said to arise from the ashes of its own death. **Revered as a divine omen and protector of sacred Wellspring sites.**
 

@@ -2,7 +2,7 @@
 title: Saba no Rosa
 ---
 
-# SABA NO ROSA (the Reckoning of Roses) (Ritus, held by attention)
+# SABA NO ROSA (the Reckoning of Roses) (Call, held by attention)
 
 *Called aloud as Saba no Rosa. In Common the name comes out as the Reckoning of Roses.*
 
@@ -23,7 +23,7 @@ So a person is a structure and their history holds them up. Each rose is a depos
 
 Finding the load-bearing member is the hard part. Raising a field over the whole ledger is the survey, slow and paid rose by rose, and a sight that names the right deposit needs only one rose. Once the right member goes, the fall runs at the speed of redistribution and completes in seconds. The joules sit in the structure as potential for as long as it has stood; nothing is delivered or broken, a member is unloaded and redistribution does the rest. Nothing touches the target, so no blade and no wound. Claims simply stop being honored, then the present coordinate standing on them fails, fast. The past stays true and intact, and what is diluted is the target's present claim on it, so this is no erasure. And the practitioner pays, so it is no theft either.
 
-Six Wellsprings. Anamnesis, the Wellspring of Remembrance (Limina): objects store their history in readable form, and it reads the ledger as a physical record. Fractura, the Breaking Point (Vectoria): everything fails at a pre-existing flaw, and it finds the seams in the target's history and widens them. Contrition, the Broken Flame (Vitalia): a genuine failure survived leaves a record, and it surfaces the unpaid weight, and only what was already unpaid. Mortalis, the Black Gate (Vitalia): a body is held from equilibrium by expenditure, and it governs the threshold across which answering is withdrawn, one direction at a time. Monolithion, the Enduring Monument (Materia): a structure without internal boundaries resists slow deformation, and it ratifies the withdrawal as a standing fact. Oblation, the Offering Flame (Fluxia): pressure traded for velocity, the sum conserved, and it pays the working from the practitioner's own reserve. The glyph is Measure (Urion) for the survey, laid under Return (Auren) for the withdrawal: what was lent is called in. The boundary is whether a past deposit must answer to its present holder, moved deposit by deposit across a field, and whether it happened or was theirs does not move at all. The Attraction Layer works throughout, since holdings, bonds, paid debts and kept oaths are the Plane-of-Fate record; the Essence Core pays through Oblation; the Shell does nothing else. Developmental Tier at the floor is Resonant. In theory this is the Debt Position: the Wellspring answers on credit and the reckoning is settled out of sight, and a discipline of unpaid debt, paid from its own reserve and punished by its own ledger, is that theory with a name.
+Six Wellsprings. Anamnesis, the Wellspring of Remembrance (Medium): objects store their history in readable form, and it reads the ledger as a physical record. Fractura, the Breaking Point (Wild): everything fails at a pre-existing flaw, and it finds the seams in the target's history and widens them. Contrition, the Broken Flame (Spirit): a genuine failure survived leaves a record, and it surfaces the unpaid weight, and only what was already unpaid. Mortalis, the Black Gate (Medium): a body is held from equilibrium by expenditure, and it governs the threshold across which answering is withdrawn, one direction at a time. Monolithion, the Enduring Monument (Wild): a structure without internal boundaries resists slow deformation, and it ratifies the withdrawal as a standing fact. Oblation, the Offering Flame (Fate): pressure traded for velocity, the sum conserved, and it pays the working from the practitioner's own reserve. The glyph is Measure (Urion) for the survey, laid under Return (Auren) for the withdrawal: what was lent is called in. The boundary is whether a past deposit must answer to its present holder, moved deposit by deposit across a field, and whether it happened or was theirs does not move at all. The Attraction Layer works throughout, since holdings, bonds, paid debts and kept oaths are the Plane-of-Fate record; the Essence Core pays through Oblation; the Shell does nothing else. Developmental Tier at the floor is Resonant. In theory this is the Debt Position: the Wellspring answers on credit and the reckoning is settled out of sight, and a discipline of unpaid debt, paid from its own reserve and punished by its own ledger, is that theory with a name.
 
 It is held by attention with no material anchor, from Refraction, the Stage where a Domain seed first forms, and it lapses the moment the practitioner is killed or Silenced. Mortalis runs one direction at a time, so a withdrawal Monolithion has ratified cannot be reversed, even by its author.
 
@@ -59,28 +59,27 @@ The failure is a boundary fault. Against a deposit that is not unpaid the law do
 
 **Duration** · Held by attention for as long as it is paid, turn after six-second turn; the sea grows no faster than AU/s pays for roses, and a ratified withdrawal is permanent.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · Anamnesis, the Wellspring of Remembrance; Mortalis, the Black Gate; Fractura, the Breaking Point; Contrition, the Broken Flame; Monolithion, the Enduring Monument; Oblation, the Offering Flame.
+**Path** · Fate. Holdings, bonds, paid debts and kept oaths are the Plane of Fate's record, and the Attraction Layer works throughout. The Essence Core pays through Oblation.
 
-**Family** · Limina (Anamnesis); Vitalia (Mortalis, Contrition); Vectoria (Fractura); Materia (Monolithion); Fluxia (Oblation).
+**Lens** · Anamnesis, Mortalis (Medium) · Fractura, Monolithion (Wild) · Contrition (Spirit) · Oblation (Fate).
 
-**Physics Domain** · Entropy, Void and Mind (Anamnesis); Biochemistry (Mortalis, Contrition); Mechanics (Fractura); Material Science (Monolithion); Fluid Dynamics (Oblation).
+**Form** · Call. Every debt called in as a rose.
+
+**Gates** · None past the Path's ordinary gates.
+
+**Glyph** · Measure under Return. A term: whether a past deposit must answer to its present holder, moved deposit by deposit. Whether it happened or was theirs does not move at all.
 
 **Phenomenon** · Progressive collapse: load redistribution through a structure, with failure starting at an existing flaw.
 
-**Category** · Ritus
-
 **Skill** · Speaking, held by attention with no material anchor; it lapses the moment the practitioner is killed or Silenced.
 
-**Stage floor** · Refraction
+**Stage floor** · Refraction.
 
-**Grade required** · A-Grade
-
-**Path gate** · None
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -89,8 +88,6 @@ The failure is a boundary fault. Against a deposit that is not unpaid the law do
 **Stage floor** · Refraction
 
 **Grade required** · A-Grade
-
-**Path gate** · None
 
 **Resonant Pair** · None
 
@@ -112,4 +109,4 @@ The failure is a boundary fault. Against a deposit that is not unpaid the law do
 
 **Teaching** · The Work passes only to one who has learned to grieve correctly, which leaves every practitioner a known, unhealed shape to read.
 
-**Look up** · The Limina, Vectoria, Vitalia, Materia and Fluxia entries for the six Failures; the Silence Realm register; Crystal Fracture Event and saturation; the Four Theories; the Refraction Stage table.
+**Look up** · The entries for the six Failures; the Silence Realm register; Crystal Fracture Event and saturation; the Four Theories; the Refraction Stage table.

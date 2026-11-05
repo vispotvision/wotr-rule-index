@@ -31,6 +31,21 @@ Their identity centers on **shinma**, the sacred and unbreakable relational inte
 
 ---
 
+## What the Blood Gives
+
+The Yuno have no [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|Epoch behind them]], and so no instrument: everything they do with the ma, they built. Their blood gives what any old line's blood gives, four things and never a Path.
+
+| Slot | The Yuno |
+|---|---|
+| **The eye** | The keeper's gaze, which settles on the interval around a face and sees where a ma has thinned before it tears. It is a read and it moves nothing |
+| **The grip** | [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Essence Class]] may open before Glory, in children marked at birth. The cap never lifts |
+| **The stat lean** | Resilience Oath and Continuity; Harmonics Stability; Dominion Command |
+| **Lens affinities** | Anamnesis, Mortalis, Fixatio, Transference and Absolution, which go easier in this blood and lock nobody out of the rest |
+
+The Seven Tsutome are on the Spirit Path with Fate behind it, as a house's habit and never its blood. Their Forms are Rite for the great labors, Sing for *kotoage*, and Bind for the cup, the brocade and the witnessed *chigiri*. *Kotoage* spends the speaker's own share of fate and pulls nothing down, which is why it costs what it cost Tamaki.
+
+---
+
 ## Sacred Bearing
 
 **Skin** · Yuno children are **born already marked**: faint lines beneath the skin at the wrist, the sternum, and the base of the spine, tracing shapes that echo the finished *horimono* **before any horishi has touched them.** The family holds that **the ancestors mark the child first and the living carver only finishes what was already begun.**
@@ -142,7 +157,7 @@ Shinma goes well past holy magic and past etiquette raised to the level of law. 
 
 ## Yasoshima — The Eighty Isles
 
-*The islands of the Yuno. Proposed canon, pending Isaac's ratification.*
+*The islands of the Yuno.*
 
 An archipelago off the great land's shore, in the open water of the great bight between the Old World's northern coast and the Inner World's western shield, belonging to neither quarter and administered by no crown. The Accord's surveys record it, price its exports, and have never found a reason to send anyone twice.
 

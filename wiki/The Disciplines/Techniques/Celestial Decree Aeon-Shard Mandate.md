@@ -6,7 +6,7 @@ title: The Ten-Law World Jewel
 
 *Celestial Decree: Aeon-Shard Mandate is the scholars' term, and the Mandate for short. The mason's heirs of Perrin's Lode call it something else, in writing.*
 
-## THE TEN-LAW WORLD JEWEL (Celestial Decree: Aeon-Shard Mandate) (Domain Weaving, Stage XII)
+## THE TEN-LAW WORLD JEWEL (Celestial Decree: Aeon-Shard Mandate) (Make, Stage XII)
 
 The masons of Perrin's Lode will show you the bridge. Half of it was unmade one spring evening into a smooth gray silt with no grain in it at all, and the other half, an hour later and under the same turning crystal the size of a bull's head, went back to how it had stood before old Gaspard Beauchief ever mended the third arch. Every stone of Beauchief's repair came out of the wall and lay on the bank, two hundred years of the guild's guarantee undone in the time it takes to say grace. His heirs and the Lode's Mason Company have been at war ever since over whether the bridge is older than the guild's mark on it, and they have broken each other's windows on the anniversary for three generations, in matching aprons.
 
@@ -24,9 +24,9 @@ A raised hand, light falling inward, shadow crystallizing outward, and a rotatin
 
 The physics is injection locking into a frequency comb: oscillators fed one reference signal abandon their own frequency and lock to it, so ten laws held against each other stay in one stable pattern, like light paths in one interference fringe. Lock bandwidth follows the Adler relation, Δf_lock ≈ (f₀ / 2Q) · (A_inj / A_osc). The unmaking runs on the entropy of mixing, ΔG_mix = ΔH_mix − T·ΔS_mix, which goes downhill on its own. Ten laws in opposition share no common harmonic, so the lock must be held against ten independent drifts, and running mixing backward costs at least the free energy it released, so restoring is the expensive direction. Unmaking takes its joules from the target's own structure and needs only initiating. Rebuilding takes them from the caster because it runs uphill. The dream face touches nothing physical and costs least. Healing and mending always cost more than breaking.
 
-The Command glyph (Irath) lies across Frequency (Selhar): a Decree is Command first, fixed to the reference the ten are locked to. The boundary is the phase relationship among ten laws, referred to one of them. No law is altered, and the mode is which face of the standing pattern she reads outward. Dissolution, the Unbinding Stream (Limina), is primary: a mixed state has more disorder than a separated one, so dissolving runs by itself, shedding is effortless and keeping anything is active work, which is the Bastion's whole cost. Orrenthal, the Metallic Heart, a law of shared, unowned electrons, is the reference the other nine lock to, and every locked law inherits its frequency and drift, so pull the reference and the shard goes dark all at once. Tarturon pairs with Dissolution for matter unwritten, supplying its own oxidizer so the reaction cannot be smothered once begun. Basilithe pairs with Petralon, the Foundation Stone, for matter rebuilt, a law-lock plus a compressive load path. Oneirion pairs with Tenebra for perception rewritten, a configuration-space law plus signal suppression. Cataclysm, Penance and Fractura are carried with them.
+The Command glyph (Irath) lies across Frequency (Selhar): a Decree is Command first, fixed to the reference the ten are locked to. The boundary is the phase relationship among ten laws, referred to one of them. No law is altered, and the mode is which face of the standing pattern she reads outward. Dissolution, the Unbinding Stream (Wild), is primary: a mixed state has more disorder than a separated one, so dissolving runs by itself, shedding is effortless and keeping anything is active work, which is the Bastion's whole cost. Orrenthal, the Metallic Heart, a law of shared, unowned electrons, is the reference the other nine lock to, and every locked law inherits its frequency and drift, so pull the reference and the shard goes dark all at once. Tarturon pairs with Dissolution for matter unwritten, supplying its own oxidizer so the reaction cannot be smothered once begun. Basilithe pairs with Petralon, the Foundation Stone, for matter rebuilt, a law-lock plus a compressive load path. Oneirion pairs with Tenebra for perception rewritten, a configuration-space law plus signal suppression. Cataclysm, Penance and Fractura are carried with them.
 
-She pulls Aether according to the mode: a beam, a 5 to 50 m volume, or a short pulse. The Vector leaves matter reduced toward uniformity, the Bastion leaves ground too lawful for its history, the Cascade leaves nothing, and a Harmonist (one who reads a place by ear) on worked ground hears ten tones where there should be one. Limina is favored by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains. The Attraction Layer carries it for reach and breadth, with no thread pulled, since the ten laws are all her own Wellsprings held in phase, and the Essence Core is exposed, courting Fracture into Shards. Developmental Tier Sovereign. Ardency Density is Body-gated above B, so the shard's Density runs capped at B and the lattice spreads its output rather than packing it.
+She pulls Aether according to the mode: a beam, a 5 to 50 m volume, or a short pulse. The Vector leaves matter reduced toward uniformity, the Bastion leaves ground too lawful for its history, the Cascade leaves nothing, and a Harmonist (one who reads a place by ear) on worked ground hears ten tones where there should be one. Dissolution is favored by darkness, silence, Aether-thin ground and ruins, and suppressed by saturated Aether, crowds and active Domains. The Attraction Layer carries it for reach and breadth, with no thread pulled, since the ten laws are all her own Wellsprings held in phase, and the Essence Core is exposed, courting Fracture into Shards. Developmental Tier Sovereign. Ardency Density is Body-gated above B, so the shard's Density runs capped at B and the lattice spreads its output rather than packing it.
 
 Failure comes in two kinds. Dissolution's indiscriminate solvency means the beam takes the load-bearing members of anything it crosses, ground under the caster included, and every paired Wellspring's documented failure rides along and can be induced. Structural fault: the ten-law lock is the structure, and Harmonic Drain is it failing slowly into Shear Break, a partial Temperance shear or a flattening of her own affect. Behind that sits a coherence fault: the caster's mind bleeds into the shard's logic until she thinks in its fractal patterns, Traits argue with their bearer, flat affect is the sign, and this Identity Bleed does not refund. The bleed runs 10 to 15 percent as heat at the Shell, up to 4.2 to 6.3 × 10¹² J at the Bastion's top; the Bastion is loud and the Cascade nearly silent.
 
@@ -40,14 +40,21 @@ It has hard edges against the great. No peer overwrite without harmonic superior
 
 ### Codex line
 
-- **Wellspring:** Dissolution, The Unbinding Stream (primary). Secondary harmonizations carried: Tarturon, Basilithe, Petralon, Orrenthal, Cataclysm, Penance, Oneirion, Tenebra, Fractura.
-- **Family:** Limina
-- **Physics Domain:** Entropy, Void and Mind
-- **Category:** Domain Weaving
-- **Skill:** Speaking, a raised hand and an internalized commitment, with no anchor
-- **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
-- **Grade required:** SSS-Grade
-- **Path gate:** Fate Path
+**Path** · Fate. The Attraction Layer carries the shard for reach and breadth, with no thread pulled, since all ten laws are her own Wellsprings held in phase. The Essence Core stands exposed.
+
+**Lens** · Dissolution (Wild, primary) · Basilithe, Petralon, Orrenthal, Cataclysm, Tenebra, Fractura (Wild), Oneirion, Penance (Spirit), Tarturon (Fate), secondary.
+
+**Form** · Make. A shard that stands in the air and runs the stated intent on its own for short intervals.
+
+**Gates** · Ardency Density is Body-gated above B, so the shard's Density runs capped at B and the lattice spreads its output rather than packing it.
+
+**Glyph** · Command across Frequency. A term: which face of the standing pattern is in force, referred to one reference law. No law is altered.
+
+**Skill** · Speaking, a raised hand and an internalized commitment, with no anchor.
+
+**Stage floor** · Stage XII, Emanation (Band IV, Mythic; Level 301-400).
+
+**Grade required** · SSS-Grade.
 
 ### FOW line
 
@@ -56,7 +63,6 @@ It has hard edges against the great. No peer overwrite without harmonic superior
 - **Secondary Primary:** Ardency, Sub-Stat Density (whether the shard is a construct that acts, not merely a light show)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Fate Path
 - **Resonant Pair:** None attested in the source card.
 
 ### Origin
@@ -71,7 +77,7 @@ The Mandate is a self-derived technique and requires Stage XII; anyone who has n
 
 **Fails against** · Crowded, Aether-rich or Domain-held ground; the end of the lock; a split crowd, which forces an open choice of destruction or restoration; a detuned reference; Silence; Knot or Lock on the ten paths; harm to the ordinary body behind the hand; none of which needs the stronger side.
 
-**Look up** · Silence, Knot and Lock in the Counterplay register; the Limina terrain; the Dissolution, Orrenthal, Tarturon, Basilithe, Petralon, Oneirion and Tenebra failures; Shear Break and Identity Bleed; the Emanation Stage table and the SSS Grade row.
+**Look up** · Silence, Knot and Lock in the Counterplay register; the Ground of Dissolution, Basilithe and Petralon on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Dissolution, Orrenthal, Tarturon, Basilithe, Petralon, Oneirion and Tenebra failures; Shear Break and Identity Bleed; the Emanation Stage table and the SSS Grade row.
 
 ## Numbers
 
@@ -88,8 +94,6 @@ The Mandate is a self-derived technique and requires Stage XII; anyone who has n
 ### Essence
 
 **Practitioner** · Emanation, Grandmaster, Levels 301 to 400, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; SSS (726 to 950) Harmonics Breadth on the Fate Path, ten Wellsprings at once.
-
-**Density** · Ardency Density is Body-gated above B, so the shard's Density runs capped at B and the lattice spreads its output rather than packing it.
 
 | Quantity | Working | Result |
 |---|---|---|

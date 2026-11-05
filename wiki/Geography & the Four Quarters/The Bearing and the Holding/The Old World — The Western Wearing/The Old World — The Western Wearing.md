@@ -55,7 +55,7 @@ The west is the crowded quarter, the one with the guild halls, the law and the b
 
 ## Bearing Stock
 
-*Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Resonance, Family and Domain name the Wellsprings a material answers to, their family, and the branch of natural law they work through.*
+*Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Resonance and Domain name the Wellsprings a material answers to, and the branch of natural law they work through.*
 
 **Forge-Iron** · *T2 · Metal · Altherion, Inner World, northern rim (ruled 2026-09-12)*
 
@@ -67,7 +67,7 @@ The standard armament and structural iron of the western kingdoms. Durable again
 >
 > Slagbloom is cheap, sulfurous, brittle in the cold, and carries a persistent oddity: **inscriptions laid on it read doubled**, because the metal was worked and marked once already and something of the earlier marking survives the second melt. Engravers charge extra to work it. Superstitious foremen will not have it in a mine cage.
 >
-> Bearing moderate and inconsistent, Holding erratic. Resonance: Anamnesis, unwelcome. Family Materia, Domain Material Science.
+> Bearing moderate and inconsistent, Holding erratic. Resonance: Anamnesis, unwelcome. Domain Material Science.
 
 **Palegrit Limestone** · *T2 · Stone · Platform carbonate across the central west*
 
@@ -89,15 +89,15 @@ Roofing, coffin lining, pipe and sling bullets. Its real importance is single: *
 >
 > Wolframite, black, absurdly heavy, and possessed of the highest melting point of any workable metal in the ledger. **This is the vessel problem's answer.** Forge-arrays can reach temperatures that will slump any ordinary crucible, and wolfram will not slump. Every nozzle, every hearth crown, every array-furnace lining above T4 work is wolfram or is lined with something wolfram holds.
 >
-> It has no glamour, no legend, and **no substitute**, and the Accord tracks every ton of it. Bearing extreme under heat, Holding low. Resonance: Ignivale, Exuroth. Family Caloria, Domain Thermodynamics.
+> It has no glamour, no legend, and **no substitute**, and the Accord tracks every ton of it. Bearing extreme under heat, Holding low. Resonance: Ignivale, Exuroth. Domain Thermodynamics.
 
 **Greaves Tin** · *T2 · Metal · Cassiterite, lode and stream-work, western tin districts*
 
-Bronze, solder, and the tinning of array contacts. Contact corrosion in a working glyph array is a slow, invisible, cumulative failure, and a tinned contact does not corrode. **Unglamorous, essential, and running out.** The stream works were exhausted six generations ago and the lodes are now worked at depths that only exist because of the pumps. Bearing moderate, Holding moderate. Resonance: Coagulatio. Family Materia, Domain Material Science.
+Bronze, solder, and the tinning of array contacts. Contact corrosion in a working glyph array is a slow, invisible, cumulative failure, and a tinned contact does not corrode. **Unglamorous, essential, and running out.** The stream works were exhausted six generations ago and the lodes are now worked at depths that only exist because of the pumps. Bearing moderate, Holding moderate. Resonance: Coagulatio. Domain Material Science.
 
 **Attercrop Vitriol** · *T2 · Liquid reagent · Drainage of abandoned workings, universal in the west*
 
-Green vitriol, drawn off where pyrite in old spoil weathers into acid water. It is the poison in the orange rivers and it is also, refined, the mordant that fixes ritual ink to any organic substrate. **The same fluid that killed the Aerne valley writes the Accord's own codices.** Western alchemists have stopped remarking on this, and the Aerne has not. Resonance: Dissolution. Family Materia, Domain Material Science. Blinds on contact with the eye and does so without warning, since it does not burn on the skin at working dilution.
+Green vitriol, drawn off where pyrite in old spoil weathers into acid water. It is the poison in the orange rivers and it is also, refined, the mordant that fixes ritual ink to any organic substrate. **The same fluid that killed the Aerne valley writes the Accord's own codices.** Western alchemists have stopped remarking on this, and the Aerne has not. Resonance: Dissolution. Domain Material Science. Blinds on contact with the eye and does so without warning, since it does not burn on the skin at working dilution.
 
 **Psionite** · *T4 · Mineral · Varūn deep workings*
 

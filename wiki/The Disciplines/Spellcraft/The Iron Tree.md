@@ -22,21 +22,21 @@ title: The Iron Tree
 
 ### Codex line
 
-**Wellspring** · Fixatio (primary, the seal itself), Coagulatio and Chthonica (Materia, densifying and rooting the load), Anima Spirare (Vitalia, the engine), Phreatis (Fluxia, cross-listed, the circulation linking all seven chambers into one reservoir).
+**Path** · Body, dominant. The Aether Shell is run as a pressure vessel, with the Attraction Layer doing almost nothing, which is the whole weakness.
 
-**Family** · Materia primary, Vitalia secondary, Fluxia tertiary.
+**Lens** · Fixatio (Medium, primary) · Coagulatio, Chthonica, Anima Spirare (Wild) · Phreatis (Medium).
 
-**Physics Domain** · Material Science (thermoset cross-linking, grain growth under sustained load) primary; Biochemistry (cooperative binding, the harder the pull, the more readily the soul provides) secondary.
+**Form** · Strike. One sealed chamber vented through one contact point.
 
-**Category** · Arts (Body-Aligned: structured, discipline-based styles blending movement, form and Essence flow).
+**Gates** · Hardening and Fortitude need Body at Ascension to pass C, Fortification and Fortitude Body at Flourishing to pass B; off Body Path the vessel cannot take its own pressure and the root fails first. Vitality and Resilience govern.
+
+**Glyph** · Boundary under Edge. A physical limit: the number of open outlets, from zero to one, at one place, for an instant.
 
 **Skill** · Bodily speaking; the sealed body is the only anchor, and a branch lasts as long as one chamber takes to vent.
 
 **Stage floor** · VII, Refraction, for the seven branches (the Iron Bison discipline's own preliminary floor); IX, Invocation, for sustained combat use; its author's apex expression ran at Stage XIII, Principality.
 
 **Grade required** · A-Grade minimum; X-Grade at its author's apex.
-
-**Path gate** · Body, dominant.
 
 ### Named branches
 
@@ -53,7 +53,7 @@ title: The Iron Tree
 
 ### FOW line
 
-Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilience Anchoring and Hardening, Ardency Compression, Tempering Clarity, per the Iron Bison discipline's own stat effects. Stage floor VII (preliminary), IX (sustained), XII (indefinite maintenance); its author's apex sat at Stage XIII. Grade required A-Grade minimum, X-Grade at that apex. Path gate Body, dominant. No Resonant Pair documented.
+Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilience Anchoring and Hardening, Ardency Compression, Tempering Clarity, per the Iron Bison discipline's own stat effects. Stage floor VII (preliminary), IX (sustained), XII (indefinite maintenance); its author's apex sat at Stage XIII. Grade required A-Grade minimum, X-Grade at that apex. No Resonant Pair documented.
 
 ### Origin
 
@@ -84,15 +84,15 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Aether** · Pull near nil: a closed-world compression anchor, external leak near zero by design, internal cycling beyond measurement. Residue is almost none, which makes a master hard to read; what a vent leaves deafens Harmonists at the contact point.
 
-**Wellspring** · Fixatio, the Binding Flame (Materia), primary: what it holds is held because the alternative state is no longer reachable; it is the seal itself.
+**Wellspring** · Fixatio, the Binding Flame (Medium), primary: what it holds is held because the alternative state is no longer reachable; it is the seal itself.
 
-**Wellspring** · Coagulatio, the Returning Stone (Materia): a supersaturated solution surrenders its excess at a seed site; the charge is the supersaturation, the vent the seed.
+**Wellspring** · Coagulatio, the Returning Stone (Wild): a supersaturated solution surrenders its excess at a seed site; the charge is the supersaturation, the vent the seed.
 
-**Wellspring** · Chthonica, the Root Deep (Materia): grip is billions of contacts too small to measure alone; it roots the grounded stance.
+**Wellspring** · Chthonica, the Root Deep (Wild): grip is billions of contacts too small to measure alone; it roots the grounded stance.
 
-**Wellspring** · Anima Spirare, the Soul's Breath (Vitalia): an amplifying cascade, each factor activating many; the harder the pull, the more readily the soul provides.
+**Wellspring** · Anima Spirare, the Soul's Breath (Wild): an amplifying cascade, each factor activating many; the harder the pull, the more readily the soul provides.
 
-**Wellspring** · Phreatis, the Waters of Memory (Fluxia, cross-listed): the deep reservoir; it circulates all seven chambers as one.
+**Wellspring** · Phreatis, the Waters of Memory (Medium): the deep reservoir; it circulates all seven chambers as one.
 
 **Inherited failures** · Fixatio is irreversible; Coagulatio's uncontrolled nucleation gives unusable density if too many vents open; Chthonica's contamination releases without warning; Anima Spirare's disseminated activation vents every chamber at once; Phreatis keeps whatever enters. A strain inside the seal cannot be separated from it. Any of them can be induced from outside.
 
@@ -126,8 +126,6 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; at the height, Principality, Archmaster, η 0.95 to 1.2.
 
-**Paths** · Body, dominant: Vitality and Resilience govern. Hardening and Fortitude need Body at Ascension to pass C, Fortification and Fortitude Body at Flourishing to pass B; off Body Path the vessel cannot take its own pressure and the root fails first.
-
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, Iron Head / Elbow / Knee | 3.0% / 3.9% / 4.6% of full reserve | per vent |
@@ -151,4 +149,4 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Kinship** · Love, grief and kinship are the one input the sealed architecture was never built to process, and the one vector the Seal cannot hold against.
 
-**Look up** · The Materia, Vitalia and Fluxia entries for the five Failures; void and anti-recognition fields; the Refraction, Invocation and Emanation Stage tables; the Body Path gates; Grade bands by joules.
+**Look up** · The entries for the five Failures; void and anti-recognition fields; the Refraction, Invocation and Emanation Stage tables; the Body Path gates; Grade bands by joules.

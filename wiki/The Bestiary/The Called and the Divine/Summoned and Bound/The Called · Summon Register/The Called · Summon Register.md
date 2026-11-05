@@ -27,9 +27,11 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Crystal Provenance** | Donated · Analog · Native · Anchored. **This is the operative field.** Everything the thing can refuse, survive, or become follows from it |
 | **Soul Architecture** | The three layers as they exist in this construct: Essence Core, Aether Shell, Attraction Layer. **Record which are genuine and which are analog** |
 | **Crystal Grade · State** | Developmental Tier reached, plus State: Fractured · Refined · Overgrown · Crystallized. Donated forms inherit the summoner's and carry none of their own |
-| **Aether Class** | Ø through Ω. Governs how much of the donated Essence survives the crossing into form |
+| **Aether Class** | Ø through Ω. Its hold on the physical world, and how much of the donated Essence survives the crossing into form |
+| **Essence Class** | Ø through Ω. Its reach on souls and meanings: what it can read, carry and keep. Core work, Echo-keeping and anything a called thing does to the dead reads here |
+| **Thread Class** | Ø through Ω. How much of Fate it can pull down and hold. Most called things stand at Ø, and a bond to a route, an office or a promise shows here. The [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Three Ladders]] say what each rung means |
 | **Wellspring Inheritance** | Primary and secondary, per the Master Codex. **A summon is a Wellspring spoken as a verb** and cannot inherit what the summoner has not harmonized |
-| **Family · Physics Domain** | Codex assignment. The Physics Domain is what makes every Mechanism field below write itself |
+| **Kind · Physics Domain** | Codex assignment. The Physics Domain is what makes every Mechanism field below write itself |
 | **Glyph Chain** | All four roles addressed: **Authorization · Boundary · Direction · Sealing.** A chain missing a role is Mechanica (forbidden working that takes power without lawful consent) by definition, whatever the practitioner calls it |
 | **Invocation** | The spoken line in Guild Accord liturgical Latin, with the Parunic chain sitting underneath it |
 | **Readiness · Duration** | Seconds to full form, and the honest persistence window before the tether or the anchor thins |
@@ -42,7 +44,6 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Physical Description** | What witnesses report, what the air does around it, what it smells of. **Called things are confessions** and the description should read as one |
 | **Temperament · Voice** | Whether it speaks, in what register, and what it will not say. Blank only for Tier I and Tier II forms |
 | **Attested Encounters** | Named engagements with dates where the Archives hold them, **and field accounts where they do not** |
-| **Open Rulings** | What is not yet decided about this entry. Left visible rather than filled in |
 
 ---
 
@@ -70,8 +71,6 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Analog** | Concordia | A synthetic three-layer architecture held open inside the summoner's Concordia field | Owns Core, Shell and Layer analogs. **Sufficient coherence lets it resist dissolution**, which is the failure state the Accord actually fears |
 | **Native** | Vocatia | Its own Crystal, which it possessed before anyone called it and will possess after | Graded exactly as a person is. **Answers by recognition, never by compulsion**, and refuses orders contrary to its nature |
 | **Anchored** | World-Tethered | Crystal function borrowed from the node: a worked Wellspring site, a bloodline lattice, a Domain | Persists because the Continuum recognizes the node. **Outlives its summoner.** Unlawful anchoring is prosecuted as Wellspring parasitism |
-
-> **Originated, flagged.** The four-way Provenance split is inferred from the Summoning Arts entry rather than lifted from it. Canon states that Animatria constructs are Core fragments, that Concordia forms carry analogs of all three layers, that Vocatia contacts something that already exists, and that World-Tethered forms pull from the node. **Naming those four as a single graded axis is new.** Isaac's ruling needed before it locks.
 
 ---
 
@@ -105,7 +104,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Trigger** | What initiates it. Physical action, spoken invocation, or condition met |
 |---|---|
 | **Function** | What it does, in one plain sentence |
-| **Mechanism** | How, traced to the Codex Physics Domain for its Family |
+| **Mechanism** | How, traced to the Codex Physics Domain for its Wellspring |
 | **Numerical Effect** | Real units where they earn their place |
 | **Target Response** | What it does to a body, a structure, the air |
 | **Limitation** | What it structurally cannot do |
@@ -113,7 +112,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Cost** | Which taxonomy category, and **how it shows outside combat** |
 | **Vow** | Optional. Any binding condition and what forfeiting it costs |
 | **Counterplay** | Mandatory. How a competent opponent answers it |
-| **Codex Assignment** | Glyph combination, primary and secondary Wellspring, Family, Physics Domain |
+| **Codex Assignment** | Glyph combination, primary and secondary Wellspring, kind, Physics Domain |
 | **First Display** | Where the mechanic is planted before it pays off |
 | **Sensory Description** | What the opponent sees, what the summoner's body does |
 
@@ -121,7 +120,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 
 ## Standing Rules
 
-**Inheritance is not a choice.** A summon carries its creator's Path and Wellspring harmonization whether or not the creator wants it read. A Materia harmonization produces anchored, slow-dissolving forms. A Limina one produces absence and negation. *A summoner who does not want to be legible should not be summoning.*
+**Inheritance is not a choice.** A summon carries its creator's Path and Wellspring harmonization whether or not the creator wants it read. A Fixatio harmonization produces anchored, slow-dissolving forms. A Nihiloth one produces absence and negation. *A summoner who does not want to be legible should not be summoning.*
 
 **Signature is the standing counterplay.** Every construct broadcasts its authorizing glyph and its summoner's resonance to anyone with comparable Perception (the nose, at the brackets; *kehai* to a Moto; being sounded, to a Marrowkin, as a rock face is sounded for a bad seam). **This is true of every entry in the register and should not be re-argued per summon.**
 
@@ -130,4 +129,3 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 **Silence severs.** Anything Donated dies inside a Silence Realm. Anything Analog degrades. Native and Anchored forms are the only two that hold, and holding is not the same as functioning.
 
 **The Bench and the Divisions are watching.** Summoning without lawful Glyphica (licensed glyph-work) is Mechanica. Unauthorized World-Tethering is prosecuted under Statute XXVI. **An entry should record what the Accord would say about it**, including the entries where the Accord has said nothing yet.
-- [[The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template]]

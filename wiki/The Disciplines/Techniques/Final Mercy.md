@@ -6,7 +6,7 @@ title: The Last Kind Word
 
 *The scholars still write Final Mercy. Its author's whole doctrine runs to four words: "True mercy is silence."*
 
-## THE LAST KIND WORD (Final Mercy) (Mnemata, Stage XIV)
+## THE LAST KIND WORD (Final Mercy) (Strike, Stage XIV)
 
 They held Everard Two-Purses Mowbray's wake on the spot where he fell, in the middle of Cooper's Cross, because the Kharven do these things properly: three hundred mourners in their brightest coats, a whole roast ox, two bands who hated each other, and his creditors in the front row with their hats off and their ledgers out. By the second barrel it was plain something was wrong with the ground. Nobody could cry on it. Widows who had been howling since dawn stepped onto those six paces of cobble and stood there with dry faces, looking faintly puzzled, and stepped off and burst into tears again. An Eclipseron reader was fetched from three towns over. She walked the patch, reading what was not there, and told them there was no killing here for anyone to mourn, and then asked to be paid, and left before the band struck up.
 
@@ -22,7 +22,7 @@ The real phenomenon is projective measurement and its back-action: a strong enou
 
 The glyphs are Measure across Ruin: a measurement on an edge makes a blow heavier, and on ruin it makes a verdict. The boundary is the strength of one persistence measurement, pushed past where its back-action exceeds the target's own dynamics. A strike, then no wound: Soul goes first since it is most strongly coupled, then memory and Principle alignment, with no interval in which anything can be arrested. It is instant with no sustain. It is internalized speaking, a ritual-fast chain held and released, and needs no material anchor at Zenith. It cannot run while Dirge Ascension (now shouted as Forty-Five Seconds of God) is active, since both compress the same architecture and a reserve cannot be hardened into two shapes at once. There is one firing condition: he must already hold a verdict correct by Judicium's own measure, and a strike thrown without it does not carry the working.
 
-The Aether goes to a single point at 150 m, the narrowest Zenith footprint. Fulguria wants dry air and clear sight. The impact site goes emotionally silent, the absence of a killing's residue, which only an Eclipseron reader can work. Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, and turned outward at full compression the read stops reporting on the target's continuance and adjudicates it. Exuroth, the Trial Flame (Caloria), supplies the compression. Judicium's spectral overload means the read cannot be aimed at one line, so his own memory goes with each use, near four percent by his own count with no way yet found to choose which four percent. Exuroth's quench cracking arrives as paradox recoil.
+The Aether goes to a single point at 150 m, the narrowest Zenith footprint. Judicium wants dry air and clear sight. The impact site goes emotionally silent, the absence of a killing's residue, which only an Eclipseron reader can work. Judicium, the Wellspring of Truth (Wild), says every element shows only its own spectrum, and turned outward at full compression the read stops reporting on the target's continuance and adjudicates it. Exuroth, the Trial Flame (Wild), supplies the compression. Judicium's spectral overload means the read cannot be aimed at one line, so his own memory goes with each use, near four percent by his own count with no way yet found to choose which four percent. Exuroth's quench cracking arrives as paradox recoil.
 
 The verdict is held in the Essence Core and discharged through the Aether Shell, and it seizes the target's Attraction Layer, where a Crystal's persistence claim lives. Developmental Tier Crystallized Soul at Zenith. Boundary fault: the read has no aperture, and the unintended place it runs is his own memory. Field fault on the target's side: a Crystal with no independent selfhood presents nothing to project, and an externally Throne-anchored Crystal, the standing architecture documented for the Celestial Host, is already recorded as near-immune to identity-based Aether attacks for exactly this reason. The bleed, 5 percent at η 0.95, arrives at once on him as paradox recoil, heat at the Shell, with quench cracking at any η; above η 1 the surplus thins the room. A Principle Engine is the one relief valve.
 
@@ -36,21 +36,21 @@ The Percipient school holds that to be is to be perceived and that nothing truly
 
 ### Codex line
 
-**Wellspring** · Judicium (primary) · Exuroth (secondary)
+**Path** · Spirit. The verdict is held in the Essence Core and discharged through the Shell, and it lands on the target's claim to go on.
 
-**Family** · Fulguria (Judicium) · Caloria (Exuroth)
+**Lens** · Judicium (Wild, primary) · Exuroth (Wild, secondary).
 
-**Physics Domain** · Electromagnetism (Judicium) · Thermodynamics (Exuroth)
+**Form** · Strike. One point at up to 150 m, thrown once.
 
-**Category** · Mnemata
+**Gates** · Spirit Path opens Gnosis Analysis at Flourishing; Dominion Sovereignty past SSS needs the Fate Path at Invocation, so on Spirit the enforcement is capped at SSS while read and discharge run at EX.
 
-**Skill** · Speaking (Internalized: a ritual-fast chain held and released, not spoken over its duration)
+**Glyph** · Measure across Ruin. What a thing is taken to be: how hard one persistence measurement may read the target, pushed past where the reading outweighs the life being read.
 
-**Stage floor** · Stage XIV, Zenith
+**Skill** · Speaking (Internalized: a ritual-fast chain held and released, not spoken over its duration).
 
-**Grade required** · EX-Grade
+**Stage floor** · Stage XIV, Zenith.
 
-**Path gate** · Spirit
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -61,8 +61,6 @@ The Percipient school holds that to be is to be perceived and that nothing truly
 **Stage floor** · Stage XIV, Zenith.
 
 **Grade required** · EX-Grade.
-
-**Path gate** · Spirit.
 
 **Resonant Pair · None.**
 
@@ -95,8 +93,6 @@ Its author built this alone. Its philosophy line, "True mercy is silence," is it
 ### Essence
 
 **Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.2. Grade EX (1,201 to 1,500) on Gnosis and Ardency.
-
-**Paths** · Spirit Path opens Gnosis Analysis at Flourishing; Dominion Sovereignty past SSS needs the Fate Path at Invocation, so on Spirit the enforcement is capped at SSS while read and discharge run at EX.
 
 | Quantity | Working | Result |
 |---|---|---|

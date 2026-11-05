@@ -131,7 +131,7 @@ The window tells the truth about the numbers. A blessing is a different matter, 
 | **By changing later** | `[Blessing: Favored]` | A line can be rewritten by whoever wrote it. It read differently yesterday, and the soul's memory of yesterday may have been tidied too |
 | **By saying nothing at all** | No line | The commonest curse in the Archives is the one that never showed. Assay, if you can afford it |
 
-This is separate from the other way a window can lie. A strong user of Limina (the Family of entropy, void and mind) can make a window show false numbers or hide a line, and that is a violation with a cost, with Gnosis as the fair counter. A blessing's lie has no such seam, because the line belongs there.
+This is separate from the other way a window can lie. A strong mind-worker, on the Wellsprings of memory, sleep and reflection, can make a window show false numbers or hide a line, and that is a violation with a cost, with Gnosis as the fair counter. A blessing's lie has no such seam, because the line belongs there.
 
 ### Reading one
 
@@ -202,6 +202,8 @@ There are four ways, and three of them are mostly unavailable.
 ### How Hataraki removes one
 
 [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] is the Moto's governing power, a real Fate Art, and it treats the world as a set of jobs. A blessing, to a Moto, is a job someone has assigned to the odds, and a job can be read, and a worker can be fired. There are few enough cases on the public record that the method is known mostly from what the holders report, and it runs in three motions.
+
+The grips do not trade, so one Moto with one Work cannot do this alone: it takes two Works or two Moto, one to read and one to discharge.
 
 **The reading.** The Work of Knowledge (*Chishiki no Shigoto*) reads the line for what it is, and for a moment the holder's own window shows the whole of it, in plain words, usually for the first time. Everyone who has lived through this says it was the worst part.
 

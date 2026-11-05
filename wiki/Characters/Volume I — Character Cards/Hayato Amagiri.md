@@ -53,8 +53,8 @@ The Amagiri name means rain-mist, and the oldest thing the line does is make wha
 
 ## III. Wellspring Harmonizations
 
-**Phreatis** · the Waters of Memory · Depth governing · cross-listed Fluxia and Vitalia; what flows remembers the shape of what it flowed through, and so does he: every road he has walked, every ford, every herders' shoulder, is in him the way a riverbed is in the river, and what he does goes the way water and mist find the low road round a hill
-**Transference** · Spatium · Depth deep · the current that carries a thing from one position to another; on a road he has walked, the distance between its ends answers to him
+**Phreatis** · the Waters of Memory · Medium · Depth governing; what flows remembers the shape of what it flowed through, and so does he: every road he has walked, every ford, every herders' shoulder, is in him the way a riverbed is in the river, and what he does goes the way water and mist find the low road round a hill
+**Transference** · Fate · Depth deep · the current that carries a thing from one position to another; on a road he has walked, the distance between its ends answers to him
 
 ## IV. Primary Stats
 

@@ -1,5 +1,6 @@
 ---
 title: Summon Entry · Blank Template
+private: true
 ---
 
 # Summon Entry · Blank Template
@@ -37,6 +38,8 @@ title: Summon Entry · Blank Template
 | **Crystal Developmental Tier** | *Dormant · Awakened · Harmonic · Resonant · Radiant · Voidic · Sovereign · Principled · Absolute. Leave blank for Donated forms and record the summoner's instead* |
 | **Crystal State** | *Fractured · Refined · Overgrown · Crystallized* |
 | **Aether Class** | *Ø Dormant · I Muridic · II Harmonic · III Resonant · IV Luminous · V Radiant · VI Voidic · Ω Absolute* |
+| **Essence Class** | *Ø Silent · I Listener · II Answerer · III Confessor · IV Shepherd · V Ferryman · VI Hollow · Ω Absolute* |
+| **Thread Class** | *Ø Unthreaded · I Touched · II Drawn · III Spinner · IV Knotwright · V Weaver · VI Severer · Ω Absolute* |
 | **Summon Stability Facet** | *E through S and above. Must agree with the Summon Tier or the disagreement must be explained* |
 | **Traits** | *Only for Native and Analog forms. A Donated construct carries the summoner's Traits and none of its own* |
 | **Domain** | *If any. Radius, what local law it imposes, and whether it persists without the summoner present* |
@@ -47,9 +50,10 @@ title: Summon Entry · Blank Template
 
 | **Primary Wellspring** | *From the canonical sixty. Must be one the summoner has actually harmonized* |
 |---|---|
-| **Secondary Wellspring** | *Optional. Note the House it belongs to* |
-| **House Resonance** | *What that House does to the form: anchored and slow to dissolve, elevated and judgmental, vital and restorative, and so on* |
-| **Essence Family** | *Caloria · Fulguria · Vectoria · Spatium · Materia · Vitalia · Fluxia · Limina* |
+| **Secondary Wellspring** | *Optional. Note its kind* |
+| **Kind Resonance** | *What the primary's kind does to the form: a Wild form has weight and heat, a Spirit form holds a meaning, a Fate form holds to a route or an office, a Medium one answers on any of them* |
+| **Kind** | *Wild · Spirit · Fate · Medium, from the primary Wellspring's entry* |
+| **Leans on** | *Shell, Core or Layer, with what each of the three roads can do about it* |
 | **Physics Domain** | *Per the Master Codex. This is what every Mechanism field in section VIII must trace back to* |
 | **The Donation** | *What it visibly burns, flows or weighs as* |
 
@@ -128,7 +132,7 @@ title: Summon Entry · Blank Template
 
   **Counterplay:** *How a competent opponent answers it*
 
-  **Codex Assignment:** *Glyph combination · primary and secondary Wellspring · Family · Physics Domain*
+  **Codex Assignment:** *Glyph combination · primary and secondary Wellspring · kind · Physics Domain*
 
   **First Display:** *Where the mechanic is planted at low stakes before it ever resolves anything*
 

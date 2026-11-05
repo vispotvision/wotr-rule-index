@@ -6,7 +6,7 @@ title: The Three Walking Laws
 
 *Judgment Manifest is the scholars' term and the name on the Accord's register. The Company of the Open Eye called it a rumor, up to a point.*
 
-## THE THREE WALKING LAWS (Judgment Manifest) (Animatria, Stage XIV)
+## THE THREE WALKING LAWS (Judgment Manifest) (Make, Stage XIV)
 
 The Company of the Open Eye marched onto the Plain of Tessel eight hundred strong in white and sky blue with their drummers going, drilled for six years by the Sevenfold school in the one sure defense, which was to disbelieve. Three tall bodies arrived at once across two kilometers of the plain, plainly laws and not people, and the Company halted on command and disbelieved at them in perfect step. The first one measured the front rank. It killed the standard-bearer and walked straight past the man at his elbow, a petty thief named Nat Pennyfeather, who had joined that morning for the boots. Pennyfeather is the only witness we have. He told the assize it had looked at him for some time, seemed to find nothing it was in charge of, and moved on, and that he has never felt so insulted.
 
@@ -24,9 +24,9 @@ The physics is solitons, self-holding waves in which spreading and self-focusing
 
 The glyphs are Command (Root) across Form (Extension), which gives a Principle a body; Order (Extension) is the alternative, making the constructs ordering where these command. The boundary is the balance point between spreading and self-focusing in the local field. A target is assessed against the nearest Principle with no attack as such, and two people side by side can be treated entirely differently, as Nat Pennyfeather will tell you for a drink. Zenith needs no material anchor: he names up to three Principles and gives each a body. The constructs fight well under their ceiling to stay standing, since spending energy hard spends what keeps them coherent. Each enforces its Principle without negotiation, and what measures favorably passes.
 
-The ceiling is an Aether quantity. Fulguria favors dry air, conductive ground and clear sight; Caloria favors steep thermal gradients. The Residue is standing law layered on the field, the heaviest kind, and it deafens Harmonists (those who read a place by ear) who work that ground afterward. Three EX constructs across two kilometers risk saturation, and past the threshold the field tips into a Crystal Fracture Event for everyone present, him included. Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, so a construct can measure a target against its Principle without contact. Exuroth, the Trial Flame (Caloria), is quench and temper, thermal shock then controlled recovery, which lets the Crystal take the recoil of detaching Core fragments and come back tougher. Judicium's spectral overload, three readers on every target in the field, means the constructs cannot prioritize, so they measure and enforce and never choose. Exuroth's quench cracking splits a Crystal cycled too fast without tempering.
+The ceiling is an Aether quantity. Judicium favors dry air, conductive ground and clear sight; Exuroth favors steep thermal gradients. The Residue is standing law layered on the field, the heaviest kind, and it deafens Harmonists (those who read a place by ear) who work that ground afterward. Three EX constructs across two kilometers risk saturation, and past the threshold the field tips into a Crystal Fracture Event for everyone present, him included. Judicium, the Wellspring of Truth (Wild), says every element shows only its own spectrum, so a construct can measure a target against its Principle without contact. Exuroth, the Trial Flame (Wild), is quench and temper, thermal shock then controlled recovery, which lets the Crystal take the recoil of detaching Core fragments and come back tougher. Judicium's spectral overload, three readers on every target in the field, means the constructs cannot prioritize, so they measure and enforce and never choose. Exuroth's quench cracking splits a Crystal cycled too fast without tempering.
 
-The category is Animatria, a fragment of the caster's Core projected into an independent construct, with Vocatia secondary, since each construct must be recognized by the field whose law it enforces. The Essence Core pays by fragmenting outward, each construct a detached piece of it, one step from shattering by design, and the Attraction Layer carries the recognition. What he names is a Principle's shape in the local field, and the Principle itself goes on where it always was: the great principles are Sovereign on the Plane of Fate and nobody gives them bodies. He pulls no thread down, which is the only reason three of these cost him a fifth of a reserve and not his life. What walks is his own Core, in that shape. Developmental Tier Crystallized Soul at Zenith. Structural fault: paradox fatigue and Aether recoil scale with the constructs standing. Field fault: the ceiling itself. At η 0.95 to 1.2, waste below one comes off the gain budget that sets the ceiling and leaves as heat at the Shell; above one the surplus is taken from the room, which thins and stays thin.
+Each construct is a made thing, a fragment of the caster's Core projected into an independent body on an Animatria line, and each must also be recognized by the field whose law it enforces. The Essence Core pays by fragmenting outward, each construct a detached piece of it, one step from shattering by design, and the Attraction Layer carries the recognition. What he names is a Principle's shape in the local field, and the Principle itself goes on where it always was: the great principles are Sovereign on the Plane of Fate and nobody gives them bodies. He pulls no thread down, which is the only reason three of these cost him a fifth of a reserve and not his life. What walks is his own Core, in that shape. Developmental Tier Crystallized Soul at Zenith. Structural fault: paradox fatigue and Aether recoil scale with the constructs standing. Field fault: the ceiling itself. At η 0.95 to 1.2, waste below one comes off the gain budget that sets the ceiling and leaves as heat at the Shell; above one the surplus is taken from the room, which thins and stays thin.
 
 The Sevenfold school lists seven Hermetic Principles as recovered ancient lore and teaches that a construct can be dismissed by disbelief. It cannot, and a company drilled to disbelieve is simply measured and found wanting. The school reopened two years after Tessel, and enrollment is up.
 
@@ -34,18 +34,25 @@ The Sevenfold school lists seven Hermetic Principles as recovered ancient lore a
 
 **Cost.** Five, seven and nine percent of full reserve by construct, with paradox fatigue and recoil that worsen for each one standing.
 
-**Counter.** Limina that blurs a construct's definition, an Oneirion dream-field or a Letheveil-class memory current, unmakes it early; or find him, or outlast thirty seconds.
+**Counter.** A current that blurs a construct's definition, an Oneirion dream-field or a Letheveil-class memory current, unmakes it early; or find him, or outlast thirty seconds.
 
 ### Codex line
 
-- **Wellspring** · Judicium (primary), Exuroth (secondary)
-- **Family** · Fulguria (Judicium); Caloria (Exuroth)
-- **Physics Domain** · Electromagnetism, primary; Thermodynamics, secondary
-- **Category** · Animatria (Spirit-Aligned), projection of a fragment of the caster's own Essence Core into an independently operating construct, matching "animates Principles as combat constructs" directly; Vocatia (Attraction-Aligned) as a secondary reading, since each construct also has to be recognized by the field whose law it enforces
-- **Skill** · Speaking, named aloud with no material anchor at Zenith, each construct standing its five turns
-- **Stage floor** · Stage XIV, Zenith
-- **Grade required** · EX-Grade
-- **Path gate** · Fate Path
+**Path** · Spirit and Fate. The Essence Core pays by fragmenting into constructs, and the Attraction Layer carries their recognition by the field. He pulls no thread down.
+
+**Lens** · Judicium (Wild, primary) · Exuroth (Wild, secondary).
+
+**Form** · Make. A Principle given a body, up to three at a time.
+
+**Gates** · Dominion Sovereignty's own gate is the Fate Path at Stage VI. Dominion Command needs the Fate Path at Transcendence to pass SS, and the holder has that; the working is declared on the Sovereignty gate alone, so its authority to compel still thins above SS.
+
+**Glyph** · Command across Form. What a thing is taken to be: a Principle counts as a body, with the balance point between spreading and self-focusing set in the local field. Order is the alternative second form.
+
+**Skill** · Speaking, named aloud with no material anchor at Zenith, each construct standing its five turns.
+
+**Stage floor** · Stage XIV, Zenith.
+
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -54,8 +61,6 @@ Governing Primary: Ardency (Density), primary, the Sub-Stat governing the struct
 Stage floor: Stage XIV, Zenith.
 
 Grade required: EX-Grade.
-
-Path gate: Fate Path (satisfies Dominion Sovereignty's own Stage VI Fate gate).
 
 Resonant Pair: None claimed; insufficient Sub-Stat data in the source.
 
@@ -67,13 +72,13 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Tell** · Three bodies arrive at once, plainly laws rather than people, and enforce unbidden; the count shows how near the ceiling the practitioner stands. Afterward the ground stays layered with law and a Harmonist on it hears nothing.
 
-**Limits** · Three constructs, a hard ceiling; five turns; two kilometers; Command capped at SS; the Families give no native resistance to conceptual disruption.
+**Limits** · Three constructs, a hard ceiling; five turns; two kilometers; Command capped at SS; neither Wellspring gives native resistance to conceptual disruption.
 
-**Fails against** · Limina that blurs a construct's definition (Oneirion, Letheveil, Knot); a call for a fourth construct, which collapses one; Silence, which severs Animatria; fog, shielding and saturated cold, which starve the Families; a located practitioner; the end of thirty seconds.
+**Fails against** · A current that blurs a construct's definition (Oneirion, Letheveil, Knot); a call for a fourth construct, which collapses one; Silence, which severs Animatria; fog, shielding and saturated cold, which starve both Wellsprings; a located practitioner; the end of thirty seconds.
 
 **Rigidity** · Each construct enforces its Principle without negotiation; what measures favorably passes.
 
-**Look up** · The Counterplay register for Knot, Seal and Silence; the Fulguria and Caloria entries for Judicium and Exuroth Failures; the Limina entries for Oneirion and Letheveil; the Zenith Stage table and the Dominion gates.
+**Look up** · The Counterplay register for Knot, Seal and Silence; the entries for Judicium and Exuroth Failures; the entries for Oneirion and Letheveil; the Zenith Stage table and the Dominion gates.
 
 ## Numbers
 
@@ -89,8 +94,6 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 ### Essence
 
 **Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.2; Grade EX (1,201 to 1,500) in Ardency Density; Fate Path, Dominion Sovereignty gate met.
-
-**Command cap** · Dominion Command needs the Fate Path at Transcendence to pass SS, and the holder has that; the working is declared on the Sovereignty gate alone, so its authority to compel still thins above SS.
 
 | Quantity | Working | Result |
 |---|---|---|

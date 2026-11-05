@@ -58,7 +58,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 
 **The tin.** Samples go into Fixatio-anchored evidence tins, sealed inside the hour, standing on the ground. Fixatio holds what it is given. That is why an evidence seal is admissible.
 
-**The assay.** Ambient is read before and after, as a number, never an adjective. The sample is loaded dry, with no wash, so nothing soluble is lost. Then four passes: a Signature sweep, a Family sweep, Category alignment, and a full sweep with the gate open. A gate-open pass on a null field burns the coil, and a coil-carrier who expects to use one carries two.
+**The assay.** Ambient is read before and after, as a number, never an adjective. The sample is loaded dry, with no wash, so nothing soluble is lost. Then four passes: a Signature sweep, a Kind sweep, Category alignment, and a full sweep with the gate open. A gate-open pass on a null field burns the coil, and a coil-carrier who expects to use one carries two.
 
 **Below the floor.** A regulation coil looks for Crystals above the Bureau's floor, because the Bureau pays for it and the Bureau prosecutes people. The Register sweeps below that floor, down to the bottom of the range. For a minute and a half it reads nothing but noise, and the carrier holds the head steady through the noise. That is where a residue signed by something other than a practitioner shows: a Crystal at the bottom of the tier table, with no Path, no doctrine and no Domain seed in it. It burns coils.
 

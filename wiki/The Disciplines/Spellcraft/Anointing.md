@@ -2,7 +2,7 @@
 title: The Thumb of Heaven
 ---
 
-# THE THUMB OF HEAVEN (Ritus, a rite in words, hand and oil)
+# THE THUMB OF HEAVEN (Rite, a rite in words, hand and oil)
 
 *Scholars' term: Anointing.*
 
@@ -20,7 +20,7 @@ The mark does no work itself. Think of a phosphate group placed on a protein: it
 
 The rite takes five turns, thirty seconds, in one ceremonial expenditure, with the officiant pulling Aether, refining it in the Crystal and driving it out through the Shell (the Crystal's outer skin) in words and hands and oil. Glory stands below Refraction, so those anchors are required. Saturation plays no part. The Residue (what a working leaves behind) is the mark itself, a standing Traitus mark on a person that anyone with enough Aetheric perception can see. The glyphs are Lo, Wy and Ka, written in the officiant's words and laid with hand and oil. The boundary that moves is what the subject's Crystal counts as its own: a recognition site is set from outside, and nothing is added to capacity.
 
-Three Wellsprings carry it. Benediction, the Wellspring of Grace (Vitalia), makes the recognition measurable: a bond formed under it carries an affinity figure the Continuum reads, and it strengthens Harmonics Empathy, Harmonics Axis and Resilience Oath. Fixatio, the Binding Flame (Materia), cures it: it holds by making the other configuration unreachable, so the mark lasts a career and is not undone casually. Judicium, the Wellspring of Truth (Fulguria), rests on the fact that no substance can present another's spectrum, and it is the officiant's discernment and the searcher's assay alike. The Crystal then answers to the recognition. Sealed glyphs get their authorization, and a latent alignment gated on that recognition becomes reachable. The subject feels permission and no surge of power, which disappoints everyone who paid for one. In the Essence, the subject's Attraction Layer holds the recognition, their Essence Core holds the Traitus mark, and the officiant stakes their own Core. Developmental Tier is Harmonic at Glory. Where the mark wakes a latent construct-bearing capacity, Animatria comes into it as well.
+Three Wellsprings carry it. Benediction, the Wellspring of Grace (Fate), makes the recognition measurable: a bond formed under it carries an affinity figure the Continuum reads, and it strengthens Harmonics Empathy, Harmonics Axis and Resilience Oath. Fixatio, the Binding Flame (Medium), cures it: it holds by making the other configuration unreachable, so the mark lasts a career and is not undone casually. Judicium, the Wellspring of Truth (Wild), rests on the fact that no substance can present another's spectrum, and it is the officiant's discernment and the searcher's assay alike. The Crystal then answers to the recognition. Sealed glyphs get their authorization, and a latent alignment gated on that recognition becomes reachable. The subject feels permission and no surge of power, which disappoints everyone who paid for one. In the Essence, the subject's Attraction Layer holds the recognition, their Essence Core holds the Traitus mark, and the officiant stakes their own Core. Developmental Tier is Harmonic at Glory. Where the mark wakes a latent construct-bearing capacity, Animatria comes into it as well.
 
 The floor is Glory because the officiant vouches for another's purpose with their own Crystal. Below it there is no stake to lend, and the stake is what makes a false Anointing detectable at all. A genuine Anointing is a relationship: a subject chosen by a Wellspring current, an Archon or the order's standing authority. The Order of Benediction licenses it anyway, and treats that license as a decision and never as a finding. The rite confers recognition and nothing else. It cannot confer legitimacy by ceremony alone, grant dominion or rule (that is Coronation), or be undone casually. A forced or tricked Anointing can be removed only by Scission, and carries Scission's complication rate.
 
@@ -34,8 +34,6 @@ The failure is the empty rite: correct words with no current behind them make a 
 ## Numbers
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, A-Grade (276 to 400).
-
-**Path** · Oath and Axis need the Fate Path at Flourishing to pass B, Empathy at Ascension to pass C; off it the mark has low affinity and any A-Grade claim displaces it.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -54,28 +52,27 @@ The failure is the empty rite: correct words with no current behind them make a 
 
 **Duration** · The rite takes five turns (30 s); the mark is permanent with no upkeep, a standing effect that outlives the officiant's attention.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · Benediction, the Wellspring of Grace (primary); Fixatio, the Binding Flame, and Judicium, the Wellspring of Truth (secondary).
+**Path** · Spirit and Fate. The subject's Essence Core holds the mark and their Attraction Layer the recognition, and the officiant stakes their own Core.
 
-**Family** · Vitalia (Benediction); Materia (Fixatio); Fulguria (Judicium).
+**Lens** · Benediction (Fate, primary) · Fixatio (Medium), Judicium (Wild), secondary.
 
-**Physics Domain** · Biochemistry.
+**Form** · Rite. Words, hand and oil over five turns.
+
+**Gates** · Oath and Axis need the Fate Path at Flourishing to pass B, Empathy at Ascension to pass C; off it the mark has low affinity and any A-Grade claim displaces it.
+
+**Glyph** · Lo, Wy and Ka. What a thing is taken to be: what the subject's Crystal counts as its own. Nothing is added to capacity.
 
 **Phenomenon** · A recognition tag at a binding site, like a phosphate mark on a protein.
 
-**Category** · Ritus (Spirit-Aligned), with Traitus for the standing mark and Animatria where it wakes a latent construct-bearing capacity.
-
 **Skill** · Speaking, in words, hand and oil; the mark is a standing effect that outlives the officiant's attention.
 
-**Stage floor** · Glory
+**Stage floor** · Glory.
 
-**Grade required** · A-Grade
-
-**Path gate** · Fate Path at Flourishing to pass B in Oath and Axis, and at Ascension to pass C in Empathy.
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -84,8 +81,6 @@ The failure is the empty rite: correct words with no current behind them make a 
 **Stage floor** · Glory
 
 **Grade required** · A-Grade
-
-**Path gate** · Fate Path
 
 **Resonant Pair** · None
 

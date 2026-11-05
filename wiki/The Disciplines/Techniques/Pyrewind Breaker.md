@@ -4,7 +4,7 @@ title: "Everybody Out"
 
 # EVERYBODY OUT
 
-*Speaking, Phenomena, Stage VI. The scholars' term is the Pyrewind Breaker. The name people use is what you shout first, if you are any kind of friend.*
+*Speaking, Shape, Stage VI. The scholars' term is the Pyrewind Breaker. The name people use is what you shout first, if you are any kind of friend.*
 
 The fire school at the Collegium once bet the Abbot of Sawley a year's candles that fire could prove itself primary by boiling his carp pond with no help from anyone. Their champion, a cheerful woman named Gilly Brand in a coat the color of mustard, called it three times from the bank. The serpent of white and orange went in, the pond went up, and the Abbot's entire stock of carp came down over the village in a warm rain that fed four hundred people for a week and is still celebrated with a parade. Twenty-five tonnes of boiling water took the whole of the first burst and looked ready for more. Gilly took the third one without the proper rest, split something inside herself, and had to be carried in the parade.
 
@@ -18,13 +18,13 @@ The fire school at the Collegium once bet the Abbot of Sawley a year's candles t
 
 ### How it really works
 
-It starts with a shout. Below Refraction the working needs its Spoken anchor, a declaration loud enough to name the Wellspring, and a chant may carry it when the caster wants the extra output a release call buys. Hair rises, the chest tightens and the air tastes of metal, and that is all the warning anyone gets, because the pull is one burst across 3.35 × 10⁴ m³ in under a second. Caloria (the Family of heat) is favored by heat gradients and combustible air and fails in equilibrium, saturated cold and oxygen-poor air, which here also caps the chemistry.
+It starts with a shout. Below Refraction the working needs its Spoken anchor, a declaration loud enough to name the Wellspring, and a chant may carry it when the caster wants the extra output a release call buys. Hair rises, the chest tightens and the air tastes of metal, and that is all the warning anyone gets, because the pull is one burst across 3.35 × 10⁴ m³ in under a second. Exuroth is favored by heat gradients and combustible air and fails in equilibrium, saturated cold and oxygen-poor air, which here also caps the chemistry.
 
 The fire is a deflagration, a subsonic flame front, that may or may not become a detonation, where the burn locks to a shock. Blast scales by the cube root of yield, Z = R/W^(1/3), with 5 psi (34 kPa) at about 4 m from 1 kg of TNT, and in the open only about 1 percent of the energy goes into the shock. In the open it stays a deflagration and the shock outruns the flame (58 ms to the edge). Against walls the transition completes, the whole yield drives the wave, and the 5 psi radius runs 89 to 400 m. Oxygen caps the fire: a twenty-meter sphere of ordinary air holds enough oxygen for at most about 120 GJ of burning, the lower reaches of A-Grade. Past that, extra Essence buys only bleed.
 
 The glyph is Flame, governing where the reaction front may be, laid across Vastness for the twenty meters. The boundary condition is where the front may be and how fast it may run, and it touches neither fuel, oxygen nor pressure; the shock follows by itself. There is no Seal. Once declared it cannot be steered, throttled, aimed finer than its radius or recalled. A white-orange vortex coils like a serpent and bursts with a tearing roar, the shock knocks bodies down and overloads weak shields, and the fire fills the sphere until the oxygen runs out.
 
-Two Caloria Wellsprings run it. Exuroth, the Trial Flame, primary: repeated shock with controlled recovery hardens the lattice past what slow cooling reaches. That is quench and temper, 200 to 650 °C, and it lets the caster's Crystal take its own burst's thermal shock; firing again without the interval splits it. Cataclysm, the Shattered Law: a flame front given confinement and turbulence accelerates into a shock, and blast radius then grows as the cube root of yield. Both strengthen Ardency Overchannel, with Overflow risk above D and Backlash above C and no Path protection, so at A-Grade the Backlash cannot be avoided. The Aether Shell pays, projected outward, Developmental Tier Harmonic.
+Two Wellsprings of fire run it. Exuroth, the Trial Flame, primary: repeated shock with controlled recovery hardens the lattice past what slow cooling reaches. That is quench and temper, 200 to 650 °C, and it lets the caster's Crystal take its own burst's thermal shock; firing again without the interval splits it. Cataclysm, the Shattered Law: a flame front given confinement and turbulence accelerates into a shock, and blast radius then grows as the cube root of yield. Both strengthen Ardency Overchannel, with Overflow risk above D and Backlash above C and no Path protection, so at A-Grade the Backlash cannot be avoided. The Aether Shell pays, projected outward, Developmental Tier Harmonic.
 
 The inherited failures are the two ways this art kills its owner. Exuroth's quench cracking comes when the interval is skipped, and with Overchannel Backlash it reads as internal overheating, the Structural fault. Cataclysm's reflected overpressure is the wave returning to its origin in confinement, the Boundary fault: in a closed room the reflected shock comes home to the caster, who takes the wave plus its reflection. At η 0.60 to 0.70, 30 to 40 percent leaves the Shell as heat and sound, indistinguishable from the effect, so a low-efficiency caster suits this working very well. The Residue is heavy and physical, char and ash that Cinerion can metabolize. The ground deafens Harmonists for a while, and repeated bursts in one place push it toward saturation and Crystal Fracture for everyone present.
 
@@ -35,7 +35,7 @@ The inherited failures are the two ways this art kills its owner. Exuroth's quen
 
 ### Counterplay
 
-**Tell** · A spoken Caloria declaration, a white-orange serpent of flame, then rising hair, chest pressure and a metal taste before the heat. Afterward a twenty-meter ring of char and an oxygen-starved hollow.
+**Tell** · A spoken declaration, a white-orange serpent of flame, then rising hair, chest pressure and a metal taste before the heat. Afterward a twenty-meter ring of char and an oxygen-starved hollow.
 
 **Limits** · 20 m; under a second; no steering, throttling, aiming or recall; capped at 120 GJ of fire by the room's oxygen.
 
@@ -43,7 +43,7 @@ The inherited failures are the two ways this art kills its owner. Exuroth's quen
 
 **Blindness** · It spares nothing inside twenty meters, including what the practitioner would protect; a second burst inside the tempering interval comes untempered.
 
-**Look up** · The Caloria terrain entries; Phreatis, Cinerion and Verdantia; the Caloria Failures for Exuroth and Cataclysm; Overchannel risks; the Glory Stage table; the A-Grade band.
+**Look up** · The Ground of Exuroth and Cataclysm on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Phreatis, Cinerion and Verdantia; the Failures of Exuroth and Cataclysm; Overchannel risks; the Glory Stage table; the A-Grade band.
 
 ### Numbers
 
@@ -72,18 +72,25 @@ The inherited failures are the two ways this art kills its owner. Exuroth's quen
 
 ### Codex line
 
-- **Wellspring** · Exuroth (primary), Cataclysm (secondary)
-- **Family** · Caloria (both)
-- **Physics Domain** · Thermodynamics
-- **Category** · Phenomena
-- **Skill** · Speaking (*Ars Vocis*; declared, with a chant carrying the working when the caster wants the extra output a release call buys)
-- **Stage floor** · Stage VI, Glory
-- **Grade required** · A-Grade
-- **Path gate** · Spirit, Body
+**Path** · Body and Spirit. Fire on matter reads the Aether Shell, and the twenty-meter burst is projected force at range.
+
+**Lens** · Exuroth (Wild, primary) · Cataclysm (Wild, secondary).
+
+**Form** · Shape. A serpent of flame coiled and burst.
+
+**Gates** · None past the Path's ordinary gates.
+
+**Glyph** · Flame across Vastness. A physical limit: where the reaction front may be and how fast it may run. It touches neither fuel, oxygen nor pressure.
+
+**Skill** · Speaking (*Ars Vocis*; declared, with a chant carrying the working when the caster wants the extra output a release call buys).
+
+**Stage floor** · Stage VI, Glory.
+
+**Grade required** · A-Grade.
 
 ### FOW line
 
-Governing Primary: Ardency, off Exuroth's Ardency Overchannel and Cataclysm's Ardency Cascade and Ardency Overchannel, with Dominion Radius carried alongside for the burst's spread. Stage floor Stage VI, Glory. Grade required A-Grade. Path gate Spirit and Body. Resonant Pair: none.
+Governing Primary: Ardency, off Exuroth's Ardency Overchannel and Cataclysm's Ardency Cascade and Ardency Overchannel, with Dominion Radius carried alongside for the burst's spread. Stage floor Stage VI, Glory. Grade required A-Grade. Resonant Pair: none.
 
 ### Origin
 

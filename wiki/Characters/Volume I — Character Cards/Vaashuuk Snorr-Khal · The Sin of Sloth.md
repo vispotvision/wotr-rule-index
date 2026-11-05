@@ -5,7 +5,7 @@
 **Vaashuuk Snorr-Khal** · The Sin of Sloth · Goblin, the Hobgoblin Expanse · as of the bottom of the Pit, the hour the Wrath woke
 **Stat line** · Level 380 · Band IV, Mythic · Stage X, Realization · Path Fate 55% / Spirit 45% · Master · η 0.94 · Class unnamed · Aether II · Essence IV · Thread V · Crystal Sovereign, Refined
 **Combat grammar** · Expenditure
-**Aura and sound** · Limina at Realization's clarity, pale and clean, the drowsy lavender end of the Family's range, a syrupy shimmer like heat-haze gone thick, droplets hanging in it; sound: a long jaw-cracking yawn, then a low hum like a pane of glass ringing very slowly
+**Aura and sound** · Hypnather at Realization's clarity, pale and clean, a glassy violet gone to drowsy lavender, a syrupy shimmer like heat-haze gone thick, droplets hanging in it; sound: a long jaw-cracking yawn, then a low hum like a pane of glass ringing very slowly
 **Stack** · sustainable SS in Projection and Longevity · cap +2 Grades · layers: FEATHERBED, the Snooze-Glass charge, TAR TIME or the Lie-In when called
 **Releases** · FEATHERBED (First Release) / THE LIE-IN (Second Release) / no Third; he could have one and has not got round to it · bonded weapon: none; the Snooze-Glass rides at his shoulder
 **Traits** · TORPOR (Primary) · tell: he never hurries, even when he should · counter: hit him early and fast, before he is awake / DOK (Secondary) · tell: every verb he speaks is unfinished · counter: corner him until he has to finish something / DROWSE (Passive) · tell: everyone near him yawns · counter: noise, pain, cold water
@@ -50,9 +50,9 @@
 
 ## III. Wellspring Harmonizations
 
-**Hypnather** · the Sleep Crown · Limina · Depth: baptised at its Core · structural relaxation, a glass aging toward the order it never reached; he sleeps like the dead and wakes structurally different, and what he does to a room is make it into a glass
-**Nyxial** · the Nocturne Flame · Caloria · Depth: held · a body of huge heat capacity under a feedback loop that holds its own temperature whatever the room does; why he calls himself fireproof, and why a long fire he has been holding against comes out of him all at once when it lifts
-**Abython** · the Abyssal Pulse · Vectoria · Depth: held · he matches the medium instead of opposing it, so in his own thickened air he carries no differential and moves as if nothing had changed; it also lets him lie on glassed air at neutral buoyancy
+**Hypnather** · the Sleep Crown · Spirit · Depth: baptised at its Core · structural relaxation, a glass aging toward the order it never reached; he sleeps like the dead and wakes structurally different, and what he does to a room is make it into a glass
+**Nyxial** · the Nocturne Flame · Spirit · Depth: held · a body of huge heat capacity under a feedback loop that holds its own temperature whatever the room does; why he calls himself fireproof, and why a long fire he has been holding against comes out of him all at once when it lifts
+**Abython** · the Abyssal Pulse · Wild · Depth: held · he matches the medium instead of opposing it, so in his own thickened air he carries no differential and moves as if nothing had changed; it also lets him lie on glassed air at neutral buoyancy
 
 ## IV. Primary Stats
 

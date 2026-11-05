@@ -40,6 +40,8 @@ So that is the entry: a beast that weighs as much as an ox and a half, walks at 
 | **Crystal Developmental Tier** | **Resonant** |
 | **Crystal State** | **Overgrown.** The accretion is visible and hangs at its hip |
 | **Aether Class** | **III · Resonant** |
+| **Essence Class** | **III · Confessor.** It knows what it carries, every one of them, which is the part its summoner does not get to refuse |
+| **Thread Class** | **II · Drawn.** A promise holds it to the road, and it can lean on that promise and on little else |
 | **Summon Stability Facet** | **B.** Agrees with Tier III's C-to-B range, sitting at the ceiling of it, and the reason is the Native provenance rather than anything Hae-ryu does well |
 | **Traits** | *Bearer's Exemption.* It is not subject to the drag of its own Cord while a carriage is active. *Uncounted.* The Lattice property altered is the accretion's count. Each arrested carriage is integrated into the Overgrown accretion at its hip as load, and load is what the Crystal holds and reports; the tally is held nowhere, so no observation of the skulls, by eye or by instrument, returns a number that a second observation confirms. No two witnesses agree, and the disagreement is not a perception effect anyone has been able to isolate. The load itself is unaltered and reads identically to every witness, which is what Deadweight scales with. No real number is fixed. *Weight-Sense.* It knows, on arrival, how many dead are within four hundred paces and how long each has been waiting |
 | **Domain** | None. It has never formed one and Hae-ryu has stated in writing that she hopes it never does, which the Bench has entered into the record without comment |
@@ -50,9 +52,10 @@ So that is the entry: a beast that weighs as much as an ox and a half, walks at 
 
 | **Primary Wellspring** | **Oblation**, the Offering Flame. Temperance through sacrifice, giving becomes becoming. Harmonized by Hae-ryu at Stage VII and the only harmonization in her record that she did not choose |
 |---|---|
-| **Secondary Wellspring** | **Mortalis**, the Black Gate, ending becomes passage. House of Vitalia by Codex assignment, which is the seam that makes this construct strange to read: a thing this concerned with dying takes half its grammar from the living Family |
-| **House Resonance** | Fluxia carries it, and Fluxia produces forms that move and do not stop. Nothing about the Mule is anchored. Everything about it is transport, and the Mortalis secondary is what keeps the transport from being merely mechanical, since Vitalia insists that what is being moved was recently a person |
-| **Essence Family** | **Fluxia**, with an attested Mortalis-Vitalia secondary |
+| **Secondary Wellspring** | **Mortalis**, the Black Gate, ending becomes passage. A Medium Wellspring, at home on all three planes, which is the seam that makes this construct strange to read: a thing this concerned with dying takes half its grammar from a law that keeps to the living as well |
+| **Kind Resonance** | Oblation carries it, a Fate Wellspring, the law of what is given up, and it produces forms that carry a debt and do not stop. Nothing about the Mule is anchored. Everything about it is transport, and the Mortalis secondary is what keeps the transport from being merely mechanical, since Mortalis insists that what is being moved was recently a person |
+| **Kind** | **Fate**, with a Medium secondary in Mortalis |
+| **Leans on** | The Attraction Layer. *Body:* take the road away, since a thing that carries a debt along a road needs the road. *Spirit:* the hand on the debt shows on its Core, and it is carrying a great many Cores besides. *Fate:* what it owes can be argued, at length, by someone with standing |
 | **Physics Domain** | **Fluid Dynamics.** Every Mechanism field below is gradient, pressure, or drag. Nothing in the kit is impact and nothing in it is heat |
 | **The Donation** | The donation runs as weight. Witnesses reach for weight rather than for light or heat when they describe the calling: the sensation of something heavy being set down nearby, felt in the knees and the base of the spine before the eyes find anything |
 
@@ -60,11 +63,11 @@ So that is the entry: a beast that weighs as much as an ox and a half, walks at 
 
 ## IV · The Draft
 
-| **Authorization Glyph** | **[Vo] Voice.** A spoken fate-tag binds an oath to its listener. Attested at Oblation and Thaloré, Family Fluxia. The Authorization role here is a promise rather than a permission, and the Aperture branch has always drafted it that way |
+| **Authorization Glyph** | **[Vo] Voice.** A spoken fate-tag binds an oath to its listener. Attested at Oblation and Thaloré. The Authorization role here is a promise rather than a permission, and the Aperture branch has always drafted it that way |
 |---|---|
-| **Boundary Glyph** | **[RenB] Boundary.** Establishes metaphysical borders and wards. Attested Fluxia through Thaloré |
-| **Direction Glyph** | **[Vor] Return.** Recycles Essence, prevents restless dead. Somnalis primary, attested at Mortalis, Fluxia, Fluid Dynamics. The behavioral vector is *carry*, and Return is the only glyph in the index that means carry rather than move |
-| **Sealing Glyph** | **[Sil] Silence.** Mutes hostile resonance, dignified stillness. Attested at Somnalis, Family Fluxia |
+| **Boundary Glyph** | **[RenB] Boundary.** Establishes metaphysical borders and wards. Attested through Thaloré |
+| **Direction Glyph** | **[Vor] Return.** Recycles Essence, prevents restless dead. Somnalis primary, attested at Mortalis, Fluid Dynamics. The behavioral vector is *carry*, and Return is the only glyph in the index that means carry rather than move |
+| **Sealing Glyph** | **[Sil] Silence.** Mutes hostile resonance, dignified stillness. Attested at Somnalis |
 | **Invocation** | *"Veni tu qui portas. Nomino mortuum."*   Come, you who carry. I name the dead |
 | **Material Anchor** | A length of gold cord, three spans, kept coiled at Hae-ryu's belt and never cut. It is the same cord. The construct's rope and her rope are one object appearing in two places, which is a claim the Division of Concordia has recorded and declined to test. Taking the anchor does not banish the construct. It transfers the naming-right to whoever holds the cord, which is considerably worse, and is the reason she does not put it down |
 | **Circle Requirement** | Open Draft-circle, four glyph-roles laid in salt or in blood, three paces minimum radius. No ceremonial infrastructure. Hae-ryu has laid it one-handed on a tilting deck and it held |
@@ -142,9 +145,9 @@ Under strain it counts. Out loud, evenly, in no language anyone in the Aperture 
 
   **Vow:** The carriage will be completed. Hae-ryu may not recall the construct mid-carriage. Attempting it forfeits the naming-right for one year and adds to the cord regardless.
 
-  **Counterplay:** Take the road away. Harmonic Silence, Nihiloth-scoured ground, an active Entombment, or a sufficiently dense Limina field arrests the transfer and stops the walk cold. A competent opponent who recognizes the form does not attack the construct at all. They attack the ground in front of it.
+  **Counterplay:** Take the road away. Harmonic Silence, Nihiloth-scoured ground, an active Entombment, or a sufficiently dense Nihiloth field arrests the transfer and stops the walk cold. A competent opponent who recognizes the form does not attack the construct at all. They attack the ground in front of it.
 
-  **Codex Assignment:** [Ob] · [Vor] · [Au] · Oblation primary, Mortalis secondary · Fluxia · Fluid Dynamics
+  **Codex Assignment:** [Ob] · [Vor] · [Au] · Oblation primary, Mortalis secondary · Fluid Dynamics
 
   **First Display:** Planted at a burial rather than a battle. A single farmhand, no stakes, the construct called for one man and walking him three fields over while Hae-ryu stands in the doorway with her hands open and does not move for eleven minutes. Nobody in that scene understands they have watched a weapon.
 
@@ -180,7 +183,7 @@ Under strain it counts. Out loud, evenly, in no language anyone in the Aperture 
 
   **Counterplay:** Do not be touched by it, which is easier than it sounds because it walks at a walk. Failing that, the four-second slack window after each use is the entire opening. Radiant current disrupts the load path at the shoulder and drops the applied figure sharply, which is the standard Accord answer and the reason Arbitration teams deploy with Luminalis harmonization when this entry is expected.
 
-  **Codex Assignment:** [Ob] · [Abys] · [Th] · Oblation primary, Mortalis secondary · Fluxia · Fluid Dynamics. **Amended 2026-09-12:** [Abys] Deep's Master Codex row now carries Oblation among its attested Wellsprings and Fluxia among its attested Families, taken on this entry's pitch; the amendment is recorded in Section XIII and on the Master Glyph Index. [Th] Foundation keeps its Petralon-Vectoria-Mechanics row and stays cross-family, and Deadweight remains the roster's one cross-family chain.
+  **Codex Assignment:** [Ob] · [Abys] · [Th] · Oblation primary, Mortalis secondary · Fluid Dynamics. [Abys] Deep's row in the Master Glyph Index carries Oblation among its attested Wellsprings on the strength of this working. [Th] Foundation keeps its Petralon row in Mechanics and stays cross-domain, and Deadweight remains the roster's one cross-domain chain.
 
   **First Display:** Against a door. A barred household door at Yeol-gol, nobody behind it, the construct setting a forelimb on it and the door failing in a way doors do not fail: the boards intact, every nail driven out of them and lying on the floor.
 
@@ -216,7 +219,7 @@ Under strain it counts. Out loud, evenly, in no language anyone in the Aperture 
 
   **Counterplay:** Walk. The whole of the counterplay is walk, and the reason it works anyway is that almost nobody in a fight can make themselves do it. Beyond that: separation from Oblation ground degrades the enclosure quickly, and the loop cannot be re-laid inside two minutes of collapsing.
 
-  **Codex Assignment:** [RenB] · [Sil] · [Ob] · Oblation primary, Mortalis secondary · Fluxia · Fluid Dynamics. All three glyphs attested at Fluxia.
+  **Codex Assignment:** [RenB] · [Sil] · [Ob] · Oblation primary, Mortalis secondary · Fluid Dynamics.
 
   **First Display:** In a market. A runaway cart, a child, the construct laying its rope in the road, and the cart arriving at the child's feet at a walking pace with the driver still screaming at a horse that has stopped being able to run.
 
@@ -270,21 +273,3 @@ Signature legibility applies and is unusually loud here. The cold seam and the f
 **Yeol-gol**, household ledger, undated entry in the seventh generation hand. The uncle's name and the six hours in the doorway. The household ledger records the refusal, records who eventually spoke the name correctly, and records nothing about the uncle. Yeol-gol village tradition, which is not archival and is marked here as folk account, holds that the uncle left the seat that winter and that the doorway is a different doorway from the one the ledger means. Both readings survive locally and the households that hold each one do not eat together.
 
 **Sum-gol**, no Accord record, no household entry. Field accounts only, four of them, from three different companies, and they agree on the sequence and disagree on the count of the dead by a factor the register declines to average. Marked as rumor. Retained because all four independently describe the construct counting aloud, and because two of them, who did not know each other, wrote down the same number.
-
----
-
-## XIII · Open Rulings
-
-**Kwon Hae-ryu is an origination, ruled.** Canon establishes that Mu-jin's branch of the Mahuo line lost the Aperture branch's capacity to host a soul population directly, which means the Aperture branch exists and is undescribed. Hae-ryu, the Yeol-gol seat, and the naming-right structure are all built into that documented gap rather than lifted from anything. She was a pitch. Ruled 2026-09-12: the Aperture branch is open to origination, there is no undisclosed plan for it, and Hae-ryu, the Yeol-gol seat, and the naming-right structure stand as written.
-
-**Name built through the four passes.** *Obrenkael* is High Parunic compounding on attested glyph morphemes, no clusters that violate the register, three syllables, tested aloud beside Cozbi, Mu-jin, Sodoku, Rengai. *Kwon Hae-ryu of Yeol-gol* follows the Mahuo Korean institutional structure: lineage name, two-syllable given name with generational element, hollow-seat on the established Sum-gol pattern with a suffix that means something. *Yeol-gol*, Open Hollow, for the Aperture branch. The generational element *Hae-* stands as canon. Ruled 2026-09-12.
-
-**EU figures ruled.** Call cost is given as 9% of reserve, and the absolute number now stands behind it. Ruled 2026-09-12: Kwon Hae-ryu's EU Reserve is 90,000,000 EU, at Level 355, Stage X Realization, Band IV, and the Call Cost at 9% is approximately 8,100,000 EU. The figure is a log-linear interpolation on Level between the project's fixed anchors, Ara Min at Level 250, roughly 4,200,000, and Borin Ironheart at Level 378, 180,000,000 estimated, and the Borin-to-Mu-jin slope, 850,000,000 at Level 430, confirms it. `Fracture_of_Worlds.pdf` establishes that EU scales with Temperance Stage and is governed by Tempering Yield and gives no Band-by-Band reserve table, so the interpolation is the method and not a source. Borin's figure keeps its estimate marking and Raga's entry, which says only that a Stage X summoner spends most of what he has, stays a loose neighbor; neither is contradicted by this reserve.
-
-**Codex amendment taken.** Deadweight runs [Abys] Deep and [Th] Foundation, and neither was attested at Oblation in the Master Glyph Index. [Abys] carried Abyntheus, Fulguria, Electromagnetism. [Th] carries Petralon, Vectoria, Mechanics. Ruled 2026-09-12: [Abys] Deep's attested Wellspring list is extended to include Oblation and its attested Family list to include Fluxia, on the reasoning that a directional undertow of sub-Realm pressure is what a psychopomp's road *is*, and that Abyntheus and Oblation are both already pressure-grammar Wellsprings under different Archons. [Th] Foundation stays cross-family and Deadweight remains the roster's one cross-family chain. The extension is recorded under Amendments on the Master Glyph Index page. Deadweight stands as drafted and is not rebuilt.
-
-**The skull count contradiction is deliberate, ruled.** *Uncounted* stays a Trait in Section II, which makes it a mechanical property rather than an atmospheric one, and Pack Seventeen's Trait rule (R17-5-TRAIT_SCOPE) requires a Trait to name the Lattice property it alters, so the line now does: the property is the accretion's count, and the alteration is that no observation of it returns a number a second observation confirms, while the load reads identically to everyone. Ruled 2026-09-12: the Trait stands, the Lattice property is named, and no real number of skulls is ever fixed. The register's position that nothing should be true about the real number is now the ruling rather than a position.
-
-**Unresolved against the existing roster.** Mu-jin's Book of Summons establishes his branch as the one that lost this aptitude, and The Index is described as World-Tethered-adjacent, borrowing anchor stability from a location. The Mule borrows nothing and owns its own Crystal. Those two entries sitting in the same register invite a direct comparison that has not been written. Whether Mu-jin has ever met an Aperture-branch practitioner, and what he thinks about a cousin-line that can do the thing his line was built to regret losing, is an open scene.
-
-**Bench objection status ruled.** The Arbitration Division objection recorded in Section I, that an entity accruing strength from its summoner's failures cannot be described as bound, is the strongest legal hook this entry has. Ruled 2026-09-12: the Bench of Attribution hears it, in a three-chair session, the Doctrine chair reading the Wellspring-authorization question, whether the Wellspring invoked recognizes the invoker as an authorized channel, and Arbitration sitting as both objector and Ruling chair. The objection is entered as a Reservation, which withholds a standing pending determination, and the determination is not written; what the Bench eventually says is open. The Praetoria retcon changes nothing here: no page ties the Praetoria to any Accord body, and the Bench is the body hearing it.

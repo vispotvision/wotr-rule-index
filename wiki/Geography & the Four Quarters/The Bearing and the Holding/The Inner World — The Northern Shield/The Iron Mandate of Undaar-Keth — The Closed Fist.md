@@ -66,7 +66,7 @@ The Ashenmoor interior is the picture the Mandate does not hang in its offices: 
 
 > **Basalt is the goblinoid's native substrate.** The Crimson Order's asteroidal inheritance (the mineral of the First Impact, carried in the blood) responds to dense igneous rock as nothing else: **the ground that feels correct, the stone that holds weight the way weight was meant to be held.**
 
-Dark, heavy, angular, with walls thick enough to absorb siege-engine impact and **streets laid out in a grid that moves soldiers, grain and spears from any quarter to any gate at a dead run.** Under the plateau are the dry Undaar deeps, cut vaults kept bone dry on purpose, where a fluid-worker (a Fluxia adept, who cannot act without a medium) finds nothing to work with and is shown the way out.
+Dark, heavy, angular, with walls thick enough to absorb siege-engine impact and **streets laid out in a grid that moves soldiers, grain and spears from any quarter to any gate at a dead run.** Under the plateau are the dry Undaar deeps, cut vaults kept bone dry on purpose, where a fluid-worker (a Phreatis adept, who cannot act without a medium) finds nothing to work with and is shown the way out.
 
 > **The grid is doctrine.**
 >

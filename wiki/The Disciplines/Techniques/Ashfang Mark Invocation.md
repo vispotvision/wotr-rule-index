@@ -6,7 +6,7 @@ title: The Bone Inheritance
 
 *The rolls file it as Ashfang Mark Invocation, the scholars' term, and hunters' children call it the Wearing.*
 
-## THE BONE INHERITANCE (Ashfang Mark Invocation) (Synergia, Stage VI)
+## THE BONE INHERITANCE (Ashfang Mark Invocation) (Strike, Stage VI)
 
 Sabina Cribb ran drake talons over the Scaur passes for nineteen years in the false bottom of a cheese cart, sold them in Marrowgate at six times their weight in silver, and every one was a heron's foot boiled in strong tea. She told her buyers to grip it and open a vein, and they did, in taverns, in front of their friends, and nothing happened except blood on the table. Then one wet autumn a quiet man off the Vorynn Trials walked into the Tarred Oar with a real talon on his belt, gripped it, cut his arm, and rose off the floorboards with his boots dangling, while the whole taproom heard his heart going like a man falling down a stair. Cribb sold the cart that night.
 
@@ -24,7 +24,7 @@ The practitioner grips a talon from a beast he killed and opens a blood channel 
 
 The physics is bone char as a catalyst. Burned bone is a vast-surface scaffold of mineral and carbon that keeps the print of what made it and speeds reactions at those sites, a village square folded into a bone. The law is heterogeneous catalysis: a catalyst lowers the barrier and never shifts the equilibrium, its active sites are finite and taken competitively, and its activity decays roughly exponentially with use. Three rules follow. The trait cannot pass the practitioner's own ceiling however vast the beast. Only one trait fits the finite surface, so a second talon in the other hand does nothing. Each reuse of a talon is weaker as its sites foul. A catalyst supplies no energy either, so the talon gives only the template, and the expression runs on the practitioner while his heart carries the strain. The heart is the binding constraint. The hardest expression, flight, needs about fifty times what a maximal heart can deliver.
 
-The Aether side is a small pull, one hand, one bone, one blood channel. The Residue is the talon itself, readable by anyone patient; each use spends it, and the ground where one was used deafens Harmonists (those who read a place by ear) for a while. Caloria favors steep thermal gradients, combustible air and geothermal ground; thermal equilibrium, saturated cold and oxygen-poor air suppress it. Two Wellsprings carry it. Cinerion, the Ash Veil (Caloria), is primary: what survives a fire is a catalytic scaffold, and it holds the talon's print and reclaims part of the practitioner's own waste, giving Tempering Yield and Harmonics Stability. Petralon, the Foundation Stone (Vectoria), routes every load into compression and accepts slow creep; it reads the talon's thread and carries the graft through the frame, giving Vitality Constitution and Dominion Gravity.
+The Aether side is a small pull, one hand, one bone, one blood channel. The Residue is the talon itself, readable by anyone patient; each use spends it, and the ground where one was used deafens Harmonists (those who read a place by ear) for a while. Cinerion's Ground favors steep thermal gradients, combustible air and geothermal ground; thermal equilibrium, saturated cold and oxygen-poor air suppress it. Two Wellsprings carry it. Cinerion, the Ash Veil (Wild), is primary: what survives a fire is a catalytic scaffold, and it holds the talon's print and reclaims part of the practitioner's own waste, giving Tempering Yield and Harmonics Stability. Petralon, the Foundation Stone (Wild), routes every load into compression and accepts slow creep; it reads the talon's thread and carries the graft through the frame, giving Vitality Constitution and Dominion Gravity.
 
 Both failures ride along and either can be induced from outside. Cinerion's fouling coats the conduit and collapses recovery just when the most is spent, which is the thinning talon. Petralon's tensile exposure parts any structure loaded in tension, a heart wall included. The Shell takes it as ash-gray veins along the graft path, Clouding (the Shell's slow failure) showing in tissue; Developmental Tier at the floor is Harmonic. The named failure is a structural fault: the graft works, the body cannot fund it, and the structure that fails is cardiac. An Essence seal or identity-stripping working on the beast before contact leaves no print to read, and the talon is only a bone. The bleed is 45 percent, leaving the Shell as heat, sound and light, less what Cinerion reclaims from his own combustion.
 
@@ -38,21 +38,21 @@ The theory is the Residue Position, which says every Wellspring is the residue o
 
 ### Codex line
 
-**Wellspring** · Cinerion (primary, Caloria) · Petralon (secondary, Vectoria)
+**Path** · Body. The Aether Shell is re-read against a beast's template, and the frame pays.
 
-**Family** · Caloria / Vectoria
+**Lens** · Cinerion (Wild, primary) · Petralon (Wild, secondary).
 
-**Physics Domain** · Thermodynamics (Cinerion) · Mechanics (Petralon)
+**Form** · Strike. One thing the beast could do, run through a body in motion at its own size.
 
-**Category** · Synergia
+**Gates** · Constitution needs Body Path at Welling to pass D, or the frame and heart stay untrained and fail sooner; the gravitational part of Tolerance needs Fate Path at Glory.
 
-**Skill** · Bodily speaking, anchored in the hand and the blood on a bone he killed for, and held as long as it is paid and the heart holds
+**Glyph** · Form across Equivalence. A physical limit: which template the Shell's conductivity map is read against, for the duration.
 
-**Stage floor** · VI, Glory
+**Skill** · Bodily speaking, anchored in the hand and the blood on a bone he killed for, and held as long as it is paid and the heart holds.
 
-**Grade required** · B-Grade
+**Stage floor** · VI, Glory.
 
-**Path gate** · Body
+**Grade required** · B-Grade.
 
 ### FOW line
 
@@ -63,8 +63,6 @@ The theory is the Residue Position, which says every Wellspring is the residue o
 **Stage floor** · VI, Glory.
 
 **Grade required** · B-Grade.
-
-**Path gate** · Body.
 
 **Resonant Pair · None.**
 
@@ -80,7 +78,7 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 
 **Fails against** · A beast sealed or stripped before contact; a broken hand at Glory; saturated cold; a graft forced to pull rather than push; a lost trophy belt, or the good talon spent on a feint; a volley against borrowed flight.
 
-**Look up** · The Caloria and Vectoria entries for Cinerion and Petralon Failures; Caloria's favored and suppressive ground; Essence seals; the Glory Stage table and the Body Path gates.
+**Look up** · The entries for Cinerion and Petralon Failures; the Ground of Cinerion and Petralon on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Essence seals; the Glory Stage table and the Body Path gates.
 
 ## Numbers
 
@@ -96,8 +94,6 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 ### Essence
 
 **Practitioner** · Glory, Expert, Max Grade A (ceiling 400), B-Grade (176 to 275) Tempering required, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70. Tempering Maturity and Gnosis Perception govern.
-
-**Paths** · Body: Constitution needs Body Path at Welling to pass D, or the frame and heart stay untrained and fail sooner; the gravitational part of Tolerance needs Fate Path at Glory.
 
 | Quantity | Working | Result |
 |---|---|---|

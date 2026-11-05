@@ -158,7 +158,7 @@ Ambient Wellspring saturation across the shield runs high and steady, which visi
 
 **Shieldgneiss** · *T2 · Stone · Basement outcrop across the whole quarter*
 
-Banded, coarse, brutally hard, and effectively without Holding. Inert to nine Wellsprings in ten. **This is the reason a Measurewright array laid on the northern shield stays exactly where it was put for a century**, and why the Accord sites its most sensitive grid-work here rather than anywhere more convenient. Bearing exceptional, Holding negligible. Resonance: Petralon, weakly. Family Materia, Domain Material Science.
+Banded, coarse, brutally hard, and effectively without Holding. Inert to nine Wellsprings in ten. **This is the reason a Measurewright array laid on the northern shield stays exactly where it was put for a century**, and why the Accord sites its most sensitive grid-work here rather than anywhere more convenient. Bearing exceptional, Holding negligible. Resonance: Petralon, weakly. Domain Material Science.
 
 **Greystone** · *T2 · Stone · Quarrylands of the western marches*
 
@@ -182,14 +182,14 @@ Oak and black spruce drowned when the ice dammed the northern drainage, buried i
 >
 > It also happens to preserve food. **The northern oath-bound trade houses have never needed to lie about the value of what they sell.**
 >
-> Bearing poor, Holding deliberately nil. Resonance: Fixatio. Family Materia, Domain Material Science. Fails in standing water, which is why the chain-cities are obsessive about their drainage in a way outsiders find comic until the first collapse.
+> Bearing poor, Holding deliberately nil. Resonance: Fixatio. Domain Material Science. Fails in standing water, which is why the chain-cities are obsessive about their drainage in a way outsiders find comic until the first collapse.
 **Blackcap Sulfide** · *T3 · Metal ore · Melt sheet beneath the Ring*
 
-Massive nickel and copper sulfide with a platinoid fraction, concentrated where the impact melt cooled and settled. Alloyed into iron it produces a metal that **keeps its temper inside a forge-array's working field**, where ordinary steel goes soft and stupid. Every crucible tong, array clamp, and furnace door hinge worth owning is Blackcap alloy. Bearing very good, Holding moderate. Resonance: Manganthra. Family Materia, Domain Material Science. Roasting it releases a sulfur fume that has killed the vegetation for six leagues downwind of the Ring smelters and shows no sign of stopping.
+Massive nickel and copper sulfide with a platinoid fraction, concentrated where the impact melt cooled and settled. Alloyed into iron it produces a metal that **keeps its temper inside a forge-array's working field**, where ordinary steel goes soft and stupid. Every crucible tong, array clamp, and furnace door hinge worth owning is Blackcap alloy. Bearing very good, Holding moderate. Resonance: Manganthra. Domain Material Science. Roasting it releases a sulfur fume that has killed the vegetation for six leagues downwind of the Ring smelters and shows no sign of stopping.
 
 **Clearbeam Beryl** · *T4 · Crystal · Pegmatite dikes on the northern margin*
 
-Optically flawless beryl in crystals occasionally longer than a man. Ground into lenses it passes Essence-light without the scatter that quartz introduces, which makes it **the only acceptable stock for holding coils, assay glasses, and long-range Aetheric instruments.** The Skyglass Archive is glazed with it. Bearing brittle, Holding high and clean. Resonance: Luminalis, Mirithane. Family Fulguria, Domain Electromagnetism.
+Optically flawless beryl in crystals occasionally longer than a man. Ground into lenses it passes Essence-light without the scatter that quartz introduces, which makes it **the only acceptable stock for holding coils, assay glasses, and long-range Aetheric instruments.** The Skyglass Archive is glazed with it. Bearing brittle, Holding high and clean. Resonance: Luminalis, Mirithane. Domain Electromagnetism.
 
 **Ghoststeel** · *T3 · Metal · Recovered from Spirit War ruins across the shield*
 

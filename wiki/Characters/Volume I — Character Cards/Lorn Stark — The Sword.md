@@ -5,7 +5,7 @@
 **Lorn Stark** · The Sword · Kharven, House Stark · as of the morning of the seven lines in the Hall of Verdicts
 **Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade
-**Aura and sound** · the Stark cold rather than a Family hue: a warm dark gray at Flourishing's clarity with a hard white rime over it that silvers timber and stiffens snow round his boots; sound: the creak of a frozen lake taking weight
+**Aura and sound** · the Stark cold rather than a Wellspring's hue: a warm dark gray at Flourishing's clarity with a hard white rime over it that silvers timber and stiffens snow round his boots; sound: the creak of a frozen lake taking weight
 **Stack** · sustainable B in Penetration, Fortitude and Constitution · cap +2 Grades · layers: FROSTFALL when called, a sworn vow when spoken
 **Releases** · FROSTFALL (First Release) · bonded weapon: the Stark sword; his father's axe rides on his back unbonded
 **Traits** · STARK RIME (Inherited) · tell: his breath stops steaming and his beard whitens · counter: heat, and keeping him calm / A LINE IN THE SNOW (Primary) · tell: the sword's point drawn through the ground · counter: go round the line's ends / BY THE SKY THAT COVERS US (Secondary) · tell: right fist pressed once to the breastbone · counter: set two of his oaths against each other

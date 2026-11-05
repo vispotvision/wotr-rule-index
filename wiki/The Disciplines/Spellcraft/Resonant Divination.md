@@ -2,7 +2,7 @@
 title: The Ear of Fate
 ---
 
-# THE EAR OF FATE (Harmonia, the third Applied Branch of the Harmonic Arts)
+# THE EAR OF FATE (Read, the third Applied Branch of the Harmonic Arts)
 
 *Scholars' term: Resonant Divination.*
 
@@ -24,7 +24,7 @@ The charge is a person holding very still somewhere else, nothing taken, nothing
 
 The bond assembles itself: its strength, its damping, its phase. From that the Diviner learns the subject's relational map, the bonds under strain, a recently cut bond and roughly who cut it, and which entanglements are nearing convergence. What is being read is the causal web's own vibration, the Attraction currents along every bond, oath, debt and recognition. Bond Reading and Resonant Tracking (a ringdown) open at Transcendence; Fate Entanglement Analysis and Convergence Forecasting at Realization; Dissonance Warning, the same read over an institution, at Emanation. It reads and moves nothing, and hearing a thread is no grip on one.
 
-No Aether is pulled to a Wellspring's law for this; the art is a mode of listening laid over the Sixty, and two laws are read as they stand. Transference, the Living Exchange (Spatium): two matched oscillators trade energy without a conductor, falling off with distance, and a bond is such a coupled pair, observed from outside. Benediction, the Wellspring of Grace (Vitalia): a bond carries a measurable affinity, so the reading returns strengths and spares you impressions. Benediction's failure, competitive inhibition, is the art's blind spot: a displaced bond reads at full strength until called on, so a betrayal in progress looks healthy, and a bought loyalty is confirmed as true. The glyph is Frequency laid across Binding, Frequency opening the band and Binding naming the bond listened across. This is the only Harmonic branch that lives in the Attraction Layer: the Diviner reads the Fate layer of others through the Veil with their own Attraction Layer as receiver. Developmental Tier is Radiant at Transcendence, Sovereign from Invocation. It needs no anchor, being internalized at Transcendence, and the Conclave's tonal chant is style and no requirement.
+No Aether is pulled to a Wellspring's law for this; the art is a mode of listening laid over the Sixty, and two laws are read as they stand. Transference, the Living Exchange (Fate): two matched oscillators trade energy without a conductor, falling off with distance, and a bond is such a coupled pair, observed from outside. Benediction, the Wellspring of Grace (Fate): a bond carries a measurable affinity, so the reading returns strengths and spares you impressions. Benediction's failure, competitive inhibition, is the art's blind spot: a displaced bond reads at full strength until called on, so a betrayal in progress looks healthy, and a bought loyalty is confirmed as true. The glyph is Frequency laid across Binding, Frequency opening the band and Binding naming the bond listened across. This is the only Harmonic branch that lives in the Attraction Layer: the Diviner reads the Fate layer of others through the Veil with their own Attraction Layer as receiver. Developmental Tier is Radiant at Transcendence, Sovereign from Invocation. It needs no anchor, being internalized at Transcendence, and the Conclave's tonal chant is style and no requirement.
 
 Two things go wrong. The first is the wrong line: a read locked on the wrong resonance makes a sympathetic bond to something unintended, and the other end can feel it. The second is the loop. Receiver and transmitter in one Crystal with gain above one oscillate, and the Echo Fracture of 8,000 AF was exactly this, leaving harmonic chaos for decades. Waste leaves the Shell (the Crystal's outer skin) as heat and radiated tone in the very band being read, 20 to 30 percent at Master, 10 to 15 at Grandmaster: the loop in miniature, uncomfortable at Emanation. The Sonochoral Conclave's patrons read the cosmos as one sympathetic organism where everything signs everything; that is the wrong-line failure as doctrine, and good practice reports the weight and leaves out the connection, as the skeptics taught.
 
@@ -42,8 +42,6 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 | Tracking window | about Q cycles of the cut bond | oaths, blood and long recognition last longest |
 
 **Practitioner** · Transcendence to Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S then SS. Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90, SSS.
-
-**Paths** · Forecast needs the Fate Path at Splintering to pass S, so off it Forecast caps at 550 at any Stage; Attunement needs Fate at Welling to pass D.
 
 **Gates** · Sense needs the Spirit Path at Ascension to pass C; Continuity needs the Fate Path at Refraction to pass S.
 
@@ -68,28 +66,27 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 
 **Contest** · Against a masked subject, Harmonics Attunement meets Harmonics Stability; the subject who wins returns noise, and a Diviner who loses by a full Grade has locked the wrong line.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · None pulled; a mode of listening laid over the Sixty, reading the laws of Transference, the Living Exchange, and Benediction, the Wellspring of Grace.
+**Path** · Fate. The Attraction Layer is the receiver, reading the Fate layer of others through the Veil. It moves nothing.
 
-**Family** · None of its own; it reads Spatium (Transference) and Vitalia (Benediction).
+**Lens** · None pulled. A mode of listening laid over the Sixty, reading the laws of Transference and Benediction (both Fate).
 
-**Physics Domain** · Spatial Geometry (Transference); Biochemistry (Benediction).
+**Form** · Read. Very still, across a valley.
+
+**Gates** · Forecast needs the Fate Path at Splintering to pass S, so off it Forecast caps at 550 at any Stage; Attunement needs Fate at Welling to pass D; Continuity needs Fate at Refraction to pass S; Sense past C needs the Spirit Path.
+
+**Glyph** · Frequency across Binding. A term that opens a band and names the bond listened across; it sets no term on the bond.
 
 **Phenomenon** · Ambient-noise interferometry and coupled oscillators: a link recovered from shared noise, a cut link ringing down, a pair phase-locking.
 
-**Category** · Harmonia (Spirit and Attraction), with Aetherica and Mnemata supporting.
-
 **Skill** · Speaking, held by attention; the Sonochoral Conclave's tonal chant is its style and no requirement.
 
-**Stage floor** · Transcendence
+**Stage floor** · Transcendence.
 
 **Grade required** · S-Grade for Bond Reading and Tracking; SS-Grade at Realization for Fate Entanglement and Forecasting; SSS-Grade at Emanation for Dissonance Warning.
-
-**Path gate** · Fate Path at Splintering to pass S in Forecast, at Welling to pass D in Attunement and for Continuity past S; Spirit Path for Sense past C.
 
 ### FOW line
 
@@ -98,8 +95,6 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 **Stage floor** · Transcendence
 
 **Grade required** · S-Grade, rising to SS-Grade and SSS-Grade.
-
-**Path gate** · Fate Path for Forecast past S.
 
 **Resonant Pair** · None
 

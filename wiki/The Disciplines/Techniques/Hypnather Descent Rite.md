@@ -6,7 +6,7 @@ title: Bedtime
 
 *Hypnather Descent Rite on the roll, and to the scholars. Grown fighters who have met it do not find the short name funny, which is how you can tell.*
 
-## BEDTIME (Hypnather Descent Rite) (Harmonia, Stage VII)
+## BEDTIME (Hypnather Descent Rite) (Sing, Stage VII)
 
 Thorkel Stoutmantle held the ring at Thornby for nine straight midsummers, a slab of a man in a bull's-hide coat and a color of aura the crowd called butcher's red, and nothing short of a falling church had ever put him down. In the second minute of the tenth final, with his hammer up, in front of eight thousand people, he yawned. He looked surprised. His arm came down very slowly. He said, clear as a herald, "Who let the horse in?" and turned to stare at an empty corner of the ring, and then he stood there frowning, unable to remember what the hammer was for, while a thin person sixty paces away in the cheap seats went on looking at him without blinking. The bookies paid out. The Thornby Guild tried to have the word banned from the ring, and now every child in town shouts it at closing time.
 
@@ -26,7 +26,7 @@ The glyphs are Lock (Counter) across Reverie (Extension): Lock occupies a limit 
 
 The order of loss is the famous part. The held forget their purpose before their pain, because weakly coupled modes relax first, and purpose has few couplings while pain has many.
 
-A held line to one body is all the Aether it needs. Limina is favored by darkness, silence, thin Aether and ruins, and starved by saturation, crowds and active Domains. The Residue sits in the target: a worse-ordered Crystal a competent reader finds afterward. Hypnather, the Sleep Crown (Limina), says a glass left undisturbed keeps relaxing toward the order it never reached, slowly and only while quiescent, and it cannot be forced by ordinary means. Letheveil, the Waters of Forgetting (Limina), says each pass discards a little more, and a memory compressed repeatedly degrades toward an artifact still experienced as memory. Oneirion, the Wellspring of Dream (Limina), says a trajectory correct in the dream manifold lands nowhere in particular when mapped back into a room. The rite is built from the three failures on purpose: Hypnather's interrupted lock gives heavy limbs and slow reflexes, Letheveil's generation loss gives patchy amnesia, Oneirion's projection error gives a false percept.
+A held line to one body is all the Aether it needs. Hypnather's Ground favors darkness, silence, sickrooms and old dormitories, and crowds starve it, as saturation and active Domains starve the other two. The Residue sits in the target: a worse-ordered Crystal a competent reader finds afterward. Hypnather, the Sleep Crown (Spirit), says a glass left undisturbed keeps relaxing toward the order it never reached, slowly and only while quiescent, and it cannot be forced by ordinary means. Letheveil, the Waters of Forgetting (Spirit), says each pass discards a little more, and a memory compressed repeatedly degrades toward an artifact still experienced as memory. Oneirion, the Wellspring of Dream (Spirit), says a trajectory correct in the dream manifold lands nowhere in particular when mapped back into a room. The rite is built from the three failures on purpose: Hypnather's interrupted lock gives heavy limbs and slow reflexes, Letheveil's generation loss gives patchy amnesia, Oneirion's projection error gives a false percept.
 
 The Aether Shell carries all three forced processes, the textbook route to Clouding (the Shell's slow failure), and the Essence Core takes the Memory Backlash. Developmental Tier Resonant at Refraction, and routine users carry a residue-heavy Crystal. The structural fault is three failure states through one Shell, with the Core taking what bleeds back, split into Sleep Debt (the caster loses restful recovery and his own waking mind destabilizes) and Memory Backlash (carrying a stranger's fear or worst memory). Below A in Tempering the three currents cannot be held apart, and the rite clouds his own Shell before it locks the target's. The bleed is 30 to 40 percent of every expenditure, leaving as heat at the Shell along three paths; the Memory Backlash is a structural bleed with a destination, rarer and worse than heat.
 
@@ -40,21 +40,21 @@ The Magnetists teach it as medicine, a curative crisis held by the operator's at
 
 ### Codex line
 
-**Wellspring** · Hypnather (primary) · Letheveil, Oneirion (secondary)
+**Path** · Spirit. A held line into another Crystal's own processes; the Core takes what bleeds back.
 
-**Family** · Limina (all three)
+**Lens** · Hypnather (Spirit, primary) · Letheveil, Oneirion (Spirit), secondary.
 
-**Physics Domain** · Entropy, Void and Mind
+**Form** · Sing. A look and a held line, turning one body's own processes against it.
 
-**Category** · Harmonia (Spirit ↔ Attraction: tuning and destabilizing another Crystal's own Wellspring processes, rather than casting a new effect onto them)
+**Gates** · Gnosis Retention and Resilience Anchoring open on the Spirit Path.
 
-**Skill** · Speaking, a held line to one body, kept by the operator's attention
+**Glyph** · Lock across Reverie. What a thing is taken to be: whether this body counts as falling asleep, set true and then, partway down, set false.
 
-**Stage floor** · Stage VII, Refraction
+**Skill** · Speaking, a held line to one body, kept by the operator's attention.
 
-**Grade required** · A-Grade, late push toward S-Grade
+**Stage floor** · Stage VII, Refraction.
 
-**Path gate** · Spirit
+**Grade required** · A-Grade, late push toward S-Grade.
 
 ### FOW line
 
@@ -65,8 +65,6 @@ The Magnetists teach it as medicine, a curative crisis held by the operator's at
 **Stage floor** · Stage VII, Refraction
 
 **Grade required** · A-Grade, late push toward S-Grade
-
-**Path gate** · Spirit
 
 **Resonant Pair · None.**
 
@@ -80,11 +78,11 @@ The rite has a single known practitioner, and its philosophy states its purpose:
 
 **Limits** · Sixty meters, line of sight held throughout, sustained attention, and a target with a biological consciousness capable of genuine rest: no constructs, no undead.
 
-**Fails against** · A hard shock, from pain or an ally's blow, which breaks quiescence before the lock takes; smoke, cover or a body in the sightline, which makes it miss; constructs; loud, crowded, saturated ground, which starves Limina.
+**Fails against** · A hard shock, from pain or an ally's blow, which breaks quiescence before the lock takes; smoke, cover or a body in the sightline, which makes it miss; constructs; loud, crowded, saturated ground, which starves all three.
 
 **Preparation** · A strong Spirit Path Crystal resists the hijacked trajectory, and Verdantia's regenerative pressure can outpace the lock before it sets; both work only if in place before contact.
 
-**Look up** · Hypnather's Core Law; the Limina entries for Hypnather, Letheveil and Oneirion Failures; the Shell's Clouding and Rupture; the Refraction Stage table; Verdantia's entry.
+**Look up** · Hypnather's Core Law; the entries for Hypnather, Letheveil and Oneirion Failures; the Shell's Clouding and Rupture; the Refraction Stage table; Verdantia's entry.
 
 ## Numbers
 

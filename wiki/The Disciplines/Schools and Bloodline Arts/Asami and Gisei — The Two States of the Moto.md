@@ -20,6 +20,12 @@ The labels on these moves are the archivist's, for the reader's convenience. Nob
 
 ## How It Really Works
 
+| **Path** | Whichever the person has actually lived. The two states sit under the Path and change what it is for |
+|---|---|
+| **Lens** | None. Whatever was tempered on is one of the things Asami looks underneath |
+| **Form** | Asami has none, being a state of the soul. Gisei is Bind at its most final: a price declared and irrevocable |
+| **Gates** | No Stage and no Sub-Stat. Authenticity under sufficient pressure, as below |
+
 **Asami** (older rolls mark the reading Ү-nen) · Truth · *The Revealing*
 
 **Gisei** (older rolls mark the reading TAH-khil) · Offering · *The Sacrifice*

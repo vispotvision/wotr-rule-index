@@ -166,7 +166,7 @@ Every branch talks about the shared arts in the same flat words, and they are th
 
 ## The Three Deep Lineages
 
-A note on terms for readers from the surface. **Soul Habit** names what a lineage's souls tend toward, a thing of blood and upbringing and never a lock; **Soul Path** gives the share of a person's power running through body, spirit or fate; a **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way, and a lineage may be able to harmonize with it, or may reject it outright. **Stage** is a rung of the sixteen-step climb. A **Domain** is the territory in which a high-Stage practitioner's own law holds.
+A note on terms for readers from the surface. **In the blood** names what a lineage's souls tend toward, a thing of blood and upbringing and never a lock; **Untrained lean** gives the tilt of the three layers before anyone has trained them, and never sets Mastered or Walked ([[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]); a **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way, and a lineage may be able to harmonize with it, or may reject it outright. **Stage** is a rung of the sixteen-step climb. A **Domain** is the territory in which a high-Stage practitioner's own law holds.
 
 ### The High Line: Rune-Forgers of the Bound Geometry
 
@@ -174,11 +174,11 @@ Varūn's geometric will given biological form, and the Ribs' own builders, who c
 
 A High Line inscription has nothing decorative in it. It is the actual Aetheric vibration a concept is made of, rendered so exactly that **reality stops needing to be told what to do.**
 
-**Soul Habit** · Geometric permanence first; reflection second, pattern revealing structure
+**In the blood** · Geometric permanence, and pattern revealing structure
 
-**Soul Path Bias** · Spirit 70% / Body 20% / Fate 10%
+**Untrained lean** · Spirit 70% / Body 20% / Fate 10%
 
-**Wellsprings** · Monolithion (primary), Judicium (strong secondary), Fixatio and Basilithe (accessible). **Rejects Nyxial, Tenebra, and Void-aspected Wellsprings outright**: Geometric Cohesion is constitutionally antithetical to Void
+**Wellsprings** · Monolithion (primary), Judicium (strong secondary), Fixatio and Basilithe (accessible). **Rejects Nyxial, Tenebra and Nihiloth outright**: Geometric Cohesion is constitutionally antithetical to the void
 > **Advantages** · The most corruption-resistant Crystal architecture in the Continuum; hostile intrusion shatters against its lattice the way glass shatters against stone.
 >
 > Geometric Domains where **lies leave measurable Aetheric residue**, with no punishment involved, because inaccurate description is structurally detectable.
@@ -193,11 +193,11 @@ Where the High Line is Varūn's geometry, the Cask Line is his fermentation: **t
 
 Kegshard Hold's Deepvault, in the hollow of the Twelfth Rib, and the Great Cask-Oath are the same instinct in two forms: the conviction that **the most dangerous and the most precious things both deserve to be aged, watched, and never rushed.**
 
-**Soul Habit** · Alchemical transmutation first; transformation through contradiction second
+**In the blood** · Transformation through contradiction
 
-**Soul Path Bias** · Body 85% / Fate 15%, **the only Fate Path access in the Continuum to emerge from watching barrels rather than the sky**
+**Untrained lean** · Body 85% / Fate 15%, **the only lean toward Fate in the Continuum to emerge from watching barrels rather than the sky**
 
-**Wellsprings** · Basilithe (primary), Manganthra (strong secondary), Fungor (accessible, and uniquely so among the lineages), Verdantia (accessible). Poorly compatible with Aurevane, Luminalis, and high-frequency Celestial Wellsprings
+**Wellsprings** · Basilithe (primary), Manganthra (strong secondary), Rebirthine (accessible, and uniquely so among the lineages, rot feeding what grows), Verdantia (accessible). Poorly compatible with Aurevane, Luminalis, and Judicium
 > **Advantages** · **Alchemical aging**: their Crystal genuinely compounds potency the longer it holds Essence rather than spends it, so veterans outperform beginners in ways Level comparisons do not capture.
 >
 > The **Great Cask-Oath** makes their word structurally reliable, and socially reliable besides; breaking one costs the Crystal's own Coherence automatically.
@@ -210,7 +210,7 @@ Varūn's threshold: **endurance reduced to its bare minimum and found to still h
 
 Their names, in the Deepkin's own record, are kept in Mirror-Sign and **deliberately not transliterated for outside use.**
 
-**Wellsprings** · Nihiloth (primary, native), Basilithe-Earthfold collapsed variant (accessible), corrupted and collapsed Wellspring sites generally (primary access unique to this lineage). **Rejects Celestial, Dream, and Divine Wellsprings outright**: 2× damage from Divine Light or Holy-frequency glyphs
+**Wellsprings** · Nihiloth (primary, native), a collapsed Basilithe (accessible), corrupted and collapsed Wellspring sites generally (primary access unique to this lineage). **Rejects Benediction, Oneirion and Aurevane outright**: 2× damage from Divine Light or Holy-frequency glyphs
 > **Advantages** · **Aura Dead-Zone**: passive Aetheric suppression, +35% AoE resistance, reduced enemy technique efficiency in radius.
 >
 > **Dissonance Anchor**: passive Stage X zone stabilization within 15m, allowing others to work briefly in collapsed zones under their coverage.
@@ -280,4 +280,3 @@ Everyone else's opinion of the Marrowkin is a variation on one line, and it goes
 > *"Eight ways to still be standing, and Varūn has never once told any of us which one he actually meant."*
 >
 > *Attributed to a joint Kegshard–Qori Anka trade summit, exact speaker disputed*
-- [[Races & Peoples/The Peoples/The Marrowkin/The Reach Dwarves]]

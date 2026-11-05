@@ -10,7 +10,9 @@ The reeve of Ebbe's Fold posted two silver a pelt one hard winter, on the church
 
 > *Vael'kar*, Shadow Howl, in Old Sylvaar. **The Silver Fang** among frontier hunters.
 
-**Natural Beast, Apex Predator · T3, Moderate Threat · Spatium, Transference, with a minor Anamnesis resonance tied to pack lineage · native to the dense forests and mountain borderlands of the Innerworld, with roaming packs ranging into the Outer World**
+**Natural Beast, Apex Predator · T3, Moderate Threat · Transference, with a minor Anamnesis resonance tied to pack lineage · native to the dense forests and mountain borderlands of the Innerworld, with roaming packs ranging into the Outer World**
+
+**Leans on** · the Layer, by Transference, Fate, and the Pack Bond is what it does with it. *Body:* stand sound, stand together and kill the alpha pair, and a pack is some large wolves. *Spirit:* the Essence signals pass soul to soul, and a Listener can hear the flank before it comes. *Fate:* cut the bond and lose a week. Most of a pack's own Fate is the reason it found you.
 
 Greater Wolves are natural-born hunters, evolved from mortal wolf stock but heavily shaped by Transference's Aether, which granted them heightened intelligence, endurance, and pack coordination. Their line traces to the primal forests of the Innerworld and Material World borderlands, where Wellspring energy runs richest through the wilds.
 

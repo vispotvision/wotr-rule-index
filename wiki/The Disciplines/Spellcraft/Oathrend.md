@@ -2,7 +2,7 @@
 title: Nobody Swore Anything
 ---
 
-# NOBODY SWORE ANYTHING (Claustra, a spoken renunciation)
+# NOBODY SWORE ANYTHING (Bind, a spoken renunciation)
 
 *Scholars' term: Oathrend.*
 
@@ -20,7 +20,7 @@ Lay a second wave of equal size and opposite phase over the first, and where bot
 
 The charge is a renunciation aloud if the caster keeps custom, and otherwise only the felt absence, one instant too late. At Invocation it needs no anchor: the spoken renunciation is custom, and covering the mouth does not stop it. The pull is large and brief against a personal oath, large and sustained for several seconds against a multi-anchor pact, and this is the one working whose cast time is set by the target's shape. Twenty to 30 percent leaves the Shell (the Crystal's outer skin) as heat, sound and structural bleed into the anchor's room within a second: tens of gigawatts, over a hundred at the band's top. A great pact nulled fast in one place can flood the area past dispersal, a Crystal Fracture Event (every Crystal present cracking together) in everyone there, caster included. The Residue (what a working leaves behind) is two fields at every anchor, where a lawful release leaves none, so a rending can always be told from a release.
 
-Nihiloth, the Hollow Law (Limina), is the Aether: two waves in antiphase sum to zero, and a Nihiloth Domain cancels the law present instead of adding any. It strengthens Sovereignty, Persistence and Cognition. The glyph is Knot, one of the two Counter forms, laid across Binding, a Root wholly of Limina: a condition that stops a seal from continuing to be established. The boundary is the phase of the field at each anchor point, set to π, and the oath's strength, the parties' will and the souls the seal holds are all left alone. The Attraction Layer holds the oath, the Shell makes the anti-field, and the Essence Core takes the bill in Resilience Oath. Developmental Tier is Sovereign at Invocation. Claustra is a Spirit and Attraction category, here read under the Debt Position: obligation answered on credit, freely sworn vows leaving the worst Echo Scars.
+Nihiloth, the Hollow Law (Wild), is the Aether: two waves in antiphase sum to zero, and a Nihiloth Domain cancels the law present instead of adding any. It strengthens Sovereignty, Persistence and Cognition. The glyph is Knot, one of the two Counter forms, laid across Binding, a Root: a condition that stops a seal from continuing to be established. By the scholars' account the boundary is the phase of the field at each anchor point, set to π, and the oath's strength, the parties' will and the souls the seal holds are all left alone. The Attraction Layer holds the oath, the Shell makes the anti-field, and the Essence Core takes the bill in Resilience Oath. Developmental Tier is Sovereign at Invocation. The theory here is the Debt Position: obligation answered on credit, freely sworn vows leaving the worst Echo Scars.
 
 The seal opens, with no weakening first. Every bound party feels an absence at once, wherever they are, across every plane the oath was enforced on; affection may survive while enforcement is gone, and then the truce, claim or Realm resting on the vow stops being held up. The null must hold at every anchor at once. When it does, the claim's continuity breaks and does not resume, the anti-field can be let go, and the vow must be sworn again. It works only on a real, standing commitment, since it reads actual reciprocity and cannot invent an obligation. Liberation and the destruction of a stabilizing truce are the same working, correctly done, and the Guild has given up trying to file them separately.
 
@@ -36,8 +36,6 @@ The real failure is backlash through the mirror. An oath sworn under Purganeth-w
 ## Numbers
 
 **Practitioner** · Invocation, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S-Grade (401 to 550; 625 under strain).
-
-**Paths** · Persistence needs the Fate Path at Refraction to pass S and at Transcendence to pass SS against Oblivion-class pressure; off it Persistence caps at 550. Oath needs the Fate Path at Flourishing to pass B, or the toll's pool is shallow.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -58,28 +56,27 @@ The real failure is backlash through the mirror. An oath sworn under Purganeth-w
 
 **Toll** · A liberator who frees a hundred souls pays a hundred vows of Oath; a specialist grows steadily less able to swear anything.
 
-
 ## Reference
 
 ### Codex line
 
-Wellspring · **Nihiloth**, the Hollow Law (primary).
+**Path** · Fate. The Attraction Layer holds the oath, the Shell makes the anti-field, and the Essence Core takes the bill.
 
-Family · **Limina**: Entropy, Void and Mind.
+**Lens** · Nihiloth (Wild).
 
-Physics Domain · Entropy, Void and Mind.
+**Form** · Bind. A spoken renunciation that works on a bond and leaves the people in it alone.
 
-Phenomenon · Field cancellation / destructive interference.
+**Gates** · Persistence needs the Fate Path at Refraction to pass S and at Transcendence to pass SS against Oblivion-class pressure; off it Persistence caps at 550. Oath needs the Fate Path at Flourishing to pass B, or the toll's pool is shallow.
 
-Category · **Claustra** (Spirit ↔ Attraction).
+**Glyph** · Knot across Binding. A term: a seal stops being established at each anchor, so the claim's continuity breaks and does not resume. By the scholars' account, the phase of the field there, set to π.
+
+**Phenomenon** · Field cancellation / destructive interference.
 
 **Skill** · Speaking (a spoken renunciation).
 
-Stage floor · **Stage IX, Invocation**.
+**Stage floor** · Stage IX, Invocation.
 
-Grade required · **S-Grade**.
-
-Path gate · None.
+**Grade required** · S-Grade.
 
 ### FOW line
 
@@ -88,8 +85,6 @@ Governing Primary · **Resilience** (Oath, Persistence), secondary **Dominion** 
 Stage floor · Stage IX, Invocation.
 
 Grade required · S-Grade.
-
-Path gate · None.
 
 Resonant Pair · None.
 

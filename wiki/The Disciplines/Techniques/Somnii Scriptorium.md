@@ -4,7 +4,7 @@ title: "Oubliette of the Spoken Name"
 
 # OUBLIETTE OF THE SPOKEN NAME
 
-*Speaking, Claustra, Stage VII with a late push toward S-Grade. The scholars' term is Somnii Scriptorium, or Somnium Scriptorium. Serenyra's own.*
+*Speaking, Bind, Stage VII with a late push toward S-Grade. The scholars' term is Somnii Scriptorium, or Somnium Scriptorium. Serenyra's own.*
 
 The bell-founder Wilmot Garside of Hartsop stood in the middle of the Lady Fair for eighteen seconds with his mouth a little open, a pie in one hand and a gold-and-green banner flapping over his head, while a child stole his purse. A woman nearby glowed faintly like a good lamp and said nothing further. When he came back he dropped the pie and told the bailiff he had been questioned for an hour in his own mother's kitchen and had told her everything. He signed a confession that afternoon, and an Oneirocritic of good standing swore to it. Nobody has ever found out what the man actually did, and his bells are excellent.
 
@@ -18,11 +18,11 @@ The bell-founder Wilmot Garside of Hartsop stood in the middle of the Lady Fair 
 
 ### How it really works
 
-The charge is plain: she says the target's name aloud. From Refraction no anchor is required, yet this art keeps one, the spoken name and the glyph in the air, a retained weakness. The glyph needs line of sight because it is inscribed toward him. She pulls Limina, favored by darkness, silence, thin ground and ruins, suppressed by saturated Aether, crowds and active Domains.
+The charge is plain: she says the target's name aloud. From Refraction no anchor is required, yet this art keeps one, the spoken name and the glyph in the air, a retained weakness. The glyph needs line of sight because it is inscribed toward him. She pulls Oneirion and Eidolyn, favored by darkness, silence and ruins, suppressed by saturated Aether and active Domains.
 
 In the body it is cortical decoupling with the brainstem intact, a dissociative state: he stands and breathes while his awareness is elsewhere, and his own dreaming machinery builds the room he finds himself in. The law is templated deposition. A supersaturated medium, here his dreaming mind, lays material along whatever template it is given, so she supplies geometry and he pays for the rest. Conscious report carries about 40 bits a second, so eighteen seconds hold about 720 bits, room for a name and a date and never a transmitted room. That is why the room is convincing: he built it. A standing body topples on a 0.30 s time constant, too fast for the cortex; brainstem loops at 40 to 100 ms keep it upright, and the medulla keeps it breathing, so upright and breathing is the correct prediction. Felt duration is rebuilt afterward from how much was recorded, so a target whose recording ran hot recalls a long conversation, and one whose recording was suppressed recalls nothing, not even a gap. Two tasks needing a central decision run in turn and never together, so holding the room and the chamber costs 200 to 500 ms at every switch, which is her half-beat of lag.
 
-The Wellsprings are both Limina. Oneirion, the Wellspring of Dream: every arrangement of a system is a point in a space with no location, so the working addresses the target there and ignores the room. It strengthens Gnosis Cognition and Ardency Cascade. Eidolyn, the Shaping Mind: intent is the template and the construct's solidity is real material behavior and no illusion. It strengthens Ardency Density and Gnosis Retention. The glyphs are Reverie for the addressing, Lock for the Claustra seal, Form for Eidolyn's template. The boundary condition is the coordinates the target's state is addressed in: the trajectory, never the room. A name is the anchor because a name is already an address.
+Two Wellsprings serve. Oneirion, the Wellspring of Dream: every arrangement of a system is a point in a space with no location, so the working addresses the target there and ignores the room. It strengthens Gnosis Cognition and Ardency Cascade. Eidolyn, the Shaping Mind: intent is the template and the construct's solidity is real material behavior and no illusion. It strengthens Ardency Density and Gnosis Retention. The glyphs are Reverie for the addressing, Lock for the Claustra seal, Form for Eidolyn's template. The boundary condition is the coordinates the target's state is addressed in: the trajectory, never the room. A name is the anchor because a name is already an address.
 
 The Claustra seal is the one law actively held, renewed against a Fate-side claim for three turns. She stands in the doorway, and a seal that loses its anchor opens. It traps and questions and cannot rewrite who the target is; a strong will resists entry and a fractured mind distorts what it yields. In doctrine it is the Consent Doctrine: interrogation and a mercy-pull from trauma share one geometry and are two workings, one authorized, one debt, and the Debt doctrine rides home as the empathic residue, fragments of his fear or grief. The Aether Shell pays for the address and the seal, the Essence Core is untouched, and at Transcendence the Developmental Tier is Radiant.
 
@@ -47,7 +47,7 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 
 **Wards** · A ward is a working cut on a substrate and fails when its substrate is chiseled, never by argument.
 
-**Look up** · The Limina entries for Oneirion and Eidolyn and their Failures; the Claustra seals; the Counterplay register for Lock, Knot and wards; the Refraction and Transcendence Stage tables.
+**Look up** · The entries for Oneirion and Eidolyn and their Failures; the Claustra seals; the Counterplay register for Lock, Knot and wards; the Refraction and Transcendence Stage tables.
 
 ### Numbers
 
@@ -60,8 +60,6 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 | Switch cost, two spaces | measured | 200 to 500 ms |
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade A; the late push toward S needs Transcendence or above, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80.
-
-**Paths** · Declares the Spirit Path: Cognition and Retention run at full Grade; Cascade and Density above B need the Fate and Body Paths, so the chamber's spread and solidity cap at B, and without Fate the seal is renewed by hand.
 
 **Anchor** · From Refraction no anchor is required, yet it keeps one: the spoken name and the glyph in the air, a retained weakness.
 
@@ -77,21 +75,21 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 
 ### Codex line
 
-**Wellspring** · Oneirion, the Wellspring of Dream (governing); Eidolyn, the Shaping Mind (secondary).
+**Path** · Spirit. A mind addressed by its name and held; the Attraction Layer is contested only for the seal.
 
-**Family** · Limina
+**Lens** · Oneirion (Spirit, governing) · Eidolyn (Wild, secondary).
 
-**Physics Domain** · Entropy, Void and Mind; templated deposition in the target's own dreaming mind.
+**Form** · Bind. A name spoken, a glyph inscribed in the air toward him, and the mind held in a room of its own.
 
-**Category** · Claustra: the chamber holds the target's consciousness against its own nature, and a seal that loses its anchor opens rather than fades.
+**Gates** · Cognition and Retention run at full Grade on the Spirit Path; Cascade and Density above B need the Fate and Body Paths, so the chamber's spread and solidity cap at B, and without Fate the seal is renewed by hand.
+
+**Glyph** · Reverie for the address, Lock for the seal, Form for the template. What a thing is taken to be: where the target counts as being. The room is never touched.
 
 **Skill** · Speaking, said aloud: a glyph inscribed in the air toward the target, anchored by naming him.
 
-**Stage floor** · Refraction
+**Stage floor** · Refraction.
 
 **Grade required** · A-Grade, with a late push toward S-Grade from Transcendence.
-
-**Path gate** · Spirit Path
 
 ### FOW line
 
@@ -100,8 +98,6 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 **Stage floor** · Refraction
 
 **Grade required** · A-Grade; the late push toward S needs Transcendence.
-
-**Path gate** · Spirit Path; Cascade and Density past B need the Fate and Body Paths, so without them the chamber's spread and solidity cap at B.
 
 **Resonant Pair** · None
 

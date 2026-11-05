@@ -44,6 +44,8 @@ I have stood inside the ninety meters for an afternoon with a cut thumb, and it 
 | **Attraction Layer** | Genuine and heavily bonded. **Every passenger is a live bond he is still holding**, and the Layer has been described in one filing as a knot rather than a field |
 | **Crystal Developmental Tier** | **Sovereign Crystal**, arguably Principled. The assessors split and the register records the lower figure |
 | **Crystal State** | **Overgrown.** Swollen with more than has been integrated, and the swelling is visible from a kilometer away in the form of moss |
+| **Essence Class** | **IV · Shepherd.** He holds what he has taken, and nobody who knows the work has ever suggested he drop any of it |
+| **Thread Class** | **I · Touched.** He keeps a bargain the way a bog keeps a boot |
 | **Aether Class** | **II · Harmonic**, which is absurdly low for a Divine Beast and is not an error. **He conducts badly and holds perfectly**, and the whole of him is that trade |
 | **Summon Stability Facet** | **S-Tier.** Weeks. **Longest attested continuous presence is fourteen years**, at Halloway Mire, where the summoner had been dead for eleven of them |
 | **Traits** | One, and it has a name in the bog villages that the Archives decline to write down. **Its law is that nothing in contact with him is permitted to finish** |
@@ -56,9 +58,10 @@ I have stood inside the ninety meters for an afternoon with a cut thumb, and it 
 | **Primary Wellspring** | **Verdantia.** The green current, and specifically its documented corruption vector. **Endless Spring: the inability to let anything end.** A Verdantia practitioner falls to it by accident. Vaelmorn is what it looks like when it was the design |
 |---|---|
 | **Secondary Wellspring** | **Rebirthine.** Cycles death-energy into life and purges stasis, **and it is the purging half that has failed in him** |
-| **Tertiary, technique-local** | **Anamnesis**, pulled only by the passenger mechanic. Cross-family, flagged in the relevant block |
-| **House Resonance** | House of the Green Pulse. Vital warmth, restorative capacity, empathic response. **The Codex's stated risk for this House is spirits that resist dissolution.** He is the risk with four legs under it |
-| **Essence Family** | **Vitalia** |
+| **Tertiary, technique-local** | **Anamnesis**, pulled only by the passenger mechanic. Cross-domain, marked in the relevant block |
+| **Kind Resonance** | Wild, the Green Pulse. Vital warmth, restorative capacity, empathic response. **The Codex's stated risk for this current is spirits that resist dissolution.** He is the risk with four legs under it |
+| **Kind** | **Wild** |
+| **Leans on** | The Aether Shell, for what he does to matter, and the Core for what he keeps. *Body:* a hitter has nothing to hit that minds, so walk away, and most do. *Spirit:* the passengers are the way in, and a hand that recognizes one can ask it to leave. *Fate:* he has no threads to pull, having stopped everything that might have happened |
 | **Physics Domain** | **Biochemistry.** Every Mechanism below runs on preservation chemistry and metabolic suppression, and the real-world reading is the peat bog |
 | **The Donation** | Accretion. **His donation does not burn, discharge or flow.** It settles, it binds, and it makes the thing it settles on stop changing |
 
@@ -68,7 +71,7 @@ I have stood inside the ninety meters for an afternoon with a cut thumb, and it 
 
 | **Authorization** | **[Dr] Vitality.** Elyndra. Boosts stamina and Essence recovery, which is the gentlest Authorization glyph in the index and is doing the worst work in the register |
 |---|---|
-| **Boundary** | **[Th] Foundation.** Thalen. Imposes geometry and reinforces boundaries. **Cross-family, Vectoria under Mechanics**, and it is the only structural element in an otherwise entirely biological chain |
+| **Boundary** | **[Th] Foundation.** Thalen. Imposes geometry and reinforces boundaries. **Cross-domain, in Mechanics**, and it is the only structural element in an otherwise entirely biological chain |
 | **Direction** | **[Bst] Beast.** Elyndra. Summoned fauna reinforce a crossing or a ward. **Vaelmorn answers to it without objection**, which is the single sharpest difference between him and Raga and is worth holding onto |
 | **Sealing** | **[Vael] Renewal.** Elyndra. Cycles death-energy into life and purges stasis. **It does not work.** The glyph is spoken, the obligation ends, and he walks away still carrying. The Sealing role releases the summoner and has never once released him |
 | **Invocation** | *"Sustine quod cadit. Noli deponere."* **The second sentence is not a request and the bog villages know it is not a request.** They say it anyway |
@@ -147,7 +150,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Counterplay:** Prevent the request, which means the counterplay is social rather than martial and is the reason this ability has never been answered on a battlefield. **Failing that, finish the dying before he reaches them.** Enforcement guidance says this in more words and the field has understood it perfectly since the guidance was issued.
 
-  **Codex Assignment:** [Dr] · [Vael] · [Ma] · Primary Verdantia · Secondary Rebirthine · Vitalia · Biochemistry. **Cross-family flagged: [Ma] Recall is an Anamnesis assignment under Limina and is doing the identity work rather than the tissue work**
+  **Codex Assignment:** [Dr] · [Vael] · [Ma] · Primary Verdantia · Secondary Rebirthine · Biochemistry. **A crossing worth marking: [Ma] Recall is an Anamnesis assignment and is doing the identity work rather than the tissue work**
 
   **First Display:** A deer with a broken back, and a forester who asks without thinking. **The deer stands up. It has been standing since**, and it does not eat, and the scene should end with somebody realizing that.
 
@@ -181,7 +184,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Counterplay:** **Leave the radius, and take the wounded with you.** That is the entire answer, it works completely, and it requires a commander willing to move casualties who are all screaming that they are fine.
 
-  **Codex Assignment:** [Th] · [El] · [Ur] · Primary Verdantia · Secondary Fixatio · Vitalia · Biochemistry. **Cross-family flagged: [Th] Foundation is a Petralon assignment under Vectoria and Mechanics, and it is supplying the boundary geometry that a purely biological chain cannot**
+  **Codex Assignment:** [Th] · [El] · [Ur] · Primary Verdantia · Secondary Fixatio · Biochemistry. **A crossing worth marking: [Th] Foundation is a Petralon assignment in Mechanics, and it is supplying the boundary geometry that a purely biological chain cannot**
 
   **First Display:** A row of surgeons' tents that stops losing anyone, and a surgeon who is delighted for eleven hours.
 
@@ -213,7 +216,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Counterplay:** Do not attack him. **He is not a threat and has never been one**, and the correct answer to Vaelmorn on a field is to walk around him. Every party that has attacked him has spent the engagement damaging strangers.
 
-  **Codex Assignment:** [Lei] · [Leth] · [Th] · Primary Anamnesis · Secondary Anima Spirare · Limina primary with Vitalia secondary · Abstract and Entropic Systems. **Deliberate departure from the entry's Biochemistry spine, flagged: the bond does the work here, and the bond is Limina**
+  **Codex Assignment:** [Lei] · [Leth] · [Th] · Primary Anamnesis · Secondary Anima Spirare · Abstract and Entropic Systems. **A deliberate departure from the entry's Biochemistry spine: the bond does the work here, and the bond is Anamnesis's**
 
   **First Display:** Somebody throws a stone at him, badly, out of nerves. **A tine splits. Off to the left, in the mist, something takes the hit and the sound is wrong.**
 
@@ -245,7 +248,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Counterplay:** **None entered.** The Measurewrights' standing dissent notes that a Bench that has struck a hundred and forty-one formulas has never opened a Threshold case on an entity whose entire function is a refusal to stop, and offers no explanation for that.
 
-  **Codex Assignment:** [Vael] · [Va] · Primary Verdantia · Secondary Lethegraal · Vitalia primary with Limina secondary · Biochemistry. **Cross-family flagged: [Va] Law is a Petralon assignment under Vectoria, entered here for the binding rather than the structure, and this is the entry's loosest Codex fit**
+  **Codex Assignment:** [Vael] · [Va] · Primary Verdantia · Secondary Lethegraal · Biochemistry. **A crossing worth marking: [Va] Law is a Petralon assignment, entered here for the binding rather than the structure, and this is the entry's loosest Codex fit**
 
   **First Display:** The [Vael] seal, spoken correctly, by a summoner who has done everything right. **He turns and walks north and the woman goes with him.**
 
@@ -300,19 +303,3 @@ The second inversion is the one that turns him from an event into a condition. *
 **The Nineteen.** Bench-heard. Six hours of deliberate attack conducted to establish tine count. The commander was censured on procedure. **The passengers are not named in the finding and the Measurewrights' request that they be named was refused as immaterial.**
 
 **The Standing Deer.** Folk account, no Archive entry, and the oldest story attached to him. A forester, a broken back, and a request made without thinking. **Every version of the story ends the same way, with somebody working out that the deer has not eaten.**
-
----
-
-## XIII · Open Rulings
-
-**Summoner unassigned.** He is the entry that least needs one. **Consenting bond, Stage VII in practice, forty million EU: any hedge practitioner in bog country can reach him**, and the horror of the entry is that the person who calls him is usually somebody's grandmother. If Isaac wants a named summoner the interesting choice is somebody with no standing at all.
-
-**The woman at his flank has no name in this entry, and the omission is the mechanic.** Her name is one of the things he is carrying and neither she nor anyone who knew her can produce it. **If Isaac wants her named, naming her breaks that**, and it should be a deliberate choice rather than a completion of a blank field. She needs a four-pass name either way if she is ever going to appear on the page.
-
-**Elven and Sylvaar naming register not verified.** *Vaelmorn* is built on the dithematic compounding pattern the Naming Guide documents, using the [Vael] glyph-root, and *Old Sylvaar* is taken from the Bestiary's existing usage on the Raiju entry. **The wider Sylvaar phonology has not been checked and may already be defined somewhere I have not read.**
-
-**The Withering correlation.** Sightings rising with falling ambient density for seventy years. **This is a pitch and a large one.** It hands Vaelmorn a role in the world's central slow catastrophe rather than leaving him as a regional oddity, and it can be cut cleanly by deleting one line in section I and one in section X.
-
-**Danger Tier T6 is contested in-fiction and in the workroom.** He has no kill and no offensive capability, and he is arguably the most damaging entity in the register. **The entry has been written to hold both and Isaac may want a ruling.**
-
-**Numbers verified against source.** Temperance Stages, Crystal Tiers, Aether Classes, Summon Tiers and Stability facets from the Fracture of Worlds text and the Spirit Summoning Arts entry. **Glyph letters, meanings, Archon attributions, Wellspring assignments, Family and Physics Domain pulled from The Master Codex glyph index.** The Verdantia corruption vector, Endless Spring, is quoted canon and is the spine of the whole entry. **EU figures and all field measurements are estimates and need confirmation.**

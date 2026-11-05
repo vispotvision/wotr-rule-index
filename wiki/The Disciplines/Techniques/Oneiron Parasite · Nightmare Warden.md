@@ -4,7 +4,7 @@ title: "The Lodger Behind Your Ribs"
 
 # THE LODGER BEHIND YOUR RIBS
 
-*Speaking, Animatria, Stage VII. The scholars' terms are Oneiron Parasite and Nightmare Warden, and the second is what physicians still write on the bill.*
+*Speaking, Make, Stage VII. The scholars' terms are Oneiron Parasite and Nightmare Warden, and the second is what physicians still write on the bill.*
 
 The wine factor Hobart Ainsley of Wickerby stopped sleeping in the spring, lost every bid he made at the Lammas sale by one coin, and dropped dead of nothing at his daughter's betrothal feast with a gold cup in his hand and a red ribbon on his sleeve. They laid him out in his best blue. The renderer who came to wash him stopped, put two fingers under the breastbone, and asked the family, loudly and in front of the whole wake, who had been in the house. Nobody ate the funeral meats. Half of Wickerby still swears the widow did it, and it would be a shame to spoil a good song.
 
@@ -26,7 +26,7 @@ The real phenomenon is seeded crystal growth, a new phase forming on a foreign t
 
 It seats behind the ribs at the base of the heart, where about 80 percent of vagal fibers carry the body's felt state upward, and that is where feeling is read. Core feeling is low-dimensional, about 10 bit/s, far below any carrier's capacity, so watching is cheap and the graft is the expense.
 
-The glyph is Form, laid across Passage for the crossing into the host and Mind for the addressing: this fragment may hold a shape here. The boundary condition is the nucleation threshold inside another Crystal, moved so that a foreign fragment counts as a valid template; deposition, growth and coarsening follow unaided. Three Limina Wellsprings do the rest. Oneirion, the Wellspring of Dream, primary: every arrangement is a coordinate in configuration space, which is how the graft crosses into the host. Eidolyn, the Shaping Mind: a supersaturated medium deposits along a template's geometry, and here the template is the practitioner's intent. Hypnather, the Sleep Crown: order grows only while at rest and cannot be forced by ordinary means, so the Warden anchors to the host's rest and waits.
+The glyph is Form, laid across Passage for the crossing into the host and Mind for the addressing: this fragment may hold a shape here. The boundary condition is the nucleation threshold inside another Crystal, moved so that a foreign fragment counts as a valid template; deposition, growth and coarsening follow unaided. Three Wellsprings do the rest. Oneirion, the Wellspring of Dream, primary: every arrangement is a coordinate in configuration space, which is how the graft crosses into the host. Eidolyn, the Shaping Mind: a supersaturated medium deposits along a template's geometry, and here the template is the practitioner's intent. Hypnather, the Sleep Crown: order grows only while at rest and cannot be forced by ordinary means, so the Warden anchors to the host's rest and waits.
 
 The detonation is the same physics run to its end. The graft drops below critical radius at once and redissolves, and the host's Crystal re-orders around it in one moment, with the energy spent in the Crystal and none in tissue or air. The host's layering has already weakened from inside by then.
 
@@ -49,7 +49,7 @@ The Residue has a location, and the location is a body. A host carrying a Warden
 
 **Host** · A disciplined, self-honest host coarsens the Warden into themselves, and the reports become distortions of a person the practitioner cannot read.
 
-**Look up** · The Counterplay register for Silence; the Animatria rule; Mortalis and the empathic Wellsprings; the Limina entries for Oneirion, Eidolyn and Hypnather Failures; the Refraction Stage table.
+**Look up** · The Counterplay register for Silence; the Animatria rule; Mortalis and the empathic Wellsprings; the entries for Oneirion, Eidolyn and Hypnather Failures; the Refraction Stage table.
 
 ### Numbers
 
@@ -76,21 +76,21 @@ The Residue has a location, and the location is a body. A host carrying a Warden
 
 ### Codex line
 
-**Wellspring** · Oneirion (primary), Hypnather, Eidolyn
+**Path** · Spirit. A fragment of him in your Crystal; the Attraction Layer holds only its live line.
 
-**Family** · Limina (all three)
+**Lens** · Oneirion (Spirit, primary) · Hypnather (Spirit), Eidolyn (Wild).
 
-**Physics Domain** · Entropy, Void and Mind
+**Form** · Make. A fragment planted by look or touch.
 
-**Category** · Animatria
+**Gates** · None past the Path's ordinary gates.
 
-**Skill** · Speaking; the implant persists until purged, with its live line held in the Attraction Layer
+**Glyph** · Form across Passage and Mind. What a thing is taken to be: a foreign fragment counts as a valid template inside another Crystal.
 
-**Stage floor** · Stage VII, Refraction
+**Skill** · Speaking; the implant persists until purged, with its live line held in the Attraction Layer.
 
-**Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade)
+**Stage floor** · Stage VII, Refraction.
 
-**Path gate** · Spirit Path
+**Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade).
 
 ### FOW line
 
@@ -101,8 +101,6 @@ The Residue has a location, and the location is a body. A host carrying a Warden
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 
 **Grade required** · A-Grade
-
-**Path gate** · Spirit Path
 
 **Resonant Pair · None.**
 

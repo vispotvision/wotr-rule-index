@@ -39,16 +39,16 @@ The Provision classifies beastkin who cannot demonstrate free-holder status thro
 
 ## The Beastkin Family
 
-| Lineage | Essence | Definitive Stat | Accord Status |
+| Lineage | Untrained lean · Known for | Definitive Stat | Accord Status |
 |---|---|---|---|
-| **Feline** · Catkin | Emotive / Shadow · Kinetic Reservoir | **Dexterity** | *Contested: often "skilled labor"* |
-| **Lupine** · Wolfkin | Instinctual / Lunar · Pack-Soul | **Harmonics** | *Contested: "wild beastkin" provision* |
-| **Ursine** · Bearkin | Terra / Verdant · Geological Endurance | **Vitality** | *Generally free-status where documented* |
-| **Fox-Spirit** · Mishiro | Viridian / Aqua · Aetheric Nose | **Harmonics** | *Contested: Spirit-adjacent exemption arguable* |
-| **Serpentkin** · Scalebond | Memory / Speculum · Coiling Memory | **Gnosis** | *Scholar-class exemption available* |
-| **Avian Kin** | Aer / Caelum · Current-Reading | Dexterity | *Variable by territory* |
-| **Aquatic Kin** | Aqua / Mortis · Depth-Pressure Resonance | Resilience | *Largely unclassified: maritime gap* |
-| **Chimeric-Born** | Flux / Adaptive · Variable Conductor | Variable | *No coherent policy* |
+| **Feline** · Catkin | Body, then Spirit · Kinetic Reservoir | **Dexterity** | *Contested: often "skilled labor"* |
+| **Lupine** · Wolfkin | Body, then Spirit · Pack-Soul | **Harmonics** | *Contested: "wild beastkin" provision* |
+| **Ursine** · Bearkin | Body, then Spirit · Geological Endurance | **Vitality** | *Generally free-status where documented* |
+| **Fox-Spirit** · Mishiro | Spirit, then Fate · Aetheric Nose | **Harmonics** | *Contested: Spirit-adjacent exemption arguable* |
+| **Serpentkin** · Scalebond | Spirit, then Fate · Coiling Memory | **Gnosis** | *Scholar-class exemption available* |
+| **Avian Kin** | Body, then Spirit · Current-Reading | Dexterity | *Variable by territory* |
+| **Aquatic Kin** | Spirit, then Body · Depth-Pressure Resonance | Resilience | *Largely unclassified: maritime gap* |
+| **Chimeric-Born** | No fixed lean · Variable Conductor | Variable | *No coherent policy* |
 
 ---
 
@@ -59,13 +59,13 @@ Demihumans occupy a distinct category: **defined by dual-lineage inheritance rat
 >
 > This distinction produces meaningfully different lives for the people it classifies.
 
-A note on the columns below, which are the Guild's measure of what a lineage adds to or takes from a practitioner. **Vitality** counts for wounds, **Ardency** for output and the punch through worked armor, **Gnosis** for knowledge and the read, **Dexterity** for measure and reaction, **Harmonics** for attunement and the pull of Aether from the ground, **Resilience** for what a working does to the Crystal, **Tempering** for control and how long a working can be pushed, and **Dominion** for spatial authority and Pressure. A **Soul Path** is the share of a person's power running through body, spirit, attraction or fate. A **Wellspring** is one of the sixty types of Aether, each working on the Crystal in its own way. A **glyph** is a unit of Parunic, the script that writes boundaries onto laws, and a **Domain** is the territory in which a high-Stage practitioner's own law holds.
+A note on the columns below, which are the Guild's measure of what a lineage adds to or takes from a practitioner. **Vitality** counts for wounds, **Ardency** for output and the punch through worked armor, **Gnosis** for knowledge and the read, **Dexterity** for measure and reaction, **Harmonics** for attunement and the pull of Aether from the ground, **Resilience** for what a working does to the Crystal, **Tempering** for control and how long a working can be pushed, and **Dominion** for spatial authority and Pressure. An **Untrained lean** is the tilt a lineage gives the three layers of a soul before anyone has trained it, and it never sets Mastered or Walked ([[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]). A **Wellspring** is one of the sixty types of Aether, each working on the Crystal in its own way. A **glyph** is a unit of Parunic, the script that writes boundaries onto laws, and a **Domain** is the territory in which a high-Stage practitioner's own law holds.
 
 ### Half-Elves · The Third Path
 
 Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellspring territories. Born from the spiritual overlap of Elven soul-depth and Human glyph flexibility, **not fully either, genuinely both**, navigating the friction between two Crystal architectures that were not designed to occupy the same body.
 
-**Soul Path** · Spirit 55% / Body 30% / Fate 15%. Dual affinity: spatial Elven resonance plus adaptive Human Essence. **High conductivity, internal friction as the structural cost.**
+**Untrained lean** · Spirit 55% / Body 30% / Fate 15%. Both sides of the blood at once, Elven reach and Human adaptability. **High conductivity, internal friction as the structural cost.**
 
 | Stat | Mod | Note |
 |---|---|---|
@@ -82,7 +82,7 @@ Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellsprin
 >
 > **Rootlessness**: neither Elven nor Human communities fully accept them without active negotiation. **The political cost of existing between categories is ongoing.**
 
-**Wellsprings** · Aurevane through Elven inheritance. Somnalis through Florwynic lineage trace. Human-compatible Wellsprings fully accessible. Echo-adjacent occasionally accessible. **No Wellspring is fully closed; none is fully native.**
+**Wellsprings** · Aurevane through Elven inheritance. Somnalis through Florwynic lineage trace. Human-compatible Wellsprings fully accessible. Anamnesis occasionally accessible. **No Wellspring is fully closed; none is fully native.**
 
 **Culture** · The Harmonic Quarter communities in Altherion and border territories, loud, polyglot, and the best place on the river for a meal you will have to explain to both your families. Often the informal diplomatic bridge between Elven and Human institutions, **a function assigned to them rather than chosen by them, with predictable consequences for how they feel about performing it.**
 
@@ -90,7 +90,7 @@ Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellsprin
 
 Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility during the Great Concord Splintering. **Anyone who takes them for the weakest expression of either lineage tends to learn better at close quarters.** They are a third expression: Stone-Blood's kinetic inheritance running through a human body that has **the glyph-processing capacity the pure Orcish lineage lacks.**
 
-**Soul Path** · Body 60% / Spirit 30% / Fate 10%. Stone-Blood provides the kinetic expression; Human inheritance provides the structural processing capacity **that allows it to be directed rather than just released.**
+**Untrained lean** · Body 60% / Spirit 30% / Fate 10%. Stone-Blood provides the kinetic expression; Human inheritance provides the structural processing capacity **that allows it to be directed rather than just released.**
 
 | Stat | Mod | Note |
 |---|---|---|
@@ -103,7 +103,7 @@ Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility dur
 | Tempering | −05 | Overflow elevated: they push past sustainable output the way Ironblood does, but **their human Crystal architecture survives it better** |
 | Dominion | +05 | Sub-bass resonance partial field. Territorial instinct present at reduced expression |
 
-**Wellsprings** · Monolithion partial, accessible without full Ironblood resonance. Solfatara and Exuroth accessible. Human-standard fully accessible. **Divine Wellsprings are accessible, which distinguishes them from pure Ironblood and is a significant practical advantage.**
+**Wellsprings** · Monolithion partial, accessible without full Ironblood resonance. Solfatara and Exuroth accessible. Human-standard fully accessible. **Benediction and Absolution are accessible, which distinguishes them from pure Ironblood and is a significant practical advantage.**
 > **Palischuk**, the City of the Unchained: a half-Orc mercenary city-state, all banners, contracts and arguments, and the only city I know where a recruiting sergeant is expected to bid. Deep distrust of pure-blood institutions of both lineages. Independent mercenary culture that functions as a practical rather than ideological identity:
 >
 > **They are free because neither side will fully claim them, and they have decided that freedom is the better deal.**
@@ -112,7 +112,7 @@ Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility dur
 
 Produced through high-level magical grafting, alchemical transmutation, or Soul-Forge processes. **Most are crafted, and few are born.** Second-generation Chimerics can reproduce through volatile magical inheritance. Their lineage is a fractured mosaic (Fleshshapers, Ascendant Alchemists, failed divine imitations), and some trace partial lineage to primordial beasts whose Essence was harvested.
 
-**Soul Path** · Variable. No fixed distribution. Their souls function as **Variable Conductors**, capable of containing and channeling contradictory Wellspring qualities simultaneously. **This produces unstable or morphic glyph behavior as the structural cost.**
+**Untrained lean** · Variable, with no fixed distribution. Their souls function as **Variable Conductors**, capable of containing and channeling contradictory Wellspring qualities simultaneously. **This produces unstable or morphic glyph behavior as the structural cost.**
 
 No fixed stat modifier set: each has a unique distribution dependent on component lineages. Three universal markers only: **Adaptability** (resistance to environmental Essence stress), **Morphic Instability** (variable reliability of complex technique execution), and **Binding Scar** (the permanent inscription required to prevent physical and spiritual unraveling).
 > **Binding Scars are mandatory.** Removal or damage risks catastrophic Crystal and physical dissolution.

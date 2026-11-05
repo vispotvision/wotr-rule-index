@@ -6,7 +6,7 @@ title: The Heart-Weighing Blade
 
 *Edict Strike is the scholars' term. Its doctrine is "Uncertainty is the softest armor," and heralds who cried that at a bracket have lost teeth over it.*
 
-## THE HEART-WEIGHING BLADE (Edict Strike) (Vectra, Stage VIII)
+## THE HEART-WEIGHING BLADE (Edict Strike) (Strike, Stage VIII)
 
 There is a song about Sir Amaury the Unafraid, and in the first eight verses he is exactly that, grinning from under a lion's-head helm in six kingdoms, undefeated, with minstrels on retainer. The ninth verse is the bracket at Tollard, where a man in black raised one sword over his head and took three slow seconds bringing it down. Sir Amaury stood his ground with his chin up and the crowd roaring his name. The blade came down twice as heavy as any blade that size has a right to be, the lion's-head helm folded like a pie crust, and every person in the stands understood at once what the minstrels had been paid not to mention. The song has forty verses now, and most of them are about his mother's opinion.
 
@@ -24,7 +24,7 @@ This is impulse transfer with borrowed effective mass. The blade carries more we
 
 The glyphs are Measure across Edge: the working is a measurement, and the strike is the measurement made heavy. The boundary is the effective mass coupled into a falling blade, set equal to a read of the target. About three seconds after commitment it comes straight down with a verdict-like impact, armor below B-Grade buckles, and the target cannot tell whether they took a single or a doubled blow. Doubling for the same cost is an effective η above 1.0, and the surplus is pulled from the room, so a doubled strike sheds less and leaves the ground around the target briefly thinner. It is declared speaking, *Ars Vocis* (the voiced art), commanded aloud, with no material anchor at Transcendence.
 
-The pull is small, melee, one target. Fulguria wants dry air and clear sight; Materia wants worked stone and deep foundation. Ferrous plate partly cages the target against the read. Residue minimal. Judicium, the Wellspring of Truth (Fulguria), says every element shows only its own spectrum, so a target performing confidence still shows their own lines and the strike cannot be bluffed; it gives Gnosis Acuity and Analysis. Coagula, the Unifying Pulse (Materia), gathers the read into the blade as mass and gives Resilience Integrity and Tempering Coherence, while Ardency Flux carries the delivery. Judicium's spectral overload floods him with every composition in view, which is why the windup is slow. Coagula's residual porosity leaves voids in the weight, so a partly hesitant target gets less than a proportional share of the doubling.
+The pull is small, melee, one target. Judicium wants dry air and clear sight; Coagula wants worked stone and deep foundation. Ferrous plate partly cages the target against the read. Residue minimal. Judicium, the Wellspring of Truth (Wild), says every element shows only its own spectrum, so a target performing confidence still shows their own lines and the strike cannot be bluffed; it gives Gnosis Acuity and Analysis. Coagula, the Unifying Pulse (Wild), gathers the read into the blade as mass and gives Resilience Integrity and Tempering Coherence, while Ardency Flux carries the delivery. Judicium's spectral overload floods him with every composition in view, which is why the windup is slow. Coagula's residual porosity leaves voids in the weight, so a partly hesitant target gets less than a proportional share of the doubling.
 
 The Essence Core does the read and the Aether Shell the delivery, and each full swing loads Aether strain through wrists and shoulders, Clouding (the Shell's slow failure) at the conduit's end. Developmental Tier Radiant at Transcendence. After three verdict swings the joints no longer answer cleanly, and a fourth would fall slower and read longer. The named failure is a boundary fault, temporal: the read takes time, so the same seconds that measure the target's doubt give away the strike and give them time to leave. A quarter of an undoubled swing leaves the Shell at once as heat and sound, and it is the loudest thing on the field. The Imaginative-Virtue tradition holds that imagination does physical work, so its adherents send their fearless forward as immune. They are wrong, since the base blow lands regardless and fearlessness only halves it, and the Tradition's graveyard is well kept.
 
@@ -36,18 +36,25 @@ The Essence Core does the read and the Aether Shell the delivery, and each full 
 
 ### Codex line
 
-- **Wellspring** · Judicium (primary), Coagula (secondary)
-- **Family** · Fulguria (Judicium); Materia (Coagula)
-- **Physics Domain** · Electromagnetism (Fulguria); Material Science (Materia)
-- **Category** · Vectra
-- **Skill** · Speaking (*Ars Vocis*; declared)
-- **Stage floor** · Stage VIII, Transcendence
-- **Grade required** · S-Grade
-- **Path gate** · Body
+**Path** · Body. A blade blow; the Essence Core does the read, and the Aether Shell delivers it.
+
+**Lens** · Judicium (Wild, primary) · Coagula (Wild, secondary).
+
+**Form** · Strike. Straight down from a three-second windup.
+
+**Gates** · Ardency Penetration and Density open on the Body Path at Ascension and Flourishing, so it runs uncapped.
+
+**Glyph** · Measure across Edge. A physical limit: the effective mass coupled into a falling blade, set equal to a read of the target.
+
+**Skill** · Speaking (*Ars Vocis*; declared).
+
+**Stage floor** · Stage VIII, Transcendence.
+
+**Grade required** · S-Grade.
 
 ### FOW line
 
-Governing Primary: Gnosis, off Judicium's own Gnosis Acuity and Gnosis Analysis, with Resilience Integrity and Tempering Coherence carried in from Coagula for the strike's gathered weight, and Ardency Flux as the delivery stat for the raw force of the blow itself. Stage floor Stage VIII, Transcendence. Grade required S-Grade. Path gate Body. Resonant Pair: none.
+Governing Primary: Gnosis, off Judicium's own Gnosis Acuity and Gnosis Analysis, with Resilience Integrity and Tempering Coherence carried in from Coagula for the strike's gathered weight, and Ardency Flux as the delivery stat for the raw force of the blow itself. Stage floor Stage VIII, Transcendence. Grade required S-Grade. Resonant Pair: none.
 
 ### Origin
 
@@ -61,7 +68,7 @@ Its author derived this alone, the same signature pairing as Bastion Imperium. "
 
 **Fails against** · A target unreadable through a Resolve-aligned Wellspring; speed or a sublimation-type evasion out from under it; a commitment interrupted by a grapple or an ally stepping in; fog, ferrous plate or a shielded interior, which dull the read.
 
-**Look up** · Judicium and Coagula Failures in the Wellspring entries; Fulguria's suppressors; the Grade energy table and armor ceilings; the Transcendence Stage table; the Aether Shell failure states.
+**Look up** · Judicium and Coagula Failures in the Wellspring entries; Judicium's Ground; the Grade energy table and armor ceilings; the Transcendence Stage table; the Aether Shell failure states.
 
 ## Numbers
 

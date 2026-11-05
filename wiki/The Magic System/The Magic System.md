@@ -271,7 +271,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 
 *Consulted rather than read. The Field Manual is for whoever has to write a working down: how magic is recorded, not what magic is.*
 
-- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories: Unified Taxonomy]]: Reference. Consulted rather than read.
+- [[The Magic System/Reference and Craft/Forms|Forms]]: The twelve things hands do, each with its home Path, and what every art must state. Reference. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]: Every term, defined. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]: The trade words of lamp-wardens, assayers and glasshouses, carried over into the metaphysical case.
 - [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]: How a working is written down rather than what it is.

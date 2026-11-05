@@ -20,7 +20,7 @@ A Well-spawn is a creature born and bred inside a Well, whose body runs on the W
 
 ## How it looks
 
-Shaped like whatever its line was bred from, a fox, a toad, a crab, a bramble, but with a plate grown over the face (or over whatever serves it for one). The plate carries the hue of the Well's **Family** (one of the eight groups the sixty Wellsprings fall into, each a branch of physics) and a pattern drawn from that physics. **The deeper the spawn was bred, the clearer and brighter the mask.** Its aura, where it shows one, is the same color, and every line has a sound of its own: the Tolling Crab's one clear note, the Tinder-fox's dry crackle.
+Shaped like whatever its line was bred from, a fox, a toad, a crab, a bramble, but with a plate grown over the face (or over whatever serves it for one). The plate carries the hue of the Well's own **Wellspring** (one of the sixty) and a pattern drawn from that Wellspring's kind. **The deeper the spawn was bred, the clearer and brighter the mask.** Its aura, where it shows one, is the same color, and every line has a sound of its own: the Tolling Crab's one clear note, the Tinder-fox's dry crackle.
 
 ## What it costs
 
@@ -28,19 +28,19 @@ A Well-spawn eats **Aether** (the stuff all magic is pulled from, lying in the g
 
 ## How it is beaten
 
-**Break the mask.** Everywhere else a spawn takes wounds as an animal of its shape would; through the mask, one clean break ends it at any size. Beyond that, every spawn is beaten by the same four things: lure it off its Well, turn its Wellspring's own failure against it, fight it on ground its Family hates, and bring a Sealwright (a ward specialist) for the night.
+**Break the mask.** Everywhere else a spawn takes wounds as an animal of its shape would; through the mask, one clean break ends it at any size. Beyond that, every spawn is beaten by the same four things: lure it off its Well, turn its Wellspring's own failure against it, fight it on ground its Wellspring hates, and bring a Sealwright (a ward specialist) for the night.
 
 ## Example
 
-Edda Marsh, a licensed captain with a party of five crossbowmen and a porter, takes a contract to clear the upper workings of a Basilithe Well. The porter hears a note ring in the dark, the same note twice. Edda reads the mask by lamplight before anyone looses: ochre-amber, banded like quarry rock, dull as a charcoal ember. **Materia, upper workings: a Tolling Crab, and bolts will flatten on it.** She keeps the bows quiet, strikes the tuning bar from her kit, rings the crab's note back at it and holds it. The carapace falls into gravel all at once, and the porter is on the mask with a hammer before the dust settles, because the hall pays on a colored shard and a gray one is worth nothing.
+Edda Marsh, a licensed captain with a party of five crossbowmen and a porter, takes a contract to clear the upper workings of a Basilithe Well. The porter hears a note ring in the dark, the same note twice. Edda reads the mask by lamplight before anyone looses: ochre-amber, banded like quarry rock, dull as a charcoal ember. **Basilithe, upper workings: a Tolling Crab, and bolts will flatten on it.** She keeps the bows quiet, strikes the tuning bar from her kit, rings the crab's note back at it and holds it. The carapace falls into gravel all at once, and the porter is on the mask with a hammer before the dust settles, because the hall pays on a colored shard and a gray one is worth nothing.
 
 ---
 
 ## How a Well Breeds Them
 
-**The Aether makes the body.** An animal has an Essence Core (the soul's seat, where its own nature is kept) but no Shell (the vent through which a practitioner's soul drives Essence out). At a Well the Aether pours into that Core and has nowhere to go, and over generations the line stops living by its own nature and starts living by the Well's. **Its young are born already made.** That is a Well-spawn: a bred line, flesh and blood and bone, organized along a Wellspring's law.
+**The Aether makes the body.** An animal has an Essence Core (the soul's seat, where its own nature is kept) and a sealed Shell (the vent through which a practitioner's soul drives Essence out, and it [[The Bestiary/The Bestiary#What Has a Soul|stays sealed]] until something cracks it). At a Well the Aether pours into that Core and has nowhere to go, and over generations the line stops living by its own nature and starts living by the Well's. **Its young are born already made.** That is a Well-spawn: a bred line, flesh and blood and bone, organized along a Wellspring's law.
 
-**The mask is the law made solid.** A practitioner's working is bounded by its glyph, the shape that tells the Essence where to stop. A Well-spawn's body is bounded by its mask. The plate grows over the face in the first season of life, and everything the creature can do is held inside the boundary it draws. **Kill the body and the mask still reads as its Family for a day or two. Break the mask and the body has no law left to keep it in shape**, and goes back to being ordinary meat.
+**The mask is the law made solid.** A practitioner's working is bounded by its glyph, the shape that tells the Essence where to stop. A Well-spawn's body is bounded by its mask. The plate grows over the face in the first season of life, and everything the creature can do is held inside the boundary it draws. **Kill the body and the mask still reads as its Wellspring for a day or two. Break the mask and the body has no law left to keep it in shape**, and goes back to being ordinary meat.
 
 **Only the Well-born are spawn.** An animal that wandered onto dense ground and stayed too long comes out strange, short-lived and unable to breed true. The register enters it with the Natural Beasts, or with the Aberrations if corruption made it, and it wears no mask. The Scourge-born herds of the Scourge of Hell are the one exception on file: warped so long ago that they breed true, still with no mask, and they sit with the Natural Beasts under protest. **Aether-warped beasts, Spirit Beasts, the corrupted lineages and summoned things all keep their own pages.** A mask means a Well, every time.
 
@@ -48,20 +48,16 @@ Edda Marsh, a licensed captain with a party of five crossbowmen and a porter, ta
 
 ---
 
-## The Mask, by Family
+## The Mask, by Wellspring
 
-*Hue from the Family, shade from the Wellspring, pattern from the physics, clarity from the depth.*
+*Hue from the Wellspring, pattern from its kind, clarity from the depth.*
 
-| Family | Physics | Mask hue | Pattern |
-|---|---|---|---|
-| **Caloria** | Heat | **Ember-orange**, iron at cherry-red; Solfatara lines run sulfur-red | **Crazed** like slag cooling on a foundry floor |
-| **Fulguria** | Electricity, light | **Arc-blue**, the blue of a lightning strike; near-white to deep naval by Wellspring | **Branching**, a lightning tree burned into the plate |
-| **Vectoria** | Force, weight | **Iron gray to dark blued steel**; Abython lines near-black | **Concentric rings**, a stone dropped in still water |
-| **Spatium** | Distance, position | **Deep violet**, red-violet to blue-violet | **Ruled lines that never quite meet**; the eye keeps trying to close them |
-| **Materia** | Matter | **Ochre to deep amber**, limestone pale to iron-oxide dark | **Strata and facets**, and a fine grit that comes off on the hand |
-| **Vitalia** | Life | **Arterial red**; Verdantia lines chlorophyll green, Mortalis black-red | **Veins and growth rings** |
-| **Fluxia** | Fluids, pressure | **Deep teal**, darkest on Thaloré lines | **Streamlines and eddies**, water over a weir |
-| **Limina** | Entropy, void, mind | **Black-violet**, from dream-lavender to absolute dark | **An absence.** The eye slides off it, and finds the face by where the darkness is deepest |
+| Kind | Pattern | Hues a hunter learns |
+|---|---|---|
+| **Wild** | A print of the thing itself: **crazed** like slag cooling on a foundry floor off hot ground, **branching** like a lightning tree off charged ground, **concentric rings** like a stone dropped in still water off heavy ground, **strata and facets** with a fine grit that comes off on the hand off stone, **veins and growth rings** off green ground. Off the light-eaters it is **an absence**: the eye slides off it, and finds the face by where the darkness is deepest | Abython, near-black · Anima Spirare, bright arterial red · Ascensio, steel gray with pulley-lines · Basilithe, ochre-gold with quartz-clear lines · Cataclysm, white-orange flash with a pale ring · Chthonica, dark iron-oxide · Cinerion, gray-orange, embers showing through ash · Coagula, amber-gray · Coagulatio, pale amber crystals · Cymorath, blue with spiraling curves · Dissolution, clear translucent violet · Eidolyn, violet with a lattice pattern · Exuroth, cherry-red cooling through straw and plum to a temper blue at the edges · Fractura, dark blued steel with hairline bright cracks · Ignivale, one white-orange point · Judicium, arc-blue with colored line-fringes · Manganthra, orange with dark violet-brown glints · Materia Primordia, ochre shifting between graphite-gray and diamond-clear · Monolithion, deep amber monolith · Nihiloth, absolute dark · Orrenthal, polished blue-silver · Petralon, heavy gray · Pyraeon, dull red glow under a crust, no flame · Pyreveil, deep ember-orange, steady · Rebirthine, red with gray flecks · Solfatara, deep sulfurous red · Sublimare, gray graded in bands · Sublimatio, iron-gray vapor · Tenebra, matt black-violet that absorbs light · Terranova, pale limestone · Transmutatio, blue-violet · Vantabriel, near-black with a retained faint glow · Verdantia, chlorophyll green |
+| **Spirit** | **Streamlines and eddies**, like water over a weir, on a plate that is dry to the touch, and they seem to move while you are feeling something | Absolution, polished steel · Abyntheus, deep naval blue, slow-pulsing · Catharsis, pale rose-gold · Contrition, dull red with a sting · Eclipseron, red-violet with a dark disc · Hypnather, glassy violet · Lethegraal, gray-violet, slow ebb · Letheveil, black-violet with color drained from the edges · Mirithane, silver-violet mirror · Nyxial, deep violet with a small cold flame · Oneirion, dream-lavender · Penance, dull iron, darkening · Penanceflare, the full spectrum, red to white, tracking temperature · Redemption, copper-bright · Thaloré, the deepest teal, nearly black |
+| **Fate** | **Ruled lines that never quite meet**; the eye keeps trying to close them | Benediction, warm red-gold · Oblation, the warmest teal, amber at the edge · Oblivara, black with returning sparks · Somnalis, teal with ghost outlines · Tarturon, hot amber-red · Transference, median violet |
+| **Medium** | **Two prints at once**, whichever the line leans on laid over the fine stripes of the rest | Anamnesis, faded violet · Aurevane, hard-edged white-blue · Fixatio, amber resin · Luminalis, near-white with ultraviolet edges · Mortalis, venous black-red · Phreatis, copper-green |
 
 **Clarity reads the depth**, on the same smelting scale as a practitioner's Essence color:
 
@@ -135,7 +131,9 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 **Its Wellspring's failure.** A spawn is its Wellspring's law in a body, and it inherits the law's way of going wrong. Every entry's weakness column is that failure turned into a hunter's method.
 
-**Its Family's ground.** A Caloria spawn in saturated cold is a small animal. A Limina spawn in a loud, crowded, well-lit gallery has nowhere to stand.
+**Its Wellspring's ground.** Every entry in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] says what its ground favors and hates. An Ignivale spawn in saturated cold is a small animal. A Vantabriel spawn in a loud, crowded, well-lit gallery has nowhere to stand. A Spirit spawn cares for little except how thick the Aether lies, and off the Well it is mostly a very sad fish.
+
+**The right road.** A spawn leans where its Wellspring's kind says, as [[The Bestiary/The Bestiary#Who to Bring|the hub sets out]]. The register below names it.
 
 **The Sealwright.** Ward-chalk holds the shallow lines off a sleeping party for a night. It does not hold a speaking one, which will sit outside the chalk and talk until somebody steps over it.
 
@@ -174,17 +172,17 @@ The guilds still call hunters mouths with crossbows. **The Well towns call them 
 
 *Every bred line on file, its mask and its depth. Full entries for three follow; the rest keep their entries as recorded.*
 
-| Entry | Family, Wellspring | Bred at | Mask | Commission · Rung on its Well |
+| Entry | Wellspring, leans on | Bred at | Mask | Commission · Rung on its Well |
 |---|---|---|---|---|
-| **Tinder-fox** | Caloria, Ignivale | The Mouth | Ember-orange crazing over the muzzle | T2 Moderate, Green · Field-bane |
-| **Leveling Leech** | Spatium, Transference | The Mouth | A violet disc over the sucker, its ruled lines never meeting | T2 Moderate, Green · Field-bane |
-| **Reaching Briar** | Vitalia, Verdantia | The Mouth | A green, ring-grown knot over the root-crown | T4 High, Blue · Road-bane |
-| **Glarewing** | Fulguria, Aurevane | The Upper Workings | An arc-blue lightning tree across the brow | T4 High, Blue · Road-bane |
-| **Tolling Crab** | Materia, Basilithe | The Upper Workings | Ochre-amber strata set into the carapace front | T5 Extreme, Blue · Hamlet-bane |
-| **Lamp-drinker** | Limina, Vantabriel | The Upper Workings | Found only as the darkest place on a dark shape | T6 Domain, Gold · Hamlet-bane |
-| **Sump-toad** | Vectoria, Abython | The Lower Workings | Blued-steel rings across the brow, riding level with the water | T5 Extreme, Blue · Hamlet-bane |
-| **Mourning Pike** | Fluxia, Thaloré | The Lower Workings | Deep teal streamlines over the skull | T5 Extreme, Blue · Hamlet-bane |
-| **Roll-caller** | Limina, Anamnesis | The Deeps | Silver-gray threaded with black-violet, finely striped | T6 Domain, Gold · Town-bane |
+| **Tinder-fox** | Ignivale, the Shell | The Mouth | Ember-orange crazing over the muzzle | T2 Moderate, Green · Field-bane |
+| **Leveling Leech** | Transference, the Layer | The Mouth | A violet disc over the sucker, its ruled lines never meeting | T2 Moderate, Green · Field-bane |
+| **Reaching Briar** | Verdantia, the Shell | The Mouth | A green, ring-grown knot over the root-crown | T4 High, Blue · Road-bane |
+| **Glarewing** | Aurevane, Medium | The Upper Workings | An arc-blue lightning tree across the brow | T4 High, Blue · Road-bane |
+| **Tolling Crab** | Basilithe, the Shell | The Upper Workings | Ochre-amber strata set into the carapace front | T5 Extreme, Blue · Hamlet-bane |
+| **Lamp-drinker** | Vantabriel, the Shell | The Upper Workings | Found only as the darkest place on a dark shape | T6 Domain, Gold · Hamlet-bane |
+| **Sump-toad** | Abython, the Shell | The Lower Workings | Blued-steel rings across the brow, riding level with the water | T5 Extreme, Blue · Hamlet-bane |
+| **Mourning Pike** | Thaloré, the Core | The Lower Workings | Deep teal streamlines over the skull | T5 Extreme, Blue · Hamlet-bane |
+| **Roll-caller** | Anamnesis, Medium | The Deeps | Silver-gray threaded with black-violet, finely striped | T6 Domain, Gold · Town-bane |
 
 The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, which is why they stand above their depth.
 
@@ -194,7 +192,9 @@ The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, wh
 
 > Vulpes ignita in the Guild register. **Tinder-fox** or **the red nuisance** on the Well roads.
 
-**Well-spawn · T2, Moderate Threat, Green Sigil · Caloria, Ignivale · bred at the mouths of Ignivale Wells; strays up the workings**
+**Well-spawn · T2, Moderate Threat, Green Sigil · Ignivale · bred at the mouths of Ignivale Wells; strays up the workings**
+
+**Leans on** · the Shell, by Ignivale, Wild. *Body:* a boot on the mask. *Spirit:* keep your own working in hand, because Ignivale's whole trick is that you will not. *Fate:* nobody has ever needed to.
 
 **On the ladder** · output Hearth-pest; holds the tie; stands at Field-bane. **Mask** · a scrap of smoke-brown plate over the muzzle, ember-orange under the murk and crazed like cooling slag.
 
@@ -214,7 +214,9 @@ Fox-sized, coat singed short and black at the tips, warm to the hand through a g
 
 > Bufo profundus in the Guild register. **Sump-toad**, **the bottom-sitter**; among delvers, **the old man below**.
 
-**Well-spawn · T5, Extreme Threat, Blue Sigil · Vectoria, Abython · bred in the deepest sumps of the lower workings of Abython Wells**
+**Well-spawn · T5, Extreme Threat, Blue Sigil · Abython · bred in the deepest sumps of the lower workings of Abython Wells**
+
+**Leans on** · the Shell, by Abython, Wild. *Body:* a harpoon at the rings. *Spirit:* an old toad's mind is very simple, and it can be read from the far end of a shaft. *Fate:* its pulse needs water and silt to push against, and a flood has its own ideas.
 
 **On the ladder** · output Road-bane; holds the tie; stands at Hamlet-bane. **Mask** · a broad gray plate across the brow, near-black steel veined with a clearer gleam, ringed like a stone dropped in still water. It rides level with the sump, eyes set in it, and a winding-man's first sight of the toad is a plate floating in black water that is not floating.
 
@@ -234,7 +236,9 @@ A toad the size of an ox, flat and slick, hide loose on it like a sack. Abython 
 
 > Vocator sepultorum in the Guild register. **Roll-caller**; among deep crews, **the Foreman**, because it calls the roll in the voice of whoever kept the pay-book when it last heard one.
 
-**Well-spawn · T6, Domain Threat, Gold Sigil · Limina, Anamnesis · bred in the Deeps of Anamnesis Wells, where the Veil runs thin; has never been seen above them**
+**Well-spawn · T6, Domain Threat, Gold Sigil · Anamnesis · bred in the Deeps of Anamnesis Wells, where the Veil runs thin; has never been seen above them**
+
+**Leans on** · the Core, by Anamnesis, Medium. *Body:* a spear's length and a Master's blow. *Spirit:* it reads by touch, and a good Read can tell which of the things it says are true. *Fate:* it survives by being right about you, and one spoiled name breaks its whole bargain.
 
 **On the ladder** · output Hamlet-bane; holds the tie; stands at Town-bane. The Commission rates it a Domain Threat for the mind and the voice, and sends Masters. **Mask** · a whole face of silver-gray plate threaded with a black-violet the eye cannot hold, striped fine and even like cooled lava rock. It glows faintly when warmed.
 
@@ -248,8 +252,8 @@ Its strike is **the Recollection**: everything it has read and stored let go at 
 
 | Abilities | Weaknesses |
 |---|---|
-| **The roll** · speaks the names and voices of everyone the Well has killed **The reading** · one touch, and it knows your history and your dead **The bargain** · trades what it knows for fed lamps and spent reserve, and lies while it does **Following** · the lesser spawn of its Well move with it **The Recollection** · a discharge of stored light and heat that collapses a working level | **The mask.** Worked plate at its own Grade; it wants a Master's blow, an enhanced bolt of the same rank, or the failure below first. Broken, it banishes the creature down the Well **Thermal resetting.** Heat the mask, with a Guild craftsman's white flare, a furnace brand or a held Caloria working, and the stored record pours out of it as light; for a while it remembers nothing, speaks nothing and is only an animal **The Recollection empties it.** Bait the discharge and the same thing follows **It must touch to read.** Keep it at a spear's length and keep your coat out of its hands **Saturated Aether, crowds and noise** give Limina nowhere to stand |
+| **The roll** · speaks the names and voices of everyone the Well has killed **The reading** · one touch, and it knows your history and your dead **The bargain** · trades what it knows for fed lamps and spent reserve, and lies while it does **Following** · the lesser spawn of its Well move with it **The Recollection** · a discharge of stored light and heat that collapses a working level | **The mask.** Worked plate at its own Grade; it wants a Master's blow, an enhanced bolt of the same rank, or the failure below first. Broken, it banishes the creature down the Well **Thermal resetting.** Heat the mask, with a Guild craftsman's white flare, a furnace brand or a held heat working, and the stored record pours out of it as light; for a while it remembers nothing, speaks nothing and is only an animal **The Recollection empties it.** Bait the discharge and the same thing follows **It must touch to read.** Keep it at a spear's length and keep your coat out of its hands **Saturated Aether, crowds and noise** give Anamnesis nowhere to stand |
 
-> A deep crew on a Limina Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the basket.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a gray mask, split clean across, and would not say what it had told her.
+> A deep crew on an Anamnesis Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the basket.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a gray mask, split clean across, and would not say what it had told her.
 >
 > On Anamnesis Wells the pay-book is kept above ground, the dead are never named below the lamp-line, and **"the Foreman's asking for you"** means a grief that has started to talk back.

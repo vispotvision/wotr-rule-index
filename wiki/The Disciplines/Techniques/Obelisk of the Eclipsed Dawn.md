@@ -4,7 +4,7 @@ title: "The Star-Felled Spire"
 
 # THE STAR-FELLED SPIRE
 
-*Speaking, Animatria, Stage XII. The scholars' term is the Obelisk of the Eclipsed Dawn.*
+*Speaking, Make, Stage XII. The scholars' term is the Obelisk of the Eclipsed Dawn.*
 
 > *Six stars fall, one tower tall,*
 > *what you built is none at all.*
@@ -33,7 +33,7 @@ What it does is a local entropy decrease, decay run backwards inside a boundary,
 
 The prism holds because of its lattice, a high-stiffness, low-loss resonator that keeps its frequency against forcing, like cut quartz (Q 10⁴ to 10⁷, stability 10⁻⁶ to 10⁻⁸), so it holds its state for its whole span. Below it sits an arch-like compressive anchor, 5 to 50 MPa in compression and about a tenth in tension: loaded in the one direction it does not answer, it parts.
 
-Six Wellsprings carry it. Basilithe, the Stone Will (Materia), is primary, the stiff lattice that external rhythms cannot drive. Tarturon, the Fire of Reckoning (Materia), scales its response with the load above yield and supplies its own oxidizer, so it cannot be smothered once started. Petralon, the Foundation Stone (Vectoria), routes every load into compression, accepting slow creep to avoid a tensile crack. Fractura, the Breaking Point (Vectoria), says past toughness a crack runs and does not stop, and it carries the mirrored load-sharing across up to four instances. Oneirion, the Wellspring of Dream (Limina), holds a system's state as a point in configuration space, the space the field's trajectory is run back through. Tenebra, the Hidden Shadow (Limina), gives absorption and shaped return, the outer shell of the prism. That is four Materia and Vectoria currents against two Limina, the setting's hardest pairing. The practitioner's coherence holds it, and Tempering Capacity caps all six, degrading every harmonization at once if exceeded.
+Six Wellsprings carry it. Basilithe, the Stone Will (Wild), is primary, the stiff lattice that external rhythms cannot drive. Tarturon, the Fire of Reckoning (Fate), scales its response with the load above yield and supplies its own oxidizer, so it cannot be smothered once started. Petralon, the Foundation Stone (Wild), routes every load into compression, accepting slow creep to avoid a tensile crack. Fractura, the Breaking Point (Wild), says past toughness a crack runs and does not stop, and it carries the mirrored load-sharing across up to four instances. Oneirion, the Wellspring of Dream (Spirit), holds a system's state as a point in configuration space, the space the field's trajectory is run back through. Tenebra, the Hidden Shadow (Wild), gives absorption and shaped return, the outer shell of the prism. That is four currents of stone, fire and force against two of dream and shadow, the setting's hardest pairing. The practitioner's coherence holds it, and Tempering Capacity caps all six, degrading every harmonization at once if exceeded.
 
 No more than four stand at once, and here is the famous joke with the blood on it. The cap is equal load sharing, like a fiber bundle: each survivor takes up a failed member's load, and past redistribution capacity the whole bundle fails at once instead of shedding its newest member. A fifth appears and brings the others down with it, and four instances at 800 m already sit at the saturation threshold, so a fifth crosses it and every Crystal present, the practitioner's included, risks a Crystal Fracture Event. A Collegium school reads the tower as an engine of return, a thing reverting to its cause, and holds that a permission cannot be overloaded. The bundle consults nobody's nature, and a fifth still brings the four down.
 
@@ -58,7 +58,7 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 
 **Saturation** · Flooding the area with Essence gives everyone present Fracture risk, the one who did it included; with four standing the field is already at the threshold.
 
-**Look up** · The Counterplay register for Lock, Silence and Dissolution; the Materia terrain modifiers; the Materia, Vectoria and Limina entries for these six Failures; the Emanation Stage table; the Strike Force Grade bands.
+**Look up** · The Counterplay register for Lock, Silence and Dissolution; the Ground of Basilithe, Petralon and Tenebra on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the entries for these six Failures; the Emanation Stage table; the Strike Force Grade bands.
 
 ### Numbers
 
@@ -71,8 +71,6 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 | SSS band, Strike Force | Grade table | 1 to 5 PN; 418 TJ to 4.184 ZJ |
 
 **Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU (ceiling 6.70 × 10⁹), η 0.85 to 0.90, Fate Path; Grade SSS.
-
-**Paths** · Depth and Breadth open on Fate Path; Density above B needs Body Path, so the lattice's Density is capped at B and Petralon carries its mass.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -91,14 +89,21 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 
 ### Codex line
 
-- **Wellspring:** Basilithe, The Stone Will (primary). Secondary harmonizations carried: Tarturon, Petralon, Oneirion, Tenebra, Fractura.
-- **Family:** Materia
-- **Physics Domain:** Material Science
-- **Category:** Animatria
-- **Skill:** Speaking, internalized: she stills her Essence and commits, with no outside chain to interrupt
-- **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
-- **Grade required:** SSS-Grade
-- **Path gate:** Fate Path
+**Path** · Fate. All three layers pay inside the field, but its Depth and Breadth open here. No thread of Fate comes down for any of it.
+
+**Lens** · Basilithe (Wild, primary) · Petralon, Tenebra, Fractura (Wild), Oneirion (Spirit), Tarturon (Fate), secondary.
+
+**Form** · Make. A prism the height of a tower, on its own line.
+
+**Gates** · Depth and Breadth open on Fate Path; Density above B needs Body Path, so the lattice's Density is capped at B and Petralon carries its mass.
+
+**Glyph** · Return across Continuum and Form. A term: this region's trajectory may run back along itself. The second law goes unopposed and is paid.
+
+**Skill** · Speaking, internalized: she stills her Essence and commits, with no outside chain to interrupt.
+
+**Stage floor** · Stage XII, Emanation (Band IV, Mythic; Level 301-400).
+
+**Grade required** · SSS-Grade.
 
 ### FOW line
 
@@ -106,7 +111,6 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 - **Governing Sub-Stats:** Density (whether the Obelisk is a participant or a suggestion), Compression (how cleanly six Wellspring signatures refine into one stable lattice), Depth (how many Wellspring qualities the working holds without resonance conflict)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Fate Path
 - **Resonant Pair:** None attested on the roll.
 
 ### Origin

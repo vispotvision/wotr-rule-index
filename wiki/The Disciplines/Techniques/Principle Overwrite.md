@@ -4,7 +4,7 @@ title: "The Creation Clause"
 
 # THE CREATION CLAUSE
 
-*Speaking, Domain Weaving, Stage XIV. The scholars' term is Principle Overwrite. Very few living have stood inside one, and fewer can tell you what happened in what order.*
+*Speaking, Claim, Stage XIV. The scholars' term is Principle Overwrite. Very few living have stood inside one, and fewer can tell you what happened in what order.*
 
 The minstrels will tell you about the Silent Drums of Carrow Field: nine thousand men in painted harness on a blazing summer morning, and one voice, unhurried, naming a law and its replacement. Every drum on the field stopped between one beat and the next, and the drummers went on swinging. A war-bow's arrow stood in a captain's throat a full breath before his archer loosed it, and the archer loosed it anyway, weeping. Three different songs give three different amendments, and all three are wrong in the details, because the singers learned it from men who could not agree on which came first, and that was rather the point.
 
@@ -18,13 +18,13 @@ The minstrels will tell you about the Silent Drums of Carrow Field: nine thousan
 
 ### How it really works
 
-The room warns you first. The temperature falls about ten degrees, a hush presses, a drone rises through the floor, scorched circles spread from the speaker. The chain is internal at Zenith, yet the trigger is spoken aloud, naming the Hermetic Principle, one at a time, and its replacement for everyone in earshot. He pulls a county's worth of Aether. Fulguria likes dry air and clear sight and fails in shielded interiors and fog, and Caloria likes steep heat gradients and fails in equilibrium, saturated cold and thin air. Common report says roughly fifteen seconds, because nobody in the field is counting well; the Guild roll says 18 s.
+The room warns you first. The temperature falls about ten degrees, a hush presses, a drone rises through the floor, scorched circles spread from the speaker. The chain is internal at Zenith, yet the trigger is spoken aloud, naming the Hermetic Principle, one at a time, and its replacement for everyone in earshot. He pulls a county's worth of Aether. Judicium likes dry air and clear sight and fails in shielded interiors and fog, and Exuroth likes steep heat gradients and fails in equilibrium, saturated cold and thin air. Common report says roughly fifteen seconds, because nobody in the field is counting well; the Guild roll says 18 s.
 
 What he holds open is a false-vacuum bubble: inside five kilometers one rule becomes a different rule, a higher-energy state held inside the lower one against its own wall tension. A bubble of a second state has a critical radius R_c = 3σ/ε (wall tension over energy gap), and a higher-energy bubble does not grow, since both its wall and its deficit push inward, so it must be held. Release is mandatory: the wall's 4πR²σ and the interior's (4/3)πR³ε go somewhere every time, crossing five kilometers in about 17 µs. Like ice melting at 0 °C (334 J/g at constant temperature), a clean collapse spends its energy on the old state re-forming; resisted by a comparable source, it goes out as a shockwave.
 
 The glyph is Order, which of two orders the region is under, laid across Command for authorization and Vastness for the five kilometers. The boundary condition is which state one region is in, for one Principle, while the wall holds: the practitioner nucleates a second state beside the law and stands on the lid. It edits operational principles at the Archonic Law stratum, and the three it is known to reach are Cause and Effect, Rhythm and Polarity. He moves no thread, and he owes nothing to the Path that could. The Principle goes on untouched on the Plane of Fate, where the Archons are Sovereign, and what he holds for eighteen seconds is a local disagreement with it, which is why an Archonic verdict ends it outright and why it costs what it costs to stand on the lid.
 
-Three Wellsprings serve. Judicium, the Wellspring of Truth (Fulguria), primary: no substance can present another's spectrum, so a Crystal, technique or lie is identified by its lines. Every element shows only its own spectrum, so identifying which state a rule is in is cheap and nearly free, yet it penetrates poorly, like eddy-current testing that finds the crack under paint and misses the one under plate. Exuroth, the Trial Flame (Caloria): repeated shock and controlled recovery harden a lattice past what slow cooling reaches. That is quench and temper (200 to 650 °C, 65 HRC down to the low forties), and it lets a lattice survive holding a wall that would split it untempered. Catharsis, the Wellspring of Release (Caloria): load is routed into a change of state in the soul in place of output, arriving calmer on the other side, and it gives the county no heat at all. Each hands down a failure: Judicium's spectral overload, everything reporting at once; Exuroth's quench cracking from holding too long or too often; Catharsis's supercooling, a release that fails to nucleate and then goes all at once.
+Three Wellsprings serve. Judicium, the Wellspring of Truth (Wild), primary: no substance can present another's spectrum, so a Crystal, technique or lie is identified by its lines. Every element shows only its own spectrum, so identifying which state a rule is in is cheap and nearly free, yet it penetrates poorly, like eddy-current testing that finds the crack under paint and misses the one under plate. Exuroth, the Trial Flame (Wild): repeated shock and controlled recovery harden a lattice past what slow cooling reaches. That is quench and temper (200 to 650 °C, 65 HRC down to the low forties), and it lets a lattice survive holding a wall that would split it untempered. Catharsis, the Wellspring of Release (Spirit): load is routed into a change of state in the soul in place of output, arriving calmer on the other side, and it gives the county no heat at all. Each hands down a failure: Judicium's spectral overload, everything reporting at once; Exuroth's quench cracking from holding too long or too often; Catharsis's supercooling, a release that fails to nucleate and then goes all at once.
 
 Nothing is struck. Effect arrives before cause, a rhythm stops, opposites become one, and everything built on the old reading fails. It binds everyone inside, ally and enemy alike, and old-reading wards and inscriptions misfire for as long as the carving holds. One Principle per activation: a second wall is the Lock problem, and the Crystal refuses a chain. Forcing a chain past the refusal is the structural fault, Principle Collapse, paradox recoil fracturing selfhood, with an eighteen percent chance of self-erasure at high inversion depth. A failed Seal leaves a county under a rewritten law with nobody on the lid. Downstream sits the Boundary fault: an imprecise five-kilometer condition runs the law somewhere unintended, and at that radius that is a county.
 
@@ -45,7 +45,7 @@ The Shell holds the wall, the Attraction Layer authorizes a five-kilometer claim
 
 **Oaths** · Two contradictory Oaths of equal weight freeze a Celestial practitioner; a known vow binds them in public; a written record of rewrites is a pattern a librarian can read.
 
-**Look up** · The Counterplay register for Knot, Lock and forced Seals; Nihiloth and Talos-class fields; the Fulguria and Caloria terrain entries and Failures; the Zenith Stage table; Archonic verdicts.
+**Look up** · The Counterplay register for Knot, Lock and forced Seals; Nihiloth and Talos-class fields; the Ground of Judicium and Exuroth on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]] and Catharsis on the [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Spirit page]] and Failures; the Zenith Stage table; Archonic verdicts.
 
 ### Numbers
 
@@ -72,14 +72,21 @@ The Shell holds the wall, the Attraction Layer authorizes a five-kilometer claim
 
 ### Codex line
 
-- **Wellspring** · Judicium (primary), Exuroth and Catharsis (secondary)
-- **Family** · Fulguria (Judicium, Electromagnetism); Caloria (Exuroth and Catharsis, Thermodynamics)
-- **Physics Domain** · Electromagnetism, primary; Thermodynamics, secondary
-- **Category** · Domain Weaving (Attraction-Aligned), a single soul's law-claim over a bounded field, forcing local reality to obey the new vector, rather than an alignment of existing fields
-- **Skill** · Speaking (Declared activation, holds only while sustained)
-- **Stage floor** · Stage XIV, Zenith
-- **Grade required** · EX-Grade
-- **Path gate** · Spirit Path
+**Path** · Spirit. A law-claim over five kilometers that rules what a Principle means. He moves no thread, and owes nothing to the Path that could.
+
+**Lens** · Judicium (Wild, primary) · Exuroth (Wild), Catharsis (Spirit), secondary.
+
+**Form** · Claim. A law said aloud, held for eighteen seconds.
+
+**Gates** · Dominion Sovereignty's own gate calls for the Fate Path at Stage VI and is not met; see the Practitioner line.
+
+**Glyph** · Order across Command and Vastness. What a thing is taken to be: which state one region counts as being in, for one Principle, while the wall holds.
+
+**Skill** · Speaking (Declared activation, holds only while sustained).
+
+**Stage floor** · Stage XIV, Zenith.
+
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -88,8 +95,6 @@ Governing Primary: Dominion (Sovereignty, Radius), primary, gated as above; Gnos
 Stage floor: Stage XIV, Zenith.
 
 Grade required: EX-Grade.
-
-Path gate: Spirit Path (Dominion Sovereignty's own gate calls for Fate Path at Stage VI and is not met; see the Practitioner line).
 
 Resonant Pair: None claimed; the roll gives no paired Sub-Stat values to test for a Harmonic Convergence.
 

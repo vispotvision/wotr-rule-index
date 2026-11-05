@@ -4,7 +4,7 @@ title: "The One-Pulse Tribunal"
 
 # THE ONE-PULSE TRIBUNAL
 
-*Speaking, Concordia, Stage XIV. The scholars' term is World Echelon.*
+*Speaking, Sing, Stage XIV. The scholars' term is World Echelon.*
 
 They tell it in the taverns of Marrowgate, with the good cups out. It was the market-morning of the Saffron Fair, every awning yellow and every fishwife in full voice, and a man said one sentence on the steps of a counting-hall in an ordinary tone. Five thousand people breathed in together. They went on buying and selling and quarreling, and it did not look like anything for a moment; then a fishwife and her enemy of thirty years turned to look at the steps at exactly the same angle. What they felt stayed theirs. When they felt it had been taken away. The town's Harmonists have heard one beat under everything since, and the fair is still not quite certain who was on trial.
 
@@ -18,15 +18,15 @@ They tell it in the taverns of Marrowgate, with the good cups out. It was the ma
 
 ### How it really works
 
-He declares it aloud, and at Zenith no anchor is needed. Aether is pulled thinly across the whole sphere through Fulguria, which fails over tiled, fogged, shuttered or shielded ground, and over ground thick with Aether the pull can pass saturation and fracture every Crystal exposed, his own included. Reports say roughly forty seconds; the Guild roll says eight turns, 48 seconds.
+He declares it aloud, and at Zenith no anchor is needed. Aether is pulled thinly across the whole sphere through Judicium, which fails over tiled, fogged, shuttered or shielded ground, and over ground thick with Aether the pull can pass saturation and fracture every Crystal exposed, his own included. Reports say roughly forty seconds; the Guild roll says eight turns, 48 seconds.
 
 Nothing strikes. The real phenomenon is phase synchronization in coupled oscillators: every mind within five kilometers is pulled to keep one common time, like pendulums hung from one beam falling into step, so ordinary private feeling becomes a measurable deviation from a shared reference. The law is the Kuramoto model: coherence r stays at zero until coupling clears Kc = 2 / (π g(0)), then rises toward 1, and coupling is symmetric, so every node pulls on every other. It sets only phase, never amplitude or content, so it is cheap; but a divided crowd may never lock, there is no partial court, and near the threshold release takes unboundedly long (critical slowing down). A coupled node is coupled, and the practitioner is a node, so the court synchronizes his own people and himself. Feeling keeps its content and loses its timing, breathing falls in, the crowd moves as one.
 
 Those at the court's own phase register nothing, those far off never couple and stand out, and those between are the evidence. The glyphs are Order, limiting how much variance a field may carry; Vastness, laying it across five kilometers; Measure, doing the weighing. The boundary condition is one scalar: the coupling strength between every Essence-bearing oscillator within 5,000 m. Two boundary conditions on one field are one too many, so it cannot run with Dirge Ascension.
 
-Judicium, the Wellspring of Truth (Fulguria), is primary: every element shows only its own spectrum, so it weighs and identifies, and the Domain does the synchronizing. Behind it stand the injured Wellsprings he holds under the Heresiology's injury framework, fifty-seven of the Sixty, across most of the eight Families. Judicium's own named corruption is review turned into domination, which the court performs. Judicium's spectral overload is the inherited failure: a court that makes every emotion in five kilometers legible at once invites it.
+Judicium, the Wellspring of Truth (Wild), is primary: every element shows only its own spectrum, so it weighs and identifies, and the Domain does the synchronizing. Behind it stand the injured Wellsprings he holds under the Heresiology's injury framework, fifty-seven of the Sixty, across all four kinds. Judicium's own named corruption is review turned into domination, which the court performs. Judicium's spectral overload is the inherited failure: a court that makes every emotion in five kilometers legible at once invites it.
 
-The category is Concordia, the Spirit and Attraction Apex, which aligns many Cores without flattening any, read as the Consent Doctrine and its breach, since the district becomes evidence without being party to the proceeding. The Attraction Layer holds the five-kilometer claim as a Domain and the Essence Core holds the doctrine it weighs against, Developmental Tier Crystallized Soul. Dominion (Radius, Sovereignty, Command) governs, with Harmonics (Empathy, Suppression). On a rough Spirit and Fate seat Sovereignty and Suppression are open; Radius caps at A (5 km), Command at SS, Empathy at C so the court measures and does not feel, and without more reach on the Attraction Layer it lets go after eight turns. A rough seat is two arguments in one lattice, capped at Adept by the Guild Accord, with a genuine fault line between the halves.
+It is Concordia, as the old books call it, the meeting of Spirit and Fate, which aligns many Cores without flattening any, read as the Consent Doctrine and its breach, since the district becomes evidence without being party to the proceeding. The Attraction Layer holds the five-kilometer claim as a Domain and the Essence Core holds the doctrine it weighs against, Developmental Tier Crystallized Soul. Dominion (Radius, Sovereignty, Command) governs, with Harmonics (Empathy, Suppression). On a rough Spirit and Fate seat Sovereignty and Suppression are open; Radius caps at A (5 km), Command at SS, Empathy at C so the court measures and does not feel, and without more reach on the Attraction Layer it lets go after eight turns. A rough seat is two arguments in one lattice, capped at Adept by the Guild Accord, with a genuine fault line between the halves.
 
 The Boundary fault is one coupling constant laid without discrimination on a sphere, which synchronizes everyone, friend and practitioner alike. Below η 1.0 up to 5 percent of the spend leaves the Shell as heat, the soul-heating the working is known for; above 1.0 the environment co-authors the court's reference phase. A Measurewright school of social physics reads distance from the average as guilt and certifies the court as mere observation. The court first drives the crowd onto one phase, so it measures against a mean it imposed.
 
@@ -43,7 +43,7 @@ The Boundary fault is one coupling constant laid without discrimination on a sph
 
 **Fails against** · Silence; leather, clay, fog and shutters; a divided crowd; detuning past the locking range; a phase sitting on the court's own; Knot and Lock on its one limit; a Sovereign Spirit Domain or a Catharsis or Benediction Empathy field; a read seam; the end of eight turns; harm to the practitioner, a node in his own court.
 
-**Look up** · The Fulguria favor list; the Judicium Failure and the Heresiology's injury entries; Silence, Knot and Lock in the Counterplay register; the saturation rule; the Zenith Stage table.
+**Look up** · The Ground of Judicium on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Judicium Failure and the Heresiology's injury entries; Silence, Knot and Lock in the Counterplay register; the saturation rule; the Zenith Stage table.
 
 ### Numbers
 
@@ -72,14 +72,21 @@ The Boundary fault is one coupling constant laid without discrimination on a sph
 
 ### Codex line
 
-- **Wellspring** · Judicium (primary); fifty-seven of the Sixty Wellsprings, injured per the Heresiology's Wellspring Injury framework, secondary and unspecified
-- **Family** · Fulguria (Judicium); the injured secondary spans an unspecified majority of the eight Families
-- **Physics Domain** · Electromagnetism, primary
-- **Category** · Concordia (Spirit-Attraction Apex), the working that aligns an existing field, the local Spirit World, with the caster's own standing Domain into one lasting field
-- **Skill** · Speaking, declared aloud, with no anchor at Zenith, and fixed at eight turns
-- **Stage floor** · Stage XIV, Zenith
-- **Grade required** · EX-Grade
-- **Path gate** · Spirit Path and Fate Path, rough seat
+**Path** · Spirit and Fate, on a rough seat. The Attraction Layer holds five kilometers as a Domain, and the Essence Core holds the doctrine it weighs against.
+
+**Lens** · Judicium (Wild, primary) · fifty-seven of the Sixty, injured under the Heresiology's framework, secondary and unspecified.
+
+**Form** · Sing. The merger declared aloud, and every Core inside the claim kept on one beat, fixed at eight turns.
+
+**Gates** · Rough seat on Spirit and Fate: Radius caps at A (5 km), Command at SS, Empathy at C so the court measures and does not feel, and without more reach on the Attraction Layer it lets go after eight turns. Formal certification caps at Tier Four, Adept.
+
+**Glyph** · Order, Vastness and Measure. What a thing is taken to be: how far every Essence-bearing soul within 5,000 m counts as coupled to the rest.
+
+**Skill** · Speaking, declared aloud, with no anchor at Zenith, and fixed at eight turns.
+
+**Stage floor** · Stage XIV, Zenith.
+
+**Grade required** · EX-Grade.
 
 ### FOW line
 
@@ -88,8 +95,6 @@ Governing Primary: Dominion (Radius, Sovereignty, Command), primary; Harmonics (
 Stage floor: Stage XIV, Zenith.
 
 Grade required: EX-Grade.
-
-Path gate: Spirit Path and Fate Path (rough seat, capped at Tier Four, Adept, on formal certification).
 
 Resonant Pair: None.
 

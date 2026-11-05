@@ -40,6 +40,22 @@ The rest of the world has never got over this. Other lineages hit you. Here is t
 
 ---
 
+## What the Blood Gives
+
+Like every [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|archaic line]], the Moto get four things and never a Path. Theirs have an Epoch behind them, so they get an instrument besides.
+
+| Slot | The Moto |
+|---|---|
+| **The eye** | The Shingan, in one of four branches, set out below |
+| **The instrument** | [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]], with one Work truly theirs and the rest known by rote |
+| **The grip** | [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]] may open in childhood, before Glory. Blood opens it early and the cap never lifts |
+| **The stat lean** | Gnosis Perception and Analysis; Dominion Fate and Sense |
+| **Lens affinities** | The Wellsprings of Fate and the Medium kind first, and each Work has its own list of what a Moto of that Work tends to temper on |
+
+The Range, the Aura Pressure and the presence of the Fate Path are not among them. A Moto gets those by walking that road like anyone else, and most of the fighting house lead on the Body or the Spirit road, read with the Eye, and hit. The ones who do walk it are hidden under plain banners for good reason.
+
+---
+
 ## Hataraki and the Moto
 
 Because Bara authored the Works **before chronology itself**, the Moto **inherit an unusual intimacy with Hataraki** that no later student of the discipline can study his way into.
@@ -148,7 +164,7 @@ Their seven lines preserve different emphases of that inheritance, but all remai
 
 ## Origin — The Western Shield
 
-*Canon ruling. The Moto originate in the western reach of the Inner World.*
+*The Moto originate in the western reach of the Inner World.*
 
 The Old World has no claim on it. The origin is the **western part of the northern shield**, past the ridgeline that now marks Kharven's border with Undaar-Keth, on ground that no crown currently claims and no border commission patrols.
 
@@ -157,9 +173,9 @@ The Old World has no claim on it. The origin is the **western part of the northe
 **The displacement** · The first blow on the white shelf, about 310 IC, which the Moto registers call the split, reshaped the western ground and made the seat untenable. The six lines scattered toward temperate ground, and the Kōkan stayed and were broken (see The Long Reading). Generations later Muken went north and east into the boreal forest, on reasoning that was strategic before it was sentimental, and took the crown of a Kharven-Seat that already stood, over clans who had never heard of the place his blood came from. The great split proper comes after him, about 740 IC, and he survives it.
 
 **What this means for the house** · Every Moto seat in the current era is superimposed on somebody else's ground. Kharven is Concord-stock northern clans who predate the Moto arrival by centuries. The bloodline arrives, governs, enforces, and does not assimilate, because a people that migrates brings farmers and a house that migrates brings law.
-> **Open ruling** · The seat is described as *ruined*, and the residual saturation read there is consistent with mass death rather than slow abandonment. **What ruined it, and when, is undecided.** The first blow is the obvious answer and is probably incomplete, because glaciation does not leave that kind of imprint and a massacre does.
+> **The ruin** · The seat is described as *ruined*, and the residual saturation read there is consistent with mass death rather than slow abandonment. **What ruined it, and when, nobody will say.** The first blow is the obvious answer and is probably incomplete, because glaciation does not leave that kind of imprint and a massacre does.
 >
-> **Struck from canon** · The Malō of Sātūlagi. The Moto hold one seat and it is Kharven. The six non-Kōkan lines are landless.
+> **A false seat** · Older gazetteers give the house the Malō of Sātūlagi. They are wrong. The Moto hold one seat and it is Kharven. The six non-Kōkan lines are landless.
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History]]
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Origin — The Western Reach]]
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture]]

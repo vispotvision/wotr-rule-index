@@ -43,6 +43,7 @@
 ### Retconned
 
 - [[Author's Workroom/Retconned/Lorn Stark — The Sword-Teacher (retconned)|Lorn Stark — The Sword-Teacher]]
+- [[Author's Workroom/The Cymorath Ruling|The Cymorath Ruling]]
 - [[Author's Workroom/The Moto Narration Register|The Moto Narration Register]] · private
 - [[Author's Workroom/The Two Winters — Outline|The Two Winters — Outline]]
 
@@ -575,7 +576,6 @@
 - [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica: Extraction Without Recognition]]
 - [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current — Wellspring Encounter and Recovery]]
 - [[The Magic System/Practice and Institution/Practice and Institution|Practice and Institution]]
-- [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]
 - [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]
 - [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title: Guild Titles as Trust]]
 - [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]]
@@ -584,9 +584,9 @@
 
 ### Reference and Craft
 
+- [[The Magic System/Reference and Craft/Forms|Forms]]
 - [[The Magic System/Reference and Craft/Reference and Craft|Reference and Craft]]
 - [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]
-- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories — Unified Taxonomy]]
 - [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]
 - [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]
 

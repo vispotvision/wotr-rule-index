@@ -94,7 +94,7 @@ These are the fixed wordings. They are not translated in use, they are not parap
 
 A spoken working is three parts, in fixed order, and the order is not stylistic.
 
-**Nomen.** What is addressed, named in the vocative or accusative. Never a Wellspring, never a Family, never a Principle. The thing in the room.
+**Nomen.** What is addressed, named in the vocative or accusative. Never a Wellspring, never a kind, never a Principle. The thing in the room.
 
 **Mensura.** The bound. A prepositional phrase setting the limit inside which the order applies.
 

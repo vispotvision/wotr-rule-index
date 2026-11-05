@@ -73,7 +73,7 @@ No bloodline has a deeper bond with Scriptia. Where others write spells, the Val
 
 The lattice instinctively translates unfamiliar magical systems into symbolic structures that can be studied without violating their principles. Translation is not imitation; it is understanding. With observation, experiment and ethical study, a Valorin derives compatible formulae from foreign traditions while keeping their logic intact.
 
-* Extraordinary cross-disciplinary learning and multi-Family Wellspring harmonization.
+* Extraordinary cross-disciplinary learning and Wellspring harmonization across every kind.
 * Outstanding Synergia compatibility with practitioners from unrelated traditions.
 * Rapid analysis of unknown phenomena through symbolic decomposition.
 * Mid-combat translation. A master who watches a technique three times can name its structure, its cost and its weakest clause.
@@ -100,7 +100,7 @@ The Valorin build the finest instruments in the Continuum because they treat the
 * Several spell channels held through one properly built focus.
 * Legendary foci approach perfect efficiency for their rightful owner.
 * Foci evolve alongside the lattice instead of staying static.
-* A focus can be *recalled*. A Valorin's own wand or staff, written into their lattice, returns to their hand across any distance their Spatium harmonization allows, and a broken one can be rewritten whole from its memory if even a fragment survives.
+* A focus can be *recalled*. A Valorin's own wand or staff, written into their lattice, returns to their hand across any distance their Transference harmonization allows, and a broken one can be rewritten whole from its memory if even a fragment survives.
 
 *Narrative texture:* When a master raises a wand, they do not seem to cast a spell. They seem to continue a sentence reality briefly forgot.
 
@@ -147,18 +147,22 @@ A Soul Crystal is one organ, and an organ can be struck. The lattice is millions
 
 ## **III. System Metrics & Affinities**
 
-The Valorin favor structure over phenomenon: they master how Affinities interact across the Three Planes rather than one Affinity absolutely, and build systems of many Families working in harmony.
+The Valorin favor structure over phenomenon: they master how Affinities interact across the Three Planes rather than one Affinity absolutely, and build systems of many Wellsprings working in harmony.
 
-**Discipline bias:** Scriptia · Harmonia · Alchemia · Synergia · Conjunctia · Advanced Ritual Architecture.
+**A line with no Epoch behind it.** The blood gives what [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|any old line's]] gives and never a Path, and what they carry in place of an instrument is the lattice and everything they have written on it.
+
+**Form bias:** Write · Sing · Brew · Rite (in older books Scriptia, Harmonia, Alchemia, Synergia, Conjunctia and Advanced Ritual Architecture).
 
 **The lattice on the Paths.** The lattice has the same three faces a Crystal has three layers, and the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|three Paths]] and the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|class ladders]] read on it the same way. The face that meets matter is Scribed Flesh and does the Shell's work. The manuscript itself does the Core's. The sentences the world has agreed to recognize do the Attraction Layer's. The Valorin lean on the **Spirit Path** first, since a working authored in the soul and inscribed on a thing is what they are for, and many walk the **Fate Path** second, with the rough seat and the long years that always cost. The Body Path they study, and few walk it: Scribed Flesh is a scholar's answer to a fighter's question. Lattice Efficiency (below) is the lineage's own measure and sits beside η; Essence Class is the ladder that usually climbs first, and a master's Aether and Thread Classes tell you what else they have spent their life on.
 
 **What they cannot read.** Understanding is everything to this lineage, and Fate is the one place it fails them. A mind's notions are made of the thing they would be used against, and a lattice is made of notions. A Valorin can write a sentence for the Plane of Fate and can wait to see whether it is recognized, which is how the Circle of Five persist and how a kingdom comes to stand on a forgotten line. They cannot read Fate, cannot reason out why one sentence was taken and another refused, and may spend generations on a line that comes to nothing. Vaeloris teaches this to its children as the first humility, and most of them spend their lives quietly convinced that they will be the exception.
 
-**Favored Families.** The lattice spreads compatibility across nearly the whole Continuum.
+**Favored kinds.** The lattice spreads compatibility across nearly the whole Continuum.
 
-* **Primary:** Materia, Limina, Fulguria, Fluxia, Vitalia. These complement Scriptia, Harmonia and alchemical construction naturally.
-* **Secondary:** Caloria, Vectoria, Spatium. Fully compatible, but they need more preparation to reach the same refinement.
+* **Primary:** the Spirit, Fate and Medium kinds, and the Wild Wellsprings of matter, mind, light, water and life. These complement Write, Sing and alchemical construction naturally.
+* **Secondary:** the Wild Wellsprings of fire, force and distance. Fully compatible, but they need more preparation to reach the same refinement.
+
+Their strongest compatibilities are listed by name under Wellspring compatibility, below.
 
 **How their power shows.** Rarely as explosions. It shows as floating Vaeloric script, living manuscripts, rotating formula circles, golden harmonic geometry, ink-like Essence streams, self-writing glyph arrays, lattice projections, living ritual architecture, wand halos and staff coronas. Even in battle they look like scholars reorganizing reality, not warriors trying to overwhelm it.
 
@@ -218,7 +222,7 @@ Six lineage arts and one Domain, taught only inside Vaeloris. Each costs somethi
 | **Pre-Written Fire** | IV | A full formula is drafted in advance and left one word unfinished. Spoken, it releases at once at full strength, with no casting time | Drafting takes study time; each banked cast occupies Cistern space until used |
 | **Marginalia** | VI | The Valorin annotates an enemy's technique in light only allies can read: its structure, its cost, its weakest clause | Needs three clear observations of the technique; strains Gnosis while held |
 | **The Unfinished Sentence** | VII | A conditional casting written into a place, object or person that completes itself when its condition is met ("when the gate opens", "if he lies") | Each open sentence draws a thin, constant trickle of Essence until it completes or is struck out |
-| **Palimpsest** | IX | Over hours of ritual, the Valorin scrapes a place's old magical law away and writes a new one: wards, terrain behavior, which Families flow easily there | Slow; undone by anyone who can read and out-write it; a palimpsest over sacred or Fate-recognized ground can fail violently |
+| **Palimpsest** | IX | Over hours of ritual, the Valorin scrapes a place's old magical law away and writes a new one: wards, terrain behavior, which Wellsprings flow easily there | Slow; undone by anyone who can read and out-write it; a palimpsest over sacred or Fate-recognized ground can fail violently |
 | **Errata Seal** | X | After Errata corrects a hostile formula, the correction is sealed in place, and the enemy cannot cast that exact technique again until the seal is broken or expires | Duration scales with the gap in understanding; a far stronger caster tears it off quickly |
 | **Ink Wake Ward** | XI | The Valorin extends a thin layer of their own lattice over allies, giving them Distributed Soul for one engagement | The Valorin feels every wound the ward reroutes; overextending it can tear their own pathways |
 
@@ -237,7 +241,7 @@ Where most Domains impose a philosophy, the Living Library builds an ecosystem. 
 
 * What has no grammar cannot be shelved. Pure physical force with no technique behind it passes through the Library unread.
 * True Chaos does not transcribe; it smears. A Chaos working inside the Library spreads illegible blots across the shelves and can corrupt what is already written there.
-* Burning the shelves is possible. A Caloria or Oblivara-scale working that destroys enough of the written space collapses the Domain early and wounds the caster's lattice.
+* Burning the shelves is possible. A Pyreveil or Oblivara-scale working that destroys enough of the written space collapses the Domain early and wounds the caster's lattice.
 
 ## **V. Cultural & Spiritual Lattice**
 

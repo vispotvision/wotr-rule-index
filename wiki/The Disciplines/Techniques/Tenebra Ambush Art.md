@@ -4,7 +4,7 @@ title: "Eight Paces of Nothing"
 
 # EIGHT PACES OF NOTHING
 
-*Speaking, Vectra, Stage VI. The scholars' term is the Tenebra Ambush Art, and a hunter who lived asked for no other name but this one.*
+*Speaking, Strike, Stage VI. The scholars' term is the Tenebra Ambush Art, and a hunter who lived asked for no other name but this one.*
 
 The Subtractive school trains alone in the dark to find the true, unwatched self, and the school's founder, Dame Averil Coe, was the most terrifying sight in three provinces if you were looking at her from the front. She came for the Earl of Sedge at his own midsummer revels, through the dimmest corner of a hall hung with a thousand paper lanterns, and for one perfect breath she was the absence everyone wanted her to be. A small girl under a table, on the side nobody plans for, shouted that the lady was very shiny. Dame Averil was, from that bearing, the brightest thing in the room. The earl's cook hit her with a ham.
 
@@ -18,13 +18,13 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 
 ### How it really works
 
-He declares it on his own initiative against a target in or near a dim zone, and below Refraction it needs an anchor, a word or the striking hand. Limina (darkness, silence, ruins) and Vectoria (structural mass, worked stone) agree on the same perfect ground, a dark ruin with a hard floor, and a lit, crowded camp on soft mud starves both, and working against the gradient costs more reserve.
+He declares it on his own initiative against a target in or near a dim zone, and below Refraction it needs an anchor, a word or the striking hand. Tenebra (darkness, silence, ruins) and Petralon (structural mass, worked stone) agree on the same perfect ground, a dark ruin with a hard floor, and a lit, crowded camp on soft mud starves both, and working against the gradient costs more reserve.
 
 The physics is contrast reduction. In a dim place his Shell absorbs light and angles what little it returns away from the watcher, so he drops below the noise floor; then he crosses eight meters as an ordinary body through air. Detection range goes as the fourth root of the return, R ∝ σ^¼, and contrast is C = (L*object − L*background) / L_background. The crossing obeys Newton, and its noise grows with the sixth power of speed. Only a dark background hides an absorbing body, and in light it is the blackest thing in view. The coating governs what reflects and never what the moving body emits. A flat facet returns σ = 4πA²/λ², so a watcher off the planned angle gets thousands of times an ordinary man's return, a blaze and no faint glimmer. Drag power goes as v³ and the moving body's sound efficiency as M³, so eight times slower is 54 dB quieter: a tenth-second crossing shrieks, and a silent one takes most of a second.
 
-The glyphs are Silence for the return suppression and Passage for the crossing. Two boundaries move: the reflection coefficient of his own Shell, and where load in his frame may go, all of it into compression. Tenebra, the Hidden Shadow (Limina): signal-to-noise reduction by absorptive coating and faceted return, making him quieter than the background with no pretense of invisibility. Petralon, the Foundation Stone (Vectoria): every load routed into compression like an arch, so a skeleton carries a meganewton for seven and a half milliseconds without parting. Tenebra's aspect dependence lights him up from the unplanned bearing, and Petralon's tensile exposure means a crossing he must stop himself loads his frame the one way it parts. The crossing ends loaded into the strike, so the target pays the deceleration, and the strike is priced separately.
+The glyphs are Silence for the return suppression and Passage for the crossing. Two boundaries move: the reflection coefficient of his own Shell, and where load in his frame may go, all of it into compression. Tenebra, the Hidden Shadow (Wild): signal-to-noise reduction by absorptive coating and faceted return, making him quieter than the background with no pretense of invisibility. Petralon, the Foundation Stone (Wild): every load routed into compression like an arch, so a skeleton carries a meganewton for seven and a half milliseconds without parting. Tenebra's aspect dependence lights him up from the unplanned bearing, and Petralon's tensile exposure means a crossing he must stop himself loads his frame the one way it parts. The crossing ends loaded into the strike, so the target pays the deceleration, and the strike is priced separately.
 
-It is Vectra (Body and Attraction, motion and short-range spatial closure, the same category that governs Aetherstep-class techniques), read through Residue: with Cinerion held he leaves two cold trails, old place and true path, equally fresh, with the Consent Doctrine underneath. The Shell carries the coating and the frame the compression. At low η a third of every spend leaves as heat and noise, so a poor practitioner is warm, loud and easy to find; his is 45 percent, a faint cold and ozone the quarry takes for weather. Dexterity governs: Feint, Harmonics Suppression and Dominion Sense, all fed by Tenebra. On the Body Path Feint is capped at B, Suppression at A and Sense at C, and suppressing kinetic noise and Aura spill needs the Fate Path, so the crossing's sound cannot be hidden at any Grade.
+It is a closing art, motion and short-range spatial closure like the Aetherstep techniques, read through Residue: with Cinerion held he leaves two cold trails, old place and true path, equally fresh, with the Consent Doctrine underneath. The Shell carries the coating and the frame the compression. At low η a third of every spend leaves as heat and noise, so a poor practitioner is warm, loud and easy to find; his is 45 percent, a faint cold and ozone the quarry takes for weather. Dexterity governs: Feint, Harmonics Suppression and Dominion Sense, all fed by Tenebra. On the Body Path Feint is capped at B, Suppression at A and Sense at C, and suppressing kinetic noise and Aura spill needs the Fate Path, so the crossing's sound cannot be hidden at any Grade.
 
 With no dim zone to match, the working is correct and yields nothing, a Field fault, and open daylight gives it nothing to hide inside. Blood drips from eyes and nose, and where a blood-pact drives the launch, over-reliance risks an uncontrolled Prime Beast change with permanent loss of sapience.
 
@@ -33,7 +33,7 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 **Cost.** Three percent of reserve a crossing, and blood at the eyes and nose.  
 **Counter.** Light, or stand on the one bearing his facets were not built for, where he shines like a mirror; or simply sidestep and let him stop himself.
 
-**What nobody knows.** Why the Vorynn Bloodbind's cold-law lineage produced a Tenebra harmonization at all, when every other Wellspring its author holds traces cleanly to Caloria or Vectoria.
+**What nobody knows.** Why the Vorynn Bloodbind's cold-law lineage produced a Tenebra harmonization at all, when every other Wellspring its author holds traces cleanly to cold or to stone.
 
 ### Counterplay
 
@@ -43,7 +43,7 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 
 **Fails against** · Light; a watcher at an angle the facets were not built for; lit crowds or soft ground; distance; a volley into the dark doorway; a lost anchor below Refraction; the nearest dark, known beforehand; a sidestep, which leaves him to stop himself.
 
-**Look up** · The Limina and Vectoria favor lists; the Tenebra and Petralon Failures; the A-Grade Contact Range; the Glory Stage table; Cinerion for the trail.
+**Look up** · The Ground of Tenebra and Petralon on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Tenebra and Petralon Failures; the A-Grade Contact Range; the Glory Stage table; Cinerion for the trail.
 
 ### Numbers
 
@@ -73,21 +73,21 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 
 ### Codex line
 
-**Wellspring** · Tenebra (primary) · Petralon (secondary)
+**Path** · Body. Stillness, a crossing and a blow, closing the distance the way the Path has to.
 
-**Family** · Limina (Tenebra) · Vectoria (Petralon)
+**Lens** · Tenebra (Wild, primary) · Petralon (Wild, secondary).
 
-**Physics Domain** · Entropy, Void and Mind (Tenebra) · Mechanics (Petralon)
+**Form** · Strike. The crossing ends loaded into the blow.
 
-**Category** · Vectra (Body ↔ Attraction: motion, direction and short-range spatial closure; the same category that governs Aetherstep-class techniques)
+**Gates** · On the Body Path Feint is capped at B, Suppression at A and Sense at C, and suppressing kinetic noise and Aura spill needs the Fate Path, so the crossing's sound cannot be hidden at any Grade.
 
-**Skill** · Speaking, declared, with a word or the striking hand as anchor below Refraction
+**Glyph** · Silence for the return, Passage for the crossing. Physical limits: the reflection coefficient of his own Shell, and where load in his frame may go.
 
-**Stage floor** · Stage VI, Glory
+**Skill** · Speaking, declared, with a word or the striking hand as anchor below Refraction.
 
-**Grade required** · A-Grade
+**Stage floor** · Stage VI, Glory.
 
-**Path gate** · Body
+**Grade required** · A-Grade.
 
 ### FOW line
 
@@ -98,8 +98,6 @@ The Subtractive school trains alone in the dark to find the true, unwatched self
 **Stage floor** · Stage VI, Glory
 
 **Grade required** · A-Grade
-
-**Path gate** · Body
 
 **Resonant Pair · None.**
 

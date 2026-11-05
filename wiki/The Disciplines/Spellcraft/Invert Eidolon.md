@@ -2,7 +2,7 @@
 title: The Self That Never Forgave
 ---
 
-# THE SELF THAT NEVER FORGAVE (Animatria, a summoned construct)
+# THE SELF THAT NEVER FORGAVE (Make, a summoned construct)
 
 *Scholars' term: Invert Eidolon, and the thing itself is an Anti-Eidolon.*
 
@@ -23,7 +23,7 @@ The physics is residual stress in a casting. A part cooled faster than it could 
 
 A fabrication charge set by complexity, then a sustain every second it stands: Aether pulled and refined and spent at the heaviest continuous rate of any spoken art. The construct is Residue (what a working leaves behind), a fragment of the summoner's Core walking outside them, and several at once multiply Shell strain toward a depletion cascade, the discipline's worst recorded event. Twenty to 30 percent of the sustain leaves the Shell as heat, sound and light every second, so the summoner is a furnace visible from the next ridge, and scorches the ground around them. What is left afterward is a scorched ring and one fewer unclosed fracture.
 
-Eidolyn, the Shaping Mind (Limina), is the template: intent is the template and matter deposits along it with high fidelity and real strength, and it strengthens Ardency Density and Gnosis Retention. Oblivara, the Dark Mirror (Limina), is why it turns: a corner reflector returns energy along its incoming path, so the construct returns what reaches it to its source and never counts its summoner an ally. Nihiloth, the Hollow Law (Limina), cancels the law already present, giving the construct its refusal-shaped character. The glyph is Form laid under Mind: Form limits what the template may take from, Mind names where the contents are read from. The boundary is what counts as available material, which moves to include the unresolved, and Eidolyn faithfully reproduces the locked-in stress with it. The Essence Core is the billet, the Attraction Layer is the tether, the Shell carries the strain. Developmental Tier is Radiant at Transcendence.
+Eidolyn, the Shaping Mind (Wild), is the template: intent is the template and matter deposits along it with high fidelity and real strength, and it strengthens Ardency Density and Gnosis Retention. Oblivara, the Dark Mirror (Fate), is why it turns: a corner reflector returns energy along its incoming path, so the construct returns what reaches it to its source and never counts its summoner an ally. Nihiloth, the Hollow Law (Wild), cancels the law already present, giving the construct its refusal-shaped character. The glyph is Form laid under Mind: Form limits what the template may take from, Mind names where the contents are read from. The boundary is what counts as available material, which moves to include the unresolved, and Eidolyn faithfully reproduces the locked-in stress with it. The Essence Core is the billet, the Attraction Layer is the tether, the Shell carries the strain. Developmental Tier is Radiant at Transcendence.
 
 The result is a sound, strong construct that does not tire, flinch or share its summoner's interest, stress oriented toward the thing refused, returning everything back along the tether at the summoner. Transcendence gates semi-autonomous constructs at S-Grade, and full tactical autonomy waits for Realization at SS. Below Transcendence only a brief, fragile, accidental construct forms through an ordinary Animatria working, never the full thing. The supply is the real ceiling: it finds a refusal and cannot make one. The summoner must have survived the fracture's Stage, and a fracture spent is spent.
 
@@ -37,10 +37,6 @@ Structural fault is the operation and no accident of it: the Crystal lends what 
 ## Numbers
 
 **Practitioner** · Transcendence, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S-Grade (401 to 550).
-
-**Paths** · Density needs the Body Path at Flourishing to pass B, Retention the Spirit Path at Glory to pass A, Sovereignty the Fate Path at Glory to pass A.
-
-**Caps** · On one Path the other two stop at 275 or 400, so no construct is cast at S across all three.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -68,23 +64,23 @@ Structural fault is the operation and no accident of it: the Crystal lends what 
 
 ### Codex line
 
-**Wellspring** · Eidolyn, the Shaping Mind (primary); Oblivara, the Dark Mirror, and Nihiloth, the Hollow Law (secondary).
+**Path** · Spirit. The Essence Core is the billet, the Attraction Layer the tether, and the Shell carries the strain.
 
-**Family** · Limina
+**Lens** · Eidolyn (Wild, primary) · Oblivara (Fate), Nihiloth (Wild), secondary.
 
-**Physics Domain** · Entropy, Void and Mind.
+**Form** · Make. A construct pulled out of the summoner whole.
+
+**Gates** · Density needs the Body Path at Flourishing to pass B, Retention the Spirit Path at Glory to pass A, Sovereignty the Fate Path at Glory to pass A. On one Path the other two stop at 275 or 400, so no construct is cast at S across all three.
+
+**Glyph** · Form under Mind. What a thing is taken to be: what counts as available material, moved to include the unresolved.
 
 **Phenomenon** · Residual stress in a casting: templated solidification from a flawed billet, and brittle fracture.
 
-**Category** · Animatria (Spirit-Aligned)
-
 **Skill** · Speaking; the construct holds only while the summoner's attention and tether hold.
 
-**Stage floor** · Transcendence
+**Stage floor** · Transcendence.
 
 **Grade required** · S-Grade for a semi-autonomous construct; full tactical autonomy needs Realization at SS-Grade.
-
-**Path gate** · Body Path at Flourishing to pass B in Density, Spirit Path at Glory to pass A in Retention, Fate Path at Glory to pass A in Sovereignty; no construct is cast at S across all three.
 
 ### FOW line
 
@@ -93,8 +89,6 @@ Structural fault is the operation and no accident of it: the Crystal lends what 
 **Stage floor** · Transcendence
 
 **Grade required** · S-Grade
-
-**Path gate** · Body, Spirit or Fate Path by Sub-Stat.
 
 **Resonant Pair** · None
 

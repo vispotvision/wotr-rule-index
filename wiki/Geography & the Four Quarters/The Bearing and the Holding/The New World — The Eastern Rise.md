@@ -27,7 +27,7 @@ The eastern quarter holds two countries on one rim of the land, as different as 
 
 **The arc.** The young volcanic ground the Guild Accord chartered from nothing, beginning when the Voyager Era's routes first brought its gold home and still adding charters within living memory: the andesite chain, the caldera belt, the ash plain between them, the coral platforms of the northern coast; Caedor and its four Cloudmetal arrays, Foraye, the Tsohanto Reach. **Everything from Formation to Trade Posture below is the arc's ledger and no other's.** Where the text says *the eastern quarter*, read *the arc*.
 
-*Ruled 2026-09-12. Eresse and every elven branch sit here and not in the Old World quarter, which keeps Varūn. Nevara is struck from canon. The Accord's doctrine that the New World was chartered from nothing, with no older law to displace, is true of the arc and of the arc alone.*
+*Eresse and every elven branch sit here and not in the Old World quarter, which keeps Varūn. The Accord's doctrine that the New World was chartered from nothing, with no older law to displace, is true of the charter and of the charter alone.*
 
 ---
 
@@ -37,7 +37,7 @@ The consequence of that subducting plate is a volcanic arc running the length of
 
 The hot fluid systems above a live magma body deposit gold and silver in shallow veins that are still there because nothing has had time to erode them away. Where an intrusion has pushed into limestone, the contact zone has cooked into skarn and thrown out silver, lead, and zinc in bodies workable from surface. The rivers cutting through all of this have concentrated gold into placer bars **that a man can work with a pan and no capital whatsoever**, which is why the eastern quarter has the population it has.
 
-The wet flanks weather differently. Under high rainfall and heat the ash breaks down into a deep red laterite crust, leaching out everything soluble and leaving behind a residue extraordinarily rich in aluminous and nickeliferous minerals. That crust is worthless to anyone who cannot reduce it, **and reducing it takes more Fulguria capacity than the Old World has ever been willing to divert from its pumps.** (Fulguria is the lightning family of the Wellsprings, an array is a standing runed working fed by keepers on a shift, and reduction is the old smelter's word for tearing a metal out of its rock.)
+The wet flanks weather differently. Under high rainfall and heat the ash breaks down into a deep red laterite crust, leaching out everything soluble and leaving behind a residue extraordinarily rich in aluminous and nickeliferous minerals. That crust is worthless to anyone who cannot reduce it, **and reducing it takes more Judicium capacity than the Old World has ever been willing to divert from its pumps.** (Judicium is the Wellspring of the lightning's line, an array is a standing runed working fed by keepers on a shift, and reduction is the old smelter's word for tearing a metal out of its rock.)
 
 ---
 
@@ -71,11 +71,11 @@ The politics of the place come straight out of the river. Gold won by hand needs
 
 ## Bearing Stock
 
-*Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Family and Domain name the Wellspring family a material answers to and the branch of natural law it works through.*
+*Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Domain names the branch of natural law it works through.*
 
 **Alchemelt Brick** · *T2 · Synthetic stone · Artisan guilds of the arc*
 
-Volcanic ash ground with burned lime and water, which sets hard, sets fast, and **sets underwater.** This last property is why the eastern quarter is building deep-water harbors at a rate the west finds indecent while western harbors silt shut. It resists ambient magic and crumbles under sustained structural stress, so it is used for floors, foundations, moles, and cisterns rather than for anything that must span. Bearing moderate, Holding deliberately low. Family Materia, Domain Material Science.
+Volcanic ash ground with burned lime and water, which sets hard, sets fast, and **sets underwater.** This last property is why the eastern quarter is building deep-water harbors at a rate the west finds indecent while western harbors silt shut. It resists ambient magic and crumbles under sustained structural stress, so it is used for floors, foundations, moles, and cisterns rather than for anything that must span. Bearing moderate, Holding deliberately low. Domain Material Science.
 
 **Pumice Float** · *T1 · Stone · Caldera ignimbrite sheets, universal*
 
@@ -103,13 +103,13 @@ Hardened to the equivalent of tempered steel, prized by the elves for ceremonial
 >
 > It cannot be repaired, cannot be recharged, and cannot be traced back to its Engraver, which is a separate problem the Enforcement Division has raised four times. What it can be is cut in quantity, cheaply, by moderately skilled hands at a bench, and sold to people who could never afford a permanent working. **An eastern militia carries Onceglass charges the way a western militia carries arrows.**
 >
-> Bearing brittle by design, Holding high and terminal. Resonance: Fractura, Tenebra. Family Limina, Domain Abstract and Entropic Systems.
+> Bearing brittle by design, Holding high and terminal. Resonance: Fractura, Tenebra. Domain Abstract and Entropic Systems.
 
 **Cloudmetal** · *T4 · Metal · Reduced from Redcrust laterite, the eastern arc works*
 
-A structural metal at a third the weight of iron, silver-pale, corrosion-proof, and impossible to produce without a sustained Fulguria reduction array of a scale that exists in **four places in the world**, all of them along the eastern arc.
+A structural metal at a third the weight of iron, silver-pale, corrosion-proof, and impossible to produce without a sustained Judicium reduction array of a scale that exists in **four places in the world**, all of them along the eastern arc.
 
-Caedor did not discover the metal. Everyone knew it was in the laterite. The eastern arc was simply the only polity willing to commit that much array capacity to something other than pumping water, **because the eastern arc has no old flooded mines to pump.** This is the clearest case in the ledger of a capability following from geological accident rather than genius, and the arc guild would prefer it were not written down in those terms. Bearing good for its weight, Holding low. Family Fulguria, Domain Electromagnetism.
+Caedor did not discover the metal. Everyone knew it was in the laterite. The eastern arc was simply the only polity willing to commit that much array capacity to something other than pumping water, **because the eastern arc has no old flooded mines to pump.** This is the clearest case in the ledger of a capability following from geological accident rather than genius, and the arc guild would prefer it were not written down in those terms. Bearing good for its weight, Holding low. Domain Electromagnetism.
 
 **Skarnrose Ore** · *T3 · Metal ore · Intrusive contacts with limestone, inland caldera belt*
 
@@ -117,7 +117,7 @@ Silver, lead, zinc, and garnet in banded contact bodies, worked open from surfac
 
 **Yellowbreath Sulfur** · *T1 · Mineral · Fumarole fields throughout the arc*
 
-Sublimate sulfur, collected by hand off the vent rims by men who work in wet cloth and do not work long. Feedstock for every acid in the eastern alchemical trade and a primary Pyraeon reagent. Family Caloria, Domain Thermodynamics.
+Sublimate sulfur, collected by hand off the vent rims by men who work in wet cloth and do not work long. Feedstock for every acid in the eastern alchemical trade and a primary Pyraeon reagent. Domain Thermodynamics.
 
 **Ember Flint** · *T2 · Stone · Foraye*
 
@@ -129,7 +129,7 @@ Stores visions and is dangerously volatile. Provenance recorded on the strength 
 
 **Glacium** · *T5 · Frost-infused mineral · Iampu, the elven old-ground, grown in the ice-caves under Winter Court license*
 
-**Grown** rather than quarried, slowly, in caverns held below freezing for the purpose, by a process the Winter Court does not document and does not permit anyone to inspect. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Vohrin. Family Caloria, Domain Thermodynamics.
+**Grown** rather than quarried, slowly, in caverns held below freezing for the purpose, by a process the Winter Court does not document and does not permit anyone to inspect. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Vohrin. Domain Thermodynamics.
 
 ---
 

@@ -8,7 +8,7 @@ title: The Spirit Summoning Arts
 
 Black Hob Ransome ran untaxed Dawi brandy down the Tarn for eleven years on the strength of one story, which was that his fetch was a war-drake the size of a barge and that three river searchers had already been found in pieces. Nobody had seen it, and nobody had wanted to. On a wet night at the Tarn toll, with a dozen searchers and the sheriff's men around his boat and half the taproom out on the jetty with their mugs, Hob threw back his coat, roared that they had asked for it, and called. The Essence came off him in a sheet of hot orange, the lanterns all leaned, and what stood up out of the light on the jetty, nine feet tall and burning like a bread oven, was his mother. She had her apron on. She went through the searchers with a ladle, her form shedding sparks at every swing, and she knocked the sheriff's sergeant into the Tarn, and then she turned around and started on Hob, in a voice the whole bank could hear, about the company he kept. He lost the boat and most of his reserve in less time than it takes to tell, and the song has outlived him in nine counties. What every summoner in that taproom could have told him is that nobody gets to choose. A summoner's spirits come out of the summoner's own soul, shaped like whatever is actually in there.
 
-### THE SPIRIT SUMMONING ARTS (school discipline; Vocatia, Animatria, Arts)
+### THE SPIRIT SUMMONING ARTS (school discipline; any Path; Make, Call)
 They pull a piece of their own soul out and it stands up and fights, and it looks like what they really are.
 
 EPHEMERAL CONSTRUCT! A flicker of Essence shaped like a fist or a shield, there and gone inside ten seconds.  
@@ -24,12 +24,13 @@ In the street an eidolon is a fetch and asking to see someone's is an insult, fo
 
 > What common parlance calls "summoning" is **a three-plane crossing**, and no single discipline. On the Physical Plane, Aether is shaped into a vessel. On the Soul Plane, the summoner's Essence Core donates identity, pattern, and animating current. On the Plane of Fate, Attraction Force magnetizes the construct into recognized existence.
 >
-> So a summoner touches all three Paths and has the time to master perhaps one. The yards sort accordingly: Spirit Path summoners live in Animatria, Body Path ones in the forge, and those who call things older than themselves stand at the shallow end of Fate. Most of the art's famous disasters are somebody reaching for a layer they only ever studied.
+> So a summoner touches all three Paths and has the time to master perhaps one. The yards sort accordingly: Spirit Path summoners live in Animatria (shaping one's own Core into something that acts apart), Body Path ones in the forge, and those who call things older than themselves stand at the shallow end of Fate. Most of the art's famous disasters are somebody reaching for a layer they only ever studied.
 
-| **Primary Categories** | Vocatia (Attraction-Aligned) · Animatria (Spirit-Aligned) · Arts (Body-Aligned) |
+| **Path** | Whichever the summoner has lived: Spirit for a construct out of the Core, Body for a forged vessel, the shallow end of Fate for anything older. A summons reads Aether for the crossing and Essence for what the spirit is |
 |---|---|
-| **Apex Integration** | Concordia (Spirit ↔ Attraction Apex) |
-| **Supporting Disciplines** | Ritus (Ritual Invocation) · Glyphica (Parunic Authorization) · Mnemata (Memory-Echo Substrate) |
+| **Lens** | Whatever the summoner tempered on, because the spirit inherits it |
+| **Form** | Make for anything built out of yourself, Call for anything that was already there, Sing at the apex, where older books say Concordia |
+| **Gates** | The Stage gates under each layer below, and the Tier table after them |
 
 ---
 
@@ -48,9 +49,9 @@ A rare few summon with no contract and no construct at all, through Fate itself;
 
 ---
 
-## The Taxonomic Breakdown
+## The Layers of the Art
 
-### Vocatia · the Recognition Layer
+### Vocatia · the Recognition Layer (Call)
 
 Governs the highest and most dangerous form: invocation by recognition and correspondence. The summoner fabricates nothing from personal Essence and instead extends Attraction Force outward to contact an existing presence on the Plane of Fate (a Titan echo, an Archonic principle, a World Spirit fragment, a lesser entity, an ancestral resonance) and negotiate shared recognition.
 > **Vocatia is correspondence, with no domination in it.** The Plane of Fate's lawful currents treat any invocation addressed to an unwilling higher being as attempted **Usurpation**, regardless of how correct the surface syntax appears. Successful Vocatia is always an act of the Current of Recognition, never Refusal. Nothing is pulled down and nothing is moved. A caller asks, and the thing comes or it does not, and that is the only reason this can be learned in a yard at all.
@@ -58,9 +59,9 @@ This is why Vocatia practitioners are called negotiators rather than conjurers. 
 
 **Temperance Gate** · Stage X (Realization) minimum for stable contact · Stage XII (Emanation) for sustained autonomous summons · Stage XIV (Zenith) for Archonic or Titanic correspondence.
 
-### Animatria · the Identity Layer
+### Animatria · the Identity Layer (Make)
 
-Governs eidolons, echo-forms, and psionic constructs fabricated from the summoner's own Essence Core and given temporary independent operation. An Animatria construct is a small detached fragment of the Core shaped through Intent into a structured presence, closer to a deliberately shaped Essence Shard than a Domain. It maintains continuity through a tether back to its source, **which is why Animatria summoning fails completely inside Silence Realms.** Harmonic Silence severs the connection and the construct dissolves.
+Governs eidolons, echo-forms, and psionic constructs fabricated from the summoner's own Essence Core and given temporary independent operation. An Animatria construct is a small detached fragment of the Core shaped by will into a structured presence, closer to a deliberately shaped Essence Shard than a Domain. It maintains continuity through a tether back to its source, **which is why Animatria summoning fails completely inside Silence Realms.** Harmonic Silence severs the connection and the construct dissolves.
 
 This is the most common form. It requires no external consent, no negotiation, and no Attraction Layer depth beyond what the summoner naturally possesses. Its limitation is that every eidolon is a piece of the summoner projected outward. A summoner harmonized with Luminalis and Benediction produces luminous guardian-forms. One harmonized with Tenebra and Mortalis produces shadow-constructs that dissolve hostile memory.
 
@@ -68,9 +69,9 @@ This is the most common form. It requires no external consent, no negotiation, a
 
 **Essence Cost** · 75,000 – 150,000 EU per eidolon depending on complexity, with a sustained cost of 10,000 – 25,000 EU per second. Multiple simultaneous constructs multiply strain on the Aether Shell and risk **Essence depletion cascade**.
 
-### Arts · the Vessel Layer
+### The Spirit Forge · the Vessel Layer (Make)
 
-Governs Spirit Forge techniques, Binding Arts, and Resonant Forms: the physical and material groundwork of summoning. Where Vocatia provides recognition and Animatria provides identity, **Arts provides the body.**
+Governs Spirit Forge techniques, Binding Arts, and Resonant Forms: the physical and material groundwork of summoning. Where Vocatia provides recognition and Animatria provides identity, **the Forge provides the body.**
 
 A Spirit Forger goes past projecting Essence into air and builds a vessel, often using material anchors (relics, glyph-inscribed substrates, prepared mineral bodies, alchemical constructs) that the Shell can bond to and the Core can animate. Slower, heavier, and more resource-intensive than Animatria projection, but also more durable, more physically capable, and **less dependent on the summoner's continuous concentration**.
 
@@ -78,7 +79,7 @@ A Spirit Forger goes past projecting Essence into air and builds a vessel, often
 
 **Temperance Gate** · Stage VII (Refraction) for material-anchored constructs · Stage IX (Invocation) for independent Spirit Forge bodies · Stage XI (Dissonance) for constructs bearing their own Wellspring harmonization.
 
-### Concordia · the Apex Integration
+### Concordia · the Apex Integration (Sing)
 
 A Concordia-level summon is **a founding**, where the lesser arts make a projection. The summoner creates a temporary micro-Realm in which the summoned presence can exist as a semi-independent being with its own Essence Core analog, Aether Shell analog, and Attraction Layer analog, all held together by the summoner's Concordia field.
 
@@ -90,13 +91,13 @@ This is the art behind eidolons that can think, adapt, feel, and persist beyond 
 
 ## Summoning Tiers
 
-| Tier | Categories | Temperance | Duration | Typical form |
+| Tier | Forms | Temperance | Duration | Typical form |
 |---|---|---|---|---|
-| **I · Ephemeral Constructs** | Animatria | Stage IV – VI | 1 – 10 seconds | Flickering Essence shapes, light-echoes, brief force projections |
-| **II · Basic Summons** | Animatria + Arts | Stage VI – VIII | Seconds to minutes | Eidolons with basic behavioral patterns, companion constructs, scout-forms |
-| **III · Greater Summons** | Vocatia + Animatria + Arts | Stage IX – XI | Minutes to hours | Semi-autonomous spirits with tactical intelligence, ancestral echoes, Wellspring-resonant constructs |
-| **IV · Legion Summons** | Animatria + Concordia | Stage X – XII | Minutes to indefinite with Domain anchor | Coordinated hosts operating as a single tactical network |
-| **V · World-Tethered** | Vocatia + Concordia + Mnemata | Stage XII – XIV | Indefinite | Persistent presences anchored to a location, bloodline, or Wellspring vein |
+| **I · Ephemeral Constructs** | Make | Stage IV – VI | 1 – 10 seconds | Flickering Essence shapes, light-echoes, brief force projections |
+| **II · Basic Summons** | Make | Stage VI – VIII | Seconds to minutes | Eidolons with basic behavioral patterns, companion constructs, scout-forms |
+| **III · Greater Summons** | Call + Make | Stage IX – XI | Minutes to hours | Semi-autonomous spirits with tactical intelligence, ancestral echoes, Wellspring-resonant constructs |
+| **IV · Legion Summons** | Make + Sing | Stage X – XII | Minutes to indefinite with Domain anchor | Coordinated hosts operating as a single tactical network |
+| **V · World-Tethered** | Call + Sing + Read | Stage XII – XIV | Indefinite | Persistent presences anchored to a location, bloodline, or Wellspring vein |
 
 **Tier I** constructs do not think and do not persist. They are reflexive extrusions, **the summoning equivalent of throwing a punch**. Used for training, distraction, and emergency shielding.
 
@@ -104,7 +105,7 @@ This is the art behind eidolons that can think, adapt, feel, and persist beyond 
 
 **Tier III** is the first tier where Vocatia becomes viable, and the difference is felt rather than measured. A Vocatia-invoked spirit carries an identity that did not originate entirely within the summoner. **It may act in ways the summoner did not anticipate. It may refuse orders that contradict the nature of the entity being channeled.** That is no malfunction: it proves the invocation contacted something real. Summon Stability C-Tier to B-Tier.
 
-A Tier III body carried by a poured vessel and a Binding, as in the Mortalis completion, may be raised from Refraction, the Arts gate for material-anchored constructs; see The Necrocursica.
+A Tier III body carried by a poured vessel and a Binding, as in the Mortalis completion, may be raised from Refraction, the Forge's gate for material-anchored constructs; see The Necrocursica.
 
 **Tier IV** fractures the summoner's Essence output across multiple simultaneous constructs and synchronizes them through a shared Concordia field. The summoner sustains a harmonic network instead of controlling each spirit individually. At B-Tier a skilled practitioner sustains three to seven constructs. At A-Tier dozens become possible, though diminishing returns set in as each additional form degrades network coherence. **The Guild Accord classifies advanced Legion practitioners as strategic assets rather than individual combatants.**
 > **Tier V · World-Tethered Summoning** creates **a construct the world sustains**, with the summoner relieved of the job. Through Mnemata and Vocatia, the summoner anchors a presence to an existing node on the Plane of Fate: a Wellspring vein (a run of rich ground where one Aether pools, a Core before anyone has worked it), a Domain, a bloodline's ancestral lattice, or a location with sufficient Continuum memory to act as host.
@@ -117,18 +118,18 @@ A Tier III body carried by a poured vessel and a Binding, as in the Mortalis com
 
 ## Wellspring Resonance
 
-Summoned spirits inherit the Wellspring alignment of their creator, and the shape they take follows the Family. A summoner harmonized across several Families produces spirits of correspondingly layered complexity. The yards still use older nicknames for some of these rows, and the Clubs below keep them in their names.
+Summoned spirits inherit the Wellspring alignment of their creator, and the shape they take follows the lens tempered on longest. A summoner harmonized across several Wellsprings produces spirits of correspondingly layered complexity. The yards sort them roughly as below, and the Clubs keep some of the rows in their names.
 
-| Family | Manifestation | Used for | Risk |
+| Lenses | Manifestation | Used for | Risk |
 |---|---|---|---|
-| **Materia** *Coagula, Fixatio, Coagulatio* | Anchored, durable, slow-to-dissolve presences | Defensive constructs, ward-guardians, long-duration sentinels | Spirits may resist dissolution, becoming permanence hazards |
-| **Limina** *Eidolyn, Nihiloth, Oblivara, Vantabriel* | Absence-constructs, void-forms, negation agents, and from the Family's dream and memory members, dreamlike, memory-threaded forms | Anti-summoning fields, Mechanica containment, assassination support, scout-constructs, memory-archive vessels | Constructs may hollow the summoner's Essence Core through prolonged contact, erode their memory or identity, or blur the boundary between recalled and fabricated memory |
-| **Vitalia** *Verdantia, Anima Spirare, Benediction, Mortalis* | Vital warmth, restorative capacity, empathic responsiveness; from Mortalis, a quiet form for the last of it | Healer-companions, chorus-constructs, recovery-field generators, merciful release | Over-empathic resonance may cause the construct to absorb surrounding grief or trauma |
-| **Caloria** *Exuroth, Pyreveil, Manganthra, Catharsis* | Incandescent, volatile, catalytically intense; from Catharsis, a Spirit Wellspring, no flame at all, only a form that burns what its target is holding on to | Siege-breaking, corruption-purging, trial-by-fire constructs | Constructs may exceed their Boundary glyphs and ignite uncontrolled Essence burn |
-| **Fulguria** *Judicium, Aurevane, Luminalis* | Elevated clarity and judgmental precision | Truthseeking constructs, consecrated guardians, verdict-witnesses | Constructs may develop conviction that outlasts their authorization |
-| **Fluxia** *Somnalis, Thaloré, Oblation* | Fluid, reflective shapes that take the form of what holds them | Companions that read a room, tidal screens, forms that spend themselves for another | Constructs may take on the mood of whoever stands nearest, the enemy included |
-| **Vectoria** *Fractura, Petralon, Ascensio* | Heavy load-bearing forms, cracked with light where the strain runs | Breaching constructs, shield-walls, bearers that carry what the host cannot | Constructs may carry strain back down the tether when they break |
-| **Spatium** *Transference, Transmutatio, Eclipseron* | Forms that read wrong at a distance and stand where they were not | Exchange-bodies, couriers, stand-ins that trade places with the summoner | Constructs may leave the summoner unsure where they are themselves |
+| **Binding** *Coagula, Fixatio, Coagulatio* | Anchored, durable, slow-to-dissolve presences | Defensive constructs, ward-guardians, long-duration sentinels | Spirits may resist dissolution, becoming permanence hazards |
+| **Void and dream** *Eidolyn, Nihiloth, Oblivara, Vantabriel* | Absence-constructs, void-forms, negation agents, and from the dream and memory lenses, dreamlike, memory-threaded forms | Anti-summoning fields, Mechanica containment, assassination support, scout-constructs, memory-archive vessels | Constructs may hollow the summoner's Essence Core through prolonged contact, erode their memory or identity, or blur the boundary between recalled and fabricated memory |
+| **Living** *Verdantia, Anima Spirare, Benediction, Mortalis* | Vital warmth, restorative capacity, empathic responsiveness; from Mortalis, a quiet form for the last of it | Healer-companions, chorus-constructs, recovery-field generators, merciful release | Over-empathic resonance may cause the construct to absorb surrounding grief or trauma |
+| **Burning** *Exuroth, Pyreveil, Manganthra, Catharsis* | Incandescent, volatile, catalytically intense; from Catharsis, a Spirit Wellspring, no flame at all, only a form that burns what its target is holding on to | Siege-breaking, corruption-purging, trial-by-fire constructs | Constructs may exceed their Boundary glyphs and ignite uncontrolled Essence burn |
+| **Truth and light** *Judicium, Aurevane, Luminalis* | Elevated clarity and judgmental precision | Truthseeking constructs, consecrated guardians, verdict-witnesses | Constructs may develop conviction that outlasts their authorization |
+| **Water** *Somnalis, Thaloré, Oblation* | Fluid, reflective shapes that take the form of what holds them | Companions that read a room, tidal screens, forms that spend themselves for another | Constructs may take on the mood of whoever stands nearest, the enemy included |
+| **Load** *Fractura, Petralon, Ascensio* | Heavy load-bearing forms, cracked with light where the strain runs | Breaching constructs, shield-walls, bearers that carry what the host cannot | Constructs may carry strain back down the tether when they break |
+| **Exchange** *Transference, Transmutatio, Eclipseron* | Forms that read wrong at a distance and stand where they were not | Exchange-bodies, couriers, stand-ins that trade places with the summoner | Constructs may leave the summoner unsure where they are themselves |
 
 ---
 

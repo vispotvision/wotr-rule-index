@@ -2,7 +2,7 @@
 title: Every Soul a Bell
 ---
 
-# EVERY SOUL A BELL (Harmonia, the first Applied Branch of the Harmonic Arts)
+# EVERY SOUL A BELL (Read, the first Applied Branch of the Harmonic Arts)
 
 *Scholars' term: Anima Harmonics.*
 
@@ -23,7 +23,7 @@ A running structure can be listened to from outside, untouched, and its inner co
 
 The limit is the noise floor: nothing quieter than the listener's own emission can be heard, and the signal cannot be raised, only the background lowered. So the whole art is the glyph, Frequency laid under Silence, where Silence conditions the background and Frequency opens the band. The boundary it moves is the Harmonist's own emission floor: the Shell's outward radiation (the Shell is the Crystal's outer skin) is pinned near zero and its gates held open inward, so nothing is imposed on the subject while listening. Listening runs the Aether Shell backwards. Projection adds the Essence Core as the honest reference tone, and Fell Chord surgery reaches the Attraction Layer. Developmental Tier is Resonant at Refraction, Sovereign at Invocation and Dissonance.
 
-It has no Wellspring of its own and reads whichever dialect a Crystal is harmonized to, taking its counters from the Categories. Three Wellsprings explain its world. Mirithane, the Wellspring of Reflection (Limina): a true mirror adds nothing, so a soul has an honest tone to read, and the discipline lives on that honesty. Tenebra, the Hidden Shadow: a thing is unseen when its return falls below the looker's noise floor, and its Harmonics Suppression defeats a read. Basilithe, the Stone Will: a stiffened Crystal's resonance will not be driven off, which makes it the standing counter to projection.
+It has no Wellspring of its own and reads whichever dialect a Crystal is harmonized to, taking its counters from the Categories. Three Wellsprings explain its world. Mirithane, the Wellspring of Reflection (Spirit): a true mirror adds nothing, so a soul has an honest tone to read, and the discipline lives on that honesty. Tenebra, the Hidden Shadow: a thing is unseen when its return falls below the looker's noise floor, and its Harmonics Suppression defeats a read. Basilithe, the Stone Will: a stiffened Crystal's resonance will not be driven off, which makes it the standing counter to projection.
 
 Projection is injection locking, a weak clean tone pulling a nearby oscillator onto its frequency. The power delivered is negligible and the precision is the whole expense. That covers Microharmonic Recalibration, Wellspring Stabilization and Emotional Resonance Therapy, in all of which a clean tone beside a damaged Crystal lets it find its own frequency. Surgery holds a counter-tone until the bond carrying the foreign line lets go. None of this is possible below Refraction, because voice, hand, ink or blood are all outward expression and raise the floor the working exists to lower. A read lasts while attention and the Shell's quiet hold, lapses the moment either breaks, and does not replace a full Coherence Ladder reading. It produces no force and no ward.
 
@@ -37,8 +37,6 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 ## Numbers
 
 **Practitioner** · Listening: Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Therapy: Invocation, Master, η 0.70 to 0.80. Fell Chord surgery: Dissonance, Grandmaster, η 0.85 to 0.90.
-
-**Paths** · Analysis of the living needs the Spirit Path at Flourishing to pass B; Attunement needs the Fate Path at Welling to pass D; Suppression needs the Spirit Path at Splintering to pass A. Off it, Suppression caps at A and reads are shorter.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -66,28 +64,27 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 
 **Contest** · A projection against an unwilling Crystal sets Harmonics Attunement against Harmonics Stability; losing by a full Grade puts Echo Fracture on the table.
 
-
 ## Reference
 
 ### Codex line
 
-**Wellspring** · None of its own; it reads whichever Wellspring a Crystal is harmonized to, and leans on Mirithane, the Wellspring of Reflection, for an honest tone to read.
+**Path** · Spirit. It runs the Aether Shell backward to listen and adds the Essence Core as the honest tone; only Fell Chord surgery reaches the Attraction Layer.
 
-**Family** · No single Family; Limina through Mirithane.
+**Lens** · None of its own. It reads whichever lens a Crystal is tempered on, and leans on Mirithane (Spirit) for an honest tone.
 
-**Physics Domain** · Entropy, Void and Mind, through Mirithane.
+**Form** · Read. Therapy and surgery are Sing, worked from the same reading.
+
+**Gates** · Analysis of the living needs the Spirit Path at Flourishing to pass B; Attunement needs the Fate Path at Welling to pass D; Suppression needs the Spirit Path at Splintering to pass A. Off it, Suppression caps at A and reads are shorter.
+
+**Glyph** · Frequency under Silence. What a thing is taken to be: what counts as the background, the listener's own emission floor, lowered until a soul's note can be heard.
 
 **Phenomenon** · Vibration and resonance: modal decomposition and the noise floor.
 
-**Category** · Harmonia (Spirit and Attraction), with Crystalia and Mnemata supporting.
-
 **Skill** · Speaking, held in receptive rather than projective mode; it lapses when attention breaks.
 
-**Stage floor** · Refraction
+**Stage floor** · Refraction.
 
 **Grade required** · A-Grade to listen, S-Grade for therapy at Invocation, SS-Grade for Fell Chord surgery at Dissonance.
-
-**Path gate** · Spirit Path at Flourishing to pass B in Analysis and at Splintering to pass A in Suppression; Fate Path at Welling to pass D in Attunement.
 
 ### FOW line
 
@@ -96,8 +93,6 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 **Stage floor** · Refraction
 
 **Grade required** · A-Grade to listen; S-Grade for therapy; SS-Grade for surgery.
-
-**Path gate** · Spirit Path for Analysis past B and Suppression past A; Fate Path for Attunement past D.
 
 **Resonant Pair** · None
 

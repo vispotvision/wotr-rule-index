@@ -54,9 +54,9 @@ private: true
 
 ## III. Wellspring Harmonizations
 
-**Mortalis** · the Black Gate · Vitalia · Depth: deep · a living body is a structure held far from equilibrium by constant spending, and death is the spending stopping; he works that boundary as a plain physical transition · failure: Equilibration, he cools toward the boundary he stands at
-**Anima Spirare** · the Soul's Breath · Vitalia · Depth: deep, the Mahuo house current · the clotting cascade and the way blood loads oxygen faster the more it carries: amplification where it is needed · failure: disseminated activation, the cascade running everywhere at once until he bleeds from the gums, the nose and the eyes
-**Eidolyn** · the Shaping Mind · Limina · Depth: held · templated growth, a crystal laid down along a pattern; intent is the pattern, so his guests' bodies are real material · failure: template defect, every flaw in his memory cast into the body
+**Mortalis** · the Black Gate · Medium · Depth: deep · a living body is a structure held far from equilibrium by constant spending, and death is the spending stopping; he works that boundary as a plain physical transition · failure: Equilibration, he cools toward the boundary he stands at
+**Anima Spirare** · the Soul's Breath · Wild · Depth: deep, the Mahuo house current · the clotting cascade and the way blood loads oxygen faster the more it carries: amplification where it is needed · failure: disseminated activation, the cascade running everywhere at once until he bleeds from the gums, the nose and the eyes
+**Eidolyn** · the Shaping Mind · Wild · Depth: held · templated growth, a crystal laid down along a pattern; intent is the pattern, so his guests' bodies are real material · failure: template defect, every flaw in his memory cast into the body
 
 ## IV. to VII. Primary Stats, Sub-Stats, Force, Aether Flow
 

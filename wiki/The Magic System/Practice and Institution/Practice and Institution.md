@@ -8,8 +8,7 @@ title: Practice and Institution
 
 Any stallholder in any market will sing you the school song she hates most, badly, with the words changed, and then charge you for the noodles. Practitioners are common and everybody has opinions. These pages are the machinery behind the opinions, set down by the archivists who keep having to explain them.
 
-- [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]: Why nearly everyone carries a Crystal, why about one in ten is taught to wake it, who holds the door on the rest of the lesson, and what a purse does once you are through it.
-- [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]: Where a practitioner's capacity came from, and why the institutions cannot agree.
+- [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]: Why nearly everyone carries a Crystal, why about one in ten is taught to wake it, who holds the door on the rest of the lesson, what a purse does once you are through it, and why a Magister and a Natural cannot agree about the girl who burned the Bureau's tent.
 - [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title: Guild Titles as Trust]]: The nine titles every guild shares, what each one lets a stranger hand you, and the two other names you carry.
 - [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]]: Schools, disciple ranks, seclusion, the tournament ladder, and what a sect teaches that money cannot buy.
 - [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]]: What a thumb grants, who can press one on you, how the line on your window lies, and who can take it off again.

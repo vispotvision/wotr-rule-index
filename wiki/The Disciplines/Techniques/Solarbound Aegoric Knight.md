@@ -4,7 +4,7 @@ title: "The Kneeling Sun"
 
 # THE KNEELING SUN
 
-*Speaking, Domain Weaving over a standing Traitus, Stage VII and up. The scholars' term is the Solarbound Aegoric Knight, which is a discipline with a knight's name on it.*
+*Speaking, Bind over a standing oath-lean in the Shell, Stage VII and up. The scholars' term is the Solarbound Aegoric Knight, which is a discipline with a knight's name on it.*
 
 A knight once held a Gate open with his own body, sunlit and bleeding and shouting at people to hurry, long enough for a million souls to flee through it past his back. That is the story every recruit is told and every minstrel owns a version of, and it is why a knight of this discipline in a scarlet surcoat can stand in the middle of a bracket field taking a smith's maul to the helm, again and again, with the whole crowd bellowing the count, and not take one step. He is filling. Nobody can see how full. Then he kneels.
 
@@ -20,13 +20,13 @@ A knight once held a Gate open with his own body, sunlit and bleeding and shouti
 
 ### How it really works
 
-Until the release, nothing shows but a steady pressure on the air near him. From Refraction no anchor is required, yet the discipline keeps its gesture-keys, re-committed each time. Three Families feed it: Materia likes stone and deep foundation, Vitalia likes living ground and blood, Fulguria likes dry air and clear sight, and one place kills all three, a cold, shielded, moving deck.
+Until the release, nothing shows but a steady pressure on the air near him. From Refraction no anchor is required, yet the discipline keeps its gesture-keys, re-committed each time. Three Wellsprings feed it: Fixatio likes stone and deep foundation, Benediction likes oath trees and hospices, Judicium likes dry air and clear sight, and one place starves all three, a cold, shielded, moving deck.
 
 The real phenomenon is metastable storage behind a kinetic barrier, released by ignition: a knight carries a store that cannot leak, the way naphtha sits in an open jar for years. The law is Arrhenius run backwards. Residence time is (1/A)·exp(E_a/RT), so a high barrier holds the store indefinitely, and an ignition adds no energy, only the barrier's worth; at release the first law says whatever comes out was in the Crystal. A metastable store has no setting between held and spent, and nothing that burns un-burns, so the release is total and cannot be reversed. The blows are a trigger and a measure and never the fuel: a hard day in the line catches about 10⁵ J, six orders short of a release, so the knight's own committed reserve pays. Every element shows only its own spectrum, and eddy-current reading finds the crack under the paint, so the release lands as a verdict that cannot be counterfeited.
 
 Three layers make the store, the Laminae. Strain Lamina is the trap, Mercy Lamina the barrier height, Oath Lamina the amplifier read from nearby affinities, and the oath is the ignition. The glyphs are Lock for the Mercy barrier and Balance for the Oath gating, with Illumination filing the release. The boundary condition is the barrier between the knight's Shell and its relaxed state, set high enough not to leak and low enough that a chosen act crosses it.
 
-Its Wellsprings: Fixatio, the Binding Flame (Materia), a cured network charring before it flows, so the store is held because relaxing is no longer reachable, and its irreversibility is the thing relied on. Benediction (Vitalia), a bond's strength as a measurable affinity, so an oath has a figure the Continuum prices, and banners, seals and spoken oaths amplify the output. Judicium (Fulguria), every element showing only its own spectrum, so the knight reads flaws and lies continuously. Each passes down a fault: Fixatio's irreversibility seizes an overfull Shell; Benediction's competitive inhibition lets a stronger vow silently displace an older one, so he can be re-sworn unnoticed; Judicium's spectral overload drowns him in readings. Three harmonizations sit under Tempering Capacity, exceeding it degrades all three at once, and a wide seated-Domain release over the saturation line risks a Crystal Fracture Event for everyone inside.
+Its Wellsprings: Fixatio, the Binding Flame (Medium), a cured network charring before it flows, so the store is held because relaxing is no longer reachable, and its irreversibility is the thing relied on. Benediction (Fate), a bond's strength as a measurable affinity, so an oath has a figure the Continuum prices, and banners, seals and spoken oaths amplify the output. Judicium (Wild), every element showing only its own spectrum, so the knight reads flaws and lies continuously. Each passes down a fault: Fixatio's irreversibility seizes an overfull Shell; Benediction's competitive inhibition lets a stronger vow silently displace an older one, so he can be re-sworn unnoticed; Judicium's spectral overload drowns him in readings. Three harmonizations sit under Tempering Capacity, exceeding it degrades all three at once, and a wide seated-Domain release over the saturation line risks a Crystal Fracture Event for everyone inside.
 
 The standing bias is residue made structural and deafens Harmonists where a release was spent. In doctrine it is the Consent Doctrine, enforced: output is gated on a cause truly sworn. The Debt doctrine is live in a store that seizes the Shell if never spent. The Aether Shell holds the store behind the Mercy barrier, and the Essence Core is touched only by the permanent Traitus bias (the Shell's oath-reactive lean, passive and never cast). Developmental Tier runs Resonant at Refraction to Sovereign at Invocation and Realization.
 
@@ -49,7 +49,7 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 
 **Store** · Every blow banks, light ones included, and a store never spent walks toward seizure; the timer runs only while he keeps taking blows.
 
-**Look up** · The Materia, Vitalia and Fulguria entries for Fixatio, Benediction and Judicium and their Failures; the Counterplay register for Disruption and Shear Break; Tempering Capacity; the Refraction and Transcendence Stage tables.
+**Look up** · The entries for Fixatio, Benediction and Judicium and their Failures; the Counterplay register for Disruption and Shear Break; Tempering Capacity; the Refraction and Transcendence Stage tables.
 
 ### Numbers
 
@@ -63,8 +63,6 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 | Eddy-current depth in steel, 100 kHz | √(2/ωμσ) | under a millimeter |
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade A. Transcendence to Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S.
-
-**Paths** · No Path declared: layering three Wellsprings in one working above A needs the Fate Path, so an S release carries Fixatio alone; the seated-Domain release also needs the Fate Path.
 
 **Anchor** · From Refraction no anchor is required, but the discipline keeps its gesture-keys (kneeling, raising a shield, touching the brand), re-committed each time.
 
@@ -80,23 +78,23 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 
 ### Codex line
 
-**Wellspring** · Fixatio, the Binding Flame (primary); Benediction (secondary); Judicium, the Wellspring of Truth (tertiary).
+**Path** · Body and Fate. The Aether Shell holds the store and the blow carries it; Fate is what keeps the seated-Domain release lawful.
 
-**Family** · Materia, with Vitalia and Fulguria.
+**Lens** · Fixatio (Medium, primary) · Benediction (Fate, secondary) · Judicium (Wild, tertiary).
 
-**Physics Domain** · Material Science, with Biochemistry and Electromagnetism.
+**Form** · Bind. The oath is the ignition, keyed by a knee, a raised shield or a hand on the brand.
+
+**Gates** · None for an A release. Layering three Wellsprings in one working above A needs the Fate Path, so an S release carries Fixatio alone; the seated-Domain release also needs the Fate Path.
+
+**Glyph** · Lock and Balance, with Illumination filing the release. A physical limit on the Shell, the barrier to its relaxed state, and a term on the oath: only a chosen, sworn act crosses it.
 
 **Phenomenon** · Metastable storage behind a barrier, released by ignition.
 
-**Category** · Domain Weaving at its apex, over a standing Traitus layer: the Shell's oath-reactive bias is passive and permanent, not cast.
-
 **Skill** · Speaking, delivered bodily through gesture-keys (kneeling, raising a shield, touching the oath-brand), re-committed each time.
 
-**Stage floor** · Refraction
+**Stage floor** · Refraction.
 
 **Grade required** · A-Grade at Refraction; S-Grade from Transcendence to Realization.
-
-**Path gate** · None for an A release; the Fate Path for a layered release above A and for the seated-Domain release.
 
 ### FOW line
 
@@ -105,8 +103,6 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 **Stage floor** · Refraction for an A release; Transcendence to Realization for S releases and a seated Domain.
 
 **Grade required** · A at Refraction; S from Transcendence.
-
-**Path gate** · None for an A release; the Fate Path for layered S releases and the seated-Domain release.
 
 **Resonant Pair** · None
 

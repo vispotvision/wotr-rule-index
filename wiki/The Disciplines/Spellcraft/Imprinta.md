@@ -2,7 +2,7 @@
 title: The Unburied Ember
 ---
 
-# THE UNBURIED EMBER (Mnemata, cast live, leaving a fragment behind for good)
+# THE UNBURIED EMBER (Make, cast live, leaving a fragment behind for good)
 
 *Scholars' term: Imprinta.*
 
@@ -21,7 +21,7 @@ A material held in a strong field keeps a set after the field is gone, as a magn
 
 The charge is one moment of high emotional charge, one turn of six seconds, and then no pull at all. In that turn the caster pulls Aether, refines it in the Soul Crystal and drives a piece of her own Essence Core out through the Shell (the Crystal's outer skin). A piece, spent outright: it is paid and detached at the moment of casting, the way a limb is not on loan. Thirty to 40 percent of the cost leaves the Shell as heat, sound and light in that turn, and a large write scorches its surroundings and can be seen from far off. Then silence. The working is Residue (what a working leaves behind) made deliberately: structured, load-bearing, readable by anyone patient enough.
 
-Anamnesis, the Wellspring of Remembrance (Limina), is its Aether: objects store their history in readable form, and it strengthens Gnosis Retention, Gnosis Analysis of past trauma and Resilience Anchoring. This art runs that reading register backwards to write. The glyph is Continuum laid under Form, for the shape the deposit keeps, a Root because the medium's law is unknown until it is chosen. The boundary is the reachability of the medium's other states: the barrier out of the imposed configuration is pinned too high to cross. A soul fragment, memory, Trait or Wellspring resonance can go into an object, place or person, and the anchor is the medium itself, whichever of those is written into, since Glory is below Refraction.
+Anamnesis, the Wellspring of Remembrance (Medium), is its Aether: objects store their history in readable form, and it strengthens Gnosis Retention, Gnosis Analysis of past trauma and Resilience Anchoring. This art runs that reading register backwards to write. The glyph is Continuum laid under Form, for the shape the deposit keeps, a Root because the medium's law is unknown until it is chosen. The boundary is the reachability of the medium's other states: the barrier out of the imposed configuration is pinned too high to cross. A soul fragment, memory, Trait or Wellspring resonance can go into an object, place or person, and the anchor is the medium itself, whichever of those is written into, since Glory is below Refraction.
 
 What is left is the relic, room or person keeping the pressed shape and a Core fragment with limited will of its own, neither a copy nor a servant, acting on an intention that may be a century stale. It responds most strongly to memory, desire and unresolved fate, and uncharged writes sit as dormant traces. Waking is a coupling threshold set narrow or wide at the write: proximity, a feeling, specific words or one person. A deposit is a detached fragment of the maker's Core still running on a line back to its maker and focus, as an Animatria construct does, and when the line is cut it starves. So a broken focus, its original's death or an active Silence field ends it. It cannot update itself. The Essence Core is divided and never merely spent: a fragment is detached at the write, the Core's own failure state done on purpose in miniature. Developmental Tier is Harmonic at Glory.
 
@@ -35,8 +35,6 @@ The failure is structural and permanent: each write subtracts from the layer tha
 ## Numbers
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, B-Grade (176 to 275).
-
-**Paths** · Retention needs the Spirit Path at Welling to pass D, Attunement the Fate Path at Welling to pass D; off them the medium keeps a shape and a charge with no intention in it, and the waking is a feeling with no named person behind it.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -60,28 +58,27 @@ The failure is structural and permanent: each write subtracts from the layer tha
 
 **Contest** · A write into an unwilling person sets Harmonics Attunement against Harmonics Stability; a subject who wins takes no set, and the caster has paid the EU and the fragment for nothing.
 
-
 ## Reference
 
 ### Codex line
 
-Wellspring · **Anamnesis**, the Wellspring of Remembrance (primary).
+**Path** · Spirit. A piece of the Essence Core is divided off and pressed into a medium.
 
-Family · **Limina**: Entropy, Void and Mind.
+**Lens** · Anamnesis (Medium).
 
-Physics Domain · Entropy, Void and Mind.
+**Form** · Make. A fragment of her Core cast live into a blade, a stone or a door.
 
-Phenomenon · Remanence (a substrate retaining an imposed state after the imposing field is withdrawn).
+**Gates** · Retention needs the Spirit Path at Welling to pass D, Attunement the Fate Path at Welling to pass D; off them the medium keeps a shape and a charge with no intention in it, and the waking is a feeling with no named person behind it.
 
-Category · **Mnemata** (Spirit ↔ Attraction).
+**Glyph** · Continuum under Form. What a thing is taken to be: the medium counts as holding this shape, with the way out of it pinned too high to reach.
+
+**Phenomenon** · Remanence (a substrate retaining an imposed state after the imposing field is withdrawn).
 
 **Skill** · Speaking (cast live, detaching a permanent fragment at completion).
 
-Stage floor · **Stage IV, Flourishing**.
+**Stage floor** · Stage IV, Flourishing.
 
-Grade required · **B-Grade**.
-
-Path gate · None.
+**Grade required** · B-Grade.
 
 ### FOW line
 
@@ -90,8 +87,6 @@ Governing Primary · **Gnosis** (Retention, Analysis), secondary **Harmonics** (
 Stage floor · Stage IV, Flourishing.
 
 Grade required · B-Grade.
-
-Path gate · None.
 
 Resonant Pair · None.
 

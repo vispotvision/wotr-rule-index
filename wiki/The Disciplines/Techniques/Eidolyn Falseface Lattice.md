@@ -6,7 +6,7 @@ title: Here's What You Were Afraid Of
 
 *Eidolyn Falseface Lattice in the scholars' term. Captain Garrowby's company called it the Goose, and the name has traveled.*
 
-## HERE'S WHAT YOU WERE AFRAID OF (Eidolyn Falseface Lattice) (Animatria, Stage VII)
+## HERE'S WHAT YOU WERE AFRAID OF (Eidolyn Falseface Lattice) (Make, Stage VII)
 
 Captain Rufus Garrowby of the Free Lances had taken nine towns and had four wives and one secret, which was geese. A goose had got at him in a farmyard when he was five. At the Fords of Ember he spurred his gray warhorse straight at a slight person in a patched coat, lance down, with two hundred lancers cheering behind him, and the thing that stood up out of the air between them weighed about as much as a loaded hay wagon, was white, was very cross, and hissed exactly the way he remembered. It broke his horse's neck with one wing. It would have had him too, except that his squire, a girl of fifteen, ran in holding up his silver shaving mirror because she could think of nothing else, and the goose looked into it and came apart like wet flour.
 
@@ -24,7 +24,7 @@ The physics is template-directed nucleation. A supersaturated medium, one holdin
 
 The glyphs are Form across Mind: Form decides the geometry a deposit takes, and the template is read out of a mind. The boundary is the nucleation barrier in the ambient medium, lowered along one imposed pattern. The trigger is reactive only: it releases against an incoming hostile action once a target within eighty meters carries a fear he can find, and the reactive chain is why it needs Refraction. The thing stands in the room, strikes and can be struck, its mass scaled by the conviction, and taking a threat seriously is what gets harvested. It stands while attention holds it, paid each turn, and dissolves when attention releases.
 
-Substrate is pulled across 2.14 × 10⁶ m³. Limina favors darkness, silence and thin ground. Saturated ground nucleates everywhere and deposits grit where the beast should be. A template trace stays in the ground and deafens Harmonists (those who read a place by ear). Eidolyn, the Shaping Mind (Limina), says given a template a supersaturated medium deposits along it with real strength, so intent becomes the template and the construct is solid and no illusion; it gives Ardency Density and Gnosis Retention. Oneirion, the Wellspring of Dream (Limina), locates the fear-shape as a coordinate in configuration space and gives Gnosis Cognition, Dominion Sovereignty and Ardency Cascade. Somnalis, the Dream Veil (Fluxia), reads which shape the target's mind is modeling before the modeling is finished and gives Gnosis Forecast and Dominion Sense.
+Substrate is pulled across 2.14 × 10⁶ m³. Eidolyn favors darkness, silence and thin ground. Saturated ground nucleates everywhere and deposits grit where the beast should be. A template trace stays in the ground and deafens Harmonists (those who read a place by ear). Eidolyn, the Shaping Mind (Wild), says given a template a supersaturated medium deposits along it with real strength, so intent becomes the template and the construct is solid and no illusion; it gives Ardency Density and Gnosis Retention. Oneirion, the Wellspring of Dream (Spirit), locates the fear-shape as a coordinate in configuration space and gives Gnosis Cognition, Dominion Sovereignty and Ardency Cascade. Somnalis, the Dream Veil (Fate), reads which shape the target's mind is modeling before the modeling is finished and gives Gnosis Forecast and Dominion Sense.
 
 Eidolyn's template defect reproduces any flaw in the intent at full scale, unseen until it stands there, and Somnalis's ensemble collapse misreads the spread as one shape. So a boundary fault follows: a misread template deposits faithfully anyway. Field fault: a Letheveil-disciplined mind never reaches critical conviction. The structural fault waiting at the end is Identity Drift toward the Mirage Identity threshold. The Aether Shell routes the target's conviction through him and the Essence Core holds the identity it erodes, resisted by Resilience Anchoring; his self-image blurs into the borrowed fear-shapes, and Cognitive Static brings headache, memory flicker and perception distortion with each release. Each release after the second in one engagement costs a further 1 percent of reserve. Developmental Tier Resonant at Refraction. Thirty-five percent leaves the Shell as heat, and the casting shows its waste as a seam, a hollow or a limb that does not carry.
 
@@ -38,21 +38,21 @@ A contemplative school reads it as thoughtform work fed by the maker's concentra
 
 ### Codex line
 
-**Wellspring** · Eidolyn (primary) · Oneirion, Somnalis (secondary)
+**Path** · Spirit. Read a fear, make it solid; the Essence Core holds the identity it erodes.
 
-**Family** · Limina (Eidolyn, Oneirion) · Fluxia (Somnalis)
+**Lens** · Eidolyn (Wild, primary) · Oneirion (Spirit), Somnalis (Fate), secondary.
 
-**Physics Domain** · Entropy, Void and Mind (Eidolyn, Oneirion) · Fluid Dynamics (Somnalis)
+**Form** · Make. A construct deposited in answer to an attack, which stands while attention holds.
 
-**Category** · Animatria (Spirit-Aligned: the construct is a projected avatar with real, material-behaving solidity, the same category Eidolyn-templated constructs sit in generally)
+**Gates** · Ardency Density past B opens only through the Body Path at Flourishing, so the construct's Density is capped at B-Grade however convinced the target.
 
-**Skill** · Speaking, and the construct stands while attention holds
+**Glyph** · Form across Mind. What a thing is taken to be: the medium takes the shape in the target's fear as its template.
 
-**Stage floor** · Stage VII, Refraction
+**Skill** · Speaking, and the construct stands while attention holds.
 
-**Grade required** · A-Grade, late push toward S-Grade
+**Stage floor** · Stage VII, Refraction.
 
-**Path gate** · Spirit
+**Grade required** · A-Grade, late push toward S-Grade.
 
 ### FOW line
 
@@ -63,8 +63,6 @@ A contemplative school reads it as thoughtform work fed by the maker's concentra
 **Stage floor** · Stage VII, Refraction
 
 **Grade required** · A-Grade, late push toward S-Grade
-
-**Path gate** · Spirit
 
 **Resonant Pair · None.**
 
@@ -99,8 +97,6 @@ It has a single known practitioner, and the problem it answers is plain: a fight
 ### Essence
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70 (0.65 used). Grade A, allocation stopping at 400, 475 under strain only.
-
-**Paths** · Spirit Path: Ardency Density past B opens only through the Body Path at Flourishing, so the construct's Density is capped at B-Grade however convinced the target.
 
 | Quantity | Working | Result |
 |---|---|---|

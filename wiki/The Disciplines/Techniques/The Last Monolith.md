@@ -4,7 +4,7 @@ title: "Let the World Strike"
 
 # LET THE WORLD STRIKE
 
-*Speaking, Arts, Stage VIII. The scholars' term is the Last Monolith. Its author's philosophy for it is the rest of the sentence: "Let the world strike. I remain."*
+*Speaking, Strike, Stage VIII. The scholars' term is the Last Monolith. Its author's philosophy for it is the rest of the sentence: "Let the world strike. I remain."*
 
 The Petrifaction school keeps a garden on the hill above Dunmarrow, full of its masters, and visitors are asked not to climb on them. Each one took the state as a refuge, on the grounds that stone preserves, and held it a little longer every year in the sunshine among the lavender, while novices in ochre robes struck them with mallets and recorded the note. Every turn held lays down void, and every void marks where the next break begins, so that the school's oldest art is choosing at leisure where you will one day come apart. The tour ends at Master Oda Fell, who is in eleven pieces and was the longest holder they ever had. They are very proud of her.
 
@@ -18,11 +18,11 @@ The Petrifaction school keeps a garden on the hill above Dunmarrow, full of its 
 
 ### How it really works
 
-He declares it and commits before contact, sustained by pull, and from Transcendence the chain is internal with no anchor. He pulls Materia (worked stone, deep foundation) and Fulguria (dry air, clear sight). On a deck, bridge, scaffold or boat the primary current fails, because a man cannot become ground where the ground is provisional.
+He declares it and commits before contact, sustained by pull, and from Transcendence the chain is internal with no anchor. He pulls Coagula (worked stone, deep foundation) and Judicium (dry air, clear sight). On a deck, bridge, scaffold or boat the primary current fails, because a man cannot become ground where the ground is provisional.
 
 The real phenomenon is a change of failure law, the brittle and ductile trade: for about five turns the body fails like rock in place of flesh, as strong as bone in compression and ten times weaker in tension. Underneath runs sintering, grains fusing below melting. The law is that a stiff, brittle body returns nearly all of an elastic impact, so the blow is refused without being absorbed, and what is not returned is banked in the Crystal. An S-Grade blow taken into the body would vaporize it 97,000 times over, so the state does not couple, and nearly all of it goes back up the attacker's weapon. The limit is that brittle solids have no give: a crack runs at 1,200 to 1,800 m/s, faster than the practitioner can feel it, and 0.1 percent strain means the body cannot bend. The read must beat contact by the body's own sound transit time.
 
-The glyphs are Form for the change of failure law, and Balance with Measure for the reading of the blow. The boundary condition is the condition under which the tissue may fail, moved to stone's, with elasticity and fracture running unchanged on the new surface. Coagula, the Unifying Pulse (Materia): sintering, a soul fused back together below melting, keeping its shape, which sets the body's failure curve toward stone's. Judicium, the Wellspring of Truth (Fulguria): every element shows only its own spectrum, so it reads the geometry and force of the incoming blow and can read his own voids. Coagula's residual porosity leaves voids where the next fracture starts, piling up with every use; Judicium's spectral overload comes on in a crowded melee.
+The glyphs are Form for the change of failure law, and Balance with Measure for the reading of the blow. The boundary condition is the condition under which the tissue may fail, moved to stone's, with elasticity and fracture running unchanged on the new surface. Coagula, the Unifying Pulse (Wild): sintering, a soul fused back together below melting, keeping its shape, which sets the body's failure curve toward stone's. Judicium, the Wellspring of Truth (Wild): every element shows only its own spectrum, so it reads the geometry and force of the incoming blow and can read his own voids. Coagula's residual porosity leaves voids where the next fracture starts, piling up with every use; Judicium's spectral overload comes on in a crowded melee.
 
 In doctrine it is Correspondence: a body and a stone share one failure law, so what is true of one is true of the other, with the Consent Doctrine underneath. The whole Aether Shell is held in a shape it was not built for, with a continuous bleed into tissue whose properties have changed, and Tempering Coherence is one of the two quantities it runs on. Resilience Integrity and Tempering Coherence come from Coagula, Gnosis Acuity and Analysis from Judicium. Body primary with a Spirit component clears every gate; without the Spirit component Acuity caps at C and field diagnosis at B, and the hardening comes uniform and too late.
 
@@ -43,7 +43,7 @@ The Petrifaction school treats the state as a refuge to hold ever longer, since 
 
 **Fails against** · Wedge, hook, pick, lever or lock; a second hit on one spot; Dissolution or Sublimatio; a deck or barge; any need to move; the moment of release after a long hold; speed beyond the read; Coherence drift.
 
-**Look up** · The Materia and Fulguria favor lists; the Coagula and Judicium Failures; the S-Grade Strike Force and Contact Range; the Transcendence Stage table; Dissolution and Sublimatio entries.
+**Look up** · The Ground of Coagula and Judicium on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Coagula and Judicium Failures; the S-Grade Strike Force and Contact Range; the Transcendence Stage table; Dissolution and Sublimatio entries.
 
 ### Numbers
 
@@ -74,21 +74,21 @@ The Petrifaction school treats the state as a refuge to hold ever longer, since 
 
 ### Codex line
 
-**Wellspring** · Coagula (primary) · Judicium (secondary)
+**Path** · Body and Spirit. The whole Aether Shell is held in a shape it was not built for; Spirit is the diagnostic layer that reads the blow.
 
-**Family** · Materia (Coagula) · Fulguria (Judicium)
+**Lens** · Coagula (Wild, primary) · Judicium (Wild, secondary).
 
-**Physics Domain** · Material Science (Coagula) · Electromagnetism (Judicium)
+**Form** · Strike. A block with no arm in it: the skin goes to stone where the blow will land.
 
-**Category** · Arts (Body-aligned: embodied Aether expression given technique, the Vitae layer)
+**Gates** · Body with the Spirit component clears every gate.
 
-**Skill** · Speaking, declared, and holds only for as long as the practitioner sustains the pull
+**Glyph** · Form for the failure law, Balance with Measure for the reading. A physical limit: the condition under which the tissue may fail, moved to stone's.
 
-**Stage floor** · VIII, Transcendence
+**Skill** · Speaking, declared, and holds only for as long as the practitioner sustains the pull.
 
-**Grade required** · S-Grade
+**Stage floor** · VIII, Transcendence.
 
-**Path gate** · Body (primary) with a genuine Spirit Path component
+**Grade required** · S-Grade.
 
 ### FOW line
 
@@ -97,8 +97,6 @@ The Petrifaction school treats the state as a refuge to hold ever longer, since 
 **Stage floor** · VIII, Transcendence
 
 **Grade required** · S-Grade
-
-**Path gate** · Body (primary), Spirit (secondary, diagnostic layer)
 
 **Resonant Pair · None.**
 

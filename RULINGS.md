@@ -3629,3 +3629,9 @@ Context: Second section of the R83-13 rewrite: Shot and the Enhanced Weapon. Wit
 Isaac, 2026-11-05: "documents only, keep sound words in scenes". The no-onomatopoeia rule covers wiki and reference documents. In scenes, fights and roleplay turns the Onomatopoeia law in NATALIE.md and R81-10 stand unchanged, and so do the sound lexicon, the Wellspring signatures and the prose samples. AGENT RULING (Natalie, overturnable): a card or technique entry may still record an art's signature sound word as a plain data line, because scenes need it, and its prose otherwise carries none.
 
 Context: Settles the question left open in the earlier ruling the same night.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05, on the Inner World: "The North which includes the Moto and the South, the center of the continent is wedged between the north and the south often." On the old states: "will get rid of most of them aside for the hobgoblin states and we will replace Dawi with something new." On art: "Every kingdom in the old world should get its own art work once we are done will workout major cdities and towns but lets work on the art work of kingdoms first". So Nalūn, Ketsuen, Stannvaard and Anguz go as states, Undaar-Keth and the hobgoblin states stay, and the Dawi are replaced by a people still to be chosen.
+
+Context: Redo of the Inner World around the Northern Banner Houses and Southern Warlords. Halcrest is load-bearing in The Uncounted and needs a place in the wedged center.

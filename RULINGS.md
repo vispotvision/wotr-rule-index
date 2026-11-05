@@ -3761,3 +3761,9 @@ Context: Governs the coming rewrite of The Trait System, The Ladder and the Draf
 Isaac, 2026-11-05: "You can actually create a Fate Essence Draft however it's extremely hard and very coveted considered 'Master Works'". A Fate Essence Draft can be made. It is extremely hard to make, very coveted, and counted among the Master Works.
 
 Context: Goes into the Drafts and items rewrite. Natalie's earlier suggestion that Fate could not be bought is withdrawn.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "well each area has master works, but rememeber fate itself is the manipulation of the possibilities and propabilities of reality its to manipulate the very flow and the idea of something". Each area has its own Master Works. Fate is the manipulation of the possibilities and probabilities of reality: the very flow, and the idea, of a thing. A Fate Essence Draft bottles that, which is why it is so hard to make.
+
+Context: Reads alongside the wiki's Plane of Fate, which records bonds, oaths and recognition, and arts already on file that work on probability, such as Raizan Tenrai Moto's doom-reading and Hitsuzen. "Each area" is read as each craft or field.

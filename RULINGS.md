@@ -3905,3 +3905,9 @@ Context: Indexed as R85-5. Grounds: R78-10 says the sustainable level and NATALI
 Agent ruling (Natalie): A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
 
 Context: Indexed as R85-6. Grounds: R78-10, R81-11 and R84-17 fix the Release Stages and that the Second powers the Domain, and they outrank Fracture of Worlds' Catalyst wording, which is kept by reading it as a flicker. This breaks the loop where Stage VII needed a seed only a Stage VII Release could open. Keeps Fracture's two-Stage overwrite and R78-10's read.
+
+## 2026-11-05 — C-171
+
+Agent ruling (Natalie): Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.
+
+Context: Indexed as R85-7. Grounds: R27-1 (one power at two levels, Titan and Wellspring), R82-15 (the Sixty stay fixed) and Fracture Part Thirteen. A cold site is filed as a Titan-touched site. Worked frost arts keep the floors their pages state.

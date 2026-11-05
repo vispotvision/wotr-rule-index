@@ -1,0 +1,75 @@
+{
+  "id": "wotr",
+  "name": "War of the Realms",
+  "version": "1.5.0",
+  "author": "Isaac <237199120+vispotvision@users.noreply.github.com>",
+  "description": "Isaac's desk on the bar: the WOTR rule index (daemons, timers, docket, repo), the WOTR MCP's named keys (which are online, copy a link, enable or disable, open the key dashboard), Quill (words written today, history, writing sprints) and the Minecraft server (players, start/stop, console, logs, backup).",
+  "license": "MIT",
+  "official": false,
+  "tags": [
+    "wotr",
+    "writing",
+    "minecraft",
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "main": "service/Main.qml",
+    "content": "content/Widget.qml",
+    "panel": "content/Panel.qml"
+  },
+  "commands": [
+    "bin/collect.sh",
+    "bin/mcp.sh",
+    "bin/words.sh",
+    "bin/status.sh"
+  ],
+  "files": [],
+  "panel": {
+    "width": 460
+  },
+  "capabilities": {
+    "densities": [
+      "glyph"
+    ],
+    "network": [
+      "127.0.0.1"
+    ]
+  },
+  "hosts": [
+    "topbarGlyph"
+  ],
+  "defaults": {
+    "host": "topbarGlyph",
+    "icon": "swords",
+    "label": "WOTR"
+  },
+  "dependencies": {
+    "commands": [
+      "bash",
+      "python3",
+      "git",
+      "systemctl",
+      "docker",
+      "code",
+      "ghostty",
+      "notify-send",
+      "xdg-open",
+      "curl",
+      "jq",
+      "wl-copy"
+    ]
+  },
+  "metadata": {
+    "settings": [
+      {
+        "key": "dailyGoal",
+        "type": "int",
+        "label": "Quill daily word goal",
+        "group": "Quill",
+        "default": 150000,
+        "min": 100,
+        "max": 500000
+      }
+    ]
+  }
+}

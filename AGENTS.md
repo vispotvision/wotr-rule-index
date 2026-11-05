@@ -46,8 +46,8 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   directly (`rules/doc-*-ruling.yaml`) have `source.file: ""` and quote the
   wiki page or the `RULINGS.md` entry that recorded them; `wotr-mcp validate` accepts
   that and skips the quote-matches-source check for such rows (1,171 rows in 17
-  files on 2026-11-04). It reports a live one whose quote is in neither
-  `RULINGS.md` nor the wiki; the exact wording otherwise rests on your care. `rules/` is the work;
+  files on 2026-11-04). It fails a live one whose quote is in neither
+  `RULINGS.md` nor the wiki, so editing a quoted wiki passage means updating the row. `rules/` is the work;
   `sources/` is untouchable.
 - **The wiki** (`wiki/`, the Obsidian vault and the source since 2026-10-15; Notion
   is retired and frozen, never written) and **the scene

@@ -1,3 +1,4 @@
+# 2026-11-04: R4-H1 and R4-H2 verbatims now quote the RULINGS.md record of what Isaac ratified; the stale Pitch cell is dropped.
 # Pack Four (Revised), Family A structure (# AMENDMENT N + ## Target:).
 # No pack-level pending/originated language anywhere, and a "CLOSED BY THIS
 # PACK" table confirms all three amendments as settled; read as status:live
@@ -1094,13 +1095,12 @@ rules:
       your own initiative) with the arming sword; does not fight the
       armor, reads for the one unarmored inch and puts the point there.
     verbatim: >-
-      Wren Greymane | Blade | Patient under load. Takes the blow on the
-      shield and gives ground rather than trade for it, then closes the
-      half-step he's bought into the one point he's already read —
-      Nachreisen with the arming sword rather than a fresh strike. |
-      Doesn't fight the armor. Reads for the one unarmored inch — old scar
-      tissue, a turned collar, the gap above a gorget — and puts the point
-      there and nowhere else. | Pitch
+      Wren Greymane | Blade | Patient under load. Takes the blow on the shield
+      and gives ground rather than trade for it, then closes the half-step
+      he's bought into the one point he's already read — Nachreisen with the
+      arming sword rather than a fresh strike. | Doesn't fight the armor.
+      Reads for the one unarmored inch — old scar tissue, a turned collar, the
+      gap above a gorget — and puts the point there and nowhere else.
     amends:
       - guide: "character sheet template"
         locus: null
@@ -1137,14 +1137,14 @@ rules:
       the wrist because at fifty-three the wrist goes first; no exchanges,
       one finish.
     verbatim: >-
-      Edward Lambert | Blade | Half-swording up under the jaw into the
-      floor of the mouth and through the palate; turns the point back out
-      of the wound with the hip rather than the wrist, because at
-      fifty-three the wrist is the first thing to go. No exchanges — an
-      exchange is a thing two men can afford, and he can't. | The cross of
-      his own hilt into the bridge of the nose isn't meant to kill; it buys
-      the half-second to put a foot behind the knee and finish it on the
-      ground, once, with no second exchange. | Pitch
+      Edward Lambert | Blade | Half-swording up under the jaw into the floor
+      of the mouth and through the palate; turns the point back out of the
+      wound with the hip rather than the wrist, because at fifty-three the
+      wrist is the first thing to go. No exchanges — an exchange is a thing
+      two men can afford, and he can't. | The cross of his own hilt into the
+      bridge of the nose isn't meant to kill; it buys the half-second to put a
+      foot behind the knee and finish it on the ground, once, with no second
+      exchange.
     amends:
       - guide: "character sheet template"
         locus: null

@@ -1,3 +1,4 @@
+# 2026-11-04: Sinclair Mercer's card was cut on 2026-10-29 (59a9fda6); verbatim now quotes the RULINGS.md entry.
 # Standing ruling, originated: no source document. Isaac ruled directly,
 # 2026-09-12, on a question flagged as an open ruling on Sinclair Mercer's
 # character sheet (wiki/Volume III — Character Cards/Sinclair Mercer · The
@@ -30,12 +31,10 @@ rules:
       rule covering every corrupted practitioner, not a fix scoped to one
       character.
     verbatim: >-
-      Does Obsession satisfy an Attraction Path gate? Yes — Isaac's
-      ruling, 2026-09-12. The values below stand, confirmed rather than
-      conditional. He keeps Silence — the man who is quieter than the
-      background stays exactly that. The ruling is general: Obsession
-      Force satisfies an Attraction Path gate for every corrupted
-      practitioner in the setting, not only him.
+      Obsession/Attraction gate. Yes, Obsession Force satisfies an Attraction
+      Path gate the same way clean Attraction Force does. A setting-wide rule,
+      not just Sinclair Mercer's sheet — every corrupted practitioner in the
+      setting gets the same treatment.
     amends:
       - guide: "The Magic System"
         locus: "Attraction Force / Obsession Force"

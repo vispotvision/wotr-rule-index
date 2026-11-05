@@ -1,3 +1,4 @@
+# 2026-11-04: verbatim now quotes the RULINGS.md entry. The fuller note it used to quote stays in lore/v1/scenes/02_verinus_testament_of_the_sixty_fifth.md.
 # Standing ruling, originated: no source document. Isaac ruled directly,
 # 2026-09-12, on a question flagged as an open ruling in the author notes of
 # three Verinus/Aurelian arc scenes (scenes/02_verinus_testament_of_the_
@@ -48,13 +49,10 @@ rules:
       release valve. Transposition.md says nothing about how an anchor
       bond ends; this rule is silent on ending.
     verbatim: >-
-      Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding
-      Verinus's name at weight, which is the Rubric's own definition of an
-      anchor, fixed by declaration inside the dawn rite ("Do you consent."
-      / "No." / "Entered."), and consent is not the mechanism, the
-      declaration is. It holds under Fixatio, the anchoring law, with no
-      release valve, because it is not a displaceable affinity bond;
-      taking Aurelian here without asking stands as written.
+      The dawn Sacrament-bond (Verinus/Aurelian). Anchored on Aurelian's soul
+      holding Verinus's name at weight — the Rubric's own definition — fixed
+      by declaration inside the rite over his refusal; Fixatio is the gloss
+      for why it holds; no release valve.
     amends:
       - guide: "The Magic System"
         locus: "Transposition / Sacrament anchors"

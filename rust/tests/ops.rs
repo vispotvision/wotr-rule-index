@@ -53,7 +53,7 @@ fn validate_passes_clean_rows_and_names_each_fault() {
 
 /// The 1a33d7c defect: a live row citing a ruling nobody logged, with an empty source.
 #[test]
-fn validate_reports_a_ruling_that_is_on_no_record() {
+fn validate_fails_a_ruling_that_is_on_no_record() {
     let root = scratch("unrecorded");
     index_repo(&root);
     let row = |id: &str, quote: &str| format!("rules:\n- id: {id}\n  pack: P\n  section: s\n  title: t\n  status: live\n  kind: mandate\n  summary: s\n  verbatim: {quote}\n  applies_to: [combat]\n  source: {{file: \"\"}}\n");
@@ -64,8 +64,8 @@ fn validate_reports_a_ruling_that_is_on_no_record() {
     fs::create_dir_all(root.join("wiki/Deep")).unwrap();
     fs::write(root.join("wiki/Deep/Page.md"), "The wiki holds this one.\n").unwrap();
     let (code, out) = run(&root, &["validate"]);
-    assert_eq!(code, Some(0), "report only for now: {out}");
-    assert!(out.contains("unrecorded rulings (1)") && out.contains("R44-7-INVENTED"), "{out}");
+    assert_eq!(code, Some(1), "{out}");
+    assert!(out.contains("FAIL (1)") && out.contains("R44-7-INVENTED"), "{out}");
     assert!(!out.contains("R44-8-LOGGED") && !out.contains("R44-9-WIKI"), "{out}");
     fs::remove_dir_all(&root).unwrap();
 }

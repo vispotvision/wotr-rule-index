@@ -686,7 +686,7 @@ A card's stated Strike Force that sits outside its Stage's Max Grade band stands
 
 A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
 
-> Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite ("Do you consent." / "No." / "Entered."), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.
+> The dawn Sacrament-bond (Verinus/Aurelian). Anchored on Aurelian's soul holding Verinus's name at weight — the Rubric's own definition — fixed by declaration inside the rite over his refusal; Fixatio is the gloss for why it holds; no release valve.
 
 ### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
 
@@ -1024,13 +1024,13 @@ Irony built on a character being stupid is not irony; a POV must apply sound rea
 
 Blade grammar; patient under load, gives ground on the shield rather than trade for it, then closes into Nachreisen (a German longsword-tradition term: "following after" — chasing the opening that appears right after a block or parry, instead of attacking on your own initiative) with the arming sword; does not fight the armor, reads for the one unarmored inch and puts the point there.
 
-> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch
+> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else.
 
 ### R4-H2-EDWARD_LAMBERT_ASSIGNED [Pack Four Still Open]
 
 Blade grammar; half-swording (Halbschwert — gripping partway up his own blade with the off hand for extra leverage and control on a thrust) up under the jaw; turns the point with the hip rather than the wrist because at fifty-three the wrist goes first; no exchanges, one finish.
 
-> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch
+> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange.
 
 ### R3-7-EXPENDITURE_ASSIGNMENT [Pack Three Amendment Seven]
 
@@ -3281,13 +3281,13 @@ An art with a true name may carry a release call (imperative verb plus name); it
 
 Blade grammar; patient under load, gives ground on the shield rather than trade for it, then closes into Nachreisen (a German longsword-tradition term: "following after" — chasing the opening that appears right after a block or parry, instead of attacking on your own initiative) with the arming sword; does not fight the armor, reads for the one unarmored inch and puts the point there.
 
-> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch
+> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else.
 
 ### R4-H2-EDWARD_LAMBERT_ASSIGNED [Pack Four Still Open]
 
 Blade grammar; half-swording (Halbschwert — gripping partway up his own blade with the off hand for extra leverage and control on a thrust) up under the jaw; turns the point with the hip rather than the wrist because at fifty-three the wrist goes first; no exchanges, one finish.
 
-> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch
+> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange.
 
 ### R3-7-EXPENDITURE_GRAMMAR [Pack Three Amendment Seven]
 
@@ -6635,7 +6635,7 @@ Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired
 
 Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.
 
-> Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-grey.
+> Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-gray.
 
 ### R22-4-KUROSETSU_SCABBARD_SURVIVES [Moto Reversion Ledger IV]
 
@@ -9015,7 +9015,7 @@ The Seven Unmoorings and their drivers.
 
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
-> Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+> Obsession/Attraction gate. Yes, Obsession Force satisfies an Attraction Path gate the same way clean Attraction Force does. A setting-wide rule, not just Sinclair Mercer's sheet — every corrupted practitioner in the setting gets the same treatment.
 
 ### R62-6-RESIDUE_THINS_TO_A_FLOOR [Open Conflicts 2026-09-28 C-107]
 
@@ -9051,7 +9051,7 @@ The Sacrament's third Wellspring stays out of the prose until decided.
 
 A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
 
-> Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite ("Do you consent." / "No." / "Entered."), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.
+> The dawn Sacrament-bond (Verinus/Aurelian). Anchored on Aurelian's soul holding Verinus's name at weight — the Rubric's own definition — fixed by declaration inside the rite over his refusal; Fixatio is the gloss for why it holds; no release valve.
 
 ### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
 
@@ -10162,7 +10162,7 @@ No Night Watch file names Malphas: he is filed by his title at his own written r
 
 The Moto get the element bank the Polynesian strike left them without: thirty elements in five categories (crown & seat, metal & line, sky & weather, severance & exile, water & the Works), two-element compounds of two to four syllables, vowel-forward, no clusters. Twenty-six elements are lifted from attested names and the seven Lines; the glosses and the other four are coined. The slot is Given + Line + Moto, the Line named for the six landless Great Lines and omitted for Kōkan. Four flags stay open as ratified.
 
-> Given name + Line name + Moto. The surname is a fixed hereditary fact of the bloodline; the Line sits between given name and surname for the six landless Great Lines — Artemis Amagiri Moto, Souma Byakuya Moto — and is omitted for Kōkan, the line that holds the seat. Two elements, either order, joined plainly; a coda consonant is doubled or dropped by ear, never clustered. The given name states what the line expects or what the child was born into; the Line name says which metal they answer to; Moto says whose they are.
+> Given name + Line name + Moto. The surname is a fixed hereditary fact of the bloodline (§5.1: "the family name is a fixed structural fact"). The Line sits between given name and surname for the six landless Great Lines — Artemis Amagiri Moto, Souma Byakuya Moto — and is omitted for Kōkan, the line that holds the seat, and for a Moto whose Line is not the point of the sentence (Sodoku Moto, Muken Moto, Mizuki Moto).
 
 ### R40-2-CELESTIAL_HOST_NAMING_PASS [Naming Banks 2026-09-13 Celestial Host]
 
@@ -10708,7 +10708,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
 
-> The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
+> The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
 ## pov (169)
 
@@ -11070,7 +11070,7 @@ The POV's own fight in a battle takes full Blow Cards; the mass is told through 
 
 R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
 
-> Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
+> both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
 
 ### R73-6-BED_WORDS_BY_CULTURE [Intimacy Law 2026-10-04 SC1]
 
@@ -12458,7 +12458,7 @@ A working riding a blow interleaves the two cards step by step; on a kill the Ki
 
 R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
 
-> Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
+> both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
 
 ### R23-11-NAME_AVOIDANCE_WAITING [Inner World Naming Amendment XI]
 
@@ -14872,7 +14872,7 @@ The Four Theories surface in scenes through characters who hold and argue them; 
 
 The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
 
-> The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
+> The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
 ## scene-structure (135)
 
@@ -17610,7 +17610,7 @@ The Categories' floors and reservations; Category Four has none.
 
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
-> Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+> Obsession/Attraction gate. Yes, Obsession Force satisfies an Attraction Path gate the same way clean Attraction Force does. A setting-wide rule, not just Sinclair Mercer's sheet — every corrupted practitioner in the setting gets the same treatment.
 
 ### R62-1-MUJIN_24_AT_ASHGATE_38_NOW [Open Conflicts 2026-09-28 C-106]
 
@@ -20089,7 +20089,7 @@ Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired
 
 Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.
 
-> Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-grey.
+> Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-gray.
 
 ### R22-1-HOUSE_STRUCK [Moto Reversion Ledger I]
 

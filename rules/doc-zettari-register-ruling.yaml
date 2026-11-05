@@ -1,3 +1,4 @@
+# 2026-11-04: verbatim follows the wiki page, which has since dropped its example names; they stay listed in the note below.
 # Standing ruling, originated: no source document. Isaac ruled directly,
 # 2026-09-12, closing CONFLICTS.md C-006. The five-strata naming convention
 # (R23-2-JAPONIC_STRATUM, imports/BRIEFS/common.md) assigns "archaic
@@ -36,13 +37,11 @@ rules:
       to govern every other archaic line (Moto, Yukari, Yuno).
     verbatim: >-
       The Zettari speak their own tongue. Their names and their arts are
-      Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind,
-      Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal;
-      Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that
-      register stands. The five-strata naming convention assigns the archaic
-      bloodlines to the Japonic stratum; the Zettari are carved out of it as
-      a register of their own, and the Japonic assignment continues to
-      govern every other archaic line. Ruled by Isaac, 2026-09-12.
+      Swahili, Bantu and Arabic in flavor, and that register stands. The
+      five-strata naming convention assigns the archaic bloodlines to the
+      Japonic stratum; the Zettari are carved out of it as a register of their
+      own, and the Japonic assignment continues to govern every other archaic
+      line. Ruled by Isaac, 2026-09-12.
     amends:
       - guide: "WOTR_Character_Naming_Guide.md"
         locus: "five strata / archaic bloodlines"

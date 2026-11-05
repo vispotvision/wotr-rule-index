@@ -21,6 +21,7 @@
 **Hiromi** · wants: — · refuses: — · last seen: —
   - doing now: on the road to the Cedar Enclave to train with Naiser
   - stands with him: Cozbi Mahuo
+  - role: Son of Saeju Mahuo, carrying her claim to the Vermilion Dynasty by blood; Cozbi Mahuo's nephew and ward, eleven
 **Aldo Brennick** · wants: — · refuses: — · last seen: —
   - doing now: dead in the cedar wood on the Kessen road
   - stands with him: House Stark

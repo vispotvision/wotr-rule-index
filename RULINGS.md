@@ -3743,3 +3743,9 @@ Context: His message came in place of answers to Natalie's item questions, so th
 Isaac, 2026-11-05: "temperance and the way it works is heavily based on that idea anyhow. When you temper you refine your essence and make it stronger and your body gains traits etc." Tempering refines a practitioner's Essence and makes it stronger, and the body gains Traits through it. This is what Essence Drafts made from monster cores are mostly used for. AGENT RULING (Natalie, overturnable): the standing line stays, that a Draft can supply the quantitative floor and has never supplied a Catalyst, so Drafts speed tempering and feed the body's gains, and a Stage is still crossed by what the person lives through.
 
 Context: Answers "Traiting" from his previous message. Bears on The Ladder and the Draft, The Trait System, The Sixteen Stages and The Common Drafts. Whether Traits gained this way differ from a soul's Primary Trait is put to him.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "but traits can be body soul fate" and "Fate = Attraction" and "Fate is both Attracdtion and Osession". Traits come in three kinds, Body, Soul and Fate, and Fate covers both Attraction and Obsession. AGENT RULING (Natalie, overturnable): the three kinds follow the three planes a soul spans, and tempering can gain Traits in any of them. Body and Soul Traits can be fed with Essence Drafts. A Fate Trait is earned only through real bonds, oaths and grudges, because the Plane of Fate records what actually happened between things, so it cannot be bought.
+
+Context: Replaces Natalie's suggestion of a separate class of bought body Traits. Bears on The Trait System and on Fracture of Worlds Parts Thirteen to Fifteen and Twenty.

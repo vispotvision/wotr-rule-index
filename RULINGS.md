@@ -3659,3 +3659,9 @@ Context: Inner World redo. Read "Khavern" as Kharven. Imports/drafts/inner-world
 Isaac, 2026-11-05: "Yan and Ryu are apart of the Dynasty of Sumgol Marrick Corwen are also apart of there ownseperate kingdoms but give them actual names like The Holy Sea of Alabaster same with Sum gol and all the others I need names that sound good". The Yan Hall and House Ryu belong to the Dynasty of Sum-gol. Marrick and Corwen each hold a kingdom of their own (Natalie's reading of the sentence, overturnable). Natalie's realm names on the model of the Holy Sea of Alabaster are in imports/drafts/inner-world-redo/KINGDOMS.md, for him to keep or cut.
 
 Context: Inner World redo.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "Sumgol once used to be the empire / dynasty of the south but it broke upp just so you know the lore on that also call The North The Northern Empire of Whitemere and Kingdom of Khavern is it's capital". The North is the Northern Empire of Whitemere, with the Kingdom of Kharven as its capital. Sum-gol was once the empire and dynasty of the whole South, and it broke up. This replaces Natalie's draft name, the Ashen Empire of Kharven. AGENT RULING (Natalie, overturnable): the break-up is why the South has several powers now; the Yan and Ryu stayed with the Dynasty, while Lambert, Yukari, Corwen and Marrick stand apart.
+
+Context: Inner World redo. Read "Khavern" as Kharven.

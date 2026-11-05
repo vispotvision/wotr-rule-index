@@ -3593,3 +3593,9 @@ Context: The Concordance of Ages, The Four Ceilings, Errata to the Received Regi
 AGENT RULING (Natalie, wiki rewrite, overturnable). Ground and keepers, replacing "cut the main". Salted ground is worked the night before by hedge-workers so Aether will not pool on it; bled ground has been pulled empty by a long fight or a greedy crew. A worked Wellspring site, a Core in common speech, recharges and has keepers, and a keeper with the right seal can close it in under an hour if paid and willing. "Core" now has three senses, stated openly: the street's any worked site, the survey's top density band "Wellspring Core", and the Crystal's Essence Core. Street words for rich and thin ground are fat and lean. Grounds: R83-8, R83-9, and that "someone can refuse". This also fits the Aether vein pitched for Chapter Eighteen, which is still undecided.
 
 Context: Counterplay, Reinforcement, Runes and Tags, the Lexicon, the Working Vocabulary, the Eight Families hub, X. The Tier Ladders.
+
+## 2026-11-05 — new
+
+AGENT RULING (Natalie, wiki rewrite, overturnable). Shared-art names under R82-19, fixed in The Color of Essence Part Six as coat, weight, nose. Guild: Reinforcement, Pressure, Sensing. Common bracket crowds: the shine, the weight, the nose. Kharven: the hide, the low sky, smelling a man's stack. Moto: matoi, atsu, kehai. Dawi: on shift, the load, sounding. Mahuo: gabot, nureum, nunchi. Lineage halls: hùtǐ, wēiyā, shénshí. Also, on the Wellspring entries, new Alchemy and Spirit fields carry R83-9: readings on file are used as they stand, and lines derived from a Wellspring's own law are marked in-world as "the trade's reading" or "the confessors' reading". No Wellspring was added, renamed or removed.
+
+Context: The derived lines are listed in imports/drafts/wiki-rewrite/magic_reports.json, the foundations group. They have not been checked one by one by a second reader.

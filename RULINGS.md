@@ -3935,3 +3935,9 @@ Context: Indexed as R85-10. Grounds: THE TONE and R78-6 (every practitioner a co
 Agent ruling (Natalie): Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
 
 Context: Indexed as R85-11. Grounds: R84-26 (vows are small Fate, anyone's to make, breaking one lands at once), R84-5 (Stages can be bought) and the Sixteen Stages page, whose argument over a purse at the Throne stays an open quarrel in the world. Smaller page-level fixes from the audit are in imports/drafts/magic-audit/.
+
+## 2026-11-05 — new
+
+The idea of wild wellsprings still exist but those are mostly PHYSICAL wellsprings and appear as alchemical transformations and physical phenomena that you shape your inner-essence around. Whilst SPIRITUAL wellsprings are PURELY spiritual and usually have no effect or a lot of influence on the physical world, but have more of spiritual transformations.
+
+Context: Isaac, 2026-11-05, in chat. Indexed as R85-12. "No effect or a lot of influence" is read as no effect or not a lot of influence, since he calls them purely spiritual.

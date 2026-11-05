@@ -38,7 +38,7 @@
     "verbatim": {
       "type": "string",
       "minLength": 20,
-      "description": "Exact text from the source. Whitespace-normalised. Checked by validate.py."
+      "description": "Exact text from the source. Whitespace-normalised. Checked by wotr-mcp validate."
     },
     "amends": {
       "type": ["array", "null"],

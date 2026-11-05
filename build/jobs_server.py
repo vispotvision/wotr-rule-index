@@ -26,7 +26,7 @@ build/.jobs_token (generated on first run; gitignored; never in chat) as
   GET  /status/<job_id>        state, exit code, the tail of its log
   GET  /jobs                   the last runs, newest first
   GET  /digest                 reports/nightly.md as markdown (for n8n to deliver)
-  GET  /book                   build/book_next.py --json (where the book stands)
+  GET  /book                   wotr-mcp book-next --json (where the book stands)
 """
 from __future__ import annotations
 
@@ -62,7 +62,7 @@ JOBS: dict[str, dict] = {
              "what": "the Notion mirror, the index, the Drive documents, commit and push"},
     "backup": {"cmd": ["bash", "build/backup.sh"],
                "what": "zip the canon and the True Canon folder (to Drive when mounted, else WOTR_BACKUP_DIR)"},
-    "checks": {"cmd": [PY, "build/nightly.py"],
+    "checks": {"cmd": ["rust/target/release/wotr-mcp", "nightly"],
                "what": "the nightly numbers only, no Claude, no commit"},
 }
 
@@ -169,7 +169,7 @@ class Handler(BaseHTTPRequestHandler):
                 return self._send(404, {"error": "no digest yet; run the nightly"})
             return self._send(200, p.read_bytes(), "text/markdown")
         if parts == ["book"]:
-            out = subprocess.run([PY, "build/book_next.py", "--json"], cwd=ROOT, capture_output=True,
+            out = subprocess.run(["rust/target/release/wotr-mcp", "book-next", "--json"], cwd=ROOT, capture_output=True,
                                  text=True, encoding="utf-8", env=dict(os.environ, PYTHONIOENCODING="utf-8"))
             try:
                 return self._send(200, json.loads(out.stdout.strip()))

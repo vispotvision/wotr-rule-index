@@ -11,7 +11,7 @@ const REPO = A.repo || '/home/oridon/wotr-rule-index'
 const BOOK = `${REPO}/book/${A.slug}`
 const CH = String(A.chapter).padStart(2, '0')
 const DIR = `${BOOK}/ch${CH}`
-const T = `python build/book_tools.py`   // run from ${REPO}
+const T = `rust/target/release/wotr-mcp tool`   // run from ${REPO}
 const FINDINGS = { type: 'object', properties: { findings: { type: 'array', items: { type: 'object', properties: {
   severity: { type: 'string', enum: ['FAIL', 'WARN'] }, pass: { type: 'string' }, quote: { type: 'string' },
   problem: { type: 'string' }, evidence: { type: 'string' }, fix: { type: 'string' } }, required: ['severity', 'pass', 'quote', 'problem'] } } }, required: ['findings'] }

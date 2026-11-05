@@ -8,6 +8,7 @@ name = "wotr-mcp"
 path = "src/main.rs"
 
 [dependencies]
+chrono = { version = "0.4", default-features = false, features = ["clock"] }
 rmcp = { version = "3.8", features = ["server", "transport-io", "transport-streamable-http-server"] }
 tokio = { version = "1", features = ["rt-multi-thread", "macros", "io-std", "process", "sync", "net", "time"] }
 serde = { version = "1", features = ["derive"] }

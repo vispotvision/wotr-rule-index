@@ -8,7 +8,7 @@ any tool runs from the Rust binary, with JSON arguments:
 ```bash
 rust/target/release/wotr-mcp call load_rules '{"tags":["prose-law","combat","pov"],"brief":true}'
 rust/target/release/wotr-mcp verify draft.md --combat
-~/.venvs/wotr/bin/python build/book_tools.py loadout duel   # the tags for a scene type; no Rust tool yet
+rust/target/release/wotr-mcp tool loadout duel   # the tags for a scene type
 ```
 
 ## Reads (ordinary work)

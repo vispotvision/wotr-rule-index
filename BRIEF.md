@@ -21,7 +21,7 @@ For each source document, one YAML file in `rules/` named `pack-NN-name.yaml`
 (or `doc-<slug>.yaml` for standalone amendments), containing a list of rule
 rows conforming to `schema/rule.schema.json`.
 
-Then `build/resolve.py` produces:
+Then `wotr-mcp resolve` produces:
 - `out/rules.resolved.json` — every rule with supersession links walked
 - `out/rules.live.md` — human-readable, grouped by `applies_to`
 - `out/docket.md` — every row with `status: pending`, which is Isaac's Docket
@@ -54,7 +54,7 @@ explains *why*, skip it. If it says *do* or *never*, extract it.
 ## Fields that matter most
 
 - `verbatim` — exact quoted text from the source, whitespace-normalised. This is
-  the integrity anchor and `validate.py` checks it appears in the file.
+  the integrity anchor and `wotr-mcp validate` checks it appears in the file.
 - `amends` — which base guide and where. Packs One through Four state this
   explicitly in a `## Target:` heading; use it. Later packs usually name targets
   in a "Consequential Edits" section; use that. If a pack names no target, set
@@ -92,7 +92,7 @@ Amendment, Inner World Naming Amendment, Moto Reversion Ledger, the Agamalu and
 Büri origin amendment, and `WOTR_Naming_Guide_Amendment.docx` (convert with
 `pandoc -t plain`, do not guess at its contents).
 
-**Phase 5.** Run `build/resolve.py`. Produce the conflict report. Summarise:
+**Phase 5.** Run `wotr-mcp resolve`. Produce the conflict report. Summarise:
 how many rules total, how many live, how many superseded, how many pending, and
 the ten conflicts you think are most likely to change how a scene gets written.
 

@@ -121,6 +121,10 @@ const LOADOUTS: &[(&str, &[&str])] = &[
     ("standard", &["prose-law", "pov", "scene-structure", "dialogue", "register"]),
 ];
 
+pub(crate) fn loadout_tags(scene_type: &str) -> &'static [&'static str] {
+    LOADOUTS.iter().find(|(k, _)| *k == scene_type).unwrap_or(&LOADOUTS[6]).1
+}
+
 pub fn scene_brief(beat: &str, thread: &str, scene_type: &str, characters: &[String]) -> Result<String, String> {
     let tags: Vec<String> = LOADOUTS.iter().find(|(k, _)| *k == scene_type).unwrap_or(&LOADOUTS[6]).1.iter().map(|s| s.to_string()).collect();
     let (live, _, _) = rules::select(&tags, &["live".into()])?;

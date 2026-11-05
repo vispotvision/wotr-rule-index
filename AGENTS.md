@@ -44,7 +44,7 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   standalone amendments as one YAML row each under `rules/`, `verbatim` quoted
   from `sources/` (read-only canon), each with a `status`. Rulings Isaac made
   directly (`rules/doc-*-ruling.yaml`) have `source.file: ""` and quote the
-  wiki page or the `RULINGS.md` entry that recorded them; `validate.py` accepts
+  wiki page or the `RULINGS.md` entry that recorded them; `wotr-mcp validate` accepts
   that and skips the quote-matches-source check for such rows (33 rows in 17
   files), so those quotes rest on your care alone. `rules/` is the work;
   `sources/` is untouchable.
@@ -83,14 +83,14 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   **The check after a change:** `cargo test --release --bins --tests` in `rust/`. The
   `rust/*_parity.py` harnesses compare Rust against the old Python tools, so a Rust-only fix
   shows there as an expected difference: read the diff, and don't port the fix back.
-- **Not ported yet, still Python: run it, don't extend it.** The index tools (`validate.py`,
-  `resolve.py`, `query.py`); the automation (`build/sync.sh` with `embed_index.py`,
-  `nightly.py`, `backup.py`, `book_next.py`, `jobs_server.py`); the site builders
-  (`site_*.py`); `book_tools.py`, which the nightly's headless Claude uses; the Discord bot
-  (`bot/`) and the Workshop (`app/`), which import `build/mcp_server.py`, so that file stays
-  in place for them; `natalie_hook.py`, which runs `build/verify.py` and so misses Rust-only
-  verify fixes; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen`
-  runs. Research also calls external CLIs (Agent Reach, agent-browser).
+  The rule index gate (`wotr-mcp validate`, `resolve`) and the machine's jobs (`wotr-mcp backup`,
+  `nightly`, `book-next`, `hook`, and `tool NAME args`, the positional command line for the book
+  pipeline's agents) run here too.
+- **Not ported yet, still Python: run it, don't extend it.** `build/sync.sh` with `embed_index.py`;
+  `jobs_server.py` and `writers_room.py`; the site builders (`site_*.py`); the Discord bot (`bot/`)
+  and the Workshop (`app/`), which import `build/mcp_server.py`, so that file stays in place for
+  them; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
+  Research also calls external CLIs (Agent Reach, agent-browser).
 - **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
   dispatcher, Sunday backup, the Discord bot, a job runner n8n calls, a public
   read-only MCP behind a shared secret. All systemd user units (below).
@@ -129,7 +129,7 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
 sources/      the amendment corpus. READ-ONLY. never edit, reformat or rename.
 rules/        one YAML per pack, standalone document or standing ruling — the index
 schema/       rule.schema.json, applies_to.md (the closed tag vocabulary), pack notes
-out/          build/resolve.py output: rules.resolved.json, rules.live.md, rules.live.full.md, docket.md
+out/          wotr-mcp resolve output: rules.resolved.json, rules.live.md, rules.live.full.md, docket.md
 wiki/         the wiki, an Obsidian vault (the source); .manifest.json flags private pages;
               wiki/Assets/Diagrams = the SVG art. Public pages build to the site (below)
 site/         the public site: quartz.config.yaml, custom.scss, landing.html, assets/ (paintings)
@@ -152,7 +152,7 @@ desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md �
               wotr-npc, wotr-phenomenon, wotr-wound, wotr-stat-line, wotr-ledger, wotr-name,
               wotr-technique, wotr-lookup, wotr-start; wotr-book drives the book pipeline; the MCP
               serves them all through skill() and as prompts); Workflow scripts (book-chapter.js, judger-assist.js)
-              — the Workflow scripts run only in Claude Code; other agents use book_tools.py
+              — the Workflow scripts run only in Claude Code; other agents use wotr-mcp tool
 .mcp.json     registers WOTR MCP for Claude Code sessions here (the Rust binary)
 rust/         the WOTR MCP and all new code: src/, tests/, tools.json, *_parity.py
 CLAUDE.md CONTINUE.md ROADMAP.md CONFLICTS.md RULINGS.md PROGRESS.md BRIEF.md README.md
@@ -168,8 +168,7 @@ what lived outside it on Windows is in the private `~/wotr-vault`
 (`true-canon/` = the base craft guides and their dated editions).
 
 - **One interpreter, for the Python not yet ported:** `~/.venvs/wotr/bin/python` (3.14). `python` in this
-  file means that one; the system `python` has none of the packages (and
-  `validate.py`'s own error would tell you to pip-install into it — don't).
+  file means that one; the system `python` has none of the packages.
   Safest form: `bash build/py.sh build/<tool>.py …` (sources the config, runs
   the venv). `. build/env.sh` also puts it first on `PATH` but exports the
   secrets into your shell — use `py.sh` when you don't need them.
@@ -221,10 +220,10 @@ what lived outside it on Windows is in the private `~/wotr-vault`
 
 ```bash
 # the index — the validation gate must PASS before any pack is "done"
-python build/validate.py
-python build/resolve.py                     # regenerates out/
-python build/query.py --applies-to combat adjudication --format full
-python build/query.py --id R15-2-ONE_TEST --format full
+rust/target/release/wotr-mcp validate
+rust/target/release/wotr-mcp resolve                     # regenerates out/
+rust/target/release/wotr-mcp call load_rules '{"tags":["combat","adjudication"]}'
+rust/target/release/wotr-mcp call rule '{"id":"R15-2-ONE_TEST"}'
 
 # any tool without an MCP client, JSON arguments; plain text search is grep over rules/ or out/rules.live.full.md
 rust/target/release/wotr-mcp call session_start '{"thread":"Sodoku Moto","scene_type":"duel","culture":"Kharven"}'
@@ -233,8 +232,8 @@ rust/target/release/wotr-mcp call character '{"name":"Amelia Greymane"}'
 rust/target/release/wotr-mcp call due '{"culture":"Kharven"}'
 rust/target/release/wotr-mcp call scene_context '{"draft":"the text of a draft or a beat"}'   # the lorebook
 rust/target/release/wotr-mcp verify draft.md --combat
-python build/book_tools.py loadout duel                # the tags for a scene type (no Rust tool for this yet)
-python build/book_next.py --json                      # where the book stands (read-only)
+rust/target/release/wotr-mcp tool loadout duel                # the tags for a scene type
+rust/target/release/wotr-mcp book-next --json                      # where the book stands (read-only)
 
 # these do the real thing — sync commits and pushes the wiki, nightly runs headless
 # Claude and commits, book_dispatch pulls --rebase --autostash even with --dry-run,
@@ -242,12 +241,12 @@ python build/book_next.py --json                      # where the book stands (r
 bash build/sync.sh   bash build/nightly.sh   bash build/book_dispatch.sh [--dry-run]   bash build/backup.sh
 
 # Isaac's decisions — run only on his word
-python build/book_next.py --approve 1              # or --reject 1 --note "..."
+rust/target/release/wotr-mcp book-next --approve 1              # or --reject 1 --note "..."
 python build/judger_apply.py <scene-slug>          # list proposals; then P01 P03 ... to apply the ids he names
 
 # the MCP itself
 (cd rust && cargo build --release)        # build the Rust MCP; .mcp.json runs rust/target/release/wotr-mcp --ops
-rust/target/release/wotr-mcp verify draft.md --combat   # verify.py's command line, in Rust
+rust/target/release/wotr-mcp verify draft.md --combat
 (cd rust && cargo test --release --bins --tests)   # the check after a change; must pass
 bash build/py.sh rust/parity.py           # Rust vs the old Python; a Rust-only fix shows as an expected difference
 rust/target/release/wotr-mcp http        # the public route + key dashboard, what the unit runs
@@ -300,8 +299,8 @@ each tag means is `schema/applies_to.md`.
    `build/judger_apply.py` with the ids he names. `propose_rule` files a
    proposal for a later pack and is ordinary work when he has asked for one.
 6. A ruling made in play goes to `RULINGS.md` and is applied to `rules/*.yaml`
-   later, in an index session, one commit per ruling batch, then `validate.py`
-   and `resolve.py`. Never edit `rules/` from a prose session.
+   later, in an index session, one commit per ruling batch, then `wotr-mcp validate`
+   and `wotr-mcp resolve`. Never edit `rules/` from a prose session.
 
 Stats, items and techniques come from ratified tables (the wiki's Living
 System pages, `RULINGS.md`), never invented; an ambiguous source means `null`
@@ -341,9 +340,9 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
   rewritten as "folder instructions".
 - **Natalie in Claude Code** is the clone at `~/wotr-natalie` opened in the
   app's Code tab. Its `.natalie` marker (gitignored) turns on the two hooks in
-  `.claude/settings.json` (`build/natalie_hook.py`): SessionStart pulls, then
-  puts NATALIE.md and the brief prose-law loadout in context; Stop runs
-  `verify.py` on every reply over 120 words and blocks it with the FAIL list
+  `.claude/settings.json` (`wotr-mcp hook`): SessionStart pulls, then
+  puts NATALIE.md in context; Stop runs
+  the Rust verify on every reply over 120 words and blocks it with the FAIL list
   until it is fixed. The coding checkout has no marker, so the hooks exit at
   once here. This is the one surface where the rules are enforced rather than
   requested; the Desktop project (`desktop/PROJECT_INSTRUCTIONS.md`) still
@@ -356,6 +355,6 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
   qwen-fast,supertonic,cosy}`, Kokoro's files in `build/models/`, the
   reference clips in `build/voices/refs/`); the freeze is on new voice work,
   not on rendering a scene with what stands.
-- **End of session:** `validate.py` → `resolve.py` → commit → push → tick
+- **End of session:** `wotr-mcp validate` → `wotr-mcp resolve` → commit → push → tick
   `ROADMAP.md` (and `PROGRESS.md` after a pack) → append a dated block at the
   top of `CONTINUE.md`; never rewrite an older block.

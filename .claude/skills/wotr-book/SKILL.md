@@ -18,7 +18,7 @@ The pieces:
 | `book/<slug>/ISSUES.md` | faults that recur across chapters (§4). Every brief carries the open ones |
 | `book/<slug>/DIGEST.md` | one careful reading per final chapter, for the audits (§5) |
 | `.claude/workflows/book-chapter.js` | one chapter: foundation (optional), brief, draft, 10 checks, up to 3 revise rounds, gate digest. Writes under `book/` only, never commits |
-| `build/book_next.py` | what comes next, and the gate record (`gates.json`, `GATES.md`). Gates: chapters 1-3, then every fifth (8, 13, ...), and the last. An undecided written gate blocks everything after it |
+| `wotr-mcp book-next` | what comes next, and the gate record (`gates.json`, `GATES.md`). Gates: chapters 1-3, then every fifth (8, 13, ...), and the last. An undecided written gate blocks everything after it |
 | `wotr-book.timer` | **disabled** since 2026-10-17 (R79-12): chapters run when Isaac asks. `build/book_dispatch.sh` still exists for a manual run; an old `book/<slug>/DISPATCH.md` is history |
 
 Standing: `sources/`, `rules/`, `wiki/`, `table/` are not this skill's to
@@ -32,7 +32,7 @@ book's files, one chapter's decision per commit, after
 ## First: where is it
 
 ```bash
-~/.venvs/wotr/bin/python build/book_next.py --json            # add --slug <slug> for a second book
+rust/target/release/wotr-mcp book-next --json            # add --slug <slug> for a second book
 cat book/<slug>/GATES.md book/<slug>/DISPATCH.md 2>/dev/null
 systemctl --user is-active wotr-book.service                 # "active" = the dispatcher is mid-chapter; touch nothing under book/<slug>
 ```
@@ -82,7 +82,7 @@ and the one-line fix; beat delivered or not;
 hooks planted/paid; the Front ticked; what he is deciding. Offer the prose
 itself if he wants to read it here. Then his call, one of four:
 
-- **Approve**: `book_next.py --approve N --note "..."` on his word, then §4.
+- **Approve**: `wotr-mcp book-next --approve N --note "..."` on his word, then §4.
 - **Instruct** (a prose note: "fix the ears line", "Yoko speaks less"): a
   revise-only pass here, under the reviser's frozen rules from
   `book-chapter.js` (same POV, events, order, ending unless named; no new
@@ -94,13 +94,13 @@ itself if he wants to read it here. Then his call, one of four:
   `GATE.md`, and put it back in front of him. Still his gate.
 - **Re-brief** (the beat was wrong: "the clerk asks the king, not the
   Bench"): edit that chapter's row in `outline.json` (beat, cast, place,
-  plants/pays), show him the diff, then `book_next.py --reject N --note "..."`
+  plants/pays), show him the diff, then `wotr-mcp book-next --reject N --note "..."`
   on his word. The next run rewrites from the new row. If he says the beat is
   wrong but not what is right, offer two or three replacement beats that are
   truly different choices, each with what it costs downstream (hooks moved,
   the Front tick, what the next chapter must now do), and let him pick. Do not
   recommend one.
-- **Drop**: `book_next.py --drop N --note "..."` on his word; the outline row
+- **Drop**: `wotr-mcp book-next --drop N --note "..."` on his word; the outline row
   stays, the dispatcher moves past it. Say which hooks that chapter carried,
   so he can move them.
 

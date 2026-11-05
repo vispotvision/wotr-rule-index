@@ -5,7 +5,7 @@
 # Play, retired 2026-10-17), refreshes the search index. The push rebuilds the public site.
 # The Drive step is gone (R79-12). It alerts only on a push failure: that is the one line
 # with "push failed" in build/sync.log and the one non-zero exit; every other step logs
-# "error" and carries on (build/nightly.py counts the "push failed" lines).
+# "error" and carries on (wotr-mcp nightly counts the "push failed" lines).
 #
 #   bash build/sync.sh
 #

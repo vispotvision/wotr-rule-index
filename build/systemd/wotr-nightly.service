@@ -1,7 +1,7 @@
 # wotr-nightly.service — was the scheduled task "WOTR nightly" (daily 03:30,
 # ExecutionTimeLimit two hours).
 #
-# The nightly checks: build/nightly.py (validate, resolve, the audits, the Büri sweep,
+# The nightly checks: wotr-mcp nightly (validate, resolve, the audits, the Büri sweep,
 # the diff against last night -> reports/nightly.md), then Claude Code on the
 # subscription writes the "Overnight" note at the top, then the digest and the audit
 # reports are committed and pushed. build/nightly.sh does the work; wotr-nightly.timer
@@ -11,7 +11,7 @@
 # mirrors the Windows task's ExecutionTimeLimit): when it fires, claude is killed, the
 # script logs it and still commits the numbers. TimeoutStartSec below is only the
 # backstop, and it is longer on purpose — the unit's clock starts before the pull and
-# nightly.py, so an equal limit would have systemd kill the whole cgroup (script
+# wotr-mcp nightly, so an equal limit would have systemd kill the whole cgroup (script
 # included) just before the script's timeout, and nothing would be logged or committed.
 # WOTR_NIGHTLY_NO_CLAUDE=1 in ~/.config/wotr/env runs the numbers only.
 #

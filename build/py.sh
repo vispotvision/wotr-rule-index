@@ -2,7 +2,7 @@
 # Run a WOTR tool in the project's interpreter, from the repo, with the env loaded.
 #
 #   bash build/py.sh build/jobs_server.py --port 8799 --log build/.jobs_server.log
-#   bash build/py.sh build/validate.py
+#   rust/target/release/wotr-mcp validate
 #
 # The long-running systemd units (wotr-jobs, wotr-mcp-public) go through this because
 # ExecStart= cannot take a variable as the executable (was: the logon tasks named the

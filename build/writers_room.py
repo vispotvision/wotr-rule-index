@@ -116,7 +116,7 @@ def source_text(path):
 
 
 def book_tool(*args):
-    r = subprocess.run([sys.executable, str(ROOT / "build/book_tools.py"), *args],
+    r = subprocess.run([str(ROOT / "rust/target/release/wotr-mcp"), "tool", *args],
                        cwd=ROOT, text=True, capture_output=True, timeout=120)
     if r.returncode:
         raise ValueError(f"Canon lookup failed: {args[0]} (exit {r.returncode})")

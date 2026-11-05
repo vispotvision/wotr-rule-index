@@ -31,7 +31,7 @@ cards, `verify_scene` after — never from memory of "how WOTR works".
 ## The connectors — what Cowork has that Claude Code does not
 
 The repo's own paths win. The `WOTR MCP` tools (`AGENTS.md` lists them; the
-read-only ones are also `python build/book_tools.py <tool>`) already read Notion,
+read-only ones are also `rust/target/release/wotr-mcp tool <tool>`) already read Notion,
 Trello and the archive the way the repo expects; reach for a raw connector only
 for what no tool covers.
 
@@ -45,7 +45,7 @@ for what no tool covers.
   in `wiki/.manifest.json` stay private: never copied, exported or quoted onto
   a public page.
 - **Google Drive** is the export shelf and the backup target when it is
-  mounted (`WOTR_DRIVE`; `build/docs_export.py`, `build/backup.py`). Nothing
+  mounted (`WOTR_DRIVE`; `build/docs_export.py`, `wotr-mcp backup`). Nothing
   private goes there, no wiki or scene dumps outside those scripts, and the
   base craft guides (`~/wotr-vault/true-canon`) are never overwritten — a
   change is a new dated edition beside the original, with a changelog.
@@ -59,8 +59,8 @@ for what no tool covers.
 
 - `sources/` is read-only. `verbatim` is exact source text. Conflicts are
   recorded in `CONFLICTS.md`, never resolved. Nothing invented. The gate is
-  `python build/validate.py` exiting 0 — `python` meaning the venv,
-  `bash build/py.sh build/validate.py` in the safest form.
+  `rust/target/release/wotr-mcp validate` exiting 0 — `python` meaning the venv,
+  `rust/target/release/wotr-mcp validate` in the safest form.
 - Secrets: never in this window, never printed, never written for him. He fills
   `~/.config/wotr/env` with `bash build/secrets.sh` in a terminal. The `/t/…`
   MCP URL and the two token files are never posted or committed. Anything

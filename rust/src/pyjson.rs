@@ -374,3 +374,65 @@ mod tests {
         assert_eq!(dumps_indent(&serde_json::json!([{"a": "é\u{7f}", "b": [], "c": 3}]), 1), "[\n {\n  \"a\": \"\\u00e9\\u007f\",\n  \"b\": [],\n  \"c\": 3\n }\n]");
     }
 }
+
+/// json.dumps(v, ensure_ascii=False, indent=indent): the characters as written, only JSON's own
+/// escapes; `None` gives the ", " and ": " separators and no newlines.
+pub fn dumps_unicode(v: &Value, indent: Option<usize>) -> String {
+    fn string(t: &str, out: &mut String) {
+        out.push('"');
+        for c in t.chars() {
+            match c {
+                '"' => out.push_str("\\\""),
+                '\\' => out.push_str("\\\\"),
+                '\n' => out.push_str("\\n"),
+                '\r' => out.push_str("\\r"),
+                '\t' => out.push_str("\\t"),
+                '\u{8}' => out.push_str("\\b"),
+                '\u{c}' => out.push_str("\\f"),
+                c if (c as u32) < 0x20 => out.push_str(&format!("\\u{:04x}", c as u32)),
+                c => out.push(c),
+            }
+        }
+        out.push('"');
+    }
+    fn go(v: &Value, indent: Option<usize>, level: usize, out: &mut String) {
+        let pad = |l: usize, out: &mut String| {
+            if let Some(n) = indent {
+                out.push('\n');
+                out.push_str(&" ".repeat(n * l));
+            }
+        };
+        let sep = if indent.is_some() { "," } else { ", " };
+        match v {
+            Value::Array(a) if !a.is_empty() => {
+                out.push('[');
+                for (i, x) in a.iter().enumerate() {
+                    out.push_str(if i > 0 { sep } else { "" });
+                    pad(level + 1, out);
+                    go(x, indent, level + 1, out);
+                }
+                pad(level, out);
+                out.push(']');
+            }
+            Value::Object(o) if !o.is_empty() => {
+                out.push('{');
+                for (i, (k, x)) in o.iter().enumerate() {
+                    out.push_str(if i > 0 { sep } else { "" });
+                    pad(level + 1, out);
+                    string(k, out);
+                    out.push_str(": ");
+                    go(x, indent, level + 1, out);
+                }
+                pad(level, out);
+                out.push('}');
+            }
+            Value::Array(_) => out.push_str("[]"),
+            Value::Object(_) => out.push_str("{}"),
+            Value::String(t) => string(t, out),
+            o => out.push_str(&o.to_string()),
+        }
+    }
+    let mut out = String::new();
+    go(v, indent, 0, &mut out);
+    out
+}

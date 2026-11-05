@@ -226,6 +226,6 @@ except, if needed, moving pure helpers the bot shares into `common.py`.
 
 ## 10. Order of work
 
-F0 → F1 → F2 → F3, one phase per PR, `python build/validate.py` green before
+F0 → F1 → F2 → F3, one phase per PR, `rust/target/release/wotr-mcp validate` green before
 each is called done (the bot does not touch the index, but the gate stands),
 and a ROADMAP Phase F line checked per phase.

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # The book dispatcher: one chapter a night, while Isaac sleeps.
 #
-# build/book_next.py says what the book needs (write the next chapter, or stop because a
+# wotr-mcp book-next says what the book needs (write the next chapter, or stop because a
 # gate chapter is written and undecided). If a chapter is due, Claude Code runs headless
 # on the subscription (build/book_dispatch_prompt.md) and invokes the book-chapter
 # workflow, which does the real work: brief -> draft -> ten check passes -> bounded
@@ -77,17 +77,8 @@ commit_book() {   # $1: the commit subject
     return 0
 }
 
-# what the book needs: action / chapter / why, out of book_next.py's JSON. Parsed by
-# python, never by grep — the `why` carries em dashes, quotes and whatever Isaac put in
-# a --note.
-raw="$("$WOTR_PYTHON" build/book_next.py --slug "$slug" --json 2>&1)"
-next="$(printf '%s' "$raw" | "$WOTR_PYTHON" -c '
-import json, sys
-d = json.load(sys.stdin)
-print(d["action"])
-print("" if d.get("chapter") is None else d["chapter"])
-print(str(d["why"]).replace("\n", " "))
-' 2>/dev/null)" || { wotr_log "book_next.py said: $raw"; exit 1; }
+# what the book needs: action, chapter and why, one to a line.
+next="$(rust/target/release/wotr-mcp book-next --slug "$slug" --lines 2>&1)" || { wotr_log "book-next said: $next"; exit 1; }
 { IFS= read -r action; IFS= read -r chapter; IFS= read -r why; } <<< "$next"
 wotr_log "  next: $action — $why"
 
@@ -120,14 +111,12 @@ t0=$(date +%s)
 # The prompt goes in on stdin, never as an argument: the old shell stripped the quotes
 # out of a native exe's arguments before claude ever saw them, and the script inside
 # the prompt stopped parsing. The contract stayed.
-# The "python" inside the Bash tool strings is the venv's: env.sh put its bin/ first on
-# PATH, so the headless claude's `python build/book_tools.py` is $WOTR_PYTHON.
 # No MCP servers: the book-chapter workflow reaches the read-only tools through
-# build/book_tools.py on the command line, and the repo's .mcp.json would otherwise
+# wotr-mcp tool on the command line, and the repo's .mcp.json would otherwise
 # start the wotr server (45 tools, unapproved) on every run.
 res="$(timeout 5h "$WOTR_CLAUDE" -p --max-turns 120 --permission-mode acceptEdits \
     --strict-mcp-config --mcp-config '{"mcpServers":{}}' \
-    --allowedTools "Workflow" "Read" "Write" "Edit" "Glob" "Grep" "TaskOutput" "Bash(python build/book_tools.py:*)" "Bash(python build/book_next.py:*)" \
+    --allowedTools "Workflow" "Read" "Write" "Edit" "Glob" "Grep" "TaskOutput" "Bash(rust/target/release/wotr-mcp tool:*)" "Bash(rust/target/release/wotr-mcp book-next:*)" \
     < build/book_dispatch_prompt.md 2>&1 9>&-)"
 code=$?
 mins=$(( ($(date +%s) - t0) / 60 ))
@@ -136,6 +125,6 @@ tail="$(printf '%s\n' "$res" | tail -n 3 | paste -sd ' ' -)"
 wotr_log "  claude done in $mins min: ${tail:0:400}"
 
 # refresh GATES.md from whatever is on disk now, then commit the chapter
-while IFS= read -r ln; do wotr_log "  $ln"; done < <("$WOTR_PYTHON" build/book_next.py --slug "$slug" 2>&1)
+while IFS= read -r ln; do wotr_log "  $ln"; done < <(rust/target/release/wotr-mcp book-next --slug "$slug" 2>&1)
 if [ -z "$(git status --porcelain -- book)" ]; then wotr_log "nothing new under book/; done"; exit 0; fi
 commit_book "Book $slug: chapter $chapter drafted overnight"

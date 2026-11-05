@@ -47,11 +47,11 @@ prompt — nothing in it executes arbitrary text.
 | `GET /status/<job_id>` | state, exit code, the tail of its log |
 | `GET /jobs` | the last twenty runs |
 | `GET /digest` | `reports/nightly.md`, as markdown |
-| `GET /book` | where the book stands (`build/book_next.py --json`) |
+| `GET /book` | where the book stands (`wotr-mcp book-next --json`) |
 
 Jobs: `nightly` (`bash build/nightly.sh`), `book` (`bash build/book_dispatch.sh`),
 `book_dry` (the same with `--dry-run`), `sync` (`bash build/sync.sh`), `backup`
-(`bash build/backup.sh`), `checks` (`build/nightly.py` alone: the numbers, no
+(`bash build/backup.sh`), `checks` (`wotr-mcp nightly` alone: the numbers, no
 Claude, no commit).
 
 Every request but `/health` carries the shared secret from `build/.jobs_token` as the
@@ -92,7 +92,7 @@ back for any morning Docker is down.
 
 - **The book, with the gate in the loop.** n8n POSTs `/run/book` at 02:00, then reads
   `/book`; when the answer is `blocked` it sends the gate digest to Discord with two
-  buttons, and the reply drives `python build/book_next.py --approve N`. That makes the
+  buttons, and the reply drives `rust/target/release/wotr-mcp book-next --approve N`. That makes the
   approval something you do from your phone rather than at this desk.
 - **Ollama for the cheap mechanical passes.** `127.0.0.1:11434` once `ollama-rocm` is
   installed on this machine (the compose already sets `OLLAMA_HOST` to it). Speaker-tagging

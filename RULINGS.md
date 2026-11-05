@@ -3581,3 +3581,9 @@ Context: Natalie, 2026-11-05, rules pass after the questionnaire.
 AGENT RULING (Natalie, wiki rewrite, overturnable). The Concordance of Ages now dates Malakar's split about 740 IC and treats the IC count up to then as the Grand World. The Long Reading's split is read as a first blow on the white shelf about 310 IC, which the Moto registers call the split; the Refusal and the Stay fall there, the Long Diminishment follows, and the Recension stays two to four generations before Muken. Kharven-Seat already stands before Muken, who takes its crown and does not build it. Grounds: R83-2, R83-3, Isaac's order of Muken and the split, and the book's opening. The Long Reading, The Moto Bloodline, The Moto Origin, the Kharven page and Sohai are still to be revised to this.
 
 Context: First section of the R83-13 wiki rewrite. CONFLICTS.md C-164 carries the same text.
+
+## 2026-11-05 — new
+
+AGENT RULING (Natalie, wiki rewrite, overturnable). The Dark Ages chronology. The IC count does not move. The Dark Ages run 690 to 800 IC, taking the old Imperial Age slot inside the Withering Era. The wiki's present stays 715 IC, now the twenty-fifth year of the Dark Ages, and Arc One opens about then, running to the split about 740 IC. Arcs Two and Three run from the split to 800 IC with no stated boundary. The Imperial Age opens at the turn, 800 IC, moved from 690 IC. "The Nth year of the Imperial Age" stamps read as the Nth year of the Dark Ages. "Dark Ages" is a street name from an invented event, the Black Noon, entered by the Guild under protest. The Sixth Ceiling's Traction date is gone and that ceiling has not fallen. Grounds: R83-2, R83-4; keeping the count costs the least and contradicts no archived scene; 800 is the only turn of a century most of the cast can reach from 715.
+
+Context: The Concordance of Ages, The Four Ceilings, Errata to the Received Registers. Implied, on no page: Muken about sixteen at Chapter One, about forty-one at the split.

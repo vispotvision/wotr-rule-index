@@ -3671,3 +3671,9 @@ Context: Inner World redo. Read "Khavern" as Kharven.
 Isaac, 2026-11-05: "Muken does thatsd old Lore". Muken builds the Northern Empire of Whitemere. The account in lore/v1/scenes/the_revolution_of_the_inner_world.md, where Sodoku founds it, is old lore. Also from Isaac the same night: "whitemere is moto thing alabaster is fine for the holy sea", both names kept.
 
 Context: Inner World redo. Muken is about 16 at 715 IC on the Concordance's dates, so the empire is built during Arc One.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "lets add a few more not ashkaru just 4 more kingdoms for the center of the continent along with there house's The Centeral Inner World Warlords they aren't as well known as the South or the North". Also: "Holy Sea of Alabaster obviously being Alabaster itself", so the city of Alabaster is its capital. Natalie's four Central Warlord realms and every realm's major cities are in imports/drafts/inner-world-redo/KINGDOMS.md, for him to keep or cut. AGENT RULING (Natalie, overturnable): the Beastkin kingdom he had left open is one of the four.
+
+Context: Inner World redo.

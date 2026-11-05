@@ -3911,3 +3911,9 @@ Context: Indexed as R85-6. Grounds: R78-10, R81-11 and R84-17 fix the Release St
 Agent ruling (Natalie): Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.
 
 Context: Indexed as R85-7. Grounds: R27-1 (one power at two levels, Titan and Wellspring), R82-15 (the Sixty stay fixed) and Fracture Part Thirteen. A cold site is filed as a Titan-touched site. Worked frost arts keep the floors their pages state.
+
+## 2026-11-05 — C-172
+
+Agent ruling (Natalie): Every Wellspring's Spirit line carries Fracture of Worlds' "Temperance through" name, with the confessors' reading kept beside it.
+
+Context: Indexed as R85-8. Grounds: Fracture of Worlds outranks wiki pages in the canon hierarchy and names all sixty, against the Hub's claim that it does not; the thirty replaced readings had no ruling. Nothing written is lost.
